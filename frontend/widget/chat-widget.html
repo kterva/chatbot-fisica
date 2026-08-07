@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>fisica-chat (demo local)</title>
+  <link rel="stylesheet" href="chat-widget.css" />
+</head>
+<body>
+  <div id="fisica-chat-widget" class="fisica-chat-widget">
+    <div class="fisica-chat-header">Asistente de Física</div>
+    <div id="fisica-chat-messages" class="fisica-chat-messages"></div>
+    <form id="fisica-chat-form" class="fisica-chat-form">
+      <textarea
+        id="fisica-chat-input"
+        class="fisica-chat-input"
+        placeholder="Escribe tu pregunta de Física..."
+        maxlength="500"
+        rows="2"
+        required
+      ></textarea>
+      <button type="submit" id="fisica-chat-submit" class="fisica-chat-submit">Enviar</button>
+    </form>
+  </div>
+
+  <script src="chat-widget.js"></script>
+</body>
+</html>

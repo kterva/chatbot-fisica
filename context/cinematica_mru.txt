@@ -1,0 +1,32 @@
+Tema: Cinemática - Movimiento Rectilíneo Uniforme (MRU)
+
+El Movimiento Rectilíneo Uniforme (MRU) es aquel en el que un cuerpo se desplaza en línea
+recta con velocidad constante, es decir, recorre distancias iguales en intervalos de
+tiempo iguales. En el MRU la aceleración es nula (a = 0).
+
+Ecuación fundamental:
+x = x0 + v * t
+
+Donde:
+- x: posición final (metros, m)
+- x0: posición inicial (metros, m)
+- v: velocidad (metros por segundo, m/s), constante
+- t: tiempo transcurrido (segundos, s)
+
+La velocidad media se define como el cociente entre el desplazamiento y el tiempo
+empleado:
+v = (x - x0) / t
+
+En un gráfico posición-tiempo (x-t), el MRU se representa mediante una línea recta cuya
+pendiente es igual a la velocidad. En un gráfico velocidad-tiempo (v-t), el MRU se
+representa mediante una línea horizontal, y el área bajo la curva corresponde al
+desplazamiento total.
+
+Ejemplo resuelto:
+Un automóvil viaja a una velocidad constante de 20 m/s. ¿Qué distancia recorre en 15 s?
+
+Datos: v = 20 m/s, t = 15 s
+Incógnita: distancia recorrida (Δx)
+Principio físico: ecuación del MRU, x = x0 + v * t, con x0 = 0
+Desarrollo: Δx = v * t = 20 m/s * 15 s = 300 m
+Conclusión: el automóvil recorre 300 metros en 15 segundos.

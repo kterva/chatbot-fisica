@@ -1,0 +1,68 @@
+// Widget de chat mínimo. Solo habla con el backend propio (API_URL); nunca con el
+// proveedor LLM directamente y nunca maneja API keys.
+(function () {
+  "use strict";
+
+  // Al integrar en WordPress, ajustar a la URL pública del backend.
+  const API_URL = "http://localhost:8000/api/chat";
+
+  const messagesEl = document.getElementById("fisica-chat-messages");
+  const formEl = document.getElementById("fisica-chat-form");
+  const inputEl = document.getElementById("fisica-chat-input");
+  const submitEl = document.getElementById("fisica-chat-submit");
+
+  function appendMessage(role, text) {
+    const messageEl = document.createElement("div");
+    messageEl.className = "fisica-chat-message fisica-chat-message--" + role;
+    messageEl.textContent = text; // textContent evita inyección de HTML/XSS
+    messagesEl.appendChild(messageEl);
+    messagesEl.scrollTop = messagesEl.scrollHeight;
+    return messageEl;
+  }
+
+  async function sendQuestion(question) {
+    const response = await fetch(API_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ question }),
+    });
+
+    if (response.status === 429) {
+      throw new Error("Demasiadas preguntas seguidas. Espera un momento e intenta de nuevo.");
+    }
+    if (!response.ok) {
+      throw new Error("No se pudo obtener respuesta del asistente. Intenta nuevamente.");
+    }
+
+    const data = await response.json();
+    return data.answer;
+  }
+
+  formEl.addEventListener("submit", async function (event) {
+    event.preventDefault();
+
+    const question = inputEl.value.trim();
+    if (!question) {
+      return;
+    }
+
+    appendMessage("user", question);
+    inputEl.value = "";
+    inputEl.disabled = true;
+    submitEl.disabled = true;
+
+    const pendingEl = appendMessage("assistant", "Pensando...");
+
+    try {
+      const answer = await sendQuestion(question);
+      pendingEl.textContent = answer;
+    } catch (error) {
+      pendingEl.textContent = error.message;
+      pendingEl.classList.add("fisica-chat-message--error");
+    } finally {
+      inputEl.disabled = false;
+      submitEl.disabled = false;
+      inputEl.focus();
+    }
+  });
+})();
