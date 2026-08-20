@@ -3,8 +3,10 @@
 (function () {
   "use strict";
 
-  // Al integrar en WordPress, ajustar a la URL pública del backend.
-  const API_URL = "http://localhost:8000/api/chat";
+  // Ruta relativa: asume que nginx sirve el widget y proxea /api/ al backend bajo
+  // el mismo dominio. Si el widget se embebe en un dominio distinto al del backend
+  // (ej. WordPress en otro host), cambiar por la URL absoluta pública del backend.
+  const API_URL = "/api/chat";
 
   const messagesEl = document.getElementById("fisica-chat-messages");
   const formEl = document.getElementById("fisica-chat-form");
