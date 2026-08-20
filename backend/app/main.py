@@ -2,11 +2,13 @@ import logging
 
 from fastapi import FastAPI, HTTPException, Request
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
 from slowapi import _rate_limit_exceeded_handler
 from slowapi.errors import RateLimitExceeded
 from slowapi.middleware import SlowAPIMiddleware
 
-from app.config import settings
+from app.config import PROJECT_ROOT, settings
 from app.context_selector import select_context
 from app.prompt_loader import load_system_prompt
 from app.providers.base import LLMProviderError
@@ -68,3 +70,16 @@ async def chat(request: Request, chat_request: ChatRequest) -> ChatResponse:
         ) from exc
 
     return ChatResponse(answer=answer)
+
+
+# Sirve el widget estático (frontend/widget) bajo el mismo dominio y proceso que la
+# API, para desplegar como un único sitio (ver docs/ARCHITECTURE.md). Se monta al
+# final: las rutas /health y /api/chat, declaradas arriba, siempre tienen prioridad.
+_widget_dir = PROJECT_ROOT / "frontend" / "widget"
+if _widget_dir.is_dir():
+
+    @app.get("/")
+    async def widget_index():
+        return FileResponse(_widget_dir / "chat-widget.html")
+
+    app.mount("/", StaticFiles(directory=_widget_dir), name="widget")
