@@ -86,6 +86,9 @@ agregar un proveedor nuevo.
 3. El backend los usa automáticamente en la siguiente consulta (no requiere reinicio).
 4. Actualiza [docs/TEMARIO.md](docs/TEMARIO.md) con los temas que cubre el documento
    nuevo, para llevar registro de qué puede responder el asistente con material propio.
+5. Actualiza también la lista de "Temas disponibles" en
+   `frontend/widget/chat-widget.html` (versión resumida, para el usuario final del
+   widget) — no se genera automáticamente desde `docs/TEMARIO.md`.
 
 ## Editar el comportamiento del asistente
 
