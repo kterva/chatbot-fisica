@@ -8,6 +8,14 @@ proveedor LLM (ver `NO_CONTEXT_MESSAGE` en `app/main.py`). El system prompt adem
 instruye al modelo a no completar con conocimiento propio ni siquiera cuando el
 contexto encontrado es parcial.
 
+Todo el material de `context/` viene de libros reales publicados (ver abajo) — ya no
+hay archivos de ejemplo escritos a mano. Los dos que existían al principio del
+proyecto (`cinematica_mru.txt`, `leyes_de_newton.txt`) se retiraron una vez que los
+libros reales cubrieron esos mismos temas con más rigor: por ser cortos y muy
+enfocados, le ganaban en el ranking a capítulos de libro completos incluso cuando el
+capítulo real explicaba mejor — encontrado en la práctica con una pregunta sobre
+movimiento rectilíneo que salió mal precisamente por esto.
+
 > **Limitación conocida**: la selección de contexto es naive (TF-IDF simplificado,
 > sin embeddings — ver `ARCHITECTURE.md`). Una pregunta genuinamente cubierta por el
 > material, pero formulada con vocabulario distinto al de los archivos de `context/`,
@@ -44,20 +52,24 @@ preparo un asado?" matcheaba algo antes de este cambio). Por eso se agregó
 `MIN_CONTEXT_SCORE` (`app/config.py`): un piso de score por debajo del cual se
 considera que no hay contexto relevante, aunque técnicamente haya alguna coincidencia.
 Se calibró a mano comparando el score máximo de preguntas claramente de Física contra
-preguntas claramente ajenas (fútbol, historia, cocina, literatura, gramática): las de
-Física dieron 0.0045–0.066, las ajenas 0.0005–0.003. El valor elegido (`0.0035`) queda
-en el medio, con margen de los dos lados. **Si el corpus de `context/` cambia mucho de
-tamaño, hay que volver a correr esta comparación y ajustar el valor** — no es una
-constante física, es una calibración empírica contra el corpus actual.
+preguntas claramente ajenas. Valor actual: `0.003`. **Si el corpus de `context/` cambia
+mucho de tamaño, hay que volver a correr esta comparación y ajustar el valor** — no es
+una constante física, es una calibración empírica contra el corpus actual.
+
+> **Límite real de este enfoque (no es cuestión de afinar el número)**: TF-IDF cuenta
+> palabras, no entiende su sentido. "¿Cuál es el río más largo del mundo?" (geografía)
+> puntúa alto contra capítulos de "movimiento en dos dimensiones", porque esos
+> capítulos usan seguido el problema clásico de un bote cruzando un río con corriente
+> — la palabra "río" aparece mucho, en un sentido totalmente distinto. Ningún valor de
+> `MIN_CONTEXT_SCORE` distingue eso; hace falta entender significado, no solo contar
+> coincidencias (es, otra vez, el tipo de problema que resuelve RAG con embeddings).
+> Comprobado en la práctica que el system prompt sí lo filtra en la capa siguiente
+> (rechaza responder porque el contexto encontrado no cubre realmente la pregunta),
+> así que la defensa real contra estos casos es la combinación de las dos capas, no el
+> umbral solo.
 
 Actualizar esta lista cada vez que se agregue un documento nuevo (ver
 [README.md](../README.md#agregar-material-documental)).
-
-## Archivos de ejemplo (contenido acotado)
-
-- **`cinematica_mru.txt`** — Movimiento Rectilíneo Uniforme (MRU): definición, ecuación
-  fundamental, velocidad constante.
-- **`leyes_de_newton.txt`** — Primera, Segunda y Tercera Ley de Newton.
 
 ## Libro "La Física entre nosotros 5" (Bachillerato)
 

@@ -46,7 +46,13 @@ class Settings(BaseSettings):
     # comparando el score de preguntas claramente de Física contra preguntas
     # claramente ajenas (ver docs/TEMARIO.md): hay que volver a calibrarlo si el
     # corpus de context/ cambia mucho de tamaño.
-    min_context_score: float = 0.0035
+    # No es una separación perfecta: palabras que aparecen mucho en un sentido
+    # "de física" (ej. "río" en problemas de bote cruzando un río) pueden colar
+    # preguntas ajenas que usan la misma palabra en otro sentido (ej. geografía).
+    # Eso ningún umbral numérico lo resuelve — para esos casos, la última defensa
+    # es el system prompt, que ya rechaza responder si el contexto encontrado no
+    # cubre realmente la pregunta (ver prompts/system_prompt.txt).
+    min_context_score: float = 0.003
 
     @property
     def allowed_origins_list(self) -> list[str]:
