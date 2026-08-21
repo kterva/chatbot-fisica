@@ -1,0 +1,542 @@
+Tema: Movimiento Circular (Capítulo 6 — La Física entre nosotros 5)
+
+Capítulo 6
+Movimiento
+fiircular
+En este capítulo estudiaremos dos tipos de movimiento circular, uno deno­
+minado Movimiento Circular Uniforme (M.C.U.) y el otro Movimiento Circu­
+lar Uniformemente Variado (M.C.U.V.). La característica común es que la tra­
+yectoria de ambos es una circunferencia.
+Antes de comenzar a describir las características de cada uno de ellos reali­
+zaremos una revisión sobre medidas angulares.
+Medidas Angulares
+Habitualmente utilizamos como unidad de medida de un ángulo los gra­
+dos sexagesimales, pero veremos que en eí estudio de los movimientos 
+circulares es mas conveniente utilizar otra unidad denominada radián.
+¿Qué es un ángulo de un grado?
+Es la medida del ángulo al centro que representa la 1/360 parte de un círcu­
+lo (fig. 6.1).
+Según la definición 360° componen un círculo completo.
+¿Qué es un ángulo de un radián?
+Es la medida de un ángulo al centro que abarca un arco de longitud igual al 
+radio (fig.6.2).
+¿Cuántos radianes forman un círculo completo?
+La longitud de una circunferencia es 2n veces su radio, por lo tanto 2n 
+radianes completan un círculo.
+Un círculo (ángulo completo) mide 2n radianes y la equivalencia con 
+los grados sexagesimales es: 2n rad = 360°
+¿Qué ventaja ofrece trabajar en radianes en lugar de grados?
+Por definición, un ángulo de 1 radián delimita un arco de circunferencia de 
+longitud 1 radio, si el ángulo es de 2,5 radianes el arco tendrá una longitud 
+de 2,5 radios. De esta forma conociendo el ángulo (A9) y el radio (r) es muy 
+sencillo conocer el arco (As) correspondiente: As = A9. r
+Si el ángulo está expresado en grados no se puede utilizar esta ecuación.
+Fig.6.2 La zona coloreada representa un ángulo de 
+1 rad; 2n rad completan el círculo.
+Fig. 6.3 Equivalencias más comunes entre grados y 
+radianes.
+Grados Radianes
+360° _____ 2k
+180° _____ K
+90° __ ___  n/2
+60° _____ n/3
+45° _____ 7t/4
+
+88 Movimiento Circular
+MOVIMIENTO CIRCUUR UNIFORME_____________________
+Un cuerpo se mueve con MOVIMIENTO CIRCULAR UNIFORME si la tra­
+yectoria qué describe es una circunferencia y el módulo de la veloci­
+dad instantánea es constante.
+Período_______________________________ _ ______________ _ __________________
+El M.C.U. es un movimiento periódico, esto significa que se repite cada cier­
+to intervalo de tiempo. Con la letra T se simboliza el período, que es el tiem­
+po que transcurre mientras el móvil completa una vuelta.
+Su unidad en el S.l. de unidades es el segundo(s).
+Fig. 6.4 Relación entre período y frecuencia.
+Fig.6.5. Gráfica cu =f(t) correspondiente a un M.C.U..
+0>(^k <ü=f(t)
+0 I rt(s)
+Frecuencia
+Con la letra f se simboliza la frecuencia, que es el número de vueltas com­
+pletas que recorre el móvil por cada unidad de tiempo: f = vueltas
+La unidad en el S.l. es vueltas o revoluciones por segundo que se denomi­
+na Hertz (Hz). Otra unidad muy utilizada para expresar frecuencias es R.P.M. 
+(revoluciones por minuto), para convertirla a Hz hay que dividir el valor 
+expresado en R.P.M. entre 60, porque un minuto equivale a 60 segundos:
+1 R.P.M. = i Hz
+Velocidad angular
+La velocidad angular que representamos con la letra "co" (omega), es el án­
+gulo que recorre un móvil (A0) por unidad de tiempo (At).
+Esto se expresa matemáticamente como: co = ASI
+y su unidad es ^=y = s’.
+En un M.C.U. el radio "barre" ángulos iguales en intervalos de tiempo ¡gua­
+les, por esta razón los cocientes tienen siempre el mismo valor.
+El ángulo recorrido en una vuelta completa es 2jc radianes y el tiempo em­
+pleado en recorrerlo es un período (T), de esto se deduce que:
+co = -^=4? = 2n.fAt T
+Fig. 6.6 La velocidad instantánea es perpendicular 
+al radio, su módulo permanece constante pero su 
+dirección es variable.
+El Movimiento Circular Uniforme tiene velocidad angular constante. 
+(Fig.6.5)
+Velocidad tangencial_______________ _________________________________
+La velocidad instantánea como ya sabemos es tangente a la trayectoria y su 
+módulo es constante (fig.6.6).
+El módulo de la velocidad instantánea se calcula dividiendo la longitud de 
+arco recorrida sobre el tiempo v =
+Si consideramos una vuelta completa As = 2tt . r y At = T, obtenemos:
+v = = 2n. r. f y como 2nf = co => v = co . r
+Interpretando la última ecuación obtenida,deducimos que en un M.C.U. 
+(co es constante), la velocidad tangencial es directamente proporcional 
+al radio de giro.
+
+Movimiento Circular 89
+Aceleración y Fuerza Centrípeta
+¿Es el M.C.U. un movimiento acelerado?
+Si, a pesar de que el módulo de la velocidad se mantiene constante hemos 
+visto que su dirección es diferente en distintos puntos. Para que estos cam­
+bios de la velocidad sean posibles debe actuar una fuerza neta sobre los 
+móviles provocando una aceleración.
+Se puede demostrar que la aceleración de un cuerpo que describe un M.C.U. 
+tiene dirección radial y sentido hacia el centro de la circunferencia (fig.6.7). 
+Por esta característica recibe el nombre de aceleración centrípeta y se re­
+presenta ácp.
+El módulo de la aceleración centrípeta se calcula:
+atp = -^ = (ü2.r = cü .v
+La fuerza neta que actúa sobre un cuerpo que realiza un M.C.U. es 
+centrípeta y su módulo se calcula: FNETA = Fcp = m. acp
+Fig.6.7 La aceleración y la fuerza neta en un M.C.U. 
+son hacia el centro de la circunferencia y se deno­
+minan aceleración y fuerza centrípeta.
+Ejemplo 1
+Un disco se mueve con M.C.U. dando 30 vueltas completas por minuto 
+(fig.6.8). Sobre él y a una distancia de 12 cm respecto al eje, está apoyada 
+una moneda (m = 10g) que gira junto con el disco. (La moneda está en repo­
+so respecto al disco).
+a) Determine el período, la frecuencia, velocidad angular, velocidad 
+tangencial y la aceleración centrípeta de la moneda.
+Si da 30 vueltas en un minuto (60s) y todas las vueltas las realiza en iguales 
+tiempos por ser un M.C.U., el tiempo en dar cada vuelta es 2,Os => T = 2,Os.
+< = ■!-= 2k=>f = °.S0Hz
+ü) = 2n. f = 2n. 0,50Hz =>(£> = 71^
+v = £ü ,r = n^ .0,12m => v = 0,12n-^
+acp = ü).v = n^.0,12n-!p => aCP = 0,12^
+b) Realice un diagrama, indicando las fuerzas que actúan sobre la moneda 
+y calcule la fuerza neta.
+En la fig. 6.9 vemos que sobre la moneda actúan su Peso y la fuerza nor­
+mal que se anulan entre sí y la fuerza de rozamiento estático.
+Al anularse P y Ñ la fuerza de rozamiento es la fuerza neta. Esta ulti­
+ma fuerza es la que permite que la moneda gire junto con el disco. Si su 
+módulo no tuviera un valor suficiente, la moneda comenzaría a mover­
+se cayendo del disco. Calculemos la fuerza de rozamiento:
+F =F =F =m.a = 0,01 OKg .0,12n2j£
+rR ESTATICO NETA 1 cp cp 5
+F =F À = 1,2 .n’.IO-’NNETA *R ESTÁTICO
+c) Determine el mínimo coeficiente de rozamiento estático para que la mo­
+neda no deslice sobre el disco.
+r <11 N -sil > FrestAtic9- = 1f2Jt2.10 N— >012
+ESTÁTICO” Me Me ” 0r 1 N P. V, I ¿
+Para que la moneda no deslice el coeficiente de rozamiento estático debe 
+valer como mínimo 0,12.
+Fig. 6.6 La moneda no se mueve respecto al disco.
+Ñ
+Fig.6.9 El Peso se anula con la fuerza normal.La fuer­
+za de rozamiento estático es la fuerza neta.
+
+90 Movimiento Circular
+d) Conteste nuevamente la parte a), si la moneda estuviera colocada al do­
+ble de distancia respecto al eje de giro.
+El período, la frecuencia y la velocidad angular no cambian porque son 
+independientes del valor del radio de giro.
+La velocidad tangencial y la aceleración centrípeta se duplican porque 
+son directamente proporcionales al radio.
+Fig. 6.10 En un M.C.U. la energía cinética se mantie­
+ne constante mientras que la cantidad de movimien­
+to cambia su dirección.
+e) Compruebe que el trabajo neto sobre la moneda en cualquier intervalo 
+del movimiento es cero.
+Conociendo la relación entre el trabajo y la energía cinéticaTneto = AEC y 
+sabiendo que el módulo de la velocidad tangencial es constante con­
+cluimos que AE = OJ => Twct = OJ1 C lit IU
+f) ¿La cantidad de movimiento de la moneda también permanece cons­
+tante al igual que la energía cinética?
+No, el módulo de p se calcula p = m. v y en todos los puntos mantiene el 
+mismo valor, pero la dirección del vector p está cambiando continua­
+mente, por ser tangente a la circunferenciaffig. 6.10).
+Ejemplo 2
+El carrito de la figura 6.11 se mueve por una pista horizontal y debe realizar 
+un rizo circular completo. Despreciando las perdidas de energía por fricción 
+determine cuál es la mínima velocidad que debe tener el carrito en el punto 
+A para que pueda completar la vuelta.
+El punto crítico que debemos analizar para determinar si completará o no la 
+vuelta es cuando el carro pasa por B. En ese punto las fuerzas que actúan 
+son su Peso y la fuerza normal que le ejerce la pista (fig.6.12). La resultante 
+de ambas es la fuerza centrípeta: F =m.a => P + N = m. a .1 cp cp (p
+Recuerda que afp = y y sustituyendo obtenemos: P + N = m . ~-
+Los valores de P, m y r son constantes, por lo que el valor de la fuerza normal 
+depende de la velocidad con la que pase el carro por dicho punto, cuanto 
+menor es la velocidad menor es la fuerza normal. El menor valor posible de 
+velocidad es cuando la fuerza normal es nula, lo que significa que el carro 
+deja de tener contacto con la pista y cae. Luego de este razonamiento sabe­
+mos que en este ejemplo, cuando la velocidad es mínima la fuerza centrípe­
+ta es igual al Peso del carrito.
+Fig.6.12 La mínima velocidad que debe tener el caro 
+al pasar por B sin caer es Vg r.
+P — m . a<pM|NiMA
+_ _ ^MÍNIMA
+“tp MÍNIMA p
+^MINIMA
+r
+^MÍNIMA
+r
+simplificamos "m" y al despejar obtenemos:
+^MINIMA ~
+Si conocemos la mínima velocidad del carro en B y sabiendo que el trabajo 
+de las fuerza no conservativas es cero plantemos E = E r MECA MECB’
+|m.vA’=l.m.v,’ + m.g.h, 
+v„ = /gTr => va2 = g . r 
+hs = 2r
+yv/ - yÇ • r + g . 2 .r => despejando vA 
+obtenemos que la mínima velocidad que 
+debe tener el carro en A para que pueda 
+completar la vuelta es: vA=V5.g.r
+=> mg = m
+
+Movimiento Circular 91
+Ejemplo 3
+Una esfera gira atada a una cuerda de masa despreciable como muestra la 
+fig.6.13.Si el ángulo entre la cuerda y la vertical es «.Determine la velocidad 
+angular del movimiento de la esfera en función de a, L y g.
+En primers instancia representáremos las fuerzas que actúan sobre Is esfera, 
+éstas son su Peso y la tensión de la cuerda.
+Si la esfera describe un M.C.U. la resultante de ambas fuerzas debe ser hacia 
+el centro (Fcp) (fig. 6.13).
+Aplicando trigonometría al triángulo formado port, P y Ffp (fig.6.14) tene­
+mos que tg a = QÀdyacente = “P* = "m .gP» simplificando "m" y despejan­
+do, obtenemos: acp = tg (a). g
+acp = tg(a).g
+aCP = o)2.r
+üo2.r = tg(a).g = Agfoo-g 
+V r
+Fig. 6.13 La esfera describe un M.C.U..
+El radio de giro "r" no es dato , pero lo podemos expresar en función del 
+largo de la cuerda (L) y del ángulo a: sen(a)=-C => r = L.sen(a).
+Sustituimos en a) = y recordando que tg (a) = -senv r 7 M ' cos (a)
+obtenemos la expresión buscada: o) = cos (oc)
+Fig. 6.14 La resultante de T y P es una fuerza centrí­
+peta.
+MOVIMIENTO CIRCULAR UNIFORMEMENTE VARIADO (M.C.U.V.)
+Aceleración tangencial_________________________ _______
+En un Movimiento Circular Uniformemente Variado, a diferencia de un M.C.U. 
+el módulo de la velocidad tangencial no se mantiene constante. Habíamos 
+visto que la aceleración centrípeta producía variación en la dirección de la 
+velocidad pero no afectaba su módulo. En este movimiento además de acele­
+ración centrípeta hay aceleración en la dirección de la velocidad que deno­
+minamos aceleración tangencial y la representaremos aT (fig. 6.15).
+Sumando vectorialmente ambas aceleraciones obtenemos la aceleración 
+resultante. Su módulo se calcula: aRESULTANTE = Jacp2 + a/
+Aceleración angular_______________________________
+La velocidad angular (u>) tampoco permanece constante:Para cuantificarsu 
+variación por unidad de tiempo definimos una nueva magnitud denomina­
+da aceleración angular y la representamos con la letra a (alfa).
+At
+componente radial (acp) y otra tangencial (a).
+- Su unidad es
+- La aceleración angular en un M.C.U.V. es constante.
+- La aceleración tangencial es directamente proporcional al radio de giro 
+aT = a.r.
+
+92 Movimiento Circular
+A0 = (ü0 At +-1-a . At2
+cú( = üj0+ a .At
+(úf2 = Cú02+2.a.A6
+A0 = 1 (co0 + a)f) .At
+Fig. 6.16 Ecuaciones del M.C.U.V..
+M.C.U.V M.R.U.V.
+A0 _______ Ax
+“o -------------  vo
+<of ------------ vf .
+a _______ a
+Fig.6.17 Analogía entre magnitudes cinemáticas an­
+gulares y lineales.
+Fig. 6.18 El ventilador de techo se frena, su acelera­
+ción angular es negativa.
+Ecuaciones del M.C.U.V._______________________________________________
+En la fig.6.16 vemos las ecuaciones que utilizaremos para resolver analítica­
+mente problemas de M.C.U.V..
+Si se observan con detenimiento podemos apreciar una analogía entre es­
+tas ecuaciones y las del Movimiento Rectilíneo Uniformemente Variado1 
+(fig.6.17).
+Algunas observaciones sobre la utilización de estas ecuaciones
+- De las cuatro ecuaciones, solo dos son independientes, las otras son com­
+binaciones de las anteriores.
+- Las ecuaciones involucran 5 variables, debemos conocer como mínimo 
+tres para poder determinar las otras dos.
+- Si multiplicamos las magnitudes angulares por el radio de giro (r) obte­
+nemos las lineales. Esto significa que siguen siendo válidas las siguientes 
+expresiones: A0.r = As ü).r = vT a.r=aT
+- La velocidad angular no es constante por lo que la expresión 00 = 
+sólo nos da la velocidad angular media, que no es ni la inicial ni la final.
+- El movimiento no es periódico, todas las vueltas demoran tiempos dis­
+tintos.
+- Si conocemos el número de vueltas realizadas, conocemos el ángulo re­
+corrido: A0 = 2n.N° devueltas
+Ejemplo 4
+Un ventilador de techo está girando con una frecuencia de 180 RPM,se ac­
+ciona el interruptor para apagarlo y comienza a frenarse uniformemente 
+dando 9 vueltas completas hasta detenerse (fig.6.18).
+a) ¿Cuánto tiempo tardó en detenerse?
+Los datos que podemos extraer de la letra del problemas son:
+' f0= 180 R.P.M.= 3,0Hz, para convertir de R.P.M.a Hz dividimos entre 60.
+- ff = 0 Hz, porque finalmente se detiene.
+- Con los valores de frecuencia calculamos las siguientes velocidades an­
+gulares: u) = 2n.f => <o0 = 2n.3,OHz => a)o = 6,On^ y <ü( = 0^
+- Nn- de vueltas = 9, esto nos permite calcular el ángulo recorrido: 
+A0 = 2n . N° de Vueltas = 2n. 9 => AO = 18n rad
+Con estos tres datos (cü0, o>( y AO) que hemos reconocido, estamos en 
+condiciones de calcular el tiempo que transcurrió hasta que el ventila­
+dor se detuvo.
+Aplicamos la ecuación AO = (en0 + cu ) .At:
+18n
+A,= T(6^¡ = A* = 6'°s
+1 Ver "Ecuaciones del M.R.U.V." (pág. 18)
+
+Movimiento Circular 93
+b) Grafiqueo) = f (t) y compruebe que el área encerrada en la gráfica corres­
+ponde al ángulo recorrido A0.
+Para construir la gráfica conocemos el 
+el punto final t = 6,0s, ujf = O^.
+punto inicial t = Os, oü0 = 6,Oji^ y
+La gráfica es una recta porque el movimiento es uniformemente varia­
+do (fig. 6.19).
+El área comprendida entre la curva y el eje del tiempo es un triángulo y 
+su área se calcula:
+Área = J-(base.altura) = 1(6,Os => Área = 18nrad
+El área delimitada entre la curva de la gráfica a> = f (t) y el eje del 
+tiempo representa el ángulo recorrido (A0).
+Fig. 6.19 La gráfica o> = f (t) correspondiente al mo­
+vimiento del ventiladores una recta por ser unifor­
+memente variado.
+c) ¿Cuál es su aceleración angular?
+n - - úh-íQ, - Q ã'071 $ _ rad ~ _ rad
+At ~ At " 6,0s " 71 s2 a“
+Observa que es el cociente de las variaciones de las magnitudes re­
+presentadas en los ejes vertical y horizontal de la gráfica cü = f (t). Este 
+cálculo es lo que conocemos como pendiente de la recta.
+La pendiente de la gráfica cd = f (t) representa la aceleración angu­
+lar (a) del movimiento.—  _ ..   - -
+CARÁCTER VECTORIAL DE LAS MAGNITUDES ROTACIONALES
+A las magnitudes A0,cü y a se les puede asignar un vector para representarlas.
+Vector desplazamiento angular______________________________________
+El vector desplazamiento angular "AÔ", tiene las siguientes características 
+(fig.6.20):
+- Punto de aplicación => El eje de giro
+- Módulo => El valor del ángulo recorrido"A0"
+- Dirección => Perpendicular al ángulo recorrido
+- Sentido => Se determina utilizando la mano derecha.
+Se colocan los dedos en el sentido de giro y 
+el dedo pulgar indica el sentido del vector
+Fig.6.20 Determinación del sentido de AÕ utilizan­
+do la regla de la mano derecha.
+Vector velocidad angular______________________ ____________________
+El vector velocidad angular "¿ó", se obtiene de dividir el vector A0 entre un 
+escalar At & por |o que sus características son las siguientes (fig.6.21) 
+' At ’
+- Punto de aplicación => El eje de giro
+- Módulo => El valor de la velocidad angular
+- Dirección => Igual al de AÕ
+- Sentido => Igual al de AÔ, que se determina con la
+mano derecha
+
+94 Movimiento Circular
+Fig.6.22S¡la velocidad angular aumenta ¿ó y atie­
+nen igual dirección y sentido.
+Vector aceleración angular_________________ _ _________________________
+El vector aceleración angular (á) tiene el mismo punto de aplicación y di­
+rección que el vector AO y ¿5. Pero el sentido cambia según como sea la 
+variación de la velocidad angular.
+Si la velocidad angular aumenta, ® y a tienen igual dirección y senti­
+do (fig.6.22).
+Si la velocidad angular disminuye, ¿o y á y tienen igual dirección y sen­
+tidos opuestos (fig. 6.23).
+Fig. 6.23 Si la velocidad angular disminuye ¿j y â 
+tienen igual dirección y sentidos opuestos.
+PROBLEMAS
+Movimiento Circular Uniforme
+1. Una calesita de 2,5m de radio da 2 vueltas por minuto.
+Calcule: a) El período y la frecuencia. b)La velocidad angular. c)La veloci­
+dad tangencial y aceleración centrípeta de un punto de la periferia, d)El 
+ángulo que gira en 10 segundos, expréselo en grados y en radianes.
+2. Un automóvil de masa 800Kg se mueve por una carretera horizontal a 
+una velocidad de 90^ y toma una curva de 20m de radio.
+Calcule a) La velocidad angular, b) La aceleración y la fuerza centrípeta,
+c) Realice un diagrama indicando las fuerzas que actúan sobre el auto­
+móvil e indique quién realiza cada una de ellas.
+3. Un cuerpo tiene un  radio 0,40 metros. Emplea 2,Os en ir desde 
+A hasta B en sentido horario.a) Calcule la velocidad angular.b) Calculey 
+represente la velocidad tangencial en el punto A.c)Calcule y represente 
+la aceleración instantánea en el punto B. d) Calcule y represente la velo­
+cidad media entre A y B. e) Calcule y represente la aceleración media 
+entre Ay B. (Fig. 6.24)
+M.C.U.de
+4. Un móvil de m = 20Kg describe un M.C.U. de radio 10m y gira un ángulo 
+de 60° en 2,Os. Calcule y represente en un esquema: a)La velocidad 
+tangencial en un punto de la trayectoria, b) La aceleración centrípeta en 
+el mismo punto, c) El desplazamiento realizado en 4,0s.d) La velocidad 
+media en 4,0s.e) La aceleración media en 4,Os.f) El impulso medio reci­
+bido en 4,0s.g) El trabajo realizado sobre el móvil en 4,Os.
+El bloque de m = 0,50Kg realiza un movimiento circular uniforme con 
+co = 8,0~- y radio 25cm, unido a una cuerda inextensible, a) Determine 
+la tensión de la cuerda, b) Si en lugar de una cuerda fuera un resorte de 
+constante elástica K= 200—, lo que lo une al cuerpo con el eje de giro. 
+¿Cuál sería el alargamiento del resorte? c) En la situación b), ¿cuánto 
+vale la energía mecánica del sistema? (Fig. 6.25)
+El bloque rojo de m = 100g,gira con M.C.U. sobre una mesa horizontal sin 
+rozamiento con velocidad angular oj = 10^.EI cuerpo azul de m = 400g,
+
+Movimiento Circular 95
+cuelga en reposo y está unido al bloque rojo por una cuerda de masa 
+despreciable que pasa por un orificio que tiene la mesa. ¿Cuál es el ra­
+dio de giro del bloque rojo? (Fig. 6.26)
+7. Una esfera de que m - 1,0Kg se mueve en una trayectoria circular de 
+radio 0,50m unida aúna cuerda de masa despreciable y largo 1,0m. Cal­
+cule: a) El ángulo a indicado la figura, b) La tensión de la cuerda, c) La 
+velocidad angular, d) La fuerza neta sobre la esfera. (Fig. 6.27)
+8. Una curva de un velódromo de 20 metros de radio está peraltada. Si el 
+rozamiento es despreciable.Calcule el ángulo del peralte para que pue­
+da tomarla un ciclista cuya velocidad es 36^p .(Sugerencia: represente 
+las fuerzas que actúan sobre el ciclista)
+9. Una esfera de m = 2,OKg atada a un hilo de longitud 1,5 metros se deja 
+caer desde el punto A indicado en la figura.Calcule a) La velocidad de la 
+esfera al pasar por el punto B.(Sugerencia:en el tramo AB no trabajan 
+fuerzas no conservativas), b) La tensión de la cuerda cuando la esfera 
+pasa por el punto B. (Fig. 6.28)
+10. Un niño hace girar un balde con agua de m = 6,OKg atado a una cuerda 
+de cincuenta centímetros de longitud. El balde se mueve con M.C.U. en 
+un plano vertical. Determinara) La velocidad angular mínima que debe 
+tener el balde, para que cuando pase por el punto más alto no se derra­
+me el agua.b) La tensión de la cuerda cuando el balde pasa por el pun­
+to más bajo de la trayectoria.
+11. Una masa "m" se encuentra sobre una superficie horizontal sin roza­
+miento. Está unida a una cuerda y gira alrededor de un centro con velo­
+cidad angular constante.Si la longitud de la cuerda y la velocidad angu­
+lar se duplican. -
+a) El nuevo valor de la tensión de la cuerda será: yT0, To, 2 To, 4T0,8T0.
+b) El nuevo valor de la velocidad tangencial será: y V0,2V0,4V0, 8V0.
+c) El nuevo valor de la energía cinética será:yEC0,2 EC0,4EC0,8EC0,16EC0. 
+(Los valores To, Vo y Eco son los valores que tenían las magnitudes antes 
+de que cambiaran el radio y la velocidad angular del movimiento)
+12. Un carrito de masa 0,1 OKg se deja caer desde el punto "A”, deslizando 
+sin rozamiento por un riel que termina en forma circular y radio 80cm. 
+a) ¿Cuál debe ser la altura mínima del punto A para que e| carrito com­
+plete la circunferencia? b) Si la altura del punto A fuera e o e e a 
+calculada en la parte anterior, que valor tendría la fuerza que ejerce la 
+rampa sobre el carrito en los puntos B y C. (Fig. 6.29) Fig. 6.29 Problema 12
+Movimiento Circular Uniformemente Variado
+13. La frecuencia de giro de una rueda aumenta de 180R.P.M.a 540R.P.M.en 
+6,0 segundos, a) Calcule la aceleración angular, b) ¿Cuántas vueltas dio 
+en los 6,Os?
+
+96 Movimiento Circular
+14. Se enciende un ventilador que acelera uniformemente hasta que llega 
+a una frecuencia de 900R.P.M.. En dicho intervalo dio 75 vueltas.a) ¿Cual 
+fue el valor de su aceleración angular? b)¿Cuánto tiempo demoro en 
+completar las 75 vueltas?
+15. Una rueda de radio 2,0m, comienza a girar con movimiento circular 
+uniformemente acelerado, después de dar una vuelta su velocidad an­
+gular es 4,0—, Calcule para un punto de la periferia de la rueda: a) La 
+aceleración angular. b)La aceleración tangencial, c) La aceleración cen­
+trípeta, d) La aceleración resultante, e) Indique cuales de estas acelera- 
+dones permanecen constantes.
+16. Un punto de una rueda ubicado a 25cm del centro, gira con una veloci­
+dad tangencial de 10—. La rueda comienza a frenar uniformemente y 
+se detiene 30 segundos después, a) Determine la velocidad angular ini­
+cial de la rueda, b) Grafique cd = f (t).c) ¿Cuántas vueltas dio la rueda en 
+los 30s?
+17. Al estudiar el movimiento de una partícula que se mueve en una tra­
+yectoria circular de R = 20cm,se obtiene la siguiente gráfica, a) Explique 
+que tipo de movimiento tiene la partícula, b) ¿Qué significado físico 
+tiene el área y la pendiente de esta gráfica? c) Grafique la velocidad 
+tangencial de la partícula en función del tiempo v = f (t). d) Calcule la 
+aceleración angular y el número de vueltas que realizó en el intervalo 
+graficado. (Fig. 6.30)
+PROBLEMAS DE EXAMEN
+1. Una cuerda gira con M.C.U. alrededor de un punto fijo "O” efectuando 
+dos revoluciones por segundo en un plano horizontal. En los puntos A y 
+B se encuentran dos naranjas a RA = 20 cm y R0 = 30 cm desde al centro 
+respectivamente. Sus masas son mA = 50g y m0 = 70g. Calcular:a) El pe­
+ríodo de cada naranja, b) Las velocidades tangenciales de cada una.
+c) La tensión del tramo de cuerda entre A y B. d) La tensión del tramo de 
+cuerda entre O y A. (Prof. N. Viera / Colonia Valdense) (Fig. 6.31)
+2. La figura 6.32 muestra un péndulo cuya masa m = 240g describe una 
+circunferencia de radio 25cm en un plano horizontal con velocidad 
+tangencial constante de 2,0^-.a) Calcular la tensión del hilo.B) Determi­
+nar la velocidad media de la esfera en un intervalo de tiempo de rt/24s. 
+(Prof. U. Roviello/I.U.D.E.P.)
+3. Las poleas A y B están ligadas por una correa. Sus radios son RA = 20cm, 
+RB=1 Ocm.La polea A gira a 120R.P.M..a)Determinar la frecuencia de giro 
+de la polea B. b) Determinar la aceleración centrípeta de un punto de la 
+correa cuando rodea a B. (ProfJ J. Olivet / Escuela Integral) (Fig. 6.33)
+4. La figura 6.34 muestra una rampa que en su parte inferior termina en 
+un aro circular de radio 40cm.¿Desde que altura H se debe dejar caer 
+una bolita de masa m para que al pasar por P la fuerza centrípeta sea 
+igual a tres veces el peso de la bolita?. (Prof. A. Villamil / Escuela Integral)
+
+Movimiento Circular 97
+5. La curva de la figura 6.35 representa el camino seguido por un auto 
+que viaja con velocidad de módulo constante. Designaremos con N ,N 
+y Nc las fuerzas normales ejercidas por el piso sobre el auto en los pun­
+tos A, B y C. Ordénelas por valores decrecientes explicando claramente 
+su razonamiento.(Prof. A.Villamil / Escuela Integral)
+6. La masa "m" parte del reposo y describe un M.C.U.V.. Al cabo de 5,Os; en 
+P se corta el hilo y la masa se detiene en Q. Hallar: a)La velocidad que 
+tenía "m" en P. b) La aceleración angular en los primeros 5,Os.
+(Prof. H. Bentancour /1. Ariel) (Fig.6.36)
+7. Sobre un bloque de 4,5Kg que se encuentra inicialmente en reposo se 
+dispara un proyectil de masa 0,5Kg con velocidad v0. Luego del impacto 
+siguen juntos y entran en una guía circular de 2,0 m de radio. Determi­
+nar v0 de modo que la reacción de la guía en A sea RA =50N.
+(Colegio Elbio Fernández) (Fig. 6.37)
+8. Al desenrollar una cuerda atada a una polea de 40cm de diámetro esta 
+pasa uniformemente del reposo a girar dando 30R.P.S..SÍ en ese tiempo 
+se desenrollan 20m de cuerda; calcule para ese intervalo: a) El desplaza­
+miento angular, b) La velocidad angular media.c) La aceleración angular.
+9. Una partícula se mueve en una circunferencia de 9,0m de radio. Su rapidez 
+inicialmente nula aumenta con aceleración constante y en t = 2,Os vale 
+6,0-y-.Calcule la aceleración de la partícula en ese instante.
+10. El disco de la figura 6.38 de m = 2,OKg y radio 0,60m gira con velocidad 
+angular que varía con el tiempo según se indica. Determine en cada 
+tramo: a) Aceleración tangencial del punto A (represente), b) ¿Cuántas 
+vueltas realizó en los últimos 10s? (Prof. E. Lago /1. Crandon)
+Fig. 6.38 Problema de examen 10
+
+98 Movimiento Circular
+11. Un objeto comienza a moverse con a = k ~ desde el punto A. Hallar la 
+aceleración media entre B y C. (Prof. H. Bentancour /1. Ariel) (Fig. 6.39)
+12. ¿Con que velocidad angular debe girar el plano indinado en torno al 
+eje de modo que el bloque se mantenga en reposo a 3,0m de altura? 
+(no hay rozamiento). (Colegio Elbio Fernández) (Fig. 6.40)
+COHTROIES DE PRÁCTICO ________________________
+Estudio de un M.C.U. con foto estroboscópica
+La foto estroboscópica muestra las posiciones de un disco moviéndose so­
+bre una superficie horizontal sin fricción. En la posición N° 23 la cuerda se 
+corta y el disco continúa moviéndose.
+El tiempo entre cada destello es At = 0,10s, la masa del disco es 0,20Kg y 
+cada centímetro de la fotografía equivale a 10cm reales.
+a) Compruebe que para tres intervalos elegidos arbitrariamente la veloci­
+dad angular es la misma.
+b) Calcule la velocidad media para dos posiciones consecutivas.
+c) Considerando que la velocidad calculada en la parte anterior es una 
+buena aproximación al valor de la velocidad instantánea, represente 
+dicha velocidad en las posiciones 8 y 10.
+d) Calcule y represente la aceleración media entre las posiciones 8 y 10.
+e) A partir del valor de "cü" calculado en la parte "a", calcule la velocidad 
+tangencial y la aceleración centrípeta. Compárelas con la velocidad y la 
+aceleración obtenidas en la parte "b" y "d".
+f) Represente todas las fuerzas que actúan sobre el disco en la posición 
+11 y determine la fuerza neta.
+g) Determine la variación de la cantidad de movimiento y de la energía 
+cinética entre las posiciones 14 y 18. Para el intervalo considerado: ¿ La 
+fuerza neta realiza trabajo? ¿La fuerza neta realiza impulso?
+h) Describa lo más detalladamente posible el movimiento del disco a par­
+tir de que se corta la cuerda.

@@ -1,0 +1,587 @@
+Tema: Trabajo y Energía (Capítulo 4 — La Física entre nosotros 5)
+
+Capítulo 4
+En el Capítulo anterior (Dinámica) vimos como conociendo las fuerzas que 
+actúan sobre un cuerpo y utilizando las Leyes de Newton podemos deter­
+minar su movimiento. Los conceptos de Trabajo y Energía nos permitirán 
+conocer otro procedimiento para estudiar el movimiento de un cuerpo, in­
+cluso en el caso que sobre él, actúen fuerzas de módulo variable con la po­
+sición, situación que no podíamos resolver aplicando las Leyes de Newton.
+TRABAJO DE UNA FUERZA
+En la fig.4.1 vemos un bloque sobre el que se está aplicando una fuerza F y 
+éste se desplaza una distancia Ax. Omitimos representar otras fuerzas que 
+también actúan sobre el bloque con la finalidad de estudiar solo F.
+El TRABAJO MECÁNICO que realiza una fuerza se representa con la 
+letra T y su valor se calcula:! = |F|. |Ax|. eos a.
+- El trabajo es una magnitud escalar que surge del producto de dos mag­
+nitudes vectoriales. A esta operación se la denomina producto escalar de 
+vectores1.
+- La unidad de T en el S.l. es Nm por ser el producto de una fuerza por un 
+desplazamiento. Al producto Nm se le denomina Joule (J).
+- El trabajo mecánico de una fuerza puede calcularse también como el 
+producto de la proyección de la fuerza en la dirección del desplazamien­
+to y dicho desplazamiento T = Fx. Ax
+- Es común utilizar otras notaciones para simbolizar el trabajo, por ejem­
+plo W o Z.
+Trabajo de una Fuerza Variable______________________________________
+En la gráfica de la figura 4.2 se representa como varía el módulo de una 
+fuerza aplicada sobre un cuerpo (colineal al desplazamiento),a mediada que 
+éste de desplaza.
+Para calcular el trabajo de este tipo de fuerzas, no podemos utilizar la ecua­
+ción T = |F|. IAx|. eos a porque el módulo de F cambia continuamente.
+Se puede demostrar que:
+El área delimitada por la curva de la gráfica F = f(x) y dos posiciones 
+(x, y xf) del eje horizontal, representa el trabajo de la fuerza en ese 
+desplazamiento.
+Ejemplo 1
+Utilizando una cuerda se aplica una fuerza F al cajón de masa 2,00Kg como 
+indica la figura 4.3 subiéndolo desde A hasta B (AB = 2,00m). El módulo de la 
+fuerza F aplicada es 30,ON y el coeficiente de rozamiento cinético entre el 
+plano y el cajón es 0,30.
+x( \
+Fig.4.1 La fuerza F realiza trabajo mecánico sobre el 
+cuerpo cuando pasa de la posición inicia Xj a la final xr
+1 Ver Anexo 5 "Producto escalar de vectores" 
+(pág. 156)
+
+58 Trábalo y Energía
+Fig.4.4F y Axab forman un ángulo de 0o.
+Fig. 4.5 P y Axab forman un ángulo de 120°.
+Fig. 4.6 La fuerza de rozamiento dinámica y Ax for­
+man siempre un ángulo de 180°.
+¡
+I
+I
+I
+Fig. 4.7 El trabajo mecánico de las fuerzas perpen­
+diculares al desplazamiento es cero.
+a) Calcule el trabajo realizado por cada una de las fuerzas que actúan sobre 
+el cajón mientras éste sube desde A hasta B.
+Comenzaremos representando todas las fuerzas que actúan sobre el ca­
+jón F, P, Ñ, Froz. Aplicando la ecuación que define el trabajo mecánico 
+calcularemos los trabajos realizados por cada fuerza.
+Trabajo de la fuerza F (fig. 4.4)
+T = F . Axab . eos (0o), observe que la fuerza F tiene igual dirección y sen­
+tido que el vector desplazamiento por lo que el ángulo que forman en­
+tre ellos es 0o.
+Tf = 30,ON . 2,00m. 1 => TF = 60,0J
+Trabajo de la fuerza Peso (fig.4.5)
+TDC = R AxAn eos (120°), observe que el ángulo formado por P y Ax es rtjU Ad
+90° +30°= 120°
+TpES0 = 20,ON . 2,00m (-0,500) => TpESO = -20,0J
+Trabajo de la fuerza de rozamiento (fig. 4.6)
+T„, = FOn? • Axad . eos (180°), observe que la fuerza dp rozamiento tiene KU¿ KUZ Ad
+igual dirección que el desplazamiento y sentido contrario. El ángulo en­
+tre estos dos vectores es 180°.
+Previamente debemos calcular el módulo de.
+Froz = p. N, la fuerza Normal tiene igual módulo que la componente P del 
+Peso => N = P.cosa => N = 17,4Ny FROZ = 0,30.17,4N => FROZ = 5,20N 
+Troz = Fboz • AxAB •cos <180°) = 5<20N • 2,00m (-1) => Troz = -10,4J
+Trabajo de la fuerza Normal (Fig. 4.7)
+"^normal N * cos (90 ), observe que la fuerza normal es perpendicular 
+al desplazamiento, por lo que el ángulo que forman estos vectores es 90°
+Tnodmai = 17,4N. 2,00m . 0 = 0J => T = ojNORMAL NORMAL J
+Si una fuerza es perpendicular al desplazamiento su trabajo mecáni­
+co es cero.
+b) Calcule el trabajo total.
+El trabajo total se puede determinar por dos métodos:
+1) Sumar los trabajos de todas las fuerzas.
+■^total — L + "''peso + Troz + TN0RMAL
+Ttotal = 60,0J + (-20,0J) + (-10,4J) + 0J
+=> Lotal = 29-6J
+2) Determinar la fuerza neta y calcular su trabajo mecánico.
+El lector puede realizar este cálculo y verificar que el resultado es el mis­
+mo que el obtenido por el método anterior. Al trabajo total también se le 
+denomina trabajo neto.
+
+Trabajo y Energía 59
+REU1CIÚH ENTRE TBHBIUD NETO Y ENERGÍA CIHÈT1M
+En el ejemplo anterior el trabajo neto que se realizó sobre el cuerpo fue 
+29,6J, lo que significa que la fuerza neta sobre el cuerpo no es nula y como 
+consecuencia de ello la velocidad del cuerpo tiene que haber cambiado.
+Lo que deduciremos ahora es una relación entre el trabajo neto sobre un 
+cuerpo y la variación de su velocidad.
+Realizaremos la demostración para el caso más simple. En la fig.4.8 vemos 
+un carro que se mueve inicialmente con velocidad v., se le aplica una fuerza 
+neta constante FNnA durante un desplazamiento Ax alcanzando una veloci- 
+dad vr
+Tneto = Fneta •Ax- como FNETA = m ■a => Tneto = m . a . Ax.
+Recordando una ecuación del M.R.U.V. vf2 = v2 + 2.a .Ax despejamos 
+Fig.4.8 Si la fuerza neta no es nula la velocidad del 
+carro cambia.
+y sustituyendo en la ecuación de trabajo obtenemos: Tklcx„ = m. a . Ax
+=> Tneto “ m- 2
+simplificamos Ax y operamos para obtener: Tneto = -1-m vf2 =- -1-m v.2
+Hemos obtenido una relación entre el trabajo neto y la velocidad del carro, 
+a la expresión -Im v2 la denominamos energía cinética (Ec) y la ecuación 
+anterior la podemos escribir como: Tneto = Ecf - Ec| = AEcinética
+Esta expresión fue demostrada para un caso particular pero se cumple siem­
+pre, sea la fuerza constante o variable y sin importar si el movimiento es 
+unidimensional, bidimensional o tridimensional.
+1"nETO AEC1NÉTICA
+Energía Cinética_______________ _ __________________________
+- Un cuerpo tiene energía cinética cuando está en movimiento.
+- Es una magnitud escalar y su valor se calcula Ec = yy, siendo "m" la 
+masa del cuerpo expresada en Kg y "v" el módulo de su velocidad expre­
+sado en -y-.
+- Utilizando estas unidades para "m" y V, la Ec quedará expresada en Joule 
+(J) al igual que el trabajo mecánico.
+- Otra notación usada para simbolizar la energía cinética es la letra K
+F - m‘V2 c 2
+
+60 Trabajo y Energía
+FUERZAS CONSERVATIVAS Y ENERGÍA POTENCIAL
+Fig.4.11 El trabajo del Peso (fuerza conservativa) es 
+igual para todas las trayectorias. Solo depende de la 
+posición (altura) inicial y final.
+Una FUERZA ES CONSERVATIVA si el trabajo que realiza en cualquier 
+recorrido cerrado (la posición inicial y final es la misma) es cero.
+Veremos dos ejemplos de fuerzas conservativas:
+a) Las fuerzas gravitatorias.
+b) Las fuerzas elásticas.
+a) La secuencia de la fig.4.9 nos muestra tres posiciones del movimiento de 
+una esfera que se lanzó verticalmente hacia arriba.
+En la fig. 4.9 a la esfera recién fue lanzada y tiene su máxima velocidad y 
+por lo tanto su máxima energía cinética. A medida que sube su energía 
+cinética va disminuyendo, hasta que al llegar al punto de máxima altura 
+toma el valor cero (fig.4.9 b). La energía cinética disminuyó debido al 
+trabajo negativo que realiza la fuerza gravitatoria. Pero la energía cinética 
+no se perdió sino que se transformó en otra energía "acumulándose" en 
+el campo gravitatorio.
+En la fig.4.9 c vemos como al bajar,la esfera "recupera" su energía cinética 
+alcanzando nuevamente el valor inicial. Al completar un recorrido cerra­
+do el trabajo realizado por el Peso no produjo variación de la energía 
+cinética.
+El trabajo de la fuerza Peso es cero en cualquier recorrido cerrado, 
+por esa razón es una fuerza conservativa.
+b) La fig. 4.10 nos muestra tres posiciones de la interacción de un carrito 
+con un resorte. En la fig. 4.10 a el carro tiene el máximo valor de energía 
+cinética. Cuando comienza a comprimir al resorte, disminuye la veloci­
+dad por lo tanto su energía cinética también disminuye, debido al traba­
+jo negativo de la fuerza elástica.
+En el instante de máxima compresión el carro se detiene (fig.4.10 b), te­
+niendo energía cinética cero.
+Cuando el resorte comienza a descomprimirse la velocidad del carro co­
+mienza a aumentar hasta alcanzar el mismo módulo que tenía antes de 
+la compresión, pero en sentido contrario (fig. 4.10 c). Esto se debe a la 
+realización de un trabajo positivo de la fuerza elástica.
+Mientras comprime el resorte el carro parece "perder" energía, pero en 
+realidad la energía se acumuló en el resorte. Cuando el resorte vuelve a 
+su forma original "devuelve" esta energía al carro. Al completar un reco­
+rrido cerrado el trabajo realizado por la fuerza elástica no produjo varia­
+ción de la energía cinética.
+El trabajo de la fuerza elástica es cero en cualquier recorrido cerrado, 
+por esa razón es una fuerza conservativa.
+Energía Potencial_______________________________________________________
+Una característica muy importante de las fuerzas conservativas es que el 
+trabajo realizado en un desplazamiento entre dos puntos no depende de la 
+trayectoria seguida, sólo depende de la posición final e ¡nic¡al.(Fíg.4.11)
+Esta característica es la que permite reemplazar el trabajo de éstas fuerzas 
+por la diferencia de dos escalares denominados energía potencial.
+La relación entre el trabajo de las fuerzas conservativas y la energía 
+potencial es Tfconservativas — “^^potencial*
+
+Trabajo y Energía
+Otra notación utilizada para simbolizar a la energía potencial es "U".
+- Es una magnitud escalar y su unidad en el S.l. es el Joule (J).
+Si el trabajo de la fuerza conservativa es positivo se produce una dismi­
+nución de la energía potencial.
+Si el trabajo de la fuerza conservativa es negativo se produce un aumen­
+to de la energía potencial.
+Energía Potencial Gravitatoria_______________ ________________________
+Denominamos energía potencial gravitatoria y la representaremos E o U, 
+a la energía almacenada en un sistema formado por dos cuerpos en 
+interacción gravitatoria. Aquí estudiaremos el caso particularde la interacción 
+entre un cuerpo y la Tierra.
+La ENERGÍA POTENCIAL GRAVITATORIA de un cuerpo depende de su 
+posición en el campo gravitatorio de la Tierra. Es una magnitud esca­
+lar y su valor se calcula E = m. g. h.
+- Su unidad en el S.l. es el Joule (J).
+- "h" es la altura (expresada en metros) a la que se encuentra el cuerpo 
+desde el punto que se elija como referencia.
+- El valor de la Epg depende del sistema de referencia elegido.
+La relación entre el trabajo de las fuerzas conservativas y la energía poten­
+cial es Tfconservativas — _AEP0TENC1al.
+En este caso particular se cumple la siguiente relación:
+"^PESO = ^POTENCIAL GRAVITATORIA
+Energía Potencial Elástica_______ _ _______ _ ____________________________
+Denominamos energía potencial elástica y la representaremos Epe o Ue,a la 
+energía almacenada en un cuerpo elástico deformado. Aquí estudiaremos 
+el caso particular de la energía almacenada en un resorte perfectamente 
+elástico.
+La ENERGÍA POTENCIAL ELÁSTICA almacenada en un resorte, es una 
+magnitud escalar y su valor se calcula Epe = y K. Al2.
+- Su unidad en el S.l. es el Joule (J).
+- "K" es la constante elástica del resorte y su unidad es
+- "Al" es la deformación del resorte, puede ser su estiramiento o su com­
+presión.
+La relación entre el trabajo de las fuerzas conservativas y la energía poten- 
+r¡a| pcT = -AE En este caso particular se cumple la siguien-Ciai es I Fconservativas ^POTENCIAL. r
+te relación:
+Tf ELÁSTICA = "A EpoTENCIAL ELÁSTICA
+Fuerzas No Conservativas______________.______________________________
+Una FUERZA ES NO CONSERVATIVA si el trabajo que realiza en cualquier 
+recorrido cerrado (la posición inicial y final es la misma) NO es cero.
+La fuerza de rozamiento es un ejemplo de fuerza no conservativa. La fig.4.12 a 
+representa un bloque que es lanzado hacia arriba por un plano inclinado.
+E =4-K.AI2Pe 2
+Tp ELÁSTICA A
+
+62 Trábalo v Energia
+Fig. 4.12 a y b El trabajo de la fuerza de rozamiento 
+es negativo cuando el bloque sube y también cuan­
+do el bloque baja.
+Mientras está subiendo la fuerza de rozamiento y el desplazamiento for­
+man un ángulo de 180° por lo que su trabajo es:
+Troz = IFrozI-I^-cos180° TROZ= '^R0Z|.|Ax| => TROZ5UBIR<0
+La fig.4.12 b muestra al bloque bajando por el plano inclinado.Nuevamente 
+podemos ver que el ángulo formado por la fuerza de rozamiento y el des­
+plazamiento es 180° y su trabajo al bajar es:
+Troz = lFROzl.|Ax|-cos 180° => Troz= -|FP0ZI.|Ax| => trozbajar<o
+El trabajo en el viaje de ¡da y vuelta a la misma posición, es la suma de dos 
+trabajos negativos. Esto da como resultado un trabajo total negativo y por 
+lo tanto distinto de cero.
+Como el trabajo de la fuerza de rozamiento en un recorrido cerrado 
+NO es cero, la fuerza de rozamiento es NO conservativa.
+PRINCIPIO DE CONSERVACIÓN DE IA ENERGÍA MECÁNICA
+Energía Mecánica
+Un cuerpo puede tener al mismo tiempo energía cinética y energías poten­
+ciales, a la suma de ambos tipos de energías la denominamos energía mecá­
+nica y su notación es Eti.
+La ENERGÍA MECÁNICA es una magnitud escalar por ser la suma de 
+magnitudes escalares. Su unidad en el S.l. es el Joule (J) y se calcula:
+E=E_ + E +E .M C pg pe
+No es necesario que el cuerpo tenga las tres energías para calcular la ener­
+gía mecánica. Si alguna de ellas es cero, el valor de su energía mecánica es la 
+suma de las otras dos.Si tiene solo una de ellas,ésta será la energía mecáni­
+ca y en el caso particular que no tenga ninguna de las energías, la energía 
+mecánica del cuerpo es cero.
+^NETO ~ AEc
+TpESO “
+ELÁSTICA “ ~AEpe
+Relación entre Tf no conservativas y Energía Mecánica_____________________
+Hasta ahora conocemos las tres relaciones indicadas en la fig.4.13. A partir 
+de ellas deduciremos una relación entreTFNOCONStRVAT|ws y Energía Mecánica. 
+El trabajo neto es la suma de los trabajos de las fuerzas conservativas y no 
+conservativas => Tneto = AEc => TFC0NSE_ +Tfnoconwrvat|vas = AEC 
+Los trabajos de fuerzas conservativas son T =t +T
+F CONSERVATIVAS PESO F ELÁSTICA*
+TpESo + ELÁSTICA + NO CONSERVATIVAS "“^^C
+Fig.4.13 Relaciones entre trabajo y energía.
+Podemos sustituir el trabajo del Peso y de la fuerza elástica oor -AEK uupoT[NC|AL
+“A Epg - ÁEne + Tf no conservativas ~ AEC
+Despejando obtenemos: TFN0C0N5ERVAT]VAS = AEC + AEpg + AEpe, donde la suma 
+de las variaciones de las energías AE + AE + AE es igual a la variación de 
+la energía mecánica AEM.
+De esta forma llegamos a la relación buscada: T = AEJ F NO CONSERVATIVAS M
+
+Trabajo y Energía 63
+Ahora estamos en condiciones de 
+la Energía Mecánica.
+enunciar el Principio de Conservación de
+. = AEF no conservativas M
+Principio de Conservación de la Energía Mecánica
+En un sistema donde la suma de los trabajos de las fuerzas no 
+conservativas sea cero, la energía mecánica se conserva. La energía 
+mecánica tiene el mismo valor en cualquier punto.
+5* NO CONSERVATIVAS = OJ => EM¡ = EMf
+Para resolver problemas donde existan transformaciones de energía y se 
+realicen trabajos de fuerzas conservativas y no conservativas, usaremos la 
+última relación deducida:Tfnoconservativas = AEm o esta misma ecuación des­
+pejada E + T =FK J Mi F NO CONSERVATIVAS
+Solo los trabajos de las fuerzas no 
+conservativas hacen variar la ener­
+gía mecánica de un sistema.
+Las fuerzas conservativas solo 
+transforman la energía cinética en 
+energía potencial, pero no cam­
+bian el valor de la energía mecá­
+nica.
+Debemos primero definir que puntos consideraremos inicial y final, deter­
+minar sus energías y analizar si entre dichos puntos se realizan trabajos de 
+fuerzas no conservativas.
+Ejemplo 2
+El carrito de masa 1,0Kg se encuentra inicialmente en el punto A y desliza 
+por una superficie lisa excepto en la zona BC de longitud 0,50m donde ex­
+perimenta una fuerza de rozamiento de módulo constante 20N (fig. 4.14). 
+Luego comprime un resorte de constante elástica K = 1000^.
+a) Calcule la velocidad del carrito al pasar por el punto B.
+Para calcular la velocidad del carrito al pasar por el punto B considerare­
+mos inicial el punto A y final el punto B
+Punto A
+Al pasar por este punto, el carro tiene energía cinética, por estar en movi­
+miento, y energía potencial gravitatoria por estar a cierta altura respecto 
+al piso que tomaremos como referencia.
+E = E +E v? + m.g.hUMA cA pgA 2A A
+=-1-. 1,OKg . (4,0-y-)2 +1,0Kg.10-!^.1,0m => EMA=18J
+Punto B
+Al pasar por este punto, el carro sólo tiene energía cinética, porque al 
+llegar a la altura de referencia la energía potencial gravitatoria es cero 
+(fig.4.15).
+EMB = E<B = Ímvo2 => EMa = í1-0Kg-VB2
+El valor de v„ es nuestra incógnita.
+Entre el punto A y B no hay trabajos de fuerzas no conservativas 
+(TNoCons=0J)
+Ahora sustituimos todo lo hallado en la ecuación:
+Emeci +"EnOCONS. — Emeci
+18J+ 0J =l.1,0Kg.vB2
+Hemos obtenido una ecuación con una sola incógnita y resolviéndola 
+/2.18J _ „ _ , n m
+obtenemos v6-\nzóKg Vü-b,u s
+Fig. 4.15 Al pasar por B el carro solo tiene Ec.
+
+64 Trábalo y Energía
+Fig.4.16 La velocidad del carro en el punto C es me­
+nor que en el punto B, debido al trabajo disipativo 
+de la fuerza de rozamiento.
+b) Calcule la velocidad del carrito al pasar por el punto C.
+Nuevamente seguiremos el mismo procedimiento, elegiremos un par de 
+puntos, que llamaremos inicial y final. Por ejemplo A y C, aunque po na 
+mos haber elegido el punto B como inicial en lugar del A porque la ener­
+gía mecánica en ambos puntos es la misma.
+La energía mecánica del carro al pasar por el punto A ya la conocemos
+E = 18J.
+En el punto C el carro solo tiene energía cinética EMC = E cc = y m vc
+E = —. I.OKq .v 2, El valor de vr es nuestra incógnita.
+MC 2 ' C
+Entre los puntos A y C la única fuerza que realiza un trabajo no 
+conservativo es la fuerza de rozamiento en el tramo BC (fig. 4.16).
+T = FDn7. Ax . cos(a) = 20N . 0,50m . cos( 180°) => TR0Z = -1OJ ROZ HOZ
+Sustituyendo todo lo hallado en la ecuación original
+^MECi + \lOCONS. ^MECf
+18J 4-(-10J) = y . 1,0Kg .vc2
+Despejamos y obtenemos que vc = 4,0-^-
+Fig. 4.17 En el punto D el carro tiene y E^.
+c) Calcule la máxima compresión del resorte (Al).
+A partir de que el carro pasa por el punto C y hasta que termina de com­
+primir el resorte (punto D) la energía mecánica permanece constante 
+porqueTN0C0NS = OJ => EMC = EMD. En el punto C solo hay energía cinética 
+EMc^cc-|mVc’ = j.1,0Kg . (4,0 EMC = 8,0J
+En el punto D (fig. 4.17) hay energía potencial elástica, porque ei resorte 
+se comprimió y energía potencial gravitatoria por estar a 0,30m de altu­
+ra. Allí la energía cinética es cero porque al llegar a la máxima compre­
+sión el carro se detiene.
+EMD = EpeD + Ep9D = i • 1 000S AP + 1 '0K9 ■ 1 0 V • °'30m
+=> Emo = 7-1000£A|2 + 3-0J
+Igualando las energías mecánicas de los puntos C y D obtenemos:
+8,0J = y. 1000 Al2 4- 3,0J y despejando hallamos Al = 0,1 Om
+Ejemplo 3
+Un automóvil de masa 500Kg se mueve inicialmente con velocidad 8,0-~ 
+hacia la derecha sobre una superficie horizontal. Mientras recorre una dis­
+tancia de 40m recibe una fuerza de módulo variable como indica la gráfica 
+(fig. 4.18) en el mismo sentido que su velocidad. A la misma vez actúa sobre 
+él una fuerza de rozamiento del aire de módulo constante 125N. Calcule la 
+velocidad del automóvil al finalizar los 40m de recorrido.
+Este problema nos plantea una situación inicial (automóvil con v = 8,0—) y 
+una situación final (automóvil con velocidad v = ?). Entre estos dos puntos 
+actúan dos fuerzas no conservativas, una de módulo variable y otra de fric­
+ción. Nuestro planteo será nuevamente:
++ Tnocons EMf => EC1 +Tr VAR|ABL£ + Troz - Ecf.
+Observe que la energía mecánica en ambos puntos es sólo energía cinética.
+Ec, = 7mv,2 = y . 500Kg . (8,0-y-)2 Eç|=1,6x10<J
+Tf variable = i (400N + 300N) • 40m => TF,.,l.b..= ','4-104J
+
+Trabajo v Energía 65
+Este trabajo de la fuerza variable lo obtuvimos al calcular el área del trape- 
+cío delimitado en la gráfica F = f (x) (fig.4.19).
+Troz = Froz ■Ax •cos = 125N ■40m (-1) => T =-5,0x10’J
+Sustituyendo lo hallado en la ecuación inicial obtenemos:
+^Ci T*f variable + "^Roz “ ^Cf
+1,6.104J + 1,4.104J + (-5,0.103J) =-1 .500Kg. vf2
+Despejamos la ecuación para llegar al resultado vf = 10-y-.
+Ejemplo 4
+Una esfera metálica se deja caer desde el punto A y desliza por el riel sin 
+rozamiento (fig. 4.20), saliendo de él con velocidad horizontal en el punto B. 
+La esfera llega al piso en el punto C. Determine la altura h, del punto A.
+Dividiremos el movimiento de la esfera en dos tramos:
+Tramo AB => Mientras rueda por el riel.
+Tramo BC => Mientras cae libremente con velocidad horizontal constante.
+Tramo AB
+Desde el punto A hasta el punto B la energía mecánica se conserva.Toman­
+do la altura del punto B como referencia (hB = Om), obtenemos que:
+- La Energía mecánica en A es solo energía potencial gravitatoria ya que 
+inicialmente la esfera está en reposo EMA = Epg = mghr
+- La Energía mecánica en B es solo energía cinética. EMB = ECB = |m vB2.
+- Igualamos las energías EMA = EMB => j/gh1 = lj/vB2, simplificamos "m"
+ivB2
+y despejamos h1 => h, =.
+El módulo de la velocidad vo no lo conocemos, analizaremos el siguienteD
+tramo para averiguarlo y así resolver el problema.
+Tramo BC (fig.4.21)
+En el capítulo 2 vimos como resolver este tipo de situaciones. Recordemos 
+que en estos casos debemos estudiar la proyección del movimiento en un 
+eje horizontal y otro vertical. Ahora tomaremos como altura de referencia la 
+del punto C (hc = Om).
+Los datos que disponemos son:
+Ejex Eje y
+Ax = 2,4m voy = 0’?’
+ho = O,8Omy hf = 0m
+Con los datos del eje y determinamos el tiempo de caída. 
+hf=h0+v0y.At-lgAt2 => 0 = 0,80 + 0-1.10 At2 => At = 0,40s 
+Conociendo el desplazamiento horizontal Ax = 2,4m y el tiempo determi­
+namos la velocidad horizontal que tenía la esfera en el punto B .
+lv,'
+Sustituyendo en la ecuación h, = , finalizamos el problema
+h1 = 1,8m
+Fig. 4.20 Ejemplo 4
+Fig.4.21 En el tramo BC la esfera cae libremente con 
+veleidad horizontal constante.
+
+7
+66 Trabajo y Energía
+PROBLEMAS
+1. Un hombre levanta verticalmente un cuerpo de m = 2,0Kg con veloci­
+dad constante hasta una altura de 5,0m. Calcular a) El trabajo realizado 
+por el Peso, b) El trabajo realizado por el hombre, c) El trabajo total.
+2. Por la acción de una fuerza F se sube un cuerpo (m = lOOKg) por un 
+plano inclinado 30°, con velocidad constante. La fuerza de rozamiento 
+en todo el plano de longitud 10m es 100N. Calcule a) El trabajo del Peso, 
+b) El trabajo de la FR0Z.c) El trabajo de la fuerza F. (Fig. 4.22)
+Un niño arrastra un cajón (m = 30Kg), una distancia de 10m. Para ello 
+aplica una fuerza F = 100N que forma un ángulo de 37° con la horizon­
+tal. Si el coeficiente de rozamiento es p = 0,2. Calcule: a) El trabajo de 
+cada una de las fuerzas que actúan sobre el bloque b) El trabajo total,
+c) ¿Si partió del reposo, que velocidad alcanzo el bloque después de 
+recorrer los 10m? (Fig. 4.23)
+El carro de 4,0 Kg de masa parte del reposo desde el punto A (hA = 5,0m), 
+suponiendo que no existe rozamiento calcular:
+a) La velocidad del carro al pasar por el punto B (hB = 1,6m).
+b) La  velocidad al pasar por el punto C.
+c) La compresión máxima del resorte. (Fig. 4.24)
+El carro de masa 4,0Kg tiene una velocidad v0 = 1,0-y- cuando se encuen­
+tra a una altura de 2,0m. Luego de pasar por la zona rugosa AB = 0,25m, 
+choca contra el resorte. Si solo existe rozamiento en el tramo AB y el 
+módulo de FR0Z es 8,0N. Hallar la máxima compresión del resorte.(Fig.4.25)
+Fig.4.25 Problema 5
+Un cuerpo de masa 2,0Kg se mantiene en reposo comprimiendo a un 
+resorte de K, = 80^. Luego de liberarse llega al otro resorte K2 = 200^- 
+y lo comprime 0,45m hasta detenerse. Solo existe fuerza de rozamiento 
+en el plano inclinado y su módulo es 1,5N. ¿Cuánto estaba comprimido 
+el primer resorte? (Fig.4.26)
+Un cuerpo de masa "m" sube por un plano inclinado 30°. La velocidad 
+en A es 4,0-y- y al llegar al punto B es 2,0-y-, Determine el coeficiente 
+de fricción entre el bloque y el plano inclinado. (Fig. 4.27)
+
+Trabajo y Energía 67
+8. El cuerpo (m — 1,0Kg) esta inicialmente en reposo y se le aplica una fuer­
+za F de módulo variable como muestra la gráfica, a) Calcule la máxima 
+compresión del resorte (desprecie las fuerzas de fricción), b) ¿Cuánto 
+debería valer la FR0Z para que el resorte se comprima la mitad?
+c) Calcule p. (Fig. 4.28)
+9. Un automóvil de 500Kg de masa se mueve por una carretera con v = 
+20-y-, hasta llegar a una pendiente AB inclinada 30°. En el tramo AB 
+actúa sobre el automóvil una fuerza de rozamiento de módulo 400N. 
+Además actúa una fuerza de módulo variable como indica la gráfica en 
+igual dirección y sentido que el desplazamiento. Calcule la velocidad 
+del móvil al llegar al punto B. (Fig. 4.29)
+10. La compresión inicial del resorte es 10cm y la masa del bloque es 400g. 
+Si solo existe fricción a partir del punto B y el coeficiente de rozamiento 
+cinético es p = 0,2. ¿A qué distancia del punto B, se detiene el bloque? 
+(Fig.4.30)
+Fig. 4.30 Problema 10
+11. En el sistema de la figura 4.31.a) Determine la máxima compresión del 
+resorte si al pasar por la zona rugosa AB el bloque pierde un cuarto de 
+su energía, b) ¿Cuántas veces pasará por dicha zona y en que punto 
+quedará detenido?
+Fig. 4.31 Problema 11
+a'
+m = 2,0Kg 
+k\\ V = 4,0-y-
+h = 80cm
+\ K=192£
+\ A A A 1
+, V .. AMl
+A B
+12. Determine la compresión del resorte cuando el cuerpo de 500g de masa 
+pasa por el punto C, si en este punto su velocidad es la mitad de la que 
+tiene al pasar por el punto B. (Fig. 4.32)
+13. El bloque pasa por el punto A con velocidad 4,0-y-. El coeficiente de 
+rozamiento en todo el trayecto es p = 0,5 y la distancia AB = BC.Grafique 
+v = f (t) mientras el bloque recorre el trayecto AC. (Fig.4.33)
+Fig.4.32 Problema 12
+
+68 Trábalo y Energía
+14. El resorte de la figura estaba comprimido 10cm. Cuando se libera el re­
+sorte, el cuerpo de m = 500g sube hasta una altura maxima h . Existe 
+rozamiento solo en el plano inclinado, siendo el módulo de la fuerza de 
+rozamiento 1,4N.a) Calcule "h" b) ¿Si no existiera rozamiento que velo- 
+cidad tendría el cuerpo al pasar por "h ? (Fig. 4.34)
+15. Un  péndulo se encuentra ¡nidalmente formando 37° con la vertical y 
+en reposo (punto A). Determine la velocidad del péndulo al pasar por el 
+punto mas bajo de su trayectoria (punto B). (Fig. 4.35)
+PROBLEMAS DE EKAMEN
+1. Dado un cuerpo de masa m, se pretende subirlo una altura h con velo­
+cidad constante.a) Evalúe y compare los trabajos necesarios para reali­
+zarlo por la rampa A, B y C. b) Idem, (compare) si existe rozamiento sien­
+do p igual para A, B y C.(Prof.W.Netto/Sagrada Familia) (Fig.4.36)
+Una partícula de 4,0Kg está sometida a una sola fuerza que varía sien­
+do F = 60N en los primeros 5,0m y F = - 60N desde el quinto al séptimo 
+metro.Trazar la gráfica F(x) y determinar la velocidad que adquirirá si 
+parte del reposo y si ya poseía una velocidad de 5,0-y.
+(Prof.Z.Goyen / Liceo Miguel C. Rubino)
+El bloque de la figura 4.37 desciende por la rampa con velocidad cons­
+tante.a) Represente y calcule todas las fuerzas que actúan sobre el cuer­
+po b) Represente las reacciones a dichas fuerzas c) Verifique para el tra- 
+mo AB el cumplimiento WNE10 = AEC y WN0C0NS = AEMK.
+Datos: m = 10,OKg, AB = 2,0m, (p =37°.
+La masa m pasa por la zona rugosa de p = 0,4. Luego comprime al 
+resorte y al volver sube por el plano hasta una altura h/2 . Hallar h. 
+(Prof.H.Bentancour/1.Ariel) (Fig.4.38)
+Un cuerpo de masa m — 0,1 OKg se sostiene en reposo,estando este uni­
+do a una cuerda y a un resorte de K = 10^ como se indica. El resorte se 
+encuentra en su longitud natural. Se libera la masa, y se detiene en el 
+instante anterior a tocar el piso, a) Determina la altura "h" si la polea es 
+de masa despreciable, b) Calcule la velocidad de la masa al pasar por la 
+mitad de la altura "h". (Prof. W. Netto / Latinoamericano) (Fig.4.39)
+F¡g.4.39 Problema de examen 5
+
+Trabajo y Energía 69
+6. El bloque de 2,OKg de masa se encuentra en reposo en ”0" compri­
+miendo 20cm al resorte de K=400-^.AI liberarlo, el bloque sale dispara­
+do cayendo en el punto B. Considere despreciables los roces y calcule 
+AxAB.(Prof. E.Lago/1.Crandon) (Fig.4.40)
+7. Un proyectil de m = 2,0Kg se lanza desde el piso con velocidad v0 forman­
+do un ángulo ot con la horizontal. La energía cinética en el momento del 
+lanzamiento es 400J. Al llegar a la altura máxima se verifica E = U .Deter­
+mine completamente el vector v0.
+8. El cuerpo de m = 2,0Kg está comprimiendo al resorte (K = 4000-^-) una 
+distancia de 10cm y de pronto se lo deja en libertad subiendo el cuerpo 
+por el plano inclinado. Hallar energía cinética del cuerpo en el punto 
+mas alto (punto P) y hallar la distancia OQ.(Prof.H.Bentancour/ Escuela 
+Integral) (Fig.4.41)
+9. Un cuerpo de masa 0,1 OKg se encuentra en reposo en el punto A com­
+primiendo a un resorte de constante K=10-^.Liberado el resorte el cuer­
+po sale disparado y luego de recorrer 0,56m por un tramo horizontal 
+liso, toma una guía semicircular de radio 0,20m para continuar luego su 
+viaje por el aire. ¿Cuál debe ser la compresión del resorte para que el 
+cuerpo caiga nuevamente sobre el punto A?. (Colegio Elbio Fernández) 
+(Fig.4.42)
+10. El cuerpo de la figura 4.43, de m = 4Kg se encuentra en el punto A en 
+equilibrio se estira hasta la posición B y luego se suelta. Las constantes 
+elásticas de los resortes son. K = 8,0^ y K' = 5,0^. ¿Con que velocidad 
+pasa por el punto A?
+11. El coeficiente de rozamiento en todo el recorrido es p. Determine hMAX 
+en función de m,Vo,x, a, p y g. (Parcial del I.P.A) (Fig.4.44)
+12. La bola parte del reposo y a una altura "h" sobre el extremo de un gran 
+resorte, a) Calcule la compresión máxima del resorte b) ¿En qué punto 
+la velocidad es máxima? c) ¿Cuánto vale esa velocidad?
+K = 200—, h = 1,0m,m = 10Kg.(Parcial del I.P.A.) (Fig.4.45)
+Fig. 4.45 Problema de examen 12
+
+70 Trabajo y Energía
+CONTROLES DE PRÁCTICO________________
+Fig.4.46
+Conservación de la energía mecánica en un sistema masa - resorte
+El resorte de la figura 4.46 sin estirar tiene una longitud l0 = 30cm (punto O). 
+Cuando se le cuelga una pesa de 800g y queda en equilibrio su longitud es 
+lM = 38cm (punto M). Luego se lleva la pesa al punto I y se suelta. La pesa 
+sube hasta llegar al punto S deteniéndose por un instante antes de volver a 
+bajar. Las distancias IM = MS = 6,0cm.
+Las incertidumbres en la masa y en el estiramiento son 20g y 0,50cm res­
+pectivamente.
+a) Determine la constante elástica del resorte con su respectiva incerti­
+dumbre.
+b) Compruebe que la energía mecánica en los puntos I y S es igual.
+c) Si la energía mecánica se conserva en todo el movimiento, cual es la 
+velocidad de la pesa al pasar por el punto M.
+Fig.4.47

@@ -1,0 +1,659 @@
+Tema: Dinámica (Capítulo 3 — La Física entre nosotros 5)
+
+Capítulo 3
+El tema central de este capítulo es el estudio de la Leyes de Newton,que nos 
+permiten relacionar el movimiento de un cuerpo con las fuerzas aplicadas 
+sobre él.
+Previamente a enunciar las Leyes, veremos las características de la magnitud 
+física que denominamos fuerza y algunos ejemplos de fuerzas importantes.
+Fuerza_____________________________________________________________________
+- Es una magnitud vectorial, por esta razón debemos siempre especificar 
+su Módulo, Dirección, Sentido y Punto de Aplicación para que quede 
+totalmente definida.
+- Su unidad en el S.l. es el Newton (N).
+- Para simbolizar que la fuerza es una magnitud vectorial lo hacemos di­
+bujando un pequeño vector sobre el símbolo F y para indicar su módulo 
+lo hacemos agregando al símbolo anterior dos barras paralelas |F|.Con la 
+finalidad de simplificar la notación, para indicar el módulo podemos tam­
+bién escribir F sin vector y sin barras (fig. 3.1). Esta simplificación en la 
+notación la aplicaremos para todas las magnitudes vectoriales.
+Masa puntual o partícula
+Fig. 3.1 El módulo de una magnitud vectorial pode­
+mos representarlo indistintamente de ambas for­
+mas.
+i
+En los capítulos anteriores cuando decíamos, por ejemplo: "la posición de 
+un cuerpo es x = 3,0m" estábamos reduciendo el cuerpo a un único punto. 
+Si se trataba de un automóvil, no distinguíamos si nos referíamos al techo, 
+una rueda o un foco de luz. En este capítulo seguiremos utilizando el mismo 
+criterio, pero además a ese punto que identifica a un cuerpo, le asignaremos 
+el valor de la masa de todo el cuerpo.
+Un cuerpo (o un sistema de cuerpos) que para facilitar su estudio po­
+demos representarlo como un único punto con toda la masa concen­
+trada en él,es lo que denominamos una PARTÍCULA o MASA PUNTUAL. 
+Tendemos a pensar que solo los cuerpos "pequeños" pueden considerarse 
+masas puntuales, pero esto no es así. Cualquier cuerpo puede ser considera­
+do una partícula, siempre que no nos interese distinguir sus partes, su for­
+ma, ni los posibles movimientos de rotación sobre si mismo. Por ejemplo si 
+estamos estudiando el movimiento de traslación de nuestro planeta alre­
+dedor del Sol, podemos considerar a la Tierra como una partícula, pero no lo 
+Podremos hacer si queremos estudiar el movimiento de rotación sobre su 
+Propio eje.
+¿^Q que parte del dibujo de un cuerpo representamos el punto de aplica­
+ción de las fuerzas que actúan sobre él?
+Lo correcto sería representar las fuerzas aplicadas en un punto denomina­
+do centro de masa1, pero no siempre es fácil ubicarlo, por lo que se acostum­
+bra a elegir, generalmente, el centro de simetría del cuerpo, si lo tiene y re­
+presentar las fuerza aplicadas allí (fig. 3.2).
+Fig.3.2 Con la finalidad de mejorar la comprensión 
+de las situaciones, dibujamos los cuerpos con su 
+correspondiente forma, pero para nuestro estudio 
+son puntos con masa.
+1 Ver "Centro de Masa" (pág. 79)
+
+42 Dinámica
+FUERZAS
+Peso_____________________________________ ________________________________________
+Es la fuerza de atracción gravitatoria que ejerce el planeta Tierra so­
+bre todos los cuerpos que se encuentran en la cercanía de su superfi­
+cie y su notación es P.
+- Su dirección es vertical y su sentido es hacia la Tierra (fig. 3.3).
+- Su módulo se calcula:
+|P| = m.|g|
+Fig.3.3 Representación de la fuerza peso.
+- |g| = 9,8~ denominada constante gravitatoria. Cuando realizamos cál­
+culos es práctico redondear el módulo de g a lO-^-.Si lo hacemos debe­
+mos ser conscientes que estamos aumentando el margen de error de 
+nuestros cálculos en un 2 % aproximadamente.
+- En el S.l. la masa se expresa en Kg y el Peso se expresa en Newton (N) 
+como todas las fuerzas.
+Fig*.3.4 La fuerza normal es siempre perpendicular 
+al plano de apoyo.
+Fig. 3.5 Si el plano es inclinado, para poder determi­
+nar la fuerza normal debemos descomponer las 
+fuerzas en dos ejes.
+Normal
+Es la fuerza que realiza una superficie sobre un cuerpo que esta apo­
+yado en ella. Como su nombre lo indica su dirección es normal (per­
+pendicular) al plano que está ejerciendo la fuerza y su notación es Ñ.
+a) Cuerpo apoyado sobre una superficie horizontal (fig. 3.4)
+- Ñ es perpendicular al plano de apoyo, por lo tanto es vertical.
+- Ñ se anula con el Peso del cuerpo, por lo que su módulo se calcula:
+|Ñ| = |P|
+b) Cuerpo apoyado en un plano inclinado
+En este caso realizaremos la descomposición de la fuerza2 Peso en dos 
+ejes, uno paralelo al plano (eje x) y otro perpendicular al anterior (eje y) 
+(fig. 3.5).
+- Ñ siempre es perpendicular al plano de apoyo.
+- El  Peso se descompone en dos componentes:
+Componente paralela al plano Componente perpendicular al plano 
+denominada P denominada Py
+|Px| = |P|senoc |Py| = |P| cos a
+La componente Py tiene igual módulo que Ñ y se anulan entre sí.
+La componente Px acelera el cuerpo en la dirección del plano inclinado.
+|Ñ| = |Py| = |p| cos a
+2 Ver Anexo 5 "Descomposición de fuerzas" 
+(pág. 155)
+
+Dinámica 43
+c| Si sobre un cuerpo apoyado en un plano horizontal, acrúan fuerzas 
+^Xní dTz Ve.,ÍCaleS ’ IÑ| * lfl’ Por “'«'r »• 
+componente de F en el eje vertical, (fig. 3.6)
+Nuevamente debemos descomponer las fuerzas en un eje paralelo al 
+plano (eje x) y uno perpendicular al anterior (eje y).
+Componente horizontal 
+denominada F
+X
+|Fx| = |F| cos a
+Componente vertical 
+denominada Fy 
+|Fy| = |F| sen a
+Fig. 3.6 En este caso en el eje y, existen tres fuerzas: 
+P,ÑyFy.- En el eje vertical las fuerzas se anulan => |Ñ| + |F | = |p|
+|Ñ| = |P|-|Fy|
+Recuerde:
+La fuerza Ñ es siempre perpendicular al plano de apoyo, pero su mó­
+dulo NO siempre es igual al Peso del cuerpo.
+Fuerza de Rozamiento o Fricción_____________________________________
+Es la fuerza producida por el contacto entre dos objetos rugosos.
+a) Fuerza de Rozamiento Cinético
+Hay fuerza de rozamiento cinético cuando las superficies rugosas de 
+dos cuerpos deslizan una sobre otra (fig. 3.7).
+Características de la fuerza de rozamiento cinético
+- Dirección => paralela a la superficie de contacto
+- Sentido => opuesto al sentido de la velocidad relati­
+va entre las superficies que rozan
+- Módulo => se calcula:
+■ pk se denomina coeficiente de rozamiento cinético y su valor depen­
+de de la rugosidad de las superficies que estén en contacto.
+■ Siempre que escribamos p sin subíndice nos estaremos refiriendo a pk.
+b) Fuerza de Rozamiento Estático
+Es la fuerza de rozamiento que actúa sobre un cuerpo en reposo e im­
+pide que este comience a moverse (fig. 3.8).
+" Dirección => paralela a la superficie de contacto
+“ Sentido => contrario al sentido de la fuerza F aplica­
+da al cuerpo
+- Módulo => es variable y toma el valor necesario para
+que la resultante de las fuerza sea nula. El 
+módulo de FR0Z cumple:
+líUSM.-IÑI
+izquierda.
+Fig. 3.8 Si el cuerpo está en reposo, la fuerza de ro­
+zamiento estático tiene el mismo módulo que F y 
+sentido contrario.
+
+44 Dinámica
+- Esta ecuación significa que la fuerza de rozamiento estática puede to 
+mar valores desde 0 N hasta un máximo pe. |Ñ|. Si la fuerza aplicada es 
+mayor que este valor, el cuerpo en contacto acelerará.
+- Para un mismo par de superficies se cumple siempre que: pe > pk.
+- Los coeficientes de rozamiento son adimensionados (no tienen unidad 
+de medida).-
+Ejemplo 1
+Sobre un cuerpo (m = 5,0 Kg)apoyado en una superficie horizontal e inicial­
+mente en reposo, comienza a actuar una fuerza horizontal de módulo varia­
+ble con el tiempo, como muestra la gráfica de la fig. 3.9.
+El coeficiente de rozamiento estático es pe = 0,4 y el dinámico es pk = 0,3.
+Indique en que momento el cuerpo comienza a moverse y describa como 
+varía el módulo de la fuerza de rozamiento.
+Calculemos la fuerza de rozamiento estática y cinética:
+Froz estático - 0'^0 • 50N => Froz estAtico < 20N
+FRoZciNÉrco = ^-N = 0-30-50N =* Frozcinético = 15N
+El módulo de la fuerza de rozamiento que actúa sobre el cuerpo aumenta 
+desde 0N hasta 20N al igual que aumenta la fuerza F graficada, A los 2,Os se 
+llega a la máxima fuerza de rozamiento estático y un instante después el 
+cuerpo se desequilibra comenzando a moverse. A partir de ese momento la 
+fuerza de rozamiento adquiere un valor constante (fuerza de rozamiento 
+cinético) de módulo 15N.
+Fig. 3.10 La fuerza elástica es aplicada por el resorte 
+deformado sobre el cuerpo.
+Fuerza Elástica:___________________________________________________________________
+Es la fuerza ejercida por cuerpos elásticos deformados (fig. 3.10).
+Características de la fuerza elástica realizada por un resorte
+- Punto de aplicación => sobre el cuerpo que está deformando el re­
+sorte
+- Dirección
+- Sentido
+- Módulo
+=> la del eje longitudinal del resorte
+=> opuesto al sentido de la deformación
+=> directamente proporcional a la deforma­
+ción (Al). Fe oc Al => —= K. La constante de 
+proporcionalidad K se denomina constan­
+te elástica del resorte y su unidad en el 
+S.l. es N
+Denominamos fuerza neta a la 
+suma vectorial de todas las fuer­
+zas que actúan sobre un cuerpo.
+f = 2F
+Fuerza Neta_____________________________
+Es la fuerza resultante de sumar vectorialmente todas las fuerzas que 
+actúan sobre un cuerpo.
+- La fuerza neta no es una fuerza más que actúa sobre el cuerpo, sino una 
+fuerza que sustituye a todas.
+- La notación que utilizaremos será FNETA o F .
+
+Dinámica 45
+leyes de newton
+Primera Ley de Ngwton o Ley de Inercia-*
+Esta ley establece como es el movimiento de un cuerpo si la fuerza neta 
+sobre él es nula.
+Si la fuerza neta sobre un cuerpo es nula (las fuerzas se anulan entre 
+sí, o no actúa ninguna fuerza) la velocidad del cuerpo se mantiene 
+constante.
+Esto implica que:
+1.51 el cuerpo esta inicialmente en reposo, seguirá en reposo.
+2.51 el cuerpo estaba en movimiento seguirá moviéndose con M.R.U..
+También se cumple el recíproco de esta ley:
+Fig.3.11 Isaac Newton (1642 - 1727). Matemático y 
+físico británico.
+Si la velocidad de un cuerpo es constante, la fuerza neta sobre él es 
+nula.
+Segunda^ey Newton o Ley Fundamental de la Dinámica
+La Ley de Inercia nos especifica como es el movimiento de un cuerpo si la 
+fuerza neta sobre él es nula.
+¿Cómo será el movimiento de un cuerpo si la fuerza neta no es nula?
+Tendrá un movimiento acelerado y las características de la aceleración que­
+dan expresadas en el enunciado de la Segunda Ley.
+La aceleración de un cuerpo tiene igual dirección y sentido que la fuer­
+za neta que actúa sobre él y su módulo es directamente proporcional 
+al módulo de la fuerza neta e inversamente proporcional a la masa 
+del cuerpo. ....  ....... -t.— ...... .....
+Esto se puede expresar mediante una ecuación a = y despejando lle­
+gamos a la clásica ecuación de la Segunda Ley de Newton
+Una fuerza de un Newton es aque­
+lla que aplicada a un cuerpo de 
+masa un kilogramo le produce una 
+aceleración de 1^.
+Tercera Ley de Newton o Ley de Acción y Reacción_________________
+En esta ley, también denominada Ley de Interacción, Newton formaliza vas 
+características de la interacción entre dos cuerpos.
+Cuapdo un cuerpo A ejerce una fuerza sobre un cuerpo B (FA/B) el cuer­
+po B ejerce simultáneamente una fuerza sobre el cuerpo A (FB/A), de 
+igual módulo, igual dirección que F^ y sentido contrario (fig. 3.12).
+A partir del enunciado de la Tercera Ley podemos obtener algunas conclusiones:
+- Siempre en una interacción entre dos cuerpos existen dos fuerzas, deno­
+minadas par de interacción o par de acción y reacción.
+- Estas fuerzas actúan en cuerpos distintos (una en el A y otra en el B).
+Fig. 3.12 Las fuerzas y FB/A de repulsión entre los
+imanes forman un par de fuerzas de interacción.
+- Son fuerzas opuestas.
+- Actúan simultáneamente.
+- Los subíndices de un par de fuerzas de acción y reacción son siempre 
+inversos, en este caso A/B y B/A.
+
+46 Dinámica
+Fig. 3.13 Ejemplo 2
+Fig. 3.14 La fuerza P la podemos sustituir por sus 
+componentes en los ejes.
+Ejemplo 2
+El bloque de la Fig 3.13 tiene una masa de 3,0Kg, parte del reposo y desliza 
+por el plano inclinado 37°.
+El coeficiente de rozamiento cinético entre el plano y el bloque es p = 0,2.
+a) Represente y calcule todas las fuerzas que actúan sobre el cuerpo.
+El primer paso es representar las fuerzas que actúan sobre el bloque, su 
+Peso (P), la fuerza normal (Ñ) y la fuerza de rozamiento (FR02). (fig. 3.14)
+La fuerza Peso la descomponemos en una componente paralela al plano 
+Px y una componente perpendicular Py. Los módulos de las fuerzas re­
+presentadas son:
+P = mg = 3,0Kg. 10-^ = 30N => P = 30N
+Sus componentes son:
+Px= P. sen (a) = 30N . sen (37°) = 18N => Px=18N
+Py= P .cos (a) = 30N .eos (37°) = 24N => Py = 24N
+El módulo de la fuerza normal es igual al de la componente Py
+=> N = 24N
+y la fuerza de rozamiento se calcula FR0Z = p . N = 0,2 . 24N = 4,8N
+=> FROZ = 4,8N 
+Fig. 3.15 PM y FRO2 tienen sentido contrario, su resul­
+tante se calcula restando sus módulos FNeU = P„ -
+Fig.3.16 El bloque desciende con M.R.U.V.porque la 
+aceleración es constante.
+b) Calcule la aceleración del bloque.
+Para calcular la aceleración aplicamos la ecuación correspondiente a la 
+Segunda Ley de Newton a = -^ppero primero debemos hallar la Fuer­
+za Neta.
+Luego de descomponer P en los ejes tenemos 4 fuerzas actuando sobre 
+el bloque, dos en cada eje. En el eje Y las fuerzas P y Ñ se anulan entre sí 
+y en el eje X tenemos dos fuerzas de sentidos contrarios Px y FR0Z (fig.3.15).
+Tomando positivo el sentido del movimiento del bloque la fuerza neta 
+se calcula
+Fneta = Px “ FROZ = 18N - 4'8n =13,2N => Fneia = 13,2N y en el mismo 
+sentido que Px.
+_ — Fneta _ 13,2N . _ m ...
+a” m " 3,0Kg a “ 4/4 V Y en ‘9ual dirección y sentido que la
+fuerza neta (fig. 3.16).
+c) Si la longitud del plano indinado es 2,0m. ¿Cuál es la velocidad del blo­
+que al llegar al punto más bajo?
+Tenemos los siguientes datos: v0 = 0-y Ax = 2,0m y a = 4,4 
+Recordando las ecuaciones de movimiento vanado 
+vf2 - v02 + 2 . a . Ax = 0 + 2.4,4~- .2,0m => vf = 4,2—
+
+Dinámica 47
+MASAS VINCUIADAS____________________
+En esta sección estudiaremos dinámicamente un sistema formado por más 
+de un cuerpo. Veremos un caso donde los cuerpos están unidos mediante 
+cuerdas que pasan por poleas.
+En todos los problemas y ejemplos de este capítulo, consideraremos que las 
+cuerdas y las poleas no tienen masa apreciable, esto determina que las ten­
+siones en los extremos de una misma cuerda y a ambos lados de una polea 
+tengan el mismo módulo (fig. 3.17).
+En el ejemplo 3 plantearemos un procedimiento general para resolver este 
+tipo de situación, que con algunos ajustes para algunos casos particulares 
+es aplicable a todas los problemas con masas vinculadas.
+Fig. 3.17 Los módulos de las tensiones de la cuerda 
+a ambos lados de una polea (masa despreciable) son 
+iguales.
+Ejemplo 3
+Calcule la aceleración de los bloques y la tensión de la cuerda, considerando 
+que la polea y la cuerda tienen masas despreciables (Fig. 3.18); mR0J0 = 8,0Kg 
+mAzuL ~ 7'0Kg y el coeficiente de rozamiento entre los bloques y las superfi­
+cies es p = 0,11.
+Paso 1: Determinar el sentido de movimiento
+Muchas veces el enunciado del problema nos indica en que sentido se mue­
+ven los cuerpos. Un error muy común es suponer que el sistema se moverá 
+hacia el lado que se encuentra el cuerpo de mayor Peso, esto no siempre es 
+así. En este ejemplo el bloque azul tiene una masa de 7,0Kg y por lo tanto su 
+Peso es 70N y el Peso del bloque rojo es 80N. Pero como el bloque rojo está 
+en un plano inclinado la fuerza que debemos tener en cuenta para saber 
+hacia que lado se mueve, es su componente Px => Px = P sen ot = 80N .0,6 => 
+Px = 48N que es menor que el Peso del cuerpo azul. Este cálculo determina 
+que el cuerpo rojo suba por el plano inclinado y el cuerpo azul baje.
+Fig. 3.18 Comparando el Peso del cuerpo azul con 
+la componente "x" del Peso del cuerpo rojo deter­
+minamos en que sentido acelerará el sistema.
+Paso 2: Representar y calcular todas las fuerzas que actúan sobre cada 
+cuerpo.
+Esto lo podemos realizar directamente sobre el dibujo anterior o podemos 
+realizar lo que denominamos DIAGRAMA DE CUERPO LIBRE que consis e en 
+representar cada cuerpo por separado, sustituyendo los víncu os con o ro 
+cuerpos por las fuerzas que estos le realizan (fig.3.19).
+De las fuerzas representadas calcularemos los módulos de las que tenga­
+mos datos suficientes.
+Bloque Azul:
+P = 70N
+La tensión de la cuerda que es la 
+misma para ambos cuerpos, no la 
+podemos hallar por el momento.
+Bloque Rojo:
+P = 80N
+Px = P. sen a = 80N. 0,60 => Px=48N
+p =P.cosa = 80 0,80=>P=64N 
+y
+N = P => N = 64N
+FROZ4-N = 0,11.64^FROZ=7,0Ñ Fig. 3.19 Diagrama de cuerpo libre de ambos blo­
+ques.
+
+48 Dinámica
+Paso 3: Plantear para cada cuerpo la ecuación de la Segunda Ley de 
+Newton
+Tomando con signo positivo las fuerzas en el sentido del movimiento 
+de cada cuerpo planteamos FNETA = m.a para cada uno.
+Bloque azul: P-T = mAZUL.a => 70-T = 7,0.a
+Bloque rojo: T - P - fnn_ = m__.. .a => T - 48 - 7,0 = 8,0 . a
+■ * X KUZ KUJH
+Como la aceleración de ambos cuerpos es la misma y la tensión de la cuerda 
+también, nos ha quedado un sistema de dos ecuaciones con dos incógnitas 
+que podremos resolver para obtener "a" y "T".
+Siguiendo los pasos indicados en 
+este ejemplo, podemos resolver si­
+tuaciones con mayor número de 
+cuerpos vinculados. Siempre ten­
+dremos una ecuación por cada 
+cuerpo y el número de incógnitas 
+será igual a! número de ecuaciones.
+Paso 4: Resolver el sistema de ecuaciones
+El método mas fácil para resolver este sistema es el denominado "método 
+de reducción". Alcanza con sumar las ecuaciones para eliminar la incógnita 
+"T" y poder despejar la aceleración.
+70-T= 7,0a
+T - 48 - 7,0 = 8,0a
+70 - 48 - 7,0 = 7,0a + 8,0a => 15 = 15a => a= y^=1,0-^- => a = 1,0-^
+Para calcular la tensión de la cuerda sustituimos el valor de la aceleración en 
+cualquiera de las dos ecuaciones. El resultado es T = 63N.
+Fig. 3.20 Las fuerzas P y N se anulan, la fuerza neta 
+es la fuerza de rozamiento en sentido opuesto a la 
+velocidad.
+Ejemplo 4
+Un bloque de masa "m" que se mueve con |v| = 4,0-y- por un plano hori­
+zontal, entra en una zona rugosa deteniéndose después de recorrer 5,0m. 
+¿Cuánto vale el coeficiente de rozamiento?
+Representemos las fuerzas que actúan sobre el bloque (fig. 3.20) y plantee­
+mos la ecuación correspondiente a la Segunda Ley de Newton.
+La fuerza neta es la fR0Z porque P y Ñ se anularon. Considerando positivo el 
+sentido de la velocidad del bloque, obtenemos:
+Fneta = m • a => -FR0Z = m . a. De esta ecuación aparentemente no tenemos 
+ningún dato pero podemos calcular la aceleración del bloque y una expre­
+sión de Froz en función de p.
+N = P = mg
+vo-4,Of 
+V°T 
+Ax = 5,0m
+Sustituimos y despejamos "a" de la siguiente ecuación:
+v,2 = vn2 + 2. a . Ax => a = -1,6—f 0 S’
+F =p.N rROZ H
+FRoZ = P-mg => FROZ = M.m.10
+Volviendo a la ecuación original -FR0Z = m .a nos queda:
+-p ,m . 10 = m .(-1,6) simplificando "m" y despejando obtenemos
+p = 0,16
+
+Dinámica 49
+ESTÁTICA
+La estática es la rama de la mecánica que estudia el equilibrio de los cuer­
+pos.
+Condición de Equilibrio de una masa puntual
+Para que un cuerpo (considerado como una masa puntual) esté en 
+equilibrio, la fuerza neta sobre él, debe ser nula.
+- Esta definición de equilibrio sólo es válida para masas puntuales, en el 
+Capítulo 7 estudiaremos condiciones de equilibrio generales para cual­
+quier tipo de cuerpo.
+- A partir de la definición anterior y aplicando la Ley de Inercia podemos 
+afirmar que: Si la velocidad de un cuerpo no cambia está en equilibrio.
+- No solo los cuerpos que permanecen en reposo están en equilibrio, sino 
+que todos los que se mueven con M.R.U. también lo están.
+Ejemplo 5
+En la figura 3.21 vemos un cuadro colgado de dos cuerdas.
+Sabiendo que la tensión de la cuerda 1 es 50N y que el cuerpo está en 
+equilibrio, determine su masa.
+Como primer paso representemos las fuerzas que actúan sobre el cuadro y 
+sobre el nudo que une las cuerdas.
+Sobre el cuadro sólo actúan dos fuerzas, su Peso (P) y la tensión de la cuerda 
+2(T2).
+Como el cuerpo está en equilibrio se cumple que T2 = P.
+En el nudo representamos Tv T2 y f3 (fig. 3.22). De estas fuerzas sólo conoce­
+mos el módulo de una de ellas (T, = 50N) y para calcular las otras dos nece­
+sitaremos dos ecuaciones.
+Este punto se encuentra en equilibrio en ambos ejes, por esta razón plan­
+tearemos la condición de equilibrio (FNETA = ON) para cada uno de ellos,obte­
+niendo así las dos ecuaciones deseadas.
+En la figura 3.23 vemos la descomposición de í\ y f3 y aplicando trigono­
+metría obtenemos:
+Tlx = T, eos 53° = 0,60.50N = 30N T3x = T3 eos 30° = 0,87 ,T3
+Tly = T sen 53° = 0,80.50N = 40N T3y = T3 sen 30° = 0,50 .T3
+Ejex
+Fnetax = 0N => T1x -T3x = 0 => 30N - 0,87 . T3 = 0
+Eje y
+FNETAy=0N ^T1y+T3y-T2 = 0 => 40N + 0,50. T3-T2 = 0
+Hemos obtenido dos ecuaciones con dos incógnitas, su solución es
+T3 = 34NyT2 = 57N.
+_ P
+El Peso del cuadro tiene igual módulo que T2 = 57N => m - g
+==> m = 5,7Kg
+Fig. 3.23 Si el cuerpo está en equilibrio las compo­
+nentes de las fuerzas en los dos ejes x e y se anulan.
+ZFM = OyZFy=O.
+
+50 Dinámica
+Fig. 3.24 Las fuerzas gravitatorias son siempre de 
+atracción.
+m, y m2 son los valores de las masas 
+de los cuerpos que están interac­
+tuando.
+d es la distancia entre los centros de 
+masa de los cuerpos.
+"G" es una constante de proporcio­
+nalidad obtenida experimentalmen­
+te por H. Cavendish, cuyo valor en el 
+S.l. de unidades es:
+G = 6,67x10”^.
+LEY DE GRAVITACIÓN UNIVERSAL
+Otro de los grandes aportes que realizó I. Newton fue la formulación de la 
+Ley de Gravitación Universal. A partir de ella se puede explicar desde la caí­
+da de un cuerpo, hasta el movimiento de los astros en sus órbitas.
+Esta ley sostiene que todos los cuerpos del universo, por el solo hecho de 
+estar compuestos por materia, están en interacción gravitatoria entre el os. 
+¿Qué características tienen estas fuerzas?
+Por ser las fuerzas gravitatorias entre dos cuerpos un par de acción - reac­
+ción y basándonos en la Tercera ley de Newton, estas fuerzas tienen las si­
+guientes características (fig. 3.24):
+- Siempre que existe una interacción gravitatoria en la que intervienen 
+dos cuerpos, existen dos fuerzas (F1/2 y F2/1), una aplicada en un cuerpo y 
+la otra en el otro cuerpo.
+- Tienen igual módulo |F1Z2| = |F2/1I
+- Tienen igual dirección,que es la de la recta que une los centros de los cuerpos.
+- Sus sentidos son contrarios.
+El cálculo de su módulo depende de dos variables, la masa de los cuerpos 
+que interactúan y la distancia entre ellos.
+Ley de Gravitación Universal
+El módulo de la fuerza de atracción gravitatoria entre dos cuerpos, es 
+directamente proporcional al producto de sus masas e inversamente 
+proporcional al cuadrado de la distancia que separa los centros de 
+los cuerpos.
+Esto se puede expresar con una ecuación de la siguiente forma:
+Esta constante G tiene el mismo valor siempre, sin importar si la fuerza que 
+estamos calculando es entre dos granos de arroz o entre dos grandes plane­
+tas, ni donde se encuentren los cuerpos que están interactuando, por esta 
+razón su carácter es universal.
+No debe confundirse con la constante "g” que es la aceleración de los cuer­
+pos en caída libre en la cercanía de la superficie terrestre. Recuerde que el 
+módulo de g depende del planeta y del lugar donde se encuentre el cuerpo, 
+no teniendo así el carácter de universal.
+Fig. 3.25 Las fuerzas y FT/Ltienen igual módulo. 
+Las aceleraciones que producen son distintas por­
+que están aplicadas en cuerpos de diferente masa.
+Ejemplo 6
+Vamos a determinar el módulo de la fuerza de atracción gravitatoria entre laTie­
+rra y la Luna (fig. 3.25). Para realizar el cálculo necesitamos los siguientes datos: 
+mLUNA = 7-4 ■10”Kg, mTIERRA = 5,98.10»Kg y la dT¡e,ra/luna = 3,8 x 10’m.
+Aplicamos la ecuación F = G —y nos queda:
+F = 6,67.10'”^
+Kg¡
+7,4.1O”Kg .5,98.102<Kg
+(3,8.10‘mj5-------- => F = 2,0.1020N
+¿El módulo de la fuerza calculada es el de la F o el de la F ?L/T v,c' u ’ -f/f
+Las dos fuerzas tienen el mismo módulo, por ser un par de fuerzas de acción 
+y reacción.
+
+Dinámica 51
+PROBLEMAS
+1. En todos los casos la masa del cuerpo es 3,0Kg y el coeficiente de roza­
+miento cinético es p = 0,20. Represente todas las fuerzas que actúan 
+sobre los bloques y calcule la aceleración de cada uno. (Fig.3.26)
+2. El bloque de masa 500g se encuentra inicialmente en reposo apoyado 
+en una superficie horizontal (fig. 3.27). Sobre él comienza a actuar una 
+fuerza F horizontal de módulo constante. Su velocidad varía según la 
+gráfica v = f (t). ¿Cuál es el módulo de F si p entre las superficies es 0,10?
+Fig. 3.27 Problema 2
+3. Un carro de masa 2,0Kg desliza hacia abajo por un plano inclinado 30° 
+y longitud 2,0m. El coeficiente de rozamiento cinético es p = 0,20. 
+a) Calcule la aceleración del carro, b) Si el carro parte del reposo. ¿Qué 
+velocidad tiene al llegar al final del plano inclinado?
+4. Un bloque de masa "m" desliza por un plano inclinado 53°. Calcule su 
+aceleración si el coeficiente de rozamiento cinético entre las superfi­
+cies es 0,4.
+5. Una caja de masa 4,0Kg está apoyada en reposo sobre un plano horizontal. 
+El coeficiente de fricción estático es pe = 0,50 y el cinético pk = 0,30.a) Si se 
+le aplica una fuerza horizontal de 12N.¿La caja comenzará a moverse? b)Para 
+la situación anterior.¿Cuál es el módulo de la fuerza de rozamiento? c)¿Cuál 
+es la máxima fuerza horizontal que se puede aplicar a la caja sin que se 
+mueva?
+
+52 Dinámica
+6. En los siguientes sistemas de cuerpos vinculados (fig. 3.28),calcule la ace­
+leración de los cuerpos y la tensión de la cuerda. En todos los casos las 
+masas de las poleas y las cuerdas son despreciables. También sabemos 
+que el bloque rojo tiene una masa de 5,0Kg, el azul de 3,0Kg, y p = 0,20.
+Fig. 3.28 Problema 6
+7. En los siguientes sistemas de cuerpos vinculados (fig. 3.29),calcule la ace­
+leración de los cuerpos y las tensiones de las cuerdas. En todos los casos 
+y las cuerdas son despreciables. También sabe- 
+ique rojo es 5,0Kg,del azul 2,0Kg,del verde 1,0Kg
+Fig. 3.29 Problema?
+8. El rozamiento entre m, = 2,0Kg y el plano es despreciable. a)¿Cuánto tiem­
+po empleará m2 — 3,0Kg en llegar al piso si parte del reposo? b) Grafique 
+v = f (t) del movimiento del bloque 2, desde que comenzó a moverse 
+hasta que llegó al piso. (Fig. 3.30)
+9. Calcule la masa del bloque rojo si la del amarillo es 4,0Kg y desciende 
+con aceleración 2,0^. Desprecie los efectos de las fuerzas de fricción. 
+(Fig.3.31)
+10. El bloque m2 = 2,0Kg parte del reposo y llega al piso 0,30 segundos des-
+pués. Determine el coeficiente de rozamiento entre el bloque m = 1,0Kg 
+y el plano. (Fig. 3.32) ’
+
+Dinámica 53
+Fig. 3.32 Problema 10
+11. Determine el módulo de la fuerza que se está aplicando am ,s¡ el siste­
+ma tiene una aceleración de 3,0-^- y el cuerpo 2 asciende por el plano 
+indinado, m, = m2 = 4,0Kg y el coeficiente de rozamiento es el mismo 
+en ambos planos: p = 0,25. (Fig.3.33)
+12. Determine el coeficiente de rozamiento entre los bloques y los planos 
+si ambos se mueven con velocidad constante de 2,00-y-- La masa del 
+cuerpo rojo es 4,00Kg y la del azul 1,00Kg. (Fig.3.34)
+13. El sistema de la fig.3.35 está en equilibrio. Determine el valor de m, y m2.
+Fig. 3.34 Problema 12
+14. Determine el estiramiento del resorte (K - 200^) si el sistema esta en 
+equilibrio y los planos son lisos, m, = 2,0Kg y m2 - 5,0Kg. (Fig 3.36)
+
+54 Dinámica
+PROBLEMAS DE EXAMEN
+1. Un bloque de masa 1,OKg, se desliza hacia abajo por un plano rugoso 
+inclinado 37°, con una velocidad que varía como se indica en la gráfica 
+(fig. 3.37). Determine el coeficiente de rozamiento entre el bloque y el 
+plano.
+2. Un bloque de m = 1,0Kg es arrastrado mediante la aplicación de una 
+fuerza constante de 3,ON, la que se aplica a lo largo de todo el trayecto 
+AC (fig. 3.38). En el tramo AB la fuerza de rozamiento tiene módulo!,ON 
+y en tramo BC 3,ON. Realice: a) La gráfica v = v(t). b) La gráfica a = a(t). 
+(Prof. E. Lago/I. Crandon)
+Fig. 3.38 Problema de examen 2
+Fig. 3.39 Problema de examen 3
+Sobre la partícula de m = 200g del esquema (fig. 3.39), actúa una fuerza 
+constante de valor -2N. Para los primeros 2,Os:Grafica:a) x = f (t) b) v = f (t) 
+(Condiciones iniciales x0 =-10m y v0= 10-y). (Prof. W.Netto/Sagrada 
+Familia)
+Un bloque de 2,0Kg de masa recorre la rampa formada por dos planos 
+inclinados según se muestra en la figura 3.40. Sabiendo que la velocidad 
+en el punto A es de 18,0-y- y que el coeficiente de rozamiento entre el 
+plano y el bloque es de 0,20 en ambos planos, calcular: a) La aceleración 
+que experimenta el bloque en los tramos AB y BC de la rampa, b) La velo­
+cidad del bloque al llegar al punto C. (Prof. U. Roviello / I.U.D.E.P.)
+Una fuerza horizontal de 100N actúa sobre un bloque de 12Kg hacién­
+dole subir por un plano inclinado sin rozamiento, que forma un ángulo 
+de 25° con la horizontal.
+a) ¿Cuál es la fuerza Normal que el plano inclinado ejerce sobre el bloque?
+b) ¿Cuál es la aceleración del bloque?
+(Prof.Z.Goyen / Liceo Miguel C. Rubino)
+Al colocar un cuerpo de masa "m" en A, el cuerpo desciende con veloci­
+dad constante cuando la inclinación del plano es 37°. ¿Cuánto tardaría 
+en llegar a B si a fuera 53° y se dejara caer desde la misma altura?
+(Prof. H. Bentancour /1. Ariel) (Fig. 3.41)
+La fuerza F de la figura 3.42 vale 38N y logra desplazar al sistema en su 
+propia dirección y sentido con una aceleración de 1,5.-^ Sabiendo que 
+el coeficiente de rozamiento de ambos bloques con sus planos de apo­
+yo es el mismo y m1 = m2 = 2,0Kg. Calcule p (Prof. U. Roviello / I.U.D.E.P.)
+F¡g.3.41 Problema de examen 6 Fig. 3.42 Problema de examen 7
+
+Dinámica 55
+8. Determine el coeficiente de rozamiento para que el sistema se mueva 
+con velocidad constante. Las masas de los bloques son ¡guales.
+(Prof.H. Bentancour /1. Ariel) (Fig.3.43)
+9. Dado el sistema de la figura 3.44 donde mA = 200g, m0 = 100g, F = 4,0N 
+y M = °- - Determina: a) La aceleración del sistema, b) La fuerza de 
+interacción entre A y B. (Prof. W. Netto / Sagrada Familia)
+30
+10. El sistema de la figura 3.45 se encuentra en equilibrio y solo existe roza­
+miento en el bloque de la derecha. ¿Con que aceleración se moverá el 
+sistema si se corta la cuerda en el punto P? (Prof. H. Bentancour /1. Ariel)
+11. Determine en función de M, m y pe, la máxima fuerza F que se puede 
+aplicar sobre M sin que m deslice. El rozamiento entre M y el piso es 
+despreciable y pe es el coeficiente de rozamiento estático entre los blo- 
+ques.(Fig.3.46)
+12. Hallar el alargamiento del resorte si el sistema se encuentra en equili­
+brio y el plano es liso. Ambas masas valen 2,0Kg y K — 300—.
+(Prof. W. Netto / Sagrada Familia) (Fig. 3.47) *  *  *
+13.
+Fig. 3.46 Problema de examen 11
+Dos cuerpos, uno de masa 100Kg y el otro de peso P cuelgan de cuer-
+das como se indica en la figura 3.48. .
+En esas condiciones haIlar:T, J2 ,T3 y P. (Prof. H. Bentancour /1. Ariel)
+Fig. 3.48 Problema de examen 13
+
+lí
+56 Dinámica
+CONTROLES DE PRÁCTICO
+Ley de Hooke
+De un resorte se colgaron pesas de diferentes masas (fig. 3.49) y se obtuvie­
+ron los siguientes estiramientos (Al).
+m(g) 0 100 200 300 400 500
+Al(cm) 0 13 2,5 3,8 5,0 6,2
+La incertidumbre en las masas es un 8% y en los estiramientos es 0,2cm.
+a) Grafique F = f (Al).
+b) Calcule la constante del resorte con su correspondiente incertidumbre.
+Relación entre fuerza neta y aceleración
+Utilizando el dispositivo de la figura 3.50 se midió el tiempo que tarda el 
+carro en recorrer la distancia entre los sensores Ax = 0,40 m + 0,01 m, 
+obteniéndose diferentes valores según el número de pesas que se coloca­
+ron en el soporte.
+Cada pesa tiene una masa de 10g, la masa del soporte es 50g y la masa del 
+carro es400g.
+N° pesas 1 2 3 4 5
+At (s) 0,90 0,82 0,76 0,71 0,67
+a) Determine la aceleración en cada caso, sabiendo que la velocidad ini­
+cial del carro es nula.
+b) Calcule el Peso de las pesas conjuntamente con el soporte en cada 
+caso.
+c) Grafique Peso de las pesas más el soporte en función de la aceleración.
+d) Deduzca teóricamente la siguiente ecuación:
+P = (mCARRO + mPESAS + mSOPORlP * 3 + ^ROZ
+e) A partir de la gráfica P = f (a) determina la masa total del sistema y la 
+fuerza de rozamiento entre el carro y el riel.
+Fig. 3.50

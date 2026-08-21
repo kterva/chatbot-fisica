@@ -1,0 +1,512 @@
+Tema: Movimiento en dos dimensiones (Capítulo 2 — La Física entre nosotros 5)
+
+Capítulo 2
+Movimiento en 
+dos dimensiones
+Las trayectorias de los movimientos tridimensionales pueden ser cualquier 
+tipo de curva, siempre que estén contenidas en un plano. En este capítulo 
+ampliaremos algunos conceptos definidos para los movimientos rectilíneos 
+e introduciremos algunos nuevos.
+Posición__________________________________________________________________
+En un movimiento en una dimensión determinábamos la posición de un punto 
+mediante su coordenada en un único eje. Para determinar la posición de un 
+punto en un plano es necesario indicar dos coordenadas, una en el eje "x" 
+denominada abscisa y otra en el eje "y" denominada ordenada1 (fig.2.1).
+También se puede utilizar un vector para ubicar un punto en un plano, de­
+nominado vector posición r que tiene las siguientes características:
+- Punto de aplicación => el punto "O" de referencia
+- Dirección => la recta determinada por "O" y el punto
+que deseamos ubicar "A"
+- Sentido => desde "O" hasta "A”
+- Módulo => la distancia entre los puntos "O” y "A"
+Fig. 2.1 Para determinar la posición de un punto en 
+un plano es necesario conocer sus dos coordena-
+y
+i
+yA- A
+i
+0
+1 
+XA x^
+Distancia Recorrida__________________ _ _________________________________
+Supongamos que un móvil parte del punto A y llega al punto B siguiendo la 
+trayectoria curva de color rojo indicada en la figura 2.2.
+Definimos la magnitud escalar DISTANCIA RECORRIDA y la represen­
+taremos Asz a la distancia que recorrió el móvil medida sobre la tra­
+yectoria (fig. 2.2).
+La unidad de medida de As en el S.l. de unidades es el Metro (m).
+Desplazamiento -______________________________________________
+Definimos la magnitud vectorial DESPLAZAMIENTO y la representa­
+remos Ar, al vector que tiene su origen en el punto inicial del movi­
+miento (A) y su extremo en el punto final (B) (fig. 2.3).
+- La definición es la misma que la realizada para un movimiento rectilíneo, 
+se cambió la notación Ax por Af para no crear confusión ya que Ax lo 
+utilizamos en el capítulo anterior para desplazamientos horizontales.
+- También podemos determinar el desplazamiento realizando la variación de 
+las coordenadas de los puntos. Obteniéndose un valor de Ax y otro de Ay.
+- Si la trayectoria del movimiento fuera rectilínea y en un único sentido, la 
+distancia recorrida As coincidiría con el módulo del desplazamiento.
+- La unidad de medida en el S.l. es el Metro (m).
+Fig. 2.3 El vector desplazamiento es la resta vectorial 
+Ar=rB-rA.
+y
+AZ1
+^As
+Ar .
+/ A
+rB
+X
+1 Ver Anexo 5 "Descomposición de vectores"
+(pág.155)
+
+30 Movimiento en dos dimensiones
+Rapidez Media____________________________________ _______________________________
+Definimos la magnitud escalar RAPIDEZ MEDIA y la representaremos 
+u , al cociente entre la distancia recorrida (As) y el tiempo que empleo
+en recorrerla (At). Este cociente se expresa: pm =
+Por ser un cociente entre una longitud sobre un tiempo, su unidad en el S.l. 
+es -y-.
+Fig. 2.4 La velocidad media es colineal con el des­
+plazamiento.
+Velocidad Media_____________ ____________________________________________________
+Definimos la magnitud vectorial VELOCIDAD MEDIA y la representare­
+mos como vm, a un vector que tiene igual dirección y sentido que el
+vector Ar y su módulo es |vm| = (fig. 2.4).
+- La definición es la misma que la realizada para un movimiento rectilíneo.
+- Por ser un cociente entre una longitud y un tiempo, su unidad en el S.l.es
+I
+Ejemplo 1
+Un ciclista realiza la trayectoria AOB de la fig. 2.5 con rapidez constante 14— 
+(Esto significa que el módulo de la velocidad instantánea también es cons­
+tante y tiene ese valor). La longitud del tramo AO es 40m y la del OB es 30m. 
+Para el movimiento entre los puntos A y B calcule:
+a) La distancia recorrida.
+b) El desplazamiento.
+c) La velocidad media.
+a) La distancia recorrida es la suma de la longitud AO más la 
+longitud OB => As = 70m
+b) El desplazamiento es la hipotenusa del triángulo (Fig.2.6)
+=> Ar = '/3O? + 401 = 50m => Ar = 50m
+Para determinar la dirección respecto al tramo AO, planteo:
+Fig. 2.6
+Fig. 2.7 vm yAr tienen igual dirección y sentido.
+c) Para calcular la velocidad media necesitamos el tiempo empleado en el 
+recorrido. Como la rapidez es constante, su valor coincide con la rapidez 
+media => At = -^- => => At = 5,0s
+Mm | 4-------
+s
+Ahora podemos calcular la |vm| =-^£1 = ^11 = 10_m =10-01
+D,US s m s
+vm tiene igual dirección y sentido que el vector Ar (fig. 2.7)
+
+Movimiento en dos dimensiones 31
+Velocidad instantánea_____________
+Al recorrer la trayectoria AB (fig. 2.8), el módulo de la velocidad instantánea 
+de un móvil puede ir variando o mantener el mismo valor, pero su dirección 
+cambia continuamente.
+El vector VELOCIDAD INSTANTÁNEA es tangente a la trayectoria en 
+cada punto de ella y su módulo coincide con la rapidez del móvil.
+La figura nos muestra el vector velocidad instantánea en tres puntos (A, B y 
+C) de la trayectoria. Podemos observar que las direcciones en los tres puntos 
+son distintas, por lo que podemos afirmar que el vector velocidad instantá­
+nea en una trayectoria curva cambia su dirección continuamente.
+Aceleración Media
+Definimos la magnitud vectorial ACELERACION MEDIA y la represen­
+taremos como ám, a un vector que tiene igual dirección y sentido que 
+el vector Av y su módulo es |a | = 1^.
+9 m1 At
+- La unidad de medida de la aceleración media en el S.l. es -y-.
+El cálculo de Av se realiza vf - v., esto implica realizar una resta de 
+vectores2.
+Fig. 2.8 La velocidad instantánea es tangente a la 
+trayectoria en cualquier punto de ella.
+Ejemplo 2
+Calcular la aceleración media del ciclista del ejemplo 1, entre los puntos A y B. 
+Para calcular la aceleración media, previamente calcularemos Av = vB - vA. 
+El módulo de ambas velocidades instantáneas es 14-y-, pero sus direccio­
+nes son diferentes. En la fig.2.9 las vemos representadas, tangente a la tra­
+yectoria en los puntos correspondientes.
+Para restar dos vectores debemos seguir los pasos indicados en el Anexo 5 
+(Resta de vectores).
+a) Trasladar hasta hacer coincidir los orígenes. (Fig. 2.10 a)
+b) Representar el vector -vA. (Fig. 2.10 b)
+c) Sumar v + (-vA) vectorialmente (método del paralelogramo).(Fig.2.10 b)
+8 A
+El módulo de Av lo calculamos utilizando el Teorema de Pitágoras
+___________ 20—
+Av = 7l42 + 142 = 20-y- => = am = 4'°V
+El módulo de la aceleración media es 4,0-y- y tiene igual dirección y senti­
+do que Av (Fig. 2.10c).
+Fig.2.9 Las velocidades instantáneas son tangentes 
+a la trayectoria y |v| = p.
+2 Ver Anexo 5 "Resta de vectores" (pág. 155)
+
+32 Movimiento en dos dimensiones
+Q
+P
+Fíg. 2.11 El bote se desplaza perpendicular a la orilla.
+COMPOSICIÓN DE DOS MOVIMIENTOS RECTILÍNEOS UNIFORMES
+A partir de la resolución de un problema estudiaremos el movimiento re­
+sultante de la superposición de dos movimientos rectilíneos y uniformes.
+Ejemplo 3
+En la fig. 2.11 vemos un bote que intenta cruzar un río de 160m de ancho, 
+moviéndose perpendicularmente a la orilla desde "P" hasta "Q". El barco 
+desarrolla una velocidad constante de 8,0-y-,a esta velocidad la denomina­
+remos del barco respecto al agua v0/A.
+a) ¿Cuánto tiempo emplea el barco en cruzar?
+El bote se mueve con M.R.U por lo tanto v = => At = - 20s,
+b) ¿Qué sucede si el agua del río se mueve paralela a la orilla hacia la dere­
+cha con una velocidad de 6,0—?
+A esta velocidad la denominamos velocidad del agua respecto a la orilla v^o.
+El barco se verá afectado por ambos movimientos a la vez, por lo tanto 
+mientras avanza hacia la orilla opuesta también se mueve paralelamente 
+a la orilla desviándose de su trayectoria original.
+En la fig. 2.12 vemos un esquema con las diferentes velocidades que in­
+tervienen en esta situación.
+- Todas las velocidades en este 
+tipo de movimiento son cons- 
+tanteS'por lo que la única ecua­
+ción que utilizamos fue
+- Cuando utilicemos esta ecua­
+ción debemos asegurarnos que 
+la velocidad y el desplazamien­
+to tengan la misma dirección.
+- Cuando sumamos o restamos 
+velocidades debemos hacerlo 
+vectorialmente.
+El movimiento resultante del bote es la superposición de dos 
+M.R.U.. El resultado es otro M.R.U. cuya velocidad es la suma 
+vectorial de ambas velocidades (vB/0). (Fig 2.12)
+V + V = V B/A T V A/O VB/O
+c) ¿Cuánto tiempo demora en cruzar el río si hay corriente?
+El tiempo que demora es el mismo porque la velocidad en la dirección 
+perpendicular a la orilla sigue siendo la misma. En este caso los movi­
+mientos en cada eje son independientes.
+d) ¿Cuánto es el módulo de la velocidad del bote respecto a la orilla?
+Para obtener la velocidad vB/0 debemos realizar la suma vectorial3 antes 
+indicada vB/A + vA/0.Como la velocidades son perpendiculares aplicamos 
+ei Teorema de Pitágoras
+v(ra = Vv0// + vA/o2 vB/o = V(8,0Jp-)!+(6,0-ni)2= 10-51 => v = 10m.
+b s s B/o s
+e) ¿Cuánta distancia se desvío el bote por la acción de la corriente del río? 
+(Distancia QR)
+Conocemos la velocidad del agua respecto a la orilla y el tiempo que 
+tardo el bote en cruzar y como esta velocidad es constante calculamos: 
+Axqr = va,o • At = 6,0-51.20s => Ax = 120m□ Un
+3 Ver Anexo 5 "Suma de Vectores" (pág. 154)
+
+Movimiento en dos dimensiones 33
+MOVIMIENTO DE UN PROYECTIL
+Supongamos un niño lanzando una pelota con sus manos, poniéndola en 
+movimiento con una velocidad inicial que forma un ángulo "a" con la hori­
+zontal (fig. 2.13). La pelota describirá una trayectoria curvilínea, éste es un 
+clásico ejemplo de movimiento en dos dimensiones.
+Para estudiar este tipo de movimiento utilizamos el principio de indepen­
+dencia de los movimientos, que nos permite estudiar independientemente 
+las componentes de las magnitudes involucradas (posición, velocidad y ace­
+leración) en un eje horizontal y otro vertical.
+Comenzaremos por descomponer la velocidad inicial (v0) en los ejes indica­
+dos (fig.2.14).
+- vOx es el cateto adyacente al ángulo oc del triángulo formado porv0ysus 
+componentes v^yv^ => |vOx| = |v0|. cos a
+- vOy es el cateto opuesto al ángulo oc del triángulo formado por v0 y sus 
+componentes vOx y v^ => |vOy| = |v0|. sen a
+Podemos representar la velocidad en otros puntos (siempre tangente a la 
+trayectoria) y descomponerla en un eje horizontal (eje x) y otro vertical 
+(eje y). (Fig. 2.15)
+Fig.2.15
+Observando la fig.2.15 analizaremos que ocurre con las componentes de la 
+velocidad en cada eje.
+pendiculares y v^. Luego de descomponer v0 po­
+demos trabajar con sus coordenadas.
+Ejex
+La componente horizontal de la velocidad (vx) man­
+tiene el mismo sentido (hacia la derecha) y el mismo 
+módulo en todo el movimiento.
+A partir de estas características podemos afirmar 
+que la proyección horizontal del movimiento de un 
+proyectil es un M.R.U.
+Las ecuaciones de este movimiento son:
+v = v en cualquier punto de la trayectoria
+Ox x
+Ax = vx. At
+Eje y
+La componente vertical de la velocidad va disminu­
+yendo su valor hasta hacerse nula en el punto de máxi­
+ma altura. A partir de allí comienza a aumentar pero 
+en sentido contrario (hacia abajo).
+La proyección vertical del movimiento de un pro­
+yectil es un movimiento de Caída Libre.
+Las ecuaciones de este movimiento son:
+yf-yo=voy-At"yg,At2
+v(x = voy-g.At
+v,yí=voy2-2-g-(yf-y.>
+El módulo de la velocidad en cualquier punto se obtiene a partir de sus componentes: 
+_________ y 
+|v| = Jv.’ + v/ y el ángulo que forma v con la horizontal se determina: tg a = -J-
+
+34 Movimiento en dos dimensiones
+F¡g.2.16 Ejemplo 4
+Tomaremos como altura de referencia (y = Om) la
+azotea más baja y tomaremos valores verticales po­
+sitivos hacia arriba.
+Fig. 2.17 La velocidad final se obtiene de sumar 
+vectorialmente la componente horizontal y vertical 
+de la velocidad en dicho punto.
+Ejemplo 4
+En una película policial, el protagonista es perseguido (por un temible de­
+lincuente) por la azotea de un edificio y debe saltar a la azotea del edificio 
+lindero, que se encuentra a una distancia horizontal de 8,0 m y tiene 3,2m 
+menos de altura, (fig. 2.16)
+a) ¿Cuál debe ser la mínima velocidad horizontal con la que debe saltar el 
+protagonista para que no caiga al vacío?
+Eje y
+Tomando como punto de referencia en el eje vertical la azotea mas baja 
+(y = Om), la altura inicial del protagonista es y0 = 3,2m y la final es yf = Om. 
+La velocidad inicial no la conocemos, pero al ser horizontal no tiene com­
+ponente vertical vOy = 0-y. Por esta razón la velocidad inicial coincide 
+con la velocidad horizontal.
+Utilizando la siguiente ecuación yf - y0 = vOy. At - -1 g . At2 podemos 
+determinar el tiempo de caída.
+0-3,2 = 0--1-10.At3 => At = 0,80s
+Eje x
+Conocemos el desplazamiento horizontal Ax = 8,0m y ya calculamos el 
+tiempo. Como la velocidad horizontal es constante calculamos:
+v = Ax 8'0m = 10-^v* At v‘ 0,80s lu s
+Al no tener componente vertical inicial, la velocidad mínima que debe 
+tener el protagonista para caer en la azotea lindera es:
+v0 = 10^
+b) Determine la velocidad del protagonista al llegar al piso de la azotea lin­
+dera si salta con la velocidad calculada en "a".
+La velocidad al llegar a! edificio lindero se calcula: vf = Jvx2 +vfy2. (fig. 2.17)
+El valor de la componente en el eje x se mantuvo constante y su valor lo 
+obtuvimos en la parte anterior v = 10-^.x s
+Para hallar la componente de la velocidad en el eje y utilizamos la si­
+guiente ecuación: vfy = vOy - g. At, sustituyendo obtenemos:
+v, =0-10-5- . 0,8s => v =-8,0-^.
+fy S »y 5
+Aplicando el Teorema de Pitágoras llegamos al resultado v, = 13-y-. El 
+ángulo que forma con la horizontal se calcula:
+-8,0-5
+tg « = ~1Q m' ~ ~0'8 a = ~39° (39° Por debajo de la horizontal)
+
+Movimiento en dos dimensiones 35
+Ejemplo 5
+Un jugador de golf golpea una pelota inicialmente apoyada en el suelo. Un 
+instante despues del golpe la pelota se mueve con velocidad inicial de mó­
+dulo v0 y formando un angulo "a" con la horizontal. (Fig. 2.18)
+a) Compruebe que la altura máxima se calcula'h =
+MAX 2g-
+Sabemos que en la altura máxima, la componente vertical de la velocidad 
+es nula (v^ = 0—) y la altura inicial de la pelota también es nula (y = Om) 
+porque está apoyada en el suelo (fig. 2.19). Sustituyendo los valoresde v y 
+de y0 en la ecuación Vfy2 = Voy2 - 2 .g.(yf-yo) obtenemos: *
+0 = ^-2.g.(yf-0).
+Despejando yf que corresponde en este caso a la altura máxima
+Vr ~ hMAx“ 2g
+b) Compruebe que el tiempo que demora en llegarla pelota a la altura máxi-
+Amaes. AthMAx g
+Con los mismos datos que en la parte anterior (v^ = 0-y- e y0 = Om) y 
+utilizando la ecuación v. =v„ - g .At,obtenemos: fy Oy '
+Voy
+0 = vOy-g . At => AthMAx= g
+c) Compruebe que el tiempo total que la pelota está en el aire es el doble 
+que el que demora en llegar a la altura máxima.
+Las condiciones iniciales siguen siendo las mismas, pero la altura final es 
+nula (yf = Om), porque la pelota vuelve a llegar al piso. Utilizando la ecua­
+ción yf - y0 = v^. At - -i-g . At2 y sustituyendo se obtiene: 0 - 0 = v^. At - 
+Ig . At2, esto es una ecuación de 2o grado sin término independiente.
+Para hallar sus soluciones se saca "At" de factor común
+=> 0 = At (v^ - -1-g. At) y sus soluciones son:
+2v
+At = Os que no nos sirve y At = , que es el doble del tiempo calcula­
+do en la parte "b".
+d) Compruebe usted que el máximo alcance horizontal es
+v02.sen(2a) 
+-------g-------
+2V0y
+Sugerencia:sustituya el tiempo total At = g en la ecuación del despla­
+zamiento horizontal Ax = vOx .At. La relación trigonométrica
+2 sen a. cos a = sen (2a) le será de utilidad.
+e) Compruebe usted que la ecuación de la trayectoria es:
+g 2
+''=(,9a,-x-5wI'x
+Sugerencia: Elimine la variable At entre las ecuaciones 
+yf-yo=vAt"ig-At2 y Ax=vx-At-
+Podemos observar que y = f (x) es una fundón de segundo grado en la varia­
+ble "x", lo que indica que la curva que describe el proyectil es una parábola.
+Las expresiones que comprobamos en el Ejemplo 5 se pueden utilizar 
+en otros problemas de movimientos de proyectil, verificando previa­
+mente que se cumplen las mismas condiciones iniciales que en este caso.
+El tiempo en llegar del piso a la altura máxima es 
+igual al tiempo desde la altura máxima al piso.
+Si la altura inicial es nula (y0= Om) 
+se cumple que:
+La altura máxima se calcula:
+hnMAX 2g
+El tiempo total se calcula:
+El alcance se calcula: 
+Vo\sen(2a) 
+9
+La ecuación de la trayectoria es: 
+, = (,9“’X-2WlX’
+
+36 Movimiento en dos dimensiones
+B
+PROBLEMAS_____________
+1. Un automóvil recorre la trayectoria indicada en la fig.2.21 desde el pun­
+to A hasta el punto D, manteniendo el módulo de su velocidad constan­
+te de 10 —. Los tramos rectos miden: AB = 40m, BC = 50rn, CD = 30m. 
+Determine:a) La distancia total recorrida (As).b) La velocidad media en­
+tre A y D. c) La aceleración media entre A y D.
+Fig. 2.21 Problema 1 .
+2. Con los datos del problema anterior calcule la aceleración media en el 
+recorrido AC.
+3. La trayectoria de la fig.2.22 está compuesta por dos semicircunferencias 
+AB y BC de radio Un móvil la recorre manteniendo constante el 
+módulo de su velocidad y demorando un tiempo total de 4,Os. Deter­
+mínela) La rapidez media del móvil, b) La velocidad media entre A y C.
+c) Represente a escala las velocidades instantáneas en los puntos A, B y C.
+d) La aceleración media entre A y B. e) La aceleración media entre B y C.
+Fig. 2.23 Problema 4
+4. Un bote cruza un río de 60m de ancho,con velocidad constante v = 2,0-y- 
+perpendicular a la orilla (fig. 2.23). a) ¿Cuánto tiempo demora en cruzar 
+desde A hasta B si no hay corriente en el río? b) ¿Cuánto tiempo demora 
+en cruzar si hay una corriente de v = 1,0-y- paralela a la orilla (hacia la 
+derecha), c) ¿Cuál es la velocidad del bote respecto a la orilla? d)¿A qué 
+distancia del punto B se encuentra el bote luego de cruzar e! río?
+5. Para el ejemplo anterior determine: a) ¿En qué dirección (indique el 
+ángulo) debe estar orientada la velocidad del bote con respecto a la 
+dirección AB, para que el bote se mueva en dicha dirección? (La veloci­
+dad del río sigue siendo v = 1,0-y-. b) En estas condiciones: ¿cuánto 
+tiempo demora en cruzar el río?
+6 Cuando una escalera mecánica de 10m de largo está funcionando, su 
+velocidad respecto al piso es 1,0-y. Un niño sube y baja por dicha es­
+calera con velocidad constante respecto a ella de 3,0—.¿El niño demo­
+rará más tiempo si la escalera está funcionando o si está apagada?
+7. Desde una torre de 20 m de altura se lanza una piedra con velocidad 
+horizontal de módulo 8,0-y-.a) ¿Cuánto tiempo permanece la piedra 
+en el aire? b)¿A qué distancia de la base de la torre llega a tierra?
+c) Determine la velocidad de la piedra al golpear contra el piso, d) ¿Qué 
+ángulo forma la velocidad con el piso en ese momento? e) Determine 
+el desplazamiento.
+8. Una pelota lanzada horizontalmente llega al piso 0,50s después.a) ¿Des­
+de que altura fue lanzada? b) Si la distancia horizontal recorrida por la 
+pelota es 1,0m ¿Cuál fue el valor de la velocidad inicial? c) Determine la 
+altura y la velocidad de la pelota a los 0,25s después de haber partido.
+9. Una esfera rueda sobre una mesa horizontal con v = 4,0-^ y cae á 120cm 
+de ella (fig. 2.24). a) ¿Qué altura tiene la mesa? b) ¿Cuál es el módulo de
+
+Movimiento en dos dimensiones 37
+la velocidad de la esfera en un punto que se encuentra a 10cm más 
+abajo del borde de la mesa, c) ¿Qué ángulo forma la velocidad calcula­
+da en la parte anterior con la horizontal?
+10. Un jugador de fútbol golpea una pelota apoyada en el piso, adquirien­
+do ésta una velocidad de 20-^,formando un ángulo de 37° con la ho­
+rizontal.Calculara) La altura máxima que alcanza la pelota, b) La veloci­
+dad en el punto de máxima altura. c)EI tiempo que la pelota está en el 
+aire, d) El máximo alcance horizontal, e) La velocidad al tocar el piso.
+11. Se dispara un proyectil desde el piso, formando un ángulo de 60° con la 
+vertical y con una velocidad inicial de 40-ín-.a)¿En qué posición hori­
+zontal y vertical se encuentra el proyectil 1,5 s después de ser lanzado? 
+b) En el tiempo indicado en la parte anterior.¿El proyectil está subiendo 
+o bajando? c) ¿Qué velocidad tiene en ese mismo instante?
+PROBLEMAS DE EXAMEN_______________ _____________
+1. Un móvil parte del reposo en el punto A y en 10s llega a C moviéndose con 
+aceleración constante (fig. 2.27). Luego en el tramo semicircular CDE el mo­
+dulo de la velocidad permanece constante. AC = CE = 10m y AB = BC.
+a) Calcule y represente la aceleración y la velocidad instantánea en el 
+punto B.
+b) Calcule y represente la velocidad y la aceleración media del móvil 
+en el tramo BE. (Prof. U. Roviello / I.U.D.E.P)
+Fig. 2.27 Problema de examen 1
+2. Los motores de un avión pueden alcanzar una velocidad de 180 . con 
+' respecto al aire en calma. El piloto debe volar hacia una ciudad situada 
+directamente al norte de su posición inicial, y ese día sopla viento en 
+dirección este a 60^. a) ¿En qué dirección debe poner la proa de su 
+avión? b) ¿Cuál será su velocidad con respecto a tierra? (Instituto Crandon)
+
+38 Movimiento en dos dimensiones
+B C
+Fig. 2.28 Problema de examen 3
+3. Una tabla de windsurf (fig. 2.28) está en un río y es impulsada por el 
+viento con una velocidad de 2,0-^ (vista desde el río) perpendicular a 
+las márgenes, a) ¿Cuánto tiempo emplea en cruzar el río? b) Si la veloci­
+dad del río es de 4,0-^, ¿En qué punto C toma contacto con la orilla?, 
+c) ¿Qué velocidad tiene la tabla para un observador que se encuentra 
+en la orilla? (Prof. F.Varela / Maristas)
+4. Dos vecinas amigas, viven en dos torres una frente a la otra. Ambas to­
+rres están separadas 20m y Gladys vive 4,0m más arriba que Clotilde. 
+Clotilde llama a Gladys y le pide prestado 1,0Kg de azúcar y ésta le dice: 
+"Bueno Cloti, te lo tiro por la ventana". ¿Qué velocidad inicial horizontal 
+debe darle Gladys al paquete de azúcar para que llegue a manos de 
+Clotilde?. (Prof. F. Varela / Maristas)
+7.
+Fig. 2.30 Problema de examen 7
+Un jugador de voleibol efectúa un saque desde h =1,80m como se indi­
+ca en la figura 2.29, con v0 = 10a) ¿Logrará la pelota pasar sobre la 
+red? Justifique, b) Cualquiera sea su respuesta, calcule y represente la 
+velocidad de la pelota al cruzar la línea de la red. (Prof. E. Lago /1.Crandon)
+i
+Una persona en la plataforma de un tren lanza una pelota perpendicu­
+larmente hacia arriba con v = 10-y.Si el tren se mueve con v = 10-y-, 
+hallar el desplazamiento de la pelota desde que sale hasta que llega a 
+la altura máxima según un observador dentro del tren y según un ob­
+servador en la tierra.
+Un jugador lanza un outball (fig. 2.30) desde su posición ÃC= 2.13m y el 
+balón cae 20m delante en el punto B.Se sabe que la velocidad inicial v 
+tiene una inclinación de 20°. Determine: a) ¿Cuál es la v del balón?. 
+(Prof. W. Netto / Sagrada Familia)
+Se arroja, desde el piso, un cuerpo al espacio con velocidad de10-^ y 
+formando un ángulo de 53° con la horizontal.a) Grafique la componente 
+horizontal de la velocidad en función del tiempo v = f(t). b) Grafique ade­
+más la componente vertical en función del tiempo v = f (t). (Tome el 
+tiempo hasta que llega nuevamente al piso).(Prof.H.Bentancour /1. Ariel)
+9. Dos proyectiles A y B, se disparan desde el piso con velocidades de igual 
+módulo y formando ángulos a y p respectivamente con la horizontal. 
+Si a + P = 90° demostrar que:
+a) Los alcances son ¡guales.
+b) La relación de tiempos de altura máxima es: —MA>A = tg a
+MAX B
+c) La relación de las alturas máximas es: 4^- = tg2 a
+"máxb
+(Colegio Elbio Fernández)
+10. Dos vecmitos viven en dos edificios enfrentados, separados 14m. Am­
+bos viven a la misma altura (15m) y tienen dos lanza bolas idénticos. Al 
+mismo tiempo disparan horizontalmente los proyectiles con una velo­
+cidad de 3,0—.a) ¿Como se ve el movimiento de un proyectil desde el
+
+Movimiento en dos dimensiones 39
+otro?, b)¿Lograrán chocar en el aire?,si tu respuesta es afirmativa, ¿a qué 
+altura lo hacen?; si es negativa, ¿cuál debe ser la mínima altura a la que 
+se encuentren inicialmente para que el choque pueda producirse?
+(Prof. F. Varela / Maristas)
+11. Los bloques de la figura 2.31 salen disparados simultáneamente y cho­
+can en el aire en un punto R Hallar el instante y la posición del choque. 
+Datos:v1 = 5,0-y- v2 = 3,0-y-,
+12. Una manzana ubicada a 1 Om de altura se desprende de una rama (fig.2.32), 
+cuando pasa por una altura de 5,0m, desde el piso se le dispara una 
+pedrada con v0 formando 53° con la horizontal. ¿Cuánto debe valer v0 
+para que la piedra golpee a la manzana justo cuando esta llega al piso?. 
+(Prof. H. Bentancour /1. Ariel)
+CONTROLES DE PRÁCTICO Fig. 2.32 Problema de examen 12
+Movimiento en dos dimensiones__
+El cuadro de valores nos muestra la posición horizontal (x) y vertical (y) de 
+una bolita que cae libremente con velocidad inicial horizontal luego de ro­
+dar por la rampa (fig. 2.33).
+x(cm) 0 10 20 30 40 50 60
+y(cm) 0 13 5,0 11 20 31 45
+a) Grafique la trayectoria de la bolita y = f (x).
+b) Demuestre teóricamente que la trayectoria de la bolita es una parábola.
+c) Compruebe con los valores de posición obtenidos que la trayectoria 
+de la bolita es una parábola.
+d) Tomando el último par de valores de la tabla calcule la velocidad de la 
+bolita en el momento de abandonar la rampa.
+e) Calcule por otro método la velocidad inicial de la bolita.
+f) Elija dos puntos cualquiera de la gráfica y = f (x) y represente la veloci­
+dad instantánea de la bolita en cada uno de ellos.
+g) Determine gráficamente módulo dirección y sentido de Av entre los 
+puntos elegidos.
+h) Calcule el At entre dichos puntos y determine las características de la
+aceleración media. V'xX
+Fig.2.33

@@ -84,6 +84,8 @@ agregar un proveedor nuevo.
 2. Ejecuta `python scripts/extract_pdf_text.py` para generar los `.txt` correspondientes
    en `context/`.
 3. El backend los usa automáticamente en la siguiente consulta (no requiere reinicio).
+4. Actualiza [docs/TEMARIO.md](docs/TEMARIO.md) con los temas que cubre el documento
+   nuevo, para llevar registro de qué puede responder el asistente con material propio.
 
 ## Editar el comportamiento del asistente
 

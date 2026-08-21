@@ -1,0 +1,721 @@
+Tema: Dinámica Rotacional (Capítulo 7 — La Física entre nosotros 5)
+
+Capítulo 7
+HfflWfeS]
+Cuerpo rígido_______________________
+En los primeros seis capítulos de este libro, a todos los cuerpos los hemos 
+considerado como partículas ubicadas en su centro de masa. Ahora veremos 
+como analizar desde el punto de vista cinemático, dinámico y energético, los 
+movimientos de objetos no puntuales, que denominamos cuerpos rígidos.
+Denominamos CUERPO RÍGIDO, a un objeto o sistema de partículas, 
+donde la distancia entre dos partículas cualquiera que lo componen, 
+es invariable (fig. 7.1).
+La gran diferencia entre el estudio del movimiento de una partícula y de un 
+cuerpo rígido, es que estos últimos además de trasladarse, pueden tener 
+movimientos de rotación.
+A lo largo de este capítulo podremos apreciar una clara analogía entre el 
+estudio dinámico de un movimiento de traslación y uno de rotación.
+TORQUE 0 MOMENTO DE UNA FUERZA
+Cuando la aplicación de una fuerza produce un cambio en la velocidad an­
+gular de un cuerpo rígido, decimos que esa fuerza está ejerciendo un Mo­
+mento oTorque sobre el cuerpo. Por ejemplo cuando aplicamos una fuerza 
+para abrir o cerrar una puerta o al apretar o aflojar una tuerca con una llave 
+(fig.7.2).
+El torque que realiza una fuerza, depende de las características de la fuerza y 
+del punto del cuerpo en el que se aplique. A continuación definiremos esta 
+nueva magnitud y a partir de la definición analizaremos sus características.
+Definición de TORQUE de una FUERZA
+El torque se representa con la letra griega t llamada Tau y el cálculo 
+de su módulo es |T| = |r|. |F|. sen(p).
+Siendo |f| la distancia desde el eje de giro hasta el punto de aplica­
+ción de la fuerza y p el ángulo formado entre F y r (fig. 7.3).
+- Además de la letraTau (t),es común el uso de JL para simbolizar el torque 
+de una fuerza.
+- Por ser el producto de una fuerza por una distancia, la unidad de f en el
+S.L, esNm.
+- El Torque es una magnitud vectorial, es el resultado de una operación 
+denominada producto vectorial entre dos vectores1.
+- El vector T es perpendicular al plano determinado por r y F y el sentido 
+se obtiene utilizando la regla de la mano derecha (fig.7.4 a y b).
+Fig.7.1 Si un objeto no sufre deformaciones duran­
+te su movimiento lo denominamos cuerpo rígido.
+Fig.7.2 La aplicación de un torque mediante la llave, 
+hace que la tuerca comience a girar.
+Fig.73 La fuerza F realiza torque respecto al punto O.
+1 Ver Anexo 5 "Producto Vectorial" (pág. 160).
+
+100 Dinámica Rotacional
+Con una cruz 0 se indica un 
+vector que entra en el plano.
+Con un punto 0 se indica un 
+vector saliente del plano.
+Fig. 7.4 b Aplicando la regla de la mano derecha y 
+girando los dedos desde r hacia F, el dedo pulgar 
+nos indica el sentido del vector t que es saliente 
+del plano.
+Fig. 7.4 a Aplicando la regla de la mano derecha y 
+girando los dedos desde r hacia F, el dedo pulgar 
+nos indica el sentido del vector T que es entrante 
+en el plano.
+Fig. 7.5a Fuerza aplicada en el eje de giro => t = ONm.
+Fig. 7.5 b La fuerza es colineal con f => t = ONm.
+Ejemplo 1
+En cada una de las figuras 7.5 a, b y c. vemos fuerzas de igual módulo 
+actuando sobre la misma barra, pero aplicadas en distintos puntos de 
+ella o en diferentes direcciones.
+Determinaremos como calcular el torque en estos tres casos particulares.
+a) Fuerza aplicada en el eje de giro. (Fig. 7.5a)
+La distancia desde el eje de giro al punto de aplicación de la fuerza, es 
+nula (r = Om), porque la fuerza está aplicada en el eje. Sustituyendo el 
+valor de r en la ecuación r = r. F. sen (p) obtenemos:
+t = O. F. sen (p) = ONm => r = ONm
+Las fuerzas aplicadas en el eje de giro producen torque nulo.
+b) Fuerza colineal con r. (Fig. 7.5b)
+El ángulo formado entre F y f es 0o y seno (0o) = 0, sustituyendo en la 
+ecuación r = r. F. sen (P) obtenemos:
+t = r. F. 0 = ONm => r = ONm
+Puedes tu comprobar que el torque también es nulo si la fuerza tiene 
+sentido contrario a r.
+Las fuerzas colineales con r producen torque nulo.
+c) Fuerza perpendicular a r. (Fig. 7.5c)
+En este caso el ángulo entre F y r es 90°. Utilizando la ecuación para cal­
+cular el torque obtenemos :
+t = r. F . sen (90°), como sen (90°) = 1 => r = r. F . 1 => t = r. F
+Si la fuerza es perpendicular al vector r, el módulo del torque se 
+calcula r = r. F, en este caso se obtiene el máximo torque para dicha 
+fuerza.
+
+Dinámica Rotacional
+TORQUE NETO Y EQUILIBRIO DE ROTACIÓN
+Si sobre un cuerpo rígido hay aplicadas más de una fuerza, sobre él actúan 
+más de un torque, este conjunto se puede reemplazar por su suma vectorial.
+A la suma vectorial de todos los torques que actúan sobre un cuerpo 
+se le denomina TORQUE NETO. (Fig. 7.6)
+Puede darse el caso particular que todos los torques se anulen, en este caso 
+decimos que el Torque Neto es nulo. Si esto ocurre la velocidad angular del 
+cuerpo no se modifica.
+Podemos enunciar una ley análoga a la Ley de Inercia estudiada en el Capítu­
+lo 3, pero en este caso para el movimiento de rotación de un cuerpo rígido.
+Si el torque neto que actúa sobre un cuerpo es nulo, su velocidad an­
+gular permanecerá constante. Si el cuerpo estaba en reposo no co­
+menzará a girar y si estaba girando lo seguirá haciendo con veloci­
+dad angular constante (M.C.U.).
+Condición general de equilibrio para un cuerpoxígido_____________
+Para que un cuerpo rígido esté en equilibrio deben verificarse dos condicio­
+nes de equilibrio simultáneamente, denominadas equilibrio de traslación 
+y equilibrio de rotación.
+1. Condición de Equilibrio de Traslación
+Para que un cuerpo rígido esté en equilibrio traslación, la fuerza neta 
+que actúa sobre él debe ser nula FNETA= 0.
+Esta condición nos asegura que el centro de masa del cuerpo no acelerará.
+2. Condición de Equilibrio de Rotación
+Para que un cuerpo rígido esté en equilibrio de rotación, el torque 
+neto que actúa sobre él, debe ser nulo ÍNETO = 0.
+Esta condición nos asegura que la velocidad angular del cuerpo no cam­
+biará.
+Fig. 7.6 El torque neto es la suma vectorial de todos 
+los torques que actúan sobre un cuerpo.
+CONDICIÓN GENERAL DE EQUILIBRIO
+Un cuerpo rígido esta en equilibrio, si se cumple simultáneamente 
+que:
+Fneta = 0
+^NETO “ 0 
+*
+
+102 Dinámica Rotacional
+1,Om
+Fig. 7.7 El sistema se encuentra en equilibrio.
+Ejemplo 2
+Sobre un tablón de masa 4,OKg y largo 4,0m están apoyados en sus extre­
+mos dos pesas mt = 1OKg y m2 de valor desconocido. El soporte que sostie­
+ne al tablón está ubicado a 1,0m de m] (fig. 7.7).
+¿Cuánto debe valer m2 y la fuerza que ejerce el soporte sobre el tablón para 
+que el sistema esté en equilibrio?
+Lo primero que debemos hacer es analizar las fuerzas que actúan sobre el 
+tablón y luego plantear las condiciones de equilibrio correspondientes.
+Las fuerzas que actúan sobre el tablón son cuatro (fig.7.8):
+a) P => El Peso del tablón, aplicado en su centro de masa. Si el tablón es 
+homogéneo, el punto de aplicación es su punto medio.
+P=m1ABLON-9 => P = 40N
+b) Ñ => Es la fuerza realizada por el soporte sobre el tablón, es una de 
+nuestras incógnitas.
+c) F2 => Es la fuerza que aplica m, sobre el tablón, como la pesa está ei. 
+equilibrio, el módulo de F1 es igual a P1 = mI. g => F1 = 1
+d) F2 => Es la fuerza que aplica m2 sobre el tablón, como la pesa está en 
+equilibrio, el módulo de F2 es igual a P2 = m2 .g => F2 = 10 m2
+Las condiciones de equilibrio son dos:
+a) Condición de equilibrio de traslación FNEIA = 0-
+Todas las fuerzas son verticales y eligiendo positivo el sentido hacia arri­
+ba obtenemos: N - F] - F2 - P = 0 => N - 100 - 10m2 -40 = 0
+Fig. 7.9 Con la regla de la mano derecha determina-
+mos que el torque de F, es saliente.
+b) Condición de equilibrio de rotación tN£T0 = 0.
+Calcularemos los torques respecto al punto de apoyo del soporte, por­
+que la fuerza allí aplicada tiene torque nulo (rN0RMAl = ONm), de esta for­
+ma la fuerza Normal no aparecerá como incógnita en la ecuación. Por el 
+mismo motivo podríamos haber elegido como referencia el punto de 
+aplicación de F2.
+Aplicando la regla de la mano derecha determinamos que el vector torque 
+de las fuerzas P y F2 son entrantes y el de F, es saliente (fig. 7.9). Eligiendo 
+un criterio de signos, por ejemplo entrante positivo y saliente negativo 
+nos queda: rp + rf2 - rn = 0
+Aplicamos la ecuación r = r. F . sen [3 para calcular el torque de cada 
+fuerza respecto al punto O:
+rp = 1,0m . 40N . sen 90° = 40Nm
+rf] - 1,0m. lOON.sen 90°= lOONm
+rF2 = 3,0m . 10m2. sen 90° => 30.m ,Nm
+rp + rF1-rF2 = 0
+40+ 30.m2-100 = 0
+Obtuvimos una ecuación para cada condición de equilibrio.
+N- 100- 10m2-40 = 0
+40+30m2 -100 = 0
+De la segunda ecuación despejamos 
+m2 = 2,OKg y de la primera obtenemos 
+la fuerza normal N = 160N.
+
+Dinámica Rotacional 103
+REUICIÓH ENTRE TOBOME NETO Y BCELERflCIÓH RNGUUIR
+Si el torque neto que actúa sobre un cuerpo rígido es nulo su velocidad 
+angular (cd) no cambia, el cuerpo puede estar en reposo o rotando con Mo­
+vimiento Circular Uniforme.
+Si el torque neto que actúa sobre 
+un cuerpo no es nulo, el cuerpo tie­
+ne aceleración angular.
+Si el torque neto no es nulo, la velocidad angular (od) varía. Cuando existe un 
+cambio de velocidad angular (Acú) decimos que el movimiento tiene acele­
+ración angular(a).
+Análogamente a la relación ya estudiada entre la fuerza neta y la acelera­
+ción (Fneia = m . ã), existe una relación directamente proporcional entre el 
+torque neto (rNno) respecto al centro de masa o a un eje fijo, y la aceleración 
+angular (a).
+rNCT0 oc a => el cociente es un valor constante que se denomina 
+Momento de Inercia del cuerpo y su notación es "I" => ÍNETO = I .á
+Fig. 7.10 Expresión de la Segunda Ley de Newton 
+para un cuerpo en rotación.
+Momento de inercia
+El momento de inercia es una magnitud escalar, que depende de la masa de 
+los cuerpos y de cómo está distribuida dicha masa respecto al eje de rotación. 
+Para una masa puntual que gira en torno a un eje exterior a ella (fig. 7.11) el 
+momento de inercia se calcula I = mr2 y su unidad en el S.l. es Kg.m2.
+r
+Si en lugar de ser una masa puntual es un cuerpo rígido, por ejemplo un 
+cilindro (fig. 7.12), podríamos considerarlo como un gran número de masas 
+puntuales (m.), cada una a su correspondiente distancia (r.) del eje de giro. El 
+momento de inercia total lo obtendríamos sumando todas los momentos 
+de inercia I - Xm.. r2, siendo este cálculo sumamente engorroso.
+Existen procedimientos matemáticos que nos permiten hallar estas sumas 
+de forma más fácil. A partir de ellos se han obtenido las expresiones para 
+calcular los momentos de inercia de los cuerpos de la fig. 7.13.
+*’• O
+Fig. 7.11 Masa puntual en rotación respecto a "O".
+Fig. 7.13 Momentos de inercia de algunos cuerpos.
+Fig. 7.12 El momento de inercia de un cuerpo rígido 
+es la suma de todos los productos rn . r’.
+
+1 104 Dinámica Rotacional
+lo componen.
+Fig. 7.15 La masa de la cuerda que une los cuerpos 
+es despreciable.
+Ejemplo 3
+Calcule el momento de inercia del sistema de la fig. 7.14 respecto al punto 
+"O", sabiendo que la varilla que une a m, y m2 tiene masa despreciable y el 
+cilindro de centro "O" tiene una masa de 2,OKg y radio 20cm.
+El momento de inercia del sistema es la suma de los momentos de inercia 
+de las dos masa más el momento de inercia del cilindro.
+El momento de inercia del cilindro respecto al punto O se calcula:
+Cilindro = . r2 = . 2,OKg . (0,20m)2 ^cilindro = 0,040Kg.m2
+Las masas puntuales son ¡guales y ambas están a 0,50m del punto O .
+Imi = Im2 = m . r2 = 0,040Kg . (0,50m)2 => Im1 = Im2 = 0,01 OKg.m2
+I -1 +I+I => I = 0,060Kg.m2^SISTEMA CILINDRO + mi T m2 SISTEMA
+Ejemplo 4
+Los bloques de la figura 7.15 están unidos por una cuerda de masa despre­
+ciable que pasa por una polea de radio 20cm y masa 3,0Kg.
+El coerciente de rozamiento entre el bloque m2 y el plano horizontal es 
+p = 0,20. Determine la aceleración de los bloques.
+En el capítulo 3 (pág.47) estudiamos cómo resolver este tipo de situaciones 
+donde hay varios cuerpos vinculados por cuerdas y poleas de masa despre­
+ciable. En este caso la masa de la polea tiene un valor significativo y tendre­
+mos que tomarla en cuenta en nuestros cálculos.
+Seguiremos el procedimiento ya estudiado y veremos las modificaciones 
+que van surgiendo.
+Paso 1: Determinar el sentido de movimiento
+En este caso el bloque 1 comenzará a bajar y el 2 a moverse hacia la derecha.
+Paso 2: Representar y calcular todas las fuerzas que actúan sobre cada 
+cuerpo.
+Aquí aparece el primer cambio. Debemos representar las fuerzas sobre cada 
+bloque y sobre la polea, ya que debemos realizar el análisis dinámico de su 
+movimiento.
+Fig. 7.16 Las tensiones de la cuerda a los lados de 
+una polea de masa apreciable son diferentes.Tj >TZ
+La polea está en equilibrio de tras­
+lación (Fneta = 0), pero no está en 
+equilibrio de rotación 0).
+NtTU
+Polea
+Las tensiones de las cuerdas a los lados de una polea (de masa apreciable) 
+deben ser distintas para que los torques producidos por ellas sean distintos y 
+de esa forma la polea se acelere (fig. 7.16). Supondremos que la fricción entre 
+la cuerda y la polea es suficiente para que la cuerda no deslice sobre la polea. 
+Aplicaremos la ecuación que relaciona el torque neto con la aceleración 
+angular:
+^*NETO — I • Ó
+Sobre la polea actúan 2 torques, el producido por f 1 y el producido por f2. 
+Aplicando la regla de la mano derecha vemos que el primero es entrante y 
+el segundo es saliente, por lo que su resultante es la resta de sus módulos 
+rNETo ~ Ti “ T2 tneto = r -T, - r .T2 = 0,20T] - 0,20T2
+El momento de inercia de la polea lo podemos determinar:
+I = j m ,r¡ = 1.3,OKg .(0,20m)2 => I = 0,060Kg.m2
+Sustituyendo todo lo hallado obtenemos la ecuación correspondiente a la polea:
+^neto ” I • S 0,207, — 0,20T2 = 0,060 . ct
+
+Dinámica Rotacional 105
+Bloque 1
+En la fig.7.17 vemos el diagrama de cuerpo libre del bloque 1. Si tomamos 
+positivo el sentido de movimiento (hacia abajo) y aplicamos la Segunda Ley 
+de Newton obtenemos:
+FNHA = m-a => P,-T, = m1.a => 30-T, = 3,0.a
+Bloque 2
+En la fig.7.18 vemos el diagrama de cuerpo libre del bloque 2. Las fuerzas P2 
+y Ñ se anulan. Tomando positivo el sentido de movimiento (hacia la dere­
+cha) y aplicando la Segunda Ley de Newton obtenemos:
+FNETA=m'a ^L-FROZ=m2-a => ^-4,0 = 2,0.a
+La fuerza de rozamiento se calcula:
+Froz = M-N^Froz-0,20.20N^Froz = 4)0N
+Ahora disponemos de tres ecuaciones, una para cada bloque y una de la polea.
+Polea 0,20T1 - O,2OT2 = 0,060. a
+Bloque 1 30-T1 = 3,0.a
+Bloque 2 T2 - 4,0 = 2,0. a
+En este sistema tenemos 4 incógnitas TVT2, a y a. Si observamos que la ace­
+leración (a) de los bloques es igual a la aceleración tangencial de la polea se 
+cumple:
+Fig. 7.17 El bloque 1 se mueve hacia abajo y la fuer­
+za neta sobre él es FNETA = P, -T(.
+Polea 0.20T, - O,2OT2 = 0,060.
+Bloque 1 30-^ =3,0. a
+Bloque 2 T2 - 4,0 = 2,0 . a
+Para resolver este sistema lo más conveniente es despejar T1 y T2 de las 
+ecuaciones de los bloques y sustituir en la ecuación de la polea. 
+Obteniéndose así una ecuación cuya única incógnita es la aceleración.
+La solución de este problema es a = 4,0-y T^ISN y T2 = 12N
+Fig. 7.18 Diagrama de cuerpo libre del bloque 2. 
+^NFTA - T “ Froz-
+Simplificación de la resolución del sistema de ecuaciones
+Al plantear la ecuación tNET0 = I .a para la polea podemos realizar algunas 
+simplificaciones que luego serán de utilidad a la hora de resolver el sistema 
+de ecuaciones.
+Sustituiremos en la ecuación tNET0 = I. a las siguientes expresiones.
+tneto — rT, — rT2 
+I = y m. r3 
+a = -ã
+rT,-rT2 = lm.r2.f
+Simplificamos todos los "r" y nos queda:T, -T2 - ™ .a
+En la fig. 7.19 vemos como terminar de resolver el problema.
+Polea T,-T2 = ^M.a
+Bloque 1 P1-T, = m).a
+Bloque 2 T2-F,oz = m2.a
+P,-F.oz = (m, + m2+ ).a
+Al realizar la suma de las ecuacio­
+nes eliminamos T, y T2. Quedando 
+como única incógnita "a".
+Fig.7.19
+
+106 Dinámica Rotacional
+Fig. 7.20 Todos los puntos del disco tienen movi­
+miento circular. Pero el centro de masa se mantiene 
+en reposo.
+ENERGÍA CINÉTICA ROTACIONAL________________________
+En la fig. 7.20. vemos un disco que gira en torno a un eje fijo en su centro.
+¿Tiene el disco energía cinética?
+El centro de masa del disco está en reposo, por lo que podemos afirmar que 
+el disco como un conjunto no se traslada y su velocidad es cero. Sin embar­
+go,salvo el centro,todos los otros puntos se están moviendo con movimien­
+to circular a diferentes velocidades y tienen energía cinética.
+La suma de la energía cinética de todos los puntos del disco determinan lo 
+que denominamos Energía Cinética Rotacional.
+La ENERGÍA CINÉTICA ROTACIONAL de un cuerpo rígido la simboliza­
+mos E_o„ y su valor se calcula E___T = 4“ I .ü)2.Su unidad en el S.l.es elC RUI r L. KU I J
+Joule (J).
+Para calcular la energía mecánica de un cuerpo rígido tendremos que su­
+mar su energía cinética de traslación más su energía cinética de rotación 
+más las energías potenciales => E = Er_ + E__ + E + E-> " M CTrai C Rot pg pe
+30cm
+Ejemplo 5
+La barra homogénea de la fig. 7.21 se mantiene en reposo en posición hori­
+zontal. Se suelta y comienza a girar en torno al eje que pasa por el punto O. 
+Determine la velocidad angular de la barra en el momento que pasa por la 
+vertical. El largo de la barra es 30cm.
+Al no existir trabajo de fuerzas no conservativas plantearemos ia conserva­
+ción de la energía mecánica entre las dos posiciones.
+Posición Inicial (Horizontal)
+Em¡ = Ep(j = m .g. h.Tomaremos como nivel de referencia para la altura (h = Om), 
+el punto más bajo que alcanzará el extremo de la barra al pasar por la vertical.
+Epg = m .10.0,30m => EM. = 3,0.mJ
+Posición Final (Vertical)
+Fig. 7.21 La barra se encuentra a 0,30m de altura.
+=-j m . O,3O2 => 1 = 0,030.m Kg.m2 
+4 .0,030.m .(jó2 => E__. = 0,015.m.o)2J
+Fig.7.22 Los diferentes puntos de la barra se encuen­
+tran a distintas alturas. La altura del centro de masa 
+es 0,15m.
+• O
+CM • A
+htm = 0,15m
+En esta posición la barra está rotando en torno al punto "O", por lo que ten­
+drá energía cinética de rotación que se calcula E = 4 1 . (O2
+C Rol y
+El momento de inercia para una barra que gira respecto a un eje que pasa 
+por uno de sus extremos es: 1 =■
+Y la energía se calcula: Er =-l ......................c
+L Ko’ z C Rot
+¿En esta posición tiene la barra energía potencial gravitatoria?
+Si, pero el problema es como calcularla,ya que diferentes puntos de la barra 
+tienen diferentes alturas. Por ejemplo el extremo inferior tiene altura cero, 
+pero e! superior tiene altura 0,30m y de esta forma cada partícula que forma 
+la barra tiene una altura diferente. En estos casos debemos recordar el con­
+cepto de centro de masa y centro de gravedad vistos en la página 79. Para 
+calcular la energía potencial gravitatoria utilizaremos la altura del centro de 
+masa (fig. 7.22). Como la barra esta construida de un material homogéneo 
+el centro de masa coincide con el centro de la barra.
+Epg = m.g.h = m.10.0,15 => Epg = 1,5.mJ
+La energía mecánica final es: Ew = ECRm + Epg => EMf = 0,015.m .cd2 + 1,5m 
+Igualando la energía mecánica inicial y final determinamos "00":
+^m¡ — 3,0m — 0,015.m .(ü2 + 1,5m => cü — 1
+
+Dinámica Rotacional 107
+MOMENTO CINÉTICO
+Momento cinético de una partícula
+Otra magnitud importante en el estudio dinámico de las rotaciones es el 
+momento cinético o cantidad de movimiento angular.
+Al igual que el torque de una fuerza que se obtiene realizando el producto 
+vectorial def x F, el momento cinético de una partícula respecto a un punto, 
+se obtiene del producto vectorial de la distancia al eje de giro por la canti- 
+dad de movimiento r x p.
+El MOMENTO CINÉTICO de una partícula respecto a un punto, se sim­
+boliza con la letra Ly su módulo se calcula |L| = |r|.|p| .sen a (fig. 7.23).
+- |f | es la distancia entre el punto y la partícula.
+- |p| es el módulo de la cantidad de movimiento |p| = m . |v|
+- a es el ángulo entre los vectores f y p.
+- El módulo de L también se puede calcular L = d . m . v, siendo "d" la 
+distancia del punto "O” a la recta que contiene al vector (fig. 7.24).
+- Es una magnitud vectorial y su dirección y sentido se determinan con la 
+regla de la mano derecha del producto vectorial.
+- Su unidad en el S.l. es .
+Momento cinético de un cuerpo rígido
+Si queremos determinar el momento cinético de un cuerpo rígido, pode­
+mos considerar el cuerpo como una suma de pequeñas partículas "m." que 
+rotan con movimiento circular de radio "r" (fig. 7.25).
+Para cada partícula, L = rt. p,. sen 90° => L = r. p¡ => LRlGIDO = £r,. pl 
+Sustituyendop = m.v y v = © .r obtenemos: LRlGID0 = Er|.mj.vl = Zr¡.mi.© .r. 
+Como a) es igual para todas las partículas lo sacamos de factor común: 
+Rígido = (ü (2>2 .m/EI término (Zr,2 .m.) es el momento de inercia del cuerpo, 
+por lo que finalmente obtenemos que el módulo del momento cinético se 
+calcula: L = I.ci)
+El momento cinético de un cuerpo rígido se calcula: L = I. ©
+Fig. 7.24 Denominamos brazo a la distancia Md" cuyo 
+valores d = r sen a.
+Fig. 7.25 El momento cinético de un cuerpo rígido 
+es la suma de todos los L de las partículas que lo 
+forman.
+Conservación del momento cinético------------- --------------------
+A partir de la expresión rNET0 = I. a obtendremos una condición de conser­
+vación del momento cinético de un sistema.
+^NETO — I . tt
+a = A©
+At
+tNET0 = I como LA© =AL => íNETo-
+A partir de esta ecuación podemos deducir la Condición de Conservación 
+del Momento Cinético:
+Si sobre un sistema el torque neto que actúa sobre él es nulo, el mo­
+mento cinético de dicho sistema permanece constante.
+^NETO ” O AL = O => LS|STEMA| — ^SISTEMAÍ
+Fig.7.26 Si tNno es nulo el momento cinético se con­
+serva.
+
+108 Dinámica Rotacional
+Ejemplo 6
+El disco A se mueve con cnA = 4,0^y-, mientras que el disco B permanece en 
+reposo, montados en un mismo eje (Fig. 7.27). En determinado momento el 
+disco B cae sobre el A y continúan girando juntos. Los momentos de inercia 
+de los discos son IA = 1,5Kg.m2 e 1B = 0,50Kg.m2.
+¿Cuál es la velocidad angular de los discos después del choque?
+En este sistema el torque neto es nulo, entonces el momento cinético total 
+del sistema permanece constante . = LT07ALr
+Antes del choque
+L -I (jj = 1,5Kgm2.4,0^ => LAI = 6,0-^
+Al A Ai S 5
+:ig. 7.28 Etmomenro cinét¡¿o i los discos es ver 
+tical hacia arriba, al igual que ¿j
+LTotm = (Ia + Ib)-íü
+LBi = IB .ü)Bi = 0,50Kgm2.0^ LAi = 0^
+i =L +L =60^ + 0^ => L =6,0 Kg--’ 
+lOTALi 'Ai LB¡ S S TOTAL i $
+Después del choque
+Como los cuerpos quedan unidos tienen la misma velocidad angular y el 
+momento de inercia del sistema es la suma de los momentos de inercia de 
+cada disco.
+Ltotal f = + U ■“ = (1 -5Kg.m2 + 0,50Kg.m2).io => Ljoulf = 2,0Kg.m2 .(ü
+Igualando los momentos cinético inicial y final L-|0TALI -
+6,0-!^' = 2,0Kg.m2.a) => (0=3,0-^
+Observe que a pesar de ser el momento cinético una magnitud vectorial, 
+solo operamos con sus módulos. Esto es válido sólo si los vectores son 
+colineales como en este ejemplo.
+Ejemplo 7
+El proyectil de masa 0,200Kg se mueve con velocidad constante de 50,0-y- 
+sobre una mesa sin rozamiento, choca con la varilla y luego del impacto 
+queda adherida a ella a 50,0cm del punto "O" como indica la figura 7.29.
+La varilla tiene una longitud de 60,0cm y masa 2,00Kg, pudiendo rotar sobre 
+un eje en el extremo "O".
+Determine la energía perdida en el choque.
+La variación de energía durante el choque la obtenemos calculando la ener­
+gía mecánica final e inicial y restándolas entre sí.
+Energía mecánica antes del choque
+La varilla está en reposo por lo que su energía cinética es cero. La energía 
+mecánica inicial del sistema es sólo la energía cinética del proyectil:
+EM1 = Ec = |m.v2 = 10,200Kg.(50,0^)2 => E =250J
+*- 5 MI
+
+Dinámica Rotacional 109
+Energía mecánica después del choque
+Luego del choque el sistema formado por el proyectil y la varilla giran con 
+velocidad angular "cd" alrededor del punto "O" (Fig. 7.30). Por lo que tendrán 
+sólo energía cinética de rotación.
+Rot 2 ^VARILLA ^PROYECTlJ
+IVAR= 1/3 m. L2 = 1/3 2,00Kg. (0,600m)2 = 0,240Kg.m2
+IPR0Y = m • r2 = 0,200Kg (0,500m)2 = O,O5OOKg.m2
+EMf = J (0,240+ 0,0500). id 2
+E = 0,145.(jD2JMí
+Para poder determinar el valor de la EMf debemos conocer primero la veloci­
+dad angular cd del sistema después del choque.
+Como la única fuerza exterior que actúa sobre el sistema varilla - proyectil 
+es la que realiza el eje en "O", el torque neto respecto a dicho punto es nulo. 
+Bajo estas condiciones el momento cinético del sistema respecto a dicho 
+eje se conserva.
++f1o=0^aL=o^> ¡>¡;f
+Inicialmente L del sistema es el momento cinético del proyectil
+L = r. m . v = 0,500m . O,2OOKg. 50,0-^ => L, = 5,00^^
+Luego del choque los cuerpos giran juntos:
+L(= (IVAR + IPB0Y) .<o = (0,240Kg.m! +O,O5OOKg.m2) .0) => L( = 0,290Kg.m2 <o
+Igualando L y Lf obtenemos: 5,0—$— = 0,29Kg.m2 .a> => Cü-17,2^^ 
+La energía mecánica inicial era EMi = 250J y ahora podemos calcular la ener­
+gía mecánica final EM( = 0,145a>2 = 0,145 . (17,2)2 => EMf = 42,9J
+La variación de energía es AEM = EMr - EM1 => AEM = -207J
+El signo negativo de la variación de energía, significa que la energía del sis­
+tema disminuyó, hecho que era de esperarse porque el choque fue total­
+mente inelástico.
+
+110 Dinámica Rotacional
+PROBLEMAS
+1. Sobre una varilla de 0,40m de largo se aplican las 4 fuerzas indicadas en 
+la figura 7.31. La varilla tiene un eje en el centro "O", a) Determine el 
+momento de cada fuerza y el momento resultante respecto a "O".
+b) Determine módulo y sentido de una fuerza perpendicular a la varilla 
+y que aplicada en el punto A la equilibre.
+Datos: F1 = 5,ON, F2 = 2ON, F3 = 3ON, F4 = 40N,OB = OA = O,1Om
+Fig. 7.34 Problema 6
+La barra homogénea horizontal de m = 1OKg se encuentra en equili­
+brio. Si la masa de cuerpo rojo es 5OKg. a) Calcule la masa del cuerpo 
+azul, b) Determine módulo dirección y sentido de la fuerza que realiza 
+la columna sobre la barra. (Fig. 7.32)
+Determine el momento de inercia de los siguientes sistemas respecto 
+al eje "AB". mAMARILLA = 800g, mR0JA = 500g, mBARRA = 1,OKg (Fig. 7.33)
+Halle el torque necesario para aumentar la velocidad de un motor cuyo 
+momento de inercia es 100 Kg.m3 desde 90R.P.M. hasta 270R.P.M.en 5,Os.
+En uno de los extremos de una varilla de masa 2,OKg y largo 1,5m,que 
+puede girar sobre su punto medio, se le aplica una fuerza de 10N per­
+pendicular a ella, a) Calcule la aceleración angular que adquiere. b)¿S¡ la 
+varilla estaba inicialmente en reposo, qué velocidad angular tiene a los 
+2,5s? c) ¿Cuántas vueltas dio en ese tiempo?
+Una cuerda está enrollada alrededor del borde exterior de un disco de 
+2,OKg de masa y 0,20m de radio. El disco está montado sobre un eje sin 
+fricción, como muestra la figura. La masa del cuerp que cuelga es 1,0Kg. 
+a) Calcule la aceleración que adquiere el cuerpo, b) Calcule la acelera­
+ción angular de la polea, c) Calcule la tensión de la cuerda. (Fig. 7.34)
+En los siguientes casos (figura 7.35) determine la aceleración de los cuer­
+pos y las tensiones de las cuerdas.
+DatOS: mROJA = 1 -6 K9' "aMARUA = 0-80K9. ™P0LEA = 4-0K9- %LEA = 1 OCR! y el 
+coeficiente de rozamiento en todas las superficies es p = 0,10.
+8. La pesa de masa 2,OKg parte del reposo y demora 0,80s en recorrer 1,6m 
+hasta llegar al piso. Determine la masa de la polea. (Fig. 7.36)
+Fig.7.35 Problema 7
+
+Dinámica Rotacional 11
+9. En el mismo eje están montados dos discos. El disco A tiene un momen- 
+tode inercia IA = 3,0Kgm2yel BIb= 1,0Kg.m2.EIdisco Besta inicialmen- 
+te en reposo y el A esta girando en sentido horario, siendo a)A = 4,0^. 
+En determinado momento el disco B cae sobre el A quedando ambos 
+unidos, a) Determine o)( del conjunto luego del choque, b) ¿Con qué o) 
+debería estar girando inicialmente el disco B para que al chocar que­
+den ambos en reposo? (fig. 7.37)
+10. Sobre una barra de I = 2,0Kg.m? que gira con o) = 2,0—— hay dos cuer­
+pos de m = 0,80Kg cada uno, unidos por un hilo. Repentinamente el hilo 
+se rompe y las masas se deslizan y quedan en los extremos de la barra,
+a) Sin realizar cálculos determine si la oo del sistema aumentará o dismi­
+nuirá. b) Calcule o)f. (Fig. 7.38)
+11. Un patinador gira sobre si mismo con los brazos extendidos. En deter­
+minado momento junta sus brazos al cuerpo y comienza a girar con 
+mayor velocidad angular.a) Justifique este aumento en la velocidad an­
+gular. b)¿La energía cinética de rotación aumenta o disminuye?
+12. Una bala de m = 10g y velocidad 300-y- choca en el borde del disco de 
+masa 980g y radio 20cm, quedando incrustada en él. a) ¿Cuál es la velo­
+cidad angular del conjunto luego del choque? b) ¿Cuánta energía se 
+pierde en el choque? (Fig. 7.39)
+Fig.7.37 Problema 9
+13. Determine la velocidad angular del disco del ejercicio anterior si la bala 
+después de chocar continúa moviéndose en la misma dirección y sen­
+tido que antes del choque pero con v = 50-y-.
+14. Una varilla de 1,0m de largo y 3,OKg de masa tiene fijas en cada extre­
+mo una pequeña esfera de 0,50Kg. La varilla gira en un plano horizontal 
+alrededor de un eje que pasa por su centro. En determinado momento 
+su velocidad angular esa) = 10^ y 10 segundos después esa) = 20^ 
+habiendo variado en forma uniforme, a) Calcule el torque neto sobre la 
+varilla, b) Calcule el trabajo realizado por la fuerza.
+Fíg. 7.39 Problema 12
+15. Una esfera maciza I = 2/5 m. r2, inicialmente en reposo cae rodando sin 
+deslizar por un plano inclinado desde una altura de 20m. Halle la veloci­
+dad de traslación de la esfera cuando llega al final del plano. (Fig. 7.40)
+16. Una pelota hueca I = 2/3 m. r2 rueda sin deslizar sobre una superficie 
+horizontal a 6,0-y-, hasta llegar a un plano inclinado donde comienza a 
+subir. ¿Hasta que altura máxima asciende?
+
+112 Dinámica Rotacional
+PROBLEMAS DE EXAMEN
+1. El sistema de la figura 7.41 está en equilibrio, la barra es homogé­
+nea y rígida, a) Hallar la masa de la barra, b) Hallar la tensión del
+cable del que cuelga el sistema.
+m, = 2OOKg m; = 5OKg
+Fig. 7.41 Problema de examen 1
+2. Un trampolín homogéneo de forma regular y 4,0m de largo tiene una 
+masa de 60,OKg. Se mantiene fijo en los puntos A y B. Si un bañista de 
+80,OKg está de pie en el borde del trampolín, ¿Qué fuerzas actúan en A 
+y B? (Liceo Zorrilla) (Fig. 7.42)
+La figura 7.43 muestra un sistema varilla-disco el cual rota con respec­
+to al punto central O bajo la acción de las fuerzas indicadas (F1 = ION 
+y F2 = 15N), adquiriendo una aceleración angular de 8,0^. La varilla 
+tiene una longitud de 1,6m y una masa de 2,4Kg. El disco tiene un 
+radio de 0,70m. Determine la masa del disco. (Prof. U. Roviello / I.U.D.E.P.)
+La polea de la figura 7.44 es un disco de masa 0,50Kg y radio r = 0,1 Om. 
+Cuelga de ella un paquete de masa 0,30Kg. ¿Cuál debe ser el valor de la 
+fuerza F para que la pesa caiga con aceleración a = 2,0-^? Considered 
+rozamiento en el eje de la polea despreciable. (Instituto Crandon)
+El sistema de la figura 7.45 consta de una polea de momento de inercia 
+1 = O,O3Kg.m2 y radio 20cm y unida a ella una barra de masa desprecia­
+ble a la cual va adherida una masa puntual m = 100g. Enrollada en la 
+polea hay una cuerda en cuyo extremo cuelga una masa M = 400g.
+¿A qué distancia "x" debe colocarse la masa "m" para que M descienda 
+con a = 2,0-^- en el instante mostrado en la figura? (Prof. H. Bentancour 
+/1. Ariel)
+Dos discos están adheridos, uno tiene masa 4m y radio 2r el otro tiene 
+masa m y radio r. El disco pequeño lleva enrollada una cuerda de la que 
+cuelga una masa m. a) Hallar la aceleración con que desciende m, si la 
+masa de m es de 2,OKg y r = 10cm. b) Hallar la energía cinética rotacional 
+de los discos al cabo de 10s. (Prof. H. Bentancour / Escuela Integral) 
+(Fig. 7.46)
+
+Dinámica Rotacional 113
+7. El proyectil choca y queda adherido al disco (inicialmente en reposo) en 
+R Luego del impacto el sistema se mueve con o)f = 5,0—. Hallar el mo­
+mento de inercia del disco si m = 100g, r = 40cm y v = 20^.(Fig.7.47)
+8. Una trapecista rota 2 veces por segundo al volar por el aire y se contrae 
+para reducir su inercia rotacional a 1/3 del valor original.¿Cuántas veces 
+rotará ahora por segundo?. (Prof. Z. Goyen / Liceo Miguel C. Rubino)
+9. Sobre una calesita de I = 480Kg.m2 que gira en torno a O con a)0 = 0,20^ 
+se encuentran 8 niños de m = 30Kg cada uno. ¿Cuántos se movieron al 
+radio menor si la en aumentó a 0,30-$—. R = 4,0m, r = 2,0m. (Liceo Zorrilla) 
+(Fig.7.48)
+10. La varilla de la figura 7.49 puede girar en torno al punto O y tiene un 
+dispositivo que consta de un resorte de constante elástica K=100^ el 
+cual está comprimido 10cm. Se libera el resorte y una bolita de 100g 
+sale disparada. Hallar la velocidad angular con que se mueve la varilla. 
+Mwal}ll, . = 300g. (Prof. H. Bentancour /1. Ariel) 
+VAKILLA
+11. Un cilindro de masa 2,OKg rueda sin deslizar con v = 2,0-y- en el punto A. 
+¿Cuál es su velocidad al pasar por B?. (Colegio Elbio Fernandez) (Fig. 7.50)
+12. El  sistema de la figura 7.51 está constituido por un disco de masa m y 
+radio r, que puede girar alrededor de un eje fijo y un resorte que tiene un 
+extremo fijo y el otro ligado a una cinta enrollada en el disco. El resorte 
+tiene longitud ”l" cuando no está deformado y se halla inicialmente esti­
+rado siendo su longitud total "3IO" con el disco en reposo. Se libera el dis­
+co y es acelerado por el resorte. Determinar la velocidad angular máxima 
+que alcanza el disco. DATOS: m = 3,OKg, r = 20cm, l0 = 10cm, K= 800^. 
+(Prof. J.J.Olivet / Escuela Integral)
+K
+1,0m
+Fig. 7.49 Problema de examen 10
+
+114 Dinámica Rotacional
+CONTROLES DE PRÁCTICO____________________________
+Determinación del momento de inercia de un cuerpo-------------
+La rueda de la figura 7.52 tiene radio R = 40cm y una masa uniformemente 
+distribuida en el aro de M = 5,OKg. (la masa de los rayos la consideraremos 
+despreciable).
+En el eje, la rueda tiene soldada una polea de masa despreciable y radio r = 4,0cm, 
+donde está enrollada una cuerda de la que cuelga una pesa.
+La pesa se encuentra a 1,0m del piso y partiendo del reposo, se deja caer 
+hasta que toca el suelo. El cuadro de valores nos muestra los tiempos en 
+llegar al piso, para pesas de diferentes masas.
+m(g) 200 300 400 500 600
+t(s) 7,1 5,8 5,0 4,5 4,1
+a) Calcule para cada pesa, el torque (f) producido por su Peso respecto al 
+eje de giro de la rueda.
+b) Calcule la aceleración de caída de cada pesa.
+c) Calcule la aceleración angular (a) de la rueda en cada caso.
+d) Grafique t = f (a).
+e) Compruebe teóricamente m. g . r = + m. r2) a.
+f) ¿Qué puede concluir a partir de la gráfica obtenida en la parte "d"?
+g) Utilizando la gráfica r - f (a), determine el momento de inercia de la 
+rueda y compárelo con el valor teórico. (Recuerde I n4 = M . R2)
+nUuLzA
+Fig.7.52
+
+La termodinámica estudia la energía y sus transformaciones. Previamente a 
+comenzar a desarrollar este tema definiremos algunos conceptos que ma­
+nejaremos a lo largo de todo el capítulo.
+Sistema y Ambiente
+Denominamos SISTEMA a una porción del espacio que aislamos de 
+su entorno para simplificar su estudio y denominamos AMBIENTE a 
+todo lo que no está incluido en el sistema, pero que puede interactuar 
+con él.
+Los sistemas pueden tener o no, un límite físico que los separe del ambiente. 
+Estos límites pueden presentar propiedades especiales, lo que determina 
+los tipos de interacciones que puedan existir entre el sistema y el ambiente 
+(fig.8.1).
+Los sistemas podemos estudiarlos desde dos puntos de vista:
+a) Macroscópico
+Estudiar un sistema macroscópicamente implica describir su comporta­
+miento a partir de magnitudes observables (mensurables) y que son pro­
+piedades de todo el sistema. Por ejemplo: presión, volumen, temperatura, 
+masa,etc.
+b) Microscópico
+Estudiar un sistema microscópicamente implica analizar qué sucede a 
+nivel de los átomos y moléculas que lo forman. Este tipo de análisis debe 
+realizarse por métodos estadísticos debido al gran número de partículas 
+que existen en cualquier sistema observable.
+CLASIFICACIÓN DE SISTEMAS
+Sistema cerrado => No intercam­
+bia masa con el ambiente. La masa 
+del sistema permanece constante.
+Sistema abierto => Permite el in­
+tercambio de masa con el ambiente. 
+La masa del sistema es variable.
+Sistema Aislado => No se produce 
+intercambio de masa ni de energía.
+Fig. 8.1 Clasificación de sistemas.
+Las variables microscópicas y macroscópicas están relacionadas, porque son 
+diferentes formas de describir las mismas características de un sistema.
+Estados de equilibrio y Procesos______________________________________
+Denominamos ESTADO DE EQUILIBRIO DE UN SISTEMA al conjunto 
+de todas las propiedades macroscópicas asociadas al sistema.
+Si bien las propiedades de un sistema pueden ser muchas, temperatura, pre­
+sión, masa, volumen, etc. sólo algunas son independientes. Esto significa que 
+si damos las variables independientes, las otras quedan determinadas.
+SISTEMA EN EQUILIBRIO
+Un sistema está en equilibrio si sus 
+propiedades permanecen invaria­
+bles en el tiempo.
+Fig.8.2
+Denominamos PROCESO al cambio de estado de un sistema, desde 
+un estado inicial de equilibrio hasta que alcanza otro estado final de 
+equilibrio (fig.8.2).1 1 Si el estado inicial y final es el mismo, se deno­
+mina proceso cíclico (pág. 121)
+
+116

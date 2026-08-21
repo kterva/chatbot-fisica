@@ -1,0 +1,626 @@
+Tema: Termodinámica (Capítulo 8 — La Física entre nosotros 5)
+
+Termodinámica
+p.V = n.R.T
+Fig. 8.3 Ley del gas ideal.
+LEYES DE LOS GASES IDEALES___________
+El sistema termodinâmico más sencillo de estudiar es el formado por una 
+masa fija de un gas (sistema cerrado), en el que no se producen reacciones 
+químicas.
+Los estados de estos sistemas se pueden describir utilizando tres variables 
+termodinámicas o propiedades macroscópicas, presión (p), volumen (V) y 
+temperatura (T).
+Sin embargo experimentalmente podemos observar que estas tres variables 
+no son independientes y que al fijar dos cualquiera de ellas queda definida la 
+tercera. Esto implica que existe una ecuación de estado que las relaciona.
+La ecuación de estado más sencilla es la que denominamos ley del 
+gas ideal: p .V = n .R .T
+Siendo "n" el número de moles del gas y R la constante universal de 
+los gases (fig.8.3).
+Mucho gases reales dentro de ciertos límites (bajas presiones y altas tempe­
+raturas) verifican la ecuación anterior.
+El valor y unidad de la constante R depende de las unidades que utilicemos 
+para las variables p,V y T. (Cuadro 1)
+Cuadro 1 En el cuadro se muestran las unidades de p,V,T y la constante R en el Sistema Internacional y 
+otro conjunto de unidades que no pertenecen al S.l. pero de uso frecuente.
+S.l. UNIDADES
+p Pa = (Pascal) m atm (atmósfera)
+V m3 1 (litros)
+T K (Kelvin) K (Kelvin)
+R 8'31—Al/ 
+mol.K
+0,0821-^4 
+mol.K
+Ley Conjunta del Gas Ideal
+Fig. 8.4
+Cuando utilicemos las ecuaciones 
+del gas ideal la temperatura siem­
+pre debe estar expresada en 
+Kelvin.
+T =T +273 Kelvin Celsius
+Fig.8.5
+Despejando la ecuación del gas ideal = n . R, obtenemos que la expre-
+.. p.V
+sion y es constante porque que "n. R" es constante.Cuando un gas pasa 
+de un estado inicial (estado 1) a otro final (estado 2),independientemente 
+del proceso por el cual lo haga, podemos igualar (fig. 8.4).
+Ejemplo 1
+¿Qué volumen ocupa un mol de gas ideal a una temperatura de 0°C y una 
+presión de 1atm?
+De la ecuación del gas ideal despejamos V = n-R-T
+P
+Nuestros datos son: n = 1 mol, p = 1 atm,T = 0°C. Antes de sustituir los datos 
+en la ecuación debemos verificar la coherencia entre las unidades de la5 
+variables p y T para elegir la constante R con las unidades adecuadas.
+En primer lugar debemos convertir la temperatura de grados Celsius a Kelvin* 
+ya que en la ecuación del gas ideal la temperatura deberá estar siempre 
+expresada en Kelvin. Para ello, a la temperatura expresada en °C le sumamos 
+273 => T = 0°C + 273 = 273K. (Fig. 8.5)
+
+Termodinámica
+Si dejamos la presión en atmósferas, debemos utilizar R = 0 0821 y 
+obtendremos el volumen en litros. mol K 7 
+v.n.R.T. 'mol.0,0821^J,273K
+V~ P------------- EÕÕatm -------- =>V= 22,41 (Fig 8.6)
+Energía Interna_________________________
+Si realizamos una aproximación al comportamiento microscópico de una 
+porción de materia, podemos considerarla como un conjunto de átomos y 
+moléculas en continuo movimiento. Estos movimientos pueden ser muy 
+variados, dependiendo de la fase en que se encuentre la materia y los valo­
+res de sus variables termodinámicas como la temperatura y la presión.
+Cuando un gas se encuentra en 
+un estado definido por p = latm, 
+T = 273K , se dice que está a PTN 
+(Presión y temperatura normal) 
+Un mol de cualquier gas que se 
+comporte como ideal tiene un vo­
+lumen de 22,4 I a PTN.
+Fig.8.6
+Denominamos ENERGÍA INTERNA de un cuerpo a la suma de las ener­
+gías de todas las moléculas que lo componen.
+- La energía interna se representa con la letra "U".
+- Su unidad en el S.l. es el Joule (J).
+- Se puede demostrar que la energía interna de un sistema es una función 
+de estado de su temperatura. Mas adelante veremos como calcular la 
+variación de energía interna en un proceso, conociendo el estado inicial 
+y final, independientemente del tipo de proceso realizado (fig. 8.7).
+Existe una relación directa entre la 
+variación de temperatura de un 
+sistema y la variación de su ener­
+gía interna.
+Si AT > 0 => AU > 0
+Si AT < 0 => AU< 0
+Flg.8.7
+Calor_____________________________________________________________________________
+Cuando ponemos en contacto dos sistemas a diferentes temperaturas, am­
+bos alcanzan una temperatura cuyo valor está comprendido entre las dos 
+temperaturas iniciales. Cuando esto sucede se dice que los sistemas están 
+en equilibrio térmico (fig.8.8).Generalmente durante este proceso las ener­
+gías internas de ambos sistemas se modifican, el que tiene menor tempera­
+tura, aumenta su energía interna y el que está a mayor temperatura dismi­
+nuye su energía interna. A esta transferencia de energía de un sistema a otro 
+la denominamos calor.
+Definición de Calor
+CALOR es un proceso de intercambio de energía entre dos sistemas 
+debido a la diferencia de temperaturas entre ellos.También denomi­
+namos CALOR a la magnitud que mide la cantidad de energía inter­
+cambiada por este procedimiento.
+- El  calor se simboliza con la letra Q .
+- Su unidad en el S.l. es el Joule (J).
+- Otra unidad muy utilizada para medir el calor y en general todo tipo de 
+energía, es la caloría (Cal) (fig.3.9).
+- La equivalencia entre Caloría y Joule es 1J = 0,24Cal
+- Cuando dos sistemas alcanzan el equilibrio térmico (sus temperaturas 
+son iguales) no hay más intercambio de energía entre ellos mediante 
+calor.
+EQUILIBRIOTÉRMICO
+Dos sistemas están en equilibrio 
+térmico si están a igual tempera­
+tura.
+Fig.8.8
+Una CALORÍA es la cantidad de 
+energía necesaria para aumentar 
+la temperatura de un gramo de 
+agua pura desde 14,5°C a 15,5°C.
+Flg.8.9 Definición de caloría.
+
+118 Termodinámica
+CRITERIO DE SIGNOS DE Q Y W
+Q>0 el sistema recibe energía 
+mediante calor.
+Q < 0 => el sistema cede energía 
+mediante calor
+W > 0 => el sistema se expande 
+W < 0 => el sistema se comprime
+Fig. 8.11
+PniMER PRINCIPIO DE Lfi TERMODINÁMICA______________ _
+Tomemos como ejemplo el sistema formado por un gas ideal encerrado en 
+un recipiente, con un émbolo que puede deslizarse sin fricción hacia arriba 
+o hacia abajo, adaptándose al volumen del gas (fig. 8.10).
+Analicemos que sucede con la energía del sistema.
+- El sistema recibe energía (calor) por estar en contacto con la llama del 
+mechero.
+- El gas se expande levantando el émbolo y la pesa que tiene encima, rea­
+lizando de esta forma un trabajo mecánico sobre el ambiente.
+- Se observa un aumento de temperatura del gas, que nos está indicando 
+indirectamente que la energía interna del sistema aumentó.
+Si realizamos un balance de energía tenemos que el sistema recibe una can­
+tidad "Q" de energía mediante calor. Parte de esta energía "sale" del siste­
+ma realizando un trabajo "W" sobre el ambiente.La diferencia entre la ener­
+gía recibida (Q) y la utilizada en realizar el trabajo (W) nos da el cambio en 
+la energía interna del sistema o sea AU.
+El Primer Principio de la Termodinámica establece la conservación de 
+la energía y se expresa Q - W = AU.
+- Cuando utilicemos esta ecuación debemos cuidar que Q, W y AU estén 
+expresadas en la misma unidad.
+- Observe que utilizamos la letra W para simbolizar el trabajo en lugar de T.
+- Esta ecuación es válida para otras situaciones, por ejemplo si el sistema 
+cede energía al ambiente por calor o recibe energía mediante un traba­
+jo mecánico realizado por el ambiente. Para poder diferenciar estas si­
+tuaciones utilizaremos un criterio de signos (fig. 8.11).
+Fig. 8.12 El área roja representa el trabajo del proce­
+so 1 y el área azul el del proceso 2. El gas al pasar del 
+estado A al B realiza distintos trabajos dependiendo 
+del proceso seguido. W, > W2.
+Diagrama p-V
+Hemos visto que cuando un gas se expande, realiza trabajo sobre el am­
+biente. Una forma de representar un proceso, es graficar como varía la pre­
+sión a medida que cambia el volumen, o sea graficar p = f (V) lo que tam­
+bién se denomina diagrama p-V.
+Se puede demostrar que:
+El área delimitada por la curva de un diagrama p-V con el eje hori­
+zontal, representa el trabajo de deformación realizado por el gas.
+- La transición del sistema del estado A al B lo podemos realizar de mu­
+chas formas diferentes (fig. 8.12). En estos casos el área delimitada y por 
+lo tanto el trabajo realizado por el gas es diferente.
+- El trabajo realizado por un sistema no solo depende del estado inicial y 
+final, sino también de los puntos intermedios del proceso.
+- La unidad de medida del trabajo obtenido de calcular el área del diagra­
+ma p-V depende de las unidades en que estén expresadas la presión y 
+el volumen.
+- Si la presión está expresada en Pascal y el volumen en m3, el trabajo se 
+obtendrá enJoule.
+- Si la presión está expresada en atmósferas y el volumen en litros,el traba­
+jo se obtendrá en "l.atm". 1 l.atm = 101,3J
+
+Termodinámica 1
+Ejemplo 2
+En el diagrama presión - volumen de la fig. 8.13 están representados dos 
+procesos diferentes para llevar un gas de un estado A, a otro estado B.
+El proceso 1 está representado con color azul y el 2 con trazo rojo.
+a) Indique en cuál de ellos la variación de energía interna es mayor.
+Ambos procesos tienen el mismo estado inicial (A) y el mismo estado 
+final (B). Por ser la energía interna una variable que sólo depende de los 
+estados inicial y final, y es independiente de los procesos intermedios, 
+deducimos que AU1=AU3 Fig. 8.13 La gráfica nos muestra dos procesos dife­
+rentes para llevar un gas desde un estado A hasta el 
+estado B.
+b) Indique en cuál de los procesos el trabajo realizado por el gas es mayor. 
+El trabajo si depende del proceso y vimos que el área delimitada por la 
+curva del diagrama p -V y el eje del volumen, representa el trabajo reali­
+zado por el sistema. El área del proceso 2 (roja) es mayor que el del pro­
+ceso 1 (azul), por lo tanto W2 > W1
+c) Indique en cuál proceso la energía recibida (Q) es mayor.
+Aplicando el Primer Principio de la Termodinámica Q - W= AU y despe­
+jando Q = AU ■+ W. Como la variación de energía interna es igual en am­
+bos procesos, en el que se haya realizado mayor trabajo, es porque reci­
+bió mayor energía. Si W2 > W} => Q2 > Q1
+Casos particulares de diagramas p-V
+Proceso Isobárico
+A un proceso termodinâmico en el que se mantiene constante la pre­
+sión del sistema, se le denomina PROCESO ISOBÁRICO.
+En la fig. 8.14 vemos el diagrama p-V para un proceso isobárico donde el 
+gas pasa de un estado "A" a un estado "B" manteniendo siempre la misma 
+presión. El área delimitada por la gráfica y el eje del volumen representa el 
+trabajo realizado. Queda determinado un rectángulo y su área se calcula 
+como el producto de sus lados: W|SOBÁRICO = p . AV
+Proceso Isovolumétrico
+A un proceso termodinâmico en el que el volumen del sistema per­
+manece constante, se le denomina PROCESO ISOVOLUMÉTRICO.
+En la fig. 8.15 vemos el diagrama p-V para un proceso isovolumétrico o 
+también denominado isocórico. En este caso no hay expansión ni compre­
+sión y el área delimitada es nula, por lo que el trabajo es cero.
+W = OJISOVOLUMÉTRICO
+Aplicando la ecuación de Primer Principio de la Termodinámica Q - W= AU, 
+obtenemos que Q = AU.Toda la energía recibida o cedida mediante calor 
+produce un aumento o disminución de la energía interna.
+Fig. 8.15 Proceso Isovolumétrico.W = OJ.
+
+120 Termodinámica
+Fig. 8.16 Proceso isotérmico. A la curva que une los 
+estados que tienen la misma temperatura se le de­
+nomina ISOTERMA.
+Proceso Isotérmico
+A un proceso termodinâmico en el que la temperatura del sistema 
+permanece constante, se le denomina PROCESO ISOTÉRMICO.
+En la figura 8.16 vemos el diagrama p-V para un proceso isotérmico. Anali­
+zando la ecuación del gas ideal p .V = n . R .T, vemos que si la temperatura 
+permanece constante el término n. R .T es constante => p .V = GTE
+=> p = ^E
+P V
+Esto significa que la relación entre las variables presión y volumen es 
+inversamente proporcional y determinan una gráfica curva (hipérbola) como 
+la de la figura. Para calcular el trabajo, debemos calcular el área delimitada 
+por la curva, para ello utilizaremos la siguiente ecuación:
+V Vw,sorfRMico = p -v. In (-^-) = n . R .T. In (-^-)
+- Podemos utilizar cualquier par de valores p .V siempre que correspondan 
+a un mismo punto de la isoterma, porque ya hemos visto que p .V = GTE.
+- "In" es el logaritmo en base "e" o logaritmo neperiano
+En un proceso isotérmico
+AU = O y Q = W
+- Como la temperatura es constante AU = 0, aplicando el Primer Principio 
+de la Termodinámica Q-W = AU => Q-W = 0 => Q=W.
+Si el sistema recibe energía mediante calor, esta energía no queda en el 
+sistema, toda se transfiere al ambiente. Si el sistema recibe energía median­
+te trabajo, la cede al ambiente mediante calor.
+Fig. 8.17 Proceso adiabático Q = 0
+En un proceso adiabático
+Q = O y AU = —W
+Proceso Adiabático
+A un proceso termodinâmico en el que no hay calor entre el sistema y 
+el ambiente, se le denomina PROCESO EXTERNAMENTE ADIABÁTICO.
+En la figura 8.17 vemos el diagrama p-V para un proceso adiabático. Cuan­
+do se realiza una compresión adiabática como la de la figura, todo el trabajo 
+realizado por el ambiente sobre el sistema se transforma en energía interna.
+Q-W=AU yQ = 0 => -W = AU
+Si la energía interna aumenta la temperatura también aumenta. El diagra­
+ma p - V es una curva que no es igual a las isotermas, sino que las cruza.
+Para todo proceso externamente adiabático se cumplen las siguientes 
+ecuaciones:
+PjV; = pf.V/ y T,V/-i=Tf.V/-’
+El valor del y depende de las características del gas.2
+2 En la página 123 (fig.8.26), puede encontrar más 
+información sobre los valores de y.
+
+Termodinámica 121
+CICLO TERMODINÂMICO
+Denominamos CICLOTERMODINÁMICO a un conjunto de procesos su­
+cesivos y en el cual el estado inicial y final es el mismo.
+En la fig. 8.18 vemos un ciclo compuesto por 5 procesos, en el que el gas 
+comienza y termina el ciclo en el estado A.
+Características de un ciclo termodinâmico
+La temperatura inicial y final es la misma. Por este motivo sabemos que 
+la energía interna inicial del sistema es igual a la final => AUC|CLO = 0
+- Aplicando el Primer Principio de la Termodinámica Q - W= AU, obtene- 
+mos que QC|CIO = WCKL0
+- El trabajo de un ciclo se calcula sumando el trabajo de todos los proce­
+sos que lo forman.
+- En algunos casos podemos utilizar la siguiente regla práctica para calcu­
+lar el trabajo de un ciclo.
+Regla Práctica para determinar el trabajo de un ciclo termodinâmico
+El área encerrada por el ciclo en un diagrama p-V representa el traba­
+jo del ciclo. El signo del trabajo es positivo si el ciclo se realiza en senti­
+do horario y negativo si se realiza en sentido antihorario (fig. 8.19).
+Fig. 8.19 Regla práctica para determinar el signo del 
+trabajo realizado por un gas en un ciclo.Ejemplo 3
+El diagrama p-V muestra el ciclo 1-2-3-4-1 de un gas ideal. (Fig. 8.20)
+a) Clasifique los procesos 1 -2,2-3,3-4 y 4 -1 y calcule el trabajo realizado en 
+cada uno.
+Proceso 1-2
+Es un proceso isobárico porque la presión se mantiene constante p = 1,0 atm.
+El trabajo se calcula:
+wlsoBARico=P-AV=1'0atm'(2'0l"6-0l) W12 =-4,0 l.atm
+Obtuvimos un resultado negativo porque el gas se comprimió, o sea el 
+trabajo fue realizado por el ambiente sobre el sistema.
+Proceso 2-3
+Es un proceso isovolumétrico porque el volumen se mantiene constante
+V = 2,0 I. En este tipo de proceso no hay trabajo W2 3 = 0 l.atm
+Proceso 3-4
+Es un proceso isobárico (fig. 8.21) porque la presión se mantiene cons­
+tante p = 3,0 atm. El trabajo se calcula:
+W|SObArico = P •AV = 3'0 atm . (6,01 - 2,0 I) => WM = 12 l.atm
+Obtuvimos un resultado positivo porque el gas se expandió, o sea el tra­
+bajo fue realizado por el sistema sobre el ambiente.
+Proceso 4-1
+Es un proceso isovolumétrico porque el volumen se mantiene constante
+V = 6,0 I. En este tipo de proceso no hay trabajo W^1 = 0 l.atm
+Fig. 8.21 En este proceso se produce una expansión 
+isobárica.
+
+122 Termodinámica
+p(atm)
+Fig.8.22 El área delimitada por el ciclo representa el 
+trabajo del ciclo.
+Si en dos estados el producto p. V 
+es igual, la temperatura del gas en 
+ambos estados es la misma.
+Sustancia c (^)
+Agua
+Aluminio 0,22
+Hierro
+Mercurio 0,033
+Plomo 0,031
+Fig. 8.23 Valores del calor específico de algunas sus 
+rancias.
+La capacidad calorífica de un ob­
+jeto depende de su masa y no es 
+una propiedad característica.
+b) Determine el trabajo total del ciclo.
+El trabajo total del ciclo es la suma de los trabajos realizados por el gas 
+encada proceso.
+W =W + W +W 4-W =-4,0 l.atm + 0 + 12 l.atm 4-0 = 8,0 l.atm
+’’’CICLO 1-2 2 3 3 4 4 1
+WacLO = 8>0Latm
+También podemos utilizar la regla práctica que consiste en calcular el 
+área encerrada en la representación del ciclo del diagrama p-V.
+Calculamos el área del rectángulo 1-2-3-4 multiplicando sus lados (fig.
+8.22):
+Área = 2,0atm .4,0 I = 8,01. atm => WC|CLO = 8,0 l.atm
+Como el ciclo se realizó en sentido horario el trabajo es positivo.
+De esta forma comprobamos que ambos métodos son válidos para de­
+terminar el trabajo realizado por un sistema durante un ciclo.
+c) Demuestre que la temperatura de los estados 1 y 3 es la misma.
+A partir de la ecuación -2^ = , si T, = T, podríamos simp
+sus valores y se debería cumplir que p, .V, = p3. V3. Calculando obtenemos:
+p1 .V, = 1,0atm .6,01 = 6,0 atm.l
+p3. V3 = 3,0atm . 2,01 = 6,0 atm.l
+p,-V, = p3-V,=>t1=tj
+FASES DE LA MATERIA
+Ya hemos estudiado el comportamiento termodinâmico de la fase gaseosa 
+de la materia. En esta sección veremos qué ocurre en la fase líquida y sólida 
+y en los procesos de cambio de fase.
+Calor específico de sólidos y líquidos„ 
+El CALOR ESPECÍFICO de una sustancia es la energía necesaria que se 
+debe suministrar a 1g de dicha sustancia para que su temperatura 
+aumente en 1°C o 1K.
+Es una propiedad característica (fig. 8.23) de la sustancia y se representa con 
+la letra "c".
+- Un cuerpo puede recibir energía mediante calor o por la realización de 
+trabajo mecánico, esto se traduce en un aumento de energía interna AU.
+El valor del calor específico se calcula c = —m. A i
+- La unidad de "c" en S.l. es Kg ,K> Per0 'a unidad más utilizada es ■
+- Se denomina CAPACIDAD CALORÍFICA y su notación es "C" a la canti- 
+dad de energía que se debe suministrar a un cuerpo para que su tempe' 
+ratura aumente en 1 °C o en 1K (fig. 8.24). La relación entre el calor especf 
+fico (c) y la capacidad calorífica (C) es: C = m .c
+Fig. 8.24
+
+Termodinámica 123
+Calor específico de un gas ideal______________________
+En el caso de un gas, el valor del calor específico depende del tipo de proce­
+so por el cuál recibió la energía. Si se realiza a volumen constante toda la 
+energía recibida (Q) produce un incremento de energía interna (AU). Sin em­
+bargo si la energía la recibe a presión constante, el gas se dilata, efectuando 
+un trabajo apreciable sobre el ambiente.
+Para estudiar los dos casos antes mencionados definiremos:
+a) Capacidad calorífica molar a volumen constante (Cv)
+r - AU
+v n.AT
+- "n" es el número de moles de gas.
+- "AU y AT" son las variaciones de energía interna y de temperatura del 
+gas respectivamente.
+- La unidad de C en el S.l. es —L-
+v mol.K
+b) Capacidad calorífica molar a presión constante (Cp)
+- "n" es el número de moles de gas.
+- "Qp" es el calor intercambiado por el gas a presión constante.
+- La unidad de C en el S.l. es—4^.
+p mol.K
+Para cualquier sustancia, el valor de Cp siempre es mayor que el de Cv 
+(fig. 8.25). Para un gas ideal la relación entre sus valores es Cp - Cv = R.
+Los valores de Cp y Cvde los gases, 
+dependen si estos son monoató­
+micos o diatómicos.
+Para los gases monoatómicos el 
+valor es aproximadamente el mis­
+mo para un gran número de ellos 
+Cv = 3/2. R y Cp = 5/2. R. Siendo R 
+la constante del gas ideal.
+Para los gases diatómicos los va­
+lores son Cv = 5/2 . R y Cp = 7/2 . R.
+Fig. 8.2 5
+Con la letra y (gamma) se denomi­
+na al cociente -^.Sus valores son: 
+Gas monoatómico y = 5/3
+Gas diatómico y = 7/5
+Flg.8.26
+Ejemplo 4
+En un recipiente de paredes adiabáticas hay 200g de agua a una tempera­
+tura de 20°C (fig. 8.27). Luego se introduce en él una pieza de hierro de 80g a
+una temperatura de 140°C. Recordando que el calor específico del agua y 
+del hierro son c = 1,0^ y c = 0,11^ respectivamente.Calcule la tempe­
+ratura de equilibrio. (Considere despreciable las variaciones de energía in­
+terna del recipiente)
+Este sistema está aislado del ambiente, porque al ser el recipiente adiabático 
+(fig. 8.28) no intercambia energía por calor (QS,51EMA = 0) y tampoco existe 
+trabajo mecánico entre el sistema y el ambiente. Sí hay calor entre el agua 
+y la pieza de hierro por estar a diferentes temperaturas y en contacto térmi­
+co, la suma de estos calores debe ser cero.
+Fig. 8.27 Ejemplo 4
+q =0 +Q =0 => mA.cA.(TfA-TiA) + mH.cH.(T -T ) = 0
+^SISTEMA WAGUA ^HIERRO A A fA iA H H In ln
+Luego de un tiempo el sistema llegará al equilibrio térmico y la temperatura 
+final del agua y del metal serán iguales — 1"fQuiEiBpio
+Despejando la temperatura final del sistema TfQUIL1BR10, obtenemos:
+-r mA. c* .T1A + mH . cM .T1H _ _-pror
+1 EQUILIBRO - ----~-- r 4. m r tQUIUBRIO “ x J
+A los materiales que no permiten 
+que se intercambie energía me­
+diante calor entre dos sistemas, se 
+les denomina ADIABÁTICOS.
+A los materiales que permiten que 
+se intercambie energía mediante 
+calor entre dos sistemas, se les de­
+nomina DIATÉRMANOS.
+Fig.8.28
+
+124 Termodinâmica
+Fig. 8.29 El proyectil se incrusta en la pared hasta 
+quedar en reposo.
+Ejemplo 5
+Un proyectil de plomo de masa 20g impacta contra una pared a una veloci­
+dad de 200-y quedando incrustado en ella (fig. 8.29).
+a) Calcule el trabajo de las fuerzas no conservativas que actuaron sobre el 
+proyectil.
+El trabajo de las fuerzas no conservativas es igual a la variación de la ener­
+gía mecánicaL = AEM.La energía mecánica inicial es energía cinética
+E = E = 1 • m. v2 = 4 • 0,020Kg. (200-^ )2 = 400J y la energía mecánica 
+final es cero, porque queda en reposo EMf = OJ.
+TfNOtoNs =AEM = 0J-400J => Tfnocons =AEm = -400J
+b) Si toda la energía mecánica perdida en el choque se transforma en ener­
+gía interna del proyectil. ¿Cuánto aumentará su temperatura?
+Despreciando los trabajos de deformación (W = 0) y aplicando el Primer 
+Principio de la Termodinámica Q = AU = 400J
+Utilizamos la ecuación Q = m . c ¿\T, el calor específico del plomo es 
+c = 0,031 la masa del proyectil es 20g y Q debemos expresarlo en 
+calorías. Para ello realizamos la siguiente conversión:
+1J = 0,24Cal => 400J = 96Cal => Q = 96Cal
+Luego de esta conversión calculamos AT = — — => AT=155°C
+* m  .c
+LÍQUIDO
+SÓLIDO sublimación GASEOSO
+Fig.8.30 Cambios de fase y sus respectivas denomi­
+naciones.
+Denominamos PUNTO DE FUSIÓN 
+a la temperatura a la que se pro­
+duce el cambio de fase sólido - lí­
+quido.
+Denominamos PUNTO DE EBULLI­
+CIÓN a la temperatura a la que se 
+produce el cambio de fase líquido 
+- gaseoso.
+Fig. 8.31 Para una misma sustancia y a una misma 
+presión, el punto de solidificación tiene el mismo 
+valor que el de fusión y el punto de condensación 
+el mismo valor que el de ebullición.
+Cambios de fase
+El estado de agregación en que se encuentra una sustancia depende de la 
+temperatura y presión a la que está sometida. Variando estos parámetros 
+podemos lograr un cambio de fase. En la figura 8.30 vemos las denomina­
+ciones de los posibles cambios de fase entre sólido, liquido y gas.
+Para simplificar las explicaciones, estudiaremos solo transformaciones a pre­
+sión constante.
+Para transformar una sustancia en fase sólida a líquida (fusión) o de líquida 
+a gaseosa (vaporización) el sistema debe recibir energía. En los procesos 
+opuestos (condensación y solidificación) el sistema libera energía.
+Propiedades de los cambios de estado
+- A una presión preestablecida, las temperaturas a la cual se producen los 
+cambios de estado, tienen valores fijos para cada sustancia (fig. 8.31). Por 
+ejemplo el punto de fusión del agua a una presión de 1 atmósfera es 0°C 
+y el punto de ebullición es 100°C.
+- Mientras se produce un cambio de estado la temperatura permanece 
+constante, aunque haya un intercambio de energía con el ambiente. Du­
+rante este tipo de proceso físico, cambia la energía interna del sistema, 
+pero la temperatura permanece constante.
+
+Termodinámica 125
+Denominamos CALOR DE FUSIÓN y CALOR DE VAPORIZACIÓN a la 
+energía que debe suministrarse a un gramo de sustancia para que se 
+produzca el cambio de estado correspondiente. La notación es L y L 
+respectivamente.
+- Las unidades de Lf y Lv en el S.l. son J/Kg, aunque es más común el uso de 
+Cal/g.
+- A un presión dada, los calores latentes son propiedades característi­
+cas de las sustancias. Por ejemplo para el agua a una presión de 1atm, 
+Lf = 80Cal/g y Lv = 540Cal/g.
+- La energía necesaria para fundir o vaporizar "m" gramos de una sustan­
+cia se calcula Qr = m . Lf y Qv = m . Lv respectivamente.
+QFUSIÓN=m-L<
+^VAPORIZACIÓN ~ m * V
+Ejemplo 6
+¿Cuánta energía es necesaria para transformar un cubo de hielo de 40g de 
+masa a una temperatura inicial -5,0 °C, en agua (líquida) a 20°C?
+Datos c , = 0,50-^, c =1,0-^, L,= 80cal/gHielo ' g. C Ayua g« C
+Para realizar esta transformación debemos aumentar la energía interna del 
+cubo de hielo. Para una mejor comprensión de esta situación dividiremos 
+este proceso en tres etapas.
+1. Debemos suministrar energía (Q,) para aumentar la temperatura del cubo 
+de hielo hasta la temperatura de fusión, que en este caso es 0°C.
+T = -5,0°C, Tf = 0°C => AT = 0°C -(-5,0°C) => AT = 5,0°C
+Q, = m.C.AT = 40g .0,50—. 5,0 °C => Q, = 100Cal g. c.
+2. Luego debemos proporcionar energía (02) para producir el cambio de 
+fase (fusión).
+Q2 = m . L( = 40g . 80Cal/g => Q2 = 3200Cal
+3. Después de haber recibido Q, y Q2 el cubo de hielo se ha transformado 
+en agua líquida a 0°C, sólo nos falta calcular cuánta energía (Q3) debe­
+mos suministrar para aumentar su temperatura hasta 20°C.
+T = 0°C y Tf = 20°C => AT = 20°C
+Q3 = m.c.AT = 40g.1,0Íf¿ ,20°C => Q1 = 800Cal
+La energía total necesaria para realizar la transformación es:
+Qt = Qi + Q2 + Q3 = lOOCal + 3200Cal 4-800Cal => QT = 4100Cal
+En la figura 8.32 vemos la variación de la temperatura a medida que el cubo 
+de hielo recibe energía.
+Fig. 832 Mientras se produce el cambio de fase, el 
+sistema recibe energía pero su temperatura perma­
+nece constante.
+
+128 Termodinámica
+Los puntos Ay B están ambos sobre la misma isoterma.HallarT,Q,AU al 
+pasar de A en B. (Prof. H. Bentancour /1. Ariel) (Fig. 8.40)
+Dos moles de un gas monoatómico evolucionan como muestra la grá­
+fica de la figura 8.41 .a)Grafique P = f (V). b) Calcule WNET0 del ciclo ¿Quién 
+lo hace? (Liceo Zorrilla)
+Un volumen gaseoso ocupa 2,5 litros a 4,0atm, luego pasa a temperatu­
+ra constante a ocupar 10 litros a 1,0 atm, en la segunda etapa mantiene 
+su presión y vuelve al volumen inicial, y por fin vuelve al estado inicial 
+de 4,0atm y 2,5 litros. Realice el diagrama p - V y determine el trabajo 
+del ciclo. (Prof.Z.Goyen / Liceo Miguel C. Rubino)
+Un gas ideal evolucionó como se indica en la figura 8.42 (BC y DA son 
+isotermas).a) Represente cualitativamente el diagrama p-T.b) Usando 
+el Primer Principio de la Termodinámica describa brevemente los dis­
+tintos procesos. (Liceo Zorrilla)
+El cilindro metálico contiene aire a la presión de LOO x 1O5Pa.EI pistón, 
+de peso despreciable y que ajusta perfectamente, se carga con 1 OKg.Se 
+observa que baja, oscila, baja muy lentamente y, finalmente se detiene. 
+¿Cuánto bajó el pistón desde su posición inicial? (Fig. 8.43)
+El carro A, de 500g, avanza a 20m/s hacia el B de 800g que está en repo­
+so. Los dos son de plomo y luego del choque quedan unidos y 
+térmicamente aislados del ambiente. Calcule el aumento de tempera­
+tura de los carros. El calor específico del plomo es 0,031-^1.
+(Prof. A.Villamil / Escuela Integral) (Fig. 8.44)
+Un recipiente contiene 200g de agua a T = 30°C y se le introduce un 
+cuerpo de masa 100g a temperatura 150°C elevándose la temperatura 
+hasta 40°C. Luego se agrega agua a 10°C hasta llegar nuevamente a 
+una temperatura 30°C.¿Cuánta agua se agregó?
+(Prof. H. Bentancour /1. Ariel)
+l En un recipiente adiabático que contiene 10Og de agua a 10°C,se intro­
+ducen 50g de hielo a -5,0°C.¿Cuál es la temperatura final del sistema?
+DEPRÁCTICO
+Fig. 8.44 Problema de examen B
+rminación del calor específico de un metal____________________
+de agua a una temperatura de 20°C se encuentran dentro de un 
+metro de capacidad calorífica C = 30-^. Luego se introduce un obje­
+to metálico (aluminio) de 40g de masa a una temperatura inicial de 100°C 
+Se espera a que el sistema aluminio - agua - calorímetro alcance el equili­
+brio térmico y se mide la temperatura,obteniéndose una lectura deT = 25°C 
+Determine el calor específico del aluminio con su correspondiente incerti­
+dumbre, si las masas tienen una incertidumbre del 2% y los termómetros 
+una apreciación de 1°C.
+
+Denominamos fluidos a las sustancias en estado líquido o gaseoso.
+La diferencia de mayor importancia entre el estado líquido y gaseoso, al 
+momento de aplicar las leyes de la mecánica a los fluidos, es que los gases 
+son altamente compresibles (y expansibles), mientras que los líquidos casi 
+no lo son. Algunos fluidos presentan fuerzas de rozamiento internas (visco­
+sidad), que hacen más complicado el estudio de su movimiento. Por ejem­
+plo^ temperatura ambiente la miel o la glicerina tienen una alta viscosidad, 
+y la del agua es mínima. En nuestro estudio cuando hagamos referencia a 
+fluidos los supondremos incompresibles y no viscosos.
+Previamente a comenzar a estudiar el comportamiento mecánico de los flui­
+dos, definiremos una magnitud denominada densidad.
+La DENSIDAD de un cuerpo de masa "m" y volumen "V", se representa 
+con la letra p (Rho) y se calcula:p =
+- Cada sustancia tiene su propio valor de densidad. Por esta razón una 
+propiedad como esta recibe el nombre de Propiedad Característica. En la 
+figura 9.2 vemos valores de densidades de algunas sustancias.
+1
+- La densidad es una magnitud escalar por ser el cociente de dos magni­
+tudes escalares, la masa y el volumen.
+- Su unidad en el S.l. es por ser Kg la unidad de masa y m la unidad de 
+volumen. Es muy común encontrar la densidad de una sustancia expre­
+sada en pero estas unidades no corresponden al S.l.
+3
+cm
+- Veremos como convertir de una unidad a otra.
+lg = 1 x103Kg 
+1cm' = 1 x106m’
+1^, = 1x1Q-;k9 1OOOK1 
+cm’ 1x10 m m = 1000^1 m1
+Densidades (a 0°C y presión latm)
+Sustancia Aire Hielo Agua Aluminio Hierro Mercurio Oro
+p(-3_J 
+r cm’ 0,0013 0,92 1,00 2,7 7,6 13,6 193
+Flg. 9,2 Valores de las densidades de algunas sustancias.
+1 Para un valor de temperatura y presión fijo.
+
+130
