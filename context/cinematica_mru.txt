@@ -1,8 +1,14 @@
 Tema: Cinemática - Movimiento Rectilíneo Uniforme (MRU)
 
-El Movimiento Rectilíneo Uniforme (MRU) es aquel en el que un cuerpo se desplaza en línea
-recta con velocidad constante, es decir, recorre distancias iguales en intervalos de
-tiempo iguales. En el MRU la aceleración es nula (a = 0).
+Un movimiento es RECTILÍNEO cuando su trayectoria es una línea recta. Esto no dice nada
+sobre cómo cambia la velocidad: un movimiento rectilíneo puede tener velocidad constante
+(MRU) o variable (por ejemplo, Movimiento Rectilíneo Uniformemente Variado, MRUV, o
+caída libre). "Rectilíneo" describe la forma de la trayectoria; "uniforme" describe que
+la velocidad no cambia. Son dos características independientes, no sinónimos.
+
+El Movimiento Rectilíneo Uniforme (MRU) es el caso particular en el que, además de ser
+rectilíneo, el cuerpo se desplaza con velocidad constante, es decir, recorre distancias
+iguales en intervalos de tiempo iguales. En el MRU la aceleración es nula (a = 0).
 
 Ecuación fundamental:
 x = x0 + v * t
