@@ -33,6 +33,20 @@ app.add_middleware(
     allow_headers=["Content-Type"],
 )
 
+
+@app.middleware("http")
+async def add_no_cache_header(request: Request, call_next):
+    # Los archivos del widget (chat-widget.html/js/css) no llevan Cache-Control
+    # propio, así que el navegador puede quedarse con una versión vieja en caché
+    # por horas después de un deploy (heurística de caching sin este header),
+    # obligando a un hard-refresh manual para ver cambios — pasó en la práctica con
+    # un fix de KaTeX que un usuario seguía sin ver. "no-cache" no desactiva el
+    # cache, solo obliga a revalidar con el servidor (If-None-Match/ETag) antes de
+    # reusarlo, así que sigue siendo barato (304 sin body) pero nunca queda stale.
+    response = await call_next(request)
+    response.headers.setdefault("Cache-Control", "no-cache")
+    return response
+
 # Se instancia una sola vez al arrancar; falla rápido si LLM_PROVIDER es inválido.
 provider = get_provider()
 
