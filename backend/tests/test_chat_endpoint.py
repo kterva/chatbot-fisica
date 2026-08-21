@@ -16,6 +16,13 @@ def test_health_check():
     assert response.json() == {"status": "ok"}
 
 
+def test_version_endpoint():
+    response = client.get("/version")
+    assert response.status_code == 200
+    assert "version" in response.json()
+    assert response.json()["version"]
+
+
 def test_chat_success(monkeypatch):
     monkeypatch.setattr(main_module.provider, "generate", AsyncMock(return_value="La velocidad es..."))
 

@@ -15,6 +15,7 @@ from app.providers.base import LLMProviderError
 from app.providers.factory import get_provider
 from app.rate_limit import limiter
 from app.schemas import ChatRequest, ChatResponse
+from app.version import VERSION
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger("fisica-chat")
@@ -58,6 +59,11 @@ NO_CONTEXT_MESSAGE = (
 @app.get("/health")
 async def health():
     return {"status": "ok"}
+
+
+@app.get("/version")
+async def version():
+    return {"version": VERSION}
 
 
 @app.post("/api/chat", response_model=ChatResponse)

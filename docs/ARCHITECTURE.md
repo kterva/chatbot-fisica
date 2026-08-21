@@ -98,6 +98,30 @@ mínima, para que una futura migración a RAG sea un cambio localizado:
   de URLs o de la respuesta cruda del proveedor) al cliente.
 - **Timeouts**: toda llamada HTTP a un proveedor usa `LLM_REQUEST_TIMEOUT_SECONDS`.
 
+## Versionado
+
+La versión mostrada en el footer del widget (`GET /version`, ver `app/version.py`) se
+calcula con `git describe --tags --always --dirty` sobre el checkout del servidor —
+no hay un número de versión mantenido a mano en ningún archivo. Se calcula una sola
+vez al arrancar el proceso.
+
+- Con el working tree limpio y en un commit taggeado: `v1.5.0`.
+- Con commits nuevos desde el último tag: `v1.5.0-3-gabc1234` (3 commits después del
+  tag, hash corto `abc1234`).
+- Con cambios sin commitear en el servidor (no debería pasar en producción): sufijo
+  `-dirty`.
+- Si `git` no está disponible o el directorio no es un repo: `unknown`.
+
+Para marcar una fase nueva:
+
+```bash
+git tag -a v1.6.0 -m "Descripción breve de la fase"
+git push origin v1.6.0
+```
+
+En el próximo `git pull` + reinicio del servicio en el servidor, el footer refleja el
+tag nuevo automáticamente — no hay que tocar ningún HTML.
+
 ## Riesgos conocidos y pendientes para fases posteriores
 
 - Sin autenticación de usuarios: cualquiera con la URL pública del backend puede

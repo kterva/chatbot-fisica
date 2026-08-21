@@ -12,6 +12,21 @@
   const formEl = document.getElementById("fisica-chat-form");
   const inputEl = document.getElementById("fisica-chat-input");
   const submitEl = document.getElementById("fisica-chat-submit");
+  const versionEl = document.getElementById("fisica-version");
+
+  // Solo relevante en la página standalone (ver chat-widget.html); si el widget se
+  // embebe sin ese elemento, esto simplemente no hace nada. Si el fetch falla, se
+  // deja el texto estático que ya tiene el elemento en el HTML.
+  if (versionEl) {
+    fetch("/version")
+      .then((response) => response.json())
+      .then((data) => {
+        if (data.version) {
+          versionEl.textContent = data.version;
+        }
+      })
+      .catch(() => {});
+  }
 
   function appendMessage(role, text) {
     const messageEl = document.createElement("div");
