@@ -24,6 +24,10 @@ fisica-chat/
 └── docs/        # Documentación técnica
 ```
 
+> ¿No tenés experiencia técnica o preferís una guía más detallada, paso a paso, para
+> Windows o Ubuntu? Ver
+> [docs/GUIA_INSTALACION_LOCAL.md](docs/GUIA_INSTALACION_LOCAL.md).
+
 ## Puesta en marcha rápida (desarrollo local)
 
 ```bash
