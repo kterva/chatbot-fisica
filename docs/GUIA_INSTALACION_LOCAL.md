@@ -149,6 +149,42 @@ pasos — solo:
 5. Para cerrar todo: volvé a la terminal y apretá `Ctrl+C`. Cerrar la ventana del
    navegador no alcanza, el servidor sigue corriendo hasta que lo pares ahí.
 
+## Agregar más material (PDFs) al chatbot
+
+El chatbot solo responde con lo que hay en la carpeta `context/` — para que pueda
+usar un libro o apunte nuevo, primero hay que convertir ese PDF a texto plano ahí
+adentro. Hay un script que lo hace automáticamente.
+
+1. Copiá el o los PDF nuevos dentro de la carpeta `documents/` (está en la raíz del
+   proyecto, al lado de `backend/`, `context/`, etc.).
+2. Abrí una terminal y activá el entorno virtual como en el paso 5 de más arriba
+   (tiene que aparecer `(.venv)`). Si estás parado en la carpeta `backend`, salí un
+   nivel:
+   ```bash
+   cd ..
+   ```
+3. Ejecutá:
+   ```bash
+   python scripts/extract_pdf_text.py
+   ```
+   Esto procesa **todos** los PDF que haya en `documents/` (no solo el nuevo) y
+   genera un archivo `.txt` por cada uno dentro de `context/`, con el mismo nombre
+   que el PDF. Si preferís convertir uno solo:
+   ```bash
+   python scripts/extract_pdf_text.py nombre-del-archivo.pdf
+   ```
+4. Los archivos `.txt` que aparecen en `context/` son los que el chatbot usa — no
+   hace falta reiniciar el servidor, el cambio se ve en la siguiente pregunta que
+   hagas.
+
+**Importante — PDF escaneados**: este script solo funciona con PDF que tienen texto
+real adentro (el que se puede seleccionar y copiar con el mouse en un lector de
+PDF). Si el PDF es un escaneo (páginas fotografiadas o escaneadas, sin texto
+seleccionable), el script va a avisar "no se pudo extraer texto" y no va a generar
+nada — para esos casos hace falta un proceso de reconocimiento de texto (OCR)
+distinto, que no está automatizado en este proyecto. Si te encontrás con esto,
+pedí ayuda en vez de intentar forzarlo.
+
 ## Problemas frecuentes
 
 - **"python no se reconoce como un comando" / "command not found: python3"** — Python
