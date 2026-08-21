@@ -44,10 +44,42 @@ MIN_CHUNK_CHARS = 200
 MIN_CHUNK_WORDS = 40
 
 
-def _tokenize(text: str) -> list[str]:
+def _raw_words(text: str) -> list[str]:
     text = _DOTTED_ACRONYM_RE.sub(lambda m: m.group(0).replace(".", ""), text)
-    words = _WORD_RE.findall(text.lower())
+    return _WORD_RE.findall(text.lower())
+
+
+def _tokenize(text: str) -> list[str]:
+    words = _raw_words(text)
     return [w for w in words if w not in STOPWORDS and len(w) > 2]
+
+
+def _tokenize_with_bigrams(text: str) -> list[str]:
+    """Como `_tokenize`, pero además agrega bigramas (pares de palabras adyacentes,
+    ej. "espacio_recorrido") a la lista.
+
+    Puntuar solo palabras sueltas no distingue "Movimiento Rectilíneo Uniformemente
+    Variado" de "Movimiento Circular Uniformemente Variado": comparten casi todas
+    las palabras clave, y un fragmento que repite mucho una sola de ellas (ej.
+    "recorrido") le puede ganar en score al fragmento realmente relevante aunque no
+    tenga nada que ver con el tema. Los bigramas capturan la frase compuesta como
+    unidad — "movimiento_rectilíneo" o "rectilíneo_uniformemente" solo matchean
+    fragmentos que genuinamente usan esa combinación, no cualquiera que use alguna
+    de las palabras sueltas por separado. Encontrado en la práctica con exactamente
+    ese caso (MRUV vs. movimiento circular).
+    """
+    words = _raw_words(text)
+    unigrams = [w for w in words if w not in STOPWORDS and len(w) > 2]
+    bigrams = []
+    for first, second in zip(words, words[1:]):
+        if (
+            first not in STOPWORDS
+            and len(first) > 2
+            and second not in STOPWORDS
+            and len(second) > 2
+        ):
+            bigrams.append(f"{first}_{second}")
+    return unigrams + bigrams
 
 
 def _split_into_chunks(text: str) -> list[str]:
@@ -88,13 +120,13 @@ def select_context(question: str) -> str:
     palabras clave de la pregunta, y concatena los fragmentos más relevantes de todo
     el corpus hasta un presupuesto máximo de caracteres.
 
-    TF (frecuencia del término): cuántas veces aparece la palabra en el fragmento,
-    normalizado por el largo del fragmento. IDF (frecuencia inversa de documento,
-    acá "documento" = fragmento, no archivo): fragmentos que comparten una palabra
-    con casi cualquier otro fragmento del corpus (ej. "fuerza", "newton" — comunes en
-    cualquier texto de Física) no discriminan nada y se les baja el peso casi a
-    cero; palabras específicas de pocos fragmentos (ej. "refracción") pesan mucho
-    más.
+    TF (frecuencia del término): cuántas veces aparece la palabra (o bigrama, ver
+    `_tokenize_with_bigrams`) en el fragmento, normalizado por el largo del
+    fragmento. IDF (frecuencia inversa de documento, acá "documento" = fragmento, no
+    archivo): fragmentos que comparten una palabra con casi cualquier otro fragmento
+    del corpus (ej. "fuerza", "newton" — comunes en cualquier texto de Física) no
+    discriminan nada y se les baja el peso casi a cero; palabras específicas de
+    pocos fragmentos (ej. "refracción") pesan mucho más.
 
     Este es el único punto que deberá cambiar al migrar a búsqueda semántica /
     embeddings en una fase RAG posterior; su firma (question -> str) no cambiará.
@@ -102,7 +134,7 @@ def select_context(question: str) -> str:
     if not settings.context_dir.is_dir():
         return ""
 
-    question_words = set(_tokenize(question))
+    question_words = set(_tokenize_with_bigrams(question))
     if not question_words:
         return ""
 
@@ -117,8 +149,11 @@ def select_context(question: str) -> str:
     for path in paths:
         text = path.read_text(encoding="utf-8")
         for chunk in _split_into_chunks(text):
-            counts = Counter(_tokenize(chunk))
-            total_words = sum(counts.values())
+            counts = Counter(_tokenize_with_bigrams(chunk))
+            # El denominador de TF se calcula solo sobre unigramas (no cuenta los
+            # bigramas agregados) para que la escala de los scores, y por lo tanto
+            # MIN_CONTEXT_SCORE, no cambie por este agregado.
+            total_words = sum(v for k, v in counts.items() if "_" not in k)
             if total_words < MIN_CHUNK_WORDS:
                 continue
             chunk_data.append((path, chunk, counts, total_words))
