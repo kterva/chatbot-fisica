@@ -28,6 +28,34 @@
       .catch(() => {});
   }
 
+  // Delimitadores que le pedimos al asistente en el system prompt. Se listan
+  // explícitamente porque el config por defecto de auto-render no incluye "$...$"
+  // (para no confundir con signos de dólar en texto común) — acá no hay ese riesgo,
+  // el bot solo habla de Física.
+  const KATEX_DELIMITERS = [
+    { left: "$$", right: "$$", display: true },
+    { left: "\\[", right: "\\]", display: true },
+    { left: "$", right: "$", display: false },
+    { left: "\\(", right: "\\)", display: false },
+  ];
+
+  function renderMath(el) {
+    // Si el script de KaTeX no cargó (ej. sin conexión al CDN), se deja el texto
+    // plano con la notación LaTeX tal cual: sigue siendo legible, solo no se
+    // renderiza como fórmula.
+    if (typeof renderMathInElement !== "function") {
+      return;
+    }
+    try {
+      renderMathInElement(el, {
+        delimiters: KATEX_DELIMITERS,
+        throwOnError: false,
+      });
+    } catch (error) {
+      // No interrumpir el chat por un error de renderizado de una fórmula puntual.
+    }
+  }
+
   function appendMessage(role, text) {
     const messageEl = document.createElement("div");
     messageEl.className = "fisica-chat-message fisica-chat-message--" + role;
@@ -73,6 +101,7 @@
     try {
       const answer = await sendQuestion(question);
       pendingEl.textContent = answer;
+      renderMath(pendingEl);
     } catch (error) {
       pendingEl.textContent = error.message;
       pendingEl.classList.add("fisica-chat-message--error");

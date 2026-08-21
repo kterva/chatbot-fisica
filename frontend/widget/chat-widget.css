@@ -111,6 +111,14 @@ body {
   color: #7a1f1f;
 }
 
+/* El widget es angosto (max 480px); una fórmula larga en modo display no debe
+   romper el layout, así que scrollea horizontalmente dentro de su propio mensaje. */
+.fisica-chat-message .katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 4px 0;
+}
+
 .fisica-chat-form {
   display: flex;
   gap: 8px;
