@@ -1,0 +1,2061 @@
+Tema: Movimiento ondulatorio (Capítulo 16 — Física para Ciencias e Ingeniería, Serway)
+
+Capítulo 16  Movimiento ondulatorio
+el punto donde se dejó caer la piedra hasta la posición del objeto. Esta característica es 
+central del movimiento ondulatorio: la energía se transfiere a través de una distancia, pero 
+la materia no.
+16.1 Propagación de una perturbación
+En la introducción a este capítulo se refirió a la esencia del movimiento ondulatorio: la 
+transferencia de energía a través del espacio sin la transferencia de materia. En la lista de 
+mecanismos de transferencia de energía del capítulo 8, las ondas mecánicas y la radiación 
+electromagnética, dependen de las ondas. En contraste, en otro mecanismo, la transfe-
+rencia de materia, la transferencia de energía está acompañada por un movimiento de 
+materia a través del espacio.
+Todas las ondas mecánicas requieren 1) alguna fuente de perturbación, 2) un medio 
+que contenga elementos que sean factibles de perturbación y 3) algún mecanismo físico 
+a partir del cual los elementos del medio puedan influirse mutuamente . Una forma de 
+demostrar el movimiento ondulatorio es sacudir un extremo de una larga cuerda que 
+esté bajo tensión y tenga su extremo opuesto fijo como se muestra en la figura 16.1.  
+De esta forma, se crea un solo “chichón” (llamado pulso) que viaja a lo largo de la cuerda 
+con una rapidez definida. La figura 16.1 representa cuatro “instantáneas” consecutivas de 
+la creación y propagación del pulso viajero. La cuerda es el medio a través del cual viaja 
+el pulso; éste alcanza una altura y una rapidez de propagación definidas a lo largo del 
+medio (la cuerda). La forma del pulso cambia muy poco a medida que viaja a lo largo de 
+la cuerda.
+1
+El primer enfoque será sobre un pulso que viaja a través de un medio. Una vez que se 
+explore el comportamiento de un pulso, la atención se dirigirá a una onda, que es una per-
+turbación periódica que viaja a través de un medio. Al sacudir el extremo de la cuerda una 
+vez, se crea un pulso en ella, como en la figura 16.1. Si se moviera el extremo de la cuerda 
+hacia arriba y hacia abajo repetidamente, se crearía una onda viajera con las características 
+que no tiene un pulso. Estas características se explorarán en la sección 16.2.
+A medida que viaja el pulso de la figura 16.1, cada elemento perturbado de la cuerda se 
+mueve en una dirección perpendicular a la dirección de propagación. La figura 16.2 ilustra 
+este punto para un elemento particular, etiquetado P. Note que ninguna parte de la cuer-
+da se mueve alguna vez en la dirección de la propagación. Una onda viajera o pulso que 
+Figura 16.1 Un pulso viaja por 
+una cuerda estirada. La forma 
+del pulso es aproximadamente 
+invariable mientras viaja a lo largo 
+de la cuerda.
+P
+P
+P
+P
+Figura 16.2 Un pulso transversal viaja sobre una cuerda 
+estirada. La dirección de movimiento de cualquier 
+elemento P de la cuerda (flechas azules) es perpendicular 
+a la dirección de propagación (flechas rojas).
+1 En realidad, el pulso cambia de forma y gradualmente se dispersa durante el movimiento. Este efecto, 
+llamado dispersión, es común a muchas ondas mecánicas, así como a ondas electromagnéticas. En este 
+capítulo no se considera la dispersión.
+
+hace que los elementos del medio perturbado se muevan perpendiculares a la dirección 
+de propagación se llama onda transversal.
+Compare esta onda con otro tipo de pulso, uno que se mueve por un largo resorte 
+estirado, como se muestra en la figura 16.3. El extremo izquierdo del resorte recibe un 
+ligero empuje hacia la derecha y después recibe un ligero jalón hacia la izquierda. Este 
+movimiento crea una súbita compresión de una región de las espiras. La región compri-
+mida viaja a lo largo del resorte (a la derecha en la figura 16.3). Observe que la dirección 
+del desplazamiento de las espiras es paralela a la dirección de propagación de la región 
+comprimida. Una onda viajera o pulso que mueve a los elementos del medio en paralelo 
+a la dirección de propagación se llama onda longitudinal.
+Las ondas sonoras, que se explicarán en el capítulo 17, son otro ejemplo de ondas lon-
+gitudinales. La perturbación en una onda sonora es una serie de regiones de alta y baja 
+presiones que viajan en el aire.
+Algunas ondas en la naturaleza muestran una combinación de desplazamientos trans-
+versales y longitudinales. Las ondas en la superficie del agua son un buen ejemplo. Cuando 
+una onda acuática viaja sobre la superficie del agua profunda, los elementos del agua en 
+la superficie se mueven en trayectorias casi circulares, como se muestra en la figura 16.4. 
+La perturbación tiene componentes tanto transversales como longitudinales. Los despla-
+zamientos transversales que se ven en la figura 16.4 representan las variaciones en posi-
+ción vertical de los elementos del agua. Los desplazamientos longitudinales representan 
+elementos de agua móvil de atrás para adelante en una dirección horizontal.
+Las ondas tridimensionales que viajan desde un punto abajo de la superficie de la Tierra 
+donde se presenta un terremoto, son de ambos tipos, transversales y longitudinales. Las 
+ondas longitudinales son las más rápidas de las dos y viajan con magnitudes de velocidad 
+en el intervalo de 7 a 8 km s cerca de la superficie. Se llaman ondas P, donde “P” es por 
+primarias, porque viajan más rápido que las ondas transversales y llegan primero a un sis-
+mógrafo (el dispositivo que se usa para detectar ondas debidas a terremotos). Las ondas  
+transversales más lentas, llamadas ondas S, donde “S” es para secundarias, viajan a través de 
+la Tierra a 4 o 5 km s cerca de la superficie. Al registrar en un sismógrafo el intervalo 
+de tiempo entre las llegadas de estos dos tipos de ondas, se determina la distancia desde 
+el sismógrafo al punto de origen de las ondas. Una sola medición establece una esfera 
+imaginaria con centro en el sismógrafo, donde el radio de la esfera se determina mediante 
+la diferencia en los tiempos de llegada de las ondas P y S. El origen de las ondas se ubica 
+en alguna parte sobre dicha esfera. Las esferas imaginarias desde tres o más estaciones de 
+monitoreo, ubicadas muy separadas unas de otras, se intersecan en una región de la Tierra, 
+y esta región es donde se presentó el terremoto.
+ Sección 16.1  Propagación de una perturbación  451
+Compresión
+Figura 16.3 Un pulso longitudinal a lo largo de un resorte estirado. El desplazamiento de las 
+espiras es paralelo a la dirección de la propagación.
+Figura 16.4 El movimiento de los elementos del agua, situados sobre la superficie del agua profunda, 
+en la que una onda se propaga es una combinación de desplazamientos transversales y longitudinales. El 
+resultado es que los elementos en la superficie se mueven en trayectorias casi circulares. Cada elemento 
+se desplaza tanto horizontal como verticalmente desde su posición de equilibrio.
+Valle
+Velocidad de
+propagaciónCresta
+
+452 Capítulo 16  Movimiento ondulatorio
+Considere un pulso que viaja hacia la derecha en una cuerda larga, como se muestra 
+en la figura 16.5. La figura 16.5a representa la forma y posición del pulso en el tiempo t  
+0. En este tiempo, la forma del pulso, cualquiera que sea, se puede representar mediante 
+alguna función matemática que se escribirá como y(x, 0)  f(x). Esta función describe la 
+posición transversal y del elemento de la cuerda ubicado en cada valor de x en el tiempo t 
+ 0. Ya que la rapidez del pulso es v, el pulso viajó hacia la derecha una distancia vt en el 
+tiempo t (figura 16.5b). Se supone que la forma del pulso no cambia con el tiempo. Por 
+lo tanto, en el tiempo t, la forma del pulso es la misma que tenía en el tiempo t  0, como 
+en la figura 16.5a. En consecuencia, un elemento de la cuerda en x en este tiempo tiene 
+la misma posición y que un elemento ubicado en x  vt tenía en el tiempo t  0:
+y 1x, t 2 y 1xv t , 02
+En general, después, se representa la posición transversal y para todas las posiciones y 
+tiempos, medida en un marco estable con el origen en O, como
+ y 1x, t 2 f 1xv t 2  (16.1)
+De igual modo, si el pulso viaja hacia la izquierda, las posiciones transversales de los ele-
+mentos de la cuerda se describen mediante
+ y 1x, t2 f 1xv t 2  (16.2)
+La función y, a veces llamada función de onda, depende de las dos variables x y t. Por 
+esta explicación, con frecuencia se escribe y(x, t), que se lee “y como función de x y t ”.
+Es importante entender el significado de y. Considere un elemento de la cuerda en el 
+punto P, identificado mediante un valor particular de su coordenada x. Mientras el pulso 
+pasa por P, la coordenada y de este elemento aumenta, llega a un máximo y luego dismi-
+nuye a cero. La función de onda y(x, t) representa la coordenada y, la posición transversal, 
+de cualquier elemento ubicado en la posición x en cualquier tiempo t. Además, si t es fijo 
+(como en el caso de tomar una instantánea del pulso), la función de onda y(x), a veces 
+llamada forma de onda, define una curva que representa la forma geométrica del pulso 
+en dicho tiempo.
+Pregunta rápida 16.1 i) En una larga fila de personas que esperan comprar boletos,  
+la primera persona sale y un pulso de movimiento se presenta a medida que las perso- 
+nas caminan hacia adelante para llenar el hueco. A medida que cada persona camina
+ 
+hacia adelante, el hueco se mueve a través de la fila. La propagación de este hueco es, 
+¿a) transversal, o b) longitudinal? ii) Considere la “ola” en un juego de beisbol: las 
+personas se ponen de pie y levantan sus brazos a medida que la ola llega a sus posicio-
+nes, y el pulso resultante se mueve alrededor del estadio. Esta onda es, ¿a) transversal, 
+o b) longitudinal?
+Pulso que viaja hacia  
+la derecha
+0
+Pulso que viaja hacia  
+la izquierda 
+0
+Figura 16.5 Un pulso unidimensional que viaja hacia la derecha con una rapidez v. a) En t  0, la 
+forma del pulso se conoce por y  f(x). b) En algún tiempo posterior t, la forma permanece invariable y 
+la posición vertical de un elemento del medio en cualquier punto P se conoce por y  f(x vt).
+A
+y
+a) Pulso en t  0
+O
+vt
+x
+v
+O
+y
+x
+v
+P
+b) Pulso en el tiempo t
+P
+
+EJEMPLO 16.1 Un pulso que se mueve hacia la derecha
+Un pulso que se mueve hacia la derecha a lo largo del eje 
+x se representa mediante la función de onda
+y 1x, t 2 2
+1x 3.0t 22 1
+donde x y y se miden en centímetros y t en segundos. En-
+cuentre expresiones para la función de onda en t  0, t  
+1.0 s y t  2.0 s.
+SOLUCIÓN
+Conceptualizar La figura 16.6a muestra el pulso repre-
+sentado por esta función de onda en t  0. Imagine que 
+este pulso se mueve hacia la derecha y mantiene su forma 
+como sugieren las figuras 16.6b y 16.6c.
+Categorizar Este ejemplo se clasifica como un problema 
+de análisis relativamente simple en el que se interpreta la 
+representación matemática de un pulso.
+Analizar La función de onda es de la forma y  f(x  
+vt). La inspección de la expresión para y(x, t) revela que la 
+rapidez de la onda es v  3.0 cms. Además, al hacer x  
+3.0t  0, se encuentra que el valor máximo de y está dado 
+por A  2.0 cm.
+Escriba la expresión para la función de onda en t  0: y 1x, 02
+2
+x2 1
+Escriba la expresión para la función de onda en t  1.0 s: y 1x, 1.02 2
+1x 3.022 1
+Escriba la expresión para la función de onda en t  2.0 s: y 1x, 2.02 2
+1x 6.022 1
+Para cada una de estas expresiones, se pueden sustituir varios valores de x y graficar la función de onda. Este procedimiento 
+produce las funciones de onda que se muestran en las tres partes de la figura 16.6.
+Finalizar Estas instantáneas muestran que el pulso se mueve hacia la derecha sin cambiar su forma y que tiene una rapidez 
+constante de 3.0 cms.
+¿Qué pasaría si? ¿Si la función de onda fuese
+y 1x, t ?2
+4
+1x 3.0t 22 1
+¿Esto cómo cambiaría la situación?
+ Sección 16.1  Propagación de una perturbación  453
+y (cm)
+2.0
+1.5
+1.0
+0.5
+0 123456
+y(x, 0)
+t = 0
+3.0 cm/s
+a)
+x (cm)
+y (cm)
+2.0
+1.5
+1.0
+0.5
+0 123456
+y(x, 1.0)
+t = 1.0 s
+3.0 cm/s
+b)
+x (cm)
+y (cm)
+2.0
+1.5
+1.0
+0.5
+0 123456
+y(x, 2.0)
+t = 2.0 s
+3.0 cm/s
+c)
+x (cm)
+7
+78
+Figura 16.6 (Ejemplo 16.1) Gráficas de la función y(x, t)  
+2[(x 3.0t)
+2  1] en a) t  0, b) t  1.0 s y c) t  2.0 s.
+
+454 Capítulo 16  Movimiento ondulatorio
+Respuesta Una nueva característica en esta expresión es el signo más en el denominador en lugar del signo menos. La 
+nueva expresión representa un pulso con la misma forma que en la figura 16.6, pero que se mueve hacia la izquierda a 
+medida que avanza el tiempo. Otra nueva característica en este caso es el numerador 4 en vez de 2. Por lo tanto, la nueva 
+expresión representa un pulso con el doble de alto que en la figura 16.6.
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 16.1
+¿Cuál es la diferencia entre las  
+figuras 16.8a y 16.8b?
+Advierta la similitud visual entre 
+las figuras 16.8a y 16.8b. Las 
+formas son iguales, pero a) es 
+una gráfica de posición vertical 
+comparada con posición 
+horizontal, mientras que b) es 
+posición vertical en función de 
+tiempo. La figura 16.8a es una 
+representación de la onda para 
+una serie de partículas del medio; 
+es lo que vería en un instante 
+de tiempo. La figura 16.8b es 
+una representación gráfica de la 
+posición de un elemento del medio 
+como función del tiempo. Que 
+ambas figuras tengan forma 
+idéntica representa la ecuación 
+16.1: una onda es la misma 
+función tanto de x como de t.
+t =0 t
+y
+x
+v
+vt
+Figura 16.7 Una onda sinusoidal 
+unidimensional que viaja hacia 
+la derecha con una rapidez v. 
+La curva café representa una 
+instantánea de la onda en t  0 
+y la curva azul representa una 
+instantánea en algún tiempo 
+después t.
+16.2 El modelo de onda progresiva
+En esta sección se introduce una función de onda importante cuya forma se muestra 
+en la figura 16.7. La onda representada por esta curva se llama onda sinusoidal  por- 
+que la curva es la misma que en la función seno V trazada con V. Una onda sinusoidal se 
+podría establecer en una soga al agitar el extremo de la soga arriba y abajo en movimiento 
+armónico simple.
+La onda sinusoidal es el ejemplo más simple de una onda periódica continua y se 
+puede usar para construir ondas más complejas (véase la sección 18.8). La curva café 
+en la figura 16.7 representa una instantánea de una onda sinusoidal progresiva en t  0,  
+y la curva azul representa una instantánea de la onda en algún tiempo posterior t. Imagine 
+dos tipos de movimiento que pueden presentarse. Primero, la forma de onda completa 
+en la figura 16.7 se mueve hacia la derecha de modo que la curva café se mueve hacia la 
+derecha y al final llega a la posición de la curva azul. Este es el movimiento de la onda. Si 
+se concentra en un elemento del medio, como el elemento en x  0, observará que cada 
+elemento se mueve hacia arriba y hacia abajo a lo largo del eje y en movimiento armónico 
+simple. Este es el movimiento de los elementos del medio. Es importante diferenciar entre el 
+movimiento de la onda y el movimiento de los elementos del medio.
+En capítulos anteriores de este libro se elaboraron varios modelos de análisis en función 
+del modelo de partícula. Con la introducción a las ondas se puede elaborar un nuevo 
+modelo de simplificación, el modelo de onda , que permitirá explorar más modelos de 
+análisis para resolver problemas. Una partícula ideal tiene tamaño cero. Se pueden cons-
+truir objetos físicos con tamaño distinto de cero como combinaciones de partículas. Por 
+lo tanto, la partícula se considera como un bloque de construcción básico. Una onda 
+ideal tiene una sola frecuencia y es infinitamente larga; es decir, la onda existe en todo el 
+Universo. (Una onda no ligada de longitud finita necesariamente debe tener una mezcla 
+de frecuencias.) Cuando este concepto se explore en la sección 18.8, se encontrará que 
+las ondas ideales son combinables, tal como se combinan partículas.
+Enseguida se desarrollarán las características principales y representaciones matemáti-
+cas del modelo de análisis de una onda progresiva. Este modelo se usa cuando una onda 
+se mueve a través del espacio sin interactuar con otras ondas o partículas.
+La figura 16.8a muestra una instantánea de una onda móvil a través de un medio. La 
+figura 16.8b muestra una gráfica de la posición de un elemento del medio como función 
+del tiempo. Un punto en la figura 16.8a en que el desplazamiento del elemento de su 
+posición normal está más alto se llama cresta de la onda. El punto más bajo se llama valle. 
+La distancia de una cresta a la siguiente se llama longitud de onda M (letra griega lamb-
+da). De manera más general, la longitud de onda es la distancia mínima entre dos puntos 
+cualesquiera en ondas adyacentes, como se muestra en la figura 16.8a.
+Si usted cuenta el número de segundos entre las llegadas de dos crestas adyacentes en 
+un punto determinado en el espacio, debe medir el periodo T de las ondas. En general, 
+el periodo es el intervalo de tiempo requerido para que dos puntos idénticos de ondas 
+adyacentes pasen por un punto, como se muestra en la figura 16.8b. El periodo de la onda 
+es el mismo que el periodo de la oscilación armónica simple de un elemento del medio.
+La misma información a menudo se conoce por el inverso del periodo, que se llama 
+frecuencia f. En general, la frecuencia de una onda periódica es el número de crestas (o 
+valles o cualquier otro punto en la onda) que pasa un punto determinado en un intervalo 
+de tiempo unitario . La frecuencia de una onda sinusoidal se relaciona con el periodo 
+mediante la expresión
+
+f 1
+T  (16.3)
+La frecuencia de la onda es la misma que la frecuencia de la oscilación armónica simple 
+de un elemento del medio. La unidad de frecuencia más común, como se aprendió en el 
+capítulo 15, es s
+1, o hertz (Hz). La correspondiente unidad para T es segundos.
+La máxima posición de un elemento del medio relativo a su posición de equilibrio se 
+llama amplitud A de la onda.
+Las ondas viajan con una rapidez específica, y esta rapidez depende de las propiedades 
+del medio perturbado. Por ejemplo, las ondas sonoras viajan a través de aire a temperatura 
+ambiente con una rapidez aproximada de 343 ms (781 mih), mientras que en la mayoría 
+de los sólidos viajan con una rapidez mayor a 343 ms.
+Considere la onda sinusoidal de la figura 16.8a, que muestra la posición de la onda en 
+t  0. Ya que la onda es sinusoidal, se espera que la función de onda en este instante se 
+exprese como y(x, 0)  A sen ax, donde A es la amplitud y a es una constante a determinar. 
+En x  0, se ve que y(0, 0)  A sen a(0)  0, consistente con la figura 16.8a. El siguiente 
+valor de x para el que y es cero es x  M2. Debido a eso
+y a l
+2, 0 b A sen a a l
+2 b 0
+Para que esta ecuación sea cierta, debe tener aM2  Q o a  2QM. En consecuencia, la  
+función que describe las posiciones de los elementos del medio a través del que viaja   
+la onda sinusoidal se puede escribir
+ y 1x
+, 02 A sen a 2p
+l x b  (16.4)
+donde la constante A representa la amplitud de onda y la constante M es la longitud de 
+onda. Note que la posición vertical de un elemento del medio es la misma siempre que 
+x aumente por un múltiplo entero de M. Si la onda se mueve hacia la derecha con una 
+rapidez v, la función de onda en algún tiempo posterior t es
+ y 1x, t 2 A sen c 2p
+l 1xv t 2d  (16.5)
+La función de onda tiene la forma f(x  vt) (ecuación 16.1). Si la onda viajara hacia la 
+izquierda, la cantidad x  vt se sustituiría por x  vt como aprendió cuando se desarrolla-
+ron las ecuaciones 16.1 y 16.2.
+Por definición, la onda viaja a través de un desplazamiento $x igual a una longitud de 
+onda M en un inter valo de tiempo $
+t de un periodo T. Por tanto, la rapidez de onda, la 
+longitud de onda y el periodo se relacionan mediante la expresión
+ v ¢x
+¢t
+l
+T  (16.6)
+Al sustituir esta expresión para v en la ecuación 16.5 se obtiene
+ y A sen c 2p a x
+l
+t
+T bd  (16.7)
+Esta forma de la función de onda muestra la naturaleza periódica de y. Advierta que con 
+frecuencia se usará y en lugar de y(x, t) como una notación abreviada. En cualquier tiempo 
+dado t, y tiene el mismo valor en las posiciones x, x  M, x  2M, y así sucesivamente. Además, 
+en cualquier posición determinada x, el valor de y es el mismo en los tiempos t, t  T, t  
+2T, y así sucesivamente.
+La función de onda se expresa en una forma conveniente al definir otras dos cantida-
+des, el número de onda angular k (por lo general simplemente llamado número de onda) 
+y la frecuencia angular W:
+ k 2p
+l  (16.8)
+ Sección 16.2  El modelo de onda progresiva  455
+1 Número de onda angular
+Figura 16.8 a) Una instantánea 
+de una onda sinusoidal. La 
+longitud de onda M de una onda 
+es la distancia entre crestas o 
+valles adyacentes. b) Posición de 
+un elemento del medio como 
+función del tiempo. El periodo 
+T de una onda es el intervalo de 
+tiempo requerido para que el 
+elemento complete un ciclo de su 
+oscilación y para que la onda viaje 
+una longitud de onda.
+y
+x
+a)
+T
+y
+t
+b)
+A
+A
+T
+M
+M
+
+456 Capítulo 16  Movimiento ondulatorio
+ v 2p
+T 2pf  (16.9)
+Al usar estas definiciones, la ecuación 16.7 se puede escribir en la forma más compacta
+ y A sen 1kx vt 2  (16.10)
+Al usar las ecuaciones 16.3, 16.8 y 16.9, la rapidez de onda v originalmente conocida 
+en la ecuación 16.6 se expresa en las formas alternativas siguientes:
+ 
+v lf
+v v
+k  (16.11)
+  (16.12)
+La función de onda conocida en la ecuación 16.10 supone que la posición vertical y de 
+un elemento del medio es cero en x  0 y t  0. Este no necesita ser el caso. Si no lo es, la 
+función de onda por lo general se expresa en la forma
+ y A sen 1kx vt f2  (16.13)
+donde G es la constante de fase, tal como aprendió en el estudio del movimiento periódico 
+en el capítulo 15. Esta constante se determina a partir de las condiciones iniciales.
+Pregunta rápida 16.2 Una onda sinusoidal de frecuencia f viaja a lo largo de una cuerda 
+estirada. La cuerda se lleva al reposo y una segunda onda progresiva con frecuencia 2f 
+se establece en la cuerda. i) ¿Cuál es la rapidez de onda de la segunda onda? a) el doble 
+de la primera onda, b) la mitad de la primera onda, 
+c) la misma que la primera onda, 
+d) imposible de determinar. ii) A partir de las mismas opciones, describa la longitud de 
+onda de la segunda onda. iii) A partir de las mismas opciones, describa la amplitud 
+de la segunda onda.
+Frecuencia angular 0
+Función de onda para 
+una onda sinusoidal 
+0
+Rapidez de una onda 
+sinusoidal 
+0
+Expresión general para 
+una onda sinusoidal 
+0
+EJEMPLO 16.2 Una onda sinusoidal progresiva
+Una onda sinusoidal progresiva en la dirección x positiva tiene una amplitud de 15.0 cm, 
+longitud de onda de 40.0 cm y frecuencia de 8.00 Hz. La posición vertical de un elemento 
+del medio en t  0 y x  0 también es de 15.0 cm, como se muestra en la figura 16.9.
+A) Encuentre el número de onda k, periodo T, frecuencia angular W y rapidez v de la 
+onda.
+SOLUCIÓN
+Conceptualizar La figura 16.9 muestra la onda en t  0. Imagine esta onda móvil hacia 
+la derecha y mantiene su forma.
+Categorizar Se evaluarán los parámetros de la onda mediante las ecuaciones generadas 
+en la explicación anterior, así que este ejemplo se clasifica como un problema de sustitu-
+ción.
+Evalúe el número de onda a partir de la ecuación 16.8: 
+k 2p
+l
+2p rad
+40.0 cm   0.157 rad>cm
+Calcule el periodo de la onda a partir de la ecuación 16.3: T 1
+f
+1
+8.00 s 1   0.125 s
+Evalúe la frecuencia angular de la onda a partir de la ecua-
+ción 16.9:
+Calcule la rapidez de onda a partir de la ecuación 16.12: v lf 140.0 cm21 8.00 s 1 2   320 cm>s
+Figura 16.9 (Ejemplo 16.2) Una 
+onda sinusoidal con longitud de 
+onda M  40.0 cm y amplitud A  
+15.0 cm. La función de onda se 
+puede escribir en la forma y  A 
+cos (kx  Wt).
+y (cm)
+40.0 cm
+15.0 cm
+x (cm)
+v 2pf 2p 18.00 s 1 2   50.3 rad>s
+
+B) Determine la constante de fase G y escriba una expresión general para la función de onda.
+SOLUCIÓN
+Sustituya A  15.0 cm, y   15.0 cm, x   0 y t  0 en la 
+ecuación 16.13:
+Escriba la función de onda: y A sen a kx vt p
+2 b A cos 1kx vt 2
+Sustituya los valores para A, k y W en esta expresión: y   115.0 cm2 cos 10.157x 50.3t 2
+ Sección 16.2  El modelo de onda progresiva  457
+Figura 16.10 Un método para producir una onda sinusoidal sobre una cuerda. El extremo izquierdo 
+de la cuerda se conecta a una varilla que se pone a oscilar. Cualquier elemento de la cuerda, como el que 
+se encuentra en el punto P, oscila con movimiento armónico simple en la dirección vertical.
+P
+a)
+A
+y
+Varilla
+vibratoria
+c)
+P
+P
+P
+b)
+d)
+M
+2 En esta disposición se supone que un elemento de cuerda siempre oscila en línea vertical. La tensión 
+en la cuerda variaría si a un elemento se le permitiera moverse hacia los lados. Tal movimiento haría el 
+análisis muy complejo.
+Ondas sinusoidales en cuerdas
+En la figura 16.1 se demostró cómo crear un pulso al sacudir una cuerda tensa hacia arriba 
+y hacia abajo una vez. Para crear una serie de tales pulsos, una onda, sustituya la mano con 
+una varilla oscilatoria que vibre en movimiento armónico simple. La figura 16.10 represen-
+ta instantáneas de la onda creada de esta forma a intervalos de T4. Ya que el extremo de la 
+varilla oscila en movimiento armónico simple, cada elemento de la cuerda, como el que se 
+encuentra en P, también oscila verticalmente con movimiento armónico simple. Este debe 
+ser el caso porque cada elemento sigue el movimiento armónico simple de la varilla. Por 
+lo tanto, todo elemento de la cuerda se puede tratar como un oscilador armónico simple 
+que vibra con una frecuencia igual a la frecuencia de oscilación de la varilla.
+2 Advierta que, 
+aun cuando cada elemento oscila en la dirección y, la onda viaja en la dirección x con una 
+rapidez v. Desde luego, esta es la definición de una onda transversal.
+Si la onda en t  0 es como se describe en la figura 16.10b, la función de onda se puede 
+escribir como
+y A sen 1kx vt 2
+15.0 115.02 sen f S  sen f 1 S f p
+2  rad
+
+458 Capítulo 16  Movimiento ondulatorio
+Se puede usar esta expresión para describir el movimiento de cualquier elemento de la 
+cuerda. Un elemento en el punto P (o cualquier otro elemento de la cuerda) se mueve 
+sólo verticalmente, y de este modo su coordenada x permanece constante. Por lo tanto, la 
+rapidez transversal v
+y (no confundir con la rapidez de onda v) y la aceleración transversal 
+ay de los elementos de la cuerda son
+ 
+ay
+dvy
+dt d
+x constante
+0vy
+0t v2A sen 1kx vt 2
+vy
+dy
+dt d
+x constante
+0y
+0t vA cos 1kx vt 2  (16.14)
+   (16.15)
+Estas expresiones incorporan derivadas parciales (véase la sección 7.8) porque y depende 
+tanto de x como de t. En la operación yt, por ejemplo, se toma una derivada respecto 
+de t mientras se mantiene x constante. Los valores máximos de la rapidez transversal y la 
+aceleración transversal son simplemente los valores absolutos de los coeficientes de las 
+funciones coseno y seno:
+ 
+a
+y, máx v2A
+vy, máx vA   (16.16)
+  (16.17)
+La rapidez transversal y la aceleración transversal de los elementos de la cuerda no llegan 
+simultáneamente a sus valores máximos. La rapidez transversal llega a su valor máximo 
+(WA) cuando y  0, mientras que la magnitud de la aceleración transversal llega a su valor 
+máximo (W
+2A) cuando y  A. Por último, las ecuaciones 16.16 y 16.17 son idénticas en 
+forma matemática a las correspondientes ecuaciones para movimiento armónico simple, 
+ecuaciones 15.17 y 15.18.
+Pregunta rápida 16.3 La amplitud de una onda se duplica, sin que se hagan otros cam-
+bios a la onda. Como resultado de esta duplicación, ¿cuál de los siguientes enunciados es 
+correcto? a) La rapidez de la onda cambia. b) La frecuencia de la onda cambia. 
+c) La 
+máxima rapidez transversal de un elemento del medio cambia. d) Los enunciados del 
+inciso a) al c) son todos verdaderos. e) Ninguno de los enunciados del inciso a) al c) es 
+verdadero.
+16.3 La rapidez de ondas en cuerdas
+En esta sección se determina la rapidez de un pulso transversal que viaja en una cuerda 
+tensa. Primero se predicen conceptualmente los parámetros que determinan la rapidez. 
+Si una cuerda bajo tensión se jala hacia los lados y luego se libera, la fuerza de tensión es 
+responsable por acelerar un elemento particular de la cuerda de regreso hacia su posición 
+de equilibrio. De acuerdo con la segunda ley de Newton, la aceleración del elemento 
+aumenta con tensión creciente. Si el elemento regresa al equilibrio más rápidamente 
+debido a esta aceleración aumentada, intuitivamente se argumentaría que la rapidez de 
+la onda es mayor. En consecuencia, se espera que la rapidez de la onda aumente con 
+tensión creciente.
+Del mismo modo, ya que es más difícil acelerar un elemento pesado de la cuerda que 
+un elemento ligero, la rapidez de la onda debe disminuir a medida que aumente la masa 
+por unidad de longitud de la cuerda. Si la tensión en la cuerda es T y su masa por unidad 
+de longitud es N (letra griega mu), la rapidez de onda, como se demostrará, es
+ 
+v T
+m  (16.18)
+Se usará un análisis mecánico para deducir la ecuación 16.18. Considere un pulso móvil 
+en una cuerda tensa hacia la derecha, con una rapidez uniforme v medida en relación con 
+Rapidez de una onda 
+sobre una cuerda estirada 
+0
+PREVENCIÓN DE RIESGOS  
+OCULTOS 16.2
+Dos tipos de rapidezvelocidad
+No confunda v, la rapidez de 
+la onda mientras se propaga a 
+lo largo de la cuerda, con v
+y, 
+la velocidad transversal de un 
+punto en la cuerda. La rapidez 
+v es constante para un medio 
+uniforme, mientras que v
+y varía 
+sinusoidalmente.
+
+un marco de referencia estacionario. En lugar de permanecer en este marco de referencia, 
+es más conveniente elegir un marco de referencia inercial diferente que se mueva junto 
+con el pulso con la misma rapidez que el pulso, de modo que el pulso está en reposo den-
+tro del marco. Este cambio de marco de referencia se permite porque las leyes de Newton 
+son válidas en un marco estable o en uno que se mueva con velocidad constante. En el 
+nuevo marco de referencia, todos los elementos de la cuerda se mueven hacia la izquierda,  
+un elemento determinado inicialmente a la derecha del pulso se mueve hacia la izquier-
+da, se eleva y sigue la forma del pulso, y luego continúa moviéndose hacia la izquierda. La 
+figura 16.11a muestra tal elemento en el instante en que se ubica en lo alto del pulso.
+El pequeño elemento de la cuerda de longitud $s que se muestra en la figura 16.11a, 
+y se amplifica en la figura 16.11b, forma un arco aproximado de un círculo de radio 
+R. En el marco de referencia móvil (que se mueve hacia la derecha con una rapidez v  
+junto con el pulso), el elemento sombreado se mueve hacia la izquierda con una rapidez 
+v. Este elemento tiene una aceleración centrípeta igual a v 
+2R, que la proporcionan los 
+elementos de la fuerza T
+S
+ cuya magnitud es la tensión en la cuerda. La fuerza T
+S
+ actúa a 
+ambos lados del elemento y es tangente al arco, como se muestra en la figura 16.11b. Las 
+componentes horizontales de T
+S
+ se cancelan y cada componente vertical T sen V actúa 
+radialmente hacia el centro del arco. Por eso, la fuerza radial total sobre el elemento es 
+2T sen V. Ya que el elemento es pequeño, V es pequeño, y por lo tanto se puede usar la 
+aproximación de ángulo pequeño sen V y V. De este modo, la fuerza radial total es
+Fr 2T sen u  2 Tu
+El elemento tiene una masa m  N$s. Ya que el elemento forma parte de un círculo y 
+subtiende a un ángulo 2V en el centro, $s  R(2V) y
+m m¢s  2 mRu
+Al aplicar a este elemento la segunda ley de Newton en la dirección radial se obtiene
+2Tu 2mRuv2
+R S v T
+m
+Fr ma mv2
+R
+Esta expresión para v es la ecuación 16.18.
+Advierta que esta deducción es de acuerdo con la suposición de que la altura del pulso 
+es pequeña en relación con la longitud de la cuerda. Al usar esta suposición, se tiene posi-
+bilidad de usar la aproximación sen V y V. Además, el modelo supone que la tensión T no 
+es afectada por la presencia del pulso; en consecuencia, T es la misma en todos los puntos 
+en la cuerda. Por último, esta prueba no supone alguna forma particular para el pulso. Por 
+lo tanto, un pulso de cualquier forma viaja a lo largo de la cuerda con rapidez v
+T> m sin 
+cambio alguno en la forma del pulso.
+Pregunta rápida 16.4 Suponga que con la mano crea un pulso al mover una vez el ex-
+tremo libre de una cuerda tensa hacia arriba y hacia abajo, comience en t  0. La cuerda 
+se une en su otro extremo a una pared distante. El pulso alcanza la pared en el tiempo t. 
+¿Cuál de las siguientes acciones, tomada por sí misma, disminuye el inter valo de tiempo 
+requerido para que el pulso llegue a la pared? Puede ser correcta más de una opción. 
+a) Mover la mano más rápidamente, pero sólo hacia arriba y hacia abajo una vez en
+  
+la misma cantidad, b) mover la mano más lentamente, pero sólo hacia arriba y hacia abajo 
+por la misma cantidad, c) mover la mano una mayor distancia hacia arriba y hacia aba-  
+jo en la misma cantidad de tiempo, d) mover la mano una menor distancia hacia arriba 
+y hacia abajo en la misma cantidad de tiempo, e) usar una cuerda más pesada de la 
+misma longitud y bajo la misma tensión, f) usar una cuerda más ligera de la misma lon -
+gitud y bajo la misma tensión, g) usar una cuerda de la misma densidad de masa lineal 
+pero bajo tensión decreciente, h) usar una cuerda de la misma densidad de masa li-  
+neal pero bajo tensión creciente.
+ Sección 16.3  La rapidez de ondas en cuerdas  459
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 16.3
+Múltiples Ts
+No confunda la T en la 
+ecuación 16.18 para la tensión 
+con el símbolo T que se usa en 
+este capítulo para el periodo 
+de una onda. El contexto de 
+la ecuación debe ayudarle a 
+identificar a cuál cantidad se 
+hace referencia. ¡Simplemente 
+no hay suficientes letras en el 
+abecedario para asignar una 
+letra única a cada variable!
+Figura 16.11 a) Para obtener 
+la rapidez v de una onda en una 
+cuerda estirada, es conveniente 
+describir el movimiento de un 
+pequeño elemento de la cuerda 
+en un marco de referencia en 
+movimiento. b) En el marco de 
+referencia en movimiento, el 
+pequeño elemento de longitud 
+$s se mueve hacia la izquierda 
+con rapidez v. La fuerza neta en 
+el elemento está en la dirección 
+radial porque se cancelan las 
+componentes horizontales de la 
+fuerza de tensión.
+s
+R
+O
+a)
+b)
+O
+v
+s
+R
+TT
+$
+$
+V
+V
+V
+
+460 Capítulo 16  Movimiento ondulatorio
+EJEMPLO 16.3 La rapidez de un pulso en una cuerda
+Una cuerda uniforme tiene una masa de 0.300 kg y una longitud de 6.00 m (figura 
+16.12). La cuerda pasa sobre una polea y soporta un objeto de 2.00 kg. Encuentre la 
+rapidez de un pulso que viaje a lo largo de esta cuerda.
+SOLUCIÓN
+Conceptualizar En la figura 16.12, el bloque colgante establece una tensión en la 
+cuerda horizontal. Esta tensión determina la rapidez con que la onda se mueve en 
+la cuerda.
+Categorizar Para encontrar la tensión en la cuerda, modele el bloque colgante como 
+una partícula en equilibrio. Luego, con la tensión evalúe la rapidez de la onda en la 
+cuerda, use la ecuación 16.18.
+Analizar Aplique al bloque el modelo de partícula en equi-
+librio:
+Resuelva para la tensión en la cuerda: T
+mbloqueg
+Aplique la ecuación 16.18 para encontrar la rapidez de la onda, 
+use N  mcuerda para la densidad de masa lineal de la cuerda:
+Evalúe la rapidez de la onda: v
+12.00 kg21 9.80 m>s2 21 6.00 m2
+0.300 kg   19.8 m>s
+Finalizar El cálculo de la tensión desprecia la pequeña masa de la cuerda. En sentido estricto, la cuerda nunca puede ser 
+exactamente recta; por lo tanto, la tensión no es uniforme.
+¿Qué pasaría si? ¿Y si el bloque se balancea de atrás para adelante respecto de la vertical? ¿Cómo afectaría a la rapidez de 
+onda en la cuerda?
+Respuesta El bloque en balanceo se clasifica como una partícula bajo una fuerza neta. La magnitud de una de las fuerzas 
+sobre el bloque es la tensión en la cuerda, que determina la rapidez de la onda. A medida que el bloque se balancea, la 
+tensión cambia, de modo que la rapidez de la onda cambia.
+Cuando el bloque está en en la parte baja del balanceo, la cuerda es vertical y la tensión es mayor que el peso del bloque 
+porque la fuerza neta debe ser hacia arriba para proporcionar la aceleración centrípeta del bloque. Por lo tanto, la rapidez 
+de onda debe ser mayor que 19.8 ms.
+ Cuando el bloque está en su punto más alto al final de un balanceo, está en reposo momentáneo, así que no hay 
+aceleración centrípeta en dicho instante. El bloque es una partícula en equilibrio en la dirección radial. La tensión se equi
+-
+libra mediante una componente de la fuerza gravitacional sobre el bloque. Por lo tanto, la tensión es menor que el peso y 
+la rapidez de la onda es menor que 19.8 ms.
+5.00 m
+2.00 kg
+1.00 m
+EJEMPLO 16.4 Rescate del excursionista
+Un excursionista de 80.0 kg queda atrapado en la saliente de una montaña después de una tormenta. Un helicóptero rescata al 
+excursionista: se mantiene encima de él y le baja un cable, la masa del cable es de 8.00 kg y su longitud de 15.0 m. El cable se 
+amarra a un cabestrillo de 70.0 kg de masa. El excursionista se ata al cabestrillo y después el helicóptero acelera hacia arriba. 
+Aterrorizado por colgar del cable a mitad del aire, el excursionista intenta enviar señales al piloto lanzando pulsos transver-
+sales por el cable. Un pulso tarda 0.250 s en recorrer la longitud del cable. ¿Cuál es la aceleración del helicóptero?
+SOLUCIÓN
+Conceptualizar Imagine el efecto de la aceleración del helicóptero sobre el cable. Mientras mayor sea la aceleración hacia 
+arriba, mayor será la tensión en el cable. A su vez, a mayor tensión, mayor la rapidez de los pulsos en el cable.
+Figura 16.12 (Ejemplo 16.3) La 
+tensión T en la cuerda se mantiene 
+mediante el objeto suspendido. La 
+rapidez de cualquier onda que viaje 
+a lo largo de la cuerda está dada por 
+v T> m.
+Fy Tm bloqueg  0
+v T
+m
+mbloqueg /
+mcuerda
+
+Categorizar Este problema combina dos aspectos: la rapidez de los pulsos en una cuerda y la representación del excursio-
+nista y el cabestrillo como una partícula bajo una fuerza neta.
+Analizar Use el intervalo de tiempo en que el pulso viaja 
+del excursionista al helicóptero para encontrar la rapidez 
+de los pulsos en el cable:
+Resuelva la ecuación 16.18 para la tensión en el cable: v T
+m S T mv2
+Modele al excursionista y el cabestrillo como una partícu-
+la bajo una fuerza neta, y note que la aceleración de esta 
+partícula de masa m es la misma que la aceleración del he-
+licóptero:
+Resuelva para la aceleración: a
+T
+m g mv2
+m g mcablev2
+/cablem g
+Sustituya valores numéricos: a
+18.00 kg21 60.0 m>s 22
+115.0 m21 150.0 kg2 9.80 m>s2   3.00 m>s2
+Finalizar Un cable tiene rigidez además de tensión. La rigidez tiende a regresar un alambre a su forma recta original 
+incluso cuando no esté bajo tensión. Por ejemplo, una cuerda de piano se endereza si se le libera de una forma curva; las 
+cuerdas de embalaje no.
+La rigidez representa una fuerza restauradora además de la tensión y aumenta la rapidez de la onda. En consecuencia, 
+para un cable real, la rapidez de 60.0 m s que se determinó muy probablemente se asocia con una aceleración menor del 
+helicóptero.
+ Sección 16.4  Reflexión y transmisión  461
+Figura 16.13 Reflexión de un 
+pulso viajero en el extremo fijo 
+de una cuerda estirada. El pulso 
+reflejado está invertido, pero su 
+forma no cambia de otra manera.
+a)
+b)
+c)
+d)
+e) Pulso
+reflejado
+Pulso
+incidente
+16.4 Reflexión y transmisión
+El modelo de onda progresiva describe ondas que viajan a través de un medio uniforme sin 
+interactuar con algo más en el camino. Ahora se considerará cómo una onda progresiva 
+es afectada cuando encuentra un cambio en el medio. Por ejemplo, considere un pulso 
+que viaja en una cuerda que está rígidamente unida a un soporte en un extremo, como en  
+la figura 16.13. Cuando el pulso alcanza el soporte, se presenta un cambio severo en el medio: la  
+cuerda termina. Como resultado, el pulso experimenta reflexión; es decir, el pulso se 
+mueve de regreso a lo largo de la cuerda en la dirección opuesta.
+Note que el pulso reflejado está invertido. Esta inversión se explica del modo siguiente: 
+cuando el pulso alcanza el extremo fijo de la cuerda, ésta produce una fuerza hacia arriba 
+sobre el soporte. Por la tercera ley de Newton, el soporte debe ejercer sobre al cuerda una 
+fuerza de reacción de igual magnitud y con dirección opuesta (hacia abajo). Esta fuerza 
+hacia abajo hace que el pulso se invierta en la reflexión.
+Ahora considere otro caso. Esta vez, el pulso llega al final de una cuerda que es libre 
+de moverse verticalmente, como en la figura 16.14. La tensión en el extremo libre se man-
+tiene porque la cuerda está amarrada a un anillo de masa despreciable que tiene libertad 
+para deslizarse verticalmente sobre un poste uniforme sin fricción. De nuevo, el pulso 
+se refleja, pero esta vez no se invierte. Cuando llega al poste, el pulso ejerce una fuerza 
+sobre el extremo libre de la cuerda, lo que hace que el anillo acelere hacia arriba. El anillo 
+se eleva tan alto como el pulso entrante, y luego la componente hacia abajo de la fuerza de 
+tensión jala el anillo de vuelta hacia abajo. Este movimiento del anillo produce un pulso 
+reflejado que no se invierte y que tiene la misma amplitud que el pulso entrante.
+Para finalizar, considere una situación en la que la frontera es intermedia entre estos 
+dos extremos. En este caso, parte de la energía en el pulso incidente se refleja y parte se 
+somete a transmisión; es decir: parte de la energía pasa a través de la frontera. Por ejem-
+plo, suponga que una cuerda ligera se une a una cuerda más pesada, como en la figura 
+v
+¢x
+¢t
+15.0 m
+0.250 s 60.0 m>s
+F ma S Tm gm a
+
+462 Capítulo 16  Movimiento ondulatorio
+16.15. Cuando un pulso que viaja sobre la cuerda ligera alcanza la frontera entre las dos 
+cuerdas, parte del pulso se refleja e invierte y parte se transmite a la cuerda más pesada. El 
+pulso reflejado se invierte por los mismos motivos descritos en el caso de la cuerda unida 
+rígidamente a un soporte.
+El pulso reflejado tiene una amplitud menor que el pulso incidente. En la sección 16.5 
+se demostró que la energía que porta una onda se relaciona con su amplitud. De acuerdo 
+con el principio de conservación de la energía, cuando el pulso se descompone en un 
+pulso reflejado y un pulso transmitido en la frontera, la suma de las energías de estos  
+dos pulsos debe ser igual a la energía del pulso incidente. Ya que el pulso reflejado sólo 
+contiene parte de la energía del pulso incidente, su amplitud debe ser menor.
+Cuando un pulso que viaja sobre una cuerda pesada golpea la frontera entre la cuerda 
+pesada y una ligera, como en la figura 16.16, de nuevo, parte se refleja y parte se transmite. 
+En este caso, el pulso reflejado no se invierte.
+En cualquier caso, las alturas relativas de los pulsos reflejado y transmitido dependen 
+de las densidades relativas de las dos cuerdas. Si las cuerdas son idénticas, no hay discon-
+tinuidad en la frontera y no se presenta reflexión.
+De acuerdo con la ecuación 16.18, la rapidez de una onda sobre una cuerda aumenta 
+a medida que disminuye la masa por unidad de longitud de la cuerda. En otras palabras, 
+una onda viaja más lentamente en una cuerda pesada que sobre una cuerda ligera, si 
+ambas están bajo la misma tensión. Las siguientes reglas generales se aplican a las ondas 
+reflejadas: cuando una onda o pulso viaja del medio A al medio B y v
+A  vB (es decir, 
+cuando B es más denso que A), se invierte en la reflexión. Cuando una onda o pulso viaja 
+del medio A al medio B y v
+A  vB (es decir, cuando A es más denso que B), no se invierte 
+en la reflexión.
+Figura 16.14 Reflexión de un pulso viajero en el extremo libre de una cuerda estirada. El pulso 
+reflejado no está invertido.
+Figura 16.15 a) Pulso que viaja a la derecha sobre una cuerda 
+ligera unida a una cuerda más pesada. b) Parte del pulso incidente 
+se refleja (e invierte) y parte se transmite a la cuerda más pesada.
+Figura 16.16 a) Pulso que viaja hacia la derecha sobre una cuerda 
+pesada unida a una cuerda más ligera. b) El pulso incidente tiene 
+un reflejo parcial y se transmite en partes, y el pulso reflejado no se 
+invierte.
+Pulso
+incidente
+Pulso
+transmitido
+Pulso
+reflejado
+a)
+b)
+Pulso
+incidente
+Pulso
+reflejado
+Pulso
+transmitido
+a)
+b)
+Pulso
+incidente
+a)
+b)
+c)
+Pulso
+reflejado
+d)
+
+16.5  Rapidez de transferencia de energía  
+mediante ondas sinusoidales  
+en cuerdas
+Las ondas transportan energía a través de un medio mientras se propagan. Por ejemplo, 
+suponga que un objeto cuelga de una cuerda estirada y se envía un pulso por la cuerda, 
+como en la figura 16.17a. Cuando el pulso llega al objeto suspendido, el objeto se despla-
+za momentáneamente hacia arriba, como en la figura 16.17b. En el proceso se transfirió 
+energía al objeto y apareció como un aumento en la energía potencial gravitacional del 
+sistema objeto–Tierra. Esta sección examina la rapidez a la que se transporta la energía 
+a lo largo de una cuerda. Se supondrá una onda sinusoidal unidimensional en el cálculo 
+de la energía transferida.
+Considere una onda sinusoidal que viaja en una cuerda (figura 16.18). La fuente de la 
+energía es algún agente externo en el extremo izquierdo, que realiza trabajo para producir 
+las oscilaciones. Se puede considerar que la cuerda es un sistema no aislado. A medida 
+que el agente externo realiza trabajo sobre el extremo de la cuerda, moviéndola hacia 
+arriba y hacia abajo, entra energía al sistema de la cuerda y se propaga a lo largo de su 
+longitud. Concentre su atención en un elemento infinitesimal de la cuerda de longitud dx 
+y masa dm. Cada uno de tales elementos se mueve verticalmente con movimiento armónico  
+simple. Por lo tanto, cada elemento de la cuerda se modela como un oscilador armó- 
+nico simple, con la oscilación en la dirección y. Todos los elementos tienen la misma fre-
+cuencia angular W y la misma amplitud A. La energía cinética K asociada con una partícula 
+móvil es K  
+1
+2mv 2. Si esta ecuación se aplica al elemento infinitesimal, la energía cinética 
+dK de este elemento es
+dK 1
+2 1dm2vy 2
+donde vy es la rapidez transversal del elemento. Si N es la masa por unidad de longitud 
+de la cuerda, la masa dm del elemento de longitud dx es igual a N dx. Por tanto, la energía 
+cinética de un elemento de la cuerda se expresa como
+ dK 1
+2 1 mdx 2vy 2  (16.19)
+Al sustituir con la ecuación 16.14 para la rapidez transversal general de un oscilador ar-
+mónico simple se obtiene
+dK 1
+2 m 3 vA cos 1kx vt 24 2 dx 1
+2
+mv2A2 cos2 1kx vt 2 dx
+Si se toma una instantánea de la onda en el tiempo t  0, la energía cinética de un ele-
+mento dado es
+dK 1
+2
+mv2A2 cos2 1kx 2 dx
+Al integrar esta expresión sobre todos los elementos de cuerda en una longitud de onda 
+de la onda produce la energía cinética total KA en una longitud de onda:
+ 1
+2 mv2A2 c 1
+2
+x 1
+4k sen 2kx d
+l
+0
+1
+2 mv2A2 31
+2
+l4 1
+4
+mv2A2l
+Kl dK
+l
+0
+1
+2
+mv2A2 cos2 1kx 2 dx 1
+2
+mv2A2
+l
+0
+cos2 1kx 2 dx
+ Sección 16.5  Rapidez de transferencia de energía mediante ondas sinusoidales en cuerdas  463
+Figura 16.17 a) Pulso que viaja 
+hacia la derecha sobre una cuerda 
+estirada que tiene un objeto 
+suspendido en ella. b) Cuando el 
+pulso llega, se transmite energía 
+al objeto suspendido.
+m
+a)
+b)
+m
+Figura 16.18 Una onda sinusoidal que viaja a lo largo del eje x sobre una cuerda estirada. Todo 
+elemento de la cuerda se mueve verticalmente y todo elemento tiene la misma energía total.
+dm
+
+464 Capítulo 16  Movimiento ondulatorio
+Además de la energía cinética, hay energía potencial asociada con cada elemento de la 
+cuerda debido a su desplazamiento de la posición de equilibrio y las fuerzas restauradoras 
+de elementos colindantes. Un análisis similar al anterior para la energía potencial total U
+A 
+en una longitud de onda produce exactamente el mismo resultado:
+Ul
+1
+4 mv2A2l
+La energía total en una longitud de onda de la onda es la suma de las energías potencial 
+y cinética:
+ El Ul Kl
+1
+2 mv2A2l  (16.20)
+A medida que la onda se mueve a lo largo de la cuerda, esta cantidad de energía pasa por 
+un punto determinado en la cuerda durante un intervalo de tiempo de un periodo de la 
+oscilación. Por lo tanto, la potencia , o rapidez de transferencia de energía T
+OM asociada 
+con la onda mecánica, es
+ 
+1
+2 mv2A2v
+TOM
+¢t
+El
+T
+1
+2
+mv2A2l
+T
+1
+2
+mv2A2 a l
+T b  (16.21)
+La ecuación 16.1 muestra que la rapidez de transferencia de energía por una onda sinus-
+oidal en una cuerda es proporcional a a) el cuadrado de la frecuencia, b) el cuadrado de 
+la amplitud y c) la rapidez de la onda. De hecho, la rapidez de transferencia de energía 
+en cualquier onda sinusoidal es proporcional al cuadrado de la frecuencia angular y al 
+cuadrado de la amplitud.
+Pregunta rápida 16.5 ¿Cuál de los siguientes, tomado por sí mismo, sería más efectivo 
+para aumentar la rapidez a la que se transfiere la energía mediante una onda que viaja 
+a lo largo de una cuerda? a) reducir a la mitad la densidad de masa lineal de la cuer -
+da, b) duplicar la longitud de onda de la onda,
+ c) duplicar la tensión en la cuerda,  
+d) duplicar la amplitud de la onda
+Potencia de una onda 0
+EJEMPLO 16.5 Potencia suministrada a una cuerda en vibración
+Una cuerda tensa para la que N  5.00  102 kgm está bajo una tensión de 80.0 N. ¿Cuánta potencia se debe suministrar 
+a la cuerda para generar ondas sinusoidales a una frecuencia de 60.0 Hz y una amplitud de 6.00 cm?
+SOLUCIÓN
+Conceptualizar Considere una vez más la figura 16.10 y advierta que la varilla vibratoria suministra energía a la cuerda con 
+cierta rapidez. En tal caso esta energía se propaga hacia la derecha a lo largo de la cuerda.
+Categorizar Se evalúan cantidades de las ecuaciones desarrolladas en el capítulo, así que este ejemplo se clasifica como 
+un problema de sustitución.
+Evalúe la rapidez de onda sobre la cuerda a partir de 
+la ecuación 16.18:
+Calcule la frecuencia angular W de las ondas sinusoi-
+dales sobre la cuerda a partir de la ecuación 16.9:
+Use estos valores y A  6.00  102 m en la ecuación 
+16.1 para evaluar la potencia:
+v 2pf 2p 160.0 Hz2 377 s 1
+v T
+m
+80.0 N
+5.00 10 2 kg>m 40.0 m>s
+  512 W
+1
+2 15.00 10 2 kg>m 21 377 s 1 22 16.00 10 2 m22 140.0 m>s 2
+1
+2
+mv2A2v
+
+¿Qué pasaría si? ¿Y si la cuerda debe transferir energía a una rapidez de 1 000 W? ¿Cuál debe ser la amplitud requerida si 
+todos los otros parámetros permanecen iguales?
+Respuesta Establezca una relación de la potencia nueva a la anterior, que refleje sólo un cambio en la amplitud:
+nueva
+anterior
+1
+2 mv2A2
+nueva v
+1
+2 mv2A2
+anteriorv
+A2
+nueva
+A2
+anterior
+Al resolver para la nueva amplitud se obtiene
+Anueva Aanterior
+nueva
+anterior
+16.00 cm2 1 000 W
+512 W   8.39 cm
+ Sección 16.6  La ecuación de onda lineal  465
+Figura 16.19 Un elemento de 
+cuerda bajo tensión T.
+B
+A
+x
+A
+B
+T
+T
+$ V
+V
+16.6 La ecuación de onda lineal
+En la sección 16.1 se introdujo el concepto de función de onda para representar ondas 
+que viajan sobre una cuerda. Todas las funciones de onda y(x, t) representan soluciones de 
+una ecuación llamada ecuación de onda lineal. Esta ecuación da una descripción completa 
+del movimiento ondulatorio, y a partir de ella uno puede deducir una expresión para la 
+rapidez de onda. Además, la ecuación de onda lineal es básica para muchas formas de 
+movimiento ondulatorio. En esta sección se deduce esta ecuación como se aplica a ondas 
+sobre cuerdas.
+Suponga que una onda viajera se propaga a lo largo de una cuerda que está bajo una 
+tensión T. Considere un pequeño elemento de cuerda de longitud $x (figura 16.19). Los 
+extremos del elemento forman pequeños ángulos V
+A y VB con el eje x. La fuerza neta que 
+actúa sobre el elemento en la dirección vertical es
+Fy T sen uB T sen uA T 1sen uB sen uA 2
+Ya que los ángulos son pequeños, se puede usar la aproximación de ángulo pequeño 
+sen V y tan V para expresar la fuerza neta como
+ 
+Fy T 1tan uB tan uA 2  (16.22)
+Imagine experimentar un desplazamiento infinitesimal hacia afuera desde el extremo del 
+elemento de soga en la figura 16.19 a lo largo de la línea azul que representa la fuerza 
+T
+S
+. Este desplazamiento tiene componentes x y y  infinitesimales y se puede representar 
+mediante el vector dx iˆ  dy jˆ. La tangente del ángulo respecto al eje x para este desplaza-
+miento es dydx. Ya que esta tangente se evalúa en un instante particular de tiempo, se le 
+debe expresar en forma parcial como yx. Al sustituir para las tangentes en la ecuación 
+16.22 se obtiene
+ 
+Fy T ca
+0y
+0x b
+B
+a
+0y
+0x b
+A
+d  (16.23)
+Ahora aplique la segunda ley de Newton al elemento, con la masa del elemento conocido 
+por m  N $x:
+ Fy may m¢x a
+02y
+0t2 b   (16.24)
+Al combinar la ecuación 16.23 con la ecuación 16.24 se obtiene
+ m
+T  
+02y
+0t2
+10y>0x2B 10y>dx2A
+¢x
+m¢x a
+02y
+0t2 b T ca
+0y
+0x b
+B
+a
+0y
+0x b
+A
+d
+ (16.25)
+
+466 Capítulo 16  Movimiento ondulatorio
+El lado derecho de la ecuación 16.25 se expresa en una forma diferente si advierte que la 
+derivada parcial de cualquier función se define como
+0f
+0x lím
+¢xS0
+f 1x ¢x2 f 1x2
+¢x
+Al asociar f(x  $x) con (yx)B y f(x) con (yx)A, se ve que, en el límite $x 3 0, la ecua-
+ción 16.25 se convierte en
+ m
+T
+02y
+0t2
+02y
+0x2  (16.26)
+Esta expresión es la ecuación de onda lineal como se aplica a ondas en una cuerda.
+La ecuación de onda lineal (ecuación 16.26) con frecuencia se escribe en la forma
+ 02y
+0x2
+1
+v2
+02y
+0t2  (16.27)
+En general la ecuación 16.27 se aplica a diferentes tipos de ondas progresivas. Para ondas 
+en cuerdas y representa la posición vertical de los elementos de la cuerda. Para ondas sono-
+ras y corresponde a la posición longitudinal de los elementos de aire desde el equilibrio o 
+variaciones o en presión o en densidad del gas a través del que se propaga la onda sonora. 
+En el caso de ondas electromagnéticas y corresponde a los componentes del campo eléc-
+trico o magnético.
+Se demostró que la función de onda sinusoidal (ecuación 16.10) es una solución de la 
+ecuación de onda lineal (ecuación 16.27). Aunque no se probó en este caso, la ecuación de 
+onda lineal es satisfecha por cualquier función de onda que tenga la forma y  f (x  vt). 
+Además, se vio que la ecuación de onda lineal es una consecuencia directa de la segunda 
+ley de Newton aplicada a cualquier elemento de una cuerda que transporta una onda pro- 
+gresiva.
+Ecuación de onda lineal 
+para una cuerda
+0
+Ecuación de onda lineal 
+en general
+0
+Resumen
+DEFINICIONES
+Una onda sinusoidal unidimensional es aquella para la 
+cual las posiciones de los elementos del medio varían 
+en forma sinusoidal. Una onda sinusoidal que viaja 
+hacia la derecha se puede expresar con una función de 
+onda
+ y 1x, t2
+A sen c 2p
+l 1xv t 2d  (16.5)
+donde A es la amplitud, M es la longitud de onda y v es la 
+rapidez de onda.
+En una onda transversal los elementos del medio se mueven en una dirección perpendicular a la dirección de  
+propagación. En una onda longitudinal los elementos del medio se mueven en una dirección paralela a la dirección  
+de propagación.
+El número de onda angular k y la frecuencia angular W 
+de una onda se definen del modo siguiente:
+ 
+v 2p
+T 2pf
+k 2p
+l  (16.8)
+  (16.9)
+donde T es el periodo de la onda y f es su frecuencia
+
+Preguntas 467
+Cualquier onda unidimensional que viaja con una rapidez v en la  
+dirección x se representa mediante una función de onda de la forma
+ y 1x, t2 f 1x ; vt2  (16.1, 16.2)
+donde el signo positivo se aplica a una onda que viaja en la dirección x 
+negativa y el signo negativo se aplica a una onda que viaja en la  
+dirección x positiva. La forma de la onda en cualquier instante en el 
+tiempo (una instantánea de la onda) se obtiene al mantener t  
+constante.
+CONCEPTOS Y PRINCIPIOS
+La rapidez de una onda que viaja sobre 
+una cuerda tensa de masa por unidad 
+de longitud N y tensión T es
+ 
+v T
+m
+ (16.18)
+Las funciones de onda son soluciones a una ecuación diferencial llamada 
+ecuación de onda lineal:
+ 
+02y
+0x2
+1
+v2  
+02y
+0t2  (16.27)
+Una onda se refleja total o  
+parcialmente cuando llega al final del 
+medio en el que se propaga o cuando 
+llega a una frontera donde su rapidez 
+cambia de manera discontinua. Si una 
+onda que viaja en una cuerda alcanza 
+un extremo fijo, la onda se refleja e 
+invierte. Si la onda llega a un extremo 
+libre, se refleja mas no se invierte.
+La potencia transmitida por una onda sinusoidal sobre una cuerda  
+estirada es
+ 
+1
+2 mv2A2v  (16.21)
+y
+ 
+ 
+x
+A
+v
+M
+Onda progresiva. La rapidez de onda de una onda sinusoidal es
+ v l
+T lf  (16.6, 16.12)
+Una onda sinusoidal se expresa como
+ y A sen 1kx vt 2  (16.10)
+MODELO DE ANÁLISIS PARA RESOLVER PROBLEMAS
+O indica pregunta complementaria.
+Preguntas
+ 1. ¿Por qué un pulso sobre una cuerda se considera como trans-
+versal?
+ 2. ¿Cómo crearía una onda longitudinal en un resorte estirado? 
+¿Sería posible crear una onda transversal en un resorte?
+ 3. O i) Clasifique las ondas representadas por las siguientes fun-
+ciones de acuerdo con sus amplitudes, de mayor a menor. Si 
+dos ondas tienen la misma amplitud, muéstrelas con igual cla-
+sificación.
+  a) y  2 sen (3x  15t  2) b) y  4 sen (3x  15t)
+  c) y  6 cos (3x  15t  2) d) y  8 sen (2x  15t)
+  e) y  8 cos (4x  20t) f) y  7 sen (6x  24t)
+  ii) Clasifique las mismas ondas de acuerdo con sus longitudes 
+de onda, de mayor a menor. iii) Clasifique las mismas ondas 
+de acuerdo con sus frecuencias, de mayor a menor. iv) Clasi-
+fique las mismas ondas de acuerdo con sus periodos, de mayor 
+a menor. v) Clasifique las mismas ondas de acuerdo con sus 
+magnitudes de velocidad, de mayor a menor.
+ 4. O Si la cuerda no se estira, ¿en qué factor tendría que multi-
+plicar la tensión en una cuerda tensa de modo que duplique 
+la rapidez de la onda? a) 8, b) 4, c) 2, d) 0.5, e) No po -
+dría cambiar la rapidez en un factor predecible al cambiar la 
+tensión.
+
+468 Capítulo 16  Movimiento ondulatorio
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 5. O  Cuando todas las cuerdas en una guitarra se estiran a la 
+misma tensión, ¿la rapidez de una onda a lo largo de la cuerda 
+grave con más masa será a) más rápida, b) más lenta o c) 
+igual que la rapidez de una onda en las cuerdas más agudas? 
+Una alternativa, d) ¿la rapidez en la cuerda grave no necesa -
+riamente es alguna de estas respuestas?
+ 6. O  Si estira una manguera de hule y le da un tirón, puede 
+observar un pulso que viaja hacia arriba y hacia abajo por la 
+manguera. i) ¿Qué sucede con la rapidez del pulso si estira  
+la manguera con mayor firmeza? a) Aumenta. b) Disminuye.  
+c) Es constante.   d) Cambia de manera impredecible.   ii) ¿Qué  
+sucede con la rapidez si llena la manguera con agua? Elija de 
+las mismas posibilidades.
+ 7. Cuando un pulso viaja en una cuerda tensa, ¿siempre se invier-
+te en la reflexión? Explique.
+ 8. La rapidez vertical de un segmento de una cuerda tensa ho-
+rizontal, a través de la que viaja una onda, ¿depende de la 
+rapidez de la onda?
+ 9. O  a) ¿Una onda en una cuerda puede moverse con una rapidez 
+de onda que sea mayor que la rapidez transversal máxima 
+v
+y,máx de un elemento de la cuerda? b) ¿La rapidez de la 
+onda puede ser mucho mayor que la máxima rapidez del 
+elemento? c) ¿La rapidez de la onda puede ser igual a la 
+máxima rapidez del elemento? d) ¿La rapidez de la onda 
+puede ser menor que v
+y,máx?
+ 10. Si agita un extremo de una soga tensa de manera estable tres 
+veces cada segundo, ¿cuál sería el periodo de la onda sinusoi-
+dal establecida en la soga?
+ 11. Si una soga larga cuelga del techo y se envían ondas hacia 
+arriba de la soga desde su extremo inferior, no ascienden con 
+rapidez constante. Explique.
+ 12. O Una fuente vibratoria con frecuencia constante genera una 
+onda sinusoidal en una cuerda bajo tensión constante. Si la po-
+tencia entregada a la cuerda se duplica, ¿en qué factor cambia 
+la amplitud? a) 4, b) 2, c) 
+2, d) 1, e) 0.707, f) no se 
+puede predecir
+ 13. O  Si un extremo de una soga pesada se une a un extremo 
+de una soga ligera, una onda se mueve de la soga pesada a 
+la soga más ligera. i) ¿Qué sucede con la rapidez de la onda?  
+a) Aumenta. b) Disminuye. c) Es constante. d) Cambia de ma-
+nera impredecible. ii) ¿Qué sucede con la frecuencia? Elija 
+de las mismas posibilidades. iii) ¿Qué sucede con la longi- 
+tud de onda? Elija entre las mismas posibilidades.
+ 14. Un sólido puede transportar tanto ondas longitudinales como 
+ondas transversales, pero un fluido homogéneo sólo transpor-
+ta ondas longitudinales. ¿Por qué?
+ 15. En un terremoto, desde el foco del movimiento, se propagan 
+ondas S (transversales) y P (longitudinales). El foco está en 
+el suelo abajo del epicentro en la superficie. Suponga que las 
+ondas se mueven en línea recta a través de material unifor-
+me. Las ondas S viajan a través de la Tierra más lentamente 
+que las ondas P (aproximadamente a 5 km s comparado con  
+8 kms). Al detectar el tiempo de llegada de las ondas, ¿cómo 
+puede determinar la distancia al foco del terremoto? ¿Cuántas 
+estaciones de detección se necesitan para localizar el foco sin 
+ambigüedades?
+ 16. En mecánica, con frecuencia, se suponen cuerdas sin masa. 
+¿Por qué esto no es una buena suposición cuando se discuten 
+ondas sobre cuerdas?
+4FDDJwO  1SPQBHBDJwOEFVOBQFSUVSCBDJwO
+ 1. En t  0, se describe un pulso transversal en un alambre me-
+diante la función
+y 6
+x2 3
+  donde x y y están en metros. Encuentre la función y(x, t) que 
+describa este pulso si viaja en la dirección x positiva con una 
+rapidez de 4.50 ms.
+ 2. ; Las olas con una distancia de cresta a cresta de 10.0 m se 
+describen mediante la función de onda
+y 1x, t2 10.800 m2 sen 30.628 1xv t 24
+  donde v  1.20 m s. a) Bosqueje y(x, t) en t  0. b) Esboce 
+y(x, t) en t  2.00 s. Compare esta gráfica con la del inciso a) 
+y explique similitudes y diferencias. ¿Qué hizo la ola entre la 
+descripción a) y la b)?
+ 3. Dos puntos A y B en la superficie de la Tierra están a la misma 
+longitud y 60.0° separados en latitud. Suponga que un terre-
+moto en el punto A
+ crea una onda P que llega al punto B al 
+viajar recta a través del cuerpo de la Tierra con una rapidez 
+constante de 7.80 kms. El terremoto también radia una onda 
+Rayleigh que viaja a lo largo de la superficie de la Tierra a 
+4.50 kms. a) ¿Cuál de estas dos ondas sísmicas llega primero 
+a B? b) ¿Cuál es la diferencia de tiempo entre las llegadas de 
+estas dos ondas a B ? Considere que el radio de la Tierra es 
+de 6 370 km.
+ 4. Una estación sismográfica recibe ondas S y P de un terremo-
+to, separadas 17.3 s. Suponga que las ondas viajaron sobre la 
+misma trayectoria con magnitudes de velocidad de 4.50 kms 
+y 7.80 kms. Encuentre la distancia desde el sismógrafo al hi-
+pocentro del terremoto.
+4FDDJwO   &MNPEFMPEFPOEBQSPHSFTJWB
+ 5. La función de onda para una onda progresiva en una cuerda 
+tensa es (en unidades SI)
+y 1x, t 2 10.350 m2 sen a 10pt 3px p
+4 b
+  a) ¿Cuáles son la rapidez y dirección de viaje de la onda? b) 
+¿Cuál es la posición vertical de un elemento de la cuerda en 
+t  0, x  0.100 m? c) ¿Cuáles son la longitud de onda y fre-
+cuencia de la onda? d) ¿Cuál es la máxima rapidez transversal 
+de un elemento de la cuerda?
+Problemas
+
+Problemas 469
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 6. ; Cierta cuerda uniforme se mantiene bajo tensión constante. 
+a) Dibuje una instantánea lateral de una onda sinusoidal en 
+una cuerda, como se muestra en los diagramas del texto. b) 
+Abajo del diagrama a), dibuje la misma onda en un momento 
+posterior de un cuarto del periodo de la onda. c) Luego, dibu-
+je una onda con una amplitud 1.5 veces mayor que la onda en 
+el diagrama a). d) A continuación, dibuje una onda que difiera 
+de la del diagrama a) sólo por tener una longitud de onda 1.5 
+veces mayor. e) Por último, dibuje una onda que difiera del 
+diagrama a) por tener una frecuencia 1.5 veces mayor.
+ 7. Una onda sinusoidal viaja a lo largo de una soga. El oscilador 
+que genera la onda completa 40.0 vibraciones en 30.0 s. Ade-
+más, dado un máximo viaja 425 cm a lo largo de la soga en 10.0 s. 
+¿Cuál es la longitud de onda de la onda?
+ 8. Para cierta onda transversal, la distancia entre dos crestas suce-
+sivas es 1.20 m, y ocho crestas pasan un punto determinado a 
+lo largo de la dirección de viaje cada 12.0 s. Calcule la rapidez 
+de la onda.
+ 9. Una onda se describe mediante y  (2.00 cm) sen (kx  Wt), 
+donde k  2.11 radm, W  3.62 rads, x está en metros y t en 
+segundos. Determine la amplitud, longitud de onda, frecuen-
+cia y rapidez de la onda.
+ 10. Cuando un alambre particular vibra con una frecuencia de 
+4.00 Hz, se produce una onda transversal con longitud de 
+onda de 60.0 cm. Determine la rapidez de las ondas a lo largo 
+del alambre.
+ 11. La cuerda que se muestra en la figura 16.10 se impulsa a una 
+frecuencia de 5.00 Hz. La amplitud del movimiento es 12.0 cm 
+y la rapidez de la onda es de 20.0 ms. Además, la onda es tal 
+que y  0 en x  0 y t  0. Determine a) la frecuencia angular 
+y b) el número de onda para esta onda. c) Escriba una expre-
+sión para la función de onda. Calcule d) la máxima rapidez 
+transversal y e) la máxima aceleración transversal de un punto 
+sobre la cuerda.
+ 12. Considere la onda sinusoidal del ejemplo 16.2 con la función 
+de onda
+y 115.0 cm2 cos 10.157x 50.3t2
+  En cierto instante, el punto A está en el origen y el punto B es 
+el primer punto a lo largo del eje x donde la onda está 60.0° 
+fuera de fase con A. ¿Cuál es la coordenada de B?
+ 13. Una onda sinusoidal se describe mediante la función de 
+onda
+y 10.25 m2 sen 10.30x 40t2
+  donde x y y están en metros y t en segundos. Determine para 
+esta onda a) la amplitud, b) la frecuencia angular, c) el núme-
+ro de onda angular, d) la longitud de onda, e) la rapidez de 
+onda y f) la dirección de movimiento.
+ 14. 
+; a) Grafique y en función de t en x  0 para una onda sinus-
+oidal de la forma y (15.0 cm) cos (0.157x  50.3t), donde x y y 
+están en centímetros y t en segundos. b) Determine el periodo 
+de vibración de esta gráfica. Argumente la comparación de su 
+resultado con el valor encontrado en el ejemplo 16.2.
+ 15. a) Escriba la expresión para y como función de x y t para una 
+onda sinusoidal que viaja a lo largo de una soga en la direc -
+ción x negativa con las siguientes características: A
+  8.00 cm, 
+M  80.0 cm, f  3.00 Hz y y(0, t)  0 en t  0. b) ¿Qué pasa-
+ría si? Escriba la expresión para y como función de x y t para 
+la onda en el inciso a) si supone que y(x, 0)  0 en el punto 
+x  10.0 cm.
+ 16. Una onda sinusoidal que viaja en la dirección x (hacia la  
+izquierda) tiene una amplitud de 20.0 cm, longitud de onda 
+de 35.0 cm y frecuencia de 12.0 Hz. La posición transversal de 
+un elemento del medio en 
+t  0, x  0 es y  3.00 cm, y el 
+elemento tiene en este caso una velocidad positiva. a) Bosque-
+je la onda en t  0. b) Encuentre su número de onda angular, 
+periodo, frecuencia angular y rapidez de onda. c) Escriba una 
+expresión para la función de onda y(x, t).
+ 17. Una onda transversal en una cuerda se describe mediante la 
+función de onda
+y 10.120 m2 sen a p
+8 x 4pt b
+  a) Determine la rapidez y aceleración transversales de la cuer-
+da en t  0.200 s para el punto en la cuerda ubicado en x  
+1.60 m. b) ¿Cuáles son la longitud de onda, periodo y rapidez 
+de propagación de esta onda?
+ 18. Una onda sinusoidal transversal en una cuerda tiene un pe-
+riodo T  25.0 ms y viaja en la dirección x negativa con una 
+rapidez de 30.0 m s. En t   0, un elemento de la cuerda en 
+x  0 tiene una posición transversal de 2.00 cm y viaja hacia 
+abajo con una rapidez de 2.00 ms. a) ¿Cuál es la amplitud de 
+la onda? b) ¿Cuál es el ángulo de fase inicial? c) ¿Cuál es la 
+máxima rapidez transversal de un elemento de la cuerda? d) 
+Escriba la función de onda para la onda.
+ 19. Una onda sinusoidal, con 2.00 m de longitud de onda y   
+0.100 m de amplitud, viaja en una cuerda con una rapidez
+ 
+de 1.00 m s hacia la derecha. Al inicio, el extremo izquier- 
+do de la cuerda está en el origen. Encuentre a) la frecuencia 
+y frecuencia angular, b) el número de onda angular y c) la 
+función de onda. Determine la ecuación de movimiento para  
+d) el extremo izquierdo de la cuerda y e) el punto en la 
+cuerda en x  1.50 m a la derecha del extremo izquierdo.  
+f) ¿Cuál es la máxima rapidez de cualquier punto en la 
+ cuerda?
+ 20. Una onda en una cuerda se describe mediante la función de 
+onda y  (0.100 m) sen (0.50x  20t). a) Demuestre que un 
+elemento de la cuerda en x  2.00 m ejecuta movimiento 
+armónico. b) Determine la frecuencia de oscilación de este 
+punto particular.
+4FDDJwO-BSBQJEF[EFPOEBTFODVFSEBT
+ 21. Un cordón de teléfono de 4.00 m de largo, que tiene una 
+masa de 0.200 kg. Un pulso transversal se produce al sacudir 
+un extremo del cordón tenso. El pulso hace cuatro viajes de 
+atrás para adelante a lo largo del cordón en 0.800 s. ¿Cuál es 
+la tensión del cordón?
+ 22. Una onda progresiva transversal en un alambre tenso tiene 
+una amplitud de 0.200 mm y una frecuencia de 500 Hz. Viaja 
+con una rapidez de 196 m s. a) Escriba una ecuación en uni-
+dades SI de la forma y  A sen (kx  Wt) para esta onda. b) 
+La masa por unidad de longitud de este alambre es 4.10 gm. 
+Encuentre la tensión en el alambre.
+ 23. Una cuerda de piano, que tiene una masa por unidad de lon-
+gitud igual a 5.00  10
+3 kgm, está bajo una tensión de 1 350 
+N. Encuentre la rapidez con la que una onda viaja en esta 
+cuerda.
+ 24. Pulsos transversales viajan con una rapidez de 200 m s a lo  
+largo de un alambre de cobre tenso cuyo diámetro es de 1.50 
+mm. ¿Cuál es la tensión en el alambre? (La densidad del cobre 
+es 8.92 g
+cm3.)
+
+470 Capítulo 16  Movimiento ondulatorio
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 25. Un astronauta en la Luna quiere medir el valor local de la 
+aceleración en caída libre al cronometrar pulsos que viajan por 
+un alambre del que cuelga un objeto de gran masa. Suponga 
+que un alambre tiene una masa de 4.00 g y una longitud de 
+1.60 m, y suponga que de él está suspendido un objeto de 3.00 
+kg. Un pulso requiere 36.1 ms para atravesar la longitud del 
+alambre. Calcule g
+Luna a partir de estos datos. (Puede ignorar 
+la masa del alambre cuando calcule la tensión en él.)
+ 26. Un péndulo simple consiste de una bola de masa M que cuelga 
+de una cuerda uniforme de masa m
+ y longitud L, con m  
+M. Sea T el periodo de oscilaciones para el péndulo. Determi-
+ne la rapidez de una onda transversal en la cuerda cuando el 
+péndulo cuelga en reposo.
+ 27. Ondas transversales viajan con una rapidez de 20.0 ms en una 
+cuerda bajo una tensión de 6.00 N. ¿Qué tensión se requiere 
+para una rapidez de onda de 30.0 ms en la misma cuerda?
+ 28. Problema de repaso.  Una cuerda ligera, con una masa por  
+unidad de longitud de 8.00 gm, tiene sus extremos amarrados 
+a dos paredes separadas por una distancia igual a tres cuartos 
+la longitud de la cuerda (figura P16.28). Un objeto de masa 
+m se suspende del centro de la cuerda y pone tensión en la
+ 
+cuerda. a) Encuentre una expresión para la rapidez de onda 
+transversal en la cuerda como función de la masa del objeto 
+colgante. b) ¿Cuál debe ser la masa del objeto suspendido de 
+la cuerda si la rapidez de onda es de 60.0 ms?
+4FDDJwO   3BQJEF[EFUSBOTGFSFODJBEFFOFSHrBNFEJBOUF
+POEBTTJOVTPJEBMFTFODVFSEBT
+ 32. Una soga tensa tiene una masa de 0.180 kg y una longitud de 
+3.60 m. ¿Qué potencia se debe suministrar a la soga para que 
+genere ondas sinusoidales que tengan una amplitud de 0.100 
+m y una longitud de onda de 0.500 m y viajen con una rapidez 
+de 30.0 ms?
+ 33. Una onda acuática en dos dimensiones se dispersa en ondula-
+ciones circulares. Demuestre que la amplitud A a una distancia 
+r desde la perturbación inicial es proporcional a 
+1> r . Suge-
+rencia: Considere la energía que porta una ondulación que se 
+mueve hacia afuera.
+ 34. En una soga bajo tensión constante se generan ondas trans-
+versales. ¿En qué factor aumenta o disminuye la potencia re-
+querida si a) la longitud de la soga se duplica y la frecuencia 
+angular permanece constante, b) la amplitud se duplica y la 
+frecuencia angular se reduce a la mitad, c) se duplican tanto  
+la longitud de onda como la amplitud, y d) se reducen a la mi-
+tad tanto la longitud de la cuerda como la longitud de onda?
+ 35. Ondas sinusoidales de 5.00 cm de amplitud se transmitirán a 
+lo largo de una cuerda que tiene una densidad de masa lineal 
+de 4.00  10
+2 kgm. La fuente puede entregar una potencia 
+máxima de 300 W y la cuerda está bajo una tensión de 100 N.  
+¿Cuál es la frecuencia más alta a la que puede funcionar la  
+fuente?
+ 36. Un segmento de 6.00 m de una cuerda larga contiene cuatro 
+ondas completas y tiene una masa de 180 g. La cuerda vibra 
+sinusoidalmente con una frecuencia de 50.0 Hz y un despla-
+zamiento de cresta a valle de 15.0 cm. (La distancia “cresta  
+a valle” es la distancia vertical desde la posición positiva más 
+lejana hasta la posición negativa más lejana.) a) Encuentre
+ 
+la función que describe esta onda que viaja en la dirección x 
+positiva. b) Determine la potencia a suministrar a la cuerda.
+ 37. Una onda sinusoidal en una cuerda se describe mediante la 
+función de onda
+y 10.15 m2 sen 10.80x 50t 2
+  donde x y y están en metros y t en segundos. La masa por uni-
+dad de longitud de esta cuerda es 12.0 g m. Determine a) la 
+rapidez de la onda, b) la longitud de onda, c) la frecuencia y 
+d) la potencia transmitida a la onda.
+ 38. La función de onda para una onda sobre una cuerda tensa es
+y 1x, t2 10.350 m2 sen a 10pt 3px p
+4 b
+  donde x está en metros y t en segundos. a) ¿Cuál es la rapidez 
+promedio a la que se transmite la energía a lo largo de la cuer-
+da si la densidad de masa lineal es de 75.0 gm? b) ¿Cuál es la 
+energía contenida en cada ciclo de la onda?
+ 39. Una cuerda horizontal puede transmitir una potencia máxima 
+
+0 (sin romperse) si por ella viaja una onda con amplitud A 
+y frecuencia angular W. Para aumentar esta potencia máxima, 
+un estudiante dobla la cuerda y usa esta “cuerda doble” como 
+medio. Determine la potencia máxima que se puede transmitir 
+a lo largo de la “cuerda doble”, si supone que la tensión en 
+las dos hebras juntas es la misma que la tensión original en la 
+cuerda individual.
+ 40. 
+; En una región lejana del epicentro de un terremoto, una 
+onda sísmica se modela como transporte de energía en una sola  
+dirección sin absorción, tal como lo hace una onda en una 
+cuerda. Suponga que la onda sísmica se mueve de granito a 
+ 29. El límite elástico de una pieza de alambre de acero es 2.70  
+10
+8 Pa. ¿Cuál es la máxima rapidez a la que pulsos de onda 
+transversales pueden propagarse a lo largo de este alambre sin 
+exceder este esfuerzo? (La densidad del acero es 7.86  10
+3 
+kgm3.)
+ 30. ; Una estudiante en un examen encuentra en una hoja de 
+referencia las dos ecuaciones siguientes
+y v T
+mf 1
+T
+  Ella olvidó lo que representa T en cada ecuación. a) Use análi-
+sis dimensional para determinar las unidades requeridas para  
+T en cada ecuación. b) Explique cómo puede identificar,  
+a partir de las unidades, la cantidad física que representa  
+cada T.
+ 31. Un alambre de acero de 30.0 m de longitud y un alambre de 
+cobre de 20.0 m de longitud, ambos con 1.00 mm de diámetro, 
+se conectan extremo con extremo y se estiran a una tensión de 
+150 N. ¿Durante qué inter
+valo de tiempo una onda transversal 
+viajará toda la longitud de los dos alambres?
+Figura P16.28
+3L/4
+L/2L/2
+m
+
+Problemas 471
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+fango con densidad similar pero con un módulo volumétrico 
+mucho menor. Suponga que la rapidez de la onda cae gradual-
+mente en un factor de 25.0, con reflexión despreciable de la 
+onda. Explique si la amplitud del suelo que se agita aumenta-
+rá o disminuirá. ¿Cambia en un factor predecible? Este fenó-
+meno condujo al colapso de parte de la autopista Nimitz en  
+Oakland, California, durante el terremoto de Loma Prieta  
+en 1989.
+4FDDJwO   -BFDVBDJwOEFPOEBMJOFBM
+ 41. 
+; a) Evalúe A en la igualdad escalar (7  3)4  A. b) Evalúe 
+A, B y C en la igualdad vectorial 7.00 iˆ  3.00kˆ  Aiˆ  B jˆ  
+C kˆ. Explique las respuestas para convencer a un estudiante, 
+quien cree que usted no puede resolver una sola ecuación 
+para tres incógnitas diferentes. c) ¿Qué pasaría si? La igualdad 
+funcional o identidad
+  A B cos 1Cx Dt E 21 7.00 mm2 cos 13x 4t 22
+  es verdadera para todos los valores de las variables x y t, medida 
+en metros y en segundos, respectivamente. Evalúe las constan-
+tes A, B, C, D y E. Explique cómo llega a las respuestas.
+ 42. Demuestre que la función de onda y  e
+b(xvt) es una solución 
+de la ecuación de onda lineal (ecuación 16.27), donde b es una 
+constante.
+ 43. Demuestre que la función de onda y  In[b(x  vt)] es una 
+solución de la ecuación 16.27, donde b es una constante.
+ 44. a) Demuestre que la función y(x, t)  x2  v 2t 2 es una solución 
+a la ecuación de onda. b) Demuestre que la función en el inci-
+so a) se puede escribir como f(x  vt)  g(x  vt) y determine 
+las formas funcionales para f y g. c) ¿Qué pasaría si? Repita los 
+incisos a) y b) para la función y(x, t)  sen (x) cos (vt).
+1SPCMFNBTBEJDJPOBMFT
+ 45. La “ola” es un tipo particular de pulso que se puede propagar 
+a través de una gran multitud reunida en un estadio deportivo 
+(figura P16.45). Los elementos del medio son los espectadores, 
+con posición cero cuando están sentados y posición máxima 
+cuando están de pie y elevan sus brazos. Si una gran cantidad 
+de espectadores participa en el movimiento ondulatorio, se de- 
+sarrolla una forma de pulso de cierta estabilidad. La rapidez 
+de la onda depende del tiempo de reacción de las personas, 
+que por lo general está en el orden de 0.1 s. Estime el orden 
+de magnitud, en minutos, del intervalo de tiempo requerido 
+para que tal pulso dé una vuelta completa alrededor de un 
+gran estadio deportivo. Establezca las cantidades que mida o 
+estime y sus valores.
+ 46. 
+; Una onda sinusoidal en una cuerda se describe mediante la 
+función de onda
+y 10.150 m2 sen 10.800x 50.0t 2
+  donde x está en metros y t en segundos. La masa por cada 
+longitud de la cuerda es 12.0 g m. a) Encuentre la máxima 
+aceleración transversal de un elemento en esta cuerda. b) De-
+termine la máxima fuerza transversal sobre un segmento de 
+cuerda de 1.00 cm. Establezca cómo se compara esta fuerza 
+con la tensión en la cuerda.
+ 47. Las películas se proyectan a 24.0 cuadros por segundo. Cada 
+cuadro es una fotografía de 19.0 mm de alto. ¿Con qué rapidez 
+constante pasa la película en el proyector?
+ 48. Una onda transversal sobre una cuerda se describe mediante 
+la función de onda
+  
+y 1x, t 2 10.350 m2 sen 31 1.25 rad>m 2x 199.6 rad>s2t 4
+  Considere el elemento de la cuerda en x  0. a) ¿Cuál es el 
+intervalo de tiempo entre los primeros dos instantes cuando 
+este elemento tiene una posición de y  0.175 m? b) ¿Qué 
+distancia recorre la onda durante este intervalo de tiempo?
+ 49. Problema de repaso.  Un bloque de 2.00 kg cuelga de una  
+cuerda de caucho, y se sostiene de modo que la cuerda no se 
+estira. La longitud no estirada de la cuerda es de 0.500 m y su 
+masa es de 5.00 g. La “constante de resorte” para la cuerda es 
+100 N
+m. El bloque se libera y detiene en el punto más bajo. 
+a) Determine la tensión en la cuerda cuando el bloque está  
+en este punto más bajo. b) ¿Cuál es la longitud de la cuerda en 
+esta posición “estirada”? c) Encuentre la rapidez de una onda 
+transversal en la cuerda si el bloque se mantiene en esta posi-
+ción más baja.
+ 50. Problema de repaso.  Un bloque de masa M cuelga de una  
+cuerda de caucho. El bloque se suspende de modo que la cuer
+-
+da no se estira. La longitud no estirada de la cuerda es L0 y su 
+masa es m, mucho menor que M. La “constante de resorte” 
+para la cuerda es k. El bloque se libera y detiene en el punto 
+más bajo. a) Determine la tensión en la cuerda cuando el blo-
+que está en el punto más bajo. b) ¿Cuál es la longitud de la 
+cuerda en la posición “estirada”? c) Encuentre la rapidez de 
+una onda transversal en la cuerda si el bloque se mantiene en 
+la posición más baja.
+ 51. 
+; Un terremoto o un deslizamiento de tierra produce una 
+onda oceánica de corta duración que transporte gran ener-
+gía, llamada tsunami. Cuando su longitud de onda es gran- 
+de comparada con la profundidad del océano d, la rapidez de 
+una onda acuática se conoce aproximadamente por 
+v gd. 
+a) Explique por qué la amplitud de la onda aumenta a me-
+dida que la onda se aproxima a la playa. ¿Qué se considera 
+constante en el movimiento de cualquier cresta de la onda? b) 
+Suponga que un terremoto se presenta a lo largo de la frontera 
+de una placa tectónica que corre de norte a sur y produce una 
+cresta de onda tsunami recta que se mueve en todas partes 
+hacia el oeste. Si la onda tiene una amplitud de 1.80 m cuando 
+su rapidez es de 200 ms, ¿cuál será su amplitud donde el agua 
+tenga 9.00 m de profundidad? c) Explique por qué se debe 
+esperar que la amplitud en la playa sea todavía mayor, pero no 
+se puede predecir significativamente mediante su modelo.
+ 52. Problema de repaso.  Un bloque de masa M, sostenido por  
+una cuerda, descansa sobre un plano inclinado sin fricción
+ 
+que forma un ángulo V con la horizontal (figura P16.52). La Figura P16.45
+
+472 Capítulo 16  Movimiento ondulatorio
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+longitud de la cuerda es L y su masa es m  M. Deduzca 
+una expresión para el intervalo de tiempo para que una onda 
+transversal viaje de un extremo de la cuerda al otro.
+lo de tiempo para que un pulso transversal recorra la longitud 
+de la soga es
+¢t 2 L
+mg 1 Mm M  2
+  ¿Qué pasaría si?  b) Demuestre que la expresión en el inciso 
+a) se reduce al resultado del problema 57 cuando M  0. c) 
+Demuestre que para m  M, la expresión en el inciso a) se 
+reduce a
+¢t mL
+Mg
+ 59. En el problema 57 se establece que un pulso viaja desde la 
+parte baja hasta lo alto de una soga colgante de longitud L en 
+un intervalo de tiempo ¢t 2 L>g . Use este resultado para 
+responder las siguientes preguntas. (No es necesario establecer 
+alguna integración nueva.) a) ¿Durante qué intervalo de tiem-
+po un pulso viaja a la mitad de la soga? Dé su respuesta como 
+una fracción de la cantidad 
+2 L>g . b) Un pulso comienza a 
+viajar por la soga. ¿Qué distancia viajó el pulso después de un 
+intervalo de tiempo 
+L>g ?
+ 60.  Si un rizo de cadena se hace girar con gran  rapidez, puede 
+rodar a lo largo del suelo como un aro circular sin colapsar. 
+Considere una cadena con densidad de masa lineal uniforme 
+N cuyo centro de masa viaja hacia la derecha con gran rapidez 
+v
+0. a) Determine la tensión en la cadena en términos de N y v0. 
+b) Si el rizo rueda sobre un bache, la deformación resultante 
+de la cadena hace que dos pulsos transversales se propaguen a 
+lo largo de la cadena, uno en sentido de las manecillas del reloj 
+y otra en sentido contrario. ¿Cuál es la rapidez de los pulsos 
+que viajan a lo largo de la cadena? c) ¿A través de qué ángulo 
+viaja cada pulso durante el intervalo de tiempo en el que el 
+rizo da una revolución?
+ 61. Problema de repaso. Un alambre de aluminio se sujeta fuer -
+temente en cada extremo bajo tensión cero a temperatura
+ 
+ambiente. Al reducir la temperatura, lo que resulta en una 
+disminución en la longitud de equilibrio del alambre, aumen-
+ta la tensión en el alambre. ¿Qué deformación ($LL) resulta 
+en una rapidez de onda transversal de 100 m s? Considere 
+que el área de sección transversal del alambre es igual a 5.00 
+ 10
+6 m2, la densidad es de 2.70  103 kgm3 y el módulo de 
+Young es 7.00  1010 Nm2.
+ 62.  a) Demuestre que la rapidez de las ondas longitudinales a lo 
+largo de un resorte con constante de fuerza k es 
+v kL> m, 
+donde L es la longitud no estirada del resorte y N es la masa 
+por unidad de longitud. b) Un resorte con una masa de 0.400 
+kg tiene una longitud no estirada de 2.00 m y una constante 
+de fuerza de 100 Nm. Con el resultado obtenido en el inciso 
+a), determine la rapidez de las ondas longitudinales a lo largo 
+de este resorte.
+ 63. Un pulso que viaja a lo largo de una cuerda con densidad de 
+masa lineal N se describe mediante la función de onda
+y 3A0e bx 4 sen 1kx vt 2
+  donde el factor entre corchetes se dice que es la amplitud. a) 
+¿Cuál es la potencia (x) que porta esta onda en un punto x? 
+b) ¿Cuál es la potencia que porta esta onda en el origen? c) 
+Calcule la proporción 
+(x)/ (0).
+ 64. Un terremoto en el suelo del océano del golfo de Alaska 
+produce un tsunami que alcanza Hilo, Hawaii, a 4 450 km 
+de distancia, en un intervalo de tiempo de 9 h 30 min. Los 
+tsunami tienen enormes longitudes de onda (100 a 200 km) 
+ 53. 
+; Una cuerda con densidad lineal de 0.500 g m se mantie-
+ne bajo tensión de 20.0 N. A medida que una onda sinusoi-
+dal transversal se propaga en la cuerda, los elementos de la 
+cuerda se mueven con máxima rapidez v
+y,máx. a) Determine 
+la potencia transmitida por la onda como función de vy,máx.  
+b) Establezca cómo la potencia depende de vy,máx. c) Encuen-
+tre la energía contenida en una sección de cuerda de 3.00 m 
+de largo. Exprésela como función de v
+y,máx y la masa m3 de esta 
+sección. d) Encuentre la energía que la onda porta al pasar por 
+un punto en 6.00 s.
+ 54. Una onda sinusoidal en una soga se describe mediante la fun-
+ción de onda
+y 10.20 m2 sen 10.75px 18pt2
+  donde x y y están en metros y t en segundos. La soga tiene una 
+densidad de masa lineal de 0.250 kgm. La tensión en la soga 
+la proporciona un arreglo como el que se ilustra en la figura 
+16.12. ¿Cuál es la masa del objeto suspendido?
+ 55. Un bloque de 0.450 kg de masa se une al un extremo de una 
+cuerda de 0.003 20 kg de masa; el otro extremo de la cuerda se 
+une a un punto fijo. El bloque da vueltas con rapidez angular 
+constante en un círculo sobre una mesa horizontal sin fricción. 
+¿A través de qué ángulo el bloque da vueltas en el inter
+valo de 
+tiempo durante el que una onda transversal viaja a lo largo de 
+la cuerda desde el centro del círculo hasta el bloque?
+ 56. Un alambre de densidad S se afila de modo que su área de  
+sección transversal varía con 
+x de acuerdo con
+A 11.0 10 3x 0.0102 cm2
+  a) La tensión en el alambre es T. Deduzca una relación para 
+la rapidez de una onda como función de la posición. b) ¿Qué 
+pasaría si? Suponga que el alambre es de aluminio y está bajo 
+una tensión de 24.0 N. Determine la rapidez de onda en el 
+origen y en x  10.0 m.
+ 57. Una soga con masa total m y longitud L está suspendida ver -
+ticalmente. Demuestre que un pulso transversal recorre la
+ 
+longitud de la soga en un intervalo de tiempo ¢t 2 L>g . 
+Sugerencia: Primero encuentre una expresión para la rapidez 
+de onda en cualquier punto a una distancia x desde el extremo 
+inferior, al considerar la tensión de la soga como resultado del 
+peso del segmento abajo de dicho punto.
+ 58.
+  Suponga que un objeto de masa M está suspendido de la parte 
+baja de la soga en el problema 57. a) Demuestre que el interva-
+Figura P16.52
+M
+m, L
+V
+
+Problemas 473
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+y la rapidez de propagación para estas ondas es v gd , 
+donde d  es la profundidad promedio del agua. A partir de la 
+información dada, encuentre la rapidez de onda promedio y  
+la profundidad oceánica promedio entre Alaska y Hawaii. 
+(Este método se usó en 1856 para estimar la profundidad pro-
+medio del océano Pacífico mucho antes de que los sonares 
+produjeran una determinación directa.)
+ 65.
+  Una cuerda en un instrumento musical se mantiene bajo ten-
+sión T y se extiende desde el punto x  0 hasta el punto x  
+L. La cuerda está devanada con alambre de tal forma que su 
+masa por unidad de longitud N(x) aumenta uniformemente 
+de N
+0 en x  0 a NL en x  L. a) Encuentre una expresión para 
+N(x) como una función de x sobre el intervalo 0  x  L. b) 
+Demuestre que el intervalo de tiempo requerido para que un 
+pulso transversal recorra la longitud de la cuerda se conoce 
+por
+¢t
+2L1mL m0 mLm0 2
+3 T 1 mL m0 2
+16.1 i) , b). Es longitudinal porque la perturbación (el corrimiento 
+de posición de las personas) es paralela a la dirección en 
+que viaja la onda. ii), a). Es transversal porque las personas 
+se paran de pie y se sientan (movimiento vertical), mientras 
+que la ola se mueve hacia la izquierda o hacia la derecha.
+16.2 i), c). La rapidez de la onda está determinada por el medio, 
+de modo que no se afecta al cambiar la frecuencia. ii), b). 
+Ya que la rapidez de onda permanece igual, el resultado de 
+duplicar la frecuencia es que la longitud de onda reduce a 
+la mitad. iii), d). La amplitud de una onda no se relaciona 
+con la rapidez de la onda, así que no se puede determinar 
+la nueva amplitud sin más información.
+16.3 c). Con una amplitud más grande, un elemento de la cuer-
+da tiene más energía asociada con su movimiento armónico 
+simple, así que el elemento pasa a través de la posición de 
+equilibrio con una rapidez transversal máxima mayor.
+16.4 Sólo las respuestas f) y h) son correctas. Las opciones a) y b) 
+afectan la rapidez transversal de una partícula de la cuerda, 
+mas no la rapidez de la onda a lo largo de la cuerda. Las 
+opciones c) y d) cambian la amplitud. Las opciones e) y g) 
+aumentan el intervalo de tiempo al reducir la rapidez de la 
+onda.
+16.5 d). Duplicar la amplitud de la onda hace que la potencia sea 
+mayor en un factor de 4. En la opción a), reducir a la mitad 
+la densidad de masa lineal de la cuerda hace que la potencia 
+cambie en un factor de 0.71 y la rapidez disminuye. En la 
+opción b), duplicar la longitud de onda de la onda reduce 
+a la mitad la frecuencia y hace que la potencia cambie en 
+un factor de 0.25, y la rapidez disminuye. En la opción c), 
+duplicar la tensión en la cuerda cambia la rapidez de onda y 
+hace que la potencia cambie en un factor de 1.4, que no es 
+tan grande como en la opción d).
+Respuestas a las preguntas rápidas
+
+Las ondas sonoras viajan a través de cualquier medio material con una rapidez que depende 
+de las propiedades del medio. A medida que las ondas sonoras viajan a través del aire, los 
+elementos del aire vibran para producir cambios en densidad y presión a lo largo de la 
+dirección del movimiento de la onda. Si la fuente de las ondas sonoras vibra sinusoidal-
+mente, las variaciones de presión también son sinusoidales. La descripción matemática de 
+las ondas sonoras sinusoidales es muy parecida a las ondas sinusoidales en cuerdas, que se 
+explicaron en el capítulo 16.
+Las ondas sonoras se dividen en tres categorías que cubren diferentes intervalos de fre-
+cuencia. 1) Las ondas audibles se encuentran dentro del intervalo de sensibilidad del oído 
+humano. Es posible generarlas en una variedad de formas, como de instrumentos musi-
+cales, voces humanas o bocinas. 2) Las ondas infrasónicas tienen frecuencias por abajo del 
+intervalo audible. Los elefantes usan ondas infrasónicas para comunicarse mutuamente, 
+aun cuando estén separados por varios kilómetros. 3) Las ondas ultrasónicas tienen frecuen-
+cias por arriba del alcance audible. Es posible que usted haya usado silbatos “silenciosos” 
+para llamar a su perro. Los perros escuchan el sonido ultrasónico que emite este silbato, 
+para los humanos es imposible detectarlo. Las ondas ultrasónicas también se usan para la 
+formación de imagen médica.
+Este capítulo inicia con una explicación de la rapidez de las ondas sonoras y continúa 
+con la intensidad de onda, que es una función de la amplitud de onda. Después se pro-
+17.1 Rapidez de ondas sonoras
+17.2 Ondas sonoras periódicas
+17.3 Intensidad de ondas sonoras periódicas
+17.4 El efecto Doppler
+17.5 Grabación de sonido digital
+17.6 Sonido cinematográfico
+474
+17 Ondas sonoras
+Los oídos humanos evolucionaron para detectar ondas sonoras e 
+interpretarlas, como la música o el habla. Algunos animales, como este 
+joven zorro orejas de murciélago, tienen oídos adaptados para detectar 
+sonidos muy débiles. (Getty Images)
+
+porciona una descripción alternativa de la intensidad de las ondas sonoras que resume la 
+gran variación de intensidades a las cuales el oído es sensible, en un intervalo más pequeño 
+por conveniencia. También se investigan los efectos que el movimiento de las fuentes y los 
+escuchas tienen sobre la frecuencia de un sonido. Por último, se explora la reproducción 
+digital del sonido, con un enfoque particular en los sistemas sonoros que se usan en las 
+películas actuales.
+17.1 Rapidez de ondas sonoras
+En la figura 17.1 se describe gráficamente el movimiento de un pulso longitudinal unidi-
+mensional móvil a través de un tubo largo que contiene un gas compresible. Un pistón 
+en el extremo izquierdo se mueve hacia la derecha para comprimir el gas y crear el pulso. 
+Antes de que el pistón se mueva, el gas no está perturbado y tiene densidad uniforme, 
+como se representa mediante la región coloreada en el mismo tono de la figura 17.1a. 
+Cuando el pistón se empuja súbitamente hacia la derecha (figura 17.1b), el gas justo en-
+frente de él se comprime (como se representa mediante la región con el tono más oscuro); 
+la presión y la densidad en esta región ahora son mayores de lo que eran antes de que el 
+pistón se moviera. Cuando el pistón se detiene (figura 17.1c), la región comprimida del 
+gas continúa en movimiento hacia la derecha, lo que corresponde a un pulso longitudinal 
+que viaja a través del tubo con rapidez v.
+La rapidez de las ondas sonoras en un medio depende de la compresibilidad y la den-
+sidad del medio; si éste es un líquido o un gas y tiene un módulo volumétrico B (véase la 
+sección 12.4) y densidad S, la rapidez de las ondas sonoras en dicho medio es
+ 
+v B
+r  (17.1)
+Resulta interesante comparar esta expresión con la ecuación 16.18 para la rapidez de las 
+ondas transversales en una cuerda, v T> m. En ambos casos la rapidez de la onda 
+depende de una propiedad elástica del medio (módulo volumétrico B o tensión en la 
+cuerda T ) y de una propiedad inercial del medio (So N). De hecho, la rapidez de todas 
+las ondas mecánicas sigue una expresión de la forma general
+v
+propiedad elástica
+propiedad inercial
+Para ondas sonoras longitudinales en una barra sólida de material, por ejemplo, la rapidez 
+del sonido depende del módulo de Young Y y de la densidad S. La tabla 17.1 proporciona  
+la rapidez del sonido en materiales diferentes.
+La rapidez del sonido también depende de la temperatura del medio. La relación entre 
+la rapidez de la onda y la temperatura del aire, para sonido que viaja a través del aire, es
+v
+1331 m>s 2 1 TC
+273°C
+donde 331 m/s es la rapidez del sonido en aire a 0°C y TC es la temperatura del aire en 
+grados Celsius. Con esta ecuación, uno encuentra que, a 20°C, la rapidez del sonido en el 
+aire es aproximadamente 343 m/s.
+Esta información proporciona una forma conveniente de estimar la distancia de una 
+tormenta. Primero cuente el número de segundos entre ver el destello del relámpago y 
+escuchar el trueno. Dividir este tiempo entre 3 da la distancia aproximada al relámpago en 
+kilómetros, porque 343 m/s es aproximadamente 
+1
+3 km/s. Dividir el tiempo en segundos 
+entre 5 da la distancia aproximada al relámpago en millas, porque la rapidez del sonido 
+es aproximadamente 
+1
+5 mi/s.
+Figura 17.1 Movimiento de 
+un pulso longitudinal a través  
+de un gas compresible. La 
+compresión (región más 
+oscura) la produce el pistón en 
+movimiento.
+d)
+v
+c)
+v
+b)
+Región comprimida
+a)
+Gas no perturbado
+ Sección 17.1  Rapidez de ondas sonoras  475
+
+476

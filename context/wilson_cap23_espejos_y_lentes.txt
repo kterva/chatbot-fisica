@@ -1,0 +1,2775 @@
+Tema: Espejos y lentes (Capítulo 23 — Física, Wilson)
+
+CAPÍTULO 23 Espejos y lentes
+23.1 Espejos planos
+OBJETIVOS: a) Comprender cómo se forman las imágenes y b) describir las ca-
+racterísticas de las imágenes formadas por los espejos planos.
+Los espejos son superficies reflectoras o reflectantes lisas, hechos de metal pulido o de vi-
+drio con un recubrimiento metálico. Como ya sabemos, hasta una pieza de vidrio sin re-
+cubrimiento, como el vidrio de una ventana, puede funcionar como un espejo. Sin
+embargo, cuando se recubre una cara del vidrio con un compuesto de estaño, mercurio,
+aluminio o plata, aumenta la reflectividad del vidrio, porque la luz no atraviesa el recu-
+brimiento. Un espejo puede tener recubrimiento frontal o trasero, pero la mayoría tiene
+un recubrimiento por detrás.
+Al ver un espejo de forma directa, lo que se ve son las imágenes reflejadas de uno
+y de los objetos que le rodean (que parecen estar al otro lado de la superficie del espe-
+jo). La geometría de la superficie del espejo influye sobre el tamaño, la orientación y el
+tipo de imagen. En general, una imagen es la contraparte visual de un objeto, produci-
+da por la reflexión (en los espejos) o la refracción (en el caso de las lentes).
+Un espejo con superficie plana se llama espejo plano. El diagrama de rayos de la
+>figura 23.1 muestra el modo en que se forman las imágenes en un espejo plano. Parece
+que una imagen está atrás o “dentro” del espejo. Esto se debe a que cuando el espejo re-
+fleja un rayo de luz del objeto hacia el ojo (figura 23.1a), parece que el rayo se origina
+detrás del espejo. Los rayos reflejados de las partes superior e inferior de un objeto se
+ilustran en la figura 23.1b. En realidad, los rayos de luz que provienen de todos los pun-
+tos de la parte del objeto que da hacia el espejo se reflejan, y entonces se observa una
+imagen del objeto completo.
+La imagen formada así parece que está detrás del espejo. Se le llama imagen virtual.
+Los rayos luminosos parecen proceder de las imágenes virtuales y apartarse unos de
+otros, aunque eso no es cierto. En realidad, ninguna energía lumínica procede de la ima-
+gen o pasa a través de ella. Sin embargo, los espejos esféricos (que se describen en la sec-
+ción 23.2) pueden proyectar imágenes frente a ellos, donde la luz efectivamente pasa a
+través de la imagen. Esta clase de imágenes se llaman imágenes reales. Un ejemplo de
+imagen real es la que produce un proyector de filminas en un salón de clase.
+Observe las posiciones y distancias del objeto y la imagen producida por el espejo
+en la figura 23.1b. Es obvio que la distancia de un objeto a un espejo se llama distancia
+del objeto (d
+o), y la distancia que parece haber entre su imagen y la parte posterior del
+espejo se llama distancia de la imagen (di). Se puede ver, por consideraciones geométri-
+cas de triángulos idénticos y la ley de la reflexión ( θi /H11005θr) que do /H11005di, lo que significa
+que la imagen formada por un espejo plano parece estar detrás del espejo a una distancia igual
+a la que hay entre el objeto y el espejo. (Véase el ejercicio 17.)
+Son interesantes diversas características de las imágenes. Dos de ellas son su ta-
+maño y orientación con respecto a las del objeto. Ambas se expresan en términos del
+factor de amplificación lateral (M), que se define como la relación entre la altura de la
+imagen (h
+i) y la del objeto (ho):
+(23.1)
+Usaremos una vela encendida como objeto, para describir otra característica im-
+portante de la imagen: la orientación, es decir, si la imagen está derecha o invertida con
+respecto a la orientación del objeto. (Al trazar diagramas de rayos, una flecha repre-
+senta adecuadamente al objeto para estos fines.) Para un espejo plano, la imagen siem-
+pre está derecha (o erguida). Eso significa que la imagen está orientada en la misma
+dirección que el objeto. Se dice entonces que h
+i y ho tienen el mismo signo (ambos signos
+son positivos o ambos negativos), así que M es de signo positivo. Note que M es una
+cantidad adimensional, por ser una relación de alturas
+En la Nfigura 23.2 también se observa que la imagen y el objeto tienen el mismo ta-
+maño (altura), por lo que hi /H11005ho. Por consiguiente, M /H11005/H110011 para un espejo plano, pues
+la imagen está derecha y no hay aumento. Esto es, en un espejo plano una persona y su
+imagen tienen el mismo tamaño.
+Con otro tipo de espejos, como los esféricos (que estudiaremos dentro de poco), es
+posible tener imágenes invertidas donde M es negativo. En resumen, el signo de M nos
+indica la orientación de la imagen con respecto al objeto, mientras que su valor absolu-
+to nos permite conocer el aumento.
+M =
+altura de la imagen
+altura del objeto = hi
+ho
+Ilustración 33.2 Espejos planos
+
+Espejo
+ho
+do di
+hi
+θ
+θ
+23.1 Espejos planos 731
+Otra característica de las imágenes reflejadas es la llamada inversión derecha-izquierda.
+Cuando se mira uno al espejo y levanta la mano derecha, parece que la imagen está levan-
+tando su mano izquierda. Sin embargo, esta inversión derecha-izquierda es aparente,
+causada en realidad por la inversión frente-atrás. Por ejemplo, si su cara está de frente al
+sur, entonces su espalda está hacia el norte. Por otra parte, su imagen estará de cara hacia
+el norte y dará la espalda al sur, es decir, se trata de una inversión de la parte anterior y 
+la posterior. Usted podrá demostrar esta inversión pidiendo a uno de sus amigos que se
+ponga de pie dando la cara hacia usted (sin un espejo). Si su amigo sube su mano derecha,
+usted podrá ver que esa mano en realidad está al lado izquierdo de usted.
+Las características principales de la imagen formada por un espejo plano se resu-
+men en la tabla 23.1. Véase también la sección A fondo 23.1, en la p. 733, que describe
+todo lo que es posible hacer con los espejos.
+Ejemplo 23.1 ■ De cuerpo completo: longitud mínima del espejo
+¿Cuál es la longitud vertical mínima que debe tener un espejo plano para que una perso-
+na pueda ver su imagen completa (de la cabeza hasta la punta de los pies)? (Véase la ▼ fi-
+gura 23.3.)
+Razonamiento. Al aplicar la ley de la reflexión, vemos en la figura que los rayos necesa-
+rios para que la imagen sea completa forman dos triángulos. Esos triángulos relacionan la
+altura de la persona con la longitud mínima del espejo.
+Solución. Para calcular esta longitud se examina el caso ilustrado en la figura 23.3. Con un
+espejo de longitud mínima, un rayo procedente de la parte superior de la persona se refleja
+en la parte superior del espejo, y un rayo que proviene de los pies de la persona se refleja en
+la parte inferior del espejo. La longitud L del espejo es, entonces, la distancia entre las líneas
+horizontales punteadas perpendiculares al espejo, en sus lados superior e inferior.
+Sin embargo, esas líneas también son las normales en las reflexiones de los rayos. De
+acuerdo con la ley de la reflexión, las normales bisecan a los ángulos que forman los rayos in-
+cidentes y reflejados; esto es, 
+θi /H11005θr. Entonces, como los triángulos respectivos a cada lado de
+la normal punteada son semejantes, la longitud del espejo, desde su lado inferior hasta un
+punto al nivel de los ojos de la persona es h
+l/2, donde hl es la altura de la persona desde sus
+pies hasta sus ojos. De igual forma, la pequeña longitud superior del espejo es h2/2 (la dis-
+tancia vertical entre los ojos de la persona y la orilla superior del espejo). Entonces,
+donde h es la altura total de la persona.
+L = h1
+2 + h2
+2 = h1 + h2
+2 = h
+2
+Características de las imágenes formadas 
+por los espejos planos
+La distancia a la imagen es igual a la distancia al objeto . Esto es, la 
+distancia que parece haber entre la imagen y la parte posterior del 
+espejo es igual a la que hay entre el espejo y el objeto.
+La imagen es virtual, derecha y sin aumento.M =+ 1
+di = do
+TABLA 23.1
+Objeto
+θ r
+θ i
+h2
+h2h1h = +
+Lh1/2
+h1
+Imagen
+> FIGURA 23.3 De cuerpo entero
+La altura mínima, o longitud vertical,
+de un espejo plano, necesaria para
+que una persona vea su imagen
+completa (de la cabeza a los pies) es
+la mitad de la altura de la persona.
+Véase el ejemplo 23.1.
+(continúa en la siguiente página)
+Exploración 33.1 Imagen en un espejo
+plano
+▲ FIGURA 23.2 Aumento El factor
+de amplificación lateral, o de altura,
+se define como M /H11005h
+i/ho. Para un
+espejo plano, M /H11005/H110011, lo que 
+significa que hi /H11005ho, es decir, la
+imagen tiene la misma altura que 
+el objeto, además de que está 
+derecha.
+
+C
+R
+Sección esférica
+Superficie convexa
+Eje
+óptico
+Vértice
+Superficie
+cóncava
+▲ FIGURA 23.4 Espejos esféricos
+Un espejo esférico es un casquete 
+de una esfera. La superficie reflecto-
+ra puede ser la exterior (convexa) 
+o la interior (cóncava) del casquete 
+esférico.
+732
+CAPÍTULO 23 Espejos y lentes
+Por lo anterior, para que una persona vea su imagen completa en un espejo plano, la
+altura mínima, o longitud vertical, del espejo debe ser igual a la mitad de la altura de 
+la persona.
+El lector puede hacer un experimento sencillo para demostrar esta conclusión. Consi-
+ga algo de papel periódico y una cinta adhesiva, así como un espejo de cuerpo entero. Cu-
+bra gradualmente partes del espejo con el periódico hasta que no pueda ver su imagen
+completa. Verá que sólo necesitará un espejo que tenga la mitad de su altura.
+Ejercicio de refuerzo. ¿Qué efecto tiene la distancia de una persona al espejo sobre la lon-
+gitud mínima necesaria para producir su imagen completa? (Las respuestas a todos los ejer-
+cicios de refuerzo aparecen al final del libro.)
+23.2 Espejos esféricos
+OBJETIVOS: a) Diferenciar entre espejos esféricos convergentes y divergentes,
+b) describir sus imágenes y características y c) determinar las carac-
+terísticas de la imagen con diagramas de rayos y con la ecuación del
+espejo esférico.
+Como su nombre lo indica, un espejo esférico es una superficie reflectora con geome-
+tría esférica. La >figura 23.4 muestra que si se rebana una parte de una esfera hueca de
+radio R a lo largo de un plano, la parte cortada tiene la forma de un espejo esférico.
+Tanto el interior como el exterior de ese casquete pueden ser reflectores. Si la reflexión
+se efectúa en la superficie interna, la sección se comporta como un espejo cóncavo. Si
+la reflexión se realiza en la superficie externa, entonces la sección se comporta como un
+espejo convexo.
+La línea radial que pasa por el centro del espejo esférico se llama eje óptico e inter-
+seca a la superficie del espejo en el vértice de la parte esférica (figura 23.4). El punto del
+eje óptico que corresponde al centro de la esfera de donde se cortó la sección se llama
+centro de curvatura (C). La distancia entre el vértice y el centro de curvatura es igual al
+radio de la esfera, y se llama radio de curvatura (R).
+Cuando unos rayos paralelos y cercanos al eje óptico inciden sobre un espejo cón-
+cavo y se reflejan, convergen en un punto común llamado foco (F). En consecuencia,
+un espejo cóncavo se llama espejo convergente (
+>figura 23.5a). Advierta que cada ra-
+yo satisface la ley de la reflexión, θi /H11005θr.
+De igual forma, los rayos paralelos y cercanos al eje óptico de un espejo convexo di-
+vergen al reflejarse, como si provinieran de un foco atrás de la superficie del espejo (fi-
+gura 23.5b). Por lo anterior, se dice que un espejo convexo es un espejo divergente
+(
+▼figura 23.6). Cuando uno ve rayos divergentes, el cerebro interpreta, o supone, que
+hay un objeto desde donde los rayos parecen divergir, aunque en realidad no exista tal
+objeto.
+CEje F
+f
+R
+b) Espejo convexo o divergente
+Eje F C
+R
+f
+a) Espejo cóncavo o convergente
+θ r
+θ i
+θ r
+θ i
+▲ FIGURA 23.5 Punto focal a) Los
+rayos paralelos y cercanos al eje 
+óptico de un espejo esférico cóncavo
+convergen en el punto focal o foco
+F. b) Los rayos paralelos y cercanos
+al eje óptico de un espejo esférico
+convexo se reflejan en trayectorias
+que parecen provenir de un foco
+detrás del espejo. Observe que cada
+rayo en el diagrama satisface la ley
+de la reflexión, 
+θi = θr.
+> FIGURA 23.6 Espejo divergente
+Si trazamos los rayos al revés en la
+figura 23.5b, veremos que un espejo
+esférico divergente (convexo) 
+produce un mayor campo de visión;
+esto se aprecia con este espejo en
+una tienda. (Véase el pliego a color
+al final del libro.)
+
+23.2 Espejos esféricos 733
+23.1 TODO SE HACE CON ESPEJOS
+La mayoría de nosotros nos hemos sentido fascinados por los
+sensacionales trucos de los magos, que hacen aparecer y desa-
+parecer objetos y animales súbitamente en el escenario. Por su-
+puesto, éstos no aparecen ni desaparecen de verdad. El mago
+requiere de habilidades especiales para realizar el truco rápida-
+mente y con suavidad para “engañar” al auditorio. Todo se ha-
+ce con espejos, afirman.
+En 1876, Thomas William Tobin inventó el primer truco de
+ilusionismo a base de espejos, “La Esfinge”, para los magos. Su
+invención se basaba en el uso de espejos para ocultar personas
+u objetos, como se observa en la figura 1; esta imagen su utilizó
+como portada del libro Modern Magic en 1876. El truco consiste
+en colocar dos espejos planos entre las tres patas de una mesa,
+para así esconder el cuerpo de una persona.
+Harry Houdini, el mundialmente famoso maestro del ilusio-
+nismo, pensaba que era muy fácil sacar una paloma de un som-
+brero o hacer desaparecer un conejo en el aire. En 1918, Houdini
+hizo “desaparecer” un elefante de 4500 kg, llamado Jennie, en
+medio del escenario en el Teatro Hipódromo de Nueva York (fi-
+gura 2). El acto se llamaba “El elefante que se desvanece”.
+Cuando llegaba el momento de hacer desaparecer al elefan-
+te, dos enormes espejos planos en ángulo recto uno con el otro se
+deslizaban rápidamente hacia el lugar preciso. Al alinearlos de la
+manera correcta, los espejos reflejaban la luz de las paredes inte-
+riores del escenario para formar imágenes virtuales que iguala-
+ban el telón de fondo del escenario. Así que el auditorio sólo veía
+el escenario sin el elefante (figura 3). Una luz estroboscópica se
+utilizaba para disimular el breve desplazamiento de los espejos.
+El elefante parecía desaparecer rápidamente del escenario.
+A FONDO
+FIGURA 1 La Esfinge,
+una ilustración del
+sensacional acto de
+ilusionismo de Tobin
+El cuerpo se ocultaba
+con dos espejos planos.
+FIGURA 2 Houdini y
+Jennie, el elefante
+que desaparece El
+elefante desaparecía
+ante la vista de los
+espectadores cuando
+Houdini disparaba
+una pistola.
+Espejo
+Espejo
+X
+X
+XAuditorio
+FIGURA 3 El elefante que desparece Dos enormes espejos
+en ángulo recto uno con el otro se utilizaban para ocultar al
+elefante.
+La distancia del vértice al foco de los rayos paralelos cercanos al eje de un espejo
+esférico se llama distancia focal f. (Véase la figura 23.5.) La distancia focal se relaciona
+con el radio de curvatura mediante esta sencilla ecuación:
+distancia focal, espejo esférico (23.2)
+El resultado anterior es válido sólo cuando los rayos están cerca del eje óptico, es-
+to es, para una aproximación de un ángulo pequeño. Los rayos alejados del eje óptico
+se enfocarán en diferentes focos, lo que dará por resultado cierta distorsión de la ima-
+gen. En óptica, esta distorsión es un ejemplo de aberración. Algunos espejos telescópi-
+cos son de forma parabólica y no esférica, de manera que todos los rayos paralelos al eje
+óptico se enfocan en el punto focal, eliminando así la aberración esférica.
+f = R
+2
+Nota:
+espejo cóncavo /H11005espejo 
+convergente
+espejo convexo /H11005espejo 
+divergente
+
+734 CAPÍTULO 23 Espejos y lentes
+Diagramas de rayos
+Las características de las imágenes formadas por espejos esféricos se determinan con la
+ayuda de la óptica geométrica (que se presentó en el capítulo 22). Este método consis-
+te en trazar rayos que emanan de uno o más puntos de un objeto. Se aplica la ley de la
+reflexión (
+θi /H11005θr), y se definen tres rayos con respecto a la geometría del espejo:
+1. Un rayo paralelo, que incide a lo largo de una trayectoria paralela al eje óptico, y
+que se refleja y pasa (o parece pasar) por el foco (al igual que todos los rayos para-
+lelos y cercanos al eje).
+2. Un rayo radial, que incide pasando por el centro de curvatura (C) del espejo esfé-
+rico. Como incide en dirección normal a la superficie del espejo, se refleja a lo lar-
+go de su trayectoria de llegada y pasan por el punto C.
+3. Un rayo focal, que pasa (o parece pasar) por el foco y se refleja en dirección parale-
+la al eje óptico. Es, por así decirlo, un rayo paralelo que viaja en sentido contrario.
+Si utilizamos dos rayos cualesquiera de los tres anteriores podremos ubicar la
+imagen (distancia a la imagen) y determinar su tamaño (aumentado o reducido), su
+orientación (derecha o invertida) y su tipo (real o virtual). Se acostumbra usar la pun-
+ta del objeto asimétrico (por ejemplo, la punta de una flecha o la llama de una vela)
+como el punto de partida de los rayos. El punto correspondiente de la imagen estará
+en el punto de intersección de los rayos. Con este método se facilita ver si la imagen
+está derecha o invertida.
+Sin embargo, hay que tener presente que es factible utilizar rayos bien trazados de
+cualquier punto del objeto para localizar la imagen. Todo punto de un objeto visible funcio-
+na como emisor de luz. Por ejemplo, en una vela, la llama emite su propia luz, pero
+cualquier punto de la vela refleja la luz.
+Ejemplo 23.2 ■ Aprenda dibujando: diagrama de rayos para un espejo
+Se coloca un objeto a 39.0 cm frente a un espejo esférico cóncavo de 24.0 cm de radio. 
+a) Con un diagrama de rayos ubique la imagen formada por este espejo. b) Describa las
+características de la imagen.
+Razonamiento. Un diagrama de rayos, trazado con precisión, dará por sí solo información
+“cuantitativa” acerca de la ubicación y las características de la imagen, que también po-
+drían determinarse matemáticamente.
+Solución.
+Dado: Encuentre: a) La ubicación de la imagen
+b) Las características de la imagen
+a) Como se pide elaborar un diagrama de rayos para ubicar la imagen, lo primero que se
+debe hacer es elegir la escala del dibujo. Si se usa una escala en la que 1 cm en el dibujo re-
+presenta 10 cm en la realidad, habría que trazar el objeto a 3.90 cm frente al espejo.
+Primero se traza el eje óptico, el espejo, el objeto (una vela encendida) y el centro de
+curvatura (C). De acuerdo con la ecuación 23.2, f /H1100524.0 cm/2 /H1100512.0 cm. Entonces se ubi-
+ca el foco (F) a la mitad de la distancia del vértice al centro de curvatura.
+Para ubicar la imagen, se siguen los pasos 1 a 4 de la figura de Aprender dibujando:
+1. El primer rayo que se trazó en este caso es el rayo paralelo (el en la figura). Desde la pun-
+ta de la llama se traza un rayo paralelo al eje óptico. Al reflejarse, ese rayo pasa por el foco, F.
+2. A continuación se traza el rayo radial ( en la figura). Desde la punta de la llama se
+traza un rayo que pase por el centro de curvatura, C. Ese rayo se reflejará por su trayecto-
+ria original (¿por qué?).
+3. Se puede ver con claridad que los dos rayos se intersecan. El punto de intersección es
+la punta de la imagen de la vela. A partir de este punto se traza la imagen extendiendo la
+punta de la flama hacia el eje óptico. La distancia de imagen d
+i /H1100517 cm, como se mide en
+el diagrama.
+4. Sólo se necesitan dos rayos para ubicar la imagen. Sin embargo, si para verificar se tra-
+za el tercero, que en este caso es el rayo focal ( en la figura), éste deberá pasar por el
+mismo punto de la imagen donde se intersecan los otros dos rayos (si se traza el diagrama
+con cuidado). El rayo focal de la punta de la llama que pasa por el foco, F, al reflejarse, se-
+rá paralelo al eje óptico.
+➂
+➁
+➀
+ do = 39.0 cm
+ R = 24.0 cm
+APRENDER DIBUJANDO
+Diagramas de rayos para 
+un espejo (véase el 
+ejemplo 23.2)
+2 3
+1
+2
+1
+2
+1
+1
+Eje óptico
+do
+di
+R
+10 cm
+También se puede usar 
+el rayo focal
+Rayo paralelo
+Espejo convergente (cóncavo)
+Rayo principal (radial)
+Ubicación de la imagen
+1
+2
+3
+4
+Objeto
+Imagen real
+C
+F
+Objeto
+Imagen real
+C
+F
+Objeto
+C
+F
+Objeto
+C
+F
+
+23.2 Espejos esféricos 735
+R
+do = R
+Real, 
+invertida 
+y de igual 
+tamaño
+Real 
+invertida 
+reducida
+Virtual 
+derecha 
+aumentada
+(
+do > R)
+(R > do > f )
+do = f
+Imagen 
+en el 
+infinito
+dido
+C F (do < f )
+a) Espejo cóncavo
+ c) do = f
+di
+do
+1
+ b) (R > do > f )
+Objeto
+C F
+2
+Imagen real, 
+invertida y 
+aumentada
+do di
+ d) do < f
+∞
+1 2
+C F2
+Objeto
+Los rayos “convergen”
+en el ∞
+1
+C F
+Objeto
+Imagen 
+virtual, 
+derecha y 
+aumentada
+R
+f
+Real 
+invertida 
+aumentada
+▼ FIGURA 23.7 Espejos cóncavos a) Para un espejo cóncavo o convergente, el objeto se
+puede ubicar dentro de una de las tres regiones definidas por el centro de curvatura (C)
+y el foco (F), o en uno de esos dos puntos. Para do /H11022R, la imagen es real, invertida y más 
+pequeña que el objeto, como se ve en los diagramas de rayos del ejemplo 23.2. b) Cuando
+R /H11022do /H11022f, la imagen también es real e invertida, pero agrandada. c) Cuando el objeto está
+en el foco F, es decir, que do /H11005 f, se dice que la imagen se forma en el infinito. d) Cuando 
+do /H11021f, la imagen es virtual, derecha y aumentada.
+b) En el diagrama de rayos que se dibujó en el inciso a se observa con claridad que la
+imagen es real, porque los rayos se intersecan frente al espejo. Los rayos reflejados conver-
+gen y pasan por la imagen. Resulta entonces una imagen real, que se podría ver en una
+pantalla (por ejemplo, un trozo de papel blanco) colocada a la distancia d
+i del espejo cón-
+cavo. Además, la imagen está invertida (porque la llama apunta hacia abajo) y es más pe-
+queña que el objeto.
+Ejercicio de refuerzo. En este ejemplo, ¿cuáles serían las características de la imagen si el
+objeto estuviera a 15.0 cm del espejo? Ubique la imagen y describa sus características.
+En el Ejemplo integrado 23.4 se presentará un diagrama de rayos en el que se usan
+los tres mismos rayos con un espejo convexo (divergente).
+Un espejo convergente no siempre forma una imagen real. Para un espejo esférico
+convergente, las características de la imagen cambian con la distancia del objeto al espe-
+jo. Hay dos puntos donde esos cambios son drásticos: C, el centro de curvatura, y F, el fo-
+co. Estos puntos dividen al eje óptico en tres regiones (
+▼figura 23.7a): do /H11022R, R /H11022do /H11022f y
+do /H11021f.
+Exploración 33.3 Diagramas 
+de rayos
+
+736 CAPÍTULO 23 Espejos y lentes
+Se comenzará la descripción con el objeto en la región más alejada del espejo 
+(do /H11022R), viendo lo que sucede al acercarse a él:
+• El caso en que do /H11022R ya se describió en el ejemplo 23.2.
+• Cuando do /H11005R /H110052f, la imagen es real, invertida y del mismo tamaño que el objeto.
+• Cuando R /H11022do /H11022f, se forma una imagen aumentada, invertida y real (figura
+23.7b). La imagen es aumentada cuando el objeto está más cerca que el centro de
+curvatura, C.
+• Cuando d
+o /H11005f, el objeto está en el foco (figura 23.7c). Los rayos reflejados son parale-
+los, y se dice que la imagen “se forma en el infinito”. El foco F es un punto especial de
+“paso” de los rayos, porque divide al espacio frente al espejo en dos regiones.
+• Cuando do /H11021f, el objeto está entre el foco y la superficie del espejo. Se forma en-
+tonces una imagen virtual, aumentada y derecha (figura 23.7d).
+Cuando do /H11022f, la imagen es real; cuando do /H11021f, la imagen es virtual. Cuando do /H11005f, la
+imagen está “en el infinito” (figura 23.7c). Esto es, el objeto está tan alejado que los ra-
+yos que emanan de él y llegan al espejo son paralelos en esencia, y su imagen se forma
+en el plano focal. Este hecho es la base de un método sencillo para determinar la dis-
+tancia focal de un espejo cóncavo.
+Como hemos visto, la posición, la orientación y el tamaño de la imagen se pueden
+determinar en forma gráfica, con diagramas de rayos trazados a escala. Sin embargo,
+estas características se determinan con más rapidez y precisión con métodos analíticos.
+Es posible demostrar, por medio de la geometría, que la distancia al objeto (d
+o), la dis-
+tancia a la imagen (di) y la distancia focal ( f ) están relacionadas. Esta relación se conoce
+como ecuación del espejo esférico:
+ecuación del espejo esférico (23.3)
+Note que esta ecuación se puede escribir en función del radio de curvatura, R, o de la
+distancia focal, f, ya que de acuerdo con la ecuación 23.2, f /H11005R/2. Tanto R como f pue-
+den ser positivos o negativos, como explicaremos dentro de poco.
+Si di es la cantidad que se busca para un espejo esférico, sería conveniente emplear
+una forma alternativa de la ecuación del espejo esférico:
+(23.3a)
+Pero siempre es posible utilizar la forma recíproca de la ecuación 23.3.
+Los signos de las diversas cantidades son muy importantes en la aplicación de las
+ecuaciones 23.3. Utilizaremos las convenciones de signos resumidas en la tabla 23.2.
+di =
+do
+ f
+do - f
+1
+do
++ 1
+di
+= 1
+f = 2
+R
+Convenciones de signos para los espejos esféricos
+Distancia focal ()
+Espejo cóncavo (convergente) (o R) es positiva
+Espejo convexo (divergente) (o R) es negativa
+Distancia al objeto
+El objeto está frente al espejo (objeto real) es positiva
+El objeto está atrás del espejo (objeto virtual)* es negativa
+Distancia a la imagen (di)y tipo de imagen
+La imagen se forma frente al espejo (imagen real) es positiva
+La imagen se forma atrás del espejo (imagen virtual) es negativa
+Orientación de la imagen
+La imagen está derecha en relación con el objeto M es positiva
+La imagen está invertida en relación con el objeto M es negativa
+*En una combinación de dos (o más) espejos, la imagen que forma el primero es el objeto del segundo
+(y así sucesivamente). Si esta imagen-objeto está atrás del segundo espejo, se llama objeto virtual, y la
+distancia al objeto se considera negativa. Este concepto es más importante para las combinaciones de
+lentes, como se verá en la sección 23.3, y sólo se menciona aquí para completar el tema.
+(M)
+di
+di
+do
+do
+(do)
+f
+f
+f
+TABLA 23.2
+Exploración 33.4 Foco y punto 
+de la imagen
+Exploración 33.2 Mirando 
+en los espejos curvos
+
+23.2 Espejos esféricos 737
+O'
+CI
+O F
+V
+I' A
+di
+do
+hi
+ho
+f
+> FIGURA 23.8 Ecuación del 
+espejo esférico Los rayos definen
+la geometría de triángulos seme-
+jantes, para la deducción de la 
+ecuación del espejo esférico.
+Por ejemplo, para un objeto real, una di positiva indica una imagen real, mientras que
+una di negativa corresponde a una imagen virtual.
+El factor de amplificación lateral M, definido en la ecuación 23.1, también se pue-
+de calcular de forma analítica para un espejo esférico. De nuevo, por consideraciones
+geométricas, se expresa en función de las distancias a la imagen y al objeto:
+factor de aumento
+(23.4)
+Se agrega el signo menos por convención, para indicar la orientación de la imagen: un
+valor positivo de M indica que se trata de una imagen derecha, mientras que una M ne-
+gativa implica una imagen invertida. Además, si |M| /H110221, la imagen es aumentada, o
+mayor que el objeto. Si | M| /H110211, la imagen es reducida, o menor que el objeto. Note
+que para los espejos, la amplificación lateral M, llamada también factor de aumento o
+simplemente aumento, se expresa convenientemente en función de la distancia a la ima-
+gen di y la distancia al objeto do, y no en función de las alturas de la imagen y del objeto
+que se usaron en la ecuación 23.1. (Más adelante se presenta una descripción del origen
+de las ecuaciones 23.3 y 23.4, como tema opcional.)
+En el ejemplo 23.3 y en el Ejemplo integrado 23.4 se indica cómo se usan esas ecua-
+ciones y convenciones de signos con los espejos esféricos. En general, este método con-
+siste en determinar la imagen de un objeto; se le preguntará dónde se forma la imagen
+(d
+i) y cuáles son las características de la imagen ( M). Esas características indican si la
+imagen es real o virtual, derecha o invertida, y mayor o menor (aumentada o reducida)
+que el objeto.
+*Deducción de la ecuación del espejo esférico (opcional) Seguramente usted se pre-
+guntará de dónde vienen las ecuaciones 23.3 y 23.4. La ecuación del espejo esférico se de-
+duce con un poco de geometría. Véase el diagrama de rayos de la 
+▼figura 23.8. Se indican
+las distancias al objeto y a la imagen (do y di) y las alturas del objeto y la imagen (ho y hi).
+Note que estas longitudes constituyen las bases y las alturas de triángulos formados por
+el rayo reflejado en el vértice (V). Esos triángulos (O’VO e I’VI) son semejantes, porque
+según la ley de la reflexión, sus ángulos en V son iguales. Por consiguiente, se escribe
+(1)
+Esta ecuación es la ecuación 23.4, de la definición de la ecuación 23.1. El signo negati-
+vo que se agregó aquí indica que la imagen es invertida, por lo que hi es negativa.
+El rayo focal que pasa por F también forma triángulos semejantes, el O’FO y el
+VFA, suponiendo, aproximadamente, que el espejo es pequeño en comparación con su
+radio. (¿Por qué son semejantes esos triángulos?) Las bases de esos triángulos son 
+VF /H11005f y OF /H11005d
+o /H11002f. Entonces, si VA/H11005hi,
+(2)
+De nuevo, el signo negativo agregado aquí indica que la imagen es invertida, por lo
+que hi es negativa.
+Igualando las ecuaciones 1 y 2 se obtiene
+(3)di
+do
+=
+f
+do - f
+hi
+ho
+=-  
+VF
+OF =-  
+f
+do - f
+hi
+ho
+=-  
+di
+do
+M =-  
+di
+do
+Nota: un recurso que le ayudará 
+a recordar que el aumento es 
+sobre es que la relación guarda
+orden alfabético (“i” antes que 
+la “o”).
+d
+o
+di
+Nota: es el valor absoluto de
+M: es su magnitud sin tener en
+cuenta su signo. Por ejemplo,
+ƒ+2ƒ = ƒ-2ƒ = 2.
+ƒMƒ
+
+738 CAPÍTULO 23 Espejos y lentes
+La manipulación algebraica da
+que es la ecuación del espejo esférico (ecuación 23.3).
+Ejemplo 23.3 ■ ¿Qué clase de imagen? Características 
+de un espejo cóncavo
+Un espejo cóncavo tiene 30 cm de radio de curvatura. Si un objeto se coloca a a) 45 cm, 
+b) 20 cm y c) 10 cm del espejo, ¿dónde se forma la imagen y cuáles son sus características?
+(Especifique si la imagen es real o virtual, derecha o invertida y aumentada o reducida.)
+Razonamiento. En este caso el dato es R, de donde se puede calcular f /H11005R/2. También se
+dan tres distancias distintas al objeto, que se pueden sustituir en las ecuaciones 23.3 y 23.4
+para calcular la ubicación y determinar las características de la imagen.
+Solución.
+Dado: entonces Encuentre: di, M y determine las características 
+de la imagen para las distancias  
+dadas al objeto
+Observe que los datos de distancia al objeto corresponden a las regiones que se ven en la
+figura 23.7a. No hay necesidad de convertirlas a metros, siempre y cuando todas las dis-
+tancias se manejen con la misma unidad (centímetros, en este caso). Es recomendable tra-
+zar los diagramas de rayos respectivos de cada uno de esos casos para determinar las ca-
+racterísticas de cada imagen.
+a) En este caso, la distancia al objeto es mayor que el radio de curvatura (d
+o /H11022R) y
+Entonces
+Por lo anterior, la imagen es real (di es positiva), invertida (M es negativo) y tiene la mitad
+del tamaño que el objeto
+b) Aquí, R /H11022do /H11022f y el objeto está entre el foco y el centro de curvatura:
+Entonces
+En este caso, la imagen es real ( di es positiva), invertida (M es negativo) y tiene un tama-
+ño triple en relación con el del objeto
+c) Para este caso, do /H11021f y el objeto está más cerca del espejo que el foco. 
+Se usa la forma alternativa de la ecuación 23.3:
+Entonces
+En este caso, la imagen es virtual (di es negativa), derecha (M es positivo) y tiene un tama-
+ño triple en relación con el del objeto
+Se puede ver, en el denominador de la ecuación de di, que di siempre será negativa
+cuando do sea menor que f. En consecuencia, siempre se forma imagen virtual de un obje-
+to que está entre el foco y un espejo convergente.
+Ejercicio de refuerzo. Para el espejo convergente de este ejemplo, ¿dónde se forma la ima-
+gen y cuáles son sus características si el objeto está a 30 cm del espejo, es decir, sido /H11005R?
+1ƒMƒ = 32.
+M =-  
+di
+do
+=-  
+1-30 cm2
+10 cm =+ 3.0
+di =
+do
+ f
+do - f =
+110 cm2115 cm2
+10 cm - 15 cm =- 30 cm
+1ƒMƒ = 32.
+di =+ 60 cm y M =-  
+60 cm
+20 cm
+=- 3.0
+1
+di
+= 1
+15 cm - 1
+20 cm = 1
+60 cm
+AƒMƒ = 1
+2B.
+di = 45 cm
+2
+=+ 22.5 cm y M =-  
+di
+do
+=-  
+22.5 cm
+45 cm
+=-  
+1
+2
+1
+do
++ 1
+di
+= 1
+f o 1
+di
+= 1
+f - 1
+do
+= 1
+15 cm
+- 1
+45 cm
+= 2
+45 cm
+ c) do = 10 cm
+ b) do = 20 cm
+ a) do = 45 cm
+ f = R>2 = 15 cm
+ R = 30 cm,
+1
+do
++ 1
+di
+= 1
+f
+
+23.2 Espejos esféricos 739
+F C
+Imagen virtual
+R
+dido
+Objeto
+1
+23
+> FIGURA 23.9 Espejo divergente
+Diagrama de rayos de un espejo 
+divergente. Véase el Ejemplo 
+integrado 23.4.
+Sugerencia para resolver problemas
+Al aplicar las ecuaciones del espejo esférico para determinar las características de la
+imagen, es útil hacer primero un esquema rápido (aproximado, no necesariamente a
+escala) del diagrama de rayos para el caso que se examina. Ese esquema indicará las
+características de la imagen y ayudará a evitar errores cuando se apliquen las conven-
+ciones de signos. El diagrama de rayos y la solución matemática deben concordar.
+Ejemplo integrado 23.4 ■ Semejanzas y diferencias: 
+comportamiento de un espejo convexo
+Un objeto (en este caso una vela) está a 20 cm frente a un espejo divergente cuya distancia
+focal es de /H1100215 cm (véase las convenciones de signos en la tabla 23.2). a) Con un diagrama
+de rayos, determine si la imagen que se forma es 1) real, derecha y aumentada, 2) virtual,
+derecha y aumentada, 3) real, derecha y reducida, 4) virtual, derecha y reducida, 5) real, in-
+vertida y aumentada o 6) virtual, invertida y reducida. b) Determine la ubicación y las ca-
+racterísticas de la imagen aplicando las ecuaciones del espejo.
+a) Razonamiento conceptual. Como se conocen la distancia al objeto y la distancia focal
+del espejo convexo, se traza un diagrama de rayos para determinar las características de
+la imagen. Lo primero que se necesita es elegir una escala para el diagrama de rayos. En
+este ejemplo se podría usar la escala de 1 cm (en el dibujo) para representar a 10 cm en la
+realidad. De esta forma, el objeto estaría a 2.0 cm frente al espejo en el dibujo. Se trazan el
+eje óptico, el espejo, el objeto (una vela encendida) y el foco (F). Como este espejo es con-
+vexo, el foco ( F) y el centro de curvatura ( C) están detrás del espejo. De acuerdo con la
+ecuación 23.2, R /H110052f /H110052(/H1100215 cm) /H11005/H1100230 cm. Entonces, C se traza al doble de la distancia
+de F con respecto al vértice.
+Sólo son necesarios dos de los tres rayos para ubicar la imagen (
+▼figura 23.9). El rayo
+paralelo 1 comienza en la punta de la llama, va paralelo al eje óptico y después diverge del
+espejo, después de la reflexión, como si viniera de F. El rayo radial 2 comienza en la punta
+de la llama, parece pasar por C y a continuación se refleja directo hacia atrás, pero parece
+provenir de C. Se ve con claridad que esos dos rayos, después de reflejarse, divergen entre
+sí, y no hay posibilidad de que se crucen. Sin embargo, ambos parecen salir de un punto co-
+mún detrás del espejo: el punto de la imagen de la punta de la llama. También se traza el
+rayo focal 3, para comprobar que los tres parecen emanar del mismo punto de la imagen.
+Así, la imagen es virtual, ya que los rayos reflejados en realidad no vienen de 
+un punto tras el espejo; es derecha y es menor que el objeto. Por lo tanto, la respuesta 
+correcta es la 4 (virtual, derecha y reducida). Si se mide en el diagrama (teniendo en
+cuenta la escala que se está usando), se encuentra que y que el aumento es
+M = h
+i
+ho
+L 0.5 cm
+1.2 cm =+ 0.4.
+di L- 9.0 cm,
+(continúa en la siguiente página)
+Exploración 35.5 Espejos convexos, 
+foco y radio de curvatura
+
+EjeC
+Plano
+focal
+F
+▲ FIGURA 23.10 Aberración esférica
+de un espejo De acuerdo con la
+aproximación para ángulos 
+pequeños, los rayos paralelos al eje
+del espejo, y cercanos a él, convergen
+en el foco. Sin embargo, cuando los
+rayos paralelos no están cerca del eje,
+se reflejan y convergen frente al foco.
+Este efecto se llama aberración esférica
+y produce imágenes borrosas.
+740
+CAPÍTULO 23 Espejos y lentes
+a) Lente biconvexa (convergente) b) Lente bicóncava (divergente)
+Eje principal
+R1
+R2 R2R1
+N FIGURA 23.11 Lentes esféricas
+Las lentes esféricas tienen sus 
+superficies definidas por dos 
+esferas; las superficies pueden 
+ser convexas o cóncavas. Lentes 
+a) biconvexas y b) bicóncavas. 
+Si R
+1 /H11005R2, una lente tiene 
+simetría esférica.
+b) Razonamiento cuantitativo y solución. Los datos son la distancia al objeto y la distancia
+focal. La posición y las características de la imagen se determinan con las ecuaciones del
+espejo.
+Dado: Encuentre: y las características de la imagen
+Note que la distancia focal es negativa en un espejo convexo (véase la tabla 23.2). Con la
+ecuación 23.3, se tiene
+de manera que
+Entonces
+Así, la imagen es virtual ( d
+i es negativa), derecha (M es positivo) y su tamaño (altura) es
+0.43 veces el del objeto. Como f es negativa, la imagen de un objeto real siempre es virtual
+si el espejo es divergente (o convexo). (¿Podría probar esto utilizando ya sea un diagra-
+ma de rayos o la ecuación del espejo?)
+Ejercicio de refuerzo. Como se hizo notar, un espejo divergente siempre forma una ima-
+gen virtual de un objeto real. ¿Qué hay de las demás características de la imagen: su
+orientación y su aumento? ¿Es posible establecer conclusiones generales acerca de ellas?
+Aberraciones en los espejos esféricos
+Desde el punto de vista técnico, las descripciones que se han dado de las características
+de la imagen en los espejos esféricos sólo son ciertas para objetos que estén cerca del eje
+óptico, esto es, sólo para ángulos pequeños de incidencia y de reflexión. Si no se cum-
+plen estas condiciones, las imágenes serán borrosas, es decir, estarán desenfocadas (o
+fuera de foco), o distorsionadas, porque no todos los rayos van a converger en el mismo
+plano. Como se observa en la 
+>figura 23.10, los rayos paralelos incidentes lejos del eje óp-
+tico no convergen en el foco. Cuanto más lejano está el rayo incidente del eje, más lejos
+del foco estará el rayo reflejado. Este efecto se conoce como aberración esférica.
+La aberración esférica no sucede en un espejo parabólico. (Como indica su nombre, el
+espejo parabólico tiene la forma de una parábola.) Todoslos rayos incidentes paralelos al eje
+óptico de ese espejo tienen un foco común. Por esta razón se usan espejos parabólicos en
+la mayoría de los telescopios astronómicos, como se verá en el capítulo 24. Sin embargo,
+es más difícil fabricar esos espejos que los esféricos, por lo que son más costosos.
+23.3 Lentes
+OBJETIVOS: a) Diferenciar entre lentes convergentes y divergentes, b) describir las
+imágenes que producen y sus características y c) determinar las ubi-
+caciones y las características de las imágenes mediante diagramas
+de rayos y ecuaciones para lentes delgadas.
+La palabra lente proviene de la palabra latina lentil, que significa lenteja; la forma de esta
+leguminosa es similar a la de una lente común. Una lente óptica se fabrica con un material
+transparente (el más común es el vidrio, aunque a veces se utiliza plástico o cristal). Una
+o ambas superficies tienen contorno esférico. Las lentes esféricas biconvexas (con ambas
+superficies convexas) y las bicóncavas (ambas superficies cóncavas) se ven en la 
+▼figura
+23.11. Las lentes forman imágenes al refractar la luz que pasa por ellas.
+M =-  
+di
+do
+=-  
+1-8.6 cm2
+20 cm =+ 0.43
+di =-  
+60 cm
+7 =- 8.6 cm
+1
+20 cm + 1
+di
+= 1
+-15 cm
+ f =- 15 cm
+di , M do = 20 cm
+Ilustración 33.1 Espejos 
+y la aproximación del 
+ángulo pequeño
+
+Plano-
+cóncava
+Menisco
+cóncava
+Bicóncava
+Plano-
+convexa
+Menisco
+convexa
+Biconvexa
+Lentes divergentes
+Lentes convergentes
+▲ FIGURA 23.14 Formas de lentes
+Las formas de las lentes varían 
+mucho, y normalmente se clasifican
+como convergentes y divergentes.
+En general, una lente convergente
+es más gruesa en su centro que en 
+la periferia, mientras que una lente
+divergente es más delgada en el
+centro que en la periferia.
+Lente bicóncava (divergente)
+Lente divergente
+F
+▲ FIGURA 23.13 Lente divergente
+Los rayos paralelos al eje de una
+lente bicóncava o divergente parecen
+emanar de un foco en el lado de 
+incidencia de la lente.
+F
+Lente convergente
+a) Lente biconvexa (convergente)  b)
+> FIGURA 23.12 Lentes convergen-
+tes a) En una lente biconvexa 
+delgada, los rayos paralelos al eje
+convergen en el foco F. b) Una lente
+de aumento (lente convergente)
+puede enfocar los rayos de Sol 
+en un punto, y los resultados 
+son incendiarios. ¡Nunca intente 
+esto en el hogar!
+23.3 Lentes 741
+Una lente biconvexa es una lente convergente: los rayos de luz incidentes parale-
+los al eje de la lente convergen en un foco ( F) en el lado opuesto de la lente ( ▲ figura
+23.12a). Este hecho constituye una forma de determinar experimentalmente la distan-
+cia focal de una lente convergente. Quizá usted haya enfocado los rayos del Sol con
+una lupa (una lente biconvexa o convergente) y habrá atestiguado la concentración de
+la energía radiante que se obtiene (figura 23.12b). 
+Por otra parte, una lente bicóncava es una lente divergente: los rayos de luz inci-
+dentes y paralelos salen de ésta como si emanaran de un foco que estuviera en el lado de
+incidencia de la lente (
+Nfigura 23.13). 
+Hay varios tipos de lentes convergentes y divergentes ( Nfigura 23.14). Las lentes
+menisco son las que más se usan en los anteojos. En general, una lente convergente 
+es más gruesa en su centro que en su periferia, y una divergente es más delgada en su
+centro que en su periferia. Esta explicación se limitará a las lentes biconvexas y bicón-
+cavas, de simetría esférica, en las que ambas superficies tienen el mismo radio de cur-
+vatura.
+Cuando la luz pasa por el interior de una lente, se refracta y se desplaza en senti-
+do lateral (ejemplo 22.4, figura 22.11). Si una lente es gruesa, este desplazamiento po-
+dría ser bastante considerable, lo que complicaría el análisis de las características de la
+lente. Este problema no se presenta con lentes delgadas, para las que el desplazamien-
+to refringente (es decir, causado por la refracción) de la luz transmitida es insignifican-
+te. Nuestra descripción se limitará a las lentes delgadas. Una lente delgada es aquella
+cuyo grosor se supone insignificante en comparación con la distancia focal.
+Al igual que un espejo esférico, una lente de caras esféricas tiene, para cada superfi-
+cie, un centro de curvatura ( C), un radio de curvatura ( R), un foco (F) y una distancia
+focal ( f ). Los focos están a distancias iguales a ambos lados de una lente delgada. Sin
+embargo, para una lente esférica, la distancia focal no está relacionada simplemente
+con R mediante  f /H11005R/2, como sucede con los espejos esféricos. Como la distancia fo-
+cal también depende del índice de refracción de la lente, por lo general sólo se especi-
+fica la distancia focal y no su radio de curvatura. Esto se analizará en el apartado 23.4.
+Las reglas generales para trazar diagramas de rayos con lentes son similares a las que
+se utilizan para los espejos esféricos, pero se necesitan algunas modificaciones, porque la
+luz pasa a través de la lente. Las caras opuestas de una lente, en general, se distinguen con
+los nombres de lado del objeto y lado de la imagen. El lado del objeto es la cara frente a la cual
+está el objeto, y el lado de la imagen es el lado contrario de la lente (donde se formaría una
+imagen real). Los tres rayos de un punto de un objeto se trazan como sigue (véase la sec-
+ción Aprender dibujando para el ejemplo 23.5 en la p. 743):
+1. Un rayo paraleloes, como su nombre lo indica, paralelo al eje óptico de la lente en la
+incidencia y, después de la refracción, a) pasa por el foco del lado de la imagen en
+una lente convergente, o bien, b) parece emanar del foco en el lado del objeto de una
+lente divergente.
+Ilustración 35.1 Lentes y la 
+aproximación de las lentes delgadas
+
+742 CAPÍTULO 23 Espejos y lentes
+2. Un rayo central o principal es el que pasa por el centro de la lente, y no se desvía
+porque ésta es “delgada”.
+3. Un rayo focal es el que a) pasa por el foco del lado del objeto en una lente conver-
+gente, o bien, b) parece pasar a través del foco en el lado de la imagen de una lente
+divergente y, después de la refracción, es paralelo al eje óptico de la lente.
+Como en el caso de los espejos esféricos, sólo se necesitan dos rayos para determi-
+nar la imagen; aquí se usarán el paralelo y el central. (También, como en el caso de los
+espejos, se aconseja incluir el tercer rayo, el rayo focal, como comprobación en los dia-
+gramas.)
+Ejemplo 23.5 ■ Aprender dibujando: diagrama de rayos para lentes
+Un objeto se coloca a 30 cm frente a una lente biconvexa delgada de 20 cm de distancia fo-
+cal. a) Utilice un diagrama de rayos para ubicar la imagen. b) Describa las características
+de la imagen.
+Razonamiento. Recuerde los pasos que se siguieron en el diagrama de rayos anterior.
+Solución.
+Dado: Encuentre: a) la ubicación de la imagen 
+(con un diagrama de rayos)
+b) las características de la imagen
+a) Como se pide hacer un diagrama de rayos (véase la sección Aprender dibujando, que
+acompaña a este ejemplo) para ubicar la imagen, lo primero que hay que hacer es definir
+una escala para el dibujo. En este ejemplo se utiliza una escala de 1 cm en el dibujo para
+representar 10 cm en la realidad. De esa forma, el objeto estaría a 3.00 cm frente a la lente
+en nuestro dibujo.
+Primero se trazarán el eje óptico, la lente, el objeto (una vela encendida) y los focos
+(F). Se traza una línea vertical punteada en el centro de la lente porque, para simplificar, la
+refracción de los rayos se ilustra como si sucediera en el centro de cada lente. En realidad,
+sucede en las superficies aire-vidrio y vidrio-aire de cada lente.
+Se siguen los pasos 1 a 4 de la sección Aprender dibujando:
+1. El primer rayo que se traza es el paralelo ( en la figura). Desde la punta de la llama
+se traza un rayo horizontal (paralelo al eje óptico). Después de pasar por la lente, pasa por
+el foco F en el lado de la imagen.
+2. A continuación se traza el rayo central ( en la figura). Desde la punta de la llama se
+traza un rayo que pase por el centro de la lente. Ese rayo pasará sin desviarse por la len-
+te delgada en el lado de la imagen.
+3. Se observa con claridad que estos dos rayos se cruzan en el lado de la imagen. El pun-
+to de intersección es el punto de la imagen de la punta de la llama. A partir de ahí, se tra-
+za el resto de la imagen avanzando hacia el eje óptico.
+4. Sólo se necesitan dos rayos para ubicar la imagen. Sin embargo, si se quiere trazar el
+tercer rayo, en este caso el rayo focal ( en la figura), éste debe pasar por el mismo pun-
+to de la imagen en el que se intersecan los otros dos rayos (si el diagrama se traza con cui-
+dado). El rayo de la punta de la llama, que pasa por el foco F en el lado del objeto, saldrá
+paralelo al eje óptico en el lado de la imagen.
+b) De acuerdo con el diagrama de rayos que se trazó en el inciso a se observa con clari-
+dad que la imagen es real (porque los rayos se cruzan en el lado de la imagen). En conse-
+cuencia, se podría captar la imagen real en una pantalla (por ejemplo, en un trozo de
+papel) colocada a la distancia d
+i de la lente convergente. Además, la imagen es invertida
+(la imagen de la vela apunta hacia abajo) y es mayor que el objeto.
+En este caso, do /H1100530 cm y f /H1100520 cm, por lo que 2f /H11022do /H11022f. Si se usan los diagramas
+de rayos correspondientes, se podrá demostrar que para do entre estos límites, la imagen
+siempre es real, aumentada e invertida. Por cierto, el proyector de filminas del salón de
+clase usa este arreglo en particular.
+Ejercicio de refuerzo. En este ejemplo, ¿cómo se vería la imagen si el objeto estuviera a
+10 cm frente a la lente? Ubique la imagen de forma gráfica y describa sus características.
+➂
+➁
+➀
+ f = 20 cm
+ do = 30 cm
+Exploración 35.2 Diagramas 
+de rayos
+
+23.3 Lentes 743
+APRENDER DIBUJANDO Diagrama de rayos para lentes 
+(véase el ejemplo 23.5)
+2
+1Objeto
+Imagen real
+FF
+do di
+2
+1Objeto
+FF
+do
+1Objeto
+FF
+do
+2
+1Objeto
+Imagen real
+FF
+do di
+3
+1
+2
+3
+4
+Rayo paralelo
+Rayo central
+Ubicación de  
+la imagen
+También se 
+traza el rayo 
+focal para verificar
+
+744 CAPÍTULO 23 Espejos y lentes
+Lente convexa
+F
+do = 2f
+Real invertida
+y del mismo 
+en el tamaño
+Real, 
+invertida, 
+reducida
+Virtual, 
+derecha, 
+aumen-
+tada
+Lente
+(
+do > 2f ) (2f > do > f )
+do = f
+Imagen 
+en el 
+infinito
+2F
+(do < f )
+Real, 
+invertida, 
+aumentada
+N FIGURA 23.16 Lente convergente
+Para una lente convexa o conver-
+gente, el objeto se puede ubicar en
+una de las tres regiones definidas
+por el foco (F) y el doble de la 
+distancia focal (2f), o en uno de
+esos dos puntos. Cuando d
+o /H110222f, la 
+imagen es real, invertida y reducida
+(figura 23.15a). Cuando 2f /H11022d
+o /H11022f, 
+la imagen también es real e invertida,
+pero aumentada, como se ve en los
+diagramas de rayos del ejemplo
+23.5. Cuando d
+o /H11021f, la imagen es
+virtual, derecha y aumentada 
+(figura 23.15b).
+F
+b) Lente convexa, do < f
+F
+Objeto
+2
+Imagen (virtual, 
+derecha y 
+aumentada)
+d
+i
+a) Lente convexa, do > 2f
+Objeto
+1
+2
+3
+F
+F
+dido
+1
+do
+Imagen (real, invertida  
+y reducida)
+▲ FIGURA 23.15 Diagramas de rayos para lentes a) Una lente convergente biconvexa 
+forma un objeto real cuando do /H110222f. La imagen es real, invertida y reducida. b) Diagrama de
+rayos para una lente divergente con do /H11021f. La imagen es virtual, derecha y aumentada. Se
+muestran los ejemplos prácticos de ambos casos. (Véase el pliego a color al final del libro.)
+La ▲ figura 23.15 muestra otros diagramas de rayos, con distintas distancias al ob-
+jeto, para una lente convergente; también se ven sus aplicaciones en la vida real. La
+imagen de un objeto es real cuando se forma o se proyecta en el lado opuesto de la len-
+te al que está el objeto (véase la figura 23.15a) y es virtual cuando se forma del mismo
+lado de la lente en el que está el objeto (véase la figura 23.15b).
+Se podrían definir regiones de distancia del objeto para una lente convergente de
+forma semejante a como se hizo con un espejo convergente en la figura 23.7a. En este
+caso, una distancia al objeto d
+o /H110052f para una lente convergente tiene importancia simi-
+lar a la de do /H11005R /H110052f para un espejo convergente (▼ figura 23.16).
+El diagrama de rayos para una lente divergente se describirá dentro de poco. Al
+igual que los espejos divergentes, las lentes divergentes sólo pueden formar imágenes
+virtuales.
+
+23.3 Lentes 745
+Convención de signos para lentes delgadas
+Distancia focal ()
+Lentes convergentes (también llamadas lentes positivas) es positiva
+Lentes divergentes (también llamadas lentes negativas) es negativa
+Distancia al objeto
+El objeto está frente a la lente (objeto real) es positiva
+El objeto está atrás de la lente (objeto virtual)* es negativa
+Distancia a la imagen (di)y tipo de imagen
+La imagen se forma en el lado de la imagen de es positiva
+la lente: el lado opuesto al del objeto (imagen real)
+La imagen se forma en el lado del objeto de la lente es negativa
+el mismo lado donde está el objeto (imagen virtual)
+Orientación de la imagen (M)
+La imagen está derecha con respecto al objeto M es positivo
+La imagen está invertida con respecto al objeto M es negativo
+*En una combinación de dos (o más) lentes, la imagen que forma la primera lente se considera como
+el objeto de la segunda lente (y así sucesivamente). Si esta imagen-objeto está atrás de la segunda
+lente, se llama objeto virtual, y se considera que la distancia al objeto es negativa (/H11002).
+di
+di
+do
+do
+(do)
+f
+f
+f
+TABLA 23.3
+Las distancias a la imagen y las características de una lente también se pueden de-
+terminar de forma analítica. Las ecuaciones para lentes delgadas son idénticas a las de
+los espejos esféricos. La ecuación de lentes delgadas es
+ecuación de lentes delgadas
+(23.5)
+Al igual que en el caso de los espejos esféricos, existe una forma alternativa a la
+ecuación de lentes delgadas
+(23.5a)
+que es una forma fácil y rápida de encontrar di.
+El factor de amplificación, al igual que en el caso de los espejos esféricos, se deter-
+mina mediante
+(23.6)
+Las convenciones de signos para estas ecuaciones de lentes delgadas se presentan
+en la tabla 23.3.
+Igual que cuando se trabaja con espejos, resulta útil trazar un diagrama de rayos
+antes de resolver un problema de lentes de forma analítica.
+Ejemplo 23.6 ■ Tres imágenes: comportamiento 
+de una lente convergente
+Una lente biconvexa tiene 12 cm de distancia focal. Para un objeto que esté a a) 60 cm, 
+b) 15 cm y c) 8.0 cm de la lente, ¿dónde se forma la imagen y cuáles son sus características?
+Razonamiento. Con la distancia focal (f ) y las distancias al objeto (do) se aplica la ecuación
+23.5 para determinar las distancias a la imagen (di), y la ecuación 23.6 para definir las carac-
+terísticas de esta última. Se trazan los rayos para todos esos casos, con el fin de tener una idea
+de las características de la imagen. Los diagramas deberían concordar con los cálculos.
+Solución.
+Dado: Encuentre: di y las características de la 
+imagen para los tres casos
+ c) do = 8.0 cm
+ b) do = 15 cm
+ a) do = 60 cm
+ f = 12 cm
+M =-  
+di
+do
+di =
+do
+ f
+do - f
+1
+do
++ 1
+di
+= 1
+f
+(continúa en la siguiente página)
+Exploración 35.3 Movimiento 
+de una lente
+
+746 CAPÍTULO 23 Espejos y lentes
+a) La distancia al objeto es mayor que el doble de la distancia focal ( do /H110222 f ) . Con la
+ecuación 23.5,
+o
+Entonces
+La imagen es real (di es positiva), invertida (M es negativo) y de la cuarta parte del tama-
+ño del objeto (|M| /H110050.25). Este arreglo se usa en las cámaras, cuando la distancia al ob-
+jeto es mayor que 2f (do /H110222f).
+b) Aquí, 2f /H11022do /H11022f. Se aplica la ecuación 23.5,
+Entonces
+La imagen es real (di es positiva), invertida (M es negativo) y tiene cuatro veces el tamaño
+del objeto (|M| /H110054.0). Éste es el caso del proyector de filminas y del proyector de diapo-
+sitivas (2f /H11022do /H11022f ) .
+c) Para este caso, do /H11021f. Se usa la forma alternativa (ecuación 23.5a),
+Entonces
+La imagen es virtual (di es negativa), es derecha (M es positivo) y tiene tres veces el tama-
+ño del objeto (|M| /H110053.0). Es el caso de un microscopio simple y el de una lupa (do /H11021f).
+Como podrá darse cuenta, las lentes convergentes son versátiles. Dependiendo de la
+distancia al objeto (relativa a la longitud focal), la lente puede utilizarse como una cáma-
+ra, un proyector o una lente de aumento.
+Ejercicio de refuerzo. Si la distancia de una lente convexa a un objeto se hace variar, 
+¿a qué distancia deja la imagen real de reducirse para comenzar a aumentar?
+Ejemplo conceptual 23.7 ■ ¿Media imagen?
+Una lente convergente forma una imagen en una pantalla, como se ilustra en la Nfigura
+23.17a. Después, se cubre la mitad inferior de la lente, como se ve en la figura 23.17b. El
+resultado será que a) sólo la mitad superior de la imagen original se verá en la pantalla;
+b) sólo la mitad inferior de la imagen original se verá en la pantalla o c) se verá la imagen
+completa.
+Razonamiento y respuesta. En principio, tal vez usted imagine que al cubrir la mitad de
+la lente se elimina la mitad de la imagen. Sin embargo, los rayos de cada punto del objeto
+pasan por todas las partes de la lente. Por consiguiente, la mitad superior de la lente puede
+formar una imagen total (al igual que la mitad inferior), de manera que la respuesta co-
+rrecta es c.
+Esta conclusión se confirma trazando un rayo central en la figura 23.17b. Usted tam-
+bién podría aplicar el método científico y realizar la prueba, sobre todo si usa anteojos.
+Cubra la mitad inferior de los anteojos, y verá que todavía puede leer a través de la par-
+te superior (a menos que use bifocales).
+Ejercicio de refuerzo. ¿Qué propiedad de la imagen podría afectarse al bloquear la mitad
+de una lente? Explique por qué.
+M =-  
+di
+do
+=-  
+1-24 cm2
+8.0 cm =+ 3.0
+di =
+do
+ f
+do - f =
+18.0 cm2112 cm2
+8.0 cm - 12 cm =- 24 cm
+di = 60 cm y M =-  
+di
+do
+=-  
+60 cm
+15 cm
+=- 4.0
+1
+di
+= 1
+12 cm - 1
+15 cm = 5
+60 cm - 4
+60 cm = 1
+60 cm
+di = 15 cm y M =-  
+di
+do
+=-  
+15 cm
+60 cm
+=-  0.25
+ 1
+di
+= 1
+f - 1
+do
+= 1
+12 cm - 1
+60 cm = 5
+60 cm - 1
+60 cm = 4
+60 cm = 1
+15 cm
+ 1
+do
++ 1
+di
+= 1
+f
+Exploración 35.1 Formación 
+de imágenes
+
+23.3 Lentes 747
+ a)  b)
+?
+Pantalla Pantalla
+▲ FIGURA 23.17 ¿Media lente, media imagen?a) Una lente convergente forma una imagen en una panta-
+lla. b) Se cubre la mitad inferior de la lente. ¿Qué le pasa a la imagen? Véase el Ejemplo conceptual 23.7.
+/g70
+/g100i
+/g100o
+2
+Imagen (virtual,
+derecha y 
+reducida)
+Objeto
+3
+1
+/g70
+▲ FIGURA 23.18 Lente divergente
+Diagrama de rayos de una lente 
+divergente. En este caso la imagen
+es virtual, derecha y menor que el
+objeto y se encuentra frente a la 
+lente. Véase el Ejemplo integrado
+23.8.
+Ejemplo integrado 23.8 ■ Tiempo de cambio: comportamiento 
+de una lente divergente
+Un objeto está a 24 cm frente a una lente divergente cuya distancia focal es de /H1100215 cm. 
+a) Utilice un diagrama de rayos para determinar si la imagen es 1) real y aumentada, 
+2) virtual y reducida 3) real y derecha o 4) derecha y aumentada. b) Determine la ubica-
+ción y características de la imagen con las ecuaciones para lentes delgadas.
+a) Razonamiento conceptual. (Véase las convenciones de signos en la tabla 23.3.) De nue-
+vo se adoptará una escala en que 1 cm (en el dibujo de la Nfigura 23.18) represente 10 cm.
+De esta forma, el objeto estará a 2.4 cm frente a la lente en el dibujo. Se traza el eje óptico, la
+lente, el objeto (en este caso, una vela encendida), el foco (F) y una línea vertical punteada
+que pase por el centro de la lente.
+El rayo paralelo comienza en la punta de la llama, viaja paralelo al eje óptico, di-
+verge después de refractarse en la lente y parece proceder de F en el lado del objeto. El
+rayo central se origina en la punta de la llama y pasa por el centro de la lente, sin cam-
+biar de dirección. Se ve con claridad que esos dos rayos, después de refractarse, divergen
+y no se intersecan. Sin embargo, parece que provienen del frente de la lente (lado del ob-
+jeto), y esa intersección aparente es el punto de imagen de la punta de la llama. También
+se traza el rayo focal , para comprobar que esos rayos parecen provenir del mismo pun-
+to de imagen. Parece que el rayo focal pasa por el foco del lado de la imagen y va parale-
+lo al eje óptico, después de refractarse en la lente.
+Esta imagen es virtual (¿por qué?), derecha y menor que el objeto, de manera que la res-
+puesta correcta es la 2: virtual y reducida. Midiendo en el diagrama (y teniendo en cuenta la
+escala que se usa) se ve que (imagen virtual), y que 
+b) Razonamiento cuantitativo y solución.
+Dado: Encuentre: a) di, M y las características 
+f /H11005/H1100215 cm (lente divergente) de la imagen
+Note que la distancia focal es negativa para una lente divergente (véase la tabla 23.3) . De
+acuerdo con la ecuación 23.5, 
+y así
+Entonces
+Así, la imagen es virtual (di es negativa), derecha (M es positivo) y tiene 0.38 veces el tama-
+ño (la altura) del objeto. Como f es negativa para una lente divergente, di siempre es negati-
+va para cualquier valor positivo de do, así que la imagen de un objeto real siempre es virtual.
+Ejercicio de refuerzo. Una lente divergente forma siempre una imagen virtual de un ob-
+jeto real. ¿Qué afirmaciones generales se pueden formular acerca de la orientación y del
+aumento de la imagen?
+Una clase especial de lente que tal vez usted conoce se describe la sección A fondo
+23.2 (lentes de Fresnel) en la p. 748.
+M =-  
+di
+do
+=-  
+1-9.2 cm2
+24 cm =+ 0.38
+di =-  
+120 cm
+13 =- 9.2 cm
+1
+24 cm
++ 1
+di
+= 1
+-15 cm
+ o 1
+di
+= 1
+-15 cm
+- 1
+24 cm
+=-  
+13
+120 cm
+ do = 24 cm
+M = hi
+ho
+L 0.5 cm
+1.4 cm =+ 0.4.di L- 9 cm
+➂
+➁
+➀
+Ilustración 35.2 Imagen de una 
+lente divergente
+
+748 CAPÍTULO 23 Espejos y lentes
+23.2 Lentes de Fresnel
+Para enfocar luz de rayos paralelos, o para producir un gran haz
+de rayos paralelos, se necesita una lente convergente de gran ta-
+maño. La gran masa de vidrio necesaria para formar esa lente es
+voluminosa y pesada. Además, una lente gruesa absorbe algo de
+la luz y es probable que genere distorsiones. El físico francés Au-
+gustin Fresnel (1788-1827) desarrolló una solución para este pro-
+blema, que se aplica en las lentes de los faros. Fresnel se dio cuenta
+de que la refracción de la luz sucede en las superficies de las lentes.
+Por consiguiente, es posible hacer que una lente sea más delgada
+—y casi plana— si se elimina vidrio del interior hasta el punto en
+que no se alteren las propiedades refringentes de las superficies.
+Esto se logra cortando una serie de surcos concéntricos en la
+superficie de la lente (figura 1a). Observe que la superficie de cada
+segmento curvo que queda es casi paralela a la superficie corres-
+pondiente de la lente original. Juntos, los segmentos concéntricos
+refractan la luz de la misma forma que la lente biconvexa original
+(figura 1b). De hecho, la lente sólo se ha adelgazado eliminando
+vidrio innecesario entre las superficies refringentes.
+Una lente con esa serie de superficies curvas concéntricas
+se llama lente de Fresnel. Esta clase de lentes se usa mucho en los
+proyectores de filminas y en los faros (figura 1c). Una lente de
+Fresnel es muy delgada y, por ende, mucho más ligera que una
+lente biconvexa convencional con las mismas propiedades ópti-
+cas. Además, las lentes de Fresnel se moldean con facilidad en
+plástico, con frecuencia con un lado plano (planoconvexas) pa-
+ra que se pueda fijar a una superficie de vidrio.
+Una desventaja de las lentes de Fresnel es que se ven los
+círculos concéntricos, cuando el observador las usa y cuando se
+proyecta la imagen que producen en una pantalla, como sucede
+con un proyector de filminas.
+A FONDO
+Combinaciones de lentes
+Muchos instrumentos ópticos, como los microscopios y los telescopios (capítulo 25)
+usan una combinación de lentes, es decir, son un sistema compuesto de lentes. Cuando
+en una combinación se usan dos o más lentes, es factible determinar la imagen general
+que se produce, examinando las lentes de forma individual. Esto es, la imagen que for-
+ma la primera lente se vuelve el objeto para la segunda, y así sucesivamente. Por este
+motivo presentaremos aquí los principios de combinación de lentes, antes de explicar
+los detalles de sus aplicaciones en la vida real.
+Si la primera lente produce una imagen frente a la segunda, esa imagen se consi-
+dera como objeto real ( d
+o es positiva) para la segunda ( Nfigura 23.19a). Sin embargo, 
+si las lentes están lo suficientemente cerca de manera que la imagen de la primera no
+se forme antes que los rayos pasen por la segunda (figura 23.19b), se debe hacer una
+modificación a la convención de signos. En este caso, la imagen de la primera lente se
+considera como objeto virtual para la segunda, y su distancia al objeto se considera de
+signo negativo en la ecuación de la lente (tabla 23.3).
+ a)
+ b)  c)
+FIGURA 1 Lentes de Fresnel
+a) El efecto concentrador de
+estas lentes se debe a la 
+refracción en sus superficies.
+Por consiguiente, es posible 
+reducir el espesor de una lente
+cortando ranuras concéntricas
+en un vidrio, para formar un
+conjunto de superficies curvas
+con las mismas propiedades
+refringentes que las de la lente
+de la que se derivan. b) Una
+lente de Fresnel plana, con 
+superficies curvas concéntri-
+cas, amplifica como si fuera
+una lente convergente bicon-
+vexa. c) Una serie de lentes de
+Fresnel produce haces lumino-
+sos enfocados en este faro del
+puerto de Boston. (De hecho,
+las lentes de Fresnel se 
+desarrollaron para usarse en
+los faros.) (Véase el pliego a
+color al final del libro.)
+Exploración 35.4 ¿Qué hay detrás 
+de la cortina?
+
+23.3 Lentes 749
+ a)
+L1
+L1
+L2
+L2
+F1
+F1
+F2
+F2
+Objeto
+Imagen de L1:
+objeto real para L2
+Imagen final 
+de L2
+ b)
+Imagen de L1:
+objeto virtual 
+para L2
+Imagen 
+final 
+de 
+L2Objeto
+1
+1
+1
+2
+2
+2
+3
+3
+3
+F2
+F2
+F1
+F1
+/H11032
+2/H11032
+/H11032
+/H11032
+1/H11032
+(− do2
+)
+3/H11032
+> FIGURA 23.19 Combinaciones 
+de lentes La imagen final que 
+produce un sistema compuesto de
+lentes se determina considerando
+que la imagen de una lente es el 
+objeto de la lente adyacente. a) Si la
+imagen de la primera lente (L
+1)s e
+forma frente a la segunda lente (L2),
+se dice que el objeto es real para la
+segunda lente. (Note que los rayos
+1’, 2’ y 3’ son los rayos paralelo,
+central y focal, respectivamente, 
+para L
+2. No son continuaciones 
+de los rayos 1, 2, 3, que son los 
+rayos paralelo, central y focal, 
+respectivamente, para L
+1.) b) Si los
+rayos pasan por la segunda lente
+antes de formar la imagen, se dice
+que el objeto para la segunda lente
+es virtual, y la distancia a la segun-
+da lente se toma como negativa.
+El aumento total (Mtotal) de un sistema compuesto es el producto de los factores in-
+dividuales de amplificación de las lentes que lo forman. Por ejemplo, para un sistema
+de dos lentes, como el de la figura 23.19,
+(23.7)
+Los signos convencionales de M1 y M2 se tienen en cuenta en el producto para indicar,
+con el signo de Mtotal, si la imagen final es derecha o invertida. (Véase el ejercicio 83.)
+Ejemplo 23.9 ■ Una oferta especial: una combinación de lentes 
+y un objeto virtual
+Se tienen dos lentes parecidos a los que se ven en la figura 23.19b. Supongamos que el ob-
+jeto está a 20 cm frente a la lente L1, cuya distancia focal es de 15 cm. La lente L2, con dis-
+tancia focal de 12 cm, está a 26 cm de L1. ¿Cuál es el lugar de la imagen final y cuáles son
+sus características?
+Razonamiento. Se trata de una doble aplicación de la ecuación para lentes delgadas. Las
+lentes se examinan de forma sucesiva. La imagen de la lente L1 se vuelve el objeto de 
+la lente L2. Se deben identificar muy bien las cantidades e indicar de forma adecuada las
+distancias (¡con signos!).
+Solución. Se tiene
+Dado: Encuentre: y las características
+de la imagen
+D /H1100526 cm (distancia entre las lentes)
+El primer paso es aplicar la ecuación de las lentes delgadas (ecuación 23.5) y el factor de
+amplificación para lentes delgadas (ecuación 23.6) a L1:
+o
+y
+La imagen de la lente L1 viene a ser el objeto para la lente L2. Esta imagen se encontra-
+rá entonces a a la derecha de L2, es decir, en el lado de
+la imagen. Por consiguiente, es un objeto virtual (véase la tabla 23.3), y (Re-
+cuerde que la do se toma como negativa para objetos virtuales.)
+do2 =- 34 cm.
+di1 - D = 60 cm - 26 cm = 34 cm
+M1 =-  
+di1
+do1
+=-  
+60 cm
+20 cm
+=- 3.0 1invertida y aumentada2
+di1 = 60 cm 1imagen real L12
+1
+di1
+= 1
+f1
+- 1
+do1
+= 1
+15 cm - 1
+20 cm = 4
+60 cm - 3
+60 cm = 1
+60 cm
+ f2 =+ 12 cm
+ f1 =+ 15 cm
+di2 do1 =+ 20 cm
+Mtotal = M1
+ M2
+(continúa en la siguiente página)
+
+750 CAPÍTULO 23 Espejos y lentes
+Convenciones de signos en la
+ecuación del fabricante de lentes
+Superficie convexa R es positivo
+Superficie cóncava R es negativa
+Superficie plana
+Lente convergente (positiva) es positivo
+Lente divergente (negativa) es negativa f
+f
+R = q
+TABLA 23.4
+A continuación se aplican las ecuaciones a la segunda lente, L2:
+o
+y
+(Nota: el objeto virtual para L2 era invertido, por lo que el término derecha quiere decir que
+también la imagen final es invertida.) El aumento total Mtotal es entonces
+El signo se incluye en los aumentos. Se determina entonces que la imagen final real
+está a 8.9 cm al lado derecho (el lado de la imagen) de L2, y que es invertida (signo nega-
+tivo) con respecto al objeto inicial; además, es reducida.
+Ejercicio de refuerzo. Supongamos que el objeto en la figura 23.19b estuviera a 30 cm
+frente a L1. ¿Dónde se formaría la imagen en este caso, y cuáles serían sus características?
+23.4 La ecuación del fabricante de lentes
+OBJETIVOS: a) Describir la ecuación del fabricante de lentes, b) explicar cómo 
+difiere de la ecuación de lentes delgadas y c) comprender la poten-
+cia de las lentes en dioptrías.
+El análisis de las lentes delgadas biconvexas y bicóncavas que se ha hecho hasta ahora
+en este capítulo ha sido relativamente fácil. Sin embargo, hay una diversidad de for-
+mas de lentes, como se ilustra en la figura 23.14. Para éstas, el análisis se complica, pe-
+ro es importante tomar en cuenta las distancias focales en las consideraciones ópticas,
+porque las lentes se tallan para fines y aplicaciones específicos.
+La refracción de una lente depende de las formas de sus superficies y del índice de
+refracción de su material. Esas propiedades, en conjunto, determinan la distancia focal
+de una lente delgada. La distancia focal de una lente delgada se determina con la ecua-
+ción del fabricante de lentes, que expresa la distancia focal de una lente delgada en el
+aire (n
+aire /H110051), como sigue:
+(para una lente delgada en el aire) (23.8)
+donde n es el índice de refracción del material de la lente y Rl y R2 son los radios de
+curvatura de las superficies primera (cara frontal) y segunda (cara posterior) de la len-
+te, respectivamente. (La primera superficie es aquella a la que llega por primera vez la
+luz que emite un objeto.)
+En la ecuación del fabricante de lentes se requiere tener una convención de signos
+(tabla 23.4). Los signos dependen sólo de la forma de la superficie, esto es, cóncava o
+convexa (
+Nfigura 23.20). Para la lente biconvexa de la figura 23.20a, tanto R1 como R2
+son positivos (ambas superficies son convexas) y para la lente bicóncava de la figura
+23.20b, tanto R1 como R2 son negativos (ambas superficies son cóncavas).
+Si la lente está rodeada de otro medio que no sea aire, el primer término de la
+ecuación 23.8 se convierte en ( n/nm) /H11002 1, donde n y nm los índices de refracción del
+material de la lente y del medio que la rodea, respectivamente. Ahora se puede ver por
+qué algunas lentes convergentes en el aire se vuelven divergentes en el agua: si n
+m /H11022n,
+entonces f es negativa y la lente es divergente.
+1
+f =1n - 12a 1
+R1
++ 1
+R2
+b
+Mtotal = M1
+ M2 =1-3.0210.262 =- 0.78
+M2 =-  
+di1
+do2
+=-  
+8.9 cm
+1-34 cm2
+= 0.26 1derecha y reducida2
+di2 = 8.9 cm 1imagen real2
+1
+di1
+= 1
+f2
+- 1
+do1
+= 1
+12 cm - 1
+1-34 cm2 = 23
+204 cm
+Exploración 35.5 Ecuación 
+del fabricante de lentes
+Exploración 34.1 Lentes e índices 
+de refracción variables
+
+23.4 La ecuación del fabricante de lentes 751
+Lente
+biconvexa
+R2C2
+C1
+R1
+R1: positivo (convexo)
+R2: positivo (convexo)
+ a)  b)
+Luz incidente
+Lente
+bicóncova
+R1
+C1 C2
+R2
+R1: negativo (cóncavo)
+R2: negativo (cóncavo)
+> FIGURA 23.20 Centros de 
+curvatura Las lentes a) biconvexas
+y b) bicóncavas tienen dos centros
+de curvatura, como en esta lente 
+biconvexa, que definen los signos
+de los radios de curvatura. Véase 
+la tabla 23.4.
+Potencia de la lente: dioptrías
+Note que la ecuación del fabricante de lentes (23.8) maneja la inversa de la distancia fo-
+cal, 1/f. Los optometristas usan esta relación inversa para expresar la potencia (P)d e
+una lente en unidades llamadas dioptrías (su símbolo es D). La potencia de la lente es
+el recíproco de su distancia focal expresada en metros:
+(23.9)
+Así, 1 D /H110051 m–1. La ecuación del fabricante de lentes expresa la potencia de una lente
+(1/f) en dioptrías, si los rayos de curvatura se expresan en metros.
+Si usted usa lentes habrá notado que la prescripción del optometrista mencionaba
+dioptrías. Las lentes convergentes y divergentes se consideran como lentes positivas (/H11001)
+y negativas (/H11002), respectivamente. Así, si un optometrista prescribe anteojos de corrección
+con /H110012 dioptrías de potencia, se trata de lentes convergentes con distancia focal de
+Cuanto mayor sea la potencia de la lente en dioptrías, menor es su distancia focal,
+y es más fuertemente convergente o divergente. Así, para corregir un problema de la
+vista más severo, se requieren lentes de mayor potencia y menor f que en el caso de un
+problema que se considera leve. 
+Ejemplo integrado 23.10 ■ Una lente menisco convexa: 
+convergente o divergente
+La lente menisco convexa mostrada en la figura 23.14 tiene un radio de 15 cm para la su-
+perficie convexa y 20 cm para la superficie cóncava. La lente está hecha de vidrio crown 
+y está rodeada de aire. a) La lente es 1) convergente o 2) divergente. Explique por qué. 
+b) ¿Cuál es la distancia focal y la potencia de la lente?
+a) Razonamiento conceptual. El índice de refracción del vidrio crown se indica en la tabla
+22.1: n /H110051.52. Para un menisco convexo, la primera superficie es convexa, así que R1 es posi-
+tivo; la segunda superficie es cóncava, así que R2 es negativo. Como R1 /H1100515 cm /H11021|R2| /H11005
+20 cm, 1/R1  + 1/R2 será positivo. Por consiguiente, la lente es convergente (positiva), de
+acuerdo con la ecuación 23.8. Así que la respuesta correcta es la 1 (convergente).
+b) Razonamiento cuantitativo y solución.
+Dado: Encuentre: y P
+n /H110051.52 (de la tabla 22.1 para vidrio crown)
+De acuerdo con la ecuación 23.8, tenemos
+Así que
+La potencia de la lente es
+Ejercicio de refuerzo. En este ejemplo, si la lente estuviera inmersa en agua, ¿cuáles se-
+rían sus respuestas?
+P = 1
+f =+ 0.867 D.
+f = 1
+0.867 m- 1 =+ 1.15 m.
+1
+f =1n - 12a 1
+R1
++ 1
+R2
+b =11.52 - 12a 1
+0.15 m + 1
+-0.20 mb = 0.867 m- 1
+ R2 =- 20 cm =- 0.20 m
+f R1 = 15 cm = 0.15 m
+f = 1
+P = 1
++2 D = 1
+2 m-1 = 0.50 m =+ 50 cm
+P1expresada en dioptrías2 = 1
+f1expresada en metros2
+
+752 CAPÍTULO 23 Espejos y lentes
+/g701
+/g702
+Eje óptico
+a) Aberración esférica b) Aberración cromática
+/g70azul
+/g70rojo
+Luz blanca
+▼ FIGURA 23.21 Aberraciones de las lentes a) Aberración esférica. En general, los rayos
+más cercanos al eje de una lente se refractan menos y se unen en un punto más alejado de
+la lente que los rayos que pasan por la periferia de ésta. b) Aberración cromática. A causa
+de la dispersión, las diversas longitudes de onda (colores) de la luz se enfocan en planos
+distintos, lo que ocasiona la distorsión de la imagen general.
+*23.5 Aberraciones de las lentes
+OBJETIVOS: a) Describir algunas de las aberraciones comunes de las lentes y
+b) explicar cómo se pueden reducir o corregir.
+Las lentes, al igual que los espejos, también pueden generar aberraciones. A continua-
+ción se describirán algunas de las más frecuentes.
+Aberración esférica
+La explicación de las lentes, hasta ahora, se ha concentrado en rayos que están cerca
+del eje óptico. Sin embargo, al igual que los espejos esféricos, las lentes convergentes
+pueden presentar aberración esférica, que consiste en que los rayos paralelos que pa-
+san por regiones distintas de una lente no se reúnen en un plano focal común. En gene-
+ral, los rayos cercanos al eje de una lente convergente se refractan menos, y se reúnen
+en un punto más alejado de la lente con respecto a los rayos que pasan por la periferia
+(
+▼figura 23.21a).
+La aberración esférica se minimiza empleando un diafragma para reducir el área
+efectiva de la lente, de manera que sólo se transmitan rayos luminosos próximos al eje.
+También es conveniente utilizar combinaciones de lentes convergentes y divergentes,
+porque la aberración de una lente se compensa con las propiedades ópticas de otra.
+Aberración cromática
+La aberración cromática es un efecto que se debe a que el índice de refracción del ma-
+terial de una lente no es igual para todas las longitudes de onda de la luz (esto es, a que
+el material es dispersivo). Cuando incide luz blanca en una lente, los rayos transmiti-
+dos de diferentes longitudes de onda (colores) no tienen un foco común, y se producen
+imágenes de diversos colores en distintos lugares (figura 23.21b).
+Esta aberración dispersiva se puede reducir al mínimo, aunque no eliminar, si se
+usa un sistema compuesto de lentes de distintos materiales, por ejemplo, de vidrio
+crown y vidrio flint. Se escogen las lentes de tal forma que la dispersión que genera
+una quede compensada con la dispersión contraria que produce la otra. Con un siste-
+ma de lentes de dos componentes, bien fabricado y que se llama doblete acromático
+(acromático significa “sin color”), es posible hacer que coincidan las imágenes en dos
+longitudes de onda seleccionadas.
+Exploración 34.5 Índice de refracción
+y longitud de onda
+
+Repaso del capítulo 753
+Astigmatismo
+Un haz luminoso circular que va por el eje de una lente forma una área iluminada 
+circular en ésta. Cuando incide en una lente convergente, el haz paralelo converge en
+el foco. Sin embargo, cuando a la superficie esférica convexa de una lente llega a un co-
+no circular de luz procedente de una fuente fuera del eje, la luz forma una zona elíptica
+iluminada en la lente. Los rayos que entran siguiendo los ejes mayor y menor de la
+elipse se enfocan en puntos distintos, después de pasar por la lente. A esta condición se
+le llama astigmatismo.
+Como hay distintos focos en diferentes planos, las imágenes en ambos planos son
+borrosas. Por ejemplo, la imagen de un punto deja de ser tal y se convierte en dos imá-
+genes lineales cortas (puntos borrosos). Para reducir el astigmatismo hay que dismi-
+nuir el área efectiva de la lente con un diafragma o agregando una lente cilíndrica para
+compensar.
+Repaso del capítulo
+• Los espejos planos forman imágenes virtuales, derechas y
+sin aumento. La distancia al objeto es igual a la distancia a la
+imagen (d
+o /H11005di).
+• El factor de amplificación o aumento lateral para todos los
+espejos y las lentes es
+(23.4, 23.6)
+• Los espejos esféricos pueden ser cóncavos (convergentes) o
+convexos (divergentes). Los espejos esféricos divergentes siem-
+pre forman imágenes derechas, reducidas y virtuales.
+La distancia focal de un espejo esférico es:
+(23.2)
+Ecuación del espejo esférico:
+(23.3)
+Forma alternativa:
+(23.3a)
+• Las lentes biesféricas pueden ser convexas (convergentes) o
+cóncavas (divergentes). Las lentes esféricas divergentes siem-
+pre forman imágenes derechas, reducidas y virtuales.
+F
+Lente convergente
+O'
+CI
+O F
+V
+I' A
+di
+do
+hi
+ho
+f
+di =
+dof
+do - f
+1
+do
++ 1
+di
+= 1
+f = 2
+R
+f = R
+2
+M =-  
+di
+do
+• La ecuación de la lente delgada relaciona la distancia focal,
+la distancia al objeto y la distancia a la imagen:
+(23.5)
+Forma alternativa:
+(23.5a)
+• La ecuación del fabricante de lentes se usa para calcular los
+radios de tallado y así obtener una lente de distancia focal de-
+terminada:
+(sólo para lente delgada en aire) (23.8)
+• La potencia de la lente en dioptrías (estando f en metros) se
+determina con
+(23.9)P = 1
+f
+Lente
+biconvexa
+R2C2
+C1
+R1
+R1:  positivo (convexo)
+R2: positivo (convexo)
+Luz incidente
+1
+f =1n - 12¢ 1
+R1
++ 1
+R2
+≤
+Lente convexa
+/g70
+/g100o = 2/g102
+Real invertida 
+y del mismo 
+en el tamaño
+Real, 
+invertida, 
+reducida
+Virtual, 
+derecha, 
+aumentada
+Lente
+(/g100o > 2/g102) (2/g102 > /g100o > /g102)
+/g100o = /g102
+Imagen 
+en el infinito
+2/g70
+(/g100o < /g102)
+Real, 
+invertida, 
+aumentada
+di =
+dof
+do - f
+1
+do
++ 1
+di
+= 1
+f
+
+754 CAPÍTULO 23 Espejos y lentes
+▲ FIGURA 23.23 Hacia atrás y al revés Véase el ejercicio 7.
+ a) Día
+ b) Noche
+Inclinado
+Luz incidente
+Luz de fanales
+Cara
+plateada
+Poca intensidad
+Poca intensidad
+▲ FIGURA 23.22 Espejo retrovisor de un automóvil
+Véase el ejercicio 5.
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son ejercicios inte-
+grados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pares de ejercicios, que se iden-
+tifican con números subrayados, pretenden ayudar al lector a resolver problemas y aprender. El primer ejercicio de cada pareja
+(el de número par) se resuelve en la Guía de estudio, que puede consultarse si se necesita ayuda para resolverlo. El segundo ejer-
+cicio (de número impar) es similar, y su respuesta se da al final del libro.
+23.1 Espejos planos
+1. OM Un espejo plano a) tiene mayor distancia a la imagen
+que distancia al objeto; b) produce una imagen virtual, de-
+recha y sin aumento; c) cambia la orientación vertical 
+de un objeto, o d) invierte las partes superior e inferior del
+objeto.
+2. OM Un espejo plano a) produce imágenes tanto reales 
+como virtuales, b) siempre produce una imagen virtual,
+c) siempre produce una imagen real o d) forma imáge-
+nes por reflexión difusa.
+3. OM El aumento lateral de un espejo plano es a) mayor
+que 1, b) menor que 1, c) igual a +1, d) igual a –1.
+4. PC ¿Qué es la distancia focal de un espejo plano? ¿Por
+qué?
+5. PC Los espejos retrovisores para día y noche se usan con
+frecuencia en los automóviles. Por la noche se inclina el
+espejo hacia atrás, y se reduce la intensidad y el reflejo de
+los faros de los automóviles que van detrás (
+▼ figura
+23.22). El espejo tiene forma de cuña y está plateado en la
+cara trasera. Este efecto tiene que ver con las reflexiones
+de la superficie frontal y trasera. La superficie frontal, no
+plateada, refleja el 5% de la luz que le llega, y la superfi-
+cie trasera, plateada, refleja el 90% de la luz incidente.
+Explique cómo funciona el retrovisor para día y noche.
+7. PC ¿Por qué algunas ambulancias tienen el letrero
+(
+▼figura 23.23) impreso al frente?AMBULANCIA
+6. PC Al estar de pie frente a un espejo plano, es evidente la
+inversión derecha-izquierda. a) ¿Por qué no hay inversión
+arriba-abajo? b) Podría usted lograr una inversión arriba-
+abajo aparente colocando su cuerpo de forma distinta?
+8. PC ¿Se puede proyectar una imagen virtual en una pan-
+talla? ¿Por qué?
+9. ● Una persona se pone de pie a 2.0 m de un espejo plano.
+a) ¿Cuál es la distancia aparente entre la persona y su
+imagen? b) ¿Cuáles son las características de la imagen?
+10. ● Un objeto de 5.0 cm de altura se coloca a 40 cm de un es-
+pejo plano. Calcule a) la distancia del objeto a la imagen, 
+b) la altura de la imagen y c) el aumento de la imagen.
+11. ● Usted se coloca de pie frente a un espejo plano de 2.5 m,
+con cámara en mano para tomarse una foto. ¿A qué dis-
+tancia debe enfocar manualmente la cámara para obte-
+ner una buena imagen?
+12.
+●● Si usted sostiene un espejo plano y cuadrado, de 900
+cm2, a 45 cm de sus ojos y justo alcanza a ver el asta de la
+bandera que hay detrás de usted y que mide 8.5 de longi-
+tud, ¿qué tan lejos está usted del asta? [Sugerencia: elabo-
+rar un diagrama le será útil.]
+13.
+●● Un perro pequeño está a 1.5 m frente a un espejo plano.
+a) ¿Dónde está la imagen del perro en relación con el espe-
+jo? b) Si el animal salta hacia el espejo con una velocidad
+de 0.50 m/s, ¿con qué velocidad se acerca a su imagen?
+14. EI ●● Una señora se arregla el cabello de la parte poste-
+rior de su cabeza y sostiene un espejo plano a 30 cm fren-
+te a su cara para verse en un espejo plano de su baño, que
+está atrás de ella. Ella está a 90 cm del espejo del baño. a)
+La imagen de la parte posterior de su cabeza estará 1) só-
+lo en el espejo que tiene enfrente, 2) sólo en el espejo de la
+pared o 3) en ambos espejos. b) ¿Aproximadamente a qué
+distancia parece estar frente a ella la imagen de su nuca?
+
+Ejercicios 755
+I1 I3
+I2Objeto
+ a)  b)
+▲ FIGURA 23.24 Dos espejos, varias imágenes
+Véase el ejercicio 18.
+15. EI ●● a) Cuando usted está de pie entre dos espejos pla-
+nos, en las paredes opuestas de un estudio de baile, ob-
+serva 1) una, 2) dos o 3) varias imágenes. Explique por
+qué. b) Ahora está a 3.0 m del espejo de la pared norte, y
+a 5.0 m del de la pared sur; ¿cuáles son las distancias a las
+dos primeras imágenes en ambos espejos?
+16.
+●● Una mujer de 1.7 m de estatura se coloca de pie a 
+3.0 m frente a un espejo plano. a) ¿Cuál es la altura míni-
+ma que debe tener el espejo para que ella vea su imagen
+completa, desde la coronilla hasta la punta de los pies?
+Suponga que sus ojos están 10 cm debajo de la coronilla.
+b) ¿Cuál sería la altura mínima necesaria del espejo, si se
+colocara a 5.0 m de distancia?
+17.
+●● Demuestre que para un espejo plano, do /H11005di (igual
+magnitud). [Sugerencia: véase la figura 23.2 y utilice
+triángulos semejantes e idénticos.]
+18. ●●● Dibuje diagramas de rayos que indiquen cómo se
+forman tres imágenes de un objeto en dos espejos planos
+en ángulo recto, como se ve en la figura 
+▼23.24a. [Suge-
+rencia: examine rayos que procedan de ambos extremos
+del objeto en el dibujo de cada imagen.] La figura 23.24b
+presenta un caso similar, desde un punto de vista distin-
+to, que produce cuatro imágenes. Explique la imagen
+adicional que se ve en este caso.
+23. PC a) Al mirar una cuchara brillante se ve una imagen
+invertida por una de sus caras, y una imagen derecha en
+la otra (
+▼ figura 23.26). (Haga la prueba.) ¿Por qué se ven
+así? b) ¿Se podrían ver imágenes derechas en ambas ca-
+ras? Explique su respuesta.
+23.2 Espejos esféricos
+19. OM ¿Cuál de las siguientes afirmaciones acerca de los es-
+pejos esféricos es correcta? a) Un solo espejo convergen-
+te puede producir una imagen virtual invertida. b) Un
+solo espejo divergente puede producir una imagen virtual
+invertida. c) Un espejo divergente puede producir una
+imagen real e invertida. d) Un espejo convergente puede
+producir una imagen real invertida.
+20. OM La imagen que produce un espejo convexo siempre
+es a) virtual y derecha, b) real y derecha, c) virtual e in-
+vertida o d) real e invertida.
+21. OM Un espejo para afeitarse o maquillarse se utiliza para
+formar una imagen que es más grande que el objeto. El
+espejo es a) cóncavo, b) convexo, c) plano. 
+22. PC a) ¿Qué utilidad tiene un espejo dual en un automóvil o
+camión, como el de la 
+Nfigura 23.25? b) Algunos espejos re-
+trovisores del lado del pasajero, en los automóviles, tienen
+una advertencia: “LOS OBJETOS EN EL ESPEJO ESTÁN
+MÁS CERCA DE LO QUE PARECEN”. Explique por qué.
+c) ¿Se podría considerar que una antena parabólica de TV
+para satélite es un espejo convergente? Explique por qué.
+▲ FIGURA 23.25 Aplicaciones de los espejos Véase 
+el ejercicio 22.
+▲ FIGURA 23.26 Reflexiones en superficies cóncavas 
+y convexas Véase el ejercicio 23.
+24. PC a) Un espejo de 10 cm de altura tiene la siguiente leyen-
+da: “Mini espejo de cuerpo completo. Vea todo su cuerpo
+en 10 cm”. ¿Cómo es posible esto? b) Una novedad muy co-
+mún consiste en un espejo cóncavo con una bolita suspen-
+dida en el centro de curvatura, o ligeramente dentro
+(
+▼figura 23.27). Cuando la bolita oscila hacia el espejo, su
+imagen crece y de repente llena todo el espejo. La imagen
+parece saltar fuera del espejo. Explique lo que sucede.
+▲ FIGURA 23.27 Juguete con espejo esférico. Véase 
+el ejercicio 24.
+Cara convexa Cara cóncava
+
+756 CAPÍTULO 23 Espejos y lentes
+25. PC ¿Cómo se determina de forma experimental la dis-
+tancia focal de un espejo cóncavo? ¿Se puede hacer lo
+mismo para un espejo convexo?
+26. PC ¿Es posible que un espejo convexo produzca una
+imagen que sea más alta que el objeto? ¿Por qué?
+27. EI
+● Un objeto está a 30 cm frente a un espejo convexo,
+cuya distancia focal es de 60 cm. a) Con un diagrama de
+rayos, determine si la imagen es 1) real o virtual, 2) dere-
+cha o invertida y 3) mayor o menor que el objeto. 
+b) Calcule la distancia a la imagen y la altura de ésta.
+28.
+● Un objeto de 3.0 cm de altura se coloca a 20 cm frente a
+un espejo cóncavo, cuyo radio de curvatura es de 30 cm.
+¿Dónde se forma la imagen y qué altura tiene?
+29.
+● Si el objeto del ejercicio 28 se mueve a un lugar a 10 cm
+frente al espejo, ¿cuáles serán las características de su
+imagen?
+30.
+● Una vela cuya flama mide 1.5 cm de altura se coloca a
+5.0 cm al frente de un espejo cóncavo. Se produce una
+imagen virtual a 10 cm del vértice del espejo. a) Calcule
+la distancia focal y el radio de curvatura del espejo. 
+b) ¿Qué altura tiene la imagen de la llama?
+31.
+●● Use la ecuación del espejo y el factor de aumento pa-
+ra demostrar que cuando en un espejo cóncavo do /H11005R /H11005
+2f, la imagen es real, invertida y del mismo tamaño que 
+el objeto.
+32. ●● Un objeto de 3.0 cm de altura se coloca en distintos
+lugares frente a un espejo cóncavo, cuyo radio de curva-
+tura es de 30 cm. Calcule la ubicación de la imagen y sus
+características, cuando la distancia al objeto es de 40, 30,
+15 y 5.0 cm, mediante a) un diagrama de rayos y b) la
+ecuación del espejo.
+33. EI
+●● Se produce una imagen virtual con +0.50 de au-
+mento cuando se coloca un objeto frente a un espejo esfé-
+rico. a) El espejo es 1) convexo, 2) cóncavo o 3) plano.
+Explique por qué. b) Calcule el radio de curvatura del 
+espejo, si el objeto está a 7.0 cm frente a él.
+34.
+●● Una botella de 6.0 cm de largo se localiza a 75 cm de la
+superficie cóncava de un espejo cuyo radio de curvatura
+es de 50 cm. ¿Dónde se localiza la imagen y cuáles son
+sus características?
+35. EI
+●● Un espejo para afeitar tiene +4.00 de aumento. a)
+Ese espejo es 1) convexo, 2) cóncavo o 3) plano. ¿Por qué?
+b) ¿Cuál es la distancia focal del espejo, si la cara se co-
+loca a 10 cm frente al espejo?
+36.
+●● Con la ecuación del espejo esférico y el factor de au-
+mento, demuestre que para un espejo cóncavo en el que
+d
+o /H11021f, la imagen de un objeto siempre es virtual, derecha
+y aumentada.
+37. ●● Con la ecuación del espejo esférico y el factor de au-
+mento, demuestre que en un espejo convexo la imagen
+de un objeto siempre es virtual, derecha y reducida.
+38.
+●● Un espejo cóncavo para maquillaje produce una ima-
+gen virtual que es 1.5 veces el tamaño de una persona cu-
+ya cara está a 20 cm del mismo. a) Dibuje un diagrama de
+rayos de esta situación. b) ¿Cuál es la distancia focal del
+espejo?
+39. EI
+●● La imagen de un objeto colocado a 30 cm de un es-
+pejo se forma en una pantalla localizada a 20 del espejo.
+a) El espejo es 1) convexo, 2) cóncavo o 3) plano. ¿Por
+qué? b) ¿Cuál es el radio de curvatura del espejo?
+40. EI
+●● La imagen derecha de un objeto a 18 cm frente a un
+espejo tiene la mitad del tamaño del objeto. a) El espejo es
+1) convexo, 2) cóncavo o 3) plano. ¿Por qué? b) ¿Cuál es la
+distancia focal del espejo?
+41. EI ●● Un espejo cóncavo tiene +3.0 de aumento cuando
+un objeto se coloca a 50 cm frente él. a) El tipo de imagen
+que se produce es 1) virtual y derecha, 2) real y derecha,
+3) virtual e invertida, 4) real e invertida. Explique por
+qué. b) Determine el radio de curvatura del espejo.
+42.
+●● Un espejo cóncavo de afeitar se fabrica de tal forma
+que un hombre a una distancia de 20 cm de éste ve su
+imagen aumentada 1.5 veces. ¿Cuál es el radio de curva-
+tura del espejo?
+43.
+●● Un niño observa en una esfera de Navidad, de 9.0 cm
+de diámetro, y ve una imagen de su cara que mide la mi-
+tad del tamaño real. ¿A qué distancia está el niño de la 
+esfera?
+44. EI
+●● Un dentista utiliza un espejo esférico que produce
+una imagen derecha de un diente, aumentado cuatro ve-
+ces. a) El espejo es 1) convergente, 2) divergente o 3) pla-
+no. ¿Por qué? b) ¿Cuál es la distancia focal del espejo en
+función de la distancia al objeto?
+45.
+●● Se coloca un lápiz de 15 cm de longitud, con su goma
+en el eje óptico de un espejo cóncavo y su punta hacia
+arriba, 20 cm enfrente del espejo. El radio de curvatura
+del espejo es de 30 cm. Utilice a) un diagrama de rayos y
+b) la ecuación del espejo para ubicar la imagen y determi-
+nar sus características.
+46. EI
+●● Un frasco de píldoras de 3.0 cm de altura se coloca
+a 12 cm frente a un espejo. Se forma una imagen derecha
+de 9.0 cm de altura. a) El espejo es 1) convexo, 2) cóncavo
+o 3) plano. ¿Por qué? b) ¿Cuál es su radio de curvatura?
+47.
+●● Un espejo esférico, en un parque de diversiones,
+muestra a quienquiera que se pare a 2.5 m frente a él, su
+imagen aumentada al doble. ¿Cuál es el radio de curva-
+tura del espejo?
+48. ●●● Para valores de do desde 0 hasta a) trace gráficas
+de 1) di en función de do y 2) M en función de do para un
+espejo convergente. b) Trace los mismos diagramas, pero
+para un espejo divergente.
+49. ●●● La superficie anterior de un cubo de vidrio de 5.0 cm
+por lado se coloca a una distancia de 30.0 cm de un espe-
+jo convergente, cuya distancia focal es de 20 cm. a) ¿Dón-
+de se ubican las imágenes de las caras anterior y
+posterior del cubo, y cuáles son las características de esas
+imágenes? b) ¿La imagen sigue siendo la de un cubo?
+50.
+●●● Un casquete esférico está plateado por ambas caras.
+Si el aumento que produce en un objeto es de +1.8 cuan-
+do el casquete se usa como espejo cóncavo, ¿cuál es el 
+aumento de un objeto a la misma distancia del lado con-
+vexo?
+q,
+
+Ejercicios 757
+51. EI ●●● Un espejo cóncavo, cuyo radio de curvatura mide
+20 cm, forma una imagen que tiene el doble de altura del
+objeto. a) Podría haber 1) una, 2) dos 3) tres distancias al
+objeto que satisfacen las características de la imagen. Ex-
+plique por qué. b) ¿Cuáles son las distancias al objeto?
+52.
+●●● En el exterior de muchos camiones, del lado del pa-
+sajero, hay un espejo convexo (ejercicio 22a). Si la distan-
+cia focal de uno de esos espejos es de /H1100240.0 cm, ¿cuál
+será la ubicación y la altura de la imagen de un automóvil
+de 2.0 m de altura y a) a 100 m detrás del camión y b) a
+10.0 m frente al espejo?
+53.
+●●● Dos alumnos en un laboratorio de física tienen, cada
+uno, un espejo cóncavo del mismo radio de curvatura: 
+40 cm. Cada estudiante coloca un objeto frente a su espe-
+jo. En ambos espejos, la imagen tiene tres veces el tamaño
+del objeto. Sin embargo, cuando los alumnos comparan
+sus notas, ven que las distancias al objeto no son iguales.
+¿Es posible esto? En caso afirmativo, ¿cuáles son las dis-
+tancias al objeto?
+23.3 Lentes
+54. OM La imagen producida por una lente divergente siem-
+pre es a) virtual y aumentada, b) real y aumentada, c) vir-
+tual y reducida o d) real y reducida.
+55. OM Una lente convergente a) debe tener al menos una
+superficie convexa; b) no puede producir una imagen
+virtual y reducida, c) es más gruesa en su centro que en
+su periferia o d) todo lo anterior.
+56. OM Si un objeto se coloca en el foco de una lente conver-
+gente, la imagen está a) en cero, b) también en el foco, c) a
+una distancia igual al doble de la distancia focal, d) en el
+infinito.
+57. PC Explique por qué un pez dentro de una pecera esférica
+se ve, desde el exterior, más grande de lo que realmente es.
+58. PC ¿Una lente convergente puede formar una imagen
+virtual de un objeto real? Si es así, ¿en qué condiciones?
+59. PC ¿Cómo se podría determinar con rapidez la distancia
+focal de una lente convergente? ¿Funcionará ese método
+con lentes divergentes?
+60. PC Si se quiere usar una lente convergente para diseñar
+un proyector sencillo de filminas y proyectar la imagen
+amplificada de un texto pequeño en una pantalla coloca-
+da en la pared, ¿a qué distancia se debe colocar el objeto
+frente a la lente?
+61.
+● Un objeto se coloca a 50.0 cm frente a una lente conver-
+gente de 10.0 cm de distancia focal. ¿Cuáles son la distan-
+cia a la imagen y el aumento lateral?
+62.
+● Un objeto se coloca a 30 cm frente a una lente conver-
+gente, y forma una imagen a 15 cm detrás de la lente.
+¿Cuál es la distancia focal de la lente?
+63.
+● Con una lente convergente de 20 cm de longitud focal
+se produce una imagen en una pantalla que está a 2.0 m
+de la lente. ¿Cuál es la distancia al objeto?
+64. EI
+●● Un objeto de 4.0 cm de altura está frente a una len-
+te convergente, cuya distancia focal es de 22 cm. El ob-
+jeto está a 15 cm de la lente. a) Con un diagrama de ra-
+yos, determine si la imagen es 1) real o virtual, 2) derecha o
+invertida y 3) mayor o menor que el objeto. b) Calcule la
+distancia a la imagen y el aumento lateral.
+65.
+●● a) Diseñe la lente de un proyector de transparencias
+que forme una imagen nítida en una pantalla a 4.0 m de
+distancia, con las transparencias a 6.0 cm de la lente. b) Si
+el objeto en una transparencia tiene 1.0 cm de altura,
+¿qué altura tendrá la imagen en la pantalla, y cómo se
+debe colocar la diapositiva en el proyector?
+66.
+●● Utilice la ecuación de lentes delgadas y el factor de
+aumento para demostrar que en el caso de una lente di-
+vergente esférica, la imagen de un objeto real siempre es
+virtual, derecha y reducida.
+67.
+●● Una lente biconvexa tiene 0.12 m de distancia focal.
+¿Dónde se debe colocar un objeto en el eje de la lente 
+para obtener a) una imagen real, con aumento de 2.0 y 
+b) una imagen virtual con un aumento de 2.0?
+68.
+●● Un objeto se coloca frente a una lente bicóncava, cuya
+distancia focal es de /H1100218 cm. ¿Dónde se ubica la imagen, 
+y cuáles son sus características si la distancia al objeto es 
+a) 10 cm y b) 25 cm? Trace diagramas de rayos para cada caso.
+69.
+●● Una lente biconvexa produce una imagen real e in-
+vertida de un objeto, aumentada 2.5 veces cuando ese
+objeto está a 20 cm de la lente. ¿Cuál es la distancia focal
+de la lente?
+70.
+●● Una cámara sencilla tiene una sola lente (biconvexa) y
+con ella se fotografía a un hombre de 1.7 m de altura, que
+está de pie a 4.0 m de la cámara. Si la imagen del hombre
+llena la longitud (35 mm) de un negativo, ¿cuál es la dis-
+tancia focal de la lente?
+71.
+●● Para fotografiar la Luna llena, una persona usa una
+cámara de 60 mm de distancia focal. ¿Cuál será el diáme-
+tro de la imagen de la Luna en la película? [ Nota: en la
+tercera de forros de este libro se encuentran datos impor-
+tantes de la Luna.]
+72.
+●● a) Para valores de do desde 0 hasta dibuje gráficas
+para 1) di en función de do y 2) M en función de do para una
+lente convergente. b) Trace gráficas similares para una len-
+te divergente. (Compare con el ejercicio 48.)
+73. ●● Un objeto se coloca a 40 cm de una pantalla. a) ¿En
+qué punto entre el objeto y la pantalla debe colocarse una
+lente convergente de 10 cm de distancia focal, para pro-
+ducir una imagen nítida en la pantalla? b) ¿Cuál es el 
+aumento de esa lente?
+74.
+●● Un objeto de 5.0 cm de alto está a 10 cm de una lente
+cóncava. La imagen producida tiene la quinta parte del
+tamaño del objeto. ¿Cuál es la distancia focal de la lente?
+75.
+●● a) Para una lente biconvexa, ¿cuál es la distancia mí-
+nima entre un objeto y su imagen, si esta última es real? 
+b) ¿Cuál es la distancia si la imagen es virtual?
+76. ●● Use la ▼ figura 23.28 para deducir a) la ecuación de la
+lente delgada y b) la ecuación del aumento para una len-
+te delgada. [Sugerencia: utilice triángulos semejantes.]
+q,
+
+758 CAPÍTULO 23 Espejos y lentes
+Objeto
+Imagen
+dido
+f
+(di − f )
+ho
+hi
+F
+ho
+▲ FIGURA 23.28 La ecuación de las lentes delgadasGeome-
+tría para deducir la ecuación de las lentes delgadas (y su factor
+de aumento). Observe los dos conjuntos de triángulos semejan-
+tes. Véase el ejercicio 76.
+Imagen
+final
+Objetivo
+Ocular
+Fo Fo Fe Fe
+7.0 cm
+▲ FIGURA 23.29 Microscopio compuesto
+Véase el ejercicio 81.
+77. ●● a) Si se sujeta un libro a 30 cm de una lente de anteo-
+jos con /H1100245 cm de distancia focal, ¿dónde se forma la
+imagen de sus páginas? b) Si se usa una lupa de +57 cm
+de distancia focal, ¿dónde se forma la imagen?
+78. EI ●● Un alumno de biología quiere examinar un peque-
+ño insecto con una amplificación de +5.00. a) Debería uti-
+lizar una lente 1) convexa, 2) cóncava o 3) plana. Explique
+por qué. b) Si el insecto está a 5.00 cm de la lente, ¿cuál es
+la distancia focal de ésta?
+79.
+●● En una práctica de campo, un alumno de biología
+examina un pequeño insecto con una lupa. Si ve al insec-
+to aumentado por un factor de 3.5 cuando sostiene la lu-
+pa a 3.0 cm de él, ¿cuál es la distancia focal de la lupa?
+80.
+●● El ojo humano es un complejo sistema de lentes múl-
+tiples. Sin embargo, cuando el ojo está relajado, se apro-
+xima a una sola lente convergente equivalente con una
+distancia focal promedio de 1.7 cm. Si un ojo está viendo
+un árbol de 2.0 m de alto localizado enfrente a 15 m,
+¿cuáles son la altura y la orientación de la imagen del ár-
+bol en la retina?
+81.
+●●● En la ▼figura 23.29 se ilustra la geometría de un mi-
+croscopio compuesto, formado por dos lentes conver-
+gentes. (En el capítulo 25 veremos más detalles de los
+microscopios.) Las distancias focales del objetivo y el
+ocular son 2.8 mm y 3.3 cm, respectivamente. Si un obje-
+to se coloca a 3.0 mm del objetivo, ¿dónde se ubica la
+imagen final y qué tipo de imagen es?
+82.
+●●● Dos lentes convergentes, L1 y L2, tienen 30 y 20 cm
+de distancia focal, respectivamente. Las lentes se colocan
+a 60 cm de distancia en el mismo eje, y se coloca un obje-
+to a 50 cm de L
+1, en el lado contrario a L2. ¿Dónde se for-
+ma la imagen, en relación con L2, y cuáles son sus
+características?
+83. ●●● Para una combinación de lentes, demuestre que el
+aumento total es Mtotal /H11005M1M2. [Sugerencia: examine la
+definición de aumento.]
+84. ●●● Demuestre que para lentes delgadas de distancias
+focales f1 y f2, en contacto mutuo, la distancia focal efecti-
+va ( f )e s
+23.4 La ecuación del fabricante de lentes 
+y *23.5 Aberraciones de las lentes
+85. OM La potencia de una lente se expresa en unidades de
+a) watts, b) dioptrías, c) metros, d) tanto b como c.
+86. OM Una aberración de lente causada por la dispersión se
+llama a) aberración esférica, b) aberración cromática, c) abe-
+rración refringente, d) ninguna de las opciones anteriores
+es válida.
+87. OM La distancia focal de un bloque rectangular de vidrio
+es a) cero, b) infinita, c) no está definida.
+88. PC Determine los signos de R1 y R2 para cada lente de la
+figura 23.14.
+89. PC Cuando usted abre sus ojos bajo el agua, ve todo bo-
+rroso. Sin embargo, si usa goggles, podrá ver con clari-
+dad. Explique por qué.
+90. PC Una lente que es convergente en el aire, se sumerge
+en un fluido cuyo índice de refracción es mayor que el de
+la lente. ¿Sigue siendo convergente esa lente?
+91. PC a) Cuando se sumerge en agua una lente con n /H11005
+1.60, ¿cambia su distancia focal? Si es así, ¿en qué forma?
+b) ¿Cuál sería el caso de una lente sumergida cuyo índice
+de refracción fuera menor que el del fluido?
+92.
+● Un optometrista prescribió a un alumno miope unos
+anteojos con /H110022.0 D de potencia. ¿Cuál es la distancia fo-
+cal de los anteojos?
+93. ● Un adulto mayor con hipermetropía necesita anteojos
+con una distancia focal de 25 cm. ¿Cuál es la potencia de
+los anteojos?
+94.
+●● Un optometrista prescribe anteojos de corrección con
++1.5 D de potencia. El fabricante de lentes toma un vidrio
+materia prima, cuyo índice de refracción es 1.6, y que tie-
+ne una superficie delantera convexa con 20 cm de radio
+de curvatura. ¿A qué radio de curvatura debe tallar la
+otra superficie?
+95.
+●● Una lente plano-cóncava de plástico tiene 50 cm de ra-
+dio de curvatura en su superficie cóncava. Si el índice de
+refracción del plástico es 1.35, ¿cuál es la potencia de la
+lente?
+1
+f = 1
+f1
++ 1
+f2
+
+Ejercicios 759
+96. EI ●● Una lente de contacto menisco convexa (figura
+23.14) está hecha de un plástico cuyo índice de refracción
+es 1.55. La lente tiene un radio frontal de 2.50 cm y un ra-
+dio posterior de 3.00 cm. a) Los signos de R
+1 y R2 son 
+1)+, +, 2) +, /H11002, 3) /H11002, +, 4) /H11002, /H11002. Explique por qué. b) ¿Cuál
+es la distancia focal de la lente?
+97. ●● Una lente convergente de vidrio, con índice de refrac-
+ción de 1.62, tiene una distancia focal de 30 cm en el aire.
+¿Cuál es su distancia focal cuando esa lente se sumerge
+en agua?
+98. EI
+●●● Una lente biconvexa es de vidrio con índice de re-
+fracción 1.6. Tiene un radio de curvatura de 30 cm en una
+superficie y 40 cm en la otra. a) Si la lente pasa del aire al
+agua, su distancia focal 1) aumentará, 2) permanecerá
+igual o 3) disminuirá? ¿Por qué? b) Calcule la distancia
+focal de esta lente en el aire y bajo el agua.
+Ejercicios adicionales
+99. Un método para determinar la distancia focal de una len-
+te divergente se llama autocolimación. Como se ve en la
+▼figura 23.30, primero se proyecta una imagen nítida de
+una fuente luminosa en una pantalla, mediante una lente
+convergente. Después se sustituye la pantalla por un es-
+pejo plano. En el tercer paso se coloca una lente divergen-
+te entre la lente convergente y el espejo. La luz se refleja
+en el espejo y regresa por el sistema de lente compuesto,
+formando una imagen en una pantalla cercana a la fuente
+luminosa. Esta imagen se enfoca ajustando la distancia
+entre la lente divergente y el espejo. La distancia a la cual
+la imagen es más nítida es igual a la distancia focal de la
+lente. Explique por qué es efectivo este método.
+100. Para la configuración de la 
+▼ figura 23.31, se coloca un
+objeto a 0.40 m frente a la lente convergente, cuya distan-
+cia focal es de 0.15 m. Si el espejo cóncavo tiene 0.13 m de
+distancia focal, ¿dónde se forma la imagen final y cuáles
+son sus características?
+Fuente
+luminosa
+Pantalla
+ a)
+Espejo
+ b)
+Espejo
+ c)
+Pantalla
+▲ FIGURA 23.30 Autocolimación Véase el ejercicio 99.
+Objeto
+0.50 m
+▲ FIGURA 23.31 Combinación de lente y espejo
+Véase el ejercicio 100.
+101. Dos lentes, cada una con +10 D de potencia, se colocan a
+20 cm de distancia a lo largo del mismo eje. Si un objeto
+está a 60 cm de la primera, en el lado opuesto de la se-
+gunda, ¿dónde se forma la imagen final, en relación con
+la primera lente, y cuáles son sus características?
+102. Demuestre que el aumento, para los objetos cercanos al
+eje óptico de un espejo convexo, es | M| /H11005d
+i/do. [Suge-
+rencia: utilice un diagrama de rayos, con los rayos refleja-
+dos en el vértice del espejo.]
+103. Un objeto está a 15 cm de una lente convergente de 10 cm
+de distancia focal. En el lado opuesto de esa lente, a 60
+cm de distancia, hay una lente convergente de 20 cm de
+distancia focal. ¿Dónde se forma la imagen final y cuáles
+son sus características?
+104. a) Con diagramas de rayos, demuestre que un rayo para-
+lelo al eje óptico de una lente biconvexa se refracta hacia
+el eje, en la superficie de incidencia, y de nuevo hacia el
+centro en la superficie de salida. b) Demuestre que esto
+también es válido para una lente bicóncava, pero con
+ambas refracciones alejándose del eje.
+Los siguientes problemas de física Physlet se pueden utilizar con este capítulo.
+33.1, 33.2, 33.3, 33.4, 33.5, 33.6, 33.7, 33.8, 34.4, 35.1, 35.2, 35.3, 35.4, 35.5,
+35.6, 35.7, 35.8, 35.9, 35.10
+
+CAPÍTULO
+24
+S
+iempre es intrigante ver los colores brillantes que producen los objetos que,
+como sabemos, no tienen colores propios. Por ejemplo, el vidrio de un pris-
+ma, que es incoloro y transparente, produce todo un conjunto de colores
+cuando lo atraviesa la luz blanca. Los prismas, al igual que las gotitas de agua que
+producen el arco iris, no crean colores. Tan sólo separan las distintas longitudes
+de onda que forman la luz blanca.
+Los fenómenos de reflexión y refracción se analizan en forma adecuada recu-
+rriendo a la óptica geométrica (capítulo 22). Los diagramas de rayos (capítulo 23)
+indican lo que sucede cuando la luz se refleja en un espejo o cuando pasa por una
+lente. Sin embargo, hay otros fenómenos donde interviene la luz, por ejemplo las
+figuras de interferencia de la foto de esta página (véase el pliego a color al final
+del libro), que no se pueden explicar ni describir con el concepto de rayo, porque
+ese concepto no tiene en cuenta la naturaleza ondulatoria de la luz. Otros fenóme-
+nos ondulatorios son la difracción y la polarización.
+La óptica física,u óptica ondulatoria, tiene en cuenta las propiedades ondu-
+latorias que en la óptica geométrica se ignoran. La teoría ondulatoria de la luz
+conduce a explicaciones satisfactorias de los fenómenos que no se pueden anali-
+zar mediante rayos. Así, en este capítulo, se usará la naturaleza ondulatoria de la
+luz para analizar fenómenos como la interferencia y la difracción.
+Se debe usar la óptica ondulatoria para explicar cómo se propaga la luz al-
+rededor de objetos pequeños o a través de diminutas aberturas. Vemos esto en 
+la vida cotidiana con los delgados surcos en los CD, DVD y en otros artículos. Se
+considera que un objeto o una abertura son pequeños si sus dimensiones son del
+orden de magnitud de la longitud de onda de la luz.
+• Algunas fuentes afirman que Thomas Young,
+quien fue el primero en demostrar la natura-
+leza ondulatoria de la luz, podía leer a la edad
+de dos años y que leyó la Biblia en dos oca-
+siones cuando era niño.
+• En un DVD-ROM, la distancia entre pistas es 
+de 0.74 
+μm, mientras que en un CD-ROM es de
+1.6 μm. En comparación, el diámetro de un 
+cabello humano mide entre 50 y 150 μm. Las
+pistas tanto de los DVD-ROM como de los 
+CD-ROM, en realidad, dividen los cabellos.
+• Las señales AM de radio se escuchan mejor
+en algunas áreas que las de FM. Esto se de-
+be a que las ondas AM, que son más largas,
+se difractan más fácilmente alrededor de los
+edificios y de otros obstáculos.
+• La luz del cielo es parcialmente polarizada. Se
+cree que algunos insectos, como las abejas,
+utilizan la luz del cielo polarizada para deter-
+minar sus direcciones de navegación con
+respecto al Sol.
+• Para un observador en Tierra, Marte, el “pla-
+neta rojo”, aparece rojizo porque el material
+de su superficie contiene óxido de hierro. La
+oxidación del hierro en la Tierra produce óxi-
+do de hierro.
+HECHOS DE FÍSICA
+Óptica física:
+la naturaleza
+ondulatoria de la luz
+760
+24.1 El experimento de
+Young de la doble
+rendija 761
+24.2 Interferencia en
+películas delgadas 764
+24.3 Difracción 768
+24.4 Polarización 775
+*24.5 Dispersión atmos-
+férica de la luz 782
+
+▲ FIGURA 24.1 Interferencia de
+ondas en agua La interferencia
+constructiva y destructiva de las 
+ondas procedentes de dos fuen-
+tes coherentes en el agua de un 
+estanque produce figuras de 
+interferencia.
+24.1 El experimento de Young de la doble rendija 761
+Nota: compare la figura 24.1 con
+la 14.8a.
+24.1 El experimento de Young de la doble rendija
+OBJECTIVOS: a) Explicar cómo el experimento de Young demuestra la naturaleza
+ondulatoria de la luz y b) calcular la longitud de onda de la luz a par-
+tir de los resultados experimentales.
+Se ha afirmado que la luz se comporta como una onda, pero hasta el momento no se ha
+analizado ninguna prueba de esta aseveración. ¿Cómo demostraría usted la naturale-
+za ondulatoria de la luz? El científico inglés Thomas Young (1773-1829) ideó un método
+para ello, que implica el uso de la interferencia. El experimento de Young de la doble
+rendija no sólo demuestra la naturaleza ondulatoria de la luz, sino que también per-
+mite medir su longitud de onda. En esencia, se demuestra que la luz es una onda si
+presenta propiedades ondulatorias, como la interferencia y la difracción.
+Recuerde que —como vimos en la descripción de la interferencia de ondas en las
+secciones 13.4 y 14.4—, las ondas superpuestas pueden interferir en forma constructiva
+o destructiva. La interferencia constructiva se presenta cuando se sobreponen dos cres-
+tas, y la interferencia destructiva se presenta cuando se sobreponen una cresta y un valle.
+Este fenómeno se puede observar en las ondas en el agua, en donde las interferencias
+constructivas y destructivas producen obvias figuras de interferencia (
+Nfigura 24.1).
+La interferencia de las ondas luminosas (visibles) no se observa con tanta facilidad
+porque sus longitudes de onda son relativamente cortas y porque no son
+monocromáticas (de una sola frecuencia). Además, sólo se producen figuras estaciona-
+rias de interferencia cuando las fuentes son coherentes, es decir, cuando las fuentes que
+producen ondas luminosas tienen entre sí una relación constante de fases. Por ejemplo,
+para que se presente interferencia constructiva en cierto punto, las ondas que lleguen a
+él deben estar en fase. Al encontrarse las ondas, una cresta siempre debe traslaparse con
+una cresta, y un valle siempre debe traslaparse con un valle. Si a través del tiempo se de-
+sarrolla una diferencia de fases, cambia la figura de interferencia y no se establece una
+figura estable o estacionaria.
+En una fuente luminosa ordinaria, los átomos se excitan al azar, y las ondas lumi-
+nosas emitidas fluctúan en amplitud y frecuencia. Por eso, la luz que producen dos de
+tales fuentes es incoherente y no produce una figura estacionaria de interferencia. Sí hay
+interferencia, pero la diferencia entre las fases de las ondas que se interfieren cambia
+con tal rapidez, que no se distinguen los efectos de la interferencia. Para obtener dos
+fuentes coherentes se coloca una barrera con una rendija angosta frente a una fuente
+luminosa, y una barrera con dos rendijas muy angostas colocadas frente a la primera
+barrera (
+▼figura 24.2a). 
+Las ondas que se propagan saliendo de la primera rendija están en fase, y entonces
+la rendija doble actúa como dos fuentes coherentes, porque cada onda se separa en dos
+partes. Todo cambio aleatorio en la luz de la fuente original afectará entonces a la luz
+que pase por ambas rendijas, y la diferencia de fases será constante. El moderno rayo
+láser, que es una fuente luminosa coherente, facilita mucho la observación de una figu-
+1L10-7 m2
+Máx 
+Mín 
+Máx 
+Mín 
+Máx 
+Mín 
+Máx 
+Mín 
+Máx 
+S1
+S2
+Una sola
+rendija
+Fuente
+luminosa
+Pantalla
+ a)
+ b)
+Doble
+rendija
+(n = 2)
+(n = 1)
+(n = 0)
+(n = 1)
+(n = 2)
+n = 2
+n = 1
+n = 0
+n = 1
+n = 2
+Intensidad
+L
+> FIGURA 24.2 Interferencia de 
+doble rendija a) Las ondas 
+coherentes de dos rendijas se 
+indican en azul (rendija superior) y
+en gris (rendija inferior). Las ondas
+se difunden a causa de la difracción
+en rendijas angostas. Esas ondas 
+interfieren y producen máximos y
+mínimos que se alternan, es decir,
+franjas brillantes y oscuras, en la
+pantalla. b) Una figura de inter- 
+ferencia. Note la simetría de la 
+figura respecto al máximo central
+1n = 02.
+Ilustración 37.1 Ondas en el estanque
+
+762

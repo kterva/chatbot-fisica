@@ -1,0 +1,1720 @@
+Tema: Segundo principio de la termodinámica (Capítulo 19 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+552 | Capítulo 19 Segundo principio de la termodinámica 
+Un ejemplo corriente de la conversión de energía mecánica en calor es el movimiento con 
+rozamiento. Por ejemplo, supongamos que empleamos dos minutos en empujar un bloque en 
+cualquier dirección sobre la superficie de una mesa siguiendo un camino cerrado que deja al 
+bloque en su posición inicial. Supongamos también que el sistema bloque-mesa está inicial- 
+mente en equilibrio térmico con el entorno. El trabajo que realizamos sobre el sistema se con- 
+vierte en energía interna del sistema, y esto da como resultado que el sistema bloque-mesa se 
+calienta. En consecuencia, el sistema ya no está en equilibrio con el medio. Sin embargo, el sis- 
+tema cederá energía en forma de calor al medio hasta que vuelva a estar en equilibrio térmico 
+con él. Como los estados inicial y final del sistema son el mismo, según el primer principio de 
+la termodinámica la energía transmitida al medio en forma de calor debe ser igual al trabajo 
+que hemos realizado sobre el sistema. El proceso inverso no ocurre nunca, es decir, un bloque 
+y una mesa no se enfriarán nunca espontáneamente para convertir su energía interna en energía 
+cinética que ponga en movimiento el bloque sobre la mesa. Sin embargo, si este sorprendente 
+fenómeno se verificara, no violaría el primer principio de la termodinámica, ni ninguna otra ley 
+física de las que hemos estudiado hasta ahora. Sin embargo, sí violaría el segundo principio de 
+la termodinámica. Existe, pues, una falta de simetría en los papeles que desempeñan el calor y 
+el trabajo que no resulta evidente a partir del primer principio. Esta falta de simetría está rela- 
+cionada con el hecho de que algunos procesos son irreversibles. 
+Existen muchos procesos irreversibles, aparentemente muy diferentes unos de otros, pero 
+todos relacionados con el segundo principio. Por ejemplo, la conducción de calor es un pro- 
+ceso irreversible. Si colocamos un cuerpo caliente en contacto con otro frío, el calor fluirá 
+del cuerpo caliente al cuerpo frío hasta que estén a la misma temperatura. Sin embargo, el 
+proceso inverso no se presenta nunca. Dos cuerpos en contacto a la misma temperatura, per- 
+manecen a la misma temperatura. El calor no fluye de uno al otro, haciendo que uno de ellos 
+se enfríe cada vez más mientras que el otro cada vez se calienta más. Este hecho experimen- 
+tal nos ofrece otro enunciado del segundo principio de la termodinámica. 
+Es imposible un proceso cuyo único resultado sea transferir energía en forma de calor de 
+un objeto a otro más caliente. 
+SEGUNDO PRINCIPIO DE LA TERMODINÁMICA: ENUNCIADO DE CLAUSIUS 
+En este capítulo demostraremos que los enunciados de Kelvin y de Clausius del segundo 
+principio son equivalentes. 
+19.1 Máquinas térmicas y el segundo principio de la 
+termodinámica 
+El estudio del rendimiento de las máquinas térmicas dio origen a los primeros enunciados 
+claros del segundo principio de la termodinámica. Una máquina térmica es un dispositivo 
+cíclico cuyo propósito es convertir la máxima cantidad posible de calor en trabajo. Todas 
+ellas contienen una sustancia de trabajo (agua en la máquina de vapor, aire y vapor de 
+gasolina en los motores de combustión interna) que absorbe una cantidad de calor Q,, realiza 
+el trabajo W y cede el calor Q, cuando vuelve a su estado inicial, en donde 
+Qr W y Q, representan cantidades positivas 
+Las primeras máquinas térmicas fueron máquinas de vapor, inventadas en el siglo XVIII para 
+bombear el agua de las minas de carbón. Hoy las máquinas de vapor se utilizan para generar 
+electricidad. En una máquina de vapor típica se calienta agua a una presión muy elevada (nor- 
+malmente hasta varios cientos de atmósferas) hasta que se vaporiza dando vapor de agua a 
+temperatura alta (del orden de 500 *C) (figura 19.1). El vapor se expansiona contra un pistón (o 
+las palas de una turbina) realizando trabajo, escapa después a una temperatura mucho menor y 
+~ se enfría aún más en el condensador, donde se le extrae calor para producir su condensación. A 
+continuación el agua se bombea e introduce de nuevo en la caldera, donde se calienta otra vez.
+
+Valvula de 
+escape abierta 
+Al tubo 
+El pistón se mueve pe 
+y, — de escape Válvula de 
+Máquina 
+Válvula de 
+admisión abierta 
+Mezcla de 
+aire y vapor TT 
+de gasolina 
+admisión escape 
+Condensador 
+b ¡q Válvula de 
+19.1 Máquinas térmicas y el segundo principio de la termodinámica | 553 
+— 
+Una mezcla de 
+de gasolina y aire 
+entra en la camára 
+de combustión cuando 
+el émbolo se mueve 
+de nuevo hacia pa O hacia abajo. 
+arriba para expulsar Fold 
+los gases de la 
+combustión. | O 
+O ES 
+W Fase de admisión aa (o carrera) Buí 
+Fase de expulsión (1) E piton se (5) mueve después 
+F) E hacia arriba 
+Ambas valvul > ¿258 comprimiendo julia a ind Cilindro— ~ la mezcla para 
+Pistó su ignición. 
+Ml ms AA Los gases, al ex- AJA } 
+pansionarse, des- ary Ambas valvulas 9 
+plazan el pistón = cerradas (O ur — Cigúeñal 
+hacia abajo. Es la O y e 
+fase de potencia g 1 zi i Fase de compresión 
+do £ i (2) 
+t fou Fase de potencia | | 
+(4) an ) 
+EN a) 
+Ignición 
+(3) 
+Figura 19.2 Máquina de combustión interna. En algunos motores de inyección, el carburante se 
+inyecta directamente en el cilindro en lugar de hacerlo en la corriente de aire. 
+Cuando la gasolina 
+explota, los gases 
+resultantes se 
+expansionan. 
+La figura 19.2 es un diagrama esquemático de otro tipo de máquina térmica. Es la 
+máquina de combustión interna utilizada por la mayoría de los automóviles. Con la válvula 
+de escape cerrada, una mezcla de vapor de gasolina y aire entra en la cámara de combustión 
+a medida que el pistón se mueve hacia abajo en la fase de admisión. La mezcla es después 
+comprimida y explota por la acción de una chispa creada en la bujía. Los gases calientes se 
+expansionan contra el pistón, que desciende en la llamada fase de potencia, realizando tra- 
+bajo. Los gases se expulsan a continuación por la válvula de escape y el ciclo se repite. Un 
+modelo idealizado de estos procesos en la máquina de combustión interna constituye el ciclo 
+de Otto que se muestra en la figura 19.3. 
+Figura 19.1 Esquema de una máquina de vapor. 
+El vapor a alta presión procedente de la caldera 
+realiza trabajo contra el pistón. 
+Figura 19,3 Ciclo de Otto correspondiente a una 
+máquina de combustión interna. La mezcla de aire- 
+gasolina entra en a y se comprime adiabáticamente 
+hasta b. Entonces se calienta (al quemarse debido a 
+la chispa que salta en la bujía) a volumen constante 
+hasta c. La fase de potencia está representada por la 
+expansión adiabática desde ca d, El enfriamiento a 
+volumen constante desde d a a representa la 
+expulsión de los gases quemados y la admisión de 
+una nueva mezcla de aire-gasolina.
+
+554 | Capítulo 19 Segundo principio de la termodinámica 
+Figura 19.4 Representación esquemática de una 
+máquina térmica. La máquina extrae calor Q, de un 
+foco caliente a temperatura 7;,, realiza trabajo W, y 
+elimina calor Q, a un foco frío a temperatura 7. 
+Con el fin de extraer calor del motor y reducir su 
+temperatura, el “dragster” de la figura dispone de un 
+sistema de escape múltiple. 
+La figura 19.4 nos muestra de forma esquemática una máquina o motor térmico, El calor 
+que entra Q, procede de un foco caliente a temperatura 7;,; el calor que se escapa Q, se cede 
+a un foco térmico a una temperatura inferior T.. Un foco caliente o frío es un sistema ideali- 
+zado que tiene una capacidad calorífica tan grande que puede absorber o ceder calor sin una 
+variación apreciable de su temperatura. En la práctica, un combustible fósil que se quema 
+suele actuar como foco de alta temperatura, y la atmósfera del entorno, o un lago, suelen 
+actuar como focos de baja temperatura. La aplicación del primer principio de la termodiná- 
+mica (AU = Q + W) da 
+W = Q,-9. (19.1) 
+en donde W es el trabajo realizado por la máquina en un ciclo completo, Q, — Q, es la ener- 
+gía total en forma de calor transferida a la máquina durante un ciclo y AU es la variación de 
+la energía interna de la máquina (incluyendo la sustancia de trabajo) también durante un 
+ciclo. Como los estados inicial y final de la máquina en un ciclo completo coinciden, las 
+energías internas inicial y final son iguales. Por lo tanto, AU = 0, 
+Se define el rendimiento £ como el cociente entre el trabajo realizado y el calor absor- 
+bido del foco caliente: 
+ce A - 1-= (19.2) 
+DEFINICIÓN —RENDIMIENTO DE UNA MÁQUINA TÉRMICA 
+Como normalmente el calor Q, se obtiene quemando carbón, derivados del petróleo o algún 
+otro tipo de combustible que cuesta dinero, las máquinas térmicas han de proyectarse para 
+tener el mayor rendimiento posible. Los rendimientos de las máquinas térmicas tienen valores 
+típicos del orden del 40 por ciento, mientras que los motores de combustión interna pueden 
+alcanzar valores próximos al 50 por ciento. Con un rendimiento del 100% (£= 1), todo el calor 
+absorbido del foco caliente se convertiría en trabajo y el foco frío no recibiría ninguna cantidad 
+de calor. Sin embargo, es imposible construir una máquina térmica con un rendimiento del 
+100%. Este resultado experimental es el enunciado de la máquina térmica del segundo 
+principio de la termodinámica, el cual es equivalente al enunciado que se atribuye a Kelvin: 
+Es imposible que una máquina térmica funcione cíclicamente sin producir ningún otro 
+efecto que extraer calor de un solo foco realizando una cantidad de trabajo exactamente 
+equivalente, 
+SEGUNDO PRINCIPIO DE LA TERMODINÁMICA: ENUNCIADO DE LA MÁQUINA TÉRMICA 
+La palabra cíclicamente en este enunciado es importante, pues en un proceso no cíclico 
+sí que es posible convertir el calor totalmente en trabajo. Así ocurre, por ejemplo, cuando 
+un gas ideal experimenta un proceso de expansión isoterma. Sin embargo, después de la 
+expansión, el gas no se encuentra en su estado original. Para que el gas vuelva a su estado 
+original, debe realizarse sobre él un trabajo y una parte de calor se pierde. 
+Esencialmente, el segundo principio nos dice que si queremos extraer energía de un foco 
+térmico para realizar trabajo, tenemos que disponer de un foco más frío en el que pueda eli- 
+minarse parte de la energía. Si esto no fuese cierto, podría proyectarse una máquina térmica 
+para su empleo en un barco que funcionaría extrayendo calor del océano y transformándolo 
+en trabajo para mover el barco. Desgraciadamente, este enorme depósito de energía no 
+resulta utilizable para este empleo, a no ser que se encuentre otro foco más frío a donde 
+enviar el calor a eliminar. (Teóricamente es posible que una máquina térmica funcione entre 
+la superficie más caliente del agua del océano y el agua más fría a grandes profundidades, 
+pero hasta ahora no ha surgido un esquema práctico para utilizar esta diferencia de tempera- 
+turas como fuente de energía.) El problema reside en que para convertir íntegramente la 
+energía térmica (el calor), totalmente desordenada, a una sola temperatura en la energía per- 
+fectamente ordenada de un objeto en movimiento (sin otros cambios en la fuente u objeto), 
+debe utilizarse otro foco frío.
+
+19.1 Maquinas térmicas y el segundo principio de la termodinamica 
+EJEMPLO 19.1 | Rendimiento de una maquina térmica 
+En cada ciclo una maquina térmica absorbe 200 J de calor de un foco caliente, realiza trabajo 
+y cede 160 J a un foco frío. ¿Cuál es su rendimiento? 
+Planteamiento del problema Utilizaremos la definición del rendimiento de una máquina tér- 
+mica (ecuación 19.2). 
+1. El rendimiento es el cociente entre el trabajo realizado y el calor absor- € = W. 
+bido: 0, 
+2. El calor absorbido se conoce: O, = 200 J 
+3. El trabajo realizado se deduce del primer principio: W = Q,- Q. = 200J-160J = 40] 
+A, W_ 40J 4. Reemplazando Q, y W por sus valores en la expresión de e, se deduce € = o, = 2003 = 0,20 =|20% h E 
+el rendimiento: 
+Ejercicio Una máquina térmica posee un rendimiento del 35%. (a) ¿Cuánto trabajo realiza por 
+ciclo si absorbe 150 J de calor del foco caliente por ciclo? (b) ¿Cuánto calor no se aprovecha en cada 
+ciclo? (Respuestas (a) 52,5 J, (b) 97,5 J.) 
+EJEMPLO 19.2 | Rendimiento de un motor ideal de combustión interna. 
+El Ciclo de Otto 
+(a) Determinar el rendimiento del ciclo de Otto indicado en la figura 19.3. (b) Expresar la res- 
+puesta en función del cociente de volúmenes r = V,/V, = V4/V,. 
+Planteamiento del problema (a) Para determinar e debemos conocer previamente Q, y Q.. La 
+transferencia de calor tiene lugar solamente durante los dos procesos a volumen constante, b—c y d 
+— a. Conocidos Q, y Q, se puede determinar e en función de las temperaturas T,, Tọ, T, y Ty. (b) Las 
+temperaturas se relacionan con los volúmenes mediante la expresión TV?” | = constante para proce- 
+sos adiabáticos. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+¡INTÉNTELO USTED MISMO! 
+Pasos Respuestas 
+Orio J 
+(a) 1. Escribir el rendimiento en función de Q, y Q.. e= la LS | = =~ calient ach 
+2. El calor que se cede tiene lugar a volumen constante ded aa. QO. = |O = CJT -Ta = C(?,-T,) 
+Expresar Q, en función de C, y las temperaturas T, y Ty. 
+3. El calor que se absorbe tiene lugar a volumen constante de bac. QO, = Q,., = GAT. -T,) 
+Expresar Q, en función de C, y las temperaturas T, y Ty 
+4. Sustituir estos valores de Q, y Q, para determinar el rendimiento £ 
+en función de las temperaturas T}, Ty, Te y Ty. 
+(b) 1. Relacionar T, con Ty mediante las ecuaciones TV” ' = constantey T, 
+V/V.=r. 
+dE vr 
+2. Relacionar T, y T, como en el paso anterior. T: 
+; i Ss T-T, 3. Mediante estas relaciones eliminar T, y T, de € en (a), de modo £= I- 7 - ra oe ee 
+que £ se exprese en función de r. 
+Observación La razón r (volumen antes de la compresión/volumen después de la compresión) se 
+denomina razón de compresión. 
+555
+
+556 | Capítulo 19 Segundo principio de la termodinámica 
+(a) 
+Líquido a 
+baja presión 
+Líquido a 
+Válvula de alta presión 
+expansión 
+Sensor 
+Serpentín del 
+condensador 
+(exterior al refrigerador) 
+Qh 
+0. (hacia el exterior) 
+(desde el 
+interior del Y 4 
+refrigerador apor de 
+al serpentin) alta presión 
+Trabajo 
+= Motor del 
+5 compresor 
+Serpentin h 
+de enfriamiento ) oe Ye 
+eo Vapor de Toma de 
+g baja presión corriente 
+(b) 
+Figura 19.5 (a) Representación esquemática de un refrigerador. El refrigerador extrae energía térmica Q, de un foco frío y cede 
+calor Q, a un foco caliente, utilizando para ello un trabajo W. (b) Un refrigerador real. 
+19.2 Refrigeradores y segundo principio de la 
+termodinámica 
+La figura 19.5a es una representación esquemática de un refrigerador, el cual es esencial- 
+mente una máquina térmica que funciona en sentido inverso. El refrigerador extrae calor de 
+su interior (foco frío) y lo cede al medio (foco caliente). La experiencia demuestra que en 
+esta transferencia siempre debe consumirse cierta cantidad de trabajo. Este resultado consti- 
+tuye el enunciado del refrigerador del segundo principio de la termodinámica, que es 
+otra manera de expresar el enunciado de Clausius: 
+Es imposible que un refrigerador funcione cíclicamente sin producir ningún otro efecto 
+que la transferencia de calor de un objeto frío a otro caliente. 
+SEGUNDO PRINCIPIO DE LA TERMODINÁMICA: ENUNCIADO DEL REFRIGERADOR 
+Si esta afirmación no fuese cierta, sería en principio posible enfriar nuestros domicilios en 
+verano con un refrigerador que bombease el calor hacia el exterior sin utilizar electricidad o 
+algún otro tipo de energía. 
+Una medida de la eficiencia de un refrigerador es la razón Q./W del calor extraído del 
+foco de baja temperatura y el trabajo realizado sobre el refrigerador. (Este trabajo es igual a 
+la energía eléctrica que procede de la toma de corriente de la pared.) La razón Q,/W recibe el 
+nombre de coeficiente de eficiencia 
+2 a Be me w (19.3) 
+DEFINICIÓN —COEFICIENTE DE EFICIENCIA (REFRIGERADOR)
+
+19.3 Equivalencia entre los enunciados de la maquina térmica y del refrigerador 
+Cuanto mayor es el coeficiente de eficiencia, mejor es el refrigerador. Los refrigeradores 
+ordinarios tienen coeficientes del orden de 5 6 6. En función de esta razón, el enunciado del 
+refrigerador del segundo principio afirma que el coeficiente de eficiencia de un refrigerador 
+no puede ser infinito. 
+EJEMPLO 19.3 | Fabricación de cubitos de hielo 
+Una hora antes de que empiecen a llegar los invitados nos damos cuenta de que hemos olvi- 
+dado comprar cubitos de hielo para las bebidas. Rápidamente ponemos un litro de agua a 
+10°C en la bandeja de los cubitos y la colocamos en el congelador. ¿Tendremos a tiempo el 
+hielo para los invitados? En la etiqueta de especificaciones del refrigerador consta que el apa- 
+rato tiene un coeficiente de eficiencia de 5,5 y una potencia de 550 W. Se estima que sólo el 10% 
+de la potencia se emplea para fabricar los cubitos. 
+Planteamiento del problema El trabajo es igual a la potencia multiplicada por el tiempo. 
+Como se nos da la potencia, hemos de hallar el trabajo para determinar el tiempo. El trabajo está 
+relacionado con Q, por la ecuación 19.3. Para obtener el valor de Q. hemos de calcular cuánto calor 
+se ha de extraer del agua. 
+1. El tiempo está relacionado con la potencia disponible y el trabajo P = W/r 
+requerido: t = WIP 
+2. El trabajo está relacionado con el coeficiente de eficiencia y el calor W = 2: 
+extraído: 1 
+3. El calor Q, extraído del interior del refrigerador es igual al calor Q, Q. = Q,+0» 
+extraído del agua para enfriarla más el calor Q, que se ha de extraer del 
+agua para congelarla: 
+4. El calor Q, necesario para enfriar 1 L de agua (masa 1 kg)en 10C?* Q, 
+(AT=10K)es: 
+5. El calor Q, necesario para congelar el agua en cubitos de hielo es: Q: = 
+6. La suma de estos calores nos da Q.: Q. = 41,8 kJ + 333,5 
+7. Sustituyendo Q, en el paso 2 se determina el trabajo W: W= S = p = 
+8. El tiempo ż se obtiene utilizando este valor del trabajo W y el de la f = > = a = 
+potencia disponible, 55 W: $ 
+Observación Hay tiempo suficiente para fabricar cubitos de hielo. Si hubiésemos hecho el cál- 
+culo antes de poner el agua en el refrigerador podríamos incluso haber casi triplicado la cantidad de 
+agua a congelar. 
+Ejercicio Un refrigerador tiene un coeficiente de eficiencia igual a 4,0. ¿Cuánto calor hay que 
+ceder al foco caliente si se extraen 200 kJ del foco frío? (Respuesta 250 KJ.) 
+19.3 Equivalencia entre los enunciados de la máquina 
+térmica y del refrigerador 
+Aunque los enunciados de la máquina térmica y del refrigerador (o enunciados de Kelvin y 
+Clausius respectivamente) del segundo principio de la termodinámica parecen muy diferen- 
+tes, son en realidad equivalentes. Puede demostrarse esta equivalencia comprobando que si 
+se supone falso uno cualquiera de ellos, el otro debe ser también falso. Utilizaremos un 
+ejemplo numérico para mostrar que si el enunciado de la máquina térmica es falso, el del 
+refrigerador resulta a su vez falso. 
+jPONGALO EN SU CONTEXTO! 
+mc AT = (1 kg)(4,18 kJ/(kg - K)X(10 K) = 41,8 kJ 
+mL, = (1 kg)(333,5 kJ/kg) = 333,5 kJ 
+kJ = 375,3 kJ = 375 kJ 
+1,24 ks x a =[20,7 min] 
+557
+
+558 | Capítulo 19 Segundo principio de la termodinámica 
+Figura 19.6 Demostración de la equivalencia de 
+los enunciados de la máquina térmica y del 
+refrigerador del segundo principio de la 
+termodinámica. 
+Refrigerador a 
+Refrigerador |_| perfecto 
+ordinario Máquina perfecta 
+(a) (b) (b) 
+Refrigerador ordinario Máquina térmica El refrigerador ordina- 
+que extrae 100 ] de perfecta que viola el rio de (a) y la máquina 
+un foco frío y cede enunciado de la má- térmica perfecta de (b) 
+150 J a un foco caliente, quina térmica del trabajando juntos constituyen 
+requiriendo el consumo segundo principio un refrigerador perfecto que 
+de 50 | de trabajo. extrayendo 50 | del viola el enunciado del refrige- 
+foco caliente y convir- rador del segundo principio 
+tiéndolos completa- transfiriendo 100 | de energía 
+mente en trabajo. del foco frío al foco caliente 
+sin producir ningún 
+otro efecto. 
+En la figura 19.6a puede verse un refrigerador ordinario que utiliza 50 J de trabajo para 
+extraer 100 J de energía en forma de calor de un foco frío, cediendo 150 J a un foco caliente. 
+Si no fuese cierto el enunciado de la máquina térmica del segundo principio de la termodiná- 
+mica, podríamos disponer de una máquina perfecta que extrajese energía del foco caliente 
+convirtiéndola completamente en trabajo con un rendimiento del 100 por ciento. Esta 
+máquina podría utilizarse para extraer 50 J de energía del foco caliente y obtener en conse- 
+cuencia 50 J de trabajo (figura 19.6b). Entonces, si empleamos esta máquina térmica per- 
+fecta en unión con el refrigerador ordinario, se podría construir un refrigerador perfecto que 
+transfiriese 100 J de energía en forma de calor del foco frío al foco caliente sin requerir el 
+consumo de trabajo, como se ilustra en la figura 19.6c. Así se violaría el enunciado del refri- 
+gerador del segundo principio de la termodinámica. Por consiguiente, si el enunciado de la 
+máquina térmica es falso, el del refrigerador debe ser asimismo falso. Análogamente, puede 
+demostrarse que si existiese un refrigerador perfecto, podría utilizarse, junto con una 
+máquina térmica ordinaria, para construir una máquina térmica perfecta. Así pues, si es falso 
+el enunciado del refrigerador, también lo es el de la máquina térmica. Se deduce entonces 
+que si uno cualquiera de los enunciados es verdadero, el otro debe ser igualmente cierto. Por 
+consiguiente, ambos son equivalentes. 
+19.4 La máquina de Carnot 
+Hemos visto que, de acuerdo con el segundo principio de la termodinámica, es imposible 
+que una máquina térmica que funciona entre dos focos térmicos tenga un rendimiento del 
+100 por ciento. Entonces, ¿cuál es el rendimiento máximo posible para esta máquina? Esta 
+cuestión fue contestada por un joven ingeniero francés en 1824, Sadi Carnot, antes de que se 
+hubieran establecido el primer principio o el segundo principio de la termodinámica. Carnot 
+dedujo que una máquina reversible es la máquina más eficiente que puede operar entre dos 
+focos térmicos determinados. Este resultado se conoce como el teorema de Carnot: 
+Ninguna máquina térmica que funcione entre dos focos térmicos dados puede tener un 
+rendimiento mayor que una máquina reversible que opere entre estos dos focos. 
+TEOREMA DE CARNOT
+
+(a) (b) (c) (d) 
+Figura 19.7 Demostración del teorema de Carnot. (a) Una máquina térmica reversible con un 
+rendimiento del 40% extrae 100 J de un foco caliente, realiza 40 J de trabajo y cede 60 J al foco frío. (b) 
+Si la misma máquina funciona al revés, es decir como un refrigerador, se han de hacer 40 J de trabajo 
+para extraer 60 J del foco frío y ceder 100 J al foco caliente. (c) Una hipotética máquina térmica que 
+funciona entre los mismos focos con un rendimiento del 45%, el cual es mayor que el de la máquina 
+reversible (a). (d) El efecto neto del funcionamiento conjunto de la máquina (c) con el refrigerador (b) 
+es el mismo que el de una máquina térmica perfecta que extrae 5 J del foco frío y los convierte 
+completamente en trabajo sin ningún otro efecto, violando así el segundo principio de la termodinámica. 
+Por consiguiente, la máquina reversible (a) es la máquina de mayor rendimiento que puede operar entre 
+estos dos focos térmicos. 
+Una máquina térmica reversible que funciona cíclicamente entre dos focos térmicos se deno- 
+mina máquina de Carnot y su ciclo es el ciclo de Carnot. La figura 19.7 ilustra el teorema 
+de Carnot con un ejemplo numérico, 
+Si no hay ninguna máquina que pueda tener un rendimiento mayor que la máquina de Car- 
+not, se deduce que todas las máquinas reversibles que funcionen entre los dos mismos focos 
+deben tener el mismo rendimiento. Este rendimiento, que se denomina rendimiento de Car- 
+not, debe ser independiente de las sustancias de trabajo (es decir, de los sistemas que efectúan 
+el ciclo) que empleen las máquinas y depende únicamente de la temperatura de los focos. 
+Examinemos lo que hace que un proceso sea reversible o irreversible. De acuerdo con el 
+segundo principio, el calor fluye desde objetos calientes hasta objetos fríos y nunca en sen- 
+tido inverso. Po lo tanto, la conducción de calor de un objeto caliente a uno frío no es rever- 
+sible. Del mismo modo, el rozamiento puede transformar trabajo en calor, pero nunca calor 
+en trabajo, La conversión de trabajo en calor por medio del rozamiento no es reversible. El 
+rozamiento y el resto de fuerzas disipativas transforman energía mecánica en energía térmica 
+de manera irreversible. Se presenta un tercer tipo de irreversibilidad cuando un sistema pasa 
+a través de estados de no equilibrio, como se da el caso si existen turbulencias en un gas o en 
+una explosión. Para que un proceso sea reversible, debe poderse desplazar el sistema hacia el 
+punto inicial en sentido inverso pasando a través de los mismos estados de equilibrio. 
+A partir de estas consideraciones y de los enunciados del segundo principio de la termo- 
+dinámica, podemos indicar algunas condiciones que son necesarias para que un proceso sea 
+reversible. 
+1. La energía mecánica no debe transformarse en energía térmica por rozamiento, fuerzas 
+viscosas u otras fuerzas disipativas. 
+2. La transferencia de energía en forma de calor sólo puede ocurrir entre sistemas a la 
+misma temperatura (o infinitesimalmente próximos a la misma temperatura). 
+3. El proceso debe ser cuasiestático, de modo que el sistema se encuentre siempre en un 
+estado de equilibrio (o infinitesimalmente cerca de un estado de equilibrio.) 
+CONDICIONES DE REVERSIBILIDAD 
+Todo proceso que viole alguna de las condiciones anteriores es irreversible. La mayoría 
+de los procesos naturales son irreversibles. Para conseguir un proceso reversible, debe 
+tenerse gran cuidado en eliminar el rozamiento y otras fuerzas disipativas y en hacer que el 
+proceso sea cuasiestático. Como esto no puede conseguirse nunca por completo, un proceso 
+19.4 La máquina de Carnot 559
+
+560 | Capítulo 19 Segundo principio de la termodinámica 
+Aislante Expansión 
+isotérmica 
+Foco 
+térmico 
+aT, 
+1—2 
+Aislante Compresión Aislante Expansión 
+adiabática adiabática 
+Expansión 
+isoterma 
+a Th 
+/ 11 
+¿4 Expansión Aislant 
+Compresión ALA islante 
+adiabatica a E 
+térmico 
+aT, 
+Compresión 
+isoterma Q. 
+a Te 
+3—4 Compresión 
+isotérmica 
+(a) (b) 
+Figura 19.8 (a) Ciclo de Carnot para un gas ideal: 
+Etapa 1 Se absorbe calor de un foco caliente a temperatura T, durante la expansión isoterma desde el estado 1 al estado 2. 
+Etapa 2 El gas se expansiona adiabáticamente desde el estado 2 al 3 hasta que su temperatura se reduce a T. 
+Etapa 3 El gas cede calor al foco frío cuando se comprime isotérmicamente a T, del estado 3 al estado 4. 
+Etapa 4 El gas se comprime adiabáticamente hasta que su temperatura es de nuevo Th. 
+(b) Durante cada etapa se realiza trabajo sobre el gas o es realizado por éste. El trabajo resultante durante el ciclo se representa por el área sombreada. Todos 
+los procesos son reversibles. Todas las etapas son cuasiestáticas. 
+reversible es una idealización parecida a la del movimiento sin rozamiento de los problemas 
+de mecánica. Sin embargo, podemos hacer en la práctica que un proceso se aproxime mucho 
+a la reversibilidad. 
+Ahora estamos en condiciones de comprender las características de un ciclo de Carnot, 
+que es un ciclo reversible entre dos focos solamente. Como toda transferencia de calor debe 
+realizarse isotérmicamente para que el proceso sea reversible, la absorción de calor del foco 
+caliente debe realizarse de forma isoterma. La siguiente etapa debe ser una expansión adia- 
+bática cuasiestática hasta la temperatura más baja del foco frío. A continuación se cede calor 
+isotérmicamente al foco frío. Finalmente se produce una compresión adiabática cuasiestática 
+hasta alcanzar la temperatura más alta del foco caliente. El ciclo de Carnot consta, pues, de 
+las cuatro etapas reversibles siguientes: 
+1. Una absorción isoterma y cuasiestática de calor de un foco caliente. 
+2. Una expansión adiabática y cuasiestática hasta una temperatura más baja. 
+3. Una cesión isoterma y cuasiestática de calor a un foco frío. 
+4. Una compresión adiabática y cuasiestática hasta el estado original. 
+ETAPAS DE UN CICLO DE CARNOT 
+Para calcular el rendimiento de una maquina de Carnot, elegimos como sustancia de tra- 
+bajo un material de propiedades conocidas —un gas ideal— y calculamos explicitamente el 
+trabajo realizado sobre ella a lo largo de un ciclo de Carnot (figura 19.8). Como todos los 
+ciclos de Carnot poseen el mismo rendimiento, independientemente de la sustancia de tra- 
+_ bajo, nuestro resultado será válido de modo general.
+
+19.4 La maquina de Carnot 561 
+Central eléctrica alimentada por carbón en Four 
+Corners, Nuevo México (Estados Unidos). 
+El rendimiento de este ciclo (ecuación 19.2) es 
+Q. et=l=-—_ 
+0, 
+El calor Q,, se absorbe durante la expansión isoterma del estado | al estado 2. El primer prin- 
+cipio de la termodinámica establece que AU = Q + W. Para una expansión isoterma de un gas 
+ideal, AU = 0. Aplicando el primer principio a la expansión isoterma desde el estado 1 al 
+estado 2 se obtiene que Q, es igual al trabajo realizado por el gas en esa etapa: 
+v, dV 
+vw V 
+V3 
+Vi 
+A Ls On = Wraps = fy Pav = fy y av = nRT, Í = nRT,In 
+Análogamente, el calor cedido al foco frío es igual al trabajo realizado sobre el gas durante 
+la compresión isoterma a temperatura T, desde el estado 3 al 4. Este trabajo tiene el mismo 
+valor absoluto que el realizado por el gas si se expande del estado 4 al 3. El calor cedido 
+vale, por lo tanto 
+V3 
+Q. = W por el gas = nRT In V. 
+4 
+Central eléctrica en Wairakei (Nueva Zelanda), que 
+transforma la energía geotérmica en electricidad. El cociente entre estas cantidades de calor es 
+T mn Do Y, 
+s Th ne 
+V 
+Podemos relacionar las razones V/V, y V;/V, utilizando la ecuación 18.37 correspondiente a 
+una expansión adiabática cuasiestática. Aplicando esta ecuación a la expansión del estado 2 
+al 3, se obtiene 
+y-1 = y-! Ta Yg; = = T.V] 
+Análogamente, en el caso de la compresión adiabática del estado 4 al 1, tenemos 
+T,VY-! = Tvg!
+
+562 | Capítulo 19 Segundo principio de la termodinámica 
+Nhe aye e Pa 
+) = ’ 
+i 
+, e 
+— e 
+Las barras de control se están insertando en este La energía solar se concentra y recoge individualmente para producir electricidad mediante estos 
+reactor nuclear en Tihange (Bélgica). heliostatos que se están probando en el Sandia National Laboratory (Estados Unidos). 
+Dividiendo ambas ecuaciones, resulta 
+Vara! K Ft Va Ys pan = | — => — = — 
+E =lv) RR 
+Así se tiene 
+T ni n— 
+Q. 2 V4 La 
+Aa (19.5) 
+= Tin i 
+1 
+El rendimiento de Carnot & es, pues 
+Eos 1 as (19.6 iS Ti 6) 
+Generador eléctrico experimental accionado por el R Sl 
+viento en el Sandia National Laboratory (Estados A 
+Unidos). El tipo de hélice propulsora está 
+proyectado para una transferencia óptima de la La ecuación 19.6 demuestra que el rendimiento de Carnot es independiente de la sustancia de 
+energía del viento a energía mecánica, trabajo de la máquina que se considere: sólo depende de las temperaturas de los dos focos. 
+EJEMPLO 19.4 | Rendimiento de una máquina de vapor 
+Una máquina de vapor funciona entre un foco térmico a 100 °C = 373 K y un foco frío a 0 °C = 
+273 K. (a) ¿Cuál es el máximo rendimiento posible de esta máquina? (b) Si la máquina fun- 
+ciona en sentido inverso como un refrigerador, ¿cuál es su máximo coeficiente de eficiencia? 
+Planteamiento del problema El rendimiento máximo corresponde al ciclo de Carnot dado por 
+la ecuación 19.6. Para determinar el máximo coeficiente de eficiencia, se utiliza la definición de ren- 
+dimiento (€ = W/Q,), la definición de n (7 = Q,/W) y la ecuación 19.5.
+
+19.4 La maquina de Carnot | 563 
+x ya : T 273 K del lo d 5 = jf SS E = X (a) El máximo rendimiento es el del ciclo de Carnot Em = Ec = 1 T, l 33K 0,268 =| 26,8% 
+(b) 1. Escribir la expresión para 7) si la máquina funciona en sentido n = r 
+inverso en un ciclo: 
+2. Escribir la expresión para € si la máquina funciona en sentido € = w 
+directo en un ciclo. (Como para la máxima eficiencia posible la Qr 
+máquina es reversible, los valores de Qp, O, y W son los mismos 
+cualquiera que sea el sentido de funcionamiento): 
+; ` a Oe Q 3. A partir del paso 2, despejar W y sustituir el resultado en la expre- n = = = z p W EO, sión del paso 1: 
+ete a SE 4. reise la ecuación 19.5 y el resultado de (a) obtener el valor £Q, ET.  0,268(373 K) 
+: n =12,73 
+Observaciones Aunque el rendimiento de la máquina parece muy bajo, es el máximo posible 
+para toda máquina que opere entre estas temperaturas. Las máquinas reales tiene aún menores rendi- 
+mientos debido al rozamiento, la conducción térmica y otros procesos irreversibles. De igual modo, 
+los refrigeradores reales tienen un menor coeficiente de eficiencia. Puede observarse que el coefi- 
+ciente de eficiencia de un refrigerador de Carnot es TJAT. 
+El rendimiento de Carnot establece un límite superior de posibles rendimientos y, por lo 
+tanto, es útil conocerlo. Por ejemplo, hemos calculado en el ejemplo 19.4 que el rendimiento 
+de Carnot es 26,8%. Esto quiere decir que por'mucho que se reduzca el rozamiento y otras 
+pérdidas irreversibles, el mejor rendimiento obtenido entre focos térmicos a 373 K y 273 K 
+es del 26,8 por ciento. Por lo tanto, se ha de reconocer que una máquina que funciona entre 
+esas temperaturas con un rendimiento del 25 por ciento es una máquina muy buena. 
+EJEMPLO 19.5 | Trabajo perdido por un máquina 
+Una máquina consume 200 J de un foco caliente a 373 K, realiza 48 J de trabajo y cede 152 J a 
+un foco frío a 273 K. ¿Cuánto trabajo se “pierde” por ciclo debido a la irreversibilidad de la 
+máquina? 
+Planteamiento del problema La diferencia entre el trabajo máximo que puede realizarse 
+(ciclo de Carnot) y 48 J será el trabajo perdido. 
+1. El trabajo perdido es la cantidad máxima de trabajo que puede reali- W perdido = Wmax- W 
+zarse utilizando una máquina de Carnot menos el trabajo realmente 
+obtenido: 
+2. La cantidad máxima de trabajo que puede realizarse es: W nix = €cQh 
+3. El trabajo perdido es entonces: W perdido = &¢Q, -—W 
+T 4. El rendimiento de Carnot puede expresarse en función de las tempera- £¿= 1- ñ 
+turas; R 
+273 K : Weoo = (1-75) -w = (1-55) 200 J) -48 J 5. Sustituyendo el valor de £¿ se obtiene: ga Qr 373 K ( ) 
+Observaciones Los 5,6 J de energía de la respuesta final no se han “perdido” en el universo, ya 
+que la energía total se conserva. Sin embargo, la máquina real cede 5,6 J de energía al foco frío que 
+podrían haberse convertido en trabajo útil si la máquina hubiera sido ideal, es decir, reversible.
+
+564 | Capítulo 19 Segundo principio de la termodinámica 
+EJEMPLO 19.6 | Pérdida de trabajo entre focos térmicos 
+Si se transmiten por conducción 200 J de calor de un foco térmico a 373 K a otro a 273 K sin 
+máquina térmica entre los focos ¿qué capacidad de producir trabajo se “pierde” en este pro- 
+ceso? 
+Vimos en el ejemplo anterior que una máquina de Carnot funcionando entre estos dos focos 
+podría realizar 53,6 J de trabajo si extrayese 200 J del foco a 373 K y cediese el resto al foco de 
+273 K. Así pues, si se conducen 200 J directamente del foco caliente al foco frío sin realizar nin- 
+gún trabajo, se “perderán” 53,6 J de esta energía en el sentido de que podrían haberse convertido 
+en trabajo útil. 
+Ejercicio Una máquina de Carnot opera entre focos térmicos a 500 K y 300 K. (a) ¿Cuál es su ren- 
+dimiento? (b) Si emplea 200 kJ de calor del foco caliente, ¿cuánto trabajo realiza? (Respuesta (a) 
+40%, (b) 80 kJ.) 
+Ejercicio Una máquina real trabaja entre focos térmicos a 500 K y 300 K. Emplea 500 kJ de calor 
+del foco caliente y realiza 150 kJ de trabajo durante cada ciclo. ¿Cuál es su rendimiento? 
+(Respuesta 30%.) 
+La escala termodinámica o absoluta de temperaturas 
+En el capítulo 17 definimos la escala de temperaturas del gas ideal en función de las propie- 
+dades de los gases a bajas densidades. Como el rendimiento de Carnot depende sólo de las 
+temperaturas de los dos focos térmicos, puede utilizarse para definir la relación de las tempe- 
+raturas de los focos, independientemente de las propiedades de cualquier sustancia. Definire- 
+mos la relación de las temperaturas absolutas de los focos caliente y frío en la forma 
+Te Q. pee 19, 
+T; O, eae 
+DEFINICION DE TEMPERATURA TERMODINAMICA 
+en donde Q, es la energía extraída del foco caliente y Q, la energía cedida al foco frío por una 
+máquina de Carnot que funcione entre los dos focos. Así pues, para determinar la relación de 
+temperaturas de los dos focos, disponemos una máquina reversible que funcione entre ellos y 
+medimos el calor absorbido y cedido por cada uno de los focos durante un ciclo. La tempera- 
+tura termodinámica está completamente determinada por la ecuación 19.7 y la elección de un 
+punto fijo. Si el punto fijo se define igual a 273,16 K para el punto triple del agua, la escala ter- 
+modinámica de temperaturas coincide con la escala de temperaturas del gas ideal en el inter- 
+valo de temperaturas en el cual puede utilizarse un termómetro de gases. Una temperatura que 
+marque cero en el cero absoluto pertenece a una escala absoluta de temperaturas. 
+*19.5 Bombas de calor 
+Una bomba de calor es un refrigerador con un objetivo diferente. Lo característico de un 
+refrigerador es enfriar un cuerpo o sistema de interés. Sin embargo, el objetivo de una bomba 
+de calor es calentarlos. Por ejemplo, si utilizamos una bomba de calor para calentar una casa, 
+lo que estamos haciendo es extraer calor del aire frío del exterior de la casa para cederlo al 
+aire más cálido del interior. El objetivo es calentar el interior de la casa. Si se efectúa un tra- 
+bajo W sobre una bomba de calor para extraer un calor Q, del foco frío y ceder un calor Q, al 
+foco caliente, el coeficiente de eficiencia de la bomba de calor se define de la forma 
+Nac = <= (19.8) 
+DEFINICION—COEFICIENTE DE EFICIENCIA (BOMBA DE CALOR)
+
+Este coeficiente de eficiencia es distinto del definido para el refrigerador, el cual es Q,/W (ecua- 
+ción 19.3), Utilizando la relación W = Q; — Q., la expresión (19.8) puede escribirse como 
+(19.9) 
+Se obtiene el máximo coeficiente de eficacia utilizando una bomba de calor de Carnot. En 
+este caso Q, y O, están relacionados por la ecuación 19.5. Sustituyendo la fracción Q./Q,, 
+por TJT, en la ecuación 19.9, se obtiene para el coeficiente de eficiencia máximo 
+A ee ae (19.10) 
+en donde AT es la diferencia de temperaturas entre los focos caliente y frio. Las bombas de 
+calor y los refrigeradores reales tienen unos coeficientes de eficacia menores que Mge máx 
+debido a los rozamientos, la conducción del calor y otros procesos irreversibles. 
+Los coeficientes de eficiencia del refrigerador y de la bomba de calor están relacionados, 
+como puede verse utilizando Q, = Q, + W y las ecuaciones 19.3 y 19.8: 
+EJEMPLO 19.7 | Una bomba de calor ideal 
+Una bomba de calor ideal se utiliza para bombear calor desde el aire exterior a —5 °C hasta el 
+suministro de aire caliente para el sistema de calefacción de una casa, que está a 40 °C. 
+¿Cuánto trabajo se necesita para bombear 1 kJ de calor dentro de la casa? 
+Planteamiento del problema Utilizar la ecuación 19.11 con el coeficiente de eficiencia Nge máx 
+calculado mediante la ecuación 19.10 para T, =-5 °C = 268 K y AT = 45 K. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+2 
+1. Calcular el trabajo a partir de la ecuación 19.8: W= E 
+BC 
+: ; Th 2. Calcular Ngc a partir de la ecuación 19.10: Nac = Necmi = q 
+3. Despejar el trabajo: w= Q = par = 
+Nac Th 
+Observaciones El coeficiente es Nge miy = TWAT = 6,96. Es decir, la energía transferida dentro 
+de la casa en forma de calor es 6,96 veces mayor que el trabajo realizado. (Sólo se necesitan 0,144 kJ 
+de trabajo para bombear 1 kJ de calor al sistema de abastecimiento de aire caliente de la casa.) 
+19.6 Irreversibilidad y desorden 
+Existen muchos procesos irreversibles que no pueden describirse por los enunciados de la 
+máquina térmica o del refrigerador del segundo principio; por ejemplo, un vaso de cristal 
+que cae al suelo y se rompe o un globo que se pincha. Sin embargo, todos los procesos irre- 
+versibles tienen algo en común: el sistema más el medio que lo rodea tiende hacia un estado 
+menos ordenado. 
+19.6 Irreversibilidad y desorden | 565 
+jINTENTELO USTED MISMO!
+
+566 | Capítulo 19 Segundo principio de la termodinámica 
+(b) 
+Figura 19.9 
+jo e? 0 
+d 
+So 
+Consideremos una caja que contiene un gas de masa M a una temperatura T que se está 
+moviendo sobre una mesa sin rozamiento con velocidad V.m (figura 19.9a). La energía ciné- 
+tica total del gas tiene dos componentes. La primera es la energía cinética asociada con el 
+movimiento del centro de masas del gas, 3M v2, - Esta energía es una energía mecánica 
+ordenada que puede convertirse completamente en trabajo. (Por ejemplo, si con una cuerda 
+se sujetase un peso a la caja móvil por medio de una polea, esta energía podría utilizarse para 
+levantar el peso.) La otra componente de la energía cinética del gas es la energía del movi- 
+miento de sus moléculas respecto al centro de masas. Se trata de la energía térmica interna 
+del gas, que está relacionada con su temperatura, 7, y es una energía aleatoria, no ordenada, 
+que no puede convertirse totalmente en trabajo. 
+Supongamos ahora que la caja choca contra una pared fija y se detiene (figura 19.9). 
+Esta colisión inelástica es claramente un proceso irreversible. La energía mecánica ordenada 
+del gas se convierte en energía interna aleatoria y la temperatura del gas se incrementa. Éste 
+tendrá la misma energía total, pero ahora toda ella estará asociada al movimiento aleatorio 
+de sus moléculas respecto al centro de masas del sistema, que en esta situación se encuentra 
+en reposo. Así pues, el gas ha resultado menos ordenado (o más desordenado) y ha perdido 
+algo de su capacidad para realizar trabajo. 
+(y 2 
+19.7 Entropía 
+Existe una función termodinámica denominada entropía S que es una medida del desorden 
+del sistema. Como la presión P, el volumen V, la temperatura T y la energía interna U, la 
+entropía S es una función de estado del sistema. Lo mismo que ocurre con la energía interna, 
+lo importante son las variaciones de la entropía. La variación de entropía dS de un sistema 
+cuando pasa de un estado a otro se define por la expresión: 
+= dQ,.y 
+R= ST (19.12) 
+DEFINICION—CAMBIO DE ENTROPÍA 
+donde el numerador dQ es la energía en forma de calor que debe transferirse al sistema en 
+un proceso reversible para llevarlo del estado inicial al estado final. Si se extrae calor del sis- 
+tema, dQ, es negativo y también lo es la variación de entropía del mismo. 
+El término dQ... no significa que deba tener lugar una transferencia de calor reversible 
+para que cambie la entropía de un sistema. Realmente existen muchos casos en los que varía 
+la entropía de un sistema aun cuando no exista ninguna transferencia de calor, por ejemplo, 
+la del gas que colisiona contra la pared en la figura 19.9. La ecuación 19.12 nos da simple- 
+mente un método para calcular la diferencia de entropía entre dos estados de un sistema. 
+Como la entropía es una función de estado, la variación de entropía de un sistema cuando 
+pasa de un estado a otro depende únicamente de los estados inicial y final del mismo y no del 
+proceso según el cual se produce el cambio. 
+Entropía de un gas ideal 
+Ilustraremos ahora que dQ,./T es realmente la diferencial de una función de estado (aunque 
+dQ,., no lo sea). Consideremos un proceso cuasiestático reversible arbitrario en el que un 
+gas ideal absorbe una cantidad de calor dQ,.,. De acuerdo con el primer principio, dQ,., se 
+encuentra relacionado con la variación de energía interna dU del gas y con el trabajo reali- 
+zado sobre el gas (dW = -P dV) mediante 
+dU = dQ,.,+dW = dQ, -P dV 
+En el caso de un gas ideal, podemos escribir dU en función de la capacidad calorífica, dU = 
+“C, aT, y reemplazar, a partir de la ecuación de estado, P por nRT/V. Entonces 
+C, dT = dQ, -nRT (19.13)
+
+La ecuación 19.13 no puede integrarse a menos que sepamos cómo depende T de V. Esto 
+es precisamente otro modo de decir que dQ,.,, no es una diferencial exacta de una función de 
+estado Qey- Pero si dividimos ambos miembros de la ecuación por T, resulta 
+dT _ ¿Qu dV PATA -nR (19.14) 
+Como C, depende solo de zi el primer miembro puede integrarse y el segundo término del 
+segundo miembro también.! Por consiguiente, dQ,..,/T es la diferencial de una función, la fun- 
+ción entropía $. 
+dQ my — + nR—- (19.15) ds = “Sey =(c, xf) dV 
+Para mayor sencillez, supondremos que C, es constante. Integrando la ecuación 19.15 resulta 
+dQ rey = E, In nr In 7 (19.16) 
+Sie Da 
+La ecuación 19.16 nos da la variación de entropía de un gas ideal que experimenta una 
+expansión reversible desde un estado inicial de volumen V, y temperatura 7, a un estado 
+final de volumen V, y temperatura T}. 
+Cambios de entropía en diversos procesos 
+AS en la expansión isoterma de un gas ideal Cuando un gas ideal experimenta 
+una expansión isoterma, 7, = T, y su variación de entropía es 
+AS = ¡e = nR In (19.17) Vi 
+La variación de entropía del gas es positiva porque V, es mayor que V,. En este proceso, una 
+cantidad de energía Q se transfiere en forma de calor desde el foco térmico al gas. Esta can- 
+tidad de calor es igual al trabajo realizado por el gas: 
+E ne va _. Va Q=W= ip PdV = nRT | Sy = "RT In v, (19.18) 
+La variación de entropía del gas es + Q/T. Como la cantidad de calor que abandona el foco 
+a la temperatura Tes la misma, la variación de entropía del foco es -Q/T. La variación neta 
+de entropía del gas más el foco es cero. Designaremos como “universo” al sistema que se 
+estudia más el medio que le rodea. Este ejemplo ilustra un resultado general: 
+En un proceso reversible, la variación de entropía del universo es nula. 
+AS en la expansión libre de un gas ideal En la expansión libre de un gas ideal 
+expuesta en la sección 18.4, un gas está inicialmente confinado en un compartimiento de un 
+recinto, el cual está conectado por una válvula con otro compartimiento donde se ha hecho el 
+vacío. Todo el sistema tiene paredes rígidas y está térmicamente aislado del medio, de modo 
+que el calor no puede entrar ni salir, ni puede realizarse ningún tipo de trabajo (figura 19.10). 
+Si la válvula se abre, el gas se precipita hacia el recinto vacío y finalmente el gas alcanza el 
+equilibrio térmico consigo mismo. Como no se realiza ningún trabajo y no se transfiere 
+calor, la energía interna final del gas debe ser igual a su energía interna inicial. Si el gas es 
+ideal, la temperatura final T es igual a la inicial. 
+| Matemáticamente hablando, el factor 1/7 se denomina factor integrante de la ecuación 19.13. 
+19.7 Entropía | 567 
+Figura 19.10 Expansión libre de un gas. Cuando 
+la válvula se abre el gas se expande rápidamente 
+hacia la cámara evacuada. Como no se realiza 
+trabajo sobre el gas y el sistema en su conjunto está 
+térmicamente aislado, las energías internas inicial y 
+final del gas son iguales.
+
+568 | Capítulo 19 Segundo principio de la termodinámica 
+A primera vista podríamos pensar que no hay cambio de entropía del gas, ya que no hay 
+transferencia de calor. Este razonamiento es falso porque este proceso no es reversible y, por 
+lo tanto, no podemos utilizar } dQ/T para hallar la variación de entropía del gas. Sin 
+embargo, los estados inicial y final del gas en la expansión libre son los mismos que los del 
+gas en la expansión isoterma del ejemplo anterior. Como la variación de entropía del sis- 
+tema para cualquier proceso depende únicamente de los estados inicial y final del sistema, 
+la variación de entropía en la expansión libre es la misma que en el caso de la expansión 
+isoterma. Si V, es el volumen inicial del gas y V, es su volumen final, la variación de entro- 
+pía experimentada por el gas viene dada por la ecuación 19.17: 
+AS... = nR 1 t =n ay, gas 
+L 
+En este caso, no hay cambio de entropía en el medio y por lo tanto la variación de entropía 
+del gas es también la variación de entropía del universo: 
+V3 = nR in + (19.19) 
+Obsérvese que como V, es mayor que V,, la variación de entropía del universo para este pro- 
+ceso irreversible es positiva; es decir, la entropía del universo aumenta. Esto resulta ser tam- 
+bién una propiedad general: 
+En un proceso irreversible, la entropía del universo aumenta. 
+Si el volumen final en la expansión libre fuese menor que el inicial, la entropía del universo 
+disminuiría, pero esto no ocurre. Un gas no se contrae libremente por sí mismo hasta ocupar un 
+volumen menor. Esto nos lleva a otro enunciado del segundo principio de la termodinámica; 
+En cualquier proceso, la entropía del universo nunca disminuye. 
+EJEMPLO 19.8 | Expansión libre de un gas ideal 
+Determinar la variación de entropía que tiene lugar en la expansión libre de 0,75 moles de un 
+gas ideal de V, =1,5LaV,=3L. 
+Planteamiento del problema En la expansión libre de un gas ideal las temperaturas inicial y final 
+son las mismas. Por lo tanto, la variación de entropía AS en este proceso irreversible es equivalente a la 
+que tiene lugar en un proceso isotermo de V, a V en forma reversible. Para el proceso isotermo AU = 0, 
+luego Q = Wpor Por lo tanto, primero calculamos Q y después establecemos que AS = Q/T. 
+1. La variación de entropía es la misma que tiene lugar en un proceso iso- AS = AS icono = 
+termo de V; a V3: 
+2. El calor Q que absorbería el gas en la expansión isoterma a la tempera- Q = W.,, = ART In + 
+tura Tes igual al trabajo realizado por el gas durante la expansión: 
+3. Sustituir este valor de O para calcular AS: AS = g = nR in = = (0,75 mol)(8,31 J/mol - K) In 2 
+1 
+AS 
+AS para procesos a presión constante Cuando una sustancia se calienta desde la 
+temperatura 7, a la temperatura 7, a presión constante, el calor absorbido dQ está relacio- 
+- nado con su cambio de temperatura dT por 
+dQ = C, dT
+
+Podemos aproximarnos a la conducción del calor reversible si disponemos de un gran 
+número de focos térmicos con temperaturas comprendidas dentro del intervalo de T, a T, y 
+con valores muy próximos entre sí. Entonces hay que colocar nuestra sustancia, cuya tempe- 
+ratura inicial es 7}, en contacto con el primer foco, a temperatura ligeramente mayor que T}, 
+y dejar que la sustancia absorba una pequeña cantidad de calor. Como la transferencia de 
+calor es aproximadamente isoterma, el proceso será aproximadamente reversible. Luego se 
+coloca la sustancia en contacto con el siguiente foco a una temperatura ligeramente superior, 
+y así sucesivamente hasta que se alcance la temperatura final T,. Cuando el calor dQ se 
+absorbe reversiblemente, la variación de entropía del sistema es 
+ONT ol asi= T = OT 
+Integrando de 7, a T, obtenemos la variación total de entropía de la sustancia 
+a dr _ T, dj AS = CJ, & = Cp In (19.20) did: 
+Este resultado nos da la variación de entropía de una sustancia que se calienta de 7, a Ta por 
+medio de cualquier proceso, reversible o irreversible, siempre que la presión final sea igual a 
+la inicial. También nos da el cambio de entropía de una sustancia que se enfría. En este caso 
+T, es menor que T, y In (7,/T,) es negativo, dando lugar a una variación de entropía negativa. 
+Ejercicio Determinar la variación de entropía de | kg de agua que se calienta de 0 °C a 100 °C. 
+(Respuesta AS = 1,31 kJ/K.) 
+EJEMPLO 19.9 | Cambios de entropía durante una transferencia de calor 
+Se mezcla 1 kg de agua a la temperatura 7, = 30 °C con 2 kg de agua a T, = 90 °C en un calori- 
+metro de capacidad calorífica despreciable a una presión constante de 1 atm. (a) Determinar la 
+variación de entropía del sistema. (b) Hallar la variación de entropía del universo. 
+Planteamiento del problema Cuando se mezclan las dos cantidades de agua, se alcanza una 
+temperatura final de equilibrio 7;, que puede determinarse igualando el calor perdido por una de las 
+partes con el calor ganado por la otra. Para calcular la variación de entropía experimentada por cada 
+una de las cantidades de agua, consideraremos un calentamiento isobárico reversible de la masa de 1 
+Kg de agua de 30 °C a 7; y un enfriamiento isobárico de la masa de 2 kg de 90 °C a 7; utilizando la 
+ecuación 19.18. El cambio de entropía del sistema es la suma de las variaciones de entropía de 
+ambas cantidades. La variación de entropía del universo es la suma de las variaciones de entropía del 
+sistema y de su medio. Para hallar la variación de entropía del medio, se supone que no escapa calor 
+del calorímetro durante el tiempo que tarda el agua en alcanzar su temperatura final. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+(a) 1. Calcular 7; estableciendo que el calor perdido es igual al calor 7, = 70 °C = 343 K 
+ganado: 
+2. Utilizar el resultado de 7; y los datos del enunciado para calcular AS, = 0,519 kJ/K 
+AS, y AS): AS, = 0,474 KJ/K 
+19.7 Entropía | 569 
+¡INTÉNTELO USTED MISMO! 
+3. Sumar AS, y AS, para hallar la variación total de entropía del sis- AS... =[+0,0453 kirk | 
+tema: 
+(b) 1. Suponiendo que no hay pérdidas de calor en el calorímetro, hallar AS... = 0 
+el cambio de entropía del medio: 
+2. Sumar ASvictema Y ASmedio Para obtener la variación de entropía del AS, 
+universo: 
+calcular los cambios de entropía. La variación de entropía del universo es positiva, como 
+oe Observaciones Hemos tenido que convertir las temperaturas a la escala absoluta para 
+“era de esperar.
+
+570 | Capitulo 19 Segundo principio de la termodinamica 
+AS en una colisión inelástica Como la energía mecánica se transforma en energía tér- 
+mica en una colisión inelástica, tal proceso es claramente irreversible. La entropía del universo 
+debe, por lo tanto, crecer. A modo de ejemplo, consideremos un bloque de masa m que cae 
+desde una altura A y sufre un choque inelástico contra el suelo. Supongamos que el bloque, el 
+suelo y la atmósfera están todos a la temperatura 7, que no varía de forma significativa durante el 
+proceso. Si consideramos el bloque, el suelo y la atmósfera como nuestro sistema aislado, nada 
+de calor entra o sale del sistema. Su estado ha cambiado porque su energía interna se ha incre- 
+mentado en una cantidad mgh. Esta variación es la misma que si añadiésemos calor Q = mgh al 
+sistema de temperatura constante 7. Para calcular la variación de entropía del sistema, conside- 
+remos así un proceso reversible en el que se añada calor Q, = mgh a temperatura T constante. 
+De acuerdo con la ecuación 19.12 la variación de entropía es entonces 
+Qrey _ mgh 
+e 
+Este valor positivo es también la variación de entropía del universo. 
+AS en la conducción del calor de un foco a otro La conducción del calor es 
+también un proceso irreversible y, por lo tanto, la entropía del universo debe crecer. Conside- 
+remos el caso simple en que se transporta un calor Q por conducción desde un foco caliente 
+a la temperatura T, a un foco frío a la temperatura T.. El estado de un foco térmico viene 
+determinado sólo por su temperatura y su energía interna. La variación de entropía de un 
+foco térmico debida a un intercambio de calor es la misma, sea éste reversible o no. Si se 
+añade calor Q en un foco a temperatura 7, la entropía del foco aumenta en Q/T. Si se elimina 
+el calor, su entropía disminuye en -Q/T. En el caso de la conducción del calor, el foco 
+caliente pierde calor, de manera que su variación de entropía es 
+El foco frío absorbe calor, de modo que su cambio de entropía vale 
+As, = +2 
+n 
+La variación neta de entropía del universo es 
+AS. = AS AAS E (19.21) To h 
+Obsérvese que como el calor siempre fluye de un foco caliente a un foco frío, la variación de 
+entropía del universo es positiva. 
+AS en un ciclo de Carnot Como un ciclo de Carnot es, por definición, reversible, la 
+variación de entropía del universo después de un ciclo debe ser nula. Este hecho puede 
+demostrarse considerando que el cambio de entropía total de los focos es cero. (Como una 
+máquina de Carnot funciona a lo largo de un ciclo, la variación de entropía de la propia 
+máquina es cero, de modo que la variación de entropía del universo es justamente la suma de 
+las variaciones de entropía de los focos.) El cambio de entropía del foco caliente es 
+AS, = —Q,/T¡, en donde Q, es el calor que éste cede. El cambio de entropía del foco frío 
+es AS. = +Q./T,, donde Q, es el calor que éste absorbe, Estas cantidades de calor vienen 
+relacionadas por la definición de temperatura termodinámica (ecuación 19.7) 
+Th Te 
+El cambio de entropía del universo es, por lo tanto, 
+La variación de entropía del universo es cero, como era de esperar.
+
+Obsérvese que hemos ignorado cualquier cambio de entropía asociado a la energía trans- 
+ferida en forma de trabajo desde la máquina de Carnot a su medio. Si este trabajo se emplea 
+en elevar un peso, o realizar algún otro proceso ordenado, entonces no hay cambio de entro- 
+pia. Sin embargo, si este trabajo se utiliza para empujar un bloque de un lado a otro de la 
+superficie de una mesa en la que hay rozamiento, entonces existe un aumento adicional de 
+entropía asociado a este trabajo. 
+EJEMPLO 19.10 | Cambios de entropía en un ciclo de Carnot 
+Durante cada ciclo, una máquina de Carnot extrae 100 J de energía de un foco a 400 K, realiza 
+un trabajo y elimina calor en otro foco a 300 K. Calcular la variación de entropía de cada foco 
+en cada ciclo y demostrar que la variación de entropía del universo es cero en el caso de este 
+proceso reversible. 
+Planteamiento del problema Como la máquina trabaja según ciclos, su variación de entropía 
+es cero. Por lo tanto calcularemos la variación de entropía de cada foco y las sumaremos para obte- 
+ner el cambio de entropía del universo. 
+1. El cambio de entropía del universo es igual a la suma de los cambios AS, = AS yoy + AS300 
+de entropía de los focos: 
+: 7 Q 100 J 2. Calcular el cambio de entropía del foco caliente: ASi- = 7, == 20 K = -0,250 J/K 
+3. El : Mere Q. _O,-W . El cambio de entropía del foco frío es O. dividido por T,,dondeQ,= AS = = = 7 
+Os, =W: = yi 
+E 
+4. Utilizaremos W = €c0), (ecuación 19.2) para relacionar W con Q,. El W = €Q,, donde € = & = 1-> Sees z Th 
+rendimiento es el de Carnot (ecuación 19.6): 
+de modo que 
+T 
+W= == (1 7) 
+5. Calcular el cambio de entropía del foco frío: AS = | = —_—_—— = 
+6. Aplicar estos resultados en el paso 1 para determinar el cambio de AS, = AS4o9 + AS300 
+entropía del universo: AS, = — 0,250 J/K + 0,250 J/K =[0] 
+Observaciones Supongamos una máquina ordinaria, no reversible, que absorbe 100 J por ciclo 
+del foco caliente. Como su rendimiento debe ser menor que el de una máquina de Carnot, realizaría 
+menos trabajo y cedería más calor al foco frío. El cambio de entropía del foco frío sería mayor que la 
+disminución de entropía del foco caliente, y el cambio de entropía del universo sería positivo. 
+EJEMPLO 19.11 |  Eldiagrama ST 
+Como la entropía es una función de estado, los procesos termodinámicos pueden representarse 
+en diagramas ST, SV o SP, en lugar de los diagramas PV que hemos utilizado hasta ahora. 
+Hacer un esquema del ciclo de Carnot en un diagrama S7. 
+Planteamiento del problema El ciclo de Carnot consta de una expansión reversible isoterma, 
+una expansión adiabática reversible, una compresión reversible isoterma y una compresión adiabá- 
+tica reversible. Durante los procesos isotermos, el calor se absorbe o cede a temperatura constante, 
+de modo que $ aumenta o disminuye a T constante. Durante los procesos adiabáticos, la temperatura 
+cambia, pero como AQ,., = 0, S es constante, 
+19.7 Entropía | 571
+
+572 | Capítulo 19 Segundo principio de la termodinámica 
+1. Durante la expansión isoterma (1-2 en la figura 19.11a), el calor se ç s 
+absorbe reversiblemente, de modo que $ crece a T constante: p cal 
+2. Durante la expansión adiabática reversible (2-3 en la figura 19.115), la l l 
+temperatura disminuye, mientras que S es constante: T T 
+(a) (b) 
+3. Durante la compresión isoterma (3-4 en la figura 19.1 1c), el calor se 
+2 2 
+1 1 
+c) d) 
+a 
+cede reversiblemente y $ decrece a T constante: A 3 > 7 
+4. Durante la compresión adiabática reversible (4-1 en la figura 19.1 1d), 4 i | 4 ae 
+la temperatura crece, mientras que $ es constante: T T 
+( ( 
+Figura 19.11 
+Observaciones El ciclo de Carnot es un rectángulo cuando se representa en un diagrama ST. 
+19.8 Entropía y energía utilizable 
+Cuando tiene lugar un proceso irreversible, la energía se conserva, pero parte de la energía se 
+“desperdicia”, en el sentido de que no es útil para realizar trabajo. Consideremos un bloque 
+de masa m que cae al suelo, Como se ha visto en la sección 19.7, la variación de entropía del 
+universo originada por este proceso es mgh/T. Cuando el bloque estaba a una altura h, se 
+podria haber utilizado su energía potencial mgh para realizar trabajo útil. Después de la coli- 
+sión inelástica del bloque con el suelo, esta energía deja de ser utilizable porque se ha trans- 
+formado en energía interna desordenada del bloque y su medio. La energía que ha dejado de 
+ser útil es igual a mgh = T AS, Este resultado es general: 
+En un proceso irreversible, una cantidad de energía igual a T AS, resulta inútil para la rea- 
+lización de trabajo, en donde T es la temperatura del foco más frío disponible. 
+Por sencillez, llamaremos a la energía que resulta inútil para producir trabajo, “trabajo perdido”: 
+W perdido = T AS, (19.22) 
+EJEMPLO 19.12 | La caja deslizante reexaminada 
+Supongamos que la caja estudiada en las figuras 19.9a y b tiene una masa de 2,4 kg y se desliza 
+con una velocidad y = 3 m/s antes de chocar contra la pared fija y detenerse. La temperatura T 
+del bloque, mesa y alrededores es 293 K y no cambia apreciablemente cuando el bloque se 
+detiene. Determinar la variación de entropía del universo. 
+Planteamiento del problema La energía mecánica inicial del bloque, 1M v?, se convierte en 
+energía interna del sistema caja-pared-medio exterior, El cambio de entropía es equivalente a lo que 
+ocurriría si el calor Q = 1M v? se cediera reversiblemente al sistema. 
+La variación de entropía del universo es Q/T: AS, = wE ae NE 0,0369 J/K 
+Observación La energía se conserva, pero la energía T AS, = iM v? deja de ser utilizable para 
+realizar trabajo.
+
+En la expansión libre estudiada anteriormente también se perdió la capacidad de realizar 
+trabajo. En este caso la variación de entropía del universo era nR In (V,/V,), de modo que el 
+trabajo perdido era nRT In (V,/V;). Este valor es la cantidad de trabajo que se podría haber 
+realizado si el gas se hubiese expansionado cuasiestática e isotérmicamente desde V, hasta 
+V,, según indica la ecuación 19.17. 
+Cuando el calor pasa por conducción de un foco caliente a un foco frío, la variación de 
+entropía del universo viene dada por la ecuación 19.21 y el trabajo perdido es 
+T 
+A Podemos ver que este trabajo es precisamente el que podría haberse realizado mediante una 
+máquina de Carnot que operase entre dos focos, absorbiendo calor Q del foco frío y reali- 
+zando un trabajo W = €-Q, en donde & = |—T,/T,. 
+19.9 Entropia y probabilidad 
+La entropía, que es una medida del desorden de un sistema, está relacionada con la probabi- 
+lidad. Esencialmente un estado de orden elevado tiene una probabilidad pequeña, mientras 
+que un estado de orden bajo, tiene una probabilidad alta. Así pues, en un proceso irreversi- 
+ble, el universo se desplaza de un estado de baja probabilidad a otro de probabilidad elevada. 
+Consideremos una expansión libre en la que un gas se expansiona desde un volumen ini- 
+cial V, a un volumen final V, = 2 V,. La variación de entropía del universo para este proceso 
+viene dada por la ecuación 19.19: 
+V AS = mR In => = nR In 2 
+¿Por qué es irreversible este proceso? ¿Por qué no puede comprimirse el gas por si mismo 
+volviendo a su volumen original? Como en ello no intervendria ningtin cambio de energia, 
+una compresión no violaría el primer principio de la termodinámica. La razón consiste sim- 
+plemente en que dicha compresión resulta extremadamente improbable. Para comprobar esto, 
+empecemos suponiendo que el gas está compuesto solamente por 10 moléculas y que, inicial- 
+mente, estas moléculas ocupan el volumen total del recipiente. La probabilidad de que una de 
+ellas se encuentre en la mitad izquierda del recinto en un momento determinado es 2. La pro- 
+babilidad de que dos moléculas concretas estén ambas a la vez en la mitad izquierda es 
+1x3 = 1, (Se trata de la misma probabilidad de que una moneda, lanzada al aire. salga cara 
+dos veces sucesivas.) La probabilidad de que tres moléculas particulares se hallen en la 
+mitad izquierda es }x}x} = (į)? = į. La probabilidad de que la totalidad de las 10 
+moléculas se encuentren a la izquierda es (y = ai Es decir, existe una posibilidad 
+frente a 1024 de que las moléculas se encuentren todas ellas en la mitad izquierda del reci- 
+piente en un momento dado. 
+Aunque esta probabilidad es muy pequeña, no sería demasiado sorprendente ver que esto 
+ocurriera alguna vez. Por ejemplo, si examinamos el gas una vez por segundo, se podria 
+esperar que se viese esta situación una vez cada 1024 segundos, aproximadamente una vez 
+cada 17 minutos. Si empezásemos el experimento con las 10 moléculas distribuidas al azar y 
+luego nos las encontrásemos todas en la mitad izquierda del volumen original, la entropía 
+del universo habría disminuido en nR In 2. Sin embargo, esta disminución es extraordinaria- 
+mente pequeña, puesto que el número de moles correspondiente a 10 moléculas es única- 
+mente del orden de 1072. Aún así, violaría el enunciado de la entropía del segundo principio 
+de la termodinámica, que afirma que la entropía del universo nunca disminuye en cualquier 
+proceso que se realice. Por lo tanto, si deseamos aplicar el segundo principio a sistemas 
+microscópicos, tales como un pequeño número de moléculas, debemos considerarle más 
+bien como un postulado de probabilidad. 
+19.9 Entropía y probabilidad | 573
+
+574 | Capítulo 19 Segundo principio de la termodinámica 
+Resumen 
+TEMA 
+1. Rendimiento de una máquina térmica 
+Podemos relacionar la probabilidad de que un gas se comprima a sí mismo espontánea- 
+mente hacia un volumen más pequeño con la variación de su entropía. Si el volumen original 
+es V,, la probabilidad p de hallar N moléculas en un volumen menor V, es 
+Va" 
+r= (y) 
+Tomando logaritmos naturales de ambos miembros de esta ecuación, se tiene 
+l na (E a (E 19.23 np= n (7) = awa in (57) (19.23) 
+en donde n es el número de moles y N, el número Avogadro. La variación de entropía del 
+gas es 
+V3 
+AS = ARIA (z) (19.24) 1 
+Comparando las ecuaciones 19.23 y 19.24 vemos que 
+aL pa p (19.25) Na 
+siendo k la constante de Boltzmann. 
+Puede resultar preocupante descubrir que los procesos irreversibles, como la compresión 
+espontánea de un gas o la conducción espontánea de calor de un cuerpo frío a otro caliente, son 
+únicamente improbables y no imposibles, puesto que, como acabamos de ver, si consideramos 
+un sistema formado por un número muy pequeño de moléculas, existe una probabilidad razo- 
+nable de que se produzca un proceso de este tipo. Sin embargo, la propia termodinámica es 
+únicamente aplicable a sistemas macroscópicos, es decir, a sistemas con un número de molé- 
+culas grande. Consideremos, por ejemplo, lo que ocurriría si intentásemos medir la presión de 
+un gas formado sólo por 10 moléculas. La presión variaría caprichosamente dependiendo de 
+que cero, una, dos, o más moléculas estuviesen chocando contra la pared del recipiente en el 
+instante de efectuar la medida. Las variables macroscópicas de presión y temperatura no son 
+aplicables a un sistema microscópico de sólo 10 moléculas. 
+Según se vaya incrementando el número de moléculas del sistema, la probabilidad de que 
+se produzca un proceso irreversible disminuye rapidísimamente. Por ejemplo, si tenemos 50 
+moléculas en un recipiente, la probabilidad de que todas ellas se concentren en la mitad 
+izquierda del mismo es G)” = 10715, Es decir, si examinásemos el gas una vez por segundo, 
+podríamos esperar ver las 50 moléculas en dicha mitad alrededor de una vez cada 10'5 
+segundos, o sea, ¡una vez cada 36 millones de años! En el caso de 1 mol = 6 x 10% molé- 
+culas, la probabilidad de que todas ellas se encuentren en la mitad izquierda del volumen es 
+extremadamente pequeña, tan pequeña que es esencialmente nula. Así pues, en el caso de 
+sistemas macroscópicos, la probabilidad de que el resultado de un proceso sea una disminu- 
+ción de la entropía del universo, es tan extremadamente pequeña, que la diferencia entre 
+improbable e imposible queda totalmente difuminada. 
+El segundo principio de la termodinámica es una ley fundamental de la naturaleza. 
+OBSERVACIONES Y ECUACIONES RELEVANTES 
+Si una máquina térmica extrae calor Q, de un foco caliente, realiza un trabajo W y cede calor Q. a un foco 
+frío el rendimiento es 
+e= 77-22-12 (19.2)
+
+19.9 Entropia y probabilidad | 575 
+2. Coeficiente de eficiencia de un refrigerador n= Q: (19.3) 
+3. Coeficiente de eficiencia de 
+una bomba de calor Mec = & 
+4. Enunciados equivalentes del segundo 
+principio de la termodinámica 
+Enunciado de Kelvin Ningún sistema puede extraer energía en forma de calor de un solo foco y convertirla completamente en tra- 
+bajo sin que se produzcan cambios en el sistema o en el medio. 
+Enunciado de la máquina térmica Es imposible que una máquina térmica que trabaja ciclicamente extraiga calor de un foco y lo transforme 
+completamente en trabajo sin que se produzca ningún otro efecto. 
+Enunciado de Clausius Es imposible un proceso cuyo único resultado final sea transferir energía en forma de calor de un objeto frío 
+a otro más caliente. 
+Enunciado del refrigerador Es imposible para un refrigerador, que opera cíclicamente, producir sólo el efecto de extraer calor de un 
+cuerpo frío y devolver la misma cantidad de calor a otro caliente. 
+Enunciado de la entropía La entropía del universo (sistema más medio) nunca puede decrecer. 
+5. Condiciones de un proceso reversible 1. La energía mecánica no se transforma en calor por rozamiento, fuerzas viscosas u otras fuerzas disipati vas. 
+2. La transferencia de energía en forma de calor sólo puede tener lugar entre objetos a la misma tempera- 
+tura (o a temperaturas infinitesimalmente próximas). 
+3. El proceso debe ser cuasiestático, de modo que el sistema siempre esté en equilibrio (o infinitesimal- 
+mente próximo al estado de equilibrio). 
+6. Máquina de Carnot Una máquina de Carnot es una máquina reversible que opera entre dos focos, siguiendo un ciclo formado por 
+Ciclo de Carnot 1. Una expansión isoterma cuasiestática que absorbe calor a la temperatura T}. 
+2, Una expansión adiabática cuasiestática. 
+3. Una compresión isoterma cuasiestática que cede calor a la temperatura 7.. 
+4. Una compresión adiabática cuasiestática que lleva el sistema al estado original. 
+i Q: T. Rendimiento de Carnot €& =1->=1-= (19.6) 
+Or, Th 
+7. Temperatura termodinámica El cociente entre las temperaturas termodinámicas de dos focos viene definido por el cociente entre los calo- 
+res cedido y absorbido por una máquina de Carnot entre dichos focos: 
+T._@ ak 19, Re 022 
+8. Entropía La entropía es una medida del desorden de un sistema. La diferencia de entropía entre dos estados próximos 
+viene dada por 
+d y 
+dS = Ln: (19.12) 
+en donde dQ, es el calor cedido al sistema en un proceso reversible que conecte dichos estados. La varia- 
+ción de entropía de un sistema puede ser positiva o negativa. 
+Entropía y pérdida de la capacidad de realizar trabajo Durante un proceso irreversible, la entropía del universo S, aumenta y una cierta cantidad de energía 
+W;ertiso = T AS, (19.22) 
+resulta inutilizable para realizar trabajo. 
+Entropia y probabilidad La entropía está relacionada con la probabilidad. Un sistema altamente ordenado tiene baja probabilidad y 
+baja entropía. Un sistema aislado evoluciona hacia un estado de alta probabilidad, orden bajo y elevada 
+- entropía.
+
+576 | Capítulo 19 Segundo principio de la termodinámica 
+Problemas 
+% Concepto simple, un solo paso, relativamente fácil. 
+ee Nivel intermedio, puede exigir síntesis de conceptos. 
+eee Desafiante, para alumnos avanzados. 
+ssmM La solución se encuentra en el Student Solutions Manual. 
+i Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. 
+Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan alos fuentes externas o estimaciones 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. 
+Problemas conceptuales 
+1 e ¿Cómo afecta a su rendimiento el rozamiento cinético en una 
+máquina? 
+2 e SSM Explicar por qué con sólo abrir el refrigerador no pode- 
+mos refrescar nuestra cocina en un día caluroso. ¿Por qué se refresca una habi- 
+tación cuando ponemos en marcha el acondicionador de aire y no cuando 
+abrimos la puerta del refrigerador? 
+3 e ¿Por qué las centrales de potencia se diseñan de modo que la tem- 
+peratura del vapor de agua utilizado sea la máxima posible? 
+4 es Enun día húmedo, el vapor de agua se condensa sobre una super- 
+ficie fría. Durante la condensación. la entropía del agua (a) crece. (b) perma- 
+nece constante, (c) disminuye. (d) puede disminuir o permanecer invariable. 
+5 e SSM Enun proceso adiabático reversible (a) la energía interna 
+del sistema permanece constante; (b) el sistema no realiza trabajo; (c) la entro- 
+pía del sistema permanece constante; (d) la temperatura del sistema permanece 
+constante. 
+6 ee Verdadero o falso: 
+(a) El trabajo no puede convertirse totalmente en calor. 
+(b) El calor no puede convertirse totalmente en trabajo. 
+(c) Todas las máquinas térmicas tienen el mismo rendimiento. 
+(d) Es imposible transferir una determinada cantidad de calor de un foco frío a 
+un foco caliente. 
+(e) El coeficiente de eficiencia de un refrigerador no puede ser mayor que |. 
+(f) Todas las máquinas de Carnot son reversibles. 
+(g) La entropía de un sistema nunca puede decrecer, 
+(h) La entropía del universo nunca puede decrecer, 
+7 ee Un gas ideal efectúa un proceso reversible desde un estado inicial, 
+Pi, V T, a un estado final Py, Ve Ty Dos trayectorias posibles son (A) una 
+expansión isoterma, seguida de una compresión adiabática y (B) una compre- 
+sión adiabática, seguida de una expansión isotérmica. Para estas dos trayecto- 
+rias, (a) AU, > AU, (b) AS, > ASp, (c) AS, < ASg, (d) ninguna de las 
+anteriores es una respuesta correcta. 
+8 e@@ SSM La figura 19.12 muestra un ciclo termodinámico en un 
+diagrama ST. Identificar este ciclo y representarlo en un diagrama PV 
+T 
+Figura 19.12 Problemas 8 y-68 
+En algunas problemas se dan 
+más datos de los realmente 
+necesarios; en otros pocos, deben 
+extraerse algunos datos a partir 
+de conocimientos generales, 
+lógicas. 
+9 es La figura 19.13 muestra un ciclo termodinámico en un diagrama 
+SV. Identificar el tipo de máquina representado por este diagrama. 
+V 
+Figura 19.13 Problema 9 
+10 es Representar un diagrama ST del ciclo de Otto. 
+11 es Representar un diagrama SV del ciclo de Carnot. 
+12 es Representar un diagrama SV del ciclo de Otto. 
+13 es La figura 19.14 muestra un ciclo termodinámico un diagrama SP. 
+Representar el ciclo en un diagrama PV 
+P 
+Figura 19.14 Problema 13 
+14 e SSM ¿Qué es lo que produce un mayor aumento en el rendi- 
+miento de una maquina de Carnot, un incremento de 5 K en la temperatura del 
+foco caliente o una disminución de 5 K en la temperatura del foco frío? 
+Estimaciones y aproximaciones 
+15 es Hacer una estimación del rendimiento de un motor de automóvil 
+con una razón de compresión de 8:1, Suponer que el motor efectúa un ciclo de 
+Otto y que y= 1,4. 
+16 es SSM (a) Dar un valor del coeficiente de eficiencia más alto 
+posible de un típico refrigerador doméstico, (b) Si el refrigerador necesita para 
+su funcionamiento una potencia eléctrica de 600 W, evaluar la tasa a la que se 
+está extrayendo calor en el refrigerador.
+
+17 es La temperatura del Sol es de unos 5400 K, la temperatura media 
+de la Tierra de aproximadamente 290 K y la constante solar (la intensidad de 
+luz solar que llega a la órbita terrestre) es de alrededor de 1,3 kW/m?. (a) Cal- 
+cular la potencia total de la luz solar que llega a la Tierra. (b) Calcular la tasa 
+neta del aumento de entropía que experimenta nuestro planeta por el flujo inci- 
+dente de radiación solar. (c) Calcular la tasa neta de disminución de la entropía 
+del Sol debida al flujo saliente de energía solar que golpea la Tierra. 
+18 es (a) Haciendo uso de la información dada en el problema 17 y 
+conocida la distancia de la Tierra al Sol (1,5 x 10'! m), calcular la potencia total 
+que el Sol irradia al espacio. (b) Existen unas 10!' estrellas como el Sol en la 
+Vía Láctea, que es nuestra galaxia, y 10'! galaxias en el universo. Utilizar esta 
+información para hacer una evaluación de la tasa de incremento de la entropía 
+del universo, suponiendo que su temperatura media es de 2,73 K. 
+19 ee Un cuerpo humano típico produce alrededor de 100 W de calor. 
+Evaluar el aumento de entropía del universo producido por un solo cuerpo 
+humano en el transcurso de un dia de primavera con temperaturas de 70 °F 
+durante el día y 55 °F durante la noche. 
+20 @@@ ssm ¿Cuánto habríamos de esperar, por término medio, hasta 
+que todas las moléculas de aire de una habitación se precipitaran sobre una de 
+sus dos mitades? (Como decía un amigo mío, “no contenga la respiración. ..”) 
+Supóngase que las moléculas de aire están dentro de una caja de | mx 1 mxXx1lm 
+y que reorganizan sus posiciones 100 veces por segundo. Calcular el tiempo 
+medio que tardarían todas las moléculas en ocupar sólo una mitad de la caja si 
+en ella hay (a) 10 moléculas, (b) 100 moléculas, (c) 1000 moléculas y (d) 1 mol 
+de moléculas, (e) Los vacíos más altos producidos hasta la fecha corresponden 
+a presiones de unos 1071? tor. Si una cámara de vacío típica tiene una capacidad 
+de 1 litro, ¿cuánto tendrá que esperar un físico antes de que todas las moléculas 
+del gas de la cámara de vacío ocupen sólo una de sus mitades? Compárese ese 
+tiempo con la edad del universo, que es de unos 10% años, 
+Máquinas térmicas y refrigeradores 
+21 e i Y Una máquina con el 20 por ciento de rendimiento 
+realiza un trabajo de 100 J en cada ciclo. (a) ¿Cuánto calor absorbe en cada 
+ciclo? (b) ¿Cuánto calor devuelve en cada ciclo? 
+22 e FAM Una máquina absorbe 400 J de calor y realiza un 
+trabajo de 120 J en cada ciclo. (a) ¿Cuál es el rendimiento? (b) ¿Cuánto calor se 
+cede en cada ciclo? 
+23 o | Y Um máquina absorbe 100 J y cede 60 J en cada 
+ciclo. (a) ¿Cuál es el rendimiento? (b) Si recorre un ciclo en 0,5 s, ¿cuál es la 
+potencia de la máquina en vatios? 
+24 e sM Í Un refrigerador absorbe 5 kJ de energía de un 
+foco frío y cede 8 kJ a un foco caliente. (a) ¿Cuál es el coeficiente de eficiencia 
+del refrigerador? (b) El refrigerador es reversible y funciona como una máquina 
+térmica entre los mismos dos focos. ¿Cuál es el rendimiento? 
+25 es Una máquina tiene una sustancia de trabajo formada por | mol 
+de un gas ideal de C, = 3R yO = ŠR. El ciclo empieza a P, = | atm y 
+V, = 24,6 L. El gas se calienta a volumen constante hasta P, = 2 atm. Luego se 
+expande a presión constante hasta V, = 49,2 L. Durante estas dos etapas 
+absorbe calor, Entonces el gas se enfría a volumen constante hasta que su pre- 
+sión vuelve a ser de | atm. Luego se comprime a presión constante hasta que 
+alcanza de nuevo su estado original. Durante las dos últimas etapas se cede 
+calor. Todas las etapas son reversibles y cuasiestáticas. (a) Dibujar un diagrama 
+PV del ciclo. Calcular el trabajo realizado, el calor añadido y la variación de 
+energía interna para cada etapa del ciclo. (b) Calcular el rendimiento del ciclo. 
+26 es Una máquina que utiliza | mol de un gas ideal diatómico, efectúa 
+un ciclo que consta de tres etapas: (1) una expansión adiabática desde una pre- 
+sión inicial de 2,64 atm y un volumen de 10 L hasta una presión final de | atm 
+y un volumen de 20 L, (2) una compresión a presión constante hasta su volu- 
+men original de 10 L, y (3) un calentamiento a volumen constante hasta su pre- 
+sión original de 2,64 atm. Calcular el rendimiento del ciclo. 
+Problemas | 577 
+27 ee | Una máquina que utiliza 1 mol de un gas ideal inicial- 
+mente a V, = 24,6 L y T = 400 K funciona en un ciclo que consiste en 4 etapas: 
+(1) expansión isotérmica a T = 400 K hasta dos veces su volumen, (2) enfria- 
+miento a volumen constante hasta T = 300 K, (3) compresión isotérmica hasta 
+su volumen original, y (4) calentamiento a volumen constante hasta su tempe- 
+ratura original de 400 K. Supóngase que C, = 21 J/K. Dibujar el ciclo en un 
+diagrama PV y calcular su rendimiento. 
+28 e. SSM Un mol de un gas ideal monoatómico con un volumen 
+inicial V, = 25 L sigue el ciclo indicado en la figura 19.15. Todos los procesos 
+son cuasiestáticos. Hallar (a) la temperatura de cada estado del ciclo, (b) el 
+flujo de calor de cada parte del ciclo y (c) su rendimiento. 
+P, kPa 
+200 |- 
+Vi IVs, OME 
+Figura 19.15 Problema 28 
+29 e Un gas ideal (y= 1,4) sigue el ciclo indicado en la figura 19.16. 
+La temperatura del estado | es 200 K. Hallar (a) las temperaturas de los otros 
+tres estados del ciclo y (b) su rendimiento. 
+100 200 300 V,L 
+Figura 19.16 Problema 29 
+30 ese El ciclo diesel indicado en la figura 19.17 es una aproximación al 
+comportamiento de un motor diesel. El proceso ab es una compresión adiabá- 
+tica, el proceso bc es una expansión a presión constante, el proceso cd es una 
+expansión adiabática y el proceso da es un enfriamiento a volumen constante. 
+Hallar el rendimiento de este ciclo en función de los volúmenes V,, V,, V. y Vg. 
+Expansión a 
+/ presión constante j 
+Expansión 
+adiabálica 
+Enfriamiento 
+a volumen 
+Compresión constante 
+adiabática 
+Vv 
+Figura 19.17 Ciclo diesel correspondiente al problema 30.
+
+578 | Capítulo 19 Segundo principio de la termodinámica 
+31 ee ssM “Hasta donde alcanza nuestro conocimiento, la Natura- 
+leza no ha desarrollado nunca una máquina térmica” —Steven Vogel, Life ‘s 
+Devices, Princeton University Press (1988). (a) Calcular el rendimiento de una 
+máquina térmica que opera entre la temperatura corporal (98,6 °F) y una tem- 
+peratura al aire libre típica (70 °F), y comparar el resultado con el rendimiento 
+del cuerpo humano para convertir energía química en trabajo (aproximada- 
+mente el 20%). ¿Supone ello una contradicción del segundo principio de la ter- 
+modinámica? (4) A partir del resultado de (a) y un conocimiento general de las 
+condiciones que han de darse para que existan animales de sangre caliente, 
+explicar por qué estos animales no han desarrollado máquinas térmicas para 
+suministrar su energía interna. 
+32 ese La ecuación de estado de Clausius es P(V — bn) = nRT, siendo b 
+una constante, Demostrar que el rendimiento de un ciclo de Carnot es el mismo 
+para un gas que obedezca esta ecuación que para uno que obedezca la ecuación 
+de estado de los gases ideales, PV = nRT. 
+Segundo principio de la termodinamica 
+33 es Un cierto refrigerador extrae 500 J de calor de un foco frío y eli- 
+mina 800 J en un foco caliente, Suponer que el enunciado de la máquina tér- 
+mica del segundo principio de la termodinámica es falso y demostrar cómo 
+puede violarse el enunciado del refrigerador de este principio si se combina una 
+máquina perfecta que trabaje con este refrigerador. 
+34 @@ ssm  Sidos curvas adiabáticas se cortasen en un diagrama PV, 
+se podría completar un ciclo mediante un proceso isotermo entre ambas curvas 
+adiabáticas, como se ve en la figura 19.18. Demostrar que este ciclo violaría el 
+segundo principio de la termodinámica. 
+Adiabática 
+Isoterma 
+Adiabática 
+Figura 19.18 Problema 34 
+Máquinas de Carnot 
+35 e Í Y Um máquina de Carnot funciona entre dos focos 
+térmicos a temperaturas 7), = 300 K y T, = 200 K. (a) ¿Cuál es su rendimiento? 
+(b) Si en cada ciclo absorbe 100 J del foco caliente, ¿cuánto trabajo produce? 
+(c) ¿Cuánto calor cede en cada ciclo? (d) ¿Cuál es el coeficiente de eficiencia 
+de esta máquina cuando funciona como refrigerador entre los mismos focos? 
+36 o Í Un motor extrae 250 J de un foco a 300 K y elimina 
+200 J en otro foco a 200 K. (a) ¿Cuál es su rendimiento? (b) ¿Qué cantidad de 
+trabajo podría haberse obtenido si el motor hubiese sido reversible? 
+37 es Una máquina reversible que funciona entre dos focos a tempera- 
+turas 7}, y 7, tiene un rendimiento del 30 por ciento. Cuando opera como una 
+máquina térmica cede 140 J de calor al foco frío. Una segunda máquina que 
+funciona entre los dos mismos focos también cede 140 J al foco frío. Demués- 
+trese que si la segunda máquina tiene un rendimiento mayor del 30 por ciento, 
+las dos máquinas funcionando juntas violarían el enunciado de la máquina tér- 
+mica del segundo principio de la termodinámica. 
+38 es Una máquina reversible opera entre dos focos a temperaturas T, y 
+Ta. y tiene un rendimiento del 20 por ciento. Cuando funciona como máquina 
+térmica realiza 100 J de trabajo en cada ciclo. Una segunda máquina que fun- 
+ciona entre los dos mismos focos realiza también un trabajo de 100 J en cada 
+ciclo. Demuéstrese que si el rendimiento de la segunda máquina fuese mayor 
+del 20 por ciento, las dos máquinas funcionando juntas violarían el enunciado 
+del refrigerador del segundo principio. 
+39 @@ SSM Una máquina de Carnot funciona entre dos focos térmi- 
+cos como refrigerador. Realiza 50 J de trabajo tomando 100 J del foco frío y 
+cediendo 150 J al foco caliente durante cada ciclo. El coeficiente de eficiencia 
+es n = OJW = (100 J)/(50 J) = 2. (a) ¿Cuál es el rendimiento de una máquina 
+de Carnot cuando funciona como máquina térmica entre los dos mismos focos? 
+(b) Demuéstrese que ninguna otra máquina que funciona como refrigerador 
+entre estos focos puede tener un coeficiente de eficiencia mayor que 2. 
+40 ee | Una maquina de Carnot opera entre dos focos térmicos 
+a temperaturas 7} = 300 K y T, = 77 K. (a) ¿Cuál es su rendimiento? (b) Si 
+absorbe 100 J del foco caliente durante cada ciclo, ¿cuánto trabajo realiza? 
+(c) ¿Cuánto calor cede durante cada ciclo? (d) ¿Cuál es el coeficiente de eficien- 
+cia de la máquina cuando funciona como refrigerador entre estos dos focos? 
+41 es Enel ciclo que se muestra en la figura 19.19, | mol de un gas 
+ideal (y= 1,4) se encuentra inicialmente a 1 atm y 0 °C. El gas se calienta a 
+volumen constante hasta 7, = 150 °C y luego se expansiona adiabáticamente 
+hasta que su presión vuelve a ser de 1 atm. Luego se comprime a presión cons- 
+tante hasta su estado original. Calcular (a) la temperatura 7, después de la 
+expansión adiabática, (b) el calor absorbido o cedido por el sistema durante 
+cada proceso, (c) el rendimiento de este ciclo y (d) el rendimiento de un ciclo 
+de Carnot que opere entre las temperaturas extremas del ciclo, 
+P, atm 
+P, 
+Adiabática 
+Vi Y, VL 
+Figura 19.19 Problema 41 
+42 ee ! Una máquina de vapor toma vapor sobrecalentado a 
+270 °C y descarga de su cilindro vapor condensado a 50 °C. Su rendimiento es 
+del 30 por ciento. (a) Compárese este rendimiento con el mejor rendimiento 
+posible para estas temperaturas. (b) Si la potencia de salida útil del motor es de 
+200 kW, ¿cuánto calor cede la máquina a los alrededores en una hora? 
+*Bombas de calor 
+43 e SM | Y Una bomba de calor suministra 20 kW 
+para calentar una casa. La temperatura exterior es de —10 °C y la interior de la 
+fuente de aire caliente para el ventilador de calefacción es 40 °C. (a) ¿Cuál es el 
+coeficiente de eficiencia de una bomba de calor de Carnot que funciona entre 
+estas temperaturas? (b) ¿Cuál debe ser la potencia mínima del motor que se 
+necesita para hacer funcionar la bomba? (c) Si el rendimiento de la bomba de 
+calor es del 60 por ciento, ¿cuál deberá ser la mínima potencia del motor?
+
+44 o | Y un refrigerador consume 370 W. (a) ¿Cuál es la 
+máxima cantidad de calor que puede eliminar en 1 min si la temperatura inte- 
+rior del mismo es 0 °C y elimina calor hacia una habitación a 20 °C? (b) Si el 
+coeficiente de eficiencia del refrigerador es el 70 por ciento del correspondiente 
+a una bomba de calor ideal, ¿cuánto calor podrá eliminar en un minuto? 
+45 e Repetir el problema 44 para una temperatura ambiente de 35 °C. 
+Cambios de entropía 
+46 e ¿Cuál es la variación de entropía experimentada por | mol de 
+agua a 0 °C cuando se congela? 
+47 e@ Estudiar la congelación de 50 g de agua colocados en el congela- 
+dor de un refrigerador. Suponer que las paredes del congelador se mantienen a 
+—10°C. El agua, inicialmente líquida a 0 °C, se congela en hielo y se enfría hasta 
+10 °C. Demostrar que aun cuando la entropía del hielo disminuye, la entropía 
+neta del universo aumenta. 
+48 e i Dos moles de un gas ideal a 7 = 400 K se expansionan 
+cuasiestática e isotérmicamente desde un volumen inicial de 40 L hasta un 
+volumen final de 80 L. (a) ¿Cuál es la variación de entropía del gas? (b) ¿Cuál 
+es la variación de entropía del universo para este proceso? 
+49 e El gas del problema 48 pasa del mismo estado inicial (T = 400 K, 
+V, = 40 L) al mismo estado final (7 = 400 K, Vz = 80 L) por un proceso no-cua- 
+siestático. (a) ¿Cuál es la variación de entropía del gas? (b) ¿Qué se puede decir 
+de la variación de entropía del universo? 
+50 e Calcular la variación de entropía de 1,0 kg de agua a 100 °C 
+cuando se transforma en vapor a 100 °C y a la presión de 1 atm. 
+51 @ di Y Calcular la variación de entropía de 1,0 kg de hielo 
+cuando se transforma en agua a 0 °C y a una presión de | atm. 
+52 es Un sistema absorbe 200 J de calor reversiblemente de un foco a 
+300 K y cede 100 J reversiblemente a un foco a 200 K al desplazarse del estado 
+A al B. Durante este proceso el sistema realiza un trabajo de 50 J. (a) ¿Cuál es 
+la variación de energía interna del sistema? (b) ¿Cuál es la variación de entropía 
+del sistema? (c) ¿Cuál es la variación de entropía del universo? (d) Si el sistema 
+evolucionara del estado A al B según un proceso no reversible, ¿cuál sería la 
+respuesta a las preguntas (a), (b) y (c)? 
+53 ee sM | Un sistema absorbe 300 J de un foco a 300 K 
+y 200 J de un foco a 400 K, Vuelve a su estado original realizando un trabajo de 
+100 J y cediendo 400 J a un foco a la temperatura 7. (a) ¿Cuál es la variación de 
+entropía del sistema para el ciclo completo? (b) Si el ciclo es reversible, 
+¿cuánto vale la temperatura 7? 
+54 ee | Dos moles de un gas ideal que se encuentra original- 
+mente a T = 400 K y V = 40 L experimentan una expansión libre hasta dos 
+veces su volumen inicial. ¿Cuál es (a) la variación de entropía del gas y (b) la 
+variación de entropía del universo? 
+55 ee Un bloque de 200 kg de hielo a 0 °C se introduce en un lago. La 
+temperatura del lago es algo mayor de 0 °C y el hielo se funde. (a) ¿Cuál es la 
+variación de entropía del hielo? (b) ¿Cuál es la variación de entropía del lago? 
+(c) ¿Cuál es la variación de entropía del universo (lago más hielo)? 
+56 @@ Untrozo de 100 g de hielo a O °C se ha colocado en un recipiente 
+aislado junto con 100 g de agua a 100 *C. (a) Cuando se ha llegado al equilibrio 
+térmico, ¿cuál es la temperatura final del agua? No tener en cuenta la capacidad 
+calorífica del recipiente. (b) Calcular la variación de entropía del universo para 
+este proceso. 
+57 @@ SSM Se introduce un bloque de 1 kg de cobre a 100 °C en el 
+interior de un calorímetro de capacidad calorífica despreciable que contiene 4 L 
+de agua a 0 °C. Calcular la variación de entropía (a) del bloque de cobre, 
+(b) del agua, y (c) del universo. 
+Problemas 579 
+58 es Calcular la variación de entropía del universo si se deja caer un 
+trozo de 2 kg de plomo a 100 *C en un lago a 10 *C. 
+59 ee i Un coche de 1500 kg que se encuentra viajando a 
+100 km/h choca contra una pared de cemento. Calcular la variación de entropía 
+del universo si la temperatura del aire es de 20 °C. 
+60 @@ SSM Una caja se divide en dos mitades idénticas por medio de 
+un tabique impermeable. En un lado hay 1 mol de gas ideal A y en el otro, 
+1 mol de gas ideal B (que es diferente del A). (a) Calcular la variación de entro- 
+pía cuando el tabique se elimina y los dos gases se mezclan. (b) Si repetimos el 
+proceso con el mismo tipo de gas en cada lado, ¿cambiaría la entropía cuando 
+se elimina el tabique? Dar una explicación. (Meditar cuidadosamente esta pre- 
+gunta). 
+Entropía y trabajo perdido 
+61 e. sM Í Si se transportan 500 J desde un foco a 400 K 
+hasta otro a 300 K, (a) ¿cuál es la variación de entropía del universo? y (b) ¿qué 
+cantidad de calor de estos 500 J se hubieran convertido en trabajo mediante una 
+máquina térmica que operara entre ambos focos? 
+62 es Un mol de un gas ideal sufre en primer lugar una expansión libre 
+desde V, = 12,3 L y T, = 300 K a V; = 24,6 L y T, = 300 K. Luego se comprime 
+isotérmica y cuasiestáticamente, volviendo a su estado original. (a) ¿Cuál es la 
+variación de entropía del universo en el ciclo completo? (b) ¿Cuánto trabajo se 
+desperdicia en este ciclo? (c) Demostrar que este trabajo perdido es T AS,. 
+Problemas generales 
+63 e i Y Una máquina con una producción de 200 W tiene 
+un rendimiento del 30 por ciento. Trabaja a 10 ciclos/s. (a) ¿Cuánto trabajo se 
+realiza en cada ciclo? (b) ¿Cuánto calor se absorbe y cuánto se elimina en cada 
+ciclo? 
+64 e l V En cada ciclo, una máquina absorbe 150 J de un 
+foco a 100 °C y cede 125 J a un foco a 20 °C, (a) ¿Cuál es el rendimiento de 
+esta máquina? (b) ¿Qué relación existe entre este rendimiento y el de una 
+máquina de Carnot que funcionara entre los mismos focos? (Este cociente se 
+denomina rendimiento del segundo principio.) 
+65 © En cada ciclo, una máquina absorbe 200 kJ de calor de un foco 
+caliente a 500 K y elimina calor en un foco frío a 200 K. Su rendimiento es el 
+85% del de una máquina de Carnot que opera entre los mismos focos. (a) ¿Cuál 
+es el rendimiento de esta máquina? (b) ¿Cuánto trabajo realiza en cada ciclo? 
+(c) ¿Cuánto calor se elimina en cada ciclo? 
+66 es Lacentral nuclear de Calvin Cliffs, situada en Hobbes River, pro- 
+duce | GW de potencia. En esta central circula sodio líquido entre el núcleo del 
+reactor y un intercambiador de calor localizado en el vapor sobrecalentado que 
+impulsa la turbina. El calor se cede al sodio líquido del núcleo y se extrae del 
+sodio líquido (para cederlo al vapor sobrecalentado) en el intercambiador de 
+calor. La temperatura del vapor sobrecalentado es de 500 K. El calor de desecho 
+se vierte en el río que pasa por allí a una temperatura de 25 °C, (a) ¿Cuál es el 
+máximo rendimiento que puede alcanzar esta central? (b) ¿Cuánto calor de dese- 
+cho se vierte cada segundo en el río? (c) ¿Cuánto calor debe producirse para 
+suministrar | GW de potencia? (d) Suponer que para preservar la única fauna del 
+río se han aprobado nuevas (y más duras) leyes medioambientales. Por este 
+motivo, la central no está autorizada a calentar el río por encima de 0,5 °C. ¿Cuál 
+es la tasa mínima de flujo (en litro/segundo) que debe tener el río Hobbes? 
+67 e | Para mantener la temperatura de 20 °C dentro de una 
+casa, el consumo de potencia de los calentadores eléctricos es de 30 kW por día 
+cuando la temperatura exterior es de —7 °C. ¿Cuál es la variación de entropía 
+por unidad de tiempo experimentada por el universo, motivada por este proceso 
+de calefacción?
+
+580 | Capítulo 19 Segundo principio de la termodinámica 
+68 es El sistema representado en la figura 19.12 (problema 8) corres- 
+ponde a 1 mol de un gas ideal monoatómico. Las temperaturas de los puntos A 
+y B son 300 y 750 K, respectivamente. ¿Cuál es el rendimiento termodinámico 
+del proceso cíclico ABCDA? 
+69 es (a) ¿Qué proceso es menos útil: (1) un bloque que se mueve con 
+500 J de energía cinética y se detiene por rozamiento cuando la temperatura 
+atmosférica es de 300 K o (2) 1 kJ de calor trasmitido por conducción desde un 
+foco a 400 K hasta otro a 300 K? Sugerencia: ¿Qué parte de 1 kJ de calor 
+podrían convertirse en trabajo en una situación ideal? (b) Calcular la variación 
+de entropía del universo en cada caso. 
+70 es Se dispone de gas helio (y= 1,67) a una presión inicial de 16 atm, 
+un volumen de | L y una temperatura de 600 K. Se expansiona isotérmica- 
+mente hasta que su volumen es de 4 L y luego se comprime a presión constante 
+hasta que su volumen y temperatura son tales que una compresión adiabática 
+devuelve el gas a su estado original. (a) Dibujar el ciclo en un diagrama PV. 
+(b) Calcular el volumen y la temperatura después de la compresión isobárica. 
+(c) Calcular el trabajo realizado durante cada ciclo. (d) Determinar el rendi- 
+miento del ciclo. 
+71 ee SSM Una máquina térmica que realiza trabajo para hinchar un 
+globo a una presión de | atm extrae 4 kJ de un foco caliente a 120 °C. El volu- 
+men del globo aumenta en 4 L, y el calor es cedido a un foco frío a la tempera- 
+tura 7,. Si el rendimiento de la máquina térmica es del 50 por ciento del 
+correspondiente a un ciclo de Carnot que funcionase entre los mismos focos, 
+calcular la temperatura 7.. 
+72 es Demostrar que el coeficiente de eficiencia de un refrigerador de 
+Carnot que trabaje entre dos focos a temperaturas T, y T, está relacionado con 
+el rendimiento de una máquina de Carnot mediante n = 7. M(EcT,,). 
+73 eo Í Y Un congelador tiene una temperatura T, = -23 °C. 
+El aire de la cocina tiene una temperatura T, = + 27 °C. Como el aislamiento 
+térmico no es perfecto, cierta cantidad de calor fluye al congelador, equivalente 
+a una potencia de 50 W. Determinar la potencia del motor necesaria para man- 
+tener la temperatura del congelador. 
+74 ee Dos moles de un gas diatómico describen el ciclo ABCA que se 
+muestra en el diagrama PV de la figura 19.20. En A la presión es de 5 atm y la 
+temperatura 600 K. El volumen en B es doble que en A. El segmento BC es una 
+expansión adiabática y el segmento CA una compresión isoterma. (a) ¿Cuál es 
+el volumen del gas en A? (b) ¿Cuáles son el volumen y la temperatura del gas 
+en B? (c) ¿Cuál es la temperatura del gas en C? (d) ¿Cuál es el volumen del gas 
+en C? (e) ¿Cuánto trabajo realiza el gas en cada una de las tres etapas del ciclo? 
+(f) ¿Cuánto calor absorbe el gas en cada etapa del ciclo? (g) ¿Cuál es el rendi- 
+miento termodinámico de este ciclo? 
+Figura 19.20 Problemas 74 y 76 
+75 es Dos moles de un gas diatómico describen el ciclo ABCDA que se 
+muestra en el diagrama PV de la figura 19.21. El segmento AB representa una 
+expansión isotérmica, el segmento BC una expansión adiabática. En A la pre- 
+sión es de 5 atm y la temperatura de 600 K. El volumen en B es doble que en A. 
+La presión en D es de | atm. (a) ¿Cuál es la presión en B? (b) ¿Cuál es la tem- 
+peratura en C? (c) Determinar el trabajo realizado por el gas en un ciclo y el 
+rendimiento termodinámico de este ciclo. 
+Figura 19.21 Problemas 75 y 77 
+76 es Repetir el problema 74 para un gas monoatómico. 
+77 eS Repetir el problema 75 para un gas monoatómico. 
+78 es Comparar el rendimiento de una máquina de Otto con el de una 
+máquina de Carnot que opera entre las mismas temperaturas máxima y mínima. 
+79 es. SSM Utilizando la ecuación correspondiente a la variación de 
+entropía de un gas ideal cuando cambian el volumen y la temperatura, y 7V7-! = 
+constante, demostrar explícitamente que la variación de entropía es nula para 
+una expansión adiabática y cuasiestática desde el estado (V,, T) al (Va, T3). 
+80 ese (a) Demostrar que si no fuese cierto el enunciado del refrigerador 
+del segundo principio de la termodinámica, la entropía del universo podría dis- 
+minuir. (b) Demostrar que si no fuese cierto el enunciado de la máquina tér- 
+mica, también podría disminuir la entropía del universo. (c) Un enunciado 
+alternativo del segundo principio es que la entropía del universo no puede dis- 
+minuir. Demostrar que este enunciado es equivalente a los dos enunciados men- 
+cionados anteriormente. 
+81 ese Supongamos que se conectan en “serie” dos máquinas térmicas de 
+forma que el calor eliminado por la primera se utiliza como alimentación de la 
+segunda, como se indica en la figura 19.22, Los rendimientos de las máquinas 
+son €; y &, respectivamente. Demostrar que el rendimiento neto de la combina- 
+ción viene dado por 
+Eneo = E1 + (1 — £/)€, 
+Figura 19.22 Problemas 81 y 82
+
+82 @@@ SSM Supongamos que cada una de las máquinas de la figura 
+19.22 es una máquina térmica ideal reversible. La máquina 1 funciona entre las 
+temperaturas T, y Tm y la 2 entre Tm y Ta siendo Th > Tm > Te. Demostrar que 
+T, Th 
+Eneto ‘ae 
+Esto significa que dos máquinas térmicas reversibles en “serie” son equivalen- 
+tes a una sola máquina reversible que funcione entre el foco más caliente y el 
+más frío. 
+83 ese Bertrand Russell dijo una vez que si a un millón de monos les 
+hubiesen dado un millón de máquinas de escribir sobre las que teclear al azar 
+durante un millón de años, esos simios habrían escrito todas las obras de 
+Shakespeare. Limitémonos al siguiente fragmento de este autor (Julio César 
+Mii) 
+Problemas | 581 
+jAmigos romanos, compatriotas, prestadme atención! 
+¡Vengo a inhumar a César, no a ensalzarle! 
+¡El mal que hacen los hombres perdura sobre su memoria! 
+¡Frecuentemente el bien queda sepultado con sus huesos” 
+¡Sea así con César! 
+El noble Bruto os ha dicho que César era ambicioso. 
+Si lo fue, era la suya una falta grave, 
+y gravemente la ha pagado ... 
+¡Incluso este pequeño fragmento necesitaría mucho más de un millón de años 
+para ser escrito! En términos aproximados determinar en qué factor se equi- 
+vocó Russell. Hacer las suposiciones razonables que uno desee. (Se puede 
+incluso imponer que los monos son inmortales).
+
+PROPIEDADES Y *Capitulo 
+PROCESOS TERMICOS 
+20 
+20.1 Dilatación térmica 
+20.2 Ecuación de van der 
+Waals e isotermas 
+líquido-vapor 
+20.3 Diagramas de fase 
+20.4 Transferencia de 
+energía térmica 
+Las juntas de dilatación como la que se muestra son elementos esenciales de los puentes de 
+acero al permitir la dilatación y contracción del puente por los cambios de temperatura sin 
+que aparezcan tensiones en la estructura de acero. 
+¿Qué le podría ocurrir a este puente si no tuviese juntas de dilatación? (Véase el ejemplo 20.1.) 
+Cono un cuerpo absorbe energía térmica (calor) pueden ocurrir diversos cambios en 
+sus propiedades físicas. Por ejemplo, su temperatura puede aumentar, al mismo tiempo 
+que se expansiona o se contrae, o bien, el cuerpo se puede licuar o vaporizar, y durante 
+ese proceso su temperatura permanece constante. 
+© En este capítulo analizaremos algunas de las propiedades térmicas de la mate- 
+ria y algunos procesos importantes que implican la energía térmica. 
+20.1 Dilatación térmica 
+Cuando aumenta la temperatura de un cuerpo, normalmente éste se dilata. (Téngase en 
+cuenta que en una carretera de hormigón, las juntas de dilatación aparecen cada 10 6 15 m, 
+lo que facilita que la carretera se dilate sin deformarse.) Consideremos una varilla larga de 
+longitud L a una temperatura T. Cuando la temperatura varía en AT, el cambio de longitud AL 
+es proporcional a AT y a la longitud inicial L: 
+AL - @AT (20.1)
+
+584 | Capitulo 20 Propiedades y procesos térmicos 
+TABLA 20.1 Valores aproximados de los co- 
+eficientes de dilatación térmica 
+para varias sustancias 
+107 
+re 3,67x 10° 
+Acetona 15x 10 we 
+10° Alcohol 11x 107 > g ka 
+Agua (20 °C) 0,207 x 10 e 
+10% Mercurio 0,18x 107 
+Hielo 51x 10% 
+Aluminio 24x 10% 
+Latón 19x 10% 
+= Cobre 17x 10% 
+10% Ac lix 10% 
+drio (ordinario) 9x 10 a, K7 
+Grafito 79x 10 
+=— Vidrio (Pyrex) 3,2x 10% 
+__— Diamante 12x 10% 
+10% E-— Invar 1x 10% 
+en donde (Y se denomina coeficiente de dilatación lineal y es igual al cociente entre la varia- 
+ción relativa de longitud y la variación de temperatura: 
+(20.2) 
+Sus unidades son el recíproco del grado Celsius (1/C”) o el recíproco del kelvin (1/K). El 
+coeficiente de dilatación lineal de los sólidos o de los líquidos normalmente no varía apenas 
+con la presión, pero puede variar significativamente con la temperatura. La ecuación 20.2 da 
+el valor medio de @ en todo el intervalo de temperaturas AT. Se halla el coeficiente de dilata- 
+ción lineal a una temperatura determinada T tomando el límite cuando AT tiende a cero: 
+(20.3) 
+En la mayoría de los casos se consigue una exactitud suficiente utilizando el valor medio en 
+un intervalo amplio de temperatura. 
+Análogamente, se define el coeficiente de dilatación de volumen fB como el cociente 
+entre la variación relativa de volumen y la variación de temperatura (a presión constante): 
+(20.4) 
+Del mismo modo que o, el coeficiente ĝ no varía ordinariamente con la presión si se trata de 
+sólidos o líquidos, pero puede variar con la temperatura. En la tabla 20.1 se dan los valores 
+medios de œ y B para diversas sustancias. 
+Para un material determinado $ = 3a. En efecto, consideremos una caja de dimensiones 
+L, La y L}. Su volumen a una temperatura T es 
+V = Lı LL, 
+La variación del volumen respecto a la temperatura es 
+= BL ae A I i A Sere om Lee 3 aT 2 
+dL, 
+Lar 
+Como cada término del segundo miembro es igual a œ, tendremos 
+$.=.30 (20.5) 
+De igual modo, el coeficiente de dilatación superficial es igual al doble del coeficiente lineal. 
+El incremento de tamaño de cualquier parte de un cuerpo para un cambio determinado de 
+la temperatura es proporcional al tamaño original de dicha parte. Así, si aumentamos la tem- 
+peratura de una regla de acero, por ejemplo, el efecto será semejante al de un aumento foto- 
+gráfico (muy pequeño). Las líneas que estaban previamente distantes por igual seguirán 
+estando igualmente espaciadas, pero los espacios serán ligeramente mayores. Si la regla 
+tiene en ella un orificio de 1 cm de diámetro, pongamos entre las líneas correspondien- 
+tes a 3 cm y 4 cm, el orificio se hará mayor, precisamente como se ha hecho la distancia 
+entre las líneas de 3 y 4 cm. 
+Aunque la mayor parte de los materiales se dilatan cuando se calientan, el comportamiento 
+del agua a las temperaturas comprendidas entre O y 4 °C es una excepción importante. En la 
+figura 20.1 se muestra el volumen ocupado por 1 g de agua en función de la temperatura. El
+
+volumen es minimo, y por lo tanto la densidad es maxima, a 4 °C. Por lo tanto, cuando se 
+calienta agua que está por debajo de los 4 °C, se contrae en lugar de dilatarse y viceversa. 
+Esta propiedad tiene importantes consecuencias ecológicas en los lagos. A temperaturas 
+superiores a los 4 °C, cuando se produce un enfriamiento de las aguas del lago, el agua fría es 
+más densa y se hunde hacia el fondo del lago; pero para temperaturas inferiores a 4 °C el agua 
+fría es menos densa y asciende a la superficie. Como consecuencia de ello el hielo se forma pri- 
+mero en la superficie del lago y, como el hielo es menos denso que el agua, permanece en la 
+superficie, actuando como un aislante térmico para el agua que se encuentra por debajo. Si el 
+agua helada redujera su volumen cuando se congela, como lo hacen la mayoría de las sustan- 
+cias, el hielo se hundiría hacia el fondo, dando lugar a que nuevas corrientes de agua pudiesen 
+helarse en la superficie. De esta manera los lagos quedarían helados por completo, desde el 
+fondo hasta la superficie, los peces morirían y, en general, la vida acuática sería imposible en 
+estas condiciones. 
+EJEMPLO 20.1 | Dilatación de un puente 
+Un puente de acero tiene 1000 m de longitud. ¿Qué longitud se dilatará cuando la temperatura 
+aumente de 0 a 30 °C? 
+Planteamiento del problema Utilizando el valor œ= 11 x 107% K~' de la tabla 20.1, se calcula 
+AL a partir de la ecuación 20.1. 
+20.1 Dilatación térmica | 585 
+Figura 20.1 Volumen de un gramo de agua a la 
+presión atmosférica en función de la temperatura. 
+El volumen mínimo se encuentra a 4 °C y 
+corresponde a la máxima densidad. A temperaturas 
+por debajo de 0 °C, la curva representada es la del 
+agua sobreenfriada. (Agua sobreenfriada es el agua 
+que se enfría por debajo del punto de congelación 
+normal sin que solidifique.) 
+El cambio de longitud para una variación de 30 C° = 30 K de temperatura AL = æL AT = (11 x 10*K-!)(1000 m)(30 K) 
+es el producto de a, L y AT: =|0,33m = 33cm 
+Observación Las juntas de dilatación que se incluyen en los puentes tienen por objeto evitar las 
+enormes tensiones que se producirían sin ellas. Tensiones excesivas originadas por aumentos de 
+temperatura pueden ocasionar deformaciones en el puente. 
+Podemos calcular las tensiones que se producirían en un puente de acero, sin juntas de dila- 
+tación, utilizando el módulo de Young (ecuación 12.1): 
+-tensión _ F/A 
+deformación  AL/L 
+Por lo tanto, 
+F AL Ta di = Ya AT 
+Para AT = 30 K, AL/L = 0,33 m/1000 m, como vimos en el ejemplo 20.1. Utilizando Y= 
+2 x 10'! N/m? (tabla 12.1), resulta 
+F AL ~ 0,33 m Hay Ara ul 2 pa 7 Y7 (2x10 N/m") 7000 m 6,6 x 107 N/m?

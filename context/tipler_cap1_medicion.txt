@@ -1,0 +1,843 @@
+Tema: Sistemas de medida (Capítulo 1 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+SISTEMAS DE MEDIDA Capitulo 
+1 Unidades 
+.2 Conversión de 
+unidades 
+1.3 Dimensiones de las 
+magnitudes físicas 
+1,4 Notación científica 
+1.5 Cifras significativas y 
+órdenes de magnitud 
+En una playa hay demasiados granos de arena para contarlos uno por uno, pero se puede ob- 
+tener el número aproximado por medio de hipótesis razonables y cálculos sencillos 
+¿Cuántos granos de arena hay en su playa favorita? (Véase el ejemplo 1.6.) 
+E | hombre siempre ha sentido curiosidad por el mundo que le rodea. Como demues- 
+tran los primeros documentos gráficos, el hombre siempre ha buscado el modo de im- 
+poner orden en la enmarañada diversidad de los sucesos observados. La ciencia es un 
+método de búsqueda de los principios fundamentales y universales que gobiernan las 
+causas y los efectos en el universo. El método científico consiste en construir, probar y 
+relacionar modelos con el objetivo de describir, explicar y predecir la realidad. Esta me- 
+todología comporta establecer hipótesis, realizar experimentos que se puedan repetir y 
+observar y formular nuevas hipótesis. El criterio esencial que determina el valor de un 
+modelo científico es su simplicidad y su utilidad para elaborar predicciones o para ex- 
+plicar observaciones referidas a un amplio espectro de fenómenos. 
+Generalmente consideramos la ciencia como dividida en diversos campos separa- 
+dos, aunque esta división sólo tuvo lugar a partir del siglo XIX. La separación de siste- 
+mas complejos en categorías más simples que pueden estudiarse más fácilmente, 
+constituye uno de los mayores éxitos de la ciencia. La biología, por ejemplo, estudia los 
+organismos vivos. La química trata de las interacciones de los elementos y compuestos. 
+La geología es el estudio de la Tierra. La astronomía estudia el sistema solar, las estre- 
+llas y las galaxias, y el universo en su conjunto. La física es la ciencia que trata de la 
+materia y de la energía, del espacio y del tiempo. Incluye los principios que gobiernan 
+el movimiento de las partículas y las ondas, las interacciones de las partículas y las pro- 
+piedades de las moléculas, los átomos y los núcleos atómicos, así como los sistemas de 
+mayor escala, como los gases, los líquidos y los sólidos. Algunos consideran que la fí- 
+sica es la más fundamental de las ciencias porque sus principios son la base de los otros 
+campos científicos. P
+
+4 | Capítulo 1 Sistemas de medida 
+La física es la ciencia de lo exótico y la ciencia de la vida cotidiana. En el extremo 
+de lo exótico, los agujeros negros ponen retos a la imaginación. En la vida diaria, inge- 
+nieros, músicos, arquitectos, químicos, biólogos, médicos, etc., controlan temas tales 
+como transmisión del calor, flujo de fluidos, ondas sonoras, radiactividad y fuerzas de 
+tensión en edificios o en huesos para realizar su trabajo diario. Innumerables cuestiones 
+respecto a nuestro mundo pueden responderse con un conocimiento básico de la física. 
+¿Por qué un helicóptero tiene dos rotores? ¿Por qué los astronautas flotan en el espa- 
+cio? ¿Por qué los relojes que se mueven van más lentos? ¿Por qué el sonido se propaga 
+alrededor de las esquinas, mientras la luz se propaga en linea recta? ; Por qué un oboe sue- 
+na distinto de una flauta? ¿Cómo funcionan los lectores de discos compactos (CD)? ¿Por 
+qué no hay hidrógeno en la atmósfera? ¿Por qué los objetos metálicos parecen más fríos 
+que los objetos de madera a igual temperatura? ¿Por qué el cobre es un conductor eléctri- 
+co mientras que la madera es un aislante? ¿Por qué el litio, con sus tres electrones, es enor- 
+memente reactivo, mientras que el helio, con dos electrones, es químicamente inerte? 
+© En este capítulo empezaremos a prepararnos para contestar a algunas de estas 
+preguntas examinando las unidades y sus dimensiones. Cada vez que se realiza una 
+medida, debe saberse con qué precisión se ha hecho. Si un indicador del contenido 
+de combustible de un depósito indica que hay 100 litros, ello no significa que haya 
+exactamente 100 litros. Por lo tanto, ¿qué significa en realidad este dato, y cómo 
+tenemos que expresarlo? 
+Física clásica y moderna 
+Los primeros esfuerzos registrados por el ser humano para reunir sistemáticamente el cono- 
+cimiento sobre el movimiento de los cuerpos proceden de la antigua Grecia. En la filosofía 
+natural establecida por Aristóteles (384-322 a.C.) las explicaciones de los fenómenos físicos 
+se deducían de hipótesis sobre el mundo y no de la experimentación. Por ejemplo, una hipó- 
+tesis fundamental afirmaba que toda sustancia tenía un “lugar natural” en el universo, Se 
+estableció que el movimiento era el resultado del intento de una sustancia de alcanzar su 
+lugar natural. El acuerdo entre las deducciones de la física aristotélica y los movimientos 
+observados en el universo físico, y la falta de una tradición experimental que derrocase la 
+física antigua, hizo que el punto de vista de los griegos fuera aceptado durante casi dos mil 
+años. Fue el científico italiano Galileo Galilei (1564-1642), quien con sus brillantes experi- 
+mentos sobre el movimiento estableció para siempre la absoluta necesidad de la experimen- 
+tación en la física e inició la desintegración de la física de Aristóteles. Unos cien años 
+después, Isaac Newton generalizó los resultados experimentales de Galileo en sus tres leyes 
+fundamentales del movimiento. y el reino de la filosofía natural de Aristóteles se extinguió. 
+Durante los siguientes doscientos años la experimentación aportó innumerables descu- 
+brimientos que inspiraron el desarrollo de las teorías físicas para su explicación. A finales 
+del siglo XIX, las leyes de Newton referentes a los movimientos de los sistemas mecánicos se 
+asociaron a las igualmente impresionantes leyes de James Maxwell, James Joule, Sadi Car- 
+not y otros para describir el electromagnetismo y la termodinámica. Los temas que ocuparon 
+a los físicos durante la última parte del siglo XIX —mecanica, luz, calor, sonido, electricidad 
+y magnetismo— constituyen lo que se denomina física clásica. Como lo que necesitamos 
+para comprender el mundo macroscópico donde vivimos es la física clásica, ésta domina en 
+las partes I a V de este texto. 
+El notable éxito alcanzado por la física clásica llevó a muchos científicos al convenci- 
+miento de que la descripción del universo físico se había completado. Sin embargo, el descu- 
+brimiento de los rayos X realizado por Wilhelm Roentgen en 1895 y el de la radiactividad por 
+Antoine Becquerel y Marie y Pierre Curie los años siguientes parecían estar fuera del marco de 
+la física clásica. La teoría de la relatividad especial propuesta por Albert Einstein en 1905 con- 
+tradecía las ideas de espacio y tiempo de Galileo y Newton. En el mismo año, Einstein sugirió 
+que la energía luminosa estaba cuantizada: es decir, que la luz se propaga en paquetes discretos 
+y no en forma ondulatoria y continua como suponía la física clásica. La generalización de esta 
+idea a la cuantización de todos los tipos de energía es un concepto fundamental de la mecánica 
+cuántica, con sorprendentes e importantes consecuencias, La aplicación de la relatividad espe-
+
+cial y, particularmente, la teoría cuántica a sistemas microscópicos tales como átomos, molé- 
+culas y núcleos, ha conducido a una comprensión detallada de sólidos, líquidos y gases y 
+constituye lo que generalmente se denomina física moderna. A ésta se dedica la parte VI de 
+este texto. 
+Comenzaremos nuestro estudio de la física con los temas clásicos. Sin embargo, de vez 
+en cuando elevaremos nuestra mirada para analizar la relación entre la física clásica y la 
+física moderna. Así, por ejemplo, en el capítulo 2 dedicaremos un espacio a las velocidades 
+próximas a la de la luz. atravesando brevemente el universo relativista imaginado primera- 
+mente por Einstein. Igualmente, después de abordar la conservación de la energía en el capí- 
+tulo 7, trataremos de la cuantización de la energía y de la famosa relación de Einstein entre 
+la masa y la energía, E = mc”. Unos capítulos más adelante, en el capítulo R, estudiaremos la 
+naturaleza del espacio y del tiempo tal como los reveló Einstein en 1903. 
+1.1 Unidades 
+Sabemos bien que no todas las cosas pueden medirse, por ejemplo, la belleza de una flor o 
+de una fuga de Bach. Cualquiera que sea el conocimiento que tengamos de estas cosas, com- 
+prendemos fácilmente que este conocimiento no pertenece al campo de la ciencia. La capa- 
+cidad no sólo de definir, sino también de medir, es un requisito de la ciencia, y en física, más 
+que en cualquier otro campo del conocimiento, la definición precisa de los términos y la 
+medida exacta de las magnitudes ha conducido a grandes descubrimientos. Comenzaremos 
+nuestro estudio de la física estableciendo unas pocas definiciones básicas. introduciendo las 
+unidades y mostrando cómo estas unidades se tratan en las ecuaciones. La “diversión” ven- 
+drá más adelante. 
+La medida de toda magnitud física exige compararla con cierto valor unitario de la 
+misma. Así, para medir la distancia entre dos puntos, la comparamos con una unidad están- 
+dar de distancia tal como el metro. La afirmación de que una cierta distancia es de 25 metros 
+significa que equivale a 25 veces la longitud de la unidad metro; es decir, una regla métrica 
+patrón se ajusta 25 veces en dicha distancia. Es importante añadir la unidad metros junto con 
+el número 25 al expresar una distancia debido a que existen otras unidades de longitud de 
+uso común. Decir que una distancia es 25 carece de significado. Toda magnitud física debe 
+expresarse con una cifra y una unidad. 
+El sistema internacional de unidades 
+Todas las magnitudes físicas pueden expresarse en función de un pequeño número de unida- 
+des fundamentales. Muchas de las magnitudes que se estudiarán, tales como velocidad, 
+fuerza, ímpetu o momento lineal, trabajo, energía y potencia, pueden expresarse en función 
+de tres unidades fundamentales: longitud, tiempo y masa. La selección de las unidades 
+patrón o estándar para estas magnitudes fundamentales determina un sistema de unidades. El 
+sistema utilizado universalmente en la comunidad científica es el Sistema Internacional (SI). 
+En el SI la unidad patrón de longitud es el metro, la unidad patrón del tiempo es el segundo 
+y la unidad patrón de la masa es el kilogramo. Las definiciones completas de las unidades 
+del SI se dan en el Apéndice B. 
+Longitud La unidad patrón de longitud, el metro (símbolo m), estaba definida original- 
+mente por la distancia comprendida entre dos rayas grabadas sobre una barra de una alea- 
+ción de platino e iridio que se guarda en la Oficina Internacional de Pesas y Medidas, en 
+Sévres, Francia. Se escogió esta longitud de modo que la distancia entre el Ecuador y el Polo 
+Norte a lo largo del meridiano que pasa por París fuese igual a diez millones de metros 
+(figura 1.1). El metro patrón se define hoy como la distancia recorrida por la luz en el vacío 
+durante un tiempo de 1/299 792 458 segundos. (Esto supone que la velocidad de la luz es 
+exactamente 299 792 458 m/s.) 
+Ejercicio ¿Cuál es la circunferencia de la tierra en metros? (Respuesta Unos 4 x 107 m.) 
+1.1 Unidades | 5 
+Polo Norte 
+Figura 1.1 El patrón de longitud, el metro, se es- 
+cogió originalmente de modo que la distancia del 
+Ecuador al Polo Norte a lo largo del meridiano que 
+pasa por París fuese 107 m.
+
+6 Capitulo 1 Sistemas de medida 
+(a) 
+(b) 
+(a) Reloj de agua utilizado en el siglo Xm para medir 
+intervalos de tiempo. (b) Los diseñadores Jefferts & 
+Meekhof de un reloj de una fuente de cesio junto al 
+prototipo. 
+Tiempo La unidad de tiempo. el segundo (s), se definió originalmente en función de la 
+rotación de la Tierra, de modo que correspondía a (1/60)(1/60)(1/24) del día solar medio. 
+Actualmente se define en función de una frecuencia característica asociada con el átomo de 
+cesio. Todos los átomos, después de absorber energía, emiten luz con longitudes de onda y 
+frecuencias características del elemento considerado. Existe una frecuencia y una longitud 
+de onda particulares asociadas a cada transición energética dentro del átomo de un elemento 
+y todas las experiencias manifiestan que estas magnitudes son constantes. El segundo se 
+define de modo que la frecuencia de la luz emitida en una determinada transición del cesio 
+es de 9 192631 770 ciclos por segundo. Con estas definiciones, las unidades fundamentales 
+de longitud y de tiempo son accesibles a cualquier laboratorio del mundo. 
+Masa La unidad de masa, el kilogramo (kg), igual a 1000 gramos (g), se define de modo 
+que corresponde a la masa de un cuerpo patrón concreto, también conservado en Sévres, Un 
+duplicado del patrón de masa | kg se guarda en el National Bureau of Standards (NIST) de 
+Gaithersburg, Maryland (EE.UU.). Estudiaremos con más detalle el concepto de masa en el 
+capítulo 4. Como veremos, el peso de un objeto en un punto determinado de la Tierra es pro- 
+porcional a su masa. Así, las masas de tamaño ordinario pueden compararse a partir de su peso. 
+Al estudiar termodinámica y electricidad necesitaremos tres unidades físicas fundamen- 
+tales más, la unidad de temperatura, el kelvin (K) (inicialmente llamado grado kelvin); la 
+unidad de cantidad de sustancia, el mol (mol); y la unidad de corriente eléctrica, el amperio 
+(A). Existe otra unidad fundamental. la candela (cd), unidad de intensidad luminosa, que no 
+tendremos ocasión de utilizar en este libro. Estas siete unidades fundamentales, el metro 
+(m), el segundo (s), el kilogramo (kg). el kelvin (K), el amperio (A), el mol (mol) y la can- 
+dela (cd), constituyen el sistema internacional de unidades (SI). 
+La unidad de cualquier magnitud física puede expresarse en función de estas unidades 
+del SI fundamentales. Algunas combinaciones importantes reciben nombres especiales. Por 
+ejemplo, la unidad SI de fuerza, kg - m/s”, se denomina newton (N). Análogamente, la uni- 
+dad del SI de potencia, kg - m/s? = N - m/s se denomina vatio (W). Cuando una unidad como 
+el newton o el vatio corresponde al nombre de una persona, se escribe en minúsculas. En 
+cambio, las abreviaturas de estas unidades se escriben en mayúsculas. 
+En la tabla 1.1 se relacionan los prefijos de los múltiplos y submúltiplos más corrientes 
+de las unidades del SI. Estos múltiplos son todos potencias de 10 y un sistema así se deno- 
+mina sistema decimal; el sistema decimal basado en el metro se llama sistema métrico. Los 
+prefijos pueden aplicarse a cualquier unidad del SI; por ejemplo, 0,001 segundos es un mili- 
+segundo (ms); 1 000 000 vatios es un megavatio (MW). 
+TABLA 1.1 Prefijos de las potencias de 10° 
+Múltiplo Prefijo Abreviatura 
+10! exa E 
+10" peta P 
+10% tera T 
+10” giga G 
+10° mega M 
+10° kilo k 
+10? hecto h 
+10! deca da 
+107! deci d 
+10 z centi c 
+107 mili m 
+10” micro u 
+10” nano n 
+107! pico p 
+10715 femto f 
+_ 108 atto a 
+Los prefijos hecto (h), deca (da) y deci (d) no son múltiplos de 10° 6 1077 y se utilizan con poca frecuencia, El 
+otro prefijo que no es múltiplo de 10° 6 103 es centi (c). Los prefijos que se usan con más frecuencia en este libro 
+se escriben en rojo. Nótese que todas las abreviaturas de prefijos múltiplos de 10° y superiores se escriben en ma- 
+yúsculas; todos los otros se abrevian con minúsculas,
+
+Otros sistemas de unidades 
+Otro sistema decimal que aún se utiliza, pero que está siendo reemplazado gradualmente por 
+el sistema del SI, es el sistema cgs, basado en el centímetro, el gramo y el segundo. El centí- 
+metro se define ahora como 0,01 m y el gramo como 0,001 kg. Originalmente el gramo se 
+definió como la masa de 1 cm? de agua a 4 °C, (Según esta definición un kilogramo es la 
+masa de 1000 centímetros cúbicos o un litro de agua.) 
+Existen otros sistemas de unidades como el sistema técnico inglés utilizado en los 
+EE.UU. y otros países de habla inglesa, en el que se toma la libra como unidad fundamental 
+de fuerza. La libra se define en función de la atracción gravitatoria de la Tierra en un lugar 
+determinado sobre un cuerpo patrón. La unidad de masa se define entonces en función de la 
+libra. La unidad fundamental de longitud en este sistema es el pie (ft) y la unidad de tiempo 
+es el segundo con la misma definición que la unidad del SI. El pie se define como un tercio 
+de una yarda (yd), y ésta se define ahora en función del metro como: 
+l yd = 0,9144 m (1.1) 
+l pie = į yd = 0,3048 m (1.2) 
+Esto hace que la pulgada sea exactamente 2,54 cm. Este sistema no es decimal y es menos con- 
+veniente que el SI o cualquier otro sistema decimal, pues los múltiplos comunes de sus unida- 
+des no son potencias de 10. Por ejemplo | yarda = 3 pies y | pie = 12 pulgadas. En el capítulo 
+4 veremos que la masa es una elección mejor que la fuerza como unidad fundamental, por tra- 
+tarse de una propiedad intrínseca de un objeto que es independiente de su localización. En el 
+Apéndice A se dan las relaciones entre el sistema técnico inglés y el SI. 
+1.2 Conversión de unidades 
+Todas las magnitudes físicas contienen un número y una unidad. Cuando estas magnitudes 
+se suman, se multiplican o se dividen en una ecuación algebraica, la unidad puede tratarse 
+como cualquier otra magnitud algebraica. Por ejemplo, supóngase que deseamos hallar la 
+distancia recorrida en 3 horas (h) por un coche que se mueve con una velocidad constante de 
+80 kilómetros por hora (km/h). La distancia x es precisamente la velocidad v multiplicada 
+por el tiempo 1: 
+80 km x = vt = — x3 K = 240 km x K 
+Eliminamos la unidad de tiempo, la hora, igual que haríamos con cualquier otra magnitud 
+algebraica para obtener la distancia en la unidad de longitud correspondiente, el kilómetro. 
+Este método permite fácilmente pasar de una unidad de distancia a otra. Supóngase que 
+quisiéramos convertir nuestra respuesta de 240 km en millas (mi). Teniendo en cuenta que 
+1 mi = 1,61 km, si dividimos los dos miembros de esta igualdad por 1,61 km se obtiene 
+l mi l 
+1,61 km 
+Como toda magnitud puede multiplicarse por 1 sin modificar su valor, podemos cambiar 240 
+km en millas multiplicando por el factor (1 mi)/(1,61 km): 
+| mi A 240 km = AAA Tk = 149 mi 
+El factor (1 mi)/(1,61 km) se denomina factor de conversión. Todos los factores de conver- 
+sión tienen el valor de 1 y se utilizan para pasar una magnitud expresada en una unidad de 
+medida a su equivalente en otra unidad de medida. Escribiendo explícitamente las unidades, 
+no es necesario pensar si hay que multiplicar o dividir por 1,61 para pasar de kilómetros a 
+millas, ya que las unidades indican si hemos escogido el factor correcto o el incorrecto. 
+1.2 Conversión de unidades | 7
+
+8 | Capítulo 1 Sistemas de medida 
+(a) (b) 
+(a) Haces de láser emitidos desde el Observatorio Macdonald para medir la distancia hasta la Luna. Esta 
+distancia se mide con un error de pocos centímetros midiendo el tiempo transcurrido en el viaje de ida y 
+vuelta del rayo láser a la Luna después de reflejarse en un espejo (b) allí emplazado por los astronautas 
+del Apolo 14. 
+EJEMPLO 1.1 | Uso de los factores de conversión 
+Un empleado de una empresa con sede en Estados Unidos ha de viajar, por encargo de su 
+empresa, a un país donde las señales de tráfico muestran la distancia en kilómetros y los velocí- 
+metros de los coches están calibrados en kilómetros por hora. Si con su vehículo viaja a 90 km por 
+hora, ¿a cuánto equivale su velocidad expresada en metros por segundo y en millas por hora? 
+Planteamiento del problema Utilizaremos el hecho de que 1000 m = 1 km, 60 s = | min y 
+60 min = 1 h para convertir los kilómetros por hora en metros por segundo. Se multiplica la magnitud 
+90 km/h por una serie de factores de conversión de valor 1 de modo que el valor de la velocidad no varía. 
+Para convertir la velocidad en millas por hora, se utiliza el factor de conversión (1 mi)/(1,61 km) = 1. 
+90k _ 1000 m Lit x 
+k ~ lkm 60min 1. Multiplicar 90 km/h por una serie de factores de conversión que trans- 
+forman los kilómetros en metros y las horas en segundos: 
+JO [mi _ 
+h 1.61 km — 2. Multiplicar 90 km/h por 1 mi/1,61 km: 
+Ejercicio ¿Cuál es el equivalente de 65 mi/h en metros por segundo? (Respuesta 29,1 m/s.) 
+1.3 Dimensiones de las magnitudes físicas 
+El área de una figura plana se encuentra multiplicando una longitud por otra. Por ejemplo, el 
+WESTPORT 3 mi área de un rectángulo de lados 2 m y 3 mes A = (2 m)(3 m) = 6 m°. La unidad de esta área es 
+s km el metro cuadrado. Puesto que el área es el producto de dos longitudes, se dice que tiene 
+FALL RIVER 6mi dimensiones de longitud por longitud, o longitud al cuadrado, que suele escribirse £?, La 
+10 km idea de dimensiones se amplía fácilmente a otras magnitudes no geométricas. Por ejemplo, 
+la velocidad tiene dimensiones de longitud dividida por tiempo o L/T. Las dimensiones de 
+otras magnitudes. tales como fuerza o energía, se escriben en función de las magnitudes fun- 
+damentales longitud, tiempo y masa. La suma de dos magnitudes físicas sólo tiene sentido si 
+ambas tienen las mismas dimensiones. Por ejemplo. no podemos sumar un área a una veloci- 
+dad y obtener una suma que signifique algo. Si tenemos una ecuación como 
+A=B+C
+
+1.4 Notación científica | 9 
+las magnitudes A, B y C deben tener las tres las mismas dimensiones. La suma de By C TABLA 1.2 Dimensiones de las magnitudes 
+exige que las dos magnitudes estén además expresadas en las mismas unidades. Por ejemplo, físicas 
+si B es un área de 500 cm? y C es 4 m?, debemos convertir B en m? o C en cm? para hallar la 
+Mia de las dos ireas; Magnitud Símbolo Dimensión 
+A veces pueden detectarse errores en un cálculo comprobando las dimensiones y unida- Área H E 
+des de las magnitudes que intervienen en él. Supóngase, por ejemplo, que estamos utilizando Volumen V B 
+erróneamente la fórmula A = 277 para el área de un círculo. Veremos inmediatamente que velocidad t LIT 
+esto no puede ser correcto, ya que 27r, tiene dimensiones de longitud, mientras que el área Aceleración a ur 
+tiene dimensiones de longitud al cuadrado. La coherencia dimensional es una condición Fuerza F MLIT? 
+necesaria, pero no suficiente para que una ecuación sea correcta. Una ecuación puede tener Presión (F/A) p MILT? 
+las dimensiones correctas en cada término, pero no describir una situación física. La tabla Densidad (M/V) p MIL? 
+1.2 relaciona las dimensiones de algunas magnitudes corrientes en física. Energía E MEIT 
+Potencia (E/T) P MEPIT 
+EJEMPLO 1.2 | Las dimensiones físicas de la presión 
+La presión de un fluido en movimiento depende de su densidad p y su velocidad y. Determinar 
+una combinación sencilla de densidad y velocidad que nos dé las dimensiones correctas de la 
+presión. 
+Planteamiento del problema En la tabla 1.2 se observa que tanto la presión como la densidad 
+tienen unidades de masa en el numerador, mientras que la velocidad no contiene la dimensión M. 
+Dividamos las unidades de presión por las de densidad e inspeccionemos el resultado, 
+1. Se dividen las unidades de presión por las de densidad: ia = HLL = E 
+2. El resultado tiene dimensiones de v?. Las dimensiones de la presión [p] = [p]lv?] = HA 
+son las mismas que las de densidad multiplicadas por las de velocidad 
+al cuadrado: 
+Observación Cuando estudiemos los fluidos en el capítulo 13, veremos que según la ley de Ber- 
+nouilli aplicada a un fluido que se mueve a una altura constante, p + 5 pv? es constante, en donde p 
+es la presión del fluido. Esto también se conoce como el efecto Venturi. 
+1.4 Notación científica 
+El manejo de números muy grandes o muy pequeños se simplifica utilizando la notación 
+científica. En esta notación, el número se escribe como el producto de un número compren- 
+dido entre 1 y 10 y una potencia de 10, por ejemplo 10? (= 100) 6 10° (= 1000), etc. Por 
+ejemplo, el número 12000000 se escribe 1,2 x 107; la distancia entre la Tierra y el Sol, 
+150 000 000 000 m aproximadamente, se escribe 1,5 x 10'' m. El número 11 en 10"' se llama 
+exponente. Cuando los números son menores que | el exponente es negativo. Por ejemplo, 
+0,1 = 107! y 0,0001 = 10+. Por ejemplo, el diámetro de un virus es aproximadamente igual a 
+0,00000001 m = 1 x 10 m. 
+Al multiplicar dos números con notación científica, los exponentes se suman; en la divi- 
+sión se restan. Estas reglas pueden comprobarse fácilmente en los siguientes ejemplos: 
+10? x 103 = 100x 1000 = 100000 = 105 
+De igual forma, 
+10? 100). 1 
+103 1000 10 
+En la notación científica, 10° se define como 1. En efecto, dividamos por ejemplo 1000 por 
+sí mismo. Resulta 
+1000, — 10% ers = m0 
+e EO" Mes
+
+10 | Capítulo 1 Sistemas de medida 
+EJEMPLO 1.3 | Recuento de átomos 
+En 12 g de carbono existen N, = 6,02 x 10% átomos de esta sustancia (número de Avogadro). Si 
+contáramos un átomo por segundo, ¿cuánto tiempo tardaríamos en contar los átomos de 1 g de 
+carbono? Expresar el resultado en años. 
+Planteamiento del problema Necesitamos determinar el número total de átomos, N, que 
+hemos de contar y tener en cuenta que el número contado es igual a la tasa de recuento R multipli- 
+cada por el tiempo t. 
+1. El tiempo es igual al número total de átomos N dividido por la tasa de z = A 
+recuento R = | átomo/s: 
+_ 6,02 x 10% átomos 2. Determinar el número de átomos de carbono en | g: N= De x lg = 5,02 x 10% átomos 
+3. Calcular el número de segundos necesarios para contar los átomos al f = y = 3102 X10 átomos = 5,02 x 102 s R I átomo/s por segundo: 
+4. Calcular el número de segundos que contiene un año: n= == x = x a $ = 3,15 107 s/a 
+> $ la ili y = = 22 r 5. Utilizar el factor de conversión 3,15 x 10’ s/a (una magnitud que con t = 5,02 x 10" sx 315x10 wa 
+viene recordar) y convertir la respuesta del paso 3 en años: 
+= 392 x 102-7 a =[1,59x 105a 
+Observación El tiempo requerido es aproximadamente 100 000 veces la edad del universo. 
+Ejercicio Si dividiéramos esta tarea de modo que cada persona contase átomos diferentes, ¿cuán- 
+tos años tardaría un equipo formado por 5000 millones (5 x 10?) de personas para contar los átomos 
+que contiene 1 g de carbono? (Respuesta 3,19 x 10% años.) 
+EJEMPLO 1.4 | ¿Cuánta agua? 
+Un litro (L) es el volumen de un cubo de 10 cm X 10 cm X 10 cm. Si una persona bebe 1 L de agua, 
+¿qué volumen en centímetros cúbicos y en metros cúbicos ocupará este líquido en su estómago? 
+Planteamiento del problema El volumen de un cubo de lado £ es V = £*. El volumen en cm? 
+se determina directamente a partir de € = 10 cm. Para determinar el volumen en m°, hay que conver- 
+tir cm? en m utilizando el factor de conversión 1 cm = 10? m. 
+1. Calcular el volumen en em?: V = € = (10cm)? = 103 cm? 
+-2 3 -6 m3 
+2. Convertir a m°: 103 cm? = 103 em? x( =) = 105 cmx (A x lem l cm 
+Observación El factor de conversión (igual a 1) puede elevarse a la tercera potencia sin modificar 
+su valor, permitiéndonos cancelar las unidades implicadas. 
+La suma o resta de dos números escritos en notación científica cuando los exponentes no 
+coinciden es ligeramente más delicada. Consideremos, por ejemplo, 
+(1,200 x 102) + (8 x 10-1) = 120,0 +0,8 = 120,8 
+Para calcular esta suma sin expresar ambos números es su forma decimal ordinaria, basta 
+con volver a escribirlos de forma que la potencia de 10 sea la misma en ambos. En este caso 
+se puede calcular la suma escribiendo, por ejemplo, 1,200 x 10? = 1200 x 107! y luego 
+- Sumando: 
+(1200 x 1071) +(8 x 1071) = 1208 x 10-' = 120,8
+
+1.5 Cifras significativas y órdenes de magnitud | 11 
+Si los exponentes son muy diferentes, uno de los números es mucho menor que el otro y fre- 
+cuentemente puede despreciarse en las operaciones de suma o resta. Por ejemplo, 
+(2x 106) + (9 x 10-3) 2000000 + 0,009 
+2.000 000,009 = 2 x 10° 
+en donde el simbolo = significa “aproximadamente igual a”, 
+Al elevar una potencia a otra potencia, los exponentes, se multiplican. Por ejemplo, 
+(102)+ = 102x 10? x 10 x10? = 108 
+1.5 Cifras significativas y órdenes de magnitud 
+Muchos de los números que se manejan en la ciencia son el resultado de una medida y por lo 
+tanto sólo se conocen con cierta incertidumbre experimental. La magnitud de esta incerti- 
+dumbre depende de la habilidad del experimentador y del aparato utilizado, y frecuente- 
+mente sólo puede estimarse. Se suele dar una indicación aproximada de la incertidumbre de 
+una medida mediante el número de dígitos que se utilizan. Por ejemplo, si decimos que la 
+longitud de una mesa es 2,50 m, queremos indicar que probablemente su longitud se encuen- 
+tra entre 2,495 m y 2,505 m; es decir, conocemos su longitud con una exactitud aproximada 
+de +0,005 m = +0,5 cm de la longitud establecida. Si utilizamos un metro en el que se puede 
+apreciar el milímetro y medimos esta misma longitud de la mesa cuidadosamente, podemos 
+estimar que hemos medido la longitud con una precisión de +0,5 mm, en lugar de +0,5 cm. 
+Indicamos esta precisión utilizando cuatro dígitos, como por ejemplo, 2,503 m, para expre- 
+sar la longitud. Recibe el nombre de cifra significativa todo dígito (exceptuando el cero 
+cuando se utiliza para situar el punto decimal) cuyo valor se conoce con seguridad. El 
+número 2,50 tiene tres cifras significativas; 2,503 tiene cuatro. El número 0,00103 tiene tres 
+cifras significativas. (Los tres primeros ceros no son cifras significativas ya que simplemente 
+sitúan la coma decimal.) En notación científica, este número se escribiría como 1,03 x 107, 
+Un error muy común en los estudiantes, particularmente desde que se ha generalizado el uso 
+de calculadoras de bolsillo, es arrastrar en el cálculo muchos más dígitos de los que en reali- Molécilas de benceno dal ordende 10-10 mide diá: 
+dad se requieren. Supongamos, por ejemplo, que medimos el área de un campo de juego cir- metro, vistas mediante un microscopio electrónico 
+cular midiendo el radio en pasos y utilizando la fórmula del área A = m°. Si estimamos que de barrido. 
+la longitud del radio es 8 m y utilizamos una calculadora de 10 dígitos para determinar el 
+valor del área, obtenemos 8 m)? = 201,0619298 m°. Los dígitos situados detrás del punto 
+decimal no sólo dificultan el cálculo sino que inducen a confusión respecto a la exactitud con 
+la que conocemos el área. Si se ha calculado el radio mediante pasos, la exactitud de la 
+medida será tan sólo de 0,5 m. Es decir, la longitud del radio tendrá como máximo un valor 
+de 8,5 m y como mínimo un valor de 7,5 m. Si la longitud del radio es 8,5 m, el valor del 
+área es m(8,5 m)? = 226,9800692 m?, mientras que si es 7,5 m, el área vale (7,5 m} = 
+176,714587 m?. Una regla general válida cuando se manejan diferentes números en una ope- 
+ración de multiplicación o división es: 
+El número de cifras significativas del resultado de una multiplicación o división no debe 
+ser mayor que el menor número de cifras significativas de cualesquiera de los factores. 
+En el ejemplo anterior sólo se conoce una cifra significativa del radio; por lo tanto, sólo se 
+conoce una cifra significativa del área. Ésta se debe expresar como 2 x 10? m?, lo que 
+implica que el área está comprendida entre 150 m? y 250 m?. 
+La precisión de la suma o resta de dos medidas depende de la precisión menor de estas 
+medidas. Una regla general es: 
+Cromosomas del orden de 10% m vistos mediante 
+= : Doe k 5 un microscopio electrónico de barrido. El resultado de la suma o resta de dos números carece de cifras significativas más allá de p 
+la última cifra decimal en que ambos números originales tienen cifras significativas.
+
+12 | Capítulo 1 Sistemas de medida 
+EJEMPLO 1.5 | Cifras significativas 
+Determinar la suma 1,040 + 0,21342. 
+Planteamiento del problema EIl primer número, 1,040, tiene sólo tres cifras significativas des- 
+pués de la coma decimal, mientras que el segundo, 0,21342, tiene cinco. De acuerdo con la regla 
+anterior, la suma sólo puede tener tres cifras significativas después de la coma decimal. 
+Sumar los números manteniendo sólo 3 dígitos más allá de la coma deci- 1,040 + 0,21342 = 
+mal: 
+Ejercicio Aplicar la regla apropiada para determinar el número de cifras significativas en las siguien- 
+tes operaciones: (a) 1,58 x 0,03; (b) 1,4+2,53; y (c) 2,34 x 107 + 4,93. (Respuestas (a) 0,05, (b) 3,9; 
+(c) 2,39 x 10°.) 
+Los datos de la mayor parte de los ejemplos y ejercicios de este texto se dan con tres (y 
+en algunas ocasiones cuatro) cifras significativas, pero en ciertos casos éstas no se han espe- 
+cificado y se dice, por ejemplo, que las dimensiones del tablero de una mesa son de 1 y 3 m 
+en lugar de expresar las longitudes como 1,00 m y 3,00 m. A no ser que se indique lo contra- 
+rio, puede suponerse que cualquier dato que se utilice en un problema o ejercicio se conoce 
+con tres cifras significativas. Esta misma suposición vale para los datos de los problemas de 
+final de capítulo. Cuando se realizan cálculos aproximados o comparaciones se suele redon- 
+dear un número hasta la potencia de 10 más próxima. Tal número recibe el nombre de orden 
+de magnitud. Por ejemplo, la altura de un pequeño insecto, digamos un hormiga, puede ser 
+8 x 10 m = 10° m. Diremos que el orden de magnitud de la altura de una hormiga es de 
+10-* m. De igual modo, como la altura de la mayoría de las personas se encuentra próxima a 
+2 m, podemos redondear este número y decir que el orden de magnitud de la altura de una 
+persona es de 10” m. Esto no quiere decir que la altura típica de una persona sea realmente 
+de | m, sino que está más próxima a | m que a 10 m ó 107! = 0,1 m. Podemos decir que una 
+persona típica es tres órdenes de magnitud más alta que una hormiga típica, queriendo decir 
+con esto que el cociente entre las alturas es aproximadamente igual a 10* (relación 1000 a 1). 
+Un orden de magnitud no proporciona cifras que se conozcan con precisión. Debe pensarse 
+que no tiene cifras significativas. La tabla 1.3 especifica los valores de los órdenes de magni- 
+Diana families en auestro mundo cotidiaó: tud de algunas longitudes. masas y tiempos relacionados con la física. 
+La altura de la muchacha es del orden de 10° m y la En muchos casos el orden de magnitud de una cantidad puede estimarse mediante hipó- 
+de la montaña de 10* m. ; tesis razonables y cálculos simples. El físico Enrico Fermi era un maestro en el cálculo de 
+respuestas aproximadas a cuestiones ingeniosas que parecían a primera vista imposibles de 
+resolver por la limitada información disponible. El siguiente es un ejemplo de problema de 
+Fermi. 
+EXPLORANDO 
+¿Cuántos afinadores de piano hay en 
+Chicago? Averigiie esto, y más, en 
+www.whfreeman.com/tiplerse. 
+La Tierra, con un diámetro del orden de 107 m, El diámetro de la galaxia Andrómeda es del 
+vista desde el espacio. orden de 10?! m.
+
+Resumen 13 
+TABLA 1.3 El universo por órdenes de magnitud 
+Tamaño o distancia Intervalo de tiempo 
+Protón 10715 Electrón 10-39 Tiempo invertido por la luz en atravesar un núcleo 10-8 
+Atomo 10719 Protén 10-77 Periodo de la radiación de luz visible 10715 
+Virus 107 Aminoácido 10% Periodo de las microondas 10710 
+Ameba gigante 107 Hemoglobina 10% Periodo de semidesintegración de un muón 1076 
+Nuez 107? Virus de la gripe 10712 Periodo del sonido audible más alto 107+ 
+Ser humano 100 Ameba gigante 108 Periodo de las pulsaciones del corazón humano 10° 
+Montafia mas alta 10+ Gota de lluvia 107% Periodo de semidesintegración de un neutrón libre 108 
+Tierra 107 Hormiga 10% Periodo de rotación terrestre 10° 
+Sol 10? Ser humano 10? Periodo de revolución terrestre 107 
+Distancia Tierra-Sol 101 Cohete espacial Saturno 5 10° Vida media de un ser humano 10° 
+Sistema solar 10° Pirámide 101% Periodo de semidesintegración del plutonio 239 1092 
+Distancia de la estrella más cercana 101% Tierra 1074 Vida media de una cordillera 1015 
+Galaxia Vía Láctea 10?! Sol 10% Edad de la Tierra 101 
+Universo visible 10°° Galaxia Vía Láctea 104% Edad del universo 1018 
+Universo 102 
+EJEMPLO 1.6 | Desgaste de los neumáticos 
+¿Qué espesor de la banda de caucho de un neumático de automóvil se ha desgastado en un reco- 
+rrido de 1 km? 
+Planteamiento del problema Supongamos que el espesor de la banda de un neumático nuevo es 
+de 1 cm. Quizás varíe en un factor de 2, pero desde luego no es 1 mm, ni tampoco 10 cm. Como los neu- 
+máticos deben reemplazarse cada 60000 km, podemos admitir que la banda está gastada completamente 
+después de recorrer esta distancia, es decir, que su espesor disminuye a razón de 1 cm cada 60000 km. 
+A O z Desgaste de I cm_ _ Desgaste de 1.7 x 10-5 cm Utilizar la estimación de desgaste de 1 cm por cada 60000 km de recorrido 30000 km recorridos aeon 
+para calcular la disminución de espesor en | km: - 
+=(),2 um de desgaste por km recorrido 
+Ejercicio ¿Cuántos granos de arena hay en un tramo de playa de 0,50 km de largo por 100 m de 
+ancho? Sugerencia: supóngase que hay arena hasta una profundidad de 3 m. El diámetro de un 
+grano de arena es del orden de 1,00 mm. (Respuesta =2 x 101%.) 
+Resumen 
+Las unidades fundamentales del SI son el metro (m), el segundo (s), el kilogramo (kg), el kelvin (K), el 
+amperio (A), el mol (mol) y la candela (cd). La unidad (o las unidades) de cualquier magnitud física siempre 
+puede(n) expresarse en función de estas unidades fundamentales. 
+TEMA OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Unidades La magnitud de una cantidad física (por ejemplo, longitud, tiempo, fuerza y energía) se expresa mediante un 
+número y una unidad. 
+Unidades fundamentales Las unidades fundamentales del Sistema Internacional (Sl) son el (m), el segundo (s), el kilogramo (kg), el 
+kelvin (K), el amperio (A), el mol (mol) y la candela (cd). La unidad (o las unidades) de toda magnitud física 
+puede(n) expresarse en función de estas unidades fundamentales. 
+Las unidades en las ecuaciones Las unidades en las ecuaciones se tratan de igual modo que cualquier otra magnitud algebraica. 
+Conversión Los factores de conversión, que son siempre igual a 1, proporcionan un método conveniente para convertir 
+un tipo de unidad en otra.
+
+14 | Capítulo 1 Sistemas de medida 
+2. Dimensiones Los dos miembros de una ecuación deben tener las mismas dimensiones. 
+3. Notación científica Por conveniencia, los números muy grandes y muy pequeños se escriben por medio de un factor que multi- 
+plica a una potencia de 10. 
+4. Exponentes 
+Multiplicación Al multiplicar dos números, los exponentes se suman. 
+División Al dividir dos números, los exponentes se restan. 
+Potencia Cuando un número que contiene un exponente se eleva a otro exponente, los exponentes se multiplican. 
+5. Cifras significativas 
+Multiplicación y división El número de cifras significativas en el resultado de una multiplicación o división nunca será mayor que el 
+menor número de cifras significativas de cualquiera de los factores. 
+Adición y sustracción El resultado de la suma o resta de dos números no tiene cifras significativas más allá de la última cifra deci- 
+mal en que ambos números originales tienen cifras significativas. 
+6. Orden de magnitud Un número redondeado a la potencia más próxima de 10 se denomina orden de magnitud. El orden de mag- 
+nitud puede estimarse mediante hipótesis razonables y cálculos simples. 
+Problemas 
+® Concepto simple, un solo paso, relativamente fácil. 
+ee Nivel intermedio, puede exigir síntesis de conceptos. 
+eee  Desafiante, para alumnos avanzados. 
+ssM La solución se encuentra en el Student Solutions Manual. 
+I Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. 
+Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan alos fuentes externas o estimaciones 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. 
+Problemas conceptuales 
+1 o ‘SSM I ¿Cuál de las siguientes magnitudes físicas no 
+es una de las fundamentales del Sistema Internacional? (a) Masa. (b) Longitud. 
+(c) Fuerza. (d) Tiempo. (e) Todas ellas son magnitudes físicas fundamentales. 
+2 e l Al hacer un cálculo, el resultado final tiene las dimen- 
+siones m/s en el numerador y m/s? en el denominador. ¿Cuáles son las unidades 
+finales? (a) mYs?. (b) Ls. (c) s3/m2. (d) s. (e) m/s. 
+3 eo I El prefijo giga significa (a) 10°, (b) 10°, (c) 10°, (d) 10%, 
+(e) 10", 
+4 e i El prefijo mega significa (a) 10°. (b) 107%, (c) 10°, 
+(d) 10°, (e) 10°. 
+s o me j 
+(c) 103, (d) 10°, (e) 10°. 
+El prefijo pico significa (a) 107*, (b) 10, 
+6 e i El número 0,0005130 tiene ___ cifras significativas. 
+(a) una, (b) tres, (c) cuatro, (d) siete, (e) ocho. 
+En algunos problemas se dan 
+más datos de los realmente 
+necesarios; en otros pocos, deben 
+extraerse algunos datos a partir 
+de conocimientos generales, 
+lógicas. 
+7 e i El número 23,0040 tiene cifras significativas 
+(a) dos, (b) tres, (c) cuatro, (d) cinco, (e) seis. 
+8 @ ¿Cuáles son las ventajas e inconvenientes de utilizar la longitud de un 
+brazo como unidad estándar de longitud? 
+9 e Verdadero o falso: 
+(a) Para sumar dos magnitudes es condición necesaria que tengan las mismas 
+dimensiones. 
+(b) Para multiplicar dos magnitudes es condición necesaria que tengan las mis- 
+mas dimensiones, 
+(c) Todos los factores de conversión tienen el valor 1. 
+Cálculo y aproximaciones 
+10 ec SSM El ángulo subtendido por el diámetro de la Luna en un 
+punto de la Tierra es aproximadamente 0,524* (figura 1.2). Con este dato y 
+sabiendo que la Luna dista 384 Mm de la Tierra, hallar su diámetro. (El ángulo
+
+8 subtendido por la Luna es aproximadamente igual a D/r,, donde D es el diá- 
+metro de la Luna y 7 es la distancia a la misma.) 
+Figura 1.2 Problema 10 
+11 ee ssm i! Y Elso posee una masa de 1,99 x 10% kg. Fun- 
+damentalmente el Sol está compuesto de hidrógeno, con sólo una pequeña cantidad de 
+elementos más pesados. El átomo de hidrógeno tiene una masa de 1,67 x 107 kg. 
+Estimar el número de átomos de hidrógeno del Sol. 
+12 es Muchas bebidas refrescantes se venden utilizando como envase 
+latas de aluminio. Una lata contiene aproximadamente unos 0,018 kg de alumi- 
+nio. (a) Estimar cuántas latas se consumen durante un año en los Estados Uni- 
+dos de Norteamérica. (b) Calcular la masa total de aluminio atribuible al 
+consumo de latas de bebidas refrescantes. (c) Si por cada kilogramo de alumi- 
+nio, en un centro de reciclaje se obtiene | $, ¿cuál es el valor económico del 
+aluminio acumulado durante un año de las latas usadas? 
+13 es Richard Feynman en su ensayo “Hay mucho sitio libre en todas 
+partes” propuso escribir la Enciclopedia Británica completa en la cabeza de un 
+alfiler. (a) Estimar el tamaño que deberían tener las letras si suponemos, al igual 
+que Richard Feynman, que el diámetro de la cabeza del alfiler mide 1,5875 mm. 
+(b) Si en un metal el espacio entre átomos es de 0,5 nm (5 x 10710 m), ¿cuántos 
+átomos abarca el grosor de cada letra? 
+14 @@ SSM _ (a) Estimar cuántos litros de gasolina usan los automóvi- 
+les cada día en los Estados Unidos de Norteamérica y el coste asociado, (b) Si 
+de un barril de crudo se obtienen 73,45 L de gasolina, calcular cuántos barriles de 
+petróleo deben importarse en un año en los Estados Unidos de Norteamérica 
+para fabricar la gasolina necesaria para la automoción. ¿Cuántos barriles por 
+día supone esta cifra? 
+15 es Se ha debatido públicamente con frecuencia cuáles son las conse- 
+cuencias ambientales de usar pañales desechables o pañales reutilizables de 
+tela. (a) Supóngase que un bebé, desde que nace y hasta los 2,5 años, usa tres 
+pañales al día. Estimar cuántos pañales desechables se usan cada año en los 
+Estados Unidos de Norteamérica. (b) Calcular el volumen de vertedero ocu- 
+pado por los pañales, suponiendo que 1000 kg de estos residuos ocupan 1 mi, 
+(c) Calcular la superficie que ocuparían anualmente estos residuos si se supone 
+que necesitan una profundidad media en el vertedero de 10 m. 
+16 ese A cada dígito binario lo denominamos bit, Una serie de bits agru- 
+pados se denomina palabra y una palabra compuesta por ocho bits se denomina 
+byte. Supongamos que el disco duro de un ordenador tiene una capacidad de 
+20 gigabytes. (a) ¿Cuántos bits pueden almacenarse en el disco? (b) Estimar 
+cuántos libros típicos podrían almacenarse en el disco duro suponiendo que 
+cada carácter requiere un byte. 
+17 @@ SSM Estimar cuánto se recauda anualmente en el peaje del 
+puente George Washington en Nueva York. El peaje cuesta 6 $ en el recorrido 
+de Nueva York a Nueva Jersey y es gratis en el sentido contrario. Los vehículos 
+circulan en un total de 14 carriles. 
+Problemas | 15 
+Unidades 
+18 e Expresar las siguientes magnitudes usando los prefijos que se lis- 
+tan en la tabla 1.1 y las abreviaturas de la página EP-1; por ejemplo, 10000 
+metros = 10 km. (a) 1 000000 vatios, (b) 0,002 gramos, (c) 3 x 10% metros, (d) 
+30000 segundos. 
+19 e Escribir cada una de las siguientes magnitudes sin usar prefijos: 
+(a) 40 uW, (b) 4 ns, (c) 3 MW, (d) 25 km. 
+20 e SSM Escribir las siguientes magnitudes (que no se expresan 
+en unidades del SI) sin usar abreviaturas. Por ejemplo, 10° metros = 1 kilóme- 
+tro: (a) 107? abucheos, (b) 10° mugidos, (c) 10% teléfonos, (d) 108 chicos, 
+(e) 106 teléfonos, (f) 10? cabras, (g) 10” toros. 
+21 ee i En las ecuaciones siguientes, la distancia x está en 
+metros, el tiempo ! en segundos y la velocidad v en metros por segundo. 
+¿Cuáles son las unidades del SI de las constantes C, y C3? (a) x = C, + Cat. 
+(b) x = ] CP. (c)? =2Cyx. (d) x=C, cos Cat. (e) v? = 2C,-(C,x)?. 
+. 
+22 ee | Si en el problema 21 se expresa x en pies, en segun- 
+dos y v en pies por segundos, ¿cuáles son las dimensiones de las constantes C, 
+y Ca? 
+Conversión de unidades 
+23 e A partir de la definición original de metro en función de la distan- 
+cia del Ecuador al Polo Norte hallar en metros (a) la circunferencia de la Tierra. 
+(b) el radio de la Tierra. (c) Convertir las respuestas dadas en (a) y (b) de 
+metros a millas. 
+24 e | La velocidad del sonido en el aire es 340 m/s. ¿Cuál es 
+la velocidad de un avión supersónico que se mueve con una velocidad doble a 
+la del sonido? Dar la respuesta en kilómetros por hora y millas por hora. 
+25 @ SSM i Un jugador de baloncesto tiene una altura de 
+6 pies y 10,5 pulgadas. ¿Cuál es su altura en centímetros? 
+26 e Completar las siguientes igualdades: (a) 100 km/h = mi/h. 
+(b) 60 cm = in. (c) 100 yd = m. 
+27 e La mayor separación entre dos soportes del puente Golden Gate 
+es de 4200 pies. Expresar esta distancia en km. 
+28 ® SSM Hallar el factor de conversión para convertir millas por 
+hora en kilómetros por hora. 
+29 e Completar las siguientes expresiones: (a) 1,296 x 10% km/h? = 
+km/h - s. (b) 1,296 x 10% km/h? = m/s”. (c) 60 mi/h = _____ pies/s. (d) 
+60 mi/h = m/s. 
+30 @ En un litro hay 1,057 cuartos y 4 cuartos en un galón. (a) ¿Cuán- 
+tos litros hay en un galón? (b) Un barril equivale a 42 galones. ¿Cuántos metros 
+cúbicos hay en un barril? 
+31 e 1 
+cuadrados tiene un acre? 
+Una milla cuadrada tiene 640 acres. ¿Cuántos metros 
+32 ee ¡ Un cilindro circular recto tiene un diámetro de 6,8 pul- 
+gadas y una altura de 2 pies. ¿Cuál es el volumen del cilindro en (a) pies 
+cúbicos, (b) metros cúbicos. (c) litros? 
+33 @@ SSM En las siguientes expresiones, x está en metros, f en 
+segundos, v en metros por segundo y la aceleración a en metros por segundo 
+cuadrado. Determinar las unidades del SI de cada combinación: (a) v?/x 
+(b) Jxla (c) ; ar.
+
+16 | Capitulo 1 Sistemas de medida 
+Dimensiones de las magnitudes fisicas 
+34 @ ¿Cuáles son las dimensiones de las constantes que aparecen en 
+cada uno de los apartados del problema 21? 
+35 @@ La ley de desintegración radiactiva es MU) = Nye””, en donde No 
+es el número de núcleos radiactivos en el instante £ = 0; N(r) es el número que 
+permanece sin desintegrar en el tiempo 1 y A es la llamada constante de desinte- 
+gración. ¿Qué dimensiones tiene 4? 
+36 @@ SSM La unidad del SI de fuerza, el kilogramo-metro por 
+segundo cuadrado (kg - m/s?), se denomina newton (N). Hallar las dimensiones y 
+las unidades del SI de la constante G en la ley de Newton de la gravitación F = 
+Gmm. 
+37 es Un objeto situado en el extremo de una cuerda se mueve según un 
+círculo. La fuerza ejercida por la cuerda tiene unidades de ML/T* y depende de 
+la masa del objeto, de su velocidad y del radio del círculo. ¿Qué combinación 
+de estas variables ofrece las dimensiones correctas de la fuerza? 
+38 oo | Y Demostrar que el producto de la masa por la acele- 
+ración y la velocidad tiene las dimensiones de una potencia. 
+39 es El momento lineal o ímpetu de un objeto es el producto de su 
+masa y velocidad. Demostrar que esta magnitud tiene las dimensiones de una 
+fuerza multiplicada por el tiempo. 
+40 ee ¿Qué combinación de la fuerza y otra magnitud física tiene las 
+dimensiones de la potencia? 
+41 ee ssm Í Y Cuando un objeto cae a través del aire, se 
+produce una fuerza de arrastre que depende del producto del área superficial 
+del objeto y el cuadrado de su velocidad, es decir, F,;,. = CAv?, en donde C es 
+una constante. Determinar las dimensiones de C. 
+42 @@ Latercera ley de Kepler relaciona el periodo de un planeta con su 
+radio r, la constante G de la ley de gravitación de Newton (F = GmymJ/r) y la 
+masa del Sol, Ms. ¿Qué combinación de estos factores ofrece las dimensiones 
+correctas para el periodo de un planeta? 
+Notación científica y cifras significativas 
+43 © SSM Expresar los siguientes números como números deci- 
+males sin utilizar la notación de potencias de diez: (a) 3 x 10*. (b) 6,2 x 107, 
+(c) 4x 107%. (d) 2,17 x 10°. 
+44 e Escribir en notación científica los siguientes valores: (a) 3,1 GW = 
+W. (b) 10 pm = m. (c) 2,3 fs = s. (d) 4 us = s. 
+45 e l Realizar las siguientes operaciones, redondeando 
+hasta el número correcto de cifras significativas, y expresar el resultado en 
+notación científica: (a) (1,14)(9,99 x 10*). (b) (2.78 x 10%) - (5.31 x 10°). 
+(c) 127(4,56 x 10°). (d) 27,6 + (5,99 x 10°). 
+46 @ Calcular las siguientes operaciones redondeando al número co- 
+rrecto de cifras significativas y expresando el resultado en notación científica: 
+(a) (200,9)(569,3). (b) (0,000000513) (62,3 x 107). (c) 28,401 + (5,78 x 10°). 
+(d) 63,254.17 x 1073). 
+47 o SSM I Una membrana celular posee un espesor de 
+7 mm. ¿Cuántas membranas de este espesor deberían apilarse para conseguir 
+una altura de | pulgada? 
+48 e Calcular las siguientes operaciones redondeando al número correcto 
+de cifras significativas y expresando el resultado en notación científica: (a) 
+(2,00 x 10*1(6.10 x 1073). (b) (3,141592)(4,00 x 10%). (c) (2.32 x 10° 1.16 x 10°). 
+(d) (5,14 x 105) + (2,78 x 107). (e) (1,99 x 10%) + (9,99 x 10-5). 
+49 e SSM Realizar los siguientes cálculos y redondear los resulta- 
+dos con el número correcto de cifras significativas: (a) 3,141592654 x (23,2), 
+(b) 2 x 3,141592654 x 0,76. (c) 4/3 x (1.1). (d) (2.05/3,141592654. 
+Problemas generales 
+50 @ Muchas de las carreteras de Canadá limitan la velocidad de los 
+vehículos a 100 km/h. ¿Cuál es la velocidad límite en mi/h? 
+51 e SSM Contando dólares a razón de 1$ por segundo, ¿cuántos 
+años necesitaríamos para contar 1000 millones de dólares? 
+52 © A veces puede obtenerse un factor de conversión a partir del 
+conocimiento de una constante en dos sistemas diferentes. (a) La velocidad de 
+la luz en el vacío es 186000 mi/s = 3 x 10* m/s. Utilizar este hecho para hallar 
+el número de kilómetros que tiene una milla. (b) El peso de un pie* de agua es 
+62,4 libras. Utilizar este dato y el hecho de que | cm? de agua tiene una masa 
+de 1 g para hallar el peso en libras de 1 kg de masa. 
+s3 ee i La masa de un átomo de uranio es 4,0 x 10% kg. 
+¿Cuántos átomos de uranio hay en 8 g de uranio puro? 
+54 ee Í Y Durante una tormenta cae un total de 1,4 pulgadas 
+de lluvia. ¿Cuánta agua ha caído sobre un acre de tierra? (1 mi? = 640 acre.) 
+55 es Un núcleo de hierro tiene un radio de 5,4 x 107% m y una masa de 
+9,3 x 107" kg. (a) ¿Cuál es su masa por unidad de volumen en kilogramos por 
+metro cúbico? (b) Si la Tierra tuviera la misma masa por unidad de volumen, 
+¿cuál sería su radio? (La masa de la Tierra es 5,98 x 10% kg.) 
+56 es Calcular las siguientes expresiones. (a) (5,6 x 103)(0,0000075Y 
+(2,4 x 1071). (b) (14,2)(6,4 x 107X8,2 x 107?) — 4,06. (c) (6,1 x 10-9%(3,6 x 10*)3/ 
+(3.6 x 10711)'2. (d) (0,000064)'*/[(12,8 x 10-*)(490 x 10-192]. 
+57 ee SSM La unidad astronómica (UA) se define como la distancia 
+media de la Tierra al Sol, a saber, 1,496 x 10'! m. El parsec es la longitud radial 
+desde la cual una UA de longitud de arco subtiende un ángulo de 1 segundo. El 
+año luz es la distancia que la luz recorre en un año. (a) ¿Cuántos parsecs están 
+contenidos en una unidad astronómica? (b) ¿Cuántos metros tiene un parsec? 
+(c) ¿Cuántos metros existen en un año luz? (d) ¿Cuántas unidades astronómicas 
+existen en un año luz? (e) ¿Cuántos años luz contiene un parsec? 
+$8 es Para que el universo deje algún día de expansionarse y comience a 
+contraerse, su densidad media debe ser al menos de 6 x 10-7 kg/m', (a) ¿Cuán- 
+tos electrones por metro cúbico deberían existir en el universo para alcanzar 
+esta densidad crítica? (b) ¿Cuántos protones por metro cúbico producirían la 
+densidad critica? (m, =9,11 x 107" kg; m, = 1,67 x 107 kg.) 
+59 ee SSM El detector japonés de neutrinos Super-Kamiokande está 
+formado por un largo cilindro transparente de 39,3 m de diámetro y 41,4 m de 
+alto, relleno de agua extremadamente pura. Calcular la masa de agua que hay en 
+el interior del cilindro. ¿Se corresponde la cifra obtenida con el dato que consta 
+en el sitio oficial del Super-K, según el cual el detector contiene 50.000 toneladas 
+de agua? Densidad del agua: 1000 kg/m’. 
+60 @@@ La tabla adjunta da los resultados experimentales correspondien- 
+tes a una medida del periodo del movimiento T de un objeto de masa m sus- 
+pendido de un muelle en función de la masa del objeto. Estos datos están de 
+acuerdo con una ecuación sencilla que expresa T en función de m de la forma 
+T = Cm", en donde C y n son constantes y 7 no es necesariamente un entero. 
+(a) Hallar n y C. (Para ello existen varios procedimientos. Uno de ellos con- 
+siste en suponer un valor de n y comprobarlo representando T en función de 
+m” en papel milimetrado. Si la suposición es correcta, la representación será 
+una recta. Otro consiste en representar log T en función de log m. La pendiente
+
+obtenida en este papel es n.) (b) ¿Qué datos se desvían más de la representa- 
+ción en línea recta de T en función de m”? 
+Masam,kg 0,10 020 040 0,50 075 1,00 1,50 
+Periodo T,s 0,56 0,83 1,05 1,28 1,55 1,75 2,22 
+61 ese La tabla adjunta da el periodo T y el radio r de la órbita correspon- 
+dientes a los movimientos de cuatro satélites que giran alrededor de un asteroide 
+pesado y denso. (a) Estos datos se relacionan mediante la fórmula T = Cr”. 
+Hallar C y n. (b) Se descubre un quinto satélite que tiene un periodo de 6,20 años. 
+Determinar la Órbita de este satélite que se ajuste a la misma fórmula, 
+Periodo T, años 0,44 1,61 3,88 7,89 
+Radio r, Gm 0,088 0,208 0,374 0,600 
+Problemas | 17 
+62 es. SSM Elperiodo T de un péndulo simple depende de la longi- 
+tud L del péndulo y la aceleración g de la gravedad (dimensiones L/T*). (a) 
+Hallar una combinación sencilla de L y g que tenga las dimensiones de tiempo. 
+(b) Comprobar la dependencia existente entre el periodo T y la longitud £ 
+midiendo el periodo (tiempo para una ida y vuelta completa) de un péndulo para 
+dos valores diferentes de L. (c) En la fórmula correcta que relaciona T con L y g 
+interviene una constante que es un múltiplo de 7 y que no puede obtenerse 
+mediante el análisis dimensional de la parte (a). Puede hallarse experimental- 
+mente como en la parte (b) si se conoce g. Utilizando el valor g =9,81 m/s? y los 
+resultados experimentales de la parte (b), hallar la fórmula que relaciona T con L 
+y8- 
+63 oeo Í V La atmósfera de la Tierra ejerce una presión sobre la 
+superficie terrestre de valor 14,7 libras por pulgada cuadrada de superficie. 
+¿Cuál es el peso en libras de la atmósfera terrestre? (El radio de la Tierra es 
+6370 km, aproximadamente.)
+
+EL MOVIMIENTO EN UNA 
+DIMENSION 
+El movimiento en una dirección se asemeja al movimiento a lo largo de una línea recta, como 
+el de un coche en una carretera recta. La conductora se encuentra con semáforos y distintos 
+límites de velocidad en su camino por la carretera hacia la escuela. 
+¿Cómo puede estimar el tiempo que tardará en llegar? (Véase el ejemplo 2.2.) 
+Comenzaremos el estudio del universo físico examinando los objetos en movimiento. 
+El estudio del movimiento, cuyo análisis experimental comenzó hace más de 400 años, 
+dando lugar al nacimiento de la física, se denomina cinemática. 
+© Partiremos del caso más simple, el movimiento de una partícula a lo largo de una 
+línea recta, como el de un coche que se mueve a lo largo de una carretera horizontal, 
+recta y estrecha. Una partícula es un objeto cuya posición puede describirse por un 
+solo punto. Cualquier cosa puede considerarse como una partícula —una molécula, 
+una persona o una galaxia— siempre que podamos ignorar razonablemente su es- 
+tructura interna. 
+2.1 Desplazamiento, velocidad y módulo de la velocidad! 
+La figura 2.1 muestra un coche que está en la posición x; en el instante f; y en la posición xç 
+en un instante posterior ff. La variación de la posición del coche x;—.x;, se denomina despla- 
+zamiento. Es costumbre utilizar la letra griega A (delta mayúscula) para indicar la variación 
+o incremento de una magnitud. Así pues, la variación de x se escribe Ax: 
+1. En inglés se usan los términos velocity y speed para denominar la velocidad vectorial y la velocidad escalar o módulo de 
+la velocidad, Aunque se han hecho intentos para denominar celeridad al módulo de la velocidad, se suele nombrar los dos 
+conceptos como velocidad. 
+Capítulo 
+2.1 
+22 
+2.3 
+2.4 
+Desplazamiento, 
+velocidad y módulo de 
+la velocidad 
+Aceleración 
+Movimiento con 
+aceleración constante 
+Integración

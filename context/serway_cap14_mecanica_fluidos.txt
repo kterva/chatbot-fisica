@@ -1,0 +1,2442 @@
+Tema: Mecánica de fluidos (Capítulo 14 — Física para Ciencias e Ingeniería, Serway)
+
+Capítulo 14  Mecánica de fluidos
+14.1 Presión
+Los fluidos no soportan esfuerzos cortantes o de tensión; debido a eso, el único esfuerzo 
+que se puede ejercer sobre un objeto sumergido en un fluido estático es el que tiende a 
+comprimir el objeto desde todos los lados. En otras palabras, la fuerza que ejerce el fluido 
+estático sobre un objeto siempre es perpendicular a las superficies del objeto, como se 
+muestra en la figura 14.1.
+La presión en un fluido se mide con el dispositivo que se muestra en la figura 14.2. 
+El dispositivo consta de un cilindro al vacío que encierra un pistón ligero conectado a 
+un resorte. Mientras el dispositivo está sumergido en un fluido, el fluido presiona arriba 
+del pistón y comprime el resorte hasta que la fuerza hacia adentro que ejerce el fluido 
+se equilibra con la fuerza hacia afuera que ejerce el resorte. Si el resorte se calibra antes  
+es posible medir con exactitud la presión del fluido. Si F es la magnitud de la fuerza  
+que se ejerce sobre el pistón y A es el área del pistón, la presión P del fluido en el nivel al que  
+el dispositivo se sumergió se define como la relación de la fuerza al área:
+ 
+P F
+A   (14.1)
+La presión es una cantidad escalar porque es proporcional a la magnitud de la fuerza 
+sobre el pistón.
+Si la presión varía sobre un área, la fuerza infinitesimal dF sobre un elemento de super-
+ficie infinitesimal de área dA es
+ dF  P dA  (14.2)
+donde P es la presión en la posición del área dA. Para calcular la fuerza total que se ejerce 
+sobre una superficie de un contenedor, se debe integrar la ecuación 14.2 sobre la super-
+ficie.
+Las unidades de presión son newtons por metro cuadrado (Nm2) en el sistema SI. Otro 
+nombre para la unidad del SI de presión es pascal (Pa):
+ 1 Pa  1 Nm2  (14.3)
+Para una demostración táctil de la definición de presión, sostenga una tachuela entre 
+sus dedos pulgar e índice, con la punta de la tachuela en el pulgar y la cabeza en el índice. 
+Ahora presione suavemente. De inmediato el pulgar comenzará a sentir dolor, el índice no. 
+La tachuela ejerce la misma fuerza sobre el pulgar y el índice, pero la presión sobre el 
+pulgar es mucho mayor debido al área pequeña sobre la que se aplica la fuerza.
+Pregunta rápida 14.1 Suponga que está de pie detrás de alguien que se mueve hacia 
+atrás, quien por accidente le pisa el pie con el tacón de su zapato. ¿Usted saldría mejor 
+librado si la persona fuera a) un alto jugador de basquetbol profesional que usa tenis o  
+b) una mujer pequeña que calce zapatillas con tacón de aguja?
+Definición de presión
+0
+PREVENCIÓN DE RIESGOS  
+OCULTOS 14.1
+Fuerza y presión
+Las ecuaciones 14.1 y 14.2 
+hacen una clara distinción entre 
+fuerza y presión. Otra distinción 
+importante es que la fuerza es 
+un vector y la presión es un escalar. 
+La presión no tiene dirección 
+asociada, pero la dirección de la 
+fuerza asociada con la presión 
+es perpendicular a la superficie 
+sobre la que actúa la presión.
+Figura 14.1 En cualquier punto 
+sobre la superficie de un objeto 
+sumergido, la fuerza que ejerce  
+el fluido es perpendicular a la  
+superficie del objeto. La fuerza 
+que ejerce el fluido en las  
+paredes del contenedor es  
+perpendicular a las paredes en 
+cualquier punto.
+Figura 14.2 Un dispositivo 
+simple para medir la presión que 
+ejerce un fluido.
+EJEMPLO 14.1 La cama de agua
+El colchón de una cama de agua mide 2.00 m de largo por 2.00 m de ancho y 30.0 cm de profundidad.
+A) Encuentre el peso del agua en el colchón.
+SOLUCIÓN
+Conceptualizar Piense en transportar un cubo con agua y qué tan pesado es. Ahora imagine una muestra del agua del 
+tamaño de una cama de agua. Se espera que el peso sea relativamente grande.
+Categorizar Este ejemplo es un problema de sustitución.
+F
+Vacío
+A
+
+Hallar el volumen del agua que llena el colchón: V 12.00 m21 2.00 m21 0.300 m2 1.20 m3
+Use la ecuación 1.1 y la densidad del agua pura (consulte la 
+tabla 14.1) para encontrar la masa de la cama de agua:
+Encuentre el peso de la cama: Mg 11.20 10 3 kg21 9.80 m>s2 2   1.18 10 4 N
+que es aproximadamente 2 650 lb. (Una cama regular, incluido el colchón, box springs y marco metálico, pesa aproximada- 
+mente 300 lb.) Ya que esta carga es tan grande, es mejor colocar una cama de agua en el pedestal o en un piso fuerte y firme.
+B) Encuentre la presión que ejerce el agua sobre el suelo cuando la cama de agua descansa en su posición normal. Suponga 
+que toda la superficie inferior de la cama tiene contacto con el suelo.
+SOLUCIÓN
+Cuando la cama de agua está en su posición normal, el área 
+en contacto con el suelo es 4.00 m 2. Use la ecuación 14.1 
+para encontrar la presión:
+¿Qué pasaría si? ¿Y si la cama de agua se sustituye con una cama regular de 300 lb que se sostiene en sus cuatro patas? Cada 
+pata tiene una sección transversal circular de 2.00 cm de radio. ¿Qué presión ejerce esta cama sobre el suelo?
+Respuesta El peso de la cama regular se distribuye sobre cuatro secciones transversales circulares en la parte baja de las 
+patas. Por lo tanto, la presión es
+2.65 10 5 Pa
+P F
+A
+mg
+4 1pr2 2
+300 lb
+4p 10.020 0 m22 a 1 N
+0.225 lb b
+¡Este resultado es casi 100 veces mayor que la presión debida a la cama de agua! El peso de la cama regular, aun cuando 
+es mucho menor que el peso de la cama de agua, se aplica sobre el área muy pequeña de las cuatro patas. La presión alta 
+sobre el suelo que ejerce el pie de una cama regular podría causar abolladuras en los suelos de madera o desgarrar perma-
+nentemente las alfombras.
+ Sección 14.2  Variación de la presión con la profundidad  391
+14.2  Variación de la presión con  
+la profundidad
+Como bien saben los buzos, la presión del agua aumenta con la profundidad. Del mismo 
+modo, la presión atmosférica disminuye con la altura creciente; por esta razón, las aero-
+naves que vuelan a grandes alturas deben tener cabinas presurizadas para comodidad de 
+los pasajeros.
+M
+rV 11 000 kg>m3 21 1.20 m3 2 1.20 10 3 kg
+P 1.18 10 4 N
+4.00 m2   2.94 10 3 Pa
+TABLA 14.1
+Densidades de algunas sustancias comunes a temperatura (0°C)  
+y presión (atmosférica) estándar
+Sustancia S (kgm3) Sustancia S (kgm3)
+Aire 1.29 Hielo 0.917  103
+Aluminio 2.70  103 Hierro 7.86  103
+Benceno 0.879  103 Plomo 11.3  103
+Cobre 8.92  103 Mercurio 13.6  103
+Alcohol etílico 0.806  103 Roble 0.710  103
+Agua pura 1.00  103 Oxígeno gaseoso 1.43
+Glicerina 1.26  103 Pino 0.373  103
+Oro 19.3  103 Platino 21.4  103
+Helio 1.79  101 Agua de mar 1.03  103
+Hidrógeno gaseoso 8.99  10 2 Plata 10.5  103
+
+392 Capítulo 14  Mecánica de fluidos
+Ahora se demostrará cómo la presión en un líquido aumenta con la profundidad. Como 
+describe la ecuación 1.1, la densidad de una sustancia se define como su masa por unidad 
+de volumen; la tabla 14.1 menciona las densidades de diferentes sustancias. Estos valores 
+varían ligeramente con la temperatura porque el volumen de una sustancia depende de 
+la temperatura (como se muestra en el capítulo 19). Bajo condiciones estándar (a 0°C y 
+presión atmosférica), las densidades de los gases son aproximadamente 
+1
+1 000 las densidades 
+de sólidos y líquidos. Esta diferencia en densidades implica que el espaciamiento molecu-
+lar promedio en un gas bajo estas condiciones es aproximadamente diez veces mayor que 
+la de un sólido o líquido.
+Considere ahora un líquido de densidad S en reposo, como se muestra en la figura 14.3. 
+Se supone que S es uniforme en todo el líquido, esto significa que el líquido es incompre-
+sible. Seleccione una muestra del líquido contenido dentro de un cilindro imaginario de 
+área de sección transversal A que se extiende desde la profundidad d a la profundidad d  
+h. El líquido externo a la muestra ejerce fuerzas en todos los puntos de la superficie de la 
+muestra, perpendicular a la superficie. La presión que ejerce el líquido en la cara inferior 
+de la muestra es P, y la presión en la cara superior es P
+0. Por lo tanto, la fuerza hacia arriba 
+que ejerce el fluido exterior sobre el fondo del cilindro tiene una magnitud PA, y la fuerza 
+descendente que se ejerce sobre la parte superior tiene magnitud P0A. La masa de líquido 
+en el cilindro es M  SV  SAh; en consecuencia, el peso del líquido en el cilindro es  
+Mg  SAhg. Ya que el cilindro está en equilibrio, la fuerza neta que actúa sobre él debe ser 
+cero. Al elegir hacia arriba como la dirección y positiva, se ve que
+F
+S
+PA jˆ P0A jˆ Mg jˆ 0
+o
+ P P0 rgh
+PA P 0A rAhg 0
+  (14.4)
+Es decir: la presión P a una profundidad h bajo un punto en el líquido donde la presión es  
+P0 es mayor por una cantidad Sgh. Si el líquido se abre a la atmósfera y P0 es la presión 
+en la superficie del líquido, en tal caso P0 es la presión atmosférica. Al hacer los cálculos 
+y al trabajar los problemas al final del capítulo, por lo general la presión atmosférica se 
+considera como
+P0  1.00 atm  1.013  105 Pa
+La ecuación 14.4 implica que la presión es la misma en todos los puntos que tengan la 
+misma profundidad, independientemente de la forma del contenedor.
+Ya que la presión en un fluido depende de la profundidad y del valor de P
+0, cualquier 
+aumento en presión en la superficie debe transmitirse a todo otro punto en el fluido. Este 
+concepto lo reconoció por primera vez el científico francés Blaise Pascal (1623–1662) 
+y se llama ley de Pascal: un cambio en la presión aplicada a un fluido se transmite sin  
+disminución a todos los puntos del fluido y a las paredes del contenedor.
+Una aplicación importante de la ley de Pascal es la prensa hidráulica que se ilustra en la 
+figura 14.4a. Una fuerza de magnitud F
+1 se aplica a un pequeño pistón de área superficial 
+A1. La presión se transmite a través de un líquido incompresible a un pistón más grande 
+de área superficial A2. Ya que la presión debe ser la misma en ambos lados, P  F1A1  
+F2A2. En consecuencia, la fuerza F2 es mayor que la fuerza F1 en un factor A2A1. Al diseñar 
+una prensa hidráulica con áreas apropiadas A1 y A2, se aplica una gran fuerza de salida me-
+diante una pequeña fuerza de entrada. Los frenos hidráulicos, elevadores de automóviles, 
+gatos hidráulicos y carretillas elevadoras utilizan este principio (figura 14.4b).
+Puesto que no se agrega ni retira líquido del sistema, el volumen de líquido que se em-
+puja hacia abajo, a la izquierda de la figura 14.4a, mientras el pistón se mueve hacia abajo a 
+través de un desplazamiento $x
+1 es igual al volumen de líquido que se empuja hacia arriba, 
+en el lado derecho, mientras el pistón derecho se mueve hacia arriba a través de un des-
+plazamiento $x
+2. Es decir, A1 $x1  A2 $x2; por lo tanto, A2A1  $x1$x2. Ya se demostró 
+que A2A1  F2F1. En consecuencia, F2F1  $x1$x2, de modo que F1 $x1  F2 $x2. Cada 
+lado de esta ecuación es el trabajo invertido por la fuerza sobre su pistón respectivo. Por 
+ende, el trabajo invertido por F
+S
+1 sobre el pistón de entrada es igual al trabajo invertido 
+por F
+S
+2 sobre el pistón de salida, como debe ser para conservar energía.
+Variación de la presión 
+con la profundidad
+0
+Ley de Pascal 0
+Figura 14.3 Una parte de  
+fluido (región más oscura) aislada 
+en un volumen de fluido más 
+grande. La fuerza neta que se 
+ejerce sobre la parte de fluido 
+debe ser cero porque está en 
+equilibrio.
+Mg
+PAj
+P0Aj
+d
+d  h
+ˆ
+ˆ
+jˆ
+
+Pregunta rápida 14.2 La presión en el fondo de un vaso lleno de agua ( S  1 000  
+kg
+m3) es P. El agua se derrama y el vaso se llena con alcohol etílico ( S  806 kg m3). 
+¿Cuál es la presión en el fondo del vaso? a) menor que P, b) igual a P, c) mayor que 
+P, d) indeterminado.
+ Sección 14.2  Variación de la presión con la profundidad  393
+EJEMPLO 14.2 El elevador de automóviles
+En un elevador de automóviles en una estación de servicio, el aire comprimido ejerce una fuerza sobre un pequeño pistón 
+que tiene una sección transversal circular y un radio de 5.00 cm. Esta presión se transmite mediante un líquido a un pis- 
+tón que tiene un radio de 15.0 cm. ¿Qué fuerza debe ejercer el aire comprimido para elevar un automóvil que pesa 13 300 N? 
+¿Qué presión de aire produce esta fuerza?
+SOLUCIÓN
+Conceptualizar Revise el texto recién analizado acerca de la ley de Pascal para entender la operación de un elevador de 
+automóviles.
+Categorizar Este ejemplo es un problema de sustitución.
+Resuelva F1A1  F2A2 para F1: 
+   1.48 10 3 N
+ F1 a A1
+A2
+b F2
+p 15.00 10 2 m22
+p 115.0 10 2 m22 11.33 10 4 N2
+Use la ecuación 14.1 para encontrar la presión de aire que 
+produce esta fuerza:
+Esta presión es aproximadamente el doble de la presión atmosférica.
+Figura 14.4 a) Diagrama de una prensa hidráulica. Ya que el aumento en presión es el mismo en  
+los dos lados, una pequeña fuerza F
+S
+1 a la izquierda produce una fuerza mucho mayor F
+S
+2 a la derecha.  
+b) Un vehículo en reparación levantado mediante un elevador hidráulico en un taller.
+F1
+F2
+A2A1
+$x1
+$x2
+a)
+David Frazier
+b)
+EJEMPLO 14.3 Dolor en su oído
+Estime la fuerza que se ejerce sobre su tímpano debido al agua cuando nada en el fondo de una alberca que tiene 5.0 m 
+de profundidad.
+SOLUCIÓN
+Conceptualizar A medida que desciende en el agua, la presión aumenta. Es posible que haya notado este aumento de 
+presión en sus oídos mientras nada en una alberca, un lago o el océano. Puede encontrar la diferencia de presión que se 
+   1.88 10 5 Pa
+ P F1
+A1
+1.48 10 3 N
+p 15.00 10 2 m22
+
+394 Capítulo 14  Mecánica de fluidos
+ejerce sobre el tímpano a partir de la profundidad dada en el problema; por lo tanto, después de estimar el área superficial 
+del tímpano, puede determinar la fuerza neta que el agua ejerce sobre él.
+Categorizar Este ejemplo es un problema de sustitución.
+El aire dentro del oído medio por lo general está a presión atmosférica P0. Debido a eso, para encontrar la fuerza neta sobre 
+el tímpano, debe considerar la diferencia entre la presión total en el fondo de la alberca y la presión atmosférica. Estime el 
+área superficial del tímpano como aproximadamente 1 cm2  1  104 m2.
+Use la ecuación 14.4 para encontrar esta 
+diferencia de presión:
+Use la ecuación 14.1 para encontrar la 
+fuerza neta sobre el oído:
+Ya que una fuerza de esta magnitud sobre el tímpano es extremadamente incómoda, los nadadores con frecuencia “estiran 
+de repente los oídos” mientras están bajo el agua, una acción que empuja el aire desde los pulmones hacia el oído medio. 
+Usar esta técnica iguala la presión en los dos lados del tímpano y alivia la incomodidad.
+EJEMPLO 14.4 La fuerza sobre un dique
+El agua llena una altura H detrás de un dique de ancho w (figura 14.5). Determine 
+la fuerza resultante que el agua ejerce sobre el dique.
+SOLUCIÓN
+Conceptualizar Ya que la presión varía con la profundidad, no se puede  
+calcular la fuerza simplemente al multiplicar el área por la presión.
+Categorizar Debido a la variación de la presión con la profundidad, se debe in-
+tegrar para resolver este ejemplo, así que se le clasifica como un problema de 
+análisis.
+Analizar Imagine un eje vertical y, con y  0 en el fondo del dique. Divida la cara 
+del dique en estrechas tiras horizontales a una distancia y sobre el fondo, tal como 
+la tira roja de la figura 14.5. La presión sobre cada una de tales tiras se debe sólo al 
+agua; la presión atmosférica actúa sobre ambos lados del dique.
+Use la ecuación 14.4 para calcular la presión debida al agua 
+a la profundidad h:
+Use la ecuación 14.2 para encontrar la fuerza que se ejerce 
+sobre la tira sombreada de área dA  w dy:
+Integre para encontrar la fuerza total sobre el dique: F P dA
+H
+0
+rg 1Hy 2w dy   1
+2rgwH2
+Finalizar Note que el grosor del dique que se muestra en la figura 14.5 aumenta con la profundidad. Este diseño explica 
+la mayor presión que el agua ejerce sobre el dique a mayor profundidad.
+¿Qué pasaría si? ¿Y si se le pide encontrar esta fuerza sin usar cálculo? ¿Cómo podría determinar este valor?
+Respuesta Por la ecuación 14.4 sabe que la presión varía linealmente con la profundidad. Debido a eso, la presión prome-
+dio debida al agua sobre la cara del dique es el promedio de la presión en la parte superior y la presión en el fondo:
+Pprom
+Psuperior Pfondo
+2
+0 rgH
+2
+1
+2rgH
+F 1Pfondo P0 2A 14.9 10 4 Pa 21 11 0 4 m2 2   5 N
+ 11.00 10 3 kg>m3 21 9.80 m>s2 21 5.0 m2 4.9 10 4 Pa
+ Pfondo P0 rgh
+H
+dy
+O
+h
+yw
+Figura 14.5 (Ejemplo 14.4) El agua 
+ejerce una fuerza sobre un dique.
+P rgh rg 1Hy 2
+dF P dA rg 1Hy 2w dy
+
+La fuerza total sobre el dique es igual al producto de la presión promedio y el área de la cara del dique:
+F PpromA 11
+2rgH 21 Hw2 1
+2
+rgwH2
+que es el mismo resultado obtenido usando cálculo.
+ Sección 14.4  Fuerzas de flotación y principio de Arquímedes  395
+14.3 Mediciones de presión
+Durante el reporte del clima en los noticiarios de televisión, con frecuencia se propor-
+ciona la presión barométrica. Esta lectura es la presión actual de la atmósfera, que varía en 
+un pequeño intervalo del valor estándar proporcionado anteriormente. ¿Cómo se mide 
+esta presión?
+Un instrumento que se usa para medir la presión atmosférica es el barómetro común, 
+inventado por Evangelista Torricelli (1608–1647). Un tubo largo cerrado en un extremo 
+se llena con mercurio y luego se invierte en un contenedor con mercurio (figura 14.6a). 
+El extremo cerrado del tubo es casi un vacío, así que la presión en lo alto de la columna 
+de mercurio se considera cero. En la figura 14.6a, la presión en el punto A, debida a la 
+columna de mercurio, debe ser igual a la presión en el punto B, debido a la atmósfera. Si 
+este no fuera el caso, habría una fuerza neta que movería al mercurio de un punto al otro 
+hasta establecer equilibrio. Por lo tanto, P
+0  SHggh, donde SHg es la densidad del mercurio 
+y h es la altura de la columna de mercurio. Conforme la presión atmosférica varía, la altura 
+de la columna de mercurio varía, así que la altura se puede calibrar para medir presión 
+atmosférica. Determine la altura de una columna de mercurio para una atmósfera de 
+presión, P
+0  1 atm  1.013  105 Pa:
+P0 rHggh S h P0
+rHgg
+1.013 10 5 Pa
+113.6 10 3 kg>m3 21 9.80 m>s2 2 0.760 m
+De acuerdo en tal cálculo, una atmósfera de presión se define como la presión equiva-
+lente de una columna de mercurio que tiene exactamente 0.760 0 m de alto a 0°C.
+Un dispositivo para medir la presión de un gas contenido en un recipiente es el manó-
+metro de tubo abierto que se ilustra en la figura 14.6b. Un extremo de un tubo con forma 
+de U que contiene un líquido está abierto a la atmósfera, y el otro extremo está conectado 
+a un sistema de presión desconocida P. En una situación de equilibrio, las presiones en los 
+puntos A y B deben ser iguales (de otro modo, la porción curva del líquido experimentaría 
+una fuerza neta y aceleraría), y la presión en A es la presión desconocida del gas. Por tanto, 
+al igualar la presión desconocida P con la presión en el punto B, se ve que P  P
+0  Sgh. 
+La diferencia en presión P  P0 es igual a Sgh. La presión P se llama presión absoluta, y  
+la diferencia P  P0 se llama presión manométrica. Por ejemplo, la presión que mide en la  
+llanta de su bicicleta es presión manométrica.
+Pregunta rápida 14.3 Se construyen muchos barómetros comunes, con varios fluidos. 
+¿Para cuál de los siguientes fluidos la columna de fluido en el barómetro será la más alta? 
+a) mercurio, b) agua, 
+c) alcohol etílico, d) benceno.
+14.4  Fuerzas de flotación y principio 
+de Arquímedes
+¿Alguna vez ha intentado empujar una pelota de playa hacia abajo del agua (figura 14.7a, 
+página 396)? Es extremadamente difícil hacerlo debido a la gran fuerza hacia arriba que 
+ejerce el agua sobre la pelota. La fuerza hacia arriba que un fluido ejerce sobre cualquier 
+objeto sumergido se llama fuerza de flotación (boyante) . Se puede determinar la mag-
+nitud de una fuerza de flotación al aplicar algo de lógica. Imagine una porción de agua 
+Figura 14.6 Dos dispositivos 
+para medir la presión: a) un 
+barómetro de mercurio y b) un 
+manómetro de tubo abierto.
+P  0
+P0
+h
+a)
+P0
+b)
+P
+A B
+h
+A B
+
+396 Capítulo 14  Mecánica de fluidos
+del tamaño de una pelota de playa bajo la superficie del agua, como en la figura 14.7b. 
+Ya que esta parte está en equilibrio, debe haber una fuerza hacia arriba que equilibre la 
+fuerza gravitacional hacia abajo sobre la porción. Esta fuerza hacia arriba es la fuerza de 
+flotación y su magnitud es igual al peso del agua en la porción. La fuerza de flotación es 
+la fuerza que resulta sobre la porción debido a todas las fuerzas aplicadas por el fluido 
+que rodean la porción.
+Ahora imagine sustituir la porción de agua del tamaño de una pelota de playa con una 
+pelota de playa del mismo tamaño. La fuerza neta aplicada por el fluido que rodea la pe-
+lota es la misma, sin importar si se aplica a una pelota de playa o a una porción de agua. 
+En consecuencia, la magnitud de la fuerza de flotación sobre un objeto siempre es igual 
+al peso del fluido desplazado por el objeto. Este enunciado se conoce como principio de 
+Arquímedes.
+Con la pelota de playa bajo el agua, la fuerza de flotación, igual al peso de una porción 
+de agua del tamaño de la pelota de playa, es mucho mayor que el peso de la pelota de 
+playa. Por lo tanto, existe una gran fuerza neta hacia arriba, que explica por qué es tan di-
+fícil sostener la pelota de playa bajo el agua. Note que el principio de Arquímedes no se re-
+fiere a la configuración del objeto que experimenta la fuerza de flotación. La composición  
+del objeto no es un factor en la fuerza de flotación porque la fuerza de flotación la ejerce 
+el fluido.
+Para comprender mejor el origen de la fuerza de flotación, considere un cubo sumergi-
+do en un líquido, como en la figura 14.8. De acuerdo con la ecuación 14.4, la presión P
+fondo 
+en el fondo del cubo es mayor que la presión Psup en la parte superior por una cantidad 
+Sfluidogh, donde h es la altura del cubo y Sfluido es la densidad del fluido. La presión en el 
+fondo del cubo causa una fuerza hacia arriba igual a PfondoA, donde A es el área de la cara 
+inferior. La presión en la parte superior del cubo causa una fuerza hacia abajo igual a PsupA. 
+La resultante de estas dos fuerzas es la fuerza de flotación B
+S
+ con magnitud
+ B rfluidogV
+B 1Pfondo Psup2A 1rfluidogh2A
+ (14.5)
+donde V  Ah es el volumen del fluido desplazado por el cubo. Ya que el producto SfluidoV 
+es igual a la masa de fluido desplazado por el objeto,
+B  Mg
+donde Mg es el peso del fluido desplazado por el cubo. Este resultado es consistente con 
+el enunciado anterior acerca del principio de Arquímedes, en función de la discusión de 
+la pelota de playa.
+Bajo condiciones normales, el peso de un pez es ligeramente mayor que la fuerza de 
+flotación sobre el pez. Por ende, el pez se hundiría si no tuviese algún mecanismo para 
+ajustar la fuerza de flotación. El pez logra esto mediante la regulación interna del tamaño 
+ARQUÍMEDES
+Matemático, físico e ingeniero griego 
+(c. 287–212 a. C. )
+Arquímedes fue quizá el más grande 
+científico de la antigüedad. Fue el primero 
+en calcular con precisión la proporción 
+de la circunferencia de un círculo a su 
+diámetro, y también demostró cómo 
+calcular el volumen y el área superficial 
+de las esferas, cilindros y otras formas 
+geométricas. Es bien conocido por 
+descubrir la naturaleza de la fuerza de 
+flotación y también fue un inventor genial. 
+Una de sus invenciones prácticas, todavía 
+en uso actual, es el tornillo de Arquímedes, 
+un tubo anillado rotatorio e inclinado 
+que se usó originalmente para levantar 
+agua de las galeras de los barcos. También 
+inventó la catapulta y vislumbró sistemas 
+de palancas, poleas y pesos para levantar 
+cargas pesadas. Tales invenciones tuvieron 
+una aplicación afortunada en la defensa de 
+su ciudad natal, Siracusa, durante un acoso 
+de dos años por los romanos.
+Fuerza de flotación 0
+Figura 14.7 a) Un nadador empuja una pelota de playa bajo el agua. b) Las fuerzas sobre una porción 
+de agua del tamaño de una pelota de playa. La fuerza de flotación B
+S
+ sobre una pelota de playa que 
+sustituye esta porción es exactamente la misma que la fuerza de flotación sobre la porción.
+B
+Fg
+b)
+a)
+© Hulton Deutsch Collection/corbis
+
+de su vejiga natatoria llena de aire para aumentar su volumen y la magnitud de la fuer- 
+za de flotación que actúa sobre él, de acuerdo con la ecuación 14.5. De esta forma, el pez 
+es capaz de nadar a diversas profundidades.
+Antes de proceder con algunos ejemplos, es ilustrativo discutir dos situaciones comu-
+nes: un objeto totalmente sumergido y un objeto que flota (parcialmente sumergido).
+Caso 1: Objeto totalmente sumergido. Cuando un objeto está totalmente sumergido en un  
+fluido de densidad S
+fluido, la magnitud de la fuerza de flotación hacia arriba es B  SfluidogV  
+ SfluidogVobj, donde Vobj es el volumen del objeto. Si el objeto tiene una masa M y densi-
+dad Sobj, su peso es igual a Fg  Mg  SobjgVobj y la fuerza neta sobre el objeto es B  Fg   
+(Sfluido  Sobj)gVobj. En consecuencia, si la densidad del objeto es menor que la densidad del  
+fluido, la fuerza gravitacional hacia abajo es menor que la fuerza de flotación y el objeto  
+sin apoyo acelera hacia arriba (figura 14.9a). Si la densidad del objeto es mayor que la 
+densidad del fluido, la fuerza de flotación hacia arriba es menor que la fuerza gravitacio-
+nal hacia abajo y el objeto sin apoyo se hunde (figura 14.9b). Si la densidad del objeto 
+sumergido es igual a la densidad del fluido, la fuerza neta sobre el objeto es cero y el objeto 
+permanece en equilibrio. Por lo tanto, la dirección de movimiento de un objeto sumergido 
+en un fluido está determinada por las densidades del objeto y el fluido.
+Caso 2: Objeto que flota.  Ahora considere un objeto de volumen V
+obj y densidad Sobj   
+Sfluido en equilibrio estático que flota en la superficie de un fluido, es decir, un objeto que  
+sólo está parcialmente sumergido (figura 14.10). En este caso, la fuerza de flotación hacia 
+arriba se equilibra mediante la fuerza gravitacional hacia abajo que actúa en el objeto. Si 
+V
+fluido es el volumen del fluido desplazado por el objeto (este volumen es el mismo que 
+el volumen de dicha parte del objeto bajo la superficie del fluido), la fuerza de flotación 
+tiene una magnitud B  S
+fluidogVfluido. Ya que el peso del objeto es Fg  Mg  SobjgVobj, y  
+ya que Fg  B, se ve que SfluidogVfluido  SobjgVobj, o
+ Vfluido
+Vobj
+robj
+rfluido
+ (14.6)
+Esta ecuación demuestra que la fracción del volumen de un objeto en flotación que está 
+debajo de la superficie del fluido es igual a la relación de la densidad del objeto a la del 
+fluido.
+Pregunta rápida 14.4 Usted es un náufrago y flota en medio del océano en una balsa. 
+Su carga en la balsa incluye un cofre del tesoro lleno de oro que encontró antes de que 
+su barco se hundiera, y la balsa apenas se mantiene a flote. Para mantenerse flotando tan 
+alto como sea posible en el agua, ¿usted debe a) dejar el cofre del tesoro arriba de la 
+balsa, 
+b) asegurar el cofre del tesoro en la parte inferior de la balsa o, c) con una soga  
+amarrada a la balsa colgar el cofre del tesoro en el agua? (Suponga que lanzar el cofre del 
+tesoro por la borda no es una opción que quiera considerar.)
+ Sección 14.4  Fuerzas de flotación y principio de Arquímedes  397
+Figura 14.8 Las fuerzas externas 
+que actúan sobre el cubo en un 
+líquido son la fuerza gravitacional 
+F
+S
+g y la fuerza de flotación B
+S
+. Bajo 
+condiciones de equilibrio, B  Fg .
+PREVENCIÓN DE RIESGOS  
+OCULTOS 14.2
+El fluido ejerce la fuerza de flotación
+Recuerde que la fuerza de 
+flotación la ejerce el fluido.  
+No está determinada por  
+las propiedades del objeto, 
+excepto por la cantidad de 
+fluido desplazado por el objeto.  
+Por lo tanto, si muchos objetos 
+de diferentes densidades, 
+pero igual volumen, se 
+sumergen en un fluido, todos 
+experimentarán la misma fuerza 
+de flotación. El que se hundan 
+o floten está determinado 
+por la relación entre la 
+fuerza de flotación y la fuerza 
+gravitacional.
+Figura 14.10 Un objeto que 
+flota sobre la superficie de un 
+fluido experimenta dos fuerzas,  
+la fuerza gravitacional 
+F
+S
+g y la 
+fuerza de flotación B
+S
+. Puesto  
+que el objeto flota en equilibrio, 
+B  F
+g .
+Figura 14.9 a) Un objeto totalmente sumergido menos denso que el fluido en el que se sumerge 
+experimenta una fuerza neta hacia arriba. b) Un objeto totalmente sumergido y que es más denso que  
+el fluido experimenta una fuerza neta hacia abajo.
+B
+Fg
+a) b)
+B
+Fg
+a
+gFa
+B
+Fg
+B
+h
+
+398 Capítulo 14  Mecánica de fluidos
+EJEMPLO 14.5  ¡Eureka!
+Según la tradición a Arquímedes se le pidió determinar si 
+una corona hecha para el rey consistiera de oro puro. De 
+acuerdo con la leyenda, él resolvió este problema al pesar 
+la corona primero en aire y luego en agua, como se muestra 
+en la figura 14.11. Suponga que lectura en la balanza es 
+7.84 N cuando la corona estaba en aire y 6.84 N cuando 
+estaba en agua. ¿Qué dijo Arquímedes al rey?
+SOLUCIÓN
+Conceptualizar La figura 14.11 ayuda a pensar lo que  
+sucede en este ejemplo. Debido a la fuerza de flotación,  
+la lectura de la balanza es menor en la figura 14.11b que 
+en la figura 14.11a.
+Categorizar Este problema es un ejemplo del caso 1 dis-
+cutido anteriormente, porque la corona está sumergida por 
+completo. La lectura de la balanza es la medida de una de 
+las fuerzas en la corona y la corona es fija. Por lo tanto, la 
+corona se clasifica como una partícula en equilibrio.
+Analizar Cuando la corona está suspendida en aire, la 
+lectura en la balanza es el peso real T
+1  Fg (se desprecia  
+la pequeña fuerza de flotación debida al aire circundante). 
+Cuando la corona se sumerge en agua, la fuerza de flota-
+ción B
+S
+ reduce la lectura de la balanza a un peso aparente 
+de T2  Fg  B.
+Aplique la condición de equilibrio de fuerza a la 
+corona en agua:
+Resuelva para B y sustituya los valores conocidos: B
+Fg T2 7.84 N 6.84 N 1.00 N
+Ya que esta fuerza de flotación es igual en magnitud al peso del agua desplazada, SagVa  1.00 N, donde Va es el volumen del 
+agua desplazada y Sa es su densidad. Además, el volumen de la corona Vc es igual al volumen del agua desplazada porque la 
+corona está completamente sumergida.
+Encuentre el volumen de la corona: Vc Va
+1.00 N
+ra g
+1.00 N
+11 000 kg>m3 21 9.80 m>s2 2 1.02 10 4 m3
+Encuentre la densidad de la corona de la ecuación 1.1: 
+ 7.84 10 3 kg>m3
+ rc
+mc
+Vc
+mc g
+Vc g
+7.84 N
+11.02 10 4 m3 21 9.80 m>s2 2
+Finalizar De la tabla 14.1 se ve que la densidad del oro es 19.3  103 kgm3. Por lo tanto, Arquímedes debió informar al 
+rey que lo habían engañado. O la corona estaba hueca o no estaba hecha de oro puro.
+¿Qué pasaría si? Suponga que la corona tiene el mismo peso, está hecha de oro puro y no está hueca. ¿Cuál sería la lectura 
+de la balanza cuando la corona estuviera sumergida en agua?
+Respuesta Encuentre el volumen de la corona 
+de oro sólido:
+Figura 14.11 (Ejemplo 14.5) a) Cuando la corona está 
+suspendida en aire, la lectura en la balanza es su peso real 
+porque T1  Fg (la flotabilidad del aire es despreciable).  
+b) Cuando la corona se sumerge en agua, la fuerza de 
+flotación 
+B
+S
+ cambia la lectura de la balanza a un valor menor 
+T2  Fg  B.
+1
+2
+b)a)
+g
+g
+F
+F
+B
+T
+T
+ 4.15 10 5 m3
+ Vc
+mc
+rc
+mc g
+rc g
+7.84 N
+119.3 10 3 kg>m3 21 9.80 m>s2 2
+F BT 2 Fg 0
+
+Encuentre la fuerza de flotación sobre la corona: 
+ 11.00 10 3 kg>m3 21 9.80 m>s2 21 4.15 10 5 m3 2 0.406 N
+ B ra gVa ragVc
+Encuentre la tensión en la cuerda que cuelga de 
+la balanza:
+ Sección 14.5  Dinámica de fluidos  399
+EJEMPLO 14.6 Una sorpresa titánica
+Un iceberg que flota en agua de mar, como se mues-
+tra en la figura 14.12a, es extremadamente peligroso 
+porque la mayor parte del hielo está bajo la superficie. 
+Este hielo oculto puede dañar una embarcación que 
+aún está a una distancia considerable del hielo visible. 
+¿Qué fracción del iceberg se encuentra bajo el nivel del 
+agua?
+SOLUCIÓN
+Conceptualizar Es probable que usted esté familiari-
+zado con la expresión “sólo es la punta del iceberg”. El 
+origen de este dicho popular es que la mayor parte del 
+volumen de un iceberg flotante está bajo la superficie 
+del agua (figura 14.12b).
+Categorizar Este ejemplo corresponde al caso 2. Tam-
+bién es un simple problema de sustitución que involu-
+cra la ecuación 14.6.
+Evalúe la ecuación 14.6 usando las densidades del hielo 
+y el agua de mar (tabla 14.1):
+Por lo tanto, la fracción visible de hielo sobre la superficie del agua es aproximadamente 11%. Es ese 89% no visto bajo el 
+agua lo que representa el peligro a una embarcación que pase.
+14.5 Dinámica de fluidos
+Hasta el momento, el estudio de los fluidos se restringió a fluidos en reposo. Ahora la 
+atención se dirige a los fluidos en movimiento. Cuando el fluido está en movimiento, su 
+flujo se caracteriza como uno de dos tipos principales. Se dice que el fluido es estable, o 
+laminar, si cada partícula del fluido sigue una trayectoria uniforme de tal modo que las 
+trayectorias de diferentes partículas nunca se cruzan unas con otras, como se muestra en 
+la figura 14.13. En el flujo estable todas las partículas de fluido que llegan a un punto dado 
+tienen la misma velocidad.
+Sobre cierta rapidez crítica, el flujo de fluido se vuelve turbulento. El flujo turbulento 
+es flujo irregular que se caracteriza por pequeñas regiones con forma de remolino, como 
+se muestra en la figura 14.14 (página 400).
+El término viscosidad se usa comúnmente en la descripción del flujo de fluido para 
+caracterizar el grado de fricción interna en el fluido. Esta fricción interna, o fuerza viscosa, 
+se asocia con la resistencia que tienen dos capas adyacentes de fluido para moverse una 
+en relación con la otra. La viscosidad hace que parte de la energía cinética del fluido se 
+convierta en energía interna. Este mecanismo es similar a aquel mediante el cual un objeto 
+que se desliza sobre una superficie horizontal rugosa pierde energía cinética.
+T
+2 Fg B 7.84 N 0.406 N 7.43 N
+f
+Vagua de mar
+Vhielo
+rhielo
+ragua de mar
+917 kg>m3
+1 030 kg>m3   0.890 u 89.0%
+Figura 14.12 (Ejemplo 14.6) a) Gran parte del volumen de este 
+iceberg está bajo el agua. b) Una embarcación puede resultar dañada 
+incluso cuando no esté cerca del hielo visible.
+b)
+Geraldine Prentice/Getty
+a)
+Andy Sacks/Getty
+Figura 14.13 Flujo laminar 
+alrededor de un automóvil en un 
+túnel de viento.
+
+400 Capítulo 14  Mecánica de fluidos
+Ya que el movimiento de los fluidos reales es muy complejo y no se entiende por com-
+pleto, en el enfoque de este libro se hacen algunas suposiciones simplificadoras. En este 
+modelo de flujo de fluido ideal, se hacen las siguientes cuatro suposiciones:
+1. El fluido no es viscoso. En un fluido no viscoso, se desprecia la fricción interna. Un 
+objeto que se mueve a través del fluido experimenta fuerza no viscosa.
+2. El flujo es estable. En flujo estable (laminar), todas las partículas que pasan a través 
+de un punto tienen la misma velocidad.
+3. El fluido es incompresible. La densidad de un fluido incompresible es constante.
+4. El flujo es irrotacional. En flujo irrotacional el fluido no tiene cantidad de movimien-
+to angular en torno a punto alguno. Si una pequeña rueda de paletas colocada en 
+alguna parte en el fluido no gira en torno al centro de masa de la rueda, el flujo es 
+irrotacional.
+La trayectoria que toma una partícula de fluido bajo flujo estable se llama línea de  
+corriente. La velocidad de la partícula siempre es tangente a la línea de corriente, como se 
+muestra en la figura 14.15. Un conjunto de líneas de corriente como las que se muestran 
+en la figura 14.15 forman un tubo de flujo. Las partículas de fluido no pueden fluir hacia  
+o desde los lados de este tubo; si pudieran, las líneas de corriente se cruzarían mutua-
+mente.
+Considere el flujo de fluido ideal a través de una tubería de tamaño no uniforme, como 
+se ilustra en la figura 14.16. Las partículas en el fluido se mueven a lo largo de líneas de 
+corriente en flujo estable. En un intervalo de tiempo $t, un elemento corto del fluido en 
+el extremo inferior de la tubería se mueve una distancia $x
+1  v1 $t. Si A1 es el área de 
+sección transversal en esta región, la masa de fluido contenida en la región sombreada 
+izquierda de la figura 14.16 es m
+1  SA1 $x1  SA1v1 $t, donde S es la densidad (invariable) 
+del fluido ideal. De igual modo, el fluido que se mueve a través del extremo superior de la 
+tubería en el intervalo de tiempo $t tiene una masa m
+2  SA2v2 $t. Sin embargo, ya que el 
+fluido es incompresible y el flujo es estable, la masa de fluido que cruza A1 en un intervalo 
+de tiempo $t debe ser igual a la masa que cruza A2 en el mismo intervalo de tiempo. Esto 
+es, m1  m2 o SA1v1  SA2v2, lo que significa
+ A1v1 A2v2 constante  (14.7)
+Esta expresión se llama ecuación de continuidad para fluidos. Afirma que el producto del 
+área y la rapidez del fluido en todos los puntos a lo largo de una tubería es constante para 
+un fluido incompresible. La ecuación 14.7 muestra que la rapidez es alta donde el tubo 
+es estrecho (A pequeña) y baja donde el tubo es ancho ( A grande). El producto Av, que 
+tiene las dimensiones de volumen por unidad de tiempo, se llama flujo volumétrico o rela-
+ciónde flujo. La condición Av  constante es equivalente a la afirmación de que el volumen 
+de fluido que entra por un extremo de un tubo en un intervalo de tiempo dado iguala 
+al volumen que conduce al otro extremo del tubo en el mismo intervalo de tiempo si no 
+hay fugas presentes.
+Usted demuestra la ecuación de continuidad cada vez que riega su jardín y pone su 
+pulgar sobre el extremo de una manguera de jardín, como en la figura 14.17. Al bloquear 
+parcialmente la abertura con su pulgar, reduce el área de sección transversal a través de la 
+que pasa el agua. Como resultado, la rapidez del agua aumenta de sección mientras sale 
+de la manguera, y se puede rociar a gran distancia.
+Figura 14.14 Los gases calientes 
+de un cigarrillo se hacen visibles 
+mediante partículas de humo. 
+Primero el humo se mueve en 
+flujo laminar en la parte baja y 
+luego en flujo turbulento arriba.
+Figura 14.15 Una partícula 
+en flujo laminar sigue una línea 
+de corriente y, en cada punto 
+a lo largo de su trayectoria, 
+la velocidad de la partícula es 
+tangente a la línea de corriente.
+Figura 14.16 Un fluido que 
+se mueve con flujo estable de 
+sección a través de una tubería 
+de área transversal variable. El 
+volumen de fluido que fluye a 
+través del área A
+1 en un intervalo 
+de tiempo $t debe ser igual al 
+volumen que fluye a través del 
+área A
+2 en el mismo intervalo de 
+tiempo. Por lo tanto, A1v1  A2v2.
+Figura 14.17 La rapidez del agua que se 
+rocía desde el extremo de una manguera de 
+jardín aumenta conforme el tamaño de la 
+abertura disminuye con el pulgar.
+v1
+$x1
+$x2
+Punto 2
+Punto 1
+A1
+A2
+v2
+v
+Werner Wolff/Black Star
+George Semple
+
+EJEMPLO 14.7 Regar un jardín
+Un jardinero usa una manguera de 2.50 cm de diámetro para llenar una cubeta de 30.0 L. El jardinero nota que tarda  
+1.00 min para llenar la cubeta. Luego acopla una boquilla con una abertura de 0.500 cm 2 de área de sección transversal.  
+La boquilla se sostiene de tal modo que el agua se proyecta horizontalmente desde un punto a 1.00 m sobre el suelo. ¿Sobre 
+qué distancia horizontal se puede proyectar el agua?
+SOLUCIÓN
+Conceptualizar Imagine cualquier experiencia pasada que haya tenido al proyectar agua desde una manguera o tubería. 
+Mientras más rápido viaje el agua que sale de la manguera, más lejos llegará.
+Categorizar Una vez que el agua sale de la manguera, está en caída libre. Debido a eso, un elemento determinado del agua 
+se clasifica como un proyectil. El elemento se modela como una partícula bajo aceleración constante (debido a la gravedad) 
+en la dirección vertical y una partícula bajo velocidad constante en la dirección horizontal. La distancia horizontal sobre la 
+que se proyecta el elemento depende de la rapidez con la que se proyecta. Este ejemplo involucra un cambio en el área de 
+la tubería, así que también se clasifica para usar la ecuación de continuidad para fluidos.
+Analizar Primero encuentre la rapidez del agua en la manguera a partir de la información de llenado de la cubeta.
+Encuentre el área de sección transversal de la manguera: A
+pr2 p d2
+4 p c
+12.50 cm22
+4 d 4.91 cm2
+Evalúe la relación de flujo volumétrico en cm3s: Av 30.0 L>min 30.0 10 3 cm3
+60.0 s 500 cm3 >s
+Resuelva para la rapidez del agua en la manguera: v1
+500 cm3>s
+A
+500 cm3>s
+4.91 cm2 102 cm>s 1.02 m >s
+Esta rapidez se etiqueta v1 porque se identifica el punto 1 dentro de la manguera. El punto 2 se identifica en el aire justo 
+afuera de la boquilla. Debe encontrar la rapidez v2  vxi con la que el agua sale de la boquilla. El subíndice i anticipa que 
+será la componente de velocidad inicial del agua que se proyecta desde la manguera, y el subíndice x indica que el vector 
+velocidad inicial del agua proyectada es horizontal.
+Resuelva la ecuación de continuidad para fluidos para v2: v2 vxi
+A1
+A2
+v1
+Sustituya valores numéricos: vxi
+4.91 cm2
+0.500 cm2 11.02 m>s 2 10.0 m>s
+Ahora considere el movimiento de proyectil. En la dirección vertical, un elemento del agua parte del reposo y cae una 
+distancia vertical de 1.00 m.
+Escriba la ecuación 2.16 para la posición vertical de un ele-
+mento de agua, modelada como partícula bajo aceleración 
+constante:
+Sustituya valores numéricos: 
+1.00 m 0 0 1
+2 19.80 m>s2 2t 2
+Resuelva para el tiempo cuando el elemento de agua ate-
+rriza en el suelo:
+Use la ecuación 2.7 para encontrar la posición horizontal 
+del elemento en este tiempo, modelado como una partícu-
+la bajo velocidad constante:
+ Sección 14.5  Dinámica de fluidos  401
+yf yi vyit 1
+2gt 2
+xf xi vxit 0 110.0 m>s 21 0.452 s2   4.52 m
+t
+2 11.00 m2
+9.80 m>s2 0.452 s
+
+402 Capítulo 14  Mecánica de fluidos
+Finalizar El intervalo de tiempo para que el elemento de agua caiga al suelo no cambia si la rapidez de proyección varía 
+porque la proyección es horizontal. Aumentar la rapidez de proyección resulta en que el agua golpea el suelo más lejos del 
+extremo de la manguera, pero requiere el mismo intervalo de tiempo para golpear el suelo.
+DANIEL BERNOULLI
+Físico suizo (1700–1782)
+Bernoulli hizo importantes descubrimientos 
+en dinámica de fluidos. Nacido en una 
+familia de matemáticos, fue el único 
+miembro de su familia en dejar marca en 
+la física.
+La obra más famosa de Bernoulli,  
+Hidrodinámica, se publicó en 1738; es  
+un estudio tanto teórico como práctico 
+acerca del equilibrio, la presión y la rapidez 
+en los fluidos. Demostró que, a medida 
+que aumenta la rapidez de un fluido, su 
+presión disminuye. Conocido como  
+“principio de Bernoulli” , la obra de  
+Bernoulli se usa para producir un vacío 
+parcial en laboratorios químicos al  
+conectar un recipiente a un tubo a través 
+del cual corre agua rápidamente.
+En Hidrodinámica, Bernoulli también 
+intentó la primera explicación del compor- 
+tamiento de los gases con presión y 
+temperatura variables; este paso fue el 
+comienzo de la teoría cinética de los gases, 
+un tema que se estudiará en el capítulo 21.
+Figura 14.18 Un fluido en flujo 
+laminar a través de una tubería 
+que se estrecha. El volumen de la 
+porción sombreada a la izquierda 
+es igual al volumen de la porción 
+sombreada a la derecha.
+14.6 Ecuación de Bernoulli
+Tal vez ha experimentado la sensación de conducir en una autopista y que un gran camión 
+pase junto a usted con gran rapidez. En esta situación, es posible que haya tenido la ate-
+rradora sensación de que su automóvil era jalado hacia el camión mientras éste pasaba. 
+En esta sección se investigará el origen de este efecto.
+A medida que un fluido se mueve a través de una región donde su rapidez o elevación 
+sobre la superficie de la Tierra cambian, la presión en el fluido varía con dichos cambios. 
+La correspondencia entre rapidez del fluido, presión y elevación la dedujo por primera 
+vez, en 1738, el físico suizo Daniel Bernoulli. Considere el flujo de un segmento de un flui-
+do ideal a través de una tubería no uniforme en un intervalo de tiempo $t, como se ilustra 
+en la figura 14.18. Al principio del intervalo de tiempo, el segmento de fluido consiste en 
+la porción sombreada azul (porción 1) a la izquierda y la porción sin sombrear. Durante 
+el intervalo de tiempo, el extremo izquierdo del segmento se mueve hacia la derecha una 
+distancia $x
+1, que es la longitud de la porción sombreada azul a la izquierda. Mientras 
+tanto, el extremo derecho del segmento se mueve hacia la derecha una distancia $x2, que 
+es la longitud de la porción sombreada azul (porción 2) arriba a la derecha en la figura 
+14.18. Por lo tanto, al final del intervalo de tiempo, el segmento de fluido consiste en la 
+porción no sombreada y la porción sombreada azul arriba a la derecha.
+Ahora considere las fuerzas que se ejercen sobre este segmento por el fluido a la iz-
+quierda y a la derecha del segmento. La fuerza que ejerce el fluido sobre el extremo 
+izquierdo tiene una magnitud P
+1A1. El trabajo invertido por esta fuerza sobre el segmento 
+en un intervalo de tiempo $t es W1  F1 $x1  P1A1 $x1  P1V, donde V es el volumen de 
+la porción 1. De forma similar, el trabajo invertido por el fluido a la derecha del segmento 
+en el mismo intervalo de tiempo $t es W
+2  P2A2 $x2  P2V. (El volumen de la porción 
+1 es igual al volumen de la porción 2 porque el fluido es incompresible.) Este trabajo es 
+negativo porque la fuerza sobre el segmento de fluido es a la izquierda y el desplazamiento 
+es a la derecha. Por lo tanto, el trabajo neto invertido en el segmento por dichas fuerzas 
+en el mismo intervalo $t es
+W
+1P1 P2 2V
+Parte de este trabajo va a cambiar la energía cinética del segmento de fluido, y parte va a 
+cambiar la energía potencial gravitacional del sistema segmento–Tierra. Ya que se supone 
+flujo en líneas de corriente, la energía cinética K
+no somb de la porción no sombreada del 
+segmento en la figura 14.18 no cambia durante el intervalo de tiempo. En consecuencia, 
+el cambio en la energía cinética del segmento de fluido es
+¢K
+11
+2mv2 2 Kno somb 21 1
+2
+mv1 2 Kno somb2 1
+2
+mv2 2 1
+2
+mv1 2
+donde m es la masa de las porciones 1 y 2. (Ya que los volúmenes de ambas porciones son 
+iguales, también tienen la misma masa.)
+Al considerar la energía potencial gravitacional del sistema segmento–Tierra, una vez 
+más no hay cambio durante el intervalo de tiempo para la energía potencial gravitacional 
+Uno somb asociada con la porción no sombreada del fluido. En consecuencia, el cambio en 
+energía potencial gravitacional es
+¢U 1mgy2 Uno somb 21 mgy1 Uno somb 2 mgy2 mgy1
+A partir de la ecuación 8.2, el trabajo total invertido en el sistema por el fluido afuera 
+del segmento es igual al cambio en energía mecánica del sistema: W  $K  $U. Al susti-
+tuir para cada uno de estos términos se obtiene
+1P1 P2 2V 1
+2mv2 2 1
+2
+mv1 2 mgy 2 mgy 1
+$x1
+$x2
+v2
+y2
+y1
+P1A1i
+v1
+–P2A2i
+Punto 2
+Punto 1
+ˆ
+ˆ © Bettman/CORBIS
+
+Si divide cada término entre la porción de volumen V y recuerda que S  mV, esta ex-
+presión se reduce a
+P1 P2
+1
+2rv2 2 1
+2
+rv1 2 rgy 2 rgy 1
+Al reordenar términos se obtiene
+ P1
+1
+2rv1 2 rgy 1 P2
+1
+2
+rv2 2 rgy 2  (14.8)
+que es la ecuación de Bernoulli como se aplica a un fluido ideal. Esta ecuación con fre-
+cuencia se expresa como
+ P 1
+2rv2 rgy constante  (14.9)
+La ecuación de Bernoulli muestra que la presión de un fluido disminuye conforme la ra-
+pidez del fluido aumenta. Además, la presión disminuye conforme aumenta la elevación. 
+Este último punto explica por qué la presión del agua de los grifos en los pisos superiores 
+de un edificio alto es débil a menos que se tomen medidas para proporcionar mayor pre-
+sión para dichos pisos.
+Cuando el fluido está en reposo, v
+1  v2  0 y la ecuación 14.8 se convierte en
+P1 P2 rg 1y2 y1 2 rgh
+Este resultado está en concordancia con la ecuación 14.4.
+Aunque la ecuación 14.9 se dedujo para un fluido incompresible, el comportamiento  
+general de la presión con la rapidez es verdadero incluso para gases: a medida que la 
+rapidez aumenta, la presión disminuye. Este efecto Bernoulli explica la experiencia con el 
+camión en la autopista citada al principio de esta sección. A medida que el aire pasa entre 
+usted y el camión, debe pasar a través de un canal relativamente estrecho. De acuerdo 
+con la ecuación de continuidad, la rapidez del aire es mayor. De acuerdo con el efecto 
+Bernoulli, esta mayor rapidez del aire ejerce menos presión sobre su auto que el aire que 
+se mueve con lentitud en el otro lado de su vehículo. En consecuencia, ¡hay una fuerza 
+neta que lo empuja hacia el camión!
+Pregunta rápida 14.5 Observa dos globos de helio que flotan uno junto al otro en los 
+extremos de cuerda asegurados a una mesa. Las superficies de los globos que se enfrentan 
+están separadas por 1 a 2 cm. Usted sopla a través del pequeño espacio entre los globos. 
+¿Qué ocurre con los globos? a) Se mueven uno hacia el otro.
+ b) Se separan. c) No  
+resultan afectados.
+ Sección 14.6  Ecuación de Bernoulli  403
+EJEMPLO 14.8 El tubo Venturi
+La tubería horizontal constreñida que se ilustra en la figu-
+ra 14.19, conocida como tubo Venturi, se usa para medir la  
+rapidez de flujo de un fluido incompresible. Determine 
+la rapidez del flujo en el punto 2 de la figura 14.19a si se 
+conoce la diferencia de presión P
+1  P2.
+SOLUCIÓN
+Conceptualizar La ecuación de Bernoulli muestra cómo 
+disminuye la presión de un fluido a medida que aumen-
+ta su rapidez. Por lo tanto, debe ser posible calibrar un 
+dispositivo para obtener la rapidez del fluido si se puede 
+medir la presión.
+Categorizar Ya que el problema afirma que el fluido es 
+incompresible, se le clasifica como el que se le puede apli-
+car la ecuación de continuidad para fluidos y la ecuación 
+de Bernoulli.
+1 Ecuación de Bernoulli
+Figura 14.19 (Ejemplo 14.8) a) La presión P1 es mayor que  
+la presión P2 porque v1  v2. Este dispositivo se usa para medir la 
+rapidez del flujo de fluido. b) Un tubo Venturi, ubicado en la parte 
+superior de la fotografía. El mayor nivel de fluido en la columna de 
+en medio demuestra que la presión en lo alto de la columna, que 
+está en la región estrecha del tubo Venturi, es menor.
+P1 P2
+A2
+A1
+J
+a)
+v1 v2I
+© Thomson Learning/Charles D. Winters
+b)
+
+404 Capítulo 14  Mecánica de fluidos
+Analizar Aplique la ecuación 14.8 a los puntos 1 y 2 y note 
+que y1  y2 porque la tubería es horizontal:
+Resuelva la ecuación de continuidad para v1: v1
+A2
+A1
+ v2
+Sustituya esta expresión en la ecuación 1): P1
+1
+2r a A2
+A1
+b
+2
+v2 2 P2
+1
+2
+rv2 2
+Resuelva para v2: v2    A1
+2 1P1 P2 2
+r 1A1 2 A2 2 2
+Finalizar A partir del diseño del tubo (áreas A1 y A2) y las mediciones de la diferencia de presión P1  P2, se puede calcular 
+la rapidez del fluido con esta ecuación. Par ver la correspondencia entre la rapidez del fluido y la diferencia de presión, 
+coloque sobre sus costados dos latas de refresco vacías, separadas aproximadamente 2 cm sobre una mesa. Sople suavemente 
+una corriente de aire horizontalmente entre las latas y obsérvelas rodar lentamente debido a una modesta diferencia de 
+presión entre el aire que se estanca en sus bordes exteriores y el aire en movimiento entre ellas. Ahora sople más fuerte y 
+observe la creciente diferencia de presión que mueve a las latas más rápidamente.
+EJEMPLO 14.9 Ley de Torricelli
+Un tanque cerrado que contiene un líquido de densidad S tiene un orificio en su cos-
+tado a una distancia y1 desde el fondo del tanque (figura 14.20). El orificio está abierto 
+a la atmósfera y su diámetro es mucho menor que el diámetro superior del tanque. El 
+aire sobre el líquido se mantiene a una presión P. determine la rapidez del líquido que 
+sale del orificio cuando el nivel del líquido está a una distancia h sobre el orificio.
+SOLUCIÓN
+Conceptualizar Imagine que el tanque es un extintor de incendios. Cuando el orifi-
+cio se abre, el líquido sale del orificio con cierta rapidez. Si la presión P en lo alto del 
+líquido aumenta, el líquido sale con una mayor rapidez. Si la presión P cae muy baja, 
+el líquido sale con una rapidez baja y se debe sustituir el extintor.
+Categorizar Al observar la figura 14.20, se conoce la presión en dos puntos y la velocidad en uno de dichos puntos. Se 
+quiere encontrar la velocidad en el segundo punto. Por lo tanto, este ejemplo se clasifica para aplicar la ecuación de Ber-
+noulli.
+Analizar Ya que A2  A1, el líquido está cerca del reposo en lo alto del tanque, donde la presión es P. En el orificio v1 
+es igual a la presión atmosférica P0.
+Aplique la ecuación de Bernoulli entre los puntos 1 y 2: P0
+1
+2rv1 2 rgy 1 P rgy 2
+Resuelva para v1 y note que y2  y1  h: v1
+2 1PP 0 2
+r 2gh
+Finalizar Cuando P es mucho mayor que P0 (de modo que el término 2 gh se puede despreciar), la rapidez de salida del  
+agua es principalmente una función de P. Si el tanque está abierto a la atmósfera, en tal caso P  P0 y v1 2gh. En  
+otras palabras, para un tanque abierto, la rapidez del líquido que sale de un orificio a una distancia h bajo la superficie es 
+igual a la que adquiere un objeto en caída libre a través de una distancia vertical h. Este fenómeno se conoce como ley de 
+Torricelli.
+¿Qué pasaría si? ¿Y si la posición del orificio en la figura 14.20 se pudiera ajustar verticalmente? Si el tanque está abierto a 
+la atmósfera y colocado en una mesa, ¿qué posición del orificio haría que el agua cayera sobre la mesa a la mayor distancia 
+desde el tanque?
+12  P 1
+1
+2rv1 2 P2
+1
+2
+rv2 2
+Figura 14.20 (Ejemplo 14.9) 
+Salida de un líquido por un orificio 
+en un tanque con rapidez v1.
+A2
+A1
+v 
+1
+P0
+h
+P
+y2
+y1
+I
+J
+
+Respuesta Modele una porción de agua que sale del ori-
+ficio como un proyectil. Encuentre el tiempo en que la 
+porción golpea la mesa desde un orificio en una posición 
+arbitraria:
+Encuentre la posición horizontal de la porción en el tiem-
+po cuando golpea la mesa:
+Maximice la posición horizontal al tomar la derivada de 
+x
+f en relación con y1 (porque y1, la altura del orificio, es la 
+variable que se puede ajustar) e iguale a cero:
+Resuelva para y1: y1
+1
+2 y2
+Por lo tanto, para maximizar la distancia horizontal, el orificio debería estar a la mitad entre el fondo del tanque y la su-
+perficie superior del agua. Abajo de esta posición, el agua se proyecta a una mayor rapidez pero cae durante un intervalo 
+de tiempo breve, lo que reduce el alcance horizontal. Arriba de este punto, el agua está en el aire durante un intervalo de 
+tiempo más largo pero se proyecta con una rapidez horizontal menor.
+ Sección 14.7  Otras aplicaciones de la dinámica de fluidos  405
+14.7  Otras aplicaciones de la dinámica  
+de fluidos
+Considere las líneas de corriente que circulan alrededor del ala de un avión, como se 
+muestra en la figura 14.21. Suponga que la corriente de aire horizontal se aproxima al 
+ala desde la derecha con una velocidad v
+S
+1. La inclinación del ala hace que la corriente 
+de aire se desvíe hacia abajo con una velocidad v
+S
+2. Ya que la corriente de aire se desvía 
+por el ala, el ala debe ejercer una fuerza sobre la corriente de aire. De acuerdo con la 
+tercera ley de Newton, la corriente de aire ejerce una fuerza F
+S
+ sobre el ala que es igual en 
+magnitud y opuesta en dirección. Esta fuerza tiene una componente vertical llamada sus-
+tentación (o sustentación aerodinámica) y una componente horizontal llamada arrastre. 
+La sustentación depende de muchos factores, como la rapidez del avión, el área del ala, 
+la curvatura del ala y el ángulo entre el ala y la horizontal. La curvatura de las superficies 
+del ala hace que la presión sobre el ala sea menor que la presión debajo del ala debido al 
+efecto Bernoulli. Esta diferencia de presión ayuda a la sustentación sobre el ala. A medida 
+que el ángulo entre el ala y la horizontal aumenta, se establece un flujo turbulento sobre 
+el ala para reducir la sustentación.
+En general, un objeto que se mueve a través de un fluido experimenta sustentación 
+como resultado de cualquier efecto que haga que el fluido cambie su dirección mientras 
+circula por el objeto. Algunos factores que influyen en la sustentación son la forma del 
+objeto, su orientación respecto al flujo de fluido, cualquier movimiento de giro que pueda 
+tener y la textura de su superficie. Por ejemplo, a una bola de golf golpeada con un palo 
+se le da un rápido giro hacia atrás debido a la inclinación del palo. Los hoyuelos en la 
+bola aumentan la fuerza de fricción entre la bola y el aire, de modo que el aire se adhiere 
+a la superficie de la bola. La figura 14.22 (página 406) muestra el aire que se adhiere a 
+la bola y se desvía hacia abajo como resultado. Ya que la bola empuja el aire hacia abajo, 
+el aire debe empujar hacia arriba sobre la bola. Sin los hoyuelos, la fuerza de fricción es 
+menor y la bola de golf no viaja tanto. Puede parecer contrario a la intuición aumentar 
+el intervalo al aumentar la fuerza de fricción, pero la sustentación ganada al girar la bola 
+más compensa la pérdida de alcance debida al efecto de fricción sobre el movimiento  
+ t
+2y1
+g
+ 0 y1 0 1
+2gt 2
+ yf yi vyit 1
+2gt 2
+ 2 1y2y1 y1 2 2
+ xf xi vxit 02 g 1y2 y1 2
+2y1
+g
+dxf
+dy1
+1
+2 1221 y2y1 y1 2 2 1>2 1y2 2y1 2 0
+Figura 14.21 Flujo de línea de 
+corriente alrededor del ala de 
+un avión en movimiento. El aire 
+que se aproxima desde la derecha 
+se desvía hacia abajo por el ala. 
+Por la tercera ley de Newton, esta 
+desviación debe coincidir con una 
+fuerza hacia arriba sobre el ala 
+proveniente del aire: sustentación. 
+Debido a la resistencia del aire, 
+también hay una fuerza opuesta a 
+la velocidad del ala: arrastre.
+Arrastre
+Sustentación
+F
+
+406 Capítulo 14  Mecánica de fluidos
+traslacional de la bola. Por la misma razón, la cubierta de una pelota de beisbol ayuda 
+a que la pelota que gira “agarre” el aire por el que pasa y le ayuda a desviarlo cuando se 
+lanza una “bola curva”.
+Algunos dispositivos operan mediante los diferenciales de presión que resultan de las 
+diferencias en la rapidez de un fluido. Por ejemplo, una corriente de aire que pasa sobre 
+un extremo abierto de un tubo, con el otro extremo sumergido en un líquido, reduce la 
+presión sobre el tubo, como se ilustra en la figura 14.23. Esta reducción en presión hace 
+que el líquido se eleve en la corriente del aire. Por lo tanto el líquido se dispersa en un 
+fino rocío de gotitas. Usted puede identificar que este atomizador se usa en botellas de 
+perfume y rociadores de pintura.
+Figura 14.22 Debido a la desviación del aire, 
+una bola de golf que gira experimenta una fuerza 
+de sustentación que le permite viajar mucho más 
+lejos de lo que viajaría si no girara.
+Figura 14.23 Una corriente de aire 
+que pasa sobre un tubo sumergido en 
+un líquido hace que el líquido se eleve 
+en el tubo.
+Resumen
+DEFINICIONES
+La presión P en un fluido es la fuerza por unidad de área que ejerce el fluido sobre una superficie:
+ P F
+A (14.1)
+En el sistema SI, la presión tiene unidades de newtons por metro cuadrado (Nm2) y 1 Nm2  1 pascal (Pa).
+La presión en un fluido en reposo varía con la profundidad h en el 
+fluido de acuerdo con la expresión
+ P P0 rgh  (14.4)
+donde P0 es la presión en h  0 y S es la densidad del fluido, que se 
+supone uniforme.
+La ley de Pascal afirma que, cuando se aplica presión a un fluido 
+encerrado, la presión se transmite sin disminución a cualquier punto en 
+el fluido y a todos los puntos en las paredes del contenedor.
+La relación de flujo (flujo volumétrico) a través de una 
+tubería que varía en el área de sección transversal es 
+constante; esto es equivalente a afirmar que el producto 
+del área transversal A y la rapidez v en cualquier punto 
+es una constante. Este resultado se expresa en la 
+ecuación de continuidad para fluidos:
+ A
+1v1  A2v2  constante (14.7)
+CONCEPTOS Y PRINCIPIOS
+Cuando un objeto está parcial o 
+completamente sumergido en un fluido, 
+el fluido ejerce sobre el objeto una 
+fuerza hacia arriba llamada fuerza de 
+flotación (boyante). De acuerdo con el 
+principio de Arquímedes, la magnitud de  
+la fuerza de flotación es igual al peso  
+del fluido desplazado por el objeto:
+ B
+rfluidogV  (14.5)
+La suma de la presión, energía cinética por unidad de 
+volumen y energía potencial gravitacional por unidad 
+de volumen, tiene el mismo valor en todos los puntos a 
+lo largo de una línea de corriente para un fluido ideal. 
+Este resultado se resume en la ecuación de Bernoulli:
+ P
+1
+2rv2 rgy constante  (14.9)
+
+Preguntas 407
+O indica pregunta complementaria.
+Preguntas
+ 1. O La figura P14.1 muestra vistas aéreas de dos diques. Ambos 
+diques son igual de anchos (la dimensión vertical en el diagra-
+ma) e igual de altos (hacia la página en el diagrama). El dique 
+de la izquierda contiene un lago muy grande, y el de la dere-
+cha contiene un río estrecho. ¿Cuál dique debe ser más sólido? 
+a) el dique de la izquierda, b) el dique de la derecha, c) ambos, 
+d) no se puede predecir.
+ 10. Una jabonera metálica vacía apenas flota en el agua. Una barra 
+de jabón Ivory flota en el agua. Cuando el jabón se pega en la 
+jabonera, la combinación se hunde. Explique por qué.
+ 11. O Una pelota de playa está hecha de plástico delgado. Es in-
+flada con aire, pero el plástico no se estira. Usted se ha puesto 
+aletas y logra bajar la pelota desde la superficie de una alber-
+ca hasta el fondo. Una vez que la pelota está sumergida por 
+completo, ¿qué ocurre con la fuerza de flotación que se ejerce 
+sobre la pelota de playa mientras la hunde a lo más profundo? 
+a) aumenta, b) permanece constante, c) disminuye, d) es im-
+posible de determinar.
+ 12. Si usted libera una pelota mientras está dentro de un elevador 
+en caída libre, la bola permanece enfrente de usted en lugar 
+de caer hacia el suelo porque la bola, el elevador y usted expe-
+rimentan la misma aceleración gravitacional hacia abajo. ¿Qué 
+ocurre si repite este experimento con un globo lleno de helio? 
+(Esta pregunta es truculenta.)
+ 13. O Una pequeña pieza de acero se amarra a un bloque de ma-
+dera. Cuando la madera se coloca en una tina con agua con el  
+acero en la parte superior, la mitad del bloque se sumerge. 
+Ahora el bloque se invierte de modo que el acero está bajo  
+el agua. i) ¿La cantidad del bloque sumergido a) aumenta,  
+b) disminuye o c) permanece igual? ii) ¿Qué ocurre con el 
+nivel del agua en la tina cuando el bloque se invierte? a) Se 
+eleva. b) Cae. c) Permanece igual.
+ 14. ¿Cómo determinaría la densidad de una piedra con forma 
+irregular?
+ 15. O Clasifique las fuerzas de flotación que se ejercen sobre los 
+siguientes siete objetos, de mayor a menor. Suponga que 
+los objetos se dejaron caer en una alberca y se les permitió 
+llegar a equilibrio mecánico. Si algunas fuerzas de flotación 
+son iguales, establezca esto en su clasificación. a) Un bloque de 
+roble sólido, b) un bloque de aluminio de igual volumen que 
+la madera, c) una pelota de playa hecha de plástico delgado 
+e inflada con aire, de igual volumen, d) un bloque de hierro de 
+igual volumen, e) una botella de agua sellada y de pared del-
+gada igual en volumen a la madera, f) un bloque de aluminio 
+que tiene la misma masa que la madera, g) un bloque de hie-
+rro de igual masa.
+ 16. O  Una persona en un bote que flota en un pequeño lago lanza 
+un ancla por la borda. ¿Qué ocurre con el nivel del lago? a) Se 
+eleva. b) Baja. c) Permanece igual.
+ 17. ¿La fuerza de flotación es una fuerza conservativa? ¿Hay una 
+energía potencial asociada con ella? Explique sus respuestas.
+ 18. Una lata cerrada de soda dietética flota cuando se coloca en 
+un tanque de agua, mientras que una lata de soda regular de la 
+misma marca se hunde en el tanque. ¿Qué supone que podría 
+explicar este comportamiento?
+ 19. O  Una pieza de madera porosa no pintada flota en un contene-
+dor parcialmente lleno con agua. El contenedor está sellado y 
+presurizado arriba de la presión atmosférica. ¿Qué ocurre con 
+la madera? a) Se eleva. b) Cae. c) Permanece al mismo nivel.
+ 20. El suministro de agua de una ciudad con frecuencia se pro-
+porciona desde depósitos construidos sobre suelo elevado. El 
+agua fluye desde el depósito, a través de tuberías y hasta los 
+hogares cuando se abre el grifo. ¿Por qué el agua fluye más 
+rápido de un grifo en el primer piso de un edificio que en un 
+departamento en un piso superior?
+ 21. Si la corriente de aire de una secadora de cabello se dirige 
+hacia una pelota de ping pong, la pelota puede levitar. ¿Por 
+qué?
+ 2. Dos vasos para beber con pared delgada, que tienen iguales 
+áreas de la base pero diferentes formas, con áreas de sección 
+transversales muy diferentes sobre la base, se llenan al mismo 
+nivel con agua. De acuerdo con la expresión P  P
+0  Sgh, la 
+presión es la misma en el fondo de ambos vasos. En vista de 
+esta igualdad, ¿por qué un vaso pesa más que el otro?
+ 3. Ya que la presión atmosférica es aproximadamente 10
+5 Nm2 
+y el área del pecho de una persona es aproximadamente 
+de 0.13 m
+2, la fuerza de la atmósfera sobre el pecho de uno  
+es de casi 13 000 N. En vista de esta enorme fuerza, ¿por qué 
+no colapsa el cuerpo?
+ 4. Un pez descansa en el fondo de una cubeta con agua mientras 
+la cubeta se pesa en una báscula. Cuando el pez comienza a 
+nadar, ¿cambia la lectura de la báscula?
+ 5. Usted es pasajero en una nave espacial. Para su supervivencia 
+y comodidad, el interior contiene aire similar al de la super-
+ficie de la Tierra. La nave espacial navega a través de una re-
+gión muy vacía del espacio. Esto es: afuera de la pared existe 
+un vacío casi perfecto. De pronto, un meteoroide perfora un 
+hoyo, casi del tamaño de una gran moneda, justo a través de 
+la pared junto a su asiento. ¿Qué ocurre? ¿Hay algo que pueda 
+o deba hacer acerca de ello?
+ 6. ¿Una embarcación flota más alto en el agua de un lago tierra 
+adentro o en el océano? ¿Por qué?
+ 7. O Una manzana se mantiene completamente sumergida justo 
+abajo de la superficie del agua en un contenedor. Después  
+la manzana se mueve a un punto más profundo en el agua. 
+Comparada con la fuerza necesaria para mantener la manzana  
+justo bajo la superficie, ¿cuál es la fuerza necesaria para mante-
+nerla en el punto más profundo? a) mayor, b) igual, c) menor, 
+d) imposible de determinar.
+ 8. Cuando un objeto se sumerge en un líquido en reposo, ¿por 
+qué la fuerza neta sobre el objeto en la dirección horizontal es 
+igual a cero?
+ 9. Una barcaza transporta una carga de grava por un río. La bar-
+caza se aproxima a un puente bajo y el capitán se da cuenta 
+de que lo alto de la pila de grava no va a pasar bajo el puente. 
+El capitán ordena a la tripulación tirar grava de la pila al agua. 
+¿Es una buena decisión?
+DiqueDique
+Figura P14.1
+
+408 Capítulo 14  Mecánica de fluidos
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 22. Cuando los saltadores de esquí están en el aire (figura P14.22), 
+doblan sus cuerpos hacia adelante y mantienen sus manos en 
+los costados. ¿Por qué?
+ 23. ¿Por qué los pilotos de avión prefieren despegar con el avión 
+contra el viento?
+ 24. O  Un suministro de agua mantiene una relación de flujo cons-
+tante para agua en una manguera. Usted quiere cambiar la 
+abertura de la boquilla de modo que el agua que salga de la 
+boquilla llegue a una altura que sea cuatro veces la altura máxi-
+ma actual que el agua alcanza con la boquilla vertical. Para 
+lograrlo, ¿qué debe hacer? a) reducir el área de la abertura en 
+un factor de 16, b) reducir el área en un factor de 8, c) reducir 
+el área en un factor de 4, d) reducir el área en un factor de 2,  
+e) rendirse porque no se puede hacer.
+ 25. Los perros de la pradera (figura P14.25) ventilan sus madri-
+gueras al construir un montículo alrededor de una entrada.
+que está abierta a una corriente de aire cuando el viento sopla 
+desde cualquier dirección. Una segunda entrada al nivel del 
+suelo está abierta a aire casi estancado. ¿Cómo esta construc-
+ción crea un flujo de aire a través de la madriguera?
+ 26. En la figura P14.26, una corriente de aire se mueve de dere-
+cha a izquierda a través de un tubo que está constreñido en la 
+mitad. Tres pelotas de ping pong levitan en equilibrio sobre las 
+columnas verticales a través de las que escapa el aire. a) ¿Por 
+qué la pelota de la derecha está más alta que la de en medio? 
+b) ¿Por qué la pelota de la izquierda está más baja que la pelota 
+de la derecha, aun cuando el tubo horizontal tenga las mismas 
+dimensiones en estos dos puntos?
+ 3. Una mujer de 50.0 kg se equilibra sobre un par de zapatillas 
+con tacón de aguja. Si el tacón es circular y tiene un radio de 
+0.500 cm, ¿qué presión ejerce sobre el piso?
+ 4. ¿Cuál es la masa de la atmósfera de la Tierra? (El radio de la 
+Tierra es 6.37  10
+6 m y la presión atmosférica en la superficie 
+es 1.013  105 Nm2.)
+4FDDJwO  1SFTJwO
+ 1. Calcule la masa de una esfera sólida de hierro que tiene un 
+diámetro de 3.00 cm.
+ 2. Encuentre el orden de magnitud de la densidad del núcleo de 
+un átomo. ¿Qué sugiere este resultado en cuanto a la estruc-
+tura de la materia? Modele un núcleo como constituido por 
+protones y neutrones cercanamente empaquetados. Cada uno 
+tiene 1.67  10
+27 kg de masa y radio del orden de 1015 m.
+ 27. O  i) Un vaso con agua contiene cubos de hielo flotantes. Cuan-
+do el hielo se funde, ¿el nivel del agua en el vaso a) sube,  
+b) baja o c) permanece igual? ii) Uno de los problemas pre-
+dichos debidos al calentamiento global es que el hielo en las 
+capas de hielo polares se fundirá y elevará el nivel del mar en 
+todas partes del mundo. ¿Hay más preocupación por el hielo 
+a) en el polo norte, donde la mayoría del hielo flota en el 
+agua; b) en el polo sur, donde la mayoría del hielo se asienta 
+en tierra; c) en ambos polos o d) en ningún polo?
+Figura P14.22
+Figura P14.25
+Figura P14.26
+Problemas
+© TempSport/CURBIS
+Henry Leap y Jim Lehman
+Pamela Zilly
+
+Problemas 409
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+4FDDJwO 7BSJBDJwOEFMBQSFTJwODPOMBQSPGVOEJEBE
+ 5. El resorte del medidor de presión que se muestra en la figura 
+14.2 tiene una constante de fuerza de 1 000 Nm, y el pistón 
+tiene un diámetro de 2.00 cm. A medida que el manómetro se 
+baja dentro del agua, ¿qué cambio en profundidad hace que 
+el pistón se mueva 0.500 cm?
+ 6. a) Calcule la presión absoluta a una profundidad oceánica de 
+1 000 m. Suponga que la densidad del agua de mar es 1 024 
+kgm
+3 y el aire arriba ejerce una presión de 101.3 kPa. b) A 
+esta profundidad, ¿qué fuerza debe ejercer el marco alrededor 
+de una ventanilla submarina circular, que tiene 30.0 cm de 
+diámetro, para contrarrestar la fuerza que ejerce el agua?
+ 7.  ¿Cuál debe ser el área de contacto entre una ventosa (comple-
+tamente vacía) y un techo, si la ventosa debe soportar el peso 
+de un estudiante de 80.0 kg?
+ 8. El pistón pequeño de un elevador hidráulico tiene un área de sec-
+ción transversal de 3.00 cm
+2 y su pistón grande tiene un área de 
+sección transversal de 200 cm2 (figura 14.4a). ¿Qué fuerza debe 
+aplicar al pistón pequeño para que el elevador lleve una carga de  
+15.0 kN? (En las estaciones de servicio, por lo general esta 
+fuerza se ejerce mediante aire comprimido.)
+ 9. Para el sótano de una nueva casa, se cava un hoyo en el suelo, 
+con lados verticales que bajan 2.40 m. Una pared de cimiento 
+de concreto se construye horizontal los 9.60 m de ancho de 
+la excavación. Esta pared de cimiento mide 0.183 m desde el 
+frente del hoyo del sótano. Durante una tormenta, el drenaje 
+de la calle llena el espacio enfrente de la pared de concreto, 
+pero no el sótano detrás de la pared. El agua no se filtra en el 
+suelo de arcilla. Encuentre la fuerza que ejerce el agua sobre 
+la pared de cimiento. En comparación, la fuerza gravitacio-
+nal que se ejerce sobre el agua es (2.40 m)(9.60 m)(0.183 m) 
+(1 000 kgm
+3)(9.80 ms2)  41.3 kN.
+ 10. a) Una aspiradora potente tiene una manguera de 2.86 cm 
+de diámetro. Sin boquilla en la manguera, ¿cuál es el peso 
+del ladrillo más pesado que puede levantar la aspiradora (fi-
+gura P14.10a)? b) ¿Qué pasaría si? Un pulpo usa una ventosa 
+de 2.86 cm de diámetro en cada una de las dos conchas de 
+una almeja con la intención de separar las conchas (figura 
+P14.10b.) Encuentre la fuerza máxima que puede ejercer el 
+pulpo en agua de mar a 32.3 m de profundidad. Precaución: La 
+comprobación experimental puede ser interesante, pero no 
+deje caer un ladrillo sobre su pie. No sobrecaliente el motor 
+de una aspiradora. No provoque que un pulpo se enoje con 
+usted.
+ 12.  El tanque de la figura P14.12 se llenó con agua con 2.00 m de 
+profundidad. En el fondo de una pared lateral hay una escoti-
+lla rectangular de 1.00 m de alto y 2.00 m de ancho que tiene 
+bisagras en la parte superior de la escotilla. a) Determine la 
+fuerza que el agua causa sobre la escotilla. b) Encuentre el mo-
+mento de torsión causado por el agua en torno a las bisagras.
+ 13.  Problema de repaso. El abad de Aberbrothock pagó por una 
+campana que colocó en la roca Inchcape para alertar a los 
+marineros. Suponga que la campana tiene 3.00 m de diámetro 
+y se fabricó en latón con un módulo volumétrico de 14.0  
+10
+10 Nm2. El pirata Ralph el Vagabundo descolgó la campa-
+na y la lanzó al océano. ¿Cuánto disminuyó el diámetro de la 
+campana cuando se hundió a una profundidad de 10.0 km? 
+Años después, el torpe pirata se ahogó cuando su nave chocó 
+con la roca. Nota: El latón se comprime uniformemente, así 
+que puede modelar la campana como una esfera de 3.00 m 
+de diámetro.
+4FDDJwO   .FEJDJPOFTEFQSFTJwO
+ 14. La figura P14.14 muestra a Superman intentando beber agua 
+a través de un popote muy largo. Con su gran fuerza logra 
+la máxima succión posible. Las paredes del popote tubular 
+no colapsan. a) Encuentre la máxima altura a la que puede 
+levantar el agua. b) ¿Qué pasaría si? Aún sediento, el hombre  
+de acero repite su intento en la Luna, que no tiene atmósfe-
+ra. Encuentre la diferencia entre los niveles de agua dentro y 
+fuera del popote.
+ 11. Una alberca tiene dimensiones de 30.0 m  10.0 m y un fondo 
+plano. Cuando la alberca está llena a una profundidad de 2.00 
+m con agua potable, ¿cuál es la fuerza causada por el agua 
+sobre el fondo? ¿En cada extremo? ¿En cada lado?
+ 15. 
+; Blaise Pascal duplicó el barómetro de Torricelli usando un 
+vino rojo Bordeaux, de 984 kgm3 de densidad, como el líquido  
+de trabajo (figura P14.15). ¿Cuál fue la altura h de la colum-
+Figura P14.10
+a) b)
+Figura P14.12
+2.00 m
+2.00 m
+1.00 m
+Figura P14.14
+
+410 Capítulo 14  Mecánica de fluidos
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+na de vino para presión atmosférica normal? ¿Esperaría que 
+el vacío sobre la columna sea tan bueno como para el mer-
+curio?
+fluido cerebroespinal, por lo general tienen la misma densidad 
+que el agua. La presión del fluido cerebroespinal se puede 
+medir mediante una sonda espinal, como se ilustra en la figura 
+P14.19. Un tubo hueco se inserta en la columna vertebral y se 
+observa la altura a la que se eleva el fluido. Si el fluido se eleva 
+a una altura de 160 mm, su presión manométrica se escribe 
+como 160 mm H
+2O. a) Exprese esta presión en pascales, en 
+atmósferas y en milímetros de mercurio. b) A veces es necesa-
+rio determinar si una víctima de accidente sufrió una lesión en  
+las vértebras que bloquee el flujo del fluido cerebroespinal  
+en la columna. En otros casos, un médico puede sospechar 
+que un tumor u otro crecimiento bloquea la columna verte-
+bral e inhibe el flujo de fluido cerebroespinal. Tal condición 
+se puede investigar mediante la prueba de Queckenstedt. En este 
+procedimiento, se comprimen las venas en la nuca del pacien-
+te para hacer que la presión sanguínea se eleve en el cerebro. 
+El aumento en presión en los vasos sanguíneos se transmite al 
+fluido cerebroespinal. ¿Cuál debe ser el efecto normal sobre 
+la altura del fluido en la sonda espinal? c) Suponga que com-
+primir las venas no tiene efecto sobre el nivel de fluido. ¿Qué 
+puede explicar este resultado?
+4FDDJwO   'VFS[BTEFGMPUBDJwOZQSJODJQJPEF"SRVrNFEFT
+ 20. a) Un globo ligero se llena con 400 m
+3 de helio. A 0°C, el globo 
+puede levantar una carga, ¿de qué masa? b) ¿Qué pasaría si? 
+En la tabla 14.1, observe que la densidad del hidrógeno es casi 
+la mitad de la densidad del helio. ¿Qué carga puede levantar 
+el globo si se llena con hidrógeno?
+ 21. Una pelota de ping pong tiene un diámetro de 3.80 cm y una 
+densidad promedio de 0.084 0 gcm
+3. ¿Qué fuerza se requiere 
+para mantenerla completamente sumergida bajo el agua?
+ 22. La fuerza gravitacional que se ejerce sobre un objeto sólido 
+es 5.00 N. Cuando el objeto se suspende de una balanza de 
+resorte y se sumerge en agua, la lectura en la balanza es 3.50 
+N (figura P14.22). Encuentre la densidad del objeto.
+ 17. La presión atmosférica normal es de 1.013  10
+5 Pa. La proxi-
+midad de una tormenta hace que la altura de un barómetro de 
+mercurio caiga 20.0 mm de la altura normal. ¿Cuál es la pre-
+sión atmosférica? (La densidad del mercurio es 13.59 gcm
+3.)
+ 18.  Un tanque con un fondo plano de área A y lados verticales se 
+llena con agua con una profundidad h. La presión es 1 atm 
+en la superficie. a) ¿Cuál es la presión absoluta en el fondo 
+del tanque? b) Suponga que un objeto de masa M y densidad 
+menor a la densidad del agua se coloca en el tanque y flota. 
+No se desborda agua. ¿Cuál es el aumento resultante de pre-
+sión en el fondo del tanque? c) Evalúe sus resultados para 
+una alberca con 1.50 m de profundidad y una base circular de  
+6.00 m de diámetro. Dos personas con masa combinada de 150 
+kg entran a la alberca y flotan tranquilamente ahí. Encuen-
+tre la presión absoluta original y el aumento de presión en el 
+fondo de la alberca.
+ 19. 
+; El cerebro humano y la médula espinal están sumergidos en 
+el fluido cerebroespinal. El fluido normalmente es continuo 
+entre las cavidades craneal y espinal y ejerce una presión de 100 
+a 200 mm de H
+2O sobre la presión atmosférica prevaleciente. 
+En el trabajo médico, las presiones usualmente se miden en 
+milímetros de H
+2O porque los fluidos corporales, incluido el 
+ 16.  En un tubo en U se vierte mercurio, como se muestra en la fi-
+gura P14.16a. El brazo izquierdo del tubo tiene área de sección 
+transversal A
+1 de 10.0 cm2, y el brazo derecho tiene un área de 
+sección transversal A2 de 5.00 cm2. A continuación se vierten 
+100 g de agua en el brazo derecho, como se muestra en la fi-
+gura P14.16b. a) Determine la longitud de la columna de agua 
+en el brazo derecho del tubo U. b) Dado que la densidad del 
+mercurio es 13.6 gcm
+3, ¿qué distancia h se eleva el mercurio 
+en el brazo izquierdo?
+Figura P14.15
+P0
+h
+Figura P14.16
+Mercurio
+h
+Agua
+a) b)
+A1 A2 A1 A2
+Figura P14.19
+Figura P14.22 Problemas 22 y 23.
+B
+Balanza
+a)
+T2
+b)
+Mg
+T1
+Mg
+
+Problemas 411
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 23. Un bloque metálico de 10.0 kg que mide 12.0 cm  10.0 cm 
+ 10.0 cm, está suspendido de una balanza y sumergido en 
+agua, como se muestra en la figura P14.22b. La dimensión de 
+12.0 cm es vertical y la parte superior del bloque está 5.00 cm 
+abajo de la superficie del agua. a) ¿Cuáles son las fuerzas que 
+actúan sobre las partes superior e inferior del bloque? (Consi-
+dere P
+0  101.30 kPa.) b) ¿Cuál es la lectura de la balanza de 
+resorte? c) Demuestre que la fuerza de flotación es igual a la 
+diferencia entre las fuerzas sobre las partes superior e inferior 
+del bloque.
+ 24.  ; El peso de un bloque rectangular de material de baja 
+densidad es 15.0 N. Con una cuerda delgada, el centro de 
+la cara inferior horizontal del bloque se amarra al fondo  
+de un vaso de precipitados parcialmente lleno con agua. Cuando  
+25.0% del volumen del bloque está sumergido, la tensión 
+en la cuerda es 10.0 N. a) Bosqueje un diagrama de cuerpo 
+libre para el bloque, que muestre todas las fuerzas que actúan 
+sobre él. b) Encuentre la fuerza de flotación sobre el bloque. 
+c) Ahora al vaso de precipitados se le agrega sin interrupción 
+aceite de 800 kgm
+3 de densidad, lo que forma una capa sobre 
+el agua y rodea al bloque. El aceite ejerce fuerzas sobre cada 
+una de las cuatro paredes laterales del bloque que el aceite 
+toca. ¿Cuáles son las direcciones de dichas fuerzas? d) ¿Qué 
+ocurre a la tensión en la cuerda conforme se agrega el aceite? 
+Explique cómo el aceite tiene este efecto sobre la tensión de 
+la cuerda. e) La cuerda se rompe cuando su tensión alcanza 
+60.0 N. En este momento, 25.0% del volumen del bloque to-
+davía está bajo la línea del agua. ¿Qué fracción adicional del 
+volumen del bloque está por abajo de la superficie superior  
+del aceite? f) Después de que la cuerda se rompe, el bloque 
+llega a una nueva posición de equilibrio en el vaso de precipi-
+tados. Ahora sólo está en contacto con el aceite. ¿Qué fracción 
+del volumen del bloque está sumergida?
+ 25.  En preparación para anclar una boya en el extremo de un 
+área de nado, un trabajador usa una soga para bajar un bloque 
+cúbico de concreto, de 0.250 m de lado, en aguas oceánicas. 
+El bloque baja con una rapidez constante de 1.90 ms. Puede 
+representar con precisión el concreto y el agua como incom-
+presibles. a) ¿En qué proporción aumenta la fuerza que el 
+agua ejerce sobre una cara del bloque? b) ¿En qué proporción 
+aumenta la fuerza de flotación sobre el bloque?
+ 26.  A un orden de magnitud, ¿cuántos globos llenos de helio se 
+requerirían para levantarlo a usted? Ya que el helio es un re-
+curso irremplazable, desarrolle una respuesta teórica en lugar 
+de una respuesta experimental. En su solución, establezca las 
+cantidades físicas que consideró como datos y los valores que 
+midió o estimó para ellas.
+ 27. Un cubo de madera que tiene una dimensión de arista de 
+20.0 cm y una densidad de 650 kgm
+3 flota en el agua. a) ¿Cuál 
+es la distancia desde la superficie horizontal más alta del cubo 
+al nivel del agua? b) ¿Qué masa de plomo se debe colocar 
+sobre el cubo de modo que la parte superior del cubo esté 
+justo a nivel con el agua?
+ 28.  Una bola esférica de aluminio, de 1.26 kg de masa, contiene 
+una cavidad esférica vacía que es concéntrica con la bola. La 
+bola apenas flota en el agua. Calcule a) el radio exterior de  
+la bola y b) el radio de la cavidad.
+ 29.  La determinación de la densidad de un fluido tiene muchas 
+aplicaciones importantes. La batería de un automóvil contiene 
+ácido sulfúrico, para el que la densidad es una medida de con-
+centración; la batería funciona adecuadamente si la densidad 
+está dentro de un intervalo especificado por el fabricante. De 
+igual modo, la efectividad del anticongelante en el refrigerante 
+del motor de su automóvil depende de la densidad de la mez-
+cla (por lo general etilenglicol y agua). Cuando usted dona 
+sangre, su tamizado incluye la determinación de la densidad 
+de la sangre porque mayor densidad se relaciona con mayor 
+contenido de hemoglobina. Un hidrómetro es un instrumento 
+que se usa para determinar la densidad de los líquidos. En la 
+figura P14.29 se muestra uno simple. El bulbo de una jerin-
+ga se presiona y libera para dejar que la atmósfera eleve una  
+muestra del líquido de interés en un tubo que contiene  
+una barra calibrada de densidad conocida. La barra, de longi-
+tud L y densidad promedio S
+0, flota parcialmente sumergida en  
+el fluido de densidad S. Una longitud h de la barra sobresale 
+de la superficie del líquido. Demuestre que la densidad del 
+líquido es
+r r0L
+Lh
+ 30.  ; Remítase al problema 29 y la figura P14.29. Se construirá 
+un hidrómetro con una barra cilíndrica flotante. Se colocarán 
+nueve marcas a lo largo de la barra para indicar densidades 
+que tengan valores de 0.98 gcm
+3, 1.00 gcm3, 1.02 gcm3, 1.04 
+gcm3, . . ., 1.14 gcm 3. La hilera de marcas comenzará 0.200 
+cm desde el extremo superior de la barra y terminará 1.80 cm 
+desde el extremo superior. a) ¿Cuál es la longitud requerida 
+de la barra? b) ¿Cuál debe ser su densidad promedio? c) ¿Las 
+marcas deben estar igualmente espaciadas? Explique su res-
+puesta.
+ 31.  ¿Cuántos metros cúbicos de helio se requieren para levantar 
+un globo con una carga de 400 kg a una altura de 8 000 m? 
+(Considere S
+He  0.180 kg m3.) Suponga que el globo man-
+tiene un volumen constante y la densidad del aire disminuye 
+con la altura z de acuerdo con la expresión S
+aire  S0ez8 000, 
+donde z está en metros y S0  1.25 kg m3 es la densidad del 
+aire a nivel del mar.
+ 32. Se usa una batisfera para exploración profunda del mar tiene 
+un radio de 1.50 m y una masa de 1.20  10
+4 kg. Para bucear, 
+este submarino toma una masa consistente de agua de mar. 
+Determine la cantidad de masa que debe tomar el submari-
+no si debe descender con una rapidez constante de 1.20 ms, 
+cuando la fuerza resistiva es de 1 100 N en la dirección hacia 
+arriba. La densidad del agua de mar es 1.03  10
+3 kgm3.
+ 33. Una esfera plástica flota en agua con 50.0% de su volumen su-
+mergido. Esta misma esfera flota en glicerina con 40.0% de su 
+volumen sumergido. Determine las densidades de la glicerina 
+y la esfera.
+Figura P14.29 Problemas 29 y 30.
+96
+98
+102
+104
+100
+96
+98
+100
+102
+104L
+h
+
+412 Capítulo 14  Mecánica de fluidos
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 34. Estados Unidos posee las ocho naves de guerra más grandes 
+del mundo, portaaviones de la clase Nimitz, y construye dos 
+más. Suponga que una de las naves se balancea para flotar 
+11.0 cm más alto en el agua cuando 50 aviones de combate 
+despegan de ella en 25 minutos, en una posición donde la 
+aceleración en caída libre es 9.78 ms
+2. Provistos de bombas y 
+misiles, los aviones tienen una masa promedio de 29 000 kg. 
+Encuentre el área horizontal encerrada por la línea de flora-
+ción de la embarcación de $4 000 millones. Por comparación, 
+sus plataformas de despegue tienen área de 18  000 m
+2. Bajo 
+las cubiertas hay pasadizos de cientos de metros de largo, tan 
+estrechos que dos hombres grandes no pueden pasar al mismo 
+tiempo.
+4FDDJwO   %JOgNJDBEFGMVJEPT
+4FDDJwO   &DVBDJwOEF#FSOPVMMJ
+ 35. Un gran tanque de almacenamiento, abierto en la parte su-
+perior y lleno con agua, en su costado en un punto a 16 m 
+abajo del nivel de agua se elabora un orificio pequeño. La 
+relación de flujo a causa de la fuga es de 2.50  10
+3 m3min. 
+Determine a) la rapidez a la que el agua sale del orificio y b) 
+el diámetro del orificio.
+ 36.  Una villa mantiene un gran tanque con la parte superior abier-
+ta, que contiene agua para emergencias. El agua puede drenar 
+del tanque a través de una manguera de 6.60 cm de diámetro. 
+La manguera termina con una boquilla de 2.20 cm de diáme-
+tro. En la boquilla se inserta un tapón de goma. El nivel del 
+agua en el tanque se mantiene a 7.50 m sobre la boquilla. a) 
+Calcule la fuerza de fricción que la boquilla ejerce sobre el 
+tapón. b) Se quita el tapón. ¿Qué masa de agua fluye de la 
+boquilla en 2.00 h? c) Calcule la presión manométrica del agua 
+que circula en la manguera justo detrás de la boquilla.
+ 37. A través de una manguera contra incendios de 6.35 cm de diá-
+metro circula agua a una relación de 0.012 0 m
+3s. La mangue-
+ra termina en una boquilla de 2.20 cm de diámetro interior. 
+¿Cuál es la rapidez con la que el agua sale de la boquilla?
+ 38. A través de una tubería constreñida se mueve agua en flujo 
+ideal estable. En un punto, como se muestra en la figura 14.16, 
+donde la presión es 2.50  10
+4 Pa, el diámetro es de 8.00 cm. 
+En otro punto 0.500 m más alto, la presión es igual a 1.50  
+104 Pa y el diámetro es de 4.00 cm. Encuentre la rapidez del 
+flujo a) en la sección inferior y b) en la sección superior. c) En-
+cuentre la relación de flujo de volumen a través de la tubería.
+ 39.  La figura P14.39 muestra una corriente de agua en flujo es-
+table desde el grifo de una cocina. En el grifo, el diámetro 
+de la corriente es de 0.960 cm. La corriente llena un con-
+tenedor de 125 cm
+3 en 16.3 s. Encuentre el diámetro de  
+la corriente 13.0 cm abajo de la abertura del grifo.
+ 40.  Sobre un dique de altura h cae agua con una relación de flujo 
+de masa R, en unidades de kilogramos por segundo. a) De-
+muestre que la potencia disponible a causa del agua es
+  Rgh
+  donde g es la aceleración en caída libre. b) Cada unidad  
+hidroeléctrica en el dique Grand Coulee toma agua en una 
+tasa de 8.50  10
+5 kgs desde una altura de 87.0 m. La poten- 
+cia desarrollada por la caída de agua se convierte en energía 
+eléctrica con una eficiencia del 85.0%. ¿Cuánta energía eléc-
+trica produce cada unidad hidroeléctrica?
+ 41.  Un legendario niño holandés salvó a Holanda al poner su dedo 
+en un hoyo de 1.20 cm de diámetro en un dique. Si el hoyo 
+estaba 2.00 m bajo la superficie del Mar del Norte (densidad  
+1 030 kgm
+3), a) ¿cuál fue la fuerza sobre su dedo? b) Si él hu-
+biera sacado el dedo del hoyo, ¿durante qué intervalo de tiem-
+po, el agua liberada llenaría 1 acre de tierra a una profundidad 
+de 1 ft? Suponga que el hoyo mantuvo constante su tamaño. 
+(Una típica familia estadounidense de cuatro miembros usa  
+1 acre–pie de agua, 1 234 m
+3, en 1 año.)
+ 42.  ; En flujo ideal, un líquido de 850 kgm3 de densidad se mueve 
+desde un tubo horizontal de 1.00 cm de radio a un segundo 
+tubo horizontal de 0.500 cm de radio. Entre los tubos existe 
+una diferencia de presión $P. a) Encuentre la relación de flujo 
+volumétrico como función de $P. Evalúe la relación de  
+flujo volumétrico b) para $P  6.00 kPa y c) para $P  12.0 
+kPa. d) Establezca cómo depende la relación de flujo volumé-
+trico con $P.
+ 43.  Desde el Río Colorado se bombea agua para suministrar a 
+Grand Canyon Village, ubicada a la orilla del cañón. El río 
+está a una elevación de 564 m y la villa está a una elevación de 
+2 096 m. Imagine que el agua se bombea a través de una larga 
+tubería de 15.0 cm de diámetro, impulsada por una bomba en 
+el extremo inferior. a) ¿Cuál es la presión mínima a la que el 
+agua debe bombearse si ha de llegar a la villa? b) Si 4 500 m
+3 
+de agua se bombean por día, ¿cuál es la rapidez del agua en la 
+tubería? c) ¿Qué presión adicional es necesaria para impulsar 
+este flujo? Nota: Suponga que la aceleración en caída libre y la 
+densidad del aire son constantes en este intervalo de elevacio-
+nes. Las presiones que calcule son muy altas para una tubería 
+ordinaria. En realidad el agua se eleva en etapas mediante 
+varias bombas a través de tuberías cortas.
+ 44.  ; El géiser Old Faithful en el parque nacional Yellowstone 
+erupta a intervalos aproximados de 1 hora, y la altura de la co-
+lumna de agua alcanza 40.0 m (figura P14.44). a) Represente 
+la corriente que se eleva como una serie de gotas separadas. 
+Analice el movimiento en caída libre de una de las gotas para 
+determinar la rapidez a la que el agua deja el suelo. b) ¿Qué 
+pasaría si? Represente la corriente que se eleva como un fluido 
+ideal en un flujo de líneas de corriente. Use la ecuación de 
+Figura P14.39 Figura P14.44
+Stan Osolinsky/Dembinsky Photo Associates
+George Semple
+
+Problemas 413
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+Bernoulli para determinar la rapidez del agua mientras deja el 
+nivel del suelo. c) ¿De qué modo se compara la respuesta del 
+inciso a) con la respuesta del inciso b)? d) ¿Cuál es la presión 
+(sobre la atmosférica) en la cámara subterránea caliente si su 
+profundidad es de 175 m? Suponga que la cámara es grande 
+en comparación con la boca del géiser.
+ 45. Un tubo Venturi se puede usar como un medidor de flujo 
+(véase la figura 14.19). Al tomar la diferencia en presión como 
+P
+1  P2  21.0 kPa, encuentre la relación de flujo de fluido 
+en metros cúbicos por segundo, dado que el radio del tubo de 
+salida es de 1.00 cm, el radio del tubo de entrada es 2.00 cm y 
+el fluido es gasolina (S  700 kgm
+3).
+4FDDJwO0USBTBQMJDBDJPOFTEFMBEJOgNJDBEFGMVJEPT
+ 46. Un avión tiene una masa de 1.60  104 kg y cada ala tiene un 
+área de 40.0 m2. Durante vuelo a nivel, la presión sobre la su-
+perficie inferior del ala es 7.00  104 Pa. Determine la presión 
+sobre la superficie superior del ala.
+ 47.  Un sifón de diámetro uniforme se usa para drenar agua de 
+un tanque, como se ilustra en la figura P14.47. Suponga flujo 
+estable sin fricción. a) Si h  1.00 m, encuentre la rapidez del 
+flujo de salida en el extremo del sifón. b) ¿Qué pasaría si?  
+¿Cuál es la limitación en la altura de la parte superior del sifón 
+sobre la superficie del agua? (Para que el flujo del líquido sea 
+continuo, la presión no debe caer abajo de la presión de vapor 
+del líquido.)
+todas partes es 1 atm. Una fuerza 
+F
+S
+ de 2.00 N de magnitud 
+actúa sobre el émbolo, lo que hace que la medicina salpique 
+horizontalmente desde la aguja. Determine la rapidez del me-
+dicamento mientras sale de la punta de la aguja.
+ 50.  El efecto Bernoulli tiene importantes consecuencias para el 
+diseño de edificios. Por ejemplo, el viento puede soplar alre-
+dedor de un rascacielos con una rapidez notablemente alta, 
+lo que crea baja presión. La mayor presión atmosférica en aire 
+tranquilo dentro del edificio puede hacer que las ventanas 
+revienten. Como se construyó originalmente, al edificio John 
+Hancock en Boston se le reventaron varias ventanas que caye-
+ron desde muchos pisos a la acera. a) Suponga que sopla un 
+viento horizontal con una rapidez de 11.2 m s afuera de un 
+gran panel de placa de vidrio con dimensiones de 4.00 m  
+1.50 m. Suponga que la densidad del aire es de 1.30 kgm
+3. El 
+aire adentro del edificio está a presión atmosférica. ¿Cuál es la 
+fuerza total que el aire ejerce sobre la ventana? b) ¿Qué pasaría 
+si? Si un segundo rascacielos se construye cerca, la rapidez del 
+aire puede ser especialmente alta donde el viento pasa a través 
+de la estrecha separación entre los edificios. Resuelva de nuevo 
+el inciso a) con una rapidez de viento de 22.4 ms, el doble de 
+violento.
+1SPCMFNBTBEJDJPOBMFT
+ 51.  Un globo lleno con helio se amarra a una cuerda uniforme de 
+2.00 m de largo y 0.050 0 kg. El globo es esférico, con un radio 
+de 0.400 m. Cuando se libera, eleva una longitud h de cuerda 
+y luego permanece en equilibrio como se muestra en la figura 
+P14.51. Determine el valor de h. La cubierta del globo tiene 
+una masa de 0.250 kg.
+ 52.  La figura P14.52 muestra un tanque de agua con una válvula 
+en el fondo. Si esta válvula se abre, ¿cuál es la altura máxima 
+que logra la corriente de agua que sale del lado derecho del 
+tanque? Suponga h  10.0 m, L  2.00 m y V  30.0°, y supon-
+ga que el área de sección transversal A es muy grande compa-
+rada con la de B.
+ 48. Un avión cruza a una altura de 10 km. La presión afuera de la 
+cabina es 0.287 atm; dentro del compartimiento de pasajeros, 
+la presión es de 1.00 atm y la temperatura es de 20°C. En el 
+sello de una de las ventanas del compartimiento de pasajeros 
+ocurre una pequeña fuga. Represente el aire como un fluido 
+ideal para encontrar la rapidez de la corriente del aire que 
+circula a través de la fuga.
+ 49.  Una jeringa hipodérmica contiene un medicamento que tiene 
+la densidad del agua (figura P14.49). El barril de la jeringa 
+tiene un área de sección transversal A  2.50  10
+5 m2 y la 
+aguja tiene un área de sección transversal a  1.00  10 8 
+m2. En ausencia de una fuerza sobre el émbolo, la presión en 
+Figura P14.47
+Figura P14.51
+Figura P14.49 Figura P14.52
+A
+h
+Válvula L B
+V
+A
+a
+F v
+He
+h
+vh
+y
+R
+
+414 Capítulo 14  Mecánica de fluidos
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 53.  El peso verdadero de un objeto se puede medir en un vacío, 
+donde las fuerzas de flotación están ausentes. Un objeto de 
+volumen V se pesa en aire sobre una balanza de brazos igua-
+les, con el uso de contrapesos de densidad S. Al representar 
+la densidad del aire como S
+aire y la lectura de la balanza como  
+F g, demuestre que el verdadero peso Fg es
+Fg F ¿g a V
+F ¿g
+rg b raireg
+ 54.  El agua se fuerza hacia afuera de un extintor de incendios 
+mediante presión de aire, como se muestra en la figura P14.54. 
+¿Cuánta presión manométrica con aire en el tanque (sobre 
+la atmosférica) se requiere para que el chorro de agua tenga 
+una rapidez de 30.0 ms cuando el nivel del agua está 0.500 m 
+abajo de la boquilla?
+que el líquido ejerce una pequeña fuerza de fricción sobre 
+la bola, opuesta en dirección a su movimiento. En este caso, 
+¿de qué forma se comparan los intervalos de tiempo $t
+abajo y 
+$tarriba? Explique su respuesta con un argumento conceptual 
+en lugar de un cálculo numérico.
+ 57.  ; Mientras flota un helicóptero de 950 kg, su rotor horizon-
+tal empuja una columna de aire hacia abajo a 40.0 m s. ¿Qué 
+puede decir acerca de la cantidad de este aire? Explique su 
+respuesta. Puede representar el movimiento del aire como 
+flujo ideal.
+ 58.  Evangelista Torricelli fue la primera persona en darse cuenta 
+de que los seres humanos viven en el fondo de un océano de 
+aire. Él conjeturó correctamente que la presión de la atmósfe-
+ra es atribuible al peso del aire. La densidad del aire a 0°C en 
+la superficie de la Tierra es 1.29 kgm
+3. La densidad disminuye 
+con la altura creciente (a medida que la atmósfera se adelga-
+za). Por otra parte, si se supone que la densidad es constante a 
+1.29 kgm
+3 hasta cierta altura h y es cero sobre dicha altura, en 
+tal caso h representaría la profundidad del océano de aire. Use 
+este modelo para determinar el valor de h que da una presión 
+de 1.00 atm en la superficie de la Tierra. ¿La cima del monte 
+Everest se elevaría sobre la superficie de tal atmósfera?
+ 59.  Problema de repaso. Con referencia a la figura 14.5, demues-
+tre que el momento de torsión total que el agua ejerce detrás 
+del dique respecto a un eje horizontal a través de O es 
+1
+6 SgwH 3. 
+Demuestre que la línea de acción efectiva de la fuerza total que 
+el agua ejerce está a una distancia 
+1
+3H sobre O.
+ 60. Aproximadamente en 1657, Otto von Guericke, inventor de 
+la bomba de aire, evacuó una esfera hecha de dos hemisferios 
+de latón. Dos equipos de ocho caballos cada uno podía sepa-
+rar los hemisferios sólo después de algunos intentos y “con 
+grandes dificultades”, con un sonido resultante parecido a un 
+disparo de cañón (figura P14.60). a) Demuestre que la fuerza F 
+Figura P14.60 El grabado coloreado, que data de 1672, ilustra  
+la demostración de Otto von Guericke de la fuerza debida a la  
+presión del aire, como se pudo haber realizado ante el emperador 
+Fernando III.
+ 56.  ; No se puede llamar Flubber. Suponga que cierto líquido, con 
+densidad de 1 230 kg m3, no ejerce fuerza de fricción sobre 
+objetos esféricos. Una bola de 2.10 kg de masa y 9.00 cm de 
+radio se deja caer desde el reposo en un tanque profundo  
+de este líquido desde una altura de 3.30 m sobre la superfi-
+cie. a) Encuentre la rapidez con que entra la bola al líquido.  
+b) ¿Cuáles son las dos fuerzas que se ejercen sobre la bola 
+mientras se mueve a través del líquido? c) Explique por qué 
+la bola se mueve hacia abajo sólo una distancia limitada en el 
+líquido y calcule esta distancia. d) ¿Con qué rapidez la bola 
+aparece fuera del líquido? e) ¿De qué modo se compara el in-
+tervalo de tiempo $t
+abajo, durante el que la bola se mueve desde 
+la superficie hasta su punto más bajo, con el intervalo de tiem-
+po $t
+arriba para el viaje de regreso entre los mismos dos puntos? 
+f) ¿Qué pasaría si? Ahora modifique el modelo para suponer 
+Figura P14.54
+ 55.  Un resorte ligero de constante k  90.0 Nm se une vertical-
+mente a una mesa (figura P14.55a). Un globo de 2.00 g se 
+llena con helio (densidad  0.180 kg m
+3) a un volumen de 
+5.00 m3 y después se conecta al resorte, lo que hace que el re-
+sorte se estire como se muestra en la figura P14.55b. Determine 
+la distancia de extensión L cuando el globo está en equilibrio.
+0.500 m
+v
+Figura P14.55
+kk
+a) b)
+L
+RF
+P
+F
+P0
+The Granger Collection
+
+Problemas 415
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 68.  El suministro de agua de un edificio se alimenta a través de una 
+tubería principal de 6.00 cm de diámetro. Se observa que un 
+grifo de 2.00 cm de diámetro llena un contenedor de 25.0 L 
+en 30.0 s. a) ¿Cuál es la rapidez a la que el agua sale del grifo? 
+b) ¿Cuál es la presión manométrica en la tubería principal de  
+6 cm? (Suponga que el grifo es la única “fuga” en el edificio.)
+ 69.  Un tubo en U, abierto en ambos extremos, está parcialmente 
+lleno con agua (figura P14.69a). A continuación, en el brazo 
+derecho, se vierte aceite que tiene una densidad de 750 kgm
+3 
+y forma una columna de L  5.00 cm de alto (figura P14.69b). 
+a) Determine la diferencia h en las alturas de las dos superficies  
+de los líquidos. b) Luego el brazo derecho se cubre de cual-
+quier movimiento del aire mientras el aire sopla a través de 
+la parte superior del brazo izquierdo hasta que las superficies 
+de los dos líquidos están a la misma altura (figura P14.69c). 
+Determine la rapidez del aire que se sopla a través del brazo 
+izquierdo. Considere que la densidad del aire es 1.29 kgm
+3.
+superficie del agua hasta que la superficie superior del alco-
+hol coincide con la superficie superior del cubo de hielo (en 
+equilibrio hidrostático). ¿Qué espesor de capa se requiere de 
+alcohol etílico?
+ 67.  Un fluido no viscoso incompresible inicialmente en reposo 
+en la porción vertical de la tubería que se muestra en la figura 
+P14.67a, donde L  2.00 m. Cuando la válvula se abre, el fluido 
+circula a la sección horizontal de la tubería. ¿Cuál es la rapidez 
+del fluido cuando está por completo en la sección horizontal, 
+como se muestra en la figura P14.67b? Suponga que el área de 
+sección transversal de toda la tubería es constante.
+requerida para separar los hemisferios vacíos de pared delgada 
+es QR 
+2(P0  P), donde R es el radio de los hemisferios y P es la 
+presión dentro de los hemisferios, que es mucho menor que 
+P
+0. b) Determine la fuerza para P  0.100P0 y R  0.300 m.
+ 61.  Un vaso de precipitados de 1.00 kg que contiene 2.00 kg de 
+aceite (densidad  916.0 kgm
+3) descansa sobre una báscula. 
+Un bloque de hierro de 2.00 kg, suspendido de una balanza 
+de resorte, se sumerge completamente en el aceite, como se 
+muestra en la figura P14.61. Determine las lecturas de equili-
+brio de ambas básculas.
+  
+  Figura P14.61 Problemas 61 y 62.
+ 62.  Un vaso de precipitados de masa mv, que contiene aceite de 
+masa ma y densidad Sa, descansa sobre una báscula. Un bloque 
+de hierro de masa mFe, suspendido de una balanza de resorte, 
+se sumerge completamente en el aceite, como se muestra en 
+la figura P14.61. Determine las lecturas de equilibrio de ambas 
+básculas.
+ 63.  En 1983 Estados Unidos comenzó a acuñar la moneda de cen-
+tavo a partir de zinc revestido de cobre en lugar de cobre puro. 
+La masa del antiguo penique de cobre es de 3.083 g y el del 
+nuevo centavo es de 2.517 g. Calcule el porcentaje de zinc 
+(por volumen) en el nuevo centavo. La densidad del cobre es 
+8.960 gcm
+3 y la del zinc es 7.133 gcm3. Las monedas nueva y 
+antigua tienen el mismo volumen.
+ 64.  Demuestre que la variación de presión atmosférica con la alti-
+tud está dada por P  P
+0eBy, donde B  S0gP0, P0 es la presión 
+atmosférica en algún nivel de referencia y  0 y S0 es la densi-
+dad atmosférica a este nivel. Suponga que la disminución en 
+presión atmosférica sobre un cambio infinitesimal en altura 
+(de modo que la densidad es aproximadamente uniforme) 
+está dada por dP  Sg dy y que la densidad del aire es pro-
+porcional a la presión.
+ 65.  Problema de repaso. Un disco uniforme de 10.0 kg de masa y 
+0.250 m de radio gira a 300 revmin en un eje de baja fricción. 
+Se debe detener en 1.00 min mediante un freno que hace 
+contacto con el disco a una distancia promedio de 0.220 m  
+del eje. El coeficiente de fricción entre el freno y el disco es 
+0.500. Un pistón en un cilindro de 5.00 cm de diámetro pre-
+siona el freno contra el disco. Encuentre la presión requerida 
+para el fluido de frenos en el cilindro.
+ 66.
+  Un cubo de hielo, cuyos bordes miden 20.0 mm, flota en un 
+vaso con agua fría, y una de las caras del cubo de hielo es 
+paralela a la superficie del agua. a) ¿A qué distancia bajo la 
+superficie del agua está la cara inferior del cubo de hielo?  
+b) Alcohol etílico frío se vierte suavemente sobre la superficie 
+del agua para formar una capa de 5.00 mm de grosor sobre 
+el agua. El alcohol no se mezcla con el agua. Cuando el cubo 
+de hielo de nuevo logra el equilibrio hidrostático, ¿cuál es la 
+distancia desde la parte superior del agua a la cara inferior 
+del bloque? c) Se vierte alcohol etílico frío adicional en la 
+Figura P14.67
+Figura P14.69
+ 70.  Una mujer drena el agua de su pecera mediante un sifón que 
+va hacia un drenaje exterior, como se muestra en la figura 
+P14.70 (página 416). El tanque rectangular tiene área de plan-
+ta A y profundidad h. El drenaje se ubica a un distancia d bajo 
+la superficie del agua en el tanque, donde d  h. El área 
+de sección transversal del tubo del sifón es A. Repressente el 
+P0
+Agua
+a) b) c)
+h
+L
+Aceite
+L
+v Protección
+Válvula
+cerrada
+Válvula
+abierta
+a)
+LL
+L
+b)
+v
+
+416 Capítulo 14  Mecánica de fluidos
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+de ala de avión. Su área proyectada sobre una superficie hori-
+zontal es A. Cuando el bote se remolca con una rapidez lo su-
+ficientemente alta, el agua se mueve en flujo laminar de modo 
+que su rapidez de densidad S promedio en la parte superior 
+del aereodeslizador es n veces mayor que su rapidez v
+b bajo el 
+aereodeslizador. a) Si ignora la fuerza de flotación, demuestre 
+que la fuerza de sustentación hacia arriba que el agua ejerce 
+sobre el aereodeslizador tiene una magnitud
+F 1
+2 1n2 12rvb 2A
+  b) El bote tiene masa M. Demuestre que la rapidez de despe-
+gue es
+v
+2Mg
+1n2 12Ar
+  c) Suponga que un bote de 800 kg despegará a 9.50 m s. Eva-
+lúe el área A requerida para la hidroala si su diseño admite n 
+ 1.05.
+agua como flujo sin fricción. a) Demuestre que el intervalo de 
+tiempo requerido para vaciar el tanque es
+¢t Ah
+A¿ 2gd
+  b) Evalúe el intervalo de tiempo requerido para vaciar el tan-
+que si éste es un cubo de 0.500 m por lado, A  2.00 cm 2 y  
+d  10.0 m.
+14.1 a). Ya que el peso del jugador de básquetbol se distribuye 
+sobre el área superficial más grande del zapato, la presión 
+(FA) que él aplica es relativamente pequeña. El menor peso 
+de la mujer se distribuye sobre la muy pequeña área transver-
+sal del tacón de aguja, así que la presión es grande.
+14.2 a). Ya que ambos fluidos tienen la misma profundidad, el que 
+tiene menor densidad (alcohol) ejercerá menor presión.
+14.3 c). Todos los barómetros tendrán la misma presión en el 
+fondo de la columna de fluido: presión atmosférica. Por lo 
+tanto, el barómetro con la columna más alta será aquel con 
+el fluido de densidad más baja.
+14.4 b) o c). En los tres casos el peso del cofre del tesoro causa 
+una fuerza hacia abajo sobre la balsa que hace que ésta se 
+hunda en el agua. Sin embargo, en b) y c), el cofre del tesoro 
+también desplaza agua, que proporciona una fuerza de flota-
+ción en la dirección hacia arriba, lo que reduce el efecto del 
+peso del cofre.
+14.5 a). El aire a alta rapidez entre los globos resulta en baja pre-
+sión en esta región. La mayor presión sobre las superficies 
+exteriores de los globos los empuja uno hacia otro.
+ 71.  El casco de un bote experimental se levantará sobre el agua 
+mediante un aereodeslizador montado bajo su quilla, como 
+se muestra en la figura P14.71. El aereodeslizador tiene forma 
+Figura P14.70
+h
+d
+Figura P14.71
+Respuestas a las preguntas rápidas
+
+Esta nueva parte del texto inicia con el estu- 
+dio del movimiento periódico, una clase especial 
+de movimiento llamado movimiento periódico, el 
+movimiento repetitivo de un objeto en el que éste 
+permanece para regresar a una posición conocida 
+después de un intervalo de tiempo fijo. El movimiento 
+repetitivo de tal objeto se llama oscilación. La atención 
+se concentrará a un caso especial de movimiento pe-
+riódico, llamado movimiento armónico simple . Todos 
+los movimientos periódicos se representan como 
+combinaciones de movimientos armónicos simples.
+El movimiento armónico simple también forma la base para comprender las ondas mecánicas. Las ondas 
+sonoras, las ondas sísmicas, las ondas sobre cuerdas estiradas y las ondas en el agua son producidas por 
+alguna fuente de oscilación. A medida que una onda sonora viaja a través del aire, elementos del aire osci-
+lan de atrás para adelante; conforme una onda en el agua viaja a través de un estanque, los elementos del 
+agua oscilan arriba y abajo y en retroceso y hacia adelante. El movimiento de los elementos conduce a una 
+marcada similitud con el movimiento periódico de un péndulo oscilante o un objeto unido a un resorte.
+Para explicar muchos otros fenómenos en la naturaleza, se deben comprender los conceptos de oscila-
+ciones y ondas. Por ejemplo, aunque los rascacielos y puentes parecen rígidos, en realidad oscilan, algo que 
+deben tomar en consideración los arquitectos e ingenieros que los diseñan y construyen. Para entender 
+cómo funcionan la radio y la televisión, debe comprender el origen y naturaleza de las ondas electromag-
+néticas y cómo se propagan a través del espacio. Por último, mucho de lo que han aprendido los científicos 
+acerca de la estructura atómica viene de información aportada por las ondas. En consecuencia, primero debe 
+estudiar las oscilaciones y las ondas si quiere comprender los conceptos y teorías de la física atómica.
+Oscilaciones 
+y ondas  
+mecánicas
+PARTE  2
+Gotas de agua caen de una hoja a un estanque. La perturbación provocada 
+por el agua que cae hace que la superficie del agua oscile. Dichas 
+oscilaciones se asocian con ondas que se mueven alejándose del punto 
+donde cayó la gota de agua. En la parte 2 del texto se explorarán los 
+principios relacionados con las oscilaciones y las ondas. (Don Bonsey/Getty 
+Images)
+
+En el movimiento periódico  el objeto regresa regularmente a una posición conocida  des-
+pués de un intervalo de tiempo fijo. Al reflexionar es posible identificar muchas clases de 
+movimiento periódico en la vida cotidiana. Su automóvil regresa al camino cada tarde. 
+Usted regresa a la mesa del comedor cada noche para cenar. Si empuja un candelabro lo 
+balancea de atrás para adelante, y regresa a la misma posición con una rapidez uniforme. 
+La Tierra regresa a la misma posición en su órbita alrededor del Sol cada año, lo que 
+resulta en la variación entre las cuatro estaciones.
+Además de estos ejemplos cotidianos, muchos otros sistemas exhiben movimiento pe-
+riódico. Las moléculas en un sólido oscilan en torno a sus posiciones de equilibrio; las 
+ondas electromagnéticas, como las ondas de luz, radar y ondas de radio, se caracterizan 
+por vectores de campos eléctrico y magnético oscilatorios; y los circuitos eléctricos de co-
+rriente alterna, voltaje, corriente y carga eléctrica varían periódicamente con el tiempo.
+Una clase especial de movimiento periódico se presenta en sistemas mecánicos cuando 
+la fuerza que actúa en un objeto es proporcional a la posición del objeto relativo con algu-
+na posición de equilibrio. Si esta fuerza siempre se dirige hacia la posición de equilibrio, 
+el movimiento se llama movimiento armónico simple, que es el punto central de interés de 
+este capítulo.
+En los edificios altos para reducir el bamboleo debido al viento, se colocan 
+amortiguadores ajustados a resonancia cerca de lo alto del edificio. Estos 
+mecanismos incluyen un objeto de gran masa que oscila bajo control de 
+computadora con la misma frecuencia que los edificios, lo que reduce 
+el bamboleo. La gran esfera, en la fotografía de la izquierda, es parte del 
+sistema amortiguador ajustado a resonancia del edificio, en la fotografía 
+de la derecha, llamado Taipei 101, en Taiwán. El edificio, también llamado 
+Taipei Financial Center, se concluyó en 2004, año en el que tenía el récord 
+como el edificio más alto del mundo (izquierda, Cortesía de Motioneering, 
+Inc.; derecha, © Simon Kwang/Reuters/CORBIS).
+15.1  Movimiento de un 
+objeto unido a un 
+resorte
+15.2  Partícula en 
+movimiento armónico 
+simple
+15.3  Energía del oscilador 
+armónico simple
+15.4  Comparación de 
+movimiento armónico 
+simple con movimiento 
+circular uniforme
+15.5  El péndulo
+15.6  Oscilaciones 
+amortiguadas
+15.7  Oscilaciones forzadas
+418
+15 Movimiento oscilatorio
+
+15.1  Movimiento de un objeto unido 
+a un resorte
+Como un modelo de movimiento armónico simple considere un bloque de masa m unido 
+al extremo de un resorte, con el bloque libre de moverse sobre una superficie horizontal 
+sin fricción (figura 15.1). Cuando el resorte no está estirado ni comprimido, el bloque 
+queda en reposo, en la posición llamada posición de equilibrio del sistema, que se identi-
+fica como x  0. Se sabe por la experiencia que tal sistema oscila de atrás para adelante si 
+se perturba desde su posición de equilibrio.
+Se puede entender cualitativamente el movimiento oscilatorio del bloque en la figura 
+15.1 al recordar primero que, cuando el bloque se desplaza a una posición x, el resorte 
+ejerce sobre el bloque una fuerza que es proporcional a la posición y se conoce por la ley 
+de Hooke (véase la sección 7.4):
+ F
+s  kx (15.1)
+A Fs se le llama fuerza restauradora porque siempre se dirige hacia la posición de equi-
+librio y, en consecuencia, es opuesta  al desplazamiento del bloque desde el equilibrio.  
+Es decir, cuando el bloque se desplaza hacia la derecha de x  0 en la figura  15.1a, la 
+posición es positiva y la fuerza restauradora se dirige hacia la izquierda. La figura 15.1b 
+muestra al bloque en x  0, donde la fuerza en el bloque es cero. Cuando el bloque se 
+desplaza a la izquierda de x  0, como en la figura 15.1c, la posición es negativa y la fuerza 
+restauradora se dirige hacia la derecha.
+Al aplicar la segunda ley de Newton al movimiento del bloque, con la ecuación 15.1 
+que proporciona la fuerza neta en la dirección x, se obtiene
+  ax
+k
+m x
+ kx ma x
+ (15.2)
+Es decir, la aceleración del bloque es proporcional a su posición, y la dirección de la 
+aceleración es opuesta a la dirección del desplazamiento del bloque desde el equilibrio. 
+Se dice que los sistemas que se comportan de esta forma exhiben movimiento armónico 
+simple. Un objeto se mueve con movimiento armónico simple siempre que su aceleración 
+es proporcional a su posición y se dirige en sentido opuesto al desplazamiento desde el 
+equilibrio.
+Si el bloque en la figura 15.1 se desplaza a una posición x  A y se libera desde el re-
+poso, su aceleración inicial es kA/m. Cuando el bloque pasa a través de la posición de 
+equilibrio x  0, su aceleración es cero. En este instante, su rapidez es un máximo porque 
+la aceleración cambia de signo. Por lo tanto el bloque continúa viajando hacia la izquierda 
+del equilibrio con una aceleración positiva y al final llega a x  A, momento en el que su 
+aceleración es kA/m y su rapidez de nuevo es cero, como se explicó en las secciones 7.4 
+y 7.9. El bloque termina un ciclo completo de su movimiento cuando regresa a la posición 
+original y una vez más pasa por x  0 con rapidez máxima. En consecuencia, el bloque 
+ Sección 15.1  Movimiento de un objeto unido a un resorte  419
+1 Ley de Hooke
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 15.1
+La orientación del resorte
+La figura 15.1 muestra un 
+resorte horizontal, con un bloque 
+unido que se desliza sobre una 
+superficie sin fricción. Otra 
+posibilidad es un bloque que 
+cuelga de un resorte vertical. 
+Todos los resultados que 
+se explican para el resorte 
+horizontal son los mismos para 
+el resorte vertical, con una 
+excepción: cuando el bloque 
+se coloca en el resorte vertical, 
+su peso hace que el resorte 
+se extienda. Si la posición de 
+reposo del bloque se define 
+como x  0, los resultados de 
+este capítulo también se aplican 
+a este sistema vertical.
+Figura 15.1 Un bloque unido a un resorte móvil sobre 
+una superficie sin fricción. a) Cuando el bloque se 
+desplaza hacia la derecha del equilibrio (x  0), la fuerza 
+que ejerce el resorte actúa hacia la izquierda. b) Cuando 
+el bloque está en su posición de equilibrio (x  0), la 
+fuerza que ejerce el resorte es cero. c) Cuando el bloque 
+se desplaza hacia la izquierda del equilibrio (x  0), la 
+fuerza que ejerce el resorte actúa hacia la derecha.
+Fs
+Fs
+m
+a)
+x
+x = 0
+x
+b)
+x
+x = 0
+Fs = 0
+c)
+x
+x = 0
+x
+m
+m
+
+420

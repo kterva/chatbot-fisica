@@ -1,0 +1,2040 @@
+Tema: Ondas sonoras (Capítulo 17 — Física para Ciencias e Ingeniería, Serway)
+
+Capítulo 17  Ondas sonoras
+17.2 Ondas sonoras periódicas
+Uno puede producir una onda sonora periódica unidimensional en un tubo largo delgado 
+que contenga un gas, mediante un pistón en oscilación en un extremo, como se muestra 
+en la figura 17.2. Las partes más oscuras de las áreas coloreadas en esta figura representan 
+regiones en las que el gas está comprimido y la densidad y presión están por arriba de sus 
+valores de equilibrio. Una región comprimida se forma siempre que el pistón se empuje 
+en el tubo. Esta región comprimida, llamada compresión, se mueve a través del tubo, y 
+comprime continuamente la región justo enfrente de ella misma. Cuando el pistón se jala 
+hacia atrás, el gas enfrente de él se expande y la presión y la densidad en esta región caen 
+por abajo de sus valores de equilibrio (representada por las partes más claras de las áreas 
+coloreadas en la figura 17.2). Estas regiones de baja presión, llamadas enrarecimiento, 
+también se propagan a lo largo del tubo, siguiendo las compresiones. Ambas regiones se 
+mueven a la rapidez del sonido en el medio.
+A medida que el pistón tiene una oscilación sinusoidal, se establecen continuamente 
+regiones de compresión y enrarecimiento. La distancia entre dos compresiones sucesivas 
+(o dos enrarecimientos sucesivos) iguala la longitud de onda M de la onda sonora. Mientras 
+estas regiones viajan a través del tubo, cualquier elemento pequeño del medio se mueve 
+con movimiento armónico simple paralelo a la dirección de la onda. Si s(x, t) es la posición 
+de un elemento pequeño en relación con su posición de equilibrio,
+1 se puede expresar 
+esta función de posición armónica como
+ s 1x, t 2 smáx cos 1kx vt 2  (17.2)
+donde smáx es la posición máxima del elemento relativo al equilibrio. Con frecuencia, este 
+parámetro se llama amplitud de desplazamiento de la onda. El parámetro k es el número 
+de onda, y W es la frecuencia angular de la onda. Advierta que el desplazamiento del ele-
+mento es a lo largo de x, en la dirección de propagación de la onda sonora, lo que significa 
+que se trata de una onda longitudinal.
+La variación en la presión del gas $P observada desde el valor de equilibrio también es 
+periódica. Para la función de posición en la ecuación 17.2, $P se conoce por
+ 
+¢P ¢Pmáx sen 1kx vt 2  (17.3)
+1 En este caso se usa s(x, t) en lugar de y(x, t) porque el desplazamiento de los elementos del medio no es 
+perpendicular a la dirección x.
+Figura 17.2 Una onda 
+longitudinal que se propaga a 
+través de un tubo lleno de gas. La 
+fuente de la onda es un pistón en 
+oscilación a la izquierda.
+l
+TABLA 17.1
+Rapidez del sonido en diferentes medios
+Medio v (m/s) Medio v (m/s) Medio v (m/s)
+Gases  Líquidos a 25°C  Sólidos a
+Hidrógeno (0°C) 1 286 Glicerol 1 904 Vidrio Pyrex 5 640
+Helio (0°C)   972 Agua de mar 1 533 Hierro 5 950
+Aire (20°C)   343 Agua 1 493 Aluminio 6 420
+Aire (0°C)   331 Mercurio 1 450 Latón 4 700
+Oxígeno (0°C)   317 Queroseno 1 324 Cobre 5 010
+  Alcohol metílico 1 143 Oro 3 240
+  Tetracloruro de carbono   926 Lucita 2 680
+    Plomo 1 960
+    Caucho 1 600
+a Los valores conocidos son para propagación de ondas longitudinales en medios volumétricos. Las magnitudes de velocidad 
+para ondas longitudinales en barras delgadas son menores, y las magnitudes de velocidad de ondas transversales en volumen 
+son aún más pequeñas.
+
+donde la amplitud de presión $Pmáx, que es el cambio máximo en presión desde el valor 
+de equilibrio, se proporciona por
+ ¢Pmáx rvvsmáx  (17.4)
+La ecuación 17.3 se deduce en el ejemplo 17.1.
+Se considera que una onda sonora es una onda de desplazamiento o una onda de 
+presión. Una comparación de las ecuaciones 17.2 y 17.3 muestra que la onda de presión 
+está 90° fuera de fase con la onda de desplazamiento. En la figura 17.3 se muestran gráfi-
+cas de estas funciones. La variación de presión es un máximo cuando el desplazamiento 
+desde el equilibrio es cero, y el desplazamiento desde el equilibrio es un máximo cuando 
+la variación de presión es cero.
+Pregunta rápida 17.1 Si usted sopla a través de la parte superior de una botella de refres-
+co vacía, un pulso de sonido viaja a través del aire en la botella. En el momento cuando el 
+pulso llega al fondo de la botella, ¿cuál es la descripción correcta del desplazamiento de 
+elementos de aire desde sus posiciones de equilibrio y la presión del aire en este punto? 
+a) El desplazamiento y la presión están en un máximo. b) El desplazamiento y la presión 
+están en un mínimo. c) El desplazamiento es cero y la presión es un máximo. d) El des-
+plazamiento es cero y la presión es un mínimo.
+Figura 17.3 a) Amplitud de 
+desplazamiento y b) amplitud de 
+presión en función de la posición 
+para una onda longitudinal 
+sinusoidal.
+s
+x
+x
+a)
+b)
+Pmáx
+P
+smáx
+
+
+EJEMPLO 17.1 Deducción de la ecuación 17.3
+Obtener la expresión para la variación de presión en una onda sonora conocida por la ecuación 17.3.
+SOLUCIÓN
+Conceptualizar Considere un elemento de gas con forma de disco delgado, cuyas caras planas sean paralelas al pistón 
+en la figura 17.2. Este elemento se someterá a cambios en posición, presión y densidad a medida que una onda sonora se 
+propaga a través del gas.
+Categorizar Esta deducción combina propiedades elásticas de un gas (capítulo 12) con el fenómeno ondulatorio explicado 
+en este capítulo.
+Analizar El elemento de gas tiene un grosor $x en la dirección horizontal y un área de sección transversal A, de modo que 
+su volumen es V
+i  A $x. Cuando una onda sonora desplaza el elemento, las dos caras planas del disco se mueven a través 
+de diferentes distancias s. El cambio en volumen $V del elemento cuando una onda sonora desplaza al elemento es igual a 
+A $s, donde $s es la diferencia entre los valores de s entre las dos caras planas del disco.
+A partir de la definición de módulo volumétrico (véase 
+la ecuación 12.8), exprese la variación de presión en el 
+elemento de gas como una función de su cambio de vo-
+lumen:
+Sustituya para el volumen inicial y el cambio en volumen 
+del elemento:
+Permita que el grosor $x del disco se aproxime a cero de 
+modo que la relación $s/$x se convierta en una derivada 
+parcial:
+Sustituya la función de posición conocida por la ecuación 
+17.2:
+¢P
+B 0s
+0x
+¢P B A ¢s
+A ¢x B ¢s
+¢x
+¢P B ¢V
+Vi
+ Sección 17.2  Ondas sonoras periódicas  477
+¢P B 0
+0x 3smáx cos 1kx vt 24 Bsmáxk sen 1kx vt 2
+
+478 Capítulo 17  Ondas sonoras
+Use la ecuación 17.1 para expresar el módulo volumétrico 
+como B = Sv 2 y sustituya:
+Aplique la ecuación 16.11 en la forma k  W/v y sustituya:
+Ya que la función seno tiene un valor máximo de 1, iden-
+tifique el valor máximo de la variación de presión como 
+$P
+máx  SvWsmáx (véase la ecuación 17.4) y sustituya para 
+esta combinación en la expresión previa:
+Finalizar Esta expresión final para la variación de presión del aire en una onda sonora coincide con la ecuación 17.3.
+Intensidad de una onda 
+sonora
+0
+Figura 17.4 Un pistón en 
+oscilación transfiere energía al 
+aire en el tubo, por lo que el 
+elemento de aire de longitud  
+$x y masa $m oscila con una 
+amplitud s
+máx.
+Área  A
+x
+m
+
+v
+17.3 Intensidad de ondas sonoras periódicas
+En el capítulo 16 se demostró que una onda que viaja sobre una cuerda tensa transporta 
+energía. Se aplica el mismo concepto a ondas sonoras. Considere un elemento de aire de 
+masa %m y longitud %x enfrente de un pistón de área A que oscila con una frecuencia W, 
+como se muestra en la figura 17.4. El pistón transmite energía a este elemento de aire en 
+el tubo y la energía se propaga alejándose del pistón mediante la onda sonora. Para evaluar 
+la rapidez de transferencia de energía en la onda sonora, evalúe la energía cinética de 
+este elemento de aire, que se somete a movimiento armónico simple. Un procedimiento 
+similar al de la sección 16.5, donde se evaluó la rapidez de transferencia de energía para 
+una onda sobre una cuerda, muestra que la energía cinética en una longitud de onda de 
+la onda sonora es
+K
+l
+1
+4 1rA2v2s2
+máxl
+Como en el caso de la onda en una cuerda de la sección 16.5, la energía potencial total 
+para una longitud de onda tiene el mismo valor que la energía cinética total; por lo tanto, 
+la energía mecánica total para una longitud de onda es
+El Kl Ul
+1
+2 1rA2v2s2
+máxl
+A medida que la onda sonora se mueve a través del aire, esta cantidad de energía pasa 
+por un punto determinado durante un periodo de oscilación. Por tanto, la rapidez de 
+transferencia de energía es
+El
+T
+1
+2 1rA2v2s2
+máxl
+T
+1
+2 1rA2v2s2
+máx a l
+T b 1
+2 rAv v2s2
+máx
+donde v es la rapidez del sonido en el aire. Compare esta expresión con la ecuación 16.21 
+para una onda sobre una cuerda.
+La intensidad I de una onda, o la potencia por cada unidad de área, se define como la 
+rapidez a la cual la energía transportada por la onda se transfiere a través de una unidad 
+de área A perpendicular a la dirección de viaje de la onda:
+ I A  (17.5)
+En este caso, la intensidad es, debido a eso,
+I 1
+2rv 1vsmáx 22
+En consecuencia, la intensidad de una onda sonora periódica es proporcional al cua-
+drado de la amplitud de desplazamiento y al cuadrado de la frecuencia angular. Esta 
+expresión también se puede escribir en términos de la amplitud de presión %Pmáx; en este 
+caso, se usa la ecuación 17.4 para obtener
+ I
+1¢Pmáx 22
+2rv  (17.6)
+¢P rv2smáxk sen 1kx vt 2
+¢P rvvsmáx sen 1kx vt 2
+¢P ¢Pmáx sen 1kx vt 2
+
+Ahora considere una fuente puntual que emite ondas sonoras por igual en todas direc-
+ciones. A partir de la experiencia cotidiana, se sabe que la intensidad del sonido disminuye 
+conforme uno se aleja de la fuente. Cuando una fuente emite sonido por igual en todas 
+direcciones, el resultado es una onda esférica. La figura 17.5 muestra estas ondas esféri- 
+cas como una serie de arcos circulares concéntricos con la fuente. Cada arco representa 
+una superficie sobre la cual es constante la fase de la onda. A tal superficie de fase cons-
+tante se le llama frente de onda. La distancia entre frentes de onda adyacentes que tienen 
+la misma fase es la longitud de onda M de la onda. Las líneas radiales que se dirigen hacia 
+afuera desde la fuente se llaman rayos.
+La potencia promedio 
+prom emitida por la fuente debe tener una distribución unifor-
+me sobre cada frente de onda esférica de área 4Qr 2. Por tanto, la intensidad de la onda a 
+una distancia r de la fuente es
+ I
+prom
+A
+prom
+4pr 2  (17.7)
+Esta ley del cuadrado inverso, que recuerda el comportamiento de la gravedad en el capí-
+tulo 13, establece que la intensidad disminuye en proporción al cuadrado de la distancia 
+desde la fuente.
+Pregunta rápida 17.2 Una cuerda de guitarra que vibra hace muy poco sonido si no 
+está montada en el cuerpo de una guitarra. ¿Por qué el sonido tiene mayor intensidad 
+si la cuerda se une al cuerpo de la guitarra? a) La cuerda vibra con más energía. b) La 
+energía deja la guitarra a mayor rapidez. c) La potencia del sonido se dispersa sobre un 
+área más grande en la posición del escucha. d) La potencia del sonido se concentra en un  
+área más pequeña en la posición del escucha. e) La rapidez del sonido es mayor en el 
+material del cuerpo de la guitarra. f) Ninguna de estas respuestas es correcta.
+1 Comportamiento  
+de cuadrado inverso de 
+la intensidad para una 
+fuente puntual
+Figura 17.5 Ondas esféricas emitidas por una fuente 
+puntual. Los arcos circulares representan los frentes de 
+onda esférica que son concéntricos con la fuente. Los 
+rayos son líneas radiales que se dirigen hacia afuera desde 
+la fuente, perpendiculares a los frentes de onda.
+Fuente
+l
+Rayo
+Frente de onda
+EJEMPLO 17.2 Límites auditivos
+Los sonidos más débiles que el oído humano puede detectar a una frecuencia de 1 000 Hz corresponden a una intensidad 
+de aproximadamente 1.00  1012 W/m2, que se llama umbral de audición. Los sonidos más fuertes que el oído tolera a esta 
+frecuencia corresponden a una intensidad de aproximadamente 1.00 W/m 2, el umbral de dolor. Determine la amplitud de 
+presión y la amplitud de desplazamiento asociadas con estos dos límites.
+SOLUCIÓN
+Conceptualizar Piense en el ambiente más tranquilo que haya experimentado alguna vez. Es probable que la intensidad 
+del sonido, incluso en este ambiente tan tranquilo, sea mayor que el umbral de audición.
+Categorizar Ya que se proporcionan intensidades y se pide calcular las amplitudes de presión y desplazamiento, este pro-
+blema requiere los conceptos explicados en esta sección.
+ Sección 17.3  Intensidad de ondas sonoras periódicas  479
+
+480 Capítulo 17  Ondas sonoras
+Analizar Para hallar la amplitud de presión en el umbral 
+de audición, use la ecuación 17.6 y considere que la ra-
+pidez de las ondas sonoras en el aire es v  343 m/s y la 
+densidad del aire es S  1.20 kg/m3:
+Calcule la correspondiente amplitud de desplazamiento 
+con la ecuación 17.4, y recuerde que W  2Qf (ecuación 
+16.9):
+De manera similar, uno encuentra que los sonidos más fuertes que puede tolerar el oído humano corresponden a una 
+amplitud de presión de   28.7 N/m
+2   y una amplitud de desplazamiento igual a   1.11  10 5 m.
+Finalizar Ya que la presión atmosférica es casi 105 N/m2, ¡el resultado para la amplitud de presión dice que el oído es sensi-
+ble a fluctuaciones de presión tan pequeñas como 3 partes en 1010! ¡La amplitud de desplazamiento también es un número 
+notablemente pequeño! Si este resultado para smáx se compara con el tamaño de un átomo (aproximadamente 1010 m), se 
+ve que el oído es un detector extremadamente sensible de ondas sonoras.
+Nivel sonoro en decibeles 0
+EJEMPLO 17.3 Variaciones de intensidad de una fuente puntual
+Una fuente puntual emite ondas sonoras con una salida de potencia promedio de 80.0 W.
+A) Encuentre la intensidad a 3.00 m de la fuente.
+SOLUCIÓN
+Conceptualizar Imagine una pequeña bocina que envía sonido con rapidez promedio de 80.0 W de manera uniforme en 
+todas direcciones. Usted está de pie a 3.00 m de distancia de las bocinas. A medida que el sonido se propaga, la energía de 
+las ondas sonoras se dispersa sobre una esfera siempre en expansión.
+Categorizar Evalúe la intensidad a partir de una ecuación determinada, así que este ejemplo se clasifica como un problema 
+de sustitución.
+Ya que una fuente puntual emite energía en la forma de 
+ondas esféricas, use la ecuación 17.7 para encontrar la in-
+tensidad:
+Esta intensidad es cercana al umbral del dolor.
+B) Hallar la distancia a la cual la intensidad del sonido es 1.00  10
+8 W/m2.
+SOLUCIÓN
+Resuelva para r en la ecuación 17.7 y use el valor conocido para I: 
+  2.52 10 4 m
+r
+prom
+4pI
+80.0 W
+4p 11.00 10 8 W>m2 2  
+ 
+Nivel sonoro en decibeles
+El ejemplo 17.2 ilustra el amplio intervalo de intensidades que puede detectar el oído 
+humano. Ya que este intervalo es tan amplio, es conveniente usar una escala logarítmica, 
+donde el nivel sonoro C (letra griega beta) se define mediante la ecuación
+ 
+b 10 log a I
+I0
+b  (17.8)
+  2.87 10 5 N>m2
+2 11.20 kg>m3 21 343 m>s 21 1.00 10 12 W>m2 2
+¢Pmáx 2rvI
+  1.11 10 11 m
+smáx
+¢Pmáx
+rvv
+2.87 10 5 N>m2
+11.20 kg>m3 21 343 m>s 21 2p 1 000 Hz2
+I
+prom
+4pr 2
+80.0 W
+4p 13.00 m22   0.707 W>m2
+
+La constante I0 es la intensidad de referencia, considerada como el umbral de audición (I0  
+1.00  1012 W/m2) e I es la intensidad en watts por cada metro cuadrado a la que corres-
+ponde el nivel de sonido C, donde Cse mide2 en decibeles (dB). En esta escala, el umbral 
+de dolor (I  1.00 W/m2) corresponde a un nivel sonoro de C 10 log [(1 W/m2)/(1012 
+W/m2)]  10 log (10 12)  120 dB, y el umbral de audición corresponde a C 10 log 
+[(1012 W/m2)/(1012 W/m2)]  0 dB.
+La exposición prolongada a niveles sonoros altos puede dañar seriamente el oído hu-
+mano. Siempre que los niveles sonoros superen los 90 dB, se recomienda el uso de tapones 
+de oídos. Evidencia reciente sugiere que la “contaminación acústica” puede ser un factor 
+que contribuye a la presión arterial alta, ansiedad y nerviosismo. La tabla 17.2 presenta 
+algunos niveles sonoros representativos.
+Pregunta rápida 17.3 Aumentar la intensidad de un sonido en un factor de 100 oca- 
+siona que el nivel sonoro aumente, ¿en qué cantidad? a) 100 dB, b) 20 dB, 
+c) 10 dB, 
+d) 2 dB.
+TABLA 17.2
+Niveles sonoros
+Fuente del sonido C (dB)
+Avión jet cercano 150
+Martillo hidráulico;  
+ametralladora 130
+Sirena; concierto   
+de rock 120
+Transporte  
+subterráneo;  
+podadora potente 100
+Congestionamiento  
+de tránsito  80
+Aspiradora  70
+Conversación normal  50
+Zumbido de mosquito  40
+Susurro  30
+Hojas meciéndose  10
+Umbral de audición   0
+2 La unidad bel recibe su nombre por el inventor del teléfono, Alexander Graham Bell (1847–1922). El 
+prefijo deci– es el prefijo del SI que representa 101.
+ Sección 17.3  Intensidad de ondas sonoras periódicas  481
+EJEMPLO 17.4 Niveles sonoros
+Dos máquinas idénticas se colocan a la misma distancia de un trabajador. La intensidad del sonido entregado por cada 
+máquina en funcionamiento en la posición del trabajador es de 2.0  107 W/m2.
+A) Hallar el nivel sonoro que escucha el trabajador cuando una máquina está en funcionamiento.
+SOLUCIÓN
+Conceptualizar Imagine una situación en la cual una fuente de sonido está activa y se une a una segunda fuente idéntica, 
+como una persona que habla, luego una segunda persona habla al mismo tiempo o un instrumento musical toca y después 
+se le une un segundo instrumento.
+Categorizar Ya que se pide un nivel sonoro, se realizarán cálculos con la ecuación 17.8.
+Analizar Aplique la ecuación 17.8 para calcu-
+lar el nivel sonoro en la posición del trabajador 
+con una máquina en funcionamiento:
+B) Hallar el nivel sonoro que escucha el trabajador cuando dos máquinas están en funcionamiento:
+SOLUCIÓN
+Aplique la ecuación 17.8 para calcular el nivel 
+sonoro en la posición del trabajador, con el do-
+ble de intensidad:
+Finalizar Estos resultados demuestran que, cuando se duplica la intensidad, el nivel sonoro aumenta sólo en 3 dB.
+¿Qué pasaría si? La sonoridad (magnitud de la sensación auditiva) es una respuesta psicológica a un sonido. Depende tanto 
+de la intensidad como de la frecuencia del sonido. Como regla empírica, una sonoridad duplicada se asocia aproximada -
+mente con un aumento en el nivel sonoro de 10 dB. (Esta regla empírica es relativamente imprecisa a frecuencias o muy 
+bajas o muy altas.) Si la sonoridad de las máquinas en este ejemplo se duplica, ¿cuántas máquinas a la misma distancia del 
+trabajador deben estar en funcionamiento?
+b1 10 log a
+2.0 10 7 W>m2
+1.00 10 12 W>m2 b 10 log 12.0 10 5 2   53 dB
+b2 10 log a
+4.0 10 7 W>m2
+1.00 10 12 W>m2 b 10 log 14.0 10 5 2   56 dB
+
+482 Capítulo 17  Ondas sonoras
+Respuesta Con la regla empírica, un doble de sonoridad corresponde a un aumento en el nivel sonoro de 10 dB. Debido 
+a eso,
+ log a I2
+I1
+b 1 S I2 10I1
+b2 b1 10 dB 10 log a I2
+I0
+b 10 log a I1
+I0
+b 10 log a I2
+I1
+b
+En consecuencia, deben estar en funcionamiento 10 máquinas para duplicar la sonoridad.
+Figura 17.6 Intervalos aproximados de frecuencia y nivel sonoro de varias fuentes y la audición 
+humana normal, que se muestra por el área blanca. (Tomado de R.L. Reese, University Physics, Pacific 
+Grove, Brooks/Cole, 2000.)
+Nivel sonoro
+Frecuencias
+infrasónicas
+Frecuencias 
+sónicas
+Frecuencias 
+ultrasónicas
+Motor de gran cohete
+Motor jet (a 10 m
+ de distancia) Rifle
+Trueno 
+sobre uno
+Concierto de rock
+Comunicación submarina
+(sonar)
+Claxon de automóvil
+Motocicleta Cafetería escolar
+Tránsito urbano Grito
+Conversación
+Aves
+Murciélagos
+Umbral de audiciónHabla en 
+susurros
+  (dB)
+1 10 100 1 000 10 000 100 000 Frecuencia f (Hz)
+220
+200
+180
+160
+140
+120
+100
+80
+60
+40
+20
+0
+Umbral del 
+dolor
+b
+Sonoridad y frecuencia
+La explicación del nivel sonoro en decibeles se relaciona con una medición física de la 
+intensidad de un sonido. Ahora se extenderá la explicación del ejemplo 17.4 concerniente 
+a la “medición” psicológica de la intensidad de un sonido.
+Desde luego, no se tienen instrumentos en el cuerpo que puedan desplegar valores nu-
+méricos de las reacciones a los estímulos. Se tienen que “calibrar” las reacciones de algún 
+modo para comparar diferentes sonidos con un sonido de referencia, pero esto no es fácil 
+de lograr. Por ejemplo, antes se mencionó que la intensidad umbral es 10
+12 W/m2, que 
+corresponde a un nivel de intensidad de 0 dB. En realidad, este valor es el umbral sólo 
+para un valor de 1 000 Hz de frecuencia, que es una frecuencia de referencia estándar en 
+acústica. Si se realiza un experimento para medir la intensidad umbral a otras frecuencias, 
+se encontrará una variación distinta de este umbral como función de la frecuencia. Por 
+ejemplo, a 100 Hz, un sonido apenas audible debe tener una intensidad de ¡aproxima-
+damente 30 dB! Por desgracia, no hay una correspondencia simple entre las mediciones 
+físicas y las “mediciones” psicológicas. El sonido de 100 Hz y 30 dB es psicológicamente 
+“igual” al sonido de 1 000 Hz y 0 dB (ambos son apenas audibles), pero no son físicamente 
+iguales (30 dB : 0 dB).
+Con el uso de sujetos experimentales se ha podido estudiar la respuesta humana a los 
+sonidos, y los resultados se muestran en el área blanca de la figura 17.6, junto con la fre- 
+cuencia aproximada y los alcances de nivel sonoro de otras fuentes sonoras. La curva in-
+ferior del área blanca corresponde al umbral de audición. Su variación con la frecuencia 
+es clara a partir de este diagrama. Note que los humanos son sensibles a frecuencias en el 
+intervalo de casi 20 Hz hasta aproximadamente 20 000 Hz. La frontera superior del área
+
+blanca es el umbral del dolor. En este caso la frontera del área blanca es recta porque 
+la respuesta psicológica es en cierta medida independiente de la frecuencia a este nivel 
+sonoro alto.
+El cambio más dramático con la frecuencia está en la región inferior izquierda del área 
+blanca, para frecuencias bajas y niveles de intensidad bajos. Los oídos humanos son insen-
+sibles en esta región. Si usted escucha su estéreo y los sonidos graves (frecuencias bajas) y 
+agudos (frecuencias altas) se equilibran a un volumen alto, intente bajar el volumen y es-
+cuchar de nuevo. Quizá notará que el grave parece débil, lo que se debe a la insensibilidad 
+del oído a frecuencias bajas a niveles sonoros bajos, como se muestra en la figura 17.6.
+17.4 El efecto Doppler
+Tal vez haya notado cómo varía el sonido del claxon de un vehículo a medida que éste  
+se aleja. La frecuencia del sonido que escucha mientras el vehículo se aproxima a usted es 
+más alta que la frecuencia que escucha mientras se aleja. Esta experiencia es un ejemplo 
+del efecto Doppler.
+3
+Para comprender qué causa este cambio de frecuencia aparente, imagine que está en 
+un bote anclado en un mar tranquilo donde las ondas tienen un periodo T  3.0 s. Por 
+tanto, cada 3.0 s una cresta golpea su bote. La figura 17.7a muestra esta situación, con 
+las ondas acuáticas moviéndose hacia la izquierda. Si usted pone su reloj en t  0 justo 
+cuando una cresta golpea, la lectura en el reloj es 3.0 s cuando la siguiente cresta golpea, 
+6.0 s cuando la tercera cresta golpea, y así sucesivamente. A partir de estas observaciones, 
+concluye que la frecuencia ondulatoria es f  1/T  1/(3.0 s)  0.33 Hz. Ahora suponga 
+que enciende su motor y se dirige directamente hacia las ondas que se acercan, como en 
+la figura 17.7b. Una vez más pone su reloj en t  0 cuando una cresta golpea el frente (la 
+proa) de su bote. Sin embargo, ahora, ya que se mueve hacia la cresta de onda siguiente 
+mientras ella se mueve hacia usted, lo golpea a menos de 3.0 s después del primer golpe. 
+En otras palabras, el periodo que ahora observa es más corto que el periodo de 3.0 s que 
+observó cuando estaba en posición estable. Ya que f  1/T, observa una frecuencia ondu-
+latoria mayor que cuando estaba en reposo.
+Si usted da vuelta y se mueve en la misma dirección que las ondas (figura 17.7c), se 
+observa el efecto opuesto. Pone su reloj en t  0 cuando una cresta golpea la parte trasera 
+del bote (la popa). Ya que ahora se mueve alejándose de la siguiente cresta, en su reloj 
+transcurren más de 3.0 s para cuando dicha cresta lo alcanza. Por lo tanto, se observa una 
+frecuencia más baja que cuando estaba en reposo.
+Estos efectos se presentan porque la rapidez relativa entre su bote y las ondas depende 
+de la dirección de viaje y de la rapidez de su bote. Cuando se mueve hacia la derecha en 
+la figura 17.7b, esta rapidez relativa es mayor que la rapidez de la onda, lo que conduce a la 
+observación de una frecuencia aumentada. Cuando da vuelta y se mueve hacia la izquierda, 
+la rapidez relativa es menor, como lo es la frecuencia observada de las ondas del agua.
+Ahora examine una situación análoga con ondas sonoras en la cual las ondas del agua 
+se convierten en ondas sonoras, el agua se convierte en aire y la persona en el bote se con-
+vierte en un observador que escucha el sonido. En este caso, un observador O se mueve y 
+una fuente sonora S se encuentra estable. Para simplificar, se supone que el aire también 
+queda estable y que el observador va directo hacia la fuente (figura 17.8). El observador se 
+mueve con una rapidez v
+O hacia una fuente puntual estable (vS  0), donde estable significa 
+en reposo respecto del medio, aire.
+Si una fuente puntual emite ondas sonoras y el medio es uniforme, las ondas se mueven 
+con la misma rapidez en todas direcciones, se alejan radialmente de la fuente; el resultado 
+es una onda esférica, como se mencionó en la sección 17.3. La distancia entre frentes de 
+onda adyacentes es igual a la longitud de onda M. En la figura 17.8, los círculos son las in-
+tersecciones de estos frentes de onda tridimensionales con el papel en dos dimensiones.
+Sean f la frecuencia de la fuente, M la longitud de onda y v la rapidez del sonido en 
+la figura 17.8. Si el observador también queda estable, detectará frentes de onda a una 
+v
+v
+v
+v
+v
+c)
+a)
+ondas
+b)
+ondas
+ondas
+bote
+bote
+Figura 17.8 Un observador O  
+(el ciclista) se mueve con una 
+rapidez v0 hacia una fuente 
+puntual estable S, el claxon  
+de una camioneta estacionada. 
+El observador escucha una 
+frecuencia f   mayor que  
+la frecuencia de la fuente.
+3 Llamado en honor del físico austriaco Christian Johann Doppler (18031853), quien predijo en 1842 el 
+efecto tanto para ondas sonoras como para ondas luminosas.
+Figura 17.7 a) Ondas que se 
+mueven hacia un bote estable.  
+Las ondas viajan hacia la izquierda 
+y su fuente está lejos hacia la 
+derecha del bote, fuera del  
+marco de la fotografía. b) El 
+bote se mueve hacia la fuente 
+de ondas. c) El bote se mueve 
+alejándose de la fuente de ondas.
+
+O
+O
+S
+v
+ Sección 17.4  El efecto Doppler  483
+
+484 Capítulo 17  Ondas sonoras
+frecuencia f. (Es decir, cuando vO  0 y vS  0, la frecuencia observada es igual a la frecuen-
+cia de la fuente.) Cuando el observador se mueve hacia la fuente, la rapidez de las ondas 
+relativa al observador es v   v  vO , como en el caso del bote en la figura 17.7, pero la 
+longitud de onda Mno cambia. Por tanto, al usar la ecuación 16.12, v  Mf, se puede decir 
+que la frecuencia f   que escucha el observador está aumentada y se conoce por
+f ¿ v¿
+l
+vv O
+l
+Ya que M  v/f, f   se puede expresar como
+ f ¿ a vv O
+v b f 1observador en movimiento hacia la fuente 2  (17.9)
+Si el observador es móvil alejándose de la fuente, la rapidez de la onda relativa al observa-
+dor es v   v  v
+O . En este caso la frecuencia escuchada por el observador queda reducida 
+y se encuentra por
+ f ¿ a vv O
+v b f 1observador alejándose de la fuente 2  (17.10)
+En general, siempre que un observador se mueva con una rapidez vO en relación con 
+una fuente estable, la frecuencia escuchada por el observador se conoce por la ecuación 
+17.9, con una convención de signo: un valor positivo para vO cuando el observador se 
+mueve hacia la fuente, y un valor negativo cuando el observador se mueve alejándose de 
+la fuente.
+Ahora suponga que la fuente está en movimiento y que el observador queda en reposo. 
+Si la fuente avanza directo hacia el observador A en la figura 17.9a, los frentes de onda es-
+cuchados por el observador están más juntos de lo que estarían si la fuente no se moviera. 
+Como resultado, la longitud de onda M  medida por el observador A es más corta que la 
+longitud de onda M de la fuente. Durante cada vibración, que dura un intervalo de tiempo 
+T (el periodo), la fuente se mueve una distancia v
+ST  vS/f  y la longitud de onda se acorta 
+en esta cantidad. Por lo tanto, la longitud de onda observada M  es
+l¿ l ¢ll vS
+f
+Como M = v/f, la frecuencia f   que escucha el observador A es
+f ¿ v
+l¿
+v
+l 1vS >f 2
+v
+1v>f 21 vS>f 2
+Figura 17.9 a) Una fuente S se mueve con una rapidez vS hacia un observador estable A y se aleja de 
+un observador estable B. El observador A escucha una frecuencia aumentada y el observador B una 
+frecuencia reducida. b) El efecto Doppler en el agua, observado en un tanque de ondas. Una fuente 
+puntual se mueve hacia la derecha con rapidez v
+S. Las letras que se muestran en la fotografía se refieren 
+a la pregunta rápida 17.4.
+a)
+S
+S
+Observador B
+Observador Av
+l
+b)
+Cortesía de Educational Development Center, 
+Newton, MA
+AC
+B
+
+f ¿ a v
+vv S
+b f 1fuente móvil hacia el observador2  (17.11)
+Es decir: la frecuencia observada aumenta siempre que la fuente se mueva hacia el obser-
+vador.
+Cuando la fuente se aleja de un observador estacionario, como es el caso del observa-
+dor B en la figura 17.9a, el observador mide una longitud de onda M  que es mayor que M 
+y escucha una frecuencia reducida:
+ f ¿ a v
+vv S
+b f 1fuente que se aleja del observador 2  (17.12)
+La correspondencia general para la frecuencia observada cuando una fuente es móvil y 
+un observador está en reposo se expresa como la ecuación 17.11, con la misma convención 
+de signo aplicada a vS como se aplicó a vO: un valor positivo se sustituye para vS cuando la 
+fuente se mueve hacia el observador, y un valor negativo se sustituye cuando la fuente se 
+aleja del observador.
+Por último, al combinar las ecuaciones 17.9 y 17.11 se obtiene la siguiente correspon-
+dencia general para la frecuencia observada:
+ 
+f ¿ a vv O
+vv S
+b f  (17.13)
+En esta expresión los signos para los valores sustituidos para vO y vS dependen de la direc-
+ción de la velocidad. Un valor positivo se usa para movimiento del observador o la fuente 
+hacia el otro (asociado con un aumento en la frecuencia observada), y un valor negativo 
+se usa para movimiento de uno alejándose del otro (asociado con una disminución en la 
+frecuencia observada).
+Aunque el efecto Doppler se experimenta más comúnmente con ondas sonoras, es un  
+fenómeno común a todas las ondas. Por ejemplo, el movimiento relativo de la fuente y el  
+observador produce un corrimiento de frecuencia en las ondas luminosas. El efecto Do-
+ppler se usa en los sistemas de radar policiacos para medir la rapidez de los vehículos 
+automotores. Del mismo modo, los astrónomos usan el efecto para determinar la rapidez 
+de estrellas, galaxias y otros objetos celestes en relación con la Tierra.
+Pregunta rápida 17.4 Considere los detectores de ondas acuáticas en tres posiciones A, 
+B y C de la figura 17.9b. ¿Cuál de los siguientes enunciados es verdadero? a) La rapidez 
+de onda es mayor en la posición A. b) La rapidez de onda es mayor en la posición C. c) La 
+longitud de onda detectada es mayor en la posición B. d) La longitud de onda detectada 
+es mayor en la posición C. e) La frecuencia detectada es mayor en la posición C. f) La 
+frecuencia detectada es mayor en la posición A.
+Pregunta rápida 17.5 Usted está de pie sobre una plataforma en una estación de tren y 
+escucha un tren que se aproxima a la estación con velocidad constante. Mientras el tren 
+se aproxima, pero antes de que llegue, ¿qué escucha? a) la intensidad y la frecuencia del 
+sonido aumentan, b) la intensidad y la frecuencia del sonido disminuyen, 
+c) la inten-
+sidad aumenta y la frecuencia disminuye, d) la intensidad disminuye y la frecuencia 
+aumenta, e) la intensidad aumenta y la frecuencia permanece igual, f) la intensidad 
+disminuye y la frecuencia permanece igual.
+1 Expresión general de 
+corrimiento Doppler
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 17.1
+El efecto Doppler no depende  
+de la distancia
+Algunas personas creen que 
+el efecto Doppler depende 
+de la distancia entre la fuente 
+y el observador. Aunque la 
+intensidad de un sonido varía a 
+medida que la distancia cambia, 
+la frecuencia aparente sólo 
+depende de la rapidez relativa 
+de la fuente y el observador. 
+Mientras usted escucha una 
+fuente que se aproxima, 
+detectará intensidad creciente 
+pero frecuencia constante. 
+Mientras la fuente pasa, 
+escuchará que la frecuencia 
+cae súbitamente a un nuevo 
+valor constante y la intensidad 
+comienza a disminuir.
+EJEMPLO 17.5 El radio–reloj descompuesto
+Su radio–reloj lo despierta con un sonido estable e irritante de 600 Hz de frecuencia. Una mañana funciona mal y no se 
+puede apagar. Frustrado, arroja el radio–reloj por la ventana de su dormitorio en el cuarto piso, a 15.0 m del suelo. Suponga 
+que la rapidez del sonido es de 343 m/s. Mientras escucha al radio–reloj que cae, ¿qué frecuencia escucha justo antes 
+de que lo oiga chocar con el suelo?
+ Sección 17.4  El efecto Doppler  485
+
+486 Capítulo 17  Ondas sonoras
+SOLUCIÓN
+Conceptualizar La rapidez del radio–reloj aumenta mientras cae. Por lo tanto, es una fuente de sonido móvil alejándose 
+con una rapidez creciente, de modo que la frecuencia que escucha debe ser menor a 600 Hz.
+Categorizar Este es un problema en el que se deben combinar la interpretación de los objetos que caen con la del corri-
+miento de frecuencia debida al efecto Doppler.
+Analizar Ya que el radio–reloj se modela como una par-
+tícula bajo aceleración constante debida a la gravedad, use 
+la ecuación 2.13 para expresar la rapidez de la fuente de 
+sonido:
+Aplique la ecuación 17.13 para determinar la frecuencia 
+de corrimiento Doppler que se escucha del radio–reloj 
+que cae:
+A partir de la ecuación 2.61, hallar el tiempo en el que el 
+reloj golpea el suelo:
+De la ecuación 1), evalúe la frecuencia de corrimiento Do-
+ppler justo cuando el radio–reloj golpea el suelo:
+Finalizar La frecuencia es menor que la frecuencia real de 600 Hz porque el radio–reloj es móvil alejándose. Si cayera 
+desde un piso superior, de modo que pasara por abajo de y  15.0 m, el radio–reloj continuaría acelerando y la frecuencia 
+continuaría cayendo.
+EJEMPLO 17.6 Submarinos Doppler
+Un submarino (sub A) viaja a través de agua con una rapidez de 8.00 m/s y emite una onda de sonar con una frecuencia 
+de 1 400 Hz. La rapidez del sonido en el agua es de 1 533 m/s. Un segundo submarino (sub B) se localiza de tal modo que 
+ambos submarinos viajan directamente uno hacia el otro. El segundo submarino se mueve a 9.00 m/s.
+A) ¿Qué frecuencia detecta un observador que viaja en el sub B mientras los submarinos se aproximan uno al otro?
+SOLUCIÓN
+Conceptualizar Aun cuando el problema involucra submarinos móviles en agua, hay un efecto Doppler tal como lo hay 
+cuando usted está en un automóvil en movimiento y escucha un sonido que se mueve a través del aire desde otro auto.
+Categorizar Ya que ambos submarinos se mueven, este problema involucra el efecto Doppler tanto para la fuente móvil 
+como para un observador móvil.
+Analizar Aplique la ecuación 17.13 para hallar la fre-
+cuencia de corrimiento Doppler que escucha el obser-
+vador en el sub B y tenga cuidado con los signos de las 
+velocidades de la fuente y el observador:
+B) Los submarinos apenas evitan el choque. ¿Qué frecuencia detecta un observador en el sub B mientras los submarinos 
+se alejan uno del otro?
+v
+S vyi ayt 0 gt gt
+1) f ¿ c v 0
+v 1 gt 2 d f a v
+vg t b f
+t 1.75 s
+15.0 m 0 0 1
+2 19.80 m>s2 2t 2
+yf yi vyit 1
+2
+gt 2
+  571 Hz
+f ¿ c
+343 m>s
+343 m>s 19.80 m>s2 21 1.75 s2 d1 600 Hz2
+f ¿ c
+1 533 m>s 1 9.00 m>s 2
+1 533 m>s 1 8.00 m>s 2 d1 1 400 Hz2   1 416 Hz
+f ¿ a vv O
+vv S
+b f
+
+SOLUCIÓN
+Use la ecuación 17.13 para hallar la frecuencia de corri-
+miento Doppler que escucha el observador en el sub B, y 
+de nuevo tenga cuidado con los signos de las velocidades 
+de la fuente y el observador:
+Finalizar Advierta que la frecuencia cae de 1 416 Hz a 1 385 Hz a medida que los submarinos se pasan. Este efecto es similar 
+a la caída en frecuencia que usted escucha cuando un automóvil pasa junto a usted mientras suena el claxon.
+¿Qué pasaría si? Mientras los submarinos se aproximan mutuamente, algo del sonido desde el sub A se refleja desde el sub 
+B y regresa al sub A. Si este sonido lo detectara un observador en el sub A, ¿cuál es su frecuencia?
+Respuesta El sonido de la frecuencia aparente de 1 416 Hz que encontró en el inciso A) se refleja de una fuente móvil (sub 
+B) y después lo detecta un obser
+vador móvil (sub A). Por lo tanto, la frecuencia detectada por el sub A es
+ c
+1 533 m>s 1 8.00 m>s 2
+1 533 m>s 1 9.00 m>s 2 d1 1 416 Hz2 1 432 Hz
+ f – a vv O
+vv S
+b f ¿ 
+Esta técnica la aplican los oficiales de policía para medir la rapidez de un auto en movimiento. Desde la patrulla se emiten 
+microondas que se reflejan en el automóvil en movimiento. Al detectar la frecuencia de corrimiento Doppler de las micro-
+ondas reflejadas, el oficial de policía puede determinar la rapidez del auto en movimiento.
+Figura 17.10 a) Una representación de una onda de choque producida cuando una fuente se mueve de S0 a Sn con una rapidez vS, que es 
+mayor que la rapidez de onda v en el medio. La envolvente de los frentes de onda forman un cono cuyo semiángulo del vértice se conoce por 
+sen V  v/vS. b) Fotografía estroboscópica de una bala que se mueve con rapidez supersónica a través del aire caliente sobre una vela. Advierta 
+la onda de choque en la vecindad de la bala.
+vSt
+Sn
+Frente de 
+onda cónica
+vt
+2
+0
+S1 S2
+S3 S4
+S0
+1
+a)
+vS
+u
+b)
+© 1973 Kim Vandiver & Harold E. Edgerton/Cortesía de Palm Press, Inc.
+ Sección 17.4  El efecto Doppler  487
+Ondas de choque
+Considere ahora lo que sucede cuando la rapidez vS de una fuente supera la rapidez de 
+onda v. Esta situación se muestra gráficamente en la figura 17.10a. Los círculos repre-
+sentan frentes de onda esféricos emitidos por la fuente en diferentes momentos durante 
+su movimiento. En t  0, la fuente está en S 0, y en un tiempo posterior t, la fuente está 
+en Sn. En el tiempo t, el frente de onda con centro en S 0 alcanza un radio de vt. En este 
+ f ¿ c
+1 533 m>s 1 9.00 m>s 2
+1 533 m>s 1 8.00 m>s 2 d1 1 400 Hz2   1 385 Hz
+ f ¿ a vv O
+vv S
+b f
+
+488 Capítulo 17  Ondas sonoras
+mismo intervalo de tiempo, la fuente recorre una distancia vSt a Sn. En el instante en que 
+la fuente está en Sn, las ondas apenas comienzan a generarse en esta ubicación; por tanto, 
+el frente de onda tiene radio cero en este punto. La línea tangente dibujada desde Sn al 
+frente de onda con centro en S 0 es tangente a todos los otros frentes de onda generados 
+en tiempos intermedios. Por lo tanto, la envolvente de estos frentes de onda es un cono 
+cuyo semiángulo del vértice V (el “ángulo Mach”) se conoce por
+sen u vt
+vS t
+v
+vS
+La relación vS/v se conoce como número Mach, y el frente de onda cónico que se produce 
+cuando vS  v (rapidez supersónica) se conoce como onda de choque. Una analogía inte-
+resante con las ondas de choque son los frentes de onda con forma en V producidos por 
+un bote (la onda de proa) cuando la rapidez del bote supera la rapidez de las ondas en la 
+superficie del agua (figura 17.11).
+Los aviones jet que viajan con magnitudes de velocidad supersónicas producen ondas 
+de choque, que son responsables del fuerte “estampido sónico” que uno escucha. La 
+onda de choque lleva una gran cantidad de energía concentrada en la superficie del 
+cono, con grandes variaciones de presión correspondientes. Tales ondas de choque son 
+desagradables de escuchar y pueden causar daño a los edificios cuando los aviones vuelan 
+supersónicamente a bajas altitudes. De hecho, un avión que vuela con rapidez supersónica 
+produce un doble estampido porque se forman dos ondas de choque, una desde la nariz 
+del avión y otra desde la cola. Las personas cerca de la trayectoria de un trasbordador 
+espacial mientras se aproxima a su punto de aterrizaje, con frecuencia reportan escuchar 
+lo que suena como dos crujidos de trueno muy cercanamente espaciados.
+Pregunta rápida 17.6 Un avión que vuela con una velocidad constante se mueve desde 
+una masa de aire frío hacia una masa de aire caliente. ¿El número Mach a) aumenta, b) 
+disminuye, o c) permanece igual?
+17.5 Grabación de sonido digital
+El primer dispositivo de grabación de sonido, el fonógrafo, lo inventó Thomas Edison 
+en el siglo xix. Las ondas sonoras se registraban en los primeros fonógrafos al codificar 
+las formas de onda sonoras como variaciones en la profundidad de un surco continuo 
+cortado en una delgada hoja enrollada alrededor de un cilindro. Durante la reproduc-
+ción, a medida que una aguja seguía el surco del cilindro rotatorio, la aguja empujaba de 
+atrás para adelante de acuerdo con las ondas sonoras codificadas en el disco. La aguja se 
+unía a un diafragma y una bocina, lo que hacía al sonido lo suficientemente intenso para 
+escucharse.
+Con el desarrollo continuo del fonógrafo, el sonido se grababa en cilindros de cartón 
+recubiertos con cera. Durante la última década del siglo xix y la primera mitad del xx, el 
+sonido se grabó en discos hechos de laca y arcilla. En 1948, se introdujo el disco plástico 
+de fonógrafo y dominó el mercado de la industria de la grabación hasta la llegada de los 
+discos compactos digitales en los años ochenta.
+Grabación digital
+En la grabación digital la información se convierte a código binario (unos y ceros), pareci-
+do a los puntos y rayas del código Morse. Primero, la forma de onda del sonido se muestrea 
+(samplea), típicamente 44 100 veces por segundo. La figura 17.12a ilustra este proceso. 
+Entre cada par de líneas azules en la figura, la presión de la onda se mide y convierte a 
+un voltaje. Por lo tanto, existen 44 100 números asociados con cada segundo del sonido 
+a muestrear. La frecuencia de muestreo es mucho mayor que el alcance superior de audi-
+ción humana, aproximadamente 20 000 Hz, de modo que todas las frecuencias de sonido 
+audible se muestrean adecuadamente en esta cantidad.
+Luego estas mediciones se convierten en números binarios, que son números expresados 
+con el uso de base 2 en lugar de base 10. La tabla 17.3 muestra algunos números binarios 
+de muestra. Por lo general, las mediciones de voltaje se registran en “palabras” de 16 bits, 
+Figura 17.11 La onda de proa 
+con forma en V de un bote se 
+forma debido a que la rapidez del 
+bote es mayor que la rapidez de 
+las ondas del agua que genera. 
+Una onda de proa es análoga a 
+una onda de choque formada por 
+un avión que viaja más rápido que 
+el sonido.
+© 1973 William Wright/Fundamental Photographs
+
+en las cuales cada bit es un uno o un cero. Por tanto, el número de diferentes niveles 
+de voltaje a los que se pueden asignar códigos es 2 16  65 536. El número de bits en un 
+segundo de sonido es 16  44 100  705 600. Es esta cadena de unos y ceros, en palabras 
+de 16 bits, la que se registra en la superficie de un disco compacto.
+La figura 17.13 muestra una amplificación de la superficie de un disco compacto. El 
+láser del sistema reproductor detecta dos tipos de áreas: parte plana (lands) y depresiones 
+(pits). Las partes planas son regiones no tocadas de la superficie del disco que son muy 
+reflexivas. Las depresiones, que son áreas quemadas en la superficie, dispersan la luz en 
+lugar de reflejarla de regreso al sistema de detección. El sistema reproductor muestrea la 
+luz reflejada 750 600 veces por segundo. Cuando el láser se mueve desde una depresión 
+hasta un plano o de un plano a una depresión, la luz reflejada cambia durante el muestreo 
+y el bit se registra como un uno. Si no hay cambio durante el muestreo, el bit se registra 
+como un cero.
+Los números binarios que se leen desde el disco compacto se convierten de regreso en 
+voltajes, y la forma de onda se reconstruye como se muestra en la figura 17.12b. Ya que la 
+proporción de muestreo es tan alta, no es evidente en el sonido que la forma de onda se 
+construye a partir de voltajes discretos escalonados.
+Figura 17.12 a) El sonido se digitaliza mediante el muestreo electrónico de la forma de onda sonora a intervalos periódicos. Durante cada 
+intervalo de tiempo entre las líneas azules, se registra un número para el voltaje promedio durante el intervalo. La proporción de muestreo que 
+se presenta aquí es mucho más lenta que la proporción de muestreo real de 44 100 muestras por segundo. b) Reconstrucción de la onda sonora 
+muestreada en a). Advierta la reconstrucción escalonada en lugar de la forma de onda continua en a).
+a) b)
+TABLA 17.3
+Números binarios de muestra
+Número en  
+base 10 Número en binario Suma
+1 0000000000000001 1
+2 0000000000000010 2  0
+3 0000000000000011 2  1
+10 0000000000001010 8  0  2  0
+37 0000000000100101 32  0  0  4  0  1
+275 0000000100010011 256  0  0  0  16  0  0  2  1
+Figura 17.13 Superficie de un disco compacto 
+que muestra las depresiones. Las transiciones entre 
+depresiones y partes planas corresponden a unos 
+binarios. Las regiones sin transiciones corresponden 
+a ceros binarios.
+Cortesía de University of Miami, Music Engineering
+ Sección 17.5  Grabación de sonido digital  489
+
+490 Capítulo 17  Ondas sonoras
+La ventaja de la grabación digital está en la alta fidelidad del sonido. Con la grabación 
+analógica, cualquier imperfección pequeña en la superficie de grabación o el equipo de 
+grabación puede causar una distorsión de la forma de onda. Por ejemplo, recortar todos 
+los picos de una forma de onda en 10% tiene un gran efecto sobre el espectro del sonido 
+en una grabación analógica. Sin embargo, con la grabación digital, genera una mayor 
+imperfección convertir un uno en cero. Si una imperfección hace que la magnitud de un 
+uno sea 90% el valor original, todavía lo registra como un uno y no hay distorsión. Otra 
+ventaja de la grabación digital es que la información se extrae de manera óptica, así que 
+no hay uso mecánico del disco.
+EJEMPLO 17.7 ¿Qué tan grandes son las depresiones?
+En el ejemplo 10.2 se mencionó que la rapidez con la cual la superficie de un disco compacto pasa por el láser es de 1.3 
+m/s. ¿Cuál es la longitud promedio de la pista de audio sobre un disco compacto asociada con cada bit de la información 
+de audio?
+SOLUCIÓN
+Conceptualizar Imagine que la superficie del disco pasa por el láser a 1.3 m/s. En un segundo, una pista de audio de 1.3 
+m de longitud pasa por el láser. Esta longitud incluye 705 600 bits de información de audio.
+Categorizar Este ejemplo es un simple problema de sustitución.
+A partir del conocimiento del número de bits en una longi-
+tud de 1.3 m, encuentre la longitud promedio por bit:
+La longitud promedio por bit de información total en el disco compacto es menor que este valor porque hay información 
+adicional en el disco, además de la información de audio. Esta información incluye códigos de corrección de error, número 
+de canciones y códigos de temporización. Como resultado, la longitud más corta por bit en realidad es de aproximadamente 
+0.8 Nm.
+EJEMPLO 17.8  ¿Cuál es el número?
+Los datos de audio en un disco compacto experimentan un procesamiento complicado para reducir una variedad de errores 
+en la lectura de los datos. Por lo tanto, una “palabra” de audio no se tiende linealmente en el disco. Suponga que se leen 
+datos del disco, que se quita el código de error y que la palabra de audio resultante es
+1 0 1 1 1 0 1 1 1 0 1 1 1 0 1 1
+¿Cuál es el número decimal representado por esta palabra de 16 bits?
+SOLUCIÓN
+Conceptualizar Cuando observa el número binario anterior, es muy probable que, en función de su falta de experiencia 
+con representaciones binarias, no pueda identificar de inmediato el número. Sin embargo, recuerde que sólo es una cadena 
+de multiplicadores de potencias de 2, tal como los números con los que está familiarizado en las cadenas de multiplicadores 
+de potencias de 10.
+Categorizar Este ejemplo es un problema directo en el que se cambia una representación de código binario a código 
+decimal.
+  1.8mm>bit
+Longitud por bit 1.3 m
+705 600 bits 1.8 10 6 m>bit
+
+Convierta cada uno de estos bits a una potencia de 2 y sume los resultados:
+1 215 32 768 1 2 9 512 1 2 3 8
+02 14 01  2 8 256 0 2 2 0
+12 13 8 192 1 2 7 128 1 2 1 2
+12 12 4 096 0 2 6 01  2 0 1
+12 11 2 048 1 2 5 32
+0 210 01  2 4 16 suma 48 059
+Este número es convertido por el reproductor de disco compacto en un voltaje, que representa uno de los 44 100 valores 
+que se usan para construir un segundo de la forma de onda electrónica que representa al sonido grabado.
+17.6 Sonido cinematográfico
+Otra aplicación interesante del sonido digital es la banda sonora de una película. Las 
+películas de principios del siglo xx grababan el sonido en discos de fonógrafo, que se 
+sincronizaba con la acción en la pantalla. Con las primeras películas de noticiarios, se 
+introdujo el proceso de banda sonora óptica de área variable ; el sonido se grababa sobre 
+una pista óptica en la película. El ancho de la porción transparente de la pista variaba de 
+acuerdo con la onda sonora que se grababa. Una fotocelda detectaba la luz que pasaba 
+a través de la pista y convertía la intensidad de luz variable en una onda sonora. Como 
+con la grabación de fonógrafo, había algunas dificultades con este sistema de grabación. 
+Por ejemplo, el polvo o las huellas digitales en la película causaban fluctuaciones en la 
+intensidad y pérdida de fidelidad.
+La grabación digital en película apareció por primera vez con Dick Tracy (1990), usan-
+do el sistema Cinema Digital Sound, CDS. Este sistema carecía de un sistema de respaldo 
+analógico en caso de falla del equipo y ya no se usa en la industria cinematográfica. Sin 
+embargo, introdujo el uso de 5.1 canales de sonido: izquierda, centro, derecha, derecha 
+surround (envolvente), izquierda surround y efectos de baja frecuencia (LFE). El canal 
+LFE, que es el “canal 0.1” de 5.1, transporta frecuencias muy bajas para sonido dramático 
+de explosiones, terremotos y cosas parecidas.
+Las películas actuales se producen con tres sistemas de grabación de sonido digital:
+Dolby digital. En el formato Dolby digital, los 5.1 canales de sonido digital se almacenan 
+ópticamente entre los agujeros de la rueda de cadena de la película. Hay un respaldo 
+óptico analógico en caso de falla del sistema digital. La primera película que usó esta 
+técnica fue Batman Returns (1992).
+Sonido digital para sala de cine (DTS). En el DTS, los 5.1 canales de sonido se almacenan 
+en un CD–ROM separado, que se sincroniza con la película impresa mediante códi-
+gos de tiempo en la película. Hay un respaldo óptico analógico en caso de falla del 
+sistema digital. La primera película que usó esta técnica fue Jurassic Park (1993).
+Sonido digital dinámico Sony (SDDS). En el SDDS, ocho canales completos de sonido digi-
+tal se almacenan ópticamente afuera de los agujeros de la rueda de cadena a ambos 
+lados de la película. Hay un respaldo óptico analógico en caso de falla del sistema 
+digital. La primera película que usó esta técnica fue Last Action Hero (1993). La exis-
+tencia de información en ambos lados de la película es un sistema de redundancia; 
+en caso de que un lado se dañe, el sistema todavía opera. El SDDS emplea un canal 
+LFE de espectro completo y dos canales adicionales (izquierda centro y derecha 
+centro detrás de la pantalla).
+ Sección 17.6  Sonido cinematográfico  491
+
+492 Capítulo 17  Ondas sonoras
+ 1. O La tabla 17.1 muestra que la rapidez del sonido por lo ge-
+neral tiene un orden de magnitud mayor en sólidos que en 
+gases. ¿A qué se puede atribuir este valor más alto? a) la dife-
+rencia en densidad entre sólidos y gases, b) la diferencia en 
+compresibilidad entre sólidos y gases, c) el tamaño limitado 
+de un objeto sólido en comparación con un gas libre, d) la 
+imposibilidad de mantener un gas bajo tensión significativa.
+ 2. Si una alarma se coloca en un buen vacío y luego se activa, no 
+se escucha sonido. Explique.
+ 3. Un vigilante sónico es un dispositivo que determina la distan-
+cia a un objeto al enviar un pulso sonoro ultrasónico y medir 
+el intervalo de tiempo requerido para que la onda regrese por 
+reflexión desde el objeto. Por lo general, estos dispositivos no 
+pueden detectar confiablemente un objeto que esté a menos 
+de un metro del sensor. ¿Por qué es esto?
+ 4. Una amiga sentada en su automóvil, muy lejos en el camino, 
+agita las manos y comienza a sonar su claxon al mismo tiempo. 
+¿A qué distancia debe estar para que usted calcule la rapidez 
+del sonido a dos cifras significativas, al medir el intervalo de 
+tiempo requerido para que el sonido llegue hasta usted?
+ 5. O Suponga que un cambio en la fuente de sonido reduce 
+la longitud de onda de una onda sonora en el aire en un 
+factor de 2. i) ¿Qué sucede con su frecuencia? a) Aumenta 
+en un factor de 4. b) Aumenta en un factor de 2. c) No 
+O indica pregunta complementaria.
+Preguntas
+Resumen
+DEFINICIONES
+La intensidad de una onda sonora 
+periódica, que es la potencia por 
+cada unidad de área, es
+ I
+A
+1¢Pmáx 22
+2rv  (17.5, 17.6)
+El nivel sonoro de una onda sonora en decibeles es
+ b 10 log a I
+I0
+b  (17.8)
+La constante I0 es una intensidad de referencia, que usualmente se considera 
+como el umbral de audición (1.00  1012 W/m2), e I es la intensidad de la 
+onda sonora en watts por metro cuadrado.
+CONCEPTOS Y PRINCIPIOS
+Las ondas sonoras son 
+longitudinales y viajan a través 
+de un medio comprimible con 
+una rapidez que depende de las 
+propiedades elásticas e inerciales 
+de dicho medio. La rapidez del 
+sonido en un líquido o gas que 
+tenga un módulo volumétrico B y 
+densidad S es
+ v
+B
+r
+ (17.1)
+Para ondas sonoras sinusoidales, la variación en la posición de un elemento 
+del medio es
+ s 1x, t 2 smáx cos 1kx vt 2  (17.2)
+y la variación en presión a partir del valor de equilibrio es
+ ¢P
+¢Pmáx sen 1kx vt 2  (17.3)
+donde $Pmáx es la amplitud de presión. La onda de presión está 90° fuera de 
+fase con la onda de desplazamiento. La correspondencia entre smáx y $Pmáx es
+ ¢Pmáx rvvsmáx  (17.4)
+El cambio en la frecuencia que escucha un observador siempre que hay 
+movimiento relativo entre una fuente de ondas sonoras y el observador se 
+llama efecto Doppler. La frecuencia observada es
+ f ¿
+a vv O
+vv S
+b f  (17.l3)
+En esta expresión, los signos para los valores sustituidos para vO y vS dependen 
+de la dirección de la velocidad. Un valor positivo para la velocidad del 
+observador o fuente se sustituye si la velocidad de uno es hacia el otro, mientras 
+que un valor negativo representa una velocidad de uno alejándose del otro.
+En la grabación digital de 
+sonido, la forma de onda sonora 
+se muestrea 44 100 veces por 
+segundo. La presión de la onda 
+por cada muestreo se mide y 
+convierte en número binario. En 
+la reproducción estos números 
+binarios se leen y usan para 
+construir la forma de onda 
+original.
+
+Problemas 493
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+cambia. d) Disminuye en un factor de 2. e) Cambia por 
+un factor impredecible. ii) ¿Qué sucede con su rapidez? Elija 
+entre las mismas posibilidades.
+ 6. O Una onda sonora viaja en aire con una frecuencia de 500 
+Hz. Si la onda viaja del aire al agua, i) ¿qué sucede con su fre-
+cuencia? a) Aumenta. b) Disminuye. c) No cambia. ii) ¿Qué 
+sucede con su longitud de onda? Elija entre las mismas posibi-
+lidades.
+ 7. Al escuchar una banda u orquesta, ¿cómo puede determinar 
+que la rapidez del sonido es la misma para todas las frecuen-
+cias?
+ 8. O Una fuente puntual transmite sonido en un medio unifor-
+me. Si la distancia desde la fuente se triplica, ¿cómo cambia 
+la intensidad? a) Se convierte en un noveno. b) Se convierte 
+en un tercio. c) No cambia. d) Se vuelve tres veces más 
+grande. e) Se vuelve nueve veces más grande.
+ 9. O En un campanario la campana suena una vez. A 300 m en-
+frente de la iglesia, la intensidad sonora máxima es 2 NW/m
+2. 
+A 950 m detrás de la iglesia, la intensidad máxima es 0.2 NW/
+m
+2. ¿Cuál es el motivo principal para la diferencia en inten-
+sidad? a) La mayor parte del sonido es absorbida por el aire 
+antes de llegar muy lejos desde la fuente. b) La mayor parte del 
+sonido es absorbida por el suelo mientras viaja alejándose de 
+la fuente. c) La campana transmite el sonido principalmente 
+hacia el frente. d) A mayor distancia, la potencia se dispersa 
+sobre un área más grande. e) A mayor distancia, la potencia 
+se dispersa a través de un volumen esférico más grande.
+ 10. O Entre los siguientes sonidos, ¿cuál tiene más probabilidad 
+de alcanzar un nivel sonoro de 60 dB? a) un concierto de 
+rock, b) el voltear una página de este libro, c) una con -
+versación en la mesa a la hora de cenar, d) una animada 
+multitud en un partido de futbol.
+ 11. O  Con un medidor sensible del nivel sonoro mida el sonido de 
+una araña que corre a 10 dB. ¿Qué implica el signo negativo? 
+a) La araña se mueve alejándose de usted. b) La frecuencia 
+del sonido es muy baja para ser audible para los humanos. 
+c) La intensidad del sonido es muy débil para ser audible para 
+los humanos. d) Cometió un error: los signos negativos no 
+encajan con los logaritmos.
+ 12. El evento Tunguska . El 30 de junio de 1908, un meteoro se 
+quemó y explotó en la atmósfera sobre el valle del río Tun-
+guska, en Siberia. Derribó árboles en miles de kilómetros 
+cuadrados e inició un incendio forestal, pero no produjo crá-
+ter y aparentemente no causó pérdidas humanas. Un testigo 
+sentado en su pórtico afuera de la zona de los árboles caídos 
+recordó los eventos en la siguiente secuencia. Él vio una luz 
+moverse en el cielo, más brillante que el Sol, y descender en 
+un ángulo bajo hacia el horizonte. Sintió que su cara se calen-
+taba, que el suelo se sacudía. Un agente invisible lo levantó y 
+de inmediato lo soltó aproximadamente un metro más lejos de 
+donde había estado la luz. Escuchó un retumbar prolongado 
+muy fuerte. Sugiera una explicación para estas observaciones 
+y para el orden en el que ocurrieron.
+ 13. Explique qué sucede con la frecuencia del eco del claxon de 
+su automóvil mientras conduce hacia la pared de un cañón. 
+¿Qué sucede con la frecuencia mientras se aleja de la pared?
+ 14. O Una fuente de sonido vibra con frecuencia constante. Cla-
+sifique la frecuencia del sonido observado en los siguientes 
+casos, de mayor a menor. Si dos frecuencias son iguales, mues-
+tre su igualdad en su clasificación. Sólo una cosa se mueve a 
+la vez, y todos los movimientos mencionados tienen la misma  
+rapidez, 25 m/s. a) Fuente y observador estables entre aire es- 
+table. b) La fuente se mueve hacia el observador entre aire 
+tranquilo. c) La fuente se mueve alejándose del observador 
+entre aire tranquilo. d) El observador se mueve hacia la fuen-
+te entre aire tranquilo. e) El observador se mueve alejándose 
+de la fuente entre aire tranquilo. f) Fuente y observador es-
+tables, con un viento estable que sopla desde la fuente hacia 
+el observador. g) Fuente y observador estables, con un viento 
+estable que sopla desde el observador hacia la fuente.
+ 15. O Suponga que un observador y una fuente de sonido están 
+en reposo y un fuerte viento sopla alejándose de la fuente 
+hacia el observador. i) ¿Qué efecto tiene el viento sobre la 
+frecuencia observada? a) Hace que aumente. b) Hace que 
+disminuya. c) No genera cambios. ii) ¿Qué efecto tiene el 
+viento sobre la longitud de onda observada? Elija entre las 
+mismas posibilidades. iii) ¿Qué efecto tiene el viento sobre 
+la rapidez observada de la onda? Elija entre las mismas posi-
+bilidades.
+ 16. ¿Cómo puede un objeto moverse respecto de un observador 
+de modo que el sonido proveniente de él no se corra en fre-
+cuencia?
+4FDDJwO 3BQJEF[EFPOEBTTPOPSBT
+El problema 60 del capítulo 2 también se puede asignar con esta 
+sección.
+ 1. 
+; Suponga que usted escucha el chasquido de un trueno 16.2 s  
+después de ver el relámpago asociado. La rapidez del sonido en 
+el aire es de 343 m/s, y la rapidez de la luz en el aire es de 3.00 
+ 10
+8 m/s. ¿Qué tan lejos está del relámpago? ¿Necesita saber 
+el valor de la rapidez de la luz para responder? Explique.
+ 2. Encuentre la rapidez del sonido a través del mercurio, que 
+tiene un módulo volumétrico de 2.80  10
+10 N/m2 y una den-
+sidad de 13 600 kg/m3.
+ 3. Un delfín en agua de mar, a una temperatura de 25°C, da un 
+chirrido. ¿Cuánto tiempo pasa antes de que escuche un eco 
+desde el fondo del océano, 150 m abajo?
+ 4. La rapidez del sonido en el aire (en metros por segundo) de-
+pende de la temperatura, de acuerdo con la expresión aproxi-
+mada
+v 331.5 0.607 TC
+  donde TC es la temperatura Celsius. En aire seco, la tempera-
+tura disminuye casi 1°C por cada 150 m de aumento en altura. 
+a) Suponga que este cambio es constante hasta una altura de 
+9 000 m. ¿Qué intervalo de tiempo se requiere para que el so-
+Problemas
+
+494 Capítulo 17  Ondas sonoras
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+nido de un avión que vuela a 9 000 m llegue al suelo en un día 
+cuando la temperatura del suelo es de 30°C? b) ¿Qué pasaría 
+si? Compare su respuesta con el intervalo de tiempo requerido 
+si el aire estuviese uniformemente a 30°C. ¿Qué intervalo de 
+tiempo es más largo?
+ 5. Una maceta es derribada desde un balcón, 20.0 m arriba de 
+la acera, y cae hacia un confiado hombre de 1.75 m de alto 
+que está de pie abajo. ¿Qué tan cerca de la acera puede caer 
+la maceta antes de que sea demasiado tarde para que un grito 
+de advertencia desde el balcón llegue a tiempo al hombre?  
+Suponga que el hombre abajo requiere 0.300 s para responder 
+a la advertencia. La temperatura ambiente es de 20°C.
+ 6. Un avión de rescate vuela horizontalmente con rapidez cons-
+tante en busca de un bote descompuesto. Cuando el avión está 
+directamente arriba del bote, la tripulación del bote suena una 
+gran sirena. Para cuando el detector sonoro del avión recibe 
+el sonido de la sirena, el avión recorrió una distancia igual a 
+la mitad de su altura sobre el océano. Si supone que el sonido 
+tarda 2.00 s en llegar al avión, determine a) la rapidez del
+ 
+avión y b) su altura. Considere que la rapidez del sonido es de 
+343 m/s.
+ 7. Un vaquero está de pie sobre suelo horizontal entre dos riscos 
+verticales paralelos. No está a la mitad entre los riscos. Dispara 
+un tiro y escucha su eco. El segundo eco llega 1.92 s después 
+que el primero y 1.47 s antes que el tercero. Considere sólo 
+el sonido que viaja paralelo al suelo y se refleja de los riscos. 
+Considere que la rapidez del sonido es de 340 m/s. a) ¿Cuál  
+es la distancia entre los riscos? b) ¿Qué pasaría si? Si él puede 
+escuchar un cuarto eco, ¿en cuánto tiempo llega, después del 
+tercer eco?
+4FDDJwO
+ 0OEBTTPOPSBTQFSJwEJDBT
+Nota: Use los siguientes valores como necesarios a menos que se 
+especifique de otro modo. La densidad de equilibrio del aire a 
+20°C es S  1.20 kg/m
+3 y la rapidez del sonido es v  343 m/s. 
+Las variaciones de presión $P se miden en relación con la  
+presión atmosférica, 1.013  10
+5 N/m2.
+ 8. ; Una onda sonora se propaga en aire a 27°C con frecuencia 
+de 4.00 kHz. Pasa a través de una región donde la temperatura 
+cambia gradualmente y luego se mueve a través de aire a 0°C. 
+a) ¿Qué sucede con la rapidez de la onda? b) ¿Qué sucede 
+con su frecuencia? c) ¿Qué sucede con su longitud de onda? 
+Dé respuestas numéricas a estas preguntas en la medida de lo 
+posible y establezca su razonamiento acerca de lo que sucede 
+físicamente con la onda.
+ 9. El ultrasonido se usa en medicina tanto para formación de 
+imagen diagnóstica como para terapia. Para diagnosis: pulsos 
+cortos de ultrasonido pasan a través del cuerpo del paciente, se 
+registra un eco reflejado de una estructura de interés y es posi-
+ble determinar la distancia a la estructura a partir del retraso 
+de tiempo para que regrese el eco. Un solo transductor emite 
+y detecta el ultrasonido. Al reducir los datos con una compu-
+tadora se obtiene una imagen de la estructura. Con sonido de 
+baja intensidad, esta técnica no es invasiva y es inocua: se usa 
+para examinar fetos, tumores, aneurismas, cálculos y muchas 
+otras estructuras. Para revelar detalles, la longitud de onda 
+del ultrasonido reflejado debe ser pequeña comparada con el 
+tamaño del objeto que refleja la onda. a) ¿Cuál es la longitud 
+de onda del ultrasonido con una frecuencia de 2.40 MHz que 
+se usa en ecocardiografía para mapear el latido del corazón 
+humano? b) En todo el conjunto de técnicas de formación de 
+imagen se usan frecuencias en el intervalo de 1.00 a 20.0 MHz. 
+¿Cuál es el intervalo de longitudes de onda que corresponden 
+a este intervalo de frecuencias? La rapidez del ultrasonido en 
+el tejido humano es de aproximadamente 1 500 m/s (casi la 
+misma que la rapidez del sonido en el agua).
+ 10. Una onda sonora en el aire tiene una amplitud de presión 
+igual a 4.00  10
+3 N/m2. Calcule la amplitud de desplaza-
+miento de la onda a una frecuencia de 10.0 kHz.
+ 11. Una onda sonora sinusoidal se describe mediante la función 
+de onda de desplazamiento
+s 1x, t 2 12.00 mm 2 cos 31 15.7 m 1 2x 1858 s 1 2t 4
+  a) Encuentre la amplitud, longitud de onda y rapidez de esta 
+onda. b) Determine el desplazamiento instantáneo del equili-
+brio de los elementos de aire en la posición x  0.050 0 m en 
+t  3.00 ms. c) Determine la máxima rapidez del movimiento 
+oscilatorio del elemento.
+ 12 A medida que cierta onda sonora viaja a través del aire, produ-
+ce variaciones de presión (arriba y abajo de la presión atmosfé-
+rica) conocidas por $P  1.27 sen (Qx  340Qt) en unidades 
+del SI. Encuentre: a) la amplitud de las variaciones de presión, 
+b) la frecuencia, c) la longitud de onda en el aire y d) la rapi-
+dez de la onda sonora.
+ 13. Escriba una expresión que describa la variación de presión 
+como función de la posición y el tiempo para una onda sonora 
+sinusoidal en aire. Suponga que M  0.100 m y $P
+máx  0.200 
+N/m2.
+ 14. El esfuerzo de tensión en una gruesa barra de cobre es 99.5% 
+de su punto de rompimiento elástico de 13.0  10
+10 N/m2. Si 
+a través del material se transmite una onda sonora, a) ¿qué 
+amplitud de desplazamiento hará que se rompa la barra? b) 
+¿Cuál es la máxima rapidez de los elementos de cobre en este 
+momento? c) ¿Cuál es la intensidad sonora en la barra?
+ 15. Un experimentador quiere generar en aire una onda sonora 
+que tenga una amplitud de desplazamiento de 5.50  10
+6 m.  
+La amplitud de presión estará limitada a 0.840 N/m 2. ¿Cuál 
+es la longitud de onda mínima que puede tener la onda  
+sonora?
+4FDDJwO  *OUFOTJEBEEFPOEBTTPOPSBTQFSJwEJDBT
+ 16. El área de un tímpano representativo es casi 5.00  10
+5 m2. 
+Calcule la potencia sonora incidente en un tímpano a a) el 
+umbral de audición y b) el umbral de dolor.
+ 17. Calcule el nivel sonoro (en decibeles) de una onda sonora que 
+tenga una intensidad de 4.00 NW/m
+2.
+ 18. El tubo que se muestra en la figura 17.2 está lleno con aire a 
+20°C y presión de equilibrio de 1 atm. El diámetro del tubo es 
+de 8.00 cm. El pistón se impulsa con una frecuencia de 600 Hz 
+con una amplitud de 0.120 cm. ¿Qué potencia se debe sumi-
+nistrar para mantener la oscilación del pistón?
+ 19. La intensidad de una onda sonora a una distancia fija de una 
+bocina que vibra a 1.00 kHz es de 0.600 W/m
+2. a) Determine 
+la intensidad que resulta si la frecuencia se aumenta a 2.50 
+kHz mientras se mantiene una amplitud de desplazamiento 
+constante. b) Calcule la intensidad si la frecuencia se reduce a 
+0.500 kHz y se duplica la amplitud de desplazamiento.
+ 20. La intensidad de una onda sonora a una distancia fija de una 
+bocina que vibra con una frecuencia f es I. a) Determine la 
+intensidad que resulta si la frecuencia se aumenta a f   mien-
+tras se mantiene una amplitud de desplazamiento constante.
+
+Problemas 495
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+b) Calcule la intensidad si la frecuencia se reduce a f/2 y se 
+duplica la amplitud de desplazamiento.
+ 21. La melodía vocal más excelsa está en la Misa en Si menor de Jo-
+hann Sebastian Bach. En la figura P17.21 aparece una parte de 
+la partitura para la sección Credo
+, número 9, barras 25 a 33. La 
+sílaba repetida O en la frase “resurrectionem mortuorum” (la 
+resurrección de los muertos) pasa sin corte de bajos a tenores 
+a altos a primeras sopranos, como una estafeta en una carrera  
+de relevos. Cada voz lleva la melodía de primer plano a través de 
+un pasaje que se eleva y abarca una octava o más. Juntas, las 
+voces la llevan de Re abajo del Do medio a La arriba de un 
+Do alto de tenor. En tono de concierto, a estas notas ahora se 
+les asignan frecuencia de 146.8 Hz y 880.0 Hz. a) Encuentre 
+las longitudes de onda de las notas inicial y final. b) Suponga 
+que el coro canta la melodía con un nivel sonoro uniforme 
+de 75.0 dB. Encuentre las amplitudes de presión de las notas 
+inicial y final. c) Encuentre las amplitudes de desplazamiento 
+de las notas inicial y final. d) ¿Qué pasaría si?  En la época 
+de Bach, antes de la invención del diapasón, las frecuencias 
+se asignaban a las notas como una cuestión de conveniencia 
+local inmediata. Suponga que la melodía ascendente se cantó 
+comenzando en 134.3 Hz y finalizó en 804.9 Hz. ¿Cómo cam-
+biarían las respuestas a los incisos de la a) a la c)?
+ 22. Demuestre que la diferencia entre los niveles de decibeles C
+1 
+y C2 de un sonido se relacionan con la relación de las distan-
+cias r 1 y r 2 desde la fuente sonora mediante
+b2 b1 20 log a r1
+r2
+b
+ 23. En un estadio cerrado se realiza un espectáculo familiar en 
+hielo. Los patinadores actúan con música a un nivel de 80.0 
+dB. Este nivel es muy bajo para su bebé, quien llora a 75.0 dB. 
+a) ¿Qué intensidad sonora total absorbe usted? b) ¿Cuál es el 
+nivel sonoro combinado?
+ 24. Un martillo neumático, funciona continuamente en un sitio 
+de construcción, se comporta como una fuente puntual de  
+ondas sonoras esféricas. Un super
+visor de la construcción está 
+de pie a 50.0 m al norte de esta fuente sonora y comienza a 
+caminar hacia el oeste. ¿Cuánto tiene que caminar para que la 
+amplitud de la función de onda caiga en un factor de 2.00?
+ 25. La potencia de salida de cierta bocina pública es de 6.00 W. Su-
+ponga que transmite por igual en todas direcciones. a) ¿Desde 
+la bocina a qué distancia el sonido sería doloroso al oído? 
+b) ¿A qué distancia, desde la bocina, el sonido sería apenas 
+audible?
+ 26. Dos bocinas pequeñas emiten ondas sonoras de diferentes fre-
+cuencias, por igual, en todas direcciones. La bocina A tiene 
+una salida de 1.00 mW, y la bocina B
+ tiene una salida de 1.50 
+mW. Determine el nivel sonoro (en decibeles) en el punto C 
+de la figura P17.26, si supone que a) sólo la bocina A emite 
+sonido, b) sólo la bocina B emite sonido y c) ambas bocinas 
+emiten sonido.
+ 27. Una carga de explosivo se detona a muchos metros sobre el 
+suelo. A una distancia de 400 m de la explosión, la presión  
+acústica alcanza un máximo de 10.0 N/m
+2. Suponga que la ra-
+pidez del sonido es constante en 343 m/s a través de la atmós-
+fera sobre la región considerada, que el suelo absorbe todo 
+el sonido que cae en él y que el aire absorbe energía sonora 
+como se describe en la proporción de 7.00 dB/km. ¿Cuál es el 
+nivel sonoro (en decibeles) a 4.00 km de la explosión?
+ 28. Un cohete explota a una altura de 100 m sobre el suelo. Un 
+observador en el suelo, directamente abajo de la explosión, 
+experimenta una intensidad sonora promedio de 7.00 
+ 102 
+W/m2 durante 0.200 s. a) ¿Cuál es la energía sonora total de 
+la explosión? b) ¿Cuál es el nivel sonoro (en decibeles) que 
+escucha el observador?
+ 29. El nivel sonoro a una distancia de 3.00 m de una fuente es 
+de 120 dB. ¿A qué distancia el nivel sonoro es de a) 100 dB y  
+b) 10.0 dB?
+ 30. El cambio más pequeño en nivel sonoro que una persona 
+puede distinguir es de aproximadamente 1 dB. Cuando usted 
+se para junto a su podadora mientras está en funcionamiento, 
+Figura P17.21 Partes de bajo (azul), tenor (verde), alto (café) y primera soprano (rojo) de una parte de la Misa en Si menor de Bach. Los bajos 
+cantan la melodía de primer plano durante dos tiempos, luego los tenores durante dos tiempos, luego los altos y luego las primeras sopranos. 
+Para enfatizar, esta línea se imprimió toda en negro. Se omitieron las partes para las segundas sopranos, violines, viola, flautas, oboes y continuo. 
+La parte de tenor se escribe como se canta.
+C
+AB
+3.00 m 2.00 m
+4.00 m
+resurrecti - o - - - -
+resurrecti - o - - -
+resurrecti - o - - -
+resurrecti - o - - - nem mortuorum
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - rumnemmortu o
+nemmortu o - - - - - - - - - - - - - - - - - - - - - - - - - - - - - rum
+nem mortu o - - - rum
+Figura P17.26
+
+496 Capítulo 17  Ondas sonoras
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+¿puede escuchar el ronroneo estable de la podadora de su veci-
+no? Haga un cálculo de un orden de magnitud para sustentar 
+su respuesta y establezca los datos que mida o estime.
+ 31. Mientras la gente canta en la iglesia, el nivel sonoro en todas 
+partes en el interior es de 101 dB. Ningún sonido se transmi-
+te a través de las grandes paredes, pero todas las ventanas y 
+puertas están abiertas una mañana de verano. Su área total 
+es de 22.0 m
+2. a) ¿Cuánta energía sonora se radia en 20.0 
+min? b) Suponga que el suelo es un buen reflector y que el 
+sonido radia uniformemente en todas direcciones horizontal-
+mente y hacia arriba. Encuentre el nivel sonoro a 1.00 km de  
+distancia.
+4FDDJwO  &MFGFDUP%PQQMFS
+ 32. Unos padres expectantes están emocionados por escuchar el 
+latido cardiaco de su bebé nonato, revelado por un detector 
+de movimiento ultrasónico. Suponga que la pared ventricular 
+del feto se mueve en movimiento armónico simple con una 
+amplitud de 1.80 mm y una frecuencia de 115 por minuto.  
+a) Encuentre la rapidez máxima lineal de la pared cardiaca. 
+Suponga que el detector de movimiento en contacto con el 
+abdomen de la madre produce sonido a 2 000 000.0 Hz, que 
+viajan a través del tejido a 1.50 km/s. b) Encuentre la frecuen-
+cia máxima a la cual el sonido llega a la pared del corazón del 
+bebé. c) Encuentre la frecuencia máxima a la cual el sonido 
+reflejado se recibe en el detector de movimiento. Al “escu
+-
+char” electrónicamente los ecos a una frecuencia diferente de 
+la frecuencia transmitida, el detector de movimiento puede 
+producir sonido corto y agudo audible en sincronización con 
+el latido fetal.
+ 33. Un conductor viaja hacia el norte sobre una autopista con 
+una rapidez de 25.0 m/s. Una patrulla de caminos, que viaja 
+hacia el sur con una rapidez de 40.0 m/s, se aproxima con su 
+sirena produciendo sonido a una frecuencia de 2 500 Hz. a) 
+¿Qué frecuencia observa el conductor mientras se aproxima 
+la patrulla? b) ¿Qué frecuencia detecta el conductor después 
+de que lo rebasa la patrulla? c) Repita los incisos a) y b) para 
+cuando la patrulla viaje hacia el norte.
+ 34. Un bloque con una bocina atornillada a él se conecta a un re-
+sorte que tiene una constante de resorte k  20.0 N/m, como 
+se muestra en la figura P17.34. La masa total del bloque y la 
+bocina es de 5.00 kg, y la amplitud de movimiento de esta uni-
+dad es 0.500 m. a) La bocina emite ondas sonoras de 440 Hz de 
+frecuencia. Determine las frecuencias más alta y más baja que 
+escucha una persona a la derecha de la bocina. b) Si el nivel 
+sonoro máximo que escucha la persona es de 60.0 dB cuando 
+está más cerca de la bocina, a 1.00 m de distancia, ¿cuál es el 
+nivel sonoro mínimo que escucha el obser
+vador? Suponga que 
+la rapidez del sonido es de 343 m/s.
+ 35. De pie en un crucero, usted escucha una frecuencia de 560 Hz 
+de la sirena de una ambulancia que se aproxima. Después de 
+que la ambulancia pasa, la frecuencia obser vada de la sirena 
+es de 480 Hz. Determine la rapidez de la ambulancia a partir 
+de estas obser
+vaciones.
+ 36. En los juegos olímpicos de invierno, una atleta monta en 
+su luge por la pista mientras una campana justo arriba de la 
+pared del tobogán suena continuamente. Cuando el luge pasa 
+la campana, la atleta escucha que la frecuencia de la campana 
+cae por el inter valo musical llamado tercer menor
+. Esto es, 
+la frecuencia que ella escucha cae a cinco sextos de su valor 
+original. a) Encuentre la rapidez del sonido en el aire a la 
+temperatura ambiente de 10.0°C. b) Encuentre la rapidez 
+de la atleta.
+ 37. Un diapasón que vibra a 512 Hz cae desde el reposo y acelera 
+a 9.80 m/s
+2. ¿Qué tan abajo del punto de liberación se encuen-
+tra el diapasón cuando ondas de 485 Hz de frecuencia llegan 
+al punto de liberación? Considere que la rapidez del sonido 
+en el aire es de 340 m/s.
+ 38. Una sirena montada en el techo de una estación de bomberos 
+emite sonido con una frecuencia de 900 Hz. Un viento estable 
+sopla con una rapidez de 15.0 m/s. Si considera que la rapidez 
+del sonido en aire tranquilo es de 343 m/s, encuentre la lon-
+gitud de onda del sonido a) a favor del viento de la sirena y b) 
+contra el viento de la sirena. Los bomberos se aproximan a la 
+sirena desde diferentes direcciones a 15.0 m/s. ¿Qué frecuen-
+cia escucha un bombero c) si se aproxima desde una posición 
+a favor del viento, de modo que se mueve en la dirección en 
+la que el viento sopla, y d) si se aproxima desde una posición 
+contraria al viento?
+ 39. Un avión supersónico que viaja a Mach 3.00 a una altura de  
+20 000 m está directamente arriba de una persona en el tiempo 
+t
+  0, como se muestra en la figura P17.39. a) ¿En qué tiem- 
+po la persona encontrará la onda de choque? b) ¿Dónde estará 
+el avión cuando finalmente se escuche el “estallido”? Suponga 
+que la rapidez del sonido en el aire es de 335 m/s.
+ 40. El bucle del látigo de un maestro de pista de circo viaja a Mach 
+1.38 (esto es, v
+S /v  1.38). ¿Qué ángulo forma el frente de 
+choque con la dirección de movimiento del látigo?
+ 41. Cuando partículas con cargas de alta energía se mueven a 
+través de un medio transparente con una rapidez mayor que 
+la rapidez de la luz en dicho medio, se produce una onda 
+de choque, u onda de proa, de luz. Este fenómeno se llama 
+efecto Cerenkov. Cuando un reactor nuclear se blinda mediante 
+una gran alberca de agua, la radiación Cerenkov se puede ver 
+como un brillo azul en la vecindad del núcleo del reactor de-
+Figura P17.34
+x
+mk
+Figura P17.39
+ht  0
+Observador
+a)
+u 
+b)
+El observador escucha 
+el “estallido”
+h
+x
+u
+
+Problemas 497
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+bido a electrones de alta rapidez que se mueven a través del 
+agua. En un caso particular, la radiación Cerenkov produce un 
+frente de onda con un semiángulo de vértice de 53.0°. Calcule 
+la rapidez de los electrones en el agua. La rapidez de la luz en 
+el agua es 2.25  10
+8 m/s.
+4FDDJwO  (SBCBDJwOEFTPOJEPEJHJUBM
+4FDDJwO   4POJEPDJOFNBUPHSgGJDP
+ 42. ; Este problema representa una posible forma (aunque no 
+recomendable) de codificar presiones instantáneas en una 
+onda sonora en palabras digitales de 16 bits. El ejemplo 17.2 
+menciona que la amplitud de presión de un sonido de 120 dB 
+es 28.7 N/m
+2. Sea 65 536 el código digital que representa esta 
+variación de presión. Sea la palabra digital 0 en la grabación 
+la representación de la variación de presión cero. Represen-
+te otras presiones intermedias mediante palabras digitales de 
+tamaño intermedio, en proporción directa con la presión. a) 
+¿Qué palabra digital representaría la máxima presión en un 
+sonido de 40 dB? b) Explique por qué este esquema funciona 
+pobremente para sonidos suaves. c) Explique cómo este es-
+quema de codificación cortaría la mitad de la forma de onda 
+de cualquier sonido, ignorando la forma real de la onda y 
+convirtiéndola en una cadena de ceros. Al introducir esquinas 
+agudas en cada forma de onda registrada, este esquema de 
+codificación haría que todo sonido fuera como un zumbador 
+o una flauta de un solo agujero.
+1SPCMFNBTBEJDJPOBMFT
+ 43. 
+; Un deslizador de 150 g, móvil a 2.30 m/s sobre una pista 
+de aire, experimenta una colisión completamente inelásti-
+ca con un deslizador de 200 g originalmente estacionario, y 
+los dos deslizadores quedan unidos durante un intervalo de 
+tiempo de 7.00 ms. Un estudiante sugiere que aproximada-
+mente la mitad de la energía mecánica perdida va a sonido. 
+¿Esta sugerencia es razonable? Para evaluar la idea, encuentre 
+el nivel implicado del sonido a 0.800 m de los deslizadores. 
+Si la idea del estudiante no es razonable, sugiera una mejor 
+idea.
+ 44. 
+; Explique cómo la función de onda
+¢P 1r, t2 a 25.0 Pa # m
+r b  sen 11.36r  rad>m 2 030 t  rad>s2
+  se puede aplicar a una onda que radia desde una fuente peque-
+ña, con r como la distancia radial desde el centro de la fuente 
+hasta cualquier punto afuera de la fuente. Dé la descripción 
+más detallada que pueda de la onda. Incluya respuestas a pre-
+guntas como las siguientes. ¿La onda se mueve más hacia la 
+derecha o la izquierda? Mientras se aleja de la fuente, ¿qué 
+sucede con su amplitud? ¿Su rapidez? ¿Su frecuencia? ¿Su 
+longitud de onda? ¿Su potencia? ¿Su intensidad? ¿Cuáles son 
+los valores representativos para cada una de estas cantidades? 
+¿Qué puede decir acerca de la fuente de la onda? ¿Acerca del 
+medio a través del que viaja?
+ 45. 
+; Un gran conjunto de gradas de futbol desocupadas tiene 
+asientos y contrahuellas sólidos. Usted está de pie en el campo, 
+enfrente de las gradas y aplaude bruscamente una vez con dos 
+tableros de madera, el pulso sonoro que produce no tiene 
+frecuencia ni longitud de onda definidas. El sonido que es-
+cucha reflejado de las gradas tiene una frecuencia identifica-
+ble y puede recordarle una breve nota de trompeta o de un 
+zumbador o flauta de un solo agujero. Explique este sonido. 
+a) Calcule una estimación del orden de magnitud para la fre-
+cuencia, longitud de onda y duración del sonido, sobre la base 
+de los datos que especifique. b) Cada cara de una gran pirá-
+mide maya es como una escalera con escalones muy estrechos. 
+¿Puede producir un eco de una palmada que suene como el 
+canto de un ave? Explique su respuesta.
+ 46. 
+; Ondas esféricas con 45.0 cm de longitud de onda, se pro-
+pagan hacia afuera de una fuente puntual. a) Explique la 
+comparación entre la intensidad a una distancia de 240 cm 
+con la intensidad a una distancia de 60.0 cm. b) Explique la 
+comparación entre la amplitud a una distancia de 240 cm, con 
+la amplitud a una distancia de 60.0 cm. c) Explique la compa-
+ración entre la fase de la onda a una distancia de 240 cm, con 
+la fase a 60.0 cm en el mismo momento.
+ 47. Una onda sonora en un cilindro se describe mediante las ecuacio-
+nes 17.2 a la 17.4. Demuestre que 
+¢P ;rvv s 2
+máx s 2.
+ 48. Muchos artistas cantan notas muy altas en notas improvisadas 
+y cadencias. La nota más alta escrita para un cantante en una 
+fuente publicada fue el Fa sostenido sobre Do alto, 1.480 kHz, 
+para Zerbinetta en la versión original de la ópera de Richard 
+Strauss Ariadne auf Naxos. a) Encuentre la longitud de onda de 
+este sonido en aire. b) Suponga que las personas en la cuarta 
+fila de asientos escuchan esta nota con un nivel de 81.0 dB. 
+Encuentre la amplitud de desplazamiento del sonido. c) ¿Qué 
+pasaría si? En respuesta a las quejas, Strauss transpuso la nota 
+más baja Fa sobre Do alto, 1.397 kHz. ¿En qué incremento 
+cambió la longitud de onda? (La Reina de la Noche en la Flau-
+ta Mágica de Mozart también canta Fa sobre Do alto.)
+ 49. Una mañana de sábado, las camionetas y vehículos deportivos 
+utilitarios que llevan basura al depósito municipal forman una 
+procesión casi estable en un camino vecinal, y todos viajan a 
+19.7 m/s. Desde una dirección, dos camiones llegan al depó-
+sito cada 3 minutos. Un ciclista también viaja hacia el depósito 
+a 4.47 m/s. a) ¿Con qué frecuencia los camiones pasan al ci-
+clista? b) ¿Qué pasaría si? Una colina no frena a los camiones, 
+pero hace que la rapidez del ciclista fuera de forma baje a 1.56 
+m/s. ¿Con qué frecuencia los ruidosos, olorosos, ineficientes, 
+derramabasura, maleducados camiones pasan zumbando 
+ahora al ciclista?
+ 50. Problema de repaso. Para cierto tipo de acero, el esfuerzo  
+siempre es proporcional a la deformación con el módulo de 
+Y
+oung que se muestra en la tabla 12.1. El acero tiene la den-
+sidad que se menciona para el hierro en la tabla 14.1. Que-
+dará permanentemente doblado si se somete a un esfuerzo 
+compresivo mayor que su límite elástico T
+y  400 MPa. Una 
+barra de 80.0 cm de largo, hecha de este acero, se dispara a 
+12.0 m/s directo a una pared muy dura o a otra barra idén-
+tica que se mueve en la dirección opuesta. a) La rapidez de 
+una onda compresiva unidimensional móvil a lo largo de la 
+barra se conoce por 
+v Y>r, donde Y es el módulo de 
+Young para la barra y S es la densidad. Calcule esta rapidez. 
+b) Después de que el extremo frontal de la barra golpea la 
+pared y se detiene, el extremo posterior de la barra sigue en 
+movimiento como se describe mediante la primera ley de 
+Newton hasta que se detiene por presión excesiva en una onda 
+sonora móvil de regreso a través de la barra. ¿Qué intervalo 
+de tiempo transcurre antes de que el extremo posterior de la 
+barra reciba el mensaje de que debe detenerse? c) ¿Cuánto 
+se movió el extremo posterior de la barra en este intervalo de 
+tiempo? Encuentre d) la deformación y e) el esfuerzo en la 
+barra. f) Si no debe fallar, demuestre que la máxima rapidez de 
+impacto que una barra puede tener se conoce por la expresión
+v sy > rY.
+
+498 Capítulo 17  Ondas sonoras
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+de la sirena si la patrulla estuviera en reposo? c) ¿Cuál es la 
+longitud de onda enfrente de la patrulla? d) ¿Cuál es detrás de 
+la patrulla? e) ¿Cuál es la frecuencia que escucha el conductor 
+que es perseguido?
+ 57. 
+; La rapidez de una onda compresiva unidimensional que 
+viaja a lo largo de una barra delgada de cobre es 3.56 km/s. A 
+una barra de cobre se le da un martillazo en un extremo. Un 
+escucha en el extremo lejano de la barra percibe el sonido dos 
+veces, transmitido a través del metal y a través del aire a 0°C, 
+con un intervalo de tiempo $t entre los dos pulsos. a) ¿Cuál 
+sonido llega primero? b) Encuentre la longitud de la barra 
+como función de $t. c) Evalúe la longitud de la barra si $t  
+127 ms. d) Imagine que el cobre se sustituye por un material 
+mucho más rígido a través del cual el sonido viajaría mucho 
+más rápido. ¿Cómo cambiaría la respuesta del inciso b)? ¿Iría 
+a un límite bien definido a medida que la rapidez de la señal 
+en la barra tiende a infinito? Explique su respuesta.
+ 58. Una autopista interestatal se construyó a través de un vecinda-
+rio pobre en la ciudad. En la tarde, el nivel sonoro en una ha-
+bitación rentada es de 80.0 dB cuando 100 automóviles pasan 
+afuera de la ventana cada minuto. En la madrugada, cuando el 
+inquilino del cuarto está en su trabajo en una fábrica, el flujo 
+de tránsito es de sólo cinco automóviles por minuto. ¿Cuál es 
+el nivel sonoro promedio en la madrugada?
+ 59. Un meteoroide del tamaño de un camión entra a la atmósfera 
+de la Tierra con una rapidez de 20.0 km/s y no se frena signi-
+ficativamente antes de entrar al océano. a) ¿Cuál es el ángulo 
+Mach de la onda de choque del meteoroide en la atmósfera? 
+(Use 331 m/s como la rapidez del sonido.) b) Si supone que el 
+meteoroide sobrevive al impacto con la superficie del océano, 
+¿cuál es el ángulo Mach (inicial) de la onda de choque que 
+produce el meteoroide en el agua? (Use la rapidez de onda 
+para agua de mar dada en la tabla 17.1.)
+ 60. La ecuación 17.7 afirma que, a una distancia 
+r de una fuente 
+puntual con potencia prom, la intensidad de onda es
+I
+prom
+4pr 2
+  Estudie la figura 17.9 y pruebe que, a una distancia r justo en-
+frente de una fuente puntual con potencia prom que se mueve 
+con rapidez constante vS, la intensidad de onda es
+I
+prom
+4pr 2 a vv S
+v b
+ 61. Con métodos experimentales particulares, es posible producir 
+y observar en una larga barra delgada tanto una onda lon
+-
+gitudinal como una onda transversal cuya rapidez depende 
+principalmente de la tensión en la barra. La rapidez de la onda 
+longitudinal está determinada por el módulo de Young y la 
+densidad del material, de acuerdo con la expresión 
+v Y>r. 
+La onda transversal se puede modelar como una onda en una 
+cuerda estirada. Una barra metálica particular tiene 150 cm de 
+largo y un radio de 0.200 cm y una masa de 50.9 g. El módulo 
+de Young para el material es 6.80  10
+10 N/m2. ¿Cuál debe ser 
+la tensión en la barra si la relación de la rapidez de las ondas 
+longitudinales a la rapidez de las ondas transversales es 8.00?
+ 62. La ecuación Doppler que se presentó en el texto es válida 
+cuando el movimiento entre el obser vador y la fuente se pre-
+senta en línea recta, de modo que la fuente y el obser
+vador se 
+mueven directamente uno hacia el otro o directamente uno 
+alejándose del otro. Si esta restricción se relaja, uno debe usar 
+la ecuación Doppler más general
+ 51. Para permitir la medición de su rapidez, un paracaidista 
+porta un zumbador que emite un tono estable a 1 800 Hz. Un 
+amigo ubicado en el suelo en el sitio de aterrizaje directamen-
+te abajo escucha el sonido amplificado que recibe. Suponga 
+que el aire está tranquilo y que la rapidez del sonido es 343 
+m/s, independiente de la altitud. Mientras el paracaidista cae 
+con rapidez terminal, su amigo en el suelo recibe ondas de   
+2 150 Hz de frecuencia. a) ¿Cuál es la rapidez de descenso del 
+paracaidista? b)
+ ¿Qué pasaría si? Suponga que el paracaidista 
+puede escuchar el sonido del zumbador reflejado del suelo. 
+¿Qué frecuencia recibe?
+ 52. Pruebe que las ondas sonoras se propagan con una rapidez 
+determinada por la ecuación 17.1. Proceda del modo siguien-
+te: en la figura 17.2, considere una delgada capa cilíndrica de 
+aire en el cilindro, con área de cara A y grosor $x. Dibuje un 
+diagrama de cuerpo libre de esta delgada capa. Demuestre que 
+h 
+Fx  max implica que
+0 1¢P 2
+0x A ¢x rA ¢x 02s
+0t2
+  Al sustituir $P  B(es/ex), deducir la siguiente ecuación de 
+onda para el sonido
+B
+r
+02s
+0x2
+02s
+0t2
+  Para un físico matemático, esta ecuación demuestra la exis-
+tencia de ondas sonoras y determina su rapidez. Como estu-
+diante de física, usted debe dar otro paso o dos. Sustituya en la 
+ecuación de onda la solución de prueba s(x, t)  s
+máx cos(kx  
+Wt). Demuestre que esta función satisface la ecuación de onda 
+siempre que 
+v k B>> r. Este resultado revela que las ondas 
+sonoras existen siempre que se muevan con la rapidez v  f M 
+ (2Qf )(M/2Q)  W/k  B>r.
+ 53. Dos barcos se mueven a lo largo de una línea hacia el este. El 
+buque trasero tiene una rapidez, relativa a un punto de obser-
+vación con base en tierra, de 64.0 km/h, y el buque delantero 
+tiene una rapidez de 45.0 km/h en relación con dicho punto. 
+Los dos barcos están en una región del océano donde el movi-
+miento de la corriente es uniforme hacia el oeste a 10.0 km/h. 
+El barco trasero transmite una señal de sonar a una frecuencia 
+de 1 200.0 Hz. ¿Qué frecuencia monitorea el barco delantero? 
+Use 1 520 m/s como la rapidez del sonido en agua oceánica.
+ 54. Un murciélago, que se mueve a 5.00 m/s, persigue a un insecto
+ 
+volador. Si el murciélago emite un chillido de 40.0 kHz y recibe
+ 
+de vuelta un eco a 40.4 kHz, ¿a qué rapidez se mueve el insecto 
+hacia o alejándose del murciélago? (Considere que la rapidez 
+del sonido en el aire es v  340 m/s.)
+ 55. Suponga que una bocina transmite sonido por igual en todas 
+direcciones y produce sonido con un nivel de 103 dB a una dis- 
+tancia de 1.60 m desde su centro. a) Encuentre su potencia 
+de salida sonora. b) Si un vendedor afirma que le da 150 W 
+por cada canal, él se refiere a la entrada de potencia eléctri-
+ca a la bocina. Encuentre la eficiencia de la bocina, es decir, 
+la fracción de potencia de entrada que se convierte en poten-
+cia de salida útil.
+ 56. Una patrulla viaja hacia el este a 40.0 m/s a lo largo de un 
+camino recto, y rebasa a un automóvil adelante de ella que  
+se mueve al este a 30.0 m/s. A la patrulla se le descompone 
+la sirena, que se pega a 1 000 Hz. a) Bosqueje la apariencia 
+de los frentes de onda del sonido producido por la sirena.
+ 
+Muestre los frentes de onda tanto al este como al oeste de la 
+patrulla. b) ¿Cuál sería la longitud de onda en aire del sonido
+
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+f ¿ a vv O cos uO
+vv S cos uS
+b f
+  donde VO y VS se definen en la figura P17.62a. a) Demuestre 
+que, si el observador y la fuente se mueven alejándose directa-
+mente uno de otro, la ecuación anterior se reduce a la ecua-
+ción 17.13, con valores negativos tanto para v
+O como para vS. 
+b) Use la ecuación precedente para resolver el siguiente pro-
+blema: un tren se mueve con una rapidez constante de 25.0 
+m/s hacia la intersección que se muestra en la figura P17.62b. 
+Un automóvil se detiene cerca del cruce, a 30.0 m de las vías. 
+Si el silbato del tren emite una frecuencia de 500 Hz, ¿cuál 
+es la frecuencia que escuchan los pasajeros en el automóvil 
+cuando el tren está a 40.0 m de la intersección? Considere que 
+la rapidez del sonido es de 343 m/s.
+ 63. Tres barras metálicas se ubican una en relación con la otra 
+como se muestra en la figura P17.63, donde L
+1  L2  L3. La 
+rapidez del sonido en una barra se conoce por v Y>r, 
+donde Y es el módulo de Young para la barra y S es la densi-
+dad. Los valores de densidad y módulo de Young para los tres 
+materiales son: S
+1  2.70  103 kg/m3, Y1  7.00  1010 N/m2, 
+S2  11.3  103 kg/m3, Y2  1.60  10 10 N/m2, S3  8.80  
+103 kg/m3 y Y3  11.0  1010 N/m2. a) Si L3  1.50 m, ¿cuál 
+debe ser la relación L 1/L 2 si una onda sonora debe viajar la 
+longitud de las barras 1 y 2 en el mismo intervalo de tiempo 
+requerido para que la onda recorra la longitud de la barra 3? 
+b) La frecuencia de la fuente es de 4.00 kHz. Determine la di-
+ferencia de fase entre la onda que viaja a lo largo de las barras 
+1 y 2 y la que viaja a lo largo de la barra 3.
+La longitud de onda detectada es mayor en A, así que las 
+opciones c) y d) son incorrectas. La opción f) es incorrecta 
+porque la frecuencia detectada es menor en A.
+17.5 e). La intensidad del sonido aumenta porque el tren se 
+mueve más cerca de usted. Ya que el tren se mueve con velo-
+cidad constante, la frecuencia de corrimiento Doppler per-
+manece fija.
+17.6 b). El número Mach es la relación de la rapidez del avión 
+(que no cambia) a la rapidez del sonido, que es mayor en el 
+aire caliente que en el frío. El denominador de esta relación 
+aumenta, mientras que el numerador permanece constante. 
+Por lo tanto, la relación como un todo, el número Mach, 
+disminuye.
+17.1 c). Ya que el fondo de la botella es una barrera rígida, el 
+desplazamiento de los elementos de aire en el fondo es cero. 
+Ya que la variación de presión es un mínimo o un máximo 
+cuando el desplazamiento es cero, y ya que el pulso se mueve 
+hacia abajo, la variación de presión en el fondo es un máxi-
+mo.
+17.2 b). La gran área del cuerpo de la guitarra pone muchos ele-
+mentos de aire en oscilación y permite que la energía deje 
+el sistema mediante ondas mecánicas en una proporción 
+mucho mayor que de la delgada cuerda en vibración.
+17.3 b). El factor de 100 es dos potencias de 10. El logaritmo de 
+100 es 2, que multiplicado por 10 da 20 dB.
+17.4 e). La rapidez de onda no se puede cambiar al mover la 
+fuente, de modo que las opciones a) y b) son incorrectas. 
+Figura P17.63
+Respuestas a las preguntas rápidas
+S vS
+O
+vO
+a)
+O
+SV
+V
+b)
+25.0 m/s
+12
+3
+L3
+L2L1
+Figura P17.62
+ Respuestas a las preguntas rápidas 499
+
+Se introdujo el modelo ondulatorio en los dos capítulos anteriores. Se vio que las ondas 
+son muy diferentes de las partículas. Una partícula es de tamaño cero, mientras que una 
+onda tiene un tamaño característico, su longitud de onda. Otra diferencia importante 
+entre ondas y partículas es que se puede explorar la posibilidad de dos o más ondas com-
+binadas en un punto en el mismo medio. Las partículas se combinan para formar objetos 
+extendidos, pero las partículas deben estar en diferentes posiciones. En contraste, dos ondas 
+pueden estar presentes en la misma posición. Las ramificaciones de esta posibilidad se 
+exploran en este capítulo.
+Cuando las ondas se combinan en sistemas con condiciones de frontera, sólo existen 
+ciertas frecuencias permitidas, y se dice que las frecuencias están cuantizadas. La cuan-
+tización es una noción que está en el corazón de la mecánica cuántica, un tema que se 
+introduce de manera formal en el capítulo 40. Ahí se demuestra que las ondas bajo con-
+diciones de frontera explican muchos de los fenómenos cuánticos. En este capítulo se usa 
+la cuantización para entender el comportamiento de la amplia variedad de instrumentos 
+musicales que se basan en cuerdas y columnas de aire.
+También se considera la combinación de ondas que tienen diferentes frecuencias. 
+Cuando interfieren dos ondas sonoras que tienen casi la misma frecuencia, se escuchan 
+variaciones en la sonoridad llamadas batimientos. Por último, se analiza cómo cualquier 
+onda periódica no sinusoidal se describe como una suma de funciones seno y coseno.
+18.1 Sobreposición e interferencia
+18.2 Ondas estacionarias
+18.3  Ondas estacionarias en una cuerda fija en ambos 
+extremos
+18.4 Resonancia
+18.5 Ondas estacionarias en columnas de aire
+18.6 Ondas estacionarias en barras y membranas
+18.7 Batimientos: interferencia en el tiempo
+18.8 Patrones de ondas no sinusoidales
+500
+18
+Sobreposición y ondas 
+estacionarias
+El guitarrista Carlos Santana aprovecha las ondas estacionarias en las 
+cuerdas. Él cambia a notas más altas en la guitarra al empujar las cuerdas 
+contra los trastes en el diapasón, lo que acorta la longitud de las porciones 
+de las cuerdas que vibran. (Bettmann/Corbis)
+
+18.1 Sobreposición e interferencia
+Muchos fenómenos ondulatorios interesantes en la naturaleza no se pueden describir 
+mediante una sola onda progresiva. En vez de ello, se debe analizar estos fenómenos en 
+términos de una combinación de ondas progresivas. Para analizar tales combinaciones 
+ondulatorias, se utiliza el principio de sobreposición:
+Si dos o más ondas progresivas se mueven a través de un medio, el valor resultante 
+de la función de onda en cualquier punto es la suma algebraica de los valores de las 
+funciones de onda de las ondas individuales.
+Las ondas que obedecen este principio se llaman ondas lineales. En el caso de ondas mecáni-
+cas, las ondas lineales generalmente se caracterizan por tener amplitudes mucho menores 
+que sus longitudes de onda. Las ondas que violan el principio de sobreposición se llaman 
+ondas no lineales y con frecuencia se caracterizan por grandes amplitudes. En este libro sólo 
+se tratará con ondas lineales.
+Una consecuencia del principio de sobreposición es que dos ondas progresivas pueden 
+pasar una a través de la otra sin destruirse o alterarse. Por ejemplo, cuando dos guijarros se 
+lanzan en un estanque y golpean la superficie en diferentes posiciones, las ondas circulares 
+superficiales que se expanden desde las dos posiciones no se destruyen entre sí sino que 
+pasan una sobre la otra. El complejo patrón resultante se puede ver como dos conjuntos 
+independientes de círculos en expansión.
+La figura 18.1 es una representación gráfica de la sobreposición de dos pulsos. La 
+función de onda para el pulso móvil hacia la derecha es y 
+1, y la función de onda para el 
+pulso móvil hacia la izquierda es y 2. Los pulsos tienen la misma rapidez pero diferentes 
+formas y el desplazamiento de los elementos del medio está en la dirección y positiva para 
+ambos pulsos. Cuando las ondas comienzan a traslaparse (figura 18.1b), la función de 
+onda para la onda compleja resultante se conoce por y 
+1  y 2. Cuando las crestas de los 
+pulsos coinciden (figura 18.1c), la onda resultante conocida por y 1  y 2 tiene una ampli-
+tud mayor que los pulsos individuales. Los dos pulsos finalmente se separan y continúan 
+su movimiento en sus direcciones originales (figura 18.1d). Advierta que la forma del 
+pulso permanece invariable después de la interacción, ¡como si los dos pulsos nunca se 
+hubieran encontrado!
+La combinación de ondas separadas en la misma región de espacio para producir una 
+onda resultante se llama interferencia. Para los dos pulsos que se muestran en la figura 
+18.1, el desplazamiento de los elementos del medio está en la dirección y positiva para 
+ambos pulsos, y el pulso resultante (creado cuando los pulsos individuales se traslapan) 
+muestra una amplitud mayor que la de cualquier pulso individual. Ya que los desplaza-
+mientos causados por los dos pulsos están en la misma dirección, a esta interferencia se le 
+refiere como interferencia constructiva.
+Ahora considere dos pulsos que viajan en direcciones opuestas en una cuerda tensa 
+donde un pulso se invierte relativo con el otro, como se ilustra en la figura 18.2. Cuando 
+estos pulsos comienzan a traslapar, el pulso resultante se conoce por y 
+1  y 2, pero los va-
+lores de la función y 2 son negativos. De nuevo, los dos pulsos pasan uno a través del otro; 
+sin embargo, ya que los desplazamientos causados por los dos pulsos están en direcciones 
+opuestas, a su superposición se le refiere como interferencia destructiva.
+El principio de sobreposición es la composición central del modelo de ondas en inter-
+ferencia. En muchas situaciones, tanto en acústica como en óptica, las ondas se combi-
+nan de acuerdo con este principio y muestran interesantes fenómenos con aplicaciones 
+prácticas.
+Pregunta rápida 18.1 Dos pulsos se mueven en direcciones opuestas sobre una cuerda 
+y son idénticos en forma, excepto que uno tiene desplazamientos positivos de los ele -
+mentos de la cuerda y el otro tiene desplazamientos negativos. En el momento en que los 
+dos pulsos se traslapan por completo en la cuerda, ¿qué sucede? a) La energía asociada 
+con los pulsos desaparece. b) La cuerda no es móvil. c) La cuerda forma una línea recta.  
+d) Los pulsos desaparecen y no reaparecerán.
+1 Principio de 
+sobreposición
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 18.1
+¿Las ondas realmente interfieren?
+En el uso popular el término 
+interferir implica que un agente 
+afecta una situación en alguna 
+forma, de modo que evita que 
+algo ocurra. Por ejemplo, en el 
+futbol americano, interferencia 
+de pase significa que un jugador 
+defensivo afectó al receptor 
+de modo que el receptor fue 
+incapaz de atrapar el balón. Este 
+uso es muy diferente del dado  
+en física, donde las ondas pasan  
+una a través de otra e interfieren,  
+pero no se afectan mutuamente 
+en forma alguna. En física, 
+interferencia es similar a la 
+noción de combinación, como se 
+describe en este capítulo.
+1 Interferencia constructiva
+1 Interferencia destructiva
+ Sección 18.1  Sobreposición e interferencia  501
+
+502

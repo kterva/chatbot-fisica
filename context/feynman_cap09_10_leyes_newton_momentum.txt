@@ -1,0 +1,1006 @@
+Tema: Las leyes del movimiento de Newton; Conservación del momentum (Capítulos 9-10 — Lecciones de Física, Feynman, Vol. I)
+
+9-1 Un pequei'lo desplazamiento de un ob1eto 
+9-2 La ve!ocidad tiene direcciOn 
+Con el prop6sito de hacer mas preciso nucstro !enguaje, haremos una definici6n 
+mils en nuestro uso de la palabra velocidad. Ordinariamente pensamos que rapidez 
+y velocidad son lo mismo, y en lenguaje ordinario ellas son Jo mismo. Podemos for­
+mular esto mils precisamente describiendo cOmo cambian las coordenadas x, y y z 
+de un objeto con el tiempo. Supongamos, por ejemplo, que en un cierto instante un 
+objeto se estil moviendo como se muestra en la figura 9- l. En un pequeiio intervalo de 
+tiempo dado .:1t 
+9-3
+
+se mover3. en una cierta distancia .1.x en la direcciOn x, .1.y en la direcciOn y, y 
+.1.z en la direcciOn z. El efecto total de estos tres cambios en las coordenadas es un 
+desplazamiento .1.s a lo largo de la diagonal de un paralelepipedo cuyos !ados son 
+.dx, .1.y y .1.z. En terminos de la velocidad, el desplazamiento .1.x es la componente 
+x de la velocidad por My sirnilarmente pa:ra .1.y y .:.1.z: 
+ti.x = t'x !:J.t, t:J.y = l'y t:J.t, !:J.z = l'z !:J.t. (9.4) 
+9-3 Componentes de la velocidad, de la aceleraciOn y de la fuerza 
+En la ecuaci6n (9.4) hemos descompueslo la ve/ocidad en componenles diciendo 
+lo ritpido que el objeto se estii. moviendo en la direcci6n x, la direcci6n y, y la di­
+recciOn z. La velocidad estii. completamente especificada, en mOdulo y direcciOn, 
+si damos los valores numfricos de sus tres componentes cartesianas: 
+1·~ = dx/dt, 1·y = dy/dt, 1', = dz/dr. (9.5) 
+Por otro \ado, el m6dulo de la velocidad del objeto es 
+(9.6) 
+A continuaci6n, supongamos que. debido a la acci6n de una fuerza, la velocidad 
+cambia a alguna otra dirccdOn y a una magnitud diferente como se muestra en la 
+figura 9-2. Podemos analizar esta situaci6n aparentemente compleja en forma m:is 
+bien simple si calcu!amos la variaci6n de las componentes x, y y z de la velocidad. 
+La variaciOn de la componente de la velocidad en la direcci6n x eri un tiempo fit 
+es Ll vx - a_, CH, donde <I-1 es lo que llamamos la componente x de la aceleracic"m. 
+Similarmente, vemos que .1v,. = a-' .1.1 y flv, =a, i1t. En estos tCrminos vemos quc 
+la segunda ley de Newton, al decir que la fuerza est.ii en la misma direcci6n que 
+la aceleraciOn, es rcalmente tres !eyes, en el sentido de que la componentc de !a fuer­
+za en la direcciOn x, yo z es iguai a 
+Fig_ 9-2- Un camb10 en la velucidad 
+en el cual su magnitud y d1recc16n camb1an 
+9-4
+
+la masa por la variaciOn de la correspondiente componente de la velocidad: 
+F,, = m(d11z/dt) = m(d~x/dt 2 ) = ma;, 
+F11 = m(dcy/dt) = m(d~r/dt 2 ) = may, 
+F, = m(di',/dt) ·oo m(d 2z/dt 2) = ma,. 
+(9.7) 
+Asi coma la velocidad y la acdcraciOn han stdo descompuestas en componentes 
+proycctando un segmento de recta que represema la cantidad y direcci6n sabre tres 
+eje<; coordenados. asi. de la m1sma manera, una fuer7a en una direcciOn dada sc re 
+prescnta por cicrtas componenles en las direccione<> x, .r y z: 
+F" = F cos (.\, F), 
+F11 '-=- Fcos (y, F). 
+F, ~ F cos (z, F), 
+(9.8) 
+donde F es el mndulo (magmtud) de la fuerza y (x, F) representa el <ingulo entre 
+el eje x y la direcci6n de F, etc 
+La Newton est<i dada en su forma completa en la ecuaci6n (9. 7). 
+Si conocemos que actUan sobre un ob.ieto y las resolvemos en compo-
+nentes x, y } z, entonces podemos encontrar el mov1miento de! objeto a partir de 
+cstas ccuaciones. Considercmos un ejemp!o simple. Supongamos que no hay fuerza 
+en la~ direcciones y y :, la lmica fuerza est<i en la direcci6n x, digamos vertical 
+mente. La ecuaciOn (9.7) nos dice habr<i cambios en la velocidad en la direcci6n 
+vertical. pero no habri1 cambio direcciones hori1ontales. Esto fue demostrado 
+con un aparato especial en el 7 (ver figura 7-3). Un cucrpo quc cae se mue-
+vc honzontalmente sin cambiar <>ll movim1ento mientras que se mueve 
+vert1calmente de la misma mancra como se mov1miento horiiontal 
+fuera cero. En otra~ palabras. los movimientos en 
+dcpcnd1cntcs si lasjiwrzas no e~tan relacionadas. 
+9-4 ;.Cual es la focrrn'! 
+9-5
+
+J po•;doo do <q"mhrio. 
+Jr Fig. 9-3. Una masa f1ia a un resorte 
+es a velocidad constante. El movimiento interesante esta en la direcci6n vertical, y la 
+segunda ley de Newton nos dice 
+(9.9) 
+Sirnplificando las m, encontramos que la aceleraci6n en la direcci6n x es constante 
+e igual a g. Esta es, por supuesto, la bien conocida ley de la caida libre bajo la 
+acci6n de la gravedad, la cual conduce a las ecuaciones 
+Vx = V() +gt, 
+x = x 0 + v0t + !gt 2• (9.10) 
+Como otro ejemplo, supongamos que hemos podido construir un artefacto (figu­
+ra 9-3) que aplica una fuerza proporcional a la distancia y dirigida en forma opuesta 
+-un resorte-. Si olvidamos la gravedad, la cua! por supuesto est<i. balanceada por 
+el estiramiento inici:il de! resorte y hablamos s6io de las fuerzas en exceso, vemos 
+que si tiramos la masa hacia abajo, el resorte tira hacia arriba, mientras que si la 
+eritpujamos hacia arriba el resorte empuja hacia abajo. Esta miquina ha sido dise­
+Ilada cuidadosamente de modo que la fuerza es tanto mayor mientras mis tiramos 
+de ella, en proporci6n exacta al desplazamiento desde la condiciOn de equilibrio, y 
+la fuerza hacia arriba es igualmente proporcional a cuanto tiramos hacia abajo. Si 
+observamos la dinitmica de esta milquina, vemos un movimiento bastante hermoso 
+-arriba. abajo. arriba, abajo .... -- La pregunta es, (,describirim correctamente las 
+ecuaciones de Newton este movimiento'? Veamos si podcmos calcular exactamente 
+c6mo sc mueve con csta oscilaciOn peri6dica, aplicando la !ey de Newton (9.7). En 
+el caso presente, la ecuaci6n es 
+-kx = m(dl'x/dl). (9.11) 
+Aqui tenemos una situadOn donde la velocidad en la direcciOn x cambia propor-
+cionalmente a x. Nada numerosas constantes: asi que imagina 
+rcmos quc la escala de o que hay un accidcntc en las unidades, 
+de modo que tengamos -- I. Asi trataremos de resolver !a ecuaciOn 
+di'x/dl = -X. (9.12) 
+Para proseguir dcbcmos saber quC es l\; pero, por supuesto. sabcmos que la vclo 
+cidad es la variaciOn de la posiciOn con el tiempo. 
+9-5 Significado de las ecuaciones de la dinlimica 
+9-6
+
+es la velocidad y cual es la posici6n en un tiempo t + ~ inmediatamente posterior? 
+Si podemos responder a esta pregunta, nuestro problema esta resuelto, porque en­
+tonces podemos comenzar cOn las condiciones dadas y calcular cOmo cambian pa­
+ra el primer instante, el instante siguiente, el instante siguiente, y asi sucesivamente 
+y de esta manera gradua!mente desarrollamos ei movimiento. Para fijar ideas, supon­
+gamos que en el tiempo t = 0 tenemos que x = I y l\ = 0. t,Por qui: se mueve el 
+objeto? Porque hay una fuerza sobre el cuando esta en cualquiera posici6n, excepto 
+en x - 0. Si x > 0. la fuerza esta hacia arriba. Por lo tanto la ve!ocidad que es 
+cero comienza a cambiar, debido a la ley del movimiento. Una vez que comienza a 
+estab!ecerse c!erta ve!ocidad, e! objeto empieza a moverse hada arriba. y as! suce­
+sivamente. Ahora bien, en cualquier instante !, si l es muy pequei'to. podemos expre­
+sar la posici6n en el instante t + t en tfrminos de la posici6n en el instante t y la 
+velocidad en el instante I con una muy buena aproximaci6n como 
+x(t + t) = x(t) + ev,,(t). (9.13) 
+C uanto mas pequei'to es el E, tan to m<i.s exact a es esta expresi6n, pero es de una 
+exactitud Util al.in si r no es suficientememe pequeiio. Ahora bien ~que pasa con !a 
+velocidad? A fin de obtener la velocidad posterior, la velocidad en el instante 
+1 + i, necesitamos conocer c6mo cambia la velocidad, la aceleraci6n. l. Y c6mo va­
+mos a encontrar la aceleraci6n? Aqui es donde la ley de la din:imica interviene. La 
+ley de la din3.mica nos dice lo que es la aceleraci6n. Nos dice que la ace!eraci6n es -·x. 
+l'x(I + E) = 11,.(1) + w,,{l) 
+= i·h) - u(I). 
+(9.14) 
+(9.15) 
+La ecuaci6n (9.14) es meramente cinemii.tica: nos dice que una velocidad cambia 
+debido a la presencia de la acelerad6n. Pero la ecuac16n (9.15) es dindmica, porque 
+nos relaciona la aceleraci6n con ia fuerza: nos dice que en este instante particular, 
+para este prob!ema particular, pueden reemplazar la aceleraci6n por -x(I). Por lo 
+tanto, si conocemos la x y la r en el instante dado, conocemos la aceleraci6n, la 
+cual nos da la nueva velocidad. y con i:sta la nueva posici6n -y asi es como traba­
+ja el metodo·-. La velocidad cambia un poquito debido a la fucrza. y la posici{m 
+cambia un poquito debido a la velocidad. 
+9-6 SoluciOn numCrica de las ecuaciones 
+Resolvamos ahora rcalmente el problem a. Supongamos que tomamo<> 1 0. JOO 
+seg. Despui:~ que hacemos todo el trabajo y <>i encontramos que c~te no es suficien 
+temente pequeiio, tendriamo~ que volver atrits y hacerlo de nue\O con 1 0,010 
+seg. Comcnzando con nuestro valor inicial x (0) """' l.00. ;.cuanto e' .\· (0.1 )? E~ la 
+pos1cion antigua x (0) mas la vclocidad (que es multipl1ca<la por 0.10 A~i. 
+x{O.I l cs aun LOO porquc aUn no ha a moverse. Pero la nucva 
+dad a IDS 0.!0 'ieg. ~Cnl !a \e]ociJad ant1gua 0 mil~ I pOT )a ao::clcrac1on. 
+aceleraci6n es -x(O) - --1,00. Asi 
+1(0 I)= 0.00 - 0.10 X I 00 = -0.!0 
+9-7
+
+Ahora a 0,20 seg. 
+x(0.2) = x(O.!) + a(O.I) 
+= I.OD - O.IO X 0.10 = 0.99 
+1•(0.2) = 1'(0.1) + M(O.l) 
+= -0.IO - 0.10 X 1.00 = -0.20. 
+y asi, una y otra vez mils, podemos calcu[ar el resto del movimiento y esto es jus­
+tamente lo que haremos. Sin embargo. para fines pritcticos hay algunos pequeOos 
+trucos con los cuales podemos aumentar la exactitud. Si continuti.ramos este citlculo 
+como hemos comenzado, encontrariamos que el movimiento es bastante inexacto, 
+ya que E -= 0,100 seg es bastante grande y tendriamos que ir a un intervalo muy 
+pequeiio, E = 0,01 digamos. Entonces para pasar por un intervalo de tiempo total 
+razonable tomaria muchos ciclos de computaciOn. Por eso organizaremos el trabajo 
+de una maner.a que aumentarit la precisi6n de nuestros clliculos, usando el mismo 
+tosco intervalo de r = 0, JO seg. Esto puede realizarse si hacemos un mejoramiento 
+sutil en la tecnica de! an.ilisis. 
+Ncten que la nueva posici6n es la posici6n antigua mfts el intervalo de tiempo 
+E por la velocidad. Pero por la velocidad i cwindo? La velocidad al comienzo de! 
+intervalo de tiempo es una vdocidad y la ve!ocidad al final de] intervalo de tiempo 
+es otra velocldad. Nucstra mejora es usar !a velocidad media en.Ire. Si conocemos 
+la veloddad ahora, pero ta· velocidad est a cambiando, no obtendremas la respuesta 
+correcta al ir a la misma camo ahora. Deberiamos usar alguna entre la rapidez 
+"ahora'" y la ""despues"' al final del intervalo. Las mismas consideraciones se apli­
+can tambiCn a la velocidad: para calcular los cambios de velocidad, deberiamos 
+usar la aceleraciOn a mitad de! intervalo entre los dos tiempos a los cuales la velo­
+cidad dcbe ser encontrada. Asi las ecuaciones que rea!mente usaremos ser<in algo 
+coma esto: la posiciOn posterior es igual a la posici6n anterior mas E por la velo­
+cidad en cl instan.te a mitad def intervalo. En forma similar. la velocidad en este 
+punto media es la velacidad en el ticmpo < anterior (que estit en la mitad del in­
+tervalo anterior}, · por !a aceleraci6n en el instante t. Esto es. usamos las 
+ecuaciones 
+x(t + E) ~ x(t) + a(r + f/2). 
+1'(1 + f/2) ~ 1·(1 - ~/2) + w(I), 
+a(1) = -x(I). 
+(9.16) 
+problema: ~cu<into vale r(E/2)'.' Al comienzo tenemos 
+cilculo. usaremos una ecuaciOn especial. es 
+Ahora estamos listos para !!evar a cabo nuestro cft!cula. Por conveniencia pode-
+mos disponer el trabajo en forma de con columna~ para el tiempa. la posi-
+ci6n. la velocidad y la acelcrnciOn. llncas intermedias para la velocidad. 
+coma se muestra en \a tabla 9-1. manera con\'emcn-
+te de representar los va!ore~ conjunto de ecuacio-
+nes (9.16), y de hecha no mismas. Llenamos 
+simplcrnente los di\ crsos 
+9-8
+
+Tabla 9-1 
+--· 
+0.0 
+0.1 
+0.2 
+0.3 
+0.4 
+Soluci6n de dv,j dt = - x 
+Intervalo: f = 0.10 sec 
+--- --- ---
+l.000 0.000 -1.000 
+-0.050 
+0.995 --0.995 
+-0.150 
+0.980 -0.980 
+-0.248 
+0.955 -0.955 
+-0.343 
+0.921 -0.921 
+-0.435 
+0.5 0.877 -0.877 
+--------0.523----
+0.6 0.825 -0.825 
+-0.605 
+0.7 0.764 -0.764 
+-0.682 
+0.8 0.696 -0.696 
+-0.751 
+0.9 0.621 -0.621 
+-0.814 
+1.0 0.540 -0.540 
+------ ---0.868- ---
+I.I 0.453 -0.453 
+-0.913 
+1.2 0.362 -0.362 
+-0.949 
+1.3 0.267 -0.267 
+-0.976 
+1.4 0.169 -0.169 
+-0.993 
+1.5 0.070 -0.070 
+----· --·-- --1.000- ---
+1.6 -0.030 +0.030
+
+''~ '·' 
+0 O!i 10 l5 Hucl 
+Sol 
+Fig. 9-4. Gratico del mov1m1ento de Fig. 9-5 La fuerza de gravedad sobre 
+una masa fija a un resorte. un planeta. 
+y por Jo tan to la aceleraci6n ser.i! positiva. Asi, pues, la velocidad decrece. Es interesante 
+comparar estos nUmeros con la funci6n x = cos t, que se da en la figura 9-4. jLa 
+concod.ancia esta dentro de las tres cifras significativas de exactitud de nuestro 
+cilci.: 10! Veremos posteriormente que x = cos t es la soluci6n matem3.tica exacta 
+de nuestra ecuaci6n de movimiento, pero es una ilustraci6n impresionante del poder 
+de! anii.lisis numfrico que un c:ilculo tan facil dC resultados tan precisos. 
+9-7 Movimientos planetarios 
+El anilisis anterior es muy bonito para el movimiento de un resorte que oscila: 
+pero, l,podemos analizar el movimiento de un planeta alrededor del sol? Veamos si 
+podemos llegar a la aproximaciOn de una elipse para la Orbita. Supondremos que el 
+sol es infinitamente pe~ado, en el sentido de que no incluircmos su movimiento. Su­
+pongamos que un planeta parte de un cierto lugar y que se esta moviendo con una 
+cierta velocidad; gira alrededor de! sol siguiendo alguna curva, y trataremos de anali­
+zar mediante las lcyes de Newton del rnovimiento y su ley de la gravitaciOn quC 
+curva es. ,:,COmo? En un instante dado estti. en algUn lugar en el espacio. Si la dis­
+tancia radial desde el sol a este lugar se llama r, sabemos que hay una fuerza diri­
+gida hacia adentro que, de acuerdo a la ley de la gravcdad, es igual a una constante 
+por el producto de las masas del sol y de! plancta dividido por el cuadrado de la dis­
+tancia. Para analizar mils aUn esto dehemos encontrar que aceleracibn producini 
+esta fuerza. Necesitaremos las componentes de la aceleraci6n segUn dos dircccion.::s. 
+que l!amamos x e y. Asi, si especificamos la posici6n del planeta en un instante 
+dado, dando x c y (supondrcmo~ que z es siempre cero porque no hay fuerla en la 
+direcciOn z y, si no hay velocidad inicial v ... no habrit m:i.s que hacer z igual a ccro), 
+la fueru estil dirigida a Jo largo de la linCa que une al planeta con el wl. como se 
+muestra en la figura 9-5. 
+En esta figura vcmos que la componente horizontal de la fucrza cstil relacionada 
+con la fuerza completa. de la misma manera que la di5tancia horizontal x lo estil 
+a la hipotenusa completa r, porque los dos triitngulo~ son semcjantcs. Tambien, si .\· 
+es positivo, 
+9-10
+
+F, cs negativo. Esto cs, FJIFI = -x/r, 6 F, = -IFlx/r = -CMmx/r 3• Ahora 
+usamos la Jey dinitmica para encontrar que esta componcntc de la fuerza es igua! 
+a la masa del planeta por !a variaci6n temporal de su velocidad en !a direcciOn x. 
+Asi encontraremos las siguientes leyes: 
+m(d1',jd1) = -CMmx/r\ 
+m(dv~/df) = -GMmy/r 3 , 
+r = ,/?+}?. 
+(9.17) 
+Este es, entonces, el conjllnto de ecuaciones que dcbemos resolver. Otra vez, para 
+simplificar el trabajo numfrico, supondremos que Ia unidad de tiempo. o la masa 
+del sol, ha sido ajustada en forma tal {o que la suertc e~til con nosotros) que 
+GM = I. Para nuestro ejemplo cspecifirn supondremos que la posiciUn micial del 
+planeta estit en x """"" 0.500 e y 0,000, y que la velocidad estit en un comicnzo 
+en la direcci6n y, y que tiene una magnitud de I ,6300. Ahora. (.CC.mo haccmos el 
+citlculo? Hacemos otra vez una tabla con co!umnas para cl tiempo. la posici('Jn x. la 
+velocidad segim x v.r y la aceleraciOn scgUn x ax; lucgo, separadas por una doblc Ii 
+nea, tres columnas para la posici6n, la velocidad y !a aceleraci6n en la direcci6n y. 
+Para obtener las aceleraciones vamos a nccesitar la ccuaci6n (9.17); Csta nos dice 
+que la aceleraci6n en !a direcci6n x es -x/r3, y la acelcraci6n en la dirccci6n y 
+es -y/r3, y que r es la raiz cuadrada de x1 + y~ Asi, dado x e y, debemos hacer un 
+pequefio citlculo por separado, tomando la raiz cuadrada de la suma de los cuadra 
+dos para encontrar r y luego, para estar preparados para calcular las dos acclera­
+ciones, es Util tambien evaluar l/r3. Este trabajo puede ser hecho bastante facilmen 
+te usando una tabla de cuadrados, cubos c inversos: necesitamos s6lo 
+multiplicar x JXlf J/r3 , lo cual haccmos con una regla de 
+·-"~ .. ·.·::"'· .... •. L .:·.·····"~ 
+1~2.0,. , 1•0 
+~.1 /J- Fig. 9-·6. t:I mov1m1ento calculdrlo de un 
+-•.o ·os Sol o.~ ' plarieW <ilredodor del sol 
+Asi nuestro citlculo proccde con los pasos. u~ando intenalos de tiem 
+po de 1 = 0,100: valores iniciales en t =-· 
+x(O) = 0.500 
+1'AO) -= o.ooo 
+A partir de Cstos cncontramos: 
+y(O) = 0.000 
+1·v(O) = +-1.630 
+r(O) = 0.500 l/r\O) '"'" 8.000 
+a, = -4.000 ay ~ 0.000 
+9-11
+
+Asi podemos calcular las velocidades J',{0.05) y 1•.(0.05): 
+i'_,-(0.05) = 0.000 - 4.000 x 0.050 = -0.200; 
+i'y(0.05) = !.630 + 0.000 x 0.100 '--' 1.630. 
+Ahora comienza nuestro ci1lcu!o principal: 
+x(O. ! ) - 0.500 - 0.20 X Cl.I 0.480 
+y(O.I) = 0.0 t·· 1.63 X 0.1 0.!63 
+r = v/(l4S~·o.u;3·;; 0.507 
+l/r: 1 7.67 
+aiO.l) = 0.480 X 7.67 -J.68 
+au(O.l) = -0.163 X 7.67 -- 1.256 
+l'-'(0.15) - -0.200 - 3.68 x 0.1 ~ -0.568 
+y(0.15) = 1.630 - 1.26 x 0.1 1.505 
+x(0.2) '-' 0.480 - 0.568 X 0.1 0.423 
+y(0.2) = 0.163 ·I- 1.50 x 0.1 0.313 
+etc. 
+De mam:ra obtencmos Jos valorcs dados en la tabla 9-2, iY en veintc pasos o 
+algo hemos seguido la mitad del camino dd planeta alrcdedor del sol! En la 
+figura estim dibujadas las rnordcnadas x c y dadas en la tabla 9-2. Los puntos 
+rcpresentan las posicionc~ en la suce~i{m de ticmpos scparados en un dt':clmo de 
+unidad; vcmos que al comienw el plancta se mueve r:ipidamente y al final se mue­
+ve lcntamcnte, y asi la forma de la curva qucda detcrminada. iAsi vemos quc real­
+menle sabemos ct°}mo calcular cl movimiento de los planetas! 
+Ahora vcamos cOmo podcmo~ calcular el movimiento de Neptuno, Jiipiter, Urano 
+o cua!quicr otro planeta. Si tenemos un gran nUmcro de planetas y hacemos que 
+el sol sc mueva tambiCn, i,podcmos hacer la misma cosa? Por supuesto que pode­
+mos. Calcu!a:nos !a fuerza sobre un planeta particular, digamos p!aneta nUmero 
+i, cl cual tiene una posici1in x,, y,, Z; (i I puede representar al sol, i = 2 a Mercurio, 
+1 -- 3 a Venus, y asi sucesivamcntc). Debemos conocer las posiciones de todos los 
+planetas. La fucrza quc actUa sobre uno se debt: a todos los otros cucrpos quc cs 
+tiln locali1ados, digamos, en las posiciones xl' yl' zj. Por lo tanto, las ccuacioncs 
+(9.18) 
+9-12
+
+Tabla9-2 
+SoluciOnde dv,/dr = -x/r", dt·.ldt = -y/r", r = Vx~ +-y•. 
+Intervalo t = 0.100 
+Orbita "•=1.63 1•~=0 x=0.5 y=O at 1=0 
+"· I , 
++0344 
++OS62 
++0.796 
+-0.968---­
++0.8$8 
++o.90 
++0.9] 
++094 
+-0Sl3----­
++0.9S 
++0.95 
++09S 
++0.9S 
+o.ss6 
+-2.4S 0,6H 3.942 
+0526-----·· 
+-2.20 0.675 3.252 
+-008 
+-0796-----
++095 0.00 l.022 0936 
++0058 
++o.96 +om 
+EJe xcruzado a los 2,!01 se~., perioOO -- 4,20 seg 
+"x~ Oa2,086scg 
+'"°''''"'"'"'""""'oo \,022.. l,022 __ +2Q,2QQ_ 
+T>empopred1cho,.(O,l6l)'/ 1 o '1{0,66Jl- 2.082 
+9-IJ
+
+Ademils, definidos a ru como la distancia entre los dos planetas i y j; esto es igual a 
+TambiE:n, l significa una suma de todos los valores dej-todos los otros cuerpos­
+excepto, por supuesto, para j = i. Asi, todo Jo que tenemos que hacer es confec­
+ctonar m:ls columnas, muchas m:ls columnas. Necesitamos nueve co!umnas para el 
+movimiento de JUpiter, nueve para el movimiento de Saturno, y asi sucesivamente. 
+Entonccs cuando tenemos todas las posiciones y velocidades iniciales podemos calcu­
+!ar todas las aceleraciones de la ecuaci6n (9.18) calculando primero todas las 
+distancias, usando !a ecuaci6n (9,19). ;,Cuitnto tiempo tomaril para hacerlo? 
+Si lo hacen en casa, jnecesitaritn un tiempo muy largo! Pero en los tiempos moder­
+nos tenemos milquinas que hacen la aritmi:tica muy r.i!pidamente; una m.iiquina 
+computadora muy bucna puede tomar un microsegundo, esto es, una millonE:sima 
+de un segundo, para hacer una suma. Para hacer una multiplicaciOn dcmora m.i!s, 
+digamos 10 microsegundos. Puede que en un ciclo de c.i!lcu!o, dependiendo del pro­
+blema, tengamos 30 multip!icaciones o algo asi, por lo que un ciclo demorani 300 
+microsegundos. Esto significa que podemos hacer 3.000 ciclos de computaci6n por 
+segundo. Para obtener una exactitud, de, digamos, una parte en mil mlllones, nece­
+sitarlamos 4 x I 05 ciclos para corresponder a una revoluci6n de un planeta aire­
+dedor del sol. Esto corresponde a un ticmpo de computaci6n de 130 segundos o 
+alrcdcdor de dos minutos. iAsi, pues, lleva s6lo dos minutos para seguir a JUpiter 
+alrededor de! so!, con todas !as perturbadones de todos !os planetas corregida a 
+una parte en mil millones, por este mE:todo! (Resulta que el error varla casi como 
+el cuadrado de! intervalo E. Si haccmos el intervalo mil veces mils pequeii.o, es un 
+mi116n de veces mils exacto. Asi que hagamos el intervalo 10.000 veces mils 
+pequeiio). 
+Asi, pues, como dijimos, empezamos este capitulo sin saber aU.n cOmo calcular 
+el movimiento de una masa en un resorte. Ahora, armadas con el tremendo poder 
+de las !eyes de Newton, podemos no s(J)o calcular tales movimientos simples, sino 
+tambifo, dada s6\o una mitquina para tratar la aritmCtica, aun los movimientos 
+tremendamcnte complejos de Ios planetas, jhasta un grado de precisi6n tan alto co­
+ma queramos! 
+9-14
+
+10 
+ConservaciOn del rnornentu1n 
+IO-I La tercera ley de Newton 
+10-2 ConservaciOn del momentum 
+10-3 iEI momentum se conserva! 
+I 0-1 La tercera ley de Newton 
+10-4 Momentum}' energia 
+10-5 Momentum relativista 
+Sobre la base de la segunda ley del movimiento de Newton. la cual da la relaciOn 
+entre la acelcraciOn de cualquier cuerpo y la fuerza actuando sobre CL c::ualquicr pro 
+blema en mecitnica puede ser resuelto en principio. Por ejemplo. para determinar el 
+movimiento de unas pocas particu!as, uno puede usar el mCtodo numCrico desarrolla­
+do en el capitu!o anterior. Pero hay buenas razoncs para haccr un estudio adicional 
+de las !eyes de Newton. Primera, hay casos ba~tante simples de movimiento que pue­
+den ser analizados no solamente por mCtodos numCricos. sino que tambien por anil.­
+lisis matemil.tico directo. Por ejemplo, aunque sabemos que la ace!eraci6n de un cuer­
+po que cae es de JO m/seg 2, y a partir de este hccho podriamos calcular el movimiento 
+por mCtodos numCrico~. es mucho mas fac1l y satisfactorio analizar el movimiento y 
+encontrar la soluci6n genera!, s = s0 + 1·0t -+ 5 1! De la m1sma manera. aunque pode­
+mos calcu!ar !as posiciones de un oscilador arm6nico por mCtodos numfricos, es tam 
+biCn po5ible demostrar analiticamente quc la so!uci6n general es una simple funci,'in co 
+seno de I, y asi es innecesario recurrir a toda esa dificultad 3.ritmetica cuando hay 
+una manera simple y mils exacta de obtener el resu!tado. De la misma manera, aunque 
+el movimiento de un cuerpo alrededor del sol, determinado por la gravitaciOn, pucdc 
+ser calcu!ado punto· por punto por los metodos numfricos de! capitulo 9. lo cual 
+muestra la forma general de !a 6rbita, es interesante tambien obtener la forma exacta, 
+que et anillisis revela como una perfecta elipse. 
+Desgraciadamente existen en realidad muy pocos problemas quc pueden ser re 
+sueltos cxactamente por anitlisis. En el caso del oscilador armOnico, por cjemplo. si 
+la fuerza del resorte no es proporcional al desplazamiento, sino que es algo mils 
+complicada, uno debe volver a caer en el mCtodo numerico. 0 si hay dos cuerpo~ gi 
+rando alrededor del sol, de modo que el nUmero total de cuerpos es tres. entonces 
+el anillisis no puede producir una f6rmula simple para el movimiento, y en la prilctica 
+el problema debe ser resuelto numericamente. Ese es el famoso problema de 105 tres 
+cuerpos, que durante tanto tiempo desafi6 la capacidad humana de anillisis; 
+interesante cuilnto necesitO la gcnte para apreciar el hecho de que tal ve1 el 
+anillisis matem<i.tico era limitado y que 
+10.l
+
+numtricos. Hoy dia, un enorme nurnero de 
+analiticamente se resuelven por mttodos 
+problema tres cuerpos. quc sc suponia difici!, se 
+rutina de una manera exactamente igual a la que fue 
+cs decir. haciendu bastante aritmetica. Sin embargo, 
+ambos metodos fa!lan: lo~ prob!emas simples puedcn 
+y problemas moderadarnente di!icilcs por metodos aritmeti­
+los problcmas muy complicados no pueden resolverse por 
+m~todos. L:n complicado es. por ejemplo, el choquc 
+cosa como d 
+zo madera o hierro. o el 
+~el de s(1lo dos o trcs planetas 
+las moleculas de un gas. Hay innume­
+y seria ridiculo tratar de hacer 
+-un decimo milkm de hillones). 
+o un peda­
+globular. en 
+no pue-
+den resolverse directamente: asi que tenemos que 
+En las situaciones en las cuales no podemos segui1 necesitamos saber 
+a!guna> propicdade~ g:eneralcS. es decir, principios o tcoremas generales los cuales son 
+consecuencias de las leyes de ;•-Jewton. lino de Cstos es el principio de conservadOn de 
+la cnergia. que se discutil'i en el capitulo 4. Otro es el principio de la conservaciOn 
+de! momentum el tema de este capitulo. Otra razOn para estudiar mils la mecimica 
+es que hay ciertos modclos de movimiento que est3.n repctidos en muchas c1rcuns­
+tancias diferentcs. asi que es bueno estudiar estos modelos para una circunstancia 
+particular. Por ejemplo, estudiaremos los choques; diferentes tipos de choques tienen 
+mucho en comUn. En el flujo de fluidos, no hace mucha diferencia lo que el flUido es; 
+las \eyes dcl f1ujo son similarc~. Otros problemas que estudiaremos son las vibraciones 
+y oscilaciones y, en particular. los fen.'Jmenos singulares de las ondas mecitnicas -soni­
+do, vibraciones de vari!!as, etc. 
+En nuestra discusiOn de las leyes de Newton se explicO que estas !eyes son una 
+especle de programa que dice ··Ponga atencilm a las fuerzas··. y que Newton nos dijo 
+sO!o dos cosas acerca de la naturaleza de las fuerzas. En el caso de la gravitaciOn, 
+nos dio !a ley de fuerza. En el caso de las fuerzas muy complicadas entre 
+ii.tomos, d no las !eyes correctas para las fucrzas; sin embargo, descubri6 
+una regla, una propiedad general de las fuer7as. quc estil expresada en su tercera Icy, 
+y que es el conocimiento total que Newton tenia acerca de la naturaleza de las fuer­
+zas -la ley de la gravitaciOn y este principio, pero no otros detalles. 
+Este principio cs que la acciiin es igual a la reacciiin. 
+Lo que se quiere decir es alga de estc tipo: supongamos que tenemos dos peque 
+iios cuerpo~. digamos particulas. y supongamos quc la primera ejerce una fuefla 
+sobre la segunda, empujitndola con una cierta fucrza, Entonces simultilneamentc, de 
+acuerdo a la tercern ley de Newton. la segunda particula empujaril a la primera con 
+una fuerza igual. en dirccciOn opuesta: mis aim. estas fucrzas actUan efectivamente 
+en la misma !Inca. Esta es la hipOtesis o ley que Newton propuso. y parece scr 
+completamente precisa. aunque no es exacta (discutircmos los errore~ mits tarde). 
+Por cl momenta 
+10-2
+
+tomaremos por verdadero que la acci6n es igual a la reaccion. Por 
+una tercera particula. no en la m1sma linea que las otras dos. la !ey 
+la fucrza total ~obre la pnmera sea igual a la fuerza total sabre la 
+tercera particula. por ejemplo, ejerce su propio empuje sobre una las otras 
+dos. El resultado es que el efecto total sobre las primeras dos es en alguna otra di­
+recci6n, y las fuerzas sabre las primeras dos particulas no son. en general, ni iguales 
+ni opuestas. Sin embargo, las fuerzas sobre cada particula pueden descomponcrse 
+en partes, habiendo una contribuci6n o pane dcb1da a cada otra particula esta 
+interactuando. Entonces cada par de particulas tiene 
+de interacci(.JD mutua que son iguales en mOdulo y opuesta~ en 
+I0-2 ConservaciOn de! momentum 
+i,Cu:'lles 5on ahora las 
+gamos, por simphcidad, que 
+de masas diferentes, 
+opuestas; (,cuille~ son 
+la fuerza es la riipideL 
+variaci6n de! 
+del momentum p, 
+dpi/dt = -dp 2 /dt. (10.l) 
+Ahora, s1 la rap1deL de variaci6n es siempre igua! y opuesta, se concluye que la ~·aria­
+ci6n total de! momentum de la particu!a I es igual y opuesta a la variaci6n total de! 
+momentum de la part1cula 2; esto sigmlica que s1 sumamo5 el momentum de la par­
+ticula I al momentum de la particula 2, la rapidel de variaci6n de la suma de las dos, 
+debido a las fuerzas mutuas (llamadas fuerzas internas) entre particula5, es cero; 
+estoes 
+(J0.2) 
+Se ha supuesto que no hay otras fuerzas en el problema. Si la rapidcz de variaci6n de 
+esta suma es siempre cero, esto es s6lo otra manera de decir la cantidad 
+(p1 + pJ no cambia. (Esta cantidad tambien sc escribe como m1v1 + ~e llama 
+momentum de las do' particula,.) Bernos obtenido ahora el re5ultado que el mo-
+mentum total de las dos particulas no cambia a causa de ningUn tipo de mteracc10nes 
+mutuas entre ellas. Esta afirmaciOn expresa la ley de conservac10n del momentum 
+en ese ejemplo particular. Concluimo~ que si hay cualquier tipo de fuerrn, no importa 
+lo complicada que sea, entre dos particulas, y s1 med!mo~ o cakulamos m1v1 + m1P2, 
+esto es, la suma de los dos momenta antes y despues de que las fuerzas actUen, los 
+resultados ser.im iguales, es decir, e! momentum total es una constante. 
+Si extendemos el razonamiento a tres o mas particulas interactuando en circuns­
+tancias mas complicadas, es evidente que en lo que concieme a las fuerzas intcrnas, 
+el momentum total de todas las particulas permanece constante, ya que un aumcnto 
+de! momentum de una debido a otra esta exactamente compensado por la disminuci6n 
+de! segundo 
+10-3
+
+debido a la primera. Esto es, todas las fuerzas intcrnas se cquilibraran y por lo tanto 
+el momentum total de las particulas no puede cambiar. Entonces, si no hay fuerzas 
+desde el exterior (fuerz.as externas), no hay fuerzas que puedan camhiar cl momentum 
+total; de aqui que el momentum sea una constante. 
+Es importante describir !o que sucede cuando hay fuerzas que no 
+acciones reciprocas de la~ particulas en cuestiim: que 
+ticulas que interactllan. Si s61o hay fuerzas 
+tum de las particulas no cambia, no importa 
+tambitn que hay fuerzas 
+fucrza ejercida por cuerpos cxternos 
+externa. Demostraremos mils tarde que la suma 
+a la rapidez de variacit'm del momentum total 
+L1til. 
+momentum total de un ntimero de particulas quc interactUan 
+puedc ser expresada como una constantc 
+m 1v1 + m2v2 + m:il'3 + · · · = a constante (l0.3) 
+si no hay fuerzas netas externas. Aqui las masas 
+las particulas se numeran I, 2, 3, 4 .... El enunciado general de 
+Newton para cada particula, 
+f--c ~ (mv), (10.4) 
+fuerza y momentum en 
+fuerLa una particula 
+del momentum de esa par-
+(!OS) 
+z. Por lo tanto. la ecuaci6n (10.3) c~ real-
+hav otra interesante consccuen 
+·mas adelante, pcro que sim-
+es que lcyes de la fisica ser.irn las 
+m1smas, ya sea que estemos con una velocidad uniforme en 
+linea rccta. Por ejemplo, un quc hacc rebotar una pclota en un aviOn encuentra 
+quc la pelota rebota lo mismo que si la estuviera hacienda rcbotar sabre !a tierra. Aun 
+cuando el aviOn se estil moviendo con una vclocidad muy alta, a menos que camhie 
+su velocidad, las lcyes parecen las mismas para el nii1o que cuando el aviOn estit en 
+reposo. Esto es el asi llamado principio de relarividad. Tai comu lo usamos aqui lo 
+llamaremos "rclatividad galileana ", para distinguirla de! an;llisis mas cuidadoso hecho 
+por Einstein, que estudiaremos mas tarde 
+Bernos ya deducido la ley de conservaciOn de! momentum a partir de las !eyes de 
+Newton y podriamos continuar desde aqui para encontrar las !eyes especiales que 
+describen los impactos y colisioncs. Pero por razones de variedad, y tambit:n como 
+una ilustraciOn de un tipo de razonamiento que pucde scr usado en fisica en otras 
+circunstancias, donde, por ejemplo, uno no puede conocer las leyes de Newton y pue­
+da seguir un mt:todo diferente, 
+10-4
+
+discutiremos las leye:. de los impactos y colisiones desde un punto de vista completa· 
+mente diferente. Basaremos nuestra discusiim en el principio de la relatividad gali!eana, 
+cnunciado ante~, y tcrminaremos con la ley de conservaci6n del momentum. 
+ComenLaremos suponiendo que si corrcmos, la naturaleza se veril igual 4uc si 
+e:.tamos quietos. Antes de discutir las colisiones en las cuales dos cuerpos chocan 
+y sc pegan, o se juntan y rebotan apartandose, consideraremo.'> primcro dos cuerpos 
+que .<,e mant1enen unidos por un resorte a algo por e! estilo, y luego se los suelta 
+repentinamente y cl resortc o ta! vez una pequefia explosi6n los empuja. Mils al.in, 
+consideraremos cl movimiento en una sola direcci6n. Supongamo~ primero quc los 
+do~ son exactamente iguales, ~on objetos bien simetricos, y !uego tenemos 
+cxplo~10n entre ellos. De5pues de la explo5i6n, uno de los cuerpos se 
+mov1endo. digamos hacia la derecha, con una velocidad v. Entonces parece 
+razonable que el otro cucrpo se estC moviendo hao:-ia la 1zquierda con una velocidad 
+v, porque 51 los Objetos sun semeJantes, no hay razon para que la derecha o la iz­
+qu1erda scan prefcrida~ y, por lo tanto, los cucrpos harian algo que es simCtrico. 
+E~to es un ejemplo de lin tipo de ideas que es muy Uti! en muchos problemas. pero 
+no sc habria pue<,to al dcscubicrto si hubiCramo" comenzado con las formulas. 
+nuestro expenmento es 4ue objetos iguales tendran velo 
+supongamo~ que tenemo5 dos objdOs hecho~ de diferen 
+alumin10, hacemos las dos masm· 1guales. Ahora 
+con dos son iguaks. aun 
+las velocidades Alguien podria 
+no tenia por que suponer e5o. Us­
+masas quc adquieren velocidades 
+en c~te cxpenmemo esta sugerencia y hagamos una pequefia explo-
+~mn .:uue d cobu: y un pedazo muy grande de aluminio, tan pesado que el cobre vuela 
+leJ05 y cl alumirno apcnas sc mueve. Eso es dema:.iado alummio, asi quc reduzcamos 
+la cantaJad hasta (jltC hqya sOlo un pcdaw muy diminuto; entonces cuando hacemos 
+la explos1im del alum11110 vuela leJOS y el cobre apenas se muevc. Esto no es suficiente 
+alumm10. Evidenlcmente alguna cantidad corrccta intermedia; asi que seguimo.'> 
+ajustando las cant1dades quc la5 velocidades lleguen a ser 1guale~. Muy bien: 
+entonces, demos ~uelta a las cosas} digamos que cuando las velocidade5 son 1guales, 
+!as son Jmtamente una definic16n, y parece notable 
+meras defimcione~. Sin embargo. hay al 
+accptamos esta definiciOn de masas iguales. inmc 
+lcyes. tal como s1guc 
+l0-5
+
+de un cnunciado similar usado como postulado en rclaciOn con cantidades mate­
+mtiticu9 A partir de este ejcmplo pode~nos vcr lo r<lpido quc comenzamos a inferir 
+cosas si somos descuidados. No es prec1samente una defirnci6n decir que las masas 
+son iguales cuando las velocidadcs son iguales. porque dccir quc las masas son 
+igua!cs implica las [eyes matemilticas de la igualdad. lo que a su vez hace una pre­
+dicci6n acen;a de un experimcnto. 
+Como segundo cjemplo, supongamos que se encuentra que A y B son iguales a! 
+hacer d experimento con una cierta intensidad de explosiOn, que da una cierta veloci­
+dad; s! despuCs usamos una exp!osi6n mils fuerte, ;,sera vcrdad o no que las vclocida­
+des obtcnidas ahora sean iguales? Otra vez. en lugica nada hay que pueda decidir esta 
+cuestiOn, pero el experimento demuestra que es verdadero. Asi, hay otra ley que se 
+puedc establecer: Si dos cuerpos tienen masas igualcs cuando se las mide por vcloci­
+dades iguales a una vclocidad determinada, tendr<'tn cuando se las mide 
+a otra velocidad. A partir de cstos ejemplos, vemos que 
+definici(m realmente encierra algunas !eyes de fisica. 
+En el desarrolio que sigue supondremos que es verdad que masas iguales tienen 
+veloddades iguales y opuestas cuando ocurre una explosiOn cntre ellas. Haremos otra 
+suposic!On en cl caso inverso: si dos objetos idCnticos, moviCndose en dirccciones 
+opuestas con velocidades lguales, chocan y se pegan por algUn tipo de cola. entonces 
+(,de qui: manera se estar<'in moviendo despuCs de !a colision? Esta es otra vez una 
+situaci6n de simetria, sin preferenr;ia entre derecha e izquierda: asi que suponemos 
+que qucdan en rcpmo. Tamhitn que dos objetos cualesquicra de ma~as 
+iguales.. aun ~i los ohjclo~ c~tirn matcriales difcrcntes, que chocan 
+cuando se muevcn con la rnisma velocidad en direcciones opues.las. 
+poso dcspuCs de la coli~inn. 
+1 0 1 V1stc1 desde un extrema de un 
+de ciirc lineJI 
+JO.J jEI momentum sc conserva! 
+Podemos. vcrificar cxperimentaimente las hiplitesis antcriorc~: primero. quc si dos 
+objetos en rcposo de masas igualcs son ~cparadm por una explosi('m, se alejariin con 
+la misma velocidad: y segundo, si dos objetos de masas iguales se acercan con la mis 
+ma velocidad chocan y sc pcgan, se detcndrlm. Esto podemos hacerlo con un mara­
+villoso invento l!amado canal de airc*, que elimina el roce. la cosa que continuamente 
+molestO a Galileo (Fig. !0.1). El no pudo haccr experimcntos deslizando las rnsas 
+porque no des!itaban libremcnte: pero, por un toque miigico adicional. hoy podemo~ 
+obtener la eliminaci(m de! roce. Nucstros objctos se deslizar<'tn sin Jificultad, conti 
+nuamente a una velocidad constante, como fue anunciado por Galileo. Esto se hacc 
+sosteniendo los objetos sobre aire. Debido a quc el aire ticne un rocc muy bajo: un 
+objeto se desliza con veloi::idad prltcticamenk 
+0 H. V. Net\er y R. H_ Le1gh10n. Ama, )our. of Phy.1. 31. 2S) ( !%3). 
+10-6
+
+fig. 10-2 Corte de los deslizadores 
+con c1l111dro accesor10 de 1nteracc16n 
+explos1va 
+hay fuerza aplicada. Primera bloques deslizantes 
+cuidadosamente para que tengan el peso o masa (real-
+mcntc ~c sus pesos, pero sabemos quc este pc~o e~ proporcional a la masa). 
+y colocamos una pequeii.a dtpsula explosiva en un cilindro cerrado entre los dos 
+bloques (Fig. 10-2). Haremos partir los bloques desde el reposo en el centro de la 
+pista y los ob\igaremo~ a apartarse haciendo explotar la dtpsula con una chispa 
+c1ectrica. ,:,Que sucederil? S1 las ve!oddades son iguales cuando se apartan, llegarim 
+a los extrema~ de! canal al mismo tiempo. Al llegar a los extremos rebotarllii pritc· 
+ticamente con veloc1dadcs opucstas, y se juntarit.n detendrim en cl ccntro desde 
+donde partieron. Es una bucna comprobaci6n; se realiza realmente el resul-
+tadu cs ju~tamentc como Jo hemos descrito (Fig. 
+Ahora, la pr6xima cosa que nos gustaria rc~o!ver es que sucede en una situaci6n 
+menos simple. Supongamos que tenemos dos rnasas iguale~, una movifndose con ve­
+locidad v y la otra en reposo, y que chocan y se pegan: ,:,que succdcril.? Hay una 
+masa 2 m en total cuando hemos terminado, movifndose con una velocidad 
+cida. ~Que velocidad? Esk cs cl prohkma. ":>ara encontrar la rcspuesta. 
+supos1c16n que si \'iajamo~ en un coche, fo.icamcnte observaremos lo mismo que s1 
+cstuviCrnmos en reposo. Partimos ~abiendo que dos 1guales, 
+opucsta~ con velocidades iguale~ r, se 
+ahora que mientras sucede, 
+se ve entonces'? 
+V•O 
+[}> ~____f]{a] 
+a_____c=i ~ '[)(b) 
+rd ~(t) 
+fl(d) 
+Fig. 10-3 Vista esquemiit1ca del 
+exper1mento acc1or1-re.icc1011 con mas.is 
+1gualcs 
+V1stadesded 
+:wtom6v1l en mo~1miento 
+(Veloe1daddel 
+automOvil = -v) 
+Antes del 2(jjj ~ 
+choque 
+V•O V--+ 
+@:lJ!:iJ Desput':s del choque~ 
+10-4 Dos v1st.is de u11 choque 
+entren1as<1s1guales 
+10-7
+
+velocidad y \as sumamos mv + 0, obtenemos el mismo resultado que cuando mul­
+tiplicamos despues la masa y la velocidad de! conjunto, 2m por v/2. Asl esto nos 
+dice lo que sucede cuando una masa de velocidad v choca con una que estti en reposo. 
+Exactamente de la misma manera podemos deducir Jo que sucede cuando objetos 
+iguales que tienen dos velocidades cualesquiera chocan entre si. 
+Vista desde el 
+"laboratorio" 
+Antes de\ 
+choque 
+Vistadesde 
+elautomOvil 
+I mY: !DespuesdelchoqueL@ 
+Fig. 10--5. Dos vistas de otro choque 
+inerastico entre masas iguales. 
+Supongamos que tenemos dos cuerpos iguales con velocidades v1 y v2, respecti­
+vamente, que chocan y se pegan . .-,Cuitl es su velocidad v, despues de !a colisiOn? 
+Otra vez pasamos en un automOvil, digamos a una velocidad v2, de manera ta! que 
+uno de los cuerpos parece estar en reposo. Entonces el otro parece tener una velo­
+cidad v, · v1 , y tenemos el mismo caso que teniamos antes. Cuando todo este termi­
+nado, se estariln moviendo con una velocidad I /2 (v1 -· v:J con respecto al coche . 
+.-,cual es entonces la velocidad real respecto al sue!o? Ella es v cc- ~ (i' 1 - vJ + 11! 0 
+~ (v1 + vJ (Fig. 10-5). Otra vez notamos que 
+(10.6) 
+Asi, usando este principio, podemos analizar cualquier tipo de colisi6n en la cual 
+dos cuerpos de masas iguales chocan entre si y se pegan. En realidad, aunque hemos 
+trabajado sOlo en una direcciOn, podemos descubrir mucho acerca de colisiones mu­
+cho mils complicadas, imaginando que pasamos en un cache en alguna direcciOn obli­
+cua. El principio es el mismo, pero los detalles se hacen alga complicados. 
+Para verificar experimentalmente si un objeto que se mueve con velocidad 
+choca con uno igual en reposo, forma un objeto que se mueve con velocidad 
+demos rea!izar el siguientc experimento con nuestro aparato de! canal de aire. 
+camos en el canal tres objetos. de igual masa, dos de los cuales cstiln inicialmente 
+dos con nucstro dispositivo cilindrico explosivo, estando el tercero muy cerca pero 
+ligeramente separado de aqu61Jos y provisto de un tope adhesivo de manera que se 
+pegarti a otro objcto que lo choque. Ahora, un momenta despu6s de la explosi6n, te­
+nemos dos objetos de masa m moviendose con velocidades v iguales y opuestas. Un 
+momento despues de esto, uno de estos choca con el tercer objeto y hace moverse 
+un objeto de masa 2m, creemos asl, con velocidad p/2 . .-,COmo podemos verificar que 
+es realmente v/2'? Arreglando las posiciones iniciales de las masas sobre el canal de 
+manera que !as distancias a los extremos no sean iguales, pero que esten en la razOn 
+2:1. Asi nuestra primera masa, la cua\ continUa moviendose con velocidad i', recorre­
+ra en un tiempo dado el doble de distancia que las dos que se han pegado (prescin­
+diendo de la pequeiia distancia recorrida por el segundo objeto antes que choque con 
+el tercero). La masa m y la masa 2111 alcanzar.'.m los extremo'i al mismo tiempo. y 
+cuando lo ensayamos, encontramos que lo hacen (Fig. 10.6). 
+10-8
+
++--V V-+ 0 
+rr-:-zo_________..c:m: O!Drm::J-:------o---:-f! 
+--v v'-+ 
+(]Qii]~~~~~~~C~T!iCX~LII 
+Fig. 10-6. Una expenencia para verif1car 
+que una masa m con veloc1dad v que choca 
+con una masa m con veloc1dad cero da 2m 
+con veloc1dad v/2. 
+El prOximo problema que queremos desarrol!ar es quC sucede si tenemos dos ma~ 
+sas difcrentes. Tomemos una masa m y una masa lm y apliquemos nuestra interac­
+ci6n explosiva. lQue sucederit entonces? Si, como resultado de la explosi6n, m se 
+mueve con velocidad v, lCOn que ve!ocidad se mueve lm? El experimento que hemos 
+reciCn realizado se puedc repetir con separaci6n nula entre la segunda y tercera masa, 
+y cuando lo ensayamos obtenemos el mismo resultado, es dccir, las masas que reac­
+cionan my 2m alcanzan las vclocidades - v y ~,/2. Asi la rcacci6n dirccta cntre my 
+2m da el mismo resultado que !a reaccilm simCtrica entre m y m, seguida de una co 
+lisi6n cntre m y una tercera masa m a la cua! se pega. Mils alm, encontramos que las 
+masas m y 2m, al volver desde !os extremos de! canal con sus velocidades (aproxima­
+damcnte) exactamente invertidas, se paran en seco si se pcgan. 
+Ylstadcsdcel~1stcma 
+delcentrodcmasa~ 
+v -V/2 
+V1stadesdeel 
+automOvil 
+- + -§] §]Antes del choque §] [§] 
+o 11n ... 
+C§:J Desput':s del choquc ~ 
+Fig 10 7. Dos vistas de un choque 
+m!"l<lst1co entre my 2m 
+Ahora la priJxima cue5ti0n quc podemos prcguntamos e" Csta: i.OuC sucedera si 
+una masa m con velocidad v, digamos, choca y se pega a otra masa 2m en rcposo'! 
+Esto es muy fa.cil de re~ponder usando el principio de relatividad galileana, porque 
+simplemente obscrvamos la colisiOn que hemos reciCn descrito desde un autom6vil 
+moviCndosc con velocidad-v/2 (Fig. I0.7). Desde el autom(Jvil, las velocidadcs son 
+v'1 = v v (auto)= v + v/2 = 3 v/2 
+v'1 - v/2 v(auto) - -v/2-+- v/2=- 0 
+DespuCs de la colis1im la ma!.a Jm no~ parcce mover~e con velocidad v/2. Asi obtene­
+mos la respucsta, cs decir, la razc"Jn de las vcloc1dades antes y dcspuC~ de la colisi6n 
+es 3 a I: s1 un obJC!o de ma~a m choca con un objeto en rcposo de masa 2m, el con­
+junto se alcp, pcgado. con l /3 de velocidad. La regla general otra ve1 es que la suma 
+de los productos de las rnasas y las vclocidades permanece igual: m<' ~ 0 igual a Jm 
+por v/3, por Io que cstamos construyendo gradualmente el teorema de con~crvacibn 
+del momentum partc por parte. 
+10-9
+
+cfuJ I ~x~ I cfuJ cfu 
+r±J f&i [Ki 0 ~ 
+Fig. 10-8. Acci6n y reacc16n entre 2m 
+y3m 
+Ahora tenemos uno contra dos. Usando los mismos razonamientos, podemos pre­
+decir Jos resultados de uno contra tres, dos contra tres, etc. El caso de dos contra 
+tres, comcnzando desde el reposo, se mucstra en la figura 10-8. 
+En cada caso encontramos que la masa del primer objcto por su velocidad, mils la 
+masa del segundo objeto por su velocidad, es igua! a la masa total del objeto final por 
+su ve!ocidad. Estos son todos ejemplos, entonces, de la conservaci6n del momentum. 
+Partiendo de casos simi:tricos simples, hemos demostrado la !ey para casos mas 
+complejos. Podriamos, en realidad, haccrlo para cualquier fracci6n racional de 
+masa, y ya que cada fracci6n estft sumamente pr6xima a una fracci6n raciona!, 
+podemos manejar cualquier razOn tan precisamente como queramos. 
+I0-4 Momentum y cnergia 
+T odos los ejemplos anteriores son casos simples donde !os cuerpos ehoean y se 
+quedan unidos o cstaban inicialmcnte unidos y posteriormente eran separados por 
+una explosi6n. Sin embargo, hay situaciones en las cuales los cuerpos no se unen 
+como, por ejemplo, dos cuerpos de masas igualcs que chocan con velocidades iguales 
+y dcspu~s rcbotan. Por un breve instante est.in en contacto y ambos est.itn compri 
+midos. En el instante de m.ii.xima compresi6n ambos tiencn vclocidad cero y se alma­
+cena energia en los cucrpos clilsticos, como en un resorte comprimido. Esta energia 
+provienc de la energia cinCtica que tenian los cuerpos antes de la colisi6n, la cua! 
+llega a ser cero en el instante en que su velocidad es cero. Sin embargo, la pfrdida 
+de energia cinetica es ~Olo momentt\.nea. La condici6n en compresi6n es analoga a la 
+cilpsula que libera energia en una explosi6n. Los cuerpos son inmediatamentc descom­
+primidos en una especie de explosiOn y se separan de nuevo; pero ya conocemos el 
+caso -\os cuerpos se scparan con velocidadc~ iguales -. Sin embargo, esta velocidad de 
+rcbote cs menor, en general, que la velocidad inicial, porquc no toda cnergia est.it dis­
+ponible para la cxplosiOn. dcpcndiendo de! material. Si el material es como la masilla, 
+la energia cinetica no se recobra; pero si es algo mt\.s rigido. algo de energia cinfaica 
+se resupera corrientementc. En la colisiOn el rcsto de la energia cinetica se transforma 
+en calor y energia de vibraci6n -los cuerpos estiin calientes y vibrando-. La energia 
+de vibraci6n tambiCn se transforma pronto en calor. E~ posible hacer los cuerpos quc 
+chocan de matcrialcs altamente el:isti.:os. tales como el accro con lopes de resorte 
+cuidadosamente diseilados. tal quc la colisi6n genera poco calor y vibraciOn. En 
+estas circun~tancta~ la~ vclocidades de rebate son igualcs a las vcloci-
+dades iniciales; ta! colisi(m se llama elristica. 
+q~e las ve!ocidad_e_s antes y despuiis ~e una colisi6n e!~stica scan iguales no cs 
+cuestion de conservacion del momentum, smo de conservacion de la energ[a cinfitica. 
+10~10
+
+estos procesos. 
+son especialmentc intcresantes para sistemas quc no ten-
+o partes"" internas. Entonces cuando hay una colisi6n no hay 
+energia pucda scr encerrada. porque !os objetos que se separan 
+condici6n que cuando chocaron. Por lo tanto, entre objetos muy 
+colisiones siempre eiasticas o muy cercanamcnte elasticas. Por 
+que las entre .itomos o mokculas en un gas son perfecta-
+Aunque esto es una excelente aproximaciim, hasta esas colisiones no 
+clilsticas; de otra manera uno no podria entcnder cOmo la energia 
+de luz o de radiaci6n tfamica pueda salir de un gas. De vez en cuando. en 
+de se cmitc un rayo infrarrojo de baja cnergia. pero cste hecho es 
+emitida cs muy pequeiia. Asi, la mayoria de ias veces, las co!i­
+gases se consideran pcrfectamente el.isticas. 
+10-11
+
+Mientras se este expulsando mater.ial. el cohete .continlia aumentando su 
+La propulsi6n de cohetes es escncialmente lo m1smo que el retroccso de un 
+no hay necesidad de ningUn airc contra el cual empuj::tr. 
+10-5 Momentum relativista 
+En los tiempos modernos, la ley de conservaci6n del momentum ha sufrido cier 
+ta;. modificaciones. Sin embargo, aUn hoy la ley es cierta. encontr::rndose los cam­
+bios solamente en las definiciones. En la teoria de la rclatividad resulta que tcnemos 
+conservaci6n dcl momentum; las partlculas ticnen masas y el momentum aUn estil 
+dado por mv, la masa por la ve!ocidad, pero la masa cambia con la relocidad; por 
+lo tanto. el momentum tambi6n cambia. La masa varia con la velocidad de acuerdo 
+a la Icy 
+del 
+(10.7) 
+la velocidad de la luz. Es facil ver 
+a menos que 1· sea 
+del momentum sc 
+Las componentes del momentum para una particula se escriben en la forma 
+p,---, (10.8) 
+Si las componentes x ~e suman todas las particulas 
+coma despuCs Jc una colisi(·in. sumas son iguales. 
+momentum ~c conscrva en la dirccciOn x. Lo rn1smo vale para cualquicr 
+conservacion de la encrgia no es v<ilida 
+aparcce en rormas diferentes, energia 
+encrgia cak1rica. y asi sucesivamentc. 
+eJemplo encrgia caliJrica. sc pucdc decir que la 
+cjcmplo pucde sugerir la pregunta: ··<·.Hay tambiCn 
+de momentum escondidas --tal vez momentum calOricoT La respucsta es 
+que es muy dificil e'>conder momentum por las razones siguienles: 
+de un cuerpo dan una medida de la ener-
+g1a las vclocidades. Esta suma ser.it un resul 
+tado direccional. El calor est.it alli. ya sea quc cl 
+cucrpo \C mucva o no como un conservaciOn de la energia en la rorma de 
+calor no c~ muy cvidentc. Por ntro ~i uno suma las Fclocidades, que ticncn 
+cncurntra un rc~ultado quc no cs cero, esto significa quc hay un de~ 
+cucrpo entero en alguna d1rccc1on particular. y un momentum tan 
+sc facilmcntc. Asi no hay pCrdida al azar de momentum intcrno, 
+a quc cl cuerpo tienc momentum ncto sOlo mueve como un todo 
+tanto cl como cantidad mecilnica. c~ de esconder. Sin cm 
+el momentum e~condido -en el campo elcctrumagnCtico, por 
+de la rclatlvulad 
+10-12
+
+Una de las proposiciones de Newton fue que las interacciones a distancia son 
+instant3.neas. Resulta que este no es el caso; en situaciones en que intervienen fuer­
+zas electricas, por ejmplo, si una carga elCctrica en un lugar se mueve repentina­
+mente, el etecto sobre otra carga, en otro lugar, no aparcce instant3.neamente -hay 
+un pequeiio retardo-. En esas circunstancias, aun si las fuerzas son iguales, 
+las cosas no andan bien con el momentum; habr3. un corto tiempo durante el 
+cual existir3. dificultad porque por un rato la primcra carga sentir:i una cierta 
+fuerza de reacci6n, digamos, y tomar3. alglln momentum. pero la segunda carga 
+no hr. sentido nada y no ha cambiado alm su cantidad de movimiento. Lleva 
+tiempo para la influencia cruzar la di:>tancia que interviene, lo quc hace a 300.000 
+kil6metros por scgundo. En esc pcquenisimo tiempo el momentum de las particulas 
+no se conserva. Por ~upue~to, despuCs que la segunda carga ha sentido el etecto de 
+la primera y todo-se ha aquietado, se vcrificar<i. la ccuaci6n de! momentum, pero du­
+rante esc pequeiio mtervalo el momentum no sc conserva. Representamos esto di 
+ciendo que durante este intervalo hay otro tipo de momentum adem<i.5 del de la pnr­
+ticu!a, mv, y ese es el momentum de! cam po clcctromagnCtico. S1 sumamos cl momentum 
+del campo al momcnturp. de las particulas. el momentum se conscrva todo cl ticmpo 
+y en cualqmer instante. fl hecho Je que el carnpo electromagnet1co pueda poseer 
+momentum y energia hacc-ese campo muy real, y asi. una meJOf comprens16n, 
+la idea original de que hay s61o las fuernis entre se debe transformar en 
+la iJea de que una particula campo, y un campo act\ia sobre otra particub 
+y el campo mismo tienc tan famihan::s como contcmdo de energia y mo-
+mentum, tal coma las tomar otro ejcmplo: un campo electromag-
+netico ticne ondas. quc ljllC la luz tamb1Cn 
+tum, de modo cuanclo la luz un objelO le 
+por segundo; es eqwvalente a una 
+recogiendo una porciOn de momentum por 
+to est3. cambiando y la s1tuaci6n 
+sabre el. La luz puedc cjcrcer 
+pequei'ia, pero C!> mcd1ble con aparatos "'lio.ec1'meo\C
+
+11 
+Vectores 
+11-1 Simelria en fisica 
+11·2 Traslaciones 
+11-3 Rotaciones 
+11-4 Vectores 
+11-1 Simetria en fisica 
+11-5 Algebra vectorial 
+11-6 Leyes de Newton en notaciOn vectorial 
+11·7 Producto escalar de vectores 
+En este capltulo introducimos un tema quc se conocc 1Ccnicamente en fisica 
+como simetria en lm· !eyes jlsicas. La palalira "simetria" aqui con un signi-
+ticado especial, y por esta ra7(m necesita ser definida. es s1metnca una 
+cosa'! ~(,c6mo podemos dcfinirlo?-- Cuando tenemos un cuadro que es simdrico, un 
+!ado es de algim modo igual al otru lado. El profesor Hermann Weyl ha dado csta 
+dcfinici6n de simetria: una cosa es simCtrica si uno puedc someterla a una cicrta 
+operaci6n y aparece exactamcntc igual despuCs de la operaciOn. Por ejemplo, si 
+observamos un jarr6n que es simCtrico izquierda-derecha, luego si lo giramos 
+! 80" alrededor del eje vertical, s.c veri1 igual. Adoptaremus la detiniciim de simetria 
+de Weyl en una forma mils general y -en esa forma discutiremos la simetr'ia de las 
+lcyes fisicas. 
+Supongan mfi4uina compleja en algUn Jugar. con muchas 
+interaccioncs rchotando por doquier con rucrza5 entrc si, etc. 
+Supongan ahora que exactamente la misma clase de equipo en algUn 
+otro lugar igualando parte por parte, con las mismas dimensiones y Ia misma oricn­
+taciim, todo igual sillo que des.plaLado lateralmente en cierta distancia. Entonccs, si 
+hacemos foncionar !as dos mitquinas la~ mismas circunstancias inicialcs en 
+correspondencia, nos 
+a la otra'! i.Scguiran en exacto para!elismo? Por 
+respuesta bien pucde ser no, porque si escoµ.emos un lugar cquivocado para nuc.\lra 
+mii.quina, Cste podria cstar rodeado por una pared. e interfercncias dcsdc la pared 
+harian que la mi1quina no trabajase. 
+11-1
+
+entonces afirmamos que las \eyes de la fisica no tienen esta simetria. Por otro la 
+do, podriamos encontrarlo --esperamos encontrar\o- si las leyes de la fisica tienen 
+esa simetria; observando alrededor, podemos descuhrir, por ejemp1o, que la pared 
+estit empujando el aparato. La cuesti6n bitsica es, si definimos las cosas lo suficien­
+temente bien, si todas las fucrzas esenciales estfilt incluidas dentro de! aparato, si 
+todas las partes pertinentes se mueven desde un lugar a otro, t,serfilt las leyes las 
+mismas? (.La maquinaria trabajarit de la misma manera? 
+Estit claro que lo que queremos hacer es mover todo el equipo e influencias 
+esenciales, pero no todas las cosas del mundo --planetas, estrellas y todo- porque si 
+hacemos eso, tenemos de nuevo el mismo fen6meno por la raz6n trivial de que 
+hemos vuelto atrits exactamente donde comenzamos. No, no podemos mover cada 
+cosa. Pero resulta en la pritctica que con una cierta cantidad de intcligencia acerca 
+de quC mover, la maquinaria trabajarit. En otras palabras, si no estamos rodeados 
+por una pared, si conocemos el origen de las fuerzas extemas y disponemos que 
+Csas se muevan tambiCn, entonces la maquinaria trabajarit igual en un lugar como en 
+otro. 
+II -2 T raslaciones 
+Limitaremos nuestro an:ilisis si>lo a la mecimica, para lo cual tenemos ahora 
+suficiente conocimicnto. En los capitulos anteriores hemos visto que las leyes de 
+la mecimica pueden ser resumidas en un conjunto de tres ecuaciones para cada 
+particula: 
+Ahora bien, esto significa quc cxiste una manera de medir x, y, z sobre tres ejes 
+perpendiculares y las fuerrns segUn esas direcciones, de modo quc cstas !eyes 
+scan villidas. Estas deben ser med id as desde algU.n orig en, pero, ;, d6nde ponemos el 
+origen? Todo lo que Newton nos diria al princ1pio es que hay alglln !ugar desde 
+el cual podemos mcdir, quiz:is el cenlro del universo, tal que estas lcyes sean correc 
+tas. Pero po<lemos demostrar inmediatamcntc quc nunca podcmos encontrar el cen­
+tro, porque si usamos algUn otro origen no habria difcrcncia. En otras palabras, 
+supongamos que hay dos personas: ·Juan, quien tiene su origen en un Jugar. y 
+Pedro, quien tiene un sistcma paralclo cuyo origen cstit en alguna otra partc (Figu 
+ra II-I). Ahora bien, cuando Juan mide la ubicaci6n del punto en el espacio. lo 
+encucntra en x, \', z (usualmente dcjaremos a z fuera porque introduce demasiada 
+confusi6n al dib~jarla en una figura). Pedro, por otro !ado. cuando mida el mismo 
+punto, obtendrit un x difcrcnte (que pilra distinguirlo Lo llamarcmos x'), y en prm­
+cipio un y difcrente, aun cuando en nuc;.tro ejcmplo son 
+i:u~ i:<drn 
+~.

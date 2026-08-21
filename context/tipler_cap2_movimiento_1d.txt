@@ -1,0 +1,1828 @@
+Tema: El movimiento en una dimensión (Capítulo 2 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+20 | Capítulo 2 El movimiento en una dimensión 
+Ax = Xe — Xj (2.1) 
+DEFINICION —DESPLAZAMIENTO 
+Av = xp —X; 
+La notación Ax (léase “delta de x”) corresponde a una sola magnitud, el incremento de x (no 
+Figura 2.1 Un automóvil se mueve en línea recta al producto de A por x, como tampoco cos 8 es el producto del cos por 8). Por convenio, la 
+en un sistema de coordenadas formado por una lí- variación experimentada por una magnitud es siempre su valor final menos su valor inicial. 
+NOR Ari que de CCOR Un pinto O CA On. Se define la velocidad media de la partícula v,,, como el cociente entre el desplaza- cadi ponto de la línea se asigna up nameit cayo miento Ar y el intervalo de tiempo At = t= h 
+valor es proporcional a la distancia a O. Los puntos 
+a la derecha de O son positivos y a la izquierda, ne- 
+gativos. Cuando el coche se desplaza desde el punto 
+x, al punto xp su desplazamiento es Ax = xy — x}. hee Ax FEM (2.2) 
+DEFINICIÓN —VELOCIDAD MEDIA 
+El desplazamiento y la velocidad media pueden ser positivas o negativas. Un valor positivo 
+indica el movimiento en la dirección x positiva. La unidad del SI de velocidad es el m/s. 
+EJEMPLO 2.1 | Desplazamiento y velocidad de un cometa 
+Un cometa que viaja directamente hacia el Sol es detectado por primera vez en x; = 3,0 x 10"? 
+m respecto al Sol (figura 2.2). Exactamente un año después se encuentra en x, = 2,1 x 10? m. 
+Determinar su desplazamiento y velocidad media. 
+Planteamiento del problema Los cometas se mueven en órbitas elípticas alrededor del Sol. 
+Aquí se considera la distancia desde el Sol como si el cometa se moviese en una dimensión. Conoce- 
+mos x; y Xp Si elegimos 1; = 0 será, t; = 1 año = 3,16 x 107 s. La velocidad media es Ax/Ar. 
+Figura 2.2 
+1. El desplazamiento se obtiene de su definición: Ax = xp- x; = (2,1 x 102 m)-(3,0x 102 m) = -9x 10!! m 
+Ax _ -9x10!'!m 
+At 3,16x«107s 
+-2,85 x 104 m/s =[-28,5 km/s ] 
+Observación Ambas magnitudes, desplazamiento y velocidad media, son negativos, pues el 
+cometa se mueve hacia los valores más pequeños de x. Obsérvese que las unidades, m para Ax y m/s 
+o km/s para vm, son partes esenciales de las respuestas. Carece de significado decir que “el desplaza- 
+miento es —9 X 101!” o “la velocidad media de una partícula es -28,5”, 
+2. La velocidad media es el desplazamiento dividido por el intervalo de Y, 
+tiempo: 
+Ejercicio Un avión de reacción sale de Detroit a las 2:15 p.m. y llega a Chicago, a 483 km de dis- 
+tancia, completando el viaje con una velocidad media de 500 km/h. ¿A qué hora llega a Chicago? 
+(Respuesta 3:13 p.m., hora de Detroit, que es en realidad 2:13 p.m. hora de Chicago.) 
+EJEMPLO 2.2 | Camino de la escuela ¡PÓNGALO EN SU CONTEXTO! 
+Habitualmente tardamos 10 minutos en ir de casa a la escuela situada a 5 km de distancia, 
+yendo por una calle recta. Si un día, salimos de casa 15 min antes del comienzo de la clase, 
+pero nos encontramos con un semáforo estropeado que hace que la velocidad durante los 2 
+primeros kilómetros sea de 20 km/h, ¿llegaremos a tiempo? 
+Planteamiento del problema A fin de resolver el problema hay que encontrar el tiempo total 
+que necesitamos para llegar a la escuela. Para ello, hay que calcular el tiempo Ar, ym durante el cual 
+vamos a 20 km/h y el tiempo Af; xm del resto del trayecto, durante el cual la velocidad es la habitual.
+
+1. El tiempo total coincide con el tiempo invertido en los dos primeros 
+kilómetros más el tiempo utilizado para recorrer los tres restantes: 
+2. Usando Ax = v,,At, determinar el tiempo que nos cuesta recorrer los 
+dos primeros kilómetros a 20 km/h: 
+3. Usando Ax = y,,Ar, calcular el tiempo que tardamos en recorrer los tres 
+Kilómetros restantes: 
+4. Usando Ax = v,,Ar, despejar Ysya, la velocidad que nos permite reco- 
+rrer 5 km en 10 min: 
+5. Despejar el tiempo f; kmt 
+6. Despejar el tiempo total: 
+7. El desplazamiento cuesta 12 minutos comparado con los 10 minutos 
+habituales. Sin embargo, habíamos salido de casa con 15 minutos de 
+antelación, por lo tanto no llegamos tarde a la escuela. 
+2.1 Desplazamiento, velocidad y módulo de la velocidad 
+Afio = At, km + At; km 
+Atim = ie son = 0,1h = 6min 
+Vasmi = = z ae = 0,5 km/min 
+Als mi = ase isso 
+El módulo de la velocidad media de una partícula es el cociente de la distancia total reco- 
+rrida y el tiempo total desde el principio al final: 
+Módulo de la velocidad media = ESPADA! - s tiempo total t (2.3) 
+La distancia total y el tiempo total son siempre positivos, por lo tanto el módulo de la veloci- 
+dad media también es siempre positivo. 
+EJEMPLO 2.3 | Módulo de la velocidad media en una carrera 
+Un corredor recorre 100 m en 12 s; luego da la vuelta y recorre 50 m más despacio en 30s yen = 50 100 
+dirección al punto desde el que inició su movimiento. ¿Cuál es el valor del módulo de la veloci- —- ---- -------------------------- > 
+dad media y el de la velocidad media para toda su trayectoria? xj 12s x 
+Planteamiento del problema Utilizaremos las definiciones de módulo de la velocidad media y > e A A 
+velocidad media, recordando que el módulo de la velocidad media es la distancia total dividida por Figura 2.3 
+At, mientras que la velocidad media es el desplazamiento neto dividido por At. 
+(a) 1. El módulo de la velocidad media es igual a la distancia total divi- 
+dida por el tiempo total: 
+2. Calcular la distancia total recorrida y el tiempo total; 
+3. Utilizar s y £ para hallar el módulo de la velocidad media: 
+(b) 1. La velocidad media es el cociente del desplazamiento neto Ax y el 
+intervalo de tiempo Ar: 
+2. El desplazamiento neto es x; — x;, en donde x; = 0 es la posición 
+inicial y x, = 50 m es la posición final: 
+3. Utilizar Ax y Ar para hallar la velocidad media: 
+Módulo de la velocidad media = X 
+= il} 
+li 
+$ +5, = 100m+50m = 150m 
+12s +30s= 42s 
+R ; 150 m = Módulo de la velocidad media = 2e> 3,57 m/s 
+_ Ax E 
+= x,-x, = ÍS0m-0 = 50m 
+Ax 50m = AP = Ds =|1,19 m/s 
+Comprobar el resultado La marca mundial de una carrera de 100 m está algo por debajo de los 
+10 s, es decir, 10 m/s es aproximadamente la velocidad máxima que puede obtenerse. El resultado de 
+3,57 m/s para el módulo de la velocidad media en (a) es razonable, ya que el corredor fue mucho 
+más lentamente durante un tercio de su recorrido. Si el resultado obtenido hubiera sido 35,7 m/s ten- 
+dríamos razón para pensar que algo había fallado en el cálculo. 
+21
+
+22 | Capítulo 2 El movimiento en una dimensión 
+Observación El módulo de la velocidad media es mayor que la velocidad media porque la distan- 
+cia total recorrida es mayor que el desplazamiento total. Nótese también que el desplazamiento neto 
+es la suma de los desplazamientos individuales. Es decir Ax = Ax, + Ax, = (100 m) + (—50 m), que es 
+el resultado del paso 2 de la parte (b). 
+EJEMPLO 2.4 | La aventura del pájaro viajero 
+Dos trenes separados 75 km se aproximan uno al otro por vías paralelas, moviéndose cada uno 
+de ellos a 15 km/h. Un pájaro vuela de un tren al otro en el espacio que los separa, hasta que se 
+cruzan. ¿Cuál es la distancia total recorrida por el pájaro si éste vuela a 20 km/h? 
+Planteamiento del problema Este problema parece difícil a primera vista, pero realmente es 
+muy simple si se enfoca adecuadamente. Para ello escribiremos en primer lugar una ecuación para la 
+magnitud a determinar, es decir, la distancia total As recorrida por el pájaro. 
+1. La distancia total es igual al módulo de la velocidad media multiplicado s = (módulo de la velocidad media) pg; X 1 
+por el tiempo: = (velocidad) m pájaro X 1 
+2. El tiempo que el pájaro está en el aire es igual al tiempo que los trenes S; +s = (velocidad), , x r+ (velocidad), ,X1 = D 
+tardan en encontrarse. La suma de las distancias recorridas por los dos por lo tanto 
+trenes es D = 75 km. Determinar el tiempo que tardan los dos trenes en D 
+recorrer una distancia total D: t= (velocidad), , + (velocidad), 5 
+3. La distancia total recorrida por el pájaro es. por lo tanto: s = (velocidad), pájaro X 1 
+} D = (velocidad) pájaro (efocidad),, | + (velocidad), 2 
+75 km 
+= 20 kmh as isin kn] 
+Observación Algunos tratan de resolver este problema determinando y sumando las distancias 
+recorridas por el pájaro cada vez que se mueve de un tren al otro. Este sistema es muy complejo. Es 
+importante desarrollar un enfoque meditado y sistemático para resolver los problemas. Es útil comen- 
+zar por escribir una ecuación que relacione la magnitud desconocida en función de otras magnitudes. 
+Después se procede a determinar los valores de cada una de las restantes magnitudes de la ecuación. 
+La figura 2.4 representa gráficamente la velocidad media. Una línea recta une los puntos 
+P, y P, y forma la hipotenusa del triángulo de catetos Ax y Ar. El cociente Ax/Ar es la pen- 
+diente de la línea y nos ofrece una interpretación geométrica de la velocidad media: 
+La velocidad media es la pendiente de la línea recta que conecta los puntos (f,, xy) y (th, X2). 
+INTERPRETACIÓN GEOMÉTRICA DE LA VELOCIDAD MEDIA 
+En general, la velocidad media depende del intervalo de tiempo escogido. Por ejemplo, si 
+en la figura 2.4 tomamos un intervalo menor de tiempo, escogiendo un instante tj más 
+próximo a £,, la velocidad media será mayor, según indica la mayor inclinación de la línea 
+que une los puntos P, y PS. 
+Ax . 
+y eR he Velocidad instantanea 
+Figura 2.4 Gráfico de xen función det para una A primera vista puede parecer imposible definir la velocidad de la partícula en un solo ins- 
+partícula que se mueve en una dimensión. Cada tante, es decir, en un tiempo específico. En un instante determinado la partícula está en un 
+punto de la curva representa la posición x en un solo punto. Si está en un solo punto, ¿cómo puede estar moviéndose? Por otra parte, si no se tiempo determinado 1. Se ha dibujado una línea rec- 
+ta entre las posiciones P, y Pa. El desplazamiento 
+Ax =x, — x, y el intervalo de tiempo Ar = t — t, se 
+está moviendo, ¿cómo puede tener velocidad? Esto constituye una antigua paradoja que 
+puede resolverse cuando nos damos cuenta que para observar el movimiento y así definirlo, 
+indican en la figura. La linea recta entre P; y P es debemos observar la posición del objeto en más de un instante. Entonces resulta posible 
+la hipotenusa del triángulo de lados Ax y Ar y la re- definir la velocidad en un instante mediante un proceso de paso al límite. Veamos ahora la 
+lación Ax/Ar es su pendiente. En términos geométri- - figura 2.5. Cuando consideramos sucesivamente intervalos de tiempo más cortos a partir de 
+cos, la pendiente es una medida de la inclinación de tı, la velocidad media para cada intervalo se aproxima más a la pendiente de la tangente en 
+la recta. t,. La pendiente de esta tangente se define como la velocidad instantánea en 1,. Esta tan-
+
+2.1 Desplazamiento, velocidad y módulo de la velocidad 23 
+gente es el límite de la relación Ax/Ar cuando At y, por lo tanto, Ax se aproximan a cero. Así 
+podremos decir, 
+La velocidad instantánea es el límite de la relación Ax/Ar cuando Ar se aproxima al valor 
+cero, 
+vai) = sim, > = pendiente de la línea tangente a la curva x función de 1! (2.4) toe 
+DEFINICION —VELOCIDAD INSTANTANEA 
+Este límite se denomina derivada de x respecto a f. La notación usual para la derivada es dx/dt: Figura 2.5 Gráfico de x en función de t. Obsér- 
+vese la secuencia de intervalos de tiempo sucesiva- 
+mente más pequeños Ar,, At», Af, .... La velocidad 
+media de cada intervalo es la pendiente de la línea 
+recta para dicho intervalo. A medida que los inter- 
+Esta pendiente puede ser positiva, negativa o nula; por consiguiente, en un movimiento valos se hacen más pequeños, estas pendientes se 
+unidimensional la velocidad instantánea puede ser positiva (x creciente) o negativa (x decre- aproximan a la pendiente de la tangente a la curva 
+ciente) o nula (no hay movimiento). Su módulo lo denominamos módulo de la velocidad en el punto £;. La pendiente de esta línea se define 
+instantánea. como la velocidad instantánea en el tiempo fy. 
+ZAS dx v= lim == 
+Aro Ar od dt 123) 
+EJEMPLO 2.5 | Posición de una partícula en función del tiempo ¡INTÉNTELO USTED MISMO! 
+La posición de una partícula viene descrita por la función indicada en la figura 2.6. Hallar la +. 
+velocidad instantánea en el instante f = 2 s. ¿Cuándo es mayor la velocidad? ¿Cuándo es nula? 
+¿Es negativa alguna vez? 
+Planteamiento del problema En la figura 2.6 hemos dibujado la línea de tangente a la curva 
+en el instante 1 = 2 s. La pendiente de la línea tangente es la velocidad instantánea de la partícula en 
+el tiempo dado. Puede utilizarse esta figura para medir la pendiente de la línea tangente. 
+|[O=-pPuanaoa 03 Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas Figura 2.6 
+1. Determinar los valores x; y x2 sobre la línea tangente en los instantes = x, = 4m, x=8,5m 
+t=2syh=5s. 
+8.5m-4m 56-25 =| 1,5 m/s 2. Calcular la pendiente de la línea tangente a partir de estos valores. Esta v = pendiente = 
+pendiente es igual a la velocidad instantánea en t = 2 s. 
+3. Según la figura, la pendiente (y por lo tanto, la velocidad instantánea) 
+es mayor en aproximadamente ¢ = 4 s. La pendiente y la velocidad son 
+cero para t = 0 y ż = ő s y son negativas antes de O y después de 6 s. 
+Ejercicio ¿Cuál es la velocidad media de esta partícula entre t= 2 s y t= § s? (Respuesta 1,17 m/s.) 
+xm 
+EJEMPLO 2.6 | Caída de una piedra desde un acantilado 400 
+350 
+La posición de una piedra que a partir del reposo se deja caer desde un acantilado viene dada 300 
+por x = 5/7, en donde x se mide en metros y hacia abajo desde la posición inicial cuando f = 0, y SSD 
+t se expresa en segundos. Hallar la velocidad en un instante ¢ cualquiera. (Se omite la indica- 5 
+ción explícita de la unidades para simplificar la notación.) 200 
+150 
+Planteamiento del problema Podemos calcular la velocidad de un instante determinado ? cal- 100 
+culando la derivada dx/dt directamente a partir de su definición en la ecuación 2.4. En la figura 2.7 se 50 
+muestra la curva correspondiente que nos da x en función de r. Las líneas tangentes están dibujadas 
+en los tiempos f;, t y fz. Las pendientes de estas líneas tangentes crecen uniformemente, indicando i 2 3. 4.55: 6 TIBET 
+que la velocidad instantánea crece uniformemente con el tiempo. Figura 2.7 
+1. La pendiente de la línea tangente a la curva suele llamarse de un modo más simple “pendiente de la curva”.
+
+24 | Capítulo 2 El movimiento en una dimensión 
+Ax = kn x(t + At)— x(t) 1. Por definición la velocidad instantánea es: v(t) = lim 
+aso At a0 At 
+2. Podemos calcular el desplazamiento Ax a partir de la función posición x(t) = 51? 
+x(t): 
+3. En un tiempo posterior t + Ar, la posición x(t + Ar) viene dada por: x(t+ An = 50t + An? = 5[1 +21 At + (Ar)?] 
+= 517+ 10t Ar + 5(Ar)? 
+4. El desplazamiento para este intervalo de tiempo sera: Ax = x(t + At) — x(t) 
+= [5 +101 At + 5(41)?] - 5r? 
+= 10r At + 5(Ar)? 
+5. Dividir Ax por Ar para determinar la velocidad media en este intervalo  v,, = S = Marian = 101+5 Ar 
+de tiempo: 
+6. A medida que consideramos intervalos de tiempo cada vez más cortos, v(r) = lim > = lim (101+5Ar) =[10F] 
+Ar se aproxima a cero y el segundo termino, 5Ar, tiende a cero; en cam- pure, po. 
+bio, el primer término, 10r, permanece invariable: 
+Observación Si hubiéramos hecho Ar=0 en los pasos 4 y 5, el desplazamiento hubiera sido Ar=0, 
+en cuyo caso la relación Ax/At quedaría indefinida. En su lugar, hemos dejado Ar como una variable 
+hasta el paso final, cuando el límite Ar — 0 está bien definido. 
+Para determinar las derivadas rápidamente se utilizan reglas basadas en estos pasos al 
+límite (véase Apéndice Tabla D.4). Una regla particularmente útil es 
+Si x= Ct", entonces i = Car'-! (2.6) 
+en donde C y n son constantes, Utilizando esta regla en el ejemplo 2.6 resulta x = 5? y v = 
+dx/dt = 10t, de acuerdo con los resultados anteriores. 
+Velocidad relativa 
+Si usted está sentado en un avión que se mueve a 800 km/h hacia el este, su velocidad tam- 
+bién es de 800 km/h hacia el este. Sin embargo, 800 km/h hacia el este podría ser su veloci- 
+dad relativa a la superficie de la Tierra o su velocidad relativa al aire exterior del aparato. (Si 
+el avión vuela dentro de una corriente en chorro, estas dos velocidades podrían ser distintas.) 
+Además, su velocidad es cero si se mide respecto del avión. Por lo tanto, para especificar la 
+velocidad de una partícula, debe también especificarse el sistema de referencia. En esta dis- 
+cusión se han concretado tres sistemas de referencia: la superficie de la Tierra, el aire exte- 
+rior del avión y el propio aparato. 
+Aviones repostando en pleno vuelo. Cada uno de 
+ellos está prácticamente en reposo respecto al otro, 
+si bien ambos aparatos se mueven a gran velocidad 
+con respecto al suelo. 
+Un sistema de referencia es un objeto material cuyas partes están en reposo entre sí. 
+DEFINICION—SISTEMA DE REFERENCIA 
+Para medir la posición de un objeto se usan ejes de coordenadas fijos a sistemas de referen- 
+cia. La posición de un viajero, si éste está sentado en su asiento, es constante, en relación a 
+un sistema de coordenadas horizontal fijo respecto del avión. Sin embargo, para un sistema 
+de coordenadas horizontal fijo respecto de la superficie de la Tierra o para un sistema de 
+coordenadas horizontal fijo respecto de un globo que flota en el aire exterior al avión, la 
+posición del viajero cambia continuamente. Si tiene problemas para imaginarse un sistema 
+de coordenadas fijo en el aire exterior, imagínese un sistema de coordenadas ligado a un 
+globo que flota en el aire. El aire y el globo están en reposo mutuo, por lo cual forman un sis- 
+tema de referencia único.
+
+Si una partícula se mueve con velocidad v,, en relación al sistema de coordenadas A y 
+éste a su vez se mueve con velocidad va, en relación a otro sistema de coordenadas B, la 
+velocidad de la partícula relativa a B es 
+Vo = Ypa+ VAB (2.7a) 
+Por ejemplo, si una persona nada en un río paralelamente a la dirección de la corriente, su 
+velocidad relativa a la orilla, v,,, es igual a la velocidad vectorial relativa al agua, v,,, más la 
+velocidad del agua relativa a la orilla, v,,: 
+Si la persona nada a 2 m/s contra la corriente y la velocidad vectorial del agua relativa a la 
+orilla es de 1,2 m/s, su velocidad respecto a la orilla será v, = 2 m/s + 1,2 m/s =—0,8 m/s, en 
+donde hemos escogido la dirección de la corriente como sentido positivo. 
+Una gran sorpresa para los científicos de nuestro siglo fue el descubrimiento de que la 
+ecuación 2.7a es sólo una aproximación. Un estudio de la teoría de la relatividad nos muestra 
+que la expresión exacta para las velocidades relativas es 
+, 3 VpA + VAB 4 
+Ņ = — (2.7b) 
+pB l+v Vanc? VoaVABÍC 
+en donde c=3 X 10° m/s es la velocidad de la luz en el vacío. En todos los casos cotidianos 
+con objetos macroscópicos, vpaą Y Vag Son velocidades mucho menores que c, con lo cual las 
+ecuaciones 2.7a y 2.7b coinciden, pero si se trata de velocidades muy elevadas, tales como la 
+velocidad de un electrón o la velocidad de las galaxias distantes que se alejan de la Tierra, la 
+diferencia entre estas dos ecuaciones puede ser importante. La ecuación 2.7b tiene la intere- 
+sante propiedad de que si v,, = c, entonces v,, también es igual a c, lo cual es un postulado 
+de la relatividad, a saber, la velocidad de la luz es la misma en todos los sistemas de referen- 
+cia que se mueven con velocidad constante relativa entre sí. 
+Ejercicio Use la ecuación 2.7b sustituyendo c por v,, y resuelva para v,,. Observe enton- 
+ces que la ecuación 2.7b está de acuerdo con el resultado que dice “la velocidad de la luz es 
+la misma en todos los sistemas de referencia”. 
+2.2 Aceleración 
+La aceleración es la tasa de cambio de la velocidad instantánea. Cuando, por ejemplo, un con- 
+ductor aprieta el pedal del acelerador de su coche, espera cambiar su velocidad. La acelera- 
+ción media en un intervalo particular de tiempo At = f — t,, se define como el cociente Av/Ar, 
+en donde Av = v, — v;: 
+Cie (2.8) 
+DEFINICION —ACELERACION MEDIA 
+La aceleración tiene las dimensiones de una longitud dividida por el tiempo al cuadrado. La 
+unidad en el SI es m/s?. (En la ecuación 2.8, si el numerador está en m/s y el denominador en s, 
+las unidades de Av/At son (m/s)/s. Multiplicando el numerador y el denominador por | s, 
+encontramos que las unidades de Av/At son m/s?.) Podemos escribir la ecuación 2.8 como 
+Av =a,,At. Por ejemplo, si decimos que una partícula tiene una aceleración de 5,1 m/s?, ello 
+quiere decir que, si parte del reposo, después de 1 s se moverá con una velocidad de 5,1 m/s; 
+después de 2 s, lo hará con una velocidad de 10,2 m/s y así sucesivamente. La aceleración 
+instantánea es el límite del cociente Av/Ar cuando Af tiende a cero. Si representamos la 
+2.2 Aceleración 25 
+Fotografía estroboscópica de la caída de una man- 
+zana a 60 destellos por segundo. La aceleración de 
+la manzana viene indicada por el mayor espaciado 
+que se observa en las imágenes inferiores.
+
+26 | Capítulo 2 El movimiento en una dimensión 
+EJEMPLO 2.7 | Un felino rápido 
+velocidad en función del tiempo, la aceleración instantánea en el tiempo ż se define como la 
+pendiente de la línea tangente a la curva en ese tiempo: 
+> AV lim — 
+Ar=0 At (2.9) 
+pendiente de la línea tangente a la curva de v en función de 1 ll 
+DEFINICIÓN —ACELERACION INSTANTÁNEA 
+La aceleración es, por lo tanto, la derivada de la velocidad vectorial respecto al tiempo dv/dt. 
+Como la velocidad es también la derivada de la posición x respecto a t, la aceleración es la 
+segunda derivada de x respecto a t, d*x/dt*. Podemos ver el origen de esta notación escri- 
+biendo la aceleración como dv/dt y sustituyendo v por dx/dt: 
+_ dy _ d(dxidt) _ dx A 
+ae ae oe a0} 
+Si la aceleración es cero, no hay cambio de velocidad con el tiempo, es decir, la velocidad es 
+constante. En este caso, la curva de x en función de ż es una línea recta. Si la aceleración no 
+es nula, pero es constante, la velocidad varía linealmente con el tiempo y la curva de x en 
+función de 1 es cuadrática con el tiempo. 
+Un guepardo puede acelerar de 0 a 96 km/h en 2 s, mientras que una moto requiere 4,5 s. Cal- 
+cular las aceleraciones medias del guepardo y de la moto y compararlas con la aceleración de 
+caída libre debida a la gravedad, g = 9,81 m/s?, 
+Av _ 96 km/h-0 _ 1. Determinar la aceleración media a partir de los datos suministrados: Guepardo an= a ae 48 km/(h - s) 
+_Av_9%kmh-0_, $ 4 Moto Om = 55 = 435 = 21,3 km/(h - s) 
+2. Convertir a m/s? sabiendo que 1 h = 3600 s = 3,6 ks: Guepardo a x = = 13,3 m/s? z 6 ks 
+213 km UD 2 Moto a xq 5 2ms 
+3. Comparar los resultados con la aceleración de la gravedad, multipli- (Guepardo 13,3 m/s? x we =]1,36g 
+cando por el factor de conversión 12/(9,81 m/s?): 
+2 lg 92 m/ 2x — 2 =/0, 
+Moto 5 Bee 9.81 m/s?
+
+Observación Al expresar el tiempo en kilosegundos, los prefijos kilo (k) se cancelan mutua- 
+} mente. 
+Ejercicio Un coche se mueve a 45 km/h en el tiempo t = 0. El coche acelera de forma constante a 
+razón de 10 km/(h - s). (a) ¿Cuál es su velocidad cuando t = 2 s? (b) ¿En qué momento el coche se 
+mueve a 70 km/h? 
+(Respuestas (a)65 km/h, (b)2,5s.) 
+Ejercicio de análisis dimensional Si un coche parte del reposo desde x = 0 con aceleración 
+constante a, su velocidad v depende de a y de la distancia recorrida x. ¿Cuál de las siguientes ecua- 
+ciones tiene las dimensiones correctas y por lo tanto, corresponde a una ecuación posible que rela- 
+ciona x, a y v? 
+(a)v=2ax (b)v=2a/e (c)v=2ar  (d)v?*=2ax 
+(Respuesta Sólo (d) posee las mismas dimensiones a ambos lados de la ecuación. Aunque el aná- 
+lisis dimensional no nos permite obtener la ecuación exacta, con frecuencia es útil para obtener la 
+dependencia funcional.) 
+EJEMPLO 2.8 | La velocidad y la aceleración en función del tiempo 
+La posición de una partícula viene dada por x = Cf’, siendo C una constante cuyas unidades 
+son m/s. Hallar la velocidad y aceleración en función del tiempo. 
+1. La velocidad puede determinarse aplicando dx/dt = Cnt”~' (ecuación 2.6): x= Cr 
+E A 3 A AA 2. La derivada de la velocidad respecto al tiempo nos da la aceleración: er =[6Cr] 
+Comprobar el resultado Podemos comprobar las unidades de nuestras respuestas. Para la velo- 
+cidad [v] = [C][44] = (m/s? (s?) = m/s. Para la aceleración [a] = [C][4] = (m/s? As) = m/s?. 
+2.3 Movimiento con aceleración constante 
+El movimiento de una partícula que tiene aceleración constante es corriente en la naturaleza. 
+Por ejemplo, cerca de la superficie de la Tierra todos los objetos caen verticalmente con ace- 
+leración de la gravedad constante (si puede despreciarse la resistencia del aire). Si una partí- 
+cula tiene una aceleración constante a, su aceleración media en cualquier intervalo de 
+tiempo es también a. Es decir, 
+a => =a (2.11) 
+Si la velocidad es vp en el tiempo ¢ = 0 y v al cabo de cierto tiempo 1, la aceleración corres- 
+pondiente es 
+Reajustando esta expresión se obtiene v en función de t. 
+v = v+at (2.12) 
+ACELERACIÓN CONSTANTE, V EN FUNCIÓN DE t 
+Esta es la ecuación de una línea recta en un gráfico de v en función de r (figura 2.8). La pen- 
+diente de la línea es la aceleración a y su intersección con el eje vertical es la velocidad ini- 
+cial vp. 
+2.3 Movimiento con aceleración constante 
+Vo 
+t 
+Figura 2.8 Gráfico de la velocidad en función 
+del tiempo con aceleración constante. 
+27
+
+28 | Capítulo 2 El movimiento en una dimensión 
+El desplazamiento Ax = x — x en el intervalo de tiempo Ar = t — 0 es 
+Ax = Vm At = Vnt (2.13) m 
+Para una aceleración constante, la velocidad varía linealmente con el tiempo y la velocidad 
+media es el valor medio de las velocidades inicial y final. (Esta relación es válida sólo si la 
+aceleración es constante.) Si vo es la velocidad inicial y v la velocidad final, la velocidad 
+media es 
+Ym = ¿(my + v) (2.14) 
+ACELERACIÓN CONSTANTE, Vm 
+El desplazamiento es, por lo tanto, 
+1 Ax = xX- Xo = Vf = 5(Vo + V)t (2.15) 
+Podemos eliminar v sustituyendo v = vg + at de la ecuación 2.12: 
+Ax = i(vo+v)t = Lv, + vo + at)t = vot + tat? 
+“Va de cero a 60 en unos 3 segundos.” © Sydney 
+Haris El desplazamiento es, así: 
+MA AR ie Slee tg 1 92 Ax = x- xo = Vol + 5at (2.16) 
+ACELERACIÓN CONSTANTE, x(t) 
+El término vot representa el desplazamiento que tendría lugar si a fuera cero y el término 
+lat? es el desplazamiento adicional debido a la aceleración constante. 
+Eliminando 1 entre las ecuaciones 2.12 y 2.14 se obtiene una expresión entre Ax, a, v y Vo. 
+De la ecuación 2.12, 1 = (v—vp)/a y sustituyendo en la ecuación 2.14 se obtiene 
+» » 
+i | AS E Ax = vif = 5(Vo + V)1 = 5(¥9 + V) = — 
+: 2 2 a N a 
+v? = vi+2a Ax (2.17) 
+ACELERACION CONSTANTE 
+La ecuación 2.17 es útil, por ejemplo, si se trata de determinar la velocidad de una pelota que 
+se ha dejado caer desde cierta altura x cuando no nos interesa conocer el tiempo de caída. 
+Problemas con un objeto 
+A 
+Muchos problemas prácticos se refieren a objetos en caída libre, es decir, objetos que caen 
+bajo la única influencia de la gravedad. Todos los objetos en caída libre que parten de la 
+misma velocidad inicial se mueven de forma idéntica. Como se ve en la figura 2.9, se sueltan 
+desde el reposo, simultáneamente, una pluma y una manzana en una cámara de vacío, de 
+modo que caen con el mismo movimiento. Ambos objetos tienen la misma aceleración. El 
+módulo de la aceleración causada por la gravedad se designa por g, cuyo valor aproximado es 
+g = 9,81 m/s? 
+Como g es el módulo de una aceleración, siempre es positiva. Si la dirección hacia abajo se 
+Figura 2.9 considera positiva, la aceleración debida a la gravedad es a = g; si se considera positiva hacia 
+arriba, entonces a =—g.
+
+2.3 Movimiento con aceleración constante 29 
+EJEMPLO 2.9 | El birrete volador y 
+Un estudiante de física contento por su graduación lanza su birrete hacia arriba con una velo- Ñ 
+cidad inicial de 14,7 m/s. Considerando que su aceleración es 9,81 m/s? hacia abajo (desprecia- ció T ye ams 
+mos la resistencia del aire), (a) ¿cuánto tiempo tardará el birrete en alcanzar su punto más 
+alto? (b) ¿Cuál es la altura máxima alcanzada? (c) Suponiendo que el birrete se recoge a la 
+misma altura de la que ha salido, ¿cuánto tiempo permanece en el aire? as J y = y = 0 
+Planteamiento del problema Cuando el birrete alcanza su punto más alto, su velocidad instantá- t 
+nea es cero. Asi conyertimos la expresión “punto más alto” a la condición matemática v = 0. y Be a oa es 
+(a) 1. Dibujar el birrete en su posición inicial y en el punto más alto de 
+su trayectoria. Incluir un eje de coordenadas y señalar el origen y PRY Gt ard 
+las dos posiciones del birrete. y 
+2. El tiempo se relaciona con la velocidad y la aceleración: Y = vy+at Yo BS SaaS 
+Ayo 
+0—v = 3. Calcular el tiempo que tarda el birrete en alcanzar su altura t = — = ae =|1,50s 
+máxima. Para ello hacer v = 0 y despejar t: 4 E : Figura 2.10 
+Vint = 5(vo + v)t = 3(14,7 m/s + 0)(1,50 s) =|11,0 m| (b) Determinar la distancia recorrida a partir del tiempo ry la veloci- Ay 
+dad media: 
+(c) 1. Para calcular el tiempo total hacemos Ay = 0 en la ecuación 2.16y Ay = vot + zat 2 
+despejamos t: 
+E 0 = (v+ Lar 
+2. Hay dos soluciones para t cuando Ay = 0. La primera corresponde t=0 (primera solución) 
+al tiempo en que se lanza el birrete y la segunda corresponde al 20 2(14,7 m/s) : 
+tiempo en que se recoge: t =-= ~=9.80 m/s? = (segunda solución) 
+Observación La solución t=3 s también resulta de la simetría del sistema. El tiempo que tarda el O AIR 
+birrete en caer desde la altura máxima es el mismo que transcurre hasta alcanzar dicha altura (figura 10 i 
+2.11). En realidad, el birrete no está sometido a una aceleración constante debido a que la resistencia 5 ' 
+del aire sobre un objeto ligero como es el birrete ejerce un efecto significativo. Si la resistencia del 0 i 
+aire no es despreciable, el tiempo de caída es mayor que el de subida, 0 ia 34s 
+Ejercicio Calcular Ymáx — yo utilizando (a) la ecuación 2.15 y (b) la ecuación 2.16. (c) Determinar la À 
+velocidad del birrete cuando vuelve a su punto de partida. (Respuestas (a) y (b) Ymáx — Yo = 11,0 m, Li E Velocidad 
+(c) —14,7 m/s; obsérvese que la velocidad final es la misma que la velocidad inicial.) 10 : 
+5 { Ejercicio ¿Cuál es la velocidad del birrete (a) 0,1 s antes de que alcance su punto más alto y (b) 0,1 s 
+después de alcanzar su punto más alto? (c) Calcular Av/Ar para este intervalo de tiempo de 0,2 s. 
+(Respuestas (a) +0,981 m/s, (b) -0,981 m/s, (c) [(—0,981 m/s — (+0,981 m/s)1/(0,2 s) =-9,81 m/s?.) 
+Ejercicio Un coche acelera desde el reposo a 8 m/s?. (a) ¿Qué velocidad lleva al cabo de 10 s? 
+(b) ¿Qué distancia ha recorrido después de 10 s? (c) ¿Cuál es su velocidad media en el intervalo 
+t=0ar= 10 s? (Respuestas (a) 80 m/s, (b) 400 m, (c) 40 m/s.) Figura 2.11 
+El ejemplo siguiente se refiere a la distancia de frenado de un coche, es decir, al espacio 
+que recorre desde que comienza a frenar hasta que se detiene. 
+EJEMPLO 2.10 | Distancia de frenado de un vehículo 
+Una persona que conduce un vehículo de noche por una autopista ve de pronto a cierta distan- 
+cia un coche parado y frena hasta detenerse con una aceleración de 5 m/s? (una aceleración 
+que reduce la velocidad suele llamarse desaceleración). ¿Cuál es la distancia de frenado del 
+vehículo si su velocidad inicial es (a) 15 m/s o (b) 30 m/s?
+
+30 | Capítulo 2 El movimiento en una dimensión 
+Planteamiento del problema Si elegimos la dirección del movimiento como positiva, la dis- 
+tancia de frenado y la velocidad inicial son positivas pero la aceleración es negativa. Así, la veloci- 
+dad inicial es vy = 15 m/s, la velocidad final es v = 0 y la aceleración es a = —5 m/s?. Queremos 
+determinar la distancia recorrida, Ax. Como no necesitamos conocer el tiempo que tarda el coche en 
+detenerse, utilizamos la ecuación 2.17 como la más conveniente. 
+a) Hacemos v = 0 en la ecuación 2.17: Despejamos Ax: v? = y+ 2a Ax (a) pej å 
+por lo tanto 
+v-v O?-vg  —ví (15 m/s)? Ax = — = — = — = -— z i 
+a a ea A Te 
+(b) A partir del apartado anterior vemos que si v = 0, Av = —v8/ (2a). Asi, Ax = 2?(22,5 m) = 
+Ax es proporcional al cuadrado de la velocidad inicial, Haciendo uso 
+de esta observación y del resultado del apartado (a), encontrar la dis- 
+tancia de frenado para una velocidad inicial el doble de la del apar- 
+tado anterior. 
+Observación La respuesta (b) también puede obtenerse sustituyendo directamente la velocidad 
+inicial de 30 m/s en la expresión de Ax deducida en el apartado (a). Noventa metros es una distancia 
+considerable, aproximadamente la longitud de un campo de fútbol. El incremento de vp en un factor 
+2 modifica la distancia de frenado en un factor 2?= 4 (ver figura 2.12). La consecuencia práctica de 
+esta dependencia cuadrática es que incluso incrementos modestos en la velocidad originan aumentos 
+importantes en la distancia de frenado. 
+90 
+80 
+70 
+60 
+= OU) E 
+< 40 
+30 
+20 
+Figura 2.12 Distancia de frenado en función de la 
+10 velocidad inicial, La curva muestra el caso del ejem- 
+0 plo 2.10, en que la aceleración es a = —5,0 m/s’; los 
+0 5 10 15 20 25 30 puntos que se muestran en la curva son las soluciones 
+Yo, m/s de los apartados (a) y (b). 
+EJEMPLO 2.11 | Distancia de frenado ¡INTÉNTELO USTED MISMO! 
+En el ejemplo 2.10, (a) ¿cuánto tiempo tarda el coche en detenerse si su velocidad inicial es 30 
+m/s? (b) ¿Qué distancia recorre el coche durante el último segundo? 
+Planteamiento del problema (a) Excepto en los valores, este ejemplo coincide con el apartado 
+(a) del ejemplo 2.9. Utilizar el mismo procedimiento que se ha mostrado en el ejemplo 2.10. (b) Como 
+la velocidad disminuye en 5 m/s cada segundo, la velocidad que tendrá el coche 1 s antes de dete- 
+nerse debe ser de 5 m/s. Determinar la velocidad media durante el último segundo y con ella calcular 
+la distancia recorrida. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+(a) Determinar el tiempo total de frenado. t=6s 
+(b) 1. Calcular la velocidad media durante el último segundo. ve =[2,5 m/s | 
+2. Calcular la distancia recorrida a partir de Ax = v,,At. Ax, = v,,Ar =}2.5 m
+
+Observación Si el apartado (b) hubiera preguntado por la velocidad media durante los últimos 
+1,3 segundos (en vez de durante el último segundo), se hubiera podido determinar la velocidad ini- 
+cial y; durante este intervalo a partir de la ecuación 2.11 Av = aAt. 
+A veces nos podemos formar una imagen valiosa sobre el movimiento de un objeto suponiendo 
+que podemos aplicar las fórmulas para la aceleración constante aunque ésta, en realidad, no lo sea. 
+Éste es el caso del ejemplo siguiente. 
+EJEMPLO 2.12 | E choque de prueba 
+Un coche que va a 100 km/h choca contra una pared de hormigón rígida. ¿Cuál es su acelera- 
+ción? 
+Planteamiento del problema En este ejemplo no es correcto considerar el coche como una 
+partícula, ya que las distintas partes del mismo sufrirán aceleraciones distintas al arrugarse sobre la 
+pared. Además, estas aceleraciones no son constantes. Sin embargo podemos obtener una respuesta 
+aproximada suponiendo que una partícula puntual localizada en el centro del coche posee una acele- 
+ración constante. Para resolver este problema necesitamos más información: la distancia de deten- 
+ción o el tiempo de detención del coche. Podemos estimar la distancia de detención utilizando el 
+sentido común. Después del impacto, el centro del coche se desplazará hacia adelante algo menos que 
+la mitad de la longitud del coche. Tomaremos para nuestra estimación el valor razonable de 0,75 m. 
+Como el problema no nos proporciona el tiempo, utilizaremos la relación v? = vj + 2aAx. 
+> 
+1. Usando v? = vj +2aAx, obtener la aceleración: v? = vg+2aAx 
+por lo tanto 
+2.3 Movimiento con aceleración constante 
+v?— vő _ 02-(100 km/h)? a = 
+2. Convertir la velocidad expresada en km/h en m/s. En una hora hay (100 km/h) x a 
+602 s = 3.6 ks: 
+3. Completar el cálculo de la aceleración: 2(0.75 m) 
+Observación Nótese que el módulo de esta aceleración es superior a 50g. Esta estimación de la 
+aceleración se basa en las suposiciones de que el desplazamiento del centro del coche es de 0,75 m y 
+que la aceleración es constante. 
+EJEMPLO 2.13 | El movimiento de un electrón 
+Un electrón en un tubo de rayos catódicos acelera desde el reposo con una aceleración de 
+5,33 x 10 m/s? durante 0,15 pus (1 us = 107? s). Después, el electrón se mueve con velocidad 
+constante durante 0,2 jus. Finalmente alcanza el reposo con una aceleración de -2,67 x 10° m/s?. 
+¿Qué distancia total recorre el electrón? 
+Planteamiento del problema Las ecuaciones de aceleración constante no se pueden aplicar 
+directamente a este problema, ya que la aceleración del electrón varía con el tiempo. Dividir el 
+movimiento del electrón en tres intervalos, cada uno con una aceleración constante distinta y utilizar 
+la posición y velocidad finales de cada intervalo como condiciones iniciales para el intervalo 
+siguiente. Tomar como origen la posición de partida del electrón y asignar la dirección positiva a la 
+dirección del movimiento. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Determinar el desplazamiento y la velocidad final en el primer inter- Ax, = 6,00cm; v 
+valo de 0,15 us. 
+2. Utilizar esta velocidad final como velocidad constante para determinar Ax, = [6cm 
+el desplazamiento mientras se mueve uniformemente. 
+2 TOA) 
+) = 27,8 m/s 
+_ 02-(100 km/h)? _ (27,8 m/s)? _ 
+15s —514 m/s? =+-500 m/s? 
+jINTENTELO USTED MISMO! 
+= 8.00 > 107 m/s 
+31
+
+32 | Capítulo 2 El movimiento en una dimensión 
+3. Utilizar esta misma velocidad como valor inicial y la ecuación 2.17 Ax, = 1.20 cm 
+con v= 0 para determinar el desplazamiento del tercer intervalo, en el 
+cual el electrón termina en reposo. 
+4, Sumar los desplazamientos obtenidos en los pasos 1, 2 y 3 para calcu- Ax = Ax, +Ax,+Ax, 
+lar el recorrido total. 6,00 cm + 16 cm + 1.20 cm =[23,2 cm] 
+Observación En un aparato de rayos X los electrones son acelerados desde un alambre caliente 
+hacia un blanco metálico. Al chocar contre éste, se paran bruscamente. Como consecuencia, el 
+blanco emite rayos X característicos del metal. 
+(Izquierda) Acelerador lineal de unos 
+tres kilómetros de longitud de la 
+Universidad de Stanford (EE.UU.). 
+Se utiliza para acelerar electrones y 
+positrones en línea recta a velocida- 
+des próximas a las de la luz. (Dere- 
+cha) Sección transversal del haz 
+electrones del acelerador, tal como se 
+observa en un monitor de video. 
+EJEMPLO 2.14 | Lanzamiento de prismáticos ¡INTÉNTELO USTED MISMO! 
+Juan trepa a un árbol para presenciar mejor al conferenciante de una ceremonia de gradua- 
+ción que se celebra al aire libre. Desgraciadamente ha olvidado sus prismáticos abajo. María 
+lanza los prismáticos hacia Juan pero su fuerza es mayor que su precisión. Los prismáticos 
+pasan a la altura de la mano extendida de Juan 0,69 s después del lanzamiento y vuelven a 
+pasar por el mismo punto 1,68 s más tarde. ¿A qué altura se encuentra Juan? 
+Planteamiento del problema En este problema hay dos incógnitas: la altura h de Juan y la 
+velocidad inicial de los prismáticos, vg. Sabemos que y = h para t; = 0,69 se y = h para t¿=0,69 s+ 
+1,68 s =2,37 s. Expresando A en función del tiempo f tendremos dos ecuaciones a partir de las cuales 
+se pueden determinar las dos incógnitas. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Utilizando Ay = vot + lar, igualar y para los tiempos ft, y teniendo h = vgl- 58i? Y h=wyt,—<287 
+en cuenta que y = h y a =-g en cada caso. 
+2. Eliminar vp de estas dos ecuaciones y despejar h en función de los = = | ——— |r, —+e7? 
+tiempos 1; y fə. Esto puede hacerse despejando vp en la primera ecua- 
+ción y sustituyendo el resultado en la segunda ecuación, por lo tanto 
+h =| 8.02 m 
+Observación Tenemos dos incógnitas h y vp, pero disponemos de dos tiempos, lo cual nos per- 
+mite escribir dos ecuaciones y resolver las dos incógnitas. 
+Ejercicio Determinar la velocidad inicial de los prismáticos y la velocidad que llevan cuando pasan a 
+la altura de Juan en su trayectoria descendente. (Respuesta vo = 15,0 m/s y vz =-8,24 m/s.)
+
+2.3 Movimiento con aceleracién constante | 33 
+Problemas con dos objetos 
+À continuación exponemos algunos problemas que incluyen dos objetos que se mueven con 
+aceleración constante. 
+Vehículo infractor 
+* Vehículo de policía 
+EJEMPLO 2.15 | Ala caza de un coche con exceso de velocidad xe St 
+Un coche lleva una velocidad de 25 m/s (= 90 km/h) en una zona escolar. Un coche de policía 
+que está parado, arranca cuando el infractor le adelanta y acelera con una velocidad cons- 
+tante de 5 m/s?. (a) ¿Cuánto tiempo tarda el coche de policía en alcanzar al vehículo infrac- 
+tor? (b) ¿Qué velocidad lleva el coche de policía cuando le alcanza? 
+Planteamiento del problema Para determinar cuando los dos coches se encuentran en la 
+misma posición, expresamos las posiciones x, del vehículo infractor y x, del coche de policía en fun- Figura 2.13 Las dos curvas muestran la posi- 
+ción del tiempo y despejamos 1 para x, = x. ción del coche infractor y del coche de policía. 
+Tienen la misma posición en el instante inicial, 
+t=0, y de nuevo cuando t = te. 
+(a) 1. Funciones de posición del infractor y del coche policía: Xy =Vl y x= sagt? 
+2. Hacer x, =x, y resolver para el tiempo 7,, para t, > 0: Vit. = japi? >v% = 5Apt. t, #0 
+2v, _ 2(25 mis) t, = — = == = 10s 
+Soh E 5 m/s? = 
+(b) 1. La velocidad del coche de policía viene expresada por v = vọ + at, Vv, = apf, = (5 m/s?)(10 s) =[50 m/s] 
+en donde vg = 0: 
+Observación La velocidad final del coche de policía en (b) es exactamente el doble que la del coche 
+infractor. Como los dos coches cubren la misma distancia en igual tiempo, ambos hicieron el recorrido 
+con igual velocidad media. La velocidad media del infractor es, naturalmente de 25 m/s. Como el policía 
+parte del reposo y su velocidad media es de 25 m/s, debe alcanzar una velocidad final de 50 m/s. 
+Ejercicio ¿Qué distancia han recorrido los coches cuando el policía alcanza al infractor? 
+(Respuesta 250 m.) 
+EJEMPLO 2.16 | Elcoche de policía ¡INTÉNTELO USTED MISMO! 
+¿Qué velocidad lleva el coche de policía del ejemplo 2.15 cuando se encuentra a 25 m por E 
+detrás del vehículo infractor? Vehiculo infractor 
+= Vehículo de policía Planteamiento del problema La velocidad viene expresada por v, = at), en donde 1, es el 
+tiempo en el cual D = xy —x, = 25 m. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Dibujar una curva x-t que muestre las posiciones de los dos coches en 
+el tiempo f, (figura 2.14). 
+2. Utilizar las ecuaciones para x, y x, del ejemplo 2.15 y despejar f, cuando =f, = (5s + J15) s 
+Xy — Xp = 25 m. Hay dos soluciones, una que corresponde a pocos instan- Figura 2.14 
+tes después del inicio del movimiento y otra que corresponde a poco > 
+antes de que el vehiculo con exceso de velocidad sea alcanzado. 
+3. Utilizar v, = ap! para calcular la velocidad del coche de policía cuando —v,, =[5,64 m/s ] y 
+t=ħ. 
+Observación En la figura 2.14 se observa que la distancia entre los dos coches al principio es 
+cero, crece hasta un valor máximo y luego disminuye. La separación en cualquier momento es 
+D = x,-x =V,t— 34,2. Cuando la separación es máxima, dD/dt = 0, lo cual ocurre en el instante 
+1=5 s. Para intervalos de tiempo iguales antes y después de ¢ = 5 s, las separaciones son las mismas.
+
+34 | Capítulo 2 El movimiento en una dimensión 
+EJEMPLO 2.17 | Un ascensor en movimiento 
+Una persona en un ascensor ve un tornillo que cae del techo. La altura del ascensor es de 3 m. 
+¿Cuánto tiempo tarda el tornillo en chocar contra el suelo si el ascensor asciende con una ace- 
+leración constante a, = 4,0 m/s?? 
+Planteamiento del problema Expresar las posiciones del tornillo y, y del suelo y, en función 
+del tiempo. Cuando el tornillo choca contra el suelo, y, = y,- Tomar como origen la posición inicial 
+del suelo y designar como dirección positiva la dirección hacia arriba. 
+1. Dibujar el ascensor y el tornillo como se muestra en la figura 2.15. 
+Añadir un eje de coordenadas que nos sirva para indicar las posiciones 
+del tornillo y del suelo del ascensor: 
+2. Escribir las funciones de la posición del ascensor y del tornillo: Ye Yos = Vost + Za? 
+ety lir H Vo= VEF zar 
+3. Cuando t = f;, el tornillo llega al suelo. En ese instante las posiciones y= Ys 
+son: ites Ya + Vorti +3 ti = 
+4. Cuando r=0, el suelo del ascensor y el tornillo tienen la misma veloci- 
+dad. Usar este hecho para simplificar el resultado del paso 3: 
+Vos = Vor 
+por lo tanto 
+> l = Yor + Vorti + zati T 
+1 1 
+Yor* zati = Yos + sasti 
+Figura 2.15 Eleje de coordenadas 
+está fijo al edificio. 
+1 9 
+Jos + Vosti + ¿ati 
+Yos + Vosti + las? 
+5. Usar la información obtenida para simplificar: Yos = 0, a, = 4,0 m/s? 
+You =h = 3m, a, =-g 
+por lo tanto 
+h-3 = 0+3a,1? 
+eS z(e +a t? 
+2h fi = gta, = 
+5] Observación El tiempo de caída depende de la aceleración del ascensor, pero no de la velocidad. 
+En el sistema de referencia del ascensor hay una “gravedad efectiva” g’ = g +a.. En el caso (supues- 
+tamente hipotético) en que el ascensor estuviera en caída libre, es decir a, = —g’, el tiempo de caída 
+sería infinito y el tornillo parecería “ingrávido”. 
+6. Despejar el tiempo: 
+tancia entre las bases es de 26 m y el lanzador está a unos 18,5 m de la base. Si un jugador 
+está a unos 2 m de la primera base y comienza a correr hacia la segunda base en el mismo 
+instante en que el lanzador lanza la bola, ¿cuál es la probabilidad de que el jugador llegue a la 
+segunda base antes que la bola? 
+"A Cuando un buen jugador de béisbol corre entre bases va a una velocidad de 9,5 m/s. La dis- 
+EJEMPLO 2.18 | Un ascensor en movimiento 
+Considerar el ascensor y el tornillo del ejemplo 2.17. Suponer que la velocidad de subida del 
+ascensor es de 16 m/s cuando el tornillo se desprende del techo y empieza a caer. (a) ¿Qué dis- 
+tancia recorre el ascensor mientras el tornillo cae? ¿Qué distancia recorre el tornillo? (b)¿ Cuál 
+es la velocidad del tornillo y del ascensor en el momento del impacto de aquél en el suelo? 
+(c) ¿Cuál es la yelocidad relativa del tornillo con respecto al suelo del ascensor? 
+| 2(3 m) 
+9,81 m/s? + 4,0 m/s? 
+jINTENTELO USTED MISMO!
+
+_ Planteamiento del problema El tiempo de vuelo del tornillo se ha obtenido en la solución del 
+_ ejemplo 2.17. Usar este tiempo para resolver los apartados (a) y (b). Por lo que se refiere al apartado 
+(c), la velocidad del tornillo respecto del edificio es igual a la suma de la velocidad del tornillo con 
+respecto al ascensor más la velocidad del ascensor respecto al edificio. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+(a) 1. Usar la ecuación 2.16 para calcular la distancia que se mueve el Ay, = Vof; + lut? = 
+suelo del ascensor durante el tiempo 1. ` 
+2. El tornillo se desprende a tres metros del suelo. Ay, =[8,42 m] 
+(b) Usar la ecuación 2.12 para encontrar la velocidad del impacto del tor- y = Vo+at, por lo tanto 
+nillo con el suelo del ascensor. v= Vio Bt 9.53 mis 
+Y, = Vo tah 18.6 m/s 
+(c) Usar la ecuación 2.7a para determinar la velocidad relativa del tornillo Vie = Viu + Vu 
+respecto del ascensor. por lo tanto 
+= Ve- "e = 9,53 m/s — 18,6 m/s 
+Eu] 
+Observación El tornillo impacta con el suelo del ascensor 8,4 m por encima de su posición ini- 
+cial. Con respecto al edificio, en el momento del contacto, el tornillo todavía está subiendo. Nótese 
+que en el momento del impacto la velocidad del tornillo relativa al edificio es positiva. 
+, tis 
+2.4 Integración 
+Para determinar la velocidad a partir de una determinada aceleración, observemos que la 
+velocidad es la función v(t) cuya derivada es la aceleración a(t): 
+dv(t DW = a(t) dt 
+Si la aceleración es constante, la velocidad es aquella función del tiempo que cuando se 
+deriva es igual a esta constante. Por ejemplo 
+v= at, a = constante 
+De un modo más general, podemos añadir a la función af cualquier constante sin que se 
+modifique la derivada respecto al tiempo. Llamando c a esta nueva constante, resulta 
+v=at+c 
+Cuando r= 0, v = c. Así pues. c es la velocidad inicial vp. 
+Análogamente, la función posición x(t) es aquella función cuya derivada es la velocidad: 
+Cada uno de estos términos puede tratarse separadamente. La función cuya derivada es 
+una constante vo es pf más cualquier constante. La función cuya derivada es at es lar? más 
+cualquier constante. Llamando xp a la suma combinada de todas estas constantes arbitrarias 
+resulta 
+x = Xq + vot + lar? 
+Cuando f = 0, x = xy. Así pues, xy es la posición inicial. 
+2.4 Integración | 35
+
+36 | Capítulo 2 El movimiento en una dimensión 
+v(t) 
+v(t) = vg = constante 
+ti ha 
+p— At = 1911 — 
+Área sombreada = vo Af = Ax 
+Figura 2.16 El desplazamiento Ax durante el in- 
+tervalo de tiempo Ar es igual al área bajo la curva de 
+v en función de ¢, Para v(t) = vp = constante, el des- 
+plazamiento es igual al área del rectángulo som- 
+breado. 
+Figura 2.17 Gráfico de una curva general de v(t) 
+en función de 1. El desplazamiento total desde +, 
+hasta 1, es el área bajo la curva en este intervalo, que 
+puede obtenerse aproximadamente sumando las 
+áreas de los rectángulos. 
+Siempre que se obtiene una función a partir de su derivada, debe añadirse una constante 
+arbitraria en la función general. Como para obtener x(t) a partir de la aceleración debemos 
+integrar dos veces, aparecen dos constantes. Normalmente estas constantes se determinan a 
+partir de la velocidad y la posición iniciales en un instante determinado. Generalmente se 
+elige el instante en que t = 0. Es por esto que estas constantes reciben el nombre de condicio- 
+nes iniciales. Un problema común llamado problema del valor inicial toma la forma: 
+“dado a(t) y los valores iniciales de x y de v determinar x(t)”. Este problema es particular- 
+mente importante en física porque la aceleración de una partícula está determinada por las 
+fuerzas que actúan sobre ella. Así pues, si conocemos las fuerzas que actúan sobre una partí- 
+cula y su posición y velocidad en un instante determinado, podemos hallar unfyocamente su 
+posición en cualquier otro instante. 
+Una función F(t) cuya derivada (respecto a 1) es igual a la función f(t) se denomina anti- 
+derivada de ft). El problema de la antiderivada está relacionado con el de la obtención del 
+área bajo una curva. Consideremos el caso del movimiento con velocidad constante vo. El 
+cambio de posición Ax durante un intervalo Ar es 
+Ax = Vp At 
+Esta es el área bajo la curva de v en función de ¢ (figura 2.16). Si vp es negativa, tanto el des- 
+plazamiento como el área bajo la curva son negativos. Normalmente pensamos en el área 
+como una magnitud que no puede ser negativa, pero en este contexto no es así. En este caso 
+el “área bajo la curva” (el área entre la curva y el eje temporal) es una magnitud negativa. 
+La interpretación geométrica del desplazamiento como el área bajo la curva de v en fun- 
+ción de t es válida no sólo para la velocidad constante, sino también en general, como se 
+ilustra en la figura 2.17. En este caso, el área bajo la curva puede aproximarse dividiendo el 
+intervalo de tiempo en cierto número de pequeños intervalos Af,, Ah, etc., y trazando una 
+serie de áreas rectangulares. El área del rectángulo correspondiente al intervalo de tiempo At, 
+es v¡At,, el cual es aproximadamente igual al desplazamiento Ax; durante el intervalo Ar,, La 
+suma de las áreas de los rectángulos es, por lo tanto, la suma de los desplazamientos realiza- 
+dos durante los intervalos de tiempo correspondientes y es aproximadamente igual al despla- 
+zamiento total desde el instante f, al t. Matemáticamente, escribiremos esto en la forma 
+Ax= Sas, 
+i 
+en donde la letra 2 (sigma mayúscula) representa una “suma”. Podemos hacer la aproxima- 
+ción tan exacta como queramos escogiendo suficientes rectángulos bajo la curva, cada uno 
+de los cuales corresponde a un valor pequeño de Ar. En el límite correspondiente a intervalos 
+de tiempo cada vez más pequeños, esta suma es igual al área comprendida bajo la curva, que 
+equivale, por lo tanto, al desplazamiento. Este límite se denomina integral y se escribe del 
+modo siguiente. 
+Ax = x(1)-x(0) = lim, (> An) = fi vat (2.18) 
+í 
+Es útil imaginar que el signo integral Í es una S alargada que indica una suma. Los límites f, 
+y t> indican los valores inicial y final de la variable r. El desplazamiento es, por lo tanto, el 
+área bajo la curva de v en función de t. La figura 2.18 demuestra que la velocidad media 
+tiene una interpretación geométrica simple en función del área bajo la curva. 
+Para ilustrar que el desplazamiento iguala el área bajo una curva v-t, consideremos lo que 
+ocurre cuando se lanza una pelota de golf directamente hacia arriba. La pelota sube aproxi- 
+madamente un metro, invierte su sentido de movimiento, y cae de nuevo acelerando hasta 
+que la volvemos a coger con la mano. Si se supone que la resistencia del aire es despreciable, 
+la velocidad de la pelota viene dada por v = vg + at (ecuación 2.12), donde la dirección hacia 
+arriba se considera positiva y a = —g. La figura 2.19 representa esta velocidad durante el 
+tiempo de vuelo de la pelota. Inicialmente la velocidad de la pelota es positiva, a medio 
+camino vale cero, y justo antes de cogerla vale —v¿. Durante su ascenso, el área bajo la curva 
+_es positiva, mientras que durante el descenso es negativa. Así, el área total bajo la curva
+
+durante el vuelo es cero. Dado que la pelota se lanza desde el mismo sitio donde finalmente 
+es recogida, el cambio de posición es cero. Por consiguiente, el desplazamiento y el área 
+bajo la curva v-f son iguales porque ambos son cero. 
+El proceso de calcular una integral se llama integración. En la ecuación 2.18, v es la 
+derivada de x y x es la antiderivada de v. Este es un ejemplo del teorema fundamental de cál- 
+culo, cuya formulación durante el siglo XVII aceleró el desarrollo matemático de la física: 
+dE(t) a (2.19) Si f(t) = , entonces F(t) — F(t,) = f f(t) dt 
+TEOREMA FUNDAMENTAL DEL CALCULO 
+La antiderivada de una función se denomina también integral indefinida de la función y se 
+escribe sin límites sobre el signo integral: 
+x= [vd 
+La operación de determinar x a partir de la derivada v (es decir, determinar la antiderivada) 
+se llama también integración. Por ejemplo, si v = vg (una constante) entonces, 
+x= Í Vo dt = vot + Xo 
+donde xo es la constante arbitraria de integración. A partir de la ecuación 2.6 que expresa la 
+regla general para la derivada de una potencia, podemos determinar una regla general para la 
+integración de una potencia de r. El resultado es 
+perl 
+oat (2.20) +C, n#-1 [mar = 
+en donde C es una constante arbitraria. Puede comprobarse facilmente derivando el segundo 
+miembro mediante la regla de la ecuación 2.6. (Para el caso especial n =-1, ft”! dt =1n t +C, 
+en donde In f es el logaritmo natural de £.) 
+El cambio de velocidad durante cierto intervalo de tiempo puede interpretarse análoga- 
+mente como el área bajo la curva a en función de r en dicho intervalo. Así se escribe 
+¿A a, An) = E a dt 
+t 
+Av = lim (2.21) 
+Ata 
+Así pueden deducirse las ecuaciones de la aceleración constante calculando las integrales 
+indefinidas de la aceleración y la velocidad. Si a es constante, tenemos 
+v= [adr = afdt = vy+ar (2.22) 
+en donde hemos escrito en primer lugar la constante de integración vp. Integrando de nuevo y 
+llamando xp a la constante de integración resulta 
+x= fo+ar) dt = xo + vt +3 at? (2.23) 
+Es instructivo deducir las ecuaciones 2.22 y 2.23 usando integrales definidas en vez de 
+integrales indefinidas. Si la aceleración es constante, la ecuación 2.21, con 1, = 0, nos da 
+v(t2)-v(0) = af a = a(t,—0) 
+4 
+donde el tiempo f es arbitrario. Como es arbitrario, se puede poner t, = t y se obtiene 
+v = vy+at 
+2.4 Integración | 37 
+A AA 
+A E PA 
+Figura 2.18 El desplazamiento Ax durante el in- 
+tervalo de tiempo Aż = 1,—1, es igual al área de la 
+región sombreada. Según la definición de velocidad 
+media Ax = v,, Ar. Esta es justamente el área del rec- 
+tángulo de altura v,, y base Ar. Así pues, el área rec- 
+tangular v,, Ar y el área bajo la curva ven función de 
+t deben ser iguales. 
+v =Vq tat 
+Area 
+positiva 
+vo 
+Figura 2.19 Curva ven función de r para una pe- 
+lota de golf que se lanza directamente hacia arriba. 
+El área bajo la curva es positiva en la parte que co- 
+rresponde al ascenso, y negativa en la del descenso. 
+El área bajo la curva correspondiente a todo el vuelo 
+es cero,
+
+38 | Capítulo 2 El movimiento en una dimensión 
+vír) v=vg+at 
+vit) 
+v(0) 
+0 AE 
+Figura 2.20 El área bajo la curva v-f es el despla- 
+zamiento Ax = x(t,) — x(0). 
+vavta 
+Figura 2.21 
+EJEMPLO 2.19 | Un transbordador 
+Un transbordador lleva una velocidad constante vg = 8 m/s durante 60 s. A continuación para 
+sus motores y se acerca a la costa. Su velocidad es entonces una función del tiempo dada por la 
+expresión v = vof7/t?, siendo f, = 60 s. ¿Cuál es el desplazamiento del transbordador en el inter- 
+valo 0 <t < œ? 
+Planteamiento del problema La función velocidad viene representada por la figura 2.20. El 
+desplazamiento total se calcula sumando el desplazamiento Ax; correspondiente al intervalo 0 < 7 < 
+t, = 60 s y el desplazamiento durante el intervalo 1, <4 < ee. 
+donde v = v(t) y vg = v(0). Para obtener la ecuación 2.23, se sustituye vp + at por v en la ecua- 
+ción 2.18 con t; = 0. Esto nos lleva a 
+x(t,)-x(0) = fo, + at)dt 0 
+Esta integral es igual al área bajo la curva v-f (figura 2.20). Evaluando la integral y resol- 
+viendo para x nos da 
+2 Á tz 
+x(t,)-x(0) = f (vo+at)dt = vt +i at? o = Vota +1 at 0 k si 
+donde f, es arbitrario. Poniendo t, = £ obtenemos 
+x= Xo+ vot +4 ar? 
+donde x= x(t) y xq = x(0). 
+Una vez deducidas las ecuaciones cinemáticas de aceleración constante sin ninguna refe- 
+rencia a la velocidad media, podemos demostrar que para el caso especial de aceleración 
+constante, la velocidad media es el valor medio entre las velocidades inicial y final (ecuación 
+2.14). Sea vp la velocidad inicial en 1=0 y v la velocidad final en el tiempo ż. De acuerdo con 
+la definición de velocidad media, el desplazamiento es 
+At = (2.24) Ax = Va Vn (10) = Vnt 
+Igualmente, de la ecuación 2.23 resulta 
+ae l 42 Ax =vol +5 at 
+Podemos eliminar la aceleración según la ecuación 2.12 utilizando a = (v — v,)/t. Es decir 
+Vot +5 vr Vol = +(v + vp)! (2.25) 
+Comparando este resultado con Ax = v,,f (ecuación 2.24) resulta 
+i z(Vo + vp) 
+que coincide con la ecuación 2.14. 
+Puede visualizarse la velocidad media mediante el uso de la curva v-t (figura 2.21). El 
+desplazamiento Ax corresponde al área bajo la curva. Sin embargo, la velocidad media es el 
+área bajo la curva v = v,, por el mismo intervalo de tiempo. Así, la altura de la curva v = vm 
+es tal que las áreas bajo las dos curvas coinciden. Esto implica que las áreas de los dos trián- 
+gulos grises sean iguales y que vp = 1 (v, + v2).
+
+2.4 Integración | 39 
+wants tenet nnn 
+60 120 180 240 300 1s Figura 2.22 
+1. La velocidad del transbordador es constante durante los primeros 60 Ax, = v¿At = vot; = (8 m/s)(60s) = 480m 
+segundos; asi, el desplazamiento es simplemente el producto de la 
+velocidad por el tiempo transcurrido: 
+2. El desplazamiento restante viene dado por la integral de la velocidad Ax 
+desde 1 = 1, hasta t = ee, Utilizamos la ecuación 2.18 para calcular la 
+integral: 
+"oe Volt 3 > 2 fol rei 
+i vdt= f mE a= Volt B t? dt = Voli En 
+1 
+tl) = Ypf, = (8 m/s)(60s) = 480m 
+3. El desplazamiento total es la suma de los dos desplazamientos anterio- Ax = Ax, + Ax, = 480 m + 480 m =[960 m] 
+res: 
+Observación El área bajo la curva de v en función del tiempo es finita. Así, aunque el transborda- 
+dor nunca deja de moverse, viaja sólo una distancia finita. Una representación mejor de la velocidad de 
+un buque que bordea la costa con los motores parados sería una función exponencialmente decreciente 
+v = e ?=11), donde b es una constante positiva. En este caso el buque se acercaría a la costa también 
+una distancia finita en el intervalo 60 s < t £ œ. 
+Resumen 
+TEMA 
+El desplazamiento, la velocidad y la aceleración son magnitudes cinemáticas definidas importantes, 
+OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Desplazamiento 
+Interpretación gráfica 
+Ax = Xx,- X; (2.1) 
+El desplazamiento es el área bajo la curva v en función de £. 
+2. Velocidad 
+Velocidad media 
+Velocidad instantánea 
+Interpretación gráfica 
+Velocidad relativa 
+, = MA Ya == (2.2) 
+== Ax . dx 
+(r) = lim, ar (2.5) 
+La velocidad instantánea se representa gráficamente por la pendiente de la curva x en función de t. 
+Si una partícula se mueve con velocidad v,4 respecto a un sistema de coordenadas A, el cual a su vez se mueve 
+con velocidad v,y respecto a otro sistema de coordenadas B, la velocidad de la partícula relaffva a B es 
+Von = Vina + Van (2.7) 
+3. Módulo de la velocidad 
+Módulo de la velocidad media Méduloide la velocidad media = distancia total __s (2.3) tiempo total t
+
+40 | Capítulo 2 El movimiento en una dimensión 
+4. Aceleración 
+Aceleración media 
+Aceleración instantánea 
+Interpretación gráfica 
+Aceleración debida a la gravedad 
+_ Av 
+Am = At (2.8) 
+e oa ae (210) 
+La aceleración instantánea se representa gráficamente por la pendiente de la curva v en función del tiempo 1. 
+La aceleración de un objeto próximo a la superficie de la Tierra en caída libre bajo la influencia de la grave- 
+dad está dirigida hacia abajo y su módulo es 
+g = 9,81 m/s? = 32,2 pies/s? 
+5. El desplazamiento y la velocidad como 
+integrales 
+Velocidad 
+Desplazamiento en función de vm 
+Desplazamiento en función de a 
+ven función de a y Ax 
+Problemas 
+® Concepto simple, un solo paso, relativamente fácil. 
+ee Nivel intermedio, puede exigir síntesis de conceptos. 
+eee  Desafiante, para alumnos avanzados. 
+ssM La solución se encuentra en el Student Solutions Manual. 
+El desplazamiento se representa gráficamente por el área bajo la curva v en función del tiempo. Esta área es 
+la integral de v extendida al tiempo, desde cierto valor inicial 1, a cierto valor final 1, y se expresa del modo 
+siguiente: 
+Ax = lim, z v At, = fi vdt (2.18) 
+Igualmente, el cambio de velocidad durante cierto tiempo se representa gráficamente por el área bajo la 
+curva a en función de r: 
+Av = lim, 2 a, At, = f a dt (2.21) 
+Vv = 1+at (2.12) 
+Ax = X-X% = Val = (o+ v) (2.15) 
+Ax =x- X= vot + lar (2.16) 
+v = vi+2a Ax (2.17) 
+En algunos problemas se dan 
+más datos de los realmente 
+necesarios; en otros pocos, deben 
+extraerse algunos datos a partir 
+l Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. de conocimientos generales, 
+i Y Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan a los fuentes externas o estimaciones 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. lógicas. 
+Usar en todos los problemas g = 9,81 m/s? para la aceleración de la gravedad y despreciar, a menos que se indique lo 
+contrario, el rozamiento y la resistencia del aire. 
+Problemas conceptuales 
+1 @ ¿Cuáles la velocidad media del recorrido de “ida y vuelta” de un 
+objeto que se lanza verticalmente hacia arriba y que vuelve a caer en el mismo 
+sitio desde donde ha sido lanzado? 
+3 e I Para evitar una caída demasiado rápida durante el.ate- 
+rrizaje, un avión debe mantener una mínima velocidad relativa de vuelo (velo- 
+cidad del avión respecto al aire). Sin embargo, cuanto menor sea la velocidad 
+con respecto del suelo durante el aterrizaje, más segura es la maniobra. ¿Qué 
+opción es más segura para un avión, aterrizar a favor del viento o con el viento 
+en contra? 
+2 e SSM Un objeto lanzado verticalmente hacia arriba vuelve al 
+suelo T segundos más tarde. Su altura máxima es H metros y su altura en el 
+momento de soltarlo es despreciable, Su velocidad media durante estos T 
+segundos es (a) H/T, (b) 0, (c) HAT, (d) 2H7T. 
+4 e Dé un ejemplo de un movimiento en una dimensión donde (a) la 
+velocidad sea positiva y la aceleración sea negativa y, (b) donde la velocidad 
+sea negativa y la aceleración sea positiva.
+
+5 e SSM Póngase en el centro de una habitación espaciosa. Consi- 
+dere que el movimiento hacia su derecha es positivo y el movimiento hacia su 
+izquierda, negativo, Muévase por la habitación en línea recta de modo que su 
+velocidad sea negativa pero su aceleración sea positiva. (a) ¿Su desplazamiento 
+inicial es positivo o negativo? Explíquelo. (b) Describa cómo varia su velocidad 
+a medida que se mueve. (c) Confeccione un esquema del movimiento en un 
+gráfico v-r. 
+6 e Verdadero o falso; explíquelo: el desplazamiento siempre es igual 
+al producto de la velocidad media por el tiempo. 
+7 e Verdadero o falso; explíquelo: 
+(a) para que la velocidad sea constante, la aceleración debe ser cero. 
+(b) para que el módulo de la velocidad sea constante, la aceleración debe ser 
+cero. 
+8 oe sm Dibuje cuidadosamente los gráficos que representan la 
+posición, la velocidad y la aceleración en un periodo de tiempo 0 < ¢ < 25 para 
+un automóvil que 
+(a) durante los primeros 5 s se aleja despacio y regularmente (a velocidad 
+constante) del origen: 
+(b) se aleja a mayor velocidad y regularmente (a velocidad constante) durante 
+los 5 s siguientes: 
+(c) se queda quieto durante los 5 s que siguen; 
+(d) se mueve de nuevo hacia el origen, despacio y regularmente (a velocidad 
+constante), durante los 5 s siguientes; 
+(e) se queda quieto durante los últimos 5 s. 
+9 e Verdadero o falso; explíquelo: la velocidad media siempre se cal- 
+cula como la semisuma de las velocidades final e inicial. 
+10 e Dos hermanos gemelos idénticos lanzan simultáneamente dos 
+piedras al agua desde un puente horizontal. Una piedra llega al agua antes que 
+la otra. ¿Puede darse esta situación? 
+11 es SSM El Dr. Josiah S. Carberry está en lo alto de la torre Sears 
+en Chicago, Con el objetivo de emular a Galileo e ignorando la seguridad de los 
+peatones que se mueven en la zona cercana a la base del edificio, suelta una bola 
+desde lo más alto del edificio. Un segundo más tarde suelta una segunda 
+bola. Mientras las bolas están en el aire, su separación (a) ¿aumenta con el 
+tiempo, (b) disminuye, o (c) se mantiene constante? Ignórense los efectos de la 
+resistencia del aire. 
+12 es ¿Cuál de las curvas posición-tiempo de la figura 2.23 describe 
+mejor el movimiento de un objeto sometido a una aceleración constante y 
+positiva? 
+Posición, m 
+d Tiempo, s 
+Figura 2.23 Problema 12 
+13 © SSM ¿Cuál de las curvas velocidad-tiempo de la figura 2.24 
+describe mejor el movimiento de un objeto sometido a una aceleración cons- 
+tante y positiva? > 
+Problemas 41 
+(b) 
+m (a) 
+E 
+q 
+3 3 (e) 
+v 
+z (d) 
+Tiempo, s 
+Figura 2.24 Problema 13 
+14 e ¿Tiene sentido la siguiente afirmación? “La velocidad media del 
+coche a las 9 de la mañana fue 60 km/h”. 
+15 e SSM  ¿Esposible que la velocidad media de un objeto sea cero 
+durante algún intervalo aunque su velocidad media en la primera mitad del 
+intervalo no sea cero? Razonar la respuesta. 
+16 e El diagrama de la figura 2.25 representa la trayectoria de un 
+objeto que se mueve en línea recta a lo largo del eje x. Suponiendo que el objeto 
+se encuentra en el origen (x, = 0) en t, = 0, ¿qué punto de la figura representa el 
+instante de tiempo en que el objeto está más lejos de su punto de partida? (a) A 
+(b) B (c) C (d) D (e) E 
+Posición 
+Figura 2.25 Problema 16 
+7 o i Si la velocidad instantánea no se modifica, ¿variarán 
+las velocidades medias en diferentes intervalos? 
+18 e Si y, = 0 para cierto intervalo de tiempo At, ¿debe ser cero la 
+velocidad instantánea en algún punto de este intervalo? Razonar la respuesta 
+mediante un esquema que presente una curva de x en función de ¢ con un Ax = 
+0 en algún intervalo Ar. 
+19 es Unobjeto se mueve a lo largo del eje x como indica la figura 2.26. 
+¿En qué punto o puntos el módulo de la velocidad pasa por un mínimo? (a) A y 
+E. (b) B, D y E. (c) Sólo C. (d) Sólo E. (e) Ninguna de estas respuestas es 
+correcta. 
+Posición 
+Figura 2.26 Problema 19 
+20 ee ssm ft En cada uno de los cuatro gráficos de x en 
+función de ż de la figura 2.27 indicar 
+(a) si la velocidad en el instante 1, es mayor, menor o igual que la velocidad en 
+el instante 1, y 
+(b) si el módulo de la velocidad en el tiempo r, es mayor, menor o igual que en 
+el tiempo t,-
+
+42 | Capítulo 2 El movimiento en una dimensión 
+(c) (d) 
+Figura 2.27 Problema 20 
+21 e Verdadero o falso: 
+(a) Si la aceleración es cero, la partícula no puede estar moviéndose. 
+(b) Si la aceleración es cero, la curva x en función de ¢ es una línea recta. 
+22 e ¿Es posible que un objeto tenga simultáneamente aceleración no 
+nula y velocidad cero? 
+23 e l Se lanza una pelota hacia arriba verticalmente. ¿Cuál 
+es su velocidad en el punto más alto de su movimiento? ¿Cuál es la aceleración 
+en ese punto? 
+24 e Calcular el módulo de la velocidad media en función de la veloci- 
+dad inicial vg del movimiento de ida y vuelta de un objeto que, desde el suelo, 
+se lanza hacia arriba, alcanza una altura H y cae en el mismo sitio de donde 
+había salido T segundos más tarde. 
+25 e Una pelota se lanza hacia arriba. Mientras está en el aire, su acele- 
+ración es (a) decreciente, (b) constante. (c) cero, (d) creciente. 
+26 e Enelinstante r=0, un objeto A se deja caer desde el tejado de una 
+casa. En el mismo instante, otro objeto B se deja caer desde una ventana a 10 m 
+por debajo del tejado. Durante su descenso al suelo la distancia entre los dos 
+objetos (a) es proporcional a r. (b) es proporcional a 7, (c) decrece, (d) perma- 
+nece igual a 10 m constantemente, 
+27 0. SSM Un automóvil Porsche acelera uniformemente de 80,5 km/h 
+en el instante ¢ = 0 hasta 113 km/h en r = 9 s. ¿Qué gráfico de la figura 2.28 
+representa mejor el movimiento del coche? 
+e ltd (a) (b) (c) (d) (e) 
+Figura 2.28 Problema 27 
+28 @@ ssm Un objeto cae, partiendo del reposo, y recorre una dis- 
+tancia D en un tiempo determinado. Si el tiempo de la caída se dobla, la distan- 
+cia recorrida será: (a) 4D, (b) 2D, (c) D. (d) DA, (e) D/4. 
+29 es Una pelota se lanza hacia arriba con una velocidad inicial vo. 
+A medio camino del punto más alto de su recorrido la velocidad es (a) 0,25wp. 
+(b) 0,5vo, (c) 0,707vp, (d) vo, (e) a partir de la información disponible no se 
+puede determinar. 
+30 e Verdadero o falso: 
+(a) La ecuación Ax = vot + jaf? es válida para todo movimiento de particu- 
+las en una dimensión. 
+(b) Si la velocidad en un instante determinado es cero, la aceleración en dicho 
+instante también debe ser cero. 
+(c) La ecuación Ax = v,, Ares válida para todo movimiento en una dimensión. 
+31 e SSM Si un objeto se mueve con aceleración constante sobre 
+una línea recta, su velocidad instantánea a la mitad de la distancia recorrida en 
+cualquier intervalo de tiempo es (a) mayor que su velocidad media; (b) menor 
+que su velocidad media; (c) igual que su velocidad media; (d) la mitad de su 
+velocidad media; (e) dos veces su velocidad media. 
+32 ese En un grafico el eje vertical representa la posición y el eje hori- 
+zontal, el tiempo. En este gráfico una línea recta de pendiente negativa repre- 
+senta (a) una aceleración constante positiva; (b) una aceleración constante 
+negativa: (c) una velocidad nula: (d) una velocidad constante positiva; (e) una 
+velocidad constante negativa. 
+33 ese Enun gráfico, el eje vertical representa la posición y el eje hori- 
+zontal, el tiempo. En este gráfico una parábola que se abre hacia arriba repre- 
+senta (a) una aceleración positiva: (b) una aceleración negativa; (c) que no hay 
+aceleración; (d) una aceleración positiva seguida de otra negativa; (e) una ace- 
+leración negativa seguida de otra positiva. 
+34 es En un gráfico, el eje vertical representa la velocidad y el eje hori- 
+zontal, el tiempo. Una aceleración constante nula se representa por (a) una 
+línea recta de pendiente positiva; (b) una línea recta de pendiente negativa; 
+(c) una línea recta de pendiente cero; (d) cualquiera de las (a), (b) o (c); (e) nin- 
+guna de las anteriores. 
+35 es Enun gráfico, el eje vertical representa la velocidad y el eje hori- 
+zontal, el tiempo. La aceleración constante viene representada por (a) una línea 
+recta de pendiente positiva: (b) una línea recta de pendiente negativa; (c) una 
+línea recta de pendiente cero; (d) cualquiera de las (a), (b) o (c); (e) ninguna de 
+las anteriores. 
+36 es De los gráficos v en función de r representados en la figura 2.29, 
+¿cuál describe mejor el movimiento de una partícula con velocidad positiva y 
+aceleración negativa? 
+= = 
+(a) (b) (c) 
+v 
++ 
+r 
+(d) (e) 
+Figura 2.29 Problema 36 
+37 oe i Y Delos gráficos v en función de t representados en la 
+figura 2.29, ¿cuál describe mejor el movimiento de una partícula con velodjdad 
+negativa y aceleración negativa? 
+38 ee Un grafico del movimiento de un objeto se representa con la velo- 
+cidad sobre el eje vertical y el tiempo sobre el eje horizontal. El gráfico es una 
+línea recta. ¿Cuál de estas magnitudes puede determinarse a partir de este grá- 
+fico? (a) El desplazamiento a partir del tiempo ¢ = 0 hasta cualquier otro tiempo 
+representado. (b) La velocidad inicial en el tiempo = 0. (c) La aceleración del 
+objeto como función del tiempo. (d) La velocidad media del objeto en cual- 
+quier intervalo de tiempo representado. (e) Todas las anteriores.
+
+39 @@ SSM La figura 2.30 representa la posición de un coche en fun- 
+ción del tiempo. ¿En cuál de los tiempos entre tọ y ñ la velocidad es (a) nega- 
+tiva, (b) positiva, (c) cero ¿En cuál de los tiempos la aceleración es (a) negativa, 
+(b) positiva, (c) cero? 
+Figura 2.30 Problema 39 
+40 es Representar las curvas v en función de f para cada una de las 
+siguientes condiciones: (a) La aceleración es cero y constante, pero la veloci- 
+dad no es nula. (b) La aceleración es constante, pero no cero. (c) La velocidad y 
+la aceleración son ambas positivas. (d) La velocidad y la aceleración son ambas 
+negativas. (e) La velocidad es positiva y la aceleración negativa. (f) La veloci- 
+dad es negativa y la aceleración positiva, (g) La velocidad es momentánea- 
+mente nula, pero la aceleración no lo es. 
+41 es Enla figura 2.31 se representan nueve gráficos de posición, velo- 
+cidad y aceleración para objetos en movimiento lineal. Indicar los gráficos que 
+cumplen las siguientes condiciones: (a) La velocidad es constante. (b) La velo- 
+cidad invierte su dirección. (c) La aceleración es constante. (d) La aceleración 
+no es constante. (e) ¿Qué gráficos de posición, velocidad y aceleración son 
+mutuamente coherentes? 
+x x x 
+t 
+(b) 
+t t 
+(a) (c) 
+(d) (e) 0 
+t 
+(8) (h) 
+Figura 2.31 Problema 41 
+Estimaciones y aproximaciones 
+42 e Mida su propio pulso (número de latidos del corazón por minuto). 
+El pulso típico de un adulto está entre 60 y 80 pulsaciones por minuto. (a) ¿Cuán- 
+tas veces late su corazón durante el tiempo que invierte en conducir un kilóme- 
+Problemas | 43 
+tro a la velocidad de 60 km/h? (b) ¿Si vive 95 años, cuántos latidos realizará su 
+corazón en el curso de toda su vida? 
+43 ee ssm 1 Ocasionalmente tenemos noticia de personas 
+que sobreviven a caídas desde grandes alturas cuando la superficie sobre la que 
+caen es blanda. Durante una escalada por la via norte del Eiger (montaña de los 
+Alpes suizos), una fijación del montañero Carlos Ragone cedió y precipitó al 
+escalador a una caída de 150 m sobre la nieve. Sorprendentemente sufrió única- 
+mente unas pocas magulladuras y un tirón en el hombro. (a) ¿Qué velocidad 
+final tenía antes del choque con la nieve? (Despreciar la resistencia del aire). (b) 
+Suponiendo que su impacto dejó un agujero de 122 cm en la nieve, estimar la 
+aceleración a la que estuvo sometido durante el frenado. (Se supone que la ace- 
+leración fue constante.) Expresarla como múltiplo de g (aceleración de caída 
+libre en la superficie de la Tierra). 
+44 es Cuando se resuelven problemas relacionados con la caída libre en 
+la atmósfera de la Tierra, es importante recordar que siempre se da la resisten- 
+cia del aire. Por lo tanto, si para simplificar, suponemos que los objetos caen 
+con aceleración constante, podemos obtener resultados erróneos en varios órde- 
+nes de magnitud. ¿Qué criterio podemos aplicar para suponer que un objeto cae 
+con aceleración (prácticamente) constante? Cuando un cuerpo cae, partiendo 
+del reposo, a través del aire, a medida que su velocidad aumenta, su aceleración 
+disminuye. La velocidad se aproxima, aunque nunca la alcanza. a la velocidad 
+terminal o velocidad límite, que depende de la masa y del área transversal del 
+objeto. A la velocidad terminal, la fuerza de la gravedad y la fuerza ejercida por 
+la resistencia del aire se igualan. Para un paracaidista, una estimación razonable 
+de la velocidad terminal es de unos 50 m/s. Si el paracaidista lleva la mitad de 
+esta velocidad, su aceleración es ig (a) Tomemos la mitad de la velocidad 
+límite como un límite superior por encima del cual no podemos usar las 
+fórmulas de la aceleración constante para calcular la velocidad y el desplaza- 
+miento. ¿Cuánto debe caer el paracaidista para que podamos utilizar la aproxi- 
+mación de aceleración constante? (a) Repita el análisis para un ratón, que tiene 
+una velocidad terminal de | m/s. 
+45 es El 16 de junio de 1999 Maurice Greene de los Estados Unidos esta- 
+bleció un nuevo récord del mundo en los 100 m lisos con una marca de 9,79 s. 
+Supongamos que aceleró desde el reposo a aceleración constante a y que 
+alcanzó su velocidad máxima en 3,00 s, la cual mantuvo hasta llegar a la meta. 
+¿Cuál fue su aceleración en la prueba del récord? 
+46 es SSM La figura 2.32 muestra la fotografía tomada con tiempos 
+de apertura cortos (1/30s) de un malabarista con dos pelotas de tenis en el aire. 
+La pelota de tenis que está a mayor altura está menos borrosa que la otra. ¿Por 
+qué? ¿Puede estimarse la velocidad de esta última pelota? 
+Figura 2.32 Problema 46
+
+44 | Capítulo 2 El movimiento en una dimensión 
+47 ee Busqueen la velocidad a la que un impulso nervioso recorre nues- 
+tro cuerpo. Estimar el tiempo transcurrido desde que el pie tropieza con una 
+piedra y la sensación de dolor que se produce. 
+Desplazamiento, velocidad y módulo de la velocidad 
+48 e (a) Un electrón de un tubo de televisión recorre los 16 cm de dis- 
+tancia de la rejilla a la pantalla con una velocidad media de 4 x 10’ m/s. ¿Qué 
+tiempo transcurre en ese trayecto? (6) Un electrón en un conductor por el que 
+circula una corriente se mueve con una velocidad media de 4 x 1073 m/s. ¿Qué 
+tiempo tarda en recorrer 16 cm? 
+49 e SSM  Unatleta corre 2,5 km en línea recta en 9 min y luego 
+tarda 30 min en volver andando al punto de partida. (a) ¿Cuál es la velocidad 
+media durante los primeros 9 minutos? (b) ¿Cuál es la velocidad media durante 
+el tiempo que camina? (c) ¿Cuál es la velocidad media a lo largo de todo el 
+recorrido? (d) ¿Cuál es el valor del módulo de la velocidad media para todo el 
+recorrido? 
+50 e i Un coche viaja en línea recta con velocidad media de 
+80 km/h durante 2,5 h y luego con velocidad media de 40 km/h durante 1,5 h. 
+(a) ¿Cuál es el desplazamiento total en el viaje de 4 h? (b) ¿Cuál es la velocidad 
+media del viaje completo? 
+51 e Una ruta aérea muy concurrida a través del Océano Atlántico 
+tiene una longitud aproximada de 5500 km. (a) ¿Cuánto tiempo tarda un reac- 
+tor supersónico que vuela al doble de la velocidad del sonido en recorrer esta 
+ruta? Utilizar el valor 340 m/s como velocidad del sonido. (b) ¿Cuánto tardaría 
+un avión subsónico en realizar el mismo viaje volando a 0,9 veces la velocidad 
+del sonido? (c) Suponiendo que se utilizan 2 h al final del viaje para el trans- 
+porte por tierra, controles y manipulación del equipaje ¿Cuál es la velocidad 
+media “puerta a puerta” cuando se viaja en el avión supersónico? (d) ¿Cuál es 
+la velocidad media en el avión subsónico? 
+52 e SSM La luz se propaga con una velocidad de c = 3 x 10° m/s. 
+(a) ¿Cuánto tiempo tarda la luz en ir del Sol a la Tierra al recorrer una distancia 
+de 1,5 x 10'! m? (b) ¿Cuánto tiempo tarda la luz en recorrer la distancia Luna- 
+Tierra que es de 3,84 x 10* m? (c) Un año luz es una unidad de distancia que 
+equivale al camino recorrido por la luz en | año. Determinar la distancia equi- 
+valente a 1 año luz en kilómetros y en millas. 
+53 e La estrella Proxima Centauri es una enana roja muy poco lumi- 
+nosa próxima a las estrellas Alfa Centauri y situada a 4,1 x 10"° km de distan- 
+cia. Desde la proximidad de esta estrella, Gregor manda una orden a la empresa 
+Tony's Pizza de Hoboken, New Jersey, para lo cual utiliza una señal de comuni- 
+cación luminosa. La nave más rápida de Tony viaja a la velocidad de 10~c 
+(véase problema 52). (a) ¿Cuánto tiempo tarda en llegar la orden a la empresa? 
+(b) ¿Cuánto tiempo tendrá que esperar Gregor entre que envía la señal y recibe 
+la pizza? Si las normas de distribución de Tony dicen que la tardanza máxima 
+en servir la pizza es de 1000 años y que si sobrepasa este plazo, el servicio será 
+gratuito, ¿tendrá Gregor que pagar la pizza? 
+54 e Un coche que ha de recorrer 100 km cubre los primeros 50 km a 
+40 km/h. ¿A qué velocidad debe recorrer los segundos 50 km para que la velo- 
+cidad media en todo el trayecto sea de 50 km/h? 
+55 ee SSM  Unarquero lanza una flecha que produce un ruido sordo 
+al impactar en el blanco. Si el arquero oye el ruido del impacto exactamente | s 
+después del disparo y la velocidad media de la flecha es de 40 m/s, ¿qué distan- 
+cia separa el arquero del blanco? Use para la velocidad del sonido el valor de 
+340 m/s. 
+56 es John puede correr a 6 m/s. Marcia puede correr un 15% más que 
+John. (a) En una carrera de 100 m, ¿qué ventaja en metros sacará Marcia sobre 
+John? (b) ¿Y en segundos? 
+57 e i La figura 2.33 muestra la posición de una partícula en 
+función del tiempo. Determinar la velocidad media en los intervalos de tiempo 
+a, b, c y d indicados en la figura. 
++ 
+2| 4 1 1G 38 12 1 14 £s 
+_2}---------| hor terres ' + + ‘ , 
+; t $ ; 
+-4 ; ; i ; ' ' ' + 
+, + 4 4 
+& q i a re h oe c oe d—* 
+Figura 2.33 Problema 57 
+58 @@ Se sabe que las galaxias se alejan de la Tierra a una velocidad pro- 
+porcional a su distancia de nuestro planeta: ley de Hubble. La velocidad de una 
+galaxia a la distancia r es v = Hr, siendo H la constante de Hubble, de valor 
+1,58 x 107) s”!, Determine la velocidad de una galaxia (a) que dista 5 x 10% m 
+de la Tierra y (b) otra que dista 2 x 10% m de la Tierra. (c) Si cada una de estas 
+galaxias viaja con velocidad constante, ¿cuánto tiempo ha transcurrido desde 
+que ambas estuvieron en el mismo lugar que la Tierra? 
+59 ee sm i Un leopardo puede correr a v, = 113 km/h, un 
+halcón puede volar a v, = 161 km/h y un atún puede nadar a v, = 105 km/h. Si 
+nos imaginamos que los tres animales forman un equipo y corren una carrera 
+de relevos, cada uno recorriendo una distancia L a su velocidad máxima, ¿cuál 
+sería la velocidad media del equipo? Comparar el resultado obtenido con la 
+media de las tres velocidades. 
+60 ee Dos coches circulan a lo largo de una carretera recta. El coche A 
+mantiene una velocidad constante de 80 km/h; el coche B mantiene una veloci- 
+dad constante de 110 km/h. En 1 = 0, el coche B está a 45 km detrás del coche 
+A. ¿A qué distancia medida desde el punto en que t= 0 el coche B adelantará al 
+coche A? 
+61 @@ SSM Un coche que marcha con una velocidad constante de 
+20 m/s pasa por un cruce en el instante 1 = 0 y 5 segundos después pasa por el 
+mismo cruce un segundo coche que viaja en el mismo sentido pero a 30 m/s. 
+(a) Hacer un gráfico de las funciones de posición x(t) y x(t) de ambos coches. 
+(b) Hallar cuándo el segundo coche adelanta al primero. (c) ¿Cuánto han reco- 
+rrido ambos coches desde el cruce al ocurrir el adelantamiento? (d) ¿Dónde se 
+encuentra el primer coche cuando el segundo pasa el cruce? 
+62 e Joe y Sally siempre discuten cuando viajan. Un día al llegar a la 
+plataforma móvil del aeropuerto apuestan sobre quien llegará antes al final de 
+la plataforma. Aunque saltan sobre la plataforma al mismo tiempo, Joe decide 
+estar de pie y dejarse llevar, mientras Sally opta por seguir andando. Sally al 
+final llega en 1 min, mientras Joe tarda 2 min. Si Sally hubiera andado con 
+velocidad doble, ¿en cuánto tiempo hubiera hecho el recorrido? 
+63 es Margaret tiene el combustible justo para llegar con su lancha al 
+puerto deportivo en un viaje de 4.0 h en contra de la corriente. Al llegar, resulta 
+que el puerto está cerrado y pasa las siguientes 8,0 h flotando a favor de la 
+corriente hasta llegar a su tienda de campaña. El viaje completo es pues de 12,0 h. 
+¿Cuánto tiempo hubiera invertido si hubiese encontrado combustible en el puerto? 
+Aceleración 
+64 e 1 Un coche deportivo BMW M3 acelera con la tercera 
+marcha de 48,3 km/h a 80,5 km/h en 3,7 s. (a) ¿Cuál es su aceleración media en 
+m/s?? (b) Si el coche continúa con esta aceleración otro segundo, ¿cuál será su 
+velocidad?
+
+65 e Enel instante ¢ = 5 s, un objeto en x = 3 m se mueve a +5 m/s. 
+Para 1 = 8 s, se encuentra en x = 9 m y su velocidad es —1 m/s. Determinar la 
+aceleración media para este intervalo. 
+66 es Una partícula se mueve con velocidad v = (8 m/s?) t—7 m/s, en 
+donde v se expresa en metros por segundo y f en segundos. (a) Determinar la 
+aceleración media a intervalos de un segundo comenzando en t=3s y 1=4s, 
+(b) Representar v en función de r. ¿Cuál es la aceleración instantánea en cual- 
+quier momento? 
+67 ee | Y La posición de una partícula depende del tiempo 
+según la ecuación x(t) = f? — 51 + 1, donde x se expresa en metros y ¢ en segun- 
+dos. (a) Determinar el desplazamiento y la velocidad media durante el inter- 
+valo 3 s < 1 < 4s. (b) Encontrar la fórmula general para el desplazamiento 
+durante el intervalo entre ¢ y 1 + Ar. (c) Determinar la velocidad instantánea 
+para cualquier tiempo ¢ haciendo el límite cuando Af tiende a cero. 
+68 @@ SSM 1 La posición de un objeto está relacionada con 
+el tiempo por la expresión x = Ar — Br + C, en donde A = 8 m/s?, B = 6 m/s y 
+C =4 m. Determinar la velocidad instantánea y la aceleración como funciones 
+del tiempo. 
+69 es El movimiento unidimensional de una partícula viene represen- 
+tado en la figura 2.34, (a) ¿Cuál es la aceleración en los intervalos AB, BC y 
+CE? (b) ¿A qué distancia de su punto de partida se encuentra la partícula al 
+cabo de 10 s? (c) Representar el desplazamiento de la partícula en función del 
+tiempo; indicar en ella los instantes A, B, C, D y E. (d) ¿En qué instante la par- 
+tícula se mueve más lentamente? 
+Figura 2.34 Problema 69 
+Aceleración constante y caída libre 
+70 e SSM Un objeto lanzado hacia arriba con velocidad inicial 
+vg alcanza una altura h. Otro objeto lanzado en las mismas condiciones con 
+velocidad inicial 2vg alcanzará una altura de (a) 4h, (b) 3h, (a) 2h, d)h. 
+71 e Un coche parado en la posición x = 50 m acelera con aceleración 
+constante de 8 m/s?. (a) ¿Transcurridos 10 s, cuál es su velocidad? (b) ¿Qué dis- 
+tancia ha recorrido? (c) ¿Cuál es su velocidad media en el intervalo 0 < 1 < 10s? 
+72 e Un objeto con una velocidad inicial de 5 m/s posee una acelera- 
+ción constante de 2 m/s?. Cuando su velocidad es de 15 m/s, ¿qué espacio ha 
+recorrido? 
+73 e SSM Un objeto con aceleración constante posee una veloci- 
+dad de 10 m/s cuando se encuentra en x = 6 m y de 15 m/s cuando se encuentra 
+en x= 10 m. ¿Cuál es su aceleración? 
+74 e La velocidad de un objeto aumenta a una tasa constante de 4 m/s 
+cada segundo. Su velocidad es | m/s cuando f= 0, en cuyo instante está en x=7 m. 
+¿Con qué velocidad se mueve cuando está en x = 8 m? ¿Cuándo sucederá esto? 
+75 ee Í Y Se lanza una pelota hacia arriba con una velocidad 
+inicial de 20 m/s. (a) ¿Cuánto tiempo está la pelota en el aire? (Despreciar la 
+altura del punto de lanzamiento.) (b) ¿Cuál es la mayor altura alcanzada por la 
+Problemas | 45 
+pelota? (c) ¿Cuándo está la pelota a 15 m por encima del punto de lanza- 
+miento? 
+76 ee Í Y Enel corrimiento de tierras de Blackhawk, en Cali- 
+fornia, una masa de rocas y barro cayó 460 m al desprenderse de una montaña y 
+luego recorrió 8 km a través de una llanura sobre una capa de vapor de agua. 
+Suponiendo que esta masa cayó con la aceleración de la gravedad y después se 
+deslizó horizontalmente con desaceleración constante, (a) ¿cuánto tiempo tardó 
+en caer los 460 m? (b) ¿Cuál era su velocidad al llegar al fondo? (c) ¿Cuánto 
+tiempo tardó en deslizarse horizontalmente a lo largo de los 8 km? 
+77 @@ SSM Una grúa levanta una carga de ladrillos a la velocidad 
+constante de 5 m/s, cuando a 6 m del suelo se desprende un ladrillo de la carga. 
+(a) Describir el movimiento del ladrillo desprendido haciendo un esquema de 
+x(t). (b) ¿Cuál es la altura máxima respecto al suelo que alcanza el ladrillo? 
+(c) ¿Cuánto tiempo tarda en llegar al suelo? (d) ¿Cuál es su velocidad en el 
+momento de chocar contra el suelo? 
+78 es Un tomillo se desprende del fondo exterior de un ascensor que se 
+mueve hacia arriba a la velocidad de 6 m/s. El tornillo alcanza el fondo del 
+hueco del ascensor en 3 s. (a) ¿A qué altura estaba el ascensor cuando se des- 
+prendió el tornillo? (b) ¿Qué velocidad tiene el tornillo al chocar contra el 
+fondo del hueco del ascensor? 
+79 ee SSM  Unobjeto cae de una altura de 120 m. Determinar la dis- 
+tancia que recorre durante su último segundo en el aire. 
+80 es Un objeto cae de una altura h. Durante el segundo final de su 
+caída recorre 38 m. ¿Cuánto vale h? 
+81 e SSM Una piedra cae verticalmente desde un acantilado de 
+200 m de altura. Durante el último medio segundo de su caída la piedra recorre 
+una distancia de 45 m. Determinar la velocidad inicial de la piedra. 
+82 es Un objeto en caída libre desde una altura A recorre 0,4 h durante 
+el primer segundo de su descenso. Determinar la velocidad media del objeto 
+durante su caída. 
+83 es Un autobús acelera a 1,5 m/s? desde el reposo durante 12 s. A 
+continuación se mueve a velocidad constante durante 25 s, después de los cua- 
+les disminuye su velocidad con una aceleración de — 1,5 m/s?. (a) ¿Qué distan- 
+cia total recorrió el autobús? (b) ¿Cuál fue su velocidad media? 
+84 @@ SSM Para resolver ciertas clases de problemas de física es 
+relativamente fácil usar un programa como el Microsoft Excel, con una hoja de 
+cálculo, Por ejemplo, probablemente ha resuelto el problema 75 usando álge- 
+bra; aquí resolveremos aquel problema de una forma diferente usando una hoja 
+de cálculo. Aunque éste no es el caso, hay muchas situaciones en física don- 
+de se ha de recurrir como única alternativa a la solución de un problema me- 
+diante métodos numéricos. (a) Usando una hoja de cálculo, generar un gráfico 
+altura— tiempo para la pelota del ejercicio 75 (lanzada hacia arriba con una velo- 
+cidad vertical inicial de 20 m/s). Determinar la altura máxima alcanzada, el tiem- 
+po que ha estado en el aire, y el tiempo durante el cual la bola está en el aire por 
+encima de los 15 m de altura (con la ayuda de la gráfica). (b) Imponga que la 
+velocidad inicial sea 10 m/s y encuentre la altura máxima que alcanza la bola y 
+el tiempo que ésta está en el aire. 
+85 ee ssm 1 Al y Bert han salido a correr por un camino 
+que discurre por el interior de un bosque. Mantienen una velocidad de 0,75 m/s. 
+Al ve que el final del camino y del bosque se encuentra a unos 35 m y acelera 
+con una aceleración constante de 0,5 m/s?, dejando atrás a Bert, que continua a 
+velocidad constante. (a) ¿Cuánto le cuesta a Al llegar al final del camino? 
+(a) Cuando alcanza la meta, inmediatamente se da la vuelta y deshace el 
+camino a la velocidad constante de 0,85 m/s. ¿Cuánto tiempo transcurre hásta 
+que se cruza con Bert? (c) ¿A qué distancia del final del camino se encuentran 
+cuando se cruzan? 
+86 es Resuelva las preguntas (b) y (c) del problema 85 usando una hoja 
+de cálculo, 
+87 «es Un cohete se lanza verticalmente hacia arriba con una aceleración 
+de 20 m/s*. Al cabo de 25 s el combustible se agota y el cohete continúa como 
+una partícula libre hasta que alcanza el suelo. Calcular (a) el punto más alto
+
+46 | Capítulo 2 El movimiento en una dimensión 
+alcanzado por el cohete, (b) el tiempo total que el cohete está en el aire, (c) la 
+velocidad del cohete justo antes de chocar contra el suelo. 
+sg ee Í Una maceta cae desde una repisa de un edificio de 
+apartamentos. Una persona de un apartamento inferior que dispone de un cro- 
+nómetro, observa que la maceta tarda 0,2 s en pasar a través de su ventana que 
+tiene 4 m de altura. A qué altura sobre el borde superior de la ventana está la 
+repisa de la cual cayó la maceta? 
+89 @@ SSM En una experiencia de cátedra un cuerpo se desliza a lo 
+largo de una pista de aire inclinada sin rozamiento con una aceleración cons- 
+tante a. Se le impulsa desde el origen de la pista (x = 0) con una velocidad ini- 
+cial vp. En el instante ¢ = 8 s se encuentra en x= 100 cm y se mueve a lo largo 
+de la pista con velocidad y = —15 cm/s, Determinar la velocidad inicial vp y la 
+aceleración a. 
+90 @@ Una piedra que cae de lo alto de un acantilado recorre un tercio de 
+su distancia total al suelo en el último segundo de su caída. ¿Qué altura tiene el 
+acantilado? 
+91 ee Unautomóvil tiene una desaceleración máxima de unos 7 m/s”; el 
+tiempo de reacción típico para aplicar los frenos es de 0,50 s. Un cartel indica 
+que la velocidad límite en una zona escolar debe cumplir la condición de que 
+todos los coches puedan detenerse en una distancia de frenado de 4 m. (a) ¿Qué 
+velocidad máxima puede alcanzar en esa zona un automóvil típico? (b) ¿Qué 
+fracción de los 4 m corresponde al tiempo de reacción? 
+92 es Dos trenes se acercan uno al otro sobre vías adyacentes. Inicial- 
+mente están en reposo con una separación de 40 m. El tren de la izquierda ace- 
+lera hacia la derecha a 1,4 m/s?. El tren de la derecha acelera hacia la izquierda 
+a 2,2 m/s”, ¿Qué distancia recorre el tren de la izquierda antes de que se pro- 
+duzca el cruce de ambos? 
+93 es Dos piedras se dejan caer desde el borde de un acantilado de 60 m. 
+La segunda piedra se deja caer 1,6 s después de la primera. ¿Qué distancia ha 
+recorrido la segunda piedra cuando la separación entre ambas es de 36 m? 
+94 @@ SSM Un policía motorista escondido en un cruce de calles 
+observa que un coche no respeta la señal de parada, cruza la intersección y con- 
+tinúa a velocidad constante. El policía emprende su persecución 2,0 s después 
+que el coche sobrepasa la señal, acelera a 6,2 m/s? y alcanza una velocidad de 
+110 km/h; continúa con esta velocidad hasta que alcanza al coche infractor. En 
+ese instante, el coche se encuentra a 1,4 km del cruce. ¿Qué velocidad llevaba 
+el coche? 
+95 ee i En el instante ¢ = 0 se deja caer una piedra desde un 
+acantilado sobre un lago; 1,6 s más tarde, otra piedra se lanza hacia abajo desde 
+el mismo punto con una velocidad inicial de 32 m/s. Ambas piedras chocan con 
+el agua al mismo tiempo. Determinar la altura del acantilado. 
+96 e... i Un tren de pasajeros circula a 29 m/s cuando el con- 
+ductor ve delante de él un tren de carga a 360 m de distancia por la misma vía 
+en la misma dirección. El tren de carga lleva una velocidad de 6 m/s. (a) Si el 
+tiempo de reacción del conductor es de 0,4 s, ¿cuál debe ser la desaceleración 
+del tren de pasajeros para evitar la colisión? (b) Si su respuesta es la desacelera- 
+ción máxima que puede realizar el tren de pasajeros, pero el tiempo de reacción 
+del conductor es de 0,8 s, ¿cuál será entonces la velocidad relativa de los dos tre- 
+nes en el instante de la colisión y qué distancia habrá recorrido el tren de pasaje- 
+ros desde que el conductor divisó el tren de carga hasta que se produjo el choque? 
+97 e Para intentar estudiar los efectos de la gravedad un estudiante 
+lanza un pequeño proyectil verticalmente hacia arriba con velocidad 300 m/s. 
+Despreciando el rozamiento con el aire, ¿cuál es la altura máxima alcanzada 
+por el proyectil? 
+98 e SSM Al final de Charlie y la fábrica de chocolate, Willie 
+Wonka acciona un botón que lanza el enorme ascensor de cristal fuera de la 
+fábrica a través del tejado. (a) Si el ascensor alcanza la altura máxima de 10 km 
+por encima del tejado de la fábrica, ¿cuál era la velocidad que llevaba el arte- 
+facto en el momento de atravesar el tejado? Despreciar la resistencia del aire, 
+aunque en este caso tenga poco sentido ignorarla. (b) Supóngase que la veloci- 
+dad del ascensor después de romper el tejado y atravesarlo era la mitad de la 
+que tenía antes de chocar con el techo. Suponiendo que inició su movimiento 
+desde el reposo y que el tejado de la fábrica está a 150 m por encima del suelo, 
+¿qué aceleración uniforme le hizo falta para alcanzar aquella velocidad? 
+99 @@ Algunos elatéridos (insectos coleópteros) pueden proyectarse ver- 
+ticalmente por sí mismos con una aceleración de unos 400g (un orden de mag- 
+nitud superior del que un ser humano puede resistir). Los elatéridos saltan 
+“desdoblando” sus patas, que tienen una longitud aproximada de d = 0,6 cm. 
+¿A qué altura pueden saltar? ¿Cuánto tiempo permanecen en el aire? (Suponer 
+la aceleración constante mientras está en contacto con el suelo y despreciar la 
+resistencia del aire.) 
+10 el Y Una prueba de un prototipo de un nuevo automóvil 
+muestra que la distancia mínima para una parada controlada a 98 km/h es de 
+50 m. Determinar la aceleración (supuesta constante) y expresar la respuesta 
+como una fracción de la aceleración de la gravedad. ¿Cuánto tiempo tarda en 
+pararse? 
+101 @@ SSM Consideremos el movimiento de una partícula que expe- 
+rimenta un movimiento de caída libre con aceleración constante. Antes de dis- 
+poner de los modernos sistemas de adquisición de datos informatizados, el 
+experimento de caída libre de un objeto, como por ejemplo, un disco de hockey, 
+se realizaba usando una cinta teñida colocada verticalmente junto a la trayecto- 
+ria de caída del disco conductor. Con el uso de un generador de alto voltaje se 
+hacía saltar una chispa, a intervalos regulares de tiempo, entre dos conductores 
+paralelos en el punto donde se encontraba el disco gracias a sus propiedades 
+conductoras. De este modo en la cinta quedaba registrada la posición del disco 
+a intervalos de tiempo sucesivos. Mostrar que la posición del disco seguía la 
+Regla de Galileo de los números extraños Ay»; = 3Ay¡p, Ayx2 = S5Ay jo, ... donde 
+Ay ¡y es el cambio en y durante el primer intervalo de tiempo Ar, Ay», es el cam- 
+bio en y durante el segundo intervalo de duración Ar, etc. 
+102 es Una partícula se mueve con aceleración constante de 3 m/s?. En el 
+instante ¢ = 4 s, está en x = 100 m; en 1 = 6 s posee una velocidad v = 15 m/s. 
+Determinar su posición en 1=6 s. 
+103 ee ssm i! Y  Unavión que aterriza en una pequeña isla 
+tropical dispone de una pista de 70 m para parar. Si su velocidad inicial es de 
+60 m/s, (a) ¿cuál será la aceleración del avión durante el aterrizaje, supuesta 
+constante? (b) ¿Cuánto tiempo tardará en detenerse con esta aceleración? 
+104 e. | Y Un automóvil acelera desde el reposo a 2 m/s? 
+durante 20 s. La velocidad se mantiene entonces constante durante 20 s, des- 
+pués de los cuales experimenta una aceleración de —3 m/s? hasta que se detiene. 
+¿Cuál es la distancia total recorrida? 
+105 @@ SSM l Si fuera posible diseñar una nave espacial que 
+pudiera mantener una aceleración constante de forma indefinida, los viajes a 
+los planetas del Sistema Solar serían cuestión de dias o semanas, y los viajes a 
+estrellas próximas se podrían llevar a cabo en pocos años. (a) Demostrar que g, 
+el módulo de la aceleración de caída libre en la Tierra, es aproximadamente 
+| c-año/año? (c es la velocidad de la luz en el vacío. Véase en el problema 52 la 
+definición de año luz.) (b) Usando los datos que aparecen en las tablas al final 
+del libro, determinar el tiempo que se invertiría para ir desde la Tierra a Marte 
+(Marte es el planeta más cercano a la Tierra) suponiendo que una nave parte del 
+reposo, sigue una trayectoria recta, acelera durante media trayectoria a g, se da 
+la vuelta y el resto del viaje desacelera a g. 
+16 eè i Y La Stratosphere Tower de Las Vegas es un edificio 
+de 293,35 m de altura. Un ascensor rápido invierte 1 minuto y 20 segundos en 
+subir desde la planta baja hasta el último piso del edificio. Suponiendo que el 
+ascensor mantiene una aceleración constante, encontrar su valor expresándola 
+en función de la aceleración de la gravedad. 
+107 ee 1 Y Un tren sale de una estación con una aceleración de* 
+0,4 m/s?. Una pasajera llega corriendo al andén 6.0 s después de que el tren 
+haya iniciado la marcha. ¿Cuál es la velocidad constante mínima con que debe 
+correr la pasajera para poder alcanzar al tren? Confeccione un esquema de las 
+curvas del movimiento del tren y de la pasajera en función del tiempo, 
+108 ese Una bola A se suelta desde lo más alto de un edificio en el mismo 
+instante en que otra bola B se lanza verticalmente hacia arriba desde el suelo. 
+Cuando las bolas se encuentran, ambas se mueven en sentido contrario y la
+
+velocidad de la bola A es dos veces la velocidad de la bola B. ¿En qué fracción 
+de la altura del edificio ocurre el encuentro? 
+109 ese Resuelva el problema 108 si la colisión ocurre cuando las dos 
+bolas se mueven en el mismo sentido y la velocidad de A es 4 veces la veloci- 
+dad de B. 
+110 @@ SSM Un metro parte de una estación y acelera desde el reposo 
+con una aceleración de 1,0 m/s? hasta la mitad de la distancia que le separa de la 
+siguiente estación; después, desacelera con el mismo ritmo durante la segunda 
+mitad del trayecto. La distancia total entre estaciones es de 900 m. (a) Repre- 
+sentar gráficamente la velocidad v en función del tiempo a lo largo de todo el 
+recorrido. (b) Representar gráficamente la distancia recorrida en función del 
+tiempo para todo el viaje. Dar valores numéricos apropiados a lo largo de 
+ambos ejes. 
+111 ee |Í Un coche de policfa pretende alcanzar a un coche que 
+marcha a 125 km/h, La velocidad máxima del coche de policía es de 190 km/h, 
+y arranca desde el reposo con aceleración constante de 8 km/h - s, hasta que su 
+velocidad alcanza los 190 km/h y luego prosigue con velocidad constante. 
+(a) ¿Cuándo alcanzará al otro coche si se pone en marcha al pasar éste junto a 
+él? (b) ¿Qué espacio habrán recorrido entonces ambos coches? (c) Hacer un 
+gráfico de x(t) para cada coche, 
+112 es Cuando el coche de policía del problema 111 (marchando a 
+190 km/h) está a 100 metros detrás del otro coche (que marcha a 125 km/h) 
+éste observa que le siguen y acciona los frenos bloqueando las ruedas. (a) Supo- 
+niendo que cada coche pueda frenar con una aceleración negativa de 6 m/s? y que 
+el conductor del coche de policía frena tan pronto como ve encenderse las luces 
+de freno del coche que persigue, es decir, sin tiempo muerto de reacción, 
+demostrar que los coches chocan. (b) ¿En qué momento chocan contando a par- 
+tir del instante que empiezan a frenar? (c) Analizar cómo el tiempo de reacción 
+afecta la resolución de este problema, 
+113 es Necesitando urgentemente el premio en metálico, Lou se apunta a 
+una competición de automóviles en la cual el coche del concursante comienza 
+y termina la prueba parado, recorriendo una distancia L en el tiempo más corto 
+posible. Hay que demostrar destreza mecánica y ser buen conductor, así como 
+consumir la mayor cantidad de combustibles fósiles en el menor tiempo posi- 
+ble. La carrera está diseñada de modo que las velocidades máximas de los 
+automóviles no se alcanzan nunca. (a) Si el coche de Lou posee una acelera- 
+ción máxima a y una desaceleración máxima 2a, ¿en qué fracción de L debe 
+Lou mover su pie desde el pedal del acelerador al pedal del freno? (b) ¿Qué frac- 
+ción de tiempo utilizado en el trayecto total ha transcurrido hasta este momento? 
+114 ee Í Y Una profesora de física prueba su paracaídas anti- 
+gravedad saltando con velocidad inicial cero desde un helicóptero situado a 
+575 m de altura. Durante 8 s la profesora se mueve en caída libre; inmediata- 
+mente después abre el paracaídas de modo que frena con una aceleración de 
+15 m/s? hasta que su velocidad de caída se sitúa en 5 m/s, que es cuando ajusta 
+los controles de modo que se mantenga esta velocidad hasta llegar al suelo. 
+(a) En una única figura, dibuje la aceleración y la velocidad de la profesora en 
+función del tiempo. (Considerar positivo el sentido hacia arriba.) (b) ¿Cuál es 
+su velocidad transcurridos los primeros 8 s del salto? (c) ¿Durante cuánto 
+tiempo está frenando? (d) ¿Qué distancia recorre mientras su velocidad dismi- 
+nuye? (e) ¿Cuál es el tiempo invertido en todo el salto? (f) ¿Cuál es la velocidad 
+media durante el salto completo? 
+Integración y ecuaciones de movimiento 
+115 e SSM La velocidad de una partícula viene dada por v(t) = 
+(6m/s?) + (3 m/s). (a) Hacer un gráfico de v en función de t y hallar el área 
+limitada por la curva en el intervalo de t= 0 s a t=5 s. (b) Hallar la función de 
+posición x(t). Utilizarla para calcular el desplazamiento durante el intervalo de 
+t=0at=5s. 
+116 e La figura 2.35 muestra la velocidad de una partícula en función 
+del tiempo. (a) ¿Cuál es el valor en metros del área del rectángulo señalado? (b) 
+Hallar el recorrido de la partícula para los intervalos de | s que empiezan a partir 
+Problemas | 47 
+det= l s yt=2 s. (c) ¿Cuál es la velocidad media para el intervalo ls <1< 3 s? 
+(d) La ecuación de la curva es v = (0,5 m/s*)?. Determinar el desplazamiento 
+de la partícula en el intervalo Is < 1 < 3s por integración y comparar la res- 
+puesta con la del apartado (b). En este caso, ¿la velocidad media es igual a la 
+suma de las velocidades inicial y final? 
+v, m/s 
+-nN y e nn DJ 00 
+Figura 2.35 Problema 116 
+117 @@ SSM La velocidad de un partícula en metros por segundo 
+viene dada por v = (7 m/s”)? — 5 m/s, donde r se expresa en segundos y v en 
+metros por segundo. Si la partícula sale del origen, xy = 0 cuando f = 0, hallar 
+la función posición general x(1). 
+118 es Considere el gráfico de la figura 2.36. Suponiendo que x = 0 
+cuando f = 0, escriba las expresiones algebraicas correctas para x(1), v(t) y a(t), 
+con los valores apropiados de todas las constantes. 
+Vy m/s 
+50 
+10 z.s 
+-50 
+Figura 2.36 Problema 118 
+119 ese La figura 2.37 muestra la aceleración de una partícula en función 
+del tiempo. (a) ¿Cuál es el valor del área del rectángulo señalado? (b) La parti- 
+cula parte del reposo a ¢ = 0. Hallar la velocidad en los tiempos ¢ = 1, 2 y 3 s 
+contando los cuadrados bajo la curva. (c) Hacer un gráfico v(t) a partir de los 
+resultados de la parte (b) y hallar un valor estimado de la distancia recorrida por 
+la partícula en el intervalo de r=Oar=3s. 
+Figura 2.37 Problema 119
+
+48 | Capítulo 2 El movimiento en una dimensión 
+120 es La figura 2.38 muestra un gráfico v en función de f para una partí- 
+cula que se mueve sobre una recta, La posición de la misma en el instante fọ = 0 
+es xo = 5 m. (a) Hallar x para varios tiempos t contando cuadrados y dibujar x 
+en función de t. (b) Hacer un dibujo aproximado de la aceleración a en función 
+de z, 
+Lia 3 @ 3 G& 7 8: 3. Os 
+Figura 2.38 Problema 120 
+121 @@ SSM La figura 2.39 muestra un gráfico de x en función de t 
+para un cuerpo que se mueve en linea recta. Dibujar gráficos aproximados de v 
+en función de t y a en función de t para este movimiento. 
+Figura 2.39 Problema 121 
+122 ee Laaceleración de un cohete viene dada por a = br. donde b es una 
+constante positiva. (a) Determinar la posición en función del tiempo x(t). (b) 
+Calcular la posición y la velocidad cuando 1=3 s si x=0 y v=0 cuando t = 0, 
+y si b = 3m/s!. 
+123 ee I La aceleración de una partícula que se mueve en una 
+dimensión durante el intervalo de tiempo comprendido entre 0,0 y 10,0 s viene 
+dada por a = (0,20 m/s*)r. Si la partícula inicia su movimiento desde el reposo y 
+en el origen, (a) calcular primero su velocidad instantánea en cualquier instante 
+de tiempo comprendido dentro del intervalo indicado. (b) Calcular su velocidad 
+media durante el intervalo de tiempo entre 2.0 s y 7,0 s. 
+124 @ Considere el movimiento de una partícula que está sometida a una 
+aceleración no constante a dada por a = ag + bt, donde ag y b son constantes. 
+(a) Calcular la velocidad instantánea en función del tiempo. (b) Determinar la 
+posición en función del tiempo. (c) Calcular la velocidad media en el mismo 
+intervalo de tiempo, entre un tiempo inicial O y un tiempo final arbitrario £. 
+Problemas generales 
+125 eee 1 En una clase de ciencias, con el objetivo de determinar 
+la aceleración de caída libre de los cuerpos, se monta el siguiente dispositivo 
+experimental: se colocan dos células fotoeléctricas, una en el borde de una 
+mesa de 1,0 m de altura y otra 0,5 m exactamente debajo. Se suelta una canica 
+desde el borde de la mesa de modo que, cuando pasa por la primera célula, 
+pone en marcha el reloj y, cuando pasa por la segunda, lo para. El valor de la ace- 
+leración de caída libre g se determina mediante la expresión Sexp = (1 my/Ar, 
+donde Ar es el tiempo medido por el cronómetro. Un estudiante poco cuidadoso 
+coloca la primera célula 0,5 cm por debajo la mesa. (Suponga que la segunda 
+célula está bien colocada.) ¿Qué valor de g.,, obtendrá? ¿Qué porcentaje de 
+diferencia habrá entre el valor obtenido y el valor común de esta magnitud al 
+nivel del mar? 
+126 @@@ SSM La posición de un cuerpo que oscila sobre un muelle 
+viene dada por x =A sen dx, en donde A y @son constantes de valores A = 5 cm 
+y 0=0,175 s“'. (a) Representar x en función de t para 0 < t < 36 s. (b) Medir la 
+pendiente del gráfico en £= 0 para determinar la velocidad en ese instante. (c) 
+Calcular la velocidad media para una serie de intervalos que comienzan en t = 0 
+y terminan en f= 6, 3, 2, 1, 0,5 y 0,25 s. (d) Calcular dx/dt y determinar la velo- 
+cidad en el instante r = 0. Comparar los resultados con los apartados (c) y (d). 
+127 eee | Considere un objeto cuyo motor le da una velocidad 
+descrita por la ecuación v = v,,;, sin(@r), donde @ se expresa en radianes/s. (a) 
+¿Cuál es la aceleración del objeto? ¿Es constante? (b) Cuando t = 0, la posición 
+es xg. ¿Cuál es la posición en función del tiempo? 
+128 ee. Suponga que la aceleración de una partícula es una función de x, 
+donde a(x) = (257?) x. (a) Si la velocidad cuando x = 1 m es cero, ¿cuál es la 
+velocidad de la partícula en x = 3 m? (b) ¿Cuánto tiempo invierte la partícula en 
+moverse desde x = | m hasta x =3 m? 
+129 eee Suponga que una partícula se mueve en una línea recta de forma 
+que, en cada instante de tiempo, su posición y su velocidad tienen el mismo 
+valor numérico expresado en unidades del SI. (a) Exprese la posición en fun- 
+ción del tiempo. (b) Demuestre que en cada instante de tiempo la aceleración 
+tiene el mismo valor numérico que la posición y la velocidad, 
+130 ese Una piedra se hunde en el agua con una aceleración que decrece 
+exponencialmente con el tiempo según a(t) = ge”, donde b es una constante 
+positiva que depende de la forma y del tamaño de la piedra y de las propiedades 
+físicas del agua. Basándose en este resultado, deduzca una expresión para la 
+posición de la piedra en función del tiempo, suponiendo que su velocidad ini- 
+cial es cero. 
+131 @@@ SSM Enel problema 130 una piedra cae en el agua con una 
+aceleración que viene dada por a(t) = ge””, donde b es una constante positiva. 
+En física, habitualmente, se suele conocer la aceleración en función de la posi- 
+ción o de la velocidad, pero no se suele tener información sobre la aceleración 
+en función del tiempo. Supongamos que la función que nos da la aceleración en 
+función de la velocidad es a = g — bv donde g es el módulo de la aceleración de 
+la gravedad y v es la velocidad de la piedra. Demuestre que, si la piedra parte 
+del reposo, la función que da la aceleración en función del tiempo es la que se 
+da al comienzo del problema. 
+132 eee La aceleración de una paracaidista que se lanza al vacío desde un 
+avión viene dada, antes de abrir el paracaídas, por la fórmula a = g — cv?, donde 
+c es una constante que depende del área transversal de la saltadora y de la den- 
+sidad de la atmósfera que la rodea. (a) Si su velocidad inicial en el momento 
+del salto es O, demostrar que su velocidad en función del tiempo sigue la fór- 
+mula v(t) = v; tanh (4/7), donde v; es la velocidad límite (v; = /g/c) y T = v/g 
+es la escala que determina cuánto tiempo le cuesta alcanzar la velocidad termi- 
+nal. (b) Use un programa de una hoja de cálculo para representar v(t) en fun- 
+ción del tiempo, usando una velocidad terminal de 56 m/s (use este valor para 
+calcular c y 7). ¿Tiene sentido la curva resultante?
+
+MOVIMIENTO EN DOS 
+Y TRES DIMENSIONES 
+3.1 
+3.2 
+3.3 
+3.4 
+3.5 
+en linea recta hacia su destino sino quen uni yectoria Los barcos a vela no navegan que si 
+hacia el j-zag contra el viento. El barco de la foto que se dirige hacia un puerto situ 
+ar torciendo finalmente ste, después hacia el sur para acat sudeste navega primero hacia el < 
+hacia el este 
+¿Cómo podemos calcular el desplazamiento y la velocidad medias? (Véase el ejemplo 3.3.) 
+E n este capítulo extenderemos las ideas del capítulo anterior a dos y tres dimensiones. 
+Para llevar a cabo esta extensión, introduciremos los vectores y mostraremos cómo se 
+usan para analizar y describir el movimiento. 
+@ El objetivo principal de este capítulo es desarrollar el concepto del vector acele- 
+ración, un concepto fundamental para el desarrollo de las leyes de Newton en los ca- 
+pítulos 4 y 5. 
+3.1 El vector desplazamiento 
+Cuando hay movimiento, el desplazamiento de una partícula tiene una dirección en el espa- 
+cio y un módulo. La magnitud que expresa la dirección y la distancia en línea recta compren- 
+dida entre dos puntos del espacio es un segmento lineal llamado vector desplazamiento. Se 
+representa gráficamente por una flecha cuya dirección es la misma que la del vector despla- 
+zamiento y cuya longitud es proporcional al módulo del vector desplazamiento. Designare- 
+mos los vectores con letras negritas, como en A. (Cuando se escribe a mano, un vector se 
+indica mediante una flecha sobre el símbolo considerado, por ejemplo, A .) El módulo de A 
+se escribe [A| o simplemente A y, por ejemplo, el módulo del vector desplazamiento tiene 
+dimensiones de longitud. El módulo de un vector no puede ser negativo. 
+Capítulo 
+El vector 
+desplazamiento 
+Propiedades generales 
+de los vectores 
+Posición, velocidad y 
+aceleración 
+Primer caso particular: 
+movimiento de 
+proyectiles 
+Segundo caso 
+particular: 
+movimiento circular

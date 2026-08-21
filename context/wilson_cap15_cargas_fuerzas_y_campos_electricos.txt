@@ -1,0 +1,2899 @@
+Tema: Cargas, fuerzas y campos eléctricos (Capítulo 15 — Física, Wilson)
+
+CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+Nota: recuerde el análisis 
+de la tercera ley de Newton 
+en la sección 4.4.
+*Los protones, al igual que los neutrones y otras partículas, están constituidos por partículas lla-
+madas quarks, que tienen cargas de y de la carga del electrón. Se tiene evidencia experimental de
+la existencia de quarks dentro del núcleo, pero no se han detectado quarks libres. La teoría actual im-
+plica que la detección directa de los quarks es imposible.
+/H11006
+ 
+2
+3/H11006 
+1
+3
+15.1 Carga eléctrica
+OBJETIVOS: a) Distinguir entre los dos tipos de carga eléctrica, b) enunciar la ley
+de carga-fuerza que opera entre objetos cargados y c) comprender
+y usar la ley de conservación de la carga.
+¿Qué es la electricidad? Tal vez la respuesta más simple es que la electricidad es un térmi-
+no genérico que describe los fenómenos asociados con la electricidad doméstica. Pero, en
+realidad y sobre todo, implica el estudio de la interacción entre objetos eléctricamente car-
+gados. Para demostrar esto, nuestro estudio empezará con la situación más simple, la de
+la electrostática, es decir, cuando los objetos eléctricamente cargados están en reposo.
+Al igual que la masa, la carga eléctrica es una propiedad fundamental de la mate-
+ria (capítulo 1). La carga eléctrica está asociada con partículas que constituyen el áto-
+mo: el electrón y el protón. El simplista modelo del sistema solar del átomo, mostrado
+en la 
+> figura 15.1, se asemeja en su estructura a los planetas que giran alrededor del
+Sol. Los electrones se consideran como partículas en órbita alrededor de un núcleo, que
+contiene la mayoría de la masa del átomo en la forma de protones y partículas eléctrica-
+mente neutras llamadas neutrones. Como vimos en la sección 7.5, la fuerza centrípeta
+que mantiene a los planetas en órbita alrededor del Sol es suministrada por la grave-
+dad. De manera similar, la fuerza que mantiene los electrones en órbita alrededor del
+núcleo es la fuerza eléctrica. Sin embargo, hay distinciones importantes entre las fuer-
+zas gravitacionales y eléctricas.
+Una distinción básica es que sólo hay un tipo de masa en la naturaleza, y se sabe
+que las fuerzas gravitacionales son sólo atractivas. Sin embargo, la carga eléctrica exis-
+te en dos tipos, distinguidas por la nominación de positiva (/H11001) y negativa (/H11002). Los pro-
+tones llevan una carga positiva, y los electrones llevan una carga negativa. Las diferen-
+tes combinaciones de los dos tipos de carga producen fuerzas eléctricas atractivas o
+repulsivas.
+Las direcciones de las fuerzas eléctricas cuando las cargas interactúan entre sí es-
+tán dadas por el siguiente principio, llamado ley de las cargas o ley de carga-fuerza:
+Cargas iguales se repelen y cargas desiguales se atraen.
+Esto es, dos partículas cargadas negativamente o dos partículas cargadas positivamente
+se repelen entre sí, mientras que partículas con cargas contrarias se atraen entre sí (
+▼figu-
+ra 15.2). Las fuerzas repulsiva y atractiva son iguales y opuestas, y actúan sobre objetos
+diferentes, de acuerdo con la tercera ley de Newton (acción-reacción).
+La carga sobre un electrón y aquella sobre un protón son iguales en magnitud, pe-
+ro contrarias en signo. La magnitud de la carga sobre un electrón se abrevia como e y es
+la unidad de carga fundamental, ya que es la carga más pequeña observada en la natu-
+raleza.* La unidad SI de carga es el coulomb (C), llamada así en honor del físico francés
+Charles A. Coulomb (1736-1806), quien descubrió una relación entre fuerza eléctrica y
+carga (sección 15.3). Las cargas y masas del electrón, protón y neutrón se indican en la
+++
++
++
++ ++++
++
++
++
++
++
+– – ––
+– –
+– ––––
+–
+––––
+Barras 
+de vidrio
+Barras
+de caucho
+a) b)
+N FIGURA 15.2 La ley de carga-
+fuerza o ley de cargas a) Cargas
+iguales se repelen, b) Cargas 
+desiguales se atraen.
+
+15.1 Carga eléctrica 507
+Partículas subatómicas y sus cargas eléctricas
+Partícula Carga eléctrica* Masa*
+Electrón
+Protón
+Neutrón 0
+*Aunque los valores están dados con cuatro cifras significativas, usaremos sólo dos o tres cifras en
+nuestros cálculos.
+mn = 1.675 * 10-27 kg
+mp = 1.673 * 10-27 kg+1.602 * 10-19 C
+me = 9.109 * 10-31 kg-1.602 * 10-19 C
+TABLA 15.1
+tabla 15.1, donde vemos que e /H110051.6 /H1100310/H1100219 C. Nuestro símbolo general para carga se-
+rá q o Q. Así, la carga sobre un electrón se escribe como qe /H11005/H11002e /H11005/H110021.602 /H1100310/H1100219 C y
+sobre un protón es qp /H11005/H11001e /H11005+1.60 /H1100310/H1100219 C.
+Con frecuencia usamos varios términos cuando analizamos objetos cargados. De-
+cir que un objeto tiene una carga neta significa que el objeto tiene un exceso de cargas
+positivas o negativas. (Sin embargo, es común preguntar sobre la “carga” de un objeto,
+cuando en realidad nos referimos a la carga neta.) Como veremos en la sección 15.2, la
+carga en exceso comúnmente se produce por una transferencia de electrones, no de
+protones. (Los protones están ligados al núcleo y, en las situaciones más comunes, no
+salen de él.) Por ejemplo, si un objeto tiene una carga (neta) de /H110011.6 /H1100310
+/H1100218 C, enton-
+ces se han removido electrones de él. Específicamente, tiene una deficiencia de 10 elec-
+trones, ya que 10 /H110031.6 /H1100310/H1100219 C /H110051.6 /H1100310/H1100218 C. Esto es, el número total de electrones
+en el objeto ya no cancela por completo la carga positiva de todos los protones, lo que
+da por resultado una carga neta positiva. En un nivel atómico, algunos de los átomos
+que constituyen el objeto serían deficientes en electrones. Los átomos cargados positi-
+vamente se llaman iones positivos. Los átomos con un exceso de electrones se llaman io-
+nes negativos.
+Como la carga sobre el electrón es una minúscula fracción de un coulomb, un ob-
+jeto que tiene una carga neta de un coulomb de carga neta rara vez se ve en situaciones
+cotidianas. Por lo tanto, es común expresar las cantidades de carga usando microcou-
+lombs (o  1 0
+/H110026 C), nanocoulombs (mC o 10/H110029 C) y picocoulombs (pC o 10/H1100212 C).
+Puesto que la carga eléctrica (neta) sobre un objeto es el resultado de una deficien-
+cia o de un exceso de electrones, siempre debe ser un múltiplo entero de la carga sobre
+un electrón. Un signo más o un signo menos indicará si el objeto tiene una deficiencia
+o un exceso de electrones, respectivamente. Así, para la carga (neta) de un objeto, po-
+demos escribir
+(15.1)
+Unidad SI de carga: coulomb (C)
+donde 2, Algunas veces decimos que la carga está “cuantizada”, lo que
+significa que ésta se presenta sólo en múltiplos enteros de la carga electrónica funda-
+mental.
+Al tratar con cualquier fenómeno eléctrico, otro importante principio es el de la
+conservación de la carga:
+La carga neta de un sistema aislado permanece constante.
+Esto es, la carga neta permanece constante, aunque puede ser diferente de cero. Supon-
+ga, por ejemplo, que un sistema consiste inicialmente en dos objetos eléctricamente
+neutros, y que un millón de electrones se transfieren de uno al otro. El objeto con los
+electrones agregados tendrá entonces una carga negativa neta, y el objeto con el núme-
+ro reducido de electrones tendrá una carga positiva neta de igual magnitud. (Véase el
+ejemplo 15.1.) Así, la carga neta del sistema permanece igual a cero. Si el universo se
+considera como un todo, la conservación de la carga significa que la carga neta del uni-
+verso es constante.
+Advierta que este principio no prohíbe la creación o destrucción de partículas car-
+gadas. De hecho, los físicos han sabido desde hace mucho tiempo que es posible crear
+o destruir partículas cargadas en los niveles atómico y nuclear. Sin embargo, a causa de
+la conservación de la carga, las partículas son creadas o destruidas sólo en pares con
+cargas iguales y de signo contrario.
+3, Án = 1,
+q = /H11006ne
+mC
+
+508 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+Ejemplo integrado 15.1 ■ Sobre la alfombra: conservación 
+de la carga cuantizada
+Usted arrastra los pies sobre un piso alfombrado en un día seco y la alfombra adquiere
+una carga positiva neta (para conocer detalles de este mecanismo, véase la sección 15.2). 
+a) ¿Usted tendrá 1) una deficiencia o 2) un exceso de electrones? b) Si la carga adquirida
+tiene una magnitud de 2.15 nC, ¿cuántos electrones se transfirieron?
+a) Razonamiento conceptual. a) Como la alfombra tiene una carga positiva neta, debe ha-
+ber perdido electrones y usted debe haberlos ganado. Así, su carga es negativa, lo que in-
+dica un exceso de electrones, y la respuesta correcta es la 2.
+b) Razonamiento cuantitativo y solución.Conociendo la carga en un electrón, es posible
+cuantificar el exceso de electrones. Exprese la carga en coulombs, y establezca qué debe
+encontrarse.
+Dado: Encuentre: n, número de electrones
+transferidos
+(de la tabla 15.1)
+La carga neta en usted es
+Por lo tanto,
+Como se observa, las cargas netas, en situaciones cotidianas, por lo general implican nú-
+meros enormes de electrones (aquí, más de 13 mil millones), porque la carga de cada elec-
+trón es muy pequeña.
+Ejercicio de refuerzo.En este ejemplo, si su masa es de 80 kg, ¿en qué porcentaje ha au-
+mentado su masa a causa de los electrones en exceso? (Las respuestas de todos los ejercicios de
+refuerzo se incluyen al final del libro.)
+15.2 Carga electrostática
+OBJETIVOS: a) Distinguir entre conductores y aislantes, b) explicar la operación del
+electroscopio y c) distinguir entre carga por fricción, conducción, in-
+ducción y polarización.
+La existencia de dos tipos de carga eléctrica (y, por lo tanto, de fuerzas eléctricas atrac-
+tivas y repulsivas) se demuestra fácilmente. Antes de aprender cómo se hace esto, vea-
+mos la distinción entre conductores y aislantes eléctricos. Lo que distingue a esos
+amplios grupos de sustancias es su capacidad para conducir, o transmitir, cargas eléc-
+tricas. Algunos materiales, particularmente los metales, son buenos conductores de
+carga eléctrica. Otros, como el vidrio, el caucho y la mayoría de los plásticos, son ais-
+lantes, o malos conductores eléctricos. Una comparación de las magnitudes relativas
+de las conductividades de algunos materiales se presenta en la 
+N figura 15.3.
+En los conductores, los electrones de valenciade los átomos —o electrones localizados
+en las órbitas más exteriores—, están débilmente ligados. Como resultado, es fácil remo-
+verlos del átomo y que se muevan en el conductor; incluso es posible que abandonen es-
+te último por completo. Esto es, los electrones de valencia no están permanentemente
+ligados a un átomo particular. Sin embargo, en los aislantes, incluso los electrones que es-
+tán menos ligados, lo están tan fuertemente, que es difícil removerlos de sus átomos. Así,
+la carga no se mueve con facilidad, ni se puede remover fácilmente de un aislante.
+Como muestra la figura 15.3, también existe una clase de materiales “interme-
+dios”, llamados semiconductores. Su capacidad de conducir carga es intermedia entre
+la de los aislantes y los conductores. El movimiento de electrones en los semiconducto-
+res es mucho más difícil de describir que el simple enfoque para el electrón de valencia
+usado para aislantes y conductores. De hecho, los detalles de las propiedades de los se-
+miconductores se comprenden sólo con la ayuda de la mecánica cuántica, que va más
+allá del alcance de este libro.
+Sin embargo, es interesante notar que es posible ajustar la conductividad de los se-
+miconductores agregando ciertos tipos de impurezas atómicas en concentraciones va-
+riables. Desde la década de los años 40, los científicos emprendieron investigaciones
+n =
+q
+qe
+= -2.15 * 10-9 C
+-1.60 * 10-19 C>electrones
+= 1.34 * 1010 electrones
+q =- qc =- 2.15 * 10-9 C
+ qe =- 1.60 * 10-19 C
+ =+ 2.15 * 10-9 C
+ qc =+12.15 nC2¢ 10-9 C
+1 nC≤
+
+15.2 Carga electrostática 509
+Magnitud relativa 
+de la conductividad
+CONDUCTORES
+Material
+Plata
+Cobre
+Aluminio
+Hierro
+Mercurio
+Carbón
+107
+108
+SEMICONDUCTORES
+AISLANTES
+Germanio
+Silicio
+Madera
+Vidrio
+Caucho
+103
+10–9
+10–10
+10–12
+10–15
+(Transistores)
+(Chips de computadora)
+> FIGURA 15.3 Conductores, 
+semiconductores y aislantes Una
+comparación de las magnitudes 
+relativas de las conductividades
+eléctricas de varios materiales 
+(el dibujo no está a escala).sobre las propiedades de los semiconductores con el fin de crear aplicaciones para ta-
+les materiales. Los científicos usaron semiconductores para crear los transistores, luego
+circuitos de estado sólido y después los microchips para computadoras. El microchip
+es uno de los principales desarrollos responsables de la tecnología para computadoras
+de alta velocidad de que disponemos actualmente.
+Ahora que ya sabemos un poco sobre conductores y aislantes, aprendamos sobre la
+manera de determinar el signo de la carga de un objeto. El electroscopioes uno de los dis-
+positivos más sencillos usados para demostrar las características de la carga eléctrica (
+▼fi-
+gura 15.4). En su forma más simple, consiste en una barra metálica con un bulbo metálico
+en un extremo. La barra está unida a una pieza metálica sólida, de forma rectangular, que
+tiene unida una “hoja”, generalmente hecha de oro o de aluminio. Este conjunto está ais-
+lado de su recipiente protector de vidrio por medio de un marco aislante. Cuando los ob-
+jetos cargados se acercan al bulbo, los electrones en éste son atraídos o repelidos por tales
+objetos. Por ejemplo, si una barra negativamente cargada se acerca al bulbo, los electrones
+en el bulbo son repelidos, y el bulbo se queda con una carga positiva. Los electrones son
+conducidos al rectángulo metálico y a la hoja unida a él, que se separará, ya que tienen
+carga del mismo signo (figura 15.4b). De forma similar, si una barra cargada positivamen-
+te se acerca al bulbo, la hoja también se alejará. (¿Podría explicar por qué?)
+Note que la carga neta sobre el electroscopio permanece igual a cero en estos ca-
+sos. Puesto que el dispositivo está aislado, sólo se altera la distribución de carga. Sin
+––––
++++
++
++ –
+– +
++ +
++ +
+– –
+– –
+Bulbo Barra cargada 
+negativamente
+Barra cargada
+positivamente
+a) El electroscopio neutro tiene
+    cargas uniformemente distribuidas; 
+    la hoja está en posición vertical.   
+b) Las fuerzas electrostáticas hacen 
+    que la hoja se separe (sólo se muestra 
+    el exceso o carga neta).
+> FIGURA 15.4 El electroscopio Este
+dispositivo sirve para determinar si
+un objeto está cargado eléctricamen-
+te. Cuando un objeto cargado se
+acerca al bulbo, la hoja se aleja de la
+pieza metálica.
+Nota: un electroscopio no cargado
+sólo detectará si un objeto está
+eléctricamente cargado. Si 
+el electroscopio está cargado 
+con un signo conocido, también 
+podrá determinar el signo de la 
+carga en el objeto.
+
+510 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+Nota: desde un punto de vista
+externo, no es posible decir si la
+barra de caucho ganó cargas 
+negativas o si la piel ganó cargas
+positivas. En otras palabras, 
+mover electrones a la barra de
+caucho da por resultado la misma
+situación física que mover cargas
+positivas a la piel. Sin embargo,
+como el caucho es un aislante y
+sus electrones están fuertemente
+ligados, podríamos sospechar que
+la piel perdió electrones y que el
+caucho los ganó. En los sólidos,
+los protones —que están en el 
+núcleo de los átomos— no se 
+mueven; sólo los electrones lo 
+hacen. Solamente es cuestión 
+de saber qué material pierde
+electrones con mayor facilidad.
++ +
++ +
+––
+a) El electroscopio neutral  
+    se toca con una varilla  
+    con carga negativa.  
+b) Las cargas se transfieren 
+    al bulbo; el electroscopio 
+    tiene carga neta negativa.
+–
+––
+–    –
+–
++
++
++
+–
+–
+–
+––
+c) La varilla cargada 
+    negativamente repele  
+    a los electrones; la hoja  
+    se separa más aún. 
+– –
+– –
+–
+–
+–
+d) La varilla cargada 
+    positivamente atrae 
+    a los electrones; la hoja 
+    se colapsa.
+N FIGURA 15.5 Carga por 
+conducción a) El electroscopio es
+neutro inicialmente (pero las cargas
+están separadas), cuando una 
+varilla cargada se pone en contacto
+con el bulbo. b) La carga es 
+transferida al electroscopio. 
+c) Cuando una varilla de la misma
+carga se acerca al bulbo, la hoja se
+separa aún más. d) Cuando se 
+acerca una varilla con carga 
+opuesta, la hoja se colapsa.
+embargo, es posible dar a un electroscopio (y a otros objetos) una carga neta por dife-
+rentes métodos, aunque todos implican una carga electrostática . Considere los si-
+guientes procesos que generan carga electrostática.
+Carga por fricción
+En el proceso de carga por fricción, al frotar ciertos materiales aislantes con tela o piel, re-
+sultan cargados eléctricamente mediante una transferencia de carga. Por ejemplo, si una
+barra de caucho duro se frota con piel, adquirirá una carga neta negativa; al frotar 
+una barra de vidrio con seda, la barra adquirirá una carga neta positiva. Este proceso se
+llama carga por fricción. La transferencia de carga se debe al contacto entre los materia-
+les, y la cantidad de carga transferida depende, como podría esperarse, de la naturaleza
+de los materiales implicados.
+El ejemplo 15.1 fue realmente un ejemplo de carga por fricción, en el que usted reco-
+gió una carga neta de la alfombra. Si toca un objeto metálico, como la perilla de una
+puerta, es probable que sienta una chispa. Conforme su mano se aproxima, la perilla se
+carga positivamente y, por lo tanto, atrae los electrones de su mano. Conforme se despla-
+zan, chocan con los átomos del aire y los excitan, emitiendo luz conforme pierden excita-
+ción (es decir, energía). Esta luz se ve como la chispa de un “mini relámpago” entre su
+mano y la perilla.
+Carga por conducción (o contacto)
+Al acercar una varilla cargada a un electroscopio, éste revelará que la varilla está carga-
+da, pero no le indicará qué tipo de carga tiene esta última (positiva o negativa). Sin em-
+bargo, es posible determinar el signo de la carga si al electroscopio se le da primero un
+tipo conocido de carga (neta). Por ejemplo, los electrones pueden transferirse al elec-
+troscopio desde un objeto negativamente cargado, como se ilustra en la 
+▼figura 15.5a.
+
++ +
++ ++
++
++
+a) Repelidos por la barra negativamente 
+    cargada, los electrones son transferidos 
+    a tierra a través de la mano.
+Tierra
+–
+–
+–
+–
+–
+–
+e–
+– –
++
+b) Al retirar primero el dedo y luego 
+    la barra, el electroscopio queda 
+    positivamente cargado.
+▼ FIGURA 15.6 Carga por inducción a) Al tocar el bulbo con un dedo se forma una 
+trayectoria hacia la tierra para la transferencia de carga. El símbolo e/H11002significa “electrón”.
+b) Cuando se retira el dedo, el electroscopio tiene una carga positiva neta, contraria 
+a la de la barra.
+15.2 Carga electrostática 511
+Los electrones en la varilla se repelen entre sí, y algunos serán transferidos hacia el
+electroscopio. Advierta que la hoja está ahora permanentemente separada de la pieza
+de metal. En este caso, decimos que el electroscopio se ha cargado por contacto o por
+conducción (figura 15.5b). “Conducción” se refiere al flujo de carga durante el corto
+periodo en que los electrones son transferidos.
+Si una varilla cargada negativamente se acerca al electroscopio, ahora con carga
+negativa, la hoja se separará aún más conforme más electrones son repelidos por 
+el bulbo (figura 15.5c). Una varilla con carga contraria (positiva) causará que la ho-
+ja se colapse al atraer algunos electrones al bulbo y alejarlos del área de la hoja (figu-
+ra 15.5d).
+Carga por inducción
+Usando una barra de caucho con carga negativa (cargada por fricción), cabe preguntar
+si es posible crear un electroscopio que esté positivamente cargado. La respuesta es sí, y
+hacerlo implica un proceso llamado carga por inducción. Comenzando con un electros-
+copio descargado, usted toca el bulbo con un dedo, lo que pone a tierra el electroscopio,
+esto es, ofrece una trayectoria por la cual los electrones pueden escapar del bulbo (
+▼fi-
+gura 15.6). Entonces, cuando una barra cargada negativamente se acerca al bulbo (pero
+sin tocarlo), la barra repele electrones del bulbo al dedo y hacia abajo a tierra (de ahí el
+término tierra). Retirar su dedo mientras la barra cargada se mantiene cerca, deja el electros-
+copio con una carga neta positiva. Esto se debe a que cuando se retira la barra, los elec-
+trones que viajan a la Tierra (es decir, al suelo) no tienen manera de regresar porque ha
+desaparecido el camino para ello.
+Separación de carga por polarización
+La carga por contacto y por inducción crean una carga neta mediante la remoción de 
+carga de un objeto. Sin embargo, es posible que la carga se mueva dentro del objetomien-
+tras la carga neta se mantiene en cero. En este caso, la inducción genera una polariza-
+ción, o separación de la carga positiva y negativa. Si el objeto no es puesto a tierra, se
+volverá eléctricamente neutro, pero tendrá cantidades de carga en ambos extremos igua-
+les pero de signo contrario. En esta situación, decimos que el objeto actúa como un dipo-
+lo eléctrico (véase la sección 15.4). En el nivel molecular, los dipolos eléctricos pueden ser
+permanentes; es decir, no necesitan tener cerca un objeto cargado para retener su separa-
+ción de carga. Un buen ejemplo de esto es la molécula de agua. Ejemplos tanto de dipo-
+los permanentes como de no permanentes, así como de las fuerzas que actúan sobre
+
+512 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+ellos se presentan en la ▲figura 15.7. Ahora seguramente comprende por qué cuando fro-
+ta un globo con un suéter, el globo puede quedar adherido a una pared. El globo se car-
+ga por fricción, y el hecho de acercarlo a la pared polariza esta última. La carga de signo
+contrario en la superficie más cercana de la pared crea una fuerza atractiva neta. 
+La carga electrostática en ocasiones resulta molesta —como cuando la adherencia
+estática ocasiona que la ropa y los papeles se adhieran entre sí— o incluso peligrosa 
+—como cuando las descargas de chispas electrostáticas inician un incendio o causan
+una explosión en presencia de gas inflamable—. Para descargar la carga eléctrica, mu-
+chos camiones llevan cadenas de metal que cuelgan del chasis para que entren en con-
+tacto con la tierra. En las estaciones de gas hay letreros que advierten que hay que
+llenar los tanques de gas mientras éstos se encuentran sobre el suelo, no sobre la plata-
+forma del camión ni sobre la superficie del portaequipaje del automóvil (¿por qué?).
+Sin embargo, las cargas electrostáticas también resultan benéficas. Por ejemplo, el
+aire que respiramos es más limpio gracias a los precipitadores electrostáticos usados
+en las chimeneas. En esos dispositivos, las descargas eléctricas hacen que las partículas
+(productos secundarios de la quema de combustible) adquieran una carga neta. Enton-
+ces es posible retirar las partículas cargadas de los gases atrayéndolas a superficies
+eléctricamente cargadas. En menor escala, los purificadores de aire electrostático son
+accesibles para el hogar. (Véase la sección Hechos de física.)
+15.3 Fuerza eléctrica
+OBJETIVOS: a) Comprender la ley de Coulomb y b) usarla para calcular la fuerza 
+eléctrica entre partículas cargadas.
+Sabemos que las direcciones de las fuerzas eléctricas sobre cargas que interactúan es-
+tán dadas por la ley carga-fuerza. Sin embargo, ¿qué sucede con sus magnitudes? Cou-
+lomb investigó esto y encontró que la magnitud de la fuerza eléctrica entre dos cargas
+“puntuales” (muy pequeñas) q
+1 y q2 depende directamente del producto de las cargas
+– – –
+– – –
+– +
+– +– +
++ –
++ –– +
+– + + –
+– +– +
+– +
++ 
++ 
+– – 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ – – – – 
+– – 
+– – 
+– – 
+– – 
+– – 
++ + 
++ 
++ 
++ 
++ 
++ 
++ – – 
++++++
+++––– ––––
+Dipolo molecular inducido
+Moléculas de agua
+permanentemente polares
+Molécula
+no polar
+ b)  c)
+La carga negativa
+orienta los dipolos
+– – –
+– – –
+– +
+– +– +
++ –
++ –– +
+– + + –
+– +– +
+– +
++ 
++ 
+– – 
++ 
++ 
++ 
++ 
++ 
++ 
++ 
++ – – – – 
+– – 
+– – 
+– – 
+– – 
+– – 
++ + 
++ 
++ 
++ 
++ 
++ 
++ – – 
++++++
+++––– ––––– 
+– 
+– – 
+– 
+– 
+– 
+– 
+– 
+– 
+– 
+Globo
+ a)
++ 
++ + 
++ 
++ 
++ 
++ 
+– 
+– 
+– 
+– 
+– 
+– – 
+Pared
+▲ FIGURA 15.7 Polarización a) Cuando los globos se cargan por fricción y se ponen en contacto con la pared, ésta se po-
+lariza. Esto es, se induce una carga de signo contrario sobre la superficie de la pared, a la que los globos se adhieren por la
+fuerza de la atracción electrostática. Los electrones en el globo no lo abandonan porque su material (el caucho) es un con-
+ductor deficiente. b) Algunas moléculas, como las del agua, son de naturaleza polar; esto es, tienen regiones separadas de
+carga positiva y negativa. Pero incluso algunas moléculas que no son normalmente de naturaleza dipolar pueden polari-
+zarse temporalmente por la presencia de un objeto cargado cercano. La fuerza eléctrica induce una separación de carga 
+y, en consecuencia, la aparición de dipolos moleculares temporales. c) Una corriente de agua se dobla hacia un globo 
+cargado. El globo cargado simplemente atrae los extremos de las moléculas de agua, haciendo que la corriente se doble.
+Ilustración 22.4 Carga de objetos y
+adherencia estática
+
+15.3 Fuerza eléctrica 513
+Nota: la ley de Coulomb da la
+fuerza eléctrica, pero sólo entre
+cargas puntuales, no entre 
+objetos con áreas cargadas 
+que se extienden.
+Nota: en los cálculos, considerare-
+mos que k es exactamente igual a
+9.00 /H11003109 N · m2/C2 para fines de
+control de cifras significativas.
+e inversamente del cuadrado de la distancia entre ellas. Esto es, ( q es la
+magnitud de la carga; por lo tanto, q1 significa la magnitud de q1.) Esta relación es ma-
+temáticamente similar a la de la fuerza gravitacional entre dos masas puntuales
+véase el capítulo 7.
+Igual que las mediciones de Cavendish para determinar la constante de la gravita-
+ción universal G (sección 7.5), las mediciones de Coulomb dieron una constante de pro-
+porcionalidad, k, de manera que la fuerza eléctrica puede escribirse en forma de ecuación.
+Así, la magnitud de la fuerza eléctrica entre dos cargas puntuales se describe mediante
+una ecuación llamada ley de Coulomb:
+(15.2)
+Aquí, r es la distancia entre las cargas ( ▲ figura 15.8a) y k es una constante con un va-
+lor de
+La ecuación 15.2 determina la fuerza entre dos partículas cargadas; pero, en mu-
+chos casos, tratamos con fuerzas entre más de dos cargas. En tal situación, la fuerza
+eléctrica neta sobre cualquier carga particular es la suma vectorial de las fuerzas sobre
+esa carga que provocan todas las otras cargas (figura 15.8b). Para hacer un repaso de la
+suma de vectores, utilizando fuerzas eléctricas, veremos los dos siguientes ejemplos.
+Ejemplo conceptual 15.2 ■ Libre de carga: fuerzas eléctricas
+Seguramente usted ha hecho esto. Al peinar el cabello seco con un peine de caucho, el pei-
+ne adquiere una carga neta negativa. Entonces, el peine cargado podrá usarse para atraer
+y recoger pequeños trozos de papel no cargado. Esto parecería violar la ley de la fuerza de
+Coulomb. Como el papel no tiene carga neta, cabría esperar que no hubiera fuerza eléc-
+trica sobre él. ¿Qué mecanismo de carga explica este fenómeno, y cómo lo explica? a) La
+conducción, b) la fricción o c) la polarización.
+Razonamiento y respuesta. Como el peine no toca al papel, éste no se carga por conduc-
+ción ni por fricción, porque estos dos mecanismos requieren del contacto. Entonces, la res-
+puesta correcta es la c. Cuando el peine cargado está cerca del papel, éste se polariza
+(
+Nfigura 15.9). La clave para entender la atracción es notar que los extremos cargados del
+papel no están a la misma distancia del peine. El extremo positivo del papel está más cerca
+del peineque el extremo negativo. Como la fuerza eléctrica disminuye con la distancia, la
+atracción entre el peine y el extremo positivo del papel es mayor que la repulsión
+entre el peine y el extremo negativo del papel. Por lo tanto, después de sumar estas
+dos fuerzas vectorialmente, encontramos que la fuerza neta sobre el papel apunta hacia el
+peine, y si el papel es suficientemente ligero, se acelera en esa dirección.
+Ejercicio de refuerzo. ¿El fenómeno antes descrito le indica el signo de la carga sobre el
+peine? Explique por qué.
+1F
+S
+22
+1F
+S
+12
+k = 8.988 * 109 N # m2>C2 L 9.00 * 109 N # m2>C2
+Fe =
+kq1
+ q2
+r2
+1Fg r m1
+ m2>r22;
+Fe r q1
+ q2>r2.
+r
+q1 q2
+F12  =  
+kq1q2
+r2
+q2
+q3
+r2
+r3
+q1
+F13  =  
+kq1q3
+ a)  b)
+Fneta = F1 = F12 + F13F21  =  
+kq1q2
+r2
+2r
+F12  =  
+kq1q2
+2
+2
+3
+r
+▲ FIGURA 15.8 La ley de Coulomb a) Las fuerzas electrostáticas que ejercen entre sí dos
+cargas puntuales son iguales y de signo contrario. b) Para una configuración de dos o 
+más cargas puntuales, la fuerza sobre una carga particular es la suma vectorial de las fuerzas
+sobre ella que provocan todas las demás cargas. (Nota: en cada una de esas situaciones, 
+todas las cargas son del mismo signo. ¿Cómo podemos decir que esto es cierto? ¿Puede
+decir cuáles son sus signos? ¿Cuál es la dirección de la fuerza sobre q
+2 que se debe a q3?)
+F2
+F1
++ + +
++– –
+–
+– –
++
+–
+–
+–– – – – – –
+–
+–– – – – – –– – – –– – – – – – ––
+▲ FIGURA 15.9 Peine y papel
+Véase el ejemplo conceptual 15.2.
+Ilustración 22.1 Carga y ley 
+de Coulomb
+Exploración 22.6 El guante 
+de Coulomb
+(sólo cargas puntuales, q significa
+magnitud de la carga)
+
+514 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+Ejemplo 15.3 ■ Ley de Coulomb: suma vectorial en relación 
+con la trigonometría
+a) Dos cargas puntuales de /H110021.0 nC y /H110012.0 nC están separadas 0.30 m ( ▲figura 15.10a).
+¿Cuál es la fuerza eléctrica sobre cada partícula? b) En la figura 15.10a se ilustra una con-
+figuración de tres cargas. ¿Cuál es la fuerza electrostática sobre q3?
+Razonamiento. Sumar fuerzas eléctricas no es diferente que sumar cualquier otro tipo de
+fuerzas. La única diferencia aquí es que usamos la ley de Coulomb para calcular sus mag-
+nitudes. Luego, sólo se trata de calcular componentes. a) Para las dos cargas puntuales,
+usamos la ley de Coulomb (ecuación 15.2), notando que las fuerzas son atractivas. (¿Por
+qué?) b) Aquí debemos usar componentes para sumar vectorialmente las dos fuerzas que
+actúan sobre q
+3 que se deben a q1 y q2. Podemos encontrar a partir de las distancias entre
+cargas. Este ángulo es necesario para calcular los componentes x y y de fuerza. (Véase la
+sugerencia para resolver problemas en la p. 515.)
+Solución. Se listan los datos y se convierten nanocoulombs a coulombs:
+Dado: a) Encuentre: a) y 
+b) Los datos aparecen en la figura 15.10b. Convertimos 
+las cargas a coulombs como en a.
+a) La ecuación 15.2 da la magnitud de la fuerza que actúa sobre cada carga puntual:
+Observe que la ley de Coulomb da sólo la magnitud de la fuerza. Sin embargo, como las
+cargas son de signo contrario, las fuerzas deben ser atractivas entre sí como es ilustra en
+la figura 15.10a.
+b) Las fuerzas y deben sumarse vectorialmente, usando trigonometría y los com-
+ponentes, para encontrar la fuerza neta. Como todas las cargas son positivas, las fuerzas
+son repulsivas, como se ilustra en el diagrama vectorial de la figura 15.10b. Como q
+1 /H11005q2
+y las cargas son equidistantes de q3, se infiere que y tienen igual magnitud.
+Note en la figura que r31 /H11005r32 /H110050.50 m. (¿Por qué?) Con datos de la figura, usamos
+de nuevo la ecuación 15.2:
+Tomando en cuenta las direcciones de y , vemos por simetría que los compo-
+nentes y de los vectores se cancelan. Así, (la fuerza neta sobre la carga q3) actúa a lo lar-
+go del eje x positivo y tiene una magnitud de
+F3 = F31x + F32x = 2 F31x
+F
+S
+3
+F
+S
+32F
+S
+31
+ = 0.27 * 10-6 N = 0.27 mN
+ F32 =
+kq2
+ q3
+r32
+2 =
+19.00 * 109 N # m2>C2212.5 * 10-9 C213.0 * 10-9 C2
+10.50 m22
+F
+S
+32F
+S
+31
+F
+S
+32F
+S
+31
+ = 0.20 * 10-6 N = 0.20 mN
+ F12 = F21 =
+kq1
+ q2
+r2 =
+19.00 * 109 N # m2>C2211.0 * 10-9 C212.0 * 10-9 C2
+10.30 m22
+ r = 0.30 m
+ q2 =+ (2.0 nC)¢ 10-9 C
+1 nC≤ =+ 2.0 * 10-9 C
+F
+S
+21F
+S
+12 q1 =- (1.0 nC)¢ 10-9 C
+1 nC≤ =- 1.0 * 10-9 C
+u
+ a)
+F12 F21
+q1 = –1.0 nC q2 = +2.0 nC
+0.30 m
+y
+q2 = +2.5 nC
+q1 = +2.5 nC
+(0, 0.30 m)
+(0, –0.30 m)
+r31
+r32
+x
+y
+F32
+F31
+q3
+ b)
+q3 = +3.0 nC
+(0.40 m, 0)
+Diagrama vectorial
+x
+Fneta = F3
+▲ FIGURA 15.10 Ley de Coulomb 
+y fuerzas electrostáticas Véase el
+ejemplo 15.3.
+b) F
+S
+3
+Exploración 22.4 Simetría de dipolos
+Exploración 22.1 Equilibrio
+
+15.3 Fuerza eléctrica 515
+ya que
+El ángulo se determina a partir de los triángulos; esto es, 37°.
+Entonces, tiene una magnitud de
+y actúa en la dirección x positiva (hacia la derecha).
+Ejercicio de refuerzo. En el inciso b de este ejemplo, calcule la fuerza sobre q1.
+Las magnitudes de las cargas en el ejemplo 15.3 son típicas de cargas estáticas producidas
+por frotamiento; esto es, son diminutas. Así, las fuerzas implicadas son muy pequeñas para
+los estándares diarios, mucho más pequeñas que cualquier fuerza que hayamos estudiado
+hasta ahora. Sin embargo, en la escala atómica, incluso las fuerzas diminutas son capaces de
+producir enormes aceleraciones, porque las partículas (como los electrones y protones) tie-
+nen masas extremadamente pequeñas. Considere las respuestas en el ejemplo 15.4 en com-
+paración con las respuestas en el ejemplo 15.3.
+Sugerencia para resolver problemas 
+Los signos de las cargas pueden usarse explícitamente en la ecuación 15.2 con un va-
+lor positivo para F, para indicar una fuerza repulsiva, y un valor negativo para una
+fuerza atractiva. Sin embargo, tal enfoque no se recomienda , porque esta convención de
+signo sólo es útil en el caso de fuerzas unidimensionales, es decir, aquellas que tienen
+un solo componente, como en el ejemplo 15.3a. Cuando las fuerzas son bidimensio-
+nales, y tienen más de un componente, la ecuación 15.2 se usa para calcular la magni-
+tud de la fuerza, considerando sólo la magnitud de las cargas (como en el ejemplo
+15.3b). La ley de carga-fuerza se usa entonces para determinar la dirección de la fuerza
+entre cada par de cargas. (Elabore un bosquejo y marque en él los ángulos.) Finalmen-
+te calcule cada componente de fuerza usando trigonometría y combínelos apropiada-
+mente. Este último enfoque será el que usaremos en este libro.
+Ejemplo 15.4 ■ Dentro del núcleo: fuerzas electrostáticas repulsivas
+a) ¿Cuál es la magnitud de la fuerza electrostática repulsiva entre dos protones en un 
+núcleo? Considere la distancia de centro a centro de los protones nucleares igual a 3.0 /H11003
+10/H1100215 m. b) Si los protones se liberan del reposo, ¿cuál es la magnitud de su aceleración ini-
+cial con respecto a la aceleración de la gravedad sobre la superficie de la Tierra, g?
+Razonamiento. a) Debemos aplicar la ley de Coulomb para encontrar la fuerza repulsiva.
+b) Para encontrar la aceleración inicial, usamos la segunda ley de Newton (Fneta /H11005ma).
+Solución. Con las cantidades conocidas, tenemos lo siguiente:
+Dado: Encuentre: a) Fe (magnitud de la 
+(de la tabla 15.1)
+(de la tabla 15.1)
+a) Usando la ley de Coulomb (ecuación 15.2), tenemos
+Esta fuerza es mucho mayor que la del ejemplo anterior y es equivalente al peso de un ob-
+jeto con una masa de aproximadamente 2.5 kg. Entonces, con su pequeña masa, espera-
+mos que el protón experimente una enorme aceleración.
+b) Si esta fuerza actuara sola sobre un protón, produciría una aceleración de
+Entonces
+a
+g =
+1.53 * 1028 m>s2
+9.8 m>s2 = 1.56 * 1027
+a = Fe
+mp
+= 25.6 N
+1.67 * 10-27 kg = 1.53 * 1028 m>s2
+Fe =
+kq1
+ q2
+r2 =
+19.00 * 109 N # m2>C2211.60 * 10-19 C211.60 * 10-19 C2
+13.00 * 10-15 m22 = 25.6 N
+ mp = 1.67 * 10-27 kg
+ q1 = q2 =+ 1.60 * 10-19 C
+Fe r = 3.00 * 10-15 m
+F
+S
+1
+ = 210.27 mN2 cos 37° = 0.43 mN
+ F3 = 2 F31x = 2 F32 cos u
+F
+S
+3
+=tan-1a 0.30 m
+0.40 mb=uu
+F31 = F32 .
+(continúa en la siguiente página)
+b) (magnitud de la ace-
+leración compara- 
+da con g)
+a
+g
+fuerza)
+
+516 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+Esto es, El factor de 10 27 es enorme. Para tener idea de qué tan grande es, si un
+átomo de uranio estuviera sujeto a esta aceleración, la fuerza neta requerida sería más o
+menos la misma que el peso de un oso polar (¡unos 450 kg!).
+La mayoría de los átomos contienen más de dos protones en su núcleo. Con esas
+enormes fuerzas repulsivas, usted podría esperar que los núcleos se separaran. Como es-
+to por lo general no ocurre, debe haber una fuerza atractiva más intensa que mantenga al
+núcleo unido. Ésta es la fuerza nuclear (o fuerte).
+Ejercicio de refuerzo. Suponga que usted puede anclar un protón al suelo y que desea co-
+locar otro directamente arriba del primero de manera que el segundo protón esté en equi-
+librio (esto es, que la fuerza de repulsión eléctrica que actúa sobre el segundo protón
+equilibre su peso). ¿Qué tan lejos deben estar uno de otro los protones?
+Aunque hay una sorprendente similitud entre la forma matemática de las expre-
+siones para las fuerzas eléctrica y gravitacional, hay una diferencia enorme en las in-
+tensidades relativas de las dos fuerzas, como se muestra en el siguiente ejemplo.
+Ejemplo 15.5 ■ Dentro del átomo: fuerza eléctrica versus fuerza 
+gravitacional
+Determine la razón de la fuerza eléctrica y gravitacional entre un protón y un electrón. En
+otras palabras, ¿cuántas veces es mayor la fuerza eléctrica que la fuerza gravitacional?
+Razonamiento. La distancia entre el protón y el electrón no se conoce. Sin embargo, la fuer-
+za eléctrica y la fuerza gravitacional varían como el cuadrado inverso de la distancia, por lo
+que la distancia se cancela en una razón. Usando la ley de Coulomb y la ley de la gravita-
+ción de Newton (capítulo 7), es posible determinar la razón si se conocen las cargas, las ma-
+sas y las constantes eléctrica y gravitacional apropiadas.
+Solución. Se conocen las cargas y masas de las partículas (tabla 15.1), así como la constan-
+te eléctrica k y la constante gravitacional universal G.
+Dado: Encuentre: (razón de fuerzas)
+Las expresiones para las fuerzas son
+Formando una razón de magnitudes para fines de comparación (y para cancelar r) se ob-
+tiene
+o
+La magnitud de la fuerza electrostática entre un protón y un electrón es más de 10 39 ve-
+ces mayor que la magnitud de la fuerza gravitacional. Mientras que un factor de 10 39 es
+incomprensible para la mayoría, debería ser perfectamente claro que por este enorme va-
+lor, la fuerza gravitacional entre partículas cargadas generalmente se ignora en nuestro
+estudio de la electrostática.
+Ejercicio de refuerzo. Con respecto a este ejemplo, demuestre que la gravedad es aún
+más insignificante comparada con la fuerza eléctrica repulsiva entre dos electrones. Expli-
+que por qué esto es así.
+Fe =12.27 * 10392Fg
+ =
+19.00 * 109 N # m2>C2211.60 * 10-19 C22
+16.67 * 10-11 N # m2>kg2219.11 * 10-31 kg211.67 * 10-27 kg2 = 2.27 * 1039
+ Fe
+Fg
+=
+kqe
+ qp
+Gme
+ mp
+Fe =
+kqe
+ qp
+r2  y Fg =
+Gme
+ mp
+r2
+ mp = 1.67 * 10-27 kg
+ me = 9.11 * 10-31 kg
+ qp =+ 1.60 * 10-19 C
+Fe
+Fg
+ qe =- 1.60 * 10-19 C
+a L 1027 g.
+
+q/H11001
+E
+/H11001/H11001
+/H11001/H11001/H11001/H11001
+/H11001
+/H11001
+/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001
+/H11001
+/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001
+/H11001
+/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002
+/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002
+/H11002
+/H11001
+▲ FIGURA 15.11 Dirección del
+campo eléctrico Por convención,
+la dirección del campo eléctrico 
+es la misma que la de la fuerza que 
+experimenta por una carga de 
+prueba imaginaria (positiva). Para
+ver la dirección, hay que preguntarse
+en qué dirección se acelera la carga
+de prueba si se libera. Aquí, el 
+“sistema de cargas” produce un
+campo eléctrico (neto) hacia arriba
+y hacia la derecha en el lugar de la
+carga de prueba. En esta configura-
+ción particular, ¿podría explicar es-
+ta dirección observando los signos y
+lugares de las cargas en el sistema?
+E
+S
+15.4 Campo eléctrico 517
+Nota: las cargas generan un
+campo eléctrico, que actúa sobre
+otras cargas colocadas en ese
+campo.
+Nota: una carga de prueba 
+es pequeña y positiva.
+(q+)
+15.4 Campo eléctrico
+OBJETIVOS: a) Comprender la definición del campo eléctrico y b) trazar líneas de 
+campo eléctrico y calcular campos eléctricos para distribuciones
+simples de carga.
+La fuerza eléctrica, como la fuerza gravitacional, es una fuerza con “acción a distan-
+cia”. Como el rango de la fuerza eléctrica es infinito ( y tiende a cero sólo si r
+tiende a infinito), una configuración particular de cargas tendrá un efecto sobre una
+carga adicional colocada en cualquier parte cercana.
+La idea de una fuerza que actúa a través del espacio fue difícil de aceptar por los
+primeros investigadores, y entonces se introdujo el concepto más moderno de campo de
+fuerza o simplemente campo. Un campo eléctrico se concibe como rodeando todo con-
+junto de cargas. Así, el campo eléctrico representa el efecto físico de una configuración
+particular de cargas sobre el espacio cercano. El campo es la manera de representar lo
+que es diferente acerca del espacio cercano por la presencia de las cargas. El concepto
+nos permite pensar en cargas que interactúan con el campo eléctrico creado por otras
+cargas, y no directamente con otras cargas “a cierta distancia”. La idea central del con-
+cepto del campo eléctrico es la siguiente: una configuración de cargas crea un campo
+eléctrico en el espacio cercano. Si en este campo eléctrico se coloca otra carga, el campo
+ejercerá una fuerza eléctrica sobre ella. Por lo tanto:
+Las cargas crean campos, y éstos, a su vez, ejercen fuerzas sobre otras cargas.
+Un campo eléctrico es un campo vectorial (tiene dirección y magnitud), lo que nos
+permite determinar la fuerza ejercida (incluida la dirección) sobre una carga en una po-
+sición particular en el espacio. Sin embargo, el campo eléctrico no es una fuerza. La magnitud
+(o intensidad) del campo eléctrico se define como la fuerza ejercida por carga unitaria.
+Determinar la fuerza de un campo eléctrico puede imaginarse teóricamente utilizando el
+siguiente procedimiento. Coloque una pequeña carga (llamada carga de prueba) en un
+punto de interés. Mida la fuerza que actúa sobre la carga de prueba, divida por la canti-
+dad de carga, y encuentre así la fuerza que se ejercería por coulomb. Luego imagine que se
+retira la carga de prueba. La fuerza desaparece (¿por qué?), pero el campo permanece,
+porque es generado por las cargas cercanas, que permanecen. Cuando el campo eléctri-
+co se determina en muchos puntos, tenemos un “mapa” de la fuerza de campo eléctrico,
+pero no de su dirección. Así que la descripción es incompleta.
+Puesto que la dirección del campo eléctrico se especifica mediante la dirección de
+la fuerza sobre la carga de prueba, depende de si la carga de prueba es positiva o nega-
+tiva. La convención de signos es que se usa una carga de prueba positiva para medir
+la dirección del campo eléctrico (véase la Nfigura 15.11). Esto es,
+La dirección del campo eléctrico es en la dirección de la fuerza que experimen-
+ta una carga de prueba positiva.
+Una vez que se conocen la magnitud y dirección del campo eléctrico que genera
+una configuración de cargas, es posible ignorar las cargas “fuente” y hablar sólo en tér-
+minos del campo que éstas han generado. Este procedimiento de visualizar las interac-
+ciones eléctricas entre las cargas a menudo facilita los cálculos.
+El campo eléctrico en cualquier punto se define como sigue
+(15.3)
+Unidad SI del campo eléctrico: newton/coulomb (N/C)
+La dirección de es en la dirección de la fuerza sobre una pequeña carga de prueba po-
+sitiva en ese punto.
+Para el caso especial de una carga puntual, podemos usar la ley de fuerza de Cou-
+lomb. Para determinar la magnitud del campo eléctrico que se debe a una carga pun-
+tual a una distancia r de esa carga puntual, se utiliza la ecuación 15.3: 
+E =
+Fen q+
+q+
+=
+1kqq+>r22
+q+
+=
+kq
+r2
+E
+S
+E
+S
+=
+F
+S
+en q+
+q+
+E
+S
+1q+2
+Fe r 1>r2
+Exploración 23.1 Campos y cargas 
+de prueba
+
+518 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
++
+/g107/g113
+a) Vectores del campo eléctrico
+/g1142E =
++
+Cuanto más cercanas 
+estén entre sí las líneas 
+de fuerza, más intenso 
+es el campo 
+b) Líneas del campo eléctrico (líneas de fuerza)
+▲ FIGURA 15.12 Campo eléctrico a) El campo eléctrico se aleja de una carga puntual positi-
+va, en el sentido en que una fuerza sería ejercida sobre una pequeña carga de prueba positiva.
+La magnitud del campo (la longitud de los vectores) disminuye conforme aumenta la distan-
+cia desde la carga, lo que refleja la relación de distancia de cuadrado inverso, característica
+del campo producido por una carga puntual. b) En este caso simple, los vectores se conectan
+fácilmente para dar un patrón de líneas de campo eléctrico de una carga puntual positiva.
+APRENDER DIBUJANDO
+E2
+E1
++
+=
+q1
+q2 = –2q1
+E
+P
+Uso del principio de superposición para determinar
+la dirección del campo eléctrico
+Para determinar la dirección del campo eléctrico en cualquier
+punto P , simplemente dibuje los vector de los campos eléctri-
+cos individuales y súmelos, tomando en cuenta sus magnitu-
+des relativas, si es posible. En la situación específica mostrada
+aquí, es mucho más pequeño que por los factores de
+distancia y carga. ¿Puede explicar por qué si se dibuja
+con precisión, sería aproximadamente ocho veces más lar-
+go que El paso final sería completar la suma vectorial.
+E
+S
+1
+ ?
+E
+S
+2 ,
+E
+S
+2E
+S
+1
+Nota: considere que la definición
+del campo eléctrico es útil de la
+misma manera en que el precio
+por libra lo es para los artículos
+comestibles. Si se sabe cuánto
+se quiere de un artículo, es 
+posible calcular cuánto costará 
+si se conoce el precio por libra.
+De forma similar, dada la magni-
+tud de una carga colocada en 
+un campo eléctrico, es posible 
+calcular la fuerza sobre ella si se
+conoce la intensidad del campo
+en newtons por coulomb.
+Esto es,
+(15.4)
+Es importante notar que en la obtención de la ecuación 15.4, q/H11001se cancela. Esto debe
+suceder siempre, porque el campo es producido por las otras cargas, no por la carga de
+prueba q/H11001.
+Algunos vectores de campo eléctrico en la vecindad de una carga positiva se ilus-
+tran en la ▲figura 15.12a. Note que sus direcciones están alejándose de la carga positiva ,
+porque una carga de prueba positiva sentiría una fuerza en esta dirección. Advierta
+también que la magnitud del campo (la longitud de la fecha) disminuye conforme la
+distancia r aumenta.
+Si hay más de una carga generando un campo eléctrico, entonces el campo eléctri-
+co total o neto en cualquier punto se encuentra usando el principio de superposición
+para campos eléctricos, que se enuncia como sigue.
+Para una configuración de cargas, el campo eléctrico total o neto en cualquier
+punto es la suma vectorial de los campos eléctricos que se deben a las cargas
+individuales.
+El uso de este principio se ilustra en los siguientes dos ejemplos, y una manera de
+determinar cualitativamente la dirección del campo eléctrico de un grupo de cargas se
+muestra en la sección Aprender dibujando referente al uso del principio de superposi-
+ción para determinar la dirección del campo eléctrico.
+E =
+kq
+r2
+Ilustración 23.2 Campos eléctricos
+desde cargas puntuales
+(magnitud del campo eléctrico
+provocado por la carga puntual q)
+
+15.4 Campo eléctrico 519
+00 .10 0 .20 0 .30 0 .40 0 .50 0 .60
+q1 = +1.5 mC q2 = +6.0 mC
+x (m)++
+¿En dónde /g69 = 0?
+▲ FIGURA 15.13 Campo eléctrico
+en una dimensión Véase el 
+ejemplo 15.6.
+Nota: campo eléctrico total:
+E
+S
+=© E
+S
+i
+ .
+Ejemplo 15.6 ■ Campos eléctricos en una dimensión: campo 
+cero por superposición
+Dos cargas puntuales se encuentran sobre el eje x, como se ilustra en la Nfigura 15.13.
+Identifique todos los lugares en el eje donde el campo eléctrico es cero.
+Razonamiento. Cada carga puntual genera su propio campo. Por el principio de superpo-
+sición, el campo eléctrico es la suma vectorial de los dos campos. Estamos buscando los
+lugares donde estos campos son iguales pero opuestos, de manera que se cancelen y den
+un campo eléctrico (total o neto) de cero.
+Solución. Comenzamos por especificar el lugar a localizar como una distancia x a partir
+de q1 (que se ubica en x /H110050) y por convertir las cargas de microcoulombs a coulombs, co-
+mo es costumbre.
+Dado: (distancia entre las cargas) Encontrar: x [el lugar o lugares  
+donde E es cero]
+Como ambas cargas son positivas, sus campos apuntan hacia la derecha en todos los luga-
+res a la derecha de q2. Por consiguiente, los campos no se cancelan en esa región. De mane-
+ra similar, a la izquierda de q1, ambos campos apuntan hacia la izquierda y no se cancelan.
+La única posibilidad de cancelación se da entre las cargas. En esa región, los dos campos se
+cancelarán si sus magnitudes son iguales, porque están en direcciones opuestas. Al igualar
+las magnitudes y despejar x:
+Al reordenar esta expresión y cancelar la constante k, se obtiene
+Con q2/q1 /H110054, se saca la raíz cuadrada de ambos lados:
+Al resolver, x /H11005d/3 /H110050.60 m/3 /H110050.20 m. (¿Por qué no utilizamos la raíz cuadrada ne-
+gativa? Inténtelo.) El hecho de que el resultado esté más cerca de q1 tiene sentido desde el
+punto de vista físico. Como q2 es la carga más grande, para que los dos campos sean igua-
+les en magnitud, el lugar debe estar más cerca de q1.
+Ejercicio de refuerzo. Repita este ejemplo, cambiando el signo de la carga de la derecha.
+Ejemplo integrado 15.7 ■ Campos eléctricos en dos dimensiones:
+uso de componentes vectoriales 
+y superposición
+La ▼figura 15.14a muestra una configuración de tres cargas puntuales. a) ¿En qué cua-
+drante está el campo eléctrico? 1) en el primer cuadrante, 2) en el segundo cuadrante o 
+3) en el tercer cuadrante. Explique su razonamiento, usando el principio de superposi-
+ción. b) Calcule la magnitud y dirección del campo eléctrico en el origen que se debe a es-
+ta configuración de cargas.
+A
+1
+x2 = A
+q2>q1
+1d - x22 = A
+4
+1d - x22 o 1
+x = 2
+d - x
+1
+x2 =
+1q2>q12
+1d - x22
+E1 = E2 o 
+kq1
+x2 =
+kq2
+1d - x22
+ q2 =+ 6.0 mC =+ 6.0 * 10-6 C
+ q1 =+ 1.5 mC =+ 1.5 * 10-6 C
+ d = 0.60 m
+ a)  b)
+y (m)
+x (m)
+E3
+E1
+4.00
+–5 .00 0 0
+3.50
+q2 = +2.00 mC q1 = –1.00 mC
+q3 = –1.50 mC y
+E2
+x
+EEy
+Ex
+θ
+> FIGURA 15.14 Determinación 
+del campo eléctrico Véase 
+el Ejemplo integrado 15.7.
+(continúa en la siguiente página)
+
+520 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+a) Razonamiento conceptual. En general, el campo eléctrico apunta hacia cargas puntuales
+negativas y desde cargas puntuales positivas. Por lo tanto, y apuntan en el sentido x
+positivo y apunta a lo largo del eje y positivo. Como el campo eléctrico es la suma de
+esos vectores, sus dos componentes son positivos. Por lo tanto, debe estar en el primer
+cuadrante (figura 15.14b). Así, la respuesta correcta es la 1.
+b) Razonamiento cuantitativo y solución.Las direcciones de los campos eléctricos individua-
+les se muestran en el inciso a. De acuerdo con el principio de superposición, se requiere su-
+mar los campos vectorialmente para encontrar el campo eléctrico
+Al listar los datos y convertir las cargas a coulombs, tenemos:
+Dado: Encuentre: (campo eléctrico total en el 
+origen)
+A partir del diagrama, Ey se debe enteramente a y E x es la suma de las magnitudes de
+y Para calcular las magnitudes de los tres campos que forman el campo total, se em-
+plea la ecuación 15.4. Estas magnitudes son
+Las magnitudes de los componentes x y y del campo total son
+y
+En forma de componentes,
+Usted debería demostrar que, en forma magnitud-ángulo, esto es
+(/H9258está en el primer cuadrante respecto al eje x positivo)
+Ejercicio de refuerzo. En este ejemplo, suponga que q1 se movió al origen. Encuentre el
+campo eléctrico en su posición anterior.
+Líneas eléctricas de fuerza
+Una manera conveniente de representar gráficamente el patrón del campo eléctrico es
+usando líneas eléctricas de fuerza o líneas de campo eléctrico. Para comenzar, considere
+los vectores de campo eléctrico cerca de una carga puntual positiva, como en la figura
+15.12a. Los vectores están “conectados” en la figura 15.12b. Esto permite construir el pa-
+trón de las líneas de campo eléctricogenerado por una carga puntual. Observe que el cam-
+po eléctrico es más intenso (su separación disminuye) conforme nos acercamos a la
+carga. También note que en cualquier punto sobre una línea de campo, la dirección del
+campo eléctrico es tangente a la línea. (Las líneas por lo regular tienen flechas unidas a
+ellas que indican la dirección general del campo.) Debe quedar claro que las líneas de
+campo eléctrico no pueden cruzarse. Si lo hicieran, esto significaría que en el lugar 
+de cruce habría dos direcciones para la fuerza sobre una carga colocada ahí, lo cual se-
+ría un resultado no razonable desde el punto de vista de la física.
+E = 1.69 * 103 N>C en  u = 30.0°
+E
+S
+= ExxN + EyyN =11.46 * 103 N>C2xN +18.44 * 102 N>C2yN
+Ey = E3 =+ 8.44 * 102 N>C
+Ex = E1 + E2 =+ 7.35 * 102 N>C + 7.20 * 102 N>C =+ 1.46 * 103 N>C
+ E3 =
+kq3
+r3
+2 =
+19.00 * 109 N # m2>C2211.50 * 10-6 C2
+14.00 m22 = 8.44 * 102 N>C
+ E2 =
+kq2
+r2
+2 =
+19.00 * 109 N # m2>C2212.00 * 10-6 C2
+15.00 m22 = 7.20 * 102 N>C
+ E1 =
+kq1
+r1
+2 =
+19.00 * 109 N # m2>C2211.00 * 10-6 C2
+13.50 m22 = 7.35 * 102 N>C
+E
+S
+2 .E
+S
+1
+E
+S
+3
+ r3 = 4.00 m
+ r2 = 5.00 m
+ r1 = 3.50 m
+ q3 =- 1.50 mC =- 1.50 * 10-6 C
+ q2 =+ 2.00 mC =+ 2.00 * 10-6 C
+E
+S
+ q1 =- 1.00 mC =- 1.00 * 10-6 C
+E
+S
+32.+E
+S
+1 + E
+S
+2=1E
+S
+E
+S
+E
+S
+3
+E
+S
+2E
+S
+1
+Ilustración 23.3 Representación 
+de líneas de campo de campos 
+vectoriales
+
+15.4 Campo eléctrico 521
+Las reglas generales para dibujar e interpretar líneas de campo eléctrico son las si-
+guientes:
+1. Cuanto más cerca están las líneas de campo, más intenso es el campo eléctrico.
+2. En cualquier punto, la dirección del campo eléctrico es tangente a las líneas de
+campo.
+3. Las líneas de campo eléctrico empiezan en cargas positivas y terminan en cargas
+negativas.
+4. El número de líneas que salen o entran a una carga es proporcional a la magnitud
+de ésta.
+5. Las líneas de campo eléctrico nunca se cruzan.
+Estas reglas nos permiten hacer un “mapa” del patrón de líneas eléctricas de fuerza
+para varias configuraciones de carga. (Véase la sección Aprender dibujando referente
+al trazado de líneas eléctricas de fuerza en esta página.)
+Apliquemos ahora esas reglas y el principio de superposición para hacer un mapa
+del patrón de líneas de campo eléctrico que genera un dipolo eléctrico en el ejemplo 15.8.
+Un dipolo eléctrico consiste en dos cargas eléctricas (o “polos”, como se conocían an-
+teriormente), iguales pero de signo contrario. Si bien la carga neta sobre el dipolo es ce-
+ro, éste genera un campo eléctrico porque las cargas están separadas. Si no estuvieran
+separadas, sus campos se cancelarían en todos los lugares.
+Además de aprender cómo determinar las líneas de campo eléctrico, es importan-
+te estudiar los dipolos, porque se presentan en la naturaleza. Por ejemplo, los dipolos
+eléctricos sirven como un modelo para las moléculas polarizadas importantes, como la
+molécula de agua. (Véase la figura 15.7.) También consulte la sección A fondo 15.2 so-
+bre los campos eléctricos en las fuerzas policiacas y en la naturaleza: armas paralizan-
+tes y peces eléctricos, en la p. 524.
+Ejemplo 15.8 ■ Construcción del patrón del campo eléctrico 
+de un dipolo
+Usando el principio de superposición y las reglas de las líneas de campo eléctrico, cons-
+truya una línea típica de campo eléctrico para un dipolo eléctrico.
+Razonamiento. La construcción implica la suma vectorial de los campos eléctricos indivi-
+duales desde los dos extremos opuestos del dipolo.
+Solución.
+Dado: un dipolo eléctrico de dos Encuentre: una línea típica de campo
+cargas iguales y opuestas eléctrico
+separadas una distancia d
+En la figura 
+▼ 15.15a se ilustra un dipolo eléctrico. Para seguirle la pista a los dos campos,
+llamemos a la carga positiva q/H11001y a la carga negativa q/H11002. Sus campos individuales, y
+se designarán con los mismos subíndices.
+Como los campos eléctricos (y también las líneas de campo) comienzan en cargas po-
+sitivas, comencemos en el punto A, cerca de la carga q/H11001. Como este punto está mucho más
+cerca de q/H11001, se infiere que E/H11001/H11022E/H11002. Sabemos que siempre apunta alejándose de q+ y que
+siempre apunta hacia q/H11002. Tomando esto en cuenta, estamos en condiciones de dibujar
+cualitativamente los dos campos en A. El método del paralelogramo determina su suma
+vectorial: el campo eléctrico en A.
+Como tratamos de hacer un mapa de la línea de campo eléctrico, la dirección general
+del campo eléctrico en A señala aproximadamente a nuestro nuevo punto, B. En B, se tie-
+ne una magnitud reducida (¿por qué?) y un ligero cambio direccional tanto en como en
+Por ahora usted debería ver cómo se determinan los campos en C y en D. El punto D
+es especial porque está sobre la bisectriz perpendicular del eje dipolar (la línea que conec-
+ta las dos cargas). El campo eléctrico apunta hacia abajo en cualquier parte sobre esta lí-
+nea. Usted debe continuar la construcción en los puntos E, F y G.
+Por último, para construir la línea de campo eléctrico, comencemos en el extremo po-
+sitivo del dipolo, porque las líneas de campo salen de ese extremo. Como los vectores de
+campo eléctrico son tangentes a las líneas de campo, dibujamos la línea para satisfacer es-
+te requisito. [Usted debe poder trazar las otras líneas y comprender el patrón completo
+del campo dipolar que se ilustra en la figura 15.15b.]
+Ejercicio de refuerzo. Usando los procedimientos de este ejemplo, construya las líneas de
+campo que comienzan a) justo arriba de la carga positiva, b) justo abajo de la carga negati-
+va y c) justo abajo de la carga positiva.
+E
+S
+- .
+E
+S
++
+E
+S
+-
+E
+S
++
+E
+S
+- ,
+E
+S
++
+APRENDER DIBUJANDO
+Trazado de líneas
+eléctricas de fuerza
+¿Cuántas líneas deberían dibujarse
+para y cuáles deberían ser sus
+direcciones?
+-1
+ 
+1
+2 q,
++q
+1
+2– q
+1
+2– q1
++
+–
+–
+Trazo de líneas eléctricas de fuerza
+Exploración 23.2 Líneas de campo y
+trayectorias
+Nota: recuerde que el nombre
+“líneas eléctricas de fuerza” es un
+término equivocado. Estas líneas
+de campo representan el campo
+eléctrico, no la fuerza eléctrica.
+
++++++++++
++++ + ++ + + + + ++ + + +
+–––––––––– – – –––
+–––– –––––– –– –––
+a)
+ b)
+c)
+E
+E
+E
+E
+E
+N FIGURA 15.16 Campo eléctrico
+provocado por placas paralelas
+muy grandes a) Sobre una placa car-
+gada positivamente, el campo eléctri-
+co neto apunta hacia arriba. Aquí, los
+componentes horizontales de los
+campos eléctricos de varios 
+lugares sobre la placa se cancelan. De-
+bajo de la placa, apunta hacia abajo.
+b) Para una placa con carga negativa,
+el sentido del campo eléctrico (mos-
+trado en ambos lados de la placa) se
+invierte. c) La superposición de los
+campos de ambas placas da por resul-
+tado una cancelación fuera de las pla-
+cas y en un campo aproximadamente
+uniforme entre ellas.
+E
+S
+522 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+ b) a)
++
+–
++
+–
+q+
+d
+E+
+E+
+E+
+EA EB
+EC
+ED
+EE
+EFEG
+E–
+E–
+A B
+C
+D
+E
+F
+G
+q–
+E–
+E–
+E+
+N FIGURA 15.15 Mapa del campo
+eléctrico provocado por un dipolo
+a) Se muestra la construcción de
+una línea de campo eléctrico de un
+dipolo. El campo eléctrico es la 
+suma vectorial de los dos campos
+producidos por los dos extremos
+del dipolo. (Véase el ejemplo 15.8
+para más detalles.) b) El campo total
+del dipolo eléctrico se determina 
+siguiendo el procedimiento del 
+inciso a en otros puntos cerca
+del dipolo.
+La ▼ figura 15.16a muestra el uso del principio de superposición para construir las
+líneas de campo eléctrico que genera una sola placa grande cargada. Note que el cam-
+po apunta perpendicularmente alejándose de la placa en ambos lados. La figura 15.16b
+muestra el resultado si la placa tiene carga negativa, la única diferencia es la dirección
+del campo. Ahora estamos en condiciones de encontrar el campo entre dos placas con
+cargas espaciadas y contrarias. El resultado es el patrón de la figura 15.16c. A causa de
+la cancelación de los componentes horizontales del campo (mientras nos mantenemos
+alejados de las orillas de la placa), el campo eléctrico es uniforme y apunta de la carga
+positiva a la negativa. (Piense en la dirección de la fuerza que actúa sobre una carga de
+prueba positiva colocada entre las placas.)
+La obtención de la expresión matemática para la magnitud del campo eléctrico en-
+tre dos placas está más allá del alcance de este libro. Sin embargo, el resultado es
+(campo eléctrico entre placas paralelas) (15.5)
+donde Q es la magnitud de la carga total sobre una de las placas y A es el área de una pla-
+ca. Las placas paralelas son comunes en aplicaciones electrónicas. Por ejemplo, en el capí-
+tulo 16 veremos que un importante elemento de los circuitos eléctricos es un dispositivo
+llamado condensador (o capacitor), que, en su forma más simple, es precisamente un con-
+junto de placas paralelas. Los condensadores juegan un papel crucial en dispositivos que
+salvan vidas, tales como los desfibriladores del corazón, como veremos en el capítulo 16.
+Los relámpagos que van de una nube a la tierra se consideran aproximadamente
+co-mo un sistema de placas paralelas muy cercanas entre sí como en el siguiente ejem-
+plo. (Véase la sección A fondo sobre el tema de relámpagos y pararrayos en la siguien-
+te página.)
+E = 4pkQ
+A
+
+15.4 Campo eléctrico 523
+15.1 Relámpagos y pararrayos
+Aunque la liberación violenta de energía eléctrica en forma de re-
+lámpagos es un suceso común, aún tenemos mucho que aprender
+acerca de cómo se forman. Sabemos que durante la formación de
+un cumulonimbo, o nube de tormenta, ocurre una separación 
+de carga. No se comprende por completo cómo es que se realiza
+la separación de carga, pero es un fenómeno que debe estar aso-
+ciado con el rápido movimiento vertical del aire y la humedad
+dentro de las nubes de tormenta. Cualquiera que sea el mecanis-
+mo, la nube adquiere diferentes cargas en distintas regiones y, por
+lo general, en la parte inferior hay carga negativa. 
+Como resultado, se induce una carga contraria en la super-
+ficie terrestre (figura 1a). En algún momento, el relámpago re-
+duce esta diferencia de carga ionizando el aire y permitiendo
+que exista un flujo de carga entre la nube y la tierra. Sin embar-
+go, el aire es un buen aislante, de manera que el campo eléctrico
+debe ser muy fuerte para que la ionización ocurra. (Véase el
+ejemplo 15.9 para una estimación cuantitativa de la carga en
+una nube.)
+La mayor parte de los relámpagos ocurren enteramente den-
+tro de la nube (descargas intranube) en donde no pueden verse
+directamente. Sin embargo, las descargas visibles ocurren entre
+dos nubes (descargas de nube a nube) y entre la nube y la Tierra
+(descarga de nube a tierra). Las fotografías de descargas de nube
+a tierra tomadas con cámaras especiales de alta velocidad revelan
+una trayectoria de ionización hacia abajo casi invisible. El relám-
+pago descarga en una serie de etapas o saltos, por lo que se le co-
+noce como líder escalonado. Conforme el líder se acerca a la tierra,
+los iones con carga positiva surgen de los árboles, los edificios 
+altos o el suelo en forma de serpentinapara encontrarse con él.
+Cuando una serpentina y un líder hacen contacto, los elec-
+trones a lo largo del canal de este último fluyen hacia abajo. El
+flujo inicial tiene lugar cerca del suelo, y conforme continúa, los
+electrones que caen cada vez más arriba comienzan a migrar
+hacia abajo. Luego, la trayectoria del flujo de electrones se ex-
+tiende hacia arriba en lo que se conoce como descarga de retorno.
+El surgimiento de un flujo de carga en la descarga de retorno
+provoca que la trayectoria conductiva se ilumine, produciendo
+el brillante relámpago que vemos y que se registra en las foto-
+grafías de exposición prolongada (figura 1b). La mayor parte de
+los destellos de los relámpagos tienen una duración de menos
+de 0.50 s. Por lo general, después de la descarga inicial, tiene lu-
+gar otra ionización a lo largo del canal original y ocurre otra
+descarga de retorno. La mayor parte de los relámpagos tienen
+tres o cuatro descargas de retorno.
+Se dice con frecuencia que Benjamin Franklin fue el prime-
+ro en demostrar la naturaleza eléctrica del relámpago. En 1750
+sugirió un experimento en el que se utilizaría una varilla me-
+tálica sobre un edificio alto. Sin embargo, un francés llama-
+do Thomas François d’Alibard realizó el experimento utilizando
+una varilla durante una tormenta (figura 1c). Más tarde, Fran-
+klin realizó un experimento similar con una cometa que hizo
+volar durante una tormenta.
+Un resultado práctico del trabajo de Franklin con los re-
+lámpagos fue el pararrayos, que consiste simplemente en una
+varilla metálica aguzada, conectada mediante un cable a una va-
+rilla de metal dirigida hacia el interior del suelo, es decir, pues-
+ta a tierra. La punta de la varilla elevada, con su densa acumu-
+lación de carga positiva inducida y gran campo eléctrico
+(véase la figura 15.19b), intercepta al líder escalonado ionizado
+de la nube en su trayecto hacia abajo, y lo descarga a tierra sin
+peligro antes de que llegue a la estructura o haga contacto con
+una serpentina dirigida hacia arriba. Esto evita la formación 
+de las descargas eléctricas dañinas asociadas con la descarga de
+retorno.
+A FONDO
+ a)  c) b)
+FIGURA 1 Relámpagos y pararrayos a) La polarización de la nube induce una carga en la superficie de la Tierra, 
+b) Cuando el campo se vuelve suficientemente grande, suelta una descarga eléctrica, a la que llamamos relámpago, 
+c) Un pararrayos, montado en la parte más alta de una estructura, ofrece una trayectoria hacia la tierra para evitar daños.
+
+524 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+Ejemplo 15.9 ■ Placas paralelas: estimación de la carga en nubes 
+de tormenta
+El campo eléctrico E (es decir, la magnitud) que se requiere para ionizar aire es aproxima-
+damente 1.0 /H11003106 N/C. Cuando el campo alcanza este valor, los átomos más débilmente
+ligados comienzan a abandonar sus moléculas (ionización de las moléculas), lo que con-
+duce a una descarga de relámpago. Suponga que el valor existente para E entre la super-
+ficie inferior negativamente cargada de la nube y el suelo positivamente cargado es el
+1.00% del valor de ionización, o 1.0 /H1100310
+4 N/C. (Véase la figura 1a de la sección A fondo
+15.1 en la p. 523.) Considere las nubes como cuadrados de 10 millas por lado. Estime la
+magnitud de la carga negativa total sobre la superficie interior.
+Razonamiento. El campo eléctrico está dado, por lo que la ecuación 15.5 servirá para estimar
+Q. Primero debemos convertir el área de la nube A (una de las “placas”) a metros cuadrados.
+Solución.
+Dado: Encuentre: Q (la magnitud de la carga sobre la
+superficie inferior de las nubes) d = 10 mi L 1.6 * 104 m
+ E = 1.0 * 104 N>C
+15.2 CAMPOS ELÉCTRICOS EN LAS FUERZAS POLICIACAS Y EN LA
+NATURALEZA: ARMAS PARALIZANTES Y PECES ELÉCTRICOS
+Las pistolas paralizantes y los peces eléctricos exhiben propieda-
+des similares en sus campos eléctricos. Las pistolas paralizantes
+(Taser manual) generan una separación de carga utilizando bate-
+rías y circuitos internos. Estos circuitos producen una gran polari-
+zación de carga, es decir, cargas iguales y opuestas en los
+electrodos. Las figuras 1a y 1b muestran una Taser común. Las
+cargas en los electrodos cambian de signo, pero en cualquier ins-
+tante, el campo está cercano al de un dipolo (figura 1c). Las Taser
+se utilizan para someter a los delincuentes, teóricamente sin pro-
+vocar daños permanentes. Un oficial de la policía, al asir la empu-
+ñadura, aplica los electrodos al cuerpo, por ejemplo, al muslo. El
+campo eléctrico interrumpe las señales eléctricas en los nervios
+que controlan el gran músculo que forma el muslo, paralizándo-
+lo, lo que hace más fácil someter al delincuente.
+El término pez eléctrico evoca una imagen de una anguila
+eléctrica (que en realidad es un pez con forma de anguila). Sin
+embargo, hay otros peces que también son “eléctricos”. La angui-
+la eléctrica y algunos otros, como el bagre eléctrico, son peces fuer-
+temente eléctricos . Son capaces de generar grandes campos
+eléctricos para inmovilizar a sus presas, pero también utilizan es-
+tos campos para funciones de localización y comunicación. Los
+peces débilmente eléctricos, como el nariz de elefante (figura 2a), uti-
+lizan sus campos (figura 2b) sólo para localización y comunica-
+ción. Los peces que producen activamente campos eléctricos se
+llaman peces electrogénicos.
+En un pez electrogénico, la separación de carga se realiza en
+el órgano eléctrico(señalado en el pez nariz de elefante de la figura
+2b), que es un conjunto de electroplacas especializadas apiladas.
+Cada electroplaca es una estructura con forma de disco, que nor-
+malmente está descargada. Cuando el cerebro envía una señal, los
+discos se polarizan a través de un proceso químico similar al de la
+acción de los nervios y crean el campo eléctrico del pez.
+Los peces débilmente eléctricos son capaces de generar cam-
+pos eléctricos como los que producen las baterías. Esto sirve sólo
+para funciones de electrocomunicacióny electrolocalización. Los pe-
+ces fuertemente eléctricos producen campos cientos de veces más
+fuertes y pueden matar a sus presas si las tocan al mismo tiempo
+con las áreas de cargas contrarias. La anguila eléctrica tiene miles
+de electroplacas apiladas en el órgano eléctrico, que normalmente
+se extiende desde la parte posterior de la cabeza hasta la cola y
+que ocupa más del 50% de la longitud de su cuerpo (figura 2c).
+Como un ejemplo de electrolocalización, considere el cam-
+bio en el patrón del campo eléctrico normal del pez nariz de ele-
+fante (figura 2b) cuando se aproxima a un pequeño objeto
+conductor (figura 3). Observe que las líneas del campo cambian
+para curvearse hacia el objeto; como este último es conductor,
+las líneas del campo deben orientarse en ángulos rectos con res-
+pecto a su superficie. Esto da por resultado un campo más fuer-
+te en el área de la piel del pez más cercana al objeto. Los sensores
+epiteliales detectan este incremento y envían una señal corres-
+pondiente al cerebro. Un objeto que no es conductor, como una
+roca, provocaría el efecto contrario. La electrolocalización y la
+electrocomunicación están determinadas por una interacción
+del campo eléctrico y los órganos sensoriales. Las propiedades
+básicas de los campos electrostáticos nos dan una idea general
+de cómo funcionan esos peces.
+A FONDO
+FIGURA 1 La pistola paralizante Taser a) El exterior de una pistola paralizante; observe la empuñadura y los dos electrodos. b) El interior: los circuitos
+necesarios para aumentar el campo eléctrico y la separación de carga a la fuerza requerida para interrumpir la comunicación entre los nervios. c) Una
+ilustración del campo eléctrico entre los electrodos. (Las cargas cambian de signo de forma periódica, produciendo un campo eléctrico oscilatorio.)
+a)  b)  c)
+E
+/H11001
+/H11002
+Empuñadura
+Electrodos activos
+
+15.4 Campo eléctrico 525
+Ilustración 23.4 Usos prácticos 
+de cargas y campos eléctricos
+FIGURA 2 Peces eléctricos a) El pez nariz de elefante, que es débilmente 
+eléctrico, utiliza su campo eléctrico para funciones de electrolocalización y 
+comunicación. b) El campo eléctrico aproximado que genera el órgano eléctrico
+del pez nariz de elefante, localizado cerca de su cola, en un instante determinado.
+(En realidad, el campo eléctrico oscila.) c) El campo eléctrico aproximado que 
+genera una anguila eléctrica en un instante determinado. El órgano eléctrico en 
+la anguila es capaz de producir campos que le permiten paralizar y matar, pero
+también realizar funciones de localización y comunicación.
+/H11001/H11002
+FIGURA 3 Electrolocalización El campo de un pez nariz de elefante con un objeto 
+conductor cercano. Observe la disminución en el espacio entre las líneas del campo conforme
+entran en la capa superficial de la piel. Este incremento en la fuerza del campo es detectado
+por los órganos sensoriales en la piel, que envían una señal al cerebro del pez.
+ a)
+ b)
+ c)
+/g69
+/H11001/H11002
+/H11002
+/H11001
+Electroplacas
+apiladas en el
+órgano eléctrico
+Cabeza y órganos vitales
+Usando la fórmula A /H11005d2 para obtener el área de un cuadrado, resolvemos la ecuación
+15.5 para la magnitud de la carga (la superficie de la nube es negativa):
+Esta expresión se justifica sólo si la distancia entre las nubes y el suelo es mucho menor
+que su tamaño. (¿Por qué?) Tal hipótesis es equivalente a suponer que las nubes de 10 mi-
+llas de largo están a menos de varias millas de la superficie de la Tierra.
+Esta cantidad de carga es enorme comparada con las cargas estáticas de fricción que
+provocamos al caminar sobre una alfombra. Sin embargo, como la carga de la nube está
+dispersa sobre una área muy grande, cualquier área pequeña de la nube no contiene mu-
+cha carga.
+Ejercicio de refuerzo. En este ejemplo, a) ¿cuál es el sentido del campo eléctrico entre la
+nube y la Tierra? b) ¿Cuánta carga se requiere para ionizar el aire húmedo?
+Q = EA
+4pk =
+11.0 * 104 N>C211.6 * 104 m2
+2
+4p19.0 * 109 N # m2>C22 = 23 C
+
+526 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+a) Cargas puntuales
+de mismo signo
+b) Cargas puntuales de
+signos diferentes
+++
+– ––
+▲ FIGURA 15.17 Campos 
+eléctricos Campos eléctricos para:
+a) cargas puntuales de mismo 
+signo, b) cargas puntuales de signos
+diferentes.
+Los patrones completos de campo eléctrico para otras configuraciones comunes de
+carga se muestran en la >figura 15.17. Hay que poner atención a la forma como se dibu-
+jan cualitativamente. Note que las líneas de campo eléctrico comienzan sobre cargas po-
+sitivas y terminan sobre cargas negativas (o en el infinito cuando no hay carga negativa
+cercana). Asegúrese de escoger el número de líneas que emanan desde una carga o que
+terminan en una, en proporción a la magnitud de esa carga. (Véase la sección Aprender
+dibujando referente al trazado de líneas eléctricas de fuerza, en la p. 521.)
+15.5 Conductores y campos eléctricos
+OBJETIVOS: a) Describir el campo eléctrico cerca de la superficie y en el interior 
+de un conductor, b) determinar dónde se acumula la carga en un
+conductor cargado y c) dibujar el patrón de líneas del campo eléc-
+trico fuera de un conductor cargado.
+Los campos eléctricos asociados con conductores cargados tienen varias propiedades in-
+teresantes. Por definición, en electrostática, las cargas están en reposo. Como los conduc-
+tores poseen electrones que están libres para moverse, y no lo hacen, los electrones no
+deben experimentar fuerza eléctrica y tampoco campo eléctrico. De ahí se concluye que 
+El campo eléctrico es cero en todas partes dentro de un conductor cargado.
+Las cargas en exceso sobre un conductor tienden a separarse una de otra tanto co-
+mo es posible, ya que son sumamente móviles. Así,
+Cualquier carga en exceso sobre un conductor aislado reside enteramente so-
+bre la superficie del conductor.
+Otra propiedad de los campos eléctricos estáticos y conductores es que no puede
+haber ningún componente tangencial del campo en la superficie del conductor. De otra
+forma, las cargas se moverían a lo largo de la superficie, al contrario de nuestra hipóte-
+sis de una situación estática. Así,
+El campo eléctrico en la superficie de un conductor cargado es perpendicular a
+la superficie.
+Por último, la carga en exceso sobre un conductor de forma irregular está más con-
+centrada donde la superficie tiene mayor curvatura (esto es, en los puntos más promi-
+nentes). Como la carga es más densa ahí, el campo eléctrico será máximo justo en esos
+lugares. Es decir,
+La carga en exceso tiende a acumularse en zonas agudas, o en lugares de cur-
+vatura máxima, sobre conductores cargados. Como resultado, el campo eléctri-
+co es máximo en tales lugares.
+Esos dos últimos resultados se resumen en la 
+Nfigura 15.18. Recuerde que son verdaderos
+sólo para conductores en condiciones estáticas. Los campos eléctricos pueden existir dentro
+de materiales no conductores y también dentro de conductores cuando las condiciones
+varían con el tiempo.
+Para comprender por qué la mayoría de la carga se acumula en las regiones fuerte-
+mente curveadas, considere las fuerzas que actúan entre cargas sobre la superficie del
+conductor. (Véase la 
+Nfigura 15.19a.) En los lugares donde la superficie es bastante pla-
+na, esas fuerzas estarán dirigidas casi de forma paralela a la superficie. Las cargas se
+esparcen hasta que se cancelan las fuerzas paralelas de cargas vecinas en sentidos
+opuestos. En un extremo agudo, las fuerzas entre cargas estarán dirigidas casi perpen-
+dicularmente a la superficie y, por consiguiente, habrá poca tendencia de las cargas a
+moverse de forma paralela a ésta. Así, es de esperarse que las regiones más curveadas
+de la superficie acumulen la mayor concentración de carga.
+Una situación interesante ocurre cuando hay una gran concentración de carga 
+sobre un conductor que termina en punta (figura 15.19b). La intensidad de campo eléc-
+trico en la región situada arriba del punto será suficientemente alta para iniciar la ioni-
+zación de las moléculas de aire (y jalar o empujar electrones de las moléculas). Los
+electrones liberados son acelerados aún más por el campo eléctrico y provocan ioniza-
+ciones secundarias al golpear otras moléculas. Esto da por resultado una “avalancha”
+de electrones, visible como una descarga de chispas. Más carga puede colocarse sobre
+
+15.5 Conductores y campos eléctricos 527
+Aislante
+++
++
+??
+> FIGURA 15.20 Experimento de la
+cubeta de hielo Véase el ejemplo
+conceptual 15.10.
++
++ + ++ +
+b)a)
+Conductor
+¡No!E
+E/g69 = 0
+▲ FIGURA 15.18 Campos eléctricos y conductores a) En condiciones estáticas, el campo
+eléctrico es cero dentro de un conductor. Cualquier carga en exceso reside sobre la superfi-
+cie del conductor. Para un conductor de forma irregular, la carga en exceso se acumula en
+las regiones de máxima curvatura (las puntas), como se muestra. El campo eléctrico cerca
+de la superficie es perpendicular a esa superficie y más intenso donde la carga es más den-
+sa. b) En condiciones estáticas, el campo eléctrico no debe tener un componente tangencial
+a la superficie del conductor.
+– –/g70 /g70
+/g70
+/g70
+– 
+– 
+ /g70II /g70II
+a)
+b)
+++++
+++
++
++
++++
++
++
+▲ FIGURA 15.19 Concentración 
+de la carga sobre una superficie 
+curva a) Sobre una superficie 
+plana, las fuerzas repulsivas entre
+cargas en exceso son paralelas a la
+superficie y tienden a empujar las
+cargas separándolas. En contraste,
+sobre una superficie curva, esas
+fuerzas están dirigidas formando
+un ángulo con la superficie. Sus
+componentes paralelos a la superfi-
+cie son más pequeños, permitiendo
+que la carga se concentre en esas
+áreas. b) Llevado el caso al extremo,
+una aguja metálica puntiaguda 
+tiene una densa concentración de
+carga en la punta. Esto produce un
+gran campo eléctrico en la región
+arriba de la punta, que es el 
+principio del pararrayos.
+un conductor suavemente curveado, como en una esfera, antes de que ocurra una des-
+carga de chispas. La concentración de carga en la punta aguda de un conductor es una
+razón para la efectividad de los pararrayos. (Véase la sección A fondo 15.1 referente a
+relámpagos y pararrayos en la p. 523.)
+Para conocer algunas aplicaciones de los campos eléctricos en los seres vivos y en
+las instituciones de seguridad pública, consulte la sección A fondo 15.2 sobre armas
+paralizantes y peces eléctricos en la p. 524.
+Como una ilustración de un experimento temprano que se realizó sobre conducto-
+res con exceso de carga, considere el siguiente ejemplo.
+Ejemplo conceptual 15.10 ■ El experimento clásico de la cubeta 
+de hielo
+Una varilla positivamente cargada se coloca dentro de un recipiente metálico aislado que
+tiene electroscopios descargados unidos conductivamente a sus superficies interior y ex-
+terior (▼figura 15.20). ¿Qué sucederá a las hojas de los electroscopios? (Justifique su res-
+puesta.) a) Ninguna hoja de los electroscopios mostrará una desviación. b) Sólo la hoja del
+electroscopio conectado al exterior mostrará una desviación. c) Sólo la hoja del electros-
+copio conectado al interior mostrará una desviación. d) Las hojas de ambos electroscopios
+mostrarán desviaciones.
+Razonamiento y respuesta. La barra con carga positiva atraerá cargas negativas, provo-
+cando que el interior del contenedor metálico quede cargado negativamente. El electros-
+copio exterior adquirirá así una carga positiva. Por consiguiente, ambos electroscopios
+estarán cargados (aunque con signos contrarios) y mostrarán desviaciones, por lo que la
+respuesta correcta es la d. El físico inglés Michael Faraday realizó un experimento similar
+en el siglo 
+XIX usando cubetas de hielo, por lo que a menudo se conoce como el experimen-
+to de la cubeta de hielo de Faraday.
+Ejercicio de refuerzo. Suponga que la barra positivamente cargada toca el contenedor de
+metal. ¿Cuál sería el efecto sobre los electroscopios?
+
+528 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+Superficie
+gaussiana
+Superficie
+gaussiana
+Superficie
+gaussiana
+Superficie
+gaussiana 1
+Superficie
+gaussiana 3
+Superficie
+gaussiana 2
+Superficie
+gaussiana 4
+ a)
+ b)
+ c)
+ d)
++
+–
+–
+–
+–
++
+▲ FIGURA 15.21 Varias superficies
+gaussianas y líneas de fuerza
+a) Rodeando una sola carga puntual
+positiva, b) rodeando una sola carga
+puntual negativa y c) rodeando 
+una carga puntual negativa mayor. 
+d) Cuatro superficies diferentes que
+rodean varias partes de un dipolo
+eléctrico.
+*15.6 Ley de Gauss para campos eléctricos: 
+un enfoque cualitativo
+OBJETIVOS: a) Establecer la base física de la ley de Gauss y b) usar la ley para 
+hacer predicciones cualitativas.
+El matemático alemán Karl Friedrich Gauss (1777-1855) descubrió una de las leyes fun-
+damentales que rigen el comportamiento de los campos eléctricos. Utilizarla para ha-
+cer cálculos cuantitativos implica técnicas que están más allá de los objetivos de este
+libro. Sin embargo, una mirada conceptual a esta ley nos enseñará algunas propieda-
+des físicas interesantes.
+Considere la carga eléctrica positiva en la 
+>figura 15.21a. Ahora visualice una super-
+ficie cerrada imaginariaque rodea a la carga. Tal superficie se llama superficie gaussiana.
+Ahora, designemos las líneas de campo eléctrico que pasan a través de la superficie y
+que apuntan hacia fuera como positivas y las que apuntan hacia dentro como negativas.
+Si contamos las líneas de ambos tipos (esto es, restamos el número de líneas negativas
+del número de positivas), encontramos que el total es positivo porque, en este caso, sólo
+hay líneas positivas. Este resultado refleja el hecho de que hay un número neto de líneas
+de campo eléctrico que apuntan hacia fuera a través de la superficie. De manera similar,
+para una carga negativa (figura 15.21b), la suma daría un total negativo, indicando un
+número neto de líneas que apuntan hacia dentro a través de la superficie. Note que esos
+resultados serían ciertos para cualquier superficie cerrada que rodeara la carga, sin im-
+portar su forma o tamaño. Si duplicamos la magnitud de la carga negativa (figura
+15.21c), nuestra suma de líneas de campo negativas se duplicaría también. (¿Por qué?)
+La figura 15.21d muestra un dipolo con cuatro diferentes superficies gaussianas
+imaginarias. La superficie 1 encierra una carga positiva neta y, por lo tanto, tiene una
+suma de líneas de campo positiva. De manera similar, la superficie 2 tiene una suma de
+líneas de campo negativa. Los casos más interesantes son las superficies 3 y 4. Observe
+que ambas incluyen una carga neta cero: la superficie 3 porque no incluye cargas y la
+superficie 4 porque incluye cargas iguales y opuestas. Advierta que las superficies 3 y
+4 tienen una suma de líneas de campo neta de cero, que no se correlaciona con ningu-
+na carga neta encerrada.
+Esas situaciones se generalizan (conceptualmente) para obtener el principio físico
+subyacente de la ley de Gauss:
+*
+El número neto de líneas de campo eléctrico que pasan por una superficie ce-
+rrada imaginaria es proporcional a la cantidad de carga neta encerrada dentro
+de esa superficie.
+Una analogía familiar ilustrada en la 
+▼figura 15.22 le ayudará a comprender este
+principio. Si rodea un rociador de césped con una superficie imaginaria (superficie 1), en-
+contrará que hay un flujo neto de agua que sale a través de esa superficie, porque dentro
+hay una “fuente” de agua (sin considerar el agua que conduce la tubería hacia el rocia-
+dor). De manera análoga, un campo eléctrico neto que apunta hacia fuera indica la pre-
+sencia de una carga neta positiva dentro de la superficie, ya que cargas positivas son
+“fuentes” del campo eléctrico. Asimismo, se formaría un charco dentro de nuestra super-
+ficie imaginaria 2 porque habría un flujo neto de agua hacia dentro a través de la superfi-
+cie. El siguiente ejemplo ilustra la fuerza de la ley de Gauss en su forma cualitativa.
+uperfici
+> FIGURA 15.22 Analogía 
+hidráulica de la ley de Gauss
+Un flujo neto de agua hacia fuera 
+indica que hay una fuente de agua
+dentro de la superficie cerrada 1.
+Un flujo neto de agua hacia dentro
+indica que hay un canal de agua
+dentro de la superficie cerrada 2.
+*En sentido estricto, ésta es la ley de Gauss para campos eléctricos. También existe una versión 
+de la ley de Gauss para campos magnéticos, que no se estudiará aquí.
+
+Repaso del capítulo 529
+Ejemplo conceptual 15.11 ■ Una vez más, conductores cargados:
+ley de Gauss
+Una carga neta Q se coloca en un conductor de forma arbitraria ( Nfigura 15.23). Utilice 
+la versión cualitativa de la ley de Gauss para demostrar que toda la carga debe residir 
+en la superficie del conductor en condiciones electrostáticas.
+Razonamiento y respuesta.Como la situación es de equilibrio estático, no puede haber
+campo eléctrico dentro del volumen del conductor; de otra forma, los electrones casi li-
+bres se moverían alrededor. Consideremos la superficie gaussiana que sigue la forma del
+conductor, pero que apenas está dentro de la superficie real. Puesto que no hay líneas de
+campo eléctrico dentro del conductor, tampoco hay líneas de campo eléctrico que pasen a
+través de nuestra superficie imaginaria. Por lo tanto, no hay líneas del campo eléctrico
+que penetren en la superficie gaussiana. Pero por la ley de Gauss, el número neto de lí-
+neas de campo es proporcional a la cantidad de carga en el interior de la superficie. Por
+consiguiente, no debe haber carga neta dentro de la superficie. 
+Como nuestra superficie puede estar tan cerca como queramos de la superficie del
+conductor, se deduce que la carga en exceso, si no está dentro del volumen del conduc-
+tor, debe estar en la superficie.
+Ejercicio de refuerzo. En este ejemplo, si la carga neta en el conductor es negativa, ¿cuál
+es el signo del número neto de líneas a través de la superficie gaussiana que encierra com-
+pletamente el conductor? Explique su razonamiento.
+Superficie 
+del conductor
+Superficie
+gaussiana
+E = 0
+▲ FIGURA 15.23 Ley de Gauss:
+carga en exceso en un conductor
+Véase el Ejemplo conceptual 15.12.Repaso del capítulo
+• La ley de cargas o ley de carga-fuerza, establece que las car-
+gas iguales se repelen, y que las cargas contrarias se atraen.
+• El principio de la conservación de la carga significa que la
+carga neta de un sistema aislado permanece constante.
+• Los conductores son materiales que conducen carga eléctrica
+fácilmente porque sus átomos tienen uno o más electrones
+débilmente ligados.
+• Los aislantes son materiales que no ganan, pierden o condu-
+cen fácilmente carga eléctrica.
+• La carga electrostática implica procesos que permiten a un
+objeto ganar una carga neta. Entre esos procesos están la car-
+ga por fricción, por contacto (conducción) e inducción.
+• La polarización eléctrica de un objeto implica crear cantida-
+des separadas e iguales de carga positiva y negativa en pun-
+tos diferentes sobre ese objeto.
+–– –
+–
++++
++
++ +
++ +
+– –
+– –
+Barra cargada
+negativamente
+Barra cargada
+positivamente
++ +
++ +
+–
+–
+–
++
++
++
++
++ +++
++ +
+– ––––
+–
+––––
+Barras
+de vidrio
+Barras 
+de caucho
+• La ley de Coulomb expresa la magnitud de la fuerza entre
+dos cargas puntuales:
+(dos cargas puntuales) (15.2)
+donde
+• El campo eléctrico es un campo vectorial que describe cómo
+las cargas modifican el espacio alrededor de ellas. Se define
+como la fuerza eléctrica por carga positiva unitaria, o
+(15.3)
+• De acuerdo con el principio de superposición para campos
+eléctricos, el campo eléctrico (neto) en cualquier punto que se
+debe a una configuración de cargas es la suma vectorial de
+los campos eléctricos individuales de las cargas individuales
+que forman esa configuración.
++++++++++
+E
+E
+q/H11001
+E
+/H11001/H11001
+/H11001/H11001/H11001/H11001
+/H11001
+/H11001
+/H11001
+/H11001
+/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001
+/H11001
+/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001
+/H11001
+/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002
+/H11002/H11002/H11002/H11002/H11002/H11002/H11002/H11002
+/H11002
+E
+!
+=
+F
+!
+en q+
+q+
+r
+q1 q2
+F12  =  
+kq1q2
+r2 F21  =  
+kq1q2
+r2
+k L 9.00 * 109 N # m2>C2.
+Fe =
+kq1
+ q2
+r2
+
+530 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+• Las líneas de campo eléctrico son una visualización gráfica
+del campo eléctrico. La separación entre líneas está inversa-
+mente relacionada con la intensidad del campo, y las tangen-
+tes a las líneas dan la dirección del campo eléctrico.
++
+Cuanto más cercanas 
+estén las líneas de 
+fuerza, mayor 
+intensidad tiene 
+el campo
+• En condiciones estáticas, los campos eléctricos asociados con
+conductores tienen las siguientes propiedades:
+El campo eléctrico es cero dentro de un conductor cargado.
+Cualquier carga en exceso en un conductor cargado reside en-
+teramente sobre su superficie.
+El campo eléctrico cerca de la superficie de un conductor car-
+gado es perpendicular a ésta.
+La carga en exceso en la superficie de un conductor es más
+densa en los lugares de máxima curvatura de la superficie.
+El campo eléctrico cerca de la superficie de un conductor cargado
+es mayor en los lugares de máxima curvatura de la superficie.
+E = 0
+*Tome k exactamente como 9.00 /H11003109 N.m2/C2 y e como 1.60 /H1100310/H1100219 C
+para fines de cifras significativas.
+Ejercicios*
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son
+ejercicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pa-
+res de ejercicios, que se identifican con números subrayados, pretenden ayudar al lector a resolver problemas y
+aprender. El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consul-
+tarse si se necesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al
+final del libro.
+15.1 Carga eléctrica
+1. OM Una combinación de dos electrones y tres protones
+tendría una carga neta de a) /H110011, b) /H110021, c) /H110011.6 /H1100310–19 C
+o d)/H110021.6 /H1100310–19 C.
+2. OM Un electrón está justo encima de un protón fijo. La
+dirección de la fuerza en el protón eléctrico es a) hacia
+arriba, b) hacia abajo, c) cero.
+3. OM En el ejercicio 2, ¿cuál siente la mayor fuerza? a) El
+electrón, b) el protón o c) ambos sienten la misma fuerza.
+4. PC ¿Cómo sabemos que hay dos tipos de carga eléctrica?
+b) ¿Cuál sería el efecto de designar la carga del electrón
+como positiva y la carga del protón como negativa?
+5. PC A un objeto eléctricamente neutro se le puede dar una
+carga neta de varias maneras. ¿Viola esto la conservación
+de la carga? Explique su respuesta.
+6. PC Si un objeto sólido neutro resulta positivamente car-
+gado, ¿su masa aumenta o disminuye? ¿Qué sucede si re-
+sulta negativamente cargado?
+7. PC ¿Cómo se determina el tipo de carga sobre un objeto
+utilizando un electroscopio que tiene una carga neta de
+un signo conocido? Explique su respuesta.
+8. PC Si dos objetos se repelen eléctricamente entre sí, ¿es-
+tán ambos necesariamente cargados? ¿Y si se atraen?
+9.
+● ¿Cuál sería la carga eléctrica neta de un objeto con 1.0
+millón de electrones en exceso?
+10. ● Al caminar sobre una alfombra, usted adquiere una
+carga negativa neta de 50 μC. ¿Cuántos electrones en ex-
+ceso tiene usted?
+11. ●● Una partícula alfa es el núcleo de un átomo de helio
+sin electrones. ¿Cuál sería la carga en dos partículas alfa?
+12. EI ●● Una barra de vidrio que se frota con seda adquie-
+re una carga de /H110018.0 /H1100310/H1100210 C. a) ¿La carga en la seda es
+1) positiva, 2) cero o 3) negativa? ¿Por qué? b) ¿Cuál es la
+carga en la seda, y cuántos electrones se transfirieron a
+la seda? c) ¿Cuánta masa perdió la barra de vidrio?
+13.
+EI ●● Una barra de caucho que se frota con piel adquiere
+una carga de /H110024.8 /H1100310/H110029 C. a) ¿La carga en la piel es 
+1) positiva, 2) cero o 3) negativa? ¿Por qué? b) ¿Cuál es la
+carga en la piel, y cuánta masa se transfiere a la barra? 
+c) ¿Cuánta masa ganó la barra de caucho?
+15.2 Carga electrostática
+14. OM Una barra de caucho se frota con piel. Entonces, la
+piel se acerca rápidamente al bulbo de un electroscopio
+descargado. El signo de la carga sobre las hojas del elec-
+troscopio es a) positivo, b) negativo, c) cero.
+
+Ejercicios 531
+15. OM Una corriente de agua se desvía hacia un objeto car-
+gado eléctricamente que se acerca a ella. El signo de la
+carga del objeto a) es positivo, b) es negativo, c) es cero, 
+d) no se puede determinar a partir de los datos.
+16. OM Un globo se carga por frotamiento y luego se adhiere
+a una pared. El signo de la carga en el globo a) es positi-
+vo, b) es negativo, c) es cero, d) no se puede determinar a
+partir de los datos.
+17. PC Los camiones de combustible tienen a menudo cade-
+nas metálicas que cuelgan de sus chasis al suelo. ¿Por
+qué ésta es una medida importante?
+18. PC ¿Hay una ganancia o pérdida de electrones cuando un
+objeto se polariza eléctricamente? Explique su respuesta.
+19. PC Explique con cuidado los pasos para fabricar un elec-
+troscopio que esté cargado positivamente mediante in-
+ducción. Una vez terminado, ¿cómo podría verificar que
+el electroscopio está cargado positivamente (y, por lo tan-
+to, que no está cargado negativamente)?
+20. PC Dos esferas metálicas montadas sobre soportes aisla-
+dos están en contacto. Acercar un objeto con carga negativa
+a la esfera de la derecha le permitiría cargar temporalmen-
+te ambas esferas por inducción. Explique claramente có-
+mo funcionaría esto y cuál sería el signo de la carga en
+cada esfera.
+15.3 Fuerza eléctrica
+21. OM ¿Cómo cambia la magnitud de la fuerza eléctrica en-
+tre dos cargas puntuales conforme aumenta la distancia
+entre ellas? La fuerza a) disminuye, b) aumenta, c) per-
+manece constante. 
+22. OM Comparada con la fuerza eléctrica, la fuerza gravi-
+tacional entre dos protones es a) aproximadamente la
+misma, b) algo mayor, c) mucho mayor o d) mucho más
+pequeña.
+23. PC La Tierra nos atrae con su fuerza gravitacional, pero
+la fuerza eléctrica es mucho mayor que aquella. ¿Por qué
+no experimentamos una fuerza eléctrica de la Tierra?
+24. PC Dos electrones cercanos se alejarán si se liberan. ¿Có-
+mo podría evitarse esto colocando una sola carga en su
+ambiente? Explique claramente cuál tendría que ser el
+signo de la carga y su ubicación.
+25. PC La ley de Coulomb es un ejemplo de una ley de cua-
+drado inverso. Utilice esta idea del cuadrado inverso pa-
+ra determinar la razón de la fuerza eléctrica (la final
+dividida entre la inicial) entre dos cargas cuando la dis-
+tancia entre ellas se reduce a un tercio de su valor inicial.
+26. EI
+● Sobre un electrón que está a cierta distancia de un
+protón actúa una fuerza eléctrica. a) Si el electrón se aleja-
+ra al doble de esa distancia del protón, ¿la fuerza eléctri-
+ca sería 1) 2, 2) , 3) 4 o 4) veces la fuerza original? ¿Por
+qué? b) Si la fuerza eléctrica original es F, y el electrón se
+moviese a un tercio de la distancia original hacia el pro-
+tón, ¿cuál sería la nueva fuerza eléctrica?
+1
+4
+1
+2 ,
+27. ● Dos cargas puntuales idénticas están una de otra a una
+distancia fija. ¿Por qué factor se vería afectada la magni-
+tud de la fuerza eléctrica entre ellas si a) una de las cargas
+se duplica y la otra se reduce a la mitad, b) ambas cargas se
+reducen a la mitad y c) una carga se reduce a la mitad y la
+otra no cambia?
+28.
+● En una cierta molécula orgánica, los núcleos de dos áto-
+mos de carbono están separados una distancia de 0.25 nm.
+¿Cuál es la magnitud de la repulsión eléctrica entre ellos?
+29.
+● Un electrón y un protón están separados 2.0 nm. 
+a) ¿Cuál es la magnitud de la fuerza sobre el electrón? 
+b) ¿Cuál es la fuerza neta sobre el sistema?
+30. EI ● Dos cargas originalmente separadas una cierta dis-
+tancia se separan aún más, hasta que la fuerza entre ellas
+disminuye por un factor de 10. a) ¿La nueva distancia es
+1) menor que 10, 2) igual a 10 o 3) mayor que 10 veces la
+distancia original? ¿Por qué? b) Si la distancia original era
+de 30 cm, ¿qué distancia separa a las cargas?
+31.
+● Dos cargas se unen hasta que están a una distancia de
+100 cm, de manera que la fuerza eléctrica entre ellas au-
+mente exactamente por un factor de 5. ¿Cuál era su sepa-
+ración inicial?
+32.
+● La distancia entre iones vecinos de sodio y cloro en
+cristales de sal de mesa (NaCl), cargados uno por uno, es
+de 2.82 /H1100310
+–10 m. ¿Cuál es la fuerza eléctrica de atracción
+entre los iones?
+33. ●● Dos cargas puntuales de /H110022.0 /H9262C están fijas en los ex-
+tremos opuestos de una vara graduada de un metro. ¿En
+qué lugar del metro de madera podría estar en equilibrio
+electrostático a) un electrón libre y b) un protón libre?
+34.
+●● Dos cargas puntuales de /H110021.0 /H9262C y /H110011.0 /H9262C están fi-
+jas en los extremos opuestos de una vara graduada de un
+metro. ¿Dónde podría estar en equilibrio electrostático 
+a) un electrón libre y b) un protón libre?
+35.
+●● Dos cargas, q1 y q2, están localizadas en el origen y en el
+punto (0.50 m, 0), respectivamente. ¿En qué lugar del eje x
+debe colocarse una tercera carga,q3, de signo arbitrario pa-
+ra estar en equilibrio electrostático si a) q1 y q2 son cargas de
+igual magnitud y signo, b) q1 y q2 son cargas contrarias pe-
+ro de igual magnitud y c) ql /H11005/H110013.0 /H9262C y q2 /H11005/H110027.0 /H9262C?
+36. ●● Calcule la fuerza gravitacional y eléctrica entre el
+electrón y el protón en el átomo de hidrógeno ( ▼figura
+15.24), suponiendo que están a una distancia de 5.3 /H11003
+10/H1100211 m. Luego calcule la razón entre la magnitudes de la
+fuerza eléctrica y la de la fuerza gravitacional. 
+p+
+r = 5.3 × 10−11 m
+v
+e−
+> FIGURA 15.24 Átomo de 
+hidrógeno Véanse los ejercicios
+36 y 37.
+
++
+Conductor matálico
+> FIGURA 15.28 Un punto de
+carga dentro de una gruesa
+esfera metálica Véase el 
+ejercicio 47.
+q3 = +5.0 /H9262C 
+0.10 m
+0.10 m
+0.10 m0.10 m
+q4 = +5.0 /H9262C
+q2 = −10 /H9262Cq1 = −10 /H9262C
+▲ FIGURA 15.26 Rectángulo de cargasVéanse los ejercicios
+39, 61 y 65.
+20 cm
+20 cm
+20 cm
+q1 = +4.0 /H9262C 
+q3 = −4.0 /H9262C q2 = +4.0 /H9262C 
+▲ FIGURA 15.25 Triángulo de cargas Véase los ejercicios
+38, 59 y 60.
+532 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+37. ●●● En promedio, el electrón y el protón en un átomo 
+de hidrógeno están separados por una distancia de 5.3 /H11003
+10/H1100211 m (figura 15.24). Suponiendo que la órbita del elec-
+trón es circular, a) ¿cuál es la fuerza eléctrica sobre el elec-
+trón? b) ¿Cuál es la rapidez orbital del electrón? c) ¿Cuál
+es la magnitud de la aceleración centrípeta del electrón
+en unidades de g?
+38.
+●●● Tres cargas están situadas en las esquinas de un trián-
+gulo equilátero, como se ilustra en la ▼figura 15.25. ¿Cuá-
+les son la magnitud y el sentido de la fuerza sobre q1?
+15.4 Campo eléctrico
+41. OM ¿Qué sucede con la magnitud del campo eléctrico
+provocado por una carga puntual cuando la distancia a
+esa carga se triplica? a) Permanece constante, b) se reduce
+a un tercio del valor original de la carga, c) se reduce a un
+noveno del valor original de la carga o d) se reduce a
+1/27 del valor original de la carga.
+42. OM Las unidades del campo eléctrico en el SI son a) C, 
+b) N/C, c) N o d) J.
+43. OM En un punto en el espacio, una fuerza eléctrica actúa
+verticalmente hacia abajo sobre un electrón. El sentido
+del campo eléctrico en ese punto  a) es hacia abajo, b) es
+hacia arriba, c) es cero o d) no se puede determinar a par-
+tir de los datos.
+44. PC ¿Cómo se determina la magnitud relativa del campo
+eléctrico en diferentes regiones a partir de un diagrama
+de campo vectorial?
+45. PC ¿Cómo se determinan las magnitudes relativas del
+campo en diferentes regiones a partir de un diagrama de
+líneas de campo eléctrico?
+46. PC Explique claramente por qué las líneas de campo
+eléctrico nunca se intersecan.
+47. PC Una carga positiva está dentro de una esfera metálica
+aislada, como se muestra en la 
+▼ figura 15.28. Describa el
+campo eléctrico en las tres regiones: entre la carga y la su-
+perficie interior de la esfera, dentro de la esfera y fuera
+de la superficie de la esfera. ¿Cuál es el signo de la carga
+en las dos superficies de la esfera? ¿Cómo cambiarían sus
+respuestas si la carga fuera negativa?
+ww
+q qFe Fe
+T T
+θ
+θ θ
+θ
+▲ FIGURA 15.27 Bolitas repelentes Véase el ejercicio 40.
+39. ●●● Cuatro cargas están situadas en las esquinas de un
+cuadrado, como se ilustra en la ▼ figura 15.26. ¿Cuáles
+son la magnitud y el sentido de la fuerza a) sobre la carga
+q2 y b) sobre la carga q4?
+40. ●●● Dos bolitas de 0.10 g de médula de saúco están sus-
+pendidas del mismo punto por cuerdas de 30 cm de lar-
+go. (La médula de saúco es un material ligero aislante
+usado en el pasado para hacer cascos para climas tropi-
+cales.) Cuando las bolitas tienen cargas iguales, llegan al
+reposo cuando están a 18 cm de distancia, como se mues-
+tra en la 
+▼ figura 15.27. ¿Cuál es la magnitud de la carga
+en cada bolita? (Ignore la masa de las cuerdas.)
+48. PC En cierto lugar, el campo eléctrico provocado por el
+exceso de carga sobre la superficie de la Tierra apunta ha-
+cia abajo. ¿Cuál es el signo de la carga en la superficie te-
+rrestre en ese lugar? ¿Por qué?
+49. PC a) ¿El campo eléctrico generado por dos cargas nega-
+tivas idénticas podría ser cero en algún lugar (o lugares)
+cercano(s)? Explique su respuesta. Si ésta es afirmativa,
+describa la situación y dibújela. b) ¿Cómo cambiaría su
+respuesta si las cargas fueran iguales pero con signos
+contrarios? Explique su respuesta. 
+50. EI
+● a) Si la distancia desde una carga se duplica, ¿la magni-
+tud del campo eléctrico 1) aumenta, 2) disminuye o 3) es
+igual en comparación con el valor inicial? b) Si el campo eléc-
+trico original es de 1.0 /H1100310
+/H110024 N/C, ¿cuál es la magnitud del
+nuevo campo eléctrico al doble de la distancia de la carga?
+
+Ejercicios 533
+51. ● Sobre un electrón aislado actúa una fuerza eléctrica de
+3.2 /H1100310–14 N. ¿Cuál es la magnitud del campo eléctrico
+en la posición del electrón?
+52. ● ¿Cuál es la magnitud y sentido del campo eléctrico 
+en un punto situado a 0.75 cm de una carga puntual de
+/H110012.0 pC?
+53.
+● ¿A qué distancia de un protón, la magnitud del campo
+eléctrico es 1.0 /H11003105 N/C?
+54. EI ●● Dos cargas fijas, de /H110024.0 y /H110025.0 /H9262C, están separa-
+das una cierta distancia. a) ¿El campo eléctrico neto a la
+mitad de la distancia entre las dos cargas 1) se dirige
+hacia la carga de /H110024.0 
+/H9262C, 2) es cero o 3) se dirige hacia
+la carga de /H110025.0 /H9262C? ¿Por qué? b) Si las cargas están se-
+paradas 20 cm, calcule la magnitud del campo eléctrico
+neto a media distancia entre las cargas.
+55.
+●● ¿Cuál sería la magnitud y el sentido de un campo eléc-
+trico vertical que soportara justamente el peso de un pro-
+tón sobre la superficie de la Tierra? ¿Y el peso de un
+electrón?
+56. EI
+●● Dos cargas, de /H110023.0 y /H110024.0 /H9262C, están localiza-
+das en los puntos ( /H110020.50 m, 0) y (0.50 m, 0), respectiva-
+mente. Hay un punto sobre el eje x entre las dos cargas
+donde el campo eléctrico es cero. a) ¿Ese punto está 1) a
+la izquierda del origen, 2) en el origen o 3) a la derecha
+del origen? b) Encuentre la posición del punto donde el
+campo eléctrico es cero. 
+57.
+●● Tres cargas, de /H110012.5 /H9262C, /H110024.8 /H9262C y /H110026.3 /H9262C, están
+localizadas en ( /H110020.20 m, 0.15 m), (0.50 m, /H110020.35 m) y
+(/H110020.42 m, /H110020.32 m), respectivamente. ¿Cuál es el campo
+eléctrico en el origen?
+58. ●● Dos cargas, de +4.0 y +9.0 /H9262C, están a 30 cm de dis-
+tancia una de otra. ¿En qué lugar de la línea que une a
+las cargas el campo eléctrico es cero?
+59.
+●●● ¿Cuál es el campo eléctrico en el centro del triángu-
+lo en la figura 15.25?
+60. ●●● Calcule el campo eléctrico en un punto a la mitad
+entre las cargas q1 y q2 en la figura 15.25.
+61. ●●● ¿Cuál es el campo eléctrico en el centro del cuadra-
+do en la figura 15.26?
+62. ●●● Una partícula con masa de 2.0 /H1100310/H110025 kg y una car-
+ga de /H110012.0 /H9262C se libera en un campo eléctrico horizontal
+uniforme (de placas paralelas) de 12 N/C. a) ¿Qué tan le-
+jos viaja horizontalmente la partícula en 0.50 s? b) ¿Cuál
+es el componente horizontal de su velocidad en ese pun-
+to? c) Si las placas miden 5.0 cm por lado, ¿cuánta carga
+tiene cada una?
+63.
+●●● Dos placas paralelas muy grandes tienen cargas
+uniformes y contrarias. Si el campo entre las placas es
+de 1.7 /H1100310
+6 N/C, ¿qué tan densa es la carga sobre cada
+placa (en /H9262C/m2)?
+64. ●●● Dos placas cuadradas conductoras con cargas con-
+trarias miden 20 cm por lado. Están colocadas paralela-
+mente y cerca una con respecto a la otra. Tienen cargas
+de /H110014.0 y /H110024.0 nC, respectivamente. a) ¿Cuál es el cam-
+po eléctrico entre las placas? b) ¿Qué fuerza se ejerce so-
+bre un electrón entre las placas?
+65.
+●●● Calcule el campo eléctrico en un punto a 4.0 cm de q2
+a lo largo de una línea que se dirige hacia q3 en la figura
+15.26.
+66. ●●● Dos cargas iguales y contrarias forman un dipolo,
+como se ilustra en la ▼figura 15.29. a) Sume los campos
+eléctricos generados por cada una en el punto P , para de-
+terminar gráficamente la dirección del campo eléctrico
+en ese lugar. b) Obtenga una expresión simbólica para la
+magnitud del campo eléctrico en el punto P , en términos
+de k, q, d y x? c) Si el punto P está muy alejado, utilice el
+resultado exacto para demostrar que d) ¿Por
+qué se trata de un cubo inverso en lugar de un cuadrado
+inverso? Explique su respuesta.
+E L kqd>x
+3.
++
+–
+P
+x
++q
+–q
+d
+▲ FIGURA 15.29 Campo eléctrico dipolar
+Véase el ejercicio 66.
+15.5 Conductores y campos eléctricos
+67. OM En equilibrio electrostático, ¿el campo eléctrico justo
+abajo de la superficie de un conductor cargado a) tiene
+el mismo valor que el campo justo arriba de la superfi-
+cie, b) es cero, c) depende de la cantidad de carga en el
+conductor o d) está dado por kq/R
+2?
+68. OM Una plancha metálica delgada descargada se coloca en
+un campo eléctrico externo que apunta horizontalmente
+hacia la izquierda. ¿Cuál es el campo eléctrico dentro de la
+plancha? a) Cero, b) tiene el mismo valor que el del campo
+externo original, aunque con sentido contrario, c) es menor
+que el valor del campo externo original, pero es diferente
+de cero o d) depende de la magnitud del campo externo. 
+69. OM La dirección del campo eléctrico en la superficie 
+de un conductor cargado en condiciones electrostáticas
+a) es paralelo a la superficie, b) es perpendicular a la super-
+ficie, c) está a 45° con respecto a la superficie o d) depen-
+de de la carga en el conductor.
+70.
+PC ¿Es seguro permanecer en un automóvil durante una
+tormenta eléctrica (▼figura 15.30)? Explique su respuesta.
+▲ FIGURA 15.30 ¿Está seguro dentro del automóvil?
+Véase el ejercicio 70.
+
+534 CAPÍTULO 15 Cargas, fuerzas y campos eléctricos
+71. PC En condiciones electrostáticas, la carga en exceso en
+un conductor está distribuida de manera uniforme sobre
+su superficie. ¿Cuál es la forma de la superficie?
+72. PC Los edificios altos tienen pararrayos para protegerlos
+del impacto de relámpagos. Explique por qué los pararra-
+yos son puntiagudos y rebasan la altura de los edificios.
+73. EI
+● Una esfera sólida conductora está rodeada por una
+cubierta esférica gruesa conductora. Suponga que una car-
+ga total /H11001Q se coloca inicialmente en el centro de la esfera
+interior y luego se le libera. a) Después de que se alcanza el
+equilibrio, la superficie interior de la cubierta tendrá carga
+1) negativa, 2) cero o 3) positiva. b) En términos de Q,
+¿cuánta carga hay en el interior de la esfera? c) ¿En la su-
+perficie de la esfera? d) ¿En la superficie interior de la cu-
+bierta? e) ¿En la superficie exterior de la cubierta?
+74.
+● En el ejercicio 73, ¿cuál es la dirección del campo a) en
+el interior de la esfera sólida, b) entre la esfera y la cubier-
+ta, c) dentro de la cubierta y d) fuera de la cubierta?
+75. ●● En el ejercicio 73, escriba expresiones para la magni-
+tud del campo eléctrico a) en el interior de la esfera sólida,
+b) entre la esfera y la cubierta, c) dentro de la cubierta y 
+d) fuera de la cubierta. Su respuesta debe estar en térmi-
+nos de Q, r (la distancia desde el centro de la esfera) y k.
+76. ●● Una pieza de metal plana triangular con esquinas re-
+dondeadas tiene una carga positiva neta sobre ella. Dibu-
+je la distribución de carga sobre la superficie y las líneas
+de campo eléctrico cerca de la superficie del metal (inclu-
+yendo sus direcciones).
+77.
+●●● Considere que una aguja metálica es aproximada-
+mente un cilindro largo con un extremo muy puntiagudo
+pero ligeramente redondeado. Dibuje la distribución de
+carga y las líneas exteriores de campo eléctrico si la aguja
+tiene un exceso de electrones sobre ella.
+*15.6 Ley de Gauss para campos eléctricos: 
+un enfoque cualitativo
+78. OM Una superficie gaussiana rodea un objeto que tiene
+una carga neta de /H110025.0 /H9262C. ¿Cuál de los siguientes enun-
+ciados es cierto? a) Más líneas de campo eléctrico apunta-
+rán hacia fuera que hacia dentro. b) Más líneas de campo
+eléctrico apuntarán hacia dentro que hacia fuera. c) El
+número neto de líneas de campo a través de la superficie
+es cero. d) Sólo debe haber líneas de campo que apuntan
+hacia dentro a través de la superficie.
+79. OM ¿Qué podría decir acerca del número neto de líneas
+de campo eléctrico que pasan a través de una superficie
+gaussiana localizada completamente dentro de la región
+comprendida entre un conjunto de placas paralelas con
+cargas contrarias?  a) El número neto apunta hacia fuera.
+b) El número neto apunta hacia dentro. c) El número neto
+es cero. d) El número neto depende de la cantidad de car-
+ga en cada placa.
+80. OM Dos superficies esféricas concéntricas encierran una
+partícula cargada. El radio de la esfera exterior es el do-
+ble del radio de la interior. ¿Cuál esfera tendrá más líneas
+de campo eléctrico que pasan a través de su superficie? 
+a) La más grande. b) La más pequeña. c) Ambas esferas
+tendrían el mismo número de líneas de campo que pasan
+a través de ellas. d) La respuesta depende de la cantidad
+de carga de la partícula.
+81. PC La misma superficie gaussiana se usa para rodear
+dos objetos cargados por separado. El número neto de lí-
+neas de campo que penetran la superficie es el mismo 
+en ambos casos, pero las líneas tienen sentido contrario.
+¿Qué podría decir acerca de las cargas netas sobre los dos
+objetos?
+82. PC Si el número neto de líneas de campo eléctrico apun-
+ta hacia fuera desde una superficie gaussiana, ¿esto nece-
+sariamente significa que no hay cargas negativas en el
+interior? Explique con un ejemplo.
+83.
+● Suponga que una superficie gaussiana encierra tanto
+una carga puntual positiva (que tiene seis líneas de cam-
+po que salen de ella) como una carga puntual negativa
+(con el doble de magnitud de la carga positiva). ¿Cuál es
+el número neto de líneas de campo que pasan a través de
+la superficie gaussiana?
+84.
+EI ●● Una superficie gaussiana tiene 16 líneas de campo
+que salen cuando rodea una carga puntual de /H1100110.0 /H9262C y
+75 líneas de campo que entran cuando rodea una carga
+puntual desconocida. a) La magnitud de la carga desco-
+nocida es 1) mayor que 10.0 
+/H9262C, 2) igual a 10.0 /H9262C o 
+3) menor que 10.0 /H9262C. ¿Por qué? b) ¿Qué magnitud tiene
+la carga desconocida
+85. ●● Si 10 líneas de campo salen de una superficie gaussia-
+na cuando ésta rodea por completo el extremo positivo
+de un dipolo eléctrico, ¿cuál sería el número de líneas si
+la superficie rodeara sólo el otro extremo?
+Ejercicios adicionales
+86. Una bolita de médula de saúco cargada negativamente
+(con masa de 6.00 /H1100310/H110023 g y carga de /H110021.50 nC) está sus-
+pendida verticalmente de una cuerda ligera y no conduc-
+tora cuya longitud es de 15.5 cm. Este aparato se coloca
+entonces en un campo eléctrico horizontal y uniforme.
+Después de ser liberada, la bolita llega a una posición 
+estable a un ángulo de 12.3° a la izquierda de la vertical.
+a) ¿Cuál es la dirección del campo eléctrico externo? 
+b) Determine la magnitud del campo eléctrico.
+87. Una partícula con una carga positiva de 9.35 pC está sus-
+pendida en equilibrio en el campo eléctrico entre dos pla-
+cas paralelas horizontales y con cargas contrarias. Cada
+una de las placas cuadradas tiene una carga de 5.50 /H11003
+10
+/H110025 C; entre ellas hay una separación de 6.25 mm y sus
+lados tienen una longitud de 11.0 cm. a) ¿Cuál placa debe
+estar cargada positivamente? b) Determine la masa de la
+partícula.
+88. PC Utilice los argumentos del principio de superposi-
+ción y/o de simetría para determinar la dirección del
+campo eléctrico a) en el centro de un cable semicircular
+con carga positiva uniforme, b) en el plano de una placa
+
+Ejercicios 535
+lisa con carga negativa, justo fuera de una de las orillas, y
+c) en el eje perpendicular bisector de un largo y delgado
+aislador con más carga negativa en un extremo que carga
+positiva en el otro.
+89. Un electrón parte de una placa que integra un arreglo de
+placas paralelas cargadas y con una pequeña separación
+(vertical). La velocidad del electrón es de 1.63 /H1100310
+4 m/s
+hacia la derecha. Su rapidez al alcanzar la otra placa, lo-
+calizada a 2.10 cm, es de 4.15 /H1100310
+4 m/s. a) ¿Qué tipo de
+carga hay en cada placa? b) ¿Cuál es la dirección del cam-
+po eléctrico entre las placas? c) Si las placas son cuadra-
+das y sus lados miden 25.4 cm de longitud, determine la
+carga en cada una.
+90. Dos cargas fijas, de /H110023.0 y /H110025.0 
+μC, están separadas 
+0.40 m. a) ¿Dónde debería colocarse una tercera carga de
+/H110021.0 μC para que el sistema de tres cargas esté en equi-
+librio electrostático. b) ¿Y si la tercera carga fuera de
+/H110011.0 μC?
+91. Encuentre el campo eléctrico en el punto O para la confi-
+guración de cargas que se ilustra en la ▼ figura 15.31.
+92. PC Un bloque uniforme de metal (menos grueso que la
+distancia de separación entre las placas) se inserta de for-
+ma paralela entre un par de placas paralelas con cargas
+contrarias. Haga un boceto del campo eléctrico resultan-
+te entre las placas incluyendo al bloque.
+93. Un electrón en un monitor de computadora entra a me-
+dio camino entre dos placas paralelas con cargas opues-
+tas, como se ilustra en la 
+▼figura 15.32. La rapidez inicial
+del electrón es de 6.15 /H11003107 m/s y su desviación vertical
+(d) es de 4.70 mm. a) ¿Cuál es la magnitud del campo
+eléctrico entre las placas? b) Determine la magnitud de la
+densidad de la carga superficial en las placas en C/m2.
+3.0 m
+4.0 m
+− 4.0 /H9262C
+5.0 /H9262C
+O x
+y
+▲ FIGURA 15.31 Campo eléctrico Véase el ejercicio 91.
+d /H11005 4.70 mm
++++++
+–––––
+10 cm
+1.0 cme−
+▲ FIGURA 15.32 Un electrón en un monitor 
+de computadora Véase el ejercicio 93.
+94. PC Para un dipolo eléctrico, el producto qd se llama mo-
+mento dipolar y se denota con el símbolo p. El momento
+dipolar es en realidad un vector que apunta del extre-
+mo negativo al positivo. Suponiendo que un dipolo eléc-
+trico está libre para moverse y girar, y que parte del re-
+poso, a) haga un boceto para demostrar que si se coloca
+en un campo uniforme girará conforme trate de “alinear-
+se” con la dirección del campo. b) ¿Qué cambia en el mo-
+vimiento del dipolo si el campo no es uniforme?
+p
+S
+Los siguientes problemas de física Physlet pueden utilizarse con este capítulo.
+22.1, 22.2, 22.3, 22.4, 22.5, 22.7, 22.8, 22.9, 23.1, 23.2, 23.4, 23.6, 23.7, 23.8
+
+16.1 Energía potencial eléc-
+trica y diferencia de 
+potencial eléctrico 537
+16.2 Superficies 
+equipotenciales y 
+el campo eléctrico 543
+16.3 Capacitancia 549
+16.4 Dieléctricos 552
+16.5 Condensadores en 
+serie y en paralelo 557
+CAPÍTULO
+16
+L
+a chica en la imagen experimenta algunos efectos eléctricos, conforme se
+carga a un potencial eléctrico de varios miles de volts. Los circuitos domés-
+ticos operan a sólo 120 volts y pueden darle a usted un choque molesto y
+potencialmente peligroso. Sin embargo, la señorita no parece tener ningún pro-
+blema. ¿Qué es lo que pasa? El lector encontrará la explicación de esto y de mu-
+chos otros fenómenos eléctricos en éste y en los siguientes dos capítulos. Ahora
+estudiaremos el concepto básico de potencial eléctrico, y examinaremos sus pro-
+piedades y su utilidad.
+Aun cuando este capítulo se concentra en el estudio de conceptos fundamen-
+tales de electricidad, como voltaje y capacitancia, se incluye información sobre sus
+aplicaciones. Por ejemplo, la máquina de rayos X de su dentista trabaja con alto
+voltaje para acelerar electrones. Los desfibriladores del corazón utilizan condensa-
+dores para almacenar temporalmente la energía eléctrica requerida para estimular
+el corazón a tomar su ritmo correcto. En las cámaras fotográficas se utilizan con-
+densadores para almacenar la energía que acciona la unidad de flash. Nuestro sis-
+tema nervioso, al ser una red de comunicación, es capaz de enviar miles de voltajes
+eléctricos por segundo, que van y vienen por los “cables” que llamamos nervios.
+Estas señales son generadas por actividad química. El cuerpo las utiliza para per-
+mitirnos hacer muchas actividades que damos por sentadas, como el movimiento
+muscular, los procesos mentales, la visión y la audición. En capítulos posteriores,
+analizaremos más usos de la electricidad, como los aparatos eléctricos, las compu-
+tadoras, los instrumentos médicos, el sistemas de distribución de energía eléctrica
+y el cableado doméstico.
+• La unidad de capacitancia eléctrica, el farad,
+recibió ese nombre en honor del científico
+británico Michael Faraday (1791-1867). A los
+21 años y con escasa educación formal, Fara-
+day se convirtió en asistente de laboratorio en
+la Real Institución de Londres. Finalmente,
+ocupó el cargo de director del laboratorio. Fa-
+raday descubrió la inducción electromagnéti-
+ca, que es el principio detrás de las modernas
+plantas generadoras de electricidad.
+• En electroquímica, una importante cantidad de
+carga, llamada faraday, equivale a 96 485.3415
+coulombs. El nombre se eligió en honor de
+Michael Faraday por sus experimentos elec-
+troquímicos, los cuales demostraron que se
+requiere 1 faraday de carga para depositar 
+1 mol de plata en el cátodo cargado negati-
+vamente de su aparato.
+• El conde Alessandro Volta nació en Como,
+Italia, en 1745. Como no habló sino hasta los
+4 años, su familia estaba convencida de que
+sufría retraso mental. Sin embargo, en 1778
+fue el primero en aislar el metano (el princi-
+pal componente del gas natural). Al igual que
+muchos químicos de su época, hizo un traba-
+jo significativo sobre la electricidad en rela-
+ción con las reacciones químicas. Construyó
+la primera batería eléctrica, y la unidad de
+fuerza electromotriz, el volt (V), recibió ese
+nombre en su honor.
+• Las anguilas eléctricas pueden matar o para-
+lizar a sus presas produciendo diferencias de
+potencial (o voltajes) mayores de 650 volts,
+una cifra que equivale a más de 50 veces el
+voltaje de un acumulador (batería) de auto-
+móvil. Otros peces eléctricos, como el nariz
+de elefante, generan apenas 1 volt, que re-
+sulta útil para localizar a sus presas, pero no
+para cazarlas.
+HECHOS DE FÍSICA
+POTENCIAL ELÉCTRICO,
+ENERGÍA Y CAPACITANCIA
+536
+
+16.1 Energía potencial eléctrica y diferencia de potencial eléctrico 537
+16.1 Energía potencial eléctrica y diferencia 
+de potencial eléctrico
+OBJETIVOS: a) Entender el concepto de diferencia de potencial eléctrico (voltaje) 
+y su relación con la energía potencial eléctrica y b) calcular diferen-
+cias de potencial eléctrico.
+En el capítulo 15, los efectos eléctricos fueron analizados en términos de vectores de
+campo eléctrico y líneas de fuerza eléctrica. Recuerde que en los primeros capítulos, al
+estudiar la mecánica, iniciamos el uso de las leyes de Newton, los diagramas de cuer-
+po libre y las fuerzas (vectores). Entonces, la búsqueda de un enfoque más sencillo nos
+condujo al estudio de cantidades escalares como el trabajo, la energía cinética y la ener-
+gía potencial. Con esos conceptos, pudieron emplearse métodos de energía para resol-
+ver muchos problemas que habrían sido mucho más difíciles de tratar usando el
+enfoque vectorial (fuerza). Resulta extremadamente útil, tanto conceptualmente como
+desde un enfoque de resolución de problemas, extender esos métodos de energía al es-
+tudio de los campos eléctricos.
+Energía potencial eléctrica
+Empecemos con uno de los patrones de campo eléctrico más sencillo: el campo entre
+dos grandes placas paralelas cargadas opuestamente. Como vimos en el capítulo 15, cer-
+ca del centro de las placas el campo es uniforme en magnitud y en dirección (
+▼figura
+16.1a). Suponga que una carga pequeña positiva q/H11001se mueve con rapidez constante
+contra el campo eléctrico, directamente de la placa negativa (A) a la placa positiva (B).
+Se requiere una fuerza externa con la misma magnitud que la fuerza eléctrica
+(¿por qué?), de manera que Fext /H11005q/H11001E. El trabajo efectuado por la fuerza externa es po-
+sitivo, ya que la fuerza y el desplazamiento van en la misma dirección. Así, la cantidad
+de trabajo hecho por la fuerza externa es W
+ext /H11005Fext(cos 0/H11034)d /H11005q/H11001Ed.
+Si la carga de prueba es liberada cuando llega a la placa positiva, ésta acelerará de
+regreso hacia la placa negativa, ganando energía cinética. Esta energía cinética resulta
+del trabajo efectuado sobre la carga, y la energía inicial (cuando no hay energía ciné-
+tica en B) debe ser algún tipo de energía potencial. Al mover la carga de la placa A a 
+la placa B, la fuerza externa incrementa la energía potencial eléctrica, U
+e, de la carga
+(UB /H11022UA) en una cantidad igual al trabajo hecho sobre la carga. Por lo que el cambio
+en la energía potencial eléctrica de la carga es:
+La analogía gravitacional del campo eléctrico de placas paralelas es el campo gravi-
+tacional cerca de la superficie de la Tierra, donde ese campo es uniforme. Cuando un
+objeto se eleva una distancia vertical h a velocidad constante, el cambio en su energía
+potencial es positivo (U
+B /H11022UA) e igual al trabajo efectuado por la fuerza externa (levan-
+tamiento). Suponiendo que no hay aceleración, esta fuerza es igual al peso del objeto:
+F
+ext /H11005w /H11005mg (figura 16.1b). Así, el incremento en energía potencial gravitacional es
+(Nota: para distinguir con claridad entre las dos situaciones, se usan diferentes símbo-
+los h y d.)
+¢Ug = UB - UA = Fext
+ h = mgh
+¢Ue = UB - UA = q+
+ Ed
+1F
+S
+ext2
+E
+S
+,
+Nota: de la ecuación, 
+y F
+S
+= q+
+ E
+S
+.
+E
+S
+= F
+S
+>q+
+ 
++ + + + +
+–––––
+hd
+B
+A
+E = Fe 
+q+
+q+
+a)
++
++
+b)
+m
+B
+A
+g = m
+w
+▼ FIGURA 16.1 Cambios en energía potencial en campos eléctricos y gravitacionales 
+uniformes a) Para mover una carga positiva q/H11001contra el campo eléctrico se requiere trabajo
+positivo e incrementa la energía potencial eléctrica. b) Para mover una masa m contra el 
+campo gravitacional requiere trabajo positivo e incrementa la energía potencial gravitacional.
+Ilustración 25.1 Energía y voltaje
+
+538

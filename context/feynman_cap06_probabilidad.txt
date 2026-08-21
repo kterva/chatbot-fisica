@@ -1,0 +1,642 @@
+Tema: Teoría de la probabilidad (Capítulo 6 — Lecciones de Física, Feynman, Vol. I)
+
+6-1 Posibilidad y probabilidad 
+6-2 Fluctuaciones 
+6-3 La caminata al azar 
+6-4 Una distribuciOn de probabilidad 
+6-5 El principio de indeterminaciOn 
+"La verdadera l6gica de estc mun do estil en el citlculo de probabilidades." 
+-James Clerk Maxwell 
+6-1 Posibilidad y probabilidad 
+"Posibilidad" es una palabra de uso comlln en la vida diaria. Los reportajes de 
+la 'radio al habiar del tiempo para maiiana suelen decir "hay un sesenta por ciento 
+de posibilidad de lluvla ". Ustedes welen decir '·hay una pequeiia posibilidad de que 
+yo viva hasta los cien aiios ". Los cientificos tambien usan la palabra posibilidad. 
+Un sism6logo puedc cstar interesado en la pregunta: ";,Cui! es la posibilidad de que 
+haya un terremoto de cierta magnitud al sur de California el pr6ximo aii.o?" Un fi. 
+sico puede preguntarse: "(.Cuitl es la posibilidad de que cierto contador geiger regis· 
+tre vcinte cuentas en los pr6ximos diez scgundos?" Un politico o un hombre de esta· 
+do puede estar interesado en la pregunta: "(.Cu<il es !a posibilidad de que haya una 
+guerra nuclear dcntro de los prOximos diez aiios?'' Ustedes pueden estar interesados 
+en la posibilidad de que aprcndan algo en estc capitulo. 
+Por posibilidad queremos exprcsar algo coma una conjetura. (.Por quC haccmos 
+conjeturas? Haccmos conjeturas cuando deseamos hacer un juicio. pcro tenemos 
+una informaci6n incompleta o un conocimiento incierto. Queremos hacer una con· 
+jetura de cOmo son las cosas, o que cosas cs posiblc que ocurran. A mcnudo desea· 
+mos haccr una conjetura, porque tenemos que tomar una decisi6n. Por ejemplo: 
+"i,Llevare mi impermeable maiiana? (.Contra que movimientos de la tierra debo dise· 
+ii.ar un nuevo edificio? (.Me construire un refugio contra el polvo radioactive? (,Debo 
+cambiar mi posici6n frente a las negociaciones internacionales? lire hoy a clases?". 
+A veces hacemos conjeturas porque deseamos, con nuestro limitado conocimien· 
+to, decir tanto como podamos acerca de alguna situaci6n. En rcalidad, cualquier 
+generalizaci6n es de !a naturaleza de una conjetura. Cualquier teoria fisica cs una 
+especie de conjetura. Hay conjeturas buenas y malas. La teoria de la probabilidad 
+es un sistema para hacer conjeturas mejores. El lenguaje de las probabilidades nos 
+permite hablar cuantitativamente
+
+acerca de alguna situaci6n que puecie ser altamente variable, pero que tenga un com­
+portamiento promeciio consistente. 
+Consideremos el lanzamiento de una monecla. Si el lanzamiento -y la moneda­
+son "honestos", no hay manera de saber que esperar como resultado de un lanza­
+miento particular. Sin ~bar1m, esperariamos queen un gran nllmero de lanzamien­
+tos debiera haber aproximadamente iguaJ nlimero de caras y cruces. Decimos: "La 
+probabilidad de que un lanzamiento resulte cara es 0,5." 
+Hablamos de probabilidad s6lo para observaciones que contemplamos que se 
+realicen en el futuro. Por "probabilidad" de un resu/tado particular de una observa­
+ci6n entendemos nuestra estimaci6n de la fracci6n mds probable de un nUmero de 
+observaciones repetidas que dardn ese resultado particular. Si imaginamos repetir 
+una observaci6n -ta! como mirar una moneda recientemente Janzada- N veces, y si 
+llamamos NA nuestra estimaciOn del nU.mero mis probable de nuestras observacio­
+nes que dara alglln resultado especificado A. por ejemolo el resultado "caras ",en­
+tonces por P(A), la probabilidad de observar A, entendemos 
+P(A) ~ NA(N. (6.1) 
+Nuestra definici6n requiere varios comentarios. En primer lugar, podemos hablar 
+de probabilidad de alglln suceso s6lo si la ocurrencia es un resultado posible de al­
+guna observaci6n repetible. No esti daro que tenga alglin sentido preguntar: "~Cui! 
+es la probabilidad de que haya un fantasma en esa casa?" 
+Ustedes pueden objetar que ninguna situaci6n es exactamente repetible. Esto es 
+cierto. Cada observaci6n diferente debe al menos ser en diferente tiempo o lugar. 
+Todo Jo que podemos decir es que las observaciones "repetidas" deberian, para 
+nuestros fmes, parecer equivalentes. Al menos, supondremos que cada observaci6n 
+fue hecha en un situaci6n equiva!entemente preparada, y en especial con el mismo 
+grado de ignorancia al comienzo. (jSi en un juego de naipes miramos disimulada­
+mente las cartas de un oponente, la estimaci6n de nuestra posibilidad de ganar es di­
+ferente que si no lo hicieramos !) 
+Debemos poner 6nfasis que Ny NA en la ecuaci6n (6.1) no pretenden representar 
+nUmeros basados en observaciones reales. NA es nuestra mejor estimaci6n de lo que 
+ocurrir{a en N observaciones imaginadas. La probabilidad depende, por lo tanto, 
+de nuestro conocimiento y de nuestra habilidad para hacer estimaciones. En reali­
+dad, jde nuestro sentido comUn! Afortunadamente, hay clerto grado de acuerdo en 
+el sentido comUn para muchas cosas, de modo que distinta gente hara la misma 
+estimaci6n. Sin embargo, las probabilidades no necesitan ser nUmeros "absolutos··. 
+Ya que dependen de nuestra ignorancia, pueden llegar a ser diferentes si nuestro co­
+nocimiento cambia. 
+Pueden ustedes haber notado otro aspecto bastante "subjetivo" de nuestra defi­
+nici6n de probabilidad. Nos hemos referido a NA como "nuestra estimaci6n del nU­
+mero m.ii.s probable ... ., No queremos decir que esperamos observar exactamente NA, 
+sino que esperamos un nillnero cercano a NA, y que el ntimero NA es mds probable 
+que cua!quier otro en la vecindad. Si lanzamos una moneda. digamos 30 veces, espe­
+rariamos quc no serla muy probable que el nUmero de cams sea exactamente 15, sino 
+mils bien un nUmero ccrcano a 15, digamos 12, 13, 14,. 15, 16 6 17. Sin embargo, 
+si tenemos quc clegir. decidiriamos que 15 caras es mas probable que ningUn otro 
+nUmero. Escribiriamos P(caras) = 0,5. 
+6-2
+
+iPor que elegimos 15 como mils probable que cualquier otro nUmero'! Debemos 
+haber razonado con nosotros mismos de la siguiente manera: si el nUmero mils pro­
+bable de caras es Ne en un nillnero total de lanzamientos N, entonces el nfunero 
+mci.s probable de cruces Nz es (N-Nc). (iEstamos suponiendo que cada lanzamiento 
+da o bien cµras o cruces, y no "otro" resultado!) Pero si la moneda es "honesta ", 
+no hay pref¢i::encia por caras o cruces. Hasta que tengamos alguna raz6n para pensar 
+que la moneda (o el lanzamiento) es deshonesta, debemos conceder igual probabili­
+dad a caras y c~ces. De man era que ponemos N z= N c Por consiguiente N z= N c= 
+N/2, o P(C) ~ P/Z) ~ 0,5. 
+Podemos generalizar nuestro razonamiento a cua/quier situaci6n en que hay m re­
+sultados posibles diferentes pero ·•equivalentes" (esto es, igualmente probables) de una 
+observaci6n. Si una observaci6n da m resultados diferentes, y tenemos razones para 
+creer que cualquiera de ellos es tan probable como cualquier otro, entonces la proba­
+bilidad de un resultado particular A es P(A) = 1 /m. 
+Si hay siete bolas de diferentes colores en una caja opaca y sacamos una "al azar" 
+(esto es, sin mirar), la probabilidad de obtener una bola de un color particular es 1 / 1• 
+La probabilidad de sacar a degas el diez de corazones de un naipe barajado de 52 
+cartas es 1/ 51• La probabilidad de !ograr dos ases con dados es h-
+En el capitulo 5 dcscribimos el tamaiio de un nllcleo en tfrminos de su itrea 
+aparente, o "secci6n eficaz ". Cuando lo hidmos estilbamos hablando rea\mente 
+acerca de probabilidades. Cuando disparamos una particula de alta energia contra 
+una delgada !iimina de material, hay derta posibilidad de que pase derecho y cierta 
+posibi!idad de que de en un nUcleo. (Ya que el nllc\eo es tan pequeii.o que no pode­
+mos verlo, no podemos apuntar derecho al nUcleo. Debemos "disparar a degas".) 
+Si hay n iltomos en nuestra limina y el nllcleo de cada itomo tlene una sccci6n 
+eficaz de iirea rr, entonccs cl ilrca total "sombreada ., por el nUcleo es na. Para 
+un gran nUmero N de disparos al azar, esperamos que el nUmero de impactos Nccn 
+algUn nUcleo sea a N como el itrea sombreada es al ilrea total de la lilmina: 
+NcfN = nrr/A. (6.2) 
+Podemos dedr, por lo tanto, que la probabilidad que cualquier particula proyectil 
+sufra una colisi6n al pasar a travCs de !a liimina es 
+Pc= Arr, (6.3) 
+donde n! A es el nUmero de iltomos por unidad de irea en nuestra lilmina. 
+6-2 Fluctuaciones 
+gustaria, ahora, usar nuestras ideas acerca de probabilidad para considerar 
+con detalle la prcgunta: ··icuantas caras puedo realmente esperar si !anzo N 
+veces una moneda ?'" Sin embargo, antes de contestar esta pregunta, veamos lo que 
+pasa en ta\ "experimento". La figura 6-1 muestra los resultados obtenidos en las 
+primcras tres corridas de ta! experimento en que N -- 30. Las secucncias de ··earns" 
+Y ··cruccs" se muestran ta! coma se obtuvieron. El dio 11 earns: 
+el segundo tambicn dio I I; el tercero 16. En los vcL obtll-
+vimos 15 
+6-3
+
+H-- Cara H 
+T =Cruz 
+........... ------ -
+Fig 6-1. Secuenc1as observadas de ca-
+• '"" ~~ "'2- ras y cruces en Ires Juegos de 30 lanzarn1en­
+T '" • ••" " • • • • 14 tos cada uno 
+earns. t,Debemos empezar a sospechar de la moneda? ;,O estabamos equivoca­
+dos al pensar que el nUmero mas probable de earns en ese juego era 15'! Se hicieron 
+noventa y siete corridas mas para obtener un total de 100 experimentos de 30 lanza­
+mientos cada uno. Los resultados de los experimentos sedan en la Tabla 6-1.* 
+Al mirar los nUmeros de la Tabla 6- J, vemo1> que la mayoria de Jus resultados 
+~on "pr6ximos" a 15, y 4ue sc encucntran entre 12 y 18. Podemos tener una mejor 
+idea de los detalb de cstos resultados. si hacemos un grafieo de la distribuci6n de 
+los resultado1>. Contamos el nlimero de juegos en que se obtuvo el resultado k, y 
+gragicamos este nlimero para cada /.... En la figura 6 2 se muestra dieho grafico. El 
+resultado de !5 caras se ohtuvo en 13 juegos. El resultado de 14 earns tambien se 
+obtuvo 13 vcces. Los re1>ultados 16 y 17 se ohtuvieron mds de 13 veces. ;,Vamos a 
+eoncluir que hay una tendenda hacia las earns'? t.No fue sufieientemente buena 
+nuestra "mejor estimaci6n '"? Debemos concluir ahora que el resu!tado ··mas proba­
+ble'' de una serie de 30 lanzamicntos es en realidad 16 caras? 1Esperen! En todo~ 
+!os juegos tomados en eonjunto hubo 3.000 lanrnmicntos. Y el nUmero total de ca­
+ras obtenidas fue l.492. La fracciOn de lanzamientos que dieron caras es 0,497, muy 
+cercana, pero ligeramentc menor que la mitad. jPor eierto, no podriamos suponer 
+que la probabilidad de obtener caras sea mayor que 0.5! El hecho que un conjunto 
+particular de observaciones dio 16 caras mas a menudo es unaflucluaci6n. Alin 
+esperamos que el nlimero mas probable de caras es 15. 
+Tabla 6-1 
+Nii:mero de caras en ensayo~ sucesivos de 30 lanzamientos de una moneda. 
+~-~----
+/·"· 
+II 16 17 15 17 16 19 18 15 13 
+II 17 17 12 20 23 II 16 17 14 
+16 12 
+15 10 18 17 13 15 14 15 
+16 12 II 22 12 21) 12 II 16 12 
+16 10 II 13 14 16 15 16 1.1 r.8 
+14 14 13 16 15 19 21 14 12 15 
+16 II 16 14 17 14 II 16 17 16 
+19 15 14 12 18 15 14 21 16 
+17 17 I' IJ 14 17 IJ 16 IJ 
+• Despues de los tres primeros juegos, el experimento fuc realmente hecho batiendo vio­
+\entamente 30 monedas en una caja y luego contando el niimero de caras que resultaron. 
+6-4
+
+:~~.:: .. j-~A-[] 'f 11.~.~~~;~'::."m,·JI enquese ' -Numero probable 
+~::~,;:;~ t --- --~. · I 11 l r~~---
+0 JO ,\ "" XI 
+~aNUmerodecaras 
+Fig. 6--2. Resumen de los resultados de 100 1uegos de 30 lanzarn1entos cada uno. 
+Las barras verticales indican el nUmero de juegos en los cuales se obtuvo un resultado 
+de K caras. La curva punteada muestra los nUmeros esperados di; 1uegos con el resultado 
+k obtenidos por un calculo de probabilidad. 
+Podemos hacer la pregunta: "(,Cuill es la probabilidad que en un juego de 30 
+lanzamientos resulten 15 caras. 6 16, o cualquier otro nUmero?" Hemos dicho que 
+en un ensayo de un lanzamiento, la probabilidad de obtener una cara es 0,5 y que 
+la probabilidad de no obtener cara es 0,5. En un ensayo de dos lanzamientos hay 
+cuatro resultados posibles: cara-cara, cara-cruz, cruz-cara, cruz-cruz. Ya que 
+cada una de estas secuencias es igualmente probable, concluimos que (a) la probabi­
+lidad para lograr dos caras es i, (b) la probabilidad de obtener una earn es l, (c) la 
+probabilidad de no obtcncr ninguna es ~- Hay dos modos de obtener una cara, pero 
+uno s6lo para obtener cero o dos earas. 
+Consickren ahora un jucgo de tres lanzamientos. En tercer lanzamiento cs 
+igualmente probable que resulten earns o cruees. Hay un m0do de obtener tres 
+caras: debemos haber obtcnido dos earns en los dos primeros lanzamientos, y cara 
+en el tercero. Hay, sin embargo. Ires modos de obtem:r dos earns. Podriamos tirar 
+cruz despuCs de haber tirado dos caras (un modo) o podriamos tirar cara despui!:s 
+de tirar s6lo una earn en los dos primeros lanLamientos (dos modos). De manera 
+que para !os resultados 3-caras, 2-caras, !-earn, 0-cara tencmos que e! nUmero de 
+modo igualmente posible es I, 3. 3, I, con un total posible de oeho sccucncias difc­
+rcntes. Las probabilidades son ~. ~. ~. A 
+Lo~ razonamientos que hemos estado hacienda pucden rcsumirse en un diagra-
+como cl de ligura 6 3. Est.ii claro c(Jmo puede continuarse el diagrama para 
+con un mayor de lanzamientos. La figura 6·4 muestra dicho diagrama 
+para un juego de seis lanzamientos. El nUmero de '"modos" en cualquier punto del dia­
+grama es justamcnte el nUmero de "caminos" diferentes (secuencias de earns y cruces) 
+que pueden tomarse desde el punto de partida. La columna vi.-rtical nos da el nUmero 
+total de cams logradas. Fl conjunto de nUmeros que aparcce en dicho diagrama se 
+conoce como tritingulo de Pascal. Los nUmeros 
+6-5
+
+Modru Rcs11~Proh. 
+"'° 
+<:~·.S: 
+I I.> Ptim~r Segundo ('- 1 
+lanzam1ento lanzamienlo la~~~;,.ro 
+Fig. &--3. Un d1agrama para demos­
+trar el nUmero de modos en que se puede 
+obtener un resultado de 0. 1. 2, 6 3 ca­
+ras en un 1uego de tres lanzamientos. 
+Fig 6-4 Un dtagrama serne1ante 
+al de la f1gura 6-3. para un 1uego de se1s 
+lanzarn1entos 
+se conocen tambi&l como coeficienJes binomiales, porque tambien aparecen en el desarrollo 
+de (a + bf. Si llamamos n al mi.mere de lanzamientos y k al nllmero de caras lan­
+zadas, entonces Jes nllmeros del diagrama se designan usualmente con el simbolo 
+( r ). Podemos notar de paso que los coeficientes binomiales pueden tambii:n calcu­
+larse de 
+(") n' k = k!(n - k)! ' (6.4) 
+donde n!, llamado "factorial n'', representa el producto (n) (n-1) (n-2) ... (3) (2) (l). 
+Ahora estamos listos para calcular la prohabilidad P(k.n) de obtener k caras 
+en n lanzamientos, usando nuestra definiciOn (Ee. 6-1). El mi.mero total de secuencias 
+posibles es 2" (ya que hay dos resultados para cada lanzamiento), y el nllmero de 
+maneras de obtener k caras es ( ~ ) , todas igualmente probables, de mode que te-
+P(k,n) ~ ~- (6.5) 
+Ya que P(k,n) es la fracciim de juegos que esperamos que den k caras, entonccs 
+esperariamos encontrar en 100 juegos k caras 100 · P(k,n) veces. La curva punteada 
+de la figura 6-2 pasa por los puntos calculados con IOO·P(k,30). Vemos que espera­
+mos obtener un resultado de 15 caras en 14 6 15 juegos, mientras que este resultado 
+fue observado en 13 juegos. Esperamos un resultado de 16 en 13 0 14 juegos, pero 
+obtuvimos dicho resultado en 16 juegos. Tales fluctuaciones son "parte deljuego" 
+El metodo que acabamos de usar puede aplicarse a la situaci6n mils general en 
+que sO\o hay dos posibles resultados de una simple observaci6n. Designemos los dos 
+resultados per G (por ··gana"') y P (por "'pierde,.). En el case genera!, la probabih­
+dad de G o de P en un evento simple, no necesita ser igual. Sea p la probabi!idad 
+de obtener el resultado G. Entonces q, la probabi!ldad para P, e~ necesariamente 
+6·6
+
+(l-p). En un conjunto de n ensayos, la probabilidad P(k,n) que G se obtenga k veces 
+(6.6) 
+Esta funci6n de probabilidad se llama probabilidad de Bernouilli, o tambien bino­
+mial. 
+6-3 La caminata al azar 
+Hay otro interesante problema en que se requiere la idea de probabilidad. Es el 
+problema de la "caminata al azar". En su versiOn mils simple, imaginam.os un "jue­
+go ,. en que un "jugador" parte de! pun to x = 0, y en cada "movimiento" se re­
+quiere que de un paso, ya sea hacia adelante (hacia + x) o hacia atrii.s (hacia - x). 
+La elecciOn debe hacerse al azar, determinada, por ejemplo, por ei \anzamiento de 
+una moneda. l,C6mo describiremos el movimiento resultante? En su forma general 
+el problema estil. relacionado con el movimiento de los litomos (u otras particulas) 
+en un gas -llamado movimiento Browniano- y tambifo a la combinaci6n de errores 
+en ias medidas. Ustedes verim que el problema de la caminata al azar estit estrecha­
+mente relacionado con el problema de! lanzamiento de una moneda que ya hemos 
+discutido. 
+En primer lugar, veamos unos pocos ejemplos de una caminata al azar. Pode­
+mos caracterizar el progreso del caminante por la distancia neta DN recorrida en N 
+pasos. En el grifico de la figura 6-5 mostramos tres ejemplos de la trayectoria de un 
+caminante al azar. (Hemos usado para la secuencia al azar de las elecciones los 
+resultados de los lanzamientos de monedas que se muestran en la figura 6-1.) 
+lQue podemos decir de tal movimiento? En primer lugar podemos preguntar: 
+"lHasta d6nde iri en promedio?" Debemos esperar que su progreso promedio serii. 
+cero, 
+DIN) 
+Distancia 
+desdela 
+paruda 
+Pasos dados 
+'v' 
+'v' 
+Fig. 6--5 El progreso real1zado en una caminata al arnr La coordenada horizontal 
+N es el nUniero total de dados la coordenada vertical D(NJ e& la d1stancla neta 
+despla2ada desde la 1n1c1al
+
+ya que es igualmente probable ir hacia ade!ante o hacia atr3s. Pero tenemos la 
+impresi6n de t[ue al crccer N, es mas probable que se haya apartado del punto de 
+partida. Por !o tanto, podemos preguntar cuii.I es la distancia media viajada en valor 
+absoluto, es decir, cuii.I es el promedio del DI. Sm embargo, es mas comeniente tratar 
+con otra medida del "progreso'', el cuadrado de la distancia: D2 es positivo, ya sea 
+para el movimiento positivo o negativo. y por lo tanto es una razonable medida de 
+dicho vagabundeo al azar. 
+Podemos demostrar que el valor e1>perado para D,? ..:~ justamente N, el nUmero 
+de pasos dados. Por "valor csperado,. queremos indicar el valor probable (nuestra me· 
+jor estimaci6n), que podemos imaginar como el comportamiento promedio esperado 
+de muchas secuencias repetidas. Representamos ese valor esperado por ( D"j. l , 
+y podemos referirnos a et co mo la "media del cuadrado de la distancia ". Despues 
+de un paso, D 2 es siempre + 1, de manera que tenemos por cierto (D~) = I. 
+(Todas las distancias estar<in medidas en tfrminos de la unidad de un paso. No con 
+tinuaremos escribiendo !as unidades de distancia.) 
+El valor esperado de DN para N > I puede obtenerse a partir de D/'1-I· Si des 
+pues de (N--l) pasos, tenemos DN-l· entonces despues de N pasos tenemos D" =­
+DN-l + I 6 DN = DN.J - I. Para los cuadrados, 
+{
+DL, + 2DN-• + I, 
+D'J. = or 
+D.~-1 - 2DN-I + l. 
+(6.7) 
+En cierto nUmero de secuencias independientes, esperamos obtener cada valor la 
+mitad de las veces, asi nuestra expectaci6n promedio es justamente el promedio de 
+los dos valores posibles. El valor esperado para DN es entonces DJ,_1 + I. En gene­
+ral podriamos esperar para Dfr. 1 su "valor esperado" (Dl.-1) (jpor definici6n!). Asi 
+(6.8) 
+Ya hemos demostrado que ( Df) = 1; se concluye entonces que 
+D't =.' N, (6.9) 
+jun resultado particularmente simple~ 
+Si deseamos un nllmero tal como una distancia, en lugar de una distancta al cua­
+drado, para representar el "progreso hecho mils alla de! origen" en cl movtmiento 
+casual, po<lemos usar la "d1stancla media cuadni.tica., Dmc: 
+(6.10) 
+Hemos indicado que Ia matem.ittica de Ia caminata al azar es muy similar a la 
+de! jue¥~ dcl lanzamiento de !a mo~C<la que consideramos al comienzo de este capi­
+tulo .. ~1, 1maginamos que !a direccion de cada paso estii. en corre~pondencia con la 
+apancion de o en un lanzamiento de mone<Ja, entonces D es justamcnte 
+N.c - Nz, la cl nUmer? de caras y cruces. Ya que Ne + Nz - N, el 
+numero total de pa~o.s de lanz~miento.s), tenemos D = 2Nc N. Hemos deriva-
+do antes una expresion para la d1stribuc16n esperada de Ne (llamada tambiCn k) y 
+obtemdo el resultado de la ecuaci6n (6.5). Ya que
+
+N es justamente una Constante, tenemos la distribuci('Jn correspondiente para D. 
+(Ya que por cada cara por sabre N/2 hay una cruz .. ausente"', tenemos cl factor 
+2 entre Ne y D.) Los graficos de la figura 6~2 representan la distribuci6n de las 
+distancias que podcmos obtener en 30 pasos al azar (donde k-= l 5 debe lccrse 
+D-'-- O; k. 16, D ,_-, 2; etc.) 
+La variaci6n de Ne de su valor esperado N/2 es 
+Ne-!{=~· (6.11) 
+La desviaci6n media cuadriltica es 
+(6.12) 
+De acuerdo con nuestro resultado para Dmc, esperamos que la distancia "tipica" 
+en 30 pasos deberia ser /3lf = 5,5 , o para un k tipico seria alrededor de 5,5/2 = 2,8 
+unidades a partir de 15. Vemos que el "ancho" de la curva en la figura 6-2, medido 
+desde el centro, es justamente de a!rededor de 3 unidades, en concordancia con este 
+resultado. 
+Estamos ahora en situaci6n de considerar una pregunta que hemos evitado hasta 
+ahora. (,COmo podremos decir si una moneda es "honesta" o estil .. cargada"? Al 
+menos, podemos dar ahora una respuesta parcial. Para una moneda honesta, espera­
+mos que la fracci6n de veces que aparecen caras sea 0,5, esto es 
+0,5. (6.13) 
+Tambiin esperamos que un N,. real se desvie de N/2 en aproximadamente V/V/2, 
+o quc lafracciOn se desvie en 
+l ../fl l 
+NT~ 2.JR. 
+Cuanto mas grandees N, tanlo mils cerca esperamos que este la fracci6n Ne! Na un 
+medio. 
+En la figura 6-6 hemos pucsto la fracci6n Ne! N para los !anzamientos de monc­
+da sei'ialados a! comienzo de cstc capitu\o. V cmos la tendencia para la fracci6n de 
+earns de aproximarse a 0,5 para N grande. Desafortunadamente, para cualquier co­
+rrida, o combinaci6n de corridas, no hay garantia que la desviaci6n observada estC 
+siquiera cerca de la desviaci6n esperada. 
+Crnccw;lzc: 
+decar<i~.,.,~1-------==-~~,-. 
+0 ~ _....J....__[___~ 
+I l 4 I 01 3> 14 ltO ~ ~· 10f4 r"""'OOff
+
+Existe siempre la posibilidad finita que una gran fluetuaeiOn -una larga ristra de 
+earas o de eruees- dC una desviaeiOn arbitrariamente grande. Todo lo que podemos 
+decir es que si la desviaciOn es eercana al valor esperado I /2 JN (digamos dentro 
+de un factor 2 0 3 ), no tenemos razOn para sospeehar de la honestidad de la mo­
+neda. Si es mueho mayor, podriamos sospechar, pero no probar que la moneda estil 
+eargada (jO que el que la lanza sea listo!). 
+Tampoeo hemos considerado cOmo tratar el caso de una "moneda" o de algUn 
+otro objeto de "suerte" similar (por ejemplo, una piedra que 5iempre cae en una de 
+dos posiciones) ta] que tengamos una buena ra10n para ereer que tenga una proba­
+bilidad diferente para earas o cruces. Hcmos dcfinido P{C) - (Ne) IN. i,COmo 
+sabremos quC esperar para Ne? En algunos casos, lo mcjor que podemos haeer es 
+observar el nUmero de earns obtenidas en un gran nllmero de lanzamientos. A falta 
+de algo mejor, debemos poner (Ne) = Ne (observa<lo). (i,COmo podriamos espe­
+rar algo mils?) Debemos comprender, sin embargo, que en tal easo un experimento 
+diferente, o un observador diferente, podria concluir que P(C) era difcrente. Sin em­
+bargo, deberiamos esperar que las diferentes respuestas coneuerdan con la desviaei(m 
+I /2 VN-si P(C) es cercano a un medial. Un fisico expcnmental d!ee eorrientemente 
+que una probabilidad '"experimentalmente determinada tiene un "error ', y e;.cribe 
+(6.14) 
+Hay una implicaci6n en esta cxpresi6n que dice quc exi~te una probabihdad "vcrda 
+dera ., o "correcta" que podria calcularse si supieramos bastante, y que la 
+ciOn puede tener '"error" debido a una lluetuaei6n. Sm no hay de 
+hacer tal ra1onam1ento ll'ig1camente Es reconoeer 
+quc cl conccpto de prohahilidad es en un ha~ado 
+en un conoc1rn1ento inc1erto, y 
+a medida que obtenemos ma~ 
+6·4 Una distribuciOn de probabilidad 
+Volvamos ahora a la caminata al arnr y considercmo~ una modificaci6n de dla. 
+Supongamos que, adcm:b de una e!eccilm al azar de la direeemn l + o - ) de cada 
+paso. la /ongitud de eada paso tamb1en varia de un modo 1mpredecible. ~icndo la umca 
+eondiei6n que en promedio la longitud del paso sea una unidad. Este caso es mils re­
+prcscntativo de algo como el mov1m1ento tcrm1co de una mo!Ccula en un gas. Si 
+llamamos S a la longitud de 1.rn paso, entonces S puede tener cualquier ""alor, pero 
+lo m3.s a menudo estara "cercano" a ! . Para ser especificos, hagamos ( S1 ) - I ci, 
+igualmcnte, S 11" 1. derivaci{m para ( D2 ) proseguiria como antes cxccpto 
+que la ecuaciOn ahora cambiar~e y se leeril 
+Tenemos, coma antes, que 
+(D.~,) = N. (6.16) 
+6 10
+
+;, QuC esperariamos ahora 
+cjcmplo. la prohahilidad para 
+La probabilidad que D sea 
+bilidad alguna que la suma 
+sea exactamente igual a la suma 
+gritfico coma d de la figura 6-2. 
+Sin embargo, podcmos ohtener una representaci6n similar a !a de la figura 6-2 
+si preguntamos, no por la probabilidad de ohtener D exactamenre igual a 0, l 6 2, 
+sino en cambio cuitl es la probabilidad de D rercano a 0, I c'i 2. Definamos 
+P (x,.1.x) como la probahilidad de que D en el intervalo jx ubicado en x (di 
+gamos de x a x 1 c.'lx). Espcramos .\x pequeiiu la probabilidad de quc 
+D caiga en dicho intervalo sea a -1x, cl ancho del intervalo. Asi pode-
+mos cscribir 
+P(x, Lu) ~ p(x) ~x. (6.17) 
+F11-1 6---7 La dens1dad de probaU1l1Lfad para alcar12ar la d1sl<mc1a 0 desrle el 
+de eri una cam1nata al azar de N pasos fO se nucle en u111dades del valor 
+de la long1tur.J dc1 pciso ) 
+6-11
+
+pequetios incrementos .1x y evaluando la suma de los terminos p(x) La para cada 
+incremento. La probabilidad que D caiga en alguna parte entre x1 y x 1• que podemos 
+escribir P(x 1 < D < x2), es igual al area sombreada en la figura 6-8. Mientras mas 
+pequeflo tomemos cl incrcmento .1.x mils correcto es nuestro resultado. Por lo tamo. 
+podemos escribir, 
+P(x 1 < D < x~) = L p(t).1x ~ { 2 p(x)d~. (6.18) 
+El area bajo la curva completa es la probabilidad que D caiga en alguna parte 
+(esto es, que tenga algUn valor entre x =-w y x = + oo). Esa probabilidad es 
+ciertamente I. Debemos tener que 
+L:"' p(x)dx = I. (6.19) 
+Ya que las curvas de la figura 6- 7 se hacen mas anchas en proporcl6n a sus al-
+turas deben ser proporcionalcs a J /v'N para mantener el area total 
+La funci6n demidad de probahilidad que hemo5 de~crito es que se 
+encuentran mas comunmente. Se conoce coma !a dens1dad de normal 
+o gausswna. l"iene la forma matemiitica 
+donde 1J se llar11a la desnaciOn rwnnal }" en nuestro caso esta dada por (F 
+la raiz de la magnitud del paso medio cuadratico es diferente de I por rF = 
+lndicamos antes quc el movimiento de una molecula, o de cualquier particula. 
+en un gas es como una cammata al azar. Supongamos que abrimos una botclla de un 
+compuesto orgilnico y dejamos que a!go de ~u vapor escape al aire. St hay corrientes 
+de aire, de mancra 4ue el aire las cornente5 lle\aran tambien con 
+sigo el vapor. Pero aun en oirc qwl'lo, el vapor gradualmcntc ~e es-
+parcirit -difund1ra ha~ta quc penetrado entcramente en !a ~ala. Podemos de-
+tectarlo por su color o. por Las mokculas individuales del vapor orgarnco 
+se esparcen en el aire quieto a los IDO\imientos molcculares causados 
+lisiones con otras mokculas. S1 conocemos el tamaiio del ··paso" medio y el 
+de pasos que dan por segundo. podemos encontrar la probabi!idad que una. o 
+mokcu!as. sean cncontradas a cierta d1stancia de su punto de part1da de 
+cualquier intervalo de t1empo. A medida que pasa el tiempo, mas pasos se y el 
+6-12
+
+gas se esparce como en ·las curvas succsivas de la figura 6-7. En un capitulo pos-
+1erior, encontraremos que cl tamaiio de !os pasos y sus frecuencias estim relacio­
+nados con la temperatura y presi6n dcl gas. 
+Dijimos antes que la. preskm de un gas se debe ~ que las moleculas rebota~ C?!1" 
+tra las paredes de! recipiente. Cuando lleguemos mas tarde a hacer una descnpcton 
+mils cuantitativa, descarcmos saber la rapidez con que sc mueven las mo!eculas 
+cuando rebotan. ya que el impacto quc hacen depcnderit de esa velocidad. Sin em­
+bargo, no podemos hablar de la velocidad de las molCcu!as. Es necesario usar una 
+descripci6.n probabilistic_a. L'na molecula puede tener ~u.alquier velocida?, pero algu­
+nas veloc1dades son mas probables quc otras. Dcscnbimos lo que esta ocurriendo 
+diciendo que la probabilidad de que cualquier mo!Ccula particular tenga una velod­
+dad entre p y v + ill' es p(v) JP, donde p(v), una densidad de probabilidad, es una 
+funci6n dada de la ve!ocidad I'. Veremos miis tarde c6mo Maxwell, usando sentido 
+comUn y las ideas de probabilidad. pudo encontrar una expresi6n matem.itica para 
+p(y). La forma'" de la funci6n pi,.r) se mucstra en la figura 6-9. Las velocidades pue­
+den tcner cualquier pero lo mils posib!e es que esten cerca del valor mils pro­
+bable o esperado ( 
+Fig. 6--9. La d1str1buc16n de velocidades 
+de las mol8culas en un gas 
+A menudo interpretamo~ la curva de la figura 6-9 de un modo algo diferente. 
+Si consideramos las molCculas en un recipiente tipico (digamos con un vo!umen de 
+un litro). entonces hay un nUmero muy grande de moleculas prescntes (N ""' 10~~). 
+Ya que p(i').1r es la probabilidad de que una mo!Ccula tenga su .vebcidad en .~L', 
+con nuestra definicion de probabilidad quercmos dccir que el nl1mero esperado 
+( ....'. .V) que se encuentra con una veloc1dad en el intervalo .J r esta dado por 
+(6.21) 
+Llamamos a i\"p(i) "distribuci6n de velocidad". El itrea bajo la curva entre dos 
+velocidades v1 y v2, par ejemplo el area sombreada en la figura 6-9, representa [para 
+la curva .Np(1')) el nU.mero esperado de molCculas con velocidades entre 1' 1 y 1'~· 
+Ya que con un gas estamos tratando corrientemente con un gran nUmero de mo!ecu­
+las. esperamos que las desviaciones de Jos nUmeros esperados sean pequeiias (coma 
+l/yfNJ. asi, a menudo, omitimos decir el nUmero "esperado ... y decimos, en cambio: 
+"El nU.mero de 
+* La expresi6n de Maxwell es p(v) = Ci,le-.:"·'. en que a es una constante relacionada con 
+la temperatura y C se elige de modo que la probabilidad total sea uno. 
+6-13
+
+moleculas con 
+debemos 
+babies. 
+6-5 El principio de indeterminacii:m 
+es el itrea bajo la curva .. Sm embargo, 
+son ~iemprc acerca de nUmcro~ pru 
+Las ideas de probabilidad son cicrtamentc utiles para dcscnb1r cl comportamien 
+to de alga asi coma 1022 molecu!as en una muestra de gas, porque cs claramente 
+impracticable siquiera !ratar de cscnbir la posici6n y vc!ocidad para cada mo!ccula. 
+Cuando la probab1iidad ~e aphco por rmmcra ~eL a talcs problerna\ <.c con~1dcrli 
+que era una com:eniencia -una manera de tratar situaciones muy compleja5-. Ahora 
+creemos que las ideas de probabilidad son esenciales para la dcscripci6n del acontc 
+cer at6mico. De acuerdo con la mecitnica cuimtica, la teoria matemittica de las par­
+ticulas, hay siempre cierta indeterminacion en la especi)icaciOn de pos1cione~ y velo 
+cidades. A lo miis podemos decir ljUC hay cierta probabilidad de que cualquier par 
+ticula tenga una posicion cercana a cierta coordenada x. 
+I'·"' 
+,, I ~I ~!____,__~.\~:~ -.-
+'"' 
+Fig. 6--10 Dens1dades de probab1lidad 
+para la observac16n de la pos1c1on y velo­
+c1dad de una particula 
+Podemos dar una densidad de probabilidad pi{x), tal que pi{x)<lx sea la proba­
+bilidad de que la particulaseencuentrecntrcxy x + .1x. Si la particu!aestit razonablemen 
+te bien loca!ilada,d1gamos cerca de x,, la funciOn p,(x) puedeestardada porel gritficode 
+la figura 6- IO (a). En forma similar debemo~ especificar la velocidad de la particula 
+mediante una densidad de probabilidad pi(v) con p2(v)<l 11 la probab1lidad que se 
+encuentre la velocidad entre v y v + j v. 
+Es uno de los resultados fundamentales de la mecimica cuimtica que las dos fun· 
+ciones p 1(x) y PiM no pueden elegirse independientemente y que, en particular, am­
+bas no pueden hacerse arbitrariamente estrechas. Si llamamos l.1xl el "ancho" tipi· 
+co de la curva p/x), y IDv; al de !a curva Pi(v) (como se indica en la figura), la 
+naturaleza requiere que el producto de ambos anchos sea al menos del tamaiio de! nU­
+mero him, donde m es la masa de la particula y h es una constante fisica fundamen­
+tal Hamada consfante de Planck. 
+6 14
+
+Podemos escribir esta relaci6n bilsica como 
+[llx] · [~v] 2: h/m. (6.22) 
+Esta ecuaci6n es un enunciado de! principio de indeterminad6n de Heisenberg que 
+hemos mcncionado anteriormente. 
+Ya. que el segundo miembro de la ecuaci6n (6.22) es un~ constante, esta ecua­
+ciOn dice que si tratamos de "inmovilizar" una particula forzandola a estar en cierto 
+lugar, ella acaba por ten er una gran veloddad. 0 si tratamos de forzarla a moverse 
+muy lentamente o a una velocidad precisa, se "esparce·· de modo quc no sabemos 
+muy bien justamente d6nde estil. jLas particulas se comportan de un modo diver­
+tido! 
+El principio de indeterminaci6n describe una borrosidad inherente que debe exis­
+tir en cualquier intento para describir la natura!eza. Nuestra descripci6n mils preci­
+sa de la naturaleza debe scr en ti!:rminos de probabilidades. Hay algunas personas 
+a las que no les gusta esta mancra de describir la naturaleza. Crecn que si pudieran 
+decir lo que realmente sucede con particula. podrian conocer su velocidad y 
+posici6n simultilncamcnte. En los dias de! desarrollo de la mecilnica cuiln-
+tica, Einstein cstuvo muy con cste problema. Solia sacudir la cabeza 
+y dccir: '·jPero, seguro que no echa los dados para determinar c6mo deberian 
+mmer~e los electrones~ ··Se preocup6 de ese problema largo tiempo y probablemente 
+nunca se resign6 realmcnte al hecho quc e~ta es la mejor descripciOn de la naturale­
+za que uno puede dar. Existen todavia uno o dos fisicos que trabajan en el proble­
+ma, que ticncn una convicciOn intuitiva de que es posible describir cl mundo en una 
+forma diferente y que toda indeterminaci6n acerca de c6mo son las cosas puede 
+ser eliminada. Ninguno ha i:xito aU.n. 
+La necesaria indeterminaci6n en nuestra especificaci6n de la posid6n de una 
+particula cobra la mayor importancia cuando deseamos describir !a estructura de 
+los .iitomos. En el <itomo de hidrOgeno, que tiene un nlicleo de un prot6n con un 
+cicctrOn fucra del nUdeo, jla indeterminaci6n en !a posici6n del electr6n es tan gran­
+dc como el t'ttomo mismo~ Por lo tanto, no podemos hablar propiamente de! electr6n 
+moviCndose en alguna ··Orbita" alrededor del protOn. Lo mils que podemos decir es 
+quc hay cierta posibilidad f)(.r)!:J V de observar el e!ectr6n en un elemento de vo­
+lumen JV a la distancia r dcl protOn. La densidad de probabilidad p(r) esta dada 
+por la medtnica cuii.ntica. Para un iltomo de hidr6geno no perturbado f)(.r) = Ae-r'lu', 
+que es una funci6n con forma de campana 
+Fig. 6-11 Una manera de v1sLial1zar un 
+8tomo de hidr6geno. La dens1dad lblancural 
+de la nube representa la densidad de proba­
+bilidad de observar el electr6n 
+6-15
+
+coma la de la figura 6-8. El nUmcro a cs el radio "ti pico", donde la funciOn decrece 
+ripidamente. Ya que hay una pequeiia probabilidad de encontrar el elcctr6n a dis­
+tancias mayores que a a partir de! nUclco, podemos pensar que a es "el radio del 
+iltomo ", alrededor de 10 10 metros. 
+Podemos formarnos una imagen del itomo de hidrhgeno, imaginando una 
+"nubc" cuya dcnsidad cs proporcional a la densidad de probabilidad de observar el 
+electr6n. Una muestra de una nube ta! se indica en la figura 6-11. De modo que 
+nuestro mejor "retrato" de un itomo de hidr6geno cs un nUclco rodcado de una 
+"nube electr6nica" (aunque realmente queremos indicar una '·nubc de probabili 
+dad"). E! electrOn esti alli en alguna parte, pero la naturaleza s6lo nos permite 
+conocer la probabilidad de encontrarlo en algtin lugar particular 
+En sus esfuerzos por aprender lo m3s posible accrca de la naturaleza, la fisica 
+moderna ha encontrado que ciertas cosas no pueden nunca ser "conocidas" con cer 
+teza. Muchos de nuestro~ conocimientos deben permaneccr siempre inciertos. Lo 
+mris que podemos saber esta en U:rminos de probabilidades. 
+6-16
+
+7 
+La teoria de la gruvitaciOn 
+7- I Movimientos planetarios 7. 5 
+n Leyes de Kepler H 
+,., Desarrollo de la dinilmica 77 
+H L<y d< 
+'" 
+gravitaciOn de Newton 7-8 
+7-1 Movimientos planetarios 
+GravitaciOn universal 
+El Cl:pcrimento de Cavendish 
+iOuf es la gravedad? 
+Gravedad y relatividad 
+En este capitulo discutiremos una de !as mas amplias generalizaciones de la mente 
+humana. Mientras admiramos la mente humana deberiamos tomar algUn tiempo para 
+venerar una natura/eza que pudo lograr en una forma tan acabada, y con ta! gene 
+ralidad, un principio tan elegantemente simple coma la ley de la gravitaciOn. (.Que es 
+esta ley de la gravitaciOn? Consiste en que todo objcto en el univcrso atrae a todo 
+otro objeto con una fuerza que para dos cuerpos cualesquiera es proporcional a la 
+masa de cada uno y varia inversamente con el cuadrado de la distancia entre ellos. 
+Este enunciado puede expresarse matematicamente por la ccuaciim 
+= G 
+Si a esto agregamos el hecho que un objeto responde a una fuerza acclcrando en la 
+din:cciOn de la fuerza en una cantidad que e~ invcroamcnte la rm. 
+del objeto, habremos dicho todo lo necesario para que un 
+talentoso pueda deducir entonces todas consccucncias de estos dos principius. Sin 
+embargo, pucsto que no se supone que ustedes sean suficientemente talento-
+sos, discutiremos las consecuencias con mas dctallc y no los dejaremos mcramcntc 
+con estos dos principios escuetos. Rclataremos brcvcmcnte !a historia de! descubri 
+miento de la Jey de la gravitaci6n y discutiremos algunas de sus consccuencias, sus 
+cfcctos sabre la historia. los mistcrios que tal ley refinamientos de 
+la ley hechos por Einstein; discutiremos tambiCn la lcy con otras 
+leyes de Ia fisica. Todo esto no puedc hacersc en un 
+trataran a su debido tiempo en los capitulo~ siguientes 
+El cucnto comicnza con los antiguos obscrvando cl movimiento de !os planeta5 
+entre !as estrellas y dcducicndo finalmente que ellos ,;,:; ....,nvian alrededor del soL u;1 
+hecho que mas tarde fue redcscubierto 
+7-1
+
+por Coptrnico. TomO un poco mils de trabajo descubrir exactamente c6mo los pla­
+netas se movian alrededor del sol y cxactamente con quC movimiento. En los comienzos 
+del siglo xv hubo grandes debates 5obresi dlos realmcntcsemovian alrededordel solo no. 
+Tycho Brahe tuvo una idea que fue diferente de cualquiera de las propuestas porlosanti· 
+guos: su idea fue que estos debates acercade !a naturaleza de los movimientos de los plane­
+tas se resolverian meJOr si las realcs posiciones de los planetas en el cielo se midieran 
+con suficientc precis16n. Si las medidas mostraran c6mo se mueven exactamcnte 
+los planetas. entonce~ ta! vez scria po~ihlc establecer uno u otro punto de vista. Esta 
+fue una idea tremenda --que para descubm algo es mejor rcaliLar aJgunos experimen­
+tos cuidadosos que continuar con profundos argumentos filosOficos-. Prosiguiendo 
+con csta idea, Tycho Brahe estudi6 las posiciones de los planetas durante muchos 
+aiios en su observatorio de la isla de Hven, cerca de Copcnhague. Confecc1on6 
+voluminosas tablas, que fucron estudiadas por el matem~t1co Kepler, despuCs de la 
+muertc de Tycho, Kepler descubnO a partir de Ios datos algunas leycs muy bdlas y 
+notables, pero ~imples, sobrc el movim1ento planetario. 
+7-2 Leyes de Kepler 
+En primer lugar, Kepler encontrO que cada se mueve alrededor de! ~ol en 
+una curva l!amada e/ipse, con el sol en un foco la elipse. Una elipse no es preci-
+samcnte un ovalo, sino una muy especifica y precisa que puede obtenerse usan 
+do dos tachuelas, una en un lazo de cuerda y un lilpi7: mas matemilt1ca-
+mente cs cl lugar lo~ puntos cuya suma de las distancias a dos 
+puntos fijos (los es constantc. 0, s1 lo prefiercn, es un circulo achatado 
+(Fig.

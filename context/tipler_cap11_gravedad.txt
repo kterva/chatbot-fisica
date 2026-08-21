@@ -1,0 +1,1693 @@
+Tema: Gravedad (Capítulo 11 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+314 | Capítulo 11 Gravedad 
+ASA S 
+Modelo mecánico del sistema solar, denominado 
+planetario, de la colección de Instrumentos cientí- 
+ficos históricos de la Universidad de Harvard. 
+TABLA 11.1 Radios orbitales medios y perio- 
+dos orbitales de los planetas 
+Radio orbital 
+medio r Periodo T 
+Planeta (x 101% m) (anos) 
+Mercurio 5,79 0,241 
+Venus 10,8 0,615 
+Tierra 15,0 1,00 
+Marte 22,8 1,88 
+Júpiter 77,8 11,9 
+Saturno 143 29,5 
+Urano 287 84 
+Neptuno 450 165 
+Plutón 590 248 
+E TE ¡Mercurio 
+>. -- Venus 
+Figura 11.1  Órbitas de los planetas alrededor del Sol. 
+11.1 Leyes de Kepler 
+El cielo nocturno, con sus miríadas de estrellas y sus planetas brillantes, ha fascinado siem- 
+pre a la humanidad. Hacia finales del siglo XVI, el astrónomo Tycho Brahe estudió los movi- 
+mientos de los planetas e hizo observaciones considerablemente más exactas que las 
+realizadas previamente. Utilizando los datos de Brahe, Johannes Kepler, descubrió que las 
+trayectorias reales de los planetas alrededor del Sol eran elipses (figura 11.1). También 
+demostró que los planetas no se movían con velocidad constante, sino más rápidamente 
+cuando estaban más cerca del Sol que cuando estaban más lejos. Finalmente, Kepler desa- 
+rrolló una relación matemática precisa entre el periodo de un planeta y su distancia media al 
+Sol (ver tabla 11.1). Kepler expresó sus resultados en tres leyes empíricas del movimiento 
+planetario. Estas leyes proporcionaron a Newton la base para su descubrimiento de la ley de 
+la gravedad. Las leyes de Kepler son: 
+Ley 1 Todos los planetas se mueven en órbitas elípticas con el Sol situado en un foco. 
+Una elipse es el lugar geométrico de los puntos cuya suma de distancias a dos puntos llama- 
+dos focos F es constante (figura 11.2). La figura 11.3 muestra una trayectoria elíptica de un 
+planeta con el Sol en un foco. La órbita de la Tierra es casi circular; la distancia al Sol en el 
+perihelio (punto más próximo) es de 1,48 x 10'' m, y en el afelio (punto más lejano) de 1,52 
+x 10'! m. El semieje mayor, que es la semisuma de estas distancias, vale 1,50 x 10'! m para 
+la órbita terrestre. La distancia media Tierra-Sol define la unidad astronómica (UA): 
+I UA = 1,50x 101! m = 93,0x 10% mi (11.1) 
+La UA se utiliza frecuentemente en los problemas relacionados con el sistema solar. 
+Ley 2 La recta que une cualquier planeta con el Sol barre áreas iguales en tiempos 
+iguales, 
+La figura 11.4 ilustra la segunda ley de Kepler, o la ley de las áreas iguales. Un planeta se 
+mueve más rápidamente cuando está más próximo al Sol que cuando está más lejos, de tal 
+modo que el área barrida por el radio vector en un determinado intervalo de tiempo es la 
+misma a lo largo de toda la órbita. Esta ley de las áreas iguales está relacionada con la ley de 
+conservación del momento angular, como veremos en la sección próxima. 
+rd Tierra 
+asado Marte 
+Júpiter __ 
+3 Saturno. 
+Urano | Figura 11.2 Una elipse es el lugar geométrico de los puntos para 
+aware a ce | los cuales z, + r, = constante. La distancia a es el semieje mayor y b 
+n Neptuno _ el semieje menor. Una elipse puede dibujarse con una cuerda 
+po lp ee --- fijando cada extremo en un foco y utilizándola como guía para un 
+lápiz. El círculo es un caso especial en el que los dos focos 
+coinciden en un mismo punto,
+
+Figura 11.3 Recorrido elíptico de un planeta con el Sol 
+en un foco. El punto P, donde el planeta está más cerca del 
+Sol, se llama perihelio y el punto A, donde está más lejos, 
+afelio. La distancia media entre el planeta y el Sol, que se 
+define como (7, + r,)/2, es igual al semieje mayor. 
+Figura 11.4 Cuando un planeta está próximo 
+al Sol, se mueve más deprisa que cuando está más 
+lejos. Las áreas barridas por el radio vector en un 
+intervalo de tiempo determinado son iguales. 
+Ley 3 El cuadrado del periodo de cualquier planeta es proporcional al cubo del semieje 
+mayor de su órbita. 
+La tercera ley de Kepler relaciona el periodo de un planeta con su distancia media al Sol, 
+que es igual al semieje mayor de su órbita elíptica. En forma algebraica, si r es la distancia 
+media entre un planeta y el Sol y T es el periodo de revolución del planeta, la tercera ley de 
+Kepler establece que 
+T? = Cr (11.2) 
+en donde la constante C tiene el mismo valor para todos los planetas. Esta ley es una conse- 
+cuencia simple del hecho de que la fuerza ejercida por el Sol sobre un planeta varia inversa- 
+mente con el cuadrado de la distancia del Sol al planeta. Lo demostraremos en la sección 
+siguiente para el caso especial de una órbita circular. 
+EJEMPLO 11.1 | Órbita de Júpiter 
+La distancia media del Sol a Júpiter es 5,20 UA. ¿Cuál es el periodo de la órbita de Júpiter 
+alrededor del Sol? 
+Planteamiento del problema Utilizaremos la tercera ley de Kepler para relacionar el 
+periodo de Júpiter con su radio orbital medio. La constante C puede deducirse a partir de la distan- 
+cia media al Sol y el periodo de la Tierra, que son conocidos. Para la Tierra T= | año y rrp = 1 UA. 
+Para Júpiter r, = 5,20 UA y llamemos 7; a su periodo. 
+1. La tercera ley de Kepler relaciona el periodo de Júpiter 7, con su dis- T? = Cr} 
+tancia media al Sol, ry: 
+2. Aplicar la tercera ley de Kepler a la Tierra para determinar Cen fun- T4 = Cr} 
+ción de Ty y rx: 
+A 3. Dividir las dos ecuaciones, eliminando C, y despejar T}: z = A 7 
+por lo tanto 
+Tue ng) = (1 año)( 
+Observación En la figura 11.5 se representan el periodo de las órbitas de la Tierra, Júpiter, 
+Saturno, Urano y Neptuno en función de la distancia media al Sol. En (a) el periodo se representa en 
+función de la distancia media al Sol mientras que en (b) se representa el periodo al cuadrado res- 
+pecto la tercera potencia de la distancia media al Sol, En este caso los puntos se alinean en una línea 
+recta. 
+11.1 Leyes de Kepler | 315 
+)" [120]
+
+316 Capitulo 11 Gravedad 
+250 Plutón —— 30.000 Neptuno 
+200 ino 25.000 
+Ss 20.000 
+150 
+Mercurio 15.000 
+Periodo orbital (años) 
+0 5 10 15 20 25 
+Radio orbital medio, (UA) 
+(a) 
+Urano 
+10.000 \ 
+Júpiter 
+Periodo orbital al cuadrado (años)? 
+0 - 
+35 40 0 5.000 10.000 15.000 20,000 25.000 30.000 
+Radio orbital medio al cubo, (UA)3 
+(b) 
+Figura 11.5 
+Ejercicio El periodo de Neptuno es 164,8 años. Calcular su distancia media al Sol. (Respuesta: 
+30,1 UA.) 
+Ejercicio Si se representa el logaritmo del periodo de la Tierra, Júpiter, Saturno, Urano y Neptuno 
+en función del logaritmo de la distancia media al Sol, todos los puntos se sitúan en una curva. ¿Cuál 
+es la forma de esa curva? (Respuesta Una línea recta) 
+(a) 
+(b) 
+Figura 11.6 (a) Partículas en r, y r,. (b) Las 
+partículas ejercen fuerzas iguales y opuestas una 
+sobre otra. 
+11.2 Ley de la gravitación de Newton 
+Aunque las leyes de Kepler constituyeron un paso importante en la comprensión de los 
+movimientos planetarios, en realidad fueron simples leyes empíricas obtenidas a partir de las 
+observaciones astronómicas de Brahe. Fue Newton quien dio un paso de gigante al atribuir 
+la aceleración de un planeta en su órbita a una fuerza ejercida sobre él por el Sol. Newton 
+demostró que una fuerza que varía en razón inversa al cuadrado de la distancia entre el Sol y 
+un planeta era la causa de las órbitas elípticas observadas por Kepler. Newton hizo además la 
+atrevida hipótesis de que tal fuerza existía entre dos objetos cualesquiera del universo. Antes 
+de Newton ni se aceptaba generalmente que las leyes de la física observables en la Tierra 
+fueran aplicables a los cuerpos celestes. La ley de la gravitación de Newton postula que 
+existe una fuerza de atracción entre cada par de objetos que es proporcional al producto de 
+las masas de los objetos e inversamente proporcional al cuadrado de la distancia que los 
+separa. Sean m; y m las masas de las partículas puntuales | y 2 (situadas en las posiciones 
+r; y r,, respectivamente) y sea r; el vector que apunta desde la partícula 1 a la partícula 2 
+(figura 11.6). 
+La fuerza F; , que la partícula 1 ejerce sobre la partícula 2 es 
+_Gmym, 2 F ri2 (11.3) jo 2 Fla 
+LEY DE LA GRAVITACIÓN DE NEWTON 
+donde F¡2 =r; y/r, 2 es el vector unitario que apunta de | a 2 y G es la constante de la gra- 
+vitación universal, que vale 
+G = 6,67 x 10-!! N - m?/kg? (11.4) 
+De acuerdo con la tercera ley de Newton, la fuerza F, , ejercida por 2 sobre | es la opuesta a 
+la fuerza F » (figura 11.6). El módulo de la fuerza gravitatoria ejercida por una partícula de 
+masa m, sobre otra partícula de masa m, a una distancia r viene dada por
+
+Gmm F =—— (11.5) > r? 
+ewton publicó su teoría de la gravitación en 1686, pero hubo que esperar un siglo para que 
+Cavendish, como veremos en la siguiente sección, determinase experimentalmente con 
+actitud el valor de G. 
+El valor conocido de G puede utilizarse para calcular la atracción gravitatoria entre dos 
+objetos ordinarios. 
+Ejercicio Determinar la fuerza gravitatoria de atracción de un joven de 65 kg y 
+üna muchacha de 50 kg separados 0,5 m. Suponer que sus masas son puntuales. 
+(Respuesta 8,67 x 107 N.) 
+Este ejercicio demuestra que la fuerza gravitatoria ejercida entre si por dos objetos de 
+tamaño ordinario es extraordinariamente pequeña. Para comparar, un mosquito pesa aproxi- 
+‘madamente | x 1077 N. El peso de una persona de 50 kg es de 491 N, es decir, 500 millones 
+de veces superior a la fuerza de atracción calculada en el ejercicio. La atracción gravitatoria 
+sólo puede apreciarse fácilmente cuando al menos uno de los objetos es extraordinariamente 
+masivo, La atracción gravitatoria entre la muchacha del ejemplo y la Tierra es considerable. 
+Para comprobar la validez de la ley de la inversa del cuadrado de la distancia correspon- 
+diente a la fuerza gravitatoria, Newton comparó la aceleración de la Luna en su órbita con la 
+aceleración de caída libre de los objetos próximos a la superficie de la Tierra (tal como la 
+legendaria manzana). Para ello hizo la hipótesis de que la atracción gravitatoria debida a la 
+Tierra era la causa de ambas aceleraciones. En primer lugar suponía que la Tierra y la Luna 
+podían considerarse como partículas puntuales con sus masas totales concentradas en los 
+centros respectivos. La fuerza que actúa sobre una partícula de masa m a una distancia r del 
+centro de la Tierra es 
+GM.m Fi= ¡E (11.6) P 
+Si ésta es la única fuerza que actúa sobre la partícula, su aceleración es 
+GM ee (11.7) m r 
+Para objetos próximos a la superficie de la Tierra, r = Ry y la aceleración de caída libre es g: 
+8 = —— (11.8) 
+La distancia a la Luna es aproximadamente 60 veces el radio de la Tierra (r = 60R+). Sustitu- .. Y] .. 
+yendo en la ecuación 11.7, resulta a = g/60°, de modo que la aceleración de la Luna es su 
+órbita casi circular es la aceleración de caída libre g cerca de la superficie de la Tierra divi- 
+dida por 60°. Es decir, la aceleración de la Luna a, tendría que ser (9,81 m/s?)/60?. Esta ace- 
+leración centrípeta de la Luna puede calcularse a partir de su distancia conocida desde el 
+centro de la Tierra, r = 3,84 x 10% m y su periodo, T = 27,3 días = 2,36 x 10%s: 
+a = LA A AAA = 2.72 107 m/s? 
+Por lo tanto, 
+g _ 9,581 m/s? = = 5 = 3607 = 60? a 2,72x10 m/s? 
+Newton dijo: “He comparado la fuerza necesaria para mantener la Luna en su órbita con la 
+fuerza gravitatoria sobre la superficie de la Tierra y el resultado es bastante bueno”. 
+La hipótesis de que la Tierra y la Luna pueden tratarse como partículas puntuales en el 
+cálculo de la fuerza sobre la Luna es razonable, pues ésta se encuentra lejos de la Tierra en 
+11.2 Ley de la gravitación de Newton 317 
+Visión de la Tierra tomada el 16 de julio de 1969 
+desde el Apolo 11 en su órbita alrededor de la Luna.
+
+318 | Capítulo 11 Gravedad 
+EJEMPLO 11.2 | 
+comparación con los radios terrestre o lunar, pero esta hipótesis es cuestionable cuando se 
+aplica a la fuerza ejercida por la Tierra sobre un objeto próximo a su superficie. Después de 
+un esfuerzo considerable, Newton consiguió probar que la fuerza ejercida por un objeto con 
+simetría esférica sobre una masa puntual situada sobre su superficie o exteriormente, es la 
+misma que tendría si toda la masa del objeto estuviera concentrada en su centro. La prueba 
+exige el cálculo integral que Newton desarrolló para resolver este problema. 
+Como g =9,81 m/s? se mide fácilmente y el radio de la Tierra es conocido, la ecuación 11.8 
+puede utilizarse para determinar el valor del producto GM;. Newton estimó el valor de G a par- 
+tir de una estimación de la masa de la Tierra. Cuando Cavendish determinó G unos cien años 
+más tarde, midiendo la fuerza entre pequeñas esferas de masas y separación conocidas, decía 
+que el objetivo de su aparato era “pesar la Tierra”. Saber el valor de G comporta que puede 
+determinarse la masa del Sol o la masa de cualquier planeta con sus satélites. El método para 
+calcularla se describe en la sección 11.4. 
+Cayendo hacia la Tierra 
+¿Cuál es la aceleración en caída libre de un objeto a la altura de la órbita del transbordador 
+espacial, unos 400 km por encima de la superficie terrestre? 
+Planteamiento del problema La fuerza de atracción gravitatoria viene dada por la ecuación 
+11.6 con r = Ry + 400 km. 
+1. La aceleración es a = F/m, en donde F viene dada por la ley de la gra- a = — = ———— = 
+vitación de Newton: 
+2. La distancia r está relacionada con el radio de la Tierra, Ry, y la altura h: r = Ry +h = 6370 km +400 km = 6770 km 
+E GM (6,67 x 10-1! N - m?/kg?)(5,98 x 10% kg) A I Ón es. lo tanto: E A A o PES A E 3. La aceleración es. por lo tanto a 3 (6,77% 108 m) 
+-B70 m] 
+Observación Ésta es también la aceleración de los astronautas del transbordador “en estado de 
+ingravidez” cuando aceleran en su órbita circular. 
+ama Equilibrio 
+= == ' m3 Posición 1 
+Fibra de torsión — | Posición de can 
+| | equilibrio aad my i 
+hoz ‘ A AD. A 
+o mao! Posición 2 
+(a) (b) 
+Figura 11.7 (a) Dos pequeñas esferas, cada una de masa m, están en los extremos de una varilla 
+ligera colgada de una fibra muy delgada. Medidas cuidadosas determinan el momento necesario para 
+que la fibra se retuerza un determinado ángulo. Dos grandes esferas, cada una de masa m,, se sitúan 
+entonces próximas a las esferas pequeñas. Debido a la atracción gravitatoria de las esferas grandes m; 
+sobre las pequeñas, la fibra gira un ángulo muy pequeño @ a partir de su posición de equilibrio. (b) El 
+mismo aparato visto desde arriba. Una vez que el aparato alcanza el reposo se invierten las posiciones 
+de las esferas grandes (como indican las líneas de trazos), de modo que estén a la misma distancia de la 
+posición de equilibrio, pero en el lado opuesto. Cuando el aparato vuelva al reposo, la fibra habrá girado 
+un ángulo 26 en respuesta a la inversión del momento. Conocida la constante de torsión de la fibra, las 
+fuerzas entre las masas m, y m, pueden determinarse a partir de la medida del ángulo de torsión. Como 
+las masas y sus separaciones son conocidas, G puede calcularse. Cavendish obtuvo un valor de G con 
+“ una precisión del orden del 1% respecto al valor hoy aceptado y que viene dado por la ecuación 11.4.
+
+El cálculo realizado en este ejemplo 11.2 puede simplificarse usando la ecuación 11.8 
+para eliminar GM. a partir de la ecuación 11.7. En ese caso la aceleración a una distancia r 
+es 
+(11.9) 
+¿A qué distancia por encima de la superficie de la Tierra la aceleración de la gra- 
+2640 km.) 
+Ejercicio 
+vedad vale la mitad del valor que tiene en el nivel del mar? (Respuesta 
+Medida de G 
+Henry Cavendish fue el primero que, en 1798 y usando el aparato que se muestra en la figura 
+11.7, midió la constante de la gravitación universal G. La medida de G ha sido repetida por 
+otros experimentadores con diversas mejoras y refinamientos. Todas las medidas de G son 
+difíciles a causa de la extraordinaria pequeñez de la atracción gravitatoria. Por ello, el valor 
+de G se conoce hoy sólo con una precisión de 1 parte en 10000. Aunque G fue una de las 
+primeras constantes físicas universales determinadas, sigue siendo una de las conocidas con 
+menor exactitud. 
+Masa gravitatoria y masa inercial 
+La propiedad de un cuerpo responsable de la fuerza gravitatoria que éste ejerce sobre otro 
+cuerpo recibe el nombre de masa gravitatoria. Por otro lado, la propiedad de un cuerpo que 
+mide su resistencia frente a la aceleración recibe el nombre de masa inercial (o inerte). Para 
+estas dos propiedades hemos estado utilizando el símbolo m porque experimentalmente las 
+masas gravitatorias e inercial de un cuerpo son iguales. Por conveniencia, las unidades se 
+definen de tal forma que la constante de proporcionalidad sea uno. El hecho de que la fuerza 
+gravitatoria ejercida por un cuerpo sea proporcional a su masa inercial es una característica 
+única que sólo cumple la fuerza de gravedad. Una de las consecuencias es que, si se despre- 
+cia la resistencia del aire, todos los objetos próximos a la Tierra caen con la misma acelera- 
+ción. Este hecho ha sorprendido al mundo desde tiempos ya lejanos. La historia ya conocida 
+de cómo Galileo demostró este hecho dejando caer objetos desde la torre inclinada de Pisa 
+es sólo uno de los ejemplos sobre el interés que esta cuestión suscitó en el siglo XVI. 
+Podríamos imaginar fácilmente que las masas gravitatoria e inercial de un cuerpo no son 
+iguales, Supongamos que designamos a la masa gravitatoria con el símbolo mg y la masa 
+inercial con m. En este caso la fuerza ejercida por la Tierra sobre un objeto próximo a su 
+superficie sería 
+_ GMymg 
+s (11.10) 
+Ri 
+F 
+en donde Mres la masa gravitatoria terrestre. Por lo tanto, la aceleración de caída libre de un 
+cuerpo próximo a la superficie de la Tierra será 
+F GM Mg 
+a= -—2=(—]|— (11.11) R= J m 
+Si la gravedad fuera otra propiedad distinta de la materia, como el color o la rigidez, seria 
+razonable pensar que la relación mg/m fuese función de magnitudes tales como la composi- 
+ción química del cuerpo o su temperatura. De esta forma la aceleración de caída libre sería 
+diferente para diferentes objetos. Sin embargo, el hecho experimental es que a es la 
+misma para todos los cuerpos. Como este es el caso, no es necesario mantener la distinción 
+entre mg y m y podemos escribir mg = m. Sin embargo, no debe olvidarse que esta es una 
+conclusión experimental y, como tal, limitada por la exactitud con la que se lleve a cabo el 
+experimento. En la década de 1580-90, Simon Stevin realizó una serie de experimentos que 
+comprobaron esta equivalencia. Galileo difundió esta ley ampliamente, y sus contemporáneos 
+lograron considerables mejoras en la exactitud experimental con que fue establecida. 
+11.2 Ley de la gravitación de Newton 319 
+Balanza gravitatoria de torsión utilizada en los labo- 
+ratorios de prácticas de alumnos para la medida de 
+G. Una pequeña desviación angular de la balanza 
+origina una gran desviación angular del haz de láser 
+que se refleja en el espejo de la balanza.
+
+320 | Capítulo 11 Gravedad 
+Figura 11.8 
+Los experimentos más precisos llevados a cabo para comparar las masas gravitatoria e 
+inercial fueron realizados por Newton utilizando péndulos simples, en lugar de cuerpos que 
+caían libremente. De este modo estableció la equivalencia entre ambas masas con una preci- 
+sión aproximada de 1 parte en 1000. Los experimentos que comparan la masa inercial y la 
+masa gravitatoria han sido mejorados continuamente a lo largo de los años. Actualmente la 
+equivalencia entre mg y m se encuentra establecida aproximadamente en | parte en 10!*. Por 
+lo tanto, de todas las leyes físicas, la equivalencia entre las masas gravitatoria e inercial es 
+una de las mejores establecidas. La equivalencia entre las masas gravitatoria e inercial es la 
+base del llamado principio de equivalencia, que es fundamento de la teoría de la relatividad 
+general de Einstein. 
+Deducción de las leyes de Kepler 
+Newton demostró que cuando un objeto, como un planeta o un cometa, se mueve alrededor de 
+un centro, tal como el Sol, por la acción de una fuerza que depende de 1/r°, la trayectoria del 
+objeto es una sección cónica (una elipse, una parábola o una hipérbola). Las trayectorias para- 
+bólica e hiperbólica se aplican a objetos que pasan una sola vez junto al Sol y nunca regresan. 
+Tales órbitas no son cerradas. Las únicas órbitas cerradas en un campo de fuerzas 1/1? son 
+elipses. Así, la primera ley de Kepler es una consecuencia directa de la ley de gravitación de 
+Newton. La segunda ley de Kepler o ley de las áreas iguales, resulta del hecho de que la 
+fuerza ejercida por el Sol sobre un planeta está dirigida hacia el Sol. Esta es una fuerza cen- 
+tral. La figura | 1.8a muestra un planeta que se mueve en una órbita elíptica alrededor del Sol. 
+En el tiempo dt, el planeta se desplaza una distancia v dt y el radio vector barre el área indi- 
+cada en la figura. Esta es la mitad del área del paralelogramo formado por los vectores r y v 
+dt, es decir, |r X v dt|. Por lo tanto, el área dA barrida por el radio vector r en el tiempo dt es 
+dA =! |r x v di = |r x mv dt 2m 
+O sea, 
+dA 1 as Sa L (11.12) 
+en donde L =Ir X myl es el módulo del momento angular del planeta respecto al Sol. El área 
+barrida en un determinado intervalo de tiempo dt es, por lo tanto, proporcional al momento 
+angular L. Como la fuerza que actúa sobre un plantea está dirigida a lo largo de la línea que 
+une el planeta con el Sol, el momento respecto al Sol es nulo. Por lo tanto, el momento angu- 
+lar del planeta se conserva, es decir, L es constante y el área barrida en cierto intervalo de 
+tiempo es la misma para todas las partes de la órbita, que es la segunda ley de Kepler. Asi- 
+mismo, por el hecho que L es constante se sabe que rv sen @ también lo es. Tanto en el peri- 
+helio como en el afelio @= 90° (figura 11.85), por lo que rv, = pvp: 
+A continuación demostraremos que la ley de gravitación de Newton implica la tercera 
+ley de Kepler para el caso especial de una órbita circular. Consideremos un planeta que se 
+mueve con velocidad v en una órbita circular de radio r alrededor del Sol. La fuerza gravita- 
+toria de atracción entre el Sol y el planeta proporciona la aceleración centrípeta v?/r. Según 
+la segunda ley de Newton, 
+GMM, ny (11.13) 
+en donde M, es la masa del Sol y M, la del planeta. Despejando y? tenemos 
+_ GM, == (11.14) 
+Como el planeta recorre la distancia 27 en el tiempo T, su velocidad está relacionada con el 
+~ periodo por 
+_ 2xr T (11.15) Vv
+
+11.2 Ley de la gravitación de Newton 
+ustituyendo v por esta expresión en la ecuación 11.14 se obtiene 
+5. 4er? GM, 
+waa gane ia 
+O sea, 
+472 T? = r? (11.16) 
+GM. 
+TERCERA LEY DE KEPLER 
+La tercera ley de Kepler dada por la ecuación 11.16 equivale a la ecuación 11.2 haciendo C = 
+4r'iGM,. La ecuación 11.16 se aplica también a las órbitas de los satélites de cualquier pla- 
+‘neta, reemplazando la masa del Sol, M,, por la masa del planeta. 
+| 
+EJEMPLO 11.3 | La estación espacial orbital ¡PÓNGALO EN SU CONTEXTO! 
+La Estación Espacial Internacional se mueye en una órbita prácticamente circular alrededor 
+de la Tierra, a 385 km por encima de la superficie de ésta. En un lugar determinado, calcular 
+cuánto tiempo hay que esperar entre dos avistamientos consecutivos de la estación. (Suponer 
+que puede despreciarse la resistencia del aire.) 
+Planteamiento del problema Para detectar visualmente la estación hace falta que sea de noche 
+y que la estación esté por encima del horizonte de nuestro lugar de observación. Por lo tanto, el 
+tiempo mínimo entre dos avistamientos aproximadamente coincide con el periodo orbital. Para 
+determinar el periodo orbital usamos la tercera ley de Kepler reemplazando M, de la ecuación 11.16 
+por la masa de la Tierra My. El cálculo numérico se simplifica un poco si se usa GM; = RẸ g a partir 
+de la ecuación 11.8. 
+2 1. Aplicar la tercera ley de Kepler a la estación espacial: r Cf r a 
+2 
+2. Auna altura h = 385 km, r= Ry +h=6755 km. Sustituirr=Rp+hy T? = A (Re +h)? 
+despejar el periodo: i“ 
+2 
+3. Utilizar GM = Rj g para expresar T en función de g: T= ue (Ry +h)? 
+N 
+por lo tanto 
+T =E Rn Rig 
+_ _ 276,755 x 10% m)?? 
+(6,37 x 105 m)(9,81 m/s?) 
+= 5529 s = [92,1 min] 
+Ejercicio ¿Cuántos grados gira la Tierra durante el tiempo en qué la estación orbital da una órbita 
+completa? (Respuesta La Tierra gira 360° en 24 h = 1440 min. En 92,1 min la Tierra gira 23,0°.) 
+Observación La Estación Espacial Internacional se mueve en una órbita casi circular que está 
+inclinada unos 52° con el plano del ecuador. Si la estación está directamente sobre nuestra cabeza en 
+el tiempo t, 92,1 min más tarde volverá a estar sobre una localidad 23,0" hacia el oeste. Por ejemplo, 
+Kansas City está situada 23° al oeste de la ciudad de Nueva York. Si se avista la estación orbital a 
+medianoche en Nueva York, 92,1 minutos más tarde pasará por la vertical de Kansas City. 
+Ejercicio Determinar el radio de la órbita circular de un satélite que describe una órbita alrededor 
+de la Tierra con un periodo de 1 día. (Respuesta r=6,63 Rr = 4,22 x 107 m. Si este satélite está en 
+órbita alrededor del ecuador y se mueve en la misma dirección que la rotación de la Tierra, respecto 
+la superficie de la Tierra parece que esté fijo. Muchos satélites están “aparcados” en estas condicio- 
+nes que se denominan órbitas geosíncronas.) = 
+321
+
+322 | Capítulo 11 Gravedad 
+AN EXPLORANDO 
+¿Cuál es la diferencia entre la masa gravitato- 
+ria y la masa inercial? Explore acerca de estos 
+conceptos y mucho más en 
+www.whfreeman.com/tiplerSe 
+UL) 
+U(Ry) + mgh 
+Figura 11.9 
+Si se sabe cuánto vale G mediante el uso de la ecuación 11.16, la medida del periodo T y del 
+radio orbital medio r de un satélite que se mueve alrededor de un objeto astronómico permite 
+determinar su masa. Al establecer la ecuación 11.16 se supuso que la masa del satélite era 
+despreciable con respecto de la masa del objeto central. Esto significa que el objeto central 
+permanecía estacionario mientras que el satélite orbitaba a su alrededor. En realidad, el 
+objeto central y el satélite se mueven alrededor de un punto común, su centro de masas. Si la 
+masa del satélite no es despreciable, el resultado es 
+472 Bis EEE 18 
+GM = May (11.17) 
+en donde r es la separación entre los centros de ambos. (Para órbitas elípticas más generales, 
+las matemáticas son más desafiantes pero el resultado es el mismo). Si la masa del satélite no 
+es despreciable, como es el caso de la mayor parte de los sistemas binarios, lo que se deter- 
+mina es sólo la suma de las masas, como aparece explícitamente señalado en la ecuación 
+11.17. La Luna, al igual que planetas como Mercurio y Venus, no tienen satélites naturales, 
+por lo que sus masas no fueron bien conocidas hasta los años 60, cuando se colocaron satéli- 
+tes artificiales en órbita a su alrededor. 
+Ejercicio El satélite de Marte Phobos tiene un periodo de 460 min y un radio orbital 
+medio de 9400 km. ¿Cuál es la masa de Marte? (Respuesta 6,45 x 10% kg =0,108M) 
+11.3 Energía potencial gravitatoria 
+En las proximidades de la superficie terrestre, la fuerza gravitatoria ejercida por la Tierra 
+sobre un objeto es constante, ya que la distancia al centro de la Tierra, r = Ry + h es siempre 
+aproximadamente Ry para h << Ry. La energía potencial de un objeto próximo a la superficie 
+terrestre es mgh = mg(r — Ry), en donde se ha elegido U = 0 en la superficie de la Tierra, r= 
+Ry. Si estamos lejos de la superficie de la Tierra, debemos tener en cuenta el hecho de que la 
+fuerza gravitatoria ejercida por la Tierra no es constante sino que disminuye con la distancia 
+en la forma 1/1. La definición general de la energía potencial (ecuación 6.19b) es 
+dU = -F-ds 
+en donde F es la fuerza que acttia sobre una particula y ds es el desplazamiento general de la 
+partícula. Para la fuerza gravitatoria radial F dada por la ecuación 11.6 tenemos 
+GM GM dU =-F+ ds = -Fi-ds =-F, dr = -(- T)ar s (100) = de 
+Integrando ambos miembros de esta ecuación resulta 
+GM. m U =-—+Uy (11.19) 
+en donde U, es una constante de integración. Como en la energía potencial sólo importan los 
+cambios, podemos darle el valor cero en cualquier posición. La superficie de la Tierra es una 
+buena elección para muchos problemas cotidianos, pero no siempre. Por ejemplo, si consi- 
+deramos la energía potencial asociada a un sistema planeta-Sol, no hay ninguna razón para 
+elegir la superficie del Sol como origen, De hecho, casi siempre es más conveniente elegir 
+que el origen de la energía potencial gravitatoria de un sistema de dos objetos sea cero 
+cuando la separación de los objetos es infinita. Por ello, la elección Up = 0 suele ser muy 
+conveniente. Así 
+U(r) = -gum (11.20) 
+ENERGÍA POTENCIAL GRAVITATORIA CON U = 0 A SEPARACIÓN INFINITA
+
+en donde U =0 sir =o. La figura 11.9 es un gráfico de U(r) en función de r para esta elec- 
+ción de U = 0 en r = «o para un objeto de masa m y la Tierra de masa My. Esta función 
+comienza con el valor negativo U =—GM, m/R; =—mgR; en la superficie de la Tierra y crece 
+cuando r aumenta, aproximándose al valor cero para r infinito. La pendiente de esta curva es 
+r = Ry es GMym/R} = mg, de modo que la ecuación de la recta tangente, trazada en 
+azul, es f(A) = U(Ry) + mgh, en donde h = r— Ry es la distancia por encima de la super- 
+ficie de la Tierra. De la figura se desprende que para h pequeña, U (Ry) +mgh= U(r). 
+Velocidad de escape 
+En las últimas décadas la idea de escapar del campo gravitatorio terrestre ha pasado de la 
+fantasía a la realidad. Sondas espaciales han sido enviadas a los puntos más alejados del sis- 
+tema solar. Algunas de estas sondas acabarán girando alrededor del Sol, mientras que otras 
+abandonarán el sistema solar y se perderán en el espacio exterior. En esta sección veremos 
+que existe una velocidad inicial mínima llamada velocidad de escape que es la necesaria 
+para que un cuerpo escape de la Tierra. 
+Si proyectamos un cuerpo hacia arriba desde la Tierra con cierta energía cinética inicial, a 
+medida que el cuerpo asciende, la energía cinética disminuye y la energía potencial crece. El 
+máximo incremento de energía potencial, es GMm/R;, Por lo tanto, este valor es el mismo que 
+puede decrecer la energía cinética. Si la energía cinética inicial es mayor que GM;m/R,, la 
+energía total E será mayor que cero (E, en la figura 11.10) y el cuerpo todavía tendrá cierta 
+energía cinética cuando r sea muy grande (o incluso cuando r sea infinito). Así, el cuerpo esca- 
+pará de la Tierra si la energía cinética inicial es mayor que GMym/Ry. Como la energía poten- 
+cial en la superficie de la Tierra es —GMm/R;, la energía total E = E, + U debe ser mayor o 
+igual que cero para que el cuerpo escape. La velocidad del cuerpo próximo a la superficie 
+terrestre, correspondiente a una energía total cero se denomina velocidad de escape v,. Puede 
+determinarse a partir de 
+E „+U = E¿+U; 
+GM 
+0+0 = S 7 apes e 2 Ry 
+de modo que 
+2GM , 
+Y. = Ry = /2gRy (11.21) 
+VELOCIDAD DE ESCAPE 
+Tomando los valores g = 9,81 m/s? y Ry = 6,37 x 10% m se obtiene 
+Ve = /2(9,81 m/s*)(6,37 x 10% m) = 11,2 km/s 
+Un cuerpo con esta velocidad escapará de la gravedad Tierra. (Sin embargo, no escapará del 
+sistema solar, pues hemos despreciado la atracción gravitatoria del Sol y otros planetas; 
+véanse problemas 46 y 48.) 
+La velocidad de escape de un planeta o satélite respecto a las velocidades térmicas de las 
+moléculas de un gas determina el tipo de atmósfera que el planeta o satélite puede tener. 
+La energía cinética media de las moléculas del gas, (1 mv?),,. es proporcional a la tempera- 
+tura absoluta 7 (capítulo 18). En la superficie de la Tierra, las velocidades moleculares del oxí- 
+geno y nitrógeno son muy inferiores a la velocidad de escape, y por ello, estos gases 
+permanecen en nuestra atmósfera. En cambio, las moléculas más ligeras de hidrógeno y 
+helio poseen en su mayor parte velocidades superiores a la de escape y por esto estos gases 
+no se encuentran en nuestra atmósfera. La velocidad de escape en la atmósfera de la Luna 
+puede calcularse mediante la ecuación 11.21, utilizando la masa y el radio de la Luna para 
+reemplazar Mr y Ry. La velocidad de escape para la Luna es de 2,3 km/s, muy inferior a la de 
+la Tierra y demasiado pequeña para que pueda existir allí ningún tipo de atmósfera. 
+Ejercicio Determinar la velocidad de escape en la superficie de Mercurio, cuya masa es 
+M =3,31 x 109 kg y cuyo radio es R = 2440 km. (Respuesta v,= J/2GM/R =4,25 km/s.) 
+11.3 Energía potencial gravitatoria | 323 
+U(r) 
+Figura 11.10 La energía cinética de un cuerpo a 
+la distancia r del centro de la Tierra es E — U(r). 
+Cuando la energía total es menor que cero (E, en la 
+figura), la energía cinética es cero para r = Twa y el 
+cuerpo está ligado a la Tierra. Cuando la energía 
+total es mayor que cero (E, en la figura), el cuerpo 
+puede escapar de la Tierra.
+
+324 | Capítulo 11 Gravedad 
+Clasificación energética de las órbitas 
+En la figura 11.10 se muestran dos valores posibles de la energía total E sobre un gráfico de 
+U en función de r: E, que es negativa y E), positiva. Una energía total negativa significa sim- 
+plemente que la energía cinética en la superficie de la Tierra es menor que +GM.m/R;, de 
+modo que E, + U nunca es mayor que cero. En general, a partir de esta figura podemos ver 
+que cuando la energía total de un sistema es negativa, la línea de energía total corta a la curva 
+de energía potencial a cierta separación máxima r,,4, y el sistema está ligado. Por otra parte, 
+cuando la energía total es positiva o cero, entonces no se cortan ambas líneas y el sistema no 
+está ligado. Los criterios para los sistemas ligados y no ligados pueden resumirse del modo 
+siguiente: 
+Si E <0, el sistema es ligado. 
+Si E 2 0, el sistema es no ligado. 
+Cuando E es negativa su valor absoluto |E| se denomina energía de enlace. La energía de 
+enlace es, por lo tanto, la energía que debe añadirse al sistema para que la energía total sea 
+cero. 
+La energía potencial de un objeto como un planeta o cometa de masa m a una distancia r 
+del Sol es 
+GM.m U(r) =- (11.22) 
+en donde M, es la masa del Sol. La energía cinética del cuerpo es ‘my? Si la energia total, 
+cinética más potencial, es menor que cero, la órbita será una elipse (o circunferencia), y el 
+objeto estará ligado al Sol, de manera que no podrá escapar de su campo gravitatorio. Por 
+otro lado, si la energía total es positiva, la órbita será una hipérbola, lo que significa que el 
+objeto se acercará al Sol, lo rodeará y se alejará para no volver nunca más. Si la energía total 
+es exactamente cero, la trayectoria será una parábola y el objeto también escapará. En resu- 
+men, cuando la energía total es cero o positiva, los cuerpos no están ligados al campo gravi- 
+tatorio del Sol y escapan. Curiosamente, no hay medidas de la energía E de un cometa o de 
+un asteroide que, sin lugar a duda, no sean negativas. Por lo tanto, todos los cuerpos observa- 
+dos de este tipo están ligados al sistema solar. 
+EJEMPLO 11.4 | Altura de un proyectil 
+Un proyectil se dispara hacia arriba desde la superficie de la Tierra con una velocidad inicial 
+v; = 8 km/s. Determinar la altura máxima que alcanza despreciando la resistencia del aire. 
+Planteamiento del problema La altura máxima puede determinarse a partir del principio 
+de conservación de la energía. Tomaremos la superficie de la Tierra como punto inicial, con 
+Ui =-GMpmIRy y E, = Em. En su altura máxima, E,. =0. 
+1. Aplicar la conservación de la energía mecánica: Eq + U= E.+ U; 
+GM,m H { GMym 
+AR 2 
+2. Multiplicar la ecuación anteri Mino, aii yl os ae ng d + Multiplicar a ecuación anterior por —1/(GMm). uti T=gRT y TTM E RE Ry 
+despejar r: 
+por lo tanto 
+= Meat) = a) 1% Ma A, mind 2gR, 
+i Boe a a 3, Reemplazar por valores numéricos para determinar r y h= r Ry r= Ry/(1 TORI m/s2)(6.37 x10 m)) = 2,05 Ry 
+h= r- Ry = LOSRy = 6,69 x 10° m
+
+EJEMPLO 11.5 | 
+Un proyectil se dispara hacia arriba desde la superficie de la Tierra con una velocidad inicial 
+v; = 15 km/s. Determinar la velocidad del proyectil cuando está muy lejos de la Tierra, despre- 
+ciando la resistencia del aire. 
+Velocidad de un proyectil 
+Planteamiento del problema Muy lejos de la Tierra significa r >> Ry. La velocidad inicial es 
+mayor que la velocidad de escape de 11 km/s, de modo que la energía total del proyectil es positiva y 
+escapará de la Tierra con cierta energía cinética final, Mediante el principio de conservación de la ener- 
+gía es posible determinar esta energía y la velocidad final. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+11.3 Energía potencial gravitatoria 
+¡INTÉNTELO USTED MISMO! 
+2(9.81 m/s (6, 37 > 
+10 
+h/R+ 
+Figura 11.11 
+= y2-2eR,, 
+10° m) 
+Pasos Respuestas 
+1. Aplicar la conservación de la energía mecánica, teniendo en cuenta Æ. +U; = E. +U; 
+que cuando r;=ce, U¿=0. | GMim Mv +0 = mv- — 
+2 2 R, 
+É 2 . 2 . aes 2GM, 2g 
+2. Despejar vf, haciendo GM/Rf= g para simplificar. HERA -=v?- > Vy x 
+3. Sustituir los valores conocidos de g y Ry para calcular vy. v = (15x 103 m/s)? 
+= 10* m/s =[10 km/s] 
+Observación En la figura 11.11 se representa la velocidad del proyectil en kilómetros por segundo 
+en función de //R;, siendo h la altura por encima de la superficie terrestre. Para valores muy grandes 
+de h/Ry, la velocidad se aproxima a la línea horizontal, vp = 10 km/s. 
+EJEMPLO 11.6 | Energia total de un satélite 
+Demostrar que la energía total de un satélite que describe una órbita circular es igual a la 
+mitad de su energía potencial. 
+Planteamiento del problema La energía total de un satélite en órbita es la suma de su energía 
+potencial y de su energía cinética, E = U + E.. La segunda ley de Newton nos permite encontrar la 
+velocidad v del satélite en función de su radio orbital r. La energía cinética depende la velocidad, por 
+lo que podemos determinar la energía cinética en función de r. Suponer que la masa de la Tierra es 
+mucho mayor que la del satélite. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+¡INTÉNTELO USTED MISMO! 
+r 
+Pasos Respuestas 
+chs z EEA > ; D GMym 
+1. Escribir la energía total como la suma de la energía cinética más la Æ = E,+U = 3mv*- —— . de r 
+energía potencial, 
+2. Aplicar la segunda ley de Newton al satélite y despejar el cuadrado de F = ma 
+la velocidad. GM+ym y2 = m— 2 = 
+por lo tanto 
+GM, y = — 
+F 
+E i G 1 GM, GMşm 
+3. Sustituir en el resultado del paso 1 y simplificar. E = ¿m——- O = i 
+GMm-2GM+m GM¿m 
+A 2; HAY 
+GMym lf GM, l 
+4. Comparar el resultado del paso 3 con U del paso 1. E=-— = >| —|=|-l LAN I á 
+Ejercicio Un satélite de masa 450 kg gira alrededor de la Tierra en una órbita circular situada a 
+6830 km por encima de su superficie. Hallar (a) la energía potencial, (b) la energía cinética y (c) la 
+energía total del satélite. (Respuestas Obsérvese que r = Ry + h = 13200 km. (a) U=-13,6x 10° J, 
+(b) E, = 6,80 x 10° J, (c) E = -6,80 x 10° J.) 
+325
+
+326 | Capítulo 11 Gravedad 
+EJEMPLO 11.7 | Campo gravitatorio de dos partículas puntuales 
+Dos partículas cada una de masa M están fijas sobre el eje y en y = +a e y = —a (figura 11.12). 
+Determinar el campo gravitatorio en todos los puntos del eje x en función de x. 
+Planteamiento del problema Dos partículas de masa M producen un campo gravitatorio en el 
+punto P localizado en xi. La distancia entre P y cualquiera de las partículas es r = a/ x? +a?. El 
+campo resultante g es la suma vectorial de los campos g, y g> debido a cada una de las masas. 
+1. Calcular el módulo de g, o g>: 
+2. La componente y del campo resultante es cero. La componente xesla  g,=g,,+82, = 28), = 2g, cos O 
+suma de 21, Y gai 
+3. Expresar cos 0 en función de x y ra partir de la figura: cos O = 
+11.4 El campo gravitatorio g 
+La fuerza gravitatoria ejercida por una masa puntual m, sobre una segunda masa m; situada a 
+la distancia 7, viene dada por 
+Gmm, „ 
+F2 m P12 2 
+Fra 
+en donde F¡ 2 =r, »/r, , es un vector unitario que apunta de m, am). El campo gravitatorio en 
+un punto P se determina colocando una masa puntual de ensayo de masa m en P y calcu- 
+lando la fuerza gravitatoria F ejercida por el resto de partículas. La fuerza gravitatoria F 
+dividida por m se denomina campo gravitatorio g en P. 
+(11.23) „E a 
+DEFINICIÓN —CAMPO GRAVITATORIO 
+El punto P se denomina punto campo. El campo gravitatorio en un punto debido a un con- 
+junto de masas puntuales es igual a la suma vectorial de los campos debidos a las masas 
+individuales en dicho punto. 
+g=) g (11.24a) 
+Los puntos donde están localizadas estas partículas se denominan puntos fuente. Para deter- 
+minar el campo gravitatorio en un punto debido a un cuerpo continuo, se calcula el campo 
+dg debido a un pequeño elemento de volumen con masa dm y se integra sobre el cuerpo 
+entero (el conjunto completo de puntos). 
+g= fag (11.24b) 
+El campo gravitatorio de la Tierra a una distancia r > Ry está dirigido hacia la Tierra y su 
+módulo g(r) viene dado por 
+= (11.25) 
+CAMPO GRAVITATORIO TERRESTRE 
+_ GM 
+oy Sa 
+Figura 11.12 
+NIK
+
+4. Combinando los dos últimos resultados se obtiene g. Para expresar g g= g,i = wens =- 
+en función de x, sustituir r por (x? + a”): sae 
+_ __ 2GMx 
+~ (+a) 
+Comprobar el resultado Si x <0, g va en la dirección positiva de x y si x > 0, g va en la direc- 
+ción negativa, como era de esperar. Si x = 0, resulta que g = 0; los campos debidos a las masas m) y 
+m son iguales y opuestos en x = 0, y por lo tanto se cancelan, Para x >> a, g = -(2GM/*)i. El 
+campo es el mismo que si una masa tinica de valor 2M estuviera en el origen. 
+EJEMPLO 11.8 | Campo gravitatorio de una barra uniforme 
+Una barra uniforme de masa M y longitud L está centrada en el origen y apoyada longitudi- 
+nalmente a lo largo del eje x (figura 11.13), Determinar el campo gravitatorio debido a la barra 
+en todos los puntos del eje x que cumplen x > L/2. 
+Planteamiento del problema Elegimos un elemento de masa dm de longitud dx situado en xi y 
+elegimos un punto campo P sobre el eje x en x = xp de la región x >L/2. Cada elemento de masa crea 
+un campo gravitatorio en P que apunta en la dirección negativa de x. Podemos calcular el campo 
+total integrando la componente x del campo producido por dm desde x =—L/2 a x = +L/2. 
+_G dm 
+11.4 El campo gravitatorio g | 327 
+1. Determinar la componente x del campo en P producido por el ele- dg, = = Figura 11.13 
+mento dm: 4 
+2. La masa dm es proporcional al tamaño del elemento dx: dm = X dx 
+3. Expresar la distancia r entre dm y el punto P en función de x y xo: r= Xx Xx 
+4. Utilizar estos resultados para expresar de en función de x: dg, = E SE = aes r Xy-X 
+: f _ GM gen _@& _  GM[ 1 T”? 
+5. Integrar para determinar la componente x del campo total: & = Í dg, = A TS aE E 
+= -SH 2 aaa Ape Y L \xo-L/2 xy + L/2 x — (L12)? 
+6. Expresar el campo resultante en forma vectorial: g=gi=- OM i z x§ — (L/2) 
+7. xy es un punto arbitrario en la región del eje x si x > L/2, por lo que lo g= ti 
+podemos reemplazar por x: AS) 
+Comprobar el resultado Para x >> L/2, el resultado se aproxima al campo de una masa puntual 
+de masa M, g = -(GM/)i. 
+Campo gravitatorio g de una corteza esférica y de una esfera sólida 
+Una de las motivaciones que tuvo Newton para desarrollar el cálculo diferencial fue la de 
+poder demostrar que el campo gravitatorio en un punto exterior de una esfera maciza es el 
+mismo que se obtendría si toda la masa de la esfera estuviese concentrada en su centro. Esto 
+lo demostraremos en la próxima sección. Aquí sólo analizaremos los resultados de esta 
+demostración. Consideremos primero una corteza esférica uniforme de masa M y radio R 
+(figura 11.14). Se mostrará que el campo gravitatorio creado por la corteza a distancia r de 
+su centro viene dado por 
+g= ISM f parar>R (11.26a) rp 
+g=0 parar<R (11.26b) 
+CAMPO GRAVITATORIO DE UNA CORTEZA ESFERICA 
+Figura 11.14 Corteza esférica uniforme de masa 
+M y radio R.
+
+328 Capitulo 11 Gravedad 
+Figura 11.15 Una masa puntual m, en el interior 
+de una corteza esférica uniforme no aprecia ninguna 
+fuerza neta. 
+Figura 11.16 Esfera sólida uniforme de radio R 
+y masa M. Sólo la masa M’, contenida en el interior 
+de la esfera de radio r, contribuye al campo 
+gravitatorio que se ejerce a la distancia r. 
+Figura 11.17 Representación de g, en función de 
+r para una esfera maciza uniforme de masa M. El 
+valor del campo aumenta con r dentro de la esfera y 
+M = masa total 
+disminuye según 1/r en su exterior. 
+Este resultado (g = O dentro de la corteza esférica) puede comprenderse analizando la figura 
+11.15 que muestra una masa puntual my en el interior de una corteza esférica. En esta figura, 
+las masas de los segmentos de corteza m, y m, están relacionadas por 
+Como la fuerza debida a cada una decrece inversamente al cuadrado de la distancia, la fuerza 
+debida a la masa más pequeña situada a la izquierda es equilibrada exactamente por la 
+debida a la más distante y de mayor masa situada a la derecha, 
+El campo gravitatorio en el exterior de una esfera sólida es una simple extensión de 
+la ecuación 11.26a. Basta considerar que la esfera sólida está compuesta por un con- 
+junto continuo de cortezas esféricas. Como el campo debido a cada una de las cortezas 
+es el mismo que si toda su masa estuviera concentrada en el centro, el campo debido a la 
+esfera completa es igual al que se origina si la totalidad de su masa estuviese concen- 
+trada es su centro: 
+para r>R (11.27) 
+Este resultado es válido aunque la densidad de la esfera no sea constante, con tal de que la 
+densidad dependa únicamente de r, de modo que se conserve la simetría esférica, 
+Campo g en el interior de una esfera sólida 
+Utilizaremos ahora las ecuaciones 11.26a y 11.26b para determinar el campo gravitatorio en 
+el interior de una esfera sólida de densidad constante en un punto a una distancia r del cen- 
+tro, donde r es menor que el radio R de la esfera. Esto se aplicaría, por ejemplo, al caso de 
+que fuese necesario encontrar el peso de un objeto situado en el fondo del pozo de una mina 
+muy profunda. Como hemos visto, el campo en el interior de una corteza esférica es cero. 
+Así pues, en la figura 11.16 la masa de la porción de esfera exterior a r no ejerce ninguna 
+fuerza en su interior. Por consiguiente, sólo la masa M’ dentro del radio r contribuye al 
+campo gravitatorio en r. Esta masa produce un campo igual al de una masa puntual M’ 
+situada en el centro de la esfera. La fracción de la masa total de la esfera que está dentro de r 
+es igual al cociente entre el volumen de una esfera de radio r y el de una esfera de radio R. 
+Por lo tanto, en el caso de una distribución uniforme de masa, si M es la masa total de la 
+esfera, M’ vendrá dada por 
+zar r3 
+M = M=—M (11.28) 4 3 ¿TR? R 
+El campo gravitatorio a la distancia r es, por lo tanto, 
+LOM, GM E 8r r2 r2 R? 
+o sea, 
+= OM, . puxareR (11.29) 
+El valor del campo aumenta con la distancia r en el interior de la esfera. La figura 11.17 
+muestra una gráfica del campo g, en función de r para una esfera maciza de densidad cons- 
+tante.
+
+11.4 El campo gravitatorio g 
+EJEMPLO 11.9 | Un planeta vacío 
+Un planeta, cuyo núcleo está vacío, consiste en una corteza esférica gruesa de masa M, 
+de radio exterior R y de radio interior R/2. (a) ¿Qué yaa hay entre el centro del planeta y 
+¿R? (b) ¿Cuál es el campo gravitatorio a una distancia ¿R del centro? 
+Pisano del problema La masa de la corteza que está más pami al centro que 3 E A es 
+igual al producto de la densidad por el volumen de la corteza de radio exterior = 3R y radio interior 1 OR 
+Primero bey que determinar la densidad y el volumen, y después calcular la masa. El campo gravitato- 
+rioenr= 3 3 R únicamente se debe a la masa que está entre esta distancia y el centro del planeta. 
+(a) 1. La masa M' (la masa de la corteza con radio externo 3 łRyradio M’ = pV’ 
+interno = 5R) es la densidad p por el volumen V’: 
++ ogy E m M A 4 3_4 5] x M 
+2. La densidad es la masa M dividida por el volumen V: pie = M | mR 33) | = 7% 
+3. Determinar E volumen V’ de la corteza con radio externo = ÈR y y dE -4 x gy me 
+radio interno 5 3R: 
+v= 6 M 19 R3 = 19 (a) 1. Determinar la masa M’: M =p FaR” z 
+, Gm (b) El campo gravitatorio en r= ; R lo produce únicamente la masa M’: g= oat =- = JE 
+ua (GR) 3 
+Comprobar el resultado Esperamos que en la región |R<r <3 3 R haya una fracción inferior a 
+la pea de la masa de toda la corteza. En efecto, el ain del ejercicio nos indica que la masa M’ 
+vale 1 z. 
+Observación Obsérvese que el volumen V del denominador del paso 2 del apartado (a) es 711R”/6, 
+lo cual nos indica que corresponde a una fracción superior a medio volumen de la esfera de radio R. 
+Es de esperar que el volumen de la región 1/2R < r < R sea una fracción superior a la mitad del volu- 
+men de una esfera de radio R. También observemos que el volumen V” (paso 3 apartado (a)) y la 
+masa M’ (paso 4 apartado (a)) son la misma fracción de V y de M. Este resultado era de esperar ya 
+que la corteza es uniforme. 
+EJEMPLO 11.10 | Densidad que depende del radio jINTENTELO USTED MISMO! 
+Una esfera sólida de radio R y masa M es esféricamente simétrica, pero no uniforme. La densi- 
+dad p, definida como su masa por unidad de volumen, es proporcional a la distancia r medida 
+desde el centro para r < R. Es decir, p = Cr para r < R, donde C es una constante. (a) Determi- 
+nar C. (b) Determinar g, para r > R. (c) Determinar g, para r = R/2. 
+I z 
+| Area=4ar? 
+Planteamiento del problema (a) Podemos determinar C integrando la densidad para todo el volu- 
+men de la esfera e igualando el resultado con M. Para un volumen elemental, tomar una corteza esférica 
+de radio r y espesor dr (figura 11.18). Su volumen es 477 dr y su masa dm = p dV = Cr (477 dr). (b) El 
+campo para r 2 R es el mismo que si la masa total M estuviera en el centro de la esfera. (c) El campo en 
+r = R/2 es el mismo que si la masa M' estuviera en el centro de la esfera, donde M' es la masa dentro de 
+la esfera de radio R/2. La masa entre r= R/2 y r= R produce un campo cero en r= R/2. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas Figura 11.18 
+(a) 1. Integrar dmder=0ar=R. M = [dM = |p dV = |f Cri4rr? dr) = CrR* 
+M 2. Despejar C en función de M y de R. TERI 
+| 329
+
+330 Capitulo 11 Gravedad 
+(b) Escribir una expresión para el campo en el exterior de la esferaen g= & r (r>R) 
+función de la masa M, de la distancia del centro r y del vector uni- = 
+tario r en la dirección creciente de r. 
+(c) 1. Calcular la masa M’ que hay en el interior del radio R/2 inte- M’ = = 
+grando dm = p dV desde r = 0 hasta r = R/2 y usar el valor de C 
+calculado en el paso 2 del apartado (a) 
+2. Escribir una expresión para el campo en r= R/2 en función de M y R. g= e. ent = as 
+Comprobar el resultado En una esfera uniforme, la ecuación 11.29 nos da el valor g, =-GM/2R?) 
+para el campo en r = R/2, que es el doble del resultado del apartado (c) del ejemplo. Este resul- 
+tado era de esperar ya que una esfera uniforme tiene una fracción mayor de su masa total en la 
+región 0 < r < R/2 que una esfera como la del ejercicio. 
+A Ś 
+Figura 11.19 Campo gravitatorio en un punto P 
+a una distancia x de un anillo uniforme. El campo 
+debido al elemento dm apunta hacia él. El campo 
+total debido al anillo está dirigido a lo largo de su 
+eje. 
+~ Observación Las unidades para C son kg/m“, por lo que las unidades de p son kg/m’, 
+que corresponden a masa por unidad de volumen. 
+*11.5 Cálculo de la ecuación correspondiente al campo 
+gravitatorio de una corteza esférica por integración 
+Obtendremos la ecuación correspondiente al campo gravitatorio de una corteza esférica en 
+dos pasos. Hallaremos primeramente el campo gravitatorio sobre el eje de un anillo de masa 
+uniforme. Aplicaremos luego el resultado obtenido a una corteza esférica, que podemos con- 
+siderar como un conjunto de anillos coaxiales, 
+En la figura 11.19 se muestra un anillo de masa total m y radio a y un punto P sobre el eje, 
+a una distancia x de su centro, Escogemos un elemento de masa dm sobre el anillo, suficiente- 
+mente pequeño para considerarlo como una partícula elemental. La distancia de este elemento 
+a P es s y la línea recta que une el elemento con P forma un ángulo @ con el eje del anillo. 
+El campo en P debido al elemento dm está dirigido hacia él y su módulo dg viene dado por 
+G(dm) 
+y dg = 
+A partir de la simetría de la figura podemos ver que al sumar respecto a todos los elemen- 
+tos del anillo, el campo neto estará dirigido a lo largo del eje del mismo; es decir, la suma 
+de todos las componentes elementales perpendiculares al eje es nula. Por ejemplo, la com- 
+ponente perpendicular del campo elemental indicada en la figura será equilibrada por la 
+componente debida al elemento del anillo directamente opuesta a la indicada. Por lo tanto, 
+el campo neto tendrá el sentido de las x negativas. La componente x del campo debida al 
+elemento dm es 
+dg, = —dg cos @ = eee cos & y? 
+Se obtiene el campo total sumando respecto a todos los elementos del anillo: 
+_ fG cosa d 
+& = -Í s2 m 
+Como s y ( tienen el mismo valor para todos los puntos del anillo, son constantes en cuanto 
+a la integración se refiere. Así pues, 
+= — 2052 f dm = -SH cos a (11.30) 
+en donde m = j dm es la masa total del anillo,
+
+11.5 Cálculo de la ecuación correspondiente al campo gravitatorio de una corteza esférica por integración | 331 
+Ahora utilizaremos este resultado para calcular el campo gravitatorio debido a una cor- 
+teza esférica de masa M y radio R en un punto situado a una distancia r del centro de la 
+misma. Consideremos primeramente el caso en que el punto campo P sea exterior a la cor- 
+teza, como muestra la figura 11.20. Por simetría, el campo debe ser radial. Elegimos como 
+elemento de masa la banda indicada, que puede considerarse como un anillo de masa dM. El 
+campo debido a esta banda viene dado por la ecuación 11.30, en donde m se reemplaza por 
+dM: 
+dg, =- cos & (11.31) 
+S 
+La masa dM es proporcional al área de la banda dA, que es igual al producto de la circunfe- Figura 11.20 Corteza esférica uniforme 
+rencia por su anchura. El área de la banda es R sen 6, de modo que la circunferencia es 2nR delgada de radio R y masa total M. La banda 
+sen 6. La anchura es R d@. Si la masa total de la corteza es M, y A = 47R?, la masa de la indicada puede considerarse como un anillo de 
+banda de área dA es anchura R d0 y circunferencia 2R sen 6. 
+M _ M 2 ey! A dA = Tape sen 0 d0 = 5M sen 6d@ (11.32) 
+Aplicando este resultado en la ecuación 11.31 se obtiene 
+_GdM ie _ GM sen 0 d6 = 22 cos æ (11,33) ES 2 dg, = 
+Antes de integrar respecto a la corteza completa, hemos de eliminar dos de las tres variables 
+relacionadas entre sf: s, O y œ. Lo más sencillo es escribir todas ellas en función de s, que 
+varía desde s = r — R para 0=0 hasta s = r + R para 0= 180°. Por la ley de los cosenos, ten- 
+dremos 
+s? = r24+R?-2rR cos O 
+Diferenciando, se tiene 
+2s ds = +2rR sen 0 d0 
+o bien 
+_ sds sen 0 d0 = R 
+Puede obtenerse una expresión para el cos œ aplicando la ley de los cosenos al mismo trián- 
+gulo. Resulta 
+R2 = s2+r?2-2sr cos a 
+O sea, 
+s? +r? - R? cos @ = 2sr 
+Aplicando estos resultados en la ecuación 11.33 se tiene 
+a. igs _ GM sen 0 d0 aa _GM (<<) s?+r?- R? 
+ar * 2s? 252 \ rR 2sr 
+GMds ¿24 y2_ R2 GM ( EE =- +r?-R?}) = -= [1+ d 11.34 SAR d ) 4r? R s? 3 ( ) 
+Para determinar el campo en P se integra sobre toda la corteza. Los límites de integración 
+dependen ahora de si el punto P está fuera o dentro de la corteza. Si P está fuera s varía 
+desde r — R(@ = 0) hasta s = r + R (0 = 180°), por lo que el campo debido a la corteza com- 
+pleta se determina integrando desde s = r — R hasta s = r + R. 
+GM frer (1+ DD, = GM [s- RCA" 8r == 4,2 Jr-R 4r?R s ¡de
+
+332 | Capítulo 11 Gravedad 
+Al sustituir los límites superior e inferior en la expresión entre corchetes resulta un valor de 
+4R. Por consiguiente, 
+para r>R 
+que es el mismo resultado de la ecuación 11.26a. 
+Si el punto del campo P está contenido dentro de la corteza, el cálculo es idéntico, 
+excepto que s varia ahora de R -ra R +r. Así, 
+Figura 11.21 
+8, = GM PEE 
+EXPLORANDO 
+Las fuerzas de marea, ¿son tan fuertes como que al sustituir los límites superior e inferior da cero. Por consiguiente, 
+las fuerzas gravitatorias? Explore acerca de 
+estos conceptos y mucho más en 
+www.whfreeman.com/tiplerSe g, = 90 para r<R 
+que es la ecuación 1 1.26b. 
+Resumen 
+1 Las leyes de Kepler son observaciones empíricas. También se pueden deducir a partir de las leyes de 
+Newton. 
+2 La ley de la gravitación de Newton es una ley fundamental de la física. 
+3 La energía potencial gravitatoria de un sistema de dos masas relativa a U = 0 a una separación infinita 
+viene dada por U = —Gm,mz,/r. Si el sistema está ligado, su energía total es negativa. 
+4 El campo gravitatorio es un concepto físico fundamental que describe el estado impuesto en el espacio 
+por una distribución de masa. 
+TEMA OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Las tres leyes de Kepler 
+Ley 1 
+Ley 2 
+Ley 3 
+Todos los planetas se mueven recorriendo órbitas elípticas estando situado el Sol en uno de sus 
+focos. 
+Toda línea que une un planeta cualquiera con el Sol barre áreas iguales en tiempos iguales. 
+El cuadrado del periodo de un planeta cualquiera es proporcional al cubo de la distancia media del 
+mismo al Sol: 
+T? = Cr (11.2) 
+en donde C tiene el mismo valor para todos los planetas; según la ley de gravitación de Newton, C 
+vale 4/G{Ms + M,)|. Si Ms >> M,, esta ley puede expresarse por 
+Post p (11.15) 
+Las leyes de Kepler pueden obtenerse a partir de la ley de Newton de la gravedad. Las leyes primera 
+y tercera resultan del hecho de que la fuerza ejercida por el Sol sobre los planetas es inversamente 
+proporcional al cuadrado de la distancia que separa a cada planeta del Sol. La segunda ley se deduce 
+del hecho de que la fuerza ejercida por el Sol sobre un planeta tiene la dirección de la recta que los 
+une y, por lo tanto, se conserva el momento angular orbital del planeta, Las leyes de Kepler son váli- 
+das también para cualquier cuerpo que gire en órbita alrededor de otro y obedezca a un campo que 
+sea inversamente proporcional al cuadrado de la distancia, como ocurre con todo satélite que gira 
+alrededor de un planeta.
+
+Problemas | 333 
+2. Ley de gravitación de Newton Toda partícula puntual ejerce una fuerza atractiva sobre cualquier otra partícula puntual que es proporcional 
+al producto de las masas de ambas e inversamente proporcional al cuadrado de la distancia que las separa: 
+G kra Fia M a (11.3) rt 
+Constante de gravitación universal G = 6,67 x 107" N - m*/kg? (11.4) 
+3. Energía potencial gravitatoria La energía potencial gravitatoria U de un sistema compuesto por una partícula de masa m situada fuera de un 
+objeto con simetría esférica de masa M a una distancia r del centro es 
+u(r) = - Mn. (11.20) 
+Cuando r se aproxima a infinito, esta función energía potencial tiende a cero 
+4. Energía mecánica La energía mecánica E de un sistema compuesto por una partícula de masa m situada fuera de un objeto con 
+simetría esférica de masa M a una distancia r del centro es 
+ES Lay? _GMm 
+r 
+Velocidad de escape Para un valor determinado de r, se denomina velocidad de escape, ve. a la velocidad de la partícula para la 
+cual £ = 0. Es decir, si v=v,, E=0. 
+S. Clasificación de las órbitas Si E<0 el sistema está ligado y la órbita es una elipse (o un círculo, que es un tipo de elipse). 
+Si E20, el sistema no está ligado y la órbita es una hipérbola (o una parábola para E =0). 
+6. Campo gravitatorio 
+or F Definición g= = (11.23) 
+Campo gravitatorio terrestre g(r) = E =- ct f (r2 Rz) (11.29) 
+Campo gravitatorio creado por Fuera de la corteza, el campo gravitatorio es igual al que se crearía si toda la masa de la corteza estuviera 
+una corteza esférica delgada concentrada en el centro. El campo interior a la corteza es cero. 
+GM, . 
+=- f parar>R (11.26a) 
+g=0 parar<R (11.26b) 
+Problemas 
+® Concepto simple, un solo paso, relativamente fácil. En algunos problemas se dan 
+ee Nivel intermedio, puede exigir síntesis de conceptos. más datos de los realmente 
+eee  Desafiante, para alumnos avanzados. necesarios; en otros pocos, deben 
+ssM La solución se encuentra en el Student Solutions Manual. extraerse algunos datos a partir 
+1 Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. de conocimientos generales, 
+i Y Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan alos fuentes externas o estimaciones 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. lógicas. 
+Tomar g = 9,81 N/kg = 9,81 m/s? y despreciar el rozamiento en todos los problemas a menos que se indique lo contrario.
+
+334 | Capítulo 11 Gravedad 
+Problemas conceptuales 
+1 o SSM Verdadero o falso: 
+(a) La ley de las áreas iguales de Kepler implica que la gravedad varía en razón 
+inversa con el cuadrado de la distancia. 
+(b) El planeta más próximo al Sol tiene, por término medio, el periodo de revo- 
+lución más corto. 
+2 e Si la masa de un satélite se duplica, el radio de su órbita puede 
+permanecer constante si la velocidad del satélite (a) se incrementa en un factor 
+de 8, (b) se incrementa en un factor de 2, (c) no varía, (d) se reduce en un factor 
+de 8, (e) se reduce en un factor de 2. 
+3 @@ SSM En la superficie de la Luna, la aceleración debida a su 
+gravedad es a. A una distancia del centro de la Luna igual a cuatro veces su 
+radio la aceleración debida a su gravedad es (a) 16 a, (b) a/4, (c) a/3, (d) a/16, 
+(e) ninguna de las anteriores. 
+a e ¿Por qué es G tan difícil de medir? 
+5 e Si la masa de un satélite se duplica, el radio de su órbita puede 
+permanecer constante si la velocidad del satélite (a) se incrementa en un factor 
+de 1,4, (b) se incrementa en un factor de 2, (c) no varía, (d) se reduce en un fac- 
+tor de 1,4, (e) se reduce en un factor de 2, 
+6 «e Un objeto descubierto recientemente, parecido a un cometa, pasa 
+alrededor del Sol. ¿Cómo podemos saber si regresará, aunque sea dentro de 
+muchos años, o si nunca volverá a pasar? 
+7 es Explicar por qué dentro de una esfera de masa uniforme el campo 
+gravitatorio es directamente proporcional a r en vez de inversamente proporcio- 
+nal a r. 
+8 e SSM _— Si£, es la energía cinética de Mercurio en su órbita alre- 
+dedor del Sol, y U la energía potencial del sistema Mercurio-Sol, ¿cuál es la 
+relación entre E. y U? 
+9 es Se lleva a una estudiante cuyo peso en la superficie de la Tierra es 
+p hasta una altura igual al doble del radio terrestre por encima de la superficie 
+terrestre. Su peso allí es (a) p/2, (b) p/4, (c) p/3, (d) p/9. 
+10 es En la novela “Los primeros hombres en la Luna” de H.G. Wells, 
+el viaje hacia el satélite se llevó a cabo de una forma ligeramente distinta de 
+cómo viajaban los héroes de las novelas de Julio Verne. El profesor Cavour, 
+héroe de la novela, inventó un material, la cavourita, que protegía a los objetos 
+de la fuerza gravitatoria. Por lo tanto, simplemente rodeando un objeto con 
+cavourita se conseguía que éste quedara indemne a la fuerza gravitatoria. Los 
+aventureros del libro de Wells construyeron una nave que estaba recubierta de 
+cavourita por su parte inferior, pero no por su parte superior. Entonces coloca- 
+ron la nave de forma que su parte superior apuntara hacia la Luna para que su 
+fuerza gravitatoria la llevara hacia el satélite. Según la física real, es imposible 
+que exista la cavourita, ya que su existencia conduciría a la violación de la ley 
+de la conservación de la energía. Para demostrarlo utilice la cavourita para 
+inventar un móvil perpetuo. 
+Estimaciones y aproximaciones 
+11 © Estimar la masa de la galaxia si el Sol sigue una órbita respecto 
+del centro de la galaxia con un periodo de 250 millones de años a una distancia 
+de 30.000 años luz. Expresar la masa en función de múltiplos de la masa solar 
+M, (Despreciar la masa que está más lejos del centro de la galaxia que el Sol y 
+considerar que la que está más cerca que éste ejerce la misma fuerza sobre el 
+Sol que la que ejercería una partícula puntual de la misma masa.) 
+12 eee SSM Uno de los grandes avances de la astronomía de los últi- 
+mos años es la detección de planetas fuera del sistema solar. Desde 1996 se han 
+detectado 100 planetas que se mueven en órbitas alrededor de otras estrellas 
+distintas del Sol. Los planetas no se ven directamente, pero los telescopios pue- 
+den detectar el pequeño movimiento periódico de una estrella y un planeta en el 
+movimiento de uno alrededor del otro alrededor de su centro de masas común. 
+(Este efecto se mide mediante la detección del efecto Doppler, que se discutirá 
+en el capítulo 15,) Mediante observaciones experimentales se determina, pues, 
+tanto el periodo de este movimiento como la variación de la velocidad de la 
+estrella. A partir de la observación de la luminosidad de la estrella y teniendo 
+en cuenta la teoría de la estructura estelar, se determina la masa de una estrella. 
+Iota Draconis es la octava estrella más brillante de la constelación Draco y las 
+observaciones indican que alrededor de esta estrella hay un planeta que se 
+mueve con un periodo de 1,5 años. La masa de lota Draconis es 1,05M,,. 
+(a) ¿Cuál es el tamaño (en UA) del semieje mayor de la órbita del planeta? 
+(b) Se observa que la velocidad radial de la estrella varía en 592 m/s. Usando la 
+conservación del momento, determinar la masa del planeta. Suponer que la 
+órbita es circular y que no hay ningún otro planeta que tenga su órbita alrede- 
+dor de lota Draconis. Expresar la masa en función de la masa de Júpiter. 
+13 ese Uno de los problemas sin resolver de la teoría sobre la formación 
+del sistema solar es que, mientras que la masa del Sol representa el 99,9% de la 
+masa total del sistema solar, el astro rey sólo concentra el 2% del momento 
+angular total. La teoría más ampliamente aceptada sobre la formación del sis- 
+tema solar sostiene como hipótesis central el colapso gravitatorio de una nube 
+de polvo y de gas, la mayor parte de la cual formó el Sol. Sin embargo, el 
+momento angular neto de esta masa de gas y polvo tuvo que conservarse, por lo 
+que cualquier teoría simple predice que el Sol debería girar mucho más rápido 
+de lo que en realidad gira. En este problema usted demostrará por qué es impor- 
+tante que la mayor fracción del momento angular se haya transferido de alguna 
+manera a los planetas. (a) El Sol es una nube de gas que se mantiene unida por 
+la fuerza de la gravedad. Si el Sol girara mucho más rápido, la gravedad no ten- 
+dría suficiente fuerza para mantenerlo tal como lo conocemos. Estimar la velo- 
+cidad angular máxima con que podría girar el Sol, usando los valores 
+conocidos de su masa (1,99 x 10% kg) y de su radio (6,96 x 10% km), para que 
+siguiera siendo tal como lo conocemos actualmente. ¿Cuál es el periodo de 
+rotación que corresponde a esta velocidad angular? (b) Calcular el momento 
+angular orbital de Júpiter y de Saturno a partir de su masa (318 y 95,1 veces la 
+masa de la Tierra, respectivamente), de su distancia media al Sol (778 y 
+1430 millones de km, respectivamente), y del periodo de su órbita (11,9 y 
+29,5 años, respectivamente). Compararlos con el valor medido experimental- 
+mente del momento angular del Sol (1,91 x 10%! kg-m?/s). (c) Si se transfiriera 
+todo el momento angular de Júpiter y de Saturno al Sol, ¿cuál sería el nuevo 
+periodo orbital del astro? El Sol no es una esfera uniforme de gas, por lo tanto 
+su momento de inercia viene dado por la fórmula / = 0,059MR*. Comparar 
+este resultado con el obtenido para la velocidad angular de rotación máxima 
+obtenida en el apartado (a), 
+Leyes de Kepler 
+14 e SSM Se ha descubierto el nuevo cometa Alex-Casey en una 
+órbita muy elíptica, con un periodo de 127,4 años. Si el acercamiento máximo 
+del cometa al Sol es de 0,1 UA, ¿cuál es su distancia máxima al astro? 
+15 e El radio de la órbita terrestre es 1,496 x 10'! m y el de Urano, 
+2,87 x 10'? m. ¿Cuál es el periodo de Urano? 
+16 e BTW El asteroide Hector, descubierto en 1907, describe 
+una órbita casi circular de radio 5,16 UA alrededor del Sol. Determinar el 
+periodo de este asteroide, 
+17 es Elasteroide Ícaro, descubierto en 1949, se denominó así porque 
+su órbita elíptica, muy excéntrica, le acerca mucho al Sol en su perihelio. La 
+excentricidad e de una elipse viene definida por la relación r, = a(l — e), en 
+donde r, es la distancia al perihelio y a el semieje mayor. Ícaro tiene una excen- 
+tricidad de 0,83. Su periodo es 1,1 años. (a) Determinar el semieje mayor de la 
+órbita de Ícaro. (b) Determinar las distancias del perihelio y del afelio de la órbita 
+de Ícaro. 
+18 es Se lleva mucho tiempo discutiendo las distintas posibilidades de 
+enviar una misión tripulada a Marte y las dificultades que entrañaría a los astro- 
+nautas acometer un viaje tan largo por el espacio. En este problema analizare- 
+mos el problema de una forma sencilla, considerando una de las posibilidades
+
+que se han barajado: "la transferencia orbital de Hohmann". Según esta pro- 
+puesta, se trataría de establecer una órbita elíptica tangente a la órbita de la Tie- 
+rra cuando ésta esté en el punto más cercano al Sol que a la vez fuera tangente a 
+la órbita de Marte cuando el planeta rojo esté en el punto más alejado del astro 
+rey. Calcular el tiempo total invertido por los astronautas en viajar de un pla- 
+neta a otro sabiendo que la distancia de Marte al Sol es 1,52 veces la distancia 
+media Tierra-Sol, 
+19 @@ SSM Kepler determinaba distancias entre los planetas del sis- 
+tema solar a partir de los datos que había obtenido mediante sus observaciones. 
+Por ejemplo, determinó la distancia relativa entre el Sol y Venus (comparandola 
+con la distancia Sol-Tierra). A causa de que la Órbita de Venus es más cercana 
+al Sol que la órbita de la Tierra, Venus siempre se puede observar próximo al 
+alba o al ocaso, ya que su posición en el cielo nunca está lejos del Sol (véase la 
+figura 11.22). Suponiendo que la órbita de Venus alrededor del Sol es un cír- 
+culo perfecto, consideremos la extensión máxima de la zona cubierta por el 
+movimiento de estos dos planetas alrededor del Sol considerando la orientación 
+relativa de Venus, la Tierra y el Sol cuando Venus está más alejado del Sol en el 
+cielo. (a) En estas condiciones, demostrar que el ángulo b de la figura 11.22 es 
+90°. (b) Si el ángulo de máxima elongación entre Venus y el Sol es de 47°, ¿cuál 
+es la distancia entre Venus y el Sol en UA? 
+Figura 11.22 Problema 19 
+20 ee La Luna, cuando está en el apogeo de su órbita alrededor de la 
+Tierra está a 406.395 km de distancia, mientras que en el perigeo está a 
+357.643 km. ¿Cuál es la velocidad de la Luna en el apogeo y en el perigeo? El 
+periodo orbital de la Luna alrededor de la Tierra es 27,3 días. 
+Ley de la gravitación de Newton 
+21 @@ SSM  Europaes un satélite que se mueve en una órbita de Júpi- 
+ter con un periodo de 3,55 días y a una distancia media de 6,71 x 10% m. A par- 
+tir de estos datos y suponiendo que la órbita es circular, calcular la masa de 
+Júpiter. (b) Otro satélite de Júpiter, Callisto, se mueve a una distancia media de 
+18,8 x 10% m en una órbita que tiene un periodo de 16,7 días. A partir de estos 
+datos determinar la aceleración de Callisto y de Europa y comprobar que son 
+consistentes con una ley de la gravitación que contemple una dependencia 
+espacial proporcional a la inversa del cuadrado de la distancia. [Nota: En el 
+apartado (b) de este problema NO debe usarse el valor de G para nada], 
+22 e SSM Se opina comúnmente que los astronautas de la lanza- 
+dera espacial están en condiciones de ingravidez “porque están más allá de la 
+atracción gravitatoria de la Tierra”. De hecho, esta opinión es completamente 
+falsa. (a) ¿Cuál es el módulo de la aceleración de la gravedad para los astron- 
+autas de la lanzadera espacial cuando el ingenio espacial está a 400 km por 
+encima de la superficie de la Tierra? (b) A tenor de la respuesta al apartado 
+(a), ¿por qué, aparentemente, los astronautas están en-condiciones de ingravi- 
+dez? 
+Problemas | 335 
+23 e I La masa de Saturno es de 5,69 x 10% kg, (a) Calcu- 
+lar el periodo de su Luna Mimas, sabiendo que el radio medio de su órbita es 
+1,86 x 10° m. (b) Calcular el radio medio de la Luna Titán, cuyo periodo es de 
+1,38 x 10° s. 
+24 e 1 Y Calcular la masa terrestre a partir de los valores del 
+periodo de la Luna T = 27,3 d, el radio medio de su órbita r = 3,84 x 10% y el 
+valor ya conocido de G. 
+25 e İV Utilizar el periodo de la Tierra (1 año), el radio 
+medio de su órbita (1,496 x 101! m), y el valor de G para calcular la masa del 
+Sol. 
+26 o SM 1 Y Se deja caer un cuerpo desde una altura de 
+6,37 x 10% m por encima de la superficie terrestre. ¿Cuál es su aceleración ini- 
+cial? 
+27 e Suponer que se realiza un aterrizaje en un planeta de otro sistema 
+solar que tiene la misma masa por unidad de volumen que la Tierra, pero su 
+radio es 10 veces el de la Tierra. ¿Cuál sería su peso en ese planeta en compara- 
+ción con el que tiene en la Tierra? 
+28 e Suponer que la Tierra, manteniendo su masa actual, fuera compri- 
+mida hasta la mitad de su radio, ¿Cuál sería la aceleración de la gravedad g en 
+la superficie de este nuevo planeta más compacto? 
+29 e Un planeta se mueve alrededor de un sol masivo con momento 
+angular constante. Cuando el planeta pasa por el perihelio posee una velocidad 
+de 5 x 101 m/s y se encuentra a 1,0 x 1015 m del sol. El radio orbital en el afelio 
+aumenta en 2,2 x 101% m. ¿Cuál es la velocidad del planeta en el afelio? 
+30 © ¿Cuál es la aceleración de la gravedad en la superficie de una 
+estrella de neutrones cuya masa es 1,60 veces la masa del Sol y que tiene un 
+radio de 10,5 km? 
+31 @@ SSM La velocidad de un asteroide es de 20 km/s en el perihe- 
+lio y de 14 km/s en el afelio. Determinar la relación de las distancias al afelio y 
+al perihelio. 
+32 es Un satélite de masa 300 kg se mueve en una órbita circular de 
+5 x 107 m por encima de la superficie terrestre. (a) ¿Cuál es la fuerza gravitato- 
+ria sobre el satélite? (b) ¿Cuál es la velocidad del satélite? (c) ¿Cuál es el 
+periodo del satélite? 
+33 ee SM |I Un medidor superconductor de la gravedad 
+puede medir cambios de esta magnitud del orden Ag/g = 107". (a) Si una per- 
+sona está escondida detrás de un árbol con un medidor de gravedad, ¿a qué dis- 
+tancia máxima se podrá acercar su amigo de 80 kg de masa sin que el detector 
+muestre un cambio de g debido a su presencia? (b) Una persona sube a un 
+globo aeroestatico con un medidor de la gravedad con el objetivo de determinar 
+la velocidad de ascenso (supuesta constante), ¿Cuál es la altura mínima ascen- 
+dida que produce un cambio del campo gravitatorio terrestre perceptible por el 
+aparato? 
+34 es Si suponemos que la interacción atractiva entre una estrella de 
+masa M y un planeta de masa m << M es de la forma F = KMmi/r, siendo K la 
+constante gravitatoria, ¿cuál sería la relación entre el radio de la órbita circular 
+del planeta y su periodo? 
+35 es SSM La masa de la Tierra es 5,97 x 10% kg y su radio 
+6370 km. El radio de la Luna es 1738 km. La aceleración de la gravedad en la 
+superficie de la Luna es 1,62 m/s?. ¿Cuál es la relación entre la densidad media 
+de la Luna y la de la Tierra? 
+Medida de G 
+36 e | Las masas de una balanza de Cavendish (figura 11.7) 
+son m = 10 kg y mm = 0,010 kg, respectivamente, estando separados sus centros 
+6 cm. Los centros de las dos masas pequeñas están separados 20 cm. (a) ¿Cuál 
+es la fuerza de atracción entre las esferas grande y pequeña? (b) ¿Qué momento 
+de torsión debe ejercer la fibra para equilibrar estas fuerzas?
+
+336 | Capítulo 11 Gravedad 
+Masa gravitatoria inercial 
+37 e i Un cuerpo patrón, que por definición tiene una masa 
+de | kg exactamente, experimenta una aceleración de 2,6587 m/s? cuando se le 
+aplica una determinada fuerza. Otro objeto de masa desconocida adquiere una 
+aceleración de 1.1705 m/s? cuando se le aplica la misma fuerza. (a) ¿Cuál es la 
+masa del segundo objeto? (b) La masa que se determina en la parte (a), ¿es gra- 
+vitatoria o inercial? 
+38 e | Y E peso de un cuerpo patrón que por definición tiene 
+una masa exacta de | kg, se mide y resulta ser de 9,81 N. En el mismo laborato- 
+rio, otro objeto pesa 56,6 N. (a) ¿Cuál es la masa de este último? (b) La masa 
+determinada en (a), ¿es gravitatoria o inercial? 
+39 e ‘SSM _ El principio de equivalencia establece que la caída libre 
+de cualquier cuerpo en un campo gravitatorio es independiente de la masa del 
+objeto. Este resultado puede comprobarse a partir de la ley de gravitación uni- 
+versal pero, ¿se ha comprobado experimentalmente? Un experimento realizado 
+en la década de los años 1960, el experimento de Roll-Krotkov-Dicke, indica 
+que la aceleración de la caída libre de los cuerpos es independiente de la masa 
+al menos con una exactitud de | parte en 101. Supongamos que dos cuerpos 
+caen simultáneamente, desde el reposo, en un campo gravitatorio uniforme y 
+que, además, uno de los objetos cae con una aceleración exacta de 9,8 m/s” 
+mientras que el otro cae con una aceleración constante que supera los 9,8m/s? 
+en | parte sobre 10'?, ¿Qué distancia habrá caído el primer cuerpo cuando el 
+segundo, en su caída, le aventaje en | mm? (Obsérvese que esta estimación 
+corresponde al cálculo de un límite superior de la diferencia de aceleraciones, 
+aunque la mayoría de los físicos creen que no hay ninguna diferencia.) 
+Energía potencial gravitatoria 
+40 e (a) Considerando que la energía potencial es cero a una distancia 
+infinita, hallar la energía potencial de un cuerpo de 100 kg en la superficie de la 
+Tierra. (Utilizar 6,37 x 10% m para el radio terrestre.) (b) Hallar la energía 
+potencial del mismo cuerpo a una altura sobre la superficie terrestre igual al 
+radio de la Tierra, (c) ¿Cuál deberá ser la velocidad de escape de un cuerpo pro- 
+yectado desde esta altura? 
+41 e Una masa puntual mọ está inicialmente en la superficie de una 
+esfera grande de masa M y radio R. ¿Cuánto trabajo se necesita para separarla a 
+una distancia muy grande de la esfera grande? 
+42 e Suponer que en el espacio existe un astro igual a la Tierra, 
+excepto que no tiene atmósfera, no tiene movimiento de rotación ni se mueve 
+alrededor del Sol. ¿Qué velocidad inicial debería tener un vehículo espacial en 
+la superficie de este astro para recorrer verticalmente hacia arriba una distancia 
+igual a un radio terrestre? 
+43 ee SM |Í Y Se deja caer desde el reposo un objeto 
+situado a una altura de 4 x 10° m sobre la superficie terrestre. Si no existiese la 
+resistencia del aire, ¿cuál sería su velocidad al chocar contra la Tierra? 
+44 ee i Se lanza un objeto hacia arriba desde la superficie de 
+la Tierra con una velocidad inicial de 4 km/s. Hallar la altura máxima que 
+alcanzará. 
+45 ee | Una corteza esférica tiene un radio R y una masa M. 
+(a) Escribir las expresiones correspondientes a la fuerza ejercida por la corteza 
+sobre una masa puntual my cuando my está en el exterior o en el interior de la 
+corteza. (b) ¿Cuál es la función energía-potencial U(r) para este sistema cuando 
+la masa my está a una distancia r (r 2 R) si U = 0 en r = œ? Calcular esta fun- 
+ción para r = R. (c) Utilizando la relación general para dU =—F + dr =—F, dr, 
+demostrar que U es constante en todo punto interior a la corteza. (d) Utilizando 
+el hecho de que U es continua en todas partes, incluidos los puntos en que r= R, 
+hallar el valor de U constante en el interior de la corteza. (e) Dibujar una gráfica 
+de U(r) en función de r para todos los valores posibles de r. 
+46 e i El planeta Saturno tiene una masa 95,2 veces mayor 
+que la de la Tierra y un radio 9,47 veces el de ésta. Hallar la velocidad de 
+escape para objetos situados cerca de la superficie de Saturno. 
+47 o I Y Hallar la velocidad de escape de un cohete que 
+abandona la Luna. La aceleración de la gravedad en la Luna es 0,166 veces la 
+de la Tierra y el radio de la Luna es 0,273 Ry. 
+48 e ‘SSM  Elescritor de ciencia ficción Robert Heinlein afirmó: “Si 
+se consigue estar en una órbita estable, se está a medio camino de todas partes”. 
+Justificar esta frase comparando la energía cinética necesaria para colocar un 
+satélite en una órbita baja (/1 = 400 km) con la energía necesaria para colocar el 
+satélite completamente libre de la gravedad terrestre. 
+49 es Se lanza desde la superficie de la Tierra una partícula con una 
+velocidad doble de la de escape. Cuando esté muy lejos de la Tierra, ¿cuál será 
+su velocidad? 
+50 es ¿Qué velocidad inicial debe darse a una partícula para que cuando 
+esté muy alejada de la Tierra su velocidad final sea igual a la de escape? 
+51 ee Í (a) Calcular en julios la energía necesaria para lanzar 
+una masa de | kg desde la Tierra con la velocidad de escape. (b) Convertir esta 
+energía en kilovatios-hora. (c) Si la energía puede obtenerse a 10 céntimos de 
+euro por kilovatios-hora, ¿cuál es el coste mínimo para conseguir que un astro- 
+nauta de 80 kg tenga la energía suficiente para escapar del campo gravitatorio 
+terrestre? 
+52 es Un objeto se lanza verticalmente hacia arriba desde la superficie 
+de la Tierra. Demostrar que la altura máxima alcanzada por el cuerpo es H = 
+RyH'/(Ry — H’), en donde H’ es la altura que alcanzaría si el campo gravitatorio 
+fuera constante. 
+Órbitas 
+53 ee Í Y Un vehículo espacial de 100 kg de masa se encuen- 
+tra en una órbita circular alrededor de la Tierra a una altura /h=2R. (a) ¿Cuál 
+es el periodo de la órbita de este vehículo alrededor de la Tierra? (b) ¿Cuál es 
+su energía cinética? (c) Expresar el momento angular £ del vehículo espacial en 
+función de su energía cinética Æ, y determinar su valor numérico, 
+54 e SSM Habitualmente se dice que la Luna se mueve alrededor de 
+la Tierra pero en realidad, la Luna y la Tierra se mueven alrededor de su centro de 
+masas común, que no está en el centro de la Tierra. (a) La masa de la Tierra es 
+5.98 x 10% kg y la masa de la Luna es 7,36 x 10% kg. La distancia media desde 
+el centro de la Tierra al centro de la Luna es de 3,82 x 10% m. (a) ¿A qué distancia 
+de la superficie de la Tierra está el centro de masas del sistema Tierra-Luna? 
+(b) Estimar la “velocidad media en la órbita” de la Tierra cuando se mueve alre- 
+dedor del centro de masas común, usando la masa de la Luna, el periodo de la 
+órbita de la Luna (27,3 días) y la distancia media Tierra-Luna. Considerar que 
+no actúa ninguna fuerza externa sobre el sistema, 
+55 ee İ Y Alrededor de la Tierra, a unos 1000 km de altura 
+sobre la superficie terrestre hay muchos satélites en órbita. Los satélites geosín- 
+cronos están en órbita a una distancia de 4,22 x 107 m del centro de la Tierra. 
+¿Cuánta energía adicional se requiere para lanzar un satélite de 500 kg a una 
+Órbita geosíncrona en vez de una órbita de 1000 km por encima de la superficie 
+terrestre? 
+56 es Calcular la razón de la masa del Sol con respecto a la masa de la 
+Tierra a partir del periodo del movimiento orbital de la Luna (27,3 días), su dis- 
+tancia media hasta el centro de la Tierra (3,82 x 10% m), la duración de un año 
+(365.25 días) y la distancia media entre la Tierra y el Sol (1,50 x 10'! m). Com- 
+parar el resultado con la razón medida, 3,33 x 10°.
+
+Campo gravitatorio 
+57 e i Una masa de 3 kg experimenta una fuerza gravitatoria 
+de 12 Nien cierto punto P. ¿Cuál es el campo gravitatorio en ese punto? 
+58 e sm ji El campo gravitatorio en cierto punto viene 
+dado por g = 2,5 X 107? N/kg j. ¿Cuál es la fuerza gravitatoria sobre una masa 
+de 4 g en ese punto? 
+59 es Una masa puntual m está sobre el eje x en el punto x = L y otra 
+masa puntual igual está sobre el eje y en el punto y = £. (a) Determinar el 
+campo gravitatorio en el origen. (b) ¿Cuál es el módulo de este campo? 
+60 es Cinco masas ¡iguales M están equidistantes sobre el arco de una 
+semicircunsferencia de radio R como se indica en la figura 11.23. Se sitúa una 
+masa m en el centro de curvatura del arco. (a) Si Mes 3 kg, m vale 2 kg y R es 
+10 cm, ¿cuál es la fuerza sobre m debida a las cinco masas M? (b) Si m se retira, 
+¿cuál es el campo gravitatorio en el centro de curvatura del arco? 
+m x 
+Figura 11.23 Problema 60 
+61 es Una masa puntual m, = 2 kg está en el origen y una segunda masa 
+puntual m = 4 kg está sobre el eje x en el punto x = 6 m, Determinar el campo 
+gravitatorio en (a) x=2 m. (b) x= 12 m. (c) Determinar el punto sobre el eje x, 
+para el cual g = 0. 
+62 es Demostrar que el máximo valor de |g,| para el campo del ejem- 
+plo 11.7 tiene lugar en los puntos zal./2. 
+63 ee Una barra no uniforme de longitud L se encuentra alineada sobre 
+el eje x con un extremo en el origen y el otro en x = L. Su densidad A (masa por 
+unidad de longitud) varía en la forma A = Cx, en donde C es una constante. 
+(Así, un elemento de la barra tiene una masa dm = A dx.) (a) ¿Cuál es la masa 
+total de la barra? (b) Determinar el campo gravitatorio debido a la barra en el 
+punto xo > L. 
+64 @@@ Una varilla uniforme de masa M y longitud L está situada sobre el 
+eje x con su centro en el origen. Consideremos un elemento de longitud dx a una 
+distancia x del origen tal que - L < x < tL. (a) Demostrar que este elemento 
+produce un campo gravitatorio enun punto xy sobre el eje x (xp > i L) dado por 
+GM dg, = “at dx 
+(b) Integrar este resultado respecto a toda la varilla para hallar el campo gravi- 
+tatorio total en el punto xy debido a la misma. (c) ¿Cuál es la fuerza ejercida 
+sobre un objeto de masa my en xy? (d) Demostrar que para xy > L el campo es 
+aproximadamente igual al ejercido por una masa puntual M situada en x = 0. 
+Campo gravitatorio g producido por objetos esféricos 
+65 o i Una corteza esférica tiene una radio de 2 m y una masa 
+de 300 kg. ¿Cuál es el campo gravitatorio a las siguientes distancias del centro 
+de la corteza: (a) 0,5 m. (b) 1,9 m. (c) 2,5 m? 
+Problemas 337 
+66 eo i Una corteza esférica tiene un radio de 2 m y una masa 
+de 300 kg; su centro está localizado en el origen de un sistema de coordenadas. 
+Otra corteza esférica de radio | m y masa 150 kg está situada dentro de la cor- 
+teza mayor con su centro a 0,6 m sobre el eje x. ¿Cuál es la fuerza gravitatoria 
+de atracción entre las dos cortezas? 
+67 e ‘SSM Dos esferas sólidas S, y S, tienen radios iguales R y 
+masas iguales M. La densidad de la esfera $, es constante, mientras que la den- 
+sidad de la esfera S} depende de la distancia radial de acuerdo con la expresión 
+p(r) = Cir. Si la aceleración de la gravedad en la superficie de S, es g;, ¿cuál es 
+la aceleración de la gravedad en la superficie de la esfera S,? 
+68 @@ Dos esferas sólidas homogéneas, S, y $z, tienen masas iguales, 
+pero radios distintos R, y R». Si la aceleración de la gravedad en la superficie de 
+la esfera S, es g,, ¿cuál es la aceleración de la gravedad en la superficie de la 
+esfera S,? 
+69 es Dos cortezas esféricas concéntricas y uniformes poseen masas M, 
+y M3 y radios a y 2a, como se muestra en la figura 11.24. ¿Cuál es el módulo de 
+la fuerza gravitatoria sobre una masa puntual mm localizada (a) a una distancia 
+3a del centro de las dos cortezas? (b) a una distancia 1,9a del centro de las cor- 
+tezas? (c) a una distancia 0,9a del centro de las cortezas? 
+Figura 11.24 Problemas 69 y 70 
+70 es La corteza esférica interna del problema 69 se desplaza de modo 
+que su centro está ahora en x = 0,8a. ¿Cuál es el módulo de la fuerza gravitato- 
+ria sobre una partícula puntual de masa m situada sobre el eje x en (a) x = 3a, 
+(b) x= 1,9a, (c) x = 0,9a? 
+Campo gravitatorio g en el interior de esferas sólidas 
+71 es SSM _ El peso de una persona (medido mediante una balanza 
+de muelles) varia si se mide en el fondo del pozo de una mina profunda con res- 
+pecto al peso que se mide en la superficie de la Tierra. Supóngase que la Tierra 
+es una esfera homogénea y considérese este efecto con respecto los apartados 
+(a) y (b) que siguen. 
+(a) Demostrar que la fuerza de la gravedad ejercida por un planeta perfecta- 
+mente esférico y homogéneo de densidad constante sobre una persona es 
+proporcional a su distancia al centro del planeta. 
+(b) Demostrar que el peso efectivo de una persona aumenta linealmente debido 
+a los efectos de la rotación a medida que se aproxima al centro. (Considere 
+que la mina está en el ecuador). 
+(c) ¿Cuál de los dos efectos es más importante en la Tierra? (M= 5,98 x 10% Kg, 
+R = 6370 kg, T = 24 horas). 
+72 es Supongamos que la Tierra fuera una esfera de masa uniforme y en 
+ella se excavara un pozo de 15000 m de profundidad. Un estudiante que pesa 
+800 N en la superficie de la Tierra desciende en un montacargas hasta el fondo 
+de dicho pozo. ¿Cuál sería allí la pérdida de peso experimentada por el estu- 
+diante?
+
+338 | Capítulo 11 Gravedad 
+73 es Una esfera sólida de radio R tiene su centro en el origen de coorde- 
+nadas. Posee una densidad de masa uniforme, Py, exceptuando el hecho de que 
+tiene un agujero esférico de radio r = | R cuyo centro se encuentra en x= ! R, 
+como se muestra en la figura 11.25. Calcular el campo gravitatorio en los puntos 
+del eje x para los que se cumple que |x| > R. (Sugerencia: Puede considerarse la 
+cavidad como una esfera de masa m = ; rar” py más una esfera de masa —m.) 
+Figura 11.25 Problemas 73 y 74 
+74 ese Demostrar para la esfera con un agujero del problema 73 que el 
+campo gravitatorio dentro del agujero es uniforme, y calcular su módulo y 
+dirección. 
+75 ese Se taladra un túnel liso y recto a través de un planeta esférico cuya 
+densidad de masa py es constante. El túnel pasa por el centro del planeta y es 
+perpendicular al eje de rotación del mismo, que está fijo en el espacio. El pla- 
+neta gira con una velocidad angular @ determinada, de modo que los objetos 
+dentro del túnel no tienen aceleración relativa a éste. Hallar 0. 
+76 eee | La densidad de una esfera viene dada por p(r) = C/r. 
+La esfera tiene una radio de 5 m y una masa de 1011 kg. (a) Determinar la 
+constante C. (b) Obtener las expresiones del campo gravitatorio para (1) r>5 m 
+y(Q)r<5m. 
+77 eoo SSM i En la esfera del problema 76 se taladra un 
+agujero hacia el centro de la misma a profundidad de 2 m por debajo de la 
+superficie de la esfera. Desde la superficie se deja caer en el agujero una 
+pequeña masa. Determinar la velocidad de esta masa al chocar contra el fondo 
+del agujero. 
+78 eee | Y La superficie sólida de la Tierra tiene un espesor de 
+40 km y una densidad de 3000 kg/m* aproximadamente. Centrado a 2000 m 
+por debajo de dicha superficie se encuentra un depósito esférico de metales 
+pesados con una densidad de 8000 kg/m? y un radio de 1000 m. Encontrar el 
+cociente Ag/g directamente encima de este depósito, siendo Ag el aumento del 
+campo gravitatorio debido al depósito. 
+79 eco SSM Dentro de una esfera de plomo de radio R se han tala- 
+drado dos huecos esféricos idénticos de radio R/2. Ambos son tangentes a la 
+superficie de la esfera y tocan su centro como se ve en la figura 11.26. Antes de 
+formar los huecos la masa de la esfera de plomo era M. (a) Hallar la fuerza de 
+atracción que la esfera de plomo ejerce sobre una partícula puntual de masa m 
+situada en la posición que indica la figura. (b) ¿Cuál es la fuerza de atracción si 
+m se sitúa sobre el eje x en x= R? 
+Figura 11.26 Problema 79 - 
+80 es Un clúster (racimo) globular es un conjunto casi esférico de 
+millones de estrellas que se mantienen juntas gracias a la fuerza de la gravedad. 
+Los astrónomos miden las velocidades de las estrellas del clúster con el obje- 
+tivo de estudiar su composición y de tener una idea de la distribución de masa 
+en su interior. Si se supone que todas las estrellas tienen aproximadamente la 
+misma masa, demostrar que la velocidad media de una estrella en una órbita 
+circular alrededor del centro del clúster ha de aumentar linealmente con la dis- 
+tancia al centro del mismo. 
+Problemas generales 
+81 e SSM La distancia media de Plutón al Sol es de 39,5 UA. 
+Determinar el periodo de Plutón. 
+82 e Calcular la masa de la Tierra a partir de los valores de G, g y Rp 
+83 es La fuerza ejercida por la Tierra sobre una partícula de masa m a 
+la distancia r (r > Ry) del centro del planeta tiene el módulo mg Rjr?, en 
+donde g = GM,/R}. (a) Calcular el trabajo que debe realizarse contra la gra- 
+vedad para desplazar la partícula de una distancia r; a otra r,. (b) Demostrar 
+que cuando r; = Ry y r} = Ry + h, el resultado puede escribirse en la forma 
+W = mgR] [(1/Ry) - 1/(Ry + h)]. (c) Demostrar que cuando h << Ry el 
+trabajo viene dado aproximadamente por W = mgh. 
+84 es Una esfera uniforme de 100 m de radio y densidad 2000 kg/m? 
+está en el espacio libre lejos de cualquier otro cuerpo de gran masa. (a) Hallar 
+el campo gravitatorio en el exterior de la esfera en función de r. (b) Hallar el 
+campo gravitatorio dentro de la esfera en función de +. 
+85 es Júpiter tiene una masa 320 veces mayor que la Tierra y un volu- 
+men 1320 superior al de la Tierra. Un “día” de Júpiter tiene una duración de 9 h 
+50 min. Determinar la altura #4 por encima de Júpiter para que un satélite en 
+órbita de este planeta tenga un periodo igual a 9 h 50 min. 
+86 es La densidad media de la Luna es p = 3340 kg/m,. Determinar el 
+periodo mínimo posible T de un vehículo espacial en órbita alrededor de la 
+Luna. 
+87 es Un satélite gira alrededor de la Luna (radio 1700 km), próximo a 
+la superficie, con una velocidad v. Desde la Luna se lanza verticalmente hacia 
+arriba un proyectil con la misma velocidad inicial v. ¿Qué altura máxima alcan- 
+zará? 
+88 es SSM _ En la novela de Julio Verne “De la Tierra a la Luna”, se 
+lanza los astronautas desde la Tierra hacia la Luna dentro de una “bala” dispa- 
+rada por un cañón gigante. (a) Si consideramos que la velocidad necesaria para 
+alcanzar la Luna es la velocidad de escape de la Tierra, y que la longitud del 
+cañón es de 274,32 m (900 pies), como dice el libro, ¿cuál es la probabilidad de 
+que los astronautas sobrevivan al despegue? (b) Según el libro, los astronautas 
+sienten los efectos de la gravedad terrestre hasta que llegan al punto donde la 
+fuerza gravitatoria de la Tierra y de la Luna son iguales. A partir de este 
+momento, todos los objetos de la nave “caen” hacia la Luna, pasando el techo a 
+ser el suelo y viceversa. ¿A qué distancia del centro de la Tierra se encuentra ese 
+punto? (c) ¿Es razonable esta descripción de lo que les ocurre a los astronautas? 
+¿Les ocurrió, en la realidad, lo mismo a los astronautas de las misiones Apolo 
+que visitaron la Luna? 
+89 es En un sistema de estrellas binarias, dos estrellas orbitan alrededor 
+de su centro común de masas, Si las estrellas tienen masas 7, y m, y están separa- 
+das por una distancia r, demostrar que el periodo de rotación está relacionado con 
+r según la expresión T? = 4xr*'/[G(m, + m:)]. 
+90 es Dospartículas de masa m, y m, separadas una distancia infinita se 
+dejan libremente desde el reposo. Determinar sus velocidades v, y v2 cuando su 
+distancia de separación es r. La distancia de separación se dice que es grande, 
+pero éste es un término relativo, ¿Qué distancia podemos cualificar como 
+grande?
+
+91 e@@ SSM Cuatro planetas idénticos están distribuidos en un cua- 
+drado tal como se muestra en la figura 11.27, Si la masa de cada planeta es M y 
+el lado del cuadrado es a, ¿cuál ha de ser la velocidad de los planetas si se mue- 
+yen alrededor del centro del cuadrado bajo la influencia de su atracción mutua? 
+Figura 11.27 Problema 91 
+92 es Como muestra la figura 11.28, se perfora un pozo de pequeño diá- 
+metro desde la superficie de la Tierra hasta su centro. Despreciamos la rotación 
+de la Tierra y la resistencia del aire y consideramos que la Tierra es una esfera 
+uniforme. (a) ¿Cuánto trabajo se necesitaría para trasladar un objeto pequeño 
+de masa m desde el centro de la Tierra a su superficie? (b) Si se dejase caer el 
+objeto por la abertura del agujero en la superficie terrestre, ¿con qué velocidad 
+llegaría al centro? (c) ¿Cuál es la velocidad de escape de una partícula de masa 
+m proyectada desde el centro de la Tierra? Expresar las respuestas en función 
+dem, g y Rp 
+Figura 11.28 Problema 92 
+93 es Una corteza esférica gruesa de masa M y densidad uniforme tiene 
+un radio interior R, y el radio exterior es R}. Hallar el campo gravitatorio g,, en 
+función de r para 0 < r < œ, Esquematizar un gráfico de g, en función de r. 
+94 es (a) Dibujar una gráfica que nos dé un campo gravitatorio g, en 
+función de x debido a un anillo uniforme de masa M y de radio R cuyo eje sea 
+el eje x. (b) ¿En qué puntos es máximo el módulo de g,? 
+95 ese Determinar el módulo del campo gravitatorio a una distancia r de 
+un hilo infinitamente largo cuya masa por unidad de longitud es A. 
+96 ese Una cuestión importante referida al sistema solar es saber si cada 
+uno de los anillos de Saturno es sólido o, por el contrario, está formado por una 
+infinidad de pequeños satélites. Podría hacerse una simple observación que re- 
+solviera este enigma: la medida de la velocidad de la fracción interna y externa 
+de un anillo. Si el anillo se mueve más lento fuera que dentro está formado por 
+trozos pequeños sólidos, en caso contrario el anillo es sólido. (a) Suponiendo 
+que la anchura del anillo es », que la distancia promedio del anillo al centro de 
+Saturno es R y que la velocidad media del anillo es y, demostrar que si el anillo 
+es sólido Viuera — Vdentro = +W/R, donde Vivera es la velocidad en la zona más ex- 
+terna del anillo y Vgentro es la velocidad en la zona más interna del anillo. (b) Si, 
+en cambio, el anillo está formado por trozos pequeños de materia sólida, de- 
+mostrar qUe Viuera — Vgentro =—4 4W/R. (Suponer que r << R.) 
+Problemas | 339 
+97 ece Eneste problema se tiene que averiguar la energía potencial gra- 
+vitatoria de la varilla del ejemplo 11.8 y de una masa puntual mp que está sobre 
+el eje x en xy. (a) Demostrar que la energía potencial gravitatoria de un ele- 
+mento de la varilla dm (que se muestra en la figura 11.13) y una partícula pun- 
+tual 7p situada sobre el eje x en xy 2 3 L viene dada por 
+dite _ Ging dm E GMmy Vs 
+Xp=X (xo —x) 
+en donde U = 0 para xy = =. (b) Integrar el resultado de la parte (a) en toda la 
+longitud de la varilla para hallar la energía potencial total del sistema. Escribir 
+el resultado como una función general U(x) haciendo que xy sea igual a un 
+punto genérico x. (c) Calcular la fuerza ejercida sobre mg en un punto x a 
+partir de F, = —dU/dx, y comparar el resultado con mpg, en donde g es el 
+campo en xy calculado en el ejemplo 11.8. 
+98 e.. SSM Una esfera uniforme de masa M está cerca de una varilla 
+delgada y uniforme de masa m y longitud L, como se indica en la figura 11.29. 
+Hallar la fuerza gravitatoria de atracción ejercida por la esfera sobre la varilla. 
+Figura 11.29 Problema 98 
+99 ese Una varilla uniforme de masa M = 20 kg y longitud L = 5 m se 
+dobla en forma de semicircunferencia. ¿Cuál es la fuerza gravitatoria ejercida 
+por la varilla sobre una masa puntual m = 0,1 kg situada en el centro del arco? 
+100 een SSM Las mareas se producen como consecuencia de las fuer- 
+zas gravitatorias ejercidas por el Sol y la Luna sobre los océanos de la Tierra. 
+(a) Demostrar que el cociente entre la fuerza ejercida por el Sol y la ejercida 
+por la Luna es My7/M,r2, en donde M, y M, son las masas del Sol y la Luna y 
+r, y r son las distancias de la Tierra al Sol y a la Luna. Evaluar este cociente. 
+(b) A pesar de que el Sol ejerce una fuerza mucho mayor sobre el océano que la 
+ejercida por la Luna, ésta produce un efecto mucho mayor sobre las mareas 
+porque el hecho importante es la diferencia de fuerzas entre un lado y otro de la 
+Tierra. Diferenciar la expresión F = Gm m,/r* para calcular la variación de F 
+que se produce para una pequeña variación de r. Demostrar que dF/F = (2 dr)/r. 
+(c) La variación más grande de la distancia desde el Sol o la Luna a un océano 
+en un día completo (que se produce como consecuencia de la rotación) es el 
+diámetro terrestre. Demostrar que para una pequeña variación de la distancia, la 
+variación de la fuerza ejercida por el Sol está relacionada con la variación de la 
+fuerza ejercida por la Luna por AF,/AF, =(M,ri)/(M,r3). Calcular esta 
+relación. 
+101 es La nave de la Federación Unida Excelsior suelta dos sondas 
+automáticas en la superficie de una estrella de neutrones con el objetivo de 
+explorarla, La masa de la estrella de neutrones es la misma que la del Sol pero, 
+en cambio, tiene sólo 10 km de diámetro. Las sondas están unidas entre sí por 
+un cable de acero de 1 m de longitud y se sueltan verticalmente, es decir, una 
+por encima de la otra. (a) Explicar por qué parece que hay una fuerza que 
+separa las sondas una de otra (véase el problema 99). (b) ¿Hasta qué distancia 
+llegarán de la superficie de la estrella antes que el cable se rompa? Suponer que 
+el cable se rompe cuando alcanza la tensión de 25 000 N y que cada una de las 
+sondas tienen una masa de | kg.
+
+EQUILIBRIO ESTÁTICO Y ‘*Capitulo 
+ELASTICIDAD 
+12 12.1 Condiciones de 
+equilibrio 
+12.2 Centro de gravedad 
+12.3 Ejemplos de 
+equilibrio estático 
+12.4 Par de fuerzas 
+12.5 Equilibrio estático en 
+un sistema acelerado 
+12.6 Estabilidad del 
+equilibrio de rotación 
+12.7 Problemas 
+indeterminados “z 
+12.8 Tensión y o,f 
+deformación 
+La tabla de la foto está en equilibrio estático. Sobresale un sexto de su longitud y cuando un 
+estudiante se coloca con su centro de masas en el extremo de la tabla, ésta permanece en 
+equilibrio. 
+¿Cuál es la fracción máxima de la masa del estudiante con respecto a la masa de la tabla para 
+que la tabla esté en equilibrio cuando el centro de masas del estudiante se coloca en un ex- 
+tremo de la misma? 
+y 
+Si un objeto está estacionario y permanece en ese estado, se dice que se encuentra en 
+equilibrio estático. La determinación de las fuerzas que actúan sobre un objeto en equi- 
+librio estático tiene múltiples aplicaciones de interés. Por ejemplo, las fuerzas ejercidas 
+por los cables de un puente colgante deben ser conocidas a fin de que los cables se 
+construyan suficientemente resistentes para soportar el puente. De igual modo, las 
+grúas deben diseñarse de modo que no vuelquen al levantar un peso. 
+Las fuerzas ejercidas por cables y vigas en una estructura se denominan fuerzas elás- 
+ticas. Son el resultado de ligeras deformaciones: alargamientos o compresiones de cuer- 
+pos sólidos sometidos a tensiones de las cargas que soportan. 
+@ En este capítulo estudiaremos el equilibrio de cuerpos rígidos y analizaremos 
+brevemente las deformaciones y fuerzas elásticas que surgen cuando los sólidos se 
+encuentran bajo una tensión.
+
+342 Capitulo 12 Equilibrio estatico y elasticidad 
+(b) 
+Figura 12.1 
+12.1 Condiciones de equilibrio 
+Una condición necesaria para que una partícula en reposo permanezca en ese estado es que 
+la fuerza resultante que actúa sobre ella sea nula. Del mismo modo, el centro de masas de un 
+cuerpo rígido permanece en reposo si la fuerza resultante que actúa sobre el cuerpo es cero. 
+Sin embargo, aunque su centro de masas se encuentre en reposo, un cuerpo puede girar. Si 
+hay rotación alrededor de cualquier punto, el cuerpo no está en equilibrio estático. Así pues, 
+para que el equilibrio estático exista, el momento resultante que actúa sobre un cuerpo debe 
+ser cero respecto a cualquier punto P. Esta condición es útil frecuentemente en la solución 
+de problemas, pues nos permite elegir cualquier punto conveniente para el cálculo de los 
+momentos. 
+Las dos condiciones necesarias para que un cuerpo rígido se encuentre en equilibrio está- 
+tico son 
+1. La fuerza externa resultante que actúa sobre el cuerpo debe ser cero: 
+Y F=0 (12.1) 
+2. El momento externo resultante respecto a cualquier punto debe ser cero: 
+Y ”=0 (12.2) 
+CONDICIONES DE EQUILIBRIO 
+12.2 Centro de gravedad 
+La figura 12.1a muestra un cuerpo rígido en equilibrio estático que suponemos está formado 
+por muchas partículas pequeñas y un punto O. El peso de la partícula ¡ es w; y el peso total 
+del cuerpo W = =w,. Si r; es el vector posición de la partícula i relativo al punto O, el 
+momento 7; debido a w; respecto del punto O viene dado por la expresión 7; = r; x w; El 
+momento gravitatorio neto respecto de O vale Theo = E(r,Xx w,). El momento gravitatorio 
+neto respecto de cualquier punto se calcula como si todo el peso del cuerpo W estuviera acu- 
+mulado en un único punto, el centro de gravedad (véase la figura 12.15). Es decir, 
+Trew = Tox W (12.3) 
+DEFINICIÓN — CENTRO DE GRAVEDAD 
+donde r., es el vector posición del centro de gravedad relativo a O. 
+Si el campo gravitatorio g es uniforme en el cuerpo (como ocurre habitualmente en obje- 
+tos cuyas dimensiones no alcancen las dimensiones astronómicas), se escribe w; = mg. Si se 
+suma en ambos términos para todas las partículas se obtiene que W = Mg, donde M = Em, 
+es la masa del cuerpo. El momento neto es la suma de los momentos individuales, es decir, 
+Ton S Yr; Xx w;) = Y tr, x mg) = onr, xg) 
+i i i 
+Si en el término de la derecha extraemos g como factor común 
+Teto = (Em) x 8 F y
+
+12.3 Ejemplos de equilibrio estatico 343 
+y sustituimos Mr,,, por Zr, usando la definición de centro de masas (Mr. = 2m,r;), se 
+obtiene 
+T neto = MF om x 8 = Fem x Mg = Fem x Ww (12.4) 
+Las ecuaciones 12.3 y 12.4 son válidas para cualquier punto O siempre que Fem = Teg: €S 
+decir, si el cuerpo está en un campo gravitatorio uniforme, pues en él el centro de masas y el 
+centro de gravedad coinciden. 
+Si O está situado justo encima del centro de gravedad, roe y W van en la misma dirección 
+(hacia abajo) y, por lo tanto, se cumple Teto = Yeg X W = 0. Por ejemplo, cuando un móvil 
+como el de la fotografía se cuelga con su centro de gravedad directamente por debajo del 
+punto de suspensión, el momento neto sobre el objeto respecto al punto de suspensión es 
+cero, por lo que está en equilibrio estático. 
+12.3 Ejemplos de equilibrio estático 
+En la mayoría de los ejemplos y problemas de este capítulo, todas las fuerzas son perpendi- 
+culares al eje z. En dichos problemas lo mejor es calcular los momentos respecto a un eje 
+paralelo al eje z. La dirección positiva se elige perpendicular y dirigida hacia fuera del papel, 
+lo cual equivale a elegir la dirección de las agujas del reloj como dirección negativa y la 
+opuesta a la dirección del movimiento de las agujas del reloj como dirección positiva. 
+EJEMPLO 12.1 | Sobre la tabla 
+Una tabla uniforme de L = 3 m de longitud y de M = 35 kg de masa está colocada sobre dos 
+balanzas situadas a una distancia d = 0,5 m de cada uno de los extremos, tal como se muestra 
+en la figura 12.2. (a) Calcular qué lectura mostrarán las balanzas cuando Mary, de m = 45 kg 
+de masa, se sitúe en el extremo izquierdo de la tabla. (b) Sergio se sube en el otro extremo de la 
+tabla y camina hacia Mary, que salta al suelo cuando la tabla empieza a inclinarse, ¿Cuál es la 
+masa de Sergio si cuando llega al extremo izquierdo de la tabla la balanza situada a la derecha 
+marca cero? 
+Planteamiento del problema La lectura de las balanzas es el módulo de las fuerzas que se ejercen 
+sobre la tabla. Para determinar el módulo de estas fuerzas se aplican las dos condiciones de equilibrio. Figura 12.2 
+(a) 1. Dibujar el diagrama de fuerzas cuando Mary está sobre la tabla 
+(véase la figura 12.3). Las fuerzas F} y Fp son las fuerzas ejerci- 
+das por la balanza de la izquierda y de la derecha respectivamente: 
+Mg 
+2. Se toma la dirección hacia arriba positiva y se aplica la condición  *F,=0 
+de que la fuerza neta es cero: F¡+F)-Mg-mg = 0 Figura 12.3 
+3. Calcular el momento neto respecto al eje dirigido hacia fuera del £r = Fp(L-2d)-Mg == +mgd 
+papel (considerando que el sentido contrario al movimiento de las 
+agujas del reloj es el sentido positivo) en el punto de aplicación de F;: 
+4. Imponer que el momento total es cero y despejar para Fp: 0 = Fp(L-2d)-Mg E e +mgd 
+por lo tanto 
+1 Fp (3M 7 z") 
+5. Sustituir este resultado de Fp en la expresión del paso 2 y despe- F; = Mg+mg—Fp = (Su + ems 
+jar Fy:

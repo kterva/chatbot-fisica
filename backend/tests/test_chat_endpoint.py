@@ -44,12 +44,18 @@ def test_chat_rejects_oversized_question():
 
 
 def test_chat_rejects_question_without_matching_context(monkeypatch):
+    # select_context() se mockea directamente en vez de confiar en una pregunta que
+    # hoy no matchea ningún archivo de context/: con un corpus grande (varios libros
+    # completos) y en crecimiento, cualquier pregunta puede terminar coincidiendo por
+    # casualidad con alguna palabra suelta de algún archivo — ver docs/TEMARIO.md,
+    # sección de falsos positivos. Lo que este test debe garantizar es el
+    # comportamiento del endpoint cuando select_context() no encuentra nada, sin
+    # depender del contenido real (y cambiante) de context/.
+    monkeypatch.setattr(main_module, "select_context", lambda question: "")
     mock_generate = AsyncMock(return_value="no debería llamarse")
     monkeypatch.setattr(main_module.provider, "generate", mock_generate)
 
-    response = client.post(
-        "/api/chat", json={"question": "¿Cómo se conjuga el verbo cantar en pretérito?"}
-    )
+    response = client.post("/api/chat", json={"question": "¿Qué es la aceleración?"})
 
     assert response.status_code == 200
     assert response.json() == {"answer": main_module.NO_CONTEXT_MESSAGE}

@@ -1,0 +1,3219 @@
+Tema: Fuerza y movimiento (Capítulo 4 — Física, Wilson)
+
+CAPÍTULO 4 Fuerza y movimiento
+▲ FIGURA 4.1 Isaac Newton
+Newton (1642-1727), una de las 
+más grandes mentes científicas de
+la historia, realizó aportaciones 
+fundamentales a las matemáticas, 
+la astronomía y varias ramas de la
+física, entre ellas la óptica y la 
+mecánica. Formuló las leyes del
+movimiento y de la gravitación 
+universal, y fue uno de los padres
+del cálculo. Realizó algunos de sus
+trabajos más trascendentes cuando
+tan sólo tenía veintitantos años.
+4.1 Los conceptos de fuerza y fuerza neta
+OBJETIVOS: a) Relacionar fuerza y movimiento, y b) explicar qué es una fuerza  
+neta o no equilibrada.
+Primero examinemos de cerca el concepto de fuerza. Resulta sencillo dar ejemplos de
+fuerzas, pero ¿cómo definiría en general este concepto? Una definición operativa 
+de fuerza se basa en efectos observados. Esto es, describimos una fuerza en térmi-
+nos de lo que hace. Por experiencia propia, sabemos que las fuerzas pueden producir
+cambios en el movimiento . Una fuerza es capaz de poner en movimiento un objeto es-
+tacionario. También acelera o frena un objeto en movimiento, o cambia la dirección
+en que se mueve. En otras palabras, una fuerza puede producir un cambio de veloci-
+dad (rapidez o dirección, o ambas); es decir, una aceleración. Por lo tanto, un cambio
+observado en un movimiento, incluido un movimiento desde el reposo, es evidencia
+de una fuerza. Este concepto nos lleva a una definición común de fuerza:
+Una fuerza es algo que puede cambiar el estado de movimiento de un objeto
+(su velocidad).
+La palabra “puede” es muy importante aquí, ya que toma en cuenta la posibilidad de
+que una fuerza esté actuando sobre un cuerpo; pero que su capacidad para producir
+un cambio de movimiento esté equilibrada, o se anule, gracias a una o más fuerzas.
+Entonces, el efecto neto sería cero. Así, una sola fuerza no necesariamente produce un
+cambio de movimiento. No obstante, se sigue que, si una fuerza actúa sola, el cuerpo
+sobre el que actúa sí experimentará una aceleración.
+Puesto que una fuerza puede producir una aceleración —una cantidad vectorial—
+la fuerza en sí deberá ser una cantidad vectorial, tanto con magnitud como con direc-
+ción. Si varias fuerzas actúan sobre un objeto, lo que nos interesa en muchos casos 
+es su efecto combinado: la fuerza neta. La fuerza neta, es la suma vectorial 
+o resultante, de todas las fuerzas que actúan sobre un objeto o sistema. (Véase la nota
+al margen.) Considere las fuerzas opuestas que se ilustran en la 
+▼ figura 4.2a. La fuerza
+neta es cero cuando fuerzas de igual magnitud actúan en direcciones opuestas (fi-
+gura 4.2b). Decimos que tales fuerzas están equilibradas. Una fuerza neta distinta de
+cero es una fuerza no equilibrada (figura 4.2c). En este caso, la situación puede anali-
+zarse como si sólo estuviera actuando una fuerza, igual a la fuerza neta. Una fuerza 
+neta no equilibrada, es decir, distinta de cero, produce una aceleración. En algunos 
+casos, la aplicación de una fuerza no equilibrada también podría deformar un objeto,
+gF
+S
+i ,F
+S
+neta ,
+c) Fuerza neta distinta de cero (fuerzas no equilibradas)
+a
+Fneta = F2 – F1 ≠ 0
+a
+Fneta
+F2F1
+Fneta = F2 – F1 = 0
+F1
+b) Fuerza neta cero (fuerzas equilibradas)
+F1
+a)
+F2
+F2
+F1
+x
+x
+F1 F2
+F2N FIGURA 4.2 Fuerza neta
+a) Se aplican fuerzas opuestas a una
+caja de embalaje. b) Si las fuerzas
+tienen la misma magnitud, la 
+resultante vectorial, o fuerza neta
+que actúa sobre la caja, es cero. 
+Decimos que las fuerzas que actúan
+sobre la caja están equilibradas. 
+c) Si las fuerzas tienen diferente
+magnitud, la resultante no es cero.
+Entonces, sobre la caja actúa una
+fuerza neta (F
+neta) distinta de cero
+(no equilibrada) y produce una 
+aceleración (por ejemplo, una caja
+inicialmente en reposo se pone 
+en movimiento).
+Nota: en la notación la letra
+griega sigma significa “sumatoria
+de” las fuerzas individuales 
+(como se indica con el subíndice i): 
+es
+decir, una suma vectorial. Como se
+sobreentienden, a veces se omiten
+los subíndices i, y escribimos gF
+S
+.
+F
+S
+1 + F
+S
+2 + F
+S
+3 + Á
+ ,=gF
+S
+i
+gF
+S
+i
+ ,
+
+> FIGURA 4.3 Experimento de 
+Galileo Una pelota rueda más 
+lejos por la pendiente de subida a
+medida que disminuye el ángulo 
+de inclinación. En una superficie
+horizontal lisa, la pelota rueda una
+mayor distancia antes de detenerse.
+¿Qué tan lejos llegaría la pelota en
+una superficie ideal, perfectamente
+lisa? (En este caso la pelota se 
+deslizaría debido a la ausencia de
+fricción.)
+4.2 Inercia y la primera ley de Newton del movimiento 105
+es decir, modificar su forma o su tamaño, o ambos (como veremos en el capítulo 9).
+Una deformación implica un cambio de movimiento de una parte de un objeto; por 
+lo tanto, hay una aceleración.
+En ocasiones, las fuerzas se dividen en dos tipos o clases. La más conocida de es-
+tas clases es la de las fuerzas de contacto. Estas fuerzas surgen de un contacto físico entre
+objetos. Por ejemplo, cuando empujamos una puerta para abrirla o lanzamos o patea-
+mos un balón, ejercemos una fuerza de contacto sobre la puerta o el balón.
+La otra clase de fuerzas es la de las fuerzas de acción a distancia . Esto incluye la
+gravedad, la fuerza eléctrica entre dos cargas y la fuerza magnética entre dos ima-
+nes. La Luna es atraída hacia la Tierra por la gravedad, que la mantiene en órbita,
+aunque nada parece estar transmitiendo físicamente esa fuerza. 
+Ahora que entendemos mejor el concepto de fuerza, veamos cómo las leyes de
+Newton relacionan fuerza y movimiento.
+4.2 Inercia y la primera ley de Newton 
+del movimiento
+OBJETIVOS: a) Plantear y explicar la primera ley de Newton del movimiento, 
+y b) describir la inercia y su relación con la masa.
+Galileo sentó las bases de la primera ley de Newton del movimiento. En sus investi-
+gaciones experimentales, Galileo dejó caer objetos para observar el movimiento bajo
+la influencia de la gravedad. (Véase la sección A fondo al respecto del capítulo 2.) Sin
+embargo, la relativamente grande aceleración debida a la gravedad hace que los obje-
+tos que caen se muevan con gran rapidez y recorran una distancia considerable en un
+tiempo corto. Por las ecuaciones de cinemática del capítulo 2, vemos que, 3.0 s des-
+pués de dejarse caer, un objeto en caída libre tiene una rapidez de unos 29 m/s (64
+mi/h) y habrá caído una distancia de 44 m (o cerca de 48 yd, casi la mitad de la longi-
+tud de un campo de fútbol). Por ello, fue muy difícil efectuar mediciones experimen-
+tales de distancia en caída libre contra tiempo, con los instrumentos que había en la
+época de Galileo.
+Para reducir las velocidades y poder estudiar el movimiento, Galileo usó esferas
+que ruedan por planos inclinados. Dejaba que una esfera descendiera rodando por un
+plano inclinado y luego subiera por otro con diferente grado de inclinación (
+▼ figura
+4.3). Observó que la esfera alcanzaba rodando aproximadamente la misma altura en
+todos los casos; pero rodaba más lejos en la dirección horizontal cuando el ángulo de la
+pendiente era menor. Si se le permitía rodar por una superficie horizontal, la esfera
+viajaba una distancia considerable, y más si la superficie se hacía más tersa. Galileo se
+preguntó qué tan lejos llegaría la esfera si fuera posible hacer perfectamente lisa (sin
+fricción) la superficie horizontal. Aunque era imposible lograrlo experimentalmente,
+Galileo razonó que, en ese caso ideal con una superficie infinitamente larga, la esfera
+continuaría rodando indefinidamente con un movimiento rectilíneo uniforme, pues
+no habría nada (ninguna fuerza neta) que la hiciera cambiar su movimiento.
+Según la teoría de Aristóteles del movimiento, que había sido aceptada durante
+unos 1500 años antes de la época de Galileo, el estado normal de todo cuerpo es el re-
+poso (con la excepción de los cuerpos celestes, que se pensaba estaban naturalmente
+en movimiento). Aristóteles probablemente observó que los objetos que se mueven
+sobre una superficie tienden a bajar su velocidad y detenerse, así que su conclusión
+le pareció lógica. Galileo, en cambio, concluyó por los resultados de sus experimen-
+tos que los cuerpos en movimiento exhiben el comportamiento de mantener ese mo-
+vimiento, y que si un cuerpo inicialmente está en reposo, se mantendrá en reposo a
+menos que algo haga que se mueva.
+Exploración 4.2 Cambio de dos
+fuerzas aplicadas
+Exploración 4.3 Cambio de la fuerza
+aplicada para llegar a la meta
+Ilustración 3.2 Movimiento en un
+plano inclinado
+
+▲ FIGURA 4.4 Diferencia de inercia
+El saco de arena más grande tiene
+más masa y por lo tanto más inercia,
+o resistencia a un cambio de 
+movimiento.
+106
+CAPÍTULO 4 Fuerza y movimiento
+Primera ley de Newton: la ley 
+de inercia
+Galileo llamó inercia a esta tendencia de los objetos a mantener su estado inicial
+de movimiento. Es decir,
+Inercia es la tendencia natural de un objeto a mantener un estado de reposo o
+de movimiento rectilíneo uniforme (velocidad constante).
+Por ejemplo, si usted alguna vez ha intentado detener un automóvil que rueda lenta-
+mente, empujándolo, ha sentido su resistencia a un cambio de movimiento, a detener-
+se. Los físicos describen la propiedad de inercia en términos del comportamiento
+observado. En la 
+>figura 4.4 se ilustra un ejemplo comparativo de inercia. Si los dos
+sacos de arena tienen la misma densidad (masa por unidad de volumen; véase el 
+capítulo 1), el mayor tendrá más masa y por lo tanto más inercia, lo cual notaremos 
+de inmediato si tratamos de golpear ambos sacos.
+Newton relacionó el concepto de inercia con la masa. Originalmente, señaló que la
+masa era una cantidad de materia, pero luego la redefinió de la siguiente manera:
+La masa es una medida cuantitativa de la inercia.
+Es decir, un objeto masivo tiene más inercia, o más resistencia a un cambio de movi-
+miento, que uno menos masivo. Por ejemplo, un automóvil tiene más inercia que una
+bicicleta.
+La primera ley de Newton del movimiento, también conocida como ley de inercia,
+resume tales observaciones:
+En ausencia de la aplicación una fuerza no equilibrada un cuerpo
+en reposo permanece en reposo, y un cuerpo en movimiento permanece en
+movimiento con velocidad constante (rapidez y dirección constantes).
+Es decir, si la fuerza neta que actúa sobre un objeto es cero, su aceleración será cero. 
+Se movería con velocidad constante, o estaría en reposo: en ambos casos 
+4.3 Segunda ley de Newton del movimiento
+OBJETIVOS: a) Establecer y explicar la segunda ley de Newton del movimiento, 
+b) aplicarla a situaciones físicas y c) distinguir entre peso y masa.
+Un cambio de movimiento, o aceleración (es decir, un cambio de rapidez o de direc-
+ción, o de ambas cuestiones) es evidencia de una fuerza neta. Todos los experimentos
+indican que la aceleración de un objeto es directamente proporcional a la fuerza neta
+aplicada, y tiene la dirección de ésta; es decir,
+donde los símbolos en negritas con flechas arriba indican cantidades vectoriales. Por
+ejemplo, suponga que usted golpea dos pelotas idénticas. Si golpea una segunda pelo-
+ta idéntica dos veces más fuerte que la primera (es decir, si le aplica el doble de fuerza),
+debería esperar que la aceleración de la segunda pelota fuera dos veces mayor que la
+de la primera (pero también en la dirección de la fuerza).
+Sin embargo, como reconoció Newton, la inercia o masa del objeto también de-
+sempeña un papel. Para una fuerza neta dada, cuanto más masivo sea el objeto, me-
+nor será su aceleración. Por ejemplo, si usted golpea con la misma fuerza dos pelotas
+de diferente masa, la pelota menos masiva experimentaría una aceleración mayor. 
+Es decir, la magnitud de la aceleración es inversamente proporcional a la de la masa.
+De manera que tenemos:
+es decir, con palabras,
+La aceleración de un objeto es directamente proporcional a la fuerza neta que
+actúa sobre él e inversamente proporcional a su masa. La dirección de la ace-
+leración es la de la fuerza neta aplicada.
+a
+S
+r F
+S
+neta
+m
+a
+S
+r F
+S
+neta
+v
+S
+= es constante.
+¢v
+S
+= 0 o
+1F
+S
+neta = 02,
+Nota: la inercia no es una fuerza.
+
+ESTE LADO
+HACIA ARRIBA
+2a
+2F
+ b)
+Si la fuerza neta se duplica,
+la aceleración se duplica
+m
+ESTE LADO
+HACIA ARRIBA
+ a)
+Una fuerza neta distinta de cero
+acelera la caja: a /H11008 F/m
+m
+F
+ESTE LADO
+HACIA ARRIBA
+ESTE LADO
+HACIA ARRIBA
+ c)
+Si la masa se duplica, la aceleración
+se reduce a la mitad
+a/2
+mm
+F
+a
+▲ FIGURA 4.5 Segunda ley de Newton Las relaciones entre fuerza, aceleración y masa que
+se ilustran aquí se expresan con la segunda ley de Newton del movimiento (suponiendo
+que no hay fricción).
+4.3 Segunda ley de Newton del movimiento 107
+Segunda ley de Newton: fuerza 
+y aceleración
+Fneta
+1.0 N
+m
+1.0 kg
+Fneta = ma                 
+                  1.0 N = (1.0 kg) (1.0 m /s2)
+1.0 m/s2
+a
+▲ FIGURA 4.6 El newton (N)
+Una fuerza neta de 1.0 N que 
+actúa sobre una masa de 1.0 kg 
+produce una aceleración de 
+1.0 m/s
+2 (sobre una superficie 
+sin fricción).
+*Parecería que la primera ley de Newton es un caso especial de su segunda ley, pero no es así. 
+La primera ley define lo que se conoce como un sistema inercial de referencia: un sistema donde 
+no hay una fuerza neta, que no está acelerando o en el cual un objeto aislado está estacionario o se
+mueve con velocidad constante. Si se cumple la primera ley de Newton, entonces la segunda ley, en 
+la forma F
+neta /H11005ma, es válida para dicho sistema.
+La ▲ figura 4.5 presenta algunas ilustraciones de este principio.
+Dado que la segunda ley de Newton del movimiento suele expresar-
+se en forma de ecuación como
+Segunda ley de Newton (4.1)
+Unidad SI de fuerza: newton (N) o kilogramo-metro 
+por segundo al cuadrado (kg · m/s2)
+donde La ecuación 4.1 define la unidad SI de fuerza, que muy adecuada-
+mente se denomina newton (N).
+La ecuación 4.1 también indica que (por análisis de unidades) un newton en 
+unidades base se define como 1 N /H110051 kg · m/s2. Es decir, una fuerza neta de 1 N da 
+a una masa de 1 kg una aceleración de 1 m/s 2 (Nfigura 4.6). La unidad de fuerza en 
+el sistema inglés es la libra (lb). Una libra equivale aproximadamente a 4.5 N (en rea-
+lidad, 4.448 N). Una manzana común pesa cerca de 1 N.
+La segunda ley de Newton, permite el análisis cuantitativo de la fuer-
+za y el movimiento, que consideraríamos como una relación de causa y efecto, donde
+la fuerza es la causa y la aceleración es el efecto (movimiento).
+Observe que si la fuerza neta que actúa sobre un objeto es cero, la aceleración del
+objeto será cero, y permanecerá en reposo o en movimiento uniforme, lo cual es cohe-
+rente con la primera ley. En el caso de una fuerza neta distinta de cero (no equilibrada),
+la aceleración resultante tiene la misma dirección que la fuerza neta.*
+Peso
+Podemos usar la ecuación 4.1 para relacionar la masa con el peso. En el capítulo 1 vi-
+mos que el peso es la fuerza de atracción gravitacional que un cuerpo celeste ejerce
+sobre un objeto. Para nosotros, esa fuerza es la atracción gravitacional de la Tierra. Es
+fácil demostrar sus efectos: si dejamos caer un objeto, caerá (acelerará) hacia la Tierra.
+Puesto que sólo una fuerza actúa sobre el objeto, su peso es la fuerza neta y
+podemos sustituir la aceleración debida a la gravedad por en la ecuación 4.1.
+Por lo tanto, en términos de magnitudes, escribimos,
+w /H11005mg (4.2)
+(F
+neta /H11005ma)
+De manera que la magnitud del peso de un objeto con 1.0 kg de masa es w /H11005mg /H11005(1.0 kg)
+(9.8 m/s2) /H110059.8 N.
+Así pues, 1.0 kg de masa tiene un peso de aproximadamente 9.8 N, o 2.2 lb, cerca
+de la superficie de la Tierra. Sin embargo, aunque la relación entre peso y masa dada
+a
+S
+1g
+S
+2
+F
+S
+neta ,1w
+S
+2
+F
+S
+neta = ma
+S
+,
+F
+S
+neta = gF
+S
+i .
+F
+S
+neta = ma
+S
+F
+S
+net r ma
+S
+,
+Ilustración 4.3 Segunda ley de
+Newton y fuerza
+Ilustración 4.1 Primera ley de Newton
+y marcos de referencia
+
+108 CAPÍTULO 4 Fuerza y movimiento
+El valor de g en la superficie de la Tierra se denomina aceleración
+estándar, y a veces se usa como unidad no estándar. Por ejemplo,
+cuando despega una nave espacial, se dice que los astronautas
+experimentan una aceleración de “varias gravedades”. Esta ex-
+presión significa que la aceleración de los astronautas es varias
+veces la aceleración estándar g. Puesto que g /H11005w/m, también
+pensamos en g como la fuerza (el peso) por unidad de masa . Por
+ello, a veces se usa el término gravedades de fuerzapara denotar
+fuerzas correspondientes a múltiplos de la aceleración estándar.
+Para entender mejor esta unidad no estándar de fuerza,
+veamos algunos ejemplos. Durante el despegue de un avión co-
+mercial, los pasajeros experimentan una fuerza horizontal me-
+dia de aproximadamente 0.20 g. Esto implica que, conforme el
+avión acelera sobre la pista, el respaldo del asiento ejerce sobre
+el pasajero una fuerza horizontal igual a la quinta parte del peso
+del pasajero (para acelerarlo junto con el avión), pero el pasajero
+siente que lo empujan hacia atrás contra el asiento. Al despegar
+con un ángulo de 30/H11034, la fuerza se incrementa a cerca de 0.70g.
+Cuando alguien se somete a varias gravedades vertical-
+mente, la sangre puede comenzar a acumularse en las extremi-
+dades inferiores, lo cual podría hacer que los vasos sanguíneos
+se distiendan o que los capilares se revienten. En tales condicio-
+nes, el corazón tiene problemas para bombear la sangre por to-
+do el cuerpo. Con una fuerza de aproximadamente 4 g, la
+acumulación de sangre en la parte inferior del cuerpo priva de
+suficiente oxígeno a la cabeza. La falta de circulación sanguínea
+hacia los ojos llega a causar una ceguera temporal, y si falta oxí-
+geno en el cerebro, el individuo se siente desorientado y final-
+mente pierde el conocimiento. Una persona común sólo puede
+resistir varias gravedades durante un periodo corto.
+La fuerza máxima sobre los astronautas en un trasbordador
+espacial durante el despegue es de aproximadamente 3g; sin em-
+bargo, los pilotos de aviones de combate se someten a acelera-
+ciones de hasta 9 g cuando salen de un vuelo en picada. Estos
+individuos usan “trajes g”, que están especialmente diseñados
+para evitar el estancamiento de la sangre. La mayoría de estos
+trajes se inflan con aire comprimido y presionan las extremida-
+des inferiores del piloto para evitar que la sangre se acumule 
+ahí. Se está desarrollando un traje g hidrostático que contiene lí-
+quido, por lo que restringe mucho menos los movimientos que
+el aire. Cuando aumentan las gravedades, el líquido, al igual 
+que la sangre del cuerpo, fluye hacia la parte inferior del traje 
+y aplica presión a las piernas.
+A FONDO 4.1 GRAVEDADES (g) DE FUERZA Y EFECTOS SOBRE 
+EL CUERPO HUMANO
+por la ecuación 4.2 es sencilla, hay que tener presente que la masa es la propiedad fun-
+damental. La masa no depende del valor de g; el peso sí. Como ya señalamos, la ace-
+leración debida a la gravedad en la Luna es aproximadamente la sexta parte que en 
+la Tierra, por lo que el peso de un objeto en la Luna sería la sexta parte de su peso 
+en la Tierra; pero su masa, que refleja la cantidad de materia que contiene y su iner-
+cia, serían las mismas en ambos lugares.
+La segunda ley de Newton (junto con el hecho de que w /H11008m) explica por qué to-
+dos los objetos en caída libre tienen la misma aceleración. Considere, por ejemplo, dos
+objetos que caen; uno de los cuales tiene el doble de masa que el otro. El cuerpo con 
+el doble de masa tiene el doble de peso, es decir, que sobre él actúa una fuerza gra-
+vitacional del doble. Sin embargo, el cuerpo más masivo también tiene el doble de
+inercia, así que se necesitaría el doble de fuerza para imprimirle la misma aceleración. 
+Si expresamos matemáticamente esta relación, escribimos, para la masa menor ( m),
+F
+neta/m /H11005mg/m /H11005g, y para la masa mayor (2 m), tenemos la misma aceleración: 
+a /H11005Fneta/m /H110052mg/2m /H11005g (Nfigura 4.7). En la sección A fondo 4.1 se describen otros
+efectos de g que quizás usted haya experimentado.
+FIGURA 1 Masaje neumático El dispositivo en las piernas se
+infla periódicamente, empujando la sangre desde los tobillos y
+previniendo que la sangre se acumule en las arterias.
+En la Tierra, donde sólo hay 1g, se está usando una especie
+de “traje g” parcial, con la finalidad de prevenir coágulos en pa-
+cientes que se han sometido a cirugía de reemplazo de cadera. Se
+calcula que cada año entre 400 y 800 personas mueren durante 
+los tres primeros meses después de tal cirugía, a causa sobre todo
+de los coágulos de sangre que se forman en una pierna, y se des-
+prenden, pasan al torrente sanguíneo y finalmente se alojan en los
+pulmones, donde originan una condición llamada embolia pul-
+monar. En otros casos, un coágulo en la pierna podría detener el
+flujo de sangre hacia el corazón. Tales complicaciones surgen des-
+pués de una cirugía de reemplazo de cadera, con mucha mayor
+frecuencia que después de casi cualquier otra cirugía, y lo hacen
+después de que el paciente ha sido dado de alta del hospital.
+Los estudios han demostrado que la compresión neumática
+(operada por aire) de las piernas durante la hospitalización reduce
+tales riesgos. Un manguito de plástico en la pierna, que llega hasta
+el muslo, se infla a intervalos de unos cuantos minutos y empuja la
+sangre del tobillo hacia el muslo (figura 1). Este masaje mecánico
+evita que la sangre se estanque en las venas y se coagule. Con la
+ayuda de esta técnica y de terapia anticoagulante con fármacos, se
+espera prevenir muchas de las muertes postoperatorias.
+
+▲ FIGURA 4.7 Segunda ley de
+Newton y caída libre En caída
+libre, todos los objetos caen con 
+la misma aceleración constante g. 
+Si un objeto tiene el doble de masa
+que otro, sobre él actúa el doble de
+fuerza gravitacional. Sin embargo,
+al tener el doble de masa, el objeto
+también tiene el doble de inercia, 
+de manera que se requiere dos
+veces más fuerza para darle la
+misma aceleración.
+4.3 Segunda ley de Newton del movimiento 109
+La segunda ley de Newton nos permite analizar situaciones dinámicas. Al usar es-
+ta ley, deberíamos tener presente que Fneta es la magnitud de la fuerza neta y que m es la
+masa total del sistema. Las fronteras que definen un sistema pueden ser reales o imagi-
+narias. Por ejemplo, un sistema podría consistir en todas las moléculas de gas que es-
+tán en cierto recipiente sellado. Sin embargo, también podríamos definir un sistema
+como todas las moléculas de gas que hay en un metro cúbico arbitrario de aire. Al es-
+tudiar dinámica, es común trabajar con sistemas compuestos por una o más masas dis-
+cretas; la Tierra y la Luna, por ejemplo, o una serie de bloques sobre una mesa, o un
+tractor y un remolque, como en el ejemplo 4.1.
+Ejemplo 4.1 ■ Segunda ley de Newton: cálculo de la aceleración
+Un tractor tira de un remolque cargado sobre un camino plano, con una fuerza horizon-
+tal constante de 440 N ( ▼ figura 4.8). Si la masa total del remolque y su contenido es de 
+275 kg, ¿qué aceleración tiene el remolque? (Desprecie todas las fuerzas de fricción.)
+Razonamiento. Este problema es una aplicación directa de la segunda ley de Newton. 
+Se da la masa total; tratamos las dos masas individuales (el remolque y su contenido) 
+como una, y consideramos todo el sistema.
+Solución. Tenemos estos datos:
+Dado: Encuentre: a (aceleración)
+En este caso, F es la fuerza neta, y la aceleración está dada por la ecuación 4.1, Fneta /H11005ma.
+Despejando la magnitud de a,
+y la dirección de a es la dirección de la tracción.
+Observe que m es la masa total del remolque y su contenido. Si nos hubieran dado
+por separado las masas del remolque y su contenido —digamos, m1 /H1100575 kg y m2 /H11005200 kg,
+respectivamente— se habrían sumado en la ley de Newton: Fneta /H11005(m1 /H11001m2)a. También,
+en el mundo real habría una fuerza de fricción opuesta. Suponga que hay una fuerza 
+de fricción eficaz de f /H11005140 N. En este caso, la fuerza neta sería la suma vectorial de la
+fuerza ejercida por el tractor y la fuerza de fricción, de manera que la aceleración sería
+(empleando signos para los sentidos)
+Una vez más, el sentido de a sería el sentido de la tracción.
+Con una fuerza neta constante, la aceleración también es constante, así que pode-
+mos aplicar las ecuaciones de cinemática del capítulo 2. Suponga que el remolque partió
+del reposo (v
+o /H110050). ¿Qué distancia recorrió en 4.00 s? Utilizando la ecuación adecuada de
+cinemática (ecuación 2.11, con xo /H110050) para el caso con fricción, tenemos
+Ejercicio de refuerzo. Suponga que la fuerza aplicada al remolque es de 550 N. Con la
+misma fuerza de fricción, ¿qué velocidad tendría el remolque 4.0 s después de partir del
+reposo? (Las respuestas de todos los Ejercicios de refuerzo se dan al final del libro.)
+x = v
+o
+ t + 1
+2 at2 = 0 + 1
+2 11.09 m>s2214.00 s22 = 8.72 m
+a = Fneta
+m =
+F - f
+m1 + m2
+= 440 N - 140 N
+275 kg
+= 1.09 m>s2
+a = Fneta
+m = 440 N
+275 kg
+= 1.60 m>s2
+ m = 275 kg
+ F = 440 N
+2F
+2m
+2F
+2m = gF
+m = g
+m
+Física
+universitaria
+Física
+universitaria
+g gF
+F = 440 N
+m = 275 kg
+Sistema
+> FIGURA 4.8 Fuerza y aceleración
+Véase el ejemplo 4.1.
+Nota: en Fneta /H11005ma, m es la masa
+total del sistema.
+
+Separando las masas
+m1m2
+T
+T T
+T F
+F
+a
+aa
+▼ FIGURA 4.9 Un sistema acelerado Véase el ejemplo 4.3.
+110 CAPÍTULO 4 Fuerza y movimiento
+* Cuando un objeto se describe como “ligero”, se puede despreciar su masa al analizar la situación
+del problema. Es decir, su masa es insignificante en comparación con las demás masas.
+Ejemplo 4.2 ■ Segunda ley de Newton: cálculo de la masa
+Una estudiante pesa 588 N. ¿Qué masa tiene?
+Razonamiento. La segunda ley de Newton nos permite determinar la masa de un objeto
+si conocemos su peso (fuerza), pues se conoce g.
+Solución.
+Dado: Encuentre: m (masa)
+Recuerde que el peso es una fuerza (gravitacional) y que se relaciona con la masa de un
+objeto en la forma w /H11005mg (ecuación 4.2), donde g es la aceleración debida a la gravedad
+(9.80 m/s2). Después de reacomodar la ecuación, tenemos
+En los países que usan el sistema métrico, se usa la unidad de masa, el kilogramo, en vez de
+una unidad de fuerza, para expresar “peso”. Se diría que esta estudiante pesa 60.0 “kilos”.
+Recuerde que 1 kg de masa tiene un peso de 2.2 lb en la superficie de la Tierra. Enton-
+ces, en unidades inglesas, ella pesaría 60.0 kg (2.2 lb/kg) /H11005132 lb.
+Ejercicio de reforzamiento. a) Una persona en Europa está un poco pasada de peso y que-
+rría perder 5.0 “kilos”. Calcule la pérdida equivalente en libras. b) ¿Qué “peso” tiene el
+lector en kilos?
+Como hemos visto, un sistema dinámico puede constar de más de un objeto. En las
+aplicaciones de la segunda ley de Newton, suele ser provechoso, y a veces necesario,
+aislar un objeto dado dentro de un sistema. Dicho aislamiento es posible porque la se-
+gunda ley de Newton también describe el movimiento de cualquier parte del sistema, como de-
+muestra el ejemplo 4.3.
+Ejemplo 4.3 ■ Segunda ley de Newton: ¿todo el sistema o una parte?
+Dos bloques con masas m1 /H110052.5 kg y m2 /H110053.5 kg descansan en una superficie sin fricción y
+están conectados con un cordel ligero (▼ figura 4.9).* Se aplica una fuerza horizontal (F) de
+12.0 N a m1, como se indica en la figura. a) ¿Qué magnitud tiene la aceleración de las masas
+(es decir, del sistema total)? b) ¿Qué magnitud tiene la fuerza (T) en el hilo? [Cuando una
+cuerda o cordel se tensa, decimos que está sometido a tensión. En el caso de un cordel muy
+ligero, la fuerza en el extremo derecho tiene la misma magnitud (T) que en el izquierdo.]
+Razonamiento. Es importante recordar que la segunda ley de Newton puede aplicarse a
+un sistema total o a cualquiera de sus partes (a un subsisistema, por decirlo así). Esto per-
+mite analizar componentes individuales de un sistema, si se desea. Es crucial identificar
+m = w
+g = 588 N
+9.80 m>s2 = 60.0 kg
+w = 588 N
+Ilustración 4.5 Jala tus remolques
+
+4.3 Segunda ley de Newton del movimiento 111
+las fuerzas que actúan, como ilustra este ejemplo. Luego aplicamos Fneta /H11005ma a cada sub-
+sistema o componente.
+Solución. Cuidadosamente listamos los datos y lo que queremos calcular:
+Dado: Encuentre: a) a (aceleración)
+b) T (tensión, una fuerza)
+Dada una fuerza aplicada, la aceleración de las masas se puede calcular con base en la se-
+gunda ley de Newton. Al aplicar esa ley, es importante tener presente que es válida para
+el sistema total o para cualquiera de sus partes ; es decir, para la masa total ( m
+1 /H11001m2), a m1
+individualmente o a m2 individualmente. Sin embargo, debemos asegurarnos de identificar
+correctamente la fuerza o fuerzas apropiadas en cada caso . La fuerza neta que actúa sobre las
+masas combinadas, por ejemplo, no es la misma que la fuerza neta que actúa sobre m2
+cuando se le considera por separado, como veremos.
+a) Primero, tomando el sistema total (es decir, considerando tanto ml como m2), vemos
+que la fuerza neta que actúa sobre este sistema es F. Cabe señalar que, al considerar el sis-
+tema total, nos interesa sólo la fuerza externa neta que actúa sobre él. Las fuerzas internas
+T, iguales y opuestas, nada tienen que ver en este caso, pues se anulan. Representaremos
+la masa total como M, y escribiremos:
+La aceleración es en la dirección de la fuerza aplicada, como indica la figura.
+b) Los cordeles (o hilos o alambres) flexibles sometidos a tensión ejercen una fuerza sobre un
+objeto, la cual está dirigida a lo largo del hilo. En la figura estamos suponiendo que la tensión
+se transmite íntegramentemediante el cordel; es decir, la tensión es la misma en todos los pun-
+tos del cordel. Así, la magnitud de T que actúa sobre m
+2 es la misma que la que actúa sobre m1.
+En realidad, esto es cierto sólo si el cordel tiene masa cero. En este libro únicamente considera-
+remos este tipo de cordeles o hilos ligeros(es decir, de masa insignificante) idealizados.
+Entonces, una fuerza de magnitud T actúa sobre cada una de las masas, debido a la
+tensión en el cordel que las une. Para obtener el valor de T, es necesario considerar una
+parte del sistema que esté afectada por tal fuerza.
+Podemos considerar cada bloque como un sistema aparte, en el cual sea válida la se-
+gunda ley de Newton. En estos subsistemas, la tensión entra en juego explícitamente. En
+el diagrama de la masa m
+2 aislada de la figura 4.9, vemos que la única fuerza que actúa
+para acelerar esta masa es T. Conocemos los valores de m2 y a, así que la magnitud de es-
+ta fuerza está dada directamente por
+En la figura 4.9 también se muestra un diagrama aparte de m1 y también aplicamos 
+la segunda ley de Newton a este bloque para calcular T. Debemos sumar vectorialmente
+las fuerzas para obtener la fuerza neta sobre m1 que produce su aceleración. Recordamos
+que los vectores en una dimensión se pueden escribir con signos de dirección y magnitu-
+des, así que
+(tomamos la dirección de F como positiva)
+Luego despejamos la magnitud de T,
+Ejercicio de refuerzo. Suponga que se aplica a m2 de la figura 4.9 una segunda fuerza ho-
+rizontal de 3.0 N hacia la izquierda. ¿Qué tensión habría en el cordel en este caso?
+La segunda ley en forma de componentes
+La segunda ley de Newton no sólo se cumple para cualquier parte de un sistema, sino
+que también es válida para cada uno de los componentes de la aceleración. Por ejemplo,
+expresamos una fuerza en dos dimensiones en notación de componentes como sigue:
+y
+(4.3a)
+g1Fx
+ xN + Fy
+ yN2 = m1ax
+ xN + ay
+ yN2 = max
+ xN + may
+ yN
+gF
+S
+i = ma
+S
+ = 12.0 N -12.5 kg212.0 m>s22 = 12.0 N - 5.0 N = 7.0 N
+ T = F - m1
+ a
+Fneta = F - T = m1
+ a
+Fneta = T = m2
+ a =13.5 kg212.0 m>s22 = 7.0 N
+a = Fneta
+M = F
+m1 + m2
+= 12.0 N
+2.5 kg + 3.5 kg
+= 2.0 m>s2
+ F = 12.0 N
+ m2 = 3.5 kg
+ m1 = 2.5 kg
+
+112 CAPÍTULO 4 Fuerza y movimiento
+y
+60°
+vo
+Fy
+Fx
+y
+x
+x
+(Vista superior)
+(Vista superior)
+60°
+F
+F
+▲ FIGURA 4.10 Desviado
+Se aplica una fuerza a un bloque 
+en movimiento cuando llega al 
+origen, y el bloque se desvía de 
+su trayectoria rectilínea. Véase 
+el ejemplo 4.4.
+Por lo tanto, para satisfacer tanto a x como a y de manera independiente, tenemos 
+(4.3b)
+y la segunda ley de Newton es válida para cada componente por separado del movi-
+miento. Cabe señalar que ambas ecuaciones deben cumplirse. (Asimismo, 
+en tres dimensiones.) El ejemplo 4.4 ilustra la aplicación de la segunda ley empleando
+componentes.
+Ejemplo 4.4 ■ Segunda ley de Newton: componentes de fuerza
+Un bloque con masa de 0.50 kg viaja con una rapidez de 2.0 m/s en la dirección x positiva
+sobre una superficie plana sin fricción. Al pasar por el origen, el bloque experimenta du-
+rante 1.5 s una fuerza constante de 3.0 N que forma un ángulo de 60/H11034con respecto al eje x
+(
+>figura 4.10). ¿Qué velocidad tiene el bloque al término de ese lapso?
+Razonamiento. El hecho de que la fuerza no sea en la dirección del movimiento inicial
+nos haría pensar que la solución es complicada. Sin embargo, en el recuadro de la figura
+4.10 vemos que la fuerza se puede descomponer en componentes. Entonces, podremos
+analizar el movimiento en la dirección de cada componente.
+Solución. Primero, escribimos los datos y lo que se pide:
+Dado: Encuentre: (velocidad al término de 1.5 s)
+Calculemos las magnitudes de las fuerzas en las direcciones de los componentes:
+Luego, aplicamos la segunda ley de Newton a cada dirección para obtener los componen-
+tes de aceleración:
+Ahora, por la ecuación de cinemática que relaciona velocidad y aceleración (ecuación 2.8),
+los componentes de velocidad del bloque están dados por
+Al término de los 1.5 s, la velocidad del bloque es
+Ejercicio de refuerzo. a) ¿Qué dirección tiene la velocidad al término de los 1.5 s? b) Si la
+fuerza se aplicara con un ángulo de 30 /H11034(en vez de 60/H11034) con respecto al eje x, ¿cómo cam-
+biarían los resultados de este ejemplo?
+4.4 Tercera ley de Newton del movimiento
+OBJETIVOS: a) Plantear y explicar la tercera ley de Newton del movimiento, y 
+b) identificar pares de fuerzas de acción-reacción.
+Newton formuló una tercera ley cuya relevancia en la física es tan amplia como la de
+las dos primeras. Como introducción sencilla a la tercera ley, consideremos las fuerzas
+que intervienen en el caso de un cinturón de seguridad. Si vamos en un automóvil en
+movimiento y se aplican repentinamente los frenos, por la inercia seguimos movién-
+donos hacia delante conforme el automóvil se detiene. (La fuerza de fricción entre el
+v
+S
+= vx
+ xN + vy
+ yN =16.5 m>s2xN +17.8 m>s2yN
+ vy = vyo + ay
+ t = 0 +15.2 m>s2211.5 s2 = 7.8 m>s
+ vx = vxo + ax
+ t = 2.0 m>s +13.0 m>s2211.5 s2 = 6.5 m>s
+ ay =
+Fy
+m = 2.6 N
+0.50 kg = 5.2 m>s2
+ ax = Fx
+m = 1.5 N
+0.50 kg = 3.0 m>s2
+ Fy = F sen 60° =13.0 N210.8662 = 2.6 N
+ Fx = F cos 60° =13.0 N210.5002 = 1.5 N
+ t = 1.5 s
+ F = 3.0 N, u = 60°
+ vyo = 0
+ vxo = 2.0 m>s
+v
+S
+ m = 0.50 kg
+g Fz = maz
+g Fx = max y g Fy = may
+Exploración 4.4 Determine la fuerza
+de un disco (puck) de jockey
+Exploración 4.5 Sonda espacial 
+con diversos motores
+Exploración 4.6 Golpear una pelota
+de golf hacia el hoyo
+
+4.4 Tercera ley de Newton del movimiento 113
+asiento y nuestros muslos no es suficiente para detenernos.) Al hacerlo, ejercemos
+fuerzas hacia delante sobre el cinturón de seguridad y la correa diagonal. Ambos ejer-
+cen las correspondientes fuerzas de reacción (hacia atrás) sobre nosotros y hacen que
+frenemos junto con el vehículo. Si no nos abrochamos el cinturón, seguiremos en mo-
+vimiento (según la primera ley de Newton) hasta que otra fuerza, como la aplicada por
+el tablero o el parabrisas, nos detenga.
+Comúnmente pensamos que las fuerzas se dan individualmente; sin embargo, New-
+ton reconoció que es imposible tener una fuerza sola. Él observó que, en cualquier aplica-
+ción de fuerza, siempre hay una interacción mutua, y que las fuerzas siempre se dan en
+pares. Un ejemplo dado por Newton fue que, si ejercemos presión sobre una piedra con
+el dedo, el dedo también es presionado por la piedra (o recibe una fuerza de ésta).
+Newton llamó a las fuerzas apareadas acción y reacción, y la tercera ley de Newton
+del movimiento es:
+Para cada fuerza (acción), hay una fuerza igual y opuesta (reacción).
+En notación simbólica, la tercera ley de Newton es
+Es decir, es la fuerza ejercida sobre el objeto 1 por el objeto 2, y es la fuerza igual
+y opuesta ejercida sobre el objeto 2 por el objeto 1. (El signo menos indica la dirección
+opuesta.) La decisión de cuál fuerza es la acción y cuál la reacción es arbitraria; podría ser
+la reacción a o viceversa.
+A primera vista, parecería que la tercera ley de Newton contradice la segunda: si
+siempre hay fuerzas iguales y opuestas, ¿cómo puede haber una fuerza neta distinta
+de cero? Algo que debemos recordar acerca del par de fuerzas de la tercera ley es que
+las fuerzas de acción-reacción no actúan sobre el mismo objeto . La segunda ley se ocupa de
+fuerzas que actúan sobre un objeto (o sistema) específico. Las fuerzas opuestas de la
+tercera ley actúan sobre objetos distintos. Por lo tanto, las fuerzas no pueden anularse
+entre sí ni tener una suma vectorial de cero cuando aplicamos la segunda ley a objetos
+individuales.
+Para ilustrar esta distinción, considere las situaciones que se muestran en la 
+Nfigu-
+ra 4.11. Es común olvidarnos de la fuerza de reacción. Por ejemplo, en la sección iz-
+quierda de la figura 4.11a, la fuerza evidente que actúa sobre un bloque que descansa
+sobre una mesa es la atracción gravitacional de la Tierra, que se expresa como el peso
+mg. Sin embargo, debe haber otra fuerza que actúe sobre el bloque. Para que el bloque no
+tenga aceleración, la mesa deberá ejercer una fuerza hacia arriba cuya magnitud 
+es igual al peso del bloque. Así, donde la dirección de 
+los vectores se indica con signos más y menos.
+Como reacción a el bloque ejerce sobre la mesa una fuerza hacia abajo, 
+cuya magnitud es la del peso del bloque, mg. Sin embargo, no es el peso del obje-
+to. El peso y tienen diferente origen: el peso es la fuerza gravitacional de acción a 
+distancia; mientras que es una fuerza de contacto entre las dos superficies.
+Es fácil demostrar la presencia de esta fuerza hacia arriba sobre el bloque toman-
+do éste con la mano y sosteniéndolo; estaremos ejerciendo una fuerza hacia arriba so-
+bre el bloque (y sentimos una fuerza de reacción sobre la mano). Si aplicáramos 
+una fuerza mayor, es decir, N /H11022mg, el bloque aceleraría hacia arriba.
+Llamamos fuerza normal a la fuerza que una superficie ejerce sobre un objeto, y 
+la denotamos con el símbolo N. Normal significa perpendicular. La fuerza normal que
+una superficie ejerce sobre un objeto siempre es perpendicular a la superficie. En la figu-
+ra 4.11a, la fuerza normal es igual y opuesta al peso del bloque. Sin embargo, la fuerza
+normal no siempre es igual y opuesta al peso de un objeto. La fuerza normal es una fuer-
+za de “reacción”, ya que reacciona a la situación. Como ejemplos tenemos las figuras 
+4.11a, b, c y d, que se describen como la sumatoria de los componentes verticales 
+En la figura 4.11b se aplica una fuerza angulada hacia abajo.
+En la figura 4.11c se aplica una fuerza angulada hacia arriba.
+gFy: N - mg + Fy = may = 0    y    N = mg - Fy 1N 6 mg2
+gFy: N - mg - Fy = may = 0    y    N = mg + Fy 1N 7 mg2
+1g Fy2.
+-N
+S
+-N
+S
+-N
+S
+-N
+S
+-N
+S
+,N
+S
+,
+may = 0,=+N - mg=g Fy
+N
+S
+F
+S
+12
+F
+S
+21
+-F
+S
+21F
+S
+12
+F
+S
+12 =- F
+S
+21
+mg mg
+N = mg
+ΣFy = N – mg = may = 0
+por tanto N = mg 
+a)
+?
+Fx
+FyF
+N
+N = mg + Fy
+θ
+x
+y
+x
+ΣFy = N – mg – Fy = may = 0
+b)
+N
+N = mg – Fy
+ΣFy = N – mg + Fy = may = 0 
+c)
+mg
+θ
+ΣFy = N – Fy = may = 0
+N = Fy = mg cos  
+d)
+x
+y
+Fy 
+N
+mg
+Fx
+FFy
+Fx N
+mg
+θθ
+θ
+▲ FIGURA 4.11 Distinciones entre
+la segunda y la tercera leyes de
+Newton La segunda ley de Newton
+se ocupa de las fuerzas que actúan
+sobre un objeto (o sistema) especí-
+fico. En cambio, la tercera ley de
+Newton se ocupa del par de fuerzas
+que actúa sobre objetos distintos.
+(Véase el ejemplo conceptual 4.5.)
+Tercera ley de Newton: acción y
+reacción
+
+114 CAPÍTULO 4 Fuerza y movimiento
+En la figura 4.11d hay un bloque sobre un plano inclinado. (La fuerza normal es
+perpendicular a la superficie del plano.)
+En este caso el componente de peso, Fx, aceleraría el bloque abajo del plano en ausencia
+de una fuerza de fricción igual y opuesta entre el bloque y la superficie del plano.
+Ejemplo conceptual 4.5 ■ ¿Dónde están los pares de fuerza 
+de la tercera ley de Newton?
+Una mujer que espera cruzar la calle lleva un maletín en la mano, como se observa en la
+▼ figura 4.12a. Identifique todos los pares de fuerza según la tercera ley en relación con el
+maletín en esta situación.
+Razonamiento y respuesta. Al estar sostenido sin ningún movimiento, la aceleración del
+maletín es cero, y Centrándonos sólo en el maletín, es posible identificar dos fuer-
+zas iguales y opuestas que actúan sobre él: su peso hacia abajo y la fuerza hacia arriba aplica-
+da por la mano. Sin embargo, estas dos fuerzas no constituyenun par de fuerza de la tercera
+ley, porque actúan sobre el mismo objeto.
+En una inspección general, usted se dará cuenta de que la fuerza de reacción ante la
+fuerza hacia arriba de la mano sobre el maletín es una fuerza hacia abajo en la mano. En-
+tonces, ¿qué sucede con la fuerza de reacción al peso del maletín? Puesto que el peso es la
+fuerza de atracción gravitacional sobre el maletín que ejerce la Tierra, la fuerza correspon-
+diente sobre la Tierra que ejerce el maletín constituye el par de fuerza de la tercera ley.
+Ejercicio de refuerzo. La mujer, sin darse cuenta, tira su maletín como se observa en la
+figura 4.12b. ¿Existe algún par de fuerza según la tercera ley en esta situación? Explique
+su respuesta.
+g Fy = 0.
+g Fy: N - Fy = may = 0, y N = Fy = mg cos u
+a) b)
+sobre la tierra
+sobre el maletín
+sobre la mano
+sobre el maletín
+Fuerzas de
+contacto
+Fuerzas de acción a distancia
+F1
+/H11002F1
+F2
+a = g
+/H11002F2
+N FIGURA 4.12 Pares de fuerzas 
+de la tercera ley de Newton
+a) Cuando una persona sostiene un
+maletín, hay dos pares de fuerzas:
+un par de contacto ( y ) y un
+par de acción a distancia (gravedad)
+( y ). La fuerza neta que actúa
+sobre el maletín es cero: la fuerza de
+contacto hacia arriba equilibra
+a la fuerza del peso hacia abajo. 
+Sin embargo, observe que la 
+fuerza de contacto hacia arriba 
+y la fuerza del peso hacia abajo 
+no son un par según la tercera ley.
+b) ¿Hay algún par de fuerzas de
+acuerdo con la tercera ley? Véase el
+Ejercicio de refuerzo del ejemplo.
+1F
+S
+12
+-F
+S
+2F
+S
+2
+-F
+S
+1F
+S
+1
+La propulsión a chorro es otro ejemplo de la tercera ley de Newton en acción. En
+el caso de un cohete, éste y los gases de escape ejercen fuerzas iguales y opuestas entre
+sí. El resultado es que los gases de escape aceleran alejándose del cohete, y éste acelera
+en la dirección opuesta. Cuando “se lanza” un cohete grande, como durante el despe-
+gue de un trasbordador espacial, el cohete libera gases de escape encendidos. Un error
+muy común es creer que los gases de escape “empujan” contra la plataforma de lanza-
+miento para acelerar el cohete. Si esta interpretación fuera correcta, no habría viajes es-
+paciales, pues en el espacio no hay nada contra qué “empujar”. La explicación correcta
+implica acción (gases que ejercen una fuerza sobre el cohete) y reacción (cohete que
+ejerce una fuerza opuesta sobre los gases).
+En la sección A fondo 4.2 se da otro ejemplo de par acción-reacción.
+Ilustración 4.6 Tercera ley de Newton,
+fuerzas de contacto
+
+4.4 Tercera ley de Newton del movimiento 115
+A FONDO 4.2 NAVEGANDO CONTRA EL VIENTO: VIRADA
+Velocidad del viento
+b)
+Fs (fuerza perpendicular a la vela)
+a)
+F
+F
+F
+F
+F
+Velocidad del viento
+F
+FIGURA 1 Vamos en virada a) El viento que infla la vela 
+ejerce una fuerza perpendicular sobre ésta (Fs). Podemos 
+descomponer este vector de fuerza en componentes. 
+Una  componente es paralela al movimiento del velero (F
+«). 
+b) Al cambiar la dirección de la vela, el capitán puede “virar” 
+el velero contra el viento.  
+FIGURA 2 Contra el viento a) Conforme el capitán lleva el
+velero contra el viento, se inicia la virada. b) El componente
+perpendicular de la fuerza en la virada llevaría al velero fuera
+de curso por los lados. Pero la resistencia del agua sobre la 
+quilla en la parte inferior del velero ejerce una fuerza opuesta
+y anula la mayor parte de la fuerza de los lados.  
+Un velero puede navegar fácilmente en la dirección del viento
+(ya que este último es el que infla las velas). Sin embargo, des-
+pués de navegar cierta distancia en la dirección del viento, el
+capitán por lo general desea regresar al puerto, lo que supone
+“navegar contra el viento”. Esto parece imposible, pero no lo es.
+Se le llama virada y se explica por medio de vectores de fuerza y
+de las leyes de Newton.
+Un velero no puede navegar directamente contra el viento,
+puesto que la fuerza de éste sobre el velero lo aceleraría hacia
+atrás, es decir, hacia el lado opuesto de la dirección deseada. El
+viento que infla la vela ejerce una fuerza F
+s perpendicular a és-
+ta (figura 1a). Si el velero se guía con un ángulo relativo a la di-
+rección del viento, existirá un componente de fuerza paralelo a
+la cabeza del velero (F
+«). Con este curso se gana cierta distancia
+contra el viento, pero nunca se haría llegar al velero de regreso
+al puerto. El componente perpendicular ( F
+#) actuaría sobre los
+lados y pondría al velero fuera de curso.
+Así, como un viejo lobo de mar, el capitán “vira” o manio-
+bra el velero de manera que el componente paralelo de la fuer-
+za cambie en 90 /H11034(figura 1b). El capitán repite continuamente
+esta maniobra y, utilizando el curso en zigzag, el velero regresa
+al puerto (figura 2a).
+¿Qué sucede con el componente perpendicular de la fuerza?
+Tal vez usted piense que esto llevaría al velero fuera de curso. 
+Y lo haría, de hecho lo hace un poco, pero la mayoría de la fuer-
+za perpendicular está equilibrada por la quilla del velero, que es
+la parte inferior de éste (figura 2b). La resistencia del agua ejerce
+una fuerza opuesta sobre la quilla, que anula la mayor parte de 
+la fuerza perpendicular de los lados, produciendo poca —si aca-
+so alguna— aceleración en esa dirección.
+b)
+a)
+
+4.5 Más acerca de las leyes de Newton: diagramas
+de cuerpo libre y equilibrio traslacional
+OBJETIVOS: a) Aplicar las leyes de Newton al análisis de diversas situaciones 
+usando diagramas de cuerpo libre, y b) entender el concepto de
+equilibrio traslacional.
+Ahora que conocemos las leyes de Newton y algunas de sus aplicaciones en el análisis
+del movimiento, debería ser evidente la importancia de esas leyes. Su planteamiento
+es sencillo, pero sus repercusiones son inmensas. Tal vez la segunda ley sea la que más
+a menudo se aplica, en virtud de su relación matemática. No obstante, la primera y la
+tercera se utilizan mucho en análisis cualitativo, como veremos al continuar nuestro
+estudio de las distintas áreas de la física.
+En general, nos ocuparemos de aplicaciones en las que intervienen fuerzas cons-
+tantes, las cuales producen aceleraciones constantes y nos permiten usar las ecuaciones
+de cinemática del capítulo 2 para analizar el movimiento. Si la fuerza es variable, la se-
+gunda ley de Newton es válida para la fuerza y la aceleración instantáneas; sin embargo,
+la aceleración variará con el tiempo, y necesitaremos algo de cálculo para analizarla. En
+general, nos limitaremos a aceleraciones y a fuerzas constantes. En esta sección presen-
+taremos varios ejemplos de aplicaciones de la segunda ley de Newton, de manera que
+el lector se familiarice con su uso. Esta pequeña pero potente ecuación se usará una y
+otra vez a lo largo de todo el libro.
+En el acervo para resolver problemas hay otro recurso que es de gran ayuda en las
+aplicaciones de fuerza: los diagramas de cuerpo libre, los cuales se explican en la si-
+guiente sección.
+Estrategia para resolver problemas: diagramas de cuerpo libre
+En las ilustraciones de situaciones físicas, también conocidas como diagramas espacia-
+les, se pueden dibujar vectores de fuerza en diferentes lugares para indicar sus puntos
+de aplicación. Sin embargo, como de momento sólo nos ocupamos de movimientos
+rectilíneos, podemos mostrar los vectores en diagramas de cuerpo libre (DCL) como si
+emanaran de un punto en común, que se elige como origen de los ejes x-y. Por lo regu-
+lar, se escoge uno de los ejes en la dirección de la fuerza neta que actúa sobre un cuer-
+po, porque ésa es la dirección en la que acelerará el cuerpo. Además, suele ser útil
+descomponer los vectores de fuerza en componentes, y una selección adecuada de 
+ejes x-y hace más sencilla dicha tarea.
+En un diagrama de cuerpo libre, las flechas de los vectores no tienen que dibujar-
+se exactamente a escala; aunque debe ser evidente si existe una fuerza neta o no, y si
+las fuerzas se equilibran o no en una dirección específica. Si las fuerzas no se equili-
+bran, por la segunda ley de Newton, sabremos que debe haber una aceleración.
+En resumen, los pasos generales para construir y usar diagramas de cuerpo libre
+son (remítase a las ilustraciones al margen mientras lee):
+1. Haga un dibujo, o diagrama espacial, de la situación (si no le dan uno) e identi-
+fique las fuerzas que actúan sobre cada cuerpo del sistema. Un diagrama espa-
+cial es una ilustración de la situación física que identifica los vectores de fuerza.
+2. Aísle el cuerpo para el cual se va a construir el diagrama de cuerpo libre. Trace
+un conjunto de ejes cartesianos, con el origen en un punto a través del cual ac-
+túan las fuerzas y con uno de los ejes en la dirección de la aceleración del cuerpo.
+(La aceleración tendrá la dirección de la fuerza neta, si la hay.)
+3. Dibuje los vectores de fuerza debidamente orientados (incluyendo los ángulos)
+en el diagrama, de manera que los ejes emanen del origen. Si hay una fuerza no
+equilibrada, suponga una dirección de aceleración e indíquela con un vector de
+aceleración. Tenga cuidado de incluir sólo las fuerzas que actúan sobre el cuerpo
+aislado de interés.
+4. Descomponga en componentes x y y las fuerzas que no estén dirigidas en los ejes x
+o y (use signos más y menos para indicar dirección y el sentido). Utilice el diagra-
+ma de cuerpo libre para analizar las fuerzas en términos de la segunda ley de New-
+ton del movimiento. (Nota: si supone que la aceleración es en cierta dirección, y en
+la solución tiene el signo opuesto, la aceleración tendrá realmente la dirección
+opuesta a la que se supuso. Por ejemplo, si supone, que está en la dirección /H11001x,
+pero obtiene una respuesta negativa, querrá decir que está en la dirección /H11002x.)
+a
+S
+a
+S
+116 CAPÍTULO 4 Fuerza y movimiento
+Ilustración 4.2 Diagramas de cuerpo
+libre
+APRENDER DIBUJANDO
+Fuerzas sobre un objeto 
+en un plano inclinado y 
+diagramas de cuerpo libre
+1
+4
+2
+3
+N T
+g
+m2g
+N
+N
+T
+T
+a
+a
+g
+g
+Diagrama espacial
+sen
+dirección de
+la aceleración
+de m
+1
+
+4.5 Más acerca de las leyes de Newton: diagramas de cuerpo libre y equilibrio traslacional 117
+Los diagramas de cuerpo libre son muy útiles para seguir uno de los procedi-
+mientos sugeridos para resolver problemas del capítulo 1: hacer un diagrama para
+visualizar y analizar la situación física del problema. Acostúmbrese a elaborar diagramas
+de cuerpo libre para los problemas de fuerza, como se hace en los siguientes ejemplos.
+Ejemplo 4.6 ■ ¿Sube o baja?: movimiento en un plano inclinado 
+sin fricción
+Dos masas están unidas por un cordel (o hilo) ligero que pasa por una polea ligera con
+fricción insignificante, como ilustran los diagramas de Aprender dibujando. Una masa
+(m
+1 /H110055.0 kg) está en un plano inclinado de 20 /H11034sin fricción y el otro ( m2 /H110051.5 kg) cuelga
+libremente. Calcule la aceleración de las masas. (En el diagrama sólo se muestra el dia-
+grama de cuerpo libre de m
+1. El lector tendrá que dibujar el de m2.)
+Razonamiento. Aplicamos la estrategia anterior para resolver problemas.
+Solución. Siguiendo nuestro procedimiento habitual, escribimos
+Dado: Encuentre: (aceleración)
+Para visualizar las fuerzas que intervienen, aislamos m1 y m2 y dibujamos diagramas de
+cuerpo libre para cada masa. En el caso de la masa ml, hay tres fuerzas concurrentes (fuer-
+zas que actúan a través de un punto en común): T, el peso m1g y N, donde T es la fuerza
+de tensión del cordel sobre ml y N es la fuerza normal del plano sobre el bloque (DCL 3).
+Las fuerzas se dibujan emanando desde su punto de acción común. (Recordemos que los
+vectores pueden moverse en tanto no se alteren su magnitud ni su dirección.)
+Comenzaremos por suponer que m
+1 acelera plano arriba, en la dirección que toma-
+mos como /H11001x. (Da igual si suponemos que m1 acelera plano arriba o plano abajo, como
+veremos en breve.) Observe que m1g (el peso) se ha descompuesto en componentes. El
+componente x es opuesto a la dirección de aceleración supuesta; el componente y actúa
+perpendicularmente al plano y se equilibra con la fuerza normal N. (No hay aceleración
+en la dirección y, así que no hay fuerza neta en esa dirección.)
+Entonces, aplicando la segunda ley de Newton en forma de componentes (ecuación
+4.3b) a m1, tenemos
+( no hay fuerzas netas, las fuerzas se cancelan)
+Y, para m2
+donde se han despreciado las masas del cordel y la polea. Puesto que están conectadas por
+un cordel, las aceleraciones de m1 y m2 tienen la misma magnitud, y usamos ax /H11005ay /H11005a.
+Si sumamos la primera y última ecuaciones para eliminar T, tenemos
+(fuerza neta /H11005masa total /H11003aceleración)
+(Note que ésta es la ecuación que se obtendría aplicando la segunda ley de Newton al sis-
+tema en su totalidad, ya que en el sistema que incluye los dos bloques, las fuerzas /H11001T son
+internas y se anulan.)
+Ahora despejamos a:
+El signo menos indica que la aceleración es opuesta a la dirección supuesta. Es decir, m
+1
+en realidad acelera plano abajo, y m2 acelera hacia arriba. Como demuestra este ejemplo,
+si suponemos la dirección equivocada para la aceleración, el signo del resultado nos da-
+rá la dirección correcta de cualquier forma.
+¿Podríamos calcular la fuerza de tensión T en el cordel si nos la pidieran? La forma
+de hacerlo debería ser evidente si se examina el diagrama de cuerpo libre.
+Ejercicio de refuerzo. a) En este ejemplo, ¿cuál sería la masa mínima de m2 para que m1 no
+acelere arriba ni abajo del plano? b) Con las mismas masas del ejemplo, ¿cómo tendría que
+ajustarse el ángulo de inclinación para que m1, no acelere arriba ni abajo del plano?
+ =- 0.32 m>s2
+ =
+11.5 kg219.8 m>s22 -15.0 kg219.8 m>s2210.3422
+5.0 kg + 1.5 kg
+ a =
+m2
+ g - m1
+ g sen 20°
+m1 + m2
+m2
+ g - m1
+ g sen u =1m1 + m22a
+g Fy2 = m2
+ g - T = m2
+ ay = m2
+ a
+ay = 0, g Fy1 = N - m1
+ g cos u = m1
+ ay = 0
+ g Fx1 = T - m1
+ g sen u = m1
+ a
+ u = 20°
+ m2 = 1.5 kg
+a
+S
+ m1 = 5.0 kg
+Ilustración 4.4 Masa sobre un plano
+inclinado
+Exploración 4.1 Vectores para una
+caja sobre un plano inclinado
+
+Diagrama de cuerpo libre
+30°
+30°
+ w = mg
+y
+x
+a
+a
+N
+N
+F
+F
+w
+Fy
+Fx
+▲ FIGURA 4.13 Cálculo de la fuerza
+de los efectos del movimiento
+Véase el ejemplo 4.7.
+118
+CAPÍTULO 4 Fuerza y movimiento
+Ejemplo 4.7 ■ Componentes de fuerza y diagramas de cuerpo libre
+Una fuerza de 10.0 N se aplica con un ángulo de 30/H11034respecto a la horizontal, a un bloque
+de 1.25 kg que descansa en una superficie sin fricción, como se ilustra en la >figura 4.13. 
+a) ¿Qué magnitud tiene la aceleración que se imprime al bloque? b) ¿Qué magnitud tiene
+la fuerza normal?
+Razonamiento. La fuerza aplicada puede descomponerse en componentes. El componen-
+te horizontal acelera el bloque. El componente vertical afecta la fuerza normal (véase la 
+figura 4.11).
+Solución. Primero anotamos los datos y lo que se pide:
+Dado: Encuentre: a) a (aceleración)
+b) N (fuerza normal)
+Ahora dibujamos un diagrama de cuerpo libre para el bloque, como en la figura 4.13.
+a) La aceleración del bloque puede calcularse aplicando la segunda ley de Newton. 
+Elegimos los ejes de manera que a esté en la dirección /H11001x. Como muestra el diagrama 
+de cuerpo libre, sólo un componente ( Fx) de la fuerza aplicada F actúa en esta dirección. 
+El componente de F en la dirección del movimiento es Fx /H11005F cos /H9258. Aplicamos la segun-
+da ley de Newton en la dirección /H11001x para calcular la aceleración:
+b) La aceleración obtenida en el inciso a es la aceleración del bloque, ya que éste sólo se
+mueve en la dirección x (no acelera en la dirección y). Con ay /H110050, la suma de fuerzas en la
+dirección y deberá ser cero. Es decir, el componente hacia abajo de F que actúa sobre el
+bloque, Fy, y la fuerza de su peso, w, se deberán equilibrar con la fuerza normal, N, que la
+superficie ejerce hacia arriba sobre el bloque. Si no sucediera así, habría una fuerza neta 
+y una aceleración en la dirección y.
+Sumamos las fuerzas en la dirección y, tomando hacia arriba como positivo
+es decir
+y
+Así pues, la superficie ejerce una fuerza de 17.3 N hacia arriba sobre el bloque, y equilibra
+la suma de las fuerzas hacia abajo que actúan sobre él.
+Ejercicio de refuerzo. a) Suponga que la fuerza sólo se aplica al bloque durante un tiem-
+po corto. ¿Qué magnitud tiene la fuerza normal después de que se deja de aplicar la fuer-
+za? b) Si el bloque se desliza hasta el borde de la mesa, ¿qué fuerza neta actuaría sobre 
+el bloque justo después de rebasar el borde (sin la fuerza aplicada). 
+Sugerencia para resolver problemas
+No hay una sola forma fija de resolver los problemas; sin embargo, sí hay estrategias
+o procedimientos generales que ayudan a resolverlos, sobre todo aquellos donde in-
+terviene la segunda ley de Newton. Al utilizar nuestros procedimientos sugeridos
+para resolver problemas, presentados en el capítulo 1, incluiríamos los pasos siguien-
+tes cuando se trata de resolver problemas de aplicación de fuerzas:
+• Elabore un diagrama de cuerpo libre para cada cuerpo individual, mostrando to-
+das las fuerzas que actúan sobre ese cuerpo.
+• Dependiendo de lo que se pida, aplique la segunda ley de Newton al sistema en
+su totalidad (en cuyo caso se anulan las fuerzas internas) o a una parte del sis-
+tema. Básicamente, buscamos una ecuación (o conjunto de ecuaciones) que contenga 
+la cantidad que queremos despejar . Repase el ejemplo 4.3. (Si hay dos incógnitas, la
+aplicación de la segunda ley de Newton a dos partes del sistema podría dar dos
+ecuaciones con dos incógnitas. Véase el ejemplo 4.6.)
+• Debemos tener presente que la segunda ley de Newton puede aplicarse a compo-
+nentes de aceleración, y que las fuerzas se pueden descomponer para hacerlo.
+Repase el ejemplo 4.7.
+N = F sen 30° + mg =110.0 N210.5002 +11.25 kg219.80 m>s
+22 = 17.3 N
+N - F sen 30° - mg = 0
+g Fy = N - Fy - w = 0
+ ax = F cos 30°
+m =
+110.0 N210.8662
+1.25 kg = 6.93 m>s2
+ Fx = F cos 30° = max
+ vo = 0
+ u = 30°
+ m = 1.25 kg
+ F = 10.0 N
+Exploración 4.7 Máquina de Atwood
+
+4.5 Más acerca de las leyes de Newton: diagramas de cuerpo libre y equilibrio traslacional 119
+▲ FIGURA 4.14 Muchas fuerzas,
+cero aceleración a) Sobre esta 
+profesora de física actúan por lo
+menos cinco fuerzas externas 
+distintas. (Aquí, f es la fuerza de
+fricción.) No obstante, ella no 
+experimenta aceleración alguna.
+¿Por qué? b) La suma de los vectores
+de fuerza con el método del polígono
+revela que la suma vectorial de las
+fuerzas es cero. La profesora está 
+en equilibrio traslacional estático.
+(También está en equilibrio 
+rotacional estático; en el capítulo 8
+veremos por qué.)
+mg
+T
+T2
+T1
+T1
+m
+u
+u
+Equilibrio traslacional
+Es posible que varias fuerzas actúen sobre un objeto sin producir una aceleración. En
+tal caso, con por la segunda ley de Newton sabemos que
+(4.4)
+Es decir, la suma vectorial de las fuerzas, o fuerza neta, es cero, y el objeto permanece
+en reposo (como en la 
+Nfigura 4.14), o bien se mueve con velocidad constante. En tales
+casos, decimos que los objetos están en equilibrio traslacional. Si permanece en reposo,
+decimos que el objeto está en equilibrio traslacional estático.
+De lo anterior se sigue que las sumas de los componentes rectangulares de las fuer-
+zas que actúan sobre un objeto en equilibrio traslacional también son cero (¿por qué?):
+(sólo en equilibrio traslacional) (4.5)
+En problemas tridimensionales Sin embargo, restringiremos nuestras
+explicaciones al caso bidimensional.
+Las ecuaciones 4.5 dan lo que se conoce como condición para equilibrio traslacio-
+nal. (En el capítulo 8 veremos las condiciones para consideraciones rotacionales.) Apli-
+quemos esta condición del equilibrio traslacional a un caso de equilibrio estático.
+Ejemplo 4.8 ■ Mantenerse derecho: en equilibrio estático
+Para mantener un hueso de la pierna roto en posición recta mientras sana, algunas veces
+se requiere tratamiento por extensión, que es el procedimiento mediante el cual se man-
+tiene el hueso bajo fuerzas de tensión de estiramiento en ambos extremos para tenerlo
+alienado. Imagine una pierna bajo la tensión del tratamiento como en la 
+▼ figura 4.15. 
+El cordel está unido a una masa suspendida de 5.0 kg y pasa por una polea. El cordel uni-
+do arriba de la polea forma un ángulo de /H9258/H1100540/H11034con la vertical. Ignorando la masa de la
+parte inferior de la pierna y de la polea, y suponiendo que todos los cordeles son ideales,
+determine la magnitud de la tensión en el cordel horizontal.
+Razonamiento. La polea está en equilibrio estático y, por ende, ninguna fuerza neta actúa
+sobre ella. Si las fuerzas se suman horizontal y verticalmente, independientemente debe-
+rían dar cero, lo cual ayudaría a encontrar la tensión sobre el cordel horizontal.
+Dado: con los datos listados: Encuentre: T en el cordel horizontal 
+Solución. Trace los diagramas de cuerpo libre para la polea y las masas suspendidas (fi-
+gura 4.15). Debería ser claro que el cordel horizontal tiene que ejercer una fuerza a la 
+izquierda sobre la polea como se indica. Al sumar las fuerzas verticales sobre m, vemos
+que T
+1 /H11005mg. Al sumar las fuerzas verticales sobre la polea, tenemos
+y al sumar las fuerzas horizontales:
+Despejando T de la ecuación anterior y sustituyendo T2 de la primera:
+donde T1 /H11005mg. Puesto en números,
+Ejercicio de refuerzo. Suponga que la atención médica requiere una fuerza del tratamien-
+to de 55 N sobre el talón. Manteniendo la masa suspendida de la misma forma, ¿se incre-
+mentaría o disminuiría el ángulo del cordel superior? Demuestre su respuesta calculando
+el ángulo que se pide.
+T = mg tan u =15.0 kg219.8 m>s
+22 tan 40° = 41 N
+T = T2 sen u = T1
+cos u
+ sen u = mg tan u
+g Fx =+ T2 sen u - T = 0
+g Fy =+ T2 cos u - T1 = 0
+ u = 40°
+ m = 5.0 kg
+g Fz = 0.
+ g Fy = 0
+ g Fx = 0
+gF
+S
+i = 0
+a
+S
+= 0,
+> FIGURA 4.15 Equilibrio trasnacio-
+nal estático Véase el ejemplo 4.8
+
+120 CAPÍTULO 4 Fuerza y movimiento
+Ejemplo 4.9 ■ De puntillas: en equilibrio estático
+Un individuo de 80 kg se para en un solo pie con el talón levantado ( ▼ figura 4.16a). Esto
+genera una fuerza de la tibia F1 y una fuerza “que tira” del tendón de Aquiles F2, como se
+ilustra en la figura 4.16b. En un caso típico, los ángulos son /H92581 /H1100515/H11034y /H92582 /H1100521/H11034, respectiva-
+mente. a) Deduzca ecuaciones generales para Fl y F2, y demuestre que /H92582 debe ser mayor
+que /H92581 para evitar que se dañe el tendón de Aquiles. b) Compare la fuerza sobre el tendón
+de Aquiles con el peso de la persona.
+Razonamiento. Se trata de un caso de equilibrio traslacional estático, así que podemos su-
+mar los componentes x y y para obtener ecuaciones para Fl y F2.
+Solución. La lista de lo que se nos da y lo que se nos pide es, 
+Dado: Encuentre: a) ecuaciones generales para F1 y F2
+b) comparación de F2 y el repaso del 
+individuo
+(La masa del pie mf no se conoce.)
+a) Suponemos que el individuo de masa m está en reposo, parado sobre un pie. Por lo
+tanto, al sumar los componentes de la fuerza sobre el pie tenemos, 
+donde mf es la masa del pie. De la ecuación para Fx, tenemos
+(1)
+Sustituyendo en la ecuación para Fy, obtenemos, 
+Con N /H11005mg, despejamos F2 para obtener,
+(2)F2 =
+N - mf
+ g
+¢ sen u2
+tan u1
+≤ - cos u2
+=
+mg - mfg
+ 
+cos u2¢ tan u2
+tan u1
+- 1≤
+N - F2¢ sen u2
+sen u1
+≤ cos u1 + F2 cos u2 - mf
+ g = 0
+F1 = F2¢ sen u2
+sen u1
+≤
+ gFy =+ N - F1 cos u1 + F2 cos u2 - mf
+ g = 0
+ g Fx =+ F1 sen u1 - F2 sen u2 = 0
+ u1 = 15°, u2 = 21°
+ F2 = "tirón" del tendón
+ F1 = fuerza de la tibia
+ m = 80 kg
+a) b)
+mfg
+Tibia
+Tendón de Aquiles
+Hueso
+u1 u2
+F1 F2
+N
+Músculo gastrocnemio
+▼ FIGURA 4.16 De puntillas a) Una persona se para en un pie con el talón levantado. 
+b) Las fuerzas que intervienen en esta posición (que no está a escala). Véase el ejemplo 4.9.
+
+4.6 Fricción 121
+Luego, al examinar F2 en la ecuación 2, vemos que si /H92582 /H11005/H92581 o tan /H92582 /H11005tan /H92581, F2 es muy
+grande. (¿Por qué?) Entonces, para que la fuerza sea finita, tan /H92582 debe ser mayor que tan /H92581
+o sea, /H92582 /H11022/H92581. Dado que 21/H11034/H1102215/H11034, vemos que evidentemente la naturaleza sabe de física.
+Entonces, al sustituir F2 en la ecuación 1 para calcular F1,
+(Verifica la manipulación trigonométrica de este último paso.)
+b) El peso de la persona es w /H11005mg, donde m es la masa del cuerpo de la persona.  Esto se
+compara con F2. Entonces, con m /H11022/H11022mf (la masa total del cuerpo es mayor que la masa 
+del pie), para una buena aproximación, mf puede ser despreciable en comparación con m,
+es decir, Así, para F2
+Por lo que la fuerza sobre el tendón de Aquiles es aproximadamente 2.5 veces el peso del
+individuo. Con razón la gente se distiende o desgarra este tendón, ¡incluso sin saltar!
+Ejercicio de refuerzo. a) Compare la fuerza de la tibia con el peso de la persona. b) Supon-
+ga que la persona salta hacia arriba desde la posición de puntillas en un pie (como cuan-
+do se lanza el balón después de un salto con carrera en el baloncesto). ¿Cómo afectaría
+este salto a F
+1 y F2?
+4.6 Fricción
+OBJETIVOS: Explicar a) las causas de la fricción y b) cómo se describe la fricción 
+empleando coeficientes de fricción.
+La fricción se refiere a la omnipresente resistencia al movimiento que se da cuando dos
+materiales o medios están en contacto. Esta resistencia existe con todos los tipos de
+medios —sólidos, líquidos y gases—, y se caracteriza como fuerza de fricción ( f ). Por
+sencillez, hasta ahora por lo general hemos ignorado todos los tipos de fricción (inclui-
+da la resistencia del aire) en los ejemplos y problemas. Ahora que sabemos cómo des-
+cribir el movimiento, estamos listos para considerar situaciones más realistas, que in-
+cluyen los efectos de la fricción.
+En algunas situaciones reales, nos interesa aumentar la fricción; por ejemplo, al
+echar arena en un camino o una acera congelados, para mejorar la tracción. Esto pare-
+cería contradictorio, pues cabría suponer que un aumento en la fricción aumentaría la
+resistencia al movimiento. Casi siempre decimos que la fricción se opone al movimien-
+to, y que la fuerza de fricción está en la dirección opuesta al movimiento. Sin embargo,
+consideremos las fuerzas que intervienen en la acción de caminar, que se ilustra en la 
+Nfigura 4.17. De hecho la fuerza de fricción se resiste al movimiento (el del pie); pero
+está en la dirección del movimiento (caminar). Sin fricción, el pie se deslizaría hacia
+atrás. (Pensemos en lo que pasaría al caminar sobre una superficie muy resbalosa.)
+También considere a un trabajador que está de pie sobre el centro de la plataforma de
+un camión que acelera hacia adelante. Si no hay fricción entre los zapatos del trabaja-
+dor y la plataforma del camión, aquél se deslizaría hacia atrás. Evidentemente, sí hay
+fricción entre los zapatos y la plataforma, lo cual evita que él se deslice hacia atrás 
+y hace que se mueva hacia adelante.
+F2 =
+w - mf g
+cos u2 ¢ tan u2
+tan u1
+- 1≤
+L w
+cos 21° ¢ tan 21°
+tan 15° - 1≤
+= 2.5 w
+w - mf g = mg - mf g L w.
+ =
+tan u2 (m - mf) g 
+cos u1 tan u2 - sen u1  =
+(m - mf) g tan u2
+¢ tan u2
+tan u1
+- 1≤ sen u1
+ F1 = F2¢ sen u2
+sen u1 ≤ = D
+(m - mf) g
+cos u2¢ tan u2
+tan u1
+≤ - 1
+T¢ sen u2
+sen u1 ≤
+Fuerza de
+fricción ejercida
+por el suelo
+sobre el pie
+Fuerza ejercida
+por el pie
+sobre el suelo
+F
+F /H11005 /H11002f
+f
+▲ FIGURA 4.17 Fricción al caminar
+Se muestra la fuerza de fricción, 
+en la dirección del movimiento al
+caminar. La fuerza de fricción
+impide que el pie se deslice hacia
+atrás mientras el otro pie se lleva
+hacia adelante. Si caminamos sobre
+una alfombra mullida, se hace
+evidente porque sus hebras se
+doblan hacia atrás.
+F
+S
+f
+S
+,
+
+122 CAPÍTULO 4 Fuerza y movimiento
+De manera que hay situaciones en que se desea la fricción ( >figura 4.18a) y situa-
+ciones en que es necesario reducirla (figura 4.18b). Por ejemplo, lubricamos las piezas
+móviles de las máquinas para que puedan moverse más libremente, con lo cual se re-
+ducen el desgaste y el gasto de energía. Los automóviles no podrían funcionar sin acei-
+tes y grasas que reduzcan la fricción.
+En esta sección, nos ocupamos principalmente de la fricción entre superficies sóli-
+das. Todas las superficies son microscópicamente ásperas, por más lisas que se vean o
+se sientan. Originalmente se pensó que la fricción se debía primordialmente al embo-
+namiento mecánico de irregularidades superficiales (asperezas o puntos salientes). Sin
+embargo, las investigaciones han demostrado que la fricción entre las superficies en
+contacto de los sólidos ordinarios (y sobre todo de los metales) se debe en su mayoría
+a la adherencia local. Cuando dos superficies se juntan bajo presión, ocurre un soldado
+o pegado local en unas cuantas áreas pequeñas, donde las asperezas más grandes ha-
+cen contacto. Para superar esta adherencia local, debe aplicarse una fuerza lo bastante
+grande como para separar las regiones pegadas.
+Por lo general la fricción entre sólidos se clasifica en tres tipos: estática, deslizante
+(cinética) y rodante. La fricción estática incluye todos los casos en que la fuerza de
+fricción es suficiente para impedir un movimiento relativo entre las superficies. Su-
+ponga que usted desea mover un escritorio grande. Lo empuja, pero el escritorio no se
+mueve. La fuerza de fricción estática entre las patas del escritorio y el piso se opone a
+la fuerza horizontal que está aplicando y la anula, por lo que no hay movimiento: hay
+una condición estática.
+Sucede fricción deslizante o cinética cuando hay un movimiento (deslizamiento)
+relativo en la interfaz de las superficies en contacto. Al continuar empujando el escrito-
+rio, al final usted logrará deslizarlo, pero todavía hay mucha resistencia entre las patas
+del escritorio y el piso: hay fricción cinética.
+La fricción de rodamiento se presenta cuando una superficie gira conforme se
+mueve sobre otra superficie; aunque no desliza ni resbala en el punto o área de contac-
+to. La fricción de rodamiento, como la que se da entre la rueda de un tren y el riel, se
+atribuye a deformaciones locales pequeñas en la región de contacto. Este tipo de fric-
+ción es difícil de analizar y no la veremos aquí.
+Fuerzas de fricción y coeficientes de fricción
+En esta subsección, consideraremos las fuerzas de fricción que actúan sobre objetos
+estacionarios y en deslizamiento. Esas fuerzas se llaman fuerza de fricción estática y
+fuerza de fricción cinética (o deslizante), respectivamente. En experimentos, se ha visto
+que la fuerza de fricción depende tanto de la naturaleza de las dos superficies como de
+la carga (o fuerza normal) que presiona las superficies entre sí. De manera que
+podemos escribir f ∝ N. En el caso de un cuerpo en una superficie horizontal, esta
+fuerza tiene la misma magnitud que el peso del objeto. (¿Por qué?) Sin embargo, como
+vimos en la figura de Aprender dibujando de la página 116, en un plano inclinado sólo
+un componente del peso contribuye a la carga.
+La fuerza de fricción estática (f
+s) entre superficies en contacto actúa en la dirección
+que se opone al inició de un movimiento relativo entre las superficies. La magnitud
+tiene diferentes valores, tales que
+(condiciones estáticas) (4.6)
+donde /H9262s es una constante de proporcionalidad llamada el coeficiente de fricción es-
+tática. (/H9262es la letra griega “mu”. Se trata de una constante adimensional. ¿Cómo lo sa-
+bemos por la ecuación?)
+El signo de menor o igual ( /H11349) indica que la fuerza de fricción estática podría 
+tener valores o magnitudes diferentes, desde cero hasta cierto valor máximo. Para 
+entender este concepto, examinemos la 
+Nfigura 4.19. En la figura 4.19a, alguien empu-
+ja un archivero, pero no logra moverlo. Como no hay aceleración, la fuerza neta so-
+bre el archivero es cero, y F /H11002fs /H110050, es decir, F /H11005fs. Supongamos que una segunda
+persona también empuja, y el archivero sigue sin ceder. Entonces, fs debe ser mayor
+ahora, porque se incrementó la fuerza aplicada. Por último, si la fuerza aplicada es lo
+bastante grande como para vencer la fricción estática, hay movimiento (figura 4.19c).
+fs …ms
+ N
+a)
+b)
+▲ FIGURA 4.18 Aumento y
+reducción de la fricción
+a) Para arrancar rápidamente, 
+los autos de arrancones necesitan
+asegurarse de que sus neumáticos
+no se deslicen cuando el semáforo
+de salida se encienda y pisen a
+fondo el acelerador. Por ello, tratan
+de aumentar al máximo la fricción
+entre sus neumáticos y la pista,
+“quemándolos” justo antes del
+inicio de la carrera. Esto se hace
+girando las ruedas con los frenos
+aplicados hasta que los neumáticos
+se calientan mucho. El caucho se
+vuelve tan pegajoso que casi se
+suelda a la superficie de la pista. 
+b) El agua es un buen lubricante
+para reducir la fricción en juegos 
+de parques de diversiones.
+
+4.6 Fricción 123
+La fuerza de fricción estática mayor, o máxima, se ejerce justo antes de que el archi-
+vero comience a deslizarse (figura 4.19b) y, en tal caso, la ecuación 4.6 da el valor má-
+ximo de fricción estática:
+(4.7)
+Una vez que un objeto se desliza, la fuerza de fricción cambia a fricción cinética
+( f
+k). Esta fuerza actúa en la dirección opuesta a la dirección del movimiento y su mag-
+nitud es
+(condiciones de deslizamiento) (4.8)
+donde /H9262k es el coeficiente de fricción cinética (también llamado coeficiente de fricción
+deslizante). Observe que las ecuaciones 4.7 y 4.8 no son vectoriales, porque f y N tienen
+diferente dirección. En general el coeficiente de fricción cinética es menor que el coe-
+fk =mk
+ N
+fsmáx =ms
+ N
+dkaj
+dkaj
+dkaj
+dkaj
+dkaj
+dkaj
+dkaj
+dkaj
+dkaj
+dkaj
+dkaj
+dkaj
+Fricción estática
+Fricción cinética
+F = fs
+f
+fsmáx
+F = fsmáx
+F
+b)
+Fuerza aplicada = fuerza friccional estática
+c)a)
+fsmáx = sN fs < sN 
+Fneta = F – fk 
+μ μ fk = kN μ
+fk = kNμ
+a) b)
+c)
+F F F
+a
+▼ FIGURA 4.19 Fuerza de fricción contra fuerza aplicada a) En la región estática de la
+gráfica, a medida de que se incrementa la fuerza aplicada F, también lo hace fs; esto es, 
+fs /H11005F y fs /H11021msN. b) Cuando la fuerza aplicada F excede fsmáx /H11005/H9262sN, el pesado archivero
+se pone en movimiento. c) Una vez que el archivero se mueve, disminuye la fuerza de 
+fricción, ya que la fricción cinética es menor que la fricción estática (fk /H11021fsmáx). Por lo 
+tanto, si se mantiene la fuerza aplicada, habrá una fuerza neta y el archivero acelerará. 
+Para que el archivero se mueva con velocidad constante, la fuerza aplicada deberá 
+reducirse hasta igualar la fuerza de fricción cinética: f
+k /H11005/H9262kN.
+
+124 CAPÍTULO 4 Fuerza y movimiento
+ficiente de fricción estática (/H9262k /H11021/H9262s), lo que significa que la fuerza de fricción cinética
+es menor que fsmáx. En la tabla 4.1 se dan los coeficientes de fricción entre algunos ma-
+teriales comunes.
+Observe que la fuerza de fricción estática ( fs) existe en respuesta a una fuerza
+aplicada. La magnitud de fs y su dirección dependen de la magnitud y dirección de 
+la fuerza aplicada. Hasta su valor máximo, la fuerza de fricción estática es igual en
+magnitud y opuesta en dirección a la fuerza aplicada ( F), ya que no hay aceleración 
+(F /H11002f
+s /H11005ma /H110050). Por lo tanto, si la persona de la figura 4.19a empujara el archivero
+en la dirección opuesta, fs cambiaría para oponerse al nuevo empujón. Si no hubiera
+fuerza aplicada F, entonces fs sería cero. Cuando la magnitud de F excede fsmáx, el 
+archivero comienza a moverse (se acelera) y entra en acción la fricción cinética, con 
+f
+k /H11005mkN. Si F se reduce a fk, el archivero se deslizará con velocidad constante; si F
+se mantiene en un valor mayor que fk, el archivero seguirá acelerando.
+Se ha determinado experimentalmente que los coeficientes de fricción (y por ende
+las fuerzas de fricción) son casi independientes del tamaño del área de contacto entre
+superficies metálicas. Esto significa que la fuerza de fricción entre un bloque metálico
+con forma de tabique y una superficie metálica es la misma, sin importar que el bloque
+esté descansando sobre su lado más ancho o sobre el más angosto.
+Por último, hay que tener en cuenta que, si bien la ecuación f /H11005/H9262N se cumple en
+general para las fuerzas de fricción, la fricción podría no ser lineal. Es decir, /H9262no siem-
+pre es constante. Por ejemplo, el coeficiente de fricción cinética varía un poco con la 
+velocidad relativa de las superficies. Sin embargo, para velocidades de hasta varios
+metros por segundo, los coeficientes son relativamente constantes. Por sencillez, en
+nuestras explicaciones ignoraremos cualesquiera variaciones debidas a la rapidez (o al
+área) y supondremos que las fuerzas de fricción estática y dinámica dependen única-
+mente de la carga (N) y de la naturaleza de los materiales, expresada en los coeficien-
+tes de fricción dados.
+Valores aproximados de coeficientes de fricción estática
+y fricción cinética entre ciertas superficiesTABLA 4.1
+Fricción entre materiales
+Aluminio sobre aluminio 1.90 1.40
+Vidrio sobre vidrio 0.94 0.35
+Caucho sobre concreto
+seco 1.20 0.85
+mojado 0.80 0.60
+Acero sobre aluminio 0.61 0.47
+Acero sobre acero
+seco 0.75 0.48
+lubricado 0.12 0.07
+Teflón sobre acero 0.04 0.04
+Teflón sobre teflón 0.04 0.04
+Madera encerada sobre nieve 0.05 0.03
+Madera sobre madera 0.58 0.40
+Cojinetes de bola lubricados 0.01 0.01
+Articulaciones sinoviales (en los extremos de casi 
+todos los huesos largos; p. ej., codos y caderas) 0.01 0.01
+66
+mkms
+Ilustración 5.1 Fricción estática 
+y fricción cinética
+
+4.6 Fricción 125
+Ejemplo 4.10 ■ Tirar de una caja: fuerzas de fricción estática 
+y cinética
+a) En la ▼ figura 4.20, si el coeficiente de fricción estática entre la caja de 40.0 kg y el piso es
+de 0.650, ¿con qué fuerza horizontal mínima debe tirar el trabajador para poner la caja en
+movimiento? b) Si el trabajador mantiene esa fuerza una vez que la caja empiece a mover-
+se, y el coeficiente de fricción cinética entre las superficies es de 0.500, ¿qué magnitud ten-
+drá la aceleración de la caja?
+Razonamiento. Este escenario requiere la aplicación de las fuerzas de fricción. En a), es
+preciso calcular la fuerza máxima de fricción estática. En b), si el trabajador mantiene una
+fuerza aplicada de esa magnitud una vez que la caja esté en movimiento, habrá una ace-
+leración, ya que f
+k /H11021fsmáx.
+Solución. Listamos los datos dados y lo que se nos pide,
+Dado: Encuentre: a) F (fuerza mínima necesaria para mover la caja)
+b) a (aceleración)
+a) La caja no se moverá hasta que la fuerza aplicada F exceda ligeramente la fuerza má-
+xima de fricción estática, fsmáx. Por lo tanto, debemos calcular fsmáx para determinar qué
+fuerza debe aplicar el trabajador. El peso de la caja y la fuerza normal tienen la misma
+magnitud en este caso (véase el diagrama de cuerpo libre de la figura 4.20), de manera
+que la fuerza máxima de fricción estática es
+Entonces, la caja se moverá si la fuerza aplicada F excede 255 N.
+b) Ahora la caja está en movimiento, y el trabajador mantiene una fuerza aplicada cons-
+tante F /H11005f
+smáx /H11005255 N. La fuerza de fricción cinética fk actúa sobre la caja; pero esta fuer-
+za es menor que la fuerza aplicada F, porque /H9262k /H11021/H9262s. Por lo tanto, hay una fuerza neta
+sobre la caja, y podemos obtener la aceleración de la caja utilizando la segunda ley de
+Newton en la dirección x:
+Despejamos a
+x y obtenemos
+Ejercicio de refuerzo. En promedio, ¿por qué factor /H9262s es mayor que /H9262k para superficies
+no lubricadas de metal sobre metal? (Véase la tabla 4.1.)
+ =
+255 N -10.5002140.0 kg219.80 m>s22
+40.0 kg = 1.48 m>s2
+ ax = F -mk
+ N
+m =
+F -mk 1mg2
+m
+g Fx =+ F - fk = F -mk
+ N = max
+ =10.6502140.0 kg219.80 m>s22 = 255 N
+ fsmax =ms
+ N =ms 1mg2
+mk = 0.500
+ms = 0.650
+ m = 40.0 kg
+fs
+Diagrama de cuerpo libre
+w = mg
+g
+F
+N
+F
+N
+fs
+▼ FIGURA 4.20 Fuerzas de fricción estática y cinética Véase el ejemplo 4.10.
+
+126 CAPÍTULO 4 Fuerza y movimiento
+Veamos a otro trabajador con la misma caja; pero ahora supongamos que el traba-
+jador aplica la fuerza con cierto ángulo (▲ figura 4.21).
+Ejemplo 4.11 ■ Tirar en dirección inclinada: un análisis más profundo
+de la fuerza normal
+Un trabajador que tira de una caja aplica una fuerza con un ángulo de 30º respecto a la ho-
+rizontal, como se muestra en la figura 4.21. ¿Cuál es la magnitud de la fuerza mínima que
+deberá aplicar para mover la caja? (Antes de ver la solución, ¿usted cree que la fuerza re-
+querida en este caso sea mayor o menor que la del ejemplo 4.10?)
+Razonamiento. Vemos que la fuerza aplicada forma un ángulo con la superficie horizon-
+tal, así que el componente vertical afectará la fuerza normal. (Véase la figura 4.11.) Este
+cambio en la fuerza normal, a la vez, afectará la fuerza máxima de fricción estática.
+Solución. Los datos son los mismos que en el ejemplo 4.10, excepto que la fuerza se apli-
+ca de forma inclinada.
+Dado: Encuentre: F (fuerza mínima necesaria para mover la caja)
+En este caso, la caja se empezará a mover cuando el componente horizontal de la fuerza apli-
+cada, F cos 30º, exceda ligeramente la fuerza máxima de fricción estática. Por lo tanto, es-
+cribimos lo siguiente para la fricción máxima:
+Sin embargo, en este caso la magnitud de la fuerza normal no es igual al peso de la caja,
+debido al componente hacia arriba de la fuerza aplicada. (Véase el diagrama de cuerpo li-
+bre de la figura 4.21.) Por la segunda ley de Newton, dado que a
+y /H110050, tenemos
+es decir,
+Efectivamente, la fuerza aplicada sostiene parcialmente el peso de la caja. Si sustituimos
+esta expresión para N en la primera ecuación, tenemos
+Y al despejar F,
+ =
+140.0 kg219.80 m>s
+22
+10.866>0.6502 + 0.500 = 214 N
+ F =
+mg
+1cos 30°>ms2 + sen 30°
+F cos 30° =ms
+ 1mg - F sen 30°2
+N = mg - F sen 30°
+g Fy =+ N + F sen 30° - mg = 0
+F cos 30° = fsmáx =ms
+ N
+u = 30°
+fs Diagrama de cuerpo libre
+y
+x
+F cos 30°30°
+30°F sen 30° 
+w = mg
+mg
+N
+N
+F
+F
+fs
+▲ FIGURA 4.21 Tirar en dirección inclinada: un análisis más profundo de la fuerza normal
+Véase ejemplo 4.11.
+
+4.6 Fricción 127
+Por lo tanto, se necesita una fuerza aplicada menor en este caso, porque la fuerza de fric-
+ción es menor al ser menor la fuerza normal.
+Ejercicio de refuerzo. En este ejemplo, note que la aplicación angulada de la fuerza pro-
+duce dos efectos. Conforme se incrementa el ángulo entre la fuerza aplicada y la horizon-
+tal, se reduce el componente horizontal de la fuerza aplicada. No obstante, la fuerza
+normal también se reduce, así que f
+smáx también disminuye. ¿Un efecto siempre supera al
+otro? Esto es, ¿la fuerza aplicada F necesaria para mover la caja siempre disminuye al au-
+mentar el ángulo? (Sugerencia: investigue F para diferentes ángulos. Por ejemplo, calcule
+F para 20º y 50º. Ya tiene un valor para 30/H11034. ¿Qué le dicen los resultados? 
+Ejemplo 4.12 ■ No hay desliz: fricción estática
+Una caja está en el centro de la plataforma de carga de un camión que viaja a 80 km/h 
+por una carretera recta y plana. El coeficiente de fricción estática entre la caja y la plata-
+forma del camión es de 0.40. Cuando el camión frena uniformemente hasta detenerse, 
+la caja no resbala sino que se mantiene inmóvil en el camión. ¿En qué distancia mínima
+puede frenar el camión sin que la caja se deslice sobre la plataforma?
+Razonamiento. Tres fuerzas actúan sobre la caja, como se muestra en el diagrama de cuer-
+po libre de la Nfigura 4.22 (suponiendo que el camión viaja inicialmente en la dirección
+/H11001x). Pero, ¡espere! Hay una fuerza neta en la dirección /H11002x, así que debería haber una 
+aceleración en esa dirección ( ax /H110210). ¿Qué significa esto? Que en relación con el suelo, 
+la caja está desacelerando con la misma tasa que el camión, lo cual es necesario para 
+que la caja no resbale: la caja y el camión frenan juntos uniformemente.
+La fuerza que crea esta aceleración para la caja es la fuerza de fricción estática. La
+aceleración se obtiene aplicando la segunda ley de Newton y luego se emplea en una de
+las ecuaciones de cinemática para calcular la distancia.
+Solución. 
+Dado: Encuentre: distancia mínima para detenerse
+Aplicamos la segunda ley de Newton a la caja, con el valor máximo de fs para encontrar
+la distancia mínima para detenerse,
+Ahora despejamos ax, 
+que es la desaceleración máxima del camión con la que la caja no se resbala.
+Por lo tanto, la distancia de detención mínima ( x) del camión se basará en esta ace-
+leración y estará dada por la ecuación 2.12, donde vx /H110050 y tomamos xo como el origen.
+Entonces,
+Ahora despejamos x:
+¿Es razonable la respuesta? Esta longitud es aproximadamente dos tercios de un campo
+de fútbol americano.
+Ejercicio de refuerzo. Dibuje un diagrama de cuerpo libre y describa lo que sucede en tér-
+minos de aceleraciones y coeficientes de fricción, si la caja comienza a deslizarse hacia
+adelante cuando el camión está frenando (en otras palabras, si a
+x excede /H110023.9 m/s2).
+Resistencia del aire
+La resistencia del aire se refiere a la fuerza de resistencia que actúa sobre un objeto
+cuando se mueve a través del aire. Dicho de otro modo, la resistencia del aire es un ti-
+po de fuerza de fricción. En los análisis de objetos que caen, por lo general omitimos
+el efecto de la resistencia del aire y aun así obtenemos aproximaciones válidas en caí-
+das desde distancias relativamente cortas. Sin embargo, en caídas más largas no es
+posible despreciar la resistencia del aire.
+x =
+vxo
+2
+-2ax
+=
+122 m>s22
+-21-3.9 m>s22 = 62 m
+vx
+2 = 0 = vxo
+2 + 21ax2x
+ax =- ms
+ g =- 10.40219.8 m>s22 =- 3.9 m>s2
+g Fx =- fsmáx =- ms
+ N =- ms
+ mg = max
+ms = 0.40
+ vxo = 80 km>h = 22 m>s
+y
+x
+fs
+w = mg
+N
+▲ FIGURA 4.22 Diagrama de
+cuerpo libre Véase el ejemplo 4.12.
+
+128 CAPÍTULO 4 Fuerza y movimiento
+La resistencia del aire sucede cuando un objeto en movimiento choca contra mo-
+léculas de aire. Por lo tanto, la resistencia del aire depende de la forma y el tamaño del
+objeto (que determinan el área del objeto que está expuesta a choques), así como su ra-
+pidez. Cuanto más grande sea el objeto, y más rápido se mueva, mayor será el número
+de moléculas de aire contra las que chocará. (La densidad del aire es otro factor, pero
+supondremos que esta cantidad es constante cerca de la superficie de la Tierra.) Para
+reducir la resistencia del aire (y el consumo de combustible), los automóviles se hacen
+“más eficientes”, y en los camiones y las casas rodantes se instalan superficies aerodi-
+námicas (
+>figura 4.23).
+Considere un objeto que cae. Puesto que la resistencia del aire depende de la rapi-
+dez, conforme un objeto que cae acelera bajo la influencia de la gravedad, la fuerza re-
+tardante de la resistencia del aire aumenta (
+▼ figura 4.24a). La resistencia del aire para
+objetos del tamaño del cuerpo humano es proporcional al cuadrado de la rapidez, v2,
+por lo que la resistencia aumenta con mucha rapidez. Así, cuando la rapidez se dupli-
+ca, la resistencia del aire se incrementa por un factor de 4. En algún momento, la mag-
+nitud de la fuerza retardante es igual a la del peso del objeto (figura 4.24b), de manera
+que la fuerza neta sobre el objeto es cero. A partir de ese momento, el objeto cae con
+una velocidad máxima constante, llamada velocidad terminal, con magnitud v
+t.
+Es fácil ver esto con la ayuda de la segunda ley de Newton. Para el objeto que cae,
+tenemos
+Fneta /H11005ma
+es decir,
+donde, por conveniencia, la dirección hacia abajo se ha tomado como positiva. Al des-
+pejar a, tenemos
+donde a es la magnitud de la aceleración instantánea hacia abajo.
+Note que la aceleración de un objeto que cae, si tomamos en cuenta la resistencia
+del aire, es menor que g; es decir, a /H11021g. Si el objeto sigue cayendo, su rapidez aumen-
+tará y, por ende, aumentará la fuerza de resistencia del aire f (porque depende de la 
+rapidez), hasta que a /H110050, cuando f /H11005mg y f /H11002mg /H110050. Entonces, el objeto cae con ve-
+locidad terminal constante.
+Para un paracaidista que no ha abierto su paracaídas, la velocidad terminal es de
+unos 200 km/h (cerca de 125 mi/h). Para reducir la velocidad terminal a fin de alcan-
+zarla antes y prolongar el tiempo de caída, el paracaidista trata de aumentar al máxi-
+mo el área expuesta de su cuerpo, adoptando una posición extendida (
+Nfigura 4.25).
+Esta posición aprovecha que la resistencia del aire depende del tamaño y la forma del
+objeto que cae. Una vez que se abre el paracaídas (que tiene una área expuesta mayor
+y una forma que atrapa el aire), la resistencia adicional al aire frena al paracaidista a
+cerca de 40 km/h (25 mi/h), la cual es preferible para aterrizar.
+a = g -
+f
+m
+mg - f = ma
+▲ FIGURA 4.23 Superficie aero-
+dinámica La superficie sobre el 
+techo de la cabina de este camión
+hace aerodinámico al vehículo y 
+así reduce la resistencia del aire,
+volviéndolo más eficiente.
+mg
+f1
+v1
+vt
+vt
+a) Conforme v se incrementa,
+f también lo hace.
+b) Cuando f = mg, el objeto
+cae con velocidad
+(terminal) constante.
+Rapidez
+Tiempo
+c)
+v2
+f2
+f
+mg mg
+▼ FIGURA 4.24 Resistencia del aire y velocidad terminal a) A medida que aumenta la
+rapidez con que un objeto cae, también se incrementa la fuerza de fricción de la resistencia
+del aire. b) Cuando esta fuerza de fricción es igual al peso del objeto, la fuerza neta es cero,
+y el objeto cae con una velocidad (terminal) constante. c) Gráfica de rapidez contra tiempo
+que muestra estas relaciones.
+Ilustración 5.5 Fricción del aire
+
+4.6 Fricción 129
+Ejemplo conceptual 4.13 ■ Carrera en descenso: resistencia del aire
+y velocidad terminal
+Desde gran altura, un viajero en globo deja caer simultáneamente dos pelotas de idéntico
+tamaño, pero de peso muy distinto. Suponiendo que ambas pelotas alcanzan la velocidad
+terminal durante la caída, ¿qué se cumple? a) La pelota más pesada alcanza primero la ve-
+locidad terminal; b) las pelotas alcanzan al mismo tiempo la velocidad terminal; c) la pelo-
+ta más pesada cae primero al suelo; d) las pelotas caen al suelo al mismo tiempo. Plantee
+claramente el razonamiento y los principios de física que usó para llegar a su respuesta, antes de leer
+el párrafo siguiente. Es decir, ¿por qué eligió esa respuesta?
+Razonamiento y respuesta. La velocidad terminal se alcanza cuando el peso de la pelota se
+equilibra con la resistencia del aire. Ambas pelotas experimentan inicialmente la misma
+aceleración, g, y su rapidez y las fuerzas retardantes de la resistencia del aire aumentan con
+la misma tasa. El peso de la pelota más ligera se equilibrará primero, de manera que a y b
+son incorrectas. La pelota más ligera alcanza primero la velocidad terminal (a /H110050), pero la
+pelota más pesada sigue acelerando y se adelanta a la pelota más ligera. Por lo tanto, la pe-
+lota más pesada cae primero al suelo, y la respuesta es c, lo cual excluye a d.
+Ejercicio de refuerzo. Suponga que la pelota más pesada es mucho más grande que la
+más ligera. ¿Cómo podría esta diferencia afectar el resultado?
+Vemos un ejemplo de velocidad terminal muy a menudo. ¿Por qué las nubes se man-
+tienen aparentemente suspendidas en el cielo? Es indudable que las gotitas de aire o
+cristales de hielo (nubes altas) deberían caer… y lo hacen. Sin embargo, son tan pe-
+queños que su velocidad terminal se alcanza rápidamente, y caen con tal lentitud que
+no lo notamos. La flotabilidad en el aire también es un factor (véase el capítulo 9).
+Además, podría haber corrientes de aire ascendentes que impiden al agua y el hielo
+llegar al suelo.
+Un uso de la resistencia del “aire” fuera de la Tierra es el aerofrenado. Esta técnica
+aeronáutica utiliza la atmósfera planetaria para frenar una nave espacial en órbita.
+Cuando la nave pasa a través de la capa superior de la atmósfera planetaria, la “resis-
+tencia” atmosférica frena la rapidez de la nave, hasta colocar ésta en la órbita desea-
+da. Se necesitan muchos movimientos, pues la nave debe pasar una y otra vez por 
+la atmósfera hasta alcanzar la órbita final adecuada.
+El aerofrenado es una técnica muy útil porque elimina la necesidad de transportar
+una pesada carga de propulsores químicos, que de otra forma serían indispensables
+para colocar la nave en órbita. Esto permite que la nave lleve más instrumentos cientí-
+ficos para realizar investigaciones. El aerofrenado se utilizó para ajustar la órbita de la
+sonda Odisea alrededor de Marte en 2001.
+> FIGURA 4.25 Velocidad terminal
+Los paracaidistas adoptan una 
+posición extendida para aumentar
+al máximo la resistencia del aire. 
+Esto hace que alcancen más rápida-
+mente la velocidad terminal y pro-
+longa el tiempo de caída. Aquí se
+observa una vista de los 
+paracaidistas.
+
+130 CAPÍTULO 4 Fuerza y movimiento
+Repaso del capítulo
+• Una fuerza es algo que puede cambiar el estado de movi-
+miento de un objeto. Para producir un cambio en el mo-
+vimiento, debe haber una fuerza neta, no equilibrada, dis-
+tinta de cero:
+• La primera ley de Newton del movimientotambién se deno-
+mina ley de inercia; inercia es la tendencia natural de los ob-
+jetos a mantener su estado de movimiento. La ley dice que,
+en ausencia de una fuerza neta aplicada, un cuerpo en reposo
+permanece en reposo, y un cuerpo en movimiento permane-
+ce en movimiento con velocidad constante.
+• La segunda ley de Newton del movimiento relaciona la
+fuerza neta que actúa sobre un objeto o un sistema con la ma-
+sa (total) y la aceleración resultante. Define la relación de 
+causa y efecto entre fuerza y aceleración:
+(4.1)
+La ecuación del peso en términos de masa es una forma de la
+segunda ley de Newton:
+(4.2)
+La forma de componentes de la segunda ley es:
+(4.3a)
+y
+(4.3b)
+Fy
+Fx
+y
+x
+60°
+F
+g Fx = max y g Fy = may
+g1Fx
+ xN + Fy
+ yN2 = m1ax
+ xN + ay
+ yN2 = max
+ xN + may
+ yN
+w = mg
+ESTE LADO
+HACIA ARRIBA
+Una fuerza neta distinta de cero acelera la caja: a /H11008 F/m
+m
+F
+a
+gF
+S
+i = F
+S
+neta = ma
+S
+Fneta = F2 – F1 ≠ 0
+a
+Fneta
+F2F1
+F
+S
+neta = gF
+S
+i
+• La tercera ley de Newton indica que, por cada fuerza, hay
+una fuerza de reacción igual y opuesta. Según la tercera ley,
+las fuerzas opuestas de un par siempre actúan sobre objetos
+distintos.
+• Decimos que un objeto está en equilibrio traslacional si es-
+tá en reposo o se mueve con velocidad constante. Si perma-
+nece en reposo, decimos que el objeto está en equilibrio trasla-
+cional estático. La condición de equilibrio traslacional se
+plantea así
+(4.4)
+o bien,
+(4.5)
+• La fricción es la resistencia al movimiento que se da entre su-
+perficies en contacto. (En general, hay fricción entre todo tipo
+de medios: sólidos, líquidos y gases.)
+• La fuerza de fricción entre superficies se caracteriza por coe-
+ficientes de fricción ( /H9262), uno para el caso estático y otro para
+el caso cinético (en movimiento). En muchas situaciones, 
+f /H11005/H9262N, donde N es la fuerza normal, perpendicular a la su-
+perficie (es decir, la fuerza que la superficie ejerce sobre el ob-
+jeto). Al ser un cociente de fuerzas ( f/N), m es adimensional.
+Fuerza de fricción estática:
+(4.6)
+(4.7)
+Fuerza de fricción cinética (deslizante):
+(4.8)
+• La fuerza de resistencia del aire sobre un objeto que cae au-
+menta al aumentar la rapidez. Finalmente, el objeto alcanza
+una velocidad constante llamada velocidad terminal.
+f
+k =mk
+ N
+ fsmáx =ms
+ N
+ fs …ms
+ N
+Fricción estática
+Fricción cinética
+F = fs
+f
+fsmáx
+fk = kNμ
+Fuerza de
+fricción ejercida
+por el suelo
+sobre el pie
+Fuerza ejercida
+por el pie
+sobre el suelo
+F
+F /H11005 /H11002f
+f
+g Fx = 0  y  g Fy = 0
+gF
+S
+i = 0
+a)
+sobre la Tierra
+sobre el maletín
+sobre la mano
+sobre el maletín
+Fuerzas de
+contacto
+Fuerzas de acción a distancia
+F1
+/H11002F1
+F2
+/H11002F2
+
+Ejercicios 131
+a?
+m
+▲ FIGURA 4.26 Nivel de burbuja/acelerómetro
+Véase el ejercicio 9.
+4.1 Los conceptos de fuerza y fuerza neta y
+4.2 Inercia y la primera ley de Newton del movimiento
+1. OM La masa está relacionada a) con el peso de un objeto,
+b) con su inercia, c) con su densidad, d) con todas las op-
+ciones anteriores.
+2. OM Una fuerza a) siempre genera movimiento, b) es una
+cantidad escalar, c) es capaz de producir un cambio en el
+movimiento, d) tanto a como b.
+3. OM Si un objeto se mueve a velocidad constante, a) debe
+haber una fuerza en la dirección de la velocidad, b) no
+debe haber fuerza en la dirección de la velocidad, c) 
+no debe haber fuerza neta o d) debe haber una fuerza
+neta en la dirección de la velocidad.
+4. OM Si la fuerza neta sobre un objeto es cero, el objeto
+podría a) estar en reposo, b) estar en movimiento a velo-
+cidad constante, c) tener aceleración cero o d) todo lo 
+anterior.
+5. OM La fuerza requerida para mantener un cohete mo-
+viéndose a una velocidad constante en el espacio lejano
+es a) igual al peso de la nave, b) dependiente de la rapi-
+dez con que se mueve la nave, c) igual a la que generan
+los motores del cohete a media potencia, d) cero.
+6. PC Si un objeto está en reposo, no puede haber fuerzas
+actuando sobre él. ¿Es correcta esta afirmación? Expli-
+que. b) Si la fuerza neta sobre un objeto es cero, ¿pode-
+mos concluir que el objeto está en reposo? Explique.
+7. PC En un avión a reacción comercial que despega, senti-
+mos que nos “empujan” contra el asiento. Use la primera
+ley de Newton para explicar esto.
+8. PC Un objeto pesa 300 N en la Tierra y 50 N en la Luna.
+¿El objeto también tiene menos inercia en la Luna?
+9. PC Considere un nivel de burbuja que descansa en una
+superficie horizontal (
+▼ figura 4.26). Inicialmente, la bur-
+buja de aire está en la parte media del tubo horizontal de
+vidrio. a) Si se aplica al nivel una fuerza para acelerarlo,
+¿en qué dirección se moverá la burbuja? ¿En qué direc-
+ción se moverá la burbuja si se retira la fuerza y el nivel
+se frena debido a la fricción? b) A veces se usan niveles de
+este tipo como “acelerómetros” para indicar la dirección
+de la aceleración. Explique el principio que interviene.
+[Sugerencia: piense en empujar una palangana con agua.]
+10. PC Como extensión del ejercicio 9, considere la situación
+de un niño que sostiene un globo inflado con helio en un
+automóvil cerrado que está en reposo. ¿Qué observará 
+el niño cuando el vehículo a) acelere desde el reposo y
+luego b) frene hasta detenerse? (El globo no toca el techo
+del automóvil.)
+11. PC Éste es un truco antiguo (
+▼ figura 4.27): si se tira del
+mantel con gran rapidez, la vajilla que estaba sobre él ape-
+nas se moverá. ¿Por qué?
+▼ FIGURA 4.27 ¿Magia o física? Véase el ejercicio 11.
+*A menos que se indique de otra manera, todos los objetos están cerca de la superficie terrestre, donde g = 9.80 m>s2.
+Ejercicios*
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son ejer-
+cicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pares de
+ejercicios, que se identifican con númer
+os subrayados, pretenden ayudar al lector a resolver problemas y aprender. El
+primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consultarse si se necesi-
+ta ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al final del libro.
+
+132 CAPÍTULO 4 Fuerza y movimiento
+12. ● ¿Qué tiene más inercia: 20 cm3 de agua o 10 cm3 de alu-
+minio y cuántas veces más? (Véase la tabla 9.2.) mAl /H11005
+1.4magua
+13. ● Una fuerza neta de 4.0 N imprime a un objeto una ace-
+leración de 10 m/s2. ¿Cuál será la masa del objeto?
+14. ● Dos fuerzas actúan sobre un objeto de 5.0 kg colocado
+sobre una superficie horizontal que no ejerce fricción.
+Una fuerza es de 30 N en la dirección /H11001x, y la otra de 35 N
+en la dirección /H11002x. ¿Cuál será la aceleración del objeto?
+15.
+● En el ejercicio 14, si la fuerza de 35 N actuara hacia
+abajo en un ángulo de 40° con respecto a la horizontal,
+¿cuál sería la aceleración en este caso?
+16.
+● Considere una esfera de 2.0 kg y otra de 6.0 kg en caída
+libre. a) ¿Cuál es la fuerza que actúa sobre cada una? 
+b) ¿Cuál es la aceleración de cada una?
+17. EI ●● Un disco ( puck) de hockey con un peso de 0.50 lb 
+se desliza libremente a lo largo de una sección horizontal
+de hielo muy suave (que no ejerce fricción). a) Cuando se
+desliza libremente, ¿cómo se compara la fuerza hacia
+arriba del hielo sobre el disco (la fuerza normal) con la
+fuerza hacia arriba cuando el disco está permanentemen-
+te en reposo? 1) La fuerza hacia arriba es mayor cuando
+el disco se desliza; 2) la fuerza hacia arriba es menor
+cuando éste se desliza, o 3) la fuerza hacia arriba es la
+misma en ambas situaciones. b) Calcule la fuerza hacia
+arriba sobre el disco en ambas situaciones.
+18.
+●● Un bloque de 5.0 kg en reposo sobre una superfi-
+cie sin fricción experimenta dos fuerzas, F1 /H110055.5 N y 
+F2 /H110053.5 N, como se ilustra en la ▼ figura 4.28. ¿Qué fuer-
+za horizontal habría que aplicar también para mante-
+ner el bloque en reposo?
+ma de fotografía en el muelle. ¿En qué caso es mayor la
+tensión? 1) Cuando se está subiendo al pescado; 2) cuan-
+do se le sostiene firmemente o 3) la tensión es la misma
+en ambas situaciones. b) Calcule la tensión en el cordel
+de la caña de pescar.
+21.
+●●● Un objeto de 1.5 kg se mueve hacia arriba por el eje
+y con una rapidez constante. Cuando llega al origen, se le
+aplican las fuerzas F
+1 /H110055.0 N a 37° por arriba del eje /H11001x,
+F2 /H110052.5 N en la dirección /H11001x, F3 /H110053.5 N a 45° debajo del
+eje /H11002x y F4 /H110051.5 N en la dirección /H11002y. a) ¿El objeto con-
+tinuará moviéndose por el eje y? b) Si no, ¿qué fuerza
+aplicada simultáneamente lo mantendrá moviéndose
+por el eje y con rapidez constante?
+22. EI
+●●● Tres fuerzas horizontales (las únicas horizonta-
+les) actúan sobre una caja colocada sobre el piso. Una de
+ellas (llamémosla F
+1) actúa derecho hacia el este y tie-
+ne una magnitud de 150 lb. Una segunda fuerza (F2) tiene
+un componente hacia el este de 30.0 lb y un componente
+hacia el sur de 40.0 lb. La caja permanece en reposo. (Ig-
+nore la fricción.) a) Diagrame las dos fuerzas conocidas
+sobre la caja. ¿En cuál cuadrante estará la tercera fuerza
+(desconocida)? 1) En el primer cuadrante; 2) en el segun-
+do cuadrante; 3) en el tercer cuadrante o 4) en el cuarto
+cuadrante. b) Encuentre la tercera fuerza desconocida en
+newtons y compare su respuesta con la estimación a
+partir del diagrama.
+4.3 Segunda ley de Newton del movimiento 
+23. OM La unidad de fuerza newton equivale a a) kg /H11080m/s, 
+b) kg /H11080m/s2, c) kg /H11080m2/s o d) ninguna de las anteriores.
+24. OM La aceleración de un objeto es a) inversamente pro-
+porcional a la fuerza neta que actúa sobre él, b) directa-
+mente proporcional a su masa, c) directamente propor-
+cional a la fuerza neta e inversamente proporcional a su
+masa, d) ninguna de las anteriores.
+25. OM El peso de un objeto es directamente proporcional 
+a) a su masa, b) a su inercia, c) a la aceleración de la gra-
+vedad, d) a todas las anteriores.
+26. PC Un astronauta tiene una masa de 70 kg medida en la
+Tierra. ¿Cuánto pesará en el espacio lejano, lejos de cual-
+quier cuerpo celestial? ¿Qué masa tendrá ahí?
+27. PC En general, en este capítulo consideramos fuerzas
+aplicadas a objetos de masa constante. ¿Cómo cambiaría
+la situación si se agregara o quitara masa a un sistema
+mientras se le está aplicando una fuerza? Dé ejemplos de
+situaciones en que podría suceder esto.
+28. PC Los motores de la mayoría de los cohetes producen
+un empuje (fuerza hacia adelante) constante. Sin embar-
+go, cuando un cohete se lanza al espacio, su aceleración
+se incrementa con el tiempo mientras sigue funcionando
+el motor. ¿Esta situación infringe la segunda ley de New-
+ton? Explique.
+29. PC Los buenos receptores de fútbol americano suelen te-
+ner manos “suaves” para atrapar el balón (
+Nfigura 4.29).
+¿Cómo interpretaría esta descripción con base en la se-
+gunda ley de Newton?
+y
+x37°30°
+F2F1
+▲ FIGURA 4.28 Dos fuerzas aplicadas Véase el ejercicio 18.
+19. EI ●● a) Se le indica que un objeto tiene aceleración cero.
+¿Qué de lo siguiente es verdad? 1) El objeto está en re-
+poso; 2) el objeto se mueve con velocidad constante; 
+3) tanto 1) como 2) son posibles; o 4) ni 1 ni 2 son posi-
+bles. b) Dos fuerzas que actúan sobre el objeto son F
+1 /H11005
+3.6 N a 74/H11034bajo el eje /H11001x y F2 /H110053.6 N a 34/H11034por arriba del
+eje /H11002x. ¿Habrá una tercera fuerza sobre el objeto? ¿Por
+qué? Si la hay, ¿qué fuerza es?
+20. EI ●● Un pez de 25 lb es capturado y jalado hacia el bote.
+a) Compare la tensión en el cordel de la caña de pescar
+cuando el pescado es subido verticalmente (con una ra-
+pidez constante), con la tensión cuando el pescado se
+sostiene verticalmente en reposo para la ceremonia de to-
+
+Ejercicios 133
+▲ FIGURA 4.29 Manos suaves Véase el ejercicio 29.
+30. ● Se aplica una fuerza neta de 6.0 N sobre una masa de
+1.5 kg. ¿Cuál es la aceleración del objeto?
+31. ● ¿Qué masa tiene un objeto que acelera a 3.0 m/s 2 bajo
+la influencia de una fuerza neta de 5.0 N?
+32. ● Un jumbo jet Boeing 747 cargado tiene una masa de 
+2.0 /H11003105 kg. ¿Qué fuerza neta se requiere para imprimir-
+le una aceleración de 3.5 m/s2 en la pista de despegue?
+33. EI ● Un objeto de 6.0 kg se lleva a la Luna, donde la ace-
+leración debida a la gravedad es sólo la sexta parte que
+en la Tierra. a) La masa del objeto en la Luna es 1) cero, 
+2) 1.0 kg, 3) 6.0 kg o 4) 36 kg. ¿Por qué? b) ¿Cuánto pesa 
+el objeto en la Luna?
+34.
+● ¿Cuánto pesa en newtons una persona de 150 lb? Calcu-
+le su masa en kilogramos.
+35. EI ●● La ▼ figura 4.30 muestra la etiqueta de un produc-
+to. a) La etiqueta es correcta 1) en la Tierra; 2) en la Luna,
+donde la aceleración debida a la gravedad es apenas la
+sexta parte que en la Tierra; 3) en el espacio lejano, donde
+casi no hay gravedad o 4) en todos los lugares anteriores.
+b) ¿Qué masa de lasaña indicaría una etiqueta para una
+cantidad que pesa 2 lb en la Luna?
+36.
+●● En una competencia universitaria, 18 estudiantes le-
+vantan un auto deportivo. Mientras lo sostienen, cada es-
+tudiante ejerce una fuerza hacia arriba de 400 N. a) ¿Qué
+masa tiene el automóvil en kilogramos? b) ¿Cuánto pesa
+en libras?
+37.
+●● a) Una fuerza horizontal actúa sobre un objeto en una
+superficie horizontal sin fricción. Si la fuerza se reduce a
+la mitad y la masa del objeto se aumenta al doble, la ace-
+leración será 1) cuatro veces, 2) dos veces, 3) la mitad o 
+4) la cuarta parte de la que tenía antes. b) Si la aceleración
+del objeto es de 1.0 m/s
+2 y la fuerza aplicada se aumenta
+al doble mientras la masa se reduce a la mitad, ¿qué ace-
+leración tendrá entonces?
+38.
+●● El motor de un avión de juguete de 1.0 kg ejerce una
+fuerza de 15 N hacia adelante. Si el aire ejerce una fuerza
+de resistencia de 8.0 N sobre el avión, ¿qué magnitud
+tendrá la aceleración del avión?
+39.
+●● Cuando se aplica una fuerza horizontal de 300 N a
+una caja de 75.0 kg, ésta se desliza por un piso plano,
+oponiéndose a una fuerza de fricción cinética de 120 N.
+¿Qué magnitud tiene la aceleración de la caja?
+40. EI
+●● Un cohete está alejado de todos los planetas y de
+las estrellas, de manera que la gravedad no está en consi-
+deración. El cohete utiliza sus motores para acelerar ha-
+cia arriba con un valor de a /H110059.80 m/s
+2. Sobre el piso de
+la cabina central hay un cajón (un objeto con forma de la-
+drillo), cuya masa es de 75.0 kg (
+▼ figura 4.31). a) ¿Cuán-
+tas fuerzas actúan sobre el cajón? 1) cero; 2) una; 3) dos; 
+4) tres. b) Determine la fuerza normal sobre el cajón y
+compárela con la fuerza normal que éste experimentaría
+si estuviera en reposo sobre la superficie terrestre.
+▲ FIGURA 4.30 ¿Etiqueta correcta? Véase ejercicio 35.
+a
+▲ FIGURA 4.31 ¡Vámonos! Véase el ejercicio 40.
+
+134 CAPÍTULO 4 Fuerza y movimiento
+▲ FIGURA 4.32 Hacia arriba por el muroVéase el ejercicio 41.
+60°
+F
+41. ●● Un objeto, cuya masa es de 10.0 kg, se desliza hacia
+arriba por un muro vertical resbaladizo. Una fuerza F de
+60 N actúa sobre el objeto con un ángulo de 60°, como se
+muestra en la 
+▼ figura 4.32. a) Determine la fuerza nor-
+mal ejercida sobre el objeto por el muro. b) Determine la
+aceleración del objeto.
+42. ●● En un frenado de emergencia para evitar un acciden-
+te, un cinturón de seguridad con correa al hombro sostie-
+ne firmemente a un pasajero de 60 kg. Si el automóvil
+viajaba inicialmente a 90 km/h y se detuvo en 5.5 s en un
+camino recto y plano, ¿qué fuerza media aplicó el cintu-
+rón al pasajero?
+43.
+●● Una catapulta de portaaviones acelera un avión de
+2000 kg uniformemente, desde el reposo hasta una rapi-
+dez de lanzamiento de 320 km/h, en 2.0 s. ¿Qué magni-
+tud tiene la fuerza neta aplicada al avión?
+44.
+●●● En su servicio, un tenista acelera una pelota de 56 g
+horizontalmente, desde el reposo hasta una rapidez de
+35 m/s. Suponiendo que la aceleración es uniforme a 
+lo largo de una distancia de aplicación de la raqueta de
+0.50 m, ¿qué magnitud tiene la fuerza que la raqueta 
+ejerce sobre la pelota?
+45.
+●●● Un automóvil se patina y está fuera de control sobre
+una carretera horizontal cubierta de nieve (que no ejerce
+fricción). Su masa es de 2000 kg y va directamente hacia
+Louise Lane con una rapidez de 45.0 m/s. Cuando el au-
+tomóvil se encuentra a 200 m de ella, Superman comien-
+za a ejercer una fuerza constante F sobre el auto relativa a
+la horizontal con una magnitud de 1.30 /H1100310
+4 N (es un ti-
+po fuerte) a un ángulo de 30° hacia abajo. ¿Superman es-
+taba en lo correcto? ¿Esa fuerza era suficiente para
+detener el automóvil antes de que golpeara a Louise?
+4.4 Tercera ley de Newton del movimiento
+46. OM Las fuerzas de acción y reacción de la tercera ley de
+Newton a) están en la misma dirección, b) tienen dife-
+rentes magnitudes, c) actúan sobre diferentes objetos o 
+d) pueden ser la misma fuerza.
+47. OM Un tabique golpea una ventana de vidrio y la rom-
+pe. Entonces, a) la magnitud de la fuerza que el tabique
+ejerce sobre el vidrio es mayor que la magnitud de la
+fuerza que el vidrio ejerce sobre el tabique, b) la magni-
+tud de la fuerza del tabique contra el vidrio es menor que
+la del vidrio contra el tabique, c) la magnitud de la fuerza
+del tabique contra el vidrio es igual a la del vidrio contra
+el tabique o d) nada de lo anterior.
+48. OM Un camión de carga choca de frente contra un auto-
+móvil, el cual sufre daños mucho mayores que el camión.
+Esto nos permite afirmar que a) la magnitud de la fuerza
+que el camión ejerce sobre el auto es mayor que la magni-
+tud de la fuerza que el auto ejerce sobre el camión, b) la
+magnitud de la fuerza del camión contra el auto es me-
+nor que la del auto contra el camión, c) la magnitud de la
+fuerza del camión contra el auto es igual a la del au-
+tomóvil contra el camión o d) nada de lo anterior.
+49. PC Veamos la situación que viven de un granjero y un
+caballo. Cierto día, un granjero engancha una carreta pe-
+sada a su caballo y le exige tirar de ella. El caballo le dice:
+“Bueno. No puedo tirar de la carreta porque, según la
+tercera ley de Newton, si aplico una fuerza a la carreta,
+ella aplicará una fuerza igual y opuesta sobre mí. El re-
+sultado neto es que las fuerzas se cancelarán y no podré
+mover la carreta. Por lo tanto, es imposible que tire de la
+carreta.” ¡El granjero está furioso! ¿Qué puede decir para
+convencer al caballo de que se mueva?
+50. PC ¿Hay un error en estas afirmaciones? Cuando se gol-
+pea una pelota de béisbol con un bate, hay fuerzas igua-
+les y opuestas sobre el bate y sobre la pelota. Las fuerzas
+se cancelan y no hay movimiento.
+51. EI
+● Un libro descansa sobre una superficie horizontal. 
+a) Hay 1) una, 2) dos o 3) tres fuerza(s) que actúa(n) sobre
+el libro. b) Identifique la fuerza de reacción a cada fuerza
+sobre el libro.
+52. ●● En un evento olímpico de patinaje de figura, un patina-
+dor de 65 kg empuja a su compañera de 45 kg, haciendo
+que ella acelere a una tasa de 2.0 m/s2. ¿A qué tasa acelera-
+rá el patinador? ¿Cuál es la dirección de su aceleración?
+53. EI ●● Un velocista cuya masa es de 65.0 kg inicia su ca-
+rrera empujando horizontalmente hacia atrás sobre los
+tacos de salida con una fuerza de 200 N. a) ¿Qué fuerza
+provoca que acelere desde los bloques? 1) Su empuje so-
+bre los bloques; 2) la fuerza hacia abajo que ejerce la gra-
+vedad, o 3) la fuerza que los tacos ejercen hacia delante
+sobre él. b) Determine su aceleración inicial cuando pier-
+de contacto con los tacos de salida.
+54.
+●● Jane y Juan, cuyas masas son de 50 y 60 kg, respec-
+tivamente, están parados en una superficie sin fricción 
+a 10 m de distancia entre sí. Juan tira de una cuerda 
+que lo une a Jane, y le imprime a ella una aceleración de
+0.92 m/s
+2 hacia él. a) ¿Qué aceleración experimenta
+Juan? b) Si la fuerza se aplica de forma constante, ¿dónde
+se juntarán Juan y Jane?
+55. EI ●●● Durante un arriesgada acción, el equipo de resca-
+te de un helicóptero acelera inicialmente a una pequeña
+niña (cuya masa es de 25.0 kg) verticalmente desde la
+azotea de un edificio en llamas. Hacen esto luego de
+arrojar una cuerda hacia la niña, quien debe asirse de ella
+mientras la levantan. Ignore la masa de la cuerda. 
+a) ¿Qué fuerza provoca que la niña acelere verticalmen-
+te hacia arriba? 1) Su peso; 2) el tirón del helicóptero so-
+bre la cuerda; 3) el tirón de la niña sobre la cuerda, o 4) el
+tirón de la cuerda sobre la niña. b) Determine el tirón de
+la cuerda (es decir, la tensión) si el valor de la aceleración
+inicial de la niña es a
+y /H11005/H110010.750 m/s2.
+4.5 Más acerca de las leyes de Newton: diagramas
+de cuerpo libre y equilibrio traslacional
+56. OM Las ecuaciones de cinemática del capítulo 2 pueden
+utilizarse a) sólo con fuerzas constantes, b) sólo con velo-
+cidades constantes, c) con aceleraciones variables, d) to-
+das las opciones anteriores son verdaderas.
+
+30°
+25 N
+▲ FIGURA 4.33 Tirar de una caja Véase el ejercicio 66.
+Ejercicios 135
+57. OM La condición (o condiciones) para el equilibrio de
+traslación es (o son): a) b) c) 
+d) todas las anteriores.
+58. PC Dibuje un diagrama de cuerpo libre de una persona
+que va en el asiento de un avión a) que acelera sobre la
+pista para despegar y b) después de despegar a una án-
+gulo de 20° respecto al suelo.
+59. PC Una persona empuja perpendicularmente sobre un
+bloque de madera que se colocó contra un muro. Dibuje
+un diagrama de cuerpo libre e identifique las fuerzas de
+reacción a todas las fuerzas sobre el bloque.
+60. PC Una persona se pone de pie sobre una báscula de ba-
+ño (que no es del tipo digital) con los brazos a los costa-
+dos. Entonces, rápidamente alza los brazos sobre su
+cabeza, y nota que la lectura de la báscula se incrementa
+conforme los sube. De manera similar, hay un decremen-
+to en la lectura conforme baja sus brazos a la posición ini-
+cial. ¿Por qué se altera la lectura de la báscula? (Trate de
+hacerlo usted mismo.)
+61. EI
+● a) Cuando un objeto está en un plano inclinado, la
+fuerza normal que el plano ejerce sobre el objeto es 
+1) menor que, 2) igual a o 3) mayor que el peso del obje-
+to. ¿Por qué? b) Para un objeto de 10 kg en un plano incli-
+nado de 30/H11034, calcule el peso del objeto y la fuerza normal
+que el plano ejerce sobre él.
+62.
+●● Una persona de 75.0 kg está parada sobre una báscula
+dentro de un elevador. ¿Qué marca la escala en newtons
+si el elevador a) está en reposo, b) sube con velocidad
+constante de 2.00 m/s y c) acelera hacia arriba a 2.0 m/s
+2?
+63. ●● En el ejercicio 62, ¿qué pasa si el elevador acelera ha-
+cia abajo a 2.00 m/s2?
+64. EI ●● El peso de un objeto de 500 kg es de 4900 N. 
+a) Cuando el objeto está en un elevador en movimiento, su
+peso medido podría ser 1) cero, 2) entre cero y 4900 N,
+3) más de 4900 N o 4) todo lo anterior. ¿Por qué? b) Descri-
+ba el movimiento si el peso medido del objeto es de tan só-
+lo 4000 N en un elevador en movimiento.
+65.
+●● a) Un esquiador acuático de 75 kg es jalado por un 
+bote con una fuerza horizontal de 400 N derecho hacia 
+el este, con una resistencia del agua sobre los esquíes de
+300 N. Una súbita ráfaga de viento ejerce otra fuerza 
+horizontal de 50 N sobre el esquiador a un ángulo de 60°
+al norte del este. En ese instante, ¿cuál es la aceleración
+del esquiador? b) ¿Cuál sería la aceleración del esquiador
+si la fuerza del viento fuera en dirección contraria a la
+que se indica en el inciso a?
+66.
+●● Un niño tira de una caja de 30 kg de masa con una
+fuerza de 25 N en la dirección que se muestra en la ▼ figu-
+ra 4.33. a) Sin considerar la fricción, ¿qué aceleración tiene
+la caja? b) ¿Qué fuerza normal ejerce el suelo sobre la caja?
+gF
+S
+i = 0,g Fy = 0,g Fx = 0,
+67. ●● Una joven empuja una podadora de pasto de 25 kg
+como se muestra en la ▼ figura 4.34. Si F /H1100530 N y /H9258/H1100537/H11034,
+a) ¿qué aceleración tiene la podadora y b) qué fuerza 
+normal ejerce el césped sobre la podadora? No tome en
+cuenta la fricción.
+F
+θ
+▲ FIGURA 4.34 Corte del césped Véase el ejercicio 67.
+68. ●● Un camión de 3000 kg remolca un automóvil de 1500
+kg con una cadena. Si la fuerza neta hacia adelante que el
+suelo ejerce sobre el camión es de 3200 N, a) ¿qué acelera-
+ción tiene el coche? b) ¿Qué tensión hay en la cadena?
+69.
+●● Un bloque cuya masa es de 25.0 kg se desliza hacia
+abajo sobre una superficie inclinada a 30° que no ejerce
+fricción. Para asegurarse de que el bloque no acelere,
+¿cuál es la fuerza mínima que se debe ejercer sobre él y
+en qué dirección?
+70.
+EI ●● a) Un esquiador olímpico baja sin empujarse por
+una pendiente de 37/H11034. Sin tomar en cuenta la fricción, ac-
+túa(n) 1) una, 2) dos o 3) tres fuerza(s) sobre el esquiador.
+b) ¿Qué aceleración tiene el esquiador? c) Si el esquiador
+tiene una rapidez de 5.0 m/s en la parte más alta de la
+pendiente de 35 m de longitud, ¿qué rapidez tiene al lle-
+gar a la base?
+71.
+●● Un coche sube por impulso (con el motor apagado)
+por una pendiente de 30/H11034. Si en la base de la pendiente su
+rapidez era de 25 m/s, ¿qué distancia recorrerá antes de
+detenerse?
+72. ●● Suponga condiciones ideales sin fricción para el dis-
+positivo que se ilustra en la ▼ figura 4.35. ¿Qué acelera-
+ción tiene el sistema si a) m1 /H110050.25 kg, m2 /H110050.50 kg y 
+m3 /H110050.25 kg; y b) ml /H110050.35 kg, m2 /H110050.15 kg y m3 /H110050.50 kg?
+m2m1
+m3
+▲ FIGURA 4.35 ¿Hacia adónde acelerarán? Véanse los
+ejercicios 72, 110 y 111.
+
+136 CAPÍTULO 4 Fuerza y movimiento
+73. EI ●● Se ata una cuerda por ambos extremos a dos árbo-
+les, y se cuelga una bolsa en su parte media, de manera
+que la cuerda se comba verticalmente. a) La tensión sobre
+la cuerda depende 1) únicamente de la separación de los
+árboles, 2) únicamente del combado, 3) tanto de la sepa-
+ración como del combado, o 4) ni de la separación ni del
+combado. b) Si la distancia entre los árboles es de 10 m, la
+masa de la bolsa es de 5.0 kg y el combado es de 0.20 m,
+¿qué tensión habrá en la cuerda?
+74.
+●● Un gimnasta de 55 kg pende verticalmente de un par
+de anillos paralelos. a) Si las cuerdas que sostienen los
+anillos están sujetas al techo directamente arriba, ¿qué
+tensión habrá en cada cuerda? b) Si las cuerdas están su-
+jetas de manera que forman un ángulo de 45 /H11034con el te-
+cho, ¿qué tensión habrá en cada cuerda?
+75. ●● El automóvil de un físico tiene un pequeño plomo
+suspendido de una cuerda sujeta al toldo. Partiendo del
+reposo, después de una fracción de segundo, el vehículo
+acelera a una tasa constante durante 10 s. En este tiempo,
+la cuerda (con el peso en su extremo) forma un ángulo
+hacia atrás (opuesto a la aceleración) de 15.0/H11034con respec-
+to a la vertical. Determine la aceleración del automóvil 
+(y la del peso) durante el intervalo de 10 s.
+76.
+●● Un niño ata con un cordel una masa ( m) de 50.0 g a 
+un carrito de juguete (masa M /H11005350 g). El cordel se hace
+pasar por encima del borde de una mesa mediante una
+polea sin fricción (ignore su masa y la del cordel) de ma-
+nera que el cordel quede horizontal. Suponiendo que el
+carrito tiene ruedas cuya fricción se ignora, calcule a) la
+aceleración del carrito y b) la tensión en el cordel.
+77.
+●● En los aeropuertos al final de la mayoría de las pistas
+de aterrizaje, se construye una extensión de la pista uti-
+lizando una sustancia especial llamada formcreto. Este ma-
+terial puede resistir el peso de automóviles, pero se des-
+morona bajo el peso de los aviones, para frenarlos si aún
+van rápido al final de la pista. Si un avión de masa 2.00 /H11003
+10
+5 kg debe detenerse desde una rapidez de 25.0 m/s so-
+bre un trecho de 100 m de largo de formcreto, ¿cuál será la
+fuerza promedio que ejerce el formcreto sobre el avión?
+78.
+●● Un rifle pesa 50.0 N y su cañón mide 0.750 de largo.
+Con él se dispara una bala de 25.0 g, que sale por el ca-
+ñón con una rapidez de 300 m/s, después de haber sido
+acelerada de manera uniforme. ¿Cuál es la magnitud de
+la fuerza que la bala ejerce sobre el rifle?
+79.
+●● Una fuerza horizontal de 40 N, que actúa sobre un blo-
+que en una superficie a nivel que no ejerce fricción, produ-
+ce una aceleración de 2.5 m/s 2. Un segundo bloque, con
+una masa de 4.0 kg, se deja caer sobre el primero. ¿Cuál es
+la magnitud de la aceleración de la combinación de blo-
+ques si la misma fuerza continúa actuando? (Suponga que
+el segundo bloque no se desliza sobre el primero.)
+80.
+●● La máquina Atwood consiste en dos masas suspendi-
+das de una polea fija, como se muestra en la Nfigura 4.36.
+Se le llama así por el científico británico George Atwood
+(1746-1807), quien la usó para estudiar el movimiento 
+y medir el valor de g. Si m
+1 /H110050.55 kg y m2 /H110050.80 kg, 
+a) ¿qué aceleración tiene el sistema y b) qué magnitud 
+tiene la tensión en el cordel?
+81. ●● Una máquina de Atwood (figura 4.36) tiene masas
+suspendidas de 0.25 y 0.20 kg. En condiciones ideales,
+¿qué aceleración tendrá la masa más pequeña?
+82.
+●●● Una masa, ml /H110050.215 kg, de una máquina de At-
+wood ideal (figura 4.36) descansa en el piso 1.10 m más
+abajo que la otra masa, m
+2 /H110050.255 kg. a) Si las masas se
+sueltan del reposo, ¿cuánto tardará m2 en llegar al piso?
+b) ¿A qué altura sobre el piso ascenderá m 1? [Sugerencia:
+cuando m2 choca contra el piso, m1 sigue moviéndose
+hacia arriba.]
+83. EI ●●● Dos bloques están conectados mediante un cor-
+del ligero y son acelerados hacia arriba por una fuerza
+F. La masa del bloque superior es de 50.0 kg; y la del
+bloque inferior, de 100 kg. La aceleración hacia arri-
+ba del sistema completo es de 1.50 m/s
+2. Ignore la masa
+del cordel. a) Dibuje el diagrama de cuerpo libre para
+cada bloque. Utilice los diagramas para determinar cuál
+de las siguientes expresiones es verdadera para la mag-
+nitud de la tensión T del cordel en comparación con otras
+fuerzas: 1) T /H11022w
+2 y T /H11021F; 2) T /H11022w2 y T /H11022F; 
+3) T /H11021w2 y T /H11021F, o 4) T /H11005w2 y T /H11021F. b) Aplique las 
+leyes de Newton para determinar el tirón F que se re-
+quiere. c) Calcule la tensión T en el cordel.
+84. ●●● En el dispositivo ideal sin fricción que se muestra en
+la ▼ figura 4.37, m1 /H110052.0 kg. Calcule m2 si ambas masas
+están en reposo. ¿Y si ambas masas se mueven con velo-
+cidad constante?
+m2g
+m1g m2
+m1
+a
+a
+T
+T
+m2
+m
+37°
+1
+▲ FIGURA 4.37 Máquina de Atwood inclinada Véanse los
+ejercicios 84, 85 y 112.
+▲ FIGURA 4.36 Máquina de Atwood Véanse los ejercicios
+80, 81 y 82.
+
+Ejercicios 137
+93. PC a) Solemos decir que la fricción se opone al movi-
+miento. Sin embargo, cuando caminamos, la fuerza de
+fricción es en la dirección de nuestro movimiento (figura
+4.17). ¿Hay alguna inconsistencia en términos de la se-
+gunda ley de Newton? Explique. b) ¿Qué efectos tendría
+el viento sobre la resistencia del aire? [Sugerencia: el vien-
+to puede soplar en diferentes direcciones.]
+94. PC ¿Por qué los neumáticos para arrancones son anchos y
+lisos, en tanto que los neumáticos de automóviles para pa-
+sajeros son más angostos y tienen surcos (
+▼ figura 4.39)?
+¿Se debe a consideraciones de fricción o de seguridad?
+¿Esta diferencia contradice el hecho de que la fricción es
+independiente del área superficial?
+▲ FIGURA 4.38 Fuerza de abatimiento Véase el ejercicio 92.
+85. ●●● En el dispositivo ideal de la figura 4.37, m1 /H110053.0 kg
+y m2 /H110052.5 kg. a) ¿Qué aceleración tienen las masas? 
+b) ¿Qué tensión hay en el cordel?
+86. ●●● Dos bloques están en contacto sobre una tabla nivelada
+y sin fricción. La masa del bloque izquierdo es de 5.00 kg y
+la masa del bloque derecho es de 10.0 kg; ambos aceleran
+hacia la izquierda a 1.50 m/s
+2. Una persona a la izquierda
+ejerce una fuerza (F1) de 75.0 N hacia la derecha. Otra perso-
+na ejerce una fuerza desconocida ( F2) hacia la izquierda. 
+a) Determine la fuerza F2. b) Calcule la fuerza de contacto N
+entre los dos bloques (esto es, la fuerza normal en sus su-
+perficies verticales en contacto).
+4.6 Fricción
+87. OM En general, la fuerza de fricción a) es mayor para 
+superficies lisas que para las ásperas, b) depende de la
+rapidez de deslizamiento, c) es proporcional a la fuerza
+normal o d) depende mucho del área de contacto.
+88. OM El coeficiente de fricción cinética, /H9262k: a) suele ser ma-
+yor que el de fricción estática, /H9262s; b) suele ser igual a /H9262s; 
+c) suele ser menor que /H9262s, o d) es igual a la fuerza apli-
+cada que excede la fuerza estática máxima.
+89. OM Un cajón está a la mitad de la plataforma de un ca-
+mión. El conductor acelera el camión gradualmente desde
+el reposo hasta una rapidez normal, pero luego tiene que
+detenerse súbitamente para evitar chocar contra un auto-
+móvil. Si el cajón se desliza conforme el camión se detie-
+ne, la fuerza de fricción a) estaría en la dirección hacia
+delante, b) estaría en la dirección hacia atrás, c) sería cero.
+90. PC Identifique la dirección de la fuerza de fricción en los
+siguientes casos: a) un libro que descansa en una mesa; 
+b) una caja que resbala por una superficie horizontal; 
+c) un coche que da vuelta en un camino plano; d) el movi-
+miento inicial de una pieza transportada por una banda
+sin fin de una línea de ensamble.
+91. PC El propósito de los frenos antibloqueo de un automó-
+vil es evitar que las ruedas se bloqueen; entonces, el coche
+seguirá rodando en vez de deslizarse. ¿Por qué el roda-
+miento habría de reducir la distancia de detención, en
+comparación con el deslizamiento?
+92. PC La 
+▼ figura 4.38 muestra las alas delantera y trasera
+de un automóvil de carreras Indy. Estas alas generan una
+fuerza de abatimiento: la fuerza vertical que el aire ejerce
+hacia abajo cuando se mueve sobre el vehículo. ¿Por qué
+es deseable tal fuerza? Un carro Indy puede generar una
+fuerza de abatimiento igual al doble de su peso. ¿Y por
+qué no simplemente hacer más pesados los coches?
+▲ FIGURA 4.39 Neumáticos para autos de carrera 
+y de pasajeros: seguridad Véase el ejercicio 94.
+95. EI ● Una caja de 20 kg descansa en una superficie hori-
+zontal áspera. Si se le aplica una fuerza horizontal de
+120 N, la caja acelera a 1.0 m/s
+2. a) Si se dobla la fuerza
+aplicada, la aceleración 1) aumentará, pero a menos del
+doble; 2) también aumentará al doble; o 3) aumentará a
+más del doble. ¿Por qué? b) Calcule la aceleración para
+demostrar su respuesta al inciso a.
+96. ● Al mover un escritorio de 35.0 kg de un lado de un sa-
+lón al otro, un profesor descubre que se requiere una
+fuerza horizontal de 275 N para poner el escritorio en
+movimiento, y una de 195 N para mantenerlo en movi-
+miento con rapidez constante. Calcule los coeficientes
+de fricción a) estática y b) cinética entre el escritorio y el
+piso.
+97.
+● Una caja de 40 kg está en reposo en una superficie ho-
+rizontal. Si el coeficiente de fricción estática entre la caja
+y la superficie es de 0.69, ¿qué fuerza horizontal se re-
+quiere para moverla?
+98.
+● Los coeficientes de fricción estática y cinética entre una
+caja de 50 kg y una superficie horizontal son 0.500 y
+0.400, respectivamente. a) ¿Qué aceleración tiene la caja
+si se le aplica una fuerza horizontal de 250 N? b) ¿Y si se
+aplican 235 N?
+99.
+●● Una caja de embalaje se coloca en un plano inclina-
+do de 20 /H11034. Si el coeficiente de fricción estática entre la 
+caja y el plano es de 0.65, ¿la caja se deslizará hacia abajo
+por el plano si se suelta desde el reposo? Justifique su
+respuesta.
+
+138 CAPÍTULO 4 Fuerza y movimiento
+▲ FIGURA 4.40 Un descenso Véase el ejercicio 104.
+100. ●● Un automóvil de 1500 kg viaja a 90 km/h por una ca-
+rretera recta de concreto. Ante una situación de emergen-
+cia, el conductor pone los frenos y el automóvil derrapa
+hasta detenerse. ¿En qué distancia se detendrá en a) pa-
+vimento seco y b) pavimento mojado, respectivamente?
+101.
+●● Un jugador de hockey golpea un disco ( puck) con su
+bastón y le imparte una rapidez inicial de 5.0 m/s. Si el
+puck desacelera uniformemente y se detiene en una dis-
+tancia de 20 m, ¿qué coeficiente de fricción cinética habrá
+entre el hielo y el disco?
+102.
+●● En su intento por mover un pesado sillón (cuya masa
+es de 200 kg) por un piso alfombrado, un hombre deter-
+mina que debe ejercer una fuerza horizontal de 700 N pa-
+ra lograr que el sillón apenas se mueva. Una vez que el
+sillón comienza a moverse, el hombre continúa empujan-
+do con una fuerza de 700 N, y su hija (una especialista en
+física) estima que entonces acelera a 1.10 m/s
+2. Determi-
+ne a) el coeficiente de fricción estática y b) el coeficiente
+de fricción cinética entre el sillón y la alfombra.
+103. EI ●● Al tratar de empujar un cajón por una superficie
+horizontal de concreto, una persona tiene que elegir entre
+empujarlo hacia abajo con un ángulo de 30° o tirar de él
+hacia arriba con un ángulo de 30°. a) ¿Cuál de las siguien-
+tes opciones es más probable que requiera de menos fuer-
+za por parte de la persona? 1) Empujar con un ángulo
+hacia abajo; 2) tirar con el mismo ángulo, pero hacia arri-
+ba, o 3) empujar el cajón o tirar de él es algo que no impor-
+ta. b) Si el cajón tiene una masa de 50.0 kg y el coeficiente
+de fricción cinética entre éste y el concreto es 0.750, calcule
+la fuerza requerida para moverlo a través del concreto con
+una rapidez constante para ambas situaciones.
+104.
+●● Suponga que las condiciones de la pendiente para el
+esquiador de la ▼ figura 4.40 son tales que el esquiador
+viaja a velocidad constante. ¿Con base en la fotografía
+podría usted calcular el coeficiente de fricción cinética
+entre la superficie nevada y los esquíes? Si la respuesta 
+es sí, describa cómo lo haría.
+106.
+●● Un bloque cúbico con una masa de 2.0 kg y 10 cm por
+lado comienza apenas a deslizarse por un plano inclinado
+de 30/H11034(
+▼ figura 4.41). Otro bloque de la misma altura y el
+mismo material tiene una base de 20 /H1100310 cm y, por lo tan-
+to, una masa de 4.0 kg. a) ¿Con qué ángulo crítico comenza-
+rá a deslizarse el bloque más masivo? ¿Por qué? b) Estime
+el coeficiente de fricción estática entre el bloque y el plano.
+107. ●● En el aparato de la ▼ figura 4.42, m1 /H1100510 kg y los coe-
+ficientes de fricción estática y cinética entre m1 y la tabla
+son 0.60 y 0.40, respectivamente. a) ¿Qué masa de m2
+pondrá al sistema en movimiento? b) Una vez que el sis-
+tema se empiece a mover, ¿qué aceleración tendrá?
+105. ●● Un bloque de madera de 5.0 kg se coloca en un plano
+inclinado de madera ajustable. a) ¿Más allá de qué án-
+gulo de inclinación el bloque comenzará a resbalar por 
+el plano? b) ¿A qué ángulo habría que ajustar entonces el
+plano para que el bloque se siguiera deslizando con ra-
+pidez constante?
+2.0 kg
+θ
+4.0 kg
+30˚ = ?
+▲ FIGURA 4.41 ¿Con qué ángulo comenzará a deslizarse?
+Véase el ejercicio 106.
+m1
+m2
+▲ FIGURA 4.42 Fricción y movimiento Véase el ejercicio 107.
+108. ●● Al cargar un camión de reparto de pescado, una per-
+sona empuja un bloque de hielo hacia arriba sobre un
+plano inclinado a 20° con rapidez constante. La fuerza de
+empuje tiene una magnitud de 150 N y es paralela al pla-
+no inclinado. El bloque tiene una masa de 35.0 kg. a) ¿El
+plano no ejerce fricción? b) Si el plano sí ejerce fricción,
+¿cuál será la fuerza de fricción cinética sobre el bloque 
+de hielo?
+109.
+●●● Un objeto, cuya masa es de 3.0 kg, se desliza hacia
+arriba por un muro vertical a velocidad constante, cuando
+una fuerza F de 60 N actúa sobre él a un ángulo de 60° con
+respecto a la horizontal. a) Dibuje un diagrama de cuerpo
+libre para el objeto. b) Con base en las leyes de Newton,
+determine la fuerza normal sobre el objeto. c) Determine
+la fuerza de fricción cinética sobre el objeto.
+1
+10. ●●● Para el dispositivo de la figura 4.35, ¿qué valor mí-
+nimo del coeficiente de fricción estática entre el bloque
+(m
+3) y la mesa mantendría el sistema en reposo si m1 /H11005
+0.25 kg, m2 /H110050.50 kg y m3 /H110050.75 kg?
+111. ●●● Si el coeficiente de fricción cinética entre el bloque 
+y la mesa de la figura 4.35 es de 0.560, y m1 /H110050.150 kg y
+m2 /H110050.250 kg, a) ¿qué valor de m3 mantendría al sistema
+en movimiento con rapidez constante? b) Si m3 /H110050.100 kg,
+¿qué magnitud tendría la aceleración del sistema?
+
+Ejercicios 139
+112. ●●● En el dispositivo de la figura 4.37, m1 /H110052.0 kg y los
+coeficientes de fricción estática y cinética entre m1 y el
+plano inclinado son 0.30 y 0.20, respectivamente. a) ¿Qué
+valor tiene m2 si ambas masas están en reposo? b) ¿Y si se
+mueven con velocidad constante?
+Ejercicios adicionales
+113. EI Un bloque (A, cuya masa es de 2.00 kg) está en reposo
+encima de otro (B, cuya masa es de 5.00 kg) sobre una su-
+perficie horizontal. La superficie es una banda eléctrica
+que acelera hacia la derecha a 2.50 m/s
+2. B no se desliza
+sobre la superficie de la banda, ni A se desliza sobre la
+superficie de B. a) Dibuje un diagrama de cuerpo libre
+para cada bloque. Utilice estos diagramas para determi-
+nar la fuerza responsable de la aceleración de A. Indique
+cuál de las siguientes opciones constituye esa fuerza: 
+1) el tirón de la banda, 2) la fuerza normal sobre A que
+ejerce la superficie de B, 3) la fuerza de fricción estática
+en la base de B o 4) la fuerza de la fricción estática que 
+actúa sobre A y que se debe a la superficie de B. b) Deter-
+mine las fuerzas de fricción estática en cada bloque.
+114. Al mover una caja cuya masa es de 75.0 kg hacia abajo,
+por una rampa resbaladiza (pero que ejerce cierta fric-
+ción) y con una inclinación de 20°, un trabajador se da
+cuenta de que debe ejercer una fuerza horizontal de 200 N
+para impedir que la caja acelere por la rampa. a) Deter-
+mine la fuerza normal N sobre la caja. b) Determine el
+coeficiente de fricción cinética entre la caja y la rampa
+móvil.
+115. Dos bloques (A y B) se mantienen unidos mientras una
+fuerza F /H11005200 N los jala hacia la derecha (
+▼ figura 4.43).
+B está sobre la cubierta áspera y horizontal de una mesa
+(con coeficiente de fricción cinética de 0.800). a) ¿Cuál 
+será la aceleración del sistema? b) ¿Cuál será la fuerza 
+de fricción entre los dos objetos?
+T2 T1
+u u
+▲ FIGURA 4.44 Alcen el bote Véase el ejercicio 118.
+B
+F = 200 N
+A
+mA = 5.00 kg
+mB = 10.0 kg
+▲ FIGURA 4.43 Arrastre de dos bloques
+Véase el ejercicio 115.
+116. Un cohete de juguete de dos secciones se lanza vertical-
+mente desde el reposo. Mientras las dos secciones están
+juntas, los motores del cohete que se encuentran en la
+sección inferior ejercen una fuerza hacia arriba de 500 N.
+La sección superior (cono de nariz) tiene una masa ( m)
+de 2.00 kg y la sección inferior tiene una masa ( M) de
+8.00 kg. a) Dibuje el diagrama de cuerpo libre para cada
+sección y determine si en los dos diagramas hay fuerzas
+que constituyen un par de acción-reacción. Si es así, in-
+dique cuáles son. (Podría haber más de un par.) b) Calcu-
+le la aceleración del cohete. c) Determine la fuerza de
+contacto entre las dos secciones (es decir, la fuerza nor-
+mal hacia arriba que ejerce la sección inferior sobre la
+sección superior).
+117. Un bloque ( M) de 5.00 kg sobre un plano con 30° de in-
+clinación está conectado con una cuerda ligera, me-
+diante una polea que no ejerce fricción, a una masa des-
+conocida, m. El coeficiente de fricción cinética entre el
+bloque y el plano inclinado es 0.100. Cuando el sistema
+se libera desde el reposo, la masa m acelera hacia arriba
+a 2.00 m/s
+2. Determine a) la tensión de la cuerda y b) el
+valor de m.
+118. EI Al sacar un bote del agua para guardarlo durante el
+invierno, la instalación de almacenamiento utiliza una
+correa ancha formada de cables que operan en el mismo
+ángulo (medidos con respecto a la horizontal) en ambos
+lados del bote ( ▼ figura 4.44). a) Conforme el bote sube
+verticalmente y /H9258decrece, la tensión en los cables 1) au-
+menta, 2) disminuye, 3) permanece igual. b) Determine la
+tensión en cada cable, si el bote tiene una masa de 500 kg,
+el ángulo de cada cable es de 45 /H11034con respecto a la hori-
+zontal y el bote se sostiene momentáneamente en reposo.
+Compare este resultado con la tensión cuando el bote se
+eleva y se sostiene en reposo de manera que el ángulo
+sea de 30/H11034.
+Los siguientes problemas Physlet de física pueden utilizarse con este capítulo.
+4.1, 4.2, 4.3, 4.4, 4.5, 4.6, 4.7, 4.8, 4.9, 4.10, 4.11, 4.13, 5.1, 5.2, 5.3, 5.4, 5.5,
+5.6, 5.7
+
+5.1 Trabajo efectuado 
+por una fuerza 
+constante 141
+5.2 Trabajo efectuado 
+por una fuerza 
+variable 145
+5.3 El teorema 
+trabajo-energía: 
+energía cinética 148
+5.4 Energía potencial 152
+5.5 Conservación 
+de la energía 155
+5.6 Potencia 164
+CAPÍTULO 
+5
+U
+na descripción del salto con pértiga (garrocha), como se muestra en la
+imagen, sería: un atleta corre con una pértiga, la planta en el suelo e inten-
+ta empujar su cuerpo por arriba de una barra colocada a cierta altura. Sin
+embargo, un físico podría dar una descripción distinta: el atleta tiene energía po-
+tencial química almacenada en su cuerpo. Usa tal energía potencial para efectuar
+trabajo al correr por la pista para adquirir velocidad, es decir, energía cinética.
+Cuando planta la pértiga, casi toda su energía cinética se convierte en energía 
+potencial elástica de la pértiga flexionada. Esta energía potencial se utiliza para 
+levantar al atleta, es decir, efectuar trabajo contra la gravedad, y se convierte par-
+cialmente en energía potencial gravitacional. En el punto más alto apenas queda
+suficiente energía cinética para llevar al saltador sobre la barra. Durante la caída,
+la energía potencial gravitacional se convierte otra vez en energía cinética, que el
+colchón absorbe al efectuar trabajo para detener la caída. El saltador participa en
+un juego de toma y daca de trabajo-energía.
+Este capítulo se enfoca en dos conceptos que son muy importantes tanto en la
+ciencia como en la vida cotidiana: trabajo y energía. Comúnmente pensamos en el
+trabajo como algo relacionado con hacer o lograr algo. Puesto que el trabajo nos
+cansa físicamente (y a veces mentalmente), hemos inventado máquinas y disposi-
+tivos para reducir el esfuerzo que realizamos personalmente. Cuando pensamos
+en energía se nos viene a la mente el costo del combustible para transporte y cale-
+facción, o quizá los alimentos que proporcionan la energía que nuestro cuerpo ne-
+cesita para llevar a cabo sus procesos vitales y trabajar.
+Aunque estas nociones no definen realmente el trabajo ni la energía, nos
+guían en la dirección correcta. Como seguramente habrá usted adivinado, el tra-
+bajo y la energía están íntimamente relacionados. En física, como en la vida coti-
+diana, cuando algo tiene energía, puede efectuar trabajo. Por ejemplo, el agua que
+se precipita por las compuertas de una presa tiene energía de movimiento, y esta
+HECHOS DE FÍSICA
+TRABAJO Y ENERGÍA
+140
+• La palabra cinética proviene del griego kinein,
+que significa “moverse”.
+• Energía proviene del griego energeia, que
+significa “actividad”.
+• Estados Unidos tiene el 5% de la población
+mundial, pero consume el 26% de la produc-
+ción de energía.
+• Reciclar el aluminio requiere un 95% menos
+de energía que fabricarlo a partir de materia
+prima.
+• El cuerpo humano funciona dentro de los lími-
+tes impuestos por la ley de la conservación de
+la energía total, pues requiere obtener energía
+de los alimentos en igual cantidad que la ener-
+gía que gasta en el trabajo externo que impli-
+can las actividades diarias, las actividades in-
+ternas y las pérdidas de calor del sistema.
+• La tasa de metabolismo basal (TMB) es una
+medida de la tasa a la que el cuerpo humano
+gasta energía. Un hombre promedio de 70 kg
+requiere aproximadamente 7.5 /H1100310
+6 J de
+energía basal al día, para vivir y realizar las
+funciones básicas (como la respiración, la
+circulación de la sangre y la digestión). Cual-
+quier tipo de ejercicio requiere más energía
+(por ejemplo, subir las escaleras requiere de
+4.6 /H1100310
+6 J adicionales por hora).
+• El cuerpo humano utiliza los músculos para
+propulsarse, convirtiendo la energía alma-
+cenada en movimiento. Hay 630 músculos
+activos en el cuerpo humano que actúan en
+grupos.
+Fuente:Harold E. Edgerton/©Harold & Esther Edgerton Foundation, 2002, cortesía de Palm Press, Inc.
+
+5.1 Trabajo efectuado por una fuerza constante 141
+Nota: el producto de dos 
+vectores (fuerza y desplazamiento)
+en este caso es un tipo especial 
+de multiplicación de vectores y
+produce una cantidad escalar 
+igual a (F cos /H9258)d. Así, el trabajo 
+es un escalar: no tiene dirección.
+Sin embargo, sí puede ser positivo,
+cero o negativo, dependiendo 
+del ángulo.
+energía permite al agua efectuar el trabajo de impulsar una turbina o un dínamo para
+generar electricidad. En cambio, es imposible efectuar trabajo sin energía.
+La energía existe en varias formas: hay energía mecánica, química, eléctrica, calo-
+rífica, nuclear, etc. Podría haber una transformación de una forma a otra; pero se con-
+serva la cantidad total de energía, es decir, nunca cambia. Esto es lo que hace tan útil
+el concepto de energía. Cuando una cantidad que puede medirse físicamente se con-
+serva, no sólo nos permite entender mejor la naturaleza, sino que casi siempre nos
+permite enfrentar problemas prácticos desde otro enfoque. (El lector conocerá otras
+cantidades que se conservan al continuar su estudio de la física.)
+5.1 Trabajo efectuado por una fuerza constante
+OBJETIVOS: a) Definir trabajo mecánico y b) calcular el trabajo efectuado en di- 
+versas situaciones.
+Usamos comúnmente la palabra trabajo de diversas maneras: vamos al trabajo, trabaja-
+mos en proyectos, trabajamos en nuestro escritorio o con computadoras, trabajamos en
+problemas. Sin embargo, en física trabajo tiene un significado muy específico. Mecáni-
+camente, el trabajo implica fuerza y desplazamiento, y usamos la palabra trabajo para
+describir cuantitativamente lo que se logra cuando una fuerza mueve un objeto cierta
+distancia. En el caso más sencillo de una fuerza constante que actúa sobre un objeto, el
+trabajo se define como sigue:
+El trabajo efectuado por una fuerza constante que actúa sobre un objeto es
+igual al producto de las magnitudes del desplazamiento y el componente de la
+fuerza paralelo a ese desplazamiento.
+De manera que trabajo implica una fuerza que actúa sobre un objeto que se mueve
+cierta distancia. Podría aplicarse una fuerza, como en la 
+▼ figura 5.1a, pero si no hay 
+movimiento (no hay desplazamiento), no se efectúa trabajo. Para una fuerza constante F que
+actúa en la misma dirección que el desplazamiento d (figura 5.1b), el trabajo (W) se defi-
+ne como el producto de sus magnitudes:
+W /H11005Fd (5.1)
+y es una cantidad escalar. (Como cabría esperar, cuando se efectúa trabajo en la figura
+5.1b, se gasta energía. Veremos la relación entre trabajo y energía en la sección 5.3.)
+En general, lo único que efectúa trabajo es una fuerza, o componente de fuerza, 
+paralela a la línea de movimiento o desplazamiento del objeto (figura 5.1c). Es decir, si
+la fuerza actúa con un ángulo /H9258con respecto al desplazamiento del objeto, F
+« /H11005F cos /H9258
+d /H11005 0
+a) b) c)
+d
+1 /H11005 F cos
+=
+d
+F F
+F
+F
+F /H11005 F sen u
+u
+u
+u
+▼ FIGURA 5.1 Trabajo efectuado por una fuerza constante: el producto de las 
+magnitudes del componente paralelo de la fuerza y el desplazamiento a) Si no 
+hay desplazamiento, no se efectúa trabajo: W /H110050. b) Para una fuerza constante en la 
+dirección del desplazamiento, W /H11005Fd. c) Para una fuerza constante angulada respecto 
+al desplazamiento, W /H11005(F cos /H9258)d. 
+El trabajo implica fuerza y
+desplazamiento
+
+w
+d /H11005 3.0 m
+▲ FIGURA 5.2 El trabajo mecánico
+requiere movimiento Véase el
+ejemplo 5.1.
+142

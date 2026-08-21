@@ -68,11 +68,18 @@ mínima, para que una futura migración a RAG sea un cambio localizado:
 2. **Almacenamiento** — `context/`: hoy archivos de texto plano. En el futuro, una base
    vectorial (Chroma, FAISS, pgvector, etc.).
 3. **Selección de contexto** — `app/context_selector.py`, función
-   `select_context(question: str) -> str`. Hoy: coincidencia simple de palabras clave
-   (naive keyword matching) entre la pregunta y cada archivo de `context/`, con un
-   presupuesto máximo de caracteres (`MAX_CONTEXT_CHARS`). En el futuro: embeddings +
-   búsqueda por similitud semántica. **La firma de la función no cambia**, por lo que
-   `main.py` no requiere modificaciones al migrar.
+   `select_context(question: str) -> str`. Hoy: TF-IDF simplificado (sin embeddings)
+   entre la pregunta y cada archivo de `context/` — frecuencia de la palabra en el
+   archivo, ponderada por qué tan poco frecuente es esa palabra en el resto del
+   corpus — con un presupuesto máximo de caracteres (`MAX_CONTEXT_CHARS`) y un score
+   mínimo (`MIN_CONTEXT_SCORE`) por debajo del cual se considera que no hay contexto
+   relevante (ver docs/TEMARIO.md para el detalle y la calibración). En el futuro:
+   embeddings + búsqueda por similitud semántica. **La firma de la función no
+   cambia**, por lo que `main.py` no requiere modificaciones al migrar.
+   Costo actual: relee y retokeniza todo `context/` en cada consulta (~100 archivos,
+   ~10MB), del orden de algunos cientos de ms — aceptable frente a la latencia del
+   proveedor LLM, pero es lo primero que degradaría si el corpus sigue creciendo
+   mucho más.
 4. **Comunicación con el LLM** — `app/providers/`: ya desacoplada de la selección de
    contexto y de la extracción documental; no requiere cambios para RAG.
 
@@ -129,7 +136,14 @@ tag nuevo automáticamente — no hay que tocar ningún HTML.
   limiting; deberá revisarse antes de una exposición pública amplia (posible fase con
   autenticación o proxy desde WordPress).
 - Rate limiting in-memory no escala a múltiples instancias del backend.
-- Selección de contexto naive puede no encontrar el fragmento más relevante, o
-  seleccionar contenido parcialmente relevante; se resolverá con embeddings en la fase RAG.
+- Selección de contexto naive (TF-IDF simplificado, no semántico) puede no
+  encontrar el fragmento más relevante dentro de un archivo grande, o rechazar por
+  el umbral mínimo una pregunta que sí está cubierta pero con vocabulario distinto
+  al del material (falso negativo) — se prefirió explícitamente ese error al
+  opuesto (responder sin respaldo documental). Se resolverá con embeddings en la
+  fase RAG.
+- `MIN_CONTEXT_SCORE` se calibró a mano contra el corpus actual (~100 archivos);
+  agregar o quitar mucho material de `context/` puede correr el punto de corte y
+  requerir recalibrarlo (ver docs/TEMARIO.md).
 - Dependencia de la cuota gratuita de un único proveedor a la vez; el desacoplamiento
   permite cambiar rápido, pero no hay failover automático en esta fase.

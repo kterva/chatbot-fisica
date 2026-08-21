@@ -1,0 +1,1584 @@
+Tema: Conservación del momento angular (Capítulo 10 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+286 | Capítulo 10 Conservación del momento angular 
+Figura 10.2 (a) Cuando los dedos de la mano 
+derecha siguen el sentido de la rotación, el pulgar 
+extendido apunta en la dirección de w. (b) Esta 
+dirección coincide también con el avance de un 
+tornillo ordinario. 
+Figura 10.3 
+Figura 10.4 
+(b) 
+sideremos, por ejemplo, el disco rotatorio de la figura 10.1. Determinaremos el sentido de w% 
+por una convención conocida como la regla de la mano derecha, lo cual se ilustra en la 
+figura 10,2. Así, si la rotación tiene el sentido que muestra la figura 10.1, œ tendrá el sentido 
+indicado; si se invierte el sentido de la rotación, también lo hace el sentido de o. 
+Podemos aplicar consideraciones semejantes al momento de una fuerza. La figura 10.3 
+muestra una fuerza F que actúa sobre una partícula en cierta posición r relativa al origen O. 
+El momento 7 ejercido por esta fuerza respecto al origen O se define como un vector perpen- 
+dicular al plano formado por F y r, de módulo Fr sen @, en donde @ es el ángulo formado por 
+F y r. (El ángulo entre dos vectores es el ángulo entre las direcciones de los dos vectores.) Si 
+F y r están en el plano xy, como en la figura 10.3, el vector momento tiene la dirección del 
+eje z. Si F está aplicada en el borde de un disco de radio r, como muestra la figura 10.4, el 
+momento tiene la magnitud Fr, y está dirigido a lo largo del eje de rotación como se indica. 
+Producto vectorial 
+El momento se expresa matemáticamente como el producto vectorial de r y F: 
+TSE ION (10.1) 
+El producto vectorial de dos vectores A y B se define como un vector C = A X B cuyo 
+módulo es igual al área del paralelogramo formado por los dos vectores (figura 10.5) y cuya 
+dirección es perpendicular al plano que contiene A y B, con el sentido dado por la regla de la 
+mano derecha cuando A gira hacia B recorriendo el ángulo más pequeño que forman ambos 
+vectores (figura 10.6). Si @ es el ángulo entre los dos vectores y n un vector unitario perpen- 
+dicular a cada uno de ellos en el sentido de C, el producto vectorial de A y B es 
+AxB=ABsenón (10,2) 
+DEFINICIÓN —PRODUCTO VECTORIAL 
+C=AxB 
+A 
+Figura 10.6 La dirección de 
+Figura 10.5 El producto vectorial A x B A X B viene dada por la regla de 
+es un vector C perpendicular tanto a A la mano derecha cuando los 
+como a B y de módulo AB sen @, que es dedos giran desde A hacia B a lo 
+igual al área del paralelogramo indicado. largo del ángulo 6.
+
+Si A y B son paralelos, A X B es cero. A partir de la definición del producto vectorial se 
+deduce que 
+AXA=0 (10.3) 
+y 
+AXB=-BxXA (10.4) 
+Debe señalarse especialmente que es importante el orden en que se multiplican los dos vec- 
+tores. A continuación mencionaremos algunas de la propiedades del producto vectorial de 
+dos vectores: 
+1. El producto vectorial cumple la ley distributiva de la suma: 
+AXx(B+C)=(A Xx B)+(A x C) (10.5) 
+2. Si A y B son funciones de alguna variable tal como z, la derivada de A X B se obtiene 
+mediante la regla normal para las derivadas de los productos: 
+d = dB) (dA q (A xB) = (Ax allo x B) 
+3. Los vectores unitarios i, j y k (figura 10.7), mutuamente perpendiculares, tienen pro- 
+ductos vectoriales dados por 
+ixjek, | s2ek=i kxi=j (10.7a) 
+Además 
+ixi=jxj=kxk=0 (10.7b) 
+10.2 Momento angular 
+La figura 10.8 muestra una partícula de masa m que se mueve con velocidad v en una posi- 
+ción r relativa al origen O. El momento lineal de las partículas es p = mv. El momento 
+angular L de la partícula respecto al origen O se define como el producto vectorial de r y p: 
+L=rxp (10.8) 
+DEFINICION —MOMENTO ANGULAR DE UNA PARTICULA 
+Si r y p se encuentran en el plano xy, como en la figura 10.8, entonces L es paralelo al eje z 
+y viene dado por L =r X p = mvr sen @ k. Lo mismo que el momento de una fuerza, el 
+momento angular de define respecto a un punto del espacio. 
+La figura 10.9 muestra una partícula de masa m ligada a un disco circular de masa des- 
+preciable que está en el plano xy con su centro en el origen. El disco gira alrededor de su eje 
+con velocidad angular œ. La velocidad v de la partícula y el módulo de su velocidad angular 
+æ vienen relacionados por la expresión v = rw. El momento angular de la partícula respecto 
+al centro del disco es 
+L=r X p=r X mv = rmv sen 90° k = rmyk = m? ak = mro 
+El vector momento angular posee la misma dirección y sentido que la velocidad angular. 
+Como m1? es el momento de inercia de una sola partícula respecto al eje z, resulta: 
+L = mw = lw 
+Este resultado no es válido para el momento angular alrededor de un punto cualquiera del 
+eje z. La figura 10.10 muestra el vector momento angular L’ para la misma partícula ligada 
+en el mismo disco, pero referido a un punto del eje z que no coincide con el centro del cír- 
+culo. En este caso, el momento angular no es paralelo a la velocidad angular œ, la cual está 
+dirigida a lo largo del eje z. 
+10.2 Momento angular 
+Figura 10.7 
+Figura 10.8 
+Figura 10.9 
+287
+
+288 Capítulo 10 Conservación del momento angular 
+Figura 10.10 Figura 10.11 
+En la figura 10.11 hemos añadido una segunda partícula de igual masa que se mueve en 
+el mismo disco. Los vectores momento angular Li y L; están representados respecto al 
+mismo punto O”. El momento angular total Lí + L; del sistema formado por las dos partícu- 
+las es de nuevo paralelo a la velocidad angular w. En este caso, el eje de rotación, el eje z, 
+pasa a través del centro de masas del sistema de las dos partículas, y la distribución de masa 
+es simétrica respecto a este eje, que se denomina eje de simetría. Para cualquier sistema de 
+partículas que gira alrededor de un eje de simetría, el momento angular total (que es la suma 
+de los momentos angulares de las partículas individuales) es paralelo a la velocidad angular 
+y viene dado por 
+L=/0w (10.9) 
+MOMENTO ANGULAR DE UN SISTEMA QUE GIRA ALREDEDOR DE UN EJE DE SIMETRÍA 
+EJEMPLO 10.1 | Momento angular respecto al origen 
+Determinar el momento angular respecto al origen en las siguientes situaciones. (a) Un coche 
+de masa 1200 kg se mueve en un círculo de 20 m de radio con velocidad de 15 m/s. El círculo se 
+halla en el plano xy, centrado en el origen. Mirado desde un punto situado en la parte positiva 
+del eje z, el coche se mueve en sentido antihorario. (b) El mismo coche se mueve con velocidad 
+y =-(15 m/s)i a lo largo de la línea y = yy = 20 m en el plano xy paralela al eje x. (c) Un disco en 
+el plano xy de radio 20 m y masa 1200 kg gira con la velocidad angular de 0,75 rad/s alrededor 
+de su eje, que es el eje z. Visto desde un punto situado en la parte positiva del eje z, el disco se 
+mueye en sentido antihorario. 
+Planteamiento del problema En los apartados (a) y (b) úsese la relación L =r X p. En el 
+apartado (c) úsese L = /o». Para determinar la dirección de L, representar gráficamente los vectores p 
+y r y aplicar la regla de la mano derecha. 
+(a) ry p son perpendiculares yr xp L =r Xp = rmv sen 90” k 
+posee la dirección z positiva = (20 m)(1200 kg)(15 m/s)k 
+(figura 10.12): 
+3 =13,6x 105 kg - m?/s k 
+= Figura 10.12
+
+10.2 Momento angular | 289 
+xi+yj = xi + 0 
+p = my = -mvi 
+(b) 1. El mismo coche se mueve en 
+el sentido decreciente de x a 
+lo largo de la línea y = yp = 20 
+m. Expresamos r y p en fun- 
+ción de los valores unitarios: 
+2. Calcular r x p (figura 10.13); L =r Xp = (xi+yoj) X (—mvi) 
+= —xmv(i x i)—ygmv(j x i) 
+= 0—ypmv(—k) = yomvk 
+= (20 m)(1200 kg)(15 m/s)k 
+=|3,6 x 10° kg - m?/s k 
+lo = lok = imR? ok 
+Figura 10.13 
+(c) Utilizar L = Je (figura 10.14): L 
+3(1200 kg)(20 m)?(0,75 rad/s)k 
+=|1,8 x 105 kg - m?/s k 
+Figura 10.14 
+Observación El momento angular del coche que se mueve en círculo en (a) coincide con el del 
+coche que se mueve en línea recta en (b). En (c), la velocidad de un punto en el borde del disco es 
+v = Ræ = (20 m)(0,75 rad/s) = 15 m/s, es decir, la misma que posee el coche en los apartados (a) y 
+(b). El momento de inercia de un disco de 1200 kg, de radio 20 m, es menor que el de un coche de 
+1200 kg a 20 m del eje porque gran parte de la masa del disco está más próxima al eje de rotación. 
+| Hay varios resultados adicionales que se refieren al momento y al momento angular de 
+un sistema de particulas. El primero de ellos es 
+z SR (10.10) 
+El momento externo neto que actúa sobre un sistema es igual a la tasa de cambio del 
+momento angular del sistema, 
+SEGUNDA LEY DE NEWTON PARA EL MOVIMIENTO DE ROTACIÓN 
+En la ecuación 10.10 el momento externo neto es el vector suma de los momentos externos 
+que actúan sobre el sistema. Si se integran los dos términos de esta ecuación con respecto del 
+tiempo se obtiene 
+AL = [i treto ext (10.11) 
+ECUACION IMPULSO ANGULAR — MOMENTO ANGULAR
+
+290 | Capítulo 10 Conservación del momento angular 
+Lorbital 
+Figura 10.15 El momento angular de la Tierra 
+respecto al centro del Sol es la suma del momento 
+angular de espín y el momento angular orbital. 
+Figura 10.16 
+A menudo es útil dividir el momento angular total de un sistema alrededor de un punto 
+arbitrario O en el momento angular orbital y el momento angular de espín: 
+ARES PA A (10.12) sist espín 
+La Tierra tiene un momento angular de espín debido al movimiento de rotación alrededor de 
+su eje y un momento angular de rotación orbital respecto del centro del Sol debido a su 
+movimiento orbital alrededor de éste (figura 10,15). El momento angular total de la Tierra 
+relativo al Sol es el vector suma del momento angular de espín y del momento angular orbi- 
+tal. Lo pin es el momento angular de un sistema alrededor de su centro de masas y L ¿pa es el 
+momento angular de una partícula puntual de masa M localizada en el centro de masas del 
+objeto y que se mueve a la velocidad que tendría el centro de masas. Es decir 
+L órbita = Fem x MY on, ( 10.1 3) 
+En el capitulo 9 los momentos no se calcularon respecto de puntos sino respecto de ejes. La 
+relación entre el momento respecto a un eje y el momento respecto a un punto es directa. Si el 
+punto O es el origen y una fuerza F ejerce un momento 7 respecto de O, entonces el momento 
+correspondiente ejercido respecto del eje z es T, (la componente z de 7). Tratar con las compo- 
+nentes de un producto vectorial requiere un cuidado especial. Sit =r x F, entonces 
+ET e Es (10.14) 
+MOMENTO RESPECTO DEL EJE Z 
+en donde 7., rag Y F,, (véase la figura 10.16) son las componentes de los vectores de 7, r, y 
+F. (La componente en una dirección determinada es la componente escalar en esa dirección 
+por el vector unitario en la misma dirección. Por ejemplo, 7. = 7,k.) r,ag es la componente de 
+r dirigida radialmente desde el eje z hacia el punto donde está la masa y F,, es la compo- 
+nente de F en el plano xy (el plano perpendicular al eje z). La relación entre el momento 
+angular respecto de un eje y el momento angular respecto de un punto es también directa. El 
+momento angular respecto de un eje es 
+(10.15) L- = Fad X Pry 
+MOMENTO ANGULAR RESPECTO DEL EJE Z 
+en donde p, es la proyección del momento lineal p en el plano xy. Tomando las componen- 
+tes z en ambos términos de la ecuación 10.10 nos da 
+dL. eae (10.16) neto ext,z 7 dt 
+> 
+Si un objeto rígido gira alrededor del eje z, Liz = /.@, donde /. es el momento de inercia 
+alrededor del eje z. Sustituyendo esta relación en la ecuación 10.16 da 
+dió 
+neto ext. = dt T = dele) = Le (10.17) 
+te 
+en donde el vector aceleración angular æ se define como & = dux/dt. (La ecuación 10.17 es la 
+forma vectorial de la ecuación 9.18.) 
+En un sistema de particulas, el momento angular total respecto del eje z es igual a la 
+suma de los momentos angulares respecto del eje z de las particulas individuales. Asimismo, 
+el momento total respecto del eje z es la suma de los momentos respecto del eje z que actúan 
+sobre el sistema.
+
+EJEMPLO 10.2 | La maquina de Atwood revisada 
+Una máquina de Atwood posee dos bloques de masa m, y m, (m > m>) conectados por una 
+cuerda de masa despreciable que pasa por una polea que carece de rozamiento. La polea es un 
+disco uniforme de masa M y radio R. La cuerda no desliza por la polea. Aplicar la ecuación 
+10.16 al sistema formado por los dos bloques, la cuerda y la polea para determinar la acelera- 
+ción angular de ésta, así como la aceleración lineal de los bloques. 
+Planteamiento del problema Consideramos la polea y los bloques en el plano xy, con el eje z 
+hacia fuera de la página y pasando por el centro de la polea en el punto O, como se muestra en la 
+figura 10.17. Calculamos los momentos de las fuerzas y los momentos angulares respecto al eje z y 
+aplicamos la segunda ley de Newton para el movimiento angular (ecuación 10.10), Como m) es 
+mayor que mh, el disco girará en sentido contrario a las agujas del reloj, lo que corresponde a un sen- 
+tido de œ en la dirección z positiva hacia fuera de la pagina. Todas las fuerzas están en el plano xy, de 
+modo que todos los momentos están dirigidos a lo largo del eje z. También las velocidades se hallan 
+en el plano xy, por lo que todos los vectores momento angular también tienen la dirección de z. 
+Como los momentos de las fuerzas, la velocidad angular y los momentos angulares son todos ellos 
+vectores dirigidos a lo largo del eje z, podemos olvidar su naturaleza vectorial y tratar el problema 
+como si fuera unidimensional, con valor positivo asignado al movimiento antihorario y negativo al 
+movimiento horario. La aceleración a de los bloques está relacionada con la aceleración angular @ 
+de la polea por la condición no deslizante a = Raz. 
+1. 
+Observación 
+Dibujar un esquema de las fuerzas que actúan sobre el sistema (figura 
+10.18). Los cojinetes de la polea son los únicos elementos externos 
+que están en contacto con el sistema. Las fuerzas externas sobre el sis- 
+tema son pues, la fuerza normal de los cojinetes de la polea en la polea 
+y la fuerza de la gravedad sobre los dos bloques y la polea. 
+Expresar la componente z de la segunda ley de Newton para la rotación 
+(ecuación 10.16): 
+El momento externo total respecto del eje z es la suma de los momen- 
+tos ejercidos por las fuerzas externas. Los brazos de palanca de F, y de 
+F, cada uno coinciden con R. (Los brazos de palanca de las otras dos 
+fuerzas son cero.) F; = mg y Fy = mg: 
+El momento angular total respecto del eje z es igual al momento angu- 
+lar de la polea L, más el momento angular del bloque 1, £,, y del blo- 
+que 2, L, ambos en la dirección positiva del eje z. La polea tiene 
+momento angular de espín pero no tiene momento angular orbital, 
+mientras que cada bloque tiene momento angular orbital pero no tiene 
+momento angular de espín. 
+Sustituir estos resultados en la segunda ley de Newton para la rotación 
+del paso 2. 
+Relacionar 7 con M y R y usar la condición de ausencia de rozamiento 
+para relacionar @ con a y despejar a y œ: 
+> Texto = dt 
+>; Texte = Ft Tot Ty + Fy 
+0+0+m,gR—m,gR 
+L.=L,+L,+L, 
+= 1@+m,vR+mvR 
+dL 
+AA = =e 
+m¡gR=m>gR = E 10+myR +m vR) 
+mgR—m,gR = 10+(m, + m,)Ra 
+10.2 Momento angular | 291 
+Figura 10.17 
+Figura 10.18 
+mıgR-m gR = 1MR? pt lim +m) Ra 
+por lo tanto 
+a =|(m; —m3)g/(+ M +m; +m>)l, y 
+Gi=,a(Ri= 
+=|(m,—my)g/[(5 M +m, + m3)R] 
+1. Este problema puede resolverse también escribiendo las tensiones 7; a la izquierda 
+y T, a la derecha y utilizando t= Jo para la polea (ecuación 10.17), así como Y F y = ma, en cada blo- 
+que. Sin embargo, el uso del momento angular (ecuación 10.16) es más fácil, ya que una vez se ha des- 
+pejado la aceleración, la obtención de las dos tensiones es directa. 2. Como Ly = ry X mov) (figura 
+10.19), la dirección de L, se obtiene aplicando la regla de la mano derecha (figura 10.6). Además, como 
+7 = r, X E) (figura 10.19), la dirección de 7, se obtiene también a partir de la regla de la mano derecha. Figura 10.19
+
+292 | Capítulo 10 Conservación del momento angular 
+do 
+y 
+A pe- 
+L 
+(b) 
+Figura 10.21 
+En muchos problemas, las fuerzas, vectores posición y velocidades son todos paralelos a 
+un plano, de modo que los momentos, velocidades angulares y momentos angulares son 
+todos magnitudes vectoriales dirigidas a lo largo de un eje de rotación que permanece fijo en 
+el espacio. En tales casos, podemos asignar valores positivos y negativos a las rotaciones 
+antihorarias y horarias, respectivamente, como hicimos en el ejemplo 10.2 y tratar el caso 
+como un problema unidimensional. Sin embargo, hay otras situaciones, como el movimiento 
+de un giroscopio, en donde las naturalezas vectoriales (multidimensionales) del momento, 
+velocidad angular y momento angular son importantes. 
+Movimiento de un giroscopio 
+Un giroscopio (o giróscopo) es un ejemplo común de movimiento en el cual el eje de rota- 
+ción cambia de dirección. La figura 10.20 muestra un giroscopio que consiste en una rueda 
+de bicicleta libre de girar alrededor de su eje. Este eje pivota en un punto situado a una dis- 
+tancia D del centro de la rueda y es libre de girar en cualquier dirección. Para poder entender 
+cuantitativamente el complicado movimiento de este sistema, utilizaremos la segunda ley de 
+Newton para la rotación, 
+dL = ae (o dL=" : dt) 
+junto con las relaciones 
+sa ei x Mg 
+y 
+L = /,@ 
+en donde /, y œ, son respectivamente el momento de inercia y la velocidad angular de la 
+rueda respecto a su eje de espín. Todo lo que realmente debemos recordar para describir el 
+movimiento de un giroscopio es que el cambio en el momento angular de la rueda debe veri- 
+ficarse en la dirección del momento de la fuerza que actúa sobre la rueda. 
+Supongamos que el eje se mantiene horizontalmente y luego se deja en libertad. Si la 
+rueda está desprovista de giro, ésta, como es lógico, caerá girando alrededor de un eje hori- 
+zontal que pasa por O y es perpendicular a r. El momento es horizontal, perpendicular a la 
+página y dirigido hacia dentro. En este caso el momento angular inicial es cero, de modo que 
+el cambio de momento angular es igual al propio momento angular el cual, en este ejemplo, 
+también es horizontal, perpendicular a la página y dirigido hacia dentro. Sin embargo, si la 
+rueda esta girando sobre sí misma y posee un momento angular grande a lo largo de su eje, 
+no cae cuando se deja en libertad. Si la rueda cayera como antes, el eje apuntaría hacia abajo, 
+dando lugar a una gran componente del momento angular en esta dirección. Sin embargo, no 
+existe momento en la dirección hacia abajo. El momento es horizontal. Lo que realmente 
+ocurre cuando el eje de la rueda gira en posición horizontal y se deja en libertad, es que el eje 
+se desplaza en un plano horizontal en dirección hacia dentro del papel. La rueda se mueve de 
+este modo cuando está girando porque así el cambio en el momento angular tiene la direc- 
+ción del momento resultante. Este proceso viene ilustrado en la figura 10.21a, con un gran 
+momento angular a lo largo del eje de la rueda y un cambio de momento angular dL en la 
+dirección del momento de la fuerza 7. Este movimiento, sorprendente cuando se observa por 
+primera vez, se llama precesión. La velocidad angular de precesión @, puede calcularse del 
+modo siguiente. En un pequeño intervalo de tiempo df, el cambio experimentado por el 
+momento angular tiene el módulo dL: 
+dL = tdt = MgD dt 
+en donde MgD es el módulo del momento respecto al punto donde pivota. Según la figura 
+10,21b, el ángulo dó barrido por el eje en su movimiento es 
+dL _ MgD dt 
+qn E
+
+La velocidad angular de la precesión es, por lo tanto, 
+Op = dt = TA = TO (10.18) 
+Si el momento angular respecto al giro de la rueda es muy grande, la precesión será muy 
+lenta. 
+En el análisis precedente se supone que el momento angular de espín de la rueda es muy 
+grande comparado con el momento angular orbital asociado al movimiento de precesión. 
+Si mediante la mano impedimos la precesión de un giróscopo que gira, al dejarlo libre 
+éste iniciará el movimiento de precesión con un movimiento de rebote hacia arriba y hacia 
+abajo llamado nutación. Este movimiento puede evitarse proporcionando al eje de rotación 
+del giroscopio una velocidad angular igual a la asociada con el movimiento de precesión. 
+10.3 Conservación del momento angular 
+Si el momento externo resultante que actúa sobre el sistema es cero, resulta: 
+sist 0 
+dt 
+O sea, 
+Lis = constante (10.19) 
+Esta ecuación es un enunciado del principio de conservación del momento angular. 
+Si el momento externo resultante que actúa sobre un sistema es cero, el momento angular 
+total del sistema es constante. 
+CONSERVACIÓN NFL MOMENTO ANGULAR 
+Este principio es análogo al de conservación del momento lineal. Si un sistema está aislado 
+de sus alrededores de modo que sobre él no actúan fuerzas o momentos externos, se conser- 
+van tres magnitudes: energía, momento lineal y momento angular. La ley de conservación 
+del momento angular es una ley fundamental de la naturaleza. Incluso a la escala microsc6- 
+pica de la física atómica y nuclear, donde la mecánica newtoniana no se cumple, el momento 
+angular de un sistema aislado permanece constante en el tiempo. 
+El resultado experimental de la conservación del momento angular en ausencia de un 
+momento resultante externo implica que la suma de los momentos internos debe ser nula. 
+Este hecho viene sugerido por la tercera ley de Newton. Consideremos las dos partículas de 
+la figura 10.22. Sea F, , la fuerza ejercida por la partícula | sobre la partícula 2, y F, ,, la 
+ejercida por la partícula 2 sobre la 1. Por la tercera ley de Newton F, , = —F¡,. La suma de 
+los momentos ejercidos por estas fuerzas respecto al origen O es 
+T+T =r; XF, +5,xF,, =r; X F,, +8, X (-F,2) = (r-r) X F3; 
+El vector r, — r, está dirigido a lo largo de la línea que une las dos partículas, Si F,, actúa para- 
+lelamente a la línea que une m, y mo, E), y r, —r, son paralelos o antiparalelos y por lo tanto 
+(Tr, =r,)x F,, =0 
+Si esto es cierto para todas las fuerzas internas, los momentos internos se anulan por pares. 
+Existen múltiples ejemplos de la conservación del momento angular en la vida diaria. 
+Las figuras 10.23 y 10.24 ilustran la conservación del momento angular en un saltador acro- 
+bático de trampolín y en una patinadora sobre hielo. 
+10.3 Conservación del momento angular 293 
+El Segway™ HT, inventado por Dean Kamen, se ha 
+descrito como “el primer transporte de personas au- 
+toequilibrado”. Cuando la persona se inclina hacia 
+delante, el movimiento rotacional del dispositivo es 
+detectado por giróscopos de silicio que detectan el 
+movimiento rotacional y emiten una señal al siste- 
+ma de control interno. Éste la interpreta y activa los 
+motores que dan a las ruedas el impulso adecuado 
+para que el conductor pueda mantener el equilibrio. 
+Figura 10.22
+
+294 | Capítulo 10 Conservación del momento angular 
+Figura 10.23 Fotografía múltiple de 
+un saltador de trampolín. El centro de 
+masas del deportista se mueve a lo largo 
+de una trayectoria parabólica después de 
+abandonar la tabla. El momento angular 
+está suministrado por el momento inicial 
+externo ejercido por la fuerza de la tabla. 
+Esta fuerza no pasa por el centro de masas 
+del saltador si éste se inclina hacia delante 
+al saltar. Si el saltador desea dar una o más 
+revoluciones en el aire, encogerá sus brazos 
+y piernas para disminuir su momento de 
+inercia e incrementar, por lo tanto, su 
+velocidad angular. 
+Figura 10.24  Patinadora girando sobre sí 
+misma. Como el momento ejercido por el hielo es 
+pequeño, el momento angular de la patinadora es 
+aproximadamente constante. Cuando reduce su 
+momento de inercia acercando sus brazos al cuerpo. 
+su velocidad angular aumenta. 
+EJEMPLO 10.3 | Un disco girando 
+Un disco con momento de inercia 7, está girando con velocidad angular inicial œ; alrededor de su 
+eje de simetría sin rozamiento. Le cae encima otro disco con momento de inercia /, que está ini- Eje sin rozamiento 
+cialmente en reposo en el mismo eje (figura 10.25), Debido al rozamiento superficial, los dos dis- 
+cos finalmente adquieren una velocidad angular común «y Determinar @,. fi $ 
+Planteamiento del problema  Determinamos la velocidad angular final a partir del momento P l, 
+angular final, que es igual al momento angular inicial, ya que no existen fuerzas exteriores que h 7 L 
+actúen sobre el sistema. Obsérvese que no utilizaremos la conservación de la energía mecánica. La 
+velocidad angular del disco superior se reduce, mientras que la del disco inferior incrementa por la En reposo 
+fuerza de rozamiento cinético que actúa entre las superficies. Como el rozamiento cinético disipa 
+energía mecánica, es de esperar que la energía mecánica total disminuya. Figura 10.25 
+1. La velocidad angular final está relacionada con la inicial por el princi- 
+pio de conservación del momento angular: 
+2. Despejar la velocidad angular final: 
+Comprobar el resultado Si /, << /;, la colisión tendría poco efecto sobre el disco 1. De nues- 
+tros resultados se obtiene efectivamente que @;— @, Si /, >> 1,, entonces el disco 1 llegaría a dete- 
+nerse sin que el disco 2 se moviera apenas. Por lo tanto, @ — 0, como se deduce de nuestros 
+resultados. 
+En el choque de los dos discos del ejemplo 10.3, la energía mecánica no se conserva. 
+Para comprobarlo escribamos la energía en función del momento angular, En general, si un 
+sistema con momento de inercia / gira con velocidad angular @, su energía cinética es 
+R 1%)? ò ord 1)) 
+mai 21 c Ni— 
+~ Y
+
+en donde /@ es el momento angular L. La energia cinética esta, por lo tanto, relacionada con 
+el momento angular por 
+(10.20) 
+Comparemos este resultado con la energía cinética del movimiento lineal, Æ, = p/2m (ecua- 
+ción 8.25). La energía cinética inicial en el ejemplo 10.3 es 
+ee x 25 
+y la energia cinética final 
+3 
+pra A % 20 +4) 
+Como L, = L;, la relación entre las energías cinéticas final e inicial es 
+E |. 4 
+EN LE 
+que es menor que uno. Esta interacción de los discos es análoga a una colisión inelástica uni- 
+dimensional de dos objetos. 
+EJEMPLO 10.4 | Fango en tu ojo 
+Beny, un estudiante de física en una escuela de secundaria, durante las horas de recreo es uno 
+de los chicos más pendencieros de la escuela, y cuatro de sus compañeros de curso deciden 
+darle una escarmiento usando la conservación del momento angular. Su plan consiste en darle 
+un susto mediante el tiovivo que hay en el patio de la escuela (figura 10.26), y con el que Beny 
+se divierte tanto. El tiovivo es un disco de 3 m de diámetro que gira y que tiene un momento de 
+inercia de 130 kg-m?. Los cuatro amigos planean subir al tiovivo todos a la vez, junto con Beny, 
+situándose en el borde del tiovivo cuando éste gira a 20 rey/min. Cuando uno de los cuatro dé 
+una señal, lcs cuatro se moycrán hacia el centro de modo que el tiovivo acelere. Ellos esperan 
+que la aceleración centrípeta despida hacia fuera a Beny antes de que éste se dé cuenta, y que 
+el muchacho caiga en el fango que se ha formado debido a las intensas lluvias recientes. Beny 
+es fuerte y rápido, por lo que la aceleración necesaria ha de ser 4g. ¿Funcionará su plan? 
+(Suponer que los estudiantes tienen una masa de 60 kg.) 
+Planteamiento del problema Los cuatro estudiantes. al moverse hacia el centro del tiovivo, 
+disminuyen el momento de inercia del sistema tiovivo-estudiantes. No actúan momentos externos 
+sobre el sistema, por lo que el momento angular respecto del eje de rotación es constante, es decir, el 
+producto del momento de inercia por la velocidad angular también es constante, por lo que la dismi- 
+nución del momento de inercia significa un aumento de la velocidad angular. Se usa la velocidad 
+angular para determinar la aceleración centrípeta en el borde. 
+1. La aceleración centrípeta depende de la velocidad angular @ y del a. = @R 
+radio R: 
+2. El momento angular se conserva. Si se dan rotaciones respecto a un eje G =L; 
+fijo, L = Ja: hoe = TO, 
+3. El momento de inercia del sistema es la suma de los momentos de 7; = 5X mR?+1/, 
+inercia de los estudiantes mas el momento de inercia del tiovivo. Cada a 
+estudiante tiene una masa m: 
+10.3 Conservación del momento angular | 295 
+Las placas rotatorias de la transmisión de un camión 
+verifican choques durante el embarque 
+jPONGALO EN SU CONTEXTO! 
+Figura 10.26 
+5(60 kg)(1,5 m)? + 130 kg - m? 
+= 805 kg - m? 
+4. Para determinar el momento de inercia final, suponemos que los cuatro Zp =mR?*+4xmr?*+1, 
+estudiantes se sitúan a una distancia de 30 cm del centro de rotación: = (60 kg)(1,5 m)? +4(60 kg)(0.3 m)?+ 130 kg - m2 y D = e © 
+= 287 kg-m? 
+5. Usando la conservación del momento angular de rotación, se despeja (, = Zo, = we 20 rev/min 
+f 201 Kg : m* la velocidad angular final: 
+56,2 rev/min = 5,88 rad/s
+
+296 | Capítulo 10 Conservación del momento angular 
+6. A partir de œ se obtiene la aceleración centrípeta: a, = @R = (5,88 rad/s)?(1,5 m) = 51,9 m/s? 
+: ; i u 2 Lach 7. Sise expresa en función de g: a. = 51,9 m/s xg w 5,292 
+Definitivamente, Beny estará sometido a una aceleración mayor que 4g, 8. ¿Acaba Beny cayendo al barro? 
+por lo que caerá y se precipitará sobre el barro. 
+Observación La velocidad lineal del tiovivo es mayor en el borde que en el centro, haciéndose cero 
+en el mismo eje de rotación. En el borde los estudiantes se mueven en un círculo. A medida que se 
+mueyen hacia el centro acceden a zonas que se mueven más despacio que ellos, por lo que ejercen una 
+fuerza sobre el tiovivo que tiende a acelerarlo, mientras que el tiovivo ejerce sobre ellos una fuerza que 
+tiende a frenarlos. Las fuerzas de rozamiento estáticas ejercidas por sus pies ejercen un momento neto 
+sobre el tiovivo, incrementando su momento angular respecto el eje de rotación. Igualmente, el tiovivo 
+ejerce unas fuerzas de rozamiento estático de igual módulo y de signo contrario sobre los pies de los 
+estudiantes, de modo que el momento de estas fuerzas disminuye su momento angular. Los dos 
+momentos son de igual módulo y de signo contrario, como también lo son los cambios del momento 
+asociados. Así, el momento angular del sistema tiovivo-estudiantes permanece constante. 
+El momento de inercia del sistema tiovivo-estudiantes disminuye a medida que éstos se despla- 
+zan hacia el centro. Por lo tanto, el momento de inercia del sistema disminuye, mientras que el 
+momento angular es constante y, en consecuencia, a partir de la ecuación 10.20 se ve que la energía 
+cinética del sistema tiovivo-estudiantes aumenta. En este caso el aumento de la energía proviene de 
+la energía interna de los estudiantes. 
+EJEMPLO 10.5 | Más tiovivos ¡INTÉNTELO USTED MISMO! 
+Un niño de 25 kg de masa corre por un jardín con una velocidad de 2,5 m/s de forma que su 
+trayectoria es tangente al borde de un tiovivo de 500 kg-m? de momento de inercia, que está 
+parado. El niño salta sobre el tioyivo y lo pone en movimiento (figura 10.27). Determinar la 
+velocidad angular final del niño y del tiovivo cuando se mueven juntos. 
+Planteamiento del problema Desde el momento en que el niño salta sobre el tiovivo, no hay 
+ningún momento que actúe sobre el sistema tiovivo-niño, por lo que el momento angular total del 
+sistema respecto al eje de rotación del tiovivo se conserva. El niño tiene 25 kg de masa, su velocidad 
+inicial es v = 2,5 m/s, el momento de inercia del tiovivo es J = 500 kg-m? y su radio R = 2,0 m. La 
+velocidad inicial del tiovivo es œ; = 0. Figura 10.27 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Escribir una expresión para el momento angular inicial del niño res- L; = mvR 
+pecto al centro del tiovivo. 
+oo 2. Expresar el momento angular total del sistema nifio-tiovivo en función = (mR?+1,,)0; 
+de su velocidad angular final 0. 
+$ 2 3 L myR 10208 rad/s 3. Igualar las expresiones de los pasos 1 y 2 y despejar @;. DER 0,208 rad/s 
+m 
+Ejercicio Calcular las energías cinéticas inicial y final del sistema niño-tiovivo. (Respuesta E,= 
+78,23, E., = 13,03.) 
+El telescopio espacial Hubble se apunta a un blanco determinado regulando 
+las velocidades de giro de dos volantes de 45 kg de ejes distintos que pueden 
+alcanzar las 3000 rpm. Estas variaciones de velocidad de rotación que gene- 
+ran el momento angular que hace virar el telescopio espacial a nuevas posi- 
+ciones están controladas mediante programas de ordenador. Este mecanismo 
+de puntería puede alcanzar y mantener un blanco en unos 0,005 segundos de 
+arco, lo cual equivale a la precisión que tendría un haz luminoso emitido en 
+Los Angeles que incidiera y se mantuviese sobre una moneda situada en San 
+Francisco.
+
+Un astronauta examina el volante mecanico del te- 
+lescopio espacial Hubble. 
+EJEMPLO 10.6 | Tirando por un agujero 
+Una partícula de masa m se mueve con velocidad yọ en una circunferencia de radio rg sobre la 
+superficie de una mesa sin rozamiento. La partícula está atada a una cuerda que pasa a través 
+de un agujero de la mesa, como indica la figura 10.28. Tirando de la cuerda lentamente hacia 
+abajo, la partícula se mueve en una circunferencia de menor radio rf. (a) Determinar la veloci- 
+dad final en función de rg, vo y rp (b) Determinar la tensión de la cuerda cuando la partícula se 
+mueve en una circunferencia de radio r en función de m, r y el momento angular L. (c) Calcu- 
+lar el trabajo realizado sobre la partícula por la tensión T integrando T - df desde rg a rp 
+Expresar la respuesta en función de r y Ly. 
+Planteamiento del problema La velocidad de la partícula está relacionada con su momento 
+angular. El momento neto es igual a la tasa de cambio del momento angular. La fuerza neta que 
+actúa sobre la partícula es la fuerza de tensión T ejercida por la cuerda, la cual siempre está orien- 
+tada hacia el agujero. Por lo tanto, el momento respecto al agujero es cero. Así, el momento angular 
+respecto a este eje es constante, 
+(a) La conservación del momento angular relaciona la velocidad final con Lẹ = Lo 
+la inicial y los radios inicial y final: mYr; = MV ofp 
+por lo tanto 
+v -| To, f | ri 0 
+2 
+(b) 1. Se aplica la segunda ley de Newton para relacionar T con v y r: T = m— 
+2. A partir de la definición del momento angular se obtiene una rela- L = rxp 
+ción entre L, ry v: L 
+li 3. Se despeja v del resultado del paso 2 del apartado (b) y se susti- T m- = nz) 
+tuye en el paso 1 del apartado (b) obteniendo una expresión para f dió 
+T 
+(c) 1. Dibujar la partícula cuando se mueve cerca del agujero (figura 
+10.29). Cuando la partícula experimenta un desplazamiento df, su 
+distancia r respecto del eje cambia una cantidad infinitesimal d+. 
+Como r disminuye, dr es negativa y se cumple: dr = —\dr| 
+lt 3 = < Dn & = Oo o o 
+li 3 3 < 
+10.3 Conservación del momento angular 
+Figura 10.28 
+(b) 
+Figura 10.29 
+297
+
+298 | Capítulo 10 Conservación del momento angular 
+2. Usando el paso 1 escribir dW = T + d€ en función de T y dr: dW = T-dt€ = T d£cos @ 
+ya que 
+ldr| = d€cos 0 
+dW = T\dr| = -T dr 
+3. Integrar desde ry hasta rę después de sustituir T por el resultado W = -f Tdr = -|/ Lar 
+obtenido en el paso 3 del apartado (b): £ ddid 
+m—2 
+Comprobar el resultado Obsérvese que para tirar de la cuerda hacia abajo debe realizarse un 
+trabajo. Como r; es menor que ro, el trabajo es positivo. Este trabajo se invierte en incrementar la 
+energía cinética. La variación de energía cinética puede calcularse también directamente. En efecto, 
+E, = L?/21. Haciendo Lo = Ly = L e I = mr’, la variación de la energía cinética es E, E, = 
+(L?/2mr?) — (L7/2mr?) =( L?/2m) (r-r). que es el mismo resultado obtenido por integración. 
+Observación El aumento de trabajo dW también puede obtenerse expresando el desplazamiento 
+d€ como dr, el cambio en el vector posición r. El producto escalar T - dr se expresa en componentes 
+de forma que queda dW = T - dr =T,dr = —Tdr. En este desarrollo T, = -T es la componente radial de 
+T y dr es la componente radial de dr. 
+Ejercicio ¿Para qué radio ry la tensión es N veces la tensión correspondiente al radio ry? (Res- 
+puesta ry = ry/3/N.) 
+Figura 10.30 
+Sobre un plano sin rozamiento (figura 10.30) descansa un disco al que se da una veloci- 
+dad inicial vp. El disco está atado a una cuerda que se enrolla alrededor de un cilindro verti- 
+cal fijo. Esta situación parece semejante al ejemplo 10.6, pero no es lo mismo. Aquí no hay 
+un agente que realice trabajo sobre el disco, ni ningún mecanismo que produzca una 
+disipación energética. Por lo tanto, la energía mecánica debe conservarse. Como E. = L?/21 
+es constante e / decrece al disminuir rp, L también debe decrecer. Obsérvese que la tensión 
+no actúa hacia el centro del cilindro. La tensión produce un momento respecto al centro del 
+cilindro en dirección hacia abajo, el cual reduce el momento angular del disco, dirigido 
+hacia arriba. 
+EJEMPLO 10.7 | Un nuevo péndulo balístico ¡INTÉNTELO USTED MISMO! 
+Una barra delgada de masa M y longitud d cuelga de un pivote en su parte superior. Una masa 
+de arcilla de masa m y velocidad y choca contra la barra a una distancia x del pivote y se 
+adhiere a la misma (figura 10.31). Determinar la razón entre la energía cinética del sistema 
+inmediatamente después e inmediatamente antes de la colisión. 
+Planteamiento del problema La colisión es inelástica, y por lo tanto no es de esperar que la 
+energía mecánica se conserve. Durante el choque, el pivote ejerce una gran fuerza sobre la barra y 
+por lo tanto, el momento lineal no se conserva. Sin embargo, no existen momentos externos que 
+actúen en el punto de pivotamiento sobre el sistema barra-arcilla y por lo tanto, el momento angular 
+se conserva. La energía cinética después de la colisión inelástica puede expresarse en función del 
+momento angular Lis y el momento de inercia /’ del sistema combinado barra-arcilla. La conserva- 
+ción del momento angular nos permite relacionar Lyi con la masa m y la velocidad v de la arcilla. 
+Figura 10,31 Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Antes de la colisión, la energía cinética del sistema es la energía ciné- E, = mv? 
+tica de la masa de arcilla.
+
+2. Después de la colisión, la energía cinética es la energía cinética del sis- E, = e 
+tema barra-arcilla. Escribir la energía cinética después de la colisión en R 
+función del momento angular Lix y del momento de inercia /' del sis- 
+tema barra-arcilla. 
+3. Durante la colisión se conserva el momento angular. Escribir el £,,, = mvx 
+momento angular £,;., en función de m, v, y x. 
+4. Expresar /' en función de m, x, M y d. I = m? + IM d* 
+5. Sustituir estas expresiones de Ly. e /’ en la ecuación de E, . E. ==> = Se = 
+21 2(mx? + Md?) 
+E e yet 
+2(3mx? + Md?) 
+3 one xy 
+2 6. Dividir la energía total del sistema después de la colisión por la energía — = : 
+inicial de la arcilla. E zm 7 ja 
+o 
+Š ejemplo 8.14. En aquel ejemplo, utilizamos la conservación del momento lineal para deter- 
+A Observación Este ejemplo es el análogo rotacional del péndulo balístico visto en el 
+= minar la energía del péndulo después de la colisión. 
+La figura 10.32 nos muestra una estudiante haciendo una demostración de la conserva- 
+ción del momento angular respecto a un eje. Está sentada sobre una plataforma giratoria que 
+está dotada de cojinetes sin rozamiento, con lo cual la componente vertical del momento 
+ejercido sobre el sistema plataforma-estudiante-rueda se mantiene igual a cero. En conse- 
+cuencia, la componente vertical del momento angular del sistema también permanece cons- 
+tante. Inicialmente, la plataforma está estacionaria y la rueda de bicicleta gira con rapidez 
+alrededor de su eje, que inicialmente es horizontal, tal como se muestra en la figura 10.32a. 
+El momento angular inicial del sistema Lyi; coincide con el momento angular de espín ini- 
+cial de la rueda L, . ;, que es horizontal. Esto significa que la componente vertical de Laist; es 
+cero. Si ahora la estudiante (figura 10.32b) inclina el eje de la rueda hacia arriba, el vector 
+momento angular de espín de la rueda L, se inclina con ella, y el sistema empieza a girar en 
+la dirección de las agujas del reloj (visto desde arriba) alrededor del eje de la plataforma. El 
+vector momento angular asociado con esta rotación del sistema a favor de las agujas del reloj 
+alrededor del eje de rotación de la plataforma, tiene una componente z Lp , dirigida hacia 
+abajo. Como la componente vertical de L,;¡,, se mantiene igual a cero, podemos concluir que 
+L,,k es igual y opuesto a L,.. ,k. 
+A menos que usted haya visto esta demostración antes, el giro que experimenta la plata- 
+forma es sorprendente. Examinemos porqué se produce. La estudiante ejerce un momento 
+hacia arriba, sobre la rueda que gira, para inclinar su momento angular hacia arriba. (Debido 
+al producto vectorial, un momento hacia arriba necesita fuerzas horizontales.) La rueda 
+ejerce un momento hacia abajo (también ejerce fuerzas horizontales) de igual módulo sobre 
+la estudiante, Es precisamente este momento hacia abajo sobre la estudiante el que produce 
+que el sistema empiece a girar en el sentido de las agujas del reloj alrededor del eje de la pla- 
+taforma. 
+Ejercicio Supongamos que cuando la pasamos a la estudiante, la rueda de bicicleta gira ya 
+con su eje vertical y con su vector momento angular dirigido hacia arriba. ¿En qué dirección 
+girará la plataforma cuando la estudiante incline el eje hacia la dirección horizontal? 
+(Respuesta Visto desde arriba, en la dirección contraria a las agujas del reloj). 
+(myx)? 
+(Bm + Md?) _ 
+10.3 Conservación del momento angular | 299 
+Lo. i 
+sisi = Leci 
+(a) 
+(b) 
+Figura 10.32
+
+300 | Capítulo 10 Conservación del momento angular 
+Demostraciones de las ecuaciones 10.10, 10.12, 10.13, 10.14, y 
+10.15 
+Demostración de la ecuación 10.10 A continuación demostraremos que la 
+segunda ley de Newton exige que la derivada del momento angular de una partícula sea igual 
+al momento resultante que actúa sobre la misma. Si tenemos cierto número de fuerzas apli- 
+cadas sobre una partícula, el momento resultante respecto al origen O es la suma de los 
+momentos debidos a cada fuerza: 
+T neto =r XF +r xF, +.. =rx) F; =rXF a 
+i 
+Según la segunda ley de Newton, la fuerza neta o resultante es igual a la derivada respecto al 
+tiempo del momento lineal dp/dr. Asi, 
+É r x 2 (10.21) 
+Comparemos ahora esta expresión con la derivada respecto al tiempo del momento angular. 
+La definición del momento angular de una partícula (ecuación 10.8) es 
+L=rxp 
+Podemos calcular dL/dr utilizando la regla de derivación de un producto: 
+dL _d dp 
+qa (E) rez) 
+El primer término del segundo miembro de esta ecuación es cero, porque p = mv y v = dr/dt, 
+de modo que 
+a xp=vxmv=0 
+Por lo tanto, 
+dl _ dp 
+dd 
+Comparando este resultado con la ecuación 10.21 resulta 
+HH (10.22) 
+El momento resultante aplicado a un sistema de partículas es la suma de los momentos 
+individuales que actúan sobre el sistema. Generalizando la ecuación 10.22 a un sistema de 
+partículas resulta 
+dL vis; 
+A 7 A T 
+En esta ecuación, la suma de los momentos puede incluir momentos internos y momentos debi- 
+dos a fuerzas externas al sistema. La suma de los momentos internos debe ser cero. Por lo tanto, 
+Teto = => (10.10) 
+SEGUNDA LEY DE NEWTON PARA EL MOVIMIENTO DE ROTACIÓN 
+*Demostración de las ecuaciones 10.12 y 10.13 A continuación demostrare- 
+mos que el momento angular de un sistema de partículas se escribe como la suma del 
+momento angular orbital más el momento angular de espín.
+
+10.3 Conservación del momento angular | 301 
+La figura 10.33 muestra un sistema de partículas. El momento angular L; de la partícula i 
+respecto a un punto arbitrario O viene dado por 
+L; = r XP = rX my; (10.23) i 
+y el momento angular del sistema respecto a O es 
+L = EL, = X(r, X m;v;) 
+El momento angular respecto al centro de masas viene dado por 
+Lon = Dir; X mum) 
+donde r; y u; son la posición y la velocidad relativa al centro de masas de la partícula i. A 
+partir de la figura, puede verse que Figura 10.33 
+By = Fis FT 
+Derivando con respecto del tiempo en ambos lados se obtiene 
+Vi = Von t U; 
+Sustituyendo esta relación en la ecuación 10.23, tenemos 
+L; = r; X MV; (Tomt E) X MV em +0) 
+Desarrollando los términos de la derecha se llega a 
+, 
+L; ) + (Tem X MU) + (ME X Vey) + (r? X mu) i = (Ton X Mv cm 
+Sumamos ambos lados para todas las partículas y extraemos el factor común en las sumas, 
+obteniendo 
+Lia = EL; = (Tem X E(M )Vem) + (Fe X 2(M 0/3) +(E(M¡r/ ) X Vom) +(E(r/ xX m,u;)) sist em 
+Dado que E(m,r; ) y E(mu,) son cero y que Em, = M y X(r/' X myu;) = Lom tenemos 
+Liia = Fem X M Vem + Lem: O bien, 
+Luis = Eta + L espín ( 10.1 2) 
+en donde Lespmn = Lom Y Lórbita = Vem X MVem (10.13) z 
+L= Frag X Pry 
+*Demostración de las ecuaciones 10.14 y 10.15 A continuación, para obtener 
+las fórmulas para el momento y el momento angular respecto de un eje fijo, tomamos las 
+componentes z de los vectores momento y momento angular alrededor de un punto. El 
+momento angular de una partícula respecto del origen es L = r x p, por lo que determinar la 
+componente z del momento angular significa determinar la componente z del producto vec- 
+torial r x p, para lo cual expresamos r y p como 
+r= rati y p= Piy + P: 
+en donde Tad: To Py» Y P- Son las componentes de los vectores r y p (véase la figura 10.34). 
+Sustituyendo r y p se obtiene 
+Figura 10.34 Las componentes Tags Fo Prys Y P- 
+L=rxp = (ra +r,)X (Pry +P.) de los vectores r y p se usan para calcularéf , 5 
+momento angular respecto el eje z, L4 e 
+y desarrollando el término de la derecha se obtiene 
+L = (Tad X Pry) + (Prag X P-) + (F-X Pry) + (T,X p;) z vad, 7
+
+302 | Capítulo 10 Conservación del momento angular 
+El producto vectorial de dos vectores es perpendicular a ambos, por lo que el producto r,,4 X 
+Px es paralelo al eje z. En cada uno de los tres productos restantes al menos un vector es 
+paralelo al eje z, por lo que la componente z de cada uno de estos productos es cero. Por con- 
+siguiente, 
+L. = Fad” Pry (10.14) 
+MOMENTO ANGULAR RESPECTO AL EJE Z 
+El momento respecto al origen asociado con una fuerza que actúa sobre la partícula viene 
+dado por 7 = r x F (ecuación 10.1). Siguiendo el mismo procedimiento con el momento 
+como el que seguimos con el momento angular se obtiene 
+T= EX Ey (10.15) 
+MOMENTO RESPECTO DEL EJE Z 
+*10.4 Cuantización del momento angular 
+El momento angular desempeña un papel importante en la descripción de los átomos, molé- 
+culas y partículas elementales. Lo mismo que la energía, el momento angular está cuanti- 
+zado, es decir, las variaciones del momento angular pueden tener lugar sólo en cantidades 
+discretas. 
+El momento angular de una partícula asociado a su movimiento constituye el llamado 
+momento angular orbital. El módulo del momento angular orbital de una partícula sólo 
+puede tener los valores 
+L= J€(€+1)% E =0 Bro (10.24) 
+en donde 7i (“h barrada”) es la unidad fundamental del momento angular, relacionada 
+con la constante de Planck, /: 
+1 = 105x10-4J-s (10.25) I> 
+La componente del momento angular orbital a lo largo de cualquier línea del espacio está 
+también cuantizada y puede tener sólo los valores +i, en donde m es un número entero no 
+negativo menor o igual que £. Por ejemplo, si € = 2, m puede ser 2, 1, 6 0. 
+El cuanto del momento angular, %, es tan pequeño, que la cuantización del momento 
+angular no se aprecia en el mundo macroscópico. Consideremos, por ejemplo, una partícula 
+de masa | g = 10° kg que se mueve en un círculo de radio 1 cm con un periodo de 1 s. Su 
+momento angular orbital es 
+L= mvr = mr?@ = mr? F = (10-3 kg)(10-? m) 2 2% _ 628x10-7J-s ls 
+Si dividimos por % resulta 
+L _ 628x10-7J-s 3 = = OE 6x0) fi 105x10-%J-s 
+El momento angular de este sistema macroscópico contiene 6 x 10?” unidades de la unidad 
+fundamental del momento angular. Aunque pudiésemos medir L con la precisión de una 
+parte en mil millones. nunca podríamos apreciar la cuantización de este momento angular 
+anacroscépico,
+
+La cuantización del momento angular orbital conduce a la cuantización de la energía 
+cinética de rotación. Consideremos una molécula que gira alrededor de su centro de masas 
+con momento angular L (figura 10.35). Sea / su momento de inercia. Su energía cinética es 
+TE E.= 5 (10.26) 
+L? está cuantizando según los valores L? = €(€ + 1)%? con € =0, 1, 2 ... Por lo tanto, la ener- 
+gia cinética está cuantizada según los valores E. dados por 
+e L? £ AR O _ , E., =; €(€4+1)£ 5, (10.27a) 
+en donde 
+qe 
+En = > (10,27b) 
+La figura 10.36 muestra un diagrama de niveles energéticos de una molécula en rotación con 
+momento de inercia constante /. Obsérvese que, al contrario de lo que ocurre en los niveles 
+energéticos de un sistema en vibración (sección 7.4). los niveles energéticos de rotación no 
+están igualmente espaciados y el nivel más bajo es cero, 
+La materia estable contiene sólo tres tipos de partículas: electrones, protones y neutro- 
+nes. Además de su momento angular orbital, cada una de estas partículas posee también un 
+momento angular intrínseco llamado su espín. El momento angular de espín de una partí- 
+cula, como su masa y carga eléctrica, es una propiedad fundamental de la partícula que no 
+puede modificarse. lo del vector momento angular de espín para electrones y otros 
+fermiones es s = ,/4(++1) 71 y la componente a lo largo de cualquier línea del espacio 
+puede tener sólo dos valores, +1 %í y —L fi. Por ello, estas partículas se llaman “partículas 
+de espín un medio”. Los electrones, protones, neutrones y otras partículas de espín un medio 
+se llaman fermiones. Otras partículas como los fotones y las partículas œ, llamadas bosones, 
+tienen espín cero o entero. El espín es una propiedad cuántica que no tiene nada que ver con 
+el movimiento de la partícula. 
+La imagen de un electrón como una bola que gira sobre sí misma y se mueve en órbita 
+alrededor del núcleo (del mismo modo que la Tierra gira sobre sí misma y alrededor del Sol) 
+es un modelo útil, pero no totalmente exacto. Mientras el momento angular de una bola que 
+gira sobre sí misma puede aumentar o disminuir, el espín de un electrón es una propiedad 
+fija que no se modifica. Además, hoy sabemos que un electrón es una partícula puntual que 
+carece de tamaño. 
+Resumen 
+10.4 Cuantización del momento angular | 303 
+Figura 10.35 Modelo de una molécula 
+diatómica rígida que gira alrededor del eje z. 
+t E 
+4 20 Eor 
+Y ——— Er 
+Y a G Ey 
+| 2 E0r 
+0 0 
+Figura 10.36 Diagrama de niveles energéticos 
+de una molécula en rotación. 
+1 El momento angular es una magnitud dinámica importante derivada de la física macroscópica. En la 
+física microscópica, el momento angular es una propiedad intrínseca fundamental, de las partículas ele- 
+mentales. 
+La conservación del momento angular es una ley fundamental de la naturaleza. 
+3 La cuantización del momento angular es una ley fundamental de la naturaleza. 
+TEMA OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Naturaleza vectorial de la rotación Cuando la dirección del eje de rotación en el espacio no es fija, los signos más y menos son insuficientes para 
+describir el sentido de la dirección de la velocidad angular. 
+Velocidad angular œ La dirección de la velocidad angular œ coincide con el eje de rotación en el sentido dado por la regla de la 
+mano derecha. 
+Momento de fuerza, 7 corxF (10.1)
+
+304 | Capítulo 10 Conservación del momento angular 
+2. Producto vectorial A X B =AB sen ón (10.2) 
+en donde @ es el ángulo entre los dos vectores y n es un vector unitario perpendicular al plano de A y B en el 
+sentido dado por la regla de la mano derecha cuando A gira hacia B. 
+Propiedades AXA=0 (10.3) 
+AxB=-BXA (10.4) 
+d > dB) (dA Liam) = (A x $) ($ xB) (10.6) 
+ixj=k, jxk=i, kxi=j (10.7a) 
+3. Momento angular 
+Para una partícula L=rxp (10.8) 
+Para un sistema que gira alrededor 
+de un eje de simetría L= l% (10.9) 
+Para cualquier sistema 
+Segunda ley de Newton para la rotación 
+Conservación del momento angular 
+Energía cinética de un objeto en rotación 
+Cuantización del momento angular 
+Unidad fundamental del momento angular orbital 
+*Cuantización de cualquier componente del 
+momento angular orbital 
+Espín 
+Problemas 
+© Concepto simple, un solo paso, relativamente fácil. 
+ee Nivel intermedio, puede exigir síntesis de conceptos. 
+eee  Desafiante, para alumnos avanzados. 
+ssM La solución se encuentra en el Student Solutions Manual. 
+Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. 
+Y” Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan a los 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza, 
+El momento angular respecto a un punto cualquiera O es igual al momento angular respecto al centro de 
+masas (momento angular de espín) más el momento angular asociado al movimiento del centro de masas 
+alrededor de O (momento angular orbital). 
+L = Lonia + Espín = ay A MY) HIET X mu) (10.12) 
+_ aL Towe = “gy (10.10) 
+Si el momento externo es nulo, el momento angular del sistema se conserva. (Si la componente del momento 
+neto externo en una dirección dada es cero, la componente del momento angular del sistema en esa dirección 
+se conserva.) 
+E, = «=> (10.20) 
+El módulo del momento angular orbital de una partícula puede tener sólo los valores 
+L=l+DA, = (0, 1,2,... 
+en donde 
+E NE i= 7 105x104 J.s (10.25) 
+es la unidad fundamental del momento angular y h es la constante de Planck. 
+La componente del momento angular orbital a lo largo de cualquier línea del espacio está también cuanti- 
+zada y puede tener sólo los valores +m +, en donde m es un entero no negativo menor o igual a €. 
+Los electrones, protones y neutrones tienen un momento angular intrínseco llamado espín. El módulo del 
+vector momento angular de espín para estas partículas es 
+s= 1G+1)% 
+y la componente a lo largo de cualquier línea del espacio sólo puede tener dos valores, 
++i y-31 
+En algunos problemas se dan 
+más datos de los realmente 
+necesarios; en otros pocos, deben 
+extraerse algunos datos a partir 
+de conocimientos generales, 
+fuentes externas o estimaciones 
+lógicas. 
+Tomar g = 9,81 N/kg = 9,81 m/s? y despreciar el rozamiento en todos los problemas a menos que se indique lo contrario.
+
+Problemas conceptuales 
+1 @ SSM Verdadero o falso: 
+(a) Sidos vectores son paralelos, su producto vectorial es cero. 
+(b) Cuando un disco gira alrededor de su eje de simetría, el vector w está diri- 
+gido a lo largo del eje. 
+(c) El momento ejercido por una fuerza es siempre perpendicular a la fuerza. 
+2 e Dos vectores A y B poseen el mismo módulo. Su producto vecto- 
+rial alcanza su módulo máximo cuando A y B son (a) paralelos, (b) iguales, 
+(c) perpendiculares, (d) antiparalelos, (e) forman entre sí un ángulo de 45°. 
+3 e ¿Cuál es el ángulo que forman el momento lineal p de una partí- 
+cula y su momento angular L? 
+4 e Una partícula de masa m se mueve con velocidad v a lo largo de 
+una línea que pasa a través del punto P. ¿Cuál es el momento angular de la par- 
+tícula respecto a dicho punto P? (a) mv. (b) Cero. (c) Cambia de signo cuando 
+la partícula pasa a través del punto P. (d) Depende de la distancia del punto P al 
+origen de coordenadas. 
+5 ec SSM Una partícula describe una trayectoria circular y el punto 
+P está en el centro del círculo. (a) Si su momento lineal p se duplica, ¿cómo se 
+modifica su momento angular respecto a P? (b) Si el radio del círculo se 
+duplica, pero su velocidad no varía, ¿cómo se modifica el momento angular de 
+la partícula respecto a P? 
+6 es Unaparticula se mueve a lo largo de una línea recta a velocidad cons- 
+tante. ¿Cómo varía con el tiempo su momento angular respecto a cualquier punto? 
+7 e Verdadero o falso: Si el momento resultante sobre un sistema que 
+gira es cero, la velocidad angular del sistema no puede modificarse. 
+8 @@ SSM _ Si una persona está de pie en una plataforma que inicial- 
+mente está en reposo, ¿es posible hacerla girar 180°? Suponer que no actúan 
+momentos externos sobre el sistema persona — plataforma. Sugerencia: Mien- 
+tras que una persona no puede cambiar su masa fácilmente tiene, en cambio, 
+formas de cambiar su momento de inercia. 
+9 e Si el momento angular de un sistema es constante, ¿cuál de las 
+siguientes afirmaciones es cierta? (a) Ningún momento actúa sobre ninguna 
+parte del sistema. (b) Un momento constante actúa sobre cada una de las partes 
+del sistema. (c) Un momento resultante nulo actúa sobre cada parte del sistema. 
+(d) Un momento externo constante actúa sobre el sistema. (e) Un momento 
+resultante cero actúa sobre el sistema. 
+10 es Enel ejemplo 10.4, ¿realiza trabajo la fuerza ejercida por el tio- 
+vivo sobre Benny? 
+11 es En un tiovivo en rotación, ¿qué es más fácil: andar radialmente 
+hacia afuera o andar radialmente hacia adentro? ¿Por qué? 
+12 @@ SSM Un bloque que se desliza sobre una mesa sin rozamiento 
+está atado a una cuerda que pasa por un agujero de la mesa. Inicialmente el blo- 
+que se desliza con velocidad vo sobre una circunferencia de radio rp. Una per- 
+sona bajo la mesa tira lentamente de la cuerda. ¿Qué ocurre cuando el bloque 
+gira en espiral hacia dentro? (Razonar con argumentos la respuesta correcta.) 
+(a) Su energía y momento angular se conservan. (b) Su momento angular se 
+conserva y su energía crece, (c) Su momento angular se conserva y su energía 
+decrece. (d) Su energía se conserva y su momento angular crece. (e) Su energía 
+se conserva y su momento angular decrece. 
+13 @@ SSM ¡Hay alguna forma de distinguir un huevo cocido de uno 
+crudo sin romperlo? Una forma consiste en colocar el huevo sobre una superfi- 
+cie horizontal e intentar darle vueltas. El huevo cocido girará fácilmente, mien- 
+tras que si el huevo está crudo hay que aplicar un esfuerzo mayor. Sin embargo, 
+cuando ya estén rodando, el huevo crudo tiene un comportamiento peculiar: si 
+con un dedo paramos su movimiento y lo soltamos, puede ponerse a girar de 
+nuevo. Explicar la diferencia en el comportamiento de ambas clases de huevo. 
+Problemas 305 
+14 e Verdadero o falso: Cuando un giroscopio no gira, la expresión t = 
+dL/dt no vale. 
+15 e i Un objeto de masa M gira alrededor de un eje fijo con 
+momento angular L. Su momento de inercia alrededor de este eje es /. ¿Cuál es 
+su energía cinética? (a) IL?/2. (b) 21. (c) ML*/2. (d) IL?/2M. 
+16 © Explicar por qué un helicóptero con un solo rotor principal posee 
+un segundo rotor más pequeño montado en un eje horizontal en la parte trasera 
+del aparato, como muestra la figura 10.37. Describir el movimiento resultante 
+del helicóptero si este rotor trasero fallase durante el vuelo. 
+Figura 10.37 Problema 16 
+17 es El vector momento angular de una rueda que gira alrededor de su 
+eje está dirigido a lo largo del eje y apunta hacia el este. Para que este vector 
+apunte al sur es necesario ejercer una fuerza en el extremo este del eje en direc- 
+ción: (a) Hacia arriba. (b) Hacia abajo. (c) Hacia el norte. (d) Hacia el sur. 
+(e) Hacia el este. 
+18 es SSM Un hombre que pasea hacia el norte, lleva una caja que 
+contiene un giroscopio en movimiento de giro, montado sobre un eje apoyado 
+en la parte delantera y trasera de la caja. La velocidad angular del giroscopio 
+apunta al norte. El hombre comienza a girar para continuar su paseo hacia el 
+este, En consecuencia, el extremo frontal de la caja (a) se resiste al intento de 
+giro y tratará de permanecer apuntando al norte, (4) luchará contra el intento de 
+giro y empujará hacia el oeste, (c) se elevará hacia arriba, (d) se hundirá hacia 
+abajo, (e) no experimentará ningún efecto, 
+19 es El momento angular de la hélice de un pequeño aeroplano está 
+dirigido hacia adelante. Vista desde detrás, la hélice se mueve en sentido hora- 
+rio. (4) Mientras el aeroplano despega, su parte delantera se levanta y tiende a 
+virar hacia un lado. ¿Hacia qué lado y por qué? (b) Si el aeroplano se encuentra 
+volando horizontalmente y de repente gira hacia la derecha, ¿su parte delantera 
+tiende a moverse hacia arriba o hacia abajo? ¿Por qué? 
+20 @@ Un automóvil funciona con la energía almacenada en un solo 
+volante de momento angular L. Analizar los problemas que surgirían para distin- 
+tas orientaciones de L y diversas maniobras del coche. Por ejemplo, ¿qué ocurri- 
+ría si L apuntase verticalmente hacia arriba y el coche subiese por una colina o 
+desciendiese a un valle? ¿Qué ocurriría si L apuntase hacia delante o hacia un 
+lado del coche y éste intentase girar a la izquierda o a la derecha? En cada caso 
+que se analice, considerar el sentido del momento ejercido sobre el coche por la 
+carretera. 
+21 ee | Una mujer se sienta sobre un taburete de piano en rota- 
+ción con sus brazos cruzados. Si extiende sus brazos en cruz. su energía ciné- 
+tica. (a) Crece. (b) Decrece. (c) Permanece sin variación. 
+22 ee SSM Enun juego de jardín, una pelota se ata a una cuerda su- 
+jeta a un poste vertical por el otro extremo. Al golpear la pelota con una paleta, 
+la cuerda se arrolla alrededor del poste y la bola se acerca cada vez más al poste 
+siguiendo una curva espiral. Despreciando la resistencia del aire, ¿qué ocurre 
+cuando la pelota se balancea alrededor del poste? Argumentar debidamente las 
+afirmaciones que considere correctas entre las siguientes. (a) La energía mecá- 
+nica y el momento angular de la bola se conservan. (b) El momento angular de 
+la bola se conserva, pero su energía mecánica crece. (c) El momento angular de 
+la bola se conserva, pero su energía mecánica disminuye. (d) La energía mecá-
+
+306 | Capítulo 10 Conservación del momento angular 
+nica de la bola se conserva y su momento angular crece. (e) La energía mecá- 
+nica de la bola se conserva y su momento angular disminuye. 
+23 ee Una barra uniforme de masa M y longitud L se encuentra sobre 
+una mesa horizontal sin rozamiento. Una porción de masilla de masa m = M/4 
+se mueve a lo largo de una línea perpendicular a la barra, choca contra ésta 
+cerca de su extremo y se adhiere en el punto de contacto. Describir cualitativa- 
+mente el movimiento subsiguiente de la barra y la masilla. 
+24 e SSM Verdadero o falso: 
+(a) La variación respecto al tiempo del momento angular de un sistema es 
+siempre paralela al momento externo resultante. 
+(b) Si el momento resultante sobre un cuerpo es nulo, el momento angular 
+debe ser cero. 
+Estimaciones y aproximaciones 
+25 ee ssm i Y Una patinadora sobre hielo comienza su 
+pirueta con los brazos extendidos girando sobre sí misma a 1,5 rev/s. Estimar 
+su velocidad de rotación (en revoluciones por segundo) cuando ella pone sus 
+brazos verticalmente a lo largo de su cuerpo. 
+26 ee 1 Los casquetes polares de la Tierra contienen aproxima- 
+damente 2,3 x 10!” kg de hielo. Su masa contribuye muy poco al momento de 
+inercia de la Tierra, ya que está localizada en los polos, próxima al eje de rota- 
+ción. Estimar el cambio de duración del día que tendría lugar si los casquetes 
+polares se fundieran y el agua resultante se distribuyera uniformemente por toda 
+la superficie de la Tierra, (El momento de inercia de una corteza esférica de masa 
+m y radio r es 2m17/3.) 
+27 @ Una partícula de 2 g se mueve con velocidad constante de 3 mm/s 
+alrededor de un círculo de radio 4 mm. (a) Determinar el módulo del momento 
+angular de la partícula. (b) Si L= ./€(€ + | yh , donde € es un entero, determi- 
+nar el valor de €(€ + 1) y el valor aproximado de £. (c) Explicar por qué la 
+cuantización del momento angular no se observa en la física macroscópica. 
+28 @@ SSM Uno de los retos de la astrofísica durante los años 1960 
+fue explicar los pulsares: fuentes astronómicas extremadamente regulares de 
+pulsos de radio con periodos que abarcan desde los segundos a los milisegun- 
+dos. Durante aquel tiempo estas fuentes de radio se conocían con el acrónimo 
+LGM, que corresponde a la denominación inglesa “Little Green Men” (hom- 
+brecillos verdes), que se refería a la idea de que aquellos pulsos de radio 
+podían ser señales de civilizaciones extraterrestres. La explicación actual no 
+es menos interesante: el Sol, que es una estrella típica, tiene una masa de 1,99 
+x 10% kg, y un radio de 6,96 x 10% m. Aunque no gira uniformemente, porque 
+no es un cuerpo sólido, su velocidad media de rotación puede considerarse 
+que es 1 rev/25 días. Las estrellas más grandes que el Sol acaban su vida en 
+explosiones espectaculares —las supernovas— que dejan como resto una 
+estrella denominada estrella de neutrones. ¡Estas estrellas de neutrones tienen 
+una masa comparable a la masa inicial de la estrella pero un radio de unos 
+pocos kilómetros! La gran velocidad de rotación que tienen se debe a la con- 
+servación del momento angular durante el colapso. Estas estrellas emiten 
+haces de ondas de radio. A causa de la rápida velocidad angular de las estre- 
+llas, el haz barre la Tierra a intervalos regulares de tiempo. Para producir los 
+pulsos de ondas de radio que se observan, la estrella ha de girar con velocida- 
+des del orden de 1 rev/s o | rev/ms. (a) Usando los datos que hay en el libro, 
+estime la velocidad de rotación que tendría el Sol si colapsara en una estrella 
+de neutrones de 10 km de radio. El Sol no es una esfera uniforme de gas, por 
+lo que su momento de inercia viene dado por la expresión 7 = 0,059MR?. 
+Supóngase que la estrella de neutrones es esférica y que tiene una distribu- 
+ción de masa uniforme. (b) ¿La energía cinética rotacional del Sol sería 
+mayor o menor después del colapso”? ¿Con qué factor cambiaría, y de dónde 
+provendría o a dónde iría la energía? 
+29 @@ El momento de inercia de la Tierra alrededor de su eje de rotación 
+es aproximadamente 8,03 x 10% kg-m?. (a) La Tierra casi es esférica, por lo 
+tanto puede suponerse que el momento de inercia se escribe como / = CMR?, 
+donde C es una constante sin dimensiones, M = 5,98 x 10% kg es la masa de la 
+Tierra, y R = 6370 km es el radio. Determinar C. (b) Si la distribución de masa 
+de la Tierra fuera uniforme, C sería 2/5. A partir del valor de C obtenido en el 
+apartado (a), ¿la densidad de la Tierra es mayor en el núcleo o en la corteza? 
+30 @@ SSM Estimar la velocidad angular y el momento angular del 
+saltador de la figura 10.23 (página 292) respecto de su centro de masa. Haga las 
+aproximaciones que crea razonables. 
+31 es Estimar la velocidad angular del saltador de la figura 10.23 
+(página 294) si hace un tirabuzón a medio salto, 
+32 @@ SSM Estimar la velocidad de Timothy Goebel (figura 10,38) 
+al iniciar el salto, su velocidad de rotación y su momento angular si realiza una 
+pirueta de tal modo que desde que salta hasta que vuelve a entrar en contacto 
+con el hielo da cuatro giros en el aire. Haga cualquier suposición que considere 
+razonable, siempre que esté preparado para justificarla, La masa del patinador 
+es de 60 kg y la altura del salto es de 0,6 m. Obsérvese que la velocidad angular 
+cambia durante el salto, ya que comienza el ejercicio con los brazos extendidos 
+y progresivamente los va pegando al cuerpo. Si se tiene suficiente cuidado, la 
+respuesta puede ser suficientemente precisa, dentro de un factor 2. 
+Figura 10.38 Problema 32 
+Naturaleza vectorial de la rotación 
+33 e Se aplica una fuerza de módulo F horizontalmente en el sentido 
+negativo de las x, al borde de un disco de radio R, como se muestra en la figura 
+10.39. Escribir F y r en función de los vectores unitarios i, j y k y calcular el 
+momento producido por la fuerza respecto al origen situado en el centro del 
+disco. 
+Figura 10.39 Problema 33
+
+34 e Calcular el momento respecto al origen debido a la fuerza F = 
+—mgj que actúa sobre una partícula situada en r = xi + yj, y demostrar que este 
+momento es independiente de la coordenada y. 
+35 e i Y Hallar A X B en el caso de (a) A =4i y B=6i + 6j, 
+(b)A=4i y B=6i+6k,(c)A=2i+3j y B=3i+2j. 
+36 e SSM  ¿Enqué condiciones es el módulo de A x B iguala A «B? 
+37 es Una partícula se mueve en un círculo centrada en el origen. La 
+partícula está en la posición r y tiene velocidad angular «w. (a) Demostrar que 
+su velocidad es y = w X r. (b) Demostrar que su aceleración centrípeta es a, = 
+0 X V=@ X (0 X r). 
+38 ee İ v siA=4i,8,=0,[B| =5yA x B= 12k, determi- 
+nar B. 
+39 eo SiA=3j,A x B=9i yA- B = 12, determinar B. 
+40 es Useel cálculo con determinantes para demostrar que si 
+A = aji+a,j+a,k 
+B=bi+b,+b,k 
+C=c,i+e,j+ek 
+entonces 
+a, a, a, 
+A-(BxC) = |b, b, b] = C:(AxB) = B-(CxA) 
+Ce CyCi 
+41 es Dados tres vectores A, B, y C que no están situados en el mismo 
+plano, demostrar que A - (B x C) es el volumen del paralelepípedo formado por 
+los tres vectores. 
+42 e. SSM Mediante el uso del producto vectorial, compruebe la ley 
+de los senos para el triángulo de la figura 10,40: si A, B, y C son las longitudes 
+de cada lado del triángulo, demostrar que A/sen a = B/sen b = C/sen e. 
+Cc 
+Figura 10.40 Problema 42 
+Momento angular 
+43 e Una partícula que se mueve a velocidad constante, tiene un 
+momento angular nulo respecto a un determinado punto. Demostrar que la par- 
+tícula ha pasado por dicho punto, está en dicho punto o pasará por él. 
+44 e Una partícula de masa 2 kg se mueve con velocidad constante de 
+3.5 m/s describiendo una circunferencia de 4 m de radio. (a) ¿Cuál es su mo- 
+mento angular respecto al centro de la circunferencia? (b) ¿Cuál es su momento 
+de inercia respecto a un eje que pasa por el centro de la circunferencia y es per- 
+pendicular al plano del movimiento? (c) ¿Cuál es la velocidad angular de la 
+partícula? 
+45 e iI Un cuerpo de 2 kg se mueve a velocidad constante de 
+4,5 m/s a lo largo de una línea recta. (a) ¿Cuál es el módulo de su momento 
+angular respecto a un punto situado a 6 m de la línea? (b) Describir cualitativa- 
+mente cómo varia en el tiempo su velocidad angular respecto a dicho punto. 
+46 @@ SSM Una partícula se mueve con velocidad constante v a lo 
+largo de una línea que está a una distancia b del origen O (figura 10.41). Sea dA 
+el área barrida por el vector posición (desde O a la partícula) en el tiempo dr. 
+Demostrar que dA/dt es constante en el tiempo e igual a 1 L/m, en donde L es el 
+momento angular de la partícula respecto al origen. k 
+Problemas 307 
+Figura 10.41 Problema 46 
+47 oo Í Una moneda de 15 g y diámetro 1,5 cm gira a 10 rev/s 
+alrededor de un diámetro vertical sobre un punto fijo de una mesa. (a) ¿Cuál es 
+el momento angular de la moneda respecto de su centro de masas? (Una 
+moneda es un cilindro de longitud £ y radio R, donde L es despreciable compa- 
+rada con R. Su momento de inercia alrededor de un eje que pasa por su diáme- 
+tro puede obtenerse en la tabla 9.1.) (b) ¿Cuál es el momento angular respecto a 
+un punto de la mesa situado a 10 cm de la moneda? (c) Si la moneda gira de 
+igual modo, pero su centro de masas se traslada en línea recta sobre la mesa con 
+velocidad de 5 cm/s, ¿cuál es el momento angular de la moneda alrededor de un 
+punto sobre la línea de movimiento? (d) ¿Cuál es el momento angular de la 
+moneda respecto a un punto situado a 10 cm de la línea de movimiento? (Exis- 
+ten dos respuestas a esta cuestión. Explicar por qué y expresar ambas.) 
+48 es Dos partículas de masa m, y m están localizadas en las posicio- 
+nes r; y r; respecto al mismo origen O como indica la figura 10,42. Estas partí- 
+culas ejercen fuerzas iguales y opuestas, una sobre otra. Calcular el momento 
+resultante ejercido por estas fuerzas internas alrededor del origen O y demos- 
+trar que es nulo si las fuerzas F, y F, están dirigidas a lo largo de la línea que 
+une ambas partículas. 
+oO 
+Figura 10.42 Problema 48 
+Momento de una fuerza y momento angular 
+49 e i Una partícula de 1,8 kg se mueve en una circunferen- 
+cia de radio 3,4 m. El módulo de su momento angular relativo al centro del cir- 
+culo depende del tiempo según la expresión L = (4 N + m) 1. (a) Determinar el 
+módulo del momento que actúa sobre la partícula. (b) Determinar la velocidad 
+angular de la partícula en función del tiempo. 
+50 ee I Y Un cilindro uniforme de masa 90 kg y radio 0,4 m 
+está dispuesto de modo que gira sin rozamiento alrededor de su eje se simetría, 
+gracias a una correa de transmisión que se arrolla sobre su perímetro y ejerce 
+un momento constante. En el tiempo 1 = 0 su velocidad angular es cero. En el 
+tiempo r = 25 s su velocidad angular es de 500 rev/min. (a) ¿Cuál es su 
+momento angular en f = 25 s? (b) ¿Cómo se incrementa el momento angular en 
+cada unidad de tiempo? (c) ¿Qué momento externo actúa sobre el cilindro? 
+(d) ¿Cuál es el módulo de la fuerza que actúa sobre la periferia del cilindro? 
+51 @@ SSM _ En la figura 10.43 el plano inclinado carece de roza- 
+miento y la cuerda pasa a través del centro de masas de cada bloque. La polea
+
+308 | Capítulo 10 Conservación del momento angular 
+tiene un momento de inercia / y una radio R. (a) Determinar el momento resul- 
+tante que actúa sobre el sistema (las dos masas, la cuerda y la polea) respecto al 
+centro de la polea. (b) Expresar el momento angular total del sistema respecto 
+al centro de la polea cuando las masas se mueven con velocidad v. (c) Determi- 
+nar la aceleración de las masas a partir de los resultados de los apartados (a) y 
+(b) igualando el momento resultante con la derivada respecto al tiempo del 
+momento angular del sistema. 
+Figura 10.43 Problema 51 
+52 ee ! Y ia figura 10.44 muestra la parte trasera de un vehí- 
+culo espacial que gira alrededor de su eje longitudinal a 6 rev/min. Los ocupan- 
+tes desean detener esta rotación. Para ello disponen de pequeñas toberas 
+montadas tangencialmente a una distancia R = 3 m del eje, como se indica en la 
+figura. Cada una de ellas lanza un chorro de 10 g/s de gas a una velocidad de 
+800 m/s. ¿Durante cuánto tiempo deben estar funcionando estas toberas para 
+detener la rotación? La inercia rotacional del vehículo alrededor de su eje 
+(supuesta constante) es de 4000 kg - m°. 
+6 rev/min 
+800 m/s 
+Figura 10.44 Problema 52 
+53 es Un proyectil de masa M se lanza con un ángulo 8 y con una velo- 
+cidad inicial V. Considerando el momento y el momento angular respecto del 
+punto del lanzamiento, demostrar explícitamente que dL/dt = T. Ignorar los 
+efectos de la resistencia del aire. (Las ecuaciones que describen el movimiento 
+de los proyectiles se analizan en el capítulo 3.) 
+Conservación del momento angular 
+54 @ SSM i Un planeta se mueve en una órbita elíptica 
+alrededor del Sol, estando éste en un foco de la elipse (figura 10,45). (a) ¿Cuál 
+es el momento producido por la fuerza gravitatoria de atracción del Sol sobre el 
+planeta? (b) En la posición A, el planeta está a una distancia r, del Sol y se está 
+moviendo con velocidad v; perpendicular a la línea que va del Sol al planeta. 
+En la posición B, está a una distancia r} y se mueve con velocidad v,, de nuevo 
+perpendicular a la línea que va del Sol al planeta. ¿Cuál es la relación de v, y v, 
+en función de r; y r3? 
+Figura 10.45 Problema 54 
+55 ee i Un hombre está de pie sobre una plataforma sin roza- 
+miento que gira con una velocidad angular de 1,5 rev/s. Sus brazos están exten- 
+didos y sostiene en cada mano una bola pesada. El momento de inercia del 
+hombre, los pesos extendidos y la plataforma es 6 kg - m?, Cuando el hombre 
+impulsa los pesos hacia su cuerpo, el momento de inercia decrece a 1,8 kg - m?. 
+(a) ¿Cuál es la velocidad angular resultante de la plataforma? (b) ¿Cuál es la 
+variación de energía cinética experimentada por el sistema? (c) ¿De dónde pro- 
+cede este incremento de energía? 
+56 ee sM it Y Una pequeña porción de masilla de masa 
+m cae desde el techo sobre el borde exterior de un tocadiscos de radio R y 
+momento de inercia Jy, que está girando libremente con velocidad angular @, 
+alrededor de su eje de simetría vertical fijo. (a) ¿Cuál es la velocidad angular 
+del tocadiscos más la masilla después del choque? (b) Después de varias vuel- 
+tas, la masilla se desprende del borde del tocadiscos hacia fuera. ¿Cuál es la 
+velocidad angular del tocadiscos después de desprenderse la masilla? 
+57 ee Uncilindro macizo de plástico de R = 15 cm y de M = 0,25 kg se 
+ajusta de modo que puede girar alrededor de un eje vertical mediante unos coji- 
+netes que no ejercen rozamiento. Una cucaracha de 0,015 kg de masa está 
+sobre el cilindro a 8 cm del centro. Inicialmente tanto el cilindro como la cuca- 
+racha están en reposo. De repente la cucaracha echa a andar por un camino cir- 
+cular a una distancia de 8 cm del eje de rotación. Si la velocidad de la 
+cucaracha con respecto al cilindro es de v = 0,01 m/s, ¿cuál es la velocidad de 
+la cucaracha con respecto al exterior? 
+58 ee sm ij Dos discos de masa idéntica, pero de radios 
+diferentes (r y 2r) giran sobre cojinetes sin rozamiento a la misma velocidad 
+angular @), pero en sentidos opuestos (figura 10.46). Lentamente los dos discos 
+son impulsados el uno hacia el otro hasta que sus superficies entran en con- 
+tacto. La fuerza de rozamiento superficial da lugar a que finalmente ambos 
+posean la misma velocidad angular. ¿Cuál es el módulo de esta velocidad angu- 
+lar final? 
+Ue 
+\ 
+Figura 10.46 Problema 58 
+59 eo | Y un bloque de masa m que desliza sobre una mesa 
+sin rozamiento está atado a una cuerda que pasa por un agujero de la mesa. Ini- 
+cialmente el bloque desliza con velocidad vp en un círculo de radio ry. Determi- 
+nar (a) el momento angular del bloque, (b) su energía cinética, (c) la tensión de 
+la cuerda. Una persona situada bajo la mesa, tira suavemente de la cuerda, 
+¿Cuánto trabajo se necesita para reducir el radio del círculo de rp a 1/2?
+
+60 @@ SSM Una masa puntual de 0,2 kg que se mueve sobre una 
+superficie horizontal sin rozamiento está atada a una cinta de caucho cuyo otro 
+extremo está fijo en el punto P. La cinta de caucho ejerce una fuerza F = bx 
+hacia P en donde x es la longitud de la cinta y b un coeficiente desconocido. La 
+masa se mueve a lo largo de la línea de puntos de la figura 10.47. Cuando pasa 
+por el punto A, su velocidad es de 4 m/s en la dirección que se muestra. La dis- 
+tancia AP es de 0,6 m y BP es 1.0 m. (a) Determinar la velocidad de la masa en 
+los puntos B y C. (b) Determinar el coeficiente b. 
+“—-0,6 m ——» +—0,6m ——+ 
+10m ‘ 
+Figura 10.47 Problema 60 
+*Cuantización del momento angular 
+61 e SSM Lacomponente z del espín de un electrón es : t. pero el 
+módulo del vector espín es ./0,75 +. ¿Qué ángulo forma el vector momento 
+angular de espín del electrón con el eje z? 
+62 @@ Demostrar que la diferencia energética entre un estado rotacional 
+y el siguiente estado más elevado es proporcional a € + 1 (véase ecuación 
+10.273). 
+63 es En la molécula HBr, la masa del núcleo de bromo es 80 veces 
+superior a la masa del núcleo de hidrógeno (un solo protón); en consecuencia, 
+al estudiar el movimiento rotacional de esta molécula, es correcto suponer, con 
+buena aproximación. que el núcleo de Br permanece estacionario mientras el 
+átomo de H (masa, 1,67 x 107?” kg) gira a su alrededor. La separación entre el 
+átomo de H y el núcleo de Br es 0,144 nm. Calcular (a) el momento de inercia 
+de la molécula HBr respecto al núcleo de Br y (b) las energías de rotación 
+correspondientes a (=1,(=2y €=3. 
+64 ee i La separación de equilibrio entre los núcleos de la 
+molécula de nitrógeno es 0,11 nm. La masa de cada núcleo de nitrógeno es 14 u, 
+en donde u = 1,66 x 10-7’ kg. Deseamos calcular las energías de los tres estados 
+de la molécula de nitrógeno de menor momento angular. (a) Considerar un 
+modelo de la molécula de nitrógeno formado por una pesa de gimnasia, rígida, 
+con dos masas puntuales iguales en sus extremos y calcular el momento de 
+inercia alrededor de su centro de masas, (b) Determinar los niveles energéticos 
+de rotación mediante la relación E, = €(€ + 1)? 21. 
+65 @@ SSM ¿Con qué velocidad ha de moverse una molécula de 
+nitrógeno para que su energía cinética de traslación tenga el mismo valor que la 
+energía cinética de rotación del estado cuántico con / = 1? 
+Colisiones 
+66 ee 1 Una barra de 16,0 kg y 2,4 m de longitud está apoyada 
+sobre el filo de una cuchilla por su punto medio. Una bola de 3,2 kg de arcilla 
+se deja caer desde el reposo, de una altura de 1,2 m y produce un choque con la 
+barra completamente inelástico a 0,9 m del punto de soporte (figura 10.48). 
+Determinar el momento angular del sistema barra más arcilla, inmediatamente 
+después de la colisión inelástica. á 
+Problemas 309 
+3,2 kg TT 
+16,0 kg 109 m a 1,2 m 
+o —. 
+Figura 10.48 Problema 66 
+67 een SSM La figura 10.49 muestra una barra delgada de longitud L 
+y masa M y una pequeña cantidad de masilla de masa m. El sistema está apo- 
+yado sobre una superficie horizontal sin rozamiento. La masilla se mueve hacia 
+la derecha con velocidad v, choca contra la barra a una distancia d del centro de 
+la misma y se adhiere en el punto de contacto. Determinar las expresiones 
+correspondientes a la velocidad del centro de masas del sistema y a la velocidad 
+angular del sistema respecto a su centro de masas. 
+M 
+(vista superior) 
+Figura 10.49 Problemas 67 y 68 
+68 es Enel problema 67, reemplazar la bola de masilla por una pequeña 
+esfera dura de tamaño despreciable que choca elásticamente contra la barra. 
+Determinar el valor de d para que la esfera quede en reposo después del cho- 
+que. 
+69 ee | La figura 10,50 muestra una barra uniforme de longi- 
+tud d y masa M cuelga de un pivote en la parte superior. La barra, inicialmente 
+en reposo, recibe el choque de una partícula de masa m en un punto x = 0,8d 
+por debajo del pivote. Suponer que la masilla se pega a la barra. ¿Cuál debe ser 
+el módulo de la velocidad v de la partícula para que el ángulo máximo entre la 
+barra y la vertical sea de 90°? 
+m D y 
+Figura 10.50 Problemas 69 y 70 
+70 es Si para el sistema del problema 69, d = 1,2 m, M = 0,8 kg y m= 
+0,3 kg y el ángulo máximo entre la barra y la vertical es 60°, determinar la velo- 
+cidad de la partícula antes del impacto. 
+71 @@ Una barra uniforme de masa M está en reposo sobre una mesa sin 
+rozamiento cuando, de repente, cerca de uno de sus extremos es golpeada con 
+un impulso K en la dirección horizontal perpendicular a la barra. Inmediata- 
+mente después del golpe, (a) ¿cuál es la velocidad del centro de masas de la
+
+310 | Capítulo 10 Conservación del momento angular 
+barra?, (b) ¿cuál es la velocidad del extremo donde es golpeada?, (c) ¿cuál es la 
+velocidad del otro extremo de la barra? (d) ¿hay algún punto de la barra que no 
+se mueva? 
+72 es Un proyectil de masa m, se mueve a velocidad constante vo hacia 
+un disco estacionario de masa M y radio R, libre de girar alrededor de un pivote 
+que pasa por su eje O (figura 10.51). Antes del impacto, el proyectil se desplaza 
+a lo largo de una línea situada a la distancia b por debajo del eje. El proyectil 
+choca contra el disco y se adhiere al punto B. Tratar al proyectil como una masa 
+puntual. (a) Antes del impacto, ¿cuál es el momento angular total Ly del pro- 
+yectil y el disco alrededor del eje 0? (a) ¿Cuál es la velocidad angular @ del 
+sistema disco y proyectil justamente después del impacto? (b) ¿Cuál es la ener- 
+gía cinética del sistema disco y proyectil después del impacto? (c) ¿Cuánta ener- 
+gía mecánica se pierde en esta colisión? 
+Figura 10.51 Problema 72 
+73 @@ SSM Una barra uniforme de longitud L; y masa M = 0,75 kg 
+se soporta con una bisagra en un extremo y puede girar libremente en el plano 
+vertical (figura 10.52). La barra se libera desde el reposo en la posición indi- 
+cada. De la bisagra pende una partícula de masa m = 0,5 kg en el extremo de 
+una cuerda de longitud L,. Al producirse el contacto, la partícula se adhiere a la 
+barra. ¿Cuál debe ser la relación Ly/L, para que Onix = 60° después de la coli- 
+sión. 
+e m 
+Figura 10.52 Problemas 73-76 
+74 eoè I Una barra uniforme de longitud L, = 1,2 m y de masa 
+M=2,0 kg. está sujeta por un extremo a una bisagra de tal forma que puede 
+girar en el plano vertical (figura 10.52). La barra, inicialmente en reposo en la 
+posición de la figura, cae. Una partícula de masa m cuelga de una cuerda del- 
+gada de longitud L, = 0,8 m de la misma bisagra. La partícula cuando choca 
+con la barra se engancha a ella. Después de la colisión la barra sigue girando 
+hasta formar un ángulo 0 = 6,4, = 37°. (a) Calcular m. (b) ¿Cuánta energía se 
+disipa durante la colisión? 
+75 @@ Una barra uniforme de longitud L; = 1,2 m y de masa M = 2,0 kg. 
+está sujeta por un extremo a una bisagra de tal forma que puede girar en el 
+plano vertical (figura 10.52). Con un martillo se golpea la barra dándole una 
+velocidad angular inicial que le hace iniciar la caída. Una partícula de masa m 
+está colgada de una cuerda delgada de longitud L, = 0,8 m de la misma bisagra. 
+La partícula cuando choca con la barra se engancha a ella. Después de la coli- 
+sión la barra sigue girando y acaba dando una vuelta completa. ¿Cuál es la 
+velocidad angular mínima que imprime el martillo sobre la barra? ¿Cuánta 
+energía se disipa durante la colisión? 
+76 @@@ Repetir el problema 74, suponiendo que la colisión entre la barra 
+y la partícula es elástica. 
+77 ee i Una rueda de bicicleta está montada en el punto medio 
+de un eje de 50 cm de largo. El neumático y la llanta pesan 30 N y la rueda 
+tiene un radio de 28 cm. La rueda se hace girar a 12 rev/s y el eje se coloca 
+entonces en una posición horizontal con uno de sus extremos descansando 
+sobre un pivote. (a) ¿Cuál es el momento angular debido al giro sobre sí mismo 
+de la rueda? (Considérese que la rueda es un aro.) (b) ¿Cuál es la velocidad 
+angular de precesión? (c) ¿Cuánto tiempo ha de transcurrir para que el eje reco- 
+rra 360° alrededor del pivote? (d) ¿Cuál es el momento angular asociado con el 
+movimiento del centro de masas, es decir, debido a la precesión? ¿En qué 
+dirección actúa este momento angular? 
+78 ee SM | Un disco uniforme de 2,5 kg de masa y radio 
+6,4 cm se monta en el centro de un eje de 10 cm y gira sobre sí mismo a 
+700 rev/min, El eje se coloca luego en una posición horizontal con un extremo 
+descansando sobre un pivote. Al otro extremo se le da una velocidad horizontal 
+inicial de modo que la precesión es suave sin nutación. (a) Hallar la velocidad 
+angular de precesión. (b) ¿Cuál es la velocidad del centro de masas durante la 
+precesión? (c) ¿Cuáles son el módulo y la dirección de la aceleración del centro 
+de masas? (d) ¿Cuáles son las componentes vertical y horizontal de la fuerza 
+ejercida por el pivote? 
+Problemas generales 
+79 e i Y Una partícula de masa 3 kg se mueve con velocidad 
+v=3 m/s ia lo largo de la línea z = 0, y = 5,3 m. (a) Determinar el momento angu- 
+lar L relativo al origen cuando la partícula está en el punto x = 12 m, y = 5,3 m. 
+(b) Una fuerza F =-3 N ise aplica a la partícula, Determinar el momento produ- 
+cido por esta fuerza respecto al origen. 
+80 e i El vector posición de una partícula de masa 3 kg viene 
+dado por r = 4i + 37°j, en donde r se expresa en metros y 1 en segundos. Deter- 
+minar el momento angular y el momento que actúa sobre la partícula respecto 
+al origen. 
+81 ee i Dos patinadores sobre hielo cogidos de las manos giran 
+en conjunto dando una revolución en 2,5 s. Sus masas son 55 kg y 85 kg y están 
+separados 1,7 m. Determinar (a) el momento angular del sistema respecto a su 
+centro de masas y (b) la energía cinética total del sistema, 
+82 @@ SSM  Unabola de 2 kg atada a una cuerda de longitud 1,5 m se 
+mueve en una circunferencia horizontal como un péndulo cónico (figura 
+10.53). La cuerda forma un ángulo 0 = 30° con la vertical. (a) Demostrar que el 
+momento angular de la bola respecto al punto de soporte P tiene una compo- 
+nente horizontal dirigida hacia el centro del círculo, así como una componente 
+vertical, y determinar sus valores. (b) Determinar el módulo de dL/dr y demos- 
+trar que es igual al módulo del momento ejercido por la gravedad respecto al 
+punto de soporte. 
+Figura 10.53 Problema 82
+
+83 ee Una masa m situada sobre una superficie horizontal sin roza- 
+miento está sujeta a una cuerda que se arrolla alrededor de un poste cilíndrico 
+vertical, de modo que cuando se pone en movimiento sigue una trayectoria en 
+espiral hacia dentro. (a) ¿Se conserva el momento angular de la masa? (b) ¿Se 
+conserva la energía de la masa? (c) Si la velocidad de la masa es Vg cuando la 
+longitud de la cuerda es r, ¿cuál será su velocidad cuando la longitud de la 
+cuerda no arrollada sea r/2? 
+84 06 La figura 10.54 muestra un tubo cilíndrico hueco de masa M, lon- 
+gitud L y momento de inercia ML?/10, Dentro del cilindro se encuentran dos 
+discos de masa m separados una distancia € y atados a un vástago central por 
+una cuerda delgada. El sistema puede girar alrededor de un eje vertical a través 
+del cilindro. Cuando el sistema gira con la velocidad angular @, las cuerdas que 
+mantienen los discos se rompen súbitamente. Obtener las expresiones corres- 
+pondientes a la velocidad angular final y a las energías inicial y final del sis- 
+tema. Suponer que las paredes interiores del cilindro carecen de rozamiento. 
+Figura 10.54 Problemas 84-88 
+85 es Repetir el problema 84 suponiendo ahora que existe rozamiento 
+entre los discos y las paredes del cilindro. Sin embargo, el coeficiente de roza- 
+miento no es suficiente para evitar que los discos alcancen los extremos del 
+cilindro. ¿Puede determinarse la energía final del sistema sin saber el coefi- 
+ciente de rozamiento cinético? 
+86 ee | Y Supongamos que en la figura 10.54, € = 0,6 m, L = 
+2,0 m, M=0,8 kg y m = 0,4 kg. El sistema gira con la velocidad angular @, de 
+tal modo que la tensión en la cuerda es 108 N justo antes de que se rompa. 
+Determinar las velocidades angulares inicial y final, así como las energías ini- 
+cial y final del sistema. Suponer que las paredes interiores del cilindro carecen 
+de rozamiento. 
+87 es Determinar en el problema 84 la velocidad radial de cada masa 
+justo antes de que alcance el extremo del cilindro. 
+88 «es Con los datos numéricos del problema 86, suponer que el coefi- 
+ciente de rozamiento entre las masas y las paredes del cilindro es tal que las 
+masas dejan de deslizarse 0,2 m antes de alcanzar los extremos del cilindro. 
+Determinar las velocidades angulares inicial y final del sistema y la energía 
+disipada por el rozamiento. 
+89 @@ SSM La segunda ley de Kepler establece que el radio vector 
+del Sol a un planeta barre áreas iguales en tiempos iguales. Demostrar que esta 
+ley resulta directamente del principio de conservación del momento angular, 
+teniendo en cuenta además, que la fuerza de atracción gravitatoria entre un pla- 
+neta y el Sol actúa a lo largo de la línea que une los dos objetos celestes. 
+90 es La figura 10.55 muestra un cilindro hueco de longitud 1,8 m, 
+masa 0,8 kg y radio 0,2 m que puede girar libremente alrededor de un eje verti- 
+cal que pasa por su centro y es perpendicular al eje del cilindro. Dentro del 
+cilindro hay dos discos delgados de 0,2 kg cada uno conectados a sendos mue- 
+lles de constante de fuerza k y longitudes naturales 0,4 m. El sistema alcanza 
+una velocidad de rotación de 8 rad/s con los muelles bloqueados de modo que 
+no puedan alargarse. Los muelles se desbloquean-entonces súbitamente. 
+Debido al rozamiento que experimentan en la pared interna del cilindro, los 
+Problemas | 311 
+discos se detienen a una distancia de 0,6 m del eje central. ¿Cuál será entonces 
+la velocidad angular del cilindro? ¿Cuánta energía cinética se disipa en el roza- 
+miento entre los discos y la pared del cilindro? 
+38 0 2 $ 
+—O4m — 
+Figura 10.55 Problema 90 
+91 es Se dispone de un disco pesado de metal (parecido a una moneda 
+grande) como se muestra en la figura 10.56, de 0,500 kg de masa, de 0,125 m 
+de radio y de un espesor despreciable, Se coloca el disco en una plataforma 
+giratoria, que consiste en un cilindro macizo estrecho de 0,735 kg de masa y 
+0,250 m de radio que gira alrededor de un eje que pasa por su centro mediante 
+unos cojinetes que no producen rozamiento. Se imprime al disco un movi- 
+miento de rotación alrededor de un diámetro del disco y en el centro de la plata- 
+forma. Al hacerlo, se mantiene la plataforma sujeta, pero inmediatamente se la 
+deja mover de forma independiente. El disco tiene una velocidad angular inicial 
+de 30 rev/min. (a) Si el disco se para de tal forma que su eje de simetría coin- 
+cide con el eje de rotación de la plataforma, ¿cuál es la velocidad angular final 
+de la plataforma? (b) ¿Cuál será la velocidad angular final si cuando se para el 
+eje del disco está a 0,10 m del eje de la plataforma? 
+= $ Figura 10.56 Problema 91 
+92 es (a) Suponiendo que la Tierra es una esfera homogénea de radio r 
+y masa m, demostrar que el periodo 7 de la rotación terrestre alrededor de su 
+eje está relacionado con el radio por T = br, en donde b = (4/5) mm/L y es el 
+momento angular de espín de la Tierra debido a su rotación. (b) Suponer que el 
+radio r cambia en una cantidad muy pequeña Ar debido a algún efecto interno, 
+como la dilatación térmica. Demostrar que el cambio fraccional en el periodo 
+AT viene dado aproximadamente por A7/T = 2 Ar/r. Sugerencia: Utilizar las 
+diferenciales dr y dT como aproximaciones de estas magnitudes. (c) ¿Cuántos 
+kilómetros tendría que expansionarse la Tierra para que el periodo cambiase 
+0,25 días/año, de modo que los años bisiestos no fueran necesarios? 
+93 @@ SSM La dirección del eje de rotación de la Tierra no está fija 
+en el espacio, sino que se mueve en un círculo de radio de 23° con un periodo 
+de 26000 años, produciendo lo que se conoce con el nombre de precesión de 
+los equinocios. Por esta razón la estrella polar actual Polaris no será la estrella 
+polar indefinidamente. La Tierra es un giróscopo gigante, con un momento 
+ejercido por el Sol y por la Luna sobre ella. Calcular un valor aproximado para 
+este momento, sabiendo que el periodo de rotación de la Tierra es de 1 día y 
+que su momento de inercia es 8,03 x 10% kg-m?.
+
+312 | Capítulo 10 Conservación del momento angular 
+94006 I La figura 10.57 muestra un cilindro hueco de masa 
+M = 1,2 kg y longitud L = 1,6 m que puede girar libremente alrededor de un eje 
+vertical que pasa por su centro. En su interior hay dos discos, cada uno de masa 
+m = 0,4 kg, que están atados a un vástago central por una cuerda delgada y 
+separados por una distancia € = 0,8 m. La cuerda se rompe si la tensión excede 
+100 N. Partiendo del reposo se aplica un momento al sistema hasta que la 
+cuerda se rompe. (Se supone que los discos son puntuales y el radio del cilindro 
+es despreciable.) Determinar el trabajo realizado hasta ese instante. En ese 
+momento deja de aplicarse el momento y se supone que las paredes del cilindro 
+carecen de rozamiento. Obtener una expresión para la velocidad angular del 
+sistema en función de x para x < L/2, siendo x la distancia entre cada disco y el 
+vástago central. 
+m m 
+OL 0:3 a | 
+Figura 10.57 Problemas 94-96 
+95 ese Determinar en el problema 94 la velocidad angular del sistema 
+justamente antes y después que los discos puntuales pasen por los extremos del 
+cilindro, 
+96 ese Repetir el problema 94 con el radio del cilindro hueco igual a 0,4 m 
+y las masas tratadas como discos delgados en lugar de masas puntuales. 
+97 eso SSM La figura 10.58 muestra una polea formada por un disco 
+uniforme, del cual pende una cuerda pesada. La circunferencia de la polea es de 
+1,2 m y su masa de 2,2 kg. La cuerda tiene 0,8 m de longitud y su masa es 4,8 kg. 
+En el instante mostrado en la figura, el sistema está en reposo y la diferencia de 
+altura de los dos extremos de la cuerda es 0,6 m. (a) ¿Cuál es la velocidad 
+angular de la polea cuando la diferencia de altura entre los extremos de la 
+cuerda es de 7,2 m? (b) Obtener una expresión para el momento angular del sis- 
+tema en función del tiempo, prescindiendo del caso en que cualquiera de los 
+extremos de la cuerda está por encima del centro de la polea. No hay desliza- 
+miento entre la cuerda y la polea. 
+Figura 10.58 Problema 97
+
+¡GRAVEDAD Capítulo 
+11 
+11.1 Leyes de Kepler 
+11.2 Ley de la gravitación 
+de Newton 
+11.3 Energía potencial 
+gravitatoria 
+11.4 El campo 
+gravitatorio y 
+*11.5 Cálculo de la ecuación 
+correspondiente al 
+campo gravitatorio 
+de una corteza 
+esférica por . +7 
+integracion 
+Una persona ve pasar la Estacion Espacial Internacional (EEI f de abeza mientras 
+habla con un amigo con su teléfono esde la azotea del edificio de su apartamento en g | 
+la ciudad de Nueva York durante una noche serena de otoño 
+¿Cómo usamos nuestro conocimiento de la gravedad para determinar cuál será la próxima vez 
+que la EEI pasará sobre su ciudad? (Véase el ejemplo 11.3.) 
+Es fuerza gravitatoria es la más débil de las cuatro fuerzas básicas. Es despreciable en 
+las interacciones de las partículas elementales y, por lo tanto, no desempeña ningún papel 
+en el estudio de las moléculas, átomos y núcleos. La atracción gravitatoria entre objetos 
+de tamaño ordinario, tal como la que ejerce un edificio sobre un automóvil es demasiado 
+pequeña para ser observada. Sin embargo, la gravedad es de importancia capital cuando 
+consideramos las interacciones entre cuerpos de tamaño astronómico como planetas, sa- 
+télites y estrellas. La fuerza gravitatoria que la Tierra ejerce sobre nosotros y los objetos 
+que nos rodean es una parte fundamental de nuestra experiencia. La gravedad es la que 
+nos liga a la Tierra y la que mantiene a los planetas, incluido el nuestro, dentro del sistema 
+solar, La fuerza gravitatoria juega un papel importante en la eyolución de las estrellas y 
+en el comportamiento de las galaxias. A la mayor escala que podemos imaginar, la gra- 
+vedad controla la evolución del universo. 
+Durante la época de Newton, muchos creían que en el vasto universo la naturaleza seguía 
+reglas distintas de las de aquí, sobre la Tierra. La ley de Newton de la gravitación universal 
+y las tres leyes de la dinámica, mostraron que la naturaleza sigue las mismas reglas en todas 
+partes; esto produjo un efecto profundo sobre la visión actual que se tiene del universo. 
+= En este capítulo usaremos las herramientas que nos proporcionan la conserva- 
+ción del momento angular, las leyes de Newton del movimiento, y la ley de Newton 
+de la gravitación para predecir el movimiento de los planetas y de los otros objetos 
+celestes, incluidos aquellos objetos que nosotros hemos enviado al espacio.

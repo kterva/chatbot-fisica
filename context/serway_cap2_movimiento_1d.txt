@@ -1,0 +1,2926 @@
+Tema: Movimiento en una dimensión (Capítulo 2 — Física para Ciencias e Ingeniería, Serway)
+
+Capítulo 2  Movimiento en una dimensión
+de la Tierra es grande en comparación con las dimensiones de la Tierra y del Sol. Como 
+ejemplo en una escala mucho más pequeña, es posible explicar la presión que ejerce un 
+gas sobre las paredes de un contenedor al tratar las moléculas de gas como partículas, sin 
+importar su estructura interna.
+2.1 Posición, velocidad y rapidez
+El movimiento de una partícula se conoce por completo si la posición de la partícula en 
+el espacio se conoce en todo momento. La posición de una partícula es la ubicación de 
+la partícula respecto a un punto de referencia elegido que se considera el origen de un 
+sistema coordenado.
+Considere un automóvil que se mueve hacia adelante y en reversa a lo largo del eje 
+x como en la figura 2.1a. Cuando comience a recopilar datos de posición, el automóvil 
+está a 30 m a la derecha de una señal del camino, que usará para identificar la posición 
+de referencia x  0. Aplique el modelo de partícula para identificar algún punto en el 
+automóvil, acaso la manija de la puerta delantera, como una partícula que representa a 
+todo el automóvil.
+Active el cronómetro y una vez cada 10 s anote la posición del automóvil en relación 
+con la señal en x  0. Como aparece en la tabla 2.1, el automóvil se mueve hacia la dere-
+cha (que se definió como la dirección positiva) durante los primeros 10 s de movimiento, 
+desde la posición  hasta la posición . Después de , los valores de posición comienzan 
+a disminuir, lo que indica que el automóvil regresa desde la posición  hasta la posición 
+. De hecho, en , 30 s después de comenzar a medir, el automóvil está junto a la señal 
+del camino usada para marcar el origen de coordenadas (vea la figura 2.1a). Continúa 
+moviéndose hacia la izquierda y está a más de 50 m a la izquierda de la señal cuando 
+se deja de registrar información después del sexto punto de datos. En la figura 2.1b se 
+presenta una representación gráfica de esta información. A tal gráfica se le llama gráfica 
+posición-tiempo.
+Advierta ahora las representaciones alternativas de información que se usaron para el mo-
+vimiento del automóvil. La figura 2.1a es una representación pictórica, mientras que la figura 
+2.1b es una representación gráfica. La tabla 2.1 es una representación tabular de la misma infor-
+mación. Usar representaciones alternativas es una excelente estrategia para comprender la 
+situación en un problema dado. En todo caso, la meta en muchos problemas es lograr una 
+representación matemática, la cual se analiza para resolver algún fragmento de información 
+solicitada.
+Posición
+0
+TABLA 2.1
+Posición del automóvil  
+en varios tiempos
+Posición t (s) x (m)
+  0 30
+ 10 52
+ 20 38
+ 30 0
+ 40 37
+ 50 53
+Figura 2.1 Un automóvil va hacia adelante y en reversa a lo largo de una línea recta. Ya que se tiene 
+interés sólo en el movimiento traslacional del automóvil, se le representa como una partícula. Aquí 
+se han usado tres exhibiciones para la información del movimiento del automóvil. La tabla 2.1 es una 
+exposición tabular de la información. a) Representación pictórica del movimiento del automóvil.  
+b) Representación gráfica (gráfica posición-tiempo) del movimiento del automóvil.
+
+
+
+
+
+605040302010 0 10 20 30 40 50 60 x (m)
+605040302010 0 10 20 30 40 50 60
+LÍMITE
+30 km/h
+LÍMITE
+30 km/h
+x (m)
+a)
+
+
+10 20 30 40 500
+40
+60
+20
+0
+20
+40
+60
+$t
+$x
+x (m)
+t (s)
+b)
+
+
+
+
+
+
+A partir de los datos de la tabla 2.1, se determina fácilmente el cambio en posición del 
+automóvil para varios intervalos de tiempo. El desplazamiento de una partícula se define 
+como su cambio en posición en algún intervalo de tiempo. Conforme la partícula se mueve 
+desde una posición inicial xi a una posición final x f , su desplazamiento se conoce por
+ $x  xf   xi (2.1)
+Se usa la letra griega mayúscula delta ($) para denotar el cambio en una cantidad. A partir 
+de esta definición se ve que $x es positiva si xf es mayor que xi y negativo si xf es menor 
+que xi.
+Es muy importante reconocer la diferencia entre desplazamiento y distancia recorrida. 
+Distancia es la longitud de una trayectoria seguida por una partícula. Considere, por ejem-
+plo, a los jugadores de basquetbol de la figura 2.2. Si un jugador corre desde la canasta de 
+su propio equipo a lo largo de la cancha hasta la canasta del otro equipo y luego regresa 
+a su propia canasta, el desplazamiento del jugador durante este intervalo de tiempo es cero 
+porque terminó en el mismo punto del que partió: x
+f  xi, de modo que $x  0. Sin em-
+bargo, durante este intervalo, se movió a lo largo de una distancia del doble de la longitud 
+de la cancha de basquetbol. La distancia siempre se representa como un número positivo, 
+mientras que el desplazamiento puede ser positivo o negativo.
+El desplazamiento es un ejemplo de una cantidad vectorial. Muchas otras cantidades 
+físicas, incluida posición, velocidad y aceleración, también son vectores. En general, una 
+cantidad vectorial requiere la especificación tanto de dirección como de magnitud . En 
+contraste, una cantidad escalar tiene un valor numérico y no dirección . En este capítulo, 
+se usan los signos positivo ( ) y negativo ( ) para indicar la dirección del vector. Por 
+ejemplo, para movimiento horizontal especifique a su arbitrio a la derecha como la direc-
+ción positiva. Después, cualquier objeto que siempre se mueva a la derecha experimenta 
+un desplazamiento positivo $x  0, y cualquier objeto que se mueva hacia la izquierda 
+experimenta un desplazamiento negativo de modo que $x  0. En el capítulo 3 se tratarán 
+las cantidades vectoriales con más detalle.
+Todavía no se menciona un punto muy importante. Note que los datos de la tabla 2.1 
+resultan en los seis puntos de datos de la gráfica de la figura 2.1b. La curva uniforme que 
+se dibuja a través de los seis puntos de la gráfica sólo es una posibilidad del movimiento real 
+del automóvil. Únicamente se tiene información acerca de seis instantes de tiempo; no se 
+tiene idea de lo que ocurrió entre los puntos de datos. La curva uniforme es una suposición 
+de lo que ocurrió, pero tenga en mente que sólo es una suposición.
+Si la curva uniforme representa el movimiento real del automóvil, la gráfica contiene 
+información acerca de todo el intervalo de 50 s durante los que se observó el movimiento 
+del automóvil. Es mucho más fácil ver los cambios en la posición a partir de la gráfica  
+que de una descripción verbal o incluso de una tabla de números. Por ejemplo, es claro que  
+el automóvil cubre más terreno durante la mitad del intervalo de 50 s que al final. Entre 
+las posiciones  y , el automóvil viaja casi 40 m, pero durante los últimos 10 s, entre las 
+posiciones  y , se mueve a menos de la mitad de esa distancia. Una forma común de 
+comparar estos movimientos diferentes es dividir el desplazamiento $x que se presenta 
+entre dos lecturas de cronómetro entre el valor de dicho intervalo de tiempo particular 
+$t. El resultado evidencia ser una relación muy útil, una que se usará muchas veces. A esta 
+relación se le ha dado un nombre especial: velocidad promedio. La velocidad promedio v
+x, 
+prom de una partícula se define como el desplazamiento $x de la partícula dividido entre 
+el intervalo de tiempo $t durante el que ocurre dicho desplazamiento:
+ vx, prom
+¢x
+¢t   (2.2)
+donde el subíndice x indica movimiento a lo largo del eje x. A partir de esta definición es 
+claro que la velocidad promedio tiene dimensiones de longitud divididas entre el tiempo 
+(L/T), o metros por segundo en unidades del SI.
+La velocidad promedio de una partícula que se mueve en una dimensión es positiva o 
+negativa, dependiendo del signo del desplazamiento. (El intervalo de tiempo $t siempre 
+es positivo.) Si la coordenada de la partícula aumenta en el tiempo (esto es, si xf  xi), 
+$x es positiva y vx, prom  $x/$t es positiva. Este caso corresponde a una partícula que se 
+mueve en la dirección x positiva, esto es, hacia valores más grandes de x. Si la coordenada 
+Figura 2.2 En esta cancha de 
+basquetbol, los jugadores corren 
+de ida y vuelta durante todo el 
+juego. La distancia que corren  
+los jugadores durante el tiempo 
+de juego es distinta de cero.  
+El desplazamiento de los 
+jugadores durante el tiempo  
+de juego es aproximadamente 
+cero porque deben regresar al 
+mismo punto una y otra vez.
+ Sección 2.1  Posición, velocidad y rapidez  21
+1 Desplazamiento 
+1 Velocidad promedio
+© Richard Paul Kane/Shutterstock
+
+22 Capítulo 2  Movimiento en una dimensión
+disminuye en el tiempo (esto es, si xf   xi), $x es negativa y por lo tanto vx, prom es negativa. 
+Este caso corresponde a una partícula que se mueve en la dirección x negativa.
+La velocidad promedio se interpreta geométricamente al dibujar una línea recta entre 
+dos puntos en la gráfica posición-tiempo en la figura 2.1b. Esta línea forma la hipote- 
+nusa de un triángulo rectángulo de altura $x y base $t. La pendiente de esta línea es 
+la proporción $ x/$t, que se definió como velocidad promedio en la ecuación 2.2. Por 
+ejemplo, la línea entre las posiciones  y  en la figura 2.1b tiene una pendiente igual 
+a la velocidad promedio del automóvil entre dichos dos tiempos (52 m  30 m)/(10 s  
+0)  2.2 m/s.
+En el uso cotidiano, la rapidez y la velocidad promedio son intercambiables. De cual-
+quier modo, en física, hay una clara distinción entre estas dos cantidades. Considere una 
+competidora de maratón que corre una distancia d de más de 40 km y aún así termina en 
+su punto de partida. Su desplazamiento total es cero, ¡así que su velocidad promedio es 
+cero! No obstante, es necesario cuantificar cuán rápido corre. Una relación ligeramente 
+diferente logra esto. La rapidez promedio v
+prom de una partícula, una cantidad escalar, se 
+define como la distancia total recorrida dividida entre el intervalo de tiempo total reque-
+rido para recorrer dicha distancia:
+ vprom
+d
+¢t  (2.3)
+La unidad del SI de la rapidez promedio es la misma que la unidad de velocidad promedio: 
+metros por segundo. Sin embargo, a diferencia de la velocidad promedio, la rapidez pro-
+medio no tiene dirección y siempre se expresa como un número positivo. Advierta la clara 
+distinción entre las definiciones de velocidad promedio y rapidez promedio: la velocidad 
+promedio (ec. 2.2) es el desplazamiento dividido entre el intervalo de tiempo, mientras que 
+la rapidez promedio (ec. 2.3) es la distancia dividida entre el intervalo de tiempo.
+El conocimiento de la velocidad promedio o la rapidez promedio de una partícula 
+no proporciona información acerca de los detalles del viaje. Por ejemplo, suponga que 
+le toma 45.0 s andar 100 m por un largo corredor recto hacia su puerta de salida en el 
+aeropuerto. En la marca de 100 m, se da cuenta de que pasó los baños y regresa 25.0 m 
+a lo largo del mismo corredor, y faltan 10.0 s para el viaje de regreso. La magnitud de su 
+velocidad promedio es 75.0 m/55.0 s  1.36 m/s. La rapidez promedio para su viaje es  
+125 m/55.0 s  2.27 m/s. Es posible que haya viajado a varias rapideces durante la cami-
+nata. Ninguna velocidad promedio ni rapidez promedio proporciona información acerca 
+de estos detalles.
+Pregunta rápida 2.1 ¿Bajo cuáles de las siguientes condiciones la magnitud de la velo-
+cidad promedio de una partícula que se mueve en una dimensión es más pequeña que la  
+rapidez promedio durante algún inter valo de tiempo? a) una partícula se mueve en
+  
+la dirección + x sin regresar, b) una partícula se mueve en la dirección x sin regre- 
+sar, c) una partícula se mueve en la dirección x y luego invierte la dirección de su mo-
+vimiento,   d) no existen condiciones para que esto sea cierto.
+Rapidez promedio 0
+PREVENCIÓN DE RIESGOS  
+OCULTOS 2.1
+Rapidez promedio y velocidad  
+promedio
+La magnitud de la velocidad 
+promedio no es la rapidez pro-
+medio. Por ejemplo, considere 
+a la corredora de maratón que 
+se analizó en la ecuación 2.3. 
+La magnitud de su velocidad 
+promedio es cero, pero su 
+rapidez promedio claramente  
+es distinta de cero.
+EJEMPLO 2.1 Cálculo de velocidad y rapidez promedio
+Encuentre el desplazamiento, velocidad promedio y rapidez promedio del automóvil de la figura 2.1a entre las posiciones 
+ y .
+SOLUCIÓN
+Consulte la figura 2.1 para formar una imagen mental del automóvil y su movimiento. Represente el automóvil como una 
+partícula. A partir de la gráfica posición-tiempo dada en la figura 2.1b, note que x   30 m en t   0 s y que x   53 m 
+en t   50 s.
+Use la ecuación 2.1 para encontrar el desplazamiento del automóvil: $x  x   x   53 m  30 m  83 m
+Este resultado significa que el automóvil termina 83 m en la dirección negativa (a la izquierda, en este caso) desde donde 
+partió. Este número tiene las unidades correctas y es del mismo orden de magnitud que los datos proporcionados. Un vistazo 
+rápido a la figura 2.1a indica que es la respuesta correcta.
+
+2.2 Velocidad y rapidez instantáneas
+Con frecuencia es necesario conocer la velocidad de una partícula en un instante específi-
+co en el tiempo en lugar de la velocidad promedio durante un intervalo de tiempo finito. 
+En otras palabras, nos gustaría poder especificar su velocidad de manera tan precisa como 
+detalla su posición al notar lo que ocurre en una lectura particular de reloj; esto es, en 
+algún instante específico. ¿Qué significa hablar acerca de qué tan rápido se mueve algo si 
+se “congela el tiempo” y sólo hablar acerca de un instante individual? A finales del siglo xii, 
+con la invención del cálculo, los científicos empezaron a razonar las formas de describir 
+el movimiento de un objeto en cualquier momento del tiempo.
+Para ver cómo se hace esto, considere la figura 2.3a, que es una reproducción de la 
+gráfica de la figura 2.1b. Ya se discutió la velocidad promedio para el intervalo durante el 
+cual el automóvil se mueve desde la posición 
+ hasta la posición  (dada por la pendiente 
+de la línea azul) y para el intervalo durante el cual se mueve de  a  (representado por 
+la pendiente de la línea azul más larga y que se calculó en el ejemplo 2.1). El automóvil 
+comienza a moverse hacia la derecha, que se define como la dirección positiva. Debido 
+a esto, al ser positivo, el valor de la velocidad promedio durante el intervalo de 
+ a  es 
+más representativo de la velocidad inicial que el valor de la velocidad promedio durante el  
+ Sección 2.2  Velocidad y rapidez instantáneas  23
+Aplique la ecuación 2.2 para encontrar la velocidad promedio: 
+53 m 30 m
+50 s 0 s
+83 m
+50 s 1.7 m>s
+vx, prom
+xx
+tt  
+No es posible encontrar sin ambigüedad la rapidez promedio del automóvil a partir de los datos de la tabla 2.1, porque no 
+se tiene información acerca de las posiciones del automóvil entre los puntos de datos. Si se adopta la suposición de que los 
+detalles de la posición del automóvil se describen mediante la curva de la figura 2.1b, la distancia recorrida es 22 m (desde 
+ a ) más 105 m (de  a ), para un total de 127 m.
+Aplique la ecuación 2.3 para encontrar la rapidez promedio del automóvil: vprom
+127 m
+50 s 2.5 m>s
+Note que la rapidez promedio es positiva, como debe ser. Considere que la curva café de la figura 2.1b fuese diferente de 
+modo que entre 0 s y 10 s viaja desde  a 100 m y luego regresa a . La rapidez promedio del automóvil cambiaría porque 
+la distancia es diferente, pero la velocidad promedio no cambiaría.
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 2.2
+Pendientes de gráficas
+En cualquier gráfica de 
+datos físicos, la pendiente es 
+la relación del cambio en la 
+cantidad representada en el 
+eje vertical al cambio en la 
+cantidad representada en el eje 
+horizontal. Recuerde que una 
+pendiente tiene unidades (a menos 
+que ambos ejes tengan las 
+mismas unidades). Las unidades 
+de la pendiente de la figura 
+2.1b y la figura 2.3 son metros 
+por segundo, las unidades de 
+velocidad.
+Figura 2.3 a) Gráfica que representa el movimiento del automóvil de la figura 2.1. b) Una ampliación 
+de la esquina superior izquierda de la gráfica muestra cómo la línea azul entre las posiciones  y  
+tiende a la línea tangente verde conforme el punto  se mueve más cerca del punto .
+x (m)
+t (s)
+a)
+50 40 30 20 10 0
+60
+20
+0
+20
+40
+60
+
+
+
+
+
+
+40
+60
+40
+b)
+
+
+
+
+
+24 Capítulo 2  Movimiento en una dimensión
+intervalo de  a , que se determinó era negativa en el ejemplo 2.1. Ahora enfóquese 
+en la línea azul corta y deslice el punto  hacia la izquierda a lo largo de la curva, hacia 
+el punto , como en la figura 2.3b. La línea entre los puntos se vuelve cada vez más incli-
+nada, y conforme los dos puntos se vuelven en extremo próximos, la línea se convierte en 
+una línea tangente a la curva, indicada por la línea verde en la figura 2.3b. La pendiente 
+de esta línea tangente representa la velocidad del automóvil en el punto 
+. Lo que se hizo 
+fue determinar la velocidad instantánea en dicho momento. En otras palabras, la velocidad 
+instantánea vx es igual al valor límite de la proporción $x/$t conforme $t tiende a cero:1
+ vx lím
+¢tS0
+¢x
+¢t  (2.4)
+En notación de cálculo, este límite se llama derivada de x  respecto a t, que se escribe  
+dx/dt :
+ vx lím
+¢tS0
+¢x
+¢t
+dx
+dt  (2.5)
+La velocidad instantánea puede ser positiva, negativa o cero. Cuando la pendiente de la 
+gráfica posición-tiempo es positiva, como en cualquier momento durante los primeros  
+10 s en la figura 2.3, v
+x es positiva y el automóvil se mueve hacia valores más grandes de 
+x. Después del punto , vx es negativa porque la pendiente es negativa y el automóvil se 
+mueve hacia valores más pequeños de x. En el punto , la pendiente y la velocidad ins-
+tantánea son cero y el automóvil está momentáneamente en reposo.
+De aquí en adelante, se usa la palabra velocidad para designar velocidad instantánea. 
+Cuando se esté interesado en velocidad promedio, siempre se usará el adjetivo promedio.
+La rapidez instantánea  de una partícula se define como la magnitud de su veloci-
+dad instantánea. Como con la rapidez promedio, la rapidez instantánea no tiene direc-
+ción asociada con ella. Por ejemplo, si una partícula tiene una velocidad instantánea  
+de 25 m/s a lo largo de una línea dada y otra partícula tiene una velocidad instan- 
+tánea de 25 m/s a lo largo de la misma línea, ambas tienen una rapidez
+2 de 25 m/s.
+Pregunta rápida 2.2 ¿Los integrantes de la patrulla de caminos están más interesados 
+en a) la rapidez promedio o b) la rapidez instantánea mientras usted conduce?
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 2.3
+Rapidez instantánea y velocidad 
+instantánea
+En la Prevención de riesgos 
+ocultos 2.1 se argumentó que 
+la magnitud de la velocidad 
+promedio no es la rapidez 
+promedio. Sin embargo, la 
+magnitud de la velocidad 
+instantánea es la rapidez 
+instantánea. En un intervalo 
+de tiempo infinitesimal, la 
+magnitud del desplazamiento  
+es igual a la distancia recorrida 
+por la partícula.
+1 Observe que el desplazamiento $x también tiende a cero conforme $t tiende a cero, de modo que la 
+proporción parece 0/0. Como $x y $t se vuelven cada vez más pequeños, la proporción $x/$t tiende a un 
+valor igual a la pendiente de la línea tangente a la curva x en función de t.
+2 Como con la velocidad, se quita el adjetivo para rapidez instantánea. “Rapidez” significa rapidez instan-
+tánea.
+Velocidad instantánea 0
+Considere los siguientes movimientos unidimensionales:  
+A) una bola lanzada directamente hacia arriba llega al 
+punto más alto y cae de vuelta hacia la mano del lanzador;  
+B) un automóvil de carreras parte del reposo y aumenta su 
+rapidez hasta 100 m/s; y C) una nave espacial navega por el 
+espacio con velocidad constante. ¿Existen algunos puntos 
+en el movimiento de estos objetos donde la velocidad ins-
+tantánea tenga el mismo valor que la velocidad promedio 
+durante todo el movimiento? Si es así, identifique el(los) 
+punto(s).
+SOLUCIÓN
+A) La velocidad promedio para la bola lanzada es cero 
+porque la bola regresa al punto de partida; por lo tanto, su 
+desplazamiento es cero. Hay un punto donde la velocidad 
+instantánea es cero: en lo alto del movimiento.
+B) La velocidad promedio del automóvil no se puede eva-
+luar sin ambigüedad con la información dada, pero debe 
+tener algún valor entre 0 y 100 m/s. Puesto que el auto-
+móvil tendrá una velocidad instantánea entre 0 y 100 m/s 
+en algún momento durante el intervalo, debe haber algún 
+instante cuando la velocidad instantánea sea igual a la velo-
+cidad promedio durante todo el movimiento.
+C) Puesto que la velocidad instantánea de la nave espacial 
+es constante, su velocidad instantánea en cualquier tiempo y 
+su velocidad promedio durante cualquier intervalo de tiem-
+po son iguales.
+EJEMPLO CONCEPTUAL 2.2 La velocidad de diferentes objetos
+
+EJEMPLO 2.3 Velocidad promedio e instantánea
+Una partícula se mueve a lo largo del eje x. Su posición varía con el tiempo 
+de acuerdo con la expresión x  4t  2t 2, donde x está en metros y t está en 
+segundos.3 La gráfica posición-tiempo para este movimiento se muestra en la 
+figura 2.4. Note que la partícula se mueve en la dirección x negativa durante el 
+primer segundo de movimiento, en el momento t  1 s está momentáneamente 
+en reposo y se mueve en la dirección x positiva en tiempos t  1 s.
+A) Determine el desplazamiento de la partícula en los intervalos de tiempo  
+t  0 a t  1 s y t  1 s a t  3 s.
+SOLUCIÓN
+A partir de la gráfica de la figura 2.4, elabore una representación mental del 
+movimiento de la partícula. Tenga en mente que la partícula no se mueve en 
+una trayectoria curva en el espacio, tal como la que muestra la curva café en la 
+exposición gráfica. La partícula se mueve sólo a lo largo del eje x en una dimen-
+sión. En t  0, ¿se mueve a la derecha o a la izquierda?
+Durante el primer intervalo de tiempo, la pendiente es negativa y por lo tanto 
+la velocidad promedio es negativa. En consecuencia, se sabe que el desplaza-
+miento entre 
+ y  debe ser un número negativo que tiene unidades de metros. 
+De igual modo, se espera que el desplazamiento entre  y  sea positivo.
+En el primer intervalo de tiempo, haga ti  t  0 y  
+tf  t  1 s y aplique la ecuación 2.1 para encontrar el 
+desplazamiento:
+Para el segundo intervalo de tiempo ( t  1 s a t  3 s), 
+sea ti  t  1 s y tf  t  3 s:
+También es posible leer estos desplazamientos directa-
+mente de la gráfica posición-tiempo.
+B) Calcule la velocidad promedio durante estos dos intervalos de tiempo.
+SOLUCIÓN
+En el primer intervalo de tiempo, aplique la ecuación 
+2.2 con $t  tf  ti  t  t  1 s:
+En el segundo intervalo de tiempo, $t = 2 s:
+Estos valores son los mismos que las pendientes de las líneas que unen estos puntos en la figura 2.4.
+C) Encuentre la velocidad instantánea de la partícula en t  2.5 s.
+SOLUCIÓN
+Mida la pendiente de la línea verde en t  2.5 s (punto ) en la figura 2.4:
+Aprecie que esta velocidad instantánea está en el mismo orden de magnitud que los resultados anteriores; esto es, unos 
+cuantos metros por segundo. ¿Esto es lo que habría esperado?
+3 Simplemente para facilitar la lectura, la expresión se escribe como x  4t  2t 2 en lugar de x  (4.00 m/s)t  (2.00 m/s2)t 2.00. Cuando una 
+ecuación resuma observaciones, considere que sus coeficientes tienen tantos dígitos significativos como otros datos citados en el problema. Consi-
+dere que sus coeficientes tienen las unidades requeridas para una consistencia dimensional. Cuando inicie el cronómetro en t  0, por lo general 
+no se tiene la intención de limitar la precisión a un solo dígito. Considere que cualquier valor cero en este libro tiene tantas cifras significativas 
+como necesite.
+ Sección 2.2  Velocidad y rapidez instantáneas  25
+Figura 2.4 (Ejemplo 2.3) Gráfica posición-
+tiempo para una partícula que tiene una 
+coordenada x que varía en el tiempo de 
+acuerdo con la expresión x  4t  2t 
+2.
+10
+8
+6
+4
+2
+0
+2
+4
+01234
+t (s)
+x (m)
+
+
+
+
+Pendiente  4 m/s
+Pendiente  2 m/s
+3 4 112 2 1122 43 4 102 2 1022 4  2 m
+x S xf xi xx
+vx  6 m>s
+ 3 4 132 2 1322 43 4 112 2 1122 4  8 m
+x S xf xi xx
+vx, prom 1 S 2
+¢x S
+¢t
+2 m
+1 s  2 m s>
+vx, prom 1 S 2
+¢x S
+¢t
+8 m
+2 s  4 m>s
+
+26 Capítulo 2  Movimiento en una dimensión
+2.3  Modelos de análisis: La partícula  
+bajo velocidad constante
+Una técnica importante en la solución de problemas físicos es usar modelos de análisis. Tales 
+modelos ayudan a analizar situaciones comunes en problemas físicos y lo guían hacia una 
+solución. Un modelo de análisis es un problema que se ha resuelto. Es una de cualquiera de 
+las dos descripciones siguientes 1) el comportamiento de alguna entidad física o 2) la 
+interacción entre dicha entidad y el entorno. Cuando encuentre un nuevo problema, debe 
+identificar los detalles fundamentales del mismo e intentar reconocer cuál de los tipos de 
+problemas que ya resolvió sirve como modelo para el nuevo. Por ejemplo, suponga que un 
+automóvil se mueve a lo largo de una autopista recta con una rapidez constante. ¿Es im-
+portante que sea un automóvil? ¿Es importante que sea una autopista? Si las respuestas a 
+ambas preguntas son no, represente el automóvil como una partícula bajo velocidad constan-
+te, que se discutirá en esta sección.
+Este método es un poco similar a la práctica común de la profesión legal de encon-
+trar “antecedentes legales”. Si encuentra un caso resuelto con anterioridad que sea muy 
+similar, en cuanto a lo legal, al actual, se ofrece como modelo y se plantea un argumento 
+en la corte que los lige en términos lógicos. Por lo tanto el fallo en el caso previo se usa 
+para influir en el fallo del caso actual. En física sucederá algo similar. Para un problema 
+determinado busque un “precedente físico”, un modelo con el que ya esté familiarizado 
+y que sea aplicable al problema actual.
+Los modelos de análisis se generarán respecto a cuatro modelos de simplificación 
+fundamentales. El primero es el modelo de partícula discutido en la introducción de 
+este capítulo; se observará una partícula bajo varios comportamientos e interacciones 
+ambientales. En capítulos siguientes se introducen más modelos de análisis en función de 
+modelos de simplificación de un sistema, un objeto rígido y una onda. Una vez introducidos 
+dichos modelos de análisis, se verá que aparecen de nuevo una y otra vez en diferentes 
+situaciones de problemas.
+Aplique la ecuación 2.2 para construir el primer modelo de análisis para resolver pro-
+blemas. Considere una partícula que se mueve con una velocidad constante. El modelo 
+de partícula bajo velocidad constante se aplica a cualquier situación en la que una entidad 
+que se pueda representar como partícula se mueva con velocidad constante. Esta situación 
+ocurre con frecuencia, de modo que este modelo es importante.
+Si la velocidad de una partícula es constante, su velocidad instantánea en cualquier 
+instante durante un intervalo de tiempo es la misma que la velocidad promedio durante 
+el intervalo. Esto es, v
+x  vx, prom. Debido a esto, la ecuación 2.2 produce una ecuación útil 
+para la representación matemática de esta situación:
+ vx
+¢x
+¢t  (2.6)
+Al recordar que $x  xf  xi, se ve que vx  (xf  xi)/$t, o bien
+xf   xi  vx $t
+Esta ecuación dice que la posición de la partícula se conoce por la suma de su posición 
+original xi en el tiempo t  0 más el desplazamiento vx $t que ocurre durante el intervalo 
+de tiempo $ t. En la práctica, por lo general se elige el tiempo al principio del interva- 
+lo como ti  0 y el tiempo al final del intervalo como tf  t, de modo que la ecuación se 
+convierte en
+ xf  xi  vxt (para vx constante) (2.7)
+Las ecuaciones 2.6 y 2.7 son las ecuaciones básicas que se utilizan en el modelo de una 
+partícula bajo velocidad constante. Se aplica a partículas u objetos que se representan  
+como partículas.
+La figura 2.5 es una exposición gráfica de la partícula bajo velocidad constante. En 
+esta gráfica posición-tiempo, la pendiente de la línea que representa el movimiento es 
+constante e igual a la magnitud de la velocidad. La ecuación 2.7, que es la ecuación de 
+una línea recta, es la representación matemática del modelo de partícula bajo velocidad 
+Posición como una  
+función del tiempo
+0
+Figura 2.5 Gráfica posición-
+tiempo para una partícula bajo 
+velocidad constante. El valor 
+de la velocidad constante es la 
+pendiente de la línea.
+xi
+x
+t
+Pendiente   vx
+$x
+$t
+
+constante. La pendiente de la línea recta es vx y la ordenada al origen y es xi en ambas 
+representaciones.
+EJEMPLO 2.4 Modelado de un corredor como partícula
+Una científica estudia la biomecánica del cuerpo humano. Ella determina la velocidad de un sujeto experimental mientras 
+corre a lo largo de una línea recta con una rapidez constante. La científica activa el cronómetro cuando el corredor pasa 
+por un punto conocido y lo detiene después de que el corredor pasa por otro punto a 20 m de distancia. El intervalo de 
+tiempo que indica el cronómetro es 4.0 s.
+A) ¿Cuál es la velocidad del corredor?
+SOLUCIÓN
+Piense acerca del corredor en movimiento. El corredor se representa como partícula porque su tamaño y el movimiento de 
+brazos y piernas son detalles innecesarios. Puesto que el problema establece que el sujeto corre con una rapidez constante, 
+se representa como una partícula bajo velocidad constante.
+Aplique la ecuación 2.6 para encontrar la velocidad constante del corredor:
+B) Si el corredor continúa su movimiento después de desactivar el cronómetro, ¿cuál es su posición después de transcurri-
+dos 10 s?
+SOLUCIÓN
+Aplique la ecuación 2.7 y la velocidad que encontró en el inciso A) para 
+descubrir la posición de la partícula en el tiempo t  10 s:
+Note que este valor es más del doble que el de la posición de 20 m donde se desactivó el cronómetro. ¿Este valor es consis-
+tente con el tiempo de 10 s que es más del doble que el tiempo de 4.0 s?
+ Sección 2.4  Aceleración  27
+Las manipulaciones matemáticas para la partícula bajo velocidad constante están con-
+tenidas de la ecuación 2.6 y su descendente, la ecuación 2.7. Estas ecuaciones sirven para 
+resolver cualquier variable que resulte desconocida en las ecuaciones, si las otras varia-
+bles son conocidas. Por ejemplo, en el inciso B) del ejemplo 2.4, se encuentra la posición 
+cuando la velocidad y el tiempo se conocen. De igual modo, si se conocen la velocidad y la 
+posición final, se aplica la ecuación 2.7 para encontrar el tiempo cuando el corredor está 
+en dicha posición.
+Una partícula bajo velocidad constante se mueve con una rapidez constante a lo largo 
+de una línea recta. Ahora considere una partícula que se mueve con una rapidez constante 
+a lo largo de una trayectoria curva. Esta situación se representa con el modelo de partícula 
+bajo rapidez constante . La ecuación básica para este modelo es la ecuación 2.3, con la 
+rapidez promedio v
+prom sustituida por la rapidez constante v:
+ v d
+¢t  (2.8)
+Como ejemplo, considere una partícula que se mueve con rapidez constante en una 
+trayectoria circular. Si la rapidez es 5.00 m/s y el radio de la trayectoria es de 10.0 m, se 
+calcula el intervalo de tiempo requerido para completar un viaje alrededor del círculo:
+v
+d
+¢t S¢ t d
+v
+2pr
+v
+2p 110.0 m2
+5.00 m>s 12.6 s
+2.4 Aceleración
+En el ejemplo 2.3 se trabajó con una situación común en la cual la velocidad de una par-
+tícula cambia mientras se mueve. Cuando la velocidad de ésta cambia con el tiempo, se 
+dice que la partícula acelera. Por ejemplo, la magnitud de la velocidad de un automóvil 
+aumenta cuando se pisa el acelerador y disminuye cuando se aplican los frenos. Vea cómo 
+cuantificar la aceleración.
+xf xi vxt 0 15.0 m>s 21 10 s2 50 m
+vx
+¢x
+¢t
+xf xi
+¢t
+20 m 0
+4.0 s 5.0 m>s
+
+28 Capítulo 2  Movimiento en una dimensión
+Considere que un objeto representado como una partícula en movimiento a lo largo del 
+eje x tiene una velocidad inicial vxi en el tiempo ti  y una velocidad final vxf   en el tiempo tf , como 
+en la figura 2.6a. La aceleración promedio ax, prom de la partícula se define como el cambio en  
+velocidad $vx dividido por el intervalo de tiempo $t durante el que ocurre el cambio:
+ ax, prom
+¢vx
+¢t
+vxf vxi
+tf ti
+ (2.9)
+Como con la velocidad, cuando el movimiento a analizar sea unidimensional, se usan 
+los signos positivo y negativo para indicar la dirección de la aceleración. Puesto que las 
+dimensiones de velocidad son L/T y la dimensión de tiempo es T, la aceleración tiene di- 
+mensiones de longitud divididas entre el tiempo al cuadrado, o L/T
+2. La unidad del SI de 
+aceleración es metros por segundo al cuadrado (m/s 2). Es más sencillo interpretar estas 
+unidades si piensa en ellas como metros por segundo por segundo. Por ejemplo, considere 
+que un objeto tiene una aceleración de 2 m/s
+2. Debe formar una imagen mental del 
+objeto que tiene una velocidad a lo largo de una línea recta y aumenta 2 m/s durante cada 
+intervalo de 1 s. Si el objeto parte del reposo, debe ser capaz de representarlo moviéndose 
+con una velocidad de 2 m/s después de 1 s, a 4 m/s después de 2 s, etcétera.
+En algunas situaciones el valor de la aceleración promedio puede ser diferente durante 
+distintos intervalos de tiempo. Por lo tanto, es útil definir la aceleración instantánea como 
+el límite de la aceleración promedio conforme $t tiende a cero. Este concepto es análogo 
+a la definición de velocidad instantánea discutida en la sección 2.2. Si consideramos que 
+el punto 
+ se acerca más y más al punto  en la figura 2.6a y toma el límite de $vx/$t 
+conforme $t tiende a cero, se obtiene la aceleración instantánea en el punto :
+ ax lím
+¢tS0
+¢vx
+¢t
+dvx
+dt  (2.10)
+Esto es: la aceleración instantánea es igual a la derivada de la velocidad r especto al
+ 
+tiempo, que por definición es la pendiente de la gráfica velocidad-tiempo. La pendiente 
+de la línea verde en la figura 2.6b es igual a la aceleración instantánea en el punto 
+. En 
+consecuencia, tal como la velocidad de una partícula en movimiento es la pendiente en un 
+punto sobre la gráfica x–t de la partícula, la aceleración de una partícula es la pendiente 
+en un punto sobre la gráfica v
+x–t de la partícula. Uno puede interpretar la derivada de la 
+velocidad respecto al tiempo como la relación de cambio de velocidad en el tiempo. Si ax 
+es positivo, la aceleración está en la dirección x positiva; si a x es negativa, la aceleración 
+está en la dirección x negativa.
+Para el caso de movimiento en una línea recta, la dirección de la velocidad de un objeto 
+y la dirección de su aceleración se relacionan del modo siguiente. Cuando la velocidad y 
+la aceleración del objeto están en la misma dirección, el objeto aumenta su velocidad. Por 
+otra parte, cuando la velocidad y la aceleración del objeto están en direcciones opuestas, 
+el objeto frena.
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 2.4
+Aceleración negativa
+Tenga en mente que la 
+aceleración negativa no 
+necesariamente significa que 
+un objeto está frenando. Si la 
+aceleración es negativa y la 
+velocidad es negativa, ¡el objeto 
+está aumentando velocidad!
+Aceleración instantánea 0
+Aceleración promedio 0
+PREVENCIÓN DE RIESGOS  
+OCULTOS 2.5
+Desaceleración
+La palabra desaceleración tiene 
+la connotación popular de 
+frenar. En este libro no se usará 
+esta palabra porque confunde 
+la definición dada para 
+aceleración negativa.
+Figura 2.6 a) Un automóvil, modelado como partícula, que se mueve a lo largo del eje x de  a , 
+tiene velocidad vxi en t  ti y velocidad vxf en t  tf . b) Gráfica velocidad-tiempo (café) para la partícula 
+que se mueve en una línea recta. La pendiente de la línea recta azul que conecta  y  es la aceleración 
+promedio del automóvil durante el intervalo de tiempo $t = tf – ti. La pendiente de la línea verde es la 
+aceleración instantánea del automóvil en el punto .
+
+
+
+tfti
+vxi
+vxf
+vx ax, prom =
+$t
+$vx
+$vx
+$t
+t
+b)
+ti tf
+a)
+x
+v  vxi v vxf
+
+
+Para ayudar con esta discusión de los signos de velocidad y aceleración, se relaciona 
+la aceleración de un objeto con la fuerza total ejercida sobre el objeto. En el capítulo 5 se 
+establece formalmente que la fuerza es proporcional a la aceleración:
+ F x t ax  (2.11)
+Esta proporcionalidad indica que la aceleración es causada por una fuerza. Más aún, 
+fuerza y aceleración son vectores, y los vectores actúan en la misma dirección. Debido a 
+esto, piense acerca de los signos de la velocidad y la aceleración al considerar una fuerza 
+aplicada a un objeto y que causa su aceleración. Suponga que velocidad y aceleración están 
+en la misma dirección. Esta situación corresponde a un objeto que experimenta una fuerza 
+que actúa en la misma dirección que su velocidad. En este caso, ¡el objeto aumenta su 
+velocidad! Ahora suponga que velocidad y aceleración están en direcciones opuestas. En 
+esta situación, el objeto se mueve en alguna dirección y experimenta una fuerza que actúa 
+en la dirección opuesta. Por lo tanto, ¡el objeto frena! Es muy útil igualar la dirección de 
+la aceleración a la dirección de una fuerza, porque es más fácil, a partir de la experiencia 
+cotidiana, pensar acerca de qué efecto tendrá una fuerza sobre un objeto que pensar sólo 
+en términos de la dirección de la aceleración.
+Pregunta rápida 2.3 Si un automóvil viaja hacia el este y frena, ¿cuál es la dirección 
+de la fuerza sobre el automóvil que hace que frene? a) hacia el este, b) hacia el oeste,  
+c) ni al este ni al oeste.
+Desde ahora se usará el término aceleración para dar a entender aceleración instantánea. 
+Cuando se hable de aceleración promedio, siempre se usará el adjetivo pr
+omedio. Puesto 
+que vx = dx/dt, la aceleración también se escribe como
+ ax
+dvx
+dt
+d
+dt a dx
+dt b d2x
+dt2  (2.12)
+Esto es: en un movimiento unidimensional, la aceleración es igual a la segunda derivada de 
+x respecto del tiempo.
+La figura 2.7 ilustra cómo una gráfica aceleración-tiempo se relaciona con una grá-
+fica velocidad-tiempo. La aceleración en cualquier tiempo es la pendiente de la gráfica 
+velocidad-tiempo en dicho tiempo. Los valores positivos de la aceleración corresponden 
+a los puntos en la figura 2.7a donde la velocidad aumenta en la dirección x positiva. La 
+aceleración alcanza un máximo en el tiempo t
+, cuando la pendiente de la gráfica velo-
+cidad-tiempo es un máximo. Después, la aceleración llega a cero en el tiempo t, cuando 
+la velocidad es un máximo (esto es: cuando la pendiente de la gráfica vxt es cero). La 
+aceleración es negativa cuando la velocidad disminuye en la dirección x positiva, y llega a 
+su valor más negativo en el tiempo t.
+Pregunta rápida 2.4 Haga una gráfica velocidad-tiempo para el automóvil de la figura 
+2.1a. El límite de rapidez que se ve en la señal del camino es 30 km/h. ¿Cierto o falso? El 
+automóvil supera el límite de rapidez en algún momento dentro del intervalo de tiempo 
+0 
+ 50 s.
+ Sección 2.4  Aceleración  29
+Figura 2.7 La aceleración 
+instantánea se obtiene de la 
+gráfica velocidad-tiempo a). En 
+cada instante, la aceleración en 
+la gráfica de a
+x en función de t 
+b) es igual a la pendiente de la 
+línea tangente a la curva de v
+x en 
+función de t a).
+t
+b)
+a)
+ax
+t t
+t
+t t t
+vx
+t
+EJEMPLO CONCEPTUAL 2.5 Relaciones gráficas entre x, vx y ax
+La posición de un objeto que se mueve a lo largo del eje 
+x varía con el tiempo, como en la figura 2.8a. Grafique la 
+velocidad en función del tiempo y la aceleración en función 
+del tiempo para el objeto.
+SOLUCIÓN
+La velocidad en cualquier instante es la pendiente de la 
+tangente a la gráfica x–t en dicho instante. Entre t  0 y  
+t  t
+, la pendiente de la gráfica x-t aumenta uniformemen-
+te, de modo que la velocidad aumenta linealmente como 
+se muestra en la figura 2.8b. Entre t
+ y t, la pendiente de 
+la gráfica x–t es constante, de esa manera la velocidad per-
+manece constante. Entre t
+ y t, la pendiente de la gráfica 
+x–t disminuye, de igual manera el valor de la velocidad en 
+la gráfica v
+x–t disminuye. En t, la pendiente de la gráfica 
+x–t es cero, por eso la velocidad es cero en dicho instante. 
+Entre t
+ y t, la pendiente de la gráfica x–t y debido a esto 
+la velocidad son negativas y disminuyen uniformemente en 
+este intervalo. En el intervalo t
+ a t, la pendiente de la 
+gráfica x–t todavía es negativa, y en t va a cero. Por último, 
+después de t, la pendiente de la gráfica x–t es cero, lo que 
+significa que el objeto está en reposo para t  t.
+
+30 Capítulo 2  Movimiento en una dimensión
+La aceleración en cualquier instante es la pendiente de 
+la tangente a la gráfica vx–t en dicho instante. En la figura 
+2.8c se muestra la gráfica de aceleración en funció del tiem-
+po para ese objeto. La aceleración es constante y positiva 
+entre 0 y t
+, donde la pendiente de la gráfica vx–t es positi-
+va. Es cero entre t  y t y para t  t porque la pendiente 
+de la gráfica vx–t es cero en estos tiempos. Es negativa entre 
+t y t porque la pendiente de la gráfica vx–t es negativa 
+durante ese intervalo. Entre t  y t  la aceleración es posi-
+tiva como lo es entre 0 y t, pero mayor en valor porque la 
+pendiente de la gráfica vx–t es más inclinada.
+Advierta que los cambios súbitos en aceleración que se 
+muestran en la figura 2.8c no son físicos. Tales cambios 
+instantáneos no ocurren en la realidad.
+Figura 2.8 (Ejemplo 2.5) a) Gráfica posición-tiempo para un objeto 
+que se mueve a lo largo del eje x. b) La gráfica velocidad-tiempo 
+para el objeto se obtiene al medir la pendiente de la gráfica posición-
+tiempo en cada instante. c) La gráfica aceleración-tiempo para el 
+objeto se obtiene al medir la pendiente de la gráfica velocidad-
+tiempo en cada instante.
+EJEMPLO 2.6 Aceleración promedio e instantánea
+La velocidad de una partícula que se mueve a lo 
+largo del eje x varía de acuerdo con la expresión  
+vx  (40  5t 2) m/s, donde t está en segundos.
+A) Encuentre la aceleración promedio en el interva-
+lo de tiempo t  0 a t  2.0 s.
+SOLUCIÓN
+Piense qué hace la partícula a partir de la represen-
+tación matemática. ¿Se mueve en t  0? ¿En qué di- 
+rección? ¿Aumenta velocidad o frena? La figura 2.9 
+es una gráfica v
+x–t que se creó a partir de la expre-
+sión de velocidad en función del tiempo dada en el 
+enunciado del problema. Puesto que la pendiente 
+de toda la curva v
+x–t es negativa, se espera que la 
+aceleración sea negativa.
+Encuentre las velocidades en ti  t  0 y tf  t  
+2.0 s al sustituir estos valores de t en la expresión 
+para la velocidad:
+Encuentre la aceleración promedio en el intervalo 
+de tiempo especificado $t  t  t  2.0 s:
+El signo negativo es consistente con las expectativas, a saber: que la aceleración, representada por la pendiente de la línea 
+que une los puntos inicial y final en la gráfica velocidad-tiempo, es negativa.
+B) Determine la aceleración en t  2.0 s.
+a)
+b)
+c)
+x
+tttttt
+tttt t
+ttO
+tO
+tO t ttt
+vx
+ax
+10
+10
+0
+01234
+t (s)
+vx (m/s)
+20
+30
+40
+20
+30
+Pendiente  20 m/s2
+
+
+Figura 2.9 (Ejemplo 2.6) 
+Gráfica velocidad-tiempo para 
+una partícula que se mueve a 
+lo largo del eje x de acuerdo 
+con la expresión v
+x  (40  
+5t 2) m/s. La aceleración en  
+t  2 s es igual a la pendiente 
+de la línea tangente verde en 
+dicho tiempo.
+vx (40 5t 2) m/s [40 5(0) 2] m/s 40 m/s 
+vx (40 5t 2) m/s [40 5(2.0) 2] m/s 20 m/s 
+  10 m>s2
+ ax, prom
+vxf vxi
+tf ti
+vx vx
+tt
+120 40 2 m>s
+12.0 0 2 s
+
+SOLUCIÓN
+Al saber que la velocidad inicial en cualquier tiempo t es 
+vxi  (40  5 t 2) m/s, encuentre la velocidad en cualquier 
+tiempo ulterior t  $t :
+Encuentre el cambio en velocidad en el intervalo de tiempo 
+$t :
+Para encontrar la aceleración en cualquier tiempo t, divida 
+esta expresión entre $t y tome el límite del resultado con-
+forme $t tiende a cero:
+Sustituya t  2.0 s:
+Puesto que la velocidad de la partícula es positiva y la aceleración es negativa en este instante, la partícula disminuye su 
+veocidad.
+Note que las respuestas a los incisos A) y B) son diferentes. La aceleración promedio en A) es la pendiente de la línea 
+azul que en la figura 2.9 conecta los puntos 
+ y . La aceleración instantánea en B) es la pendiente de la línea verde tan-
+gente a la curva en el punto . Repare también en que la aceleración no es constante en este ejemplo. Las situaciones que 
+involucran aceleración constante se tratan en la sección 2.6.
+Hasta el momento se han evaluado las derivadas de una función al comenzar con la 
+definición de la función y luego tomar el límite de una relación específica. Si está familia-
+rizado con el cálculo, reconocerá que hay reglas específicas para tomar derivadas. Estas 
+reglas, que se mencionan en el apéndice B.6, le permiten evaluar derivadas rápidamente. 
+Por ejemplo, una regla dice que la derivada de cualquier constante es cero. Como otro 
+ejemplo, considere que x es proporcional a alguna potencia de t, como en la expresión
+x  At 
+n
+donde A y n son constantes. (Esta expresión es una forma funcional muy común.) La 
+derivada de x respecto a t es
+dx
+dt nAtn 1
+Al aplicar esta regla al ejemplo 2.5, en el que vx  40  5 t 2, de inmediato se encuentra 
+que la aceleración es ax  dvx/dt  10t.
+2.5 Diagramas de movimiento
+Con frecuencia los conceptos de velocidad y aceleración se confunden uno con otro, 
+pero en realidad son cantidades muy diferentes. Al formar una representación mental 
+de un objeto en movimiento, a veces es útil usar una representación pictórica llamada 
+diagrama de movimiento para describir la velocidad y la aceleración mientras un objeto está 
+en movimiento.
+Un diagrama de movimiento se forma al considerar una fotografía estroboscópica de un 
+objeto en movimiento, que muestra varias imágenes del objeto tomadas conforme la luz 
+estroboscópica destella en intervalos constantes. La figura 2.10 representa tres conjuntos 
+de fotografías estroboscópicas de automóviles que se mueven a lo largo de una autopista 
+recta en una sola dirección, de izquierda a derecha. Los intervalos de tiempo entre los 
+destellos del estroboscopio son iguales en cada parte del diagrama. De modo que, para 
+no confundir las dos cantidades vectoriales, en la figura 2.10 se usa rojo para los vectores 
+velocidad y violeta para los vectores aceleración. Los vectores se muestran en varios ins-
+tantes durante el movimiento del objeto. Describa el movimiento del automóvil en cada 
+diagrama.
+En la figura 2.10a, las imágenes del automóvil están igualmente espaciadas, lo que 
+muestra que el automóvil se mueve a través del mismo desplazamiento en cada intervalo 
+de tiempo. Este espaciamiento igual es consistente con el automóvil que se mueve con 
+velocidad positiva constante y aceleración cero.
+a
+x lím
+¢tS0
+¢vx
+¢t lím
+¢tS0
+1 10t 5¢t 2 10t m>s2
+¢vx vxf vxi 3 10t ¢t 5 1¢t 22 4 m>s
+vxf 40 5 1t ¢t 22 40 5t 2 10t ¢t 5 1¢t 22
+ax 1 1021 2.02 m>s2 20 m>s2
+ Sección 2.5  Diagramas de movimiento  31
+
+32 Capítulo 2  Movimiento en una dimensión
+Se podría representar el automóvil como una partícula y describirlo con el modelo de 
+partícula bajo velocidad constante.
+En la figura 2.10b, las imágenes se separan más conforme avanza el tiempo. En este 
+caso, el vector velocidad aumenta en longitud con el tiempo, porque el desplazamiento del 
+automóvil entre posiciones adyacentes aumenta en el tiempo. Esta característica sugiere 
+que el automóvil se mueve con una velocidad positiva y una aceleración positiva. La velocidad 
+y la aceleración están en la misma dirección. En términos de la anterior discusión de 
+fuerza, imagine una fuerza que jala al automóvil en la misma dirección en que se mueve: 
+aumenta velocidad.
+En la figura 2.10c, el automóvil frena conforme se mueve a la derecha porque su des-
+plazamiento entre imágenes adyacentes disminuye con el tiempo. Este caso sugiere que 
+el automóvil se mueve hacia la derecha con una aceleración negativa. La longitud del 
+vector velocidad disminuye en el tiempo y eventualmente llega a cero. A partir de este 
+diagrama se ve que los vectores aceleración y velocidad no están en la misma dirección. 
+El automóvil se mueve con una velocidad positiva, pero con una aceleración negativa. (Este 
+tipo de movimiento se muestra para un automóvil que derrapa hasta detenerse después 
+de aplicar los frenos.) La velocidad y la aceleración están en direcciones opuestas. En 
+términos de la anterior discusión de fuerza, imagine una fuerza que jala el automóvil en 
+dirección opuesta a la que se mueve: frena.
+Los vectores aceleración violeta en los incisos b) y c) de la figura 2.10 tienen todos la 
+misma longitud. Por lo tanto, estos diagramas representan movimiento de una partícula 
+bajo aceleración constante . Este modelo importante de análisis se discutirá en la siguiente 
+sección.
+Pregunta rápida 2.5 ¿Cuál de los siguientes enunciados es verdadero? a) Si un automóvil 
+viaja hacia el este, su aceleración debe estar hacia el este.  
+b) Si un automóvil frena, su 
+aceleración debe ser negativa. c) Una partícula con aceleración constante nunca puede 
+detenerse ni permanecer detenida.
+2.6 La partícula bajo aceleración constante
+Si la aceleración de una partícula varía con el tiempo, su movimiento es complejo y difícil 
+de analizar. Sin embargo, un tipo muy común y simple de movimiento unidimensional, es 
+aquel en el que la aceleración es constante. En tal caso, la aceleración promedio a
+x, prom en 
+a)
+b)
+c)
+v
+v
+v
+a
+a
+Figura 2.10 a) Diagrama de movimiento para un automóvil que se mueve con velocidad constante 
+(aceleración cero). b) Diagrama de movimiento para un automóvil cuya aceleración constante está en 
+la dirección de su velocidad. El vector velocidad en cada instante se indica mediante una flecha roja 
+y la aceleración constante se indica mediante una flecha violeta. c) Diagrama de movimiento para un 
+automóvil cuya aceleración constante está en la dirección opuesta a la velocidad en cada instante.
+
+cualquier intervalo de tiempo es numéricamente igual a la aceleración instantánea ax 
+en cualquier instante dentro del intervalo, y la velocidad cambia con la misma proporción 
+a lo largo del movimiento. Esta situación ocurre con suficiente frecuencia como para que 
+se le identifique como un modelo de análisis: la partícula bajo aceleración constante. En 
+la discusión que sigue se generan varias ecuaciones que describen el movimiento de una 
+partícula para este modelo.
+Si en la ecuación 2.9 sustituye a
+x, prom con ax y toma ti  0 y tf como cualquier tiempo t 
+posterior, se encuentra que
+ax
+vxf vxi
+t 0
+o
+ v xf  vxi  axt  (para ax constante) (2.13)
+Esta poderosa expresión permite determinar la velocidad de un objeto en cualquier tiempo 
+t, si se conoce la velocidad inicial vxi del objeto y su aceleración ax (constante). En la figura  
+2.11b se muestra una gráfica velocidad-tiempo para este movimiento con aceleración  
+constante. La gráfica es una línea recta, cuya pendiente es la aceleración ax; la pendiente 
+(constante) es consistente con ax  dvx/dt constante. Note que la pendiente es positi-
+va, lo que indica una aceleración positiva. Si la aceleración fuese negativa, la pendiente  
+de la línea en la figura 2.11b sería negativa. Cuando la aceleración es constante, la grá- 
+fica de aceleración en función del tiempo (figura 2.11c) es una línea recta que tiene una 
+pendiente cero.
+Puesto que la velocidad con aceleración constante varía linealmente en el tiempo, de 
+acuerdo con la ecuación 2.13, se expresa la velocidad promedio en cualquier intervalo  
+de tiempo como la media aritmética de la velocidad inicial v
+xi y la velocidad final vxf  :
+ vx, prom
+vxi vxf
+2   1para ax constante2  (2.14)
+Note que esta expresión para la velocidad promedio sólo se aplica en situaciones en que 
+la aceleración es constante.
+Ahora es necesario aplicar las ecuaciones 2.1, 2.2 y 2.14 para obtener la posición de un 
+objeto como función del tiempo. Al recordar que $x en la ecuación 2.2 representa xf  xi 
+y reconocer que $t  tf  ti  t  0  t, se encuentra que
+ xf xi
+1
+2 1vxi vxf 2t  1para ax constante2
+xf xi vx, prom t 1
+2
+1vxi vxf 2t
+  (2.15)
+Esta ecuación proporciona la posición final de la partícula en el tiempo t en términos de 
+las velocidades inicial y final.
+Otra expresión útil para la posición de una partícula bajo aceleración constante se  
+obtiene al sustituir la ecuación 2.13 en la ecuación 2.15:
+ xf xi vxit 1
+2axt 2 1para ax constante2
+xf xi
+1
+2
+3vxi 1vxi axt 24 t
+ (2.16)
+Esta ecuación proporciona la posición final de la partícula en el tiempo t en términos de 
+la velocidad inicial y la aceleración constante.
+La gráfica posición-tiempo para movimiento con aceleración constante (positiva) que 
+se muestra en la figura 2.11a se obtiene de la ecuación 2.16. Perciba que la cur va es una 
+parábola. La pendiente de la línea tangente a esta cur
+va en t  0 es igual a la velocidad 
+inicial vxi, y la pendiente de la línea tangente en cualquier tiempo posterior t es igual a la 
+velocidad vxf en dicho tiempo.
+1 Posición como una 
+función de la velocidad  
+y el tiempo
+1 Posición como una 
+función del tiempo
+Figura 2.11 Una partícula bajo 
+aceleración constante ax que se 
+mueve a lo largo del eje x: a) 
+gráfica posición-tiempo, b) gráfica 
+velocidad-tiempo y c) gráfica 
+aceleración-tiempo.
+b)
+vx
+vxi
+0
+vxf
+t
+vxi
+axt
+t
+Pendiente   ax
+c)
+ax
+0
+ax
+t
+Pendiente  0
+a)
+x
+0 t
+xi
+Pendiente  vxi
+t
+Pendiente  vxf
+ Sección 2.6  La partícula bajo aceleración constante  33
+
+34 Capítulo 2  Movimiento en una dimensión
+Por último, es posible obtener una expresión para la velocidad final que no contenga 
+tiempo como variable al sustituir el valor de t de la ecuación 2.13 en la ecuación 2.15:
+ 
+vxf
+2 vxi
+2 2ax 1xf xi 21 para ax constante2
+xf xi
+1
+2 1vxi vxf 2a
+vxf vxi
+ax
+b xi
+vxf
+2 vxi 2
+2ax
+  
+(2.17)
+Esta ecuación proporciona la velocidad final en términos de la velocidad inicial, la acele-
+ración constante y la posición de la partícula.
+Para movimiento con aceleración cero, se ve de las ecuaciones 2.13 y 2.16 que
+vxf vxi vx
+xf xi vxt f   cuando ax 0
+Esto es, cuando la aceleración de una partícula es cero, su velocidad es constante y su po-
+sición cambia linealmente con el tiempo. En términos de modelos, cuando la aceleración 
+de una partícula es cero, el modelo de partícula bajo aceleración constante se reduce al 
+modelo de partícula bajo velocidad constante (sección 2.3).
+Pregunta rápida 2.6 En la figura 2.12, relacione cada gráfica v
+x–t de la parte superior 
+con la gráfica ax–t de la parte inferior que mejor describa el movimiento.
+Velocidad como una 
+función de la posición
+0
+Figura 2.12 (Pregunta rápida 2.6) Los 
+incisos a), b) y c) son gráficas vx–t de 
+objetos en movimiento unidimensional. 
+Las posibles aceleraciones de 
+cada objeto se muestran en forma 
+desordenada en d), e) y f).
+t
+vx
+a)
+t
+ax
+d)
+t
+vx
+b)
+t
+ax
+e)
+t
+vx
+c)
+t
+ax
+f)
+Las ecuaciones de la 2.13 a la 2.17 son ecuaciones cinemáticas útiles para resolver cual-
+quier problema que involucre una partícula bajo aceleración constante en una dimensión. 
+Las cuatro ecuaciones cinemáticas que se usan con más frecuencia se mencionan en la 
+tabla 2.2. La elección de cuál ecuación usar en una situación dada depende de qué sepa de 
+antemano. A veces es necesario usar dos de estas ecuaciones para resolver dos incógnitas. 
+Debe reconocer que las cantidades que varían durante el movimiento son la posición x
+f, 
+la velocidad vxf y el tiempo t.
+Al resolver numerosos ejercicios y problemas obtendrá mucha experiencia en el uso 
+de estas ecuaciones. Muchas veces descubrirá que se puede usar más de un método para 
+TABLA 2.2
+Ecuaciones cinemáticas para movimiento de una partícula bajo aceleración constante
+Número    
+de ecuación Ecuación Información que se conoce por la ecuación
+2.13 vxf vxi axt Velocidad como función del tiempo
+2.15 xf xi
+1
+2 1vxi vxf 2t  Posición como función de velocidad y tiempo
+2.16 xf xi vxit 1
+2
+axt 2 Posición como función del tiempo
+2.17 vxf
+2 vxi
+2 2ax 1xf xi 2 Velocidad como función de la posición
+Nota: El movimiento es a lo largo del eje x.
+
+obtener una solución. Recuerde que estas ecuaciones de cinemática no se pueden usar en 
+una situación en que la aceleración varía con el tiempo. Son útiles sólo cuando la acele-
+ración es constante.
+EJEMPLO 2.7 Aterrizaje en portaaviones
+Un jet aterriza en un portaaviones a 140 mi/h ( 63 m/s).
+A) ¿Cuál es su aceleración (constante) si se detiene en 2.0 s debido a un cable de arresto que traba al jet y lo deja en reposo?
+SOLUCIÓN
+Es posible que haya visto películas o programas de televisión en los que un jet aterriza sobre un portaaviones y se lleva al 
+reposo sorprendentemente rápido mediante un cable de arresto. Puesto que la aceleración del jet se supone constante, se 
+le representa como una partícula bajo aceleración constante. El eje x se define como la dirección de movimiento del jet. 
+Una lectura cuidadosa del problema revela que, además de estar dada la rapidez inicial de 63 m/s, también se sabe que la 
+rapidez final es cero. Perciba también que no se tiene información acerca del cambio en posición del jet mientras frena.
+La ecuación 2.13 es la única en la tabla 2.2 que no involucra 
+la posición, de modo que se le usa para encontrar la acelera-
+ción del jet, representado como partícula:
+B) Si el jet toca al portaaviones en la posición x
+i = 0, ¿cuál es su posición final?
+SOLUCIÓN
+Aplique la ecuación 2.15 para resolver la posición final: xf xi
+1
+2 1vxi vxf 2t 0 1
+2
+163 m>s0 21 2.0 s2  63 m
+Si el jet recorre más allá de 63 m, puede caer al océano. La idea de usar cables de arresto para frenar a la aeronave que 
+aterriza y permitirle aterrizar con seguridad en los barcos surgió en la primera Guerra Mundial. Los cables todavía son una 
+parte vital de la operación de los modernos portaaviones.
+¿Qué pasaría si? Suponga que el jet aterriza en la cubierta del portaaviones con una rapidez mayor que 63 m/s pero tiene 
+la misma aceleración debida al cable calculada en el inciso A). ¿Cómo cambiará esto la respuesta del inciso B)?
+Respuesta Si el jet viaja más rápido que al principio se detendrá más lejos de su punto de partida, de modo que la respuesta 
+del inciso B) sería más grande. Matemáticamente, en la ecuación 2.15 se ve que, si v
+xi es más grande, xf será más grande.
+EJEMPLO 2.8  ¡Observe el límite de rapidez!
+Un automóvil que viaja con una rapidez constante de 45.0 
+m/s pasa por donde un patrullero en motocicleta está ocul-
+to detrás de un anuncio espectacular. Un segundo después 
+de que el automóvil pasa el anuncio, el patrullero sale de su 
+escondite para detener al automóvil, que acelera con una 
+relación constante de 3.00 m/s
+2. ¿Cuánto tiempo tarda en 
+dar alcance al automóvil?
+SOLUCIÓN
+Una representación pictórica (figura 2.13) ayuda a clarifi-
+car la secuencia de eventos. El automóvil se modela como 
+una partícula bajo velocidad constante y el patrullero se 
+modela como una partícula bajo aceleración constante.
+Primero, escriba expresiones para la posición de cada 
+vehículo como función del tiempo. Es conveniente elegir la 
+posición del anuncio como el origen y hacer t
+  0 como el 
+tiempo en que el patrullero comienza a moverse. En dicho 
+Figura 2.13 (Ejemplo 2.8) Un veloz automóvil rebasa a un 
+patrullero oculto.
+vx automóvil  45.0 m/s
+ax automóvil  0
+ax patrullero  3.00 m/s2
+
+t  1.00 s t  0 t  ?
+
+  32 m>s2 
+ ax
+vxf vxi
+t
+0 63 m> s
+2.0 s
+ Sección 2.6  La partícula bajo aceleración constante  35
+
+36 Capítulo 2  Movimiento en una dimensión
+instante, el automóvil ya recorrió una distancia de 45.0 m desde el anuncio, porque viajó con una rapidez constante de  
+vx  45.0 m/s durante 1 s. Por lo tanto, la posición inicial del automóvil es x  45.0 m.
+Al aplicar la ecuación 2.7 para obtener la posición del automó-
+vil en cualquier tiempo t:
+Una revisión rápida muestra que, en t = 0, esta expresión da la posición inicial correcta del automóvil cuando el patrullero 
+comienza a moverse: xautomóvil  x  45.0 m.
+El patrullero parte del reposo en t  0 y acelera a 3.00 m/s 2 
+alejándose del origen. Use la ecuación 2.16 para dar la posición 
+en cualquier tiempo t:
+Iguale las dos posiciones para representar al patrullero dando 
+alcance al automóvil en la posición :
+Simplifique para obtener una ecuación cuadrática:
+La solución positiva de esta ecuación es t   31.0 s.
+(Para ayuda en la resolución de ecuaciones cuadráticas, vea el apéndice B.2.)
+¿Qué pasaría si? ¿Y si el patrullero tiene una motocicleta más poderosa con una aceleración mayor? ¿Cómo cambiaría el 
+tiempo en que el patrullero da alcance al automóvil?
+Respuesta Si la motocicleta tuviese una aceleración mayor, el patrullero alcanzaría al automóvil más rápido, de modo que 
+la respuesta para el tiempo sería menor que 31 s.
+Presente la ecuación cuadrática final anterior en términos de 
+los parámetros del problema:
+Resuelva la ecuación cuadrática:
+donde se eligió el signo positivo porque es la única opción consistente con un tiempo t
+  0. Dado que todos los términos 
+del lado derecho de la ecuación tienen la aceleración ax en el denominador, aumentar la aceleración disminuirá el tiempo 
+en que el patrullero alcanza al automóvil.
+2.7 Objetos en caída libre
+Es bien sabido que, en ausencia de resistencia del aire, todos los objetos que se dejan caer 
+cerca de la superficie de la Tierra caen hacia ella con la misma aceleración constante bajo 
+la influencia de la gravedad de la Tierra. No fue sino hasta alrededor de 1600 que se aceptó 
+esta conclusión. Antes de esta época, las enseñanzas del filósofo griego Aristóteles (384-322 
+a.C.) sostenían que los objetos más pesados caían más rápido que los ligeros.
+El italiano Galileo Galilei (1564-1642) originó las ideas actuales acerca de los objetos 
+que caen. Hay una leyenda de que él demostró el comportamiento de los objetos que caen 
+al observar que dos pesos diferentes soltados simultáneamente de la Torre Inclinada de 
+Pisa golpeaban el suelo aproximadamente al mismo tiempo. Aunque hay ciertas dudas 
+de que llevó a cabo este experimento particular, está bien establecido que Galileo realizó 
+muchos experimentos sobre objetos en movimiento en planos inclinados. En sus experi-
+mentos hacía rodar bolas por un plano ligeramente inclinado y medía las distancias que 
+recorrían en intervalos de tiempo sucesivos. El propósito del plano inclinado era reducir 
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 2.7
+El signo de g
+Tenga en mente que g es un 
+número positivo. Es tentador 
+sustituir 9.80 m/s
+2 por g, 
+pero resista la tentación. La 
+aceleración gravitacional 
+descendente se indica 
+explícitamente al establecer la 
+aceleración como a
+y  g.
+PREVENCIÓN DE RIESGOS  
+OCULTOS 2.6
+g y g
+Asegúrese de no confundir 
+el símbolo cursivo g para la 
+aceleración en caída libre con el 
+símbolo no cursivo g que se usa 
+como abreviatura de la unidad 
+gramo.
+xautomóvil xv x automóvilt 45.0 m (45.0 m/s) t
+xpatrullero 0 102t 1
+2axt 2 1
+2
+13.00 m>s2 2t 2
+xf xi vxit 1
+2
+axt 2
+1
+2 13.00 m>s2 2t 2 45.0 m 145.0 m>s 2t
+xpatrullero xautomóvil
+1.50t2 45.0t 45.0 0
+1
+2axt 2 vx automóviltx 0
+t
+vx automóvil v2
+x automóvil 2axx   
+ax
+vx automóvil
+ax
+v2
+x automóvil
+ax
+2
+2x
+ax
+
+la aceleración, lo que hizo posible que tomara mediciones precisas de los intervalos de 
+tiempo. Al aumentar gradualmente la pendiente del plano, al final fue capaz de extraer 
+conclusiones acerca de los objetos en caída libre, porque una bola en caída libre es equi-
+valente a una bola que se mueve por un plano inclinado vertical.
+Acaso quiera intentar el siguiente experimento. Suelte simultáneamente, desde la 
+misma altura, una moneda y un trozo de papel arrugado. Si los efectos de la resistencia 
+del aire son despreciables, ambos tendrán el mismo movimiento y golpearán el suelo al 
+mismo tiempo. En el caso idealizado, en el que la resistencia del aire está ausente, a tal 
+movimiento se le refiere como movimiento  en caída libre . Si este mismo experimento se 
+pudiese realizar en un vacío, en el que la resistencia del aire realmente es despreciable, el 
+papel y la moneda caerían con la misma aceleración aun cuando el papel no esté arrugado. 
+El 2 de agosto de 1971, el astronauta David Scott realizó tal demostración en la Luna. Soltó 
+simultáneamente un martillo y una pluma y los dos objetos cayeron al mismo tiempo en la 
+superficie lunar. ¡Seguramente esta simple demostración habría complacido a Galileo!
+Cuando se usa la expresión objeto en caída libre no necesariamente se hace referencia a 
+un objeto que se suelta desde el reposo. Un objeto en caída libre es cualquier objeto que 
+se mueve libremente sólo bajo la influencia de la gravedad, sin importar su movimiento 
+inicial. Los objetos que se lanzan hacia arriba o abajo y los que se liberan desde el reposo 
+están todos en caída libre una vez que se liberan. Cualquier objeto en caída libre experi-
+menta una aceleración dirigida hacia abajo, sin importar su movimiento inicial.
+La magnitud de la aceleración de caída libre se denotará mediante el símbolo g. El valor 
+de g cerca de la superficie de la Tierra disminuye conforme aumenta la altitud. Además, 
+ocurren ligeras variaciones en g con cambios en latitud. En la superficie de la Tierra, el 
+valor de g es aproximadamente 9.80 m/s
+2. A menos que se establezca de otro modo, se 
+usará este valor para g cuando se realicen cálculos. Para hacer estimaciones rápidas, use 
+g  10 m/s
+2.
+Si se ignora la resistencia del aire y se supone que la aceleración de caída libre no varía 
+con la altitud en distancias verticales cortas, el movimiento de un objeto en caída libre que 
+se mueve verticalmente es equivalente al movimiento de una partícula bajo aceleración 
+constante en una dimensión. Debido a eso, se aplican las ecuaciones desarrolladas en la 
+sección 2.6 para objetos que se mueven con aceleración constante. La única modificación 
+que se necesita hacer en estas ecuaciones para los objetos en caída libre es notar que el 
+movimiento es en la dirección vertical (la dirección y) antes que en la dirección horizontal 
+(x) y que la aceleración es hacia abajo y tiene una magnitud de 9.80 m/s
+2. En consecuen-
+cia, siempre se elegirá ay  g  9.80 m/s2, donde el signo negativo significa que la 
+aceleración de un objeto en caída libre es hacia abajo. En el capítulo 13 se estudiará cómo 
+tratar con las variaciones en g con la altitud.
+Pregunta rápida 2.7 Examine las siguientes opciones: a) aumenta, b) disminuye,  
+c) aumenta y luego disminuye, d) disminuye y luego aumenta, e) permanece igual. A partir 
+de estas opciones, seleccione lo que le ocurre a i) la aceleración y ii) la rapidez de una bola 
+después de que se lanza hacia arriba en el aire.
+PREVENCIÓN
+ DE RIESGOS  
+OCULTOS
+ 2.8
+Aceleración en lo alto  
+del movimiento
+Un error común es considerar 
+que la aceleración de un 
+proyectil en lo alto de su 
+trayectoria es cero. Aunque 
+la velocidad en lo alto del 
+movimiento de un objeto 
+que se lanza hacia arriba 
+momentáneamente va a cero, 
+la aceleración todavía corresponde 
+a la gravedad en este punto. Si 
+la velocidad y la aceleración 
+fuesen cero, el proyectil 
+permanecería en lo alto.
+GALILEO GALILEI
+Físico y astrónomo italiano  
+(1564-1642)
+Galileo formuló las leyes que gobiernan 
+el movimiento de los objetos en caída 
+libre e hizo muchos otros descubrimientos 
+reveladores en física y astronomía. Galileo 
+defendió públicamente la afirmación de  
+Nicolás Copérnico de que el Sol está en el  
+centro del Universo (sistema heliocéntri-
+co). Publicó Diálogo sobre los dos grandes 
+sistemas del mundo para apoyar el modelo 
+copernicano, que la Iglesia católica declaró 
+herético.
+EJEMPLO CONCEPTUAL 2.9 Los paracaidistas osados
+Un paracaidista salta de un helicóptero suspendido. Pocos 
+segundos después, salta otro paracaidista y ambos caen a 
+lo largo de la misma línea vertical. Ignore la resistencia del 
+aire, de modo que ambos paracaidistas caen con la misma 
+aceleración. ¿La diferencia en sus magnitudes de velocidad 
+permanece igual a lo largo de la caída? ¿La distancia vertical 
+entre ellos permanece igual durante la caída?
+SOLUCIÓN
+En cualquier instante dado, las magnitudes de velocidad de 
+los paracaidistas son diferentes porque uno salta primero. 
+Sin embargo, en cualquier intervalo de tiempo $t después 
+de este instante, los dos paracaidistas aumentan sus rapi-
+deces en la misma cantidad porque tienen la misma ace-
+leración. Por lo tanto, la diferencia en sus magnitudes de 
+velocidad permanece igual a lo largo de la caída.
+El primero que saltó siempre tiene una mayor rapidez 
+que el segundo. Por lo tanto, en un intervalo de tiempo 
+dado, el primer paracaidista cubre una mayor distancia que 
+el segundo. En consecuencia, la distancia de separación 
+entre ellos aumenta.
+North Wind Picture Archives
+ Sección 2.7  Objetos en caída libre  37
+
+38 Capítulo 2  Movimiento en una dimensión
+EJEMPLO 2.10 ¡No es un mal lanzamiento para un novato!
+A una piedra que se lanza desde lo alto de un edificio se le da una velocidad inicial de 20.0 m/s directo hacia arriba. El 
+edificio tiene 50.0 m de alto y la piedra apenas libra el borde del techo en su camino hacia abajo, como se muestra en la 
+figura 2.14.
+A) Use t
+  0 como el tiempo cuando la piedra deja la mano del lanzador en la posición  y determine el tiempo en el 
+que la piedra llega a su altura máxima.
+SOLUCIÓN
+Tal vez usted tenga experiencia en soltar objetos o lanzarlos hacia arriba y observarlos caer, de modo que este problema 
+debe describir una experiencia familiar. Puesto que la piedra está en caída libre, se modela como partícula bajo aceleración 
+constante debido a la gravedad.
+Use la ecuación 2.13 para calcular el tiempo en que la piedra 
+llega a su altura máxima:
+Sustituya valores numéricos:
+B) Encuentre la altura máxima de la piedra.
+
+
+
+
+t   5.00 s
+y   22.5 m
+vy   29.0 m/s
+ay   9.80 m/s2
+t   4.08 s
+y   0
+vy   20.0 m/s
+ay   9.80 m/s2
+t   2.04 s
+y   20.4 m
+vy   0
+ay   9.80 m/s2
+50.0 m
+t   5.83 s
+y   50.0 m
+vy   37.1 m/s
+ay   9.80 m/s2
+t  0
+y  0
+vy   20.0 m/s
+ay   9.80 m/s2 
+Figura 2.14 (Ejemplo 2.10) Posición y velocidad frente a tiempo para una piedra en 
+caída libre que se lanza inicialmente hacia arriba con una velocidad vyi  20.0 m/s. 
+Muchas de las cantidades en las etiquetas para los puntos en el movimiento de la 
+piedra se calculan en el ejemplo. ¿Puede verificar los valores que no están calculados?
+vyf vyi  ayt S  t
+vyf vyi
+ay
+t t
+0 20.0 m >s
+9.80 m>s2  2.04 s
+
+SOLUCIÓN
+Sea y  0 y sustituya el tiempo del inciso A) 
+en la ecuación 2.16 para encontrar la altura 
+máxima:
+C) Determine la velocidad de la piedra cuando regresa a la altura desde la que se lanzó.
+Sustituya los valores conocidos en la ecuación 
+2.17:
+Cuando se saca la raíz cuadrada, se elige una raíz positiva o una negativa. Se elige la raíz negativa porque se sabe que la 
+piedra se mueve hacia abajo al punto 
+. La velocidad de la piedra cuando llega de vuelta a su altura original es igual en 
+magnitud a su velocidad inicial pero es opuesta en dirección.
+D) Encuentre la velocidad y posición de la piedra en t  5.00 s.
+Calcule la velocidad en 
+ a partir de la ecua-
+ción 2.13:
+Use la ecuación 2.16 para encontrar la posi-
+ción de la piedra en t
+  5.00 s:
+La elección del tiempo definida como t  0 es arbitraria y depende de usted seleccionarla. Como ejemplo de esta arbitra-
+riedad, elija t  0 como el tiempo en que la piedra está en el punto más alto de su movimiento. Luego resuelva los incisos 
+C) y D) de nuevo usando este nuevo instante inicial y note que sus respuestas son iguales que las anteriores.
+¿Qué pasaría si? ¿Y si el edificio tuviese 30.0 m de altura en lugar de 50.0 m? ¿Qué respuestas cambiarían en los incisos  
+A) a D)?
+Respuesta Ninguna de las respuestas cambiaría. T odo el movimiento tiene lugar en el aire durante los primeros 5.00 s. 
+(Obser
+ve que incluso para un edificio de 30.0 m de alto, la piedra está arriba del suelo en t  5.00 s.) Por lo tanto, la altura 
+del edificio no es un problema. Matemáticamente, si se observan de nuevo los cálculos, se ve que nunca se ingresó la altu- 
+ra del edificio en ninguna ecuación.
+2.8  Ecuaciones cinemáticas deducidas  
+del cálculo
+Esta sección supone que el lector está familiarizado con las técnicas del cálculo integral. 
+Si aún no estudia integración en su curso de cálculo, debe saltar esta sección o cubrirla 
+después de que se familiarice con la integración.
+La velocidad de una partícula que se mueve en línea recta se obtiene si se conoce su 
+posición como función del tiempo. En términos matemáticos, la velocidad es igual a la 
+derivada de la posición respecto al tiempo. También es posible encontrar la posición de 
+una partícula si se conoce su velocidad como función del tiempo. En cálculo, al procedi-
+miento que se usa para realizar esta tarea se le conoce como integración o como encontrar 
+la antiderivada. En términos gráficos, es equivalente a encontrar el área bajo una curva.
+Ponga por caso que la gráfica v
+x–t para una partícula que se mueve a lo largo del eje x es 
+como se muestra en la figura 2.15. Divida el intervalo de tiempo tf  ti en muchos pequeños 
+intervalos, cada uno de duración $tn. A partir de la definición de velocidad promedio es 
+claro que el desplazamiento de la partícula durante cualquier intervalo pequeño, como el 
+y 0 120.0 m>s 21 2.04 s2 1
+2 1 9.80 m>s2 21 2.04 s22 20.4 m
+ymáx yyv x t 1
+2
+ayt 2
+vy 20.0 m>s
+vy
+2 120.0 m>s 22 2 1 9.80 m>s2 21 00 2 400 m2>s2
+vy
+2 vy
+2 2ay 1yy 2
+vy vy ayt 20.0 m>s 1 9.80 m>s2 21 5.00 s2 29.0 m>s
+22.5 m 
+0 120.0 m>s 21 5.00 s2 1
+2
+1 9.80 m>s2 21 5.00 s22
+yyv y t 1
+2
+ayt 2
+ Sección 2.8  Ecuaciones cinemáticas deducidas del cálculo  39
+
+40 Capítulo 2  Movimiento en una dimensión
+sombreado en la figura 2.15, se conoce por $xn = vxn, prom $tn, donde vxn, prom es la velocidad 
+promedio en dicho intervalo. En consecuencia, el desplazamiento durante este pequeño 
+intervalo simplemente es el área del rectángulo sombreado. El desplazamiento total para 
+el intervalo t
+f  ti es la suma de las áreas de todos los rectángulos desde ti hasta tf  :
+¢x
+n
+ vxn, prom ¢tn
+donde el símbolo h (letra griega mayúscula sigma) significa una suma que incluye todos 
+los términos, esto es, completos los valores de n. Ahora, conforme los intervalos se hacen 
+cada vez más pequeños, el número de términos en la suma aumenta y la suma tiende a 
+un valor igual al área bajo la gráfica velocidad-tiempo. Debido a esto, en el límite n 3 @, 
+o $t
+n 3 0, el desplazamiento es
+ ¢x lím
+¢tn S 0 n
+vxn ¢tn  (2.18)
+Observe que en la suma se sustituyó la velocidad promedio vxn, prom con la velocidad ins-
+tantánea vxn. Como puede ver en la figura 2.15, esta aproximación es válida en el límite de 
+intervalos muy pequeños. En consecuencia, si se conoce la gráfica vx–t para movimiento 
+a lo largo de una línea recta, se obtiene el desplazamiento durante cualquier intervalo de 
+tiempo al medir el área bajo la curva correspondiente a dicho intervalo de tiempo.
+El límite de la suma que se muestra en la ecuación 2.18 se llama integral definida y se 
+escribe
+ lím
+¢tn S  0 n
+ vxn ¢tn
+tf
+ti
+ vx 1t 2dt  (2.19)
+donde vx(t) denota la velocidad en cualquier tiempo t. Si se conoce la forma funcional 
+explícita de vx(t) y se proporcionan los límites, se evalúa la integral. A veces la gráfica vx–t 
+para una partícula en movimiento tiene una forma mucho más simple que la mostrada 
+en la figura 2.15. Por ejemplo, suponga que una partícula se mueve con velocidad cons-
+tante v
+xi. En este caso, la gráfica vx–t es una línea horizontal, como en la figura 2.16, y el 
+desplazamiento de la partícula durante el intervalo de tiempo $t simplemente es el área 
+del rectángulo sombreado:
+$x  v
+xi $t (cuando vx  vxi  constante)
+Figura 2.15 Velocidad en función del tiempo para una partícula que se mueve a lo largo del eje x. El 
+área del rectángulo sombreado es igual al desplazamiento $x en el intervalo de tiempo $tn, mientras que 
+el área total bajo la curva es el desplazamiento total de la partícula.
+vx
+t
+Área  vxn, prom $tn
+$t 
+n
+t 
+i t 
+f
+vxn, prom
+Integral definida 0
+
+Ecuaciones cinemáticas
+Ahora se aplican las ecuaciones que definen la aceleración y velocidad para deducir dos 
+de las ecuaciones cinemáticas, las ecuaciones 2.13 y 2.16.
+La ecuación que define la aceleración (ec. 2.10),
+ax
+dvx
+dt
+se puede escribir como dvx  ax dt , o, en términos de una integral (o antiderivada), 
+como
+vxf vxi
+t
+0
+ ax dt
+Para el caso especial en el que la aceleración es constante, ax se puede remover de la 
+integral para dar
+ vxf vxi ax 
+t
+0
+ dt a x 1t 02 axt  (2.20)
+que es la ecuación 2.13.
+Ahora considere la ecuación que define la velocidad (ec. 2.5):
+vx
+dx
+dt
+Esta ecuación se escribe como dx  vx dt, o en forma integral como
+xf xi
+t
+0
+ vx dt
+Puesto que vx  vxf  vxi  axt, esta expresión se convierte en
+ xf xi vxit 1
+2axt 2 
+xf xi
+t
+0
+ 1vxi axt 2dt
+t
+0
+ vxi dt a x 
+t
+0
+ t dt v xi 1t 02 ax a t 2
+2 0 b
+que es la ecuación 2.16.
+Además de lo que espera apr ender acer
+ca de conceptos físicos, una experiencia muy 
+valiosa que debe desarrollar de sus cursos de física es la habilidad para resolver problemas 
+complicados. La forma en que los físicos abordan situaciones complejas y las descompo-
+nen en trozos manejables es extremadamente útil. La siguiente es una estrategia general 
+para resolver problemas que lo guían a través de las etapas. Para ayudarlo a recordar las 
+etapas de la estrategia, éstas son conceptualizar, categorizar, analizar y finalizar.
+vx  vxi  constante
+t 
+f
+vxi
+t
+$t
+t 
+i
+vx
+vxi
+Figura 2.16 Curva velocidad-tiempo para una partícula que se mueve con velocidad constante vxi.  
+El desplazamiento de la partícula durante el intervalo de tiempo tf – ti es igual al área del rectángulo 
+sombreado.
+ Sección 2.8  Ecuaciones cinemáticas deducidas del cálculo  41
+
+ESTRATEGIA GENERAL PARA RESOLVER PROBLEMAS
+Conceptualizar
+• La primera cosa que debe hacer cuando aborde un problema es 
+pensar  y comprender la situación. Estudie cuidadosamente cuales-
+quiera representaciones de la información (por ejemplo: diagra-
+mas, gráficas, tablas o fotografías) que acompañen al problema. 
+Imagine una película, que corra en su mente, de lo que sucede 
+en el problema.
+• Si no se le proporciona una representación pictórica, casi siem -
+pre debe hacer un dibujo rápido de la situación. Indique cua-
+lesquiera valores conocidos, acaso en una tabla o directamente 
+en su bosquejo.
+• Ahora enfóquese en qué información algebraica o numérica se 
+proporciona en el problema. Lea con cuidado el enunciado del 
+problema y busque frases clave como “parte del reposo” (v
+i  
+0), “se detiene” (vf  0) o “cae libremente” (ay  g  9.80 
+m/s2).
+• Ahora enfóquese en el resultado que se espera del problema 
+resuelto. ¿Exactamente qué es lo que plantea la pregunta?  
+¿El resultado final será numérico o algebraico? ¿Sabe qué uni-
+dades esperar?
+• No olvide incorporar información de su propia experiencia y 
+sentido común. ¿Cómo sería una respuesta razonable? Por ejem-
+plo, no esperaría calcular la rapidez de un automóvil como 5  
+106 m/s.
+Categorizar
+• Una vez que tenga una buena idea de lo que trata el problema, 
+necesita simplificar el problema. Quite los detalles que no sean 
+importantes para la solución. Por ejemplo, modele un objeto 
+en movimiento como partícula. Si es adecuado, ignore la resis-
+tencia del aire o la fricción entre un objeto que se desliza y una 
+superficie.
+• Cuando simplifique el problema, es importante categorizar el 
+problema. ¿Es un simple problema de sustitución en el que los 
+números se sustituyen en una ecuación? Si es así, es probable 
+que el problema termine cuando realice esta sustitución. Si no, 
+enfrenta lo que se llama problema analítico: la situación se debe 
+analizar más profundamente para llegar a una solución.
+• Si es un problema analítico, necesita categorizarlo aún más. ¿Ha 
+visto este tipo de problemas antes? ¿Cae en la creciente lista de 
+tipos de problemas que ha resuelto anteriormente? Si es así, 
+identifique cualquier modelo de análisis apropiado al problema 
+para preparar la etapa de analizar siguiente. Los primeros tres 
+tipos de modelos de análisis se vieron en este capítulo: partícu-
+la bajo velocidad constante, partícula bajo rapidez constante y 
+partícula bajo aceleración constante. Ser capaz de clasificar un 
+problema con un modelo de análisis hace mucho más sencillo 
+tender un plan para resolverlo. Por ejemplo, si su simplificación 
+muestra que el problema se puede tratar como una partícula 
+bajo aceleración constante y ya resolvió un problema similar 
+(como los ejemplos de la sección 2.6), la solución al presente 
+problema sigue un patrón similar.
+Analizar
+• Ahora debe analizar el problema y esforzarse por una solución 
+matemática. Puesto que ya categorizó el problema e identificó 
+un modelo de análisis, no debe ser muy difícil seleccionar ecua-
+ciones relevantes que se apliquen al tipo de situación en el pro-
+blema. Por ejemplo, si involucra una partícula bajo aceleración 
+constante, las ecuaciones de la 2.13 a la 2.17 son relevantes.
+• Use álgebra (y cálculo, si es necesario) para resolver simbólica -
+mente la variable desconocida en términos de lo que está dado. 
+Sustituya los números adecuados, calcule el resultado y redon-
+dee al número adecuado a cifras significativas.
+Finalizar
+• Examine su respuesta numérica. ¿Tiene las unidades correc-
+tas? ¿Satisface las expectativas de su conceptualización del pro-
+blema? ¿Qué hay acerca de la forma algebraica del resultado? 
+¿Tiene sentido? Examine las variables del problema para ver si 
+la respuesta cambiaría en una forma físicamente significativa si 
+las variables aumentan o disminuyen drásticamente o incluso 
+si se vuelven cero. Buscar casos limitados para ver si producen 
+valores esperados es una forma muy útil de asegurarse de que 
+obtiene resultados razonables.
+• Piense acerca de cómo se compara este problema con otros que 
+ha resuelto. ¿Cómo fue similar? ¿En qué formas críticas difiere? 
+¿Por qué se asignó este problema? ¿Puede imaginar qué apren-
+dió al hacerlo? Si es una nueva categoría de problema, asegúrese 
+de que lo comprendió para que pueda usarlo como modelo para 
+resolver problemas similares en el futuro.
+Cuando resuelva problemas complejos, es posible que necesite 
+identificar una serie de subproblemas y aplicar la estrategia para 
+resolver cada uno. Para problemas simples, probablemente no 
+necesite esta estrategia. Sin embargo, cuando intente resolver un 
+problema y no sepa qué hacer a continuación, recuerde las etapas 
+en la estrategia y úselas como guía.
+Para practicar sería útil que vuelva a revisar los ejemplos tra-
+bajados en este capítulo e identifique los pasos conceptualizar, cate-
+gorizar, analizar  y finalizar. En el resto de este libro se etiquetarán 
+estas etapas en los ejemplos trabajados. Muchos capítulos del libro 
+incluyen una sección de “Estrategia para Resolución de Problemas” 
+que le ayudarán a través de los puntos difíciles. Estas secciones se 
+organizan de acuerdo con esta “Estrategia General para Resolver 
+Problemas” y se hacen a la medida de los tipos específicos de pro-
+blemas que se abordan en dicho capítulo.
+42
+
+Cuando una partícula 
+se mueve a lo largo 
+del eje x desde alguna 
+posición inicial x
+i hasta 
+alguna posición final xf, 
+su desplazamiento es
+ $ x  xf  xi (2.1)
+La velocidad promedio de una partícula durante cierto intervalo de tiempo es el 
+desplazamiento $x dividido entre el intervalo de tiempo $t durante el que ocurre  
+dicho desplazamiento:
+ v
+x, prom
+¢x
+¢t  (2.2)
+La rapidez promedio de una partícula es igual a la relación de la distancia total que 
+recorre al intervalo de tiempo total durante el que recorre dicha distancia:
+ vprom
+d
+¢t  (2.3)
+La velocidad instantánea de una 
+partícula se define como el límite de la 
+proporción $x/$t conforme $t tiende 
+a cero. Por definición, este límite es 
+igual a la derivada de x respecto a t, o la 
+relación de cambio en el tiempo de la 
+posición:
+ v
+x lím
+¢t S 0
+¢x
+¢t
+dx
+dt  (2.5)
+La rapidez instantánea de una partícula 
+es igual a la magnitud de su velocidad 
+instantánea.
+La aceleración promedio de una partícula se define como la relación 
+de cambio en su velocidad $v
+x dividida entre el intervalo de tiempo $t 
+durante el que ocurre dicho cambio:
+ ax, prom
+¢vx
+¢t
+vxf vxi
+tf ti
+ (2.9)
+La aceleración instantánea es igual al límite de la proporción $vx/$t 
+conforme $t tiende a 0. Por definición, este límite es igual a la derivada 
+de vx respecto a t, o la relación de cambio en el tiempo de la velocidad:
+ ax lím
+¢t S 0
+¢vx
+¢t
+dvx
+dt  (2.10)
+Cuando la velocidad y la aceleración de un objeto están 
+en la misma dirección, el objeto aumenta su velocidad. 
+Por otra parte, cuando la velocidad y la aceleración del 
+objeto están en direcciones opuestas, el objeto frena. 
+Recuerde que Fx t a
+x es una forma útil de identificar la 
+dirección de la aceleración al asociarla con una fuerza.
+Un objeto en caída libre en presencia de la gravedad 
+de la Tierra experimenta aceleración de caída libre di-
+rigida hacia el centro de la Tierra. Si la resistencia del 
+aire es despreciable, el movimiento ocurre cerca de la 
+superficie de la Tierra y si el intervalo del movimiento 
+es pequeño comparado con el radio de la Tierra, la ace-
+leración de caída libre g es constante durante el rango 
+de movimiento, donde g es igual a 9.80 m/s
+2.
+Los problemas complicados se abordan mejor en una forma organizada. Recuerde y aplique los pasos conceptualizar, 
+categorizar, analizar y finalizar de la “Estrategia General para Resolver Problemas” cuando los necesite.
+(continúa)
+ Resumen 43
+Resumen
+DEFINICIONES
+CONCEPTOS Y PRINCIPIOS
+
+44 Capítulo 2  Movimiento en una dimensión
+ 1. O Una gota de aceite cae recta hacia abajo en el camino desde 
+el motor de un automóvil en movimiento cada 5 s. La figura 
+P2.1 muestra el patrón de las gotas que quedan en el pavimen-
+to. ¿Cuál es la rapidez promedio del automóvil en esta sec-
+ción de su movimiento?  a) 20 m/s, b) 24 m/s, c) 30 m/s, 
+d) 100 m/s, e) 120 m/s.
+Figura P2.1
+ 2. Si la velocidad promedio de un objeto es cero en cierto inter-
+valo de tiempo, ¿qué puede decir acerca del desplazamiento 
+del objeto durante dicho intervalo?
+ 3. O ¿La velocidad instantánea de un objeto en un instante de 
+tiempo alguna vez es mayor en magnitud que la velocidad pro-
+medio en un intervalo de tiempo que contenga al instante? 
+¿Alguna vez es menor?
+ 4. O  Un carro es empujado a lo largo de una pista horizontal 
+recta. a) En cierta sección de su movimiento, su velocidad  
+original es v
+xi  3 m/s y experimenta un cambio en velo-
+cidad de $vx  4 m/s. ¿En esta sección de su movimiento 
+aumenta su velocidad o frena? ¿Su aceleración es positiva o 
+negativa? b) En otra parte de su movimiento, v
+xi  3 m/s 
+y $vx  4 m/s. ¿Experimenta aumento o disminución neta 
+en rapidez? ¿Su aceleración es positiva o negativa? c) En un 
+tercer segmento de su movimiento, v
+xi  3 m/s y $ vx   
+4 m/s. ¿Tiene una ganancia o pérdida neta en rapidez? ¿Su 
+aceleración es positiva o negativa? d) En un cuarto intervalo de 
+tiempo, v
+xi  3 m/s y $vx  4 m/s. ¿El carro gana o pierde 
+rapidez? ¿Su aceleración es positiva o negativa?
+ 5. Dos automóviles se mueven en la misma dirección en pistas 
+paralelas a lo largo de una autopista. En algún instante, la 
+velocidad del automóvil A supera la velocidad del automóvil 
+B. ¿Esto significa que la aceleración de A es mayor que la de 
+B? Explique.
+ 6. O Cuando el piloto invierte la hélice en un bote que se mueve 
+al norte, el bote se mueve con una aceleración dirigida al sur. 
+Si la aceleración del bote sigue constante en magnitud y direc-
+ción, ¿qué le ocurrirá al bote (elija una)? a) Eventualmente 
+se detendrá y luego permanecerá en reposo. b) Al final se de-
+tendrá y luego comenzará a aumentar rapidez en la dirección 
+hacia adelante. c) Eventualmente se detendrá y luego comen-
+zará a aumentar rapidez en la dirección contraria. d) Nunca 
+se detendrá sino que perderá rapidez cada vez más lentamente 
+por siempre. e) Nunca se detendrá sino que continuará ganan-
+do rapidez en la dirección hacia adelante.
+ 7. O Cada una de las fotografías estroboscópicas a), b) y c) de la 
+figura P2.7 se tomó de un solo disco que se mueve hacia la de-
+recha, que se toma como la dirección positiva. Dentro de cada 
+fotografía, el intervalo de tiempo entre imágenes es constan-
+te. i) ¿Cuál(es) fotografía(s), si alguna, muestra(n) velocidad 
+cero constante? ii) ¿Cuál(es) fotografía(s), si alguna, mues-
+tra aceleración cero constante? iii) ¿Cuál(es) fotografía(s), si 
+alguna, muestran velocidad constante positiva? iv) ¿Cuál(es) 
+fotografía(s), si alguna, muestra aceleración constante posi-
+tiva? v) ¿Cuál(es) fotografía(s), si alguna, muestra(n) algún 
+movimiento con aceleración negativa?
+Preguntas
+O indica pregunta complementaria.
+MODELOS DE ANÁLISIS PARA RESOLVER PROBLEMAS
+Partícula bajo velocidad constante. Si una partícula se mueve en 
+línea recta con una rapidez constante vx, su velocidad constante  
+se conoce por
+ vx
+¢x
+¢t  (2.6)
+y su posición se proporciona por
+ xf  xi  vxt (2.7)
+v
+Partícula bajo aceleración constante. Si 
+una partícula se mueve en línea recta con 
+aceleración constante ax, su movimiento se 
+describe mediante las ecuaciones cinemáticas:
+vxf
+2 vxi
+2 2ax xf xi
+xf xi vxit 1
+2axt2
+xf xi
+1
+2
+1vxi vxf 2
+12
+t
+vx, prom
+vxi vxf
+2
+vxf vxi axt
+v
+a
+Partícula bajo rapidez constante. Si una partícula se mueve una 
+distancia d a lo largo de una trayectoria curva o recta con  
+rapidez constante, su rapidez constante se conoce por
+ v d
+¢t   (2.8)
+v
+(2.13)
+(2.14)
+(2.15)
+(2.16)
+(2.17)
+600 m
+
+8. Intente el siguiente experimento lejos del tráfico, donde 
+pueda hacerlo a salvo. Con el automóvil que usted conduzca 
+moviéndose lentamente en un camino recto a nivel, cambie 
+la velocidad a neutral y deje que el automóvil se deslice. En el 
+momento en que el automóvil llegue a un alto completo, pise 
+fuerte el freno y note lo que siente. Ahora repita el mismo ex-
+perimento en una pendiente muy ligera hacia arriba. Explique 
+la diferencia de lo que se siente en los dos casos. (Brian Popp 
+sugirió la idea para esta pregunta.)
+ 9. O Un patinador se desliza por una larga colina, parte del re-
+poso y se mueve con aceleración constante para cubrir cierta 
+distancia en 6 s. En un segundo intento, parte del reposo y 
+se mueve con la misma aceleración sólo durante 2 s. ¿Qué 
+tan diferente es su desplazamiento en este segundo intento, 
+comparado con el primero? a) un tercio de largo,   b) tres 
+veces mayor,   c) un noveno de largo,   d) nueve veces mayor,    
+e) 
+1> 3 veces de largo,   f) 3 veces mayor,   g) ninguna de 
+estas respuestas
+ 10. O ¿Las ecuaciones de cinemática (ecs. 2.13–2.17) se usan en 
+una situación en que la aceleración varía en el tiempo? ¿Se 
+puede usar cuando la aceleración es cero?
+ 11. Un estudiante en lo alto de un edificio de altura h lanza una 
+bola hacia arriba con una rapidez v
+i y luego lanza una segun-
+da bola hacia abajo con la misma rapidez inicial |vi|. ¿Cómo se 
+comparan las velocidades finales de las bolas cuando llegan al 
+suelo?
+12. O Una cuenta se libera desde el reposo a cierta altura, cae 
+libremente y alcanza una rapidez de impacto de 4 m/s en el 
+suelo. i) A continuación, la partícula se lanza hacia abajo con 
+una rapidez inicial de 3 m/s desde la misma altura. En este 
+intento, ¿cuál es su rapidez en el suelo? a) menor que 4 m/s,    
+b) 4 m/s ,  c) entre 4 m/s y 5 m/s,   d) 
+32 42 m>s5  m >s, 
+e) entre 5 m/s y 7 m/s,   f) (3  4) m/s  7 m/s,   g) mayor 
+que 7 m/s.   ii) En un tercer intento la cuenta se lanza hacia 
+arriba con una rapidez inicial de 3 m/s desde la misma altura. 
+¿Cuál es su rapidez en el suelo en este intento? Elija su respues-
+ta de la misma lista de la a) a la g).
+13. O Una bola de hule duro, que no es afectada por la resisten-
+cia del aire en su movimiento, se lanza hacia arriba desde la 
+altura del hombro, cae a la acera, rebota a una altura máxima 
+un poco menor y se atrapa en su camino hacia abajo. Este 
+movimiento se representa en la figura P2.13, donde las po-
+siciones sucesivas de la bola, de  a , no están igualmente 
+espaciadas en el tiempo. En el punto  el centro de la bola 
+está en su punto más bajo del movimiento. El movimiento 
+de la bola es a lo largo de una línea recta, pero el diagrama 
+muestra posiciones sucesivas corridas a la derecha para evitar 
+traslape. Elija la dirección positiva y hacia arriba. i) Clasifique 
+las situaciones de la  a la  de acuerdo con la rapidez de la 
+bola |v
+y | en cada punto, con la rapidez más grande primero.  
+ii) Clasifique las mismas situaciones de acuerdo con la velo-
+cidad de la bola en cada punto. iii) Clasifique las mismas si-
+tuaciones de acuerdo con la aceleración ay de la bola en cada 
+punto. En cada clasificación, recuerde que cero es mayor que 
+un valor negativo. Si dos valores son iguales, muestre que son 
+iguales en su clasificación.
+ 14. O  Usted suelta una bola desde una ventana ubicada en un piso  
+superior de un edificio. Golpea el suelo con rapidez v. Ahora 
+repite la caída, pero le pide a un amigo abajo en el suelo que 
+lance otra bola hacia arriba con rapidez v. Su amigo lanza la 
+bola hacia arriba en el mismo momento en que usted suelta 
+la suya desde la ventana. En alguna ubicación, las bolas pasan 
+una a la otra. ¿Esta ubicación está a) en el punto medio entre 
+ventana y suelo, b) arriba de este punto o c) abajo de este 
+punto?
+a)
+b)
+c)
+Figura P2.7 Pregunta 7 y problema 17.
+Figura P2.13
+
+
+
+
+ 
+ Preguntas 45
+
+46 Capítulo 2  Movimiento en una dimensión
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+4FDDJwO 1PTJDJwO
+WFMPDJEBEZSBQJEF[
+ 1. En la figura P2.1 se muestra la posición en función del tiempo 
+para cierta partícula que se mueve a lo largo del eje x. Encuentre 
+la velocidad promedio en los siguientes intervalos de tiempo.  
+a) 0 a 2 s, b) 0 a 4 s, c) 2 s a 4 s, d) 4 s a 7 s, e) 0 a 8 s.
+ 2. La posición de un carro de derby se observó en varios momen-
+tos; los resultados se resumen en la tabla siguiente. Encuentre 
+la velocidad promedio del auto para a) el primer intervalo de 
+tiempo de 1 s, b) los últimos 3 s y c) todo el periodo de obser-
+vación.
+  
+ t (s) 0 1.0 2.0 3.0 4.0 5.0
+   x (m) 0 2.3 9.2 20.7 36.8 57.5
+ 3. Una persona camina, primero, con rapidez constante de 5.00 
+m/s a lo largo de una línea recta desde el punto A al punto 
+B y luego de regreso a lo largo de la línea de B a A con una 
+rapidez constante de 3.00 m/s. a) ¿Cuál es su rapidez prome-
+dio durante todo el viaje? b) ¿Cuál es su velocidad promedio 
+durante todo el viaje?
+ 4. Una partícula se mueve de acuerdo con la ecuación x  10t 2, 
+donde x está en metros y t en segundos. a) Encuentre la velo-
+cidad promedio para el intervalo de tiempo de 2.00 s a 3.00 s.  
+b) Encuentre la velocidad promedio para el intervalo de tiem-
+po de 2.00 s a 2.10 s.
+4FDDJwO7FMPDJEBEZSBQJEF[JOTUBOUgOFBT
+ 5. En la figura P2.5 se muestra una gráfica posición-tiempo para 
+una partícula que se mueve a lo largo del eje x. a) En-cuentre 
+la velocidad promedio en el intervalo de tiempo t  1.50 s a  
+t  4.00 s. b) Determine la velocidad instantánea en t  2.00 s 
+al medir la pendiente de la línea tangente que se muestra en 
+la gráfica. c) ¿En qué valor de t la velocidad es cero?
+ 6. La posición de una partícula que se mueve a lo largo del eje 
+x varía con el tiempo de acuerdo con la expresión x  3t 
+2, 
+donde x está en metros y t en segundos. Evalúe su posición a) 
+en t  3.00 s y b) en 3.00 s + $t. c) Evalúe el límite de $x/$t 
+conforme $t tiende a cero para encontrar la velocidad en t  
+3.00 s.
+ 7. a) Use los datos del problema 2.2 para construir una gráfica 
+uniforme de posición en función del tiempo. b) Con la con -
+strucción de tangentes a la curva x
+(t), encuentre la velocidad 
+instantánea del automóvil en varios instantes. c) Grafique la 
+velocidad instantánea en función del tiempo y, a partir de la 
+gráfica, determine la aceleración promedio del automóvil.  
+d) ¿Cuál fue la velocidad inicial del automóvil?
+ 8. Encuentre la velocidad instantánea de la partícula descrita en 
+la figura P2.1 en los siguientes tiempos: a) t  1.0 s, b) t  3.0 s,  
+c) t
+  4.5 s, d) t  7.5 s.
+4FDDJwO.PEFMPTEFBOgMJTJTMBQBSUrDVMB
+CBKPWFMPDJEBEDPOTUBOUF
+ 9. Una liebre y una tortuga compiten en una carrera en una ruta 
+de 1.00 km de largo. La tortuga paso a paso continuo y de  
+manera estable a su máxima rapidez de 0.200 m/s se dirige 
+hacia la línea de meta. La liebre corre a su máxima rapidez de 
+8.00 m/s hacia la meta durante 0.800 km y luego se detiene 
+para fastidiar a la tortuga. ¿Cuán cerca de la meta la liebre
+ 
+puede dejar que se acerque la tortuga antes de reanudar la 
+carrera, que gana la tortuga en un final de fotografía? Suponga 
+que ambos animales, cuando se mueven, lo hacen de manera 
+constante a su respectiva rapidez máxima.
+4FDDJwO"DFMFSBDJwO
+ 10. Una superbola de 50.0 g que viaja a 25.0 m/s bota en una 
+pared de ladrillo y rebota a 22.0 m/s. Una cámara de alta ra -
+pidez registra este evento. Si la bola está en contacto con la 
+pared durante 3.50 ms, ¿cuál es la magnitud de la aceleración 
+promedio de la bola durante este intervalo de tiempo? Nota: 1 
+ms  103 s.
+ 11. Una partícula parte del reposo y acelera como se muestra en 
+la figura P2.11. Determine a) la rapidez de la partícula en t  
+10.0 s y en t  20.0 s y b) la distancia recorrida en los primeros 
+20.0 s.
+ 12. En la figura P2.12 se muestra una gráfica velocidad-tiempo
+ 
+de un objeto que se mueve a lo largo del eje x. a) Trace una 
+gráfica de la aceleración en función del tiempo. b) Determine 
+Figura P2.1 Problemas 1 y 8.
+12345 6 7 8
+t (s)
+6
+4
+2
+0
+2
+4
+6
+8
+10
+x (m)
+Figura P2.5
+10
+12
+6
+8
+2
+4
+0
+t (s)
+x (m)
+123456
+Figura P2.11
+2
+ax (m/s2)
+0
+1
+3
+2
+51 0 1 5 2 0
+t (s)
+1
+Problemas
+
+Problemas 47
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+la aceleración promedio del objeto en los intervalos de tiempo  
+t  5.00 s a t  15.0 s y t  0 a t  20.0 s.
+ 15. Un objeto se mueve a lo largo del eje x de acuerdo con la  
+ecuación x(t)  (3.00t 2  2.00t  3.00) m, donde t está en 
+segundos. Determine a) la rapidez promedio entre t  2.00 s 
+y t  3.00 s, b) la rapidez instantánea en t  2.00 s y t  3.00 s, 
+c) la aceleración promedio entre t  2.00 s y t  3.00 s, y d) la 
+aceleración instantánea en t  2.00 s y t  3.00 s.
+4FDDJwO%JBHSBNBTEFNPWJNJFOUP
+ 17. ; Cada una de las fotografías estroboscópicas a), b) y c) en 
+la figura P2.7 se tomó de un solo disco que se mueve hacia la 
+derecha, que se considera la dirección positiva. Dentro de cada 
+fotografía el intervalo de tiempo entre imágenes es constante. 
+Para cada fotografía prepare gráficas de x en función de t, v
+x 
+en función de t y ax en función de t, alineada verticalmente 
+con sus ejes de tiempo idénticos, para mostrar el movimiento 
+del disco. No podrá colocar números distintos de cero sobre 
+los ejes, sino mostrar los tamaños relativos correctos sobre las 
+gráficas.
+ 18. Dibuje diagramas de movimiento para a) un objeto que se 
+mueve a la derecha con rapidez constante, b) un objeto que se 
+mueve a la derecha y aumenta rapidez con relación constante, 
+c) un objeto que se mueve a la derecha y frena con relación 
+constante, d) un objeto que se mueve a la izquierda y aumenta 
+rapidez con relación constante, y e) un objeto que se mueve a 
+la izquierda y frena con relación constante. f) ¿Cómo modifi-
+caría su dibujo si los cambios en rapidez no fuesen uniformes; 
+esto es, si la rapidez no cambiara con relación constante?
+4FDDJwO-BQBSUrDVMBCBKPBDFMFSBDJwODPOTUBOUF
+ 19. 
+; Considere una porción de aire en un tubo recto que se mueve 
+con una aceleración constante de 4.00 m/s2 y tiene una velo-
+cidad de 13.0 m/s a las 10:05:00 a.m., en cierta fecha. a) ¿Cuál  
+es su velocidad a las 10:05:01 a.m.? b) ¿A las 10:05:02 a.m.? 
+c) ¿A las 10:05:02.5 a.m.? d) ¿A las 10:05:04 a.m.? e) ¿A las 
+10:04:59 a.m.? f) Describa la forma de una gráfica de velocidad 
+en función del tiempo para esta porción de aire. g) Argumente  
+a favor o en contra del enunciado “conocer un solo valor de la 
+aceleración constante de un objeto es como conocer toda una 
+lista de valores para su velocidad”.
+ 20. Un camión cubre 40.0 m en 8.50 s mientras frena de manera 
+uniforme a una rapidez final de 2.80 m/s. a) Encuentre su 
+rapidez original. b) Encuentre su aceleración.
+ 21. Un objeto que se mueve con aceleración uniforme tiene una 
+velocidad de 12.0 cm/s en la dirección x positiva cuando su 
+coordenada x es 3.00 cm. Si su coordenada x 2.00 s después es 
+5.00 cm, ¿cuál es su aceleración?
+Figura P2.12
+Figura P2.16
+5 t (s)
+8
+0
+4
+4
+8
+10 15 20
+vx (m/s)
+0 246 1 0 81 2 t (s)
+2
+4
+6
+8
+10
+v
+x (m/s)
+v
+Figura P2.14
+ 13. Una partícula se mueve a lo largo del eje x de acuerdo con la 
+ecuación x  2.00  3.00t  1.00t 2, donde x está en metros 
+y t en segundos. En t  3.00 s, encuentre a) la posición de la 
+partícula, b) su velocidad y c) su aceleración.
+ 14. Una niña rueda una canica sobre una pista con dobleces que 
+mide 100 cm de largo, como se muestra en la figura P2.14. Use 
+x para representar la posición de la canica a lo largo de la pista. 
+En las secciones horizontales de x  0 a x  20 cm y de x  
+40 cm a x  60 cm, la canica rueda con rapidez constante. En 
+las secciones de pendiente, la rapidez de la canica cambia de 
+manera uniforme. En los lugares donde la pendiente cambia, 
+la canica permanece en la pista y no experimenta cambios 
+súbitos en rapidez. La niña da a la canica cierta rapidez inicial 
+en x  0 y t  0 y luego la observa rodar a x  90 cm, donde 
+regresa, y eventualmente regresa a x  0 con la misma rapidez 
+con la que al inicio la niña la liberó. Prepare gráficas de x en 
+función de t, v
+x en función de t y ax en función de t, alineadas 
+verticalmente con sus ejes de tiempo idénticos, para mostrar 
+el movimiento de la canica. No podrá colocar números dis-
+tintos a cero en el eje horizontal o en los ejes de velocidad o 
+aceleración, sino mostrar los tamaños relativos correctos en las 
+gráficas.
+ 16. La figura P2.16 muestra una gráfica de v
+x en función de t para 
+el movimiento de un motociclista mientras parte del reposo 
+y se mueve a lo largo del camino en línea recta. a) Encuentre 
+la aceleración promedio para el intervalo de tiempo t  0 a 
+t  6.00 s. b) Estime el tiempo en que la aceleración tiene  
+su mayor valor positivo y el valor de la aceleración en dicho  
+instante. c) ¿Cuándo la aceleración es cero? d) Estime el  
+máximo valor negativo de la aceleración y el tiempo en el que 
+ocurre.
+
+48 Capítulo 2  Movimiento en una dimensión
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 22. La figura P2.22 representa parte de los datos de desempeño de 
+un automóvil propiedad de un orgulloso estudiante de física. 
+a) Calcule la distancia total recorrida al calcular el área bajo 
+la línea de la gráfica. b) ¿Qué distancia recorre el automóvil 
+entre los tiempos t  10 s y t  40 s? c) Dibuje una gráfica de su 
+aceleración en función del tiempo entre t
+  0 y t  50 s. d) Es-
+criba una ecuación para x como función del tiempo para cada 
+fase del movimiento, representado por i) 0 a, ii) ab y iii) bc.  
+e) ¿Cuál es la velocidad promedio del automóvil entre t  0 
+y t  50 s?
+ 23. ; Un avión jet se aproxima para aterrizar con una rapidez de 
+100 m/s y una aceleración con una magnitud máxima de 5.00 
+m/s
+2 conforme llega al reposo. a) Desde el instante cuando 
+el avión toca la pista, ¿cuál es el intervalo de tiempo mínimo 
+necesario antes de que llegue al reposo? b) ¿Este avión puede 
+aterrizar en el aeropuerto de una pequeña isla tropical donde 
+la pista mide 0.800 km de largo? Explique su respuesta.
+ 24. 
+; En t  0, un carro de juguete se pone a rodar en una pista 
+recta con posición inicial de 15.00 cm, velocidad inicial de 
+3.50 cm/s y aceleración constante de 2.40 cm/s
+2. En el 
+mismo momento, otro carro de juguete se pone a rodar en 
+una pista adyacente con posición inicial de 10.0 cm, una ve-
+locidad inicial de 5.50 cm/s y aceleración constante cero. 
+a) ¿En qué tiempo, si alguno, los dos carros tienen iguales 
+rapideces? b) ¿Cuáles son sus rapideces en dicho tiempo?  
+c) ¿En qué tiempo(s), si alguno, los carros se rebasan mu-
+tuamente? d) ¿Cuáles son sus ubicaciones en dicho tiempo?  
+e) Explique la diferencia entre la pregunta a) y la pregunta  
+c) tan claramente como le sea posible. Escriba (o dibuje) para 
+una audiencia blanco de estudiantes que no comprendan de 
+inmediato que las condiciones son diferentes.
+ 25. El conductor de un automóvil aplica los frenos cuando ve un 
+árbol que bloquea el camino. El automóvil frena uniforme -
+mente con una aceleración de 5.60 m/s
+2 durante 4.20 s, y 
+hace marcas de derrape rectas de 62.4 m de largo que ter-
+minan en el árbol. ¿Con qué rapidez el automóvil golpea el 
+árbol?
+ 26. ¡Ayuda! ¡Se perdió una de las ecuaciones! El movimiento con acele-
+ración constante se describe con las variables y parámetros v
+xi, 
+vxf, ax, t y xf  xi. En las ecuaciones en la tabla 2.2, la primera 
+no involucra xf  xi, la segunda no contiene ax, la tercera omite 
+vxf y la última deja fuera t. De modo que, para completar el 
+conjunto, debe haber una ecuación que no involucre vxi. De- 
+dúzcula a partir de las otras. Aplíquela para resolver el proble-
+ma 25 en un paso.
+ 27. Durante muchos años, el récord mundial de rapidez en tierra 
+lo poseyó el coronel John P. Stapp, de la fuerza aérea de Es-
+tados Unidos. Él participó en un estudio para ver si un piloto 
+de jet podría sobrevivir a la expulsión de emergencia. El 19 de 
+marzo de 1954, viajó en un trineo impulsado por cohete que 
+se movió por una pista a una rapidez de 632 mi/h. Él y el tri-
+ 28. Una partícula se mueve a lo largo del eje x. Su posición está 
+dada por la ecuación x  2  3t  4t 
+2, con x en metros y t en 
+segundos. Determine a) su posición cuando cambia de direc-
+ción y b) su velocidad cuando regresa a la posición que tenía 
+en t  0.
+ 29. Un electrón en un tubo de rayos catódicos acelera desde una 
+rapidez de 2.00  10
+4 m/s a 6.00  106 m/s en 1.50 cm. a) ¿En 
+qué intervalo de tiempo el electrón recorre estos 1.50 cm? b) 
+¿Cuál es su aceleración?
+ 30. 
+; Dentro de una compleja máquina como una línea de en-
+samblado robótico, suponga que una parte se desliza a lo largo 
+de una pista recta. Un sistema de control mide la velocidad 
+promedio de la parte durante cada intervalo de tiempo su-
+cesivo $t
+0 = t0  0, lo compara con el valor vc que debe ser y 
+enciende y apaga un servomotor para dar a la parte un pulso 
+corrector de aceleración. El pulso consiste de una aceleración 
+constante a
+m aplicada durante el intervalo de tiempo $tm  $tm 
+ 0 dentro del siguiente intervalo de tiempo de control $t0. 
+Como se muestra en la figura P2.30, la parte se puede modelar 
+con una aceleración cero cuando el motor se apaga (entre t
+m y 
+t0). Una computadora en el sistema de control elige el tamaño 
+de la aceleración de modo que la velocidad final de la parte 
+tendrá el valor correcto v
+c. Suponga que la parte inicialmente 
+está en reposo y tendrá velocidad instantánea vc en el tiempo 
+t0. a) Encuentre el valor requerido de am en términos de vc y 
+tm. b) Muestre que el desplazamiento $x de la parte durante 
+el intervalo de tiempo $t0 está dado por $x  vc(t0  0.5tm). 
+Para valores específicos de vc y t0, c) ¿cuál es el desplazamien-
+to mínimo del inciso? d) ¿Cuál es el desplazamiento máximo 
+del inciso? e) ¿Son físicamente obtenibles los desplazamientos 
+mínimo y máximo?
+neo llegaron al reposo en 1.40 s con seguridad (figura P2.27). 
+Determine a) la aceleración negativa que experimentó y b)  
+la distancia que recorrió durante esta aceleración negativa.
+ 31. 
+; Un deslizador en una pista de aire porta una bandera de 
+longitud  a través de una fotopuerta estacionaria, que mide 
+el intervalo de tiempo $td durante el que la bandera bloquea 
+Figura P2.22
+t (s)
+vx (m/s)
+ab
+c
+50 40 30 20 10 0
+10
+20
+30
+40
+50 Figura P2.27 (Izquierda
+ ) Coronel John Stapp en el trineo cohete. 
+(Derecha) El rostro de Stapp se deforma por el esfuerzo de la rápida 
+aceleración negativa.
+Cortesía U.S. Air Force
+Figura P2.30
+t
+a
+0 t0
+am
+tm
+
+Problemas 49
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+un haz de luz infrarroja que pasa a través de la fotopuerta. La 
+relación vd  /$td es la velocidad promedio del deslizador du-
+rante esta parte de su movimiento. Suponga que el deslizador 
+se mueve con aceleración constante. a) Argumente a favor o 
+en contra de la idea de que v
+d es igual a la velocidad instantá-
+nea del deslizador cuando está a la mitad de la fotopuerta en el 
+espacio. b) Argumente a favor o en contra de la idea de que v
+d 
+es igual a la velocidad instantánea del deslizador cuando está 
+a la mitad de la fotopuerta en el tiempo.
+ 32. 
+; Speedy Sue, que conduce a 30.0 m/s, entra a un túnel de 
+un carril. En seguida observa una camioneta lenta 155 m ade-
+lante que se mueve a 5.00 m/s. Sue aplica los frenos pero sólo 
+puede acelerar a 2.00 m/s
+2 porque el camino está húmedo. 
+¿Habrá una colisión? Establezca cómo llega a su respuesta. Si 
+es sí, determine cuán lejos en el túnel y en qué tiempo ocurre 
+la colisión. Si es no, determine la distancia de acercamiento 
+más próxima entre el automóvil de Sue y la camioneta.
+ 33. ¡Vroom, vroom! T
+ an pronto como un semáforo se pone en verde, 
+un automóvil aumenta rapidez desde el reposo a 50.0 mi/h 
+con aceleración constante de 9.00 mi/h · s. En el carril de bi-
+cicletas, un ciclista aumenta la rapidez desde el reposo a 20.0 
+mi/h con aceleración constante de 13.0 mi/h · s. Cada vehícu-
+lo mantiene velocidad constante después de alcanzar su rapi-
+dez de crucero. a) ¿Para qué intervalo de tiempo la bicicleta 
+está adelante del automóvil? b) ¿Por cuánta distancia máxima 
+la bicicleta adelanta al automóvil?
+ 34. Resuelva el ejemplo 2.8 (¡Observe el límite de rapidez!) me-
+diante un método gráfico. En la misma gráfica trace posición 
+en función del tiempo para el automóvil y el oficial de policía. 
+De la intersección de las dos curvas lea el tiempo cuando el 
+patrullero da alcance al automóvil.
+ 35. 
+; Un deslizador de 12.4 cm de longitud se mueve sobre una 
+pista de aire con aceleración constante. Transcurre un interva-
+lo de tiempo de 0.628 s entre el momento cuando su extremo 
+frontal pasa un punto fijo  a lo largo de la pista y el momento 
+cuando su extremo trasero pasa este punto. A continuación, 
+transcurre un intervalo de tiempo de 1.39 s entre el momento 
+cuando el extremo trasero del deslizador pasa el punto  y 
+el momento cuando el extremo frontal del deslizador pasa un 
+segundo punto  más lejos en la pista. Después de ello, trans-
+curren 0.431 s adicionales hasta que el extremo trasero del des- 
+lizador pasa el punto . a) Encuentre la rapidez promedio del 
+deslizador conforme pasa el punto . b) Encuentre la acele-
+ración del deslizador. c) Explique cómo calcula la aceleración 
+sin saber la distancia entre los puntos  y .
+4FDDJwO0CKFUPTFODBrEBMJCSF
+Nota: En todos los problemas de esta sección, ignore los efectos 
+de la resistencia del aire.
+ 36. En un video clásico de America’s Funniest Home Videos, un gato 
+dormido rueda suavemente de lo alto de una cálida televisión. 
+Si ignora la resistencia del aire, calcule a) la posición y b) la 
+velocidad del gato después de 0.100 s, 0.200 s y 0.300 s.
+ 37. 
+; Cada mañana a las siete en punto
+Hay veinte terriers taladrando la roca.
+El jefe viene y les dice, “Manténgase firmes
+Y apóyense duro sobre el talador de hierro fundido
+Y taladren, terriers, taladren.” Y taladren, terriers, taladren.
+Es trabajar todo el día por azúcar en su té...
+Y taladren, terriers, taladren.
+Más allá de las vías. Y taladren, terriers, taladren.
+El nombre del capataz era John McAnn.
+Por Dios, fue a quien culparon.
+Un día una explosión prematura se suscitó
+Y una milla en el aire el gran Jim Goff subió. Y taladren...
+Entonces, cuando el siguiente día de paga llegó,
+Jim Goff un dólar menos encontró.
+Cuando él preguntó por qué, esta réplica recibió:
+“Fue por el tiempo que en el cielo permaneció”. 
+ Y taladren...
+—Canción popular estadounidense
+  ¿Cuál era el salario por hora de Goff? Establezca las suposicio -
+nes que hizo para calcularlo.
+ 38. Una bola se lanza directamente hacia arriba, con una rapidez 
+inicial de 8.00 m/s, desde una altura de 30.0 m. ¿Después de 
+qué intervalo de tiempo la bola golpea al suelo?
+ 39.
+ Un estudiante lanza un conjunto de llaves verticalmente hacia 
+arriba a su hermana de fraternidad, quien está en una venta-
+na 4.00 m arriba. Las llaves las atrapa 1.50 s después con la   
+mano extendida. a) ¿Con qué velocidad inicial se lanzaron
+ 
+las llaves? b) ¿Cuál fue la velocidad de las llaves justo antes de 
+ser atrapadas?
+ 40. 
+; Emily desafía a su amigo David a atrapar un billete de dólar 
+del modo siguiente. Ella sostiene el billete verticalmente, como 
+se muestra en la figura P2.40, con el centro del billete entre los 
+dedos índice y pulgar de David, quien debe atrapar el billete 
+después de que Emily lo libere sin mover su mano hacia abajo. 
+Si su tiempo de reacción es 0.2 s, ¿tendrá éxito? Explique su 
+razonamiento.
+ 41. Se golpea una pelota de beisbol de modo que viaja recto hacia 
+arriba después de ser golpeada por el bat. Un aficionado ob-
+serva que a la bola le toma 3.00 s llegar a su máxima altura. 
+Encuentre a) la velocidad inicial de la bola y b) la altura que 
+alcanza.
+ 42. 
+; Un atacante en la base de la pared de un castillo de 3.65 m  
+de alto lanza una roca recta hacia arriba con una rapidez de 
+7.40 m/s a una altura de 1.55 m sobre el suelo. a) ¿La roca lle-
+gará a lo alto de la pared? b) Si es así, ¿cuál es su rapidez en lo 
+alto? Si no, ¿qué rapidez inicial debe tener para llegar a lo alto? 
+c) Encuentre el cambio en rapidez de una roca lanzada recta 
+hacia abajo desde lo alto de la pared con una rapidez inicial de 
+7.40 m/s y que se mueve entre los mismos dos puntos. d) ¿El 
+cambio en rapidez de la roca que se mueve hacia abajo con-
+cuerda con la magnitud del cambio de rapidez de la roca que 
+se mueve hacia arriba entre las mismas elevaciones? Explique 
+físicamente por qué sí o por qué no concuerda.
+ 43. Un osado vaquero sentado en la rama de un árbol desea caer 
+verticalmente sobre un caballo que galopa bajo el árbol. La  
+rapidez constante del caballo es 10.0 m/s y la distancia desde 
+Figura P2.41
+
+50 Capítulo 2  Movimiento en una dimensión
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 47. Los ingenieros automotrices se refieren a la tasa de cambio 
+de la aceleración en el tiempo como el “jalón”. Suponga que 
+un objeto se mueve en una dimensión tal que su jalón J es 
+constante. a) Determine expresiones para su aceleración ax(t), 
+velocidad vx(t) y posición x(t), dado que su aceleración, velo-
+cidad y posición iniciales son axi, vxi y xi, respectivamente. b) 
+Muestre que ax
+2  axi
+2  2J (vx  vxi).
+ 48. La rapidez de una bala mientras viaja por el cañón de un rifle 
+hacia la abertura está dada por v  (5.00  107)t 2  (3.00  
+105)t, donde v está en metros por segundo y t en segundos. La 
+aceleración de la bala justo cuando sale del cañón es cero. a) 
+Determine la aceleración y posición de la bala como función 
+del tiempo cuando la bala está en el cañón. b) Determine el 
+intervalo de tiempo durante el que la bala acelera. c) Encuen-
+tre la rapidez a la que sale del cañón la bala. d) ¿Cuál es la 
+longitud del cañón?
+1SPCMFNBTBEJDJPOBMFT
+ 49. Un objeto está en x  0 en t  0 y se mueve a lo largo del 
+eje x de acuerdo con la gráfica velocidad-tiempo de la figura 
+P2.49. a) ¿Cuál es la aceleración del objeto entre 0 y 4 s? b) 
+¿Cuál es la aceleración del objeto entre 4 s y 9 s? c) ¿Cuál es la 
+la rama hasta el nivel de la silla de montar es 3.00 m. a) ¿Cuál 
+debe ser la distancia horizontal entre la silla y la rama cuan-
+do el vaquero haga su movimiento? b) ¿Para qué intervalo de 
+tiempo está en el aire?
+ 44. La altura de un helicóptero sobre el suelo está dada por h 
+ 3.00t 
+3, donde h  está en metros y t en segundos. Después 
+de 2.00 s, el helicóptero libera una pequeña valija de correo. 
+¿Cuánto tiempo, después de su liberación, la valija llega al 
+suelo?
+ 45. Un objeto en caída libre requiere 1.50 s para recorrer los últi-
+mos 30.0 m antes de golpear el suelo. ¿Desde qué altura sobre 
+el suelo cayó?
+4FDDJwO&DVBDJPOFTDJOFNgUJDBTEFEVDJEBTEFMDgMDVMP
+ 46. Un estudiante conduce un ciclomotor a lo largo de un ca-
+mino recto como se describe por la gráfica velocidad en  
+función del tiempo de la figura P2.46. Bosqueje esta gráfi
+-
+ca en medio de una hoja de papel gráfico. a) Directamen-
+te sobre su gráfica, bosqueje una gráfica de la posición en 
+función del tiempo y alinee las coordenadas de tiempo de 
+las dos gráficas. b) Bosqueje una gráfica de la aceleración 
+en función del tiempo directamente bajo de la gráfica v
+x–t, 
+y de nuevo alinee las coordenadas de tiempo. En cada grá-
+fica muestre los valores numéricos de x y a
+x para todos los 
+puntos de inflexión. c) ¿Cuál es la aceleración en t  6 s?  
+d) Encuentre la posición (relativa al punto de partida) en  
+t  6 s. e) ¿Cuál es la posición final del ciclomotor en t  9 s?
+aceleración del objeto entre 13 s y 18 s? d) ¿En qué tiempo(s) 
+el objeto se mueve con la rapidez más baja? e) ¿En qué tiempo 
+el objeto está más lejos de x  0? f) ¿Cuál es la posición final 
+x del objeto en t = 18 s? g) ¿A través de qué distancia total el 
+objeto se mueve entre t  0 y t  18 s?
+ 50. 
+; El Acela, que se muestra en la figura P2.50a, es un tren 
+eléctrico en la ruta Washington-Nueva York-Boston y transpor-
+ta pasajeros a 170 mi/h. La inclinación de los vagones es de 
+hasta 6° de la vertical para evitar que los pasajeros sientan que 
+se les empuja a un lado cuando entran en curvas. En la figura 
+P2.50b se muestra una gráfica velocidad-tiempo para el Acela. 
+a) Describa el movimiento del tren en cada intervalo de tiem-
+po sucesivo. b) Encuentre la aceleración pico positiva del tren 
+en el movimiento graficado. c) Encuentre el desplazamiento 
+del tren, en millas, entre t  0 y t  200 s.
+ 51. Un cohete de prueba se dispara verticalmente hacia arriba 
+desde un pozo. Una catapulta le da una rapidez inicial de 80.0 
+m/s a nivel del suelo. Después se encienden sus motores y  
+Figura P2.46
+v
+4
+x (m/s)
+8
+0
+4
+123456 t (s)78 9 1 0
+8
+Figura P2.49
+vx (m/s)
+20
+51 0 t (s)15
+10
+10
+0
+Figura P2.50  a) El Acela: 1 171 000 lb de acero frío que transporta 
+atronadoramente 304 pasajeros. b) Gráfica velocidad frente a tiempo 
+para el Acela.
+50
+0
+50
+100
+150
+200
+100
+b)
+v (mi/h) t (s)
+0 50 100 150 200 250 300 350 40050
+a)
+
+Problemas 51
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+tremo norte de la intersección es 3.10 s. a) ¿Cuán lejos está la 
+nariz del Ferrari del extremo sur de la intersección cuando se 
+detiene? b) ¿Para qué intervalo de tiempo cualquier parte del 
+Ferrari está dentro de las fronteras de la intersección? c) Un 
+Corvette está en reposo en el camino de intersección perpen-
+dicular. Mientras la nariz del Ferrari entra a la intersección, el 
+Corvette parte del reposo y acelera al este a 5.60 m/s
+2. ¿Cuál 
+es la distancia mínima desde el extremo cercano (oeste) de 
+la intersección a la que la nariz del Corvette puede comenzar 
+su movimiento, si el Corvette debe entrar a la intersección 
+después de que el Ferrari haya salido completamente de la 
+intersección? d) Si el Corvette comienza su movimiento en 
+la posición dada por su respuesta en el inciso c), ¿con qué 
+rapidez entra a la intersección?
+ 57. Un inquisitivo estudiante de física y montañista asciende un 
+risco de 50.0 m que cuelga sobre un tranquilo ojo de agua. 
+Lanza dos piedras verticalmente hacia abajo, con una sepa-
+ración de 1.00 s y observa que causan una sola salpicadura. 
+La primera piedra tiene una rapidez inicial de 2.00 m/s. a) 
+¿Cuánto tiempo después de liberar la primera piedra las dos 
+piedras golpean el agua? b) ¿Qué velocidad inicial debe tener 
+la segunda piedra si deben golpear simultáneamente? c) ¿Cuál 
+es la rapidez de cada piedra en el instante en que las dos gol-
+pean el agua?
+ 58. 
+; Una bola de hule duro, liberada a la altura del pecho, cae 
+al pavimento y rebota de vuelta casi a la misma altura. Cuando 
+está en contacto con el pavimento, el lado inferior de la bola se 
+aplana temporalmente. Suponga que la profundidad máxima 
+de la abolladura es del orden de 1 cm. Calcule una estimación 
+del orden de magnitud para la aceleración máxima de la bola 
+mientras está en contacto con el pavimento. Establezca sus su-
+posiciones, las cantidades que estimó y los valores que estimó 
+para ellos.
+ 59. Kathy Kool compra un automóvil deportivo que puede acele-
+rar con una relación de 4.90 m/s
+2. Decide probar el automóvil 
+corriendo con otro conductor, Stan Speedy. Ambos parten del 
+reposo, pero el experimentado Stan deja la línea de partida 
+1.00 s antes que Kathy. Stan se mueve con una aceleración 
+constante de 3.50 m/s
+2 y Kathy mantiene una aceleración de 
+4.90 m/s2. Encuentre a) el tiempo cuando Kathy alcanza a Stan, 
+b) la distancia que recorre antes de alcanzarlo y c) las rapideces 
+de ambos automóviles en el instante en que lo alcanza.
+ 60. Una roca se suelta desde el reposo en un pozo. a) El sonido 
+de la salpicadura se escucha 2.40 s después de que la roca se 
+libera desde el reposo. ¿Cuán lejos abajo de lo alto del pozo 
+es la super ficie del agua? La rapidez del sonido en el aire (a  
+temperatura ambiente) es 336 m/s. b) ¿Qué pasaría si? Si se 
+ignora el tiempo de viaje para el sonido, ¿qué error porcentual 
+se introduce cuando se calcula la profundidad del pozo?
+ 61.
+ ; En un manual para conductor de California, se dieron los si-
+guientes datos acerca de la distancia mínima que un automóvil 
+recorre para detenerse a partir de varias rapideces originales. 
+La “distancia pensada” representa cuán lejos viaja el automóvil 
+durante el tiempo de reacción del conductor, después de que 
+aparezca una razón para frenar pero antes de que el conduc-
+tor pueda aplicar los frenos. La “distancia de frenado” es el 
+desplazamiento del automóvil después de aplicar los frenos.  
+a) ¿Los datos de distancia pensada son consistentes con la 
+suposición de que el automóvil viaja con rapidez constante? 
+Explique. b) Determine el mejor valor de tiempo de reacción 
+sugerido por los datos. c) ¿Los datos de distancia de frenado 
+acelera hacia arriba a 4.00 m/s
+2 hasta que llega a una altitud 
+de 1 000 m. En este punto sus motores fallan y el cohete entra 
+en caída libre, con una aceleración de 9.80 m/s
+2. a) ¿Para 
+qué intervalo de tiempo el cohete está en movimiento sobre el 
+suelo? b) ¿Cuál es su altitud máxima? c) ¿Cuál es su velocidad 
+justo antes de chocar con la Tierra? (Necesitará considerar el 
+movimiento mientras el motor funciona separado del movi-
+miento en caída libre.)
+ 52. 
+; En la figura 2.11b, el área bajo la curva velocidad en función 
+del tiempo y entre el eje vertical y el tiempo t (línea disconti-
+nua vertical) representa el desplazamiento. Como se muestra, 
+esta área consiste de un rectángulo y un triángulo. Calcule sus 
+áreas y establezca cómo se compara la suma de las dos áreas 
+con la expresión en el lado derecho de la ecuación 2.16.
+ 53. Estableciendo un récord mundial en una carrera de 100 m, 
+Maggie y Judy cruzan la línea final en un empate muy apreta-
+do, pues ambas tardan 10.2 s. Acelerando uniformemente, a 
+Maggie le toma 2.00 s y a Judy 3.00 s lograr su máxima rapidez, 
+que mantienen durante el resto de la carrera. a) ¿Cuál fue la 
+aceleración de cada corredora? b) ¿Cuáles fueron sus respec-
+tivas magnitudes de velocidad máximas? c) ¿Cuál corredora  
+estuvo adelante en la marca de 6.00 s y por cuánto?
+ 54.
+ ; ¿Cuánto tiempo debe durar la luz amarilla del semáforo? Suponga 
+que conduce al límite de rapidez v0. Conforme se aproxima a 
+un cruce de 22.0 m de ancho, ve que la luz se pone amarilla. 
+Durante su tiempo de reacción de 0.600 s, viaja con rapidez 
+constante mientras reconoce la advertencia, decide si se de-
+tiene o cruza la intersección, y mueve su pie al freno si debe 
+frenar. Su automóvil tiene buenos frenos y puede acelerar a 
+2.40 m/s
+2. Antes de ponerse roja, la luz debe permanecer 
+en amarillo lo suficiente para que sea capaz de llegar al otro 
+lado de la intersección sin aumentar rapidez, si está muy cerca 
+de la intersección como para frenar antes de entrar a ella. a) 
+Encuentre el intervalo de tiempo $t
+y requerido que la luz debe 
+permanecer en amarillo en términos de v0. Evalúe su respuesta 
+para b) v0  8.00 m/s  28.8 km/h, c) v0  11.0 m/s  40.2 
+km/h, d) v0  18.0 m/s  64.8 km/h y e) v 0  25.0 m/s   
+90.0 km/h. ¿Qué pasaría si? Evalúe su respuesta para f) v0 que 
+tiende a cero y g) v0 que tiende a infinito. h) Describa el pa-
+trón de variación de $ty con v0. Tal vez también quiera bosque-
+jar una gráfica del mismo. Explique físicamente las respuestas 
+a los incisos f) y g). i) ¿Para qué valores de v
+0 sería mínimo 
+$ty? y j) ¿Cuál es este intervalo de tiempo mínimo? Sugerencia: 
+Puede encontrar más fácil de hacer el inciso a) después de 
+hacer primero el inciso b).
+ 55. Un tren de pasajeros viaja entre dos estaciones del centro de 
+la ciudad. Puesto que las estaciones sólo están separadas 1.00 
+km, el tren nunca alcanza su máxima rapidez de viaje posible. 
+Durante las horas de tráfico el ingeniero minimiza el intervalo 
+de tiempo $
+t entre las dos estaciones al acelerar durante un 
+intervalo de tiempo $t1 con una proporción a1  0.100 m/s2 
+para luego frenar inmediatamente con una aceleración a 2  
+0.500 m/s2 en un intervalo de tiempo $t2. Encuentre el inter-
+valo de tiempo de viaje mínimo $t y el intervalo de tiempo $t.
+ 56. Un Ferrari F50 de 4.52 m de longitud se mueve al norte en 
+una autopista que interseca con otro camino perpendicular. El 
+ancho de la intersección desde el extremo cercano al extremo 
+lejano es de 28.0 m. El Ferrari tiene una aceleración cons
+-
+tante de 2.10 m/s 2 de magnitud dirigida al sur. El intervalo 
+de tiempo requerido para que la nariz del Ferrari se mueva 
+desde el extremo cercano (sur) de la intersección hasta el ex-
+
+52 Capítulo 2  Movimiento en una dimensión
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ Tiempo (s) Altura (m) Tiempo (s) Altura (m)
+ 0.00 5.00 2.75 7.62
+ 0.25 5.75 3.00 7.62
+ 0.50 6.40 3.25 6.77
+ 0.75 6.94 3.50 6.20
+ 1.00 7.38 3.75 5.52
+ 1.25 7.72 4.00 4.73
+ 1.50 7.96 4.25 3.85
+ 1.75 8.10 4.50 2.86
+ 2.00 8.13 4.75 1.77
+ 2.25 8.07 5.00 0.58
+ 2.50 7.90
+ 63. Dos objetos, A y B, se conectan mediante una barra rígida que  
+tiene longitud L. Los objetos se deslizan a lo largo de rieles 
+guía perpendiculares como se muestra en la figura P2.63. Su-
+ponga que A se desliza hacia la izquierda con una rapidez cons-
+tante v. Encuentre la velocidad de B cuando V  60.0°.
+son consistentes con la suposición de que el automóvil viaja 
+con aceleración constante? Explique. d) Determine el mejor 
+valor para la aceleración sugerido por los datos.
+  Distancia Distancia Distancia 
+ Rapidez  pensada de frenado de frenado 
+ (mi/h) (ft) (ft) total (ft)
+ 25 27  34  61
+ 35 38  67 105
+ 45 49 110 159
+ 55 60 165 225
+ 65 71 231 302
+ 62. 
+; Astronautas en un planeta distante lanzan una roca al aire. 
+Con la ayuda de una cámara que toma fotografías a una ra-
+pidez estable, registran la altura de la roca como función del 
+tiempo como se da en la tabla de la siguiente columna. a) 
+Encuentre la velocidad promedio de la roca en el intervalo 
+de tiempo entre cada medición y la siguiente. b) Use estas ve-
+locidades promedio para aproximar velocidades instantáneas 
+en los puntos medios de los intervalos de tiempo y haga una 
+gráfica de la velocidad como función del tiempo. ¿La roca se 
+mueve con aceleración constante? Si es así, trace una línea 
+recta de mejor ajuste en la gráfica y calcule su pendiente para 
+encontrar la aceleración.
+Respuestas a preguntas rápidas
+L
+y
+x
+v
+A
+B
+xO
+y
+v
+V
+2.1 c). Si la partícula se mueve a lo largo de una línea sin cambiar 
+dirección, el desplazamiento y la distancia recorridos sobre 
+cualquier intervalo de tiempo serán iguales. Como resulta-
+do, la magnitud de la velocidad promedio y de la rapidez 
+promedio serán iguales. Sin embargo, si la partícula invierte 
+dirección, el desplazamiento será menor que la distancia re-
+corrida. A su vez, la magnitud de la velocidad promedio será 
+más pequeña que la rapidez promedio.
+2.2 b). Sin importar su rapidez en todos los demás tiempos, si su 
+rapidez instantánea en el instante en que se mide es mayor que 
+el límite de rapidez, puede recibir una infracción.
+2.3 b). Si el automóvil frena, una fuerza debe jalar en la dirección 
+opuesta a su velocidad.
+2.4 Falso. Su gráfica debe parecerse algo a la siguiente.
+vx (m/s)
+t (s)
+6
+4
+2
+0
+2
+4
+6
+20 30 40 5010
+  Esta gráfica vx–t muestra que la rapidez máxima es de aproxi-
+madamente 5.0 m/s, que es 18 km/h (  11 mi/h), de modo 
+que el conductor no aumentaba rapidez.
+2.5 c). Si una partícula con aceleración constante se detiene y 
+su aceleración sigue constante, debe comenzar a moverse de 
+nuevo en la dirección opuesta. Si no lo hace, la aceleración 
+cambiaría desde su valor original constante a cero. La opción 
+a) no es correcta porque la dirección de la aceleración no 
+se especifica por la dirección de la velocidad. La opción b) 
+tampoco es correcta por contraejemplo; un automóvil que 
+se mueve en la dirección x y frena tiene una aceleración 
+positiva.
+2.6 La gráfica a) tiene una pendiente constante, que indica una 
+aceleración constante; se representa mediante la gráfica e).
+    La gráfica b) representa una rapidez que aumenta cons-  
+tantemente pero no a una tasa uniforme. Por lo tanto, la ace-
+leración debe aumentar y la gráfica que mejor muestra esto 
+es d).
+    La gráfica c) muestra una velocidad que primero aumenta a 
+una proporción constante, lo que revela aceleración constante. 
+Luego la velocidad deja de aumentar y se vuelve constante, lo 
+que indica aceleración cero. La mejor relación a esta situación 
+es la gráfica f).
+2.7 i), e). Para todo el intervalo de tiempo que la bola está en 
+caída libre, la aceleración es la de la gravedad. ii), d). Mientras 
+la bola se eleva, va frenando. Después de llegar al punto más 
+alto, la bola comienza a caer y su rapidez aumenta.
+Figura P2.63
+
+En el estudio de la física con frecuencia se necesita trabajar con cantidades físicas que tie-
+nen propiedades tanto numéricas como direccionales. Como se apuntó en la sección 2.1, 
+las cantidades de esta naturaleza son cantidades vectoriales. Este capítulo está interesado 
+principalmente en las propiedades generales de las cantidades vectoriales. Se analizan la 
+suma y resta de cantidades vectoriales, con aplicaciones comunes a situaciones físicas.
+Las cantidades vectoriales se usan en todas las partes de este texto. Por tanto, es impe-
+rativo que domine las técnicas que se discuten en este capítulo.
+3.1 Sistemas coordenados
+Muchos aspectos de la física incluyen una descripción de una ubicación en el espacio. 
+Por ejemplo, en el capítulo 2, se vio que la descripción matemática del movimiento de un 
+objeto requiere un método para describir la posición del objeto en varios tiempos. En dos 
+dimensiones esta descripción se logra con el uso del sistema de coordenadas cartesianas, 
+en el que ejes perpendiculares cruzan en un punto definido como el origen (figura 3.1). 
+Las coordenadas cartesianas también se llaman coordenadas rectangulares.
+A veces es más conveniente representar un punto en un plano por sus coordenadas 
+polares planas (r, V), como se muestra en la figura 3.2a. En este sistema de coordenadas po- 
+lares, r es la distancia desde el origen hasta el punto que tiene coordenadas cartesianas 
+(x, y) y V  es el ángulo entre un eje fijo y una línea dibujada desde el origen hasta el 
+punto. El eje fijo es el eje x positivo y V se mide contra el sentido de las manecillas del re- 
+loj desde el mismo. A partir del triángulo rectángulo de la figura 3.2b, se encuentra que 
+ 53
+Los controles en la cabina de una aeronave comercial ayudan al piloto 
+a mantener el control sobre la velocidad del aparato (cuán rápido viaja 
+y en qué dirección lo hace) lo cual le permite aterrizar con seguridad. 
+Las cantidades que se definen tanto por una magnitud como por una 
+dirección, como la velocidad, se llaman cantidades vectoriales. (Mark 
+Wagner/Getty Images)
+3.1  Sistemas coordenados
+3.2  Cantidades vectoriales y escalares
+3.3  Algunas propiedades de los vectores
+3.4  Componentes de un vector y vectores unitarios
+3 Vectores
+Figura 3.1 Designación de 
+puntos en un sistema coordenado 
+cartesiano. Cualquier punto se 
+etiqueta con las coordenadas  
+(x, y).
+(3, 4)
+y
+O
+Q
+P
+(x, y)
+(5, 3)
+x
+
+54

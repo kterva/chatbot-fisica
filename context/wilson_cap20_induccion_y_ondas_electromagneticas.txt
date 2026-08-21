@@ -1,0 +1,3094 @@
+Tema: Inducción y ondas electromagnéticas (Capítulo 20 — Física, Wilson)
+
+CAPÍTULO 20 Inducción y ondas electromagnéticas
++
+Corriente
+inducida
+Corriente y
+campo en
+aumento
+Galvanómetro Interruptor
+recién cerrado
+ a)
+I
+I
+B
+o +–
++
+Corriente
+inducida
+Corriente y
+campo en
+descenso
+Interruptor
+recién abierto
+ b)
+I
+I
+B
+o +–
+▲ FIGURA 20.3 Inducción mutua
+a) Cuando está cerrando el interrup-
+tor en el circuito de la espira de la
+derecha, la acumulación de corriente
+produce un campo magnético que
+cambia en la otra espira, e induce
+una corriente en ella. b) Cuando se
+abre el interruptor, el campo magné-
+tico desaparece y el campo mag-
+nético en la espira de la izquierda
+disminuye. La corriente inducida 
+tiene entonces la dirección contraria.
+Las corrientes inducidas sólo se pro-
+ducen cuando cambia el campo 
+magnético que atraviesa una espira 
+y desaparecen cuando el campo 
+alcanza un valor constante.
+Michael Faraday, en Inglaterra, y Joseph Henry, en Estados Unidos, realizaron ex-
+perimentos detallados con la inducción electromagnética, alrededor de 1830. Faraday
+determinó que el factor importante en la inducción electromagnética es la rapidez de
+cambio de la cantidad de líneas magnéticas que pasan por el área de la espira o el cir-
+cuito. Esto es, descubrió que 
+se produce una fem inducida en una espira o en un circuito completo siempre
+que cambia la cantidad de líneas de campo magnético que pasan por el plano
+de la espira o del circuito.
+Flujo magnético
+Puesto que la fem inducida en una espira depende de la rapidez de cambio de la canti-
+dad de líneas de campo magnético que pasan por ella, para determinarla se necesita
+cuantificar la cantidad de líneas de campo que pasan por ella. Consideremos una espi-
+ra de alambre dentro de un campo magnético uniforme (
+▼figura 20.4a). La cantidad de
+líneas de campo que pasan por ella dependen de su área, de su orientación en relación
+con el campo, y de la intensidad de ese campo. Para describir la orientación de la espira
+se emplea el concepto de un vector área . Su dirección es normal al plano de la espi-
+ra, y su magnitud es igual a esa área. Para medir la orientación relativa, se usa un án-
+gulo 
+θ, formado entre el vector campo magnético y el vector área . Por ejemplo,
+en la figura 20.4a, θ = 0°, lo que significa que los dos vectores tienen la misma dirección
+o, de forma alternativa, que el plano del área es perpendicular al campo magnético.
+Para el caso de un campo magnético que no varía dentro del área, la cantidad de lí-
+neas de campo magnético que pasan por esa área particular (el área dentro de la espi-
+ra, en nuestro caso) es proporcional al flujo magnético que se define como
+(20.1)
+La unidad SI de flujo magnético es tesla-metro 
+cuadrado o weber (Wb)*
+La unidad SI de campo magnético es el tesla y las unidades SI de flujo magnético
+son En ocasiones, esta combinación se expresa como weber, que se define como
+La orientación de la espira con respecto al campo magnético afecta
+la cantidad de líneas de campo que pasan por ella, y este factor se explica por el térmi-
+no de coseno en la ecuación 20.1. A continuación se describirán varias orientaciones
+posibles:
+• Si y son paralelos (
+θ /H110050°), entonces el flujo magnético es positivo y tiene un
+valor máximo Φmáx /H11005BA cos 0° /H11005/H11001BA. Por la espira pasa la cantidad máxima po-
+sible de líneas de campo magnético en esta orientación (figura 20.4b).
+• Si y tienen dirección contraria ( θ /H11005180°), entonces la magnitud del flujo mag-
+nético de nuevo es máxima, pero de signo contrario: Φ180° /H11005BA cos 180° /H11005/H11002BA
+= /H11002Φmáx (figura 20.4c).
+A
+S
+B
+S
+A
+S
+B
+S
+1 Wb = 1 T # m2.
+T # m2.
+1T # m22,
+£= BA cos u
+(≥),
+1A
+S
+21B
+S
+2
+1A
+S
+2
+Eje de
+rotación
+AA
+B Vista lateral
+ b)  Φ = +BA  c)  Φ = –BA 
+A = 0° = 180°θ θ A
+ d)  Φ = 0  
+= 90°θ θ
+A
+ e)  Φ = BA cos θ a)
+B
+▼ FIGURA 20.4 Flujo magnético a) El flujo magnético Φ es una medida de la cantidad de líneas de campo que 
+pasan por una área A. El área se puede representar con un vector perpendicular al plano del área. b) Cuando el
+plano de una espira es perpendicular al campo y θ /H110050°, entonces Φ /H11005Φmáx /H11005/H11001BA. c) Cuando θ /H11005180°, el flujo
+magnético tiene la misma magnitud, pero su dirección es contraria: Φ /H11005/H11002Φmáx /H11005 /H11002BA. d) Cuando θ /H1100590°, entonces
+Φ /H110050. e) Conforme cambia la orientación del plano de la espira desde perpendicular al campo a una más paralela a
+éste, hay menos área abierta a las líneas de campo y, por lo tanto, disminuye el flujo. En general, Φ = BA cos θ.
+A
+S
+*Wilhelm Eduard Weber (1804-1891), un físico alemán, fue reconocido por sus investigaciones en
+magnetismo y electricidad, en especial, por sus estudios del magnetismo terrestre. La unidad weber se
+adoptó como la unidad SI de flujo magnético en 1935.
+flujo magnético
+(en un campo magnético constante)
+
+20.1 Fem inducida: ley de Faraday y ley de Lenz 659
+• Si y son perpendiculares, no hay líneas de campo que pasen por el plano de la
+espira, y el flujo es cero: Φ90° /H11005BA cos 90° /H110050 (figura 20.4d).
+• Para los casos de orientaciones en ángulos intermedios, el flujo tiene un valor menor
+que el máximo, pero es distinto de cero (figura 20.4e). Se puede interpretar que A cos
+θ es el área efectiva de la espira, perpendicular a las líneas de campo (Nfigura 20.5a).
+De manera alternativa, se puede considerar que B cos θ es el componente perpen-
+dicular del campo que pasa por toda el área A de la espira, como se ve en la figura
+20.5b. Así, se puede pensar que la ecuación 20.1 es Φ /H11005(B cos θ)A, o Φ /H11005B(A cos θ),
+dependiendo de la interpretación. En cualquiera de estos casos, el resultado es el
+mismo.
+Ley de Faraday de inducción y ley de Lenz
+Con base en experimentos cuantitativos, Faraday determinó que la fem inducida
+en una bobina (que, por definición, consiste en una serie de N espiras individuales o
+vueltas) depende de la rapidez de cambio de la cantidad de líneas de campo magnéti-
+co que pasan por todas las vueltas, es decir, la rapidez de cambio del flujo magnético por to-
+das las vueltas (flujo total). Esta dependencia se llama ley de Faraday de la inducción y
+se expresa en forma matemática como sigue:
+ley de Faraday para fem inducida
+(20.2)
+donde ΔΦ es el cambio de flujo que pasa por una espira. En una bobina de N vueltas de
+alambre, el cambio total de flujo es NΔΦ. Observe que la fem inducida en la ecuación
+20.2 es un valor promedio para el intervalo de tiempo Δt (¿por qué?).
+En la ecuación 20.2 se incluye el signo menos para indicar la dirección, de la fem in-
+ducida, que no hemos analizado aún. El físico ruso Heinrich Lenz (1804-1865) descu-
+brió la ley que establece la dirección de la fem inducida. La ley de Lenz se enuncia
+como sigue:
+Una fem inducida en una espira o bobina de alambre tiene una dirección tal que
+la corriente que origina genera su propio campo magnético, que se opone al
+cambio de flujo magnético que pasa por esa espira o bobina.
+Esta ley significa que el campo magnético generado por la corriente inducida tiene una di-
+rección que trata de evitar que cambie el flujo que pasa por la espira. Por ejemplo, si el
+flujo aumenta en la dirección /H11001x, el campo magnético generado por la corriente indu-
+cida tendrá la dirección /H11002x (
+▼figura 20.6a). Este efecto tiende a anular el aumento de
+flujo, es decir, a oponerse al cambio. En esencia, el campo magnético generado por la co-
+rriente inducida trata de mantener el flujo magnético existente. A veces, este efecto se
+conoce como “inercia electromagnética” por analogía de la tendencia que tienen los
+objetos a resistirse a los cambios en su velocidad. A la larga, la corriente inducida no
+puede evitar que cambie el flujo magnético. Sin embargo, mientras cambia el flujo
+magnético que pasa por la espira, el campo magnético inducido se opondrá al cambio.
+La dirección de la corriente inducida se establece con la regla de la mano derecha
+para corriente inducida:
+Cuando el pulgar de la mano derecha apunta en la dirección del campo induci-
+do, los demás dedos apuntan en dirección de la corriente inducida. 
+(Véase la figura 20.6b y el Ejemplo integrado 20.1.) Tal vez usted reconozca que esta re-
+gla es una versión de las reglas de mano derecha, con las que se determina la dirección
+de un campo magnético producido por una corriente (capítulo 19). En este caso se usa
+e =- N 
+¢£
+¢t =-  
+¢1N£2
+¢t
+1e2
+A
+S
+B
+S
+A cos u
+Vista lateral 
+del área A de
+la espira
+Vista lateral del 
+área A de la espira
+ B cos u
+/H9021 = (B cos u
+ a)
+ b)
+ ) A
+B (A cos u)/H9021 =
+u
+u
+u
+B
+B
+▲ FIGURA 20.5 Flujo magnético 
+a través de una espira: una inter-
+pretación alternativa En lugar de 
+definir el flujo (Φ) a) en función del
+campo magnético (B) que pasa por
+una área reducida (A cos 
+θ), se 
+puede definir b) en función del
+componente perpendicular (B cos θ)
+del campo magnético que atraviesa
+a A. En cualesquiera de las formas,
+Φ es una medida de la cantidad de
+líneas de campo que pasan por A, y
+se determina mediante Φ /H11005BA cos
+θ (ecuación 20.1).
+ b) a)
+B 
+inducida /H11002x
+I inducida
+I inducida
+I inducida
+Campo
+externo
++ x
+Aumenta el 
+campo externo
+(B2 > B1)
++ x
+B1
+> FIGURA 20.6 Determinación de la
+dirección de la corriente a) Un
+campo magnético externo que 
+aumenta hacia la derecha. La 
+corriente inducida crea su propio
+campo magnético para tratar de
+contrarrestar el cambio de flujo. 
+b) La regla de la mano derecha 
+(para fuentes) para la corriente 
+(inducida) determina la dirección
+de esta última. Aquí, la dirección
+del campo magnético inducido 
+es hacia la izquierda. Cuando el 
+pulgar de la mano derecha apunta
+en esa dirección, los demás dedos
+indican la dirección de la corriente.
+Ilustración 29.2 Espira en un cambio
+magnético variable
+Exploración 29.1 Ley de Lenz
+
+660 CAPÍTULO 20 Inducción y ondas electromagnéticas
+a la inversa. Por lo general, se conoce la dirección del campo inducido (por ejemplo,
+/H11002x en la figura 20.6b), y se desea conocer la dirección de la corriente que lo produce.
+En el Ejemplo integrado 20.1 se ilustra una aplicación de la ley de Lenz.
+Ejemplo integrado 20.1 ■ La ley de Lenz y las corrientes inducidas
+a) El extremo sur de un imán recto se aleja de una pequeña bobina de alambre (véase la 
+>figura 20.7a.) Viendo desde atrás de la bobina hacia el extremo sur del imán (figura 20.7b),
+¿qué dirección tiene la corriente inducida? 1) Sentido contrario al de las manecillas del reloj,
+2) sentido de las manecillas del reloj o 3) no hay corriente inducida. b) Suponga que ini-
+cialmente el campo magnético que cruza el área de la bobina tiene un valor constante de 
+40 mT; el radio de la bobina mide 2.0 mm, y esta última tiene 100 vueltas de alambre. Calcu-
+le la magnitud de la fem promedio inducida en la bobina, si se retira el imán recto en 0.75 s. 
+a) Razonamiento conceptual.Al principio hay flujo magnético que entra en el plano de la
+bobina (figura 20.7b) y, más adelante, cuando el imán está muy alejado de la bobina, no
+hay flujo magnético: el flujo cambió. Así, debe haber algo de fem inducida, y se sabe que
+la respuesta 3 no es correcta. Conforme se aleja el imán recto, el campo se debilita, pero
+mantiene su dirección. La fem inducida entonces producirá una corriente (inducida) que,
+a la vez, producirá un campo magnético hacia la página, para tratar de evitar la disminu-
+ción del flujo. La fem inducida y la corriente siguen el sentido de las manecillas del reloj,
+según se determina aplicando la regla de la mano derecha para corriente inducida (figura
+20.7c). La respuesta correcta es la 2.
+b) Razonamiento cuantitativo y solución. Este ejemplo es una aplicación directa de la
+ecuación 20.2. El flujo inicial es el máximo posible. Se listan los datos y se hace la conver-
+sión a unidades 
+SI:
+Dado: Encuentre: la fem inducida (magnitud)
+N /H11005100 vueltas
+Para determinar el flujo magnético inicial que atraviesa una espira de la bobina, se utiliza
+la ecuación 20.1, con el ángulo θ /H110050°. (¿Por qué?) El área es A /H11005πr2 /H11005π ( 2.00 /H1100310-3 m)2
+/H110051.26 /H1100310/H110025 m2. Así, el flujo inicial Φ1 que atraviesa una espira es positivo (¿por qué?) y
+está dado por
+Como el flujo final es cero, Entonces, el valor absoluto
+de la fem promedio inducida es
+Ejercicio de refuerzo. En este ejemplo, a) ¿qué dirección tiene la corriente inducida si un
+polo norte magnético se acerca a la bobina rápidamente? Explique por qué. b) En este
+ejemplo, ¿cuál sería la corriente promedio inducida si la bobina tuviera una resistencia to-
+tal de 0.2 Ω? (Las respuestas de todos los ejercicios de refuerzo aparecen al final del libro.)
+La ley de Lenz incorpora el principio de la conservación de la energía. Imagine un
+caso en el que por una espira de alambre pasa un flujo magnético creciente. Contravi-
+niendo la ley de Lenz, suponga que el campo magnético producido por la corriente in-
+ducida se sumará al flujo, en vez de mantenerlo en su valor original. Este aumento de
+flujo produciría una corriente inducida todavía mayor. Esta mayor corriente inducida
+produciría un flujo magnético todavía mayor, lo que produciría una mayor corriente in-
+ducida, y así sucesivamente. Es un caso en el que se da algo de energía por nada, lo que
+viola la ley de la conservación de la energía.
+Para comprender la dirección de la fem inducida en una espira, en función
+de fuerzas, considere un imán en movimiento (como, el de la figura 20.1b). Una
+espira con corriente eléctrica crea su propio campo magnético, semejante al de
+un imán recto (figuras 19.3 y 19.25). Así, la corriente inducida establece un cam-
+po magnético en la espira, y ésta funciona como un imán recto, cuya polaridad
+se opone al movimiento del imán recto real (
+Nfigura 20.8). Trate de demostrar
+que si el imán recto se aleja de la espira, ésta ejerce una atracción magnética,
+para evitar que el imán se aleje: es la inercia electromagnética en acción.
+Si se sustituye la ecuación 20.1 para el flujo magnético ( Φ) en la ecuación 20.2, se
+obtiene
+(20.3)e =- N 
+¢£
+¢t =-  
+N¢1BA cos u2
+¢t
+ƒeƒ = N 
+ƒ¢£ ƒ
+¢t =1100 vueltas2 
+15.03 * 10-7 T # m2 vuelta2
+10.75 s2
+= 6.70 * 10-5 V
+0 -£ i =- £ i .=¢ £=£ f -£ i
+£i = Bi
+ A cos u =10.040 T211.26 * 10-5 m22 cos 0° =+ 5.03 * 10-7 T # m2
+ ¢t = 0.75 s
+ r = 2.00 mm = 2.00 * 10-3 m
+e Bi = 40 mT = 0.040 T
+ b)
+ a)
+B, que 
+resulta de la 
+corriente 
+inducida, 
+trata de 
+detener la 
+reducción 
+de flujo en b 
+I inducida
+Imán
+recto
+Espira pequeña
+S
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+XXXXXXXXX
+XXXXX
+XXXX
+XXXXX
+XXXX
+XXXXX
+XXXX
+XXXXX
+XXXXX
+X XX X
+X XXXXX X
+X XXX X
+X XXXXX X
+X XX X
+XXXXX
+ c)
+v
+▲ FIGURA 20.7 Inducción de 
+corrientes mediante un imán 
+recto a) El extremo sur de un 
+imán recto se aleja rápidamente de
+una pequeña espira de alambre. 
+b) Una vista de la espira desde la
+derecha revela que el campo 
+magnético apunta alejándose del
+observador (es decir, en dirección
+hacia la página) y que, además, 
+disminuye. c) Para tratar de 
+contrarrestar la pérdida de flujo
+magnético hacia la página, se 
+induce corriente en el sentido de las
+manecillas del reloj, para formar su
+propio campo magnético también
+hacia la página. Véase el Ejemplo 
+integrado 20.1.
+Exploración 29.3 Espira cerca 
+de un cable
+
+20.1 Fem inducida: ley de Faraday y ley de Lenz 661
+Por consiguiente, se produce una fem inducida si
+1. cambia la intensidad del campo magnético,
+2. cambia el área de la espira, y/o
+3. cambia el ángulo entre el área de la espira y la dirección del campo.
+En el caso 1, se produce un cambio de flujo a causa de un campo magnético varia-
+ble en el tiempo, como el que se puede obtener de una corriente variable en el tiempo,
+en un circuito cercano, o al acercar un imán a una bobina, como en la figura 20.1 (o al
+acercar la bobina al imán).
+En el caso 2, se produce un cambio de flujo a causa de un área de espira variable.
+Esto ocurre si una espira tiene circunferencia ajustable (como una espira que rodea a un
+globo al inflarlo; véase el ejercicio 23).
+Por último, en el caso 3, se produce un cambio de flujo como resultado de un cambio en
+la orientación de la espira. Este caso se presenta cuando gira una bobina en un campo magné-
+tico. Es evidente el cambio en la cantidad de líneas de campo que atraviesan a la espira en
+las secuencias de la figura 20.4. La rotación de una bobina dentro de un campo magnético
+es una forma frecuente de inducir una fem, y se explicará por separado en el apartado 20.2.
+Las fem producidas al cambiar la intensidad del campo y el área de la espira se analizan en
+los dos ejemplos siguientes. (Véase también la sección A fondo 20.1, en la p. 664, en torno a
+algunas aplicaciones de la inducción electromagnética en relación con la lucha antiterroris-
+ta y con su contribución para hacer nuestra vida más fácil y segura.)
+Ejemplo conceptual 20.2 ■ Campos en los campos: la inducción
+electromagnética
+En las áreas rurales donde las líneas de transmisión eléctrica pasan en camino a las grandes
+ciudades, es posible generar pequeñas corrientes eléctricas mediante la inducción en una
+espira conductora. Las líneas aéreas conducen corrientes alternas relativamente grandes,
+que invierten su dirección 60 veces por segundo. ¿Cómo debería orientarse el plano de la
+espira para maximizar la corriente inducida, si las líneas eléctricas van de norte a sur? 
+a) De forma paralela a la superficie del terreno, b) perpendicular a la superficie del te-
+rreno, en dirección norte-sur o c) perpendicular a la superficie del terreno, en dirección
+este-oeste. (Véase la 
+Nfigura 20.9a.)
+Razonamiento y respuesta. Las líneas de campo magnético que se originan en conducto-
+res largos tienen forma circular. (Véase la figura 19.23.) Según la regla de la mano derecha
+para fuentes, la dirección del campo magnético a nivel del terreno es paralela a la superfi-
+cie del mismo, pero alterna su dirección. Las opciones de orientación se muestran en la fi-
+gura 20.9b. Ni la respuesta a ni la c son correctas, porque en esas orientaciones nunca
+habrá flujo magnético que pase por la espira. En este caso, el flujo sería constante y no ha-
+bría fem inducida. Por consiguiente, la respuesta correcta es la b. Si la espira está orienta-
+da perpendicularmente a la superficie terrestre, con su plano en la dirección norte-sur, el
+flujo que la atraviesa variaría de cero hasta su valor máximo, y de regreso, 60 veces por se-
+gundo; esto maximiza la fem inducida y la corriente en la espira.
+Ejercicio de refuerzo. Sugiera formas posibles de aumentar la corriente inducida en este
+ejemplo, cambiando sólo las propiedades de la espira y no de los cables aéreos.
+Ejemplo 20.3 ■ Corrientes inducidas: ¿riesgo potencial para los equipos?
+Los instrumentos eléctricos se pueden dañar si hay un campo magnético que cambie con ra-
+pidez. Esto ocurre cuando un instrumento está cerca de un electroimán que funcione con co-
+rriente alterna; es posible que el campo externo del electroimán produzca un flujo magnético
+variable dentro de un instrumento cercano. Si las corrientes inducidas son suficientemente
+fuertes, podrían dañar el instrumento. Considere una bocina de una computadora que está
+cerca de ese electroimán (
+▼figura 20.10, p. 662). Suponga que el electroimán expone a la boci-
+na a un campo magnético máximo de 1.00 mT, que invierte su dirección cada 1/120 s.
+Suponga que la bobina del altavoz tiene 100 vueltas circulares de alambre (cada una
+de 3.00 cm de radio) y que su resistencia total es de 1.00 Ω. De acuerdo con el fabricante
+de la bocina, la corriente que pase por la bobina no debe exceder 25.0 mA. a) Calcule la
+magnitud de la fem promedio inducida en la bobina durante el intervalo de 1/120 s. b)¿es
+probable que la corriente inducida dañe la bobina de la bocina?
+Razonamiento. a) El flujo pasa de un valor (máximo) positivo hasta un valor (máximo) nega-
+tivo, en 1/120 s. El cambio de flujo magnético se determina utilizando la ecuación 20.1, con 
+θ /H110050° y θ /H11005180°. La fem promedio inducida se calcula entonces con la ecuación 20.2. 
+b) Una vez conocida la fem, se calcula la corriente inducida conI = e>R.
+ b)
+ a)
+Magnitud creciente de B
+N
+N
+N
+I
+I/H11002
+v
+v
+F F
+▲ FIGURA 20.8 Descripción de la
+ley de Lenz en función de fuerzas
+a) Si el extremo norte de un imán
+recto se acerca con rapidez a una es-
+pira de alambre, se induce en ella la
+corriente en la dirección que se indi-
+ca. b) Mientras existe la corriente in-
+ducida, la espira funciona como un
+pequeño imán recto con su “polo
+norte” cercano al extremo norte del
+imán real. Por consiguiente, hay una
+repulsión magnética. Es una forma
+alternativa de visualizar la ley de
+Lenz: inducir una corriente para tra-
+tar de evitar que cambie el flujo; en
+este caso, se trata de mantener aleja-
+do el imán y de mantener el valor
+inicial del flujo, es decir, cero.
+B
+ a)
+N
+I
+I
+ b)
+N
+S
+E
+W a
+bc
+▲ FIGURA 20.9 Fem inducidas deba-
+jo de las líneas de transmisión
+a) Si las líneas eléctricas tienen la 
+dirección norte-sur, entonces, directa-
+mente por debajo de la corriente alter-
+na se produce un campo magnético
+que oscila entre este y oeste. b) Hay
+tres opciones para orientar la espira
+en el Ejemplo conceptual 20.2.
+(continúa en la siguiente página)
+
+662 CAPÍTULO 20 Inducción y ondas electromagnéticas
+Solución. Se listan los datos y se hace la conversión a unidades SI,
+Dado Encuentre: a) (magnitud de la fem
+/H11001en una dirección promedio inducida)
+b) I (magnitud de la
+(en dirección contraria) corrientepromedio 
+inducida)
+N /H11005100 vueltas
+a) El área de la espira circular es Enton-
+ces, el flujo inicial que atraviesa una espira es (véase la ecuación 20.1):
+/vuelta
+Como el flujo final es el negativo de esto, el cambio de flujo a través de una espira es
+Por consiguiente, la fem promedio inducida es (según la ecuación 20.2)
+b) Este voltaje es pequeño, en relación con los que se presentan en la vida cotidiana, pe-
+ro tome en cuenta que también la resistencia de la bobina es pequeña. Para determinar la
+corriente inducida en la bobina, se utiliza la relación entre voltaje, resistencia y corriente:
+Este valor excede la corriente permitida de 25.0 mA para la bocina, por lo que es probable
+que la bobina resulte dañada.
+Ejercicio de refuerzo. En este ejemplo, si se alejaran la bobina del altoparlante y el imán,
+podría llegarse a un punto en el que la corriente promedio estuviera por debajo del nivel
+“peligroso” de 25.0 mA. Calcule la intensidad del campo magnético B
+máx en este punto.
+Como un caso especial, es posible inducir fem y corrientes en conductores confor-
+me éstos se mueven a través de un campo magnético. En esta situación, la fem induci-
+da se llama fem de movimiento. Para ver cómo funciona esto, considere la situación en la
+>figura 20.11a. Conforme la barra se mueve hacia arriba, el área del circuito aumenta
+por ΔA /H11005LΔx (figura 20.11a.) A rapidez constante, la distancia recorrida por la barra en
+un tiempo Δt es Δx /H11005vΔt. Por consiguiente, ΔA /H11005LvΔt. El ángulo ( θ) entre el campo
+magnético y la normal al área siempre es 0°. Pero el área cambia, de manera que el flu-
+jo varía. Sin embargo, se sabe que Φ /H11005BA cos 0° /H11005BA; por eso, podemos escribir ΔΦ /H11005
+BΔA o ΔΦ /H11005BLvΔt. Por consiguiente, a partir de la ley de Faraday, la magnitud de esta
+fem “de movimiento” (inducida), es Ésta es la
+idea fundamental detrás de la generación de energía eléctrica: mover un conductor en
+un campo magnético y convertir el trabajo realizado en energía eléctrica. Para conocer
+más detalles al respecto, considere el siguiente Ejemplo integrado.
+Ejemplo integrado 20.4 ■ La esencia de la generación de energía
+eléctrica: conversión de trabajo 
+mecánico en corriente eléctrica
+Considere la situación de la figura 20.11a. Una fuerza externa efectúa trabajo cuando la barra
+móvil se mueve hacia arriba, y este trabajo se convierte en energía eléctrica. Como el “circui-
+to” (conductores, resistor y barra) está dentro de un campo magnético, el flujo que lo atravie-
+sa cambia con el tiempo induciendo una corriente. a) ¿Cuál es la dirección de la corriente
+inducida en el resistor? 1) de 1 a 2 o 2) de 2 a 1. b) Si la barra mide 20 cm de longitud y se mue-
+ve con una rapidez constante de 10 cm/s, ¿cuál será la corriente inducida si el valor de la re-
+sistencia es de 5.0 Ω y el circuito se encuentra en un campo magnético uniforme de 0.25 T?
+a) Razonamiento conceptual. Como se observa en la figura 20.11a, el flujo magnético se
+dirige hacia la izquierda y se incrementa. Según la ley de Lenz, el campo que se origina
+por la corriente inducida debe dirigirse hacia la derecha. Al aplicar la regla de la mano de-
+recha para la corriente inducida se ve que ésta va de 1 a 2 (figura 20.11b), así que la res-
+puesta correcta es la 1.
+BLv.=BLv¢t>¢t=ƒ¢£ ƒ>¢t=ƒeƒe,
+I = e
+R = 6.79 * 10-2 V
+1.00 Æ = 6.79 * 10-2 A = 67.9 mA
+e = N 
+ƒ¢£ ƒ
+¢t =1100 vueltas2¢
+5.66 * 10-6 T # m2>vuelta
+8.33 * 10-3 s
+≤ = 6.79 * 10-2 V
+¢ £=£ f -£ i =- £ i -£ i =- 2£i =- 5.66 * 10-6 T # m2>vuelta
+£i = Bi
+ A cos u =11.00 * 10-3 T212.83 * 10-3 m2>vuelta21cos 0°2 = 2.83 * 10-6 T# m2
+2.83 * 10-3 m2.=p13.00 * 10-2 m22=A =pr2
+ Imáx = 25.0 mA = 2.50 * 10-2 A
+ r = 3.00 cm = 3.00 * 10-2 m
+ R = 1.00 Æ
+ ¢t = 1>120 s = 8.33 * 10-3 s
+ Bf =- 1.00 mT =- 1.00 * 10-3 T
+e Bi =+ 1.00 mT =+ 1.00 * 10-3 T
+Campo B
+oscilante
+Bobina de 
+altoparlante en 
+una laptop
+Electroimán de CA
+▲ FIGURA 20.10 ¿Riesgo para los
+instrumentos? La bobina de un 
+sistema de altoparlante en una 
+computadora se coloca cerca de un
+electroimán con corriente alterna. El
+flujo variable en la bobina produce
+una fem inducida y, en consecuen-
+cia, una corriente inducida que de-
+pende de la resistencia de la bobina.
+Véase el ejemplo 20.3.
+Δx = v Δt
+ΔA
+Campo
+externo
+uniforme B L
+R
+2
+1
+Campo B
+inducido
+R
+2
+1
+ a)
+ b)
+I inducida
+v
+v
+▲ FIGURA 20.11 Fem de movimien-
+to a) Cuando se tira de la varilla me-
+tálica en el marco metálico, el área
+del circuito rectangular varía en el
+tiempo. Se induce en el circuito una
+corriente como resultado del flujo
+que cambia. b) Para contrarrestar el
+aumento de flujo hacia la izquierda,
+una corriente inducida debe crear un
+campo magnético hacia la derecha.
+Véase el Ejemplo integrado 20.4.
+
+20.2 Generadores eléctricos y contra fem 663
+b) Razonamiento cuantitativo y solución. El cambio de flujo se debe a un cambio de área
+conforme la barra se mueve hacia arriba. El análisis para fem de movimiento se expuso en
+la página anterior. Por último, una vez que se encuentra la fem de movimiento, es posible
+calcular la corriente utilizando la ley de Ohm.
+Se listan los datos y se hace la conversión a unidades SI:
+Dado: Encuentre: la corriente inducida en el resistor
+En la página anterior, se demostró que la magnitud de la fem inducida se determina
+mediante BLv, de forma que numéricamente se tiene:
+Por lo tanto, la corriente inducida es
+Es evidente que este arreglo no es una forma práctica de generar grandes cantidades de ener-
+gía eléctrica. Aquí, la potencia disipada en el resistor es apenas 5.0 /H1100310–6 W. (Verifique esto.)
+Ejercicio de refuerzo. En este ejemplo, si se aumentara tres veces el campo magnético y el
+ancho de la barra fuera de 45 cm, ¿cuál debería ser la rapidez de esta última para generar
+una corriente inducida de 0.1 A?
+20.2 Generadores eléctricos y contra fem
+OBJETIVOS: a) Comprender el funcionamiento de los generadores eléctricos y 
+calcular la fem producida por un generador de ca y b) explicar el origen
+de la contra fem y su efecto sobre el comportamiento de los motores.
+Un método para inducir una fem en una espira es cambiando la orientación de esta úl-
+tima en su campo magnético (figura 20.4). Éste es el principio operativo detrás de los
+generadores eléctricos.
+Generadores eléctricos
+Un generador eléctrico es un aparato que convierte la energía mecánica en energía eléc-
+trica. En esencia, la función de un generador es contraria a la de un motor.
+Una batería suministra corriente directa (cd). Esto es, la polaridad del voltaje (y la
+dirección de la corriente) no cambia. Sin embargo, la mayoría de los generadores produ-
+cen corriente alterna (ca), que se llama así porque la polaridad del voltaje (y la dirección
+de la corriente) cambia de forma periódica. Así, la energía eléctrica que se usa en los ho-
+gares y en la industria se entrega en forma de voltaje y corriente alternos. 
+Un generador de ca se conoce también como alternador. En la 
+Nfigura 20.12 se ilus-
+tran los elementos de un generador sencillo de ca. Una espira de alambre, llamada arma-
+dura, se hace girar mecánicamente dentro de un campo magnético, con propulsión
+externa, por ejemplo, mediante vapor o una corriente de agua que pasa por los álabes de
+una turbina. Por su parte, la rotación de los álabes provoca la rotación de la espira. Esto
+hace que cambie el flujo magnético que atraviesa la espira, y en esta última se induce una
+fem. Los extremos de la espira se conectan a un circuito externo mediante anillos rozan-
+tes y escobillas. En este caso, las corrientes inducidas se incorporarán a ese circuito. En la
+práctica, los generadores tienen muchas espiras, o devanados, en sus armaduras.
+Cuando la espira se hace girar con una rapidez angular ( w) constante, el ángulo
+(
+θ) que forman los vectores del campo magnético y del área de la espira cambia con el
+tiempo: θ /H11005wt (suponiendo que θ /H110050° cuando t /H110050). Resulta entonces que la cantidad
+de líneas de campo que pasan por la espira cambia con el tiempo, causando una fem
+inducida. De acuerdo con la ecuación 20.1, el flujo (para una espira) varía como sigue:
+A partir de esto, se observan que la fem inducida también varía en función del tiempo.
+Para una bobina giratoria de n espiras, la ley de Faraday es
+e =- N 
+¢£
+¢t =- NBAa
+¢1cos vt2
+¢t b
+£= BA cos u = BA cos vt
+I = e
+R = 5.0 * 10-3 V
+5.0 Æ = 1.0 * 10-3 A
+ƒ eƒ = BLv =10.25 T210.20 m210.10 m>s2 = 5.0 * 10-3 V
+e
+ R = 5.0 Æ
+ v = 10 cm>s = 0.10 m>s
+ L = 20 cm = 0.20 m
+ B = 0.25 T
+Anillos rozantes
+Escobillas
+Un ciclo
+Voltaje
+Voltaje de ca
+S
+Tiempo
+N
+ a)
+ b)
+Voltímetro de ca
+B
+▲ FIGURA 20.12 Un generador
+sencillo de ca a) La rotación de
+una espira de alambre en un campo
+magnético produce b) una salida de
+voltaje cuya polaridad se invierte
+cada medio ciclo. Este voltaje alterno
+se recoge mediante anillos rozantes
+y escobillas, como se ilustra.
+
+664 CAPÍTULO 20 Inducción y ondas electromagnéticas
+En esta ecuación se han separado B y A de la variación con el tiempo, porque son cons-
+tantes. Aplicando métodos que están más allá de los objetivos de este libro, es posible
+demostrar que la fem inducida se expresa como sigue:
+Observe que el producto de los términos NBAw representa la magnitud de la fem má-
+xima, que se presenta siempre que sen wt /H11005±1. Si se sustituye NBAw por el valor
+máximo de la fem, entonces la ecuación anterior se puede replantear de una forma más
+compacta
+(20.4)
+Como el valor de la función seno varía entre ±1, la polaridad de la fem cambia al
+paso del tiempo (Nfigura 20.13). Observe que la fem tiene su valor máximo cuando
+θ /H1100590° o cuando θ /H11005270°. Esto es, en los instantes en que el plano de la espira es pa-
+ralelo al campo y el flujo magnético es cero, la fem alcanzará su valor máximo (en mag-
+eo
+e = eo sen vt
+eo ,
+e =1NBAv2 sen vt
+20.1 LA INDUCCIÓN ELECTROMAGNÉTICA EN EL
+TRABAJO: LINTERNAS Y ANTITERRORISMO
+En nuestra vida diaria, utilizamos la inducción electromagnéti-
+ca de muchas formas, sin ser conscientes de ello en la mayor
+parte de los casos. Un invento reciente es la linterna que funcio-
+na sin baterías (figura 1a). Al agitar la linterna, un fuerte imán
+permanente en su interior oscila a través de las bobinas, indu-
+ciendo una fem y una corriente oscilatorias. Para cargar el con-
+densador, la corriente alterna debe rectificarse en una corriente
+directa y no cambiar de dirección. Un esquema de este tipo de
+linternas se presenta en la figura 1b. Aquí, un circuito rectifica-
+dor de estado sólido (símbolo triangular) actúa como una “vál-
+vula de corriente en un sentido”. En este diagrama, sólo la
+corriente directa que tiene el sentido de las manecillas del reloj
+llega al condensador para cargarlo. Después de aproximada-
+mente un minuto, el condensador se carga por completo. Cuan-
+do el interruptor S se enciende, el condensador se descarga a
+través de un eficiente diodo emisor de luz (LED, por sus siglas en
+inglés). El haz de luz resultante dura varios minutos antes de
+que la linterna deba volverse a agitar. Este dispositivo podría,
+por lo menos, desempeñar un papel importante como respaldo
+de las linternas tradicionales que necesitan baterías.
+En los sistemas de seguridad de los aeropuertos, la inducción
+se utiliza para evitar que alguien introduzca en las aeronaves ob-
+jetos metálicos peligrosos (como cuchillos y armas). Cuando un
+pasajero camina por debajo del arco de un detector de metales en
+un aeropuerto (véase la figura 2), una serie de largas corrientes
+“punzantes” llega con cierta periodicidad a una bobina (solenoi-
+de) en uno de los lados no magnetizados. En el sistema más co-
+mún, llamado IP (inducción pulsada), estas corrientes se registran
+cientos de veces por segundo. Cuando la corriente se eleva y de-
+cae, se crea un campo magnético variable en el pasajero. Si este 
+último no lleva consigo objetos metálicos, no habrá corriente in-
+ducida significativa, ni tampoco campo magnético inducido. Sin
+embargo, si el pasajero porta algún objeto metálico, se inducirá
+una corriente en ese objeto, lo que, a la vez, producirá su propio
+campo magnético (inducido) que podrá ser registrado por la bo-
+bina de emisión, esto es, se producirá un “eco magnético”. Dispo-
+sitivos electrónicos complejos miden el eco de la fem inducida y
+activan una luz de advertencia para indicar que es necesaria una
+inspección más minuciosa del pasajero.
+A FONDO
++++ +++
+––– –––
+CoilImán
+oscilatorio
+Rectificador
+Corriente alterna
+inducida
+I I
+S
+C
+r
+Corriente directa
+LED
+a)
+b)
+FIGURA 1 Una linterna sin baterías a) Una fotografía de un
+tipo relativamente nuevo de linterna, que emite luz utilizando
+la energía eléctrica que se genera al agitarla (inducción). b) Un
+esquema de la linterna mostrada en el inciso a). Cuando se agi-
+ta la linterna, su imán permanente interno pasa a través de una
+bobina, induciendo una corriente. Esta última cambia su direc-
+ción (¿por qué?) y, por lo tanto, necesita convertirse (o “rectifi-
+carse”) en cd antes de que pueda cargar un condensador. Una
+vez que el condensador está cargado por completo, es capaz de
+generar una corriente a través de un diodo emisor de luz (
+LED),
+que, a la vez, emite luz durante varios minutos.
+FIGURA 2 Inspección 
+en los aeropuertos Cuando
+los pasajeros caminan por
+debajo del arco, se someten
+a una serie de pulsos de
+campo magnético. Si llevan
+consigo algún objeto metá-
+lico, las corrientes induci-
+das en ese objeto crean su
+propio “eco” de campo
+magnético que, al ser detec-
+tado, da aviso a los inspec-
+tores de que es necesaria
+una revisión más minuciosa
+del pasajero.
+
+20.2 Generadores eléctricos y contra fem 665
+nitud). El cambio de flujo es máximo en esos ángulos, porque aunque el flujo sea cero mo-
+mentáneamente, cambia con rapidez ante un cambio de signo. Cerca de los ángulos que
+producen el valor máximo del flujo (θ /H110050° o θ /H11005180°), ese flujo permanece aproximada-
+mente constante y, por consiguiente, la fem inducida es cero en esos ángulos.
+La dirección de la corriente producida por esta fem alterna inducida también cam-
+bia de forma periódica. En las aplicaciones cotidianas es común referirse a la frecuen-
+cia ( ƒ) de la armadura [en hertz (Hz) o rotaciones por segundo] y no la frecuencia
+angular (w). Como se relacionan mediante la ecuación w /H110052
+/H9266ƒ, la ecuación 20.4 se re-
+formula como
+fem del alternador (20.5)
+La frecuencia de la ca en Estados Unidos y en la mayor parte del hemisferio occidental
+es de 60 Hz. En Europa y en otros lugares lo común son 50 Hz.
+Tome en cuenta que las ecuaciones 20.4 y 20.5 definen el valor instantáneo de la fem,
+y que varía entre y durante la mitad de un periodo rotacional de la armadu-
+ra (en Estados Unidos, 1/120 de segundo). En la práctica, para los circuitos eléctricos,
+son más importantes los valores promedio de voltaje y corriente de la ca, respecto al
+tiempo. Este concepto se desarrollará en el capítulo 21. Para ver cómo influyen los diver-
+sos factores sobre la salida de un generador, examinaremos con detalle el siguiente ejem-
+plo. Además, véase la sección A fondo 20.2 de la p. 666, para conocer cómo es que la
+inducción electromagnética participa en un pasatiempo interesante y cómo contribuye a
+generar la energía eléctrica que necesitan los automóviles híbridos para brindar un siste-
+ma de transporte más eficiente desde el punto de vista del consumo de combustible.
+Ejemplo 20.5 ■ Un generador de ca: energía eléctrica renovable
+Un agricultor decide usar una caída de agua para construir una pequeña planta hidroe-
+léctrica. Fabrica una bobina de alambre con 1500 vueltas, cada una de 20 cm de radio, que
+giran sobre la armadura del generador, a 60 Hz, dentro de un campo magnético. Para ob-
+tener un voltaje efectivo (rms) de 120 V , debe generar una fem máxima de 170 V (aprende-
+remos más acerca de los voltajes de ca en el capítulo 21). ¿Cuál es la magnitud del campo
+magnético en el generador que se necesita para que esto ocurra?
+Razonamiento. Se puede calcular el campo magnético con la ecuación de
+Solución.
+Dado: Encuentre: la magnitud del campo magnético (B)
+N = 1500 vueltas
+La fem máxima (o pico) del generador se determina con Como w = 2πƒ y, pa-
+ra un círculo, A = πr2, esta ecuación se transforma en 
+De aquí se despeja B y se obtiene
+Ejercicio de refuerzo. En este ejemplo, suponga que el agricultor desea generar una fem
+con un valor rms de 240 V , para lo cual se requiere una fem máxima de 340 V . Si lo hiciera
+cambiando el tamaño de las espiras, ¿cuál tendría que ser el nuevo radio?
+B = e
+o
+2p2
+ Nr2
+ f = 170 V
+2p2
+ 11500210.20 m22160 Hz2 = 2.4 * 10-3 T
+eo = NB1pr2212pf2 = 2p2
+ NBr2f
+eo = NBAv.
+ f = 60 Hz
+ r = 20 cm = 0.20 m
+ eo = 170 V
+eo .
+-eo+eoe
+e = eo sen12pft2
++   o
+–   o
+90° 180° 270° 360°0°
+B
+/H5105
+/H5105
+Vista lateral de la espira
+(serie secuencial de la rotación de la espira)
+> FIGURA 20.13 La salida de un
+generador de ca Gráfica de la 
+salida senoidal de un generador,
+junto con una vista lateral de las
+orientaciones correspondientes de
+la espira durante un ciclo; se ve la
+variación del flujo en el tiempo. 
+La fem es máxima cuando el flujo
+cambia con más rapidez, conforme
+pasa por cero y cambia de signo.
+Ilustración 29.3 Generador eléctrico
+
+20.2 INDUCCIÓN ELECTROMAGNÉTICA EN ACCIÓN:
+PASATIEMPOS Y TRANSPORTACIÓN
+La inducción electromagnética
+desempeña un papel importante
+en nuestras actividades de ocio 
+y en la transportación. Algunas
+personas emplean detectores de
+metales para encontrar “tesoros
+enterrados” de metal. Un diseño
+común consiste en dos bobinas
+de alambre en el extremo de un eje que se utiliza para hacer un
+barrido justo por encima del suelo (véase la figura 1). En el extre-
+mo por el que se sostiene el aparato, existen piezas electrónicas
+que permiten desplegar la información acerca de los artículos en-
+contrados. La bobina externa, o transmisora, contiene una corrien-
+te oscilatoria de varios miles de hertz, que crea un campo
+magnético en constante cambio en el terreno que hay debajo. (Por
+lo general, es capaz de penetrar una distancia de un pie por deba-
+jo de la superficie, dependiendo del tipo de suelo y de sus condi-
+ciones.) Si no hay objetos metálicos dentro de su campo
+oscilatorio, no se inducirán corrientes significativas. Por consi-
+guiente, la bobina interna, o receptora, no detectará el “eco” de un
+campo magnético inducido. Sin embargo, si se encuentra un obje-
+to metálico, la corriente inducida en él generará un eco (campo)
+magnético que la bobina receptora detectará como una fem y 
+una corriente inducidas. Por medio de un avanzado software de
+computadora para evaluar la intensidad de la señal inducida, po-
+drá estimarse la profundidad y composición química del objeto.
+Por otra parte, el precio a la alza de la gasolina ha hecho que
+muchos conductores opten por los automóviles híbridos, que fun-
+cionan con gasolinay electricidad, y cuyo motor es mucho más pe-
+queño que el de los auto convencionales. Además, para ayudar
+al impulso, por lo menos parte del trabajo del motor híbrido
+consiste en suministrar energía eléctrica (a través de la induc-
+ción en un generador) a las baterías y a un motor eléctrico, el
+cual, por su parte, suministrará potencia a las ruedas. Así, es po-
+sible obtener más trabajo a partir de un galón de gasolina.
+Un esquema de un automóvil híbrido típico se presenta en la
+figura 2a. En la actualidad, existen dos tipos de diseño de automó-
+viles híbridos: en paralelo y en serie. En la configuración híbrida en
+paralelo (figura 2b), el motor de gasolina está conectado a las rue-
+das por medio de una transmisión estándar. Sin embargo, tam-
+bién se convierte en un generador que, a través de la inducción,
+crea y suministra energía eléctrica para cargar las baterías y/o 
+para operar el motor eléctrico. El motor eléctrico está conectado a
+las ruedas a través de su propio sistema de transmisión, de ahí el
+nombre de híbrido en paralelo, pues el motor de gasolina y el eléctri-
+co trabajan juntos, es decir, en paralelo. Los modelos híbridos por
+completoson capaces de mover el automóvil ya sea con uno de los
+dos motores por sí solo (para un ahorro máximo de combustible,
+por ejemplo, mientras se transita por una autopista con rapidez
+constante) o con ambos al mismo tiempo (cuando se requiere de
+mayor potencia, por ejemplo, al acelerar en una autopista).
+De manera alternativa, los motores pueden conectarse en
+serie; se trata entonces de automóviles híbridos en serie. En este
+caso, el motor eléctrico es lo que en realidad da potencia a las
+ruedas (figura 2c). El trabajo del motor de gasolina consiste en
+suministrar energía eléctrica (a través de la inducción en su ge-
+nerador) a las baterías y al motor eléctrico. Si las baterías están
+cargadas por completo y el motor funciona adecuadamente, el
+motor de gasolina podrá reducir su actividad o incluso apagar-
+se. Con aceleraciones frecuentes, cuando se requiere una salida
+de elevada potencia por parte del motor eléctrico, las baterías se
+agotarán rápidamente. En estas condiciones, el sistema electró-
+nico de potencia hace que el motor de gasolina comience a ge-
+nerar energía eléctrica para recargar las baterías.
+Los automóviles híbridos, a diferencia de los vehículos eléc-
+tricos por completo, nunca tienen que “enchufarse”, pues obtie-
+nen toda su energía de la combustión de gasolina. Sin embargo,
+son mucho más eficientes y, por consiguiente, mucho menos 
+contaminantes que los automóviles convencionales. Algunos
+modelos recientes emplean motores híbridos que son capaces de
+dar mayor potencia que sus contrapartes que funcionan sólo con
+gasolina. Por estas razones, es probable que los motores híbridos
+sean la elección de muchos conductores en el futuro cercano.
+A FONDO
+666 CAPÍTULO 20 Inducción y ondas electromagnéticas
+FIGURA 1 Un detector de 
+metales de dos bobinas En 
+esta fotografía se distinguen las
+dos bobinas: la transmisora 
+(exterior, de mayor tamaño) y 
+la receptora (interna y más 
+pequeña).
+Motor de 
+combustión 
+interna
+Transmisión y 
+embrague automatizado
+Transmisión 
+y embrague 
+automatizado
+Transmisión final
+Transmisión final
+Motor eléctrico
+Sistema electrónico de potencia integrado Batería Tanque de combustible
+Gasolina
+Tanque de
+combustible
+Gasolina
+Motor
+Motor
+Generador
+Generador
+Transmisión
+Transmisión
+Transmisión
+Baterías 
+Baterías
+Motor 
+eléctrico
+Motor
+eléctrico
+ a)
+ b)
+ c)
+FIGURA 2 Automóviles híbridos a) Corte esquemático de un vehículo híbrido moderno. b) Diagrama de los sistemas
+principales de un híbrido en paralelo. c) Diagrama de los sistemas principales de un híbrido en serie.
+
+20.2 Generadores eléctricos y contra fem 667
+En la mayor parte de los generadores de ca en gran escala (las plantas o centrales
+eléctricas), en realidad la armadura es estacionaria y los imanes giran en torno a ella. El
+campo magnético giratorio produce un flujo, variable en el tiempo, a través de las bobi-
+nas de la armadura, y por consiguiente producen ca. Una turbina suministra la energía
+mecánica necesaria para hacer girar los imanes en el generador (
+▲figura 20.14a). Por lo
+general, las turbinas se mueven con el vapor que se produce a partir de la combustión
+de combustibles fósiles, o con el calor generado en procesos de fisión nuclear; aunque
+existen otras que son impulsadas por caídas de agua (hidroelectricidad), como se ve en la
+figura 20.14b. Así, la diferencia básica entre los diversos tipos de centrales eléctricas es
+la fuente de la energía que hace girar a las turbinas.
+Contra fem
+Aunque su tarea principal es convertir la energía eléctrica en energía mecánica, los moto-
+res también generan fem de forma simultánea. Al igual que un generador, un motor tiene
+una armadura giratoria dentro de un campo magnético. En este caso, la fem inducida se
+llama fuerza contraelectromotriz(o contra fem) porque su dirección es opuesta a la
+del voltaje en la línea, y tiende a reducir la corriente en las bobinas de la armadura.
+Si V es el voltaje en la línea, entonces el voltaje neto que impulsa al motor es me-
+nor que V (porque el voltaje en la línea y la fuerza contraelectromotriz tienen polari-
+dad opuesta). El voltaje neto es entonces V
+neto = Si la armadura de un motor
+tiene una resistencia interna de R, la corriente que extrae el motor mientras está en
+operación es I = Vneto/R = o, despejando para la contra fem,
+(contra fem en un motor) (20.6)
+donde V es el voltaje en la línea.
+La contra fem en un motor depende de la rapidez de rotación de su armadura, y se
+incrementa desde cero hasta algún valor máximo conforme la armadura pasa del repo-
+so hasta su rapidez normal de funcionamiento. En el arranque, la contra fem es cero
+(¿por qué?), de manera que la corriente de arranque es máxima (ecuación 20.6, donde
+). Por lo regular, un motor hace mover algo; esto es, tiene una carga mecánica.
+Sin carga, la rapidez de la armadura aumenta hasta que la contra fem casi es igual al
+voltaje de la línea. El resultado es que pasa una corriente pequeña en las bobinas, justo
+la suficiente para vencer la fricción y las pérdidas por calentamiento de joule. En las
+condiciones normales con carga, la contra fem es menor que el voltaje en la línea.
+Cuanto mayor sea la carga, más despacio girará el motor y menor será la contra fem. Si
+un motor está sobrecargado y gira muy despacio, la contra fem se reduce tanto que la
+corriente se hace muy grande (porque V
+neto aumenta conforme disminuye) y puede
+quemar las bobinas. Así, la contra fem desempeña un papel vital en la regulación del
+funcionamiento del motor, limitando la corriente que pasa por él.
+De forma esquemática, una contra fem en un circuito de motor de cd se represen-
+ta como una “batería inducida” cuya polaridad es opuesta a la del voltaje impulsor
+(
+Nfigura 20.15). Para ver cómo es que la contra fem determina la corriente que pasa por
+un motor, veamos el siguiente ejemplo.
+eb
+eb = 0
+eb = V - IR
+1V - eb2> R
+V - eb .
+eb ,
+ a)  b)
+> FIGURA 20.14 Generación
+eléctrica a) Turbinas como las que 
+se ven aquí generan energía eléctrica
+en cantidades mucho mayores que 
+la planta hidroeléctrica de la
+fotografía inicial de este capítulo b) La
+energía potencial gravitacional del
+agua, almacenada detrás de la cortina
+de la presa Glen Canyon en el Río
+Colorado, en Arizona, se convierte en
+energía eléctrica.
+I
+R = 8.0 Ω
+Fuente 
+impulsora
+Devanados de la armadura
+V = 120 V b = 100 V
++– –+
+/H5105
+Representación de la 
+contra fem inducida 
+en los devanados de 
+la armadura como 
+una batería
+▲ FIGURA 20.15 Contra fem La
+contra fem en la armadura de un
+motor de cd se puede representar
+como una batería de polaridad
+opuesta a la de la fuente impulsora.
+
+668 CAPÍTULO 20 Inducción y ondas electromagnéticas
+Ejemplo 20.6 ■ Aceleración: contra fem en un motor de cd
+Se fabrica un motor de cd con devanados de 8.00 Ω de resistencia y que funciona con 
+120 V de voltaje de línea. Con una carga normal se produce una contra fem de 100 V ,
+cuando el motor alcanza toda su rapidez (véase la figura 20.15). Determine a) la corriente
+que extrae el motor en el arranque y b) la corriente que pasa por la armadura a la rapidez
+de funcionamiento con una carga normal.
+Razonamiento. a) La única diferencia entre el arranque y la rapidez de funcionamiento es
+que en el primer caso no hay contra fem. El voltaje neto y la resistencia determinan la co-
+rriente que pasa, por lo que se aplica la ecuación 20.6. b) A la rapidez de funcionamiento,
+aumenta la contra fem y tiene polaridad opuesta a la del voltaje de la línea. De nuevo, se
+utiliza la ecuación 20.6 para calcular la corriente.
+Solución. Como siempre, se listan los datos:
+Dado: Encuentre: a) Is (corriente en el arranque)
+b) I (corriente de funcionamiento)
+a) De acuerdo con la ecuación 20.6, la corriente en los devanados es
+b) Cuando el motor gira a su rapidez de funcionamiento, la contra fem es de 100 V; por
+lo tanto, la corriente es menor.
+Cuando hay escasa o ninguna contra fem, la corriente de arranque es relativamente gran-
+de. Cuando arranca un motor de grandes dimensiones, como el de una unidad central de
+acondicionamiento de aire en un edificio, las luces en éste disminuyen de forma momentá-
+nea, a causa de la gran corriente de arranque que extrae el motor. En algunos diseños, tem-
+poralmente se conectan resistores en serie con la bobina de un motor, para proteger los
+devanados y evitar que se quemen como resultado de las grandes corrientes de arranque.
+Ejercicio de refuerzo. En este ejemplo, a) ¿cuánta energía se necesita para llevar al motor
+a su rapidez de funcionamiento, si para ello se tarda 10 s y la contra fem promedio es de
+50 V durante ese tiempo? b) Compare esta cantidad con la cantidad de energía necesaria
+para mantener en movimiento al motor durante 10 s, una vez que llega a sus condiciones
+de funcionamiento.
+Como los motores, son lo contrario de los generadores, y en los primeros se desarrolla
+una contra fem, quizá piense si en un generador también se desarrolla una contra fem. La
+respuesta es sí. Cuando un generador en funcionamiento no está conectado con un circui-
+to externo, no existe corriente y no hay fuerza magnética sobre las bobinas de la armadu-
+ra. Sin embargo, cuando el generador entrega energía a un circuito externo y sí hay
+corriente en las bobinas, la fuerza magnética en las bobinas de la armadura produce un
+momento de torsión contrario, que se opone a la rotación de la armadura. Conforme pasa
+más corriente, aumenta el momento de torsión contrario y se necesita más fuerza impulso-
+ra para hacer girar la armadura. Por consiguiente, cuanto mayor sea la corriente que sale
+del generador, mayor será la energía gastada para vencer el momento de torsión contrario.
+20.3 Transformadores y transmisión de energía
+OBJETIVOS: a) Explicar el funcionamiento de un transformador en términos de la ley 
+de Faraday, b) calcular la salida de los transformadores de subida y de
+bajada y c) comprender la importancia de los transformadores en los
+sistemas de distribución eléctrica.
+La energía eléctrica se transmite a grandes distancias por líneas de transmisión. Es prefe-
+rible reducir al mínimo las pérdidas I2R (calentamiento de joule) en ellas. Como la resis-
+tencia de una línea es fija, la reducción de las pérdidas I2R equivale a reducir la corriente.
+Sin embargo, la potencia que sale de un transformador está determinada por las salidas
+de corriente y voltaje (P /H11005IV), y cuando el voltaje es fijo, por ejemplo, de 120 V , una re-
+ducción en la corriente equivaldría a menor salida de potencia. Parecería que no hay for-
+ma de reducir la corriente y, al mismo tiempo, mantener el valor de la potencia. Con
+inducción electromagnética es posible reducir las pérdidas aumentando el voltaje y, al
+mismo tiempo, reduciendo la corriente que pasa por ellas, de tal forma que la potenciasu-
+ministrada no cambie. Esto se logra con un dispositivo llamado transformador.
+I = V - eb
+R = 120 V - 100 V
+8.00 Æ = 2.50 A
+Is = V
+R = 120 V
+8.00 Æ = 15.0 A
+ eb = 100 V
+ V = 120 V
+ R = 8.00 Æ
+
+20.3 Transformadores y transmisión de energía 669
+Un transformador sencillo consiste en dos bobinas de alambre aislado devanadas en
+el mismo núcleo de hierro (Nfigura 20.16a). Cuando se aplica un voltaje de ca a la bobina
+de entrada, o bobina primaria (también llamada devanado primario o simplemente prima-
+rio), la corriente alterna produce un flujo magnético alterno que se concentra en el núcleo
+de hierro, sin que haya fugas significativas. Así, en esas condiciones, el mismo flujo cam-
+biante pasa también por la bobina de salida, o bobina secundaria (también llamadadevana-
+do secundario o simplemente secundario), induciendo en ésta un voltaje y una corriente
+alternos. (Note que en el diseño de transformadores se acostumbra llamar “voltajes” a
+las fem, como se hizo en el capítulo 18. También aquí usaremos este lenguaje.)
+La razón entre el voltaje inducido en la bobina secundaria y el voltaje que en la bo-
+bina primaria depende de la relación entre las cantidades de vueltas en una y otra. Se-
+gún la ley de Faraday, el voltaje inducido en la bobina secundaria es
+donde N
+s es la cantidad de vueltas en la bobina secundaria. El flujo variable en la bobi-
+na primaria produce una contra fem de
+donde Np es la cantidad de vueltas en la bobina primaria. Si no se tiene en cuenta la re-
+sistencia de esta última, la contra fem tiene una magnitud igual a la del voltaje externo
+aplicado a la bobina primaria (¿por qué?). Entonces, si se determina la razón entre el
+voltaje de salida (secundario) y el voltaje de entrada (primario) se obtiene
+o
+(razón de voltaje en un transformador) (20.7)
+Si se supone que el transformador tiene un 100% de eficiencia, es decir, que no se
+pierde energía en él, entonces la potencia que entra es igual a la potencia que sale. Co-
+mo P /H11005IV, entonces
+(20.8)
+Aunque siempre se pierde algo de energía, esta ecuación es una buena aproximación,
+ya que un transformador bien diseñado puede tener una eficiencia mayor del 95%.
+(Más adelante describiremos las causas de las pérdidas de energía.) En este caso ideal
+y de acuerdo con la ecuación 20.8, las corrientes y los voltajes en el transformador son
+función de la relación de vueltas, lo que se expresa como
+(20.9)
+Para resumir la acción del transformador en función de las salidas de voltaje y de
+corriente, tenemos que
+(20.10a)
+e
+(20.10b)
+Si el devanado secundario tiene más vueltas que el primario (es decir, si Ns/Np > 1), 
+como en la figura 20.16a, el voltaje “sube”, ya que Vs > Vp. Este diseño se llama trans-
+formador de subida. Advierta que a causa de esto, hay menos corriente en el devanado se-
+cundario que en el primario (Np/Ns < 1 e Is < Ip).
+Si el devanado secundario tiene menos vueltas que el primario, se tiene un transfor-
+mador de bajada (figura 20.16b). En el lenguaje de los transformadores, esto significa que
+el voltaje “baja” y, por consiguiente, la corriente aumenta. Dependiendo de los detalles
+del diseño, se puede usar un transformador de subida como transformador de bajada si
+se invierten las conexiones de entrada y de salida.
+Is = ¢
+Np
+Ns
+≤Ip
+Vs = ¢ Ns
+Np
+≤Vp
+Ip
+Is
+= Vs
+Vp
+= Ns
+Np
+Ip
+ Vp = Is
+ Vs
+Vs
+Vp
+= Ns
+Np
+Vs
+Vp
+=
+-Ns1¢£>¢t2
+-Np1¢£>¢t2
+-Np 
+¢£
+¢t ,=Vp
+-Ns 
+¢£
+¢t ,=Vs
+Fuente 
+de ca
+a) Transformador de 
+     subida: salida de alto 
+     voltaje (baja corriente)  
+Núcleo de hierro
+Fuente 
+de ca
+Bobina 
+primaria
+Bobina 
+secundaria
+b) Transformador de 
+     bajada: salida de bajo
+     voltaje (alta corriente)
+Bobina 
+primaria
+Bobina 
+secundaria
+▲ FIGURA 20.16 Transformadores
+a) Un transformador de subida tiene
+más vueltas en la bobina secundaria
+que en la primaria. b) Un transfor-
+mador de bajada tiene más vueltas
+en la bobina primaria que en la 
+secundaria.
+(relación ideal entre voltajes y
+corrientes en un transformador)
+
+670 CAPÍTULO 20 Inducción y ondas electromagnéticas
+Ejemplo 20.7 ■ Orientación de un transformador: 
+¿configuración de subida o de bajada?
+Un transformador ideal de 600 W tiene 50 vueltas en su devanado primario y 100 vueltas
+en el secundario. a) ¿Este transformador es un arreglo 1) de subida o 2) de bajada? b) Si se
+conecta una fuente de 120 V al devanado primario, ¿cuáles son el voltaje y la corriente de
+salida de este transformador?
+a) Razonamiento conceptual.Los términos de subida o de bajada se refieren a lo que le su-
+cede al voltaje, no a la corriente. Como el voltaje es proporcional al número de vueltas, en
+este caso, el voltaje secundario es mayor que el voltaje primario. Por lo tanto, la respuesta
+correcta es la 1, un transformador de subida.
+b) Razonamiento cuantitativo y solución.El voltaje de salida se determina con la ecuación
+20.10a, una vez que se ha establecido la relación de vueltas. A partir de la potencia, es po-
+sible determinar la corriente.
+Dado: Encuentre: Vs e Is (voltaje y corriente secundarios)
+Para calcular el voltaje secundario, se emplea la ecuación 20.10a con la relación de vuel-
+tas igual a 2, ya que Ns = 2Np:
+Si el transformador es ideal, entonces la potencia de entrada es igual a la potencia de sa-
+lida. En el lado primario, la potencia de entrada es Pp /H11005IpVp /H11005600 W, de manera que la
+corriente de entrada debe ser
+Como el voltaje aumenta por un factor de 2, la corriente de salida debería disminuir por
+un factor de 2. A partir de la ecuación 20.10b,
+Ejercicio de refuerzo. a) Cuando una turista europea visita Estados Unidos (los voltajes
+promedio de ca son de 240 V en Europa), ¿qué clase de transformador le permitiría usar
+su secadora de cabello adecuadamente? Explique su respuesta. b) Para un secadora de ca-
+bello de 1500 W (se supone que es óhmica), ¿cuál debería ser la corriente de entrada del
+transformador en Estados Unidos, suponiendo que sea ideal?
+Las relaciones anteriores se aplican en forma estricta sólo a transformadores ideales
+(o “sin pérdidas”); en realidad los transformadores tienen pérdidas de energía. Aunque
+los transformadores bien diseñados suelen tener pérdidas internas de energía menores
+del 5%, no existe un transformador ideal. Hay muchos factores que determinan qué tanto
+se acerca el funcionamiento de un transformador real al de uno ideal.
+Primero: hay pérdidas de flujo; esto es, no todo el flujo pasa a través de la bobina se-
+cundaria. En algunos diseños de transformador, una de las bobinas aisladas se devana di-
+rectamente sobre la otra, en vez de tener dos bobinas separadas. Esa configuración
+contribuye a reducir al mínimo la pérdida de flujo reduce el tamaño del transformador.
+Segundo: la corriente alterna en la bobina primaria significa que hay un flujo mag-
+nético variable que atraviesa las espiras. Esto origina una fem inducida en la bobina pri-
+maria. Según la ley de Lenz, la fem autoinducida se opone al cambio de la corriente y
+limita la corriente primaria (éste es un efecto similar al de una contra fem en un motor).
+Tercero: los transformadores distan de ser ideales porque tienen calentamiento de
+joule (pérdidas I
+2R) por la resistencia de los alambres. Esta pérdida es pequeña, pues
+los alambres tienen poca resistencia.
+Por último, considere el efecto de la inducción en el material del núcleo. Para in-
+crementar el flujo magnético, el núcleo se fabrica con un material altamente permeable
+(como el hierro), pero este tipo de materiales también se caracterizan por ser buenos
+conductores. El flujo magnético variable en el núcleo induce fuerzas electromotrices,
+que, a la vez, crean corrientes parásitas o corrientes de Foucault en el material del núcleo.
+Después, esas corrientes parásitas podrían causar pérdida de energía entre la bobina
+primaria y secundaria al calentar al núcleo (de nuevo, pérdidas I
+2R).
+Is = ¢
+Np
+Ns
+≤Ip = a 1
+2b15.00 A2 = 2.50 A
+Ip = 600 W
+Vp
+= 600 W
+120 V = 5.00 A
+Vs = ¢
+Ns
+Np
+≤ Vp =1221120 V2 = 240 V
+ Vp = 120 V
+ Ns = 100
+ Np = 50
+
+20.3 Transformadores y transmisión de energía 671
+Para reducir la pérdida de energía a causa de las corrientes parásitas, los núcleos
+de los transformadores se fabrican con láminas delgadas de material (por lo general
+hierro), con un pegamento aislante entre ellas. Las capas aislantes entre las láminas in-
+terrumpen las corrientes parásitas, o las confinan a las láminas, lo que reduce conside-
+rablemente la pérdida de energía.
+Se pueden demostrar los efectos de las corrientes parásitas dejando oscilar una
+placa de material conductor, pero no magnético, como el aluminio, dentro de un cam-
+po magnético (
+▲figura 20.17a). Conforme la placa entra o sale del campo, se desarro-
+llan corrientes parásitas inducidas porque el flujo magnético a través de esta área
+cambia. De acuerdo con la ley de Lenz, las corrientes parásitas se inducen en una direc-
+ción tal que se opone al cambio de flujo.
+Cuando la placa entra al campo (la posición izquierda de la placa en la figura
+20.17a), se induce una corriente en sentido contrario al de las manecillas del reloj.
+(Aplique la ley de Lenz para corroborar este efecto.) La corriente inducida produce su
+propio campo magnético, lo que significa que, en efecto, la placa tiene un polo norte
+magnético cerca del polo norte del imán permanente, y un polo sur magnético cerca
+del polo sur del imán permanente (figura 20.17b). El efecto de la fuerza neta es desa-
+celerar la placa al entrar al campo. Las corrientes parásitas de la placa invierten su di-
+rección conforme ésta sale del campo, produciendo fuerzas netas magnéticas de atrac-
+ción, por lo que hay una tendencia a frenar la salida de la placa. En ambos casos, las
+fuerzas electromotrices inducidas tratan de desacelerar el movimiento de la placa.
+La reducción de las corrientes parásitas (parecida a lo que sucede en los transfor-
+madores con placas laminadas) se puede demostrar con una placa con rendijas (figura
+20.17c). Cuando esa placa oscila entre los polos del imán, lo hace con relativa libertad,
+porque las corrientes parásitas tienden a reducirse mucho a causa de los huecos (las
+rendijas). Así, también se reduce la fuerza magnética sobre la placa.
+Se ha aplicado el efecto amortiguador de las corrientes parásitas en sistemas de
+frenado de tranvías rápidos. Cuando un electroimán (que está en el carro) se pone a
+funcionar, aplica un campo magnético a un riel. La fuerza de repulsión que producen
+las corrientes parásitas inducidas en el riel actúa como fuerza de frenado (
+▼figura
+20.18). Conforme el carro frena, las corrientes parásitas en el riel disminuyen y permi-
+ten que la acción del frenado sea gradual.
+Transmisión de electricidad y transformadores
+Para transmitir electricidad a grandes distancias, los transformadores ofrecen un me-
+dio de aumentar el voltaje y disminuir la corriente de un generador eléctrico, para así
+reducir las pérdidas por calentamiento de joule (I
+2R) en los cables que llevan la corrien-
+te. En la ▼figura 20.19 se ve un esquema de un sistema de distribución eléctrica. La
+energía se transmite a grandes distancias hasta una subestación de área cerca de los
+consumidores. Ahí se baja el voltaje. Hay más bajadas de voltaje en las subestaciones
+S
+Pivote
+ a)
+I
+I
+N
+S
+ c)
+Pivote
+N
+ b)
+FN–N
+FS–S
+S
+S
+N
+N
+F
+F
+F
+B
+B
+v
+v
+v
+/H11002
+Carro de un tren subterráneo
+SS
+NN
+v
+F F
+> FIGURA 20.18 Frenado electromagnético y transporte masivo
+Para frenar, un tren energiza un electroimán que lleva a bordo. Este
+electroimán va montado sobre un riel metálico largo. Las corrientes 
+inducidas en el riel producen una fuerza de repulsión mutua entre el
+riel y el tren, desacelerando así este último.
+▲ FIGURA 20.17 Corrientes parási-
+tas a) Las corrientes parásitas se
+inducen en una placa conductora
+no magnética que se mueve en un
+campo magnético. Las corrientes 
+inducidas se oponen al cambio de
+flujo, y se desarrolla una fuerza 
+de retardo que se opone al movi-
+miento, primero dentro del campo
+y luego fuera. Para constatar esto,
+note que las corrientes invierten su
+dirección conforme la placa sale del
+campo. b) Una vista superior 
+cuando la placa se acerca oscilando
+al campo desde la izquierda. La
+fuerza de retardo (para frenar 
+la entrada al campo) es el resultado
+de las dos fuerzas de repulsión
+( y ), que actúan como polos
+magnéticos. El lado de la placa más
+cercano al polo norte del imán 
+permanente funciona como polo
+norte, y el otro lado como polo sur.
+c) Si la placa tiene ranuras, se 
+reducen de forma drástica las 
+corrientes parásitas y, por 
+consiguiente, las fuerzas magnéticas,
+de manera que la placa oscilará con
+mayor libertad.
+F
+S
+S–SF
+S
+N–N
+F
+S
+
+672 CAPÍTULO 20 Inducción y ondas electromagnéticas
+de distribución y los postes eléctricos antes de que la electricidad llegue a los hogares
+y las empresas con el voltaje y la corriente adecuados.
+En el siguiente ejemplo se ilustran las ventajas de poder aumentar el voltaje (y dis-
+minuir la corriente) en la transmisión de energía eléctrica.
+Ejemplo 20.8 ■ Disminución de las pérdidas: transmisión de energía
+eléctrica a alto voltaje
+Una pequeña central hidroeléctrica produce energía en forma de una corriente de 10 A y un
+voltaje de 440 V . El voltaje se sube a 4400 V (con un transformador ideal) para llevar la ener-
+gía en 40 km de línea eléctrica, cuya resistencia total es 20 Ω. a) ¿Qué porcentaje de la energía
+original se perdería si no se aumentara el voltaje? b) ¿Qué porcentaje de la energía original
+se pierde en realidad al aumentar el voltaje?
+Razonamiento. a) La salida de potencia se calcula con P /H11005IV, y se compara con la que se
+pierde en el conductor, P /H11005I2R. b) Las ecuaciones 20.10a y 20.10b deben usarse para deter-
+minar el voltaje aumentado y la corriente disminuida, respectivamente. A continuación se
+repite el cálculo y se comparan los resultados con los del inciso a.
+Solución.
+Dado: Encuentre: a) Porcentaje de pérdida de energía 
+sin aumentar el voltaje
+b) Porcentaje de pérdida de energía
+aumentando el voltaje
+a) La potencia producida por el generador es
+La rapidez de pérdida de energía (joules por segundo, o watts) al transmitir una corrien-
+te de 10 A es muy alta, porque
+Así, el porcentaje de la energía producida que se pierde en forma de calentamiento de jou-
+le en los conductores es cercano al 50%, ya que
+b) Al aumentar el voltaje a 4400 V , esto permite transmitir una corriente que se reduce
+por un factor de 10 con respecto a su valor en el inciso a. Entonces, se tiene
+La potencia se reduce, entonces, por un factor de 100, ya que varía en forma proporcional
+al cuadrado de la corriente:
+Ppérdida /H11005I2R /H11005(1.0 A)2(20 Ω) /H1100520 W
+Por consiguiente, la potencia perdida también se reduce por un factor de 100, a un nivel
+mucho más aceptable:
+Ejercicio de refuerzo.Algunos electrodomésticos de uso rudo, como las bombas de agua, se
+pueden conectar a 240 o a 120 V . Su potencia nominal es la misma, independientemente del
+voltaje con que trabajen. a) Explique la ventaja que se obtiene en eficiencia cuando esos elec-
+trodomésticos funcionan al voltaje mayor. b) Para una bomba de 1.00 hp (746 W), estime la
+razón entre la potencia perdida en los conductores a 240 V y la que se pierde a 120 V (supo-
+niendo que todas las resistencias son óhmicas y que los cables de conexión son los mismos).
+20.4 Ondas electromagnéticas
+OBJETIVOS: a) Explicar la naturaleza física, el origen y la forma de propagación de
+las ondas electromagnéticas y b) describir algunas de las propieda-
+des y usos de diversas clases de ondas electromagnéticas.
+En la sección 11.4 se consideró que las ondas electromagnéticas (o la radiación electromag-
+nética) constituyen un medio de transmisión de calor. Ahora ya se está en condiciones de
+comprender la producción y las características de la radiación electromagnética, pues
+esas ondas se pueden describir en términos de campos eléctricos y magnéticos.
+% de pérdida =
+Ppérdida
+P * 100% = 20 W
+4400 W
+* 100% = 0.45%
+Is = ¢
+Vp
+Vs
+≤Ip = a 440 V
+4400 Vb110 A2 = 1.0 A
+% de pérdida =
+Ppérdida
+P * 100% = 2000 W
+4400 W
+* 100% = 45%
+Ppérdida = I2
+ R =110 A22120 Æ2 = 2000 W
+P = Ip
+ Vp =110 A21440 V2 = 4400 W
+ R = 20 Æ
+ Vs = 4400 V
+ Vp = 440 V
+ Ip = 10 A
+Generador
+Bajada
+Usuario
+230000 V
+Subida
+Estación
+Bajada
+Bajada
+Subestación 
+de área
+100000 V
+20 000 V
+Subestación 
+de distribución
+120–240 V
+24000 V
+▲ FIGURA 20.19 Transmisión de
+electricidad Diagrama de un 
+sistema típico de distribución 
+eléctrica.
+Ilustración 31.3 Transformadores
+
+20.4 Ondas electromagnéticas 673
+lOscilador
+Antena
+Campo eléctrico
+Campo magnéticoo
+ a)  b)
+c
+c
+c
+c
+E
+B
+▼ FIGURA 20.20 Origen de las ondas
+electromagnéticasLas ondas electro-
+magnéticas se producen, fundamen-
+talmente, al acelerar cargas eléctricas.
+a) Aquí, las cargas (electrones) en una
+antena metálica se mueven mediante
+una fuente de voltaje oscilante. 
+Conforme la polaridad de la antena y
+la dirección de la corriente cambian
+de forma periódica, los campos 
+eléctrico y magnético alternos se 
+propagan alejándose. Estos campos
+son perpendiculares a la dirección 
+de la propagación de la onda. Por 
+consiguiente, las ondas electromagné-
+ticas son ondas transversales. b) A
+grandes distancias de la fuente, los
+frentes de onda curvos se vuelven 
+casi planos.
+El físico escocés James Clerk Maxwell (1831-1879) fue el primero en unificarlos fenó-
+menos eléctricos y magnéticos. Utilizando matemáticas complejas, tomó las ecuaciones
+que rigen cada uno de estos campos y predijo la existencia de ondas electromagnéticas.
+De hecho, fue aún más lejos y calculó su rapidez en el vacío, y sus predicciones concorda-
+ron con los experimentos. Como un reconocimiento a estas contribuciones, al conjunto de
+ecuaciones se le llama ecuaciones de Maxwell, aunque en su mayor parte esas ecuaciones
+las dedujeron otros científicos (por ejemplo, la ley de Faraday de la inducción).
+En esencia, en las ecuaciones de Maxwell se combinan el campo eléctrico y el campo
+magnético para formar un solo campo electromagnético. Los campos que aparentemen-
+te están separados se relacionan de forma simétrica de tal manera que cualquiera de
+ellos puede crear al otro, en las condiciones adecuadas. Esta simetría es evidente en las
+ecuaciones (que no se muestra en este libro). Por ahora, basta con una descripción cuali-
+tativa:
+Un campo magnético variable en el tiempo produce un campo eléctrico varia-
+ble en el tiempo.
+Un campo eléctrico variable en el tiempo produce un campo magnético varia-
+ble en el tiempo.
+El primer enunciado resume nuestras observaciones en la sección 20.1: un flujo mag-
+nético que cambia origina una fem inducida, que, a la vez, produce una corriente. La
+segunda afirmación (que no estudiaremos en detalle) es básica para comprender las
+características de autopropagación de las ondas electromagnéticas. Juntos, los dos fe-
+nómenos permiten que esas ondas se propaguen por el vacío, mientras que todas las
+demás ondas requieren un medio que las soporte.
+Según la teoría de Maxwell, al acelerar las cargas eléctricas —como un electrón en
+oscilación—, se producen ondas electromagnéticas. El electrón en cuestión podría, por
+ejemplo, ser uno de los muchos electrones de la antena metálica de un radiotransmisor,
+impulsados por un oscilador (voltaje) eléctrico a una frecuencia de 10
+6 Hz (1 MHz). Al
+oscilar cada electrón, se acelera y desacelera de forma continua, por lo que irradia una
+onda electromagnética (
+▼figura 20.20a). Las oscilaciones continuas de muchos electro-
+nes producen campos eléctricos y magnéticos variables en el tiempo, en la cercanía in-
+mediata de la antena. El campo eléctrico que se ve en la figura 20.20a está en el plano de
+la página y cambia continuamente de dirección, al igual que el campo magnético (que
+se ve en gris claro, y que entra y sale de la página).
+Los campos eléctrico y magnético transportan energía y se propagan alejándose
+con la rapidez de la luz. Esta rapidez se representa con la letra c y, con tres cifras signi-
+ficativas, es c /H110053.00 /H1100510
+8 m/s. Los resultados de Maxwell demuestran que a grandes
+distancias de la fuente, esas ondas se vuelven planas. (La figura 20.20b muestra una
+onda en un momento determinado en el tiempo.) En este caso, el campo eléctrico 
+es perpendicular al campo magnético y ambos varían en forma senoidal con respec-
+to al tiempo. Tanto como son perpendiculares a la dirección de propagación de la
+onda. Por consiguiente, las ondas electromagnéticas son ondas transversales, en las que
+los campos oscilan en dirección perpendicular a la dirección de propagación. De acuer-
+do con la teoría de Maxwell, cuando cambia un campo crea al otro. Este proceso se re-
+pite una y otra vez, y origina la onda electromagnética viajera a la que llamamos luz.
+Un resultado importante de todo esto es el siguiente:
+En el vacío, todas las ondas electromagnéticas, independientemente de su frecuen-
+cia o de su longitud de onda, viajan con la misma rapidez, 
+c = 3.00 * 108 m>s.
+B
+S
+E
+S 1B
+S
+2,
+1E
+S
+2
+Ilustración 32.1 Creación de ondas
+electromagnéticas
+
+674 CAPÍTULO 20 Inducción y ondas electromagnéticas
+Como las distancias en la vida diaria son muy cortas, normalmente se ignora el re-
+traso del tiempo que se debe al recorrido de la luz. Sin embargo, en los viajes interpla-
+netarios, este retraso ocasiona problemas. Veamos el siguiente ejemplo.
+Ejemplo 20.9 ■ Control a larga distancia: la rapidez de las ondas
+electromagnéticas en el vacío
+Las sondas espaciales Viking llegaron a Marte en 1976 y enviaron a la Tierra señales de ra-
+dio y televisión (ambas ondas electromagnéticas). ¿Qué tanto más tardó una señal en lle-
+gar a su destino cuando Marte estaba más alejado de la Tierra, que cuando estaba más
+cerca? Las distancias promedio de Marte y la Tierra con respecto al Sol son de 229 millo-
+nes de km (d
+M) y 150 millones de km (dE), respectivamente. Suponga que ambos planetas
+tienen órbitas circulares y considere las distancias promedio como radios de círculos.
+Razonamiento. Este caso requiere un cálculo de distancia en función del tiempo. Los pla-
+netas están más alejados cuando están en los lados opuestos del Sol y, en consecuencia, 
+están separados por una distancia d
+M /H11001dE. (En este caso las señales deberían atravesar el
+Sol, lo cual naturalmente no es posible. Sin embargo, sirve para determinar el límite supe-
+rior de los tiempos de transmisión.) Los planetas están más cerca cuando están alineados
+en el mismo lado del Sol; en este caso, su separación es igual a d
+M /H11002dE. (Dibuje un diagra-
+ma que lo ayude a visualizar esta configuración.) Como se conoce la rapidez de las ondas
+electromagnéticas en el vacío, es posible calcular los tiempos con la fórmula t /H11005d/c.
+Solución. Se listan los datos y se hace la conversión de las distancias a metros,
+Dado: Encuentre: (la diferencia de tiempos 
+que tarda la luz en recorrer
+las distancias más larga y 
+más corta)
+Las ondas de radio y televisión viajan con la rapidez c. Así, el tiempo de recorrido más
+largo tL es
+Para la distancia más corta, el tiempo de recorrido ts es
+Entonces, la diferencia de tiempos es (o 16.7 min).
+Ejercicio de refuerzo. Suponga que un vehículo explorador en Marte (véase el ejemplo
+2.1, p. 34) se dirige hacia una roca a 2.0 m delante de él. Cuando está a esa distancia, envía
+una foto de la roca a los controladores en la Tierra. Si Marte está en su punto más cercano
+a la Tierra, ¿cuál es la rapidez máxima que puede tener el vehículo de exploración para
+evitar el choque contra la roca? Suponga que la señal de video del vehículo explorador
+llega a la Tierra, y que de inmediato se le manda una señal para que se detenga.
+Presión de la radiación
+Una onda electromagnética porta energía. En consecuencia, puede efectuar trabajo y
+ejercer una fuerza sobre algún material con el que choque. Imaginemos la luz que cae
+sobre un electrón en reposo sobre una superficie (>figura 20.21). El campo eléctrico de
+la onda electromagnética ejerce una fuerza sobre el electrón, comunicándole una velo-
+cidad hacia abajo, como se indica en la figura. Como una partícula cargada que se
+mueve en un campo magnético está sometida a una fuerza, sobre el electrón hay una
+fuerza magnética que se debe al componente del campo magnético de la onda lumino-
+sa. De acuerdo con la regla de la mano derecha, esta fuerza tiene la dirección de propa-
+gación de la onda (figura 20.21a). Como la onda electromagnética produce la misma
+fuerza sobre muchos electrones, ejerce una fuerza sobre la superficie como un todo, en
+la dirección en la que se propaga.
+La fuerza de radiación que se ejerce sobre una superficie se llama presión de ra-
+diación. Esta presión es insignificante en la mayor parte de las situaciones cotidianas,
+pero es importante en los fenómenos atmosféricos y astronómicos, al igual que en la fí-
+1v
+S
+2
+1.00 * 103 s=tL - ts=¢t
+tS = dM - dE
+c = 7.90 * 1010 m
+3.00 * 108 m>s
+= 2.63 * 102 s 1o 4.39 min2
+tL = dM + dE
+c = 3.79 * 1011 m
+3.00 * 108 m>s
+= 1.26 * 103 s 1o 21.1 min2
+ dE = 150 * 106 km = 1.50 * 1011 m
+¢t dM = 229 * 106 km = 2.29 * 1011 m
+y
+x
+e –
+z
+E
+B
+v F
+▲ FIGURA 20.21 La presión de 
+radiación El campo eléctrico 
+de una onda electromagnética que 
+choca con una superficie actúa 
+sobre un electrón y le comunica una
+velocidad. El campo magnético 
+ejerce entonces una fuerza sobre la
+carga en movimiento, en la dirección
+de propagación de la luz incidente.
+(Verifique esta dirección usando la
+regla de la mano derecha para 
+fuerzas magnéticas.)
+
+20.4 Ondas electromagnéticas 675
+sica atómica y nuclear, donde las masas son pequeñas y no hay fricción. Por ejemplo, la
+presión de radiación desempeña un papel clave en la determinación de la dirección en
+la que apuntan las colas de los cometas. La luz solar entrega energía a la “cabeza” del
+cometa, formada por hielo y polvo. Parte de este material se evapora cuando el come-
+ta se acerca al Sol, y la presión de radiación empuja los gases evaporados haciendo que
+se alejen del Sol. Así, la cola en general apunta alejándose del Sol, sin importar si el co-
+meta se acerca o se aleja de este astro.
+Otro uso potencial de la presión de la radiación solar es la propulsión de satélites
+“veleros” interplanetarios, que se alejan del Sol en una órbita en espiral que se amplía
+lentamente, hasta llegar a los planetas exteriores (
+Nfigura 20.22a). Para generar la fuer-
+za suficiente y usar la presión extremadamente baja de la luz solar, las velas deberían
+tener una superficie muy grande, y el satélite debería tener tan poca masa como fuera
+posible. La recompensa es que no se necesitaría combustible (a excepción de cantida-
+des pequeñas para corregir el curso), una vez lanzado el satélite. Examine el siguiente
+Ejemplo conceptual, acerca de la presión de radiación y los viajes espaciales.
+Ejemplo conceptual 20.10 ■ Velero en el espacio: la presión 
+de radiación en acción
+Considere el diseño de un vehículo espacial relativamente ligero, con una “vela” gigantes-
+ca, que serviría como sonda interplanetaria. Con poca o nada de energía propia, usaría la
+presión de la luz solar para impulsarse y llegar a los planetas exteriores. Para obtener la má-
+xima fuerza de propulsión, ¿qué clase de superficie debería tener la vela? a) Brillante y re-
+flectora, b) oscura y absorbente o c) no importarían las características de la superficie.
+Razonamiento y respuesta. A primera vista, se podría pensar que la respuesta correcta es
+c. Sin embargo, como hemos visto, la radiación es capaz de ejercer fuerzas y transfiere can-
+tidad de movimiento a todo aquel objeto con el que choca. Así, la interacción entre la ra-
+diación y la vela se describe en términos de la conservación de la cantidad de
+movimiento, como se ve en la figura 20.22b. (Véase la sección 6.3.) Si se absorbe la radia-
+ción, la situación es análoga a la de un choque totalmente inelástico (como cuando choca
+una bola de plastilina contra una puerta), y la vela adquiriría toda la cantidad de movi-
+miento que poseía originalmente la radiación.
+Sin embargo, si la radiación se refleja, el caso es análogo al de un choque totalmente
+elástico, como el de una bola que rebota en un muro (véase la sección 6.1). Como la canti-
+dad de movimiento de la radiación después del choque sería igual en magnitud a su can-
+tidad de movimiento inicial, pero con sentido contrario, esa cantidad de movimiento se 
+invertiría (de a ). Para conservar la cantidad de movimiento, la cantidad de movimien-
+to transferida a la vela brillante sería el doble que con la vela oscura. Como la fuerza es
+igual a la rapidez de cambio de la cantidad de movimiento, las velas reflectoras tendrían, 
+en promedio, el doble de fuerza que las absorbentes. Así que la respuesta correcta es a.
+Ejercicio de refuerzo. a) En este ejemplo, ¿la vela daría más o menos aceleración confor-
+me la nave se aleja del Sol? b) Explique cómo un cambio en el área de la vela podría con-
+trarrestar este cambio.
+Clases de ondas electromagnéticas
+Las ondas electromagnéticas se clasifican en regiones en un espectro de frecuencias o
+longitudes de onda. Recuerde que en el capítulo 13 se explicó que la frecuencia y la lon-
+gitud de onda tienen una relación inversa mediante la relación en la que la ra-
+pidez general de la onda v se sustituyó por la rapidez de la luz c. Cuanto mayor sea la
+frecuencia, menor será la longitud de onda, y viceversa. El espectro electromagnético es
+continuo, por lo que los límites de las diversas regiones son aproximados (
+▼figura
+20.23). La tabla 20.1 (siguiente página) muestra estas regiones de frecuencia y longitud
+de onda para los tipos generales de ondas electromagnéticas.
+Ondas de potencia Las ondas electromagnéticas de 60 Hz de frecuencia se producen
+por las corrientes alternas en los circuitos eléctricos. Estas ondas de potencia tienen
+una longitud de onda de 5.0 /H1100510
+6 m o 5000 km (más de 3000 mi). Las ondas de fre-
+cuencias tan bajas tienen pocos usos prácticos. A veces producen el llamado murmullo
+de 60 Hz en los equipos estereofónicos, o son los causantes de ruidos eléctricos no de-
+seados en los instrumentos delicados. Preocupan más los posibles efectos de estas on-
+das sobre la salud. Algunos de los primeros estudios parecían indicar que los campos
+l = c>f,
+12p
+S
+2
+-p
+S
+p
+S
+1p
+S
+2
+∴Δp = p
+∴Δp = 2p
+pi = p y pf = 0
+T
+S
+2F
+Vela oscura
+Vela brillante
+pf = – p
+pi = p
+ a)
+ b)
+F
+F
+F
+F
+F
+▲ FIGURA 20.22 “Velero” en el 
+sistema solar a) Una sonda 
+espacial lanzada desde la Tierra (T),
+equipada con una gran vela, actuaría
+de acuerdo con la presión de la 
+radiación solar (el Sol se denota por
+S). Esta fuerza gratuita haría que el
+satélite se alejara describiendo una
+espiral. Con la planeación adecuada,
+la nave podría llegar a los planetas
+exteriores con poco o nada de com-
+bustible adicional. Note la reducción
+en la fuerza con la distancia. 
+b) ¿Es mejor que la vela sea oscura 
+o brillante? Véase el Ejemplo con-
+ceptual 20.10 y la conservación 
+de la cantidad de movimiento.
+
+676 CAPÍTULO 20 Inducción y ondas electromagnéticas
+con muy baja frecuencia tienen efectos biológicos potencialmente dañinos sobre célu-
+las y tejidos. Sin embargo, investigaciones recientes indican que esto no es verdad.
+Ondas de radio y televisión Estas ondas están, en general, en el intervalo compren-
+dido entre 500 kHz y 1000 MHz. La banda de amplitud modulada (AM) va de 530 a
+1710 kHz (1.71 MHz). Las frecuencias mayores, hasta 54 MHz, se utilizan en las bandas
+de “onda corta”. Las bandas de TV van de 54 a 890 MHz. La banda de radio de frecuen-
+cia modulada (FM) va de 88 a 108 MHz, que está en un hueco entre los canales 6 y 7 de
+la región de las bandas de televisión. Los teléfonos celulares emplean ondas de radio
+para transmitir comunicación de voz en la banda de frecuencia ultra-alta (UHF), cuyas
+frecuencias se parecen a las que se usan en los canales 13 o mayores de la televisión.
+Las primeras comunicaciones internacionales usaban bandas de “onda corta”,
+igual que los operadores de radio aficionados de hoy. Pero, ¿cómo se transmiten las
+ondas de radio, que normalmente describen trayectorias rectas, rodeando la curvatura
+de la Tierra? Esta hazaña se logra con la reflexión en las capas iónicas de la atmósfera
+superior. Las partículas energéticas que proceden del Sol ionizan las moléculas de gas
+y originan varias capas de iones. Algunas de esas capas reflejan las ondas de radio.
+Así, al “hacer rebotar” las ondas de radio en esas capas, es posible transmitir señales
+más allá del horizonte, a cualquier lugar del mundo.
+Esta reflexión de las ondas de radio requiere que las capas de iones tengan densi-
+dad uniforme. Cuando una perturbación solar produce un aguacero de partículas
+energéticas que perturba esta uniformidad, puede presentarse un “oscurecimiento” de
+las comunicaciones, cuando las ondas de radio se dispersan en muchas direcciones en
+lugar de reflejarse en líneas rectas. En el pasado, para evitar esas perturbaciones, las
+104 106 108 1010 1012 1014 1016 1018
+Microondas Luz ultravioleta Rayos gamma
+Luz infrarroja Rayos XOndas de radio y TV
+Rojo Anaranjado Amarillo Verde Azul Violeta
+(4.3 X 1014 Hz)
+600 550 500
+Frecuencia en Hz
+Luz visible
+Longitud de onda en nm (7.5 X 1014 Hz)
+700 400
+N FIGURA 20.23 El espectro elec-
+tromagnético El espectro de 
+frecuencias o longitudes de onda se
+divide en regiones, o intervalos. 
+Observe que la región de la luz 
+visible es una parte muy pequeña
+del espectro electromagnético total.
+Para la luz visible, las longitudes de
+onda se expresan generalmente en
+nanómetros (1 nm /H1100510
+/H110029 m). (Los
+tamaños relativos de las longitudes
+de onda que aparecen en la parte
+superior de la figura no están a 
+escala.) (Véase el pliego a color al 
+final del libro.)
+Clasificación de las ondas electromagnéticas
+Intervalo aproximado Intervalo aproximado de 
+Tipo de onda de frecuencias (Hz) longitudes de onda (m) Algunas fuentes comunes
+Ondas de potencia 60 Corrientes eléctricas
+Ondas de radio AM 570 –186 Circuitos eléctricos/antenas
+Ondas de radio FM 3.4 –2.8 Circuitos eléctricos/antenas
+TV 5.6 –0.34 Circuitos eléctricos/antenas
+Microondas Tubos de vacío especiales
+Radiación infrarroja Cuerpos tibios y calientes, estrellas
+Luz visible El Sol y otras estrellas; lámparas
+Radiación ultravioleta Cuerpos muy calientes, estrellas y 
+lámparas especiales
+Rayos X Choques de electrones a alta rapidez 
+y procesos atómicos
+Rayos gamma Por arriba de Por debajo de Reacciones nucleares y procesos de 
+decaimiento nuclear
+10-121019
+10-10 –10-121017 –1019
+10-7 –10-101014 –1017
+10-714.0 * 10142 –17.0 * 10142
+10-3 –10-71011 –1014
+10-1 –10-3109 –1011
+154 * 1062 –1890 * 1062
+188 * 1062 –1108 * 1062
+10.53 * 1062 –11.7 * 1062
+5.0 * 106
+TABLA 20.1
+
+20.4 Ondas electromagnéticas 677
+comunicaciones internacionales tuvieron que basarse principalmente en cables transo-
+ceánicos. Ahora contamos con satélites de comunicaciones, que permiten transmitir se-
+ñales por la línea de vista a cualquier punto del planeta.
+Microondas Las microondas, con frecuencias del orden de los gigahertz (GHz), se
+generan en tubos especiales de vacío (llamados klistrones y magnetrones). Se usan con
+frecuencia en aplicaciones de comunicaciones y de radar. Además de sus funciones co-
+mo guía en la navegación, el radar es la base de los medidores de rapidez que se usan
+para cronometrar eventos, como los lanzamientos en el béisbol, y para detectar a los
+conductores que infringen los límites de velocidad, todo esto gracias al efecto Doppler
+(véase la sección 14.5). Cuando las ondas de radar se reflejan en un objeto en movi-
+miento, la magnitud y el signo del desplazamiento indican la velocidad del objeto.
+Radiación infrarroja (IR) La región infrarroja del espectro electromagnético está al
+lado del extremo de baja frecuencia, o de larga longitud de onda, del espectro visible.
+Un cuerpo cálido emite radiación IR, que depende de su temperatura. Un cuerpo a la
+temperatura ambiente emite radiación en la región lejana del infrarrojo. (En este caso,
+el término “lejana” se utiliza en relación con la región visible.)
+Recuerde que en la sección 11.4 se explicó que la radiación infrarroja se llama a ve-
+ces “rayos de calor”. Esto se debe a que las moléculas de agua, presentes en la mayor
+parte de los materiales, absorben con facilidad la radiación en la región de longitudes de
+onda infrarroja. Cuando lo hacen aumentan su movimiento térmico aleatorio; se “calien-
+tan” y también calientan su entorno. Las lámparas infrarrojas se usan en aplicaciones te-
+rapéuticas, como para aliviar el dolor de músculos tensos, y para mantener calientes los
+alimentos en los restaurantes. La radiación IR también se asocia con la conservación de
+la temperatura de la Tierra a través del efecto invernadero. En este efecto, la luz visible que
+llega (que pasa con relativa facilidad por la atmósfera) es absorbida por la superficie te-
+rrestre y se vuelve a irradiar en forma de radiación infrarroja, que queda atrapada por
+los gases de invernadero, como el dióxido de carbono y el vapor de agua, que son opa-
+cos a esta radiación. El nombre del efecto proviene de los invernaderos, en donde el vi-
+drio (y no gases atmosféricos) atrapa la energía.
+Luz visible La región de la luz visible ocupa sólo una pequeña parte del espectro elec-
+tromagnético. Su frecuencia va desde aproximadamente 4 /H1100310
+14 Hz hasta casi 7 /H110031014
+Hz. En términos de longitudes de onda, esto equivale al intervalo comprendido entre
+700 y 400 nm (figura 20.23). Recuerde que 1 nanómetro (nm) /H1100510/H110029m. Sólo la radiación
+en esta región de frecuencias es la que activa los receptores del ojo humano. La luz visi-
+ble emitida o reflejada de los objetos que nos rodean brinda información visual acerca
+de nuestro mundo. La luz visible y la óptica se estudiarán en los capítulos 22 al 25.
+Es interesante notar que no todos los animales son sensibles al mismo intervalo de
+longitudes de onda. Por ejemplo, las serpientes pueden detectar la radiación infrarro-
+ja, y el espectro visible de muchos insectos se extiende hasta abarcar el intervalo ultra-
+violeta. El intervalo de sensibilidad del ojo humano se apega bastante al espectro de
+longitudes de onda emitidas por el Sol. La máxima sensibilidad del ojo humano está
+en la misma región del amarillo-verde, donde las emisiones de energía del Sol son má-
+ximas (longitudes de onda de 550 nm).
+Radiación ultravioleta (UV) Aunque el espectro del Sol está formado principalmente
+por luz visible, tiene un componente pequeño de luz ultravioleta (UV), cuyo intervalo
+de frecuencias está más allá del extremo violeta de la región visible. La radiación ultra-
+violeta también se puede producir con lámparas especiales y con cuerpos muy calientes.
+Además de causar el bronceado de la piel, la radiación UV puede causar quemaduras
+y/o cáncer de la piel, si la exposición a ella es demasiado prolongada.
+Al llegar a la Tierra, la mayor parte de la emisión ultravioleta solar se absorbe en
+la capa de ozono (O
+3) de la atmósfera, a una altitud comprendida entre 30 y 50 km. Co-
+mo la capa de ozono desempeña un papel esencial en la protección frente a los rayos
+ultravioleta, hay preocupación acerca de su agotamiento a causa de los gases de cloro-
+fluorocarbonos (como el freón, que alguna vez se usó en los refrigeradores), que se di-
+funden hacia arriba y reaccionan con el ozono.
+La mayor parte de la radiación ultravioleta es absorbida por el vidrio ordinario. En
+consecuencia, no se puede conseguir un buen bronceado a través de vidrieras. En las eti-
+quetas de los anteojos para sol se indica con qué tipo de normas cumplen para proteger a
+los ojos de esta radiación potencialmente peligrosa. También hay ciertas clases de vidrio
+de alta tecnología (vidrio “fotogris”) que se oscurece al exponerse a la radiación UV. Estos
+materiales son la base de los anteojos solares “de transición”, que se oscurecen al exponer-
+se a la luz solar. Naturalmente, esos anteojos no resultan muy útiles cuando alguien con-
+
+678 CAPÍTULO 20 Inducción y ondas electromagnéticas
++
+Rayos X
+Blanco
+Ánodo
+Fuente de 
+alto voltaje
+Cátodo
+Electrones 
+acelerados
+Filamento de 
+calentamiento
+▲ FIGURA 20.24 El tubo de rayos X
+Electrones acelerados por medio 
+de un alto voltaje chocan con un 
+electrodo, que sirve como blanco.
+Allí se desaceleran e interactúan
+con los electrones de los átomos 
+del material con el que chocan. 
+Durante el proceso de “frenado” 
+(desaceleración) se emite energía 
+en forma de rayos X.
+duce un automóvil (¿por qué?). Los soldadores usan gafas o caretas con vidrio especial
+para protegerse los ojos de las grandes cantidades de radiación UV producidas en los ar-
+cos de soldadura. Asimismo, es importante proteger los ojos de las lámparas solares y de
+las superficies cubiertas de nieve. El componente ultravioleta de la luz solar reflejada 
+en las superficies nevadas produce ceguera de nieve en los ojos no protegidos.
+Rayos X Más allá de la región ultravioleta del espectro electromagnético se encuen-
+tra la importante región de rayos X. Estamos familiarizados con los rayos X, principal-
+mente por sus aplicaciones médicas. Fue el físico alemán, Wilhelm Roentgen (1845-
+1923), quien los descubrió en forma accidental, en 1895, al notar la fosforescencia de un
+trozo de papel fluorescente, causada por alguna radiación misteriosa proveniente de
+un tubo de rayos catódicos. Por su naturaleza misteriosa, a esta radiación de se le lla-
+mó radiación x, o rayos X.
+En la 
+>figura 20.24 se ven los elementos básicos de un tubo de rayos X. Un voltaje
+acelerador, normalmente de algunos miles de volts, se aplica entre los electrodos en un
+tubo sellado y al vacío. Los electrones que emite el electrodo negativo caliente (cátodo)
+se aceleran hacia el electrodo positivo (ánodo). Cuando chocan con el ánodo, parte de
+su energía térmica perdida se convierte en rayos X.
+Un proceso similar se efectúa en los cinescopios de televisión a color, que utilizan
+altos voltajes y haces de electrones. Cuando los electrones, que llevan una gran rapi-
+dez, chocan con la pantalla, pueden emitir rayos X al ambiente. Por fortuna, todos los
+televisores modernos tienen el blindaje necesario para proteger a los espectadores con-
+tra esta radiación. En los primeros años de la televisión a color no siempre sucedía así,
+de ahí la frecuente recomendación: “No se siente muy cerca de la pantalla”.
+Como se sabe, la energía que transporta la radiación electromagnética depende de
+su frecuencia. Los rayos X de alta frecuencia tienen energías muy altas, y pueden cau-
+sar cáncer, quemaduras de piel y otros efectos dañinos. Sin embargo, a bajas intensida-
+des se pueden usar con relativa seguridad para ver la estructura interna del cuerpo
+humano y la de otros objetos opacos.* Los rayos X son capaces de atravesar materia-
+les que son opacos a otras clases de radiación. Cuanto más denso es el material, mayor
+es la absorción de rayos X, y menos intensa es la radiación transmitida. Por ejemplo,
+cuando los rayos X atraviesan el cuerpo humano, se absorben o se dispersan mucho
+más en los huesos que en los demás tejidos. Si la radiación transmitida llega a una pla-
+ca o película fotográfica, las áreas expuestas muestran variaciones de intensidad, lo
+que da por resultado una imagen de las estructuras internas.
+La combinación de las computadoras con las modernas máquinas de rayos X permi-
+te formar imágenes tridimensionales mediante una técnica llamada tomografía computari-
+zada o TC (
+▼figura 20.25).
+Rayos gamma Las ondas electromagnéticas de la zona de frecuencias superiores del
+espectro electromagnético conocido se llaman rayos gamma (rayos γ). Esta radiación de
+alta frecuencia se produce en las reacciones nucleares, en los aceleradores de partícu-
+las y también como resultado de algunos tipos de decaimiento o desintegración nu-
+clear (radiactividad).
+ a)  b)
+N FIGURA 20.25 Tomografía 
+computarizada (TC) En una ima-
+gen ordinaria de rayos X, todo el es-
+pesor del cuerpo se proyecta en una 
+película. Sin embargo, con 
+frecuencia, sus estructuras internas
+se traslapan y es difícil distinguir
+los detalles. En la tomografía (del
+griego tomo, que significa “rebanada”
+y grafos, que significa “imagen”)
+computarizada, los haces de rayos
+X pueden obtener imágenes de una
+“rebanada” del organismo. a) La 
+radiación transmitida se registra con
+una serie de detectores, y se procesa
+en una computadora. Con la infor-
+mación de varias rebanadas, la
+computadora forma una imagen 
+tridimensional. También es posible
+mostrar una imagen única para 
+hacer un estudio más minucioso,
+como se ve en el monitor. b) Una
+imagen de TC de un cerebro con un
+tumor benigno.
+*La mayor parte de los científicos de la salud creen que no hay un “umbral” seguro para los rayos
+X u otras radiaciones de energía; esto es, no hay nivel de exposición que esté totalmente a salvo de ries-
+gos. Por otra parte, creen que algunos de los efectos dañinos son acumulativos durante toda la vida. En
+consecuencia, las personas deben evitar radiografías innecesarias u otras exposiciones a la radiación
+“dura”. Sin embargo, cuando se emplean adecuadamente, los rayos X constituyen una herramienta de
+diagnóstico extremadamente útil, capaz de salvar vidas.
+
+Ejercicios 679
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son ejer-
+cicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pares de
+ejercicios, que se identifican con númer
+os subrayados, pretenden ayudar al lector a resolver problemas y aprender.
+El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consultarse si se ne-
+cesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al final del libro.
+20.1 Fem inducida: ley de Faraday y ley de Lenz
+1. OM Una unidad de flujo magnético es a) Wb, b) T • m2, 
+c) T • m/A o d) tanto a como b.
+2. OM El flujo magnético que atraviesa una espira puede al-
+terarse como resultado de un cambio de a) el área de la
+bobina, b) la intensidad del campo magnético, c) la orien-
+tación de la espira o d) todos los anteriores.
+• El flujo magnético ( Φ) es una medida de la cantidad de lí-
+neas magnéticas que atraviesan una área. Para una sola espi-
+ra de alambre de área A, se define como
+(20.1)
+en donde B es la intensidad del campo magnético (se supone
+constante en el área), A es el área y 
+θ es el ángulo que forma la
+dirección del campo magnético con la normal al plano del
+área.
+• La ley de Faraday de la inducción relaciona la fem inducida
+en una espira (o bobina compuesta de N espiras en serie) con
+la rapidez de cambio del flujo magnético a través de esa espi-
+ra (o bobina).
+(20.2)
+donde el cambio de flujo a través de una espira o vuelta, en
+tanto que hay N vueltas.
+• La ley de Lenz establece que cuando un cambio en el flujo
+magnético induce una fem en una bobina, espira o circuito, la
+dirección de la corriente resultante, o inducida, es tal que crea
+su propio campo magnético, que se opone al cambio del flujo.
+N N
+I
+v
+/H11002F F
+Magnitud creciente de B
+N
+I
+v
+¢£
+e =- N 
+¢£
+¢t
+Eje de
+rotación
+B
+A
+£= BA cos u
+• Un generador de ca convierte la energía mecánica en energía
+eléctrica. La fem del generador en función del tiempo es
+(20.4)
+donde es la fem máxima.
+• Un transformador es un dispositivo que cambia el voltaje
+que le llega mediante la inducción. El voltaje aplicado al lado
+de la entrada o primario (p) del transformador cambia al vol-
+taje de salida o secundario (s), según la ecuación
+(20.10a)
+(20.10b)
+• Una onda electromagnética (luz) consiste en campos eléctri-
+cos y magnéticos variables en el tiempo, que se propagan con
+una rapidez constante en el vacío (c = 3.00 /H1100310
+8 m/s). Los di-
+versos tipos de radiación (como los rayos UV, las ondas de ra-
+dio y la luz visible) difieren en frecuencia y longitud de onda.
+l
+c
+E
+B
+Fuente 
+de ca
+Núcleo de hierro
+Bobina 
+primaria
+Bobina 
+secundaria
+Is = ¢
+Np
+Ns
+≤ Ip
+Vs = ¢
+Ns
+Np
+≤ Vp
+S
+N
+B
+Anillos rozantes
+Escobillas
+Voltímetro de ca
+eo
+e = eo sen vt
+Repaso del capítulo
+• La radiación electromagnética transporta energía y cantidad 
+de movimiento, y puede ejercer una fuerza llamada presión de
+radiación.
+
+680 CAPÍTULO 20 Inducción y ondas electromagnéticas
+3. OM Para que aparezca una corriente inducida en una es-
+pira de alambre, a) debe haber un flujo magnético en ella,
+b) el plano de la espira debe ser paralelo al campo mag-
+nético, c) el plano de la espira debe ser perpendicular al
+campo magnético o d) el flujo magnético que pasa por
+ella debe variar en el tiempo.
+4. OM Espiras individuales e idénticas A y B están orienta-
+das de manera que inicialmente tienen la cantidad máxi-
+ma de flujo en un campo magnético. Entonces, la espira
+A se hace girar rápidamente de forma que su normal sea
+perpendicular al campo magnético, y, al mismo tiempo,
+la espira B se hace girar de forma que su normal forme
+un ángulo de 45° con el campo. ¿Cómo se comparan sus
+fuerzas electromotrices inducidas? a) Son iguales, b) la de
+A es mayor que la de B, c) la de B es mayor que la de A o
+d) no es posible conocer las magnitudes relativas de las
+fuerzas electromotrices a partir de los datos.
+5. OM Espiras individuales idénticas A y B están orientadas
+de manera que tienen la cantidad máxima de flujo cuando
+se colocan en un campo magnético. Ambas espiras mantie-
+nen su orientación relativa al campo, pero, en la misma
+cantidad de tiempo, A se mueve a una región donde el
+campo es más intenso, mientras que B se mueve a una re-
+gión donde el campo es más débil. ¿Cómo se comparan sus
+fuerzas electromotrices inducidas? a) Son iguales, b) la de
+A es mayor que la de B, c) la de B es mayor que la de A o d)
+no es posible conocer las magnitudes relativas de las fuer-
+zas electromotrices a partir de los datos.
+6. PC Un imán recto se deja caer a través de una bobina de
+alambre como se ve en la 
+▼figura 20.26. a) Describa lo
+que se observa en el galvanómetro, trazando una gráfica
+de fem inducida en función de t. b) ¿El imán cae libre-
+mente? Explique por qué.
+bre y el otro es de plástico. ¿De cuál tubo saldrá primero
+uno de los imanes? ¿Por qué?
+11. PC Un teléfono básico consiste en una bocina transmisora
+y un receptor (
+▼figura 20.28). Hasta la llegada de los telé-
+fonos digitales en la década de 1990, el transmisor tenía un
+diafragma acoplado a una cámara de carbón (llamada bo-
+tón), con granos de carbón sueltos en su interior. Al vibrar
+el diafragma por las ondas sonoras que le llegaban, varia-
+ba la presión en los granos haciendo que se colocaran más
+o menos estrechamente. El resultado era que cambiaba la
+resistencia del botón. El receptor convertía estos impulsos
+eléctricos en sonido. Aplique los principios de electricidad
+y magnetismo que ha aprendido para explicar el funciona-
+miento básico de esta clase de teléfono.
+Galvanómetro
+0
++–N
+S
+> FIGURA 20.26
+Campo magnético variable 
+en el tiempo ¿Qué medirá 
+el galvanómetro? Véase el 
+ejercicio 6.
+Imanes
+Plástico
+Cobre
+> FIGURA 20.27
+¿Caída libre?
+Véase el ejercicio 10.
+7. PC En la figura 20.1b, ¿cuál sería la dirección de la co-
+rriente inducida en la espira si, en lugar del polo norte, se
+acercara el polo sur del imán?
+8. PC En la figura 20.7a, ¿cómo movería usted la bobina pa-
+ra evitar la inducción de cualquier corriente en ella? Ex-
+plique su respuesta.
+9. PC La fem inducida en una espira cerrada ¿depende del
+valor del campo magnético en la espira? Explique su res-
+puesta.
+10. PC Dos alumnos dejan caer dos poderosos imanes idén-
+ticos, al mismo tiempo, al interior de dos tubos verticales
+de iguales dimensiones (
+▼figura 20.27). Un tubo es de co-
+Entran las
+ondas
+sonoras
+Salen
+ondas
+sonoras
+Granos
+de carbón
+Imán con
+bobinas
+Bocina-
+transmisor
+Diafragma metálico delgado
+Diafra gma
+Receptor
+▲ FIGURA 20.28 Funcionamiento del teléfono Véase 
+el ejercicio 11.
+12. ● Una espira circular con 0.015 m 2 de área está en un
+campo magnético uniforme de 0.30 T. ¿Cuál es el flujo a
+través del plano de la espira, si se encuentra a) paralela al
+campo, b) formando un ángulo de 37° con el campo y 
+c) perpendicular al campo?
+13.
+● Una espira circular (de 20 cm de radio) se coloca dentro
+de un campo magnético uniforme de 0.15 T. ¿Qué ángulo
+(o ángulos) entre la normal al plano de la espira y el cam-
+po dará por resultado un flujo con magnitud de 1.4 /H11003
+10
+/H110022 T · m2?
+14. ● El plano de una espira conductora de 0.020 m2 de área es
+perpendicular a un campo magnético uniforme de 0.30 T.
+Si el campo baja a cero en 0.0045 s, ¿cuál es la magnitud de
+la fem promedio inducida en la espira?
+15.
+● Una espira en forma de triángulo rectángulo, con un
+cateto de 40.0 cm e hipotenusa de 50.0 cm, está en un pla-
+no perpendicular a un campo magnético uniforme de
+550 mT. ¿Cuál es el flujo que la atraviesa?
+16.
+● Una bobina cuadrada de alambre con 10 vueltas está
+en un campo magnético de 0.25 T. El flujo total que pasa
+por ella es de 0.50 T · m
+2. Calcule el área de una vuelta 
+si el campo a) es perpendicular al plano de la bobina y 
+b) forma un ángulo de 60° con el plano de la bobina.
+17. ●● Un solenoide ideal con una corriente de 1.5 A tiene
+3.0 cm de radio, y su densidad de devanado es de 250
+vueltas/m. ¿Cuál es el flujo magnético (que se debe a su
+propio campo) que pasa sólo por el centro de una de sus
+espiras?
+18.
+●● Un campo magnético forma ángulos rectos con el
+plano de una espira de alambre. Si el campo disminuye
+0.20 T en 1.0 /H1100310
+/H110023 s, y la magnitud de la fem promedio
+inducida en la espira es de 80 V , ¿cuál es el área de la es-
+pira?
+
+Ejercicios 681
+19. ●● Una espira cuadrada de alambre tiene lados de 40 cm,
+y está en un campo magnético uniforme perpendicular a
+su área. Si la intensidad inicial del campo es de 100 mT y
+baja a cero en 0.010 s, ¿cuál es la magnitud de la fem pro-
+medio inducida en la espira?
+20.
+●● El flujo magnético que atraviesa una espira de alam-
+bre se reduce de 0.35 a 0.15 Wb en 0.20 s. La corriente in-
+ducida promedio en la bobina es de 10 A. Calcule la
+resistencia del alambre.
+21.
+●● Cuando el flujo magnético que atraviesa una sola es-
+pira de alambre aumenta en 30 T · m2, se produce una co-
+rriente promedio de 40 A en el conductor. Suponiendo
+que la resistencia del alambre es de 2.5 Ω, ¿en cuánto
+tiempo aumentó el flujo?
+22.
+●● En 0.20 s, una bobina de alambre con 50 vueltas desa-
+rrolla una fem inducida promedio de 9.0 V , que se debe a
+un campo magnético variable perpendicular al plano de
+la bobina. El radio de la bobina mide 10 cm, y la intensi-
+dad inicial del campo magnético es de 1.5 T. Suponiendo
+que la intensidad del campo disminuye con el tiempo,
+¿cuál es su intensidad final?
+23. EI
+●● Un hilo de alambre de longitud ajustable se enreda
+alrededor de la circunferencia de un globo esférico. Hay
+un campo magnético uniforme perpendicular al plano
+de la espira (
+▼figura 20.29). a) Si el globo se infla, ¿qué di-
+rección tiene la corriente inducida, viendo de arriba hacia
+abajo? 1) Sentido contrario a las manecillas del reloj, 2) el
+sentido de las manecillas del reloj o 3) no hay corriente
+inducida. b) Si la magnitud del campo magnético es de
+0.15 T y el diámetro de la espira aumenta de 20 a 40 cm
+en 0.040 s, ¿cuál es la magnitud del valor promedio de la
+fem inducida en la espira?
+26.
+●● Un avión metálico de 30 m de envergadura vuela en
+dirección horizontal con una rapidez constante de 320
+km/h, en una región donde el componente vertical del
+campo magnético terrestre es 5.0 /H1100310
+/H110025 T. ¿Cuál es la
+fem inducida por el movimiento, entre las puntas de las
+alas del avión?
+27.
+●● Suponga que la varilla metálica de la figura 20.11 mi-
+de 20 cm de longitud y que se mueve a 10 m/s en un
+campo magnético de 0.30 T, y que el marco metálico está
+cubierto por un material aislante. Calcule a) la magnitud
+de la fem inducida a través de la varilla y b) la corriente
+en la varilla.
+28.
+●●● El flujo que atraviesa una espira de alambre cambia
+de manera uniforme de /H1100140 Wb a /H1100220 Wb en 1.5 ms. 
+a) ¿Cuál es el significado del flujo negativo? b) ¿Cuál es la
+fem promedio inducida en la espira? c) Si se quisiera du-
+plicar la fem promedio inducida cambiando sólo el tiem-
+po, ¿cuál sería el nuevo intervalo de tiempo? d) Si se
+quisiera duplicar la fem promedio inducida cambiando
+sólo el valor del flujo final, ¿cuál sería éste?
+29.
+●●● Una bobina de alambre de 10 vueltas y 0.055 m 2 de
+área se coloca en un campo magnético de 1.8 T, y se orienta
+de tal forma que su área es perpendicular al campo. A con-
+tinuación, la bobina se gira 90° en 0.25 s, y termina con su
+área paralela al campo (
+▼figura 20.31). ¿Cuál es la magni-
+tud de la fem promedio inducida en la bobina?
+N
+d
+> FIGURA 20.29 Energía de
+bombeo Véase el ejercicio 23.
+1.0
+0.2
+Intensidad del campo magnético (T)
+Tiempo (ms)
+2.0
+B
+t
+0.8
+0.6
+0.4
+4.0 6.0 8.0 10 12 14
+▲ FIGURA 20.30 Campo magnético en función del tiempo
+Véase el ejercicio 24.
+B
+▲ FIGURA 20.31 Inclinación de la bobina Véanse 
+los ejercicios 27 y 28.
+24. ●● El campo magnético perpendicular al plano de una es-
+pira de alambre de 0.10 m2 de área cambia al paso del tiem-
+po en la forma que se ve en la Nfigura 20.30. ¿Cuál es la
+magnitud de la fem promedio inducida en la espira para
+cada segmento de la gráfica (por ejemplo, de 0 a 2.0 ms)?
+25. EI
+●● Un niño va en línea recta hacia el norte con rapidez
+constante, cargando una varilla metálica. La varilla está
+orientada en dirección este-oeste, y es paralela al piso. 
+a) No habrá fem inducida cuando la varilla está 1) en el
+ecuador terrestre, 2) cerca de los polos magnéticos de la
+Tierra o 3) entre el ecuador y los polos. ¿Por qué? b) Su-
+ponga que el campo magnético de la Tierra es 1.0 /H1100310
+/H110024
+T cerca del Polo Norte y 1.0 /H1100310/H110025 T cerca del ecuador. Si
+el niño corre con una rapidez de 5.0 m/s en ese lugar, y la
+varilla mide 1.0 m de longitud, calcule la fem inducida en
+la varilla.
+30. EI
+●●● En la figura 20.31, la bobina se gira 180° en el mis-
+mo intervalo de tiempo que el del ejercicio 29. a) ¿Cómo
+se compara la magnitud de la fem promedio con la del
+ejercicio 29, donde la bobina se inclinó sólo 90°? 1) Es ma-
+yor, 2) es igual o 3) es menor. ¿Por qué? b) ¿Cuál es la
+magnitud de la fem promedio en este caso?
+
+682 CAPÍTULO 20 Inducción y ondas electromagnéticas
+0.25 m
+0.20 m0.30 m
+0.25 m
+0.45 m
+B
+▲ FIGURA 20.32 Flujo magnético Véase el ejercicio 31. 
+(El dibujo no está a escala.)
+31. ●●● Un campo magnético uniforme de 0.50 T penetra en
+un bloque con doble pendiente, como el que se ilustra en la
+▼figura 20.32. a) Determine el flujo magnético que atraviesa
+cada superficie inclinada del bloque. b) Determine el flujo 
+a través de la superficie trasera vertical del bloque. c) Deter-
+mine el flujo a través de la superficie plana horizontal del
+bloque. d) ¿Cuál es el flujo total a través de todas las super-
+ficies exteriores? Explique el significado de su respuesta.
+20.2 Generadores eléctricos y contra fem
+32. OM Si no se hace nada más que aumentar el área de la bo-
+bina en un generador de ca, como resultado a) aumentará
+en la frecuencia de rotación, b) disminuirá la fem máxima
+inducida o c) aumentará la fem máxima inducida.
+33. OM La contra fem de un motor depende de a) el voltaje
+de alimentación, b) la corriente de alimentación, c) la ra-
+pidez de giro de la armadura o d) ninguna de las opcio-
+nes anteriores es verdadera.
+34. PC ¿Cuál es la orientación de la espira de armadura en
+un generador simple de ca cuando el valor de a) la fem es
+máximo y b) el flujo magnético es máximo? Explique por
+qué la fem máxima no ocurre cuando el flujo es máximo. 
+35. PC Un alumno tiene una brillante idea para fabricar un
+generador. Para la configuración que se ve en la ▼ figura
+20.33, el imán se jala hacia abajo y se suelta. Con un re-
+sorte muy elástico, el alumno cree que debe haber una
+producción de electricidad relativamente continua. ¿Cuál
+es el error de esta idea?
+S
+N
+▲ FIGURA 20.33 ¿Genio inventor? Véase el ejercicio 35.
+36. PC En un motor de cd, si la armadura se traba, o si gira
+con mucha lentitud cuando la carga es muy grande, las
+bobinas se quemarán con mucha facilidad. ¿Por qué?
+37. PC Si se desea fabricar un generador de ca más compac-
+to reduciendo el área de las bobinas, ¿cómo tendrían que
+compensarse los demás factores para mantener la misma
+salida que antes?
+38.
+● Un generador de ca, que se utiliza en una sala de emer-
+gencia de un hospital, funciona a una frecuencia de giro
+de 60 Hz. Si el voltaje de salida es máximo (en magnitud)
+cuando t /H110050, ¿cuándo estará en su siguiente a) valor má-
+ximo (en magnitud), b) valor cero y c) valor inicial?
+39.
+● Un alumno fabrica un generador sencillo con una sola
+espira cuadrada de 10 cm por lado. A continuación la ha-
+ce girar a 60 Hz de frecuencia, en un campo magnético
+de 0.015 T. a) ¿Cuál es la fem máxima producida? b)
+¿Cuál sería la fem máxima producida si utilizara 10 de
+esas espiras?
+40.
+●● Un generador sencillo de ca consiste en una bobina
+de 10 vueltas (cada vuelta tiene 50 cm2 de área). La bobi-
+na gira en un campo magnético uniforme de 350 mT, con
+60 Hz de frecuencia. a) Escriba una expresión, con la for-
+ma de la ecuación 20.5, para determinar la variación de 
+la fem del generador en función del tiempo. b) Calcule la
+fem máxima.
+41. EI
+●● Una fuente de ca de 60 Hz tiene 120 V de voltaje
+máximo. Un alumno quiere determinar el voltaje a 1/180
+de segundo después de que su valor es cero. a) ¿Cuántos
+voltajes posibles son así? 1) Uno, 2) dos o 3) tres. ¿Por
+qué? b) Calcule todos los voltajes posibles.
+42.
+●● Se debe construir un generador de ca con fem máxi-
+ma de 400 V con espiras de alambre de 0.15 m de radio.
+Funcionará a una frecuencia de 60 Hz, y usará un campo
+magnético de 200 mT. ¿Cuántas espiras se necesitan?
+43.
+●● Un generador de ca funciona a una frecuencia de gi-
+ro de 60 Hz, y su fem máxima es de 100 V . Suponga que
+tiene cero fem al arranque. ¿Cuál es la fem instantánea 
+a) 1/240 s después del arranque y b) 1/120 s después de
+pasar por cero, cuando comienza a invertir su polaridad?
+44.
+●● La armadura de un generador simple de ca tiene 20
+espiras circulares de alambre, cada una de 10 cm de ra-
+dio. Gira con 60 Hz de frecuencia, en un campo magnéti-
+co uniforme de 800 mT. ¿Cuál es la fem máxima inducida
+en las espiras, y con qué frecuencia se llega a este valor?
+45.
+●● La armadura de un generador de ca tiene 100 vueltas,
+cada una de las cuales es una espira rectangular de 8.0
+por 12 cm. El generador tiene una salida senoidal con 
+24 V de amplitud. Si el campo magnético del generador
+es de 250 mT, ¿con qué frecuencia gira la armadura?
+46. EI
+●● a) Para aumentar la salida de un generador de ca,
+un alumno tiene la opción de duplicar el campo magnéti-
+co del generador, o bien, su frecuencia. Para maximizar el
+aumento de la fem de salida, 1) debería duplicar el cam-
+po magnético, 2) debería duplicar la frecuencia o 3) no
+importa cuál de ellos se duplique. Explique por qué. b)
+Dos alumnos muestran sus generadores de ca en una fe-
+ria científica. El generador que fabricó el alumno A tiene
+100 cm
+2 de área de espiras, y gira en un campo magnéti-
+co de 20 mT a 60 Hz. El que fabricó el alumno B tiene 75
+cm
+2 de área de espira, y gira en un campo magnético de
+200 mT a 120 Hz. ¿Cuál de los dos genera la mayor fem
+máxima? Justifique matemáticamente la respuesta.
+
+Ejercicios 683
+47. EI ●● Un motor tiene 2.50 Ω de resistencia y se conecta a
+una línea de 110 V . a) La corriente de funcionamiento del
+motor es 1) mayor que 44 A, 2) 44 A o 3) menor que 
+44 A. ¿Por qué? b) Si la contra fem del motor es de 100 V
+a su rapidez de operación, ¿cuál es su corriente de fun-
+cionamiento?
+48.
+●●● El motor de arranque de un automóvil tiene 0.40 Ω
+de resistencia en los devanados de la armadura. Trabaja
+con 12 V y tiene 10 V de contra fem, a su rapidez normal
+de funcionamiento. ¿Cuánta corriente extrae el motor a)
+cuando gira a su rapidez de funcionamiento, b) cuando
+gira a la mitad de su rapidez final de rotación y c) cuan-
+do arranca?
+49.
+●●● Un motor de cd de 240 V tiene una armadura con
+1.50 Ω de resistencia. Al trabajar a su rapidez de funcio-
+namiento toma 16.0 A de corriente. a) ¿Cuál es la contra
+fem del motor cuando funciona en condiciones norma-
+les? b) ¿Cuál es la corriente en el arranque? (Supon-
+ga que no hay resistencias adicionales en el circuito.) 
+c) ¿Qué resistencia en serie se necesitaría para limitar a
+25 A la corriente de arranque?
+20.3 Transformadores y transmisión de energía
+50. OM Un transformador en el sistema de distribución de
+energía eléctrica localizado justo antes de la casa de us-
+ted tiene a) más devanados en la bobina primaria, b)
+más devanados en la bobina secundaria o c) la misma
+cantidad de devanados en la bobina primaria que en la
+secundaria.
+51. OM La potencia que entrega un transformador real de
+bajada es a) mayor que la potencia de entrada, b) menor
+que la potencia de entrada o c) igual que la potencia de
+entrada.
+52. PC Explique por qué los sistemas de distribución de
+energía eléctrica operan a tan altos voltajes si éstos son
+peligrosos.
+53. PC En su taller de reparaciones automotrices de emer-
+gencia, usted necesita un transformador de bajada, pero
+sólo hay transformadores de subida. ¿Es posible utilizar
+un transformador de subida como transformador de ba-
+jada? Si es así, explique cómo tendría que conectarse.
+54.
+EI ● La bobina secundaria de un transformador ideal tie-
+ne 450 vueltas, y la primaria tiene 75 vueltas. a) Este
+transformador es 1) de subida o 2) de bajada. ¿Por qué?
+b) ¿Cuál es la razón entre la corriente en la bobina pri-
+maria y la corriente en la bobina secundaria? c) ¿Cuál es
+la razón entre el voltaje a través de la bobina primaria y
+el voltaje en la bobina secundaria?
+55.
+● Un transformador ideal aumenta de 8.0 a 2000 V , y la bo-
+bina secundaria de 4000 vueltas conduce 2.0 A. a) Calcule
+el número de vueltas en la bobina primaria. b) Calcule la
+corriente en la bobina primaria.
+56. ● La bobina primaria de un transformador ideal tiene
+720 vueltas, mientras que la secundaria, 180 vueltas. Si
+la bobina primaria conduce 15 A a un voltaje de 120 V ,
+¿cuáles son a) el voltaje y b) la corriente de salida de la
+bobina secundaria?
+57.
+● El transformador de la fuente de poder para una uni-
+dad Zip de 250 MB de computadora cambia una entrada
+de 120 V a una salida de 5.0 V . Calcule la razón entre el
+número de vueltas en la bobina primaria y el número de
+vueltas en la bobina secundaria.
+58.
+● La bobina primaria de un transformador ideal se co-
+necta con una fuente de 120 V y toma 10 A. La bobina se-
+cundaria tiene 800 vueltas, y por ella pasa una corriente
+de 4.0 A. a) ¿Cuál es el voltaje a través de la bobina secun-
+daria? b) ¿Cuántas vueltas hay en la bobina primaria?
+59.
+● Un transformador ideal tiene 840 vueltas en el devana-
+do primario y 120 vueltas en el secundario. Si el primario
+toma 2.50 A a 110 V , ¿cuáles son a) la corriente y b) el vol-
+taje de salida de la bobina secundaria?
+60.
+●● La eficiencia e de un transformador se define como la
+relación de la potencia que sale entre la potencia que entra: 
+a) Demuestre que, en función de las relaciones entre co-
+rrientes y voltajes de la ecuación 20.10 para un transforma-
+dor ideal, se obtiene una eficiencia del 100%. b) Supon-
+ga que un transformador de subida aumenta el voltaje de
+línea de 120A a 240 V , mientras que la corriente de salida se
+reduce de 12.0A a 5.0 A. ¿Cuál es la eficiencia del transfor-
+mador? ¿Éste es ideal?
+61.
+EI ●● Las especificaciones de un transformador en un
+electrodoméstico pequeño dicen lo siguiente: Alimenta-
+ción 120 V , 6.0 W; Salida 9.0 V , 300 mA. a) Este transfor-
+mador es 1) ideal o 2) no ideal. ¿Por qué? b) ¿Cuál es su
+eficiencia? (Véase el ejercicio 60.)
+62.
+●● Un componente de un circuito trabaja a 20 V y 0.50 A.
+Para convertir el voltaje doméstico normal de 120 V al
+voltaje adecuado, se utiliza un transformador con 300
+vueltas en su devanado primario. a) ¿Cuántas vueltas de-
+be tener en su devanado secundario? b) ¿Cuánta corrien-
+te pasa por el devanado primario?
+63.
+●● Un transformador del timbre de una puerta baja el
+voltaje de 120 a 6.0 V , y suministra una corriente de 0.5 A
+al mecanismo de la campanilla. a) ¿Cuál es la relación de
+vueltas de ese transformador? b) ¿Cuál es la corriente que
+entra al transformador?
+64.
+●● Un generador de ca suministra 20 A a 440 V , a una 
+línea eléctrica de 10 000 V . Si el transformador de subi-
+da tiene 150 vueltas en su devanado primario, ¿cuántas
+vueltas tiene el secundario?
+65.
+●● La electricidad generada en el ejercicio 64 se transmi-
+te por una línea de 80.0 km de longitud, cuya resistencia
+es de 0.80 Ω/km. a) ¿Cuántos kilowatts-hora se ahorran
+en 5.00 h al elevar el voltaje? b) A $0.10/kWh, ¿cuánto
+ahorra (con aproximación de $10) el consumidor en un
+mes de 30 días, suponiendo que se le suministra la ener-
+gía de forma continua?
+66.
+●● En una subestación de área, el voltaje baja de 100 000
+a 20 000 V . Si el circuito de 20 000 V maneja 10 MW de po-
+tencia, ¿cuáles son las corrientes en el devanado primario
+y en el secundario del transformador?
+67.
+●● Un voltaje de 200 000 V en una línea de transmisión
+se reduce en una subestación de área a 100 000 V , des-
+pués a 7200 V en una subestación de distribución y, por
+último, a 240 V en un poste de servicio doméstico. a)
+¿Qué relación de vueltas N
+s/Np se requiere en cada paso
+de reducción? b) ¿Por qué factor aumenta la corriente en
+cada bajada de voltaje? c) ¿Cuál es el factor general de 
+subida de la corriente, desde la línea de transmisión 
+hasta el poste de servicio?
+I
+s
+ Vs
+Ip
+ Vp
+.=e = Ps
+Pp
+
+684 CAPÍTULO 20 Inducción y ondas electromagnéticas
+68. ●● Una central produce 50 A y 20 kV de energía eléctrica.
+Esta energía se transmite a 25 km de distancia por cables
+cuya resistencia es de 1.2 Ω/km. a) ¿Cuál es la pérdida de
+potencia en las líneas, si se transmitiera la energía a 20 kV?
+b) ¿Cuál debería ser el voltaje de salida del generador, pa-
+ra disminuir la pérdida de potencia por un factor de 15?
+69.
+●● Se transmite electricidad por una línea de transmi-
+sión de 175 km de longitud, con 1.2 Ω/km de resistencia.
+La salida del generador es de 50 A, y su voltaje de opera-
+ción es de 440 V . Este voltaje tiene una sola subida y se
+transmite a 44 kV . a) ¿Cuánta potencia se pierde en forma
+de calor de joule en la transmisión? b) ¿Cuál debe ser la
+relación de vueltas de un transformador en el punto de
+entrega para que el voltaje de salida sea de 220 V? (Igno-
+re la caída de voltaje en la línea.)
+20.4 Ondas electromagnéticas
+70. OM En relación con el extremo azul del espectro visible,
+las regiones del amarillo y del verde tienen a) mayores fre-
+cuencias, b) mayores longitudes de onda, c) menores lon-
+gitudes de onda o d) tanto a como c.
+71. OM ¿Cuál de las siguientes ondas electromagnéticas tie-
+ne menor la frecuencia? a) las UV, b) las IR, c) los rayos X
+o d) las microondas.
+72. OM ¿Cuál de las siguientes ondas electromagnéticas via-
+ja más rápido en el vacío? a) La luz verde, b) la luz infra-
+rroja, c) los rayos gamma, d) las ondas de radio o e) todas
+viajan con la misma rapidez.
+73. OM Si se duplica la frecuencia de una fuente de luz azul,
+¿qué tipo de luz emitiría? a) Roja, b) azul, c) violeta, d) UV
+O e) rayos X.
+74. PC Una antena se conecta a una batería de automóvil.
+¿La antena emitirá ondas electromagnéticas? ¿Por qué?
+Explique su respuesta.
+75. PC En un día nublado de verano, usted trabaja a la in-
+temperie y siente frío. Sin embargo, por la noche se da
+cuenta de que tiene quemaduras de sol. Explique cómo
+es posible esto.
+76. PC La radiación ejerce presión sobre las superficies ( pre-
+sión de radiación) en las que incide. ¿La presión será mayor
+sobre una superficie brillante que sobre una superficie os-
+cura? ¿Será mayor si se utiliza una fuente brillante o una
+del mismo color pero con tono más pálido? Explique sus
+dos respuestas.
+77. PC El radar funciona a longitudes de onda de algunos
+centímetros, mientras que el radio de FM funciona con
+longitudes de onda del orden de varios metros. ¿Cómo
+son las frecuencias del radar en comparación con las de
+la banda de FM de un radio? ¿Cómo se compara la rapi-
+dez de unas y otras en el vacío?
+78.
+● Calcule las frecuencias de las ondas electromagné-
+ticas cuyas longitudes de onda son a) 3.0 cm, b) 650 nm y
+c) 1.2 fm. d) Clasifique el tipo de luz en cada caso.
+79. ● En un pequeño poblado sólo hay dos estaciones AM de
+radio, una de 920 kHz y la otra de 1280 kHz. ¿Cuáles son
+las longitudes de onda de las ondas de radio que trans-
+mite cada estación?
+80.
+● Un meteorólogo de una estación de TV usa el radar 
+para determinar la distancia a una nube. Observa que
+transcurren 0.24 ms de tiempo entre el envío y el regreso
+de un impulso de radar. ¿A qué distancia está la nube?
+81.
+● ¿Cuánto tiempo tarda un rayo láser en ir de la Tierra a
+un espejo en la Luna, y regresar? Suponga que la distan-
+cia entre la Tierra y la Luna es de 2.4 /H1100310
+5 millas. (Este
+experimento se realizó cuando, en las expediciones de
+las naves Apollo a principios de los 70, se dejaron reflecto-
+res de láser en la superficie lunar.)
+82.
+●● La luz anaranjada tiene 600 nm de longitud de onda,
+y la verde, 510 nm. a) ¿Cuál es la diferencia de frecuen-
+cias entre las dos clases de luz? b) Si se duplica la longi-
+tud de onda en ambos casos, ¿qué tipo de luz se tendría
+entonces?
+83.
+●● Cierta clase de antena de radio se llama antena de
+cuarto de onda , porque su longitud es igual a un cuarto 
+de la onda que se va a recibir. Si usted fuera a fabricar
+esas antenas para las bandas de radio de AM y de FM,
+usando en cada banda sus frecuencias medias, ¿qué lon-
+gitudes de cable utilizaría?
+84. EI
+●●● Los hornos de microondas tienen puntos fríos y
+calientes, a causa de las ondas electromagnéticas estacio-
+narias, de forma similar a los nodos y antinodos que exis-
+ten en las ondas estacionarias en las cuerdas (
+▼figura
+20.34). a) Cuanto mayor sea la distancia entre los puntos
+fríos, 1) la frecuencia es mayor, 2) la frecuencia es menor
+o 3) la frecuencia es independiente de esa distancia. ¿Por
+qué? b) Su horno de microondas tiene puntos fríos (no-
+dos) aproximadamente cada 5.0 cm, y el de su vecino los
+tiene cada 6.0 cm. ¿Cuál de los dos hornos opera a mayor
+frecuencia y por cuánto?
+▲ FIGURA 20.34 ¿Lugares fríos? Véase el ejercicio 84.
+Ejercicios adicionales
+85. EI En la Nfigura 20.35, una barra metálica de longitud L se
+mueve en una región de campo magnético constante. Ese
+campo se dirige hacia la página. a) La dirección de la co-
+rriente inducida y que pasa por el resistor es 1) hacia arri-
+ba, 2) hacia abajo o 3) no hay corriente. ¿Por qué? b) Si la
+magnitud del campo magnético es de 250 mT, ¿cuál es la
+corriente?
+86. Suponga que una moderna planta eléctrica tiene un sa-
+lida de potencia de 1.00 GW a 500 V . El voltaje de trans-
+misión se sube a 750 kV en una serie de cinco transfor-
+madores idénticos. a) ¿Cuál es la corriente de salida de la
+planta? b) ¿Cuál es la relación de vueltas en cada uno de
+los transformadores? c) ¿Cuál es la corriente en las líneas
+de distribución de alto voltaje?
+
+Ejercicios 685
+87. Una turista europea utiliza un transformador durante su
+estancia en Estados Unidos, principalmente para hacer
+funcionar su secadora de cabello de 1200 watts que llevó
+consigo. Entonces, cuando la conecta al tomacorriente 
+de su cuarto de hotel en Los Ángeles, nota que funciona
+exactamente como lo hace en su casa. El voltaje y la co-
+rriente de entrada son 120 V y 11.0 A, respectivamente. 
+a) ¿Se trata de un transformador ideal? Explique cómo
+llegó a su conclusión. b) Si no es un transformador ideal,
+¿cuál es su eficiencia?
+88. Un solenoide de 20.0 cm de longitud tiene 5000 espiras
+circulares. Por él pasa una corriente de 10.0 A. Cerca de
+su centro se coloca una bobina plana y pequeña de 100
+espiras circulares, cada una con un radio de 3.00 mm. Es-
+ta pequeña bobina está orientada de forma que su área
+recibe el flujo magnético máximo. Un interruptor se abre
+en el circuito del solenoide y su corriente cae a cero en
+15.0 ms. a) ¿Cuál era el flujo magnético inicial a través de
+la bobina interior? b) Determine la fem promedio induci-
+da en la pequeña bobina durante los 15.0 ms. c) Si usted
+observa a lo largo del eje de mayor longitud del solenoi-
+de de forma que la corriente inicial de 10.0 A tenga el sen-
+tido de las manecillas del reloj, determine la dirección de
+la corriente inducida en la pequeña bobina interior du-
+rante el tiempo en que la corriente disminuye a cero.
+89. EI Una bobina plana de alambre de cobre consta de 100
+espiras y tiene una resistencia total de 0.500 Ω. La bobina
+tiene un diámetro de 4.00 cm y se encuentra en un campo
+magnético uniforme que apunta alejándose de usted (es
+decir, hacia la página). Además, está orientada en el pla-
+no de la página. Luego se tira de ella hacia la derecha y se
+saca por completo del campo. a) ¿Cuál es la dirección de
+la corriente inducida en la bobina? 1) En el sentido de las
+manecillas del reloj, 2) en sentido contrario al de las ma-
+necillas del reloj o 3) no hay corriente inducida.b) Duran-
+te el tiempo en que la bobina abandona el campo, se
+mide una corriente promedio inducida de 10.0 mA.
+¿Cuál es la fem promedio inducida en la bobina? c) Si la
+intensidad del campo es de 3.50 mT, ¿cuánto tiempo se
+requirió para sacar de éste la bobina?
+90. El transformador de un poste de cables de servicio baja el
+voltaje de 20 000 a 220 V , y abastece a un departamento
+de ciencias de una universidad. Durante el día, el trans-
+formador entrega energía eléctrica a una tasa de 6.6 kW.
+a) Suponiendo que el transformador es ideal, durante ese
+tiempo, ¿cuáles son las corrientes primaria y secundaria
+en el transformador? b) Si el transformador tiene sólo un
+95% de eficiencia (pero aún así entrega energía a una tasa
+de 6.60 kW a 220 V), ¿cómo se compara esta corriente de
+entrada con el caso ideal? c) ¿Cuál es la tasa de pérdida
+de calor en el transformador no ideal? 
+91. Supongamos que usted desea fabricar un generador eléc-
+trico utilizando el campo magnético de la Tierra, que tie-
+ne una intensidad de 0.040 mT en su localidad. Su diseño
+de generador requiere de una bobina de 1000 devanados,
+que giran exactamente a 60 Hz. La bobina está orientada
+de forma que la normal al área se alinea con el campo de
+la Tierra al final de cada ciclo. ¿Cuál debe ser el diámetro
+de la bobina para generar un voltaje máximo de 170 V
+(que se requiere para obtener un promedio de 120 V)?
+¿Es ésta una forma práctica de generar energía eléctrica?
+92. Se envía una señal de radio a una sonda espacial que viaja
+en el plano del Sistema Solar. Después de 3.5 días, se reci-
+be la respuesta en la Tierra. Suponiendo que las compu-
+tadoras de la sonda tardaron 4.5 h en procesar las instruc-
+ciones de la señal y en enviar el mensaje de retorno, ¿la
+sonda está dentro del Sistema Solar? (Suponga que el ra-
+dio del Sistema Solar es 40 veces la distancia entre la Tierra
+y el Sol.)
+93. Una bobina de 100 espiras de alambre tiene un diámetro de
+2.50 cm y está orientada en un campo magnético constante
+de 0.250 T, de manera que inicialmente no tiene flujo mag-
+nético. En 0.115 s, la bobina se voltea de forma que su nor-
+mal forma un ángulo de 45° con la dirección del campo. Si
+en la bobina se induce una corriente promedio de 4.75 mA
+durante su rotación, ¿cuál es la resistencia de la bobina?
+R = 10 Ω
+v = 2.0 m/s
+L = 0.50 m
+B
+▲ FIGURA 20.35 Fem de movimiento Véase el ejercicio 85.
+Los siguientes problemas de física Physlet pueden utilizarse con estos capítulos.
+29.1, 29.2, 29.5, 29.6, 29.7, 29.8
+
+21.1 Resistencia en un
+circuito de ca 687
+21.2 Reactancia 
+capacitiva 689
+21.3 Reactancia 
+inductiva 691
+21.4 Impedancia: 
+circuitos RLC 693
+21.5 Resonancia 
+en circuitos 697
+CAPÍTULO 
+21
+L
+os circuitos de corriente directa tienen muchos usos, pero el tablero de con-
+trol del reactor nuclear que se ve en la fotografía opera muchos dispositivos
+que usan la corriente alterna (ca). La energía eléctrica que recibimos en
+nuestros hogares y oficinas también es ca, y la mayor parte de los dispositivos y
+electrodomésticos que utilizamos en la vida diaria requieren corriente alterna.
+Hay varias razones para esta gran dependencia de la corriente alterna. Por
+una parte, casi toda la energía eléctrica se produce en generadores que emplean
+la inducción electromagnética y, por consiguiente, su resultado es corriente alter-
+na (capítulo 20). Además, la energía eléctrica producida como ca se puede trans-
+mitir en forma económica a grandes distancias, usando transformadores. Pero
+quizá la razón más importante por la que se utiliza la ca en forma tan universal
+es que la alternancia de la corriente produce efectos electromagnéticos que se
+aprovechan en una gran variedad de dispositivos. Por ejemplo, cada vez que us-
+ted sintoniza su estación de radio favorita, aprovecha una propiedad especial de
+resonancia de los circuitos de ca (que se estudiará en este capítulo).
+Para determinar las corrientes en los circuitos de cd, es necesario prestar aten-
+ción a los valores de resistencia. Naturalmente, también en los circuitos de ca hay
+resistencia, pero hay otros factores adicionales que afectan el flujo de carga. Por
+ejemplo, un condensador en un circuito de cd presenta una resistencia infinita (es
+un circuito abierto). Sin embargo, en un circuito de ca, el voltaje alterno carga y
+descarga de forma continua un condensador. Además, las bobinas de alambre se
+oponen a la corriente alterna, de acuerdo con los principios de la inducción elec-
+tromagnética (ley de Lenz, sección 20.1).
+En este capítulo se describirán los principios básicos de los circuitos de ca. Se
+desarrollarán formas más generalizadas de la ley de Ohm aplicables a los circui-
+tos de ca. Por último, se explorará el fenómeno de la resonancia en un circuitode ca,
+así como algunas de sus aplicaciones.
+• En condiciones de ca (dirección de voltaje 
+alterno), un condensador, incluso con la se-
+paración que existe entre las placas, permite
+que haya corriente en el circuito durante las
+etapas de carga y descarga. En condiciones
+de cd (voltaje constante a través de las pla-
+cas), no hay corriente.
+• Con voltajes cd, un inductor no ofrece im-
+pedancia al flujo de carga y, por lo tanto, con-
+duce corriente con facilidad. Sin embargo, 
+en condiciones de ca, un inductor impide el
+cambio en la corriente produciendo una fem
+inversa en concordancia con la ley de induc-
+ción de Faraday.
+• Un condensador, un inductor y un resistor
+conectados en serie a una fuente de potencia
+de ca son análogos a un sistema de amor-
+tiguamiento resorte-masa. Llevado a su fre-
+cuencia natural, el circuito “resuena”, esto es,
+exhibe una corriente máxima, justo como el
+sistema mecánico tiene su máxima amplitud
+en las mismas condiciones. El condensador
+almacena energía eléctrica potencial en ana-
+logía con la energía elástica potencial del 
+resorte. El inductor almacena energía mag-
+nética (asociada con cargas en movimiento),
+en analogía con la masa en el resorte que 
+tiene energía cinética (de movimiento). El re-
+sistor disipará la energía del sistema, como 
+lo haría la resistencia del aire en el sistema
+mecánico.
+HECHOS DE FÍSICA
+Circuitos de corriente
+alterna
+686
+
+21.1 Resistencia en un circuito de ca 687
+21.1 Resistencia en un circuito de ca
+OBJETIVOS: a) Especificar cómo varían el voltaje, la corriente y la potencia en
+función del tiempo, en un circuito de ca, b) comprender los concep-
+tos de valores rms y máximo y c) explicar cómo responden los re-
+sistores en condiciones de ca.
+Un circuito de ca contiene una fuente de voltaje alterno (como un generador pequeño,
+o simplemente un tomacorriente doméstico) y uno o más elementos. En la Nfigura 21.1
+se presenta un diagrama de un circuito de ca con un solo elemento resistivo. Si el vol-
+taje de salida de la fuente varía en forma senoidal, como en el caso de un generador
+(véase la sección 20.2), el voltaje a través del resistor varía con el paso del tiempo de
+acuerdo con la ecuación
+(21.1)
+donde /H9275es la frecuencia angular del voltaje (en rad/s) y se relaciona con la frecuencia
+f (en Hz), mediante la ecuación /H9275/H110052/H9266f. El voltaje oscila entre /H11001V
+o y /H11002Vo, a medi-
+da que 2/H9266ft oscila entre /H110061. El voltaje Vo se llama voltaje pico (o máximo) y representa
+la amplitud de las oscilaciones de voltaje.
+Corriente alterna y potencia
+En condiciones de corriente alterna, la corriente que pasa por el resistor oscila en di-
+rección y magnitud. De acuerdo con la ley de Ohm, la corriente en el resistor es, en
+función del tiempo:
+Como V
+o representa el voltaje pico o máximo a través del resistor, la fracción entre
+paréntesis representa la corriente máxima en él. Así, esa ecuación se reformula como
+sigue:
+I /H11005I
+o sen 2/H9266ft (21.2)
+en donde la amplitud de la corriente es Io /H11005Vo/R, y se llama corriente pico (o máxima).
+La Nfigura 21.2 muestra el voltaje y la corriente en un resistor en función del tiem-
+po. Observe que están al unísono, es decir, en fase. Esto significa que ambos llegan a sus
+valores cero, mínimos y máximos al mismo tiempo. La corriente oscila y tiene valores
+positivos y negativos, que indican cambios en su dirección durante cada ciclo. Como la
+corriente consume la misma cantidad de tiempo en ambas dirección, la corriente pro-
+medio es cero. En términos matemáticos, esto refleja que el valor de la función seno prome-
+diado durante el tiempo de uno o más ciclos completos(de 360/H11034) es cero. Recurriendo a la
+notación con barras superiores para indicar un valor promediado en el tiempo, se tiene
+que Asimismo, 
+Sin embargo, el hecho de que la corriente promedio sea cero, no quiere decir que no
+haya calentamiento de joule (pérdidas I
+2R), ya que la disipación de la energía eléctrica
+en un resistor no depende de la dirección de la corriente. La potencia instantánea en
+función del tiempo se obtiene a partir de la corriente instantánea (ecuación 21.2). Así,
+(21.3)
+Aun cuando la corriente cambia de signo, el cuadrado de la corriente, I
+2, siem-
+pre es positivo. Así, el valor promedio de I2R no es cero. El valor promedio, o media, 
+de I2 es
+Se usa la identidad trigonométrica sen2 /H9258/H11005 para obtener 
+En vista de que (igual que ), se deduce que 
+sen2 /H9258/H11005Por todo esto, la ecuación anterior de se replantea como sigue:
+(21.4)
+Por lo que la potencia promedio es
+(21.5)P = I2
+ R = 1
+2 Io
+2
+ R
+I2 = Io
+2 sen2 2pft = 1
+2 Io
+2
+I21
+2 .
+cos u = 0cos 2u = 01
+2 11 - cos 2u2.
+=sen2 u1
+2 11 - cos 2u2,
+I2 = Io
+2 sen2 2pft = Io
+2 sen2 2pft
+P = I2
+ R =1Io
+2
+ R2 sen2 2pft
+cos u = 0.sen u = sen 2pft = 0.
+I = V
+R = ¢ Vo
+R≤ sen 2pft
+V = Vo sen vt = Vo sen 2pft
+Voltaje
+Corriente
+V, I
+Vo
+Io
+1
+4  de ciclo
+(90°)
+3
+4  de ciclo
+(270°)
+t
+V
+I
+▲ FIGURA 21.2 El voltaje y la
+corriente en fase En un circuito 
+de ca puramente resistivo, el voltaje
+y la frecuencia varían al unísono, 
+es decir, están en fase.
+V = Vo sen 2   ftπ
+I  =  Io sen 2   ftπ
+fuente de ca
+R
+▲ FIGURA 21.1 Un circuito 
+puramente resistivo La fuente de
+ca entrega un voltaje senoidal a un
+circuito formado por un solo resis-
+tor. El voltaje a través del resistor, y
+la corriente que pasa por él, varían
+de forma senoidal con la frecuen-
+cia del voltaje alterno aplicado.
+
+I
+Io
+Irms = 0.707Io
+0 t
+a)
+Io
+(pico)
+–Io
+0
+V
+Vo
+t
+Vrms = 0.707Vo
+–Vo
+Vo
+(pico)
+b)
+P
+T
+1
+T3Tt = 0
+4
+T
+2 4
+2
+Po
+P =   Po
+t 
+▲ FIGURA 21.3 Variación de la
+potencia en un resistor, con
+respecto al tiempo Aunque tanto
+la dirección (signo) de la corriente
+como la del voltaje oscilan, su
+producto (la potencia) siempre es
+una cantidad oscilatoria positiva.
+La potencia promedio es la mitad
+de la potencia máxima o pico.
+688

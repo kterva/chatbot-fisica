@@ -1,0 +1,1359 @@
+Tema: Difusión; leyes de la termodinámica; ejemplos de termodinámica (Capítulos 43-45 — Lecciones de Física, Feynman, Vol. I)
+
+DifusiOn molecular 
+Pasamos ahora a un problema y a un anillisis de diferente tipo: la teoria de la 
+difusi6n. Supongan que tenemos un recipiente con gas en equilibria ti:rmico y que 
+en alglin lugar del recipiente introducimos una pequeiia cantidad de gas de un tipo 
+diferente. Llamaremos gas "de fondo" al gas original, y gas "especial" al nuevo. El 
+gas especial comenzaril a extenderse 
+43-9
+
+por todo el recipiente, pero lo hara lentamente debido a la presencia del gas de fondo. 
+Este lento proceso de extensi6n se llama difusi6n. La difusi6n esta controlada princi­
+palmente por los golpes que las molecu!as de! gas especial redben de las moleculas 
+de! gas de fondo. Despues de un gran nllmero de colisiones, las mo16culas especiales 
+acaban extendidas mils o menos uniformemente por todo el volumen. Debemos tener 
+cuidado de no confundir la difusi6n de un gas con el transporte macrosc6pico que 
+pue<le ocurrir debido a corrientes de convecci6n. Lo mas comUn es que la mezcla de 
+dos gases ocurra me<liante una combinaci6n de convecci6n y difusi6n. Ahora s6lo 
+estamos interesados en el caso en que no hay corrientes "de viento ''. El gas se extiende 
+Unicamente por los movimientos moleculares, por difusi6n. Queremos calcular a que 
+velocidad tiene lugar la difusi6n. 
+Calculemos ahora elflujo neto de mo!OCulas de! gas "especial'' debido a los mo­
+vimientos mo\eculares. S6lo habra un flujo neto cuando hay una distribuci6n no 
+uniforme de las moieculas; de lo contrario todos los movimientos moleculares se 
+prome<liarian sin dar ningUn flujo neto. Consideremos primero el flujo en la direc­
+ci6n x. Para hallar\o consideremos un piano imaginario perpendicular al eje x y 
+contemos el nUmero de molfculas especiales que atraviesan este piano. Para obtener 
+el flujo neto, debemos contar coma positivas las mol6cu\as que cruzan en la direc­
+ci6n positiva de x y restar de este nUmero el de las que cruzan en la direcci6n x 
+negativa. Como hemos visto muchas veces, el nUmero de las que atraviesan el area 
+de una superfioie en un tiempo .1 Testa dado por el nllmero de las que al comienzo 
+de! intervalo .1 T estan en un vo!umen que se extiende a una distancla v.1 T del piano. 
+(Observen que aqui v es la verdadera velocidad molecular y no la velocidad de 
+arrastre.) 
+Simplificaremos nuestra algebra dando un circa unitaria a nuestra superficie. 
+Luego, el nUmero de mol6culas especiales que pasan de izquierda a derecha (toman­
+do la direcci6n + x hacia la derecha) es n_ v .1 T, donde n_es el nltmero de moleculas 
+especiales que hay por unidad de volumen a la izquierda (a menos de un factor 2 o 
+algo asi, pero jestamos ignorando esos factores!). Anilogamente, el mimero que 
+cruza de derecha a Lzquierda es n+v.1T, donde n+ es la densidad numerica de 
+molOCulas especiales a ta derecha de! piano. Si llamamos J a la corriente molecular, 
+con lo cual entendemos el nujo neto de moJC.Culas por unidad de itrea y por unidad 
+de tiempo, tenemos 
+(43.21) 
+J = (n_ - n+)v. (43.22) 
+iQue usar para n_ y n-t ? Cuando decimos "la densidad a la izquierda", 
+ihasta que distancia a la izquierda entendemos? Deberiamos elegir la densidad en el 
+lugar desde donde las moteculas empezaron su "vuelo ", porque el nUmero de las 
+que empiezan esos viajes esta determinado por el nUmero de las que estitn presentes 
+en ese lugar. En consecuencia, debemos entender por n~ la densidad a una distancia 
+a la izquierda igual al camino libre media /, y por n+ la densidad a una distancia l 
+a la derecha de nuestra superficie imaginaria. 
+Es conveniente considerar que la distribuciOn espacial de nuestras moleculas es­
+peciales estit descrita por una funci6n continua de x, y y z que llamaremos n0 • Por 
+na(x, y, z) entendemos la densidad numerica de moleculas especiales en un pc4ueiio 
+elemento 
+43-10
+
+de volumcn centrado en (x, y, z). En tCrminos den", podemos expresar la diferencia 
+(n+ - n_) en la forma 
+(n+ - n_) = ~~, Llx = <!Ji· 21. (43.23) 
+Sustituyendo este resultado en la ecuaci6n (43.22) y despreciando el factor 2, obte-
+J,. =-Iv~· (43.24) 
+Hemos encontrado que el flujo de moleculas especiales es proporcional a la derivada 
+de la densidad, o sea a lo que a veces se denomina "gradiente" de la densidad. 
+Esta c!aro que hemos hecho varias operaciones aproximadas. Ademits hemos de­
+jado de \ado varios factores dos, hemos usado v donde deberlamos haber usado l',,­
+y hemos supuesto que n+ y n _ se refieren a puntos a una distancia perpendicular l 
+de nuestra superficie, mientras que para las molfculas que no viajan perpendicu­
+larmente a! elemento de superficie, I deberia corresponder a la distancia oblicua des­
+de la superficie. Es posible hacer todos estos refinamientos; el resultado de un 
+analisis mas cuidadoso muestra que el segundo miembro de la ecuaci6n (43.24) se 
+debe multiplicar por 1 I 3• Luego, una respuesta mejor es 
+J =_I!_~, 
+" 3 dx (43.25) 
+Podemos escribir ecuaciones similares para las corrientes en las direcciones y y z. 
+La corriente J..- y el gradiente de densidad dn"/dx se pueden medir por media 
+de observaciones macrosc6picas. Su cociente determinado experimentalmeme se de­
+nomina "coeficiente de difusi6n" D. Esto es, 
+J,, = -D~i· (43.26) 
+Hemos podido demostrar que para un gas es de esperar que 
+D =~·hi. (43.27) 
+Hasta aqui, en este capitulo, hemos considerado dos procesos distintos: movili­
+dad, o sea el arrastre de mo\eculas dcbido a fuerzas "de afuera ", y difusiOn, o sea el 
+extenderse determinado lmicamente por las fuerzas internas, las colisiones a! azar. 
+Hay, sin embargo, una relaci6n entre ellos, ya que ambos depcnden bitsicamente de 
+los movimientos termicos, y el camino !ibre media I aparece en ambos c<i.lculos. 
+Si en la ecuaci6n (43.25) sustituimos I= VT y T = µm, tenemos 
+(43.28) 
+Pero mv1 depende Unicamente de la temperatura. Recordemos que 
+!mv 2 = ikT, (43.29) 
+por lo que 
+(43.30) 
+43-11
+
+Encontramos que el coeficiente de difusi6n D es sencillamente kT por el coeficiente 
+de movilidad µ: 
+D ~ µkT. (43.31) 
+Y resulta que el coeficiente numCrico en (43.31) es exactamente correcto -no es ne-­
+cesario introducir factores adicionales para compensar nuestras operaciones aproxi­
+madas-. Podemos demostrar, en verdad, que (43.31) siempre debe ser correcta-aun 
+en situaciones complicadas (por ejemplo, el caso de una suspensi6n en un Jiquido) 
+donde los detalles de nuestro dtlculo simple no servirian de ninguna manera. 
+Para demostrar que (43.31) debe ser correcta en general, la deduciremos de un 
+modo diferente, empleando Unicamente nuestros principios b3.sicos de medtnica es­
+tadistica. Imaginen una situacii:m en que hay un gradiente de mo!eculas '·especiales" 
+y tenemos una corriente de difusi6n proporcional al gradiente de densidad, conforme 
+a la ecuacj6n (43.26). Aplicamos ahora un campo de fuerzas en la direcci6n x de 
+modo que cada moli:cula especial sienta la fuerza F. Conforme a la definici6n de 
+movilidad fl habra una ve!ocidad de arrastre dada por 
+Varrastre= µF. (43.32) 
+SegUn nuestro razonamiento habitual, la corriente de arrastre (nUmero neto de mo­
+li:culas que atraviesan la unidad de area en la unidad de tiempo) sera 
+(43.23) 
+(43.34) 
+Ahora ajustamos la fuerza F de modo que la corriente de arrastre debida a F com­
+pense exactamente la difusi6n y no ha ya flujo neto de nuestras mo!Cculas especiales. 
+Tenemos Jx + larrastre = 0, o sea 
+D <!J&: = n,.µF. (43.35) 
+En condiciones "de compensaci6n" encontramos un gradiente de densidad ftjo 
+(en cl tiempo) dado por 
+dn,. n"µF 
+a~ --v· (43.36) 
+jPero vean ustedcs! Estamos describiendo un estado de equilibrio por lo que 
+sirven las leyes de equilibrio de la meciinica estadistica. SegUn estas !eyes la proba­
+bilidad de encontrar una mo!Ccula en la coordenada x es proporcional a ru lkT, 
+donde U es la energia potencial. En funci6n de la dcnsidad numfrica n", esto sig­
+nifica que 
+(43.37) 
+, Si derivamos (43.37) respecto ax, encontramos 
+(43.38) 
+dn,, n., dU 
+c1-r - ktdx· (43.39) 
+43·12
+
+En nuestra situaci6n, coma la fuerza Festa en la direcci6n x, la energia potencial U 
+es simplemente -Fx, y -dU/dx = F. La ecuaci6n (43.39) da entonces 
+(43.40) 
+Esta es exactamente la ecuaci6n (40.2), de la cual dedujimos e-UlkT inicialmente. 
+por lo que volvemos al punto de partida. Comparando (43.40) con (43.36) obtenemos 
+exactamente la ecuaci6n (43.31). Hemos demostrado que la ecuaci6n (43.31), que da 
+la corriente de difusi6n en funci6n de la movilidad, tiene el coeficiente correcto y es 
+valida en forma muy general. La movilidad y la difusi6n estiln intimamente relacio­
+nadas. Einstein fuc el primero en deducir esta relaci6n. 
+43·6 Conductividad tc!rmica 
+Los metodos de !a teoria cinCtica que hemos estado emp!eando mas arriba tam­
+bien se pueden emplear para calcular la conductividad ti!rmica de un gas. Si cl gas 
+que estii en la parte de arriba de! recipiente esta mis caliente que el que estii abajo. 
+habril un flujo de calor desde arriba hacia abajo. (Consideramos que !a parte de 
+arriba estii mils caliente porque de otra manera se establecerian corrientes de con" 
+vecci6n y el problema ya no seria de conducci6n de! calor.) La transferencia del ca­
+lor desde e\ gas mas ca\iente al miis frio se debe a Ja difusi6n de las mo\eculas "ca­
+Jientes" -las de energia mayor- hacia abajo ya la difusi6n de las moleculas "frias" 
+hacia arriba. Para calcular el flujo de energia termica, podemos buscar la energia 
+transportada hacia abajo a traves de un elemento de superficie por las mo!ecuJas que 
+se mueven hacia abajo, y la energia transportada hacia arriba a travCs de dicho ele­
+mento por las mokculas que se mueven hacia arriba. La diferencia nos dara el flujo 
+neto de energia hacia abajo. 
+Se define la conduclividad t6-mica If como el cociente entre la rapidez con que 
+se transporta energla ti:rmica a travi:s de un Urea unitaria, y el gradiente de tempe­
+ratura: 
+-~-q-2_ =-Kt}!_· A dt dz (43.41) 
+Como los deta!!es de los dlculos son muy similares a los que hemos realizado antes 
+al considerar el flujo de corriente e!Cctrica en un gas ionizado, dejaremos al lector 
+como ejercicio demostrar que 
+K=~, >-1 
+don de ()' ~ 1 )kT es la energia media de una moJecula a la temperatura 7'. 
+(43.42) 
+Si usamos nuestra relaci6n nla c = I, se puede escribir la conductividad ca16rica 
+en la forma 
+K = _ __I__ ~__'.! • 
+'Y - 1 Ur 
+(43.43) 
+T enemas un resultado bastante sorprendente. Sabemos que la velocidad media 
+de las moli:culas de gas depende de la temperatura pero no de la densidad. Es de 
+esperar que ac s6!o dependa de! tamalio de las mo!Cculas. Por lo tanto, nuestro 
+simple resultado dice que la conductividad ti:rmica If (y por lo tanto, la rapidez de 
+flujo de calor en cualquier circunstancia particular) 
+43-13
+
+jes independiente de la densidad de! gas! La variaciOn del nllmero de "portadores" 
+de energia con una variaciOn de la densidad estti compensada por la distancia mayor 
+que Jos ''portadores" pueden andar entre colisiones. 
+Se podria preguntar: "t.Es el tlujo de calor independiente de la densidad de! gas 
+en el Jimite de la densidad tendiendo a cero? (.Cuando no hay nada de gas?" iPor 
+cierto que no! La formula (43A3) fue obtenida, como todas las otras de este capitu­
+lo, en la hipOtesis de que el camino libre media entre colisiones es mucho menor 
+que cualquiera de las dimensiones de! recipiente. En cuanto la densidad de! gas es 
+tan baja que una mol6cula tiene una buena' probabilidad de cruzar de una pared 
+a otra de! recipiente sin tener una colisiOn, dejan de ser vtilidos todos los citlculos 
+hechos en este capitu!o. En esos casos debemos vo!ver a la teoria cinetica y calcular 
+de nuevo los detalles de lo que ocurrir3.. 
+43~14
+
+44 
+Leyes de la termodintimica 
+44-1 Maquinas tfrmicas: primera ley 44-4 Eficiencia de una maquina ideal 
+44-2 Segunda Icy 44-5 Temperatura termodinilmica 
+44-3 M3quinas reversibles 44-6 Entropia 
+44-1 MHquinas tCrmicas; primera ley 
+las propiedades de la materia desde un 
+m.1s o menos lo que succderit si supo­
+que obedecen ciertas !eyes. Hay, 
+cntre propiedades de las sustancias que 
+se pucden calcular tencr en cuenta una estructura detallada de los materiales. La 
+determinaci6n de las relacioncs entrc las diversas propicdades de los materiales, sin 
+tener en interna, es el objeto de la termodincimica. La termodi­
+h.stoncam<,nte. antes de que sc hubiese alcanzado una com­
+matena. 
+44-1
+
+Ahora bien, nuestro instinto nos puede sugerir que si calentilsemos una banda, esta 
+podria encogerse; que el hecho de estirar una banda la caliente podria implicar que 
+el calentarla causase su contracci6n. Y en realidad, si aplicamos una llama de gas a 
+una banda elilstica que sostiene un peso veremos que la banda se contrae abrupta­
+mente (Fig. 44-1). Por consiguiente es verdad que cuando calentamos una banda 
+elilstica, se encoge y este hecho esta ciertamente relacionado con el otro de que 
+cuando le suprimimos la tensi6n, se enfria. 
+Fig. 44-1 La banda el8st1ca calentada 
+La maquinaria interna de la goma causante de estos efectos es bastante com­
+plicada. La describiremos con alguna extensi6n desde un punto de vista molecular, 
+aunque nuestra principal intenci6n en este capitulo sea entender ta relaci6n de estos 
+efectos independientemente de! modelo molecular. A pesar de ello, podemos mos­
+trarles a partir de! modelo molecular que estos efectos estiin intimamente relaciona­
+dos. Un modo de entender el comportamiento de la goma es reconoccr que esta 
+sustancia consiste en un gran enredo de cadenas largas de mol6culas. una especie de 
+"espagueti molecular", con una complicaci6n adicional; entre las cadenas hay en\a­
+ces --como un espagueti que algunas veces se suelda con otro cuando lo cruza--, 
+magnifico enredo. Cuando tiramos de ta! enredo, algunas de las cadenas tienden a 
+alinearse en la direcci6n de! tir6n. Al mismo tiempo, estarido las cadenas en movi­
+miento ti:rmico chocan continuamente una con otra. De lo que se siguc que si se ha 
+alargado una cadena, no permaneceni por si misma alargada ya que las otras cade­
+nas y mo!6culas la golpeariln lateralmente y tenderia a encogcrse de nuevo. Asi, la 
+verdadera raz(m por la que una banda elist.i.ca tiendc a contraerse cs 6sta: cuando 
+se tira de ella, las cadenas se alargan y las agitaciones tfrrnicas de las mo!eculas 
+circundantes t1enden a contraer las cadena& y hacer quc sc acorten. Sc puede apre­
+ciar que si se mantiene las cadenas estiradas y se aumenta !a temperatura, con lo 
+que tambi6n se aumenta la intens!dad del bombardeo airededor de la~ cadenas, Cs­
+tas tienden a encogcrse y son capaces de arrastrar un peso mils grande cuando ~e 
+las calienta. Si se le permite a una banda elilstica que se relajc, despuCs de haber 
+estado estirada por algUn tiempo, cada cadena se suaviza y las mo16culas que !a gol 
+pean pierden cnergia a medicia que golpean la cadena que se relaja. Por lo cual, la 
+temperatura c&.e. 
+Hemos visto c6mo se puede relacionar estos dos 
+!entamiento y enfriamiento durante la rclajaci6n, 
+seria un tremendo desafio para e!la determinar la 
+driamos que saber cuilntas colisiones ocurririan 
+nas, y tendriamo<> que tcner en cuenta otras '°"'""'"'"'"" 
+nismo detallado es tan comp!ejo que no podemos 
+tc lo que sucede mediante la teoria cmCt1ca; aun 
+dctcrmmada entre 105 dos
+
+efectos que observamos sin conocer nada de la maquinaria interna! 
+Todo el objeto de la termodinimtlca depende esencialmente de la siguiente con­
+sideraci6n: ya que una banda elastica es "m3.s fuerte" a altas que a bajas tempera­
+turas, deberla ser posible levantar pesos y hacerlos girar y, por lo tanto, rcalizar un 
+t:abajo con calor. De hecho, hemos vista ya experimentalmente quc una banda 
+calentada puede levantar un peso. El estudio de c6mo se realiza trabajo con calor es 
+el comienzo de la ciencia de la termodinfunica. t,Podemos hacer que una milquina 
+que utiliza el efecto de calentamiento de una banda realice trabajo? Se puede cons­
+truir una m;iquina que parece tonta y que realiza esto exactamente. Consiste en una 
+rueda de bicicleta en la que todos los radios son bandas el3.sticas (Fig. 44-2). Si ca­
+lentamos las bandas de un lado de la rueda con un par de 13.mparas, las bandas se 
+hacen '·mas fuertes" que las del otro !ado. El centro de gravedad de la rueda se 
+desviar3. a un !ado, apartilndose del eje, por lo que la rueda girarli. A medida que 
+gira, bandas frias se mueven hacia cl calor, y las calientes sc alejan y se enfrian, y de 
+ese modo la rueda gira despacio mientras tengamos aplicado calor. La eficiencia de 
+esta milquina es extremadamcnte baja. Cuatrocientos vatios de potencia se meten en 
+las lilmparas, iY solamente es posible levantar una mosca con esa mtiquina! Una 
+cuesti6n mtis intcresante es si podemos o no obtener calor para realizar trabajo de 
+maneras mils eficientes. 
+Fig. 44-2. La milquina tl!rmica de banda 
+el<lstica 
+La ciencia de la termodinilmica comenz6, en realidad, con un anil.lisis que el 
+gran ingeniero Sadi Carnot hizo de! problcma: c6mo construir la milquina mejor y 
+mils cficiente: y 6ste es uno de los pocos casos famosos en los que la ingcnieria ha 
+contribuido fundamentalmente a la tcoria fisica. Otro ejcmplo que nos viene a la 
+mernoria es cl aniilisis mils reciente de la teoria de la informaci6n por Claude Shan-
+Entre parCntesis. resulta que estos dos anilisis estiln intimamente relacionados. 
+bicn, e! modo en que una miiquina de vapor trabaja ordinariamcnte cs 
+que de un fuego evaporn agua y el vapor asi formado se expande y empuja 
+un que hace que una rueda gin:. Asi que el vapor empuja el pist6n -z.y en-
+lonces quf?-. Hay que terminar el trabajo: un modo tonto de completar el ciclo 
+seria dejar que el vapor cscapase al aire, pero entonces hay que cstar suministrando 
+agua. Es mils barato -mils eficicnte- enviar el vapor a otra caja, donde se lo con­
+densa mediantc agua fria, y entonces bombear 
+44-3
+
+el agua de nuevo a la caldera de modo que circu!e continuamente. Se suministra, 
+pues, calor a ia mitquma y se lo convierte en trabajo. Pero. (.no seria mejor usar al­
+cohol? LQuC propiedad deberia tener una sustancia para que la maquina fuese la me­
+jor posible'! E~ta fuc la pregunta que Carnot se hizo y uno de los resultados adicio­
+nalcs fue el descubrimiento del tipo de relaci6n que hemo5 explicado antes. 
+Los resultados de la termodinUmica estim todos implicitamcnte contcnidos en 
+c1ertas proposiciones, aparentemente simples, llamadas !eyes de la termodiruimica. 
+En la Cpoca en quc vivi6 Carnot, la _p_rimera ley de la termodinftm1ca, la conserva­
+s_0.ruJi;: !a energia, no era conocida. Los razonamientos de Carnot, sin embargo, fue­
+ron hechos tan cuidadosamente que jSon vatidos aunque en su Cpoca no se conocie­
+sc la primcr,a ley ! AlgUn ti em po despuCs, Clausius hizo una derivacicin mas sencilla 
+y que se pudo entender mas racilmente que el razonamiento tan sutil de Carnot. 
+Pero resull6 quc Clausius ~upuso, no la comervacicin de la energia en general, sino 
+que cl ca/or se conscrvaba de acucrdo a la teoria cal6rica, que sc demostr6 mils 
+tarde que era falsa. Por esto se ha d1cho con frecucncia que el razonamiento de Car­
+not era errcineo. Pero su razonamiento era totalmente correcto. Solamente la vcrs16n 
+simp!ificada de Clausius, que todo cl mundo lee, era incorrecta. 
+Asi, pues, jla llamada segunda ley de la termodin<lmica fue descubierta por Car­
+not &ntes que la primera ley! Seria intcrcsante darles el razonamicnto que hizo 
+Carnot sin usar la primera ley, pero no lo haremos porque queremos aprender fisica 
+y no historia. Usarcmos la pnmera Icy desde el principle, a pesar de que sc pucde 
+hacer una gran cantidad de cosas sin ella. 
+Comencemos estableciendo la primera Icy , la comervaci6n de la encrgia: si se 
+tiene un sistema y se lo calienta y se realiza trabajo sobrc er, entonces su energia 
+aumenta en el calor que se le ha dado y en el trabajo que se ha efectuado. Podemos 
+escribir esto como siguc: El calor Q dado al sistema mils el trabajo W cfcctuado 
+sobre el s1stema. es el aumcnto de energia U dcl mismo; esta encrgia se !lama a ve­
+ces energia mterna: 
+VariaciOn de U=- Q + W (44.l) 
+La variaci6n de Use puede representar c0mo ai'iadiendo un poco de calor .1Q y aiia 
+d1endo un poco de trabajo .1. W: 
+!!.U = 6Q + !!.W, (44.2) 
+quc cs la forma diferencial de la misma Icy. Sabcmos esto muy bien por un capitulo 
+anterior. 
+44-2 Segunda ley 
+Ahora, i,Y quC pasa con la segunda ley de la termodinitmica'! Sabcmo~ que si 
+realirnmos un trabajo contra el roce, digamos, el trabajo perdido es igual al calor 
+producido. Si realizamos trabajo en una habitaci6n a tempcratura Ty lo realizamos 
+muy dcspacio, la temperatura de la habitaci6n no cambia mucho y hemos converti­
+do trabajo en calor a una tcmperatura dada. LQuC hay de la pos1bilidaJ mversa? 
+LES pos1ble convenir calor en trabajo a una tempcratura dada? La '.;:cgunda ley de la 
+~ermodinitmica afirma que no es posible. Seria muy conveniente que pudiCsemos 
+44-4
+
+calor en trabajo simplemente invirtiendo un proceso como el de roce. Si considera­
+mos solamente la conservaci6n de la energia, podriamos pensar que la energia cal6-
+rica, como la de los movimientos vibracionales de las moteculas, podria dar un 
+suministro muy bueno de energia Uti\. Pero Carnot supuso que es imposible extraer 
+energia del calor a una sola temperatura. En otras palabras, si todo el mundo estu­
+viese a la misma temperatura, no se podria convertir nada de su energia cal6rica en 
+trabajo: mientras que el proceso de convertir trabajo en calor puede ocurrir a una 
+temperatura dada, el proceso inverso de que el calor nos produzca trabajo no puede 
+ocurrir. Especfficamente, Carnot supuso que n? se _puede_ t.<;n_nar.3oa1or a una cierta_ 
+temperatura y convertirlo en trabajo sin ningUn otro cambio en_ el sistema o_ en el 
+triedio ambiente. 
+La Ultima frase es muy importante. Supongan que tenemos una lata de aire com­
+primido a una cierta temperatura y dejamos que el aire se expanda. Puede realizar 
+un trabajo; puede, por ejemplo, mover un martillo. Se enfria un poco en la expan­
+si6n, pero si tuviesemos un gran mar, como el oceano, a una temperatura dada ---un 
+dep6sito de calor- lo podriamos calentar de nuevo. Por lo tanto, hemos sacado calor 
+de! mar y hemos realizado un trabajo con el aire comprimido. Pero Carnot no esta­
+ba equivocado, ya que no lo hemos dejado todo como estaba. Si volvemos a com­
+primir el aire que dejamos expandir, encontraremos que estamos realizando un tra­
+bajo adicional, y cuando hayamos terminado descubriremos que no s61o no hemos 
+obtenido ningU:n trabajo de! sistema a la temperatura T, sino que realmente hemos 
+puesto alguno dentro. Debemos hablar solamente de situaciones en las que el resul­
+tadn neto de todo el proceso es sacar calor y convertirlo en trabajo, del mismo 
+modo que el resultado neto de realizar un trabajo contra el roce es tomar trabajo y 
+convertirlo en calor. Si nos movemos en un camino cerrado, podemos llevar el siste­
+ma precisamente a su punto de partida, con el resultado neto de que realizamos 
+trabajo contra el roce y produjimos ca1or. t,Podemos invertir el proceso? Accionen 
+un interruptor para que todo vaya al reves, t,es que el roce realiza trabajo en con­
+tra nuestra y enfria el mar? SegUn Carnot: ino! Por consiguiente, supongamos que 
+esto es imposible. 
+Si ello fuera posible, significaria, entre otras cosas, que podriamos sacar ca!or de 
+un cuerpo frio y d<i.rselo a un cuerpo caliente sin ningU.n gasto, por asi decir. Pero 
+nosotros sabemos que es natural que una cosa caliente de calor a una fria; si colo­
+camos simplemente juntos un cuerpo caliente y otro frio, y nada mas, jnucstra expe­
+riencia nos asegura que no va a suceder que el cuerpo caliente se ponga mas Ca­
+liente y el frio mas frio! Pero podriamos obtener trabajo extrayendo calor del ocea­
+no, digamos, o de cualquier otra cosa a una sola temperatura, y ese trabajo se po­
+dria convertir de nuevo en calor mediante fricci6n a otra temperatura Por ejemplo, 
+el otro brazo de una maquina que produce trabajo podria estar frotando algo que ya 
+esta caliente. El resultado neto seria sacar calor de un cuerpo "'frio '', el oceano, y 
+darselo a un cuerpo caliente. Ahora bien, ~-a h_ip6te_sis de Carnot, segunda Jey de la 
+termodinamica, algunas veces se enuncia coffio sigue: El calor no puede, par si mis­
+mo, fluir de un objeto frio a uno caliente. Pero, como acabamos de ver, estos dos 
+enunciados son equivalentes: en primer lugar, que n,9 s~ P!!ede idear un proceso 
+cuyo Unico resultado es convertir calor en trabajo a una sola temperatura, y en se­
+gundo lugar que no se puede hacer que el calor por si mismo pase de un cuerpo 
+frio a uno caliente. U saremos principalmente la primera form a. 
+El analisis de Carnot de las maquinas tfamicas es muy semejante al razonamien­
+to que hicimos sobre las m;iquinas elevadoras de peso en nuestra discusi6n de la 
+conservaci6n de la energia
+
+en el capitulo 4. En realidad, dicho razonamiento tom6 como modelo el de Carnot 
+sobre las mii.quinas termicas, por lo que el presente anii.lisis Jes sonar.it muy parecido. 
+Supongan que construimos una m.iquina termica que conticne en alglln lugar 
+una "caldera" a una temperatura T.. Se saca un cierto calor Q1 de la caldera, la mil­
+quina de vapor realiza algUn trabajo W, y tambien se entrega cierto calor Q2 a un 
+"condensador" a otra temperatura T2 (Fig. 44-3). Carnot no dijo cu.into calor ya 
+que no conocia la primera ley, ni tampoco us6 la ley de que Q1 era igual a Q2 por­
+que no creia en el!a. Aunque todo el mundo pensaba que de acuerdo a la teoria cal6-
+rica los calores Q1 y Q2 tendrian que ser igualcs, Carnot no lo dijo --esto es pane 
+de lo habilidoso de su razonamiento-. Si nosotros si usamos la primera Jey, encon­
+tramos que el calor entregado Q2 es iguaJ al calor sacado Q1 menos el trabajo reali­
+zado W: 
+(44.3) 
+(Si tenemos una especie de proceso ciclico donde se devuelve el agua a la caldera 
+despues de haber sido con'densada, dircmos que hemos absorbido el calor Q1 y 
+hemos realizado el trabajo W, durante cada ciclo, para una cierta cantidad de agua 
+que ha completado el ciclo.) 
+Fig. 44-3. Mi!iquinaterm1ca 
+Ahora construiremos otra m.iquina y veremos si no podemos obtener mas tra­
+bajo entregando la misma cantidad de calor a la temperatura T1, con el condensador 
+aim a la temperatura Tr Usaremos la misma cantidad de calor Q1 de la caldera y 
+trataremos de obtener mti.s trabajo de! que obtuvimos de la m<iquina de vapor, qui­
+zii.s usando otro fluido, por ~ ejemplo alcohol. 
+44~3 Mii.quinas reversibles 
+Ahora debemos analizar nuestras milquinas. Hay una cosa clara: perderemos al­
+ga si las mitqumas contienen partes en las que haya roce. La mejor maquma sera 
+una sin roce. Suponemos, entonces, la misma idealizaci6n que hicimos cuando estu­
+diiimos la conservaci6n de la energia, esto es, una milquina sin roce de ninguna 
+clase. 
+Debemos considerar tambien lo an&logo del movimicnto sin roce: transferencia 
+de ca!or "sin race". Si colocamos un objeto caliente a una alta temperatura junto a 
+uno frio, para que fluya el calor, entonces no es posible hacer que el calor fluya en 
+direcci6n opuesta mediante un cambio muy pequeiio en la temperatura de cualquiera 
+de los dos objetos. Pero cuando tenemos una mti.quina pr<i.cticamente sin race, si 
+la empujamos con una pequei'\a fuerza en una direcci6n, marcha en esa direcci6n, 
+y si la empujamos con una pequei'\a fuerza en la otra direcci6n, marcha en esa otra 
+direcci6n. Necesitamos encontrar lo an<ilogo aJ movirniento sin race: transferencia de 
+calor cuya direcci6n podemos invertir con s61o un cambio pequeiiito. Si la diferencia 
+de temperaturas es finita, ello es imposib!e, pera si nos aseguramos de que e! calor 
+fluya siempre entre dos cosas 
+44-6
+
+esencialmente a. la misma temperatura, con una diferencia infinitesimal solamente 
+para que el flu10 vaya en la direcci6n deseada, se dice que el flujo es reversible 
+(Fig. 44-4). Si calentamos .un poco el objeto de la izquierda, el calor fluiril hacia 
+la derecha; si lo endriamos un poco, el calor fluiril hacia la izquierda. Por lo que en­
+contramos que la milquina ideal es la llamada milquina reversible, en la que todo 
+proceso es reversible en el sentido que mediante cambios minimos, cambios infini­
+tesimales, podemos hacer que la milquina vaya en la direcci6n opuesta. Esto signi­
+fica que en ninglm lugar de la milquina debe haber roce apreciable, y queen ninglln 
+lugar de la misma debe haber un sitio donde el calor de los depOsitos, o la llama 
+de la caldera, este en contacto directo con algo decididamente mils frio o mils ca· 
+liente. 
+44-4. Transferencia reversible de calor. 
+Consideremos, pues, una milquina idealizada en la que todos los procesos son 
+reversibles. Para mostrar que ta! ccsa es posible en principio, !es daremos un ejem­
+plo de un ciclo de miiquinas que puede ser o no pr:ictico, pero que por lo menos es 
+reversible seglln la idea de Carnot. Supongan que tenemos un gas en un cilindro 
+equipado con un pistOn exento de roce. El gas no es necesariamente un gas perfecto. 
+El fluido ni siquiera tiene que ser un gas, pero para especificar digamos que tenemos 
+un ghs perfecto. Supongan, tambifn, que tenemos dos fuentes de calor T, y T, 
+-dos cosas enormes que tienen ternperaturas fijas T, y T,-. Supondremos en este caso 
+que T1 es mayor que T2• Calentemos primero el gas dejando que se expanda al mis­
+mo tiempo, mientras esta en contacto con la fuente de calor T1• Mientras hacemos 
+esto, tirando de! pist6n muy despacio cuando el calor fluye dentro de! gas, nos ase­
+guraremos de que la temperatura de! gas seril muy parecida a T1• Si tiramos de! 
+pist6n muy ril.pido, !a temperatura del gas sed mucho mits baja que T1 y asi el pro­
+ceso no sera muy reversible, pero si tiramos de eJ Jo suficientemente despacio, la 
+temperatura de! gas nunca se apartara mucho de T1• Por otro ]ado, si empujamos el 
+pist6n hacia dentro muy despacio, la temperatura serit solamente un infinitesimo mas 
+alta que T1 y el calor sera devuelto. Vemos que una expansi6n isoterrnica de esta 
+clase (temperatura constante), efectuada despacio y suavemente, es un proceso re­
+versible. 
+Para entcnder lo que estamos haciendo, usaremos una represcntaci6n (Fig. 44-6) 
+de la presi6n del gas en funci6n del volumen. Cuando el gas se expande la presi6n 
+cae. La curva marcada (l) nos dice c6mo varian la presi6n y el volumen si la tem­
+peratura se conserva ftja en T1• Para un gas ideal esta curva seria PV = NkT1• Du­
+rante una expansi6n isotfarnica, la presi6n disminuye cuando el volumen aumenta 
+hasta que nos detenemos en el punto b. A! mismo tiempo, un cierto calor Q1 debe 
+fluir desde el dep6sito al gas, ya que si el gas se expandiese sin estar en contacto 
+con el dep6sito, se enfriaria, como ya sabemos. Habiendo terminado !a expansi6n 
+ism6nnica, deteniendonos en el punto b, quitemos e! cilindro de! depOsito 
+44-7
+
+~ ~ m 1701 ~ ~ 
+T, r, r, Tl 
+paso (I) Expansi6n isoti!rmica a T 1; paso (3) Compres16n isoti!-rmica a T · 
+•bw'1><d<filo<Q,~ P777l '"'"'"'"lo<Q,
+1,,!,.I " 
+',' ~ ~ ~ 
+paso (2) Expansi6n adiabittica; la t:mper,atut;t paso (4) ~ompresi6n adiab<itica; r, 
+cae de T, a T 2 [a temperatura aumenta de T 2 a T 1 
+Fig. 44-5. Pasos en el c1clo de Carnot 
+y continuemos la expam16n. Ahora no permitimos que entre calor en el cilindro. 
+De nuevo realizamos la expansi6n despacio, por lo que no hay raz6n para que no 
+podamos invertirla y suponemos de nuevo que no hay roce. El contmUa expan 
+diendose y la temperatura d1sminuye, puesto que ahora no el c!lindro. 
+temperatura 
+temperatura 
+bien cada paso, 
+y repetir el ciclo. 
+Vemos que en este diagrama hemos lie\ ado el gas alrededor 
+to, y durante el mismo le hemos dado Q1 a la tempcratura 
+Q1 a la temperatura Ti· Lo intcresante es que cstc ciclo es 
+driamos representar todos los pasos al revCs. Podnamos 
+lugar de hac1a adelante: podriamos haber empcLado en el punto a, a tcmpcrmura 
+7;, expandir seglln la cuna (4), expandtr al.in mas ha'ita la temperatura T absor­
+biendo calor Q2• etc., haciendo el ciclo al TC\ cs. 51 completamos el ciclo en un sent1-
+do, debemos cornumcarle trabajo al gas: ~i lo hacemo~ en cl otro 'ienndo cl ga~ n0~ 
+devuelve el trabaJO. 
+44-8
+
+Fig, 44-6. Cicio de Carnot 
+L, -"------rJ 
+o, o, 
+~·&·· LI . 1 Areautil 
+o,-w o,-w' 
+Fig. 44-7. Maquina reversible A pues­
+ta a funcionar al reves por la maquina 8. 
+Entre parentesis. es facil calcular cuitl es la cantidad total de trabajo, ya que el 
+trabajo durante cualquier expansi6n es la presi6n por la variaci6n de volumen, 
+IPdV. En este diagrama particular, hcmos representado P verticalmente y V hori­
+Zontalmente .. Por consiguiente, si llamamos ya la distancia vertical y x a la horizon­
+tal, nos da (ydx -en otras palabras, e! itrea bajo la curva-. Por lo que el itrea bajo 
+cada una di= las curvas numeradas es una medida de! trabajo·cfoctuado por o sabre 
+el gas en el paso correspondiente. Es facil ver que el trabajo neto efectuado es el 
+area sombreada de la figura. 
+Ahora que hemos dado un solo ejemplo de una mit.quina reversible, supondre­
+mos que son posibles otras maquinas de la misma especie. Supongamos que tenemos 
+una mi\quina reversible A quc toma Q1 a TP hace el trabajo W y entrega algUn ca­
+lor a T2• Supongamos ahora quc tenemos cualquier otra mitquina B, hecha por un 
+hombre, ya diseiiada o aUn no inventada, formada de bandas elitsticas, vapor o lo 
+que sea, reversible o no, que estit construida de ta! forma que toma la misma canti­
+dad de calor Q1 a T 1 y !o cede a la temperatura inferior Ti (Fig. 44-7). Suponemos 
+que la mti.quina B efectlla alglln trabajo W. Demostraremos ahora que W no es 
+mayor que W --que ninguna m3.quina puede efectuar mils trabajo que una reversi­
+ble-. ~Por quf? Supongan que en realidad W fuese mayor que W. Entonces podria­
+mos tomar el calor Q1 del dep6sito a T1 y con la m3.quina B podriamos efectuar el 
+trabajo W y entregar algUn calor al dep6sito a T2: no nos importa cuitnto. Hecho 
+esto, podriamos ahorrar alga de! trabajo W, que se supone mayor que W; podria­
+mos usar una parte W de fl y guardar el resto W - W para trabajo Util. Con el 
+trabajo W podr!amos hacer que la m3.quina A funcionase a! reves ya que es una 
+mtiquina reversible. Absorbed algUn calor de! dep6sito a Ti y devolveril Q1 al depO­
+sito a T1• Despufs de este doble ciclo, el resultado neto seria que hemos puesto to­
+das las cosas como las teniamos al principio y que hemos realizado a!glln trabajo 
+adicional, W - W, y todo lo que ha.briamos hecho seria jextraer energia de! dep6sito 
+a T1 ! Tuvimos cuidado de devolver el calor Q1 al dep6sito a T1• Por lo tanto, dicho 
+dep6sito puede ser pequefto y estar ··dentro" de nuestra mftquina combinada A + B, 
+cuyo efecto neto es por lo demits extraer un calor neto W - W del dep6sito a T, y 
+r..:onvertido en trabajo. Pero obtener trabajo Util -
+44-9
+
+de un dcpOsito a una sola temperatura sin 11ingU11 otro cambio e~ imposible de acucr­
+do a! postulado de Carnot; no se puede hacer. Por consigu1ente, ninguna m:lquma 
+que absorbe una cantidad determinada de calor a una temperatura mayor T, y la 
+entrega a la temperatura T, puede efectuar mas trabajo que una m3.quina reversible 
+trabajando bajo las mismas condicmm;s de temperatura. 
+Supongan ahora que la m3.quina B tambiri:n es reversible. Entonces, naturalmente, 
+no s6lo no debe ser W' mayor que W, sino que ahora podemos mvcrt1r el razona­
+micnto y demostrar que W no puede ser mayor que W. Por lo tanto, si las dos m3.­
+quinas son reversibles, ambas debcn rcalizar la misma cantidad de trabajo y as! lle­
+gamos a la brillante conclusiOn de Carnot: si una m3.quina es reversible, no importa 
+cOmo estil diseiiada, porque la cantidad de trabajo que se obtendr<i si la m:iquina ab­
+sorbe una determinada cantidad de calor a la temperatura T1 y entrega calor a 
+alguna otra temperatura T2 no depende en nada de! diseiio de la mdquina. Es una 
+propiedad de! mundo y no de una milquina en particular. 
+Si pudiri:semos encontrar la ley que determina cuilnto trabajo se obtiene cuando 
+se absorbe el calor Q1 a T1 y se entrega calor a T1, esta cantidad seria alga univer­
+sal, independiente de la sustancia. Naturalmente que si conociri:scmos las propiedades 
+de una sustancia particular, podriamos calcularlo y decir entonces que todas las 
+demits sustancias dan la misma cantidad de trabajo en una mitquina reversible. Esta 
+es la idea clave, la pista mediante la cual podriamos encontrar, por ejemplo, la rela­
+ciOn entre cuilnto se contrae una banda elilstica cuando la calentamos y cuilnto se 
+enfria cuando la dejamos contraer. lmaginen que colocamos dicha banda en una 
+m<iquina reversible y hacemos que complete un ciclo reversible. El resultado neto, 
+cantidad total de trabajo efectuado, es esa funci6n universal, esa gran funci6n que 
+es independiente de la sustancia. Yemos asi que las propiedades de una sustancia 
+deben estar limitadas de un cierto modo; no se puede hacer todo lo que uno quiere, 
+o si no se podria inventar una sustancia que se pudiese usar para producir mas que 
+el mix.imo trabajo pennitido cuando se llevase en un ciclo reversible. Este pnnc1p10, 
+esta limitaci6n, es la {mica regla real que sale de la termodinilmica. 
+44-4 Eficiencia de una m3quina idea1 
+Ahora trataremos de encontrar la ley que determina el trabajo W en funci6n de 
+Q1, T1 y Tr Es obvio que Wes proporcional a Qp ya que si consideramos dos mit­
+quinas reversibles en paralelo, ambas trabajando juntas y ambas m3.quinas doblcs, la 
+combinaci6n es tambiCn una mitquina reversible. Si cada una absorbe el ca!or QP las 
+dos juntas absorben 2Q1 y el trabajo efectuado es 2 W, etc. Por lo que es razonable 
+que Wsea proporcional a Q1• 
+El siguiente paso importante es encontrar esta !ey universal. Podemos y queremos 
+hacerlo estudiando una mitquina reversible con una sustancia particular cuyas !eyes 
+conocemos, con un gas perfecta. Tambiri:n es posible obtener la regla med~ante un 
+razonamiento puramente 16gico, sin usar de ninglln modo una sustancia particular. 
+Esta es una de las piezas maestras de! razonamiento fisico y estamos deseosos de 
+mostr<irsela, por lo que la discutiremos dentro de un momenta para aquellos que de 
+seen verla. 
+44-10
+
+Pero antes, usaremos el metodo mucho menos abstracto y simple del citlculo directo 
+para un gas perfecta. 
+Necesitamos solamente obtener formulas para Q1 y Q2 (porque Wes justamente 
+Q1 - QJ, calores intercambiados con los dep6sitos durante la expansi6n o contrac­
+ci6n isotermicas. Por ejemplo, z.cuitnto calor Q1 se ha tornado de! dep6sito a tempera· 
+tura T1 durante la expansi6n isotfrmica I mare ad a (I) en la figura 44-6 I des de el 
+punto a, a presi6n p0 , volumen Vay temperatura T1, hasta el punto b a presi6n p~ 
+volumen Vb y la misma temperatura T1? Para un gas perfecto cada mo!Ccula tiene 
+una energia que depende solamente de la temperatura, y puesto que la temperatura 
+y el nllmero de mo!eculas son iguales en a y b, la energia interna es la misma. No hay 
+cambio en U; todo el trabajo efectuado por el gas, 
+W=tpdV, 
+durante la expansi6n es energia Q1 tomada del dep6sito. Durante la expansi6n, 
+pV= NkT1, o sea 
+y tenemos 
+Qi = lb p dV = lb NkT1 '!!'_ 
+" " v 
+(44.4) 
+o sea que 
+es el calor tornado del dep6sito a T1• Del mismo modo, para la compresi6n a T2 
+I curva (3) de la figura 44-6 I el calor entregado al dep6sito a T2 es 
+(44.5) 
+Para completar nuestro anitlisis necesitamos solamente encontrar una relaci6n entre 
+Vc/Vd y Vb/VQ. Esto lo hacemos observando que (2) es una cxpansi6n adiabittica 
+dcsde b hasta c y durante ella pV"' es una constante. Como pV = NkT, podemos es 
+cribir esto en la forrrla (pV)VY-' = const o, en funci6n de Ty V, en la forma TVY l = 
+= const, es decir 
+(44.6) 
+De modo semejante, como (4), "Jx:·p~~~i6ri dcsde d hasta a, es tambiCn adiabittica, en-
+contra mos 
+(44.6a) 
+Si dividimos esta ecuaci6n por la anterior, encontramos que Vb/Va debe ser igual a 
+VcfV w por lo que los logaritmos de (44.4) y (44.5) son iguales y resulta 
+(44.7) 
+44-11
+
+o, 
+j ' //l///• 
+Fig. 44-8. Las m.3quinas 1 y 2 1untas son 
+equ1valentesalamflquina3. 
+Esta es la relaci6n que andilbamos buscando. Aunque se ha probado para una milqui­
+na de gas perfecta, sabemos que debe ser villida para cualquier mdquina reversible. 
+Ahora veremos c6mo esta ley universal se pudo tambien haber obtenido med1ante 
+un razonamiento 16gico, sin conocer las propiedades de una sustancia particular, 
+co mo sigue. Supongan que tenemos tr es milquinas y tres temperaturas, digamos T1, 
+T, y T,. OigaIT)os que una milquina absorbe el calor Q de la temperatura T y que 
+efectlla una cierta cantidad de trabajo WIJ y que entrega el calor Q1 a la temperatura 
+T1 (Fig. 44-8). Supongamos que otra milquina va al reves entre T2 y T1, y que es de 
+un tamailo ta1 que absorbed el mismo calor Q.1 y entregarit Q2• Tenemos que darle 
+una cierta cantidad de trabajo W32 --que serit negativo porque la mitquina va al rcves. 
+Cuando la primera miiquina completa un ciclo, absorbe el calor Q1 y entrega Q1 a la 
+temperatura T,; pero la segunda miiquma toma el mtsmo calor Q, del dep6sito a 
+temperatura T1 y lo entrega al dep6sito de temperatura T2• Por Jo tanto el resultado 
+neto de las dos mit.quin«,s en tandem es tomar el calor Q1 de T1 y entregar Q2 a T2• 
+Las dos son, pues, equivalentes a una tercera que absorbe Q a T,, efectlla el trabaJO 
+W12 y entrega Q2 a T2, ya que W12 = WD - Wn, como se puede demostrar inmedia­
+tiunente a partir de la primer a ley, co mo sigue: 
+Ahora podemos obtener las !eyes que relacionan las eficiencias de las miiquinas, por­
+que claramente debe haber alguna clase de relaci6n entre las eficiencias de las m3.­
+quinas que funcionan entre las temperaturas T1 y T1, y entre T1 y T1, y entre T1 y T2• 
+Podemos aclarar mucho el razonamiento de! siguiente modo: acabamos de ver 
+que siempre p<>demos relacionar el calor absorbido a T 1 con el entregado a T2, 1w­
+contrando el calor entregado a cualquier otra temperatura T1• Por consiguiente, po­
+demos obtener todas las propiedades de las miiquinas si introducimos una tempera­
+tura patr6n y analiz!l:ndolo todo con ella. En otras palabras, si conociesemos la 
+eficiencia de una mit.quina que funciona entre una cierta temperatura T y una cierta 
+temperatura patr6n arbitraria, p<>driamos calcular la eficiencia para cualquier otra 
+difercncia de temperatura. Como suponemos que estamos usando solamente milquinas 
+reversibles, podemos trabajar bajando desde la temperatura inicial a la temperatura 
+patr6n 
+44-12
+
+y subir de nuevo a la temPeratura final. Definiremos la temperatura patr6n arbitra­
+riamente como de un grado. Tambien adoptaremo~ un simbolo especial para el calor 
+que es entregado a esta temperatura patrOn: lo !lamaremos Qs. En otras pa!abras, 
+cuando una m<iquina reversible absorbe el calor Q a la temperatura T, entregar<i; 
+a la temperatura unitaria, un calor Qs- Si una mdquina que absorbe Q1 a Tl' entrega 
+el calor Qs a un grado, y si una mdquina que absorbe Q2 a la temperatura T2 entrega 
+tambien la misma camidad de ca/or Qs a un grado, se sigue que una milquina que 
+absorbe el calor Q1 a la temperatura T1 entregard el ca/or Q2 si funciona entre T1 
+y T2, como ya habiamos demostrado considerando mitquinas que funcionan entre tres 
+temperaturas. Por lo que todo lo que tencmos rcalmente que hacer es encontrar 
+cuitnto calor Q, necesitamos dar a la temperatura T, para entregar una cierta cart­
+tidad de calor Qs a la tempcratura unitaria. Si descubrimos esto, lo tenemos todo. 
+El calor Q es, por supucsto, una funci6n de la temperatura T. Es f<icil ver que el calor 
+debe aumentar cuando lo hace la temperatura, porque sabemos que se necesita trilbajo 
+para que una m<iquina funcione al reves y entregue calor a una temperatura mas alta. 
+Es tambifo facil ver que el calor Q1 debe ser proporciona! a Qs- Asi, la gran ley es 
+alga como esto: para una cantidad dada de calor Qs entregada a un grado por una 
+m<iquina que funciona a la temperatura de T grados, el calor Q absorbido debe ser 
+esa cantidad Qs por una funci6n creciente de la temperatura: 
+Q ~ Qsf(T). (44.9) 
+44-5 Temperatura termodiniimica 
+A estas alturas no vamos a tratar de encontrar la formula para esa funciOn 
+creciente de la temperatura en tCrminos de nuestra familiar cscala de temperatura 
+de mercuric. sino que definiremos la temperatura mediante una nueva escala. En 
+un tiempo se definia "la temperatura" arbitrariamcnte dividiendo la dilataciOn de! 
+agua en grados igualcs de un cierto tamai'io. Pero cuando se mide la temperatura 
+con un termometro de mercurio, se cncuentra que ya los grados no son iguales. Pe­
+ro ahora podemos dar una deflniciOn de temperatura que es independienle de cual 
+quier sustancia particular. Podemos usar aquella funci6n fl..71 que no depende de lo 
+que usemos. ya que la eficiencia de estas milquinas reversibles es independiente de 
+las sustancias con que trabajan. Como la funciOn que encontramos aumenta con la 
+temperatura, definiremos la funciOn misma como temperatura, medida en unidadcs 
+de la temperatura patr6n de un grado, en la forma siguiente: 
+(44.10) 
+donde 
+Qs = S· 1°. (44.11) 
+Esto significa que podemos decir lo caliente que cst<i un objcto encontrando cu<in­
+to calor es absorbido por una m<iquina reversible que trabaja entre la temperatura 
+del objeto y la temperatura unitaria (Fig. 44-9). Si se toma de una caldera siete ve­
+ces mas ca!or del que es entregado a un condensador de un grado, la temperatura 
+de la caldera se diril. que es de siete grados, y asi sucesivamente. Por consiguiente, 
+midiendo cuitnto calor es absorbido a diferentes tempcraturas, determinamos la tem­
+peratura. La temperatura 
+4-13
+
+w-c-s·l' 
+Fig. 44-9. Temperatura termodinflmica 
+absoluta. 
+definida de este modo se denomina temperatura termodindmica absoluta, y es inde­
+pendiente de la sustancia. Desde ahora en adelante, usaremos exclusivamente esta 
+definici6n*. 
+Ahora nos damos cuenta que cuando tenemos dos milquinas, una trabajando 
+entre T, y un grado, la otra cntre T, y un grado, y entregan el mismo caJor a la tem­
+peratura unitaria, los calores absorbidos deben estar relacionados mediante 
+(44.12) 
+Pero esto significa que si tcncmos una sola mitquina que funciona entre T, y T,, 
+entonces el resultado del anitlisis total, el gran finale, es que Q, es a T, como Q, e:. 
+a T,, si la m<iquina absorbe Q, a la temperatura T, y entrega el calor Q, a la tem­
+peratura T,. Siempre quc la mii.quina sea reversible, se debe seguir esta relaci6n en­
+tre los calores. Esto es todo lo que hay: f:stc cs el centro de\ uni verso termodin3-
+mico. 
+Si todo esto es lo que hay en termodinilmica. (.por qui: se la considera una mate­
+ria tan dificil'.' Al resolver un problema quc envuclve una masa dada de una sustan­
+cia, cl estado de la sustancia en cualquier momento se puede describir diciendo cuitl 
+es su temperatura y cual es su volumcn. Si conocemos la tempcratura y el volumen 
+de una sustancia, y quc la presiOn es una cierta funci6n de la temperatura y dcl vo­
+lumen, conocemos cntonces !a cncrgia interna. Alguicn podria decir: '"Yo no quiero 
+hacerlo asi. Digame la temperatura y la prcsi6n y yo le dirf: el vo!umcn. Yo puedo 
+considerar el vo!umcn como una func16n de la la 
+interna como una funci(m de la tempcratura 
+la cual la termodinamica es dificil. porque uno usa 
+solamente pud1esemos reunirno~ por una ~ola vez y dccidir 
+variables y aceptarlo asi siempre, seria bastantc f<'icil.
+
+Comenzamos. Para pbtener nuestra primcra conclusi6n, combinamos ambas le­
+yes, la ley de la conservaci6n de la energia y esta ley que relaciona los calores .Q. y 
+Q,, y podemos obtener facilmente la eficiencia de una mciquina reversible. Segun la 
+primera ley, tenemos que W"""""' Q,-Q,. SegUn nuestro nuevo principio, 
+por !o que el trabajo resulta ser 
+W = Q1 (1 - ~) = Qi Ti - Tz • 
+T1 T1 (44.13) 
+Eficiencia = ~ = !Lt"1 T 2 • (44.14) 
+La eficiencia no puede ser ffiayor que la unidad y la temperatura absoluta no puede 
+ser menor que cero, cero absoluto. Asi, pues, coma T, dcbe ser positiva, la eficien­
+cia es siempre menor que la unidad. Esta es nuestra primera conclusi6n. 
+44-6 Entropia 
+La ecuaci6n (44.7) o la (44.12) pueden ser interpretadas de una manera especial. 
+Trabajando siempre con mii.quinas reversibles, un calor Q, a !a temperatura T, es 
+"equivalente., a Q, a T, si Qj T, = Q,/ T,, en el sentido de que cuando se absorbe 
+uno se entrega el otro. Esto sugiere que si le damos algUn nombre a QI T, podemos 
+decir: en un proceso reversible se absorbe tanto QIT coma se libera; no hay ganan­
+cia o pfadida de QI T. Este QI T se !lama entrop[a y entonces decimos que .. no hay 
+variaci6n neta de entropia en un cido reversible". Si Tes 1°, la entropia es QI 1° o 
+usando el simbolo que le dimos, Q5/ 1° = S. ComUnmente S es la letra usada para 
+entropia y es numfaicamente igual al calor (que hemos Hamada Q5 ) entregado a un 
+dep6sito de I 0 (la emropia no es un calor, es un cal or di vi dido por una tempera­
+tura, por lo que se mide en joules por grado). 
+Ahora bien, es interesante que ademii.s de la presi6n, que es funci6n de la tem­
+peratura y de! volumen, y la energia interna, que es funci6n de temperatura y volu­
+men, hayamos encontrado otra cantidad que es una funci6n de! estado, esto es, la 
+entropia de la sustancia. Tratemos de exp!icar c6mo la calculamos y que queremos 
+decir cuando la llamamos una "funci6n de! estado". Consideren el sistema en do::. 
+estados diferentes, muy parecido a lo que teniamos en el experimento donde reali­
+zarnos las expansiones adiabii.ticas e isotermicas. (Entre parentesis, no hay necesidad 
+de que una rnilquina termica tenga solamente dos dep6sitos, podria tencr tres o cua­
+tro temperaturas diferentes a las que toma y entrega calor, etc.) Podemos movemos 
+sobre un diagrama pV en todo momento e ir de un estado a otro. En otras palabras, 
+podriamos decir que el gas estii. en un derto estado a 
+44-15
+
+y luego pasa a otro b, y nosotros exigiremos que esta transici6n, de a a b, sea re­
+versible. Supongan ahora que a todo lo largo de\ camino desde a hasta b tenemos 
+pequefios dep6sitos a temperaturas diferentes, de modo que el ca!or dQ sacado de 
+la sustancia en cada uno de los pequefios pasos se entrega a cada dep6sito a la tem­
+peratura correspondiente a! punto del camino. Conectamos entonces estos dep6sitos, 
+mediante miiquinas termicas reversibles, a un solo dep6sito a la temperatura unita­
+ria. Cuando hayamos terminado de llevar la sustancia desde a hasta b, llevaremos 
+todos los dep6sitos a su estado inicial. Cualquier cantidad de calor dQ que se ha 
+absorbido de !a sustancia a temperatura T ha sido convertida ahora por una mit­
+quina reversible y se ha entregado una cierta cantidad de entropia dS a la tempera­
+tura unitaria: 
+dS ~ dQ/T. (44.15) 
+Calculemos la cantidad total de entropia que ha sido entregr..da. La diferencia 
+de entropia, o entropia necesaria para ir de a a b mediante esta transformaci6n re­
+versible particular, es la entropia total, el total de entropia que sc ha tornado de los 
+pequefios dep6sitos y que se ha entregado a la tcmperatura unitaria: 
+(44.16) 
+Hay una pregunta: ,:,Depende la difercncia de entropia de! camino seguido? Hay 
+mils de un camino para ir de a a b. Recuerden que en el ciclo de Carnot podiamos 
+ir de a a c, en la figura 44-6, expandiendo primero isotCrmicamente y luego adiabit­
+ticamente; o podiamos expandir primero adiabiiticamente y luego isotl!rmicamente. 
+La pregunta cs si !a variaci6n de entropia que tiene lugar cuando vamos de a ab, 
+en la figura 44-10, es la misma seglln sigamos un camino u otro. De be ser igual, 
+puesto que si hiciesemos el cic!o completo, yendo hacia adelante por un camino y 
+hacia atrits por el otro, tendriamos una mliquina reversible y no habria perdida de 
+calor en el dep6sito a temperatura unitaria. En un ciclo totalmente reversible, no se 
+debe tomar ningU.n calor del dep6sito a temperatura unitaria, por lo que la entropia 
+Dep0'it°'1 
+Milquinas 
+··-~. 
+(_/AS .. St>-s~ 
+Cambio total de entropia -o 
+Fig. 44-10. Variaci6n de entropfa Fig. 44-11. Variaci6n de entropia en 
+durante una transformac16n reversible. un c1clo completamente reversible. 
+44-16
+
+necesaria para ir de a a b es igual siguiendo diferentes caminos. Es independiente 
+def camino y depende solamente de los puntos extremos. Podemos decir, por con­
+siguiente, que hay una cierta funci6n, que !lamamos entropia de la sustancia, que 
+depende solamente de! estado, es decir, solamente de! volumen y de la temperatura. 
+Podemos encontrar una funci6n S( V,1) que tiene la propiedad de que si calcula­
+mos la variaci6n de entropia en termino<; del ca!or dcjado a la temperatura unita 
+ria, cuando la sustancia se mueve segUn cualquier camino reversible, entonces 
+(44.17) 
+donde dQ es el calor sacado de la sustancia a la temperatura T. Esta variaci6n 
+total de entropia es la diferencia entre la entropia calculada en los puntos inicial y 
+final: 
+(44.18) 
+Esta expresi6n no define completamente la entropia, sino mils bien solamente la di­
+ferencia de entropia entre dos estados diferentes. Unicamente si podemos evaluar 
+la entropia para un estado especial, podemos en realidad definir S en forma absoluta. 
+Durante mucho ticmpo se creyU que la entropia absoluta no significaba nada 
+--que s61o se podrian definir diferencias--, pero por fin Nernst propuso lo que llamO 
+teorema ca!Orico, que tambiCn se llama tercera ley de la termodin<imica. Es muy 
+senci!!o. Diremos en quC consiste, pero no explicaremos por que es v<ilido. El pos­
+tulado de Nernst afirma simplemente que la entropia de cualquier objeto es cero en 
+el cero absoluto. Sabcmos de un caso de r y V, cuando T = 0, donde S es cero; 
+y asi podemos obtener la cntropia en cualquier otro punto. 
+Para ilustrar estas ideas, calculemos la entropia de un gas perfecto. En una ex 
+pansi6n isotermica (y, por lo tanto, rever~ible), I dQ/ Tes Q/ T, puesto que Tes cons­
+tante. Por consiguiente, segim (44.4) la variaciOn de entropia es 
+y por lo tanto S(V,7) = Nk ln V mas alguna funci6n de T imicamente. t,COmo 
+depende S de T! Sabemos que para una expansiOn adiabiltica reversible. no se in­
+tercambia ca/or. Luego, la entropia no cambia aunque V lo haga, siempre que T 
+tambien cambie. de tal forma que TVI -1 -'--" const. c:,Puedcn ver que esto implica que 
+S(V, T) = Nk [1n V + ;y-~J ln r] +a, 
+don de a es una constante independiente tanto de V co mo de T? I a se llama cons­
+tante quimica. Depende de\ gas en cuesti6n y se puede determinar experimentalmente 
+a partir de\ teorema de Nernst midiendo el calor liberado al enfriar y condensar el 
+gas hasta que ha pasado a s6lido (o en el caso del hello, a liquido) a o~, intcgrando 
+44-17
+
+r dQ/ T. Tambifo se puede determinar te6ricamente mediante la constante de Planck 
+Y la mecitnica cuitntica, pero no lo estudiaremos en este curso]. 
+Ahora selialaremos algunas propiedades de la entropia de las cosas. Re<::orde­
+mos, en primer lugar, que si vamos segUn un c!clo reversible de a ab, la entropia de 
+la sustancia cambiarit en Sb - Sa. Y tambi6n recordamos que a medida que recorre­
+mos el camino, la entropia --calor entregado a la temperatura unitaria- aumenta 
+de acuerdo a la regla dS --,- dQ/T, donde dQ es el calor que quitamos de la sus­
+tancia cuando ~u temperatura es T. 
+Ya sabemos que si tenemos un ciclo reversible, la entropja total de todo no varia, 
+ya que el calor Q, absorbido a T, y el calor Q, entregado a T, corresponden a va­
+riacioncs igualcs y opuestas de entropia, por lo que la variaci6n neta de entropia es 
+cero. En consecuencia, en un ciclo reversible no hay cambio en la entropia de nada, 
+incluyendo los dep6sitos. Esta regia se puede pare.:er a la conservaci6n de la ener­
+gia, pero no lo es; se aplica solamente a ciclos reversibles. Si incluimos ciclos irre­
+versibles no hay ley de conservacibn de la entropia. 
+Daremos dos ejemplos. En primer lugar, supongan que hacemos trabajo irrever­
+sible sabre un objeto mediante r6ce, generando un ca!or Q en a!glln objeto a 
+tcmperatura T. La cntropia aumenta en Q/ T. El calor Q es igual a! trabajo y asi 
+cuando efectuamos una cierta cantidad de trabajo por roce contra un objeto cuya 
+temperatura es T, la entropia de todo el mundo aumenta en WIT. 
+Otro ejemplo de irreversibilidad es 6ste: si juntamos dos objetos que estitn a tem­
+peraturas diferentes, T, y T, digamos, una cierta cantidad de calor fluirit de! uno al 
+otro espontilneamente. Supongan, por cjcmplo que colocamos una piedra caliente 
+en agua fria. Entonces, cuando una cierta cantidad de calor dQ ha pasado de T, a 
+T,, z.cuilnto cambia la cntropia de la piedra caliente'! Disminuye en !J.Q/T,. ;,Cuim­
+to cambia la entropia de! agua? Aumenta en dQ/T. El ca\or fluini., naturalmente. 
+s61o desde la temperaturn mils alta T, a la mils baja T, por lo que L'iQ es positiva 
+si T, es mayor que T,. Asi, pues. la variaciOn de entropia de todo el universo es 
+positiva yes la diferencia entre las dos fraccioncs: 
+(44.19) 
+Vale entonces la sigmente proposiciOn: la entropia de todo el universo aLJmenta 
+en cualquier proccso que es irreversible. Solamcnte en procesos reversibles la en­
+tropia si permanece constante. Como ningtin proceso cs absolutamente reversible. 
+siempre hay por lo meno~ una pcqucii.a ganancia en la entropia: un proceso rever­
+sible es una idealirnc10n en la que hemos hecho minima la ganancia de entropia. 
+Dcsafortunadamente, no vamos a ir muy lejos dentro del campo de la termodi­
+nilmica. Nuestro propOsito es solamente ilustrar las ideas principales mvolucradas. 
+asi coma las razones de por quC es posible hacer tales argumentos, pero no u~are­
+mos mucho la termodinilmica en este curso. Los ingeniero~ y particularmente lo~ 
+quimicos usan la termodinilmica con mucha frecuenc1a. A~i quc dcbcmo<; aprender 
+nuestra termodinii.mica priictica en quimica o en ingemeria. Como no vale la pena 
+repetir las cosas, solamente discutiremos algo del origen de la teoria en lugar de 
+entrar en detalles de aplicaciones particulares. 
+44-18
+
+Tabla44-l 
+Resumen de las !eyes de la termodin3mica 
+Primera ley: 
+Calor dado a un sistema + Trabajo efectuado sabre el sistema = Aumento en la 
+energia interna de! sistema: 
+Segunda fey: dQ + dW = dV. 
+Es imposible un proceso cuyo Unico resultado final sea tomar calor de un dep6sito 
+y convertirlo en trabajo. 
+Ninguna m3.quina tfrmica que toma calor Q1 de T1 y que entrega calor Q2 a T 2 
+puede efectuar mils trabajo quc una m3.quina reversible, para la cual 
+W = Q1 - Q~ = Qi (~1-;1 T2). 
+La entropia de un Sistema se define asi: 
+(a) Si se aiiade reversiblemente ei cal or .:1 Q a un sistema a la temperatura T, el 
+aumento de entropia de\ sistema es .1S = .1Q IT. 
+(b) AT= 0, S = 0 (tercera ley). 
+En un cambio reversible, la entropia total de todas las partes del sistema (incluyen­
+do dep6sitos) no varia. 
+En un cambio irreversible, la entropia total de! sistema siemprc aumenta. 
+Con frecuencia las dos !eyes de la termodin3.mica se enuncian asi: 
+Primera ley: la energia del universo es siempre constante. 
+Segunda fey: la entropia de! universo siempre est.it aumentando. 
+No es un buen enunciado el de la segunda ley; no dice, por ejempio, que en un ci­
+clo reversible la entropia perrnanece constante. ni tampoco dice exactarnente que 
+es la cntropia. Es s61o un rnodo ingenioso de recordar las dos ]eyes. pero no nos 
+dice en realidad exactarnente de 4ue tratan. Hcmos resumido !as !eyes discutidas en 
+este capltulo en la tabla 44-1. En el prOxirno capitulo aplicarcrnos estas !eyes para 
+descubrir la relaciOn entre cl calor generado en la expansic'm de una banda e!Ustica 
+y la tensiOn adicional cuando se la ca!ienta. 
+44-19
+
+45 
+Ejernplos de terrnodimirnica 
+45-1 Energia interna 
+45-2 Aplicaciones 
+45-1 Energia intcrna 
+45-3 La ecuaciOn de Clausius-Cla­
+peyron 
+La termodin<i.mica es bantante dificil y compleja cuando llegamos a aplicar!a y no 
+nos compete en este curso profundizar mucho en las aplicacioncs. El tema es de 
+muchis1ma importancia, naturalrncnte. para ingenleros y quimicos. y los que esten 
+mtere~adm en el mismo pueden enterarse de las aplicaciones en fisicoquimica y en 
+termodin:imica para ingenieros. Hay tambiCn buenos libros de referencia, tal como 
+Heat and Thermodynamics de Zemansky. donde se puede profundizar el tema. En 
+la Fncyc!opedia Britannica, dcc1mocuarta ed1c16n, se puede encontrar articulos exce­
+lentes sabre termodinii.mica y termoqulmica, y en el articulo sobre quimica. las seccio­
+nes de fisicoquirnica, vaponwcion. licucfaccion de gases y otros. 
+La tcrmodinil.mica cs complicada porque hay muchas mancras diferentes de des­
+cribir la rnisrna cosa. Si deseamos describir el comportamiento de un gas. podemos 
+decir que la prcsiOn depcnde de la tempcratura y del volumen o que el volumcn de­
+pende de la temperatura y la presi6n. Si consideramos la energia interna U, podriamos 
+decir que dcpcnde de la temperatura y e! volurnen, si esas sun las variables que hemos 
+elcgido; pcro tambifo podriamos dccir que depende de la temperatura y la presi6n, o 
+!a presi6n y t'I volumen. y asi sucesivamente. En el Ultimo capitulo discutimos otra 
+funci6n de ill temperatura y cl volumcn llamada entropia S; de~de luego podemos 
+construir tantas funciones de esas variables como queramos: U--TS es una funci6n de 
+la temperatura y el volumen. Tenemos, pues, un gran nUmero de cantidades diferentcs 
+que puedan ser funciones de muchas combinaciones difercntes de variables. 
+45-1
+
+En primer lugar, consideraremos entonces Unicamente un sistema de variables in­
+dependientes: temperatura y volumen. En segundo lugar, s6lo discutiremos dos fun­
+ciones dependientes: la energia interna y la presi6n. Todas las otras funciones se 
+pueden obtener a partir de estas, por lo que no es necesario discutirlas. Aun con estas 
+!imitaciones, la termodinitmica es un tema bastante dificil jpero no de! todo imposible! 
+Recordemos primero un poco de matemittica. Si una cantidad es funci6n de dos 
+variables, el concepto de derivada de la cantidad requiere un examen mas cuidadoso 
+queen el caso en quc hay una sola variable. ~Que entendemos por derivada de la pre­
+si6n respecto a la temperatura? El cambio de presi6n que acompaila a un cambio de 
+temperatura depende en parte, por supuesto, de lo que le ocurre al volumen mientras 
+T cambia. Debemos especificar la variaci6n de V para que el concepto de derivada 
+rcspecto a T tenga un significado preciso. Podria interesarnos. por ejemplo. la rapidez 
+de variaci6n de P con T si sc mantiene V constante. Este cociente es simplemente la 
+derivada ordinaria que escribimos comUnmente como dPldT. Habitualmente, se usa 
+un simbolo especial, a Pl 0 T, para recordar que P depende de otra variable V adema~ 
+de T, y que esa otra variable se mantienc constante. No s6lo usaremos el slmbolo C 
+para Hamar la atenci6n sobre el hecho de que la otra variable se mantiene constante, 
+sino que tambiCn escribiremos como subindice la variable que se mantiene constante: 
+( 8 Pl 8 T)v- Como tenemos s61o dos variables independientcs, es ta notaci6n es redun­
+dante, pero nos servirii. para no pcrder el camino de la jungla termodin<'tmica de deri­
+vadB parciales. 
+Supongamos que la funci6n j(x, y) dependc de las dos variables independicntes 
+x, \'. lndicamos con UJ/ Ox), la derivada ordinaria obtenida de\ modo habitual. tratan-
+do y como constante: · 
+("!) = limit f(x__± .6.x, y) --:__f!:.x, y). 
+iJx y 11x-•O .6.x 
+Anit.iogamente definimos 
+Por ejcmplo, si j(x, y) = x·· + yx, se tiene (i'f/ i;x)r = 2x + y, y (OJI (;•yJ., = x. Po­
+demos extender este conccpto a derivadas de orde·n superior: ?J/ 0 )" o ;. fl ('y( x. 
+El Ultimo slmbolo indica que primero derivamosfrespecto ax tratando y coma cons 
+tante y luego derivamos el resultado respccto a y tratando x como constante. El 
+orden de derivaci6n no importa: i·f/(;xi·y = i'f/i')'i'X. 
+Sera necesario calcular el incremento d.f de f(x, y) cuando x pasa ax + dx al 
+mismo tiempo que y pasa a y ~ Jy. Supondremos en lo que sigue que _\x y Jy ~un 
+infinitesimos: 
+.6.f = f(x + .6.x,y t- .:.'l,r) - j(x,y) 
+'- j(x + 6.x, r..;.. !iy) - j(x,l + 2.y) + ~ 
+~xC:{}, • ti.ycnI (45.l)
+
+La llltima ecuaci6n es la relaci6n fundamental que expresa t,,f en tCrminos de Jx y 
+~y. 
+Como ejemplo del uso de esta relaci6n, calculemos el incremento de la energia 
+interna U(T, V) cuando la temperatura varia de T a r + .1 T y el volumen varia de 
+Va V + !J. V. Empleando la ecuaci6n (45. l) escribimos 
+(45.2) 
+Efl el capitulo anterior encontramos otra expresi6n para e_Lincrcmento .1 Ude la ener­
+gia interna cuando se agrega al gas una cantidad de calor .1Q: 
+t:.U = t:.Q - Pt:.V. (45.3) 
+Comparando las ecuaciones (45.2) y (45.3) se podria creer a primera vista que 
+P '--- (( U/ i: Y)T, pcro esto no es correcto. Para obtener la relaci6n correcta, suponga 
+mos primero que agregamos una cantidad de calor .1.Q al gas manteniendo el volumen 
+constante, de modo que !J.V= 0. Si .1.V= 0, la ecuaci6n (45.3)nosdiceque.1U= 
+= .1.Q y la ecuaci6n (45.2) nos dice que .1 U = ( 0 VI(! 1/v.1. T, de donde ((;)VI 0 T)v = 
+= .1.Q/!J.T. E! cociente !J.Q/.1.T, cantidad de calor que se debe entregar a una sus­
+tancia para cambiar su temperatura en un grado manteniendo el volumen constante, 
+se llama calor especifico a volumen constante y se indica con el simbolo Cv. Hemos 
+demostrado, pues, quc 
+(45.4) 
+Ahora agreguemos de nuevo al gas una cantidad de calor j Q, pero esta veL man­
+teniendo T constante y dejando que el volumen cambie en .1 V. En este caso el anii.li­
+sis cs mils complejo, pero podemos calcular LI.Ucon el razonamiento de Carnot, ha­
+cienda uso del ciclo de Carnot quc introdujimos en el capitulo precedcnte. 
+La figura 45-l muestra el diagrama presi6n·volumen para el ciclo de Carnot. 
+Como ya hemos visto. el trabajo total realizado por et gas en un ciclo reversible es 
+lJ.(!...tJ.T/T), donde .1.Q es la cantidad de cnergia cal6rica suministrada al gas a mt--di­
+da que se expande isotCrmicamente a la temperatura T dcl volumen V al V .,- LI. V, y 
+T-.1 Tes la temperatura final que alcanza el gas cuando se cxpandc adiabitticamente 
+en el segundo tramo de! ciclo. Demostraremos ahora que este trahajo rea!izado tam­
+bif:n estit dado por 
+do se agrega el calor .J.Q al gas a ternpe­
+ratura Constante T. d T es la variac16n de 
+presi6n a volurnen constante que resulta 
+cuando la ternperalllra del gas varia de 
+Ta T-6.T. 
+45-3
+
+el 8.rea sombreada de la figura 45-1. En cualquier caso, el trabajo realizado por el gas 
+es r P dV y es positivo cu an do el gas se ex pan de y negativo cuando el gas se compri­
+me: Si hacemos el diagrama de Pen funci6n de V, la variaciOn de Py V esti repre­
+sentada por una curva que da el valor de P correspondiente a un valor deterrninado 
+de V. A medida que el volumen cambia de un valor a otro, el trabajo realizado por el 
+gas, o sea la integral f P dV, es el area que est<i bajo la curva que une los valores 
+inicial y final de V. Aplicando esta idea al ciclo de Carnot, vemos que al recorrer el 
+ciclo poniendo atenci6n en el signo de! trabajo realizado por el gas, el trabajo total 
+realizado por el gas es justamente el :irea sombreada de la figura 45-1. 
+Fig. 45-2. Area sornbreada ,-- area ence­
+rrada por las llneas de trazos = area de\ rec­
+t8ngulo = .1.P .1 V. 
+Ahora calcularemos geometricamente el :irea sombreada. El ciclo usado en la 
+figura 45-1 difiere de\ usado en el capitulo anterior en que ah or a suponemos que !1 T 
+y !1 Q son infinit6simos. Estamos trabajando entre adiab:iticas e isotermas muy cerca­
+nas y la figura formada por las lineas gruesas de la figura 45-1, tendera a un para­
+lelogramo cu an do Jos incrementos L\ T y L\ Q tiendan a cero. El area de este paralelo­
+gramo es L\ V L\P, don de .1. V es la variaci6n de volumen que resulta de entregar la ener­
+gia /'.J. Q al gas a temperatura Constante, y 11P es la variaciOn de presiOn cuando la 
+temperatura varia en .1. T a volumen constante. Se puede demostrar f:icilmente que el 
+:irea sombreada de la figura 45-1 esta dada por L\ V 11P observando que es equivalente 
+al :irea encerrada por las lineas de trazos de la figura 45-2, que a su vez difiere de! 
+rectitngulo formado por /'.J.P y /1 V Unicamente por la suma y la resta de las :ireas 
+triangulares iguales de la figura 45-2. 
+Resumamos los resultados obtenidos hasta ahora: 
+Trabajo realizado por el gas= area sombreada "-- i1V11P = L\Q ( ¥) 
+41-· · (calor necesario para cambiar Ven /1 VJTconstante 
+(45.5) 
+= j_ V · (variaci6n de P cuando T varia .17/vcon•tante 
+.1\" · (ca!or necesario para cambiar Ven /1 Vh = 7YlJP/ 8T)v. 
+La ecuaciOn (45.5) expresa el resu!tado escncial del razonamiento de Carnot. Toda 
+454
+
+la termodin3.mica se puede deducir de la ecuaci6n (45.5) y de la Primera Ley, ex­
+presada en la ecuaci6n (45.3). La ecuaci6n (45.5) es esencialmente la Segunda Ley, 
+aunque Carnot la dedujo originariamente en una fonna Iigeramente diferente, ya que 
+no utiliz6 nuestra definici6n de temperatura. 
+Ahora podemos proceder al c3.lculo de (bU/bV)r- i:.En cuilnto variaria la energia 
+interna U si el volumen variase en .1 V? Primera: U varia porque se agrega calor, 
+y segundo: U varia porque se realiza trabajo. El calor agregado es 
+~Q = T (~)v ~v, 
+de acuerdo con la ecuaci6n (45.5) y el trabajo realizado sobre la sustilncia es -Pti V. 
+En consecuencia, la variaci6n ti Ude la energia interna tiene dos partes: 
+(45.6) 
+Dividiendo ambos miembros por .1 V, encontramos para la variaci6n especifica de 
+U con V a T constante 
+(au) ~ r("P) - P. av r ar v (45.7) 
+En nuestra presentaci6n de la termodinilmica, en la cual Ty V son las lmicas varia­
+bles y Py U las imicas funciones, las ecuaciones (45.3) y (45.7) son las ccuaciones 
+fundamentales de las quc se pueden deducir todos los resu!tados. 
+45-2 Aplicaciones 
+Discutamos ahora el significado de la ecuaci6n (45.7) y veamos por quC nos 
+da la respuesta a las preguntas formuladas en el capitulo precedente. C onsideramos 
+el siguiente problema: en la teoria cinCtica es evidente que un aumento de tempe­
+ratura induce un aumento de presi6n debido al bombardeo de los 3.tomos sobrc un 
+pist6n. Por la misma raz6n fisica, cuando hacemos retroceder e! pist6n se saca calor 
+del gas, y para mantener la temperatura constantc, hay quc restituir calor al gas. 
+El gas sc enfria al expandirse y la presi6n aumenta al calentarse. Tiene que haber 
+alguna conexiOn entre ambos fenOmenos y la misma cstil dada explicitamente por la 
+ecuaciOn (45. 7). Si mantenemos el volumen fijo y aumentamos la temperatura, la 
+presiOn aumenta a razOn de (tiP//'iT)v. El hecho que sigue estil relacionado con esto: 
+si aumentamos el volumen, el gas se cnfriara a no ser que agreguemos calor para 
+mantener la temperatura constante y (t~ U/ b V)i- dice cu<into ca!or se necesita para 
+conservar la tempcratura. La ecuaciOn (45. 7) expresa la intcrre!aciOn fundamental 
+entre estos dos efectos. Esto es lo quc prometimos encontrar cuando iniciamos el 
+estudio de las ]eyes de la termodinilmica. Sin conocer los mecanismos internos del 
+gas y sabiendo Unicamcnte quc no puede haber movimicnto perpctuo de scgunda es­
+pecie, jpodemos deducir la relaciOn entre la cantidad de calor necesaria para man­
+tener Constante la temperatura cuando cl gas sc expande. y la variaciOn de presiOn 
+cuando el gas se calicnta! 
+45-5
+
+Ahora que tenemos el resultado que queriamos en lo que respecta a un gas, con­
+sideremos el de la banda elitstica. Cuando estiramos una banda elitstica encontramos 
+que su temperatura baja, y cuando calentamos una banda elitstica encontramos que 
+se encoge. iCuitl es la ecuaci6n que expresa para una banda elitstica la misma rela­
+ci6n que la ecuaci6n (45.3) expresa para un gas? En el caso de una banda elitstica 
+la situaci6n es mils o menos como sigue: cuando se agrega una cantidad de calor 
+.1.Q, la energia interna cambia en .1.U y se realiza un trabajo. La {mica diferencia 
+serit que el trabajo realizado por la banda elitstica es -F!J.L en vez de P.1 V, donde 
+F es la fuerza que se ejerce sobre la banda y L la longitud de la banda. La fuerza 
+F es funci6n de la temperatura y de la longitud de la banda. Reemplazando P j V 
+por -F tJL en la ecuaci6n (45.3), obtcnemos 
+t:..U = t:..Q + Ft:..L (45.8) 
+Comparando las ecuaciones (45.3) y (45.8) vemos quc la ecuaci6n de !a banda elits­
+tica se obtiene por simple sustituci6n de una letra por otra. Mils al.in, si sustituimos 
+V por L y P por -F, toda nuestra discusiOn de! ciclo de Carnot sirvc para la banda 
+elitstica. Por ejcmplo, podemos deducir inmcdiatamcnte que el calor J.Q necesario 
+para cambiar la !ongitud en /J.L estit dado por la anitloga de la ecuaci6n (45.5): 
+.1.Q = -T(l>F/bTh.1.L. Esta ecuaciOn nos dice que si mantenemos fija la longitud 
+de una banda elilstica y !a calentamos, podemos calcular cuitnto aumentar:i la fuerz!l 
+en funci6n de! calor necesario para mantener la temperatura constante cuando la 
+banda se estira un poquito. Vemos, pues, quc la misma ecuaciOn sirve tanto para un 
+gas coma para una banda elil.stica. Verdaderamente. si se pucde escribir J.U -'---' 
+= L'i.Q + A.1B, donde A y B representan diversas cantidades, fuerza y longitud, 
+presiOn y volumen, etc., se puede aplicar los resu!tados obtenidos para un gas sus" 
+tituyendo P y V por A y B. Por ejemplo, consideremos la diferencia de potencial 
+elCctrico o "voltaje ·· E de una bateria y la carga c'i.Z que atraviesa la bateria. Sa­
+bemos que el trabajo realizado en una celda eloi:ctrica reversible, tal como un acumu­
+!ador. es t::).Z. (Como no incluimos un termino P.1Ven el trabajo, requerimos que 
+nuestra bateria mantenga el volumen constante.) Veamos quC nos puede decir la 
+termodin:imica sobrc el funcionamiento de una bateria. Si reemplazamos P por E 
+y V por Zen la ecuaci6n (45.6), obtenemos 
+(45.9) 
+La ecuaci(in (45.9) dice que la energia interna U cambia cuando una carga !iZ atra­
+viesa la ce\da. ;,Por que !iU/C.Z no es simplemente el voltaje Ede la bateria? La 
+rcspuesta es que una baterla real se ca!ienta cuando la atraviesa una carga. La ener­
+gia interna de !a bateria cambia. primero porque la bateria realiz6 un trabajo sabre 
+el circuito cxterno, y segundo porque la bateria se calienta. Lo notable es que tam­
+bioi:n se puede expresar la segunda parte en funci6n de la manera en que el voltaje de 
+la bateria cambia con la temperatura. Entre parCntesis, cuando la carga atraviesa la 
+bateria, hay reacciones quimicas y la ecuaciOn (45.9) sugiere un modo elegante de 
+medir la cantidad de energia necesaria para producir una reacci6n quimica. jTodo 
+lo que tenemos que hacer es construir una celda cuyo funcionamiento se base en esa 
+reacci6n. mcdir el voltaje y medir cuitnto cambia Cste con la temperatura cuando no 
+extraemos cargas de la bateria! 
+45-6
+
+Ahora bien, hemos supuesto que se puede mantener constante el volumen de la 
+bateria, ya que hemos omitido el termino P!J. V al escribir que el trabajo rea\izado 
+por la bateria es ElJ.Z. Pero resulta que es muy difici! tecnicamente mantener el vo­
+lumen constante. Es mucho mils filcil mantener la celda a presi6n atmosferica cons­
+tante. Es por ello que a los quimicos no Jes gusta ninguna de las ecuaciones que 
+hemos escrito mils arriba: prefieren ecuadones que describan el comportamiento a 
+presiOn constante. Al principio de este capitulo elegimos V y T como variables in­
+dependientes. Los quimicos prefieren P y T, por lo que ahora consideraremos c6mo 
+se puede transformar los resultados obtenidos hasta aqui al sistema de variables de 
+Jos quimicos. Recuerden que en el tratamiento que sigue es facil que haya confusi6n 
+debido al cambio de engranaje de Ty V a T y P. 
+Partimos de la ecuaci6n (45.3) con !J.U = !J.Q - PilV; se puede reemplazar 
+Pt1 V por E6..Z o A:O.B. Si de alguna manera pudieramos reemplazar e! Ultimo tfr­
+mino, P!J. V, por V!J.P, habriamos intercambiado Vy Py !os quimicos se pondrian 
+contentos. Bien, un hombre inteligente not6 que el diferencial del producto PV es 
+d(PV) = PdV + VdP y que si sumaba esta igualdad a la ecuaci6n (45.3) obtenia 
+A(PV) = PAV+ VAP 
+t:.U = AQ - PAV 
+A(U + PV) ~ AQ + VAP 
+Para que el resultado se parezca a la ecuaci6n (45.3) definimos U + PV como algo 
+nuevo: !a entafpia H, y escribimos ilH = !J.Q + V!:JP. 
+Ahora estamos listos para traducir nuestros resultados al !enguaje de los qui­
+micos con las siguientes reglas: U-+ H, P ...... -V, V-+ P. Por ejemplo, la relaci6n 
+fundamental que usarian los quimicos en vez de (45.7) es 
+('!f) ~ T ("') - V. aP r ar P 
+Ahora debe estar claro c6mo se transforma a las variables Ty P de los quimicm. 
+Volvamos a nuestras variables originales: en lo que queda de! capitulo Ty V seriln 
+las variables independientes. 
+Apliquemos ahora los resultados obtenidos a un cierto ni.tmero de situadones 
+fisicas. Consideremos primero el gas ideal. Por la teoria cinetica sabemos 4ue la 
+energia interna de un gas s6lo depende del movimiento de las mo!eculas y del ni.tme­
+ro de estas. La energia intema depende de T pero no de V. Si cambiamos V man­
+teniendo T Constante, U no cambia. En consecuencia (b UI b V)r =- 0 y la ecuaciOn 
+(45.7) nos dice que para un gas ideal 
+(45.10) 
+La ecuaciOn (45.10) es una ecuaci6n diferencial que nos puede decir algo acerca de 
+P. Consideremos la derivada parcial del siguiente modo: como la derivada parcia! 
+es a volumen constante, la reemplazaremos por una derivada 
+45-7
+
+ordinaria y para acordarnos escribiremos explicit:lmentc ·· V constance· . Entonces, 
+la ecuaci6n (45. lO) se convierte en 
+T~~ ~ P = O: canst V, (45.11) 
+que podemos integrar obteniendo 
+In P = In T + const; const V, 
+P = const X T; const V. (45.12) 
+Sabemos que para un gas ideal la presi6n cs igua! a 
+(45.13) 
+que es compatible con (45.12) puesto que Vy R son constantes. (.Para que nos to­
+mamos el trabajo de hacer este ca.J.culo si ya sabiamos los resultados? iPorque he­
+mos estado usando dos definiciones independientes de temperatura! En un cierto 
+momenta supusimos que la energia cinetica de las molOCulas era proporcional a la 
+tcmperatura, suposici6n que define una escala de tcmperatura que llamaremos es­
+cala de! gas ideal. La T de la ecuaci6n (45.13) se basa en esta escala. Tambi{:n lla­
+mamos temperaturas ciniticas a las temperaturas basadas en la escala de gases. 
+Mas tarde definimos la temperatura de ui:i segundo modo completamente indepen­
+diente de cua\quier sustancia. A partir de razonamientos basados en la Segunda 
+Ley definimos lo que podriamos Hamar "gran temperatlira termodiniunica absoluta" 
+T; es la T que aparece en la ecuaci6n (45.12). Lo que hemos demostrado aqui es 
+que la presi6n de un gas ideal (definido como aqucl en que la energia interna no 
+depende de! volumen) es proporcional a la gran temperatura termodiniunica absolu­
+ta. Tambien sabemos que la presi6n es proporciona1 a la temperatura medida en la 
+escala de gases. En consecuencia podemos deducir que la temperatura cinetica es 
+proporcional a la ··gr an temperatura termodinamica absoluta ". Esto significa., na­
+turalmcnte, que si ruesemos sensatos podriamos hacer concordar 1as dos escalas. 
+En este caso, al menos, las dos escalas han sido elegidas de modo que coincidan; 
+se ha cscogido I para la constante de proporcionalidad. La mayoria de las veces 
+el hombre se busca las dificultades, pero en este caso jha hecho las dos esca1as 
+iguales! 
+45-3 La ecuaciOn de Clausius-Clapeyron 
+La vaporizaciOn de un liquido es otra aplicaciOn de los resultados que hemos 
+obtenido. Supongan que tenemos un liquido en un cilindro, de modo que lo pode­
+mos comprimir empujando el pistOn, y que nos preguntamos: "Si mantenemos la 
+temperatura constante, lC6mo varia la presi6n con el volumen?" En otras palabras, 
+queremos dibujar una isoterma en el diagrama P-V. La sustancia que hay en el 
+cilindro no es el gas idea] que consideramos antes; ahora pue<ie que estc!: en la fase 
+liquida o en la fase vapor, o ambas pueden estar presentes. Si aplicamos presi6n 
+suficiente, la sustancia se condensa y se vuelve liquida. Si ahora apretamos aim mis 
+fuerte, el volumen cambia 
+45-8
+
+Volumen 
+Fig. 45-3. lsotermas de un vapor con­
+densable en un crl1ndro. A la 
+lasustanc1aestflenlafase 
+derecha, la sustanc1a estfl vaporizada. Al 
+centro. l1qu1do y vapor coex1sten en el 
+c1lindro. 
+.§l:,' ~ ~ 
+vl "• 
+Volumen 
+Fig. 45-4. 01agrama pres16n-volumen 
+para un c1clo de Carnot con un vapor con­
+densable en el cilindro A la 1zqu1erda, 
+la sustanc1a estfl en estado liqu1do Se 
+agrega una cant1dad de calor La tempe-
+ratura T para el El vapor 
+se expande cuando T pa-
+sa a T-t:.T. 
+muy poco y !a 1sotcrma sube rilpidamcntc al disminmr el volumen. coma muestra la 
+parte izquierda de la figura 45-3. 
+Si aumentamos el vo!umen tirando del pist6n, la cae hasta que alcan-
+zamos el punto en que e! liquido comienza a hen·ir y a formar~e vapor. 
+Si tiramos aim mils del pist6n, todo lo que ocurre es que se cvapora mils !iquido. 
+Cuando hay en parte liquido y en parte vapor en el cilindro, las dos fases estiln en 
+equilibria -el liquido se evapora a la misma velocidad que el gas se condensa-. Si 
+hacemos mils espacio para el vapor, sc necesita ma~ vapor para mantener la pre­
+si6n, por lo que se evapora un poco mils de liquido, pero la presi6n se mantiene 
+constante. En la parte horizontal de la curva de la figura 45-3 la presi6n no cam­
+bia; este valor constante se denomina presiOn de va[XJr a la temperatura T. A me­
+dida que seguimos aumentando el volumen ~e llega a un punto en que ya no l1ay 
+mis liqui..io para evaporar. En este punto, si expandimos el volumen aUn mas la 
+presi6n bajara coma en un gas ordinario, coma muestra la parte derecha dcl dia­
+grama P-V. La curva inferior de la figura 45-3 es la isoterma correspondiente a una 
+temperatura T - .1. T ligeramente menor. La presiOn de la fase liquid a se reduce lige­
+ramente porque el liquido se expande al aumentar la temperatura (para la mayoria 
+de las sustancias, pero no para el agua cerca del punto de congelaci6n) y natur<il 
+mente la presi6n de vapor es menor a la temperacura menor. 
+Ahora haremos un ciclo con las dos isotermas umCndolas (con adiabil.ticas, diga 
+mos) por los extremos de las secciones honzontales, coma muestra la figura 45-4. 
+La pequetla oscilaci6n en el extrema inferior derecho de la figura no altera practi­
+camente nada y la despreciaremos. Vamos a usar el razonam1ento de Carnot que 
+nos dice que el calor agregado a la ~ustancia para hacerla pasar de liquido a vapor 
+estil. relacionado con el trabajo realizado por la sustancia al recorrer el ciclo. Lla­
+memos L al calor necesario para vaporizar la sustancia contenida en el cilindro. 
+Por el razonamiento inmediato anterior a la ecuaciOn {45.5) sabemos quc L(,J, TIT)= 
+= trabajo 
+45-9
+
+realizado por la sustancia. Como antes, el trabajo realizado por la sustancia es el 
+area sombreada, que es aproximadamente LlP(Vc - VJ, donde J.P es la diferencia 
+de presi6n de vapor a las dos temperaturas Ty T - .1. T, V c es el volumen del gas y 
+VL el del liquido, ambos medidos a la presi6n de vapor. lgualando estas dos expre­
+siones del area, obtenemos L.1.T/T = .1.P(Vc- VJ, o sea 
+(45.14) 
+La ecuaci6n (45.14) da la relaci6n entre la rapidez de variaci6n de la presi6n de 
+vapor con la temperatura y la cantidad de calor necesaria para evaporar el !iquido. 
+Esta relaci6n fue deducida por Carnot pero se llama ecuaci6n de Clausius-Cla­
+peyron. 
+Comparemos ahora la ecuaci6n (45.14) con los resultados deducidos de la teoria 
+cinetica. Por lo comUn, Ve es mucho mayor que V1.. Asi, pues, Ve - VL""' Ve= 
+= RT/ P por mol. Si ademas suponemos que L es constante, indcpendiente de la 
+temperatura -no muy buena aproximaci6n- tendremos bP/bT = L!(RT'P). La so­
+luci6n de esta ecuaci6n diferencial es 
+P = const e-LI NT . (45.15) 
+Comparemos esta con la variaci6n de presi6n con la temperatura, deducida ante­
+riormente de !a teorLa cinftica. Al menos aproximadamente, !a teoria cinftica indica­
+ba la posibilidad de que el nUmero de mo!Cculas de vapor encima de! liquido fuese 
+n = (~) e-a:u-1.'t)IR1', (45.16) 
+donde Uc - UL es !a energia interna por mo! gas menos la energia interna por mo! 
+del liquido, es decir, la energia necesaria para vaporizar un mol de liquido. La ecua­
+ci6n (45.15) proveniente de la termodinitmica, y la ecuaci6n (45.16), proveniente de 
+la teoria cinetica, estan estrechamente relacionadas porque la presi6n es nkT, pero 
+no son exactamente iguales. Sin embargo, resultaran cxactamente iguales si supone· 
+mos L - U{; = const en vez de L = canst. Si suponemos L ·- Uc = canst inde­
+pendiente de la temperatura, el razonamicnto que nos llev6 a la ecuaci6n (45.15) 
+tambien llevara a la ecuaci6n (45.16). 
+La comparaci6n muestra la ventajas y desventajas de la termodin.imica sobrc 
+la teoria cinetica: primero, la ecuaci6n (45.14), obtenida termodinllmicamente es 
+exacta, mientras que !a ecuaci6n (45.16) s6lo se puede aproximar. por ejemplo, si 
+U es casi constante y si el modelo es vii.lido. Segundo, no podemos comprender co" 
+rrectamente cOmo es que el gas pasa a! cstado liquido; no obstante, la ecuaci6n 
+(45.14) es exacta mientras que la (45.16) es s6lo aproximada. Tercero, aunque nues· 
+tro tratamiento se aplica a un gas que se condensa en un liquido. el razonamiento 
+es valido para cualquier otro cambio de estado. Por ejemplo. la transici6n solido­
+liquido tiene el mismo tipo de curva que el mostrado en la fi.gura 45.3 6 45-4. ln­
+troduciendo el ca!or latente de fusi6n, M/mol, la formula analoga a la ecuaciOn 
+(45.14) es ,rtiPru/liT)v = M/:T_(Vi;q - V,01) 1,. Aunqu~ no podamos comprender la 
+teoria cini:t1ca del proceso de fusion tenemos una ecuac16n exacta.
+
+Sm embargo, cuando comprender la tcoria cinCtica tenemos otra ventaja. 
+La ecuaci6n (45.14) es una relaci6n d1ferencial y no hay manera de de-
+tenninar las constantes mtegraci6n. En la tcoria cinCtica podemos obtener las 
+constantes tambien si tenemos un buen mode!o que describa completamente el fen6~ 
+meno. Cada una tiene, pues, ventajas y desvcntajas. Cuando el conocimiento es 
+y la situaci6n comphcada, las relaciones termodin<lmicas son realmente las 
+puderosas. Cuando la situaci6n es muy simple y se puede hacer un anitli~is 
+e<; mejor tratar de obtencr mils informaci6n con cl anilhsis te6rico. 
+Un ejemplo mas: la radiaci6n de cuerpo negro. Hemos estudiado una caja que 
+cont1ene radiaci6n y nada mils. Hemos hablado del equilibrio entre el oscilador y 
+la radiaci6n. Tambien encontramos que los fotones que chocan contra las paredes 
+de la caja deben ejercer una presi6n Py hallamos PV = U/3, donde U es la energia 
+total de todos los fotones y V es el volumen de la caja. Si introducimos U = 3PV 
+en la ecuaci6n b<isica (45.7), cncontramos 
+(Of{) ~ JP~ T(~p) - P. 
+av r ar v (45.17) 
+Como el volumen de nucstra caja es constante, podemos reemplazar (/5P/<">T)v por 
+dP/ dT obteniendo una ecuaci6n diferencial ordinaria que podemos integrar: In P = 
+'""" 4 1 n '/' + const. o sea P = const x T4. La presi6n de radiaci6n varia co mo la 
+cuarta potencia de !a temperatura y la densidad de energia de !a radiaci6n, U/ V = 
+-=- 3P, tambien varia coma 14 . Se acostumbra escribir U/V -- (4u/c)T4, donde c 
+es la velocidad de la luz y u es una constante. No es posible obtener u Unicamente 
+con la termodinitmica. Este es un buen ejemplo de su fuerza y su limitaci6n. Saber 
+que U/ V varia como T4 ya es mucho, pero saber cu<into vale verdaderamente U/ V 
+a cualquier temperatura requiere que entremos en un tipo de detai1es que s61o una 
+teoria completa nos pucdc dar. Tenemos esa teoria para la radiaci6n de cuerpo ne­
+gro y podemos obtener una expresi6n para la constante a de la siguiente manera. 
+Sea !(01) dw la distribuci6n de intensidad, o sea el flujo de energia de frecuencia 
+entre (;) y w + dw a traves de 1 m2 en un segundo. La distribucibn de densidad de 
+energia = energia/volumcn = I(w) d(,>fc es 
+* = densidad de energia total 
+= i~o densidad de energia entre w y w + dw 
+Por nuestras discusiones anteriores sabemos que 
+45~1 l
+
+Sustituyendo esta expresi6n de I(w) en nuestra ecuaci6n para U/ V obtenemos 
+-I 
+Si ponemos x = tfw/ kT, la expresi6n se transforma en 
+Esta integral es simplemente un nUmero que podemos obtener aproximadamente di­
+bujando una curva y cakulando el area contando cuadrados. Vale 6,5 mas o menos. 
+Los matematicos que esten entre nosotros pueden demostrar que la integral es exac­
+tamente ::rr4 /15"'. Comparando esta expresi6n con U/V-,--- (4a/c)T1 encontramos 
+a=~zr_2___ 567 x 10-s ~-~ 601l3c2 -- ' (metro)- (grado)4 
+Si hacemos un pequeilo agujero en nuestra caja, z.cuanta energia saldra por se­
+gundo por e! agujero de area unitaria? Para pasar de la dcnsidad de energia al flujo 
+de energia, multiplicamos la densidad de energia VIV por c. Tambien multiplicamos 
+por !, que proviene de' lo que sigue: primero, un factor~ porque s61o escapa la ener­
+gia que fluye hacia el agujero, y segundo, ouo factor ~ porquc la energia que se 
+acerca al agujero en direcci6n oblicua tiene menos posibilidades de salir por estar 
+afectada de un factor coseno. El valor media de! coseno es i- Ahora se ve claro por 
+que escribimos VIV= (4a/c)1"<l: para que al final podamos decir que el flujo que 
+proviene de un pequefio agujero es aT' por unidad de area. 
+Como (ex -1)- 1 = e ·' + e-2x + ... ,la integral es 
+Pero J~e-nx dx = 1/n, que derivada tres veces respecto an daJ~ x:le-nxdx= 6/n',porl? 
+que !a integral es 6(1 + -i\- + -ir- + ... ) y se obtiene una buena aproximaciOn sumando los pn­
+meros terminos. En el capitulo 50 encontraremos una manera de demostrar que la suma de las 
+inversas de la cuarta potencia de los enteros es, en efecto, n4/90.

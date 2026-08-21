@@ -1,0 +1,1691 @@
+Tema: Superposición y ondas estacionarias (Capítulo 16 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+468 | Capítulo 16 Superposición y ondas estacionarias 
+2 
+m 
+(b) 
+Figura 16.1 Pulsos de onda que se mueven en 
+direcciones opuestas sobre una cuerda. La forma 
+de la cuerda cuando se encuentran los pulsos se 
+obtiene sumando los desplazamientos de cada 
+pulso por separado. (a) Superposición de pulsos 
+con desplazamientos en el mismo sentido. 
+(b) Superposición de pulsos con desplazamientos 
+iguales pero con signos opuestos. En este caso la 
+suma algebraica de los desplazamientos equivale a 
+la sustracción de las magnitudes. 
+16.1 Superposición de ondas 
+La figura 16.1a muestra pequeños pulsos de onda que se mueven en direcciones opuestas en 
+una cuerda. La forma resultante del encuentro de estos pulsos puede determinarse sumando 
+los desplazamientos producidos por cada pulso separadamente. El principio de superposi- 
+ción es una propiedad del movimiento ondulatorio que expresa lo siguiente: 
+Cuando dos o más ondas se combinan, la onda resultante es la suma algebraica de las 
+ondas individuales. i 
+PRINCIPIO DE SUPERPOSICIÓN 
+Matemáticamente, cuando tenemos dos pulsos sobre la cuerda, la función de onda total es la 
+suma algebraica de las funciones de onda de las ondas individuales. 
+En el caso especial de dos pulsos que son idénticos, excepto que uno está invertido res- 
+pecto al otro, como en la figura 16.1b, hay un instante en que los pulsos se solapan exacta- 
+mente y su suma es igual a cero. En este momento la cuerda está horizontal, pero no en 
+reposo. Justo a la derecha de la región de solapamiento, la cuerda está moviéndose hacia 
+arriba, mientras que a la izquierda se mueve hacia abajo. En un instante posterior, los pulsos 
+emergen, continuando cada uno en su dirección original. 
+La superposición es una propiedad característica y única del movimiento ondulatorio. No 
+existe una situación análoga en el movimiento newtoniano de partículas; es decir, dos partí- 
+culas nunca se solapan o se suman de este modo. 
+*La superposición y la ecuación de onda 
+El principio de superposición resulta de la linealidad de la ecuación de onda (ecuación 15.9) 
+para pequeños desplazamientos transversales. Es decir, la función y(x, t) y sus derivadas se 
+presentan sólo en primera potencia. La propiedad que define las ecuaciones lineales es que si 
+y, e y, son dos soluciones de la ecuación de onda, la combinación lineal 
+y3 = Cy, + Cay) (16.1) 
+en donde C, y C, son constantes cualesquiera, es también una solución. Esto se demuestra 
+fácilmente sustituyendo directamente y, en la ecuación de onda. El resultado es la expresión 
+matemática del principio de superposición. Si dos ondas cualesquiera satisfacen la ecuación 
+de onda, su suma también satisface la misma ecuación de onda. 
+EJEMPLO 16.1 | ta superposición y la ecuación de onda 
+Demostrar que si las funciones y, e y, satisfacen la ecuación de onda 
+dy _ 10% ox? vot? (ecuación 15.9b) 
+la función yz de la ecuación 16.1 también la satisface, 
+Planteamiento del problema Se sustituye yz en la ecuación de onda, teniendo en cuenta que 
+y, € y2 también son funciones de onda, es decir, que satisfacen la ecuación de onda. Finalmente, se 
+demuestra que la combinación lineal C¡y, + C>y, es una función de onda. 
+1. Sustituir la expresión de yz de la ecuación 16.1 en el miembro de la ¿2y, 
+izquierda de la ecuación de onda y separar los términos en función de y2 
+y1 eyy 
+2. Escribir la ecuación de onda para y; e yz: 
+g? dy, dy, = zal CY + Caya) = Cc taxa 
+Ry, 13 Ry, 10%, 
+de var de var
+
+2 2 
+_ 3. Sustituir el resultado del paso 2 en el paso | y sacar factor común: =i =C, ae 
+2 2 
+4. Introducir las constantes dentro de las derivadas y expresar la suma de Ae = ae 
+las derivadas como la derivada de la suma: Sh es FF 
+i 7 [y _ 18y 5. El argumento de la derivada del paso 4 es y3: 152 = DF 
+Interferencia de ondas armónicas 
+El resultado de la superposición de ondas armónicas de la misma frecuencia depende de la 
+diferencia de fase d entre las ondas. Sea y,(x,t) la función de onda de una onda armónica que 
+se propaga hacia la derecha con amplitud A, frecuencia angular @ y número de onda k: 
+yı = A sen (kx- ot) (16.2) 
+Para esta función de onda, hemos escogido cuando la fase sea cero.! Si tenemos también 
+en movimiento una segunda onda armónica hacia la derecha con la misma amplitud, fre- 
+cuencia y número de ondas, la ecuación general para esta función de onda puede escribirse 
+y, = A sen (kx — @t + ô) (16.3) 
+en donde 6 es la constante de fase. Las dos ondas descritas por las ecuaciones 16.2 y 16.3 
+difieren en fase en 6. La figura 16.2 muestra una representación de las dos funciones de onda 
+para un tiempo fijo en función de la posición. La onda resultante es la suma 
+yı +yz = A sen (kx— wt) +A sen (kx -— of + ô) (16.4) 
+La ecuación 16.4 puede simplificarse utilizando la identidad trigonométrica 
+sen 0, +sen 0, = 2 cos 5 (0, — 0,) sen 3 (6, — 0) (16.5) 
+En este caso 0, = kx— wt y O, = kx — wt + 6, de modo que 
+y 
+Así, la ecuación 16.4 toma la forma 
+yi +yz = [2y, cos 36] sen (kx — @f + +6) (16.6) 
+SUPERPOSICION DE DOS ONDAS DE IGUAL AMPLITUD Y FRECUENCIA 
+en donde hemos utilizado cos (-50) = cos 5Ó. Vemos que el resultado de la superposición 
+de dos ondas armónicas de igual frecuencia y número de ondas es otra onda armónica que 
+tiene la misma frecuencia y el mismo número de onda. La onda resultante tiene una amplitud 
+igual a 2A cos 38 y una fase igual a la mitad de la diferencia entre las fases de las ondas 
+originales. La superposición de dos o más ondas de frecuencia igual o muy parecida que da 
+l Esta selección es conveniente, pero no es obligatoria. Si, por ejemplo, escogemos 1 = 0 cuando el desplazamiento sea 
+máximo en x = 0, deberíamos escribir y, = A cos (kx— @r) = sen (kx — ar — 2/2). 
+16.1 Superposición de ondas 
+19y, 1 d?y, dy, 
+A 
+0?C2y2 1 92 
+ma ) = ap Cy + Ca) 
+) 
+469 
+y! =A sen kx 
+y, =A sen (kx + 0) 
+Figura 16.2 Desplazamiento en función de la 
+posición para dos ondas armónicas que tienen la 
+misma amplitud, frecuencia y longitud de onda pero 
+que difieren en fase en 6.
+
+470 | Capítulo 16 Superposición y ondas estacionarias 
+Onda resultante 
+Figura 16.3 Interferencia constructiva. Cuando 
+dos ondas están en fase, la amplitud de la onda 
+resultante es la suma de las amplitudes de las ondas 
+individuales. 
+Onda 2 Onda resultante 
+ak = a po ze SS 7 $ ye / A Y ` 
+Figura 16.4 Interferencia destructiva. Cuando 
+dos ondas tienen una diferencia de fase de z, la 
+amplitud de la onda resultante es la diferencia de las 
+amplitudes de las ondas individuales. Si las ondas 
+originales tienen amplitudes iguales, se anulan 
+completamente. 
+Figura 16.5 Batidos o pulsaciones. (a) Dos 
+ondas de frecuencias diferentes pero próximas que 
+están en fase en ñ% = 0 están desfasadas en 180° un 
+cierto instante después f,. En otro instante aún más 
+tarde f, vuelven a estar en fase. (b) Resultante de las 
+ondas indicadas en (a). La frecuencia de la onda 
+resultante es casi la misma que la de las dos ondas 
+originales, pero la amplitud se encuentra modulada 
+como indica la curva a trazos. La amplitud es 
+máxima en los instantes 1, y £, y nula en los instantes 
+“yt. 
+un patrón de intensidad observable se denomina interferencia. En este caso, la intensidad, 
+que es proporcional al cuadrado de la amplitud, es uniforme. Si las dos ondas están en fase, 
+la diferencia de fase es 6 = 0, cos 0 = 1 y la amplitud de la onda resultante es 2A. La interfe- 
+rencia de dos ondas en fase se llama interferencia constructiva (figura 16.3). Si están des- 
+fasadas 180°, = ~m rad, cos (1/2) = O y la amplitud de la onda resultante es nula. La 
+interferencia de dos ondas desfasadas 180° se llama interferencia destructiva (figura 16.4). 
+Ejercicio Dos ondas con la misma frecuencia, longitud de onda y amplitud se están 
+moviendo en la misma dirección. (a) Si difieren en fase en 7/2 y cada una de ellas tiene una 
+amplitud de 4,0 cm, ¿cuál es la amplitud de la onda resultante? (b) ¿Para qué diferencia de 
+fase Ó la amplitud resultante sería igual a 4 cm? (Respuestas (a) 5,66 cm, (b) 120° o 240°.) 
+Pulsaciones (o batidos) La interferencia de dos ondas sonoras de frecuencias ligera- 
+mente distintas produce el interesante fenómeno de las pulsaciones o batidos. Considere- 
+mos dos ondas sonoras con frecuencias angulares @, y @ que poseen la misma amplitud de 
+la presión pp. ¿Qué es lo que oímos? En un punto fijo, la dependencia espacial de la onda 
+contribuye simplemente en la constante de fase, de modo que podemos despreciarla. La pre- 
+sión en el oído debida a una de las ondas, será una función armónica simple de la forma 
+Pı = Po Sen 0,1 
+o bien 
+P2 = Po SEN 0,1 
+en donde hemos escogido funciones seno por conveniencia y hemos supuesto que las dos 
+ondas están en fase en el instante ¢ = 0. Usando la siguiente identidad trigonométrica para la 
+suma de dos funciones seno, 
+sen 0, + sen 6, = 2 cos¿(0, — 6,) sen 5(0, +0) 
+se obtienen la onda resultante 
+p = Po sen @t + py sen @t = 2po cos 3 (0, — @,)t sen } (0, + 0,)1 
+Si ponemos @,, = 4 (@, + 0,) que es la frecuencia angular media y A@ = @, — 0, que 
+corresponde a la diferencia de las frecuencias angulares, la función de onda resultante toma 
+la forma 
+p = 2pycos (5 AO t) sen 0, t = 2pocos (27 3 Af t) sen2x.f mt (16.7) 
+en donde Af = A@/(27) y fin = Op/(270). 
+La figura 16.5 muestra una representación gráfica de la variación de presión en función 
+del tiempo. Las ondas están inicialmente en fase y se suman constructivamente en el instante 
+t = 0. Como sus frecuencias no son iguales, las ondas van desfasándose gradualmente y en el 
+instante 1, ya tienen un desfase de 180° e interfieren destructivamente!. Al cabo de un inter- 
+valo de tiempo igual (tiempo ñ en la figura), las dos ondas estarán de nuevo en fase e interfe- 
+rirán constructivamente. Cuanto mayor sea la diferencia entre las frecuencias de ambas 
+ondas, más pronto quedarán desfasadas y volverán a ponerse en fase de nuevo. 
+El tono que percibe el oído tiene la frecuencia media f,, = Uf, + f2) con una amplitud 
+de 2p, cos (2% ! Af t). (Para algunos valores de ¢ la amplitud es negativa. Como — cos @ = 
+cos (0 + 2), un cambio de signo de la amplitud equivale a un cambio de fase de 180°.) La 
+amplitud oscila con frecuencia taf . Puesto que la intensidad es proporcional al cuadrado de 
+la amplitud, el sonido sera fuerte siempre que la amplitud sea maxima o minima. Por consi- 
+' La anulación completa sólo se produce cuando son iguales las amplitudes de presión de ambas ondas.
+
+guiente, la frecuencia de esta variación de intensidad, llamada frecuencia de batido es igual 
+al doble de ‘Af. 
+F batido = Af (16.8) 
+FRECUENCIA DE BATIDO 
+La frecuencia de batido es igual a la diferencia de las frecuencias individuales de las dos 
+ondas. Por ejemplo, si golpeamos simultáneamente dos diapasones que tienen frecuencias 
+de 241 Hz y 243 Hz, se oirá un tono pulsante con la frecuencia media de 242 Hz que tendrá 
+una intensidad máxima dos veces por segundo; es decir, la frecuencia de batido será 2 Hz. El 
+oído puede detectar hasta 15 6 20 batidos por segundo, Por encima de estas frecuencias, las 
+fluctuaciones de la intensidad son demasiado rápidas para ser oídas. 
+El fenómeno descrito se utiliza a menudo para comparar una frecuencia no conocida con 
+otra conocida, como cuando se utiliza un diapasón para afinar la cuerda de un piano. Los 
+pianos se afinan haciendo sonar al mismo tiempo el diapasón y la nota del piano y actuando 
+sobre la cuerda del instrumento hasta que las pulsaciones desaparecen (o son mínimas), lo 
+que indica que la diferencia en frecuencia de los dos generadores de sonido es muy pequeña. 
+EJEMPLO 16.2 |  Afinando una guitarra 
+Cuando se golpea un diapasón de 440 Hz (nota La) al mismo tiempo que se pulsa la cuerda 
+ligeramente desafinada de una guitarra que debe dar la nota La se escuchan 3 pulsaciones por 
+segundo. Después que la cuerda de la guitarra se tensa un poco más para aumentar su frecuen- 
+cia, las pulsaciones aumentan a 6 por segundo. ¿Cuál era la frecuencia de la cuerda de guita- 
+rra antes de tensar la cuerda? 
+Planteamiento del problema Inicialmente se oyen 3 pulsaciones por segundo, por lo tanto la 
+frecuencia original de la cuerda de la guitarra es o bien 443 Hz o bien 437 Hz. Supongamos que la 
+frecuencia inicial sea 437 Hz. Aumentando lentamente la tensión de la cuerda y, por lo tanto, la fre- 
+cuencia, se disminuye la frecuencia de pulsación. 
+16.1 Superposición de ondas | 471 
+La frecuencia de la pulsación aumenta si aumenta la tensión de la cuerda de f = fta + fbaido = 440 Hz + 3Hz = 
+3 a 6 pulsaciones por segundo, lo cual indica que la frecuencia es 443 Hz. 
+Diferencia de fase debida a la diferencia de trayectos Una causa corriente 
+que origina una diferencia de fase entre dos ondas es la diferencia de longitudes de los tra- 
+yectos que deben recorrer las ondas desde su fuente o foco hasta el punto donde se produce 
+la interferencia. Supóngase que tenemos dos focos que están emitiendo ondas armónicas de 
+la misma frecuencia y longitud de onda y que están oscilando en fase; es decir, cuando sale 
+de un foco una cresta positiva, sale también al mismo tiempo una cresta positiva del otro 
+foco. Si la diferencia entre los trayectos hasta un punto determinado es una longitud de onda, 
+como es el caso de la figura 16.6a, o es un número entero de longitudes de onda, la interfe- 
+rencia es constructiva. Si la diferencia de trayectos es una semilongitud de onda o un número 
+impar de semilongitudes de onda, como en la figura 16.6b, el máximo de una onda coinci- 
+dirá con el mínimo de la otra y la interferencia es destructiva. 
+Figura 16.6 Las ondas en fase procedentes de 
+dos focos $, y S,, que están en fase se encuentran en 
+un punto P,. (a) Cuando la diferencia de trayectos es 
+de una longitud de onda A, las ondas están en fase en 
+P, e interfieren constructivamente. (b) Cuando la di- 
+ferencia de trayectos es ! A, las ondas en P, están 
+desfasadas 180° y por lo tanto interfieren destructi- 
+vamente. Si las ondas son de la misma amplitud en 
+P,, ambas se anularán totalmente en este punto.
+
+472 | Capítulo 16 Superposición y ondas estacionarias 
+Las funciones de onda para las ondas de dos fuentes que oscilan en fase pueden escri- 
+birse en la forma 
+Po Sen(kx, — wt) P| 
+Po sen(kx, - ot) P2 
+La diferencia de fase para estas dos funciones de onda es 
+ô = (kx — at) - (kx, - ot)= k(x —x,) = kAx 
+Utilizando k = 27/A, se tiene 
+EJEMPLO 16.3 | Una onda sonora resultante 
+ô= kir = 2r 2 (16.9) 
+DIFERENCIA DE FASE DEBIDA A LA DIFERENCIA DE TRAYECTOS 
+Dos focos sonoros oscilan en fase. En un punto a 5,00 m de un foco y a 5,17 m del otro, la 
+amplitud del sonido procedente de cada foco por separado es pọ. Hallar la amplitud de la onda 
+resultante si la frecuencia de las ondas sonoras es (a) 1000 Hz, (b) 2000 Hz y (c) 500 Hz. (Utili- 
+zar 340 m/s como velocidad del sonido.) 
+Planteamiento del problema La amplitud de la onda resultante debida a la superposición de 
+dos ondas cuya diferencia de fase es d viene dada por A = 2py cos 15 (ecuación 16.6), en donde py 
+es la amplitud de una cualquiera de las ondas y 6 = 27 Ax/A es la diferencia de fase. Como ya cono- 
+cemos la diferencia de trayectos Ax = 5,17 m — 5 m = 0,17 m, sólo necesitamos determinar la longi- 
+tud de onda 4. 
+(a) 1. La longitud de onda es igual a la velocidad dividida por la fre- 
+cuencia. Calcular A para f= 1000 Hz: 
+2. Para A = 0,34 m la diferencia de trayectos (Ax = 0,17 m) es 54, 
+de modo que se producirá interferencia destructiva. Usar este 
+valor de A para calcular la diferencia de fase 6 y utilizar 6 para 
+determinar la amplitud A: 
+(b) 1. Calcular A para f= 2000 Hz: 
+2. Para A= 0,17 m, la diferencia de trayectos es igual a A y la inter- 
+ferencia es constructiva. Calcular la diferencia de fase y la ampli- 
+tud: 
+(c) 1. Calcular A para f = 500 Hz: 
+2. Calcular la diferencia de fase y amplitud: 
+v 340 m/s A = 0! A 7 = 1000 34m 
+BX O17 m _ 
+Ramage" ham A 
+por lo tanto 
+= 2S ore = 017m 
+EA 087m © 6 = 2n = a 2 
+y substituyendo en la expresión de la amplitud 
+A = 2p, cos 46 = 2p)cos x =r] 
+_ y _340m/s _ A= = S00 Hz = 0,68 m 
+= as 017m _ 2 
+ON Ae g ere 2 
+La amplitud resulta 
+AIN i E = A = 2p, cos 38 = 2p, cos
+
+EJEMPLO 16.4 | Intensidad sonora de dos altavoces 
+Dos altavoces enfrentados entre sí a una distancia de 180 cm están accionados por un oscilador 
+común de audio a 680 Hz. Localizar los puntos entre los altavoces a lo largo de la línea que los 
+une, para los cuales la intensidad del sonido es (a) máxima y (b) mínima. (Despreciar la varia- 
+ción de intensidad de cada altavoz con la distancia y usar 340 m/s para la velocidad del 
+sonido.) 
+Planteamiento del problema Elegimos como origen el punto medio entre los altavoces (figura 
+16.7). Como este punto equidista de los altavoces será un punto de intensidad máxima, Si nos move- 
+mos una distancia x hacia uno de los altavoces la diferencia de trayectos es 2x. La intensidad será 
+máxima cuando 2x = 0, A, 2A, 3A, ... y mínimo cuando 2x = ; 54, 3A, (a 
+(a) 1. La intensidad será máxima cuando 2x sea igual a un número 
+entero de longitudes de onda: 
+: ; pera 2. Calcular la longitud de onda: A= f  680Hz 
+3. Despejar x utilizando la longitud de onda calculada 
+2x=+A, +24, 134, ... 
+r=+]4,14,+34,. 
+16.1 Superposición de ondas | 473 
++90 cm -90 cm 0 
+Figura 16.7 
+=| 0, +25 cm, + 50 cm, + 75 cm 
+(b) 1. La intensidad será mínima cuando 2x sea igual a un número impar 
+de semilongitudes de onda: 
+3 5 
+2. Despejar x utilizando la longitud de onda calculada: x=134 134,13 
+Observaciones Los máximos y mínimos serán máximos y mínimos relativos, ya que la amplitud 
+del altavoz más próximo será ligeramente mayor que la correspondiente al altavoz más alejado. Solo 
+se han utilizado siete valores de x para la intensidad máxima y ocho valores para la intensidad 
+mínima ya que valores adicionales estarán fuera del alcance de un altavoz. 
+La figura 16.8a muestra el conjunto de las ondas producidas por dos focos puntuales en 
+una cubeta experimental que están oscilando en fase, produciendo cada uno de ellos ondas 
+circulares. Los frentes de onda que se observan tienen todos la misma fase y están separados 
+por una longitud de onda. Podemos construir un esquema semejante con un compás dibu- 
+jando arcos circulares que representen las crestas de las ondas de cada foco en un instante de 
+tiempo determinado (figura 16.8b). En los puntos en donde se cortan o solapan las crestas 
+procedentes de cada foco, las ondas interfieren constructivamente. En estos puntos, los tra- 
+yectos correspondientes a las ondas procedentes de ambos focos son iguales o difieren en un 
+número entero de longitudes de onda. Las líneas de trazos indican los puntos que son equidis- 
+tantes de los focos o cuyas diferencias de trayectos son una, dos o tres longitudes de onda, En 
+cada punto de cualquiera de esta líneas la interferencia es constructiva, de modo que éstas son 
+líneas de interferencia máxima. Entre las líneas de interferencia máxima hay líneas de interfe- 
+rencia mínima. En una línea de interferencia mínima, la longitud desde cualquier punto que 
+esté en ella hasta cada uno de los dos focos difiere en un número impar de semilongitudes de 
+onda. En la región donde las dos ondas se superponen, la amplitud de la onda resultante viene 
+dada por A = 2p¿co0s E ô, siendo po la amplitud de cada onda por separado y estando ô 
+relacionada con la diferencia de trayectos Ar mediante 6 = 27 Ar/y (ecuación 16.9). 
+La figura 16.9 muestra la intensidad de la onda resultante a partir de dos focos, en función 
+de la diferencia de trayectos Ax. En los puntos en que la interferencia es constructiva, la inten- 
+sidad es 4/p, en donde / es la intensidad debida a una cualquiera de las fuentes, ya que la 
+amplitud de la resultante es el doble de la amplitud de una de las ondas cualesquiera. En los 
+puntos de interferencia destructiva, la intensidad es cero. La intensidad media, indicada por la 
+línea de trazos de la figura, es el doble de la intensidad correspondiente a la de un solo foco, 
+resultado exigido por la conservación de la energía. Podemos ver que, como consecuencia de 
+la interferencia de las ondas procedentes de dos focos, la energía se redistribuye en el espacio. 
+Puede mostrarse la interferencia entre dos ondas sonoras alimentando dos altavoces separados 
+2x = +54, +34, £34... 
+Reiss 1 
++ 12,5 cm, + 37,5 cm, + 62,5 cm, 87,5 cm 
+(a) 
+aed ar A 
+r= r= Ar=2A ` - i Ar=24 
+a ` t =p tł + 
+Ar=3A x Y <=? * Ar=3A 
+$ y AH “ A 4 + hen ? < x t >, ye AA AA, ID 
+e AAA, X 5 O at ed 
+(+ (ae Fa SY? 
+YAFTUIVATS AS Sy ATA ATA 
+X Te 
+Wan <) rata ANOVA 
+b yra . 
+(b) Si + $ 
+Figura 16.8 (a) Ondas de agua producidas por 
+dos focos puntuales que oscilan en fase en una 
+cubeta de ondas. (b) Construcción geométrica del 
+patrón de interferencia de (a). Las líneas de trazos 
+indican los puntos para los cuales las longitudes de 
+los trayectos difieren en un número entero de 
+longitudes de onda.
+
+474 | Capítulo 16 Superposición y ondas estacionarias 
+9 mB 2 TAHA S&S = 
+Figura 16.9 Intensidad en función de la diferencia 
+de trayectos para dos fuentes que están en fase. /, es la 
+intensidad de cada fuente individualmente. 
+A tia if, 
+— 2L yv (a) === on tal 
+Primer armónico, fundamental 
+2L ay a 2L 
+93 
+L yy 
+il 
+A IA A A 
+(e) ES 55 Sù 
+Quinto armónico 
+te 
+Figura 16.10 Ondas estacionarias en una cuerda 
+fija por ambos extremos. Los puntos marcados con 
+A son vientres o antinodos y los señalados con N 
+son nodos. En general, el armónico enésimo tiene n 
+antinodos. 
+con el mismo amplificador (de modo que estén siempre en fase) que recibe una señal de audio- 
+frecuencia. Moviéndose por la habitación es posible detectar por el oído las posiciones de 
+interferencia constructiva y destructiva.! Esta experiencia ha de realizarse en cámaras insonori- 
+zadas, donde se minimizan las reflexiones (los ecos) de las paredes del recinto. 
+Coherencia No es necesario que dos focos estén en fase para que produzcan un patrón 
+de interferencia. Considérense dos focos que están desfasados en 180°. (Dos focos sonoros 
+que están en fase pueden convertirse en dos focos desfasados en 180°, intercambiando sim- 
+plemente las conexiones de uno de los altavoces.) El patrón de intensidades es el mismo que 
+el de la figura 16.9 excepto que los máximos y mínimos están intercambiados. En los puntos 
+en que la diferencia de trayectos es un número impar de semilongitudes de onda, las ondas 
+están ahora en fase porque la diferencia de fase de 180° se ve contrarrestada por la diferencia 
+de fase de 180° originada por la diferencia entre los trayectos. 
+Se producirán patrones de interferencia semejantes, mediante dos focos cuya diferencia de 
+fase sea constante a lo largo del tiempo. Dos focos que están en fase o tienen una diferencia de 
+fase constante se dice que son focos o fuentes coherentes. Es fácil conseguir fuentes coheren- 
+tes de ondas en el agua de una cubeta de ondas si se accionan ambas fuentes con el mismo 
+motor. Se obtienen focos sonoros coherentes accionando dos altavoces con la misma fuente de 
+señal y el mismo amplificador. 
+Las fuentes de ondas cuya diferencia de fase no es constante a lo largo del tiempo, sino que 
+varía aleatoriamente, se denominan fuentes incoherentes. Existen muchos ejemplos de fuentes 
+incoherentes, como dos altavoces alimentados por amplificadores diferentes o dos violines toca- 
+dos por dos violinistas diferentes. En el caso de fuentes incoherentes, la interferencia en un punto 
+concreto varía rápidamente pasando de constructiva a destructiva, y viceversa, y no se observa 
+ningún patrón de interferencia. La intensidad resultante de las ondas originadas por dos o más 
+fuentes incoherentes es simplemente la suma de las intensidades debidas a las fuentes aisladas. 
+16.2 Ondas estacionarias 
+Cuando las ondas están confinadas en el espacio, como las ondas de una cuerda de piano, las 
+ondas sonoras de un tubo de órgano o las ondas luminosas de un láser se producen reflexio- 
+nes en ambos extremos y, por consiguiente, existen ondas que se mueven en los dos sentidos 
+que se combinan de acuerdo con el principio de superposición. Para una cuerda o tubo deter- 
+minados, existen ciertas frecuencias para las cuales la superposición da un patrón de vibra- 
+ción estacionario denominado onda estacionaria. Este tipo de ondas tiene aplicaciones 
+importantes en instrumentos musicales y en teoría cuántica. 
+Ondas estacionarias en cuerdas 
+Cuerda fija por ambos extremos Si fijamos los dos extremos de una cuerda y 
+movemos una parte de la misma hacia arriba y hacia abajo con un movimiento armónico 
+simple de pequeña amplitud, resulta que a ciertas frecuencias se obtienen unos patrones de 
+ondas estacionarias semejantes a los indicados en la figura 16.10. Las frecuencias que pro- 
+ducen estos patrones se denominan frecuencias de resonancia del sistema de la cuerda. 
+Cada una de estas frecuencias y la función de onda que la acompaña se llama modo de 
+vibración. La frecuencia de resonancia más baja se denomina frecuencia fundamental f, y 
+produce el patrón de ondas estacionarias indicado en la figura 16.10a que recibe el nombre 
+de modo fundamental de vibración o primer armónico. La segunda frecuencia más baja f, 
+produce el patrón indicado en la figura 16.10b. Este modo de vibración tiene una frecuencia 
+que es el doble de la frecuencia fundamental y se denomina segundo armónico. La tercera 
+frecuencia más baja f, es tres veces la fundamental y produce el patrón del tercer armónico 
+indicado en la figura 16.10c. El conjunto de todas las frecuencias resonantes de la cuerda se 
+denomina espectro de frecuencias de resonancia. 
+' En esta demostración, la intensidad sonora no será totalmente nula en los puntos de interferencia destructiva de las ondas 
+sonoras que proceden directamente de los altavoces, debido a las reflexiones del sonido en las paredes y otros objetos 
+presentes en la habitación,
+
+| 
+No todas las frecuencias de resonancia reciben la denominación de armónicos sino 
+únicamente aquellas del espectro de frecuencias resonantes que son un múltiplo entero 
+de la frecuencia fundamental. Muchos sistemas tienen un espectro de ondas resonantes en 
+donde las frecuencias resonantes no son múltiplos enteros de la frecuencia fundamental (la 
+de menor frecuencia). Se denomina primer sobretono a la primera frecuencia después de la 
+fundamental, el segundo sobretono a la segunda y así sucesivamente. Esta denominación 
+tiene su origen en la terminología usada en la teoría musical, donde los armónicos son los 
+múltiplos enteros de la frecuencia fundamental. 
+Obsérvese en la figura 16.10 que para cada armónico existen ciertos puntos sobre la 
+cuerda que no se mueven. Por ejemplo, el punto medio en la figura 16.10b no se mueve. 
+Estos puntos se denominan nodos. En el punto intermedio entre cada par de nodos existe un 
+punto de amplitud de vibración máxima denominado vientre o antinodo. Como es natural, 
+los dos extremos fijos de la cuerda son nodos. (Si se sujeta uno de los extremos a un diapa- 
+són u otro vibrador en lugar de estar fijo, seguirá siendo todavía aproximadamente un nodo 
+porque la amplitud de vibración en dicho extremo será mucho menor que la amplitud en los 
+antinodos.) Obsérvese que el fundamental o primer armónico tiene un antinodo, el segundo 
+armónico tiene dos antinodos y así sucesivamente. 
+Podemos relacionar las frecuencias de resonancia con la velocidad de onda en la cuerda 
+y la longitud de la misma. La distancia entre un nodo y el antinodo más próximo es un cuarto 
+de longitud de onda. Por lo tanto, la longitud de la cuerda L es igual a la mitad de la longitud 
+de onda del primer armónico (figura 16.11) y, como revela la figura 16.10, L es igual a dos 
+medias longitudes de onda para el segundo armónico, tres medias longitudes de onda para el 
+tercer armónico, etc. En general, si A, es la longitud de onda del armónico n se cumple 
+An Lon  n=1,2,3,.. (16.10) 
+CONDICIÓN DE ONDA ESTACIONARIA CON AMBOS EXTREMOS FIJOS 
+Este resultado se conoce como condición de onda estacionaria. Podemos hallar la frecuen- 
+cia del enésimo armónico a partir del hecho de que la velocidad de la onda v es igual a la fre- 
+cuencia f, multiplicada por la longitud de onda. Así 
+R= ASS. ccs 
+o bien 
+Ho Dore. (16.11) 
+FRECUENCIAS DE RESONANCIA, AMBOS EXTREMOS FIJOS 
+en donde f, = v/2L es la frecuencia fundamental. 
+Un modo sencillo de recordar las frecuencias de resonancia dadas por la ecuación 16.11 
+es hacer el esquema de la figura 16.10 para reconstruir uno mismo la condición de onda 
+estacionaria A, = 2L/n y luego utilizar f= v,/A,,. 
+SUGERENCIA PARA LA RESOLUCIÓN DE PROBLEMAS 
+Podemos entender la producción de ondas estacionarias en función de la resonancia. 
+Consideremos una cuerda de longitud L que está sujeta por un extremo a un diapasón en 
+vibración (figura 16.12), mientras que tiene fijo el otro extremo. La primera onda producida 
+por el diapasón vibrante recorre la cuerda hasta que a una distancia L se encuentra con el 
+extremo fijo, en donde se refleja e invierte. Entonces regresa hacia el diapasón, y se refleja de 
+nuevo en éste. El tiempo total para recorrer la distancia 2L es 2L/v. Si este tiempo es igual al 
+periodo del diapasón vibrante, la onda reflejada dos veces se solapa exactamente a la 
+16.2 Ondas estacionarias | 475 
+Figura 16.11
+
+476 | Capítulo 16 Superposición y ondas estacionarias 
+Figura 16.12 
+Figura 16.13 Ondas en una cuerda producidas 
+por un dispositivo mecánico cuya frecuencia no está 
+en resonancia con las frecuencias naturales de la 
+cuerda. La onda que abandona el diapasón por pri- 
+mera vez (línea de trazos roja) no está en fase con 
+las ondas que se han reflejado dos o más veces (lí- 
+neas grises), y éstas no están en fase entre ellas, por 
+lo que no existe crecimiento de amplitud. La onda 
+resultante (línea negra) tiene aproximadamente la 
+misma amplitud que las ondas individuales, que co- 
+inciden aproximadamente con la amplitud del dis- 
+positivo. 
+Barra de soporte Alambre o cuerda Polea 
+a ill 
+Dispositivo Generador de funciones 
+mecánico — = 
+Ondas en una cuerda o alambre 
+Masa 
+segunda onda producida por el diapasón y las dos ondas interferirán constructivamente, lo 
+que significa que se sumarán para producir una onda que tendrá una amplitud doble que la de 
+una de ellas. La onda combinada recorrerá la cuerda hasta el extremo fijo y retornará aña- 
+diéndose a la tercera onda producida por el diapasón y así sucesivamente. Así, el diapasón 
+entra en resonancia con la cuerda. La longitud de onda es igual a 2£ y la frecuencia es v/(2L), 
+La resonancia también se da en otras frecuencias. El diapasón entra en resonancia con la 
+cuerda si el tiempo que le cuesta a la primera onda moverse una distancia 2£ es igual al pro- 
+ducto nT, en donde n es un número entero y T, es el periodo del diapasón. Es decir, si 2L/v = 
+nT,, donde 2L/v es el tiempo de ida y vuelta de una onda. Así, 
+fn = =" ap PE TB Soc 
+es la condición de resonancia. Este resultado es el mismo que encontramos ajustando un 
+número entero de semilongitudes de onda en la distancia L. Diversos efectos amortiguadores 
+tales como la pérdida de energía durante la reflexión y la flexibilidad imperfecta de la cuerda 
+limitan la amplitud máxima que puede alcanzarse. 
+Las frecuencias de resonancia dadas por la ecuación 16.11 se denominan también frecuen- 
+cias naturales de la cuerda. Cuando la frecuencia del diapasón no coincide con ninguna de las 
+frecuencias naturales de la cuerda vibrante, no se producen ondas estacionarias. Después de 
+que la primera onda ha recorrido la distancia 2L y se ha reflejado en el diapasón, su fase es 
+diferente de la que posee la onda que en ese momento está generando el diapasón (figura 
+16.13). Cuando esta onda resultante ha recorrido la distancia 2L y se refleja de nuevo en el dia- 
+El viento turbulento produjo ondas estacionarias en el puente colgante de Tacoma Narrows, produciendo su derrumba- 
+miento el 7 de noviembre de 1940, sólo cuatro meses después de haber sido abierto al tráfico.
+
+pasón, tendrá una fase que será en general diferente de la que posee la siguiente onda generada 
+en el diapasón. En algunos casos, la nueva onda resultante tendrá una amplitud mayor que la 
+primera, mientras que en otros casos la nueva amplitud será menor. En promedio, sin embargo, 
+la amplitud no aumentará sino que permanecerá en el orden de magnitud de la amplitud de la 
+primera onda generada, que es la amplitud del diapasón y es muy pequeña en comparación con 
+las amplitudes que se obtienen a las frecuencias de resonancia. 
+La resonancia de las ondas estacionarias es análoga a la resonancia de un oscilador armónico 
+simple con una fuerza impulsora armónica. Sin embargo, un oscilador posee sólo una frecuencia 
+natural, mientras que una cuerda vibrante posee una secuencia de frecuencias naturales que son 
+múltiplos enteros de la frecuencia fundamental. Esta secuencia se denomina serie armónica. 
+EJEMPLO 16.5 |  Tocaun La 
+Una cuerda se estira entre dos soportes fijos distantes 0,70 m entre sí y se ajusta la tensión 
+hasta que la frecuencia fundamental de la cuerda es la nota La de 440 Hz. ¿Cuál es la veloci- 
+dad de las ondas transversales en la cuerda? 
+Planteamiento del problema La velocidad de la onda es igual al producto de la frecuencia por 
+la longitud de onda. Si la cuerda está fija en los dos extremos, en el modo fundamental hay un único 
+antinodo en el centro de la cuerda. Así la longitud de la cuerda coincide con la mitad de la longitud 
+de onda. 
+1. La velocidad de la onda está relacionada con la frecuencia y la longi- v=fA; 
+tud de onda: 
+2. La longitud de onda del modo fundamental es el doble de la longitud L=A,/2 
+de la cuerda: 
+16.2 Ondas estacionarias | 477 
+3. Utilizar esta longitud de onda y la frecuencia conocida para determinar v = f,A, = fı2L = (440 Hz) x 2(0,7 m) 
+la velocidad: 
+g cuerda tiene 5 m de largo, hallar las frecuencias del armónico fundamental y del segundo y 
+“TE Ejercicio La velocidad de las ondas transversales en una cuerda tensa es de 200 m/s. Si la 
+5) 
+Pa tercer armónicos. (Respuesta fı = 20 Hz, f = 40 Hz, fz = 60 Hz.) 
+EJEMPLO 16.6 | Probando cuerdas de piano 
+Durante el verano un estudiante encuentra un trabajo en una tienda de música, donde colabora 
+en la construcción de instrumentos musicales. Uno de los trabajos que tiene encomendado es 
+probar la idoneidad del uso de cuerdas de un nuevo material en pianos. Una cuerda tiene una 
+longitud de tres metros y una densidad de masa lineal de 0,0025 kg/m y se le han medido dos fre- 
+cuencias resonantes consecutivas a 252 Hz y a 336 Hz. Hay que determinar la frecuencia funda- 
+mental de la cuerda y comprobar si una cuerda de este nuevo material es adecuada, teniendo en 
+cuenta que si la tensión de la misma sobrepasa los 700 N hay problemas de seguridad. 
+Planteamiento del problema La tensión Fy se calcula a partir de la expresión v = /Fy/u, en 
+donde la velocidad v se calcula a partir de v = fA usando cualquier armónico. La longitud de onda de 
+la onda fundamental es el doble de la longitud de la cuerda. Para calcular la frecuencia fundamental 
+supongamos que el armónico » corresponde a una frecuencia de 252 Hz. Entonces fy = nfi Y fasi = 
+(n + 1)f;, en donde f,,,; = 366 Hz. De estas dos ecuaciones se despeja f- 
+1. La tensión está relacionada con la velocidad de propagación de la v = /Fy/L o 
+onda: 
+2. Para obtener la velocidad usar la frecuencia fundamental f}, con A¡=2L: v = f,A,; = f,(2L) 
+3. Para obtener la tensión combinar los dos resultados anteriores: Fy == AfL)? 
+4. Los armónicos consecutivos f, y fy, están relacionados con la frecuen- nf, = 252 Hz 
+cia fundamental f;: (n+1)f, = 336 Hz 
+Ey. = piv2
+
+478 | Capítulo 16 Superposición y ondas estacionarias 
+5. Dividir las dos ecuaciones anteriores permite eliminar f, y calcular n: 
+6. Despejar f}: 
+7. Se usa el resultado del paso 3 para calcular Fr: 
+8. ¿La tensión es segura? 
+Figura 16.14 Se pueden reproducir las condicio- 
+nes en que una cuerda está fija por un extremo y 
+libre por el otro atando un anillo que se mueve con 
+toda libertad por una varilla vertical al extremo libre 
+de la cuerda. El otro extremo se ata a un dispositivo 
+mecánico que oscila con una amplitud muy peque- 
+ña, con lo cual puede suponerse que el extremo está 
+> Ana, Si 
+2 4 ot la 
+Primer armónico, fundamental ~ 
+A A 
+N N TAS 
+233 Bap 
+Tercer armónico 
+N A N A N A 
+. AL 2 
+| 5 5 Sah 
+Quinto armónico 3 
+nA No NON : 275 Tat 
+Séptimo armónico 
+A N A N A N A N A 
+: 9 z 94 
+Noveno armónico 
+A 
+Figura 16.16 Ondas estacionarias en una cuerda 
+fija sólo por un extremo. El extremo libre es un 
+vientre o antinodo. - 
+wine E AO eS 
+a ER 
+4n = 3n+3, luego n= 3 
+fa = nf, porlotanto fis 2 = B = E - sum 
+Fy = UfẸ(2L)? = (0,0025 kg/m)(84 Hz)?(6 m)? = 635 N 
+La tensión es inferior a 700 N, con lo cual parece que la cuerda es segura 
+siempre y cuando la tensión no aumente de forma significativa. 
+Cuerda fija por un extremo y libre por el otro La figura 16.14 muestra una 
+cuerda que tiene un extremo fijo y el otro atado a un anillo sin masa que puede moverse con 
+toda libertad hacia arriba y hacia abajo por una varilla vertical. El movimiento vertical del 
+extremo atado al anillo no tiene ninguna restricción, por lo que podemos decir que es un 
+extremo libre. El anillo no tiene masa, es decir, si la cuerda le ejerce una fuerza vertical finita 
+éste responderá con una aceleración infinita. La aceleración será finita sólo si la pendiente de 
+la cuerda en su extremo libre es horizontal, lo cual significa que es un antinodo. En el modo 
+fundamental de vibración de una cuerda sujeta únicamente por un extremo hay un nodo en 
+un extremo y un antinodo en el otro, por lo tanto L=A,/4 (figura 16.15). (La distancia de un 
+nodo al siguiente antinodo es 4/4.) 
+En cada modo de vibración mostrado en la figura 16.16 hay un número impar de cuartos 
+de longitud de onda en toda la cuerda, es decir, L =nA,/4, en donde n = 1,3,5,... La condi- 
+ción de onda estacionaria se escribe como 
+MS APIO (16.12) 
+CONDICIÓN DE ONDA ESTACIONARIA, UN EXTREMO LIBRE 
+con lo cual A, = 4L/n. En estas condiciones, las frecuencias de resonancia vienen dadas por 
+fy = S- =n E =nf;, n= 1,3,5,... (16.13) n 
+FRECUENCIAS DE RESONANCIA, UN EXTREMO LIBRE 
+en donde 
+f=z (16.14) 
+es la frecuencia fundamental. Las frecuencias naturales de este sistema se presentan en las 
+razones 1:3:5:7:..., lo que significa que se han perdido los armónicos pares. 
+La ecuación 16.13 se esquematiza en la figura 16.16 para recordarnos de un modo senci- 
+Ilo las frecuencias de resonancia y la condición de onda estacionaria utilizando f= v,/A,,. 
+SUGERENCIA PARA LA RESOLUCIÓN DE PROBLEMAS 
+Funciones de onda para ondas estacionarias Cuando una cuerda vibra en su 
+modo n, cada punto de la cuerda se mueve con movimiento armónico simple. Su desplaza- 
+miento y,(x, t) viene dado por 
+y,(x, t) =A,(x) cos (0,1 + 5,)
+
+en donde o, es la frecuencia angular, 6, la constante de fase, que depende de las condiciones 
+iniciales, y A,(x) es la amplitud, que depende de la localización del segmento. La función 
+A, (x) es la forma de la cuerda cuando cos(0,t + 6,) = 1 (el instante en que la vibración tiene 
+su amplitud máxima). La amplitud de una cuerda vibrando en su armónico n es 
+A,(x) =A, sen kx (16.15) 
+en donde k, = 27/2, es el número de ondas. Por lo tanto, la función de onda para una onda 
+estacionaria en el armónico 7n puede escribirse en la forma 
+y, (x, t) =A, sen kx cos (00,1 + 6,) (16.16) 
+Es útil recordar las dos condiciones necesarias para que se den ondas estacionarias, a saber, 
+1. Cada punto de la cuerda permanece en reposo o bien oscila con movimiento armó- 
+nico simple. (Los puntos en reposo son los nodos). 
+2. El movimiento de dos puntos cualesquiera de la cuerda que no sean nodos va en 
+fase o con un desfase de 180°. 
+CONDICIONES NECESARIAS PARA EL MOVIMIENTO DE UNA ONDA ESTACIONARIA EN UNA CUERDA 
+EJEMPLO 16.7 | Ondas estacionarias 
+(a) Las funciones de onda para dos ondas de igual amplitud, frecuencia y longitud de onda, 
+pero que se propagan en sentidos opuestos, vienen dadas por y; = yy sen (kx — wt) € y, = Yo 
+sen (kx + wt). Demostrar que la suma de estas dos ondas es una onda estacionaria. (b) Una 
+onda estacionaria en una cuerda fija por sus dos extremos viene dada por y(x, £) = (0,024 m) 
+sen (52,3 m=! x) cos (480 s”! 1). Determinar la velocidad de las ondas sobre la cuerda y la dis- 
+tancia entre los nodos para las ondas estacionarias. 
+Planteamiento del problema Para demostrar que la superposición de dos ondas es una onda 
+estacionaria hay que demostrar que la suma algebraica de y, e y, puede escribirse de una forma seme- 
+jante a la ecuación 16.16. Para determinar la velocidad de propagación de la onda y la longitud de onda 
+se compara la función de onda dada con la ecuación 16.16 y se identifican el número de onda y la fre- 
+cuencia angular, y a partir de éstos se calcula la longitud de onda y la velocidad de propagación. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+16.2 Ondas estacionarias 
+jINTENTELO USTED MISMO! 
+(a) 1. Escribir la ecuación 16.16. Si la suma de y, e y, puede escribirse  y(x,f) = A sen kx cos wt 
+de esta forma, la superposición de las dos ondas es una onda esta- 
+cionaria. 
+2. Sumar las dos funciones de onda y usar la identidad trigonomé- y 
+trica sen 6, + sen 6, =2 sen 1 (0, + @,)cos ¿(0 — 0»). 
+Nota: Esta expresión coincide con la forma dada por la ecuación 16.16 con 
+A = 2yo. por lo tanto, la superposición es una onda estacionaria. 
+2 y, sen kx cos wt 
+Yo Sen(kx — wt) + y, sen(kx + wr) 
+(b) 1. Identificar el número de onda y la frecuencia angular. k =[523 m1]. a= 
+2. Calcular la velocidad a partir de v = awk. v =[9.18 m/s] 
+3. Determinar la longitud de onda A = 27/k, y usar esta magnitud =|6,01 cm 
+para calcular la distancia entre nodos. 
+Ondas sonoras estacionarias 
+Un tubo de órgano es un ejemplo familiar del empleo de ondas estacionarias en columnas de 
+aire. En estos tubos de tipo lengiieta se dirige un chorro de aire contra el borde afilado de una 
+abertura (punto A en la figura 16.17). El movimiento turbulento complicado del aire cerca de 
+dicho borde crea vibraciones en la columna de aire. Las frecuencias de resonancia del tubo 
+dependen de su longitud y de que su extremo esté abierto o cerrado. 
+479
+
+480 | Capítulo 16 Superposición y ondas estacionarias 
+Figura 16.17 Tubo de órgano de lengüeta. Se 
+sopla una corriente de aire contra el borde 
+originando un movimiento turbulento del aire cerca 
+de A que excita ondas estacionarias en el tubo. 
+Existe un nodo de presión cerca del punto A, que 
+está abierto a la atmósfera. 
+En un tubo de órgano abierto, la presión en ambos extremos es igual a la presión atmos- 
+férica y no varía, Por lo tanto, existe un nodo de presión en los dos extremos del tubo. (Este 
+resultado está basado en la hipótesis de que la onda sonora en el tubo es una onda unidimen- 
+sional, lo cual es aproximadamente cierto si el diámetro del tubo es mucho menor que la lon- 
+gitud de onda. En la práctica, los nodos de presión están ligeramente más allá de los 
+extremos del tubo. La longitud efectiva del tubo es L.p = L + AL, en donde AL es la correc- 
+ción de los extremos, una distancia que es algo menor que el diámetro del tubo.) La condi- 
+ción de onda estacionaria para este sistema es la misma que para una cuerda fija por ambos 
+extremos. Una vez que se reemplaza L por L, (la longitud efectiva del tubo), pueden apli- 
+carse las mismas ecuaciones de la cuerda. 
+En un tubo de órgano cerrado (abierto por un extremo y cerrado por el otro) hay un nodo 
+de presión próximo a la abertura (punto A de la figura 16.17) y un antinodo de presión en el 
+extremo cerrado. La condición de onda estacionaria para este sistema es la misma que la de 
+una cuerda con un extremo fijo y el otro libre. La longitud efectiva del tubo debe ser igual a 
+un número impar de veces 4/4. Es decir, la longitud de onda del modo fundamental es 4 
+veces la longitud efectiva del tubo y sólo están presentes los armónicos impares. 
+Como vimos en el capítulo 15, una onda sonora puede considerarse como una onda de 
+presión o como una onda de desplazamiento. Las variaciones de presión y desplazamiento 
+en una onda sonora están desfasadas 90°. Así, en una onda sonora estacionaria, los nodos de 
+presión son antinodos de desplazamiento y viceversa. Cerca del extremo abierto de un tubo 
+de órgano hay un nodo de presión y un antinodo de desplazamiento, mientras que el extremo 
+cerrado es un antinodo de presión y un nodo de desplazamiento. 
+EJEMPLO 16.8 | Ondas sonoras estacionarias en una columna de aire | 
+Si la velocidad del sonido es 340 m/s, ¿cuáles son las frecuencias y las longitudes de onda per- 
+mitidas en el caso de las ondas estacionarias de un tubo abierto por los dos lados cuya longitud 
+efectiva es 1 m? 
+Planteamiento del problema En cada extremo hay un antinodo para el desplazamiento (y un 
+nodo para la presión). Por consiguiente, la longitud efectiva del tubo es ún número entero de semi- 
+longitudes de onda. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Calcular la longitud de onda fundamental a partir de A; = 2£,f. A, = 2L¿=2m 
+2. Utilizar el valor de A, para calcular la frecuencia fundamental f}. 
+3. Escribir expresiones para las frecuencias f, y longitudes de onda A, de 
+los restantes armónicos en función de n. 
+EJEMPLO 16.9 | Ondas sonoras estacionarias en una columna de aire II 
+Cuando encima del tubo parcialmente lleno de agua de la figura 16.18 se mantiene un diapa- 
+són de 500 Hz de frecuencia, aparecen resonancias cuando el nivel del agua está a distancias 
+L = 16,0, 50,5, 85,0 y 119,5 cm de la parte superior del tubo. (a) ¿Cuál es la velocidad del sonido 
+en el aire? (b) ¿A qué distancia del extremo del tubo está el antinodo de desplazamiento? 
+Planteamiento del problema Ajustando el nivel del agua, en la columna de aire de longitud ajus- 
+table L se producen ondas sonoras de 500 Hz. La columna de aire está cerrada por un extremo y abierta 
+porel otro. Así cuando hay resonancia, en el tubo hay un número impar de cuartos de longitudes de onda 
+(véase la figura 16.19). Hay un nodo de desplazamiento en la superficie del agua y un antinodo de des- 
+plazamiento un poco por encima del extremo abierto del tubo. Ya que la frecuencia está determinada por 
+el diapasón también lo está la longitud de onda. La velocidad de propagación se calcula entonces a partir 
+de v = fA, donde fes 500 Hz. 
+jINTENTELO USTED MISMO!
+
+16.2 Ondas estacionarias | 481 
+Figura 16.18 
+(a) 1. La velocidad del sonido en el aire está relacionada con la frecuen- v=fA 
+cia y la longitud de onda: 
+2. La longitud de onda es el doble de la distancia entre dos niveles A= 2(L,.,-L,), n= 1,2,3,4 
+sucesivos del agua en los que se da resonancia: 
+3. La distancia entre dos niveles sucesivos de agua se determina a En+i=L£, = La- L, = 119, 5cm-85cm = 34,5 cm 
+partir de los datos del problema: sustituyendo arriba se obtiene 
+A = 2(34,5 cm) = 69 cm = 0,69 m 
+4. Para calcular v se sustituyen los valores de fy de A: y = fA = (500 Hz)(0,69 m) =|345 m/s 
+(b) Hay un antinodo 1/4 por encima del nodo situado en la superficie del AL = ALT = +(69,0 cm) —(16,0 cm) =[1,25 cm] 
+agua. Así, la distancia desde el nivel del agua más alto que da lugar a 
+resonancia y el antinodo situado por encima del tubo es 4/4, es decir 
+A = L +AL: 
+523 Hz 1569 Hz 2532 Hz 2819 Hz 3104 Hz 
+3866 Hz 3957 Hz 4709 Hz 5323 Hz 5435 Hz 6137 Hz 
+6263 Hz 6571 Hz 6892 Hz 7962 Hz 8002 Hz 8639 Hz 
+Interferogramas holográficos que muestran las ondas estacionarias de una campanilla. Los “ojos de buey” corresponden a las 
+posiciones de los vientres o antinodos.
+
+482 | Capítulo 16 Superposición y ondas estacionarias 
+Figura 16.20 Cuerda pulsada por el centro. 
+Cuando se deja libre, su vibración es una 
+combinación lineal de ondas estacionarias. 
+= y Simétrico ">. Al L 
+e M -respecto a = 
+5] } j Antisimétrico 
+= i = respecto at 2 
+I 
+-respecto a4 
+Figura 16.21 Los cuatro primeros armónicos 
+correspondientes a una cuerda fija por ambos 
+extremos. Los armónicos impares son simétricos 
+respecto al centro de la cuerda, cosa que no ocurre 
+con los armónicos pares. Cuando una cuerda se 
+pulsa por el centro, vibra únicamente con los 
+armónicos impares. 
+Lx 
+Figura 16.22 Forma aproximada de la cuerda 
+pulsada por el centro, de la forma indicada en la 
+figura 16.20, utilizando armónicos. La línea roja es 
+la aproximación a la forma original de la cuerda 
+basada en los tres primeros armónicos impares. 
+La mayor parte de la energía está asociada con el 
+fundamental, pero los armónicos tercero, quinto y 
+demás impares poseen también cierta energía. 
+La mayoría de los instrumentos musicales son mucho más complicados que un simple 
+tubo cilíndrico. El tubo cónico, que es la base del oboe, el fagot, el corno inglés y el saxofón 
+tienen unas series armónicas completas con su longitud de onda fundamental igual al doble 
+de la longitud del cono. Los instrumentos de viento son combinaciones de conos y cilindros. 
+El análisis de estos instrumentos es extremadamente complejo. El hecho de que tengan 
+series casi armónicas es un triunfo del método de tanteo inteligente más que la consecuencia 
+de cálculos matemáticos. 
+*16.3 Superposición de ondas estacionarias 
+Como hemos visto existen una serie de frecuencias de resonancia naturales que producen 
+ondas estacionarias sonoras en columnas de aire o cuerdas vibrantes que están sujetas por 
+uno o ambos extremos. Por ejemplo, para una cuerda fija en ambos extremos, la frecuencia 
+del modo fundamental de vibración es f; = v/2L, en donde L es la longitud de la cuerda y v la 
+velocidad de la onda, La función de onda correspondiente es la ecuación 16.16: 
+yx% t) = A; sen k¡x cos (@,t+6,) 
+En general, un sistema vibrante no vibra con un modo armónico aislado. En su lugar, el 
+movimiento se compone de una mezcla de los armónicos permitidos. La función de onda es 
+una combinación lineal de funciones de onda armónicas: 
+y(x, t) = $; A, sen k,x cos (0,1 + 6,) (16.17) 
+en donde k, = 27/A,,, @, = 27f,, y A y ô, son constantes. Las constantes A,, y ô, dependen de la 
+posición y velocidad iniciales de la cuerda. Si, por ejemplo, una cuerda de arpa se pulsa en el 
+centro y se deja en libertad como muestra la figura 16.20, la forma inicial de la cuerda es 
+simétrica alrededor del punto x = 5L y la velocidad inicial es cero en toda la longitud de la 
+cuerda. El movimiento de la cuerda permanecerá siendo simétrico alrededor de dicho punto 
+una vez suelta. Sólo se excitarán los armónicos impares, que son también simétricos res- 
+pecto al punto central y no se excitarán los pares, que son antisimétricos respecto a x = 5L. 
+Es decir, la constante A,, es cero para todo valor par de n. En la figura 16.21 se indican las 
+formas de los cuatro primeros armónicos. La mayor parte de la energía de la cuerda pulsada 
+está asociada con el armónico fundamental, pero existen también pequeñas cantidades de 
+energía asociadas con los modos armónicos tercero, quinto e impares superiores. La figura 
+16.22 muestra una aproximación de la forma inicial de la cuerda utilizando las superposicio- 
+nes únicamente de los tres primeros armónicos impares. 
+*16.4 Análisis y síntesis armónicos 
+Cuando un oboe y un clarinete tocan la misma nota, por ejemplo la nota La, suenan de forma 
+muy diferente. Ambas notas tienen el mismo tono, que es una sensación fisiológica de la 
+altura de la nota que está fuertemente correlacionada con su frecuencia. Sin embargo, las 
+notas difieren en lo que se denomina cualidad del tono o timbre. La razón principal para la 
+diferencia del timbre es que, aunque tanto el clarinete como el oboe están produciendo 
+vibraciones con la misma frecuencia fundamental, cada uno de ellos está también produ- 
+ciendo armónicos cuyas intensidades relativas dependen del instrumento y de la forma en 
+que se toque. Si cada instrumento produjese sólo la frecuencia fundamental, el sonido sería 
+el mismo para los dos. 
+En la figura 16.23 se muestran algunos gráficos de las variaciones de presión en función 
+de tiempo para un diapasón, un clarinete y un oboe, que tocan todos la misma nota. Estas
+
+Diapasón 
+(a) 
+Clarinete 
+(b) 
+Oboe 
+100 100 100 
+Diapasón Clarinete Oboe 
+$ E 5 & G 
+2 E El 
+E E E E E E 
+Ili 12345678910 12345678910 12345678910 
+Armónicos Armónicos Armónicos 
+(a) (b) (c) 
+curvas reciben el nombre de formas de onda. La forma de onda correspondiente a un diapa- 
+són es prácticamente una onda sinusoidal pura, lo cual evidentemente no ocurre en el caso 
+del clarinete y el oboe. 
+Las formas de onda pueden analizarse descomponiéndolas en los armónicos que la cons- 
+tituyen. Dicho análisis recibe el nombre de análisis armónico. (El análisis armónico tam- 
+bién se llama a veces análisis de Fourier, ya que fue este científico francés quien desarrolló 
+el método matemático para analizar funciones periódicas.) La figura 16.24 muestra una 
+representación de las intensidades relativas de los armónicos de las formas de onda de la 
+figura 16.23. La forma de onda del diapasón contiene sólo la frecuencia fundamental. La del 
+clarinete contiene el armónico fundamental, grandes cantidades del tercero, quinto y séptimo 
+armónicos y cantidades menores del segundo, cuarto y sexto armónicos. En el caso del oboe 
+el segundo y cuarto armónicos tienen más energía que el fundamental. 
+La inversa del análisis armónico es la síntesis armónica, que es la construcción de una 
+onda periódica a partir de sus componentes armónicos. La figura 16.254 muestra los tres pri- 
+meros armónicos impares utilizados para sintetizar una onda cuadrada y la 16.25b muestra la 
+onda cuadrada que resulta de la suma de los tres armónicos. Cuantos más armónicos se 
+empleen en una síntesis, más se aproxima el resultado obtenido a la forma de onda real (la 
+línea gris oscura de la figura). Las amplitudes relativas de los armónicos necesarios para sin- 
+tetizar la onda cuadrada se indican en la figura 16.26. 
+16.4 Análisis y síntesis armónicos 483 
+Figura 16.23 Formas de onda de (a) un 
+diapasón, (b) un clarinete y (c) un oboe, todos 
+con una frecuencia fundamental de 440 Hz y la 
+misma intensidad aproximada. 
+Figura 16.24  Intensidades relativas de los 
+armónicos de las formas de onda indicadas en la 
+figura 16.23 para (a) el diapasón, (b) el clarinete 
+y (c) el oboe. 
+(a) 
+(b) 
+Figura 16.25 (a) Onda cuadrada y los tres 
+primeros armónicos impares (ondas sinusoidales 
+simples) utilizados para sintetizarla. (b) La forma 
+aproximada de una onda cuadrada se obtiene 
+sumando los tres primeros armónicos impares.
+
+484 | Capítulo 16 Superposición y ondas estacionarias 
+A, 
+2 4 6 810 12141618 20 n 
+Figura 16.26 Amplitudes relativas A, de los diez 
+primeros armónicos necesarios para sintetizar una 
+onda cuadrada. Cuantos más armónicos se utilicen, 
+más nos aproximaremos a la onda cuadrada. 
+Resumen 
+*16.5 Paquetes de onda y dispersión 
+Las formas de onda estudiadas en la sección anterior son periódicas en el tiempo. Los pul- 
+sos, que no son periódicos, pueden representarse mediante un grupo de funciones de onda 
+armónicas de distintas frecuencias. Sin embargo, para sintetizar un pulso resulta necesario 
+contar con una distribución continua de frecuencias en lugar de un conjunto discreto como 
+en la figura 16.26. Dicho grupo de ondas se denomina paquete de ondas. La propiedad 
+característica de un pulso de onda que lo distingue de una onda periódica de una sola fre- 
+cuencia, es que el pulso tiene un principio y un final, mientras que una onda armónica se 
+repite una y otra vez. Si la duración del pulso Af es muy corta, el intervalo de frecuencias A% 
+que se necesita para describir el pulso es muy grande. La relación general existente entre Ar 
+y Awes 
+Ao At~ 1 (16.18) 
+donde el símbolo ~ significa “del orden de”. 
+El valor exacto de este producto depende de cómo se definen las magnitudes A@ y Ar. En 
+todas las definiciones razonables A% es del orden de 1/At. Un pulso de onda producido por 
+una fuente de corta duración At, como un golpe de bate sobre una pelota, tiene una anchura 
+corta en el espacio Ax = v Ar, siendo v la velocidad de la onda. Toda onda armónica de fre- 
+cuencia @ tiene un número de onda k = œv. Un intervalo de frecuencias A@ implica un inter- 
+valo de números de onda Ak = Aq@/v. Sustituyendo A@ por v Ak en la ecuación 16.18 se tiene 
+v Ak At ~ 1 o bien 
+Ak Ax~ 1 (16.19) 
+Si un paquete de ondas ha de mantener su forma cuando se desplaza, todas las ondas 
+armónicas que componen el paquete deben moverse a la misma velocidad. Sucede así si la 
+velocidad de las ondas armónicas en un medio dado no depende de la longitud de onda ni de 
+la frecuencia. Un medio de estas características se denomina medio no dispersivo. El aire, 
+en excelente aproximación, es un medio no dispersivo para las ondas sonoras, pero los líqui- 
+dos y los sólidos generalmente no lo son. (Probablemente el ejemplo más familiar de la dis- 
+persión es el arco iris, el cual surge porque la velocidad de la luz en el agua depende 
+ligeramente de su frecuencia y longitud de onda, de modo que los diferentes colores corres- 
+pondientes a las distintas longitudes de onda poseen ángulos de refracción ligeramente dis- 
+tintos.) 
+Cuando la velocidad de la onda en un medio dispersivo depende sólo ligeramente de la 
+frecuencia y de la longitud de onda, un paquete de ondas cambia muy lentamente de forma 
+en su propagación y recorre una distancia considerable como una entidad reconocible. Sin 
+embargo, la velocidad de este paquete, llamada velocidad de grupo, no es la misma que la 
+velocidad (media) de las ondas armónicas componentes individuales, llamada velocidad de 
+fase. (La velocidad de una onda armónica individual es la velocidad de sus frentes de onda. 
+Por lo tanto, se denomina velocidad de fase de la onda a la velocidad de los frentes de onda, 
+ya que éstos son las líneas o superficies de fase constante.) 
+1 El principio de superposición, válido para todas las ondas electromagnéticas en el vacío, para las ondas 
+en una cuerda flexible tensa en la aproximación de ángulos pequeños y para las ondas sonoras de 
+pequeña amplitud, resulta de la linealidad de las correspondientes ecuaciones de ondas. 
+2 La interferencia es un fenómeno ondulatorio importante que se aplica a todas las ondas que se superpo- 
+nen coherentemente, Resulta del principio de superposición. La difracción y la interferencia distinguen 
+el movimiento ondulatorio del movimiento de partículas. 
+3 Las condiciones de onda estacionaria pueden recordarse esquematizando una cuerda o un tubo con 
+nodos en un extremo fijo o cerrado y antinodos en un extremo libre o abierto.
+
+TEMA 
+16.5 Paquetes de onda y dispersión | 485 
+OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Superposición e interferencia 
+Interferencia constructiva 
+Interferencia destructiva 
+Pulsaciones (o batidos) 
+Diferencia de fase Ó debida a la 
+diferencia de trayectos Ax 
+La superposición de dos ondas armónicas de igual amplitud, número de onda y frecuencia, pero fase distinta 
+6, da lugar a una onda armónica del mismo número de onda y frecuencia pero distinta en fase y amplitud res- 
+pecto a cada una de las ondas. 
+Y = Y; +): = yo seníkx— 01) + yo sen(kx— wr + ô) 
+= [2y,cos 3 0]sen (kx— ot +3 6) (16.6) 
+Si las ondas están en fase o difieren sus fases en un múltiplo entero de 27, las amplitudes de las ondas se 
+suman y la interferencia es constructiva. 
+Si las ondas difieren en fase en x o en un múltiplo impar de z, las amplitudes se restan y la interferencia es 
+destructiva. 
+Las pulsaciones resultan de la interferencia de dos ondas de frecuencias ligeramente distintas. La frecuencia 
+de batido es igual a la diferencia entre las frecuencias de las dos ondas: 
+SF vatito = Af 
+5=kAx = 20 (16.9) 
+2. Ondas estacionarias 
+Longitud de onda 
+Cuerda fija por ambos extremos 
+Onda estacionaria en una cuerda fija 
+por los dos extremos 
+Tubo de órgano abierto por ambos extremos 
+Cuerda fija por un extremo y libre por el otro 
+Tubo de órgano abierto por un extremo y cerrado 
+por el otro 
+Funciones de onda estacionaria 
+Cuando las ondas están confinadas en el espacio, las ondas estacionarias se producen a ciertas frecuencias y 
+longitudes de onda. Sólo se dan ondas estacionarias cuando cada punto del sistema oscila en un movimiento 
+armónico simple y dos puntos en movimiento cualesquiera oscilan en fase o con un desfase de 180° 
+La distancia entre un nodo y un antinodo adyacente es un cuarto de longitud de onda. 
+En una cuerda fija por sus dos extremos se forma un nodo en cada uno de ellos. El resultado es que debe 
+ajustarse un número entero de semilongitudes de onda en la longitud completa de la cuerda. En este caso, la 
+condición de onda estacionaria es 
+pan >, PIN (16.10) 
+== = ahi, ECES o 
+en donde f, = v/2L es la frecuencia más baja, llamada fundamental. 
+Las ondas sonoras estacionarias en el aire de un tubo abierto por ambos extremos dan lugar a un nodo de pre- 
+sión (y un antinodo de desplazamiento) cerca de cada extremo. La condición de onda estacionaria es la 
+misma que la de una cuerda fija por los dos extremos. 
+Si una cuerda tiene un extremo fijo y el otro libre, existe un nodo en el primero y un vientre en el segundo, de 
+modo que el número de cuartos de longitudes de onda debe ajustarse en la longitud de la cuerda. La condi- 
+ción de onda estacionaria en este caso es 
+L=n 2. Rise. 1535200 (16.12) 
+Solamente están presentes los armónicos impares. Sus frecuencias vienen dadas por 
+fom =p = Ahn n = 153,35) 0% 
+donde f, = v/4L. 
+Las ondas sonoras estacionarias en un tubo abierto por un extremo y cerrado por el otro, tienen un antinodo 
+de desplazamiento en el extremo abierto y un nodo de desplazamiento en el cerrado. La condición de onda 
+estacionaria es la misma que la de una cuerda fija por un extremo. 
+y,(x, t) = A, sen k,x cos (0, t + 6,) (16.16) 
+en donde k, = 2114, y 0, = 27 fh. 
+Las condiciones necesarias para que haya ondas estacionarias en una cuerda son 
+1 Cada punto de la cuerda o bien permanece en reposo o bien oscila con movimiento armónico simple. 
+(Los puntos en reposo son los nodos.) 
+2 El movimiento de dos puntos cualesquiera de la cuerda que no sean nodos va en fase o con un desfase de 180°.
+
+486 | Capítulo 16 Superposición y ondas estacionarias 
+*3. Superposición de ondas estacionarias 
+nicos permitidos. 
+En general, un sistema vibrante no vibra en un solo modo armónico, sino según una superposición de armó- 
+*4, Análisis y síntesis armónicos Los sonidos de diferente cualidad de tono contienen diferentes mezclas de armónicos. El análisis de un tono 
+particular en función de su contenido armónico se llama análisis armónico. La síntesis armónica es la cons- 
+trucción de un tono por suma de armónicos. 
+*5. Paquetes de ondas Un pulso de onda puede representarse por una distribución continua de ondas armónicas llamada paquete de 
+ondas. El intervalo de frecuencias A@ está relacionado con la anchura del tiempo At y el intervalo de núme- 
+ros de onda Ak con la anchura del espacio Ax, 
+Intervalos de frecuencia y tiempo 
+Intervalos de número de ondas y espacio 
+Ao At-1 (16.18) 
+Ak Ax~1 (16.19) 
+*6. Dispersión En un medio no dispersivo, la velocidad de fase no depende de la frecuencia y el pulso (paquete de ondas) se 
+propaga sin cambio de forma. En un medio dispersivo, la velocidad de fase sí depende de la frecuencia y el 
+pulso cambia de forma durante su movimiento. El pulso se mueve con una velocidad denominada velocidad 
+de grupo del paquete. 
+Problemas 
+% Concepto simple, un solo paso, relativamente fácil. 
+es Nivel intermedio, puede exigir síntesis de conceptos. 
+eee  Desafiante, para alumnos avanzados. 
+SSM La solución se encuentra en el Student Solutions Manual. 
+i Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa, 
+Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan alos fuentes externas o estimaciones 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. 
+Problemas conceptuales 
+1 @@ SSM Dos pulsos de onda rectangulares se mueven en sentidos 
+opuestos a lo largo de una cuerda, En f = 0 los dos pulsos se encuentran tal y 
+como indica la figura 16.27, Dibujar las funciones de onda para r= 1, 2 y 3 s. 
+10 cm/s 10 cm/s — 
+—15 cem o. 30 em o» 
+5 cm 
+Figura 16.27 Problemas 1 y 2 
+2 08 Repetir el problema | para el caso en que el pulso de la derecha 
+de la figura 16.27 esté invertido. 
+3 e Las pulsaciones se producen por la superposición de dos ondas 
+armónicas sólo si (a) sus amplitudes y frecuencias son iguales, (b) sus amplitu- 
+des son iguales, pero sus frecuencias difieren ligeramente, (c) sus frecuencias 
+difieren ligeramente, incluso si sus amplitudes no son iguales, (d) sus frecuen- 
+cias son iguales pero sus amplitudes difieren ligeramente, 
+En algunos problemas se dan 
+más datos de los realmente 
+necesarios; en otros pocos, deben 
+extraerse algunos datos a partir 
+de conocimientos generales, 
+lógicas. 
+4 @ Verdadero o falso: 
+(a) La frecuencia del tercer armónico es tres veces la del primer armónico, 
+(b) La frecuencia del quinto armónico es cinco veces la del fundamental. 
+(c) En un tubo abierto por un extremo y cerrado por el otro no se excitan los 
+armónicos pares. 
+5  €eS Las ondas estacionarias se producen por la superposición de dos 
+ondas de (a) la misma amplitud, frecuencia y sentido de propagación, (b) la 
+misma amplitud y frecuencia y sentidos opuestos de propagación, (c) la misma 
+amplitud, frecuencia ligeramente distinta y el mismo sentido de propagación, 
+(d) la misma amplitud, frecuencia ligeramente distinta y sentidos opuestos de 
+propagación. 
+6 @ SSM Las frecuencias de resonancia de una cuerda de un violín 
+son múltiplos enteros de la frecuencia fundamental, mientras que las frecuen- 
+cias de resonancia de un tambor circular tienen una distribución espacial irre- 
+gular. A partir de este hecho explicar la diferencia entre el sonido de un violín y 
+de un tambor. 
+7 e Un tubo de órgano abierto por ambos extremos tiene una frecuen- 
+cia fundamental de 400 Hz. Si ahora se cierra un extremo de este tubo, la fre- 
+cuencia fundamental será (a) 200 Hz, (b) 400 Hz, (c) 546 Hz, (d) 800 Hz. 
+8 es Una cuerda fija por ambos extremos resuena con una frecuencia 
+fundamental de 180 Hz. ¿Cuál de las acciones siguientes reducirá la frecuencia 
+fundamental a 90 Hz? (a) Duplicar la tensión y duplicar la longitud. (b) Reducir a
+
+la mitad la tensión y mantener fija la longitud. (c) Mantener fija la tensión y 
+duplicar la longitud. (d) Mantener fija la tensión y reducir la longitud a la mitad. 
+9 ese ¿Cómo se modifican las frecuencias de resonancia de un tubo de 
+Órgano cuando aumenta la temperatura del aire? 
+10 e SSM Cuando dos ondas se mueven en direcciones opuestas se 
+superponen como en la figura 16.1. ¿Impide cada una de ellas el progreso de la 
+otra? 
+11 @ Cuando se pulsa la cuerda de una guitarra, ¿la longitud de onda de 
+la onda que se produce en el aire es la misma que la que se produce en la 
+cuerda? 
+12 @ Cuando dos ondas interfieren constructiva o destructivamente, 
+¿hay alguna ganancia o pérdida de energía? Razonar la respuesta. 
+13 e Un instrumento musical está formado por un conjunto de vasos 
+parcialmente llenos de agua que son golpeados con un pequeño mazo. Explicar 
+cómo funciona. 
+14 es Durante un recital de órgano, el compresor de aire que alimenta 
+los tubos se avería súbitamente. Un estudiante de física emprendedor, que 
+forma parte del público, aconseja conectar un tanque de gas nitrógeno puro de 
+alta presión a la salida del compresor. ¿Qué efecto, si lo hay, tendrá esta sustitu- 
+ción en el funcionamiento del órgano? ¿Y si el tanque fuera de helio? 
+15 es SSM Cuando aumenta la tensión de una cuerda de piano, 
+¿cuál de los siguientes hechos tiene lugar? (a) Su longitud de onda decrece. 
+(b) Su longitud de onda permanece la misma, pero su frecuencia crece. (c) Su 
+longitud de onda y su frecuencia crecen. (d) Ninguno de los anteriores. 
+16 es Las instrucciones para conectar correctamente los altavoces esté- 
+reo a un amplificador de modo que estén en fase son las siguientes: “Después 
+de conectar ambos altavoces, póngase un disco o programa monofónico con el 
+control de bajos al máximo y el de agudos al mínimo. Escuchando los altavo- 
+ces, girar el control de balance, de modo que primero se oiga fuerte un solo 
+altavoz, luego los dos juntos y finalmente sólo el otro altavoz. Si las notas bajas 
+suenan más fuertes cuando los dos altavoces se oyen a la vez, entonces están 
+conectados correctamente. Si las notas bajas se oyen más débiles con los dos 
+altavoces juntos que con uno y otro solo, intercambiar las conexiones de uno de 
+los altavoces”. Explicar la razón de este método. En particular explicar por qué 
+no se utiliza un programa estéreo y por qué se comparan sólo las notas bajas. 
+17 es La constante y del helio (como la de todos los gases monoatómi- 
+cos) es 1,67. Si un hombre inhala helio y después comienza a hablar, sus soni- 
+dos son más agudos. ¿Por qué? 
+18 e@@ SSM  Lafigura 16.28 corresponde a una fotografía de dos telas 
+de seda, muy finas, colocadas una encima de otra. En los puntos donde las telas 
+se superponen se pueden ver una serie de líneas oscuras y claras que correspon- 
+den a una figura de moiré, figura que aparece también cuando se utiliza un 
+Figura 16.28 Problema 18 
+Problemas | 487 
+escáner para copiar fotos de un libro o de un periódico. ¿Cuál es la causa de la 
+aparición de la figura de moiré y en qué se parece a una interferencia? 
+Estimaciones y aproximaciones 
+19 ee ¿Hasta cuando puede afinarse el sonido de una cuerda de piano 
+con el de un diapasón? 
+20 e SSM Los tubos más cortos utilizados en los órganos tienen 
+aproximadamente 7,5 cm de largo. (a) ¿Cuál es la frecuencia fundamental de 
+un tubo con esta longitud que está abierto por ambos extremos? (b) ¿Cuál es el 
+armónico más alto para un tubo de este tipo que está dentro del intervalo audi- 
+ble? (El intervalo de audición normal está entre 20 y 20 000 Hz.) 
+21 ee En un dia de mucho viento resuena a veces un tubo de desagiie. 
+Estimar la frecuencia de resonancia de este tubo en una casa de un solo piso. 
+Estimar el cambio de esta frecuencia del invierno al verano en una región tem- 
+plada. 
+Superposición e interferencia 
+22 e Dos ondas que se mueven por una cuerda en la misma dirección y 
+sentido tienen la misma frecuencia de 100 Hz, una longitud de onda de 2 cm y 
+una amplitud de 0,02 m. Determinar la amplitud de la onda resultante si las dos 
+ondas difieren en fase (a) en 7/6 y (b) en 7/3. 
+23 e Dos ondas que tienen la misma frecuencia, longitud de onda y 
+amplitud, se están moviendo en la misma dirección y sentido. Si difieren en 
+fase en 1/2 y cada una de ellas tiene una amplitud de 0,05 m, hallar la amplitud 
+de la onda resultante. 
+24 o SSM I Dos fuentes sonoras oscilan en fase con la 
+misma amplitud A. Están separadas en el espacio por una distancia de A/3. 
+¿Cuál es la amplitud de la onda resultante de las dos fuentes en un punto 
+situado en la línea que une las fuentes, admitiendo que el punto no está entre las 
+fuentes? 
+25 e Dos fuentes sonoras oscilan en fase con una frecuencia de 100 
+Hz. En un punto situado a 5,00 m de una de ellas y a 5,85 m de la otra, la ampli- 
+tud del sonido procedente de cada fuente separadamente es A. (a) ¿Cuál es la 
+diferencia de fase de las ondas sonoras procedentes de ambas fuentes en dicho 
+punto? (b) ¿Cuál es la amplitud de la onda resultante en dicho punto? 
+26 e SSM Con un compás dibujar arcos de circunferencia que re- 
+presenten crestas de ondas para dos fuentes puntuales distantes entre sí d = 6 cm 
+y para A = 1 cm. Conectar las intersecciones que corresponden a los puntos de 
+diferencias de caminos constantes y marcar dicha diferencia en cada línea. (ver 
+figura 16,8) 
+27 e Dos altavoces separados por una cierta distancia emiten sonidos 
+de una misma frecuencia. En un punto determinado P la intensidad debida a 
+cada altavoz separadamente es Jo. La distancia desde P a uno de los altavoces es 
+12 mayor que la de P al otro. Determinar la intensidad de P si los altavoces 
+(a) son coherentes y están en fase; (b) son incoherentes; y (c) son coherentes, 
+pero tienen una diferencia de fase de Trad. 
+28 e Responder a las cuestiones del problema 27 para el punto P’ en el 
+cual la distancia al altavoz más alejado es 1 A mayor que la distancia al más 
+cercano. Admitir de nuevo que la intensidad en el punto P” es Jọ debido a cada 
+altavoz separadamente, 
+29 e Dos altavoces separados cierta distancia emiten ondas sonoras de 
+la misma frecuencia, pero están desfasados en 90°. Sea r, la distancia de un 
+punto determinado al altavoz 1 y r, la que dista del mismo punto al altavoz 2. 
+Hallar el menor valor de r, — r, para el cual el sonido en ese punto sea (a) 
+máximo y (b) mínimo. (Expresar la respuesta en función de la longitud de 
+onda.)
+
+488 | Capítulo 16 Superposición y ondas estacionarias 
+30 e. SSM Demostrar que si la separación entre dos fuentes de 
+sonido que irradian coherentemente en fase es inferior a media longitud de 
+onda, no se observará interferencia totalmente destructiva en ninguna direc- 
+ción. 
+31 es İ Una onda transversal de frecuencia 40 Hz se propaga 
+por una cuerda. Dos puntos separados entre sí 5 cm están desfasados en 7/6. (a) 
+¿Cuál es la longitud de onda de la onda? (b) ¿Cuál es la diferencia de fase entre 
+dos desplazamientos en un punto determinado para instantes separados 5 ms 
+entre sf? (c) ¿Cuál es la velocidad de la onda? 
+32 es Se supone que el cerebro determina la dirección de una fuente de 
+sonido porque es capaz de apreciar la diferencia de fase entre las ondas sonoras 
+que chocan contra los tímpanos auditivos. Una fuente sonora distante emite un 
+sonido de frecuencia 680 Hz, Si nuestro rostro está frontalmente dirigido hacia 
+la fuente sonora, no apreciaremos diferencia de fase. Estimar la diferencia de 
+fase entre los sonidos recibidos por cada oído si ahora giramos 90° respecto a la 
+posición frontal. 
+33 ee | Y Una fuente sonora A está localizada en x = 0, y=0y 
+otra Ben x=0, y = 2,4 m. Las dos fuentes emiten coherentemente en fase. Una 
+observadora en x = 40 m, y = 0 observa que cuando camina en dirección y posi- 
+tiva o negativa alejándose de y = 0, la intensidad del sonido disminuye. ¿Cuál 
+es la frecuencia más baja y más alta de las fuentes que puede explicar dicha 
+observación? 
+34 es Suponer que la observadora del problema 33 localiza un punto de 
+intensidad mínima en x = 40 m, y = 0. ¿Cuál es entonces la frecuencia más alta 
+y más baja congruente con esta observación? 
+35 ee SSM Se superponen dos ondas armónicas en agua que tienen 
+igual amplitud pero distinta frecuencia, número de onda y velocidad. La perturba- 
+ción total se escribe mediante la ecuación y(x,1) =A[cos(k¡x— 09,1) + cos(kx — @f)], 
+donde œk; = vı (la velocidad de la primera onda) y @k = v2 (la velocidad de 
+la segunda onda). (a) Demostrar que y(x,1) puede escribirse de la forma y(x,t) = 
+2A cos[(Ak/2)x — (Aav2)r] COS(kmX — Omt) donde Om = (0, + 09)/2, km = 
+(k; + k2)/2, A@ = 0), - 0, y Ak = kı — kz. El factor 2A cos[(Ak/2)x — (Aay2)t] es lo 
+que se denomina la portadora de la onda. (b) Usando una hoja de cálculo o una cal- 
+culadora gráfica, representar y(x,1) si A = 1, @ = 1 rad/s, kı = 1 m, @=0,9 rad/s y 
+kz = 0,8 m7! cuando ¢ = 0 s, 1=0,5 s y f= 1 s y si además x está entre 0 y 50 m. 
+(c) ¿Cuál es la velocidad a la que se mueve la portadora? 
+36 ese Dos focos puntuales que están en fase se encuentran separados 
+una distancia d. Se detecta un patrón de interferencia a lo largo de una recta 
+paralela a la que une los focos y situada a una distancia grande D, como se 
+indica en la figura 16.29. (a) Demostrar que la diferencia de trayectos desde los 
+dos focos al mismo punto de la línea situado a un ángulo 6 viene dada aproxi- 
+madamente por As = d sen 6 (Sugerencia: Suponer que las líneas procedentes 
+de las fuentes a P son aproximadamente paralelas.) (b) Demostrar que la dis- 
+tancia y,, desde el punto correspondiente al máximo central hasta el máximo de 
+interferencia m viene dada aproximadamente por Ym = m(DA/d). 
+Figura 16.29 Problemas 36-40 
+37 oe i Y Dos focos sonoros que emiten en fase con una fre- 
+cuencia de 480 Hz interfieren de tal modo que los máximos se oyen bajo ángu- 
+los de 0° y 23° medidos a partir de una línea perpendicular a la que une los dos 
+focos. Determinar la separación entre ambos focos, así como cualquier otro 
+ángulo bajo el cual se percibe una intensidad máxima. (Utilizar los resultados 
+del problema 36.) 
+38 eo. SSM Se accionan en fase dos altavoces mediante un amplifi- 
+cador de audiofrecuencia de 600 Hz. Ambos están sobre el eje y, uno en y = 
++1,00 m y el otro en y =- 1,00 m. Un observador empieza a andar desde y = 0 
+a lo largo de una línea paralela al eje y pero a una distancia D muy grande de 
+éste. (Ver problema 36.) (a) ¿Para qué ángulo O escuchará por primera vez un 
+mínimo de intensidad sonora? (b) ¿Para qué ángulo escuchará el primer 
+máximo (después de @ = 0)? (c) ¿Cuántos máximos podrá escuchar posible- 
+mente si se mantiene andando en la misma dirección? 
+39 eee Í Dos focos sonoros, accionados en fase por el mismo 
+amplificador, están sobre el eje y separados una distancia de 2 m. En un punto 
+situado a una distancia muy grande del eje y se oye la primera interferencia 
+constructiva a un ángulo 0, = 0,140 rad respecto al eje x y el siguiente se escu- 
+cha a 6, = 0,283 rad. (Ver figura 16.29.) (a) ¿Cuál es la longitud de onda de las 
+ondas sonoras procedentes de los focos? (b) ¿Cuál es la frecuencia de los 
+focos? (c) ¿A qué otros ángulos se escuchará interferencia constructiva? (d) 
+¿Cuál es el ángulo menor para el cual se cancelarán completamente las ondas 
+sonoras? 
+40 esse Los dos focos sonoros del problema 39 funcionan ahora con un 
+desfase de 90°, pero con la misma frecuencia del problema anterior. ¿A qué 
+ángulos se oyen las interferencias constructiva y destructiva? 
+41 ese Un radiotelescopio se compone de dos antenas separadas una dis- 
+tancia de 200 m. Cada antena se sintoniza a una frecuencia particular, como 
+20 MHz. Las señales procedentes de cada antena pasan a un amplificador co- 
+mún, pero una de las señales pasa primero por un ajustador de fase, que retrasa 
+la fase en una cantidad prevista de modo que el telescopio pueda “mirar” en di- 
+ferentes direcciones. Con un retraso de fase cero, las ondas de radio planas que 
+inciden verticalmente se suman constructivamente en el amplificador. ¿Cuál de- 
+berá ser el retraso de fase para que las señales que vienen formando un ángulo 
+de 6 = 10° con la vertical (en el plano formado por la vertical y la línea que une 
+las antenas) se sumen constructivamente en el amplificador? 
+Pulsaciones 
+42 e 1 Se golpean simultáneamente dos diapasones y se oyen 
+cuatro batidos por segundo. La frecuencia de uno de los diapasones es 500 Hz. 
+(a) ¿Cuáles son los valores posibles de la frecuencia del otro diapasón? (b) Se 
+coloca un trocito de cera en el diapasón de 500 Hz para disminuir ligeramente 
+su frecuencia. Explicar cómo puede utilizarse la medida de la nueva frecuencia 
+de batido para determinar cuál de las repuestas al apartado (a) es la frecuencia 
+correcta del segundo diapasón. 
+43 ee SSM Dos ambulancias se mueven a 80 km/h por una calle 
+recta una en sentido contrario a la otra. La sirena de cada ambulancia funciona 
+a 500 Hz. (a) El conductor de cada ambulancia oye la sirena de la otra y la pul- 
+sación que se produce cuando interfiere con el sonido de su sirena. ¿Cuál es la 
+frecuencia de la pulsación? (b) Un peatón está a igual distancia de las dos 
+ambulancias, ¿cuál es la frecuencia que éste oye de la pulsación producida por 
+las dos sirenas? 
+Ondas estacionarias 
+44 o sm ft Y Una cuerda fija por ambos extremos tiene 
+3 m de largo. Resuena en su segundo armónico a una frecuencia de 60 Hz, 
+¿Cuál es la velocidad de las ondas transversales en ella? 
+45 e Una cuerda de 3 m de largo y fija por sus dos extremos está 
+vibrando en su tercer armónico. El desplazamiento máximo de los puntos de la 
+cuerda es 4 mm. La velocidad de las ondas transversales en ella es 50 m/s. 
+(a) ¿Cuáles son la longitud de onda y la frecuencia de esta onda? (b) Escribir la 
+función de onda correspondiente a este caso,
+
+46 o SOL Y Calcular la frecuencia fundamental de un tubo de 
+órgano de 10 m de longitud que está (a) abierto por sus dos extremos y (b) 
+cerrado por un extremo, 
+47 e Un hilo de acero de 5 g de masa y 1,4 m de longitud está fijo por 
+ambos extremos y soporta una tensión de 968 N. (a) Hallar la velocidad de las 
+ondas transversales en él. (b) Hallar la longitud de onda y la frecuencia funda- 
+mental. (c) Hallar las frecuencias del segundo y tercer armónicos. 
+48 e Una cuerda de 4 m de longitud se fija por un extremo y se liga por 
+el otro a una cuerda ligera de modo que puede moverse libremente en dicho 
+extremo. La velocidad de las ondas en la cuerda es 20 m/s. Hallar la frecuencia 
+(a) del armónico fundamental, (b) del segundo armónico y (c) del tercer armó- 
+nico. 
+49 e Una cuerda de piano sin arrollamientos tiene una frecuencia fun- 
+damental de 200 Hz, Cuando se le arrolla un hilo, su densidad de masa lineal se 
+duplica. ¿Cuál es la nueva frecuencia fundamental, suponiendo que no se varía 
+la tensión? 
+50 @ SSM El intervalo normal de audición humana está compren- 
+dido entre 20 y 20000 Hz. ¿Cuál es la mayor longitud de un tubo de órgano 
+cuya nota fundamental se encuentre dentro de este intervalo si (a) está cerrado 
+por un extremo y (b) está abierto por los dos extremos? 
+51 ee EN Y La función de onda y(x, f) correspondiente a una 
+onda estacionaria en una cuerda fija por ambos extremos viene dada por y(x, 1) = 
+4,2 sen 0,20x cos 3001, con y y x en centímetros y £ en segundos. (a) ¿Cuáles 
+son la longitud de onda y la frecuencia de esta onda? (b) ¿Cuál es la velocidad 
+de las ondas transversales en esta cuerda? (c) Si la cuerda está vibrando en su 
+cuarto armónico, ¿cuál es su longitud? 
+52 es La función de onda y(x, f) para una onda estacionaria sobre una 
+cuerda que está fija por ambos extremos es y(x, 1) = (0,05 m) sen 2,5 m”!x cos 
+500 s~'r. (a) Hallar la velocidad y la amplitud de las dos ondas móviles que ori- 
+ginan esta onda estacionaria. (b) ¿Cuál es la distancia entre nodos sucesivos de 
+la cuerda? (c) ¿Cuál es la longitud más corta posible de la cuerda? 
+53 es Una cuerda de 2,51 m de largo tiene la función de onda dada en el 
+problema 52. (a) Dibujar la posición de la cuerda en los instantes t= 0, 1=7/4, 
+1=T/2, y t = 3T/4, en donde T= 1/fes el periodo de la vibración. (a) Hallar Ten 
+segundos. (b) En un instante ¢ en el que la cuerda está horizontal, es decir, 
+y(x) = 0 para todo valor de x, ¿cuál resulta ser la energía de la onda? 
+54 ee SM iI En una cuerda existen las tres frecuencias de 
+resonancia sucesivas de 75, 125 y 175 Hz. (a) Hallar los cocientes entre cada 
+par de frecuencias sucesivas de resonancia. (b) ¿Cómo podría saberse si estas 
+frecuencias corresponden a una cuerda fija por un extremo y no a una cuerda 
+fija por los dos extremos? (c) ¿Cuál es la frecuencia fundamental? (d) ¿Qué 
+armónicos son esas frecuencias de resonancia? (e) Si la velocidad de las ondas 
+transversales en esta cuerda es 400 m/s, hallar la longitud de la misma. 
+55 es El espacio que hay encima del agua en un tubo semejante al del 
+ejemplo 16.9 tiene una longitud de 120 cm. Cerca del extremo abierto existe un 
+altavoz accionado por un oscilador de audio cuya frecuencia puede variarse de 
+10 a 5000 Hz. (a) ¿Cuál es la frecuencia más baja del oscilador que resonará 
+dentro del tubo? (b) ¿Cuál es la frecuencia mayor con la que resonará? (c) 
+Cuántas frecuencias diferentes del oscilador producirán resonancia? (Despre- 
+ciar la corrección del extremo.) 
+56 es Un diapasón de 460 Hz produce resonancia en el tubo del ejemplo 
+16.9 cuando la parte superior del tubo está a 18,3 cm y a 55,8 cm por encima de 
+la superficie del agua. (a) Hallar la velocidad del sonido en el aire, (b) ¿Cuál es 
+la corrección del extremo para ajustar el hecho de que el vientre o antinodo no 
+se presente exactamente en el extremo del tubo abierto? 
+57 @@ SSM inn A 16 °C la frecuencia fundamental de un 
+tubo de órgano es 440,0 Hz. ¿Cuál será la frecuencia fundamental del tubo si la 
+temperatura aumenta a 32 °C? ¿Sería preferible construir el tubo con un mate- 
+rial que se dilatara sustancialmente cuando aumente la temperatura o con un 
+material que mantuviera su longitud a todas las temperaturas normales? 
+Problemas | 489 
+58 es Lacorrección AL para un tubo circular es aproximadamente AL = 
+0,3186D, en donde D es el diámetro del tubo (véase el ejemplo 16.9), Determi- 
+nar la longitud de un tubo abierto por ambos extremos que produzca un do 
+(256 Hz) como armónico fundamental si D = 1 cm, 10 em y 30 cm. 
+59 ee F Una cuerda de violín de 40 cm de longitud y 1,2 g de 
+masa tiene una frecuencia de 500 Hz cuando está vibrando en su modo funda- 
+mental. (a) ¿Cuál es la longitud de onda de la onda estacionaria en la cuerda? 
+(b) ¿Cuál es la tensión de la cuerda? (c) ¿Dónde se debería colocar el dedo para 
+incrementar la frecuencia a 650 Hz? 
+60 ee La cuerda Sol de un violín tiene 30 cm de longitud. Cuando se 
+toca sin pulsar, vibra con una frecuencia de 196 Hz. Las notas próximas más 
+altas en la escala son: La (220 Hz), Si (247 Hz), Do (262 Hz) y Re (294 Hz). ¿A 
+qué distancia del extremo de la cuerda debe colocarse un dedo para generar 
+estas notas? 
+61 es Una cuerda con una densidad de masa 4 x 10° kg/m está some- 
+tida a una tensión de 360 N y está fija en ambos extremos. Una de sus frecuen- 
+cias de resonancia es 375 Hz. La frecuencia de resonancia más alta siguiente es 
+450 Hz. (a) ¿Cuál es la frecuencia de resonancia fundamental? (b) ¿Qué armó- 
+nicos son los que se dan? (c) ¿Cuál es la longitud de la cuerda? 
+62 ee Í Y Una cuerda sujeta por ambos extremos tiene reso- 
+nancias sucesivas con longitudes de onda de 0,54 m para el armónico n y de 
+0,48 m para el armónico (n + 1). (a) ¿Qué armónicos son? (b) ¿Cuál es la longi- 
+tud de la cuerda? 
+63 es Las cuerdas de un violín están afinadas con los tonos Sol, Re, La 
+y Mi, que están separados entre sí por un quinto. Es decir, (Re) = 1,5 Sol), 
+fila) = 1,5 Re) = 440 Hz y f (Mi) = 1,5 f(La). La distancia entre los dos pun- 
+tos fijos de las cuerdas es de 30 cm. La tensión de la cuerda Mi es 90 N. (a) 
+¿Cuál es la masa por metro de longitud de dicha cuerda? (b) Para evitar distor- 
+siones del instrumento con el tiempo, es importante que la tensión en todas las 
+cuerdas sea la misma. Determinar las masas por metro de longitud de las res- 
+tantes cuerdas. 
+64 es Una ambulancia se mueve a 80 km/h hacia una pared de ladrillo 
+de un hospital que refleja el sonido de la sirena. Cuando la ambulancia está 
+parada, la sirena emite a 500 Hz. (a) ¿Cuál es el la longitud de onda de la onda 
+estacionaria causada por la sirena y su reflexión? (b) Un médico que está 
+parado entre la ambulancia y la pared oye que el sonido de la sirena aumenta y 
+disminuye alternativamente a medida que la ambulancia se acerca a su posi- 
+ción. ¿Por qué? 
+65 es Para afinar un violín, el violinista primero afina la cuerda La con 
+el tono correcto de 440 Hz y después toca simultáneamente con el arco dos 
+cuerdas contiguas y escucha las pulsaciones producidas. Cuando toca con el 
+arco las cuerdas La y Mi detecta una frecuencia de batido de 3 Hz y observa 
+que esta frecuencia crece cuando la tensión de la cuerda Mi aumenta (la cuerda 
+Mi se afina a 660 Hz). (a) ¿Por qué se produce el batido cuando estas cuerdas 
+se tocan simultáneamente? (b) ¿Cuál es la frecuencia de la cuerda Mi en vibra- 
+ción si la frecuencia de batido es de 3 Hz? (c) Si la tensión de la cuerda Mi es 
+80,0 N cuando la frecuencia de batido es 3 Hz, ¿qué tensión corresponde al 
+tono perfecto de dicha cuerda? 
+66 es Una estudiante lleva consigo un pequeño oscilador y altavoz 
+cuando pasea muy lentamente por una larga sala. El altavoz emite un sonido de 
+frecuencia 680 Hz que se refleja en las paredes de los extremos de la sala. La 
+estudiante observa que cuando pasea a lo largo de la sala, la intensidad del so- 
+nido que ella percibe, pasa por una serie de máximos y mínimos sucesivos. 
+¿Qué distancia debe recorrer para que el sonido pase de un máximo al si- 
+guiente? 
+67 ee SSM Demostrar que la función de onda estacionaria A’ sen kx 
+cos(cor + ô) puede escribirse como la suma de dos funciones de onda armóni- 
+cas, la de una onda que se mueve en la dirección positiva del eje x y la de otra 
+onda de la misma amplitud que se mueve en sentido contrario. Cada una de las 
+ondas tiene el mismo número de onda y frecuencia angular que la onda estacio- 
+naria.
+
+490 | Capítulo 16 Superposición y ondas estacionarias 
+68 es Se fija una cuerda de 2 m por un extremo y se la hace vibrar en su 
+tercer armónico con una amplitud de 3 cm y una frecuencia de vibración de 
+100 Hz. (a) Escribir la función de onda correspondiente a esta vibración. (b) 
+Escribir una expresión para la energía cinética de un segmento de la cuerda de 
+longitud dx en el punto x y en cierto tiempo £. ¿En qué instante es máxima esta 
+energía cinética? ¿Cuál es la forma de la cuerda en dicho momento? (c) Hallar 
+la energía cinética máxima de la cuerda integrando la expresión del apartado 
+(b) en la longitud total de la cuerda. 
+69 ec SSM Enla figura 16.30 se muestra la disposición de un expe- 
+rimento de física muy habitual que sirve para estudiar las ondas transversales 
+en una cuerda. Se cuelga un peso del extremo de una cuerda que pasa por una 
+polea, y en el otro extremo un oscilador mecánico mueve la cuerda hacia arriba 
+y hacia abajo con una frecuencia f. La longitud L entre el oscilador y la polea se 
+mantiene constante y las ondas que se producen en la cuerda resuenan para 
+determinados valores del peso. Si L = | m, f= 80 Hz, y la masa por unidad de 
+longitud de la cuerda es 4 = 0,75 g/m, ¿qué pesos habrá que colgar del extremo 
+de la cuerda para que se produzcan los tres primeros modos resonantes? 
+Cuerda | 
+Oscilador 
+Peso 
+Figura 16.30 Problema 69 
+*Paquetes de ondas 
+70 e La información que utilizan los ordenadores se transmite por 
+cable en forma de pulsos eléctricos cortos a razón de 10” pulsos por segundo. 
+(a) ¿Cuál es la duración máxima de cada pulso para que dos pulsos no se sola- 
+pen? (b) ¿Cuál es el intervalo de frecuencias a las cuales debe responder el 
+equipo receptor? 
+71 e SSM Un diapasón de frecuencia fọ empieza a vibrar en el ins- 
+tante 1 = ( y se detiene después de un intervalo de tiempo Ar. La forma de la 
+onda sonora un cierto tiempo después se muestra como una función de x. Sea N 
+el número (aproximado) de ciclos de esta forma de onda. (a) ¿Cómo están rela- 
+cionados entre sí N, fy y Ar? (b) Si Ax es la longitud en el espacio de este 
+paquete de ondas, ¿cuál es la longitud de onda en función de Ax y N? (c) ¿Cuál 
+es el número de ondas k en función de N y Ax? (d) El número de ciclos N posee 
+una incertidumbre de +1 ciclo aproximadamente. Explicar por qué, usando la 
+figura 16.31. (e) Demostrar que la incertidumbre del número de onda debido a 
+la incertidumbre en N es 27/Ax. 
+Figura 16.31 Problema 71 
+Problemas generales 
+72 e Lanota Do de la escala bien temperada utilizada por los constructo- 
+res de instrumentos musicales modernos tiene una frecuencia de 261,63 Hz. Si una 
+cuerda de piano de 7 g y 80 cm de longitud ha de afinarse de modo que 261,63 Hz 
+sea su frecuencia fundamental, ¿qué tensión debe aplicarse a la cuerda? 
+73 e i El canal auditivo, que tiene una longitud próxima a los 
+2,5 cm, se puede considerar como un tubo cerrado por un extremo y abierto por 
+el otro. (a) ¿Cuáles son las frecuencias de resonancia del mismo? (b) Describir 
+los posibles efectos de los modos de resonancia del canal auditivo sobre el 
+umbral de audición. 
+74 e Una cuerda de 160 g de masa y 4 m de largo está fija por un 
+extremo y ligada a una cuerda ligera por el otro. Su tensión es 400 N. (a) ¿Cuá- 
+les son las longitudes de onda del armónico fundamental y los dos siguientes? 
+(b) ¿Cuáles son las frecuencias de estas ondas estacionarias? 
+75 ee Dos ondas procedentes de dos fuentes coherentes poseen la 
+misma longitud de onda A, frecuencia ( y amplitud A. ¿Cuál es la diferencia de 
+trayectos si la onda resultante en algún punto tiene la amplitud A? 
+76 e... İ Una cuerda de 35 m tiene una densidad de masa lineal 
+de 0,0085 kg/m y soporta una tensión de 18 N. Determinar las frecuencias de 
+los cuatro primeros armónicos si («1) el muelle está fijo por ambos extremos, y 
+(b) la cuerda está fija por un extremo y atada a un hilo largo y delgado, de masa 
+despreciable en el otro extremo. 
+77 oe ESV Una persona encuentra un pozo de una mina aban- 
+donada y desea medir su profundidad. Utilizando un oscilador de audio de fre- 
+cuencia variable, observa que se producen en el pozo resonancias sucesivas a 
+frecuencias de 63,58 y 89,25 Hz. ¿Cuál es la profundidad del pozo? 
+78 eS Una cuerda de 5 m de largo que está fija sólo por un extremo está 
+vibrando en su quinto armónico con una frecuencia de 400 Hz. El desplaza- 
+miento máximo de cualquier segmento de la cuerda es 3 cm. (a) ¿Cuál es la lon- 
+gitud de onda del mismo? (b) ¿Cuál es el número de onda k? (c) ¿Cuál es la 
+frecuencia angular? (d) Escribir la función de onda correspondiente a esta onda 
+estacionaria. 
+79 es Una onda estacionaria en una cuerda está representada por la 
+siguiente función de onda: y(x,1f) = 0,02 sen 4zx cos 6071, en donde xe y 
+se expresan en metros y ten segundos. Determinar el desplazamiento máximo 
+y la velocidad máxima de un punto de la cuerda situado en (a) x = 0,10 m, 
+(b) x =0,25 m, (c) x = 0,30 m y (d) x = 0,50 m. 
+80 es Un alambre de longitud 2,5 m y masa 0,10 kg está fijo por ambos 
+extremos bajo una tensión de 30 N. Al excitar el armónico 7 se forma un nodo a 
+0,5 m de un extremo. (a) ¿Cuánto vale n? (b) ¿Cuáles son las frecuencias de los 
+primeros tres modos permitidos de vibración? 
+81 @@ SSM En un método antiguo para determinar la velocidad del 
+sonido en gases, se colocaba horizontalmente un tubo de vidrio cilíndrico y se 
+esparcía en el fondo del tubo una determinada cantidad de un polvo muy fino. 
+Un extremo se cerraba con un pistón que oscilaba con una frecuencia conocida 
+f. El otro extremo se cerraba por un pistón cuya posición podía modificarse 
+hasta conseguir la resonancia. Cuando esto ocurría, el polvo se recogía en mon- 
+toncitos igualmente separados a lo largo del fondo del tubo. (a) Explicar por 
+qué se recogía el polvo de esta manera. (b) Deducir una fórmula que nos dé la 
+velocidad del sonido en el gas en función de f y de la distancia entre los mon- 
+toncitos de polvo. (c) Dar valores adecuados de la frecuencia f y de la distancia 
+entre los montoncitos de polvo. (d) Dar valores adecuados de la frecuencia f y 
+de la longitud L del tubo con los cuales podía medirse la velocidad del sonido 
+utilizando aire o helio. 
+82 es En una demostración en una clase de ondas estacionarias, se 
+sujeta una cuerda a un diapasón que vibra a 60 Hz que origina la formación de 
+ondas transversales de esta frecuencia en la cuerda. El otro extremo de la 
+cuerda pasa por una polea, variándose la tensión con pesos en este extremo. La 
+cuerda tiene nodos aproximadamente en el diapasón y en la polea. (a) Si la 
+cuerda tiene una densidad de masa lineal de 8 g/m y tiene una longitud de 2,5 m
+
+(desde el diapasón hasta la polea), ¿cuál debe ser la tensión para que la cuerda 
+vibre en su modo fundamental? (b) Hallar las tensiones necesarias para la 
+cuerda de forma que vibre en sus armónicos segundo, tercero y cuarto, 
+83 ee FTW Tres frecuencias de resonancia sucesivas de un tubo 
+de órgano son 1310, 1834 y 2358 Hz. (a) ¿Está el tubo cerrado por un extremo 
+o abierto en ambos extremos? (b) ¿Cuál es la frecuencia fundamental? (c) 
+¿Cuál es la longitud del tubo? 
+84 e. i Y Una cuerda de 1 g de masa y una longitud de 50 cm 
+se tensa con una fuerza de 440 N. Está colocada próxima al extremo abierto del 
+tubo del ejemplo 16.9 y se hace sonar con un arco de violín de modo que oscile 
+con su frecuencia fundamental. El nivel de agua del tubo se hace bajar hasta 
+que se obtiene por primera vez la resonancia a 18 cm por debajo de la parte 
+superior del tubo. Utilizar estos datos para determinar la velocidad del sonido 
+en el aire. ¿Por qué no es muy exacto este método? 
+85 es Una onda estacionaria sobre una cuerda viene descrita por la 
+siguiente función de onda: y(x,1) = 0,02 sen lax cos 4071, en donde x e y 
+están en metros y f en segundos. (a) Escribir funciones de onda para dos trenes 
+de ondas que al superponerse produzcan un patrón de ondas estacionarias. (b) 
+¿Cuál es la distancia entre los nodos de la onda estacionaria? (c) ¿Cuál es la 
+velocidad de un segmento de cuerda en x= 1 m? (d) ¿Cuál es la aceleración del 
+mismo segmento de cuerda? 
+86 @@ İ 3 Dos altavoces idénticos emiten uniformemente en 
+todas direcciones ondas sonoras de 680 Hz de frecuencia con una potencia de 
+salida total de audio de 1 mW cada uno de ellos. Un punto P está a una distan- 
+cia de 2,00 m de un altavoz y a 3,00 m de otro. (a) Hallar las intensidades /, e / 
+de cada altavoz en el punto P separadamente. (b) Si los altavoces se alimentan 
+coherentemente y en fase, ¿cuál será la intensidad en el punto P? (c) Si se ali- 
+mentan coherentemente pero desfasados en 180°, ¿cuál será la intensidad en el 
+punto P? (d) Si los altavoces son incoherentes, ¿cuál será la intensidad en el 
+punto P? 
+87 es Tres ondas con la misma frecuencia, longitud de onda y amplitud, 
+se mueven en la misma dirección y sentido. Las tres ondas vienen dadas por 
+yila. 0) = 0.05 sen (kx- or- F) 
+ya(x, 1) = 0,05 sen (kx - wr) 
+yal 1) = 0,05 sen (kx ar + 2) 
+Hallar la onda resultante. 
+88 es Una onda plana tiene la forma fix, y, t) = A cosík,x + ky — ar). 
+Demostrar que la dirección en que se mueve la onda forma un ángulo 6 = 
+arctg(k/k,) con la dirección positiva del eje x y que la velocidad de propaga- 
+ción de la onda es v = @/ fk? +k. 
+89 @@ SSM La velocidad del sonido es proporcional a la raíz cua- 
+drada de la temperatura absoluta 7 (ecuación 15.5). (a) Demostrar que si la 
+temperatura varía en una pequeña cantidad AT, la frecuencia fundamental de un 
+tubo de órgano varía aproximadamente en Af, siendo Af/f = JATIT. (b) 
+Suponer un tubo de órgano cerrado por un extremo y que tiene una frecuencia 
+fundamental de 200 Hz cuando la temperatura es de 20 °C, ¿Cuál será su fre- 
+cuencia fundamental cuando la temperatura sea de 30 °C? (Ignorar cualquier 
+variación de longitud del tubo debido a la dilatación térmica.) 
+90 es Dos pulsos de onda que se mueven sobre una cuerda están repre- 
+sentados por las funciones de onda 
+0,02 yan = TT 
+y 
+Yalx, t) = 008 
+24 (x421)* 
+en donde x está en metros y ¢ en segundos. (a) Dibujar por separado cada onda 
+en función de x para r= 0 utilizando una hoja de cálculo o una calculadora grá- 
+Problemas | 491 
+fica y describir el comportamiento de ambas al aumentar el tiempo. (b) Hallar 
+la función de onda resultante para ¢ = 0. (c) Hallar la función de onda resultante 
+para ¢= 1 s. (d) Dibujar la función de onda resultante en este último caso. 
+91 es Si pone su oído y su mano cerca de un extremo de un tubo abierto 
+y hace un chasquido con los dedos, oirá un sonido parecido al que se da cuando 
+se puntea una cuerda de guitarra. (Los mejores tubos son los que tienen 1 m de 
+longitud aproximadamente.) (a) Explicar cuál es la causa de este sonido. (b) 
+¿Qué longitud efectiva del tubo se necesita para producir un sonido como el de 
+una cuerda de guitarra con un tono de la por encima del do central (440 Hz)? 
+92 es La energía cinética de un segmento de longitud Ax y masa Am de 
+una cuerda vibrante viene dada por 
+AE, =} an(2) =3 u( 2) as 
+en donde u = Am/Ax. (a) Hallar la energía cinética total del modo enésimo de 
+vibración de una cuerda de longitud L fija por ambos extremos. (b) Determinar 
+la energía cinética máxima de la cuerda. (c) ¿Cuál es la función de onda cuando 
+la energía cinética tiene su máximo valor? (d) Demostrar que la energía cinética 
+máxima del modo enésimo es proporcional a n*A?. 
+93 es (a) Demostrar que si la tensión de una cuerda fija por ambos 
+extremos varía en una pequeña cantidad dF, la frecuencia del armónico funda- 
+mental varía aproximadamente en df, siendo df/f = 1dF /F. ¿Se aplica este 
+resultado a todos los armónicos? (b) Utilizar este resultado para hallar la varia- 
+ción porcentual de la tensión que se necesita para aumentar la frecuencia del 
+armónico fundamental de una cuerda de piano de 260 a 262 Hz. 
+94 @@ SSM Dos fuentes de ondas armónicas situadas en el eje x tienen 
+una diferencia de fase & que es proporcional al tiempo, d, = Ct, siendo C una 
+constante. La amplitud de la onda procedente de cada fuente en un punto P del 
+eje x es Ap. (a) Escribir las funciones de onda de cada una de las ondas en el punto 
+P admitiendo que este punto está a una distancia x, de una fuente y a x; + Ax de la 
+otra. (b) Hallar la función de onda resultante y demostrar que su amplitud es 
+2A, cos [ 6 +6,)], siendo 6 la diferencia de fase en P debida a la diferencia 
+de trayectos. (c) Hacer un gráfico de la intensidad en el punto P en función del 
+tiempo para una diferencia cero de trayectos utilizando una hoja de cálculo o 
+una calculadora gráfica. (Sea Jọ la intensidad debida a cada onda separada- 
+mente.) ¿Cuál es el promedio temporal de la intensidad? (d) Hacer el mismo 
+gráfico para la intensidad en un punto cuya diferencia de trayectos sea media 
+longitud de onda. 
+95 eee Las funciones de dos ondas estacionarias en una cuerda de longi- 
+tud L son y,(x, t) = A,cos 0,1 sen kx e y,(x,1) = Acos @t sen kx, en 
+donde k, = n7iL y 0, = n@,. La función de la onda resultante se expresa como 
+JA) = y (0) + ya (x, 1). (a) Hallar la velocidad de un segmento dx de la 
+cuerda. (b) Hallar la energía cinética de este segmento. (c) Por integración, 
+hallar la energía cinética total de la onda resultante, Obsérvese la desaparición 
+de los términos cruzados de modo que la energía cinética total es proporcional 
+a (mA)? + (mA)? 
+96 ece Un alambre de 2 m fijo por ambos extremos está vibrando en su 
+modo fundamental. La tensión es 40 N y la masa del alambre es 0,1 kg. El 
+punto medio del alambre tiene una amplitud de 2 cm. (a) Hallar la energía ciné- 
+tica máxima del alambre. (b) En el instante en que el desplazamiento transver- 
+sal viene dado por (0,02 m) sen (1/2). ¿cuál es la energía cinética del alambre? 
+(c) ¿En qué posición del alambre tiene su mayor valor la energía cinética por 
+unidad de longitud del alambre? (d) ¿En dónde tiene su máximo valor la ener- 
+gía potencial por unidad de longitud? 
+97 ese En principio una onda de forma arbitraria puede expresarse como 
+la suma de ondas armónicas de diferentes frecuencias. (a) Considere una fun- 
+ción definida por 
+f(x) = 4(cos x _ < cos 3x x cos 5x 
+(sa o...) 25 (-1)" x nel 
+cos[(2n + 1)x] 
+2n+1
+
+492 | Capítulo 16 Superposición y ondas estacionarias 
+Escribir un programa en una hoja de cálculo que calcule esta serie utilizando 
+un número finito de términos y hacer tres representaciones gráficas de la fun- 
+ción en el intervalo de x comprendido entre 0 y 47. En la primera representa- 
+ción gráfica, aproximar la suma desde 7 = 0 hasta n = œ con el primer término 
+de la suma. En la segunda y tercera representación gráfica, usar sólo los cinco y 
+los diez primeros términos respectivamente. Esta función se suele denominar la 
+onda cuadrada (o función 0). (b) ¿Cuál es la relación entre esta función y la 
+serie de Leibnitz para 7, 
+4 B= | T = latang eot 
+98 ese Escribir un programa en una hoja de cálculo que calcule y repre- 
+sentar gráficamente la función 
+4 sen 3x , sen Sx 
+F(x) ne (sen x- 9 +t.) 
+4, (-1)"sen(2n+1)x 
+= m (2n+1) 
+¿Qué clase de onda es ésta? 
+99 ese Si se dan palmadas en el extremo de un tubo cilíndrico largo, el 
+eco no suena igual que las palmadas sino que se oyen sonidos como los proce- 
+dentes de un silbato, inicialmente con una frecuencia muy alta que rápidamente 
+desciende hasta hacerse imperceptible. Este efecto puede explicarse si se 
+piensa que el sonido de la palmada es una compresión que se radia de las 
+manos y que se propaga. Los diferentes ecos que llegan al oído, tal como se 
+muestra en la figura 16.32, recorren trayectorias distintas por el tubo. El primer 
+eco resulta de una única reflexión en el fondo del tubo, mientras que el segundo 
+también se refleja en el centro de las paredes del tubo, una vez al ir y otra al vol- 
+ver; el tercer eco se refleja dos veces en puntos situados a distancias 1/4 y 3/4, 
+etc. El tono del sonido que llega al oído es consecuencia de la frecuencia a la 
+que estos sonidos reflejados llegan al oído. (a) Demostrar que el retraso del 
+tiempo entre el eco n y el eco n +1 viene dado por 
+At, = EP RI, 
+en donde v es la velocidad del sonido, L la longitud del tubo y r su radio. 
+(b) Usando una hoja de cálculo o una calculadora gráfica, representar gráfica- 
+mente Az, frente a n si L = 90 m, r = 1 m. (Estas son las dimensiones de un tubo 
+del Exploratorium de San Francisco.) Represente como mínimo hasta n = 100. 
+(c) A partir del gráfico, explique por qué la frecuencia disminuye con el tiempo. 
+¿Cuáles son las frecuencias máxima y mínima que se oirán? 
+Palmadas 
+Figura 16.32 Problema 99
+
+SS ee. ea A 
+TEMPERATURA Y 
+TEORIA CINETICA DE 
+LOS GASES 
+Estos globos de helio se muestran bien inflados en un caluroso dia de verano. 
+¿Qué les sucederá si los ponemos en el interior de una habitación con aire acondicionado? 
+(Véase el ejemplo 17.6.) 
+S uele decirse que la temperatura es una medida del grado de calor o frío de los cuerpos. 
+© En este capítulo veremos que puede definirse una escala lógica de temperaturas 
+en función de las propiedades de los gases a bajas densidades y que la temperatura 
+es una medida de la energía cinética molecular de un cuerpo. 
+17.1 Equilibrio térmico y temperatura 
+Normalmente nuestro sentido del tacto puede decirnos si un objeto está caliente o frío. 
+Desde la infancia se aprende que para conseguir que un objeto frío se caliente, basta con 
+ponerlo en contacto con un cuerpo caliente. Y para enfriar un cuerpo caliente lo hemos de 
+poner en contacto con un objeto frío. 
+Cuando un cuerpo se calienta o se enfría, cambian algunas de sus propiedades físicas. Por 
+ejemplo, la mayor parte de los sólidos y de los líquidos se dilatan al calentarse. Un gas, si su 
+Capitulo 
+17.1 
+172 
+17.3 
+17.4 
+17.5 
+17 
+Equilibrio térmico y 
+temperatura 
+Escalas de 
+temperatura Celsius y 
+Fahrenheit 
+Termometros de gas 
+y escala de 
+temperaturas 
+absolutas 
+Ley de los gases 
+ideales 
+La teoría cinética de 
+los gases

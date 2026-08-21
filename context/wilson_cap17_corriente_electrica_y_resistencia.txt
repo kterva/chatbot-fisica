@@ -1,0 +1,2160 @@
+Tema: Corriente eléctrica y resistencia (Capítulo 17 — Física, Wilson)
+
+CAPÍTULO 17 Corriente eléctrica y resistencia
+fem y voltaje terminal de una batería
+La diferencia de potencial entre las terminales de una batería cuando no está conectada a
+un circuito se llama fuerza electromotriz (fem) de la batería y se designa con el símbo-
+lo El nombre es algo confuso, porque la fuerza electromotriz no es una fuerza, sino
+una diferencia de potencial, o voltaje. Para evitar confusiones con el concepto de fuer-
+za, llamaremos a la fuerza electromotriz meramente “fem”. La fem de una batería es el
+trabajo que ésta efectúa por coulomb de carga que pasa por ella. Si una batería realiza 
+1 joule de trabajo sobre 1 coulomb de carga, entonces su fem es de 1 joule por coulomb
+(1 J/C) o de 1 volt (1 V).
+La fem, en realidad, representa la máxima diferencia de potencial entre las terminales
+de la batería (
+▲figura 17.3a). En la práctica, cuando una batería está conectada a un circui-
+to y fluye carga, el voltaje a través de las terminales es siempre ligeramente menor que la
+fem. Este “voltaje de operación” (V) de una batería (el símbolo para una batería es el par
+de líneas paralelas de longitud desigual en la figura 17.3b) se llama su voltaje terminal.
+Las baterías en operación real son de sumo interés para nosotros y su voltaje terminal es
+lo que más nos interesa.
+En muchas condiciones, la fem y el voltaje terminal, en esencia, son lo mismo.
+Cualquier diferencia se debe al hecho de que la batería misma ofrece a resistencia inter-
+na (r), que se muestra de forma explícita en el diagrama del circuito en la figura 17.3b.
+(La resistencia, que se definirá en la sección 17.3, es una medida cuantitativa de la 
+oposición a un flujo de carga.) Las resistencias internas, en general, son pequeñas, por
+lo que el voltaje terminal de una batería es esencialmente igual que la fem Sin
+embargo, cuando una batería suministra una gran corriente o cuando su resistencia in-
+terna es alta (baterías viejas), el voltaje terminal puede caer apreciablemente por deba-
+jo de la fem. La razón es que se requiere algún voltaje justo para producir una corriente
+en la resistencia interna. Matemáticamente, el voltaje terminal está relacionado con la
+fem, la corriente y la resistencia interna mediante , donde I es la corriente
+eléctrica (sección 17.2) en la batería.
+Por ejemplo, la mayoría de los automóviles modernos tienen un “lector de voltaje”
+de la batería. Al encender el automóvil, el voltaje de una batería de 12 V , por lo común,
+arroja una lectura de sólo 10 V (este valor es normal). A causa de la enorme corriente que
+se requiere en el arranque, el término Ir (2 V) reduce la fem unos 2 V al voltaje terminal
+medido de 10 V . Cuando el motor está encendido y suministra la mayor parte de la ener-
+gía eléctrica que se necesita para las funciones del automóvil, la corriente requerida de la
+batería es esencialmente cero y el lector de ésta sube de regreso a los niveles normales de
+voltaje. Así, el voltaje terminal, y no la fem, es un indicador fidedigno del estado de la ba-
+tería. A menos que se especifique otra cosa, supondremos que la resistencia interna es in-
+significante, de forma que
+Existe una amplia variedad de baterías. Una de las más comunes es la batería de 12 V
+para automóvil, que consiste en seis celdas de 2 V conectadas en serie.* Esto es, la terminal
+positiva de cada celda está conectada a la terminal negativa de la siguiente celda (observe
+las tres celdas en la 
+>figura 17.4a). Cuando las baterías o celdas están conectadas de esta
+manera, sus voltajes se suman. Si las celdas están conectadas en paralelo, todas sus termi-
+nales positivas están conectadas entre sí, al igual que sus terminales negativas (figura
+V L e.
+V = e - Ir
+V L e.
+e.
++ –++ –+ –
+b) Voltaje terminal
+R
+a) Fuerza electromotriz
+(fem)
+r
+Flujo de 
+electrones
+Resistencia
+interna
+Diagrama del circuito
+Flujo de 
+electrones
+VV/H5105
+/H5105
+N FIGURA 17.3 Fuerza electromo-
+triz (fem) y voltaje terminal a) La
+fem de una batería es la 
+máxima diferencia de potencial
+entre sus terminales. Este máximo
+ocurre cuando la batería no está
+conectada a un circuito externo, 
+b) A causa de la resistencia interna
+(r) el voltaje terminal V cuando la
+batería está en operación es menor
+que la fem . Aquí, R es la 
+resistencia de la bombilla.
+1e2
+1e2
+*La energía química se convierte a energía eléctrica en una celda química. El término batería gene-
+ralmente se refiere a un conjunto, o “batería”, de celdas.
+V
+R
+a) Baterías en serie
+Diagrama del circuito
+V1
+V2
+V3
+V = V1 + V2 + V3
+V = V1 + V2 + V3
+V
+R
+V1
+V2
+V3
+V = V1 = V2 = V3
+V = V1 = V2 = V3
++
++
++ –
++ –
++ –
++ –
+–
+–
++
++
++–
+–
+–
++
+–
++
+–
++
+–
+b) Baterías en paralelo
+(voltajes iguales) 
+Diagrama del circuito
+▲ FIGURA 17.4 Baterías en serie 
+y en paralelo a) Cuando las bate-
+rías están conectadas en serie, sus 
+voltajes se suman y el voltaje a 
+través de la resistencia R es la suma
+de los voltajes. b) Cuando baterías
+del mismo voltaje están conectadas
+en paralelo, el voltaje a través de la
+resistencia es la misma, como si sólo
+una sola batería estuviera presente.
+En este caso, cada batería suministra
+parte de la corriente total.
+
+17.2 Corriente y velocidad de deriva 571
+17.4b). Cuando baterías idénticas están conectadas de esta manera, la diferencia de poten-
+cial o el voltaje terminal es igual para todas ellas. Sin embargo, cada una suministra una
+fracción de la corriente al circuito. Por ejemplo, si tenemos tres baterías con voltajes igua-
+les, cada una suministra un tercio de la corriente. Una conexión en paralelo de dos bate-
+rías es el método más utilizado para encender el automóvil pasando corriente de otro
+vehículo. Para un arranque así, la batería débil (alta r) se conecta en paralelo a una batería
+normal (baja r), que entrega la mayor parte de la corriente para encender el automóvil.
+Diagramas de circuitos y símbolos
+Para analizar y visualizar circuitos, es común dibujar diagramas de circuitos que son
+representaciones esquemáticas de los alambres, baterías y aparatos, tal como están co-
+nectados. Cada elemento del circuito se representa por su propio símbolo en el diagra-
+ma del circuito. Como hemos visto en las figuras 17.3b y 17.4, el símbolo para una
+batería son dos líneas paralelas, la más larga de las cuales representa la terminal posi-
+tiva (/H11001) y la más corta la terminal negativa (/H11002). Cualquier elemento de circuito (como
+una bombilla de luz o un aparato) que se opone al flujo de carga se representa median-
+te el símbolo , que significa resistencia R. (La resistencia eléctrica se definirá
+en la sección 17.3; por el momento sólo presentamos su símbolo.) Los alambres de co-
+nexión se dibujan como líneas no interrumpidas y se supone que, a menos que se espe-
+cifique otra cosa, que tienen resistencia insignificante. Cuando las líneas se cruzan, se
+supone que no están en contacto una con otra, a menos que tengan un punto resaltado
+en su intersección. Finalmente, los interruptores se representan como “puentes levadi-
+zos”, capaces de subir (para abrir el circuito y detener la corriente) y bajar (para cerrar
+el circuito y permitir el paso de la corriente). Estos símbolos, junto con el del condensa-
+dor o capacitor (capítulo 16), están resumidos en la sección Aprender dibujando en es-
+ta página. En el siguiente ejemplo se presenta cómo se utilizan estos símbolos y los
+diagramas de circuito para comprender mejor el tema.
+Ejemplo conceptual 17.1 ■ ¿Dormido en el interruptor?
+La Nfigura 17.5 ilustra un circuito que representa dos baterías idénticas (cada una con vol-
+taje terminal V) conectadas en paralelo a una bombilla (representada por un resistor). Co-
+mo se supone que los alambres no representan resistencia, sabemos que antes de abrir el
+interruptor S1, el voltaje a través de la bombilla es igual a V (esto es, VAB /H11005V). ¿Qué su-
+cede al voltaje a través de la bombilla cuando se abre S1? a) El voltaje permanece igual (V)
+que antes de abrir el interruptor. b) El voltaje cae a V/2, ya que sólo una batería está aho-
+ra conectada a la bombilla. c) El voltaje cae a cero.
+Razonamiento y respuesta. Podríamos sentirnos tentados a elegir la respuesta b, porque
+ahora sólo hay una batería. Pero observe de nuevo. La batería restante aún está conectada
+a la bombilla. Esto significa que debe haber algún voltaje a través de la bombilla, por lo
+que la respuesta no puede ser la c. Pero también significa que la respuesta correcta no es
+la b, porque la batería restante mantendrá por sí sola un voltaje de V a través de la bombi-
+lla. Por consiguiente, la respuesta correcta es la a.
+Ejercicio de refuerzo. En este ejemplo, ¿cuál sería la respuesta correcta si, además de
+abrir S1, también se abre el interruptor S2? Explique su respuesta y razonamiento. (Las res-
+puestas de todos los Ejercicios de refuerzo se presentan al final del libro.)
+17.2 Corriente y velocidad de deriva
+OBJETIVOS: a) Definir corriente eléctrica, b) distinguir entre flujo de electrones 
+y corriente convencional y c) explicar el concepto de velocidad de
+deriva y transmisión de energía eléctrica
+Como acabamos de ver, mantener una corriente eléctrica requiere de una fuente de vol-
+taje y un circuito completo, es decir, una trayectoria continua de conducción. La gran
+mayoría de los circuitos tienen un interruptor que se usa para “abrir” o “cerrar” el cir-
+cuito. Un circuito abierto elimina la continuidad de la trayectoria, lo que detiene el flu-
+jo de carga en los alambres.
+Corriente eléctrica
+Como son electrones los que se mueven en los alambres del circuito, el flujo de carga se
+aleja de la terminal negativa de la batería. Sin embargo, históricamente, el análisis de
+APRENDER DIBUJANDO
+Dibujo de
+circuitos
++–
++
+–
+Batería
+Resistor
+Condensador
+Alambre
+Dos alambres 
+no 
+conectados
+Dos 
+alambres 
+conectados
+Interruptor 
+abierto
+Interruptor 
+cerrado
+Unión 
+de los 
+elementos
+Un circuito 
+completo
+o
+Nota: Recuerde que el término
+voltaje significa “diferencia en 
+potencial eléctrico”.
+VV
+VAB
+A
+B
+S1 S2
+▲ FIGURA 17.5 ¿Qué le sucede 
+al voltaje? Véase el ejemplo 17.1.
+
+▲ FIGURA 17.7 Corriente eléctrica
+La corriente eléctrica (I) en un 
+alambre se define como la tasa a la
+que la carga neta (q) pasa por el
+área de la sección transversal 
+del alambre: I /H11005q/t. La unidad de I
+es el ampere (A), o amp, para 
+abreviar.
+V
++–
+I
+S
+Flujo de
+electrones
+Corriente
+convencional
+Batería
+R
+▲ FIGURA 17.6 Corriente 
+convencional Por razones 
+históricas, el análisis de un circuito
+generalmente se realiza con 
+corriente convencional. Esta última
+es en el sentido en que fluyen las
+cargas positivas, es decir, en sentido
+contrario al flujo de los electrones.
+572
+CAPÍTULO 17 Corriente eléctrica y resistencia
+los circuitos se ha realizado en términos de corriente convencional, que es en el senti-
+do en que fluirán las cargas positivas, es decir, en sentido contrario al flujo de electrones
+(>figura 17.6). (Existen algunas situaciones en las que un flujo de carga positiva es res-
+ponsable de la corriente, por ejemplo, en los semiconductores.)
+Se dice que la batería entrega corriente a un circuito o a un componente de éste (un
+elemento de circuito). De manera alternativa, decimos que el circuito (o sus componen-
+tes) extrae corriente de la batería. Entonces la corriente regresa a la batería. Una batería
+sólo puede impulsar una corriente en una dirección. Este tipo de flujo de carga unidirec-
+cional se llama corriente directa (cd). (Observe que si la corriente cambia de dirección
+y/o de magnitud, se convierte en corriente alterna. Estudiaremos este tipo de situación en
+detalle en el capítulo 21.)
+Cuantitativamente, la corriente eléctrica(I) se define como la tasa de flujo de la carga
+neta en función del tiempo. En este capítulo, nos ocuparemos principalmente del flujo de
+carga constante. En ese caso, si una carga neta q pasa a través de una área transversal en
+un intervalo de tiempo t (
+>figura 17.7), la corriente eléctrica se define como
+corriente eléctrica (17.1)
+Unidad SI de corriente: coulomb por segundo (C/s) o ampere (A)
+El coulomb por segundo se designa como ampere (A) en honor del físico francés André
+Ampère (1775-1836), investigador pionero de los fenómenos eléctricos y magnéticos.
+Comúnmente, el ampere se abrevia como amp. Una corriente de 10 A se lee como “diez
+amperes” o “diez amps”. Las corrientes pequeñas se expresan en miliamperes (mAo  
+10
+–3 A), microamperes(/H9262Ao  1 0–6 A) o nanoamperes(nA o 10–9 A). Estas unidades a menudo
+se abrevian como miliamps, microamps y nanoamps, respectivamente. En un típico circui-
+to doméstico, es común que los alambres conduzcan varios amperes de corriente. Para
+comprender la relación entre carga y corriente, considere el siguiente ejemplo.
+Ejemplo 17.2 ■ Conteo de electrones: corriente y carga
+Se tiene una corriente constante de 0.50 A en la bombilla de una linterna durante 2.0 minutos.
+¿Cuánta carga pasa por la bombilla en este tiempo? ¿Cuántos electrones representa esto?
+Razonamiento. La corriente y el tiempo transcurrido se conocen. La definición de corrien-
+te (ecuación 17.1) nos permite encontrar la carga q. Como cada electrón tiene una carga
+con una magnitud de 1.6 /H1100310–19 C, entonces es posible convertir q a un número especí-
+fico de electrones.
+Solución. Se lista los datos y se convierte el intervalo de tiempo a segundos:
+Dado: Encuentre: q (cantidad de carga)
+n (número de electrones)
+De la ecuación (17.1), I /H11005q/t, por lo que la magnitud de la carga está dada por
+Se resuelve para determinar el número de electrones ( n), y se tiene
+(Lo que implica muchísimos electrones.)
+Ejercicio de refuerzo. Muchos instrumentos muy sensibles de laboratorio pueden medir
+fácilmente corrientes en el rango de nanoamperes, o aun menores. ¿Cuánto tiempo, en
+años, le tomaría a una carga de 1.0 C fluir por un punto dado en un alambre que conduce
+una corriente de 1.0 nA?
+Velocidad de deriva, flujo de electrones y transmisión 
+de energía eléctrica
+Aunque a menudo mencionamos el flujo de carga en analogía al flujo de agua, la carga
+eléctrica que circula por un conductor no fluye de la misma forma en que el agua flu-
+ye por un tubo. En ausencia de una diferencia de potencial en un alambre metálico, los
+electrones libres se mueven al azar a grandes velocidades entrando en colisión muchas
+veces por segundo con los átomos del metal. En consecuencia, no hay un flujo neto
+promedio de carga, ya que cantidades iguales de carga pasan por un punto dado en
+sentidos opuestos durante un intervalo específico de tiempo.
+n =
+q
+e = 60 C
+1.6 * 10-19 C>electrón
+= 3.8 * 1020 electrones
+q = It =10.50 A211.2 * 102 s2 =10.50 C>s211.2 * 102 s2 = 60 C
+ t = 2.0 min = 1.2 * 102 s
+ I = 0.50 A
+I =
+q
+t
+
+17.3 Resistencia y ley de Ohm 573
+Sin embargo, cuando una diferencia de potencial (voltaje) se aplicaentre los extremos
+del alambre (por ejemplo, mediante una batería), en éste aparece un campo eléctrico en
+una dirección. Entonces se presenta un flujo de electrones que se opone a esa dirección
+(¿por qué?). Esto no significa que los electrones se están moviendo directamente de un ex-
+tremo del alambre al otro, pues se siguen moviendo en todas direcciones al entrar en coli-
+sión con los átomos del conductor, pero ahora hay un componente que se suma (en una
+dirección) a sus velocidades (
+Nfigura 17.8). El resultado es que sus movimientos ahora
+son, en promedio, más hacia la terminal positiva de la batería que en sentido contrario.
+Este flujo neto de electrones se caracteriza por una velocidad promedio llamada
+velocidad de deriva, que es mucho menor que las velocidades aleatorias (térmicas) de
+los electrones mismos. En general, la magnitud de la velocidad de deriva es del orden
+de 1 mm/s. De acuerdo con esto, un electrón tardaría aproximadamente 17 min en via-
+jar 1 m a lo largo de un alambre. Sin embargo, una lámpara se enciende casi instantá-
+neamente cuando accionamos el interruptor (para cerrar el circuito), y las señales
+electrónicas que transmiten conversaciones telefónicas viajan casi instantáneamente
+por millas de cable. ¿Cómo es posible esto?
+Es evidente que algo debe estar moviéndose más rápidamente que los electrones de
+deriva. Por supuesto, se trata del campo eléctrico. Cuando se aplica una diferencia de po-
+tencial, el campo eléctrico asociado en el conductor viaja con una rapidez cercana a la de
+la luz (aproximadamente 10
+8 m/s). Por tanto, el campo eléctrico influye en el movimien-
+to de los electrones a lo largo del conductorcasi instantáneamente. Esto significa que la co-
+rriente se inicia en todas partes del circuito casi de forma simultánea. No tenemos que
+esperar que los electrones “lleguen ahí” desde un lugar distante (por ejemplo, cerca del
+interruptor). Por ejemplo, en una bombilla, los electrones que ya están en el filamento co-
+mienzan a moverse casi inmediatamente para entregar energía y generar luz sin demora.
+Este efecto es análogo a derribar una hilera de fichas de dominó. Cuando se derriba
+una ficha en un extremo, esa señal o energía se transmite rápidamente a lo largo de la hi-
+lera. Muy rápidamente, en el otro extremo, la última ficha cae (y entrega la energía). Es
+evidente que la ficha de dominó que entrega la señal o la energía no es la que usted empu-
+jó. Así, fue la energía —no las fichas de dominó— la que viajó a lo largo de la hilera.
+17.3 Resistencia y ley de Ohm
+OBJETIVOS: a) Definir resistencia eléctrica y explicar qué significa resistor óhmico,
+b) resumir los factores que determinan la resistencia y c) calcular el
+efecto de esos factores en situaciones simples.
+Si usted aplica un voltaje (diferencia de potencial) entre los extremos de un material
+conductor, ¿qué factores determinan la corriente? Como podría esperarse, en general,
+cuanto mayor es el voltaje, mayor es la corriente. Sin embargo, hay otro factor que in-
+fluye en la corriente. Así como la fricción interna (viscosidad; véase el capítulo 9) afec-
+ta el flujo de los fluidos en los tubos, la resistencia del material del que está hecho el
+alambre afectará el flujo de carga. Cualquier objeto que ofrece resistencia considerable
+a la corriente eléctrica se llama resistor y se representa en los diagramas mediante el
+símbolo en zigzag (sección 17.1). Este símbolo se usa para representar todos los tipos
+existentes de “resistores”, desde los cilíndricos codificados en color sobre tableros de
+circuitos impresos a los dispositivos y aparatos eléctricos como secadoras de cabello y
+bombillas de luz (
+Nfigura 17.9).
+Pero, ¿cómo se cuantifica la resistencia? Sabemos, por ejemplo, que si un gran vol-
+taje se aplica a través de un objeto y produce sólo una pequeña corriente, entonces ese
+objeto presenta una elevada resistencia. Así, la resistencia (R) de cualquier objeto se
+define como la razón entre el voltaje a través del objeto y la corriente resultante a tra-
+vés de ese objeto. Por lo tanto, la resistencia se define como
+resistencia eléctrica
+(17.2a)
+Unidad SI de resistencia: volt por ampere (V/A), u ohm
+Las unidades de resistencia son volts por ampere (V/A), llamado ohm en ho-
+nor del físico alemán Georg Ohm (1789-1854), quien investigó la relación entre corrien-
+te y voltaje. Los grandes valores de la resistencia se expresan comúnmente en kilohms
+y megaohms Un diagrama de un circuito que muestra cómo, en princi-
+1MÆ2.1kÆ2
+1æ2
+1Æ2
+R = V
+I
+Velocidad de deriva vd
+e–
+E
+▲ FIGURA 17.8 Velocidad de deri-
+va A causa de las colisiones con los
+átomos del conductor, el movimien-
+to de los electrones es al azar. Sin
+embargo, cuando el conductor está
+conectado, por ejemplo, a una 
+batería, para formar un circuito
+completo, se tiene un pequeño 
+movimiento neto en sentido opues-
+to al campo eléctrico [hacia la 
+terminal de mayor potencial 
+(positiva) o ánodo]. La rapidez y el
+sentido de este movimiento neto
+constituye la velocidad de deriva 
+de los electrones.
+▲ FIGURA 17.9 Resistores en uso
+Un tablero de circuito impreso, 
+típicamente usado en computadoras,
+incluye resistores de diferentes 
+valores. Los grandes cilindros 
+rayados son resistores; sus códigos
+de bandas de cuatro colores indican
+sus resistencias en ohms.
+Nota:
+resistor es un término 
+genérico para cualquier objeto
+que posee una resistencia 
+eléctrica significativa.
+Nota: Recuerde, V significa ¢V.
+
+574 CAPÍTULO 17 Corriente eléctrica y resistencia
++–
+I
+R
+V
+R = 
+ a)
+Corriente
+ b)
+VVoltaje
+I
+Pendiente= 
+R = V/I
+I
+V
+▲ FIGURA 17.10 Resistencia y ley
+de Ohm a) En principio, cualquier
+resistencia eléctrica de un objeto se
+determina dividiendo el voltaje a
+través de él entre la corriente que 
+fluye. b) Si el elemento obedece la
+ley de Ohm (aplicable sólo a una 
+resistencia constante), entonces 
+una gráfica del voltaje versus la 
+corriente es una línea recta con 
+pendiente igual a R, o resistencia
+del elemento. (Su resistencia no
+cambia con el voltaje.)
+pio, se determina la resistencia, aparece en la >figura 17.10a. (En el capítulo 18 estudia-
+remos los instrumentos que se emplean para medir la corriente y el voltaje eléctricos,
+llamados amperímetros y voltímetros, respectivamente.)
+Para algunos materiales, la resistencia es constante en un rango de voltajes. Se di-
+ce que un resistor que exhibe resistencia constante obedece la ley de Ohm, o que es óh-
+mico. La ley se llamó así en honor de Ohm, quien encontró materiales que poseen esta
+propiedad. Una gráfica de voltaje versus corriente para un material con una resistencia
+óhmica es una línea recta con una pendiente igual a su resistencia R (figura 17.10b).
+Una forma común y práctica de la ley de Ohm es 
+(ley de Ohm) (17.2b)
+(o sólo cuando R es constante)
+La ley de Ohm no es una ley fundamental en el mismo sentido en que, por ejemplo,
+la ley de la conservación de la energía. No hay “ley” que establezca que los materiales
+deben tener resistencia constante. De hecho, muchos de nuestros avances en electrónica
+se basan en materiales como los semiconductores, que tienen relaciones no lineales entre
+voltaje y corriente.
+A menos que se especifique otra cosa, supondremos que los resistores son óhmi-
+cos. Sin embargo, siempre recuerde que muchos materiales no son óhmicos. Por ejem-
+plo, la resistencia de los filamentos de tungsteno de las bombillas de luz aumenta con
+la temperatura, y es mayor a la temperatura de operación que a temperatura ambien-
+te. El siguiente ejemplo muestra cómo la resistencia del cuerpo humano puede hacer la
+diferencia entre la vida y la muerte.
+Ejemplo 17.3 ■ Peligro en la casa: resistencia humana
+Cualquier habitación en una casa expuesta al voltaje eléctrico y al agua representa peli-
+gro. (Véase el análisis de la seguridad eléctrica en la sección 18.5.) Por ejemplo, suponga
+que una persona sale de la ducha y, sin querer, toca con el dedo un alambre expuesto de
+120 V (quizá un cordón deshilachado de una secadora). El cuerpo humano, cuando está
+mojado, tiene una resistencia eléctrica tan baja como Con base en este valor, estime
+la corriente en el cuerpo de esa persona.
+Razonamiento. El alambre tiene un potencial eléctrico de 120 V por encima del piso, que
+es “tierra” y que está a 0 V . Por lo tanto, el voltaje (o diferencia de potencial) a través del
+cuerpo es de 120 V . Para determinar la corriente, utilizaremos la ecuación 17.2, que define
+la resistencia.
+Solución. Se listan los datos,
+Dado: Encuentre: I (corriente en el cuerpo)
+Usando la ecuación 17.2, tenemos
+Si bien ésta es una pequeña corriente según los estándares diarios, es una corriente fuer-
+te para el cuerpo humano. Una corriente de más de 10 mA provoca severas contracciones
+musculares, y corrientes del orden de 100 mA pueden detener el corazón. Así que esta co-
+rriente es potencialmente mortal. (Véase la sección A fondo sobre electricidad y seguri-
+dad personal, y la tabla 1 en el capítulo 18, p. 614.)
+Ejercicio de refuerzo. Cuando el cuerpo humano está seco, su resistencia (a todo lo largo)
+llega a ser tan alta como ¿Qué voltaje se requiere para producir una corriente de
+1.0 mA (un valor que la gente apenas percibe)?
+Factores que influyen en la resistencia
+En el nivel atómico, la resistencia aparece cuando los electrones entran en colisión con los
+átomos que constituyen el material. Así, la resistencia depende parcialmente del tipo de
+material del que se compone el objeto. Sin embargo, los factores geométricos también in-
+fluyen en la resistencia de un objeto. En resumen, la resistencia de un objeto de sección
+transversal uniforme, como un tramo de alambre, depende de cuatro propiedades: 1) el
+tipo de material, 2) su longitud, 3) su área transversal y 4) su temperatura (
+>figura 17.11).
+100 kÆ.
+I = V
+R = 120 V
+300 Æ = 0.400 A = 400 mA
+ R = 300 Æ
+ V = 120 V
+300 Æ.
+I r V,
+V = IR
+Longitud
+Temperatura Área de la sección
+transversal 
+Material
+▲ FIGURA 17.11 Factores de 
+resistencia Los factores que afectan
+directamente la resistencia eléctrica de
+un conductor cilíndrico son el tipo 
+de material del que está hecho, su 
+longitud (L), el área de su sección
+transversal (A) y su temperatura (T).
+Nota: ohmico significa “con 
+resistencia constante”.
+
+17.3 Resistencia y ley de Ohm 575
+Ilustración 30.5 “Ley” de Ohm
+17 .1 LA “BIOGENERACIÓN” DE ALTO VOLTAJE
+Usted sabe que dos metales diferentes inmersos en ácido gene-
+ran una separación constante de carga (o voltaje) y, por lo tanto,
+producen corriente eléctrica. Sin embargo, los organismo vivos
+también crean voltajes mediante un proceso que, en ocasiones,
+se llama “biogeneración”. En particular, las anguilas eléctricas
+(véase la sección A fondo 15.2 de la p. 527) son capaces de gene-
+rar 600 V , un voltaje más que suficiente para matar a un ser hu-
+mano. Como veremos, el proceso tiene similitudes tanto con las
+“pilas secas” como con la transmisión de señales nerviosas.
+Las anguilas tienen tres órganos relacionados con sus acti-
+vidades eléctricas. El órgano de Sachs genera pulsaciones de ba-
+jo voltaje para la navegación. Los otros dos (el órgano de Hunter
+y el órgano de Main) son fuentes de alto voltaje (figura 1). En es-
+tos órganos, las células llamadas electrocitos o electroplacas, están
+apiladas. Cada célula tiene forma de disco plano. La columna
+de electroplacas es una conexión en serie similar a la de una ba-
+tería de automóvil, en donde hay seis celdas de 2 V cada una,
+que producen un total de 12 V . Cada electroplaca es capaz de
+producir un voltaje de apenas 0.15 V , pero cuatro o cinco mil 
+de ellas conectadas en serie generan un voltaje de 600 V .Las elec-
+troplacas son similares a las células musculares en que reciben
+impulsos nerviosos a través de conexiones sinápticas. Sin em-
+bargo, estos impulsos nerviosos no generan movimiento. En lu-
+gar de ello, desencadenan la generación de voltaje mediante el
+siguiente mecanismo.
+Cada electroplaca tiene la misma estructura. Las membra-
+nas superior e inferior se comportan de manera similar a las
+membranas nerviosas. En condiciones de reposo, los iones de
+Na
+/H11001no pueden penetrar en la membrana. Para equilibrar sus
+concentraciones en ambos lados, los iones permanecen cerca de
+la superficie exterior. Esto, a la vez, atrae (del interior) las pro-
+teínas negativamente cargadas hacia la superficie interna. Co-
+A FONDO
+Órgano de Sachs Órganos de Main y de Hunter
+Longitud de un adulto /H33360 2 m
+ b)
+ a)
+Anterior
+Posterior
+/H9004V1 /H11005 0
+/H9004V1 /H11005 0
+/H9004Vtotal /H11005 0
+/H11001
+/H11002/H11002 /H11002/H11002/H11002 /H11002 /H11002
+/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+Membranas de 
+proteínas/lípidos
+FIGURA 2 a) Una sola electroplaca en reposo Una de las mi-
+les de electroplacas en los órganos de la anguila tiene, en con-
+diciones de reposo, iguales cantidades de carga positiva en la
+parte superior y en la inferior, lo que da por resultado un volta-
+je de 0. b) Electroplacas en reposo conectadas en serie Va-
+rios miles de electroplacas en serie, en condiciones de reposo,
+tienen un voltaje total de 0.
+mo resultado, el interior tiene un potencial 0.08 V más bajo que
+el exterior. Así, en condiciones de reposo, la superficie externa
+superior (la que da hacia la cabeza o la parte anterior de la an-
+guila) y la superficie externa inferior (que da a la parte poste-
+rior) de todas las electroplacas son positivas (una de ellas se
+ilustra en la figura 2a) y no presenta voltaje ( ΔV
+1 /H110050). Por lo
+tanto, en condiciones de reposo, una columna de electroplacas
+en serie no tiene voltaje (ΔV
+total /H11005ΣΔVi /H110050) de la parte superior
+a la inferior (figura 2b).
+Como podría esperarse, la resistencia de un objeto (por ejemplo, un trozo de alam-
+bre) es inversamente proporcional al área de su sección transversal ( A) y directamente
+proporcional a la longitud ( L); esto es, . Por ejemplo, un alambre metálico
+uniforme de 4 m de longitud ofrece el doble de resistencia que un alambre similar de 2 m
+de longitud, pero un alambre con un área transversal de 0.50 mm
+2 tiene sólo la mitad de
+la resistencia de uno con área de 0.25 mm2. Esas condiciones geométricas de resistencia
+son análogas a las del flujo de un líquido en un tubo. Cuanto más largo es el 
+tubo, mayor es su resistencia (arrastre), pero cuanto mayor es el área transversal del tu-
+bo, mayor es la cantidad de líquido que puede llevar. Para conocer más acerca de la re-
+sistencia en relación con la longitud y el área en los organismos vivos, véase en esta
+página la sección A fondo 17.1 sobre la “biogeneración” de alto voltaje.
+R r L>A
+(continúa en la siguiente página)
+FIGURA 1 Anatomía de una anguila eléctrica El 80% del
+cuerpo de una anguila eléctrica está dedicado a la generación
+de voltaje. La mayor parte de esa porción contiene los dos ór-
+ganos (de Main y de Hunter) responsables del alto voltaje que
+le permite matar a sus presas. El órgano de Sachs produce un
+voltaje de baja pulsación, que se utiliza para la navegación.
+
+576 CAPÍTULO 17 Corriente eléctrica y resistencia
+Sin embargo, cuando una anguila localiza a su presa, su 
+cerebro envía una señal a través de una neurona sólo a la mem-
+brana inferior de cada electroplaca (en la figura 3a se ilustra una
+célula). Una sustancia química ( acetilcolina) se difunde a través
+de la sinapsis sobre la membrana, abriendo brevemente cana-
+les de iones y permitiendo que entre el Na
++. Por unos cuantos mi-
+lisegundos, se invierte la polaridad de la membrana inferior, creando
+un voltaje a través de la célula de La columna 
+entera de electroplacas realiza esto de manera simultánea, ge-
+nerando un gran voltaje entre los extremos de la columna
+( 600 V; véase la figura 3b). Cuando la an-
+guila toca a su presa con los extremos de la columna de células,
+el pulso de corriente resultante que transmite a la presa (aproxi-
+madamente de 0.5 A) entrega suficiente energía para matarla 
+o, al menos, para inmovilizarla.
+¢Vtotal L 4000 ¢V1 =
+¢V1 L 0.15 V.
+Una configuración biológica interesante de “cableado”
+permite que todas las electroplacas se activen de manera simul-
+tánea, un requisito fundamental para la generación del máximo
+voltaje. Como cada electroplaca está a diferente distancia del
+cerebro, el potencial de acción que viaja por las neuronas debe
+estar perfectamente cronometrado. Para lograrlo, las neuronas
+conectadas a la parte superior de la columna de electroplacas
+(más cercana al cerebro) son más largas y más delgadas que
+aquellas conectadas con la parte inferior. A partir de lo que us-
+ted sabe sobre resistencia (véase, por ejemplo, la explicación de
+la ecuación 17.3 y de , resulta claro que tanto una re-
+ducción en el área como un aumento en la longitud de las neu-
+ronas sirven para incrementar la resistencia de las neuronas en
+comparación con la de aquellas conectadas a electroplacas más
+distantes. El aumento de resistencia significa que el potencial
+de acción viaja más lentamente a través de las neuronas más
+cercanas y, por lo tanto, permite que las electroplacas que están
+más cerca reciban su señal al mismo tiempo que las más distan-
+tes, una aplicación muy interesante de la física (por supuesto,
+desde la perspectiva de la anguila, no de la presa.)
+R r L>A
+/H9004Vtotal /H33360 600V
+ b)
+Anterior
+Posterior
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+/H11002/H11002/H11002/H11002/H11002/H11002 /H11002
+Señal 
+del 
+cerebro
+ a)
+/H9004V1 /H33360 0.15V
+/H11001
+/H11002/H11002 /H11002/H11002/H11002 /H11002 /H11002
+/H11001/H11001/H11001/H11001/H11001/H11001
+/H11002
+/H11001/H11001/H11001/H11001/H11001/H11001
+Na/H11001
+/H11001/H11001/H11001/H11001/H11001/H11001/H11001
+/H11002/H11002/H11002/H11002/H11002 /H11002
+FIGURA 3 a) Una electroplaca en acción En la localización
+de la presa, una señal se envía desde el cerebro de la anguila a
+cada electroplaca a lo largo de una neurona conectada sólo a la
+parte inferior de la placa. Esto desencadena la breve apertura
+del canal de iones, permitiendo que los iones de Na
++, entren e
+invierte temporalmente la polaridad en la membrana inferior.
+De esta forma, se registra una diferencia de potencial eléctrico
+(voltaje) temporal entre las membranas superior e inferior. El
+voltaje de cada electroplaca, generalmente, es de varias déci-
+mas de volt. b) Una columna de electroplacas en serie en
+acción Cuando cada electroplaca en la columna es activada
+por la señal de la neurona inferior, esto da por resultado un
+gran voltaje entre la parte superior e inferior de la columna,
+por lo general, de unos 600 V . Este gran voltaje permite que la
+anguila aplique un pulso de corriente equivalente a varias dé-
+cimas de un ampere al cuerpo de la presa. La energía deposi-
+tada en la presa es suficiente para inmovilizarla o matarla.
+Resistividad
+La resistencia de un objeto está determinada parcialmente por las propiedades atómi-
+cas del material que lo constituye, descritas cuantitativamente por la resistividad (ρ)
+del material. La resistencia de un objeto de sección transversal uniforme está dada por
+(17.3)
+Unidad SI de resistividad: ohm-metro
+Las unidades de resistividad (ρ) son ohm-metros (Usted debería demostrar es-
+to.) Así, si se conoce la resistividad (del tipo del material) y utilizando la ecuación 17.3, po-
+demos calcular la resistencia de cualquier objeto con área constante, siempre que se
+conozcan su longitud y área transversal.
+1Æ # m2.
+1Æ # m2
+R =ra L
+Ab
+Nota: no confunda resistividad
+con densidad de masa, que 
+tienen el mismo símbolo (r).
+
+17.3 Resistencia y ley de Ohm 577
+Los valores de resistividad de algunos conductores, semiconductores y aislantes
+se presentan en la tabla 17.1. Los valores son aplicables a 20°C, porque la resistividad
+puede depender de la temperatura. Los cables más comunes están hechos de cobre 
+o aluminio con áreas de sección transversal de 10
+–6 m2 o 1 mm2. Para una longitud de
+1.5 m, usted seguramente podrá demostrar que la resistencia de un cable de cobre con
+esta área es aproximadamente de Esto explica por qué las resis-
+tencias de los cables se ignoran en los circuitos (sus valores son mucho menores que la
+mayoría de los aparatos domésticos).
+Una aplicación médica interesante y potencialmente importante implica la me-
+dición de la resistencia del ser humano y su relación con la grasa corporal. (Véase la
+sección A fondo sobre el análisis de la impedancia bioeléctrica en la p. 578.) Para tener
+una idea de las magnitudes de estas cantidades en los tejidos vivos, considere el si-
+guiente ejemplo.
+Ejemplo 17.4 ■ Anguilas eléctricas: ¿cocinando con bioelectricidad?
+Suponga que una anguila eléctrica toca la cabeza y cola de un pez con forma cilíndrica y
+que le aplica un voltaje de 600 V . (Véase la sección A fondo 17.1 en la p. 575.) Si la corrien-
+te resultante es de 0.80 A (que probablemente matará a la presa), estime la resistividad
+promedio de la carne del pez, suponiendo que éste mide 20 cm de longitud y 4.0 cm de
+diámetro.
+Razonamiento. Si el pez tiene una forma cilíndrica y conocemos su longitud, podemos
+determinar su área transversal a partir de las dimensiones que nos dan. Por lo que se re-
+fiere a su resistencia, podemos determinarla a partir del voltaje y de la corriente. Por últi-
+mo, su resistividad se estimará utilizando la ecuación 17.3.
+Solución. Se listan los datos:
+Dado: Encuentre: f (resistividad)
+El área transversal del pez es
+También se sabe que la resistencia general del pez es 
+A partir de la ecuación 17.3, se tiene
+r = RA
+L =
+17.5 * 102 Æ213.1 * 10-4 m22
+0.20 m
+= 1.2 Æ # m o bien 120 Æ # cm
+R = V
+I = 600 V
+0.80 A = 7.5 * 102 Æ.
+A =pr2 =pa d
+2b
+2
+=
+p12.0 * 10-2 m22
+4 = 3.1 * 10-4 m2
+ I = 0.80 A
+ V = 600 V
+ d = 4.0 cm = 4.0 * 10-2 m
+ L = 20 cm = 0.20 m
+1 = 25 mÆ2.0.025 Æ
+Resistividades (a 20°C) y coeficientes de temperatura de la resistividad para varios materiales*
+Conductores Semiconductores
+Aluminio Carbono
+Cobre Germanio
+Hierro Silicio
+Mercurio
+Nicromo (aleación  
+de níquel y cromo) Aislantes
+Níquel Vidrio
+Platino Caucho
+Plata Madera
+Tungsteno
+*Los valores para los semiconductores son generales, y las resistividades para los aislantes son órdenes de magnitud típicas.
+4.5 * 10-35.6 * 10-8
+10104.1 * 10-31.59 * 10-8
+10153.93 * 10-310 * 10-8
+10126.0 * 10-37.8 * 10- 8
+0.40 * 10-3100 * 10-8
+0.89 * 10-398.4 * 10-8
+-7.0 * 10-22.5 * 1026.51 * 10-310 * 10-8
+-5.0 * 10-24.6 * 10-16.80 * 10-31.70 * 10-8
+-5.0 * 10-43.6 * 10-54.29 * 10-32.82 * 10-8
+a (1>C°)r (Æ # m)a (1>C°)r (Æ # m)
+TABLA 17.1
+(continúa en la siguiente página)
+
+578 CAPÍTULO 17 Corriente eléctrica y resistencia
+Nota: compare la forma de la
+ecuación 17.5 con la ecuación
+10.10 para la expansión lineal 
+de un sólido.
+Al comparar este resultado con los valores en la tabla 17.1, se podrá ver —como se espera-
+ba— que la carne del pez es mucho más resistiva que los metales, pero, por supuesto, no es
+un gran aislante. El valor está en el rango de las resistividades que se han medido en dife-
+rentes tejidos humanos; por ejemplo, el músculo cardiaco tiene una resistividad de
+, y el hígado de Resulta claro que nuestra respuesta es un promedio
+de todo el cuerpo del pez y no nos dice nada acerca de las diferentes partes de su organismo.
+Ejercicio de refuerzo.Suponga que para su siguiente comida, la anguila de este ejemplo
+elige una especie diferente de pez, que tiene el doble de la resistividad promedio, la mitad
+de la longitud y la mitad del diámetro del primer pez. ¿Qué corriente se esperaría en este
+pez si la anguila le aplica 400 V en el cuerpo?
+Para muchos materiales, especialmente los metales, la dependencia de la resistivi-
+dad con respecto a la temperatura es casi lineal si el cambio de temperatura no es de-
+masiado grande. Esto es, la resistividad a una temperatura T después de un cambio de
+temperatura está dada por
+(17.4)
+donde α es una constante (generalmente sólo en un cierto rango de temperatura) lla-
+mada coeficiente de temperatura de la resistividad y ρo es una resistividad de refe-
+rencia a To (por lo general a 20°C). La ecuación 17.4 se rescribe como
+(17.5)
+donde Δρ = ρ /H11002ρo es el cambio en resistividad que ocurre cuando la temperatura cambia
+en ΔT. La razón Δρ/ρo es adimensional, por lo que α tiene unidades de grados Celsius a
+la inversa, que se escriben como 1/Co. Físicamente, α representa el cambio fraccional en
+resistividad (Δρ/ρo) por grado Celsius. Los coeficientes de temperatura de la resistividad
+para algunos materiales se presentan en la tabla 17.1. Se supone que esos coeficientes son
+constantes en rangos normales de temperatura. Observe que para los semiconductores y
+los aislantes, los coeficientes, en general, son órdenes de magnitud y no son constantes.
+¢r =roa¢T
+r =ro11 +a¢T2
+T - To=¢T
+200 Æ # cm.175 Æ # cm
+17 .2 ANÁLISIS DE IMPEDANCIA BIOELÉCTRICA (AIB)
+Los métodos tradicionales (y poco precisos) para determinar los
+porcentajes de grasa en el cuerpo humano implican el uso de tan-
+ques de flotación (para mediciones de densidad) o de calibres pa-
+ra medir el grosor de la masa corporal. En años recientes, se han
+diseñado experimentos de resistencia eléctrica para medir la gra-
+sa del cuerpo humano.* En teoría, esas mediciones (llamadas aná-
+lisis de impedancia bioeléctrica o AIB) tienen el potencial para
+determinar, con más precisión que los métodos tradicionales, el
+contenido total de agua en el cuerpo, la masa de grasa libre y la
+grasa corporal (tejido adiposo).
+El principio del AIB se basa en el contenido de agua del
+cuerpo humano. El agua en el cuerpo humano es relativamente
+un buen conductor de la corriente eléctrica, gracias a la presen-
+cia de iones como el potasio (K
+/H11001) y el sodio (Na/H11001). Como el teji-
+do muscular guarda más agua por kilogramo que la grasa, es
+un mejor conductor que esta última. Así, para un voltaje dado,
+la diferencia en corrientes debería ser un buen indicador del
+porcentaje de grasa y músculo presentes en el cuerpo.
+En la práctica, al realizar un AIB, un electrodo con un bajo
+voltaje se conecta a la muñeca y el otro al tobillo opuesto. Por fi-
+nes de seguridad, la corriente se mantiene por debajo de 1 mA,
+siendo comunes las de 800 
+μA. El paciente no percibe esta pe-
+queña corriente. Los valores típicos de la resistencia son de
+aproximadamente 250 Ω. A partir de la ley de Ohm, podemos
+estimar el voltaje requerido: V /H11005IR /H11005(8 /H1100310/H110024 A)(250 Ω) /H11005
+0.200 V , o aproximadamente 200 mV . En realidad, el voltaje al-
+terna en polaridad a una frecuencia de 50 kHz, porque se sabe
+que este rango de frecuencia no activa eléctricamente tejidos ex-
+citables, como los nervios y el músculo cardiaco.
+Seguramente usted comprende algunos de los factores im-
+plicados en interpretar los resultados de las mediciones de la re-
+sistencia humana. La resistencia que se mide es en realidad la
+resistencia total. Sin embargo, la corriente viaja no a través de un
+conductor uniforme, sino más bien por el brazo, tronco y pierna.
+Cada una de esas partes del cuerpo no sólo tiene una proporción
+diferente de grasa y músculo, lo que afecta la resistividad (
+ρ), si-
+no que todas ellas tienen diferente longitud (L) y área transversal
+(A). Así, el brazo y la pierna, constituidos en su mayor parte por
+músculo, y con una pequeña área transversal, ofrecen la mayor
+resistencia. Por el contrario, el tronco, que por lo general contiene
+un porcentaje relativamente alto de grasa y que tiene una área
+transversal grande, presenta una resistencia baja.
+Al someter el AIB al análisis estadístico, los investigadores
+esperan entender cómo el amplio rango de parámetros físicos y
+genéticos presentes en los seres humanos afectan las medicio-
+nes de la resistencia. Entre esos parámetros están la altura, el
+peso, la complexión y el origen étnico. Una vez comprendidas
+las correlaciones, el AIB se convierte en una valiosa herramien-
+ta médica en el diagnóstico de diversas enfermedades.
+A FONDO
+*Técnicamente, este procedimiento mide la impedancia del cuerpo,
+lo que incluye efectos de capacitancia y efectos magnéticos, así como la
+resistencia. (Véase el capítulo 21.) Sin embargo, estas contribuciones
+representan un 10% del total. Así que la palabra que usaremos aquí es
+la de resistencia.
+variación de la resistividad
+por la temperatura
+
+17.3 Resistencia y ley de Ohm 579
+La resistencia es directamente proporcional a la resistividad (ecuación 17.3). Esto
+significa que la resistencia de un objeto presenta la misma dependencia con respecto a
+la temperatura que la resistividad (ecuaciones 17.3 y 17.4). La resistencia de un objeto
+de sección transversal uniforme varía en función de la temperatura:
+(17.6)
+Aquí, ΔR /H11005R /H11002Ro es el cambio en la resistencia relativa con respecto a su valor de 
+referencia Ro, que generalmente se toma a 20°C. La variación de la resistencia con la
+temperatura ofrece una forma de medir temperaturas por medio de un termómetro de
+resistencia eléctrica, como se ilustra en el siguiente ejemplo:
+Ejemplo 17.5 ■ Un termómetro eléctrico: variación de la resistencia
+con la temperatura
+Un alambre de platino tiene una resistencia de 0.50 Ω a 0°C, y es puesto en un baño de agua,
+donde su resistencia se eleva a un valor final de 0.60 Ω. ¿Cuál es la temperatura del baño?
+Razonamiento. A partir del coeficiente de temperatura de la resistividad para el platino
+que se indica en la tabla 17.1, podemos despejar ΔT de la ecuación 17.6 y sumarla a 0°C, la
+temperatura inicial, para encontrar la temperatura del baño.
+Solución.
+Dado: Encuentre: T (temperatura del baño)
+(tabla 17.1)
+La razón ΔR/Ro es el cambio fraccional en la resistencia inicial Ro (a 0°C). Despejamos ΔT
+de la ecuación 17.6, usando los valores dados:
+Así, el baño está a
+Ejercicio de refuerzo. En este ejemplo, si el material hubiera sido cobre, para el cual Ro =
+0.50 Ω, en vez de platino, ¿cuál sería su resistencia a 51°C? A partir de ello, usted podría
+explicar qué material constituye el termómetro más “sensible”: uno con un alto coeficien-
+te de temperatura de resistividad o uno con un bajo valor.
+Superconductividad
+El carbono y otros semiconductores tienen coeficientes de temperatura de resistividad
+negativos. Sin embargo, muchos materiales tienen coeficientes de temperatura de re-
+sistividad positivos, por lo que sus resistencias aumentan conforme se incrementa la
+temperatura. Usted quizá se pregunte cuánto se reduce la resistencia eléctrica al bajar
+la temperatura. En ciertos casos, la resistencia puede llegar a cero, es decir, no sólo cer-
+ca de cero, sino exactamente cero. Este fenómeno se llama superconductividad, y fue
+Heike Kamerlingh Onnes, un físico holandés, quien lo descubrió en 1911. Actualmen-
+te, las temperaturas requeridas para estos materiales son de 100 K o menores, y su uso
+está restringido a aparatos de laboratorio de alta tecnología y equipo de investigación.
+Sin embargo, la superconductividad tiene potencial para diversas aplicaciones no-
+vedosas e importantes, especialmente si se encuentran materiales cuya temperatura de
+superconducción esté cercana a la temperatura ambiente. Entre las aplicaciones están
+los imanes superconductores (que se utilizan ya en laboratorios y en unidades de pro-
+pulsión naval a pequeña escala). Si no hay resistencia, son posibles corrientes eleva-
+das y campos magnéticos de gran intensidad (capítulo 19). Utilizados en motores y má-
+quinas, los electromagnetos superconductores serían más eficientes y entregarían 
+más potencia para la misma entrada de energía. Los superconductores también po-
+drían usarse como cables de transmisión de electricidad sin pérdidas por resistividad.
+Algunos imaginan memorias de computadoras sumamente rápidas a base supercon-
+ductores. La ausencia de resistencia eléctrica abre un sinfín de posibilidades. Es proba-
+ble que usted escuche más acerca de las aplicaciones de los superconductores en el
+futuro conforme se desarrollen nuevos materiales.
+51°C.=0°C + 51 C°=T = To +¢ T
+¢T = ¢R
+aRo
+= R - Ro
+aRo
+= 0.60 Æ- 0.50 Æ
+13.93 * 10-3>C°210.50 Æ2 = 51 C°
+ a = 3.93 * 10-3>C°
+ R = 0.60 Æ
+ Ro = 0.50 Æ
+ To = 0°C
+R = Ro11 +a¢T2 o ¢R = Roa¢T variación de la resistencia
+con la temperatura
+
+580 CAPÍTULO 17 Corriente eléctrica y resistencia
+17.4 Potencia eléctrica
+OBJETIVOS: a) Definir potencia eléctrica, b) calcular la entrega de potencia de 
+circuitos eléctricos simples y c) explicar el calentamiento de joule y
+su significado.
+Cuando en un circuito existe una corriente sostenida, los electrones reciben energía de
+la fuente de voltaje, por ejemplo, de una batería. Conforme esos portadores de carga pa-
+san por componentes del circuito, entran en colisión con los átomos del material (es de-
+cir, encuentran resistencia) y pierden energía. La energía transferida en las colisiones da
+por resultado un incremento en la temperatura de los componentes. De esta manera, la
+energía eléctrica se transforma, por lo menos parcialmente, en energía térmica.
+Sin embargo, la energía eléctrica también puede convertirse en otras formas de ener-
+gía, como luz (en las bombillas eléctricas) y movimiento mecánico (en las perforadoras).
+De acuerdo con la ley de la conservación de la energía, cualquier forma que ésta tome, la
+energía total que entrega la batería a los portadores de carga debe transferirse por comple-
+to a los elementos del circuito (ignorando las pérdidas de energía en los cables). Esto es,
+al regresar a la fuente de voltaje o batería, un portador de carga pierde toda la energía
+potencial eléctrica que ganó de esa fuente y está listo para repetir el proceso.
+La energía ganada por una cantidad de carga q a partir de una fuente de voltaje
+(voltaje V) es qV [en unidades, C(J/C) /H11005J]. En un intervalo de tiempo t, la tasa a la que
+la energía se entrega quizá no sea constante. La tasa promedio de entrega de energía se
+llama potencia eléctrica promedio, , y está dada por
+En el caso especial en que la corriente y el voltaje son constantes en el tiempo (como
+sucede con una batería), entonces la potencia promedio es la misma que la potencia en
+todo momento. Para corrientes constantes (cd), I /H11005q/t (ecuación 17.1). Así, podemos
+rescribir la ecuación de potencia anterior como:
+potencia eléctrica
+(17.7a)
+Como recordará del capítulo 5, la unidad SI de potencia es el watt (W). El ampere (la
+unidad de corriente I) multiplicado por el volt (la unidad de voltaje V) da el joule por
+segundo (J/s), o watt. (Debería verificar esto.)
+Una analogía mecánica visual que ayuda a explicar la ecuación 17.7a se presenta en
+la ▼figura 17.12, que ilustra un simple circuito eléctrico como un sistema para transferir
+energía, en analogía a un sistema de entrega por medio de una banda transportadora.
+Como R /H11005V/I, la potencia puede expresarse en tres formas equivalentes:
+potencia eléctrica (17.7b)
+Calor de joule
+A la energía térmica consumida en un resistor portador de corriente se le llama calor
+de joule, o pérdidas I2R (que se lee como “I cuadrada R”). En muchos casos (por ejem-
+plo en líneas de transmisión eléctrica), el calor de joule tiene efectos colaterales inde-
+seables. Sin embargo, en otras situaciones, el objetivo principal es la conversión de
+energía eléctrica a energía térmica. Las aplicaciones térmicas incluyen los elementos
+P = IV = V2
+R = I2
+ R
+P = IV
+P = W
+t =
+qV
+t
+P
+V = 12 V
+I
+I = 6.0 A
+q lleva
+qV de energía
+R = 2.0 Ω = (6.0 C/s)(12 J/C)
+= 72 J/s = 72 W
+P = IV 
+ b) a)
+m = 12 kg/cubo
+1 cubo
+cada 6.0 s
+Tasa de entrega
+= (1/6 cubo/s)(12 kg/cubo)
+= 2.0 kg/s
+motor
+N FIGURA 17.12 Analogía de la 
+potencia eléctrica Los circuitos
+eléctricos pueden considerarse 
+como sistemas de entrega de 
+energía muy similares a una banda
+transportadora. a) Imagine la 
+corriente hecha de segmentos con-
+secutivos de carga q /H110051.0 C, cada
+uno de los cuales porta qV /H1100512 J de
+energía que suministra la batería.
+La corriente es I /H11005V/R /H110056.0 A, o
+6.0 C/s. Así, la potencia (o tasa de
+entrega de energía) al resistor es
+(6.0 C/s)(12 J/C) /H1100572 J/s /H1100572 W.
+b) La banda transportadora 
+comprende una serie de cubos, cada
+uno de los cuales lleva 12 kg de 
+arena (de forma análoga a la energía
+que porta cada carga q); un cubo 
+llega a su destino cada 6.0 s (de 
+manera análoga a la corriente I). La
+tasa de entrega en kg/s es análoga 
+a la potencia en J/s en el inciso a.
+
+17.4 Potencia eléctrica 581
+calentadores (quemadores) de las estufas eléctricas, secadores de cabello, calentadores
+por inmersión y tostadores.
+Las bombillas de luz se clasifican de acuerdo con su potencia en watts, por ejemplo,
+60 W (Nfigura 17.13a). Las lámparas incandescentes son relativamente ineficientes como
+fuentes de luz. Por lo general, menos del 5% de la energía eléctrica se convierte a luz vi-
+sible; la mayor parte de la energía producida es radiación infrarroja invisible y calor.
+Los aparatos eléctricos llevan indicadas sus clasificaciones de potencia. Se dan los
+requisitos de voltaje y potencia o los de voltaje y corriente (figura 17.13b). En cualquier
+caso, es posible calcular la corriente, la potencia y la resistencia efectiva. Los requisitos
+de potencia de algunos aparatos domésticos se presentan en la tabla 17.2. Aunque los
+aparatos más comunes especifican un voltaje de operación nominal de 120 V , hay que
+hacer notar que el voltaje doméstico varía entre 110 y 120 V y aun así se considera en el
+rango “normal”.
+Ejemplo integrado 17.6 ■ Un dilema moderno: usar la computadora
+o comer
+a) Considere dos aparatos que operan al mismo voltaje. El aparato A tiene una potencia no-
+minal mayor que el aparato B. a) ¿Cómo es la resistencia de A con respecto a la de B? 1) Ma-
+yor, 2) menor, o 3) es igual. b) Un sistema de computadora incluye un monitor a color, con
+un requerimiento de potencia de 200 W, mientras que un horno tostador y asador tiene un
+requerimiento de 1500 W. ¿Cuál es la resistencia de cada uno si ambos están diseñados pa-
+ra funcionar a 120 V?
+a) Razonamiento conceptual. La potencia depende de la corriente y del voltaje. Como los
+dos aparatos operan al mismo voltaje, no pueden llevar la misma corriente y, por lo tanto,
+tienen diferentes requerimientos de potencia. Por consiguiente, la respuesta 3 no es co-
+rrecta. Como ambos aparatos operan con el mismo voltaje, el que tiene mayor potencia
+(A) debe llevar la mayor corriente. Para que A lleve más corriente al mismo voltaje que B,
+debe tener menos resistencia que B. Por lo tanto, la respuesta correcta es la 2; esto es, A tie-
+ne menos resistencia que B.
+b) Razonamiento cuantitativo y solución. La definición de resistencia es R /H11005V/I (ecua-
+ción 17.2). Para usar esta definición, necesitamos la corriente, que se determina con la
+ecuación 17.7 (P /H11005IV). Esta operación se hará dos veces, una para el monitor y luego pa-
+ra el asador/tostador. Se listan los datos, donde usamos el subíndice m para el monitor y
+b para el asador/tostador:
+Dado: Encuentre: R (resistencia de cada aparato)
+La corriente del monitor es (utilizando la ecuación 17.7)
+y la del asador/tostador es
+Las resistencias son
+y
+Como los dos operan al mismo voltaje, la salida de potencia de un aparato está controla-
+da por su resistencia. La resistencia del aparato está inversamente relacionada con su re-
+querimiento de potencia. 
+Ejercicio de refuerzo. Un calentador de inmersión es un “aparato” común en la mayoría
+de los dormitorios universitarios, y resulta útil para calentar agua para té, café o sopa. Su-
+poniendo que el 100% del calor va al agua, ¿cuál debe ser la resistencia del calentador
+(que opera a 120 V) para calentar una taza de agua (cuya masa es de 250 g) de la tempera-
+tura ambiente (20°C) al punto de ebullición en 3.00 minutos? 
+R
+b = V
+Ib
+= 120 V
+12.5 A = 9.60 Æ
+Rm = V
+Im
+= 120 V
+1.67 A = 71.9 Æ
+Ib = Pb
+V = 1500 W
+120 V = 12.5 A
+Im = Pm
+V = 200 W
+120 V = 1.67 A
+ V = 120 V
+ Pb = 1500 W
+ Pm = 200 W
+ a)
+ b)
+▲ FIGURA 17.13 Clasificación de
+potencia a) Las bombillas de luz se
+clasifican según sus watts. Al operar
+a 120 V , esta bombilla de 60 W 
+consume 60 J de energía cada 
+segundo. b) Las clasificaciones de
+los aparatos indican el voltaje y la
+potencia, o bien, el voltaje y la 
+corriente. A partir de esos datos 
+es posible calcular la corriente, la 
+potencia y la resistencia efectiva.
+Aquí, un aparato es de 120 V y 
+18 W, mientras que el otro es de 
+120 V y 300 mA. ¿Podría calcular la
+corriente y resistencia del primero
+y la potencia requerida y la 
+resistencia del segundo?
+
+582 CAPÍTULO 17 Corriente eléctrica y resistencia
+Requerimientos típicos de potencia y corriente para varios dispositivos domésticos (120 V)
+Aparato Potencia Corriente Aparato Potencia Corriente
+Acondicionador de aire 1500 W 12.5 A Calentador portátil 1500 W 12.5 A
+de habitación
+Acondicionador de aire central 5000 W 41.7 A* Horno de microondas 900 W 5.2 A
+Mezcladora 800 W 6.7 A Radio, reproductor de casetes 14 W 0.12 A
+Secador de ropa 6000 W 50 A* Refrigerador, no formador 500 W 4.2 A
+de escarcha
+Lavadora de ropa 840 W 7.0 A Est ufa, quemadores superiores 6000 W 50.0 A*
+Cafetera 1625 W 13.5 A Estufa, horno 4500 W 37.5 A*
+Lavavajillas 1200 W 10.0 A Televisión a color 100 W 0.83 A
+Cobertor eléctrico 180 W 1.5 A Tostador 950 W 7.9 A
+Secadora de cabello 1200 W 10.0 A Calentador de agua 4500 W 37.5 A*
+*Un aparato de alta potencia como éste se conecta a un suministro casero de 240 V para reducir la corriente a la mitad de esos valores (sección 18.5).
+TABLA 17.2
+Ejemplo17.7 ■ Una reparación potencialmente peligrosa: 
+¡nunca lo intente!
+Una secadora de cabello está clasificada a 1200 W para un voltaje de operación de 115 V .
+El filamento del cable uniforme se rompe cerca de un extremo, y el propietario lo repara
+cortando una sección cerca de la ruptura y simplemente lo reconecta. Entonces, el fila-
+mento es 10.0% más corto que su longitud original. ¿Cuál será la salida de potencia del
+aparato después de esta “reparación”?
+Razonamiento. El cable siempre opera a 115 V . Así que al acortar el cable, lo que disminu-
+ye su resistencia, dará por resultado una mayor corriente. Con este aumento de corriente,
+uno esperaría que se incremente la salida de potencia.
+Solución. Usaremos el subíndice 1 para indicar la situación “antes de la ruptura” y el su-
+bíndice 2 para “después de la reparación”. Se listan los datos,
+Dado: Encuentre: (salida de potencia después de la reparación)
+Después de la reparación, el cable tiene el 90.0% de su resistencia original, porque (véase
+la ecuación 17.3) la resistencia de un cable es directamente proporcional a su longitud. Pa-
+ra mostrar la reducción del 90% de forma explícita, vamos a expresar la resistencia des-
+pués de la reparación (R
+2 /H11005ρL2/A) en términos de la resistencia original ( R1 /H11005ρL1/A):
+como se esperaba.
+La corriente aumentará porque el voltaje es el mismo (V2 /H11005V1). Este requerimiento se
+expresa como V2 /H11005I2R2 /H11005V1 /H11005I1R1. De manera que la nueva corriente en términos de la
+corriente original es
+lo que significa que la corriente después de la reparación es 11% mayor que antes.
+La potencia original es P1 /H11005I1V /H110051200 W. La potencia después de la reparación es
+P2 /H11005I2V (observe que los voltajes no tienen subíndices porque permanecieron igual y se
+anularán). Expresando una razón da
+de donde se despeja P2:
+La salida de potencia de la secadora aumentó 120 W. ¡Nunca intente hacer ese trabajo de re-
+paración!
+Ejercicio de refuerzo. En este ejemplo, determine a) las resistencias inicial y final y b) las
+corrientes inicial y final.
+P2 = 1.11P1 = 1.1111200 W2 = 1.33 * 103 W
+P2
+P1
+= I2
+ V
+I1
+ V = I2
+I1
+= 1.11
+I2 = ¢ R1
+R2
+≤I1 = ¢ R1
+0.900R1
+≤ I1 =11.112I1
+R2 =r 
+L2
+A =r 
+0.900 L1
+A = 0.900 ¢r 
+L1
+A≤ = 0.900R1
+ L2 = 0.900 L1
+ V1 = V2 = 115 V
+P2 P1 = 1200 W
+
+17.4 Potencia eléctrica 583
+A menudo nos quejamos acerca de lo que tenemos que pagar por consumo de
+electricidad, pero ¿por qué pagamos en realidad? Lo que pagamos es energía eléctrica
+medida en unidades de kilowatt-hora (kWh). La potencia es la tasa a la que se realiza
+trabajo (P /H11005W/t o W /H11005Pt), por lo que el trabajo tiene unidades de watt-segundo (po-
+tencia /H11003tiempo). Al convertir esta unidad a la mayor unidad de kilowatt-horas (kWh),
+vemos que el kilowatt-hora es una unidad de trabajo (o energía), equivalente a 3.6 mi-
+llones de joules, porque:
+Así, pagamos a la compañía de “luz” la energía eléctrica que usamos para efectuar tra-
+bajo con nuestros aparatos domésticos.
+El costo de la energía eléctrica varía según el lugar. En Estados Unidos, el costo va
+de unos cuantos centavos de dólar (por kilowatt-hora) a varias veces ese valor. En los
+últimos años, las tarifas de energía eléctrica se han liberado. Aunada a una creciente
+demanda (sin un aumento correspondiente en el suministro), la eliminación del con-
+trol de precios ha provocado un aumento estratosférico en las tarifas en algunas zonas
+del país. ¿Sabe cuál es el precio de la electricidad en su localidad? Consulte una tabla
+de tarifas para averiguarlo, especialmente si usted vive en alguna de las áreas afecta-
+das por el alza de tarifas. Veamos cuál es el costo de la electricidad para operar un apa-
+rato doméstico en el siguiente ejemplo.
+Ejemplo 17.8 ■ Costo de la energía eléctrica: el precio del enfriamiento
+Si el motor de un refrigerador que no forma escarcha funciona el 15% del tiempo, ¿cuán-
+to cuesta operarlo por mes (al centavo más cercano) si la compañía de luz cobra 11 centa-
+vos por kilowatt-hora? (Suponga que el mes es de 30 días.)
+Razonamiento. De la potencia y la cantidad de tiempo que el motor está encendido por
+día, podemos calcular la energía eléctrica que consume el refrigerador diariamente y luego
+calcularla para un mes de 30 días.
+Solución. Al hablar de cantidades de energía eléctrica, se usan kilowatts-horas porque el
+joule es una unidad relativamente pequeña. Se listan los datos:
+Dado: Encuentre: costo de operación por mes
+Como el motor del refrigerador opera el 15% del tiempo, en un día funciona t /H11005(0.15)(24 h)
+/H110053.60 h. Como P /H11005W/t, la energía eléctrica que se consume por día, es
+Entonces, el costo por día es
+o 20 centavos por día. Así, para un mes de 30 días el costo es
+Ejercicio de refuerzo. ¿Cuánto tiempo tendría usted que dejar encendida una bombilla
+de luz de 60 W para usar la misma cantidad de energía eléctrica que el motor del refrige-
+rador en este ejemplo consume cada hora que está encendido?
+Eficiencia eléctrica y recursos naturales
+Aproximadamente el 25% de la electricidad generada en Estados Unidos se usa para el
+alumbrado (Nfigura 17.14). Este porcentaje es casi equivalente a la producción de 100
+plantas generadoras de electricidad. Los refrigeradores consumen aproximadamente
+el 7% de la electricidad generada en Estados Unidos (lo que equivale a la producción
+de 28 plantas generadoras).
+Este enorme (y creciente) consumo de energía eléctrica en Estados Unidos, ha induci-
+do al gobierno federal y a muchos gobiernos estatales a establecer límites mínimos de
+eficiencia para refrigeradores, congeladores, sistemas acondicionadores de aire y calenta-
+a $0.20
+día
+ba 30 día
+mes b L $6 por mes
+a 1.80 kWh
+día
+ba $0.11
+kWh
+b = $0.20
+día
+W = Pt =1500 W213.60 h>día2 = 1.80 * 103 Wh = 1.80 kWh>día
+ Costo= $0.11>kWh
+ P = 500 W 1tabla 17.22
+1 kWh =11000 W213600 s2 =11000 J>s213600 s2 = 3.6 * 106 J
+▲ FIGURA 17.14 Todo iluminado
+Una imagen nocturna del Continente
+Americano tomada desde un satélite.
+¿Podría identificar los principales
+centros de población en Estados
+Unidos y en otros países? Las 
+manchas en el centro de Sudamérica
+indican incendios forestales. La 
+pequeña mancha al sur de México
+representa las llamas del gas 
+ardiendo en los sitios de producción
+de petróleo. En el extremo superior
+derecho de la imagen alcanzan a
+verse las luces de algunas ciudades
+europeas. La imagen fue registrada
+por un sistema de infrarrojo visible.
+
+584 CAPÍTULO 17 Corriente eléctrica y resistencia
+dores de agua (>figura 17.15). Además, se han desarrollado lámparas fluorescentes más
+eficientes y se ha generalizado su uso. Estas lámparas ahora consumen aproximadamen-
+te entre 25 y 30% menos de energía que la lámpara fluorescente promedio y cerca del 75%
+menos de energía que las lámparas incandescentes con salida de luz equivalente.
+El resultado de todas esas medidas ha sido un ahorro considerable de energía confor-
+me los nuevos aparatos más eficientes reemplazan gradualmente a los antiguos modelos
+menos eficientes. La energía ahorrada se traduce directamente en ahorro de combustible
+y de otros recursos naturales, así como en una reducción de los daños ambientales, tales
+como la contaminación química y el calentamiento global. Para ver qué tipo de resultados
+se logran aplicando un estándar de eficiencia de energía, considere el siguiente ejemplo.
+Ejemplo 17.9 ■ Lo que podemos ahorrar: incremento 
+de la eficiencia eléctrica
+La mayoría de las plantas modernas generadoras de potencia producen electricidad a ra-
+zón de 1.0 GW (salida de gigawatt de potencia eléctrica). Estime cuántas menos de esas
+plantas necesitaría el estado de California, si todas las casas habitación cambiaran sus re-
+frigeradores de 500 W del ejemplo 17.8 a refrigeradores más eficientes de 400 W. (Supon-
+ga que hay aproximadamente 10 millones de hogares en California con un promedio de
+1.2 refrigeradores operando por hogar.)
+Razonamiento. Los resultados del ejemplo 17.8 se utilizarán para calcular el efecto total.
+Solución.
+Dado: Tasa de la planta /H110051.0 GW /H110051.0 /H11003106 kW Encuentre: ¿cuántas plantas
+Requisito de energía, modelo de generadoras menos se
+500 watts = 1.80 kWh/día (ejemplo 17.8) requerirán al cambiar a
+Número de hogares /H1100510 /H1100310
+6 refrigeradores más
+Número de refrigeradores por hogar = 1.2 eficientes?
+Para todo el estado, el uso de energía por día con refrigeradores menos eficientes es
+Los refrigeradores más eficientes en su uso de energía, usan sólo el 80% (400 W/500 W /H11005
+0.80) de esta cantidad, o aproximadamente 1.7 /H11003107 kWh/día. La diferencia, 5.0 /H11003106
+kWh/día, es la razón a la que se ahorra energía eléctrica. Una planta generadora de 
+1.0 GW produce
+De manera que los refrigeradores de reemplazo ahorrarían aproximadamente
+o cerca del 20% de la producción de una planta típica. Advierta que este ahorro sería re-
+sultado del cambio de un solo aparato doméstico. Imagine lo que podría hacerse si todos
+los aparatos domésticos, incluidos los que se encargan de la iluminación, fueran más efi-
+cientes. El desarrollo y uso de aparatos eléctricos más eficientes es la manera de evitar te-
+ner que construir nuevas plantas generadoras de energía eléctrica.
+Ejercicio de refuerzo. Se dice a menudo que los calentadores de agua, eléctricos y de gas
+son igualmente eficientes, con aproximadamente 95% de eficiencia. En realidad, mientras
+que los calentadores de gas alcanzan una eficiencia del 95%, sería más preciso decir que los
+calentadores eléctricos de agua tienen un 33% de eficiencia, aun cuando aproximadamen-
+te el 95% de la energía eléctrica que consumen se transfiere al agua en forma de calor. Expli-
+que esta situación. [Sugerencia: ¿cuál es la fuente de energía de un calentador eléctrico de
+agua? Compare esto con la energía que entrega el gas natural. Recuerde el análisis de ge-
+neración eléctrica en la sección 12.4 y la eficiencia de Carnot en la sección 12.5.]
+5.0 * 10
+6 kWh>día
+2.4 * 107 kWh>1planta-día2
+= 0.21 planta
+a1.0 * 106 kW
+planta
+ba 24 
+h
+día
+b = 2.4 * 107 
+1kWh>planta2
+día
+a
+1.80 kWh>día
+refrigerador
+b110 * 106 hogares2a
+1.2 refrigeradores
+hogar
+b = 2.2 * 107 kWh
+día
+▲ FIGURA 17.15 Guía de energía
+Los consumidores pueden conocer
+las eficiencias de los aparatos 
+domésticos en términos del costo
+anual promedio de operación. En
+algunos casos, el costo anual está
+dado para diferentes tarifas de 
+kilowatt-hora (kWh), que varían en
+diferentes zonas de Estados Unidos.
+
+Repaso del capítulo 585
+Repaso del capítulo
+• Una batería genera una fuerza electromotriz (fem), o un vol-
+taje, entre sus terminales. La terminal de alto voltaje es el
+ánodo, y la terminal de bajo voltaje es el cátodo.
+• La fuerza electromotriz se mide en volts y represen-
+ta el número de joules de energía que una batería (o cualquier
+suministro de potencia) entrega a 1 coulomb de carga que pa-
+sa a través de ella (1 J/C /H110051 V).
+• La corriente eléctrica (I) es la razón a la que fluye la carga. Su
+dirección es la de la corriente convencional, que es en la di-
+rección en que la carga positiva realmente fluye o parece fluir.
+En los metales, el flujo de carga se debe a los electrones y, por
+consiguiente, la dirección de la corriente convencional es con-
+traria a la dirección de flujo de los electrones. La corriente se
+mide en amperes (1 A /H110051 C/s) como
+(17.1)
+• Para que una corriente eléctrica exista en un circuito, éste de-
+be ser un circuito completo, es decir, un circuito (o conjunto
+de elementos de circuito y cables) que conecte ambas termi-
+nales de una batería o suministro de potencia sin interrup-
+ción.
+V
++–
+I
+S
+Flujo de
+electrones
+Corriente
+convencional
+Batería
+R
+I =
+q
+t
++ –
+/H5105
+(fem e)
+––
+–
+–
+–
+–
+––
+–
+–
+––
+–
+–
+–––
+Flujo de 
+electrones
+Flujo de 
+electrones
+CátodoÁnodo
+V
+B+
+B+ B+
+B+
+A+
+A+
+A+ A+
+A+
+B+
+B+ B+
+B+
+B+ B+
+B+
+B+
+AB
+Electrolito
+• La resistencia eléctrica (R) de un objeto es el voltaje a través
+del objeto dividido entre la corriente en ella, o
+(17.2)
+Las unidades de resistencia son el ohm o el volt por ampere.
+• Un elemento de circuito obedece la ley de Ohm si ese ele-
+mento presenta una resistencia eléctrica constante. La ley de
+Ohm se escribe comúnmente como V /H11005IR, donde R es cons-
+tante.
+• La resistencia de un objeto depende de la resistividad (
+ρ) del
+material del que está hecho (propiedades atómicas), del área
+transversal A, y de la longitud L. Para objetos con sección trans-
+versal uniforme,
+(17.3)
+• La potencia eléctrica (P) es la tasa a la que una batería (sumi-
+nistro de potencia) efectúa trabajo, o la tasa a la que se transfie-
+re energía a un elemento de un circuito. La entrega de potencia
+a un elemento de un circuito depende de la resistencia del ele-
+mento, de la corriente en él y del voltaje que se le aplica. La po-
+tencia eléctrica se expresa de tres maneras equivalentes:
+(17.7b)P = IV = V
+2
+R = I2
+ R
+Longitud
+Temperatura Área
+transversal
+Material
+R =r a L
+Ab
+Corriente
+VVoltaje
+I
+Pendiente= 
+R = V/I
++–
+I
+R
+V
+R = I
+V
+R = V
+I  o V = IR
+
+586 CAPÍTULO 17 Corriente eléctrica y resistencia
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son ejer-
+cicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pares de
+ejercicios, que se identifican con númer
+os subrayados, pretenden ayudar al lector a resolver problemas y aprender.
+El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consultarse si se ne-
+cesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al final del libro.
+En este capítulo suponga que todas las baterías tienen una resistencia interna insignificante a menos que se indique lo contrario.
+17.1 Baterías y corriente directa
+1. OM Cuando una batería es parte de un circuito comple-
+to, el voltaje a través de sus terminales es su a) fem, 
+b) voltaje terminal, c) salida de potencia, d) todas las op-
+ciones anteriores son válidas.
+2. OM Conforme una batería envejece, su a) fem aumenta,
+b) fem disminuye, c) voltaje terminal aumenta, d) voltaje
+terminal disminuye.
+3. OM Cuando cuatro baterías de 1.5 V se conectan, el vol-
+taje de salida de la combinación es 1.5. Estas baterías es-
+tán conectadas a) en serie, b) en paralelo, c) un par están
+conectadas en paralelo y el otro par en serie, d) ninguna
+de las opciones anteriores es verdadera.
+4. OM Cuando se ayuda a alguien cuyo automóvil tiene
+una batería “muerta”, ¿cómo debería conectarse la bate-
+ría del automóvil de usted en relación con la batería
+“muerta”? a) En serie, b) en paralelo o c) tanto en serie co-
+mo en paralelo funcionaría bien.
+5. OM Cuando varias baterías de 1.5 V están conectadas en
+serie, la salida de voltaje total de la combinación se mide
+en 12 V . ¿Cuántas baterías se necesitan para obtener este
+voltaje? a) Dos, b) diez, c) ocho o d) seis.
+6. PC ¿Por qué el diseño de la batería que se ilustra en la fi-
+gura 17.1 requiere una membrana química?
+7. PC Se mide el voltaje de una batería mientras se encuen-
+tra sobre el banco de trabajo y un técnico lee la especifica-
+ción del fabricante, que es de 12 V . ¿Esto significa que
+funcionará como se espera cuando se coloque en el cir-
+cuito completo? Explique su respuesta.
+8. PC Dibuje los siguientes circuitos completos, utilizando los
+símbolos mostrados en la sección Aprender dibujando de
+la p. 571. a) Dos baterías ideales de 6.0 V en serie conecta-
+das a un condensador seguido de un resistor. b) Dos bate-
+rías ideales de 12.0 V en paralelo, conectadas como una
+unidad a dos resistores idénticos en serie uno con otro. c)
+Una batería no ideal (una con resistencia interna) conectada
+a dos condensadores idénticos que están en paralelo uno
+con otro, seguidos de dos resistores en serie uno con otro.
+9.
+● a) Tres pilas secas de 1.5 V están conectadas en serie.
+¿Cuál es el voltaje total de la combinación? b) ¿Cuál sería el
+voltaje total si las pilas estuvieran conectadas en paralelo?
+10. ● ¿Cuál es el voltaje a través de seis baterías de 1.5 V
+cuando están conectadas a) en serie y b) en paralelo?
+11. ●● Dos baterías de 6.0 V y una de 12 V están conectadas
+en serie. a) ¿Cuál es el voltaje a través de todo el arreglo?
+b) ¿Qué arreglo de esas tres baterías daría un voltaje total
+de 12 V?
+12. ●● Dadas tres baterías con voltajes de 1.0, 3.0 y 12 V , res-
+pectivamente, ¿cuántos voltajes diferentes podrían obte-
+nerse conectando una o más de las baterías en serie o en
+paralelo, y cuáles serían esos voltajes?
+13. EI
+●● Se tienen cuatro pilas AA de 1.5 V cada una. Las pi-
+las están agrupadas en pares. En el arreglo A, las dos pilas
+en cada par están en serie, y luego los pares están conecta-
+dos en paralelo. En el arreglo B, las dos pilas en cada par
+están en paralelo y luego los pares están conectados en se-
+rie. a) Comparado con el arreglo B, ¿ el arreglo A tendrá
+un voltaje total 1) mayor, 2) igual o 3) menor? b) ¿Cuáles
+son los voltajes totales de cada arreglo?
+17.2 Corriente y velocidad de deriva
+14. OM ¿En cuál de estas situaciones fluye más carga por un
+punto dado en un cable: cuando este último tiene a) una
+corriente de 2.0 A durante 1.0 min, b) 4.0 A durante 0.5 min,
+c) 1.0 A durante 2.0 min o d) todas tienen la misma carga.
+15. OM ¿Cuál de estas situaciones implica la menor corriente?
+Un cable que tiene a) 1.5 C que pasa por un punto dado en
+1.5 min, b) 3.0 C que pasan por un punto dado en 1.0 min o
+c) 0.5 C que pasan por un punto dado en 0.10 min.
+16. OM En una máquina dental de rayos X, el movimiento
+de electrones acelerados es hacia el este. ¿En qué direc-
+ción es la corriente asociada con estos electrones? a) Este,
+b) oeste o c) cero.
+17. PC En el circuito que se ilustra en la figura 17.4a, ¿cuál es
+la dirección de a) el flujo de electrones en el resistor, b) la
+corriente en el resistor y c) la corriente en la batería.
+18. PC La velocidad de deriva, o velocidad promedio con que
+los electrones viajan en un circuito completo, es de varios
+mm por segundo. Sin embargo, una lámpara que está a 3 m
+de distancia se enciende instantáneamente cuando usted
+acciona el interruptor. Explique esta aparente paradoja.
+19.
+● Una carga neta de 30 C pasa por el área transversal de
+un cable en 2.0 min. ¿Cuál es la corriente en el cable?
+20. ● ¿Cuánto tiempo le tomaría a una carga neta de 2.5 C
+pasar por un punto de un cable para producir una co-
+rriente constante de 5.0 mA?
+21.
+● Un carrito de juguete extrae una corriente de 0.50 mA
+de una batería nicad (de níquel-cadmio). En 10 min de
+operación, a) ¿cuánta carga fluye por el carrito de jugue-
+te y b) cuánta energía pierde la batería?
+22.
+●● El arrancador del motor de un automóvil extrae 50 A
+de la batería al echarlo a andar. Si el tiempo de arranque
+es de 1.5 s, ¿cuántos electrones pasan por un punto dado
+en el circuito durante ese tiempo?
+
+Ejercicios 587
+23. ●● Una carga neta de 20 C pasa por un punto en un cable
+en 1.25 min. ¿Cuánto tardará una carga neta de 30 C en
+pasar por ese punto si la corriente en el cable se duplica?
+24.
+●●● Las baterías de automóvil a menudo están clasificadas
+en “ampere-horas” o A · h. a) Demuestre que A · h tiene
+unidades de carga y que el valor de 1 A · h es 3600 C. b) Una
+batería completamente cargada, de uso rudo, es de 100 A · h
+y entrega una corriente de 5.0 A de manera constante hasta
+que se agota. ¿Cuál es el tiempo máximo que esta batería
+podrá entregar corriente, suponiendo que no se recarga? 
+c) ¿Cuánta carga entregará la batería en este tiempo?
+25. EI
+●●● Imagine que algunos protones se mueven hacia
+la izquierda al mismo tiempo que algunos electrones se
+mueven hacia la derecha por el mismo lugar. a) La co-
+rriente neta será 1) hacia la derecha, 2) hacia la izquierda,
+3) cero o 4) ninguna de las opciones anteriores es correc-
+ta. b) En 4.5 s, 6.7 C de electrones fluyen hacia la derecha
+al mismo tiempo que 8.3 C de protones fluyen hacia la iz-
+quierda. ¿Cuál es la magnitud de la corriente total?
+26.
+●●● En un acelerador lineal de protones, una corriente
+de protones de 9.5 mA golpea un blanco. a) ¿Cuántos
+protones golpean el blanco cada segundo? b) ¿Cuál es la
+energía entregada al blanco cada segundo si los protones
+tienen, cada uno, una energía cinética de 20 MeV y pier-
+den su energía en el blanco?
+17.3 Resistencia y ley de Ohm*
+27. OM El ohm es sólo otro nombre para el a) volt por ampe-
+re, b) ampere por volt, c) watt o d) volt.
+28. OM Dos resistores óhmicos se colocan a través de una
+batería de 12 V , uno a la vez. La corriente resultante en el
+resistor A, según las mediciones, es el doble de la del re-
+sistor B. ¿Qué podría decir acerca de sus valores de resis-
+tencia? a) R
+A /H110052RB, b) RA /H11005RB, c) RA /H11005RB/2 o 
+d) ninguna de las opciones anteriores es válida.
+29. OM Un resistor óhmico se coloca a través de dos baterías
+diferentes. Cuando se conecta a la batería A, la corriente
+resultante, según las mediciones, es tres veces la corrien-
+te que cuando el resistor está conectado a la batería B.
+¿Qué podría decir acerca de los voltajes de las baterías?
+a) V
+A /H110053VB, b) VA /H11005VB, c) VB /H110053VA o d) ninguna de las
+opciones anteriores es válida.
+30. OM Si se duplica el voltaje a través de un resistor óhmico
+y al mismo tiempo se reduce su resistencia a un tercio de
+su valor original, ¿qué sucede a la corriente en el resis-
+tor? a) Se duplica, b) se triplica, c) se multiplica seis veces
+o d) no es posible determinarlo a partir de los datos.
+31. PC Si se traza una gráfica de voltaje ( V) versus corriente
+(I) para dos conductores óhmicos con diferentes resisten-
+cias, ¿cómo podría usted decir cuál es menos resistivo?
+32. PC Los filamentos de las bombillas de luz generalmente
+fallan justo después de que se encienden y no luego de
+que han estado encendidos un cierto tiempo. ¿Por qué?
+33. PC Un alambre está conectado a través de una fuente per-
+manente de voltaje. a) Si ese alambre se reemplaza por otro
+del mismo material pero con el doble de longitud y el do-
+ble de área transversal, ¿cómo se verá afectada la corriente
+que pasa por él? b) ¿Cómo resultará afectada la corriente si,
+en lugar de lo anterior, el nuevo alambre tiene la misma
+longitud, pero la mitad del diámetro del primero?
+34. PC Una batería real siempre tiene alguna resistencia in-
+terna r (
+▼ figura 17.16) que aumenta con la edad de la 
+batería. Explique por qué el voltaje terminal cae cuando
+la resistencia interna aumenta.
+*Suponga que los coeficientes de temperatura de la resistividad que
+aparecen en la tabla 17.1 se aplican a grandes rangos de temperatura.
+V
+S
++
++
+r –
+–
+R
+/H5105 − V = Ir
+Flujo de
+electrones
+(Batería)
+▲ FIGURA 17.16 Fem y voltaje terminalVéanse los ejercicios
+34 y 35.
+35. ● Una batería de 12.0 V suministra 1.90 A a un resistor de
+6.00 Ω (figura 17.16). a) ¿Cuál es el voltaje terminal de la
+batería? b) ¿Cuál es su resistencia interna?
+36. ● ¿Cuál es la fem de una batería con una resistencia in-
+terna de 0.15 Ω si la batería entrega 1.5 A a un resistor de
+5.0 Ω conectado externamente?
+37. EI ● Algunos estados permiten el uso de alambre de alu-
+minio en las casas en lugar de los de cobre. a) Si usted
+quiere que la resistencia de sus alambres de aluminio sea
+igual que con alambres de cobre, el alambre de aluminio
+debe tener 1) un mayor diámetro, 2) un menor diámetro
+o 3) el mismo diámetro que el alambre de cobre. b) Calcu-
+le la razón entre los espesores del alambre de aluminio y
+el de cobre.
+38.
+● ¿Cuánta corriente se extrae de una batería de 12 V
+cuando un resistor de 15 Ω se conecta a través de sus ter-
+minales?
+39. ● ¿Qué voltaje debe tener una batería para producir una
+corriente de 0.50 A a través de un resistor de 2.0 Ω?
+40. ● Durante un experimento sobre la conducción de co-
+rriente en el cuerpo humano, un técnico conecta un elec-
+trodo a la muñeca y otro al hombro de una persona. Si 
+se aplican 100 mV a través de los dos electrodos y la 
+corriente resultante es de 12.5 mA, ¿cuál es la resistencia
+total del brazo de la persona?
+41.
+●● Un alambre de cobre de 0.60 m de longitud tiene un
+diámetro de 0.10 cm. ¿Cuál es su resistencia?
+42. ●● Un material se utiliza para formar una varilla larga
+con sección transversal cuadrada de 0.50 cm de lado.
+Cuando un voltaje de 100 V se aplica a lo largo de 20 m
+de longitud de la varilla, se presenta una corriente de 
+5.0 A. a) ¿Cuál es la resistividad del material? b) ¿El mate-
+rial es un conductor, un aislante o un semiconductor?
+
+588 CAPÍTULO 17 Corriente eléctrica y resistencia
+43. ●● Dos alambres de cobre tienen áreas transversales
+iguales y longitudes de 2.0 y 0.50 m, respectivamente. 
+a) ¿Cuál es la razón de la corriente en el alambre más cor-
+to con respecto a la de la corriente en el más largo si están
+conectados a la misma fuente de potencia? b) Si se desea
+que los dos alambres conduzcan la misma corriente,
+¿cuál tendría que ser la razón de sus áreas transversales?
+(Dé su respuesta como una razón del alambre más largo
+al más corto.)
+44. EI
+●● Dos alambres de cobre tienen igual longitud, pero
+el diámetro de uno es tres veces el del otro. a) La resisten-
+cia del alambre más delgado es 1) 3, 2) 3) 9 o 4) veces
+la resistencia del alambre más grueso. ¿Por qué? b) Si el
+alambre más grueso tiene una resistencia de 1.0 Ω, ¿cuál
+es la resistencia del más delgado?
+45. ●● El alambre de un elemento calefactor de un quema-
+dor de estufa eléctrica tiene una longitud efectiva de 0.75
+m y una área transversal de 2.0 /H1100310–6 m2. a) Si el alambre
+se hace de hierro y opera a una temperatura de 380°C,
+¿cuál es su resistencia operativa? b) ¿Cuál es su resisten-
+cia cuando la estufa está apagada?
+46. ●● a) ¿Cuál es la variación porcentual de la resistividad
+del cobre sobre el rango de temperaturas que va de la
+temperatura ambiente (20°C) a 100°C? b) Suponga que la
+resistencia del alambre de cobre cambia sólo a causa de
+los cambios de resistividad sobre este rango de tempera-
+tura. Después suponga que el alambre se conecta al mis-
+mo suministro de potencia. ¿Por qué porcentaje
+cambiaría su corriente? ¿Aumentaría o disminuiría?
+47.
+●● Un alambre de cobre tiene una resistencia de 25 mΩ a
+20°C. Cuando el alambre lleva una corriente, el calor que
+genera la corriente hace que la temperatura del alambre
+aumente en 27 C°. a) ¿Cuál es el cambio en la resistencia
+del alambre? b) Si su corriente original era de 10.0 mA,
+¿cuál es su corriente final?
+48. ●● Cuando un resistor está conectado a una fuente de 
+12 V , extrae una corriente de 185 mA. El mismo resistor
+conectado a una fuente de 90 V extrae una corriente de
+1.25 A. ¿El resistor es óhmico? Justifique su respuesta
+matemáticamente.
+49. ●● Una aplicación particular requiere que un alambre 
+de aluminio de 20 m de longitud tenga una resistencia de
+0.25 mΩ a 20°C. ¿Cuál debe ser el diámetro del alambre?
+50. ●● Si la resistencia del alambre en el ejercicio 49 no pue-
+de variar en más de ¿cuál es el rango de tempera-
+turas de operación del alambre?
+51. EI
+●●● Cuando un alambre se estira y su longitud au-
+menta, su área transversal disminuye, en tanto que su
+volumen total permanece constante. a) La resistencia del
+alambre después de estirarse será 1) mayor, 2) igual o 
+3) menor que antes de estirarse. b) Un alambre de cobre
+de 1.0 m de longitud y 2.0 mm de diámetro se estira; su
+longitud aumenta 25% mientras que su área transversal
+disminuye, pero permanece uniforme. Calcule la razón
+de su resistencia (la final con respecto a la inicial).
+/H110065.0%,
+1
+9
+1
+3 ,
+52. ●●● La ▼ figura 17.17 muestra los datos de la dependen-
+cia de la corriente a través de un resistor sobre el voltaje a
+través de ese resistor. a) ¿El resistor es óhmico? Explique
+su respuesta. b) ¿Cuál es su resistencia? c) Utilice los da-
+tos para predecir qué voltaje se necesitará para producir
+una corriente de 4.0 A en el resistor.
+2015 I (A)
+V (V)
+5.0 100
+20
+10
+30
+40
+> FIGURA 17.17 ¿Un
+resistor óhmico? Véase
+el ejercicio 52.
+53. ●●● A 20°C, una barra de silicio está conectada a una ba-
+tería con un voltaje terminal de 6.0 V y se produce una
+corriente de 0.50 A. La temperatura de la barra aumenta
+entonces a 25°C. Suponga que el coeficiente de tempera-
+tura de la resistencia es constante. a) ¿Cuál es su nueva
+resistencia? b) ¿Cuánta corriente lleva entonces la barra?
+c) Si se desea reducir la corriente de su valor a tempera-
+tura ambiente de 0.50 a 0.40 A, ¿a qué temperatura debe-
+ría estar la muestra?
+54. EI
+●●● Un alambre de platino está conectado a una ba-
+tería. a) Si la temperatura aumenta, ¿la corriente en el
+alambre 1) aumentará, 2) permanecerá igual o 3) dismi-
+nuirá? ¿Por qué? b) Un termómetro de resistencia eléc-
+trica está hecho de alambre de platino que tiene una
+resistencia de 5.0 Ω a 20°C. El alambre está conectado a
+una batería de 1.5 V . Cuando el termómetro se calienta 
+a 2020°C, ¿por cuánto cambia la corriente?
+17.4 Potencia eléctrica
+55. OM La unidad de potencia eléctrica, el watt, ¿es equiva-
+lente a qué combinación de unidades SI? a) b) 
+c) o d) todas las opciones son válidas.
+56. OM Si el voltaje a través de un resistor óhmico se duplica,
+la potencia gastada en el resistor a) aumenta por un factor
+de 2, b) aumenta por un factor de 4, c) disminuye a la mi-
+tad, d) ninguna de las opciones anteriores es verdadera.
+57. OM Si la corriente a través de un resistor óhmico se redu-
+ce a la mitad, la potencia gastada en el resistor a) aumenta
+por un factor de 2, b) aumenta por un factor de 4, c) dismi-
+nuye a la mitad, d) disminuye por un factor de 4.
+58. PC Suponiendo que la resistencia de su secadora de ca-
+bello obedece la ley de Ohm, ¿qué pasaría a su salida de
+potencia si la enchufara directamente a un tomacorriente
+de 240 V en Europa, en tanto que está diseñada para co-
+nectarse a tomacorrientes de 120 V en Estados Unidos?
+59. PC La mayor parte de los filamentos de las bombillas de
+luz están hechos de tungsteno y son aproximadamente
+de la misma longitud. ¿Qué sería diferente en el filamen-
+to de una bombilla de 60 W comparado con el de una
+bombilla de 40 W?
+60. PC ¿Quién consume más potencia de una batería de 12 V ,
+un resistor de 5.0 Ω o uno de 10 Ω? ¿Por qué?
+V
+2>Æ
+J>s,A2 #Æ,
+
+Ejercicios 589
+61. ● Un reproductor digital de video (DVD) está clasificado
+como de 100 W a 120 V . ¿Cuál es su resistencia?
+62. ● Un congelador con 10 Ω de resistencia está conectado a
+una fuente de 110 V . ¿Cuál es la potencia entregada cuan-
+do este congelador está encendido?
+63.
+● La corriente a través de un refrigerador con una resis-
+tencia de 12 Ω es de 13 A (cuando el refrigerador está en-
+cendido). ¿Cuál es la potencia entregada al refrigerador?
+64. ● Demuestre que la cantidad de volts al cuadrado por
+ohm (V2/Ω) tiene unidades SI de potencia.
+65. ● Un calentador eléctrico de agua está diseñado para pro-
+ducir 50 kW de calor cuando está conectado a una fuente
+de 240 V . ¿Cuál debe ser la resistencia del calentador?
+66.
+●● Suponiendo que el calentador en el ejercicio 65 tiene
+90% de eficiencia, ¿cuánto tiempo le tomará calentar 50
+gal de agua de 20 a 80°C?
+67. EI
+●● Un resistor óhmico en un circuito está diseñado
+para operar a 120 V . a) ¿Si usted conecta el resistor a una
+fuente de potencia de 60 V , el resistor disipará calor a 
+1) 2, 2) 4, 3) o 4) veces la potencia designada? ¿Por
+qué? b) Si la potencia designada es de 90 W a 120 V , pero
+el resistor está conectado a 40 V , ¿cuál es la potencia en-
+tregada al resistor al menor voltaje?
+68.
+●● Un juguete eléctrico con una resistencia de 2.50 Ω
+opera con una batería de 1.50 V . a) ¿Qué corriente extrae
+el juguete? b) Suponiendo que la batería entrega una co-
+rriente constante durante la vida de 6.00 h del juguete,
+¿cuánta carga pasa por éste? c) ¿Cuánta energía fue en-
+tregada al juguete?
+69.
+●● Una máquina soldadora extrae 18 A de corriente a 240 V .
+a) ¿Cuál es su tasa de consumo de energía? b) ¿Cuál es su re-
+sistencia?
+70. ●● En promedio, un calentador eléctrico de agua opera 
+2.0 h cada día. a) Si el costo de la electricidad es de
+$0.15/kWh, ¿cuál es el costo de operar el calentador du-
+rante un mes de 30 días? b) ¿Cuál es la resistencia de un ca-
+lentador de agua típico? [Sugerencia:véase la tabla 17.2.]
+71.
+●● a) ¿Cuál es la resistencia de un serpentín de calefacción
+si genera 15 kJ de calor por minuto cuando está conectado
+a una fuente de 120 V? b) ¿Cómo cambiaría usted la resis-
+tencia si quisiera obtener 10 kJ de calor por minuto?
+72.
+●● Se suministra potencia a una computadora de 200 W
+durante 10 h por día. Si el costo de la electricidad es de
+$0.15 kWh, ¿cuál es el costo (aproximando al dólar más
+cercano) de usar la computadora durante un año (365
+días)?
+73.
+●● Un sistema acondicionador de aire de 120 V extrae 
+15 A de corriente. Si opera 20 min, a) ¿cuánta energía con-
+sume en kilowatts-hora? b) Si el costo de la electricidad
+es de $0.15/kWh, ¿cuál es el costo (aproximando al cen-
+tavo más cercano) de operar la unidad durante 20 min?
+74.
+●● Dos resistores de 100 y 25 Ω están especificados para
+una salida máxima de potencia de 1.5 y 0.25 W, respecti-
+vamente. ¿Cuál es el voltaje máximo que puede aplicarse
+con seguridad a cada resistor?
+1
+4
+1
+2
+75. ●● Un alambre de 5.0 m de longitud y 3.0 mm de diáme-
+tro tiene una resistencia de 100 Ω. Se aplica una diferen-
+cia de potencial de 15 V a través del alambre. Encuentre
+a) la corriente en el alambre, b) la resistividad de su mate-
+rial y c) la razón a la que se produce calor en el alambre.
+76. EI
+●● Cuando se conecta a una fuente de voltaje, una bobi-
+na de tungsteno disipa inicialmente 500 W de potencia. En
+un corto tiempo, la temperatura de la bobina aumenta en
+150 C° a causa del calentamiento de joule. a) ¿La potencia di-
+sipada 1) aumenta, 2) permanece igual o 3) disminuye? ¿Por
+qué? b) ¿Cuál es el cambio correspondiente en la potencia?
+77.
+●● Un resistor de 20 Ω está conectado a cuatro baterías
+de 1.5 V . ¿Cuál es la pérdida de calor en joules por minu-
+to en el resistor si las baterías están conectadas a) en serie
+y b) en paralelo?
+78.
+●● Un calentador de agua de 5.5 kW opera a 240 V . a) ¿El
+circuito del calentador debería tener un disyuntor de 20 A o
+uno de 30 A? (Un disyuntor es un dispositivo de seguridad
+que abre el circuito a su corriente estipulada.) b) Suponien-
+do una eficiencia del 85%, ¿cuánto tardará el calentador en
+calentar el agua en un tanque de 55 gal de 20 a 80°C?
+79.
+●● Un estudiante usa un calentador de inmersión para
+calentar 0.30 kg de agua de 20 a 80°C para preparar té. Si
+el calentador tiene un 75% de eficiencia y tarda 2.5 min
+hacerlo, ¿cuál es su resistencia? (Suponga un voltaje do-
+méstico de 120 V .)
+80.
+●● Un aparato óhmico está clasificado a 100 W cuando
+está conectado a una fuente de 120 V . Si la compañía de
+suministro eléctrico corta el voltaje en 5.0% para conser-
+var energía, ¿cuál es a) la corriente en el aparato y b) la
+energía que consume después de la caída del voltaje?
+81.
+●● La salida de una bombilla de luz es de 60 W cuando
+opera a 120 V . Si el voltaje se reduce a la mitad y la poten-
+cia cae a 20 W durante un apagón parcial, ¿cuál es la ra-
+zón entre la resistencia de la bombilla a toda potencia y
+su resistencia durante el apagón parcial?
+82.
+●● Para limpiar un sótano inundado, una bomba de
+agua debe trabajar (subir el agua) a razón de 2.00 kW. Si
+la bomba está conectada a una fuente de 240 V y su efi-
+ciencia es del 84%, a) ¿cuánta corriente extrae y b) cuál es
+su resistencia?
+83.
+●●● Calcule el costo mensual (30 días) total (aproximan-
+do al dólar más cercano) del uso de los siguientes apara-
+tos eléctricos si la tarifa es de $0.12/kWh: un sistema
+acondicionador de aire que funciona el 30% del tiempo;
+una mezcladora que se utiliza 0.50 h/mes; una máquina
+lavavajillas que se utiliza 8.0 h/mes; un horno de mi-
+croondas que se ocupa 15 min/día; el motor de un refri-
+gerador libre de escarcha que funciona 15% del tiem-
+po; una estufa (quemadores más horno) que funciona 
+un total de 10 h/mes; y un televisor a color que opera 
+120 h/mes. (Utilice la información de la tabla 17.2.)
+Ejercicios adicionales
+84. EI Una pieza de carbono y una pieza de cobre tienen la
+misma resistencia a temperatura ambiente. a) Si la tem-
+peratura de cada pieza se incrementa 10.0 C°, la pieza de
+cobre tendrá 1) una mayor resistencia, 2) la misma resis-
+tencia o 3) menor resistencia que la pieza de carbono.
+¿Por qué? b) Calcule la razón entre la resistencia del co-
+bre y la del carbono.
+
+590 CAPÍTULO 17 Corriente eléctrica y resistencia
+85. Dos piezas de alambre, una de aluminio y la otra de co-
+bre, son idénticas en longitud y diámetro. A cierta tempe-
+ratura, uno de los alambres tendrá la misma resistencia
+que tiene el otro a 20°C. ¿Cuál es esa temperatura? (¿Hay
+más de una temperatura?)
+86.
+Una batería entrega 2.54 A a un resistor óhmico de 4.52 Ω.
+Cuando se conecta a un resistor de 2.21 Ω, entrega 4.98 A.
+Determine a) la resistencia interna (que se supone cons-
+tante), b) la fem y c) el voltaje terminal (en ambos 
+casos) de la batería.
+87. Un resistor externo está conectado a una batería con una
+fem variable, pero resistencia interna constante. A una fem
+de 3.00 V , el resistor extrae una corriente de 0.500 A, y a
+6.00 V , extrae una corriente de 1.00 A. ¿El resistor externo
+es óhmico? Pruebe su respuesta.
+88. Una anguila eléctrica aplica una corriente de 0.75 A a una
+pequeña presa con forma de lápiz, que mide 15 cm de largo.
+Si la “biobatería” de la anguila se cargó a 500 V y fue cons-
+tante durante 20 ms antes de caer a cero, estime a) la resis-
+tencia del pez, b) la energía que recibió el pez y c) el campo
+eléctrico promedio (la magnitud) en la carne del pez.
+89. La mayoría de los televisores modernos tienen una función
+de “calentamiento instantáneo”. Aunque el aparato parece
+estar apagado, sólo está “apagado” en el sentido de que no
+hay imagen ni audio. Para volver a ofrecer una imagen
+“instantánea”, el televisor tiene una función que le permite
+tener siempre listo su sistema electrónico. Esto implica
+consumir unos 10 W de energía eléctrica de forma constan-
+te. Suponga que hay un televisor de este tipo por cada dos
+hogares y estime cuántas plantas de energía eléctrica se ne-
+cesitan en Estados Unidos para tener activa esta función.
+90.
+▼ La figura 17.18 ilustra unos portadores de carga, cada
+uno con carga q y una velocidad vd (velocidad de deriva)
+en un conductor de área transversal A. Sea n el número
+de portadores de carga libre por volumen unitario. a) De-
+muestre que la carga total ( ΔQ) libre para moverse en el
+elemento de volumen mostrado está dada por ΔQ /H11005
+(nAx)q. b) Demuestre que la corriente en el conductor es-
+tá dada por I /H11005nqvdA.
+91. Un alambre de cobre con área transversal de 13.3 mm 2
+(AWG Núm. 6) conduce una corriente de 1.2 A. Si el
+alambre contiene 8.5 /H110031022 electrones libres por centíme-
+tro cúbico, ¿cuál es la velocidad de deriva de los electro-
+nes? [Sugerencia: véase el ejercicio 90 y la figura 17.18.]
+92. Una unidad de CD-ROM de una computadora que opera
+con 120 V tiene clasificación de 40 W cuando está funcio-
+nando. a) ¿Cuánta corriente extrae la unidad? b) ¿Cuál es
+su resistencia?
+93. El filamento de tungsteno de una lámpara incandescente
+tiene una resistencia de 200 Ω a temperatura ambiente.
+¿Cuál será su resistencia a una temperatura operativa de
+1600°C?
+94. Un panorama común en nuestro mundo moderno incluye
+líneas de transmisión de alto voltaje tendidas a lo largo de
+enormes distancias desde la planta generadora de energía
+hasta áreas habitadas. El voltaje que corre por estas líneas
+es, por lo común, de 500 kV , pero para cuando la energía lle-
+ga a nuestros hogares el voltaje es de 120 V (véase el capítu-
+lo 20 para saber cómo se logra esto). a) Explique claramente
+por qué la energía eléctrica tiene que recorrer grandes dis-
+tancias a altos voltajes cuando sabemos que éstos son peli-
+grosos. b) Calcule la razón de la pérdida por calor en una
+longitud dada de cable (que se supone óhmico) cuando
+conduce corriente a 500 kV y cuando opera a 120 V .
+95. En el campo es común observar halcones que se posan so-
+bre las líneas eléctricas de alto voltaje mientras tratan de
+ubicar a sus presas (
+▼figura 17.19). Para comprender por
+qué esta ave no se electrocuta, hagamos una estimación del
+voltaje entre sus patas. Suponga que las condiciones son de
+cd en el cable, que éste mide 1.0 km de longitud, tiene una
+resistencia de 30 Ω, y que está a un potencial eléctrico de
+250 kV por encima del otro cable (en el que no está el hal-
+cón), que está puesto a tierra o a cero volts. a) Si los cables
+conducen energía a una tasa de 100 MV , ¿cuál es la corrien-
+te en ellos? b) Suponiendo que las patas del halcón están
+separadas 15 cm, ¿cuál es la resistencia de ese segmento de
+cable de alta tensión? c) ¿Cuál es la diferenciade voltaje en-
+tre las patas del ave? Comente su respuesta y diga si esto le
+parece peligroso. d) ¿Cuál es la diferencia de voltaje entre
+las patas del halcón si coloca una sobre el cable a tierra
+mientras sigue en contacto con el cable de alta tensión? 
+Comente su respuesta y diga si esto le parece peligroso.
+x
+vd Δt
+AA q vd
+q vd
+q vd
+q vd
+▲ FIGURA 17.18 Carga y corriente totales Véanse los 
+ejercicios 90 y 91.
+> FIGURA 17.19 Aves sobre una línea eléctrica
+Véase el ejercicio 95.
+Los siguientes problemas de física Physlet pueden utilizarse con este capítulo.
+30.5
+
+• Física para los padres de adolescentes: no es
+recomendable conectar más de una secadora
+para el cabello en el mismo circuito domésti-
+co sin activar el disyuntor. Se necesitan dos
+circuitos separados en el baño, o alguien 
+tendrá que irse a otra habitación y utilizar 
+un circuito distinto.
+• Un amperímetro conectado incorrectamente
+en paralelo con un elemento de circuito no
+sólo mide mal la corriente, sino que corre el
+riesgo de quemarse. Por eso, todos los am-
+perímetros tienen fusibles de protección. Por
+otra parte, si un voltímetro está conectado 
+incorrectamente en serie con un elemento de
+circuito, la corriente del circuito se desploma
+a cero, y aunque la medición del voltaje será
+incorrecta, no hay riesgo de daño.
+• Menos de 0.01 de un ampere de corriente a
+través del cuerpo humano causa parálisis
+muscular. Si la persona no puede alejarse del
+cable expuesto, podría morir si la corriente
+pasa por un órgano vital, como el corazón.
+• Las células marcapaso (o células P), localiza-
+das en una pequeña región del corazón, provo-
+can el latido cardiaco. Sus señales eléctricas
+viajan a través del corazón en unos 50 ms. Si
+estas células fallan, otras partes del sistema
+eléctrico del corazón asumen su función co-
+mo respaldo. Las células marcapaso reciben
+influencia del sistema nervioso del cuerpo, de
+manera que la tasa a la que le indican al co-
+razón que lata varía drásticamente (por ejem-
+plo, de 60 latidos por minuto cuando se está
+dormido a más de 100 por minuto cuando se
+realiza ejercicio físico).
+18.1 Combinaciones de
+resistencias en serie, 
+en paralelo y en 
+serie-paralelo
+592
+18.2 Circuitos de múlti-
+ples mallas y reglas 
+de Kirchhoff
+599
+18.3 Circuitos RC 604
+18.4 Amperímetros y
+voltímetros 607
+18.5 Circuitos domésticos 
+y seguridad eléctrica 611
+Circuitos eléctricos
+básicos18
+P
+or lo general, pensamos que los alambres metálicos son los “conectores” en-
+tre los resistores en un circuito. Sin embargo, los alambres no son los úni-
+cos conductores de electricidad, como se observa en la fotografía. Como la
+bombilla de luz está encendida, el circuito debe estar completo. Por tanto, po-
+demos concluir que el “plomo” en un lápiz (en realidad, una forma de carbono
+llamado grafito) es un buen conductor de electricidad. Lo mismo debe ser cierto
+para el líquido en el vaso de precipitados, en este caso, una solución de agua y 
+sal de mesa.
+Los circuitos eléctricos son de muchos tipos y se diseñan para diversos fines,
+como hervir agua e iluminar un árbol de Navidad. Los circuitos que contienen
+conductores “líquidos” (como el de esta fotografía) tienen aplicaciones prácticas
+en el laboratorio y en la industria; por ejemplo, pueden servir para sintetizar o 
+purificar sustancias químicas y para galvanizar metales. (La galvanización signifi-
+ca aplicar químicamente metales a superficies utilizando técnicas eléctricas, como
+al hacer chapado en plata.) Con los principios aprendidos en los capítulos 15, 16 
+y 17, usted está ahora listo para analizar algunos circuitos eléctricos. Con este aná-
+lisis tendrá una mejor apreciación de cómo trabaja en realidad la electricidad.
+El análisis de circuitos trata muy a menudo con voltajes, corrientes y requisi-
+tos de potencia. Es posible analizar teóricamente un circuito antes de ensamblar-
+lo. El análisis podría mostrar que el circuito no funcionará apropiadamente tal
+como se ha diseñado o que podría representar un problema de seguridad (por
+ejemplo, a causa de sobrecalentamiento por calor de joule). Como ayuda en el
+análisis, nos apoyaremos considerablemente en los diagramas de circuitos para
+visualizar y comprender sus funciones. Algunos de esos diagramas se incluye-
+ron en el capítulo 17.
+Comenzaremos nuestro análisis de circuitos fijándonos en los arreglos 
+de los elementos resistivos, como bombillas de luz, tostadores y calentadores de
+inmersión.
+HECHOS DE FÍSICA
+CAPÍTULO
+591
+
+592

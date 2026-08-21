@@ -1,0 +1,1271 @@
+Tema: Propiedades y procesos térmicos (Capítulo 20 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+586 | Capítulo 20 Propiedades y procesos térmicos 
+Esta tensión es aproximadamente igual a un tercio de la tensión de rotura del acero sometido 
+a compresión. Una tensión de este orden curvaría el puente y quedaría permanentemente 
+deformado. 
+EJEMPLO 20.2 Un vaso completamente lleno 
+Un frasco de vidrio de 1 L se llena hasta el borde con agua a 10 °C. Si la temperatura aumenta 
+hasta 30 °C, ¿qué cantidad de agua se derramará del frasco? 
+Planteamiento del problema El frasco de vidrio y el agua se dilatan ambos cuando se calientan, 
+pero la dilatación del agua es superior a la del frasco y por lo tanto se derrama cierta cantidad. Esta can- 
+tidad puede determinarse calculando las variaciones de volumen para AT = 20 K, utilizando AV, = 
+B.V AT con B,=0,207 x 103 K~! para el agua (véase la tabla 20.1) y AV, = B,V AT = 3aV AT con & = 
+9 x 1079 K~! para el vidrio. La diferencia entre estos dos volúmenes es el volumen de agua derramada. 
+1. El volumen de agua derramada, AV, es la diferencia entre los cambios AV, = AV,—AV, 
+de volumen del agua y del vidrio: 
+2. Determinar el incremento de volumen del agua: AV, = B,V AT 
+3. Determinar el incremento de volumen del frasco de vidrio: AV, = B,V AT = 30, V AT 
+4. Por diferencia se obtiene la cantidad de agua derramada: AV, = AV,-AV, = B,V AT-B,V AT 
+(B,- B,)V AT = (B,-3a,)V AT 
+= [0,207 x 103K-! - 3(9 x 10% K-1)](1 1)(20 K) 
+= 3,6x 101 =[3,6 mL, 
+EJEMPLO 20.3 | Rotura del cobre 
+Se calienta una barra de cobre a 300 °C y se la sujeta fuertemente entre dos puntos fijos de forma 
+que no pueda contraerse ni dilatarse. Si la tensión de rotura límite del cobre es de 230 MN/m?, 
+¿cuál será la temperatura a la que se romperá la barra si se somete a un enfriamiento? 
+Planteamiento del problema Cuando la barra se enfría, la variación de longitud AL que tendría 
+lugar si pudiera contraerse es compensada por un alargamiento igual producido por la tensión de tracción 
+de la barra. Esta tensión F/A está relacionada con el alargamiento AL por medio de Y= (F/AMALIL), en 
+donde el módulo de Young del cobre es Y = 110 GN/m? (tabla 12.1). El máximo alargamiento per- 
+misible tiene lugar cuando F/A vale 230 MN/m?. Así determinamos el cambio de temperatura que 
+produciría esta contracción máxima. 
+1. Calcular la variación de longitud AL, que se produciría si la barra no AL, = @L AT 
+estuviera empotrada y se enfriara AT: 
+2. Una tensión de tracción F/A alarga la barra en AL), en donde: Y = A. de modo que AL, = Lae 
+2 
+3. Sustituir los resultados de los pasos 1 y 2 en AL; + AL, = 0 y despejar AL,+AL, = 0 
+AT: FIA aL AT+L—— = 0 Y 
+de donde 
+FIA 
+Y 
+pá 230 x 10% N/m? 
+(17 x 10-6 K-")(110 x 10° N/m?) 
+-123 K = -123 C° 
+4. Sumar este resultado a la temperatura original para determinar la tem- Tp = T, +AT = 300 °C- 123 °C =|177 °C 
+peratura final a la cual se rompe la barra:
+
+20.2 Ecuación de van der Waals e isotermas liquido-vapor | 587 
+20.2 Ecuación de van der Waals e isotermas líquido-vapor 
+Aunque la mayoría de los gases se comportan como un gas ideal a las presiones ordinarias, 
+su comportamiento se desvía del ideal a presiones suficientemente altas o temperaturas sufi- 
+cientemente bajas, es decir, cuando la densidad del gas es elevada y las moléculas, por tér- 
+mino medio, no están muy alejadas. Existe una ecuación de estado denominada ecuación de 
+van der Waals que describe el comportamiento de muchos gases reales en un amplio margen 
+de presiones con más exactitud que la ecuación de estado del gas ideal (PV = nRT). La ecua- 
+ción de van der Waals para n moles de gas es 
+P an? ty (V—bn) = ART (20.6) 
+ECUACIÓN DE ESTADO DE VAN DER WAALS 
+En esta ecuación aparece la constante b porque las moléculas del gas no son partículas pun- P 
+tuales sino que tienen tamaño finito; por consiguiente, se reduce el volumen libre disponible 
+para que se muevan las moléculas. El valor de b es el volumen de un mol de moléculas del 
+gas. El término an?/V? se debe a la atracción que las moléculas del gas ejercen entre sí. 
+Punto crítico 
+Cuando una molécula se acerca a la pared del recipiente, se ve frenada por la atracción de las D 
+moléculas que la rodean con una fuerza que es proporcional a su densidad n/V. Como el Líqui 
+número de moléculas que chocan contra la pared en un tiempo determinado es también pro- j ; T, 
+porcional a la densidad de las moléculas, la disminución de la presión debida a la atracción i Liquidoy \ Gas he 
+[vapor coexisten\, de las moléculas es proporcional al cuadrado de la densidad y, por lo tanto, a n?/V*, La cons- 
+tante a depende del tipo de gas y es pequeña en el caso de los gases inertes que poseen una 
+pequeña interacción química. Los términos bn y an'/V? son ambos despreciables cuando el Dz Moraira digitos EY 
+volumen V es grande, es decir, a densidades bajas. Así pues, en estos casos, la ecuación de ¿rro spon di ines a RA AGA mic En Alcano de 
+van der Waals tiende a la ley de los gases ideales, mientras que a densidades altas propor- temperaturas por encima de la temperatura critica 
+ciona una descripción mucho mejor del comportamiento de los gases reales. T., la sustancia permanece gaseosa a todas las 
+En la figura 20.2 se muestran las curvas isotermas en un gráfico de P en función de V presiones. Fuera de la región donde líquido y vapor 
+para una sustancia real a varias temperaturas. Fuera de la región en que coexisten líquido y coexisten, estas curvas quedan bien descritas 
+vapor, estas curvas se describen muy bien por la ecuación de van der Waals y pueden utili- mediante la ecuación de van der Waals. La presión 
+zarse para determinar las constantes a y b. Por ejemplo, los valores de estas constantes que Correspondiente a las partes horizontales de las 
+dan el mejor ajuste a las curvas experimentales para el nitrógeno son a = 0,14 Pa - mó/mol? y Curvas en la región sombreada es la presión de 
+b = 39,1 mL/mol. Este volumen de 39,1 mL por mol es aproximadamente el 0,2 por ciento  “*POt que es aquella en que el vapor y el líquido 
+del volumen de 22,4 L que ocupa | mol de nitrógeno en condiciones estándar. Como la masa paste Praag Aqui e >> región 
+molar del nitrógeno es 28 g/mol, si | mol de moléculas de nitrógeno estuviese empaquetado E inp perros coito did 5 z crítica, la sustancia es un líquido y es casi 
+en un volumen de 39,1 mL, su densidad sería incompresible. 
+valor comparable a la densidad del nitrógeno líquido, que es 0,80 kg/L. 
+El valor de la constante b puede utilizarse para hacer una estimación del tamaño de la 
+molécula. Como el volumen de 1 mol (N, moléculas) de nitrógeno es 39,1 cm, el volumen 
+de una sola molécula es 
+3 
+V= D __39,lcm*/mol__ = 6,50 x 10-73 cm3/molécula 
+Na 6,02 x 10% moléculas/mol 
+Si suponemos que cada molécula ocupa un cubo de arista d, se tiene 
+d? = 6,50 x 10-23 em3 
+o bien 
+d = 4,0 x 10® cm 
+que es un valor estimado razonable para el “diámetro” de una molécula de nitrógeno.
+
+588 | Capítulo 20 Propiedades y procesos térmicos 
+0 100 200 300 P, kPa 
+er A AN ME, 
+0 l atm 2 atm 3atm Pam 
+(101 kPa) (202 kPa) (303 kPa) 
+Figura 20.3 Presión de vapor del agua en 
+función de la temperatura. 
+Figura 20.4 Diagrama de fases correspondiente 
+al agua. Las escalas de presión y de temperatura no 
+son lineales sino que se han reducido para mostrar 
+todos los puntos interesantes. La curva OC es la 
+curva de presión de vapor en función de la 
+temperatura. La curva OB es la de fusión y la OA, 
+la de sublimación. 
+A temperaturas por debajo de 7., la ecuación de van der Waals describe aquellas porcio- 
+nes de las isotermas que son exteriores a la región sombreada de la figura 20.2, pero no las 
+porciones interiores a la misma. Supongamos que tenemos un gas a una temperatura inferior 
+a T, que inicialmente tiene una presión baja y un volumen grande. Manteniendo la tempera- 
+tura constante (isoterma A en la figura) empezamos a comprimir el gas. Al principio la pre- 
+sión va creciendo, pero cuando alcanzamos el punto B sobre la línea a trazos, la presión deja 
+de aumentar y el gas empieza a condensarse a presión constante. A lo largo de la línea hori- 
+zontal BD de la figura, el gas y el líquido están en equilibrio. Si continuamos comprimiendo 
+el gas, cada vez se condensa más gas hasta que se alcanza el punto D sobre la línea a trazos, 
+en donde tenemos sólo líquido. Luego, si intentamos comprimir aún más la sustancia, la pre- 
+sión aumenta rápidamente, porque un líquido es casi incompresible 
+Consideremos ahora que introducimos un líquido, por ejemplo agua, en un recinto donde 
+previamente se ha hecho el vacío y luego se cierra. Cuando parte del agua se evapora, las 
+moléculas de vapor de agua llenan el espacio vacío del recinto. Algunas de estas moléculas 
+chocan contra la superficie del líquido y de nuevo toman la forma líquida en un proceso lla- 
+mado condensación. Inicialmente la velocidad de evaporación es mayor que la de condensa- 
+ción, pero finalmente se alcanza un equilibrio. La presión a la que un líquido se encuentra en 
+equilibrio con su propio vapor a una determinada temperatura, se denomina presión de 
+vapor. Cuando existe este equilibrio y se calienta ligeramente el recipiente, el líquido hierve, 
+se evapora una parte mayor de éste y se acaba restableciendo de nuevo el equilibrio, esta vez 
+a una presión de vapor más alta. Podemos ver en la figura 20.2 que la presión de vapor de un 
+gas depende de su temperatura. Si hubiésemos empezado a comprimir el gas a una tempera- 
+tura inferior, como la correspondiente a la isoterma A’ de la misma figura, la presión de vapor 
+también hubiese sido menor y correspondería a la línea horizontal de presión constante que 
+indica A’. La temperatura de una sustancia cuya presión de vapor es igual a 1 atm, es el punto 
+de ebullición normal de dicha sustancia. Por ejemplo, la presión de vapor del agua es | atm a 
+la temperatura de 373 K = 100 *C, de modo que esta temperatura es el punto de ebullición nor- 
+mal del agua. En altitudes elevadas, como en la cima de una montaña, la presión es inferior a 1 
+atm y entonces el agua hierve a una temperatura menor que 373 K. La figura 20.3 muestra las 
+presiones de vapor del agua a varias temperaturas. 
+A temperaturas por encima de la temperatura crítica T,, los gases no condensan, sea cual- 
+quiera la presión a que se encuentren sometidos. La temperatura crítica para el vapor de agua 
+es 647 K = 374 °C. El punto en el que la isoterma crítica corta la curva a trazos en la figura 
+20.2 (punto C) se denomina el punto crítico. 
+20.3 Diagramas de fase 
+En la figura 20.4 se representa la presión en función de la temperatura a volumen constante 
+en el caso del agua. Dicha representación se denomina un diagrama de fases. La parte del 
+diagrama comprendida entre los puntos O y C muestra la presión del vapor en función de la 
+temperatura. Al continuar calentando el recipiente, disminuye la densidad del líquido y 
+aumenta la del vapor. En el punto C del diagrama ambas densidades son iguales. El punto C 
+es el punto crítico. En este punto y por encima de él no existe distinción entre el líquido y el 
+gas. En la tabla 20.2 se dan las temperaturas críticas de diversas sustancias. A temperaturas 
+mayores que la crítica, un gas no se licúa por mucho que se aumente la presión. 
+Si ahora enfriamos nuestro recipiente, parte del vapor condensa en líquido recorriendo en 
+sentido inverso la curva OC hasta que la sustancia alcanza el punto O de la figura 20.4. En 
+este punto el líquido empieza a solidificar. El punto O es el punto triple en el que pueden 
+coexistir en equilibrio las fases sólida, líquida y de vapor de una sustancia. Cada sustancia 
+tiene un punto triple único, con una temperatura y presión específicas. La temperatura del 
+punto triple del agua es 273,16 K = 0,01 °C y la presión del punto triple vale 4,58 mmHg. 
+El líquido no puede existir a temperaturas y presiones por debajo del punto triple. La 
+curva OA del diagrama de fases de la figura 20.4 es el lugar geométrico de las presiones y 
+temperaturas en donde coexisten en equilibrio el sólido y el vapor. El paso directo de sólido 
+a vapor se denomina sublimación. Se puede observar este fenómeno si se colocan cubos de 
+hielo en el congelador de una nevera (especialmente si es del tipo que elimina automática-
+
+mente la escarcha que se forma). Los cubos de hielo desaparecen finalmente debido a la 
+sublimación. Como la presión atmosférica está muy por encima de la presión del punto triple 
+del agua, nunca se establece el equilibrio entre el hielo y el vapor de agua. La temperatura y 
+presión del punto triple del dióxido de carbono (CO,) son 216,55 K y 3880 mmHg, lo cual 
+significa que el CO, líquido sólo puede existir a presiones por encima de 3880 mmHg = 5, | 
+atm. Por lo tanto, a las presiones ordinarias, el dióxido de carbono líquido no puede existir a 
+ninguna temperatura. Cuando el dióxido de carbono sólido “funde”, se sublima directamente 
+a CO, gaseoso sin pasar por la fase líquida; de aquí el nombre de “hielo seco”. 
+La curva OB en la figura 20.4 es la curva de fusión que separa la fase sólida y líquida. En 
+el caso de una sustancia como el agua cuya temperatura de fusión disminuye al aumentar la 
+presión, la curva OB se dirige hacia la izquierda a partir del punto triple, como se ve en esta 
+figura. En casi todas las demás sustancias la temperatura de fusión aumenta cuando crece la 
+presión. En estos casos, la línea OB se curva hacia la derecha desde el punto triple. 
+Para que una molécula escape de la superficie de un líquido, es decir, se evapore, se nece- 
+sita energía para romper los enlaces moleculares de la superficie del líquido. Por lo tanto, la 
+vaporización es un proceso en el que se enfría el líquido que queda atrás. Si se hace hervir agua 
+de la forma usual, calentándola, el efecto de enfriamiento mantiene constante la temperatura 
+del líquido en su punto de ebullición. Esta es la razón por la que puede utilizarse el punto de 
+ebullición de una sustancia para calibrar termómetros. Sin embargo, también puede hacerse 
+hervir el agua, sin añadirle calor, extrayendo el aire que hay encima, haciendo descender así la 
+presión aplicada. La energía necesaria para la vaporización se extrae, entonces, del propio 
+líquido que queda detrás. Como resultado, el líquido se irá enfriando, incluso hasta el punto en 
+que llegará a formarse hielo en la parte superior del agua hirviendo. 
+20.4 Transferencia de energía térmica 
+Existen tres formas diferentes de transmisión de la energía térmica de un lugar a otro: con- 
+ducción, convección y radiación. 
+En la conducción, la energía se transmite en forma de calor como consecuencia de las 
+interacciones entre átomos o moléculas, aunque no exista un transporte de los propios áto- 
+mos o moléculas. Por ejemplo, si se calienta uno de los extremos de una barra sólida, los áto- 
+mos de la red cristalina del extremo calentado vibran con mayor energía que los del extremo 
+frío y, debido a la interacción de estos átomos con sus átomos vecinos, esta energía se trans- 
+porta a lo largo de la barra.! 
+En la convección, el calor se transfiere mediante un transporte directo de masa. Por 
+ejemplo, el aire caliente próximo al suelo se expansiona, su densidad disminuye, y la fuerza 
+ascensional que actúa sobre él debida al medio que lo rodea hace que suba. Por lo tanto, la 
+energía térmica del aire caliente se transporta hacia arriba junto con la masa de aire caliente, 
+En la radiación, la energía térmica se transporta a través del espacio en forma de ondas elec- 
+tromagnéticas que se mueven a la velocidad de la luz. La radiación térmica, las ondas lumino- 
+sas, las ondas de radio, las ondas de televisión y los rayos X son todas ellas formas de radiación 
+electromagnética y difieren entre sí únicamente por sus longitudes de onda o frecuencias. 
+En todos los mecanismos de transmisión de calor, la velocidad de enfriamiento de un cuerpo 
+es aproximadamente proporcional a la diferencia de temperatura que existe entre el cuerpo y el 
+medio que le rodea. Este hecho se conoce con el nombre de ley del enfriamiento de Newton. 
+En muchas situaciones reales, los tres mecanismos de transferencia del calor se presentan 
+simultáneamente, aunque alguno de ellos puede ser más dominante que los otros. Por ejem- 
+plo, las estufas ordinarias transfieren calor por radiación y por convección. Si el elemento 
+calefactor es cuarzo, el principal mecanismo de transferencia del calor es la radiación. Si el 
+elemento calefactor es un metal (que no irradia tan eficazmente como el cuarzo), el principal 
+mecanismo de transferencia del calor es la convección y el aire calentado se eleva para ser 
+reemplazado por aire más frío. Con frecuencia, estos calentadores incluyen un ventilador para 
+acelerar el proceso de convección. 
+' Si el sólido es un metal, el transporte de energía térmica es facilitado por los electrones libres que se mueven a lo largo 
+del mismo. 
+20.4 Transferencia de energía térmica | 589 
+TABLA 20.2 Temperaturas críticas T, para di- 
+Te, K 
+700 
+200 
+versas sustancias 
+—— Agua, 647,4 
+_— Dióxido de azufre, 430,9 
+—— Cloro, 417,12 
+— Dióxido de carbono, 304,2 
+_— Oxido nítrico, 180,2 
+—— Oxígeno, 154,8 
+———Argón, 150.8 
+Neón 44,4 
+~ Hidrógeno, 33,3 
+—Helio, 5,3
+
+590 | Capítulo 20 Propiedades y procesos térmicos 
+(a) 
+nee y 
+AT 
+Laud (b) 
+Figura 20.5 (a) Barra conductora aislada con 
+sus extremos a dos temperaturas diferentes. (b) 
+Segmento de la barra de longitud Ax. La tasa a la 
+que se conduce la energía térmica a lo largo de esta 
+porción es proporcional al área de su sección recta 
+y a la diferencia de temperaturas, y es inversamente 
+proporcional al espesor del segmento. 
+Conducción 
+En la figura 20.5a se muestra una barra sólida de sección transversal A. Si mantenemos uno 
+de los extremos de la barra a una temperatura elevada y el otro extremo a una temperatura 
+baja, la energía térmica se conduce de forma continua a lo largo de la barra desde el extremo 
+caliente al extremo más frío. En el estado estacionario, la temperatura varía linealmente 
+desde el extremo caliente al extremo frío. La tasa de variación de la temperatura AT/Ax a lo 
+largo de la barra recibe el nombre de gradiente de temperatura. 
+Sea AT la diferencia de temperatura entre los extremos de un pequeño segmento de lon- 
+gitud Ax (figura 20.55). Si llamamos O a la cantidad de calor que se transmite por conduc- 
+ción a lo largo de dicha porción en un cierto intervalo de tiempo Ar, la tasa de conducción de 
+calor Q/At se denomina corriente térmica /. Experimentalmente se encuentra que la 
+corriente térmica es proporcional al gradiente de temperatura y al área de la sección recta A: 
+l=%=kA ax (20.7) 
+DEFINICION—CORRIENTE TERMICA 
+La constante de proporcionalidad k, llamada coeficiente de conductividad térmica o simple- 
+mente conductividad térmica, depende de la composición de la barra.! En unidades del SI, la 
+corriente térmica se expresa en vatios (julios por segundo) y la conductividad térmica tiene 
+unidades de W/( m-K).? En los EE.UU. la corriente térmica se expresa usualmente en Btu por 
+hora, el área en pies cuadrados, la longitud (o el espesor) en pulgadas y la temperatura en gra- 
+dos Fahrenheit. La conductividad térmica se expresa entonces en Btu-pulg/(h-pie -F°). La 
+tabla 20.3 da las conductividades térmicas de diversos materiales. 
+De la ecuación 20.7 resulta para la diferencia de temperaturas 
+Ax AT =f iA (20.8) 
+es decir, 
+AT = IR (20.9) 
+CAMBIO DE TEMPERATURA EN FUNCION DE LA CORRIENTE TERMICA 
+en donde Ax/kA es la resistencia térmica R: 
+AA ee (20.10) 
+DEFINICION—RESISTENCIA TERMICA 
+Ejercicio Calcular la resistencia térmica de una chapa de aluminio de área 15 cm? y espe- 
+sor 2 cm. (Respuesta 0,0563 K/W = 56,3 mK/W.) 
+Ejercicio ¿Qué espesor de plata se necesitaría para que su resistencia térmica fuera equivalente a 
+la de un espesor de | cm de aire de igual sección recta? (Respuesta Ax = (1 cm)(429) /(0,026) = 
+16500 cm = 165 m.) 
+' No confundir la conductividad térmica con la constante de Boltzmann, que también se designa con la letra k. 
+2 En algunas tablas, la energía térmica se expresa en calorías o kilocalorias y el espesor del conductor en centímetros.
+
+TABLA 20.3 Conductividades térmicas k para diversos materiales 
+En muchos problemas prácticos interesa el flujo de calor que se propaga a través de dos o 
+más conductores (o aislantes) colocados en serie. Por ejemplo, supongamos que queremos 
+conocer el efecto que se produce si se introduce un material aislante de un cierto espesor y 
+conductividad térmica en el espacio comprendido entre dos paneles de yeso. En la figura 
+20.6 se muestran dos planchas de igual área transversal pero de diferente material y diferente 
+espesor. Llamamos T, a la temperatura en el lado caliente, T, a la temperatura de la interfaz 
+entre las planchas, y 7; la temperatura en el lado frío. En condiciones de flujo de calor esta- 
+cionario, la corriente térmica T que atraviese cada plancha debe ser la misma. Esto es una 
+consecuencia del principio de conservación de la energía; para un flujo estacionario, el ritmo 
+k, Btu -pulg/(h-pie?- F°) 
+107 
+(2980) Plata 
+(2780) Cobre 
+A (2450) Plomo 
+(2200) Oro 
+guj 70104) Aluminio 
+2 (558) Hierro 
+(319) Acero 
+10? 
+Hormigón 10! (6-9) g 
+0% ; jo f! 
+(4, gua a 
+ite Hielo 
+(1,02) Roble 
+10° ae (0,78) Pino blanco 
+— (0,18) Aire a 27 *C 
+107 
+k, Wi(m-K) 
+103 (429) 
+(401) 
+(353) 
+(318) 
+(237) 
+(80,4) = 
+(46) 
+10! 
+(0,19-1,3) 
+(0,7—0,9) 
+(0,609) 
+(0,592) 
+(0,15) — = 
+(0,1). E102 
+(0,026) 
+102 
+20.4 Transferencia de energía térmica | 591 
+con el que la energía entra en una región debe ser igual al ritmo de salida. 
+Si llamamos R, y R, a las resistencias térmicas de las dos planchas, según la ecuación 
+20.9 para cada plancha se cumple 
+Sumando ambas expresiones 
+o sea 
+eq 
+Figura 20.6 Dos láminas térmicas conductoras 
+de materiales diferentes puestas en serie. La 
+resistencia térmica equivalente de las láminas en 
+serie es la suma de sus resistencias térmicas 
+individuales. La corriente térmica es la misma a 
+través de ambas láminas. 
+(20.11)
+
+592 | Capítulo 20 Propiedades y procesos térmicos 
+Este termograma de una casa muestra que la energía 
+térmica está siendo irradiada al medio exterior. 
+EJEMPLO 20.4 | 
+Dos barras metálicas aisladas, cada una de longitud 5 cm y sección transversal rectangular de 
+lados 2 cm y 3 cm, están encajadas entre dos paredes, una mantenida a 100 °C y la otra a 0 °C 
+(figura 20.7). Las barras son de plomo y plata. Determinar (a) la corriente térmica total a tra- 
+vés de las barras y (b) la temperatura en la interfaz. 
+Planteamiento del problema Las barras son resistencias térmicas en serie. (a) Hallar la corriente 
+térmica total a partir de /=R¿¿/AT, en donde la resistencia equivalente R.. es la suma de las resistencias 
+individuales. Utilizando la ecuación 20.10 y las conductividades térmicas dadas en la tabla 20.3, se 
+pueden determinar las resistencias individuales. (b) Determinar la temperatura de la interfaz aplicando 
+Corriente térmica entre dos barras metálicas 
+en donde R,, es la resistencia equivalente. Así, para las resistencias térmicas en serie, la 
+resistencia equivalente es la suma de las resistencias individuales: 
+Rey = Ri +R, +... (20.12) 
+RESISTENCIAS TERMICAS EN SERIE 
+Este resultado puede aplicarse a cualquier número de resistencias en serie. En el capítulo 25 
+encontraremos esta misma fórmula aplicada a resistencias eléctricas en serie. 
+Para calcular la cantidad de calor que sale de una habitación por conducción en un 
+tiempo determinado, es necesario saber cuánto calor sale por las paredes, las ventanas, el 
+suelo y el techo. En este tipo de problema, en el que hay varios caminos para el flujo de 
+calor, se dice que las resistencias están en paralelo. La diferencia de temperaturas es la 
+misma para cada camino, pero la corriente térmica es diferente. La corriente térmica total es 
+la suma de las corrientes térmicas a través de cada uno de los caminos en paralelo, que son 
+de hecho independientes: 
+AT .. AT cd 1 leat = tytn AR =A +e } 
+O sea 
+AT 
+Doral Ra, (20.13) 
+en donde la resistencia equivalente viene dada por 
+l As al — = —+— +... (20.14) 
+Roy Ri R3 
+RESISTENCIAS TÉRMICAS EN PARALELO 
+Encontraremos esta ecuación de nuevo en el capítulo 25 cuando estudiemos la conducción 
+eléctrica a través de resistencias en paralelo. Obsérvese que tanto para resistencias en serie 
+(ecuación 20.11) como para resistencias en paralelo (ecuación 20.13) / es proporcional a AT, 
+en concordancia con la ley del enfriamiento de Newton. 
+jINTENTELO USTED MISMO! 
+AT = IR, a la primera barra solamente y deduciendo AT en función del valor de / obtenido en (a). 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Figura 20.7 Dos bloques conductores de 
+calor de materiales diferentes dispuestos en 
+Pasos Respuestas paralelo. 
+(a) 1. Expresar la resistencia equivalente térmica en función de las resis- KR. = Rp, + Ra. 
+tencias térmicas de las dos barras. 
+w m : : = AX Ara 2. Utilizando la ecuación 20.10, expresar cada resistencia en función Ry, = EA Ry. = 5 4 - 
+ppp Bag? a de las conductividades térmicas individuales y los parámetros 
+geométricos: 
+3. Usar la ecuación 20.13 para hallar la corriente térmica. F=-ATIR., =232W
+
+20.4 Transferencia de energia térmica 593 
+(b) 1. Calcular la diferencia de temperatura entre los extremos de la AT, = /Rp, = 549K = 54.9C 
+barra de plomo utilizando la corriente y la resistencia térmica 
+determinada en (a). 
+2. Utilizar el resultado del paso anterior para determinar la tempera- T, = 100 °C- AT p =} 45.1 °C] 
+tura en la interfaz. 
+3. Comprobar la respuesta determinando la diferencia de tempera- AT, = /Ry, = 45.1 C 
+tura a través de la barra de plata. 
+EJEMPLO 20.5 | Otra disposición de las barras metálicas 
+Las barras metálicas del ejemplo 20.4 se disponen ahora como muestra la figura 20.8. Deter- 
+minar (a) la corriente térmica en cada barra, (b) la corriente térmica total y (c) la resistencia 
+térmica equivalente del sistema formado por las dos barras. 
+Planteamiento del problema La corriente en cada barra se determina utilizando / = AT/R, en 
+donde R es la resistencia térmica de la barra deducida en el ejemplo 20.4. La corriente total es la 
+suma de las corrientes. La resistencia equivalente puede determinarse a partir de la ecuación 20.14 o 
+a partir de Zou = AT/Reg. 
+: AT 100 K Figura 20.8 a) Calcular | ía térmica de cada barra: == == SAW (a) ular la energía ica Tee Re = 0236 
+AT 100 K = ¿=== Tm =515 W tae = RO = O9dKIW E 
+(b) Sumar estos resultados para deducir la corriente total: Tint = lp tlag = 424 W +515 W =|939 W 
+ns > $ : E 1 l í E | 1 E (c) 1. Utilizar la ecuación 20.14 para calcular la resistencia equivalente Ra = Ex ip R,. 0,236 W + 0.194 W" de este modo 
+de las dos barras en paralelo: x > 
+R., =[0,107 K/W 
+Aa AT. 2. Comprobar el resultado, utilizando Jon; = AT/R q: Lot = RO 
+eg 
+AT _ 100K Rico = ——— = 0,107 K/W Sil tity 938: 
+Observación La resistencia equivalente es menor que cualquiera de las resistencias individuales. 
+Este es el caso de las resistencias en paralelo. 
+En la industria relacionada con la construcción, la resistencia térmica por pie cuadrado de 
+sección transversal de un material recibe el nombre de factor R, al que designaremos por Rẹ. 
+Consideremos una lámina de 32 pie? de material aislante de espesor Ax y factor R¿= 7,2. Es 
+decir, cada pie cuadrado (figura 20.9) presenta una resistencia térmica de 7,2 F°/(Btu/h). Los 
+32 pies cuadrados están en paralelo, de modo que la resistencia neta Reta se calcula utilizando 
+la ecuación 20.14 para dar 
+Loa Li Ea gare fy = i R, s Rp total 32 
+Asi, la resistencia térmica total R expresada en F°/(Btu/h) es igual al factor R dividido por el 
+área A dada en pies cuadrados. Esto es 
+R Figura 20.9 Para un espesor de | pulgada de este 
+R Ss E material, Ry = 7,2. 
+A
+
+594 | Capítulo 20 Propiedades y procesos térmicos 
+TABLA 20.4 Factores R, Ax/k para diferentes materiales de construcción 
+Material Espesor, pulg. R, h-pie?-F°/Btu 
+Construcción con planchas 
+Yeso o planchas de yeso 0,375 0,32 
+Contrachapado (Douglas) 0,5 0,62 
+Contrachapado o paneles de madera 0,75 0,93 
+Conglomerado, densidad media 1,0 1,06 
+Materiales de acabado de suelo 
+Alfombra y materiales de fibra 1,0 2,08 
+Azulejo 0,5 
+Madera (noble) 0,75 0,68 
+Aislamiento del tejado 1,0 2,8 
+Tejado 
+Asfalto en rollos para terrazas 0,15 
+Tejas planas de asfalto 0,44 
+Ventanas 
+Panel simple 0,9 
+Panel doble 1,8 
+Como la resistencia total Rota; está relacionada con la conductividad por medio de Rot, = Ax/(KA) 
+(ecuación 20.10), se puede expresar el factor R mediante 
+Re = Ries = = (20.15) 
+DEFINICIÓN—FACTOR R 
+donde Ax es el espesor expresado en pulgadas y k es la conductividad en Btu-pulg/(h-pie?-F>). 
+La tabla 20.4 recoge factores R para distintos materiales. En función del factor R, la ecua- 
+ción 20.9 para la corriente térmica es 
+AT HAR), 1 R, (20.16) 
+Para planchas de material aislante de igual área en serie, R; se reemplaza por el factor R 
+equivalente, Ry. 
+Ry eq = Ra +Rp+... 
+Si las planchas están situadas en paralelo, se calcula la corriente térmica a través de cada 
+plancha y se suman para obtener la corriente total. 
+EJEMPLO 20.6 | Pérdida de calor a través de un tejado jPONGALO EN SU CONTEXTO! 
+Estamos ayudando a la familia de un amigo a poner nuevos módulos de asfalto en el tejado de 
+su cabaña de invierno. El tejado, de 60 pie x 20 pie, está hecho de tableros de pino cubiertos 
+con tejas planas de asfalto. Hay sitio para 2 pulgadas de aislamiento y la familia se está pre- 
+guntando qué diferencia habría en la factura de energía si instalaran el aislamiento de dos pul- 
+gadas. Sabiendo que estamos estudiando física nos piden nuestra opinión. 
+Planteamiento del problema Para valorar la situación, hemos de calcular el factor R de cada 
+capa del tejado. Como las capas están en serie, el factor R equivalente es precisamente la suma de 
+dos factores R individuales. El objetivo es calcular el factor R equivalente del tejado con y sin aisla- 
+miento. Los factores R de las tejas de asfalto y del aislamiento del tejado se pueden encontrar en la 
+tabla 20.4. El factor R del tablón de pino se calcula a partir de su conductividad térmica, que aparece 
+en la tabla 20.3. Nótese que las tejas se colocan solapadas, de modo que en el tejado hay dos capas 
+de asfalto.
+
+20.4 Transferencia de energia térmica | 595 
+1. El factor R equivalente es la suma de los factores R individuales: Rieg = Rípino + Rrast + Reais 
+2. El factor R de la doble capa de tejas es el doble del factor R de una Rear = 2(0,44 h - pie? - F°/Btu) 
+AER 0,88 h - pie? - F°/Btu 
+3. El factor R para el aislamiento del techo de 2 pulgadas es el doble del Ras = 2(2,8 h- pie? - F°/Btu) 
+de | pulgada: = 5,6 h- pie? - F°/Btu 
+e pe A PK, — 0,78 Btu- pulg/(h- pie? - F°) 
+1,28 h - pie? - F°/Btu 
+4. El factor R para la madera de pino de | pulgada de espesor se obtienea R; 
+partir de la conductividad: 
+5. El factor R equivalente sin aislamiento es: Rica = Repino + Reast 
+= 1,28 h- pie? - F°/Btu + 0,88 h - pie? - F°/Btu 
+= 2,16h- pie? - F°/Btu 
+6. El factor R equivalente con aislamiento es: Risq = Regino + Rrast + Reais = Rieg + Reais 
+= 2,16 h - pie? - F°/Btu + 5,6 h - pie? - F°/Btu 
+= 7,76 h- pie? - F°/Btu 
+R? 
+7. Una comparación de los dos factores R equivalentes es su cociente: a = $5 = 0,28 
+ieg 
+8. Al añadir el aislamiento, la tasa de pérdida de calor se reduce en un AT = /R,., = GR 
+78%. ¿Es el 78% de una pérdida de calor grande o pequeño? Utili- : t 
+zando la ecuación 20.16 calculamos la corriente térmica / a través de pe A ÄT = (60 pie)(20 pie) AT 
+todo el tejado: Ríe 2,16 h - pie? - F°/Btu 
+= [556(BtuMh)/F*]AT 
+9. Para completar el cálculo suponemos que la temperatura dentro dela /' = [556(Btu/h)/F°]AT 
+cabaña se mantiene a 70 °F y que en el exterior durante el invierno es = [556(Btu/M)/F*](40 °F) = 22200 Btu/h 
+unos 40 °F más fría: y 
+1 = 0,281” = 0,28(22200 Btu/h) = 6200 Btu/h 
+de manera que la reducción debida al aislamiento es 
+I-I’ = 22200 Btu/h — 6200 Btu/h 
+= 16000 Btu/h 
+10. Hacer una estimación de lo que se ahorraría si se colocasen las 2 pul- Para una evaluación del coste ver las observaciones que se dan a 
+gadas de aislamiento: continuación. 
+Observaciones La instalación de 2 pulgadas de aislamiento reduce las pérdidas de calor a través 
+del tejado en 22 200 Btu/h. La cabaña se calienta con propano y el contenido energético del propano 
+es de 92000 Btu/gal. Aislando el tejado el consumo se reduce en aproximadamente 6 galones de 
+propano en cada 24 horas de uso. Como el propano cuesta unos 1 ,40$/gal, el ahorro por día se eleva 
+a 8,40$, o sea 252$ por mes. La familia de nuestro amigo está impresionada por el ahorro potencial 
+(y por la utilidad de nuestros conocimientos de física) y está decidida a instalar las 2 pulgadas de ais- 
+lamiento. 
+Ejercicio ¿Cuánto ahorro adicional podrá obtenerse añadiendo más aislamiento al tejado? 
+(Respuesta El máximo ahorro adicional es de 6200 Btu/h, lo que corresponde a 68$ por mes.) 
+Observaciones Esta valoración de los costes no incluye el precio de comprar e instalar el aislante. 
+La conductividad térmica del aire es muy pequeña en comparación con las de los mate- 
+riales sólidos, de modo que el aire es un aislante muy bueno. Sin embargo, cuando existe un 
+espacio con aire relativamente grande —como sucede, por ejemplo, entre los dos cristales de 
+una doble ventana, si no está bien proyectada— el rendimiento aislante del aire se ve muy 
+reducido debido a la convección. Siempre que existe una diferencia de temperatura entre las
+
+596 | Capítulo 20 Propiedades y procesos térmicos 
+diferentes partes de un espacio lleno de aire, las corrientes de convección actúan rápida- 
+mente para igualar las temperaturas, de modo que la conductividad efectiva se ve muy 
+aumentada. En el caso de ventanas de doble panel, el espaciado óptimo debe tener de 1 a 2 
+cm. Espaciados con aire de mayor amplitud reducen en la práctica la resistencia térmica de 
+una ventana de doble panel debido a la convección. 
+Las propiedades aislantes del aire se pueden aplicar con éxito si se logra atrapar al aire en 
+pequeños paquetes de aire separados entre sí de forma que la convección no pueda tener 
+lugar. Esta es la razón de las excelentes propiedades aislantes del plumón de ganso y del 
+Styrofoam. 
+Si se toca la parte interior de la superficie del cristal de una ventana cuando hace frío en 
+el exterior, se observa que la superficie se encuentra considerablemente más fría que el inte- 
+rior de la habitación. La resistencia térmica de una ventana se debe principalmente a la exis- 
+tencia de finas capas de aire aislante, que se adhieren a ambos lados de la superficie del 
+cristal. El espesor del cristal no influye prácticamente en el valor de la resistencia térmica 
+total. Una típica película de aire contribuye con un factor R de aproximadamente 0,45 por 
+cada superficie; por lo tanto, el factor R de una ventana de N hojas es aproximadamente igual 
+a 0,9 N. Cuando la velocidad del viento es grande, la capa de aire exterior disminuye consi- 
+derablemente, por lo que el factor R para la ventana se hace más pequeño. 
+Convección 
+La convección es el transporte de energía térmica que se verifica simultáneamente con el 
+transporte del propio medio. Es el responsable de las grandes corrientes oceánicas, así como 
+de la circulación global de la atmósfera. En el caso más simple, la convección surge cuando 
+un fluido (gas o líquido) se calienta por debajo. El fluido al calentarse se expansiona y se 
+eleva, mientras que el fluido más frío se hunde. La descripción matemática de la convección 
+es muy compleja, ya que el flujo depende de la diferencia de temperatura en las distintas par- 
+tes del fluido y esta diferencia de temperatura viene afectada por el propio flujo. 
+Aproximadamente, el calor transmitido por convección desde un cuerpo a sus alrededo- 
+res es proporcional al área del cuerpo y a la diferencia de temperatura entre el cuerpo y el 
+fluido en el que se encuentre inmerso. Es posible escribir una ecuación para la energía tér- 
+mica transportada por convección y definir un coeficiente de convección, pero el análisis de 
+los problemas concretos reales es muy difícil y no es objeto de este libro. 
+Radiación 
+Todos los cuerpos emiten y absorben radiación electromagnética. Cuando un cuerpo está en 
+equilibrio térmico con su medio, emite y absorbe energía al mismo ritmo. La energía térmica 
+irradiada por un cuerpo por unidad de tiempo es proporcional al área del cuerpo y a la cuarta 
+potencia de su temperatura absoluta. Este resultado, obtenido empíricamente por Josef Ste- 
+fan en 1879 y deducido teóricamente por Ludwig Boltzmann unos cinco años después, se 
+denomina ley de Stefan-Boltzmann y se expresa en la forma: 
+P, = eoAT# (20.17) 
+LEY DE STEFAN-BOLTZMANN 
+en donde P, es la potencia radiada en vatios, A el área, e es la llamada emisividad del cuerpo 
+y Cuna constante universal que recibe el nombre de constante de Stefan-Boltzmann, cuyo 
+valor es 
+a = 5,6703 x 10 W/m? - K* (20.18) 
+La emisividad e es una fracción que varía de O a | y que depende de la composición de la 
+- superficie del objeto. 
+Cuando la radiación incide sobre un objeto opaco, parte de la radiación se refleja y parte 
+se absorbe. Los objetos de colores claros reflejan la mayor parte de la radiación visible,
+
+mientras que los objetos oscuros absorben su mayor parte. El ritmo con que absorbe radia- 
+ción un cuerpo viene dado por 
+P, = eoAT (20.19) a 
+en donde 7) es la temperatura de la fuente de radiación. 
+Si un cuerpo emite más radiación que la que absorbe, se enfría, mientras que el medio 
+que le rodea se calienta al absorber la radiación procedente del mismo. Si el cuerpo 
+absorbe más energía que la que emite, el cuerpo se calienta, mientras que el medio se 
+enfría. Podemos expresar la potencia neta radiada por un cuerpo a la temperatura T situado 
+en un medio de temperatura 7, como 
+Pa = €OA(T*—Tf) (20.20) neta 
+Cuando un cuerpo está en equilibrio con su medio, T = Tọ y emite y absorbe radiación al 
+mismo ritmo. 
+Un cuerpo que absorbe toda la radiación que incide sobre él posee una emisividad 
+igual a | y recibe el nombre de cuerpo negro. Un cuerpo negro también es un radiador 
+ideal. El concepto de cuerpo negro ideal es importante, puesto que las características de la 
+radiación emitida por tal cuerpo pueden calcularse teóricamente. Un material como el ter- 
+ciopelo negro posee unas propiedades próximas a las del cuerpo negro ideal, pero la mejor 
+forma práctica de obtener un cuerpo negro ideal es practicar un pequeño orificio que con- 
+duzca a una cavidad (figura 20.10), por ejemplo, el orificio de una cerradura de una puerta 
+cerrada. La radiación que incide sobre el orificio posee una pequeña probabilidad de ser 
+reflejada de nuevo al exterior antes de ser absorbida por las paredes de la cavidad. De esta 
+manera, la radiación emitida a través del orificio es característica de la temperatura de las 
+paredes de la cavidad. 
+La mayor parte de la radiación emitida por un cuerpo a temperaturas por debajo de 
+unos 600 °C está concentrada en longitudes de onda mucho más largas que las de la luz 
+visible.! A medida que aumenta la temperatura del cuerpo, crece la cantidad de energía 
+que emite y se extiende a frecuencias cada vez mayores (y longitudes de onda cada vez 
+más cortas). Aproximadamente entre 600 y 700 *C existe suficiente energía en el espectro 
+visible para que un cuerpo brille con un color rojo oscuro; a temperaturas más elevadas el 
+cuerpo adquiere una tonalidad roja brillante o incluso un color “blanco”. En la figura 
+20.11 se muestra la potencia radiada por un cuerpo negro en función de la longitud de 
+onda para diferentes temperaturas. La longitud de onda para la cual la potencia es un 
+máximo varía inversamente con la temperatura. Este resultado se conoce con el nombre de 
+ley del desplazamiento de Wien: 
+£ 2,898 mm - K A F (20.21) 
+LEY DEL DESPLAZAMIENTO DE WIEN 
+Esta ley se utiliza para determinar las temperaturas de las estrellas a partir de los análisis de 
+su radiación. Puede utilizarse también para representar las variaciones de temperatura en 
+diferentes regiones de la superficie de un objeto, lo que constituye una termografia. Las 
+termografías pueden emplearse para detectar el cáncer porque los tejidos cancerosos tienen 
+una temperatura ligeramente superior a los tejidos sanos de su alrededor. 
+Las curvas de distribución espectral del cuerpo negro indicadas en la figura 20.11 desem- 
+peñaron un papel importante en la historia de la física. Las discrepancias existentes entre los 
+cálculos teóricos de estas curvas experimentales utilizando la termodinámica clásica y las 
+medidas experimentales de las mismas, fueron las que condujeron a Max Planck a desarro- 
+llar las primeras ideas acerca de la cuantización de la energía en 1897. 
+' Cuando estudiemos la luz, veremos que la luz visible es radiación electromagnética con longitudes de onda comprendidas 
+entre 400 y 700 nm. 
+20.4 Transferencia de energía térmica | 597 
+Figura 20.10 Un pequeño orificio en una 
+cavidad constituye la mejor aproximación a un 
+cuerpo negro ideal. La radiación que entra en la 
+misma tiene una probabilidad muy pequeña de salir 
+de la cavidad antes de ser absorbida por completo. 
+La radiación emitida a través del orificio (no 
+mostrada en la figura) es, por lo tanto, característica 
+de la temperatura de las paredes de la cavidad. 
+1450 K 
+5 À, um 
+Figura 20.11 Potencia radiada en función de la 
+longitud de onda correspondiente a la radiación 
+emitida por un cuerpo negro. La longitud de onda 
+de la potencia máxima varía inversamente con la 
+temperatura absoluta del cuerpo negro. 
+Termografia utilizada para detectar un tumor 
+canceroso,
+
+598 | Capítulo 20 Propiedades y procesos térmicos 
+EJEMPLO 20.7 | Radiación procedente del sol 
+(a) La radiación emitida por la superficie del Sol presenta su máxima potencia a una longitud 
+de onda de unos 500 nm. Suponiendo que el Sol sea un emisor de radiación del cuerpo negro, 
+¿cuál es la temperatura de su superficie? (b) Calcular A,,;, de un cuerpo negro a la tempera- 
+tura ambiente, 7 = 300 K. 
+(a) Podemos calcular A,,,;, utilizando la ley del desplazamiento de Wien: Ants = o 
+de donde 
+T= 2,898 mm - K = 2,898 mm - K 
+A aix 500 nm 
+=| 5800 K 
+(b) Aplicar la ley del desplazamiento de Wien para T'= 300 K: tule oe = 9,66 x 10-6 m 
+[un] Observaciones La longitud de onda del pico del espectro solar cae dentro del espectro visible. El 
+espectro radiante del cuerpo negro describe muy bien la radiación solar; de hecho, el Sol es un buen 
+ejemplo de cuerpo negro. 
+Para 7 = 300 K, el espectro del cuerpo negro tiene el pico en el infrarrojo, a longitudes de onda 
+muy superiores a las que son visibles para el ojo humano. Hay superficies que no son negras a nuestros 
+ojos y que pueden actuar como cuerpos negros para la radiación y absorción del infrarrojo. Así, se ha 
+determinado experimentalmente que la piel de los seres humanos de todas las razas es negra para la 
+radiación infrarroja; por lo tanto, la emisividad de la piel es 1,00 para su propio proceso de radiación. 
+EJEMPLO 20.8 | Radiación procedente del cuerpo humano jINTENTELO USTED MISMO! 
+Calcular la pérdida neta de energía radiante de una persona desnuda en una habitación a 20 °C 
+suponiendo que la persona se comporta como un cuerpo negro, con una superficie de área 
+igual a 1,4 m? y temperatura superficial de 33 °C = 306 K. (La temperatura superficial del 
+cuerpo humano es ligeramente inferior que su temperatura interna, 37 °C, debido a la resisten- 
+cia térmica de la piel.) 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuesta 
+Utilizar P,,... = eoA(T*—T¡) con e=1, T=306 K y Tọ =293 K. Po =a) W 
+paterno Observaciones Esta gran pérdida de energía es aproximadamente igual al ritmo meta- 
+Y bólico basal de 120 W, El hombre se protege de esta gran pérdida de energía mediante el 
+uso de ropas, que, debido a su baja conductividad térmica, poseen una temperatura exterior 
+mucho más baja que la piel, y por lo tanto las pérdidas térmicas por radiación son mucho menores. 
+Cuando la temperatura T de un cuerpo no difiere demasiado de la de su medio, Th, el 
+cuerpo radiante obedece la ley del enfriamiento de Newton. Esto puede deducirse escri- 
+biendo la ecuación 20.20 en la forma 
+P eoA(T* Ts) = eoA(T? + T2)(T2-T2) 
+eoA(T* +T§)(T +T ¿NT -To) 
+neta 
+Cuando la diferencia T — Ty es pequeña, puede reemplazarse Tọ por T en las sumas con un 
+~ cambio pequeño en el resultado. Así resulta 
+Prog = € 0A(T*-T8) =e0A(T?+T2 XT +T)(T-Tp) = 4e0ATIAT
+
+20.4 Transferencia de energia térmica | 599 
+La potencia neta irradiada es aproximadamente proporcional a la diferencia de temperatura, 
+de acuerdo con la ley del enfriamiento de Newton. Este resultado también puede obtenerse 
+utilizando la aproximación diferencial, 
+Kees T-T A A T=T, 
+en donde P, = eoA(T*—T 3). Para una pequeña diferencia de temperaturas T— Tp se tiene 
+AP,=e0A 475), r (T-To) = 4e 0 ATGAT 
+Resumen 
+TEMA OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Dilatación térmica 
+Coeficiente de dilatación lineal a= at (20.2) 
+Ss 5 ‘ ice AVIV Coeficiente de dilatación cúbica B= ar~ 3a (20.4), (20.5) 
+2. Ecuación de estado de van der Waals La ecuación de estado de van der Waals describe el comportamiento de los gases reales en un amplio inter- 
+valo de temperaturas y presiones, teniendo en cuenta el espacio ocupado por las propias moléculas del gas y 
+la atracción intermolecular: 
+(p+ TEV bn) = nRT (20.6) 
+3. Presión de vapor La presión de vapor es la presión a la cual las fases líquida y gaseosa de una sustancia están en equilibrio a 
+una temperatura dada. El líquido hierve a esa temperatura para la cual la presión externa es igual a la presión 
+de vapor. 
+4. Punto triple El punto triple define la única temperatura y presión a la cual las fases gas, líquido y sólido de una sustancia 
+pueden coexistir en equilibrio. A temperaturas y presiones por debajo del punto triple, la fase líquida de una 
+sustancia no puede existir. 
+5. Transferencia de calor Los tres mecanismos de transferencia de la energía térmica son conducción, convección y radiación. 
+Ley del enfriamiento de Newton En todos los mecanismos de transferencia de calor, si la diferencia de temperatura entre el cuerpo y el medio 
+es pequeña, la velocidad de enfriamiento del cuerpo es aproximadamente proporcional a la diferencia de 
+temperaturas. 
+6. Conducción térmica 
+Corriente térmica La tasa de transporte de calor por conducción viene dada por 
+Q AT I= = kA — . At Ax (20:7) 
+en donde / es la corriente térmica, k el coeficiente de conductividad térmica y AT/Ax el gradiente de tempera- 
+tura. 
+Resistencia térmica AT = IR (20.9) 
+en donde R es la resistencia térmica: 
+pai (20.10)
+
+600 | Capítulo 20 Propiedades y procesos térmicos 
+Resistencia equivalente: 
+Serie 
+Paralelo 
+Factor R 
+(20.12) 
+(20.14) 
+El factor R es la resistencia térmica expresada en pulg - pie? - °F/(Btu/h) de un pie cuadrado de un bloque de 
+material 
+R= RA = & A (20.15) 
+7. Radiación térmica 
+Potencia radiante 
+Potencia radiante neta de un cuerpo a temperatura T 
+hacia su medio a temperatura To 
+Cuerpo negro 
+Ley de Wien 
+Problemas 
+® Concepto simple, un solo paso, relativamente fácil. 
+Nivel intermedio, puede exigir síntesis de conceptos. se 
+eee Desafiante, para alumnos avanzados. 
+SSM La solución se encuentra en el Student Solutions Manual. 
+i Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. 
+Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan alos fuentes externas o estimaciones 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. 
+Problemas conceptuales 
+1 o SSM ¿Por qué el nivel del mercurio comienza decreciendo 
+P, = eoAT# (20.17) 
+en donde o = 5,6703 x 10 W/m? - K* es la constante de Stefan—Boltzmann y e la emisividad, un número 
+entre O y | que depende de la composición de la superficie del cuerpo. Los materiales que son buenos absor- 
+bentes también son buenos radiadores de calor. 
+Pron = CGA(T*-T} (20.20) 
+Un cuerpo negro posee una emisividad igual a 1, Es un radiador perfecto y absorbe toda la radiación que 
+incide sobre él. 
+El espectro de potencia de energía electromagnética irradiada por un cuerpo negro tiene un máximo a una 
+longitud de onda, Ans que varía inversamente con la temperatura absoluta del cuerpo: 
+2,898 mm - K Anis = T (20.21) 
+En algunos problemas se dan 
+más datos de los realmente 
+necesarios; en otros pocos, deben 
+extraerse algunos datos a partir 
+de conocimientos generales, 
+lógicas. 
+hervir el agua, (b) la presión del aire es demasiado baja para que se encienda el 
+hornillo, (c) el agua hirviendo no tiene la suficiente temperatura para que se 
+endurezca el huevo, (d) el contenido de oxígeno del aire es demasiado bajo, 
+(e) los huevos siempre se rompen en sus envases. 
+ligeramente cuando un termómetro se introduce en agua caliente? 
+2 @ Una lámina grande de metal tiene un orificio recortado en su cen- 
+tro. Al calentar la lámina, el área del orificio (a) no cambia, (b) siempre crece, 
+(c) siempre disminuye, (d) crece si el orificio no está en el centro exacto de la 
+lámina, (e) decrece sólo si el orificio está en el centro exacto de la lámina. 
+3 e Los alpinistas dicen que no pueden cocer un huevo duro en lo alto 
+del Monte Rainier. Esto es cierto porque (a) el aire está demasiado frío para 
+4 @ ¿Qué gases de la tabla 20.2 no pueden licuarse incrementando la 
+presión a 20 °C? 
+5 ee SSM El diagrama de fases de la figura 20.12 puede ser utili- 
+zado para obtener información sobre cómo cambian los puntos de ebullición y 
+de fusión del agua con la altitud. (a) Explicar cómo puede obtenerse esta infor- 
+mación. (b) ¿Cómo puede influir esta información en los procedimientos culi- 
+narios en las montañas?
+
+Figura 20.12 Problema 5 
+6 e Si la temperatura absoluta de un cuerpo se triplica, la energía tér- 
+mica que se irradia por unidad de tiempo (a) se triplica, (b) se incrementa en un 
+factor 9, (c) se incrementa en un factor 27, (d) se incrementa en un factor 81, 
+(e) depende de que la temperatura absoluta esté por encima o por debajo de 
+cero. 
+7 e SSM En una habitación fría, un metal o una repisa de mármol 
+parecen mucho más fríos al tacto que una superficie de madera, a pesar de que 
+se encuentran a igual temperatura. ¿Por qué? 
+8 e Verdadero o falso: 
+(a) Durante un cambio de fase la temperatura de una sustancia permanece 
+constante, 
+(b) La conducción de energía térmica por unidad de tiempo es proporcional al 
+gradiente de temperatura. 
+(c) La energía radiante emitida por un cuerpo por unidad de tiempo es propor- 
+cional al cuadrado de su temperatura absoluta. 
+(d) Todos los materiales se dilatan por la acción del calor. 
+(e) La presión de vapor de un líquido depende de la temperatura. 
+9 e La Tierra pierde calor por (a) conducción, (b) convección, (c) ra- 
+diación, (d) ninguno de los mecanismos anteriores. 
+10 e ¿Cuáles son los mecanismos de transmisión del calor más impor- 
+tantes en el efecto de calefacción del fuego en una chimenea? 
+11 e ¿Qué mecanismo de transmisión del calor es más importante en la 
+transmisión de energía del Sol a la Tierra? 
+12 ee Explicar por qué bajando la temperatura de una casa por la noche 
+durante el invierno se puede ahorrar en los costes de calefacción. ¿Por qué el 
+coste del combustible consumido para volver a calentar la casa por la mañana 
+no iguala al ahorro obtenido al enfriarla? 
+13 es Doscilindros de materiales distintos A y B tienen iguales longitu- 
+des; sus diámetros se encuentran en la relación d, = 2d,. Cuando se mantiene 
+la misma diferencia de temperatura entre los extremos de los cilindros, ambos 
+conducen el mismo calor por unidad de tiempo. Sus conductividades térmicas 
+se encuentran en la relación: (a) ką = ky/4, (b) ka = ky/2, (c) ka = ky, 
+(d) ka = 2ky, (e) ky = Akg. 
+14 e La luz infrarroja se la conoce a veces como “ondas térmicas”. 
+Explicar por qué esta luz recibe este nombre y por qué este nombre es inco- 
+rrecto. 
+15 e SSM En la nomenclatura artística se presenta a menudo el 
+azul como un color “frío”, mientras que del rojo se dice “cálido”. Sin embargo, 
+en física el rojo se considera que es un color más “frío” que el azul. Explicar 
+por qué. 
+Problemas 601 
+Estimaciones y aproximaciones 
+16 @@@ El helio líquido se almacena en recipientes dotados de un “superais- 
+lamiento” de 7 cm de espesor formado por un gran número de capas que consis- 
+ten en láminas muy delgadas de mylar aluminizado. La velocidad de evaporación 
+del líquido en un recipiente de 200 L es aproximadamente de 0,7 L por día. Supo- 
+ner que el recipiente es esférico y la temperatura externa de 20 °C. El peso espe- 
+cífico del helio líquido es 0,125 y su calor latente de vaporización, 21 kJ/kg. 
+Hacer una estimación de la conductividad térmica del “superaislamiento”. 
+17 es Hacer una estimación de la conductividad térmica de la piel si el 
+cuerpo de un hombre adulto tiene unos 1,8 m? de área y genera alrededor de 130 W 
+de calor en reposo. Utilizar una temperatura intema de 37 °C y una temperatura 
+externa de la piel de 33 °C. Suponer que la piel tiene un espesor medio de 1 mm. 
+18 ee ssm Hacer una evaluación de la emisividad efectiva de la Tie- 
+rra a partir de la siguiente información: la constante solar (la intensidad de 
+radiación incidente sobre la Tierra procedente del Sol) es 1370 W/m?, el 70% 
+de esta luz es absorbida por la Tierra y la temperatura media de nuestro planeta 
+es 288 K. (Suponer que el área efectiva que está absorbiendo la luz es mR, 
+donde R es el radio de la Tierra, mientras que el área de emisión del cuerpo 
+negro es 4xR?). 
+19 ese Los agujeros negros en órbita alrededor de una estrella estándar se 
+detectan desde la Tierra debido al calentamiento por rozamiento del gas que se 
+precipita dentro del agujero negro, el cual puede alcanzar temperaturas por 
+encima de 10% K. Suponiendo que ese gas puede asimilarse a un cuerpo negro, 
+hacer una estimación de /,,4, para utilizarla en la detección astronómica de un 
+agujero negro. (Observación: Esta longitud de onda corresponde a la región de 
+los rayos X del espectro electromagnético.) 
+Dilatación térmica 
+20 e i Una regla de acero tiene una longitud de 30 cm a 20 °C. 
+¿Cuál es su longitud a 100 °C? 
+21 es (a) Definir un coeficiente de dilatación superficial. (b) Calcularlo 
+para un cuadrado y para un círculo y demostrar que es igual a dos veces el 
+coeficiente de dilatación lineal. 
+22 ee İ La densidad del aluminio es 2,70 x 10° kg/m’? a 0 °C. 
+¿Cuál es la densidad del aluminio a 200 °C? 
+23 e. i Una abrazadera de cobre debe ajustar fuertemente 
+alrededor de un eje de acero cuyo diámetro es 6,0000 cm a 20 °C. El diámetro 
+interior de la abrazadera de cobre a esa temperatura es de 5,9800 cm. ¿A qué 
+temperatura debe calentarse la abrazadera para que ajuste perfectamente sobre 
+el eje de acero, suponiendo que éste permanece a 20 °C? 
+24 ee sm i Repetir el problema 23 para el caso en que la 
+temperatura de ambos, el eje de acero y la abrazadera de cobre, se elevan 
+simultáneamente. 
+25 es Unrecipiente se llena hasta el borde con 1,4 L de mercurio a 20 °C. 
+Cuando la temperatura del recipiente y del mercurio se eleva a 60 *C, se derra- 
+man 7,5 mL de mercurio por el borde del recipiente. Determinar el coeficiente 
+de dilatación lineal del recipiente. 
+26 oo | Y En una lámina de aluminio se taladra un orificio con 
+una broca de taladro cuyo diámetro a 20 *C es 6,245 cm. Durante la perfora- 
+ción, la temperatura de la broca y de la lámina de aluminio se eleva a 168. *C. 
+¿Cuál es el diámetro del orificio en la placa de aluminio cuando se enfría a la. 
+temperatura ambiente? / 
+27 @@ SSM _— Se encarga a un equipo nuevo de trabajacdores la aise tg 
+ción de | km de carril en una via férrea. Al finalizar la tarea, temperatura es: 
+de 20 °C y regresan a la ciudad a tomar un refresco. Al cabo di na be aes 
+¿OTE
+
+602 | Capítulo 20 Propiedades y procesos térmicos 
+uno de los operarios más antiguos observa que la temperatura ha subido a 25 °C y 
+dice: “Supongo que habréis dejado algunos huecos en la vía para permitir la 
+dilatación.” Por la expresión de sus caras comprende que no han hecho esta 
+previsión y regresan rápidamente al lugar del trabajo. La vía se ha pandeado en 
+forma de triángulo isósceles. ¿Qué altura tiene el triángulo? 
+28 ee Í Un coche tiene un depósito de gasolina de acero y 60 L 
+de capacidad lleno hasta su totalidad cuando la temperatura vale 10 °C. El 
+coeficiente de dilatación de volumen de la gasolina es B = 0,900 x 10° K-!. 
+Teniendo en cuenta la dilatación del acero, ¿cuánta gasolina se derramará si se 
+aparca el coche al sol y su temperatura se eleva hasta 25 °C? 
+29 es Un termómetro tiene un depósito de vidrio ordinario y un tubo 
+delgado de vidrio lleno con | mL de mercurio. Una variación de temperatura de 
+1 C° cambia el nivel del mercurio en el tubo delgado en 3,0 mm. Determinar el 
+diámetro interior del tubo de vidrio delgado. 
+30 ee |Í Y Un termómetro de mercurio está formado por un 
+tubo capilar de 0,4 mm de diámetro conectado a un depósito de vidrio. El nivel 
+del mercurio se eleva 7,5 cm cuando la temperatura del termómetro se eleva de 
+35 a 43 °C. Determinar el volumen del depósito del termómetro, 
+31 ese Un reloj de péndulo está calibrado a una temperatura de 20 °C. 
+(a) En un día caluroso, cuando la temperatura es 30 *C, ¿el reloj adelanta o 
+retrasa? (b) ¿En cuánto se adelanta o retrasa en un periodo de 24 horas? Supo- 
+ner que el péndulo es una varilla delgada de latón con una masa grande unida a 
+su extremo, 
+32 eee | Y Un tubo de acero tiene un diámetro exterior de 
+3,000 cm a la temperatura ambiente (20 °C), y un tubo de latón a la misma tem- 
+peratura tiene un diámetro interior de 2,997 cm. ¿A qué temperatura deberán 
+calentarse los extremos de ambos tubos si el tubo de acero debe insertarse den- 
+tro del tubo de latón? 
+33 @@@ SSM ¿Cuáles la tensión de tracción de la abrazadera de cobre 
+del problema 23 cuando su temperatura vuelve a 20 °C? 
+Ecuación de van der Waals, isotermas líquido-vapor y 
+diagramas de fase 
+34 e LY (a) Calcular el volumen de 1 mol de vapor a 100 °C y 
+l atm de presión suponiendo que se comporta como un gas ideal. (b) Calcular la 
+temperatura a la que el vapor ocupará el volumen obtenido en (a) si el vapor obe- 
+dece la ecuación de van der Waals, siendo a = 0,55 Pa - m/mol? y b = 30 cm*/mol. 
+35 es Dela figura 20.3, determinar (a) la temperatura a la cual hierve el 
+agua en lo alto de un monte si la presión atmosférica es de 70 kPa, (b) la tempe- 
+ratura a la que hervirá el agua en un recipiente donde la presión se ha reducido 
+a 0,5 atm y (c) la presión a la cual hervirá el agua a 115 °C. 
+36 ee ssm Las constantes de van der Waals para el helio son a = 
+0,03412 L? - atm/mol? y b = 0,0237 L/mol. Utilizar estos datos para hallar el 
+volumen en centímetros cúbicos ocupado por un átomo de helio y hacer una 
+estimación del radio del átomo. 
+37 ese (a) Enel caso de un gas de van der Waals demostrar que la tempera- 
+tura critica es 8a/27Rb y la presión critica es a/27b*. (b) Expresar la ecuación de 
+van der Waals en función de las variables reducidas V,= W/V., P, = P/P., y T,= TIT. 
+Conducción térmica 
+38 e I Una barra de cobre de 2 m de longitud posee una sec- 
+ción transversal circular de | cm de radio. Uno de sus extremos se mantiene a 
+100 °C y el otro a 0 °C, y su superficie se aísla de modo que las pérdidas de 
+calor a lo largo de la misma sean despreciables. Calcular (a) la resistencia tér- 
+mica de la barra, (b) la corriente térmica o flujo de energía /, (c) el gradiente de 
+temperatura A7/Ax y (d) la temperatura a 25 cm del extremo caliente. 
+39 e | Y Una lámina aislante de 20 x 30 pies posee un factor 
+R igual a 11. {Qué cantidad de calor (en Btu por hora) se conduce a través del 
+aislante si la temperatura en un lado es de 68 °F y en el otro de 30 °F? 
+40 ee Í W Doscubos metálicos de aristas 3 cm, uno de cobre 
+(Cu) y otro de aluminio (Al), se disponen como se muestra en la figura 20.13, 
+Determinar (a) la resistencia térmica de cada cubo, (b) la resistencia térmica 
+del sistema de los dos cubos, (c) la corriente térmica / y (d) la temperatura en la 
+interfaz de los dos cubos. 
+Figura 20.13 Problema 40 
+41 ee Los cubos del problema 40 se disponen ahora en paralelo, como 
+indica la figura 20.14. Determinar (a) la corriente térmica que circula por cada 
+cubo de un extremo al otro, (b) la corriente térmica total y (c) la resistencia tér- 
+mica equivalente del sistema de los dos cubos. 
+Figura 20.14 Problema 41 
+42 ee ssm El coste del aire acondicionado de una casa es propor- 
+cional a la tasa a la que fluye el calor de la casa e inversamente proporcional al 
+coeficiente de eficiencia del acondicionador. Designamos por AT la diferencia 
+de temperatura entre la casa y el medio exterior. Suponiendo que la tasa a la 
+que fluye el calor de la casa es proporcional a AT y que el acondicionador de 
+aire funciona como una máquina ideal, demostrar que el coste del aire acondi- 
+cionado es proporcional a (AT)?. 
+43 ese Una corteza esférica de conductividad térmica k tiene un radio 
+interior r, y un radio exterior r (figura 20.15). La parte interior de la corteza se 
+mantiene a la temperatura 7, y la exterior a la temperatura T}. Demostrar que la 
+corriente térmica a través de la corteza viene dada por la expresión: 
+_ 4nkrir 
+ra Pi 
+I (T,-T,) (20,22) 
+Considerar un elemento esférico de la corteza de radio r y espesor dr: (a) ¿Por 
+qué la corriente térmica a través de cada uno de tales elementos debe ser la 
+misma? (b) Expresar la corriente térmica / a través de este elemento de corteza 
+en función del área A = 47°, el espesor dr y la diferencia de temperatura dT 
+entre el exterior y el interior al mismo. (c) Despejar dT en función de dR e inte- 
+grar de r =r; a r = r2. (d) Demostrar que cuando r; y r} son mucho mayores que 
+ry — r, la ecuación 20.22 se convierte en la 20.7.
+
+Figura 20.15 Problema 43 
+44 ee ssm 1 Desde un generador de vapor debe transmi- 
+tirse calor al agua hirviendo a un ritmo de 3 GW, El agua hirviendo circula a 
+través de tuberías de cobre de paredes de 4,0 mm de espesor y de área superfi- 
+cial igual a 0,12 m? por metro de longitud de tubería. Calcular la longitud total 
+de la tubería (realmente se disponen muchas tuberías en paralelo) que debe 
+atravesar el horno si la temperatura del vapor es de 225 °C y la temperatura en 
+el exterior de la tubería es de 600 °C. 
+45 ese Una tubería de vapor de longitud L se aísla con una capa de mate- 
+rial de conductividad térmica k. Hallar la tasa de transferencia de calor si la 
+temperatura en el exterior del aislamiento es T}, la del interior es 7}, el radio 
+exterior del aislamiento es +; y el radio interior es rz. 
+Radiación 
+46 e sm Í Y — Calcular Anu para un cuerpo humano que 
+emita calor radiante como un cuerpo negro, suponiendo que la superficie de la 
+piel está a la temperatura de 33 °C. 
+47 e l Y Los cables de calefacción de una estufa eléctrica de 
+1 KW se encuentran al rojo vivo a una temperatura de 900 *C, Suponiendo que 
+el 100% del calor emitido es debido a la radiación y que los cables actúan como 
+radiadores ideales (cuerpo negro), ¿cuál es el área efectiva de la superficie 
+radiante? (Suponer que la temperatura ambiente es de 20 °C.) 
+48 ee Í Y Se cuelga una esfera de cobre ennegrecido de 4,0 cm 
+de diámetro dentro de un recipiente sometido al vacío en donde la temperatura 
+de las paredes es de 20 *C. Si la esfera se encuentra inicialmente a la tempera- 
+tura de 0 °C, calcular la variación de temperatura con el tiempo si se supone 
+que el único proceso de transmisión del calor que tiene lugar es el de radiación. 
+49 ee 1 La temperatura superficial del filamento de una 
+lámpara incandescente es de 1300 °C. ¿Cuál será su temperatura si se duplica la 
+potencia eléctrica suministrada? Sugerencia: Demostrar que puede despre- 
+ciarse la temperatura del medio exterior. 
+50 es Se dispone de helio líquido almacenado a su temperatura de ebu- 
+Ilición (4,2 K) en un recipiente esférico; este recipiente está separado de una 
+capa aislante que se mantiene a la temperatura del nitrógeno líquido (77 K) 
+mediante un espacio sometido al vacío. Si el diámetro del recipiente es de 30 cm 
+y se encuentra ennegrecido por su parte exterior de manera que se comporta 
+como un cuerpo negro, ¿cuánto helio se evaporará por hora? 
+Problemas generales 
+51 o SSM I Se coloca una cinta de acero alrededor del 
+ecuador terrestre cuando su temperatura media es 0 °C. ¿Cual será la holgura 
+entre la cinta y el suelo (suponiéndolo uniforme) si la temperatura se eleva a 
+30 °C? (Despreciar la dilatación terrestre.) 
+52 es Demostrar que la variación de densidad experimentada por un 
+material isótropo debida a un incremento de temperatura AT viene dada por Ap = 
+- BpAT. 
+Problemas 603 
+53 eo Í La constante solar es la potencia por unidad de superfi- 
+cie que se recibe desde el Sol en la Tierra sobre una superficie perpendicular a 
+los rayos solares a la distancia media Sol-Tierra. Su valor en el límite superior 
+de la atmósfera terrestre es aproximadamente de 1,35 kW/m?. Calcular la tem- 
+peratura efectiva de la superficie del Sol si éste irradia como si se tratase de un 
+cuerpo negro. (El radio del Sol es 6,96 x 10° m). 
+54 ee | V Para determinar el valor R de un material aislante 
+que viene en láminas de 0,5 pulg. de espesor, construimos con él una caja 
+cúbica de 12 pulg. de lado y situamos un termómetro y un calentador de 100 W 
+en su interior. Una vez alcanzado el equilibrio, la temperatura interior de la caja 
+es de 90 °C cuando la temperatura exterior es de 20 °C, Determinar el valor R 
+de este material. 
+55 es Una lámina de cobre de 2 cm de espesor se presiona contra una 
+lámina de aluminio. ¿Cuál debería ser el espesor de la lámina de aluminio para 
+que la temperatura de la interfaz cobre-aluminio fuese (7, + 7,)/2, siendo T, y T3 
+las temperaturas de las interfaces cobre-aire y aluminio-aire respectivamente? 
+56 @@ A una temperatura de 20 °C, una barra de acero de 2,2 cm de 
+radio y 60 cm de longitud está encajada horizontal y perpendicularmente a dos 
+paredes verticales de hormigón. Con un soplete se eleva la temperatura de la 
+misma a 60 °C. Hallar la fuerza ejercida por la barra sobre cada pared. 
+57 es (a) A partir de la definición de B, coeficiente de dilatación de 
+volumen (a presión constante), demostrar que B = 1/T en el caso de un gas 
+ideal. (b) El valor determinado experimentalmente para f del gas N, es 
+0,003673 K~' a 0 °C. Comparar este valor con el teórico J = 1/7, suponiendo 
+que el N, es un gas ideal. 
+58 es Una forma de construir un dispositivo con dos puntos cuya sepa- 
+ración permanezca invariable a pesar de las variaciones de temperatura es ator- 
+nillar juntos un extremo de dos barras con diferentes coeficientes de dilatación 
+lineal, como se indica en la figura 20.16. (a) Demostrar que la distancia L no 
+cambia con la temperatura si las longitudes L4 y Ly se eligen de modo que 
+L Lg = 0/0, (b) Si el material B es acero y el material A es latón, y La = 250 cm 
+a 0°C, ¿cuál es el valor de L? 
+o e: 
+Material A 
+Material B 
+ar Figura 20.16 Problema 58 
+59 es Por término medio, la temperatura de la corteza terrestre se incre- 
+menta 1,0 C° por cada 30 m de profundidad. La conductividad térmica media 
+de la corteza terrestre es 0,74 J/m - s + K. ¿Cuál es la pérdida de calor que expe- 
+rimenta la Tierra cada segundo debida a la conducción desde su núcleo? Com- 
+parar esta pérdida de calor con la potencia media recibida del Sol. (La 
+constante solar es aproximadamente 1,35 kW/m?). 
+60 ee iÍ Una olla cuyo fondo es de cobre y que contiene 0,8 L 
+de agua hirviendo se seca en 10 minutos. Suponiendo que todo el calor se trans- 
+mite a través del fondo plano de cobre de 15 cm de diámetro y 3,0 mm de espe- 
+sor, calcular la temperatura en la parte exterior del fondo de cobre cuando 
+todavía queda algo de agua en la olla. 
+61 @@ SSM Un tanque de agua caliente de forma cilíndrica tiene un 
+diámetro interior de 0,55 m y una altura interior de 1,2 m. El tanque está 
+rodeado por una capa aislante de 5 cm de espesor de lana de vidrio cuya con- 
+ductividad térmica es 0,035 W/m + K. Las paredes metálicas interior y exterior 
+del tanque tienen conductividades térmicas muy superiores a la de la lana de 
+vidrio. ¿Qué potencia debe suministrarse al tanque para mantener la tempera- 
+tura del agua a 75 °C cuando la temperatura externa es de 1 °C? 
+62 ese El diámetro de una barra viene dado por d = dp(1 + ax), en donde 
+a es una constante y x la distancia a un extremo. Si la conductividad térmica del 
+material es k, ¿cuál es la resistencia térmica de la barra si su longitud es L?
+
+604 | Capítulo 20 Propiedades y procesos térmicos 
+63 ese Un disco sólido de radio r y masa m está girando en un espacio 
+sin rozamiento con velocidad angular @, a la temperatura T}. La temperatura 
+del disco cambia entonces a T}. Expresar la velocidad angular @,, la energía 
+cinética de rotación E, y el momento angular L, en función de sus valores res- 
+pectivos a la temperatura 7, y el coeficiente de dilatación lineal œ del disco. 
+64 ese Utilizando los resultados del problema 18, escribir un programa 
+de hoja de cálculo para hacer una gráfica de la temperatura de la Tierra en fun- 
+ción de la emisividad. ¿Cuánto ha de variar la emisividad para que la tempera- 
+tura media se eleve 1 K? Esto se podría considerar como un modelo del efecto 
+del aumento de concentraciones de gases como el metano y el CO, en la atmós- 
+fera terrestre (efecto invernadero). 
+65 ese Un pequeño estanque tiene una capa de hielo de 1 cm de espesor 
+flotando sobre él. (a) Si la temperatura del aire es —10 °C, hallar la velocidad en 
+centímetros por hora con que aumenta el espesor del hielo por su parte inferior. 
+La densidad del hielo es 0,917 g/cm*. (b) ¿Cuánto tiempo tardará en formarse 
+una capa de hielo de 20 cm de espesor? 
+66 @@@ SSM Dos recipientes de cobre de 200 g de masa, que contie- 
+nen cada uno de ellos 0,7 L de agua, se conectan entre sí mediante una barra de 
+cobre de 10 cm de largo y una sección recta de 1,5 cm? de área. Inicialmente el 
+primer recipiente está a Ty = 60 °C. El segundo está lleno de una mezcla de 
+hielo y agua, de forma que su temperatura se mantiene a 0 °C. (Suponer que la 
+capacidad calorífica de la barra es despreciable.) (a) Demostrar que la tempera- 
+tura T del primer recipiente varía con el tiempo f de acuerdo con 
+T= he -HRC 
+en donde 7 es la temperatura en grados Celsius, R es la resistencia térmica de la 
+barra y C es la capacidad calorífica total del recipiente más el agua. (b) Calcular 
+R, C y la “constante de tiempo” RC. (c) Demostrar que la cantidad total de 
+calor O conducida al cabo de un tiempo res 
+Q = CT,(1-e***) 
+(d) Utilizando una hoja de cálculo representar gráficamente T(t) y Q(t); a partir 
+de la gráfica, hallar el tiempo que tarda en reducirse la temperatura del primer 
+recipiente a 30 °C. 
+67 ese Un cubo de cobre ennegrecido de | cm de arista se calienta a una 
+temperatura de 300 *C y a continuación se coloca en una cámara de vacío cuyas 
+paredes están a una temperatura de 0 °C. En la cámara de vacío el cubo se 
+enfría emitiendo radiación. (a) Demostrar que la temperatura absoluta del cubo 
+obedece la ecuación diferencial: 
+dT __£0A a_r: dt cr 15) 
+en la que C es la capacidad calorífica del cubo, A es el área de su superficie, e la 
+emisividad y 7, la temperatura de la cámara de vacío. (b) Utilizando el método 
+de Euler, resolver numéricamente la ecuación diferencial para obtener T(r) y 
+representarla gráficamente. Suponer e = 1. (El método de Euler se trata en la 
+sección 4 del capítulo 5). ¿Cuánto tardaría el cubo en enfriarse hasta una tem- 
+peratura de 15 °C?
+
+RELATIVIDAD ESPECIAL Capitulo 
+R.1 El principio de 
+relatividad y la 
+constancia de la 
+velocidad de la luz 
+R.2 Barras en movimiento 
+R.3 Relojes en movimiento 
+R.4 Mas sobre barras en 
+movimiento 
+R.5 Relojes lejanos y 
+simultaneidad 
+R.6 Aplicación de las 
+reglas 
+R.7 Momento, masa y 
+energía relativistas STS 109-335-020 (1 
+misión STS 109, duerme e 
+velocidad orbital del transbordador es de unos 7,7 k 
+ión de la velocidad de la luz, c= 3 x 10% km/s 
+Si un astronauta en una nave espacial que viaja a una velocidad de 0,6c respecto a la Tierra 
+duerme una siesta de una hora, ¿dura también una hora dicha siesta para un observador te- 
+rrestre? (Véase el ejemplo R.1.) 
+La teoría de la relatividad consta de dos teorías bien diferenciadas: la de la relatividad 
+especial y la de la relatividad general. La teoría especial, desarrollada por Einstein y otros 
+autores en 1905, se ocupa de la comparación de medidas hechas desde distintos sistemas 
+de referencia inerciales que se mueven con velocidades constantes los unos respecto a los 
+otros. Sus consecuencias, que pueden deducirse con un mínimo de matemáticas, son apli- 
+cables a una gran variedad de situaciones que se dan tanto en física como en ingeniería. 
+Por otro lado, la teoría general, desarrollada también por Einstein y otros hacia 1916, se 
+ocupa de sistemas de referencia acelerados y de la gravitación. Una comprensión com- 
+pleta de la teoría general requiere matemáticas complicadas y sus aplicaciones aparecen 
+sobre todo dentro del área de la gravitación. 
+«” En este capítulo nos centramos en la teoría especial de la relatividad (llamada 
+también relatividad especial o restringida). A principios del siglo XX, la teoría espe- 
+cial de la relatividad fue acogida por algunos con entusiasmo, pero para otros mu- 
+chos era aceptada a regañadientes o rechazada por alocada. Actualmente, no sólo es 
+amplisimamente aceptada, sino que se la considera como una ventana que nos per- 
+mite ver el funcionamiento de la naturaleza. Veremos cómo dicha teoría desafía 
+nuestra experiencia cotidiana acerca del tiempo y las distancias cuando describa- 
+mos la ralentización de los relojes en movimiento, el acortamiento de las barras mó- 
+viles, la relatividad de la simultaneidad de sucesos alejados y la relatividad del 
+momento y la energía.
+
+R-2 Capitulo R Relatividad especial 
+R.1 El principio de relatividad y la constancia de la 
+velocidad de la luz 
+El principio de relatividad puede enunciarse así: 
+Es imposible diseñar un experimento que establezca si uno se halla en reposo o en movi- 
+miento uniforme. 
+POSTULADO l, EL PRINCIPIO DE RELATIVIDAD 
+Movimiento uniforme es el que se realiza a velocidad constante respecto a un sistema de 
+referencia inercial. Por ejemplo, supongamos que estamos sentados en un avión que viaja a 
+velocidad uniforme y muy elevada respecto a la superficie terrestre. Si soltamos un tenedor, 
+éste caerá hacia el suelo del avión de manera exactamente igual a como lo haría si el avión se 
+encontrara aparcado en la pista. Cuando el avión está volando, podemos considerar que 
+nosotros mismos y el avión estamos conjuntamente en reposo y que es la superficie de la 
+Tierra que tenemos debajo la que se mueve. No hay nada que permita discernir si somos 
+nosotros y el avión los que nos movemos y la superficie terrestre está en reposo, o viceversa. 
+Todo sistema de referencia en el que una partícula sobre la que no actúa fuerza alguna se 
+mueve con velocidad constante es, por definición, un sistema de referencia inercial.' La super- 
+ficie de la Tierra es un sistema de referencia inercial en buena aproximación. El avión también 
+lo es, siempre y cuando viaje a velocidad constante respecto a la superficie terrestre. Mientras 
+permanezcamos sentados (o quietos y en pie) en el avión, tanto podemos considerar que somos 
+nosotros mismos y el avión los que estamos en reposo y la superficie terrestre se mueve, como 
+que nos movemos nosotros y el avión y que la superficie terrestre está en reposo. 
+Durante el siglo XIX se aceptaba ampliamente que existía un sistema de referencia privi- 
+legiado que podía considerarse en reposo. Se pensaba que este sistema de referencia era el 
+del éter, el medio que rellenaba todo el espacio y a través del cual se suponía que se propa- 
+gaba la luz. (Se creía entonces que la ondas luminosas necesitaban de un medio a través del 
+cual propagarse, tal y como hoy creemos que pasa con el sonido, que requiere del aire o de 
+otro medio material para su propagación.) El éter se consideraba el sistema de referencia pri- 
+vilegiado, “en reposo”. 
+En 1887 Albert Michelson y Edward Morley realizaron una serie de medidas cuidadosa- 
+mente diseñadas para determinar la velocidad orbital de la Tierra respecto al éter. Se consi- 
+deraba que estas medidas eran muy difíciles dado que la velocidad orbital de la Tierra es 
+inferior a una diezmilésima parte de la velocidad de la luz en el vacío. Con gran sorpresa 
+para la inmensa mayoría, las medidas siempre indicaban que la velocidad relativa entre Tie- 
+rra y éter era nula. Albert Einstein aportó entonces una teoría consistente con estas medidas. 
+Se explicaban admitiendo que la luz era capaz de propagarse en el espacio vacío y que el éter 
+era un concepto innecesario y que no existía. Además, Einstein postuló: 
+La velocidad de la luz es independiente de la velocidad del foco que la emite. 
+POSTULADO II 
+Por velocidad de la luz entendemos la velocidad con la que la luz se propaga a través del 
+espacio vacío. 
+Una consecuencia del Postulado II y del principio de relatividad es que todos los obser- 
+vadores inerciales miden el mismo valor para la velocidad de la luz. (Un observador inercial 
+es aquél que permanece en reposo en un sistema de referencia inercial.) Para comprobar que 
+todos los observadores inerciales determinan el mismo valor de la velocidad de la luz, consi- 
+deremos los observadores inerciales A y B, que se mueven uno con relación al otro. El prin- 
+cipio de relatividad afirma que es imposible diseñar un experimento para establecer si un 
+observador inercial está en reposo o moviéndose uniformemente. Si los observadores A y B 
+midieran valores distintos para la velocidad de la luz, dichos observadores A y B no podrían 
+entonces considerarse ambos en reposo -una conclusión que contradice claramente el princi- 
+' En los capítulos 2 y 4 se amplía el estudio de sistemas de referencia.
+
+pio de relatividad. Asi pues, una consecuencia conjunta del principio de relatividad y del 
+Postulado II (que la velocidad de la luz es independiente de la velocidad del foco) es la cons- 
+tancia de la velocidad de la luz: 
+La velocidad de la luz c es la misma en cualquier sistema de referencia inercial. 
+CONSTANCIA DE LA VELOCIDAD DE LA LUZ 
+Además, cualquier móvil (y no sólo la luz) que viaje a velocidad c respecto a un sistema de 
+referencia inercial, viaja también a la misma velocidad c respecto a cualquier otro sistema de 
+referencia inercial. 
+Supongamos que estamos en el patio de nuestra casa y que Luis viaja en una nave espa- 
+cial que se aleja de nosotros a la mitad de la velocidad de la luz (0,5c). Enfocamos una 
+lámpara, que emite flashes de luz, en la dirección de Luis y la encendemos. La luz sale de la 
+lámpara, viajando a velocidad c (relativa a la lámpara), y pasa cerca de Alicia, que se 
+encuentra en la azotea de la casa de al lado. Alicia mide la velocidad de estos flashes de luz y 
+determina el valor c. Al cabo de unos minutos la luz alcanza a Luis y su nave. Al igual que 
+Alicia, Luis mide también la velocidad de los flashes de luz y determina el mismo valor c. 
+Esto le sorprende, porque Luis esperaba que la luz que viajaba tras él lo hacía, no a veloci- 
+dad c, sino más bien a 0,5c (después de todo, Luis se mueve a velocidad 0,5c respecto al 
+foco luminoso, la lámpara de flashes que tenemos en el patio). Al igual que muchos, Luis 
+considera antiintuitiva esta constancia de la velocidad de la luz. Esto le crea un dilema. ¿Ha 
+de confiar en sus aparatos de medida o ha de confiar en su intuición? Resulta que es la intui- 
+ción de Luis, y no sus instrumentos, lo que habrá que reajustar. Luis debe cambiar tanto sus 
+conceptos de espacio como de tiempo. 
+Supongamos que en lugar de apuntar con un haz de luz lo hacemos en la misma direc- 
+ción con un emisor de partículas que viajan, unas tras otras, a altísima velocidad, enten- 
+diendo como tal una velocidad muy cercana a la de la luz c, (Una partícula como un electrón 
+o un protón no puede viajar a la velocidad de la luz, pero puede hacerlo a velocidades extre- 
+madamente cercanas a ésta.) Si Alicia mide que las partículas que pasan por su lado viajan a 
+la velocidad de 0,9999c (relativa a ella), ¿qué velocidad medirá Luis para las partículas que 
+pasan junto a él? La intuición de Luis le dice que, dado que él se aleja del foco emisor de 
+partículas, éstas pasarán por su lado más lentamente, a una velocidad de 0,4999c. Pero no es 
+así. Cuando Luis mide la velocidad de las partículas encuentra un valor muy cercano a 
+0,9999c. (De hecho, encuentra 0,9997c.)! 
+Solemos pensar que las distancias entre ciudades son invariables. Pero esto tampoco es así. 
+Según cierto mapa de carreteras, entre Baltimore y Philadelphia hay 160 km. Sin embargo, si 
+viajáramos de Baltimore a Philadelphia a una velocidad cercana a la velocidad de la luz, la 
+distancia entre estas dos ciudades sería más corta de lo que es si viajamos a 100 km/h. Para 
+quien conduzca a 100 km/h, la distancia entre Baltimore y Philadelphia es muy cercana a 
+160 km. Pero para alguien que viajara a una velocidad de 0,866c (relativa a la superficie 
+terrestre), la distancia sería de sólo 80 km, y para quien viajara a 0,9999c, la distancia sería 
+solamente de 2,2 km. 
+La máxima velocidad respecto a la Tierra que ha alcanzado jamás un ser humano (se 
+alcanzó durante la misión Apollo a la Luna) es solamente de unos 10 km/s = 3,3 x 107 c. 
+Frente a la velocidad de la luz, esta velocidad es tan pequeña que para alguien que viaje a esa 
+velocidad de Baltimore a Philadelphia, la distancia entre estas ciudades se acortaría en menos 
+del diámetro de un cabello humano. En las tres secciones siguientes se exponen los razona- 
+mientos que nos llevan a estas conclusiones. 
+R.2 Barras en movimiento 
+Vamos a comprobar que si una barra se mueve en la dirección perpendicular a su propia lon- 
+gitud, esta longitud no cambia. Lo hacemos mostrando que cualquier aumento o disminu- 
+ción de la longitud contradice el principio de relatividad. Puede parecer intrascendente 
+' La velocidad relativa en relatividad especial se estudia en el capítulo 37. 
+R.2 Barras en movimiento | R-3
+
+R-

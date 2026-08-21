@@ -1,0 +1,2011 @@
+Tema: Rotación (Capítulo 9 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+248 | Capítulo 9 Rotación 
+Figura 9.1 
+Linea de referencia 
+Figura 9.2 
+lar a su superficie y que pasa por su centro (figura 9.1). Sea 7; la distancia desde el centro del 
+disco a la partícula i (figura 9.2), y sea 8; el ángulo medido en el sentido contrario al de la rota- 
+ción de las agujas del reloj entre la línea radial que une la partícula con el eje de rotación y una 
+línea de referencia fija en el espacio. Cuando el disco gira un ángulo d@, la partícula se mueve 
+un arco circular de longitud ds; de tal manera que se cumple 
+ds; = r; lda (9.1) 
+en donde @ se mide en radianes. Las distancias ds, varían de una partícula a otra, pero el 
+ángulo d6, llamado desplazamiento angular, es el mismo para todas las partículas del 
+disco. Para una revolución completa, la longitud del arco As, es 277, y el desplazamiento 
+angular A@ es 
+A0 = == = 2m rad = 360° = I rev 
+La variación del ángulo respecto al tiempo es la misma para todas las partículas del disco 
+y se denomina velocidad angular ( del mismo: 
+(9.2) 
+DEFINICIÓN —VELOCIDAD ANGULAR 
+donde @ es la minúscula de la letra griega omega. Para rotaciones en sentido contrario a las 
+agujas del reloj, O crece y Wes positiva. Para rotaciones en sentido horario, O decrece y wes 
+negativa. Las unidades de @ son los radianes por segundo. (En el capítulo 10 veremos que 
+para rotaciones en general, la velocidad angular es una magnitud vectorial que apunta a lo 
+largo del eje de rotación.) Como el radián es una unidad adimensional, las dimensiones de la 
+velocidad angular son las de la inversa del tiempo, [T]-'. Frecuentemente la rotación se des- 
+cribe mediante revoluciones por minuto (rev/min o rpm). Para convertir entre sí revolucio- 
+nes, radianes y grados, basta recordar que 
+l rey = 27 rad = 360° 
+Ejercicio Un disco CD-ROM está girando a 3000 revoluciones por minuto. ¿Cuál es la 
+velocidad angular en radianes por segundo? (Respuesta 314 rad/s.) 
+La variación de la velocidad angular respecto al tiempo se denomina aceleración angular œ: 
+(9.3) 
+DEFINICIÓN —ACELERACION ANGULAR 
+Las unidades de la aceleración angular son radianes por segundo por segundo (rad/s?). La 
+aceleración angular es positiva si la velocidad angular ( crece y negativa si @ decrece. 
+Las tres magnitudes angulares —desplazamiento angular 6, velocidad angular @ y acele- 
+ración angular @— son análogas a las magnitudes lineales —desplazamiento lineal x, veloci- 
+dad lineal v y aceleración lineal a— que vimos al estudiar el movimiento unidimensional. Si 
+la aceleración angular œ es constante, podemos integrar la ecuación 9.3 para determinar 0: 
+O = @+ at (9.4) 
+en donde la constante de integración @ es la velocidad angular inicial, Esta es la ecuación 
+análoga rotacional a v = vọ+ at. Integrando de nuevo, resulta 
+9 = 0, + Ot +30? (9.5)
+
+9.1 Cinemática de la rotación: velocidad angular y aceleración angular | 249 
+Trazas de estrellas en una foto de larga exposición 
+del firmamento nocturno. 
+que es la ecuación análoga rotacional de x = xy + vof + | ar, donde @ reemplaza a x, wa v y a 
+aa. De igual modo, eliminando r de las ecuaciones 9.4 y 9.5 se obtiene 
+@ = 0+20(0- 0) (9.6) 
+que es la ecuación análoga rotacional de v?= vg + 2a(x — xp). Las ecuaciones de rotación con 
+aceleración constante tienen la misma forma que las de aceleración lineal constante. 
+EJEMPLO 9.1 | Un reproductor de CD 
+Un disco compacto gira a partir del reposo a 500 rev/min en 5,5 s. (a) ¿Cuál es su aceleración 
+angular, supuesta constante? (b) ¿Cuántas revoluciones da en 5,5 s? (c) ¿Qué distancia recorre 
+un punto de la periferia del disco situado a 6 cm del centro durante los 5,5 s que tarda en 
+alcanzar las 500 rev/min? 
+Planteamiento del problema El apartado (a) es análogo al problema lineal de determinar la 
+aceleración cuando se conoce el tiempo y la velocidad final. Para expresar œ en rad/s? necesitamos 
+convertir @ en rad/s. El apartado (b) es análoga a la determinación de la distancia recorrida cuando 
+se conoce el tiempo y la velocidad final. 
+(a) 1. La aceleración angular está relacionada con las velocidades angu- @ = @+at = 0 + œt 
+lares inicial y final: 
+2. Despejar a: ns 500 rev/min | 27 rad ye min _ 
+AS í t 5,5s Irev 60s 
+(b) 1. El desplazamiento angular está relacionado con el tiempo por la 9-8, = @t+ lar? 
+ecuación 9.5: 
+1i 0+4(9,52 rad/s?)(5,5s)? = 144 rad 
+z ; : l rev 2. Convertir radianes en revoluciones: 0-0, = 144 rad x Foia 2,9 rev 27 ra 
+(c) La distancia recorrida As es igual al producto de r por el desplaza- As = r A@ = (6cm)(144 rad) =[8,64 m ] 
+miento angular:
+
+250 | Capítulo 9 Rotación 
+Comprobar el resultado La velocidad angular media en revoluciones por minuto es 250 rev/min. 
+En 5,5 s, el disco compacto gira (250 rev/60 s)(5,5) = 22,9 rev, 
+Observación Un disco compacto es barrido por un láser que comienza en el radio más interno, de 
+unos 2,4 cm, y se mueve hacia afuera hasta alcanzar el borde a 6,0 cm. A medida que el láser se 
+mueve de este modo, la velocidad angular del disco disminuye de 500 rev/min a 200 rev/min, con lo 
+cual la velocidad lineal (tangencial) del disco en el punto donde incide el rayo láser permanece cons- 
+tante. 
+Ejercicio (a) Convertir 500 rev/min a rad/s. (b) Comprobar el resultado del apartado (b) del ejem- 
+plo utilizando la expresión 4 = 4% +20(@- @). (Respuesta 500 rev/min = 52,4 rad/s.) 
+La velocidad lineal de una partícula sobre el disco es tangente a la trayectoria circular de la 
+misma y su módulo es ds/dt. A partir de las ecuaciones 9.1 y 9.2 vemos que esta “velocidad 
+tangencial” de la partícula está relacionada con la velocidad angular del disco por 
+r, d9 
+ji 
+de modo que 
+Ms r¡0 (9.7) 
+De igual modo, la aceleración tangencial de una partícula sobre el disco es 
+ase ay = f do 
+eat ' dt 
+de modo que 
+a, = 7,0 (9.8) t 
+Cada partícula del disco tiene también una aceleración centrípeta que está dirigida hacia 
+el interior a lo largo de la línea radial, y cuyo módulo es 
+v2 fx (r,@)? 
+i ri 
+de modo que 
+a, = r0 (9.9) 
+Ejercicio Un punto del borde de un disco compacto está a 6,0 cm del eje de rotación. 
+Determinar la velocidad tangencial v,, la aceleración tangencial a, y la aceleración centrípeta 
+a. de dicho punto cuando el disco gira a la velocidad angular constante de 300 rev/min. 
+(Respuesta v,= 188 cm/s, a, = 0, a, = 5,92 x 10° cm/s*.) 
+9.2 Energia cinética de rotación 
+La energía cinética de un objeto rígido que gira respecto a un eje fijo es la suma de la energía 
+cinética de las partículas individuales que colectivamente constituyen el objeto. Así, la ener- 
+gía cinética de la partícula i, de masa m; es
+
+9.2 Energía cinética de rotación 251 
+El pulsar del Cangrejo es una de las estrellas de neutrones que gira más rápido, aunque continuamente disminuye su velocidad de rotación. 
+Da la impresión de encenderse (izquierda) y apagarse (derecha), de la misma forma que la luz de un faro, con la frecuencia de 30 destellos 
+por segundo, aunque su periodo aumenta con la tasa de cambio de 10? s/año. La pérdida de la energía de rotación, que equivale a la po- 
+tencia emitida por 100 000 soles, se muestra en forma de la luz emitida por los electrones acelerados en el campo magnético del pulsar. 
+Sumando la energía cinética de todas las partículas y teniendo en cuenta que v; = 7;@ se obtiene 
+E, = S Gm?) = A mio?) = Y mir} Jo? 
+i i t 
+La suma del término de la derecha es el momento de inercia / del objeto respecto del eje de 
+rotación 
+r= Ss mir? (9.10) 
+DEFINICIÓN — MOMENTO DE INERCIA 
+E. = Ha} (9.11) 
+ENERGÍA CINÉTICA DE UN OBJETO EN ROTACIÓN 
+EJEMPLO 9.2 | Sistema de partículas en rotación 
+Un objeto consiste en cuatro partículas de masa m unidas mediante varillas ligeras sin masa 
+que forman un rectángulo de lados 2a y 2b, como se ve en la figura 9.3. El sistema gira alrede- 
+dor de un eje situado en el plano de la figura, pasando por el centro. (a) Usando las ecuaciones 
+9.10 y 9.11 determinar la energía cinética de este objeto. (b) Comprobar el resultado calcu- 
+lando la energía cinética de cada partícula y sumándola hasta obtener la energía cinética total.
+
+252 | Capítulo 9 Rotación 
+Eje de rotación Eje de rotación 
+Ma 
+4 ' 
+p A 3 >) i i : 
+Figura 9.3 Figura 9.4 
+Planteamiento del problema Se sabe que el objeto está formado por partículas individuales, por 
+lo tanto se usa primero la ecuación 9.10 para calcular / y, posteriormente, la ecuación 9.11 para el cál- 
+culo de E... En la ecuación 9.10, r; es la distancia radial entre eje de rotación y la partícula de masa m; 
+(a) 1. Aplicar la definición de momento de inercia a las partículas dis- 7 = Y my? = mr] +mor3+myri+myri 
+cretas (ecuación 9.10): t 
+2. Las masas m, y las distancias r; son conocidas: MASSA 
+y= p= Ram = 2 
+3. Aplicando estos valores se obtiene el momento de inercia: I = ma? +ma* + ma? + ma? = 4ma? 
+E. = 110? = 14ma2@ =[2ma2or $ 2 2 
+(b) 1. Para determinar la energía cinética de la partícula i primero tene- E, = Lmv 
+mos que calcular su velocidad: A 
+4. Despejar la energía cinética usando la ecuación 9.11: 
+2. Las partículas se mueven en círculos de radio a. Determinar la v; = r;@ = aw (=l, ..., 4) 
+velocidad de cada partícula: 
+3. Sustituir en el paso 1 del apartado (b): E, = mv? = ¿ma? 
+: r m I 1 1 I 4. Cada partícula tiene la misma energía cinética. Para obtener la E. = Y E. = MVE + 5MAVE + ¿M3 VE + 5M AVI 
+energía cinética total se suman todas las energías: pal 
+4(ma?o?) = 2ma?0? 
+Los dos cálculos dan el mismo resultado 
+Observación El momento de inercia / es independiente de la longitud b, pues ésta no está rela- 
+cionada con la distancia de las masas al eje de rotación. 
+5. Se compara con el resultado del apartado (a): 
+Ejercicio Determinar el momento de inercia de este sistema si la rotación se verifica alrededor de 
+un eje paralelo al del ejemplo anterior, pero que pasa a través de dos de las partículas, como se indica 
+en la figura 9.4. (Respuesta [= 8ma?.) 
+9.3 Cálculo del momento de inercia 
+El momento de inercia es una medida de la resistencia de un objeto a experimentar cambios 
+en su movimiento de rotación respecto de un eje. Es el análogo rotacional de la masa. El 
+momento de inercia depende de la distribución de la masa dentro del objeto respecto al eje 
+de rotación. Cuanto más lejos está la masa del eje, mayor es el momento de inercia. Así, al 
+contrario que la masa de un objeto, que es una propiedad del mismo objeto, su momento de 
+inercia depende de la localización del eje de rotación.
+
+9.3 Calculo del momento de inercia 253 
+Sistemas de particulas discretas 
+El momento de inercia respecto a un eje determinado de aquellos sistemas formados por par- 
+ticulas discretas puede calcularse directamente mediante la ecuación 9.10. 
+Sistemas continuos 
+Para calcular el momento de inercia en sistemas continuos, imaginemos que un objeto con- 
+siste en un continuo de elementos de masa muy pequeños. Así, la suma finita Em,r? de la 
+ecuación 9.10 se transforma en la integral 
+[= Í r2dm (9.12) 
+donde r es la distancia al eje de rotación del elemento de masa dm. 
+EJEMPLO 9.3 | Momento de inercia de una barra uniforme 
+Determinar el momento de inercia de una barra uniforme de longitud L y masa M alrededor yi 
+de un eje perpendicular a la barra que pasa por uno de sus extremos. Suponer que la barra j 
+tiene un espesor despreciable. 
+Planteamiento del problema Supongamos que la barra está orientada según el eje x con su 
+extremo en el origen. Para calcular alrededor del eje y, elegimos un elemento de masa dm a una dis- 
+tancia x del eje (figura 9.5). Como la masa total M está uniformemente distribuida a lo largo de la 
+longitud L, la masa por unidad de longitud (densidad de masa lineal) es A = M/L. 
+1. El momento de inercia viene dado por la integral: f= f x? dm 
+Figura 9.5 
+2. Para calcular la integral, relacionar primero dm con dx. Escribir dnen dm = À dx = 
+función de la densidad À y dx: 
+3. Sustituir y realizar la integración. Se eligen los límites de integración 1, = iby x? dm = i x T dx = 7 k x? dx 
+de tal forma que dm recorre la distribución de masa en la dirección cre- 
+ciente de x: 
+Observación El momento de inercia alrededor del eje z es también 1 ML?, y el correspondiente al 
+eje x es cero si suponemos que toda la masa está sobre el eje x. i 
+Mediante el uso de la ecuación 9.12 se puede calcular / para objetos continuos de formas 
+diversas (véase la tabla 9.1). 
+*Anillos respecto a un eje perpendicular que pasa por su centro Conside- 
+remos un anillo de masa M y radio R (figura 9.6). El eje de rotación es el eje del anillo, per- 
+pendicular al plano del mismo. Toda la masa se encuentra a una distancia r = R y el 
+momento de inercia es 
+[= Í r? dm = jr dm = R? | dm = MR? 
+*Disco uniforme respecto a un eje perpendicular que pasa por su centro En 
+el caso de un disco uniforme de masa M y radio R es lógico que / deba ser menor que MR?, 
+ya que la masa está distribuida uniformemente-de r = 0 a r = R, mientras que en el anillo 
+Figura 9.6
+
+254 | Capítulo 9 Rotación 
+TABLA 9.1 Momentos de inercia de cuerpos uniformes de formas diversas 
+Cilindro hueco de pared delagada Cilindro hueco respecto a un diáme- Barra delgada respecto a un eje per- Esfera hueca respecto al diámetro 
+respecto a su eje tro que pasa por su centro pendicular que pasa por su centro (pared delgada) 
+I =$ MR? 
+l= MR? 
+Cilindro sólido respecto a su eje Cilindro sólido respecto a un diáme- Barra delgada respecto a un eje per- Esfera sólida respecto al diámetro 
+tro que pasa por su centro pendicular que pasa por su extremo 
+À R 
+= Lygp2 j I=}MR r < MR 
+I =4MR?+ ML? 
+Cilindro hueco de pared gruesa res- Cilindro hueco de paredes gruesas Paralelepípedo sólido rectangular 
+pecto a su eje respecto a un diámetro que pasa por respecto a un eje que pasa por el cen- 
+su centro tro perpendicular a la cara 
+R, 
+I = 4M(R? + R) 
+I = 1M(Ri+R3) + ¿ML? =M(a? +b?) 
+Un disco es un cilindro cuya longitud L es despreciable. Poniendo L = 0, las fórmulas anteriores para cilindros sirven para los discos. 
+y 
+estaba concentrada en r = R. En la figura 9.7 cada elemento de masa es un anillo de radio r y 
+espesor dr. El momento de inercia de cualquiera de estos elementos de masa es 1? dm. Como 
+el disco es uniforme, la masa por unidad de área d'es constante, O = M/A, en donde A = zR? 
+es el área del disco. Como el área de cada elemento es dA = 2 zr dr, su masa será: 
+dm odA = oar dr 
+Asi tenemos, 
+li 
+, 
+x nw y ll f r?o2nrdr = 20] rdr 
+0 Figura 9.7 
+4 
+s 20M RY _ AM ps _ ip 
+A 4 27R? 2
+
+9.3 Calculo del momento de inercia | 255 
+*Cilindro uniforme respecto al eje Consideremos que un cilindro está formado 
+por una serie de discos, cada uno de masa dm y momento de inercia | dm R? (figura 9.8). El 
+momento de inercia del cilindro completo es, por lo tanto, 
+en donde M es la masa total del cilindro. 
+Teorema de los ejes paralelos 
+Con frecuencia es posible simplificar el cálculo de los momentos de inercia de diversos cuer- 
+pos utilizando el llamado teorema de los ejes paralelos, que relaciona el momento de iner- 
+cia respecto a un eje que pasa por el centro de masas de un objeto, con el momento de inercia 
+respecto a otro eje paralelo al primero (figura 9.9). Sea /.,, el momento de inercia respecto al 
+eje que pasa por el centro de masas de un objeto de masa total M, e / el correspondiente a un i 
+eje paralelo situado a la distancia h del primero. El teorema de los ejes paralelos establece i 
+que Figura 9.8 
+Sh 
+I = 1, +Mh? (9.13) 
+TEOREMA DE LOS EJES PARALELOS 
+El ejemplo 9.2 y el ejercicio siguiente ilustran un caso especial de este teorema con h = a, 
+M = 4m e lam = 4ma?. Al final de esta sección se incluye una deducción de este teorema. 
+Figura 9.9 Un objeto gira alrededor de un eje pa- 
+ralelo a otro que pasa por el centro de masas y está 
+a una distancia / del primero. 
+EJEMPLO 9.4 | Momento de inercia alrededor de un eje que pasa jINTENTELO USTED MISMO! 
+por el centro de masas de una barra uniforme 
+Determinar el momento de inercia de una barra uniforme alrededor del eje y' que pasa por el 
+centro de masas (figura 9.10). 
+Planteamiento del problema Sabemos que /= t ML? respecto a un extremo y deseamos deter- 
+minar /,,,,. Utilizaremos el teorema de los ejes paralelos, siendo h = 5L 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Aplicar el teorema de los ejes paralelos expresando / en función de Lm. l = Lem + Mh? 
+2. Sustituir /= | ML? y despejar Im: Io, = 1-Mh2 = 5M1? -m y =| ¿ML 
+Observación El momento de inercia es mínimo cuando un objeto gira alrededor de su centro de 
+masas, como en este ejemplo. Comparar este resultado con el del ejemplo 9.3, donde la barra uni- 
+forme gira alrededor de un eje que pasa por uno de sus extremos, 
+Ejercicio Usando el teorema de los ejes paralelos, demostrar que cuando se comparan los momen- 
+tos de inercia de un objeto respecto dos ejes paralelos, el momento de inercia menor se da respecto 
+del eje de rotación que está más próximo al centro de masas. 
+*Demostración del teorema de los ejes paralelos 
+Para probar el teorema de los ejes paralelos empezamos considerando un objeto y un eje A, 
+como se muestra en la figura 9.11, Elegimos como origen el centro de masas, con el eje z para- 
+lelo al eje A. Entonces / es el momento de inercia respecto de A e [.,,,, es el momento de inercia
+
+256 | Capítulo 9 Rotación 
+respecto del eje z. La masa m; está en el punto de coordenadas (x; y; z;) y la intersección del 
+eje A con el plano xy tiene coordenadas xy, y4. Las distancias 7; y R; son las distancias per- 
+pendiculares desde m; al eje A y al eje z, respectivamente, y / es la distancia perpendicular 
+entre los ejes. Se obtiene que 7; es la distancia desde (x4, Y4, 0) hasta (x; y; 0), R; es la distan- 
+cia desde (0, 0, 0) hasta (x; y; 0), y h es la distancia desde (0, O, 0) hasta (x4 ya, 0). Así, 
+Figura 9.11 
+Lan a Y m¡R? 
+r? = (x;— x4)? +(y;-y,4)?, R} = x? +y? y h? = x} + y}. En consecuencia, 
+= S m(x? + y?) 
+[= $ my? = Y mix +03 
+=> 2 32 - .v -2 92 = S mx; + yf)- Y m2x,x, - Y m2yya + S mx3 + yi) 
+Sacando el factor común de estas sumas se obtiene 
+f= S mx? + y?) - 2x, Y m,x, -= 2y4 > my, = CY m) +y4) 
+El primer término es /,,,. El segundo y el tercer términos pueden simplificarse usando 
+2mM¡x; = MX y UM; = MY cm. Además, COMO Xem = Vem = 0, tanto el segundo como el 
+tercer término se anulan. El cuarto término vale Mh- y resulta 
+I = 1, + Mh? 
+que es el teorema de los ejes paralelos. 
+EJEMPLO 9.5 | Un coche híbrido 
+Supongamos que usted conduce un coche híbrido experimental diseñado para ser utilizado en 
+condiciones de tráfico denso en una ciudad. En un coche convencional cada vez que se accio- 
+nan los frenos para parar, la energía cinética del vehículo se disipa en forma de calor. En un 
+vehículo híbrido, el mecanismo de freno transforma la energía cinética de traslación del movi- 
+miento del vehículo en energía de rotación de un volante o cilindro inercial muy pesado. 
+Cuando el coche recupera su velocidad de crucero esta energía se transfiere de nuevo a energía 
+cinética de traslación del vehículo. De hecho, el cilindro, de 100 kg, es un cilindro hueco que 
+tiene un diámetro inferior R} de 25 cm, un diámetro exterior R, de 40 cm, y una velocidad 
+máxima de rotación de 30 000 rev/min. Una noche oscura y desapacible, el coche agota su gaso- 
+lina a 22,5 km de casa con el volante inercial girando a su velocidad maxima, ¿Tiene el vehí- 
+culo suficiente energía almacenada para que usted y su nerviosa abuela lleguen a casa? 
+(Cuando el coche se mueve a la velocidad mínima permitida en la autopista, 60 km/h, la resis- 
+tencia del aire y el rozamiento por rodadura disipan energía a 10 kW.) 
+Planteamiento del problema La energía cinética se calcula directamente de la expresión 
+E. = =1@°. 2 
+¡PÓNGALO EN SU CONTEXTO! 
+1. La energía cinética de rotación es: E, = Ho? 
+2. Calcular el momento de inercia del cilindro hueco: T= im(R? + R3) = 11,1 kg + m? 
+3. Convertir @ en rad/s: @ = 30000 rev/min = 3140 rad/s 
+4. Aplicar estos valores para obtener la energía cinética: Ee y a = 54,8 MJ 
+5. La energía se disipa a 10kW si se circula a la velocidad de 60 km/h. Ax = v At, porlotanto, Ar = 1350s 
+Para determinar la energía disipada durante los 22,5 km, primero tene- 
+mos que determinar el tiempo necesario para el viaje: 
+6. La energía se disipa a 1OKW durante 1350 s. La energía disipada total 13,5 Mj 
+es: 
+7. ¿Hay suficiente energía en el cilindro inercial? 54.8 MJ son aprovechables y 13,5 MJ se disipan. 
+- Sí, hay más que suficiente energía almacenada.
+
+9.3 Cálculo del momento de inercia 257 
+Observación En un galón de gasolina (3,8 1) hay 130 MJ de energía. Si el motor tiene una efi- 
+ciencia del 10%, para mover el vehículo sólo se aprovechan 13 MJ por galón de gasolina. Por lo 
+tanto, a partir de los datos del ejercicio anterior se deduce que con un galón de gasolina se recorren 
+22,5 km. 
+EJEMPLO 9.6 | El pivote 
+Una barra delgada y uniforme de longitud L y masa M pivota por uno de sus extremos. Se 
+coloca en posición horizontal y se deja en libertad (figura 9,12), Se supone que no hay roza- 
+miento en el pivote. Determinar (a) la velocidad angular de la barra cuando alcanza su posi- 
+ción vertical, y (b) la fuerza que ejerce el pivote en ese instante. (c) ¿Qué velocidad angular 
+inicial se necesita para que la barra alcance la posición vertical al final de su oscilación? 
+Planteamiento del problema (a) Cuando la barra cae, su energía potencial disminuye y su 
+energía cinética aumenta. Como el pivote no ejerce rozamiento, se usa la conservación de la energía 
+mecánica, La velocidad angular de la barra se determina a partir de la energía cinética de rotación. 
+(b) Para determinar la fuerza sobre el pivote se aplica la segunda ley de Newton al sistema. (c) Al 
+igual que en el apartado (a), se usa la conservación de la energía mecánica. 
+(a) 1. Dibujar un diagrama de la barra que muestre sus configuraciones 
+inicial y final (figura 9.12). Colocar un eje de coordenadas vertical 
+de forma que la dirección hacia arriba sea positiva y con el origen 
+en el eje de rotación. 
+Figura 9.12 
+2. Aplicar la conservación de la energía mecánica para relacionar las E¿+U¿= E. +U; 
+energías mecánicas inicial y final. 
+5 A 510? + MeV ¢ = 310? +M8Yen j 
+1 EY O sla? +Me(-5) = 0+0 
+3. Despejar (y: W= NT 
+MgL 3 
+4. Obtener a partir de la tabla 9.1 y sustituir en el resultado del paso @p = a = T 
+3: 3 
+(b) 1. Dibujar un diagrama de fuerzas en la barra cuando ésta pasa por la 
+posición vertical (véase la figura 9.13). 
+2. Aplicar la segunda ley de Newton a la barra y al pivote. Cuandola Y Fax, = Maem 
+barra está en posición vertical por debajo del pivote, la acelera- p _ Mg = Mam 
+ción del centro de masas va en la dirección centrípeta (positiva): 
+3. Relacionar la aceleración del centro de masas con la velocidad a, = rw? 
+angular usando a, = ra. Sustituir el resultado del paso 4 del L3% 3 
+apartado (a) para ( y despejar a.m: Ca 5 7 58 Figura 9.13 
+4. Sustituir en el resultado del apartado 2 del apartado (b) y calcular Fp = Mg+Ma,,, = Mg+M 38 
+ee p "F 
+P (c) 1. La velocidad angular inicial œ; está relacionada con la energía E, = sl w? 
+cinética inicial: 
+2. Dibujar un diagrama de la barra que muestre las configuraciones 
+inicial y final (figura 9.14). Poner un eje de coordenadas vertical 
+con el origen en el eje de rotación y la dirección positiva dirigida 
+hacia arriba. 
+3. Aplicar la conservación de la energía mecánica, con E, =0y U;=0, E, + Up = E, +U; 
+para relacionar la energía cinética inicial con la posición final: 1 
+Lo + M8) cm Aird 510? + M8Yem i 
+¿O AES 
+ARO Figura 9.14
+
+258 Capitulo 9 Rotación 
+4. Despejar la velocidad angular inicial. O = [MeL = MEL. | 5 i I ; ML? L 
+Observación No es una coincidencia que las respuestas de los apartados (a) y (c) sean idénticas. 
+La disminución de la energía potencial en el apartado (a) es igual al incremento de la energía poten- 
+cial en el apartado (c). Así, el incremento de la energía cinética del apartado (a) es igual a la dismi- 
+nución de la energía cinética en el apartado (c). 
+EJEMPLO 9.7 | El torno y el cubo ¡INTÉNTELO USTED MISMO! 
+En la cubierta de un pozo hay un torno cuyo tambor tiene de masa m, y radio R. Virtualmente 
+toda la masa del tambor se concentra a una distancia R del eje. Alrededor del tambor se enro- 
+lla un cable de masa m, y de longitud L, de donde cuelga un cubo de agua de masa m,. Cuando 
+el cubo está arriba, a usted le resbalan las manos y el cubo cae por el pozo, desenrollando el 
+cable. Cuándo el cubo ha caído una distancia d (d < L), ¿a qué velocidad se mueve el cubo? 
+Planteamiento del problema Cuando el cubo con el agua cae, la energía mecánica se con- 
+serva. Se supone que la energía potencial inicial es cero. Cuando el cubo ha caído una distancia d, el 
+centro de masas del cable ha bajado d/2 y, dado que la parte del cable que cuelga se mueve con velo- 
+cidad v y el cable no se deforma, todo el cable debe moverse a v. Determinamos v a partir de la con- 
+servación de la energía mecánica. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Dibujar un diagrama del sistema en sus configuraciones inicial y final, Antes 
+como se muestra en la figura 9.15. Incluir un eje y con su origen a la 
+misma altura del eje del torno. 
+Figura 9.15 
+2. Aplicar el principio de conservación de la energía mecánica. Elegir U,+&. = U, +E, 
+como origen de la energía potencial cuando el cubo de agua está a la =0+0=0 
+máxima altura, 
+3. Escribir una expresión para la energía potencial total cuando el cubo Uy = Uy + Ug t+ Uy = med) +m¿8l e | +0 
+de agua ha caído una distancia d. Sea m’, la masa de cable que cuelga. t 
+= —(m, + im. ed 
+Fre PO ~ $ à 1 5 3 t 
+4. Expresar la energía cinética total cuando el cubo de agua está cayendo E., = Es +E. +E., =3moxv+ smv? + smy? 
+con velocidad v. Todo el cable y la masa del torno se mueven con la I > 
+misma velocidad v. = (mM, +m, +m,)v?
+
+9.4 La segunda ley de Newton en la rotación | 259 
+5. Sustituir en la ecuación de conservación de la energía (paso 2) y des- — (m, + tm! ed + ‘om, +m, +m,)v2 = 0 
+pejar v. j por lo tanto 
+(2m, +m¿)ed 
+VEN mtm +m 
+6. Suponer que el cable es uniforme y expresar m. en función de me d, y = = Z ME = Em, A 
+7 Tr (2m,L + m,d)gd 
++ Sustituir el resultado del paso 6 en el resultado del paso 5. y = | MAM + mL 
+Observación Todo el torno se mueve a velocidad v, La energin. cinética se puede expresar enton- 
+ces como | m?. Sin embargo, se puede. expresar también como +; 5h a”, donde /, = @= v/R. im, p y Con estas sustituciones E., = i, o? = $m iR?(V?/R?) = Imya? 
+9.4 La segunda ley de Newton en la rotación 
+Para hacer que una tapa dé vueltas, se la tiene que hacer girar. En la figura 9.16 se muestra 
+cómo se hace girar un disco mediante la aplicación de dos fuerzas F, y F, ejercidas en los 
+bordes del disco y en la dirección tangencial. La dirección y sentido de las fuerzas es impor- 
+tante. Si las mismas fuerzas se aplican en la dirección radial (figura 9.17) el disco no gira, 
+La figura 9.18 muestra una partícula de masa m atada a un extremo de una barra sin masa 
+y rígida, de longitud r. Hay un eje perpendicular a la barra y que pasa por su extremo, alrede- 
+dor del cual la barra puede girar libremente. En consecuencia, la partícula sólo se mueve en 
+un círculo de radio r, Asimismo, se aplica sobre la partícula una fuerza F, Si se aplica la Figura 9.16 
+segunda ley de Newton a la partícula y se toman componentes en la dirección tangencial se 
+obtiene 
+F, = ma, 
+Deseamos obtener una ecuación que incorpore las magnitudes angulares. Sustituyendo ra 
+por ą (ecuación 9.8) y multiplicando los dos términos por r se obtiene 
+rF, = ma (9.14) 
+El producto rF, es el momento 7 de la fuerza, es decir, 
+Figura 9.17 
+tE iy (9.15) 
+MOMENTO ` \ 2 
+Dirección —\ __-7 Jp 
+Sustituyendo en la ecuación 9.14 se obtiene tangencial xs 
+\ 
+T=mr0 (9.16) e E Partícula 
+Un objeto rígido que gira alrededor de un eje fijo es simplemente un conjunto de partículas Eje de rotación 
+individuales, cada una de las cuales está obligada a moverse en una trayectoria circular con 
+la misma velocidad angular @ y aceleración a. Aplicando la ecuación 9.16 a la partícula i de 
+ese conjunto lleva a A Barra rígida \ 
+sin masa 
+= mia Figura 9.18
+
+260 | Capítulo 9 Rotación 
+Figura 9.19 La fuerza F produce un momento 
+F.r respecto del eje que pasa por el centro. 
+Figura 9.20 La fuerza F produce un momento 
+F£, alrededor del centro. 
+en donde Tinea eS el momento debido a la fuerza neta sobre la partícula i. Sumando para 
+todas las partículas los dos términos de las expresiones anteriores conduce a 
+AE = Y mra = HH mra = la (9.17) 
+En el capítulo 8 vimos que la fuerza resultante que actúa sobre un sistema de partículas es 
+igual a la fuerza externa neta que actúa sobre el sistema, ya que las fuerzas internas (las que 
+se ejercen mutamente las partículas del sistema) se anulan por pares. El tratamiento de los 
+momentos internos que se ejercen las partículas entre sí dentro de un sistema conduce a un 
+resultado semejante, es decir, el momento resultante que actúa sobre un sistema es igual al 
+momento externo neto que actúa sobre el sistema. (Abordaremos este punto más adelante en 
+el capítulo 10.) Por lo tanto, podemos escribir la ecuación 9.17 en la forma 
+Thetaext = > Ten = la (9.18) 
+SEGUNDA LEY DE NEWTON PARA LA ROTACION 
+Esta es la segunda ley de Newton aplicada a la rotación, análoga a la aplicada al movimiento 
+lineal, £F = ma. 
+Cálculo de momentos 
+La figura 9.19 muestra una fuerza F que actúa sobre un objeto que está obligado a girar res- 
+pecto a un eje fijo A, que no se muestra, y que pasa por O y es perpendicular al papel. La 
+dirección tangencial positiva se muestra en el punto de aplicación de la fuerza, siendo r la 
+distancia radial desde este punto de aplicación hasta A. El momento 7 debido a esta fuerza 
+respecto del eje A es T= F,r (ecuación 9.15). En principio, la expresión F,r es todo lo que se 
+necesita para calcular el momento pero, sin embargo, muchas veces los cálculos son más 
+simples si se usan expresiones alternativas para el momento, como la que podemos extraer 
+de la figura: 
+F, = F sen ġ 
+en donde @ es el ángulo entre la dirección radial y la dirección de la fuerza. Así, podemos 
+expresar el momento como T = F,r = (F sen Q)r. La línea de acción de una fuerza es la línea 
+paralela a la fuerza y que pasa por el punto de aplicación de la fuerza. De la figura 9.20 
+podemos ver que r senġ = €, donde el brazo de palanca f es la distancia perpendicular 
+entre A y la línea de acción. En consecuencia, el momento viene dado también por T = F£. 
+Poniendo las tres expresiones juntas se obtiene: 
+T= Fr = Fsengr = Fl (9.19) 
+EXPRESIONES EQUIVALENTES DEL MOMENTO 
+Momento debido a la gravedad 
+Como ya se ha dicho, se puede considerar que un objeto macroscópico es un conjunto de 
+partículas microscópicas puntuales y que, sobre cada una de ellas, actúa una fuerza gravita- 
+toria microscópica. Cada una de estas fuerzas ejerce un momento microscópico respecto a 
+un eje determinado, y el momento gravitatorio neto sobre el objeto es la suma de estos 
+momentos microscópicos. El momento gravitatorio neto se calcula considerando que el peso 
+total del objeto (la suma de todas las fuerzas gravitatorias) actúa sobre un único punto: el 
+centro de gravedad. Consideremos un objeto (figura 9.21) obligado a girar respecto de un 
+eje horizontal A que va en la dirección perpendicular al papel. Elegimos, tal como se mues- 
+tra en la figura 9.21, el eje z del sistema de coordenadas de modo que coincida con el eje A, y 
+elegimos el eje x según la dirección horizontal del papel y el eje y según la dirección vertical. 
+El momento de una partícula de masa m; debido a la gravedad es m;gx;, donde x; es el brazo
+
+9.5 Aplicaciones de la segunda ley de Newton a la rotación 261 
+de palanca de la fuerza mg. El momento gravitatorio neto de un objeto es la suma de los 
+momentos gravitatorios de las partículas que lo forman, es decir, Toray = Lmjgx;. Sig tiene 
+el mismo valor en todo el objeto, g puede sacarse como factor común fuera de la suma, lo 
+cual nos lleva a Toray = (2m,x,)g. La suma entre paréntesis es (véase la ecuación 8.1) 
+Mx, Sustituyendo se obtiene 
+(9.20) 
+(a) 
+MOMENTO DE LA GRAVEDAD 
+El momento debido a un campo gravitatorio uniforme se calcula como si la fuerza gravitato- 
+ria actuara globalmente en el centro de masas, ya que el centro de gravedad coincide con el 
+centro de masas si el objeto está en un campo gravitatorio uniforme. 
+(b) 
+Figura 9.21 
+9.5 Aplicaciones de la segunda ley de Newton a la 
+rotación 
+En esta sección veremos algunas aplicaciones de la segunda ley de Newton a la rotación, 
+expresada por la ecuación 9.18, 
+Indicaciones útiles para la resolución de problemas 
+relacionados con la aplicación de la segunda ley 
+de Newton a sistemas en rotación 
+Diagrama de fuerzas Dibujar el diagrama de fuerzas en la imagen del objeto (no 
+concentrar las fuerzas en un solo punto). Dibujar cada vector fuerza a lo largo de la línea 
+de acción de la fuerza. En el diagrama indicar la dirección positiva de rotación (en el sen- 
+tido o en contra de las agujas del reloj). 
+EJEMPLO 9.8 | Una bicicleta estática 
+Una forma práctica de hacer ejercicio sin desplazarse del lugar puede conseguirse mediante 
+una bicicleta situada en un soporte, de tal modo que la rueda trasera gira libremente. Al peda- 
+lear, la cadena aplica al piñón una fuerza de 18 N a una distancia de r, = 7 cm del eje de la 
+rueda. Consideremos la rueda como un anillo (J = MR?) de radio R = 35 cm y masa 2,4 kg. 
+¿Cuál es la velocidad angular de la rueda al cabo de 5 s? 
+Planteamiento del problema La velocidad angular puede determinarse a partir de la acelera- 
+ción angular, y ésta se deduce a partir de la segunda ley de Newton de la rotación. Como las fuerzas 
+son constantes, los momentos de las fuerzas también lo serán y podemos aplicar las ecuaciones de la 
+aceleración angular constante. Obsérvese que F actúa en la dirección de la cadena, y por lo tanto, la 
+línea de fuerza es tangente de la rueda; el brazo de palanca será el radio », del piñón (véase figura 9.22). 
+1. La velocidad angular está relacionada con la aceleración y el tiempo: O = M+ Qt =0+01 Figura 9.22 
+2. Aplicar la segunda ley de Newton al movimiento de rotación para rela- © Tey =10 
+cionar œŒ con el momento neto de las fuerzas y el momento de inercia: 
+3. El único momento de fuerza que actúa sobre el sistema es la fuerza Tey = Fr, 
+aplicada F con el brazo de palanca r,:
+
+262 | Capítulo 9 Rotación 
+F 
+4. Sustituir el momento de la fuerza por este valor, y el momento de iner- @ = 5 = we 
+cia por MR?: 
+La 4 Fr, 5. Sustituir en el resultado del paso 1 y despejar y calcular @ pasados 5 s. @= 01 = an = ee 
+=] 21,4 rad/s 
+EJEMPLO 9.9 | Una barra uniforme con un pivote en un extremo 
+Una barra delgada y uniforme de longitud L y masa M pivota sobre un extremo. Se coloca en 
+posición horizontal y se deja en libertad. Se supone que no hay rozamiento en el pivote. Deter- 
+minar (a) la aceleración angular de la barra inmediatamente después de dejarla en libertad, y 
+(b) la fuerza F, ejercida por el pivote sobre la barra en ese instante, 
+Planteamiento del problema Se determina la aceleración angular a partir de la segunda ley de 
+Newton para la rotación (ecuación 9.18). Se determina la fuerza F, a partir de la segunda ley de 
+Newton para sistemas de partículas (ecuación 8.10). La aceleración tangencial del centro de masas 2 
+está relacionada con la aceleración angular (ecuación 9.5) y la aceleración centrípeta del centro de 
+masas está relacionada con la velocidad angular (ecuación 9.6). Figura 9.23 
+(a) 1. Dibujar el diagrama de fuerzas de la barra (figura 9.23). 
+2. Escribir la segunda ley de Newton para la rotación: > Tox, = 10 
+3. Calcular el momento debido a la gravedad alrededor del eje dado. Tony = M 85 
+La barra es uniforme, por lo que su centro de masas está en su 
+centro, es decir, a una distancia L/2 de su eje: 
+4. Buscar el momento de inercia respecto al extremo de la barraen J = ¿M Lz 
+la tabla 9.1: 
+5. Para calcular æ sustituir estos valores en la ecuación del paso 2: a= > = Tess = z 
+(b) 1. Escribir la segunda ley de Newton para la barra: EF cx y = Mamy 
+2. Usar la relación a, = ra? para determinar aem e- Inmediatamente a, = rw? 
+después de soltar la barra, œ= 0: L 2? 3 
+Ame = Fem” = ¿e =0 
+3. Ahora tenemos dos ecuaciones y tres incógnitas, Œ, aem y» Y Fa.  Q=rQ 
+Usar la relación a, = ræ para obtener una ecuación que relacione L 
+Gem y CON OF: Geny = e e 5 
+Mg-F, _ L3g 4. Sustituir los resultados del paso 5 apartado (a) y del paso | apar- =—2——* = 22 
+tado (b) en el resultado del paso 3 apartado (b) y despejar F4: 
+por lo tanto 
+Observación Inmediatamente después de soltar la barra, la aceleración del centro de masas 
+apunta verticalmente hacia abajo. Dado que la fuerza externa neta y la aceleración deben ir en la 
+misma dirección se sigue que F,, en ese instante, no puede tener una componente horizontal. 
+Ejercicio Una pequeña moneda de masa m << M se sitúa en la parte alta de la barra en su centro. 
+Determinar (a) la aceleración de la moneda y (b) la fuerza que ejerce sobre la barra justamente des- 
+pués de dejar la barra en libertad. (Respuestas (a}a {= 3g/4 hacia abajo, (b) f= mg/4 hacia abajo.)
+
+9.5 Aplicaciones de la segunda ley de Newton a la rotación 
+Rotación sin deslizamiento 
+Hay muchas situaciones físicas en las cuales una cuerda se arrolla a una rueda o cilindro en 
+rotación. Si la cuerda está tensa y no se desliza, su velocidad lineal debe ser igual a la veloci- 
+dad tangencial v, de los puntos de la periferia del cilindro: 
+v = R@ (9.21) 
+CONDICIÓN PARA V Y @ SIN DESUZAMIENTO 
+En un punto de una cuerda, la componente de la velocidad tangente a la cuerda es su velocidad 
+tangencial, y la componente de la velocidad perpendicular a la dirección tangente es su veloci- 
+dad transversal. Por ejemplo, si un paquete es izado desde la bodega de un barco por un sistema 
+provisto de una cuerda y una polea, tanto el paquete como todos los puntos de la cuerda entre él 
+y la polea tienen la misma velocidad tangencial que el borde de la polea y. además, todos los 
+puntos tienen velocidad transversal cero. Sin embargo, si mientras es izado, sopla viento y el 
+paquete oscila, entonces tanto él como los puntos de la cuerda tendrán, además de la velocidad 
+tangencial, una velocidad transversal. En los temas que tratamos a continuación suponemos que 
+no hay movimiento transversal (a menos que se diga explícitamente). La ecuación 9.21 sirve 
+para condiciones sin deslizamiento, por lo que su derivada con respecto del tiempo relaciona la 
+aceleración tangencial de la cuerda con la aceleración angular del borde de la polea: 
+a, = Ra (9.22) 
+CONDICIÓN PARA G Y (£ SIN DESLIZAMIENTO 
+Indicaciones útiles para la resolución de problemas 
+relacionados con la aplicación de la segunda 
+ley de Newton a sistemas en rotación 
+Tensión Debido al rozamiento y a la inercia, la tensión en una cuerda enrollada alre- 
+dedor de la rueda de una polea es mayor a un lado de la rueda que en el otro, ya que es 
+necesario que la cuerda ejerza un momento sobre la rueda para que ésta gire. Conviene, 
+pues, denominar estas dos tensiones de forma distinta, T} y T>. 
+EJEMPLO 9.10 | Tensión en una cuerda 
+Se sujeta un objeto de masa m a una cuerda ligera enrollada alrededor de una rueda de polea 
+de momento de inercia / y radio R. La rueda puede girar sin rozamiento y la cuerda no desliza 
+por su borde. Hallar la tensión de la cuerda y la aceleración del cuerpo. 
+Planteamiento del problema En este sistema, el objeto desciende con una aceleración hacia abajo 
+constante a, mientras la rueda gira con aceleración angular constante, œ (figura 9.24). Para calcular œ se 
+aplica la segunda ley de Newton para la rotación a la rueda y para obtener a se aplica la segunda ley de 
+Newton al objeto. Usando la condición de ausencia de deslizamiento se relacionan a, y 02 
+1. Dibujar el diagrama de fuerzas para la rueda de la polea, representando 
+cada vector fuerza con su extremo en el punto de aplicación de la 
+fuerza. Poner los símbolos en todas las fuerzas dibujadas e indicar la 
+dirección positiva de la rotación (figura 9.25): 
+2. La única fuerza que ejerce un momento sobre la rueda es la tensión 7, XT, =/@ 
+cuyo brazo de palanca es R. Aplicar la ley de Newton al movimiento FR = Jæ 
+de rotación, que relaciona T con la aceleración angular ot 
+263 
+Figura 9.25 
+Figura 9,24
+
+264 | Capítulo 9 Rotación 
+3. Dibujar un diagrama de fuerzas para el objeto suspendido (figura 9.26) =F... = ma, 
+y aplicar la segunda ley de Newton para relacionar T con la aceleración „y g-T = ma, J 7 
+lineal a; + 
+4. Tenemos dos ecuaciones para tres incógnitas T, a y o Una tercera a, = Ra mg Figura 9.26 
+ecuación es la condición no deslizante que relaciona a, y a: 
+5. Tenemos ahora tres ecuaciones que nos permiten determinar T, a, y œ. "ET _ RIR 
+Para despejar T se usa el resultado del paso 2 con el objetivo de obte- kii 
+ner una expresión para Œ y usamos el resultado del paso 3 para obtener con lo que 
+una expresión para a, Sustituir estas expresiones en el resultado del T= mg 
+paso 4 y despejar 7. | 1+(mR2/1) 
+Hii - SE TE E E 6. Sustituir este resultado para T en el resultado del paso 3 y despejar a; mg 1+ (mRD ma, 
+por lo tanto, 
+Comprobar el resultado Veamos un par de situaciones límites. Si / = 0, el objeto caería libre- 
+mente y la cuerda estaría floja; nuestros resultados dan T =0, a, = g. ¿Qué ocurre si 7 — <? Para ] >> 
+mR?, nuestras ecuaciones dan T= mg y a, = Q. 
+EJEMPLO 9.11 | Una polea ¡INTÉNTELO USTED MISMO! 
+Dos bloques están conectados por una cuerda que pasa por una polea de radio R y momento de 
+inercia J. El bloque de masa m, desliza sobre una superficie horizontal sin rozamiento; el blo- 
+que de masa m, está suspendido de la cuerda (figura 9.27). Determinar la aceleración a de los 
+bloques y las tensiones T, y T», suponiendo que la cuerda no desliza sobre la polea. 
+Planteamiento del problema En este problema, las tensiones 7, y T> no son iguales, porque 
+existe rozamiento entre la cuerda y la polea. (De otro modo la polea no giraria.) Obsérvese que T3 
+ejerce un momento en sentido horario y 7, un momento antihorario sobre la polea. Utilizar la 
+segunda ley de Newton para cada bloque y la segunda ley de Newton para la rotación para la polea, 
+y después relacionar a y & por la condición de ausencia de deslizamiento. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas Figura 9.27 
+1. Dibujar un diagrama de fuerzas para cada bloque y para la polea por 
+separado (figura 9.28). Observar que el centro de masas de la polea no 
+acelera, de modo que el soporte debe ejercer una fuerza sobre el eje F, 17 
+que equilibre la resultante de la fuerza de la gravedad y las fuerzas En me 
+ejercidas por la cuerda. J | mı ma Y 
+meg 
+mg 
+Figura 9.28 
+2. Aplicar la segunda ley de Newton a cada bloque. T, = m;4; mag —T, = ma 
+3. Aplicar la segunda ley de Newton para la rotación a la rueda de la 7 R-T,R = lo 
+polea. 
+4. Tenemos tres ecuaciones con cuatro incógnitas. Para obtener la cuarta a = Ra 
+ecuación, usar la condición de ausencia de deslizamiento de forma que 
+se pueda relacionar a y 0%.
+
+9.5 Aplicaciones de la segunda ley de Newton a la rotación 
+ma 
+a =| 58 Mm +m, + 1/R* 
+5. Ahora tenemos cuatro ecuaciones y cuatro incógnitas, por lo que todo 
+lo que queda es álgebra. Realizar los pasos necesarios para obtener a, 
+T, y T>. (Sugerencia: Para determinar a, buscar las expresiones para 
+T, y T, a partir de los resultados del paso 2. Sustituirlas en el resul- Ti = "190 = m, + me RES 
+tado del paso 3 hasta encontrar una ecuación con las incógnitas a y O = = 
+Usar el resultado del paso 4 para eliminar ay calcular a.) Ts = mlga) = hee?) 
+Comprobar el resultado Si /=0, 7; = T», y la aceleración es a = mzg/(m, + ma), como era de 
+esperar. Si / es muy grande, I/R? >> (my + mp), será T, =0, Tə =mg, y a =0. 
+Potencia 
+Cuando hacemos girar un objeto realizamos trabajo sobre él, incrementando su energia ciné- 
+tica. Consideremos una fuerza F; que actúa sobre un objeto en rotación. Cuando el objeto 
+gira un ángulo d0, el punto de aplicación de la fuerza recorre una distancia ds, = r; d9, y la 
+fuerza realiza un trabajo: 
+dW, = Fads; = Fari d0 = T; d0 iti 
+en donde 7; es el momento ejercido por la fuerza F; y Fy es la componente tangencial de F,. En 
+general, el trabajo realizado por un momento T cuando el objeto gira un ángulo pequeño d@ es 
+dW = tdé (9.23) 
+El ritmo al que el momento realiza trabajo es la potencia de entrada del momento: 
+_dW__d@ 
+Pa a “E 
+O sea, 
+P= TO (9.24) 
+POTENCIA DE ROTACIÓN 
+Las ecuaciones 9.23 y 9.24 son análogas a las expresiones dW = F, ds y P = Fw, del movi- 
+miento lineal. 
+EJEMPLO 9.12 | Momento ejercido por el motor de un automóvil 
+A 3700 rev/min, el momento máximo que produce el motor 8,0L V10 de un 2002 Dodge Viper 
+es de 675 N-m. Determinar la potencia de salida del motor si opera a estas condiciones de 
+momento máximo. 
+Planteamiento del problema La potencia es igual al producto del momento por la velocidad 
+angular, datos que nos proporciona el enunciado del problema. Debe expresarse @ en rad/s para 
+obtener la potencia en vatios. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Escribir la potencia en función de Ty @. R= TO 
+2. Convertir las rev/min en rad/s. @ = 387 rad/s 
+3. Calcular la potencia. P =[262 kW] 
+Observación Esta potencia de salida equivale aproximadamente a 350 caballos de vapor. 
+ME Ejercicio La potencia máxima producida por el motor Viper es de 450 caballos de vapor a 
+pl 5200 rev/min. ¿Cuál es el momento cuando el motor opera a su potencia máxima? 
+(Respuesta 616 N-m) - 
+my +m, + IR? ig 
+jINTENTELO USTED MISMO! 
+265
+
+266 | Capítulo 9 Rotación 
+Figura 9.29 
+Recorrido 
+del punto 
+de contacto 
+Eje de rotación instantánea 
+Figura 9.30 
+TABLA 9.2 Analogías de los movimientos rotacional y lineal 
+Movimiento rotacional Movimiento lineal 
+Desplazamiento angular AG Desplazamiento Ax 
+Velocidad angular ü= e Velocidad v= a £ 
+3 
+Aceleración angular ASES Aceleración as dd? dt dr 
+Ecuaciones de aceleración @=«@,+ at Ecuaciones de aceleración y=y,+at 
+angular constante A0 = 0), At constante Ax = y, At 
+0,=3(0,+ 0) Vin = 3 (Vo + Y) 
+0=0,+ ht + ior X= Xy + Vol + tat 
+of = a+2a@A0 2=yi+2a Ax 
+Momento de una fuerza T Fuerza F 
+Momento de inercia I Masa m 
+Trabajo dW=tdé Trabajo dW=F, ds 
+Energia cinética E. = ! Jor Energía cinética E. = tmv 
+Potencia P=T0 Potencia P=Fv 
+Momento angular’ L=lo Momento lineal p=mv 
+> a CD Segunda ley de Newton Treo = la= Segunda ley de Newton E... =ma= 5 
+* El momento angular se introduce en el capítulo 10. 
+Existen muchos paralelismos entre el movimiento lineal en una dirección y el movi- 
+miento rotacional alrededor de un eje fijo. Las similitudes entre las fórmulas pueden encon- 
+trarse en la tabla 9.2. Las fórmulas son las mismas, pero los símbolos cambian. 
+9.6 Objetos rodantes 
+Rodamiento sin deslizamiento 
+Cuando un carrete como el de la figura 9.29 rueda sin deslizar por la superficie inclinada de 
+la figura, sus puntos de contacto con la superficie están instantáneamente en reposo y el 
+carrete gira respecto a un eje de rotación que pasa a través del punto de contacto. Esto se 
+puede apreciar en la figura, ya que las zonas con movimiento rápido aparecen borrosas, 
+mientras que aquellas zonas con movimiento más lento aparecen un poco más definidas. En 
+la figura 9.30 se representa cómo una rueda de radio R gira sin deslizarse por una superficie 
+plana. El punto P de la rueda, tal como se muestra, se mueve con una velocidad 
+v= 50 (9.25) 
+CONDICIÓN PARA LA VELOCIDAD SIN DESLIZAMIENTO 
+en donde r es la distancia perpendicular desde P al eje de rotación. El centro de masas de la 
+rueda se mueve con velocidad 
+Vo = RG) (9.26) 
+CONDICIÓN PARA Vem SIN DESLIZAMIENTO 
+Nótese que para un punto en el extremo superior de la rueda, r = 2R, de forma que ese punto 
+se mueve al doble de velocidad que su centro de masas. 
+Derivando a ambos lados de la ecuación 9.26 se obtiene 
+a. Ra (9.27) 
+CONDICIÓN PARA LA ACELERACIÓN SIN DESLIZAMIENTO
+
+Cuando la cuerda a la que está atado un yo-yo se desenrolla, se dan las mismas condiciones 
+ausencia de deslizamiento que en el ejemplo de la rueda. 
+Consideremos una bola de radio R que rueda sobre una superficie plana sin rozamiento. 
+uando la bola gira el ángulo ¢ (figura 9.31), el punto de contacto entre la bola y el plano se 
+weve una distancia s, relacionada con @ por la expresión 
+s = Rọ (9.28) 
+CONDICIÓN PARA EL DESPLAZAMIENTO SIN DESLIZAMIENTO 
+i la rueda está rodando en una superficie horizontal, el centro de masas de la rueda siempre 
+eda sobre el punto de contacto, por lo que se mueve también una distancia s. 
+En el capítulo 8 vimos que la energía cinética de un sistema puede expresarse como la 
+ma de la energía cinética de traslación del movimiento del centro de masas más la energía 
+: Bernice relativa al centro de masas. Para un objeto que gira, la energia cinética relativa vale 
+5 ay. (?. Entonces, la energía cinética total será 
+Mva +1 1.0? (9.29) 
+ENERGÍA CINÉTICA DE UN CUERPO RODANTE 
+EJEMPLO 9.13 | Una bola de bolera 
+Una bola de bolera de radio 11 cm y masa M = 7,2 kg rueda sin deslizamiento sobre una super- 
+ficie horizontal a 2 m/s. Después sube por una pendiente sin deslizamiento hasta una altura h 
+antes de alcanzar momentáneamente el reposo y volver rodando hacia atrás. Determinar h. 
+Planteamiento del problema La energía mecánica se conserva. La energia cinética inicial, que 
+es la energía cinética de traslación del centro de masas, 5 TN más la energía cinética de rotación 
+respecto al centro de masas, = ipy a, se convierte en energía potencial mgh. Como la esfera rueda 
+sin deslizamiento, las velocidades lineal y angular están relacionadas por vom = RO. Hacer un 
+esquema que muestre la bola en sus posiciones inicial y final (figura 9.32). 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Aplicar la conservación de la energía mecánica con U; = 0 y Ec, =0. U/+E, = U¡+E, 
+Escribir la energía cinética inicial E, en función de la velocidad’ Vem Y 
+if = to? 
+por lo tanto 
+Observación La altura alcanzada es independiente de la masa y del radio de la bola. 
+Ejercicio Determinar la energía cinética inicial de la bola. (Respuesta 20,2 J.) 
+EJEMPLO 9.14 | jugando a billar 
+Un taco de billar golpea la bola horizontalmente a una distancia x por encima del centro de la 
+bola (figura 9.33). Determinar el valor de x para el cual la bola de billar rodará sin desliza- 
+miento desde el comienzo. Expresar la respuesta en función del radio R de la bola. 
+9.6 Objetos rodantes | 267 
+Figura 9.31 
+jINTENTELO USTED MISMO! 
+Figura 9.32 
+4 1 2 I 3 
+de la velocidad angular @. Mgh+0 = 04 5my? +51 00; 
+2. A partir de @,=v/Re Im = 2MR2, sustituir 00€ lay y despejar h. Mgh = iMv? a Lar) E 
+Ty? K= to = 0,285 m =[28.5 cm]
+
+268 | Capítulo 9 Rotación 
+Planteamiento del problema Las líneas de acción de las fuerzas del peso y normal pasan por 
+el centro de masas, por lo que no ejercen momento respecto a éste. La fuerza de rozamiento es 
+mucho más pequeña que la de! golpe del palo y puede despreciarse. Si el taco golpea contra la bola 
+al nivel del centro, ésta comenzará inicialmente a moverse sin rotación. Si el golpe se verifica por 
+debajo del centro, comenzará con rotación hacia atrás. Para un cierto valor de x, la bola posee el giro 
+hacia delante correcto, así como la aceleración hacia delante adecuada para que ruede sin deslizarse 
+desde el comienzo, es decir, se cumple la condición no deslizante. El valor de x determina la relación 
+entre el momento y la fuerza ejercidos sobre la bola y, por lo tanto, la relación entre su aceleración 
+angular q y la aceleración lineal a. La aceleración lineal a es F/m, independiente de x. Para que la 
+bola ruede sin deslizamiento desde el principio, determinaremos @ y a y después, teniendo en cuenta 
+que a = Ra (condición no deslizante), calcularemos x. 
+1. Dibujar el diagrama de fuerzas para la bola de billar (figura 9.34). Se 
+supone que el rozamiento entre la bola y la mesa es despreciable, por 
+lo que no se incluye la fuerza de rozamiento: 
+2. El momento de la fuerza respecto al centro de la bola es igual al pro- t= Fx 
+ducto de F por x: 
+3. Aplicar la segunda ley de Newton para sistemas y la correspondiente F = MA, y 
+análoga para rotación respecto al centro de la bola: 
+4. La condición no deslizante relaciona a y &: Ac = RQ 
+AE : : - F Fx 5. Sustituir en la relación obtenida en el paso 4 las expresiones de @y a,,, — = Re m obtenidas en los pasos 2 y 3. 
+I: 2 2 
+6. Determinar el momento de inercia a partir de la tabla 9,1 y despejary x = —= = A mR mR calcular x. 
+Observación Si se golpea en un punto más alto que 2R/5 o más bajo que 2R/5, la bola rodará y se 
+deslizará. En el juego de billar a veces se desea que la bola se deslice. El rodamiento con desliza- 
+miento se trata en la siguiente subsección. 
+cm 
+Figura 9.34 
+Cuando un objeto rueda por un plano inclinado hacia abajo, su centro de masa se acelera. 
+El análisis de este problema se simplifica gracias a un importante teorema concerniente al 
+centro de masas: 
+Si los momentos de las fuerzas se calculan respecto a un sistema de referencia que se 
+mueve con el centro de masas, la segunda ley de Newton correspondiente al movimiento 
+de rotación también se cumple cuando el centro de masas está acelerando por lo que los 
+momentos de las fuerzas se calculan en el sistema de referencia centro de masas. Es decir, 
+T, = [mä (9.30) neto,cm cm 
+Esta ecuación es la misma que la 9.18 con la salvedad de que aquí el momento y el momento 
+de inercia se calculan respecto de un sistema de referencia que se mueve con el centro de 
+masas. (Se encontrará la deducción en www.whfreeman.com/tipler.) Cuando el centro de 
+masas acelera (caso de una bola que desciende por un plano inclinado), el sistema de refe- 
+rencia centro de masas no es inercial y, por lo tanto, no podemos esperar necesariamente que 
+la segunda ley de Newton aplicada a la rotación se cumpla. Sin embargo, se cumple. 
+EJEMPLO 9.15 | Aceleración de una bola que rueda sin deslizar 
+Una bola maciza uniforme de masa m y radio R rueda sin deslizamiento por un plano incli- 
+nado d hacia abajo. Determinar la aceleración del centro de masas y la fuerza de rozamiento.
+
+Planteamiento del problema Según la segunda ley de Newton, la aceleración del centro de 
+masas es igual a la fuerza neta dividida por la masa. Las fuerzas que actúan son el peso mg hacia 
+abajo, la fuerza normal F,, que equilibra la componente normal del peso, y la fuerza de rozamiento f 
+que actúa hacia arriba sobre el plano inclinado (figura 9.35). Cuando el objeto acelera por el plano 
+“inclinado, para mantener la condición de ausencia de deslizamiento, su velocidad angular tiene que 
+aumentar, Esta aceleración angular requiere un momento externo neto alrededor del eje que pasa por 
+su centro de masas. Para determinar @ se utiliza la segunda ley de Newton para la rotación. La con- 
+dición de ausencia de deslizamiento relaciona @ y dem: 
+1. Aplicar la segunda ley de Newton para un sistema a lo largo del eje x: =F, = ma., ; 
+2. ET = Fma 
+f.R+0+0 = 1,0 
+Aplicar la segunda ley de Newton para un movimiento de rotación, 
+considerando rotaciones alrededor de un eje paralelo al eje instantáneo 
+de rotación y que pasan por su centro de masas: 
+Observación Como la bola rueda sin deslizamiento, el rozamiento es estático. Obsérvese que el 
+resultado es independiente del coeficiente de rozamiento estático, en tanto sea lo suficientemente 
+grande para que la bola no deslice. 
+Los resultados de los pasos 5 y 6 del ejemplo 9.15 se aplican a cualquier objeto que esté 
+rodando sin deslizar con el centro de masas en el centro geométrico. En estos objetos, 
+Los = BmR?, donde para una esfera B = z, o bien : para un cilindro sólido, o bien 1 para 
+un cilindro hueco, etc. Para estos objetos los resultados de los pasos 5 y 6 pueden escribirse 
+como 
+mg sen fe = 1481 (9.31) 
+o (9.32) 
+La aceleración lineal de cualquier objeto que rueda hacia abajo por un plano inclinado es 
+menor que g sen O debido a la fuerza de rozamiento dirigida en sentido ascendente. Obsér- 
+vese que estas aceleraciones son independientes de la masa y del radio de los objetos. Es 
+decir, todas las esferas sólidas que ruedan sin deslizarse al bajar por el mismo plano incli- 
+nado tienen la misma aceleración. Sin embargo, si dejamos en libertad simultáneamente una 
+mg send—f. = Ma. 
+9.6 Objetos rodantes | 269 
+Figura 9.35 
+3. Relacionar a,,,, y @ usando la condición de ausencia de deslizamiento: am = Ra 
+4. Se tiene tres ecuaciones con cuatro incógnitas. Despejar en el paso Lf SR = La 
+y en el paso 3 œ, sustituir el resultado en el resultado del paso 2 y des- em 
+pejar Ay: (mg sen9— ma.)R = Lon R 
+por lo tanto, 
+= geno 
+ar 1+ fem R? 
+5. Sustituir el resultado del paso 4 en el resultado del paso 1 y despejarf,. fe = mg seng- macm 
+= mg sen@- ma = UE up ae 
+la 14% mR? Fom 
+6. Para una esfera sólida, Zam = 2mR? (véase la tabla 9.1): am = gmn $ = 2 sen $ 
+1+3 5 
+fe = PES - ¿mg seng 
+2
+
+270 | Capítulo 9 Rotación 
+Figura 9.36 Una esfera, un cilindro y un anillo 
+parten juntos desde el reposo en la parte más alta del 
+plano inclinado. En primer lugar llega al fondo la 
+esfera, seguida por el cilindro y después el anillo. 
+Figura 9.37 Una bola se mueve sin rotación ini- 
+cial. La fuerza de rozamiento f, ejercida por el suelo 
+reduce la velocidad del centro de masas v e incre- 
+menta la velocidad angular @ hasta que se alcanza 
+la condición de rodadura v = Ra. 
+Figura 9.38 Una bola gira sobre sí misma acele- 
+ra la bola en la dirección del movimiento. 
+esfera, un cilindro y un anillo desde la parte superior de un plano inclinado, y todos ellos 
+ruedan sin deslizamiento, la esfera llegará en primer lugar a la base porque posee la mayor 
+aceleración; en segundo lugar llegará el cilindro y el último será el anillo (figura 9.36). Si un 
+bloque se desliza sin rozamiento por el mismo plano inclinado, alcanzará el fondo antes que 
+los tres objetos rodantes. 
+Como el rozamiento es estático, no produce trabajo y no hay disipación de energía mecá- 
+nica. Por lo tanto, puede utilizarse el principio de conservación de la energía mecánica para 
+determinar la velocidad de un objeto rodante sin deslizamiento a lo largo de un plano incli- 
+nado en sentido descendente. En la parte superior del plano inclinado, la energía total es la 
+energía potencial mgh. En el fondo la energía total es energía cinética. La conservación de la 
+energía mecánica nos dice que 
+$ mv2,, + Hen 7 = mgh 
+Podemos utilizar la condición no deslizante para eliminar Vem 0 @. Sustituyendo /.,, = BmR? y 
+O = Ven R, se obtiene i mv, + 1 BmR?( vž„/R?) = mgh. Despejando v?,,, se obtiene 
+v2, = = E (9.33) 
+Para un cilindro, con B= ! se obtiene Von = ish. Obsérvese que la velocidad es indepen- 
+diente de la masa y del radio del cilindro y es menor que gh, velocidad de un objeto que 
+desliza sin rozamiento a lo largo de un plano inclinado. 
+La fuerza de rozamiento f, en un objeto que rueda sin deslizar por un plano inclinado es 
+menor o igual a su valor máximo; es decir, f, < U.F,, donde F, = mg cos @. Sustituyendo en 
+la ecuación 9.31 la expresión para la fuerza de rozamiento, se tiene 
+ari < U.mg cos) 
+tg < (1+6) (9.34) 
+(En un cilindro uniforme, Im = į MR?, por lo que B= + y tg 0 < 34e.) Si la tangente del 
+ángulo del plano inclinado es mayor que (1 + B"')u,, el objeto se deslizará por la pendiente. 
+Ejercicio Un cilindro rueda hacia abajo por un plano inclinado @ = 50°. ¿Cuál es el valor 
+mínimo del coeficiente de rozamiento estático para el cual el cilindro rodará sin desliza- 
+miento? (Respuesta 0,40.) 
+Ejercicio Determinar (a) la fuerza de rozamiento para un anillo que rueda hacia abajo por 
+un plano inclinado y (b) el valor máximo de tg @ para el cual el anillo rueda sin desliza- 
+miento. (Respuesta (a)f= img sen 6; (b) tg 0 <24.) 
+*Rodamiento con deslizamiento 
+Cuando un objeto se desliza mientras rueda, la condición no deslizante vem = R@ deja de 
+cumplirse. Supongamos que una bola de bolera se lanza sin rotación inicial. Cuando la bola 
+se desliza a lo largo de la pista, Vem > Ro. Sin embargo, la fuerza de rozamiento reduce su 
+velocidad lineal v.m (figura 9.37) al mismo tiempo que aumenta su velocidad angular @, 
+hasta que se cumple la condición de ausencia de deslizamiento vem = RO. Entonces la bola 
+rueda sin deslizamiento. 
+Otro ejemplo de rodamiento con deslizamiento es el de una bola que gira sobre sí misma, 
+como ocurre cuando el taco del billar golpea a la bola en un punto que está por encima de 
+(2/5)R sobre el centro (véase ejemplo 9.14) de modo que v.m < Ræ. En este caso, la fuerza de 
+rozamiento incrementa v y reduce @ hasta que se alcanza la condición no deslizante vem = 
+Ro (figura 9.38).
+
+9.6 Objetos rodantes | 271 
+| EJEMPLO 9.16 | Una bola de bolera que desliza 
+Una bola de masa M y radio R se lanza de tal modo que cuando toca el suelo se mueve horizon- 
+talmente con velocidad vy = 5 m/s y avanza sin rodar. El coeficiente de rozamiento cinético 
+} entre la bola y el suelo es 1, = 0,08. Determinar (a) el tiempo durante el cual la bola se desliza 
+My (b) la distancia recorrida deslizando, antes de que ruede sin deslizar. 
+Planteamiento del problema Calculamos vem y © en función del tiempo, hacemos Vem = RO y 
+deducimos r. Las aceleraciones lineal y angular se determinan a partir Y F = ma y 7=/0 La dirección 
+del movimiento se toma como positiva. Hay deslizamiento y rozamiento cinético, por lo que se disipa 
+energía mecánica. Por lo tanto, no se puede usar el principio de conservación de la energía mecánica. 
+(a) 1. Dibujar un diagrama de las fuerzas que actúan sobre la bola 
+(figura 9.39). 
+z Figura 9.39 
+2. La fuerza neta que actúa sobre la bola es la fuerza de rozamiento =F, = Mams 
+cinético, f.. que actúa en la dirección negativa del eje x. Aplicarla = __ fe = Ma... 
+segunda ley de Newton: i 
+. La aceleración va en la dirección negativa de x y du, y = 0. Deter- EF, = Mamy = 0>F, = Mg 
+minar primero F, y después fe: por lo tanto 
+fe = UF, = UMg 
+. Determinar la aceleración usando los resultados de los pasos 2 y 3: -Mg = MA: > Gem x = 108 
+. Relacionar la velocidad lineal con la aceleración y con el tiempo Voms = Vo+@oam xf = Vo- Hegt 
+utilizando la ecuación cinemática: 
+. Para determinar œ, aplicar la segunda ley de Newton para la rota- Et = 1.0 
+ción. Calcular los momentos alrededor de un eje que pase por el 2 
+centro de masas. Obsérvese que en el diagrama de fuerzas elsen-  M¿MER+0+0 = ¿MR*a 
+tido positivo va en la dirección de las agujas del reloj: por lo tanto 
+54.8 C= 
+2 R 
+7. Relacionar la velocidad angular con la aceleración angular y el @ = @+ æt = 0+ gt = e 
+tiempo usando la ecuación cinemática: 
+8. Despejar el tiempo ¢ cuando se cumple Vem = RO: Vem = RO 
+5 Vy—H¿81 = zhet 
+por lo tanto, 
+2vo 2(5 m/s) ei = = — sO 82 
+Tug 7(0,08)(9,81 m/s?) 
+(b) La distancia recorrida en 1,82 s es: Ax = vot + emt? 
+2vy, Í 2yy\* 12 vi = Y + =(- F ( } ees 
+© Fug 2 HOT) 7 49 Lg 
+xe, A, (5 m/s)? E 
+~ 49(0,08)(9,81 m/s?) =[7.80 m| 
+Ejercicio Determina la velocidad de la bola de bolera cuando comienza a rodar sin deslizar. 
+(Respuesta Vem = = Dad Este resultado es independiente del coeficiente de rozamiento cinético. La 
+velocidad de rodadura es 2 Vo, ya sea L, grande o pequeño. La energía mecánica total perdida es, por 
+lo tanto, independiente de 4H.. (Sin embargo, el tiempo y la distancia dependen sensiblemente del 
+valor de L.) 
+Ejercicio Determinar la energia cinética total de la bola después de que comience a rodar sin des- 
+lizamiento. (Respuesta E,= am) 
+Observación En una buena bolera, la pista de las calles está ligeramente engrasada de forma que 
+la bola resbala una cierta distancia, proporcionando al jugador mayor control sobre su lanzamiento.
+
+272 | Capítulo 9 Rotación 
+Resumen 
+1 El desplazamiento angular, la velocidad angular y la aceleración angular son magnitudes fundamentales 
+definidas en la cinemática de rotación. 
+2 El momento de una fuerza y el momento de inercia son importantes conceptos dinámicos derivados. El 
+momento es una medida de la capacidad de una fuerza para que un objeto comience o termine de girar. 
+El momento de inercia es una medida de la resistencia inercial de un objeto a las aceleraciones angula- 
+res. Depende de la distribución de la masa respecto al eje de rotación. 
+3 El teorema de los ejes paralelos, que resulta de la definición del momento de inercia, simplifica frecuen- 
+temente el cálculo de /. 
+4 La segunda ley de Newton para la rotación, Y, Teu = /o se deduce de la segunda ley de Newton y de las defini- 
+ciones de t, / y œ. Es una relación importante para resolver problemas que implican la rotación de un objeto 
+rígido alrededor de un eje de dirección fija. 
+TEMA OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Velocidad angular y aceleración angular 
+Aceleración 
+i dé nae Velocidad angular @ = 7, Definición) (9.2) 
+2 
+Aceleración angular a= go = ue (Definición) (9.3) 
+Velocidad tangencial y= ro (9.7) 
+Aceleración tangencial a=ra (9.8) 
+Aceleracién centripeta á, = = = ra? (9.9) 
+2. Ecuaciones de rotación con aceleración w = üh + Qt (9.4) 
+AA 0 = 0 +01+lar (9.5) 
+o? = Wf +2a(6—-%) (9.6) 
+3. Momento de inercia 
+Sistema de particulas 1 = Y mr? (Definición) (9.10) 
+Sistema continuo I= | r dm (9.12) 
+Teorema de los ejes paralelos El momento de inercia respecto a un eje situado a la distancia / de otro eje paralelo que pasa por el centro de 
+masas es 
+I= Lio + MIP (9.13) 
+en donde /.,,, es el momento de inercia respecto al eje que pasa por el centro de masas y M es la masa total del 
+objeto, 
+4. Energía 
+Energía cinética de rotación alrededor de un eje fijo E: = il or (9.11) 
+Energia cinética de un objeto rodante E. = jM vi, + Hena? (9.29) 
+Potencia P = tø (9.24) 
+El momento producido por una fuerza es igual al producto de la componente tangencial de la fuerza por la 
+distancia radial al eje. 
+5. Momento de una fuerza 
+t= Fir = Frsen 6 = Fl (9.19)
+
+Problemas | 273 
+6. Segunda ley de Newton 
+aplicada a la rotación 
+Toeto.en = y Tien = 10 (9.18) 
+Si en un sistema de referencia que se mueve con el centro de masas se calculan los momentos de las fuerzas 
+respecto a un eje que pasa por el centro de masas, la segunda ley de Newton para la rotación se cumple para 
+rotaciones alrededor de un eje que pase por el centro de masas, aunque el sistema de referencia no sea iner- 
+cial. 
+7. Condiciones no deslizantes Cuando una cuerda arrollada a un polea o disco no desliza, las magnitudes lineales y angulares están relacio- 
+nadas por 
+v = Ro (9.21) 
+a, = Ra (9.22) 
+8. Objetos rodantes 
+Rodadura sin deslizamiento Ven = RO (9.26) 
+*Rodadura con deslizamiento Cuando un objeto rueda y desliza, vam = Ro. El rozamiento cinético ejerce una fuerza que tiende a modificar 
+Vem Y Un momento que cambia ( hasta que Vem = RO y el objeto solamente rueda. 
+Problemas 
+® Concepto simple, un solo paso, relativamente fácil. 
+es Nivel intermedio, puede exigir síntesis de conceptos. 
+eee  Desafiante, para alumnos avanzados. 
+ssM La solución se encuentra en el Student Solutions Manual. 
+i Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. 
+Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan alos fuentes externas o estimaciones 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. 
+N 
+En algunos problemas se dan 
+más datos de los realmente 
+necesarios; en otros pocos, deben 
+extraerse algunos datos a partir 
+de conocimientos generales, 
+logicas. 
+Tomar g = 9,81 N/kg = 9,81 m/s? y despreciar el rozamiento en todos los problemas a menos que se indique lo contrario. 
+- Problemas conceptuales 
+1 e SSM Dos puntos sobre un disco giran a velocidad angular 
+constante: uno de ellos está en el borde del disco y el otro a mitad de distancia 
+entre el borde y el eje. ¿Cuál de los dos puntos recorre una mayor distancia en 
+un tiempo determinado? ¿Cuál gira un ángulo mayor? ¿Cuál posee mayor velo- 
+cidad? ¿Y mayor velocidad angular? ¿Cuál tiene mayor aceleración tangencial? 
+¿Y mayor aceleración angular? ¿Y mayor aceleración centrípeta?. 
+2 e Verdadero o falso: 
+(a) La velocidad angular y la velocidad lineal tienen las mismas dimensiones. 
+(b) Todas las partes de una rueda giratoria deben tener la misma velocidad 
+angular, 
+(c) Todas las partes de una rueda giratoria deben tener la misma aceleración 
+angular. 
+3 es Partiendo del reposo, un disco realiza 10 revoluciones hasta alcan- 
+zar la velocidad angular @. Con aceleración angular constante, ¿cuántas revolu- 
+ciones adicionales debe realizar para alcanzar una velocidad angular 2 œ? 
+(a) 10 rev. (b) 20 rev. (c) 30 rev. (d) 40 rev. (e) 50 rev. 
+4 e SSM _ Las dimensiones del momento de una fuerza son las mis- 
+mas que las del (a) impulso (b) energía (c) momento lineal (4) ninguna de las 
+anteriores j 
+5 © El momento de inercia de un objeto de masa M (a) es una propie- 
+dad intrínseca del objeto. (b) Depende de la elección del eje de rotación. (c) Es 
+proporcional a M independientemente de la elección del eje. (d) Ambos (b) y 
+(c) son correctos. 
+6 e ssM ¿Puede un objeto seguir girando en ausencia del 
+momento de una fuerza? 
+7 © El momento resultante aplicado, ¿incrementa siempre la veloci- 
+dad angular de un objeto? 
+8 e Verdadero o falso: 
+(a) Si la velocidad angular de un objeto es cero en algún momento, el 
+momento resultante que actúa sobre el objeto debe ser cero en ese instante. 
+(b) El momento de inercia de un objeto depende de la localización del eje de 
+rotación. 
+(c) El momento de inercia de un objeto depende de la velocidad angular del 
+objeto. 
+9 e Un disco gira libremente alrededor de un eje. Una fuerza aplicada 
+a una distancia d del eje le ocasiona una aceleración angular a. ¿Qué acelera- 
+ción angular se produce si la misma fuerza se aplica a una distancia 2d del eje? 
+(a) œ. (b) 2a. (c) 0/2. (d) 4a. (e) a/4. 
+10 @ SSM 
+que no pasa por su centro de masas es 
+El momento de inercia de un objeto alrededor de un eje 
+el momento de inercia res-
+
+274 | Capítulo 9 Rotación 
+pecto a un eje paralelo que pasa por su centro de masas. (a) Siempre menor que. 
+(b) Algunas veces menor que. (c) A veces igual que. (d) Siempre mayor que. 
+11 @ ssM Un momento constante actúa sobre un tiovivo, La poten- 
+cia suministrada por el momento es (a) constante. (b) Proporcional a la veloci- 
+dad angular del tiovivo. (c) Cero. (d) Ninguna de las anteriores, 
+12 e Verdadero o falso: Cuando un objeto rueda sin deslizamiento, el 
+rozamiento no realiza trabajo alguno sobre el objeto. 
+13 e ¿Por qué se pone el tirador de una puerta lo más lejos posible de 
+las bisagras? 
+14 e ssM Una rueda de radio R rueda sin deslizamiento por una 
+superficie estacionaria plana. La velocidad del punto de la periferia que está en 
+contacto con la superficie, relativo a la superficie es (a) igual a R@ en el sentido 
+del movimiento del centro de masas. (b) Igual a Ræ en sentido opuesto al del 
+movimiento del centro de masas. (c) Cero. (d) Igual a la velocidad del centro de 
+masas y en el mismo sentido. (e) Igual a la velocidad del centro de masas, pero 
+en sentido opuesto. 
+15 eses Un cilindro sólido uniforme y una esfera sólida uniforme tienen 
+masas iguales. Ambos cuerpos ruedan sin deslizamiento sobre una superficie hori- 
+zontal. Si sus energías cinéticas son iguales, entonces (a) la velocidad de traslación 
+del cilindro es mayor que la de la esfera. (b) La velocidad de traslación del cilindro 
+es menor que la de la esfera. (c) Las velocidades de traslación de los dos objetos 
+son iguales. (d) Los resultados (a), (b) y (c) dependen de los radios de los objetos. 
+16 e SSM _ Dos tubos de aspecto idéntico de 1 m de longitud contie- 
+nen piezas de plomo de 10 kg de masa total (mucho mayor que la masa de los 
+tubos). En el primer tubo el plomo está concentrado en el centro, mientras que 
+en el segundo el plomo está dividido en dos masas iguales colocadas en los dos 
+extremos del tubo. Si los tubos están cerrados por ambos extremos, ¿cómo 
+puede determinarse cuál es cada uno de los tubos? 
+17 es Partiendo del reposo al mismo tiempo. una moneda y un anillo 
+ruedan por un plano inclinado sin deslizamiento. ¿Cuál de las siguientes afir- 
+maciones es correcta? (a) El anillo llega primero a la base del plano. (b) La 
+moneda llega en primer lugar. (c) El anillo y la moneda llegan simultánea- 
+mente. (d) El resultado de la carrera depende de sus masas relativas. (e) El 
+resultado de la carrera depende de sus diámetros relativos. 
+18 ee Unarco de masa M y radio R rueda sin deslizamiento. ¿Es mayor 
+su energía cinética de traslación o su energía cinética de rotación? (a) La ener- 
+gía cinética de traslación es mayor. (b) La energía cinética de rotación es 
+mayor. (c) Ambas son iguales. (d) La respuesta depende del radio. (e) La res- 
+puesta depende de la masa. 
+19 ee Un disco de masa M y radio R rueda sin deslizamiento, ¿Es mayor 
+su energía cinética de traslación o su energía cinética de rotación? (a) La ener- 
+gía cinética de traslación es mayor. (b) La energía cinética de rotación es 
+mayor. (c) Ambas son iguales. (d) La respuesta depende del radio. (e) La res- 
+puesta depende de la masa. 
+20 es Una bola rueda sin deslizamiento a lo largo de un plano horizon- 
+tal. Demostrar que la fuerza de rozamiento que actúa sobre la bola debe ser 
+cero. Sugerencia: Considerar una dirección posible para la acción de la fuerza 
+de rozamiento y los efectos que esta fuerza ejercería sobre la velocidad del 
+centro de masas y sobre la velocidad angular. 
+21 e Verdadero o falso: Cuando una esfera rueda y se desliza sobre una 
+superficie rugosa, la energía mecánica se disipa. 
+22 @ Un taco de billar golpea una bola en un punto muy próximo a su 
+parte más superior, de modo que comienza a girar sobre sí misma, Mientras 
+desliza, la fuerza de rozamiento (a) incrementa Vem (b) decrece vem, (c) no tiene 
+efecto sobre Vem 
+Aproximaciones y estimaciones 
+23 es Unabicicleta de masa 14 kg lleva ruedas de 1,2 m de diámetro, cada 
+una de masa 3 kg. La masa del ciclista es 38 kg. Estimar la fracción de la energía 
+cinética total de la bicicleta y el ciclista asociada a la rotación de las ruedas. 
+24 es ¿Por qué cuando cae al suelo una tostada siempre lo hace por el 
+lado que tiene mantequilla o mermelada? La pregunta puede parecer tonta, pero 
+ha sido objeto de debate científico serio. El análisis es demasiado complicado 
+para reproducirlo aquí, pero R.D. Edge y Darryl Steinert demostraron que una 
+tostada a la cual se la empuja suavemente hasta el borde de una mesa, cae 
+cuando se inclina un ángulo de 30? con la horizontal (véase la figura 9.40) y 
+tiene una velocidad angular de @ = 0,956./g/1, donde / es la longitud del lado 
+de la tostada (supuesta de forma cuadrada). Suponiendo que una tostada 
+empieza a caer con la mermelada o la mantequilla hacia arriba, ¿de qué lado 
+caerá si ésta cae desde una mesa de 0,5 m de altura? ¿Qué ocurre si la mesa 
+tiene 1 m de altura? Suponer que la tostada tiene 0,1 m de lado y que cae al 
+suelo con la mermelada o la mantequilla hacia abajo si el ángulo que forma con 
+el suelo está entre 180° y 270°. (Si la tostada gira un ángulo superior a 360° ten- 
+dremos que reducirlo al intervalo 0° — 360°). Ignórense las fuerzas debidas a la 
+resistencia del aire. Para el lector interesado en este problema y en otros 
+muchos, se recomienda el magnífico libro de Robert Erlich, Why Toast Lands 
+Jelly-Side down: Zen and the Art of Physics Demonstrations! (Por qué las tos- 
+tadas caen por el lado de la mermelada: Zen y el arte de las demostraciones de 
+la física). 
+300. 
+Z Figura 9.40 Problema 24 
+25 ee SSM Consideremos el momento de inercia de un hombre 
+adulto alrededor de un eje que pasa verticalmente por el centro de su cuerpo. 
+Cuando esta persona está de pie con sus brazos pegados al cuerpo o cuando está 
+con sus brazos extendidos tiene momentos de inercia distintos. Estimar el 
+cociente entre ambos momentos de inercia. 
+Velocidad angular y aceleración angular 
+26 @ Una partícula se mueve en una circunferencia de radio 90 m con 
+una velocidad de módulo constante de 25 m/s. (a) ¿Cuál es su velocidad angu- 
+lar en radianes por segundo alrededor del centro de la circunferencia? 
+(b) ¿Cuántas revoluciones realiza en 30 s? 
+27 e E Y Una rueda parte del reposo y tiene aceleración angu- 
+lar constante de 2,6 rad/s?. (a) ¿Cuál es su velocidad angular después de 6 s? 
+(b) ¿Qué ángulo habrá girado? (c) ¿Cuántas revoluciones habrá realizado? 
+(d) ¿Cuál es la velocidad y la aceleración de un punto situado a 0,3 m del eje de 
+rotación? 
+28 e ssm Un tocadiscos que gira a 33! rev/min se desconecta. Se 
+frena con aceleración angular constante y queda parado al cabo de 26 s. 
+(a) Hallar la aceleración angular. (b) ¿Cuál es la velocidad angular media del 
+tocadiscos? (c) ¿Cuántas revoluciones realiza antes de detenerse? 
+29 e Un disco de 12 cm de radio empieza a girar alrededor de su eje 
+partiendo del reposo con aceleración angular constante de 8 rad/s?, Al cabo de 
+t= 5 s, ¿cuál es (a) la velocidad angular del disco y (b) las aceleraciones tan- 
+gencial a, y centrípeta a, de un punto del borde del disco? 
+' Robert Erlich, Why toast lands Jelly-side Down; Princeton, NJ; Princeton University 
+Press (1997)
+
+30 e I Una rueda Ferris de radio 12 m dä una vuelta cada 27 s. 
+a) ¿Cuál es su velocidad angular en radianes por segundo? (b) ¿Cuál es la 
+velocidad lineal de un pasajero? (c) ¿Cuál es la aceleración centrípeta de un 
+pasajero? 
+31 e Un ciclista parte del reposo. Al cabo de 8 s las ruedas han verifi- 
+cado 3 rev. (a) ¿Cuál es la aceleración angular de las ruedas? (b) ¿Cuál es su 
+velocidad angular al cabo de 8 s? 
+32 e ¿Cuál es la velocidad angular de la Tierra en rad/s al girar alrede- 
+dor de su eje? 
+33 e Una rueda giratoria describe 5 rad en 2,8 s antes de detenerse con 
+aceleración angular constante. La velocidad angular inicial de la rueda antes de 
+iniciar su frenado era (a) 0,6 rad/s. (b) 0,9 rad/s. (c) 1,8 rad/s. (d) 3,6 rad/s. 
+(e) 7,2 rad/s, 
+34 e Una bicicleta tiene ruedas de 1,2 m de diámetro. El ciclista ace- 
+lera desde el reposo con aceleración constante hasta alcanzar la velocidad de 24 
+km/h en 14,0 segundos, ¿Cuál es la aceleración angular de las ruedas? 
+35 ee ssm i! Y Lacinta de una “cassette” de vídeo VHS es- 
+tándar tiene una longitud L = 246 m; su duración en funcionamiento es de 2,0 ho- 
+ras (figura 9.41). Al comienzo, el carrete que contiene la cinta tiene un radio 
+externo de aproximadamente R = 45 mm, mientras que su radio interno es r= 12 
+mm aproximadamente. En cierto punto de su recorrido, ambos carretes tienen la 
+misma velocidad angular. Calcular esta velocidad angular en radianes por segundo 
+y revoluciones por minuto. 
+Figura 9.41 Problema 35 
+Momento de una fuerza, momento de inercia y segunda 
+ley de Newton aplicada a la rotación 
+36 o I Una muela de afilar en forma de disco tiene una masa 
+de 1,7 kg y un radio de 8 cm y está girando a 730 rev/min. Cuando se desco- 
+necta el motor, una mujer continúa afilando su hacha manteniéndola contra la 
+muela durante 9 s hasta que ésta se detiene. (a) Hallar la aceleración angular de 
+Ja muela de afilar. (b) ¿Cuál es el momento que ejerce el hacha sobre la muela? 
+Suponer constante la aceleración angular y que no existen otros momentos de 
+fuerzas de rozamiento. 
+37 e ssm Un cilindro de 2,5 kg y radio 11 cm, inicialmente en 
+reposo, puede girar alrededor de su eje. Sobre él, se arrolla una cuerda de masa 
+despreciable que tira con una fuerza de 17 N. Determinar (a) el momento ejer- 
+cido por la cuerda, (b) la aceleración angular del cilindro y (c) la velocidad 
+angular del cilindro al cabo de ¢ = 5 s. 
+38 oeo | Y Una rueda montada sobre un eje con rozamiento se 
+encuentra inicialmente en reposo. Durante 20 s se aplica a la rueda un momento 
+externo de 50 N + m, con lo cual la rueda adquiere una velocidad angular de 
+600 rev/min. Se retira entonces el momento externo y la rueda alcanza el re- 
+poso 120 s más tarde, Determinar (a) el momento de inercia de la rueda y (b) el 
+momento de rozamiento, supuesto constante. 
+Problemas | 275 
+39 @@ Un péndulo formado por una cuerda de longitud L y una lenteja 
+de masa m oscila en un plano vertical. Cuando la cuerda forma un ángulo 9 con 
+la vertical, (a) ¿cuál es la componente tangencial de la aceleración de la len- 
+teja? (b) ¿Cuál es el momento ejercido respecto al punto pivote? (c) Demostrar 
+que T= TQ con a, = La da lugar a la misma aceleración tangencial deducida en 
+el apartado (a). 
+40 @@@ ssm Una barra uniforme de masa M y longitud L pivota sobre 
+un extremo y cuelga como se muestra en la figura 9.42, de modo que puede 
+oscilar sin rozamiento alrededor del pivote. Una fuerza horizontal Fy golpea la 
+barra durante un corto tiempo Af a una distancia x por debajo del pivote, como 
+indica la figura. (a) Demostrar que la velocidad del centro de masas de la barra 
+inmediatamente después del golpe es vg = 3Fyx Ar/2ML. (b) Determinar la com- 
+ponente horizontal de la fuerza suministrada por el pivote y demostrar que esta 
+componente de la fuerza es cero si x = $L. (Nota: el punto x = 3L se llama 
+centro de percusión de la barra.) 
+Figura 9.42 Problema 40 
+41 ese Un disco horizontal uniforme de masa M y radio R gira alrededor 
+del eje vertical que pasa por su centro con una velocidad angular œ. Cuando se 
+sitúa sobre una superficie horizontal, el coeficiente de rozamiento cinético entre 
+el disco y la superficie es U.. (a) Determinar el momento dt ejercido por la 
+fuerza de rozamiento sobre un elemento circular de radio r y anchura dr. (b) 
+Determinar el momento resultante ejercido por el rozamiento sobre el disco, (c) 
+Determinar el tiempo necesario para que el disco se detenga. 
+Cálculo del momento de inercia 
+42 o i Una pelota de tenis posee una masa de 57 g y un diá- 
+metro de 7 cm. Determinar el momento de inercia alrededor de su diámetro. 
+Suponer que la pelota es una esfera hueca de paredes delgadas. 
+43 o SSM I Cuatro particulas estan en los vértices de un 
+cuadrado unidas por varillas sin masa, de modo que m, = m4 =3 kg y m =m, = 
+4 kg. La longitud del lado del cuadrado es L = 2 m (figura 9,43), Hallar el 
+momento de inercia respecto al eje z. 
+y? 
+= 
+i 
+I 
+Figura 9.43 Problemas 43—45
+
+276 | Capítulo 9 Rotación 
+44 e Utilizar el teorema de los ejes paralelos y los resultados del pro- 
+blema 43 para hallar el momento de inercia del sistema de cuatro partículas de 
+la figura 9.43 alrededor de un eje perpendicular al plano de la configuración y 
+que pasa por el centro de masas. Comprobar el resultado mediante cálculo 
+directo. 
+45 @ Para el sistema de cuatro partículas de la figura 9.43, (a) hallar el 
+momento de inercia /, alrededor del eje x que pasa por m, y my. (b) Hallar /, 
+alrededor del eje y que pasa por m, y Ms. 
+46 e i Utilizar el teorema de los ejes paralelos para hallar el 
+momento de inercia de una esfera maciza de masa M y radio R alrededor de un 
+eje tangente a la esfera (figura 9.44). 
+Figura 9.44 Problema 46 
+47 ee § Y  Unarueda de vagón de 1.0 m de diámetro está for- 
+mada por una llanta delgada de masa 8 kg y seis radios, cada uno de los cuales 
+tiene una masa de 1,2 kg. Determinar el momento de inercia de la rueda res- 
+pecto a su eje de rotación. 
+48 ee ssm 1 Dos masas puntuales mm, y m, están separadas 
+por una barra sin masa de longitud L. (a) Deducir una expresión para el 
+momento de inercia de este sistema respecto a un eje perpendicular a la barra 
+que pasa a través de ésta por un punto situado a la distancia x, de la masa my. 
+(b) Calcular d//dx y demostrar que / es mínimo cuando el eje pasa por el centro 
+de masas del sistema. 
+49 es Una placa rectangular uniforme tiene una masa m y sus lados 
+valen a y b. (a) Demostrar por integración que su momento de inercia respecto a 
+un eje perpendicular a la placa y que pasa por uno de sus vértices es ; mía? + b?). 
+(b) ¿Cuál es el momento de inercia respecto a un eje que pase por el centro de 
+masas y que sea perpendicular a la placa? 
+50 @@ SSM  DosjóvenesA y B están realizando un trabajo de investi- 
+gación intensiva sobre el “bastón acrobático giratorio teórico”. Ambos utilizan 
+el mismo modelo de bastón: dos esferas uniformes, cada una de masa 500 g y 
+10 cm | L=!30 cm | 10cm 
+pu - | am| m =160g 
+§ : 
+Eje de rotación 
+Figura 9.45 Problema 50 - 
+radio 5 cm, montadas en los extremos de una varilla uniforme de 30 cm de lon- 
+gitud y masa 60 g (figura 9.50). A y B desean calcular el momento de inercia 
+del bastón modelo respecto a un eje perpendicular a la varilla que pasa por su 
+centro. A utiliza la aproximación de que las dos esferas pueden considerarse 
+como partículas puntuales que distan 20 cm del eje de rotación y que la masa 
+de la varilla es despreciable. B, sin embargo, hace los cálculos sin aproximacio- 
+nes. (a) Comparar los dos resultados, (b) Si las esferas tuvieran la misma masa, 
+pero fueran huecas, ¿aumentaría o disminuiría la inercia rotacional? Justificar 
+la respuesta brevemente. No es necesario calcular el nuevo valor de /. 
+51 ee La molécula de metano (CH4) tiene cuatro átomos de hidrógeno 
+localizados en los vértices de un tetraedro regular de lado 0,18 nm, con el 
+átomo de carbono en el centro (figura 9.46). Determinar el momento de inercia 
+de esta molécula respecto a un eje de rotación que pase a través del átomo de 
+carbono y uno de los átomos de hidrógeno. 
+Figura 9.46 Problema 51 
+52 es Un cilindro hueco de masa m tiene un radio exterior R, y un radio 
+interior R;. Demostrar que su momento de inercia respecto a su eje de simetría 
+es Z= tm(R}+ RẸ). En la sección 9,3 se encontró el momento de inercia para 
+un cilindro sólido integrando directamente, primero calculando el momento de 
+inercia para un disco. Este cálculo es el mismo que aquél excepto para el valor 
+de uno de los límites de integración y la expresión para el área de la sección 
+transversal. 
+53 ec. Demostrar que el momento de inercia de una corteza esférica de 
+radio R y masa m es ; mR?. Esto puede hacerse directamente por integración o, 
+más fácilmente, determinando el incremento del momento de inercia de una 
+esfera sólida cuando cambia su radio. Para hacer esto último demostrar en pri- 
+mer lugar que el momento de inercia de una esfera sólida de densidad p es / = 
+APRO, Después, calcular la variación d/ del momento de inercia / para una 
+variación dR del radio y tener en cuenta que la masa de esta corteza es dm = 
+4nR?p dR. 
+54 @@@ SSM  Ladensidad de la Tierra no es uniforme. Varia con la dis- 
+tancia r al centro de la Tierra en la forma p = C (1,22 — r/R), en donde R es el 
+radio de la Tierra y C una constante. (a) Determinar C en función de la masa 
+total M y el radio R. (b) Determinar el momento de inercia de la Tierra (véase 
+problema 53). 
+55 ese Utilizar el cálculo integral para determinar el momento de inercia 
+de un cono sólido homogéneo circular recto de altura H, radio de la base R y 
+densidad p respecto a su eje de simetría. 
+56 ese Utilizar el cálculo integral para determinar el momento de inercia 
+de un disco delgado uniforme de masa M y radio R respecto a un diámetro 
+como eje de rotación. Comprobar la respuesta en la tabla 9.1. 
+57 ese Un vendedor de helados junto a la carretera utiliza conos rotatorios 
+para llamar la atención de los viajeros. Cada cono gira alrededor de un eje per- 
+pendicular a su eje de simetría que pasa por el vértice. Los tamaños de los conos 
+son variables y el propietario piensa si sería más rentable energéticamente utilizar 
+varios conos más pequeños o unos pocos muy grandes. Para obtener una res- 
+puesta debe calcular el momento de inercia de un cono circular recto homogéneo 
+de altura H, radio de la base R y densidad p. ¿Cuál es el resultado?
+
+ergía cinética de rotación 
+58 e Las partículas de la figura 9.47 se unen mediante una varilla muy 
+ligera cuyo momento de inercia puede despreciarse. Giran alrededor del eje y 
+con velocidad angular @ = 2 rad/s. (a) Hallar la velocidad de cada partícula y 
+utilizarla para calcular la energía cinética de este sistema directamente a partir 
+de Y 1 mv? (b) Hallar el momento de inercia alrededor del eje y y calcular la 
+energía cinética a partir de E, = | lar. 
+-40 -30 -20 -10 0 10 20 30 4 mem 
+Figura 9.47 Problema 58 
+59 e sM Í Una bola sólida de masa 1,4 kg y diámetro 
+15 cm gira alrededor de su diámetro a 70 rev/min. (a) ¿Cuál es su energía ciné- 
+tica? (b) Si se suministran 2 J de energía a su energía de rotación, ¿cuál será la 
+nueva velocidad angular de la bola? 
+60 e Un motor desarrolla un par de 400 N - m a 3700 rev/min, Deter- 
+minar la potencia suministrada por el motor, 
+61 es Dos masas puntuales m, y my están conectadas por una varilla 
+ligera de longitud L. El conjunto gira alrededor de su centro de masas con velo- 
+cidad angular @, Demostrar que la relación entre las energías cinéticas de las 
+masas es E /E., = m/m. 
+62 ee 1! Y Calcular la energía cinética de rotación de la Tierra 
+alrededor de su eje y compararla con la energía cinética del movimiento del 
+centro de masas de la Tierra en su órbita alrededor del Sol. Suponer que la Tie- 
+rra es una esfera homogénea de masa 6,0 x 10% kg cuyo radio vale 6,4 x 10° m. 
+El radio de la órbita terrestre es 1,5 x 10" m. 
+63 ee sm i Un bloque de 2000 kg asciende a una veloci- 
+dad constante de 8 cm/s mediante un cable de acero que pasa por una polea de 
+masa despreciable y se arrolla en el tambor de un torno impulsado por un motor 
+(figura 9.48). El radio del tambor es de 30 cm. (a) ¿Qué fuerza ejerce el cable? 
+(b) ¿Qué momento ejerce la tensión del cable sobre el tambor? (e) ¿Cuál es la 
+velocidad angular del tambor? (d) ¿Qué potencia debe desarrollar el motor para 
+hacer girar el tambor del torno? 
+Figura 9.48 Problema 63 
+Problemas | 277 
+64 @@ Un disco uniforme de masa M y radio R puede girar libremente 
+respecto a un eje que pasa por su centro y es perpendicular al plano del disco. 
+Se sujeta una pequeña particula de masa m al borde del disco y en su parte 
+superior, directamente encima del eje de rotación, El sistema se hace girar ini- 
+cialmente con suavidad. (a) ¿Cuál es la velocidad angular del disco cuando la 
+partícula se encuentra en el punto más bajo de su trayectoria? (b) En este punto, 
+¿cuál es la fuerza ejercida por el disco sobre la partícula para que ésta perma- 
+nezca en el disco? 
+65 es Un anillo de 1.5 m de diámetro pivota sobre un punto de su cir- 
+cunferencia de modo que gira alrededor de un eje horizontal, Inicialmente la 
+línea que pasa por el soporte y por el centro del anillo es horizontal (figura 
+9,49). (a) Si se deja oscilar libremente desde el reposo, ¿cuál es su velocidad 
+angular máxima? (b) ¿Qué velocidad angular debe imprimirse inicialmente 
+para que dé justamente una revolución completa (360 °C)? 
+Figura 9.49 
+6 ec |. Queremos diseñar un coche que utilice la energía 
+almacenada en un volante formado por un cilindro de 100 kg uniforme y de 
+radio R. El volante debe suministrar una media de 2 MJ/km de energía mecá- 
+nica, con una velocidad angular máxima de 400 rev/s. Determinar el valor 
+mínimo de R, tal que el coche pueda recorrer 300 km sin que el volante necesite 
+ser recargado. 
+67 es Una escalera portátil de 8,6 m de longitud y masa 60 kg se sitúa en 
+posición casi vertical contra la pared de un edificio. Una persona que pretende 
+bajar por la escalera está de pie sobre un peldaño de modo que tiene su centro de 
+masas a la altura de la parte más alta de la escalera. Su masa es de 80 kg. Al incli- 
+narse ligeramente, la escalera comienza a girar alrededor de su base, alejándose 
+de la pared. ¿Qué es menos peligroso para esta persona: saltar rápidamente de la 
+escalera al suelo o agarrarse a la escalera y saltar justo un momento antes de que 
+el extremo de la escalera choque contra el suelo? 
+Poleas, yo-yos y objetos colgantes 
+68 e. SSM : Y Un bloque de 4 kg que descansa sobre una 
+plataforma horizontal sin rozamiento está conectado a otro bloque colgante de 
+2 kg mediante una cuerda que pasa por una polea (figura 9.50). Esta polea está 
+formada por un disco uniforme de radio 8 cm y una masa de 0,6 kg. (a) Deter- 
+minar la velocidad del bloque de 2 kg después de haber descendido desde el 
+reposo una distancia de 2,5 m. (b) ¿Cuál es la velocidad angular de la polea en 
+ese momento? 
+Figura 9.50 Problemas 68-70
+
+278 | Capítulo 9 Rotación 
+69 es Enel sistema del problema 68, determinar la aceleración lineal de 
+cada bloque y la tensión de la cuerda. 
+70 eS Analizarel problema 68 para el caso en que el coeficiente de roza- 
+miento entre el bloque de 4 kg y la plataforma sea 0,25. 
+71 06 Mediante un torno de engranaje se está procediendo a levantar un 
+coche de 1200 kg del modo que se indica en la figura 9.51. El coche está a 5,0 m 
+sobre la superficie del agua. En ese instante, se rompen los engranajes del torno 
+y el coche cae desde el reposo. Durante la caída del coche no hay deslizamiento 
+entre la cuerda (sin masa) la polea y el tambor. El momento de inercia del tam- 
+bor del torno es igual a 320 kg - m? y el de la polea 4 kg - m?; el radio del tam- 
+bor es de 0,80 m y el de la polea de 0,30 m. Calcular la velocidad con la que el 
+coche golpea la superficie del agua. 
+Figura 9.53 Problema 73 
+74 ee i Una maquina de Atwood tiene dos cuerpos de masas 
+m = 500 g y m = 510 g, unidos por una cuerda de masa despreciable que pasa 
+por una polea sin rozamiento (figura 9.54). La polea es un disco uniforme de 
+masa 50 g y un radio de 4 cm. La cuerda no se desliza sobre la polea. (a) Hallar 
+la aceleración de las masas. (b) ¿Cuál es la tensión de la cuerda que soporta a 
+my? ¿Y la de la cuerda que soporta a m,? ¿En cuánto difieren? (c) ¿Cuáles 
+serías las respuestas dadas si se hubiese despreciado la masa de la polea? 
+Figura 9.51 Problema 71 
+72 @@ SSM  Elsistema de la figura 9.52 se deja libre desde el reposo. 
+El cuerpo de 30 kg se encuentra a 2 m de la plataforma. La polea es un disco 
+uniforme de 10 cm de radio y 5 kg de masa. Calcular (a) la velocidad del 
+cuerpo de 30 kg justo antes de que llegue a tocar la plataforma, (b) la velocidad 
+angular de la polea en ese instante, (c) las tensiones de las cuerdas y (d) el 
+tiempo que invierte el cuerpo de 30 kg en alcanzar la plataforma. Suponer que 
+la cuerda no desliza sobre la polea. 
+Figura 9.54 Problema 74 
+75 ee ssm  Dosobjetos cuelgan de dos cuerdas unidas a dos ruedas 
+capaces de girar respecto a un mismo eje del modo que se indica en la figura 
+9.55. El momento de inercia total de las dos ruedas es de 40 kg - m?. Los radios 
+son R; = 1,2 m y R¿=0,4 m. (a) Si m, = 24 kg, calcular el valor de m, para que 
+Figura 9.52 Problema 72 
+73 ee Una esfera uniforme de masa M y radio R puede girar libremente 
+respecto a un eje horizontal que pasa por su centro. Se enrolla una cuerda alre- 
+dedor de la esfera y se une a un cuerpo de masa m como se indica en la figura 
+9.53. Calcular (a) la aceleración del cuerpo y (b) la tensión en la cuerda, Figura 9.55 Problema 75
+
+nula la aceleración angular de las ruedas. (b) Si se colocan con suavidad 
+-12 kg sobre la parte superior de m, calcular la aceleración angular de las rue- 
+s y la tensión en las cuerdas. 
+76 es La cuerda que envuelve el cilindro de la figura 9.56 está sostenida 
+por la mano de una persona que acelera hacia arriba sin que se mueva el centro 
+de masas del cilindro. Determinar (a) la tensión de la cuerda, (b) la aceleración 
+angular, (c) la aceleración de la mano. 
+a > 
+Figura 9.56 Problemas 76 y 80 
+77 es Un cilindro uniforme de masa m,, y radio R gira sobre un eje sin 
+rozamiento. Se enrolla una cuerda alrededor del mismo conectada a un bloque de 
+masa m, el cual está apoyado en un plano inclinado sin rozamiento de ángulo 8, 
+como se ve en la figura 9.57. El sistema se deja en libertad desde el reposo con my 
+a una altura h sobre la base del plano inclinado. (a) ¿Cuál es la aceleración del 
+bloque? (b) ¿Cuál es la tensión de la cuerda? (c) ¿Cuál es la energía total del 
+sistema cilindro-bloque-Tierra cuando m, está a la altura h? (d) ¿Cuál es la 
+energía total cuando mm, está en la base del plano inclinado y posee una veloci- 
+dad v? (e) ¿Cuál es el valor de v? (f) Analizar las respuestas para los casos 
+extremos de 0 = 0°, @=90° y m, =0. 
+Figura 9.57 Problema 77 
+78 es SSM  Enla figura 9.58 se muestra un dispositivo para medir el 
+momento de inercia de un objeto. Una plataforma circular posee un tambor 
+concéntrico de radio 10 cm alrededor del cual se arrolla una cuerda. Esta 
+Figura 9.58 Problema 78 - 
+Problemas | 279 
+cuerda pasa por una polea sin rozamiento y de su extremo cuelga un peso de 
+masa M. El peso se deja caer desde el reposo y se mide el tiempo que transcurre 
+cuando cae una distancia D. El sistema entonces se rebobina, el objeto cuyo 
+momento de inercia se desea medir se sitúa sobre la plataforma y el sistema se 
+deja libre de nuevo desde el reposo. El tiempo requerido ahora para que el peso 
+descienda la misma distancia D proporciona los datos necesarios para el cál- 
+culo de /. Con M = 2,5 kg y D = 1,8 m, el tiempo es 4,2 s. (a) Determinar el 
+momento de inercia combinado de la plataforma, el eje, el tambor y la polea. 
+(b) Con un objeto situado sobre la plataforma, el tiempo es 6,8 s para D = 1,8 m. 
+Determinar el momento de inercia del objeto respecto el eje de la plataforma. 
+Objetos rodantes sin deslizamiento 
+79 ee Í Y En 1993, un yo-yo gigante de masa 400 kg y unos 
+1,5 m de radio se dejó caer desde una grúa de 57 m de altura. Uno de los extre- 
+mos de la cuerda estaba atada a la grúa, de manera que el yo-yo se desenrollaba 
+al descender. Suponiendo que el eje de yo-yo tenía un radio de r=0,1 m, deter- 
+minar la velocidad de descenso en el punto más bajo de su recorrido. 
+80 es Un cilindro uniforme de masa M y radio R tiene arrollada una 
+cuerda. Esta cuerda está fuertemente sujeta, y el cilindro cae verticalmente, tal 
+como se indica en la figura 9.56. (a) Demostrar que la aceleración del cilindro 
+está dirigida hacia abajo y que su módulo es a = 2g/3. (b) Calcular la tensión de 
+la cuerda. 
+81 es Un yo-yo de 0,1 kg está formado por dos discos sólidos de radio 
+10 cm unidos entre sí por una barra sin masa de radio 1 cm y una cuerda arro- 
+llada a la barra. Un extremo de la cuerda se mantiene fijo y está bajo la tensión 
+constante T cuando se suelta el yo-yo. Determinar la aceleración del yo-yo y la 
+tensión T. 
+82 e ssm Un cilindro sólido homogéneo rueda sin deslizamiento 
+sobre una superficie horizontal. La energía cinética total es E.. La energía ciné- 
+tica debida a la rotación alrededor de su centro de masas es (a) | E, (b) 3 Es 
+(0) FE. (d) Ninguna de las anteriores. A 
+83 e i Un cilindro homogéneo de radio 18 cm y masa 60 kg 
+rueda sin deslizamiento sobre una superficie horizontal a la velocidad de 5 m/s. 
+¿Qué trabajo se necesitó para ponerlo en movimiento? 
+84 e Calcular los porcentajes de energía cinética total asociada con la 
+rotación y con la traslación de un objeto que rueda sin deslizarse si éste es, res- 
+pectivamente, (a) una esfera uniforme, (b) un cilindro uniforme, (c) un aro, 
+85 e Un aro de 0,40 m de radio y 0,6 kg rueda sin deslizarse con una 
+velocidad de 15 m/s hacia un plano inclinado de 30°. ¿Cuál será la distancia 
+subida por el aro en el plano? (Suponer que rueda sin deslizarse.) 
+86 ee SSM Una esfera uniforme rueda sin deslizar por un plano 
+inclinado. ¿Cuál tiene que ser el ángulo del plano inclinado para que la acelera- 
+ción del centro de masas de la esfera sea 0,2 g? 
+87 es Repetir el problema 86 para una esfera hueca. 
+88 es Una pelota rueda sin deslizar por un plano inclinado que forma un 
+ángulo @ con la horizontal. Calcular en función del coeficiente de rozamiento 
+He (a) la aceleración de la pelota, (b) la fuerza de rozamiento, y (c) el máximo 
+ángulo de inclinación para que la pelota pueda rodar sin deslizarse. 
+89 es Repetir el problema 88 para un cilindro sólido de madera. 
+90 es ssm Una esfera hueca y otra sólida (y uniforme) de iguales 
+masas m y radios R ruedan sin deslizamiento por un plano inclinado desde la 
+misma altura A (figura 9.59). Ambas se mueven horizontalmente al salir de la 
+rampa. Cuando las esferas chocan contra el suelo, el alcance de la esfera hueca 
+es L. Determinar el alcance L’ de la esfera uniforme sólida.
+
+280 Capítulo 9 Rotación 
+Esfera uniforme Esfera hueca 
+Seas 
+Figura 9.59 Problema 90 
+91 ee Un cilindro de paredes delgadas y otro cilindro sólido uniforme 
+ruedan horizontalmente sin desplazamiento. La velocidad del cilindro hueco es 
+v. Ambos cilindros encuentran un plano inclinado por el que trepan sin deslizar. 
+Si la altura máxima que alcanzan es la misma, determinar la velocidad v’ del 
+cilindro sólido. 
+92 ee Un cilindro hueco, de paredes delgadas, y una esfera sólida parten 
+del reposo y ruedan sin deslizamiento por un plano inclinado de longitud 3 m. 
+El cilindro llega a la base del plano 2,4 s después de la esfera. Determinar el 
+ángulo que forma el plano inclinado con la horizontal. 
+93 ese Una rueda posee una delgada llanta de 3,0 kg y cuatro radios, 
+cada uno de masa 1,2 kg. Determinar la energía cinética de la rueda al rodar 
+sobre una superficie horizontal a la velocidad de 6,0 m/s. 
+94 ee Í Y Dos discos uniformes y pesados están conectados 
+por una corta barra. El sistema se sitúa sobre un plano inclinado de tal modo 
+que los discos cuelgan sobre los lados. Cada disco posee una masa de 20 kg y 
+un radio de 30 cm y la barra de conexión tiene un radio de 2 cm y una masa de 
+1 kg. El plano está inclinado 30° y la barra rueda sobre el plano sin desliza- 
+miento. (a) ¿Cuál es la aceleración lineal del sistema que desciende por el 
+plano? (b) ¿Cuál es la aceleración angular del sistema? (c) Si el sistema parte 
+del reposo, ¿cuál es la energía cinética de traslación cuando ha rodado 2 m 
+sobre el plano? (d) ¿Cuál es la energía cinética de rotación al cabo de dicho 
+desplazamiento? 
+95 @@@ Una rueda de radio R rueda sin deslizamiento con velocidad V. 
+Las coordenadas del centro de la rueda son X, Y. (a) Demostrar que las coor- 
+denadas x e y del punto P de la figura 9.60 son X + r cos O y R + r sen 6, res- 
+pectivamente. (b) Demostrar que la velocidad total v del punto P tiene por 
+componentes v, = V + (ryV sen O//R y v, =-(r,¿V cos O//R. (c) Demostrar que 
+en el instante en que X = 0, y y r son perpendiculares entre sí calculando su 
+producto escalar. (d) Demostrar que v = ræ, siendo @ = V/R la velocidad 
+angular de la rueda. Estos resultados demuestran que en el caso de rodar sin 
+deslizamiento, el movimiento es el mismo que si el objeto que rueda estu- 
+viese girando instantáneamente alrededor del punto de contacto con veloci- 
+dad angular œ = V/R. 
+Figura 9.60 Problema 95 
+96 @@@ ssm Un cilindro uniforme de masa M y radio R descansa 
+sobre un bloque de masa m, el cual a su vez se encuentra en reposo sobre una 
+mesa horizontal sin rozamiento (figura 9.61). Si aplicamos al bloque una fuerza 
+horizontal F, éste acelera y el cilindro rueda sin deslizamiento. Determinar la 
+aceleración del bloque. 
+Figura 9.61 Problema 96-98 
+97 @@@ (a) Determinar la aceleración angular del cilindro en el problema 96. 
+¿Es horaria o antihoraria la rotación del cilindro? (b) ¿Cuál es la aceleración lineal 
+del cilindro respecto a la mesa? Tomemos como sentido positivo el mismo que 
+indica la dirección de F. (c) ¿Cuál es la aceleración lineal del cilindro respecto al 
+bloque? 
+98 eee Si la fuerza del problema 96 actúa a lo largo de una distancia d, 
+determinar (a) la energía cinética del bloque y (b) la energía cinética del cilin- 
+dro, (c) Demostrar que la energía cinética total es igual al trabajo realizado 
+sobre el sistema. 
+99 ee Enla figura 9.62 se muestra dos grandes engranajes, cada uno de 
+los cuales puede girar alrededor de un eje que pasa por su centro. Uno tiene un 
+radio R, = 0,5 m y el otro R} = | m. El momento de inercia del engranaje | es 
+I¡= 1 kg-m? y el del engranaje 2 es /, = 16 kg-m?. La palanca fija al engranaje | 
+tiene una longitud de | m. (a) Si se aplica una fuerza de 2 N al extremo de la 
+palanca, tal como se ve en la figura, ¿cuál será la aceleración angular de los 
+engranajes 1 y 2?, (a) ¿Qué fuerza ha de aplicarse tangencialmente al extremo 
+del engranaje 2 para evitar que el engranaje gire? 
+2N 
+Figura 9.62 Problema 99 
+100 es ssm Una canica de | cm de radio, inicialmente en reposo, 
+rueda desde la cima de una esfera grande de 80 cm de radio, que se mantiene 
+fija. (a) Suponiendo que la canica rueda sin deslizar mientras está en contacto 
+con la esfera (lo cual es poco realista), determinar el ángulo desde la cima hasta 
+el punto de la esfera donde la canica se empieza a separar. (b) ¿Por qué es tan 
+poco realista suponer que la canica rueda sin deslizar mientras está en contacto 
+con la superficie de la esfera? 
+Rodadura con deslizamiento 
+101 e En una bolera se lanza una bola de masa M y radio R de modo que 
+en el instante en que toque el suelo se esté moviendo horizontalmente con una 
+velocidad vg sin rodamiento. La bola desliza durante un tiempo ?, a lo largo de 
+una distancia s; antes de empezar a rodar sin deslizamiento. (a) Si 4 es el 
+coeficiente de rozamiento por deslizamiento entre la bola y el suelo, calcular s,, 
+f y la velocidad final v, de la bola. (b) Determinar la relación entre la energía 
+mecánica final e inicial de la bola. (c) Evaluar estas magnitudes para v, = 8 m/s 
+y He =0,06.
+
+102 es ssm _ Una bola de billar de radio r se encuentra inicialmente en 
+reposo sobre una mesa de billar horizontal (figura 9.63). Se la golpea mediante un 
+taco que desarrolla una fuerza de módulo Py durante un tiempo muy corto Az El 
+taco golpea la bola en un punto situado a una distancia / del punto de contacto 
+con la mesa. Demostrar que la velocidad angular œ está relacionada con la velo- 
+cidad lineal inicial del centro de masas vo por @) = (5/2) vy(h — rr. 
+Figura 9.63 Problema 102 
+103 es Una pelota esférica uniforme se pone en rotación respecto a un eje 
+horizontal con una velocidad angular @, y se deja en reposo sobre el suelo. Si el 
+coeficiente de rozamiento por deslizamiento entre la pelota y el suelo es 44 cal- 
+cular la velocidad del centro de masas de la pelota cuando ésta comienza a 
+rodar sin deslizamiento. 
+104 es Una pelota sólida homogénea con una masa de 20 g y un radio de 
+5 cm descansa sobre una superficie horizontal. En dirección horizontal y a una 
+distancia de 9 cm sobre la superficie se aplica a la bola una fuerza instantánea. La 
+fuerza crece linealmente desde 0 hasta un valor máximo de 40000 N en 107 s y 
+después decrece linealmente a O en 1074s. (a) ¿Cuál es la velocidad de la pelota 
+después del impacto? (b) ¿Cuál es la velocidad angular de la pelota después del 
+impacto? (c) ¿Cuál es la velocidad de la pelota cuando comienza a rodar sin 
+deslizamiento? (d) ¿Durante cuánto tiempo la pelota ha deslizado sobre la 
+superficie? Supóngase que 4, = 0,5. 
+105 ee 1 Una bola de billar de 0,16 kg y radio 3 cm es golpeada 
+por el taco mediante un impulso horizontal que pasa por su centro. La veloci- 
+dad inicial de la bola es de 4 m/s. El coeficiente de rozamiento cinético es 0,6, 
+(a) ¿Durante cuántos segundos desliza la bola antes de que comience a rodar 
+sin deslizamiento? (b) ¿Qué distancia recorre deslizando? (c) ¿Cuál es su velo- 
+cidad cuando comienza a rodar sin deslizamiento? 
+106 @@ Una bola de billar inicialmente en reposo recibe un golpe instan- 
+táneo mediante un taco. El impulso es horizontal y se aplica a una distancia 2R/3 
+por debajo de la línea central (figura 9.64). La velocidad inicial de la bola es vo 
+y el coeficiente de rozamiento cinético 4. (a) ¿Cuál es la velocidad angular ini- 
+cial @? (b) ¿Cuál es la velocidad de la bola una vez que comienza a rodar sin 
+deslizamiento? (c) ¿Cuál es la energía cinética inicial de la bola? (d) ¿Cuál es el 
+trabajo de rozamiento realizado cuando desliza por la mesa? 
+Figura 9.64 Problema 106 
+107 @@ Se lanza por la pista de una bolera una bola de radio R con una 
+velocidad inicial vp y una velocidad angular de rotación & = 3vy/R hacia ade- 
+lante, El coeficiente de rozamiento cinético es 4. (a) ¿Cuál es la velocidad de 
+la bola cuando comienza a rodar sin deslizamiento? (b) ¿Durante cuánto 
+tiempo ha deslizado la bola antes de que empiece a rodar sin deslizamiento? 
+(c) ¿Qué distancia ha recorrido la bola por la pista antes de que comience a 
+rodar sin deslizamiento? 
+108 @@ ssm Un cilindro sólido de masa M descansa lateralmente 
+sobre una superficie horizontal. Un taco de billar lo golpea violentamente de 
+modo que la fuerza aplicada es horizontal y pasa por el centro del cilindro. Éste 
+inicia un movimiento de traslación con velocidad inicial vy. El coeficiente de 
+rozamiento deslizante entre el cilindro y la superficie es u.. (a) ¿Cuál es la 
+velocidad de traslación del cilindro al rodar sin deslizamiento? (b) ¿Qué distan- 
+Problemas | 281 
+cia recorre el cilindro antes de rodar sin deslizamiento? (c) ¿Qué fracción de su 
+energía mecánica inicial se disipa en el rozamiento? 
+109 @@ Considerar una bola de radio r y masa total m con una distribu- 
+ción de masa no uniforme sino radialmente simétrica, de forma que puede tener 
+un momento de inercia / casi arbitrario. 
+(a) Demostrar que si la bola se lanza desde el suelo con una velocidad inicial v 
+de forma que primero resbale (es decir, que su velocidad inicial de rotación 
+sea @ = 0), su velocidad final cuando rueda sin resbalar es 
+Y. — V;  T+i/mr 
+independiente del coeficiente de rozamiento cinético con el suelo. 
+(b) Demostrar que la energía cinética total de la bola es 
+ae m 2 
+E Fite 
+(Obsérvese que l/mr? es independiente de la masa y del radio de la bola; 
+depende sólo de la distribución de masa dentro de ésta.) 
+Problemas generales 
+110 © ssm LaLuna gira sobre sí misma al mismo tiempo que gira 
+alrededor de la Tierra, de modo que muestra siempre la misma cara. Utilizar este 
+hecho para determinar la velocidad angular (en rad/s) de la Luna alrededor de su 
+eje. (El periodo de revolución de la Luna alrededor de la Tierra es 27,3 días.) 
+111 © Determinar el momento de inercia de un aro alrededor de un eje 
+perpendicular al plano del aro que pase por un punto de su borde. 
+112 es Con objeto de poner en marcha un tiovivo, se enrolla una cuerda 
+alrededor de él y se tira de la misma. Se ejerce durante 12 s una fuerza de 260 N 
+sobre la cuerda. Durante este tiempo el tiovivo, que tiene un radio de 2,2 m, 
+realiza una rotación completa. (a) Hallar la aceleración angular del tiovivo 
+admitiendo que es constante. (b) ¿Qué momento ejerce la cuerda sobre el tio- 
+vivo? (c) ¿Cuál es el momento de inercia del tiovivo? 
+113 e Un bastón uniforme de 2 m de longitud se apoya sobre el hielo 
+formando un ángulo de 30° con la superficie horizontal. El bastón cae desde el 
+reposo, manteniendo en todo momento su extremo inferior en contacto con la 
+superficie del hielo, ¿Qué distancia se ha movido este extremo del bastón 
+cuando éste ha caído completamente sobre la superficie helada? Supóngase que 
+el hielo no ejerce rozamiento. 
+114 ee | Y Un disco uniforme de radio 0,12 m y masa 5 kg 
+tiene un eje central de modo que puede girar libremente a su alrededor. Se enro- 
+lla una cuerda alrededor del disco y se tira de ella con una fuerza de 20 N 
+(figura 9.65), (a) ¿Cuál es el momento ejercido sobre el disco? (b) ¿Cuál es la 
+aceleración angular del mismo? (c) Si el disco parte del reposo, ¿cuál es su velo- 
+cidad angular después de 5 s? (d) ¿Cuál es su energía cinética después de 5 s? 
+(e) Hallar el ángulo total O que gira del disco en 5 s. (f) Demostrar que el tra- 
+bajo realizado por el momento, 7 A@, es igual a la energía cinética. 
+20N 
+Figura 9.65 Problema 114
+
+282 | Capítulo 9 Rotación 
+115 es Una barra de 0,25 kg y longitud 80 cm está suspendida de un 
+pivote por uno de sus extremos. Se considera que el pivote no tiene rozamiento. 
+La barra se mantiene horizontal y se deja caer. Inmediatamente después de su 
+liberación, (a) ¿cuál es la aceleración del centro de la barra? (b) ¿Y la acelera- 
+ción inicial de un punto del extremo de la barra? (c) Determinar la velocidad 
+lineal del centro de masas de la barra cuando está en posición vertical. 
+116 «es Una bolita de masa M y radio R rueda sin deslizamiento hacia 
+abajo por la pista de la izquierda desde la altura 4, como indica la figura 9.66. 
+La bolita sube entonces por la pista sin rozamiento de la derecha hasta una 
+altura h,. Determinar 41. 
+Figura 9.66 Problema 116 
+117 @@ SSM I Un disco uniforme con una masa de 120 kg y 
+un radio de 1,4 m rueda inicialmente con una velocidad angular de 1100 rev/min. 
+(a) A una distancia radial de 0,6 m se aplica una fuerza tangencial. ¿Qué tra- 
+bajo debe realizar esta fuerza para detener el disco? (b) Si la rueda se detiene en 
+2,5 min, ¿qué momento produce la fuerza? ¿Cuál es el módulo de la fuerza? (c) 
+¿Cuántas revoluciones da la rueda en estos 2,5 min? 
+118 oe i Un tiovivo de un parque tiene una plataforma circular 
+de 4,00 m de diámetro y una masa de 240 kg. Cuatro niños que corren a su alre- 
+dedor empujan tangencialmente la plataforma hasta que el tiovivo, partiendo 
+del reposo, alcanza una velocidad estacionaria de una revolución completa cada 
+2,8 s. (a) Si cada niño ejerce una fuerza de 26 N, ¿qué distancia han recorrido? 
+(b) ¿Cuál es la velocidad angular del tiovivo? (c) ¿Cuánto trabajo ha realizado 
+cada niño? (d) ¿Cuál es la energía cinética del tiovivo? 
+119 ee I Un aro de masa 1,5 kg y radio 65 cm tiene una cuerda 
+arrollada a su circunferencia y está apoyado en posición plana sobre una mesa 
+horizontal sin rozamiento. Se tira de la cuerda con una fuerza de 5 N. (a) ¿Qué 
+distancia recorrerá el centro del aro en 3 s? (b) ¿Cuál es la velocidad angular 
+del aro respecto a su centro de masas al cabo de 3 s? 
+120 es Una rueda vertical de molino está constituida por un disco uni- 
+forme de masa 60 kg y 45 cm de radio, Posee un manubrio de 65 cm de radio y 
+de masa despreciable, Se une un peso de 25 kg al manubrio cuando éste se 
+encuentra en posición horizontal. Despreciando el rozamiento, calcular (a) la 
+aceleración angular inicial de la rueda y (b) la velocidad angular máxima de la 
+misma. 
+121 @@ ssm  Considérense dos bloques uniformes de madera, idénti- 
+cos en forma y en composición, donde uno es más largo que otro por un factor 
+S en todas las dimensiones. (a) ¿Cuál es la relación entre el área de los dos blo- 
+ques? (b) ¿Cuál es la relación entre la masa de los bloques? (c) ¿Cuál es la rela- 
+ción entre los momentos de inercia alrededor de un eje que pase por cada 
+bloque, suponiendo que éstos tienen la misma posición y orientación relativa? 
+Este es un ejemplo de leves de escala: cómo varían con el tamaño el área super- 
+ficial, la masa y el momento de inercia de un objeto. 
+122 es Deducir el llamado teorema de los ejes perpendiculares para fi gu- 
+ras planas que relaciona los momentos de inercia respecto a dos ejes perpendi- 
+culares al plano de la figura 9.67 con el momento de inercia respecto a un tercer 
+eje perpendicular al plano de la figura. Considerar el elemento de masa dm de 
+la figura situado en el plano xy. (a) Expresar el momento de inercia de la figura 
+respecto al eje z en función de dm y r. (b) Relacionar la distancia r a dm con las 
+distancias x e y y demostrar así que /. = 1, + 1,. (c) Aplicar este resultado a la 
+determinación del momento de inercia de un disco uniforme de radio R res- 
+pecto a un diámetro del disco. 
+Figura 9.67 Problema 122 
+123 ee 1 Un disco uniforme de radio R y masa M pivota alrede- 
+dor de un eje horizontal que pasa por su borde, paralelamente al eje de simetría, 
+de tal manera que puede oscilar libremente en un plano vertical (figura 9,68). 
+Desde una posición de reposo, con su centro de masas a la misma altura que el 
+pivote, se deja caer. (a) ¿Cuál es la velocidad angular del disco cuando su cen- 
+tro de masas está directamente por debajo del pivote? (b) ¿Qué fuerza ejerce el 
+pivote en ese momento? 
+Figura 9.68 Problema 123 
+124 es El techo del comedor de la residencia de estudiantes del colegio 
+St. Mary se aguanta gracias a vigas de madera reforzadas que tienen la forma 
+que se muestra en la figura 9.69. Cada viga vertical tiene una longitud de 365 cm 
+y una anchura de 61 cm. Cada viga horizontal tiene una longitud de 183 cm y 
+una anchura de también 61 cm. Las vigas verticales tienen una masa de 350 kg 
+y las vigas horizontales de 175 kg. Cuando se estaban instalando, una de las 
+estructuras empezó a caer antes de que fuera anclada (afortunadamente los tra- 
+bajadores consiguieron sujetarla antes de que cayera del todo) (a) Si empezó a 
+p 183 cm ——>| 
+61 cm 
+365 cm 
+k 61 cm 
+Figura 9.69 Problema 124
+
+caer desde una posición vertical, ¿cuál fue la aceleración angular inicial de la 
+estructura? Supongamos que el pie no resbaló y que la caída ocurría en el plano 
+vertical definido por las vigas vertical y horizontal de la figura. (6) ¿Cuál fue la 
+aceleración lineal inicial de la viga horizontal en el extremo derecho de la 
+misma cuando la estructura empezaba a caer? (c) ¿Cuál fue la componente 
+horizontal de esta aceleración? 
+125 es Un carrete de masa M descansa sobre un plano inclinado a una 
+distancia D medida desde el fondo. El carrete tiene un radio máximo R y un 
+radio mínimo, r, y un momento de inercia 7 respecto a su eje. Una larga 
+cuerda de masa despreciable se arrolla múltiples veces alrededor del centro 
+del carrete y el otro extremo se sujeta a la parte más alta del plano, inclinado 
+de modo que la cuerda siempre se mantiene paralela al plano como muestra la 
+figura 9.70. (a) Supongamos que inicialmente la pendiente está recubierta de 
+una capa de hielo, de modo que no hay rozamiento. ¿Cómo se mueve el 
+carrete al descender por la pendiente? Utilizar consideraciones energéticas 
+para determinar la velocidad del centro de masas del carrete cuando alcanza 
+la base del plano inclinado. Dar la respuesta en función de M, I, r, R, g, Dy 6. 
+(b) Supongamos ahora que el hielo ha desaparecido y que cuando se deja en 
+libertad el carrete hay suficiente rozamiento para evitar el deslizamiento 
+sobre la pendiente. ¿Cuál es en este caso la dirección y el módulo de la fuerza 
+de rozamiento? 
+Figura 9.70 Problema 125 
+126 ee I Y Una barra metálica sólida de 1,5 m de longitud 
+puede girar libremente sin rozamiento alrededor de un eje horizontal fijo, per- 
+pendicular a la barra y que pasa por un extremo. El otro extremo se mantiene en 
+posición horizontal. Una serie de pequeñas monedas de masa m se sitúan sobre 
+la barra a 25 cm, 50 cm, 76 cm, 1 m. 1,25 m y 1,50 m desde el soporte. Se deja 
+ahora caer el extremo libre, calcular la fuerza inicial ejercida sobre cada 
+moneda por la barra. La masa de las monedas es despreciable en comparación 
+con la masa de la barra. 
+127 es ssm  Unexperimento de clase muy común consiste en mante- 
+ner una regla de un metro de longitud en posición horizontal con el brazo 
+extendido con unas monedas repartidas uniformemente a lo largo de toda su 
+longitud. A medida que pasa el tiempo, la persona que sostiene la regla se cansa 
+y. poco a poco, va bajando el brazo. Suponiendo que este proceso se haga de 
+forma regular, se observa que las monedas que están más allá de una cierta dis- 
+tancia del eje de rotación caen y las que están más cerca no. (a) ¿Cuál es la ace- 
+leración en el extremo de la regla?, (b) ¿A qué distancia del extremo de la regla 
+debe estar una moneda para no caer? 
+128 ee ¡ La figura 9.71 muestra un cilindro hueco de longitud 
+1,8 m, masa 0,8 kg y radio 0,2 m. El cilindro puede girar libremente alrededor 
+de un eje vertical que pasa por su centro y es perpendicular al eje del cilindro. 
+Dentro del cilindro existen dos masas de 0,2 kg cada una, conectadas a sendos 
+muelles, de constante k y longitudes naturales 0,4 m. Las paredes interiores del 
+cilindro carecen de rozamiento. (a) Determinar el valor de la constante del 
+muelle sabiendo que las masas están localizadas a 0,8 m del centro del cilindro 
+cuando éste gira a 24 rad/s. (b) ¿Qué trabajo es necesario para que el sistema 
+pase de @=0 a w= 24 rad/s? 
+Problemas | 283 
+Figura 9,71 Problema 128 
+129 es Supongamos que en el sistema descrito en el problema 128, las 
+constantes de los muelles son, para cada uno, k = 60 N/m. El sistema parte del 
+reposo y lentamente acelera hasta que las masas se encuentran a 0,8 m del cen- 
+tro del cilindro. ¿Qué trabajo se ha realizado en este proceso? 
+130 es Una cuerda se arrolla alrededor de un cilindro uniforme de radio 
+R y masa M que descansa sobre una superficie horizontal sin rozamiento. Se 
+tira horizontalmente de la cuerda desde la parte superior con una fuerza F. 
+(a) Demostrar que la aceleración angular del cilindro es el doble que la necesa- 
+ria para rodar sin deslizamiento, de modo que el cilindro desliza hacia atrás 
+contra la mesa. (b) Determinar el módulo y dirección de la fuerza de roza- 
+miento entre la masa y el cilindro necesaria para que el cilindro ruede sin desli- 
+zar. ¿Cuál es la aceleración del cilindro en este caso? 
+131 @@ ssm  Calculemos la posición y de la carga atada al extremo 
+del torno del ejemplo 9.7 en función del tiempo mediante una integración 
+numérica. Para llevarlo a cabo, obsérvese que v(y) = dy/dt, o bien 
+N 
+y 1 ” = 1 a 
+Se hay 205 
+donde Ay’ es un incremento pequeño, yí = ¡(Ay), e y = yy = n(Ay). Por 
+consiguiente, se puede calcular + en función de y sumando numéricamente. 
+Representar gráficamente y” frente a t entre los valores de 0 y 2 s. Suponga M = 
+10 kg, R=0,5m,m=5 kg, L = 10 my me =3,5 kg. Use Ay'= 0,1 m. Comparar 
+este resultado con el que se daría si el cubo con el agua cayera en caída libre. 
+132 @@ Enla figura 9.72 se muestra un cilindro macizo de masa M y radio 
+Ral cual se sujeta un cilindro hueco de radio r. Alrededor del cilindro hueco se 
+arrolla una cuerda. El cilindro macizo descansa sobre una superficie horizontal. 
+El coeficiente de rozamiento estático entre el cilindro y la superficie es 4.. Si se 
+aplica una ligera tensión a la cuerda en dirección vertical, el cilindro rueda 
+hacia la izquierda; si la tensión se aplica con la cuerda extendida horizontal- 
+mente, el cilindro rueda hacia la derecha. Determinar el ángulo que debe for- 
+mar la cuerda con la horizontal para que el cilindro permanezca estacionario al 
+aplicar una pequeña tensión a la cuerda. 
+Figura 9.72 Problema 132 
+133 ee ssm En los problemas donde intervienen poleas con 
+momentos de inercia distintos de cero, los módulos de las tensiones de la 
+cuerda a ambos lados de la polea no son iguales. El valor distinto de la ten-
+
+284 | Capítulo 9 Rotación 
+sión se debe a la fuerza de rozamiento estático entre la cuerda y la polea. Sin 
+embargo, la fuerza de rozamiento estática no puede ser arbitrariamente 
+grande. Si se considera una cuerda sin masa enrollada parcialmente alrede- 
+dor de un cilindro un ángulo A@ (medido en radianes), se puede demostrar 
+que si la tensión a un lado de la polea es T y al otro lado es 7* (T’ > T), el 
+valor máximo de 7’ en relación a T que se puede dar sin que la cuerda res- 
+bale es Tha = Te*®, donde u, es el coeficiente de rozamiento estático. 
+Consideremos la máquina de Atwood de la figura 9.73, donde la polea tiene 
+un radio r = 0,15 m, un momento de inercia / = 0,35 kg-m? y un coeficiente 
+de rozamiento estático 4, = 0,30. (a) Si la tensión en un lado de la polea es 
+de 10 N, ¿cuál es la tensión máxima al otro lado de la polea para prevenir 
+que la cuerda resbale sobre ésta? (b) Si la masa de uno de los bloques es de 1 kg 
+y ambos bloques se dejan libres, ¿cuál es la masa del otro bloque para que la 
+polea gire sin que se produzca deslizamiento de la cuerda?. (c) ¿Cuál es la 
+aceleración de los bloques en este caso? 
+Figura 9.73 Problema 133 
+134 eee Un cilindro homogéneo pesado tiene una masa m y un radio R. Se 
+ve acelerado por una fuerza T que se aplica mediante una cuerda arrollada a lo 
+largo de un tambor ligero de radio r unido al cilindro (figura 9,74). El coefi- 
+ciente de rozamiento estático es suficiente para que el cilindro ruede sin desli- 
+zar. (a) Hallar la fuerza de rozamiento. (b) Hallar la aceleración a del centro del 
+cilindro. (c) Demostrar que es posible escoger r de modo que a sea mayor que 
+Tim. (d) ¿Cuál es el sentido de la fuerza de rozamiento en las circunstancias 
+descritas en el apartado (c)? 
+Figura 9.74 Problema 134 
+135 eee Una barra uniforme de longitud L y masa M puede girar alrededor de 
+un eje horizontal que pasa por uno de sus extremos, como se muestra en la figura 
+9.75. La barra se deja caer desde el reposo cuando @ = @) con la vertical. Demostrar 
+que la fuerza que ejerce sobre la barra viene dada por F, = | Mg(5 cos 8—3 cos @) 
+y F. = | Mg sen 6, donde F, es la componente de la fuerza paralela a la barra y 
+F es la componente perpendicular. 
+Figura 9.75 Problema 135
+
+CONSERVACION DEL 
+MOMENTO ANGULAR 
+El análogo al momento lineal en dinámica de la rotación es el momento angular. 
+Cuando los niños se acercan al centro del tiovivo, éste gana velocidad. ¿Por qué ocurre esto? 
+(Véase el ejemplo 10.4.) 
+@ En este capítulo extendemos nuestro estudio del movimiento de rotación a situa- 
+ciones en las que la dirección del eje de giro puede variar. 
+Comenzaremos analizando las propiedades vectoriales de la velocidad angular y 
+del momento de una fuerza y después introduciremos el concepto de momento angu- 
+lar, que es el análogo rotacional del momento lineal. Después demostraremos que el 
+momento resultante que actúa sobre un sistema es equivalente a la tasa de cambio de 
+su momento angular, resultado equivalente a la segunda ley de Newton aplicada al mo- 
+vimiento de rotación. Por lo tanto, el momento angular se conserva en los sistemas con 
+momento resultante externo nulo. Lo mismo que la conservación del momento lineal, 
+el principio de conservación del momento angular es una ley fundamental de la natu- 
+raleza que se aplica incluso en el dominio atómico, donde falla la mecánica newtoniana. 
+10.1 Naturaleza vectorial de la rotación 
+En el capítulo 9 señalábamos el sentido de rotación respecto a un eje fijo asignando signos 
+más o menos para indicar el sentido de la velocidad angular, de un modo análogo al utilizado 
+para indicar el sentido de la velocidad en el movimiento lineal en una dimensión. Pero 
+cuando la dirección del eje de rotación no está fija en el espacio, los signos más o menos no 
+son suficientes para describir el sentido de la velocidad angular. Esta insuficiencia se supera 
+tratando la velocidad angular como un vector dirigido a lo largo del eje de rotación. Con- 
+Capítulo 
+10 
+10.1 Naturaleza vectorial 
+de la rotación 
+10.2 Momento de una 
+fuerza y momento 
+angular 
+10.3 Conservación del 
+momento angular 
+*10.4 Cuantización del 
+momento angular 
+Figura 10.1

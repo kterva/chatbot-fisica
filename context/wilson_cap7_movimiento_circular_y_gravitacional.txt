@@ -1,0 +1,3405 @@
+Tema: Movimiento circular y gravitacional (Capítulo 7 — Física, Wilson)
+
+CAPÍTULO 7 Movimiento circular y gravitacional
+Medidas equivalentes 
+en grados y radianes
+Grados Radianes
+360°
+180°
+90°
+60°
+57.3° 1
+45°
+30° p>6
+p>4
+p>3
+p>2
+p
+2p
+TABLA 7.1
+Ejemplo 7.1 ■ Cálculo de la longitud de arco: 
+uso de medidas en radianes
+Una espectadora parada en el centro de una pista circular de atletismo observa a un co-
+rredor que inicia una carrera de práctica 256 m al este de su propia posición (>figura 7.3).
+El atleta corre por el mismo carril hasta la meta, la cual está situada directamente al norte
+de la posición de la observadora. ¿Qué distancia correrá?
+Razonamiento. Vemos que el ángulo que subtiende la sección de pista circular es /H9258/H1100590/H11034.
+Obtenemos la longitud del arco (s) porque conocemos el radio r del círculo.
+Solución. Hacemos una lista de los datos y de lo que se pide, 
+Dado: Encuentre: s (longitud del arco)
+Simplemente usamos la ecuación 7.3 para obtener la longitud del arco:
+Observe que omitimos la unidad rad, y la ecuación es dimensionalmente correcta. ¿Por qué?
+Ejercicio de refuerzo. ¿Qué longitud tendría una vuelta completa alrededor de la pista
+en este ejemplo? (Las respuestas de todos los Ejercicios de refuerzo se dan al final del libro. )
+Ejemplo 7.2 ■ ¿Qué tan lejos? Una aproximación útil
+Un marinero observa un buque cisterna distante y se da cuenta de que éste subtiende un
+ángulo de 1.15/H11034como se ilustra en la ▼ figura 7.4a. Por las cartas de navegación él sabe que
+el buque cisterna mide 150 m a lo largo. ¿Aproximadamente a qué distancia está el bu-
+que cisterna?
+Razonamiento. En la sección Aprender dibujando (p. 219) vemos que, en el caso de ángulos
+pequeños, la longitud del arco se aproxima a la longitud y del triángulo (el lado opuesto 
+de /H9258) o s /H11015y. Por lo tanto, si conocemos la longitud y el ángulo, obtenemos la distancia ra-
+dial, que es aproximadamente igual a la distancia entre el buque cisterna y el marinero.
+Solución. Para aproximar la distancia, tomamos la longitud del buque como casi igual al
+arco subtendido por el ángulo medido. Esta aproximación es aceptable si el ángulo es
+pequeño. Los datos son, entonces:
+Dado: Encuentre: r (distancia radial)
+ s = 150 m
+ u = 1.15° 11 rad>57.3°2 = 0.0201 rad
+s = ru =1256 m2ap
+2b = 402 m
+ u = 90° =p>2 rad
+ r = 256 m
+r r
+b)
+d
+s
+L
+Visuales
+= 1.15°
+a)
+N FIGURA 7.4 Distancia angular
+Si el ángulo es pequeño, la longitud
+del arco se aproxima con una línea
+recta, la cuerda. Si conocemos la
+longitud del buque cisterna, 
+podemos averiguar qué tan lejos 
+está midiendo su tamaño angular.
+Véase el ejemplo 7.2. (El dibujo 
+no está a escala, por claridad.)
+
+7.2 Rapidez y velocidad angulares 219
+Como conocemos la longitud del arco y el ángulo, usamos la ecuación 7.3 para calcular r
+(note que omitimos “rad”):
+Como ya señalamos, la distancia r es una aproximación que obtuvimos al suponer que,
+en el caso de ángulos pequeños, la longitud del arco s y la longitud de la cuerda L son 
+casi iguales (figura 7.4b). ¿Qué tan buena es esta aproximación? Para verlo, calculemos 
+la distancia real perpendicular d al barco. Por la geometría de la situación, tenemos tan
+(/H9258/2) /H11005(L/2)/d, así que
+El primer cálculo es una muy buena aproximación: los valores obtenidos por los dos mé-
+todos son casi iguales.
+Ejercicio de refuerzo. Como ya señalamos, la aproximación empleada en este ejemplo es
+para ángulos pequeños. Quizás el lector se pregunte qué significa “pequeño”. Para averi-
+guarlo, ¿qué error porcentual tendría la distancia aproximada al buque cisterna con ángu-
+los de 10/H11034y 20/H11034?
+Sugerencia para resolver problemas
+Al calcular funciones trigonométricas, como tan /H9258o sen /H9258, el ángulo podría expresar-
+se en grados o radianes; por ejemplo, sen 30 /H11034/H11005sen [(/H9266/6) rad] /H11005sen (0.524 rad) /H11005
+0.500. Si las funciones trigonométricas se obtienen con una calculadora, por lo gene-
+ral hay una forma de cambiar el formato para introducir ángulos, entre “deg” (en
+grados) y “rad” (en radianes). El modo por omisión suele ser en grados, así que si se
+desea obtener el valor de, digamos, sen (1.22 rad), primero hay que cambiar al modo
+“rad” y luego introducir sen 1.22, y sen (1.22 rad) /H110050.939. (O podría convertir radia-
+nes a grados primero y utilizar el formato “deg”.)
+La calculadora podría tener un tercer formato, “grad”, que es una unidad angu-
+lar poco utilizada, que equivale a 1/100 de ángulo recto (90/H11034); es decir, hay 100 grads
+en un ángulo recto.
+7.2 Rapidez y velocidad angulares
+OBJETIVOS: a) Describir y calcular la rapidez y la velocidad angulares y b) expli-
+car su relación con la rapidez tangencial.
+La descripción del movimiento circular en forma angular es similar a la descripción del
+movimiento rectilíneo. De hecho, veremos que las ecuaciones son casi idénticas mate-
+máticamente, y se utilizan diferentes símbolos para indicar que las cantidades tienen
+diferente significado. Usamos la letra griega minúscula omega con una barra encima
+para representar la rapidez angular promedio, que es la magnitud del desplaza-
+miento angular dividida entre el tiempo total que tomó recorrer esa distancia:
+rapidez angular promedio (7.4)
+Decimos que las unidades de la rapidez angular son radianes por segundo. Técnicamen-
+te, esto es 1/s o s
+/H110021, ya que el radián no es unidad; pero es útil escribir rad para indicar
+que la cantidad es rapidez angular. La rapidez angular instantánea(/H9275) se obtiene consi-
+derando un intervalo de tiempo muy pequeño, es decir, cuando /H9004t se aproxima a cero.
+Como en el caso lineal, la rapidez angular es constante, entonces, Si toma-
+mos /H9258o y to como cero en la ecuación 7.4, 
+rapidez angular instantánea (7.5)
+Unidad SI de rapidez angular: radianes por segundo (rad/s o s/H110021)
+Otra unidad que con frecuencia se utiliza para describir rapidez angular es revolu-
+ciones por minuto (rpm); por ejemplo, un disco compacto (CD) gira a una rapidez de
+200-500 rpm (según de la ubicación de la pista). Esta unidad no estándar de revoluciones
+v =u
+t o u =vt
+v =v.
+v = ¢u
+¢t =u -uo
+t - to
+1v2
+d = L
+2 tan1u>22 = 150 m
+2 tan11.15°>22 = 7.47 * 103 m = 7.47 km
+r = s
+u = 150 m
+0.0201 = 7.46 * 103 m = 7.46 km
+Exploración 10.1 Ecuación de velocidad
+angular constante
+r y s
+x
+y /H11015 s
+x /H11015 r
+no es pequeña:
+pequeña:
+(en rad) = 
+(en rad) = 
+tan   = y
+r
+y
+r
+y
+x
+y
+y
+x
+s
+r
+s
+s
+r
+sen   = 
+/H11015/H11015
+(en rad)  sen tan/H11015/H11015
+u
+u
+u
+uu
+u
+u
+uu u
+APRENDER DIBUJANDO
+La aproximación de ángulo
+pequeño
+
+220 CAPÍTULO 7 Movimiento circular y gravitacional
+*A menudo es conveniente dejar /H9266en forma simbólica.
+por minuto fácilmente se puede convertir en radianes por segundo, pues 1 revolución /H11005
+2/H9266rad. Por ejemplo, (150 rev/min)(2/H9266rad/rev)(1 min/60 s) /H1100550/H9266rad/s (/H1100516 rad/s).*
+Las velocidades angulares promedio e instantánea son similares a sus contrapartes
+lineales. La velocidad angular está asociada con el desplazamiento angular. Ambas son
+vectoriales y, por lo tanto, tienen dirección; no obstante, esta direccionalidad se especi-
+fica, por convención, de forma especial. En el movimiento rectilíneo o unidimensional,
+una partícula sólo puede ir en una dirección o en la otra (/H11001o /H11002), así que los vectores de
+desplazamiento y velocidad sólo pueden tener estas dos direcciones. En el caso angular,
+la partícula se mueve en un sentido o en el otro, pero el movimiento es por una trayecto-
+ria circular. Por lo tanto, los vectores de desplazamiento angular y de velocidad angular
+de una partícula en movimiento circular sólo pueden tener dos direcciones, que corres-
+ponden a seguir la trayectoria circular con desplazamiento angular creciente o decre-
+ciente respecto a 
+/H9258o; es decir, en sentido horario o antihorario. Concentrémonos en el
+vector de velocidad angular (La dirección del desplazamiento angular será la misma
+que para la velocidad angular. ¿Por qué?)
+La dirección del vector de velocidad angular está dada por la regla de la mano
+derecha, que se ilustra en la 
+>figura 7.5a. Si enroscamos los dedos de la mano derecha en
+la dirección del movimiento circular, el pulgar extendido apunta en la dirección de 
+Cabe señalar que el movimiento circular sólo puede tener uno de dos sentidos circu-
+lares, horario o antihorario, y podemos usar los signos más y menos para distinguir las
+direcciones del movimiento circular. Se acostumbra tomar una rotación antihoraria
+como positiva ( /H11001) porque la distancia angular positiva (y el desplazamiento) se mi-
+de convencionalmente en sentido antihorario a partir del eje x positivo.
+¿Por qué no simplemente designar la dirección del vector de velocidad angular
+como horaria o antihoraria? No se hace esto porque “horario” y “antihorario” son sen-
+tidos o indicaciones direccionales, no direcciones reales. Esos sentidos rotacionales son
+como izquierda y derecha. Si nos paramos frente a una persona y a las dos se nos pre-
+gunta si un objeto está a la derecha o a la izquierda, nuestras respuestas diferirán. Asi-
+mismo, si el lector sostiene este libro hacia una persona que está frente a él y lo gira, ¿el
+libro estará girando en sentido horario o antihorario?
+Podemos usar tales términos para indicar “direcciones” rotacionales cuando se es-
+pecifican con referencia a algo, como el eje x positivo en la explicación anterior. Remi-
+tiéndonos a la figura 7.5, imagine el lector que se coloca primero de un lado del disco
+giratorio y luego del otro. Luego aplique la regla de la mano derecha en ambos lados.
+Verá que la dirección del vector de velocidad angular es la misma desde las dos pers-
+pectivas (porque está referida a la mano derecha). Si especificamos algo relativo a este
+vector —digamos, mirando hacia su punta— no habría ambigüedad al usar /H11001y /H11002para
+indicar sentidos o direcciones rotacionales.
+Relación entre rapideces tangencial y angular
+Una partícula que se mueve en un círculo tiene una velocidad instantánea tangencial a
+su trayectoria circular. Si la rapidez y la velocidad angulares son constantes, la rapidez
+orbital o rapidez tangencial de la partícula, v (la magnitud de la velocidad tangencial)
+también será constante. De manera que la relación entre la rapidez angular y la tan-
+gencial se determina a partir de la ecuación 7.3 (s /H11005r
+/H9258) y la ecuación 7.5 (/H9258/H11005/H9275t):
+La longitud del arco, la distancia, también está dada por
+Si combinamos las dos ecuaciones para s obtenemos la relación entre rapidez tangen-
+cial (v) y rapidez angular (
+/H9275),
+(7.6)relación entre rapidez tangencial y rapidez
+angular para movimiento circular v = rv
+s = vt
+s = ru = r1vt2
+V
+S
+.
+V
+S
+.
+a)
+(+)
+/H9275
+/H9275
+/H9275
+b)
+(–)
+/H9275
+/H9275
+/H9275
+▲ FIGURA 7.5 Velocidad angular
+La dirección del vector de 
+velocidad angular para un objeto 
+en movimiento rotacional está dada
+por la regla de la mano derecha: 
+si los dedos de la mano derecha 
+se enroscan en la dirección de la 
+rotación, el pulgar extendido 
+apunta en la dirección del vector 
+de velocidad angular. Los sentidos
+o direcciones circulares suelen 
+indicarse con signos a) más 
+y b) menos.
+Ilustración 10.2 Movimiento en torno
+a un eje fijo
+
+a)
+b)
+ v = rv (v en rad/s)
+= wt
+r
+v
+s
+v
+u
+▲ FIGURA 7.6 Rapideces 
+tangencial y angular
+a) Las rapideces tangencial y 
+angular están relacionadas por 
+v /H11005r/H9275, donde /H9275está en radianes
+por segundo. Observe que todas 
+las partículas de un objeto que gira
+en torno a un eje fijo se mueven en
+un círculo. Todas ellas tienen la 
+misma rapidez angular /H9275, pero dos
+partículas que están a diferente 
+distancia del eje de rotación 
+tienen distinta rapidez tangencial.
+b) Las chispas de una rueda de 
+esmeril ilustran gráficamente la 
+velocidad tangencial instantánea.
+(¿Por qué las trayectorias son 
+ligeramente curvas?)
+7.2 Rapidez y velocidad angulares 221
+donde /H9275está en radianes por segundo. La ecuación 7.6 se cumple en general para las
+rapideces instantánea tangencial y angular de cuerpos sólidos o rígidos que giran en
+torno a un eje fijo, aunque /H9275varíe con el tiempo.
+Observe que todas las partículas de un objeto sólido que gira con velocidad angu-
+lar constante tienen la misma rapidez angular, pero la rapidez tangencial es diferente
+dependiendo de la distancia al eje de rotación (
+Nfigura 7.6a).
+Ejemplo 7.3 ■ El carrusel: ¿unos más rápidos que otros?
+En el parque de diversiones un carrusel a su velocidad de operación constante efectúa
+una rotación completa en 45 s. Dos niños están montados en caballos, uno a 3.0 m del cen-
+tro del carrusel, y el otro, a 6.0 m. Calcule a) la rapidez angular y b) la rapidez tangencial
+de cada niño.
+Razonamiento. La rapidez angular de cada niño es la misma, porque ambos efectúan una
+rotación completa en el mismo tiempo. En cambio, su rapidez tangencial será distinta
+porque los radios son distintos. Es decir, el niño con radio mayor describe un círculo más
+grande durante el tiempo de rotación y, por lo tanto, debe viajar con mayor rapidez.
+Solución.
+Dado: rad (una rotación) Encuentre: a) /H92751 y /H92752 (rapideces angulares)
+b) v1 y v2 (rapideces tangenciales)
+a) Como ya señalamos, /H92751 /H11005/H92752; es decir, ambos niños giran con la misma rapidez an-
+gular. Todos los puntos del carrusel recorren 2/H9266rad en el tiempo que tarda una rotación.
+De manera que la rapidez angular se calcula con la ecuación 7.5 ( /H9275constante):
+Por lo tanto, /H9275/H11005/H92751 /H11005/H92752 /H110050.14 rad/s.
+b) La rapidez tangencial es diferente en diferentes puntos radiales del carrusel. Todas las
+“partículas” que constituyen el carrusel efectúan una rotación en el mismo tiempo. Por lo
+tanto, cuanto más lejos esté una partícula del centro, mayor será su trayectoria circular y
+mayor será su rapidez tangencial, como indica la ecuación 7.6. (Véase también la figura
+7.6a.) Entonces,
+y
+(Observe que en la respuesta se omitió la unidad radián.)
+Así, un jinete en la parte exterior del carrusel tiene mayor rapidez tangencial que
+uno más cercano al centro. Aquí el jinete 2 tiene un radio dos veces mayor que el jinete 1
+y, por lo tanto, va dos veces más rápido.
+Ejercicio de refuerzo. a) En un viejo disco de 45 rpm, la pista inicial está a 8.0 cm del cen-
+tro, y la final, a 5.0 cm del centro. Calcule la rapidez angular y la rapidez tangencial a es-
+tas distancias cuando el disco está girando a 45 rpm. b) ¿Por qué, en las pistas de carrera
+ovaladas, los competidores de adentro y afuera tienen diferentes puntos de inicio (lo cual
+se conoce como salida “escalonada”), de manera que algunos competidores inician “ade-
+lante” de otros?
+Periodo y frecuencia
+Otras cantidades que suelen usarse para describir movimientos circulares son el
+periodo y la frecuencia. El tiempo que tarda un objeto en movimiento circular en efec-
+tuar una revolución completa (un ciclo) se denomina periodo (T ). Por ejemplo, el pe-
+riodo de revolución de la Tierra alrededor del Sol es un año, y el periodo de la
+rotación axial de la Tierra es 24 horas. La unidad estándar de periodo es el segundo
+(s). Descriptivamente, el periodo a veces se da en segundos por revolución (s/rev) o
+segundos por ciclo (s/ciclo).
+v2 = r2
+ v =16.0 m210.14 rad>s2 = 0.84 m>s
+v1 = r1
+ v =13.0 m210.14 rad>s2 = 0.42 m>s
+v = u
+t = 2p rad
+45 s = 0.14 rad>s
+ r2 = 6.0 m
+ r1 = 3.0 m
+ t = 45 s
+ u = 2p
+Nota: siempre que se calcula una
+cantidad tangencial o lineal a partir
+de una cantidad angular, la unidad
+angular de radián se omite en la
+respuesta final. Cuando se pide
+una cantidad angular, la unidad 
+de radián normalmente se incluye
+en la respuesta final, por claridad.
+
+222 CAPÍTULO 7 Movimiento circular y gravitacional
+El hertz (Hz) es una unidad de 
+frecuencia que se llama así en 
+honor al físico alemán Heinrich
+Hertz (1857-1894), quien fue 
+uno de los pioneros en investigar
+las ondas electromagnéticas, las
+cuales también se caracterizan 
+por su frecuencia.
+Nota: frecuencia (f ) y periodo (T)
+tienen una relación inversa.
+Algo estrechamente relacionado con el periodo es la frecuencia ( f ), que es el 
+número de revoluciones o ciclos que se efectúan en un tiempo dado, generalmente 
+un segundo. Por ejemplo, si una partícula que viaja uniformemente en una órbita 
+circular efectúa 5.0 revoluciones en 2.0 s, la frecuencia (de revolución) es f /H110055.0 rev/
+2.0 s /H110052.5 rev/s o 2.5 ciclos/s (cps o ciclos por segundo).
+Revolución y ciclo son meramente términos descriptivos que se usan por conve-
+niencia; no son unidades. Sin estos términos descriptivos, vemos que la unidad de fre-
+cuencia es el recíproco de segundos (1/s o s
+/H110021), que se llama hertz (Hz) en el SI.
+Las dos cantidades están inversamente relacionadas por
+frecuencia y periodo (7.7)
+Unidad SI de frecuencia: hertz (Hz, 1/s o s/H110021)
+donde el periodo está en segundos y la frecuencia está en hertz, o recíproco de segundos.
+En el caso del movimiento circular uniforme, la rapidez orbital tangecial se rela-
+ciona con el periodo como v /H110052/H9266r/T; es decir, la distancia recorrida en una revolución
+dividida entre el tiempo de una revolución (un periodo). La frecuencia también puede
+relacionarse con la rapidez angular.
+Puesto que se recorre una distancia angular de 2 /H9266rad en un periodo (por defini-
+ción de periodo), tenemos
+(7.8)
+Vemos que /H9275y f tienen las mismas unidades: /H9275/H11005rad/s /H110051/s y 2/H9266f /H11005rad/s /H110051/s.
+Esta notación puede causar confusión y, por ello, muchas veces se añade el término
+“rad”, aunque no sea una unidad.
+Ejemplo 7.4 ■ Frecuencia y periodo: una relación inversa
+Un disco compacto (CD) gira en un reproductor con rapidez constante de 200 rpm. Calcu-
+le a) la frecuencia y b) el periodo de revolución del CD.
+Razonamiento. Podemos usar las relaciones entre la frecuencia (f ), el periodo (T) y la fre-
+cuencia angular /H9275, expresadas en las ecuaciones 7.7 y 7.8.
+Solución. La rapidez angular no está en unidades estándar, así que hay que convertirla.
+Podemos convertir revoluciones por minuto (rpm) en radianes por segundo (rad/s).
+Dado: Encuentre: a) f (frecuencia)
+b) T (periodo)
+[Observe que un factor de conversión útil sería 1(rev/min) /H11005(/H9266/30) rad/s.]
+a) Reacomodamos la ecuación 7.8 y despejamos f:
+Las unidades de 2/H9266son rad/ciclo o revolución, así que el resultado está en ciclos/segundo
+o recíproco de segundos, que son hertz.
+b) Podríamos usar la ecuación 7.8 para calcular T, pero la ecuación 7.7 es un poco más
+sencilla:
+Entonces, el CD tarda 0.300 s en efectuar una revolución. (Observe que, como Hz /H110051/s,
+la ecuación es dimensionalmente correcta.)
+Ejercicio de refuerzo. Si el periodo de cierto CD es de 0.500 s, ¿qué rapidez angular tiene
+el disco en revoluciones por minuto?
+T = 1
+f = 1
+3.33 Hz = 0.300 s
+f = v
+2p = 20.9 rad>s
+2p rad>ciclo = 3.33 Hz
+v = a 200 rev
+min ba 1 min
+60 s b a 2p rad
+rev b = 20.9 rad>s
+rapidez angular en terminos 
+de periodo y frecuenciav =
+2p
+T = 2pf
+f =
+1
+T
+
+7.3 Movimiento circular uniforme y aceleración centrípeta 223
+7.3 Movimiento circular uniforme y aceleración
+centrípeta
+OBJETIVOS: a) Explicar por qué hay una aceleración centrípeta en el movimiento 
+circular uniforme o constante y b) calcular la aceleración centrípeta.
+Un tipo sencillo pero importante de movimiento circular es el movimiento circular
+uniforme, que se da cuando un objeto se mueve con rapidez constante por una tra-
+yectoria circular. Un ejemplo de este movimiento es un automóvil que da vueltas por
+una pista circular (
+▲ figura 7.7). El movimiento de la Luna alrededor de la Tierra se
+aproxima con un movimiento circular uniforme. Tal movimiento es curvilíneo, así
+que sabemos, por lo estudiado en el capítulo 3, que debe haber una aceleración. Sin
+embargo, ¿qué magnitud y dirección tiene?
+Aceleración centrípeta
+La aceleración del movimiento circular uniforme no tiene la misma dirección que la ve-
+locidad instantánea (que es tangente a la trayectoria circular en todo momento). Si lo
+fuera, el objeto aumentaría su rapidez, y el movimiento circular no sería uniforme. Re-
+cordemos que la aceleración es la tasa o razón de cambio de la velocidad con respecto al
+tiempo y que la velocidad tiene tanto magnitud como dirección. En el movimiento circu-
+lar uniforme, la dirección de la velocidad cambia continuamente, lo que nos da una
+idea de la dirección de la aceleración. (Véase la figura 7.7.)
+Los vectores de velocidad al principio y al final de un intervalo de tiempo dan 
+el cambio de velocidad por resta vectorial. Todos los vectores de velocidad ins-
+tantánea tienen la misma magnitud o longitud (rapidez constante); pero difieren 
+en cuanto a dirección. Observe que como no es cero, debe haber una aceleración
+Como se aprecia en la 
+Nfigura 7.8, a medida de que /H9004t (o /H9004/H9258) se vuelve más peque-
+ño, apunta más hacia el centro de la trayectoria circular. Cuando /H9004t se acerca a ce-
+ro, el cambio instantáneo en la velocidad, y la aceleración, apunta exactamente hacia el
+centro del círculo. Por ello, la aceleración en el movimiento circular uniforme se llama
+aceleración centrípeta, que significa aceleración “que busca el centro” (del latín centri,
+“centro” y petere, “precipitarse” o “buscar”).
+La aceleración centrípeta debe dirigirse radialmente hacia adentro, es decir, sin com-
+ponente en la dirección de la velocidad perpendicular (tangencial), pues si no fuera así
+cambiaría la magnitud de esa velocidad (
+▼ figura 7.9). Cabe señalar que, para un objeto en
+movimiento circular uniforme, la dirección de la aceleración centrípeta está cambiando
+continuamente. En términos de componentes x y y, a
+x y ay no son constantes. ¿Puede el lec-
+tor describir la diferencia entre estas condiciones y las de la aceleración de un proyectil?
+¢v
+S
+1a
+S
+=¢ v
+S
+>¢t2.
+¢v
+S
+¢v
+S
+,
+Nota: repase la explicación 
+del movimiento curvilíneo en 
+la sección 3.1.
+Δv 
+v1
+Δv 
+v2 = v1 + Δv
+v2 v2
+v3 =
+v2 + Δv 
+v3
+La rapidez es constante:
+v1 = v2 = v3
+pero no la velocidad,
+porque cambia de dirección:
+v1 ≠ v2 ≠ v3
+v1
+▲ FIGURA 7.7 Movimiento circular uniforme La rapidez de un objeto en movimiento 
+circular uniforme es constante, pero la velocidad del objeto cambia en la dirección del 
+movimiento. Por lo tanto, hay una aceleración.
+Δ
+v1
+r
+s
+Δv
+ac dirección
+Δv
+Δ
+Δ
+Δ
+u
+u
+v1
+v2
+ v2 = v1 + Δv o
+v2 – v1 = Δv     
+v2
+0
+a)
+b)
+▲ FIGURA 7.8 Análisis de la 
+aceleración centrípeta a) El vector
+de velocidad de un objeto en movi-
+miento circular uniforme cambia
+constantemente de dirección. 
+b) Si tomamos /H9004t, el intervalo de
+tiempo para /H9004/H9258, cada vez más 
+pequeño, acercándose a cero, /H9004v
+(el cambio en la velocidad y, por 
+lo tanto, una aceleración) se 
+dirige hacia el centro del círculo. 
+El resultado es una aceleración 
+centrípeta (que busca el centro), 
+cuya magnitud es a
+c /H11005v2/r.
+Ilustración 3.5 Aceleración y
+movimiento circular uniforme
+
+v
+v
+v
+ac ac
+ac
+▲ FIGURA 7.9 Aceleración 
+centrípeta La aceleración centrí-
+peta de un objeto en movimiento
+circular uniforme está dirigida 
+radialmente hacia adentro. No hay
+componente de aceleración en la 
+dirección tangencial; si lo hubiera,
+cambiaría la magnitud de la 
+velocidad (rapidez tangencial).
+224
+CAPÍTULO 7 Movimiento circular y gravitacional
+La magnitud de la aceleración centrípeta puede deducirse de los pequeños trián-
+gulos sombreados de la figura 7.8. (Para intervalos de tiempo muy cortos, la longitud
+del arco /H9004s es casi una línea recta: la cuerda.) Estos dos triángulos son similares, por-
+que cada uno tiene un par de lados iguales que rodean el mismo ángulo /H9004/H9258. (Los vec-
+tores de velocidad tienen la misma magnitud.) Por lo tanto, /H9004v es a v como /H9004s es a r,
+que puede escribirse como:
+La longitud del arco /H9004s es la distancia recorrida en un tiempo /H9004t; por lo tanto, /H9004s /H11005v/H9004t,
+así que
+y
+Entonces, cuando /H9004t se acerca a cero, esta aproximación se vuelve exacta. La acelera-
+ción centrípeta instantánea, a
+c /H11005/H9004v//H9004t, tiene entonces una magnitud de
+(7.9)
+Si usamos la ecuación 7.6 (v /H11005r/H9275), también podremos escribir la ecuación de la acele-
+ración centrípeta en términos de la rapidez angular:
+(7.10)
+Los satélites en órbita tienen aceleración centrípeta, y en la sección A fondo 7.2 descri-
+be una aplicación médica terrenal de la aceleración centrípeta.
+Ejemplo 7.5 ■ La centrífuga: aceleración centrípeta
+Una centrífuga de laboratorio como la que se muestra en la >figura 7.10 opera con una ra-
+pidez rotacional de 12 000 rpm. a) ¿Qué magnitud tiene la aceleración centrípeta de un
+glóbulo rojo que está a una distancia radial de 8.00 cm del eje de rotación de la centrífuga?
+b) Compare esa aceleración con g.
+Razonamiento. Nos dan la rapidez angular y el radio, así que podemos calcular directa-
+mente la aceleración centrípeta con la ecuación 7.10. El resultado se compara con g utili-
+zando g /H110059.80 m/s2.
+Solución. Los datos son:
+Dado: Encuentre: a) ac
+/H110051.26 /H11003103 rad/s
+b) comparación de ac y g
+r /H110058.00 cm /H110050.0800 m
+a) Calculamos la aceleración centrípeta con la ecuación 7.10:
+b) Utilizamos la relación 1 g /H110059.80 m/s2 para expresar ac en términos de g y tenemos
+Ejercicio de refuerzo. a) ¿Qué rapidez angular en revoluciones por minuto daría una ace-
+leración centrípeta de 1 g a la distancia radial de este ejemplo y, tomando en cuenta la gra-
+vedad, cuál sería la aceleración resultante? b) Compare el efecto de la gravedad sobre los
+tubos que giran con la rapidez rotacional del ejemplo y con la del inciso a de este Ejercicio
+de refuerzo.
+ac =11.27 * 105 m>s22¢
+1 g
+9.80 m>s2≤ = 1.30 * 104 g 1= 13 000 g!2
+ac = rv2 =10.0800 m211.26 * 103 rad>s22 = 1.27 * 105 m>s2
+ v =11.20 * 104 rpm2c
+1p>302rad>s
+rpm d
+magnitud de la aceleración centrípeta
+en términos de la rapidez angularac = v2
+r =
+1rv22
+r = rv2
+magnitud de la aceleración centrípeta
+en términos de la rapidez tangencialac = v2
+r
+¢v
+¢t L v2
+r
+¢v
+v L ¢s
+r = v¢t
+r
+¢v
+v L ¢s
+r
+Nota: la magnitud de la aceleración
+centrípeta depende de la rapidez
+tangencial (v) y del radio ( r ).
+▲ FIGURA 7.10 Centrífuga Se usan
+centrífugas para separar partículas
+de diferente tamaño y densidad
+suspendidas en líquidos. Por
+ejemplo, en un tubo de centrífuga
+es posible separar los glóbulos 
+rojos de los blancos y del plasma
+que constituye la porción líquida 
+de la sangre.
+Exploración 3.6 Movimiento circular
+uniforme
+
+7.3 Movimiento circular uniforme y aceleración centrípeta 225
+7. 1 LA CENTRÍFUGA: SEPARACIÓN DE COMPONENTES 
+DE LA SANGRE
+La centrífuga es una máquina giratoria que sirve para separar
+partículas de diferente tamaño y densidad suspendidas en un 
+líquido (o un gas). Por ejemplo, la crema se separa de la leche
+por centrifugado, y los componentes de la sangre se separan con
+centrífugas en los laboratorios clínicos (véase la figura 7.10).
+Hay un proceso mucho más lento para separar los compo-
+nentes de la sangre, los cuales al final quedan asentados en ca-
+pas en el fondo de un tubo vertical —un proceso llamado
+sedimentación—, bajo la sola influencia de la gravedad normal.
+La resistencia viscosa que el plasma ejerce sobre las partículas
+es similar  (aunque mucho mayor) a la resistencia del aire que
+determina la velocidad terminal de los objetos que caen (sec-
+ción 4.6). Los glóbulos rojos se asientan en la capa inferior del
+tubo, pues alcanzan una mayor velocidad terminal que los gló-
+bulos blancos y las plaquetas, así que llegan al fondo antes. Los
+glóbulos blancos asentados en la siguiente capa y las plaquetas
+en la superior. Sin embargo, la sedimentación gravitacional por
+lo general es un proceso muy lento.
+La tasa de sedimentación de eritrocitos (TSE) tiene utilidad
+en el diagnóstico; sin embargo, el personal clínico no desea es-
+perar mucho tiempo para determinar el volumen fraccionario
+de glóbulos rojos (eritrocitos) en la sangre o para separarlo del
+plasma. Los tubos de centrífuga se ponen a girar horizontal-
+mente. La resistencia del fluido medio sobre las partículas su-
+ministra la aceleración centrípeta que las mantiene moviéndose
+lentamente en círculos que se amplían conforme se mueven ha-
+cia el fondo del tubo. El fondo mismo debe ejercer una fuerza
+considerable sobre el contenido en general, y ser lo bastante re-
+sistente como para no romperse.
+Las centrífugas de laboratorio normalmente operan a rapi-
+deces suficientes como para producir aceleraciones centrípetas
+miles de veces mayores que g. (Véase el ejemplo 7.5.) Puesto que
+el principio de la centrífuga se basa en la aceleración centrípeta,
+tal vez “centrípuga” sería un nombre más descriptivo.
+A FONDO
+Exploración 5.1 Movimiento circular
+Ilustración 5.3 La rueda de la 
+fortuna
+Fuerza centrípeta
+Para que haya una aceleración, debe haber una fuerza neta. Por lo tanto, para que ha-
+ya una aceleración centrípeta (hacia adentro), debe haber una fuerza centrípeta (fuerza
+neta hacia adentro). Si expresamos la magnitud de esta fuerza en términos de la segun-
+da ley de Newton e insertamos la expresión de la aceleración centrípeta
+de la ecuación 7.9, escribimos
+magnitud de la fuerza centrípeta (7.11)
+La fuerza centrípeta, al igual que la aceleración centrípeta, tiene dirección radial hacia
+el centro de la trayectoria circular.
+Ejemplo conceptual 7.6 ■ Ruptura
+Una pelota sujeta de un cordel se pone a dar vueltas con movimiento uniforme en un círcu-
+lo horizontal sobre la cabeza de una persona (▼ figura 7.11a). Si el cordel se rompe, ¿cuál de
+las trayectorias que se muestran en la figura 7.11b (vistas desde arriba) seguirá la pelota?
+Razonamiento y respuesta. Cuando el cordel se rompe, la fuerza centrípeta baja a cero.
+No hay fuerza en la dirección hacia afuera, de manera que la pelota no podría seguir la
+trayectoria a. La primera ley de Newton señala que, si ninguna fuerza actúa sobre un ob-
+jeto en movimiento, el objeto se seguirá moviendo en línea recta. Este factor elimina las
+trayectorias b, d y e.
+Debe ser evidente, por el análisis anterior, que en cualquier instante (incluido el ins-
+tante en el que el cordel se rompe), la pelota aislada tiene una velocidad tangencial hori-
+zontal. La fuerza de la gravedad actúa sobre ella hacia abajo, pero esa fuerza sólo afecta
+su movimiento vertical, que no puede verse en la figura 7.11b. Por lo tanto, la pelota sale
+despedida tangencialmente y en esencia es un proyectil horizontal (con v
+xo /H11005v, vyo /H110050 y
+ay /H11005/H11002g). Vista desde arriba, la pelota seguiría la trayectoria rotulada con c.
+Ejercicio de refuerzo. Si damos vuelta a una pelota en un círculo horizontal arriba de no-
+sotros, ¿el cordel puede estar exactamente horizontal? (Véase la figura 7.11a.) Explique su
+respuesta. [Sugerencia: analice las fuerzas que actúan sobre la pelota.]
+Hay que tener presente que, en general, una fuerza neta que se aplica con un ángu-
+lo respecto a la dirección del movimiento de un objeto produce cambios en la magnitud
+y la dirección de la velocidad. Sin embargo, cuando una fuerza neta de magnitud cons-
+tante se aplica continuamente con un ángulo de 90 /H11034respecto a la dirección del movi-
+miento (como la fuerza centrípeta), sólo cambia la dirección de la velocidad. Esto ocurre
+Fc = mac = mv2
+r
+1F
+S
+neta = ma
+S
+2
+
+226 CAPÍTULO 7 Movimiento circular y gravitacional
+porque no hay componente de fuerza paralelo a la velocidad. Además, dado que la fuer-
+za centrípeta siempre es perpendicular a la dirección del movimiento, esta fuerza no
+efectúa trabajo. (¿Por qué?) Por lo tanto, por el teorema trabajo-energía (sección 5.3), una
+fuerza centrípeta no modifica la energía cinética ni la rapidez del objeto.
+La fuerza centrípeta en la forma F
+c /H11005mv2/r no es una nueva fuerza individual, sino
+más bien la causa de la aceleración centrípeta producida por una fuerza real o por la 
+suma vectorial de varias fuerzas.
+La fuerza que produce la aceleración centrípeta para los satélites es la gravedad.
+En el ejemplo conceptual 7.6, era la tensión en el cordel. Otra fuerza que a menudo
+produce aceleración centrípeta es la fricción. Suponga que un automóvil viaja por una
+curva circular horizontal. Para dar vuelta, el vehículo debe tener una aceleración cen-
+trípeta, la cual es producto de la fuerza de fricción entre los neumáticos y la carretera.
+Sin embargo, esta fricción (estática; ¿por qué?) tiene un valor limitante máximo.
+Si la rapidez del automóvil es lo bastante alta o la curva es muy cerrada, la fricción no
+bastará para proporcionar la aceleración centrípeta necesaria y el automóvil derrapa-
+rá hacia afuera desde el centro de la curva. Si el vehículo pasa por una área mojada o
+cubierta de hielo, podría reducirse la fricción entre los neumáticos y la carretera, y el
+automóvil derraparía aun si viaja con menor rapidez. (El peralte de las curvas tam-
+bién ayuda a los vehículos a dar vuelta sin derraparse.)
+Ejemplo 7.7 ■ Donde el caucho toca el camino: 
+fricción y fuerza centrípeta
+Un automóvil se acerca a una curva circular horizontal con radio de 45.0 m. Si el pavimen-
+to de concreto está seco, ¿con qué rapidez constante máxima podrá el coche tomar la curva?
+Razonamiento. El coche está en movimiento circular uniforme en la curva, por lo que 
+debe haber una fuerza centrípeta. Esta fuerza proviene de la fricción, así que la fuerza de
+fricción estática máxima genera la fuerza centrípeta cuando el automóvil tiene su rapidez
+tangencial máxima.
+Solución. Escribimos lo que se da y lo que se pide: 
+Dado: r /H1100545.0 m Encuentre: v (rapidez máxima)
+Para tomar una curva con una rapidez dada, el automóvil debe tener una aceleración
+centrípeta, así que una fuerza centrípeta debe actuar sobre él. Esta fuerza hacia adentro
+se debe a la fricción estática entre los neumáticos y la carretera. (Los neumáticos no es-
+tán deslizándose ni derrapando sobre al camino.)
+En el capítulo 4 vimos que la fuerza de fricción máxima está dada por f
+smáx /H11005/H9262sN
+(ecuación 4.7), donde N es la magnitud de la fuerza normal sobre el vehículo y es igual a
+su peso, mg, sobre el camino horizontal (¿por qué?). Esta magnitud de la fuerza de fric-
+ción estática máxima es igual a la magnitud de la fuerza centrípeta ( Fc /H11005mv2/r). Para 
+a)
+F
+El cordel
+se rompe
+b)
+Vista desde
+arriba
+a b
+c
+?
+?
+?
+?
+?
+e
+d
+N FIGURA 7.11 Fuerza centrípeta
+a) Una pelota se hace girar en un
+círculo horizontal. b) Si el cordel se
+rompe y la fuerza centrípeta baja a
+cero, ¿qué sucederá con la pelota?
+Véase el Ejemplo conceptual 7.7.
+
+7.3 Movimiento circular uniforme y aceleración centrípeta 227
+r1
+r2
+1.0 m
+1.3 m
+m2
+v2
+v1m1
+v2
+v1
+m2
+m1
+T2
+T2
+/H11002T2
+▲ FIGURA 7.12 Fuerza centrípeta 
+y segunda ley de Newton
+Véase el ejemplo 7.8.
+(continúa en la siguiente página)
+determinar la rapidez máxima. Para calcular fsmáx, necesitaremos el coeficiente de fricción
+entre el caucho y el concreto; en la tabla 4.1 vemos que es /H9262s /H110051.20. Entonces,
+Por lo tanto,
+(unos 83 km/h, o 52 mi/h).
+Ejercicio de refuerzo. ¿La fuerza centrípeta será la misma para todos los tipos de vehícu-
+los en este ejemplo?
+La velocidad adecuada al tomar una curva en una autopista es una consideración
+importante. El coeficiente de fricción entre los neumáticos y el pavimento podría va-
+riar, dependiendo del tiempo, las condiciones del camino, el diseño de los neumáticos,
+el grado de desgaste del dibujo, etc. Cuando se diseña una carretera curva, puede ha-
+cerse más segura incluyendo peraltes o inclinaciones. Este diseño reduce la probabili-
+dad de derrapar, porque así la fuerza normal ejercida por el camino sobre el vehículo
+tiene un componente hacia el centro de la curva, el cual reduce la necesidad de fric-
+ción. De hecho, para una curva circular con un ángulo de peralte y un radio dados,
+existe una rapidez para la cual no se requiere ninguna fricción. Esta condición se usa
+en el diseño de peraltes. (Véase el ejercicio 45.)
+Veamos un ejemplo más de fuerza centrípeta, ahora con dos objetos en movi-
+miento circular uniforme. El ejemplo 7.8 nos ayudará a entender los movimientos de
+los satélites en órbita circular, que analizaremos en una sección posterior.
+Ejemplo 7.8 ■ Cuerpos conectados: fuerza centrípeta y segunda ley 
+de Newton
+Suponga que dos masas, ml /H110052.5 kg y m2 /H110053.5 kg, están conectadas por cordeles ligeros
+y están en movimiento circular uniforme sobre una superficie horizontal sin fricción, 
+como se ilustra en la 
+Nfigura 7.12, donde r1 /H110051.0 m y r2 /H110051.3 m. Las fuerzas que actúan
+sobre las masas son Tl /H110054.5 N y T2 /H110052.9 N, las tensiones en los cordeles, respectivamen-
+te. Calcule a) la magnitud de la aceleración centrípeta y b) la de la rapidez tangencial 
+de a) la masa m2 y b) la masa m1.
+Razonamiento. Las fuerzas centrípetas que actúan sobre las masas provienen de las ten-
+siones (Tl y T2) en los cordeles. Si aislamos las masas, podremos calcular ac para cada una,
+ya que la fuerza neta sobre una masa es igual a la fuerza centrípeta sobre esa masa ( Fc /H11005
+mac). Luego se calculan las rapideces tangenciales, pues se conocen los radios (ac /H11005v2/r).
+Solución.
+Dado: y Encuentre: aceleración centrípeta (ac) y 
+y rapidez tangencial ( v) de
+a) m2
+b) m1
+a) Al aislar m2 en la figura, vemos que la fuerza centrípeta proviene de la tensión en el
+cordel. (T2 es la única fuerza que actúa sobre m2 hacia el centro de su trayectoria circular.)
+Por lo tanto,
+y
+donde la aceleración es hacia el centro del círculo.
+Calculamos la rapidez tangencial de m2 utilizando ac /H11005v2/r:
+b) La situación de ml es un poco distinta. En este caso, dos fuerzas radiales actúan sobre la
+masa m1: las tensiones T1 (hacia adentro) y /H11002T2 (hacia afuera) en los cordeles. También, por
+la segunda ley de Newton, para tener una aceleración centrípeta, debe haber una fuerza ne-
+ta, dada por la diferencia entre las dos tensiones, por lo que cabe esperar que T
+l /H11022T2, y que
+Fneta1 =+ T1 +1- T22 = m1
+ ac1 = m1
+ v1
+2
+r1
+v2 = 1ac2
+ r2 = 410.83 m>s2211.3 m2 = 1.0 m>s
+ac2 = T2
+m2
+= 2.9 N
+3.5 kg = 0.83 m>s2
+T2 = m2
+ ac2
+ T2 = 2.9 N
+ T1 = 4.5 N
+m2 = 3.5 kg m1 = 2.5 kg
+r2 = 1.3 m r1 = 1.0 m
+v = 1ms
+ rg = 411.202145.0 m219.80 m>s22 = 23.0 m>s
+ ms
+ N =ms
+ mg = mv2
+r
+ fsmáx = Fc
+
+228 CAPÍTULO 7 Movimiento circular y gravitacional
+donde tomamos como positiva la dirección radial (hacia el centro de la trayectoria circu-
+lar). Entonces,
+y
+Ejercicio de refuerzo. En este ejemplo observe que la aceleración centrípeta de m2 es ma-
+yor que la de ml, pero r2 /H11022rl y ac /H110081/r. ¿Hay alguna equivocación aquí? Explique.
+Ejemplo integrado 7.9 ■ Fuerza que busca el centro: una vez más
+Se utiliza un cordel de 1.0 m para colgar una esfera de 0.50 kg del punto más alto de un
+poste. Después de golpearla varias veces, la esfera da vueltas al poste en movimiento
+circular uniforme, con una rapidez tangencial de 1.1 m/s, a un ángulo de 20 /H11034con respec-
+to al poste. a) La fuerza que produce la aceleración centrípeta es 1) el peso de la esfera, 
+2) un componente de la fuerza de tensión en el cordel, o 3) la tensión total en el cordel. 
+b) Calcule la magnitud de la fuerza centrípeta.
+a) Razonamiento conceptual. La fuerza centrípeta es una fuerza que “busca el centro”, 
+así que está dirigida perpendicularmente hacia el poste, en torno al cual la esfera está 
+en movimiento circular. Como se sugirió en los procedimientos para resolver problemas
+presentados en la sección 1.7, casi siempre resulta útil dibujar un diagrama, como el de la
+>figura 7.13. Podemos ver inmediatamente que las opciones 1 y 3 no son correctas, porque
+esas fuerzas no apuntan directamente hacia el centro del círculo ubicado en el poste. ( mg
+y Ty son iguales y opuestas, y no hay aceleración en la dirección y.) En efecto, la respues-
+ta es 2: un componente de la fuerza de tensión, Tx, proporciona la fuerza centrípeta.
+b) Razonamiento cuantitativo y solución. Tx proporciona la fuerza centrípeta, y los datos
+son para la forma dinámica de la fuerza centrípeta, es decir, Tx /H11005Fc /H11005mv2/r (ecuación 7.11).
+Dado: Encuentre: Fc (la magnitud de la fuerza centrípeta)
+Como ya señalamos, la magnitud de la fuerza centrípeta se calcula con la ecuación 7.11:
+Sin embargo, necesitamos la distancia radial r. En la figura, vemos que esa cantidad es 
+r /H11005L sen 20/H11034, así que
+Ejercicio de refuerzo. ¿Qué magnitud tiene la tensión T en el cordel?
+7.4 Aceleración angular
+OBJETIVOS: a) Definir aceleración angular y b) analizar la cinemática rotacional.
+Seguramente usted ya dedujo que, aparte de la lineal, otro tipo de aceleración es la an-
+gular. Esta cantidad representa la tasa de cambio de la velocidad angular con respecto
+al tiempo. En el caso del movimiento circular, si hubiera una aceleración angular, el
+movimiento no sería uniforme porque la rapidez y/o la dirección estarían cambiando.
+Por similitud con el caso lineal, la magnitud de la aceleración angular promedio
+está dada por
+a = ¢v
+¢t
+(A)
+Fc = mv2
+L sen 20°
+=
+10.50 kg211.1 m>s22
+11.0 m210.3422
+= 1.8 N
+Fc = Tx = mv2
+r
+ u = 20°
+ m = 0.50 kg
+ v = 1.1 m>s
+ L = 1.0 m
+v1 = 1ac1
+ r1 = 410.64 m>s2211.0 m2 = 0.80 m>s
+ac1 = T1 - T2
+m1
+=
+4.5 N +1-2.9 N2
+2.5 kg = 0.64 m>s2
+20°
+r
+Tx
+Ty
+mg
+L
+T
+▲ FIGURA 7.13 Esfera en un cordón
+Véase el ejemplo integrado 7.9.
+Exploración 5.2 Fuerza sobre un 
+objeto alrededor de un círculo
+
+7.4 Aceleración angular 229
+donde la barra sobre alfa indica que es un valor promedio, como siempre. Si tomamos
+to /H110050 y si la aceleración angular es constante, de manera que tenemos
+(aceleración angular constante)
+Unidad SI de aceleración angular:
+radianes por segundo al cuadrado (rad/s2)
+o bien,
+(7.12)
+En la ecuación 7.12 no se emplean símbolos de vector en negritas porque se usan
+signos de más y menos para indicar direcciones angulares, como ya explicamos. Al
+igual que en el caso del movimiento rectilíneo, si la aceleración angular aumenta la ve-
+locidad angular, ambas cantidades tendrán el mismo signo, lo cual significa que su di-
+rección vectorial es la misma (es decir, /H9251tiene la misma dirección que /H9275, dada por la
+regla de la mano derecha). Si la aceleración angular disminuye la velocidad angular,
+las dos cantidades tendrán signos opuestos, lo que implica que sus vectores sean
+opuestos (es decir, /H9251tendrá la dirección opuesta a la de /H9275, dada por la regla de la 
+mano derecha; será una “desaceleración angular”).
+Ejemplo 7.10 ■ Un CD que gira: aceleración angular
+Un CD acelera uniformemente desde el reposo hasta su rapidez operativa de 500 rpm en
+3.50 s. Calcule la aceleración angular del CD a) durante este lapso y b) al término de este
+lapso. c) Si el CD se detiene uniformemente en 4.50 s, ¿qué aceleración angular tendrá
+entonces?
+Razonamiento. a) Nos dan las velocidades angulares inicial y final; por lo tanto, calcu-
+lamos la aceleración angular constante (uniforme) con la ecuación 7.12, ya que conocemos
+el tiempo durante el cual el CD acelera. b) Hay que tener presente que la rapidez opera-
+tiva es constante. c) Nos dan todo para usar la ecuación 7.12; pero habría que esperar un
+resultado negativo. (¿Por qué?)
+Solución.
+Dado: Encuentre:
+(para arrancar)
+(para detenerse)
+a) Utilizando la ecuación 7.12, 
+en la dirección de la velocidad angular.
+b) Una vez que el CD alcanza su rapidez operativa, la velocidad angular se mantiene
+constante, así que /H9251/H110050.
+c) Usamos de nuevo la ecuación 7.12, pero ahora con /H9275o /H11005500 rpm y /H9275/H110050: 
+donde el signo menos indica que la aceleración angular tiene la dirección opuesta a la de
+la velocidad angular (que se toma como /H11001).
+Ejercicio de refuerzo. a) ¿Qué dirección tendrán los vectores y en el inciso a de este
+ejemplo, si el CD gira en sentido horario visto desde arriba? b) ¿Las direcciones de estos
+vectores cambian en el inciso c?
+Al igual que entre el arco y el ángulo (s /H11005r/H9258) y entre las rapideces tangencial y angular
+(v /H11005r/H9275), hay una relación entre las magnitudes de la aceleración tangencial y de la ace-
+leración angular. La aceleración tangencial (at) está asociada con cambios en la rapi-
+dez tangencial y, por lo tanto, cambia de dirección continuamente. Las magnitudes de
+A
+S
+V
+S
+a = v -vo
+t =
+0 - 52.4 rad>s
+4.50 s =- 11.6 rad>s2
+a = v -vo
+t =
+52.4 rad>s - 0
+3.50 s = 15.0 rad>s2
+ t = 4.50 s
+ t = 3.50 s
+ v =1500 rpm2c
+1p>302 rad>s
+rpm d = 52.4 rad>s
+ vo = 0
+(sólo aceleración
+constante angular)v =vo +at
+a =v -vo
+t
+a =a,
+a) /H9251(al arrancar)
+b) /H9251(en operación)
+c) /H9251(al parar)
+
+v
+v = rv
+= r   2v
+ac = v2
+r
+b) Movimiento circular no uniforme
+( a = at + ac)
+a
+a
+a) Movimiento circular uniforme
+(at = r   = 0)α
+at
+aca
+▲ FIGURA 7.14 Aceleración 
+y movimiento circular a) En el 
+movimiento circular uniforme 
+hay aceleración centrípeta, pero 
+no aceleración angular (/H9251/H110050) ni
+aceleración tangencial (a
+t /H11005r/H9251/H110050).
+b) En el movimiento circular no 
+uniforme, hay aceleraciones angular
+y tangencial, y la aceleración total
+es la suma vectorial de las 
+aceleraciones tangencial 
+y centrípeta.
+230
+CAPÍTULO 7 Movimiento circular y gravitacional
+las aceleraciones tangencial y angular están relacionadas por un factor de r. En el caso
+del movimiento circular con radio constante r,
+así que
+magnitud de la aceleración tangencial (7.13)
+Escribimos la aceleración tangencial (at) con subíndice t para distinguirla de la acelera-
+ción centrípeta (ac) o radial. La aceleración centrípeta es necesaria para el movimiento
+circular, no así la aceleración tangencial. En un movimiento circular uniforme, no hay
+aceleración angular (/H9251/H110050) ni aceleración tangencial, como se observa en la ecuación
+7.13; tan sólo hay aceleración centrípeta (
+>figura 7.14a).
+Sin embargo, cuando hay aceleración angular /H9251(y, por lo tanto, una aceleración tan-
+gencial de magnitud at /H11005r/H9251), hay un cambio en las velocidades tanto angular como
+tangencial. Como resultado, la aceleración centrípeta ac /H11005v2/r /H11005r/H92752 debe aumentar 
+o disminuir para que el objeto mantenga la misma órbita circular (es decir, para que r
+no cambie). Si hay aceleración tanto tangencial como centrípeta, la aceleración instan-
+tánea total es su suma vectorial (figura 7.14b). Los vectores de aceleración tangencial 
+y de aceleración centrípeta son perpendiculares entre sí en cualquier instante, y la acele-
+ración total es donde y son vectores unitarios con dirección tangen-
+cial y radial hacia adentro, respectivamente. Con trigonometría usted debería ahora
+calcular la magnitud de y el ángulo que forma con (figura 7.14b).
+Podemos deducir las otras ecuaciones angulares como hicimos con las ecuaciones
+rectilíneas en el capítulo 2. No mostraremos aquí ese desarrollo; el conjunto de ecua-
+ciones angulares con sus contrapartes rectilíneas para aceleración constante se dan en
+la tabla 7.2. Un repaso rápido del capítulo 2 (cambiando los símbolos) mostrará cómo
+se deducen las ecuaciones angulares.
+Ejemplo 7.11 ■ Cocción uniforme: cinemática rotacional
+Un horno de microondas tiene un plato giratorio de 30 cm de diámetro para que la coc-
+ción sea uniforme. El plato acelera uniformemente desde el reposo a razón de 0.87 rad/s2
+durante 0.50 s, antes de llegar a su rapidez operativa constante. a) ¿Cuántas revolucio-
+nes da el plato antes de alcanzar su rapidez operativa? b) Calcule la rapidez angular ope-
+rativa del plato y la rapidez tangencial operativa en su borde.
+Razonamiento. Este ejemplo implica el uso de las ecuaciones de cinemática angular (tabla
+7.2). En a), la distancia angular /H9258dará el número de revoluciones. En b), primero calcule /H9275
+y luego v /H11005r/H9275.
+Solución. Hacemos una lista de lo que se nos da y lo que se nos pide:
+Dado: (radio) Encuentre: a) /H9258(en revoluciones)
+(en reposo) b) /H9275y v (rapideces 
+angular y tangencial, 
+respectivamente)
+a) Para obtener la distancia angular /H9258en radianes, use la ecuación 4 de la tabla 7.2 con 
+/H9258
+o /H110050:
+Puesto que 2/H9266rad /H110051 rev,
+así que el plato alcanza su rapidez operativa en tan sólo una pequeña fracción de revolución.
+b) En la tabla 7.2 vemos que la ecuación 3 da la rapidez angular, y
+Luego, la ecuación 7.6 da la rapidez tangencial en el radio del borde:
+Ejercicio de refuerzo. Cuando se apaga el horno, el plato efectúa media revolución antes
+de parar. Calcule la aceleración angular del plato durante este lapso.
+v = rv =10.15 m210.44 rad>s2 = 0.066 m>s
+v =vo +at = 0 +10.87 rad>s2210.50 s2 = 0.44 rad>s
+u =10.11 rad2a 1 rev
+2p radb = 0.018 rev
+u =vot + 1
+2 at2 = 0 + 1
+2 10.87 rad>s2210.50 s22 = 0.11 rad
+ t = 0.50 s
+ a = 0.87 rad>s2
+ vo = 0
+ d = 30 cm, r = 15 cm = 0.15 m
+a
+S
+ta
+S
+rNtNa
+S
+= at
+ tN + ac
+ rN,
+at = ra
+at = ¢v
+¢t = ¢1rv2
+¢t = r¢v
+¢t = ra
+Exploración 10.2 Ecuación de la 
+aceleración angular constante
+
+7.5 Ley de la gravitación de Newton 231
+7.5 Ley de la gravitación de Newton
+OBJETIVOS: a) Describir la ley de la gravitación de Newton y su relación con la 
+aceleración debida a la gravedad y b) investigar cómo se aplica
+esta ley en la obtención de la energía potencial gravitacional.
+Otro de los múltiples logros de Isaac Newton fue la formulación de lo que se conoce
+como la ley de la gravitación universal . Se trata de una ley poderosa y fundamental.
+Sin ella, no entenderíamos, por ejemplo, la causa que origina las mareas, ni sabríamos
+cómo colocar satélites en órbitas específicas alrededor de la Tierra. Esta ley nos permi-
+te analizar los movimientos de planetas, cometas, estrellas e incluso galaxias. La pala-
+bra universal en su nombre indica que, hasta donde sabemos, es válida en todo el
+universo. (Este término destaca la importancia de la ley, pero, por brevedad, es común
+hablar simplemente de la ley de la gravitación de Newton o la ley de la gravitación.)
+En su forma matemática, la ley de la gravitación de Newton relaciona de forma
+sencilla la interacción gravitacional entre dos partículas, o masas puntuales, m
+l y m2,
+así como la distancia r que las separa (Nfigura 7.15a). Básicamente, toda partícula del
+universo tiene una interacción gravitacional atractiva con todas las demás partículas,
+a causa de sus masas. Las fuerzas de interacción mutua son iguales y opuestas, y for-
+man un par de fuerzas según la tercera ley de Newton (capítulo 4), en la
+figura 7.15a.
+La atracción o fuerza gravitacional ( F) disminuye proporcionalmente al aumento
+del cuadrado de la distancia ( r
+2) entre dos masas puntuales; es decir, la magnitud de 
+la fuerza gravitacional y la distancia entre las dos partículas están relacionadas así:
+(Esta clase de relación se llama ley del cuadrado inverso: F es inversamente proporcional
+a r2.)
+La ley de Newton también postula correctamente que la fuerza o atracción gravi-
+tacional de un cuerpo depende de la masa de éste: cuanto mayor sea la masa, mayor
+será la atracción. Sin embargo, como la fuerza de gravedad es de atracción mutua 
+entre las masas, debería ser directamente proporcional a ambas masas, es decir, a su
+producto (F /H11008m
+1m2).
+Por lo tanto, la ley de la gravitación de Newtontiene la forma F /H11008mlm2/r2. Expre-
+sada como ecuación con una constante de proporcionalidad, la magnitud de la fuerza
+de atracción gravitacional mutua (Fg) entre dos masas está dada por
+(7.14)
+donde G es una constante llamada constante de gravitación universal y tiene un va-
+lor de
+G = 6.67 * 10-11 N # m2>kg2
+Fg = Gm1
+ m2
+r2
+F r 1
+r2
+F
+S
+12 =- F
+S
+21
+Ecuaciones para movimiento rectilíneo y angular 
+con aceleración constante*
+Rectilíneo Angular
+(1)
+(2)
+(3)
+(4)
+(5)v2 =vo
+2 + 2a (u -uo)v2 = vo
+2 + 2a (x - xo)
+u =uo +vo
+ t + 1
+2 at2x = xo + vo
+ t + 1
+2 at2
+v =vo +atv = vo + at
+v = v +vo
+2v = v + vo
+2
+u =vtx = vt
+TABLA 7.2
+*La primera ecuación de cada columna es general, es decir, no está limitada a situaciones donde la
+aceleración es constante.
+b) Esferas homogéneas
+a) Masas puntuales
+r
+r
+m1
+F12
+m2
+F21
+m1
+F12
+m2
+F21
+F12 = F21 = Gm1 m2
+r2
+▲ FIGURA 7.15 Ley de la 
+gravitación universal
+a) Dos partículas, o masas puntuales,
+cualesquiera se atraen gravitacio-
+nalmente con una fuerza cuya 
+magnitud está determinada por 
+la ley de la gravitación universal 
+de Newton. b) En el caso de esferas
+homogéneas, las masas pueden
+considerarse concentradas en 
+su centro.
+Ley de la gravitación universal 
+de Newton
+
+Luna
+Tierra
+a = g 
+ac << g
+232 CAPÍTULO 7 Movimiento circular y gravitacional
+Esta constante también se conoce como “ G grande” para distinguirla de la “ g peque-
+ña”, que es la aceleración debida a la gravedad. La ecuación 7.14 indica que Fg se apro-
+xima a cero sólo cuando r es infinitamente grande. Por lo tanto, la fuerza gravitacional
+tiene un alcance infinito.
+¿Cómo llegó Newton a estas conclusiones acerca de la fuerza de la gravedad?
+Cuenta la leyenda que su inspiración fue una manzana que caía al suelo desde un árbol.
+Newton se preguntaba de dónde provenía la fuerza centrípeta que mantenía a la Luna
+en su órbita, y tal vez pensó lo siguiente: “Si la gravedad atrae una manzana hacia 
+la Tierra, quizá también atraiga a la Luna, y la Luna está cayendo o acelerando hacia la
+Tierra, bajo la influencia de la gravedad” (
+>figura 7.16).
+Haya sido o no la legendaria manzana la responsable, Newton supuso que la Lu-
+na y la Tierra se atraían mutuamente y podían tratarse como masas puntuales, con su
+masa total concentrada en sus centros (figura 7.15b). Algunos contemporáneos habían
+especulado acerca de la relación del cuadrado inverso. El logro de Newton fue demos-
+trar que la relación podía deducirse de una de las leyes del movimiento planetario de
+Johannes Kepler (sección 7.6).
+Newton expresó la ecuación 7.14 en forma de proporción (F /H11008m
+1m2/r2), pues des-
+conocía el valor de G. No fue sino hasta 1798 (71 años después del fallecimiento de
+Newton) que el físico inglés Henry Cavendish determinó experimentalmente el valor
+de la constante de la gravitación universal. Cavendish usó una balanza muy sensible
+para medir la fuerza gravitacional entre masas esféricas separadas (como las de la fi-
+gura 7.15b). Si se conocen F, r y las m, se calcula G a partir de la ecuación 7.14.
+Como ya mencionamos, Newton consideró a la Tierra y la Luna, que son casi esfé-
+ricas, como masas puntuales situadas en sus respectivos centros. Le tomó algunos
+años, utilizando métodos matemáticos que él mismo desarrolló, demostrar que esta
+condición sólo es válida en el caso de objetos esféricos homogéneos.* El concepto gene-
+ral se ilustra en la 
+Nfigura 7.17.
+Ejemplo 7.12 ■ Atracción gravitacional entre la Tierra y la Luna: 
+una fuerza centrípeta
+Calcular la magnitud de la fuerza gravitacional mutua entre la Tierra y la Luna. (Suponga
+que ambas son esferas homogéneas.)
+Razonamiento. Este ejemplo es una aplicación de la ecuación 7.14, y tenemos que buscar
+en tablas las masas y la distancia. (Véanse los apéndices.)
+Solución. No se dan datos, así que deben consultarse en obras de referencia.
+Dado: (de tablas en los forros del libro) Encuentre: Fg (fuerza gravitacional)
+(masa de la Tierra)
+(masa de la Luna)
+(distancia entre ambas)
+La distancia promedio entre la Tierra y la Luna (rEM) se toma como la distancia del centro
+de una al centro de la otra. Utilizando la ecuación 7.14, obtenemos
+Esta cantidad es la magnitud de la fuerza centrípeta que mantiene a la Luna girando en ór-
+bita alrededor de la Tierra. Es una fuerza muy grande, pero la Luna es un objeto muy ma-
+sivo, con mucha inercia que vencer. Debido a la aceleración radial o hacia adentro, a veces
+se dice que la Luna está “cayendo” hacia la Tierra. Este movimiento, combinado con el mo-
+vimiento tangencial, produce la órbita casi circular de la Luna en torno a la Tierra.
+Ejercicio de refuerzo. ¿Con qué aceleración la Luna está “cayendo” hacia la Tierra?
+ = 2.1 * 1020 N
+ =
+16.67 * 10-11 N # m2>kg2216.0 * 1024 kg217.4 * 1022 kg2
+13.8 * 108 m22
+ Fg = Gm1
+ m2
+r2 = GME
+ mM
+rEM
+2
+ rEM = 3.8 * 108 m
+ mM = 7.4 * 1022 kg
+ ME = 6.0 * 1024 kg
+*En el caso de una esfera homogénea, la masa puntual equivalente está situada en el centro de
+masa. Sin embargo, éste es un caso especial. En general, no coinciden el centro de la fuerza gravitacio-
+nal y el centro de masa de una configuración de partículas o de un objeto.
+Ilustración 12.1 Órbitas de 
+proyectiles y satélites
+▲ FIGURA 7.16 ¿Inspiración
+gravitacional? Newton desarrolló
+su ley de la gravitación mientras
+estudiaba el movimiento orbital de
+la Luna. Según la leyenda, ver a una
+manzana caer de un árbol estimuló
+su pensamiento. Supuestamente se
+preguntó si la fuerza que hacía que
+la manzana acelerara hacia el suelo
+podría extenderse hasta la Luna, y
+hacerla “caer” o acelerar hacia la
+Tierra; es decir, proporcionarle su
+aceleración centrípeta orbital.
+
+7.5 Ley de la gravitación de Newton 233
+La aceleración debida a la gravedad a una distancia dada de un planeta también
+puede investigarse empleando la segunda ley del movimiento de Newton y su ley de
+la gravitación. La magnitud de la aceleración debida a la gravedad, que escribiremos
+de forma general como a
+g, a una distancia r del centro de una masa esférica M, se ob-
+tiene igualando la fuerza de la atracción gravitacional debida a esa masa esférica a mag,
+que es la fuerza neta sobre un objeto de masa m a una distancia r:
+Entonces, la aceleración debida a la gravedad a cualquier distancia r del centro del pla-
+neta es
+(7.15)
+Vemos que ag es proporcional a 1/r2, así que cuanto más lejos del planeta esté un obje-
+to, menor será su aceleración debida a la gravedad y menor será la fuerza de atracción
+(ma
+g) sobre el objeto. La fuerza está dirigida hacia el centro del planeta.
+La ecuación 7.15 es válida para la Luna o cualquier planeta. Por ejemplo, si con-
+sideramos a la Tierra como una masa puntual ME situada en su centro, y RE como su
+radio, obtendremos la aceleración debida a la gravedad en la superficie terrestre
+si hacemos la distancia r igual a RE.
+(7.16)
+Esta ecuación tiene varias implicaciones interesantes. La primera es que tomar g
+como constante en todos los puntos de la superficie terrestre implica suponer que la
+Tierra tiene una distribución homogénea de masa, y que la distancia del centro de 
+la Tierra a cualquier punto de su superficie es la misma. Estos dos supuestos no son 
+estrictamente ciertos. Por lo tanto, tomar g como constante es sólo una aproximación
+que funciona muy bien en casi todas las situaciones.
+Asimismo, es evidente por qué la aceleración debida a la gravedad es la misma
+para todos los objetos en caída libre, es decir, es independiente de la masa del objeto.
+La masa del objeto no aparece en la ecuación 7.16 y, por ello, todos los objetos en caída
+libre tienen la misma aceleración.
+Por último, si usted es observador, notará que la ecuación 7.16 sirve para calcular
+la masa de la Tierra. Todas las otras cantidades de la ecuación se pueden medir, y se co-
+nocen sus valores, así que resulta fácil calcular M
+E. Esto es lo que hizo Cavendish des-
+pués de determinar experimentalmente el valor de G.
+La aceleración debida a la gravedad sí varía con la altura. A una distancia h sobre
+la superficie terrestre, tenemos r /H11005RE /H11001h. La aceleración está dada entonces por 
+(7.17)ag = GME
+1RE + h22
+agE
+= g = GME
+RE
+2
+1agE
+= g2
+ag = GM
+r2
+mag = GmM
+r2
+a) b)
+> FIGURA 7.17 Masas esféricas uniformes
+a) La gravedad actúa entre dos partículas cualesquiera.
+La fuerza gravitacional resultante, que dos partículas 
+situadas en puntos simétricos dentro de una esfera 
+homogénea ejercen sobre un objeto externo a la esfera,
+está dirigida hacia el centro de la esfera. b) Debido a 
+la simetría de la esfera y a la distribución uniforme 
+de la masa, el efecto neto es como si toda la masa de 
+la esfera estuviera concentrada en una partícula en 
+su centro. En este caso especial, el centro de fuerza 
+gravitacional y el centro de masa coinciden, pero 
+en general no sucede lo mismo con otros objetos. 
+(Sólo se muestran unas cuantas de las flechas de 
+fuerza azules por falta de espacio.)
+Nota: el símbolo g se reserva para
+la aceleración debida a la gravedad
+en la superficie terrestre; a
+g es la
+aceleración más general debida 
+a la gravedad a alguna distancia
+radial mayor.
+
+234 CAPÍTULO 7 Movimiento circular y gravitacional
+Sugerencia para resolver problemas
+Al comparar aceleraciones debidas a la gravedad o a fuerzas gravitacionales, es con-
+veniente trabajar con cocientes. Por ejemplo, si comparamos ag con g (ecuaciones 7.15
+y 7.16) para la Tierra, tendremos
+Las constantes se cancelan. Si tomamos r /H11005RE /H11001h, es fácil calcular ag/g, es decir, la
+aceleración debida a la gravedad a alguna altura h sobre la Tierra, comparada con g
+en la superficie terrestre (9.80 m/s2).
+Puesto que RE es muy grande en comparación con las alturas que podemos al-
+canzar fácilmente sobre la superficie terrestre, la aceleración debida a la gravedad no
+disminuye con gran rapidez a medida que ascendemos. A una altura de 16 km (10 mi,
+casi dos veces más alto que el vuelo de un jet comercial moderno), a
+g/g /H110050.99, así
+que ag conserva el 99% del valor que tiene g en la superficie de la Tierra. A una altura
+de 320 km (200 mi), ag es el 91% de g. Ésta es la altura aproximada de un transbordador
+espacial en órbita. (Los astronautas en órbita sí tienen peso. Las llamadas condiciones
+de ingravidez se estudian en la sección 7.6.)
+Ejemplo 7.13 ■ Órbita de un satélite geosincrónico
+Algunos satélites de comunicaciones y meteorológicos son lanzados en órbitas circulares
+por encima del ecuador de la Tierra, de manera que sean sincrónicos (del griego syn, que
+significa “igual”, y chronos, que significa “tiempo”) con la rotación de nuestro planeta. Es-
+to es, “permanecen fijos” “o se quedan suspendidos en el aire” sobre un mismo punto del
+ecuador. ¿A qué altura se encuentran estos satélites geosincrónicos?
+Razonamiento. Para permanecer sobre un punto del ecuador, el periodo de la revolución
+del satélite debe ser igual al periodo de rotación de la Tierra, es decir, 24 h. Además, la fuer-
+za centrípeta que mantiene al satélite en órbita es suministrada por la fuerza gravitacional
+de la Tierra, F
+g /H11005Fc. La distancia entre el centro de la Tierra y el satélite es r /H11005RT /H11001h. (RE es
+el radio de la Tierra y h es la altura o altitud del satélite por encima de la superficie terrestre.)
+Solución. Se listan los datos conocidos,
+Dado: T(periodo) /H1100524 h /H110058.64 /H11003104 s Encuentre: h (altitud)
+De acuerdo con los datos del sistema solar en los forros de este libro:
+Al igualar las magnitudes de la fuerza gravitacional y la fuerza centrípeta de movimien-
+to (Fg /H11005Fc), donde m es la masa del satélite, y al poner los valores en términos de rapidez
+angular,
+y
+utilizando la relación /H9275/H110052/H9266/T. Después se sustituyen los valores:
+y
+Así,
+Ejercicio de refuerzo. Demuestre que el periodo de un satélite en órbita cercana (h V RE)
+a la superficie terrestre (ignorando la resistencia del aire) podrá aproximarse mediante 
+T
+2 /H110154RE; y calcule T.
+ = 3.7 * 104 km 1= 23 000 mi2
+ h = r - RE = 4.3 * 107 m - 0.64 * 107 = 3.7 * 107 m
+r = 4.3 * 107 m
+r3 =
+16.7 * 10-11 N # m2>kg2216.4 * 1024 kg218.64 * 104 s22
+4p2 = 81 * 1021 m3
+r3 = GME
+v2 = GMEa T
+2pb
+2
+= ¢ GME
+4p2 ≤ T2
+ GmME
+r2 = mv2
+r =
+m1rv22
+r = mrv2
+ Fg = Fc
+ ME = 6.0 * 1024 kg
+ RE = 6.4 * 103 km = 6.4 * 106 m
+ r = RE + h
+ag
+g =
+GME>r2
+GME>RE
+2 = RE
+2
+r2 = ¢ RE
+r≤
+2
+ o 
+ag
+g = ¢ RE
+r≤
+2
+
+7.5 Ley de la gravitación de Newton 235
+Otro aspecto de la disminución de g con la altura tiene que ver con la energía po-
+tencial. En el capítulo 5 vimos que U /H11005mgh para un objeto situado a una altura h
+sobre algún punto de referencia cero, ya que g es prácticamente constante cerca de la
+superficie terrestre. Esta energía potencial es igual al trabajo efectuado para levantar
+el objeto una distancia h sobre la superficie terrestre en un campo gravitacional uni-
+forme. Sin embargo, ¿qué ocurre si el cambio de altura es tan grande que g no puede
+considerarse constante mientras se efectúa trabajo para mover un objeto, como un 
+satélite? En este caso, la ecuación U /H11005mgh no es válida. En general, puede demostrar-
+se (utilizando métodos matemáticos que rebasan el alcance de este libro) que la ener-
+gía potencial gravitacional de dos masas puntuales separadas por una distancia r
+está dada por
+(7.18)
+El signo menos de la ecuación 7.18 se debe a la elección del punto de referencia cero (el
+punto donde U /H110050), que es r /H11005/H11009.
+En términos de la Tierra y una masa m a una altura h sobre la superficie terrestre,
+(7.19)
+donde r es la distancia entre el centro de la Tierra y la masa. Lo que esta ecuación im-
+plica es que aquí en la Tierra estamos en un pozo de energía potencial gravitacional ne-
+gativa (
+▼ figura 7.18) que se extiende hasta el infinito, porque la fuerza de la gravedad
+tiene un alcance infinito. Al aumentar h, aumenta U. Es decir, U se vuelve menos nega-
+tiva o se acerca más a cero, y corresponde a una posición más alta en el pozo de energía
+potencial.
+U =-  
+Gm1
+ m2
+r =-  
+GmME
+RE + h
+U =-  
+Gm1
+ m2
+r
+Tierra
+r
+∞U = 0
+RE
+RE
+U /H11022 0
+U /H11021 0
+U = – GmME
+RE
+U ∝ – 1
+r
+▼ FIGURA 7.18 Pozo de energía potencial gravitacional En la Tierra, estamos en un 
+pozo de energía potencial gravitacional negativa. Al igual que en un pozo o un agujero en
+el suelo reales, es preciso efectuar trabajo contra la gravedad para subir en ella. La energía
+potencial de un objeto aumenta a medida que el objeto sube por el pozo. Esto implica que
+el valor de U se vuelva menos negativo. La parte más alta del pozo gravitacional de la 
+Tierra está en el infinito, donde la energía potencial gravitacional es, por definición, cero.
+
+236 CAPÍTULO 7 Movimiento circular y gravitacional
+Así, cuando la gravedad efectúa trabajo negativo (un objeto sube en el pozo) o po-
+sitivo (un objeto cae más abajo en el pozo), hay un cambio de energía potencial. Al igual
+que en los pozos de energía potencial finitos, siempre es este cambio de energía lo que
+importa al analizar situaciones.
+Ejemplo 7.14 ■ Órbitas distintas: cambio de energía potencial
+gravitacional
+Dos satélites de 50 kg se mueven en órbitas circulares en torno a la Tierra, a alturas de
+1000 (aprox. 620 mi) y 37 000 km (aprox. 23 000 mi), respectivamente. El más bajo estudia
+las partículas que están a punto de ingresar en la atmósfera; y el más alto, que es geosin-
+crónico, toma fotografías meteorológicas desde su posición estacionaria respecto a la su-
+perficie terrestre sobre el ecuador (véase el ejemplo 7.13). Calcule la diferencia en la
+energía potencial gravitacional entre los dos satélites en sus respectivas órbitas.
+Razonamiento. La energía potencial de los satélites está dada por la ecuación 7.19, donde,
+cuanto mayor sea la altura (h), menos negativa será U. Por lo tanto, el satélite con mayor
+h estará más alto en el pozo de energía potencial gravitacional y tendrá más energía po-
+tencial gravitacional.
+Solución. Hacemos una lista de los datos (con dos cifras significativas):
+Dado: Encuentre: /H9004U (diferencia de energía potencial)
+(de una tabla en los forros del libro)
+Podemos calcular la diferencia de energía potencial gravitacional directamente con la
+ecuación 7.19. Recordemos que la energía potencial es energía de posición, así que calcu-
+lamos la energía potencial para cada posición o altura, y las restamos:
+Puesto que /H9004U es positivo, m
+2 está más alta que ml en el pozo de energía potencial gravi-
+tacional. Aunque tanto U1 como U2 son negativas, U2 es “más positiva” o “menos negati-
+va”, es decir, está más cercana a cero. Por ello, hay que aportar más energía para colocar
+un satélite más lejos de la Tierra.
+Ejercicio de refuerzo. Suponga que se aumenta al doble la altura del satélite más alto en
+este ejemplo, a 72 000 km. ¿La diferencia de energía potencial gravitacional entre los dos
+satélites sería entonces dos veces mayor? Justifique su respuesta.
+Si sustituimos la energía potencial gravitacional (ecuación 7.18) en la ecuación 
+de energía mecánica total, tendremos esta ecuación en una forma distinta a la que 
+tenía en el capítulo 5. Por ejemplo, la energía mecánica total de una masa m
+l que se
+mueve cerca de una masa estacionaria m2 es
+(7.20)
+Esta ecuación y el principio de conservación de la energía se pueden aplicar al movi-
+miento de la Tierra en torno al Sol, despreciando las demás fuerzas gravitacionales. La
+órbita de la Tierra no es circular, sino ligeramente elíptica. En el perihelio (el punto en
+que la Tierra está más cerca del Sol), la energía potencial gravitacional mutua es menor
+(un número negativo mayor) que en el afelio (el punto de mayor alejamiento). Por lo
+tanto, como se observa de la ecuación 7.20 en la forma  donde
+E es constante, la energía cinética y la rapidez orbital de la Tierra son máximas en el
+1
+2 m1
+ v2 = E + Gm1
+ m2>r,
+E = K + U = 1
+2 m1
+ v2 - Gm1
+ m2
+r
+ =+ 2.2 * 109 J
+ * B 1
+6.4 * 106 m + 1.0 * 106 m - 1
+6.4 * 106 m + 37 * 106 mR
+ =16.67 * 10-11 N # m2>kg22150 kg216.0 * 1024 kg2
+ ¢U = U2 - U1 =-  
+GmME
+RE + h2
+- ¢- 
+GmME
+RE + h1
+≤ = GmME¢ 1
+RE + h1
+- 1
+RE + h2
+≤
+ RE = 6.4 * 106 m
+ ME = 6.0 * 1024 kg
+ h2 = 37 000 km = 37 * 106 m
+ h1 = 1000 km = 1.0 * 106 m
+ m = 50 kg
+Nota: la energía potencial 
+U /H11005/H11002Gm1m2/r no se escribe 
+como mgh.
+Nota: muchos satélites de 
+comunicaciones se colocan en ór-
+bita circular sobre el ecuador a una
+altura aproximada de 37 000 km.
+Ahí, los satélites están sincroniza-
+dos con la rotación de la Tierra; 
+es decir, se mantienen “fijos” 
+sobre un punto del ecuador. 
+Un observador en la Tierra 
+siempre los ve en la misma 
+posición en el cielo.
+
+7.5 Ley de la gravitación de Newton 237
+perihelio (el valor más pequeño de r) y mínimas en el afelio (el mayor valor de r). En
+general, la rapidez orbital de la Tierra es mayor cuando está más cerca del Sol que
+cuando está más lejos.
+También hay energía potencial gravitacional mutua entre un grupo, o configura-
+ción, de tres o más masas. Es decir, existe energía potencial gravitacional por el he-
+cho de que las masas formen una configuración, pues se efectuó trabajo para juntar
+las masas. Suponga que hay una sola masa fija m
+1, y otra masa m2 se acerca a ml
+desde una distancia infinita (donde U /H110050). El trabajo efectuado contra la fuerza de
+atracción de la gravedad es negativo (¿por qué?) e igual al cambio en la energía po-
+tencial mutua de las masas, que ahora están separadas por una distancia r
+12; es decir,
+U12 /H11005/H11002Gm1m2/r12.
+Si una tercera masa m3 se acerca a las otras dos masas fijas, actuarán dos fuerzas de
+gravedad sobre m3, de manera que U13 /H11005/H11002Gm1m3/r13 y U23 /H11005/H11002Gm2m3/r23. Por lo tan-
+to, la energía potencial gravitacional total de la configuración es
+(7.21)
+Podríamos traer una cuarta masa para seguir demostrando este punto, pero el desarro-
+llo anterior deberá bastar para sugerir que la energía potencial gravitacional total de
+una configuración de partículas es igual a la suma de las energías potenciales indivi-
+duales entre todos los pares de partículas.
+Ejemplo 7.15 ■ Energía potencial gravitacional total: energía 
+de configuración
+Tres masas están en la configuración que se muestra en la Nfigura 7.19. Calcule su energía
+potencial gravitacional total.
+Razonamiento. Se usa la ecuación 7.21, pero hay que distinguir bien las masas y sus dis-
+tancias.
+Solución. Por la figura, tenemos
+Dado: Encuentre: U (energía potencial gravitacional total)
+(triángulo rectangulo 3–4–5)
+Podemos usar directamente la ecuación 7.21 porque sólo hay tres masas en este ejemplo.
+(La ecuación 7.21 se puede extender a cualquier número de masas.) Así,
+Ejercicio de refuerzo. Explique qué significa en términos físicos la energía potencial nega-
+tiva de este ejemplo.
+Todos conocemos los efectos de la gravedad. Cuando levantamos un objeto, tal
+vez nos parezca pesado, pero estamos trabajando contra la gravedad. Ésta causa de-
+rrumbes de rocas y aludes de lodo; pero a veces le sacamos provecho. Por ejemplo, los
+fluidos de las botellas para infusiones intravenosas fluyen gracias a la gravedad. En la
+sección A fondo 7.2 sobre exploración espacial de la página 238 presentamos una apli-
+cación extraterrestre de la gravedad.
+ =- 1.3 * 10-10 J
+ * c- 
+11.0 kg212.0 kg2
+3.0 m -
+11.0 kg212.0 kg2
+4.0 m -
+12.0 kg212.0 kg2
+5.0 m d
+ =16.67 * 10-11 N # m2>kg22
+ =-  
+Gm1
+ m2
+r12
+- Gm1
+ m3
+r13
+- Gm2
+ m3
+r23
+ U = U12 + U13 + U23
+ r12 = 3.0 m; r13 = 4.0 m; r23 = 5.0 m
+ m3 = 2.0 kg
+ m2 = 2.0 kg
+ m1 = 1.0 kg
+ =-  
+Gm1
+ m2
+r12
+- Gm1
+ m3
+r13
+- Gm2
+ m3
+r23
+ U = U12 + U13 + U23
+(0, 4.0 m)
+(3.0 m, 0)(0, 0)
+m2 = 2.0 kgm1 = 1.0 kg
+m3 = 2.0 kg
+y
+x
+▲ FIGURA 7.19 Energía potencial
+gravitacional total Véase el 
+ejemplo 7.15.
+
+238 CAPÍTULO 7 Movimiento circular y gravitacional
+7.6 Leyes de Kepler y satélites terrestres
+OBJETIVOS: a) Plantear y explicar las leyes de Kepler del movimiento planetario y 
+b) describir las órbitas y los movimientos de los satélites.
+La fuerza de la gravedad determina los movimientos de los planetas y satélites y man-
+tiene unido al Sistema Solar (y a la galaxia). El astrónomo y matemático alemán Johan-
+nes Kepler (1571-1630) había propuesto, poco antes de la época de Newton, una
+descripción general del movimiento planetario. Kepler formuló tres leyes empíricas a
+7. 2 Exploración espacial: Ayuda de la gravedad
+Después de un viaje de 3500 millones de km (2200 millones de
+mi) que duró siete años, la nave espacial Cassini-Huygens llegó a
+Saturno, en julio de 2004, después de haber efectuado dos apro-
+ximaciones a Venus, una a Júpiter y una a la Tierra (figura 1).*
+¿Por qué la nave se lanzó hacia Venus, un planeta interior, para
+luego ir a Saturno, un planeta exterior?
+Aunque la tecnología actual de cohetes hace posible lanzar
+sondas espaciales desde la Tierra, hay limitaciones relacionadas
+con el combustible y la carga útil: cuanto más combustible lleve
+la nave, menor carga útil podrá llevar. Si sólo se usan cohetes,
+una nave planetaria estaría limitada a únicamente visitar Venus,
+Marte y Júpiter en un plazo realista. Para llegar a los otros plane-
+tas con una nave de tamaño razonable, se requerirían décadas.
+Entonces, ¿cómo llegó Cassini a Saturno en 2004, casi siete
+años después de su lanzamiento en 1997? Aprovechando inge-
+niosamente la ayuda de la gravedades posible llevar a cabo misio-
+nes a todos los planetas del Sistema Solar. Se requiere energía de
+cohetes para que la nave llegue al primer planeta; no obstante,
+de ahí en adelante la energía es casi “gratuita”. Básicamente, du-
+rante una aproximación planetaria, hay un intercambio de ener-
+gía entre la nave espacial y el planeta, la cual permite a la nave
+aumentar su velocidad respecto al Sol. (Este fenómeno se cono-
+ce como efecto catapulta.)
+Demos un vistazo a la física de este empleo ingenioso de la
+gravedad. Imagine a la nave Cassini en su aproximación a Júpi-
+ter. En el capítulo 6 vimos que un choque es una interacción en-
+tre objetos donde se intercambian cantidad de movimiento y
+energía. Técnicamente, en una aproximación, la nave “choca”
+contra el planeta.
+Cuando la nave se acerca por “atrás” del planeta y sale por
+“enfrente” (relativo a la dirección de movimiento del planeta),
+la interacción gravitacional produce un cambio de cantidad de
+movimiento, es decir, una mayor magnitud y una dirección di-
+ferente. Entonces, hay un en la dirección general “hacia ade-
+lante” de la nave espacial. Puesto que una fuerza está 
+actuando sobre la nave y le da una “patada” de energía en esa
+dirección. Por lo tanto, se efectúa trabajo neto positivo y hay 
+¢p
+S
+r F
+S
+,
+¢p
+S
+un aumento de energía cinética (Wneto /H11005/H9004K /H110220, por el teorema
+trabajo-energía). La nave sale con más energía, mayor rapidez 
+y una nueva dirección. (Si la aproximación se efectuara en la 
+dirección opuesta, la nave se detendría.)
+En este choque elástico se conservan la cantidad de movi-
+miento y la energía, y el planeta sufre un cambio igual y opues-
+to en su cantidad de movimiento, que tiene un efecto retardante.
+Sin embargo, al ser la masa del planeta mucho mayor que la de
+la nave, el efecto sobre el planeta es insignificante.
+Para captar mejor la idea de la ayuda gravitacional, consi-
+deremos la “maniobra de catapulta” similar a las competencias
+en patines que se ilustra en la figura 2. Los patinadores interac-
+túan, y el patinador S sale de la “aproximación” con mayor ra-
+pidez. Aquí, el cambio de cantidad de movimiento que tiene el
+“lanzador” (patinador J) seguramente será perceptible, lo cual
+que no sucede con Júpiter ni con otro planeta.
+A FONDO
+*Cassini fue el astrónomo franco-italiano que estudió Saturno y des-
+cubrió cuatro de sus lunas y el hecho de que sus anillos están divididos
+en dos partes por un hueco angosto, llamado ahora división de Cassini. La
+nave espacial Cassini-Huygens enviará una sonda Huygens a Titán, una
+de las lunas de Saturno descubierta por el científico holandés Christiaan
+Huygens
+Aproximación a la
+Tierra 1999
+Aproximación
+a Venus 1999
+Aproximación
+a Venus
+1997
+Aproximación a
+Júpiter 2000
+Llegada a Saturno
+2004
+FIGURA 1 Trayectoria de la nave espacial Cassini-Huygens
+Véase texto para descripción.  
+S2
+Δp
+pJ
+S1
+S
+p2
+p2
+J
+p1
+p1
+FIGURA 2 Aproximación en patines Similar a la aproximación
+planetaria consideramos la “maniobra de catapulta” durante
+una competencia en patines. El patinador J lanza al patinador S,
+que sale de la “aproximación” con mayor rapidez de la que 
+tenía antes (la secuencia S
+1, S y S2). En este caso, el cambio de
+cantidad de movimiento del patinador J, el lanzador, segura-
+mente se notará, lo cual no ocurre con los planetas. (¿Por qué?)
+
+7.6 Leyes de Kepler y satélites terrestres 239
+partir de datos de observaciones recopilados en un periodo de 20 años por el astrónomo
+danés Tycho Brahe (1546-1601).
+Kepler visitó Praga como asistente de Brahe, quien era el matemático oficial en la
+corte del sacro emperador romano. Brahe murió el año siguiente y Kepler fue su suce-
+sor, heredando sus datos acerca de la posición de los planetas. Después de analizar
+esos datos, Kepler anunció las dos primeras de sus tres leyes en 1609 (el año en que
+Galileo construyó su primer telescopio). Esas leyes se aplicaron en un principio única-
+mente a Marte. La tercera ley de Kepler llegó 10 años después.
+Resulta interesante que las leyes del movimiento planetario que Kepler tardó 15
+años en deducir a partir de datos observados, ahora se pueden deducir teóricamente
+con una o dos páginas de cálculos. Estas tres leyes son válidas no sólo para los plane-
+tas, sino también para cualquier sistema compuesto por un cuerpo que gira en torno a
+otro más masivo, donde es válida la ley de cuadrado inverso de la gravitación (como 
+la Luna, los satélites artificiales de la Tierra y los cometas atrapados por el Sol).
+La primera ley de Kepler (ley de órbitas) señala lo siguiente:
+Los planetas se mueven en órbitas elípticas, con el Sol en uno de los puntos fo-
+cales.
+Las elipses, como puede verse en la 
+▼ figura 7.20a, tienen, en general, forma ovalada o
+de círculo aplanado. De hecho, el círculo es un caso especial de elipse donde los pun-
+tos focales o focos están en el mismo punto (el centro del círculo). Aunque las órbitas
+de los planetas son elípticas, la mayoría no se desvían mucho del círculo (Mercurio 
+y Plutón son notables excepciones; véase el apéndice III, “Excentricidad”). Por ejem-
+plo, la diferencia entre el perihelio y el afelio de la Tierra (sus distancias más corta y
+más largas respecto al Sol, respectivamente) es de unos 5 millones de km. Esta dis-
+tancia parecería grande; pero no es mucho más del 3% de 150 millones de km, que 
+es la distancia promedio entre la Tierra y el Sol.
+La segunda ley de Kepler (ley de áreas) señala lo siguiente:
+Una línea del Sol a un planeta barre áreas iguales en lapsos de tiempo iguales.
+Esta ley se ilustra en la figura 7.20b. Puesto que el tiempo necesario para recorrer las
+diferentes distancias orbitales ( s
+l y s2) es el mismo, de forma que las áreas barridas 
+(Al y A2) sean iguales, esta ley nos indica que la rapidez orbital de un planeta varía 
+en diferentes partes de su órbita. Dado que la órbita del planeta es elíptica, su rapidez
+orbital es mayor cuando está más cerca del Sol que cuando está más lejos. Ya usamos
+Primera ley de Kepler
+A1
+a) b)
+Sol
+Planeta
+Sol
+A2s1 s2
+x = ax = –a
+y = b
+y = –b
+y
+r1
+Para dibujar una elipse,
+usamos dos tachuelas 
+(que representan a los 
+focos), un trozo de 
+cordel y un lápiz. FF
+r2
+2a
+x
+> FIGURA 7.20 Primera y segunda
+leyes de Kepler del movimiento
+planetario a) En general, una elipse
+tiene forma ovalada. La suma de 
+las distancias desde los puntos
+focales F a cualquier punto de la
+elipse es constante: r
+1 /H11001r2 /H110052a.
+Aquí, 2a es la longitud de la línea
+que une los dos puntos más
+distantes del centro: el eje mayor. 
+(La línea que une los dos puntos
+más cercanos al centro es b, el eje
+menor.) Los planetas giran en torno
+al Sol en órbitas elípticas, y el Sol
+está en uno de los puntos focales;
+mientras que el otro está vacío. 
+b) Una línea que une al Sol y a 
+un planeta barre áreas iguales 
+en tiempos iguales. Puesto que 
+A
+1 /H11005A2, el planeta viaja más
+rápidamente por s1 que por s2.
+Segunda ley de Kepler
+Ilustración 12.3 Movimiento circular 
+y no circular
+Ilustración 12.5 Segunda ley de
+Kepler
+
+240 CAPÍTULO 7 Movimiento circular y gravitacional
+la conservación de la energía en la sección 7.5 (ecuación 7.20) para deducir esta rela-
+ción en el caso de la Tierra.
+Tercera ley de Kepler (ley de periodos):
+El cuadrado del periodo orbital de un planeta es directamente proporcional al
+cubo de la distancia promedio entre el planeta y el Sol; es decir, T2 /H11008r3.
+Es fácil deducir la tercera ley de Kepler para el caso especial de un planeta con órbita
+circular, utilizando la ley de gravitación de Newton. Como la fuerza centrípeta pro-
+viene de la fuerza de gravedad, igualamos las expresiones para tales fuerzas:
+fuerza fuerza
+centrípeta gravitacional
+o bien,
+En estas ecuaciones, mp y MS son las masas del planeta y del Sol, respectivamente, y v
+es la rapidez orbital del planeta. Pero como v /H110052/H9266r/T (circunferencia/periodo /H11005dis-
+tancia/tiempo), tenemos
+Si elevamos al cuadrado ambos miembros y despejamos T2,
+es decir,
+(7.22)
+Es fácil evaluar la constante K para las órbitas planetarias del Sistema Solar, a partir de
+datos orbitales (para T y r) de la Tierra: K /H110052.97 /H1100310/H1100219 s2/m3. (Como ejercicio, el lec-
+tor podría convertir K a las unidades más útiles de año2/km3.) Nota: este valor de K es
+válido para todos los planetas de nuestro Sistema Solar, pero no para sus satélites, 
+como veremos en el ejemplo 7.6.
+Si usted revisa los forros de este libro y el Apéndice III, encontrará las masas del
+Sol y de los planetas del Sistema Solar. Pero, ¿cómo se calcularon sus masas? El si-
+guiente ejemplo muestra la manera en que la tercera ley de Kepler se utiliza para 
+hacer tal cálculo.
+Ejemplo 7.16 ■ ¡Por Júpiter!
+El planeta Júpiter (al que los romanos llamaban Jove) es el más grande en el Sistema Solar,
+tanto en volumen como en masa. Júpiter tiene 62 lunas conocidas, la más grande de las
+cuales fue descubierta por Galileo en 1610. Dos de estas lunas, Io y Europa, se observan
+en la 
+▼ figura 7.21. Puesto que Io se encuentra a una distancia promedio de 4.22 /H11003105 km
+de Júpiter y tiene un periodo orbital de 1.77 días, calcule la masa de Júpiter.
+T2 = Kr3
+T2 = ¢ 4p2
+GMS
+≤ r3
+2pr
+T = A
+GMS
+r
+v = A
+GMS
+r
+mp
+ v2
+r =
+Gmp
+ MS
+r2
+Tercera ley de Kepler
+N FIGURA 7.21 Júpiter y sus lunas
+Aquí se observan dos de las lunas
+de Júpiter, Io y Europa, que descu-
+brió Galileo. Europa aparece a la 
+izquierda, e Io a la derecha sobre la
+gran mancha roja. Io y Europa son
+comparables en tamaño con nuestra
+Luna. Se cree que la gran mancha
+roja, aproximadamente del doble 
+de tamaño de nuestro planeta, 
+es una tormenta enorme, similar 
+a un huracán en la Tierra.
+Exploración 12.1 Diferentes xo o vo
+para las órbitas planetarias
+Exploración 12.3 Propiedades 
+de las órbitas elípticas
+
+7.6 Leyes de Kepler y satélites terrestres 241
+Razonamiento. Dados los valores de la distancia de Io al planeta ( r) y el periodo (T), esto
+parecería una aplicación de la tercera ley de Kepler, y lo es. Sin embargo, tenga en cuenta
+que M
+S en la ecuación 7.22 es la masa del Sol, en torno al cual giran los planetas. La tercera
+ley es aplicable a cualquier satélite, siempre que M corresponda a la masa del cuerpo en
+torno al cual gira el satélite. En este caso, será MJ, la masa de Júpiter.
+Solución.
+Dado: Encuentre: MJ (masa de Júpiter)
+Conociendo r y T, se calcula K mediante la ecuación 7.22 (como KJ, para indicar que se trata
+de Júpiter)
+Entonces, al escribir KJ explícitamente, y
+Ejercicio de refuerzo. Calcule la masa del Sol a partir de los datos de la órbita de la Tierra.
+Satélite terrestre
+La era espacial tiene poco más de medio siglo. Desde la década de 1950, muchos saté-
+lites no tripulados se han puesto en órbita en torno a la Tierra, y ahora los astronautas
+pasan semanas o meses en laboratorios espaciales en órbita.
+Poner una nave espacial en órbita alrededor de la Tierra (o cualquier planeta) es
+una tarea sumamente compleja. No obstante, los principios de la física nos permiten
+entender el fundamento del método. Supongamos, primero, que pudiéramos impartir
+a un proyectil la rapidez inicial necesaria para llevarlo a la parte más alta del pozo de
+energía potencial de la Tierra. En ese punto exacto, que está a una distancia infinita 
+(r /H11005/H11009), la energía potencial es cero. Por la conservación de la energía y la ecuación 7.18,
+inicial final
+o bien,
+inicial final
+donde vesc es la rapidez de escape, es decir, la rapidez inicial necesaria para escapar de
+la superficie terrestre. La energía final es cero, porque el proyectil se detiene en la par-
+te más alta del pozo (a distancias muy grandes, y apenas se está moviendo, K /H110150),
+donde U /H110050. Al despejar vesc obtenemos
+(7.23)
+Puesto que (ecuación 7.17), nos conviene escribir
+(7.24)
+Aunque aquí dedujimos esta ecuación para la Tierra, puede usarse en general para ob-
+tener las rapideces de escape de otros planetas y de la Luna (usando sus aceleraciones
+debidas a la gravedad). La rapidez de escape de la Tierra es de 11 km/s, aproximada-
+mente 7 mi/s.
+Se requiere una rapidez tangencial menor que la rapidez de escape para que un
+satélite entre en órbita. Considere la fuerza centrípeta de un satélite en órbita circular
+en torno a la Tierra. Puesto que la fuerza centrípeta que actúa sobre él proviene de la
+atracción gravitacional entre el satélite y la Tierra, de nueva cuenta escribimos
+Fc = mv2
+r = GmME
+r2
+vesc = 22gRE
+g = GME>RE
+2
+vesc = A
+2GME
+RE
+1
+2 mv2
+esc - GmME
+RE
+= 0 + 0
+Ko + Uo = K + U
+MJ = 4p2
+GKJ
+= 4p2
+(6.67 * 10- 11 N # m2>kg2)(3.11 * 10- 16 s2>m3) = 1.90 * 1027 kg
+KJ = 4p2
+GMJ
+,
+KJ = T2
+r3 = (1.53 * 105 s)2
+(4.22 * 108 m)3 = 3.11 * 10- 16 s2>m3
+T = 1.77 días (8.64 * 104 s>día) = 1.53 * 105 s
+r = 4.22 * 105 km = 4.22 * 108 m
+
+242 CAPÍTULO 7 Movimiento circular y gravitacional
+Entonces
+(7.25)
+donde r /H11005RE /H11001h. Por ejemplo, suponga que un satélite está en órbita circular a una al-
+tura de 500 km (aprox. 300 mi); su rapidez tangencial es
+Esta rapidez es aproximadamente 27 000 km/h o 17 000 mi/h. Como puede verse en la
+ecuación 7.25, la rapidez orbital circular requerida disminuye con la altura.
+En la práctica, se imparte al satélite una rapidez tangencial con un componen-
+te del empuje de una etapa de cohete ( ▼ figura 7.22a). La relación de cuadrado inver-
+so de la ley de la gravitación de Newton implica que las órbitas que pueden tener los 
+satélites en torno a una masa grande de un planeta o una estrella son elipses, de las
+cuales la órbita circular es un caso especial. Esta condición se ilustra en la figura 7.22b
+ = 7.6 * 103 m>s = 7.6 km>s 1aprox. 4.7 mi>s2
+ v = A
+GME
+r = A
+GME
+RE + h = C
+16.67 * 10-11 N # m2>kg2216.0 * 1024 kg2
+16.4 * 106 m + 5.0 * 105 m2
+v = A
+GME
+r
+Despegue Encendido de la primera etapa
+Separación
+Separación
+Separación
+final Colocación
+del satélite
+Encendido de la
+segunda etapadd
+Encendido de la
+tercera etapa Fc
+Rapidez de escape: 11 km/s
+(40 000 km/h)
+Órbita circular: 7.6 km/s
+(27 000 km/h)
+Órbita elíptica:
+>7.6 km/s
+Órbita elíptica :
+<<7.6 km/s<<
+b)
+a)
+h = 500 km
+v
+N FIGURA 7.22 Órbitas de satélites
+a) Un satélite se pone en órbita 
+impartiéndole una rapidez 
+tangencial suficiente para mantener
+una órbita a una altura específica.
+Cuanto más alta sea la órbita, 
+menor será la rapidez tangencial. 
+b) A una altura de 500 km, se 
+requiere una rapidez tangencial 
+de 7.6 km/s para mantener una 
+órbita circular. Con una rapidez
+tangencial entre 7.6 y 11 km/s 
+(la rapidez de escape), el satélite 
+se saldría de la órbita circular. 
+Puesto que no tendría la rapidez 
+de escape, “caería” alrededor de 
+la Tierra en una órbita elíptica, con
+el centro de la Tierra en un punto
+focal. Una rapidez tangencial 
+menor que 7.6 km/s también 
+produciría una trayectoria elíptica
+en torno al centro de la Tierra; pero
+como la Tierra no es una masa 
+puntual, se requeriría cierta rapidez
+mínima para evitar que el satélite
+choque contra la superficie 
+terrestre.
+
+7.6 Leyes de Kepler y satélites terrestres 243
+para la Tierra, utilizando los valores previamente calculados. Si no se imparte a un 
+satélite suficiente rapidez tangencial, caerá otra vez a la Tierra (y posiblemente se
+quemará por fricción al entrar por la atmósfera). Si la rapidez tangencial alcanza la
+velocidad de escape, el satélite dejará su órbita y se marchará al espacio.
+Por último, la energía total de un satélite en órbita circular es
+(7.26)
+Si sustituimos la expresión para v de la ecuación 7.25 en el término de energía cinética
+de la ecuación 7.26, tenemos
+Por lo tanto,
+(7.27)
+Vemos que la energía total del satélite es negativa: se requerirá mayor trabajo para co-
+locar un satélite en una órbita más alta, donde tenga más energía potencial y total. La
+energía total E aumenta al disminuir su valor numérico —es decir, al hacerse menos ne-
+gativo—, conforme el satélite alcanza una órbita más alta, aproximándose al potencial
+cero en la cúspide del pozo. Es decir, cuanto más lejos esté un satélite de la Tierra, ma-
+yor será su energía total. La relación entre rapidez y energía para un radio orbital se
+resume en la tabla 7.3.
+Para entender mejor por qué la energía total aumenta cuando su valor se vuel-
+ve menos negativo, pensemos en un cambio de energía de, digamos, 5.0 a 10 J. Este
+cambio podría considerarse un aumento de energía. Asimismo, un cambio de /H1100210 
+a /H110025.0 J sería un aumento de energía, aun cuando haya disminuido el valor absoluto:
+El desarrollo de la ecuación 7.27 también sugiere que la energía cinética de un sa-
+télite en órbita es igual al valor absoluto de la energía total del satélite:
+(7.28)
+Se realizaron los ajustes en la altura del satélite (r) al aplicar empuje hacia adelan-
+te o en reversa. Por ejemplo, se usó empuje en reversa, producido por los motores de
+naves de carga atracadas, para colocar la estación espacial rusa Mir en órbitas cada vez
+más bajas hasta su destrucción final en marzo de 2001. Un empuje final colocó la esta-
+ción en una órbita decreciente hasta ingresar en la atmósfera. Casi todas las 120 tonela-
+das de Mir se quemaron en la atmósfera, aunque algunos fragmentos cayeron en el
+Océano Pacífico.
+La llegada de la era espacial y el uso de satélites en órbita han originado los térmi-
+nos ingravidez y cero gravedad, porque los astronautas parecen “flotar” cerca de las naves
+en órbita (
+▼ figura 7.23a). No obstante, los términos son incorrectos. Como ya men-
+cionamos, la gravedad es una fuerza de alcance infinito, y la gravedad de la Tierra actúa
+ K = GmME
+2r = ƒEƒ
+¢U = U - Uo =- 5.0 J -1-10 J2 =+ 5.0 J
+energía total de un 
+satélite en órbita terrestreE =-  
+GmME
+2r
+E = GmME
+2r - GmME
+r
+E = K + U = 1
+2 mv2 - GmME
+r
+Relaciones entre radio, rapidez y energía 
+para el movimiento orbital circular
+r (órbita mayor) r (órbita menor)
+disminuye aumenta
+disminuye aumenta
+K disminuye aumenta
+U aumenta (valor negativo menor) disminuye (valor negativo mayor)
+aumenta (valor negativo menor) disminuye (valor negativo mayor)E 1= K + U2
+v
+v
+TABLA 7.3
+
+244 CAPÍTULO 7 Movimiento circular y gravitacional
+sobre las naves espaciales y los astronautas, proporcionándoles la fuerza centrípeta nece-
+saria para mantenerlos en órbita. La gravedad ahí no es cero, así que debe haber peso.*
+Un mejor término para describir el efecto de flotar que experimentan los astronau-
+tas en órbita sería ingravidez aparente. Los astronautas “flotan” porque tanto ellos como
+la nave espacial están acelerando centrípetamente (o cayendo) hacia la Tierra con la
+misma aceleración. Para entender este efecto, considere la situación de un individuo
+parado sobre una báscula en un elevador (figura 7.23b). La lectura de “peso” de la bás-
+cula es en realidad la fuerza normal N que la báscula ejerce sobre la persona. En un ele-
+vador sin aceleración (a /H110050), tenemos N /H11005mg /H11005/H9275, y N es igual al verdadero peso del
+individuo. Sin embargo, suponga que el elevador está bajando con una aceleración a,
+donde a /H11021g. Como muestra el diagrama vectorial de la figura,
+mg /H11002N /H11005ma
+*Otro término que se utiliza para describir la “flotación” del astronauta es microgravedad, lo cual
+significa que es causada por una reducción aparentemente grande de la gravedad. Esto también es un
+término equivocado. Con la ecuación 17.17 a una altura común de satélite de 300 km, se puede demos-
+trar que la reducción de la aceleración debida a la gravedad es de aproximadamente 10%.
+Sin acelerar
+/H20858F = 0
+w = N = mg
+peso verdadero
+En descenso con
+aceleración a < g
+/H20858F = ma
+mg /H11002 N = ma
+w' = N = m(g /H11002 a)
+menor que el
+verdadero peso
+En descenso 
+con a = g
+w' = N = 0
+”sin peso“a = g
+mg
+a
+N = 0
+báscula
+báscula
+báscula
+b)
+a)
+21 3456789
+21 3456789
+21 3456789
+(a = 0)
+N
+Nmg
+mg
+▲ FIGURA 7.23 Ingravidez
+aparente a) Un astronauta “flota”
+en una nave, donde aparentemente
+no tiene peso. b) En un elevador
+estacionario (arriba), una báscula
+indica el verdadero peso de un
+pasajero. La lectura de peso es la
+fuerza de reacción N de la báscula
+sobre la persona. Si el elevador 
+baja con una aceleración a /H11021g
+(en medio), la fuerza de reacción 
+y el peso aparente son menores que
+el verdadero peso. Si el elevador
+estuviera en caída libre (a /H11005g;
+abajo), la fuerza de reacción y el
+peso indicado serían cero, porque 
+la báscula estaría cayendo tan
+rápidamente como la persona.
+
+7.6 Leyes de Kepler y satélites terrestres 245
+y el peso aparente w/H11032es
+w/H11032/H11005N /H11005m(g /H11002a) /H11021mg
+donde la dirección hacia abajo se toma como positiva. Con una aceleración a hacia aba-
+jo, vemos que N es menor que mg, así que la báscula indica que el individuo pesa me-
+nos que su verdadero peso. Observe que la aceleración aparente debida a la gravedad
+es g/H11032/H11005g /H11002a.
+Suponga ahora que el elevador está en caída libre, con a /H11005g. Como puede verse, N
+(y, por lo tanto, el peso aparente w/H11032) sería cero. Esencialmente la báscula está aceleran-
+do, o cayendo, con la misma tasa que la persona. Aunque la báscula indique una con-
+dición de “ingravidez” (N /H110050), la gravedad sigue actuando, y se hará sentir cuando el
+elevador se detenga abruptamente en el fondo del cubo. (Véase la sección A fondo so-
+bre los efectos de la “ingravidez” en el cuerpo humano en el espacio.)
+Se ha llamado al espacio la frontera final . Algún día, en vez de estadías breves 
+en naves en órbita habrá colonias espaciales con gravedad “artificial”. Una propuesta
+7. 3 “INGRAVIDEZ”: EFECTOS SOBRE EL CUERPO HUMANo
+Los astronautas pasan semanas y meses en naves y estaciones
+espaciales en órbita. Aunque la gravedad sí actúa sobre ellos,
+los astronautas experimentan largos periodos de “gravedad 
+cero” (cero g),* debido al movimiento centrípeto. En la Tierra, la
+gravedad brinda la fuerza que hace que nuestros músculos y
+huesos desarrollen la resistencia necesaria para funcionar en
+nuestro entorno. Es decir, nuestros músculos y huesos deben
+ser lo bastante fuertes como para que seamos capaces de cami-
+nar, levantar objetos, etc. Además, hacemos ejercicio y comemos
+adecuadamente, con la finalidad de mantener nuestra capaci-
+dad para funcionar contra la atracción de la gravedad.
+No obstante, en un entorno de cero g los músculos pronto
+se atrofian, ya que el cuerpo no los considera necesarios. Es de-
+cir, los músculos pierden masa si no notan necesidad de res-
+ponder a la gravedad. En cero g, la masa muscular podría
+reducirse hasta 5% cada semana. También hay pérdida ósea a
+razón de 1% al mes. Estudios con modelos indican que la pérdi-
+da ósea total podría llegar al 40-60%. Tal pérdida ocasionaría un
+aumento en el nivel de calcio en la sangre, lo cual llevaría a la
+formación de piedras en los riñones.
+El sistema circulatorio también se ve afectado. En la Tierra,
+la gravedad hace que la sangre se estanque en los pies. Estando
+parados, la presión sanguínea en nuestros pies (cerca de 200 mm
+Hg) es mucho mayor que en la cabeza (60-80 mm Hg), debido a
+la fuerza de gravedad. (En la sección 9.2 se explica la medición
+de la presión arterial.) En la gravedad cero que experimentan los
+astronautas, no hay tal fuerza y la presión sanguínea se equili-
+bra en todo el cuerpo alrededor de los 100 mm Hg. Esta condi-
+ción hace que fluya fluido de las piernas a la cabeza, de manera
+que el rostro se hincha y las piernas se adelgazan. Las venas del
+cuello y la cabeza se notan más de lo normal, en tanto que los
+ojos se enrojecen y se abultan. Las piernas del astronauta se ha-
+cen más delgadas porque la sangre que fluye hacia ellas ya no es
+ayudada por la fuerza de gravedad, lo cual dificulta al corazón
+bombearles sangre (figura 1).
+Lo verdaderamente grave de esta condición es que la pre-
+sión sanguínea anormalmente alta en la cabeza hace creer al ce-
+rebro que hay demasiada sangre en el cuerpo, por lo que se
+establece una disminución en la producción de sangre. Los astro-
+nautas pueden perder hasta el 22% de su sangre como resultado
+de la presión arterial uniforme en cero g. Además, al reducirse la
+presión sanguínea, el corazón no trabaja tanto y los músculos
+cardiacos llegan a atrofiarse.
+Todos estos fenómenos explican por qué los astronautas 
+se someten a rigurosos programas de acondicionamiento físico
+antes de realizar el viaje y se ejercitan usando “sujetadores”
+elásticos una vez en el espacio. Al regresar a la Tierra, sus cuer-
+pos tienen que ajustarse otra vez a un entorno normal de “9.8
+m/s
+2 g”. Cada pérdida corporal tiene un tiempo de recupera-
+ción distinto. El volumen sanguíneo por lo regular se restaura
+en unos cuantos días si los astronautas beben muchos líquidos.
+Casi todos los músculos se regeneran en más o menos un mes,
+dependiendo de la duración de la estadía con cero g. La recupe-
+ración ósea tarda mucho más. Los astronautas que pasan entre
+tres y seis meses en el espacio podrían requerir de dos a tres
+años para recuperar el hueso perdido, si es que llegan a recupe-
+rarlo. El ejercicio y la nutrición son muy importantes en todos
+los procesos de recuperación.
+Hay mucho que aprender acerca de los efectos de la grave-
+dad cero, o incluso de la gravedad reducida. Naves no tripula-
+das han visitado Marte con el objetivo de algún día enviar
+astronautas al Planeta Rojo. Esa tarea implicaría quizá un viaje
+de unos seis meses en cero g, seguida de una estancia en Marte
+donde la gravedad en la superficie es sólo el 38% de la terrestre.
+Nadie conoce aún todos los efectos que un viaje así tendría so-
+bre el cuerpo de un astronauta.
+A FONDO
+*Usaremos descriptivamente aquí este término, en el entendido de
+que es cero g sólo aparentemente.
+En la Tierra En el es pacio
+FIGURA 1 Síndrome de la cara hinchada En un entorno con
+cero g, sin un gradiente de gravedad la presión sanguínea
+disminuye en todo el cuerpo y los fluidos fluyen de las piernas
+a la cabeza, originando lo que se conoce como síndrome de la
+cara hinchada. Las piernas de un astronauta se vuelven más
+delgadas (síndrome de patas de ave) porque el flujo sanguíneo
+hacia ellas no recibe la ayuda de la fuerza de gravedad y es
+difícil que el corazón les bombee sangre.
+
+246 CAPÍTULO 7 Movimiento circular y gravitacional
+es construir una gigantesca colonia espacial giratoria con forma de rueda; algo pareci-
+do a un neumático con los habitantes de él. Como sabemos, se requiere una fuerza cen-
+trípeta para mantener a un objeto en movimiento circular rotacional. En la Tierra, que
+también gira, esa fuerza proviene de la gravedad, y la llamamos peso. Ejercemos una
+fuerza sobre el suelo, y la fuerza normal hacia arriba sobre nuestros pies (por la terce-
+ra ley de Newton) nos da la sensación de “tener los pies en tierra firme”.
+En una colonia espacial giratoria, la situación sería, en cierto sentido, opuesta. La
+colonia giratoria aplicaría una fuerza centrípeta a los habitantes, quienes la percibirían
+con la sensación de una fuerza normal que actúa en las plantas de sus pies: una gra-
+vedad artificial. La rapidez de rotación correcta produciría una simulación de grave-
+dad “normal” (a
+c /H11015g /H110059.80 m/s2) dentro de la rueda de la colonia. En el mundo de los
+colonos, “abajo” sería hacia afuera, hacia la periferia de la estación espacial, y “arriba”
+siempre sería hacia adentro, hacia el eje de rotación (
+▼ figura 7.24).
+a) b)
+g
+▼ FIGURA 7.24 Colonia espacial y gravedad artificial (arriba) Se ha sugerido que una 
+colonia espacial podría albergarse en una enorme rueda giratoria, como se representa en
+esta concepción de un artista. El movimiento de rotación brindará la “gravedad artificial”
+para los habitantes de la colonia. (abajo) a) En el marco de referencia de alguien que se 
+encuentre en una colonia espacial giratoria, la fuerza centrípeta —proveniente de la fuerza
+normal N del piso— se percibiría como sensación de peso o de gravedad artificial. Estamos
+acostumbrados a sentir N hacia arriba sobre nuestros pies para equilibrar la gravedad. 
+La rotación a la rapidez adecuada simularía la gravedad normal. Para un observador en 
+el exterior, una pelota que se dejara caer seguiría una trayectoria rectilínea tangencial, 
+como se muestra en la figura a. b) Un habitante a bordo de la colonia espacial vería que 
+la pelota cae hacia abajo como en una situación de gravedad normal.
+
+Repaso del capítulo 247
+Repaso del capítulo
+• El radián (rad) es una medida de ángulo; 1 rad es el ángulo
+de un círculo subtendido por un arco de longitud (s) igual al
+radio (r):
+Longitud de arco (ángulo en radianes):
+s /H11005r/H9258 (7.3)
+Ecuaciones de cinemática angular para /H9258
+o /H110050 y to /H110050; (véase
+la tabla 7.2 para equivalentes lineales):
+(general, no limitada a aceleración constante) (7.5)
+(2, Tabla 7.2)
+(7.12)
+(4, Tabla 7.2)
+(5, Tabla 7.2)
+• La rapidez tangencial (v) y la rapidez angular (/H9275) de un mo-
+vimiento circular son directamente proporcionales; el radio r
+es la constante de proporcionalidad:
+v /H11005r/H9275 (7.6)
+• La frecuencia ( f ) y el periodo (T) tienen una relación inversa:
+(7.7)
+• Velocidad angular (con movimiento circular uniforme) en térmi-
+nos de periodo (T) y frecuencia (f ):
+(7.8)
+• En movimiento circular uniforme se requiere una aceleración
+centrípeta (a
+c) que siempre está dirigida hacia el centro de la
+trayectoria circular y cuya magnitud está dada por:
+(7.10)
+v
+v
+v
+ac ac
+ac
+ac = v2
+r = rv2
+v = 2p
+T = 2pf
+f = 1
+T
+ v = rv (v en rad/s)
+= wt
+r
+v
+s
+v
+u
+ v =v2
+o + 2a (u -uo)
+ u =uo +vo
+ t + 1
+2 at2
+ v =vo +at
+ v = v +vo
+2
+u =vt
+y
+x
+r
+s = r
+(u en radianes)
+s = r
+   =
+1 rad
+u
+u
+• Para que haya movimiento circular se requiere una fuerza
+centrípeta, Fc, la fuerza neta dirigida hacia el centro del círcu-
+lo, cuya magnitud es
+(7.11)
+• La aceleración angular ( /H9251) es la tasa de cambio de la veloci-
+dad angular con el tiempo y se relaciona con la aceleración
+tangencial (at) por
+at /H11005r/H9251 (7.13)
+• Según la ley de la gravitación de Newton, cualquier partícu-
+la atrae a todas las demás partículas del universo con una
+fuerza proporcional a las masas de las dos partículas e inver-
+samente proporcional al cuadrado de la distancia entre ellas:
+(7.14)
+• Aceleración debida a la gravedad a una altura h:
+(7.17)a
+g = GME
+1RE + h22
+b) Esferas homogéneasa) Masas puntuales
+r
+r
+m1
+F12
+m2
+F21
+m1
+F12
+m2
+F21
+ 1G = 6.67 * 10-11 N # m2>kg22
+ Fg = Gm1
+ m2
+r2
+Movimiento circular no uniforme
+( a = at + ac)
+a
+at
+aca
+Fc = mac = mv2
+r
+sólo
+aceleración
+constante
+∂
+
+248 CAPÍTULO 7 Movimiento circular y gravitacional
+• Energía potencial gravitacional de dos partículas:
+(7.18)
+• Primera ley de Kepler (ley de órbitas):los planetas se mueven
+en órbitas elípticas, con el Sol en uno de sus puntos focales.
+• Segunda ley de Kepler (ley de áreas): una línea del Sol a un
+planeta barre áreas iguales en lapsos de tiempo iguales.
+A1
+Sol
+A2s1 s2
+Sol
+Planeta
+Tierra
+r
+∞U = 0
+RE
+RE
+U /H11022 0
+U /H11021 0
+U = – GmME
+RE
+U ∝ – 1
+r
+U =-  
+Gm1
+ m2
+r
+• Tercera Ley de Kepler (ley de periodos):
+T2 /H11005Kr3 (7.22)
+(K depende de la masa del objeto en torno al cual se da 
+vuelta; para un objeto en órbita alrededor del Sol, 
+K /H110052.97 /H1100310/H1100219 s2/m3)
+• La rapidez de escape (de la Tierra) es
+(7.23, 7.24)
+• Los satélites terrestres están en un pozo de energía potencial
+negativa; cuanto más alto esté el objeto en el pozo, mayor 
+será su energía potencial y menor será su energía cinética.
+• Energía de un satélite en órbita terrestre:
+(7.27)
+(7.28) K =
+ƒEƒ
+ E =-  
+GmME
+2r
+Rapidez de escape: 11 km/s
+(40 000 km/h)
+Órbita circular: 7.6 km/s
+(27 000 km/h)
+Órbita elíptica:
+>7.6 km/s
+Órbita elíptica :
+<<7.6 km/s<<
+h = 500 km
+vesc = A
+2GME
+RE
+= 22gRE
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son ejer-
+cicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pares de
+ejercicios, que se identifican con números subrayados, pretenden ayudar al lector a resolver problemas y aprender.
+El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consultarse si se ne-
+cesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al final del libro.
+7.1 Medición angular
+1. OM La unidad radián equivale a un cociente de a) grado/
+tiempo, b) longitud, c) longitud/longitud o d) longi-
+tud/tiempo.
+2. OM Para las coordenadas polares de una partícula que
+viaja en círculo, las variables son a) tanto r como /H9258, b) só-
+lo r, c) sólo /H9258, d) ninguna de las anteriores.
+3. PC ¿Por qué un radián es igual a 57.3 /H11034? ¿No sería más
+conveniente tener un número par de grados?
+4. PC Una rueda gira sobre un eje rígido que pasa por su
+centro. ¿Todos los puntos de la rueda recorren la misma
+distancia? ¿Recorren la misma distancia angular?
+5.
+● Las coordenadas cartesianas de un punto en un círculo
+son (1.5 m, 2.0 m). ¿Qué coordenadas polares ( r, /H9258) tiene
+ese punto?
+6. ● Las coordenadas polares de un punto son (5.3 m, 32 /H11034).
+¿Qué coordenadas cartesianas tiene el punto?
+7. ● Usted puede determinar el diámetro del Sol midiendo
+el ángulo que subtiende. Si el ángulo es de 0.535/H11034y la dis-
+tancia promedio entre la Tierra y el Sol es de 1.5 /H110031011 m,
+¿qué diámetro tiene el Sol?
+8. ● Convierta estos ángulos de grados a radianes, con dos
+cifras significativas: a) 15/H11034, b) 45/H11034, c) 90/H11034y d) 120/H11034.
+
+Ejercicios 249
+9. ● Convierta estos ángulos de radianes a grados: a) /H9266/6 rad,
+b) 5/H9266/12 rad, c) 3/H9266/4 rad y d) /H9266rad.
+10. ● Usted mide de un automóvil la longitud distante sub-
+tendida por una distancia angular de 1.5/H11034. Si el automóvil
+en realidad mide 5.0 m de largo, ¿aproximadamente qué
+tan lejos está?
+11.
+● Un corredor en una pista circular, cuyo radio mide
+0.250 km, corre una distancia de 1.00 km. ¿Qué distancia
+angular cubre el corredor en a) radianes y b) grados?
+12.
+●● La aguja de las horas, el minutero y el segundero de
+un reloj tienen 0.25 m, 0.30 m y 0.35 m de longitud, res-
+pectivamente. ¿Qué distancias recorren las puntas de las
+agujas en un intervalo de 30 min?
+13.
+●● En Europa, un paseo circular de 0.900 km de diáme-
+tro está marcado con distancias angulares en radianes.
+Un turista estadounidense que camina 3.00 mi al día visi-
+ta el paseo. ¿Cuántos radianes deberá caminar cada día
+para seguir su rutina?
+14.
+●● Se ordenó una pizza de 12 pulgadas para cinco perso-
+nas. Si se quiere repartir equitativamente, ¿cómo deberá
+cortarse en tajadas triangulares (
+▼ figura 7.25)?
+19. ●●● Un cable eléctrico de 0.75 cm de diámetro se enro-
+lla en un carrete con radio de 30 cm y altura de 24 cm. 
+a) ¿Cuántos radianes debe girarse el carrete para enro-
+llar una capa uniforme de cable? b) ¿Qué longitud tiene
+el cable enrollado?
+20.
+●●● Un yo-yo con un diámetro de eje de 1.00 cm tiene un
+cordel de 90.0 cm de longitud enrollado varias veces, de
+forma que ese cordel cubre completamente la superficie
+de su eje, pero sin que haya dobles capas del cordel. La
+porción más externa del yo-yo está a 5.00 cm del centro
+del eje. a) Si el yo-yo se lanza con el cordel completamen-
+te enrollado, ¿a través de qué ángulo gira para el mo-
+mento en que alcanza el punto inferior de su descenso?
+b) Qué distancia de longitud de arco ha recorrido una
+parte del yo-yo en su orilla externa para el momento en
+que toca fondo?
+7.2 Rapidez y velocidad angulares
+21. OM Vista desde arriba, una tornamesa gira en direc-
+ción antihoraria. El vector de velocidad angular es en-
+tonces a) tangencial al borde de la tornamesa, b) sale del
+plano de la tornamesa, c) antihorario o d) ninguna de
+las anteriores.
+22. OM La unidad de frecuencia hertz equivale a a) la del 
+periodo, b) la del ciclo, c) radián/s o d) s
+/H110021.
+23. OM Todas las partículas en un objeto que gira uniforme-
+mente tienen la misma a) aceleración angular, b) rapidez
+angular, c) velocidad tangencial, d) tanto a como b.
+24. PC ¿Todos los puntos de una rueda que gira en torno a
+un eje fijo que pasa por su centro tienen la misma ve-
+locidad angular? ¿Y la misma velocidad tangencial? 
+Explique.
+25. PC Cuando se usa “horario” o “antihorario” para descri-
+bir un movimiento rotacional, ¿por qué se añade una fra-
+se como “visto desde arriba”?
+26. PC Imagine que usted está parado en la orilla de un ca-
+rrusel que gira. ¿Cómo se vería afectado su movimiento
+tangencial si camina hacia el centro? (¡Cuidado con los
+caballitos que suben y bajan!)
+27.
+● La rapidez angular de un DVD-ROM de computadora
+varía entre 200 y 450 rpm. Exprese este intervalo de rapi-
+dez angular en radianes por segundo.
+28.
+● Un automóvil de carreras da dos y media vueltas a una
+pista circular en 3.0 min. ¿Qué rapidez angular promedio
+tiene?
+29.
+● Si una partícula gira con rapidez angular de 3.5 rad/s,
+¿cuánto tarda en efectuar una revolución?
+30. ● ¿Qué periodo de revolución tiene a) una centrífuga de
+9 500 rpm y b) una unidad de disco duro de computadora
+de 9 500 rpm?
+31. ●● ¿Qué tiene mayor rapidez angular: la partícula A que
+recorre 160/H11034en 2.00 s, o la partícula B que recorre 4 /H9266rad
+en 8.00 s?
+?
+N FIGURA 7.25 Pizza difícil de
+dividir Véase el ejercicio 14.
+15. EI ●● Para asistir a los Juegos Olímpicos de verano del
+2000, un aficionado voló desde Mosselbaai, Sudáfrica
+(34/H11034S, 22 /H11034E) hacia Sydney, Australia (34 /H11034S, 151 /H11034E). 
+a) ¿Cuál es la menor distancia angular que el aficiona-
+do tiene que viajar?: 1) 34 /H11034, 2) 12/H11034, 3) 117/H11034o 4) 129/H11034. ¿Por
+qué? b) Determine la menor distancia aproximada de
+vuelo, en kilómetros.
+16. EI
+●● La rueda de una bicicleta tiene una piedrita ato-
+rada en la banda de rodamiento. La bicicleta se pone de
+cabeza, y el ciclista accidentalmente golpea la rueda 
+de manera que la piedra se mueve a través de una lon-
+gitud de arco de 25.0 cm antes de llegar al reposo. En ese
+tiempo, la rueda gira 35°. a) El radio de la rueda es, por lo
+tanto, 1) mayor de 25.0 cm, 2) menor de 25.0 cm o 3) igual
+a 25.0 cm. b) Determine el radio de la rueda.
+17.
+●● Al final de su rutina, una patinadora da 7.50 revolu-
+ciones con los brazos completamente extendidos en án-
+gulos rectos con respecto a su cuerpo. Si sus brazos
+miden 60.0 cm de largo, ¿qué distancia lineal de  longi-
+tud de arco hacen las yemas de sus dedos cuando se
+mueven durante el final de su rutina?
+18.
+●●● a) ¿Podría cortarse un pastel circular de manera que
+todas las tajadas tengan una longitud de arco en su borde
+exterior igual al radio del pastel? b) Si no, ¿cuántas taja-
+das así podrían cortarse, y qué dimensión angular ten-
+dría la tajada sobrante?
+
+mg
+N sen u
+N cos u
+N
+u
+u
+▲ FIGURA 7.28 Peralte de seguridad Véase el ejercicio 45.
+250 CAPÍTULO 7 Movimiento circular y gravitacional
+32. ●● La rapidez tangencial de una partícula en una rue-
+da giratoria es de 3.0 m/s. Si la partícula está a 0.20 m
+del eje de rotación, ¿cuánto tardará en efectuar una re-
+volución?
+33.
+●● Un carrusel efectúa 24 revoluciones en 3.0 min. a) Calcu-
+le su rapidez angular promedio en rad/s. b) ¿Qué rapidez
+tangencial tienen dos personas sentadas a 4.0 y 5.0 m del
+centro (eje de rotación)?
+34.
+●● En el ejercicio 16, suponga que la rueda tarda 1.20 s
+en detenerse después del golpe. Suponga que al estar de
+frente al plano de la rueda, ésta gira en sentido antihora-
+rio. Durante este tiempo, determine a) la rapidez angu-
+lar promedio y la rapidez tangencial de la piedra, b) la
+rapidez angular promedio y la rapidez tangencial de un
+residuo de grasa en el eje de la rueda (cuyo radio es de
+1.50 cm) y c) la dirección de sus velocidades angulares
+respectivas.
+35. EI
+●● La Tierra gira sobre su eje una vez al día, y en tor-
+no al Sol una vez al año. a) ¿Qué es mayor, la rapidez 
+angular de rotación o la rapidez angular de traslación? 
+b) Calcule ambos valores en rad/s.
+36.
+●● Un niño brinca sobre un pequeño carrusel (cuyo radio
+es de 2.00 m) en un parque y gira durante 2.30 s por una
+distancia de longitud de arco de 2.55 m, antes de llegar al
+reposo. Si el niño cae (y permanece) a una distancia de
+1.75 m del eje central de rotación del carrusel, ¿cuáles se-
+rán sus rapideces angular y tangencial promedio?
+37.
+●●● Un conductor ajusta el control de crucero de su au-
+tomóvil y amarra el volante, de manera que el vehículo
+viaje con rapidez uniforme de 15 m/s en un círculo con
+diámetro de 120 m. a) ¿Qué distancia angular recorre el
+coche en 4.00 min? b) ¿Qué distancia lineal recorre en ese
+tiempo?
+38.
+●●● En un derrape sobre el pavimento cubierto de hielo
+en un camino vacío en el que no hubo colisión ni lesiona-
+dos, un automóvil da 1.75 revoluciones mientras se pati-
+na hasta detenerse. Inicialmente se desplazaba a 15.0 m/s
+y, a causa del hielo fue capaz de desacelerar a una tasa de
+apenas 1.50 m/s
+2. Visto desde arriba, el automóvil giró en
+sentido horario. Determine su velocidad angular prome-
+dio conforme giró y derrapó hasta detenerse.
+7.3 Movimiento circular uniforme y aceleración
+centrípeta
+39. OM El movimiento circular uniforme requiere a) acelera-
+ción centrípeta, b) rapidez angular, c) velocidad tangencial,
+d) todas las anteriores.
+40. OM En un movimiento circular uniforme hay a) veloci-
+dad constante, b) velocidad angular constante, c) cero ace-
+leración o d) aceleración tangencial distinta de cero.
+41. OM Si se incrementa la fuerza centrípeta que actúa sobre
+una partícula en movimiento circular uniforme, a) la 
+rapidez tangencial seguirá constante, b) la rapidez tan-
+gencial disminuirá, c) el radio de la trayectoria circular
+aumentará o d) la rapidez tangencial aumentará y/o el
+radio disminuirá.
+¿“Fuerza
+centífuga”?
+f
+f
+▲ FIGURA 7.26 Al ponerse en movimiento, es un sistema
+en rotación Véase el ejercicio 43.
+42. PC El ciclo de centrífuga de una lavadora sirve para ex-
+traer agua de la ropa recién lavada. Explique el principio
+de física que interviene.
+43. PC El aparato de la 
+▼ figura 7.26 sirve para demostrar las
+fuerzas en un sistema en rotación. Los flotadores están
+en frascos con agua. Cuando se gira el brazo, ¿en qué di-
+rección se moverán los flotadores? ¿Tiene alguna influen-
+cia el sentido en que se gira el brazo?
+44. PC Al tomar rápidamente una curva en un automóvil,
+sentimos como si nos lanzaran hacia afuera (
+▼ figura
+7.27). A veces se dice que tal efecto se debe a una fuerza
+centrífuga hacia fuera (que huye del centro). Sin embar-
+go, en términos de las leyes de Newton, esta pseudofuer-
+za no existe realmente. Analice la situación de la figura
+para demostrar que la fuerza no existe. [Sugerencia: inicie
+con la primera ley de Newton.]
+45. PC Muchas pistas para carreras tienen curvas peralta-
+das, que permiten a los automóviles tomarlas con mayor
+rapidez que si fueran planas. De hecho, los vehículos po-
+drían dar vuelta en estas curvas peraltadas aunque no
+hubiera fricción. Explique esta afirmación con la ayuda
+del diagrama de cuerpo libre de la 
+▼ figura 7.28.
+▲ FIGURA 7.27 ¿Una fuerza que huye del centro?
+Véase el ejercicio 44.
+
+Ejercicios 251
+46. ● Un carro Indy corre a 120 km/h por una pista circular
+horizontal, cuyo radio es de 1.00 km. ¿Qué aceleración
+centrípeta tiene el vehículo?
+47.
+● Una rueda de 1.5 m de radio gira con rapidez unifor-
+me. Si un punto del borde tiene una aceleración centrípe-
+ta de 1.2 m/s
+2, ¿qué velocidad tangencial tiene?
+48. ● Se diseña un cilindro giratorio de unos 16 km de longi-
+tud y 7.0 km de diámetro para usarse como colonia espa-
+cial. ¿Con qué rapidez angular debe girar para que sus
+residentes experimenten la misma aceleración debida a
+la gravedad que en la Tierra?
+49.
+●● La Luna da una vuelta a la Tierra en 27.3 días, en una
+órbita casi circular con un radio de 3.8 /H11003105 km. Supo-
+niendo que el movimiento orbital de la Luna es un movi-
+miento circular uniforme, ¿qué aceleración tiene la Luna
+al “caer” hacia la Tierra?
+50.
+●● Imagine que sobre su cabeza da vueltas a una pelota
+sujeta al extremo de un cordel. La pelota se mueve con
+rapidez constante en un círculo horizontal. a) ¿El cordón
+puede estar exactamente horizontal? b) Si la masa de la
+pelota es de 0.250 kg, el radio del círculo es de 1.50 m y
+la pelota tarda 1.20 s en dar una vuelta, ¿qué rapidez
+tangencial tiene la pelota? c) ¿Qué fuerza centrípeta está
+aplicando a la pelota a través del cordel?
+51.
+●● En el ejercicio 50, si aplica una fuerza de tensión de
+12.5 N al cordel, ¿qué ángulo formará éste relativo a la
+horizontal?
+52.
+●● Un automóvil con rapidez constante de 83.0 km/h
+entra en una curva plana circular con radio de curva-
+tura de 0.400 km. Si la fricción entre los neumáticos y 
+el pavimento puede crear una aceleración centrípeta de
+1.25 m/s
+2, ¿el vehículo dará la vuelta con seguridad?
+Justifique su respuesta.
+53. EI ●● Un estudiante quiere columpiar una cubeta con
+agua en un círculo vertical sin derramarla (▼ figura 7.29).
+a) Explique cómo es posible esto. b) Si la distancia de su
+hombro al centro de masa de la cubeta es de 1.0 m, ¿qué
+rapidez mínima se requiere para que el agua no se salga
+de la cubeta en la cúspide de la oscilación?
+54.
+●● Al trazar una “figura de 8”, un patinador desea que
+la parte superior del 8 sea aproximadamente un círculo
+con radio de 2.20 m. Necesita deslizarse por esta parte
+de la figura casi con rapidez constante, lo que le toma
+4.50 s. Sus patines que se hunden en el hielo son capaces
+de suministrar una aceleración centrípeta máxima de
+3.25 m/s
+2. ¿Logrará realizar esto como lo planeó? Si no,
+¿qué ajuste podrá hacer si quiere que esta parte de la 
+figura sea del mismo tamaño? (Suponga que las con-
+diciones del hielo y de los patines no cambian.)
+55.
+●● Una delgada cuerda de 56.0 cm de longitud une dos
+pequeños bloques cuadrados, cada uno con una masa de
+1.50 kg. El sistema está colocado sobre una hoja horizon-
+tal resbaladiza de hielo (que no ofrece fricción) y gira del
+tal manera que los dos bloques dan vuelta uniformemen-
+te alrededor de su centro de masa común, que no se mue-
+ve por sí solo. Se supone que giran durante 0.750 s. Si la
+cuerda puede ejercer una fuerza de tan sólo 100 N antes
+de romperse, determine si la cuerda servirá.
+56. EI
+●● El piloto de un avión a reacción efectúa una ma-
+niobra de lazo circular vertical con rapidez constante. 
+a) ¿Qué es mayor, la fuerza normal que el piloto ejerce 
+sobre el asiento en la parte más baja del lazo o la que ejer-
+ce en la parte más alta? ¿Por qué? b) Si el avión vuela a
+700 km/h y el radio del círculo es de 2.0 km, calcule las
+fuerzas normales que el piloto ejerce sobre el asiento en
+las partes más baja y más alta del lazo. Exprese su res-
+puesta en términos del peso del piloto, mg.
+57.
+●●● Un bloque de masa m se desliza por un plano incli-
+nado y entra en una vuelta vertical circular de radio r
+(▼ figura 7.30). a) Despreciando la fricción, ¿qué rapidez
+mínima debe tener el bloque en el punto más alto de la
+vuelta para no caer? [Sugerencia: ¿qué fuerza debe actuar
+sobre el bloque ahí para mantenerlo en una trayectoria
+circular?] b) ¿Desde qué altura vertical en el plano incli-
+nado (en términos del radio de la vuelta) debe soltarse el
+bloque, para que tenga la rapidez mínima necesaria en 
+el punto más alto de la vuelta?
+▲ FIGURA 7.29 ¿Agua sin peso? Véase el ejercicio 53.
+m
+h
+r
+▲ FIGURA 7.30 Rizar el rizo Véase el ejercicio 57.
+58. ●●● Para una escena en una película, un conductor acro-
+bático maneja una camioneta de 1.50 /H11003103 kg y 4.25 m
+de longitud describiendo medio círculo con radio de
+0.333 km (
+▼ figura 7.31). El vehículo debe salir del cami-
+no, saltar una cañada de 10.0 m de anchura, y caer en la
+otra orilla 2.96 m más abajo. ¿Qué aceleración centrípe-
+ta mínima debe tener la camioneta al describir el medio
+círculo para librar la cañada y caer del otro lado?
+
+L = 0.75 m
+Masa del
+péndulo
+ac
+at
+a
+u
+▲ FIGURA 7.32 Un péndulo en movimiento Véase el
+ejercicio 72.
+252 CAPÍTULO 7 Movimiento circular y gravitacional
+59. ●●● Considere un péndulo simple con longitud L que
+tiene una pequeña masa m atada al final de la cuerda. 
+Si el péndulo parte de una posición horizontal y se li-
+bera desde el reposo, demuestre a) que la rapidez en el 
+punto inferior del vaivén es y b) que la 
+tensión en la cuerda en ese punto es tres veces el peso 
+de la masa, o T
+máx /H110053mg. [Sugerencia: utilice la conser-
+vación de la energía para determinar la rapidez en el
+punto inferior, así como las ideas sobre fuerza centrípe-
+ta y un diagrama de cuerpo libre para determinar la ten-
+sión en el punto inferior.]
+7.4 Aceleración angular
+60. OM La aceleración angular en movimiento circular a) es
+igual en magnitud a la aceleración tangencial dividida
+entre el radio, b) aumenta la velocidad angular si tanto
+ésta como la aceleración angular tienen la misma direc-
+ción, c) tiene unidades de s
+/H110022 o d) todas las anteriores.
+61. OM En el movimiento circular, la aceleración tangencial
+a) no depende de la aceleración angular, b) es constante,
+c) tiene unidades de s /H110022, d) ninguna de las opciones an-
+teriores es verdadera.
+62. OM Para el movimiento circular uniforme, a) /H9251/H110050, 
+b) /H9275/H110050, c) r /H110050, d) ninguna de las anteriores.
+63. PC Un automóvil aumenta su rapidez cuando está en
+una pista circular. ¿Tiene aceleración centrípeta? ¿Tiene
+aceleración angular? Explique.
+64. PC ¿Es posible para un automóvil que se desplaza en
+una pista circular tener aceleración angular y no tener
+aceleración centrípeta? Explique su respuesta.
+65. PC ¿Es posible para un automóvil que se desplaza en
+una pista circular tener un incremento en su aceleración
+tangencial y no tener aceleración centrípeta?
+66.
+● Durante una aceleración, la rapidez angular de un mo-
+tor aumenta de 600 a 2500 rpm en 3.0 s. ¿Qué aceleración
+angular promedio tiene?
+67. ● Un carrusel que acelera uniformemente desde el repo-
+so alcanza su rapidez operativa de 2.5 rpm en cinco revo-
+luciones. ¿Qué magnitud tiene su aceleración angular?
+vmáx = 22gL
+68. ●● Para mantener su densidad ósea y otros signos vitales
+del cuerpo, los tripulantes de una nave espacial con for-
+ma cilíndrica quieren generar un “ambiente de 1 g” en su
+trayecto hacia un destino alejado. Suponga que el cilin-
+dro tiene un diámetro de 250 m (los tripulantes se en-
+cuentran en la superficie interna) y que inicialmente no
+está girando alrededor de su largo eje. Para una pertur-
+bación mínima, la aceleración angular (constante) es una
+muy moderada de 0.00010 rad/s
+2. Determine cuánto tiem-
+po tardan en alcanzar su meta de un “ambiente de 1 g”.
+69. EI ●● Un automóvil en una pista circular acelera desde el
+reposo. a) El coche experimenta 1) sólo aceleración angu-
+lar, 2) sólo aceleración centrípeta o 3) aceleración tanto 
+angular como centrípeta. ¿Por qué? b) Si el radio de la pis-
+ta es de 0.30 km y la magnitud de la aceleración angular
+constante es de 4.5 /H1100310
+/H110023 rad/s2, ¿cuánto tardará el co-
+che en dar una vuelta en la pista? c) Calcule la aceleración
+total (vectorial) del coche cuando ha dado media vuelta.
+70. ●● Las aspas de un ventilador que opera a baja rapidez
+giran a 250 rpm. Cuando el ventilador se cambia a alta
+velocidad, la tasa de rotación aumenta uniformemente a
+350 rpm en 5.75 s. a) Calcule la magnitud de la acelera-
+ción angular de las aspas. b) ¿Cuántas revoluciones efec-
+túan las aspas mientras el ventilador está acelerando?
+71.
+●● En el ciclo de exprimido de una lavadora moderna,
+una toalla húmeda con una masa de 1.50 kg se “pega a” la
+superficie interior del cilindro perforado (para permitir
+que el agua salga). Para tener una eliminación adecuada
+del agua, la ropa húmeda/mojada necesita experimen-
+tar una aceleración centrípeta de por lo menos 10 g. Su-
+poniendo este valor y que el cilindro tiene un radio de
+35.0 cm, determine la aceleración angular constante de la
+toalla que se requiere, si la lavadora tarda 2.50 s en al-
+canzar su rapidez angular final.
+72.
+●●● Un péndulo que oscila en un arco circular bajo la in-
+fluencia de la gravedad, como se observa en la ▼ figura
+7.32, tiene componentes centrípeto y tangencial de la ace-
+leración. a) Si la masa del péndulo tiene una rapidez de
+2.7 m/s cuando la cuerda forma un ángulo de /H9258/H1100515/H11034
+con respecto a la vertical, ¿cuáles son las magnitudes de
+los componentes en ese momento? b) ¿Dónde alcanza su
+máximo la aceleración centrípeta? ¿Cuál es el valor de la
+aceleración tangencial en ese punto?
+0.333 km
+10.0 m
+2.96 m
+v
+▲ FIGURA 7.31 Sobre la cañada Véase el ejercicio 58.
+
+Ejercicios 253
+▲ FIGURA 7.34 Suéltalo Véase el ejercicio 78.
+▲ FIGURA 7.33 Saliendo a caminar ¿Por qué este
+astronauta parece “flotar”? Véase el ejercicio 77.
+73. ●●● Un péndulo simple con longitud de 2.00 m se libe-
+ra desde una posición horizontal. Cuando forma un án-
+gulo de 30 /H11034con respecto a la vertical, determine a) su
+aceleración angular, b) su aceleración centrípeta y c) la
+tensión en la cuerda. Suponga que la masa del péndulo
+es de 1.50 kg.
+7.5 Ley de la gravitación de Newton
+74. OM La fuerza gravitacional es a) una función lineal de la
+distancia, b) una función inversa de la distancia, c) una
+función inversa del cuadrado de la distancia o d) repul-
+siva en ocasiones.
+75. OM La aceleración debida a la gravedad de un objeto en
+la superficie terrestre a) es una constante universal, como
+G; b) no depende de la masa de la Tierra; c) es directa-
+mente proporcional al radio de la Tierra, o d) no depende
+de la masa del objeto.
+76. OM En comparación con su valor en la superficie de la
+Tierra, el valor de la aceleración debida a la gravedad a
+una altitud de un radio terrestre es a) igual, b) dos veces
+mayor, c) igual a la mitad, d) una cuarta parte.
+77. PC Los astronautas en una nave en órbita o en una “ca-
+minata espacial” (
+▼ figura 7.33) parecen “flotar”. Este
+fenómeno suele describirse como ingravidez o gravedad
+cero (cero g). ¿Son correctos estos términos? Explique
+por qué un astronauta parece flotar en o cerca de una
+nave en órbita.
+79. PC ¿Podemos determinar la masa de la Tierra con sólo
+medir la aceleración gravitacional cerca de su superficie?
+Si es afirmativo, explique los detalles.
+80.
+● Use la masa y el radio conocidos de la Luna (véase las
+tablas en los forros de este libro) para calcular el valor de
+la aceleración debida a la gravedad, g
+M, en la superficie
+de la Luna.
+81. ● Calcule la fuerza gravitacional entre la Tierra y la 
+Luna.
+82. ●● Para una nave que va directamente de la Tierra a 
+la Luna, ¿más allá de qué punto comenzará a dominar la
+gravedad lunar? Es decir, ¿dónde tendrá la fuerza gra-
+vitacional lunar la misma magnitud que la terrestre?
+¿Los astronautas en una nave en este punto carecen ver-
+daderamente de peso?
+83.
+●● Cuatro masas idénticas de 2.5 kg cada una están en
+las esquinas de un cuadrado de 1.0 m por lado. ¿Qué
+fuerza neta actúa sobre cualquiera de las masas?
+84.
+●● Calcule la aceleración debida a la gravedad en la cima
+del monte Everest, a 8.80 km sobre el nivel del mar. (Dé
+su resultado con tres cifras significativas.)
+85.
+●● Un hombre tiene una masa de 75 kg en la superficie
+terrestre. ¿A qué altura tendría que subir para “perder”
+el 10% de su peso corporal?
+86. EI
+●● Dos objetos se atraen mutuamente con cierta fuer-
+za gravitacional. a) Si la distancia entre ellos se reduce a
+la mitad, la nueva fuerza gravitacional 1) aumentará al
+doble, 2) aumentará 4 veces, 3) disminuirá a la mitad o 
+4) disminuirá a la cuarta parte. ¿Por qué? b) Si la fuerza
+original entre los dos objetos es 0.90 N y la distancia se
+triplica, ¿qué nueva fuerza gravitacional habrá entre los
+objetos?
+87.
+●● Durante las exploraciones lunares Apollo a finales de
+la década de 1960 y principios de la siguiente, la princi-
+pal sección de la nave espacial permanecía en órbita alre-
+dedor de la Luna con un astronauta dentro, mientras que
+los otros dos descendían a la superficie en un módulo de
+alunizaje. Si la sección principal orbitaba aproximada-
+mente a 50 mi por encima de la superficie lunar, determi-
+ne la aceleración centrípeta de esa sección.
+88.
+●● En relación con el ejercicio 87, determine a) la ener-
+gía potencial gravitacional, b) la energía total y c) la
+energía necesaria para “escapar” de la Luna para 
+la sección principal de la misión de exploración lunar 
+en órbita. Suponga que la masa de esta sección es de 
+5 000 kg.
+89.
+●●● a) Calcule la energía potencial gravitacional mutua
+de la configuración mostrada en la ▼ figura 7.35 si todas
+las masas son de 1.0 kg. b) Calcule la fuerza gravitacional
+por unidad de masa en el centro de la configuración.
+78. PC Si se dejara caer el vaso de la ▼ figura 7.34, no saldría
+agua por los orificios. Explique.
+
+254 CAPÍTULO 7 Movimiento circular y gravitacional
+90. EI ●●● La misión de una sonda espacial está planeada
+para explorar la composición del espacio interestelar.
+Suponiendo que los tres objetos más importantes en el
+sistema solar para este proyecto son el Sol, la Tierra y Jú-
+piter, a) ¿cuál sería la distancia de la Tierra relativa a 
+Júpiter que tendría por resultado la menor rapidez de
+escape necesaria, si la sonda se lanzara desde la Tierra?
+1) La Tierra debería estar lo más cerca posible de Júpi-
+ter; 2) la Tierra debería estar lo más lejos posible de Jú-
+piter, o 3) la distancia de la Tierra relativa a Júpiter no
+importa. b) Estime la menor rapidez de escape para esta
+sonda, suponiendo órbitas planetarias circulares y que
+sólo la Tierra, el Sol y Júpiter son importantes. (Consulte
+los datos en el apéndice III.) Comente cuál de los tres 
+objetos, si acaso alguno, determina principalmente la ra-
+pidez de escape.
+7.6 Leyes de Kepler y satélites terrestres
+91. OM Se descubre un nuevo planeta y se determina su 
+periodo. Entonces, se podrá calcular su distancia del Sol
+usando a) la primera, b) la segunda o c) la tercera ley de
+Kepler.
+92. OM Para un planeta en su órbita elíptica, a) la rapidez es
+constante, b) la distancia al Sol es constante, c) se mueve
+más rápidamente cuando está más cerca del Sol o d) se
+mueve más lentamente cuando está más cerca del Sol.
+93. OM Si un satélite cerca de la superficie terrestre no tiene
+una rapidez tangencial mínima de 11 km/s, podría a) en-
+trar en una órbita elíptica, b) entrar en una órbita circular,
+c) chocar contra la tierra, d) todas las anteriores.
+94. PC a) En una revolución, ¿cuánto trabajo efectúa la fuer-
+za centrípeta sobre un satélite en órbita circular en torno
+a la Tierra? b) Una persona en un elevador en caída libre
+piensa que puede evitar lesionarse si salta hacia arriba
+justo antes de que el elevador choque contra el piso. ¿Fun-
+cionaría dicha estrategia?
+95. PC a) Para colocar un satélite en órbita sobre el ecuador,
+¿debería lanzarse el cohete hacia el este o hacia el oeste?
+¿Por qué? b) En Estados Unidos, tales satélites se lanzan
+desde Florida. ¿Por qué no desde California, que gene-
+ralmente tiene mejores condiciones climáticas?
+96. PC Como piloto de una nave espacial en órbita, usted ve
+un instrumento adelante en la misma órbita. a) ¿Puede
+acelerar su nave encendiendo un solo cohete para reco-
+ger el instrumento? Explique. b) ¿Qué tendría que hacer
+para recoger el instrumento? 
+97.
+● Un paquete de instrumentos se proyecta verticalmen-
+te hacia arriba para recolectar datos en la parte más alta
+de la atmósfera terrestre (a una altura de unos 900 km).
+a) ¿Qué rapidez inicial se requiere en la superficie terres-
+tre para que el paquete llegue a esta altura? b) ¿Qué por-
+centaje de la rapidez de escape representa esa rapidez
+inicial?
+98.
+●● En el año 2056, la Colonia Marciana I quiere poner en
+órbita un satélite de comunicación sincrónica alrededor
+de Marte para facilitar las comunicaciones con las nue-
+vas bases planeadas en el Planeta Rojo. ¿A qué distancia
+por encima del ecuador de Marte debería colocarse este
+satélite? (Para hacer una buena aproximación, considere
+que el día en Marte es de la misma duración que el de la
+Tierra.)
+99.
+●● La franja de asteroides entre Marte y Júpiter podrían
+ser los restos de un planeta que se desintegró o que no
+pudo formarse por causa de la fuerte gravitación de Júpi-
+ter. El periodo aproximado de la franja de asteroides es
+de 5.0 años. ¿Como a qué distancia del Sol habría estado
+este “quinto” planeta?
+100.
+●● Utilizando un desarrollo similar al de la ley de perio-
+dos de Kepler para planetas en órbita alrededor del Sol,
+calcule la altura que debe tener un satélite geosincrónico
+sobre la Tierra. [Sugerencia: el periodo de tales satélites es
+el mismo que el de la Tierra.]
+101. ●● Venus tiene un periodo de rotación de 243 días. ¿Qué
+altura tendría un satélite sincrónico para ese planeta (si-
+milar a uno geosincrónico para la Tierra)?
+102.
+●●● Una pequeña sonda espacial se pone en órbita circu-
+lar alrededor de una luna de Saturno recientemente des-
+cubierta. El radio de la luna es de 550 km. Si la sonda está
+en órbita a una altura de 1500 km por encima de la super-
+ficie de la luna y tarda 2.00 días terrestres en completar
+una órbita, determine la masa de la luna.
+Ejercicios adicionales
+103. Justo un instante antes de alcanzar el punto inferior de
+una sección semicircular de la montaña rusa, el freno au-
+tomático de emergencia se activa inadvertidamente. Su-
+ponga que el carro tiene una masa total de 750 kg, que el
+radio de esa sección de la vía es de 55.0 m, y que el carro
+entró en la parte inferior después de descender 25.0 m
+verticalmente (a partir del reposo) en una inclinación
+recta sin fricción. Si la fuerza de frenado es constante y
+con valor de 1700 N, determine a) la aceleración centrí-
+peta del carro (incluyendo la dirección), b) la fuerza nor-
+mal de la vía sobre el carro, c) la aceleración tangencial
+del carro (incluyendo la dirección) y d) la aceleración to-
+tal del carro.
+y
+x
+0.80 m
+(0.40 m, 0)
+m3
+m2
+(–0.40 m, 0)
+0.80 m
+m1
+▲ FIGURA 7.35 Potencial gravitacional, fuerza
+gravitacional y centro de masa Véase el ejercicio 89.
+
+Ejercicios 255
+104. Una pasajera de 60.0 kg está a bordo de un automóvil
+que se desplaza a 25.0 m/s de manera constante. El auto-
+móvil da vuelta hacia la izquierda en una curva plana
+con un radio de 75.0 m a esa rapidez constante. La pasa-
+jera no lleva abrochado el cinturón de seguridad, pero
+hay fricción entre ella y el asiento. El coeficiente de fric-
+ción estática es 0.600. a) ¿Se deslizará hacia la derecha so-
+bre su asiento durante esta vuelta? b) Si acaso se desliza,
+cuando hace contacto con la puerta del automóvil, ¿cuál
+es la fuerza normal ejercida sobre sus costados?
+105. Un disco horizontal de radio 5.00 cm acelera angular-
+mente a partir del reposo con una aceleración angular de
+0.250 rad/s
+2. Una pequeña piedra localizada a mitad del
+camino a partir del centro tiene un coeficiente de fricción
+estática con el disco de 0.15. a) ¿Cuánto tardará la piedra
+en deslizarse sobre la superficie del disco? b) ¿Cuántas
+revoluciones habrá dado el disco para ese momento?
+106. Un péndulo simple consiste en una cuerda ligera de 1.50 m
+de longitud con una pequeña masa de 0.500 kg atada a
+ella. El péndulo parte de los 45/H11034por debajo de la horizon-
+tal y se le da una rapidez inicial hacia abajo de 1.50 m/s.
+En el punto inferior del arco, determine a) la aceleración
+centrípeta de la masa del péndulo y b) la tensión sobre la
+cuerda.
+107. Para saber cómo es que los astrónomos determinan las
+masas de las estrellas, considere lo siguiente. A diferencia
+de nuestro sistema solar, muchos sistemas tienen dos o
+B A
+D
+▲ FIGURA 7.36 Estrellas binarias Véase el ejercicio 107.
+más estrellas. Si hay dos, se trata de un sistema estelar bi-
+nario. El caso más simple posible es aquel en el que hay
+dos estrellas idénticas en una órbita circular alrededor de
+su centro de masa común a la mitad del camino entre
+ellas (el punto negro en la 
+▼ figura 7.36). Utilizando me-
+didas telescópicas, en ocasiones es posible medir la dis-
+tancia, D, entre los centros de las estrellas y el tiempo
+(periodo orbital), T, para una órbita. Suponga que el mo-
+vimiento es circular uniforme y considere los siguientes
+datos. Las estrellas tienen masas iguales, la distancia en-
+tre ellas es de 1000 millones de km (1.0 /H1100310
+9 km), y el
+tiempo que tarda cada una en completar una órbita es de
+10.0 años terrestres. Determine la masa de cada estrella.
+Los siguientes problemas de física Physlet se pueden usar con este capítulo.
+3.15, 3.16, 3.17, 5.8, 5.9, 5.10, 5.11, 10.1, 10.2, 10.3, 10.4, 10.5, 10.6, 10.8, 12.1,
+12.2, 12.3, 12.4, 12.6, 12.7
+
+8.1 Cuerpos rígidos,
+traslaciones y 
+rotaciones 257
+8.2 Momento de 
+fuerza, equilibrio 
+y estabilidad 259
+8.3 Dinámica rotacional 270
+8.4 Trabajo rotacional 
+y energía cinética 277
+8.5 Cantidad de 
+movimiento angular 280
+CAPÍTULO 
+8
+S
+iempre es recomendable mantener el equilibrio, pero es más importante en
+algunas situaciones que en otras. Cuando vemos una imagen como ésta, qui-
+zá nuestra primera reacción sea asombrarnos de que estos acróbatas atravie-
+sen amplias distancias y no se caigan. Se supone que las pértigas ayudan, pero
+¿cómo? Encontraremos la respuesta en este capítulo.
+Podríamos decir que los acróbatas están en equilibrio. Ya vimos el equilibrio 
+traslacional en el capítulo 4, pero en este caso hay otra consideración:
+la rotación. Si los acróbatas comenzaran a desplomarse (que ojalá no suceda), ha-
+bría inicialmente una rotación hacia un lado en torno al alambre (en la actualidad
+se suelen usar alambres). Para evitar esta calamidad, se requiere otra condición:
+equilibrio rotacional, que estudiaremos en este capítulo.
+Estos equilibristas intentan evitar un movimiento rotacional. Sin embargo, el
+movimiento rotacional es muy importante en física, porque hay objetos que giran
+en todas partes: las ruedas de automóviles, engranes y poleas de maquinaria, pla-
+netas del Sistema Solar e incluso muchos huesos del cuerpo humano. (¿Conoce el
+lector huesos que giren en una fosa de una articulación?)
+Por fortuna, las ecuaciones que describen el movimiento rotacional son bas-
+tante similares a las que describen el movimiento traslacional (rectilíneo). Ya seña-
+lamos esta similitud en el capítulo 7 en lo tocante a las ecuaciones de cinemática
+rectilínea y angular. Con la adición de ecuaciones que describen la dinámica rota-
+cional, analizaremos los movimientos generales de objetos reales que rotan y se
+trasladan.
+1 gF
+S
+i = 02
+• Si no fuera por los momentos de fuerza que
+suministran nuestros músculos, no tendría-
+mos movilidad en nuestro cuerpo.
+• Los frenos antibloqueo se utilizan en los au-
+tomóviles porque la distancia de rodamien-
+to para detenerse es menor que la distancia
+para detenerse de los frenos de bloqueo.
+• El eje de rotación de la Tierra, que está incli-
+nado realiza un movimiento de prece-
+sión (rotación) con un periodo de 26 000
+años. Como resultado, Polaris, la estrella ha-
+cia la que actualmente apunta el eje, no siem-
+pre ha sido —ni será siempre— la Estrella
+del Norte.
+• El fuerte terremoto registrado en diciembre de
+2004, cuya intensidad fue de 9.0 en la escala
+de Richter y que provocó un desastroso tsu-
+nami, movió la Tierra unos centímetros. Esto
+causó que el movimiento de rotación de la
+Tierra acelerara levemente y se calcula que
+los días se acortaron un par de microsegun-
+dos, que no son medibles.
+• Algunos patinadores de figura en sus saltos
+alcanzan una rapidez de rotación de 7 rev/s o
+420 rpm (revoluciones por minuto). Algunos
+motores de automóvil tienen entre 600 y 800
+rpm sin acelerar.
+231/H209072°,
+HECHOS DE FÍSICA
+MOVIMIENTO ROTACIONAL
+Y EQUILIBRIO
+256
+
+8.1 Cuerpos rígidos, traslaciones y rotaciones 257
+8.1 Cuerpos rígidos, traslaciones y rotaciones
+OBJETIVOS: a) Distinguir entre los movimientos trasnacionales puros y rotacio-
+nales puros de los cuerpos rígidos y b) plantear las condiciones para
+rodar sin resbalar.
+En capítulos anteriores, resultaba conveniente considerar los movimientos de objetos
+suponiendo que éstos podían representarse como una partícula ubicada en su centro
+de masa. No era necesario considerar la rotación o giro, porque una partícula o masa
+puntual no tiene dimensiones físicas. El movimiento rotacional entra en juego cuando
+analizamos el movimiento de objetos sólidos extendidos o cuerpos rígidos , que es la
+parte medular de este capítulo.
+Un cuerpo rígido es un objeto o sistema de partículas en el que las distancias
+entre partículas son fijas (y constantes).
+Un volumen de agua líquida no es un cuerpo rígido, pero el hielo que se formaría si el
+agua se congelara sí lo es. Por lo tanto, el tema de la rotación de cuerpos rígidos está
+limitado a los sólidos. Actualmente, el concepto de cuerpo rígido es una idealización.
+En realidad, las partículas (átomos y moléculas) de un sólido vibran constantemente.
+Además, los sólidos pueden sufrir deformaciones elásticas (e inelásticas) (capítulo 6).
+No obstante, la mayoría de los sólidos pueden considerarse cuerpos rígidos para el
+análisis del movimiento rotacional.
+Un cuerpo rígido puede someterse a uno o a ambos tipos de movimiento: traslacio-
+nal y rotacional. El movimiento traslacional es básicamente el movimiento rectilíneo
+que estudiamos en capítulos anteriores. Si un objeto únicamente tiene movimiento
+traslacional (puro), todas sus partículas tienen la misma velocidad instantánea, lo cual
+implica que el objeto no está girando (
+▼ figura 8.1a).
+Un objeto podría tener únicamente movimiento rotacional (puro), es decir, movi-
+miento en torno a un eje fijo (figura 8.1b). En este caso, todas las partículas del objeto
+tienen la misma velocidad angular instantánea y viajan en círculos en torno al eje de 
+rotación (figura 8.1b).
+Nota: es común usar indistinta-
+mente las palabras rotación y 
+revolución. En este libro, 
+generalmente usaremos rotación
+cuando el eje de rotación pase 
+por el cuerpo (por ejemplo, la 
+rotación de la Tierra sobre su eje
+en un periodo de 24 h) y revolución
+cuando el eje esté afuera del 
+cuerpo (como la revolución 
+de la Tierra en torno al Sol 
+en un periodo de 365 días).
+Traslacional Rotacional Rodamiento
++=
+r
+= 0
+2v
+Punto de
+contacto
+=+
+Eje instantáneo
+de rotación
+a) b)
+d)
+c)
+   = rv v
+   = rv v
+v
+v
+v
+v
+v
+v
+> FIGURA 8.1 Rodamiento: 
+una combinación de movimiento
+traslacional y rotacional a) En el
+movimiento traslacional puro, 
+todas las partículas del objeto tienen
+la misma velocidad instantánea. 
+b) En el movimiento rotacional 
+puro, todas las partículas del objeto
+tienen la misma velocidad angular
+instantánea. c) El rodamiento es 
+una combinación de movimiento
+traslacional y rotacional. La suma-
+toria de los vectores de velocidad
+de ambos movimientos muestra
+que el punto de contacto (en el caso
+de una esfera) o la línea de contacto
+(en el caso de un cilindro) está 
+instantáneamente en reposo. 
+d) La línea de contacto para un 
+cilindro (o para una esfera, la línea
+que pasa por el punto de contacto)
+se denomina eje instantáneo de 
+rotación. Observe que el centro 
+de masa de un objeto que rueda 
+en una superficie horizontal tiene
+movimiento rectilíneo, y permanece
+arriba del punto o línea de contacto.
+
+ω
+r
+r
+PP ´
+PP´
+CM
+s = r
+vCM = rω
+u
+u
+s
+v
+▲ FIGURA 8.2 Rodar sin resbalar
+Si un objeto rueda sin resbalar, la
+longitud del arco entre dos puntos
+de contacto en la circunferencia es
+igual a la distancia lineal recorrida.
+(Pensemos en pintura aplicada con
+un rodillo.) Esta distancia es s /H11005r/H9258.
+La rapidez del centro de masa 
+es v
+CM /H11005r/H9275.
+258

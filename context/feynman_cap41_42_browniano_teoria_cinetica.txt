@@ -1,0 +1,1597 @@
+Tema: El movimiento browniano; aplicaciones de la teoría cinética (Capítulos 41-42 — Lecciones de Física, Feynman, Vol. I)
+
+movimiento browniano fue descubierto en 1827 por el bot3nico Robert Brown. 
+Mientras estudiaba la vida microsc6pica, not6 pequei'ias particulas de polen de plan­
+tas que zigzagueaban por eil liquido que cstaba examinando al microscopio, y fue lo 
+suficientemente inteligente coma para darse cuenta que las mismas no eran vivien­
+tes, sino trocitos de suciedad movifndose por el agua. De hecho, ayud6 a demostrar 
+que esto no tenia nada que ver con la vida, tomando de la tierra un viejo pedazo de 
+cuarzo en el que habla un poco de agua atrapada. Dcbia haber estado atrapada por 
+millones y millones de ail.as y, sin embargo, vio en e\la el mismo movimiento. Lo 
+que se ve es particulas muy pequei1itas zigzagueando todo el ticmpo. 
+Mils tarde se probO que este era uno de los efectos de! moi'imiento molecular; 
+podemos entendcrlo cualitativamente imaginando una gran pelota en una cancha 
+vista desde gran distancia, con mucha gente abajo tirando la pelota en diversas direc­
+ciones. No podemos ver la gente porque imaginamos estar demasiado lejos, pero pode­
+mos ver la pelota y notamos que se mueve bastante irrcgularmente de un !ado a 
+otro. Tambien sabemos por los teoremas discutidos en capitulos precedentes, que 
+la energia cinetica media de una pequeil.a partlcula en suspens!On en un Jiquido o un 
+gas ser3. ~kT aunque sea muy pesada en comparaci6n con una molCcu!a. Si ·es muy 
+pesada, las velocidades son relativamente bajas, pero en la realidad resulta que la 
+ve!ocidad no es tan baja. De hecho. no podemos ver muy facilmente la velocidad 
+de esas particulas porque, aunque la energia cinetica media es ~kT, que representa 
+una velocidad de un milimetro por segundo mils o menos para el caso de un objeto 
+de uno o dos micrones de diii.metro, esto es muy dificil de ver aun con un micros­
+copio, porque la part[cula estit continuamente cambiando de direcciOn y nunCa llega 
+a ninguna parte. Al final de este capitulo discutiremos hasta dOnde llega. El primcro 
+en resolver este problema fue Einstein a comienzos de este siglo. 
+Entre parfotesis, cuando decimos que la energia cinCtica media de esta particu!a 
+es }kT, sostenemos haber deducido este resultado de la tcoria cinCtica. o sea de las 
+41-1
+
+leyes de Newton. Encontraremos que se puede deducir toda clase de cosas -cosas 
+maravillosas- de la teoria cinetica, y Jo mis interesante es el que aparentemente 
+po<lamos obtener tanto a partir de tan poco. Naturalmcnte no queremos decir quc 
+!as !eyes de Newton son "poco" ---kstas son·realmente suficientes-; lo que queremos 
+decir es que nosotros no hicimos gran cosa. ;, Y cOmo obtcnemo~ tanto'? La respucs 
+ta es quc hemos estado continuamente hacienda una suposiciOn importante: si un 
+sistema determinado estii en equilibria tCrmico a cierta temperatura, tambiCn estarll 
+en equi!ibrio tCrmico con cua!quier otra cosa a la misma temperatura. Por ejemplo. 
+si quislCramos ver cOmo se moveria una particu!a si estuviese realmente chocando 
+agua, podriamos imaginar que hay un ga~ compuesto de otra clase de particu· 
+municiones pequeiiisimas que (suponemos) no interactllan con el agua, sino que 
+golpean la particuia con choques "violentos". Supongan que la particula tiene 
+sa!iente: todo lo que nuestras municiones tienen que haccr es golpear la saliente. 
+todo lo que hay que saber de este gas imaginario de municiones a tempe­
+es un gas ideal. El agua es complicada, pero un gas ideal es simple. Ahora 
+particula tiene que es1ar en equilibria con el gas de municiones. En 
+el movirniento media de Ia particula debe ser el quc se ohticnc de las 
+en un gas. porque si no se estuviera moviendo a la velocidad adecuada 
+sino que, digamos, s.; estuviera moviendo mas rapidamente. eso 
+municiones tomarian energia de ella y se pondrian mas calientes 
+comenzado con ellas a la misma tcmperatura y suponemos 
+una vez en equilibrio, se queda en equilibria --espontimeamente, no 
+que se ca!ienten y panes que se enfrien. 
+41-2
+
+lo iluminamos y buscamos la posici6n de la mancha de Juz, no tenemos un instrumen­
+to perfecta porque el e~pejo siempre se esti sacudiendo. z.Por que? Porque la energia 
+cinetica media de rotaci6n de cste espejo tiene que ser, en promedio, ~kT. 
+z.Cuil es el imgulo medio cuadritico dentro de! cual se balancea el espejo? Su­
+pongan que hallamos el penodo natural de vibraci6n de! espejo golpeandolo leve­
+mente en un !ado y viendo cuilnto tarda en oscilar ida y vuelta, y que tambiCn cono­
+cemos el momenta de lnercia /. Conocemos la expresi6n de la energia cinetica de 
+rotaci6n --estii dada por la ecuaci6n (19.8): T = ~foJ 2 • Esta es la energia cinCtica; 
+la energia potencial que la acompaiia seril proporcional al cuadrado de! ilngulo -es 
+V = ~at!2-. Pero si conocemos el periodo t0 y calculamos a partir de d la frecuencia 
+natural (•Jo = 2n/ /0 , la energia potencial es V = !Jw~0 2 • Ahora bien, sabemos que 
+la energia cinCtica media es µ:r, pero como es un oscilador arm6nico la energia 
+potencial media tambiCn es !kT. Luego, 
+(41.1) 
+De este modo podemos calcular las oscilaciones del espejo de un galvan6metro y a 
+partir de ello encontrar cu&es ser8.n las limitaciones de nuestro instrumento. Si que­
+remos tener oscilaciones mis pequeiias, tenemos que enfriar el espejo. Una cuesti6n 
+interesante es d6nde enfriarlo. Depende de d6nde estil recibiendo los "empujones". 
+Si es a travCs de la fibra, lo enfriamos en !a parte de arriba -si el espejo estt't rodea­
+do por un gas y estt't siendo golpeado !a mayor parte de las veces por colisiones 
+en el gas, lo mejor es enfriar el gas-. En realidad, si sabemos de d6nde viene el amor­
+tiguamiento de las oscilaciones, ocurre que tambiCn Csa es siempre la fuente de las 
+fluctuaciones; Cste es un punto sobre el cual volveremos mas adelante. 
+"' 
+Fig. 41-2. C1rcu1to resonante de alto Q 
+(a) C1rcu1to real a temperatura T. (b) Circu1to 
+f1cticio con una res1stenc1a ideal (sm ru1do) y 
+un "generadorde ru1do" G. 
+Aunque parezca sorprendente. pasa lo mi~mo en !os circuitos 
+gan 4uc estamos hacienda un amplificador muy sensible y preciso para una 
+cia definida y tcnemos un circuito resonante (Fig. 41-2) a la entrada para hacerlo 
+muy sensible a esta frecuencia determinada, ta! como un radiorreceptor, pero uno 
+verdaderamente bueno. Supongan que queremos llegar al limite mils bajo posible. 
+asi que tomemos el vo!taje, digamos de la inductancia, y lo mandamos a! resto del 
+amplificador. Naturalmentc que en cualquier circuito coma f>ste hay pCrdidas. 
+es un circuito resonante perfecta, cs s6lo muy bueno y hay. digamos. una 
+resistcncia (introducimos el resistor para podcr verla. pero se supone que es muy 
+pequetia). Ahora nos gustaria saber: ~cuimto fluctUa la diferencia de potcncial entrc 
+los extremos de la inductancia'! Respuesta: Sabemo~ que Ur- es la ··energia cinC-
+tica" -la energia asociada con una bobina en un circuito ~esonante 25)-. En 
+consccuencia, el valor medio de iLf es igual a ikT. Esto nos dice es el \'alor 
+medio cuadrcitico de la corriente Y podemos halla-r cmil es el voltaje correspondiente 
+me a partir de la corriente me. 
+41-3
+
+Puesto que si 'lueremos 1!'1 diferencia de potencial entre los extremos de la inductancia 
+la f6rmula es VL = iwLI, y el valor medio de! mOdulo al cuadrado de la diferencia 
+de potencial en Ja inductancia es< V2L) Uw 20 < P); insertando este valor 
+en !£ ( P ) = !kT, obtenemos 
+<~> ~ Lwikr. (41.2) 
+Por lo tanto, ahora podemos diseiiar circuitos y decir cu8.ndo vamos a tener lo que 
+se llama ruido de Johnson, jel ruido asociado con las fluctuaciones tfamicas! 
+lY ahora de d6nde provienen las fluctuaciones? Vienen de! resistor -provienen 
+de! hecho de que !os electrones del resistor andan zigzagueando porque estin en 
+equilibrio ti:rmico con la materia de! resistor, y provocan fluctuaciones en la densi­
+dad de electrones-. Producen entonces pequeiiisimos campos eli:ctricos que excitan 
+el circuito resonante. 
+Los ingenieros eli:ctricos representan la respuesta de otra manera. Desde el pun­
+to de vista fisico, el resistor es efectivamente la fuente de ruido. Sin embargo, pode­
+mos rccmpla:rnr el circuito real, que tiene un verdadero resistor fisico, por un cir­
+cuito artificial que contiene un pequeiio generador que representarci el ruido, por Jo 
+que ahora el resistor es ideal en este aspecto: ninglln ruido proviene de i:l. T odo el 
+ruido estil. en el generador artificial. Y asL si conocii:ramos las caracteristicas de! 
+ruido generado por un resistor, si tuvi6semos la f6rmula, podriamos calcular que 
+es lo que el circuito va a hacer en respuesta a ese ruido, Luego, necesitamos una 
+f6rmula para las fluctuaciones de ruido. Ahora bien, el reuido generado por el 
+resistor contiene todas las frecuencias, ya que ei resistor no es de por si 
+resonante. Es claro que el circuito resonante sO!o "escucha" la parte que esta 
+cerca de la frecuencia justa, pero el resistor contiene muchas frecuencias diferentes. 
+Podemos describir cuil es la intensidad de! generador de la manera siguiente: la po­
+lencia media que absorberia el resistor si estuviera conectado directamente al genc­
+rador de ruido seria ( £ 2 ) IR, si E fuese el voltaje de! generador. Pero querriamos 
+conocer con m<is detalles cuinta potencia hay en cada frecuencia. En una sola fre­
+cuencia hay muy poca potencia; se trata de una distribuci6n. Sea P(<v)dw la poten­
+cia que entrcgaria el generador a ese mismo resistor en cl intervalo de frecuencia 
+dr,1. Podemos demostrar (lo demostraremos para otro caso. pero la matem.:i.tica es 
+exactamente la misma) que la potencia resulta 
+P(w) dw = (2/n)kT dw, (41.3) 
+y es independienle de la resistencia si se la expresa de este modo. 
+41-2 Equilibrio tCnnico de la radiaciOn 
+Ahora vamos a considerar un problema alm mas avanzado e interesante, que es 
+el siguiente. Supongan quc tenemos un oscilador cargado, como los que menciona­
+mos al estudiar la luz, por ejemplo un clectr6n oscilando de aqu[ para allil en un 
+iltomo. Si oscila de aqu[ para allil, irradia luz. Supongamos ahora que este oscilador 
+estil en un gas de :homos muy enrarecido y que de vez en cuando los iltomos cho­
+can con et. En el equilibria, despui:s de un largo tiempo, este osci!ador ganarii cner­
+gia. de modo que su energia cinCtica de oscilaci6n sera lj<.T, y como es un oscilador 
+41-4
+
+arm6nico, toda su energia de movimiento sera kT. Esta es, naturalmente. una des· 
+cripci6n incorrecta hasta aqui, porque el oscilador tiene carga eMctrica y si tiene 
+energia kT se esta sacudiendo de un lado para otro y radiando luz. En consecuen­
+cia es imposible tener equilibria de la materia real sola, sin que las cargas contenidas 
+en ella emitan luz, y a medida que se emite la luz. la energia se pierde, el osci\ador 
+pierde su kT, y asi todo el gas que esta chocando con el oscilador se cnfria gradua!­
+mente. Y esta es, naturalmente, la manera en que una estufa muy caliente se enfria 
+en una noche fria, radiando la \uz hacia el cielo, porque los atomos estiln sacudien­
+do su carga y radian continuamente, y poco a poco, a causa de esta radiaci6n, el 
+movimiento disminuye. 
+Por otra parte, si encerramos todo dcntro de una caja de modo que la luz no se 
+vaya al infinito, podemo5 finalmente obtener equilibrio termico. Podriamos poner 
+el gas en una caja en cuyas paredes podcmos decir que hay otros radiadore~ devol· 
+viendo la luz o, para dar un ejcmplo mas lindo, podemos decir que las parcdes de 
+la caja son espejos. Es mas facil pensar en este caso. Suponemos entonces que toda 
+la radiaci6n que sale de! oscilador se queda moviendo dentro de la caja. Luego, na· 
+turalmente, es cierto que el oscilador comienza a radiar, pero muy pronto puede 
+conservar su kT de energia cinetica a pesar de que est3. radiando, porque esta ilu­
+minado, por asi decir, con su propia luz rcncjada en las paredes de la caja. Es decir, 
+que despues de un rato hay una gran cantidad de luz aglomeril.ndosc en la caja, y 
+aunque el oscilador radie un poco, la luz vuelve y restituye pane de la energla ra­
+diada. 
+Determinaremos ahora cuanta luz debe haber en esa caja a la temperatura T 
+para que la luz que cae sabre este o~cilador genere precisamente la energia ncce­
+sana para compensar la luz que ha irradiado. 
+Supongamos que los atomos del gas sean muy pocos y esten muy separados. de 
+modo que tengamos un oscilador ideal sin resistencia a excepci6n de la resistencia 
+de radiaci6n. Luego consideramos que en el equilibria termico el oscilador esta ha­
+ciendo dos cosas a! mismo tiempo. Primera: tiene una energia media kT y podemos 
+calcular cuanta radiaci6n emite. Segundo: esta radiaciOn debe ser exactamente la 
+cantidad que resultaria del hecho de que la luz que incide sabre el oscilador se dis­
+persa. Como no hay ningim otro !ado a donde pueda ir la energia, esta radiaci6n 
+efectiva es, en realidad, luz dispersada proveniente de la luz presente. 
+Por lo tanto, calculemos primero la energia radiada por el oscilador en un se­
+gundo, si el osci!ador tiene cierta energla. (Tomamos unas cuantas ecuaciones de! 
+capitulo 32 sabre la resistencia de radiaci6n sin volver a derivarlas.) La energia ra­
+diada por radian dividida por la energia del oscilador se denomina l /Q (Ee. 32.8): 
+1/Q = (dW/dt)/w 0 W. Usando la constante de amortiguamiento y, tambiCn se pue­
+de escribir 1/Q = rft,10, donde r,J0 es la frecuencia natural del oscilador -si yes 
+muy pequeiia, Q es muy grande. La energia radiada por segundo es entonces 
+~ = woW = WoW'Y = 'YW 
+dt Q Wo . (41.4) 
+La energia radiada por segundo es, pues, simplemente gamma por la energia del 
+oscilador. Ahora bien, el oscilador deberia tener una energia media kT, por lo que 
+vemos que 
+41-5
+
+gamma kT es la cantidad medta de energia radiada por segundo: 
+(dW/dt) ~ >kT. (41.5) 
+Ahora s6lo tenemos que saber que es gamma. Se puede encontrar gamma fii.cilmente 
+con la ecuaci6n (32.12). Es 
+(41.6) 
+donde r0 = e2 /mc2 es el radio clii.sico de! electr6n, y hemos puesto.A = 2nc/rvw 
+N uestro resultado final para la radiaci6n media de luz par uni dad de ti em po 
+cerca de la frecuencia r,>0 es entonces 
+(41.7) 
+Ahora preguntamos cu<inta luz debe estar incidiendo sobre el oscilador. Debe 
+bastar para que la energia absorbida de la Juz (y despues dispersada) sea exacta­
+mente esa cantidad. En otras palabras, la luz emitida se explica como luz dispersada 
+proveniente de la luz que incide sobre el oscilador en la cavidad. Por lo tanto, te­
+nemos que calcular ahora cuilnta luz se dispersa en el oscilador si hay cierta can­
+tidad --desconocida- de radiaci6n incidiendo sabre e1. Sea I{r.u)dw la cantidad de 
+energia luminosa que hay a la frecuencia w, dentro de un interva!o dw (porque no 
+hay luz a una frecuencia exacta; esta distribuida par todo el espectro). Asi, I(w) 
+es cierta distribuci6n espectral que ahora vamos a hallar -es el color de un horno 
+a temperatura T que vemos al abrir la puerta y mirar por el agujero-. Ahora bien, 
+icuii.nta luz se absorbe? Ya calculamos la cantidad de radiaci6n absorbida de un 
+haz dado de luz incidente y lo hicimos en terminos de una secci6n eficaz. Es justa­
+mente coma si dijeramos que se absorbe toda la luz que incide sabre cierta sccci6n 
+transversal. Asl, pues, la cantidad total que sc vuelve a radiar (se dispersa) es la 
+intensidad incidente I(w)d(.u multiplicada par la secci6n eficaz u. 
+La f6rmula que obtuvimos para la secci6n eficaz (Ee. 31.19) no contenia el 
+amortiguamiento. No es dificil repetir la derivaci6n incluyendo el tfrmino de resis­
+tencia que despreciamos. Si lo hacemos y cakulamos la secci6n eficaz en la misma 
+forma obtenemos 
+(41.8) 
+Ahora bicn, en funci6n de la frecuencia, as tiene un valor apreciable s6\o para w 
+cerca de la frecuencia natural «10. (Recuerden que el Q de un oscilador radiante es 
+el orden de 108.) El oscilador dispersa fuertemente cuandowes igual aw 0 y muy 
+ctebilmente para otros valores de w. Por lo tanto, podemos reemplazar w por w0 
+y uJ 2 - w& par 2(v 0(w ·· o>0), obteniendo 
+" ~ __ 2_1r!:~_i --. 
+8 3[(w - w0)2 + 1'2/4] (41.9) 
+Ahora toda la curva estii. localizada cerca de w = w0• (En realidad no tenemos 
+que hacer 
+41-6
+
+ninguna aproximacion pero es mucho mas focil las imegrales s1 
+mo.<. un poco las ecuaciones.) Ahora multiplicamos intens1dad en un 
+dado de frecuencia por la seccic"m eficaz de c.hspersiOn para obtcner la 
+energia dispersada en el intervalo dtv. La energia rota{ dispersada es entonces la 
+integral sobre todo 01. Luego, 
+~! = lo"' I(w')tr8 (w) dw 
+(41.10) 
+( ., 27rr~w~/(w) dw 
+= . 0 }[(;.;--=..~-·+ -y2/4J. 
+Hagamos ahora dW/dt = 3rkT. (.Por que tres? Porque cuando h1cimm el anti.­
+lisis de la secciOn eficaz en el capitulo 32, supusimos que la polariLaciOn era ta! quc 
+la luz podia forLar el osci!ador. Si hubieramos usado un oscilador que s6\o se pu 
+diera mover en una direcciOn y la luz estuviera, por cjemplo, polarizada en direcci6n 
+errada, no podrla dar dispersi6n. Por lo tanto, o debemos promediar la seccion efi 
+caz de un oscilador que s6lo puede ir en una direcciOn sobre todas las direcciones 
+de incidencia y de polarizaci6n de la luz, 0, !o que es mas facil, podemos imaginar 
+un oscilador quc seguirii. el campo, cualqmera sea !a direcciOn en que apunte el cam­
+po. Este oscilador que puede oscilar de igual modo en tres direcciones, tendria 3kT 
+de energia media porque hay tres grados de libertad en el mismo. Es porque hay tre~ 
+grados de libertad que usamos 3rkT. 
+l·JfC" 
+~=~-+[~I t---= -w" 
+Wo-Y lw,,+y 
+w, 
+Fig. 41-3 Los factores del mtegrando de 
+141.10), El pico es la curva de resonancia 
+1/(w - Wo) 1 + r1 /4 Con buena aprox1ma­
+ci6n se µuede reemplazar el factor /((,,) por 
+l(woJ 
+Ahora tenemos que hacer la integral. Supongamos quc la distribucion espec· 
+tra! desconocida de la luz, l(t_o), es una curva suave y que no varia mucho en la 
+estrechisima regi6n de frecuencia donde a, tiene el pico (Fig. 41-3). Entonces la 
+{mica contribuci6n apreciable proviene de cuando w estti. muy ccrca de «J 0 , dentro 
+de una cantidad gamma que es muy pequeiia. En comecuencia. aunque J(ro} sea 
+una fonciOn desconocida y complicada, el Unico lugar dof'Je c~ importante es cerca 
+de w = ,,J0 y alli podemos reemplazar la curva suave por una horizontal -una cons­
+tante- a la misma altura. En otras palabras, sacamos /(<,!) fuera de la integral y la 
+llamamos !(too). Tambien podemos sacar el resto de las constantes fuera de la inte­
+gral y lo que nos queda es 
+~7rr~w~/(w 0 ) r __ _:!_w __ = 3-YkT. (41.l l) 
+Jo (w - wo)2 + Y2/4 
+41-7
+
+Ahora bi en, la integral deberia ir de 0 a oc, pero el 0 es ta tan lejos de r.ua que para 
+entonces la curva ya se ha acabado, por lo que en su lugar iremos hasta menos oo 
+--da practicamente lo mismo y es mucho _mas racil hacer la integral-. La integral 
+es una funci6n arcotangente de la forma J dx/ (x 2 + a2). Si la buscamos en un libro 
+vemos que es igual an/a. Por lo tanto, en nuestro caso resulta 2n/y. En consecuen­
+cia, reordenando un poco obtenemos 
+(41.12) 
+Luego sustituimos la expresi6n (41.6) de gamma (no se molesten en escribir (,ia; 
+como es valida para cualquier wa, la podemos Hamar simplemente w) y la f6nnula 
+que resulta para l(r,i) es 
+l(w) = ::~; · (41.13) 
+Y esta es la distribuci6n de luz en un homo muy caliente. Se llama radiaciOn de 
+cuerpo negro. Negro, porque cuando la temperatura es cero el agujero del homo al 
+cual estamos mirando es negro. 
+Seglln la teoria ciasica, la ecuaci6n (41.l3) es la distribuci6n de energia de ra­
+diaci6n dentro de una caja cerrada a temperatura T. En primer lugar, notemos una 
+caracteristica notable de esa expresi6n. La carga del osci!ador, la masa de! oscila­
+dor, todas las propiedades especificas del oscilador, se cancelan porque una vez a!­
+canzado el equilibrio con un oscilador, debe haber equilibria con cualquier otro 
+oscilador de masa diferente, o nos encontraremos en dificultades. Asi, pues, este es 
+un tipo importante de verificaci6n del aserto: el equilibria no depende de con quC 
+estemos en equihbno, smo Unicameme de la temperatura. Dibujemos ahora la curva 
+de J(w} (Fig. 41-4). Nos dice cuanta luz tenemos para cada frecuencia. 
+"•'lL'--
+, ', To 
+' ', --, ' "' 
+""""0111,.,s•oc•----W-~R X ayos 
+Fig. 4 1-4. Distribuci6n de intensidad de 
+la radiaci6n de cuerpo negro a dos tempera­
+turas, segUn la fisica cl.:\sica (curvas llenas) 
+Las curvas de trazos muestran la distribuci6n 
+real. 
+La intensidad contenida en nuestra caja por unidad de intervalo de frecuencia, 
+varia, como vemos, con el cuadrado de la frecuencia, lo cual significa que si tene­
+mos una caja a temperatura cualquiera y miramos los rayos X que salen, jhabra 
+una gr an cantidad ! 
+Naturalmente, sabemos que esto es falso. Cuando abrimos el homo y le damos 
+una ojeada no nos qucmamos los ojos con los rayos X. Es completamente fa!so. 
+Ai.In mas, la energia total que hay dentro de la caja, el total de toda esta intensidad 
+sumada sobre todas las frecuencias, seria el 8.rea debajo de esta curva infinita. Por 
+lo tanto, algo esta fundamental, poderosa y absolutamente errado. 
+Es asi como la teoria clasica fue absofu1amen1e incapaz de describir correcta­
+mente la distribuciOn de la luz proveniente de un cuerpo negro, ta! como fue incapaz 
+de describir correctamente 
+41-8
+
+los calores especificos de Jos gases. Los fisicos volvieron una y otn. vez sobre esta 
+derivaciOn desde muchos puntos de vista y no habia escapatoria: es !a predicciOn 
+de la fisica clitsica. La ecuaciOn (41.13) se llama ley de Rayleigh, es la predicciOn 
+de la fisica clilsica y es evidentemente absurda. 
+41-3 La equiparticiOn y el oscilador cuil.ntieo 
+La dificultad anterior es otro aspecto de! prolongado problema de la fisica clit­
+sica que comenzO con la dificultad de los calores especificos de los gases y que aho­
+ra ha sido enfocado sobre la distribuci6n de la luz en un cuerpo negro. Ahora bien, 
+como es natural, en la ;!poca en que los teOricos estudiaron esto hab[a tambifo mu­
+chas medidas de la curva verdadera. Y ocurria que la curva correcta era como las 
+curvas de trazos de la figura 41-4. Es decir que no habia rayos X. Si bajamos la 
+temperatura, toda la curva se baja proporcionalmente a T, de acuerdo con la teoria 
+clisica, pero la curva observada tambien se corta mas pronto a baja temperatura. 
+Por lo tanto, el extrema de baja frecuencia de la curva es correcto, pero el extrema 
+de alta frecuencia estil ma!. t,·Por que? Mientras Sir James Jeans se preocupaba de 
+los calores especificos de los gases, notO que los movimientos que tienen frecuencia 
+alta se "congelan" cuando la temperatura se hace muy baja. 0 sea, que si la tempe­
+ratura es muy baja, si la frecuencia es muy alta, los osciladores no tienen kT de 
+energia en promedio. Ahora bien, recordemos c6mo funcionaba nuestra deducciOn 
+de (41.13): todo depende de la energia de un oscilador en equilibria tfrmico. Lo 
+que el kT de (41.5) era y lo que es el mismo kT en (41.13), es la energia media de 
+un oscilador armOnico de frecuencia r,J a temperatura T. Cl3.sicamente es kT pero 
+jexperimentalmente no! -no cuando la temperatura es demasiado baja o la frecuen­
+cia del oscilador es demasiado alta-. Asi pues, la raz6n de que la curva caiga es 
+la misma razOn de que los calores especificos de los gases estCn errados. Es mils 
+fitcil estudiar !a curva de\ cuerpo negro que los calores espedficos de los gases, que 
+son tan complicados, por lo que enfocaremos nuestra atenciOn en determinar la ver­
+dadera curva de\ cuerpo negro, porque nos dice correctamente, a cada frecuencia, 
+cuitl es verdaderamente la energia media de un oscilador armOnico en funciOn de 
+la temperatura. 
+Planck estudiO esta curva. Primera hallO la respuesta empiricamente ajustando 
+la curva observada con una linda funciOn que andaba muy bien. Asi, tenia una 
+f6rmula empirica para la energia media de un oscilador en funciOn de la frecuencia. 
+En otras palabras: tenia la formula correcta en lugar de kT y despues de ju gar un 
+poco encontr6 una derivaci6n simple basada en una hipotesis muy extraiia. Esa hi­
+pOtesis era que el oscilador arm6nico s6fo puede adquirir energfa de liw por vez. 
+La idea de que puedan tencr absolutamente cualquier energia es falsa. Por supuesto 
+que aquello fue el principio del fin de la medinica clii.sica. 
+Oerivaremos ahora la primerisima formula cu:intica determinada correctamente. 
+Supongan que los niveles de energla permitidos en un oscilador armOnico esten 
+igualmente espaciados a una distancia hw0 de modo que el oscilador sOlo pueda 
+tomar estas diversas energias (Fig. 41·5). Planck hizo un razonamiento algo mils 
+complicado que el que vamos a dar aqui, ya que era el mismisimo comienzo de la 
+mec:inica cu:intica y tuvo que demostrar algunas cosas. Pero nosotros tomaremos 
+como un hecho (que en este caso eJ demostr6) que la probabilidad de ocupar un 
+nivel 
+41-9
+
+~E.•41\0I P,•At•P(-41\0l/~T) 
+~Ei•3l'>w P,•Aeop(-3l'>OllH) 
+-~-Ea•21IOI Pi"'Ae.<P(-etiwlkY-1 
+~E1 •1IOI P1•t.f•P(-'l'>w/llT) 
+-'-'-Ec'"'O P0•A 
+Fig. 41-5. Los nive!es de energ!a de un 
+oscilador arm6nico est<ln igualmente espacia­
+dos: En = n'hw. 
+de energia E es P(E) = 1.:ie·f."/kT. Si procedemos asi, obtendremos el resultado 
+correcto. 
+Supongan ahora que tenemos muchos osciladores, siendo cada uno un vibrador 
+de frecuencia ui. Algunos de estos vibradores estarlin en el estado cuilntico mils 
+bajo, otros en el siguiente y asi sucesivamente. Lo que querriamos conocer es !a 
+energia media de todos estos osci!adores. Para encontrarla calculemos la energla to­
+tal de todos los osci!adores y dividilmosla por el nU.mero de osciladores. Esa serit 
+la energia media por oscilador en el equilibria tCrmico, y tambien sera la energia 
+que estli en equilibria con la radiaci6n de cuerpo negro y que debe ir en la ecua­
+ci6n (41.13) en vez de kT. Asi, sea N 0 el nUmero de osciladores que estil.n en el es­
+tado fundamental (el estado de energia mils baja); N 1 el nUmero de osciladores en 
+el estado £ 1 ; Ni el nU.mero de los que estii.n en Ei, etc. Conforme a la hip6tesis (que 
+no hemos demostrado) de que en la mec8.nica cu8.ntica la ley que reemplaza fa pro­
+babilidad rE.P.! kT o rl:.".c.! k1" de la mec<lnica clii.sica, es que la prob ab iii dad decrece 
+como c!J.1:."/ kr, donde .1£ es la energia en exceso, supondremos que el nllmero N 1 de 
+los que estii.n en el primer estado ser8. el nUmero N0 de los que est<ln en el estado 
+fundamental, multiplicado par cfiw/ kT. Anii.logamente, el nUmero Ni de osciladores 
+en el segundo estado es N2 = N0e-lhw/kT, Para simplificar el 8.lgebra, pongamos 
+rh,,J/kT = x. Entonces tendremos simplemente N1 .,,... N 0x, N1 = N1y?, ... , Nn = 
+= N0x". 
+Primero se debe calcular la energia total de todos los osciladores. Si un oscilador 
+est8. en el estado fundamental, no hay energia. Si esta en el primer estado, la ener­
+gia es fir,) y hay N 1 de ellos. Luego, N 1fio), 6 fiuiN 0x, es la cantidad de energia que 
+obtenemos de ellos. Los que estitn en el segundo estado tienen 21lu.1 y son N2 en 
+total, por lo que N1 • 21lw = 2/JwN0x1 es la cantidad de energla que obtenemos, y 
+asi sucesivamente. Luego los surnames todos obteniendo £ 101 - Nof!ro (0 + x + 
++ 2x1 + 3x3 + ... ). 
+Y ahora, lCLiilntos osci\adores hay? NaLUralmente, N0 es el nllmero de !os que 
+est8.n en el estado fundamental, N1 en el primer estado, etc., y los sumamos: 
+Nwc ~ N0( I + x + x2 + x3 + ... ). La energia media es entonccs 
+Dejamos al lector las dos sumas que aparecen aqul para que jueguen y se diviertan. 
+Una vez terminadas las sumas, reemplazando x en el resultado, debemos obtener 
+-si no cometemos errores en la suma-
+(£) = ~r;~!~~ . (41.15) 
+41-10
+
+Esta fue, pues. la primera formula cuantica que se conoci6, o se discutiO, y fue la 
+magnifica culminaci6n de dCcadas de rompederos de cabern. Maxveil sabia que alga 
+estaba ma! y el problema era ~que era lo que estaba bien? Aqui esta la respuesta 
+cuantitativa de lo que est<l bien en vez de kT Naturalmente, esta expresi6n se debe 
+aproximar a kT cuando M ---> 0 o cuando T---> oo. Vean si pueden demostrar que es 
+asi -aprendan a usar la matemiitica. 
+Este es el famoso factor de cone que Jeans estaba buscando y si lo usamos en 
+lugar de kT en (41.13), obtencmos para la distribuci6n de la luz en una caja negra 
+(41.16) 
+Vemos que para w grande, aunque tengamos (,r1 en e! numerador hay una e elevada 
+a una potencia enorme en el denominador. por lo que la curva vuelve a bajar y no 
+"salta por el aire" -jno obtenemos ni luz ultravio!eta ni rayos X donde no loses­
+peran10s! 
+A!guien podria quejarse de quc en nuestra derivaci6n de (41.16) empleamos la 
+teoria cu<intica para los niveles de energia de! oscilador y !a teoria d<isica en la deter­
+minaci6n de la secci6n eficaz as. Pero la teoria cuantica de la luz en interacci6n con 
+un oscilador armc'mico da exactamente el mismo resultado que la teoria cl<isica. En 
+realidad es por eso que sc justificaba gastar tanto tiemp-o en nuestro an<llisis de! indice 
+de refracci6n y de la dispersi6n de la luz utilizando un modclo de 3.tomos como pe­
+qucflos osciladores: las formulas cuanticas s-on sustancia!mente las mismas. 
+Volvamos ahora al ru1do de Johnson en un resistor. Ya hemos seflalado que la 
+teoria de esta potcncia de ruido es en rcalidad la misma que la teoria de la di~tribuci6n 
+d<isica de cuerpo negro. En verdad. bastante sorprendentemente, ya hemos dicho que 
+si la resistencia de un circuito no fuera una resistencia real, sino una antcna (una an 
+tcna acti.ta como una resistencia porque radia energia), una resistencia de radiaci6n, 
+nos resultaria facil calcular cual seria !a potencia. Seria justamente la potencia que 
+entra en la antena proveniente de !a luz que la rodea, y obtendriamos la misma distri­
+buci6n, a excepci6n de uno o dos factores. Podemos suponer que el resistor es un ge­
+nerador con un espectro desconocido P (w) de potencia. El espectro estil determinado 
+por ei hecho de que este mismo generador, conectado a un circuito resonante de cual­
+quier frecuencia, como en la figura 41-2 (b), genera en la inductancia un voltaje dado 
+por la ecuaciOn (41.2). Se llcga entonces a la misma imegral quc en (41.10) y el mis­
+mo metodo da la ecuaci6n (41.3). Para temperaturas bajas, el kTde (41.3) se debe 
+recmplazar, naturalmcnte, por (41.15). Las dos teorias (radiaci6n de cuerpo negro y 
+ruido de Johnson) tambiCn estan intimamente relacionadas desde el punto de vista fi­
+sico, ya que por ~upuesto. podemos concctar un circuito resonante a una antena, por 
+lo que la resistencia R sera exclusivamcnte una resistencia de radiaciOn. Como (41.2) 
+no depcnde del origcn fisico de la resistencia, sabemos que el generador G para una 
+resistencia real es el mismo que para una resistencia de radiaci6n. ;,Cua! es el origen 
+de la potencia P ((o) gencrada si la resistencia Res s(}lo una antcna ideal en equilibria 
+con el medio a temperatura T? Es la radiaci6n /(M) en el espacio a tcmperatura T 
+que incidc sabre la antena y, como "seflales recibidas", hace un generador efectivo. 
+Por lo tanto. sc puede deducir una relaci6n directa entre P(w) c l(w), que l!eva enton­
+ces de (41.13) a (41.3). 
+41-11
+
+T odas las cosas de que hemos estado hablando -el llamado ruido de Johnson y 
+la distribuci6n de Planck, y la teoria correcta del movimiento browniano que estamos 
+por describir- son desarro\los de la primera dOCada de este siglo, mils o menos. Ahora, 
+con estos puntos y esta historia en mente, volvamos al movimiento browniano. 
+41-4 La caminata a1 azar 
+Consideremos c6mo debe variar en el ticmpo la posici6n de una particula que se 
+agita. para tiempos muy largos respecto al tiempo entre "golpes'·. Consideren una pe­
+queiia particula en movimiento browniano que esta zigzagueando porque las mo!Ccu­
+las de agua, en zigzagueo irregular, la bombardean de todos !ados. Pregunta: despuCs 
+de un intervalo dado de tiempo, z.a quC distancia de donde sali6 es probable quc se 
+encuentre? Este problema fue resuelto por Einstein y Smoluchowski. Si imaginamos 
+dividir el tiempo en pequeiios intervalos, digamos quc de un centCsimo de segundo mas 
+o menos, despuCs de! primer centCsimo de segundo se mueve hasta aqui, en el siguien­
+te eentCsimo se mueve un poco mils, en el siguiente centCsimo se mueve para otro !ado, 
+y asi sucesivamente. Frente a la rapidez de! bombardeo, un centCsimo de segundo es 
+un tiempo muy largo. Ei lector puede verificar f<icilmente que el rnimero de colisiones 
+que una sola molCc.ula de agua recibe en un segundo es del orden de 1014 , por lo que 
+en un centCsimo de segundo sufre 1012 colisiones, jque es bastante! Por lo tanto, dcs­
+puCs de un centCsimo de segundo no recordarit lo que le pas6 antes. En otras pala­
+bras, las colisiones son todas al azar, de modo que un "paso" no csta relacionado 
+con el ·'paso" precedente. Es como el famoso problema de! marinero borracho: el ma­
+rinero sale de! bar y da una serie de pasos, pero da cada uno a un itngulo arbitrario, al 
+azar (fig. 4!-6). La pregunta es: despuCs de mucho tiempo. z.d6ndc estit el marinero'! 
+Naturalmente, jno lo sabemos! Es imposible decirlo. z.Que entendemos por esto que 
+esta en alguna parte mils o menos al azar? Bueno, i,d6nde esta el promedio entonces? 
+En promedio, 1.a qui distancia de! bar ha llegado? 
+Ya hemos contestado e~ta pregunta, porque una vez 
+ci6n de !a Juz provcniente de muchas fuentes diferentes 
+significaba sumar una gran cantidad de flechas a diversos 
+descubrimos que el promedio del cuadrado de la distancia 
+de la cadena de pasos al azar, que era la intensidad de la era la suma de 
+intensidadcs de los pedazos separados. Asi, pues, con el mismo tipo de matcm3.tica. 
+podemos inmediata.mente que si R\ es el vector distancia al origen despw~s 
+de N pasos, promedio de! cuadrado de la distancia al origen es proporcional al 
+mimero N de pasos. Es decir, ( R~·) =NL; donde Le~ la longitud de cada paso. 
+Como el nllmero de pasos es proporcional al tiempo en nuestro prohlema actual. el 
+mfor 111edio de! cuadrado 
+41-12
+
+de la distancia es proporcional al tiempo: 
+(41.17) 
+Esto no significa que la distancia media sea proporcional al tiempo. Si la distancia 
+media fuera proporciona1 a1 tiempo, eso significaria que el movimiento neto se realiza 
+a una buena velocidad uniforme. El marinero estd avanzando de manera relativamente 
+apreciable, pero Unicamente de modo que el promedio del cuadrado de la distancia 
+es proporcional al tiempo. Esta es la caracteristica de una caminata al azar. 
+Podemos demostrar muy filcilmente que en cada paso sucesivo el cuadrado de la 
+distancia aumenta £ 2 en promedio. Puesto que si escribimos RN= RN-I + L, en­
+tramos que Rfe es 
+R\ ·RN= R} = R.R-1 + 2RN_ 1 ·L + L2, 
+y promediando sobre muchos intentos, tenemos ( R'/;) = < R'j,_1) + £ 2 , ya 
+que (RN-I· L) = 0. Luego, por inducci6n, 
+R~ = NL 2• (41.l8) 
+Ahora querriamos calcular el coeficiente a quc aparece en la ecuaci6n (41.17) 
+y para hacerlo tenemos que agregar alga. Vamos a suponer que si le aplidtsemos una 
+fuerza a esta particula (que no tiene nada quc ver con el movimiento browniano 
+--estamos encarando un problema marginal por el momenta), la misma reaccionaria 
+contra la fuerza de la siguiente manera. Primeramente, habria inercia. Sea m el coe· 
+ficiente de inercia, ia masa efectiva del objeto (no necesariamente igual a la 
+masa real de la particula real, porque el agua se tiene que mover alrededor de la par· 
+ticula si tiramos de ella). Asi, pues, si hablamos de movimiento en una direcci6n hay 
+por un !ado un tfrmino m(t:Px/dt2). Y tambiCn queremos suponer que si continu3.ramos 
+tirando regularmente del objeto, habrla una resistencia al avance, proveniente del fhii· 
+do, la cual es proporcional a la velocidad. Adem:is de la inercia de! flUido, hay una 
+resistencia al movimiento debida a la viscosidad y a la complejidad de! fltiido. Es ab· 
+solutamente escncial que haya alguna pfrdida irreversible, algo parecido a una resis­
+tencia, para que haya fluctuaciones. No hay manera de producir e! kT a no ser que 
+tambien haya perd1das. La fuente de las fluctuaciones est3. intimamentc re!acionada 
+con estas perdidas. Dentro de poco discutiremos el mecanismo de esta resistencia 
+al avance -hablaremos de fuerzas proporcionales a la velocidad y de d6nde provie­
+nen-. Pero por ahora supongamos que esta resistencia existe. Entonces, cuando esta­
+mos tirando de la particula de mancra corriente, la formula para el movimiento bajo 
+la acci6n de una fucrza externa es 
+(41.19) 
+La cantidad 11 se pue<le determinar dircctamente del experimenlo. Por ejemplo, pode­
+mos obscrvar la caida de la gota por gravedad. Entonces sabemos quc la fuerza es 
+mg y µ es mg dividido por la velocidad de caida que adquiere finalmente la gota. 0 
+tambiCn podriamos poner la gota en una centrifuga y ver cuil.nto tarda en sedimentar. 
+0 si est3. cargada, le podemos aplicar un campo e16ctrico. Por lo tanto, µ es algo 
+medib!e, no una cosa artificial, y se conoce para muchos tipos de part[culas coloi· 
+dales, etc. 
+41-13
+
+Usemos ahora la misma formula en el caso en que la fuerza no es cxtcrna, sino 
+igual a las fuerzas irregulares <lei movimiento browniano. Trataremos entonces de 
+determinar el valor media del cuadrado de la distancia que recorre el objeto. En vez 
+de tomar las distancias en tres dimensiones, tomcmos sencillamente una dimensi6n 
+y hallemos e! valor medio de x2, simplemente para prcpararnos. (Evidemcmente el pro­
+medio de x2 es igual al promedio de J,i es igual al promedio de z2 y por lo tan to el 
+promedio del cuadrado de la di!.tancia es justamentc 3 por lo que vamos a calcular). 
+La componente x de !as fuerzas irregulares es, naturalmente, tan irregular como cual­
+quiera de las otras componentcs. lCu<'tl es la rapldez de variaciOn de x2 ? Es d(x 2 )/ 
+/dt = 2x(dx/dl), y as[, lo que tenemos que hallar es el promedio de la posici6n por la 
+velocidad. Demostraremos que es una constante y que por lo tanto el promedio del 
+cuadrado del radio aumentara proporcionalmentc al tiempo, y vcrcmos con quC rapi­
+dez. Ahora bien, si multiplicamos la ecuackm (41.19) por x, mx(tPx/d1 2) t µx 
+(dx/dt) = xFr Queremos el promedio temporal de x(dx/dt); hagamos entonces el 
+prornedio de toda la ecuaciOn y estudiemos los tres tCrminos. Ahora bien. ~que pasa 
+con x multiplicada por la fuerza? Si ocurre que laparticula ha recorrido cicrta distan­
+cia x, cl siguientc impulso pucde estar en cualquier direcci6n respccto a x, ya que la 
+fuerza irregular es completamente irregular y no sabe de dOnde partiO !a partlcula. 
+Si x es positiva, no hay razOn para que la fuerza media estC tambiCn en esa JirecciOn. 
+Es tan probable que este en una como en otra. Las fuer:zas de bombardeo no la estiln 
+arrastrando en una direcciOn determinada. Por lo tanto el valor media de x por F cs 
+cero. Por otro !ado, tendremos que usar un poco de imaginaciOn con el tfrmino 
+mx(d1-x/dt2) y cscribirlo en !a forma 
+mx ~ = m d[x(d_::f!!~rJ - m (~)'· d/2 dt dt 
+Asi, introducimos estos dos tfaminos y hacemos el promedio de ambos. Veamos en­
+tonces cu<lnto debe ser x por la velocidad. Ahora bicn, x por la velocidad tiene un 
+promedio que no varia en el tiempo, porque cuando llega a una posiciOn no sc acucr-
+da de d6nde antes y de ahi que las cosas ya no cambicn con el tiempo. Por lo 
+tanto. esta es, en promcdio, ccro. Nos queda la cantidad mv2 v 6sta es la Uni-
+ca cosa que el valor media de mv2 /2 cs ! /2kT. En consccuencla, encontra-
+mos quc 
+implica 
+=215!:_, (41.20) 
+µ 
+En consecuencia, despuCs de un cierto tiempo £, el objeto tiene una media del cuadra­
+do de la distancia, < R 2 ) , igual a 
+(R2 ) = 6kT t_. 
+µ 
+(41.21) 
+41-14
+
+JY asi podemos determina1 realmente a que distancia llegan las particulas! Debemos 
+determinar primero c6mo reaccionan a una fuerza constante, a que velocidad sc des­
+p\azan bajo la acci6n de una fuerza conocida (para hallar !1), y entonces podemos 
+determinar hasta d6nde Uegan en sus movimientos a! azar. Esta ecuaci6n tuvo una im­
+portancia hist6rica considerable porque fue una de las primeras maneras de determi­
+nar la constante k, Despufs de todo, podemos medir p, el tiempo, hasta d6nde !legan 
+las particu!as, y podemos hacer el promedio. La raz6n de que la determinaci6n de k 
+fo.era importante es queen la ley PV '-'-'RT para un mo!, sabemos que R, que tambiCn 
+se puede medir. es igual al nUmcro de iitomos que hay en un mo! multiplicado por k. 
+El mo! fue definido origina!mente como wntos gramos de oxigeno i 6 (ahora sc usa el 
+carbono), por Jo que origina!mentc no se conocia el nllmero de iitomos quc hay en un 
+mo!. NaturaJmente, es un problcma muy interesante e importante. (.C6mo son de gran­
+des los iitomos'! (.Cuimtos hay'.' Asi, pues, una de las primeras determinacioncs de! 
+nUmero de Utomos fue por media de la determinaci6n de hasta d6nde se mueve una 
+particulita sucia. observUndola pacie:1temente al microscopio durante un cierto inter­
+valo de tiempo. Y asi sc determin6 la constante k de Boltzmann y el nUmero de Avo­
+gadro N 0 porque R ya habl& sido medida. 
+41-15
+
+42 
+Aplicaciones de la teoria cinBtica 
+42-1 EvaporaciOn 
+42-2 EmisiOn tennoiOnica 
+42-3 lonizaciOn termica 
+42-1 EvaporaciOn 
+42-4 Cinetica quimica 
+42-5 Leyes de radiaciOn de Einstein 
+En este capitulo discutiremos algunas aplicaciones mii.s de la teoria cinetica. En 
+el capitulo anterior recalcamos un aspecto en particular de la teoria cinCtica: la 
+energia cinetica promedio correspondiente a cualquier grado de libcrtad de una mo­
+Jecuh,t u otro objeto es ~kT. Por otro lado, la caracteristica central que disculiremos 
+ahora es que la proba~ilidad de encontrar una_particula en lu?ares diferentes, pm 
+unidad de volumen, varia como e --.::rl<:rgra potencial/.l!; haremos un cicrto numero de aph­
+caciones de ello. 
+Los fenOmenos que queremos estudiar son relativamente complicados: un Jiquido 
+que se evapora, o electrones que est<'in salicndo de !a supcrficie de un metal. o una 
+reacci6n quimica en la que intcrviene un gran nllmero de ii.tom.as. En tales casos, 
+ya no es posible haccr cualquier afirmaci6n correcta y simple a partir de la teoria 
+cinCtica, ya que !a situaciOn es demasiado complicada. Por lo tanto, este capilulo 
+no ticne mucha exactitud, excepto donde lo digamos expresamente. La idea que hay 
+que recakar es solamente quc a partir de la teorla cinCtica podemos entender mds 
+o menos, c6mo deberian comportarse las cosas. Usando razonamientos termodinil­
+micos, o ciertas medidas empiricas de algunas cantidades criticas. podcmos obtener 
+una representacibn mas precisa de los fenbmenos. 
+Sin embargo, es muy Util conocer aunque sea poco mils o menus por quC algo 
+se comporta como lo hacc, y asi, cuando nos encontremos con una situaciOn nueva 
+o una quc no hayamos comcnzado aUn a analizar, podemos dccir mils o menos 
+lo que debe succder. Por ello esta discusibn es imprecisa en grado sumo, pero 
+esencialmentc buena -buena en la idea, pero digamos que un poquito simplificada 
+en los detalles espccificos. 
+El primer ejemplo que considerarcmos e~ la evaporaciUn de un liquido. Supon­
+gan que tencmos una caja de gran volumen, parcialmente llena con liquido en equili­
+bria y c~n cl vapor a una cierta tcmperatura. Supondremos guc. las m?ICculas de 
+vapor estan relativamente alepdas unas. de otras y que las del hqu1do estan amonto 
+nadas. El prohlema es. cncontrar cufmtas molCculas hay 
+42-1
+
+en la fase vapor, en comparaciOn con el nllmero de molttulas de! liquido. i,Cu:il es la 
+densidad del vapor a una temperatura dada y cOmo depende de ella? 
+Uamemos n al nllmero de mo!eculas por unidad de volumen de\ vapor. Natu" 
+ralmente, este nllmero varia con la temperatura. Si calentamos, tendremos una eva­
+poraciOn mayor. Digamos tambii:n que I/ V,, es el nUmero de citomos del liquido par 
+unidad de volumen: suponemos que cad a molecula del liquido ocupa un cierto 
+volumen, de modo que si hay mas moli:cu\as de Hquido, todas juntas ocupan un vo­
+lumen mayor. Por lo que si Va es el vo\umen ocupado por una molCcula, el nUmero 
+de molttulas en una unldad de volumen es una unidad de volumen dividida por el 
+volumen de cada moli:cula. Ademils, suponemos que hay una fuerza de atracciOn 
+entre las moli:culas que las mantiene juntas en el liquido. De otra forma no podemos 
+entender por qui: se condensa. Asi, suponemos que hay esa fuerza y que hay una 
+energia de ligadura de las mo!eculas en el liquido que se pierde cuando pasan a 
+vapor. 0 sea, varnos a suponer que se tiene que hacer una cierta cantidad de tra­
+bajo W para pasar una sola mol&:ula de! liquido al vapor. Hay una cierta diferencia 
+W entre la energia de una molecula en el liquido y la que tendria si estuviese en e! 
+vapor, ya que hernos tenido que separarla de las otras moli:cu\as que la atraian. 
+Ahora usamos el principio general de que el nUmero de <i.tomos por unidad de 
+volumen en dos regiones diferentes es nifn 1 = i;{E,EJ/kT. Por lo que el nUmero n por 
+unidad de volumen en el vapor, dividido por el nUmero I IV,, por unidad de volumen 
+en el !iquido, es igual a 
+(42.l) 
+ya que i:sta es la regla general. Es coma la atm6sfera en equilibria bajo la acciOn 
+de la gravedad, donde el gas es mils denso abajo que arriba debido al trabajo mgh 
+que se necesita para levantar las mo!eculas de gas a la altura h. En el liquido. las 
+moli:culas son mas densas que en et vapor porque tenemos que sacar!as atravesando 
+la "Joma" de energia W, y la razOn de las densidades es e--n/r..T 
+Esto es lo que queriamos deducir: que !a densidad de! vapor varia como e ele 
+vado a alguna energia negativa sabre kT. Los factores que se encuentren delante 
+no son realmente interesantes, ya que en la mayoria de los casos la densidad de! 
+vapor es mucho mils pequefla que la del liquido. Bajo estas circunstancias, en que 
+no estamos cerca del punto critico donde las dos son casi iguales, sino que la den· 
+sidad de\ vapor es mucho mils pequeiia que la de! !iquido. el hecho de que 11 es 
+mucho mils pequeilo que I/ Va se debe a que Wes muchisimo mils grande que J,, T. 
+Por lo tanto, las formulas como (42.1) son interesantes so!amente cuando Wes 
+muchisimo mas grande que kT, porque asi. como estamos elevando e a una canti­
+dad negativa tremenda, si cambiamos Tun poquito, ese enorme exponente cambia 
+un poco, y el cambio producido en el factor exponencial es muchisimo mas im­
+portante que cualquier otro cambio que pueda ocurrir en los factores que hubiese 
+delante. ~Por qui: puede ser que haya cambios en factores tales como VQ? Porque 
+nuestro analisis sOlo fue aproximado. Despui:s de todo, no hay realmente un volu­
+men definido para cada mol&:ula; a medida que cambiamos la temperatura. el vo­
+lumen Va no permanece constante -el Jiquido se dilata-. Hay otras pequeilas carac­
+teristicas parecidas y la situaciOn real es m:is complicada. Hay en todo cl volumen 
+factores que dependen de la temperatura y que varian muy despacio. 
+42-2
+
+De hecho, podriamos decir que la misma W varia un poquito con la temperatura, 
+ya que a una temperatura mils a1ta y con un volumen molecular diferente, habria di­
+ferentes atracciones promedio, etc. Asi, aunque pensilramos que tener una formula 
+en la que todo varia de un modo desconocido con la temperatura, es como no tener 
+formula, si nos damos cuenta que el exponente WI kT es en general muy grande, ve" 
+mos que en la curva de la densidad de vapor en funci6n de la temperatura la mayor 
+parte de la variaci6n es ocasionada por el factor exponencial, y el tomar W como 
+constante y el coeficiente l / V0 casi co mo constante, es una bu en a aproximaci6n para 
+pequeilos intervalos de la curva. La naturaleza general de la mayor parte de la varia­
+ci6n es, en otras palabras, e-Wl~T 
+Resulta que hay muchos, muchos fen6menos en la naturaleza que se caracteri­
+zan porque tienen que tomar prestada energia de alglln lugar y en los que el distin­
+tivo central de la variaci6n de temperatura es e elevado a menos la energia sobre 
+kT. Esle es un hecho Util solamente cuando la energia es grande comparada con kT, 
+por lo que la mayor parte de la variaci6n estil contenida en la variaci6n de kT y no 
+en la constante u otros factores. 
+Consideremos ahora otro modo de obtcner un resultado bastante similar para la 
+evaporaci6n, pero estudi:indolo con mils detalle. Para llegar a (42.1) simplemente 
+aplicamos una regla que es vii.Iida en el equilibrio, pero con el fin de entender las 
+cosas mejor, no hay ningUn inconveniente en tratar de considerar los detalles de lo 
+que estil. ocurriendo. Tambien podemos describir lo que estil. ocurriendo dd modo 
+siguiente: las mo!eculas de! vapor estil.n continuamente bombardeando la superficie 
+de! liquido; cuando lo hacen, pueden ser rechazadas o pueden quedar pegadas. Hay 
+un factor desconocido para esto, quizils 50 a 50, quizil.s 10 a 90 -no lo sabemos-. 
+Digamos que siempre se quedan pegadas; lo podemos volver a analizar mils tarde 
+suponiendo que no siempre se quedan pegadas. Puesto asi, en un cierto momenta 
+habrit un cierto ni.imero de ittomos que se estil.n condensando en la superficie de! 
+liquido. El ni.imcro de las mo!eculas que se condensan, el ni.imero que llega por uni­
+dad de itrea, es e! nUmero n, las que hay por unidad de volumen. por la velocidad r. 
+Esta velocidad de las moleculas estit relacionada con la temperatura, ya que sabe 
+mos qie ¥nv2 es igual a !kT en promedio. Por lo que v es una especie de ve!ocidad 
+media. Naturalmente deberiamos integrar sobre los <i.ngulos y obtener algo parecido 
+a un promedio, pero es aproximadamente proporcional a la raiz cuadrada de la 
+media de la velocidad al cuadrado, por algi.in otro factor. Asi 
+(42.2) 
+es el ni.imero que llega por unidad de itrea y que se condensa. 
+Al mismo tiempo, sin embargo, los Utomos del liquido estii.n vagando y de ve7 
+en cuando uno de ellos e,<, empujado fuera. Ahora tenemos que estimar con quC ra­
+pidez son empujados fuera. La idea serit que en el equilibria, el ni.imero de los quc 
+salen por segundo es igual al nUmero de Jo,<, que llegan por segundo. 
+~Cuirntos son empujados fuera? Para que una molCcula sa!ga. tiene que habcr 
+adquirido accidenta!mente un cxceso de energia sobre sus vecinos -un exceso de 
+energia considerable, ya que es atraida muy fucrtcmente por las otras molCcu!as 
+de! liquido-. Ordinariamente no sale debido a csta fuerte atracciOn, pero algunas ve­
+ces una de el!as adquiere accidentalmente una energia adicional en las colisiones. 
+Y la probabilidad de quc adquiera !a energia adicional W que se neecsita en nuestro 
+caso es muy pequei1o si W ''."» kT 
+42-3
+
+De hecho, e-Wk/T es la probabilidad de que un :homo haya tornado m:ls de esa 
+cantidad de energia. Este es el principio general de la teoria cinetica: para que se pueda 
+tomar prestada una energia adicional W sobre el promedio, las probabilidades son e 
+e\evado a menos la energia que tenemos que tomar prestada sobre kT. Supongamos 
+ahora que algunas moleculas han tornado prestada esta energia. Tenemos a continua­
+ci6n que estimar cuilntas abandonan la superficie por segundo. El que una molecula 
+tenga la energia necesaria no significa, naturalmente, que se va a evaporar en realidad, 
+ya que podia estar enterrada muy profundamente en el Jiquido o, aunque estuviese 
+muy cerca de la superficie, podia estar viajando en una mala direcci6n. El nllmero 
+que va a abandonar una uni dad de 3.rea por segundo va a ser algo asi: el nllmero de 
+3.tomos que hay cerca de la superficie, por unidad de 3.rea, dividido por el tiempo que 
+necesita una para escapar, multiplicado por la probabilidad e-W/kT de que esten listos 
+para escapar, entendiendo por es to que ti en en energia suficiente. 
+Supondremos que cada mol6cula de la superficie del liquido ocupa una secci6n 
+efectiva de 3.rea A. Luego, el nUmero de mo\6culas por unidad de 3.rea de la super­
+ficie de! liquido ser<l l/ A. Y ahora, (.Cuilnto necesita una molecula para escapar? 
+Si tienen una cierta velocidad promedio v1· y tienen que moverse, digamos, un diil­
+metro molecular D, espesor de la primera capa, el tiempo que les l\eve atravesar 
+este espesor es el ti cm po necesario para escapar, si la molCcula ti enc energia sufi­
+ciente. Sera Div. Asi, pues, el nllmero de las que se evaporan sera aproximadamente 
+(42.J) 
+Ahora bien el iirea de cada iitomo por el espesor de la capa es aproximadamente 
+lo mismo que e! volumen Va ocupado por un solo iltomo. Y por lo tanto, para que 
+pueda haber equilibria, debemos tener que Ne 0--0 N., es decir, 
+(42.4) 
+Podemos cance\ar las v puesto que son iguales; aunque una sea la velocidad de una 
+mokcula en el vapor y la otra Ia de una molecula que se esta evaporando, son igua­
+les, ya que sabemos que su energia cinCtica media (en una direcci6n) es ~kT. Pero 
+alguien puede objetar: "1No! jt\'o! fatas son especialmente las mils rilpidas; son las 
+que han tornado energia adicional". Realmente no es asi, ya queen el momenta en 
+que cmpiezan a separarsc de! li4uido tlenen que perder esta encrgia adicional en 
+favor de la energla potenciaL Por ello, a medida que llegan a la superficie, jreducen 
+su ve\ocidad a v! Es lo mismo que vimos en nuestra discusiOn de la distribuciOn de 
+velocidades molecu!ares en la atmOsfera -abajo, las mol6culas tienen una cierta di~­
+tribuciOn de energia. Las que llegan arriba tienen la misma distribuciOn de energia, 
+puesto que las lentas no l!egaron y las rii.pidas perdieron velocidad. Las mo\eculas 
+que se estii.n evaporando tienen la misma distribuciOn de energla quc las quc estiln 
+dentro -un hecho bastante notable-. De todos modos, es inutil seguir discutiendo 
+con tanto detalle nuestra formula a causa de otras inexactitudes, tales como la pro­
+babilidad de ser rechazadas en lugar de entrar en el liquido, etc. Tenemos. pues, una 
+idea vaga de la rapidez de evaporaciOn y condensaciOn y vemos. naturalmentc. que 
+la densidad de vapor n varia en la misma forma que antes, pero ahora lo hemos 
+comprendido en mils detalle en lugar de tenerlo como una formula arbitraria. 
+42·4
+
+Esta comprensiOn mils profunda nos permite analizar algunas cosas. Por ejemplo, 
+supongan que bombeilsemos el vapor a una velocidad ta! que sacii.semos e! vapor en 
+cuanto se forma (si tuvifaemos bombas buenas y el liquido se evaporase muy des­
+pacio), ~con que rapidcz ocurriria la evaporaciOn si mantuviesemos el liquido a una 
+temperatura T? Supongan que medimos antes experimentalmente la densidad de 
+vapor en equilibria, por lo que sabemos, a la temperatura dada, cuilntas moleculas 
+por unidad de volumen estan en equilibria con e! liquido. Ahora querriamos saber 
+con qui rapidez se evaporara. Aunque solamente hemos uti!izado un aniilisis apro­
+ximado en lo que concierne a la evaporaciOn, el nUmero de mo16culas de vapor 
+que llegaban no se cstudi6 tan mal, aparte de! factor desconocido del coeficiente de 
+reflexiOn. Por lo tanto, podemos usar e! hecho de que e! nUmero de las que estim sa­
+licndo, en el equilibria, es igual .al nllmero de las que llegan. Es verdad que estamos 
+quitando el vapor por lo que s6!o hay moleculas que salen, pero si no se tocase el 
+vapor, se alcanzaria la densidad de equilibria para la cual e! nUmero de las que vuel­
+ven seria igual al nUmero de las que se est3.n evaporando. En resumen, podemos ver 
+facilmcntc que el nUmero de las que abandonan la superficie por segundo es igual 
+al coeficiente de reflexi(m desconocido R por el nUmero de las que volverian a la su­
+perficie por segundo si el vapor estuviese presente, porque asi es coma se ba!ancea­
+ria la evaporaci6n en el cquilibrio: 
+(42.5) 
+El nllmero de moleculas provenientes del vapor que chocan con la superficie del 
+!iquido es, naturalmence, facil de calcular, ya que no necesitamos conocer tanto acer, 
+ca de las fuerzas como cuando nos preocupamos de c6mo logran escapar a traves 
+de la superficie del !iquido: es mucho mils facil hacer el razonamiento en el orden 
+42-2 EmisiOn termoiOnica 
+Podemos dar otro ejemplo de una situaci6n muy pr<lctica que es semejante a la 
+evaporaci6n de un liquido -tan semejante que no vale la pena hacer un an<ltisis 
+scparado-. Es esencialmente el mismo problema. En una villvula de radio hay una 
+fuente de electrones, un filamento de tungsteno calentado, y una placa cargada posi­
+tivamente para atraer a los electrones. Cualquier e\ectr6n que escn.pa de la superfi­
+cie de tungsteno es inmediatamente arrastrado a la placa. Esta es nuestra "'bomba" 
+ideal, que estit "bombeando" fuera los electrones todo el tiempo. Ahora la pre­
+gunta es: LCu3.ntos electrones pueden satir por segundo de un pedazo de tungsteno 
+y c6mo varia este nllmero con la temperatura? La respuesta a este problema es la 
+misma de (42.5). porque resulta que en un pedazo de metal los e\ectrones son atrai­
+dos hacia los Lones, o hacia los iltomos de! metal. Podemos decir grosso modo que 
+son atraidos hacia el metal. Para que un electr6n salga de un pedazo de metal, se ne­
+cesita una cierta cantidad de energia o trabajo para sacarlo. Este trabajo es diferente 
+para diferentes clases de metales. De hecho, varia incluso con el estado de la su­
+perficie de una clase dada de metal, pero el trabajo total puede ser de unos pocos 
+electronvolts. que es. entre parentesis, tipico de la energia involucrada en reacciones 
+quimicas. Podcmos recordar el Ultimo hecho recordando 
+42-5
+
+que el voltaje en una celda quimica tal como una pila de linterna, que se produce me­
+diante reacciones quimicas, es de alrededor de un voltio. 
+lC6mo podemos saber cuimtos electrones salen por segundo? Seria bastante 
+dificil analizar los efectos en los electrones que salen; es mils filcil analizar la situa­
+ci6n de modo inverso. Asi, podriamos comenzar imaginando que no nos llevisemos 
+los electrones y que ellos fuesen como un gas y pudiesen volver al metal. Luego, 
+habria una cierta densidad de electrones en equilibrio que por supuesto estaria dada 
+por exactamente la misma f6rmula que (42.1), donde V0 es el volumen por electr6n 
+en el metal, aproximadamente, y W es igual a %'P• donde <p es el llamado potencial 
+de arranque, o sea el voltaje que se necesita para sacar un electr6n de la superficie. 
+Esto nos diria cuilntos electrones tendria que haber en el espacio circundante inci­
+diendo sobre el metal para balancear a los que estiln saliendo. Y entonces es filcil 
+calcular cuantos estan saliendo si quitamos los que rodean el metal, ya que el nUrrie­
+ro de los que salen es exactamente igual al nUmero de los que incidirian con la den­
+sidad anterior de\ "vapor" electrOnico. En otras palabras, la respuesta es que la 
+corriente de electricidad que entra por unidad de area es igual a la carga de cada 
+uno por el nUmero que llega por segundo por unidad de area, lo cual es el nU.mero 
+por unidad de volumen por la·velocidad, como hemos visto muchas veces: 
+(42.6) 
+Ahora bien, un electronvolt corresponde a kT a una temperatura de 11.600 grados. 
+El filamento de! tubo puede estar trabajando a una temperatura, digamos, de 1.100 
+grados, por Jo que el factor exponencial es algo asi como et0 ; cuando variamos 
+la temperatura un poquito, el factor exponencial cambia mucho. De nuevo tenemos 
+que la caracteristica central de la formula es e-q.,tp/ kT. En realidad, el factor que va 
+delante estit totalmente errado --resulta que el comportamiento de los electrones en 
+un meial no se describe correctamente mediante la teoria clilsica, sino mediante la 
+mec3.nica cuimtica, pero esto no hace sino cambiar un poco dicho factor-. En rea\i­
+dad, nadie ha sido capaz de obtener correctamente esto, aunque muchos han usado 
+la mecitnica cuimtica de alta categoria para sus citlculos. El gran problema es: 
+~cambia W ligeramente con la temperatura? Si es asL, nose puede distinguir una W 
+que cambia lentamente con la temperatura, de un coeficiente diferente delante. Esto 
+es, si W cambia linealmente, digamos. con la temperatura, de manera que W = 
+W0 + a.kT, tendriamos 
+0 sea, una W que depende linealmente de la temperatura es equivalente a una 
+"constante •· diferente.' Es realmente muy dificil y de ordinario inU.til obtener exacta­
+mente el coeficiente que va delante. 
+42-3 IonizaciOn termica 
+Veamos ahora otro ejemplo de la misma idea; s1empre la misma idea. Tiene que 
+ver con la ionizaciOn. Supongan que tenemos en un gas un mont6n de ittomos en es­
+tado neutro, digamos, pero que el gas est3. caliente y los ii.tomos se pueden 
+42-6
+
+ionizar. Querriamos saber cu3.ntos iones hay en una circunstancia determinada si 
+tenemos una cierta densidad de 3.tomos por unidad de volumen a una cierta tempera­
+tura. Consideramos de nuevo una caja en la que hay N 3.tomos que pueden contener 
+electrones. (Si un electr6n ha salido de un 3.tomo, i:ste se llama ion y si el ittomo es 
+neutro se llamarit simplemente ittomo.) Supongan entonces que, en un momenta dado, 
+el nU.mero de 3.tomos neutros es na, el m.i.mero de iones es 111 y el nUmero de elec­
+trones es 11 •• todos por unidad de volumen. E! problema es: ~Cuill es la relaci6n 
+entre estos tres nUmeros'? 
+En primer lugar, tenemos dos condiciones de vinculo para los nUmeros. Por 
+ejemplo, segUn variemos diferentes condiciones, como la temperatura u otras cosas, 
+nu + n1 permanecerit constante, ya que esto es simp!emente el nllmero N de nU:cleos 
+atOmicos que hay en la caja. Si conservamos fijo el nU:mero de nllcleos por unidad 
+de volumen y cambiamos, por ejemplo, la temperatura, a medida que la ionizaci6n 
+tiene lugar a!gunos ittomos pasaritn a iones, pero el nU:mero total de itomos mils 
+iones seril constante. Esto es, na + n; = N. Otra condiciOn es que si el gas total 
+tiene que estar eiectricamente neutro (y no tenemos en cuenta una doble o triple 
+ionizaci6n), esto significa que el nllmero de iones es igual al nllmero de electrones 
+para cualquier tiempo, o sea n; = n,,. Estas son ecuaciones subsidiarias que expres.an 
+simplemente la conservaci6n de la carga y la conservaci6n de los ittomos. 
+Estas ccuaciones son ciertas y las usaremos fina!mente cuando consideremos 
+un problema real. Pero queremos obtener otra relacic"in entre las cantidades. Lo po-
+demos hacer como sigue. de nuevo la idea de que se necesita una cierta 
+cantidad de energia para sacar electr6n de! <'ttomo. que llamaremos energia de 
+ionizaci6n, y la escribiremos como W para que todas las formulas se parezcan. Asi. 
+W es la energia necesaria para sacar un electr6n de un :itomo y convertirlo en un 
+ion. Ahora decimos de nuevo quc el nUmcro de e!ectrones libres por unidad de volu­
+men en el "vapor" es igual al nllmero de electroncs ligados a los 3.tomos por unidad 
+de volumen por e elevado a menos la diferencia de energia entre estar ligado y estar 
+libre, sobre kT. Otra vez tenemos la ecuaciOn bitsica. iC6mo podemos escribirla? 
+El nUmero de electrones libres por unidad de volumen seria, naturalmente, n., ya que 
+esta es la definici6n de n •. Ahora bien, &que hay de! nllmero de electrones ligados 
+a los itomos por unidad de volumen'? El nUmero total de lugares donde podriamos 
+colocar los e!ectrones es aparentemente na + n1 y supondremos que cuando estitn 
+ligados, cada uno de ellos lo est3. dentro de un cierto vo\umen V.,. Luego, la canti­
+dad total de volumen disponible para los electrones que estarian ligados es (na + n;) 
+Va, y de ese modo podriamos querer escribir nuestra formula en la forma 
+Sin embargo, la formula es err6nea en un punto esencial, que es el siguiente: cuando 
+ya hay un electrOn en un .itomo, iOtro electr6n no puede venir jamis a ese volumen! 
+En otras palabras, todos los volllmenes de todos Jos lugares posibles no est:in real­
+mente dlsponibles para aquel electrOn que esta tratando de decidir si estar o no en 
+el vapor o en la posiciOn condensada, porque en este problema hay una caracteris­
+tica adicional: cuando un electrOn se encuentra donde esti otro electr6n, no se le 
+permite ir -es repelido-. Por esta raz6n, resulta que deberiamos contar
+
+solamente aquella parte del volumen que esti disponible para que un electr6n se 
+quede o no. Esto es, las partes que ya esdn ocupadas no cuentan en el volumen 
+total disponible, sino quc el Unico volumen que se permite es el de los iones, dOndc 
+hay lugares vaclos para que el electr6n vaya. Luego, en estas circunstam:ias, encon­
+tramos que un modo mejor de escribir nuestra formula es 
+(42.7) 
+Esta formula se llama ecuacfr)n de ionizaci6n de Saha. Veamos ahora si podemos 
+entender cualitativamente por que una formula coma esta es cierta, hacienda uso de 
+las cosas cineticas que estiln ocurriendo. 
+En primer lugar, de vez en cuando un electr6n llega a un ion y se combinan 
+para formar un iltomo. Y tambicn de veL en cuando, un iltomo sufre una colisi6n 
+y se separa en un ion y un electrOn. La rapidez de ambos procesos debe ser igual. 
+t.Con que rapidez se encuentran los electrone~ y Jos iones? La rapidez aumenta cier 
+tamente si aumenta el nUmero de elcctrones por unidad de volumen. Tamb1en 
+aumenta si aumenta el nUmero de mnes por urndad de volumen. Esto es. la rapidez 
+total a la cual ocurre la recombinaci(m es ciertamente proporcional al nUmero de 
+electrones por el nllmero de iones. Ahora bien, la rapidez total a !a que esti ocu­
+rriendo la ionizaciOn debido a las colis10nes debe depender linealmente del nUmcro 
+de itomos que hay para se' ionizados. Y por consiguiente ambas rapideces se balan­
+cearim cuando haya alguna relacion entre el producto n,n, y el nUmcro de 3.tomos n0 . 
+El hecho de que suceda quc esta relaciOn estil dada por esta formula particular. don­
+de W es la energia de ionizaci6n, es naturalmentc algo mas de mformac16n, pero po­
+demos entender fitcilmente que la formula contendria necesariamente las concentra­
+ciones de los electrones, ione~ y <i.tomos en la combinacion nen/ na para producir 
+una constante independicnte de las n, y dependiente solamente de la temperatura, 
+de las secciones eficaces at6micas y otros factore~ constantes. 
+TambiCn podemos notar que, puesto que en la ecuaciOn intervienen los nllmeros 
+por unidad de vofumen, si tuvii:semos que haccr dos expenmentos con un nUmcro 
+total N de atomos mils iones, o sea con c1erto nllmcro fijo de nUcleos, pero usando 
+cajas de vo\Umenes diferentes, !as n serian mis pequeii.as en la caja mas grande. 
+Pero, puesto que el cociente n,J1.Jn0 pcrmanece igual, el nUmero total de iones y elec­
+trones debe ser mayor en la caja mils grande. Para ver esto, supongan que hay N 
+nUcleos dentro de una caja de volumen Vy que una fracciOnfde ellos estil ionizada. 
+Entonces, ne =JN/Vy n0 = (1-j)N/V. Nuestra ecuaci6n se convierte en 
+12 N e-W/kT 
+1=7 j7 ~ -v;- . (42.8) 
+En otras palabras, si tomamos una densidad de iltomos cada vez mils pequeiia, o 
+hacemos el volumen donde estin encerrados cada vez mayor, la fracci6nfde iones 
+y electrones debe aumentar. Esta ionizaci6n, sO\o por "cxpansiOn" a medida que la 
+densidad disminuye, es la raz6n por la cual creemos que a densidades muy bajas, 
+tales como en el espacio frio entre las estrellas, puede haber iones presentes, aunque 
+no lo podamos entender desde el punto de vista de la energia disponible. Aunque 
+se necesitan muchos, muchos kT de energia para hacerlos, hay iones presentes.
+
+z.Por que puede haber iones presentes cuando hay tanto espacio alrededor, 
+mientras que si aumentamos la densidad los iones tienden a desaparecer? Respuesta: 
+Consideren un .itomo. De vez en cuando, luz, u otro :itomo, o un ion o cualquier 
+cosa que sea la que mantiene el equilibria termico, lo golpea. Muy raramente, ya que 
+se necesita una cantidad tremenda de energla adicional, un electrOn sale y queda 
+un ion. Ahora bien, si el espacio es enorme, ese electrOn vaga y vaga y quizils no 
+llega cerca de algo en aiios. Pero a!guna vez en un tiempo muy grande, sl vuelve 
+a un ion y se combinan para formar un :itomo. Por lo que la rapidez a la que los 
+electrones salen de los .itomos es muy pequefia. Pero si el volumen es enonne, un 
+electrOn que ha escapado toma tanto tiempo en encontrar otro ion para recombinar­
+se, que su probabilidad de recombinaciOn es muy, pero muy pequefia; asi, a pesar 
+de la gran energia adicional que se necesita, puede haber un nUmero razonable de 
+electrones. 
+42-4 CinCtica quimica 
+La misma s!tuaciOn 'Lue acabamos de Hamar "ionizaciOn" se encuentra tambiffi 
+en una reacciOn quimica. Por ejemp!o, si dos objetos A y B se combinan para for­
+mar un compuesto AB, entonces si pensamos por un momenta, vemos que AB es lo 
+que hemos llamado un itomo, B es lo que llamamos un electrOn y A lo que llama­
+rrios un ion. Con estas sustituciones, las ecuaciones de equilibria tienen exactamente 
+la misma forma: 
+~-'~ = ce-11"1'' 1·. 
+n.111 
+(42.9) 
+Desde luego, esta formula no es exacta puesto que la "constante" c depende del volu­
+men que se permita a A y B para combinarse, etc., pero mediante razonamientos 
+termodinilmicos se puede identificar el significado de W en el factor exponencial, y 
+resulta que es muy prOximo a la energia que se necesita en la reacciOn. 
+Supongan que hemos intentado entender esta formula coma resultado de coli" 
+siones, muy parecido al modo como entendimos la formula de evaporaciOn, argu­
+mentando acerca de cuilntos electrones salian y cu.intos volvian por unidad de 
+tiempo. Supongan que A y B se combinan de vez en cuando mediante una co!isiOn 
+para formar un compuesto AB. Y supongan que el compuesto AB es una mo!ecula 
+complicada que camina al azar y que es go!peada por otras mole<:ulas, y que de vez 
+en cuando obtiene energia suficiente para explotar y romperse de nuevo en A y B. 
+Ahora bien, en las reacciones quimicas resulta realmente que si los 3.tomos se 
+acercan con energias muy pequeiias, aun cuando se pueda emplear alguna energ[a 
+en la reacci6n A + B---> AB, et hecho de que A y B se puedan tocar no hace que la 
+reacciOn comience necesariamente. Se requiere usualmente que la colisiOn sea bas­
+tante dura, de hecho, para hacer que la reacciOn comience -una colisi6n "suave" 
+entre A y B puede no originarla, aunque se utilice alguna energia en el proceso---. 
+Asi, pues, supongamos que es· muy comUn en reacciones quimicas que, para que de 
+A y B se forme AB, no basta que choquen entre si, sino que tienen que hacerlo con 
+energia suficiente. Esta energia se llama energia de activaci6n --energia que se nece­
+sita para "activar" la reacci6n-. Llamemos A"' a la energia de activaci6n, energia 
+adicional necesaria en una colisiOn 
+42-9
+
+Fig 42-1. Relaci6n de energia para la 
+reacc16nA + B -•AB. 
+para que la reacciOn pueda ocurrir realmente._Entonces, en la vel~dad R1 a la que 
+A y B produce AB intervendria el nUmero de atomos de A por el numero de Utomos 
+de B, por la velocidad a la cual un solo Utomo golpearia una cierta secciOn eficaz 
+uAB• por un factor e--A*'J. 1, que es la probabilidad de que tengan energ[a suficiente: 
+(42.10) 
+Ahora tenemos que encontrar la velocidad opuesta R,. Hay una cierta probabilidad 
+de que AB se desintegre. Para que pueda hacerlo. no solarnente debe tener la ener­
+gia W que necesita para que se ~eparen. sino que asi corno era dificil que A y B se 
+juntasen, hay una especic de lama sabre la rnal A J B tienen que pasar para ~epa­
+rarse de nucvo: no solo deben tener bastante energia para cstar en condiciones de 
+separarse, sino adcmils una cierta energia adicional. Es como trepar una loma para 
+llegar a un \alle profundo; tienen que trcpar la loma para entrar y tieflen que tre 
+par para salir del vallc y volver atr<'is (Fig. 42-1 ). Por lo tanto, la vclocidad con la que 
+AB vuelve a B scril proporcional al numero n.-18 que hay presente por e(W + A•JikT. 
+(42.l 1) 
+La c' incluiril el volumen de los <itomos y las colisiones por unidad de tiempo que po­
+demos calcular con areas y tiempos y espesores, como hicimos en el caso de evapora­
+cion; pero no lo haremos. La caractcnsLica principal de interes para Dosotros cs 
+que cuando estas dos velocidade1. son iguales, su cociente nos da la unidad. Esto nos 
+dice que nAn8 /nAJJ - ce-W 1 ~ 1 , igual que antes, donde c involucra las secciones efocti­
+vas, las velocidades y otros factores independientes de las n. 
+Lo interesante es que la vclocidad de la reacciOn tambiCn varia como e -const!n; 
+aunque la constantc no es la misma que la que rige las concentraciones: la energia 
+de activaciOn A* es muy diferente de la cnergia W. W rige las proporciones de A, B 
+y AB que tenemos en equilibria, pero si queremos saber con que velocidad A+ B 
+pasa a AB, esto no es una cuesti6n de equilibria y por consiguiente una energia di­
+ferente, la energia de activaci6n, nge la velocidad de reacci6n mcdlante un 
+factor exponencial. 
+Adem<is, A* no es una constantc fundamental como W. Supongan queen la su­
+perficie de la pared ~-() en alglm otro lugar- A y B se pudiescn adherir temporalmen­
+te de ta! modo quc pudiesen cornbinarse mils fitcilmcntc. En otras palabras, podria­
+mos encontrar un "t\inel'" a travC5 de !a loma o qu11ils una loma mils baja. Por 
+conservaci6n de la energia, cuando este todo terminado habremos hecho AB a partir 
+de A y B. por lo quc la diferencia de energ1a rv seril enteramente independicnte del 
+modo en que ocurriO la rcacci6n. 
+42-10
+
+pero la energia de activaci6n A* dependerit muchisimo de! modo en que ocurre la 
+reacci6n. Esto explica por que las reacciones quimicas son muy sensibles a las con­
+diciones exteriores. Podemos cambiar la velocidad colocando una superficie de una 
+clase diferente, podemos colocar\a en un "barril diferente '', por ejemplo, y ocurririt 
+a una velocidad diferente, si esta depende de la naturaleza de la superficie. 0 si co­
+locamos dentro un tercer objeto diferente, puede cambiar muchisimo la velocidad; 
+algunas cosas producen enormes cambios en la velocidad simplemente cambiando 
+A* un poquito -se Jes llama catalizadores-. Puede ocurrir que una reacci6n practi­
+camente no se lleve a cabo porque A* es demasiado grande a la temperatura dada, 
+pero cuando introducimos esta sustancia especial, el catalizador, entonces la reac­
+ci6n es verdaderamente r:ipida porque A* se ha reducido. 
+Entre parentesis, hay alguna dificultad con ta! reacci6n, A mas B da AB, porque 
+no podemos conservar a la vez energia y momentum cuando tratamos de colocar 
+juntas dos objetos para formar uno que es mas estable. Por consiguientc, necesita­
+mos por Jo menos un tercer objeto C y por ello la verdadera reacci6n es mucho m:is 
+complicada. En la velocidad hacia adelante interviene el producto nAnBnc y podria 
+parecer que nuestra f6rmula va a ser err6nea, pero jno! Cuando consideramos lave­
+locidad a la que AB va en la otra direcci6n, encontramos que tambiCn necesita coli­
+dir con C, por lo que en la velocidad inversa interviene nA8n(; las nc se cancekm e;1 
+la f6rmula para las concentraciones de equilibria. La Icy de equilibria (42.9) que es­
+cribimos primero est:i absolutamente garantizada como verdadera jcualquiera sea el 
+mecanismo de la reacci6n! 
+42-.5 Leyes de radlaeiOn de Einstein 
+Volvemos ahora a una interesante situaci6n ana\oga que tiene que ver con la 
+ley de radiaci6n de cuerpo negro. En el capitu!o anterior calculamos la \ey de 
+distribuci6n para la radiaci6n en una cavidad de\ modo que Planck lo hizo, consi­
+derando la radiaci6n de un oscilador. El oscilador tiene que tener una cierta energia 
+media, y como est:i oscilando, radiaria y seguiria bombeando radiaci6n a la cavi­
+dad hasta que amontonase tanta que balancease la absorci6n emisi6n. Asi encontra­
+mos que la intensidad de radiaciOn a la frecuencia w estaba dada por la formula 
+l(w)dw = --cc~cc~~­
+·- I) 
+(42.12) 
+Este resultado contenia la suposici6n de que el oscilador que generaba la radiaci6n 
+tenia niveles de energia definidos e igualmente espaciados. No dijimos que la luz 
+tenia que ser un fot6n o algo parecido. No discutimos acerca de c6mo, cuando un 
+atomo pasa de un nivel a otro, la energia tiene que salir en una unidad de energia, 
+hw, en forma de luz. La idea original de Planck fue que era la materia la que esta 
+ba cuantizada y no la luz: los osciladores materiales no pucden to mar simplemenle 
+cualquier energia, sino que lo ticnen que hacer en bloques. Adcmtis, el problema 
+con la derivaci6n es que era parcialmente cl:isica. Calculamos la rapide1 de radia 
+ci?n de un oscilador de acuerdo a la fisica c\asica; despues le dimos !a vue\ta y 
+diJ1mos: "No, este osci!ador tiene muchos nivelc~ de energia'". Asi que gradual­
+mentc, con el fin de encontrar el resultado correcto, e! resultado completamente 
+cu:intico, hubo un desarrollo lento que culmin6 en la mecii.nica cu<'intica de 1927. 
+Pero entretanto, Einstein inlent6 convertir el punto de vista de Planck de que sola 
+mente los osciladores 
+42-l l
+
+m__: __ EmisiOnespontii.nea 
+Absorciim ~"=~--;:'-EmisiOninducida deF~~er:~-~eu~~~:~c~~nes entre dos niveles 
+de materia estaban cuantizados, a la idea de que la luz era realmente fotones y podia 
+ser considerada de alg(m modo coma particulas con energia /fw. Ademils, Bohr 
+habia indicado que cualquier sistema de <itomos tiene niveles de energia, pero 
+que 6stos no se encuentran necesariamente igualmente espaciados como el oscilador 
+de Planck. Asi que fue necesario volver a derivar o por lo menos volver a discutir 
+la ley de radiaci6n desde un punto de vista cuilntico mas completo. 
+Einstein supuso que la f6rmula de Planck estaba bien y la us6 para obtener 
+alguna informaci6n nueva., desconocida anteriormente, acerca de la interacci6n de 
+la radiaci6n con la materia. Su discusi6n fue como sigue: Consideren dos cuales­
+quiera de los muchos niveles de energia de un :'ttomo, digamos Jos niveles m-6simo 
+y n-6simo (Fig. 42-2). Ahora bien, Einstein propuso que cuando luz de frecuencia 
+apropiada incide sabre ese :itomo, 6ste puede absorber ese fot6n de luz y efectuar 
+una transici6n <lei estado n al m, y que la probabilidad de que ocurra asi por se­
+gundo depende naturalmente, de los dos niveles, pero es proporcional a Ia inten­
+sidad de la luz que est:i incidiendo. Llamemos a esta constante de proporcionalidad 
+Bnm' simplemente para tener presente que no es una constante universal de la na­
+turaleza, sino que depende del par particular de niveles: algunos niveles son 
+f:iciles de excitar y otros dificiles. Ahora bien, (.cuti.l va a ser la fOrmula para la 
+probabilidad de emisi6n de m a n? Einstein propuso que debe constar de dos partes. 
+En primer lugar, aun cuando no hubiese luz presente, habria alguna probabilidad 
+de que un :itomo en un estado excitado pasase a un estado m:is bajQ emitiendo 
+un fot6n; a esto !o llamaremos emisi6n espontdnea. Es ana!ogo a la idea de que 
+un oscilador con una cierta cantidad de energla, aun en fisica cl:isica, rro la 
+guarda sino que la pierde por radiaci6n. Asi, lo an:ilogo de la radiaci6n espontinea 
+de un sistema cl:isico es que si un ittomo estit en un estado excitado hay una 
+cierta probabilidad Arnn> que tambifo depende de los niveles, de que baje de m a n 
+y esta probabilidad es independiente de si hay luz iluminando el :itomo o no. Pero 
+entonce~ Einstein fue mis lejOS y mediante la comparaciim con la teoria clisica y 
+otros argumentos concluy6 que la emisi6n tambien se vela influenciada por la pre­
+sencia de luz --que cuando la luz de frecuencia apropiada ilumina el :itomo, este 
+tiene una probabilidad mayor de emitir un fot6n, la cual es proporcional a la in­
+tensidad de la luz, con la constante de proporcionalidad Bm,,-· Mils tarde, si de­
+ducimos que este coeficiente es cero, habremos demostrado que Einstein estaba 
+equivocado. Pero, naturalmente, encontraremos que tenia raz6n. 
+AsL, Einstein supuso que hay tres clases de procesos: una absorci6n propor­
+cional a la intensidad de la !uz, una emisi6n proporcional a la intensidad de la 
+luz Hamada emisi6n inducida y algunas veces emisi6n estimulada, y una emisi6n 
+espontitnea independiente de !a luz. 
+Supongan ahora que tenemos, en el equilibria a una temperatura T, un cierto 
+nUmero de titomos Nn en cl estado n y otro nUmero Nm en el estado m. Entonces, 
+el nUmero total de :itomos que van a pasar de n a m es el nUmero de los que est<i.n 
+en el estado n 
+42-12
+
+por Ja probabilidad por segundo de que si uno esta en n pase a m. La f6rmula para 
+el nU.mero de Jos que van a pasar de n a m por segundo es: 
+(42.13) 
+Del mismo modo, el nU.mero de los que pasar<in de m a n se expresa, como el nU.­
+mero Nm de los que est an en m multiplicado por la probabilidad por segundo de 
+que cada uno baje a n. La expresi6n es 
+R,,, . .,, ~ N ... [A ... ., + B.,,l(w)]. (42.14) 
+Supondremos ahora que en el equilibrio termico el nU.mero de ;homos que suben 
+debe ser igual al nU.mero de los que bajan. Por lo menos es un modo de asegurar­
+se que el nU.mero de :homos permanezca constante en cada nivel"'. Consideramos 
+entonces que estas dos probabilidades son iguales en el equilibrio. Pero tenemos 
+aUn otra informaci6n: sabemos lo grande que es Nm comparado con N" -su cociente 
+es e-iEm-E.llkT-. Ahora supuso Einstein que la lmica luz que efectivamente produce 
+la transici6n de n a m es aquella que tiene la frecuencia correspondiente a la diferen­
+cia de energia, por lo que Em-E~ = ffw en todas nuestras f6rmulas. Entonces 
+(42.15) 
+Y si igualamos las dos probabilidades, N 11B,.,,,I(r,1) = 1V,..[A"'"-,. Bmnl(w)] y 
+dividimos por N.,,, obtenemos 
+B1.,nl(w)ell"'/kT = A,,,,. + Bmnl(w). (42.16) 
+A partir de esta ecuaci6n, podemos calcular l(r,,). Es simplcmente 
+l(w) = ~-~.,,4?----- · (42.17) 
+Bnme - B,,.,. 
+Pero Planck nos ha dicho antes que la formula debe scr (42.12). Por lo que podemos 
+deducir algo: en primer lugar, B,,,,, debe ser igual a B,,,,,, que de otra forma 
+no podemos obtener (efl,,,/J.T _. J). Asl, Einstein dcscubriO 
+cOmo calcular, en especial que fa probabifidad de emisiOn 
+de absorci6n deben ser iguales. Esto es interesante. Y 
+(42.12) concuerden, 
+debe ser (42.18) 
+Asi, por ejemplo, si conocemos la probabilidad de absorci6n para un nivel dado. 
+podemos deducir la probabllidad de emisi6n espont.iinea y la de emisi(m inducida o 
+cualquicr combinaci6n. 
+Hasta aqui es hasta donde Einstein o cualquier otro podia llegar usando tales 
+ra]'.Onamientos. Hoy en dia. computar la probabilidad absoluta Jc cmisi6n csponti1· 
+nea o las otras probabilidades para cualquier transici6n at()mica especifica requiere, 
+naturalmente, un conocimiento de la maquinaria del ittomo. llamada electrodinitmica 
+cuilntica, que no sc dcscubri6 hasta once aiios mils tarde. Este trabajo de Einstein 
+sehizoen 19!6. 
+'" Este no es el Unico modo de arreg!itrnoslas para mantcner con st ante el numero de iHomos 
+en los diversos niveles. pero es el que fum.:iona. El hecho de queen cl equilibri(1 tCrmico cada pro­
+ceso debaser balanceado por su opuesto exacw e., lo que se llama principio de halairce detal/ado. 
+42-13
+
+La posibilidad de emisi6n inducida ha encontrado actua!mente aplicaciones inte­
+resantes. Si hay luz presente, tenderil a inducir la transici6n hacia abajo. La 
+transiciOn aliade su fir,J a la energia de luz disponible. si hay algunos ittomos situa­
+dos en el estado superior. Podemos., hacer, mediante algUn metodo no termodinilmi­
+co, que un gas tenga el nUmero en el estado m mucho mas grande que el nUmero en 
+el estado n. Esto estil muy lejos de! equilibr:io y no est3. dado entonces por la 
+fOrmula cn,,.;rr de\ equilibria. Tambien podemos hacer que el nUmero en el estado 
+~uperior sea muy grande, mientras que el de! estado inferior sea prilcticamente cero. 
+En este caso, la luz que tlene !a energia correspondiente a la diferencia de energias 
+Em-En no seril fuertemente absorbida, ya que no hay muchos il.tomos en el estado 
+n que la puedan absorber. Por otro !ado. cuando esta luz estil presente. jinduciril !a 
+emisi6n desde este estado superior! Por !o tanto. si tenemos muchos ii:tomos en el 
+estado superior. habrit una especie de reacci6n en cadena en la cual. dcsde el mo­
+menta en que los il.tomos comiencen a emitir, otros mils se veritn forzados a emitir 
+y todo el conjunto de iltomos caeril de golpc. Esto es lo que se llama un ldser o, 
+en el caso del infrarrojo !ejano. un mGser. 
+Awl 
+Roja,luzdell<lser 
+Fig. 42-3. Exc1tando un estado mas alto 
+h, mediante !uz azul d1garnos, que puede 
+emitir un fot6n dejando atomos en el estado 
+m, e! nUmero en este estado se hace lo suft­
+c1entemente grande como para comenzar la 
+acc16n l<!ser 
+Se pueden usar diversos artif,cios para obtener los <i.tomos en el estado m. Podria 
+haber mve!cs mils altos a los cuales los iitomos podrian ir si ilumin:isemos con un 
+haz fuerte de Juz de alta frecuencia. De esto~ nivcle~ podnan gotcar emitlendo 
+varios fotones, hasta que todos se queden parados en e! estado m. Si tienden a per­
+manecer en e! estado m sin emitir, el estado se llama metastable. Y luego se hace 
+que todos caigan de golpe por emisiones inducidas. Otro punto tecnico mils: si colo­
+camos este sistema en una caja ordinaria. radiaria espont:ineamente en tantas direc­
+ciones diferentes, comparado con el efecto inducido. que aim tendriamos problemas. 
+Pero podemos acrecentar el efecto inducido, aumentar su eficiencia, colocando 
+espejos casi perfectas en cada !ado de la caja, de modo que la luz que es emitida 
+tenga otra oportunidad, y otra oportunidad, y otra oportunidad, de induclr mils emi· 
+siOn. Aunque los espCJOS son casi un den por ciento reflectores. hay una pequelia 
+cantidad de transmisiOn y un poco de luz sale fucra. Al final. a causa de la conser­
+vaci6n de la energia, toda la luz sale uniformemente en una linda linea recta, !o cual 
+da lugar a los haces de luz intcnsos que son posibles hoy en dia con los !ii.seres. 
+42-14
+
+43 
+Difusion 
+43- I Colisiones entre moleculas 
+43-2 El camlno llbre medio 
+43·3 La veloeidad de arrastl'f' 
+43-1 Colisiones entre molCculas 
+43.4 Conductividad iOnica 
+43-S Difusi6n molecuJar 
+43-6 Conductividad tCrmica 
+Hasta ahora s6lo hemos considerado !os movimientos moleculares en un gas 
+que se encuentra en equilibria tfrmico. Ahora queremos estudiar lo que ocurre 
+cuando se estii cerca del equilibria, pero no exactamente en el equilibria. En un es­
+tado muy apartado del equilibria, las cosas son extremadamente complicadas, pero 
+muy cerca de! equilibria podemos examinar filcilmente lo que sucede. Para verlo 
+debemos, sin embargo, volver a la teoria cinetica. La mecilnica estadistica y la ter­
+modinilmica se ocupan de! estado de equilibria, pero fuera del equilibria s6Io po­
+demos analizar lo que ocurre iltomo por 3.tomo, por asi decir. 
+Como ejemp!o sencillo de una situaci6n de falta de equilibria, consideraremos 
+la difusi6n de iones en un gas. Supongan que en un gas hay una concentraci6n rela· 
+tivamente baja de iones -mol6culas cargadas el6ctricamente-. Si aplicamos un 
+campo elOCtrico al gas, sobre cada ion actuarii una fuerza que es diferente de las 
+fuerzas entre las mol6culas neutras del gas. Si no hubiera otras mol6culas presentes, 
+un ion tendria una aceleraci6n constante hasta alcanzar la pared de! redpiente. Pero 
+no lo puede hacer debido a la presencia de las otras mol6cu!as; su velocidad aumen­
+ta tinicamente hasta que choca con una mo!Ccu!a y pierde su momentum. Comienza 
+de nuevo a adquirir mayor velocidad y de nuevo pierde su momentum. El efecto 
+resultante es que un ion se abre camino a lo largo de una trayectoria irregular, 
+aunque con un movimiento neto en la direcci6n de! campo elCctrico. Veremos que el 
+ion experimenta un "arrastre" media, con una velocidad media proporcional al cam­
+po e!Cctrico- cuanto mils intenso es el campo elCctrico, mils nipido va. Mientras el 
+campo estil. ap!icado y mientras el ion se estit moviendo, no estii, por supuesto, en 
+equilibria t6rmico: estit tratando de llegar al equilibria, que consiste en quedarse 
+en el extrema del recipiente. Podemos ca!cular la velocidad de arrastre por media de 
+!a teoria cinCtica. 
+Resulta que con la matemittica que sabemos actualmente, en rea!idad no pode­
+mos calcular con precisiOn lo que sucederit, pero podemos obtener resultados aproxi­
+mados que muestran los rasgos esenciales. Podemos descubrir c6mo varian !as cosas 
+con la presi6n, 
+43-1
+
+con la temperatura, etc., pero no seril posible obtener exactamente los factores nume­
+ricos correctos que hay delante de todos los terminos. En consecuen_:ia, en nuestras 
+derivaciones no nos preocuparemos del valor preciso de los factores numb-icos. SOio 
+se los puede obtener con un tratamiento matemiltico mucho mils refinado. 
+Antes de considerar Jo que sucede cuando no hay equilibria, tendremos que exa­
+minar un poco mils de cerca lo que pasa en un gas en equilibria termico. Tendremos 
+que conocer, por ejemplo, cuill es el tiempo media entre colisiones sucesivas de una 
+mo!Ccula. 
+Cualquier mol&:ula experimenta una serie de colisiones con otras moleculas -na­
+turalmente que al azar-. En un largo periodo de tiempo T, una mol&::ula determinada 
+sufriril un cierto nU:mero N de choques. Si duplicamos la duraciOn del intervalo habril 
+el doble de choques. Luego, el nUmero de colisiones es proporciona\ al tiempo T. Lo 
+escribiremos asi: 
+N = T/T (43.1) 
+Hemos escrito la constante de proporcionalidad en la forma 1 /T, donde T tiene dimen­
+siones de tiempo. La constante T es el tiempo media entre colisiones. Supongan, por 
+ejemplo, que hay 60 colisiones en una hora; T es entonces un minuto. Diriamos que 
+T (un minuto) es el tiempo medio entre las colisiones. 
+Muchas veces deseamos hacer la siguiente pregunta: "lCuill es laprobabilidad 
+de que una mol&:ula experimente una colisi6n en el siguiente intervalo pequeiio de 
+tiempo dt?"La respuesta, que la podemos entender intuitivamente, es dth. Pero tra­
+temos de hacer un razonamiento mcl.s convincente. Supongan que habia un gran nU:mero 
+N de moleculas. l Cuil.ntas tendriln colisiones en el siguienteintervalo dt ?Si hayequilibrio, 
+nada varia en promedio con el tiempo. Por lo tanto, N moleculas esperando durante" dt 
+sufririln el mismo nU:mero de colisiones que una molOCula durante el tiempo N dt. 
+Sabemos que ese nUmero es N dth. Luego, el nUmero de choques de N molOCulas 
+es N dt h en el tiempo dt y la probabilidad de un choque para cualquier molecu­
+la es simplemente l/N por ese valor, o sea (I/N) (N dt/T)=dth, como habiamos 
+supuesto mils arriba. Es decir, la fracci6n de moJeculas que sufririn una colisi6n 
+en el tiempo dt es dth. Para dar un ejemplo, si T es un mlnuto, la fracciOn de 
+moleculas que sufriril colisiones en un segundo es 1 /60. Esto significa, naturalmente, 
+que I /60 de las molOCulas estim por casualidad lo bastante cerca de donde van a cho­
+car como para que sus colisiones ocurran en el minuto siguiente. 
+Cuando decimos que T, el tiempo medio entre colisiones, es un minuto, no quere­
+mos decir que todas las colisiones ocurririm a interva\os exactos de un minuto 
+Una particula determinada no tiene una colisi6n, espera un minuto y tiene otra coli­
+si6n. Los tiempos entre colisiones suce~ivas son completamente variables. No lo 
+necesitaremos para el trabajo que sigue, pero podemos hacer una pequefia digresi6n 
+para contcstar la pregunta: "i,Cuiles son los tiempos entre colisiones?" Sabemos 
+que para el caso anterior, el tiempo medio es un minuto, pero nos gustaria saber, 
+por ejemplo, cuil.l es la probabilidad de que no tengamos ninguna colisi6n durante 
+dos minutos. 
+Encontraremos la respuesta a la pregunta general: "(.Cui.I.I es la probabilidad de 
+que una moJecula ande durante un tiempo t sin tener una colisiOn?" En un instante 
+arbitrario --que llamamos t = 0-comenzamos a obser.,rar una mo!ecula determinada. 
+lCuil.les 
+43-2
+
+la probabilidad de que llegue has ta t sin chocar con otra molOCula? Para calcu­
+lar esta probabilidad, observamos lo que est<i ocurriendo con todas las N 0 mo­
+IOCulas dentro de un recipiente. Despues de haber esperado un tiempo t, encontra­
+remos que algunas habr8.n tenida colisiones. Sea N(t) el nUmero que no ha tenido 
+colisiones hasta el instante t. N(t) es, por supuesto, menor que N0• Podemas hallar 
+N(t) parque sabemos c6mo varia en el tiempa. Si sabemos que N(t) moleculas ban 
+Jlegado hasta t, el nUmero que llega hasta t + dt, N(t + dt), es menor que N(t) en el 
+nUmero que ha tenido colisianes durante dt. Hemos escrito mas arriba el nUmero 
+que colide en dt en funci6n de! tiempo media T: dN = N(t) dt/T. Tenemos la ecua-
+ci6n 
+N(t + dt) = N(I) - N(t)~· (43.2) 
+La cantidad de! primer miembro, N(t + dl), se puede escribir, de acuerdo con las 
+definiciones de! c:llculo infinitesimal, en la forma N(t) + (dN/dt)dt. Hacienda esta 
+sustituci6n, la ecuaci6n (43.2) da 
+dN(I) N(r) 
+dt=-7-· (43.J) 
+El nUmero de las que se pierden en el intervalo dt es proporcianal al nUmero de las 
+presentes e inversamente proporcional a la vida media T. La ecuaci6n (43.3) se pue­
+de integrar f8.cilmente si la escribimos en la forma 
+dN(r) 
+'fi(ij 
+dr 
+Cada miembro es un diferencial exacto, por Jo que la integral es 
+In N(t) = ~t /T + (una constante), 
+que es lo mismo que 
+N(t)--= (canstante)e-1t•. 
+(43.4) 
+(43.5) 
+(43.6) 
+Sabemos que la constantc debe ser precisamente N0, nllmero total de maleculas pre­
+sentes, puesta que a t .,..,- 0, todas empiezan a esperar su colisi6n "siguiente". Pode­
+mos escribir nuestro resultado en la forma 
+(4J.7) 
+Si deseamos la probabilidad P(t) de que no haya colisiones, la podemos obtener 
+dividiendo N(t) par N0 : 
+(43.8) 
+Nuestro resultado es: la probabilidad de que una molCcula dctcrminada sobreviva 
+un tiempo t sin sufrir colisiones es e-t/T, donde Tes el tiempo media entre colisianes. 
+La probabilidad camienza en I (o sea ccrteza) en I --= 0 y disminuye a mcdida quc t 
+aumenta. La probabilidad de que la molecula evite colisiones durante un tiempo 
+igual a Tes e··1 = 0,37 ... La probabilidad de que lo haga durantc un ticmpo mayor 
+que el t1empa medio 
+43-3
+
+es menor que un media. Eso est3. muy bien, porque hay bastantes molCcu\as 
+antes de chocar no sufren colisiones durante tiempos muchos mds largos quiu~ 
+ti em po media, por lo que el tiempo medio puede seguir siendo T. 
+Al principio definimos T como el tiempo medio entre colisiones. El resultado 
+obtenido en la ecuaci6n (43.7) dice tambi6n que el tiempo libre entre un instante 
+inicial arbilrario y la colisi6n siguiente es tambiin T. Podemos demostrar este hecho 
+un tanto sorprendente de la manera que sigue. El nU.mero de mokculas que sufren 
+su colisi6n siguiente en e! intervalo dt a un liempo t a partir de un instante inicial 
+elegido arbitrariamente, es N(t) dt/T. Su '•intervalo de tiempo hasta la siguiente co­
+lisi6n" es, por supuesto, precisamente 1. El "tiempo medio hasta la colisi6n siguien­
+te" se obtiene de la man era habitual: 
+tiempo medio hasta la colisi6n siguiente - I N__(f di. 
+Empleando el N(l) obtenido en (43.7) y calculando la integral, encontramos verdade­
+ramente que T es el ticmpo medio desde cualquier mstante hasta !a colisi6n siguiente. 
+43-2 El eamino libre medio 
+Otro modo de describir las colisioncs moleculares es hablar. no de\ tiempo entrc 
+colisiones, sino de! camino que recorre la particu!a entre colisione5". Si decimos 
+el tiempo media entre colisiones cs T y que !a~ mokculas ticnen una velocidad 
+v, podemos esperar que la distancia media entre colisiones, que llamaremos sea 
+simplcmcnte cl producto de T y F. Esta distancia entre colisioncs se denomina co­
+mUnmente ('amino fibre mediv: 
+camino hbre medio l - TV. (43.9) 
+En este capitulo seremos un poco imprccisos acerca de qui clase de promedio 
+entendemos en cua\quier caso particular. Los diversos promedios posibles -el valor 
+medio, el valor medio cuadrii.tico, etc. son todos casi igua!es y difiercn en factorcs 
+cercanos a uno. Como de todas maneras se necesita un an3.lis1s detallado para obte­
+ner los factores numt':ricos correctos, no es prcciso que nos prcocupemos de qut': 
+promedio se necesita para cualquier problema en particular. Tambien podemos ad 
+vertir al !ector que los simbolos algebraicos que estamos usando para algunas 
+cantidades lis1cas (por ejemplo, I para el camino libre medio) no siguen una con­
+venci6n de aceptaciOn general, pnnc1palrnente porque no hay acucrdo general. 
+Asi como la probabilidad de que una mol6cula tcnga una colisi6n en un intervalo 
+breve di es igual a dt/T, la probabilidad de que tenga una colisi6n a! recorrer una 
+distancia dx es dx/l. Usando los misrnos razonam1entos que anteriormentc, el lector 
+puede demostrar que la probabi!idad de que una mokcula recorra por lo mcnos una 
+distancia x antes de tener el choque siguicnte es e ' 11. 
+La d1stancia media que una mol6cu!a rccorre antes de chocar con otra -el cami 
+no libre media l- depender.il de cu.ilntas mo\eculas hay alrededor y de! "tamaii.o" de 
+~~:C~:~e~~la~~ e~ 1 ~~~~ ~~ ~0 =r~~;iL~1:ee~:~c~il~~c~a~i~~:l~~~~~n~:· ~~~-;~;::%~ 
+eficaz de colisi6n '', el mismo concepto que se usa en la fisica nuclear o en problcmas 
+de dispersi6n de luz. 
+43-4
+
+el area de colisiOn :s a c 
+el nUmero total de el irea total cubierta es on0 dx 
+moleculas es n0 dx Fig. 43-1. Secci61"! eficaz de colisi6n. 
+Consideremos una particula en movimimento que recorre una distancia dx a 
+traves de un gas que tiene n0 dispersores (molfculas) por unidad de volumen 
+{Fig. 43-1). Si observamos cada unidad de ilrea perpendicular a la direcciOn de mo­
+vimiento de la particula que hemos seleccionado, encontraremos que hay n0 dx 
+molfculas. Si cada una presenta un area efectiva de colisiOn, o como se llama co­
+mllnmente, "secciOn eficaz de colisiOn" a,,, el area total cubierta por los dispersores 
+es a..nudx-
+Por "secciOn eficaz de colisiOn" entendemos el area dentro de la cual debe estar 
+ubicado el centro de nuestra particula para que choque con una mo!Ccula determina­
+da. Si las 1110Ifculf\s fuesen pequeiias esferas (representaciOn clilsica) esperariamos 
+que ac= n(r 1 + rJ2, donde r1 y r 2 son los radios de los dos objetos que chocan. La 
+probabilidad de quc nuestra particula sufra una colisiOn es el cociente entre el il.rea 
+cubierta por las molfculas dispersoras y el il.rea total, que hemos tornado igual a 
+uno. Entonces, la probabilidad de una colisi6n al recorrer una distancia dx es sim­
+plemente a 0n 0 dx: 
+probabilidad de una colisiOn en dx = acno dx. (43.IO) 
+Hemos visto mas arriba que la probabilidad de una colisi6n en dx tambifn se 
+puede escribir en funciOn del camino libre medio l como dx/l. Comparando esto con 
+(43.l), podemos relacionar el Camino libre medio con la secci6n eficaz de colisiOn: 
+(43.11) 
+que es m:is facil de recordar si la escribimos en la forma 
+(43.12) 
+Se puede interpretar que esta formula dice que debe haber una colisi6n, en pro­
+medio, cuando la particula recorre una distancia l ta! que las moteculas dispersoras 
+podrian cubrir exactamente el il.rea total. En un volumen cilindrico de !ongitud I y 
+base de il.rea unitaria, hay n 0l dispersores; si cada uno tienc un .itrea Uc el il.rca total 
+cubierta es n0lac, quc es precisamente una unidad de il.rea. Toda el .itrea no esta cu­
+bierta, naturalmente, porque algunas mokculas estin parcialmente escondidas detras 
+de otras. Es por csto que algunas mo!Cculas van m.its ana de l antes de tener una co 
+lisi6n. Es s6!o en promedio que las mo!fculas tienen una colisiOn cada vez que 
+recorren la distancia {. Podcmos determinar la secci6n eficaz de colisi{m ac a partir 
+de medidas dcl camino libre mcdio {, y comparar el resultado con cillculos basados 
+en una teoria detallada de la estructura at6mica. jPero esto ya es otro tema! Vol­
+vamos, pues, al problema de los estados fuera del equilihrio. 
+43-5
+
+43-3 La velocidad de arrastre 
+Queremos describir lo que le sucede a una molecula, o a varias moleculas, que 
+en algim aspecto son diferentes de la gran mayoria de las moleculas de un gas. Nos 
+referiremos a las moleculas "de la mayoria" coma mo!OCulas "de fondo ~ y llamare 
+mos mo!eculas "especiales", o molOCulas S, para abreviar, a las molCculas diferentes 
+de las molOCulas de fondo. Una molecula puedc scr especial por cualquier nllmero 
+de razones: podria ser m3.s pesada que las molOCulas de fondo; podria ser un com­
+puesto quimico diferente: podria tener carga ekctrica -es decir, podria ser un ion 
+en un fondo de molCculas no cargadas-. A causa de sus masas o cargas diferentes, 
+las moleculas S pueden estar sujetas a fuerzas diferentes de las que actllan sobre las 
+molOCulas de fondo. Considerando Jo que Jes sucede a estas moli:culas S podemos 
+comprender los efcctos fundamentales que entran en juego de manera similar en 
+muchos fen6menos diferentes. Para nombrar algunos: difusibn de gases, corrientes 
+eli:ctricas en baterias, sedimentaci6n, separaci6n centrifuga, etc. 
+Comencemos concentr3.ndonos en el proceso fundamental: una molCcula S en 
+un gas de fondo est3. sujeta a alguna fuerza cspecificable F (que podria ser, por 
+ejemplo, gravitacional o e\Cctrica) y ademtis a otras fuerrns no tan especificables 
+debidas a las colisiones con las molCculas de fondo. Querriamos describir el compor­
+tamiento general de la molecula S. Lo que le ocurrc, en detalle, es que se precipita 
+de un lado para otro a medida que choca continuamente con otras moleculas. Pero 
+si la observamos atentamente, vcmos que hay cierto avance en la direcci6n de la 
+fuerza F. Decimos que hay un arrastre superpuesto a su movimiento al azar. Que­
+rriamos saber cu3.J cs la velocidad tie su arrastre -su velocidad de arrastre-- debida 
+a la fuerza F. 
+Si comenzamos a observar una mo!ecula S en cualquier instantc, podemos cspe­
+rar que estC en alguna parte entre dos colisiones. Adem3.s de la velocidad con quc 
+qued6 despues de su illtima colisi6n, esta adquiriendo una cierta componente de ve­
+locidad debido a la fuerza F. En un corto tiempo (un tiempo Ten promedio) espe­
+rimentar3. una colisi6n y empezar3. un .nuevo tramo de su trayectoria. Tendr3. una 
+nueva velocidad inicial pero la misma aceleraci6n debida a F. 
+Para no complicar las cosas por el momento, supondremos que despues de cada 
+colisi6n nuestra molCcula S tiene un comienzo completamente "nuevo ". Es decir 
+que no conserva el recucrdo de la accleraci6n pasada dcbida a F. Esta podria ser 
+una hip6tesis razonable si nuestra moli:cula S fuera mucho mas liviana que las mo­
+IOCulas de fondo, pero seguramente no es v3.lida en general. Mis adelante discutire­
+mos una hip6tesis mejorada. 
+Por el momenta, entonces, nuestra hip6tesis es que la molOCula S sale dt: cada 
+co\isibn con una velu1Cidad que puede estar en cualquier direcci6n con igual probabi­
+lidad. La vdocidad imcial la llevarii. igualmente en todas direccioncs y no contribuir:i 
+a ninglln movimiento neto, por lo que no nos preocuparemos mils de su velocidad 
+inicial despues de una colisiim. Adem3.s de su movimiento al azar, cada mo!Ccula S 
+tendr3., en cualquier momento, una velocidad adicional en la direcci6n de la fuerza 
+F, quc ha adquirido desde su Ultima colisi6n. i,Cu3.J es el valor medio de esta parte 
+de la velocidad? Es simplemente la aceleraci6n F/m (donde mes la masa de la mo­
+li:cula S) multiplicada por el tiempo media transcurrido desde la Ultima colisi6n. 
+Ahora bien, el tiempo medio desde la Ultif1lll colis16n debe ser igual al tiempo medio 
+hasta la colisi6n siguiente, al cual hemos llamado 
+43-6
+
+T mils arriba. Por supuesto, la ve!ocidad media debida a F es precisamente lo que 
+hemos llamado velocidad de arrastre, por lo que tenemos la relaci6n 
+(43.12) 
+Esta relaci6n bilsica es el nudo de nuestro argumento. Puede haber alguna compli­
+caci6n para determinar T, pero el proceso fundamental estit definido por la ecua­
+ci6n (43.13) 
+Notar.itn ustedes que la velocidad de arrastre es proporcional a la fuerza. Des­
+afortunadamente no hay ningUn nombre de uso general para la constante de 
+proporcionalidad. Se han usado difcrentes nombres para cada uno de !os diversos 
+tipos de fuerza. Si en un problema de electricidad la fuerza se escribe coma la 
+carga por el campo el6ctrico, F = qE, la constante de proporcionalidad entre la 
+velocidad y el campo e!Cctrico E se denomina comllnmente '"movilidad ". A pesar de 
+la posibilidad de un poco de confusiOn, uti\izaremos el tCrmino movilidad para el co­
+ciente entre la velocidad de arrastre y la fuerza, cualquiera que sea la fuerza. Escri­
+bamos 
+Varrnsuc= µF (43.14) 
+en general, llamando movilidad a 11. SegUn la ecuaci6n (43.13) tenemos 
+µ = T/111. (43.15) 
+La movilidad es proporcional al tiempo media entre colisiones (hay menos colisiones 
+para frenar!a) e inversamente proporcional a la masa (mayor inercia significa menor 
+velocidad adquirida entre colisiones). 
+Para obtener el coeficiente numfaico correcto en la ecuaci6n (41.13), que est3. 
+correcta ml co mo esti, se necesita alglln cuidado. Sin intenci6n de confundir, 
+debcmos alin seilalar que los razonamientos tienen una sutileza que s6lo se puede 
+apreciar por medio de un estudio cuidadoso y detallado. Para ilustrar que hay difi­
+cultades a pesar de las aparicncias, repetiremos el camino que nos llev6 a la ecua­
+ci6n (43.13) de un modo razonable pero errado (iY es el que se encontrara en 
+muchos !ibros de texto!). 
+Podriamos habcr dicho: el tiempo media entre colisiones es T. DespuCs de una 
+colisiOn la particula parte con una velocidad al azar, pero adquiere una velocidad 
+adicional entre colisiones que es igual a la aceleracion por el tiempo. Como tarda 
+el tiempo Ten llegar a la colisilm siguiente, llega con la vclocidmi (F/m)T. En el mo­
+menta de la colisi6n tcnia velocidad nula. Luego entre las dos colisiones tiene en 
+promedio una velocidad que es la mitad de la velocidad final, por lo que la velocidad 
+media de arrastre es ~FT/m. (iErrado!) Este resultado es incorrecto y el de la 
+ceuaciL1n (43.13) es correcto. aunque los argumentos puedan parecer igualmente 
+satisfactorios. La razOn el segundo resultado estC errado cs alga sutil y tiene 
+que ver con lo siguiente: razonamiento se hace como si todas las colisioncs estu-
+vicsen ~cparada~ por e! intervalo media T. El hecho es que a\gunos tiempos son mils 
+corto~ y otros m~·is largos que el medio. Los tiempos cortos se presentan 
+mcis n me1111do pero dan una menor a la velocidad de arrastre porque 
+dan menos oportunidad de "ponerse a andar realmente ". Si se toma debida cuenta 
+de la distribuci611 de tiempos libres entre colisiones, ~e puede demostrar que no debe estar 
+el factor 1 · obtenido en cl scgundo razonamiento. El error se cometi6 al tratar de re­
+lacionar mediante un argumento simple la velocidad final media con la velocidad 
+media misma. 
+43-7
+
+La relaci6n no es simple, de modo que es mejor que nos concentremos en lo que que­
+remos: !a velocidad media misma. El primer razonamiento que hicimos determina la 
+velocidad media directamente -iY correctamente!-. jPero quizits ahora podemos ver 
+por que en general no trataremos de obtener los coeficientes numericos correctos en 
+nuestras derivaciones elementales! 
+Volvamos ahora a nuestra hipOtesis simplificativa: cada colisi6n suprime el re­
+cuerdo de\ movimiento pasado --despues de cada co\isi6n se tiene una nueva parti­
+da-. Supongan que nuestra molecula S es un objeto pesado en un fondo de molecu­
+las mils ligeras. Por lo tanto nuestra mokcula S no perderci su momentum "hacia 
+adelante .. en cada colisi6n. Serian necesarias varias colisiones para que su movi­
+miento se "azarizara" de nuevo. En su lugar deberiamos suponer queen cada coli­
+si6n -en cada intervalo T en promedio- pierde cierta fracciOn de su momentum. No 
+elaboraremos los detalles, sino que diremos simplemente que el resultado es 
+equivalcnte a reemplazar T, tiempo medic de colisi6n, por un T nuevo -y mils largo­
+que corresponde al "tiempo media de olvido", el tiempo medio que tarda en olvidar 
+su momentum hacia adelante. Con esta interpretaci6n de T podemos usar nuestra 
+f6rmula (43.15) en situaciones que no son tan simples como la que supusimos iiii­
+cialmente. 
+43-4 Conductividad iOnica 
+Apliquemos ahora nuestros resultados a un caso particular. Supongan que .tene­
+mos un gas en un recipiente en el que tambien tiay algunos iones -iitomos o molCcu­
+!as con una carga electrica neta-·. Mostramos esquemiiticamente !a situaci6n en la 
+figura 43-2. Si dos paredes opuestas del recipiente son p!acas metillicas, podemos 
+conectarlas a los terminales de una bateria y producir asi un campo elCctrico en el 
+gas. El campo elCctrico daril lugar a una fuerza sobre \os iones. por Jo que comenza­
+ritn a desplazarse hacia una u otra de las placas. Se induciril una corriente e\Cctrica 
+y el gas con sus iones se comportar<i como un resistor. Cakulando el flujo de iones 
+a partir de la velocidad de arrastre podemos determinar la resistencia. Preguntamos 
+especificamente: ~c6mo depende el flujo de corriente elCctrica de la diferencia de 
+potencial V que aplicamos a las dos placas? 
+A la bateria de voltajc V 
+Fig. 43-2. Comente elE!ctrica en un gas 
+iomzado. 
+43-8
+
+Consideremos el caso de que nuestro recipiente es una caja rectangular de longi­
+tud b y secciOn transversal A {Fig. 43-2)- Si la diferencia de potencial, o voltaje, 
+entre una placa y otra es V, el campo eJOCtrico E entre las placas es V!b. (El po­
+tencial eli:ctrico es el trabajo que se hace al llevar una carga unitaria de una 
+placa a la otra. La fuerza sobre una carga unitaria es E. Si E es el mismo en todos 
+los puntos entre las placas, lo cua1 es una aproximaci6n suficientemente buena por 
+ahora, el trabajo realizado sobre una carga unitaria es simplemente Eb, de donde 
+V =Eb.) La fuerza especia1 sobre un ion de! gas es qE, de donde q es la carga de! 
+ion. La velocidad de arrastre del ion es entonces I' por esta fuerza, o sea 
+Varrastre = µF = µqE = µq f (43.16) 
+Una corrientc eli:clrica I es el flujo de carga en la unidad de tiempo. La corriente 
+elOCtrica hacia una de las placas cstti. dada por la carga total de Jos iones que lleguen 
+a la placa en la unidad de tiempo. Si los iones se desplazan hacia la placa con la 
+velocidad varrasrre• los que estim dentro de una distancia (va.,-astr• • 1) llegariln a la 
+placa en el tiempo T. Si hay un n; iones por unidad de volumen, el nllmero que llega 
+a la placa en el tiempo Tes (n1-A · varra.mo • 7). Cada ion lleva una carga q, por lo que 
+tenemos 
+carga recogida durante T= qn;Ararrasirc T. (43.17) 
+La corriente I es la carga recogida durante T dividida por T, de donde 
+(43.18) 
+Sustituyendo v=asire dada por (43.16), tenemos 
+I = µq1n;. * V. (43.19) 
+Encontramos que la corriente es proporcional al voltaje, lo cual es precisamente la 
+fonna de la ley de Ohm, y que la resistencia Res la inversa de la constante de propor­
+cionalidad: 
+l , A 
+R=µqn;b· (43.20) 
+Tenemos una relaci6n entre la resistencia y las propiedades moleculares n;, q y µ, 
+que a su vez depende de m y de T. Si conocemos n1 y q por mediciones at6micas, se 
+podria usar una medida de R para detenninar µ, y de µ tambii:n T. 
+43-5

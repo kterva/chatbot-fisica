@@ -1,0 +1,507 @@
+Tema: Rueda dentada y trinquete (Capítulo 46 — Lecciones de Física, Feynman, Vol. I)
+
+Rueda dentada y trinquete 
+46-1 COmo trabaja una rueda 46-3 Reversibilidad en med.nica 
+dentada 
+46-4 Irreversibilidad 
+46-2 La rueda dentada eomo 
+m3quina 46-5 Orden y entropia 
+46-1 CC.mo trabaja una naeda dentada 
+En este capitu!o discutiremos la rueda dentada y trinquete, un disposittvo muy 
+simple que permite que un eJe gire solamente en un sentido. La posibilidad de que 
+tengamos algo que gire 1.olamentc en un ~entido rcquiere un cierto an.ilisis detallado 
+y cuidadoso y hay algunas consecuencias muy interesantes. 
+El plan de la discusi6n surgi6 ·cuando se trat6 de inventar una explicaci6n ele­
+mental, desde e! punto de vista molecular o cinetico, para el hecho de que hay una 
+camidad miixima de trabaJo que se puede extraer de una miiquina t6rmica. Natural­
+mente, hcmos visto la esencia de! razonamicnto de Carnot, pero seria bueno encon­
+trar una explicaciOn que sea elemental en el sentido de que podamos ver lo que esta 
+succdiendo fisicamente. Ahora bien, hay demostraciones matem3.ticas complicadas 
+tomando como base las leyes de Newton para demostrar que sOlo podemos obtener 
+una cicna cantidad de trabajo cuando el calor lluye de un lugar a otro, pcro es muy 
+dificil hacer esto en una demostraciOn elemental. Abrcviando, no lo entendemos 
+aunque podamos seguir el proceso matem<i.tico. 
+En el razonamiento de Carnot, el hecho de que no se pueda extraer mas que una 
+cierta cantldad de trabajo al ir de una temperatura a otra se deduce de otro axioma: 
+si todo estii. a la misma temperatura el calor no se puede convertir en trabajo me­
+diante un proceso ciclico. En primer lugar. vo!vamos atr3.s y tratemos de ver. al 
+menos en un ejemplo elemental, por quC es verdadera esta afirmaciOn tan simple. 
+Tratemos de inventar un d1sposi11vo que v1ole la Segunda Ley de Termodi-
+nii.mica. csto es. un artcfacto que saque trabajo de un depOsito de estando 
+todo a la misma temperatura. Digamos que tenemos una caja de gas a una cierta 
+tempcratura y quc dcnlru hay un eje con aspas. (Vean figura 46-1. pero tomen T, = 
+--o T1 = T, por ejemplo). A causa de! bombardeo de las molCculas de gas sobre las 
+aspas. Cstas oscilan y se mueven con pequeiias sacudidas. Todo lo que tcnemos que 
+hacer es colocar en el otro extremo del eje una rucda que s6lo pucda moverse en un 
+sentido -rueda dentada y trmquete--. Ast, cuando 
+46-1
+
+Fig. 46- 1. La mllquina rueda dentada­
+tnnquete. 
+el eje trate de vibrar en un sentido, no girarit, y cuando vibre en el otro, s( girara. 
+La rueda girar3. !entamente, y jquiz3.s hasta podriamos atar una pulga a una cuerda 
+que pende de un tambor en el eje y levantar!a! Preguntemonos si esto es posib!e. 
+SegUn la hipOtesis de Carnot es imposible. Pero si la miramos, a prima facie parece 
+muy posib\e. Por lo tanto, tenemos que considerarlo mils cuidadosamente. Verdade­
+ramente, si consideramos la rueda dentada y trinquete vemos muchas complicaciones. 
+En. primer lugar, nuestra rueda dentada idealizada es lo mils simple posible, pero 
+aun asi hay un trinquete y este debe tener ·un resorte. El trinquete debe volver des­
+pues de pasar un diente, por !o que es necesario el resorte. 
+Otro rasgo de esta rueda dentada y trinquete, que la figura no muestra, es com­
+p\etamente esencial. Supongan que el dispositivo estuviese formado de partes per­
+fectamente el<isticas. Despues que _el trinquete ha sido levantado hasta el final de! 
+diente y es empujado por el resorte, rebotarli. contra la rueda y continuarit rebotan­
+do. Entonces, cuando llegue otra fluctuaci6n. la rueda podria girar en el otro 
+sentido, jya que el diente podria pasar por debajo durante el momento en que el 
+trinquete estuvo levantado! Por lo cual, una parte esencia\ de la irreversibilidad de 
+nuestra rueda es un mecanismo amortiguador que pare \os rebotes. Cuando hay 
+amortiguamiento. naturalmente, la energia que habla en el trinquete pasa a !a 
+rueda y se transforma en calor. De modo que la rueda se irit ca!entando a medida 
+que gira. Para simplificar las cosas, podemos colocar un gas alrededor de la 
+rueda para que tome parte del calor. De todas formas, digamos que el gas aumenta 
+en temperatura al mismo tiempo que la rued!l. ~Seguirit esto asi para siempre? 
+jNo! El trinquete y la rueda? ambos a cierta temperatura T, tambien _tienen movi­
+miento browniano. Este mov1miento es tal que de vez en cuando, acc1dentalmente. 
+el trinquete se levanta sobre un diente exactamente en el momento en que el mo­
+vimiento browniano de las aspas estit tratando de girar el eje hacia atrits. Y cuanto 
+mas se calienta todo, mils frecuentemente ocurre esto. 
+Por lo tanto. esta es la raz6n por la que este dispositivo no trabaja en movimien­
+to perpetuo. Cuando las aspas son empujadas, algunas veces el trinquete se levanta 
+sobre un diente. Pero otras veces, cuando trata de girar en el otro sentido. el 
+trinquete se ha Jevantado ya debido a las fluctuaciones de los movimicntos en el 
+extremo de la rueda jy esta se vuelve en el otro sentido! El resultado neto es nada. 
+No es dificil demostrar que cuando la temperatura en los dos !ados es igual, no 
+habrit movimiento promedio neto de la rueda. Naturalmente la rueda vibrarit mucho 
+en un sentido y en el otro, pero no harit lo que nosotros querriamos, que es girar 
+s61o en un sentido.
+
+Veamos la raz6n. Es necesario realizar trabajo contra el resorte para que se 
+levante el trinquete hasta el tape de un diente. Llamemos t a esta energia y sea (} 
+el <ingulo entre dientes. La probabilidad de que el sistema pueda acumular suficiente 
+energia E para llevar el trinquete hasta el tope de un diente es e-<lkT. Pero la proba­
+bilidad de que el trinquete este accidentalmente levantado es tambien e- d kT. Por lo 
+cual el nllmero de veces que el trinquete estii levantado y la rueda puede girar hacia 
+atrils libremente es igual al nllmero de veces que hay suficiente energia para girarla 
+hacia adelante cuando el trinquete estit abajo. Asi obtenemos un "equilibria" y la 
+rueda no girarit. 
+46-2 La rueda dentada como mliquina 
+Demos ahora un paso mils. Tomemos como ejemplo cuando la temperatura de 
+las aspas es T1 y la temperatura de la rueda, rueda dentada, es T2 y que T2 es 
+menor que T1• Como la rueda estit fria y las fluctuaciones del trinquete no son rela­
+tivamente frecuentes, serit muy dificil que el trinquete alcance una energia t. A 
+causa de la alta temperatura Tl' las aspas alcanzar<in con frecuencia la energia E, 
+por lo que nuestro dispositivo irit en una direcci6n, como se lo diseii6. 
+Ahora querriamos ver si podemos levantar pesos. Atamos una cuerda al tambor 
+del media y colocamo5 un pe5o en la cuerda, como nuestra pulga, por cjcmplo. Diga 
+mos que L es el torque debido al peso. Si L no es muy grande, nuestra m8.quina 
+levantarU el peso porque las fluctuaciones brownianas hacen que se mueva con mas 
+probabilidad en un sentido que en otro. Queremos encontrar qui: peso puede levan­
+tar, con que rapidez gira, etc. 
+Consideremos, en primer lugar, un movimiento hacia adelante, que es el modo 
+corriente en que se diseiia una rueda dentada para que gire. Para que de un paso 
+hacia adelante, lCU8.nta energia se tiene que tomar prestada de las aspas? Tenemos 
+que tomar prestada una energia E para levantar el trinquete. La rueda gira un iingu­
+lo 0 contra el torque L, par lo que tambien necesitamos la energia LO. La cantidad 
+total de encrgia quc tenemos que tomar es, pues, f + LO. La probabilidad de que la 
+obtengamos es proporcional a e-(1 + UJ)I kr,. En realidad, no es s6lo cuestiOn de 
+obtener la energia, sino que tambien querriamos saber el nUmero de veces por se­
+gundo que tiene csta energia. La probabilidad por segundo es proporcional a 
+e-(< + LOJkT, y llamaremos l/T a la constante de proporcionalidad. De todos modos 
+se cancelarU al final. Cuando sucede un paso hacia adelante, el trabajo efectuado 
+sabre el peso es L(}. La energia tomada de las a spas es i + L8. El re so rte se pone 
+tenso con energia E y luego catap!Un, se dispara y esta energia se transforma en 
+calor. Toda la encrgla que se ha tomado se emplea en levantar el peso y en accionar 
+el trinquete, que luego cae y da calor al otro !ado de! diente. 
+Consideremos ahora el caso contrario que es el movimiento hacia atr8.s. ;,QuC 
+sucede aqui? Para hacer que la rueda vaya hacia atras todo lo que tenemos que 
+hacer es dar energia para levantar el trinquete lo bastante alto para que !a rueda 
+se escape. Esta es al.in la energia l. La probabilidad par segundo de que el trinquete 
+se levante esa altura es ahora (l/T)e- 11 kT,. La comtante de proporciqnalidad es la 
+misma, pero ahora aparece kT2 porque !a temperatura es difercntc. Cuando esto 
+~ur.:cdc, ~e libera trabaJO ya que la rueda va hacia atrits. P1erde una libera 
+el trabajo LO. La energia tornada del 5isterna dentado es f, y la al gas 
+a T, dondc cstim la5 aspas es 
+46-3
+
+Tabla 46-1 
+Resumen del funcionamiento de la rueda dentada y trinquete. 
+Hacia adelante: Necesita la energia E + L() de las aspas. · . probabilidad 
+Jlacia atrtis: 
+por segundo =+ e -{LO+ ' 11 ~F, 
+Toma de las as pas LO + E 
+EfectU.a el trabajo LB 
+Da a la rueda dentada c 
+Necesita la energia 
+Toma de la rueda 
+Libera e! trabajo 
+Da a las aspas 
+' L& 
+LO+ t 
+para el trinquete. probabi-
+lidad por segundo = f e -1 I u; 
+l 
+lo rnismo que antes con sig­
+nos opuestos. 
+Si cl sistcma es reversible, las probabilidadcs por segundo son iguales, por lo que 
+L +Lt! 
+T1 
+Calor a la 
+Calor de las aspas ' LH-+ t. 
+LO + E. Hay que pcnsar un poco para ver la raLOn de e~to. Supongan quc el trin­
+quete se ha levantado por si mismo accidentalmente debido a una fluctuaciOn. En 
+tonces, cuando vuelve a cacr y cl resorte lo empuja contra el diente, hay una fucrza 
+trata de girar la rueda porque el dicnle est:i empujando en un piano oblicuo. Esta 
+realiza trabajo y lo mismo hace la fuerza debida a los pesos. Por lo cual las 
+forman la fuerza total y toda la encrgia que se va libcrando lentamcnte 
+aprecc en el extremo con aspas en forma de calor. (Naturalmcnte debc ser asi por la 
+conservaciOn de la energia, jpero se debe tener cuidado de considerar las cosas en su 
+totalidad!) Vemos que todas cstas encrgias son exactamente iguales pcro invertidas. 
+Por lo que, segU.n cmll de cstas dos probabilidades por segundo sea mayor, el peso seri 
+levantado lentamentc o dejado caer lenlamente. Natura!mcnte estani sacudiCndose 
+constantcmente, ycndo hacia arriba durantc/un instante y hacia abajo durante otro, 
+pero estamos hablando del comportamiento,..medio. 
+Supongan que para un pe~o particula~· sucedc que las probabilidades son iguales. 
+aiiadimos un reso infinitesimal .la la cuerda. El peso descenderii lentamcnte 
+trabajo en la _m.ilqu.ina. Se'. tomar.il energia de la rueda ~ se lo clan\. ~ 
+el contrano quitamos 1,un poquito de peso, el desajuste ocurrira 
+es lcvantado, y se toma calor de las aspas y se lo da a la rucda. 
+las condiciones de un ciclo reversible de Carnot, siem­
+pre que sea que las dos probabilidades son iguales. Esta condiciOn es cvi­
+dentemente que (r -t LO)/T 1 = f/"F2 • Digamos que la milquina cstii lcvantando 
+el peso. Se una encrgia Q1 de las aspas y sc entrega una energia 
+y las dos en la proporci6n (~ + LA)/ L Si cstamos bajando cl 
+46-4
+
+tambii:n tenemos Q1/ Q2 = (E + LO)/ r. Entonces (tabla 46-1) tenemos 
+AUn mils, el trabajo que obtenemos es a la energia tomada de las aspas como Lf} 
+es a LO + E, y por lo tanto como (T1 - T2)/T!' Vcmos que nuestro artefacto no 
+puede extraer mils trabajo que este, operando revcrsiblemente. Estc es el resultado 
+que esperibamos de! razonamiento de Carnot y el principal resultado de esta !ec­
+ci6n. Sin embargo, podemos usar nuestro artefacto para entender algunos otros fen&­
+menos, aunque sea fuera del equilibria, y por lo tanto mils alli del imbito de la ter­
+modinitmica. 
+\ lw 
+-~--~----'-
+' --
+Fig. 46-2. Velocidad angular de la rueda 
+dentada en funci6n del torque. 
+C alculemos ahora con que rapidez giraria nuestro artefacto de un solo sen ti do 
+si todo estuviese a la misma temperatura y colgilsemos un peso del tambor. Si tira­
+mos muy, pero muy fuerte, naturalmentc, hay toda clasc de complicacionc~. El 
+trinquetc se desliza por encima de la rueda. o el resorte se rompe, o cualquier otra 
+cos« .. Pero supongan que tiramos lo suficientemente sua\'C como para que todo tra-
+baje pcrfectamente. Es estas circunstancias, el an<'ilisis anterior es para la 
+probabi!idad de que la rueda vaya hacia adelante o hacia atrlls, recordamos 
+que las dos temperaturas son igualcs. En cada paso se obtiene un ilngulo 0, por lo 
+que !a velocidad angular cs IJ por la probabilidad de uno de eslos saltos por segun­
+do. Va hacia adelante con una probab1lidad (I I ;)e- (, + U!!' kT y hacia atnis con una 
+probab•lidad (I/ T)e _,'At, ~ obtenemo~ para la velocidad angular 
+w = (8/T)e-(•Tf,!)/kT - e-•/kT 
+= (B/ry-•ikT(e-L9/kT _ I). (46.1) 
+Si representamos 1,1 de L, obtcncmos la curva que muc~tra la figura 46-2. 
+Vemos que es que L sea pos1tiva o negativa. Si L aumenta positiva-
+mente, lo que ..:uando tratamos de llevar la rueda hacia atrils, !a velocidad 
+hacia atrils sc a una constante. Cuando L se hace negativa, w realmente 
+"de5pega". ya que ;ea una enorme potencia es muy grande! 
+muy 
+largramleparauna 
+quc sc obturn de 
+en un scntido es muy 
+46-5
+
+fuerza pequeiia. Yendo en el otro, podemos aplicar una fuerza muy grande y aUn 
+asi apenas gira la rueda. 
+Encontramos lo mismo en un rectijlcador etectrico. En lugar de la fuerza tene­
+mos un campo elb:trico y en lugar de la velocidad angular, una corriente e!Cctrica. 
+En el caso de un rectificador, el voltaje no es proporcional a la resistencia y la 
+situaci6n es asim6trica. El mismo an81isis que hicimos para el rectificador mec0:nico, 
+servir0: tambiCn para un rectificador e!Cctrico. De hecho, la formula que acabamos 
+de obtener es tipica de la capacidad de los rectificadores para conducir corriente 
+en funci6n de sus voltajes. 
+Quitemos ahora todos los pesos y consideremos la m<i.quina original. Si Ti fuese 
+menor que T1, la rueda dentada iria hacia adelante, cosa que cualquiera est0: dis­
+puesto a creer. Pero lo que es dificil de creer, a primera vista, es lo contrario. Si Ti 
+es mayor que Tl' jla rueda gira en sentido opuesto! Una rueda dentada dinitmica 
+con un mont6n de calor gira por si misma hacia atris, ya que su trinquete est0: re­
+botando. Si el trinquete esti inclinado por un momenta en algUn punto, empuja el 
+piano inclinado lateralmente. Pero siempre estil empujando en un piano inclinado, 
+porque si sucede que se levanta lo bastante para que pase el tope de un diente, el 
+piano inclinado tambiCn se des!iza y vuelve a caer en un piano inclinado. Por con­
+siguiente, juna rueda dentada y su trinquete, calientes, estim idealmente construidos 
+para girar en una direcci6n exactamente opuesta a aquella para la cual fueron dise­
+li.ados originalmente! 
+A pesar de toda nuestra maestria en diseiios desequilibrados, si las dos tempc­
+raturas son exactamente iguales, no hay mayor propensi6n a girar en un sentido 
+que en otro. En el momenta en que estemos observando puede que estC girando 
+en un sentido o en otro, pero a lo largo de la carrera no llega a ningUn sitio. Este 
+hecho de que no llega a ningUn sitio es realmente el profundo principio fundamen­
+tal en el que se basa toda la termodinitmica. 
+46-3 Reversibilidad en meciinica 
+lQu6 principio mecilnico mils profundo nos dice que, a la Jarga, si se conserva 
+la temperatura igual en todas partes nuestro artefacto no girara ni a la derech<> ni 
+a la izquierda'! Tenemos evidentemente una proposici6n fundamental: no hay modo 
+de diseiiar una mBquina que, abandonada a si misma, tenga mis probabilidad de 
+girar en un sentido que en otro despues de un tiempo suficientemente largo. Debe­
+mos ver c6mo esto es una consecuencia de las !eyes de la mecil.nica. 
+Las leyes de la mecilnica son mils o menos asi: la masa por la aceleraci6n es la 
+fuerza, y !a fuerza sobre una particula es una funci6n comp!icada de las posiciones 
+de todas las otras particulas. Hay otras situaciones en las que la fuerza depende de 
+la velocidad, coma en el magnctismo, pero no consideremos esto ahora. Tomemos 
+un caso mil<> sencillo, como la gravedad, donde las fuerzas dcpcnden llnicamente de 
+la posic16n. Supongan, pues, que hemos resue!to nuestro conjunto de ecuac1oncs y 
+obtenido un cicrco movimicnto x(I) para cada partk:ula. En un sistema lo suticien­
+tementc complicado, las solucwnes son muy complicadas y lo que sucedc en el tiem­
+po resulta muy sorprendente. Si escribimos cualquier arrcg!o que deseemos para las 
+particu!as, iVcrcmos que este arreglo ocurre realmente si esperamos un tiempo su 
+ficientemente largo! Si seguimos nuestra soluci6n durante un tiempo suficicntcmcntc 
+largo, ella intenta hacer todo lo quc pucde, por asi dccir. Esto no cs :.1bsnlu111mcntc 
+46-6
+
+necesario en los dispositivos mas simple~. pero cuando los sistcma> se haccn lo >ufi­
+cientemente complicados, con .3.tomos sufidentes, sucede asl. L2.. soluciOn tambien 
+puede hacer algo mas. Si resolvemos las ecuaciones de movimiento, podemN obtener 
+ciertas funcioncs taJes como t + P + 13• Sostenemos que otra soluci6n tambiCn 
+seria -t + t 1 ~tJ. En otras palabras, si sustituimos i en todas por en la so­
+luci6n completa, tambien obtendremos una soluci6n de la 
+una consecuencia de! hecho de que si sustituimos t por -t en 
+original, nada se cambia, va que aparecen solamente las 
+a /. Esto sigoifica que si tencmos un cierto movimiento, 
+opuesto tambifo es posib!e. En la confusi6n total que rcsu!ta de esperar un 
+~uficientemente largo, se encuen:ra que unas veces va en una direcciOn y 
+direcciOn opuesta. Ninguno de los dos movimientos es e! 
+to, es imposible diseiiar una m.iquina que, a !a larga, 
+una direcciOn que en !a opuesta, si la mil.quma es lo rnfioicc't""'"" 
+Uno podria pensar en un ejemplo para el cual esto es 
+tomamos una rueda. por ej"Cmplo, y hacemos que gire en el 
+en el mismo sentido para siempre. Por ello. hay algunas 
+servaci6n dcl momentum angular, que violan el razonarniento 
+solamente que el razonamicnto se haga c-on un poquito mils 
+paredes toman el momentum angular, o algo parecido, y de este modo no 
+teyes de conscrvac!On especia!es. Entonccs. si el sistema es suficientcmente 
+cado, el razonamiento es villido. Se basa en el htcho de que las !eyes de la 
+ca son reversibles. 
+Por inter<:s histOrico, quernamos seiialar un dispositivo inventado por 
+que fue el primero en desarrollar la teoria dinii.mica de los gases. Supuso la 
+siguiente: tenemos dos cajas de gas a la misma temperatura. con un pequcifo 
+entre ellas. En e! agujero se sienta un pequefi.o demonio {;que puede ~er una 
+na, naturalmente!). E! agujero tiene una puerta que el dcmonio puedc abrir 
+El observa las mo!eculas que vienen de la izquierda. Siempre que ve 
+pida, abre la puerta. Cuando ve una lcnta, deja Ia puerta cerrada. 
+sea un demonio de primera, puede tener ojos en la nuca. y hacer lo 
+mo!eculas de la dcrecha. Deja quc pasen las lentas a la iLquierda y 
+derecha. Muy pronto la parte izquierda estarii. fria y la dcrecha caliente. 
+;,se han vio!ado !as ideas de la termodinil.mica porque podemos tcner 
+monio? 
+Resu[ta que, si construimos un demonio de tamaii.o finito, el mismo 
+se pondril calicnte dcspues de un. momento que no podrit ver claro. El 
+sencillo pNiblc seria, por ejemplo, una puerta trampa sujeta a la parte 
+agujero mediantc un resortc. Una mo!ecula rilpida atraviesa 
+tar la puerta trampa. La molecula lenta no puede 
+esto no es otra cosa que nuestra rueda y trinquete un poco 
+el mecanismo se calentaril. Si suponemos que el calor 
+infinito, se debe calentar. Ticne solamente un nUmero 
+internos, por lo que no se puede desembarazar del calor 
+observaciOn de !as molfrulas. Pronto se vcr.3. tan sacudido por el 
+niano que no puede decir si viene o va, y mucho menos ~i las 
+van, por lo que no sirve.
+
+46·4 lrreversibilidad 
+;,Son reversibles todas las !eyes de la fisica? ;Evidentemente no! jTraten sola· 
+mente de desbatir un huevo! Pasen una pelicula hacia atras, y solamente se tarda 
+unos minutos para que todo el mimdo comience a reir. La caracteristica mils natu 
+ral de todos los fenOmenos es su obvia irreversibilidad. 
+(;De dOnde provienc !a irreversibi!idad? No de !as leyes de Newton. Si sostene· 
+mos quc e! comportamiento de todo se tiene que emender en Uitimo termino median· 
+tc la~ ]eyes de la fisica, y si tambien resulta que todas las ecuaciones tienen !a 
+fami1stica propiedad de que si ponemos I = ·I tenemos otra soluci6n. entonces todo 
+fen6rneno es reversible. i,COmo es entonces queen la naturaleza en gran escala, las 
+cosas no son reversibles? Obviamente debe haber alguna ley, alguna ecuaciOn fun· 
+damental aunque quinis en electriddad, quin\.s en la fisica del neutrino, en 
+la cua! sf importa de modo marcha el tiempo. 
+Discutamos esta pregunta ahora. Ya conocemos una de estas leyes. la que dice 
+que la entropia siempre estil aumentando. Si tenemos una cosa caliente y otra fr!a, 
+el calor pasa de la caliente a la fria. Por esto !a !ey de la entropia cs una de tales 
+\eyes. Pero esperamos entender la !ey de la entropia desde el punto de vista de la 
+mec.imca. De hecho, acabamos de lener txito al obtener todas las consecuencias 
+del razonamicnt0 de que el calor no puedc fluir hacia atras por si mismo exclusiva· 
+mentc por razones mec.inicas, y con e!\o obtuvimos una comprensiOn de la Segunda 
+Ley. Aparentemente podemos obtener irreversibi!idad de ecuaciones reversibles. 
+Pero, Jue solamente un razonamiento mecimico el que usamos? ConsiderCmoslo 
+con mas cuidado. 
+Ya que nuestra pregunta tiene que ver con la entropia, el prob!ema es tratar 
+de encontrar una descripciim microsc6pica de la cntropia. Si decimos que tenemos 
+una cierta cantidad de cnergia en algo, como en un gas, entonces podemos obtener 
+una irnagen microsc6pica de ello y decir que cada 3.tomo tiene una cierta energia. 
+Todas cstas energias sumadas nos dan la energla total. De! mismo modo, quiz:is 
+cada <ilomo ticne u:ia cierta entropia. Si !o sumamos iodo, tendremos la entropia 
+total. La cosa no es tan facil, pero veamos lo que sucede. 
+Como ejemplo, calculemos !a difcrencia de entropia entre un gas a una cicrta 
+tempcratura a un volumcn, y un gas a la misma temperatura a otro vo!umen. Re· 
+cordemos que en el capitulo 44 teniamos para la variaci6n de entropia 
+En el caso presente. la energia de! gas es la misma antes y despues de la expansi6n, 
+ya quc la temperatura no varia. De manera que tenemos que aiiadir calor suficientc 
+para igualar el trabajo efcduado por el gas; o sea, para un cambio pequeiio en vo­
+lumcn, tenemos 
+dQ = PdV. 
+Sustituyendo en la ecuacion anterior, obtcnemos 
+iJ.S = 
+NkT dV 
+V T Nkln ~~-
+46-8
+
+como obtuvimos en el capitulo 44. Por ejemplo, si expandimos el volumen en un 
+factor 2, la variaci6n de entropia es Nk In 2. 
+Consideremos ahora otro ejemplo interesante. Supongan que tenemos una caja 
+con una barrera en el medio. En un !ado hay ne6n (mo!eculas "'negras~) yen el otro 
+arg6n (molt!culas "blancas"). Quitamos ahora la barrera y permitimos que se mez­
+clen. (, Cuimto ha variado !a entropia? Es posible imaginar que en lugar de la 
+barrera tenemos un pist6n con agujeros que permiten que pasen las blancas pero no 
+las negras, y otro pist6n que hace lo contrario. Si colocamos cada pist6n en un 
+extrema, vemos que para cada gas el problema es parecido al que acabamos de re­
+solver. Asi, pues, obtenemos una variaci6n de entropia de Nk In 2, Jo que significa 
+que la entropia ha aumentado en k 1 n 2 por molfcula. El 2 tiene que ver con el 
+espacio adicional que tiene !a molecula, lo cual es bastante extraflo. No es una 
+propiedad de la misma mo!ecula, sino de cucinto espacio tiene la molCcu\a para mo­
+verse. Es una situaci6n extraiia donde la entropia aumenta, pero jdonde todo tiene 
+la misma temperatura y la misma energia! La Unica cosa que ha variado es que las 
+molfculas estiln distribuidas de otra manera. 
+Sabemos bien que si so!amente quitamos la barrera, todo estarii. mezdado des­
+puCs de un tiempo largo, debido a las colisiones, a las vibraciones, a los golpes, etc. 
+De vez en cuando una mo!t!cu!a blanca va hacia una negra y una negra hacia una 
+blanca y puecle ser que se crucen. Las blancas gradualmente se abren paso, acciden­
+talmente, en el espacio de las negras, y las negras se abren paso, accidentalmente, 
+en el espacio de las blancas. Si esperamos !o suficiente obtcndremos una mezcla. 
+C\aramente, este es un proceso irreversible en el mundo real y deberia implicar un 
+aumento de entropia. 
+Aqui tenemos un ejemplo simple de un proceso irreversible que estil. completa­
+mente formado de eventos reversibles. Cada vez que hay una colisiOn entre dos 
+mo!ecu\as cualesquiera, salen en ciertas direcciones. Si tomamos una pelicula de 
+una colisi6n hacia atrils, no habria nada err6neo con la pe!icula. En reaiidad, una 
+clase de colisi6n es tan probable coma otra. Por lo que la mezcla es completamente 
+reversible y no obstante es irreversible. Todo el mundo sabe que si comenzitsemos 
+con blancas y negras, separadas, obtendriamos una mezcla en unos pocos minutos. 
+Si nos sentitscmos y siguifsemos contemplil.ndolas por unos cuil.ntos minutos m:'ts, 
+no se separarian de nucvo, sino que permaneccrian mezcladas. Asi nos encontramos 
+con una irreversibilidad basada en situaciones reversibles. Pero tambiCn vemos ahora 
+la razOn. Empezamos con una distribuci6n que estil, en alglln sentido, ordenado. 
+Debido al caos de !as colisiones, se desordena. Lafuente de la irreversibilidad es el 
+cambio de una distribuci6n ordenada a una desordenada. 
+Es verdad que si tom3.scmos una pelicula de esto y la proyectil.semos hacia 
+atriis veriamos que gradualmente se ordena. Alguien diria: "jEsto es contra las 
+leyes de la fisica!" Pasamos la pelicula de nuevo y miramos cada colisi6n. Cada 
+una seria perfecta y cada una estaria obedeciendo las !eyes de la fisica. La raz6n 
+es, naturalmente, que las velocidades de cada moJecula son exactamente correctas, 
+por lo que si seguimos los caminos hacia atrils, vuelven a su condici6n inicial. Pero 
+esto es una circunstancia muy poco probable. Si empezamos con el gas sin distri­
+buci6n especial, s61o blancas y negras, nunca volveril. atriis. 
+46-9
+
+46-5 Otden y entropia 
+pues, que hablar de lo que entendemos por ordcn desorden. 
+un orden agradable o de un desorden desagradable. que es 
+casos mezclados y sin mezclar es lo siguiente. Supongan que 
+en pequeftos elementos de volumen. Si tenemos mo!eculas blan-
+cuti.ntas podrlamos distribuirlas entre los e\ementos de 
+las estuvicsen en un !ado y !as negras en el otro i 
+maneras podr;amos distribuirlas sin ninguna restricci6n 
+hay muchas m3.s rnaneras de colocarlas en el 
+por el nUmero de maneras en que podemos dispo-
+modo que parezca lo mismo desde el exterior. La 
+ese nUmero de maneras. El nUmero de maneras en el 
+es menor, por lo que la entropia es menor, o el "des-
+tOCnica de desorden podemos entender la 
+entropia mide el desorden. En segundo lugar, el 
+a "desorden", por lo que la entropia siempre au-
+sentido de que el arreglo nos agrada, sino en el sentido 
+diferentes en que lo podemos lograr, conservando el 
+es relativamente restringido. En el caso en que in­
+mezdillldose, no habia tanto desorden como pens<iba­
+tenia exactamente la velocidad y direcci6n correctas 
+no era alta despuCs de todo, aunque parecia serlo. 
+!eyes fisicas? Al hablar del campo 
+por una carga se dijo que debiamos tomar el campo 
+t a distancia r de la carga, tomamos el campo debido 
+no a t + r/ c. Asi parece, a primera vista, como 
+no reversible. Muy extraiiamente, sin embargo, las 
+un conjunto de ecuaciones l\amadas ecuaciones de 
+reversibles. Ademti.s, es posible argumentar que si so­
+que usar ei campo adelantado, el debido al estado de cosas a 
+r/ c, y en forma absolutamente compatible en un espacio completamente 
+cerrado, itodo sucede exactamente del mismo modo que si usamos campos retarda" 
+dos! Esta aparente irreversibilidad en electricidad, al menos en un recinto, no es 
+una irreversibilidad de ninguna especie. Ya tenemos alguna in dicaci6n de esto, 
+sabemos que cuando tenemos una carga oscilante que genera campos que 
+son rechazados por las paredes de un recinto, llegamos finalmente a un equilibrio 
+en el que no hay ninguna unilateralidad. La aproxirnaci6n del campo retardado es 
+solamcntc una conveniencia en el metodo de la soluci6n. 
+En cuanto a lo que sabemos, todas las !eyes fundamentales de la fisica, como 
+las ecuaciones de Newton, son reversibles. Entonces lde d6nde sale la irreversibili­
+dad? Viene del orden volviendose desorden, pero no entenderemos esto hasta que 
+separnos el origen del orden. lPor que las situaciones en que nos cncontramos dia­
+riamente est3.n siempre fuera del equilibria? Una explicaci6n posible es la siguiente. 
+Examinemos de nuevo nuestra caja de mo!OCulas blancas y negras mezcladas. Bien, 
+si esperamos un tiempo suficiente, es posible que por puro accidente, muy impro­
+bable pero posible, la distribuciOn de mo!eculas llegue a ser principalmente de blan­
+cas en un lado y p1incipalmente de negras en el otro. Despues de esto, a medida que 
+pa:,a el ticmpo y los acddentes contintian, se vuelven a mezc!ar de nuevo. 
+46-10
+
+de! alto grado de orden en el mundo de hoy 
+suerte. Quizi.s sucedi6 que nuestro mundo tuvo 
+clase en la que las cosas se separaron de 
+a unirse de nuevo. Esta clasc de teoria no es 
+tiene el gas separado o un po­
+u otro ca~o, vemos una man-
+gris en la interfase dcbido a que las se cst:in mezclando de nuevo. 
+se mezcla, cualquiera sea el sentido en que transcurre el tiempo. Esta teoria 
+pues. que la irreversibilidad es solamente uno de los accidentes de la vie.la. 
+separadas. deduciriamos de 
+mirado? Si creemos realmcnte que proviene 
+a una fluctuaciOn. debcmos seguramente tomar !a 
+que podria producirla, y !a condici6n mits probable jllo 
+se haya dr.senredado! Por consiguir.ntc, a partir de la hipO" 
+es una fluctuaci6n, todas las predicciones son st m1ramos 
+a una parte del quc nunca hcmos visto antes, la mezclada y 
+no como e! trnzo que arnbamos de consideraL Si nuestro se debiese a una 
+fluctuaci6n, no esperariamo~ orden en ninguna parte, sino solamente donde Jo hemos 
+notado. 
+Ahora suponemos que la separaci6n es porque 
+realmente ordcnado. No dcbido a una fluctuaciOn, 
+y negm Esta teoria que habr3. orden en otros 
+a una fluctuac!On, a un ordcnamiento mils alto 
+Entonces esperariamos encontrar orderi en lugares donde 
+Los astrimomos, ejcmplo, han mirado 
+enlocan sus a e~trellas y nuevas 
+m1smo que Por tanto, nosouos concluimos que 
+no cs una fluctuaci6n y 4ue orden es un recuerdo de las condiciones 
+empezb. Esto no es decir que cntc11demos su i6gica. Por alguna raz6n, 
+tuvo en un tiempo una entropia muy baja para su contenido de 
+entonces la entropia ha aumentado. Y asi. este es el camino hacia 
+es el origen de toda irreversibilidad, esto es lo que hace el de 
+Y decadencla, esto lo que nos hace recordar el pasado no 
+cosas quc estiin mils cercanas a aquel momenta en la urnverso 
+el orden em mayor que ahora, y el por que no podemos recordar cosas donde el 
+desorden es mayor que ahora, a las cuales llamamos futuro. Por ello, como comen­
+titbamos en un capitu[o anterior, el universo entero estit en un vaso de vino. si lo 
+miramos suficientemente cerca. En este caso el vaso de vino es complejo porque hay 
+agua y vidrio y luz y todo lo dem:is. 
+Otra de las delicias de la fisica es que aun las cosas 
+la rueda dentada y trinquete. trabajan solamente porquc 
+rueda dentada y trinquete funcionan Unicamente en una 
+46·1 l
+
+contacto fundamental con el resto de! universo. Si estuviesen en una caja aisladas 
+durante un tiempo suficiente, la rueda no tendria mils probabilidad de girar en un 
+sentido que en el otro. Pero, porque quitamos las sombras y dejamos la luz, porque 
+nos enfriamos en la tierra y obtenemos calor de! sol, las ruedas dentadas y trin­
+quetes que construimos pueden girar en un sentido. Este sentido Unico estil interre­
+lacionado con el hecho de que la rueda dentada es parte de! universo. Es parte de! 
+un\verso no solamente en el sentido de que obedece las !eyes fisicas de! nniverso, 
+sino que su comportamiento de sentido Lmico estil ligado al comportamiento de seq­
+tido lmico de! universo entero. Esto no se podril entender completamente hasta que 
+el misterio de los comienzos de la historia de! universo se reduzca aim mils de la 
+especulaci6n a la comprensi6n cientifica. 
+46-12
+
+47 
+Sonido. La

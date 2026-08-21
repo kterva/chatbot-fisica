@@ -1,0 +1,2003 @@
+Tema: Modos de vibración; armónicos; ondas; simetría en las leyes físicas (Capítulos 49-52 — Lecciones de Física, Feynman, Vol. I)
+
+Modos de vibraciOn en dos dimensiones 
+El siguiente ejemplo a considerar es la interesante situaciOn de modos de vibra· 
+ci6n en dos dimensiones. Hasta ahora hemos hablado Unicamente de situaciones 
+unidimensionales --una cuerda tensa o las ondas sonoras en un tubo--. Finalmente 
+tendremos que considerar tres dimensiones, pero un paso m8.s f3.cil es el de dos di­
+mensiones. Consideren para fijar ideas un parche rectangular de tambor, de goma, 
+limiLado de manera que no haya ning(m desplazamiento sobre el contorno rectangu· 
+lar, y sean a y b las dimensiones del rect3.ngulo, como muestra la figura 49-4. Ahora 
+preguntamos: lCU3.ies son las caracteristicas de los movimientos posibles? Podemos 
+empezar con el mismo procedimiento utilizado para la cuerda. Si no hubiese limitaci6n 
+alguna, esperariamos ondas propagilndose con algUn movimiento ondulatorio. Por 
+ejemplo, (eiw1) (1!"1k.XX + ik._p) representaria una onda sinusoidal viajando en una 
+direcci6n que depende de los valores relativos de kx y ky Ahora bien, ;,c6mo podemos 
+hacer que el eje x, o sea la linea y = 0, sea un nodo? Empleando las ideas 
+49-5
+
+desarrolladas para la cuerda unidimensional, podemos imaginar otra onda representa­
+da por la funci6n compleja (-e'"' 1) (e-ikxx-ikyY). La superposiciOn de estas ondas dar8. 
+desplazamiento nulo para y = ~ independientemente de Jos valores de x y de t. (Aun­
+que estas funciones estitn defimdas para y negativa donde no hay parche de tambor 
+vibrando, esto se puede ignorar ya que el desplazamiento es verdaderamente cero para 
+y-= 0.) En este caso podemos considerar a la segunda funci6n como onda reflejada. 
+Bordesfijos 
+Fig. 49-4. Lamina rectangular vibrante. 
+Sin embargo, quercmos una lmea nodal en y o-c b aoemits de en y = 0. t,C6mo 
+haccrlo? La soluci6n estit relacionada con que hicimos al estudiar la reflexiOn 
+en cristales. Estas ondas que se cancelan en 0 haril.n lo mismo en y = b sO!o si 
+2b sen 11 es un mllltiplo entero de J., dondc 11 es el 3.ngulo mostrado en la figura 49.4: 
+.5~-, 
+/ mA = 2bsen8, m = 0,1,2, .. (49.7) 
+Ahora podemos hacer en la misma forma que e! eje y sea una linea nodal agre· 
+gando dos funciones m<is,-(ei<0 1) (e + ikx-'" + ny.') y + (ei'"t) (e + ikx~-•kvY), cada una 
+de las cuales representa una reflexi6n de una de las otras dos ondas en la linea x = 0. 
+La condiciOn de quc haya una linca nodal en x ~ a es similar a la que teniamos 
+para)'-= b. Es que 2a cos 0 tambien dcbe ser un mUltiplo entero de.-\: 
+nA = 2acos8. (49.8) 
+El resultado final es entonces que las ondas que rebotan de un !ado a otro en la caja 
+producen un diagrama de ondas estacionarias, o sea un modo de vibraci6n definido. 
+Asi, pues, debemos satisfacer las dos condiciones anteriores si queremos tener 
+un modo de vibraciOn, Encontrcmos primero la longitud de onda. Se puede obtener 
+eliminando el itngulo 0 con (49.7) y (49.8), obteniendo la longitud de onda en fun­
+ciOn de a, b, n y m. La manera mas facil de hacerlo es dividir ambos miembros de 
+las ecuaciones por 2b y la respectivamente, elevar las ecuaciones al cuadrado y su­
+marlas. E! resultado es sen2 8 + cos 2 e = 1 = (n.l/2a)1 + (m)./2bY, de donde se 
+puede despejar A: 
+(49.9) 
+De esta manera hemos determinado la longitud de onda en funci6n de dos enteros, 
+y de la longitud de onda obtenemos inmediatamentc la frecuencia <;.J porque, como 
+sabcmos, la frecuencia es igua\ a 2'.>fc dividido por la longitud de onda. 
+puramcntc 
+e importante que deberiamos deducirlo con un 
+en vez de hacerlo razonando sabre la~ reflexiones. 
+49-6
+
+Representemos la vibraci6n con una superposici6n de cuatro ondas elegidas de ma 
+nera que las cuatro lineas x = 0, x """" a, y --" 0, y = b sean nodos. Adem3s, haremos 
+que todas las ondas tengan la misma frecuencia de manera que el movimiento re­
+sultante represente un modo de vibraci6n. Conforme al tratamiento que dimos an­
+teriormente de la reflexi6n de la luz, sabemos que (e'"'9 (e-ikxx + lkyY) representa una 
+onda que se propaga en la direcci6n indicada en la figura 49-4. La ecuaci6n (49.6), 
+es decir /... = w/c, sigue siendo vii.Iida siempre que 
+(49.10) 
+Estil darn en la figura que k, "-- /.. = k sen fJ. 
+Ahora nucstra ecuaci6n para el deo1>la"'"''''nto. rp digamos, de! parche rectan­
+gular de tambor adopta la forma 
+(49.lla) 
+Aunque esto parece mis bien un lio, la suma de estas cosas no es tan dificil. Se 
+puede combinar las exponencia!es para dar funciones seno, de modo que el des­
+plazamiento resulta 
+(49.llb) 
+En otras palabras. es una oscilaci6n sinusoidal, si, con un diagrama que tambil:n e~ 
+~inusoidal tanto en la direcciOn x como en la y. Por supuesto que nuestras cond1-
+ciones de contorno cstUn satisfechas en x = 0 yen y = 0. Tambien qucrerno~ quc¢ 
+~ea cero para x "-- a y para y = b. En consecuencia tenemos que introducir otras 
+~~:er~o~~i~i~~~~~'~e~~~ ~~~t~nq:U~:~ ;n~~~oe ~'e ~,.:tls~~~~ ~~te~~~~~~~~~ 
+diatamente las ecuaciones (49.7) y (49.8) y de ellas Cl resultado final (49.9). 
+T omcmos ahora co mo ejemplo un rectitngulo cu yo largo es dos veces su alto. 
+Si tom"amos a= 2b y uti\izamos las ecuaciones (49.4) y (49.9), podemos ca\cu!ar 
+la frecucncia de todos los modos de vibracion: 
+(49.12) 
+La tabla 49-1 da algunos de Jos modos de vibraci6n simples y muestra tambiCn su 
+forma de manera cualitativa. 
+El pumo mils importante a recalcar sobre este caso particular es que las fre· 
+cuencias no son mUltiplos unas de las otras, ni son mU!tiplos de ningUn nUmero. La 
+idea de que las frecuencias natura!es estim relacionadas arm6nicamente no es cierta 
+en general. No es cierta para un sistema de mis de una dimensi6n ni es c1erta para 
+,istemas unidimensionales que sean mils complicados que una cuerda con densidad 
+y tensi6n uniformes. Un ejemplo de esto Ultimo es una cadena colgante en la cual 
+la tensi6n es mayor arriba que abajo. Si se pone esa cadena a oscilar arm6nicamen­
+te, hay varias frecuencias y modos de vibraci6n, pero ni las frecuencias son mUlti­
+plos simples de algun numero, ni la forma de los modos de vibraci'--11 es sinusoidal. 
+49-7
+
+Tabla 49-1 
+Forma de! modo de vibraci6n (w/wo)2 w/wo 
+1.25 1.12 
+2.00 1.41 
+3.25 1.80 
+4.25 2.06 
+5.00 2.24 
+Los modes de vibraci6n de sistemas mas ,complicados son aim mas complejos. 
+Pot ejemplo, dentro de la boca tenemos una cavidad encima de las cuerdas vocales. 
+y moviendo la lengua y los labios, etc., hacemos un tubo con el extreme abierto 
+o uno con el extrema cerrado de diferentes di!l.metros y formas; es un resonador 
+terriblemente complicado, pero no obstante es un resonador. Ahoia bien, cuando se 
+habla, las cuerdas vocales producen cierto tipo de tono. El tono es bastante complicado y 
+hay muches sonidos que salen, pero la cavidad de la boca modifica a Un mas ese to no de· 
+bido a las diversas frecuencias resonantes de la cavidad. Por ejemplo, un cantante puede 
+can tar varias vocales: a, o, u, etc., todas a !a mis ma altura, pero suenan diferentes porque 
+en esta cavidad Jos diversos arm6nicos estM .en resonancia en grados diferentes. 
+La grandlsima importancia de las frecuencias resonantes de una cavidad en la mo­
+dificaci6n de los sonidos de la voz se puede demostrar por media de un experimento 
+simple. Como la velocidad de! sonido varia con la inversa de la ralz cuadrada de 
+la densidad, se puede variar la velocidad de! sonido usando gases diferentes. Si se 
+usa helio en vez de aire, de modo que la densidad es menor, la velocidad del sonido 
+es mucho mayor y todas las frecuencias de una cavidad se elevaran. Por consiguien­
+te, si uno se llena los pulmones de helio antes de hablar, las caracteristicas de la 
+voz se alteraritn totalmente aun cuando las cuerdas vocales esten vibrando a la 
+misma frecuencia. 
+49-8
+
+49-4 PCndulos acoplados 
+Finalm~nte debemos recalcar que no solamente existen modos de vibraci6n en 
+sistemas continuos complicados, sino tambii:n en sistemas mecit.nicos muy simples. 
+Un buen ejemplo es el. sistema de dos pi:ndulos acoplados discutido en el capitulo 
+precedente. En ese cap1tulo se demostr6 que se podia analizar el movimiento como 
+superposici6n de dos movimientos arm6nicos de frecuencia diferente. Asi, pues, hasta 
+este sistema se puede analizar en ti:rminos de movimientos arm6nicos o modos. La 
+cuerda tiene un nfunero infinito de modos y la superficie bidimensional tambii:n tiene 
+un nllmero infinito de modos. En cierto sentido es una doble infinidad, si es que 
+sabemos c6mo contar infinitos. Pero un simple objeto mecit.nico que tiene Unica­
+mente dos grados de libertad y que s6lo necesita dos variables para ser descrito, 
+tiene solamente dos modos. 
+R Fig. 49-5. Dos pilndulos acoplados. 
+Hagamos un anfilisis matemiltico de estos dos modos para el caso en que los 
+pendulos tengan la misma longitud. Sea x el desplazamiento de uno e y el de! otro, 
+como muestra la figura 49--5. Sin el resorte, la fuerza sobre la primera masa es pro­
+porcional al desplazamiento de la misma a causa de la gravedad. Si no hubiera re­
+sorte, habria cierta frecuencia natural UJ~ para este pi:ndulo solo. La ecuaci6n de 
+movimiento sin el resorte seria 
+d2 x 2 
+m di2 = -mw 0x. (49.13) 
+El otro pi:ndulo oscilaria de la misma manera si no hubiera resorte. Ademils de la 
+fuerza restauradora debida a la gravedad, hay una fuerza adicional que tira de la 
+primera masa. Esa fuerza depende de la distancia en exceso de x respecto a y y es 
+proporcional a esa diferencia, por lo que es cierta constante que depende de la geo­
+metria, multiplicada por (x-y). La misma fuerza en sentido inverso acttia sabre la 
+segunda masa. Las ecuaciones de movimiento a resolver son, por lo tanto, 
+m ~ = -mw~x - k(x - y), m ~ = -mw~y - k(y - x). (49.14) 
+Para hallar un movimiento en que las dos masas se mucvan a la misma fre­
+cuencia, dcbemos detcrminar cuilnto se mueve cada masa. En otras palabras, el pen­
+dulo x y el pC:ndulo y oscilarfui con !a misma frecuenda, pero sus amplitudes 
+49-9
+
+deben tener ciertos valores, A y B, cuya relaci6n es fija. Probemos esta so\uci6n: 
+(49.15) 
+Si se sustituyen en la ecuaci6n (49.14) y se junta los terminos anilogos, los resul­
+tados son 
+(w2 - w~ - ~)A= - ~ B, 
+( w2 - w~ - ~) B = - ~ A. 
+(49.16) 
+Para obtener las ecuaciones ta1 como estim escritas, se ha eliminado el factor comlm 
+ei"'' y se las ha dividido por m. 
+Ahora bien, vemos que tenemos dos ecuaciones para lo que aparentemente son 
+dos inc6gnitas. Pero en realidad no hay dos inc6gnitas porque la amplitud total de! 
+movimiento es algo que no podemos determinar a partir de estas ecuaciones. Las 
+ecuaciones precedentes s6lo pueden determinar el cociente entre A y B, pero ambas 
+deben dar el mismo cociente. La necesidad de que estas dos ecuaciones sean com­
+patibles requiere que la frecuencia sea algo muy especial. 
+En este caso particular, esto se puede hacer bastante f3.cilmente. Si se multiplica 
+una ecuaci6n por otra, el resultado es 
+( ' ' k)' (k)' w - Wo - m AB = m AB. (49.17) 
+El factor AB se puede eliminar de ambos miembros a no ser que A y B sean cero, 
+lo cual significa que no hay ningU.n movimiento. Si hay movimiento, los otros fac­
+tores deben ser iguales dando una ecuaci6n cuadriitica a resolver. El resultado es 
+que hay dos frecuencias posibles: 
+(49.18) 
+Mils alm, si se vuelve a sustituir estos valores de la frecuencia en la ecuaci6n (49.16), 
+encontramos que para la primera frecuencia A = B y para la segunda, A = -B. 
+Estas son las "formas de los modos de vibraci6n", como se puede verificar fii.cil­
+mente con el experimento. 
+Estii. claro que en el primer modo, para el cual A = B, el resorte nunca se estira 
+y ambas masas oscilan con frecuencia w 0 como si el resorte estuviera ausente. En 
+la otra soluci6n, para la cual A = -B, el resorte contribuye con una fuerza restau­
+radora y aumenta !a frecuencia. Resulta un caso mas interesante si los dos pendulos 
+tienen longitudes diferentes. El anil.lisis es muy parecido al dado mils arriba y se 
+deja al lector como ejercicio. 
+49-5 Sistemas lineales 
+Resumamos ahora las ideas discutidas precedentemente, que son todas aspectos 
+de lo que posiblemente sea el principio mils general y maravilloso de la fisica ma­
+temil.tica. Si tenemos un sistema lineal cuyas caracteristicas son independientes del 
+tiempo, el mov~miento 
+49-10
+
+no tiene por quC tener ninguna simplicidad particular; en realidad puede ser 
+extremadamente complejo, pero hay movimientos muy cspeciales, por lo comU.n 
+una serie de movimientos cspcciales, en los ·cuales el diagrama global de! mo­
+vimiento varia exponcncialmente con el tiempo. En los sistemas vibrantcs de que 
+hemos estado hablando ahora, la exponcncial es imaginaria y en vez de decir 
+··cxponencialmente'·, preferimos decir "sinusoidalmente" con el tiempo. Sin embar­
+go, se puede ser mis general y decir que los movimientos variaritn exponencialmente 
+con el tiempo en modos muy especiales, con formas muy especiales. Siempre se 
+puede reprcsentar e! movimiento miis general de un sistema como una superposici6n 
+de movimientos en los que interviene cada una de las diversas exponenciales. 
+Vale la pena reafirmar esto para el caso de un movimiento sinusoidal: un sis­
+tema lineal no tiene por que moverse con un movimiento puramente sinusoidal, es 
+decir con una sola frecuencia definida, pero cualquiera sea la forma en que se 
+mueva, se pucdc rcpresentar este movimiento como superposici6n de movimientos 
+puramente sinusoidales. La frecuencia de cada uno de estos movimientos es una 
+caracteristica de! sistema, y el perfil, o forma de onda, de cada uno de estos movi­
+mientos tambien es una caracteristica del sistema. El movimiento general de cual­
+quiera de estm sistemas se puede caracterizar dando la intensidad y la fase de cada 
+uno de modos y sumiindolos todos. Otra manera de decir esto es que cualqt,1ier 
+sistema lineal es equivalcnte a un conjunto de osciladores arm6nicos inde-
+pendientes, con frccuencias naturales correspondientes a los modos de vibraci6n. 
+Concluimos cslc notar la conexion cntre modos de vibraciOn 
+cuiintica, lo quc vibra, o lo que varia en el 
+de probabilidad que da la probabi\idad de 
+electrones, en una configuraci6n detcrmina­
+da. fata funci6n amplitud puede en el espacio y en d tiempo y satisface, de 
+hccho, una ecuaci6n lineal. Pero en la mec3.nica cuiintica hay una transformaci6n: ioque 
+llamamos frecuencia de la amplitud de probabilidad es igual, en el concepto cliisico, a energia 
+En consecuenc1a pock:mos traducir a este caso el principio emmciado miis arriba tomando 
+la palabra frC'cuencia y reemplaz3.ndola por energia. Se convierte en alga asi como: 
+no es necesario que un sistcma cu<intico, un ittomo por ejcmplo, tenga una energia 
+delinida, tal como no es necesario que un sistema mecilnico simple tenga una fre~ 
+cuencia defimda; pero, sea cualquicra !a mancra en que se comporta el sistema, sicm­
+pre puede rcprcsentar su , •mportamiento como una superposicion de estados de 
+delinida. La energia de cada estado es una caracteristica de! :i.tomo y lo mis-
+1110 c~ cl diagrama de amplitud que determina la probabilidad de encontrar particu" 
+l;is en !ugares. El movirnicnto se puede describir dando la arnplitud 
+estos estados d1ferentes energia. Este es el origen de los niveles 
+en meciinica cu:i.ntica. Como la mccanica cuiintirn est:i representada 
+cuando el electr6n no tiene energia 5uliciente para escapar a la larga 
+esas son ondas conflnadas. Tai en las ondas confinadas de una 
+frecuencias delinidas para de la ecuac16n de onda para la 
+cu<intica. I .a interpretacion cs que Cstas son energ(as delinidas. 
+En consecuencia. cuiintico puede tener cstados definidos de energia lija 
+porque esta por ondas: ejemplos de esto son los niveles de energia de 
+lo~ diver~o~
+
+50 
+A.rmOnicos 
+50-l Tonos musicales 
+50-2 La serie de Fourier 
+50-3 . Timbre y consonancia 
+50-1 T onos musicales 
+50-4 Coeticientes de Fourier 
+50-5 Teorema de la energia 
+50-6 Respuestas no lineales 
+Se dice que Pititgoras descubri6 que cuando se hace sonar a la vez dos cuerdas 
+similares bajo la misma tensi6n y diferentes sO!o en longitud, dan un efecto que es 
+!lgradable al oido si las longitudes de las cuerdas estfi.n en proporci6n de dos mi­
+meros enteros pequeii.os. Si las longitudes son coma uno es a dos, corresponden 
+entonces a la octava en mU.sica. Si las longitudes son como dos es a tres, c01Tespon­
+den al intervalo entre do y sol, que se llama una quinta. Estos intervalos se aceptan 
+generalmente coma acordes que suenan ''agradable". 
+Pitagoras se impresion6 tanto con este descubrimiento que lo hizo la base de una 
+escuela -se llamaron pitag6ricos- que tuvo creencias misticas en los grandes pode­
+res de los nllmeros. Se crey6 que algo parecido se encontraria en los planetas 
+-o "esferas"-. Algunas veces oimos la expresi6n: "la mllsica de las esferas". La 
+idea foe que habria algunas relaciones numfu-icas entre las 6rbitas de los planetas o 
+entre otras cosas en la naturaleza. La gente cree generalmente que esto foe solamen­
+te una especie de superstici6n mantenida por los griegos. Pero, les esto tan diferente 
+de nuestro inter6s cientifico en las re!aciones cuantitativas? El descubrimiento de Pi­
+tilgoras foe el primer ejemplo, fuera de la geometria, de una relaci6n numfuica en la 
+naturaleza. Debe haber sido muy sorprendente el descubrir de repente que habia un 
+hecho de la naturaleza que involucraba una relaci6n num6-ica senC"illa. Simples me­
+didas de longitudes dieron una predicci6n de algo que no tenia conexi6n aparente 
+con la geometria -la producci6n de sonidos agradables-. Este descubrimiento con­
+dujo a la extensi6n de que quizils una buena herramienta para la comprensi6n de la 
+naturaleza seria el anfilisis aritmCtico y matemiltico. Los resultados de la ciencia mo­
+derna justifican este punto de vista. 
+Pititgoras solamente pudo haber hecho su descubrimiento mediante una observa­
+ci6n experimental. No obstante, este aspecto importante, parece no haberle impresio­
+nado. De lo contrario, la fisica hubiera tenido un comienzo mils temprano. (iSiempre 
+es fiicil reconsiderar lo que alguien ha hecho y decidir lo que 61 deberia haber 
+hecho!) 
+50-1
+
+Presi6n 
+Ti em po 
+101 Unruido 
+Fig. 50-1. Presi6n en funci6n del tiempo para (a) un ruido, y (b) una nota musical. 
+Podemos observar un tercer aspecto de este interesante descubrimiento: que el 
+descubrimiento tiene que ver con dos notas que suenan agradable al oido. Podemos 
+preguntarnos si nosotros hemos avanzado mlis que Pitilgoras en la comprensi6n de 
+por qui s6lo ciertos sonidos son agradables al oido. La teoria general de la est6tica 
+no estci probablemente mas adelantada ahora que en el tiempo 00 Pitcigoras. En este 
+descubrimiento de los griegos encontramos los tres aspectos: experimento, relacio­
+nes matem8.ticas y estCtica. La fisica ha tenido un gran adelanto solamente en las 
+dos primeras partes. Este capitulo trataril. sobre nuestra comprensi6n actual de! des­
+cubrimiento de Pitigoras. 
+Entre los sonidos que oimos hay una clase que 11amamos ruido. El ruido corres­
+ponde a una especie de vibraci6n irregular de! timpano producida por una vibraci6n 
+irregular de algUn objeto cercano. Si hacemos un diagrama para indicar la presi6n 
+de! aire en el timpano (y, por lo tanto, el desplazamiento de! mismo) en funci6n del 
+tiempo, la grafica que corresponde a un ruido puede parecerse a la que representa 
+la figura 50- l(a). (Tal ruido podria corresponder aproximadamente al sonido de un 
+zapatazo.) El sonido de la mUsica tiene un car8.cter diferente. La mUsica se caracte­
+riza por la presencia de to nos mas o menos prolongados --o "notas" musicales-. 
+(jLos instrumentos musicales tambifo pueden hacer ruidos!) El tono puede durar 
+un tiempo rdativamente corto, como cuando se presiona una tecla en un piano, o se 
+puede prolongar casi indefinidamente, como cuando un flautista mantiene una nota 
+Jarga. 
+iCuiil es el car&cter especial de una nota musical desde el punto de vista de la 
+presi6n en el aire? Una nota musical difiere de un ruido en que hay una periodicidad 
+en su gril.fica. Hay una cierta forma irregular de la variaci6n de presi6n de! aire con 
+el tiempo y la forma se repite una y otra vez. La figura 50-l(b) muestra un ejemplo 
+de funci6n presi6n-tiempo que corresponderia a una nota musical. 
+Los mUsicos hablan corrientemente de un tono musical en tfrminos de tres ca­
+racterLsticas: intensidad, tono y "timbre". La "intensidad" corresponde a la mag­
+nitud de los cambios de presi6n. El "tono" corresponde al periodo de tiempo para 
+una repetici6n de la funci6n bil.sica de presi6n. (Las notas "bajas" tienen periodos 
+mas grandes que las notas "altas''.) El "timbre" de una nota tiene que ver con las 
+diferencias que somos capaces de oir entre dos notas de la misma intensidad y tono. 
+Un oboe. un violin, y una soprano .se pueden distinguir aun cuando den notas de! 
+mismo tono. El timbre tiene que ver con la estructura de! diagrama que se repite. 
+Consideremos por un momenta el sonido producido por una cuerda vibrante. Si 
+accionamos la cuerda, tirando de ella y so!tandola, el movimiento subsiguiente estar;i 
+determinado por !os movimientos de las ondas que hemos producido. Sabemos que 
+50-2
+
+estas ondas viajariin en ambas direcciones y que se reflejarii.n en los extremos. Irii.n 
+hacia adelante y hacia atris durante mucho tiempo. Aunque la onda sea muy com­
+plicada, se repetirii.. El periodo de repetici6n es justamente el tiempo T necesario 
+para que la onda viaje dos longitudes completas de la cuerda. Porque este es exac­
+tamente el tiempo que necesita cualquier onda, una vez que ha comenzado, para 
+reflejarse en cada extremo, volver a su posici6n inicial y seguir en la direcci6n origi­
+nal. El tiempo es el mismo para ondas que comiencen en cualquier direcci6n. Cada 
+punto de la cuerda volverii, pues, a su posici6n inicial despu&s de un periodo, y de 
+nuevo un periodo mils tarde, etc. La onda de sonido producida debe tener tambien 
+la misma repet:ici6n. Vemos por que una cuerda accionada produce una nota mu­
+sical. 
+50-2 La serie de Fourier 
+Discutimos en el capitulo precedente otro modo de considerar el movimiento de 
+un sistema vibrante. Hemos visto que una cuerda tiene diversos modos naturales de 
+oscilaci6n y que cualquier clase particular de vibraci6n que se pueda originar por las 
+condiciones originales, se puede considerar como una combinaci6n -en proporcio­
+nes convenientes --de varios de los modos naturales oscilando a la vez. Encontramos 
+quelos modos normales de oscilaci6n para una cuerda tenian las frecuencias w 0 , 2(.u0 , 
+3w0, ... El movimiento mils general de una cuerda que ha sido pu\sada, por lo tanto, 
+esta compuesta de la suma de una oscilaci6n sinusoidal a la frecuencia fundamental 
+w0, otra a la frecuencia de! segundo ann6nico 2w0, otra a la de! tercer arm6nico 3w0, 
+etcetera. Ahora bi en, el modo fundamental se repite cada periodo T1 = 2n I w 0• El 
+segundo arm6nico se repite cada T2 = 2n /2wo- Tambien se repite cada T1 = 2T2, 
+despues de dos de sus periodos. Anitlogamente, el tercer modo arm6nico se repite 
+despues de un tiempo T1 equivalente a 3 de sus periodos. Vemos de nuevo por que 
+una cuerda pulsada repite todo su diagrama con periodicidad T1• Produce una no ta 
+musical. 
+Hemos estado hablando de! movimiento de una cuerda. Pero el sonido, que es el 
+movimiento d.::I aire, es producido por el movimiento de la cuerda, por lo que sus 
+vibraciones tambiCn deben estar compuestas de los mismos arm6nicos -aunque no 
+estamos pensando ya en los mod9s normales de! aire-. lgualmente, la intensidad re­
+lativa de los arm6nicos puede ser diferente en el aire que en la cuerda, particular­
+mente si la cuerda estit "acoplada" al aire mediante una caja de resonancia. La efi­
+cicncia dcl acoplamiento al aire es diferente para diferentes arm6nicos. 
+Si f(t) representa !a presi6n dcl airc en funci6n de! ticmpo para una nota musi­
+cal lcomo la de la figura 50-I(b)l, entonces esperamos que se pueda escribir f(t) 
+como suma de un cierto nUmero de funciones arm6nicas simples de! tiempo -como 
+cos 1,1f- para cada una de las diversas frecuencias arm6nicas. Si el periodo de la vi­
+braci6n es 7', la frecuencia angular fundamental serit w """"' br IT y los arm6nicos 
+serii.n 2t.1. 31,J. etc. 
+Hay una pequeiia complicaciOn. Para cada frecuencia podemos esperar que las 
+fases iniciales no serii.n necesariamente las mismas para todas las frecuencias. Por lo 
+tanto deberiamos usar funciones como cos (rot +- ¢). Sin embargo, es mits sencillo 
+usar en su !ugar funciones seno y coseno para cada frecuencia. Recordemos que 
+cos(wl +rt>)= (cosq)coswt - senqisenwt) (50.l) 
+50-3
+
+y como ¢ es una constante, cualquier oscilaciOn sinusoidal de frecuencia w se puede 
+escribir como suma de un tfrmino con cos wt y otro tCrmino con sen wt. 
+Concluimos, entonces, que cualquier funciOn f(t) periOdica con periodo T se 
+puede escribir matemiticamente en la forma 
+f(t) = ao 
++ a 1 cos wt+ b1 senwr 
++ a2 cos2wt + b2 sen2wt 
++ a3 cos3wt + b3 sen3wt 
++. + .. (50.2) 
+donde w = 2n IT y las a y b son constantes numi:ricas que nos dicen cu:lnto de 
+cada oscilaciOn componentc esti presente en la oscilaciOn/(t). Hemos puesto el ter­
+mino a0 de "frecuencia cero" para que nuestra formula sea completamente general, 
+aunque corrientemente es cero para una nota musiC:aL Representa una desviaciOn 
+de! valor promedio (es decir, el nivel "cero ")de la presiOn de sonido. Con e1 nuestra 
+fOrmula se puede aplicar a Cualquier caso. La igualdaJ de la ecuaci6n (50.2) estti. 
+representada esquemiticamente en la figura 50-2. (Se debe escoger convenientemente 
+las amplitudes an y bn de las funciones armOnicas.-Est:'tn mostradas esquem:'ttica­
+mente y sin una escala particular en la figura.) La serie (50.2) se llama serie de Fou­
+rier def(t). 
+""h~ '' = .b_ f\h ,• 
++ ·~. •'·f'=-· 
++ ·w-· + tvv-· Fig. 50-2. Cualquier funci6n peri6dica 
+f(t) es igual a una suma de funciones arm6-
+nicas simples. 
+Hemos dicho que cualquier funciOn periOdica se puede construir de este modo. 
+Deberiamos corregir eso y decir que cualquier onda de sonido, o cualquier funci6n 
+de las que ordinariamente encontramos en lisica se puede construir mediante ta! 
+suma. Los matem:'tticos pueden inventar funciones que no se pueden construir a 
+partir de funciones armOnicas simples -por ejemplo, una funci6n que tiene una 
+"vuelta hacia atras··-. jde modo que tiene dos valores para a!gunos valores de t! 
+No tenemos pvr quC preocupamos de esas funciones aqui. 
+50-3 Timbre y consonancia 
+Ahora estamos en condiciones de describir que es lo que determina el "timbre" 
+de una nota musical. Es la cantidad relativa de los diversos arm6nicos -los valores 
+de las a y b-. Una nota con el primer arm6nico solamente es una nota "pura ". Una 
+nota 
+50-4
+
+con muchos arm6nicos fuertes es una nota "rica ".Un violin produce una proporci6n 
+de arm6nicos diferente de la que produce un oboe. 
+Podemos "fabricar" diversas notas musicales si conectamos diversos "oscilado­
+res" a un altoparlante. (Un oscilador produce corrientemente una funci6n arm6nica 
+simple casi pura.) Deberiamos escoger las frecuencias de los osciladores de manera 
+que sean "'' 2w, 3w, etc. Ajustando entonces el control de volumen de cada osci­
+lador, podemos aiiadir cualquier cantidad que deseemos de cada arm6nico -y por 
+consiguiente producir notas de diferente timbre-. Un 6rgano elOCtrico trabaja de un 
+modo parecido. Las "teclas" seleccionan la frecuencia de\ oscilador fundamental 
+y las "clavijas" son Haves que controlan la proporci6n relativa de los arm6nicos. 
+Usando estas Haves se puede hacer que el 6rgano suene como una flauta, un oboe 
+o un violin. 
+Es interesante que para producir tales notas "artificiales" necesitamos sola­
+mente un oscilador para cada frecuencia -no necesitamos osciladores separados 
+para las componentes seno y coseno. El oido no es muy sensible a las fases relati­
+vas de los arm6nicos. Presta atenci6n principalmente al total de las partes seno y co­
+seno de cada frecuencia. Nuestro anaJ.isis es mils exacto de lo necesario para ex­
+plicar el aspecto subjetivo de la mUsica. Sin embargo, la respuesta de un micr6fono 
+o de cualquier otro instrumento fisico si depende de las fases y nuestro anaJ.isis com· 
+pleto se puede necesitar para tratar tales casos. 
+El "timbre" de un sonido hablado tambii:n determina los sonidos de vocales que 
+reconocemos en e! lenguaje. La forma de la boca determina !as frecuencias de los 
+modos naturales de vibraci6n del aire en la boca. Algunos de estos modos se ponen 
+en vibraci6n mediante las ondas de sonido provenientes de las cuerdas vocales. De 
+manera que las amplitudes de algunos de los arm6nicos del sonido se aumentan res­
+pecto a otras. Cuando cambiamos la forma de nuestra boca, damos preferencia a 
+arm6nicos de frecuencias diferentes. Estos efectos cuentan para la diferencia cntre un 
+sonido "e-e-e" y un sonido "a"a-a ". 
+Todos sabemos que un sonido vocal particular -"e-e-e'', digamos- alm "suena 
+coma" la misma vocal, ya lo digamos (o cantemos) en un tono alto o bajo. De! me­
+canismo que describimos, esperariamos que se acentuasen frecuencias particulares 
+cuando colocamos nuestra boca para una "e-e-e" y que no cambiasen cuando nos­
+otros cambiamos el tono de nuestra voz. Asi, la relaci6n de Jos arm6nicos importan­
+tes al fundamental -esto es, el "timbre.,_ cambia cuando nosotros cambiamos el 
+tono. Aparentemente el mecanismo mediante el cual reconocemos el lenguaje no se 
+basa en relaciones arm6nicas especificas. 
+l.Que diriamos ahora acerca de! descubrimiento de Pitilgoras? Comprendemos 
+que dos cuerdas semejantes con longitudes en la proporci6n de 2 a 3 tendriln fre­
+cuencias fundamentales en la proporci6n de 3 a 2. Pero, l,por quC deberian "sonar 
+agradable" juntas? Quizils deberiamos buscar la explicaci6n en las frecuencias de los 
+arm6nicos. El segundo arm6nico mils bajo de la cuerda mils corta tendril igual fre­
+cuencia que el tercer arm6nico de la cucrda mils larga. (Es fiicii demostrar ---0 creer~ 
+que una cuerda pulsada produce con mucha intensidad los diversos armOnicos mils 
+bajos.) 
+Quizils deberiamos dar !as siguientes reglas. Las notas son consonantes cuando 
+tienen arm6nicos de la misma frecuencia. Las notas son disonantes si sus arm6nicos 
+superiores tienen frecuencias cercanas, pero lo bastante separadas para que haya 
+50-5
+
+pulsaciones ni.pidas entre las dos. Por que las pulsaciones no suenan agradab!es y 
+por que los unisonos de los arm6nicos superiores suenan agradables es algo que no 
+sabemos definir o describir. No podemos decir a partir de este conocimiento de lo 
+.que suena bien, Jo que deberia, por ejemplo, oler bien. En otras palabras, nuestro co­
+nocimiento de ello no es algo mils general que el aserto de que cuando estin al uni 
+sono, suen~ ?ien. No nos permite deducir nada mils que las propiedades de la ar-
+Es filcil comprobar las relaciones armonicas que hemos descrito mediante algu­
+nos experimentos sencillos con el piano. Llamemos a las trcs do sucesivos par la mitad 
+del teclado dop do 2, do 1, y a las sol inmediatamente superiore~, sol]> sol2, so!1. En­
+tonces tendremos kls frecuencias relativas fundamentales como sigue: 
+do 1-2 sol 1- 3 
+do 1-4 sol2- 6 
+do3-8 ~;0!3· l 2 
+Estas relaciones arm6nicas se puc<len dcinostrar en !a ~iguiente forma: Supongan 
+que presionamos do 2 despacio -de esa manera no suena, pero hacemos que el amor­
+tiguador se levante-. Si entonces hacemos sonar do 1 producmi su fundamental pro­
+pio y algunos armCmicos secundarios. El segundo armOnico pondni. en \'1braci6n las 
+cuerdas de dor Si soltamos do 1 (presionando alm do2) el amortiguador drtendrii la 
+vibraciOn de las cuerdas de dop y podemos 01r (suavemente) la nota do 1 que sc va 
+apagando. De un modo semejante, cl tercer armlmico de do 1 puede causar una v1bra­
+ci6n de sol2' 0 el sexto de do 1 (haciendose ahora mucho mils debil) puede ocasionar 
+una vibraciOn de! fundamental de sol3• 
+Se obtiene un resultado algu difcrente ~1 presiunamos. 
+mos sonar do 2• E! tercer armOnico de do 1 
+so!P por lo que solamente se cxcitar<'i el cuarto 
+escuchamos de cerca) el sonido de sol3 jque 
+que hcmos apretado! Es facil imaginar otras con'b;narnme" 
+Podemos seiialar de paso quc la escala mayor 
+diAnte la condiciOn de que los Ires acordes mayores 
+re) rcpresenten cada uno secuenc1as de notas con la 
+Estas relaciones -ademits de! hecho de que una 
+ne la relaci6n l :2- determina la esca!a total para caso 
+se llama ··entonaci6n justa ··. Los instrumentos de teclado 
+nan usualmente asi, pero se hace un poco de ··fraude .. para 
+aproximadameme corrcctas para todos los posiblcs tono~ 
+esta afinaci6n, que se llama "templado". la octava (atin 1 
+los iguales para los cua!cs la relaciOn de frecuencia es ya no t1e­
+ne la relaciOn de frecuencia 3, 2, sino 27 1 ~ = I 499, que aparentemente e~ ba~tante 
+aproximada para la mayoria de los oidos. 
+Hcmos establecido una regla de consonancia en 
+armOnicos. i,Es qui1its esta coinc1dcncia la raz011 de quc 
+tes? Un invcstigador ha sostenido que dos -notas 
+mente para estar libres de armOnicos- no 
+sonancia cuando 
+50-6
+
+las frecuencias relativas estlin colocadas en o cerca de las relaciones esperadas. 
+(Tales experimentos son dificiles porque es dificil fabricar notas puras por motivos 
+que mils adelante veremos.) Alln no podemos estar seguros de si el oido estii. aparean­
+do arm6nicos o hacienda aritmf:tica cuando nosotros decidimos que nos agrada un 
+sonido. 
+S0-4 Coelicientes ~e Fourier 
+Volvamos ahora a la idea de que cualquier nota --esto es, un sonido peri~dico­
+se puede representar mediante una combinaci6n apropiada de arm{micos. Querria­
+mos demostrar c6mo podemos encontrar que cantidad se requiere de cada arm6ni­
+co. Es f.icil, naturalmente, calcular j(t) usando la ecuaci6n (50.2), si se nos da 
+todos los coeficientes a y b. La cuesti6n es ahora: si se nos daf(t), (.c6mo podemos 
+conocer cu.iles deberian ser los coeficientes de los diversos tCrminos arm6nicos? 
+(Es f<'iciJ hacer una torta siguiendo una reccta; pero, (.pod~mos escribir la receta si 
+se nos da la torta ?). 
+Fourier descubri6 que en real id ad no era muy dificil. El tfamino a0 es fiicil. Aca­
+bamos de decir que es justamente el valor promedio de f(t) en un periodo (desde 
+t = 0 hasta t = n. Podemos ver que esto es realmente asi. El valor medio de una 
+funci6n seno o coseno sobre un periodo es cero. Sohre dos, o tres, o cualquier nU­
+mero entero de periodos, tambifo es· cero. Por lo que el valor medio de todos los 
+tfrminos de! segundo miembro de la ecuaci6n (50.2) es cero, excepto para a0• {Re­
+cuerden que debemos tomar r11 = 2n /T.) 
+Ahora bien, el promedio de una suma es la suma de los promedios. Por lo que el 
+promedio de j(t) es solamente el promedio de a0 • Pero a0 es una constante, por lo 
+que su promedio es justamente su valor. Recordando ta definici6n de promedio, te-
+ao = ~ iT f(t) dt. (50.3) 
+Los otros coeficientes son solamente un poquito m.is dificiles. Para encontrarlos 
+podemos usar un truco descubierto por Fourier. Supongan que multiplicamos los 
+dos miembros de la ecu.aci6n (50.2) por alguna funci6n arm6nica -por cos 7wt di­
+gamos-. T enemas entonces 
+/(1) cos 1wt = a 0 ·cos 1wt 
++ a 1 cos wt· cos 1wt + b 1 sen wt· cos 1wt 
++ a2 cos 2wt ·cos 1wt + b 2 sen 2wt cos 1wt 
++· +· 
++ a7 cos 1wt cos 1wt + b1 sen1wt cos 1wt 
++· +· (50.4) 
+Ahora, promcdiemos ambos miembros. El promedio de a0 cos 1wt sabre el tiempo 
+T es proporcional al promedio de un coseno sabre 7 periodos enteros. Pero esto es 
+justamente cero. El promedio de casi todos los tf:rminos restantes tambilin es cero. 
+Consideremos el 
+50-7
+
+tetmino a1• Sabemos, en general, que 
+cos A cos B = ! cos (A + B) + ! cos (A - B). (50.5) 
+El tennino a1 se convierte en 
+!a1 (cos Bwt + cos 6wt). (50.6) 
+Tenemos entonces dos cosenos, uno con 8 periodos completes en Ty el otro con 6. 
+Ambos promedian cero. El promedio de! tennino a1 es por lo tanto cero. 
+Para el tfrmino a2, encontrariamos ai cos 9wt y a2 cos 5(1Jf, cada uno de los 
+cuales tambi6n promedia cero. Para el t6'mino a 9, encontrariamos cos 16wt y cos 
+(-2wt). Pero cos (-2wt) es igual a cos 2wt, por lo que los dos tienen promedio cero. 
+Resulta claro que todos los terminos en a tendriln un promedio cero, excepto uno. 
+Y este es el tfrmino a7• Para eJ tenemos 
+!07(COS 14wt + cos 0). (50.7) 
+El coseno de cero es uno y su promedio, naturalmente, es uno. Por lo que resu!ta 
+que el promedio de todos los tfrminos en o de la ecuaci6n (50.4) es igual a ! a7 . 
+Los tfrminos en b son aUn mils fitciles. Cuando multiplicamos por cualquier 
+tennino en coseno tal coma cos nwt, podemos demostrar siguiendo el mismo mi=· 
+todo, que todos los terminos en b tienen el valor promedio de cero. 
+Vemos que el "truco" de Fourier ha actuado como una criba. Cuando mu!ti­
+plicamos por cos 7 wt y promediamos, todos los ti=nninos desaparecen excepto o7 
+y encontramos que 
+promedio de IJ(t). cos 7wtl = 0 112. (50.8) 
+Q7 = ? iT f(t) 'COS 1wt dt. (50.9) 
+Dejaremos que el lector demuestre que el coeficiente b7 se puede obtener multi­
+plicando la ecuaciOn (50.2) por sen 7wt y promediando ambos miembros. El resul· 
+tado es _,. 
+b1 = }}0 f(t)·sen7wtdt. (50.10) 
+Ahora bien, lo que es verdad para 7 esperamos que sea verdad para cualquier 
+entero. Por ello, podemos resumir nuestra demostraciOn y nuestro resultado en la sl­
+guiente forma matemiltica mils elegante. Si m y n son enteros distintos de cero. y si 
+w = 2n- /T, entonces 
+T 
+I. lo sen nwt cos mw! dt = 0. (50.11) 
+II. {0
+1
+, cos nwt cos mwt dt = l {O if n r:!'. m. }, (50.12) 
+( T1 2ifn = m. 
+III. Jo seiinwtsenmwtdt = 
+50-8
+
+IV. f(t) = Oo + 'j;1 On cos nwt + j; bn sen nwt. (50.IJ) 
+V. ao = ~ iT f(t)·dt. (50.14) 
+On = ~ iT f(t) ·cos nwt dt. (50.15) 
+2 JT b,. = T 0 f(t) · sennwtdt. (50.16) 
+En capitulos anteriores fue conveniente usar notaci6n exponencia\ para repre­
+sentar un movimiento ann6nico simple. En lugar de cos wt usamos Re eiwt, la parte 
+real de !a funci6n exponencial. Hemos usado funciones seno y coseno en este capi­
+tulo porque hace un poco m:is claras quiz:is las derivaciones. Sin embargo, nuestro 
+resultado final de la ecuaci6n (50.13) se puede escribir en la forma compacta 
+(50.17) 
+donde an es el nU.mero complejo an-ibn (con ho= O~ Si deseamos usar la misma 
+notaci6n en todo el proccso, podemos escribir tambien 
+(50.18) 
+Ahora sabcmos c6mo ··ana1izar" una onda peri6dica en sus componentes arm6-
+nicas. El procedimiento se llama andlisis de Fourier y los tl!rminos por separado se 
+Haman componentes de Fourier. No hemos demostrado, sin embargo, que una vez 
+que hemos encontrado y sumado todas las componentes de Fourier, obtenemos nue­
+vamcnte nuestra f(I). Los matemilticos han demostrado, para una amplia gama de 
+funciones y en realidad para todas aquellas que son de interes para los fisicos, que si 
+podemos hacer las integrales obtenemos de nuevo f(t). Hay una pequefia excepci6n. 
+Si la funci6n f(l) es discontinua, esto es, si salta de repente de un valor a otro, la 
+suma de Fourier dari un valor en el punto de ruptura a medio camino entre el valor 
+superior e inferior de la discontinuidad. Asi, si tenemos la extrafla funci6nf(t) = 0, 
+0 :S:: t < t0 y f(r) ~ 1 para t0 S t:::;;: T, la suma de Fourier dara el valor correcto en 
+todos los puntos excepto en t0 , donde tendr8: el valor ~ en lugar de l. No es bastan­
+te fisico, de todas formas, insistir en que una funci6n debe ser cero hasta t 0 y I 
+exactamente en t0 • Por lo que quizils deberiamos dar la "regla" para los fisicos de 
+que cualquier funci6n discontinua (que solamente puede ser una simplificaci6n de 
+una funci6n fisica real) se deberia definir con el valor de! punto media de cada dis­
+continuidad. Entonces, cualquier funci6n parecida ---con cualquier nllmero finito de 
+tales saltos~ asi como todas las otras funciones fisicamente interesantes, estfill dadas 
+correctamente por la suma de Fourier. 
+Como ejercicio, sugerimos que el lector determine la serie de Fourier de la fun­
+ci6n mostrada en la figura 50-3. Como la fimci6n no se puede escribir en una 
+50-9
+
+forma algebraica explicita. no podriln hacer las integrales desde cero hasta t en la 
+forma corriente. Sin embargo, las integrales son f!lciles si las separamos en dos par­
+tes: la integral desde cero hasta T/2 (donde fW = I) y la integral desde T/2 
+hasta T(dondef(t)= -1). El resultado debe ser 
+f(t) = ~ (senwt + fi-sen 3wt + }sen5wt + · · ·), (50.19) 
+con «1 = 271" IT. Encontramos asi que nuestra onda c1.1adrada (con la fase particular 
+escogida) tiene solamente arm6nicos 1mpares y sus amplitudes estiin en proporci6n 
+inversa a sus frecuencias. 
+Fig. 50-3. Funci6n onda cuadrada 
+f(t)= +1 paraO < t < t/2, 
+f{t) = -1 para T/2 < t < T. 
+Comprobemos que la ecuaci6n (50.19) nos da verdaderamente f(t) de nuevo 
+para alglln valor de t. Escojamos t = T/4, o sea wt x 71"/2. Tenemos 
+f(t) =~(sen 1 +~sen~~ sen~+··) 
+=~(1-~+!-~+··)· 
+La serie"' tiene el valor 71"/4 y encontramos quef(l) = L 
+50-S Teorema de la energia 
+(50.20) 
+(50.2!) 
+La energia de una onda es proporcional al cuadrado de su amplitud. P:,i.ra una 
+onda de forma compleja, la energia en un periodo serit proporcional a J/f(t)dt. 
+Tambien podemos relacionar esta energia con los coeficientes de Fourier. Escribimos 
+{T {T [ • • ]' 
+} 0 / 2(r) dt = } 0 a0 + ,E an cos nwt + ,t:1 bn sen nwt dt. (50.22) 
+• La serie se puOOe evaluar del sigmente modo. Pnmero observamos que J~ldx/(l + x')ltan-'x 
+En segundo lugar. desarroUamos el integrando en serie: 1/(1 + x')= l ·-x' + x"-x" + ... lntegramo~ 
+la serie til:rmino a tCrmino (desde cero ax) para obtener tan·• x 0 ~ l -x' I, + x' I, - x' I, ~ Hacien 
+do x = I, 1enemos el resultado establecido, puesto que tan-1 I= ,,.;4 
+50-10
+
+Cuando desarrollamos el cuadrado del corchete obtendremos todos los dobles pro­
+ductos posibles, tales como a~ cos 5wt b1 cos 7(;Jf. Hemos demostrado antes, sin 
+embargo IEcs. (50.11) y (50.12)1, que las integrales de: todos esos tfrminos sobre un 
+periodo son cero. Hemos dejado solamente los tfrminos cuadritticos como a;cos 25wt. 
+La integral de cualquier coseno o seno al cuadrado sobre un periodo es igua! a T/2, 
+por lo que obtenemos 
+' l .(2(1) dt = Tafi + r (af + a~ + · · · + bi + b~ + · · ·) 
+2 T f--. 2 b') 
+= Tuu + 2' ,f;:1 (an + " · (50.23) 
+Esta ecuaciOn se llama "teorema de la energia" y dice que la energia total de una 
+onda es justamente la suma de las encrglas de todas las componentes de Fourier. 
+Por ejemplo, aplicando este tcorema a la serie (50.19) y puesto que lf(t/ 2 = 1 obte-
+T = ~ · (~) 
+2 
+(I + ~ + ~2 + ·7~ · · -) .' 
+de donde aprcndemos que la suma de los cuadrados de los inversos de los nUmeros 
+enteros impares es '1"2 /8. De un modo semejante, obteniendo primero la serie de 
+Fourier para la funciOn y usando el teorema de la encrgia podemos probar quc 
+J + l /24 + 1 /3 4 + ... cs >r4 /90, resultado que necesittibamos en el capitulo 45. 
+50-6 Respuestas no lineales 
+Finalmente, hay un fen6meno importante en la teoria de los arm6nicos que se 
+debe seiialar a causa su importancia pnictica ·d de los efectos no linea!es-. En 
+todos los sistemas quc estado considerando hasta ahora, hemos supuesto que 
+todo era lineal, que. las respucstas a las fuerzas, digamos los desplazamientos o las 
+aceleraciones, eran sicmpre proporcionales a las fuerzas. 0 que las corrientes en los 
+circuitos eran proporcionales a los voltajes. etc. Quercmos considerar ahora casos 
+dunde no hay una estricta proporcionalidad. Consideramos, por el momento, algUn 
+dispositivo en el que la respuesta. que llamaremos x,ai al tiempo t, estit determinada 
+por la entrada x.,"' al tiempo t. Por ejemplo, Xem podria ser la fuerz.a y x,a1 podria ser el 
+desplazamiento. 0 .\·,,,1 podria ser la corriente y x,ai el voltajc. Si el dispositivo es lineal, 
+tendriamos 
+donde K es una constante independientc de t y de xent· Supongan, sin embargo, que 
+el dispositivo es casi. pero no exactamente, lineal, de modo que podamos escribir 
+x,.i(l} =" Klxent(t) + EX 2 enltJJ, 
+donde < es pequeii.o frente a la unidad. Las grilficas de la figura 50-4 muestran res­
+puestas lineales y no lineales. 
+50-11
+
+tot Lineal 
+Sal. Ent 
+i~1 Nolineal 
+• -~( .... 1-.t) 
+Sal. Ent. Ent 
+Fig. 50-4. Respuestas lineal y no Fig. 50-5. Respuesta de un disposi-
+linea!. tivo no lineal a la entrada cos wt. Para 
+comparar se muestra una respuesta lineal. 
+Las respuestas no !ineales tienen muchas consecuencias pr<i.cticas importantes. 
+Ahora discutiremos algunas de ellas. En primer lugar, consideramos lo que sucede 
+si aplicamos una nota pura a la entrada. Hacemos Xent = cos wt. Si representamos 
+xw en funci6n del tiempo, obtenemos la curva continua que .muestra la figura 50-5. 
+La curva de trazos da, por comparaci6n, la respuesta de un sistema lineal. Vemos 
+que la salida ya no es una funci6n coseno. Es mis aguda arriba y mis llana abajo. 
+Decimos que la salida esta distorsionada. Sabcmos, sin embargo, que tal onda ya no 
+es mis una nota pura, que tendr<i. armOnicos. Podemos encontrar cufi.les son Jos 
+arm6nicos. Usando Xent = cos wt con la ecuaci6n (50.25), tenemos 
+XsaJ = K(cos wt + f cos2 wt). (50.26) 
+De la igualdad cos2 ()=.!(I -cos 28), tenemos 
+Xsal = K (cos wt+~~~ cos 2wt) · (50.27) 
+La salida no s6lo tiene una componente a la frecucncia fundamental, que estaba pre­
+sente a la entrada, sino que tambi6n tiene alga de su segundo arm6nico. Tambien ha 
+aparecido a la salida un terntlno constante K(t /2) que corresponde al corrimiento 
+de! valor media, mostrado en la figura 50-5. El proceso de producir un corrimiento 
+del valor promedio se llama rectiflcacidn. 
+Una respuesta no lineal rectificara y producira arm6nicos de las frecuencias de 
+su seiial de entrada. Aunque la falta de linealidad que supusimos produjera sola­
+mente segundos arm6nicos, la falta de linealidad de orden mas alto --aquellas que 
+tienen tertninos como xJem y x4e111 • por ejemplo- produciran arm6nicos mas altos 
+quc cl segundo. 
+Otro efecto que resulta de una respuesta no lineal es la modulaciOn. Si nuestra 
+runci6n de entrada contiene dos (o mils) notas puras, la salida tendra no solamente 
+sus arm6nicos, sino tambien otras componentes de frecuencia. Hagamos xem = A cos 
+~~:: A~~s:~tde1~~n~~~:~'lq~e~~ ;op~~ 1 irsee~~~ete~~~e~~!n en relaci6n ar-
+50-12
+
+una componente a la salida dada por 
+X,ai = Kf(Acoswit + Bcosw 2 t)2 (50.28) 
+= K~(A 2 cos,w 1 t + B 2 cos 2 w2 r + 2ABcosw 1tcosw 2t). (50.29) 
+Los dos primeros tfaminos dentro del parentesis en la ecuaci6n (50.29) son justa­
+mente los que dieron los tfaminos constantes y los segundos arm6nicos que encon­
+tramos antes. El Ultimo termino es nuevo. 
+Podemos considerar este nuevo "termino cruzado" AB cosuJ1t cosw 2t de dos 
+modos. En primer lugar, si las dos frecuencias son muy diferentes (por ejemplo, 
+si w 1 es mucho mayor que (1i 2) podemos considerar que el tCrmino cruzado represen­
+ta una oscilaci6n cosenoidal de amplitud variable. Esto es, podemos considerar los 
+factores en esta forma: 
+C(r) = AB cos w2t. 
+Decimos que la amplitud de cos w 1 est<i. modulada con la frecuencia (.tJ:i,. 
+Alternativamente, podemos escribir el tfamino cruzado en otra forma: 
+(50.30) 
+(50.31) 
+Ahora diriamos que se han producido dos nuevas componentes, una a la frecuencia 
+suma (1,1 1 + 1112 ). otra a la frecuencia diferencia (w 1 -w 2). 
+Tenemos dos modos diferentes, pero equivalentes, de considerar el mismo re­
+sultado. En el caso especial en que w 1 > w 2, podemos relacionar estos dos puntos 
+de vista diferentes seftalando que como (w 1 + w 2) y (w 1 -w 2) son pr6ximas espe­
+rariamos observar pulsaciones entre elias. Pero estas pulsaciones tienen solamente 
+e! efecto de modular la amplitud de la frecuencia promedio w 1 en la mitad de la 
+frecuencia diferencia 2(.u2• Vemos entonces por que las dos descripciones son equi­
+valentes. 
+En resumen, hemos encontrado que una respuesta no lineal produce varios efec­
+tos: rectificaciOn, generaci6n de armOnicos y modulaciOn o generaciOn de compo­
+nentes con las frecuencias suma y diferencia. 
+Deberiamos notar que todos estos efectos (Ee. 50.29) son proporcionales no 
+solamente al coeficiente de falta de linealidad E, sino tambien al producto de dos 
+amplitudes ....-bien A1, bien B1, bien AB-. Es de esperar que estos efectos sean mucho 
+mas importantes para las seiialesfuertes que para las dCbiles. 
+Los efectos que hemos estado describiendo tienen muchas aplicaciones prilcti­
+cas. En primer lugar, respecto al sonido, se cree que el oido no es lineal. Se cree que 
+esto explica el hecho de que con los sonidos fuertes tenemos la sensaci6n de que 
+ofmos arm6nicos y tambien frecuencias suma y diferencia aunque las ondas sonoras 
+contengan solamente notas puras. 
+Los componentes que se usan en equipos de reproducci6n de sonido -ampli­
+ficadores, altoparlantes, etc.- siempre tienen algo de falta de linealidad. Producen 
+distorsiones en 
+50-13
+
+el sonido -generan arm6nicos, etc.- que no estaban presentes en el sonido original. 
+El oido oye esta~ nuevas componentes, que son aparentemente objetables. Es por 
+esta raz6n que los equipos "Hi-Fi" est.in disefi.ados para que sean lo mas lineales 
+posible. (Por que la falta de linealidad del oido no es objetable del mismo modo, 
+o c6mo sabemos que la falta de linealidad estii. en el aftoparlante y no en el oldo, 
+ino csta claro!) 
+Las faltas de linealidad son muy necesarias y, en la realidad, se hacen inten­
+cionalmente grandes en ciertas partes de los equipos radiotransmisores o receptores. 
+En un transmisor AM la sefial "voz" (con frccuencia de algunos kilociclos por se~ 
+gundo) se combina con la seiial "portadora" (con una frecuencia de algunos mega­
+ciclos por segundo) en un circuito no lineal llamado modulador, para producir la 
+oscilaci6n modulada que se transmite. En el receptor, !as componentes de la seiial 
+recibida alimentan un circuito no lineal quc combina las frecuencias suma y dife­
+rencia de la portadora modulada para generar de nuevo la seiial voz. 
+Cuando discutimos la transmisi6n de la luz, supusimos que las oscilaciones in­
+ducidas de cargas eran proporcionales al campo electrico de !a luz --que la respuesta 
+era lineal-. Esto es en verdad una aproximaciOn muy buena. Ha sido solamente en 
+los Ultimas aiios que sc ha diseiiado fuentes de lu:z (l.ilscrcs) que producen una in­
+tensidad de luz lo bastante fuerte como para que se pueda observar los efectos no 
+\ineales. Ahora es posible generar armOnicos de las frecuencias de la luz. Cuando 
+una luz roja intensa atraviesa un trozo de vidrio, jsa!e un poquito de luz arnl --se­
+gundo armOnico! 
+50-14
+
+51 
+Ondas 
+51-1 Ondas de proa 
+51-2 Ondas de choque 
+51-1 Ondas de proa 
+51-3 Ondas en sOlidos 
+51-4 Ondas superficiales 
+Aunque hemos terminado nuestro ani!isis cuantitativo de las ondas, este capi­
+tulo adicional sobre el tema esta destinado a dar cierta visi6n cualitativa de diversos 
+fen6menos asociados con las ondas, Jos cuales son demasiado complicados como 
+para analizarlos en deta!le aqui. Como hemos estado tratando ondas durante varios 
+capitulos, un nombre mils apropiado de! tema seria "algunos de !os fen6menos mas 
+complejos asociados con las ondas". 
+'• 
+Fig. 51-l. El frente de onda de choque 
+yace sabre un cono con vertice en la fuente y 
+semiabertura(} = arcsenc 0 /v · 
+E! primer t6pico a discutir se refiere a las efectos producidos por una fuente de 
+ondas que se mueve a una velocidad mayor que la de la onda, o velocidad de fase. 
+Consideremos primero ondas que tienen una velocidad definida, tal como el sonido 
+y la luz. Si tenemos una fuente de sonido moviendose a una velocidad mayor que la 
+de! sonido, ocurre algo asi: supongan que en cierto momenta se genera una onda 
+sonora en la fuente en el punto x1 de la figura 51-1; entonces, en el instante 
+siguiente, a medida que la fuente se traslada hasta x1 la onda proveniente de x1 se 
+expande hasta un radio r 1 menor que la distancia recorrida por Ia fuente; y por su· 
+puesto, otra onda sale de x2• Cuando la fuente de sonido se ha movido al.in mils, 
+hasta x3, y una onda estil saliendo alli, la onda proveniente de x2 se ha expandido 
+ahora hasta r 2 y la proveniente de x 1 has ta r 3• 
+51-1
+
+Naturalmente, la cosa ocurre continuamente, no a saltos, yen consecuencia tenemos 
+una serie de ondas circulares con una recta tangente comlm que pasa por el centro 
+de la fuente. Vemos que en vez de una fuente que genera ondas esfericas, como ocu­
+rriria si estuviese quieta, genera un frente de onda que forma un cono en tres dimen­
+siones, o un par de rectas en dos dimensiones. El ;lngulo de! cono es muy ffi.cil de 
+hallar. Durante un intervalo dado de tiempo la fuente se mueve cierta distancia, 
+digamos que x.i - x1, proporcional a v, velocidad de la fuente. Mien tr as tan to, el fren­
+te de onda se ha movido una distancia r3 proporcional a c0 , velocidad de la onda. En 
+consecuencia es evidente que el semiitngulo de abertura tiene un seno igual al cocien­
+te entre la velocidad de las ondas y la velocidad de la fuente, y este seno tiene solu­
+ci6n solamente si c0 es menor que v, o sea que la velocidad de! objeto es mayor que 
+la de la onda: 
+sen8=-%"-· (51.1) 
+Entre parfotesis. aunque hemos supuesto implicitamente que es necesario tener 
+una fuente de sonido, resulta, y esto es muy interesante, que una vez que el objeto 
+se mueva mils rilpidamente que el sonido, producird sonido. Esto es, no es necesario 
+que tenga un carilcter vibracional con cierto tono. Cualquier objeto que se mueva en 
+un media con una velocidad mayor que la velocidad a la cual el medio transporta 
+ondas, generaril ondas a cada !ado, automitticamente, simplemente por el movimien­
+to mismo. Esto es sencillo en el caso de! sonido, pero tambi61 ocurre en el caso de 
+la luz. A primera vista se podria pensar que nada se puede mover mils rilpido que la 
+tuz. Sin embargo, la luz tiene en el vidrio una velocidad de fase menor que la velo­
+cidad de la luz en el vacio y es posible disparar una particula cargada de energ!a 
+muy alta a travCs de un bloque de vidrio de modo que la velocidad de la particula 
+sea cercana a la velocidad de la luz en el vacio, mientras que la velocidad de la luz 
+en el vidrio puecle ser s61o j de la velocidad de la luz en el vacio. Una particula 
+que se mueve mils rilpido que la luz en el meclio produciril una onda c6nica de luz 
+con vertice en la fuente, como la onda de la estela de un bote (que en realidad pro­
+viene de! mismo efecto). Midiendo el imgulo del cono, podemos determinar la veloci­
+dad de la particula y es uno de los m6todos 
+51-2
+
+para determinar su energia en la investigaci6n de alta energia. Todo lo que se nece­
+sita medir es la direcci6n de la luz. 
+Esta luz se llama a veces radiaci6n de Cerenkov porque Cerenkov fue el primero 
+en observarla. Franck y Tamm analizaron te6ricamente cu0.I deberia ser la intensi­
+dad de esta luz. El Premio Nobel de Fisica 1958 fue otorgado conjuntamente a los 
+tres por este trabajo. 
+La situaci6n correspondiente en el caso de! sonido estB. ilustrada en la figuta 
+51-2, que es una fotografia de un objeto movii:ndose a travi:s de un gas con una 
+velocidad mayor que la velocidad de! sonido. Las variaciones de presi6n producen 
+una variaci6n del indice de refracci6n y con un sistema 6ptico apropiado es posible 
+hacer visibles los hordes de las ondas. Vemos que el objeto que se mueve mils 
+rilpido. que el sonido produce, verdaderamente, una onda c6nica. Pero una observa­
+ci6n mils atenta revela que en realidad la superficie es curva. Es recta asint6ticamen­
+te, pero es curva cerca de! vi:rtice, y tenemos ahora que discutir c6mo puede ser 
+esto, lo cual nos Deva al segundo t6pico de este capitulo. 
+1b~~ 
+Distancia 
+Fig. 51-3. "lnstantaneas'" del frente de onda en instantes sucesivos de tiempo. 
+51-2 Ondas de ehoque 
+A menudo, la velocidad de las ondas depende de la amplitud; en el caso de! so­
+nido la velocidad depende de la amplitud en la siguiente forma. Un objeto que se 
+mueve en el aire, tiene que apartar a i:ste de su camino, por lo que la perturbaci6n 
+producida en este caso es una especie de escal6n de presi6n, siendo la presiOn mils 
+alta detrils del frente de onda que en la regi6n no perturbada que aim no ha alcan­
+zado la onda (que se mueve a velocidad normal, digamos). Pero el aire dejado atrils 
+despui:s que pasa el frente de onda, se ha comprimido adiabilticamente y en conse­
+cuencia la temperatura aumenta. Ahora bien, la velocidad de! sonido aumenta con la 
+temperatura, por lo que en la regi6n que estil detrils de! salto, la velocidad es mayor 
+que en el aire que estil al frente. Esto implica que cualquier otra perturbaciOn que 
+se haga detrils de este esca16n, digamos que empujando continuamente el cuerpo, o 
+cualquier otra perturbaci6n, se moveril mils rilpido que el frente, aumentando la velo­
+cidad con el aumento de presi6n. La figura 51-3 ilustra la situaci6n, con algunas 
+pequeiias protuberancias de presi6n agregadas al perfil de presi6n para ayudar a vi­
+sualizar. Vemos que las regiones de mayor presi6n en la parte posterior sobrepasan 
+el frente con el transcurrir del tiempo, hasta que finalmente la onda de compresi6n 
+desarrolla un frente bien definido. Si la intensidad es muy alta, "finalmente" 
+significa repentinamente; si es mils bien debil, tarda mucho tiempo; tanto que, puede 
+ocurrir que el sonido se difunda y se extinga antes de que tenga tiempo de desarro­
+llar este frente. 
+Los sonidos que hacemos al hablar son extremadamente di:biles respecto a la 
+presi6n atmosffrica -sOlo I en un mill6n m.is o menos-. Pero para variaciones de 
+presi6n de! orden de una atm6sfera, la vclocidad de la onda aumenta en a!rededor 
+de 20 por 100 y el frente de onda 
+51-3
+
+se hace bien definido con una rapidez correspondientemente alta. Es de presumir 
+que nada ocurre en la naturalez.a infinilamente rt'tpido, y lo que llamamos frente 
+"bien definido" tiene, en realidad. un pequeiHsimo espesor; no es infinitamente abrup­
+to. Las distancias sobre las cuales varia son del orden de un camino libre medio, 
+para las cuales la teoria de la ecuaciOn de onda comienza a faUar porque no hemos 
+considerado la t\Structura del gas. 
+Ahora bi en, refiriCndonos de nuevo a la figura 5 1-2, vcmos que se puede com­
+prender la curvatura si nos damos cuenta que cerca de! vCrtice las presiones son 
+mayores de lo que son mas atris, por Jo que el ingulo ()es mayor. Esto es, la curva 
+es el resu!tado del hecho de que la velocidad depende de la intensidad de la onda. 
+Por consiguicnte la onda producida por la explosiOn de una bomba at6mica viaja por 
+un corto tiempo a una veloddad mucho mils alta que la de! sonido, hasta que esti tan 
+alejada que es debilitada por la difusiOn, a ta! punto, que el pico de presi6n es 
+pequeiio comparado con la presi6n atmosfCrica. La velocidad de la perturbaciOn se 
+aproxima a la velocidad dcl sonido en el gas donde sc propaga. (Entre par6ntesis, 
+siempre resulta que la velocidad de la onda de choque es mis alta que la velocidad 
+de! sonido en el gas que estt't delante, pero cs m3.s baja que !a velocidad de! sonido 
+en el gas que estil atrils. Es decir, los impulsos provenicntes de atr3.s llegariin al 
+frcnte, pcro Cstc avanza hacia el media en el cual se mueve con velocidad mayor quc 
+!a velocidad normal de las scii.ales. Asi, pues,- no se pucde saber acU.sticamente que la 
+onda estil viniendo hasta que es dcmasiado tarde. La luz provcnientc de la bomba 
+!lega primero, pero no se pucde saber que viene la onda de choque hasta que llega, 
+porque no hay seii.al sonora que ia preceda.) 
+Figura 51-4 
+51-4
+
+por el pist6n se adelanta y se amontona al frente. De nue".'o: lo que tenemos final­
+mente es simplemente agua con un frente bien delineado, teoncamente. Sin embargo, 
+como muestra la figura 51-4, hay complicaciones. Se ha fotografiado una onda que 
+recorre un canal; el pist6n est.i en el extremo derecho de! canal. Al principio puede 
+que haya aparecido como una onda que se porta bien, como seria de esperar, pcro 
+mils adelante en el canal se ha vuelto mils y mils puntiaguda hasta que ocurri6 lo 
+que se ha fotografiado. La superficie se revuelve terriblemente a medida que caen 
+porcion.es de agua, pero e.sencialmente es una elevaci6n bien neta sin ninguna per­
+turbacion de! agua que esta adelante. 
+En realidad, el agua es mucho mils complicada que el sonido. Sin embargo, s6lo 
+para dar un ejemplo de esto, trataremos de ana!irnr la velocidad de esta gran ola en 
+un canal. Este pumo no tiene ninguna importancia b:isica para nucstros fines -no 
+es una gran generalizaciOn·-" es solamente para dar un ejemplo de que las !eyes de la 
+medtnica que ya conocemos son capaces de explicar el fenOmeno. 
+Fig. 51-5. Dos secciones transversales de 
+una gran o!a en un canal, siendo (b) un inter­
+valo 4t posterior a (a) 
+tl.magmen por un momenta quc el agua tiene mB.s o de la figura 
+51-5(a), que cl agua a la altura m:is alta h, se mueve con 1• y quc e! frcnte 
+se mueve con velocidad u hacia el agua nO perturbada que la a!tura h1• Que· 
+rriamos determinar la vclocidad a la que se mueve el frente. un tiempo !'o.!, un 
+piano vertical inicialmente en x1 se mueve a una distancia I'..'./ hasta x 2 mientras el 
+frente de la onda se ha movido u .11. 
+Ap!iquemos ahora las ecuaciones de !a materia y de! momen-
+tum. F,n primer pnmera: vemos que por ancho del canal la can-
+tidad h,rJt de quc ha pasado por x1 (que sc rnuestra rayada) es.compensa-
+da por ·1a rayada de magnitud (hi ~ hJ u M. Luego, divtdiendo por 
+Jt, rh! =-- Esto no no~ basta. porquc aunque tenernos h2 y h1, no conoce-
+trntando de obtener las dos. 
+51-5
+
+multiplicada por g, multiplicada por la profundidad desde la superficie. Como la pre­
+si6n aumenta linealmente con la profundidad, la presi6n media sobre el piano que 
+estit en x1, digamos, es ~ pgh 2, que es tambifo la fuerza media por unidad de ancho 
+y por unidad de altura, que empuja el piano hacia x2• Por lo tanto multiplicamos 
+por otra h2 para obtener la fuerza total que se ejerce sobre el agua que cmpuja des­
+de la izquierda. Por otro lado, estil tambien la presi6n en el agua de la derecha que 
+ejerce una fuerza opuesta sobre la regiim en cuesti6n, que por el mismo tipo de anit­
+lisis es 1 pgh 2 1• Ahora debemos cquilibrar las fuerzas con la rapidez de variaci6n 
+de\ momentum. Asi, pues, tenemos que calcular cuilnto momentum en exceso hay en 
+la situaciOn (b) de la figura 51-5 respccto al que habia en (a). Vemos que la masa 
+adicional que ha adquirido la velocidad v es simplemente ph 2uM-ph 2v.1t (por uni­
+dad de ancho ); multiplicando esta masa por v se obtiene el momentum adicional a 
+igualar con el impulso FM: 
+(ph2u t::..t - Ph2v t::..t)v = npgh~ - fpgh~) t::..t. 
+Si eliminamos r de csta ecuaci6n sustituycndo l'h, = 
+do, y simplificamos, obtenemos finalmenteque ul ~ 
+Si la diferencia de alturas es muy pequeiia, de modo que h1 y h 2 son casi iguales, 
+esto nos dice que la velocidad = Jg!I. Como veremos mils adelante, esto es verdad 
+Unicamente si la longitud de onda de la onda es mayor que la profundidad de\ canal. 
+Tambien podriamos haber hecho Jo mismo para las ondas sonoras -~incluyendo 
+la conservaci6n de la energia interna, no la conservaci6n de la entropia porque la 
+onda de choque es irreversible-. Verdaderamente, al fijarse si se conscrva la energia 
+en el problema de la gran ola, se encuentra que la energia no se conserva. Si la dife­
+rencia de alturas es pequeiia, se conserva casi perfectamente, pero tan pronto como 
+la diferencia de alturas se hace muy apreciable, hay una pfrdida neta de energia. 
+Esto se mani!iesta coma calda de agua con e! consiguiente revoltijo mostrado en la 
+figura 51-4. 
+En las ondas de choque hay una correspondiente perdida aparente de energia, 
+desde el punto de vista de las reacciones adiabilticas. La energia de la onda sonora, 
+detrits de la onda de choque, se transforma en calentamiento de! gas despues que 
+pasa la onda de choque, lo cual corresponde al revoltijo del agua en la ola. Al 
+calcular esto resulta para el caso dcl sonido que son necesarias tres ecuaciones 
+para la soluci6n, y la temperatura detrii.s de la onda de choque no es igual a la 
+temperatura al frente, como hemos visto. 
+Si tratamos de hacer una ola invertida (h 1 < h1), encontramos que la petdida de 
+energia por segundo es negativa. Como no hay energia disponible de ninguna parte, 
+esa ola no se puede mantener; es inestable. Si formitramos una onda de ese tipo, se 
+achataria porque la dependencia de la velocidad con la altura que daba lugar al 
+frente bien delineado en el caso discutido, tendria ahora el efecto opuesto. 
+51-3 Ondas en sOlidos 
+La siguiente clase de ondas a estudiar es la de las ondas mils complicadas en 
+s61idos. Ya hemos tratado ondas en gases y en liquidos y hay una analogia directa 
+con una onda sonora en un s6lido. Si se aplica a un s61ido un golpe repentino, se 
+comprime. Resiste la compresi6n y se establece una onda anitloga al sonido. Sin em­
+bargo, hay otro tipo de onda posib\e en un s6lido, y que no es posible 
+51-6
+
+en un flliido. Si se defoirna un s61ido tirando de eJ lateralmente (de[ormaciOn de 
+corte) trata de volver a su forma original. Esto es por definici6n lo que distingue 
+un s61ido de un liquido: si deformamos un liquido (internamente), lo mantenemos 
+un minuto para que se calme y luego lo soltamos, se queda asi, pero si tomamos un 
+s6lido y lo deformamos, ta! como deformar lateralmente un pedazo de gelatina, y 
+luego lo soltamos, vuelve a como estaba iniciando una onda de corte que viaja de 
+la misma manera que las compresiones. En todos los casos la velocidad de la onda 
+de corte es menor que la de las ondas longitudinales. Las ondas de corte son pa­
+recidas, en lo que respecta a sus polarizaciones, a las ondas luminosas. El sonido 
+no tiene polarizaci6n, es simplemente como una onda de presi6n. La luz tiene una 
+orientaci6n caracteristica perpendicular a su direcci6n de propagaci6n. 
+En un s6lido, las ondas son de ambos tipos. Primero, hay una onda de compre­
+si6n aniiloga al sonido, que corre a una velocidad. Si el s6lido no es cristalino se 
+propagara una onda de corte polarizada en cualquier direcci6n a una velocidad ca­
+racteristica. (Por supuesto que todos los s6lidos son cristalinos, pero si usamos 
+un bloque hecho de microcristales en todas las orientaciones posib!es, las anisotro­
+pias cristalinas se promedian y desaparecen.) 
+Otra pregunta interesante referente a las ondas sonoras es la siguiente: lquf: 
+ocurre si la longitud de onda en el s6lido se acorta mas, y mas, y mas? lHasta 
+d6nde se puede acortar? Es interesante que no se puede hacer mas corta que el es­
+paciamiento entre Jos atomos, porque si se supone que hay una onda en la que un 
+punto va para arriba y el siguiente para abajo, etc., la longitud de onda mils corta 
+posible es evidentemente el espaciamiento at6mico. En tfrminos de modos de os­
+cilaci6n decimos que hay modos longitudinales y modos transversales, modos de 
+ondas Jargas, modos de ondas cortas. Cuando consideramos longitudes de onda 
+comparables al espaciamiento entre atomos, las velocidades ya no son constames: 
+hay un efecto dispersivo en el que la velocidad no es independiente de! nUmero de 
+onda. Pero en Ultima instancia, el modo de vibraci6n mas alto de ondas transversa­
+les seria aquel en que cada :homo esta haciendo lo contrario de los ittomos vecinos. 
+Ahora bien, desde e! punto de vista de los il.tomos, la situaci6n es como los dos 
+pf:ndulos de que estuvimos hablando, para los cuales hay dos modos: uno en el que 
+ambos van juntos y otro en el que van en sentidos opuestos. Es posible analizar las 
+ondas en s61idos de otra manera, en tCrminos de un sistema de osciladores arm6ni­
+cos acoplados, como una cantidad enorme de pf:ndulos, siendo el modo mas alto 
+ta! que oscilan en forma opuesta y habiendo modos mits bajos con diferentes rela­
+ciones de sincronizaci6n. 
+Las longitudes de onda m:i.s cortas !o son tanto que de ordinario no son tf:cnica­
+mente accesibles. Sin embargo, son de gran interf:s, porque en la teoria termodi­
+n<imica de un s6lido, las propiedades t6rmicas de un s6lido, por ejemplo los ca!orcs 
+especificos, se pueden analizar en funci6n de las propiedades de las ondas sonoras 
+cortas. Yendo al extremo de ondas sonoras de longitud de onda siempre mas corta. 
+se llega necesariamente a los movimientos individuales de los ittomos; en Ultima ins, 
+tancia las dos cosas son lo mismo. 
+Un ejemplo muy interesante de ondas sonoras en un s6Jido, tanto longitudinales 
+como transversales, es el de las ondas que hay en la tierra s61ida. No sabemos quien 
+hace los ruidos, pero de tiempo en tiempo, dentro de la tierra hay terremotos -algu­
+na roca se des!iza sobre alguna otra-. Esto es como un pequeiio ruido. Asi, de esa 
+fuente parten ondas como las sonoras de longitud de onda mucho mils larga de lo 
+que comllnmente S{; considera en ondas sonoras, pero aUn son ondas sonoras y se 
+pro pagan 
+51-7
+
+por la tierra. Sin embargo, la tierra no es homogfnea y las propiedade~ de presi6n, 
+densidad. compresibilidad, etc., varian con la profundidad } en comecuencia la ve 
+locidad varia con la profundidad. Entonces las ondas no v1ajan en linea recta -hay 
+una especie de indice de refracci6n y siguen lineas curvas-. Las ondas longitudina­
+les y las transversales tienen velocidad distinta, por lo que hay soluciones difercntes 
+para las diferentes ve\ocidades. En consecuencia, si colocamos un sismligrafo en al­
+gU.n sitio y observamos c6mo se sacude despucs de que ha habido un terremuto en 
+alguna parte. no obtenemos simplemente una agitaci6n irregular. Podriamos obtener 
+una agitaci6n, luego un aquietamiento. y luego otra agitaci6n -!o que ocurre depen 
+de de la ubicaci6n"". Si estuviframos lo bastante cerca, primero recibiriamos ondas 
+longitudinales proveniente~ de la perturbaci6n. y luego, unos instantes mas tarde. 
+ondas transvcrsales ya que viajan mils lentamente. Midiendo la diferencia de tiempo 
+entre las dos, podemos decir a quC distancia est<i el terremoto si conocemos lo ~u 
+ficiente acerca de las velocidades y de la composici6n de las reglones internas afec­
+tadas. 
+Fig. 5i-6. Representaci6n esquem.3t1ca 
+de la t1erra, que muestra el recomdo de ondas 
+sonoras longitudinales y transversales 
+La figura 51-6 muestra un ejemp!o del diagrama de comportamiento de ondas 
+terrestres. Las dos clases de ondas estUn representadas por simbolos distintos. Si 
+hubiera un terromoto en el lugar marcado ·•fuente", las ondas transver~alcs y las 
+longitudes llegarian en tiempos diferentes a la estaciOn por !as rutas mils directas. y 
+tambiCn habria reflexioncs en !as discontinuidades, dando lugar a otros recorridos y 
+tiempos. Resulta que !a tierra tiene un nU.cleo que no transporta ondas transversales. 
+Si la estaciOn estti. opuesta a la fuente, las ondas transversales siguen llegando. pero 
+el tiempo no es el que corresponde. Lo que ocurre es quc la onda transversal llega 
+al nUcleo y siempre que las ondas transversales llegan a ur;a superficie oblicua entre 
+dos materiales, se generan dos nucvas ondas, una transversal y una longitudinal. 
+Pero una onda tranversal n_o se propaga dentro del_nucleo tcrresue (o gor lo menos 
+no hay evidencia de ello; solo la hay de ondas Jongitudinales): sa!e de nuevo en am­
+bas formas y llega a la estaci6n. 
+Es a partir del comportamiento de estas ondas de terremotos-·que se ha determi­
+nado quc las ondas transversales no se pucden propagar dentm de\ circulo interior. 
+Esto significa que el centro de la tierra es liquido en el sentido de que en Cl no se 
+pueden P.ropagar ondas transversales. La Unic~ manera de saber lo que hay dentro 
+de la tiei-ra es estudiando los terremotos. As1, pues. usando una gran cantidad de 
+observacioncs de muchos terremctos en diferentes 
+51-8
+
+estaciones ha sido posible los detalles -se conoce la ve\ocidad, las curvas, 
+elcetera-. Sabemos cuilles son velocidades de diversos tipos de ondas a cada pro-
+fun.dtdad. Conoctendo esto, en consecuencia, es posible det.erminar Jos modos norma-
+les de la tierra, porque la velocidad de propagaciim de las ondas sonoras 
+-en otras palabras, las elilsticas de ambos tipos de ondas a cada profun-
+didad-. Supongan que se 1a tierra en forma de elipsoide y se la soltara. Es 
+simplernente cuesti6n de superponer ondas que viajan por el elipsoide para deterrninar 
+el periodo y las formas de un modo de oscilaci6n libre. Hemos calculado que si hay 
+t.ma penurbaci6n, hay un mont6n de modos, desde el mils bajo, que es elipsoidal, has­
+ta los modos mils altos con mils complejidad. 
+El terremoto chl!eno de mayo de 1960 hizo un "ruido ., lo suficientemente fuerte 
+que las sei'ia!es dicran vuelta a la tierra varias veces, y hubo nuevos 
+de gran delicadeza terminados justo a tiempo para determinar la fre­
+Jos modos fundamentales de la tierra y compararlos con los valores 
+partir de la teori.a de! sonido con las velocidades conocidas, medidas 
+en terremotos independientes, El resultado de este experimento esta ilustrado en la 
+figura 51-7, que es una tepresentaci6n de la intensidad 
+Fig. 51- 7. Potencia en funci6n de la ffe­
+cuencia registrada por sism6grafos en Nana, 
+Peru, e Isabella, California. La coherencia es 
+una medida de! acoplamiento entre las esta­
+ciones. [Tornado de Benioff, Press y Smith, 
+J. Geoph. Research 66, 605 ( 1961 )l 
+Fig. 51-8. Anillisis con alta resoluci6n de 
+uno de los registros sisrnogrilficos, mostrando 
+un doblete espectral. 
+51-9
+
+de la seiia] en funci6n de la frecuenda de su osci!aci6n (un andlisis de Fourier). 
+Observen que a ciertas frecuencias determinadas se recibe mucho mils que a otras 
+frecuencias; hay mflximos muy definidos. Estas son las frecuencias naturales de la 
+tierra, porque son las frecuencias principales a las cuales pucde oscilar la tierra. En 
+otras palabras, si el movimiento entero de la tierra est& construldo con muches 
+modos diferentes, seria de esperar que en cada estaci6n se obtuvieran sacudidas 
+irregulares que indican superposici6n de muchas frecuencias. Si analizamos esto 
+en terminos de frecuencias, tendriamos que poder encontrar las frecuendas carac­
+teristicas de la tierra. Las lineas oscuras verticales de la figura son las frecuencias 
+caiculadas: encontramos un acuerdo notable, acuerdo debido a que la teoria de! so­
+nido es correcta para el interior de la tierra. 
+Hay un punto muy curioso que revela la figura 51-8, la cual muestra una medi­
+da muy cuidadosa, con mejor resoluci6n del modo de vibraci6n mas bajo: el modo 
+elipsoidal de la tierra. Observen que no hay un mfucimo Unico, sino dob!e: 54,7 minu­
+tos y 53,1 minutos -ligeramente diferentes-. La causa de las dos frecuenrias diferen­
+tes nose conocia en la epoca e.n que se midi6. aunque puede que haya sido encontrada 
+desde entonces. Hay por lo menos dos explicaciones posib\es: una seria quc puede 
+haber asirnetria en la dlstribuci6n de la tierra, lo cual daria lugar a dos modos simi­
+lares. La otra posibilidad, aUn mas interesante, es esta: imaginen las ondas dando 
+vue\ta a la tierra en dos direcciones partiendo de !a fuente. Las velocidades no scrim 
+iguales debido a los efectos de la rotaci6n de la tierra en las ecuaciones de movi­
+miento, Jos cuales no se han tenido en cuenta al hacer el anillisis. En un sistema 
+rotante el movimiento est.ii modificado par las fuerzas de C ·riolis, y estas podrian 
+originar el desdoblamiento observado. 
+Respecto al metodo con d cual se ha analizado estos terremotos. lo que se obtie­
+ne en el sismOgrafo no es una cun-a de amplitud en funcion de la frecuencia, sino 
+desplazamiento en funci6n de! tiempo, que siempre es una traza muy irregular. Para 
+hallar la cantidad de todas las ondas sinusoidales diferentes para todas las fre­
+cuencias diferentes, sabemos que el truco es multip!icar los datos por una onda sinu­
+soidal de frecuencia determinada a lntegrar, es decir promediar, y en el promedio 
+desaparecen todas las otras frecuencias. Las figuras eran. pues, representaciones 
+de las integrales encontradas multiplicando los datos por ondas sinusoidales de 
+diferentes ciclos por minuto e integrados. 
+51-4 Ondas superficiales 
+Ahora, !as s1guientes ondas de interes, quc cualquiera puede ver facilmente y que 
+se usan comUnmente coma ejemplo de ondas en los cursos elementa!e~. son !as 
+ondas de agua. Como veremos inmediatamente, son el peor cjemplo poslble porque 
+no son de ninguna manera coma el sonido y la luz: tienen todas las complicaciones 
+que las ondas pueden tener. Comencemos con ondas de agua largas en aguas pro­
+fundas. Si se considera e! oceano como infinitamente profundo y se hace una pertur­
+baci6n en la superficie. se generan ondas. Ocurre toda clase de movimientos irre­
+gulares, pero el movimiento tipo sinusoidal con una perturbaciOn muy pequella, po­
+dria parecersc a las ondas lisas comunes del oceano que vienen hacia la costa. Ahora 
+bien, en esa onda el agua, naturalmente, permanece quieta en promedio, pero la on­
+da se mueve. ~C6mo es el movimiento?, les transversal o longitudinal? 
+51-10
+
+Ni lo uno ni lo otro; no es ni transversal ni longitudinal. Aunque en un lugar dado 
+el agua sea alternadamente un valle y una cresta, no puede estar simplemente mo­
+viendose hacia arriba o hacia abajo debido a la conservaci6n de! agua. Esto es, si 
+va para abajo, la dOnde va air el agua? El agua es esencialmente incompresible. 
+La velocidad de compresiOn de las ondas -es decir el sonido en el agua- es mucho, 
+pero mucho mils alta, y no estamos considerando eso ahora. Como el agua es in­
+compresible en esta escala, cuando una loma baja, el agua tiene que salir de! lugar. 
+Lo que ocurre en realidad es que las particulas de agua cercanas a la superficie se 
+mueven aproximadamente en circunferencias. Cuando se acerca una ola lisa, una 
+persona flotando en un neum<itico puecie IT.irar un objeto cercano y ver que esti 
+movj6ndose en una circunferencia. Asi, es una mezcla de longitudinal y transversal, 
+para aumentar la confusiOn. A profundidades mayores en el agua, los movimientos 
+son circunferenciB.s mas pequefias hasta que, razonablemente abajo, no queda nada 
+del movimiento (Fig. 51-9). 
+Fig. 51-9. Las ondas en aguas pro­
+fundas estfln formadas de partlculas que 
+se mueven en circunferencias.' Notar los .·-c:.-<"""""""'---_---,_.--v-:V''7'"'<:-, 
+desfasajes sistemat1cos de circunferencia 
+a circunferencia. (C6rno Se mover(a un 
+objeto flotante? 
+Hallar la velocidad de esas ondas es un problema interesante: debe ser alguna 
+combinaci6n de la densidad del agua, la aceleraci6n de la graveciad, que es la fuerza 
+de restauraci6n que genera las ondas, y posiblemente la longitud de onda y la pro­
+fundidad. Si tomamos el caso en que la profundidad se hace infinita, ya no de­
+pendera de la profundidad. Cualquiera sea la formula que obtengamos para !a 
+velocidad de las fases de las ondas, debe combinar los diversos factores para dar 
+las dimensiones apropiadas, y si intentamos esto de varias maneras, s6lo encon· 
+tramos una manera de C()mbinar la densidad, g y .l. para formar una velocidad: 
+\;g::T;" que de ningUn modo incluye !a densidad. En realidad, esta formula para la 
+veloddad de fase no es del todo correcta; un an:ilisis dinilmico completo, en el cual 
+no entraremos. muestra que los factores son los que tenemos, exceptuando 12n: 
+Vrasc = ygAf'Iii, (para ondas gravitacionales) 
+Es interesante que las ondas Jargas van mas r.iipido que las cortas. Por lo tanto, si 
+una lancha crea ondas a !o lejos, porque hay un piloto de carros deportivos en una 
+lancha a motor que est3. pasando, entonces, un poco despuCs, las ondas llegailan a la 
+costa con chapa!eos lentos al principio y luego m.iis y mils rilpidos, porque b~ pri­
+meras ondas que Hegan son Jargas. Las ondas se aconan mas y mas a meciida que 
+pasa el tiempo porque !as velocidades son proporcionales a la raiz cuadrada de la 
+longitud de onda. 
+Se podria objetar: "Eso no est:i b!en, ;tenemos que considerar la velocidad de 
+grupo en el ct\.lculo." Claro que si. La formula para la velocidad de fase no nos 
+dice que es lo que va a l\egar primero; la velocidad de grupo es la que nos Jo dice. 
+Asi, pues, tcnemos que calcular la velocidad de grupo, y se deja como problema 
+demostrar que es la mitad de la velocidad de fase, suponiendo que la velocidad es 
+proporciona! a la raiz cuadrada 
+51-11
+
+de la longitud de onda, que es todo lo que se necesita. La velocidad de grupo tamhiCn 
+es proporcional a la raiz cuadrada de la longitud de onda. lC6mo puede ser que la 
+velocidad de grupo sea la mitad de la de fase? Si se examina cl manojo de ondas que 
+hace una Jancha en movimiento, siguiendo una cresta particular, se encuentra que 
+avanza en el grupo y se hace gradualmente mils dCbil y desaparece al frente, y mistica 
+y misteriosamente una dCbil de atriis Se abre camino hacia adelante volviCndose mils 
+fuerte. En suma, las ondas se estiin moviendo a travCs de! grupo mientras que Cste 
+s61o se mueve a la mitad de la velocidad que se mueven las ondas. 
+Fig. 51-10. la estela de una lancha. 
+Como las velocidades de grupo y las de fase no son iguales, las ondas produci­
+das por un objeto en movimiento ya no son un cono simplemente, sino alga 
+mucho mils interesante. Podemos ver esto en la figura 51-10, que muestra las ondas 
+producidas por un objeto en movimiento sobre el agua. Observen que es completa­
+mente diferente de lo que tendriamos para el sonido, en el cual la velocidad es inde­
+pendiente de la lontigud de onda, donde tendriamos frentes de onda imicamente a lo 
+largo de! cono viajando hacia afuera. En lugar de eso tenemos ondas atriis con 
+frentes que se mueven paralelamente al movimiento de la lancha, luego tenemos ondi­
+tas laterales a otros itngulos. Con ingenio. todo este diagrama de ondas se puede 
+analizar conociendo Unicamente esto: que la velocidad de fase es proporcional a la 
+raiz cuadrada de la longitud de onda. El truco es que el diagrama de ondas es esta­
+cionario respecto a la lancha (a velocidad constante); cualquier otro diagrama se dis­
+tanciaria de la lancha. 
+Las ondas de agua que hemos estado considerando hasta ahora eran ondas Jar­
+gas en las que la fuerza de restauraci6n se debe a la gravedad. Pero cuando las 
+ondas en el agua se acortan mucho, la principal fuerza de restauraci6n es la atracci6n 
+capilar, es decir, la energia de la 
+51-12
+
+superficie, la tensiOn superficiaL Para ondas de tensiOn superficial resulta que la 
+velocidad de fase es 
+Vrase = J2rrT/Jip (para los rizos). 
+donde T es la tensiOn superficial y p la densidad. Es exactamente lo contrario: la 
+velocidad de fase es mds alta cuanto mils corta cs la longitud de onda, cuando la 
+longitud de onda se hace muy pequeiia. Cuando tenemos tan.to la acci6n de la gra­
+vedad como la capilar, como ocurre siempre, obtencmos la combinaci6n de estas 
+dos: 
+donde k = 27T IA es el nllmero de onda. Asi, pues, la velocidad de las ondas de agua 
+es bastantc complicada. La figura 51-11 muestra la velocidad de fase en funci6n de 
+la !ongitud de onda; para ondas muy cortas es grande, para ondas muy Jargas es 
+grande, habiendo una velocidad minima a la que las ondas pueden avanzar. Se pue· 
+de calcular la velocidad de grupo a partir de la formula: es j de la velocidad de 
+fase para los rizos y ! de la ve\ocidad de fase para las ondas gravit~cionales. A la 
+izquierda de! minimo la velocidad de grupo es mils alta que la veloc1dad de fase; a 
+la derecha, la velocidad de grupo es menor que la velocidad de fase. Hay una cantidad 
+de fen6menos interesantes asociados con estos hechos. En primer lugar, como la ve!o­
+cidad de grupo aumenta tan ril.pidamente a! disminuir la longitud de onda, si hacemos 
+una perturbaciOn habrt't un extremo mas lento de la perturbaci6n yendo a la velocidad 
+minima con la longitud de onda correspondiente, y lucgo al frente, yendo a la veloci­
+dad mas alta, habrt't una onda corta y una onda muy larga. Es muy dificil ver las Jar­
+gas, pero es facil ver las cortas en un tanque de agua. 
+Vemos asi que \os rizos qtte se usan a menudo como ejemplo de ondas simples 
+son completamente interesantes y complicados; no tiencn de ninguna manera un 
+frente de onda definido, como en el caso de las ondas simples como el sonido y la 
+\uz. La onda principal tienc pequeiios rizos que corren hacia adelante. Una pertur­
+baci6n bien definida del agua no produce una onda bicn definida debido a la dis· 
+persi6n. Primera vienen las ondas menudas. Entre par6ntesis, si un objeto se mueve 
+en el agua a cicrta vdocidad, resulta un diagrama bastante complicado porque las 
+diversas ondas andan con velocidades diferentes. Se puede demostrar esto con una 
+bandeja con agua y ver que las mils rilpidas son las ondas capilares menudas. Hay 
+ondas lentas, de cierto tipc, que rnarchan detras. Inclinando el fondo se ve que donde 
+la profundidad es menor la velocidad cs menor. Si entra una onda a cierto t'tngulo 
+respecto a la linea de mt'txima pendiente, se tuerce y tiende a seguir esa linea. De 
+este modo se puede demostrar diversas cosas y concluimos que las ondas son mft.s 
+complicadas en el agua que en el aire. 
+La velocidad de las ondas !argas en agua con movimientos circulares es menor 
+cuando la profundidad es mcnor, mayor en aguas profundas. Por lo tanto, cuando el 
+agua avanza hacia una playa donde la profundidad disminuye, las ondas andan mas 
+lentamente. Pero donde el agua es mils profunda, las ondas son m8.s r8.pidas por lo 
+que obtenemos los efectos de ondas de choque. Aqui, como la onda no es tan sim­
+ple. las ondas de choque son mucho mils retorcidas, y ia onda se repliega sabre si 
+misma en la forma familiar mostrada en la figura 51-12. Esto es lo que ocurre cuan­
+do las olas llegan a la playa, y la verdadera complejidad de la naturaleza se revela 
+bien en esa circunstancia. Nadie ha podido todavia calcular que fonna deberia tomai· 
+laolri 
+51-l 3
+
+~.cm 
+Fig. 51-11. Veloc1dad de fase en 
+funci6n de la long1tud de onda para el 
+aguai. Fig 51-12. Onda de agua. 
+al romper. Es bastante facil cuando las olas son pequcil:i.s, pero cuando una se agran­
+da y rompe es mucho mils complicado. 
+Se puede ver una caracterlstica interesante de capilares en las pertur-
+baciones producidas por un objeto que se mueve en agua. Desde el punto de vista 
+de! objeto mismo, el agua esta pasando y las ondas que a la larga se establecen a su 
+alrededor siempre son ondas que tienen justo la veloddad apropiada para perma­
+necer quietas en el agua respecto al objeto. Anil.logarnente, alrededor de un objcto 
+en una corriente, con la corriente pasando, el dlbujo de las ondas es estil.tico y con 
+las longitudes de onda justas para andar a la misma velocidad a que estii. pasando el 
+agua. Pero si la velocidad de grupo es menor que la veloddad de fase, la pcrturba­
+ci6n se propaga hacia atrits por la coniente, porque la velocidad de grupo no es 
+exactarnente suficiente como para mantenerse el paso de la corrientc. Si la velocidad 
+de grupo es mayor que la velocidad de fase, el diagrama de ondas aparecerti al 
+frente de! objeto. Si se observa atentamente un objeto en una corriente, se puede ver 
+que hay pequeii.os rizos al frente y largos "remolinos" atril.s. 
+Otrn caracteristica interesante de esta clase se puede observa.r vertiendo liquidos. 
+Por ejemp!o, si se vierte leche de una botella Jo bastante r3.pido, se puede ver una 
+gran cimtidad de lineas atravesando en ambos sentfidos la corriente que sale. Son 
+ondas que parten de la perturbaci6n en los bordes y se extienden en forma muy pa­
+recida a las ondas alrededor de un objeto en una corriente. Hay efectos prove· 
+nientes de ambos !ados que producen el dibujo cruzado. 
+Hemos investigado algunas propiedades interesantes de las ondas y las diversas 
+complicaciones de c6mo la velocidad de fase depende de la iongitud de onda, la ve­
+locidad de las ondas en profundidad, etc., que producen !os fen6menos realmente 
+complejos, y por lo tanto interesantes, de la naturaleza. 
+51-14
+
+52 
+Simetria en las leyes flsicas 
+52-1 Operaciones de simetria 
+52-2 Slmetria en el espacio y en el 
+tiempo 
+52-3 Simeb'ia y leyes de conservaciOn 
+52-4 Reflexiones especulares 
+52-5 Vectores polares y axiales 
+52-1 Operaciones de simetria 
+52-6 ;,Cuat mano es la derecha? 
+5 2-7 l La paridad no se eonserva I 
+52-8 Antimateria 
+52-9 Simetrias rotas 
+El tema de este capitulo es lo que podemos llamar simetria en las /eyes fisicas. 
+Ya hemos discutido ciertos rasgos de simetria en las !eyes fisicas en conexi6n con el 
+anitlisis vectorial (Cap. 11), la teoria de la relatividad (Cap. 16) y la rotaci6n(Cap. 20). 
+lPor que nos debe preocupar la simetria? En primer lugar, la simetria es fascinan­
+te para la inteligencia humana y todo el mundo gusta de objetos o diagramas que son 
+de algU:n modo simf:tricos. Es un hecho interesante el que la naturaleza nos ofrezca 
+con frecuencia ciertos tipos de simetria en los objetos que encontramos en el mundo 
+que nos rodea. Quizils el objeto mils simetrico imaginable sea una esfera, y la natura­
+leza est8. llena de esferas --estreUas, planetas, gotitas de agua de las nubes-. Los 
+cristales encontrados en las rocas presentan muchas clases diferentes de simetria, y el 
+estudio de las mismas nos dice algunas cosas importantes acerca de la estructura de 
+los s6lidos. Aun los mundos animal y vegetal muestran algUn grado de simetria, aun­
+que la simetria de una flor o de una abeja no sea tan perfecta o tan fundamental como 
+la de un cristal. 
+Pero nuestro principal interes aqui no es el hecho de que los objetos de la natura­
+leza son con frecuencia simetricos. Mils bien, deseamos examinar algunas silnetrias, 
+mils notables alm, de! universo --las simetrias que existen en las mismas /eyes basicas 
+que gobiernan la marcha de! mundo fisico. 
+Ante todo t,que es simetria? t,C6mo puede una ley fisica ser "simetrica "?El pro­
+blema de definir simetria es interesante y ya hemos apuntado que Wey! dio una buena 
+definici6n, cuya esencia es: una cosa es simetrica si hay a.Igo que podamos hacer con 
+ella de tal modo que despues que lo hemos hecho parece la misma cosa que antes. 
+Por ejemplo, un jarr6n simetrico es ta! que reflejtindolo o ginindolo tendr!'t el mismo 
+aspecto que antes. La cuesti6n que queremos considerar 
+52-1
+
+Tabla 52-1 
+Operaciones de simetria 
+Traslaci6n en el espacio 
+Traslaci6n en el tiempo 
+Rotaci6n en un itngulo fiJO 
+Velocidad uniforme en !inea recta (transformaci6n de Lorentz) 
+lnversi6n de] tiempo 
+Reflexi6n del espacio 
+Intercambio de .iltomos identicos o particulas identicas 
+Fase cu3.ntica 
+Materia-antimateria {conjugaci6n de carga) 
+a qui es: que podemos hacer a los fen6menos fisicos o a una situaci6n fisica en un 
+experimento, y no alterar el rcsultado. La tabla 52-1 muestra una lista de operacio­
+nes conocidas frente a las cuales diversos fen6menos fisicos pcrmanecen invariantes. 
+51-2 Simetria en el espacio y en el tiempo 
+La primera cosa que podriamos tratar de hacer, por ejemplo, es trasladar el fe­
+n6meno en el espacio. Si reali7amos un experimento en una cierta regi6n y luego 
+construimos otro aparato en otro lugar del espacio (o trasladamos alli el original), 
+cualquier ::osa que pas6 en un aparato, en un cierto ordcn de tiempo. ocurrini. del 
+mismo modo si hemos arreg!ado la misma condici6n, con las atenciones debidas a 
+las restricciones que mencionamos antes: que todas las caracteristicas del ambiente 
+que estorban para quc se comporte igual se han quitado -hemos hablado de cOmo 
+definir cu3.nto deberiamqs incluir en estas circunstancias y no entraremos en estos 
+detalles de nuevo-. 
+Del mismo modo. tambien creemos hoy que el desplazamiento en el tiempo no 
+produce ningUn efecto en las !eyes fisicas. (Esto es, en cuanto a lo que sabemos hoy 
+dia -todas estas cosas son asi jen cuanto conoccmos hoy en dia!-) Esto significa 
+que si construimos un cierto aparato y lo hacemos funcionar en un cierto tiempo, 
+digamos el jueves a las 10 de la maiiana, y luego construimos el mismo aparato y 
+lo ponemos a tuncionar. digamos, tr es dias mils tar de en las mismas condiciones, 
+los dos aparatos experimentart'tn los m1smos movimientos cxactamente en la misma 
+forma en funcion del tiempo, cualquiera sea el instante de inicio de funcionamiento, 
+teniendo presente de nuevo, naturalmente, que las caractcristicas pertincntcs dcl am­
+bicnte estt'tn tambien modificadas apropiadamente en el tiempo. Esta simetr!a significa, 
+por supuesto, que si alguien compr6 las acciones Jc General Motors hace tres meses, 
+jlo mismo le sucederia si las comprase ahora! 
+Tamb1Cn tenemos que tener en cucnta las difcrencias gcogrt'tficas, ya que hay, por 
+supucsto, variaciones en las caracteristicas de la superficie de la tierra. Asi, por ejem 
+plo, si mcdimos el campo magnCtico en una cierta regiOn y movemos el aparato a al 
+guna otra regi6n, puede ser que no trabaje precisamente de\ mismo modo ya que el 
+campo magnetico es diferente, pero decimos que esto ocurre porque el campo magnC­
+tico est3. asociado con la 
+52-2
+
+DespuE:s de una lista tan !arga de cosas que se puc<len hacer sin cambiar los fen(J­
+menos, uno podria pcnsar que se podria hacer cua!quier cosa; demos algunos cjcmp!os 
+en contra para ver la diferencia. Supongan que preguntarnos: •·;,Son las leyes fisicas 
+simetricas frente a un cambio de cscala?". Supongan quc construimos una cierta pieza 
+de[ aparato y que luego construimos un aparato cinco veces mayor en cada una de 
+sus partes, ;,1rabajaril cxactamente del mismo modo'! La respucsta, en cstc caso, es 
+ino! La longitud de onda emitida, por ejemplo. por !os iitomos dentro de una caja 
+de iltomos de sodio y la longitud de onda de luz emitida por un gas de iltomos de so­
+dio con un volumcn cinco veces mayor, no es cinco veces mis !arga, sino que es en 
+realidad exactamente igua! a la otrn. Por lo que e! cociente entre la longitud de onda 
+y el tamano del emisor cambiari. 
+Otro ejemplo: vemos en el periOdico, de vez en cuando, fotos de alguna gran ca­
+tedral construida con palillos de fosforos --una obra de arte fantilstica realizada por 
+algUn tipo jubiladu quc se entreticne encolando palillos de fosforos-. Es mucho mils 
+elaborada 
+52-3
+
+y maravillosa que cualquier catedral real. Si imaginam.os que esta catedral de madera 
+se construyese en realidad a escala de una catedral verdadera, vemos donde se en~ 
+cuentra la dificultad; no duraria; el conjunto se desplomaria debido a que los palillos 
+de fOsforo construidos a escala no son lo suficientemente resistentes. "Si", alguien 
+podria decir, "pero tambi6n sabemos que cuando hay una influencia extema, tambien 
+se debe cambiar proporciona!mente •·. Estamos hablando de la habilidad de! objeto 
+para resistir la gravitaci6n. For lo tanto, lo que deberiamos hacer en primer lugar es 
+tomar la catedral modelo de f6sforos reales y la tierr.a real, y entonces sabemos que es 
+estable. Luego deberiamos tomar la catedral mils grande y una tierra mayor. Pero en.­
+tonces es alm peor, jporque la gravitaciOn ha aumentado aim mils! 
+Hoy en dia, por supuesto, comprendemos el hecho de que los fen6menos dependen 
+de la escala bas<indonos en que la materia es atOmica por naturaleza y ciertamente 
+si construyesemos un aparato que fuese tan pequei'io que s61o contuviera dnco ii.to­
+mos, seria da:ramente algo que no podriamos hacer a una esca!a mayor o mer'.Or ar­
+bitrariamente. La escala de un :itomo individual no es arbitraria de ninglln modo --es 
+algo definidc. 
+El hecho de que las leyes fisicas no quedan invariantes frente a un cambio dee;, 
+cala fue descubierto por Ga!i!eo. ComprobO que las r·esistencias de los materiales no 
+estaban cxactamente en proporci6n justa a sus tamaiios e llustrO esta propicdad que 
+acabamos de d1scutir, acerca de la catedral de palillos de fosforos, dibujando dos hue­
+sos, el hueso de un perro en la proporci6n justa para sostener su peso, y el hueso 
+imaginario de un "super perro" que seria, digamos, diez o cien ve(,es mayor -dicha 
+htieso era una cosa grande y sOlida con proporciones muy diferentes-, No sabemos 
+si llev6 su argumento hasta la conclusiOn d~ que las leyes de la naturaleza deben tener 
+una escala definida, pero se impresionO tanto con su descubrimiento que lo consl­
+der6 tan 1mportantc como d dc~cubrimiento de las !eyes de! movimiento, ya que los 
+publicO en el mi~mo volumcn, tituiado "Sohre dos nuevas ciencias". 
+ejemplo en el que las leyes no son simetrica~, y que conocemos bastante bien, 
+es un sistema en rotaci6n a velocidad angular uniforme no da las mismas lcyes 
+aparemes qur uno que no rota. Si hacemos un experime~to y !uego lo colocamos en 
+una nave cspacial y la tenemos girando en el espaclo vacio, completamente sola a una 
+velocidad angu~ar constante. el aparato no trabajara en !a misma forma porCJue, como 
+sabemos, ias cosas dentro del equipo seriln lam.adas hacia afuern, etc., debido .a la 
+fuerza centrifuga o de Coriolis, etc. De hecho, podemos decir que la tierra esta gi­
+rando sin mirar fuera, si usamos un pendulo de Foucault. 
+Mencionaremos ahora una simetria muy interesante que evidcntcmente es falsa, 
+es decir, la reversibilidad en el tiempo, La~ \eyes fisicas aparentemente no pueden ser 
+reversibles en el tiempo porque, como sabemos, todos las fenOmenos evidentes son 
+irreversibles en una escala grande: .. E! dedo que se mue"e escrlbe, y habicndu e~c1ito 
+continUa". En cuanto a lo quc pudcmos dedr, esta irrcversibi!idad es debida al gran 
+nU.mero de particulas involucradas y si pudiesemos ver las mokculas individua!es, no 
+seriamos capaces de discerrnr si la maquinaiia estaba trabajando hacia adelante o 
+hacia atriis. Para scr mils precisos: construirnos un peque?io aparato en el que sabe­
+mos Jo que estil.n haciendo todos los il.tomos, en el que podemos observarlos agi~fmdo­
+se. Ahora construimos otro aparato como el anterior, pero que empieza su mov1mien· 
+to en el estado final de! otro, con todas las velocidades exactamente invertidas. 
+52-4
+
+Entonces, ejecutard los mismos movimientos, pero exactamente al revis. Dicii:ndolo 
+de otro modo: si tomamos una pelicula, con detalle suficiente, de todos Jos mecanis­
+mos internos de un trozo de material y la proyectamos hacia atr<ls en una prntalla, 
+ningUn fisico seriL capaz de decir: "Esto es contra las !eyes de la fisica, jesto estit ha­
+cienda al go errOneo ! ". Si no vemos todos los deta11es, naturalmente, la situaci6n es tar ii 
+perfectamente clara. Si vemos un huevo estrelliindose en la acera y la cascara que se 
+abre resquebrajilndose, etc., entonces seguramente diremos: "Esto es irreversible, ya 
+que si proyectamos la pelicula hacia atr<ls el huevo se volveril a formar y la cilscara 
+a ser entera, !Y eso evidentemente es ridicu!o! Pero si consideramos a Jos ittomos mis­
+mos individualmente, las !eyes se presentan completamente reversibles. Este es, natu­
+ralmente, un descubrimiento mucho mis dificil de llevar a cabo, pero aparentemente es 
+verdad que las leyes fisicas fundamentales, a nivel microsc6pico y fundamental, iSOn 
+completamente reversibles en el tiempo! 
+52-3 Simetria y !eyes de conscrvaciOn 
+Las simetrias de las leyes fisicas son muy interesantes a este nivel, pero resulta, al 
+fin, que son al.in mas interesantes y excitantes cuando llegamos a la med:nica cuii.n­
+tica. Por una raz6n que no podemos aclarar al nivel de la presente discusi6n -un 
+hecho quc la mayoria de los fisicos aim encuentran alga desconcertante, una cosa 
+muy profunda y bel\a-, es que, en med.nica cuii.ntica, para cada una de las reglas de 
+simetria hay una fey de conservaci6n correspondiente: hay una conexi6n definida 
+entre las leycs de conservaci6n y las simetrias de las !eyes fisicas. S6lo podemos decir 
+esto por ahora sin ningim intento de explicaci6n. 
+Por ejemplo, el hecho de que las lcycs son simetricas para la traslaci6n en el 
+espacio, cuando ai'ladimos los principios de mecii.nica cuii.ntica, resulta que significa 
+que el momentum se conserva 
+Que las !eyes son simetricas frente a una traslaci6n en el tiempo, significa en 
+med:nica cuilntica que la energia se conserva. 
+La invariancia frente a una rotaci6n de un ilngulo fijo en cl espacio corresponde 
+a la conservaci6n def momentum angular. Estas conexiones son cosas muy intere" 
+santcs y bellas, entre las cosas mii.s bellas y profundas de la fisica. 
+Entre parentesis, hay una cantidad de simetrias que aparecen en med:nica cuiin­
+tica que no ticncn anii.Jogo cl3sico, que no tienen metodo de descripciOn en fisica 
+clii.sica. Una de ellas es la siguiente: Si .µ es la amplitud de algUn proceso, sabcmos 
+que el cuadrado de! m6dulo de l/J es la probabilidad de que el proceso ocurra. Aho-
+ra bien, si algUn otro ruvicse que hacer sus cii.lculos, no con esta · 
+1'' que difiere simplemente en un cambio de fase (digamos que i'!. una constante 
+y mu!tipliquemos eii:. por la vieja qJ), el cuadrado del m6dulo de que es la pro-
+babilidad del evento, es entonces igual al cuadrado de! m6dulo de 
+(52.1) 
+Por tanto, las ]eyes fisicas no varian si la fase de la funci6n de onda est.ii corrida 
+en una constante arbitraria. Esta es otra simetria. Las leyes fisicas deben ser de tal 
+naturaleza que un corrimiento de la fase cuilntica no altere nada. Como acabamos 
+de decir, en med:nica cuUntica hay una ley de 
+52-5
+
+52-4 Reflexio11es e~peculares 
+conservaci6n que se relaciona con la fase 
+cargo elictrica. jTodo esto en COOJunto es 
+resto de este 
+El problema 
+Lo podemos decir asi: 
+montones de ruedas y 
+dentro. Contempla-
+no es que aspecto en el espcjo. Pero 
+igual al aspecto que el primero tiene 
+el filete a la derecha en uno, usamos 
+correspondiente del otro; donde uno 
+la esfera del otro; cada resorte est.ii 
+opuesto en el rdoj imagen; cuando 
+ambos fisicos, que guardan entre si la 
+ambos son, recalcamos, obje­
+relojes comienzan en la mis­
+cuerda, z.haran tic tac y 
+especulares perfectas'? (Esta 
+de las !eyes fisicas nos 
+relojes, la reflexion en 
+cambiamos todo de 
+no podemos notar la diferen­
+esto cs verdad. Si fuera verdad. 
+"izqmcrda" mediante cualquie; 
+definir una vclocidad absoluta 
+seria imposible defimr abso!u· 
+par "derecha" en oposi-
+52-6
+
+Otro punto es que nuestra definiciOn de "derecha" no deberia depender de la 
+historia. Un modo fBcil de distinguir derecha de izquierda es ir a una ferreteria y 
+tomar un tornillo al azar. Las probabilidades son que tenga el filete a derecha -no 
+necesariamente, pero es mucho mils probable que lo tenga a derecha que a izquier­
+da-. Esto es una cuest16n hist6rica o convendonal, o de! modo en que oeurre que 
+son las cosas, y tamp.om aqui cs cuesti(m de !eyes fundamentales. Como podemos 
+apredar bien, jtodo el mundo podria haber comenzado a fahricar tornillos izquierdos! 
+De este modo, debcmos tratar de encontrar alg{m. fenOmeno en el que '·a derecha" 
+sea una cosa ·fundamental. La pr6xima posibilidad que discutimos es el hecho de 
+que luz polarizada rota su piano de polarizaciOn cuando atraviesa. digamos, agua 
+azucarada. Como vimos en el eapitulo 33, rota, digamos a la derecha, en una cierta 
+soluciOn de azUcar. Este es un modo de definir "a la derecha", ya que podemo8 
+disolver un poco de azUcar en agua y entonces la poiarizaciOn va a la derecha. Pero 
+el azllcar proviene de cosas vivientes y si uatamos de fabricar azllcar artificial­
+mente, descubrimos que ino rota el piano de polarizaci6n! Pero si tomamos esta 
+misrna azticar que hemos fabricado artificialmente y que no rota el piano de po!ari­
+zaci6n, y colocarnos en ella bacterias (se comen un poeo de azilcar) y luego filtra­
+mos las bacterias, encontramos que nos queda aim azUcar (casi la mitad de la que 
+teniamos antes) y ahora si rota el piano de polarizaciOn, jpero hacia el otro !ado! 
+Parece muy c.onfuso, pero se ha exolicado sencillamente. 
+Fig. 52-1. (a) alanina L (1zquierdaL v (b) atanina D (derecha) 
+Tomenos otro ejemplo: una de las sustancias que es comU:n a todas las criaturas 
+vivientes y fundamental para la vida es la proteina. Las proteinas consisten en ca­
+denas de aminoitcidos. La figura 52-1 muestra un modelo de aminoitcido que resul­
+ta de una proteina. Este aminoilcido se llama alanina, y el arreglo molecular se 
+pareceria al de la figura 52-1 (a) si proviniera de una proteina de un ser viviente 
+real. Por otro !ado, si tratamos de hacer alanina a partir de diOxido de carbono, 
+etano y amoniaco {y la podemos hacer, no es una mol6cula complicada), jdescubri­
+mos que estamos formando cantidades iguales de i:sta mo!ecula y de la que muestra 
+la figura 52-l(b)! La primera molecula. la que proviene de un ser viviente, se llama 
+alanina-L. La otra, quimicamente igual, porque tiene las mismas dases de 3.tomos y 
+las mismas conexiones entre ellos, es una molecula "a derecha ", comparada con la 
+alanina-L '"a la izquierda'', y se 
+52-7
+
+parece como si los fenOmenos de la vida p-ermiten una distinci6n entre "de­
+e "izquierda ", o la qu!mica permite una distincion ya que las dos mol6culas 
+son quimicamente diferentes. Pero no, ino ocurre asi! En tanto se puedan realizar 
+medidas fisicas, tales como de energia, velocidades de reacciones quimicas, etc., las 
+dos clases funcionan exactamente igual si realizamos todo tambien en una imagen 
+especular. Una mo!ecula rotar:i la luz a la derecha, y la otra la rotaril. a la izquierda 
+precisamente en la misma cantidad, si utilizamos la misma cantidad de flllido. Asi, 
+pues, en Jo que respecta a la fisica, estos dos aminoicidos son igua\mente satisfac­
+torios. Como nosotros entendemos las cosas hoy en dia, los fundamentos de la 
+ecuaci6n de SchrOdinger exigen que las dos mul6culas se deberian comportar de 
+modos exactamente correspondientes, de manera que una es a derecha y otra a iz­
+quierza. No obstante, jen la vida todo ocurre de un solo modo! 
+Se presume que la raz6n de esto es la siguiente. Supongamos, por ejemplo, que 
+de alguna manera la vida estit en un momenta en una cierta condici6n, en la que 
+todas las proteinas en algunas criaturas tienen amlnoilcidos a izquierda, y que 
+todas las enzimas son desequllibradas --toda sustancia en la criatura viviente es 
+desequilibrada, no es simetrica-. Asi, cuando las enzimas digestivas tratan de 
+carnbiar los compuestos qulmicos de la comlda de una clase a otra, una clase de 
+compuesto "le viene bien" a la enzima, pero no a&i el otro (como la Cenicienta y 
+la zapatilla, excepto que es un "pie izquierdo" el que estamos probando ). En 
+cuanto a lo que sabemos, en principio, podriamos construir una rana, por ejemplo, 
+en la que cada mo!ecula estuviese invertida, todo es como la imagen especular "iz· 
+quierda" de una rana real; tenemos una rana izquierda. Esta rana izquierda andaria 
+bien durante un momento, pero no encontraria nada que comer, porque si se traga 
+una mosca sus enzimas no estiln construidas para digerirla. La mosca tiene la clase 
+"equivocada" de aminoilcidos (a menos que le demos una mosca a izquierda). Por 
+lo tanto, hasta donde nosotros sabemos, los procesos quimicos y vitales continuarian 
+de! mismo modo si todo se invirtiese. 
+Si la vida es enteramente un fen6meno fisico y quimlco, podemos entender que 
+las proteinas estiin todas formadas con el mismo tirabuz6n, so\amente a partir de la 
+idea de que al comienzo de todo algunas mol6culas vivientes, accidentalmente, 
+empezaron y unas pocas vencieron. En alglln lugar, una vez, una mol6cula orgfuiica 
+se desequilibr6 de una cierta manera, y de esta cosa particular sucedi6 que "dere­
+cha" empez6 a evoluclonar en nuestra geografia particular; un accidente hist6rico 
+particular fue unilateral, y por siempre desde entonces el desequilibrio se ha propa­
+gado. Una vez que ha llegado al estado en que se encuentra ahora, naturabnente, 
+continuarii siempre -todas. las enzimas digieren las cosas a derecha, fabrican las 
+cosas a derecha~; cuando el di6xido de carbono y el vapor de agua, etc., Hegan a 
+las hojas de las plantas, las enzimas que hacen el azllcar los desequilibran porque 
+ellas 
+52-8
+
+estim desequilibradas. Si cualquier clase nueva de virus o cosa viviente se originase 
+en un tiempo posterior, sobreviviria solamente si pudiese "comer" la clase de materia 
+viviente ya presente. Por lo tanto, eJ tambiCn debe ser de la misma clase. 
+No hay conservaci6n del nUmero de mo!Cculas a derecha. Una vez empezado, 
+podriamos seguir aumentando el nU.mero de mo16culas a derecha Por consiguiente, 
+la suposici6n es, entonces, que en el caso de la vida los fen6menos no demuestran 
+una falta de simetria en las !eyes fisicas, pero si demuestran, por el contrario, la 
+naturaleza universal y lo comlln de! origen Ultimo de todas las criaturas de la tierra, 
+en el sentido anteriormente descrito, 
+52-5 Vectores polares y axiaies 
+Ahora avanzamos mils. Observam.os que hay una gran cantidad de lugares en 
+fisica donde tenemos reglas "de la mano derecha" y "de la mano izquierda ". De 
+hecho, al estudiar anil.lisis vectorial, aprendimos las reglas de la mano derecha que 
+teniamos que usar parn poder obtener el momentum angular, el torque, el campo 
+magnetico, etc. Por ejemplo, la fuerza sobre una carga que se mueve en un campo 
+magnetico es F= qv x B. En una situaci6n dada, en la que conocemos F, v y B, 
+Lno es esta ecuaci6n suficiente para definir la derecha? En realidad, si volv_emos atrits y 
+miramos de d6nde provenian Jos vectores, sabemos que la "regla de la mano dere­
+cha" era simplernente una convenciOn; era un truco. Las magnitudes originales, 
+como !os momenta angulares y las velocidades angulares, y otras cosas de esta es­
+pecie, jno eran realmente vectores! Todos ellos estfui de algUn modo asociados con 
+un cierto piano, y es solamente porque hay tres dimensiones en el espacio por lo que 
+podemos asociar la cantidad con una direcci6n perpendicular a aquel piano. De las 
+dos direcciones posibles, escogemos la direcci6n "mano derecha ". 
+Asi, s1 las leyes de la fisica son simCtricas, encontrariarnos que si se escurriese 
+alglm demonio dentro de todos los laboratorios y reemplazase la palabra "derccha ·· 
+por ·'Lzquierdu" en todos los libros donde se dan las ·'reglas de la mano dcrecha ", y 
+en su lugar tuvi6semos que usar ··rcglas de la mano izquicrda" uniformemente, cs to 
+no implicaria ninguna diferencia en las ]eyes fisicas. 
+Q 
+~ . _ Fig. 52-2. Un paso en el espacio y su 
+Tu 1magen especular. 
+Demos un ejemplo. Hay do~ clases de vectores. Hay vectorcs "honorables"", por 
+ejemplo, un paso L\r en el espacio. Si en nuestro aparato hay aqui una pieza y allil 
+algo mils, entonccs en el aparato imagen estarit la pieza imagen y el algo mils ima­
+gen, y si dibujamos un vector desdc la "picza ·· al "algo mils", un vector es la 
+imagen especular dcl otro (Fig. 52-2). La flecha del vector cambia su cabern, tal 
+como si todo e! espacio se da vuelta; este vector se llama vector [XJlar. 
+Pero la otra dase de vector, quc tienc quc ver con las rotaciones, cs Je natura!e­
+za dlfcrente. Por ejemplo, supongan quc algo estit rotando en trc~ dimensioncs. como 
+52-9
+
+Fig. 52-3. Una rueda que gira v su 
+imagen especu!ar. Observen que el "vec­
+tor'" velocidad angular no ha invert1do su 
+direcci6n. Fig. 52-4 
+pecular. 
+Un im8n v su imagen es-
+muestra la figura 52-3. Entonces silo miramos en un espejo, estara rotando como se 
+indica, es decir coma la imagen especular de la rotaci6n original. Ahora bien, esta" 
+mos de acuerdo en representar la rotaci6n especular mediante la mis ma reg la: es un 
+"vector" que, en la reflexi6n, no cambia como ocurre con el vector polar. sino que 
+estii. invertido con relaci6n a Jos vectores polares y a la geometria dcl espacio; tal 
+vector se llama vector axial. 
+Ahora bien, si la ley de simetda por reflexi6n es correcta en foica, debe scr 
+verdad que las ecuaciones se dcbcn expresar de tal modo que si cambiamos el signo 
+de cada vector axial y de cada producto vectorial, que scria lo que corresponde a la 
+reflexiOn, nada sucederit. Por ejemplo, cuando escribimos una formula que dice quc: 
+el momentum angular es L -= r x p, esta ecuaci6n es muy correcta. porquc si cam 
+biamos a un sistema de coordenadas a izquicrda, cambiamos el signo de L, pero p 
+y r no cambian; se ha cambiado el signo de! producto vectorial, puesto que debemos 
+cambiar de una regla derecha a una izquierda. Otro ejemp!o: sabemos que la fuerza 
+sobre una carga que se mueve en un campo magnetico es F = qv x B, pero si cam­
+biamos de un sistema derecho a uno izquierdo, coma sabemos que F y v son yecto­
+res polares, el cambio de signo requerido por el producto vectorial se debe cancelar 
+por un cambio de signo en B, lo que significa que B debe ser un vector axial. En 
+otras palabras, si efectuamos esa reflexil'm, B debe pasar a -B. Por lo que si cambia­
+mos nuestras coordenadas derecha por izquierda. tambiCn debemos intercambiar los 
+polos norte y sur de los imanes. 
+Veamos cOmo funciona esto en un ejemplo. Supongan que tenemos dos imanes, 
+como en la figura 52-4. Uno es un imitn con el bobinado en un sentido y corrientc 
+en una direcciOn dada. El otro imitn parece la rd1exi6n de\ primero en un espejo -el 
+bobinado irii en el otro scntido, todo lo que sucede dcntro del alambre cs cxactamen· 
+te a !a inversa y la corriente va como se muestra-. Ahora bien. a partir de las !eyes 
+para la producciOn da campos magnCticos, que no conocemos aUn oficialmente, 
+pero que aprendimos muy probablemcnte en la escuela secundaria, resulta que el 
+campo magnCtico es como el que muestra !a figura. En un caso el polo es un polo 
+magnetico sur, mientras que en el otro imfut la corriente va en el otro sentido y el 
+campo magnCtico esta invertido -es un polo magnCtico norte-. Asi vemos que cuan­
+do intercambiamos derecha e izquierda, jpor cierto debemos intcrcambiar norte y 
+sur! 
+No les importe cambiar el norte al sur: tambiCn Cstos son meras convencioncs. 
+Hablemos de fen6menos. Supongan ahora que tenemos un electron mov!Cndose en 
+un campo que entra en la pilgina. Si usamos cntonces la fOrmula para la fuerza. 
+v x B 
+52-10
+
+(recuerden que la carga es negativa), encontramos que el electrOn se desviara en la 
+direcd6n indicada de acuerdo a la ley flsica. Por lo tanto, e! fen6meno es que tene­
+mos un arrollamiento con corriente en un sentido espedfico y un electr6n que se 
+desvia en un cierto camino -esto es ia fisica-, no importa c6mo llamemos a cada cosa. 
+Hagamos ahora el mismo experimen.to con un cspejo: enviamos un electrOn en 
+una direcci6n correspondiente y ahora la fuerza esta invertida si la ca\culamos si­
+guiendo la misma regla, y esto estit muy bueno jporque los movimientos correspon­
+dientes son entonces im<igenes especulares! 
+52-6 ;,Cuill mano es la dereeha? 
+Asi, pues, la realidad de las cosas es que al estudiar cualquier fen6meno hay 
+siempre dos reglas de la mano dcrccha, o un nUmero par de ellas. y el resultado 
+final es que el fen6meno siempre parece simCtrico. En resumen, no podemos distin­
+guir, por io tanto, derecha de izquierda si tampoco somos capaces de distinguir 
+no rte de sur. Sin embargo, pucdc pareccr que podemos dccir cu ill es el polo no rte de 
+un imim. El polo norte de la aguja de una bri.ijula, por ejemplo, es el que apunta al 
+norte. Pero naturalmentc esto es de nuevo una propicdad local que tienc quc ver 
+con la geografia de la tierra; esto es lo mismo quc hablar de la direcci6n en que se 
+cncuentra Chicago, por lo que no cuenta. Si hemos vista agujas de bri.ijulas, puede 
+que hayamos notado que el polo que mira al nortc cs de una especic de color azula­
+do. Pero sc de be justamente al hombre que pint6 el imitn. T odos estos criterios son 
+locales y convencionalcs. 
+Sin embargo si un im3.n tuviese la propicdad de que si lo miritsemos muy de 
+cerca, viibscmos pe!itos saliendo de su polo no rte y no en su polo sur, si Cs ta fuese 
+la regla general, o si hubicre algUn modo Unico de distinguir el polo norte de! sur 
+en un im:in, entonces podriamos decir cuUI de los dos casos tendriamos realmente, y 
+esto seria elfin de la fey de simetria por reflexidn. 
+Para ilustrar aUn mas claramcntc todo el problema, imagincn que estuviCsemos 
+hablando a un marciano por tekfono, o a quienquiera que sea, pero muy lejos. No 
+se nos permitc cnviarle ninguna muestra real para que la inspeccione; por ejemplo, 
+si pudi6semos enviar !uz, podriamos enviarle luz polarizada circularmcntc a derecha 
+y decir, "Esto es luz a derecha; observe simplemen'te el modo en que \lega". Pero 
+no podemos darle nada, solamente podcmos hablarle. Esta muy lejos, o en alguna 
+ubir.aci6n cxtraii.a, y no puede ver nada de !o quc nosotros vemos. Por ejcmplo, no 
+podemos decir: "Mire a la Osa Mayor; ahora mire cOmo est3.n dispuestas estas es­
+trellas, Lo que nosotros entendemos por "derecha" es ... ". Solamente sc nos pennite 
+hablar por te!t':fono. 
+Ahora bien, nosotros queremos contar!e todo lo nuestro. Naturalmente, comen­
+zamos defini6ndole en primer lugar !os nUmeros y decimos: "Tic, tic, dos; tic, tic, tic, 
+Ires; ... ", de modo quc gradualmente puedcn entender un par de palabras, etc. Des­
+put':s de alglln tiempo puede ser que nos hagamos muy amigos de ese tipo y eJ nos 
+diga: "Com padre, t,4ut': aspecto tienen ustedes? ", Comenzamos a dcscribirnos y de­
+cimos: "Bueno. tenemos un metro setenta de estatura". El nos corta: "Un momento, 
+,:,qut': es un metro setenta?''. i,Es posible explicarlc lo que es un metro setenta? 
+iCiertamente! Decimos: "USted conoce el diiimetro de los <itomos de hidr6gcno; 
+j nosotros tenemos 17 .000,000.000 de 3.tomos de hidr6geno de altura!" Esto es posible 
+ya que las !eyes fisicas son invariantes frente a un cambio de escala y, por lo tanto, 
+podemos defin!r una long.itud absoluta. Y de! mismo modo 
+52~1 l
+
+defin:imos el tamaiio de! cuerpo y le decirnos cuiil es el aspecto general -tiene salientes 
+con cinco bultos colgando en los extremos, etc.- y nos sigue; y terminamos descri­
+bi6ndole nuestro aspecto externo, presumiblcmente sin encontrar dificultades mayores. 
+Es mils, estii. haciendo un modelo nuestro a medida que avanzamos. Nos dice: "Oye, 
+ustedes son ciertamente tipos muy buenos mozos; pero, lque tienen dentro? Comen­
+zamos a describirle !os diversos 6rganos internos, y llegamos al coraz6n y le descri­
+bimos cuidadosamente su forma y decimos: "Ahora coloca el coraz6n en -el !ado 
+izquierdo". Nos responde: "jQueeeeC!, lei !ado Izquierdo?" Nuestro prob\ema ahora 
+es describirle de que lado va el coraz6n sin que eJ vea nada de lo que nosotros vemos 
+y sin enviarle jamils una muestra de lo que entendemos por "derecha" -ningUn objeto 
+patr6n de derecha-. lPodemos hacer eso? 
+52-7 1La paridad nose conserva! 
+Resulta que las !eyes de gravitaci6n, las !eyes de electricidad y magnetismo, las 
+fuerzas nucleares, todas satisfacen el principio de la simetria por reflexi6n, por lo 
+que no se puede usar estas !eyes, o cualquier cosa que se derive de ellas. Pero hay 
+un fenOmeno Jlamado desintegraci6n beta, o desintegraci6n dlibil, asociado con las 
+muchas particulas que se han descubierto en la naturaleza. Un ejemplo de des­
+integraciOn d6bil, en conexi6n con una particula descubierta alrededor de 19 54, ori­
+gin6 un enigma extraiio. Hab!a cierta particu!a cargada que se desintegraba en tres 
+mesones n, como muestra esquem3.ticamente la figura 52-5. A esta particula se le 
+llam6 durante algUn tiempo mes6n T. Ahora bien, vemos tambien otra particula, en 
+la figura 52-5, que se desintegra en dos mesones; uno debe ser neutro, debido a la 
+conservaci6n de la carga. A esta part[cula se le llam6 mes6n e. Por lo que tenemos 
+una particula Hamada T que se desintegra en tres mesones n. y una particu!a () que 
+se desintegra en dos mesones n. Pero pronto se descubri6 que Ty 0 tienen una masa 
+casi igua!; de hecho son igualcs, dentro del error experimental. Luego se encontr6 
+que el tiempo que tardaban en desintegrarse en tres n y en dos JT era casi exacta­
+mente el mismo; viven el mismo periodo de tiempo. DespuCs, que siempre que se 
+formaban lo hacian en la misma proporci6n; digamos 14 por 100 de Ty 86 por 100 
+de&. 
+Fig. 52-5. D1agrama esquemat1co de la 
+desintegraci6n de una particula T' y de una 
+part!cu!ae+ 
+Cualquiera con sentido cabal se da cuenta inmediatamente que deben ser la mis­
+ma particula, que producimos simplemente un objeto que tiene dos modos diferentes 
+de desintegrarse; no dos particulas diferentes. Este objeto que se puede desintegrar 
+de dos modes diferentes tiene, en consecueneia, el mismo tiempo de vida y la misma 
+probabilidad de producd6n (ya que es sencillamente el cociente de las probabilida­
+des con las cuales se desintegra en esas dos clases). 
+Sin embargo, fue posible probar (y aqui de ningim modo podemos explicar 
+c6mo) a partir de! principio de reflexi6n en meciinica cuiintica, quc era imposible 
+52-12
+
+que los dos provengan de la misma particula -la misma particula no podia desinte­
+grarse de ambos modos-. La ley de conservaci6n correspondiente al principio de la 
+simetria por reflexi6n es algo que no tiene an3logo clii.sico y por lo tanto esta c\as.e 
+de conservaci6n cuilntica se Uam6 conservaci6n de la paridad. Asi, fue un resultado 
+de la conservaci6n de la paridad o, mas precisamente, de la simetria de las ecuacio­
+nes cuiinticas para la desintegraci6n debil frente a reflexi6n, el que la misma parti­
+cula no pudiese obrar de los dos modos, por lo que debia ser una especie de coinci­
+dencia de masas, tiempos de vida, etc. Pero cuanto mas se estudiaba, mas notable 
+era la coincidencia y gradualmente surgi6 la sospecha de que posiblemente la pro­
+funda ley de la simetria de la naturaleza respecto a reflexi6n pudiese ser falsa. 
+Como resultado de este fracaso aparente, los fisicos Lee y Yang sugirieron que 
+se deberian hacer otros experimentos en desintegraciones relacionadas para tratar de 
+probar si la ley era correcta en otros casos. El primer cxperimento de esta clase lo hi­
+zo Miss Wu de Columbia y es como sigue. Usando un imin muy potente a una tem­
+peratura muy baja, resulta que un cierto is6topo de cobalto que se desintegra 
+emitiendo un electr6n, es magnetico, y si la temperatura es lo bastante baja para que 
+las oscilaciones termicas no sacudan demasiado los imanes at6micos, estos se ali­
+nean en el campo magnCtico. Asi, pues, Jos atomos de cobalto se alineariin en este 
+campo intenso. Luego se desintegran emitiendo un electr6n y se descubri6 que cuando 
+los itomos estaban alineados en un campo cuyo vector B apunta hacia arriba, la 
+mayoria de los electrones se emitian hacia abajo. 
+Si no se esta al tanto de los Ultimas adelantos del mundo, ta! observaci6n no 
+parece nada significativa, pero si se aprecia los problemas y cosas interesantes de! 
+mundo, entonces se ve que es el descubrimiento mas sorprendente: cuando coloca­
+mos atomos de cobalto en un campo magnetico extremadamente intense, van mils 
+electrones de desintegraci6n hacia abajo que hacia arriba. Por lo que si lo pusi6ra­
+mos en un experimento correspondiente en un "espejo", en el que los iltomos de 
+cobalto estarian alineados en la direcci6n opu:!sta, escupirian sus e\ectrones hacia 
+arriba y no hacia abajo; ia acci6n es asimetrica. jLe han crecido pelos al imtin! 
+El polo sur de un imiin es de ta! suerte que los electrones de una desintegraci6n fi 
+tienden a alejarse de Cl; esto distingue, de un modo fisico, el polo norte de! sur. 
+Despues de Cste se hicieron muchos otros experimentos: la desintegraci6n de 
+n en µ y v; .11 en un electr6n y dos neutrinos; hoy en dia A en prot6n y n; des­
+integraci6n de las L.; y muchas otras desintegraciones. De hecho, en casi todos 
+los casos donde se podia esperar, jse ha encontrado que ninguno de ellos obedece 
+la simetria de reflexi6n! La ley de la simetrla de reflexi6n es incorrecta, fundamen­
+talmente a este nivel de la fisica. 
+En resumen, podemos decirle a un marciano d6nde colocar el coraz6n: decimos, 
+"Escuche, constrUyase un imiin, p6ngale las bobinas y haga pasar corriente; tome 
+entonces un poco de cobalto y baje la temperatura. Arregle el experimento de modo 
+que los electrones marchen de sus pies a su cabeza; entonces, la direcci6n en la que 
+!a corriente recorre las bobinas es la direcci6n que entra en lo que nosotros llama­
+mos la derecha y sale a la izquierda ". En consecuencia, es posible definir derecha 
+e izquierda, ahora, haciendo un experimento de esta clase. 
+Se predijeron tambi6n muchas otras caracteristicas. Por ejemplo, resulta que el 
+espin, el momentum angular, del ni.icleo de cobalto antes de la desintegraci6n
+
+es 5 unidades Ii y despues de la desintegraci6n es 4. El electr6n lleva momentum angular 
+de espin y tambifo interviene un neutrino. Es f3.cil ver a partir de esto que el electr6n 
+debe llevar su momentum angular de espin alineado seg(m su direcci6n de movimien­
+to, y asimismo el neutrino. De este modo, parece como si el electr6n estuviese giran­
+do a la izquierda y esto tambifo se comprob6. De hecho, se comprob6 precisamente 
+aqui en Caltech por Boehm y Wapstra que el electr6n gira principalmente a la iz­
+quierda. (Hubo otros experimentos que dieron la respuesta opuesta, jpero estaban 
+equivocados!) 
+El problema siguiente, por supuesto, fue encontrar la ley de! fracaso de la conser­
+vaci6n de la paridad. lCuitl es la regla que nos dice c6mo va a ser de grande el fraca­
+so? Esta: ocurre solamente en estas reacciones muy lentas, llamadas desintegraciones 
+debiles, y cuando ocurre, la regla es que las particulas que tienen espin, como el 
+electr6n, el neutrino, etc., salen con un espin que tiende a la izquierda. Es una regla 
+desequilibrada; relaclona un vector polar velocidad y un vector axial momentum an­
+gular, y dice que es mas probable que el momentum angular sea opuesto a la velo­
+cidad que segUn ella. 
+Esta es, pues. la regla, pero hoy no entendemos realmente !os por que y los por 
+consiguiente de ella. ;.Por qui es 6sta la regla correcta, cual es la raz6n fundamental 
+de ello, y c6mo se relaciona con cualquier otra cosa? Por el momenta nos hemos 
+quedado tan sorprendidos por el hecho de que es asimetrica, que no nos hemos po­
+dido recobrar lo suficiente para entender lo que significa con respecto a todas las 
+otras reglas. Sin embargo, es un asunto interesante, moderno y alm sin resolver, por 
+lo que parece apropiado discutir algunas cuestiones asociadas con el. 
+52-8 Antimateria 
+Lo primero que hay que hacer cuando se pierde una de las simetrias es volver 
+inmediatamente a la lista de simetrias conocidas o supuestas y preguntar si se pierde 
+alguna de las otras. Ahora bien, no mencionamos una operaci6n en nuestra lista, 
+que debe ser necesariamente investigada, y es la re1aci6n entre materia y antimateria. 
+Dirac predijo que ademits de los electrones debe haber otra particula, llamada posi~ 
+tr6n (descubierta en Caltech por Anderson), que se relaciona necesariamente con el 
+electr6n. Todas las propiedades de estas dos particu\as obedecen ciertas reglas de 
+correspondencia: las energias son iguales; las masas son iguales; las cargas son 
+opuestas; pero, lo mils importante de todo, las dos cuando se juntan se pueden ani­
+quilar entre si y liberar su masa completa en forma de energia, digamos rayos y. El 
+positr6n se llama antiparticula del electr6n, y esas son las caracteristicas de una 
+particula y su antiparticula Result6 claro del razonamiento de Dirac que todas las 
+demcl.s particulas de! mundo deberian tener tambifo antiparticulas correspondientes. 
+Por ejemplo, para el prot6n deberia haber un antiprot6n, que se simboliza ahora con 
+p. El j5 tendria una carga electrica negativa, la misma masa que un prot6n, etc. Sin 
+embargo, el rasgo mils importante es que cuando se unen un prot6n y un antiprot6n 
+se pueden aniquilar entre si. La raz6n por la que recaJcamos esto es porque la gente 
+no lo entiende cuando decimos que hay un neutr6n y tambifo un antineutr6n, ya 
+que dicen: "'Un neutr6n es neutro; por lo tanto (.c6mo 
+52-14
+
+puede tener una carga opuesta?" La regla del "anti'' no es solamente que tiene la 
+carga opuesta, tiene cierto conjunto de propicdades y el wrijunto total de las mismas 
+es opuesto. El antincutrOn se distingue del neutr6n de! siguiente modo: si colocamos 
+dos neutrones juntos, permanecen simplemente como dos neutroncs, pero si coloca­
+mos un neutr6n y un antineutr6n juntas, se aniquilan liberfuidosc una gran explosi6n 
+de energ[a, con diversos mesones 7T, rayos y y muchas cosas mils. 
+Ahora bien, si tenemos antineutrones, antiprotones y antielectrones, en principio 
+podemos hacer antiiltomos. No se han hecho aim, pero es posible en principio. Por 
+ejemplo, un iltomo de hidr6geno tiene un prot6n en el centro con un electr6n dando 
+vueltas. Ahora bien, imaginen que en a1glln lugar podemos hacer un antiprot6n con 
+un positr6n dando vue!tas alrededor: i,daria vueltas? Bien, en primer Jugar, el anti­
+prot6n es e!ectricamente negativo y el antielectr6n es electricamente positivo, por lo 
+que se atraen uno al otro de una manera correspondiente -las masas son iguales; 
+todo es igual-. Es uno de los principios de la simetria de la fisica, las ecuaciones 
+parecen demostrarlo, que si un reloj, digamos, se hiciese de materia por un !ado, 
+y luego hiciesemos el mismo reloj de antimateri.a, funcionaria de este modo. (Natu­
+ralmente, si colocamos los dos relojes juntos, se aniquilarian, pero esto es diferente.) 
+Entonces surge una cuesti6n inmediata. Podemos construir dos relojes de mate­
+ria, uno que es "izquierdo" y uno que es "derecho". Por ejemplo, podriamos 
+construir un reloj que no se construye de un modo simple, sino que tiene coba\to 
+e imanes y detectores de electrones que detectan la presencia de electrones de desin­
+tegraci6n /J y los cuentan. Cada vez que se cuenta uno, el segundero se mu eve. 
+Entonces el reloj imagen, que recibe menos electrones no iril a la misma velocidad. 
+Pero evidentemente podemos construir dos relojcs en forma ta! que el reloj iz­
+quierdo no concuerda con el derecho. Construyamos de materia, un reloj que Ha­
+maremos patrOn o reloj derecho. Ahora construyamos, tambien de materia, un reloj 
+que Uamaremos re!oj izquierdo. Acabamos de descubrir que, en general, los dos no 
+funcionariln de! mismo modo; anteriormentc a este famoso descubrimiento fisico, 
+se pensaba que lo harian. Pero tambien se supuso que la materia y la antimateria 
+eran equivalentes. Esto es, si construyesemos un reloj de antimateria, derecho, de la 
+misma forma, entonces funcionaria lo mismo que e! reloj de materia derecho, y si 
+hiciesemos el mismo reloj izquierdo funcionaria igual. En otras palabras, al principio 
+se crey6 que todos estos cuatro relojes eran iguales; ahora naturalmente sabemos 
+que los de materia derecho e izquierdo no son iguales. En consecuencia es presumi­
+ble que los de antimateria derecho e izquierdo no son iguales. 
+Por lo tanto, la pregunta es: (.Cua.I va con cu3.l, si es que lo hacen? En otras 
+palabras, (.Se comporta el de matcria derecho como el de antimateria derecho? i,O es 
+que e! de materia derecho se comporta co mo el de antimateria izquierdo? Los expe­
+rimentos de desintegraci6n p que usan desintegraci6n en positrones en lugar de 
+desintegraci6n en e!ectrones, indican que lbsta es la interconexi6n: la materia "dere· 
+cha" funciona lo mismo que la antimateria "izquierda ". 
+En i::onsecuencia, por fin, jes realmente verdad que la simetria derecha e izquier­
+da se mantiene a Un! Si hicilbsemos un reloj izquierdo. pero hecho de la otra clase 
+de materia, antimateria en lugar de materia, funcionaria lo mismo. Asi, lo que ha 
+52-15
+
+sucedido es que en lugar de tener dos reglas independientes en nuestra !ista de sime" 
+trias, dos de estas reg!as se unen para formar una nueva rcgla: la materia a derecha 
+es simCtrica de la antimateria a izquierda. 
+Por lo que si nuestro marciano estii formado de antimateria y le damos instruc­
+ciones para construir aquel mode!o "a derecha" como nosotros, saldr<i, naturalmen­
+te, al rev es. i, Que sucederia cuando, despuf:s de mucho charla que te charla, nos 
+hemos enseiiado el uno a1 otro a construir naves espacia!es y nos encontramos a 
+mitad de camino en el espacio vado? Nos hemos aleccionado uno al otro acerca de 
+nuestras costumbres, etc., y los dos nos apresuramos a estrecharnos las manos. 
+Bien, si eJ ofrece su mano izquierda, itenga cuidado! 
+52-9 Simetrias rotas 
+La pregunta siguiente es: i,quC podemos construir con las leyes que son casi 
+simCtricas? Lo maravllloso de todo esto es que para una gama tan amplia de fen6-
+menos intensos e importantes -fuerzas nucleares, fen6menos eJCctricos, y aun los dC­
+biles como la gravitaci6n- en una enorme variedad de campos de ta fisica, todas sus 
+!eyes parecen ser simetri.cas. Por otro !ado, este pequeiio trozo adiciona! dice: "No, 
+jlas !eyes no son simCtricas!". i,C6mo es que la naturaleza puede ser casi sim6trica 
+y no perfectamente simetrica? l.QnC haremos con esto? En primer lugar, ltenemos 
+algUn otro ejemplo? La respuesta es que de hecho si tene.mos unos pocos ejempl?s 
+mils. Por ejemplo, la parte nuclear de la fuerza emre proton y prot6n, entre neutron 
+y neutr6n, y entre neutr6n y prot6n, es exactamente igual -hay para las fuerzas 
+nucleares una simetria, y nueva: que podemos intercambiar neutr6n y prot6n-, pero 
+evidentemente no es una simetria general, ya que la repu!si6n elf:ctrica entre dos pro­
+tones a distancia no existe para neutrones. Por lo que no es generalmentc verdad que 
+siempre podemos reemplazar un prot6n por un neutr6n, es s6!o una buena aproxi­
+maci6n. i,Por que buena? Porque las fuerzas nucleares son mucho mas intensas que 
+las fuerzas ei&:tricas. Asi, i:sta es tambiCn una "casi" simetria. Tenemos entonces 
+ejemplos en otras cosas. 
+Tendemos, en nuestro interior, a aceptar la simetria como cierta clase de perfec­
+ci6n. De hecho es como la vieja idea de los griegos de que las circunfcrencias eran 
+perfectas y fue bastante horrible creer que las 6rbitas planetarias no eran circunfe­
+rencias, sino s61o casi circunferencias. La diferencia entre ser una circunferencia 
+y una casi circunferencia, no es una diferencia pequei'ia, es un cambio fundamental 
+en lo que respecta a la inteligencia. En una circunferencia hay un signo de perfec­
+ci6n y simetria que no se encuentra en el momenta en que la circunferencia varia 
+ligeramente -es el fin-, ya no es mils simetrica. La cuesti6n es entonces por quC es 
+solamente casi una circunferencia -Csta es una pregunta mucho mils dificil-. El mo­
+vimiento real de los planetas, en general, deberia ser elipses, pero a travCs de las 
+edades, a causa de las fuerzas de marea, etc., se han transformado en casi simetri­
+cas. La cuesti6n es ahora ver si tenemos aqui un caso parecido. El prob\ema desde 
+el punto de vista de las circunferencias es que si fuesen circunferencias perfectas 
+no habria nada que explicar, eso es claramente sencillo. Pero puesto que son so\a­
+mente casi circunferencias, hay mucho que explicar, y el resultado lmplic6 un gran 
+problema dininnico y ahora nuestro problema es explicar por qui: son casi simetri­
+cas considerando las fuerzas de marea, etc. 
+52·16
+
+Asi, pues, nuestro problema es explicar de d6nde proviene la simetria. lPor quC 
+Ia naturaleza es tan casi simi=trica? Nadie tiene una idea de por quC. Lo imico que 
+podemos sugerir es algo como esto: Hay una puerta en Jap6n, en Neiko, que Jos 
+japoneses llaman algunas veces la puerta m.is hermosa de todo Jap6n; se cons­
+truy6 en una Cpoca en que habia una gran influencia del arte chino. Esta puerta 
+es muy ornamentada, con muchos timpanos y hermosas estatuas y columnas y 
+cabezas de dragones y principes esculpidos en los pilares, etc. Pero cuando se mira 
+de cerca se ve que en el dibujo elaborado y complejo de uno de Jos pilares, uno de 
+Jos pequeiios elementos de diseiio est.i esculpido cabeza abajo; por Jo d~m.is todo es 
+completamente simCtrico. Si se pregunta por quC es asi, la historia es que se esculpi6 
+cabeza abajo para que los dioses no estuviesen celosos de la perfecci6n humana. 
+Asi, a prop6sito cometieron un error en ella, para que los dioses no estuviesen celo­
+sos y se enfadasen con !os seres humanos. 
+Nos gustaria invertir la idea y pensar que la verdadera explicaci6n de la casi 
+simetria de la naturalcza es Csta: jDios hizo las leyes solamentc casi simCtricas para 
+que asi nosotros no estuviCsemos celosos de Su perfecci6n! 
+52-17

@@ -1,0 +1,2774 @@
+Tema: Vibraciones y ondas (Capítulo 13 — Física, Wilson)
+
+CAPÍTULO 13 Vibraciones y ondas
+* La unidad se llama así en honor al físico alemán Heinrich Hertz (1857-1894), quien fue uno de
+los primeros investigadores de las ondas electromagnéticas.
+13.1 Movimiento armónico simple
+OBJETIVOS: a) Describir el movimiento armónico simple y b) describir cómo varían
+la energía y la rapidez en este tipo de movimiento.
+El movimiento de un objeto oscilante depende de la fuerza restauradora que hace 
+que el objeto se desplace de ida y vuelta. Conviene iniciar el estudio de este tipo de
+movimientos considerando el tipo más sencillo de fuerza que actúa a lo largo del eje x:
+una fuerza directamente proporcional al desplazamiento del objeto respecto al equili-
+brio. Un ejemplo común es la fuerza de resorte (ideal), descrita por la ley de Hooke
+(sección 5.2),
+(13.1)
+donde k es la constante del resorte. En el capítulo 5 vimos que el signo menos indica
+que la fuerza siempre tiene la dirección opuesta al desplazamiento; es decir, la fuerza
+siempre tiende a restaurar el resorte a su posición de equilibrio.
+Suponga que un objeto descansa sobre una superficie horizontal sin fricción y es-
+tá conectado a un resorte como se muestra en la 
+>figura 13.1. Cuando el objeto se des-
+plaza hacia un lado de su posición de equilibrio y se suelta, se moverá de un lado a
+otro; es decir, vibrará u oscilará. Aquí, evidentemente la oscilación o vibración es un
+movimiento periódico: un movimiento que se repite una y otra vez siguiendo el mismo
+camino. En el caso de oscilaciones lineales, como las de un objeto sujeto a un resorte, 
+el camino podría ser hacia un lado y el otro, o hacia arriba y hacia abajo. En el caso de
+un péndulo oscilante, el camino es un arco circular hacia uno y otro lados.
+El movimiento bajo la influencia del tipo de fuerza descrita por la ley de Hooke se
+denomina movimiento armónico simple (MAS), porque la fuerza es la fuerza restau-
+radora más simple y porque el movimiento se puede describir con funciones armóni-
+cas (senos y cosenos), como veremos más adelante en este capítulo. La distancia
+dirigida de un objeto en MAS, respecto a su posición de equilibrio, es el desplaza-
+miento del objeto. En la figura 13.1 vemos que el desplazamiento puede ser positivo o
+negativo, lo cual indica dirección. Los desplazamientos máximos son /H11001A y /H11002A (figura
+13.1b, d). La magnitud del desplazamiento máximo, o la distancia máxima de un obje-
+to respecto a su posición de equilibrio, es la amplitud (A) de la oscilación, una can-
+tidad escalar que expresa la distancia de ambos desplazamientos extremos respecto a
+la posición de equilibrio.
+Además de la amplitud, dos cantidades importantes que describen una oscilación
+son su periodo y su frecuencia. El periodo (T) es el tiempo que el objeto tarda en com-
+pletar un ciclo de movimiento. Un ciclo es un viaje redondo completo, es decir, el movi-
+miento durante una oscilación completa. Por ejemplo, si un objeto parte de x /H11005A
+(figura 13.1b), entonces cuando vuelva a x /H11005A (como en la figura 13.1f) habrá com-
+pletado un ciclo durante un tiempo que llamamos periodo. Si un objeto está inicial-
+mente en x /H110050 cuando se le perturba, su segundo regreso a este punto marcará un
+ciclo. (¿Por qué un segundo regreso?) En todo caso, el objeto recorrería una distancia
+de 4A durante un ciclo. ¿Puede usted demostrar esto?
+La frecuencia ( f ) es el número de ciclos por segundo. La relación entre frecuencia
+y periodo es
+frecuencia y periodo (13.2)
+Unidad SI de frecuencia: hertz (Hz) o ciclo por segundo (ciclo/s)
+La relación inversa se refleja en las unidades. El periodo es el número de segundos por 
+ciclo y la frecuencia es el número de ciclos por segundo. Por ejemplo, si ciclo,
+entonces completa 2 ciclos cada segundo o f /H110052 ciclos/s.
+La unidad estándar de frecuencia es el hertz (Hz), que es un ciclo por segundo.*
+Por la ecuación 13.2, la frecuencia tiene unidades de recíproco de segundos (1/s o s/H110021),
+T = 1
+2 
+f = 1
+T
+Fs =- kx
+▲ FIGURA 13.1 Movimiento armó-
+nico simple (MAS) Cuando un 
+objeto en un resorte a) se desplaza
+respecto a su posición de equilibrio,
+x /H110050, y b) se suelta, el objeto ad-
+quiere un MAS (suponiendo que 
+no haya pérdidas por fricción). 
+El tiempo que le toma completar un
+ciclo es el periodo de oscilación (T).
+(Aquí, F
+s es la fuerza del resorte 
+y Fa es la fuerza aplicada.) c) En t /H11005
+T/4, el objeto está otra vez en su
+posición de equilibrio; d) en 
+t /H11005T/2, está en x /H11005/H11002A. e) Durante
+el siguiente medio ciclo, el movi-
+miento es a la derecha; f ) en t /H11005T,
+el objeto está otra vez en su posi-
+ción inicial (t /H110050) como en b.
+
+13.1 Movimiento armónico simple 435
+Términos empleados para describir el movimiento
+armónico simple
+desplazamiento: la distancia dirigida de un objeto (± x) desde su posición de equilibrio.
+amplitud (A): la magnitud del desplazamiento máximo, o la distancia máxima, de un
+objeto desde su posición de equilibrio.
+periodo (T): el tiempo para completar un ciclo de movimiento.
+frecuencia ( f ): el número de ciclos por segundo (en hertz o segundos a la inversa,
+donde f /H110051/T).
+TABLA 13.1
+puesto que el periodo es una medida de tiempo. Aunque el ciclo no es realmente una
+unidad, en algunos casos sería conveniente expresar la frecuencia en ciclos por segun-
+do, para facilitar el análisis de unidades. Esto es similar al uso del radián (rad) para
+describir movimiento circular en las secciones 7.1 y 7.2.
+Los términos que describen el MAS se resumen en la tabla 13.1.
+Energía y rapidez de un sistema masa-resorte en MAS
+En el capítulo 5 vimos que la energía potencial almacenada en un resorte que se estira
+o comprime una distancia /H11006x respecto al equilibrio (que elegimos como x
+/H110050) es
+(13.3)
+El cambio de energía potencial de un objeto que oscila en un resorte está relacionado
+con el trabajo efectuado por la fuerza del resorte. Un objeto con masa m que oscila en
+un resorte también tiene energía cinética. Juntas, las energías cinética y potencial dan
+la energía mecánica total E del sistema:
+(13.4)
+Cuando el objeto está en uno de sus desplazamientos máximos, /H11001A o /H11002A, está instan-
+táneamente en reposo, v /H110050 (
+▼ figura 13.2). Así, toda la energía está en forma de ener-
+gía potencial (Umáx) en este punto; es decir,
+o bien,
+(13.5)
+Esto es un resultado general para MAS:
+La energía total de un objeto en movimiento armónico simple es directamente
+proporcional al cuadrado de la amplitud.
+ energía total de un objeto
+en MAS en un resorteE = 1
+2 kA2
+E = 1
+2 m1022 + 1
+2 k1/H11006A22 = 1
+2 kA2
+E = K + U = 1
+2 mv2 + 1
+2 kx2
+U = 1
+2 kx2
+m
+Fmáx m
+x = –A x = 0
+m
+x = +A
+Fmáx
+v = 0v = 0
+Kmáx =     kA21
+2máx UmáxE ==     kA21
+2UmáxE = =     mv21
+2
+vmáx
+E =
+▲ FIGURA 13.2 Oscilaciones y energía Para una masa que oscila en MAS en un resorte
+(sobre una superficie sin fricción), la energía total en las posiciones de amplitud (/H11006A) 
+es toda energía potencial (Umáx) y que es la energía total del sistema. 
+En la posición central (x /H110050), la energía total es toda energía cinética (
+donde m es la masa del bloque). ¿Cómo se divide la energía total entre x /H110050 y x /H11005/H11006A?
+E = 1
+2 mvmáx
+2 ,
+E = 1
+2 kx2 = 1
+2 kA2 ,
+
+436 CAPÍTULO 13 Vibraciones y ondas
+La ecuación 13.5 nos permite expresar la velocidad de un objeto que oscila en un resor-
+te en función de la posición:
+Despejando v2 y considerando la raíz cuadrada, obtenemos:
+velocidad de un objeto en MAS (13.6)
+donde los signos positivo y negativo indican la dirección de la velocidad. Observe que
+en x /H11005/H11006A, la velocidad es cero porque el objeto está instantáneamente en reposo en 
+su desplazamiento máximo respecto al equilibrio.
+Vemos que cuando el objeto oscilante pasa por su posición de equilibrio (x /H110050), su
+energía potencial es cero. En ese instante, toda la energía es cinética, y el objeto viaja
+con su rapidez máxima v
+máx. La expresión para la energía en este caso es
+así que,
+(13.7)
+En el siguiente ejemplo, y en la sección Aprender dibujando, podremos visualizar
+el intercambio continuo de energías cinética y potencial.
+Ejemplo 13.1 ■ Un bloque y un resorte: movimiento armónico simple
+Un bloque con masa de 0.25 kg descansa sobre una superficie sin fricción y está conectado
+a un resorte ligero cuya constante es de 180 N/m (véase la figura 13.1). Si el bloque se des-
+plaza 15 cm respecto a su posición de equilibrio y se suelta, a) ¿qué energía total tendrá el
+sistema y b) qué rapidez tendrá el bloque cuando esté a 10 cm de su posición de equilibrio?
+Razonamiento. La energía total depende de la constante del resorte ( k) y de la amplitud
+(A), que se dan. En x /H1100510 cm, la rapidez debería ser menor que la máxima. (¿Por qué?)
+Solución. Primero hacemos una lista de los datos y de lo que se pide. El desplazamiento
+inicial es la amplitud. (¿Por qué?)
+Dado: Encuentre: a) E (energía total)
+b) v (rapidez)
+a) La energía total está dada por la ecuación 13.5:
+b) La rapidez instantánea del bloque a una distancia de 10 cm de la posición de equili-
+brio está dada por la ecuación 13.6, sin signos direccionales:
+¿Qué rapidez tendría la masa en x /H11005/H1100210 cm?
+Ejercicio de refuerzo. En el inciso b de este ejemplo, el bloque en x /H1100510 cm está a dos ter-
+cios, o 67%, de su desplazamiento máximo. ¿Es entonces su rapidez en ese punto el 67%
+de su rapidez máxima? Compruebe matemáticamente su respuesta. (Las respuestas de todos
+los Ejercicios de refuerzo se dan al final del libro.)
+v =
+A
+k
+m
+ 1A2 - x22 = A
+180 N>m
+0.25 kg
+ 310.15 m22 -10.10 m224 = 39.0 m2>s2 = 3.0 m>s
+E = 1
+2 kA2 = 1
+2 1180 N>m210.15 m22 = 2.0 J
+ x = 10 cm = 0.10 m
+ A = 15 cm = 0.15 m
+ k = 180 N>m
+ m = 0.25 kg
+ rapidez maxima de una
+masa en un resortevmáx = A
+k
+m
+ A
+E = 1
+2 kA2 = 1
+2 mvmáx
+2
+v = /H11006 
+A
+k
+m
+ 1A2 - x22
+E = K + U o bien, 1
+2 kA2 = 1
+2 mv2 + 1
+2 kx2
+Nota: este análisis se limitará a
+resortes ligeros, cuya masa puede
+considerarse insignificante.
+Ilustración 16.3 Energía y movimiento
+armónico simple
+
+13.1 Movimiento armónico simple 437
+APRENDER DIBUJANDO
+te la oscilación del objeto sobre el eje x, los intercambios de
+energía pueden visualizarse como los cambios de longitud
+de las dos flecha.
+En la figura 2 se muestra una posición general, x
+1. Ni 
+la energía cinética ni la potencial están en su valor máximo
+de E ahí. En cambio, los valores máximos se dan en x /H110050 y 
+x /H11005/H11006A, respectivamente. El movimiento no puede exce-
+der x /H11005/H11006A porque ello implicaría una energía cinética ne-
+gativa, lo cual es físicamente imposible. (¿Por qué?) Las 
+posiciones de amplitud también se denominan extremos del
+movimiento, ya que son los puntos donde la rapidez es ins-
+tantáneamente cero y se invierte la dirección del objeto.
+Intente contestar las siguientes preguntas (y redacte al-
+gunas más) empleando este enfoque gráfico: ¿qué hay que
+hacer a E para aumentar la amplitud de oscilación, y cómo
+podría hacerse? ¿Qué sucede con la amplitud de un sistema
+del mundo real en MAS, en presencia de una fuerza como
+la fricción, que hace que E disminuya con el tiempo?
+OSCILACIÓN EN UN POZO PARABÓLICO DE POTENCIA
+En la figura 1 se muestra una forma de visualizar la conser-
+vación de la energía en el movimiento armónico simple. La
+energía potencial de un sistema masa-resorte puede gra-
+ficarse como una curva de energía ( E) contra posición ( x). 
+Puesto que la curva es una parábola.
+En ausencia de fuerzas no conservativas, la energía to-
+tal del sistema, E, es constante. Sin embargo, E es la suma
+de las energías cinética y potencial. Durante las oscilacio-
+nes, hay un intercambio continuo entre las dos formas de
+energía, aunque su suma continúa siendo constante. Mate-
+máticamente, esta relación se escribe como E /H11005K /H11001U. En
+la figura 2, U (indicada con una flecha azul) está represen-
+tada por la distancia vertical respecto al eje x.
+Puesto que E es constante e independiente de x, se gra-
+fica como una línea horizontal. La energía cinética es la par-
+te de la energía total que no es energía potencial; es decir, 
+K /H11005E /H11002U; la podemos interpretar gráficamente (flecha
+gris) como la distancia vertical entre la parábola de energía
+potencial y la línea horizontal de la energía total. Duran-
+U = 1
+2 kx2 r x2,
+x = +Ax = −A
+−A +A
+x = 0Energía
+x = 0
+k
+m
+E
+U =     kx21
+2
+−A +A
+Energía
+x = 0 x1
+U
+E = constante
+K
+=     kx2
+Umáx
+U
+= EKmáx = E
+1
+2
+FIGURA 2 Transferencias de energía cuando oscila el 
+sistema masa-resorte La distancia vertical del eje x a 
+la parábola es la energía potencial del sistema. El resto 
+(la distancia vertical entre la parábola y la línea horizontal 
+que representa la energía total constante del sistema E) es 
+la energía cinética del sistema (K).
+FIGURA 1 “Pozo” de energía potencial de un sistema
+masa-resorte La energía potencial de un resorte que 
+se estira o comprime respecto a su posición de equilibrio 
+(x /H110050) es una parábola, porque U /H11008x
+2. En x /H11005/H11006A, toda 
+la energía del sistema es potencial.
+La constante de un resorte suele determinarse colocando un objeto de masa conoci-
+da en el extremo de un resorte y dejando que se estabilice verticalmente en una nueva
+posición de equilibrio. El siguiente ejemplo muestra algunos resultados representativos.
+
+438 CAPÍTULO 13 Vibraciones y ondas
+Ejemplo 13.2 ■ La constante de resorte: determinación experimental
+Cuando una masa de 0.50 kg se cuelga de un resorte, éste se estira 10 cm hasta una nue-
+va posición de equilibrio ( ▲ figura 13.3a). a) Calcule la constante del resorte. b) Luego, se
+tira de la masa hacia abajo desplazándola 5.0 cm, y se suelta. ¿Qué altura máxima alcan-
+zará la masa oscilante?
+Razonamiento. En la posición de equilibrio, la fuerza neta sobre la masa es cero porque 
+a /H110050. En el inciso b, usaremos y negativa para indicar “hacia abajo”, como se suele hacer
+en problemas de movimiento vertical.
+Solución.
+Dado: Encuentre: a) k (constante de resorte)
+b) A (amplitud)
+(nuevo punto de referencia)
+a) Cuando la masa suspendida está en equilibrio (figura 13.3a), la fuerza neta sobre la
+masa es cero. Por consiguiente, el peso de la masa y la fuerza del resorte son iguales y
+opuestos. Si igualamos sus magnitudes,
+o bien,
+Por lo tanto,
+b) Una vez puesta en movimiento, la masa oscila verticalmente en torno a la posición 
+de equilibrio. Puesto que el movimiento es simétrico en torno a este punto, lo designa-
+mos como punto de referencia cero de la oscilación (figura 13.3b). El desplazamiento ini-
+cial es /H11002A, así que la posición más alta de la masa será 5.0 cm arriba de la posición de
+equilibrio (/H11001A).
+Ejercicio de refuerzo. ¿Cuánta energía potencial más tiene el resorte de este ejemplo en la
+posición más baja de la oscilación, en comparación con la posición más alta?
+k =
+mg
+yo
+=
+10.50 kg219.8 m>s22
+0.10 m = 49 N>m
+kyo = mg
+Fs = w
+ y =- 5.0 cm =- 0.050 m
+ yo = 10 cm = 0.10 m
+ m = 0.50 kg
+0
++y
+mg
+10 cm
+sin estirar
+equilibrio
+yo
+–y
+y = 0
+m
+y = –A = –5.0 cm
+y = +A = 5.0 cm
+m
+a) b)
+Fs
+▲ FIGURA 13.3 Determinación de la constante del resorte a) Cuando un objeto colgado
+de un resorte está en equilibrio, se anulan las dos fuerzas sobre el objeto, de manera que 
+F
+s /H11005w, o bien, que kyo /H11005mg. Por lo tanto, es posible calcular la constante del resorte: 
+k /H11005mg/yo. b) Conviene tomar como punto de referencia cero de un objeto en MAS 
+suspendido de un resorte la nueva posición de equilibrio, pues el movimiento es 
+simétrico en torno a ese punto. (Véase el ejemplo 13.2.)
+
+13.2 Ecuaciones de movimiento 439
+b)a)
+A
+u
++y
+– y
+y = A sen /H9258
+   = A senvt
+en t >0
+Pantalla
+en t =0
+y= –A
+y= +A
+y= 0
++y
+A
+–y
+u
+Luz
+de una
+fuente
+distante
+Sombra en
+el bloque
+v
+▼ FIGURA 13.4 Círculo de referencia para el movimiento vertical a) La sombra de un
+objeto en movimiento circular uniforme tiene el mismo movimiento vertical que un objeto
+que oscila en movimiento armónico simple en un resorte. b) Por lo tanto, el movimiento
+puede describirse con y /H11005A sen /H9258/H11005A sen /H9275t (suponiendo y /H110050 en t /H110050).
+13.2 Ecuaciones de movimiento
+OBJETIVOS: a) Entender la ecuación del MAS y b) explicar qué significan fase y
+diferencias de fase.
+La ecuación de movimiento de un objeto es la ecuación que da la posición del objeto
+en función del tiempo. Por ejemplo, la ecuación de movimiento con una aceleración 
+rectilínea constante es donde vo es la velocidad inicial (capítu-
+lo 2). Sin embargo, en el movimiento armónico simple la aceleración no es constante,
+así que las ecuaciones de cinemática del capítulo 2 no son válidas para este caso.
+Podemos obtener la ecuación de movimiento para un objeto en MAS, a partir de
+una relación entre los movimientos armónico simple y circular uniforme. Simulamos
+el MAS con un componente del movimiento circular uniforme, como se ilustra en la
+▼ figura 13.4. Mientras el objeto iluminado se mueve con movimiento circular unifor-
+me (con rapidez angular constante /H9275) en un plano vertical, su sombra se mueve hacia
+arriba y hacia abajo, siguiendo el mismo camino que el objeto en el resorte, que tiene
+movimiento armónico simple. Puesto que la sombra y el objeto tienen la misma posi-
+ción en cualquier momento, se sigue que la ecuación de movimiento de la sombra del
+objeto en movimiento circular es la ecuación de movimiento del objeto que oscila en
+el resorte.
+Del círculo de referencia de la figura 13.4b, la coordenada y (posición) del objeto
+está dada por
+Sin embargo, el objeto se mueve con velocidad angular constante de magnitud /H9275. 
+En términos de la distancia angular /H9258, suponiendo que /H9258/H110050° en t /H110050, tenemos /H9258/H11005/H9275t,
+así que
+(13.8)
+Vemos que, al aumentar t desde cero, y aumenta en la dirección positiva, de ma-
+nera que la ecuación describe el movimiento inicial hacia arriba.
+Con la ecuación 13.8 como ecuación de movimiento, la masa siempre debe estar ini-
+cialmente en y
+o /H110050. Sin embargo, ¿qué tal si la masa colgada del resorte estuviera inicial-
+mente en la posición de amplitud /H11001A? En ese caso, la ecuación del seno no describiría
+(MAS para yo = 0, movimiento 
+inicial hacia arriba)y = A sen vt
+y = A sen u
+x = xo + vo
+ t + 1
+2 at2,
+Ilustración 16.1 Representaciones 
+del movimiento armónico simple
+
+440 CAPÍTULO 13 Vibraciones y ondas
+T
+Tiempo
+1 periodo
+t = 0
+   y = +A
+y = A cos /H9275t
+– A –y
+y = 0
++y+A
+k
+m
+Desplazamiento
+N FIGURA 13.5 Ecuación de
+movimiento senoidal Al paso del
+tiempo, el objeto oscilante traza una
+curva senoidal sobre el papel móvil.
+En este caso, y /H11005A cos /H9275t, porque 
+el desplazamiento inicial del objeto
+es y
+o /H11005/H11001A.
+el movimiento, porque no describe la condición inicial , yo /H11005/H11001A en t /H110050. Por lo tan-
+to, necesitamos otra ecuación de movimiento: y /H11005A cos /H9275t. Con esta ecuación, en 
+to /H110050, la masa está en yo /H11005A cos /H9275t /H11005A cos /H9275(0) /H11005/H11001A, así que la ecuación del 
+coseno sí describe correctamente las condiciones iniciales (▲ figura 13.5):
+(13.9)
+Aquí, el movimiento inicial es hacia abajo porque, momentos poco después de to /H110050,
+el valor de y disminuye. Si la amplitud fuera /H11002A, la masa estaría inicialmente en esa
+posición inferior y el movimiento inicial sería hacia arriba.
+Por lo tanto, la ecuación de movimiento de un objeto oscilante puede ser una fun-
+ción seno o coseno. Ambas funciones se describen como senoidales. Es decir, el movi-
+miento armónico simple se describe con una función senoidal del tiempo.
+La rapidez angular /H9275(en rad/s) del objeto en el círculo de referencia (figura 13.4) es 
+la frecuencia angular del objeto oscilante, porque /H9275/H110052/H9266f, donde f es la frecuencia de re-
+volución o rotación del objeto (sección 7.2). La figura 13.4 muestra que la frecuen-
+cia del objeto “en órbita” es igual a la frecuencia de oscilación del objeto colgado del
+resorte. De manera que si usamos f /H110051/T, escribimos la ecuación 13.8 como:
+(13.10)
+Note que esta ecuación corresponde al movimiento inicial hacia arriba porque, des-
+pués de t
+o /H110050, el valor de y aumenta en dirección positiva. Si el movimiento inicial es
+hacia abajo, el término de amplitud sería /H11002A.
+Las ecuaciones 13.8 y 13.10 dan tres formas equivalentes de la ecuación de movi-
+miento para un objeto en MAS. Podemos usar la más conveniente de ellas, depen-
+diendo de los parámetros que conozcamos. Por ejemplo, si nos dan el tiempo t en
+términos del periodo T (digamos, to /H110050, t1 /H11005T/4 y t2 /H110053T/4) y nos piden calcular la
+posición de un objeto en MAS en esos instantes. En un caso así, nos conviene usar 
+la ecuación 13.10:
+Los resultados nos indican que el objeto estaba inicialmente en y /H110050 (equilibrio), lo
+cual ya sabíamos. Un cuarto de periodo después, estaba en y /H11005A, la amplitud de 
+su oscilación; y después de tres cuartos de periodo (3 T/4) estaba en la posición /H11002A, 
+lo cual se esperaba, pues se trata de un movimiento periódico. (¿Dónde estaría el ob-
+jeto en T/2 y en T?)
+ t2 =
+3T
+4
+  y2 = A sen32p13T>42>T4 = A sen 3p>2 =- A
+ t1 = T
+4
+  y1 = A sen32p1T>42>T4 = A sen p>2 = A
+ to = 0  yo = A sen32p102>T4 = A sen 0 = 0
+(MAS para yo = 0, movimiento
+inicial hacia arriba)y = A sen12pft2 = A sena 2pt
+T b
+(movimiento inicial hacia
+abajo con yo =+ A)y = A cos vt
+
+13.2 Ecuaciones de movimiento 441
+Nota: el periodo y la frecuencia
+son Independientes de la amplitud
+en MAS.
+Ilustración 16.2 Movimiento de
+resorte y de péndulo simple
+Exploración 16.1 Movimiento 
+de resorte y de péndulo
+Por lo tanto, en general, escribimos,
+(13.8a)
+Por un desarrollo similar, la ecuación 13.9 tiene la forma general
+(13.9b)y = /H11006A cos vt = /H11006A cos12pft2 = /H11006A cosa2pt
+Tb
+y = /H11006A sen vt = /H11006A sen12pft2 = /H11006A sena
+2pt
+T b
+Para constatar lo útil que es el círculo de referencia, usémoslo para calcular el perio-
+do del sistema resorte-objeto. Note que el tiempo en que el objeto del círculo de referen-
+cia tarda en efectuar una “órbita” completa es exactamente el tiempo que tarda el objeto
+en oscilación en completar un ciclo. (Véase la figura 13.4.) Por lo tanto, si conocemos el
+tiempo de una órbita en el círculo de referencia, tendremos el periodo de oscilación.
+Puesto que el objeto “en órbita” en el círculo de referencia está en movimiento circular
+uniforme con rapidez constante igual a la rapidez máxima de oscilación v
+máx, el obje-
+to recorre una distancia de una circunferencia en un periodo. Entonces, t /H11005d/v, don-
+de t /H11005T, d es la circunferencia y v es vmáx, dada por la ecuación 13.7; es decir,
+o bien,
+(13.11)
+Como las amplitudes se cancelan en la ecuación 13.11, el periodo y la frecuencia son
+independientes de la amplitud del movimiento. Esta afirmación es una característica gene-
+ral de los osciladores armónicos simples, es decir, los osciladores impulsados por una
+fuerza restauradora lineal, como la de un resorte que se rige por la ley de Hooke.
+La ecuación 13.11 nos indica que cuanto mayor sea la masa, más largo será el pe-
+riodo; y que cuanto mayor sea la constante de resorte (resorte más rígido), más corto
+será el periodo. Es la razón masa/rigidez lo que determina el periodo. Por lo tanto, un
+aumento en la masa se compensa utilizando un resorte más rígido.
+Puesto que f /H110051/T,
+(13.12)
+Así, cuanto mayor sea la constante de resorte (resorte más rígido), con mayor frecuen-
+cia vibrará el sistema, como era de esperarse.
+También, observe que como /H9275/H110052/H9266f, escribimos
+(13.13)
+Como ejemplo adicional, un péndulo simple (un objeto pequeño y pesado colgado
+de un cordel) estará en movimiento armónico simple, si el ángulo de oscilación es pe-
+queño. Una buena aproximación del periodo de un péndulo simple con ángulo de os-
+cilación pequeño /H9258/H1135110/H11034está dada por
+periodo de un péndulo simple (13.14)
+donde L es la longitud del péndulo y g es la aceleración debida a la gravedad. Un re-
+loj de péndulo al que se le está acabando la cuerda sigue marcando correctamente el
+tiempo porque el periodo no cambia al disminuir la amplitud. Como muestra la ecua-
+ción 13.14, el periodo es independiente de la amplitud.
+Una diferencia importante entre el periodo del sistema masa-resorte y el del pén-
+dulo es que este último es independiente de la masa de la pesa. (Véase las ecuaciones
+13.11 y 13.14.) ¿Puede usted explicar por qué? Piense en lo que proporciona la fuerza
+restauradora para las oscilaciones del péndulo: la gravedad. Por lo tanto, cabe esperar
+que la aceleración (junto con la velocidad y el periodo) sea independiente de la masa.
+T = 2p 
+A
+L
+g
+frecuencia angular de una masa
+que oscila en un resortev = A
+k
+m
+frecuencia de la masa
+que oscila en un resortef = 1
+2p A
+k
+m
+periodo de un objeto
+que oscila en un resorteT = 2pA
+m
+k
+T = d
+vmáx
+= 2pA
+2k>m A
+(/H11001para movimiento inicial hacia arriba con yo /H110050;
+/H11002para movimiento inicial hacia abajo con yo /H110050)
+(/H11001para movimiento inicial hacia abajo con yo /H11005/H11001A;
+/H11002para movimiento inicial hacia arriba con yo /H11005/H11002A)
+
+442 CAPÍTULO 13 Vibraciones y ondas
+Es decir, la fuerza gravitacional automáticamente imparte la misma aceleración a pe-
+sas de diferente masa, en péndulos de la misma longitud. Ya vimos que se observan
+efectos similares en caída libre (capítulo 2) y con bloques que se deslizan y cilindros
+que ruedan pendiente abajo (capítulos 4 y 8, respectivamente). El siguiente ejemplo
+demuestra el uso de la ecuación de movimiento para MAS.
+Ejemplo 13.3 ■ Una masa oscilante: aplicación de la ecuación 
+de movimiento
+Una masa en un resorte oscila verticalmente con una amplitud de 15 cm, una frecuencia de
+0.20 Hz y la ecuación de movimiento está dada por la ecuación 13.8, con yo /H110050 en to /H110050 
+y movimiento inicial hacia arriba. a) ¿Cuál es la posición y la dirección de movimiento de
+la masa en t /H110053.1 s. b) ¿Cuántas oscilaciones (ciclos) efectúa la masa en un tiempo de 12 s?
+Razonamiento. El inciso a es una aplicación directa de la ecuación 13.8. En el inciso b, el
+número de oscilaciones es el número de ciclos, y recuerde que la frecuencia a veces se 
+expresa como ciclos por segundo. Por lo tanto, si multiplicamos la frecuencia por el 
+tiempo, obtendremos el número de ciclos u oscilaciones.
+Solución.
+Dado: Encuentre: a) y (posición y dirección del movimiento)
+b) n (número de oscilaciones o ciclos)
+(ecuación 13.8)
+b) 
+a) En primer lugar, como nos dan la frecuencia f, nos conviene usar la ecuación de mo-
+vimiento en la forma y /H11005A sen 2/H9266ft (ecuación 13.10). Por la ecuación, es evidente que, en
+to /H110050, yo /H110050, así que inicialmente la masa está en la posición cero (de equilibrio). Des-
+pués, en t /H110053.1 s,
+Por lo tanto, la masa está en y /H11005/H110020.10 m en t /H110053.1 s. ¿Qué dirección tiene su movi-
+miento? Examinemos el periodo ( T) para saber en qué parte del ciclo está la masa. Por
+la ecuación 13.2,
+En t /H110053.1 s, la masa ha pasado por 3.1 s/5.0 s /H110050.62, o bien, 62% de un periodo o ciclo, 
+así que se está moviendo hacia abajo [subió y regresó a en o 50%,
+y seguirá hacia abajo durante el siguiente de ciclo].
+b) El número de oscilaciones (ciclos) es igual al producto de la frecuencia (ciclos/s) y el
+tiempo transcurrido (s), y nos dan ambos datos:
+n /H11005ft /H11005(0.20 ciclos/s)(12 s) /H110052.4 ciclos
+o con f /H110051/T,
+(Observe que ciclo no es una unidad y que sólo se usa por claridad.)
+Por lo tanto, la masa ha pasado por dos ciclos completos y 0.4 de un tercero, lo cual
+significa que está regresando hacia y
+o /H110050 desde su posición de amplitud /H11001A. (¿Por qué?)
+Ejercicio de refuerzo. Obtenga lo que se pide en este ejemplo con los tiempos 1) t /H110054.5 s
+y 2) t /H110057.5 s.
+Sugerencia para resolver problemas
+Note que en el cálculo del inciso a del ejemplo 13.3, donde tenemos sen 3.9, el ángulo
+está en radianes, no grados. No olvide ajustar su calculadora a radianes (en vez de
+grados) para obtener el valor de una función trigonométrica en ecuaciones de movi-
+miento armónico simple o circular.
+n = t
+T = 12 s
+5.0 s
+= 2.4 ciclo
+1
+4
+1
+2 ,yo = 0A
+1
+4  cicloBA
+1
+4 cicloB
+T = 1
+f = 1
+0.20 Hz = 5.0 s
+ =10.15 m2 sen13.9 rad2 =- 0.10 m
+ =10.15 m2 sen32p10.20 s-1213.1 s24
+ y = A sen 2pft
+t = 12 s a) t = 3.1 s
+ y = A sen vt
+ f = 0.20 Hz
+ A = 15 cm = 0.15 m
+
+13.2 Ecuaciones de movimiento 443
+Ejemplo 13.4 ■ Diversión con un péndulo: frecuencia y periodo
+Un joven dinámico lleva a su hermanita a jugar en los columpios del parque. La empuja
+por atrás en cada retorno. Suponiendo que el columpio se comporta como péndulo sim-
+ple con una longitud de 2.50 m, a) ¿qué frecuencia tendrán las oscilaciones y b) qué inter-
+valo habrá entre los impulsos impartidos por el joven?
+Razonamiento. a) El periodo está dado por la ecuación 13.14, y hay una relación inversa 
+entre la frecuencia y el periodo: f /H110051/T. b) Puesto que el hermano empuja desde un lado en
+cada retorno, deberá empujar una vez por cada ciclo completo, así que el intervalo entre
+sus impulsos es igual al periodo del columpio.
+Solución.
+Dado: L /H110052.50 m Encuentre: a) f (frecuencia)
+b) T (periodo)
+a) Podemos obtener el recíproco de la ecuación 13.14 para despejar directamente la fre-
+cuencia:
+b) De manera que calculamos el periodo a partir de la frecuencia:
+El hermano debe empujar cada 3.17 s para mantener una oscilación constante (y que su
+hermanita no le reclame).
+Ejercicio de refuerzo. En este ejemplo, el hermano mayor, que es aficionado a la física,
+mide con cuidado el periodo del columpio y obtiene 3.18 s en vez de 3.17 s. Si la longi-
+tud de 2.50 m es exacta, ¿qué valor tendrá la aceleración debida a la gravedad en el lugar
+donde está el parque? Considerando este valor exacto de g, ¿cree usted que el parque 
+esté en el nivel del mar?
+Condiciones iniciales y fase
+Tal vez el lector se esté preguntando cómo decidir si usará una función seno o coseno
+para describir un caso específico de movimiento armónico simple. En general, la for-
+ma de la función depende del desplazamiento y la velocidad iniciales del objeto: las
+condiciones iniciales del sistema. Estas condiciones iniciales son los valores del despla-
+zamiento y la velocidad en t /H110050; juntos, nos indican cómo se puso en movimiento ini-
+cialmente el sistema.
+Examinemos cuatro casos especiales. Si un objeto en MAS vertical tiene un des-
+plazamiento inicial de y /H110050 en t /H110050 y se mueve inicialmente hacia arriba, la ecuación
+de movimiento será y /H11005A sen /H9275t (
+▼figura 13.6a). Observe que y /H11005A cos /H9275t no satisfa-
+ce la condición inicial, porque yo /H11005A cos /H9275t /H11005A cos /H9275(0) /H11005A, ya que cos 0 /H110051.
+Suponga que el objeto se suelta inicialmente (t /H110050) desde su posición de amplitud
+positiva (/H11001A), como el caso de un objeto en un resorte que se muestra en la figura 13.5.
+Aquí, la ecuación de movimiento es y /H11005A cos /H9275t (figura 13.6b). Esta expresión satisfa-
+ce la condición inicial: yo /H11005A cos /H9275(0) /H11005A.
+Los otros dos casos son 1) y /H110050 en t /H110050, con el movimiento inicialmente hacia
+abajo (para un objeto en un resorte) o en la dirección negativa (para MAS horizontal);
+y 2) y /H11005/H11002A en t /H110050, es decir, el objeto está inicialmente en su posición de amplitud ne-
+gativa. Estos movimientos se describen con y /H11005/H11002A sen /H9275t y y /H11005/H11002A cos /H9275t, respectiva-
+mente, como se ilustra en las figuras 13.6c y 13.6d.
+Sólo consideraremos aquí estas cuatro condiciones iniciales. Si yo tiene un valor
+distinto de 0 o /H11006A, la ecuación de movimiento es algo complicada. Note que en la fi-
+gura 13.6 vemos que si las curvas se extienden en la dirección negativa del eje hori-
+zontal (líneas punteadas), tienen la misma forma pero se han “desplazado”, por
+decirlo de alguna manera. En a y b, una curva está 90°
+( de ciclo) adelante de la otra;
+es decir, las curvas están desplazadas entre sí un cuarto de ciclo. Decimos que las os-
+cilaciones tienen una diferencia de fase de 90°. En a y c, las curvas están desplazadas
+(desfasadas) 180°. (En este caso las oscilaciones son opuestas: cuando una masa está
+subiendo, la otra está bajando.) ¿Y las oscilaciones en a y en d?
+1
+4
+T = 1
+f = 1
+0.315 Hz = 3.17 s
+f = 1
+T = 1
+2p
+ 
+A
+g
+L = 1
+2p
+ 
+A
+9.80 m>s2
+2.50 m = 0.315 Hz
+Nota: las condiciones iniciales
+incluyen tanto el desplazamiento 
+y
+o como la velocidad vo en t /H110050.
+
+444 CAPÍTULO 13 Vibraciones y ondas
+y = A sen /H9275t
+t
+t = T
+t = T
+t = T
+t = T
+y
+−A
++A
+0
+y = A cos    t 
+−A
++A
+0
+t
+y = –A sen /H9275t 
+−A
++A
+0
+t
+y = –A cos t 
+−A
++A
+0
+ω 
+ω
+a)
+b)
+c)
+d)
+t
+N FIGURA 13.6 Condiciones 
+iniciales y ecuaciones de 
+movimiento Las condiciones 
+iniciales (y
+o y to) determinan la 
+forma de la ecuación de movimiento
+que, para los casos que se muestran
+aquí, es un seno o un coseno. 
+Para t
+o /H110050, los desplazamientos 
+iniciales son a) yo /H110050, b) yo /H11005/H11001A,
+c) yo /H110050 y d) yo /H11005/H11002A. 
+Las ecuaciones de movimiento 
+deben ser congruentes con las 
+condiciones iniciales. (Véase 
+la descripción en el texto.)
+No mostramos una figura con un desfasamiento de 360° (o 0°) porque sería igual
+a la del inciso a. Cuando dos objetos en MAS tienen la misma ecuación de movimien-
+to, decimos que están oscilando en fase, lo cual significa que oscilan juntos con movi-
+mientos idénticos. Los objetos con un desplazamiento o diferencia de fase de 180°
+están totalmente desfasados, y siempre irán en direcciones opuestas y estarán en ampli-
+tudes opuestas al mismo tiempo.
+Velocidad y aceleración en MAS
+También podemos obtener expresiones para la velocidad y la aceleración de un objeto
+en MAS. Utilizando cálculo, es posible demostrar que v /H11005/H9004y//H9004t /H11005/H9004(A sen /H9275t)//H9004t, en
+el límite conforme /H9004t se aproxima a cero, da la siguiente expresión para la velocidad
+instantánea:
+(13.15)
+Aquí, los signos que indican dirección están dados por la función coseno.
+(velocidad vertical si vo es hacia arriba
+to = 0, yo = 0)v =vA cos vtNota: Rapidez máxima v /H11005/H9275A.
+
+13.2 Ecuaciones de movimiento 445
+La aceleración puede obtenerse aplicando la segunda ley de Newton a la fuerza
+del resorte Fs /H11005/H11002ky:
+Puesto que 
+(13.16)
+Observe que las funciones de la velocidad y la aceleración están desfasadas res-
+pecto a la del desplazamiento. Puesto que la velocidad está desfasada 90° respecto al
+desplazamiento, la rapidez es máxima cuando cos /H9275t /H11005/H110061 en y /H110050, es decir, cuando
+el objeto oscilante está pasando por su posición de equilibrio. La aceleración está des-
+fasada 180 /H11034respecto al desplazamiento (como indica el signo menos en el miembro
+derecho de la ecuación 13.16). Por lo tanto, la magnitud de la aceleración es máxima
+cuando sen /H9275t /H11005/H110061 en y /H11005/H11006A, es decir, cuando el desplazamiento es máximo o el
+objeto está en una posición de amplitud. En cualquier posición, excepto la de equili-
+brio, el signo de dirección de la aceleración es opuesto al del desplazamiento, como
+debe ser para una aceleración que es resultado de una fuerza restauradora. En la po-
+sición de equilibrio, tanto el desplazamiento como la aceleración son cero. (¿Puede el
+lector ver por qué?)
+Vemos también que la aceleración en MAS no es constante con el tiempo. Por lo
+tanto, no podemos usar las ecuaciones de cinemática para la aceleración (capítulo 2),
+pues describen una aceleración constante.
+Movimiento armónico amortiguado
+Un movimiento armónico simple con amplitud constante implica que no hay pérdidas
+de energía, aunque en las aplicaciones prácticas siempre hay pérdidas por fricción. En-
+tonces, para mantener un movimiento de amplitud constante, es preciso agregar ener-
+gía al sistema con alguna fuerza impulsora externa, como alguien que empuje el
+columpio. Sin fuerza impulsora, la amplitud y energía de un oscilador disminuyen
+con el tiempo y dan pie a un movimiento armónico amortiguado (
+▼ figura 13.7a). El
+(aceleración vertical si vo es
+hacia arriba en to = 0, yo = 0)a =- v2
+ A sen vt =- v2
+ y
+v = 2k>m,
+a = Fs
+m =
+-ky
+m =- k
+m
+ A sen vt
+Nota: magnitud máxima de la
+aceleración a /H11005/H92752A.
+0
+y 
++A
+t
+–A
+Oscilación en estado estable
+con una fuerza impulsora
+Amplitud constante Se quita la fuerza impulsora
+Oscilación armónica amortiguada
+b)a)
+▼ FIGURA 13.7 Movimiento 
+armónico amortiguado a) Cuando
+una fuerza impulsora agrega a un
+sistema una energía igual a la que 
+el sistema pierde, la oscilación tiene
+amplitud constante. Cuando se 
+quita la fuerza impulsora, las 
+oscilaciones decaen (se amortiguan)
+y la amplitud disminuye de forma
+no lineal con el tiempo. b) En algunas
+aplicaciones, la amortiguación es
+deseable e incluso se busca, como
+en los sistemas de suspensión 
+de los automóviles. De lo contrario, 
+los pasajeros sufrirían constantes
+sacudidas.
+
+▲ FIGURA 13.8 Transferencia de
+energía La propagación de una
+perturbación, que transfiere energía
+por el espacio, se observa en una
+fila de fichas de dominó que caen.
+446
+CAPÍTULO 13 Vibraciones y ondas
+x1
+a
+b
+c
+d
+x2
+N FIGURA 13.9 Pulsación 
+ondulatoria La mano perturba la
+cuerda estirada con un movimiento
+vertical rápido, en tanto que una
+pulsación ondulatoria se propaga
+por la cuerda. (Las flechas represen-
+tan las velocidades de la mano y 
+de partes de la cuerda en diferentes
+tiempos y lugares.) Las “partículas”
+de la cuerda suben y bajan al pasar
+la pulsación. Por lo tanto, la energía
+de la pulsación es tanto cinética
+(elástica) como potencial 
+(gravitacional).
+tiempo que las oscilaciones tardan en parar depende de la magnitud y del tipo de la
+fuerza amortiguadora (como la resistencia del aire).
+En muchas aplicaciones en las que interviene un movimiento periódico continuo,
+la amortiguación es indeseable y hace necesario un aporte de energía. En cambio, hay
+otras situaciones en que la amortiguación es deseable. Por ejemplo, la lectura de una
+báscula de resorte casera oscila brevemente antes de detenerse en un peso dado. Si es-
+tas oscilaciones no se amortiguaran debidamente, continuarían durante un tiempo y
+tendríamos que esperar un rato para conocer nuestro peso. Los amortiguadores de los
+sistemas de suspensión de los automóviles amortiguan las oscilaciones producidas
+por sacudidas (figura 13.7b; véase también la figura 9.9b). Sin estos dispositivos para
+disipar la energía después de rodar sobre una irregularidad del pavimento, los pasa-
+jeros rebotarían continuamente. En California, muchos edificios nuevos incluyen me-
+canismos de amortiguación (amortiguadores gigantes) para frenar los movimientos
+oscilatorios causados por ondas sísmicas.
+13.3 Movimiento ondulatorio
+OBJETIVOS: a) Describir el movimiento ondulatorio en términos de diversos pará-
+metros y b) identificar diferentes tipos de ondas.
+El mundo está lleno de ondas de diversos tipos, como las olas del mar, las ondas sono-
+ras, las ondas sísmicas e incluso la luz. Todas las ondas son resultado de una perturba-
+ción: la fuente de la onda. En este capítulo nos ocuparemos de las ondas mecánicas:
+aquellas que se propagan en algún medio. (Las ondas luminosas, que no requieren un
+medio para propagarse, se verán con mayor detalle en capítulos posteriores.)
+Cuando se perturba un medio, se le imparte energía. Suponga que se añade mecá-
+nicamente energía a un material, digamos por impacto o (en el caso de un gas) por
+compresión. La adición de esa energía pone a vibrar a algunas partículas del medio.
+Puesto que las partículas están enlazadas por fuerzas intermoleculares, la oscilación de
+cada partícula afecta la de sus vecinas. La energía añadida se propaga mediante inte-
+racciones de las partículas del medio. En la 
+>figura 13.8, se muestra una analogía de es-
+te proceso, con fichas de dominó como “partículas”. Al caer cada ficha, tumba la que
+está junto a ella y se transfiere energía de una ficha a otra. La perturbación se propaga
+por el medio.
+En este caso, no hay fuerza restauradora entre las fichas, por lo que no oscilan, como
+hacen las partículas de un medio material continuo. Por ello, la perturbación se desplaza
+en el espacio, pero no se repite con el tiempo en un lugar dado.
+Asimismo, si damos una sacudida rápida al extremo de una cuerda estirada, la per-
+turbación transfiere energía de la mano a la cuerda, como se ilustra en la 
+▼figura 13.9.
+Las fuerzas que actúan entre las “partículas” de la cuerda hacen que se muevan en res-
+Ilustración 16.4 Movimiento forzado
+y amortiguado
+Ilustración 18.1 Representación 
+de ondas bidimensionales
+
+13.3 Movimiento ondulatorio 447
+– A
++ A
+λ
+λ Valle
+Crestav
+Amplitud
+> FIGURA 13.10 Onda periódica
+Una perturbación armónica continua
+puede establecer una onda senoidal
+en una cuerda estirada, y la onda
+viajará por la cuerda con una 
+rapidez v. Note que las “partículas”
+de la cuerda oscilan verticalmente
+en movimiento armónico simple. 
+La distancia entre dos puntos 
+sucesivos que están en fase (por
+ejemplo, dos crestas) en la forma 
+de onda es la longitud de onda 
+/H9261de
+la onda. ¿Puede el lector determinar
+el tiempo transcurrido, como 
+fracción del periodo T, entre la 
+primera onda y la última?
+puesta al movimiento de la mano, y una pulsación ondulatoria viaja por la cuerda. Cada
+“partícula” sube y baja al pasar el pulso. Este movimiento de partículas individuales y
+la propagación de la pulsación ondulatoria en su totalidad puede observarse atando
+trozos de listón a la cuerda (en x
+1 y x2 en la figura). Cuando la perturbación pasa por el
+punto x1, el listón sube y luego baja, junto con las “partículas” de la cuerda. Posterior-
+mente, sucede lo mismo con el listón en x2, el cual indica que la perturbación energética
+se está propagando (desplazando) a lo largo de la cuerda.
+En un medio material continuo, las partículas interactúan con sus vecinas, y fuer-
+zas restauradoras hacen que las partículas oscilen cuando se les perturba. Así, cual-
+quier perturbación no sólo se propaga por el espacio, sino que podría repetirse una y
+otra vez en el tiempo en cada posición. Semejante perturbación regular y rítmica, tan-
+to en el tiempo como en el espacio, se llama onda, y decimos que la transferencia de
+energía se efectúa por movimiento ondulatorio.
+Un movimiento ondulatorio continuo, u onda periódica, requiere una perturbación
+producida por una fuente oscilante (
+▲ figura 13.10). En este caso, las partículas se
+mueven hacia arriba y hacia abajo continuamente. Si la fuerza impulsora es tal que
+mantiene una amplitud constante (la fuente oscila en movimiento armónico simple),
+el movimiento resultante de las partículas también es armónico simple.
+Semejante movimiento ondulatorio periódico tiene formas senoidales (seno o co-
+seno) tanto en el tiempo como en el espacio. Un movimiento senoidal en el espacio 
+implica que, si tomamos una fotografía de la onda en cualquier instante (para “conge-
+larla” en el tiempo), veremos una forma de onda senoidal (como una de las curvas 
+de la figura 13.10). En cambio, si observáramos un solo punto en el espacio al paso de
+una onda, veríamos una partícula del medio oscilando hacia arriba y hacia abajo se-
+noidalmente con el tiempo , como la masa en un resorte que vimos en la sección 13.2.
+(Por ejemplo, imaginemos que vemos a través de una ranura delgada un punto fijo
+del papel en movimiento de la figura 13.5. Veríamos el rastro de la onda subir 
+y bajar como una partícula.)
+Características de las ondas
+Usamos cantidades específicas para describir las ondas senoidales. Como en el caso de
+una partícula en movimiento armónico simple, la amplitud (A) de una onda es la mag-
+nitud del desplazamiento máximo, es decir, la distancia máxima respecto a la posición
+de equilibrio de la partícula (figura 13.10). Esta cantidad corresponde a la altura de
+una cresta de la onda o la profundidad de un valle. En la sección 13.2 vimos que, en
+MAS, la energía total del oscilador es proporcional al cuadrado de la amplitud. Asi-
+mismo, la energía transportada por una onda es proporcional al cuadrado de su ampli-
+tud (E /H11008A
+2). No obstante, hay una diferencia importante: una onda es una forma de
+transmitir energía a través del espacio, mientras que la energía de un oscilador está lo-
+calizada en el espacio.
+En el caso de una onda periódica, la distancia entre dos crestas (o valles) sucesivas
+se llama longitud de onda (/H9261) (figura 13.10). En realidad, es la distancia entre dos par-
+tes sucesivas cualesquiera que estén en fase (es decir, en puntos idénticos de la forma
+de onda); suelen usarse las posiciones de cresta y valle por conveniencia. Observe que
+la longitud de onda corresponde espacialmente a un ciclo. Debemos tener presente
+que lo que viaja es la onda, no el medio ni el material.
+La frecuencia ( f ) de una onda periódica es el número de ciclos por segundo; esto
+es, el número de formas de onda completas, o longitudes de onda, que pasan por un
+punto dado durante cada segundo. La frecuencia de la onda es la misma que la fre-
+cuencia de la fuente en MAS que la creó.
+Nota: una onda es una combina-
+ción de oscilaciones en el espacio
+y el tiempo.
+
+Dirección del
+movimiento
+de las partículas
+Dirección de
+propagación
+de la onda
+Dirección del
+movimiento
+de las partículas
+Compresión
+Relajamiento
+Dirección de
+propagación
+de la onda
+a)
+b)
+▲ FIGURA 13.11 Ondas transversa-
+les y longitudinales (Se muestran
+pulsaciones ondulatorias por sen-
+cillez) a) En una onda transversal,
+el movimiento de las partículas es
+perpendicular a la dirección de la
+velocidad de la onda, como se
+muestra aquí en un resorte donde
+una onda viaja hacia la izquierda.
+Las ondas transversales también 
+se llaman ondas de corte, porque 
+suministran una fuerza que tiende 
+a cizallar el medio. Las ondas de
+corte transversales sólo pueden pro-
+pagarse en los sólidos. (¿Por qué?)
+b) En una onda longitudinal, el 
+movimiento de las partículas es 
+paralelo a (a lo largo de) la dirección
+de la velocidad de la onda. Aquí
+también una pulsación ondulatoria
+se mueve hacia la izquierda. Las 
+ondas longitudinales también se 
+denominan ondas de compresión, ya
+que la fuerza tiende a comprimir 
+el medio. Las ondas longitudinales
+de compresión se pueden propagar
+en todos los medios: sólidos, líqui-
+dos y gases. ¿Puede usted explicar
+el movimiento de la fuente de 
+ambos tipos de ondas?
+448
+CAPÍTULO 13 Vibraciones y ondas
+Decimos que una onda periódica tiene un periodo (T). El periodo T /H110051/f es el
+tiempo que tarda una forma de onda completa (una longitud de onda) en pasar por un
+punto dado. Como las ondas se mueven, tienen una rapidez de onda (v) (o velocidad,
+si se especifica la dirección de la onda). Cualquier punto dado de la onda (digamos,
+una cresta) recorre una distancia de una longitud de onda l en un tiempo de un perio-
+do T. Entonces, ya que v /H11005d/t y f /H110051/T, tenemos
+rapidez de onda (13.17)
+Vemos que las dimensiones de v son correctas (longitud/tiempo). En general, la rapidez
+de onda depende de la naturaleza del medio, además de la frecuencia f de la fuente.
+Ejemplo 13.5 ■ El muelle de la bahía: cálculo de la rapidez de las olas
+Una persona en un muelle observa un conjunto de olas que tienen forma senoidal y una
+distancia de 1.6 m entre las crestas. Si una ola baña el muelle cada 4.0 s, calcule a) la fre-
+cuencia y b) la rapidez de las olas.
+Razonamiento. Conocemos el periodo y la longitud de onda, así que podemos usar la de-
+finición de la frecuencia, y la ecuación 13.17 para la rapidez de una onda.
+Solución. La distancia entre crestas es la longitud de onda, así que tenemos la siguiente
+información:
+Dado: Encuentre: a) f (frecuencia)
+b) v (rapidez de onda)
+a) El bañado del muelle indica la llegada de una cresta de onda; por lo tanto, 4.0 s es el
+periodo de la onda: el tiempo que tarda en recorrer una longitud de onda (la distancia de
+cresta a cresta). Entonces,
+b) Podemos usar la frecuencia o el periodo en la ecuación 13.17 para calcular la rapidez
+de la onda:
+o bien,
+Ejercicio de refuerzo. Otro día, la misma persona mide la rapidez de las olas senoidales y
+obtiene 0.25 m/s. a) ¿Qué distancia recorre una cresta de onda en 2.0 s? b) Si la distancia
+entre crestas sucesivas es de 2.5 m, ¿qué frecuencia tienen estas ondas?
+Tipos de onda
+En general, las ondas se pueden dividir en dos tipos, dependiendo de la dirección en
+que oscilan las partículas relativas a la velocidad de la onda. En una onda transversal,
+el movimiento de las partículas es perpendicular a la dirección de la velocidad de la
+onda. La onda producida en una cuerda estirada (figura 13.10) es un ejemplo de onda
+transversal, lo mismo que la onda que se muestra en la >figura 13.11a. Las ondas trans-
+versales también se conocen como ondas de corte , porque la perturbación suministra
+una fuerza que tiende a cortar o cizallar el medio: separar perpendicularmente capas
+del medio a la dirección de la velocidad de la onda. Las ondas de corte sólo pueden
+propagarse en sólidos, pues los líquidos y gases no se cortan. Es decir, los líquidos y
+gases no tienen fuerzas restauradoras de magnitud suficiente entre sus partículas, co-
+mo para propagar una onda transversal.
+En una onda longitudinal, la oscilación de las partículas es paralela a la dirección
+de la velocidad de la onda. Se produce una onda longitudinal en un resorte estirado
+moviendo las espirales hacia adelante y hacia atrás, a lo largo del eje del resorte (figu-
+ra 13.11b). Pulsaciones alternantes de compresión y relajamiento viajan a lo largo del
+resorte. Las ondas longitudinales también se denominan ondas de compresión.
+Las ondas sonoras en aire son otro ejemplo de ondas longitudinales. Una perturba-
+ción periódica produce compresiones en el aire. Entre las compresiones hay enrarecimien-
+tos: regiones en que se reduce la densidad del aire. Por ejemplo, un altavoz que oscila
+hacia adelante y hacia atrás puede crear tales compresiones y enrarecimientos, que viajan
+por el aire como ondas sonoras. (Estudiaremos el sonido con detalle en el capítulo 14.)
+v = l
+T = 1.6 m
+4.0 s = 0.40 m>s
+v =lf =11.6 m210.25 s-12 = 0.40 m>s
+f = 1
+T = 1
+4.0 s = 0.25 s-1 = 0.25 Hz
+ T = 4.0 s
+ l = 1.6 m
+v = l
+T =lf
+Ilustración 17.2 Funciones 
+ondulatorias
+
+13.4 Propiedades de las ondas 449
+b)a)
+v Ola Rompiente
+▲ FIGURA 13.12 Ondas en agua Las olas son una combinación de movimientos longitu-
+dinal y transversal. a) En la superficie, las partículas de agua describen círculos; pero su
+movimiento se vuelve más longitudinal conforme aumenta la profundidad. b) Cuando
+una ola se acerca a la costa, las partículas inferiores deben describir trayectorias cada 
+vez más empinadas, hasta que la ola se desploma para formar una rompiente.
+Las ondas longitudinales se pueden propagar en sólidos, líquidos y gases, ya que
+todas las fases de la materia se pueden comprimir en mayor o menor medida. La pro-
+pagación de ondas transversales y longitudinales en diferentes medios proporciona 
+información acerca de la estructura interior de la Tierra, como se explica en la sección
+A fondo 13.1 de la p. 450 sobre terremotos, ondas sísmicas y sismología.
+El perfil senoidal de las olas en el agua podría hacernos pensar que son ondas trans-
+versales. En realidad, reflejan una combinación de movimientos longitudinal y transver-
+sal (
+▲ figura 13.12). El movimiento de las partículas podría ser casi circular en la
+superficie y hacerse más elíptico a mayores profundidades, hasta volverse longitudinal.
+A unos 100 m de profundidad en un cuerpo grande de agua, las perturbaciones de las
+olas casi no tienen efecto. Por ejemplo, un submarino a esas profundidades no siente 
+las olas grandes en la superficie del océano. Cuando una ola se acerca a aguas poco pro-
+fundas cerca de la costa, las partículas de agua tienen dificultad para completar sus tra-
+yectorias elípticas. Cuando el agua se vuelve demasiado superficial, las partículas ya no
+pueden seguir la parte inferior de su trayectoria, y la ola rompe. Su cresta cae hacia ade-
+lante para formar rompientes conforme la energía cinética de las olas se transforma en
+energía potencial: una “colina” de agua que finalmente se desploma.
+13.4 Propiedades de las ondas
+OBJETIVO: Explicar diversas propiedades de las ondas y los fenómenos a los que 
+dan origen.
+Entre las propiedades que exhiben las ondas se incluyen superposición, interferencia,
+reflexión, refracción, dispersión y difracción.
+Superposición e interferencia
+Cuando dos o más ondas se encuentran o pasan por la misma región de un medio, se
+atraviesan mutuamente y continúan sin alteración. Mientras están en la misma región,
+decimos que las ondas se interfieren.
+¿Qué sucede durante la interferencia? Es decir, ¿qué aspecto tiene la forma de on-
+da combinada? La relativamente sencilla respuesta nos la da el principio de super-
+posición:
+En cualquier momento, la forma de onda combinada de dos o más ondas en in-
+terferencia está dada por la suma de los desplazamientos de las ondas indivi-
+duales en cada punto del medio.
+El principio de interferencia se ilustra en la 
+▼ figura 13.13. El desplazamiento de la for-
+ma de onda combinada en cualquier punto es y /H11005y1 /H11001y2, donde y1 y y2 son los despla-
+zamientos de las pulsaciones individuales en ese punto. (Indicamos direcciones con
+signos de más y menos.) La interferencia, entonces, es la suma física de las ondas. Al
+sumar ondas, debemos tomar en cuenta la posibilidad de que estén generando pertur-
+baciones en direcciones opuestas. En otras palabras, debemos tratar las perturbaciones
+en términos de suma de vectores.
+Ilustración 17.1 Tipos de ondas
+
+450 CAPÍTULO 13 Vibraciones y ondas
+13.1 TERREMOTOS, ONDAS SÍSMICAS Y SISMOLOGÍA
+La estructura del interior de la Tierra aún encierra misterios.
+Los pozos de minas y las perforaciones más profundas sólo se
+extienden unos cuantos kilómetros hacia el interior, en compa-
+ración con el centro de la Tierra que está a unos 6400 km de la
+superficie. Una forma de investigar más a fondo la estructura
+del planeta es con ondas. Las ondas generadas por terremotos
+han resultado especialmente útiles en tales investigaciones. La
+sismología es el estudio de estas ondas, llamadas ondas sísmicas.
+La causa de los terremotos es la repentina liberación de es-
+fuerzos acumulados a lo largo de grietas y fallas, como la famo-
+sa falla de San Andrés en California (figura 1). Según la teoría
+geológica de la tectónica de placas, la capa superior del planeta
+consiste en placas rígidas: enormes planchas de roca que se
+mueven muy lentamente unas respecto a otras. Continuamente
+se acumulan tensiones, sobre todo en los límites entre placas.
+Cuando por fin las placas resbalan, la energía de este suce-
+so liberador de esfuerzos viaja hacia afuera en forma de ondas
+(sísmicas), desde un punto bajo la superficie llamado foco. El
+punto en la superficie que está directamente sobre el foco se lla-
+ma epicentro y recibe el mayor impacto del terremoto. Las ondas
+sísmicas son de dos tipos generales: ondas de superficie y on-
+das de cuerpo. Las ondas de superficie, que viajan por la superficie
+terrestre, causan la mayor parte de los daños de los terremotos
+(figura 2). Las ondas de cuerpo viajan a través de la Tierra y son
+tanto longitudinales como transversales. Las ondas de compre-
+sión (longitudinales) se llaman ondas P; y las de corte (transver-
+sales), ondas S (figura 3). 
+Las letras P y S provienen de las palabras primaria y secun-
+daria, e indican la relativa rapidez de las ondas (en realidad, sus
+tiempos de llegada a las estaciones de monitoreo). En general,
+las ondas primarias viajan a través de los materiales con mayor
+rapidez que las secundarias, y son las que primero se detectan.
+La intensidad de un terremoto en la escala Richter se relaciona
+con la energía liberada en forma de ondas sísmicas.
+Estaciones sísmicas en todo el mundo monitorean las on-
+das P y S con instrumentos de detección muy sensibles llama-
+dos sismógrafos. Con base en los datos recabados, es posible
+elaborar mapas de las trayectorias de las ondas a través de la
+Tierra y así conocer mejor el interior de nuestro planeta. Al pa-
+recer, el interior de la Tierra se divide en tres regiones genera-
+les: la corteza, el manto y el núcleo, que a su vez tiene una
+región interior sólida y una región exterior líquida.*
+La ubicación de las fronteras de estas regiones se determina
+en parte con base en zonas de sombra: regiones donde no se detec-
+tan ondas de un tipo dado. Se dan esas zonas porque, si bien las
+ondas longitudinales pueden viajar por sólidos o líquidos, 
+las transversales sólo pueden viajar a través de sólidos. Cuando
+ocurre un terremoto, ondas P se detectan en el otro lado del plane-
+ta, opuesto al foco, pero no ondas S. (Véase la figura 3.) La ausen-
+cia de ondas S en una zona de sombra indica que la Tierra debe
+tener cerca de su centro una región que está en la fase líquida.
+Cuando las ondas P transmitidas entran en la región líqui-
+da y salen de ella, se refractan (flexionan). Esta refracción crea
+una zona de sombra de ondas P , lo cual indica que sólo la parte
+exterior del núcleo es líquida. Como veremos en el capítulo 19,
+la combinación de un núcleo exterior líquido y la rotación te-
+rrestre podría ser el origen del campo magnético de la Tierra.
+A FONDO
+FIGURA 1 La falla de
+San Andrés Aquí vemos
+una pequeña sección 
+de la falla, que cruza 
+el área de la bahía de
+San Francisco, así como
+regiones rurales de 
+California, como la 
+que se presenta aquí.  
+atraviesan el núcleo
+Nollegan
+directam
+ente
+Foco del terremoto
+Manto
+P
+P
+P
+P
+PS
+S
+S
+S
+Núcleo
+interior
+sólido
+         Núcleo
+exterior líquido
+P
+Ondas P que
+Zonadesom
+bra
+de
+ondasP
+No
+llegandirectamente ondas S
+Zonadesombrasde ondas S
+ondasP
+FIGURA 3 Ondas de compresión y corte Los terremotos pro-
+ducen ondas que viajan a través de la Tierra. Dado que las on-
+das transversales (S) no se detectan en el lado opuesto del
+planeta, los científicos creen que al menos una parte del núcleo
+terrestre es un líquido viscoso sometido a elevadas presiones 
+y temperaturas. Las ondas se flexionan (refractan) continua-
+mente, porque su rapidez varía con la profundidad.
+FIGURA 2 Malas vibraciones Daños causados por el fuerte
+terremoto que asoló Kobe, Japón, en enero de 1995.
+*En la mayoría de los lugares, la corteza tiene un espesor de 24-30 km 
+(15-20 mi), el manto tiene un espesor de 2900 km (1800 mi), y el núcleo tiene un 
+radio de 3450 km (2150 mi). El núcleo interior sólido tiene un radio aproxima-
+do de 1200 km (750 mi).
+
+13.4 Propiedades de las ondas 451
+y1 y2
+y = y1+ y2
+y = y1+ y2
+v1 v2
+b)a)
+> FIGURA 13.13 Principio de super-
+posición a) Cuando dos ondas se
+encuentran, se interfieren (véase la
+imagen). b) El sombreado marca 
+el área donde ambas ondas, que
+viajan en direcciones opuestas, 
+se traslapan y combinan. El despla-
+zamiento en cualquier punto de la
+onda combinada es igual a la suma
+de los desplazamientos de las 
+ondas individuales: y /H11005y
+1 /H11001y2.
+a) Interferencia constructiva total
+4
+3
+2
+1
+b) Interferencia destructiva total
+4
+3
+2
+1
+> FIGURA 13.14 Interferencia
+a) Cuando dos pulsaciones de onda
+de la misma amplitud se encuentran
+y están en fase, se interfieren cons-
+tructivamente. Cuando las pulsacio-
+nes se superponen exactamente 
+(3), hay interferencia constructiva
+total. b) Cuando las pulsaciones 
+en interferencia tienen amplitudes
+opuestas y se superponen exacta-
+mente (3), hay interferencia destruc-
+tiva total.
+En la figura, los desplazamientos verticales de las dos pulsaciones tienen la mis-
+ma dirección, y la amplitud de la forma de onda combinada es mayor que la de cual-
+quiera de las pulsaciones. Esta situación se denomina interferencia constructiva . En
+cambio, si una pulsación tiene desplazamiento negativo, las dos pulsaciones tienden
+a anularse entre sí cuando se traslapan, y la amplitud de la forma de onda combinada
+es menor que la de cualquiera de las pulsaciones. Esta situación se denomina inter-
+ferencia destructiva .
+En la 
+▼ figura 13.14 se muestran los casos especiales de interferencia constructiva
+y destructiva totales, para pulsaciones de onda viajera con la misma anchura y am-
+plitud. En el instante en que estas ondas en interferencia se traslapan exactamente (la
+cresta coincide con la cresta), la amplitud de la forma de onda combinada es el doble
+de la de cualquier onda individual. Este caso se llama interferencia constructiva to-
+tal. Cuando los pulsos que interfieren tienen desplazamientos opuestos y se super-
+ponen exactamente (la cresta coincide con el valle), las formas de onda desaparecen
+momentáneamente; es decir, la amplitud de la onda combinada es cero. Este caso se
+llama interferencia destructiva total .
+Por desgracia, la palabra destructiva parece implicar que la energía y la forma de la
+onda se destruyen. Pero éste no es el caso. En el punto de interferencia destructiva total,
+Ilustración 17.3 Superposición 
+de pulsaciones
+Exploración 17.1 Superposición 
+de dos pulsaciones
+
+452 CAPÍTULO 13 Vibraciones y ondas
+N FIGURA 13.15 Interferencia 
+destructiva en acción a) Los pilotos
+utilizan auriculares conectados a 
+un micrófono que recoge el ruido
+de baja frecuencia del motor. b) Se
+genera una onda que es inversa a 
+la del ruido del motor. Cuando se
+reproduce a través de los auriculares,
+la interferencia destructiva hace 
+que se reduzca el ruido del motor.
+Este proceso se llama “cancelación
+activa del ruido”.
+donde la forma de onda neta y, por lo tanto, la energía potencial son cero, la energía de
+la onda se almacena totalmente en el medio en forma de energía cinética; es decir, la
+cuerda recta tiene una velocidad instantánea.
+Hay varias aplicaciones prácticas de la interferencia destructiva. Una de éstas es el
+silenciador de los automóviles. Los gases de escape del motor que pasan de una alta
+presión en los cilindros a una presión atmosférica normal producirían fuertes ruidos.
+Pero los silenciadores los reducen. Normalmente, un silenciador consiste en un dispo-
+sitivo metálico que contiene tubos y cámaras perforados. Los tubos y las cámaras están
+dispuestos de tal manera que las ondas de presión de los gases de escape se reflejan
+hacia atrás y hacia delante, aumentado la interferencia destructiva. Esto reduce consi-
+derablemente el ruido que proviene del tubo de escape.
+Otras aplicaciones se conocen como “control activo del ruido” o “cancelación activa
+del ruido”. Ello implica la modificación del sonido, particularmente la cancelación del so-
+nido por medios electro-acústicos. Existe una aplicación particularmente útil para los pi-
+lotos de aviones o helicópteros, quienes necesitan escuchar lo que sucede a su alrededor
+por encima del ruido del motor. Los pilotos utilizan auriculares especiales conectados a
+un micrófono que recoge el ruido de baja frecuencia del motor. Entonces, un componen-
+te en los auriculares genera una onda inversa al ruido del motor. Esto se reproduce a tra-
+vés de los auriculares y la interferencia destructiva produce un entorno menos ruidoso.
+(
+▲figura 13.15). Así el piloto puede escuchar mejor los sonidos de mediana y alta frecuen-
+cia, como las conversaciones y los sonidos de advertencia de los instrumentos.
+Reflexión, refracción, dispersión y difracción
+Además de encontrarse con otras ondas, las ondas pueden encontrarse con objetos o
+con fronteras entre medios distintos. En tales casos, podrían ocurrir varias cosas. Una
+de ellas es la reflexión, que se da cuando una onda choca contra un objeto, o llega a 
+una frontera con otro medio y se desvía, al menos en parte, otra vez hacia el medio ori-
+ginal. Un eco es la reflexión de ondas sonoras, y los espejos reflejan las ondas de luz.
+En la 
+>figura 13.16 se ilustran dos casos de reflexión. Si el extremo de la cuerda
+está fijo, la pulsación reflejada se invierte (figura 13.16a). Ello se debe a que la pul-
+sación hace que la cuerda ejerza una fuerza hacia arriba sobre la pared, y la pared
+a)
+b)
+Ruido original
+Onda invertida
+Micrófono
+Onda combinada
+Bocina
+Pulsación
+incidente
+Pulsación
+incidente
+ a)  Frontera fija: el pulso
+        se invierte
+        al reflejarse
+Pulsación
+reflejada
+Pulsación
+reflejada
+ b)  Frontera libre (móvil):
+        el pulso no se invierte
+        al reflejarse
+▲ FIGURA 13.16 Reflexión
+a) Cuando una onda (pulsación) en
+una cuerda se refleja en una fronte-
+ra fija, se invierte la onda reflejada.
+b) Si la cuerda está en libertad de
+moverse en la frontera, la fase de la
+onda reflejada no se desplaza res-
+pecto a la de la onda incidente.
+Exploración 17.3 Pulsaciones que 
+viajan y obstáculos
+
+▲ FIGURA 13.17 Refracción
+La refracción de olas acuáticas se
+muestra desde arriba. Al acercarse
+las crestas a la playa, su borde 
+izquierdo se frena porque entra 
+primero en aguas poco profundas.
+Así, toda la cresta gira y llega 
+a la playa casi de frente.
+13.4 Propiedades de las ondas 453
+b)a)
+> FIGURA 13.18 Difracción
+Los efectos de difracción son 
+máximos cuando la abertura 
+(o el objeto) tiene aproximadamente
+el mismo tamaño o es más pequeña
+que la longitud de onda de las 
+ondas. a) Con una abertura mucho
+mayor que la longitud de onda 
+de estas ondas planas en agua, 
+la difracción sólo se percibe cerca 
+de los bordes. b) Si la abertura tiene
+aproximadamente el tamaño de la
+longitud de onda, la difracción 
+produce ondas casi semicirculares.
+ejerce una fuerza igual y opuesta (hacia abajo) sobre la cuerda (por la tercera ley de
+Newton). La fuerza hacia abajo crea la pulsación reflejada hacia abajo (o invertida). Si
+el extremo de la cuerda puede moverse libremente, entonces no se invertirá la pul-
+sación reflejada. (No hay desplazamiento de fase.) Esto se ilustra en la figura 13.16b,
+donde la cuerda está sujeta a un anillo ligero que puede moverse libremente sobre 
+el poste liso. El frente de la pulsación incidente acelera al anillo hacia arriba y luego el
+anillo baja, creando así un pulso reflejado no invertido.
+En términos más generales, cuando una onda choca con una frontera, la onda no se
+refleja totalmente. Más bien, una parte de la energía de la onda se refleja y una parte 
+se transmite o absorbe. Cuando una onda cruza una frontera y penetra en otro medio,
+por lo general su rapidez cambia porque el nuevo material tiene distintas característi-
+cas. Si la onda transmitida ingresa oblicuamente (angulada) en el nuevo medio, se mo-
+verá en una dirección distinta de la de la onda incidente. Este fenómeno se denomina
+refracción (
+Nfigura 13.17).
+Puesto que la refracción depende de cambios en la rapidez de la onda, podríamos
+preguntarnos qué parámetros físicos determinan esa rapidez. En general, hay dos tipos
+de situaciones. El tipo más sencillo de onda es una cuya rapidez no depende de su lon-
+gitud de onda (o su frecuencia). Todas esas ondas viajan con la misma rapidez, la cual
+depende exclusivamente de las propiedades del medio. Estas ondas se denominan on-
+das no dispersivasporque no se dispersan, es decir, no se separan entre sí. Un ejemplo de
+onda no dispersiva es una onda en una cuerda, cuya rapidez, como veremos, depende
+únicamente de la tensión y de la densidad de masa de la cuerda (sección 13.5). El soni-
+do es una onda longitudinal no dispersiva; la rapidez del sonido (en aire) depende úni-
+camente de la compresibilidad y la densidad del aire. De hecho, si la rapidez del sonido
+dependiera de la frecuencia, al fondo de una sala de conciertos se podrían oír los violi-
+nes antes que los clarinetes, aunque ambas ondas sonoras estuvieran perfectamente
+sincronizadas cuando salieron del foso de la orquesta.
+Cuando la rapidez sí depende de la longitud de onda (o la frecuencia), decimos
+que las ondas tienen dispersión: ondas de distinta frecuencia se separan unas de otras.
+Aunque la luz no se dispersa en el vacío, cuando entra en algún medio sus ondas sí se
+separan. Por ello los prismas separan la luz solar para dar un espectro de color, y es la
+base para la formación de los arcoiris, como veremos en el capítulo 22. La dispersión es
+muy importante en el estudio de la luz; no obstante debemos recordar que otras ondas
+también se pueden dispersar en las condiciones adecuadas.
+La difracción se refiere a la flexión de las ondas en torno al borde de un objeto 
+y no está relacionada con la refracción. Por ejemplo, si nos paramos junto a la pared
+de un edificio cerca de una esquina, podemos escuchar a gente que habla en la otra
+calle. Suponiendo que no hay reflexiones y que el aire no se mueve (no hay viento),
+esto no sería posible si las ondas viajaran en línea recta. Cuando las ondas pasan por
+la esquina, en vez de cortarse abruptamente, “envuelven” el borde; por ello, escucha-
+mos el sonido.
+En general, los efectos de la difracción sólo son evidentes cuando el tamaño del
+objeto o la abertura que difracta es aproximadamente igual o menor que la longitud
+de onda. La dependencia de la difracción, de la longitud de onda y el tamaño del ob-
+jeto o la abertura, se ilustra en la 
+▼ figura 13.18. Para muchas ondas, la difracción es 
+insignificante en circunstancias normales. Por ejemplo, la luz visible tiene longitudes
+de onda del orden de 10
+/H110026 m. Tales longitudes de onda son demasiado pequeñas pa-
+ra exhibir difracción cuando pasan por aberturas de tamaño común, como las lentes
+de unos anteojos.
+Estudiaremos más a fondo la reflexión, la refracción, la dispersión y la difracción
+cuando estudiemos las ondas luminosas en los capítulos 22 y 24.
+
+454 CAPÍTULO 13 Vibraciones y ondas
+Antinodes
+Nodest = 0
+t = T
+8
+t = T
+4
+t = 3T
+8
+t = T
+2
+t = 7T
+8
+t = T
+t = 3T
+4
+t = 5T
+8
+(a) (b)
+▼ FIGURA 13.19 Ondas estacionarias a) Se repiten condiciones de interferencias destruc-
+tiva y constructiva cuando cada onda recorre una distancia de /H9261/4 en un tiempo t /H11005T/4.
+Las velocidades de las partículas de la cuerda se indican con las flechas. Este movimiento
+produce ondas estacionarias con nodos inmóviles y antinodos de amplitud máxima. 
+b) Se forman ondas estacionarias por interferencia de ondas que viajan en direcciones
+opuestas.
+Ilustración 17.4 Superposición de
+ondas que viajan
+13.5 Ondas estacionarias y resonancia
+OBJETIVOS: a) Describir la formación y las características de las ondas estacio-
+narias y b) explicar el fenómeno de resonancia.
+Si sacudimos un extremo de una cuerda estirada, viajarán ondas a lo largo de la cuer-
+da y se reflejarán en el otro extremo. Las ondas que van y las que vuelven se interfie-
+ren. En la mayoría de los casos, las formas de onda combinadas tienen una apariencia
+cambiante, irregular; pero si la cuerda se sacude con la frecuencia exacta, puede verse
+una forma de onda constante, o una serie de curvaturas uniformes que no cambian de
+lugar en la cuerda. Este fenómeno, que tiene el nombre adecuado de onda estacionaria
+(
+▼ figura 13.19), se debe a interferencia con las ondas reflejadas, que tienen las mismas
+longitud de onda, amplitud y rapidez que las ondas incidentes. Puesto que las dos on-
+das idénticas viajan en direcciones opuestas, el flujo neto de energía por la cuerda es
+cero. Efectivamente, la energía se mantiene estacionaria en las curvas.
+Algunos puntos de la cuerda permanecen inmóviles en todo momento y se llaman
+nodos. En tales puntos, los desplazamientos de las ondas en interferencia siempre son
+iguales y opuestos. Por el principio de superposición, las ondas en interferencia se can-
+celan totalmente en esos puntos y la cuerda no se desplaza ahí. En todos los demás
+puntos, la cuerda oscila hacia arriba y hacia abajo con la misma frecuencia. Los puntos
+de máxima amplitud, donde se da la mayor interferencia constructiva, se llaman anti-
+nodos. Como se aprecia en la figura 13.19a, antinodos adyacentes están separados por
+media longitud de onda (/H9261/2) o una curvatura; dos nodos adyacentes también están a
+una distancia de media longitud de onda.
+Se pueden generar ondas estacionarias en una cuerda con más de una frecuencia
+impulsora; cuanto mayor sea la frecuencia, más curvaturas oscilantes de media longi-
+tud de onda habrá en la cuerda. El único requisito es que las medias longitudes de on-
+da “quepan” en la longitud de la cuerda. Las frecuencias con que se producen ondas
+estacionarias de gran amplitud se denominan frecuencias naturales o frecuencias re-
+sonantes. Los patrones resultantes de ondas estacionarias se llaman modos de vibración
+normales o resonantes. En general, todos los sistemas que oscilan tienen una o más fre-
+cuencias naturales, que dependen de factores como masa, elasticidad o fuerza restau-
+radora, y geometría (condiciones de frontera). Las frecuencias naturales de un sistema
+también se describen como sus frecuencias características.
+Podemos analizar una cuerda estirada para determinar sus frecuencias naturales.
+La condición de frontera es que los extremos están fijos, así que debe haber un nodo 
+en cada uno. El número de segmentos cerrados o curvaturas de una onda estacionaria
+que caben entre los nodos de los extremos (en la longitud de la cuerda) es igual a un
+
+13.5 Ondas estacionarias y resonancia 455
+L =          Primer armónico /H92611
+2
+L =             Tercer armónico /H92613
+23
+L =              Segundo armónico /H92612
+2
+L
+2
+▲ FIGURA 13.20 Frecuencias naturales Una cuerda estirada sólo puede tener ondas esta-
+cionarias a ciertas frecuencias. Éstas corresponden a los números de medias longitudes 
+de onda que caben en la longitud de la cuerda entre los nodos en lo extremos fijos.
+número entero de medias longitudes de onda ( ▲ figura 13.20). Vemos que L /H11005/H92611/2, 
+L /H110052(/H92612/2), L /H110053(/H92613/2), L /H110054(/H92614/2), y así sucesivamente. En general,
+De manera que las frecuencias naturales de oscilación son
+(13.18)
+donde v es la rapidez de las ondas en la cuerda. La frecuencia natural más baja 
+( f1 /H11005v/2L para n /H110051) se llama frecuencia fundamental . Todas las demás frecuen-
+cias naturales son múltiplos enteros de la frecuencia fundamental: fn /H11005nf1 (para 
+n /H110051, 2, 3, …). El conjunto de frecuencias f1, f2 /H110052f1, f3 /H110053f1, … se llama serie armó-
+nica: f1 (la frecuencia fundamental) es el primer armónico , f2 es el segundo armónico , 
+etcétera.
+Encontramos cuerdas fijas en ambos extremos en los instrumentos musicales de
+cuerda como violines, pianos y guitarras. Cuando excitamos tales cuerdas, la vibración
+producida generalmente incluye varios armónicos, además de la frecuencia funda-
+mental. El número de armónicos depende de cómo y dónde se excite la cuerda, es de-
+cir, de si se puntea, se golpea o se frota con un arco. Es la combinación de frecuencias
+armónicas lo que confiere a un instrumento dado la calidad característica de su sonido
+(hablaremos más al respecto en el capítulo 14). Como muestra la ecuación 13.18, la 
+frecuencia fundamental de una cuerda estirada, así como los demás armónicos, depen-
+den de la longitud de la cuerda. ¿Sabe usted cómo se obtienen diferentes notas con una
+cuerda dada de un violín o una guitarra (
+Nfigura 13.21).
+frecuencias naturales
+de una cuerda estiradafn = v
+ln
+= na v
+2Lb = nf1 para n = 1, 2, 3, Á
+L = n¢ln
+2≤ o ln = 2L
+n  1para n = 1, 2, 3, Á2
+▲ FIGURA 13.21 Frecuencias 
+fundamentales Los ejecutantes 
+de instrumentos de cuerda, como
+violines o guitarras, usan sus 
+dedos para “acortar” las cuerdas. 
+Al oprimir una cuerda contra un
+traste o el batidor, el ejecutante 
+reduce la longitud de cuerda que
+puede vibrar. Esta reducción altera
+la frecuencia resonante de la cuerda
+y, por lo tanto, el tono del sonido
+que produce.
+
+456 CAPÍTULO 13 Vibraciones y ondas
+Las frecuencias naturales también dependen de otros parámetros, como masa y
+fuerza, que afectan la rapidez de la onda en la cuerda. En el caso de una cuerda estira-
+da, puede demostrarse que la rapidez de la onda (v) es
+(13.19)
+donde F
+T es la tensión en la cuerda y /H9262es la densidad lineal de masa (masa por unidad
+de longitud, /H9262/H11005m/L). (Usamos FT, en vez de la T de capítulos anteriores, para no con-
+fundir la tensión con el periodo T.) Así, escribimos la ecuación 13.18 como
+(13.20)
+Observe que cuanto mayor sea la densidad de masa lineal de una cuerda, menores se-
+rán sus frecuencias naturales. Como seguramente sabe el lector, las cuerdas de notas
+bajas de un violín o una guitarra son más gruesas (más masivas) que las cuerdas de no-
+tas altas. Al tensar una cuerda, aumentamos todas sus frecuencias. Al modificar la ten-
+sión en sus cuerdas, los violinistas, por ejemplo, afinan sus instrumentos antes de un
+concierto.
+Ejemplo 13.6 ■ Una cuerda de piano: frecuencia fundamental 
+y armónicos
+Una cuerda de piano de 1.15 m de longitud y masa de 20.0 g está sometida a una tensión
+de 6.30 /H11003103 N. a) ¿Qué frecuencia fundamental tendrá la cuerda cuando se golpee? 
+b) ¿Qué frecuencia tienen los dos primeros armónicos?
+Razonamiento. Tenemos la tensión y podemos calcular la densidad lineal de masa a 
+partir de los datos. Esto nos permitirá calcular la frecuencia fundamental y, con ella, los
+armónicos.
+Solución.
+Dado: Encuentre: a) f1 (frecuencia fundamental)
+b) f2 y f3 (frecuencias de los siguientes 
+dos  armónicos)
+a) La densidad lineal de masa de la cuerda es
+Entonces, aplicando la ecuación 13.20, tenemos
+Ésta es aproximadamente la frecuencia del do medio (C4) en un piano.
+b) Puesto que f2 /H110052f1 y f3 /H110053f1, se sigue que
+y
+El segundo armónico corresponde aproximadamente a C5 (do de la quinta octava) en un
+piano ya que, por definición, la frecuencia aumenta al doble con cada octava (cada octava
+tecla blanca).
+Ejercicio de refuerzo. Las notas musicales toman como referencia la frecuencia funda-
+mental de vibración o primer armónico. En música, el segundo armónico es el primer 
+sobretono, el tercer armónico es el segundo sobretono y así sucesivamente. Si un ins-
+trumento tiene un tercer sobretono con frecuencia de 880 Hz, ¿qué frecuencia tendrá 
+el primer sobretono?
+f
+3 = 3f1 = 31262 Hz2 = 786 Hz
+f2 = 2f1 = 21262 Hz2 = 524 Hz
+f1 = 1
+2L
+ 
+A
+FT
+m = 1
+211.15 m2
+ 
+A
+6.30 * 103 N
+0.0174 kg>m = 262 Hz
+m = m
+L =
+0.0200 kg
+1.15 m = 0.0174 kg>m
+ FT = 6.30 * 103 N
+ m = 20.0 g = 0.0200 kg
+ L = 1.15 m
+fn = na v
+2Lb = n
+2L
+ 
+A
+FT
+m = nf1 1para n = 1, 2, 3, Á2
+rapidez de una onda
+en una cuerda estiradav = A
+FT
+m
+Nota: no debemos confundirnos
+con el lenguaje. El primer sobretono
+significa la primera frecuencia arriba
+de la frecuencia fundamental, 
+es decir, el segundo armónico.
+
+13.5 Ondas estacionarias y resonancia 457
+Ejemplo integrado 13.7 ■ Afinación: aumentar la frecuencia 
+de una cuerda de guitarra
+Suponga que quiere aumentar la frecuencia fundamental de una cuerda de guitarra. 
+a) ¿Usted 1) aflojaría la cuerda para reducir su tensión a la mitad, 2) apretaría la cuerda 
+para duplicar su tensión, 3) usaría otra cuerda del mismo material pero con la mitad del
+diámetro, sometida a la misma tensión o 4) usaría otra cuerda del mismo material pero
+con el doble del diámetro, sometida a la misma tensión? b) Usted quiere ir de la nota la
+(220 Hz) abajo del do medio, a la nota la (440 Hz) arriba del do medio. Si las cuerdas de 
+la guitarra son de acero (/H9267/H110057.8 /H1100310
+3 kg/m3, tabla 9.2), y una cuerda inicial más gruesa
+tiene un diámetro de 0.30 cm, demuestre que una cuerda cuyo diámetro es de la mitad 
+tiene una frecuencia fundamental del doble.
+a) Razonamiento conceptual. La frecuencia fundamental de una cuerda estirada está da-
+da por la ecuación 13.20:
+Por lo tanto, la frecuencia de la cuerda es proporcional a la raíz cuadrada de la fuerza de
+tensión FT, así que si aflojamos la cuerda —es decir, si reducimos FT— no aumentaremos
+la frecuencia. Un aumento al doble de la tensión tampoco aumenta la frecuencia al doble
+(porque ). Así, ni 1 ni 2 son la respuesta correcta.
+Al usar otra cuerda, la pregunta es entonces ¿cómo varía la frecuencia con la densi-
+dad lineal de masa /H9262de la cuerda? Si las cuerdas son del mismo material (misma den-
+sidad /H9267), entonces, cuanto mayor sea el diámetro de la cuerda, mayor será su masa por
+unidad de longitud (mayor /H9262). Por lo tanto, una cuerda más delgada, con /H9262más peque-
+ña, vibrará a una mayor frecuencia, y la respuesta es 3.
+b) Razonamiento cuantitativo y solución. Lo primero que se nos podría ocurrir es calcular
+directamente las frecuencias, empleando la ecuación 13.20. Sin embargo, no podemos
+hacerlo porque no tenemos suficientes datos, y esto generalmente implica el uso de co-
+cientes. Para mostrar la diferencia en las frecuencias con cuerdas de diferente diámetro,
+necesitamos expresar la ecuación de frecuencia en términos del diámetro de la cuerda. Al
+examinar la ecuación 13.20, vemos que el diámetro de la cuerda no depende de la longi-
+tud L (que suponemos constante entre el puente y el cuello de la guitarra) ni de la fuerza
+de tensión constante F
+T (suponiendo que el estiramiento es insignificante). Esto nos lleva
+a considerar la densidad lineal de masa /H9262/H11005m/L.
+Recuerde que la masa de una cuerda depende de su densidad y su volumen; es de-
+cir, /H9267/H11005m/V, o bien, m /H11005/H9267V. Podemos determinar el volumen V de una longitud dada
+(L) de cuerda, que sería un cilindro largo con sección transversal A, con V /H11005AL. El área
+circular es proporcional al cuadrado del diámetro de la cuerda, así que ésta es la clave de
+nuestra demostración.
+Dado: (para ec. 13.20) Encuentre:
+(acero)
+d
+2 = d1>2 = 0.15 cm
+d1 = 0.30 cm
+r = 7.8 * 103 kg>m3
+n = 1,f = 1
+2L
+ 
+A
+FT
+m
+12FT Z 2 1FT
+f = 1
+2L
+ 
+A
+FT
+m  1para n = 12
+(continúa en la siguiente página)
+Demostrar que una cuerda
+con diámetro d2 que es la
+mitad del de una cuerda
+más gruesa (diámetro d
+1)
+tiene una frecuencia funda-
+mental que 
+es el doble de la de la cuerda
+más gruesa.
+Como señalamos en la sección Razonamiento cuantitativo y solución, la densidad lineal
+de masa de la cuerda puede expresarse en términos de su densidad y su volumen, sien-
+do este último proporcional al cuadrado del diámetro de la cuerda:
+Sustituimos esto en la ecuación 13.20 para obtener
+f = 1
+2L
+ 
+A
+FT
+m = 1
+2L
+ 
+A
+4FT
+rpd2 = ¢ 1
+L
+ 
+A
+FT
+rp≤ 
+1
+d
+m = m
+L =rV
+L = rAL
+L =r¢pd2
+4 ≤
+
+458 CAPÍTULO 13 Vibraciones y ondas
+13.2 resonancias deseables e indeseables
+Cuando nos colocamos una concha de caracol marino grande al
+oído, oímos un sonido parecido al del mar. La causa de este so-
+nido es un efecto de resonancia. Los sonidos del entorno entran
+en la concha, que actúa como cavidad de resonancia.
+El aire del interior de la concha resuena con las frecuencias
+naturales de la concha. Las variaciones del sonido surgen de los
+diferentes sonidos del entorno y de la aparición y desaparición
+de diferentes frecuencias resonantes. “El ir y venir de estas fre-
+cuencias resonantes produce la ilusión de escuchar el ir y venir
+de las olas del mar.”* Básicamente, el cerebro procesa el sonido
+y busca en él un patrón que ya haya experimentado antes. Casi
+todos hemos oído antes las olas del mar, así que esto es lo que
+asociamos con el sonido que escuchamos en una concha mari-
+na. Podemos escuchar un sonido “de mar” similar colocándo-
+nos al oído un vaso vacío o la mano curveada.
+Cuando un gran número de soldados cruza marchando un
+puente pequeño, generalmente se les ordena romper el paso. El
+motivo es que la frecuencia con que marchan podría coincidir
+con una de las frecuencias naturales del puente y ponerlo a vi-
+brar en resonancia; la vibración podría llegar a derrumbarlo.
+Esto sucedió realmente en un puente colgante en Inglaterra, en
+1831. El puente estaba debilitado y ya le hacían falta reparacio-
+nes, pero las vibraciones de resonancia inducida por soldados
+que lo cruzaron marchando hicieron que se derrumbara. Hubo
+algunos heridos.
+En otro incidente, las vibraciones de un puente se debieron,
+no a la marcha de soldados, sino a la fuerza impulsora del vien-
+to. El 7 de noviembre de 1940, vientos con rapideces entre 65 
+y 72 km/h (40 a 45 mi/h) pusieron a vibrar el tramo principal
+del puente Tacoma Narrows (en el estado de Washington). Este
+puente, de 855 m (2800 ft) de longitud y 12 m (39 ft) de anchura,
+apenas se había abierto al tránsito hacía sólo cuatro meses.
+Durante el primer mes de uso del puente, se habían obser-
+vado pequeños modos transversales de vibración; pero el 7 de
+noviembre los efectos especiales del viento empujaron al puen-
+te con una frecuencia cercana a la de resonancia y el tramo
+principal vibró con una frecuencia de 36 vib/min y una ampli-
+tud de casi medio metro (1.5 ft). A las 10 
+A.M., el tramo princi-
+pal comenzó a vibrar en un modo torsional de dos segmentos,
+con una frecuencia de 14 vib/min. El viento siguió empujan-
+do al puente en resonancia, y la amplitud de vibración aumen-
+tó. Poco después de las 11 
+A.M., el tramo principal se derrumbó
+(figura 1).†
+Se volvió a construir el “Galloping Gertie” (“Gertrudis Ga-
+lopante”, el mote que se dio al puente) sobre los mismos 
+cimientos de las torres; sin embargo, el nuevo diseño hizo más
+rígida la estructura para aumentar su frecuencia de resonan-
+cia, de manera que los vientos no pudieran producir una reso-
+nancia indeseable.
+A FONDO
+Las cantidades encerradas en los paréntesis son constantes, de modo que f /H110081/d, así que,
+en forma de razón,
+Ejercicio de refuerzo. La frecuencia fundamental de una cuerda de violín es la de abajo del
+do medio (220 Hz). ¿Cómo afinaríamos esta cuerda al do medio (264 Hz) sin cambiar de
+cuerda, como se hizo en este ejemplo?
+Cuando el sistema oscilante se impulsa con una de sus frecuencias naturales o reso-
+nantes, se le transfiere el máximo de energía. Las frecuencias naturales de un sistema
+son las frecuencias con que el sistema “quiere” vibrar, por decirlo de alguna manera. La
+condición de impulsar un sistema con una frecuencia natural se denomina resonancia.
+Un ejemplo común de sistema en resonancia mecánica es el de una persona en un
+columpio que está siendo empujada. Básicamente, un columpio es un péndulo simple y
+f2
+f1
+= d1
+d2
+= 0.30 cm
+0.15 cm
+= 2 y f2 = 2f1
+FIGURA 1 Gertrudis Galopante El colapso del puente Tacoma
+Narrows el 7 de noviembre de 1940 fue captado con una cámara
+de cine. Vemos una imagen de cuadro de esa película.
+Ilustración 17.5 Comportamiento 
+de resonancia de una cuerda
+*The Flying Circus of Physics, por J. Walker. (Nueva York: Wiley, 1977.)
+†Y es dudoso que las ráfagas de viento hayan puesto a vibrar el puente. La
+velocidad del viento era más o menos constante, y las fluctuaciones por ráfagas
+suelen ser aleatorias. Una explicación en cuanto a la fuente impulsora de las osci-
+laciones es que se formaron vórtices al pasar el viento sobre el puente. Los vórti-
+ces son como los remolinos que se forman en el agua en la punta de los remos al
+remar una lancha. El viento, al soplar por arriba y por debajo del puente, habría
+formado vórtices que giraban en direcciones opuestas. La formación y “separa-
+ción” de vórtices (como los remolinos que se separan de los remos) habría impar-
+tido energía al puente, y si la frecuencia de esta acción fuera aproximadamente la
+de una frecuencia natural, se habría establecido una onda estacionaria.
+
+▲ FIGURA 13.22 Resonancia en 
+el patio de juegos El columpio 
+se comporta como un péndulo en
+MAS. Para transferir energía de 
+forma eficiente, el hombre debe 
+sincronizar sus empujones con la
+frecuencia natural del columpio.
+Repaso del capítulo 459
+Repaso del capítulo
+• El movimiento armónico simple (MAS) requiere una fuerza
+restauradora directamente proporcional al desplazamiento,
+como una fuerza de resorte ideal, que está dada por la ley de
+Hooke
+Ley de Hooke:
+(13.1)
+• La frecuencia ( f ) y el periodo (T) del MAS son recíprocos.
+Frecuencia y periodo para MAS:
+(13.2)
+• En general, la energía total de un objeto en MAS es directa-
+mente proporcional al cuadrado de la amplitud.
+Energía total de un resorte y una masa en MAS:
+(13.4–5)E =
+1
+2 kA2 = 1
+2 mv2 + 1
+2 kx2
+-A- A +A
+Energía
+/g120 = 0 /g1201
+U
+E = constante
+K
+=     /g107/g1202
+Umáx
+U
+= /g69Kmáx= /g69
+1
+2
+f = 1
+T
+Fs =- kx
+x = /H11001Ax = 0
+FaFs
+• La forma de la ecuación de movimiento para un objeto en
+MAS depende del desplazamiento inicial (yo) del objeto.
+Ecuaciones de movimiento para MAS:
+(13.8a)
++ para movimiento inicial hacia arriba con yo /H110050
+- para movimiento inicial hacia abajo con yo /H110050
+(13.9a)
+para movimiento inicial hacia arriba con yo /H11005/H11001A
+para movimiento inicial hacia abajo con yo /H11005/H11002A
+Velocidad de una masa que oscila en un resorte:
+(13.6)
+Periodo de una masa que oscila en un resorte:
+(13.11)T = 2pA
+m
+k
+v = /H11006A
+k
+m
+ 1A2 - x22
+y = /H11006A cos vt = /H11006A cos12pft2 = /H11006A cosa 2pt
+T b
+y = A sen t
+t
+t = T
+t = T
+y
+−A
++A
+0
+y = A cos    t 
+−A
++A
+0
+  ω
+ω 
+t
+y = /H11006A sen vt = /H11006A sen12pft2 = /H11006A sena 2pt
+T b
+tiene una sola frecuencia resonante para una longitud dada 
+Si empujamos el columpio con esta frecuencia y lo hacemos en fase con su movimien-
+to, aumentarán su amplitud y energía (Nfigura 13.22). Si empujamos con una frecuen-
+cia un poco distinta, la transferencia de energía ya no será máxima. (¿Qué cree el lector
+que suceda si empuja el columpio con la frecuencia de resonancia, pero desfasada 180°
+respecto al movimiento del columpio?)
+A diferencia de los péndulos simples, las cuerdas estiradas tienen muchas frecuen-
+cias naturales. Casi cualquier frecuencia impulsora causa una perturbación en la cuer-
+da. Sin embargo, si la frecuencia de la fuerza impulsora no es igual a una de las
+frecuencias naturales, la onda resultante será relativamente pequeña e irregular. En
+cambio, cuando la frecuencia de la fuerza impulsora coincide con una de las frecuencias
+naturales, se transfiere el máximo de energía a la cuerda. El resultado es un patrón cons-
+tante de onda estacionaria, y la amplitud en los antinodos se vuelve relativamente
+grande.
+La resonancia mecánica no es el único tipo de resonancia. Cuando sintonizamos
+una radio, modificamos la frecuencia de resonancia de un circuito eléctrico (capítulo
+21) para que sea impulsado por una señal cuya frecuencia es la de la estación transmi-
+sora deseada; así, la radio “capta” esa estación. En la sección A fondo 13.2 se describen
+otros ejemplos de la resonancia deseable y la indeseable.
+Cf = 1>T = 1>12p2 2g>LD.
+
+460 CAPÍTULO 13 Vibraciones y ondas
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son
+ejercicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos 
+pares de ejercicios, que se identifican con números subrayados, pretenden ayudar al lector a resolver problemas 
+y aprender. El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede con-
+sultarse si se necesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se
+da al final del libro.
+13.1 Movimiento armónico simple
+1. OM Una partícula en MAS tiene a) amplitud variable, 
+b) una fuerza restauradora que sigue la forma de la ley
+de Hooke, c) una frecuencia directamente proporcional a
+su periodo o d) una posición que se representa gráfica-
+mente con x(t) /H11005at /H11001b.
+2. OM La energía cinética máxima de un sistema masa-re-
+sorte en MAS es igual a a) A, b) A2, c) kA, d) kA2/2.
+3. OM Si se aumenta al doble el periodo de un sistema en
+MAS, la frecuencia del sistema a) se duplica, b) se reduce
+a la mitad, c) aumenta al cuádruple o d) se reduce a la
+cuarta parte.
+4. OM Cuando una partícula en MAS horizontal está en la
+posición de equilibrio, la energía potencial del sistema es
+a) cero, b) máxima, c) negativa o d) nada de lo anterior.
+5. PC Si se duplica la amplitud de una masa en MAS, ¿có-
+mo afectará eso a) la energía y b) la rapidez máxima?
+6. PC ¿Cómo cambia la rapidez de una masa en MAS a me-
+dida que la masa se acerca a su posición de equilibrio?
+Explique.
+7. PC Un sistema masa-resorte en MAS tiene amplitud A y
+periodo T. ¿Cuánto tarda la masa en recorrer una distan-
+cia A? ¿Y una 2A?
+8. PC Un tenista usa una raqueta para botar una pelota con
+un periodo constante. ¿Se trata de un movimiento armó-
+nico simple? Explique por qué.
+9.
+● Una partícula oscila en MAS con amplitud A. ¿Qué
+distancia total recorre la partícula en un periodo?
+10. ● Un juguete de 0.75 kg que oscila en un resorte efectúa
+un ciclo cada 0.60 s. ¿Qué frecuencia tiene esta oscila-
+ción?
+11. ● Una partícula en movimiento armónico simple tiene
+una frecuencia de 40 Hz. ¿Qué periodo tiene su oscila-
+ción?
+Frecuencia angular de una masa que oscila en un resorte:
+(13.13)
+Periodo de un péndulo simple (aproximación con ángulo 
+pequeño):
+(13.14)
+Velocidad de una masa en MAS:
+(13.15)
+Aceleración de una masa en MAS:
+• Una onda es una perturbación en el tiempo y el espacio; un
+movimiento ondulatorio transfiere o propaga energía.
+Rapidez de una onda:
+(13.17)
+– A
++ A
+λ
+λ Valle
+Crestav
+Amplitud
+v = l
+T =lf
+(aceleración vertical si vo
+es hacia arriba en to = 0, yo = 0)a =- v2
+ A sen vt =- v2
+ y
+(velocidad vertical si vo
+es hacia arriba en to = 0, yo = 0)v =vA cos vt
+T = 2pA
+L
+g
+v = 2pf = A
+k
+m
+• En cualquier instante, la forma de onda combinada de dos o
+más ondas que se interfieren es la suma de los desplazamien-
+tos de las ondas individuales en cada punto del medio.
+• En las frecuencias naturales, se pueden formar ondas estacio-
+narias en una cuerda como resultado de la interferencia de
+dos ondas con longitud de onda, amplitud y rapidez idénti-
+cas, que viajan en direcciones opuestas por una cuerda.
+Frecuencias naturales de una cuerda estirada:
+(13.20)f
+n = n a
+v
+2Lb = n
+2L
+ 
+A
+FT
+m = nf1 1para n = 1, 2, 3, Á2
+L =         Primer armónicol1
+2
+L =            Segundo armónicol2
+22
+y1 y2
+y = y1+ y2
+y = y1+ y2
+v1 v2
+(13.16)
+
+Ejercicios 461
+12. ● La frecuencia de un oscilador armónico simple se du-
+plica, de 0.25 a 0.50 Hz. ¿Cómo cambia su periodo?
+13. ● ¿Qué constante de resorte tiene una báscula de resorte
+que se estira 6.0 cm cuando una canasta de verduras cu-
+ya masa es de 0.25 kg se cuelga de ella?
+14. ● Un objeto con una masa de 0.50 kg se sujeta a un resor-
+te cuya constante es de 10 N/m. Si se tira del objeto para
+bajarlo 0.050 m respecto a su posición de equilibrio y se
+le suelta, ¿qué rapidez máxima alcanzará?
+15.
+●● Los átomos de un sólido están en movimiento vibrato-
+rio continuo debido a su energía térmica. A temperatura
+ambiente, la amplitud típica de estas vibraciones atómicas
+suele ser de aproximadamente 10/H110029 cm, y su frecuencia es
+del orden de 1012 Hz. a) ¿Qué periodo aproximado de osci-
+lación tiene un átomo representativo? b) ¿Qué rapidez má-
+xima tiene semejante átomo?
+16. EI ●● a) ¿En qué posición es mínima la magnitud de 
+la fuerza sobre la masa de un sistema masa-resorte? 
+1) x /H110050, 2) x /H11005/H11002A o 3) x /H11005/H11001A. ¿Por qué? b) Con 
+m /H110050.500 kg, k /H11005150 N/m y A /H110050.150 m, calcule la
+magnitud de la fuerza sobre la masa y la aceleración de
+la masa en x /H110050, 0.050 m y 0.150 m.
+17.
+EI ●● a) ¿En qué posición es máxima la rapidez de una
+masa de un sistema masa-resorte? 1) x /H110050, 2) x /H11005/H11002A o 
+3) x /H11005/H11001A. ¿Por qué? b) Con m /H110050.250 kg, k /H11005100 N/m
+y A /H110050.10 m, ¿cuál es la rapidez máxima?
+18. ●● Un sistema masa-resorte está en MAS en la direc-
+ción horizontal. La masa es de 0.25 kg, la constante 
+de resorte es de 12 N/m y la amplitud es de 15 cm. 
+a) Calcule la rapidez máxima de la masa y b) la posi-
+ción donde ocurre. c) ¿Qué rapidez tendrá en la po-
+sición de media amplitud?
+19.
+●● En el ejercicio 18, a) ¿qué rapidez tiene la masa en 
+x /H1100510 cm? b) ¿Qué magnitud tiene la fuerza ejercida 
+por el resorte sobre la masa?
+20. ●● Un resorte horizontal en un riel de aire nivelado que
+no ejerce fricción tiene atado un objeto de 150 g; el resor-
+te se estira 6.50 cm. Luego se imprime al objeto una ve-
+locidad inicial hacia fuera de 2.20 m/s. Si la constante de
+resorte es de 35.2 N/m, determine qué tanto se estira 
+el resorte.
+21.
+●● Un bloque de 350 g que se mueve hacia arriba verti-
+calmente choca con un resorte vertical ligero y lo compri-
+me 4.50 cm antes de llegar al reposo. Si la constante de
+resorte es de 50.0 N/m, ¿cuál fue la rapidez inicial del
+bloque? (Ignore las pérdidas de energía debidas al soni-
+do y a otros factores durante el choque.)
+22.
+●● Un objeto de 0.25 kg suspendido de un resorte ligero
+se suelta desde una posición 15 cm arriba de la posición
+de equilibrio del resorte estirado. La constante del resor-
+te es de 80 N/m. a) Calcule la energía total del sistema.
+(Desprecie la energía potencial gravitacional.) b) ¿Esta
+energía depende de la masa del objeto? Explique.
+23. ●● ¿Qué rapidez tiene el objeto del ejercicio 22 cuando
+está a) 5.0 cm arriba y b) 5.0 cm abajo de su posición de
+equilibrio? c) Calcule la rapidez máxima del objeto y la
+posición donde esta ocurre.
+24. ●●● Un cirquero de 75 kg salta desde una altura de 5.0 m
+a un trampolín y lo estira hacia abajo 0.30 m. Suponiendo
+que el trampolín obedece la ley de Hooke, a) ¿qué tanto
+se estirará si el cirquero salta desde una altura de 8.0 m?
+b) ¿Qué tanto se estirará el trampolín si el cirquero se pa-
+ra en él mientras agradece los aplausos?
+25.
+●●● Un resorte vertical está atado a una masa de 200 g.
+La masa se suelta desde el reposo y cae 22.3 cm antes de
+detenerse. a) Determine la constante de resorte. b) Deter-
+mine la rapidez de la masa cuando ha caído solamente
+10.0 cm.
+26.
+●●● Una esfera de 0.250 kg se deja caer desde una altura
+de 10.0 cm sobre un resorte, como se ilustra en la ▼figura
+13.23. Si la constante del resorte es de 60.0 N/m, a) ¿qué
+distancia se comprimirá el resorte? (Desprecie la pérdida
+de energía durante el choque.) b) Al rebotar hacia arriba,
+¿qué altura alcanzará la esfera?
+▲ FIGURA 13.23 ¿Qué tanto baja? Véase el ejercicio 26.
+13.2 Ecuaciones de movimiento
+27. OM La ecuación de movimiento para una partícula en
+MAS a) siempre es una función coseno, b) refleja la ac-
+ción amortiguadora, c) es independiente de las condicio-
+nes iniciales o d) da la posición de la partícula en función
+del tiempo.
+28. OM Para la ecuación de MAS y /H11005A sen /H9275t, la posición
+inicial yo es a) /H11001A, b) /H11002A, c) 0 o d) ninguna de las ante-
+riores.
+29. OM Para la ecuación de MAS y /H11005A sen(2/H9266t/T), la po-
+sición y del objeto en tres cuartos del periodo es a) /H11001A, 
+b) /H11002A, c) A/2, d) 0.
+30. PC Si se duplica la longitud de un péndulo, ¿qué rela-
+ción habrá entre el nuevo periodo y el anterior?
+
+462 CAPÍTULO 13 Vibraciones y ondas
+4.0 s
+y  (cm)
+5.0
+–5.0
+0 t  (s)
+Sistema A
+y  (m)
+0.10
+0 t  (s)
+– 0.10
+0.1 5 0.45 0.75 1.05
+Sistema B
+▲ FIGURA 13.24 Energía de ondas y ecuación 
+de movimiento Véanse los ejercicios 43, 56 y 57.
+31. PC El aparato de la figura 13.5 demuestra que el movi-
+miento de una masa en un resorte se puede describir con
+una función senoidal del tiempo. ¿Cómo podría demos-
+trarse esta misma relación para un péndulo?
+32. PC ¿El movimiento armónico simple podría describirse
+con una función tangente? Explique por qué.
+33. PC El periodo de un péndulo en un elevador que acelera
+hacia arriba aumentará o disminuirá, en comparación
+con su periodo en un elevador que no acelera? Explique
+por qué.
+34. PC Si un sistema masa-resorte se lleva a la Luna, ¿cam-
+biará su periodo? ¿Y el periodo de un péndulo llevado a
+la Luna? Explique por qué.
+35.
+● ¿Qué masa en un resorte cuya constante es de 100 N/m
+oscilará con un periodo de 2.0 s?
+36. ● Una masa de 0.50 kg oscila en movimiento armónico
+simple en un resorte con una constante de 200 N/m. 
+Calcule a) el periodo y b) la frecuencia de la oscilación.
+37.
+● El péndulo simple de un reloj tiene 0.75 m de longitud.
+Calcule a) su periodo y b) su frecuencia.
+38. ● Una brisa pone a oscilar una lámpara suspendida. Si el
+periodo es de 1.0 s, ¿qué distancia habrá entre el techo y
+la lámpara en el punto más bajo? Suponga que la lám-
+para actúa como péndulo simple.
+39.
+● Escriba la ecuación general de movimiento para una
+masa que descansa en una superficie horizontal sin fric-
+ción y está conectada a un resorte en equilibrio, a) si la
+masa recibe inicialmente un empujón rápido que estira 
+el resorte y b) si se tira de la masa para estirar el resorte 
+y luego se suelta.
+40.
+● La ecuación de movimiento para un oscilador en 
+MAS vertical está dada por y /H11005(0.10 m) sen(100)t. Calcu-
+le a) la amplitud, b) la frecuencia y c) el periodo de este
+movimiento.
+41. ● El desplazamiento de un objeto está dado por y /H11005
+(5.0 cm) sen(20 /H9266)t. Calcule a) la amplitud, b) la frecuen-
+cia y c) el periodo de oscilación del objeto.
+42. ● Si el desplazamiento de un oscilador en MAS se descri-
+be con la ecuación y /H11005(0.25 m) cos (314)t, donde y está en
+metros y t en segundos, ¿qué posición tendrá el oscilador
+en a) t /H110050, b) t /H110055.0 s y c) t /H1100515 s?
+43. EI ●● En la Nfigura 13.24 se grafican las oscilaciones de
+dos sistemas masa-resorte. La masa del sistema A es cua-
+tro veces mayor que la del sistema B. a) En comparación
+con el sistema B, el sistema A tiene 1) más, 2) la misma o
+3) menos energía. ¿Por qué? b) Calcule la razón de ener-
+gía entre el sistema B y el sistema A.
+44.
+●● Demuestre que la energía total de un sistema masa-
+resorte en movimiento armónico simple está dada por
+45. ●● La velocidad de un sistema masa-resorte que osci-
+la verticalmente está dada por v /H11005(0.750 m/s) sen(4 t).
+Determine a) la amplitud y b) la aceleración máxima de
+este oscilador.
+46. EI ●● a) Si se duplica la masa de un sistema masa-resor-
+te, el nuevo periodo será 1) 2, 2) 3) veces el
+antiguo periodo. ¿Por qué? b) Si el periodo inicial es de
+3.0 s y la masa se reduce a 1/3 de su valor inicial, calcule
+el nuevo periodo.
+47.
+EI ●● a) Si se triplica la constante de resorte de un sis-
+tema masa-resorte, el nuevo periodo será 1) 3, 2.) 
+3) veces el antiguo periodo. ¿Por qué? b) Si el pe-
+riodo inicial es de 2.0 s y la constante de resorte se redu-
+ce a la mitad, calcule el nuevo periodo.
+48.
+●● Demuestre que, para que un péndulo oscile con la
+misma frecuencia que una masa en un resorte, la longi-
+tud del péndulo debe ser L /H11005mg/k.
+49.
+●● Puesto que la gravedad es débil en el espacio exterior,
+los astronautas no pueden medir su masa con una báscu-
+la de resorte como hacemos en la Tierra. a) ¿Puede dise-
+ñar un método para medir la masa con una báscula de
+resorte en el espacio? b) Si el periodo de oscilación de un
+astronauta en un resorte de 3000 N/m es de 1.0 s, ¿qué
+masa tiene el astronauta?
+50.
+●● Ciertos estudiantes usan un péndulo simple de 36.90 cm
+de longitud para medir la aceleración debida a la grave-
+dad en su escuela. Si el periodo del péndulo es de 1.220 s,
+¿qué valor experimental tiene g en esa escuela?
+51.
+●● ¿Cuál es la máxima energía cinética de un oscilador ho-
+rizontal simple constituido por masa-resorte, cuya ecua-
+ción de movimiento está dada por x /H11005(0.350 m) sen(7t)? 
+La masa al final del resorte es de 900 g.
+1> 23
+23,
+1> 2222,
+1
+2 mv2
+ A2.
+
+Ejercicios 463
+52. ●● La ecuación de movimiento de una partícula en MAS
+vertical está dada por y /H11005(10 cm) sen(0.50) t. ¿Cuál es 
+a) el desplazamiento, b) la velocidad y c) la aceleración de
+la partícula cuando t /H110051.0 s?
+53. ●● Por algunos segundos durante un terremoto, el piso
+de un edificio de apartamentos osciló, según las medicio-
+nes, aproximadamente en movimiento armónico simple
+con un periodo de 1.95 segundos y una amplitud de 
+8.65 cm. Determine la rapidez y aceleración máximas del
+piso durante este movimiento. Exprese la aceleración 
+como una fracción de g.
+54.
+●● Dos masas iguales oscilan en resortes ligeros; la cons-
+tante de resorte del segundo es el doble de la del pri-
+mero. ¿Cuál sistema tiene la mayor frecuencia y por
+cuánto es mayor?
+55.
+EI●● a) Si un reloj de péndulo se llevara la Luna, donde
+la aceleración de la gravedad es apenas una sexta parte
+(suponga que la cifra es exacta) de la que hay en la Tierra,
+¿el periodo de vibración 1) aumentaría, 2) permanecería
+igual o 3) disminuiría? ¿Por qué? b) Si el periodo en la
+Tierra es de 2.0 s, ¿cuál sería el periodo en la Luna?
+56.
+●● El movimiento de una partícula se describe median-
+te la curva para el sistema A en la figura 13.24. Escriba 
+la ecuación de movimiento en términos de una función
+coseno.
+57.
+●● El movimiento de una masa oscilatoria de 0.25 kg en
+un resorte ligero se describe mediante la curva para el
+sistema B en la figura 13.24. a) Escriba la ecuación para 
+el desplazamiento de la masa como una función del tiem-
+po. b) ¿Cuál es la constante del resorte?
+58.
+●●● En la ▼ figura 13.25 se muestran las fuerzas que ac-
+túan sobre un péndulo simple. a) Demuestre que, para la
+aproximación de ángulo pequeño (sen /H9258/H11015/H9258), la fuerza
+que produce el movimiento tiene la misma forma que la
+ley de Hooke. b) Demuestre, por analogía con una masa
+en un resorte, que el periodo de un péndulo simple está
+dado por [ Sugerencia: piense en la cons-
+tante de resorte eficaz.]
+T = 2p2L>g.
+60. ●●● Un reloj usa un péndulo de 75 cm de longitud. El re-
+loj sufre un accidente y, durante la reparación, la longi-
+tud del péndulo se acorta en 2.0 mm. Considerándolo
+como un péndulo simple, a) ¿el reloj reparado se adelan-
+tará o se atrasará? b) ¿Cuánto diferirá la hora indicada
+por el reloj reparado, de la hora correcta (que se toma 
+como el tiempo determinado por el péndulo original en
+24 h)? c) Si el cordel del péndulo fuera metálico, ¿la tem-
+peratura ambiente afectará la exactitud del reloj? Expli-
+que por qué.
+13.3 Movimiento ondulatorio
+61. OM El movimiento ondulatorio en un medio material
+implica a) la propagación de una perturbación, b) interac-
+ciones de partículas, c) transferencia de energía o d) todo
+lo anterior.
+62. OM La relación siguiente se cumple para una onda perió-
+dica que se propaga con rapidez v: a) /H9261/H11005v/f, b) v /H11005/H9261/f,
+c) v /H11005/H9261f2 o d) f /H11005/H9261/v.
+63. OM Una onda en agua es a) transversal, b) longitudinal,
+c) una combinación de transversal y longitudinal o d) na-
+da de lo anterior.
+64. PC ¿Qué tipo(s) de onda(s), transversales o longitudina-
+les, se propagan por a) sólidos, b) líquidos y c) gases?
+65. ● La ▼ figura 13.26 muestra fotografías de dos ondas me-
+cánicas. Identifique cada una como transversal o longi-
+tudinal.
+θ
+L
+mg
+s
+T
+m
+mg sen θ
+mg cos θ
+θ
+▲ FIGURA 13.25 MAS de un péndulo Véase el ejercicio 58.
+59. ●●● Un péndulo simple se pone en movimiento angular
+pequeño, haciendo un ángulo máximo con la vertical de
+5°. Su periodo es de 2.21 s. a) Determine su longitud. 
+b) Determine su rapidez máxima. c) ¿Cuál será su rapidez
+angular máxima?
+▲ FIGURA 13.26 ¿Transversales o longitudinales? Véase 
+el ejercicio 65.
+66. Parados en una colina mirando un maizal crecido, vemos
+una hermosa “ola” que recorre el campo cuando hay una
+brisa. ¿De qué tipo de onda se trata? Explique por qué.
+
+464 CAPÍTULO 13 Vibraciones y ondas
+y 
+x (cm)
+a)y  (cm)
+15
+0
+0
+t (s) 
+–15
+b)
+9.0 15.0 3.0 
+v
+0.20
+0.60
+1.0 1.4 1.8
+▲ FIGURA 13.27 ¿Qué altura y qué rapidez? Véase el
+ejercicio 76.
+67. ● Una onda sonora longitudinal tiene una rapidez de 
+340 m/s en aire. Esta onda produce un tono con una fre-
+cuencia de 1000 Hz. ¿Qué longitud de onda tiene?
+68.
+● Una onda transversal tiene una longitud de onda de
+0.50 m y una frecuencia de 20 Hz. ¿Qué rapidez tiene?
+69. ● Un estudiante que lee su libro de física en el muelle de
+un lago nota que la distancia entre dos crestas de olas es
+de aproximadamente 0.75 m, y luego mide el tiempo en-
+tre que llegan dos crestas, obteniendo 1.6 s. ¿Qué rapidez
+aproximada tienen las olas?
+70.
+● Las ondas de luz viajan en el vacío con una rapidez de
+300 000 km/s. La frecuencia de la luz visible es de apro-
+ximadamente 5 /H1100310
+14 Hz. ¿Qué longitud de onda 
+aproximada tiene la luz?
+71. ●● La gama de frecuencias sonoras que el oído humano
+puede captar se extiende de cerca de 20 Hz a 20 kHz. La
+rapidez del sonido en el aire es de 345 m/s. Exprese en
+longitudes de onda los límites de este intervalo audible.
+72.
+● Cierto láser emite luz con una longitud de onda de 
+633 /H1100310/H110029 m. ¿Cuál sería la frecuencia de esta luz en 
+el vacío?
+73. ●● Un láser emite una onda luminosa con una longitud
+de onda de 500 nm a una frecuencia de 4.00 /H110031014 Hz.
+¿Esta luz está viajando en el vacío? Compruebe su res-
+puesta.
+74. EI ●● Las frecuencias de A.M. de una radio van desde
+550 hasta 1600 kHz; y las de F.M., de 88.0 hasta 108 MHz.
+Todas estas ondas de radio viajan con una rapidez de
+3.00 /H11003108 m/s (rapidez de la luz). a) En comparación
+con las frecuencias de F.M., las de A.M. tienen longitudes
+de onda 1) más largas, 2) iguales o 3) más cortas. ¿Por
+qué? b) ¿Qué intervalos de longitud de onda tienen la
+banda de A.M. y la de F.M.?
+75.
+●● Un generador de sonar de un submarino produce on-
+das ultrasónicas periódicas con una frecuencia de 2.50 MHz.
+La longitud de onda de esas ondas en agua de mar es de
+4.80 /H1100310
+/H110024 m. Cuando el generador se dirige hacia abajo,
+un eco reflejado por el suelo marino se recibe 10.0 s des-
+pués. ¿Qué profundidad tiene el océano en ese punto?
+(Suponga que la longitud de onda es constante a todas las
+profundidades.)
+76.
+●● En la Nfigura 13.27a se muestra una onda que viaja en
+la dirección /H11001x. El desplazamiento de la partícula en cier-
+to punto del medio por el que la onda viaja se muestra en
+la figura 13.27b. a) ¿Qué amplitud tiene la onda viajera? 
+b) ¿Qué rapidez tiene la onda?
+77.
+● Suponga que las ondas P y S (primarias y secundarias)
+de un terremoto con foco cercano a la superficie terrestre
+atraviesan la Tierra con rapidez promedio casi constante
+de 8.0 y 6.0 km/s, respectivamente. Suponga que las on-
+das no se desvían ni refractan. a) ¿Qué retraso hay entre
+las llegadas de ondas sucesivas a una estación de moni-
+toreo sísmico, situada a una latitud de 90° respecto al
+epicentro (el punto en la superficie que está directamen-
+te sobre el foco) del terremoto? b) ¿Las ondas cruzan la
+frontera del manto? c) ¿Cuánto tardan las olas en llegar 
+a una estación de monitoreo en el lado opuesto de la Tie-
+rra?
+78.
+●●● La rapidez de ciertas ondas longitudinales que via-
+jan por una varilla sólida larga está dada por 
+donde /H9020es el módulo de Young y /H9267es la densidad del só-
+lido. Si una perturbación tiene una frecuencia de 40 Hz,
+¿qué longitud de onda tienen las ondas que produce 
+en a) una varilla de aluminio y b) una varilla de cobre?
+[Sugerencia: véase las tablas 9.1 y 9.2.]
+79.
+●●● Fred golpea un riel de acero con un martillo, con
+una frecuencia de 2.50 Hz, y Vilma pega la oreja al riel 
+a 1.0 km de distancia. a) ¿Cuánto tiempo después del
+primer golpe Vilma escuchará el sonido? b) ¿Qué tiempo
+transcurre entre que escucha dos pulsaciones sonoras
+sucesivas? [Sugerencia: véase las tablas 9.1 y 9.2 y el ejer-
+cicio 78.]
+80.
+●●● Una onda viajera transversal senoidal de una cuer-
+da tiene una frecuencia de 10.0 Hz y viaja a 25.0 m/s a lo
+largo del eje x. a) Localice los puntos en la cuerda que 
+tienen rapidez máxima en un momento dado. b) Deter-
+mine la rapidez máxima y c) la distancia entre los pun-
+tos altos y bajos sucesivos en la cuerda.
+13.4 Propiedades de las ondas
+81. OM Cuando dos ondas se encuentran y se interfieren, 
+la forma de onda resultante depende a) de la reflexión, 
+b) de la refracción, c) de la difracción o d) de la superpo-
+sición.
+82. OM La refracción a) implica interferencia constructiva, 
+b) se refiere a un cambio de dirección en las fronteras en-
+tre medios, c) es idéntica a la difracción o d) sólo se da en
+medios sólidos u ondas mecánicas.
+83. OM Podemos escuchar personas que hablan a la vuelta
+de la esquina, gracias primordialmente a) a la reflexión,
+b) a la refracción, c) a la interferencia o d) a la difracción.
+v = 2Y>r,
+
+Ejercicios 465
+84. PC ¿Qué se destruye cuando hay interferencia destruc-
+tiva? ¿Qué sucede con la energía? Explique.
+85. PC Los delfines y los murciélagos conocen la ubicación
+de sus presas emitiendo ondas ultrasónicas. ¿Qué fenó-
+meno ondulatorio interviene?
+86. PC Si las ondas sonoras fueran dispersivas (es decir, si 
+la rapidez del sonido dependiera de su frecuencia), ¿qué
+consecuencias percibiríamos al escuchar una orquesta 
+en una sala de conciertos?
+13.5 Ondas estacionarias y resonancia
+87. OM Para que dos ondas viajeras formen ondas estacio-
+narias, deben tener la misma a) frecuencia, b) amplitud,
+c) rapidez o d) todo lo anterior.
+88. OM Los puntos de máxima amplitud en una cuerda con
+forma de onda estacionaria se llaman a) nodos, b) antino-
+dos, c) fundamentales, d) puntos de resonancia.
+89. OM Cuando una cuerda de violín estirada oscila en su
+tercer modo armónico, la onda estacionaria en la cuer-
+da muestra a) 3 longitudes de onda, b) 1/3 de longitud
+de onda, c) 3/2 de longitud de onda o d) 2 longitudes de
+onda.
+90. PC Un columpio infantil (un péndulo) sólo tiene una 
+frecuencia natural f1, pero se le puede impulsar o empu-
+jar sin sacudidas con frecuencias de f1/2, f1/3, 2f1 y 3f1.
+¿Cómo es esto posible?
+91. PC Al frotar la boca circular de una copa de cristal del-
+gado con un dedo húmedo, es posible hacer que el cristal
+“cante”. (Inténtelo.) a) ¿Qué causa esto? b) ¿Qué suce-
+dería con la frecuencia del sonido si se agregara agua a 
+la copa?
+92. PC Una onda viaja por una cuerda que tiene tensión fija.
+¿Cómo cambia la longitud de onda si se aumenta la fre-
+cuencia? ¿Cómo cambia la rapidez de la onda?
+93. PC Dada la misma tensión y longitud, ¿qué cuerda de
+guitarra sonará más aguda (frecuencia más alta), una
+gruesa o una delgada?
+94.
+● La frecuencia fundamental de una cuerda estirada es
+de 150 Hz. Calcule las frecuencias de a) el segundo armó-
+nico y b) el tercer armónico.
+95. ● Si la frecuencia del tercer armónico de una cuerda que
+vibra es de 450 Hz, ¿cuál es la frecuencia fundamental
+del primer armónico?
+96.
+● Se forma una onda estacionaria en una cuerda estirada
+de 3.0 m de longitud. ¿Qué longitud de onda tienen a) el
+primer armónico y b) el tercer armónico?
+97. EI ●● Una fuerza estira un trozo de tubo de caucho. a) Si
+la fuerza aumenta al doble, la rapidez de una onda trans-
+versal 1) se duplica, 2) se reduce a la mitad, 3) aumenta en
+o 4. se reduce en ¿Por qué? b) Si la densidad de 
+masa lineal de un tubo de 10.0 m de longitud es de 0.125
+kg/m y lo estira una fuerza de 9.00 N, ¿qué rapidez ten-
+drá la onda transversal en el tubo? c) Determine las fre-
+cuencias naturales de sus ondas.
+22
+.22
+98. ●● ¿Se formará una onda estacionaria en una cuerda es-
+tirada de 4.0 m de longitud, que transmite ondas con una
+rapidez de 12 m/s, si se le impulsa con una frecuencia de
+a) 15 Hz o b) 20 Hz?
+99.
+●● Dos ondas de la misma amplitud y con longitud de
+onda de 0.80 m viajan en direcciones opuestas con una
+rapidez de 250 m/s por una cuerda de 2.0 m de longitud.
+¿Con qué modo armónico se establecerá la onda esta-
+cionaria en la cuerda?
+100.
+●● En un violín, una cuerda correctamente afinada en la
+nota musical la tiene una frecuencia de 440 Hz. Si una
+cuerda correspondiente a la nota la produce un sonido a
+450 Hz bajo una tensión de 500 N, ¿cuál debería ser la
+tensión para producir la frecuencia correcta?
+101.
+●● El departamento de física de una universidad com-
+pra 1000 m de cuerda y calcula que su masa total es de
+1.50 kg. Esta cuerda se utiliza para realizar una demos-
+tración en el laboratorio de una onda estacionaria entre
+dos postes colocados a 3.0 m uno de otro. Si la frecuen-
+cia del primer sobretono deseado (segundo armónico)
+es de 35 Hz, ¿cuál será la tensión de la cuerda que se 
+requiere?
+102.
+●● Dos cuerdas estiradas, A y B, tienen la misma tensión
+y densidad lineal de masa. ¿Alguno de los seis primeros
+armónicos son iguales, si las longitudes de las cuerdas
+son a) 1.0 y 3.0 m o b) 1.5 y 2.0 m, respectivamente?
+103.
+●● Usted está generando dos ondas estacionarias en una
+cuerda. Cuenta con una cuerda uniforme de piano con
+una longitud de 3.0 m y una masa de 150 g. Usted corta
+la cuerda en dos (una parte mide 1.0 m de longitud, y la
+otra 2.0 m) y coloca ambas partes bajo tensión. ¿Cuál de-
+bería ser la razón de las tensiones (expresada de la menor
+con respecto a la mayor), de manera que sus frecuencias
+fundamentales sean iguales?
+104. EI
+●● Una cuerda de violín está afinada a cierta frecuen-
+cia (la frecuencia fundamental o primer armónico). a) Si
+un violinista quiere una frecuencia más alta, ¿la cuerda
+deberá 1) alargarse, 2) dejarse de la misma longitud o 
+3) acortarse? ¿Por qué? b) Si la cuerda está afinada a 
+520 Hz y el violinista pisa la cuerda a un octavo de su
+longitud midiendo desde el extremo del cuello del violín,
+¿qué frecuencia tendrá la cuerda cuando el instrumento
+se toque así?
+105.
+●●● Una cuerda uniforme tirante con una longitud de
+2.50 m se ata por sus dos extremos y se coloca bajo una
+tensión de 100 N. Cuando vibra en el modo de su se-
+gundo sobretono (trace un boceto), el sonido que emite
+tiene una frecuencia de 75.0 Hz. ¿Cuál será la masa de 
+la cuerda?
+106.
+●●● En un experimento de laboratorio común sobre 
+ondas estacionarias, se producen ondas en una cuerda
+estirada con un vibrador eléctrico que oscila a 60 Hz
+(▼figura 13.28). La cuerda pasa por una polea y tiene 
+un gancho en su extremo. La tensión de la cuerda se 
+varía colgando pesos del gancho. Si la longitud activa 
+de la cuerda (la parte que vibra) es de 1.5 m, y este tra-
+mo de cuerda tiene una masa de 0.10 g, ¿qué masa debe-
+rá colgarse para producir los primeros cuatro armónicos
+en ese tramo?
+
+466 CAPÍTULO 13 Vibraciones y ondas
+▲ FIGURA 13.28 Ondas estacionarias en cuerdas
+Cuerdas vibratorias gemelas con ondas estacionaras. 
+Este modelo para demostración permite variar la tensión, 
+la longitud y el tipo (densidad lineal de masa) de la cuerda.
+También se puede ajustar la frecuencia de vibración. 
+Véase el ejercicio 106.
+Ejercicios adicionales
+107. La velocidad de un sistema masa-resorte que oscila 
+verticalmente está dada por v /H11005(/H110020.600 m/s) sen(6 t). 
+a) ¿Dónde se inicia el movimiento y en qué dirección 
+se mueve el objeto inicialmente? Describa la fase ini-
+cial del movimiento. b) Calcule el periodo del movi-
+miento. c) Determine la ecuación de movimiento ( y). 
+d) Calcule la aceleración máxima.
+108. Un resorte vertical tiene una masa de 500 g atada a él y a
+la masa se le imprime una velocidad inicial hacia abajo de
+1.50 m/s. La masa se desplaza hacia abajo 25.3 cm antes
+de detenerse y regresar. a) Determine la constante de re-
+sorte. b) ¿Cuál es su rapidez después de que cae 5.00 cm?
+c) ¿Cuál es la aceleración de la masa en el punto inferior
+del movimiento?
+109. Un estudiante corta 5.00 m de cuerda de un carrete y 
+calcula que su masa es de 10.0 g. Entonces, estira y “pelliz-
+ca” un tramo de 2.00 m de esta cuerda. El primer sobretono
+o segundo armónico de la cuerda vibra a 25.0 Hz. a) Calcu-
+le la tensión a la que está sometida la cuerda. b) Calcule 
+la frecuencia fundamental para esta cuerda. c) Si usted de-
+sea incrementar la frecuencia fundamental en un 25%,
+¿dónde tendría que agarrar la cuerda y en qué parte la “pe-
+llizcaría”?
+110. Durante un terremoto, la esquina de un edificio alto osci-
+la con una amplitud de 20 cm a 0.50 Hz. Calcule las mag-
+nitudes de a) el desplazamiento máximo, b) la velocidad
+máxima y c) la aceleración máxima de la esquina del edi-
+ficio. (Suponga MAS.)
+111. Una masa que descansa en una superficie horizontal sin
+fricción está conectada a un resorte fijo. La masa se des-
+plaza 16 cm respecto a su posición de equilibrio y luego
+se suelta. En t /H110050.50 s, la masa está a 8.0 cm de su posi-
+ción de equilibrio (y no ha pasado aún por ahí). Calcule
+el periodo de oscilación de la masa.
+Los siguientes problemas de física Physlet se pueden usar con este capítulo.
+16.2, 16.3, 16.5, 16.6, 16.7, 16.8, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6, 17.8
+
+• El sonido es a) la propagación física de una
+perturbación (energía) en un medio, y b) la
+respuesta fisiológica y psicológica que, por
+lo general, se da a las ondas de presión en el
+aire. (Por ejemplo, considere el caso de un
+árbol que se cae en el bosque y al que nos re-
+ferimos en la introducción de este capítulo.)
+• Los seres humanos no escuchamos los soni-
+dos con frecuencias por debajo de 20 Hz, que
+corresponden al infrasonido. Tanto los ele-
+fantes como los rinocerontes se comunican
+mediante infrasonido. Éste se produce por
+avalanchas, meteoros, tornados, terremotos y
+olas oceánicas. Algunas aves migratorias son
+capaces de escuchar los infrasonidos que se
+producen cuando se rompen las olas oceáni-
+cas, lo cual les permite orientarse con respec-
+to a la costa.
+• El rango normal de frecuencias que el ser hu-
+mano puede oír va de 20 Hz a 20 kHz.
+• La parte visible del oído externo es el pabe-
+llón auricular. Muchos animales pueden mo-
+ver el pabellón para enfocar su audición en
+cierta dirección; los seres humanos no.
+• El ultrasonido (frecuencia /H1102220 kHz) se utili-
+za para obtener imágenes del feto, es decir, la
+“primera fotografía de un bebé”.
+• La exposición al sonido intenso —por ejem-
+plo, de las bandas de rock— es una causa
+común del tinnitus o zumbido de oídos.
+14.1 Ondas sonoras 468
+14.2 La rapidez del sonido 471
+14.3 Intensidad del sonido 
+y nivel de intensidad 
+del sonido 474
+14.4 Fenómenos 
+acústicos 481
+14.5 El efecto Doppler 484
+14.6 Instrumentos musica-
+les y características 
+del sonido 491
+Sonido
+¡M
+uy buenas vibraciones! Mucho debemos a las ondas sonoras. No sólo
+nos proporcionan una de nuestras principales fuentes de esparcimien-
+to en la música, sino que además nos ofrecen una gran cantidad de in-
+formación vital sobre nuestro ambiente, desde el repicar de una campanilla de
+puerta, la estridente advertencia de una sirena policiaca, hasta el gorjeo de un jil-
+guero. De hecho, las ondas sonoras son la base de nuestra forma principal de comu-
+nicación: el lenguaje. Ellas pueden también constituir una distracción sumamente
+irritante (el ruido). Pero las ondas sonoras se vuelven música, lenguaje, o ruido sólo
+cuando nuestros oídos las perciben. Físicamente, los sonidos tan sólo son ondas que
+se propagan en sólidos, líquidos y gases. Sin un medio no habría sonido; en el vacío,
+como en el espacio exterior, sólo hay silencio.
+Esta distinción entre los significados sensoriales y físicos del sonido nos otor-
+ga una manera de responder la vieja pregunta filosófica: ¿si un árbol cae en el bos-
+que donde nadie puede oír la caída, habría ahí sonido? La respuesta depende de
+cómo se define el sonido: sería “no” si pensamos en términos de oído sensorial;
+pero sería “sí” cuando consideramos sólo las ondas físicas. Como las ondas de so-
+nido están alrededor de nosotros la mayoría del tiempo, estamos expuestos a mu-
+chos fenómenos interesantes derivados del sonido. En este capítulo exploraremos
+algunos de los más importantes.
+HECHOS DE FÍSICA
+CAPÍTULO
+467
+14
+
+Ultrasónica
+Audible
+Infrasónica
+Frecuencia
+1 GHz
+20 kHz
+20 Hz
+(Límite
+superior)
+▲ FIGURA 14.2 Espectro de 
+frecuencia del sonido La región
+audible del sonido para los seres
+humanos se encuentra entre 
+aproximadamente 20 Hz y 20 kHz.
+Por debajo de este intervalo se tiene
+la región infrasónica, y arriba de 
+él la región ultrasónica. El límite 
+superior es aproximadamente de 
+1 GHz, debido a las limitaciones
+elásticas de los materiales.
+468

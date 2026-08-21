@@ -1,0 +1,3742 @@
+Tema: Movimiento rotacional y equilibrio (Capítulo 8 — Física, Wilson)
+
+CAPÍTULO 8 Movimiento rotacional y equilibrio
+El movimiento general de los cuerpos rígidos es una combinación de movimiento
+traslacional y rotacional. Cuando lanzamos una pelota, el movimiento traslacional se
+describe con el movimiento de su centro de masa (como en el movimiento de proyecti-
+les). Sin embargo, la pelota podría girar, y generalmente lo hace. Un ejemplo común de
+movimiento de cuerpo rígido en el que intervienen tanto traslación como rotación es el
+rodamiento, ilustrado en la figura 8.1c. El movimiento combinado de cualquier punto
+o partícula está dado por la suma vectorial de los vectores de velocidad instantánea 
+de la partícula. (En la figura se muestran tres puntos o partículas: uno en la parte más
+alta, uno en medio y otro en la parte más baja del objeto.)
+En cada instante, el objeto rodante gira en torno a un eje instantáneo de rotación,
+que pasa por el punto de contacto entre el objeto y la superficie por la que rueda (en el
+caso de una esfera) o que está a lo largo de la línea de contacto entre el objeto y la super-
+ficie (en el caso de un cilindro, figura 8.1d). La ubicación de este eje cambia con el tiem-
+po, pero en la figura 8.1c observamos que el punto o línea de contacto del cuerpo con la
+superficie está instantáneamente en reposo (y, por lo tanto, tiene velocidad cero), como
+se percibe al efectuar la suma vectorial de los movimientos combinados en ese punto.
+También, el punto en la parte más alta tiene una rapidez tangencial dos veces mayor
+(2v) que la del punto medio (en el centro de masa, v), porque el primero está dos veces
+más lejos del eje instantáneo de rotación que el segundo. (Con un radio r, para el punto
+medio, r/H9275/H11005v, y para el punto de arriba, 2r/H9275/H110052v.)
+Cuando un objeto rueda sin resbalar, sus movimientos traslacional y rotacional
+tienen una relación simple, como vimos en el capítulo 7. Por ejemplo, cuando una es-
+fera (o cilindro) uniforme rueda en línea recta sobre una superficie plana, gira un 
+ángulo /H9258, y un punto (o línea) del objeto que inicialmente estaba en contacto con la 
+superficie se mueve una distancia de arco s (
+▼figura 8.2). En el capítulo 7 vimos que 
+s /H11005r/H9258(ecuación 7.3). El centro de masa de la esfera está directamente arriba del punto
+de contacto y se mueve una distancia lineal s. Entonces,
+donde /H9275/H11005/H9258/t. En términos de la rapidez del centro de masa y la rapidez angular /H9275,
+la condición para rodar sin resbalar es
+(rodar sin resbalar) (8.1)
+La condición para rodar sin resbalar también se expresa así:
+(8.1a)
+donde s es la distancia que el objeto rueda (la distancia que recorre el centro de masa).
+Si llevamos la ecuación 8.1 un poco más lejos, escribiremos una expresión para la
+tasa de cambio de la velocidad con respecto al tiempo. Suponiendo que se parte del 
+reposo, /H9004v
+CM /H11005vCM/t /H11005(r/H9275)/t. Esto da una ecuación para el rodamiento acelerado sin
+resbalar:
+(8.1b)
+donde /H9251/H11005/H9275/t (para una /H9251constante, suponiendo que /H9275o es cero).
+En esencia, un objeto rodará sin resbalar si el coeficiente de fricción estática entre
+el objeto y la superficie es suficientemente grande como para evitar el deslizamiento.
+Podría haber una combinación de movimientos de rodamiento y resbalamiento, por
+ejemplo, el derrapamiento de las ruedas de un automóvil cuando viaja por el lodo o 
+el hielo. Si hay rodamiento y resbalamiento, entonces no hay una relación clara entre
+los movimientos de traslación y de rotación, y no se cumple v
+CM /H11005r/H9275.
+aCM = vCM
+t = rv
+t = ra
+s = ru
+vCM = rv
+vCM = s
+t = ru
+t = rv
+Ilustración 11.2 Movimiento 
+de rodamiento
+
+8.2 Momento de fuerza, equilibrio y estabilidad 259
+Ejemplo integrado 8.1 ■ Rodar sin resbalar
+Un cilindro rueda por una superficie horizontal sin deslizarse. a) En determinado mo-
+mento, la rapidez tangencial de la parte superior del cilindro es 1) v, 2) r/H9275, 3) v /H11001r/H9275
+o 4) cero. b) El cilindro tiene un radio de 12 cm y una rapidez de centro de masa de 
+0.10 m/s, cuando rueda sin resbalar. Si continúa desplazándose a esta rapidez durante 
+2.0 s, ¿qué ángulo gira el cilindro en ese lapso?
+a) Razonamiento conceptual. Como el cilindro rueda sin resbalarse, se aplica la rela-
+ción vCM /H11005r/H9275. Como se observa en la figura 8.1, la rapidez en el punto de contacto es 
+cero, v para el centro (de masa), y 2 v en la parte superior. Con v /H11005r/H9275, la respuesta es 3, 
+v /H11001r/H9275/H11005v /H11001v /H110052v.
+b) Razonamiento cuantitativo y solución. Conociendo el radio y la rapidez traslacional, la
+rapidez angular se calcula a partir de la condición de ningún resbalamiento, vCM /H11005r/H9275.
+Con esto y el tiempo, se determina el ángulo de rotación.
+Hacemos una lista de los datos, como siempre:
+Dado: Encuentre: /H9258(ángulo de rotación)
+Usando vCM /H11005r/H9275para calcular la rapidez angular,
+Por lo tanto,
+El cilindro gira poco más de un cuarto de rotación. (¿De acuerdo? ¡Compruébelo!)
+Ejercicio de refuerzo. ¿Qué distancia recorre en línea recta el CM del cilindro en el inciso
+b de este ejemplo. Calcúlelo con dos métodos distintos: traslacional y rotacional. ( Las res-
+puestas de todos los Ejercicios de refuerzo se dan al final del libro.)
+8.2 Momento de fuerza, equilibrio y estabilidad
+OBJETIVOS: a) Definir momento de fuerza, b) aplicar las condiciones para equi-
+librio mecánico y c) describir la relación entre la ubicación del centro
+de gravedad y la estabilidad.
+Momento de fuerza
+Al igual que en el movimiento traslacional, se requiere una fuerza para producir un
+cambio en el movimiento rotacional. La razón de cambio del movimiento depende no
+sólo de la magnitud de la fuerza, sino también de la distancia perpendicular entre su
+línea de acción y el eje de rotación, r
+# (Nfigura 8.3a, b). La línea de acción de una fuer-
+za es una línea imaginaria que pasa por la flecha del vector de fuerza, es decir, la línea
+a lo largo de la cual actúa la fuerza.
+La figura 8.3 muestra que r
+# /H11005r sen /H9258, donde r es la distancia en línea recta entre
+el eje de rotación y el punto sobre el que actúa la fuerza, y /H9258es el ángulo entre la línea
+de r y el vector de fuerza Esta distancia perpendicular r# se llama brazo de palanca
+o brazo de momento.
+El producto de la fuerza y el brazo de palanca se llama momento de fuerza y 
+su magnitud es
+(8.2)
+Unidad SI de momento de fuerza: metro-newton (m · N)
+(Suelen usarse los símbolos r#F para denotar momento de fuerza, pero en la figura 8.3
+vemos que r#F /H11005rF#.) Las unidades de momento de fuerza en el SI son metros /H11003new-
+tons (m · N), que también corresponde con la unidad de trabajo, W /H11005Fd (N · m, o J).
+Escribiremos las unidades de momento de fuerza en orden inverso, m · N, para evitar
+confusiones; debemos tener presente que el momento de fuerza es un concepto inde-
+pendiente del de trabajo y su unidad no es el joule.
+t = r/H11036F = rF sen u
+/H9270
+S
+F
+S
+.
+u =vt =10.83 m>s212.0 s2 = 1.7 rad
+v = vCM
+r =
+0.10 m>s
+0.12 m = 0.083 rad>s
+ t = 2.0 s
+ vCM = 0.10 m>s
+ r = 12 cm = 0.12 m
+c) Momento de fuerza cero
+b) Momento de fuerza horario menor
+Eje
+de
+rotación
+r⊥ = 0
+Eje
+Línea
+de
+acción
+de la
+fuerza
+r u
+u
+a) Momento de fuerza antihorario
+Eje
+Línea
+de
+acción
+de la
+fuerzar
+t = r⊥F
+t = r⊥F
+u
+u
+r⊥
+r⊥
+F
+F
+F
+F⊥
+▲ FIGURA 8.3 Momento de fuerza
+y brazo de palanca a) La distancia
+perpendicular r# entre el eje 
+de rotación y la línea de acción de
+una fuerza se denomina brazo 
+de palanca (o brazo de momento) y 
+es igual a r sen /H9258. El momento de
+fuerza (o par de torsión) que 
+produce movimiento rotacional 
+es /H9270/H11005r
+#F. b) La misma fuerza en 
+la dirección opuesta con un menor
+brazo de palanca produce un 
+momento de fuerza menor en la 
+dirección opuesta. Observe que 
+r
+#F /H11005rF#, o (r sen /H9258)F /H11005r(F sen /H9258).
+c) Cuando una fuerza actúa a través
+del eje de rotación, r# /H110050 y /H9270/H110050.
+
+260 CAPÍTULO 8 Movimiento rotacional y equilibrio
+No siempre se produce aceleración rotacional cuando una fuerza actúa sobre un
+cuerpo rígido estacionario. Por la ecuación 8.2, vemos que, cuando la fuerza actúa a
+través del eje de rotación tal que /H9258/H110050, entonces /H9270/H110050 (figura 8.3c). También, cuando 
+/H9258/H1100590/H11034, el momento de fuerza es máximo y la fuerza actúa perpendicularmente a r.
+Por lo tanto, la aceleración angular depende de dónde se aplique una fuerza perpen-
+dicular (y, por ende, de la longitud del brazo de palanca). Como ejemplo práctico, ima-
+gine que aplicamos una fuerza a una puerta de vidrio pesada que se abre en ambas 
+direcciones. El punto donde apliquemos la fuerza influirá mucho en la facilidad 
+con que la puerta se abre o gira (sobre las bisagras de su eje). ¿Alguna vez usted 
+ha intentado abrir una puerta así empujando por descuido el lado cercano a las bisa-
+gras? La fuerza produce un momento de fuerza pequeño y poca o ninguna aceleración
+rotacional.
+Podemos ver el momento de fuerza en movimiento rotacional como similar a la
+fuerza en movimiento traslacional. Una fuerza neta, no equilibrada, modifica un movi-
+miento traslacional, y un momento de fuerza neto, no equilibrado, modifica un mo-
+vimiento rotacional. El momento de fuerza es un vector. Su dirección siempre es perpen-
+dicular al plano que forman los vectores de fuerza y de brazo de palanca, y está dada
+por una regla de la mano derechacomo la que se emplea con la velocidad angular (sección
+7.2). Si los dedos de la mano derecha se enroscan alrededor del eje de rotación en la 
+dirección de la aceleración rotacional (angular) que produciría el momento de fuerza, 
+el pulgar extendido apuntará en la dirección del momento de fuerza. Podemos usar 
+una convención de signo, como en el caso del movimiento rectilíneo, para representar
+direcciones de momento de fuerza, como veremos más adelante.
+Ejemplo 8.2 ■ Levantar y sostener: momento de fuerza muscular 
+en acción
+En nuestro cuerpo, momentos de fuerza producidos por la contracción de nuestros múscu-
+los hacen que algunos huesos giren sobre sus articulaciones. Por ejemplo, cuando levanta-
+mos algo con el antebrazo, el músculo bíceps aplica un momento de fuerza al antebrazo
+(
+▼ figura 8.4). Si el eje de rotación pasa por la articulación del codo y el músculo está sujeto
+a 4.0 cm del codo, ¿qué magnitud tendrá el momento de fuerza muscular en los incisos a
+y b de la figura 8.4, si el músculo ejerce una fuerza de 600 N?
+Razonamiento. Al igual que en muchas situaciones rotacionales, es importante conocer la
+orientación de los vectores y porque el ángulo entre ellos determina el brazo de palanca.
+En el inserto de la figura 8.4a note que si juntamos las colas de los vectores y el ángulo en-
+tre ellos será mayor que 90/H11034, es decir, 30/H11034/H1100190/H11034/H11005120/H11034. En la figura 8.4b, el ángulo es de 90/H11034.
+Solución. Primero hacemos una lista de los datos que nos dan aquí y en la figura. Este ejem-
+plo ilustra un punto importante: que /H9258es el ángulo entre el vector radial y la fuerza .
+Dado: Encuentre: a) /H9270(magnitud del momento de fuerza
+muscular) para figura 8.4a
+b) /H9270(magnitud del momento de fuerza
+muscular) para figura 8.4b ub = 90°
+ ua = 30° + 90° = 120°
+ F = 600 N
+ r = 4.0 cm = 0.040 m
+F
+S
+r
+S
+F
+S
+r
+S
+F
+S
+r
+S
+a) Se inicia el levantamiento
+r⊥
+30°30°
+120°
+Línea de fuerza
+r
+b) Se sostiene
+r⊥
+r⊥
+F
+F F
+▼ FIGURA 8.4 Momento de fuerza humana Véase el ejemplo 8.2.
+
+8.2 Momento de fuerza, equilibrio y estabilidad 261
+a) En este caso, está dirigido sobre el antebrazo, así que el ángulo entre los vectores y
+es /H9258a /H11005120°. Con la ecuación 8.2 tenemos
+en el instante en cuestión.
+b) Aquí, la distancia r y la línea de acción de la fuerza son perpendiculares ( /H9258b /H1100590/H11034) y 
+r# /H11005r sen 90/H11034/H11005r. Entonces,
+El momento de fuerza es mayor en b. Esto era de esperar porque el valor máximo del mo-
+mento de fuerza (/H9270máx) se da cuando /H9258/H1100590/H11034.
+Ejercicio de refuerzo. En el inciso a de este ejemplo, debe haber un momento de fuerza
+neto, porque la rotación del antebrazo aceleró la pelota hacia arriba. En el inciso b, la pe-
+lota simplemente se está sosteniendo y no hay aceleración rotacional, así que no hay mo-
+mento de fuerza en el sistema. Identifique los demás momentos de fuerza en cada caso.
+Ejemplo conceptual 8.3 ■ Mi dolor de espalda
+Una persona se dobla como se ilustra en la Nfigura 8.5a. Para la mayoría de nosotros, el
+centro de gravedad del cuerpo está en la región del pecho o cerca de éste. Cuando nos 
+inclinamos, esto origina un momento de fuerza que tiende a producir rotación en torno 
+a un eje en la base de la espina dorsal, y podría ocasionar una caída. ¿Por qué no nos 
+caemos cuando nos inclinamos de esta forma? (Considere sólo el torso superior.)
+Razonamiento y respuesta. De hecho, si éste fuera el único momento de fuerza que actua-
+ra, nos caeríamos al inclinarnos. Pero como no nos caemos, otra fuerza debe estar produ-
+ciendo un momento de fuerza tal que el momento de fuerza neto sea cero. ¿De dónde
+viene este momento de fuerza? Evidentemente del interior del cuerpo, a través de una
+complicada combinación de músculos de la espalda.
+Si la suma de vectores de todas las fuerzas musculares de la espalda se representa
+como la fuerza neta F
+b (como se indica en la figura 8.5b), se vería que los músculos de la
+espalda ejercen una fuerza que compensa el momento de fuerza del centro de gravedad.
+Ejercicio de refuerzo. Suponga que un individuo se inclina sosteniendo un pesado objeto
+que acababa de levantar. ¿Cómo afectaría esto su fuerza muscular de la espalda?
+Antes de estudiar la dinámica rotacional con momentos de fuerza netos y movi-
+mientos rotacionales, examinemos una situación en que se equilibran las fuerzas y los
+momentos de fuerza que actúan sobre un cuerpo.
+Equilibrio
+En general, equilibrio significa que las cosas están balanceadas o son estables. Esta de-
+finición se aplica en el sentido mecánico a las fuerzas y momentos de fuerza. Las fuer-
+zas no equilibradas producen aceleraciones traslacionales; pero las fuerzas equilibradas
+producen la condición que llamamos equilibrio traslacional. Asimismo, momentos de
+fuerza no equilibrados producen aceleraciones rotacionales; en tanto que momentos
+de fuerza equilibrados producen equilibrio rotacional.
+Según la primera ley de Newton del movimiento, cuando la suma de las fuerzas
+que actúan sobre un cuerpo es cero, éste permanece en reposo (estático) o en movimien-
+to con velocidad constante. En ambos casos, decimos que el cuerpo está en equilibrio
+traslacional. Dicho de otra manera, la condición para que haya equilibrio traslacionales que 
+la fuerza neta sobre un cuerpo sea cero; es decir, Debe ser evidente 
+que esta condición se satisface en las condiciones que se ilustran en la 
+▼ figura 8.6a y b.
+Las fuerzas cuyas líneas de acción pasan por el mismo punto se llaman fuerzas con-
+currentes. Si la suma vectorial de tales fuerzas es cero, como en la figura 8.6a y b, el
+cuerpo estará en equilibrio traslacional.
+Sin embargo, ¿qué pasa con la situación de la figura 8.6c? Ahí, pero las
+fuerzas opuestas harán que el objeto gire, así que evidentemente no estará en un es-
+tado de equilibrio estático. (Este par de fuerzas iguales y opuestas que no tienen la
+misma línea de acción se denomina simplemente par.) Así, la condición es
+una condición necesaria, pero no suficiente para el equilibrio estático.
+Puesto que es la condición para equilibrio traslacional, predeciría-
+mos (correctamente) que es la condición para equilibrio rotacional . Es 
+/H9270
+S
+neta = g /H9270
+S
+i = 0
+F
+S
+neta = gF
+S
+i = 0
+gF
+S
+i = 0
+gF
+S
+i = 0,
+F
+S
+neta = gF
+S
+i = 0.
+t = r/H11036F = rF =10.040 m21600 N2 = 24 m # N
+t = rF sen1120°2 =10.040 m21600 N210.8662 = 21 m # N
+F
+S
+r
+S
+r
+S
+a)
+b)
+Fb
+w
+CG
+Pivot
+▲ FIGURA 8.5 Momento de fuerza
+pero sin rotación a) Cuando un 
+individuo se inclina, su peso —que
+actúa a través de su centro de 
+gravedad— origina un momento 
+de fuerza antihorario que tiende 
+a producir rotación en torno a un
+eje en la base de la espina dorsal. 
+b) Sin embargo, los músculos de la
+espalda se combinan para producir
+una fuerza, F
+b, y el momento de
+fuerza horario resultante compensa
+la fuerza de gravedad.
+
+262 CAPÍTULO 8 Movimiento rotacional y equilibrio
+decir, si la suma de los momentos de fuerza que actúan sobre un objeto es cero, entonces
+el objeto está en equilibrio rotacional: permanece en reposo rotacional o gira con velo-
+cidad angular constante.
+Así, vemos que en realidad hay dos condiciones de equilibrio; juntas, definen el
+equilibrio mecánico. Se dice que un cuerpo está en equilibrio mecánico si se satisfacen
+las condiciones tanto para equilibrio traslacional como para el equilibrio rotacional:
+(para equilibrio traslacional) (8.3)
+(para equilibrio rotacional)
+Un cuerpo rígido en equilibrio mecánico podría estar en reposo o moviéndose
+con velocidad rectilínea o angular constante. Un ejemplo de esto último es un objeto
+que rueda sin resbalar sobre una superficie horizontal, si el centro de masa del obje-
+to tiene velocidad constante. Sin embargo, ésta es una condición ideal. Algo con 
+mayor interés práctico es el equilibrio estático, que es la condición que se da cuando
+un cuerpo rígido permanece en reposo, es decir, un cuerpo para el cual v /H110050 y /H9275/H110050.
+Hay muchos casos en los que no queremos que las cosas se muevan, y esta ausencia
+de movimiento sólo puede darse si se satisfacen las condiciones de equilibrio. Es muy
+tranquilizante saber, por ejemplo, que el puente que vamos a cruzar está en equilibrio
+estático, y no sujeto a movimiento traslacional o rotacional.
+Consideremos ejemplos de equilibrio estático traslacional y equilibrio estático ro-
+tacional por separado, y luego un ejemplo donde haya ambos.
+Ejemplo 8.4 ■ Equilibrio estático traslacional: sin aceleración 
+ni movimiento traslacionales
+Un cuadro cuelga inmóvil en una pared como se muestra en la Nfigura 8.7a. Si el cuadro
+tiene una masa de 3.0 kg, ¿cuál será la magnitud de las fuerzas de tensión que hay en los
+alambres?
+Razonamiento. Puesto que el cuadro no se mueve, debe estar en equilibrio estático, de
+manera que la aplicación de las condiciones de equilibrio mecánico debería dar ecuacio-
+nes para las tensiones. Vemos que todas las fuerzas (tensiones y peso) son concurrentes;
+es decir, sus líneas de acción pasan por un mismo punto, el clavo. Por ello, se satisface au-
+tomáticamente la condición para equilibrio rotacional con respecto a un eje de
+rotación en el clavo, los brazos de palanca (r
+#) de las fuerzas son cero, así que los momen-
+tos de fuerza son cero. Por lo tanto, sólo consideraremos el equilibrio traslacional.
+Solución.
+Dado: Encuentre: T1 y T2
+Resulta útil, en un diagrama de cuerpo libre, aislar las fuerzas que actúan sobre el cuadro,
+como hicimos en el capítulo 4 para resolver problemas de fuerzas (figura 8.7b). El diagra-
+ma indica que las fuerzas concurrentes actúan sobre el punto común. Hemos desplazado
+todos los vectores de fuerza a ese punto, que se toma como origen de los ejes de coorde-
+nadas. La fuerza de peso mg actúa hacia abajo.
+Con el sistema en equilibrio estático, la fuerza neta sobre el cuadro es cero; es decir,
+Por lo tanto, las sumas de los componentes rectangulares también son cero:
+y Entonces (utilizando /H11006para indicar dirección), tenemos
+(1)
+(2)
+Así, despejando T
+2 en la ecuación 1 (o T1 si lo desea),
+(3)T2 = T1¢ cos u1
+cos u2
+≤
+  g Fy
+ : +T1 sen u1 + T2 sen u2 - mg = 0
+  g Fx
+ : +T1 cos u1 - T2 cos u2 = 0
+g Fy = 0.g Fx = 0
+gF
+S
+i = 0.
+ m = 3.00 kg
+ u1 = 45°, u2 = 50°
+1 g /H9270
+S
+i = 02
+ /H9270
+S
+neto = g /H9270
+S
+i = 0
+ F
+S
+neta = gF
+S
+i = 0
+a)
+b)
+c)
+FF
+FF
+F
+F
+F
+▲ FIGURA 8.6 Equilibrio y fuerzas
+Las fuerzas cuyas líneas de acción
+pasan por el mismo punto se 
+consideran concurrentes. 
+Las resultantes de las fuerzas 
+concurrentes que actúan sobre 
+los objetos en a) y b) son cero, 
+y los objetos están en equilibrio,
+porque el momento de fuerza 
+neto y la fuerza neta son cero. 
+En c), el objeto está en equilibrio
+traslacional, pero sufrirá una 
+aceleración angular; por lo tanto, 
+no está en equilibrio rotacional.
+Exploración 13.2 Fricción estática 
+en una viga horizontal
+
+8.2 Momento de fuerza, equilibrio y estabilidad 263
+al sustituir en la ecuación 2, con un poco de álgebra, tenemos
+y
+Por lo tanto, de la ecuación (2),
+Ejercicio de refuerzo. Analice la situación que se presentaría en la figura 8.7, si los alam-
+bres se acortaran a manera de reducir igualmente ambos ángulos. Lleve su análisis al lí-
+mite en que los ángulos se acerquen a cero. ¿La respuesta es realista?
+Como ya señalamos, el momento de fuerza es un vector y por lo tanto tiene di-
+rección. De forma similar a como hicimos en el caso del movimiento rectilíneo (capí-
+tulo 2), donde usamos signos más y menos para expresar direcciones opuestas (por
+ejemplo, /H11001x y /H11002x), designamos las direcciones de momento de fuerza como más o
+menos, dependiendo de la aceleración rotacional que tienden a producir. Tomamos
+las “direcciones” de rotación como horaria o antihoraria en torno al eje de rotación.
+Tomaremos como positivo ( /H11001) un momento de fuerza que tiende a producir una ro-
+tación antihoraria; y como negativo ( /H11002), uno que tiende a producir una rotación 
+horaria. (Véase la regla de la mano derecha en la sección 7.2.) Para ilustrar esto, apli-
+quemos nuestra convención a la situación del ejemplo 8.5.
+(Puesto que consideraremos sólo casos de rotación en torno a ejes fijos, alrededor
+de los cuales sólo hay dos direcciones posibles de momento de fuerza, en los ejemplos
+se utilizará la notación de signo-magnitud para los vectores de momentos de fuerza,
+de manera similar a como se hizo con el movimiento en una dimensión que se estudió
+en el capítulo 2.)
+T2 = T1¢ cos u1
+cos u2
+≤ = 19.0 Na 0.707
+0.643b = 20.9 N
+T1 = 29.4 N
+1.55 = 19.0 N
+= T1c0.707 + a 0.707
+0.643b10.7662d -13.00 kg219.80 m>s22 = 0
+T1csen 45° + ¢ cos 45°
+cos 50°≤ sen 50°d - mg
+u1 /H1100545° u2 /H1100550°
+T2T1
+a)
+mg
+50° 45°
+T1 senu1
+T1 cosu1 T2 cosu2 
+T2 senu2
+Diagrama de cuerpo libre
+del cuadro
+b)
+T2
+T1
+> FIGURA 8.7 Equilibrio estático
+traslacional a) Puesto que el 
+cuadro cuelga inmóvil de la pared,
+la suma de las fuerzas que actúan
+sobre él debe ser cero. Las fuerzas
+son concurrentes, pues sus líneas 
+de acción pasan un mismo punto, 
+el clavo. b) En el diagrama de 
+cuerpo libre, suponemos que 
+todas las fuerzas actúan sobre 
+un mismo punto (el clavo). 
+Hemos desplazado T
+l y T2 a este
+punto por conveniencia; pero 
+debemos recordar que las fuerzas
+actúan sobre el cuadro, no sobre 
+el clavo. Véase el ejemplo 8.4.
+Ilustración 13.4 El problema del
+trampolín
+
+264 CAPÍTULO 8 Movimiento rotacional y equilibrio
+Ejemplo 8.5 ■ Equilibrio estático rotacional: sin movimiento rotacional
+Tres masas están suspendidas de una regla de un metro como se muestra en la ▼ figura
+8.8a. ¿Qué masa debe colgarse a la derecha para que el sistema esté en equilibrio estático?
+(Ignore la masa de la regla.)
+Razonamiento. Como muestra el diagrama de cuerpo libre (figura 8.8b), la condición para
+equilibrio traslacional se satisfará cuando la fuerza normal hacia arriba equilibre los pe-
+sos hacia abajo, siempre que la regla esté horizontal. Sin embargo, es incógnita si no 
+conocemos m
+3, así que la aplicación de la condición para equilibrio rotacional deberá 
+darnos el valor requerido de m3. (Note que los brazos de palanca se miden desde el punto 
+pivote en el centro de la regla.)
+Solución. Por la figura, tenemos
+Dado: Encuentre: m3 (masa desconocida)
+Dado que la condición para equilibrio traslacional se satisface (no hay en
+la dirección y), N /H11002Mg /H110050, o bien, N /H11005Mg, donde M es la masa total. Esto es cierto sea
+cual fuere la masa total, es decir, no importa cuánta masa m3 agreguemos. Sin embargo, 
+a menos que coloquemos la masa correcta m3 a la derecha, la regla experimentará un 
+momento de fuerza neto y comenzará a girar.
+Vemos que las masas de la izquierda producen momentos de fuerza que tenderían a
+hacer girar la regla en sentido antihorario, y la masa de la derecha produce un momento de
+fuerza que tendería a girarla en el otro sentido. Aplicamos la condición para equilibrio rota-
+cional obteniendo la suma de los momentos de fuerza en torno a un eje. Tomaremos como
+eje el centro de la regla en la posición de 50 cm (punto A en la figura 8.8b). Luego, observan-
+do que N pasa por el eje de rotación (r
+# /H110050) y no produce momento de fuerza, tenemos
+(utilizando nuestra convención de signo para 
+vectores de momento)
+ = r11m1
+ g2 + r21m2
+ g2 - r31m3
+ g2 = 0
+ gti
+ : t1 +t2 +t3 =+ r1
+ F1 + r2
+ F2 - r3
+ F3
+F
+S
+neta1 gF
+S
+i = 02
+ r3 = 35 cm
+ r2 = 30 cm
+ m2 = 75 g
+ r1 = 50 cm
+ m1 = 25 g
+N
+S
+N
+S
+r1
+r2 r3
+m2
+m1 m3
+?
+0 20 cm 50 cm 85 cm 100 cm
+75 g25 g
+a)
+y
+x
+Convención de signos
+m1g
+A
+Diagrama de cuerpo libre de la regla
+b)
+N
+m2g
+m3g
+/H9270 positiva/H9270 negativaN FIGURA 8.8 Equilibrio estático
+rotacional Para que la regla esté 
+en equilibrio rotacional, la suma 
+de los momentos de fuerza que
+actúan en torno a cualquier eje
+elegido debe ser cero. (La masa de
+la regla se considera insignificante.)
+Véase el ejemplo 8.5.
+Exploración 13.3 Carga distribuida
+Ilustración 13.3 La fuerza y el momento
+de fuerza para el equilibrio
+Exploración 13.1 Equilibrio de un 
+objeto móvil
+
+8.2 Momento de fuerza, equilibrio y estabilidad 265
+Como las g se cancelan y despejamos m3,
+Aquí no tiene caso convertir a unidades estándar. (Despreciamos la masa del metro, pero
+si la regla es uniforme su masa no afectará el equilibrio, siempre que el punto pivote esté
+en la marca de 50 cm. ¿Por qué?)
+Ejercicio de refuerzo. Podríamos haber tomado cualquier punto de la regla como eje de
+rotación. Esto es, si un sistema está en equilibrio estático rotacional, se cumple la condi-
+ción para cualquier eje de rotación. Demuestre que esto es cierto para el sistema
+del ejemplo tomando como eje de rotación el extremo izquierdo de la regla (x /H110050).
+En general, para resolver un problema de estática, es preciso escribir explícitamente
+las condiciones para equilibrio tanto traslacional como rotacional. El ejemplo 8.6 ilus-
+tra esto.
+Ejemplo 8.6 ■ Equilibrio estático: ni traslación ni rotación
+Una escalera con una masa de 15 kg descansa contra una pared lisa ( Nfigura 8.9a). Un
+hombre con una masa de 78 kg está parado en la escalera como se muestra en la figura.
+¿Qué fuerza de fricción debe actuar sobre la base de la escalera para que no resbale?
+Razonamiento. Aquí actúan diversas fuerzas y momentos de fuerza. La escalera no resba-
+lará en tanto se satisfagan las condiciones para equilibrio estático. Si igualamos a cero tan-
+to la sumatoria de las fuerzas como la de los momentos de fuerza, despejaremos la fuerza
+de fricción necesaria. También veremos que, si elegimos un eje de rotación conveniente,
+tal que uno o más /H9270sean cero en la sumatoria de momentos de fuerza, se simplifica la
+ecuación l momento de fuerza.
+Solución.
+Dado: Encuentre: fs (fuerza de fricción estática)
+Distancias dadas en la figura
+Como la pared es lisa, la fricción entre ella y la escalera es insignificante, y sólo la fuerza
+de reacción normal de la pared, Nw, actuará sobre la escalera en este punto (figura 8.9b).
+Al aplicar las condiciones para equilibrio estático, elegimos cualquier eje de rotación
+para la condición rotacional. (Las condiciones deben cumplirse para todas las partes de
+un sistema en equilibrio estático; es decir, no puede haber movimiento en ninguna parte
+del sistema.) Vemos que si colocamos el eje de rotación en el extremo de la escalera que to-
+ca el suelo, eliminaremos los momentos de fuerza debidos a f
+s y Ng, porque los brazos de
+palanca son cero. Entonces, escribimos tres ecuaciones (utilizando mg en vez de w):
+y
+Consideramos que el peso de la escalera está concentrado en su centro de gravedad. Si des-
+pejamos Nw de la tercera ecuación y sustituimos los valores dados para las masas y distan-
+cias, tendremos
+Entonces, por la primera ecuación,
+Ejercicio de refuerzo. En este ejemplo, ¿la fuerza de fricción entre la escalera y el suelo
+(llamémosla fs1) sería la misma si hubiera fricción entre la pared y la escalera (llamémosla
+fs2)? Justifique su respuesta.
+fs = Nw = 2.4 * 102 N
+ =
+115 kg219.8 m>s2211.0 m2 +178 kg219.8 m>s2211.6 m2
+5.6 m = 2.4 * 102 N
+ Nw =
+1m/
+ 
+ g2x1 +1mm
+ g2x2
+y
+gti
+ : 1m/
+ g2x1 +1mm
+ g2x2 +1-Nw
+ y2 = 0
+  g Fy
+ : Ng - mm
+ g - m/
+ 
+ g = 0
+  g Fx
+ : Nw - fs = 0
+ mm = 78 kg
+ m/ = 15 kg
+gti = 0
+m3 = m1
+ r1 + m2
+ r2
+r3
+=
+125 g2150 cm2 +175 g2130 cm2
+35 cm = 100 g
+y = 5.6 m
+x1 = 1.0 m
+x2 = 1.6 m
+a)
+Diagrama de cuerpo libre
+de la escalera
+b)
+fs
+fs
+Nw
+Nw
+Ng
+Ng
+wm
+w
+wm
+w
+▲ FIGURA 8.9 Equilibrio estático
+El hombre necesita que la escalera
+esté en equilibrio estático; es decir,
+tanto la suma de las fuerzas como 
+la de los momentos de fuerza deben
+ser cero. Véase el ejemplo 8.6.
+
+a)
+T sen uu
+m
+mg
+b)
+TT
+266 CAPÍTULO 8 Movimiento rotacional y equilibrio
+Nota: equilibrio estable: un
+momento de fuerza restaurador.
+Sugerencia para resolver problemas
+Como ilustran los ejemplos anteriores, al resolver problemas de equilibrio estático con-
+viene seguir este procedimiento:
+1. Dibuje un diagrama espacial del problema.
+2. Dibuje un diagrama de cuerpo libre, mostrando y rotulando todas las fuerzas ex-
+ternas y, si es necesario, descomponiéndolas en componentes x y y.
+3. Aplique las condiciones de equilibrio. Sumatoria de fuerzas: general-
+mente en forma de componentes; y Sumatoria de momentos 
+de fuerza: Conviene seleccionar un eje de rotación que reduzca lo más 
+posible el número de términos. Usar convenciones de signo /H11006tanto para y 
+4. Despeje las cantidades desconocidas.
+Ejemplo conceptual 8.7 ■ No hay momento de fuerza neto: 
+la cruz de hierro
+La posición estática de gimnasia conocida como “cruz de hierro” es una de las más ago-
+tadoras y difíciles de realizar (>figura 8.10a). ¿Qué la hace tan difícil?
+Razonamiento y respuesta. El gimnasta debe ser extremadamente fuerte para lograr y
+mantener tal posición estática, ya que se requiere de una enorme fuerza muscular para
+suspender el cuerpo de las argollas. Esto se puede mostrar considerando una situación
+parecida con un peso suspendido de una cuerda atada por los dos extremos (figura
+8.10b). Cuanto más se acerque la cuerda (o los brazos del gimnasta) a la posición horizon-
+tal, mayor fuerza se necesitará para mantener el peso suspendido.
+A partir de la figura, se observa que los componentes verticales de la fuerza de ten-
+sión (T) en la cuerda deben equilibrar la fuerza del peso hacia abajo. ( T es análoga a las
+fuerzas musculares del brazo.) Esto es,
+2T sen /H9258/H11005mg
+Note que para que la cuerda (o los brazos del gimnasta) tome una posición horizontal, el
+ángulo debe aproximarse a cero ( /H9258→ 0). Entonces, ¿qué le sucede a la fuerza de tensión
+T sen /H9258? Conforme /H9258→ 0, entonces T → /H11009, haciendo muy difícil lograr un /H9258pequeño, y
+haciendo imposible que la cuerda y los brazos del gimnasta tomen una posición perfec-
+tamente horizontal.
+Ejercicio de refuerzo. ¿Cuál es la posición que requiere menor tensión para un gimnasta
+en las argollas?
+Estabilidad y centro de gravedad
+El equilibrio de una partícula o un cuerpo rígido puede ser estable o inestable en un
+campo gravitacional. En el caso de los cuerpos rígidos, conviene analizar estas catego-
+rías de equilibrios en términos del centro de gravedad del cuerpo. En el capítulo 6 vi-
+mos que el centro de gravedades el punto en el cual puede considerarse que actúa todo
+el peso de un objeto, como si el objeto fuera una partícula. Cuando la aceleración debi-
+da a la gravedad es constante, coinciden el centro de gravedad y el centro de masa.
+Si un objeto está en equilibrio estable, cualquier desplazamiento pequeño origina
+una fuerza o momento de fuerza restaurador, que tiende a regresar el objeto a su posi-
+ción de equilibrio original. Como se ilustra en la 
+Nfigura 8.11a, una pelota dentro de un
+tazón está en equilibrio estable. Asimismo, el centro de gravedad de un cuerpo exten-
+dido, a la derecha, está en equilibrio estable. Cualquier desplazamiento pequeño eleva
+el centro de gravedad, y una fuerza gravitacional restauradora tiende a regresarlo a la
+posición de energía potencial mínima. Dicha fuerza produce realmente un momento
+de fuerza restaurador que proviene de un componente del peso y tiende a girar el ob-
+jeto en torno a un punto pivote para regresarlo a su posición original.
+Si un objeto está en equilibrio inestable, cualquier desplazamiento pequeño res-
+pecto al equilibrio produce un momento de fuerza que tiende a girar el objeto aleján-
+dolo de su posición de equilibrio. Esta situación se ilustra en la figura 8.11b. Observe
+que el centro de gravedad del objeto está en la cúspide de un tazón de energía poten-
+cial invertido, es decir, la energía potencial es máxima en este caso. Los desplazamien-
+tos o perturbaciones pequeñas afectan bastante los objetos en equilibrio inestable: no
+se necesita mucho para lograr que un objeto así cambie de posición. 
+/H9270
+S
+.F
+!g /H9270
+S
+i = 0.
+g Fy = 0.g Fx = 0
+gF
+S
+i = 0,
+Nota: equilibrio inestable: un
+momento de fuerza que derriba 
+la condición del equilibrio estable.
+▲ FIGURA 8.10 La cruz de hierro
+a) La posición gimnástica de la 
+cruz de hierro es una de las más
+agotadoras y difíciles de lograr. 
+b) Una situación análoga de un
+peso suspendido de una cuerda
+atada por los dos extremos. 
+Véase el ejemplo conceptual 8.7.
+
+8.2 Momento de fuerza, equilibrio y estabilidad 267
+Componente
+de fuerza
+restaurada
+Pelota
+desplazada
+Punto pivote
+CG
+a)
+Desplazamiento del
+componente
+de fuerza
+Pelota
+desplazada
+CG
+b)
+Punto pivote
+> FIGURA 8.11 Equilibrios estable
+e inestable a) Cuando un objeto
+está en equilibrio estable, cualquier
+pequeño desplazamiento respecto 
+a la posición de equilibrio produce
+una fuerza o momento de fuerza
+que tiende a regresar al objeto a esa
+posición. Una pelota en un tazón
+(izquierda) regresa al fondo si se 
+le desplaza. De forma similar, 
+puede considerarse que el centro 
+de gravedad (CG) de un objeto 
+extendido en equilibrio estable 
+(derecha) está en un “tazón” de
+energía potencial: un desplaza-
+miento pequeño eleva el CG y 
+aumenta la energía potencial del
+objeto. b) Si un objeto está en 
+equilibrio inestable, cualquier 
+desplazamiento pequeño respecto 
+a su posición de equilibrio produce
+una fuerza o momento de fuerza
+que tiende a alejar más al objeto 
+de esa posición. La pelota sobre 
+un tazón volteado (izquierda) está
+en equilibrio inestable. En el caso 
+de un objeto extendido (derecha),
+podría pensarse que el CG está 
+en un tazón de energía potencial
+volteado: un pequeño desplaza-
+miento baja el CG y reduce la 
+energía potencial del objeto.
+En cambio, aunque el desplazamiento angular de un objeto en equilibrio estable
+sea considerable, el objeto regresará a su posición de equilibrio. Ésta es una forma de
+resumir la condición de equilibrio estable:
+Un objeto está en equilibrio estable si, después de un desplazamiento pequeño,
+su centro de gravedad sigue estando arriba de la base de soporte original del
+objeto y dentro de ella. Es decir, la línea de acción del peso en el centro de gra-
+vedad interseca la base original de soporte.
+En un caso así, siempre habrá un momento de fuerza gravitacional restaurador (
+▼ fi-
+gura 8.12a). Sin embargo, cuando el centro de gravedad o de masa queda fuera de la
+base de soporte, el objeto se desploma debido a un momento de fuerza gravitacional
+que lo hace girar alejándolo de su posición de equilibrio (figura 8.12b).
+CG
+CG
+Balanceado en una
+base de soporte
+ancha
+Una perturbación produce
+un momento de fuerza
+restaurador
+Una perturbación produce
+el desplazamiento del
+momento de fuerza
+Balanceado cuidadosamente
+en una base de soporte
+angosta (punto)
+a) Equilibrio estable b) Equilibrio inestable
+▼ FIGURA 8.12 Ejemplos de equilibrios estable e inestable a) Cuando el centro de 
+gravedad está arriba de la base de soporte de un objeto y dentro de ella, el objeto está 
+en equilibrio estable. (Hay un momento de fuerza restaurador.) Note que la línea de 
+acción del peso del centro de gravedad (CG) interseca la base de soporte original después
+del desplazamiento. b) Si el centro de gravedad queda fuera de la base de soporte, o la 
+línea de acción del peso no interseca la base de soporte original, el objeto es inestable. 
+(Hay un momento de fuerza desplazador.)
+
+268 CAPÍTULO 8 Movimiento rotacional y equilibrio
+a) b)
+N FIGURA 8.13 Estable e inestable a) Los autos de carreras son muy estables por su base
+rodante ancha y su centro de gravedad bajo. b) La base de soporte del acróbata es muy 
+angosta: el área de contacto entre las cabezas. En tanto su centro de gravedad esté sobre
+esta área, estará en equilibrio; pero un desplazamiento de apenas unos centímetros 
+bastaría para que se desplomara. (En la sección 8.3 quedará más claro por qué extiende 
+los brazos y piernas.)
+Por lo tanto, los cuerpos rígidos con base ancha y centro de gravedad bajo son los
+más estables y los menos proclives a volcarse. Esta relación es evidente en el diseño de
+los autos de carreras, los cuales tienen una base rodante ancha y un centro de grave-
+dad cercano al suelo (
+▲ figura 8.13). Las vagonetas, en cambio, pueden volcarse más fá-
+cilmente. ¿Por qué?
+La ubicación del centro de gravedad del cuerpo humano afecta ciertas capacida-
+des físicas. Por ejemplo, las mujeres generalmente pueden encorvarse y tocar las pun-
+tas de sus pies, o poner las palmas de sus manos en el piso, más fácilmente que los
+hombres, quienes suelen caerse al intentarlo. En promedio, el centro de gravedad de
+un hombre (hombros más anchos) está más alto que el de una mujer (pelvis más an-
+cha), de manera que es más probable que el centro de gravedad de un hombre esté fue-
+ra de su base de soporte cuando se inclina. En el siguiente ejemplo conceptual se da
+otro ejemplo real de equilibrio y estabilidad.
+Ejemplo conceptual 8.8 ■ El desafío del centro de gravedad
+Una estudiante plantea un desafío a un compañero. Ella asegura que es capaz de reali-
+zar una simple proeza física que él no puede. Para demostrarlo, coloca una silla de res-
+paldo recto (como la mayoría de las sillas de cocina) con el respaldo contra la pared. Él
+debe colocarse de cara a la pared junto a la silla, de manera que las puntas de sus pies
+toquen la pared, y luego debe dar dos pasos hacia atrás. (Esto es, debe llevar la punta de
+uno de sus pies detrás del talón del otro dos veces y terminar con sus pies juntos, reti-
+rado de la pared.) A continuación deberá inclinarse hacia delante y colocar la parte su-
+perior de su cabeza o coronilla contra la pared, alcanzar la silla, ponerla directamente
+frente a él y colocar una mano sobre cada lado de la silla (
+>figura 8.14a). Por último, 
+sin mover sus pies, debe incorporarse mientras levanta la silla. La estudiante hace una
+demostración de esto y fácilmente se incorpora.
+La mayoría de los hombres no pueden realizar esta acción, aunque la mayoría de las
+mujeres sí. ¿Por qué?
+Razonamiento y respuesta. Cuando el estudiante se inclina y trata de levantar la silla, es-
+tá en equilibrio inestable (aunque por fortuna no se cae). Esto es, el centro de gravedad
+del sistema que constituyen el estudiante y la silla queda fuera (en frente) de la base de
+apoyo del sistema: sus pies. Los hombres suelen tener un centro de gravedad más alto (a
+causa de sus hombros más anchos y su pelvis más estrecha) que las mujeres (que tienen
+una pelvis más ancha). Cuando la joven se inclina y levanta la silla, el centro de gravedad
+del sistema que constituyen ella y la silla no se localiza fuera de la base de apoyo del sis-
+tema (sus pies). Ella se encuentra en equilibrio estable, de manera que es capaz de incor-
+porarse a partir de la posición inclinada mientras levanta la silla.
+Pero, ¡un momento! El joven aplica la física y mueve la silla hacia atrás (figura 8.14b).
+El centro de gravedad combinado ahora se encuentra sobre su base de apoyo, y logra es-
+tar de pie mientras sostiene la silla.
+Ejercicio de refuerzo. ¿Por qué algunos hombres son capaces de incorporarse mientras
+levantan la silla y algunas mujeres no lo logran?
+▼ FIGURA 8.14 El desafío
+a) El estudiante se inclina hacia 
+delante con su cabeza contra la 
+pared. Debe levantar la silla e 
+incorporarse, pero no lo logra. 
+Sin embargo, la joven puede 
+realizar esta sencilla hazaña. 
+b) Pero, un momento. Él aplica la 
+física, mueve la silla hacia atrás y
+logra incorporarse. ¿Por qué?
+b)
+a)
+
+8.2 Momento de fuerza, equilibrio y estabilidad 269
+▲ FIGURA 8.15 ¡Estabilícenla!
+a) La Torre Inclinada de Pisa, aunque
+inclinada, está en equilibrio estable.
+¿Por qué? b) Se usaron toneladas 
+de plomo como contrapeso para
+ayudar a corregir la inclinación 
+de la torre.
+La Torre Inclinada de Pisa (Nfigura 8.15a) es otro ejemplo clásico de equilibrio, en
+el cual supuestamente Galileo realizó sus experimentos “de caída libre”. (Véase la sec-
+ción A fondo 2.1 en la página 51 del capítulo 2.) La torre comenzó a inclinarse antes de
+que terminaran de construirla en 1350, debido a lo blando del subsuelo. En 1990 tenía
+una inclinación de 5.5° respecto a la vertical (unos 5 m, o 17 pies, en la parte más alta)
+y un incremento promedio anual de la inclinación de 1.2 mm.
+Se han realizado intentos para detener el aumento en la inclinación. Se le inyectó
+cemento debajo de la base en la década de 1930; pero la inclinación siguió aumentan-
+do. En la década de 1990, se tomaron medidas más significativas. Se sujetó con cables
+por la parte trasera y se le colocó encima un contrapeso (figura 8.15b). Además, se le
+hicieron perforaciones diagonalmente debajo del suelo sobre la parte elevada, para
+crear cavidades que permitieran remover el suelo de ahí. La torre corrigió aproxima-
+damente 5° de su inclinación, es decir, tuvo un corrimiento de cerca de 40 cm en la par-
+te superior. La moraleja de la historia: mantenga el centro de gravedad arriba de la
+base de soporte.
+Ejemplo 8.9 ■ Apilar ladrillos: centro de gravedad
+Ladrillos uniformes idénticos de 20 cm de longitud se apilan de modo que 4.0 cm de cada
+ladrillo se extienda más allá del ladrillo que está abajo, como se muestra en la Nfigura 8.16a.
+¿Cuántos ladrillos podrán apilarse de esta forma antes de que el montón se derrumbe?
+Razonamiento. Al añadirse cada ladrillo, el centro de masa (o de gravedad) del montón
+se desplaza hacia la derecha. El montón será estable siempre que el centro de masa (CM)
+combinado esté sobre la base de soporte: el ladrillo inferior. Todos los ladrillos tienen la
+misma masa, y el centro de masa de cada uno está en su punto medio. Por lo tanto, hay
+que calcular la posición horizontal del CM del montón a medida que se añaden ladrillos,
+hasta que el CM quede fuera de la base. En el capítulo 6 se analizó la ubicación del CM
+(véase la ecuación 6.19).
+Solución.
+Dado: longitud del ladrillo /H1100520 cm Encuentre: número máximo de ladrillos 
+estables desplazamiento 
+de cada ladrillo /H110054.0 cm
+Si tomamos como el origen el centro del ladrillo base, vemos que la coordenada horizontal
+del centro de masa (o centro de gravedad) de los dos primeros ladrillos del montón está da-
+da por la ecuación 6.19, donde m
+1 /H11005m2 /H11005m y x2 es el desplazamiento del segundo ladrillo:
+Las masas de los ladrillos se cancelan (porque son iguales). Para tres ladrillos,
+Para cuatro ladrillos,
+y así sucesivamente.
+Esta serie de resultados muestra que el centro de masa del montón se mueve hori-
+zontalmente 2.0 cm cada vez que se agrega un ladrillo. Para un montón de seis ladrillos,
+el centro de masa está a 10 cm del origen, o sea, directamente sobre el borde del ladrillo
+base (2.0 cm /H110035 ladrillos añadidos /H1100510 cm, que es la mitad de la longitud del ladrillo ba-
+se), así que el montón está justo en equilibrio inestable. Es posible que el montón no se 
+derrumbe si el sexto ladrillo se coloca con muchísimo cuidado, pero es dudoso que tal
+cuestión sea factible en la práctica. Un séptimo ladrillo definitivamente tumbaría el mon-
+tón. (Como se observa en la figura 8.16b, puede intentarlo usted mismo al apilar libros.
+¡No deje que el bibliotecario lo vea!)
+Ejercicio de refuerzo. Si los ladrillos de este ejemplo se apilan de modo que, alternada-
+mente, 4.0 cm y 6.0 cm se extiendan más allá del ladrillo anterior, ¿cuántos ladrillos po-
+drán apilarse antes de que el montón se derrumbe?
+Se presenta otro caso de estabilidad en la sección A fondo 8.1: Estabilidad en ac-
+ción, en la página 271.
+XCM4 =
+m1x1 + x2 + x3 + x42
+4m = 0 + 4.0 cm + 8.0 cm + 12.0 cm
+4 = 6.0 cm
+XCM3 =
+m1x1 + x2 + x32
+3m = 0 + 4.0 cm + 8.0 cm
+3 = 4.0 cm
+XCM2 = mx1 + mx2
+m + m =
+m1x1 + x22
+2m = x1 + x2
+2 = 0 + 4.0 cm
+2 = 2.0 cm
+4.0 cm 
+20 cm
+  x2 x3 x4x1= 0
+1
+2
+3
+4
+▲ FIGURA 8.16 ¡A apilar!
+¿Cuántos ladrillos se pueden apilar
+así antes de que se caiga el montón?
+Véase el ejemplo 8.7. 
+a)
+b)
+
+tneto  =  r⊥Fneta  =  rF⊥  =  mr2a
+uur⊥ F⊥
+Línea de
+acción
+Eje
+Fr
+▲ FIGURA 8.17 Momento de fuerza
+sobre una partícula La magnitud
+del momento de fuerza sobre una
+partícula de masa m es /H9270/H11005mr
+2a.
+270 CAPÍTULO 8 Movimiento rotacional y equilibrio
+8.3 Dinámica rotacional
+OBJETIVOS: a) Describir el momento de inercia de un cuerpo rígido y b) aplicar la 
+forma rotacional de la segunda ley de Newton a situaciones físicas.
+Momento de inercia
+El momento de fuerza es el análogo rotacional de la fuerza en un movimiento rectilí-
+neo, y un momento de fuerza neto produce movimiento rotacional. Para analizar esta
+relación, considere una fuerza neta constante que actúa sobre una partícula de masa
+m en torno a un eje dado (
+>figura 8.17). La magnitud del momento de fuerza sobre la
+partícula es
+momento de fuerza sobre una partícula (8.4)
+donde a# /H11005at /H11005r/H9251es la aceleración tangencial (at, ecuación 7.13). Para analizar la ro-
+tación de un cuerpo rígido en torno a un eje fijo, aplicamos esta ecuación a cada par-
+tícula y obtener la sumatoria de los resultados en todo el cuerpo ( n partículas), para
+calcular el momento de fuerza total. Puesto que todas las partículas de un cuerpo rígi-
+do en rotación tienen la misma aceleración angular, podemos sumar simplemente las
+magnitudes de todos los momentos de fuerza individuales:
+(8.5)
+Sin embargo, en un cuerpo rígido, las masas (m
+i) y las distancias al eje de rotación
+(ri) no cambian. Por lo tanto, la cantidad entre paréntesis en la ecuación 8.5 es constan-
+te, y se denomina momento de inercia, I (para un eje dado):
+momento de inercia (8.6)
+Unidad SI de momento de inercia: kilogramo-metro al cuadrado (kg · m2)
+Nos conviene escribir la magnitud del momento de fuerza neto como:
+momento de fuerza neto sobre un cuerpo rígido (8.7)
+Ésta es la forma rotacional de la segunda ley de Newton ( en forma vectorial). Re-
+cordemos que, al igual que las fuerzas netas, se requieren momentos de fuerza netos
+(/H9270neto) para producir aceleraciones angulares.
+Como podría inferirse al comparar la forma rotacional de la segunda ley de New-
+ton con la forma traslacional el momento de inercia I es una medida de 
+la inercia rotacional: la tendencia de un cuerpo a resistir los cambios en su movimiento
+rotacional. Aunque I es constante para un cuerpo rígido y es el análogo rotacional de la
+masa, debemos tener presente que, a diferencia de la masa de una partícula, el mo-
+mento de inercia de un cuerpo se refiere a un eje específico y puede tener diferente va-
+lor para diferentes ejes.
+El momento de inercia también depende de la distribución de masa del cuerpo re-
+lativa a su eje de rotación. Es más fácil (es decir, se requiere un momento de fuerza me-
+nor) impartir a un objeto una aceleración angular en torno a ciertos ejes que en torno a
+otros. El ejemplo que sigue ilustra esto.
+Ejemplo 8.10 ■ Inercia rotacional: distribución de masa y eje de rotación
+Calcule el momento de inercia en torno al eje indicada para cada una de las configuracio-
+nes unidimensionales de mancuerna de la >figura 8.18. (Considere insignificante la masa
+de la barra conectora y exprese su respuesta con tres cifras significativas para efectuar
+comparaciones.)
+Razonamiento. Ésta es una aplicación directa de la ecuación 8.6 a casos con masas y dis-
+tancias diferentes. Mostrará que el momento de inercia de un objeto depende del eje de
+rotación y de la distribución de masa relativa al eje de rotación. La suma de I sólo incluirá
+dos términos (dos masas).
+Solución.
+Dado: Valores de m y r de la figura Encuentre: I = g mi
+ ri
+2
+1F
+S
+neta = ma
+S
+2,
+/H9270
+S
+neto = IA
+S
+,
+tneto = Ia
+I = g mi
+ ri
+2
+ gtneto =¢ a  mi
+ ri
+2≤a
+ =1m1
+ r1
+2 + m2
+ r2
+2 + m3
+ r3
+2 + Á + mn
+ rn
+22a
+ = m1
+ r2
+1
+ a + m2
+ 
+2r2
+ a + m3
+ r2
+3
+ a + Á + mn
+ r2
+n
+ a
+ tneto = gti =t1 +t2 +t3 + Á +tn
+tneto = r/H11036Fneta = rF/H11036= rma/H11036= mr2
+ a
+a)  m1 = m2 = 30 kg
+      x1 = x2 = 0.50 m
+b)  m1 = 40 kg, m2 = 10 kg
+      x1 = x2 = 0.50 m
+c)  m1 = m2 = 30 kg
+      x1 = x2 = 1.5 m
+m1 m2
+Eje
+x2 x1 
+m1 m2
+Eje
+d)  m1 = m2 = 30 kg
+      x1 = 0, x2 = 3.0 m
+e)  m1 = 40 kg, m2 = 10 kg
+      x1 = 0, x2 = 3.0 m
+x2 
+x1 = 0
+▲ FIGURA 8.18 Momento de inercia
+El momento de inercia depende de
+la distribución de la masa relativa 
+a un eje de rotación dado y, en 
+general, tiene un valor distinto 
+para cada eje. Esta diferencia refleja
+el hecho de que los objetos giran
+más o menos fácilmente en torno 
+a ciertos ejes. Véase el ejemplo 8.10.
+
+8.3 Dinámica rotacional 271
+8.1 Estabilidad en acción
+Cuando paseamos en una bicicleta y damos vuelta en una super-
+ficie plana, instintivamente nos inclinamos hacia el centro de la
+curva (figura 1). ¿Por qué? Parecería que, si nos inclinamos en
+vez de mantenernos verticales, aumentará la probabilidad de
+caernos. No obstante, la inclinación en realidad aumenta la esta-
+bilidad. Todo es cuestión de momentos de fuerza.
+Cuando un vehículo toma una curva circular horizontal, se
+requiere una fuerza centrípeta para mantener al vehículo en el 
+camino, como vimos en el capítulo 7. Esta fuerza generalmente es
+la fuerza de fricción estática entre los neumáticos y el pavimen-
+to. Como se ilustra en la 
+Nfigura 2a, la fuerza de reacción del
+suelo sobre la bicicleta proporciona la fuerza centrípeta requerida
+para tomar la curva, y la fuerza normal 
+Suponga que, cuando actúan estas fuerzas, el ciclista inten-
+ta tomar la curva manteniéndose vertical, como en la figura 2a.
+Vemos que la línea de acción de no pasa por el centro de gra-
+vedad del sistema (indicado con un punto). Como el eje de rota-
+ción pasa por el centro de gravedad, habrá un momento de
+fuerza antihorario que tenderá a hacer girar la bicicleta, de tal
+R
+S
+1R
+S
+y = N
+S
+2.1R
+S
+x = F
+S
+c = f
+S
+s2
+R
+S
+manera que las ruedas resbalen hacia adentro. En cambio, si el ci-
+clista se inclina hacia adentro con el ángulo adecuado (figura 2b),
+tanto la línea de acción de como el peso pasarán por el centro
+de gravedad, y no habrá inestabilidad rotacional (como bien sa-
+bía el caballero de la bicicleta).
+No obstante, sigue habiendo un momento de fuerza sobre el
+ciclista inclinado. Efectivamente, cuando se inclina hacia el centro
+de la curva, su peso produce un momento de fuerza en torno a un
+eje que pasa por el punto de contacto con el suelo. Este momento
+de fuerza, junto con el giro del manubrio, hace que la bicicleta dé
+vuelta. Si la bicicleta no se estuviera moviendo, habría rotación en
+torno a este eje, y la bicicleta y el ciclista se caerían.
+La necesidad de inclinarse en las curvas es muy evidente
+en las carreras de ciclismo y de motociclismo en pistas horizon-
+tales. Las cosas pueden facilitarse para los competidores si la
+pista se peralta de manera que ofrezca una inclinación natural
+(sección 7.3).
+R
+S
+A FONDO
+Fc = fs
+a) b)
+u
+w
+w
+R RN N
+Fc = fs
+FIGURA 2 Da la vuelta Véase el texto para una descripción.  
+FIGURA 1 Inclinarse contra la curva Al tomar una curva 
+o dar vuelta, el ciclista debe inclinarse hacia el centro de la 
+curva. (Este ciclista podría haber explicado el porqué.)  
+Con 
+a)
+b)
+c)
+d)
+e)
+Este ejemplo muestra claramente que el momento de inercia depende de la masa y de
+su distribución relativa a un eje específico de rotación. En general, el momento de inercia
+es mayor cuanto más lejos esté la masa del eje de rotación. Este principio es importante en
+el diseño de volantes, que se usan en los automóviles para que el motor siga operando
+suavemente entre encendidos de cilindros sucesivos. La masa del volante se concentra
+cerca del borde, lo que le confiere un momento de inercia grande, el cual resiste cambios
+en el movimiento.
+Ejercicio de refuerzo. En los incisos d y e del ejemplo, ¿los momentos de inercia serían
+distintos si el eje de rotación pasara por m2? Explique.
+I =140 kg210 m22 +110 kg213.0 m22 = 90.0 kg # m2
+I =130 kg210 m22 +130 kg213.0 m22 = 270 kg # m2
+I =130 kg211.5 m22 +130 kg211.5 m22 = 135 kg # m2
+I =140 kg210.50 m22 +110 kg210.50 m22 = 12.5 kg # m2
+I =130 kg210.50 m22 +130 kg210.50 m22 = 15.0 kg # m2
+I = m1
+ r1
+2 + m2
+ r2
+2
+ :
+
+r
+CG
+/H9258
+▲ FIGURA 8.19 ¿Mayor estabilidad
+con un centro de gravedad 
+más alto? Véase el ejemplo
+integrado 8.11.
+272
+CAPÍTULO 8 Movimiento rotacional y equilibrio
+Ejemplo integrado 8.11 ■ Equilibrismo: ubicación del centro 
+de gravedad
+a) Una varilla con una bola móvil, como la de la >figura 8.19, se equilibra más fácilmente si
+la bola está en una posición más alta. ¿Esto se debe a que, cuando la bola está más alta, 1) el
+sistema tiene un centro de gravedad más alto y es más estable; 2) el centro de gravedad se
+aparta de la vertical, y el momento de fuerza y la aceleración angular son menores; 3) el
+centro de gravedad está más cerca del eje de rotación, o 4) el momento de inercia en torno
+al eje de rotación es mayor? b) Suponga que la distancia entre la bola y el dedo, para la po-
+sición extrema de la figura 8.19, es de 60 cm; mientras que la distancia de la posición más
+cercana es de 20 cm. Cuando la varilla gira, ¿cuántas veces mayor es la aceleración angular
+de la varilla con la bola en la posición más cercana, que con la bola en la posición más leja-
+na? (Desprecie la masa de la varilla.)
+a) Razonamiento conceptual. Con la bola en cualquier posición y la varilla vertical, el sis-
+tema está en equilibrio inestable. En la sección 8.2 vimos que los cuerpos rígidos con base
+ancha y centro de gravedad bajo son más estables, así que la respuesta 1) no es correcta.
+Un leve movimiento hará que la varilla gire en torno a un eje que pasa por el punto de
+contacto. Al estar el CG en una posición más alta y apartado de la vertical, el brazo de pa-
+lanca será mayor (y el momento de fuerza también será mayor), así que la 2) también es 
+incorrecta. Con la bola en una posición más alta, el centro de gravedad está más lejos del
+eje de rotación, de manera que la 3. también es incorrecta. Esto deja la 4) por proceso de
+eliminación, pero vamos a comprobar que sea correcta.
+Alejar el CG del eje de rotación tiene una consecuencia interesante: un mayor momen-
+to de inercia, o resistencia a los cambios de movimiento rotacional y, por ende, una menor
+aceleración angular. Sin embargo, con la bola en una posición más alta, cuando la varilla
+comienza a girar el momento de fuerza es mayor. El resultado neto es el aumento en el mo-
+mento de inercia produce una resistencia aun mayor al movimiento rotacional y, por lo
+tanto, una menor aceleración angular. [Note que el momento de fuerza (/H9270/H11005rF sen /H9258) va-
+ría con r, mientras que el momento de inercia (I /H11005mr
+2) varía con r2, así que aumenta más
+al incrementarse r. ¿Qué efecto tiene sen /H9258?] Entonces, cuanto más pequeña sea la acelera-
+ción angular, más tiempo tendremos para ajustar la mano bajo la varilla, para equilibrarla
+alineando verticalmente el eje de rotación y el centro de gravedad. Entonces, el momento
+de fuerza será cero y la varilla estará otra vez en equilibrio, aunque inestable. Por tanto, la
+respuesta correcta es 4.
+b) Razonamiento cuantitativo y solución. Cuando se pregunta cuántas veces algo es ma-
+yor o menor que otra cosa, por lo regular implica el uso de un cociente donde se cancelan
+una o más cantidades que no se conocen. No nos dan la masa de la bola, que necesitaría-
+mos para calcular el momento de fuerza gravitacional ( /H9270). Tampoco nos dan el ángulo /H9258.
+Por lo tanto, lo mejor es partir de las ecuaciones básicas y ver qué sucede.
+Dado: Encuentre: cuántas veces es mayor la aceleración angular de la
+varilla con la bola en r
+1, en comparación con r2
+La aceleración angular está dada por la ecuación 8.7, /H9251/H11005/H9270neto/I. Por lo tanto, nos fijamos
+en el momento de fuerza /H9270neto y en el momento de inercia I. Por las ecuaciones básicas del
+capítulo, /H9270neto /H11005r#F /H11005rF sen /H9258(ecuación 8.2) o /H9270neto /H11005rmg sen /H9258, donde F /H11005mg en este ca-
+so, siendo m la masa de la bola. Asimismo, I /H11005mr2 (ecuación 8.6). Por lo tanto,
+(Note que la aceleración angular /H9251es inversamente proporcional al brazo de palanca r; es
+decir, cuanto mayor sea el brazo de palanca, menor será la aceleración angular.) Sen /H9258no
+ha desaparecido, pero observemos qué sucede cuando se forma el cociente de las acele-
+raciones angulares:
+Por lo tanto, la aceleración angular de la varilla con la bola en la posición superior es un
+tercio de la aceleración, cuando la bola está en la posición inferior.
+Ejercicio de refuerzo. Al caminar sobre una barra delgada, como un riel de ferrocarril, el
+lector seguramente habrá notado que es más fácil si estira los brazos a los lados. Por lo
+mismo, los equilibristas a menudo usan pértigas largas, como en la imagen con que inicia
+el capítulo. ¿Cómo ayuda esta postura a mantener el equilibrio?
+a
+1
+a2
+= g sen u>r1
+g sen u>r2
+= r2
+r1
+= 60 cm
+20 cm = 3 o a2 = a1
+3
+a = tneto
+I = rmg sen u
+mr2 = g sen u
+r
+ r2 = 60 cm
+ r1 = 20 cm
+
+8.3 Dinámica rotacional 273
+Como muestra el Ejemplo integrado 8.11, el momento de inercia es una considera-
+ción importante en el movimiento rotacional. Si modificamos el eje de rotación y la
+distribución relativa de la masa, podremos cambiar el valor de I y afectar el movi-
+miento. Si el lector alguna vez jugó sóftbol o béisbol, probablemente le hicieron una
+recomendación en este sentido. Al batear, suele aconsejarse a los niños que sujeten el
+bate más arriba.
+Ahora sabemos por qué. Al hacerlo, el niño acerca el eje de rotación del bate al ex-
+tremo más masivo del bate (o a su centro de masa). Esto reduce el momento de inercia
+del bate (menor r en el término mr
+2). Entonces, al batear, la aceleración angular será
+mayor. El bate oscila más rápidamente y aumenta la probabilidad de golpear la pelota
+antes de que pase. El bateador sólo dispone de una fracción de segundo para hacer el
+swing, y con la mayor /H9251permite al bate girar más rápidamente.
+Teorema de ejes paralelos
+Calcular el momento de inercia de la mayoría de los cuerpos rígidos extendidos re-
+quiere matemáticas que están más allá del alcance de este libro. En la ▼ figura 8.20 se
+presentan los resultados para algunas formas comunes. Los ejes de rotación general-
+mente se hacen coincidir con ejes de simetría (ejes que pasan por el centro de masa),
+u = 1
+2 at2,
+a) Partícula
+e) Cilindro o disco sólido
+i) Placa rectangular
+d) Casco, aro o anillo
+     cilíndrico delgado
+     h) Casco esférico delgadof) Cilindro anular
+b) Varilla delgada c) Varilla delgada
+g) Esfera sólida en torno
+   a cualquier diámetro
+                    k) Lámina rectangular
+delgada
+                     j) Lámina rectangular
+delgada
+Eje
+Eje
+Eje
+Eje
+Eje Eje
+Eje
+EjeEje
+Eje
+I = MR2
+R
+L
+I = ML21
+12
+L
+I = ML21
+3
+R
+M
+I = MR2
+R
+I = MR2 Eje
+I = M(R1
+2 + R2
+2)
+R2
+R1
+I = MR22
+3I = MR22
+5
+R R
+b
+a
+I = 1
+12 M(a2 + b2) I = ML21
+3
+L
+I = ML21
+12
+L
+1
+2
+1
+2
+▼ FIGURA 8.20 Momento de inercia 
+de algunos objetos de densidad
+uniforme y formas comunes
+
+rF
+SALIDA
+EMPUJEEMPUJE
+▲ FIGURA 8.22 Momento de fuerza
+en acción Véase el ejemplo 8.12.
+d
+I = ICM  + Md2
+CMM
+▲ FIGURA 8.21 Teorema de ejes
+paralelos El momento de inercia 
+en torno a un eje paralelo a otro que
+pasa por el centro de masa de un
+cuerpo es I /H11005I
+CM /H11001Md2, donde M
+es la masa total del cuerpo y d es 
+la distancia entre los dos ejes.
+274 CAPÍTULO 8 Movimiento rotacional y equilibrio
+para tener una distribución simétrica de la masa. Una excepción es la varilla con eje 
+de rotación en un extremo (figura 8.20c). Este eje es paralelo a un eje de rotación que
+pasa por el centro de masa de la varilla (figura 8.20b). El momento de inercia en torno
+a tal eje paralelo está dado por un útil teorema llamado teorema de ejes paralelos ; a
+saber,
+(8.8)
+donde I es el momento de inercia en torno a un eje paralelo a uno que pasa por el centro
+de masa y está a una distancia d de él, I
+CM es el momento de inercia en torno a un eje
+que pasa por el centro de masa y M es la masa total del cuerpo (>figura 8.21). Si el eje pa-
+sa por el extremo de la varilla (figura 8.20c), el momento de inercia se obtiene aplicando
+el teorema de ejes paralelos a la varilla delgada de la figura 8.20b:
+Aplicaciones de dinámica rotacional
+La forma rotacional de la segunda ley de Newton nos permite analizar situaciones de
+dinámica rotacional. Los ejemplos 8.12 y 8.13 ilustran esto. En tales situaciones, es muy
+importante enumerar debidamente todos los datos, por el gran número de variables.
+Ejemplo 8.12 ■ Abrir la puerta: momento de fuerza en acción
+Un estudiante abre una puerta uniforme de 12 kg aplicando una fuerza constante de 40 N
+a una distancia perpendicular de 0.90 m de las bisagras ( >figura 8.22). Si la puerta tiene 
+2.0 m de altura y 1.0 m de ancho, ¿qué magnitud tendrá su aceleración angular? (Supon-
+ga que la puerta gira libremente sobre sus bisagras.)
+Razonamiento. Con la información dada, podemos calcular el momento de fuerza neto
+aplicado. Para calcular la aceleración angular de la puerta, necesitamos conocer su mo-
+mento de inercia. Podemos calcularlo, porque conocemos la masa y las dimensiones de la
+puerta.
+Solución. Con la información dada en el problema, elaboramos la lista:
+Dado: Encuentre: /H9251(magnitud de la aceleración angular)
+(altura de la puerta)
+(ancho de la puerta)
+Necesitamos aplicar la forma rotacional de la segunda ley de Newton (ecuación 8.7), 
+/H9270neto /H11005I/H9251, donde I es en torno al eje de las bisagras. /H9270neto se calcula a partir de los datos,
+de manera que el problema se reduce a determinar el momento de inercia de la puerta.
+Examinando la figura 8.20, vemos que el caso (k) corresponde a una puerta (tratada
+como rectángulo uniforme) que gira sobre bisagras, así que donde L /H11005w, el an-
+cho de la puerta. Entonces,
+/H9270neto /H11005I/H9251
+o
+Ejercicio de refuerzo. En este ejemplo, si se aplicara el momento de fuerza constante a 
+lo largo de una distancia angular de 45 /H11034y luego se dejara de aplicar, ¿cuánto tardaría la
+puerta en abrirse totalmente (90/H11034)?
+En problemas con poleas en el capítulo 4, siempre despreciamos la masa (y la iner-
+cia) de la polea para simplificar. Ahora sabemos cómo incluir tales cantidades y pode-
+mos tratar las poleas de forma más realista, como en el siguiente ejemplo.
+a = tneto
+I = r/H11036F
+1
+3 ML2
+= 3rF
+Mw2 = 310.90 m2140 N2
+112 kg211.0 m22 = 9.0 rad>s2
+I = 1
+3 ML2,
+ w = 1.0 m
+ h = 2.0 m
+ r/H11036= r = 0.90 m
+ F = 40 N
+ M = 12 kg
+I = ICM + Md2 = 1
+12 ML2 + Ma L
+2b
+2
+= 1
+12 ML2 + 1
+4 ML2 = 1
+3 ML2
+I = ICM + Md2
+Nota: I /H11005ICM, el valor mínimo de I,
+cuando d /H110050.
+
+mg
+m
+R
+M
+y
+x
+/H9251
+T
+T
+a
+/H9270 positiva/H9270 negativa
+▲ FIGURA 8.23 Polea con inercia
+Si tomamos en cuenta la masa
+(inercia rotacional) de una polea,
+seremos capaces de describir de
+manera más realista el movimiento.
+Véase el ejemplo 8.13.
+8.3 Dinámica rotacional 275
+Ejemplo 8.13 ■ Las poleas también tienen masa: consideración 
+de la inercia de una polea
+Un bloque de masa m cuelga de una cuerda que pasa por una polea sin fricción, con forma
+de disco, de masa M y radio R, como se muestra en la Nfigura 8.23. Si el bloque desciende
+desde el reposo bajo la influencia de la gravedad, ¿qué magnitud tendrá su aceleración li-
+neal? (Desprecie la masa de la cuerda.)
+Razonamiento. Las poleas reales tienen masa e inercia rotacional, lo que afecta su movi-
+miento. La masa suspendida (con la cuerda) aplica un momento de fuerza a la polea. Aquí
+usaremos la forma rotacional de la segunda ley de Newton para obtener la aceleración an-
+gular de la polea y, luego, su aceleración tangencial, la cual tiene la misma magnitud que la
+aceleración lineal del bloque. (¿Por qué?) Como no se dan valores numéricos, la respuesta
+quedará en forma de símbolos.
+Solución. La aceleración lineal del bloque depende de la aceleración angular de la polea,
+así que examinaremos primero el sistema de la polea. Tratamos a la polea como un disco,
+así que su momento de inercia es (figura 8.20e). Un momento de fuerza debido
+a la fuerza de tensión en la cuerda (T) actúa sobre la polea. Con /H9270/H11005I/H9251(considerando sólo
+el recuadro superior de la figura 8.23), obtenemos
+de manera que
+La aceleración lineal del bloque y la aceleración angular de la polea están relacionados
+por a /H11005R/H9251, donde a es la aceleración tangencial, y
+(1)
+Sin embargo, no conocemos T. Si examinamos la masa en descenso (el recuadro inferior)
+y sumamos las fuerzas en la dirección vertical (positivas en la dirección del movimiento),
+tendremos
+es decir,
+(2)
+Ahora usamos la ecuación 2 para eliminar T de la ecuación 1:
+Despejando a, 
+(3)
+Vemos que si M → 0 (como en el caso de las poleas ideales sin masa de capítulos anterio-
+res), I → 0 y a /H11005g (por la ecuación 3). Aquí, sin embargo, M /HS110050, así que tenemos a /H11021g.
+(¿Por qué?)
+Ejercicio de refuerzo. Es posible caracterizar de forma incluso más realista las poleas. En
+este ejemplo, despreciamos la fricción, pero en la práctica existe un momento de fuerza 
+de fricción (/H9270
+f) que debe incluirse. ¿Qué forma tendría la aceleración angular (similar a la
+ecuación 3) en este caso? Demuestre que su resultado es dimensionalmente correcto.
+En ejercicios de poleas, también despreciamos la masa de la cuerda. Es una estra-
+tegia que da una buena aproximación si la cuerda es relativamente ligera. Si tomára-
+mos en cuenta la masa de la cuerda, tendríamos una masa continuamente variable que
+cuelga de la polea, y el momento de fuerza producido sería variable. Un problema así
+rebasa el alcance de este libro.
+Suponga que tenemos masas suspendidas de ambos lados de una polea. En este
+caso, habría que calcular el momento de fuerza neto. Si no conocemos los valores de
+las masas o el sentido en que girará la polea, tan sólo suponemos una dirección. Al
+igual que en el caso lineal, si el resultado sale con el signo opuesto, indicará que supu-
+simos la dirección equivocada.
+a =
+2mg
+12m + M2
+a = 2T
+M =
+21mg - ma2
+M
+T = mg - ma
+mg - T = ma
+a = Ra = 2T
+M
+a = 2T
+MR
+tneto = r/H11036F = RT = Ia = A
+1
+2 MR2Ba
+I = 1
+2 MR2
+Exploración 10.3 Momento de fuerza
+y momento de inercia
+Exploración 10.4 Momento de fuerza
+sobre una polea debido a la tensión
+de dos cuerdas
+
+r
+Eje instantáneo
+de rotación
+F
+▲ FIGURA 8.24 Tirar de la cuerda
+del yo-yo Véase el ejemplo
+conceptual 8.14.
+276 CAPÍTULO 8 Movimiento rotacional y equilibrio
+Sugerencia para resolver problemas
+En problemas como los de los ejemplos 8.13 y 8.14, que se ocupan de movimientos ro-
+tacionales y traslacionales acoplados, debemos tener en cuenta que, si la cuerda no res-
+bala, las magnitudes de las aceleraciones generalmente están relacionadas por a /H11005r/H9251;
+mientras que v /H11005r/H9275relaciona las magnitudes de las velocidades en cualquier instan-
+te. Si aplicamos la segunda ley de Newton (en forma rotacional o lineal) a diferentes
+partes del sistema, obtendremos ecuaciones que pueden combinarse utilizando tales
+relaciones. También en el caso de rodamiento sin deslizamiento, a /H11005r/H9251y v /H11005r/H9275relacio-
+nan las cantidades angulares con el movimiento rectilíneo del centro de masa.
+Otra aplicación de la dinámica rotacional es el análisis del movimiento de objetos
+que pueden rodar.
+Ejemplo conceptual 8.14 ■ Aplicación de otro momento de fuerza:
+¿en qué sentido rueda el yo-yo?
+Se tira de la cuerda de un yo-yo que descansa en una superficie horizontal, como se mues-
+tra en la >figura 8.24. ¿El yo-yo rodará a) hacia la persona o b) en la dirección opuesta?
+Razonamiento y respuesta. Apliquemos a la situación los principios de física que acabamos
+de estudiar. Vemos que el eje instantáneo de rotación está en la línea de contacto entre el yo-yo
+y la superficie. Si tuviéramos una vara parada verticalmente donde está el vector y tirára-
+mos de una cuerda sujeta a la parte superior de la vara, en la dirección de ¿en qué senti-
+do giraría la vara? En sentido horario (alrededor de su eje instantáneo de rotación), desde
+luego. El yo-yo reacciona de forma similar; es decir, rueda en la dirección de la tracción, así
+que la respuesta es a. (Si el lector no está convencido, consiga un yo-yo y pruébelo.)
+Esta situación tiene otros aspectos interesantes en física. La fuerza de tracción no es
+la única fuerza que actúa sobre el yo-yo; hay otras tres. ¿Aportan momentos de fuerza?
+Identifiquemos las fuerzas. Tenemos el peso del yo-yo y la fuerza normal de la superficie.
+También hay una fuerza horizontal de fricción estática entre el yo-yo y la superficie. (Si
+no la hubiera, el yo-yo resbalaría en lugar de rodar.) Sin embargo, las líneas de acción de
+estas tres fuerzas pasan por la línea de contacto, que es el eje instantáneo de rotación, así
+que no hay momentos de fuerza. (¿Por qué?)
+¿Qué sucedería si aumentáramos el ángulo de la cuerda, es decir, de la fuerza de trac-
+ción (relativo a la horizontal) como se muestra en la 
+>figura 8.25a? El yo-yo seguiría 
+rodando hacia la derecha. Como se aprecia en la figura 8.25b, con cierto ángulo crítico /H9258c
+la línea de fuerza pasa por el eje de rotación y el momento de fuerza neto sobre el yo-yo
+es cero, así que el yo-yo no rueda.
+Si rebasamos este ángulo crítico (figura 8.25c), el yo-yo comenzará a rodar en senti-
+do antihorario, es decir, hacia la izquierda. Note que la línea de acción de la fuerza está al
+otro lado del eje de rotación, en comparación con la figura 8.26a, y el brazo de palanca
+(r
+#) cambió de dirección, así que se invirtió la dirección del momento de fuerza neto.
+Ejercicio de refuerzo. Suponga que la cuerda del yo-yo está en el ángulo crítico y se pasa
+sobre una barra redonda horizontal que está a una altura adecuada. Se cuelga un peso del
+extremo de la cuerda, de manera que suministre la fuerza necesaria para la condición de
+equilibrio. ¿Qué sucederá si ahora tiramos del yo-yo hacia nosotros, alejándolo de su po-
+sición de equilibrio, y lo soltamos?
+F
+S
+,
+r
+S
+ b) U = Uc,
+en equilibrio rotacional,
+no rueda
+a) Rueda a la derecha  c) U > Uc,
+rueda a la izquierda
+(r⊥ a la derecha)
+Línea de acción
+de la fuerza
+Eje instantáneo
+de rotación
+Línea
+de acciónEje Eje
+uc
+u u
+r⊥
+F
+FFN FIGURA 8.25 El ángulo hace la
+diferencia a) Si la línea de acción
+está a la izquierda del eje instantá-
+neo, el yo-yo rodará hacia la derecha.
+b) Con un ángulo crítico /H9258
+c, la línea
+de acción pasa por el eje, y el yo-yo
+estará en equilibrio. c) Cuando la 
+línea de acción está a la derecha 
+del eje, el yo-yo rueda hacia la 
+izquierda. Véase el ejemplo 
+conceptual 8.14.
+
+8.4 Trabajo rotacional y energía cinética 277
+8.4 Trabajo rotacional y energía cinética
+OBJETIVOS: Analizar, explicar y usar las formas rotacionales de a) el trabajo, b) la 
+energía cinética y c) la potencia.
+En esta sección presentaremos los análogos rotacionales de diversas ecuaciones del
+movimiento rectilíneo asociadas con el trabajo y la energía cinética, para momentos de
+fuerza constantes. Como su desarrollo es similar al de sus contrapartes rectilíneas, no
+lo explicaremos detalladamente. Al igual que en el capítulo 5, W es el trabajo neto si
+dos o más fuerzas o momentos de fuerza actúan sobre un objeto.
+Trabajo rotacional Podemos pasar directamente del trabajo efectuado por una fuer-
+za al trabajo efectuado por un momento de fuerza, pues los dos están relacionados 
+(/H9270/H11005r
+#F). En movimiento rotacional, el trabajo rotacional W /H11005Fs efectuado por una
+sola fuerza F que actúa tangencialmente a lo largo de un arco s es
+W /H11005Fs /H11005F(r#/H9258) /H11005/H9270/H9258
+donde /H9258está en radianes. Así, para un solo momento de fuerza que actúa durante un
+ángulo de rotación /H9258,
+(una sola fuerza) (8.9)
+En este libro, los vectores tanto del momento de fuerza ( /H9270) como del desplazamiento
+angular (/H9258) casi siempre estarán sobre el eje fijo de rotación, de manera que no hay que
+preocuparse por componentes paralelos, como en el caso del trabajo traslacional. El
+momento de fuerza y el desplazamiento angular podrían tener direcciones opuestas,
+en cuyo caso el momento de fuerza efectuará trabajo negativo y frenará la rotación del
+cuerpo. Esta situación es similar a la del movimiento traslacional cuando F y d tienen
+direcciones opuestas.
+Potencia rotacional De la ecuación 8.9 es fácil deducir una expresión para la poten-
+cia rotacional instantánea, el análogo rotacional de la potencia (rapidez de realización
+de trabajo):
+(8.10)
+Teorema trabajo-energía y energía cinética
+Podemos deducir la relación entre el trabajo rotacional neto efectuado sobre un cuerpo
+rígido (actúa más de una fuerza) y el cambio de energía cinética rotacional del cuer-
+po, partiendo de la ecuación para trabajo rotacional:
+Wneto /H11005/H9270/H9258/H11005I/H9251/H9258
+Puesto que suponemos que nuestros momentos de fuerza se deben exclusivamente a
+fuerzas constantes, /H9251es constante. Sin embargo, por la cinemática rotacional del capí-
+tulo 7, sabemos que para una aceleración angular constante, y
+Por la ecuación 5.6 (trabajo-energía), sabemos que Wneto /H11005/H9004K. Por lo tanto,
+(8.11)
+Entonces, la expresión para la energía cinética rotacional, K, es
+(8.12)
+Así, el trabajo rotacional neto efectuado sobre un objeto es igual al cambio de energía cinética rotacio-
+nal del objeto (con cero energía cinética rectilínea). Por lo tanto, si queremos alterar la ener-
+gía cinética rotacional de un objeto, tendremos que aplicar un momento de fuerza neto.
+Es posible deducir directamente la expresión para la energía cinética de un cuerpo
+rígido en rotación (en torno a un eje fijo). La sumatoria de las energías cinéticas instan-
+táneas de las partículas individuales del cuerpo, relativas al eje fijo, da
+donde, para cada partícula del cuerpo, vi /H11005ri/H9275. Así, la ecuación 8.12 no representa una
+nueva forma de energía; más bien es sólo otra expresión para la energía cinética, en
+una forma más conveniente para estudiar la rotación de cuerpos rígidos.
+K = 1
+2 g mi
+ vi
+2 = 1
+21 g mi
+ ri
+22v2 = 1
+2 Iv2
+K = 1
+2 Iv2
+Wneto = 1
+2 Iv2 - 1
+2 Ivo
+2 = K - Ko =¢ K
+Wneto = I¢v2 -vo
+2
+2
+≤ = 1
+2 Iv2 - 1
+2 Ivo
+2
+v2 =vo
+2 + 2au,
+P = W
+t =tau
+tb =tv
+W =tu
+Potencial rotacional
+Trabajo rotacional
+Análogo rotacional del teorema
+trabajo-energía
+Energía cinética rotacional
+
+278 CAPÍTULO 8 Movimiento rotacional y equilibrio
+Cantidades y ecuaciones traslacionales y rotacionales
+Traslacional Rotacional
+Fuerza: Momento de fuerza (magnitud):
+Masa (inercia): m Momento de inercia:
+Segunda ley de Newton: Segunda ley de Newton:
+Trabajo: Trabajo:
+Potencia: Potencia:
+Energía cinética: Energía cinética:
+Teorema trabajo-energía: Teorema trabajo-energía:
+Cantidad de movimiento lineal: Cantidad de movimiento angular: L
+S
+= IV
+S
+p
+S
+= mv
+S
+Wneto = 1
+2 Iv2 - 1
+2 Ivo
+2 =¢ KWneto = 1
+2 mv2 - 1
+2 mvo
+2 =¢ K
+K = 1
+2 Iv2K = 1
+2 mv2
+P =tvP = Fv
+W =tuW = Fd
+/H9270
+S
+neto = IA
+S
+F
+S
+neta = ma
+S
+I = g mi
+ ri
+2
+t = rF sen uF
+S
+TABLA 8.1
+En la tabla 8.1 se resumen los análogos traslacionales y rotacionales. (Aparece
+también la cantidad de movimiento angular, que veremos en la sección 8.5.)
+Cuando un objeto tiene movimiento tanto traslacional como rotacional, su energía
+cinética total podría dividirse en partes que reflejen los dos tipos de movimiento. Por
+ejemplo, para un cilindro que rueda sin resbalar en una superficie horizontal, el movi-
+miento es puramente rotacional relativo al eje instantáneo de rotación (el punto o línea
+de contacto), que está instantáneamente en reposo. La energía cinética total del cilin-
+dro rodante es
+donde I
+i es el momento de inercia en torno al eje instantáneo. Este momento de inercia
+alrededor del punto de contacto (nuestro eje) está dado por el teorema de ejes parale-
+los (ecuación 8.8), I
+i /H11005ICM /H11001MR2, donde R es el radio del cilindro. Entonces,
+Sin embargo, como no hay deslizamiento, vCM /H11005R/H9275, y
+(rodamiento sin resbalar) (8.13)
+Aunque aquí usamos un cilindro como ejemplo, éste es un resultado general, válido
+para cualquier objeto que rueda sin resbalar.
+Así, la energía cinética total de un objeto es la suma de dos aportaciones: la energía cinéti-
+ca traslacional del centro de masa del objeto y la energía cinética rotacional del objeto relativa a
+un eje horizontal que pasa por su centro de masa.
+Ejemplo 8.15 ■ División de energía: rotacional y traslacional
+Un cilindro sólido uniforme de 1.0 kg rueda sin resbalar con una rapidez de 1.8 m/s sobre
+una superficie plana. a) Calcule la energía cinética total del cilindro. b) ¿Qué porcentaje de
+este total es energía cinética rotacional?
+Razonamiento. El cilindro tiene energía cinética tanto rotacional como traslacional, así
+que podemos usar la ecuación 8.13, cuyos términos están relacionados por la condición
+de rodar sin resbalar.
+Solución.
+Dado: Encuentre: a) K (energía cinética total)
+b) (porcentaje de energía rotacional)(de la figura 8.20e)
+a) El cilindro rueda sin resbalar, así que se cumple la condición vCM /H11005R/H9275. Entonces, la
+energía cinética total es la suma de la energía cinética rotacional, Kr, y la energía cinética
+traslacional del centro de masa, KCM (ecuación 8.13):
+ = 3
+4 MvCM
+2 = 3
+4 11.0 kg211.8 m>s22 = 2.4 J
+ K = 1
+2ICMw2 + 1
+2MvCM
+2 = 1
+2 A
+1
+2 MR2B¢
+vCM
+R ≤
+2
++ 1
+2 MvCM
+2
+= 1
+4 MvCM
+2
++ 1
+2 MvCM
+2
+ ICM = 1
+2 MR2
+Kr
+K
+ 1* 100%2 vCM = 1.8 m>s
+ M = 1.0 kg
+translacional
+KE+rotacional
+KE=total
+KE
+K = 1
+2 ICM
+ v2 + 1
+2 MvCM
+2
+K = 1
+2 Ii
+ v2 = 1
+2 1ICM + MR22v2 = 1
+2 ICM
+ v2 + 1
+2 MR2
+ v2
+K = 1
+2 Ii
+ v2
+Nota: un cuerpo rodante tiene
+energía cinética tanto traslacional
+como rotacional.
+Ilustración 11.3 Energía cinética 
+rotacional y traslacional
+
+h = 0.25 m
+vCM
+R
+v
+▲ FIGURA 8.26 Movimiento rodante
+y energía Cuando un objeto baja
+rodando por un plano inclinado,
+hay conversión de energía potencial
+en energía cinética traslacional y 
+rotacional. Esto hace al rodamiento
+más lento que el deslizamiento 
+sin fricción. Véase el ejemplo 8.16.
+8.4 Trabajo rotacional y energía cinética 279
+b) La energía cinética rotacional Kr del cilindro es el primer término de la ecuación ante-
+rior, así que formamos un cociente en forma simbólica para obtener
+Así, la energía cinética total del cilindro se compone de una parte rotacional y una trasla-
+cional, siendo la rotacional la tercera parte del total.
+En el inciso b no necesitamos el radio del cilindro ni la masa. Como usamos un co-
+ciente, se cancelaron estas cantidades. Sin embargo, no hay que pensar que esta división
+exacta de la energía es un resultado general. Es fácil demostrar que el porcentaje es dis-
+tinto para objetos con diferente momento de inercia. Por ejemplo, cabe esperar que una
+esfera rodante tenga un porcentaje menor de energía cinética rotacional que un cilindro,
+porque su momento de inercia es menor 
+Ejercicio de refuerzo. Podemos incluir la energía potencial aplicando la conservación de
+la energía a un objeto que rueda por un plano inclinado. En este ejemplo, suponga que el
+cilindro sube por un plano inclinado de 20/H11034sin resbalar. a) ¿A qué altura vertical (medida
+por la distancia vertical de su CM) en el plano se detendrá el cilindro? b) Para calcular la
+altura en el inciso a), el lector seguramente igualó la energía cinética inicial con la energía
+potencial gravitacional final. Es decir, la energía cinética total se redujo por el trabajo efec-
+tuado por la gravedad. Sin embargo, también actúa una fuerza de fricción (que evita el
+deslizamiento). ¿No efectúa trabajo también esa fuerza?
+Ejemplo 8.16 ■ Bajar rodando o resbalando: ¿cuál es más rápido?
+Un aro cilíndrico uniforme se suelta desde el reposo a una altura de 0.25 m en un plano
+inclinado, cerca de su parte superior (
+Nfigura 8.26). Si el cilindro baja rodando por el pla-
+no sin resbalar y no se pierde energía por la fricción, ¿qué rapidez lineal tiene el centro de
+masa del cilindro en la base de la pendiente?
+Razonamiento. Aquí, energía potencial gravitacional se convierte en energía cinética, tan-
+to rotacional como traslacional. La energía (mecánica) se conserva, pues Wf es cero.
+Solución.
+Dado: Encuentre: vCM (rapidez del CM)
+(de la figura 8.20d)
+Puesto que la energía mecánica total del cilindro se conserva, se escribe
+Eo /H11005E
+o bien, como vo /H110050 en la cima de la pendiente, y suponiendo que U /H110050 en la base,
+inicialmente en reposo en la base de la pendiente
+Si usamos la condición para rodamiento, vCM /H11005R/H9275, obtendremos
+Despejamos vCM,
+Aquí tampoco necesitamos mucha información numérica. Observe que el aro bajó ro-
+dando desde la misma altura hasta la que subió el cilindro del ejercicio de refuerzo del
+ejemplo 8.15, pero la rapidez del aro es menor que la del cilindro en la base de la rampa.
+¿Por qué? Por la diferencia en los momentos de inercia.
+Ejercicio de refuerzo. Suponga que el plano inclinado de este ejemplo no tiene fricción y
+el aro baja deslizándose en vez de rodar. ¿Cómo se compararía su rapidez en la base en 
+este caso? ¿Por qué son distintas las rapideces?
+v
+CM = 2gh = 219.8 m>s2210.25 m2 = 1.6 m>s
+Mgh = 1
+2 1MR22¢
+vCM
+R ≤
+2
++ 1
+2 MvCM
+2 = MvCM
+2
+ Mgh = 1
+2 ICM
+ v2 + 1
+2 MvCM
+2
+ Uo = K
+ ICM = MR2
+ h = 0.25 m
+AI = 2
+5 MR2B.
+Kr
+K =
+1
+4 MvCM
+2
+3
+4 MvCM
+2
+= 1
+3 1* 100%2 = 33%
+Exploración 11.3 Deslizamiento sobre
+un plano inclinado
+
+280 CAPÍTULO 8 Movimiento rotacional y equilibrio
+Nota: repase la ecuación 6.3 de 
+la sección 6.1.
+Carrera arreglada
+Como muestra el ejemplo 8.16, para un objeto que se rueda hacia abajo sobre un plano
+inclinado, sin resbalarse, vCM es independiente de M y de R. Las masas y los radios se
+cancelan, de manera que todos los objetos de una forma específica (con la misma ecua-
+ción de momento de inercia) ruedan con la misma rapidez lineal, sean cuales fueren su
+tamaño y su densidad. Sin embargo, tal rapidez sí varía con el momento de inercia,
+que varía dependiendo de la forma. Por lo tanto, cuerpos rígidos de diferente forma
+ruedan con diferente rapidez. Por ejemplo, si soltamos un aro cilíndrico, un cilindro
+sólido y una esfera uniforme al mismo tiempo desde la cima de un plano inclinado, la
+esfera ganaría la carrera para llegar a la base, seguida del cilindro, con el aro llegando
+en último lugar, ¡siempre!
+El lector puede ensayar este experimento con unas cuantas latas de alimentos 
+y otros recipientes cilíndricos —uno lleno con algún material sólido (efectivamente, 
+un cuerpo rígido) y otro vacío y con los extremos recortados— y una esfera sólida lisa.
+Recuerde que ni las masas ni los radios importan. Pensaríamos que un cilindro anular
+(un cilindro hueco cuyos radios externo e interno difieren considerablemente; figura
+8.20f) sería el posible ganador de una carrera así, pero siempre pierde. La carrera ro-
+dando cuesta abajo está arreglada, aunque se varíen las masas y los radios.
+Otro aspecto del rodamiento se trata en la sección A fondo 8.2: ¿Resbalar o rodar
+hasta parar?
+8.5 Cantidad de movimiento angular
+OBJETIVOS: a) Definir cantidad de movimiento angular y b) aplicar el principio de
+la conservación de la cantidad de movimiento angular a situaciones
+físicas.
+Otra cantidad importante en el movimiento rotacional es la cantidad de movimiento
+angular. En la sección 6.1 vimos cómo una fuerza altera la cantidad de movimiento li-
+neal de un objeto. De forma análoga, los cambios en la cantidad de movimiento angu-
+lar están asociados al momento de fuerza. Como vimos, el momento de fuerza es el
+producto de un brazo de palanca y una fuerza. Asimismo, la cantidad de movimiento
+angular (L) es el producto de un brazo de palanca y una cantidad de movimiento li-
+neal. Para una partícula de masa m, la magnitud de la cantidad de movimiento lineal
+es p /H11005mv, donde v /H11005r/H9275. La magnitud de la cantidad de movimiento angular es
+cantidad de movimiento angular de una partícula (8.14)
+Unidad SI de cantidad de movimiento angular: kilogramo-metro 
+al cuadrado sobre segundo (kg · m
+2/s) donde v es la rapidez 
+de la partícula, r# es el brazo de palanca y /H9275es la rapidez angular.
+En un movimiento circular, r# /H11005r, porque es perpendicular a . En un sistema
+de partículas que constituyen un cuerpo rígido, todas las partículas describen círculos,
+y la magnitud total de la cantidad de movimiento angular es
+cantidad de movimiento angular de un cuerdo rígido (8.15)
+que es, en el caso de rotación en torno a un eje fijo (en notación vectorial),
+(8.16)
+Así pues, tiene la dirección del vector de velocidad angular Esa dirección está
+dada por la regla de la mano derecha.
+En movimiento rectilíneo, el cambio de la cantidad de movimiento lineal total de
+un sistema está relacionado con la fuerza externa por La cantidad 
+de movimiento angular está relacionada de manera análoga con el momento de fuer-
+za neto (en magnitud):
+Es decir,
+(8.17)
+Así, el momento de fuerza neto es igual a la tasa de cambio de la cantidad de movimiento
+angular con el tiempo. En otras palabras, un momento de fuerza neto produce un cam-
+bio en la cantidad de movimiento angular.
+tneto = ¢L
+¢t
+tneto = Ia = I¢v
+¢t =
+¢1Iv2
+¢t = ¢L
+¢t
+F
+S
+neta =¢ P
+S
+>¢t.
+1V
+S
+2.L
+S
+L
+S
+= IV
+S
+L =1g mi
+ ri
+22v = Iv
+r
+S
+v
+S
+L = r/H11036p = mr/H11036v = mr/H11036
+2v
+Ilustración 10.3 Momento de inercia,
+energía rotacional y cantidad de
+movimiento angular
+Exploración 11.4 Momento de inercia
+y cantidad de movimiento angular
+
+8.5 Cantidad de movimiento angular 281
+8.2 ¿Resbalar o rodar hasta parar?
+Frenos antibloqueo
+Durante una emergencia al conducir un vehículo, el instinto nos
+haría pisar a fondo el pedal del freno para intentar detener el ve-
+hículo rápidamente, es decir, en la distancia más corta. Sin em-
+bargo, con las ruedas bloqueadas, el coche derrapa, deslizán-
+dose hasta que se detiene, y muchas veces fuera de control. En
+tal caso, la fuerza de fricción deslizante actúa sobre las ruedas.
+Para evitar el derrape, nos enseñan a bombear los frenos pa-
+ra detenernos rodando, no resbalando, sobre todo en un camino
+mojado o con hielo. Muchos automóviles modernos cuentan con
+un sistema computarizado de frenos que evita el bloqueo (ABS,
+antilock braking system) haciendo eso automáticamente. Cuando
+los frenos se aplican firmemente y el automóvil comienza a des-
+lizarse, sensores en las ruedas detectan el deslizamiento y una
+computadora asume el control del sistema de frenado. Suelta
+momentáneamente los frenos y luego varía la presión del fluido
+de los frenos con una acción de bombeo (¡hasta 13 veces por se-
+gundo!), de manera que las ruedas sigan rodando sin derrapar.
+Si no hay deslizamiento, actúan tanto la fricción rodante co-
+mo la fricción estática. Sin embargo, en muchos casos la fuerza de
+fricción rodante es pequeña, y sólo hay que tomar en cuenta la fric-
+ción estática. El ABS trata de mantener la fricción estática cerca de
+su valor máximo, f
+s /H11015fsmáx, lo cual no es fácil hacer con el pedal.
+¿El hecho de resbalar en vez de rodar afecta mucho la distan-
+cia de frenado de un automóvil? Calculamos la diferencia supo-
+niendo que la fricción de rodamiento es insignificante. Aunque la
+fuerza externa de la fricción estática no efectúa trabajo al disipar
+energía para detener un vehículo (esto se hace internamente por
+fricción con las zapatas), sí determina si las ruedas se deslizan o
+ruedan.
+En el ejemplo 2.8, la distancia de frenado de un vehículo
+estaba dada por
+Por la segunda ley de Newton, la fuerza neta en la dirección
+horizontal es F /H11005f /H11005/H9262N /H11005/H9262mg /H11005ma, y la desaceleración es 
+a /H11005/H9262g. Por lo tanto,
+(1)
+Sin embargo, como señalamos en el capítulo 4, el coefi-
+ciente de fricción deslizante (cinética) generalmente es menor
+que el de fricción estática; es decir, /H9262
+k /H11021/H9262s. Podemos apreciar la
+diferencia general entre la detención rodante y la detención
+deslizante suponiendo la misma velocidad inicial v
+o en ambos
+casos. Luego, utilizamos la ecuación 1 para formar un cociente:
+En la tabla 4.1 vemos que /H9262k /H110050.60 para caucho sobre concreto
+húmedo, y el valor de /H9262s para estas superficies es 0.80. Si usamos
+estos valores para comparar las distancias de frenado, obtenemos
+Así, el automóvil se detiene rodando en el 75% de la distancia
+requerida para parar resbalando; por ejemplo, 15 m en vez de
+20 m. Aunque esto podría variar dependiendo de las condi-
+ciones, podría ser una diferencia importante, incluso vital.
+xrodante = a 0.60
+0.80bxdeslizante =10.752xdeslizante
+xrodante
+xdeslizante
+= mk
+ms
+ o xrodante = ¢
+mk
+ms
+≤xdeslizante
+x = vo
+2
+2 mg
+x = vo
+2
+2a
+A FONDO
+Conservación de la cantidad de movimiento angular
+La ecuación 8.17 se dedujo utilizando /H9270neto /H11005I/H9251, que es válido para un sistema rígido
+de partículas o un cuerpo rígido con momento de inercia constante. No obstante, la
+ecuación 8.17 es una ecuación general que también es válida para un sistema no rígido
+de partículas. En un sistema así, podría haber un cambio en la distribución de masa y
+un cambio en el momento de inercia. Por ello, podría haber aceleración angular inclu-
+so en ausencia de un momento de fuerza neto. ¿Cómo es posible esto?
+Si el momento de fuerza neto sobre un sistema es cero, entonces, por la ecuación 
+8.17, y
+o bien,
+(8.18)
+Por lo tanto, la condición para la conservación de la cantidad de movimiento an-
+gular es:
+En ausencia de un momento de fuerza externo, no equilibrado, se conserva 
+(se mantiene constante) la cantidad de movimiento angular total (vectorial) de
+un sistema.
+Al igual que con la cantidad de movimiento lineal total, se cancelan los momentos de
+fuerza internos que surgen de fuerzas internas.
+En un cuerpo rígido con momento de inercia constante (es decir, I /H11005I
+o), la rapidez
+angular se mantiene constante ( /H9275/H11005/H9275o) en ausencia de un momento de fuerza neto.
+No obstante, en algunos sistemas podría cambiar el momento de inercia, lo cual oca-
+sionaría un cambio en la rapidez angular, como ilustra el siguiente ejemplo.
+Iv = Io
+ vo
+¢L
+S
+= L
+S
+- L
+S
+o = IV
+S
+- Io
+ V
+S
+o = 0
+/H9270
+S
+neto =¢ L
+S
+>¢t = 0,
+Nota: la cantidad de movimiento
+angular se conserva cuando el
+momento de fuerza neto es cero.
+( es fija.) Ésta es la tercera ley 
+de conservación en mecánica.
+L
+S
+Conservación de la cantidad de
+movimiento angular
+
+282 CAPÍTULO 8 Movimiento rotacional y equilibrio
+r1
+v1 v2
+r2
+N FIGURA 8.27 Conservación de la
+cantidad de movimiento angular
+Cuando se tira de la cuerda hacia
+abajo a través del tubo, acelera la
+pelota que da vueltas. Véase el
+ejemplo 8.17.
+Ejemplo 8.17 ■ Tirón hacia abajo: conservación de la cantidad 
+de movimiento angular
+Una pelota pequeña, sujeta a una cuerda que pasa por un tubo, se mueve en un círculo co-
+mo se ilustra en la ▲ figura 8.27. Cuando se tira de la cuerda hacia abajo a través del tubo,
+aumenta la rapidez angular de la pelota. a) ¿Ese aumento en la rapidez angular se debe a
+un momento de fuerza causado por la fuerza de tracción? b) Si la pelota gira inicialmente
+con rapidez de 2.8 m/s en un círculo de 0.30 m de radio, ¿qué rapidez tangencial tendrá si
+el radio se reduce a 0.15 m tirando de la cuerda? (Desprecie la masa de la cuerda.)
+Razonamiento. a) Se aplica una fuerza a la pelota a través de la cuerda; pero hay que con-
+siderar el eje de rotación. b) En ausencia de un momento de fuerza neto, se conserva la
+cantidad de movimiento angular (ecuación 8.18) y la rapidez tangencial está relaciona-
+da con la rapidez angular por v /H11005r/H9275.
+Solución.
+Dado: Encuentre: a) Causa del incremento en la rapidez angular
+b) v2 (rapidez tangencial final)
+a) El cambio de velocidad angular, o aceleración angular, no se debe a un momento de
+fuerza producido por la fuerza de tracción. La fuerza sobre la pelota, transmitida por la
+cuerda (tensión) actúa pasando por el eje de rotación, así que su momento es cero. Puesto
+que la porción de la cuerda que gira se acorta, disminuye el momento de inercia de la 
+pelota (I /H11005mr
+2, por la figura 8.20a). Como en ausencia de un momento de fuerza externo,
+se conserva la cantidad de movimiento angular ( I/H9275) de la pelota; y si se reduce I se debe
+incrementar /H9275.
+b) Puesto que se conserva la cantidad de movimiento angular, igualamos las magnitudes
+de las cantidades de movimiento angulares:
+Io/H9275o /H11005I/H9275
+Luego, utilizando I /H11005mr2 y /H9275/H11005v/r, obtenemos
+mr1v1 /H11005mr2v2
+y
+Cuando se acorta la distancia radial, la pelota se acelera.
+Ejercicio de refuerzo. Examinemos la situación de este ejemplo en términos de trabajo 
+y energía. Si la rapidez inicial es la misma y la fuerza de tracción vertical es 7.8 N, ¿qué
+rapidez final tendrá la pelota de 0.10 kg?
+El ejemplo 8.17 debería ayudarnos a entender la ley de Kepler de áreas iguales (ca-
+pítulo 7) desde otro punto de vista. La cantidad de movimiento angular de un planeta
+se conserva aproximadamente, ignorando el débil momento de fuerza gravitacional
+de otros planetas. (La fuerza gravitacional del Sol sobre un planeta produce poco o
+ningún momento de fuerza sobre él. ¿Por qué?) Por lo tanto, cuando un planeta está
+v2 = ¢ r1
+r2
+≤v1 = a 0.30 m
+0.15 mb2.8 m>s = 5.6 m>s
+ v1 = 2.8 m>s
+ r2 = 0.15 m
+ r1 = 0.30 m
+
+8.5 Cantidad de movimiento angular 283
+más cerca del Sol en su órbita elíptica, tiene un menor brazo de palanca y su rapidez es
+mayor, por la conservación de la cantidad de movimiento angular. [Éste es el funda-
+mento de la segunda ley de Kepler (ley de áreas), sección 7.6.] Asimismo, cuando la al-
+tura de un satélite en órbita varía durante el curso de una órbita elíptica en torno a un
+planeta, el satélite se acelera o se frena por el mismo principio.
+Cantidad de movimiento angular en la vida real
+En la ▼ figura 8.28a se muestra una demostración muy utilizada de la conservación de
+la cantidad de movimiento angular. Un individuo sentado en un banco giratorio sos-
+tiene pesas con los brazos extendidos y se le pone a girar lentamente. Alguien más de-
+be proporcionar un momento de fuerza exterior que inicie esta rotación, porque el
+individuo en el banco no puede iniciar el movimiento por sí mismo. (¿Por qué no?)
+Una vez que está girando, si acerca sus brazos al cuerpo, aumenta la rapidez angular y
+gira con mucho mayor rapidez. Si vuelve a extender los brazos, nuevamente desacele-
+rará. ¿Puede el lector explicar este fenómeno?
+Si L es constante, ¿qué sucede con /H9275cuando I se reduce disminuyendo r? La rapidez
+angular debe aumentar para compensar la reducción de I y mantener L constante. Los
+patinadores en hielo giran con gran velocidad acercando sus brazos al eje de su cuerpo
+para reducir su momento de inercia (figura 8.28b). De forma similar, un clavadista gira
+durante un clavado alto acercando el tronco del cuerpo a sus extremidades, con lo que
+reduce considerablemente su momento de inercia. Las enormes rapideces del viento en
+los tornados y huracanes representan otro ejemplo del mismo efecto (figura 8.28c).
+La cantidad de movimiento angular también es importante en los saltos de patinaje
+artístico, en los cuales el patinador gira en el aire, como en un triple axel o un triple lutz.
+Un momento de fuerza que se aplica al saltar imparte al patinador cantidad de mo-
+vimiento angular, y los brazos y piernas se acercan al eje del cuerpo para reducir el 
+momento de inercia y aumentar la rapidez angular, para así efectuar varios giros durante
+el salto. Para aterrizar con menor rapidez angular, el patinador extiende los brazos y la
+pierna que no tocará el hielo. Quizás el lector se haya fijado en que casi todos estos ate-
+rrizajes siguen una trayectoria curva, la cual permite al patinador recuperar el control.
+a)
+b) c)
+> FIGURA 8.28 Cambio en el momento de inercia
+a) Girando lentamente con masas en los brazos extendidos,
+el momento de inercia de este individuo es relativamente
+grande. (Las masas están lejos del eje de rotación.) El hom-
+bre está aislado: no actúan sobre él momentos de fuerza 
+externos (si despreciamos la fricción), así que se conserva
+su cantidad de movimiento angular, L /H11005I/H9275. Cuando junta
+los brazos al cuerpo, disminuye su momento de inercia.
+(¿Por qué?) En consecuencia, /H9275debe aumentar, y el giro 
+se hace vertiginoso. b) Los patinadores en hielo modifican
+su momento de inercia para incrementar /H9275al girar. 
+c) El mismo principio ayuda a explicar la violencia de 
+los vientos que giran en torno al centro de un huracán. 
+Al precipitarse aire hacia el centro de la tormenta, donde 
+la presión es baja, su velocidad de rotación debe aumentar
+para que se conserve la cantidad de movimiento angular.
+Exploración 11.5 Conservación de la
+cantidad de movimiento angular
+
+284 CAPÍTULO 8 Movimiento rotacional y equilibrio
+R
+R
+75 kg
+5 kg5 kg
+80 cm
+20 cm
+a) Brazos extendidos
+(no está a escala)
+b) Brazos sobre
+la cabeza
+▲ FIGURA 8.29 Modelo de un
+patinador Cambios en el momento
+de inercia y en el giro. Véase el
+ejemplo 8.18.
+Ejemplo 8.18 ■ Un patinador como modelo
+Por lo general, las situaciones de la vida real son complejas, pero algunas se pueden ana-
+lizar usando modelos simples. En la >figura 8.29 se ilustra un modelo para analizar el gi-
+ro de un patinador, empleando un cilindro y dos varillas para representarlo. En el inciso 
+a el patinador inicia el giro con los “brazos” extendidos; mientras que en el inciso b los
+“brazos” están sobre la cabeza para lograr un giro más rápido por la conservación de la
+cantidad de movimiento angular. Si la rapidez de giro inicial es 1 revolución por 1.5 s,
+¿cuál será la rapidez angular cuando los brazos están pegados al cuerpo?
+Razonamiento. El cuerpo y los brazos de un patinador se representan con un cilindro y
+unas varillas, de manera que conozcamos los momentos de inercia (figura 8.20). Hay que
+dar atención especial al hecho de encontrar el momento de inercia de los brazos alrededor
+del eje de rotación (a través del cilindro). Esto puede hacerse aplicando el teorema del eje
+paralelo (ecuación 8.8).
+Si se conserva la cantidad de movimiento angular, L /H11005L
+o o I/H9275/H11005Io/H9275o, conociendo la
+rapidez angular inicial y dadas las cantidades para evaluar los momentos de inercia (fi-
+gura 8.29), es posible determinar la rapidez angular final.
+Solución. Se listan los datos (véase la figura 8.29):
+Dado: Encuentre: /H9275(rapidez angular final)
+Momento de inercia (a partir de la figura 8.20).
+cilindro: varilla: 
+Primero calculemos los momentos de inercia del sistema utilizando el teorema del eje pa-
+ralelo, I /H11005Icm /H11001Md2 (ecuación 8.8).
+Antes: El Ic del cilindro es una recta hacia delante (figura 8.20e):
+Refiriendo el momento de inercia de una varilla horizontal (figura 8.29a) al eje de rota-
+ción del cilindro mediante el teorema del eje paralelo:
+donde el eje paralelo a través del CM de la varilla es una dis-
+tancia de R /H11001L/2 a partir del eje de rotación.
+Además, 
+Después: En la figura 8.29b, al tratar la masa de un brazo como si su centro de masa aho-
+ra estuviera a sólo unos 20 cm del eje de rotación, el momento de inercia de cada brazo es
+I /H11005M
+rR2 (figura 8.20b), e
+Entonces, con la conservación de la cantidad de movimiento angular, L /H11005Lo o I/H9275/H11005Io/H9275o y
+De manera que la rapidez angular se incrementa por un factor de 3.
+Ejercicio de refuerzo. Suponga que un patinador con el 75% de la masa del patinador del
+ejercicio realiza un giro. ¿Cuál sería la rapidez de giro /H9275en este caso? (Considere que to-
+das las masas se reducen al 75%.)
+La cantidad de movimiento angular, es un vector, y cuando se conserva o es
+constante, no deben cambiar su magnitud ni su dirección. Así, cuando no actúan mo-
+mentos de fuerza externos, la dirección de es fija en el espacio. Éste es el principio en
+que se basa la precisión de los pases en fútbol americano, así como el movimiento de
+una brújula giroscópica (
+Nfigura 8.30). En fútbol americano, el balón generalmente se
+lanza con una espiral. Este giro, o acción giroscópica, estabiliza el eje de rotación del
+balón en la dirección del movimiento. Asimismo, el acanalado del cañón de un rifle
+imparte un giro a las balas, con la finalidad de aumentar su estabilidad direccional.
+En la brújula, el vector de un giroscopio en rotación se ajusta a una dirección dada
+(generalmente el norte). En ausencia de momentos de fuerza externos, no cambia la di-
+rección de la brújula, aunque su portador (un avión o barco, por ejemplo) cambie de 
+dirección. Quizás el lector haya jugado con un giroscopio de juguete que se pone a girar
+y se coloca sobre un pedestal. Cuando está “dormido”, el giroscopio se mantiene ergui-
+L
+S
+L
+S
+L
+S
+,
+v = ¢
+Ia
+Ib
+≤vo = ¢
+5.7 kg # m2
+1.9 kg # m2≤
+ 
+(4.2 rad>s) = 13 rad>s
+I = Ic + 21MrR22 = 1.5 kg # m2 + 215.0 kg # m2210.20 m22 = 1.9 kg # m2
+Io = Ic + 2Ir = 1.5 kg # m2 + 2(2.1 kg # m2) = 5.7 kg # m2
+ = 1
+12(5.0 kg)(0.80 m)2 + (5.0 kg)(0.20 m + 0.40 m)2 = 2.1 kg # m2
+ = 1
+12MrL2 + Mr(R + L>2)2
+ Ir = Icm(varilla) + Md2
+Ic = 1
+2McR2 = 1
+2175 kg210.20 m22 = 1.5 kg # m2
+Ir = 1
+12MrL2Ic = 1
+2McR2
+ L = 80 cm = 0.80 m
+ R = 20 cm = 0.20 m
+ Mr = 5.0 kg (una varilla o un brazo)
+ Mc = 75 kg (el cilindro o el cuerpo)
+ vo =11 rev>1.5 s212p rad>rev2 = 4.2 rad>s
+
+8.5 Cantidad de movimiento angular 285
+v
+a)
+Eje
+vertical
+Eje
+horizontal
+Eje de
+giro
+b)
+v
+v
+L L
+L
+N FIGURA 8.30 Dirección constante
+de la cantidad de movimiento 
+angular Cuando se conserva la 
+cantidad de movimiento angular, 
+su dirección permanece constante 
+en el espacio. a) Este principio 
+se observa al lanzar un balón. 
+b) También hay acción giroscópica 
+en un giroscopio: una rueda giratoria
+montada universalmente en anillos 
+de modo que pueda girar libremente
+en torno a cualquier eje. Cuando la
+montura se mueve, la rueda mantiene
+su dirección. Éste es el principio de 
+la brújula giroscópica.
+do durante algún tiempo, con su vector de cantidad de movimiento angular fijo en el 
+espacio. El centro de gravedad del giroscopio está en el eje de rotación, así que no hay 
+un momento de fuerza neto debido al peso.
+Sin embargo, a final de cuentas el giroscopio pierde aceleración debido a la fricción, y
+esto hace que se incline. Al observar este movimiento, es posible que el lector haya no-
+tado cómo el eje de rotación da vueltas (en un movimiento llamado precesión) en torno al
+eje vertical. Da vueltas inclinado, por decirlo de alguna manera (figura 8.30b). Por la pre-
+cesión del giroscopio, el vector de cantidad de movimiento angular ya no es constante
+en cuanto a dirección, lo que indica que un momento de fuerza está actuando para produ-
+cir un cambio con el tiempo. Como se aprecia en la figura, el momento de fuerza
+surge del componente vertical del peso, porque el centro de gravedad ya no está directa-
+mente arriba del punto de apoyo o en el eje vertical de rotación. El momento de fuerza
+instantáneo es tal que el eje del giroscopio se mueve, o “precesa”, en torno al eje vertical.
+De forma similar, el eje de rotación de la Tierra experimenta precesión. Dicho eje
+tiene una inclinación de 23.5/H11034con respecto a una línea perpendicular al plano de su ór-
+bita en torno al Sol; el eje “precesa” en torno a esta línea (
+▼ figura 8.31). La precesión se
+debe a pequeños momentos de fuerza gravitacionales que el Sol y la Luna ejercen so-
+bre la Tierra.
+El periodo de precesión del eje terrestre es de aproximadamente 26 000 años, así
+que la precesión no tiene un efecto cotidiano muy perceptible. No obstante, sí tiene un
+interesante efecto a largo plazo. Polaris no siempre será (ni siempre ha sido) la Estrella
+Polar, es decir, la estrella hacia la que apunta el eje de rotación de la Tierra. Hace unos
+5000 años, Alfa Draconis era la Estrella Polar, y dentro de 5000 años lo será Alfa Cefei-
+da, que está a una distancia angular de unos 68° de Polaris en el círculo descrito por la
+precesión del eje terrestre.
+1¢L
+S
+2
+L
+S
+L
+S
+> FIGURA 8.31 Precisión
+Un momento de fuerza externo 
+origina un cambio de cantidad de
+movimiento angular. a) En un 
+giroscopio, el cambio es direccional,
+y el eje de rotación experimenta
+precesión con una aceleración 
+angular /H9275
+p en torno a una línea 
+vertical. (El momento de fuerza 
+debido al peso apuntaría hacia
+afuera de la página en este dibujo,
+lo mismo que ) Aunque hay un
+momento de fuerza que haría que el
+giroscopio estático se desplomara,
+un giroscopio en rotación no se cae.
+b) Asimismo, el eje de la Tierra tiene
+precesión debido a momentos de
+fuerza gravitacionales producidos
+por el Sol y la Luna. No notamos 
+este movimiento porque su periodo
+de precesión es de unos 26 000 años.
+¢L
+S
+.
+Polaris
+a)
+mg
+N
+S
+b)
+Lgiro
+23 °1
+2
+r⊥
+L
+Lorbital
+vp
+vp
+v
+v
+
+286 CAPÍTULO 8 Movimiento rotacional y equilibrio
+Dirección del rotor
+principal
+Empuje 
+del rotor de cola
+sobre el helicóptero
+(vista superior)
+Rotor
+delantero
+Rotor
+trasero
+a)
+b)
+Fuerza de reacción del rotor
+principal sobre el fuselaje
+∑L = 0
+L –L
+▼ FIGURA 8.32 Diferentes rotores
+Véase la descripción en el texto.
+Hay otros efectos de momento de fuerza que actúan a largo plazo sobre la Tierra y
+la Luna. ¿Sabía usted que la rapidez de rotación diaria de la Tierra está disminuyendo,
+por lo cual los días son cada vez más largos? ¿Sabía que la Luna se está alejando de la
+Tierra? Esto se debe primordialmente a la fricción de las mareas oceánicas, que produ-
+ce un momento de fuerza. El resultado es que la cantidad de movimiento angular de
+giro de la Tierra y, por ende, su rapidez de rotación, está cambiando. Esta desacelera-
+ción de la rotación hará que este siglo sea unos 25 segundos más largo que el anterior.
+Dicha desaceleración, sin embargo, es un valor promedio. Ocasionalmente, la ro-
+tación de la Tierra se acelera durante periodos relativamente corto. Se cree que ello 
+tiene que ver con la inercia rotacional de la capa líquida del núcleo terrestre. (Véase 
+la sección A fondo 13.1 de la página 450.)
+El momento de fuerza de las mareas se debe principalmente a la atracción gravita-
+cional de la Luna, que es la causa fundamental de las mareas oceánicas. Este momento
+de fuerza es interno respecto al sistema Tierra-Luna, y se conserva la cantidad de movi-
+miento angular total de ese sistema. Como la Tierra está perdiendo cantidad de mo-
+vimiento angular, la Luna debe estar ganando cantidad de movimiento angular para
+que el total del sistema se mantenga constante. La Tierra pierde cantidad de movi-
+miento angular de rotación; en tanto que la Luna gana cantidad de movimiento angu-
+lar orbital. Por ello, la Luna se aleja poco a poco de la Tierra y disminuye su rapidez
+orbital. Tal alejamiento es de aproximadamente 4 cm por año. Por lo tanto, la Luna
+describe una espiral que se ensancha lentamente.
+Por último, un ejemplo común donde la cantidad de movimiento angular es una
+consideración importante es el helicóptero. ¿Qué sucedería si un helicóptero sólo 
+tuviera un rotor? Puesto que el motor que genera el momento de fuerza es interno, 
+la cantidad de movimiento angular se conserva. Inicialmente, por lo tanto, 
+para conservar la cantidad de movimiento angular total del sistema (rotor más fuse-
+laje), las cantidades de movimiento angulares individuales del rotor y el fuselaje de-
+berían tener direcciones opuestas para cancelarse. Al despegar, el rotor giraría en un
+sentido y el fuselaje del helicóptero giraría en el otro, lo cual es algo nada deseable.
+Para que no se presente esta situación, los helicópteros tienen dos rotores. Los he-
+licópteros grandes tienen dos rotores traslapantes (
+▼ figura 8.32a). Las cantidades de
+movimiento angulares de los rotores, que giran en direcciones opuestas, se cancelan,
+así que el fuselaje no tiene que girar para cancelar la cantidad de movimiento angular.
+Los rotores están a diferente altura para que sus aspas no choquen.
+Los helicópteros pequeños con un solo rotor en la parte superior tienen un peque-
+ño rotor en la cola para producir un momento de fuerza opuesto (figura 8.32b). Este ro-
+tor genera un empuje como el de una hélice y el momento de fuerza correspondiente
+compensa el momento de fuerza producido por el rotor principal. Además, el rotor de
+cola también ayuda a guiar la nave y, al aumentar o reducir su empuje, hace que el he-
+licóptero gire en un sentido o en el otro.
+L
+S
+= 0;
+
+Repaso del capítulo 287
+Repaso del capítulo
+• En el movimiento traslacional puro , todas las partículas de
+un cuerpo rígido tienen la misma velocidad instantánea.
+• En el movimiento rotacional puro (en torno a un eje fijo) ,
+todas las partículas de un cuerpo rígido tienen la misma velo-
+cidad angular instantánea.
+Condición para rodar sin resbalar:
+(8.1)
+• El momento de fuerza , que es el análogo rotacional de la
+fuerza, es el producto de una fuerza y un brazo de palanca.
+Momento de fuerza (magnitud):
+(8.2)
+(La dirección está dada por la regla de la mano derecha)
+• El equilibrio mecánico requiere que la fuerza neta, o la su-
+matoria de las fuerzas, sea cero (equilibrio traslacional); y que
+el momento de fuerza neto, o sumatoria de los momentos de
+fuerza, sea cero (equilibrio rotacional).
+Condiciones para equilibrio mecánico traslacional 
+y rotacional, respectivamente:
+(8.3)F
+S
+neta = gF
+S
+i = 0 y /H9270
+S
+neto = g /H9270
+S
+i = 0
+Eje
+Línea
+de
+acción
+de la
+fuerza
+r u
+u
+t = r⊥F
+r⊥
+F
+F⊥
+t = r/H11036F = rF sen u
+( /H9270
+S
+)
+Rodante
+= 0
+2v
+Punto de
+contacto
+v
+v
+1o s = r u o aCM = ra2
+vCM = rv
+Rotacional
+r
+=
+   = rv v
+   = rv v
+Traslacional +
+v
+v
+v
+• Un objeto está en equilibrio estable si su centro de gravedad,
+después de un pequeño desplazamiento, queda arriba y den-
+tro de la base de soporte original del objeto.
+• El momento de inercia (I) es el análogo rotacional de la masa
+y está dado por
+(8.6)
+Forma rotacional de la segunda ley de Newton:
+(8.7)
+Teorema de ejes paralelos:
+(8.8)
+Trabajo rotacional:
+(8.9)
+Potencia rotacional:
+(8.10)
+Teorema trabajo-energía (rotacional):
+(8.11)
+Energía cinética rotacional:
+(8.12)
+Energía cinética de un objeto rodante (sin deslizamiento):
+(8.13)
+• La cantidad de movimiento angular: el producto de un bra-
+zo de palanca y una cantidad de movimiento lineal, o de un
+momento de inercia y una velocidad angular.
+Cantidad de movimiento angular de una partícula en movimien-
+to circular magnitud):
+(8.14)
+Cantidad de movimiento angular de un cuerpo rígido:
+(8.16)
+Momento de fuerza como cambio de cantidad de movimiento
+angular (forma de magnitud:
+(8.17)
+Conservación de la cantidad de movimiento angular 
+(con ):
+o (8.18)
+La cantidad de movimiento angular se conserva en la ausen-
+cia de un momento de fuerza externo y no equilibrado.
+ Iv = I
+o
+ vo L = Lo
+/H9270
+S
+neto = 0
+/H9270
+S
+neto = ¢L
+S
+¢t
+L
+S
+= IV
+S
+L = r/H11036p = mr/H11036v = mr/H11036
+2v
+K = 1
+2 ICM
+ v2 + 1
+2 MvCM
+2
+K = 1
+2 Iv2
+Wneto = 1
+2 Iv2 - 1
+2 Ivo
+2 =¢ K
+P =tv
+W =tu
+d
+I = ICM  + Md2
+CMM
+I = ICM + Md2
+/H9270
+S
+neto = IA
+S
+I = g mi
+ ri
+2
+CG
+Balanceado en una
+base de soporte
+ancha
+Una perturbación produce
+un momento de fuerza
+restaurador
+a) Equilibrio estable
+
+288 CAPÍTULO 8 Movimiento rotacional y equilibrio
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son
+ejercicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos 
+pares de ejercicios, que se identifican con númer
+os subrayados, pretenden ayudar al lector a resolver problemas 
+y aprender. El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede con-
+sultarse si se necesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta 
+se da al final del libro.
+8.1 Cuerpos rígidos, traslaciones y rotaciones
+1. OM En el movimiento rotacional puro de un cuerpo rígi-
+do, a) todas las partículas del cuerpo tienen la misma ve-
+locidad angular, b) todas las partículas del cuerpo tienen
+la misma velocidad tangencial, c) la aceleración siempre
+es cero o d) siempre hay dos ejes de rotación simultáneos.
+2. OM Para un objeto sólo con movimiento de rotación, to-
+das sus partículas tienen la misma a) velocidad instantá-
+nea, b) velocidad promedio, c) distancia a partir del eje
+de rotación, d) velocidad angular instantánea.
+3. OM La condición para rodar sin resbalar es a) ac /H11005r/H92752, 
+b) vCM /H11005r/H9275, c) F /H11005ma o d) ac /H11005v2/r.
+4. OM Un objeto rodante a) tiene un eje de rotación a través
+del eje de simetría, b) tiene una velocidad cero en el pun-
+to o línea de contacto, c) se deslizará si s /H11005r/H9258, d) todas las
+opciones anteriores son verdaderas.
+5. OM Para los neumáticos de un automóvil que se derra-
+pa, a) vCM /H11005r/H9275, b) vCM /H11022r/H9275, c) vCM /H11021r/H9275, d) ninguna de
+las anteriores.
+6. PC Suponga que un compañero de su clase de física dice
+que un cuerpo rígido puede tener movimiento traslacio-
+nal y rotacional al mismo tiempo. ¿Estaría de acuerdo? 
+Si lo está, dé un ejemplo.
+7. PC ¿Qué sucedería si la rapidez tangencial v de un ci-
+lindro rodante fuera menor que r/H9275? ¿v puede ser mayor
+que r/H9275? Explique.
+8. PC Si la parte más alta de un neumático se mueve con ra-
+pidez v, ¿qué marcará el velocímetro del automóvil?
+9.
+● Una rueda va rodando uniformemente en un plano,
+sin resbalar. Un poco de fango sale despedido de la rue-
+da en la posición correspondiente las 9:00 en un reloj
+(parte trasera de la rueda). Describa el movimiento sub-
+secuente del fango.
+10.
+● Una cuerda pasa sobre una polea circular de 6.5 cm de
+radio. Si la polea da cuatro vueltas sin que la cuerda res-
+bale, ¿qué longitud de cuerda pasará por la polea?
+1
+1. ● Una rueda da cinco vueltas sobre una superficie hori-
+zontal sin resbalar. Si el centro de la rueda avanza 3.2 m,
+¿qué radio tendrá la rueda?
+12.
+●● Una bola de bolos con un radio de 15.0 cm se desplaza
+por la pista de manera que su centro de masa se mueve a
+3.60 m/s. El jugador estima que realiza 7.50 revoluciones
+completas en 2.00 segundos. ¿Está rodando sin deslizarse?
+Pruebe su respuesta suponiendo que la observación rá-
+pida del jugador limita las respuestas a dos cifras signi-
+ficativas.
+13.
+●● Una esfera con 15 cm de radio rueda sobre una super-
+ficie horizontal y la rapidez traslacional del centro de
+masa es 0.25 m/s. Calcule la rapidez angular en torno al
+centro de masa si la esfera rueda sin resbalar.
+14. EI
+●● a) Cuando un disco rueda sin resbalar, ¿el produc-
+to r/H9275debería ser 1) mayor que, 2) igual a o 3) menor que
+vCM? b) Un disco de 0.15 m de radio gira 270 /H11034mientras
+avanza 0.71 m. ¿El disco rueda sin resbalar? Justifique su
+respuesta.
+15.
+●●● Una pelota de bocce (o bochas, un deporte popular
+en Italia) con un diámetro de 6.00 cm rueda sin deslizar-
+se sobre un césped horizontal. Tiene una rapidez angu-
+lar inicial de 2.35 rad/s y llega al reposo después de
+2.50 m. Suponiendo que la deceleración es constante, 
+a) determine la magnitud de su deceleración angular 
+y b) la magnitud de la aceleración tangencial máxima 
+de la superficie de la pelota (indique dónde se localiza
+esa parte).
+16.
+●●● Un cilindro de 20 cm de diámetro rueda con rapi-
+dez angular de 0.50 rad/s sobre una superficie hori-
+zontal. Si el cilindro experimenta una aceleración tan-
+gencial uniforme de 0.018 m/s
+2 sin resbalar hasta que
+su rapidez angular sea de 1.25 rad/s, ¿cuántas revolu-
+ciones completas habrá efectuado el cilindro durante
+su aceleración?
+8.2 Momento de fuerza, equilibrio y estabilidad
+17. OM Es posible tener un momento de fuerza neto cuando
+a) todas las fuerzas actúan a través del eje de rotación, 
+b) c) un objeto está en equilibrio rotacional o 
+d) un objeto permanece en equilibrio inestable.
+18. OM Si un objeto en equilibrio inestable se desplaza un
+poco, a) su energía potencial disminuirá, b) el centro de
+gravedad estará directamente arriba del eje de rotación,
+c) no se efectuará trabajo gravitacional o d) entrará en
+equilibrio estable.
+19. OM Un momento de fuerza tiene las mismas unidades
+que a) el trabajo, b) la fuerza, c) la velocidad angular o 
+d) la aceleración angular.
+20. PC Si levantamos objetos usando la espalda en vez de
+las piernas, es común que nos duela la espalda. ¿Por
+qué?
+21. PC Una gimnasta sobre la barra de equilibrio se agacha
+cuando siente que está perdiendo el equilibrio. ¿Por
+qué?
+22. PC Explique los actos de equilibrismo de la 
+Nfigura 8.33.
+¿Dónde está el centro de gravedad?
+gF
+S
+i = 0,
+
+Ejercicios 289
+▲ FIGURA 8.33 Actos de equilibrismo Véase el ejercicio 22.
+Izquierda: un mondadientes (palillo) en el borde de un vaso
+sostiene un tenedor y una cuchara. Derecha: una ave de
+juguete se equilibra en su pico.
+23. PC “Reventar la rueda” es una acrobacia de motocicleta,
+en la cual el extremo frontal de la moto se eleva del piso en
+una salida rápida, y permanece en el aire durante cierta
+distancia. Explique la física implicada en esta acrobacia.
+24. PC En los casos tanto del equilibrio estable como del ines-
+table, un pequeño desplazamiento del centro de gravedad
+implica tener que realizar trabajo gravitacional. (Véase las
+pelotas y los recipientes cóncavos en la figura 8.11.) Sin
+embargo, hay otro tipo de equilibrio donde el desplaza-
+miento del centro de masa no implica trabajo gravitacio-
+nal. Se le conoce como equilibrio neutro, en el que, en
+esencia, el centro de gravedad desplazado se mueve en lí-
+nea recta. Dé un ejemplo de un objeto en equilibrio neutro. 
+25.
+● En la figura 8.4a, si el brazo forma un ángulo de 37 /H11034
+con la horizontal y se requiere un momento de fuerza 
+de 18 m · N, ¿qué fuerza debe generar el bíceps?
+26. ● El tapón de vaciado del aceite en el motor de un auto-
+móvil se apretó con un momento de fuerza de 25 m · N. Si
+se emplea una llave inglesa para cambiar el aceite, ¿cuál
+será la fuerza mínima necesaria para aflojar el tapón?
+27. ● En el ejercicio 26, a causa del limitado espacio para tra-
+bajar, usted debe arrastrarse debajo del automóvil. Por lo
+tanto, no es posible aplicar la fuerza de forma perpendicu-
+lar con respecto a la longitud de la llave inglesa. Si la fuer-
+za aplicada forma un ángulo de 30/H11034con respecto al mango
+de la llave inglesa, ¿cuál será la fuerza que se requiere pa-
+ra aflojar el tapón de vaciado del aceite?
+28.
+● ¿Cuántas posiciones de equilibrio estable e inestable
+distintas tiene un cubo? Considere cada superficie, arista
+y esquina como una posición diferente.
+29. EI
+● Dos niños están en extremos opuestos de un subibaja
+uniforme de masa insignificante. a) ¿Puede equilibrarse el
+balancín si los niños tienen diferente masa? ¿Cómo? b) Si
+un niño de 35 kg está a 2.0 m del punto pivote (o fulcro), 
+¿a qué distancia de ese punto, al otro lado, tendrá que sen-
+tarse su amiga de 30 kg para equilibrar el subibaja?
+30. ● Una regla uniforme de un metro que pivotea sobre su
+punto medio, como en el ejemplo 8.5, tiene una masa de
+100 g colgada de la posición de 25.0 cm. a) ¿En qué posición
+debería colgarse una masa de 75.0 g para que el sistema es-
+té en equilibrio? b) ¿Qué masa tendría que colgarse de la
+posición de 90.0 cm para que el sistema esté en equilibrio?
+31.
+●● Demuestre que la regla de un metro equilibrada del
+ejemplo 8.5 está en equilibrio rotacional estático en torno
+a un eje horizontal que pasa por la marca de 100 cm de la
+escala.
+32. EI
+●● Se permite que las líneas telefónicas y eléctricas
+cuelguen entre postes, para que la tensión no sea excesiva
+cuando algo golpee un cable o se pose en él. a) ¿Las líneas
+podrían ser perfectamente horizontales? ¿Por qué? b) Su-
+ponga que un cable se estira hasta quedar casi perfecta-
+mente horizontal entre dos postes separados 30 m. Si un
+pájaro de 0.25 kg se posa en el punto medio del cable y és-
+te baja 1.0 cm, ¿qué tensión hay en el cable?
+33.
+●● En la ▼ figura 8.34, ¿qué fuerza Fm genera el músculo
+deltoides para sostener el brazo extendido, si la masa del
+brazo es de 3.0 kg? (F
+j es la fuerza de la articulación sobre
+el hueso del brazo, el húmero.)
+18 cm
+26 cm
+9.4°Fj
+Fm
+mg
+15°
+▲ FIGURA 8.34 Brazo en equilibrio estático Véase 
+el ejercicio 33.
+34. ●● En la figura 8.4b, determine la fuerza que ejerce el
+bíceps, suponiendo que la mano está sosteniendo una
+pelota con una masa de 5.00 kg. Suponga que la masa
+del antebrazo es de 8.50 kg con su centro de masa lo-
+calizado a 20.0 cm de la articulación del codo (el punto
+negro en la figura). Suponga también que el centro de
+masa de la pelota en la mano se localiza a 30.0 cm del
+codo. (La inserción del músculo está a 4.00 cm del codo,
+ejemplo 8.2.)
+35.
+●● Una bola de bolos (con masa de 7.00 kg y radio de
+17.0 cm) se avienta tan rápido que derrapa sin rodar por
+la pista (al menos por un momento). Suponga que la 
+bola derrapa hacia la derecha y que el coeficiente de fric-
+ción de deslizamiento entre la bola y la superficie del 
+carril es 0.400. a) ¿Cuál será la dirección del momento de
+fuerza ejercido por la fricción sobre la bola alrededor del
+centro de masa de ésta? b) Determine la magnitud de es-
+te momento de fuerza (de nuevo alrededor del centro de
+masa de la bola).
+36.
+●● Una variación de la tracción Russell ( ▼ figura 8.35)
+sostiene la pantorrilla enyesada. Suponga que la pierna y
+el yeso tienen una masa combinada de 15.0 kg y que m
+1
+es 4.50 kg. a) ¿Qué fuerza de reacción ejercen los múscu-
+los de la pierna contra la tracción? b) ¿Qué valor debe te-
+ner m2 para mantener horizontal la pierna?
+
+290 CAPÍTULO 8 Movimiento rotacional y equilibrio
+m2
+m1
+▲ FIGURA 8.35 Tracción estática Véase el ejercicio 36.
+40 cm
+90/H11034
+60/H11034
+30/H11034
+0/H11034m /H11005 5.0 kg
+30 cm 15 cm
+15 cm25 cm
+20 cm40 cm
+m1 = 0.10 kg
+m4
+m2
+m3
+▲ FIGURA 8.37 Pájaros y abejas Véase el ejercicio 38.
+25 kg30 kg
+1.6 m
+xCG
+CG
+▲ FIGURA 8.38 Localización del centro de gravedad
+Véase el ejercicio 39.
+0
+0
+0
+0 50 cm 100 cm
+70 cm
+85 cm
+90 cm
+▲ FIGURA 8.39 ¿Se caerán? Véase el ejercicio 41.
+▲ FIGURA 8.36 Momento de fuerza en una terapia física
+Véase el ejercicio 37.
+37. ●● Al realizar su terapia física para una rodilla lesiona-
+da, una persona levanta una bota de 5.0 kg como se ilus-
+tra en la 
+▼ figura 8.36. Calcule el momento de fuerza que
+ejerce la bota para cada posición mostrada.
+39. EI ●● La ubicación del centro de gravedad de una persona
+en relación con su altura se determina utilizando el mode-
+lo de la 
+Nfigura 8.38. Las básculas se ajustaron inicialmente
+a cero con la tabla sola. a) ¿Usted esperaría que la ubicación
+del centro de masa estuviera 1) a la mitad del camino entre
+las básculas, 2) hacia la báscula situada debajo de la cabeza
+de la persona o 3) hacia la báscula situada debajo de los
+pies de la persona? ¿Por qué? b) Localice el centro de grave-
+dad de la persona en relación con la dimensión horizontal.
+2.5 m1.5 m 1.5 m
+▲ FIGURA 8.40 ¡No tan lejos! Véanse los ejercicios 43 y 46.
+38. ●● Un artista quiere construir el móvil de pájaros y abejas
+que se muestra en la ▼ figura 8.37. Si la masa de la abeja
+de la izquierda es de 0.10 kg y cada hilo vertical tiene una
+longitud de 30 cm, ¿qué masa tendrán la otra abeja y los
+pájaros? (Ignore las masas de las barras y las cuerdas.)
+40.
+●● a) ¿Cuántos libros uniformes idénticos de 25.0 cm de
+ancho pueden apilarse en una superficie horizontal sin
+que el montón se desplome, si cada libro sucesivo se des-
+plaza 3.00 cm a lo ancho, en relación con el libro inmedia-
+to inferior? b) Si los libros tienen 5.00 cm de espesor, ¿a
+qué altura sobre la superficie horizontal estará el centro
+de masa del montón?
+41.
+●● Si cuatro reglas de un metro cada una se apilan en una
+mesa con 10, 15, 30 y 50 cm, respectivamente, proyectán-
+dose más allá del borde de la mesa, como se muestra en la
+▼ figura 8.39, ¿la regla de la parte superior permanecerá
+sobre la mesa?
+42. ●● Un cubo sólido y uniforme de 10.0 kg, de 0.500 m por
+lado, descansa en una superficie horizontal. ¿Qué trabajo
+mínimo se requiere para colocarlo en una posición de
+equilibrio inestable?
+43.
+●● Parado en una tabla larga que descansa sobre un an-
+damio, un hombre de 70 kg pinta un muro, como se ob-
+serva en la 
+▼ figura 8.40. Si la masa de la tabla es de 15 kg,
+¿qué tan cerca de un extremo puede pararse el pintor sin
+que la tabla se incline?
+
+Ejercicios 291
+44. ●● Una masa está suspendida por dos cuerdas, como se
+ilustra en la ▼ figura 8.41. ¿Cuáles son las tensiones en las
+cuerdas?
+45. ●● Si la cuerda sostenida de la pared vertical en la figura
+8.41 estuviera en posición horizontal (en vez de formar un
+ángulo de 30/H11034), ¿cuáles serían las tensiones en las cuerdas?
+46.
+●●● Suponga que la tabla de la figura 8.40 pende de
+cuerdas verticales sujetas a cada extremo, en vez de des-
+cansar sobre un andamio. Si el pintor se para a 1.5 m de
+un extremo de la tabla, ¿qué tensión habrá en cada cuer-
+da? (Busque datos adicionales en el ejercicio 43.)
+47. EI
+●●● En un acto circense, una tabla uniforme (con lon-
+gitud de 3.00 m y masa de 35.0 kg) está suspendida de
+una cuerda por un extremo, mientras que el otro extremo
+descansa sobre un pilar de concreto. Cuando un payaso
+(con masa de 75.0 kg) se sube a la tabla en su punto me-
+dio, ésta se inclina de manera que el extremo de la cuer-
+da queda a 30° con respecto a la horizontal y la cuerda
+permanece vertical. a) ¿En qué situación será mayor la
+tensión de la cuerda? 1) la tabla sin el payaso encima, 
+2) la tabla con el payaso encima o 3) no es posible deter-
+minarlo a partir de los datos. b) Calcule la fuerza ejerci-
+da por la cuerda en ambas situaciones.
+48. EI
+●●● Las fuerzas que actúan sobre Einstein y la bicicleta
+(figura 2 de la sección A fondo en la p. 271) son el peso total
+de Einstein y la bicicleta (mg) en el centro de gravedad del
+sistema, la fuerza normal (N) ejercida por el pavimento y la
+fuerza de fricción estática (f
+s) que actúa sobre los neumáti-
+cos debido al pavimento. a) Para que Einstein mantenga el
+equilibrio, ¿la tangente del ángulo de inclinación /H9258(tan /H9258)
+debería ser 1) mayor que, 2) igual a o 3) menor que fs/N? 
+b) El ángulo /H9258de la figura es de unos 11°. Calcule el coefi-
+ciente mínimo de fricción estática (/H9262s) entre las ruedas y 
+el pavimento? c) Si el radio del círculo es de 6.5 m, ¿qué ra-
+pidez máxima tendría la bicicleta? [Sugerencia: el momento
+de fuerza neto en torno al centro de gravedad debe ser cero
+para que haya equilibrio rotacional.]
+8.3 Dinámica rotacional
+49. OM El momento de inercia de un cuerpo rígido a) depen-
+de del eje de rotación, b) no puede ser cero, c) depende de
+la distribución de masa o d) todo lo anterior.
+50. OM ¿Qué de lo siguiente describe mejor la cantidad físi-
+ca llamada momento de fuerza? a) Análogo rotacional de
+la fuerza, b) energía debida a la rotación, c) tasa de cam-
+bio con respecto al tiempo de la cantidad de movimiento
+lineal o d) fuerza tangente a un círculo.
+51. OM En general, el momento de inercia es mayor cuando
+a) más masa está más lejos del eje de rotación, b) más masa es-
+tá más cerca del eje de rotación, c) en realidad esto no importa.
+45°
+30°
+1.5 kg
+m
+cuerda 1
+cuerda 2
+> FIGURA 8.41 Una
+gran tensión Véanse
+los ejercicios 44 y 45.
+1.00 kg
+2.00 kg 3.00 kg
+4.00 kg
+5.00 m
+3.00 m
+y
+xO
+▲ FIGURA 8.42 Momentos de inercia en torno a diferentes
+ejes Véase el ejercicio 60.
+52. OM El momento de inercia en torno a un eje paralelo al
+eje que pasa por el centro de masa depende de a) la masa
+del cuerpo rígido, b) la distancia entre los ejes, c) el mo-
+mento de inercia en torno al eje que pasa por el centro de
+masa o d) todas las opciones anteriores.
+53. PC a) ¿El momento de inercia de un cuerpo rígido de-
+pende en algún sentido del centro de masa del cuerpo?
+Explique. b) ¿El momento de inercia de un cuerpo podría
+tener un valor negativo? Si su respuesta es afirmativa,
+explique el significado.
+54. PC ¿Por qué el momento de inercia de un cuerpo rígido
+tiene diferentes valores para diferentes ejes de rotación?
+¿Qué significa esto físicamente?
+55. PC Cuando se imparte rápidamente un momento de
+fuerza (giro) a un huevo duro que está sobre una mesa,
+el huevo se levanta y gira sobre un extremo como un
+trompo. Un huevo crudo no lo hace. ¿A qué se debe la
+diferencia?
+56. PC ¿Por qué una toalla de papel se desprende mejor de
+un rollo si se le da un tirón, que si se tira de ella suave-
+mente? ¿La cantidad de papel en el rollo influye en los
+resultados?
+57. PC Los equilibristas están en riesgo continuo de caer
+(equilibrio inestable). Por lo general usan una pértiga o
+vara larga mientras caminan por la cuerda floja, como se
+observa en la imagen de inicio del capítulo. ¿Cuál es la fi-
+nalidad de la pértiga? (Cuando camina por una vía de
+tren o por una tabla angosta, quizás usted extienda sus
+brazos por la misma razón.)
+58.
+● Un momento de fuerza neto de 6.4 m · N actúa sobre
+una polea fija de 0.15 kg, en forma de disco sólido, con
+radio de 0.075 m. Calcule la aceleración angular de la
+polea.
+59.
+● ¿Qué momento de fuerza neto se requiere para impar-
+tir una aceleración angular de 20 rad/s2 a una esfera sóli-
+da uniforme de 0.20 m de radio y 20 kg?
+60. ● Para el sistema de masa de la ▼ figura 8.42, calcule el
+momento de inercia en torno a) al eje x, b) al eje y y c) un
+eje que pasa por el origen y es perpendicular a la página
+(eje z). Desprecie las masas de las varillas que conectan.
+
+eje
+25.0 cm
+m2g
+m2
+R
+m1g
+T2
+T1
+T1
+T2
+tf
+m1
+a
+a
+a
+> FIGURA 8.43 Otra vez
+la máquina de Atwood
+Véase el ejercicio 65.
+292
+CAPÍTULO 8 Movimiento rotacional y equilibrio
+m1
+T1
+T2
+u
+m2
+a
+▲ FIGURA 8.45 Plano inclinado y polea Véase el ejercicio 68.
+61. ● Una regla ligera de un metro se carga con masas de 2.0
+y 4.0 kg en las posiciones de 30 y 75 cm, respectivamente.
+a) Calcule el momento de inercia en torno a un eje que
+pasa por la posición de 0 cm. b) Determine el momento
+de inercia en torno a un eje que pasa por el centro de ma-
+sa del sistema. c) Use el teorema de ejes paralelos para
+calcular el momento de inercia en torno a un eje que pasa
+por la posición de 0 cm y compare el resultado con el del
+inciso b.
+62.
+●● Una rueda de la fortuna de 2000 kg acelera desde el
+reposo hasta una rapidez angular de 2.0 rad/s en 12 s.
+Considerando la rueda como un disco circular de 30 m
+de radio, calcule el momento de fuerza neto sobre ella.
+63.
+●● Una esfera uniforme de 15 cm de radio y de 15 kg gi-
+ra a 3.0 rad/s en torno a un eje tangente a su superficie.
+Entonces, un momento de fuerza constante de 10 m · N
+aumenta la rapidez de rotación a 7.5 rad/s. ¿Qué ángulo
+gira la esfera mientras está acelerando?
+64. EI
+●● Dos objetos de diferente masa están unidos por
+una varilla ligera. a) ¿El momento de inercia en torno al
+centro de masa es el mínimo o el máximo? ¿Por qué? b) Si
+las dos masas son de 3.0 y 5.0 kg, y la longitud de la vari-
+lla es de 2.0 m, calcule los momentos de inercia del siste-
+ma en torno a un eje perpendicular a la varilla, que pasa
+por el centro de la varilla y por el centro de masa.
+65.
+●● Dos masas penden de una polea como se muestra en
+la ▼figura 8.43 (otra vez la máquina de Atwood; véase el
+capítulo 4, ejercicio 68). La polea tiene una masa de 0.20 kg,
+un radio de 0.15 m y un momento de fuerza constante de
+0.35 m · N debido a la fricción que hay entre ella y su eje
+al girar. ¿Qué magnitud tiene la aceleración de las masas
+suspendidas si m
+1 /H110050.40 kg y m2 /H110050.80 kg? (Desprecie la
+masa de la cuerda.)
+66. ●● La puerta de un submarino se diseña de manera que
+su placa rectangular gire sobre dos ejes rectangulares, co-
+mo se muestra en la 
+▼ figura 8.44. Cada eje tiene una ma-
+sa de 50.0 kg y una longitud de 25.0 cm. La puerta tiene
+una masa de 200 kg y mide 50 cm por 1.00 m. Calcule el
+momento de inercia de este sistema puerta-ventanilla en-
+torno a la línea de bisagras (que se representa con una lí-
+nea vertical punteada en la figura).
+67.
+●● Para encender su podadora de césped, Julie tira de
+una cuerda enrollada en una polea, la cual tiene un mo-
+mento de inercia en torno a su eje central de I /H110050.550 kg ·
+m
+2 y un radio de 5.00 cm. Hay un momento de fuerza
+equivalente debido a la fricción de /H9270f /H110050.430 m · N, que
+dificulta el tirón de Julie. Para acelerar la polea a /H9251/H110054.55
+rad/s2, a) ¿qué momento de fuerza necesita aplicar Julie a
+la polea? b) ¿Cuánta tensión debe ejercer la cuerda?
+68. ●● Para el sistema de la ▼ figura 8.45, m1 /H110058.0 kg, m2 /H11005
+3.0 kg, /H9258/H1100530° y el radio y la masa de la polea son 0.10 m 
+y 0.10 kg, respectivamente. a) ¿Qué aceleración tienen las
+masas? (Desprecie la fricción y la masa de la cuerda.) b) Si
+la polea tiene un momento de fuerza de fricción constante
+de 0.050 m · N cuando el sistema está en movimiento ¿qué
+aceleración tiene las masas? [Sugerencia: aísle las fuerzas.
+Las tensiones en las cuerdas son distintas. ¿Por qué?]
+69.
+●● Una regla de un metro que pivotea en torno a un eje
+horizontal que pasa por la posición de 0 cm se sostiene en
+posición horizontal y luego se suelta. a) ¿Qué aceleración
+tangencial tiene la posición de 100 cm? ¿Le sorprende este
+resultado? b) ¿Qué posición tiene una aceleración tangen-
+cial igual a la aceleración debida a la gravedad?
+70.
+●● Se colocan moneditas a cada 10 cm sobre una regla de
+un metro. Un extremo de la regla se apoya en una mesa y
+el otro se sostiene con el dedo, de manera que la regla esté
+horizontal 
+Nfigura 8.46. Si se quita el dedo, ¿qué le sucede-
+rá a las monedas?
+> FIGURA 8.44 Puerta de
+submarino (no está a escala)
+Véase el ejercicio 66.
+
+Ejercicios 293
+72. ●●● Una sonda espacial planetaria tiene forma cilíndri-
+ca. Para protegerla del calor en un lado (de los rayos so-
+lares), los operadores en la Tierra la ponen en “forma de
+asador”, es decir, hacen que gire sobre su largo eje. Para
+lograr esto, colocan cuatro pequeños cohetes montados
+tangencialmente como se observa en la 
+▼ figura 8.48 (la
+sonda se ilustra con el frente hacia usted). El objetivo es
+hacer que la sonda dé un giro completo cada 30 s, par-
+tiendo de rotación cero. Los operadores quieren lograr
+esto encendiendo los cuatro cohetes durante cierto tiem-
+po. Cada cohete ejerce una propulsión de 50.0 N. Supon-
+ga que la sonda es un cilindro sólido uniforme con un
+radio de 2.50 m y una masa de 1000 kg; ignore la masa
+del motor de los cohetes. Determine el tiempo que los co-
+hetes deben estar encendidos.
+71.
+●●● Un cilindro uniforme de 2.0 kg y 0.15 m de radio
+pende de dos cuerdas enrolladas en él ( ▼ figura 8.47). Al
+bajar el cilindro, las cuerdas se desarrollan. ¿Qué acelera-
+ción tiene el centro de masa del cilindro? (Desprecie la
+masa de las cuerdas.)
+73. EI
+●●● Una esfera de radio R y masa M baja rodando por
+una pendiente de ángulo /H9258. a) Para que la esfera ruede sin
+resbalar, ¿la tangente del ángulo máximo de la pendiente
+(tan /H9258) debe ser igual a 1) 3 /H9262
+s/2, 2) 5 /H9262s/2, 3) 7 /H9262s/2 o 4) 9
+/H9262s/2? (/H9262s es el coeficiente de fricción estática.) b) Si la esfera
+es de madera, al igual que la superficie, ¿qué ángulo máxi-
+mo puede tener la pendiente? [Sugerencia: véase la tabla 4.1.]
+▲ FIGURA 8.46 ¿Dinero rezagado? Véase el ejercicio 70.
+M
+R
+TT
+> FIGURA 8.47
+Desenrollado con
+gravedad Véase el
+ejercicio 71.
+8.4 Trabajo rotacional y energía cinética
+74. OM Dado que W /H11005/H9270/H9258, la unidad de trabajo rotacional es
+a) watt, b) N · m, c) kg · rads/s2, d) N · rad.
+75. OM Una bola de bolos rueda sin resbalar por una super-
+ficie horizontal. La bola tiene a) energía cinética rotacio-
+nal, b) energía cinética traslacional, c) energía cinética
+tanto rotacional como traslacional o d) ni energía cinéti-
+ca rotacional ni traslacional.
+76. OM Un cilindro que rueda sobre una superficie horizontal
+tiene a) energía cinética de rotación, b) energía cinética de
+traslación, c) energía cinética de rotación y de traslación.
+77. PC ¿Es posible aumentar la energía cinética rotacional
+de una rueda sin alterar su energía cinética traslacional?
+Explique.
+78. PC Para aumentar la eficiencia con que sus vehículos uti-
+lizan el combustible, los fabricantes de automóviles quie-
+ren reducir al máximo la energía cinética rotacional y
+aumentar al máximo la energía cinética traslacional cuan-
+do un coche avanza. Si usted tuviera que diseñar ruedas
+de cierto diámetro, ¿cómo las diseñaría?
+79. PC ¿Qué se requiere para producir un cambio en la ener-
+gía cinética rotacional?
+80.
+● Un momento de fuerza retardante constante de 12 m · N
+detiene una rueda rodante de 0.80 m de diámetro en una
+distancia de 15 m. ¿Cuánto trabajo efectúa el momento de
+fuerza?
+81.
+● Una persona abre una puerta aplicando una fuerza de
+15 N perpendicular a ella, a 0.90 m de las bisagras. La
+puerta se abre completamente (a 120°) en 2.0 s. a) ¿Cuánto
+trabajo se efectuó? b) ¿Qué potencia promedio se generó?
+82.
+● Un momento de fuerza constante de 10 m · N se aplica
+a un disco uniforme de 10 kg y 0.20 m de radio. Partien-
+do del reposo, ¿qué rapidez angular tiene el disco en tor-
+no a un eje que pasa por su centro, después de efectuar
+dos revoluciones?
+83.
+● Una polea de 2.5 kg y 0.15 m de radio pivotea en torno
+a un radio que pasa por su centro. ¿Qué momento de
+fuerza constante se requiere para que la polea alcance
+una rapidez angular de 25 rad/s, después de efectuar 3.0
+revoluciones, si parte del reposo?
+84. EI
+● En la figura 8.23, una masa m desciende una distan-
+cia vertical desde el reposo. (Desprecie la fricción y la
+masa de la cuerda.) a) Por la conservación de la energía
+mecánica, ¿la rapidez lineal de la masa en descenso será
+1) mayor, 2) igual o 3) menor que ¿Por qué? b) Si
+m /H110051.0 kg, M /H110050.30 kg y R /H110050.15 m, ¿qué rapidez lineal
+tiene la masa después de haber descendido una distancia
+vertical de 2.0 m desde el reposo?
+85.
+●● Una esfera con radio de 15 cm rueda sobre una super-
+ficie horizontal con rapidez angular constante de 10 rad/s.
+¿Hasta qué altura en un plano inclinado de 30° subirá 
+rodando la esfera antes de detenerse? (Desprecie las pér-
+didas por fricción.)
+86.
+●● Estime la razón de la energía cinética de traslación de la
+Tierra en su órbita alrededor del Sol, con respecto a la ener-
+gía cinética rotacional que realiza en torno a su eje N-S.
+22gh
+ ?
+▲ FIGURA 8.48 Sonda espacial en “forma de asador”
+Véase el ejercicio 72.
+
+294 CAPÍTULO 8 Movimiento rotacional y equilibrio
+R
+a)
+b)
+h
+r
+> FIGURA 8.49 Rizar
+el rizo y rapidez
+rotacional Véase 
+el ejercicio 95.
+87.
+●● Usted desea acelerar un pequeño carrusel desde el
+reposo hasta la rapidez de rotación de un tercio de una
+revolución por segundo empujándolo tangencialmente.
+Suponga que el carrusel es un disco con una masa de
+250 kg y un radio de 1.50 m. Ignorando la fricción, ¿qué
+tan fuerte debe empujar tangencialmente para lograr es-
+to en 5.00 s? (Utilice métodos de energía y suponga que
+usted empuja de manera constante.)
+88.
+●● Una varilla delgada de 1.0 m de largo apoyada en un
+extremo cae (gira) desde un posición horizontal, partien-
+do del reposo y sin fricción. ¿Qué rapidez angular tiene
+cuando queda vertical? [Sugerencia: considere el centro de
+masa y use la conservación de la energía mecánica.]
+89. ●● Una esfera uniforme y un cilindro uniforme con la
+misma masa y radio ruedan con la misma velocidad jun-
+tos por una superficie horizontal sin deslizarse. Si la esfe-
+ra y el cilindro se acercan a un plano inclinado y suben
+por él rodando sin deslizarse, ¿alcanzarán la misma altu-
+ra cuando se detengan? Si no, ¿qué diferencia porcentual
+habrá entre sus alturas?
+90.
+●● Un aro parte del reposo a una altura de 1.2 m sobre la
+base de un plano inclinado y baja rodando bajo la in-
+fluencia de la gravedad. ¿Qué rapidez lineal tiene el cen-
+tro de masa del aro, justo en el momento en que el aro
+llega al pie de la pendiente y comienza a rodar por una
+superficie horizontal? (Desprecie la fricción.)
+91.
+●● Un volante industrial con momento de inercia de 4.25 /H11003
+102 kg · m2 gira con una rapidez de 7500 rpm. a) ¿Cuán-
+to trabajo se requiere para detenerlo? b) Si ese trabajo se
+efectúa uniformemente en 1.5 min, ¿qué tanta potencia
+se gastará?
+92.
+●● Un arco cilíndrico, un cilindro y una esfera con el mis-
+mo radio y masa se sueltan simultáneamente desde la ci-
+ma de un plano inclinado. Utilice la conservación de la
+energía mecánica para demostrar que la esfera siempre
+llega primero a la base con la rapidez más alta, y el aro
+siempre llega último con la rapidez más baja.
+93.
+●● Para los siguientes objetos, todos los cuales ruedan
+sin resbalar, determine la energía cinética rotacional en
+torno al centro de masa, como porcentaje de la energía ci-
+nética total: a) una esfera sólida, b) un casco esférico del-
+gado y c) un casco cilíndrico delgado.
+94.
+●●● En una secadora de ropa, el tambor cilíndrico (con
+radio de 50.0 cm y masa de 35.0 kg) gira una vez por se-
+gundo. a) Determine su energía cinética rotacional en
+torno a su eje central. b) Si partió del reposo y alcanzó esa
+rapidez en 2.50 s, determine el momento de fuerza neto
+promedio sobre el tambor de la secadora.
+95. ●●● Una esfera de acero baja rodando por una pendien-
+te y entra en un rizo de radio R (Nfigura 8.49a). a) ¿Qué
+rapidez mínima debe tener la parte más alta del rizo pa-
+ra mantenerse en la pista? b) ¿A qué altura vertical (h) en
+la pendiente, en términos del radio del rizo, debe soltar-
+se la esfera para que tenga esa rapidez mínima necesaria
+en la parte superior del rizo? (Desprecie las pérdidas por
+fricción.) c) La figura 8.49a muestra el rizo de una mon-
+taña rusa. ¿Qué sentirán los pasajeros si el carrito tiene la
+rapidez mínima en la parte superior del rizo, y si tiene
+una rapidez mayor? [ Sugerencia: si la rapidez es menor
+que la mínima, las correas en la cintura y hombros evita-
+rán que los pasajeros se salgan.]
+8.5 Cantidad de movimiento angular
+96. OM Las unidades de cantidad de movimiento angular
+son a) N · m, b) kg · m/s2, c) kg · m2/s, d) J · m.
+97. OM La rapidez orbital de la Tierra es la mayor a) el 21 de
+marzo, b) el 21 de junio, c) el 21 de septiembre, d) el 21 
+de diciembre.
+98. OM La cantidad de movimiento angular puede incre-
+mentarse mediante a) la disminución del momento de
+inercia, b) la disminución de la velocidad angular, c) el
+incremento del producto de la cantidad de movimiento
+angular y el momento de inercia, d) ninguna de las op-
+ciones anteriores.
+99. PC Un niño se para en el borde de un pequeño carrusel
+de jardín (de los que se empujan manualmente) que gira.
+Luego comienza a caminar hacia el centro del carrusel, lo
+cual origina una situación peligrosa. ¿Por qué?
+100. PC La liberación de grandes cantidades de dióxido de car-
+bono podría elevar la temperatura promedio de la Tierra
+por el llamado efecto invernadero, y hacer que se derritan
+los casquetes polares. Si ocurriera esto y el nivel del mar
+ascendiera sustancialmente, ¿qué efecto tendría ello sobre
+la rotación terrestre y la longitud del día?
+101. PC En la demostración de salón de clases que se ilustra
+en la 
+▼ figura 8.50, una persona en un banquito giratorio
+sostiene una rueda de bicicleta giratoria con mangos uni-
+dos a la rueda. Cuando la rueda se sostiene horizontal-
+mente, la persona gira en un sentido (horario visto desde
+arriba). Cuando la rueda se voltea, la persona gira en la
+dirección opuesta. Explique esto. [ Sugerencia: considere
+vectores de cantidad de movimiento angular.]
+L
+vv
+L
+L
+▲ FIGURA 8.50 Rotación más rápida Véase el ejercicio 101.
+
+Ejercicios 295
+102. PC Los gatos suelen caer parados, incluso si se les coloca
+boca arriba y luego se les deja caer ( ▼ figura 8.51). Mien-
+tras el gato cae, no hay momento de fuerza externo y su
+centro de masa cae como una partícula. ¿Cómo pueden
+los gatos darse vuelta mientras caen?
+103. PC Dos patinadores sobre hielo (con pesos iguales)
+avanzan uno hacia el otro, con igual rapidez en trayecto-
+rias paralelas. Al pasar uno junto del otro, unen sus bra-
+zos. a) ¿Cuál es la velocidad de su centro de masa
+después de que unen los brazos? b) ¿Qué sucede con sus
+energías cinéticas lineales iniciales?
+104.
+● ¿Qué cantidad de movimiento angular tiene una par-
+tícula de 2.0 g que se mueve en dirección antihoraria (vis-
+ta desde arriba), con una rapidez angular de 5/H9266rad/s en
+un círculo horizontal de 15 cm de radio? (Dé la magnitud
+y dirección.)
+105.
+● Un disco giratorio de 10 kg y 0.25 m de radio tiene una
+cantidad de movimiento angular de 0.45 kg · m2/s. ¿Qué
+rapidez angular tiene?
+106. ●● Calcule la razón de las magnitudes de las cantidades
+de movimiento angulares orbital y rotacional de la Tie-
+rra. ¿Estas cantidades de movimiento tienen la misma 
+dirección?
+107. ●● El periodo de rotación de la Luna es igual a su perio-
+do de revolución: 27.3 días (siderales). ¿Qué cantidad de
+movimiento angular tienen cada rotación y revolución?
+(Por ser iguales los periodos, sólo vemos un lado de la
+Luna desde la Tierra.)
+> FIGURA 8.51 Doble
+rotación Véase el
+ejercicio 102. 
+108. EI ●● En los embragues y las transmisiones de los automó-
+viles se usan discos circulares. Cuando un disco giratorio
+se acopla con uno estacionario por fricción, la energía del
+disco giratorio se puede transferir al estacionario. a) ¿La ra-
+pidez angular de los discos acoplados es 1) mayor que, 
+2) menor que o 3) igual a la rapidez angular del disco gira-
+torio original? ¿Por qué? b) Si un disco que gira a 800 rpm
+se acopla a uno estacionario cuyo momento de inercia es
+del triple, ¿qué rapidez angular tendrá la combinación?
+109.
+●● Un hombre sube a su pequeño hijo a un carrusel en
+rotación. En esencia, el carrusel es un disco con una masa
+de 250 kg y un radio de 2.50 m que inicialmente comple-
+ta una revolución cada 5.00 segundos. Suponga que el ni-
+ño tiene una masa de 15.0 kg y que el papá lo coloca (sin
+que se deslice) cerca de la orilla del carrusel. Determine
+la rapidez angular final del sistema niño-carrusel.
+1
+10. ●● Un patinador tiene un momento de inercia de 100 kg · m2
+con los brazos estirados, y de 75 kg · m2 con los brazos pe-
+gados al pecho. Si comienza a girar con una rapidez angu-
+lar de 2.0 rps (revoluciones por segundo) con los brazos
+estirados, ¿qué rapidez angular tendrá cuando los encoja?
+1
+11. ●● Una patinadora sobre hielo que gira con los brazos ex-
+tendidos tiene una rapidez angular de 4.0 rad/s. Cuando
+encoge los brazos, reduce su momento de inercia en un
+7.5%. a) Calcule la rapidez angular resultante. b) ¿En qué
+factor cambia la energía cinética de la patinadora? (Des-
+precie los efectos de fricción.) c) ¿De dónde proviene la
+energía cinética adicional?
+112.
+●● Una bola de billar en reposo es golpeada (como se 
+indica con la flecha gruesa en la ▼ figura 8.52) con un 
+taco que ejerce una fuerza promedio de 5.50 N durante
+0.050 s. El taco hace contacto con la superficie de la bola,
+de manera que el brazo de palanca mide la mitad del ra-
+dio de la pelota, como se muestra. Si la bola tiene una
+masa de 200 g y un radio de 2.50 cm, determine la rapi-
+dez angular de la bola inmediatamente después del golpe.
+1.25 cm
+N FIGURA 8.52
+Golpe bajo Véase 
+el ejercicio 112.
+113. ●●● Un cometa se acerca al Sol como se ilustra en la ▼ fi-
+gura 8.53 y la atracción gravitacional del Sol lo desvía. 
+Este suceso se considera un choque, y b es el llamado 
+parámetro de impacto. Calcule la distancia de máxima apro-
+ximación (d) en términos del parámetro de impacto y las
+velocidades (v
+o lejos del Sol y v en la máxima aproxima-
+ción). Suponga que el radio del Sol es insignificante en
+comparación con d. (Como muestra la figura, la cola de 
+un cometa siempre “apunta” en dirección opuesta al Sol.)b
+vo
+Cometa
+Sol
+v
+d
+N FIGURA 8.53 Un “choque” de
+cometa Véase el ejercicio 113.
+
+10/H11034
+#1
+#2
+u
+> FIGURA 8.54 Arte moderno
+Véase el ejercicio 116.
+296 CAPÍTULO 8 Movimiento rotacional y equilibrio
+114. ●●● Al reparar su bicicleta, un estudiante la pone de ca-
+beza de manera que la rueda frontal gira 2.00 rev/s. Su-
+ponga que la rueda tiene una masa de 3.25 kg y que toda
+la masa está localizada en la montura, que tiene un radio
+de 41.0 cm. Para frenar la rueda, el estudiante coloca su
+mano sobre el neumático, ejerciendo entonces una fuerza
+tangencial de fricción sobre la rueda, que tarda 3.50 s en
+llegar al reposo. Utilice el cambio en la cantidad de mo-
+vimiento angular para determinar la fuerza que el estu-
+diante ejerce sobre la rueda. Suponga que la fuerza de
+fricción del eje es insignificante.
+115. EI
+●●● Un gatito está parado en el borde de una bandeja
+giratoria (tornamesa). Suponga que la bandeja tiene coji-
+netes sin fricción y está inicialmente en reposo. a) Si el
+gatito comienza a caminar por la orilla de la bandeja, és-
+ta 1) permanecerá estacionaria, 2) girará en la dirección
+opuesta a la dirección en que el gatito camina o 3) girará
+en la dirección en que camina el gatito. Explique. b) La
+masa del gatito es de 0.50 kg; la bandeja tiene una masa
+de 1.5 kg y un radio de 0.30 m. Si el gatito camina con
+una rapidez de 0.25 m/s relativo al suelo, ¿qué rapidez
+angular tendrá la bandeja? c) Cuando el gatito haya dado
+una vuelta completa a la bandeja, ¿estará arriba del mis-
+mo punto en el suelo que al principio? Si no es así, ¿dón-
+de está en relación con ese punto? (Especule acerca de
+qué sucedería si todos los habitantes de la Tierra de re-
+pente comenzaran a correr hacia el este. ¿Qué efecto po-
+dría tener esto sobre la duración del día?)
+Ejercicios adicionales
+116. En una exposición de “arte moderno”, un carrete de ca-
+ble industrial vacío y multicolor está suspendido de dos
+cables delgados como se observa en la 
+Nfigura 8.54. El ca-
+rrete tiene una masa de 50.0 kg, con un diámetro exte-
+rior de 75.0 cm y un diámetro del eje interior de 18.0 cm.
+Uno de los cables (# 1) está atado tangencialmente al eje 
+y forma un ángulo de 10° con la vertical. El otro cable
+(#2) está atado tangencialmente a la orilla externa y for-
+ma un ángulo desconocido, /H9258, con la vertical. Determine
+la tensión sobre cada cable y el ángulo /H9258.
+117. Las pistas de bolos modernas tienen un sistema de retor-
+no automático de las bolas. La bola es alzada a una altura
+de 2.00 m al final de la pista y, partiendo del reposo, rue-
+da hacia abajo por una rampa. Luego continúa rodando
+horizontalmente y, al final, sube rodando por una rampa
+colocada en el otro extremo que está a 0.500 m del piso.
+Suponiendo que la masa de la bola de bolos es de 7.00 kg
+y que su radio mide 16.0 cm, a) determine la tasa de rota-
+ción de la bola durante su trayecto horizontal en medio
+de la pista, b) su rapidez lineal durante ese trayecto hori-
+zontal y c) la tasa de rotación y la rapidez lineal finales.
+118. Un patinador sobre hielo con una masa de 80.0 kg y un
+momento de inercia (alrededor de su eje vertical central)
+de 3.00 kg · m
+2 atrapa una pelota de béisbol con su brazo
+extendido. La atrapada se realiza a una distancia de 1.00 m
+del eje central. La pelota tiene una masa de 300 g y viaja a
+20.0 m/s antes de que la atrapen. a) ¿Qué rapidez lineal
+tiene el sistema (patinador /H11001pelota) después de atra-
+par la pelota? b) ¿Cuál es la rapidez angular del sistema
+(patinador /H11001pelota) después de atraparla? c) ¿Qué por-
+centaje de la energía cinética inicial se pierde durante la
+atrapada? Ignore la fricción con el hielo.
+119. Un resorte (con constante de resorte de 500 N/m) es esti-
+rado 10.0 cm tirando de él sobre una cuerda que pasa por
+una polea (con un momento de inercia alrededor de su
+eje de 0.550 kg · m
+2 y un radio de 5.40 cm). La cuerda es-
+tá unida a una masa (de 1.50 kg) en su otro extremo. La
+masa colgante se libera desde el reposo y se eleva. Deter-
+mine la rapidez de la masa cuando el resorte está en su
+posición relajada (sin estirar). Ignore la fricción.
+Los siguientes problemas de física Physlet pueden utilizarse con este capítulo.
+10.7, 10.9, 10.10, 10.11, 10.12, 10.13, 10.14, 11.1, 11.2, 11.3, 11.4, 11.5, 11.6, 11.7, 11.8,
+11.9, 11.10, 13.2, 13.3, 13.6, 13.7, 13.8, 13.13
+
+• La fosa Mariana, ubicada en el Océano Pacífico,
+es el punto de mayor profundidad en la Tierra. 
+Alcanza los 11 km (6.8 mi) por debajo del nivel
+del mar. A esta profundidad, el agua del océano
+ejerce una presión de 108 MPa (15 900 lb/in2),
+o más de 1000 atmósferas de presión.
+• El dirigible alemán Hindenburg tenía un vo-
+lumen de gas hidrógeno de 20 000 m 3
+(7 062 000 ft3). Se desplomó y se incendió en
+1937 en Lakehurst, NJ. (El hidrógeno es alta-
+mente inflamable.) La nave se diseñó origi-
+nalmente para utilizar helio, que no es infla-
+mable. Pero la mayoría del helio se producía
+en Estados Unidos, y por esa época se decre-
+tó una ley que prohibía la venta de helio a la
+Alemania nazi.
+• Aunque el principio de flotabilidad se atribu-
+ye a Arquímedes, es cuestionable si esto se 
+le ocurrió en su tina de baño mientras inten-
+taba encontrar una manera de comprobar si la 
+corona del rey era de oro puro y no contenía
+plata, como cuenta la historia. De acuerdo
+con una narración romana, la solución se le
+ocurrió cuando se metió en una tina de baño
+y el agua se desbordó. Se supone que can-
+tidades de oro puro y plata iguales en peso a
+la corona del rey se pusieron por separado,
+en recipientes llenos de agua, y la plata pro-
+vocó que se derramara una mayor cantidad 
+de agua. Al hacer la prueba con la corona, 
+se desbordó mayor cantidad de agua que 
+la que desalojó el oro puro, lo que implicaba
+que la corona contenía plata. ¿Una corona 
+de oro puro? El oro puro es suave, malea-
+ble (puede cortarse en hojas delgadas) y dúc-
+til (puede alargarse para formar hilos finos).
+9.1 Sólidos y módulos 
+de elasticidad 298
+9.2 Fluidos: presión 
+y el principio 
+de Pascal
+302
+9.3 Flotabilidad 
+y el principio 
+de Arquímedes 313
+9.4 Dinámica de fluidos 
+y ecuación de 
+Bernoulli 319
+*9.5 Tensión superficial,
+viscosidad y ley 
+de Poiseuille 324
+SÓLIDOS Y FLUIDOS9
+E
+n la imagen se muestran montañas sólidas y un fluido invisible de aire que ha-
+ce posible el vuelo sin motor. Caminamos en la superficie sólida de la Tierra y
+a diario usamos objetos sólidos de todo tipo, desde tijeras hasta computadoras.
+No obstante, estamos rodeados por fluidos (líquidos y gases), de los cuales depende-
+mos. Sin el agua que bebemos, no sobreviviríamos más de unos cuantos días; sin el
+oxígeno del aire que respiramos, no viviríamos más de unos pocos minutos. De he-
+cho, ni nosotros mismos somos tan sólidos como creemos. Por mucho, la sustancia
+más abundante en nuestro cuerpo es el agua, y es en el entorno acuoso de nuestras
+células donde ocurren todos los procesos químicos de los que depende la vida.
+De acuerdo con distinciones físicas generales, por lo general la materia se divi-
+de en tres fases: sólida, líquida y gaseosa. Un sólido tiene forma y volumen defini-
+dos. Un líquido tiene un volumen más o menos definido; pero asume la forma del
+recipiente que lo contiene. Un gas adopta la forma y el volumen de su recipiente.
+Los sólidos y líquidos también se conocen como materia condensada. Usaremos un
+esquema de clasificación distinto y consideraremos la materia en términos de sóli-
+dos y fluidos. Llamamos colectivamente fluidos a los gases y líquidos. Un fluido es
+una sustancia que puede fluir; los líquidos y los gases fluyen, pero los sólidos no.
+Una descripción sencilla de los sólidos es que se componen de partículas lla-
+madas átomos, los cuales se mantienen unidos rígidamente por fuerzas interató-
+micas. En el capítulo 8 usamos el concepto de cuerpo rígido ideal para describir
+el movimiento rotacional. Los cuerpos sólidos reales no son absolutamente rígi-
+dos, porque las fuerzas externas pueden deformarlos elásticamente. Cuando
+pensamos en la elasticidad, por lo regular se nos vienen a la mente bandas de
+caucho o resortes que recuperan sus dimensiones originales incluso después de su-
+frir grandes deformaciones. En realidad, todos los materiales, hasta el acero más
+duro, son elásticos en algún grado. Sin embargo, como veremos, tal deformación
+tiene un límite de elasticidad.
+Los fluidos, en cambio, tienen poca o ninguna respuesta elástica a las fuerzas.
+Una fuerza simplemente hace que un fluido no confinado fluya. En este capítulo
+HECHOS DE FÍSICA
+CAPÍTULO
+297
+
+▲ FIGURA 9.1 Un sólido elástico
+La naturaleza elástica de las 
+fuerzas interatómicas se representa
+de forma simplista como resortes
+que, al igual que tales fuerzas, 
+se oponen a la deformación.
+298

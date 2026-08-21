@@ -1,0 +1,3153 @@
+Tema: Termodinámica (Capítulo 12 — Física, Wilson)
+
+CAPÍTULO 12 Termodinámica
+12.1 Sistemas, estados y procesos
+termodinámicos
+OBJETIVOS: a) Definir los sistemas termodinámicos y sus estados y b) explicar 
+cómo los procesos térmicos afectan dichos sistemas.
+La termodinámica es una ciencia que describe sistemas con tal número de partículas
+—pensemos en el número de moléculas que hay en una muestra de gas— que es impo-
+sible usar la dinámica ordinaria (leyes de Newton) para estudiarlos. Por ello, aunque
+la física subyacente es la misma que para los demás sistemas, generalmente usamos
+otras variables (macroscópicas), como presión y temperatura, para describir los siste-
+mas termodinámicos en su totalidad. Debido a esta diferencia de lenguaje, es impor-
+tante familiarizarse desde el principio con sus términos y definiciones.
+En termodinámica, el término sistema se refiere a una cantidad definida de mate-
+ria encerrada por fronteras o superficies, ya sean reales o imaginarias. Por ejemplo,
+una cantidad de gas en el pistón de un motor tiene fronteras reales, mientras que las
+fronteras que encierran un metro cúbico de aire en un recinto son imaginarias. No es
+necesario que las fronteras de un sistema tengan forma definida ni que encierren un
+volumen fijo. Por ejemplo, un cilindro de motor experimenta un cambio de volumen
+cuando el pistón se mueve.
+Hay ocasiones en que es necesario considerar sistemas entre los que se transfiere
+materia. No obstante, por lo regular consideraremos sistemas de masa constante. Algo
+más importante será el intercambio de energía entre un sistema y su entorno. Tal inter-
+cambio podría efectuarse por transferencia de calor o por la realización de trabajo me-
+cánico, o por ambas. Por ejemplo, si calentamos un globo (le transferimos calor), puede
+expandirse y efectuar trabajo sobre la superficie que lo limita (su “piel” exterior de lá-
+tex) y sobre la atmósfera, ejerciendo una fuerza a lo largo de una distancia, como vi-
+mos en el capítulo 5.
+Si es imposible transferir calor entre un sistema y su entorno, hablamos de un sis-
+tema térmicamente aislado . No obstante, podría efectuarse trabajo sobre un sistema
+así, y ello implicaría una transferencia de energía. Por ejemplo, un cilindro térmica-
+mente aislado (quizá rodeado por un grueso aislante) lleno de gas puede comprimirse
+con una fuerza externa aplicada a su pistón. Así, se efectúa trabajo sobre el sistema, y
+sabemos que el trabajo es una forma de transferir energía.
+Cuando entra o sale calor en un sistema, se absorbe o se cede calor al entorno, o a
+un depósito de calor. Este último es un sistema grande, separado, cuya capacidad de
+calor se supone ilimitada. Se puede sacar una cantidad ilimitada de calor de un depó-
+sito de calor, o añadirse a él, sin alterar significativamente su temperatura. Por ejem-
+plo, si vertimos un vaso de agua caliente en un lago frío, el aumento de temperatura
+del lago no será perceptible. El lago frío es un depósito de calor a baja temperatura.
+Estado de un sistema
+Así como hay ecuaciones de cinemática para describir el movimiento de un objeto, hay
+ecuaciones de estado para describir las condiciones de los sistemas termodinámicos.
+Una ecuación así expresa una relación matemática entre las variables termodinámicas
+de un sistema. La ley de los gases ideales, pV /H11005nRT (sección 10.3) es un ejemplo de
+ecuación de estado. Esta expresión establece una relación entre la presión ( p), el volu-
+men (V), la temperatura absoluta ( T) y el número de moles ( n, o bien, el número de
+moléculas, N, pues en la sección 10.3 vimos que N /H11005nN
+A) de un gas. Estas cantidades
+de los gases ideales son ejemplos de variables de estado. Evidentemente, diferentes esta-
+dos tienen diferentes valores para estas variables.
+En el caso de un gas ideal, un conjunto de estas tres variables ( p, V y T) que satis-
+face la ley de los gases ideales especifica totalmente su estado, en tanto el sistema es-
+té en equilibrio térmico y tenga una temperatura uniforme. Se dice que tal sistema
+está en estado definido. Resulta conveniente graficar los estados utilizando las coor-
+denadas termodinámicas (p, V, T), de forma análoga a como graficamos con las coorde-
+nadas cartesianas ( x, y, z). En la >figura 12.1 se muestra una gráfica bidimensional
+general de ese tipo.
+Así como las coordenadas ( x, y) especifican puntos individuales en una gráfica
+cartesiana, las coordenadas ( V,  p) especifican estados individuales en la gráfica o dia-
+grama p-V. Ello se debe a que en la ley de los gases ideales, pV /H11005nRT, se despeja la
+
+p
+V
+4
+2
+3
+1
+?
+?
+?
+▲ FIGURA 12.2 Caminos de 
+los procesos reversibles 
+e irreversibles Si un gas pasa 
+rápidamente del estado 1 al 2, el
+proceso es irreversible porque no
+sabemos qué “camino” siguió. En
+cambio, si llevamos al gas por una
+serie de estados de equilibrio muy
+cercanos entre sí (como al ir del 
+estado 3 al estado 4), el proceso es
+reversible (del estado 4 al estado 3)
+en principio. Reversible significa
+“reproducible con exactitud”.
+12.2 Primera ley de la termodinámica 399
+Nota: dado que p, V y T están 
+relacionadas por la ley de los gases
+ideales, si se especifica el valor de
+cualesquiera dos de estas variables,
+automáticamente se determinará el
+valor de la tercera.
+temperatura de un gas si se conocen su presión y volumen, así como el número de 
+moléculas o moles en la muestra. En otras palabras, en un diagrama p-V, cada “coor-
+denada” da directamente la presión y el volumen de un gas, e indirectamente su tem-
+peratura. Así, para describir totalmente un gas, sólo necesitamos una gráfica p-V. Sin
+embargo, en algunos casos se recomienda estudiar otras curvas, como la p-T o la T-V.
+(La figura 12.lb ilustra un fenómeno que ya conocemos: la expansión que sufre un gas
+cuando se reduce su presión.)
+Procesos
+Un proceso es cualquier cambio en el estado —las coordenadas termodinámicas— 
+de un sistema. Por ejemplo, cuando un gas ideal se somete a un proceso en general, todas
+sus variables de estado (p, V , T) cambiarán. Suponga que un gas que inicialmente está
+en el estado 1, descrito por las variables de estado (p
+1, V1, T1) cambia a un segundo es-
+tado, el estado 2. En general, el estado 2 se describirá con un conjunto distinto de varia-
+bles de estado ( p
+2, V2, T2). Un sistema que ha sufrido un cambio de estado ya se
+sometió a un proceso termodinámico.
+Los procesos se clasifican como reversibles e irreversibles. Suponga que se permi-
+te que un sistema de gas en equilibrio (con valores p, V y T conocidos) se expanda rá-
+pidamente cuando se reduce la presión a la que está sometido. El estado del sistema
+cambiará de forma rápida e impredecible; pero tarde o temprano el sistema volverá a
+un estado de equilibrio distinto, con otro conjunto de coordenadas termodinámicas.
+En un diagrama p-V (
+Nfigura 12.2), podríamos mostrar los estados inicial y final (rotu-
+lados 1 y 2, respectivamente), aunque no lo que sucedió entre ellos. Este tipo de pro-
+ceso, cuyos pasos intermedios no son estados de equilibrio, se denomina proceso 
+irreversible. El término “irreversible” no implica que el sistema no es capaz de regre-
+sar a su estado inicial; tan sólo implica que no es posible volver por el mismo camino
+exactamente, debido a las condiciones de no equilibrio que existieron. Una explosión
+es un ejemplo de un proceso irreversible.
+En cambio, si el gas cambia de estado muy lentamente, de manera que pase de 
+un estado de equilibrio a otro cercano y, finalmente, llegue al estado final (figura 12.2,
+estados inicial y final 3 y 4, respectivamente), conoceremos el camino del proceso. En
+una situación así, el sistema podría llevarse otra vez a sus condiciones iniciales “reco-
+rriendo” el camino en la dirección opuesta, volviendo a crear todos los estados inter-
+medios (también en muchos pasos pequeños) en el camino. Decimos que un proceso
+así es reversible. En la práctica, no es posible tener un proceso perfectamente reversi-
+ble. Todos los procesos termodinámicos reales son irreversibles en mayor o menor gra-
+do, porque siguen caminos complejos con muchos estados intermedios que no están
+en equilibrio. No obstante, el concepto de proceso reversible ideal es útil y será nuestra
+herramienta primordial en el estudio de la termodinámica de los gases ideales.
+12.2 Primera ley de la termodinámica
+OBJETIVOS: a) Explicar la relación entre energía interna, calor y trabajo expresada
+por la primera ley de la termodinámica y b) aprender la técnica para
+calcular el trabajo efectuado por gases.
+Al estudiar mecánica (capítulo 5) vimos que el trabajo describe la transferencia de
+energía de un objeto a otro mediante la aplicación de una fuerza. Por ejemplo, cuando
+empujamos una silla que inicialmente estaba en reposo, parte del trabajo que efectuamos
+(al ejercer una fuerza a lo largo de una distancia) sobre la silla incrementa su energía ci-
+nética. Al mismo tiempo, perdemos una cantidad de energía (química) almacenada en
+nuestro cuerpo, igual a la cantidad de trabajo que efectuamos. Este tipo de trabajo se
+efectúa de forma ordenada, es decir, se aplican diversas fuerzas, en direcciones bien de-
+finidas, sobre un objeto de interés. Por ejemplo, cuando permitimos que se expanda un
+gas (encerrado en un cilindro provisto de un pistón), efectúa trabajo sobre el pistón a
+expensas de una parte de su energía interna. En el capítulo 10 vimos que hay una se-
+gunda forma de modificar la energía de un sistema: agregándole o quitándole energía
+térmica. Un objeto caliente pierde energía interna cuando su calor se transfiere a un
+objeto frío, el cual gana energía interna. Este proceso modifica las energías internas de
+ambos objetos, aunque de manera opuesta.
+
+400 CAPÍTULO 12 Termodinámica
+* En algunos libros de química e ingeniería, la primera ley de la termodinámica se escribe Q /H11005
+ΔU – W’. Las dos ecuaciones son equivalentes, pero hacen distinto hincapié. En esta expresión, W’ se
+refiere al trabajo efectuado por el entorno sobre el sistema , así que es el negativo de nuestro trabajo W
+(¿por qué?), es decir, W /H11005/H11002W’. Quienes descubrieron la primera ley estaban interesados en construir
+máquinas de calor (secciones 12.5 y 12.6). Lo que querían averiguar era cuánto trabajo W efectuaba el
+sistema, no W’. Puesto que nosotros también queremos entender cómo funcionan las máquinas de
+calor, adoptaremos aquí la definición histórica: W es el trabajo efectuado por el sistema.
+Aunque no podemos ver el proceso real, la transferencia de calor en realidad es el
+mismo concepto de trabajo que conocemos de la mecánica, pero en un nivel microscó-
+pico (atómico). Durante un proceso de conducción, por ejemplo, se transfiere energía
+de un objeto sólido caliente a un objeto sólido más frío, porque los átomos del objeto
+caliente, que se mueven con mayor rapidez, efectúan trabajo sobre los átomos más len-
+tos del objeto más frío (
+▲ figura 12.3). Luego, esta energía se transfiere a las profundi-
+dades del objeto frío, al efectuarse más trabajo sobre los átomos vecinos (que vibran
+más lentamente). Este proceso continuo es el “flujo” o “transferencia” de energía que
+observamos macroscópicamente como transferencia de calor.
+La primera ley de la termodinámica describe la relación entre el trabajo, el calor y
+la energía interna de un sistema. Esta ley es otro planteamiento de la conservación de la
+energía en términos de variables termodinámicas. Relaciona el cambio de energía inter-
+na (ΔU) de un sistema con el trabajo (W) efectuado por ese sistema y la energía calorífica
+(Q) transferida a ese sistema o desde él. Dependiendo de las condiciones, la transferencia
+de calor Q puede generar un cambio en la energía interna del sistema, ΔU. Sin embar-
+go, debido a la transferencia de calor, el sistema podría efectuar trabajo sobre el entor-
+no. Así, el calor transferido a un sistema puede ir a dar a dos lugares: a un cambio en la
+energía interna del sistema o a trabajo efectuado por el sistema, o a ambos. Por ello, 
+la primera ley de la termodinámica suele escribirse como
+(12.1)
+Como siempre, es importante recordar qué significan los símbolos y lo que denotan
+sus convenciones de signos (véase la 
+▼ figura 12.4). Q es el calor neto agregado o quitado
+a un sistema, ΔU es el cambio de energía interna del sistema y W es el trabajo efectuado
+por el sistema (sobre el entorno).* Por ejemplo, un gas puede absorber 1000 J de calor y
+efectuar 400 J de trabajo sobre el ambiente, dejando 600 J como aumento de la energía
+interna del gas. Si el gas efectuara más de 400 J de trabajo, llegaría menos energía a la
+energía interna del gas. La primera ley no da los valores de ΔU o de W en los procesos.
+Estas cantidades dependen, como veremos, de las condiciones del sistema o del proce-
+Q =¢ U + W
+Objeto
+caliente
+Objeto
+frío
+Q
+ a)  b)
+N FIGURA 12.3 Flujo de calor (por
+conducción) en la escala atómica
+a) Macroscópicamente, se transfiere
+calor por conducción del objeto 
+caliente al frío. b) En la escala 
+atómica, la conducción de calor se
+explica como una transferencia 
+de energía, de los átomos más 
+energéticos (en el objeto más 
+caliente) a los menos energéticos
+(en el objeto más frío). Esta 
+transferencia de energía de un 
+átomo a su vecino origina la 
+transferencia de calor que 
+observamos en el inciso a.
+Q > 0
+Q < 0
+W < 0 W > 0
+Compresión,
+Agregado
+Eliminado
+ΔT(y ΔU)
+Expansión,
+ a)
+ b)
+ c)
+N FIGURA 12.4 Convenciones de
+signo para Q, W y U a) Si fluye
+calor hacia un sistema, Q es positiva.
+El calor que fluye hacia afuera se 
+toma como negativo. b) Se puede
+averiguar experimentalmente 
+si la energía interna de un gas 
+cambia tomando su temperatura, 
+suponiendo que no hay cambio de
+fase. Puesto que la temperatura 
+determina la energía interna, un 
+aumento o una disminución en una
+de esas cantidades implica un 
+aumento o disminución similar en
+la otra. c) Si un gas se expande,
+efectúa trabajo positivo; si se 
+comprime, realiza trabajo negativo. 
+¢
+
+12.2 Primera ley de la termodinámica 401
+so específico que interviene (presión y volumen constantes, etc.) conforme se transfie-
+re la energía calorífica (sección 12.3).
+Es importante destacar que el flujo de calor no es necesario para cambiar la tempera-
+tura. Cuando se destapa una botella de bebida gaseosa, como se muestra en la Nfigura
+12.5, el gas en el interior de la botella se expande porque está a una presión más elevada
+que la atmósfera. Al hacerlo, realiza trabajo (positivo) en el entrono (los gases atmosféri-
+cos), de manera que disminuye su energía interna. Esto se debe a que el flujo neto de ca-
+lor es cero en este proceso. Como ΔU /H11005Q – W, entonces ΔU es negativo (U disminuye) si
+Q /H110050 y W es positivo. Esta reducción en la energía interna provocará que el vapor de
+agua en el gas embotellado se condense en una nube de diminutas gotas de agua líquida.
+Considere la aplicación de la primera ley de la termodinámica al ejercicio y a la
+pérdida de peso.
+Ejemplo 12.1 ■ Equilibrio de energía: ejercitarse usando la física
+Un trabajador de 65 kg levanta carbón con una pala durante 3.0 h. En el proceso de remo-
+ver el carbón, el trabajador realiza trabajo a una tasa promedio de 20 W y emite calor al
+ambiente a una tasa promedio de 480 W. Ignorando la pérdida de agua por la evapora-
+ción de la transpiración de su piel, ¿cuánta grasa perdió el trabajador? El valor energético
+de la grasa (E
+f) es 9.3 kcal/g.
+Razonamiento. Puesto que se conocen el tiempo durante el cual el trabajador remueve el
+carbón con la pala, la tasa de trabajo realizado (potencia) y la tasa de pérdida de calor, 
+podemos calcular el trabajo total realizado y el calor. Luego, podrá determinarse el cam-
+bio en la energía interna mediante la primera ley de la termodinámica. Este cambio en la
+energía interna (un decremento) da por resultado una pérdida de grasa.
+Solución. Se listan los valores dados y la potencia se convierte a trabajo y calor.
+Dado: Encuentre: masa de la 
+grasa que se 
+(Q es negativa porque se pierde calor) quema
+A partir de la primera ley de la termodinámica, Q /H11005ΔU /H11001W, se tiene
+Por lo tanto, la masa de la grasa que se pierde es
+Eso es aproximadamente un tercio de libra, o unas 5 onzas.
+Ejercicio de refuerzo. ¿Cuánta grasa perdería el trabajador si jugara básquetbol, realizan-
+do trabajo a una tasa de 120 W y generando calor a una tasa de 600 W? (Las respuestas a 
+todos los ejercicios de refuerzo se encuentran al final del libro.)
+Al aplicar la primera ley de la termodinámica, es en extremo importante usar correc-
+tamente los signos (véase la figura 12.4). Es fácil recordar los signos del trabajo, si tenemos
+presente que el trabajo positivo es efectuado por una fuerza que generalmen-
+te actúa en la dirección del desplazamiento, como cuando un gas se expande. Asimismo,
+un trabajo negativo implica que la fuerza actúa generalmente en la dirección opuesta al
+desplazamiento, como cuando un gas se contrae.
+Pero, ¿cómo calculamos el trabajo efectuado por el gas? Para responder, considere-
+mos un pistón cilíndrico cuya área transversal es A, el cual contiene una muestra cono-
+cida de gas (
+Nfigura 12.6). Imaginemos que se permite al gas expandirse una distancia
+muy pequeña Δx. Si el volumen del gas no sufre un cambio apreciable, la presión se
+mantendrá constante. Al mover el pistón de forma lenta y continua hacia afuera, el gas
+efectúa trabajo positivo sobre el pistón. Entonces, por la definición de trabajo,
+W = F¢x cos u = F¢x cos 0° = F¢x
+m = ƒ¢Uƒ
+Ef
+= 5.40 * 106 J
+3.89 * 107 J>kg = 0.14 kg
+¢U = Q - W =- 5.18 * 106 J - 2.16 * 105 J =- 5.40 * 106 J
+ = 3.89 * 107 J>kg
+ = 9.3 * 103 kcal>kg =19.3 * 103 kcal>kg214186 J>kcal2
+ Ef = 9.3 kcal>g
+ Q =-1480 J>s213.0 h213600 s>h2 =- 5.18 * 106 J
+ W = Pt =120 J>s213.0 h213600 s>h2 = 2.16 * 105 J
+Δx
+A
+ΔV = AΔx
+Posición
+inicial del 
+pistón 
+Posición
+final del
+pistón
+F = pA
+W = FΔx = pAΔx = pΔV
+▲ FIGURA 12.6 Trabajo en 
+términos termodinámicos Si un
+gas tiene una expansión muy 
+pequeña y lenta, su presión se 
+mantiene constante. El pequeño 
+trabajo efectuado por el gas es pΔV.
+▲ FIGURA 12.5 La temperatura
+desciende sin eliminar el calor El
+gas realiza trabajo positivo sobre 
+el aire exterior al abrirse la botella. 
+Esto da como resultado una 
+disminución tanto de la energía 
+interna como de la temperatura.
+
+p
+V
+V1 V2
+ b)
+p
+p
+V
+ΔVV1 V2
+  área = W = pΔV
+ a)
+W total = área bajo la curva
+▲ FIGURA 12.7 Trabajo termodiná-
+mico como área bajo la curva del
+proceso a) Si un gas se expande
+considerablemente, el trabajo 
+efectuado podrá calcularse 
+considerando la expansión en 
+incrementos pequeños, cada uno de
+los cuales produce una cantidad 
+de trabajo pequeña. Determinamos
+el trabajo total (aproximado) 
+sumando todas las franjas rectan-
+gulares. b) Si el número de franjas 
+rectangulares es muy grande, cada
+franja será muy delgada, y el 
+cálculo del área será más exacto. El
+trabajo efectuado es igual al área
+entre la curva del proceso y el eje V.
+402
+CAPÍTULO 12 Termodinámica
+En términos de presión, p /H11005F/A, o bien, F /H11005pA. Sustituimos F para obtener
+AΔx es el volumen de un cilindro recto con área de base A y altura Δx. Aquí, ese volu-
+men representa el cambio de volumen del gas, ΔV /H11005AΔx. Por lo tanto,
+El trabajo efectuado en la figura 12.6 es positivo porque ΔV es positivo. Si el gas se
+contrae, el trabajo es negativo porque el cambio de volumen es negativo ( ΔV/H11005
+Desde luego, el cambio de volumen de un gas no siempre es pequeño, y por lo regu-
+lar la presión a la que está sometido no es constante. De hecho, los cambios de volumen
+y presión pueden ser considerables. ¿Cómo hacemos los cálculos en tales circunstancias?
+La respuesta se muestra en la 
+>figura 12.7. Ahí, tenemos un camino reversible en un dia-
+grama p-V. Vemos que, durante cada pequeño paso, la presión se mantiene aproxima-
+damente constante. Por lo tanto, para cada paso, aproximamos el trabajo efectuado
+mediante pΔV. Gráficamente, esta cantidad es el área de un pequeño rectángulo angosto
+que se extiende desde la curva del proceso hacia el eje V. Sin embargo, a medida que
+cambia el volumen, también cambia la presión. Por lo tanto, para aproximar el trabajo 
+total, sumamos estas pequeñas cantidades de trabajo: Para obtener un
+valor exacto, veamos el área como formada por un gran número de rectángulos muy
+delgados. Si el número de rectángulos se vuelve infinitamente grande, el espesor de ca-
+da rectángulo se aproxima a cero. Este proceso implica cálculo, así que está más allá del
+alcance de este libro. No obstante, debería ser evidente que:
+El trabajo efectuado por un sistema es igual al área bajo la curva del proceso en
+un diagrama p-V.
+Antes de tratar tipos específicos de procesos, cabe señalar que hay una diferencia
+fundamental entre U y tanto Q como W. Cualquier sistema “contiene” cierta cantidad
+de energía interna U. Sin embargo, es erróneo decir que un sistema “posee” ciertas
+“cantidades” de calor o trabajo, pues estas cantidades representan transferencias de
+energía, no energías totales. Otra distinción es que, a diferencia de ΔU, tanto Q como
+W dependen de la forma en que el gas llega de su estado inicial a su estado final. El
+calor añadido o quitado a un sistema depende de las condiciones en que la transferencia
+se efectúa (sección 11.2). También es evidente, por la representación del área bajo la
+curva, que el trabajo depende del camino (
+▼figura 12.8). Por ejemplo, se efectúa más tra-
+bajo si el proceso ocurre a presiones más altas. Esta situación se representa con una
+área mayor, cuando una fuerza más grande efectúa más trabajo con el mismo cambio
+de volumen.
+Por ejemplo, contrastemos estas propiedades con las de ΔU de un gas ideal. Para
+obtener ΔU, sólo necesitamos conocer la energía interna en cada extremo del camino.
+Ello se debe a que, para un gas ideal (con un número fijo de moles), la energía interna
+únicamente depende de la temperatura absoluta del gas. En ese caso (véase el capítulo
+10), por lo tanto, ΔU /H11005U
+2 – U1 sólo depende de ΔT. En síntesis, el cambio
+de energía interna, ΔU, es independiente del camino del proceso, mientras que tanto Q
+como W dependen del camino.
+U r nRT;
+W L© 1p¢V2.
+V2 - V1 6 02.
+W = p¢V
+W = pA¢x
+p
+VV1
+p1
+p2
+V2
+Volumen
+Presión
+1
+2
+N FIGURA 12.8 El trabajo termodinámico
+depende de la curva del proceso Esta 
+gráfica muestra el trabajo efectuado por un
+gas que sufre la misma expansión mediante
+tres procesos distintos. El trabajo efectuado
+en el proceso I es mayor que el efectuado
+por el proceso II, que a la vez es mayor que
+el del proceso III. Fundamentalmente, 
+aplicar una fuerza (presión) más grande, a
+lo largo de la misma distancia (cambio de
+volumen), requiere más trabajo. El proce-
+so I incluye las áreas superior, intermedia 
+e inferior; el proceso II incluye sólo las áreas
+intermedia e inferior; y el proceso III incluye
+sólo el área inferior
+
+12.3 Procesos termodinámicos para un gas ideal 403
+Nota: Isotérmico “a temperatura
+constante”.
+12.3 Procesos termodinámicos para un gas ideal
+OBJETIVOS: a) Describir y entender los cuatro procesos termodinámicos funda-
+mentales con un gas ideal y b) analizar el trabajo efectuado, el flujo
+de calor y el cambio de energía interna durante cada uno de esos
+procesos.
+La primera ley de la termodinámica puede aplicarse a varios procesos de un sistema
+formado por un gas ideal. Observe que en tres de los procesos, se mantiene constante
+una variable termodinámica. El nombre de esos procesos tiene el prefijo iso- (del voca-
+blo griego isos que significa “igual”).
+Proceso isotérmico Es un proceso a temperatura constante (iso /H11005igual, térmico /H11005de
+temperatura). En este caso, el camino del proceso se denomina isoterma, o curva de tem-
+peratura constante. (Véase la 
+▼figura 12.9.) La ley de los gases ideales puede escribirse
+como p /H11005nRT/V. Puesto que el gas permanece a temperatura constante, nRT es una
+constante. Por lo tanto, p es inversamente proporcional a V; es decir, lo cual
+corresponde a una hipérbola. (Recordemos que la ecuación de la hipérbola es y /H11005a/x,
+es decir, y se grafica como una curva descendente en los ejes x-y.)
+Durante la expansión del estado 1 (inicial) al estado 2 (final) en la figura 12.9, se
+agrega calor al sistema, y tanto la presión como el volumen varían de manera que la
+temperatura se mantenga constante. El gas en expansión efectúa trabajo positivo. En
+una isoterma, ΔT /H110050, así que ΔU /H110050. El calor agregado al gas es exactamente igual al
+trabajo efectuado por el gas, y nada del calor se invierte en aumentar la energía interna
+del gas. Véase la sección Aprender dibujando “Apoyarse en isotermas” de la p. 409.
+En términos de la primera ley de la termodinámica, escribimos
+o bien,
+(proceso isotérmico de gas ideal) (12.2)
+La magnitud del trabajo efectuado sobre el gas es igual al área bajo la curva (cuya
+determinación requiere de cálculo integral). La expresaremos simplemente así:
+(proceso isotérmico de gas ideal) (12.3)
+Puesto que el producto nRT es constante a lo largo de una isoterma dada, el trabajo
+efectuado depende de la razón de los volúmenes inicial y final.
+Wisotérmico = nRT ln¢ V2
+V1
+≤
+Q = W
+Q =¢ U + W = 0 + W
+y r 1>x,
+p r 1>V,
+p
+V1 V2
+V
+Volumen
+Presión
+Isoterma
+W = Q
+T2 = T1
+V1
+V2
+2
+1
+Isotérmico
+T2 = T1
+Q
+> FIGURA 12.9 Proceso isotér-
+mico (a temperatura constante)
+Todo el calor añadido al gas 
+se invierte en efectuar trabajo 
+(el gas en expansión mueve el 
+pistón): puesto que ΔT /H110050, 
+entonces ΔU /H110050 y, por la 
+primera ley de la termodinámica,
+Q /H11005W. Como siempre, el trabajo
+es igual al área (sombreada) 
+bajo la isoterma del diagrama 
+p-V. 
+Ilustración 20.3 Proceso 
+termodinámico
+
+404 CAPÍTULO 12 Termodinámica
+p
+Isobárico
+p2 = p1
+V1 V2
+VVolumen
+Presión
+W = p(V2 – V1)
+2
+1
+Isobara
+V1
+V2
+V2 – V1
+p
+T1 T2
+T2 >T1
+Isotermas
+Q
+N FIGURA 12.10 Proceso isobárico
+(a presión constante) El calor 
+añadido al gas en el pistón sin 
+fricción se convierte en trabajo 
+efectuado por el gas, y también 
+modifica la energía interna del gas:
+Q /H11005ΔU /H11001W. El trabajo es igual al
+área bajo la isobara (del estado 1 
+al estado 2 aquí, que aparece 
+sombreada) en el diagrama p-V. 
+Observe las dos isotermas. No 
+forman parte del proceso isobárico,
+sino que nos ayudan a percibir que
+la temperatura aumenta durante la
+expansión isobárica. 
+Nota: isobárico significa “a presión
+constante”.
+Sugerencia para resolver problemas
+En la ecuación 12.3, la función “ln” significa logaritmo natural. Recuerde que los logarit-
+mos comunes(“log”) usan la base 10 (véase el Apéndice I). En ese caso, el exponente de la
+base 10 es el logaritmo del número en cuestión. Por ejemplo, puesto que 100 /H11005102, el lo-
+garitmo de 100 es 2, o bien, en forma de ecuación log 100 /H110052. En general, si y /H1100510x, x es
+el logaritmo de y, o bien, x /H11005log y. El logaritmo natural es similar, excepto que usa una
+base distinta, e, que es un número irracional Para verificarlo, encuentre el
+logaritmo natural de 100 empleando su calculadora. (La respuesta es ln 100 /H110054.605).
+Proceso isobárico. Es un proceso a presión constante  (iso /H11005igual, bar /H11005presión).* En
+la ▼ figura 12.10 se ilustra un proceso isobárico para un gas ideal. En un diagrama p-V,
+un proceso isobárico se representa con una línea horizontal llamada isobara. Cuando se
+añade o quita calor a un gas ideal a presión constante, el cociente V/T no cambia (ya
+que V/T /H11005nR/p /H11005constante). Al expandirse el gas calentado, su temperatura aumen-
+ta, y el gas pasa a una isoterma a mayor temperatura. Este aumento de temperatura
+significa que la energía interna del gas aumenta, porque
+Como se aprecia en la isobara de la figura 12.10, el área que representa el trabajo es
+rectangular. Por lo tanto, el trabajo es relativamente fácil de calcular (longitud por an-
+chura):
+(proceso isobárico con gas ideal) (12.4)
+Por ejemplo, cuando se agrega o quita calor a un gas en condiciones isobáricas, la
+energía interna del gas cambia y el gas se expande o contrae, efectuando trabajo positi-
+vo o negativo, respectivamente. (Véase los signos en el ejemplo integrado 12.2.) Escri-
+bimos esta relación empleando la primera ley de la termodinámica, con la expresión
+de trabajo adecuada para condiciones isobáricas (ecuación 12.4):
+(proceso isobárico con gas ideal) (12.5)
+Para una comparación detallada del proceso isobárico y el proceso isotérmico, consi-
+dere el siguiente ejemplo integrado.
+Q =¢ U + W =¢ U + p¢V
+Wisobárico = p1V2 - V12 = p¢V
+¢U r ¢T.
+1e L 2.71832.
+* La presión se mide en bars o minibars.
+
+p
+VV1
+p2
+p1
+V2
+Volumen
+Presión
+1 3
+2
+Isobara
+Isoterma a T = 273 K
+Isoterma a T > 273 K
+▲ FIGURA 12.11 Comparación de
+trabajo En el Ejemplo integrado
+12.2, el gas efectúa trabajo positivo
+al expandirse. Efectúa más trabajo
+en condiciones isobáricas (del 
+estado 1 al estado 3) que en 
+condiciones isotérmicas (del estado
+1 al estado 2), porque la presión se
+mantiene constante a lo largo de la
+isobara, aunque disminuye a lo 
+largo de la isoterma. (Compare las
+áreas bajo las curvas.)
+12.3 Procesos termodinámicos para un gas ideal 405
+Ejemplo integrado 12.2 ■ Isotermas contra isobaras: ¿cuál área?
+Dos moles de un gas ideal monoatómico, que inicialmente están a 0°C y 1.00 atm, se expan-
+den al doble de su volumen original, siguiendo dos procesos distintos. Primero se expanden
+isotérmicamente y, después, partiendo del mismo estado inicial, isobáricamente. a) ¿Durante
+cuál proceso el gas efectúa más trabajo: 1) el isotérmico, 2) el isobárico o 3) efectúa el mismo
+trabajo durante ambos procesos? Explique. b) Para comprobar su respuesta, determine el tra-
+bajo efectuado por el gas en cada caso.
+a) Razonamiento conceptual. Como se muestra en la Nfigura 12.11, ambos procesos impli-
+can una expansión. La isobara es horizontal, en tanto que la isoterma es una hipérbola de-
+creciente. De manera que el gas efectúa más trabajo durante la expansión isobárica (mayor
+área bajo la curva). Básicamente, esto se debe a que el proceso isobárico se efectúa a una
+presión más alta (constante) que el proceso isotérmico (donde la presión baja conforme se
+expande el gas). En ambos casos, el trabajo es positivo. (¿Cómo lo sabemos?) Por lo tanto,
+la respuesta correcta al inciso a es que el proceso isobárico efectúa más trabajo.
+b) Razonamiento cuantitativo y solución. Podemos usar las ecuaciones 12.3 y 12.4, si cono-
+cemos los volúmenes. Calculamos tales cantidades con base en la ley de los gases ideales.
+Hacemos una lista de los datos:
+Dado: Encuentre: el trabajo efectuado durante 
+los procesos isotérmico 
+n /H110052.00 mol (véase la sección 10.3) e isobárico
+Para el proceso isotérmico, usamos la ecuación 12.3 (el logaritmo natural de la razón de
+volúmenes es ln 2 /H110050.693):
+Para el proceso isobárico, necesitamos conocer los dos volúmenes. Por la ley de los gases
+ideales,
+así que
+El trabajo se calcula con la ecuación 12.4:
+Este trabajo es mayor que el isotérmico, como se esperaría por el inciso a.
+Ejercicio de refuerzo. Calcule el flujo de calor en cada proceso de este ejemplo.
+Proceso isométrico. (De isovolumétrico), también llamado proceso isocórico, es un pro-
+ceso a volumen constante. Como se muestra en la ▼figura 12.12, el camino del proceso
+en un diagrama p-V es una línea vertical, llamada isometa. No se efectúa trabajo, por-
+ =11.01 * 105 N>m2218.98 * 10-2 m3 - 4.49 * 10-2 m32 =+ 4.53 * 103 J
+ Wisobárico = p1V2 - V12
+V2 = 2V1 = 8.98 * 10-2 m3
+ = 4.49 * 10-2 m3
+ V1 = nRT1
+p1
+=
+12.00 mol238.31 J>1mol # K241273 K2
+1.01 * 105 N>m2
+ =+ 3.14 * 103 J
+ Wisotérmico = nRT ln¢ V2
+V1
+≤ =12.00 mol238.31 J>1mol # K241273 K21ln 22
+ V2 = 2V1
+ T1 = 0°C = 273 K
+ p1 = 1.00 atm = 1.01 * 105 N>m2
+p Isométrico
+V2 = V1
+T1
+V
+Volumen
+Presión
+Isometa
+2
+1
+V1 = V2
+Q = ΔUW = 0
+T2
+T2 > T1
+Isotermas
+Q
+> FIGURA 12.12 Proceso 
+isométrico (con volumen 
+constante) Todo el calor que se
+agrega al gas se invierte en 
+aumentar su energía interna,
+pues no se efectúa trabajo 
+(W /H110050); por lo tanto, Q /H11005ΔU.
+(En el pistón observe el tornillo
+fijador que le impide moverse.)
+De nuevo, aunque las isotermas
+no intervienen en el proceso 
+isométrico, visualmente nos 
+indican que la temperatura del
+gas se incrementa.
+Nota: isobárico significa 
+“a presión constante”.
+
+406 CAPÍTULO 12 Termodinámica
+que el área bajo una curva así es cero. (No hay desplazamiento, así que no hay cambio
+de volumen.) Puesto que el gas no puede efectuar trabajo, si se añade calor, éste debe
+invertirse completamente en aumentar la energía interna del gas y, por ende, su tem-
+peratura. En términos de la primera ley de la termodinámica,
+así que
+(proceso isométrico con gas ideal) (12.6)
+Considere el siguiente ejemplo de un proceso isométrico en acción.
+Ejemplo 12.3 ■ Ejercicio isométrico práctico: cómo no reciclar 
+una lata de aerosol
+Muchas latas de aerosol “vacías” contienen restos de gases impulsores a una presión
+aproximada de 1 atm (supondremos 1.00 atm) a 20°C. La lata lleva la advertencia: “No
+queme ni perfore esta lata.” a) Explique por qué es peligroso quemar una lata de éstas. 
+b) Calcule el cambio en la energía interna de un gas así, si se le agregan 500 J de calor y 
+eleva su temperatura hasta 2000°F. c) ¿Qué presión final tendrá el gas?
+Razonamiento. Este proceso es isovolumétrico; por lo cual todo el calor se invierte en au-
+mentar la energía interna del gas. Se espera que aumente la presión, y es ahí donde radi-
+ca el peligro. Determinamos la presión final con la ley de los gases ideales.
+Solución. Hacemos una lista con los datos y convertimos las temperaturas dadas a kel-
+vin. (Para el razonamiento cualitativo, de nuevo se recomienda consultar la sección
+Aprender dibujando de la p. 409.)
+Dado: Encuentre: a) Explique el peligro
+de calentar la lata
+b) (cambio en la energía
+interna)
+c) (presión final del gas)
+a) Cuando se agrega calor, todo se invierte en aumentar la energía interna del gas. Con
+volumen constante, la presión es proporcional a la temperatura, así que la presión final
+será mayor que 1 atm. El peligro es que el recipiente haga explosión, y se desintegre en
+fragmentos metálicos como una granada, si se excede su presión máxima de diseño.
+b) Para calcular el cambio en la energía interna, usamos la primera ley de la termodiná-
+mica. Recuerde que el trabajo efectuado en un proceso isométrico es cero. (¿Por qué?)
+c) La presión final del gas se determina directamente de la ley de los gases ideales:
+Ejercicio de refuerzo. Suponga que la lata se diseñó de manera que aguante presiones de
+hasta 3.5 atm. ¿Qué temperatura máxima resistirá antes de hacer explosión?
+Proceso adiabático. Aquí no se transfiere calor hacia el interior ni hacia el exterior del sis-
+tema. Es decir, Q /H110050 (Nfigura 12.13). (El vocablo griego adiabatossignifica “impasable”.) Es-
+ta condición se satisface en un sistema térmicamente aislado, rodeado por completo de un
+aislante “perfecto”. Se trata de una situación ideal, ya que hay algo de transferencia de ca-
+lor incluso con los mejores materiales, si esperamos el tiempo suficiente. Por lo tanto, en la
+vida real, sólo podemos aproximar los procesos adiabáticos. Por ejemplo, pueden efectuar-
+se procesos casi adiabáticos si los cambios son lo bastante rápidos y no hay tiempo para
+que una cantidad significativa de calor entre en el sistema o salga de él. En otras palabras,
+los procesos rápidospueden aproximar las condiciones adiabáticas.
+La curva para este proceso se llama adiabata. Durante un proceso adiabático, cambian
+las tres coordenadas termodinámicas (p, V , T). Por ejemplo, si se reduce la presión a la que
+está sometido el gas, éste se expande. Sin embargo, no fluye calor hacia el gas. Al no ha-
+ber un ingreso de calor que compense, se efectúa el trabajo a expensas de la energía inter-
+na del gas. Por lo tanto, ΔU debe ser negativo. Como la energía interna y, en consecuencia,
+la temperatura disminuyen, tal expansión es un proceso de enfriamiento. Asimismo, una
+compresión adiabática es un proceso de calentamiento (aumento de temperatura).
+p2
+ V2
+T2
+=
+p1
+ V1
+T1
+ o bien p2 = p1¢ V1
+V2
+≤¢ T2
+T1
+≤ =11 atm2¢ V1
+V1
+≤¢ 1.37 * 103 K
+293 K
+≤ = 4.68 atm
+¢U = Q - W = Q - 0 = Q =+ 500 J
+ Q =+ 500 J
+p2 = 1.37 * 103 K
+ T2 = 2000°F = 1.09 * 103 °C
+¢U T1 = 20°C = 293 K
+ V1 = V2
+ p1 = 1.00 atm = 1.01 * 105 N>m2
+Q =¢ U
+Q =¢ U + W =¢ U + 0 =¢ U
+Nota: en la práctica, adiabático
+significa rápido, es decir, 
+antes de que una cantidad 
+significativa de calor pueda 
+entrar o salir (Q /H110050).
+
+12.3 Procesos termodinámicos para un gas ideal 407
+Adiabático
+V1 V2
+V
+Volumen
+Presión
+Adiabata
+W = /H11002ΔU
+Q = 0
+Q = 0
+T2 
+T2 < T1
+T1 
+V1
+V2
+Isotermas
+2
+1
+p > FIGURA 12.13 Proceso adiabático
+(sin transferencia de calor) En un
+proceso adiabático (que se represen-
+ta aquí con un cilindro bien aislado),
+no se agrega ni quita calor al sistema;
+por lo tanto, Q /H110050. Durante la 
+expansión (que se muestra aquí), 
+el gas efectúa trabajo positivo a 
+expensas de su energía interna: 
+W /H11005/H11002ΔU. En el proceso, cambian
+la presión, el volumen y la tempera-
+tura. El trabajo efectuado por el gas
+es el área sombreada entre la adia-
+bata y el eje V.
+Por la primera ley de la termodinámica, describimos un proceso adiabático como
+o bien,
+(proceso adiabático) (12.7)
+Para que nuestra descripción de los procesos adiabáticos sea completa, planteare-
+mos otras relaciones que se dan en tales procesos. En éstos, un factor importante es la
+razón de los calores específicos molares del gas, definida por una cantidad adimensio-
+nal donde c
+p y cv son calores específicos a presión y a volumen constantes,
+respectivamente. Para los dos tipos comunes de moléculas de gas, monoatómica y dia-
+tómica, los valores aproximados de g son 1.67 y 1.40, respectivamente. El volumen y la
+presión en dos puntos cualesquiera de una adiabata están relacionados por
+(proceso adiabático con gas ideal) (12.8)
+El trabajo efectuado por un gas ideal durante un proceso adiabático es
+(proceso adiabático con gas ideal) (12.9)
+Ejemplo conceptual 12.4 ■ Exhalación: ¿soplo frío o caliente?
+El aire en nuestros pulmones está tibio. Esto puede comprobarse colocando el antebrazo
+desnudo cerca de la boca y exhalando con la boca bien abierta. Si soplamos con los labios
+fruncidos (muy juntos), el aire se sentirá a) más caliente, b) más frío o c) igual.
+Razonamiento y respuesta. En este caso iremos de la respuesta al razonamiento, porque
+es fácil determinar la respuesta correcta experimentalmente. Pruébelo; quizá le sorprenda
+comprobar que la respuesta es b.
+Lo interesante es por qué sucede así. Cuando exhalamos sobre el brazo con la boca
+abierta, sentimos una bocanada de aire tibio (aproximadamente a la temperatura corpo-
+ral). En cambio, cuando soplamos con los labios fruncidos, comprimimos la corriente de
+aire. Al salir, entonces, el aire se expande y efectúa un trabajo positivo sobre la atmósfe-
+ra. El proceso es aproximadamente adiabático, porque se efectúa en poco tiempo. Por la
+primera ley, puesto que Q /H110050, ΔU /H11005/H11002W; por lo tanto, ΔU es negativo y la temperatura
+baja. El trabajo se efectúa a expensas de la energía interna del aire.
+Ejercicio de refuerzo. Incluso en el invierno, con nieve en las laderas, en las montañas
+Rocallosas no es extraño sentir ráfagas de aire cálido que bajan por las laderas. (Estas rá-
+fagas se llaman vientos Chinook.) Explique cómo estos vientos tendrían un aumento signi-
+ficativo de temperatura cuando todavía hay nieve y hielo en el suelo.
+Wadiabático =
+p1
+ V1 - p2
+ V2
+g - 1
+p1
+ V1
+ 
+g = p2
+ V2
+ 
+g
+g = cp>cv ,
+¢U =- W
+Q = 0 =¢ U + W
+
+408 CAPÍTULO 12 Termodinámica
+El siguiente ejemplo integrado sirve para aclarar las confusiones que a veces sur-
+gen entre isotermas y adiabatas.
+Ejemplo integrado 12.5 ■ Adiabatas contra isotermas: dos procesos
+distintos que a menudo se confunden
+Una muestra de helio se expande al triple de su volumen inicial; en un caso lo hace adiabáti-
+camente, y en otro, isotérmicamente. En ambos casos, parte del mismo estado inicial. La
+muestra contiene 2.00 moles de helio a 20°C y 1.00 atm. a) ¿Durante qué proceso el gas efec-
+túa más trabajo? 1) Durante el proceso adiabático, 2) durante el isotérmico o 3) se efectúa el
+mismo trabajo en ambos procesos. b) Calcule el trabajo efectuado en cada proceso para verifi-
+car su razonamiento en el inciso a. La tasa o razón de calor específico, o valor 
+γ, del helio 1.67.
+a) Razonamiento conceptual. Para determinar gráficamente qué proceso implica más tra-
+bajo, examinamos las áreas bajo las curvas de proceso (véase la figura 12.13). El área bajo
+la curva del proceso isotérmico es mayor; por lo tanto, el gas efectúa más trabajo durante
+su expansión isotérmica y la respuesta correcta es 2). Físicamente, la expansión isotérmi-
+ca implica más trabajo porque las presiones siempre son mayores durante tal expansión
+que durante la adiabática.
+b) Razonamiento cuantitativo y solución. Para determinar el trabajo isotérmico, necesita-
+mos los volúmenes inicial y final, que pueden determinarse usando la ley de los gases
+ideales. Para el trabajo adiabático, es importante la razón de calores específicos, así como
+la presión y el volumen finales. La presión final puede calcularse con la ecuación 12.8, y la
+ley de los gases ideales nos permite determinar el volumen final.
+Hacemos una lista de los valores dados y convertimos la temperatura dada a kelvins:
+Dado: Encuentre: trabajo efectuado durante
+cada proceso
+Nos dan los datos necesarios para calcular el trabajo isotérmico a partir de la ecuación
+12.3. Puesto que la razón de volúmenes es 3, y ln 3 /H110051.10, tenemos
+Para el proceso adiabático, usando la ecuación 12.9 calculamos el trabajo; sin embargo,
+primero necesitamos la presión y el volumen finales. La presión final puede calcularse es-
+cribiendo la ecuación 12.8 en forma de razón:
+El volumen inicial se determina a partir de la ley de los gases ideales:
+Por lo tanto, Ahora aplicamos la ecuación 12.9:
+Como esperábamos, este resultado es menor que el trabajo isotérmico.
+Ejercicio de refuerzo. En este ejemplo, a) calcule la temperatura final del gas en la expan-
+sión adiabática. b) Durante la expansión adiabática, determine el cambio de energía inter-
+na del gas, utilizando la expresión para la energía interna de un gas monoatómico. ¿Es
+igual al negativo del trabajo efectuado (calculado en el ejemplo)? Explique.
+ =+ 3.76 * 10
+3 J
+ =
+11.01 * 105 N>m2214.82 * 10-2 m32 -11.62 * 104 N>m2211.45 * 10-1 m32
+1.67 - 1
+ Wadiabático =
+p1
+ V1 - p2
+ V2
+g - 1
+V2 = 3V1 = 1.45 * 10-1 m3.
+ = 4.82 * 10-2 m3
+ V1 = nRT1
+p1
+=
+12.00 mol238.31 J>1mol # K241293 K2
+1.01 * 105 N>m2
+ =10.160211.01 * 105 N>m22 = 1.62 * 104 N>m2
+ p2 = p1¢ V1
+V2
+≤
+g
+= p1¢ V1
+3V1
+≤
+g
+= p1a 1
+3b
+1.67
+= 0.160p1
+ =12.00 mol238.31 J>1mol # K241293 K21ln 32 =+ 5.35 * 103 J
+ Wisotérmico = nRT ln¢ V2
+V1
+≤
+ g = 1.67
+ V2 = 3V1
+ T1 = 20°C + 273 = 293 K
+ n = 2.00 mol
+ p1 = 1.00 atm = 1.01 * 105 N>m2
+
+12.3 Procesos termodinámicos para un gas ideal 409
+Procesos termodinámicos importantes
+Proceso Característica Resultado La primera ley de la termodinámica
+Isotérmico T /H11005constante
+Isobárico p /H11005constante
+Isométrico V /H11005constante
+Adiabático ¢U =- WQ = 0
+Q =¢ UW = 0
+Q =¢ U + p¢VW = p¢V
+Q = W¢U = 0
+TABLA 12.1
+Como un resumen final para estos procesos termodinámicos, sus características y
+consecuencias se listan en la tabla 12.1.
+APRENDER DIBUJANDO
+tical), isobara /H11005presión constante (línea horizontal) y
+adiabata /H11005cero flujo de calor (curva descendente, más
+empinada que una isoterma).]
+• Ahora usamos las gráficas para determinar los signos
+de W y ΔU. W está representado por el área bajo la cur-
+va p-V del proceso en cuestión, en tanto que su signo
+depende de si el gas se expandió (positivo) o se compri-
+mió (negativo). El signo de ΔT será evidente por las iso-
+termas, pues sirven como escala de temperatura. Por
+ejemplo, una elevación de T implica un aumento de U.
+• Por último, determinamos el signo de Q a partir de la
+primera ley de la termodinámica, Q /H11005ΔU /H11001W. El sig-
+no de Q nos dirá si entró calor al sistema o salió de él.
+El ejemplo de la figura 2 muestra lo potente que es este
+enfoque visual. En él, debemos decidir si durante una ex-
+pansión isobárica entra calor en un gas o sale de él. Una 
+expansión implica que el gas efectúa trabajo positivo. Sin em-
+bargo, ¿qué dirección tiene el flujo de calor (o es cero)? Al di-
+bujar la isobara, vemos que cruza las isotermas yendo de baja
+temperatura hacia alta temperatura. Por lo tanto, hay un au-
+mento de temperatura, y ΔU es positivo. Por Q /H11005ΔU /H11001W,
+vemos que Q es la suma de dos cantidades positivas, ΔU y W.
+Entonces, Q deberá ser positiva, o bien, entra calor en el gas.
+Como ejercicio, intente analizar un proceso isométrico
+utilizando este enfoque gráfico. Véase también los Ejemplos
+integrados 12.2 y 12.5.
+apoyarse en isotermas
+Al analizar procesos termodinámicos, a veces es difícil no
+perder de vista los signos del flujo de calor ( Q), el trabajo
+(W) y el cambio de energía interna (ΔU). Un método útil pa-
+ra llevar esta contabilidad es superponer una serie de iso-
+termas a la gráfica p-V con la que se está trabajando (como
+en las figuras 12.9 a 12.13). Este método es útil, aunque en
+la situación que se está estudiando no intervengan procesos
+isotérmicos.
+Antes de comenzar, recordemos que en un proceso iso-
+térmico la temperatura se mantiene constante.
+1. En un proceso isotérmico con un gas ideal, ΔU es cero.
+(¿Por qué?)
+2. Puesto que T es constante, pV también deberá ser cons-
+tante, ya que por la ley de los gases ideales (ecuación
+10.3), pV /H11005nRT /H11005constante. El álgebra nos dice que p /H11005
+k/V es la ecuación de una hipérbola. Por lo tanto, en un
+diagrama p-V, un proceso isotérmico se describe con una
+hipérbola. Cuanto más lejos de los ejes esté una hipérbo-
+la, mayor será la temperatura que representa (figura 1).
+Para aprovechar estas propiedades, seguimos estos 
+pasos:
+• Dibujamos un conjunto de isotermas para una serie
+creciente de temperaturas en la gráfica p-V (figura 1).
+• Luego dibujamos el proceso que estamos analizando;
+por ejemplo, la isobara que se muestra en la figura 2.
+[Sabemos que isometa /H11005volumen constante (línea ver-
+FIGURA 2 Una expansión isobárica
+V
+/H11008pV      T T1
+T2 > T1
+T3 > T2
+T4 > T3
+p
+1 2 3 4 5
+p
+1 234 5
+V
+Expansión
+isobárica 
+ T > 0, así
+ U > 0 
+W> 0 
+ V > 0, así
+ 
+Por lo tanto, Q=  U + W > 0
+FIGURA 1 Isotermas en una gráfica p-V
+
+410 CAPÍTULO 12 Termodinámica
+* Aunque no pueden existir máquinas de movimiento perpetuo, se sabe que existen movimientos
+(casi) perpetuos; por ejemplo, los planetas han estado girando en torno al Sol durante cerca de 5 mil
+millones de años.
+12.4 Segunda ley de la termodinámica 
+y entropía
+OBJETIVOS: a) Plantear y explicar la segunda ley de la termodinámica en varias
+formas y b) explicar el concepto de entropía.
+Suponga que un trozo de metal caliente se coloca en un recipiente aislado que contie-
+ne agua fría. Se transferirá calor del metal al agua y al final ambos llegarán a un equi-
+librio térmico en alguna temperatura intermedia. En un sistema térmicamente aislado,
+la energía total del sistema es constante. ¿Podría haberse transferido calor del agua fría
+al metal caliente, en vez de al revés? Semejante proceso no sucedería naturalmente; 
+pero si así fuera, la energía total del sistema se mantendría constante y este proceso 
+inverso “imposible” no violaría la conservación de la energía ni la primera ley de la ter-
+modinámica.
+Es evidente que debe haber otro principio que especifique la dirección en que se
+puede efectuar un proceso. Este principio se encarna en la segunda ley de la termodi-
+námica, que indica que ciertos procesos no suceden, o que nunca se ha observado que
+sucedan, aunque sean congruentes con la primera ley.
+Hay muchos planteamientos equivalentes de la segunda ley, redactados según su
+aplicación. Uno que podría aplicarse a la situación mencionada es el siguiente:
+El calor fluye espontáneamente de un cuerpo más frío a uno más caliente.
+Un planteamiento equivalente de la segunda ley tiene que ver con ciclos térmicos.
+Un ciclo térmico típico consiste en varios procesos térmicos distintos, después de los
+cuales el sistema regresa a las mismas condiciones en que estaba al inicio. Si el sistema
+es un gas, éste es el mismo estado p-V-T del que partió. La segunda ley, planteada en
+términos de un ciclo térmico (operando como máquina de calor; véase la sección 12.5),
+es como sigue:
+En un ciclo térmico, la energía calorífica no puede transformarse totalmente en
+trabajo mecánico.
+En general, la segunda ley de la termodinámica es válida para todas las formas de
+energía. Se le considera cierta porque nadie ha encontrado jamás una excepción a ella.
+Si no fuera válida, sería posible construir una máquina de movimiento perpetuo. Una
+máquina así podría transformar primero totalmente el calor en trabajo y movimiento
+(energía mecánica), sin pérdida alguna de energía. Luego, la energía mecánica podría
+transformarse otra vez en calor y utilizarse para calentar el depósito del cual original-
+mente se obtuvo el calor (también sin pérdidas). Como los procesos se podrían repetir
+indefinidamente, la máquina operaría perpetuamente, transformando la energía de
+una forma a otra. No se pierde ni se gana energía neta, así que esta situación no viola
+la primera ley. Sin embargo, es obvio que todas las máquinas reales tienen una efi-
+ciencia menor que el 100%, es decir, el trabajo producido siempre es menor que la
+energía aportada. Por lo tanto, otro planteamiento de la segunda ley es:
+Es imposible construir una máquina funcional de movimiento perpetuo.
+Se ha intentado sin éxito construir máquinas así.
+*
+Sería conveniente tener alguna forma de expresar la dirección de un proceso en tér-
+minos de las propiedades termodinámicas de un sistema. Una de esas propiedades es
+la temperatura. Al analizar un proceso de transferencia de calor por conducción, nece-
+Nota: es posible construir 
+máquinas reales que 
+prácticamente no tengan fricción;
+pero de cualquier forma su 
+eficiencia no llega al 100%. El 
+límite de la segunda ley no se 
+refiere a pérdidas por fricción.
+
+12.4 Segunda ley de la termodinámica y entropía 411
+Nota: es positivo si un siste-
+ma absorbe calor , y ne-
+gativo si pierde calor El
+signo de está determinado por
+el de Q.
+¢S
+1Q 6 02.
+1Q 7 02
+¢S
+Nota:
+siempre use kelvin al 
+calcular la entropía. ¿Qué 
+sucedería si usara la temperatura
+Celsius para calcular durante
+un cambio de fase de hielo a
+agua a
+0°C?
+¢S
+sitamos conocer la temperatura del sistema y la de su entorno. Si conocemos la dife-
+rencia de temperatura entre los dos procesos, diremos en qué dirección se efectuará es-
+pontáneamente la transferencia de calor. Otra cantidad útil, sobre todo al tratar las
+máquinas de calor, es la entropía.
+Entropía
+El primero en describir una propiedad que indica la dirección natural de un proceso fue
+el físico alemán Rudolf Clausius (1822-1888). Dicha propiedad es la entropía, que es
+un concepto multifacético, con muchas interpretaciones físicas distintas:
+• La entropía es una medida de la capacidad de un sistema para efectuar trabajo útil.
+Cuando un sistema pierde capacidad para efectuar trabajo, aumenta su entropía.
+• La entropía determina la dirección del tiempo. Es la “flecha del tiempo” que indi-
+ca el flujo hacia adelante de los sucesos y distingue los sucesos pasados de los fu-
+turos.
+• La entropía es una medida del desorden. Un sistema tiende naturalmente hacia un
+mayor desorden. Cuanto más orden haya, más baja será la entropía del sistema.
+• Está aumentando la entropía del Universo.
+Todos estos planteamientos (y otros) son interpretaciones igualmente válidas de
+la entropía y son físicamente equivalentes, como veremos en los siguientes análisis.
+Sin embargo, primero vamos a introducir la definición de cambio en la entropía. El
+cambio en la entropía de un sistema ( /H9004S), cuando a un proceso reversible a tempera-
+tura constante se le añade o quita una cantidad de calor ( Q) es
+(12.10)
+Unidad SI de entropía: joule sobre kelvin 
+Si la temperatura cambia durante el proceso, el cálculo del cambio de entropía re-
+quiere matemáticas avanzadas. Nuestro análisis se limitará a procesos isotérmicos o
+aquellos donde intervienen cambios de temperatura pequeños. En este último caso,
+aproximaremos los cambios de entropía utilizando temperaturas promedio, como en
+el ejemplo 12.7. No obstante, antes examinaremos un ejemplo de cambio de entropía y
+cómo se interpreta.
+Ejemplo 12.6 ■ Cambio de entropía: un proceso isotérmico
+Mientras realiza ejercicio físico a 34°C, un atleta pierde 0.400 kg de agua por hora a través
+de la evaporación de la transpiración de su piel. Calcule el cambio de entropía en el agua
+conforme se evapora. El calor latente de la evaporación por transpiración es de aproxima-
+damente
+Razonamiento. Se da un cambio de fase a temperatura constante; por lo tanto, aplicamos
+la ecuación 12.10 (ΔS /H11005Q/T) después de convertir a kelvins. La ecuación 11.2 (Q /H11005mLv)
+nos permite calcular la cantidad de calor agregado.
+Solución. Por el enunciado del problema, tenemos
+Dado: Encuentre: (cambio de entropía)
+Puesto que hay un cambio de fase, el agua absorbe calor latente:
+Entonces,
+Q es positivo porque se agrega calor al sistema. Por lo tanto, el cambio de entropía tam-
+bién es positivo: aumenta la entropía del agua. Este resultado es razonable porque un es-
+tado gaseoso es más aleatorio (desordenado) que un estado líquido.
+Ejercicio de refuerzo. ¿Cuánto cambiará la entropía de una muestra de 1.00 kg de agua
+cuando se congela a 0°C?
+¢S = Q
+T = +9.68 * 105 J
+307 K =+ 3.15 * 103 J>K
+Q = mLv =10.400 kg2124.2 * 105 J>kg2 = 9.68 * 105 J
+ Lv = 24.2 * 105 J>kg
+ T = 34°C + 273 = 307 K
+¢S m = 0.400 kg
+24.2 * 105 J>kg.
+(J>K)
+¢S = Q
+T
+Ilustración 21.2 Entropía y procesos
+reversible/irreversible
+(cambio de entropía a 
+temperatura constante)
+
+412 CAPÍTULO 12 Termodinámica
+Ejemplo 12.7 ■ Cuchara tibia en agua fría: ¿aumenta o disminuye 
+la entropía del sistema?
+Una cuchara metálica a 24°C se sumerge en 1.00 kg de agua a 18°C. El sistema (cuchara y
+agua) está térmicamente aislado y alcanza el equilibrio a una temperatura de 20°C. a) De-
+termine el cambio aproximado en la entropía del sistema. b) Repita el cálculo suponiendo,
+aunque sea imposible, que la temperatura del agua bajó a 16°C y la temperatura de la cu-
+chara subió a 28°C. Comente cómo la entropía nos indica que la situación del inciso b no
+puede darse.
+Razonamiento. El sistema está térmicamente aislado, así que sólo hay intercambio de calor
+entre la cuchara y el agua, es decir, Qm /H11001Qw /H110050, donde los subíndices m y w se refieren al
+metal y al agua, respectivamente. Podemos determinar Qw porque conocemos la masa de
+agua, su calor específico y el cambio de temperatura. Por lo tanto, podremos determinar
+ambos valores de Q (iguales, pero de signo opuesto). Estrictamente hablando, no podría-
+mos usar la ecuación 12.10 porque sólo es válida para procesos a temperatura constante. Sin
+embargo, los cambios de temperatura aquí son pequeños, de manera que podemos obtener
+una buena aproximación a ΔS utilizando la temperatura promedio de cada objeto
+Solución. Denotamos inicial con “i” y final con “f”:
+Dado: Encuentre: a) (cambio de entropía
+del sistema en una 
+situación realista)
+(de la tabla 11.1) b) (cambio de entropía
+a) del sistema en una
+b) situación irreal)
+a) Necesitamos la cantidad de calor transferida (Q) para despejar ΔS. Con ΔTw /H11005Tf –
+Tw, i/H1100520°C /H1100218°C /H11005/H110012.0 C°, el calor que el agua gana es
+por la ecuación 11.1. Esta cantidad también es la magnitud del calor perdidopor el metal. Por
+lo tanto,
+Las temperaturas promedio son:
+Ahora usamos estas temperaturas medias y la ecuación 12.10 para calcular los cambios de
+entropía aproximados para el agua y el metal:
+El cambio de entropía del sistema es la suma de estos cambios, o bien,
+La entropía del metal disminuyó porque perdió calor. La entropía del agua aumentó más
+de lo que la temperatura del metal disminuyó, así que, en total, se incrementó la entro-
+pía del sistema.
+b) Aunque esta situación conserva la energía, infringe la segunda ley de la termodinámi-
+ca. Para ver esta trasgresión en términos de entropía, repitamos el cálculo anterior, utili-
+zando el segundo conjunto de valores. Con ΔT
+w /H11005Tf /H11002Tw, i/H1100516°C /H1100218°C /H11005 /H110022.0 C°, el
+calor que el agua pierde es
+Una vez más, usamos las temperaturas promedio, y /H11005
+299 K, para calcular los cambios de entropía aproximados para el agua y la cuchara metálica:
+ ¢Sm L Qm
+Tm
+= +8.37 * 103 J
+299 K =+ 28.0 J>K
+ ¢Sw L Qw
+Tw
+= -8.37 * 103 J
+290 K =- 28.9 J>K
+Tm = 26°CTw = 17°C = 290 K
+Qw = cw mw
+ ¢T =34186 J>1kg # C°2411.00 kg21-2.0 C°2 =- 8.37 * 103 J
+¢S =¢ Sw +¢ Sm L+ 28.7 J>K - 28.4 J>K =+ 0.3 J>K
+ ¢Sm L Qm
+Tm
+= -8.37 * 103 J
+295 K =- 28.4 J>K
+ ¢Sw L Qw
+Tw
+= +8.37 * 103 J
+292 K =+ 28.7 J>K
+ Tm =
+Tm, i + Tf
+2 = 24°C + 20°C
+2 = 22°C = 295 K
+ Tw =
+Tw, i + Tf
+2 = 18°C + 20°C
+2 = 19°C = 292 K
+Qm =- 8.37 * 103 J
+Qw = cwmw
+ ¢T =34186 J>1kg # C°2411.00 kg212.0 C°2 =+ 8.37 * 103 J
+ Tm, f = 28°C; Tw, f = 16°C
+ Tf = 20°C
+¢S cw = 4186 J>1kg # C°2
+ mw = 1.00 kg
+ Tw, i = 18°C
+¢S Tm, i = 24°C
+T.
+Ilustración 21.3 Entropía e 
+intercambio de calor
+
+12.4 Segunda ley de la termodinámica y entropía 413
+Nota: en todo proceso natural,
+tiende a incrementarse la entropía
+de un sistema cerrado.
+El cambio de entropía del sistema es:
+En este escenario irreal, la entropía del metal aumentó, pero la del agua disminuyó más
+de lo que la del metal aumentó, de manera que disminuyó la entropía total del sistema.
+Ejercicio de refuerzo. ¿Qué temperaturas iniciales debería haber en este ejemplo para
+que el cambio total de entropía del sistema fuera cero? Explíquelo en términos de transfe-
+rencias de calor.
+Observe que el cambio de entropía del sistema del ejemplo 12.7a es positivo, ya
+que el proceso es natural. Es decir, es un proceso que siempre se observa. En general, la
+dirección de cualquier proceso es hacia un aumento de la entropía total del sistema. Es
+decir, la entropía de un sistema aislado nunca disminuye . Otra forma de expresar esta ob-
+servación es diciendo que la entropía de un sistema aislado aumenta en todos los procesos
+naturales Al llegar a una temperatura intermedia, el agua y la cuchara del
+ejemplo 12.7a intervienen en un proceso natural. En el inciso b del mismo ejemplo, el
+proceso nunca se observaría, y la disminución en la entropía del sistema lo indica. Asi-
+mismo, agua a temperatura ambiente en una bandeja para cubitos de hielo aislada no
+se convertirá de forma natural (espontánea) en hielo.
+Sin embargo, si un sistema no está aislado, su entropía podría disminuir. Por ejem-
+plo, si la bandeja llena de agua se coloca en un congelador, el agua se congelará, y su
+entropía disminuirá. No obstante, habrá un aumento mayor de entropía en alguna otra par-
+te del Universo. En este caso, el congelador calentará la cocina al hacer el hielo, y au-
+mentará la entropía total del sistema (hielo /H11001cocina).
+Por lo tanto, la segunda ley de la termodinámica podría plantearse en términos de
+entropía (para procesos que se dan naturalmente) de la siguiente forma:
+En todo proceso natural, la entropía total del Universo aumenta.
+Hay procesos en que la entropía es constante. Evidentemente, los procesos adiabá-
+ticos son de ese tipo, ya que Q /H110050. En este caso, /H9004S /H11005Q/T /H110050. Asimismo, cualquier
+expansión isotérmica reversible que va seguida inmediatamente de una compresión
+isotérmica siguiendo el mismo camino tiene un cambio neto de entropía igual a cero,
+pues ambos flujos de calor son iguales pero de signo opuesto, y las temperaturas tam-
+bién son las mismas; por lo tanto, /H9004S /H11005Q/T /H11001(/H11002Q/T) /H110050. Puesto que, en algunas cir-
+cunstancias, sí es posible tener ΔS /H110050, generalizamos el planteamiento anterior de la
+segunda ley de la termodinámica para incluir todos los procesos posibles:
+Durante cualquier proceso, la entropía del Universo sólo puede aumentar o per-
+manecer constante
+Para apreciar una de las múltiples interpretaciones alternativas (e equivalentes) de
+la entropía, considere los planteamientos anteriores rescritos en términos de orden y
+desorden. Aquí, interpretamos la entropía como una medida del desorden de un siste-
+ma. Por lo tanto, un valor mayor de entropía implica más desorden (o, de forma equi-
+valente, menos orden):
+Todos los procesos naturales tienden a un estado de mayor desorden.
+Podemos deducir una definición práctica de orden y desorden de situaciones coti-
+dianas. Suponga que estamos elaborando una ensalada con pasta y tenemos jitomates
+picados listos para mezclarlos con la pasta ya cocida. Antes de mezclar la pasta y los ji-
+tomates, hay cierta cantidad de orden, es decir, los ingredientes están separados. Al
+mezclarlos, los ingredientes separados se convierten en un solo platillo, y hay menos
+orden (o más desorden, si se prefiere). La ensalada de pasta, una vez mezclada, nunca
+se separará en ingredientes individuales por su cuenta (es decir, por un proceso natu-
+ral, espontáneo). Desde luego que podríamos extraer los trozos de jitomate, pero ello
+no sería un proceso natural. Asimismo, unos anteojos rotos no se pegan otra vez por sí
+mismos. Los gases de una mezcla tampoco se separan repentinamente, quedando cada
+1¢S Ú 02.
+1¢S 7 02.
+¢S =¢ Sw +¢ Sm L- 28.9 J>K + 28.0 J>K =- 0.9 J>K
+Nota: la energía total no puede
+crearse ni destruirse; la entropía 
+total puede crearse, pero no 
+destruirse.
+
+414 CAPÍTULO 12 Termodinámica
+12.1 Vida, orden y LA segunda ley
+La segunda ley de la termodinámica es uno de los cimientos 
+de la física y opera universalmente: la entropía total del Univer-
+so aumenta en cada proceso natural. Sin embargo, aunque es
+indudable que la vida es un proceso natural, hay un aumento
+evidente de orden durante el desarrollo del embrión humano
+para convertirse en un adulto maduro. Además, en práctica-
+mente todos los procesos vitales, continuamente se sintetizan
+moléculas y estructuras celulares más grandes y complejas, a
+partir de componentes más simples. ¿Implica esto que los seres
+vivos están exentos de la segunda ley?
+Para contestar esta pregunta, debemos tener en cuenta que
+las células no son sistemas cerrados. Intervienen en intercambios
+continuos de materia y energía con su entorno. Las células vivas
+efectúan constantemente intercambios y conversiones de ener-
+gía, de una forma a otra, regidas por la primera ley de la termo-
+dinámica. Por ejemplo, las células convierten energía potencial
+química en energía cinética (movimiento) y en energía eléctrica
+(la base de los impulsos nerviosos). Muchas células vegetales
+convierten la energía de la luz solar en energía química a través
+de la fotosíntesis (figura 1a). Hemos tratado de imitar a la natu-
+raleza para aprovechar la energía de la luz solar (figura 1b).
+En todos los procesos biológicos, los sistemas vivos mantie-
+nen o incluso incrementan su organización al tiempo que causan
+una disminución aun mayor en el orden de su entorno. Los seres
+vivos están en un estado de baja entropía, y requieren energía en
+la forma de alimentos y oxígeno para mantenerse en dicho esta-
+do. Una disminución local de la entropía no viola la segunda ley,
+si en el proceso aumenta la entropía total del Universo.
+A FONDO
+ a)  b)
+FIGURA 1 Colectores solares a) Todos los días las plantas
+verdes captan grandes cantidades de energía solar y lo han 
+estado haciendo durante cientos de millones de años. La 
+energía química que almacenan en forma de azúcares y otras
+moléculas complejas es utilizada por casi todos los organismos
+del planeta, para mantener e incrementar el estado altamente
+organizado que llamamos vida. b) La humanidad ha creado
+dispositivos (como estos concentradores reflejantes de energía
+solar) para captar algo de la energía de la luz solar.
+especie aparte. A veces describimos el desorden como una medida de la aleatoriedad
+de un sistema. En la ensalada de pasta, una vez que los ingredientes se mezclaron bien,
+los trozos están distribuidos al azar en toda la ensalada.
+Para entender mejor esta interpretación de la entropía, considere la sección A fon-
+do 12.1: Vida, orden y la segunda ley.
+12.5 Máquinas de calor y bombas térmicas
+OBJETIVOS: a) Explicar el concepto de máquina de calor y calcular la eficiencia
+térmica y b) explicar el concepto de bomba térmica y calcular el
+coeficiente de desempeño.
+Una máquina de calor es cualquier dispositivo que convierte energía calorífica en tra-
+bajo. Puesto que la segunda ley de la termodinámica prohíbe las máquinas de movi-
+miento perpetuo, necesariamente una parte del calor suministrado a una máquina de
+calor se perderá y no se convertirá en trabajo. (No nos ocuparemos aquí de los porme-
+nores de los componentes mecánicos de las máquinas, como pistones y cilindros.)
+Para nuestros propósitos, una máquina de calor es un dispositivo que toma calor de
+una fuente de alta temperatura (un depósito caliente), convierte una parte de él en traba-
+jo útil y transfiere el resto a su entorno (un depósito frío o de baja temperatura). Por
+ejemplo, casi todas las turbinas que generan electricidad (capítulo 20) son máquinas de
+calor que usan calor de diversas fuentes, como la quema de combustibles químicos (“fó-
+siles”): petróleo, gas o hulla; reacciones nucleares y la energía térmica que ya está presen-
+te bajo la superficie de la Tierra (véase la imagen al inicio del capítulo). Esas turbinas
+podrían enfriarse con agua de un río, por ejemplo, perdiendo así calor a ese depósito de
+baja temperatura. En la 
+Nfigura 12.14a se muestra una máquina de calor generalizada.
+Conviene recordar nuestra convención de signos antes de comenzar a estudiar las
+máquinas de calor. Aquí, nos interesa primordialmente el trabajo W efectuado por el
+
+12.5 Máquinas de calor y bombas térmicas 415
+gas sobre el entorno. Durante una expansión, el gas efectúa trabajo positivo. Asimismo,
+durante una compresión, el trabajo efectuado por el gas es negativo. También, supon-
+dremos que la “sustancia de trabajo” (el material que absorbe el calor y efectúa el tra-
+bajo) se comporta como un gas ideal. Los principios de la física en que se basan las
+máquinas de calor son los mismos, sea cual fuere la sustancia de trabajo. Sin embargo,
+el uso de gases ideales facilita las matemáticas.
+La adición de calor a un gas puede producir trabajo. Sin embargo, dado que gene-
+ralmente se quiere una producción continua, las máquinas de calor prácticas funcionan
+en un ciclo térmico, es decir, con una serie de procesos que regresan el sistema a su
+condición original. Las máquinas de calor cíclicas incluyen las máquinas de vapor y
+los motores de combustión interna, como los de los automóviles.
+En la figura 12.14b se muestra un ciclo termodinámico rectangular idealizado.
+Consiste en dos isobaras y dos isometas. Cuando se efectúan estos procesos en el or-
+den indicado, el sistema pasa por un ciclo (1-2-3-4-1) y vuelve a su condición original.
+Cuando el gas se expande (de 1 a 2), realiza un trabajo (positivo) igual al área bajo la
+isobara. Trabajo positivo es precisamente lo que se desea obtener de una máquina.
+(Pensemos en una barredora de hojas que empuja aire hacia un lado o un pistón auto-
+motriz que mueve el cigüeñal.) Sin embargo, debe haber una compresión (de 3 a 4) del
+gas para que vuelva a sus condiciones iniciales. Durante esta fase, el trabajo efectuado
+por el gas es negativo, lo cual no es el propósito de un motor. En cierto sentido, una
+parte del trabajo positivo efectuado por el gas “se cancela” por el trabajo negativo efec-
+tuado durante la compresión.
+En este análisis, resulta evidente que la cualidad importante en el diseño de una
+máquina no es la cantidad de trabajo de expansión, sino más bien el trabajo neto W
+neto
+por ciclo. Esta cantidad se representa gráficamente como el área encerrada por las cur-
+vas de proceso que constituyen el ciclo en la siguiente sección Aprender dibujando. 
+ a)  b)
+Wneto = Qh – Qc p
+Volumen
+Qentra = Qh 
+Qsale = Qc 
+Aporte de
+calor por ciclo
+Wneto 
+Trabajo mecánico
+producido por ciclo
+MÁQUINA
+DE CALOR
+Depósito de alta temperatura
+Calor producido
+por ciclo
+Depósito de baja temperatura
+Presión
+V
+12
+43
+Wneto
+> FIGURA 12.14 Máquina de 
+calor a) Flujo de energía en 
+una máquina de calor cíclica 
+generalizada. Note que la 
+anchura de la flecha que 
+representa Q
+h (flujo de calor 
+desde un depósito caliente) es
+igual a las anchuras combinadas
+de las flechas que representan
+W
+neto y Qc (flujo de calor hacia
+un depósito frío), lo que refleja
+la conservación de la energía: 
+Q
+h /H11005Qc /H11001Wneto. b) Este proceso
+cíclico específico consiste en dos
+isóbaras y dos isometas. El 
+trabajo neto producido por ciclo
+es el área del rectángulo formado
+por los caminos del proceso.
+(Véase el ejemplo 12.10 para un
+análisis de este ciclo específico.)
+APRENDER DIBUJANDO representación del trabajo en ciclos térmicos
+Primero dibujamos el trabajo de expansión... ...y luego el trabajo de comprensión para 
+completar el ciclo.
+La resta de las dos áreas 
+da el área encerrada, 
+que representa el trabajo 
+neto por ciclo.
+/g112
+/g860
+/g112
+/g86
+/g87/g110/g101/g116/g111
+0
+/g112
+/g860
+
+p
+VV1
+p1
+2V1
+ 4)
+p
+V
+p1
+ 3)
+p
+V
+p1
+ 2)
+p
+VV1
+p1
+p1
+2V1
+V1 2V1
+V1 2V1
+ 1)
+2
+p1
+2
+p1
+2
+p1
+2
+▲ FIGURA 12.15 Comparación 
+de ciclos de máquina de calor
+Comparación del trabajo neto 
+efectuado por ciclo, empleando 
+métodos gráficos (visuales). (Véase
+la sección Aprender dibujando en la
+p. 415 y en el Ejemplo conceptual
+12.8, para mayores detalles.)
+416
+CAPÍTULO 12 Termodinámica
+En la figura 12.14, el área es rectangular. Cuando los caminos no son rectas, podría ser
+difícil calcular numéricamente las áreas, aunque el concepto es el mismo.
+Antes de hablar de eficiencia de las máquinas, veamos un ejemplo conceptual que
+emplee tales técnicas gráficas.
+Ejemplo conceptual 12.8 ■ Trabajo neto: cuestión de comparar áreas
+Se encarga a un grupo de ingenieros diseñar una máquina de calor. Se han reducido las
+opciones a cuatro ciclos (>figura 12.15) y hay que decidir cuál generará mayor trabajo ne-
+to. ¿Podría usted ayudarles a decidir? Ordene los ciclos de menor a mayor, según el traba-
+jo neto por ciclo. Suponga en todos los casos que el gas parte de la misma condición ini-
+cial y que en todas las expansiones hay un aumento del volumen inicial al doble.
+Los ciclos a considerar son: 1) El gas se expande isobáricamente y luego su presión se
+reduce a la mitad isométricamente. Después, se le comprime isotérmicamente hasta su es-
+tado original. 2) El gas se expande (de nuevo) isobáricamente y luego su presión se redu-
+ce a la mitad isométricamente. Luego, se le comprime siguiendo un camino recto (en un
+diagrama p-V) hasta su estado original. 3) Se reduce a la mitad la presión del gas (aumen-
+tando al doble su volumen), siguiendo un camino recto (en un diagrama p-V). Luego se le
+comprime isobáricamente hasta su volumen original. Por último, se eleva su presión iso-
+métricamente para que vuelva a su estado original. 4) El gas se expande isotérmicamente
+y entonces su presión aumenta al doble isométricamente. Al final, se le regresa isobárica-
+mente a su estado original.
+Razonamiento y respuesta. La clave aquí es traducir las palabras en áreas gráficas y líneas
+de procesos, como se ilustra en la figura 12.15. Ahí, se dibujaron los ciclos (a escala) y se
+compararon las áreas encerradas.
+1. Una expansión isobárica se dibuja con una línea horizontal a la derecha y represen-
+ta trabajo positivo efectuado por el gas. La compresión isométrica se dibuja con una
+línea vertical y no efectúa trabajo. En este punto, la temperatura tiene el valor ini-
+cial, ya que la presión se redujo a la mitad y el volumen se duplicó, de manera que
+Por lo tanto, un proceso isotérmico regresa el gas a
+su estado inicial.
+2. Éste es igual al inciso 1 para los dos primeros procesos, aunque el retorno no es isotér-
+mico.
+3. Durante el primer proceso, el gas efectúa trabajo positivo. Se expande siguiendo una
+línea recta que termina a la temperatura inicial. (¿Cómo lo sabemos?) La compresión
+isobárica se representa con una línea horizontal hacia la izquierda. El proceso final es
+un aumento isométrico vertical de presión para volver a las condiciones iniciales, du-
+rante la cual se efectúa cero trabajo.
+4. Primero hay una expansión isotérmica para reducir a la mitad la presión inicial y au-
+mentar al doble el volumen inicial. Aquí, el gas efectúa trabajo positivo. Luego, un 
+aumento de presión vuelve el gas a su presión inicial, pero no requiere trabajo. Por úl-
+timo, la compresión isobárica restaura el gas a sus condiciones iniciales.
+En primer lugar, debería quedar claro que el ciclo 4 no es una máquina de calor, pues
+se requiere más trabajo para comprimir el gas que el trabajo que éste efectúa sobre el en-
+torno, y la persona que sugirió este ciclo debería volver a tomar este curso de física.
+El ciclo 1 efectúa más trabajo que el 2. También es evidente que el ciclo 2 y el ciclo 3
+efectúan la misma cantidad de trabajo neto, aunque lo hacen de distinta manera. Por lo
+tanto, el ganador es el ciclo 1, con 2 y 3 empatados en segundo lugar.
+Ejercicio de refuerzo. a) En este ejemplo, describa qué cambios haría al ciclo 2 para con-
+vertirlo en el ganador. (Sugerencia: hay muchas formas de lograrlo.)
+Eficiencia térmica
+La eficiencia térmica es un parámetro importante para evaluar las máquinas de calor. La
+eficiencia térmica de una máquina de calor se define como
+(12.11)e =
+trabajo útil
+aporte de calor = Wneto
+Qentra
+1e2
+pf
+ Vf =1pi>2212Vi2 = pi
+ Vi = nRTi .
+eficiencia térmica de
+una máquina de calor
+
+12.5 Máquinas de calor y bombas térmicas 417
+La eficiencia nos dice cuánto trabajo útil ( Wneto) efectúa la máquina en comparación
+con el aporte de calor que recibe ( Qentra). Por ejemplo, los motores de los automóviles
+modernos tienen una eficiencia del 20 al 25%. Esto significa que sólo cerca de la cuarta
+parte del calor generado al encender la mezcla aire-gasolina se convierte realmente en
+trabajo mecánico, que a la vez hace girar las ruedas del coche, etc. O bien, podríamos
+decir que el motor desperdicia casi tres cuartas partes del calor, que en última instan-
+cia va a dar a la atmósfera a través del sistema de escape, del sistema de radiador y del
+metal del motor.
+Para un ciclo de una máquina de calor ideal, W
+neto se determina aplicando la pri-
+mera ley de la termodinámica al ciclo completo. Recuerde que, según nuestra conven-
+ción de signos para el calor, Q
+sale es negativo. En nuestro análisis de las máquinas y
+bombas de calor, todos los símbolos de calor (Q) representarán únicamente magnitud . Por
+ello, Qsale se escribe como /H11002Qc (el negativo de una cantidad positiva Qc para indicar un
+flujo desde el motor hacia un depósito frío). Qentra es positivo por nuestra convención
+de signo y aparece como /H11001Qh (para indicar el flujo al motor desde el quemado del gas).
+Al aplicar la primera ley de la termodinámica a la parte de expansión del ciclo y
+expresar el trabajo efectuado por el gas como W /H11005/H11001Wexp, tenemos ΔUh /H11005/H11001Qh /H11002
+Wexp. Para la parte de compresión del ciclo, el trabajo efectuado por el gas se muestra
+explícitamente como negativo ( W /H11005/H11002Wcomp y ΔUc /H11005/H11002Qc /H11001Wcomp). Sumamos estas
+ecuaciones, teniendo presente que, para un gas ideal, ΔUciclo /H11005ΔUh /H11001ΔUc /H110050 (¿por
+qué?),
+o bien,
+Sin embargo, Wneto /H11005Wexp /H11002Wcomp, así que el resultado final es (recuerde que Q repre-
+senta magnitud aquí)
+Así pues, la eficiencia térmica de una máquina de calor se escribe en términos de los
+flujos de calor como
+(12.12)
+Al igual que la eficiencia mecánica, la eficiencia térmica es una fracción adimensio-
+nal y suele expresarse como porcentaje. La ecuación 12.12 indica que una máquina de
+calor podría tener una eficiencia del 100% si Q
+c fuera cero. Esta condición implicaría
+que no se pierde energía calorífica y que todo el calor aportado (depósito caliente) se
+convierte en trabajo útil. Sin embargo, esta situación es imposible según la segunda ley
+de la termodinámica. En 1851, esta observación llevó a Lord Kelvin (quien desarrolló la
+escala de temperatura que estudiamos en la sección 10.3) a plantear la segunda ley en
+una forma distinta, pero físicamente equivalente:
+Ninguna máquina de calor cíclica puede convertir su aporte de calor totalmente
+en trabajo.
+La ecuación 12.12 nos indica que, para obtener el máximo de trabajo por ciclo 
+de una máquina de calor, debemos reducir al mínimo Q
+c/Qh, lo cual aumenta la efi-
+ciencia.
+La mayoría de los automóviles con motor de gasolina utilizan un ciclo de cuatro
+tiempos. Una aproximación a este importante ciclo incluye los pasos que se muestran
+en la ▼ figura 12.16, junto con un diagrama p-V del proceso termodinámico que compo-
+ne el ciclo. Este ciclo teórico se denomina ciclo de Otto, en honor al ingeniero alemán,
+Nikolaus Otto (1832-1891), quien construyó uno de los primeros motores de gasolina
+exitosos.
+Durante la fase de admisión (1-2), una expansión isobárica, la mezcla de aire y
+combustible entra a presión atmosférica a través de la válvula de admisión abierta,
+conforme el pistón desciende. Esta mezcla es adiabáticamente (rápidamente) compri-
+mida en la fase de compresión (2-3). A este paso le sigue la quema del combustible 
+(3-4, cuando la bujía se enciende, provocando un aumento en la presión isométrica). 
+e = Wneto
+Qh
+= Qh - Qc
+Qh
+= 1 - Qc
+Qh
+Wneto = Qh - Qc
+Wexp - Wcomp = Qh - Qc
+0 =1Qh - Qc2 +1Wcomp - Wexp2
+Nota: representación del 
+trabajo en ciclos térmicos.
+Aquí, todos los Q son positivos;
+el calor que entra o sale se 
+indicará con un signo /H11001o /H11002, 
+respectivamente.
+Exploración 21.1 Eficiencia de máquina
+eficiencia de una máquina
+de calor con gas ideal
+
+418 CAPÍTULO 12 Termodinámica
+EscapeBujía Chispa
+Fase de
+admisión (1-2)
+Fase de
+compresión (2-3)
+Encendido (3-4)
+(5-2)
+Fase de
+potencia (4-5)
+Fase de
+escape (2-1)
+Válvula
+cerrada
+Válvula
+abierta
+Mezcla aire-
+combustible
+Pistón
+/g112/g112/g112/g112/g112/g112
+Compresión
+adiabática
+Calentamiento
+isométrico
+Enfriamiento
+isométrico
+Expansión
+adiabática
+Volumen
+1 atmPresión
+/g86
+5
+21
+3
+4
+/g86
+5
+21
+3
+4
+/g86
+5
+21
+3
+4
+/g86
+5
+21
+3
+4
+/g86
+5
+21
+3
+4
+/g86
+5
+21
+3
+4
+▲ FIGURA 12.16 El ciclo de cuatro tiempos de una máquina de calor Pasos de proceso
+del ciclo Otto de cuatro tiempos. El pistón sube y baja dos veces en cada ciclo, haciendo un
+total de cuatro tiempos por ciclo. 
+A continuación, ocurre una expansión adiabática durante la fase de potencia (4-5).
+Después de este paso se produce un enfriamiento isométrico del sistema, cuando el
+pistón se encuentra en su posición más baja (5-2). La fase final, la de escape, se efectúa
+a lo largo de la etapa isobárica del ciclo de Otto (2-1). Note que se requieren dos movi-
+mientos del pistón hacia arriba y hacia abajo para producir una fase de potencia.
+Ejemplo 12.9 ■ Eficiencia térmica: lo que obtenemos 
+de lo que aportamos
+El pequeño motor de gasolina de una barredora de hojas absorbe 800 J de energía calorífica
+de un depósito de alta temperatura (la mezcla gasolina-aire encendida) y transfiere 700 J 
+a un depósito de baja temperatura (el aire exterior, a través de las aletas de enfriamiento).
+¿Cuál es la eficiencia térmica del motor?
+Razonamiento. Usamos la definición de eficiencia térmica de una máquina de calor (ecua-
+ción 12.11) si podemos determinar Wneto. (Recordemos que las Q son magnitudes de calor.)
+Solución.
+Dado: Encuentre: (eficiencia térmica)
+El trabajo neto efectuado por la máquina en cada ciclo es
+Por lo tanto, la eficiencia térmica es
+Ejercicio de refuerzo. a) ¿Qué trabajo neto produciría en cada ciclo la máquina de este
+ejemplo, si la eficiencia aumentara al 15% y el calor aportado por ciclo se aumentara a
+1000? b) ¿Cuánto calor escaparía en este caso?
+Para saber cómo se calcula la eficiencia de un ciclo con gas ideal usando las leyes
+de la termodinámica, considere el siguiente ejemplo.
+ e = Wneto
+Qh
+= 100 J
+800 J
+= 0.125 (o 12.5%)
+ Wneto = Qh - Qc = 800 J - 700 J = 100 J
+ Qc = 700 J
+e Qh = 800 J
+Exploración 21.2 Motor de
+combustión interna
+
+12.5 Máquinas de calor y bombas térmicas 419
+Ejemplo 12.10 ■ Eficiencia térmica: aplicación de la definición básica
+Suponga que tenemos 0.100 moles de un gas ideal monoatómico que sigue el ciclo dado
+en la figura 12.14b, y que la presión y la temperatura en la parte inferior izquierda de esa
+figura son 1.00 atm y 20°C, respectivamente. Suponga además que la presión aumenta al
+doble durante el incremento isométrico de presión, y que el volumen aumenta al doble
+durante la expansión isobárica. ¿Qué eficiencia térmica tendría este ciclo?
+Razonamiento. Podemos aplicar la definición de eficiencia térmica de una máquina de ca-
+lor (ecuación 12.11); sin embargo, hay que tener cuidado, ya que podrían ocurrir intercam-
+bios de calor durante dos o más procesos del ciclo. Para determinar el aporte de calor
+durante la expansión isobárica, necesitamos conocer el cambio de energía interna y, por lo
+tanto, el cambio de temperatura, así que es probable que vayamos a necesitar las tempera-
+turas en las cuatro esquinas del ciclo.
+Solución. Rotulemos las cuatro esquinas con números, como se muestra en la figura
+12.14b. Hacemos una lista de los datos y los convertimos a unidades SI:
+Dado: Encuentre: (eficiencia térmica)
+Primero, calculamos los volúmenes y las temperaturas en las esquinas, utilizando la ley
+de los gases ideales:
+Por lo tanto,
+Durante los procesos isométricos, la temperatura (absoluta en la escala Kelvin) es direc-
+tamente proporcional a la presión; durante los procesos isobáricos, la temperatura es di-
+rectamente proporcional al volumen. Entonces,
+Ahora podemos calcular las transferencias de calor. W = 0 durante el proceso 4-1 y, para
+un gas monoatómico, Por consiguiente:
+Durante el proceso 1-2, el gas se expande y aumenta su energía interna. El trabajo efec-
+tuado por el gas es
+Puesto que se efectuó trabajo y aumentó la energía interna,
+Así que el aporte total de calor por ciclo Q
+h es tan sólo
+Para obtener el trabajo neto, necesitamos el área encerrada por el ciclo. Por lo tanto,
+y la eficiencia es
+Ejercicio de refuerzo. Determine el calor total producido (Qc) en este ejemplo calculando
+los Q que intervienen en los procesos 2-3 y 3-4, y sumándolos. La respuesta deberá coin-
+cidir con el valor de Qc que se obtiene por una simple resta, utilizando los resultados del
+ejemplo. ¿Coincide?
+e = Wneto
+Qh
+= 243 J
+1.59 * 103 J
+= 0.153 o 15.3%
+Wneto =1¢p2321¢V122 =11.01 * 105 N>m2212.41 * 10-3 m32 =+ 243 J
+Qh = Q41 + Q12 = 1.59 * 103 J
+ =+ 730 J + 487 J =+ 1.22 * 103 J
+ = 3
+2 10.100 mol238.31 J>1mol # K2411172 K - 586 K2 + 487 J
+ Q12 =¢ U12 + W12 = 3
+2 nR¢T12 + 487 J
+W12 = p1 ¢V12 =12.02 * 105 N>m2214.82 * 10-3 m3 - 2.41 * 10-3 m32 =+ 487 J
+Q41 =¢ U41 = 3
+2 nR¢T41 = 3
+2 10.100 mol238.31 J>1mol # K241586 K - 293 K2 =+ 365 J
+¢U = 3
+2 nR¢T.
+ T3 = 1
+2 T2 = 586 K
+ T2 = 2T1 = 1172 K
+ T1 = 2T4 = 586 K
+V2 = V3 = 2V1 = 4.82 * 10-3 m3
+V4 = V1 = nRT1
+p1
+=
+10.100 mol238.31 J>1mol # K241293 K2
+1.01 * 105 N>m2 = 2.41 * 10-3 m3
+ V2 = V3 = 2V4 = 2V1
+ p1 = p2 = 2.00 atm = 2.02 * 105 N>m2
+ T4 = 20°C = 293 K
+ n = 0.100 mol
+e p4 = p3 = 1.00 atm = 1.01 * 105 N>m2
+
+420 CAPÍTULO 12 Termodinámica
+Bombas térmicas: refrigeradores, acondicionadores de aire 
+y bombas de calor
+La función que desempeña una bomba térmica es básicamente opuesta a la de una má-
+quina de calor. El término bomba térmica es genérico y se aplica a cualquier dispositivo,
+incluidos refrigeradores, acondicionadores de aire y bombas de calor, que transfiere
+energía calorífica de un depósito de baja temperatura a uno de alta temperatura (
+Nfigu-
+ra 12.17a). Para que se efectúe una transferencia así, es preciso aportar trabajo. Puesto
+que la segunda ley de la termodinámica indica que el calor no fluye espontáneamente de
+un cuerpo frío a uno caliente, es necesario aportar los medios para que se efectúe ese
+proceso, es decir, obtener trabajo del entorno.
+Nota: en la acepción que se le da
+aquí, el término bomba térmica es
+general y no se refiere específica-
+mente a los dispositivos que 
+suelen usarse para calentar 
+edificios. Esos dispositivos se 
+llaman bombas de calor.
+12.2 LA TERMODINÁMICA Y EL CUERPO HUMANO
+Al igual que los cuerpos de todos los demás organismos, el
+cuerpo humano no es un sistema cerrado. Debemos consumir
+alimentos y oxígeno para sobrevivir. Tanto la primera como la
+segunda leyes de la termodinámica tienen interesantes implica-
+ciones para estos procesos.
+El cuerpo humano metaboliza la energía química almace-
+nada en los alimentos y/o los tejidos adiposos del cuerpo. Éste
+es un proceso muy eficiente, porque, normalmente, el 95% del
+contenido energético de los alimentos se metaboliza. Parte de
+esta energía metabolizada se convierte en trabajo, W, para hacer
+circular la sangre, realizar las tareas diarias, etc. El resto se lanza
+al ambiente en forma de calor, Q. Para un hombre normal de 65
+kg, se necesitan alrededor de 80 J de trabajo por segundo sólo
+para mantener en funcionamiento las diversas partes del cuer-
+po, como el hígado, el cerebro y los músculos.
+La primera ley de la termodinámica, o la ley de la conser-
+vación de la energía, puede escribirse como ΔU /H11005Q /H11002W.
+Aquí, ΔU es el cambio en la energía interna del cuerpo, que
+podría venir de dos contribuciones. Una es a partir de los ali-
+mentos que se consumen, y la otra proviene de la grasa que al-
+macena el cuerpo en los tejidos adiposos. Así, tenemos que 
+ΔU /H11005ΔU
+alimentos /H11001ΔUgrasa. De ahí que ΔU sea una cantidad ne-
+gativa, ya que conforme la energía almacenada en los alimentos
+y la grasa se convierte en calor y trabajo, nuestro cuerpo tiene
+menos energía almacenada (hasta que, de nuevo, se consume
+alimento). Como Q es pérdida de calor hacia el ambiente, tam-
+bién es una cantidad negativa.
+El cuerpo humano es un ejemplo de una máquina de calor
+biológica. La fuente de energía de esta máquina es la energía
+metabolizada a partir de los alimentos y los tejidos adiposos.
+Parte de esta energía se convierte en trabajo, y el resto se expul-
+sa hacia el ambiente en forma de calor. Esta situación es directa-
+mente análoga a una máquina que toma calor de un depósito
+caliente, realiza trabajo mecánico y expulsa el exceso de calor
+hacia el ambiente. Así, la eficiencia del cuerpo humano es
+Puesto que W, Q y ΔU varían considerablemente de una
+actividad a otra, la eficiencia a menudo se determina utilizando
+la tasa de tiempo de estas cantidades, esto es, el trabajo por uni-
+dad de tiempo (potencia P), W/Δt, y la energía consumida por
+unidad de tiempo (tasa metabólica)
+La potencia utilizada durante una actividad particular, co-
+mo correr o montar bicicleta, se mide con un dispositivo llama-
+e = W
+ƒ¢Uƒ
+=
+W>¢t
+1ƒ¢Uƒ>¢t2
+= P
+1ƒ¢Uƒ>¢t2
+ƒ¢Uƒ>¢t:
+e =
+salida de trabajo
+entrada de energía
+= W
+ƒ¢Uƒ
+do dinamómetro. Se ha descubierto que la tasa metabólica es di-
+rectamente proporcional a la tasa de consumo de oxígeno, de
+manera que es factible medir esta tasa utilizando dis-
+positivos que registran la respiración, como el que se observa
+en la figura 1. Así, es posible determinar la eficiencia del cuerpo
+para desempeñar diferentes actividades midiendo la tasa de
+consumo de oxígeno asociada con cada actividad por separado. 
+La mayoría de la eficiencia del cuerpo humano depende 
+de la actividad muscular y de qué músculos se utilicen. Los
+músculos de mayor tamaño en el cuerpo son los de las piernas,
+de manera que si en una actividad se utilizan tales músculos, la
+eficiencia asociada con la actividad es relativamente alta. Por
+ejemplo, algunos ciclistas profesionales logran alcanzar una efi-
+ciencia tan alta como el 20%, generando más de 2 hp de poten-
+cia en ráfagas cortas de intensa actividad. Por el contrario, los
+músculos de los brazos son relativamente pequeños, así que ac-
+tividades como hacer pesas tienen una eficiencia menor del 5%.
+Al igual que cualquier otra máquina de calor, el cuerpo huma-
+no nunca alcanza el 100% de eficiencia. Cuando la gente hace
+ejercicio, se genera mucho calor que se desperdicia; por eso de-
+be deshacerse de él a través de procesos como la transpiración,
+para evitar el sobrecalentamiento. Lea más sobre la regulación
+fisiológica de la temperatura corporal en la sección A fondo 11.1
+(p. 380) del capítulo 11.
+1ƒ¢Uƒ>¢t2
+A FONDO
+FIGURA 1 Medición de la energía consumida y el trabajo
+realizado Un dispositivo que registra la respiración y un 
+dinamómetro permiten conocer tanto la potencia como la tasa
+metabólica de esta ciclista.
+
+12.5 Máquinas de calor y bombas térmicas 421
+Un ejemplo conocido de bomba térmica es el acondicionador de aire. Con trabajo
+aportado por energía eléctrica, se transfiere calor del interior de la casa (depósito de baja
+temperatura) al exterior de la casa (depósito de alta temperatura), como se ilustra en la fi-
+gura 12.17b. Un refrigerador (
+Nfigura 12.18) funciona exactamente con los mismos princi-
+pios y procesos. Con el trabajo efectuado por la compresora ( Wentra), el calor ( Qc) se
+transfiere a la bobina del evaporador dentro del refrigerador. Después, la combinación de
+este calor y trabajo (Q
+h) se expulsa al exterior del refrigerador a través del condensador.
+En esencia, un refrigerador o un acondicionador de aire bombean calor contra un
+gradiente de temperatura o “cuesta arriba”. (Pensemos en bombear agua hacia la cima
+de una colina contra la fuerza de gravedad.) La eficiencia de enfriamiento de esta ope-
+ración se basa en la cantidad de calor extraída del depósito a baja temperatura (el refri-
+gerador, el congelador o el interior de la casa), Q
+c, relativa al trabajo Wentra necesario
+para hacerlo. Puesto que un refrigerador práctico opera en un ciclo para extraer conti-
+nuamente calor, ΔU = 0 para el ciclo. Entonces, por la conservación de la energía (pri-
+mera ley de la termodinámica), Q
+c /H11001Wentra /H11005Qh, donde Qh es el calor expulsado al
+depósito de alta temperatura o al exterior.
+La medida del desempeño de un refrigerador o acondicionador de aire se define de
+distinta manera que la de una máquina de calor, por la diferencia en sus funciones. Para los
+aparatos que enfrían, la eficiencia se expresa con un coeficiente de desempeño (CDD).
+Puesto que lo que se busca es extraer la mayor cantidad de calor (Q
+c, para enfriar cosas o
+mantenerlas frías) por unidad de trabajo aportado (Wentra), el coeficiente de desempeño
+para un refrigerador o acondicionador de aire (CDDref) es la razón de esas dos cantidades:
+(refrigerador o acondicionador de aire) (12.13)
+Así pues, cuanto mayor sea el CDD, mejor será el desempeño; es decir, se extrae
+más calor por unidad de trabajo efectuado. Durante el funcionamiento normal de un re-
+frigerador, el aporte de trabajo es menor que el calor extraído, así que el CDD es mayor
+que 1. Los CDD de refrigeradores representativos varían entre 3 y 5, dependiendo de
+las condiciones de operación y los detalles de diseño mecánico. Este intervalo implica
+que la cantidad de calor extraída del depósito frío (el refrigerador, congelador o interior
+de la casa) es de tres a cinco veces la cantidad de trabajo necesaria para extraerlo.
+Cualquier máquina que transfiere calor en la dirección opuesta a la del flujo natural
+se denomina bomba térmica. El término bomba de calor se aplica específicamente a dis-
+positivos comerciales empleados para enfriar casas y oficinas durante el verano, así 
+como para calentarlas en el invierno. El funcionamiento durante el verano es el de un
+acondicionador de aire. En este modo, el aparato enfría el interior de la casa y calienta el
+CDDref = Qc
+Wentra
+= Qc
+Qh - Qc
+Depósito de alta temperatura
+Qh 
+Qc 
+Calor producido
+por ciclo
+Wentra 
+Trabajo mecánico
+aportado por ciclo
+BOMBA
+TÉRMICA
+Calor aportado
+por ciclo
+Depósito de baja temperatura
+Wentra= Qh – Qc 
+ a)
+Qh
+Exterior
+Wentra
+(energía
+eléctrica)
+Qc
+Bomba
+térmica
+Interior
+ b)
+▲ FIGURA 12.17 Bombas térmicas a) Diagrama de flujo de energía para una bomba térmica cíclica generalizada. La anchura de 
+la flecha que representa Qh, el calor transferido al depósito de alta temperatura, es igual a las anchuras combinadas de las flechas
+que representan Wentra y Qc, lo cual refleja la conservación de la energía: Qh /H11005Wentra /H11001Qc. b) Un acondicionador de aire es un
+ejemplo de bomba térmica. Utilizando el trabajo aportado, transfiere calor (Qc) de un depósito de baja temperatura (el interior de 
+la casa) a un depósito de alta temperatura (el exterior).
+Evaporador 
+(dentro del 
+refrigerador)
+Válvula de
+expansión
+Condensador 
+(afuera del 
+refrigerador)
+Compresora
+Qh
+Qc
+Wentra
+Tc
+▲ FIGURA 12.18 Funcionamiento
+de un refrigerador El refrigerante
+se lleva calor (Qc) del interior como
+calor latente. Esta energía calorífica
+y el trabajo aportado (W
+entra) se 
+descargan desde el condensador 
+hacia el entorno (Q
+h). Podemos ver
+un refrigerador como un extractor
+de calor (Q
+c) de una región que ya
+está fría (su interior), o bien, como
+bomba de calor que agrega calor
+(Q
+h) a una área que ya está caliente
+(la cocina).
+
+422 CAPÍTULO 12 Termodinámica
+exterior. En su modo de calefacción para el invierno, una bomba de calor calienta el inte-
+rior y enfría el exterior, generalmente tomando energía calorífica del aire frío o del suelo.
+Al considerar una bomba de calor en su modo de calefacción, lo que interesa es la
+producción de calor (para calentar algo o mantenerlo caliente), así que el CDD en este
+caso se define de manera diferente que el de un refrigerador o acondicionador de aire.
+Como se esperaría, es la razón de Q
+h entre Wentra (la calefacción que se obtiene a cam-
+bio del trabajo aportado), o bien,
+(bomba de calor en modo de calentamiento) (12.14)
+donde, una vez más, hemos usado Qc /H11001Wentra /H11005Qc. Los CDD de bombas de calor re-
+presentativas varían entre 2 y 4, también dependiendo de las condiciones de operación
+y del diseño.
+En comparación con la calefacción eléctrica, las bombas de calor son muy eficien-
+tes. Por cada unidad de energía eléctrica consumida, una bomba de calor por lo re-
+gular bombea de 1.5 a 3 veces más calor que el proporcionado por los sistemas de 
+calefacción eléctrica directa. Algunas bombas de calor utilizan agua de depósitos sub-
+terráneos, pozos o tuberías enterradas como depósito de calor a baja temperatura. Ta-
+les bombas de calor son más eficientes que las que usan el aire exterior, porque el calor
+específico del agua es mayor que el del aire, y la diferencia en la temperatura prome-
+dio entre el agua y el aire interior suele ser más pequeña.
+Ejemplo 12.11 ■ Acondicionamiento de aire/bomba de calor: 
+un sistema ambidextro
+Un acondicionador de aire que opera en verano extrae 100 J de calor del interior de una
+casa por cada 40 J de energía eléctrica que consume. Determine a) el CDD del dispositivo
+y b) su CDD si opera como bomba de calor en invierno. Suponga que puede transferir la
+misma cantidad de calor con el mismo consumo de electricidad, sin importar en qué di-
+rección opere.
+Razonamiento. Conocemos el aporte de trabajo y de calor en el inciso a, así que aplicamos
+la definición de CDD de un refrigerador (ecuación 12.13). Para la operación inversa, lo
+importante es la producción de calor, cantidad que deberemos obtener de la conservación
+de la energía.
+Solución.
+Dado: Encuentre: a) 
+b) 
+a) Por la ecuación 12.13, el CDD para esta máquina cuando opera como acondicionador
+de aire es
+b) Cuando la máquina opera como bomba de calor, el calor pertinente es el producido,
+que puede calcularse con base en la conservación de la energía:
+Por lo tanto, el CDD de esta máquina que opera como bomba de calor en invierno es, por
+la ecuación 12.14,
+Ejercicio de refuerzo. a) Suponga que la máquina de este ejemplo se rediseña de forma
+que efectúe las mismas operaciones, pero con un consumo de trabajo 25% menor. ¿Qué va-
+lores tendría entonces el CDD? b) ¿Cuál CDD tendría un incremento porcentual mayor?
+12.6 Ciclo de Carnot y máquinas de calor ideales
+OBJETIVOS: a) Explicar la aplicación del ciclo de Carnot a las máquinas de calor,
+b) calcular la eficiencia ideal de Carnot y c) plantear la tercera ley de la
+termodinámica.
+El planteamiento de la segunda ley de la termodinámica hecho por Lord Kelvin indica
+que cualquier máquina de calor cíclica, sin importar su diseño, siempre despide algo
+CDDhp = Qh
+Wentra
+= 140 J
+40 J
+= 3.5
+Qh = Qc + Wentra = 100 J + 40 J = 140 J
+CDDref = Qc
+Wentra
+= 100 J
+40 J
+= 2.5
+COPhp Wentra = 40 J
+COPref Qc = 100 J
+COPhp = Qh
+Wentra
+= Qh
+Qh - Qc
+
+12.6 Ciclo de Carnot y máquinas de calor ideales 423
+de energía calorífica (sección 12.5). Pero, ¿cuánta energía debe perderse en el proceso?
+En otras palabras, ¿qué eficiencia máxima puede tener una máquina de calor? Al dise-
+ñar una máquina de calor, los ingenieros se esfuerzan por hacerla lo más eficiente po-
+sible; no obstante, debe haber algún límite teórico que, por la segunda ley, será menor
+que el 100 por ciento.
+El ingeniero francés Sadi Carnot (1796-1832) estudió dicho límite. Lo primero que
+buscó fue el ciclo termodinámico que usaría una máquina de calor ideal, es decir, el ci-
+clo más eficiente. Carnot descubrió que la máquina de calor ideal absorbe calor de un
+depósito de alta temperatura constante (T
+h) y despide calor hacia un depósito de baja
+temperatura constante (Tc). Idealmente, estos dos procesos son isotérmicos y reversi-
+bles, y podrían representarse como dos isotermas en un diagrama p-V. Sin embargo,
+¿qué procesos completan el ciclo? Carnot demostró que tales procesos tanto adiabáti-
+cos como reversibles. De acuerdo con la sección 12.3, las curvas correspondientes en
+un diagrama p-V se llaman adiabatas y son más empinadas que las isotermas (
+▲figura
+12.19a). Una máquina de calor irreversible que opere entre dos depósitos de calor a
+temperaturas constantes no puede tener una eficiencia mayor, que la de una máquina
+de calor reversible que opere entre las mismas dos temperaturas.
+Así pues, el ciclo de Carnot ideal consiste en dos isotermas y dos adiabatas y se le
+puede representar de forma más conveniente en un diagrama T-S, donde forma un rec-
+tángulo (figura 12.19b). El área bajo la isoterma superior (1-2) es el calor agregado al sis-
+tema desde el depósito de alta temperatura: Q
+h /H11005ThΔS. Asimismo, el área bajo la
+isoterma inferior (3-4) es el calor despedido: Qc /H11005TcΔS. Aquí, Qh y Qc son las transfe-
+rencias de calor a temperaturas constantes (Th y Tc, respectivamente). No hay transferen-
+cia de calor (Q /H110050) durante las ramas adiabáticas del ciclo. (¿Por qué?)
+La diferencia entre estas transferencias de calor es el trabajo producido, que es igual
+al área encerrada por los caminos del proceso (las áreas sombreadas de los diagramas):
+Puesto que ΔS es el mismo para ambas isotermas (véase la figura 12.19b, procesos 1-2
+y 3-4), podemos usar las expresiones para relacionar las temperaturas y los calores. Es
+decir, como
+tenemos
+Esta ecuación puede servir para expresar la eficiencia de una máquina de calor ideal
+en términos de temperatura. Por la ecuación 12.12, esta eficiencia de Carnotideal es
+o bien,
+Eficiencia de Carnot (máquina de calor ideal)
+(12.15)
+donde la eficiencia fraccionaria suele expresarse como porcentaje. Note que Tc y Th de-
+ben expresarse en kelvin.
+eC = 1 - Tc
+Th
+eC = 1 - Qc
+Qh
+= 1 - Tc
+Th
+1eC2
+Qh
+Th
+= Qc
+Tc
+ o Qc
+Qh
+= Tc
+Th
+¢S = Qh
+Th
+ y ¢S = Qc
+Tc
+Wneto = Qh - Qc =1Th - Tc2¢S
+S1
+Temperatura
+T
+Entropía
+ b)
+S2
+S
+Th
+Tc
+Q = (Th – Tc)ΔS
+43
+12
+Q
+Presión
+p
+Volumen
+ a)
+V
+Isoterma Th
+Isoterma Tc
+Adiabata 
+(expansión)
+Adiabata
+(compresión)
+Qc
+4
+3
+1
+2
+Qh
+> FIGURA 12.19 El ciclo de Carnot
+a) El ciclo de Carnot consiste en 
+dos isotermas y dos adiabatas. Se 
+absorbe calor durante la expansión
+isotérmica y se despide calor 
+durante la compresión isotérmica.
+b) En un diagrama T-S, el ciclo de
+Carnot forma un rectángulo, cuya
+área es igual a Q.
+Nota: las temperaturas en la 
+eficiencia de Carnot son las 
+absolutas, expresadas en kelvin.
+Ilustración 21.4 Máquinas y entropía
+Ilustración 21.1 Máquina de Carnot
+
+424 CAPÍTULO 12 Termodinámica
+La eficiencia de Carnot expresa el límite teórico superior de la eficiencia termodi-
+námica de una máquina de calor cíclica que opera entre dos extremos conocidos de
+temperatura. En la práctica, tal límite es inasequible, pues ningún proceso de máquina
+real es reversible. No es posible construir una verdadera máquina de Carnot porque
+los procesos reversibles necesarios únicamente pueden aproximarse.
+No obstante, la eficiencia de Carnot ilustra muy bien una idea general: cuanto ma-
+yor sea la diferencia entre las temperaturas de los depósitos de calor, mayor será tal efi-
+ciencia. Por ejemplo, si T
+h es el doble de Tc, o bien, Tc/Th /H110050.5, la eficiencia de Carnot es
+En cambio, si Th es cuatro veces Tc, de manera que Tc/Th /H110050.25,
+Puesto que una máquina de calor nunca puede tener una eficiencia térmica del 100%,
+resulta útil comparar su eficiencia real ε con su eficiencia teórica máxima, la de un ci-
+clo de Carnot, εC. Para entender a fondo la importancia de este concepto, conviene es-
+tudiar con detenimiento el ejemplo siguiente.
+También hay CDD de Carnot para refrigeradores y bombas de calor (véase el ejer-
+cicio 98).
+Ejemplo 12.12 ■ Eficiencia de Carnot: la verdadera medida 
+de eficiencia para cualquier máquina real
+Un ingeniero está diseñando una máquina de calor cíclica que operará entre las tempera-
+turas de 150 y 27°C. a) ¿Qué eficiencia teórica máxima puede alcanzar? b) Suponga que la
+máquina, una vez construida, en cada ciclo efectúa 100 J de trabajo con un aporte de 500 J
+de calor. ¿Qué eficiencia tiene y qué tan cercana está de la eficiencia de Carnot?
+Razonamiento. La eficiencia máxima a temperaturas alta y baja específicas está dada por
+la ecuación 12.15. Recuerde que hay que convertir a temperaturas absolutas. En el inciso
+b, calculamos la eficiencia real y la comparamos con la respuesta del inciso a.
+Solución.
+Dado: Encuentre: a) εC (eficiencia de Carnot)
+b) ε (eficiencia real) y 
+compárela con εC
+a) Utilizamos la ecuación 12.15 para calcular la eficiencia teórica máxima:
+b) La eficiencia real es, por la ecuación 12.12,
+Por lo tanto,
+Dicho de otro modo, la máquina de calor está operando al 68.7% de su máximo teórico.
+¡No está mal!
+Ejercicio de refuerzo. Si la temperatura operativa alta de la máquina de este ejemplo se
+aumentara a 200°C, ¿cómo cambiaría la eficiencia teórica?
+e
+eC
+= 0.200
+0.291
+= 0.687 (o 68.7%)
+e = Wneto
+Qh
+= 100 J
+500 J
+= 0.200 (o 20.0%)
+eC = 1 - Tc
+Th
+= 1 - 300 K
+423 K = 0.291 1* 100%2 = 29.1%
+ Qh = 500 J
+ Wneto = 100 J
+ Tc = 27°C + 273 = 300 K
+ Th = 150°C + 273 = 423 K
+eC = 1 - Tc
+Th
+= 1 - 0.25 = 0.75 1* 100%2 = 75%
+eC = 1 - Tc
+Th
+= 1 - 0.50 = 0.50 1* 100%2 = 50%
+Nota: la eficiencia de Carnot, 
+que nunca puede alcanzarse, 
+es un límite superior ideal.
+
+Repaso del capítulo 425
+La tercera ley de la termodinámica
+Podemos realizar otra inferencia de la expresión para la eficiencia de Carnot (ecuación
+12.15). Parecería posible tener εC /H11005100% tan sólo si Tc es cero absoluto. (Véase la sec-
+ción 10.3.) Sin embargo, nunca se ha llegado al cero absoluto, aunque experimentos a
+ultra-bajas temperaturas (criogénicos) han llegado a 20 n K (2 /H1100310
+–8 K) de esa marca.
+Al parecer, es imposible reducir la temperatura de un sistema que ya está cercano al ce-
+ro absoluto en un número finito de pasos. Un planteamiento sencillo de la tercera ley
+de la termodinámica es el siguiente:
+Es imposible llegar al cero absoluto en un número finito de procesos térmicos.
+En otras palabras, aunque se han hecho intentos, parece imposible alcanzar experi-
+mentalmente el cero absoluto. (Véase la nota al pie de la p. 347, capítulo 10.)
+Repaso del capítulo
+• La primera ley de la termodinámica es un planteamiento 
+de la conservación de la energía para un sistema termodiná-
+mico. Expresada en forma de ecuación, relaciona el cambio
+de la energía interna de un sistema con el flujo de calor y el
+trabajo efectuado sobre él, y está dada por
+(12.1)
+• Los procesos termodinámicos (con gases) son
+isotérmicos: si se efectúan a temperatura constante
+isobáricos: si se efectúan a presión constante
+isométricos: si se efectúan con volumen constante
+adiabáticos: si no interviene flujo de calor
+• Las expresiones de trabajo termodinámico efectuado por un
+gas ideal durante varios procesos son:
+(proceso isotérmico de gas ideal) (12.3)
+(proceso isobárico con gas ideal)(12.4)
+(proceso adiabático con gas ideal) (12.9)
+(En el proceso adiabático, es la razón de los calores
+específicos, a temperatura y a volumen constantes, respecti-
+vamente.)
+Δx
+AA
+ΔV = AΔx
+F = pAF = pA
+W = FΔx = pAΔx = pΔV
+Posición
+inicial del 
+pistón 
+Posición
+final del
+pistón
+g = cp>cv
+ Wadiabático =
+p1
+ V1 - p2
+ V2
+g - 1
+ Wisobárico = p1V2 - V12 = p¢V
+ Wisotérmico = nRT ln¢ V2
+V1
+≤
+pp
+V1 V2
+V
+Volumen
+Presión
+Isoterma
+T2 = T1T2 = T1
+2
+1
+Isotérmico
+T2 = T1
+Q =¢ U + W
+• La segunda ley de la termodinámica indica si un proceso se
+puede realizar naturalmente o no, o bien, indica la dirección
+que toma un proceso.
+• La entropía (S) es una medida del desorden de un sistema. El
+cambio de entropía de un objeto a temperatura constante es-
+tá dado por
+(12.10)
+La entropía total del Universo aumenta en todo proceso na-
+tural.
+• Una máquina de calor es un dispositivo que convierte calor
+en trabajo. Su eficiencia térmica ε es la razón del trabajo pro-
+ducido entre el calor aportado:
+(12.12)
+• Una bomba térmica es un dispositivo que transfiere energía
+calorífica de un depósito de baja temperatura a uno de alta
+temperatura. El coeficiente de desempeño (CDD) es la razón
+del calor transferido entre el trabajo aportado. El CCD difiere
+dependiendo de si la bomba térmica se usa como bomba de
+calor o como acondicionador de aire/refrigerador.
+Depósito de alta temperatura
+Qh 
+Qc 
+Calor producido
+por ciclo
+Wentra 
+Trabajo mecánico
+aportado por ciclo
+BOMBA
+TÉRMICA
+Calor aportado
+por ciclo
+Depósito de baja temperatura
+Wentra = Qh – Qc 
+Wneto = Qh – Qc
+Qentra = Qh 
+Qsale = Qc 
+Aporte de
+calor por ciclo
+Wneto 
+Trabajo mecánico
+producido por ciclo
+MÁQUINA
+DE CALOR
+Depósito de alta temperatura
+Calor producido
+por ciclo
+Depósito de baja temperatura
+e = Wneto
+Qh
+= Qh - Qc
+Qh
+= 1 - Qc
+Qh
+¢S = Q
+T
+
+> FIGURA 12.20 Jeringa de fuego Véase el
+ejercicio 10.
+426 CAPÍTULO 12 Termodinámica
+• Un ciclo de Carnot es un ciclo teórico de máquina de calor
+que consiste en dos isotermas y dos adiabatas. Su eficiencia
+es la más alta que cualquier máquina de calor podría alcan-
+zar, operando entre dos extremos de temperatura. La eficien-
+cia de un ciclo de Carnot es
+(12.15)
+eC = 1 - Tc
+Th
+Ejercicios*
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son
+ejercicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pa-
+res de ejercicios, que se identifican con númer
+os subrayados, pretenden ayudar al lector a resolver problemas y
+aprender. El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consul-
+tarse si se necesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al
+final del libro.
+* Considere las temperaturas como exactas.
+8. OM Cuando se añade calor a un sistema de gas ideal du-
+rante un proceso de expansión isotérmica, a) se efectúa
+trabajo sobre el sistema, b) disminuye la energía interna,
+c) el efecto es el mismo que el de un proceso isométrico o
+d) nada de lo anterior.
+9. PC En un diagrama p-V, dibuje un proceso cíclico que con-
+sista en una expansión isotérmica, seguida de una compre-
+sión isobárica y de un proceso isométrico, en ese orden.
+10. PC En la 
+▼ figura 12.20, el émbolo de una jeringa se em-
+puja rápidamente y se queman los trocitos de papel en el
+interior. Explique este fenómeno utilizando la primera
+ley de la termodinámica. (Asimismo, no hay bujías en los
+motores diesel. ¿Cómo puede encenderse la mezcla aire-
+combustible?)
+12.1 Sistemas, estados y procesos 
+termodinámicos
+1. OM En un diagrama p-V, un proceso reversible es un
+proceso a) cuyo camino se conoce, b) cuyo camino se des-
+conoce, c) para el cual los pasos intermedios son estados
+no de equilibrio o d) nada de lo anterior.
+2. OM Podría haber un intercambio de calor con el entorno
+en a) un sistema térmicamente aislado, b) un sistema to-
+talmente aislado, c) un depósito de calor o d) nada de lo
+anterior.
+3. OM Sólo se conocen los estados inicial y final de los pro-
+cesos irreversibles en a) diagramas p-V, b) diagramas p-T,
+c) diagramas V-T o d) todos los anteriores.
+4. PC Explique por qué el proceso de la figura 12.1b no es el
+de un gas ideal a temperatura constante.
+5. PC ¿Un proceso irreversible significa que el sistema no
+puede regresar a su estado original? Explique por qué.
+12.2 Primera ley de la termodinámica
+y
+12.3 Procesos termodinámicos para un gas ideal
+6. OM No entra ni sale calor del sistema en un proceso 
+a) isotérmico, b) adiabático, c) isobárico o d) isométrico.
+7. OM Según la primera ley de la termodinámica, si se efec-
+túa trabajo sobre un sistema, a) la energía interna del sis-
+tema debe cambiar, b) se debe transferir calor desde el
+sistema, c) la energía interna del sistema debe cambiar o
+se debe transferir calor desde el sistema o ambas cuestio-
+nes o d) se debe transferir calor al sistema.
+11. PC Comente el calor, el trabajo y el cambio de energía in-
+terna de su cuerpo cuando juega un partido de baloncesto.
+12. PC En un proceso adiabático, no hay intercambio de ca-
+lor entre el sistema y el ambiente; pero cambia la tempe-
+ratura de un gas ideal. ¿Cómo puede ser eso? Explique.
+Presión
+p
+Volumen V
+Isoterma Th
+Isoterma Tc
+Adiabata 
+(expansión)
+Adiabata
+(compresión)
+Qc
+4
+3
+1
+2
+Qh
+
+V
+p
+(2p1,    V1)
+(2p1, V1)
+(p1, V1)
+Presión
+Volumen
+1
+2
+▲ FIGURA 12.22 Diagrama p-V para un gas ideal
+Véase el ejercicio 21.
+Ejercicios 427
+13. PC Un gas ideal, que inicialmente está a temperatura To,
+presión po y volumen Vo, se comprime a la mitad de su
+volumen inicial. Como se muestra en la ▼figura 12.21, el
+proceso 1 es adiabático, el 2 es isotérmico y el 3 es isobá-
+rico. Ordene el trabajo efectuado sobre el gas durante los
+tres proceso, de mayor a menor, y explique cómo hizo el
+ordenamiento.
+20.
+●● Un competidor olímpico en halterofilia levanta 145 kg
+una distancia vertical de 2.1 m. Al hacerlo, su energía in-
+terna disminuye en 6.0 /H1100310
+4 J. Para su cuerpo, ¿cuánto
+calor fluye y en qué dirección?
+21. EI ●● Un gas ideal se somete a los procesos reversibles
+que se muestran en la ▼ figura 12.22. a) ¿El cambio total
+de energía interna del gas es 1) positivo, 2) cero o 3) nega-
+tivo? ¿Por qué? b) En términos de las variables de estado
+p y V, ¿cuánto trabajo efectúa el gas o se efectúa sobre él
+y c) cuánto calor neto se transfiere en el proceso total?
+p
+VO Vo
+po
+Vo
+To
+1
+3
+2
+2
+▲ FIGURA 12.21 Procesos termodinámicos
+Véase el ejercicio 13.
+14. EI ● Un recipiente rígido contiene 1.0 moles de un gas
+ideal que recibe lentamente 2.0 /H11003104 J de calor. a) El tra-
+bajo efectuado por el gas es 1) positivo, 2) cero o 3) nega-
+tivo. ¿Por qué? b) ¿Cómo cambia la energía interna del
+gas?
+15.
+EI ● Una cantidad de gas ideal pasa por un proceso cícli-
+co y efectúa 400 J de trabajo neto. a) La temperatura del
+gas al término del ciclo es 1) mayor, 2) igual o 3) menor
+que cuando comenzó. ¿Por qué? b) ¿Se añade o quita ca-
+lor al sistema, y de cuánto calor estamos hablando?
+16. ● Durante un partido de tenis, usted perdió 6.5 /H11003105 J de
+calor, y su energía interna también disminuyó en 1.2 /H11003106 J.
+¿Cuánto trabajo efectuó durante el partido?
+17. EI ● Mientras efectúa 500 J de trabajo, un sistema de gas
+ideal se expande adiabáticamente a 1.5 veces su volu-
+men. a) La temperatura del gas 1) aumenta, 2) no cambia
+o 3) disminuye. ¿Por qué? b) ¿Cuánto cambia la energía
+interna del gas?
+18. EI
+● Un sistema de gas ideal se expande de 1.0 m 3 a 
+3.0 m3 a presión atmosférica, al tiempo que absorbe 5.0 /H11003
+105 J de calor en el proceso. a) la temperatura del sistema 
+1) aumenta, 2) permanece igual o 3) disminuye. ¿Por qué?
+b) ¿Qué cambio sufre la energía interna del sistema?
+19.
+●● Un gas a baja densidad (es decir, que se comporta 
+como un gas ideal) tiene una presión inicial de 1.65 /H11003
+104 Pa y ocupa un volumen de 0.20 m 3. La lenta adición
+de 8.4 /H11003103 J de calor al gas hace que se expanda isobári-
+camente hasta un volumen de 0.40 m3. a) ¿Cuánto traba-
+jo efectúa el gas durante el proceso? b) ¿Cambia la
+energía interna del gas? Si es así, ¿cuánto cambia?
+22. ●● Una cantidad fija de gas experimenta los cambios re-
+versibles ilustrados en el diagrama p-V de la ▼ figura
+12.23. ¿Cuánto trabajo se efectúa en cada proceso?
+V
+Presión (Pa)
+p
+Volumen (m3 )
+0
+3
+1
+2
+1.000.50 0.750.25
+45
+1.00 /H11003 10 5
+0.50 /H11003 10 5
+▲ FIGURA 12.23 Un diagrama p-V y trabajo
+Véanse los ejercicios 22 y 23. 
+23. ●● Suponga que, después del proceso final de la figura
+12.23 (véase el ejercicio 22), la presión del gas se reduce
+isométricamente de 1.0 /H1100310
+5 Pa a 0.70 /H11003105 Pa, y luego
+el gas se comprime isobáricamente de 1.0 m 3 a 0.80 m 3.
+Calcule el trabajo total efectuado en todos estos procesos,
+del 1 al 5.
+
+428 CAPÍTULO 12 Termodinámica
+24. EI ●● 2.0 moles de un gas ideal se expanden isotérmica-
+mente de un volumen de 20 L a otro de 40 L, mientras su
+temperatura permanece en 300 K. a) El trabajo efectuado
+por el gas es 1) positivo, 2) negativo, 3) cero. Explique por
+qué. b) ¿Cuál es la magnitud del trabajo?
+25. EI
+●● Un gas está encerrado en un pistón cilíndrico con
+un radio de 12.0 cm. Lentamente, se agrega calor al gas y
+la presión se mantiene a 1.00 atm. Durante el proceso, el
+pistón se mueve 6.00 cm. a) Éste es un proceso 1) isotérmi-
+co, 2) isobárico, 3) adiabático. Explique su respuesta. b) Si
+el calor que se transfiere al gas durante la expansión es de
+420 J, ¿cuál será el cambio en la energía interna del gas?
+26.
+●● Un gas ideal monoatómico se comprime
+adiabáticamente desde una presión de 1.00 /H11003105 Pa y un
+volumen de 240 L a un volumen de 40.0 L. a) ¿Cuál es la
+presión final del gas? b) ¿Cuánto trabajo se realiza sobre
+el gas?
+27. EI ●●● La temperatura de 2.0 moles de gas ideal se eleva
+de 150 a 250°C mediante dos procesos distintos. En el
+proceso I, se agregan 2500 J de calor al gas; en el proceso
+II, se agregan 3000 J de calor. a) ¿En qué caso es mayor el
+trabajo efectuado: 1) en el proceso I, 2) en el proceso II o
+3) es el mismo. Explique por qué. [ Sugerencia: véase la
+ecuación 10.16.] b) Calcule el cambio en la energía interna
+y en el trabajo efectuado en cada proceso?
+28. EI
+●●● Un mol de gas ideal se comprime como se mues-
+tra en el diagrama p-V de la ▼ figura 12.24. a) ¿El trabajo
+efectuado por el gas es 1) positivo, 2) cero o 3) negativo?
+¿Por qué? b) ¿Qué magnitud tiene ese trabajo? c) ¿Cuál es
+el cambio en la temperatura del gas?
+1g = 1.672
+12.4 Segunda ley de la termodinámica y entropía
+30. OM En cualquier proceso natural, el cambio total en la
+entropía del Universo no puede ser a) negativo, b) cero o
+c) positivo.
+31. OM La segunda ley de la termodinámica a) describe el
+estado de un sistema, b) sólo es válida cuando se satisfa-
+ce la primera ley, c) descarta las máquinas de movimien-
+to perpetuo o d) no es válida para un sistema aislado.
+32. OM Un gas ideal se comprime isotérmicamente. El cam-
+bio en la entropía para este proceso es a) positivo, b) ne-
+gativo, c) cero, d) ninguno de los anteriores.
+33. PC ¿La entropía de cada uno de estos objetos aumenta o
+disminuye? a) Se derrite hielo; b) se condensa vapor de
+agua; c) se calienta agua en una estufa; d) se enfrían ali-
+mentos en un refrigerador.
+34. PC Cuando una cantidad de agua caliente se mezcla con
+una cantidad de agua fría, el sistema combinado alcanza
+el equilibrio térmico a cierta temperatura intermedia.
+¿Cómo cambia la entropía del sistema (ambos líquidos)?
+35. PC Un estudiante desafía la segunda ley de la termodi-
+námica diciendo que la entropía no tiene que aumentar
+en todas las situaciones, como cuando el agua se congela.
+¿Es válido este desafío? ¿Por qué?
+36. PC ¿Un organismo vivo es un sistema abierto o un siste-
+ma aislado? Explique su respuesta.
+37. EI
+● 1.0 kg de hielo se funde por completo en agua líquida
+a 0°C. a) El cambio en la entropía del hielo (agua) en este
+proceso es 1) positivo, 2) cero, 3) negativo. Explique su res-
+puesta. b) ¿Cuál es el cambio en la entropía del hielo (agua)?
+38. EI ● Un proceso implica la condensación de 0.50 kg de
+vapor de agua a 100°C. a) El cambio de entropía del va-
+por (agua) es 1) positivo, 2) cero o 3) negativo. ¿Por qué?
+b) ¿Cuál es el cambio la entropía del vapor (agua)?
+39.
+● ¿Cuánto cambia la entropía de 0.50 kg de vapor de
+mercurio (Lv /H110052.7 /H11003105 J/kg) al condensarse en su pun-
+to de ebullición de 357°C?
+Presión (Pa)
+4.0 /H11003 10 5
+5.0 /H11003 10 5
+3.0 /H11003 10 5
+2.0 /H11003 10 5
+1.0 /H11003 10 5
+p
+Volumen (m3 )
+V0
+1
+2
+1.00.50
+▲ FIGURA 12.24 Proceso de p-V variable y trabajo
+Véase el ejercicio 28.
+p
+Presión (atm) 
+2.00
+1.00
+C
+D
+V1 V2
+V
+Volumen 
+T1
+T2
+T3
+200 K
+400 K
+0
+B A
+▲ FIGURA 12.25 Un proceso cíclico Véase el ejercicio 29. 
+29. ●●● Un mol de gas ideal se somete al proceso cíclico de
+la Nfigura 12.25. a) Calcule el trabajo que interviene en ca-
+da uno de los cuatro procesos. b) Determine ΔU, W y Q
+para el ciclo completo. c) Calcule T3.
+
+Ejercicios 429
+40. ●● En una expansión isotérmica a 27°C, un gas ideal reali-
+za 30 J de trabajo. ¿Cuál es el cambio en la entropía del gas?
+41. ●● Durante un cambio de fase líquida a sólida de una
+sustancia, el cambio de entropía es de /H110024.19 /H11003103 J/K. Si
+se extrae 1.67 /H11003106 J de calor en el proceso, ¿qué punto
+de congelación tiene la sustancia en grados Celsius?
+42. EI ●● Un mol de un gas ideal experimenta una compre-
+sión isotérmica a 20°C, y se realiza un trabajo de 7.5 /H11003
+103 J para comprimirlo. a) ¿Qué sucede con la entropía del
+gas: 1) se incrementa, 2) permanece igual o 3) disminuye?
+¿Por qué? b) ¿Cuál es el cambio en la entropía del gas?
+43. EI ●● Una cantidad de un gas ideal experimenta una ex-
+pansión isotérmica reversible a 0°C y realiza 3.0 /H11003103 J
+de trabajo sobre su entorno en el proceso. a) ¿La entropía
+del gas 1) se incrementa, 2) permanece igual o 3) dismi-
+nuye? Explique su respuesta. b) ¿Cuál es el cambio en la
+entropía del gas.
+44. EI
+●● Un sistema aislado consiste en dos depósitos térmi-
+cos muy grandes, con temperaturas constantes de 373 y
+273 K, respectivamente. Suponga que fluyen espontánea-
+mente 1000 J de calor del depósito frío al caliente. a) El
+cambio total en la entropía del sistema aislado (ambos de-
+pósitos) sería 1) positivo, 2) cero, 3) negativo. Explique su
+respuesta. b) ¿Qué cambio total de entropía tendría el sis-
+tema aislado?
+45. EI
+●● Dos depósitos de calor, a 200 y 60°C, respectiva-
+mente, se ponen en contacto térmico, y fluyen espontá-
+neamente 1.50 /H1100310
+3 J de calor de uno al otro, sin que la
+temperatura cambie de manera significativa. a) El cam-
+bio en la entropía del sistema de los dos depósitos es 
+1) positivo, 2) cero, 3) negativo. Explique por qué. b) ¿Có-
+mo cambia la entropía del sistema de dos depósitos?
+46.
+●● En invierno, el calor de una casa cuya temperatura inte-
+rior es de 18°C se fuga a razón de 2.0 /H11003104 J cada segundo.
+Si la temperatura exterior es de 0°C. a) ¿Cuánto cambia la
+entropía de la casa cada segundo? b) ¿Cuál es el cambio to-
+tal de entropía por segundo del sistema casa-exterior?
+47. EI ●●● Un sistema pasa del estado 1 al estado 3 como se
+muestra en el diagrama T-S de la ▼figura 12.26. a) El calor
+que se transfiere en el proceso descrito es 1) positivo, 2) ce-
+ro, 3) negativo. Explique. b) Calcule el calor total transferi-
+do cuando el sistema pasa del estado 1 al estado 3.
+48. EI
+●●● Suponga que el sistema descrito por el diagrama 
+T-S de la figura 12.26 se devuelve a su estado original, el
+estado 1, con un proceso reversible indicado por una línea
+recta del estado 3 al 1. a) El cambio de entropía del siste-
+ma para este proceso cíclico general es 1) positivo, 2) cero,
+3) negativo. Explique por qué. b) ¿Cuánto calor se transfie-
+re en el proceso cíclico? [Sugerencia: véase el ejemplo 12.7.]
+49.
+●●● Un cubo de hielo de 50.0 g a 0°C se coloca en 500 mL
+de agua a 20°C. Determine el cambio de entropía (una vez
+que se haya derretido todo el hielo) a) para el hielo, b) pa-
+ra el agua y c) para el sistema hielo-agua.
+12.5 Máquinas de calor y bombas térmicas*
+50. OM Para una máquina de calor cíclica, a) b) Qh /H11005
+c) d) 
+51. OM Una bomba térmica a) se califica por su eficiencia
+térmica, b) requiere aporte de trabajo, c) no es consistente
+con la segunda ley de la termodinámica o d) infringe la
+primera ley de la termodinámica.
+52. OM ¿Qué determina la eficiencia térmica de una má-
+quina de calor? a) b) c)
+d) 
+53. PC ¿Qué pasa con la energía interna de una máquina de
+calor cíclica después de un ciclo completo?
+54. PC ¿Dejar abierta la puerta del refrigerador es una forma
+práctica de refrescar una habitación? ¿Por qué?
+55. PC El planteamiento de Lord Kelvin de la segunda ley de
+la termodinámica aplicada a máquinas de calor (“Ninguna
+máquina de calor que opera en un ciclo puede convertir to-
+talmente su aporte de calor en trabajo”) se refiere a su ope-
+ración en un ciclo. ¿Por qué se incluye la frase “en un ciclo”?
+56. PC La energía producida por una bomba térmica es ma-
+yor que la consumida para operar la bomba. ¿Este dispo-
+sitivo infringe la primera ley de la termodinámica?
+57. PC En los ciclos normales de convección atmosférica, 
+aire frío a mayor altura se transfiere a un nivel más bajo 
+y más cálido. ¿Esto infringe la segunda ley de la termodi-
+námica? Explique.
+58.
+● Un motor de gasolina tiene una eficiencia térmica del
+28%. Si absorbe 2000 J de calor en cada ciclo, a) ¿cuánto
+trabajo neto efectúa en cada ciclo? b) ¿Cuánto calor se di-
+sipa en cada ciclo?
+59. ● Si una máquina efectúa 200 J de trabajo neto y disipa
+600 J de calor por ciclo, ¿cuál es su eficiencia térmica?
+60. ● Una máquina de calor con una eficiencia térmica del
+20% efectúa 800 J de trabajo neto en cada ciclo. ¿Cuánto
+calor se pierde al entorno (el depósito de baja temperatu-
+ra) en cada ciclo?
+61.
+● Un motor de combustión interna con eficiencia térmica
+del 15.0% efectúa 2.60 /H11003104 J de trabajo neto en cada ci-
+clo. ¿Cuánto calor pierde la máquina en cada ciclo?
+Qh + Qc .
+Qh - Qc ;Qc>Qh ;Qc * Qh ;
+Qh 7 Qc .¢U = Wneto ,Wneto ,
+e 7 1,
+T
+Temperatura (K)
+Entropía (J/K)
+S0 200 100
+373
+273
+1
+3
+2
+▲ FIGURA 12.26 Entropía y calor Véanse los ejercicios 47 y 48. *Considere exactas las eficiencias.
+
+430 CAPÍTULO 12 Termodinámica
+62. EI ● El calor producido por un motor específico es 7.5 /H11003
+103 J por ciclo, y el trabajo neto que resulta es 4.0 /H11003103 J por
+ciclo. a) El aporte de calor es 1) menor que 4.0 /H11003103 J, 2) en-
+tre 4.0 /H11003103 J y 7.5 /H11003103 J, 3) mayor que 7.5 /H11003103 J. Expli-
+que su respuesta. b) ¿Cuáles son la entrada de calor y la
+eficiencia térmica del motor?
+63. ●● Un motor de gasolina quema combustible que libera
+3.3 /H11003108 J de calor por hora. a) ¿Cuál es la entrada de
+energía durante un periodo de 2.0 h? b) Si el motor gene-
+ra 25 kW de potencia durante este tiempo, ¿cuál será su
+eficiencia térmica?
+64. EI
+●● Un ingeniero rediseña una máquina de calor y me-
+jora su eficiencia térmica del 20 al 25%. a) ¿La razón del
+calor producido al calor aportado 1) aumenta, 2) no cam-
+bia o 3) disminuye? ¿Por qué? b) ¿Cuánto cambia Q
+c/Qh?
+65. EI ●● Un motor de vapor debe mejorar su eficiencia térmi-
+ca del 8.00 al 10.0%, mientras continúa produciendo 4500 J
+de trabajo útil cada ciclo. a) ¿La razón entre la entrada de
+calor y la salida de calor 1) aumenta, 2) permanece igual 
+o 3) disminuye? Explique su respuesta. b) ¿Cuál es su cam-
+bio en Q
+h/Qc?
+66. ●● Un refrigerador toma calor de su interior frío a razón 
+de 7.5 kW cuando el trabajo requerido se aporta a razón de
+2.5 kW. ¿Con qué rapidez se despide calor hacia la cocina?
+67.
+●● Un refrigerador con un CDD de 2.2 extrae 4.2 /H11003105 J
+de calor de su área de almacenamiento en cada ciclo. 
+a) ¿Cuánto calor despide en cada ciclo? b) Calcule el
+aporte total de trabajo en joules para 10 ciclos.
+68.
+●● Una bomba de calor quita 2.0 /H11003103 J de calor al exte-
+rior y suministra 3.5 /H11003103 J de calor al interior de una ca-
+sa en cada ciclo. a) ¿Cuánto trabajo se requiere por ciclo?
+b) ¿Qué CDD tiene esta bomba?
+69. ●● Un acondicionador de aire tiene un CDD de 2.75. 
+Calcule el consumo de potencia de la unidad si debe ex-
+traer 1.00 /H1100310
+7 J de calor del interior de la casa en 20 min?
+70. ●● Una máquina de vapor tiene una eficiencia térmica de
+30.0%. Si su aporte de calor por ciclo proviene de la con-
+densación de 8.00 kg de vapor de agua a 100°C, a) ¿qué
+trabajo neto producirá por ciclo y b) cuánto calor se per-
+derá al entorno en cada ciclo?
+71.
+●●● Un motor de gasolina tiene una eficiencia térmica
+del 25.0%. Si el calor se expulsa del motor a una tasa de
+1.50 /H1100310
+6 J por hora, ¿cuánto tiempo tardará el motor en
+realizar una tarea que requiere una cantidad de trabajo
+de 3.0 /H1100310
+6 J?
+72. ●●● Una planta que quema hulla produce 900 MW de
+electricidad y opera con una eficiencia térmica del 25%.
+a) Calcule la tasa de aporte de calor a la planta. b) Calcu-
+le la tasa de descarga de calor de la planta. c) El agua a
+15°C de un río cercano se utiliza para enfriar la descarga
+de calor. Si el agua enfriadora no supera una temperatu-
+ra de 40°C, ¿cuántos galones de agua enfriadora se nece-
+sitarán por minuto?
+73.
+●●● Una máquina de cuatro tiempos opera según el ciclo
+Otto. Su producción es de 150 hp a 3600 rpm. a) ¿Cuántos
+ciclos se efectúan en 1 min? b) Si la eficiencia térmica de
+la máquina es del 20%, ¿cuánto calor se le aporta en cada
+minuto? c) ¿Cuánto calor se desecha (por minuto) al en-
+torno?
+12.6 Ciclo de Carnot y máquinas de calor ideales
+74. OM El ciclo de Carnot consiste en a) dos procesos isobári-
+cos y dos isotérmicos, b) dos procesos isométricos y dos
+adiabáticos, c) dos procesos adiabáticos y dos isotérmi-
+cos o d) cuatro procesos arbitrarios que vuelven el siste-
+ma a su estado inicial.
+75. OM ¿Qué relación de temperatura de depósitos produci-
+rá la mayor eficiencia en una máquina de Carnot?a) Tc /H11005
+0.15Th, b) c) o d) 
+76. OM Para una máquina de calor que opera entre dos de-
+pósitos con temperaturas Tc y Th, la eficiencia de Carnot
+es a) el máximo valor posible, b) el mínimo valor posible,
+c) el valor promedio o d) ninguno de los anteriores.
+77. PC Los motores de automóvil pueden ser enfriados por
+aire o por agua. ¿Qué tipo de motor se espera que sea
+más eficiente y por qué?
+78. PC Si tiene la opción de operar una máquina de calor en-
+tre los siguientes dos pares de temperaturas para los de-
+pósitos frío y caliente, ¿qué par elegiría y por qué?: 100 y
+300°C; 50 y 250°C.
+79. PC Los motores diesel son mucho más eficientes que los
+de gasolina. ¿Qué tipo de motor opera a más alta tempe-
+ratura? ¿Por qué?
+80.
+● Una máquina de vapor opera entre 100 y 30°C. ¿Qué
+eficiencia de Carnot tiene la máquina ideal que opera en-
+tre esas temperaturas?
+81.
+● Una máquina de Carnot tiene una eficiencia del 35% y
+toma calor de un depósito de alta temperatura a 147°C.
+Calcule la temperatura Celsius del depósito de baja tem-
+peratura de esta máquina.
+82.
+● ¿Qué temperatura tiene el depósito caliente de una má-
+quina de Carnot que tiene una eficiencia del 30% y un
+depósito frío a 20°C?
+83.
+● Se ha propuesto usar las diferencias de temperaturas
+en el océano para operar una máquina de calor que gene-
+re electricidad. En las regiones tropicales, la temperatura
+del agua en la superficie es de aproximadamente 25°C, y
+a grandes profundidades es cercana a 5°C. a) ¿Qué efi-
+ciencia teórica máxima tendría una máquina así? b) ¿Se-
+ría práctica una máquina de calor con una eficiencia tan
+baja? Explique por qué.
+84.
+● Un ingeniero quiere operar una máquina de calor con
+una eficiencia del 40% entre un depósito de alta tempe-
+ratura a 350°C y uno de baja temperatura. ¿Qué tempera-
+tura máxima puede tener el depósito frío para que la
+máquina resulte práctica?
+T
+c = 0.90Th
+ ?Tc = 0.50ThTc = 0.25Th ,
+
+Ejercicios 431
+85. ●● Una máquina de Carnot toma 2.7 /H11003104 J de calor de
+un depósito caliente (320°C) en cada ciclo, y desecha una
+parte a un depósito frío (120°C). ¿Cuánto trabajo efectúa
+la máquina en cada ciclo?
+86.
+●● Una máquina de Carnot con una eficiencia del 40%
+opera con un depósito de baja temperatura a 50°C y despi-
+de 1200 J de calor en cada ciclo. Calcule a) el aporte de calor
+por ciclo y b) la temperatura Celsius del depósito de alta
+temperatura.
+87. EI
+●● Una máquina de Carnot toma calor de un depósito
+a 327°C y tiene una eficiencia del 30%. La temperatura
+del escape no se altera y la eficiencia se aumenta al 40%.
+a) La temperatura del depósito caliente es 1) menor, 
+2) igual, 3) mayor que 327°C. Explique. b) ¿Cuál será la
+nueva temperatura del depósito caliente?
+88.
+●● Un inventor afirma haber creado una máquina de ca-
+lor que, en cada ciclo, toma 5.0 /H11003105 J de calor de un de-
+pósito de alta temperatura a 400°C y despide 2.0 /H11003105 J
+al entorno, que está a 125°C. ¿Invertiría usted su dinero
+en la producción de esta máquina? Explique por qué.
+89. ●● Un inventor asegura haber creado una máquina de
+calor que genera 10.0 kW de potencia con una entrada 
+de calor de 15.0 kW, mientras opera entre depósitos a 27
+y 427°C. a) ¿Es válida su aseveración? b) Para generar
+10.0 kW de potencia, ¿cuál será la entrada mínima de ca-
+lor requerida?
+90.
+●● Una máquina de calor opera con una eficiencia térmica
+que es el 45% de la eficiencia de Carnot. Las temperaturas
+de los depósitos de alta y de baja temperaturas son de 400
+y 100°C, respectivamente. Calcule la eficiencia de Carnot y
+la eficiencia térmica de la máquina.
+91.
+●● Una máquina de calor tiene una eficiencia térmica
+que es la mitad de la de una máquina de Carnot, que
+opera entre las temperaturas de 100 y 375°C. a) Calcule la
+eficiencia de Carnot de esa máquina de calor. b) Si la má-
+quina de calor absorbe calor a razón de 50 kW, ¿con qué
+rapidez despide calor?
+92. EI
+●● La ecuación 12.15 indica que cuanto mayor sea la
+diferencia de temperatura entre los depósitos de una má-
+quina de calor, mayor será la eficiencia de Carnot de esa
+máquina. Suponga que puede elegir entre aumentar la
+temperatura del depósito caliente cierto número de kel-
+vins o reducir la temperatura del depósito frío en ese
+mismo número de kelvins. a) Para tener el máximo incre-
+mento en la eficiencia, usted 1) haría más caliente el de-
+pósito de alta temperatura o 2) haría más frío el depósito
+de baja temperatura; o bien, 3) tanto 1 como 2 producen
+el mismo cambio de eficiencia, así que no importa lo que
+se elija. ¿Por qué? b) Demuestre numéricamente su res-
+puesta al inciso a.
+93.
+●● La sustancia de trabajo de una máquina de calor cícli-
+ca es 0.75 kg de un gas ideal. El ciclo consiste en dos pro-
+cesos isobáricos y dos isométricos 
+▼ figura 12.27. ¿Qué
+eficiencia tendría una máquina de Carnot que operara
+con los mismos depósitos de alta y baja temperaturas?
+94. ●● En cada ciclo, una máquina de Carnot toma 800 J de
+calor de un depósito a alta temperatura y descarga 600 J
+en uno de baja temperatura. ¿Qué razón de temperaturas
+tienen los depósitos?
+95. EI
+●● Una máquina de Carnot que opera entre depósitos a
+27 y 227°C efectúa 1500 J de trabajo en cada ciclo. a) El
+cambio en la entropía de la máquina para cada ciclo es 
+1) negativo, 2) cero, 3) positivo. ¿Por qué? ¿Cuál es el ca-
+lor aportado a la máquina?
+96.
+●● La temperatura de autoignición de un combustible se 
+define como la temperatura a la cual la mezcla de combus-
+tible y aire podría autoexplotar y quemarse. Por lo tanto,
+establece un límite superior en la temperatura del depósito
+caliente en un moderno motor de automóvil. Las tempera-
+turas de autoignición para los combustibles comúnmente
+disponibles de gasolina y diesel están alrededor de 500 y
+600°F, respectivamente. ¿Cuáles son las eficiencias de Car-
+not máximas de un motor de gasolina y de uno de diesel si
+la temperatura del depósito frío es de 27°C?
+97.
+●● A causa de limitaciones de materiales, la temperatura
+máxima del vapor de agua supercalentado que se usa en
+una turbina para generar electricidad es de aproximada-
+mente 540°C. a) Si el condensador de vapor opera a 20°C,
+¿qué eficiencia máxima de Carnot tiene la turbina? b) La
+eficiencia real está entre 35 y 40%. ¿Qué le indica este in-
+tervalo?
+98.
+●●● Hay un coeficiente de desempeño de Carnot (CCDC)
+para un refrigerador ideal (Carnot). a) Demuestre que esa
+cantidad está dada por
+b) ¿Qué nos dice esta cantidad en cuanto a ajustar las
+temperaturas para obtener el máximo de eficiencia de un
+refrigerador? (¿Puede estimar la ecuación para el CDD
+C
+de una bomba de calor?)
+99. ●●● Un vendedor le dice que un nuevo refrigerador con
+alto CDD extrae, en cada ciclo, 2.6 /H11003103 J de calor del in-
+terior del refrigerador a una temperatura de 5°C y despi-
+de 2.8 /H1100310
+3 J hacia la cocina a 30°C. a) Calcule el CDD del
+refrigerador. b) ¿Es posible esta situación? Justifique su
+respuesta.
+CDDC = Tc
+Th - Tc
+Presión (kPa)
+p
+V0 2.251.75
+250
+150
+Volumen (/H11003 10 –2 m3 )
+1 2
+34
+▲ FIGURA 12.27 Eficiencia térmica Véase el ejercicio 93.
+
+432 CAPÍTULO 12 Termodinámica
+100. ●●● Una bomba de calor ideal equivale a una máquina de
+Carnot que opera en reversa. a) Demuestre que el CDD
+de Carnot de la bomba de calor es
+donde εC es la eficiencia de Carnot de la máquina de ca-
+lor. b) Si una máquina de Carnot tienen una eficiencia del
+40%, ¿cuál sería el CDDC cuando funciona en reversa co-
+mo una bomba de calor? (Véase el ejercicio 98.)
+Ejercicios adicionales
+101. Cuando un automóvil viaja a 75 mi/h por la carretera, su
+motor desarrolla 45 hp. Si este motor tiene una eficiencia
+termodinámica del 25% y 1 gal de gasolina tiene un con-
+tenido energético de 1.3 /H1100310
+8 J, ¿cuál será la eficiencia
+del combustible (en millas por galón) de este automóvil?
+102. Un gramo de agua (cuyo volumen es 1.00 cm3) a 100°C se
+convierte en un volumen de 1.67 /H11003103 cm3 de vapor a
+presión atmosférica. ¿Cuál es el cambio en la energía in-
+terna del agua (vapor)?
+CDD
+C = 1
+eC
+,
+103. En un partido muy reñido, un jugador de baloncesto lle-
+ga a producir 300 W de potencia. Suponiendo que la efi-
+ciencia del “motor” del jugador es del 15% y que el calor
+se disipa principalmente a través de la evaporación del
+sudor, ¿cuánta masa de sudor se evapora por hora?
+104. Una máquina de Carnot produce 400 J de trabajo por ci-
+clo. Si cada ciclo de 600 J de calor se disipan hacia un de-
+pósito frío a 27°C, ¿cómo cambia la entropía del depósito
+caliente cada ciclo?
+105. Una cantidad de un gas ideal a una presión inicial de 2.00
+atm experimenta una expansión adiabática a la presión at-
+mosférica. ¿Cuál es la razón de la temperatura final con
+respecto a la temperatura inicial del gas?
+106. Una planta generadora de energía de 100 MW tiene una
+eficiencia del 40%. Si se utiliza agua para expulsar el ca-
+lor desperdiciado y la temperatura del agua no debe au-
+mentar en más de 12C°, ¿cuál será la masa de agua que
+debe fluir a través de la planta cada segundo?
+Los siguientes problemas de física Physlet se pueden utilizar con este capítulo.
+20.8, 20.9, 20.10, 20.11, 21.1, 21.2, 21.3, 21.4, 21.5, 21.6, 21.7, 21.8.
+
+VIBRACIONES Y ONDAS
+• Ondas (de diferentes tipos) viajan a través de
+sólidos, líquidos y gases, así como del vacío.
+• Las perturbaciones provocan ondas. Los sol-
+dados que marchan para cruzar viejos puen-
+tes de madera saben que deben romper el 
+paso y no marchar a una cadencia periódica.
+Esto podría corresponder con una frecuencia
+natural del puente, lo cual generaría reso-
+nancia y grandes oscilaciones que dañaría el
+puente e incluso provocaría su derrumbe.
+• Las ondas cerebrales son diminutos volta-
+jes eléctricos oscilantes en el cerebro. Estas
+ondas se miden colocando en el cuero ca-
+belludo electrodos que están conectados a 
+un electroencefalógrafo (EEG) para obtener un
+registro ( gráfica) de las señales eléctricas
+(electro) del cerebro ( encéfalo). Las señales
+eléctricas del cerebro se representan en for-
+ma de ondas cerebrales, cuya frecuencia de-
+pende de la actividad del cerebro.
+• Los maremotos no están relacionados con las
+mareas. Es más apropiado utilizar el término
+japonés tsunami, que significa “gran ola en el
+puerto”.  Los efectos de un tsunami se inten-
+sifican en espacios confinados de bahías y
+puertos. Las olas se originan por terremotos
+subterráneos y se desplazan a través del
+océano con una rapidez que alcanza los 
+960 km/h, con poca evidencia en la superfi-
+cie. Cuando un tsunami alcanza una costa
+poco profunda, la fricción la frena y, al mismo
+tiempo, la desplaza hacia arriba hasta formar
+una masa de agua de 5 a 30 m de alto, que
+choca contra la orilla.
+13.1 Movimiento armó-
+nico simple 434
+13.2 Ecuaciones de
+movimiento 439
+13.3 Movimiento 
+ondulatorio 446
+13.4 Propiedades de 
+las ondas 449
+13.5 Ondas estaciona-
+rias y resonancia 454
+L
+a fotografía muestra lo que la mayoría de la gente pensaría primero cuando
+oye hablar de onda. Todos conocemos las olas oceánicas y sus parientes más
+pequeñas, las ondas que se forman en un estanque cuando algo perturba 
+la superficie. Sin embargo, en muchos sentidos, las ondas más importantes para 
+el ser humano, y las que más interesan a los físicos, o son invisibles o no parecen
+ondas. El sonido, por ejemplo, es una onda. Quizá lo más sorprendente sea que 
+la luz es una onda. De hecho, todas las radiaciones electromagnéticas son ondas:
+ondas de radio, microondas, rayos X, etc. Cada vez que nos asomamos a un mi-
+croscopio, nos ponemos un par de anteojos o miramos un arcoiris, estamos expe-
+rimentando energía ondulatoria en forma de luz. Primero vamos a examinar una
+descripción básica de las ondas.
+En general las ondas están relacionadas con vibraciones u oscilaciones —un
+movimiento de ida y vuelta—, como el de una masa colgada de un resorte o 
+un péndulo, y para tales movimientos resultan fundamentales las fuerzas restau-
+radoras o momentos de fuerza. En un medio material, la fuerza restauradora la
+proporcionan fuerzas intermoleculares. Si una molécula se perturba, las fuerzas
+restauradoras ejercidas por sus vecinas tienden a devolver la molécula a su posi-
+ción original, así que comienza a oscilar. Al hacerlo, afecta a las moléculas adya-
+centes, que a la vez comienzan a oscilar. Esto se denomina propagación. Pero, ¿qué
+es lo que propagan las moléculas de un material? La respuesta es energía. Una sola
+perturbación, como cuando damos una sacudida rápida al extremo de una cuerda
+estirada, produce una pulsación ondulatoria. Una perturbación continua, repetitiva,
+genera una propagación continua de energía que llamamos movimiento ondulatorio.
+Sin embargo, antes de examinar las ondas en medios materiales, nos conviene ana-
+lizar las oscilaciones de una sola masa.
+HECHOS DE FÍSICA
+CAPÍTULO 
+433
+13
+
+x = 0
+x = /H11001A
+m
+k
+x = 0
+x = 0
+x = 0
+x = /H11001Ax = 0
+x = –A x = 0
+a) Equilibrio
+b) t = 0  Justo antes de soltarse
+f) t = T
+e) t =     T3
+4
+d) t =     T1
+2
+c) t =     T1
+4
+FaFs
+Fs
+Fs
+Fs = 0
+Fs = 0
+434

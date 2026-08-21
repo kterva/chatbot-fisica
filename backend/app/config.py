@@ -37,6 +37,16 @@ class Settings(BaseSettings):
     max_question_length: int = 500
     rate_limit: str = "10/minute"
     max_context_chars: int = 4000
+    # Umbral mínimo de score TF-IDF (ver context_selector.py) para considerar que un
+    # archivo de context/ es relevante para la pregunta. Con un corpus grande (varios
+    # libros completos, ~100 archivos), casi cualquier pregunta comparte alguna
+    # palabra con algún archivo por pura coincidencia estadística — sin este piso,
+    # "select_context" casi nunca devuelve vacío y el asistente terminaría
+    # respondiendo preguntas totalmente ajenas al material. Calibrado a mano
+    # comparando el score de preguntas claramente de Física contra preguntas
+    # claramente ajenas (ver docs/TEMARIO.md): hay que volver a calibrarlo si el
+    # corpus de context/ cambia mucho de tamaño.
+    min_context_score: float = 0.0035
 
     @property
     def allowed_origins_list(self) -> list[str]:

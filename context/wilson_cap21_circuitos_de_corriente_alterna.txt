@@ -1,0 +1,1788 @@
+Tema: Circuitos de corriente alterna (Capítulo 21 — Física, Wilson)
+
+CAPÍTULO 21 Circuitos de corriente alterna
+Cabe hacer notar que la potencia de ca tiene la misma forma que la de cd (P /H11005I2R) y es
+válida siempre. Sin embargo, por costumbre, se trabaja con la potencia promedio y con
+un tipo especial de corriente “promedio”, que se define como:
+(21.6)
+Irms es la corriente rms o corriente efectiva. (rms proviene de “root-mean-square”, raíz
+cuadrática media, que indica que se trata de la raíz cuadrada del valor promedio del cua-
+drado de la corriente.) La corriente rms representa el valor de una corriente (cd) cons-
+tante que se requiere para producir la misma potencia que su contraparte de corriente
+alterna; de ahí el nombre de corriente efectiva.
+Si se usa se puede escribir la potencia promedio (ecua-
+ción 21.5) como sigue:
+(potencia promediada en el tiempo) (21.7)
+La potencia promedio equivale a una potencia (oscilatoria) variable en el tiempo y pro-
+mediada también respecto al tiempo (
+>figura 21.3).
+Voltaje alterno (ca)
+Los valores máximos de voltaje y corriente en un resistor se relacionan con la ecuación
+V
+o /H11005IoR. Con una deducción parecida a la de la corriente rms, se define el voltaje rms
+o voltaje efectivo mediante
+(21.8)
+Para resistores en condiciones de ca, por consiguiente, se pueden aplicar las rela-
+ciones de la cd, siempre y cuando se tenga en cuenta que las cantidades represen-
+tan valores rms. Así, para los casos de ca donde sólo haya un resistor, la relación entre
+los valores rms de la corriente y el voltaje es:
+voltaje a través de un resistor (21.9)
+Al combinar las ecuaciones 21.9 y 21.7 se obtienen varias expresiones físicamente equi-
+valentes para la potencia de ca:
+potencia de ca (21.10)
+Se acostumbra medir y especificar valores rms cuando se trabaja con cantidades
+de ca. Por ejemplo, el voltaje de línea doméstica es 120 V y, como seguramente ima-
+ginará, en realidad es el valor rms del voltaje. En realidad, tiene un valor máximo, o
+pico, igual a
+En la 
+>figura 21.4 se ven las interpretaciones gráficas de los valores máximo y rms de 
+la corriente y el voltaje.
+Ejemplo 21.1 ■ Una bombilla de luz: comparación de sus valores 
+rms y máximo
+Una lámpara tiene una bombilla de 60 W, y se conecta a un contacto de 120 V . a) ¿Cuáles
+son las corrientes rms y pico que pasan por la lámpara? b) ¿Cuál es la resistencia de la
+bombilla en estas condiciones?
+Razonamiento. a) Como se conocen la potencia promedio y el voltaje rms, se puede calcu-
+lar la corriente efectiva con la ecuación 21.10. Conociendo la corriente efectiva, se utili-
+za la ecuación 21.6 para calcular la corriente máxima. b) La resistencia se determina con 
+la ecuación 21.9.
+Solución. Se tienen los datos de la potencia promedio y del voltaje rms de la fuente.
+Dado: Encuentre: a) Irms e Io (corrientes efectiva y máxima)
+b) R (la resistencia de la bombilla) Vrms = 120 V
+ P = 60 W
+Vo = 22 Vrms = 1.4141120 V2 = 170 V
+= Vrms
+2
+R= Irms
+ VrmsP = Irms
+2
+ R
+Vrms = Irms
+ R
+Vrms = Vo
+22
+= 22
+2
+ Vo = 0.707Vo
+P = 1
+2 Io
+2
+ R = Irms
+2
+ R
+1
+2 Io
+2 ,=Irms
+2 = A Io> 22B2
+Irms = 3I2 = 2
+1
+2 Io
+2 = Io
+22
+= 22
+2
+ Io = 0.707Io
+▲ FIGURA 21.4 Voltaje y corriente
+raíz cuadrática media (rms)
+Los valores rms de a) la corriente 
+y b) el voltaje son iguales a sus
+valores pico (máximos) multipli-
+cados por 0.707 o .1> 22
+
+21.2 Reactancia capacitiva 689
+a) La corriente rms es
+y la corriente máxima se calcula reordenando la ecuación 21.6:
+b) La resistencia de la bombilla es
+Ejercicio de refuerzo. ¿Cuál sería a) la corriente efectiva y b) la corriente máxima en una
+bombilla de 60 W en Gran Bretaña, donde el voltaje rms es de 240 V a 50 Hz? c) ¿Cuál 
+sería la resistencia de una bombilla de 60 W en Gran Bretaña, en comparación con la dise-
+ñada para funcionar a 120 V? ¿Por qué son distintas las dos resistencias? ( Las respuestas 
+a todos los ejercicios de refuerzo aparecen al final del libro.)
+Ejemplo conceptual 21.2 ■ Un océano de por medio: el sistema
+eléctrico inglés comparado 
+con el estadounidense
+En muchos países el voltaje de línea es de 240 V . Si un turista británico visita Estados
+Unidos y conecta una secadora de cabello que compró en su país (donde el voltaje es de
+240 V), cabe esperar que a) no funcione, b) que funcione con normalidad, c) que funcio-
+ne con deficiencias o d) que se queme.
+Razonamiento y respuesta. Los electrodomésticos funcionan con 240 V en Gran Bretaña.
+A menor voltaje (por ejemplo, 120 V), la corriente sería menor (porque I /H11005V/R) y el ca-
+lentamiento de joule sería menor (porque P /H11005IV). Si la resistencia del electrodoméstico
+fuera constante, entonces a la mitad del voltaje sólo se produciría la cuarta parte de la po-
+tencia. Entonces, el elemento calefactor de la secadora podría entibiarse, pero no trabaja-
+ría como debe, de manera que la respuesta correcta es la c. Además, la menor corriente
+haría que el motor de la secadora girara más despacio de lo normal.
+Por fortuna, la mayoría de las personas no cometen este error, porque las clavijas y
+los tomacorrientes varían de un país a otro. Si usted viaja al extranjero y lleva consigo
+electrodomésticos, es recomendable llevar también un juego de convertidor y adaptador
+(
+Nfigura 21.5). Este juego contiene un surtido de clavijas para adaptarse a los contactos
+disponibles en el extranjero, así como un convertidor de voltaje. El convertidor es un dis-
+positivo de estado sólido que convierte 240 a 120 V para los viajeros estadounidenses, y
+a la inversa para los turistas que visitan Estados Unidos y que en su país usan 240 V . 
+(Se trata de dispositivos que pueden conectarse entre 120 y 240 V .)
+Ejercicio de refuerzo. ¿Qué sucede si un turista estadounidense conecta, sin fijarse, un
+electrodoméstico de 120 V en un contacto de 240 V en Gran Bretaña, sin utilizar un con-
+vertidor? Explique por qué.
+21.2 Reactancia capacitiva
+OBJETIVOS: a) Explicar el comportamiento de los condensadores en los circuitos 
+de ca y b) calcular el efecto de un condensador sobre la corriente al-
+terna (reactancia capacitiva).
+Cuando se conecta un condensador a una fuente de voltaje de cd, sólo pasa corriente du-
+rante el breve tiempo necesario para cargar el condensador. Conforme la carga se acumu-
+la en las placas del condensador, aumenta el voltaje a través de ellas y se opone al paso de
+la corriente. Cuando el condensador está totalmente cargado, la corriente baja a cero. La
+situación es distinta cuando se excita un condensador con una fuente de voltaje alterno
+(
+Nfigura 21.6a). En esas condiciones, el condensador limita la corriente, pero no impide
+por completo el flujo de la carga. Esto se debe a que el condensador se carga y descarga al-
+ternativamente, conforme la corriente y el voltaje se invierten cada medio ciclo.
+En la figura 21.6b se presentan gráficas de la corriente y el voltaje alternos en fun-
+ción del tiempo, para un circuito con un condensador. Examinemos las condiciones de
+carga del condensador en función del tiempo (
+▼figura 21.7).
+• En la figura 21.7a, se define a t /H110050, en forma arbitraria, como el momento del 
+voltaje máximo ( V /H11005Vo).* Al principio, el condensador está totalmente carga-
+do (Qo /H11005CVo) con la polaridad indicada. Como las placas no tienen lugar para 
+más carga, en el circuito no pasa corriente.
+R = Vrms
+Irms
+= 120 V
+0.50 A = 240 Æ
+Io = 22Irms = 2210.50 A2 = 0.71 A
+Irms = P
+Vrms
+= 60 W
+120 V = 0.50 A
+*Hemos elegido la polaridad inicial del condensador como positiva (figura 21.6b y figura 21.7a),
+en forma arbitraria.
+fuente
+de ca C
+V
+a)
+Voltaje
+Corriente I
+V, I
+t
+b)
+1
+4  de ciclo (90°)+
+−
+▲ FIGURA 21.6 Un circuito pura-
+mente capacitivo a) En un circuito
+que sólo tiene una capacitancia, 
+b) la corriente se adelanta 90/H11034al 
+voltaje, esto es, un cuarto de ciclo.
+Se muestra la mitad de un ciclo de
+voltaje y corriente, que corresponde
+a la figura 21.7.
+▲ FIGURA 21.5 Convertidor y 
+adaptadores En los países que 
+tienen voltajes de línea de 240 V , los
+turistas estadounidenses necesitan
+convertirlos a 120 V , para que los
+electrodomésticos fabricados en 
+Estados Unidos funcionen bien. 
+Observe los distintos tipos de clavijas,
+para los diversos países. Las clavijas
+pequeñas entran en contactos del ex-
+tranjero, y las patas del convertidor
+entran en la parte trasera de la clavi-
+ja. En el convertidor entra una clavija
+normal para Estados Unidos, de dos
+patas, que tiene salida de 120 V . 
+(Véase el Ejemplo conceptual 21.2.)
+Ilustración 31.2 Voltaje y corriente
+alternos
+
+690 CAPÍTULO 21 Circuitos de corriente alterna
+Qo
+I
+a)
+b)
+− −
++ +
+fuente
+de ca C−−  −−
+++  ++ t = 0
+Q = Qo
+I = 0
+Q < Qo
+I > 0
+Q < Qo
+I < Io
+Io
+c)
+I
+d)
++ +
+− −
+e)
+++  ++
+−−  −−
+t = T/4
+Q = 0
+I = Io
+t = T/2
+Q = Qo
+I = 0
+I = 0
+▲ FIGURA 21.7 Un condensador
+en condiciones de ca En esta 
+secuencia se ve el voltaje, la carga 
+y la corriente en un circuito que 
+sólo tiene un condensador y una
+fuente de voltaje alterno. Los cinco
+diagramas de circuito, en conjunto,
+representan físicamente lo que se
+grafica en el primer medio ciclo (de
+t /H110050 a t /H11005T/2) en la figura 21.6b.
+• Conforme disminuye el voltaje de tal forma que 0 /H11021V /H11021Vo, el condensador co-
+mienza a descargarse y origina una corriente en sentido contrario al de las ma-
+necillas del reloj (negativa; compare las figuras 21.6b a 21.7b).
+• La corriente llega a su valor máximo cuando el voltaje llega a cero, y las placas del
+condensador están totalmente descargadas (figura 21.7c). Esto sucede exactamen-
+te a la cuarta parte del recorrido del ciclo (t /H11005T/4).
+• Ahora, la fuente de voltaje de ca invierte su polaridad y comienza a aumentar de
+magnitud, de forma que /H11002V
+o /H11021V /H110210. El condensador comienza a cargarse, esta
+vez con la polaridad opuesta (figura 21.7d). Al estar descargadas las placas no hay
+oposición a la corriente, por lo que alcanza su valor máximo. Sin embargo, confor-
+me las placas acumulan carga, comienzan a inhibir la corriente y ésta disminuye
+en magnitud.
+• A la mitad del ciclo ( t /H11005T/2), el condensador está totalmente cargado, pero con
+polaridad opuesta a su estado inicial (figura 21.7e). La corriente es cero y el volta-
+je tiene magnitud máxima, pero su polaridad es contraria respecto a la polaridad
+inicial (V /H11005/H11002V
+o).
+Durante el siguiente medio ciclo (que no se ilustra en la figura 21.7), se invierte el
+proceso y el circuito regresa a sus condiciones iniciales.
+Advierta que la corriente y el voltaje no están al unísono (es decir, no están en fase). 
+La corriente llega a su máximo un cuarto de ciclo antes que el voltaje. La relación entre la
+corriente y el voltaje se establece en la siguiente forma:
+En un circuito puramente capacitivo de ca, la corriente se adelanta 90° al voltaje,
+es decir, se adelanta un cuarto de ciclo.
+Así que en el caso de una situación de ca, un condensador se opone al proceso de
+carga, pero no lo limita por completo. (Recuerde que en condiciones de cd, se compor-
+ta como circuito abierto.) La medida cuantitativa de la “oposición capacitiva” al paso
+de la corriente se llama reactancia capacitiva del condensador (XC). En un circuito de
+ca, la reactancia capacitiva se determina con
+reactancia capacitiva (21.11)
+Unidad SI de reactancia capacitiva: 
+ohm (/H9024), o segundos por farad (s/F)
+donde /H9275/H110052/H9266f, C es la capacitancia (en farads) y f es la frecuencia (en Hz). Al igual 
+que la resistencia, la reactancia se mide en ohms ( /H9024). Mediante el análisis de las uni-
+dades, demuestre que el ohm equivale al segundo por farad.
+La ecuación 21.11 indica que la reactancia es inversamente proporcional tanto a la
+capacitancia (C) como a la frecuencia del voltaje ( f ). Estas dos dependencias se com-
+prenderán mejor de la siguiente manera.
+Recuerde que la capacitancia equivale a “carga almacenada por volt” ( C /H11005Q/V).
+En consecuencia, para determinado voltaje, cuanto mayor sea la capacitancia, habrá
+más carga en el condensador. Para ello se requiere mayor flujo de carga, es decir, ma-
+yor corriente. Incrementar la capacitancia representa menor oposición al flujo de carga
+(esto es, una reactancia capacitiva reducida) a una frecuencia dada.
+Para visualizar la dependencia de la frecuencia, considere el hecho de que cuanto
+mayor sea la frecuencia del voltaje, menos tiempo se requerirá para el proceso de carga en
+cada ciclo. Un tiempo de carga menor equivale a que menos carga se acumula en las pla-
+cas y, en consecuencia, habrá menor oposición a la corriente. Incrementar la frecuencia da
+por resultado una disminución en la reactancia capacitiva. Por lo anterior, la reactancia ca-
+pacitiva es inversamente proporcional tanto a la frecuencia como a la capacitancia.
+Siempre es bueno verificar una relación general para ver si se obtiene el resultado
+que se considera como verdadero en un caso especial (o varios). Como caso especial,
+observe que si f /H110050 (condiciones de cd, no oscilantes), la reactancia capacitiva es infi-
+nita. Como se esperaba, en tales condiciones no hay corriente.
+La reactancia capacitiva se relaciona con el voltaje y la corriente a través del con-
+densador, mediante una ecuación que tiene la misma forma que V /H11005IR, para resisten-
+cias puras:
+voltaje a través de un condensador (21.12)
+A continuación se presenta un ejemplo: un condensador conectado a una fuente de
+voltaje de ca.
+Vrms = Irms
+ XC
+XC = 1
+vC = 1
+2pfC
+A
+1
+4B
+
+21.3 Reactancia inductiva 691
+Ejemplo 21.3 ■ Corriente en condiciones de ca: reactancia capacitiva
+Un condensador de 15.0 /H9262F se conecta a una fuente de 120 V y 60 Hz. ¿Cuáles son la 
+a) reactancia capacitiva y b) la corriente (rms y máxima) en el circuito?
+Razonamiento. a) La reactancia capacitiva se calcula con la capacitancia y la frecuencia,
+por medio de la ecuación 21.11. b) Entonces se podrá calcular la corriente rms, a partir de
+la reactancia y del voltaje efectivo, con la ecuación 21.12. Por último, con la ecuación 21.6
+se obtiene la corriente máxima.
+Solución. Suponiendo que sea exacta la frecuencia de 60 Hz, las respuestas tendrán tres
+cifras significativas. Se listan los datos:
+Dado: Encuentre: a) XC (reactancia capacitiva)
+b) Io (corriente pico), 
+Irms (corriente efectiva)
+a) La reactancia capacitiva es
+b) Entonces, la corriente rms es
+por lo que la corriente máxima es
+La corriente oscila a 60 ciclos por segundo, con una magnitud de 0.959 A.
+Ejercicio de refuerzo. En este ejemplo, a) ¿cuál es el voltaje máximo y b) qué frecuencia
+produciría la misma corriente si el valor de la capacitancia se redujera a la mitad?
+21.3 Reactancia inductiva
+OBJETIVOS: a) Explicar qué es un inductor, b) explicar el comportamiento de un
+inductor en los circuitos de ca y c) calcular el efecto de los inducto-
+res sobre la corriente alterna (reactancia inductiva).
+La inductancia es una medida de la oposición que presenta un elemento de circuito al
+paso de una corriente variable en el tiempo (de acuerdo con la ley de Lenz). En prin-
+cipio, todos los elementos de circuito (incluidos  los resistores) tienen cierta inductan-
+cia. Sin embargo, una bobina de alambre, cuya resistencia es insignificante, sólo tiene
+inductancia. Cuando se coloca en un circuito de corriente variable en el tiempo, esa
+bobina, que se llama inductor, desarrolla un voltaje inverso, o contra fem, que se opo-
+ne a la corriente que cambia. La corriente variable y que pasa por la bobina produce
+un campo y un flujo magnético cambiantes. Como la contra fem se produce en el in-
+ductor como consecuencia de su propio campo magnético cambiante, a este fenóme-
+no se le llama autoinducción.
+La fem autoinducida (para una bobina consistente en N vueltas) se determina por
+la ley de Faraday (ecuación 20.2): /H5105/H11005/H11002N/H9004/H9021//H9004t. La tasa de cambio del flujo, N/H9004/H9021//H9004t,
+es proporcional a la tasa de cambio de la corriente en la bobina, /H9004I//H9004t, porque la co-
+rriente produce el campo magnético responsable del flujo cambiante. Así, la contra
+fem es proporcional al cambio de la corriente, y su sentido es contrario al de la rapidez
+de cambio de la corriente. Esta relación se expresa en forma de ecuación, con una cons-
+tante de proporcionalidad
+(21.13)
+donde L es la inductancia de la bobina (con más propiedad, la autoinductancia). Utili-
+zando el análisis de unidades, demuestre que las unidades de inductancia son volt-se-
+gundos por ampere (V · s/A). A esta combinación se le llama henry (1 H /H110051 V · s/A),
+en honor de Joseph Henry (1797-1878), físico estadounidense y uno de los primeros 
+investigadores de la inducción electromagnética. A menudo se emplean unidades más
+pequeñas, como el milihenry (mH), cuya equivalencia es 1 mH /H1100510
+/H110023 H.
+e =- La¢I
+¢tb
+Io = 22Irms = 2210.678 A2 = 0.959 A
+Irms = Vrms
+XC
+= 120 V
+177 Æ = 0.678 A
+XC = 1
+2pfC = 1
+2p160 Hz2115.0 * 10-6 F2 = 177 Æ
+ f = 60 Hz
+ Vrms = 120 V
+ C = 15.0 mF = 15.0 * 10-6 F
+Nota: la ley de Lenz se presenta
+en la sección 20.1.
+
+fuente
+de ca L
+a)
+VVoltaje
+Corriente I
+V, I
+t
+b)
+1
+4  de ciclo
+(90°)
++
+−
+▲ FIGURA 21.8 Un circuito 
+puramente inductivo a) En un 
+circuito que sólo tiene una induc-
+tancia, b) el voltaje se adelanta 90/H11034,
+o un cuarto de ciclo, a la corriente.
+692
+CAPÍTULO 21 Circuitos de corriente alterna
+La oposición que presenta un inductor a la corriente en condiciones de ca depen-
+de del valor de la inductancia y de la frecuencia del voltaje. Esta relación se expresa de
+forma cuantitativa mediante la reactancia inductiva (X
+L), que es
+reactancia inductiva (21.14)
+Unidad si para reactancia inductiva: 
+ohm (/H9024), o henry por segundo (H/s)
+donde f es la frecuencia del voltaje impulsor, /H9275/H110052/H9266f, y L es la inductancia. Al igual
+que la reactancia capacitiva, la reactancia inductiva se mide en ohms ( /H9024); usted se-
+guramente podrá demostrar que éstos equivalen a henrys por segundo.
+Observe que la reactancia inductiva es proporcional tanto a la inductancia ( L) de
+la bobina, como a la frecuencia ( f ) de la fuente de voltaje. La inductancia de una bo-
+bina es una propiedad que depende de la cantidad de vueltas, del diámetro y la lon-
+gitud de la misma, y del material de su núcleo (si acaso lo tiene). La frecuencia de la
+fuente de voltaje desempeña un papel importante, porque cuanto más rápidamente
+cambie la corriente en la bobina, mayor será la rapidez de cambio de su flujo mag-
+nético. Eso implica una fem (contra fem o fem inversa) autoinducida mayor, que se
+opone a los cambios en la corriente.
+En términos de X
+L, el voltaje a través de un inductor se relaciona con la corriente y
+con la reactancia inductiva mediante
+voltaje a través de un inductor (21.15)
+En la >figura 21.8 se muestran el símbolo de circuito para un inductor, y las gráfi-
+cas del voltaje a través del mismo, y de la corriente en el circuito. Cuando se conecta un
+inductor a una fuente de voltaje de ca, el voltaje máximo corresponde a la corriente ce-
+ro. Cuando el voltaje baja a cero, la corriente es máxima. Esto se debe a que cuando
+cambia de polaridad el voltaje (haciendo que el flujo magnético a través del inductor
+baje a cero), el inductor trata de evitar el cambio, de acuerdo con la ley de Lenz, por lo
+que la fem inducida crea una corriente. Por lo anterior, la corriente se retrasa un cuarto
+de ciclo respecto al voltaje, una relación que se expresa como sigue:
+En un circuito de ca puramente inductivo, el voltaje se adelanta 90°, o un cuarto
+de ciclo, a la corriente.
+Puesto que las relaciones entre corriente y voltaje en circuitos puramente inducti-
+vos y puramente capacitivos son opuestas, hay una frase que le ayudará a recordar
+esto: EL
+I y el ICE berg. Aquí, E representa el voltaje (la fem) e I representa la corriente.
+ELI indica que con una inductancia ( L), el voltaje se adelanta a la corriente ( I) [lea el
+acrónimo de izquierda a derecha]. De forma similar, ICE indica que con una capaci-
+tancia (C), la corriente se adelanta al voltaje.
+Ejemplo 21.4 ■ Oposición a la corriente sin resistencia: 
+la reactancia inductiva
+Se conecta un inductor de 125 mH a una fuente de 120 V y 60 Hz. ¿Cuáles son a) la reac-
+tancia inductiva y b) la corriente efectiva en el circuito?
+Razonamiento. Como se conocen la inductancia y la frecuencia, es posible calcular la
+reactancia inductiva con la ecuación 21.14 y la corriente con la ecuación 21.15.
+Solución. Se listan los datos: 
+Dado: Encuentre: a) XL (reactancia inductiva)
+b) Irms
+a) La reactancia inductiva es
+b) Entonces, la corriente efectiva es
+Ejercicio de refuerzo. En este ejemplo, a) ¿cuál es la corriente máxima? b) ¿Qué frecuencia
+de voltaje produciría la misma corriente si la inductancia se redujera a un tercio de su va-
+lor en este ejemplo?
+I
+rms = Vrms
+XL
+= 120 V
+47.1 Æ = 2.55 A
+XL = 2pfL = 2p160 Hz210.125 H2 = 47.1 Æ
+ f = 60 Hz
+ Vrms = 120 V
+ L = 125 mH = 0.125 H
+A
+1
+4B
+Vrms = Irms
+ XL
+XL =vL = 2pfL
+Ilustración 31.4 Cambio de fase
+Exploración 31.2 Reactancia
+
+21.4 Impedancia: circuito RLC 693
+21.4 Impedancia: circuito RLC
+OBJETIVOS: a) Calcular corrientes y voltajes cuando están presentes varios ele-
+mentos reactivos y resistivos en circuitos de ca, b) usar diagramas de
+fase para calcular la impedancia general y las corrientes rms y c) com-
+prender y usar el concepto del factor de potencia en los circuitos de ca.
+En apartados anteriores se examinaron por separado los circuitos puramente capaci-
+tivos o puramente inductivos, sin que hubiera ninguna resistencia. Sin embargo, en el
+mundo real es imposible tener circuitos puramente reactivos, ya que siempre hay al-
+guna resistencia, aunque sea mínima, por ejemplo, la de los cables de conexión. Por
+consiguiente, se combinan las resistencias, las reactancias capacitivas y las reactancias
+inductivas para impedir el paso de la corriente en los circuitos de ca. Estos efectos se
+ilustran con un análisis de algunas combinaciones en circuitos.
+Circuito de RC en serie
+Supongamos que un circuito de ca está formado por una fuente de voltaje, un resistor
+y un condensador conectados en serie (
+Nfigura 21.9a). La relación de fases entre la co-
+rriente y el voltaje es distinta para cada elemento de circuito. En consecuencia, se ne-
+cesita un método gráfico especial para determinar la oposición general a la corriente
+en el circuito. Este método emplea un diagrama de fase.
+En un diagrama de fase como el de la figura 21.9b, de un circuito RC, a la resisten-
+cia y la reactancia se les atribuyen propiedades semejantes a las de los vectores, y sus
+magnitudes se representan mediante flechas llamadas fasores. En un conjunto de ejes
+coordenados x-y, la resistencia se grafica en el eje x positivo (esto es, a 0°), ya que la di-
+ferencia de fases entre voltaje y corriente para un resistor es cero. La reactancia capaci-
+tiva se grafica a lo largo del eje y negativo, y refleja una diferencia de /H1100290/H11034(/H9278) en las
+fases, ya que, para un condensador, el voltaje se retrasa respecto a la corriente por un
+cuarto de ciclo.
+La suma fasorial es la oposición efectiva, o neta, a la corriente; a eso se le llama
+impedancia (Z). Los fasores se suman de la misma forma que los vectores, porque los
+efectos del resistor y el condensador no están en fase. Para el circuito RC en serie,
+impedancia de un circuito RC en serie (21.16)
+La unidad de impedancia es el ohm.
+La generalización de la ley de Ohm a los circuitos con condensadores, inductores
+y resistores es
+ley de Ohm para circuitos de ca (21.17)
+Para ver cómo se usan los fasores en el análisis de un circuito RC, se presenta el si-
+guiente ejemplo. Preste atención especial al inciso 
+b, en el que hay una violación apa-
+rente al teorema de la malla de Kirchhoff, que se explica por las diferencias de fase
+entre los voltajes a través de los dos elementos del circuito.
+Ejemplo 21.5 ■ Impedancia RC y el teorema de la malla de Kirchhoff
+Un circuito RC en serie tiene una resistencia de 100 /H9024y una capacitancia de 15.0 /H9262F. 
+a) ¿Cuál es la corriente (rms) en el circuito cuando se conecta con una fuente de 120 V y 
+60 Hz? b) Calcule el voltaje (rms) a través de cada elemento de circuito y de los dos ele-
+mentos combinados. Compárelo con el de la fuente de voltaje. ¿Se satisface el teorema 
+de la malla de Kirchhoff? Comente y explique su razonamiento.
+Razonamiento. a) Advierta que los valores del voltaje y del condensador son los mismos
+que aquellos en el ejemplo 21.3, y que se ha agregado un resistor en serie. Esto ayudará a
+simplificar los cálculos. Entonces, la reactancia capacitiva y la resistencia se combinan,
+usando fasores, para determinar la impedancia general (ecuación 21.16). De acuerdo con la
+ecuación 21.17, se pueden usar la impedancia y el voltaje para calcular la corriente. b) Como
+la corriente es igual en cualquier momento dado en un circuito en serie, el resultado del inci-
+so a servirá para calcular los voltajes. El voltaje efectivo a través de los dos elementos juntos
+se calcula recordando que los voltajes individuales están desfasados 90°. Eso significa, en tér-
+minos físicos, que no llegan a sus valores máximos al mismo tiempo, sino más bien separa-
+dos por un cuarto de periodo. Por consiguiente, no es posible tan sólo sumar los voltajes.
+Vrms = Irms
+ Z
+Z = 3R2 + XC
+2
+fuente
+de ca
+C
+a) Diagrama del circuito RC
+b) Diagrama de fase
+R
+/H9278
+XC
+Z
+R
+Z = R2 + X2√ C
+▲ FIGURA 21.9 Un circuito RC 
+en serie a) En un circuito RC en
+serie, b) la impedancia Z es la suma
+fasorial de la resistencia R y de 
+la reactancia capacitiva XC.
+Nota: la palabra impedancia
+(representada por Z) indica la
+oposición general del circuito al
+paso de la corriente. Las palabras
+reactancia y resistencia se 
+reservarán para la oposición 
+en los elementos individuales.
+Nota: V
+rms /H11005IrmsZ se puede
+aplicar a cualquier circuito, 
+siempre y cuando la impedancia Z
+se calcule en forma correcta, 
+usando fasores.
+(continúa en la siguiente página)
+
+694 CAPÍTULO 21 Circuitos de corriente alterna
+Solución.
+Dado: Encuentre: a) I (corriente efectiva)
+b) (voltaje rms a través del 
+condensador)
+(voltaje efectivo a través del 
+resistor)
+(voltaje rms comb.)
+a) En el ejemplo 21.3 se determinó que la reactancia para el condensador a esta frecuen-
+cia f era XC /H11005177 /H9024. Ahora se aplicará la ecuación 21.16 para obtener la impedancia del
+circuito:
+Como Vrms /H11005IrmsZ, la corriente rms es
+b) Se usa primero la ecuación 21.17 para el voltaje efectivo a través del resistor solo (Z /H11005R),
+Para el condensador solo (Z /H11005XC), y el voltaje efectivo a través de éste es
+La suma algebraica de estos dos voltajes efectivos es 164 V , que no es igual que el valor rms
+del voltaje de la fuente (120 V). Esto no significa que se haya violado el teorema de la malla de
+Kirchhoff. De hecho, el voltaje de la fuente sí es igual a los voltajes combinados a través del
+condensador y del resistor, si se tienen en cuenta las diferencias de fase. Hay que calcular el volta-
+je combinado de forma adecuada, teniendo en cuenta la diferencia de 90/H11034entre las fases de los
+dos voltajes. Al aplicar el teorema de Pitágoras para obtener el vol-taje total, se tiene que
+Cuando se combinan adecuadamente las diferencias individuales de voltaje (teniendo en
+cuenta que los voltajes no alcanzan su punto máximo al mismo tiempo), se ve que la ley de
+Kirchhoff sigue siendo válida. Aquí se ha demostrado que el voltaje rms total a través 
+de ambos elementos es igual alvoltaje rms de la fuente. Hay que ser cuidadosos al sumar
+los voltajes de esta forma porque están fuera de fase en general. Por lo tanto, las leyes de
+Kirchhoff son válidas en cualquier instante del tiempo, no sólo para los valores rms, pero hay que
+tener cuidado al tomar en cuenta las diferencias de fase.
+Ejercicio de refuerzo. a) ¿Cómo cambiaría el resultado del inciso a de este ejemplo si el
+circuito estuviera excitado por una fuente con el mismo voltaje efectivo, pero que oscilara
+a 120 Hz? b) La causa de este cambio ¿es el resistor o el condensador?
+Circuito RL en serie
+El análisis de un circuito RL en serie ( >figura 21.10) es similar al de un circuito RC en
+serie. Sin embargo, la reactancia inductiva se grafica a lo largo del eje y positivo, en el
+diagrama de fases, para reflejar que la diferencia de fases con respecto a la resistencia
+es de 
+/H1100190/H11034. Recuerde que un ángulo de fase positivo quiere decir que el voltaje se ade-
+lanta a la corriente, como es el caso de un inductor.
+Por lo tanto, la impedancia en un circuito RL en serie es
+impedancia en un circuito RL en serie (21.18)
+Circuito RLC en serie
+En el caso más general, un circuito de ca puede contener los tres componentes: un resistor,
+un inductor y un condensador en serie como se ve en la Nfigura 21.11. De nuevo, con una
+suma fasorial se determina la impedancia general del circuito. Si se combinan los compo-
+nentes verticales (esto es, las reactancias inductiva y capacitiva) se obtiene la reactancia 
+total, X
+L /H11002XC. Se emplea la resta porque la diferencia de fases entre XL y XC es 180°. 
+La impedancia general del circuito es la suma fasorial de la resistencia y la reactancia 
+total. Una vez más, se utiliza el teorema de Pitágoras en el diagrama de fase, y se tiene
+impedancia de un circuito RLC en serie (21.19)
+El ángulo de fase (/H9278) entre el voltaje de la fuente y la corriente en el circuito es el
+que forman el fasor impedancia general (Z) y el eje /H11001x (figura 21.11b), o bien,
+ángulo de fase en un circuito RLC en serie (21.20)
+tan f = XL - XC
+R
+Z = 3R2 +1XL - XC22
+Z = 3R2 + XL
+2
+V1R+ C2 = 3VR
+2 + VC
+2 = 3159.1 V22 +1105 V22 = 120 V
+VC = Irms
+ XC =10.591 A21177 Æ2 = 105 V
+VR = Irms
+ R =10.591 A21100 Æ2 = 59.1 V
+Irms = Vrms
+Z = 120 V
+203 Æ = 0.591 A
+Z = 3R2 + XC
+2 = 41100 Æ22 +1177 Æ22 = 203 Æ
+V1R+ C2 f = 60 Hz
+VR Vrms = 120 V
+VC C = 15.0 mF = 15.0 * 10-6 F
+ R = 100 Æ
+fuente
+de ca
+L
+a) Diagrama del circuito RL
+b) Diagrama de fase
+R
+/H9278
+XL
+Z
+R
+Z = R2 + X2√
+L
+▲ FIGURA 21.10 Un circuito RL en
+serie a) En un circuito RL en serie,
+b) la impedancia Z es igual a la
+suma fasorial de la resistencia R
+y de la reactancia inductiva XL.
+Ilustración 31.6 Fasores de voltaje 
+y corriente
+Ilustración 31.7 Circuitos RC 
+y fasores
+
+21.4 Impedancia: circuito RLC 695
+fuente
+de ca L
+a) Diagrama del circuito RLC
+b) Diagrama de fase
+R
+/H9278
+(XL – XC)
+Z
+R
+Z = R2 + (XL – XC)2√
+XL – XCtan    =      R /H9278
+C
+XL
+XC
+{
+▲ FIGURA 21.11 Un circuito RLC
+en serie a) En un circuito RLC en
+serie, b) la impedancia Z es igual 
+a la suma fasorial de la resistencia 
+R y la reactancia total (o neta) 
+(X
+L /H11002XC). Note que el diagrama 
+de fase está hecho para el caso de
+X
+L /H11022XC.
+Impedancias y ángulos de fase para circuitos en serie
+Elemento(s) de circuito Impedancia Z (en W) Ángulo de fase /H9278
+R R 0°
+C
+L
+RC negativo (significa que /H9278está entre 0/H11034y /H1100290/H11034)
+RL positivo (significa que /H9278está entre 0/H11034y /H1100190/H11034)
+RLC positivo si 
+negativo si XC 7 XL
+XL 7 XC3R2 +1XL - XC22
+3R2 + XL
+2
+3R2 + XC
+2
++90°XL
+-90°XC
+TABLA 21.1
+Advierta que si XL es mayor que XC (como en la figura 21.11b), el ángulo de fase es
+positivo (/H11001/H9278), y se dice que el circuito es inductivo, ya que la parte no resistiva de la
+impedancia (es decir, la reactancia) está dominada por el inductor. Si XC es mayor que
+XL, el ángulo de fase es negativo (/H11002/H9278), y se dice que el circuito es capacitivo, porque la
+reactancia capacitiva domina sobre la reactancia inductiva.
+En la tabla 21.1 se presenta un resumen de las impedancias y los ángulos de fase
+para los tres elementos de circuito, así como varias de sus combinaciones. En el ejem-
+plo 21.6 se analiza un circuito RLC.
+Ejemplo 21.6 ■ Ahora todo junto: impedancia en un circuito RLC
+Un circuito RLC en serie tiene una resistencia de 25.0 /H9024, una capacitancia de 50.0 /H9262F, 
+y una inductancia de 0.300 H. Si el circuito se activa con una fuente de voltaje de 120 V y
+60 Hz, ¿cuáles son a) la impedancia total del circuito, b) la corriente efectiva en el circuito
+y c) el ángulo de fase entre la corriente y el voltaje?
+Razonamiento. a) Para calcular la impedancia general con la ecuación 21.19, hay que de-
+terminar las reactancias individuales. b) La corriente calculada con la generalización de la
+ley de Ohm es Vrms /H11005IrmsZ (ecuación 21.17). c) El ángulo de fase se calcula con la ecuación
+21.20.
+Solución. Se listan los datos:
+Dado: Encuentre: a) Z (impedancia general del circuito)
+b) 
+c) (ángulo de fase)
+a) Las reactancias individuales son
+y
+Entonces,
+b) Como Vrms /H11005IrmsZ, entonces
+c) Se obtiene el ángulo de fase a partir de tan /H9278/H11005(XL /H11002XC)/R y resulta
+Era de esperarse un ángulo de fase positivo, porque la reactancia inductiva es mayor que
+la capacitiva (véase el inciso a). Por consiguiente, este circuito es inductivo por naturaleza.
+f = tan-1¢
+XL - XC
+R ≤ = tan-1a 113 Æ- 53.1 Æ
+25.0 Æ b =+ 67.3°
+Irms = Vrms
+Z = 120 V
+64.9 Æ = 1.85 A
+Z = 3R2 +1XL - XC22 = 3125.0 Æ22 +1113 Æ- 53.1 Æ22 = 64.9 Æ
+XL = 2pfL = 2p160 Hz210.300 H2 = 113 Æ
+XC = 1
+2pfC = 1
+2p160 Hz215.00 * 10-5 F2 = 53.1 Æ
+ f = 60 Hz
+ Vrms = 120 V
+f L = 0.300 H
+Irms C = 50.0 mF = 5.00 * 10-5 F
+ R = 25.0 Æ
+(continúa en la siguiente página)
+
+696 CAPÍTULO 21 Circuitos de corriente alterna
+a) Triángulo de fasores
+b) Triángulo equivalente de voltajes
+(XL – XC)
+/H9278
+/H9278
+Z
+R
+(VL – VC)V
+VR
+▲ FIGURA 21.12 Triángulos fasorial
+y de voltajes Los voltajes rms a
+través de los componentes de un
+circuito RLC en serie se expresan
+por VR /H11005IrmsR, VL /H11005IrmsXL y 
+VC /H11005IrmsXC. Como la corriente es
+igual a través de cada uno, a) el
+triángulo fasorial es susceptible 
+de convertirse en b) un triángulo de
+voltajes. Note que VR /H11005V cos /H9278.
+Ambos diagramas fasoriales se
+dibujaron para el caso en que 
+X
+L /H11022XC.
+Ejercicio de refuerzo. a) Considere el circuito RLC de este ejemplo, sólo que ahora se au-
+menta al doble la frecuencia de excitación. Realice un razonamiento conceptual e indique
+si el ángulo de fase /H9278debe ser mayor o menor que los /H1100167.3/H11034después del incremento. 
+b) Calcule el nuevo ángulo de fase para demostrar que su razonamiento fue correcto.
+Ahora, usted seguramente apreciará la importancia de los diagramas fasoriales
+para calcular impedancias, voltajes y corrientes en los circuitos de ca. Sin embargo,
+quizá todavía se pregunte qué utilidad y significado tiene el ángulo de fase /H9278. Para
+ilustrar su importancia, se examinará la pérdida de potencia en un circuito RLC. Hay
+que hacer notar que el análisis de pérdidas de potencia también depende mucho del
+buen uso de los diagramas fasoriales.
+Factor de potencia para un circuito RLC en serie
+Al examinar un circuito RLC, es crucial estar conscientes de que cualquier pérdida de
+potencia en el circuito (calentamiento de joule) tiene lugar sólo en el resistor. No hay
+pérdidas de potencia asociadas con condensadores ni con inductores. Los condensadores y los
+inductores tan sólo almacenan la energía y la devuelven, sin pérdidas. En el caso ideal,
+ninguno de estos dos elementos presenta resistencia, por lo que su calentamiento de
+joule es cero.
+Como ya se explicó, la potencia promedio (rms) disipada por un resistor es 
+P
+rms /H11005I2
+rmsR. Esta potencia rms también se expresa en función de la corriente y el 
+voltaje rms, sólo que, en este caso, el voltaje debe ser el que hay a través del resistor (VR),
+ya que es el único elemento disipador. La potencia disipada promedio en un 
+circuito RLC en serie se expresa de forma alternativa como
+El voltaje a través del resistor se calcula con un triángulo de voltajes que corres-
+ponde al triángulo fasorial (
+>figura 21.12). Los voltajes rms a través de los componen-
+tes individuales en un circuito RLC son VR /H11005IrmsR, VL /H11005IrmsXL y Vc /H11005IrmsXC. Al
+combinar los dos últimos voltajes se tiene ( VL /H11002VC) /H11005Irms(XL /H11002XC). Si se multiplica
+cada cateto del triángulo fasorial (figura 21.12a) por la corriente efectiva, resulta un
+triángulo equivalente de voltajes (figura 21.12b). Como se ve en esta figura, el voltaje 
+a través del resistor es
+(21.21)
+El término cos /H9278se llama factor de potencia. Según la figura 21.11,
+factor de potencia para RLC en serie (21.22)
+La potencia promedio, expresada en términos del factor de potencia, es
+potencia para RLC en serie (21.23)
+Como sólo se disipa potencia en la resistencia la ecuación 21.22 permite
+expresar la potencia promedio como
+potencia para RLC en serie (21.24)
+Cabe destacar que cos /H9278varía desde un máximo de /H110011 (cuando /H9278/H110050
+/H11034), hasta un
+mínimo de 0 (cuando /H9278/H11005/H1100690/H11034). Cuando /H9278/H110050/H11034, se dice que el circuito es totalmente re-
+sistivo, esto es, hay una disipación máxima de potencia (como si el circuito sólo tuviera
+un resistor). El factor de potencia disminuye conforme aumenta el ángulo de fase en
+cualquier dirección [porque cos(/H11002/H9278) /H11005cos /H9278], es decir, conforme el circuito se vuelve
+inductivo o capacitivo. Cuando /H9278/H11005/H1100190/H11034, se dice que el circuito es completamente in-
+ductivo; a /H9278/H11005/H1100290/H11034es completamente capacitivo. En estos casos, el circuito sólo contiene
+un inductor o un condensador, respectivamente, por lo que no se disipa potencia. En la
+práctica, como siempre hay algo de resistencia, un circuito nunca es completamente in-
+ductivo o capacitivo. Sin embargo, sí es posible que un circuito RLC parezca ser com-
+pletamente resistivo, aunque contenga tanto un condensador como un inductor, como
+se explicará en la sección 21.5. Regresaremos al ejemplo anterior con circuito RLC, po-
+niendo especial atención en la potencia.
+P = Irms
+2
+ Z cos f
+1P = Irms
+2
+ R2,
+P = Irms
+ Vrms cos f
+cos f = R
+Z
+VR = Vrms cos f
+P = PR = Irms
+ VR
+Ilustración 31.5 P otencia 
+y reactancia
+Exploración 31.4 Ángulo de fase 
+y potencia
+
+21.5 Resonancia en circuitos 697
+Ejemplo 21.7 ■ De nuevo, el factor de potencia
+¿Cuánta potencia promedio que se disipa en el circuito del ejemplo 21.6?
+Razonamiento. Es posible calcular el factor de potencia, porque se conocen la resistencia
+(R) y la impedancia (Z). Una vez conocido ese factor, se calcula la potencia real.
+Solución.
+Dado: Véase el ejemplo 21.6 Encuentre: (potencia promedio)
+En el ejemplo 21.6 se determinó que el circuito tiene una impedancia Z /H1100564.9 /H9024, y que su
+resistencia era R /H1100525.0 /H9024. Por consiguiente, el factor de potencia es
+Se usan otros datos del ejemplo 21.6 y, con la ecuación 21.23, se obtiene
+Esto es menor que la potencia que se disiparía si no existieran el condensador y el induc-
+tor. (¿Podría demostrar que esto es verdad? ¿Por qué es verdad?)
+Ejercicio de refuerzo. Si la frecuencia se duplicara y el condensador se retirara de este
+ejemplo, ¿cuál sería la potencia efectiva?
+21.5 Resonancia en circuitos
+OBJETIVOS: a) Comprender el concepto de la resonancia en los circuitos de ca
+y b) calcular la frecuencia de resonancia de un circuito RLC.
+A partir de la explicación anterior, se podrá ver que cuando el factor de potencia (cos
+/H9278) de un circuito RLC en serie es igual a la unidad, al circuito se transfiere la frecuen-
+cia máxima. En tal situación, la corriente en el circuito debe estar en su máximo, ya que
+la impedancia está en su mínimo. Esto sucede porque a esta única frecuencia, las reac-
+tancias inductiva y capacitiva se anulan efectivamente; esto es, son iguales en magnitud
+y están desfasadas 180/H11034, o lo contrario. Esto sucede en cualquier circuito RLC, eligien-
+do la frecuencia adecuada de la fuente.
+La clave para determinar la frecuencia correcta es darse cuenta de que las reac-
+tancias inductivas y capacitivas dependen de la frecuencia, al igual que la impedan-
+cia general. De acuerdo con la ecuación de la impedancia de un circuito RLC en se-
+rie, se observa que la impedancia es mínima cuando 
+Esto sucede a la frecuencia f
+o, que se calcula igualando Uti-
+lizando las ecuaciones para las reactancias, esto significa que 
+Al despejar f
+o se obtiene
+frecuencia de resonancia RLC (21.25)
+Esta frecuencia satisface la condición de impedancia mínima y, por consiguiente, maxi-
+miza la corriente en el circuito. En analogía con el hecho de impulsar un columpio
+exactamente a la frecuencia correcta o con el de tener una cuerda de violín en uno de
+sus modos normales, f
+o se llama la frecuencia de resonancia del circuito. En la ▼figura
+21.13a se presenta una gráfica de las reactancias capacitiva e inductiva en función de la
+frecuencia. Las curvas de X
+C y XL se intersecan en fo, donde sus valores son iguales.
+Explicación física de la resonancia
+Vale la pena investigar la explicación física de la resonancia en un circuito RLC en serie.
+Ya se explicó que los voltajes del condensador y del inductor siempre están 180/H11034 fuera de
+fase, o tienen polaridad opuesta. En otras palabras, tienden a anularse, pero, general-
+mente, no por completo porque sus valores no son iguales. Si éste es el caso, entonces,
+el voltaje a través del resistor es menor que el voltaje de la fuente porque hay un volta-
+je neto a través de la combinación del condensador y el inductor. Esto significa que la
+fo = 1
+2p 2LC
+1>2pfo
+ C.=2pfo
+ L
+XL = XC .XL - XC = 0.
+2R2 +1XL - XC22 ,=Z
+P = Irms
+ Vrms cos f =11.85 A21120 V210.3852 = 85.5 W
+cos f = R
+Z = 25.0 Æ
+64.9 Æ = 0.385
+P
+Ilustración 31.8 Impedancia 
+y resonancia, circuito RLC
+Exploración 31.7 Circuito RLC
+
+698 CAPÍTULO 21 Circuitos de corriente alterna
+potencia disipada en el resistor es menor que su valor máximo. Sin embargo, en el caso
+especial que se presenta cuando los voltajes capacitivo e inductivo se anulan, todo el
+voltaje de la fuente aparece a través del resistor, el factor de potencia se vuelve 1, y el re-
+sistor disipa la potencia máxima posible. Esto es lo que se entiende al decir que el circui-
+to está “en resonancia”.
+Aplicaciones de la resonancia
+Como hemos visto, cuando un circuito RLC en serie se excita a su frecuencia de reso-
+nancia, tanto la corriente en el circuito como la transferencia de potencia a este último
+están en su valor máximo. En la figura 21.13b se presenta una gráfica de la corriente
+rms en función de la frecuencia de excitación, para diversos valores de la resistencia.
+Como se esperaba, la corriente máxima ocurre a la frecuencia de resonancia f
+o. Obser-
+ve que la curva se vuelve más aguda y angosta conforme disminuye la resistencia.
+Los circuitos resonantes tienen una gran variedad de aplicaciones. Una de las más
+comunes es la del mecanismo de sintonización de un aparato receptor de radio. Cada
+estación de radio tiene asignada una frecuencia de emisión, a la cual transmite ondas
+de radio (véase la sección A fondo 21.1 sobre la radiodifusión y la radiación electro-
+magnética). Cuando las ondas se reciben en la antena, sus campos magnético y eléctri-
+co oscilatorios ponen a los electrones de la antena receptora en movimiento de vaivén
+regular. En otras palabras, producen una corriente alterna en el circuito receptor, como
+lo haría una fuente de voltaje ac.
+En determinada área, cada estación de radio tiene asignada su propia frecuen-
+cia de transmisión. Por lo general, diferentes señales de radio llegan juntas a la ante-
+na, pero el circuito receptor escoge, de forma selectiva, sólo aquella con el valor
+exacto o cercano de la frecuencia de resonancia. La mayoría de los aparatos de radio
+permiten variar esa frecuencia de resonancia para “sintonizar” diferentes estaciones.
+En los primeros días de la radio se usaban condensadores variables de aire para este
+fin (
+Nfigura 21.14). En la actualidad, existen condensadores variables más compactos
+en los radios más pequeños, que tienen un dieléctrico de polímero entre placas del-
+gadas. Las láminas de polímero ayudan a mantener la distancia entre las placas y 
+aumentan la capacitancia, permitiendo a los fabricantes usar una superficie más 
+pequeña. (Recuerde que, en el capítulo 16 ) En la mayoría de los radios
+más modernos hay dispositivos de estado sólido que reemplazan a los condensado-
+res variables.
+keo
+ A>d.=C
+b)
+fo
+f
+R1
+R2
+R3 > R2 > R1
+R3
+XL
+fo
+f
+X
+XC
+I
+a)
+Reactancia
+Corriente
+Frecuencia Frecuencia
+▲ FIGURA 21.13 Frecuencia de resonancia de un circuito RLC en serie a) A la frecuen-
+cia de resonancia ( f o), las reactancias capacitiva e inductiva son iguales (XL /H11005XC). En 
+una gráfica de X en función de f, ésta es la frecuencia a la cual se intersecan las curvas de
+XC y XL. b) En una gráfica de I en función de f, la corriente es máxima en fo. La curva se 
+vuelve más aguda conforme disminuye la resistencia en el circuito.
+▲ FIGURA 21.14 Condensador
+variable de aire Al girar las pla-
+cas móviles entre las placas fijas, 
+se modifica el área de traslape y,
+por consiguiente, la capacitancia. 
+Esos condensadores eran comunes
+en los circuitos de sintonización 
+de los radios antiguos.
+
+21.5 Resonancia en circuitos 699
+21.1 Circuitos osciladores: emisores de radiación
+electromagnética
+Para generar las ondas electromagnéticas de alta frecuencia
+que se usan en las comunicaciones de radio y televisión (figura
+1), se deben hacer oscilar corrientes eléctricas a altas frecuen-
+cias en circuitos electrónicos. Esto se logra con circuitos RLC,
+que se llaman circuitos osciladores , porque en ellos la corriente
+oscila a una frecuencia determinada por sus elementos inducti-
+vo y capacitivo.
+Cuando la resistencia en un circuito RLC es muy pequeña,
+ese circuito es, en esencia, un LC. En él, la energía oscila a una
+frecuencia f, que es la frecuencia “natural” del circuito, y que
+también es su frecuencia de resonancia (ecuación 21.25). Cual-
+quier leve resistencia en el circuito disiparía energía. Sin embar-
+go, en un circuito LC ideal (como el que aquí consideramos),
+sin resistencia, la oscilación continuaría de forma indefinida
+Para comprender mejor esta situación, consideremos las os-
+cilaciones de energía en un circuito ideal LC en paralelo, como 
+el de la figura 2a. Supongamos que, inicialmente, el condensa-
+dor está cargado, y que a continuación se cierra el interruptor 
+(t /H110050). Entonces, se presentará la siguiente sucesión de eventos:
+1. El condensador se descargaría de forma instantánea (ya
+que RC /H110050), si no fuera porque la corriente debe pasar por
+la bobina. Cuando t /H110050, la corriente que pasa por la bobi-
+na es cero (figura 2a). Al aumentar la corriente, también
+aumenta el campo magnético en la bobina. De acuerdo con
+la ley de Lenz, el campo magnético en aumento y el cam-
+bio de flujo en la bobina inducen una contra fem que se
+opone al aumento de la corriente. A causa de esta oposi-
+ción, el condensador tarda cierto tiempo en descargarse.
+2. Cuando el condensador está totalmente descargado (figu-
+ra 2b), toda su energía (en su campo eléctrico) ha pasado
+al inductor, en forma de un campo magnético. (Como, en
+este circuito, se supone que R /H110050, no se pierde energía por
+el calentamiento de joule.) En este momento (un cuarto de
+ciclo o periodo; T/4), el campo magnético y la corriente en
+la bobina tienen su valor máximo, y entonces toda la ener-
+gía está almacenada en el inductor. (Consulte los “histo-
+gramas” de energía que acompañan los diagramas de
+circuito en las figuras 2a, 2b y 2c para visualizar las trans-
+ferencias de energía conforme se desarrolla el ciclo.)
+3. Al bajar el campo magnético respecto de su valor máximo,
+en la bobina se induce una fem que se opone a esa bajada.
+Esta fem actúa en la dirección que tiende a continuar la co-
+rriente en la bobina, aunque ésta baje (de nuevo, por la ley
+de Lenz). Ahora la polaridad de la fem es contraria a la que
+había en el paso 1. De esta forma, la corriente continúa pa-
+sando carga al condensador, pero el resultado es una pola-
+ridad inversa a la de su estado inicial.
+4. Cuando el condensador está cargado por completo (pero
+con la polaridad inversa), tiene la misma energía que tenía
+al principio (véase la figura 2c). Esto ocurre a la mitad del
+ciclo, o a la mitad de un periodo a partir del inicio (T/2). El
+campo magnético en la bobina es cero, al igual que la co-
+rriente en el circuito.
+5. A continuación el condensador se comienza a descargar, y
+se repiten los cuatro pasos anteriores una y otra vez. De es-
+ta manera, tenemos una oscilación de corriente y energía en
+el circuito. En un caso ideal de un circuito que no opone re-
+sistencia, las oscilaciones continuarían de forma indefinida. 
+A FONDO
+FIGURA 1 Una antena de transmisión
+++
+– – – –
+++
+CE L
+I = 0S
+S
+Qmáx
+UC = E
+UL = 0
+UC = E
+UL = 0
+C
+B
+Imáx
+t = 
+Q = 0
+UL = E
+UC = 0
+T
+4
+t = T
+2
+++
+– – – –
+++
+C L
+I = 0S
+Qmáx
+a)
+b)
+c)
+t = 0
+E
+FIGURA 2 Un circuito oscilador LC Si la resistencia es insig-
+nificante, este circuito oscilará indefinidamente. Se muestra
+medio ciclo entre t /H110050 y t /H11005T/2. La energía se convierte de
+magnética a eléctrica y viceversa (como se observa en los his-
+togramas de energía a la derecha). Los electrones que oscilan
+en el conductor emiten radiación electromagnética a la fre-
+cuencia de oscilación del circuito.
+
+700 CAPÍTULO 21 Circuitos de corriente alterna
+Ejemplo integrado 21.8 ■ Comparación de AM y FM: la resonancia 
+en la recepción de radio
+a) Cuando usted cambia de una estación de AM (en la “banda de AM”; el término banda
+se refiere a un intervalo específico de frecuencias) a una de FM, de hecho cambia la capa-
+citancia del circuito receptor, suponiendo que la inductancia es constante. ¿La capacitan-
+cia 1) aumenta o 2) disminuye al hacer este cambio? b) Suponga que estaba escuchando
+las noticias en una estación de AM a 920 kHz y que cambió a una estación de música en la
+banda de FM, en los 99.7 MHz. ¿Por qué factor cambió la capacitancia del circuito recep-
+tor en el radio, suponiendo que la inductancia es constante?
+a) Razonamiento conceptual. Como las estaciones de FM emiten a frecuencias mucho
+mayores que las de AM (véase la tabla 20.1, p. 676), la frecuencia de resonancia del recep-
+tor debe aumentarse para recibir señales en la banda de FM. Un aumento de la frecuencia
+de resonancia requiere disminuir la capacitancia, porque la inductancia es fija. Así, la res-
+puesta correcta es la 2.
+b) Razonamiento cuantitativo y solución. La frecuencia de resonancia (ecuación 21.25) de-
+pende de la inductancia y de la capacitancia. Como la pregunta pide un “factor”, es claro
+que solicita una razón o relación entre la capacitancia nueva y la original. Las frecuencias
+se deben expresar en las mismas unidades, por lo que se hará la conversión de MHz 
+a kHz, y se utilizarán literales con apóstrofe para FM y literales sin apóstrofe para AM.
+Dado: Encuentre: (la razón entre la capaci- 
+tancia nueva y la original)
+De la ecuación 21.25, las dos frecuencias de resonancia se definen por
+Dividiendo la primera ecuación entre la segunda, se obtiene
+Se eleva al cuadrado para despejar la razón de capacitancias, y se sustituyen los núme-
+ros, lo que nos da
+Por consiguiente, C/H11032/H110058.51 /H1100310
+/H110025 C, y se ve que la capacitancia disminuyó por un fac-
+tor de casi un diezmilésimo (8.51 /H1100310/H110025 /H1101510/H110024). 
+Ejercicio de refuerzo. a) Con base en las curvas de resonancia de la figura 21.13b, ¿podría
+explicar cómo es posible captar dos estaciones de radio de forma simultánea en su aparato
+receptor? (Se habrá encontrado con este fenómeno, en especial entre dos ciudades lejanas
+entre sí. En ocasiones, hay dos estaciones con licencia para transmitir a frecuencias muy
+próximas, bajo el supuesto de que no se recibirán ambas en el mismo aparato. Sin embar-
+go, en ciertas condiciones atmosféricas, esto no es válido.) b) En el inciso b de este ejemplo,
+si a continuación se aumentara la capacitancia por un factor de dos (partiendo del noticia-
+rio en 920 kHz) para escuchar un juego de hockey, ¿a qué frecuencia de la banda de AM se
+estaría sintonizando?
+C¿
+C = ¢
+fo
+fo
+œ≤
+2
+= ¢ 920 kHz
+99.7 * 103 kHz≤
+2
+= 8.51 * 10-5
+fo
+fo
+œ = 2p2LC¿
+2p2LC
+= A
+C¿
+C
+fo = 1
+2p2LC
+ y fo
+œ = 1
+2p2LC¿
+ fo
+œ = 99.7 MHz = 99.7 * 103 kHz
+C¿>C fo = 920 kHz
+Repaso del capítulo
+• Un voltaje alterno (ca) se describe con la ecuación
+(21.1)
+• Para una corriente con variación senoidal, llamada corriente
+ca, la corriente pico Io y la corriente rms (raíz cuadrática me-
+dia o efectiva) Irms se relacionan mediante
+(21.6)
+I
+Io
+Irms = 0.707Io
+0 t
+Io
+(pico)
+–Io
+Irms = Io
+22
+= 0.707Io
+V = Vo sen vt = Vo sen 2pft
+• Para un voltaje de ca, el voltaje pico Vo se relaciona con su
+voltaje rms (raíz cuadrática medio o efectivo) mediante
+(21.8)
+• La corriente en un resistor está en fase con el voltaje a través
+de él. Para un condensador, la corriente se adelanta 90 /H11034(un
+cuarto de ciclo) al voltaje. Para un inductor, la corriente se re-
+trasa 90/H11034con respecto al voltaje.
+0
+V
+Vo
+t
+Vrms = 0.707Vo
+–Vo
+Vo
+(pico)
+Vrms = Vo
+22
+= 0.707Vo
+
+Ejercicios 701
+• En los circuitos de ca, el calentamiento de joule se debe por
+completo a los elementos resistivos, y la disipación de poten-
+cia, promediada en el tiempo, es
+(21.10)
+• En un circuito de ca, los condensadores y los inductores per-
+miten el paso de la corriente y crean oposición a ella. Esta
+oposición se caracteriza por la reactancia capacitiva (X
+C) y la
+reactancia inductiva (XL), respectivamente. La reactancia ca-
+pacitiva se determina mediante la ecuación
+(21.11)
+La reactancia inductiva se determina con
+(21.14)
+• La ley de Ohm, aplicada a cada tipo de elemento de circuito, es
+una generalización de su versión en los circuitos de cd. La rela-
+ción entre la corriente y el voltaje efectivos para un resistor es
+(21.9)
+La relación entre la corriente y el voltaje rms para un conden-
+sador es
+(21.12)
+La relación entre la corriente y el voltaje rms para un inductor es
+(21.15)
+• Los fasores son cantidades parecidas a los vectores que tienen
+en cuenta las resistencias y reactancias para representarlas de
+forma gráfica
+• La impedancia (Z) es la oposición total (o efectiva) a la co-
+rriente, que tiene en cuenta tanto resistencias como reactan-
+cias. La impedancia se relaciona con la corriente y el voltaje
+del circuito mediante una generalización de la ley de Ohm:
+(21.17)V
+rms = Irms
+ Z
+/H9278
+XC
+Z
+R
+Z = R2 + X2√ C
+Vrms = Irms
+ XL
+Vrms = Irms
+ XC
+Vrms = Irms
+ R
+XL =vL = 2pfL
+XC = 1
+vC = 1
+2pfC
+P = Irms
+2
+ R
+• La impedancia para un circuito RLC en serie es
+(21.19)
+• El ángulo de fase ( /H9278) entre el voltaje y la corriente efectivos
+en un circuito RLC en serie es
+(21.20)
+• El factor de potencia (cos /H9278) para un circuito RLC en serie es
+una medida de qué tan cercano está un circuito a la disi-
+pación máxima de potencia. El factor de potencia es
+(21.22)
+La potencia promedio disipada (calentamiento de joule en el
+resistor) es
+(21.23)
+o bien,
+(21.24)
+• La frecuencia de resonancia (f
+o) de un circuito RLC es la fre-
+cuencia a la cual disipa la potencia máxima. Esta frecuencia es
+(21.25)
+fo
+f
+R1
+R2
+R3 > R2 > R1
+R3
+ICorriente
+Frecuencia
+fo = 1
+2p2LC
+P = Irms
+2
+ Z cos f
+P = Irms
+ Vrms cos f
+cos f = R
+Z
+tan f = XL - XC
+R
+/H9278
+(XL – XC)
+Z
+R
+Z = R2 + (XL – XC)2√
+XL – XCtan    =      R /H9278
+XL
+XC
+{
+Z = 3R2 +1XL - XC22
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son ejer-
+cicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pares de
+ejercicios, que se identifican con númer
+os subrayados, pretenden ayudar al lector a resolver problemas y aprender.
+El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consultarse si se ne-
+cesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al final del libro.
+21.1 Resistencia en un circuito de ca
+1. OM ¿Cuál de los siguientes voltajes es mayor para un
+voltaje alterno de variación senoidal? a) Vo, b) Vrms o 
+c) ambos tienen el mismo valor.
+2. OM Durante el curso de un ciclo de voltaje alterno (en Es-
+tados Unidos), ¿durante cuánto tiempo la dirección de 
+la corriente permanece constante en un resistor? a) 1/60 s,
+b) 1/120 s o c) 1/30 s.
+3. OM Durante siete ciclos completos de voltaje alterno (en
+Estados Unidos), ¿cuál es el voltaje promedio? a) 0 V , 
+b) 60 V , c) 120 V o d) 170 V .
+4. PC Si la corriente promedio en un circuito de ca es cero,
+explique por qué la potencia promedio entregada a un
+resistor no es cero.
+5. PC El voltaje y la corriente asociados con un resistor de
+un circuito de ca están en fase. ¿Qué significa esto?
+6. PC Una bombilla de luz de 60 W, diseñada para tra-
+bajar a 240 V en Gran Bretaña, se conecta a una fuente
+de 120 V . Describa los cambios en la corriente y la 
+potencia efectivas en la bombilla cuando está en 120 V , en
+comparación con 240 V . Suponga que la bombilla es 
+óhmica.
+7. PC Si el voltaje y la corriente alternos en un elemento de
+circuito se definen respectivamente por V
+/H11005120
+sen(120/H9266t) e I /H1100530 sen (120/H9266t /H11001/H9266/2), ¿ese elemento de
+circuito podría ser un resistor? Explique por qué.
+8. ● ¿Cuáles son los voltajes máximos de una línea de ca de
+120 V y de una de 240 V?
+
+702 CAPÍTULO 21 Circuitos de corriente alterna
+9. ● La corriente rms de un circuito de ca es de 5.0 A. ¿Cuál
+es la corriente máxima?
+10. ● El voltaje máximo a través de un resistor en un circuito
+de ca es de 156 V . Calcule el voltaje rms correspondiente.
+11. ● ¿Cuánta corriente alterna rms debe pasar por un resis-
+tor de 10 /H9024para producir una potencia promedio 
+de 15 /H9024?
+12. ● Un circuito de ca contiene un resistor con 5.0 /H9024de re-
+sistencia. Por él pasa una corriente rms de 0.75 A. 
+a) Calcule el voltaje rms y el voltaje máximo. b) Calcule la
+potencia promedio entregada al resistor.
+13.
+● Una secadora de cabello tiene una potencia de 1200 W
+cuando se conecta a un tomacorriente de 120 V . Calcule
+a) su corriente efectiva, b) su corriente máxima y c) su re-
+sistencia.
+14. EI
+●● El voltaje a través de un resistor de 10 W varía de
+acuerdo con V /H11005(170 V) sen(120/H9266t). a) La corriente a través
+del resistor estará 1) en fase con el voltaje, 2) adelantada 90/H11034
+al voltaje o 3) retrasada 90/H11034con respecto al voltaje. b) Escri-
+ba la ecuación de la corriente en el resistor en función del
+tiempo y determine la frecuencia del voltaje.
+15.
+●● Se aplica un voltaje alterno a un resistor de 25 /H9024que
+disipa 500 W de potencia. Calcule a) las corrientes efecti-
+va y máxima, y b) los voltajes efectivo y máximo para el
+resistor.
+16. EI ●● Una fuente de voltaje alterno tiene un voltaje má-
+ximo de 85 V y una frecuencia de 60 Hz. En el momento 
+t /H110050, el voltaje es cero. a) Un alumno desea calcular el
+voltaje cuando t /H110051/240 s. ¿Cuántas respuestas posibles
+hay? 1) Una, 2) dos o 3) tres. ¿Por qué? b) Determine to-
+das las respuestas posibles.
+17.
+●● Una fuente de voltaje alterno tiene un voltaje rms de
+120 V . El voltaje pasa de cero a su valor máximo en 4.20 ms.
+Escriba una ecuación para el voltaje en función del tiempo.
+18.
+●● ¿Cuáles son la resistencia y la corriente rms de un
+monitor de computadora de 100 W y 120 V?
+19. ●● Calcule las corrientes rms y máxima que pasan por
+una bombilla de luz de 40 W y 120 V .
+20. ●● Un calentador de 50 kW está diseñado para funcionar
+con ca de 240 V . Calcule a) su corriente máxima y b) su
+voltaje máximo.
+21. ●● La corriente en un circuito está determinada por I /H11005
+(8.0 A) sen(40/H9266t) con un voltaje aplicado V /H11005(60 V) sen
+(40/H9266t). a) ¿Cuáles son la frecuencia y el periodo de la
+fuente de voltaje? b) ¿Cuál es la potencia promedio en-
+tregada al resistor?
+22. ●● Las salidas de corriente y voltaje de un generador de
+ca tienen valores máximos de 2.5 A y 16 V , respectiva-
+mente. a) ¿Cuál es la salida promedio de potencia del ge-
+nerador? b) ¿Cuál es la resistencia efectiva del circuito?
+23.
+●●● En un resistor de 60 /H9024, la corriente que pasa por él se
+determina como I /H11005(2.0 A) sen(380t). a) ¿Cuál es la fre-
+cuencia de la corriente? b) ¿Cuál es la corriente rms? 
+c) ¿Cuánta potencia media se entrega al resistor? d) Escri-
+ba una ecuación para el voltaje a través del resistor en
+función del tiempo. e) Escriba una ecuación para la poten-
+cia entregada al resistor en función del tiempo. f ) De-
+muestre que la potencia efectiva obtenida en el inciso e
+es igual a la respuesta en c.
+21.2 Reactancia capacitiva
+y
+21.3 Reactancia inductiva
+24. OM En un circuito de ca puramente capacitivo, a) la co-
+rriente y el voltaje están en fase, b) la corriente se adelanta
+al voltaje, c) la corriente se retrasa con respecto al voltaje 
+o d) ninguna de las opciones anteriores es verdadera.
+25. OM Un solo condensador está conectado a una fuente de
+voltaje alterno. Cuando el voltaje a través del condensa-
+dor está en su valor máximo, entonces la carga en él a) es
+cero, b) es máxima o c) ninguna de las respuestas anterio-
+res, sino una opción intermedia.
+26. OM Un solo inductor está conectado a una fuente de vol-
+taje alterno. Cuando el voltaje a través del inductor está
+en su valor máximo, entonces la corriente en él no cam-
+bia. a) Verdadero, b) falso o c) no es posible determinarlo
+a partir de la información. 
+27. PC Explique por qué, a bajas frecuencias de ca, un con-
+densador funciona casi como un circuito abierto mientras
+que un inductor funciona casi como un circuito cerrado.
+28. PC ¿Es posible que un inductor se oponga a la corriente
+directa? ¿Y un condensador? Explique cada caso y por qué
+son diferentes.
+29. PC Si la corriente que pasa por un condensador de 10 /H9262F
+se describe con la ecuación I /H11005(120 A) sen(120/H9266t /H11001/H9266/2),
+explique por qué el voltaje instantáneo a través de él
+cuando t /H110050 es cero mientras que la corriente no lo es 
+en ese momento.
+30.
+● Calcule la frecuencia a la cual un condensador de 25 /H9262F
+tiene una reactancia de 25 /H9024.
+31. ● Un solo condensador de 2.0 /H9262F se conecta con las ter-
+minales de una fuente de voltaje de 60 Hz y, con un am-
+perímetro de ca, se mide una corriente de 2.0 mA. ¿Cuál
+es la reactancia capacitiva del condensador?
+32.
+● ¿Qué capacitancia tendría 100 Ω de reactancia en un
+circuito de ca de 60 Hz?
+33. ● Con un solo inductor de 50 mH se forma un circuito
+completo conectándolo a una fuente de voltaje alterno de
+120 V y 60 Hz. a) ¿Cuál es la reactancia inductiva del cir-
+cuito? b) ¿Cuánta corriente pasa por el circuito? c) ¿Cuál
+es el ángulo de fase entre la corriente y el voltaje aplica-
+do? (Suponga que la resistencia es insignificante.)
+34.
+● ¿Cuánta corriente pasa por un circuito que sólo contie-
+ne un condensador de 50 /H9262F conectado con un generador
+de ca, con salida de 120 V y 60 Hz?
+35. ●● Un condensador variable está en un circuito con una
+fuente de 120 V y 60 Hz, y al principio tiene 0.25 /H9262F de
+capacitancia. A continuación se aumenta la capacitancia
+a 0.40 /H9262F. ¿Cuál es el cambio porcentual en la corriente
+que pasa por el circuito?
+36. ●● Un inductor tiene 90 /H9024de reactancia en un circuito de
+ca de 60 Hz. ¿Cuál es su inductancia?
+37. ●● Calcule la frecuencia a la cual un inductor de 250 mH
+tiene 400 /H9024de reactancia.
+
+Ejercicios 703
+38. EI ●● Se conecta un condensador con una fuente de vol-
+taje alterno, de frecuencia variable. a) Si aumenta la fre-
+cuencia por un factor de 3, la reactancia capacitiva será 
+1) 3, 2) 3) 9 o 4) veces la reactancia original. ¿Por qué?
+b) Si la reactancia capacitiva de un condensador a 120 Hz
+es de 100 W, ¿cuál es su reactancia si cambia la frecuencia
+a 60 Hz?
+39.
+●● Se tiene un solo inductor de 150 mH en un circuito
+con una fuente de voltaje de 60 Hz. Con un amperímetro
+para ca se mide una corriente de 1.6 A. a) ¿Cuál es el vol-
+taje rms de la fuente? b) ¿Cuál es el ángulo de fase entre
+la corriente y ese voltaje?
+40.
+●● ¿Qué inductancia tiene la misma reactancia que una
+capacitancia de 10 /H9262F en un circuito de 120 V y 60 Hz?
+41. ●● Se conecta un circuito con un solo condensador a una
+fuente de 120 V y 60 Hz. ¿Cuál es su capacitancia si por el
+circuito pasa una corriente de 0.20 A?
+42. EI
+●● Se conecta un inductor con una fuente de voltaje
+alterno de frecuencia variable. a) Si la frecuencia dismi-
+nuye por un factor de 2, la corriente rms será 1) 2, 
+2) 1/2, 3) 4 o 4) 1/4 veces la corriente efectiva original.
+¿Por qué? b) Si la corriente efectiva en un inductor, a 
+40 Hz, es de 9.0 A, ¿qué valor tendrá si la frecuencia cam-
+bia a 120 Hz?
+21.4 Impedancia: circuitos RLC
+y
+21.5 Resonancia en circuitos
+43. OM La impedancia de un circuito RLC depende de a) la
+frecuencia, b) la inductancia, c) la capacitancia o d) todo
+lo anterior.
+44. OM Si disminuye la capacitancia en un circuito RLC en
+serie, a) aumenta la reactancia capacitiva, b) aumenta la
+reactancia inductiva, c) la corriente permanece constante
+o d) el factor de potencia permanece constante.
+45. OM Cuando un circuito RLC en serie se activa a su fre-
+cuencia de resonancia, a) sólo se disipa energía en el ele-
+mento resistivo, b) el factor de potencia tiene un valor de
+uno, c) la potencia que se entrega al circuito es máxima o
+d) todas las opciones anteriores son válidas.
+46. PC ¿Cuál es la impedancia de un circuito RLC en reso-
+nancia, y por qué?
+47. PC ¿Se entrega potencia a los condensadores o a los in-
+ductores de un circuito de ca? ¿Por qué?
+48. PC ¿Cuáles son los factores que determinan la frecuencia
+de resonancia de un circuito RLC? ¿La resistencia es un
+factor? Explique por qué.
+49.
+● La resistencia de una bobina en un circuito de 60 Hz es
+de 100 /H9024, y su inductancia es de 0.45 H. Calcule a) la reac-
+tancia de la bobina y b) la impedancia del circuito.
+50. ● Un circuito RC en serie tiene una resistencia de 200 Ω y
+una capacitancia de 25 /H9262F, y se conecta a una fuente de
+120 V y 60 Hz. a) Calcule la reactancia capacitiva y la 
+impedancia del circuito. b) ¿Cuánta corriente suministra
+la fuente?
+1
+9
+1
+3 ,
+51. ● Un circuito RL en serie tiene una resistencia de 100 /H9024y
+una inductancia de 100 mH, y se conecta con una fuen-
+te de 120 V y 60 Hz. a) Calcule la reactancia inductiva y 
+la impedancia del circuito. b) ¿Cuánta corriente suminis-
+tra la fuente?
+52.
+● Un circuito RC tiene una resistencia de 250 Ω y una ca-
+pacitancia de 6.0 /H9262F. Si el circuito está activado por una
+fuente de 60 Hz, calcule a) la reactancia capacitiva y b) la
+impedancia del circuito.
+53. EI ● Un circuito RC tiene una resistencia de 100 /H9024y una
+reactancia capacitiva de 50 /H9024. a) El ángulo de fase será 
+1) positivo, 2) cero o 3) negativo. b) ¿Cuál es el ángulo de
+fase de este circuito?
+54. ●● Un circuito RLC en serie tiene una resistencia de 25 /H9024,
+una inductancia de 0.30 H y una capacitancia de 8.0 /H9262F.
+a) ¿A qué frecuencia debería funcionar el circuito para
+transferir la máxima potencia desde la fuente? b) ¿Cuál
+es la impedancia a esa frecuencia?
+55. EI ●● En un circuito RLC en serie, R /H11005XC /H11005XL /H1100540 /H9024
+para determinada frecuencia de la fuente. a) Este circuito
+1) es inductivo, 2) es capacitivo o 3) está en resonancia.
+¿Por qué? b) Si se duplica la frecuencia de funcionamien-
+to, ¿cuál será la impedancia del circuito?
+56. EI
+●● a) Un circuito RLC en serie está en resonancia. ¿Cuál
+de los siguientes elementos se puede cambiar sin alterar 
+la resonancia? 1) La resistencia, 2) la capacitancia, 3) la 
+inductancia o 4) la frecuencia. ¿Por qué? b) Un resistor, 
+un inductor y un condensador tienen valores de 500 /H9024,
+500 mH y 3.5 /H9262F, respectivamente. Se conectan a una fuente
+de potencia de 240 V y 60 Hz. ¿Qué valores de resistencia
+e inductancia se necesitan para que este circuito esté en 
+resonancia (sin cambiar el condensador)?
+57.
+●● ¿Cuánta potencia se disipa en el circuito descrito en el
+ejercicio 56b utilizando los valores iniciales de resisten-
+cia, inductancia y capacitancia?
+58.
+●● ¿Cuál es la frecuencia de resonancia de un circuito
+RLC con una resistencia de 100 /H9024, una inductancia de
+100 mH y una capacitancia de 5.00 /H9262F?
+59. ●● El circuito de sintonización de un antiguo receptor de
+radio tiene una inductancia fija de 0.50 mH y un conden-
+sador variable. Si el circuito se sintoniza a una estación
+de radio que transmite a 980 kHz, en la banda de AM,
+¿cuál es la capacitancia del condensador?
+60.
+●● ¿Cuál debe ser el intervalo del condensador variable
+del ejercicio 59 para sintonizar toda la banda de AM?
+[Sugerencia: véase la tabla 20.1.]
+61.
+●● Calcule las corrientes que suministra la fuente de ca
+para todas las conexiones posibles en la ▼ figura 21.15.
+C
+120 V
+60 Hz
+40   F 30 Ω 250 mHμ
+R L
+d c b a
+> FIGURA 21.15
+Un circuito RLC 
+en serie Véase el
+ejercicio 61.
+
+704 CAPÍTULO 21 Circuitos de corriente alterna
+62. EI ●● Una bobina con una resistencia de 30 /H9024y una in-
+ductancia de 0.15 H se conecta con una fuente de 120 V y
+60 Hz. a) El ángulo de fase de este circuito es 1) positivo, 
+2) cero o 3) negativo. ¿Por qué? b) ¿Cuál es el ángulo de fa-
+se del circuito? c) ¿Cuánta corriente rms pasa por el circui-
+to? ¿Cuál es la potencia promedio entregada al circuito?
+63.
+●● Una soldadora pequeña usa una fuente de voltaje de
+120 V a 60 Hz. Cuando está en operación, requiere 1200 W
+de potencia, y el factor de potencia es de 0.75. a) Calcule la
+corriente rms en la soldadora.
+64.
+●● Se conecta un circuito en serie con una fuente de po-
+der de 220 V y 60 Hz. El circuito tiene los siguientes com-
+ponentes: un resistor de 10 /H9024, una bobina de 120 /H9024de
+reactancia inductiva y un condensador con 120 /H9024de reac-
+tancia. Calcule el voltaje efectivo a través del a) resistor, 
+b) inductor y c) condensador.
+65.
+●● Un circuito RLC en serie tiene una resistencia de 25 /H9024,
+una capacitancia de 0.80 /H9262F y una inductancia de 250 mH.
+El circuito se conecta con una fuente de frecuencia varia-
+ble, con un voltaje efectivo de salida fijo de 12 V . Si la 
+frecuencia suministrada se ajusta a la frecuencia de reso-
+nancia del circuito, ¿cuál es el voltaje efectivo a través de
+cada uno de los elementos del circuito?
+66.
+●● a) En los ejercicios 64 y 65, determine la suma numéri-
+ca (escalar) de los voltajes rms a través de los tres ele-
+mentos del circuito y explique por qué es mucho mayor
+que la fuente del voltaje. b) Determine la suma de 
+estos voltajes utilizando las técnicas fasoriales adecua-
+das y demuestre que su resultado es igual al voltaje de 
+la fuente.
+67. EI
+●● a) Si el circuito de la ▼figura 21.16 está en resonan-
+cia, su impedancia es 1) mayor de 25 /H9024, 2) igual a 25 /H9024
+o 3) menor que 25 /H9024. ¿Por qué? b) Si la frecuencia de la
+fuente es de 60 Hz, ¿cuál es la impedancia del circuito?
+Generador
+de señal
+0.450 H
+25.0 Ω
+2.50   Fμ 2.50   Fμ
+▲ FIGURA 21.16 Sintonización de la resonancia
+Véase el ejercicio 67.
+69. ●●● Un circuito RLC en serie tiene sus componentes con 
+R /H1100550 /H9024, L /H110050.15 H y C /H1100520 /H9262F. El circuito está conec-
+tado a una fuente de 120 V y 60 Hz. ¿Cuál es la potencia
+entregada al circuito, expresada como porcentaje de la po-
+tencia entregada cuando el circuito está en resonancia?
+Ejercicios adicionales
+70. El circuito de un receptor de radio tiene una inductan-
+cia de 1.50 /H9262H, y se sintoniza a una estación de FM, de
+98.9 MHz, ajustando un condensador variable. Cuando el
+circuito está sintonizado con esa estación, a) ¿cuál es su
+reactancia inductiva? b) ¿Cuál es su reactancia capacitiva? 
+c) ¿Cuál es su capacitancia?
+71. Un circuito conectado a una fuente de 110 V y 60 Hz con-
+tiene un resistor de 50 /H9024, y una bobina de 100 mH de 
+inductancia. Calcule a) la reactancia de la bobina, b) la 
+impedancia del circuito, c) la corriente que pasa por el 
+circuito y d) la potencia que disipa la bobina. e) Calcule 
+el ángulo de fase entre la corriente y el voltaje aplicado.
+72. Se conecta un condensador de 1.0 /H9262F con una fuente de
+120 V y 60 Hz. a) ¿Cuál es la reactancia capacitiva del cir-
+cuito? b) ¿Cuánta corriente pasa por el circuito? c) ¿Cuál es
+el ángulo de fase entre la corriente y el voltaje aplicado?
+73. EI a) Si un circuito RLC está en resonancia, su ángulo de
+fase es 1) positivo, 2) cero o 3) negativo. ¿Por qué? b) Un
+circuito tiene una reactancia inductiva de 280 /H9024a 60 Hz.
+¿Qué valor de capacitancia llevaría a ese circuito a la 
+resonancia?
+74. El circuito de la 
+▼figura 21.17a se llama filtro pasabajas, o
+filtro de paso bajo, porque una gran corriente y un gran
+voltaje (y, por lo tanto, mucha potencia) se entregan al re-
+sistor de carga (R
+L) sólo cuando la frecuencia de la fuente
+es baja. El circuito de la figura 21.17b se llama filtro pasa-
+altas o filtro de paso alto, porque una gran corriente y un
+gran voltaje (y, por lo tanto, mucha potencia) se entregan
+a la carga sólo cuando la frecuencia de la fuente es alta.
+Describa conceptualmente por qué estos circuitos tienen
+tales características.
+fuente
+de ca
+fuente
+de ca
+L
+C RL
+a) Filtro pasabajas
+L
+C
+RL
+b) Filtro pasaaltas
+R1R1
+▲ FIGURA 21.17 Filtros pasabajas y pasaaltas
+Véase el ejercicio 74.
+68. ●●● Un circuito RLC en serie, con una resistencia de 400 /H9024,
+tiene reactancias capacitiva e inductiva de 300 y 500 /H9024,
+respectivamente. a) ¿Cuál es el factor de potencia del cir-
+cuito? b) Si el circuito trabaja a 60 Hz, ¿qué capacitancia
+adicional se debe conectar a la capacitancia original para
+obtener un factor de potencia igual a la unidad, y cómo
+deben conectarse los condensadores?
+Los siguientes problemas de física Physlet se pueden usar con este capítulo.
+31.1, 31.3, 31.4, 31.5, 31.8, 31.9, 31.11, 31.12, 31.14
+
+• A causa de la reflexión total interna, las fibras
+ópticas permiten que las señales viajen por
+largas distancias sin necesidad de repetido-
+res (amplificadores), para compensar las re-
+ducciones en la intensidad de la señal. Los
+repetidores de fibras ópticas, por lo general,
+están separados unos 100 km (62 mi), en
+comparación con una distancia de 1.5 km
+(aproximadamente 1 mi) que separa a los re-
+petidores en los sistemas eléctricos (basados
+en cables).
+• Cada día se instalan nuevos cables de fibras
+ópticas para redes de computadoras que
+equivalen a darle tres vueltas a la Tierra. Las
+fibras ópticas tienen diámetros mucho meno-
+res que los cables de cobre. Las fibras son
+tan pequeñas que miden 10 micrones de diá-
+metro. En comparación, el cabello humano,
+en promedio, mide 25 micrones de diámetro.
+• La mayoría de las lentes de cámara están cu-
+biertas con una fina película para reducir la
+pérdida de luz a causa de la reflexión. Para
+una lente común de cámara constituida por
+siete elementos, alrededor del 50% de la luz
+se perdería por la reflexión si las lentes no es-
+tuvieran cubiertas con estas finas películas.
+• En 1998, científicos del MIT fabricaron un es-
+pejo perfecto, es decir, con 100% de refle-
+xión. Un tubo alineado con este tipo de espe-
+jo transmitiría luz a grandes distancias mejor
+que las fibras ópticas.
+22.1 Frentes de onda 
+y rayos 706
+22.2 Reflexión 707
+22.3 Refracción 708
+22.4 Reflexión interna 
+total y fibras 
+ópticas
+717
+22.5 Dispersión 721
+Reflexión y refracción
+de la luz22
+V
+ivimos en un mundo visual, rodeados por atractivas imágenes, como la
+que se ve en la foto. La manera como se forman esas imágenes es algo que
+consideramos obvio, hasta que vemos algo que no resulta fácil de explicar.
+La óptica es el estudio de la luz y la visión. La visión humana requiere de la luz vi-
+sible, cuya longitud de onda va de 400 a 700 nm (véase la figura 20.23). Todas las
+ondas electromagnéticas comparten propiedades ópticas, como la reflexión y la
+refracción. La luz se comporta como una onda en su propagación (capítulo 24) y
+como una partícula (fotón) cuando interactúa con la materia.
+En este capítulo investigaremos los fenómenos ópticos básicos de reflexión, re-
+fracción, reflexión total interna y dispersión. Los principios que rigen la reflexión ex-
+plican el comportamiento de los espejos, mientras que los que rigen la refracción
+explican las propiedades de las lentes. Estos y otros principios nos permiten com-
+prender muchos fenómenos ópticos de la vida diaria: por qué un prisma de vidrio
+descompone la luz en un espectro de colores, qué provoca los espejismos, cómo se
+forman los arco iris y por qué parecen acortarse las piernas de una persona que está
+de pie dentro de un lago o una piscina. También explicaremos algunos asuntos me-
+nos familiares, como el campo fascinante de las fibras ópticas.
+Para investigar muchos aspectos de las propiedades de la luz, en especial la
+forma en que se propaga, se puede utilizar un método geométrico sencillo a base
+de líneas rectas y ángulos. Para estos fines no es necesario ocuparse de la natura-
+leza física (ondulatoria) de las ondas electromagnéticas, que se describió en el ca-
+pítulo 20. Los principios de la óptica geométrica se presentarán aquí y se apli-
+carán con más detalle en el capítulo 23, al estudiar los espejos y las lentes.
+HECHOS DE FÍSICA
+CAPÍTULO
+705
+
+Espejo
+ a)
+ b)
+N FIGURA 22.3 ¿Cómo es que vemos 
+los objetos? Los vemos porque a) los 
+rayos provenientes de ellos o b) los rayos
+que aparentan provenir de ellos entran 
+en nuestros ojos.
+Frentes planos de onda
+Rayos
+▲ FIGURA 22.2 Rayos de luz
+Una onda plana viaja en una 
+dirección perpendicular a sus
+frentes de onda. Un haz luminoso
+se puede representar con un 
+grupo de rayos paralelos (o con
+un solo rayo).
+Fuente puntual
+Onda
+l
+ a) 
+ b) 
+l
+Rayo
+Rayo
+Rayo
+Frentes
+de onda
+Frente
+de onda
+▲ FIGURA 22.1 Frentes de onda y
+rayos Un frente de onda se define
+por los puntos adyacentes de una 
+onda que están en fase, como las
+crestas o los valles. Una línea per-
+pendicular al frente de onda en la 
+dirección de la propagación de esta
+última se llama rayo. a) Cerca de una
+fuente puntual, los frentes de onda
+son circulares en dos dimensiones 
+y esféricos en tres dimensiones. 
+b) Muy lejos de una fuente puntual,
+los frentes de onda son aproximada-
+mente lineales o planos, mientras
+que los rayos son casi paralelos.
+706

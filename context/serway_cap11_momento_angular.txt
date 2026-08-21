@@ -1,0 +1,2970 @@
+Tema: Cantidad de movimiento angular (Capítulo 11 — Física para Ciencias e Ingeniería, Serway)
+
+Capítulo 11  Cantidad de movimiento angular
+Ahora se dará una definición formal del producto vectorial. Dados dos vectores cuales-
+quiera A
+S
+ y B
+S
+, el producto vectorial A
+S
+ 3 B
+S
+ se define como un tercer vector C
+S
+ , que tiene una 
+magnitud de AB sen u, donde u es el ángulo entre A
+S
+ y B
+S
+. Es decir, si C
+S
+ se conoce por
+ C
+S
+A
+S
+B
+S
+ (11.2)
+su magnitud es
+ C  /H11005 AB sen u (11.3)
+La canti dad AB sen u  es i gual al á rea del paralelogramo formado por A
+S
+ y B
+S
+, como se 
+muestra en la figura 11.2. La dirección de C
+S
+ es perpendicular al plano formado por A
+S
+ y B
+S
+,
+y la mejor forma de determinar esta dirección es usar la regla de la mano derecha, que 
+se ilustra en la figura 11.2. Los cuatro dedos de la mano derecha apuntan a lo largo de  
+A
+S
+ y luego “se enrollan” hacia B
+S
+ a través del ángulo u. La dirección del pulgar recto hacia 
+arriba es la dirección de A
+S
+ 3 B
+S
+ 5 C
+S
+. Debido a la notación, A
+S
+ 3 B
+S
+  con frecuencia se lee “
+A
+S
+ cruz B
+S
+”, por esto el término producto cruz.
+Algunas propiedades del producto vectorial que se siguen de su definición son:
+1. A diferencia del producto escalar, el producto vectorial no es conmutativo. En vez 
+de ello, el orden en que los dos vectores se multiplican en un producto cruz es im-
+portante:
+ A
+S
+B
+S
+B
+S
+A
+S
+ (11.4)
+ Por lo tanto, si  cambia el orden de los vectores en un producto cruz, debe cambiar el 
+signo. Esta correspondencia se verifica fácilmente con la regla de la mano derecha.
+2. Si A
+S
+ es paralelo a B
+S
+ (u /H11005 0 o 180°), en tal caso A
+S
+ 3 B
+S
+ /H11005 0; en consecuencia, se sigue 
+que A
+S
+ 3 A
+S
+ /H11005 0.
+3. Si A
+S
+ es perpendicular a B
+S
+, en tal caso 0A
+S
+ 3 B
+S
+0 /H11005 AB.
+4. El producto vectorial obedece la ley distributiva:
+ A
+S
+1B
+S
+C
+S
+2 A
+S
+B
+S
+A
+S
+C
+S
+ (11.5)
+5. La derivada del producto cruz respecto de alguna variable como t es
+ d
+dt 1A
+S
+B
+S
+2 dA
+S
+dt B
+S
+A
+S dB
+S
+dt  (11.6)
+ donde es importante mantener el orden multiplicativo de los términos en el lado 
+derecho a la vista de la ecuación 11.4.
+Se deja como ejercicio (problema 10) demostrar a partir de las ecuaciones 11.3 y 11.4, 
+y de la definición de vectores unitarios, que los productos cruz de los vectores unitarios iˆ,
+jˆ y kˆ obedecen las siguientes reglas:
+ iˆ iˆ jˆ jˆ kˆ kˆ 0  (11.7a)
+ iˆ jˆ jˆ iˆ kˆ  (11.7b)
+Productos cruz de 
+vectores unitarios
+/H17075
+Propiedades del 
+producto vectorial
+/H17075
+PREVENCIÓN DE RIESGOS 
+OCULTOS 11.1
+El producto cruz es un vector
+Recuerde que el resultado de 
+tomar un producto cruz entre 
+dos vectores es un tercer vector. 
+La ecuación 11.3 sólo da la 
+magnitud de este vector.
+Figura 11.2 El producto vectorial A
+S
+ 3 B
+S
+ es un tercer vector C
+S
+ que tiene una magnitud AB sen u igual 
+al área del paralelogramo que se muestra. La dirección de C
+S
+ es perpendicular al plano formado por A
+S
+ y 
+B
+S
+ y esta dirección está determinada por la regla de la mano derecha.
+Regla de la mano derecha
+/H11546C  /H11549  B  /H11547  A
+C  /H11549  A  /H11547  B
+A
+B
+u
+11_Cap_11_Serway(1).indd   312 2/23/08   1:44:40 AM
+
+jˆ kˆ kˆ jˆ iˆ  (11.7c)
+ kˆ iˆ iˆ kˆ jˆ  (11.7d)
+Los signos son intercambiables en los productos cruz. Por ejemplo, A
+S
+ 3(/H11002B
+S
+) /H11005 /H11002A
+S
+ 3 B
+S
+ 
+o iˆ 3 (/H11002 jˆ) /H11005 /H11002 iˆ 3 jˆ.
+El producto cruz de dos vectores cualesquiera A
+S
+ y B
+S
+ se expresa en la forma de deter-
+minantes siguiente:
+A
+S
+B
+S
+†
+iˆ jˆ kˆ
+Ax Ay Az
+Bx By Bz
+†` Ay Az
+By Bz
+` iˆ ` Az Ax
+Bz Bx
+` jˆ ` Ax Ay
+Bx By
+` kˆ
+Expandir estos determinantes da como resultado
+ A
+S
+B
+S
+1AyBz AzBy 2 iˆ 1AzBx AxBz 2 jˆ 1AxBy AyBx 2 kˆ  (11.8)
+Conocida la definición del producto cruz, ahora se puede asignar una dirección al vector 
+momento de torsión . Si la fuerza se encuentra en el plano xy, como en la fi gura 11.1, 
+el momento de torsión t
+S
+ se representa mediante un vector paralelo al eje z. La fuerza en 
+la figura 11.1 crea un momento de torsión que ti ende a dar vuelta al objeto contra las 
+manecillas del reloj en torno al eje z; la dirección de t
+S
+ es hacia z creciente, y por lo tanto 
+t
+S
+ está en la dirección z positiva. Si en la figura 11.1 se invierte la dirección de F
+S
+, t
+S
+ estaría 
+en la dirección z negativa.
+Pregunta rápida 11.1 ¿Cuál de los siguientes enunciados acerca de la correspondencia 
+entre la magni tud del producto cruz de dos vectores y el producto de las magni tudes 
+de los vectores es verdadero
+? a) 0 A
+S
+ 3 B
+S
+ 0 es mayor que AB. b) 0 A
+S
+ 3 B
+S
+ 0 es menor que AB. 
+c) 0 A
+S
+ 3 B
+S
+ 0 podría ser mayor o menor que AB, dependiendo del ángulo entre los vectores. 
+d) 0 A
+S
+ 3 B
+S
+ 0 podría ser igual a AB.
+ Sección 11.1  Producto vectorial y momento de torsión 313
+EJEMPLO 11.1 El producto vectorial
+Dos vectores que se encuentran en el plano xy se conocen por las ecuaci ones A
+S
+ /H11005 2iˆ /H11001 3 jˆ y B
+S
+ /H11005 /H11002iˆ /H11001 2 jˆ. Encuen-
+tre A
+S
+ 3 B
+S
+ y verifique que A
+S
+ 3 B
+S
+ /H11005 /H11002B
+S
+ 3 A
+S
+.
+SOLUCIÓN
+Conceptualizar Conocidas las notaci ones en vectores uni tarios de los vectores, pi ense en qué  direcciones apuntan los 
+vectores en el espacio. Imagine el paralelogramo que se muestra en la figura 11.2 para estos vectores.
+Categorizar Ya que se usa la defi nición del producto cruz expli cada en esta sección, este ejemplo se clasi fica como un 
+problema de sustitución.
+Escriba el producto cruz de los dos vectores: A
+S
+B
+S
+12 iˆ 3 jˆ 21 iˆ 2 jˆ 2
+Realice la multiplicación: A
+S
+B
+S
+2 iˆ 1 iˆ 2 2 iˆ 2 jˆ 3 jˆ 1 iˆ 2 3 jˆ 2 jˆ
+Aplique las ecuaciones de la 11.7a a la 11.7d para eva-
+luar los diversos términos:
+Para verificar que  A
+S
+ 3 B
+S
+ /H11005 /H11002B
+S
+ 3 A
+S
+, evalúe B
+S
+ 3 A
+S
+: B
+S
+A
+S
+1 iˆ 2 jˆ 21 2 iˆ 3 jˆ 2
+Realice la multiplicación: B
+S
+A
+S
+1 iˆ 2 2 iˆ 1 iˆ 2 3 jˆ 2 jˆ 2 iˆ 2 jˆ 3 jˆ
+A
+S
+B
+S
+04 kˆ 3kˆ 07 kˆ
+11_Cap_11_Serway(1).indd   313 2/23/08   1:44:42 AM
+
+314 Capítulo 11  Cantidad de movimiento angular
+Aplique las ecuaciones de la 11.7a a la 11.7d para evaluar 
+los diversos términos: 
+Por lo tanto, A
+S
+ 3 B
+S
+ /H11005 /H11002B
+S
+ 3 A
+S
+. Como un método alternativo para encontrar A
+S
+ 3 B
+S
+, podría usar la ecuación 11.8. ¡Inténtelo!
+EJEMPLO 11.2 El vector momento de torsión
+Una fuerza de F
+S
+ /H11005 (2.00iˆ /H11001 3.00jˆ) N se aplica a un objeto que es articulada en torno a un eje fijo alineado a lo largo del eje co-
+ordenado z. La fuerza se aplica a un punto ubicado en r
+S
+ /H11005 (4.00iˆ /H11001 5.00 jˆ) m. Encuentre el vector momento de torsión t
+S
+.
+SOLUCIÓN
+Conceptualizar Conocidas las notaciones en vectores unitarios, piense en las direcciones de los vectores fuerza y de posi-
+ción. Si esta fuerza se aplicara en esta posición, ¿en qué dirección giraría un objeto con eje en el origen?
+Categorizar Ya que se usa la definición del producto cruz explicado en esta sección, este ejemplo se clasi fica como un 
+problema de sustitución.
+Configure el vector momento de torsión con la ecua-
+ción 11.1:
+Realice la multiplicación: 
+15.0021 2.002 jˆ iˆ 15.0021 3.002 jˆ jˆ 4 N # m
+t
+S
+31 4.0021 2.002 iˆ iˆ 14.0021 3.002 iˆ jˆ
+Use las ecuaciones de la 11.7a a la 11.7d para evaluar los 
+diversos términos:
+Note que tanto r
+S
+ como F
+S
+ están en el plano xy. Como se esperaba, el vector momento de torsión es perpendicular a este 
+plano, y tiene sólo una componente z. Se siguieron las reglas para cifras significativas que se explicaron en la sección 1.6, 
+lo que condujo a una respuesta con dos cifras significativas. Se perdió algo de precisión porque se terminó por restar dos 
+números cercanos.
+Figura 11.3 Mientras la 
+patinadora pasa al lado del poste, 
+se sujeta de él, lo que la hace girar 
+rápidamente alrededor del poste 
+en una trayectoria circular.
+11.2  Cantidad de movimiento angular: 
+el sistema no aislado
+Imagine un poste recto, rígido y vertical a través del hielo en un lago helado (figura 11.3). 
+Una patinadora se desliza rápidamente hacia el poste, sin chocar con él. Conforme se acer-
+ca al poste, estira su mano y lo sujeta, una acción que la hace moverse en una trayectoria 
+circular alrededor del poste. Así como la idea de la cantidad de movimiento lineal ayuda 
+a analizar el movimiento traslacional, un análogo rotacional, la cantidad de movimiento an-
+gular, ayuda a analizar el movimiento de esta patinadora y otros objetos que experimentan 
+movimiento rotacional.
+En el capítulo 9 se desarrolló la forma matemática de la cantidad de movimiento lineal 
+y después se procedió a mostrar cómo esta nueva cantidad era valiosa en la resolución de 
+problemas. Para la cantidad de movimiento angular se seguirá un procedimiento similar.
+Considere una partícula de masa m ubicada en la posición vectorial r
+S
+ y móvil con can-
+tidad de movimiento lineal p
+S
+ como en la figura 11.4. Al describir el movimiento traslacio-
+nal se encontró que la fuerza neta en la partícula es igual a la relación de cambio en el 
+tiempo de su cantidad de movimiento lineal, © F
+S
+ /H11005 d p
+S
+/dt (véase la ecuación 9.3). Tome 
+el producto cruz de cada lado de la ecuación 9.3 con r
+S
+, lo que da el momento de torsión 
+neto en la partícula en el lado izquierdo de la ecuación:
+r
+S
+F
+S
+t
+S
+r
+S d p
+S
+dt
+B
+S
+A
+S
+03 kˆ 4kˆ 07 kˆ
+31 2.00 iˆ 3.00 jˆ 2 N4t
+S
+r
+S
+F
+S
+31 4.00 iˆ 5.00 jˆ 2 m4
+t
+S
+301 2 .0kˆ 10.0kˆ 04 N # m2 .0kˆ N # m
+11_Cap_11_Serway(1).indd   314 2/23/08   1:44:44 AM
+
+Ahora agregue al lado derecho el término (d r
+S
+/dt 3 p
+S
+), que es cero porque d r
+S
+/dt /H11005 v
+S
+ y 
+v
+S
+ y p
+S
+ son paralelos. En consecuencia
+t
+S
+r
+S dp
+S
+dt
+dr
+S
+dt p
+S
+El lado derecho de esta ecuación se reconoce como la derivada de r
+S
+ 3 p
+S
+ (véase la ecuación 
+11.6). Por lo tanto,
+ t
+S d 1r
+S
+p
+S
+2
+dt  (11.9)
+que es muy similar en forma a la ecuación 9.3, © F
+S
+ /H11005 dp
+S
+/dt. Este resultado sugiere que la 
+combinación r
+S
+ 3 p
+S
+ participa en la misma disertación, en el movimiento rotacional, así 
+como p
+S
+ en el movimiento traslacional. A esta combinación se le conoce como cantidad de 
+movimiento angular de la partícula:
+La cantidad de movimiento angular instantánea L
+S
+ de una partícula en relación con 
+un eje a travé s del ori gen O se defi ne medi ante el producto cruz del vector de 
+posición instantáneo de la partícula r
+S
+ y su cantidad de movimiento lineal instantá-
+nea p
+S
+:
+ L
+S
+r
+S
+p
+S
+ (11.10)
+Ahora la ecuación 11.9 se puede escribir como
+ t
+S dL
+S
+dt  (11.11)
+que es el análogo rotacional de la segunda ley de Newton © F
+S
+ /H11005 d p
+S
+/dt. El momento de 
+torsión hace que la cantidad de movimiento angular L
+S
+ cambie, tal como la fuerza hace que 
+cambie la cantidad de movimiento lineal p
+S
+. La ecuación 11.11 afirma que el momento de 
+torsión que actúa sobre una partícula es igual a la relación de cambio en el tiempo de la 
+cantidad de movimiento angular de la partícula.
+Note que la ecuación 11.11 sólo es válida si © t
+S
+ y L
+S
+ se miden en torno al mismo eje. 
+Además, la expresión es válida para cualquier eje fijo en un marco inercial.
+La unidad del SI de la cantidad de movimiento angular es kg /H11080 m2/s. Note también que 
+tanto la magnitud como la dirección de L
+S
+ dependen de la elección del eje. Al seguir la
+regla de la mano derecha, se ve que la dirección de L
+S
+ es perpendicular al plano que for-
+man r
+S
+ y p
+S
+. En la figura 11.4, r
+S
+ y p
+S
+ están en el plano xy, así que L
+S
+ apunta en la dirección z. 
+Ya que p
+S
+ /H11005 m v
+S
+, la magnitud de L
+S
+ es
+ L  /H11005 mvr sen f (11.12)
+donde f es el ángulo entre r
+S
+ y p
+S
+. Se sigue que L es cero cuando r
+S
+ es paralelo a p
+S
+ (f /H11005 0
+o 180°). En otras palabras, cuando la velocidad traslacional de la partícula es a lo largo de
+una línea que pasa a través del eje, la partícula tiene cantidad de movimiento angular cero 
+respecto al eje. Por otra parte, si r
+S
+ es perpendicular a p
+S
+ (f /H11005 90°), en tal caso L /H11005 mvr. En 
+dicho instante, la partícula se mueve exactamente como si estuviera en el borde de una 
+rueda giratoria en torno al eje en un plano definido por r
+S
+ y p
+S
+.
+Pregunta rápida 11.2 Recuerde a la pati nadora descrita al pri ncipio de esta sección . 
+Considere que su masa es m . i) ¿Cuál sería su canti dad de movi miento angular en rela-
+ción con el poste en el i nstante en que está  a una di stancia d del poste si  ella pati nara 
+directamente hacia él con rapidez v? a) cero, b) 
+mvd, c) imposible de determinar. ii) 
+¿Cuál sería su cantidad de movimiento angular en relación con el poste en el instante en 
+que está a una distancia d del poste si patinara con rapidez v a lo largo de una trayectoria 
+recta que está a una distancia perpendicular a desde el poste? a) cero, b) 
+mvd, c) mva, 
+d) imposible de determinar.
+ Sección 11.2  Cantidad de movimiento angular: el sistema no aislado  315
+PREVENCIÓN DE RIESGOS 
+OCULT
+OS 11.2
+¿La rotación es necesaria para la 
+cantidad de movimiento angular?
+Se puede definir cantidad de 
+movimiento angular incluso si 
+la partícula no se mueve en una 
+trayectoria circular. Aun cuando 
+una partícula se mueva en una 
+línea recta tiene cantidad de 
+movimiento angular en torno a 
+cualquier eje desplazado de la 
+trayectoria de la partícula.
+/H17076Cantidad de movimiento 
+angular de una partícula
+Figura 11.4 La cantidad de 
+movimiento angular L
+S
+ de una 
+partícula con cantidad de 
+movimiento lineal p
+S
+ ubicada 
+en la posición vectorial r
+S
+ es un 
+vector conocido por L
+S
+ /H11005 r
+S
+ 3 p
+S
+.
+El valor de L
+S
+ depende del eje en 
+torno al que se mida y es un vector 
+perpendicular tanto a 
+r
+S
+ como a p
+S
+.
+O
+z
+L /H11549r /H11547p
+m p
+y
+x
+r
+f
+11_Cap_11_Serway(1).indd   315 2/23/08   1:44:45 AM
+
+316 Capítulo 11  Cantidad de movimiento angular
+EJEMPLO 11.3 Cantidad de movimiento angular de una partícula en movimiento circular
+Una partícula se mueve en el plano xy en una trayectoria circular de radio r, como se 
+muestra en la figura 11.5. Encuentre la magnitud y dirección de su cantidad de mo-
+vimiento angular en relación con un eje a través de O cuando su velocidad es v
+S
+.
+SOLUCIÓN
+Conceptualizar La canti dad de movi miento li neal de la partí cula cambi a en 
+dirección (pero no en magnitud). Por lo tanto, debe estar tentado a concluir que 
+la cantidad de movimiento angular de la partícula siempre cambia. Sin embargo, 
+en esta situación, este no es el caso. Vea por qué.
+Categorizar Use la defi nición de la canti dad de movi miento angular de una 
+partícula expli cada en esta sección, así  que este ejemplo se clasi fica como un 
+problema de sustitución.
+Aplique la ecuación 11.12 para evaluar la magnitud 
+de L
+S
+:
+Este valor de L es constante porque los tres factores a la derecha son constantes. La dirección de L
+S
+ también es constante, aun 
+cuando la dirección de p
+S
+ /H11005 mv
+S
+ siga cambiando. Para verificar esta afirmación, aplique la regla de la mano derecha para encon-
+trar la dirección de L
+S
+ /H11005r
+S
+ 3 p
+S
+ /H11005 m r
+S
+ 3 v
+S
+ en la figura 11.5. Su pulgar apunta hacia arriba y se aleja de la página, así que esta es 
+la dirección de L
+S
+. En consecuencia, se puede escribir la expresión vectorial L
+S
+ /H11005 (mvr)kˆ. Si la partícula se moviera en sentido de 
+las manecillas del reloj, L
+S
+ apuntaría hacia abajo y adentro de la página y L
+S
+ /H11005 /H11002 (mvr)kˆ. Una partícula en movimiento circular 
+uniforme tiene una cantidad de movimiento angular constante en torno a un eje a través del centro de su trayectoria.
+Figura 11.5 (Ejemplo 11.3) Una partícula 
+móvil en un círculo de radio r tiene una 
+cantidad de movimiento angular en torno 
+a un eje a través de O que tiene magnitud 
+mvr. El vector L
+S
+ /H11005 r
+S
+ 3 p
+S
+ apunta hacia 
+afuera de la página.
+x
+y
+m
+v
+O
+r
+Cantidad de movimiento angular de un sistema de partículas
+En la sección 9. 6 se mostró  que la segunda ley de Newton para una partí cula se podí a 
+extender a un sistema de partículas, lo que resulta en
+F
+S
+ext
+dp
+S
+tot
+dt
+Dicha ecuación establece que la fuerza externa neta sobre un sistema de partículas es igual 
+a la rapidez de cambio en el tiempo de la cantidad de movimiento lineal total del sistema. 
+Vea si es posible hacer un enunciado similar para movimiento rotacional. La cantidad de 
+movimiento angular total de un sistema de partículas en torno a algún eje se define como la 
+suma vectorial de las cantidades de movimiento angulares de las partículas individuales:
+L
+S
+tot L
+S
+1 L
+S
+2 p L
+S
+n
+i
+L
+S
+i
+donde la suma vectorial es sobre las n partículas del sistema.
+La derivación de esta ecuación respecto al tiempo produce
+dL
+S
+tot
+dt i
+dL
+S
+i
+dt i
+t
+S
+i
+donde se usó  la ecuación 11. 11 para susti tuir la rapi dez de cambi o en el ti empo de la 
+cantidad de movimiento angular de cada partícula con el momento de torsión neto en 
+la partícula.
+Los momentos de torsión que actúan sobre las partículas del sistema son aquellos aso-
+ciados con fuerzas internas entre las partículas y aquellos asociados con fuerzas externas. 
+Sin embargo, el momento de torsión neto asociado con todas las fuerzas internas es cero. 
+Recuerde que la tercera ley de Newton dice que las fuerzas internas entre las partículas 
+del sistema son i guales en magni tud y opuestas en di rección. Si supone que estas fuer-
+zas se encuentran a lo largo de la línea de separación de cada par de partículas, el momen-
+to de torsión total alrededor de algún eje que pasa a través de un origen O debido a cada 
+L mvr sen 90°  mvr
+11_Cap_11_Serway(1).indd   316 2/23/08   1:44:48 AM
+
+par de fuerza acción–reacción es cero (es decir: el brazo de momento d, desde O hasta la 
+línea de acción de las fuerzas, es igual para ambas partículas y las fuerzas están en direc-
+ciones opuestas). Por lo tanto, en la suma el momento de torsión interno neto es cero. Se 
+concluye que la cantidad de movimiento angular total de un sistema varía con el tiempo 
+sólo si un momento de torsión externo neto actúa sobre el sistema:
+ 
+t 
+S
+ext
+dL
+S
+tot
+dt  (11.13)
+De hecho esta ecuación es el análogo rotacional de © F
+S
+ext /H11005 dp
+S
+tot/dt  para un sistema de 
+partículas. La ecuación 11.13 es la representación matemática de la versión de cantidad 
+de movimiento angular del modelo de sistema no aislado. Si un sistema no es aislado en 
+el sentido que existe un momento de torsión neto sobre él, el momento de torsión es igual
+a la rapidez de cambio en el tiempo de la cantidad de movimiento angular.
+Aunque no se comprueba en este caso, este enunci ado es verdadero si n importar el 
+movimiento del centro de masa. Incluso se aplica si el centro de masa acelera, siempre 
+que el momento de torsión y la cantidad de movimiento angular se evalúen en relación 
+con un eje a través del centro de masa.
+ Sección 11.2  Cantidad de movimiento angular: el sistema no aislado  317
+/H17076El momento de torsión 
+externo neto sobre un 
+sistema es igual a la 
+rapidez de cambio en el 
+tiempo de la cantidad de 
+movimiento angular del 
+sistema
+EJEMPLO 11.4 Un sistema de objetos
+Una esfera de masa m 1 y un bloque de masa m 2 están conectados mediante una 
+cuerda ligera que pasa sobre una polea, como se muestra en la figura 11.6. El radio 
+de la polea es R, y la masa del borde delgado es M. Los rayos de la polea tienen 
+masa despreciable. El bloque se desliza sobre una superficie horizontal sin fric-
+ción. Encuentre una expresión para la aceleración lineal de los dos objetos, con 
+los conceptos de cantidad de movimiento angular y momento de torsión.
+SOLUCIÓN
+Conceptualizar Cuando el sistema se libera, el bloque se desliza hacia la izquier-
+da, la esfera cae hacia abajo y la polea de vueltas contra las manecillas del reloj. 
+Esta situación es similar a problemas que se han resuelto con anterioridad, excepto 
+que ahora se quiere usar un planteamiento de cantidad de movimiento angular.
+Categorizar El bloque, la polea y la esfera se identifican como un sistema no ais-
+lado, sujeto al momento de torsión externo debido a la fuerza gravitacional en la esfera. Calcule la cantidad de movimiento 
+angular en torno a un eje que coincida con el eje de la polea. La cantidad de movimiento angular del sistema incluye la de 
+dos objetos (la esfera y el bloque)con movimiento traslacional  y un objeto (la polea) que se somete a rotación pura.
+Analizar En cualqu
+ier instante de tiempo, la esfera y el bloque tienen una rapidez común v, así que la cantidad de movi-
+miento angular de la esfera es m1vR y la del bloque es m2vR. Al mismo instante, todos los puntos sobre el borde de la polea 
+también se mueven con rapidez v, de modo que la cantidad de movimiento angular de la polea es MvR.
+Ahora aborde el momento de torsión externo total que actúa sobre el sistema en torno al eje de la polea. Ya que tiene un 
+brazo de momento cero, la fuerza que ejerce el eje sobre la polea no contribuye al momento de torsión. Además, la fuerza 
+normal que actúa sobre el bloque se equilibra mediante la fuerza gravitacional m2g
+S
+, así que dichas fuerzas no contribuyen 
+al momento de torsión. La fuerza gravitacional m1g
+S
+ que actúa sobre la esfera produce un momento de torsión en torno al 
+eje, igual en magnitud a m1gR, donde R es el brazo de momento de la fuerza en torno al eje. Este resultado es el momento 
+de torsión externo total en torno al eje de la polea; esto es, ©text = m1gR.
+Escriba una expresión para la cantidad de movimiento an-
+gular total del sistema:
+Sustituya esta expresión y el momento de torsión externo 
+total en la ecuación 11.13:
+Figura 11.6 (Ejemplo 11.4) 
+Cuando el sistema se libera, la esfera 
+se mueve hacia abajo y el bloque se 
+mueve hacia la izquierda.
+m2
+v
+v m1
+R
+1) L m1vR m 2vR MvR 1m1 m2 M2vR
+2) m1gR 1m1 m2 M 2R dv
+dt
+m1gR d
+dt 31 m1 m2 M 2vR4
+text
+dL
+dt
+11_Cap_11_Serway(1).indd   317 2/23/08   1:44:49 AM
+
+318 Capítulo 11  Cantidad de movimiento angular
+Al reconocer que dv/dt /H11005 a, resuelva la ecuación 2) para a: a  
+m1g
+m1 m2 M
+Finalizar Al evaluar el momento de torsión neto en torno al eje, no se incluyeron las fuerzas que la cuerda ejerce en los 
+objetos porque dichas fuerzas son internas al sistema en consideración. En vez de ello, el sistema se analizó como un todo. 
+Sólo los momentos de torsión externos
+ contribuyen al cambio en la cantidad de movimiento angular del sistema.
+Forma rotacional de la 
+segunda ley de Newton
+/H17075
+Figura 11.7 Cuando un objeto 
+rígido da vueltas en torno a un 
+eje, la cantidad de movimiento 
+angular L
+S
+ está en la misma 
+dirección que la velocidad angular 
+v
+S
+, de acuerdo con la expresión 
+L
+S
+ /H11005 I v
+S
+. 
+1 En general, la expresión L
+S
+ /H11005 I v
+S
+ no siempre es válida. S i un objeto rígido da vueltas en torno a un eje 
+arbitrario, por lo tanto L
+S
+ y v
+S
+ puede apuntar en diferentes direcciones. En este caso, el momento de inercia 
+no se trata como un escalar . En un sentido estricto, L
+S
+ /H11005 I v
+S
+ sólo se aplica a objetos rígidos de cualquier 
+forma que dan vueltas en torno a uno de tres ejes mutuamente perpendiculares (llamados ejes principales) 
+a través del centro de masa. Este concepto se explica en textos de mecánica más avanzados.
+y
+z
+L
+x
+mi
+r
+vi
+vv 11.3  Cantidad de movimiento angular 
+de un objeto rígido giratorio
+En el ejemplo 11. 4 se consi deró la canti dad de movi miento angular de un si stema de-
+formable. Ahora la atención se restringe a un sistema no deformable, un objeto rígido. 
+Considere un objeto rígido giratorio en torno a un eje fijo que coincide con el eje z de un 
+sistema coordenado, como se muestra en la figura 11.7. Determine la cantidad de movi-
+miento angular de este objeto. Cada partícula del objeto da vueltas en el plano xy en torno 
+al eje z con una rapidez angular v. La magnitud de la cantidad de movimiento angular 
+de una partícula de masa m
+i en torno al eje z es miviri. Ya que vi /H11005 riv (ecuación 10.10), la 
+magnitud de la cantidad de movimiento angular de esta partícula se expresa como
+Li mi ri 2v
+El vector L
+S
+i se dirige a lo largo del eje z, como el vector v
+S
+.
+Ahora se puede encontrar la cantidad de movimiento angular (que en esta situación 
+sólo tiene una componente z) de todo el objeto al tomar la suma de Li sobre todas las 
+partículas:
+ Lz Iv
+Lz
+i
+Li
+i
+m i ri 2v a
+i
+m i ri 2 b v
+ (11.14)
+donde 
+i
+ miri 2 es el momento de inercia I del objeto en torno al eje z (ecuación 10.15).
+Ahora derive la ecuación 11.14 respecto al tiempo, y note que I es constante para un 
+objeto rígido:
+ dLz
+dt I dv
+dt Ia  (11.15)
+donde a es la aceleración angular relati va al eje de rotación . Ya que dLz/dt es i gual al 
+momento de torsión externo neto (véase la ecuación 11.13), la ecuación 11.15 se expresa 
+como
+ text Ia  (11.16)
+Esto es, el momento de torsión externo neto que actúa sobre un objeto rígido giratorio 
+en torno a un eje fijo es igual al momento de inercia en torno al eje de rotación multipli-
+cado por la aceleración angular del objeto en relación con dicho eje. Este resultado es el 
+mismo que en la ecuación 10.21, que fue deducido con el uso de un planteamiento de 
+fuerza, pero la ecuación 11.16 se dedujo mediante el concepto de cantidad de movimiento 
+angular. Esta ecuación también es válida para un objeto rígido giratorio en torno a un eje 
+móvil siempre que el eje en movimiento 1) pase a través del centro de masa y 2) sea un 
+eje de simetría.
+Si un objeto simétrico da vueltas en torno a un eje fijo que pasa a través de su centro 
+de masa, puede escribir la ecuación 11.14 en forma vectorial como 
+L
+S
+ /H11005 I v
+S
+, donde L
+S
+ es la 
+cantidad de movimiento angular total del objeto medida respecto al eje de rotación. Ade-
+más, la expresión es válida para cualquier objeto, sin importar su simetría, si 
+L
+S
+ representa 
+la componente de cantidad de movimiento angular a lo largo del eje de rotación.1
+11_Cap_11_Serway(1).indd   318 2/23/08   1:44:50 AM
+
+Pregunta rápida 11.3 Una esfera sólida y una esfera hueca tienen la misma masa y radio. 
+Ambas giran con la misma rapidez angular. ¿Cuál tiene la mayor cantidad de movimiento 
+angular? a) la esfera sólida, b) la esfera hueca, 
+c) ambas tienen la misma cantidad de 
+movimiento angular, d) imposible de determinar .
+ Sección 11.3  Cantidad de movimiento angular de un objeto rígido giratorio  319
+EJEMPLO 11.5 Bola de boliche
+Estime la magnitud de la cantidad de movimiento angular de una bola de boliche que gira 
+a 10 rev/s, como se muestra en la figura 11.8.
+SOLUCIÓN
+Conceptualizar Imagine girar una bola de boliche sobre el suelo uniforme de un boliche. 
+Ya que una bola de boliche es relativamente pesada, la cantidad de movimiento angular 
+debe ser relativamente grande.
+Categorizar La canti dad de movi miento angular se evalú a con la ecuación 11. 14, de 
+modo que este ejemplo se clasifica como un problema de sustitución.
+Comience por hacer algunas estimaciones de los parámetros físicos relevantes y modele 
+la bola como una esfera sólida uniforme. Una bola de boliche representativa puede tener 
+una masa de 7.0 kg y un radio de 12 cm.
+Evalúe el momento de inercia de la bola en torno a 
+un eje a través de su centro, a partir de la tabla 10.2:
+Evalúe la magni tud de la canti dad de movi miento 
+angular de la ecuac
+ión 11.14:
+Debido a lo burdo de las estimaciones, sólo se debe conservar una cifra significativa, así que Lz /H11005  3 kg /H11080 m2/s
+EJEMPLO 11.6 El sube y baja
+Un padre de masa mf y su hija de masa md se sientan en extremos opuestos de un sube y baja 
+a iguales distancias desde el eje en el centro (figura 11.9). El sube y baja se modela como 
+una barra rígida de masa M y longitud /H5129 y se articula sin fricción. En cierto momento, la 
+combinación da vueltas en un plano vertical con una rapidez angular v.
+A) Encuentre una expresión para la magnitud de la cantidad de movimiento angular del 
+sistema.
+SOLUCIÓN
+Conceptualizar Imagine un eje de rotación que pasa a través del eje en O en la figura 
+11.9. El sistema giratorio tiene cantidad de movimiento angular en torno a dicho eje.
+Categorizar Ignore cualquier movimiento de los brazos o piernas del padre y la hija y 
+represéntelos como partículas. Por lo tanto, el sistema se modela como un objeto rígido. 
+Esta primera parte del ejemplo se clasifica como un problema de sustitución.
+El momento de inercia del sistema es igual a la suma de los momentos de inercia de las tres componentes: el sube y baja 
+y los dos individuos. Se puede remitir a la tabla 10.2 para obtener la expresión para el momento de inercia de la barra y usar 
+la expresión de partícula I /H11005 mr
+2 para cada persona.
+Figura 11.8 (Ejemplo 11.5) Una 
+bola de boliche que da vueltas en 
+torno al eje z en la dirección que 
+se muestra tiene una cantidad 
+de movimiento angular L
+S
+ en la 
+dirección z positiva. Si la dirección 
+de rotación se invierte, L
+S
+ apunta 
+en la dirección z negativa.
+Lz Iv 10.040 kg # m2 21 10 rev>s 21 2p rad>rev 2 2.53 kg # m2>s
+I 2
+5MR2 2
+5
+17.0 kg21 0.12 m22 0.040 kg # m2
+Figura 11.9 (Ejemplo 11.6) Un 
+padre y su hija demuestran la 
+cantidad de movimiento angular 
+sobre un sube y baja.
+z
+y
+L
+x
+mf g
+/H5129
+O
+y
+xu
+mdg
+11_Cap_11_Serway(1).indd   319 2/23/08   1:44:51 AM
+
+320 Capítulo 11  Cantidad de movimiento angular
+Encuentre el momento de i nercia total del si stema en 
+torno al eje z a través de O :
+Encuentre la magni tud de la canti dad de movi miento 
+angular del sistema:
+B) Encuentre una expresión para la magnitud de la aceleración angular del sistema cuando el sube y baja forma un ángulo 
+u con la horizontal.
+SOLUCIÓN
+Conceptualizar Por lo general, los padres son más pesados que las hijas, así que el sistema no está en equilibrio y tiene 
+una aceleración angular. Se espera que la aceleración angular sea positiva en la figura 11.9.
+Categorizar El sistema se identifica como no aislado debido al momento de torsión externo asociado con la fuerza gravi-
+tacional. De nuevo se identifica un eje de rotación que pasa a través del pivote en O en la figura 11.9.
+Analizar Para encontrar la aceleración angular del sistema en cualquier ángulo u, primero calcule el momento de torsión 
+neto sobre el sistema y luego use © t
+ext /H11005 Ia para obtener una expresión para a.
+Evalúe el momento de torsión debido a la fuerza gravita-
+cional sobre el padre:
+Evalúe el momento de torsión debido a la fuerza gravita-
+cional sobre la hija:
+Evalúe el momento de torsión neto ejerci do sobre el si s-
+tema: 
+Use la ecuación 11.16 e I del inciso A) para encontrar a: a
+text
+I
+2 1mf md 2g cos u
+/ 31 M>32 mf md 4
+Finalizar Para un padre má s pesado que su hi ja, la aceleración angular es posi tiva, como se esperaba.  Si el sube y baja 
+comienza con una orientación horizontal (u /H11005 0) y se libera, la rotación es contra las manecillas del reloj en la figura 11.9 
+y el extremo del padre del sube y baja cae, lo que es consistente con la experiencia cotidiana.
+¿Qué pasaría si? Imagine que el padre se mueve hacia adentro del sube y baja a una distancia d desde el eje para intentar 
+equilibrar los dos lados. ¿Cuál es la aceleración angular del sistema en este caso, cuando se libera desde un ángulo arbitra-
+rio u ?
+Respuesta La aceleración angular del sistema debe disminuir si el sistema está más equilibrado.
+Encuentre el momento de inercia total en torno al eje z a 
+través de O para el sistema modificado:
+Encuentre el momento de torsión neto ejercido sobre el 
+sistema en torno a un eje a través de O :
+Encuentre la nueva aceleración angular del sistema: a
+text
+I
+mf gd cos u 1
+2md g / cos u
+1/2>423 1 M>32 md 4 mf d2
+El sube y baja se equilibra cuando la aceleración angular es cero. En esta situación, tanto padre como hija pueden empujar 
+desde el suelo y elevarse al punto más alto posible.
+L Iv /2
+4 a M
+3 mf md b v
+I 1
+12M/2 mf a /
+2 b
+2
+md a /
+2 b
+2 /2
+4 a M
+3 mf md b
+tf mf g /
+2 cos u 1t
+S
+f afuera de la página2
+td md g /
+2 cos u 1t
+S
+d hacia la página2
+text tf td
+1
+2 1mf md 2g / cos u
+I 1
+12M/2 mf d2 md a /
+2 b
+2 /2
+4 a M
+3 md b mf d2
+text tf td mf gd cos u 1
+2
+md g/ cos u
+11_Cap_11_Serway(1).indd   320 2/23/08   1:44:52 AM
+
+Encuentre la posición requerida del padre al hacer a /H11005 0:
+En el raro caso en que el padre y la hija tengan la misma masa, el padre se ubica el final del sube y baja, d /H11005 /H5129/2.
+ Sección 11.4  El sistema aislado: conservación de cantidad de movimiento angular  321
+/H17076Conservación de 
+cantidad de movimiento 
+angular
+m
+f gd cos u 1
+2md g/ cos u 0 S d a md
+mf
+b 1
+2
+/
+a
+mf gd cos u 1
+2
+mdg / cos u
+1/2>4231 M>32 md 4 mf d2 0
+Figura 11.10 La cantidad de 
+movimiento angular se conserva 
+mientras el patinador artístico 
+ruso, Evgeni Plushenko, participa 
+durante los Campeonatos 
+Mundiales de Patinaje Artístico 
+2004. Cuando sus brazos y piernas 
+están cerca de su cuerpo, su 
+momento de inercia es pequeño y 
+su rapidez angular es grande. Para 
+frenar al final de su giro, mueve 
+brazos y piernas hacia afuera, lo 
+que aumenta su momento de 
+inercia.
+11.4  El sistema aislado: conservación 
+de cantidad de movimiento angular
+En el capí tulo 9 se encontró  que la canti dad de movi miento lineal total de un si stema 
+de partículas permanece constante si el sistema está a islado; es decir, si la fuerza externa 
+neta que actúa sobre el sistema es cero. Se tiene una ley de conservación análoga en el 
+movimiento rotacional:
+La cantidad de movimiento angular total de un sistema es constante tanto en mag-
+nitud como en dirección si el momento de torsión externo neto que actúa sobre el 
+sistema es cero, es decir, si el sistema está aislado.
+Este enunciado es el principio de conservación de cantidad de movimiento angular y es la 
+base de la versión de cantidad de movimiento angular del modelo de sistema aislado. Este 
+principio se sigue directamente de la ecuación 11.13, que indica que si
+ 
+t
+S
+ext
+dL
+S
+tot
+dt 0  (11.17)
+por lo tanto
+ L
+S
+tot constante o L
+S
+i L
+S
+f  (11.18)
+Para un si stema aislado que consi ste en algunas partí culas, esta ley de conservación se 
+escribe como L
+S
+tot /H11005 © L
+S
+n  /H11005 constante, donde el índice n denota la n–ésima partícula en 
+el sistema.
+Si un sistema giratorio aislado es deformable, de modo que su masa se somete a redis-
+tribución en alguna forma, el momento de inercia del sistema cambia. Ya que la magnitud 
+de la cantidad de movimiento angular del sistema es L = Iv (ecuación 11.14), la conserva-
+ción de la cantidad de movimiento angular requiere que el producto de I y v permanezca 
+constante. Por lo tanto, un cambio en I para un sistema aislado requiere un cambio en v. 
+En este caso, el principio de conservac
+ión de cantidad de movimiento angular se expresa 
+como
+ Ii vi /H11005 If vf /H11005 constante (11.19)
+Esta expresión es vá lida tanto para rotación en torno a un eje fi jo, como para rotación 
+en torno a un eje a través del centro de masa de un sistema móvil en tanto dicho eje per-
+manezca fijo en la dirección. S ólo se requiere que el momento de torsión externo neto 
+sea cero.
+Muchos ejemplos demuestran conservación de cantidad de movimiento angular para 
+un sistema deformable. Usted ha observado a un patinador artístico girar al final de un 
+programa (figura 11.10). La rapidez angular del patinador es grande cuando sus manos 
+y pies están cerca del tronco de su cuerpo. S i se ignora la fricción entre el patinador y el 
+hielo, no existen momentos de torsión externos sobre el patinador. El momento de inercia 
+de su cuerpo aumenta mientras sus manos y pies se mueven alejándose de su cuerpo al 
+final del giro. De acuerdo con el principio de conservac
+ión de la cantidad de movimiento 
+angular, su rapi dez angular debe di sminuir. En forma si milar, cuando los clavadi stas o 
+acróbatas quieren hacer piruetas, jalan manos y pies cerca de su cuerpo para que dé vuelta 
+/L55039Stuart Franklin/Getty Images
+/L55039Stuart Franklin/Getty Images
+11_Cap_11_Serway(1).indd   321 2/23/08   1:44:53 AM
+
+322 Capítulo 11  Cantidad de movimiento angular
+a una rapidez mayor, como en la fotografía de apertura de este capítulo. En estos casos, 
+la fuerza externa debida a la gravedad actúa a través del centro de masa y, por tanto, no 
+ejerce momento de torsión en torno a un eje a través de este punto. En consecuencia, las 
+cantidades de momento angular en torno al centro de masa debe conservarse; es decir, 
+I
+i vi /H11005 If vf . Por ejemplo, cuando los clavadistas quieren duplicar su rapidez angular, deben 
+reducir su momento de inercia a la mitad de su valor inicial.
+En la ecuación 11.18 se tiene una tercera versión del modelo de sistema aislado. Ahora 
+se puede afirmar que la energía, la cantidad de movimiento lineal y la cantidad de movi-
+miento angular de un sistema aislado se conservan.
+Para un sistema aislado •
+E
+i Ef 1si no hay transferencia de energía2
+p
+S
+i p
+S
+f 1si la fuerza externa neta es cero2
+L
+S
+i L
+S
+f 1si el momento de torsión externo neto es cero2
+Pregunta rápida 11.4 Una clavadi sta salta del trampolí n y cae haci a el agua con el
+cuerpo recto y en rotación lenta.  Jala sus brazos y pi ernas hacia una apretada posi ción 
+plegada. i) ¿Qué le ocurre a su rapidez angular? a) Aumenta. b) Disminuye. c) Permanece 
+igual. d) Es imposible determinar . ii) De la misma lista de opciones, ¿qué le sucede a la 
+energía cinética rotacional de su cuerpo?
+EJEMPLO 11.7 Formación de una estrella de neutrones
+Una estrella da vueltas con un periodo de 30 días en torno a un eje a través de su centro. Después de que la estrella expe-
+rimenta una explosión supernova, el núcleo estelar, que tiene un radio de 1.0 /H11003 10
+4 km, colapsa en una estrella de neutrones 
+de 3.0 km de radio. Determine el periodo de rotación de la estrella de neutrones.
+SOLUCIÓN
+Conceptualizar El cambio en el movimiento de la estrella de neutrones es similar al del patinador descrito anteriormente, 
+pero en dirección inversa. Conforme la masa de la estrella se acerca al eje de rotación, se espera que la estrella gire más 
+rápido.
+Categorizar Suponga que durante el colapso del nú cleo estelar, 1) no actú a momento de torsión externo sobre é l, 
+2) permanece esférico con la misma distribución de masa relativa y 3) su masa permanece constante. La estrella se clasifica 
+como un sistema aislado. No se conoce la distribución de masa de la estrella, pero se supuso que la distribución es simétrica, 
+así que el momento de inercia se expresa como kMR 2, donde k es alguna constante numérica. (De la tabla 10.2, por ejemplo, 
+se ve que k /H11005 2
+5 para una esfera sólida y k /H11005 2
+3 para un cascarón esférico.)
+Analizar Use el símbolo T para el periodo, con Ti como el periodo inicial de la estrella y Tf como el periodo de la estrella 
+de neutrones. El periodo es el intervalo de tiempo que se requiere para que un punto sobre el ecuador de la estrella dé una 
+revolución completa alrededor del eje de rotación. La rapidez angular de la estrella se conoce por v /H11005 2p/T.
+Escriba la ecuación 11.19 para la estrella: I
+i vi If vf
+Use v /H11005 2p/T para reescribir esta ecuación en términos de 
+los periodos inicial y final:
+Sustituya los momentos de i nercia en la ecuación prece-
+dente:
+Resuelva para el periodo final de la estrella: T
+f a
+Rf
+Ri
+b
+2
+Ti
+Ii a 2p
+Ti
+b If a 2p
+Tf
+b
+kMRi
+2 a 2p
+Ti
+b kMRf
+2 a 2p
+Tf
+b
+11_Cap_11_Serway(1).indd   322 2/23/08   1:44:54 AM
+
+Sustituya valores numéricos: Tf a 3.0 km
+1.01 0 4 km b
+2
+130 días 2 2.71 0 6 días  0.23 s
+Finalizar De hecho la estrella de neutrones da vuelta más rápido después de que colapsa, como se predijo. Se mueve muy 
+rápido; de hecho, gira aproximadamente cuatro veces cada segundo.
+ Sección 11.4  El sistema aislado: conservación de cantidad de movimiento angular  323
+EJEMPLO 11.8 El carrusel
+Una plataforma horizontal con la forma de un disco da vueltas libremente en un 
+plano horizontal en torno a un eje vertical sin fricción (figura 11.11). La platafor-
+ma tiene una masa M /H11005 100 kg y un radio R /H11005 2.0 m. Una estudiante, cuya masa 
+es m /H11005 60 kg, camina lentamente desde el borde del disco hacia su centro. Si la ra-
+pidez angular del sistema es 2.0 rad/s cuando el estudiante está en el borde, ¿cuál 
+es la rapidez angular cuando alcanza un punto r /H11005 0.50 m desde el centro?
+SOLUCIÓN
+Conceptualizar El cambio de rapi dez en este caso es si milar al del pati nador 
+que gira y a la estrella de neutrones en los ejemplos precedentes. Este problema 
+es diferente porque parte del momento de inercia del sistema cambia (el de la 
+estudiante) mientras la otra parte permanece fijo (el de la plataforma).
+Categorizar Ya que la plataforma da vueltas sobre un eje sin fricción, el sistema 
+de la estudiante y la plataforma se identifica como un sistema aislado.
+Analizar Denote el momento de i nercia de la plataforma como I
+p y el de la 
+estudiante como Is. La estudiante se modela como partícula.
+Encuentre el momento de inercia inicial Ii del sistema (es-
+tudiante más plataforma) en torno al eje de rotación:
+Encuentre el momento de i nercia del si stema cuando la 
+estudiante camina a la posición r /H11021 R :
+Aplique la ley de conservación de cantidad de movimiento 
+angular al sistema:
+Sustituya los momentos de inercia: 1
+1
+2 MR2 mR2 2vi 11
+2MR2 mr2 2vf
+Resuelva para la rapidez angular final: vf a
+1
+2
+MR2 mR2
+1
+2
+MR2 mr2 b vi
+Sustituya valores numéricos: 
+vf a
+440 kg # m2
+215 kg # m2 b1 2.0 rad>s 2  4.1 rad>s 
+vf c
+1
+2
+1100 kg21 2.0 m22 160 kg21 2.0 m22
+1
+2
+1100 kg21 2.0 m22 160 kg21 0.50 m22 d1 2.0 rad>s 2
+Finalizar Como se esperaba, la rapi dez angular aumenta.  Lo má s rápido que este si stema podría girar sería cuando la 
+estudiante se mueve al centro de la plataforma.  Haga este cá lculo para demostrar que esta rapi dez angular má xima es 
+4.4 rad/s. Note que la acti vidad descrita en este problema es de cui dado, como se expli có en relación con la fuerza de 
+Coriolis en la sección 6.3.
+Figura 11.11 (Ejemplo 11.8) Conforme 
+la estudiante camina hacia el centro de la 
+plataforma giratoria, la rapidez angular 
+del sistema aumenta porque la 
+cantidad de movimiento angular del 
+sistema permanece constante.
+m
+M
+R
+Ii Ipi Isi
+1
+2MR2 mR2
+If Ipf Isf
+1
+2
+MR2 mr2
+Ii vi If vf
+11_Cap_11_Serway(1).indd   323 2/23/08   1:44:54 AM
+
+324 Capítulo 11  Cantidad de movimiento angular
+¿Qué pasaría si? ¿Y si usted mide la energía cinética del sistema antes y después de que la estudiante camine hacia adentro? 
+¿La energía cinética inicial y la energía cinética final son iguales?
+Respuesta Es posible que esté tentado a decir que sí, porque el sistema está aislado. Sin embargo, recuerde que la energía 
+se puede transformar de varias maneras, así que debe tener cuidado ante una pregunta de energía.
+Encuentre la energía cinética inicial: K
+i
+1
+2Ii vi 2 1
+2
+1440 kg # m2 21 2.0 rad>s 22 880 J
+Encuentre la energía cinética final: Kf
+1
+2
+If vf 2 1
+2
+1215 kg # m2 21 4.1 rad>s 22 1.81 10 3 J
+Por lo tanto, la energía cinética del sistema aumenta. La estudiante debe realizar trabajo para moverse ella misma más hacia 
+al centro de rotación, así que esta energía cinética adicional viene de la energía potencial química en el cuerpo de la estu-
+diante.
+EJEMPLO 11.9 Colisión de disco y bastón
+Un disco de 2.0 kg, que viaja a 3.0 m/s, golpea un bastón de 1.0 kg y 4.0 m de 
+longitud que se encuentra plano sobre hielo casi s in fricción, como se muestra 
+en la vista superior de la figura 11.12a. Suponga que la colisión es elástica y que 
+el disco no se desví a de su lí nea de movi miento original. Encuentre la rapi dez 
+traslacional del disco, la rapidez traslacional del bastón y la rapidez angular del 
+bastón después de la colisión. El momento de inercia del bastón en torno a su 
+centro de masa es 1.33 kg /H11080 m
+2.
+SOLUCIÓN
+Conceptualizar Examine la figura 11.12a e imagine lo que sucede después de 
+que el disco golpea el bastón. La figura 11.12b muestra lo que puede esperar: el 
+disco continúa moviéndose con una rapidez más lenta y el bastón está tanto en 
+movimiento traslacional como rotacional. Suponga que el disco no se desvía de 
+su línea de movimiento original porque la fuerza que ejerce el bastón sobre el 
+disco es paralela a la trayectoria original del disco.
+Categorizar Ya que el hi elo no ti ene fricción, el di sco y el bastó n forman un 
+sistema aislado. Además, ya que la colisión se supuso elástica, la energía, la can-
+tidad de movimiento lineal y la cantidad de movimiento angular del sistema se 
+conservan
+.
+Analizar Note primero que se tienen tres incógnitas, así que se requieren tres 
+ecuaciones para resolver simultáneamente.
+Aplique al si stema la ley de conservación de canti dad de 
+movimiento lineal:
+Sustituya los valores conocidos: 12.0 kg21 3.0 m>s 2 12.0 kg2vdf 11.0 kg2vs
+Reordene la ecuación: 1) 6.0 kg # m>s 12.0 kg2vdf 11.0 kg2vs
+Ahora aplique la ley de conservación de cantidad de movimiento angular para el sistema y use un eje que pase a través del 
+centro del bastón como eje de rotación. La componente de cantidad de movimiento angular del disco a lo largo del eje per-
+pendicular al plano del hielo es negativa. (La regla de la mano derecha muestra que L
+S
+d apunta hacia dentro del hielo.)
+Aplique conservación de cantidad de movimiento angular al sistema: rmdvdi rmdvdf Iv
+Figura 11.12 (Ejemplo 11.9) Vista 
+superior de un disco que golpea un 
+bastón en una colisión elástica. a) Antes 
+de la colisión, el disco se mueve hacia el 
+bastón. b) La colisión hace que el bastón 
+dé vuelta y se mueva a la derecha.
+mdvdi mdvdf msvs
+Después
+vs
+vdf
+Antes
+2.0 m
+vdi /H11005 3.0 m/s
+a)
+b)
+v
+11_Cap_11_Serway(1).indd   324 2/23/08   1:44:55 AM
+
+Sustituya los valores conocidos: 
+12 kg # m2>s 14.0 kg # m 2vdf 11.33 kg # m2 2v
+12.0 m21 2.0 kg21 3.0 m>s 21 2.0 m21 2.0 kg2vdf 11.33 kg # m2 2v
+Divida la ecuación entre 
+1.33 kg /H11080 m2 y reordene:
+Por último, la naturaleza elástica de la colisión dice que la energía cinética del sistema se conserva; en este caso, la energía 
+cinética consiste en formas traslacional y rotacional.
+Aplique conservación de energía 
+cinética al sistema:
+Sustituya los valores conocidos: 
+1
+2 12.0 kg21 3.0 m>s 22 1
+2 12.0 kg2vdf
+2 1
+2
+11.0 kg2vs
+2 1
+2
+11.33 kg # m2 2v2
+ 3) 18 m 2>s2 2.0vdf
+2 vs
+2 11.33 m2 2v2
+Resuelva las ecuaciones 1), 2) y 3) simultáneamente, se encuentra que vd 2.3 m/s, vs 1.3 m/s, y  v 2.0 rad/s.
+Finalizar Estos valores parecen razonables. El disco se mueve con más lentitud, después de la colisión, de lo que se movía 
+antes de la colisión, y el bastón tiene una pequeña rapidez traslacional. La tabla 11.1 resume los valores inicial y final de 
+las variables para el disco y el bastón, y verifica la conservación de cantidad de movimiento lineal, cantidad de movimiento 
+angular y energía cinética del sistema.
+ Sección 11.4  El sistema aislado: conservación de cantidad de movimiento angular  325
+2) 9.0 rad>s 13.0 rad>m 2vdf v
+1
+2mdvdi
+2 1
+2mdvdf
+2 1
+2
+msvs
+2 1
+2
+Iv2
+¿Qué pasaría si? ¿Y si la colisión entre el disco y el bastón es perfectamente inelástica? ¿Cómo cambia eso al análisis?
+Respuesta En este caso, el disco se adhiere al final del bastón durante la colisión.
+Altere el principio de conservación de la cantidad de movi-
+miento lineal que conduce a la ecuación 1):
+Elija el centro del bastón como el origen y encuentre la po-
+sición y del centro de masa a lo largo del bastón vertical:
+Por lo tanto, el centro de masa del sistema es 2.0 m /H11002 1.33 m /H11005 0.67 m desde el extremo superior del bastón.
+TABLA 11.1
+Comparación de valores en el ejemplo 11.9 antes y después de la colisión
+ v(m/s) v(rad/s) p(kg # m/s) L(kg # m2/s) K trans( J) K rot( J)
+Antes
+Disco 3.0 /H5007 6 .0 /H1100212 9.0 /H5007
+Bastón 0 0 0 0 0 0
+Total para /H5007 /H5007 6.0 /H1100212 9.0 0
+el sistema
+Después
+Disco 2.3 /H5007 4 .7 /H110029.3 5.4 /H5007
+Bastón 1.3 /H110022.0 1.3 /H110022.7 0.9 2.7
+Total para  /H5007  /H5007  6.0 /H1100212 6.3 2.7
+el sistema
+Nota: La cantidad de movimiento lineal, la cantidad de movimiento angular y la energía cinética total del 
+sistema se conservan.
+vCM 2.0 m>s
+12.0 kg21 3.0 m>s 21 2.0 kg 1.0 kg 2vCM
+mdvdi 1md ms 2vCM
+yCM
+12.0 kg21 2.0 m21 1.0 kg21 02
+12.0 kg 1.0 kg 2 1.33 m
+11_Cap_11_Serway(1).indd   325 2/23/08   1:44:56 AM
+
+326 Capítulo 11  Cantidad de movimiento angular
+Altere el principio de conservación de canti-
+dad de movimiento angular que conduce a 
+la ecuación 2) y evalúe las cantidades de mo-
+vimiento angular en torno a un eje que pase 
+a través del centro de masa del sistema:
+Encuentre el momento de inercia del bastón 
+en torno al centro de masa del sistema, a par-
+tir del teorema de ejes paralelos:
+Use estos resultados en la ecuación 4): 
+v
+4.0 kg # m2>s
+4.0 kg # m2 1.0 rad>s
+4.0 kg # m2>s 14.0 kg # m2 2v
+10.67 m21 2.0 kg21 3.0 m>s 23 1 2.0 kg21 0.67 m22 4v 13.1 kg # m2 2v
+Evaluar la energía cinética total del sistema después de la colisión muestra que ésta es menor de lo que era antes de la coli-
+sión, porque en una colisión inelástica no se conserva la energía cinética.
+Movimiento de precesión /H17075
+Figura 11.13 Movimiento de 
+precesión de un trompo que gira 
+en torno a su eje de simetría. a) 
+Las únicas fuerzas externas que 
+actúan en el trompo son la fuerza 
+normal n
+S
+ y la fuerza gravitacional 
+M g
+S
+. La dirección de la cantidad 
+de movimiento angular L
+S
+ es a lo 
+largo del eje de simetría. La regla 
+de la mano derecha indica que 
+t
+S
+ /H11005 r
+S
+ 3 F
+S
+ /H11005 r
+S
+ 3 M g
+S
+ está en el 
+plano xy. b) La dirección de /H9004L
+S
+ es 
+paralela a la de t
+S
+ en a). Ya que 
+L
+S
+f /H11005 /H9004L
+S
+ /H11001 L
+S
+i, el trompo precede 
+en torno al eje z.
+L
+CM
+O
+y
+z
+M g
+x
+n a)
+ 
+b)
+/H9004L
+Li
+Lf
+r
+/H9270
+11.5  El movimiento de giroscopios y trompos
+Una clase de movimiento insólito y fascinante que probablemente ha observado es el de 
+un trompo que gira en torno a su eje de simetría, como se muestra en la figura 11.13a. 
+Si el trompo gira rápidamente, el eje de simetría da vueltas en torno al eje z, barriendo 
+un cono (véase la figura 11.13b). El movimiento del eje de simetría en torno a la vertical, 
+conocido como movimiento de precesión, por lo general es lento en relación con el mo-
+vimiento de giro del trompo.
+Es muy natural preguntar por qué el trompo no cae. Ya que el centro de masa no está 
+directamente arriba del centro de giro punto O, en el trompo actúa un momento de tor-
+sión neto en torno a un eje que pasa a través de O, un momento de torsión que resulta de 
+la fuerza gravitacional M 
+g
+S
+. El trompo ciertamente caerá si no está girando. Sin embargo, 
+como gira, tiene una cantidad de movimiento angular L
+S
+ que se dirige a lo largo de su eje 
+de simetría. Se demostrará que este eje de simetría se mueve en torno al eje z (se presenta 
+movimiento de precesión) porque el momento de torsión produce un cambio en la direc-
+ción del eje de simetría. Esta ilustración es un excelente ejemplo de la importancia de la 
+naturaleza direccional de la cantidad de movimiento angular.
+Las características esenciales del movimiento de precesión se ilustran al considerar el 
+giroscopio simple que se muestra en la fi gura 11.14a. Las dos fuerzas que actú an en el 
+giroscopio son la fuerza gravitacional hacia abajo M 
+g
+S
+ y la fuerza normal n
+S
+ que actúa hacia 
+arriba en el centro de giro punto O. La fuerza normal no produce momento de torsión 
+en torno a un eje que pasa a través del eje, porque su brazo de momento a través de dicho 
+punto es cero. No obstante, la fuerza gravitacional no produce un momento de torsión  
+t
+S
+ /H11005 r
+S
+ 3M g
+S
+ en torno a un eje que pasa a través de O, donde la dirección de t
+S
+ es perpen-
+dicular al plano que forman r
+S
+ y M g
+S
+. Por necesidad, el vector t
+S
+ se encuentra en un plano 
+horizontal xy perpendicular al vector canti dad de movi miento angular. El momento de 
+torsión neto y la cantidad de movimiento angular del giroscopio se relacionan mediante 
+la ecuación 11.13:
+t
+S d L
+S
+dt
+Esta expresión muestra que, en el i ntervalo de ti empo infinitesimal dt, el momento de 
+torsión distinto de cero produce un cambi o en la canti dad de movi miento angular d L
+S
+, 
+un cambio que está en la misma dirección que t
+S
+. Por lo tanto, como el vector momento 
+de torsión, d L
+S
+ también debe ser perpendicular a L
+S
+. La figura 11.14b ilustra el movimien-
+to de precesión resultante del eje de simetría del giroscopio. En un intervalo de tiempo 
+dt, el cambi o en canti dad de movi miento angular es d L
+S
+ /H11005 L
+S
+f /H11002 L
+S
+i /H11005 t
+S
+dt. Ya que d L
+S
+ es 
+perpendicular a L
+S
+, la magnitud de L
+S
+ no cambia (0L
+S
+i /H11005 L
+S
+f 0). En vez de ello, lo que cambia 
+4) 10.67 m2mdvdi 3md 10.67 m22 4v Isv
+rmdvdi Id v Is v
+ 1.33 kg # m2 11.0 kg21 1.33 m22 3.1 kg # m2
+Is ICM MD2 
+11_Cap_11_Serway(1).indd   326 2/23/08   1:44:56 AM
+
+es la dirección de L
+S
+. Ya que el cambio en la cantidad de movimiento angular d L
+S
+ es en la 
+dirección de t
+S
+, que se encuentra en el plano xy, el giroscopio se somete a movimiento de 
+precesión.
+Para simplificar la descripción del sistema, se supone que la cantidad de movimiento 
+angular total de la rueda en precesión es la suma de la cantidad de movimiento angular I 
+v
+S
+ debida al giro y la cantidad de movimiento angular debida al movimiento del centro de 
+masa en torno al eje. En este tratamiento, se despreciará la contribución del movimiento 
+del centro de masa y se tomará la cantidad de movimiento angular total como simplemente 
+I v
+S
+. En la práctica, esta aproximación es buena si v
+S
+ se hace muy grande.
+El diagrama vectorial de la figura 11.14b muestra que, en el intervalo de tiempo dt, el 
+vector cantidad de movimiento angular da vueltas a través de un ángulo df, que también es 
+el ángulo a través del que da vueltas el eje. A partir del triángulo vectorial formado por los 
+vectores L
+S
+i, L
+S
+f y d L
+S
+, se ve que
+sen 1df2 df dL
+L
+t dt
+L
+1Mgh 2 dt
+L
+donde se usó que, para valores pequeños de cualquier ángulo u, sen u /H33360 u. Al dividir entre 
+dt y usar la correspondencia L /H11005 Iv, se encuentra que la rapidez a la que da vueltas el eje 
+en torno al eje vertical es
+ vp
+df
+dt
+Mgh
+Iv  (11.20)
+La rapi dez angular vp se llama frecuencia de precesión . Este resultado só lo es vá lido 
+cuando vp /H11021/H11021v. De otro modo, está involucrado un movimiento mucho más complica-
+do. Como puede ver de la ecuación 11.20, la condición vp /H11021/H11021v se satisface cuando v es 
+grande, es decir, cuando la rueda gira rápidamente. Además, note que la frecuencia de 
+precesión disminuye conforme v aumenta, es decir, conforme la rueda gira más rápido 
+en torno a su eje de simetría.
+Como ejemplo de la utilidad de los giroscopios, suponga que usted está en una nave 
+en el espacio profundo y necesita alterar su trayectoria. Para encender los motores en la 
+dirección correcta, necesita girar la nave. Sin embargo, ¿cómo gira una nave espacial en el 
+espacio vacío? Una forma es tener pequeños motores cohete que encienden perpendicular 
+al lado de la nave, lo que proporciona un momento de torsión en torno a su centro de 
+masa. Tal conf
+iguración es deseable, y muchas naves tienen tales cohetes.
+Sin embargo, considere otro método, que se relaciona con la cantidad de movimiento 
+angular y no requiere el consumo de combustible. Suponga que la nave espacial porta un 
+giroscopio que no gira, como en la figura 11.15a. En este caso, la cantidad de movimiento 
+angular de la nave en torno a su centro de masa es cero. Suponga que el giroscopio se 
+pone en rotación, lo que da al giroscopio una cantidad de movimiento angular distinta de 
+cero. No hay momento de torsión externo sobre el sistema aislado (nave espacial y girosco-
+pio), así que la cantidad de movimiento angular de este sistema debe permanecer cero de 
+acuerdo con el principio de conservac
+ión de la cantidad de movimiento angular. Este prin-
+cipio se satisface si la nave da vueltas en la dirección opuesta a la del giroscopio, de modo 
+ Sección 11.5  El movimiento de giroscopios y trompos  327
+Figura 11.14 a) El movimiento 
+de un giroscopio simple articulado 
+a una distancia h de su centro de 
+masa. La fuerza gravitacional M g
+S
+ 
+produce un momento de torsión 
+en torno al eje y este momento 
+de torsión es perpendicular al eje. 
+b) Vista superior de los vectores 
+cantidad de movimiento angular 
+inicial y final. El momento de 
+torsión resulta en un cambio en 
+cantidad de movimiento angular 
+d L
+S
+ en una dirección perpendicular 
+al eje. El eje barre un ángulo df en 
+un intervalo de tiempo dt.
+a) b)
+h
+O
+Li
+Lf
+dL
+tt
+n
+Mg
+Lf
+Li
+df
+Figura 11.15 a) Una nave 
+espacial porta un giroscopio que 
+no gira. b) Cuando el giroscopio 
+se pone en rotación, la nave 
+gira al otro lado de modo que 
+la cantidad de movimiento del 
+sistema se conserva.
+a)
+b)
+El giroscopio 
+da vueltas 
+contra las
+manecillas 
+del reloj
+La nave da vueltas 
+en sentido de las 
+manecillas 
+del reloj
+11_Cap_11_Serway(1).indd   327 2/23/08   1:44:58 AM
+
+328 Capítulo 11  Cantidad de movimiento angular
+que se cancelan los vectores canti dad de movi miento angular del gi roscopio y la nave, 
+lo que resulta en ausencia de cantidad de movimiento angular del sistema. El resultado 
+de girar el giroscopio, como en la figura 11.15b, ¡es que la nave da la vuelta! Al incluir tres 
+giroscopios con ejes mutuamente perpendi culares, se logra cualqui er rotación deseada 
+en el espacio.
+Este efecto creó  una si tuación indeseable con la nave espaci al Voyager 2 durante su 
+vuelo. La nave llevaba una grabadora cuyos carretes giraban a grandes magnitudes de ve-
+locidad. Cada vez que la grabadora se encendía, los carretes actuaban como giroscopios y 
+la nave comenzaba una rotación indeseable en la dirección opuesta. ¡El mando de control 
+de la misión tuvo que contrarrestar esta rotación al activar los cohetes de disparo lateral 
+para detener la rotación!
+Resumen
+DEFINICIONES
+Conocidos dos vectores A
+S
+ y B
+S
+, el 
+producto cruz A
+S
+ 3 B
+S
+ es un vector C
+S
+ 
+que tiene una magnitud
+ C  /H11005 AB sen u (11.3)
+donde u es el ángulo entre A
+S
+ y B
+S
+. La 
+dirección del vector C
+S
+ /H11005 A
+S
+ 3 B
+S
+ es 
+perpendicular al plano que forman A
+S
+ 
+y B
+S
+, y esta dirección está determinada 
+por la regla de la mano derecha.
+El momento de torsión t
+S
+ debido a una fuerza F
+S
+ en torno a un eje a través 
+del origen en un marco inercial se define como
+ t
+S
+r
+S
+F
+S
+ (11.1)
+La cantidad de movimiento angular L
+S
+ de una partícula que tiene cantidad 
+de movimiento lineal p
+S
+ /H11005 mv
+S
+ en torno a un eje a través del origen es
+ L
+S
+r
+S
+p
+S
+ (11.10)
+donde r
+S
+ es la posición vectorial de la partícula en relación con el origen.
+La componente z de la cantidad de movimiento angular de un objeto rígido giratorio en torno a un eje z fijo es
+ L z /H11005 Iv (11.14)
+donde I es el momento de inercia del objeto en torno al eje de rotación y v es su rapidez angular.
+Frontera 
+del sistema
+La rapidez de cambio en la 
+cantidad de movimiento 
+angular del sistema es igual 
+al momento de torsión 
+externo neto sobre el 
+sistema.
+Momento de 
+torsión externo
+Cantidad de movimiento 
+angular
+Sistema no aislado (cantidad de movimiento angular). Si 
+un sistema interactúa con su ambiente en el sentido 
+de que sobre el sistema existe un momento de torsión 
+externo, el momento de torsión externo neto que actúa 
+sobre un sistema es igual a la rapidez de cambio en 
+el tiempo de su cantidad de movimiento angular:
+ 
+t
+S
+ext
+dL
+S
+tot
+dt
+ (11.13)
+Frontera 
+del sistema
+La cantidad de movimiento
+angular del sistema es constante
+Cantidad de movimiento 
+angular
+Sistema aislado (cantidad de movimiento angular). Si un 
+sistema no experimenta momento de torsión externo 
+desde el ambiente, la cantidad de movimiento angular 
+total del sistema se conserva
+:
+ L
+S
+i L
+S
+f  (11.18)
+Aplicar esta ley de conservación de la cantidad de 
+movimiento angular a un sistema cuyo momento 
+de inercia cambia produce
+ I
+ivi /H11005 If vf /H11005 constante (11.19)
+CONCEPTOS Y PRINCIPIOS
+MODELO DE ANÁLISIS P
+ARA RESOLVER PROBLEMAS
+11_Cap_11_Serway(1).indd   328 2/23/08   1:44:59 AM
+
+Preguntas 329
+ 1. O ¿Es posible calcular el momento de torsión que actúa sobre 
+un objeto rí gido sin especificar un eje de rotación ? ¿El mo-
+mento de torsión es independiente de la ubicación del eje de 
+rotación?
+ 2. O El vector A
+S
+ está en la dirección y negativa y el vector B
+S
+ está 
+en la dirección x negativa. i) ¿Cuál es la dirección de A
+S
+ 3 B
+S
+? 
+a) y, b) /H11002y, c) x, d) /H11002x, e) z, f) /H11002z, g) no hay dirección porque 
+es cero, h) no hay dirección porque es un escalar . ii) ¿Cuál 
+es la dirección de B
+S
+ 3 A
+S
+? Elija entre las mismas posibilidades 
+de la a) a la h).
+ 3. O  Nombre tres di recciones perpendi culares como derecha, 
+arriba y haci a usted, como puede nombrarlas cuando está  
+frente a una pantalla de televi sión que se encuentra en un 
+plano verti cal. Los vectores uni tarios para estas di recciones 
+son rˆ, uˆ y tˆ, respecti vamente. Para la canti dad ( /H110023uˆ m 3 
+2 tˆ N), identifique la magnitud, unidad y dirección, si la hay . 
+i) La magni tud es a) 6, b) 3, c) 2, d) 0.  ii) La uni dad es a) 
+newton metros, b) newtons, c) metros, d) no hay unidad. iii) 
+La dirección es a) arriba, b) hacia usted, c) no hay dirección, 
+d) arriba, e) alejándose de usted, f) izquierda, g) derecha.
+ 4. O  Sean las cuatro direcciones horizontales de la brújula norte, 
+este, sur y oeste que se representan por los vectores unitarios 
+nˆ, eˆ, sˆ y wˆ. En forma vertical hacia arriba y abajo se represen-
+tan como uˆ y dˆ. También identifique los vectores uni tarios 
+que están a la mitad entre dichas direcciones, como ne para 
+noreste. Clasifique las magnitudes de los siguientes productos 
+cruz de mayor a menor. Si algunas son iguales en magnitud, o 
+iguales a cero, muéstrelo en su clasificación. a) 
+nˆ 3 nˆ, b) wˆ 3 
+ne, c) uˆ 3 ne, d) nˆ 3 nw,  e) nˆ 3 eˆ.
+ 5. Si el momento de torsión que actú a sobre una partí cula en 
+torno a cierto origen es cero, ¿qué puede decir acerca de su 
+cantidad de movimiento angular en torno a dicho origen?
+ 6. Una bola se lanza en tal forma que no gira en torno a su propio 
+eje. ¿Este enunciado implica que la cantidad de movimiento 
+angular es cero en torno a un origen arbitrario? Explique.
+ 7. O A veces se pueden confund ir los términos compuestos. Por 
+ejemplo, una hormi ga león no es un ti po de leó n sino más 
+bien un tipo diferente de insecto. a) ¿La energía cinética ro-
+tacional es un ti po de energí a cinética? b) ¿ El momento de  
+tors
+ión es un tipo de fuerza? c) ¿La cantidad de movimiento 
+angular es un tipo de cantidad de movimiento?
+ 8. ¿Por qué  un poste largo de equi librio ayuda a algui en que 
+camina en la cuerda floja?
+ 9. O  Una pati nadora de hi elo comienza a gi rar con sus brazos 
+estirados a los lados. Se equilibra sobre la punta de un patín 
+para girar sin fricción. Luego jala sus brazos en tal forma que 
+su momento de i nercia disminuye en un factor de dos.  En 
+el proceso de hacer esto, 
+¿qué sucede con su energí a ciné-
+tica? a) Aumenta en un factor de cuatro. b) Aumenta en un 
+factor de dos.  c) Permanece constante.  d) Di sminuye en 
+un factor de dos. e) Disminuye en un factor de cuatro. f) Es 
+cero porque su centro de masa es estable. g) Se somete a un 
+cambio por una cantidad que obviamente depende de qué tan 
+rápido la patinadora jala sus brazos hacia adentro.
+ 10. En una grabadora el mecani smo impulsor jala la ci nta para 
+que pase por las cabezas de lectura y escri tura con una rapi-
+dez constante.  Considere el carrete del que se jala la ci nta. 
+Conforme la cinta se jala de él, el radio del rollo de cinta res-
+tante disminuye. ¿Cómo cambia con el tiempo el momento de 
+torsión del carrete?  ¿Cómo cambia con el ti empo la rapi dez 
+angular del carrete? Si el mecanismo impulsor se enciende de 
+modo que la cinta recibe un súbito jalón con una gran fuerza, 
+¿la cinta tiene más probabil idad de romperse cuando se jala 
+de un carrete casi lleno o de un carrete casi vacío?
+ 11. O Un ratón mascota duerme cerca del borde este de una tor-
+namesa horizontal estable que se apoya en un eje vertical sin 
+fricción a través de su centro. El ratón despierta y comienza a 
+caminar al norte sobre la tornamesa. i) Conforme da sus pri-
+meros pasos, ¿cuál es el desplazamiento del ratón en relación 
+con el suelo fi jo abajo?  a) norte, b) sur , c) n
+inguno. ii) En 
+este proceso, el punto sobre la tornamesa donde dormi taba 
+el ratón experimenta ¿qué desplazamiento en relación con el 
+suelo abajo? a) norte, b) sur, c) ninguno. iii) En este proceso 
+para el sistema ratón–tornamesa, ¿se conserva la energía me-
+cánica? (iv) ¿Se conserva la canti dad de movi miento? v) ¿Se 
+conserva la cantidad de movimiento angular?
+ 12. O Una fiesta de empleados para una compañía muy exi tosa 
+presenta un carrusel con animales reales. La tornamesa hori-
+zontal no tiene motor, pero g
+ira libremente sobre un eje verti-
+cal sin fricción a través de su centro. Dos ponis de igual masa 
+están amarrados con una cuerda en puntos di ametralmente 
+opuestos sobre el borde.  Los niños los desatan y las plá cidas 
+bestias comienzan a andar con dificultad uno hacia el otro a 
+través de la tornamesa.  i) Mientras camina, ¿qué sucede con 
+la rapidez angular del carrusel?  a) Aumenta.  b) Permanece 
+constante. c) Disminuye. Considere el sistema ponis–torname-
+sa en este proceso. ii) ¿La energía mecánica se conser va
+? iii) 
+¿La cantidad de movimiento se conserva? iv) ¿La cantidad de 
+movimiento angular se conserva?
+ 13. O Un disco horizontal con momento de inercia I1 da vueltas 
+con velocidad angular v0 sobre un eje vertical sin fricción. Un 
+segundo disco horizontal, que tiene momento de inercia I2 e 
+inicialmente no gira, cae sobre el primero. Debido a fricción 
+entre la superfi cie de los di scos, los dos alcanzan la mi sma 
+velocidad angular. ¿Cuál es? a) I
+1v0/I2, b) I2v0/I1, c) I1v0/(I1 
+/H11001 I2), d) I2v0/(I1 /H11001 I2), e) (I1 /H11001 I2) v0/I1, f) (I1 /H11001 I2) v0/I2.
+ 14. En alguna competencia de motocicletas, los conductores pasan 
+sobre pequeñas colinas y la motocicleta se convierte en aérea 
+durante un corto intervalo de tiempo. Si el corredor de moto-
+cicleta mantiene el acelerador abierto mientras deja la colina 
+y va al aire, la motocicleta tiende a dirigirse hacia arriba. ¿Por 
+qué?
+ 15. Si el calentamiento global continúa durante los siguientes 100 
+años, es probable que algo de hielo polar se funda y el agua 
+escurrirá hacia el ecuador. ¿Cómo cambiaría eso el momento 
+de inercia de la Tierra? ¿La duración del día (una revolución) 
+aumentaría o disminuiría?
+ 16. Un científico que llega a un hotel pide a un botones que lleve 
+una pesada maleta. Cuando el botones rodea una esquina, la 
+maleta se balancea sú bitamente alejándose de é l por alguna 
+razón desconocida. El alarmado botones suelta la maleta y sale 
+corriendo. ¿Qué podría haber en la maleta?
+Preguntas
+O indica pregunta complementaria.
+11_Cap_11_Serway(1).indd   329 2/23/08   1:45:00 AM
+
+330 Capítulo 11  Cantidad de movimiento angular
+2 /H11005 intermedio;3 /H11005 desafiante;/H11005 razonamiento simbólico;/H18567 /H11005 razonamiento cualitativo
+arriba y el eje z  es hori zontal haci a usted (no alejá ndose de 
+usted). Se dice que esta elección hace que el sistema coorde-
+nado sea un sistema de mano derecha.
+Sección 11. 2  Cantidad de movimiento angular: 
+el sistema no aislado
+ 11. Una barra rígida ligera de 1.00 m de largo une a dos partículas, 
+con masas de 4. 00 kg y 3. 00 kg, en sus extremos.  La combi -
+nación da vueltas en el plano xy en torno a un eje a través del 
+centro de la barra (figura P11.11). Determine la cantidad de 
+movimiento angular del sistema en torno al origen, cuando la 
+rapidez de cada partícula sea 5.00 m/s.
+Sección 11.1  Producto vectorial y momento 
+de torsión
+ 1. Conocidos 
+M
+S
+ /H11005 6 iˆ /H11001 2 jˆ /H11002 kˆ y N
+S
+/H11005 2iˆ /H11002 jˆ /H11002 3 kˆ, calcule el 
+producto vectorial M
+S
+ 3 N
+S
+.
+ 2. Los vectores 42.0 cm a 15.0° y 23.0 cm a 65.0° parten del ori-
+gen. Ambos ángulos se miden contra las manecillas del reloj 
+desde el eje x. Los vectores forman dos lados de un paralelo-
+gramo. a) Encuentre el área del paralelogramo. b) Encuentre 
+la longitud de su diagonal más larga.
+ 3. Dos vectores se conocen por 
+A
+S
+ /H11005 /H110023iˆ /H11001 4 jˆ y B
+S
+ /H11005 2iˆ /H11001 3 jˆ. 
+Encuentre a) A
+S
+ 3 B
+S
+ y b) el ángulo entre A
+S
+ y B
+S
+.
+ 4. Dos vectores se conocen por A
+S
+ /H11005 /H110023iˆ /H11001 7 jˆ /H11002 4 kˆ y B
+S
+ /H11005 6iˆ 
+/H11002 10 jˆ /H11001 9 kˆ. Evalúe las canti dades a) cos /H110021[0A
+S
+ /H11080 B
+S
+0/AB] y b) 
+sen/H110021[0A
+S
+ 3 B
+S
+0/AB]. c) ¿Cuál da el ángulo entre los vectores?
+ 5. El viento ejerce sobre una flor la fuerza hori zontal de 0. 785 
+N hacia el este. El tallo de la flor mide 0.450 m de largo y se 
+inclina hacia el este, formando un ángulo de 14.0° con la ver-
+tical. Encuentre el vector momento de torsión de la fuerza del 
+viento en torno a la base del tallo.
+ 6. 
+/H18567 Un estudiante afirma que encontró un vector A
+S
+ tal que (2iˆ 
+/H11002 3jˆ /H11001 4kˆ) 3 A
+S
+ /H11005 (4iˆ /H11001 3jˆ /H11002 kˆ). ¿Usted cree esta afirmación? 
+Explique.
+ 7. Suponga 0A
+S
+ 3 B
+S
+0 /H11005 A
+S
+ ? B
+S
+ ¿Cuál es el ángulo entre A
+S
+ y B
+S
+?
+ 8. /H18567 Una partícula se ubica en la posición vectorial r
+S
+ /H11005 (4.00iˆ /H11001
+6.00 jˆ) m y sobre ella se ejerce una fuerza conocida por F
+S
+ /H11005 
+(3.00iˆ /H11001 2 .00 jˆ) N. a) ¿ Cuál es el momento de torsión que 
+actúa sobre la partícula en torno al origen? b) ¿Hay otro punto 
+respecto al cual el momento de torsión causado por esta fuerza 
+en la partícula estará en la dirección opuesta con la mitad de la 
+magnitud? ¿Puede haber más de uno de tales puntos? ¿Dicho 
+punto se encuentra sobre el eje y? ¿Puede haber más de uno 
+de tales puntos sobre el eje y? Determine el vector de posición de
+tal punto.
+ 9. Dos fuerzas 
+F
+S
+1 y F
+S
+2 actúan a lo largo de los dos lados de un 
+triángulo equilátero, como se muestra en la fi gura P11.9. El 
+punto O es la i ntersección de las alti tudes del triángulo.  En-
+cuentre una tercera fuerza F
+S
+3 a aplicar en B y a lo largo de BC 
+tal que el momento de torsión total sea cero en torno al punto 
+O. ¿Qué pasaría si? ¿El momento de torsión total cambiará s i
+F
+S
+3 se apli ca no en B  sino en cualqui er otro punto a lo largo
+de BC?
+Problemas
+ 12. Una partícula de 1.50 kg se mueve en el plano xy con una ve-
+locidad de v
+S
+ /H11005 (4.20iˆ /H11002 3.60 jˆ) m/s. Determine la cantidad de 
+movimiento angular de la partícula en torno al origen cuando 
+su vector de posición es r
+S
+ /H11005 (1.50iˆ /H11001 2.20jˆ) m.
+ 13. El vector de posi ción de una partí cula de 2. 00 kg de masa  
+como func
+ión del tiempo se conoce por r
+S
+ /H11005 (6.00iˆ /H11001 5.00t jˆ) 
+m. Determine la cantidad de movimiento angular de la partí-
+cula en torno al origen como función del tiempo.
+ 14. Un péndulo cónico consiste de una plomada de masa m en mo-
+vimiento en una trayectoria circular en un plano horizontal, 
+como se muestra en la fi gura P11.14. Durante el movi mien-
+to, el alambre de soporte, de longitud /H5129, mantiene el ángulo 
+constante u con la vertical. Demuestre que la magnitud de la 
+cantidad de movi miento angular de la plomada en torno al  
+centro del c
+írculo es
+  L a
+m2g /3 sen4 u
+cos u b
+1>2
+Figura P11.11
+Figura P11.9
+Figura P11.14
+/H5129
+m
+u
+x
+1.00 m
+3.00
+kg
+4.00
+kg
+y
+v
+v
+A
+F1
+C
+D
+O
+B
+F3
+F2
+ 10. Use la definición del producto vectorial y las definiciones de 
+los vectores unitarios 
+iˆ, jˆ, y kˆ para probar las ecuaciones 11.7. 
+Suponga que el eje x apunta haci a la derecha, el eje y hacia 
+11_Cap_11_Serway(1).indd   330 2/23/08   1:45:03 AM
+
+Problemas 331
+2 /H11005 intermedio;3 /H11005 desafiante;/H11005 razonamiento simbólico;/H18567 /H11005 razonamiento cualitativo
+ 15. Una partícula de masa m se mueve en un círculo de radio R 
+con una rapi dez constante v, como se muestra en la fi gura 
+P11
+.15. El movimiento comienza en el punto Q en el tiempo 
+t /H11005 0 . Determi ne la canti dad de movi miento angular de la 
+partícula en torno al punto P como función del tiempo.
+ 20. /H18567 Una partícula de 5.00 kg parte del origen en el tiempo cero. 
+Su velocidad como función del tiempo está dada por
+v
+S
+16 m>s3 2t2 iˆ 12 m>s2 2t jˆ
+  a) Encuentre su posi ción como función del ti empo. b) Des-
+criba su movimiento cualitativamente. c) Encuentre su acele-
+ración como función del tiempo. d) Halle la fuerza neta que 
+se ejerce sobre la partícula como función del tiempo. e) En-
+cuentre el momento de torsión neto en torno al origen que se 
+ejerce sobre la partícula como función del tiempo. f) Halle la 
+cantidad de movimiento angular de la partícula como función 
+del tiempo. g) Encuentre la energí a cinética de la partí cula 
+como función del tiempo. h) Encuentre la potencia inyectada 
+en la partícula como función del tiempo.
+Sección 11. 3  Cantidad de movimiento angular 
+de un objeto rígido giratorio
+ 21. Demuestre que la energí a ci nética de un objeto gi ratorio 
+en torno a un eje fi jo con canti dad de movi miento angular  
+L
+ /H11005 Iv se puede escribir como K /H11005 L2/2I.
+ 22. Una esfera só lida uni forme de 0. 500 m de radi o y 15. 0 kg 
+de masa gira contra las manecillas del reloj en torno a un eje 
+vertical a travé s de su centro.  Encuentre su vector canti dad 
+de movi miento angular cuando su rapi dez angular es 3. 00 
+rad/s.
+ 23. Un disco sólido uniforme de 3. 00 kg de masa y 0. 200 m de 
+radio da vueltas en torno a un eje fijo perpendicular a su cara 
+con frecuencia angular de 6.00 rad/s. Calcule la cantidad de 
+movimiento angular del di sco cuando el eje de rotación a) 
+pasa a travé s de su centro de masa y b) pasa a travé s de un 
+punto a la mitad entre el centro y el borde.
+ 24. 
+/H18567 a) Modele la T ierra como una esfera uni forme. Calcule 
+la cantidad de movi miento angular de la T ierra debida a su 
+movimiento de giro en torno a su eje. b) Calcule la cantidad 
+de movimiento angular de la T ierra debida a su movimiento 
+orbital en torno al Sol. c) ¿Los dos resultados de cantidad de 
+movimiento angular son casi iguales o muy diferentes? ¿Cuál 
+es mayor en magnitud? ¿En qué factor?
+ 25. Una partícula de 0. 400 kg de masa está  unida a la marca de 
+100 cm de una regleta de 0. 100 kg de masa.  La regleta da 
+vueltas sobre una mesa hori zontal sin fricción con una rapi -
+dez angular de 4.00 rad/s. Calcule la cantidad de movimiento 
+angular del sistema cuando la regleta se articula en torno a un 
+eje a) perpendicular a la mesa a través de la marca de 50.0 cm y
+b) perpendicular a la mesa a través de la marca de 0 cm.
+ 26. El Big Ben (figura P10.42), el reloj de la torre del Parlamento 
+en Londres, tiene manecillas horaria y minutero con longitu-
+des de 2.70 m y 4.50 m y masas de 60.0 kg y 100 kg, respectiva-
+mente. Calcule la cantidad de movimiento angular de dichas 
+manecillas en torno al punto central.  Trate las manec
+illas 
+como largas barras uniformes delgadas.
+ 18. Con dirección justo hacia la cima de los Pikes Peak, un avión 
+de 12 000 kg de masa vuela sobre las planicies de Kansas a una 
+altitud casi constante de 4.30 km con velocidad constante de 
+175 m/s oeste. a) ¿Cuál es el vector cantidad de movimiento 
+angular del avión en relación con una granja de trigo sobre el 
+suelo directamente bajo el avión? b) ¿Este valor cambia a medi-
+da que el avión continúa su movimiento a lo largo de una línea 
+recta
+? c) ¿Qué pasaría si? ¿Cuál es su cantidad de movimiento 
+angular en relación con la cima de los Pikes Peak?
+ 19. /H18567 Una bola que tiene masa m está amarrada al extremo de un 
+asta que está conectada al lado de un alto edificio en el punto 
+P, que se muestra en la figura P11.19. La longitud del asta es /H5129 
+y forma un ángulo u con el eje x. La bola se afloja y comienza 
+a caer con aceleración /H11002g
+jˆ. a) Determine la cantidad de mo-
+vimiento angular de la bola en torno al punto P como función 
+del ti empo. b) ¿ Por qué  razón física cambi a la canti dad de 
+movimiento angular? c) ¿Cuál es su relación de cambio?
+ 16. Un contrapeso de 4.00 kg se une a una cuerda ligera que se 
+enreda alrededor de un carrete (consulte la figura 10.19). El 
+carrete es un ci lindro sólido uniforme de 8. 00 cm de radi o 
+y 2.00 kg de masa.  a) ¿ Cuál es el momento de torsión neto  
+sobre el s
+istema en torno al punto O ? b) Cuando el contrape-
+so tiene una rapidez v, el carrete tiene una rapidez angular v 
+/H11005 v/R. Determine la canti dad de movi miento angular total 
+del sistema en torno a O. c) Con el hecho de que t
+S
+ /H11005 d L
+S
+ /dt 
+y su resultado del i nciso b), calcule la aceleración del con-
+trapeso.
+ 17. /H18567 Una partícula de masa m se dispara con una velocidad inicial 
+v
+S
+i que forma un ángulo u con la horizontal, como se muestra 
+en la figura P11.17. La partícula se mueve en el campo gravi-
+tacional de la T ierra. Encuentre la canti dad de movi miento 
+angular de la partícula en torno al origen cuando la partícula 
+está a) en el origen, b) en el punto más alto de su trayectoria y 
+c) justo antes de golpear el suelo. d) ¿Qué momento de torsión 
+hace que cambie su cantidad de movimiento angular?
+Figura P11.19
+Figura P11.15 Problemas 15 y 30.
+Figura P11.17
+m
+/H5129
+P
+u
+O R
+v1 = vxi i
+v2
+vi
+u
+mR
+v
+y
+xQP
+11_Cap_11_Serway(1).indd   331 2/23/08   1:45:06 AM
+
+332 Capítulo 11  Cantidad de movimiento angular
+2 /H11005 intermedio;3 /H11005 desafiante;/H11005 razonamiento simbólico;/H18567 /H11005 razonamiento cualitativo
+ 30. /H18567 La fi gura P11.15 representa un pequeñ o disco plano con 
+masa m /H11005 2.40 kg que se desliza sobre una superficie horizon-
+tal sin fricción. Se mantiene en una órbita circular en torno a 
+un eje fijo mediante una barra con masa despreciable y longi-
+tud R /H11005 1.50 m, articulado en un extremo. Al inicio, el disco 
+tiene una rapidez v /H11005 5.00 m/s. Una bola de arcilla de 1.30 kg 
+se deja caer verticalmente sobre el disco desde una pequeña 
+distancia sobre éste y de inmediato se pega al disco. a) ¿Cuál es 
+el nuevo periodo de rotación? b) ¿En este proceso se conserva 
+la cant
+idad de movi miento angular del si stema disco–arcilla
+en torno al eje de rotación ? c) ¿ La cantidad de movi miento 
+del sistema se conserva en el proceso de la arcilla que se pega 
+al disco? d) ¿La energía mecánica del sistema se conserva en 
+el proceso?
+ 31. 
+/H18567 Una tornamesa ci líndrica uniforme de 1. 90 m de radi o y 
+30.0 kg de masa da vueltas contra las manecillas del reloj en un 
+plano horizontal con una rapidez angular inicial de 4p rad/s.
+Los cojinetes fijos de la tornamesa no tienen fricción. Un bulto 
+de barro de 2.25 kg de masa y tamaño despreciable se deja caer 
+sobre la tornamesa desde una pequeña distancia sobre ésta y 
+de inmediato se pega a la tornamesa en un punto a 1.80 m al 
+este del eje. a) Encuentre la rapidez angular final del barro y 
+la tornamesa. b) ¿En este proceso se conserva la energía me-
+cánica del sistema tornamesa–barro? Explique y use resultados 
+numéricos para verificar su respuesta. c) ¿En este proceso se 
+conserva la cant
+idad de movimiento del sistema? Explique su 
+respuesta.
+ 32. Un estudiante se sienta sobre un banco rotatorio libremente 
+sosteniendo dos mancuernas, cada una de 3. 00 kg de masa  
+(f
+igura P11.32). Cuando el estudiante extiende los brazos ho-
+rizontalmente (figura P11.32a), las mancuernas están a 1.00 m 
+del eje de rotación y el estudiante da vueltas con una rapidez 
+angular de 0.750 rad/s. El momento de inercia del estudiante 
+más el banco es de 3.00 kg·m
+2 y se supone constante. El estu-
+diante jala las mancuernas hori zontalmente hacia adentro a 
+una posición 0.300 m del eje de rotación (figura P11.32b). a) 
+Encuentre la nueva rapidez angular del estudiante. b) Encuen-
+tre la energía cinética del sistema rotatorio antes y después de 
+jalar las mancuernas hacia adentro.
+ 27. Se construye una estación espacial en forma de anillo hueco de 
+5.00 /H11003 10
+4 kg de masa. Los integrantes de la tripulación cami-
+nan sobre una cubierta formada por la superficie interior de 
+la pared cilíndrica exterior del anillo, con 100 m de radio. En 
+reposo, cuando se construyó, el anillo se puso a girar en torno 
+a su eje de modo que las personas en el interior experimentan 
+una aceleración en caí da libre efecti va igual a g . (La fi gura 
+P11.27 muestra el ani llo junto con algunas otras partes que 
+forman una aportación despreci able al momento de i nercia 
+total.) La rotación se logra al encender dos pequeños cohetes 
+unidos tangencialmente a puntos opuestos sobre el exteri or 
+del anillo. a) ¿Qué cantidad de movimiento angular adquiere 
+la estación espacial? b) ¿Durante qué intervalo de t
+iempo se 
+deben encender los cohetes si cada uno ejerce un empuje de 
+125 N? c) Pruebe que el momento de torsión total sobre el 
+anillo, multiplicado por el intervalo de tiempo que encontró 
+en el inciso b), es igual al cambio en cantidad de movimiento 
+angular encontrado en el inciso a). Esta igualdad representa 
+el teorema de impulso angular–cantidad de movimiento angular.
+ 28. La distancia entre los centros de las ruedas de una motocicleta 
+es 155 cm.  El centro de masa de la motoci cleta, incluido el 
+conductor
+, está a 88.0 cm sobre el suelo y a la mitad entre las 
+ruedas. Suponga que la masa de cada rueda es pequeña com-
+parada con el cuerpo de la motocicleta. El motor sólo impulsa 
+la rueda trasera. ¿Qué aceleración horizontal de la motocicleta 
+hará que la rueda frontal se eleve del suelo?
+Sección 11. 4  El sistema aislado: conservación de cantidad 
+de movimiento angular
+ 29. Un cilindro con momento de inercia I
+1 da vueltas en torno a 
+un eje vertical sin fricción con rapidez angular vi. Un segundo 
+cilindro, con momento de i nercia I2 y que i nicialmente no 
+gira, cae sobre el pri mer cilindro (figura P11.29). Debido a 
+la fricción entre las superficies, con el tiempo los dos llegan a la
+misma rapidez angular vf. a) Calcule vf. b) Demuestre que la 
+energía cinética del si stema disminuye en esta i nteracción y
+calcule la proporción de la energía rotacional final a la inicial.
+ 33. Un carrusel de jardín con radio R /H11005 2.00 m tiene un momento 
+de inercia I /H11005 250 kg·m2 y es rotatorio a 10.0 rev/min en torno 
+a un eje vertical sin fricción. Frente al eje, un niño de 25.0 kg 
+salta hacia el tiovivo y logra sentarse en el borde. ¿Cuál es la 
+nueva rapidez angular del tiovivo?
+ 34. /H18567 Una barra uniforme de 300 g de masa y 50.0 cm de longitud 
+rota en un plano horizontal en torno a una clavija fija vertical 
+sin fricción a través de su centro. Dos pequeñas cuentas den-
+sas, cada una de masa m, se montan sobre la barra de modo 
+que puedan deslizar sin fricción a lo largo de su longitud. Al 
+Figura P11.32
+Figura P11.29
+Figura P11.27 Problemas 27 y 38.
+Antes Después
+I2
+I1
+i
+fvv
+vv
+vv
+a) b)
+i f
+11_Cap_11_Serway(1).indd   332 2/23/08   1:45:07 AM
+
+Problemas 333
+2 /H11005 intermedio;3 /H11005 desafiante;/H11005 razonamiento simbólico;/H18567 /H11005 razonamiento cualitativo
+ 37. Un bloque de madera de masa M, que descansa sobre una 
+super
+ficie horizontal sin fricción, está unido a una barra rígida 
+de longitud /H5129 y masa despreciable (figura P11.37). La barra se 
+articula en el otro extremo. Una bala de masa m, que viaja pa-
+ralela a la superficie horizontal y perpendicular a la barra con 
+rapidez v, golpea al bloque y queda incrustada en él. a) ¿Cuál 
+es la cantidad de movimiento angular del sistema bala–bloque? 
+b) ¿Qué fracción de la energía cinética original se convierte en 
+energía interna en la colisión?
+ 40. Una señal rectangular, un
+ iforme y delgada cuelga verticalmen-
+te sobre la puerta de una tienda. La señal tiene bisagras con 
+una barra horizontal estable a lo largo de su borde superior. La 
+masa de la señal es 2.40 kg, y su dimensión vertical es 50.0 cm. 
+La señal se balancea sin fricción, de modo que es un blanco 
+tentador para niños armados con bolas de nieve. El máximo 
+desplazamiento angular de la señal es 25.0° en ambos lados de 
+la vertical. En un momento cuando la señal está vertical y se 
+mueve a la i zquierda, una bola de ni eve de 400 g de masa,
+que viaja en sentido horizontal hacia la derecha con una velo-
+cidad de 160 cm/s, golpea perpendicularmente el borde infe-
+rior de la señal y se pega ahí. a) Calcule la rapidez angular de 
+la señal justo antes del impacto. b) Calcule su rapidez angular 
+inmediatamente después del impacto. c) ¿A qué ángulo máxi-
+mo se balanceará la señal salpicada?
+ 41. Suponga que un meteoro de 3.00 /H11003 10
+13 kg, que se mueve a 
+30.0 km/s en relación con el centro de la Ti erra, golpea la 
+Tierra. ¿Cuál es el orden de magnitud de la máxima disminu-
+ción posible en la rapidez angular de la T ierra debido a esta 
+colisión? Explique su respuesta.
+Sección 11. 5  El movimiento de giroscopios y trompos
+ 42. Una nave espacial está en el espacio vacío. Porta en cubierta 
+un giroscopio con un momento de i nercia Ig /H11005 20.0 kg /H11080 m2 
+en torno al eje del gi roscopio. El momento de i nercia de la 
+nave espacial en torno al mismo eje es Is /H11005 5.00 /H11003 105 kg /H11080 m2. 
+Ni la nave espaci al ni el gi roscopio giran ori ginalmente. El 
+giroscopio se puede acti var en un peri odo despreci able de 
+tiempo a una rapi dez angular de 100 s /H110021. S i la ori entación 
+de la nave debe cambiar en 30.0°, ¿durante qué intervalo de 
+tiempo se debe hacer funcionar el giroscopio?
+ 43. El vector cantidad de movimiento angular de un giroscopio en 
+precesión barre un cono como se muestra en la figura 11.13b. 
+ 38. Una estación espaci al con forma de rueda gi gante tiene un 
+rad
+io de 100 m y un momento de inercia de 5.00 /H11003 108 kg · m2. 
+Una tripulación de 150 personas vive en el borde, y la rotación 
+de la estación hace que la tripulación experimente una acele-
+ración aparente en caída libre de g (figura P11.27). Cuando 
+100 personas se mueven hacia el centro de la estación para una 
+junta, la rapidez angular cambia. ¿Qué aceleración aparente 
+en caída libre experimentan los tripulantes que permanecen en
+el borde? Suponga que la masa promedio de cada habitante es
+65.0 kg.
+ 39. 
+/H18567 Un tapón de barro pegajoso con masa m y velocidad v
+S
+i se dis-
+para a un cilindro sólido de masa M y radio R (figura P11.39). 
+El cilindro inicialmente está en reposo y se monta sobre un eje 
+horizontal fijo que corre a través de su centro de masa. La línea 
+de movimiento del proyecti l es perpendi cular al eje y a una 
+distancia d /H11021 R desde el centro. a) Encuentre la rapidez angu-
+lar del sistema justo antes de que el barro golpee y se pegue 
+a la superfi cie del ci lindro. b) ¿ En este proceso se conserva 
+la energía mecánica del si stema barro–cilindro? Explique su 
+respuesta. c) ¿En este proceso se conserva la cant
+idad de mo-
+vimiento del sistema barro–cilindro? Explique su respuesta.
+inicio, las cuentas se sostienen mediante broches en posiciones 
+a 10.0 cm en cada lado del centro, y el si stema está girando 
+con una rapidez angular de 36.0 rad/s. Los broches se liberan 
+simultáneamente y las cuentas se desli zan haci a afuera a lo 
+largo de la barra.  a) Encuentre la rapi dez angular v
+f del si s-
+tema, dependiente de m, en el instante en que las cuentas se 
+deslizan de los extremos de la barra. b) ¿Cuáles son los valores 
+máximo y mínimo posibles para v
+f y los valores de m a los que 
+corresponden? Describa la forma de una gráfica de vf con m.
+ 35. /H18567 Una mujer de 60.0 kg está de pie en el borde oeste de una 
+tornamesa hori zontal que ti ene un momento de i nercia de 
+500 kg · m2 y un radio de 2.00 m. La tornamesa inicialmente 
+está en reposo y es libre de dar vuelta en torno a un eje vertical 
+sin fricción a través de su centro. Después la mujer comienza 
+a caminar alrededor del borde en senti do de las maneci llas 
+del reloj (visto desde arriba del sistema) con una rapidez cons-
+tante de 1.50 m/s en relación con la T ierra. a) Considere el 
+sistema mujer–tornamesa mientras comienza el movim iento. 
+¿La energía mecánica del si stema se conserva?  ¿La cantidad 
+de movimiento del sistema se conserva? ¿La cantidad de movi-
+miento angular del sistema se conserva
+? b) ¿En qué dirección 
+y con qué rapidez angular da vuelta la tornamesa? c) ¿Cuánta 
+energía química convierte el cuerpo de la mujer en energí a 
+mecánica conforme la mujer se pone ella mi sma y a la torna-
+mesa en movimiento?
+ 36. Un disco de 80. 0 g de masa y 4. 00 cm de radi o se desli za a 
+trav
+és de una mesa de aire con una rapidez de 1.50 m/s, como 
+se muestra en la fi gura P11.36a. Forma una coli sión oblicua 
+con un segundo di sco de 6. 00 cm de radi o y 120 g de masa 
+(inicialmente en reposo) tal que sus bordes apenas se tocan. 
+Ya que sus bordes están recubiertos con pegamento de acción 
+instantánea, los discos quedan unidos y giran después de la co-
+lisión (figura P11.36b). a) ¿Cuál es la cantidad de movimiento 
+angular del sistema relativa al centro de masa? b) ¿Cuál es la 
+rapidez angular en torno al centro de masa?
+Figura P11.39
+Figura P11.37
+Figura P11.36
+MR
+vim
+d
+M /H5129
+v
+b)a)
+1.50 m/s
+11_Cap_11_Serway(1).indd   333 2/23/08   1:45:08 AM
+
+334 Capítulo 11  Cantidad de movimiento angular
+2 /H11005 intermedio;3 /H11005 desafiante;/H11005 razonamiento simbólico;/H18567 /H11005 razonamiento cualitativo
+ 48. /H18567 Una soga ligera pasa sobre una polea ligera sin fricción. Un 
+extremo está unido a un racimo de plátanos de masa M y un 
+mono de masa M escala por el otro extremo (figura P11.48). El 
+mono escala la cuerda con la intención de llegar a los plátanos. 
+a) Al tratar el sistema que consiste de mono, plátanos, soga y 
+polea, evalúe el momento de torsión neto en torno al eje de la 
+polea. b) Use los resultados de a) y determine la cantidad de 
+movimiento angular total en torno al eje de la polea y describa 
+el movimiento del sistema. ¿El mono alcanzará los plátanos?
+Su rapidez angular, llamada su frecuencia precesional, se co-
+noce por v
+p /H11005 t/L, donde t es la magnitud del momento de 
+torsión sobre el giroscopio y L es la magnitud de su cantidad 
+de movimiento angular. En el movi miento llamado precesión 
+de los equi noccios, el eje de rotación de la Ti erra precede en 
+torno a la perpendicular a su plano orbital con un periodo de 
+2.58 /H11003 10
+4 años. Modele la Tierra como una esfera uniforme 
+y calcule el momento de torsión sobre la T ierra que provoca 
+esta precesión.
+Problemas adicionales
+ 44. Todo mundo se queja de que no hay suficientes horas en un 
+día. En un intento por componer esto, suponga que todas las 
+personas en el mundo se alinean en el ecuador y comienzan a 
+correr hacia el este a 2.50 m/s en relación con la superf
+icie de 
+la Tierra. ¿En cuánto aumenta la longitud de un día? Suponga 
+que la población mundial es de 7.00 /H11003 109 personas, con una 
+masa promedio de 55.0 kg cada una, y que la Tierra es una es-
+fera homogénea sólida. Además, puede usar la aproximación 
+1/(1 /H11002 x) /H33360 1 /H11001 x para x pequeña.
+ 45. Un juego de futbol americano se canceló por mal clima en Cle-
+veland, y dos jugadores retirados se deslizan como niños sobre 
+un estaci onamiento cubi erto de hi elo si n fri cción. W illiam 
+“Refr
+igerador” Perry, de 162 kg de masa, se desli za hacia la 
+derecha a 8.00 m/s, y Doug Flutie, de 81.0 kg de masa, se des-
+liza hacia la izquierda a 11.0 m/s a lo largo de la misma línea. 
+Cuando se encuentran, se toman de las manos y se sujetan con 
+fuerza. a) ¿Cuál es su velocidad inmediatamente después? b) 
+¿Qué fracción de su energía cinética original todavía es ener-
+g
+ía mecánica después de su colisión? Los atletas se divierten 
+tanto que repiten la colisión con las mismas velocidades origi-
+nales, pero esta vez moviéndose a lo largo de líneas paralelas 
+separadas 1.20 m. En su aproximación más cercana se toman 
+de los brazos y comienzan a girar en torno a su centro de masa 
+común. Modele a los hombres como partí culas y sus brazos 
+como una cuerda que no se estira. c) Encuentre la velocidad 
+de su centro de masa.  d) Encuentre su rapi dez angular . e) 
+¿Qué fracción de su energía cinética original todavía es ener-
+gía mecánica después de ligar sus brazos?
+ 46. 
+/H18567 Un patinador con su patineta se modelan como una partí-
+cula de 76.0 kg de masa, ubicada en su centro de masa. Como 
+se muestra en la figura P8.37 del capítulo 8, el patinador parte 
+del reposo en una posición encogida en un extremo de una 
+media tubería (punto /L55037). La medi a tubería forma la mi tad 
+de un ci lindro de 6. 80 m de radi o con su eje hori zontal. En 
+su descenso, el pati nador se mueve si n fricción y manti ene 
+su postura de modo que su centro de masa se mueve a través 
+de un cuarto de círculo de 6.30 m de radio. a) Encuentre su 
+rapidez en la parte baja de la media tubería (punto /L55038). b) En-
+cuentre su cantidad de movimiento angular en torno al centro 
+de curvatura. c) Inmedi atamente después de pasar el punto 
+/L55038, se pone de pie y eleva los brazos, lo que eleva su centro de 
+gravedad de 0.500 m a 0.950 m sobre el concreto (punto /L55039).
+Explique por qué su cantidad de movimiento linear es constan-
+te en esta maniobra, mientras que su cantidad de movimiento 
+lineal y su energía mecánica no son constantes. d) Encuentre 
+su rapidez inmediatamente despué s de que se pone de pi e, 
+cuando su centro de masa se mueve en un cuarto de c
+írculo de 
+5.85 m de radio. e) ¿Cuánta energía química en las piernas del 
+patinador se convirtió en energía mecánica mientras se puso 
+de pie? A conti nuación, el pati nador se desli za hacia arriba 
+con su centro de masa mov
+iéndose en un cuarto de cí rculo 
+de 5.58 m de radio. Su cuerpo está horizontal cuando pasa el 
+punto /L63443, el extremo lejano de la media tubería. f) Encuentre 
+su rapidez en esta posi ción. Por ú ltimo se vuelve balí stico y 
+gira mientras su centro de masa se mueve en forma verti cal. 
+g) ¿Qué tan alto sobre el punto /L63443 se eleva? h) ¿Durante qué 
+intervalo de tiempo está en el aire antes de tocar tierra, viendo 
+hacia abajo y enconchado de nuevo, 2. 34 m abajo del ni vel 
+del punto /L63443? i) Compare la solución a este problema con la 
+solución al problema 8.37. ¿Cuál es más precisa? ¿Por qué? Pre-
+cauc
+ión: No intente esta acrobacia sin la habilidad ni el equipo 
+de protección requeridos ni en un canal de desagüe al que no 
+tenga acceso legal.
+ 47. Una barra rígida sin masa tiene tres partículas con masas igua-
+les unidas a ella, como se muestra en la figura P11.47. La barra 
+es libre de dar vuelta en un plano verti cal en torno a un eje 
+sin fricción perpendicular a la barra a través del punto P y se 
+libera del reposo en la posición horizontal en t /H11005 0. Si supone 
+que se conocen m y d, encuentre: a) el momento de inercia del 
+sistema (barra más partículas) en torno al eje, b) el momento 
+de torsión que actúa sobre el sistema en t /H11005 0, c) la aceleración 
+angular del sistema en t /H11005 0, d) la aceleración lineal de la partí-
+cula 3 en t /H11005 0, e) la máxima energía cinética del sistema, f) la 
+máxima rapidez angular alcanzada por la barra, g) la máxima 
+cantidad de movi miento angular del si stema y h) la má xima 
+rapidez alcanzada por la partícula 2.
+ 49. El cometa Halley se mueve en torno al Sol en una órbita elíp-
+tica, su aproximación más cercana al Sol es más o menos 0.590 
+UA y su mayor di stancia 35.0 UA (1 UA /H11005 distancia Tierra-
+/H11002Sol). La rapidez del cometa en la aproximación más cercana 
+es 54.0 km/s. ¿Cuál es su rapidez cuando está más alejado del 
+Figura P11.47
+Figura P11.48
+d
+2d
+3 mmm P
+d
+123
+M
+M
+11_Cap_11_Serway(1).indd   334 2/23/08   1:45:08 AM
+
+Problemas 335
+2 /H11005 intermedio;3 /H11005 desafiante;/H11005 razonamiento simbólico;/H18567 /H11005 razonamiento cualitativo
+ 52. /H18567 Dos niños juegan sobre los taburetes del mostrador de un 
+restaurante. Sus pies no llegan a los reposapiés y lo alto de los 
+taburetes tiene libertad de dar vuelta sin fricción sobre pedes-
+tales fijos al suelo. Uno de los niños atrapa una bola lanzada 
+en un proceso descrito por la ecuación
+  
+30.730 kg # m2 10.120 kg21 0.350 m22 4 v
+S
+10.120 kg21 0.350 iˆ m 21 4.30kˆ m>s2 
+10.730 kg # m2 21 2.40 jˆ rad>s2
+  a) Resuelva la ecuación para la i ncógnita v
+S
+. b) Complete 
+el enunci ado del problema al que se apli ca esta ecuación . 
+Su enunciado debe incluir la información numérica conocida 
+y la  especificación de la incógnita a determinar . c) ¿La ecua-
+ción podría describir igualmente bien al otro niño que lanza 
+la bola? Explique su respuesta.
+ 53. Dos astronautas (fi gura P11. 53), cada uno con 75. 0 kg de  
+masa, est
+án conectados medi ante una cuerda de 10. 0 m 
+ 54. Dos astronautas (figura P11.53), cada uno con masa M, están 
+conectados mediante una cuerda de longitud d que tiene masa 
+desprec
+iable. Están aislados en el espacio, orbitando su centro de
+masa con magnitudes de velocidad v. Al tratar a los astronau-
+tas como partículas, calcule a) la magnitud de la cantidad de 
+movimiento angular del sistema y b) la energía rotacional del 
+sistema. Al jalar la cuerda, un astronauta acorta la di stancia 
+entre ellos a d/2. c) ¿Cuál es la nueva cantidad de movimien-
+to angular del sistema? d) ¿Cuáles son las nuevas magnitudes 
+de velocidad de los astronautas? e) ¿Cuál es la nueva energía 
+rotacional del sistema? f) ¿Cuánto trabajo hace el astronauta 
+al acortar la cuerda?
+ 55. 
+/H18567 Los nativos de Sudamérica usan boleadoras para cazar aves y 
+animales. Una boleadora puede consistir de tres piedras, cada 
+una con masa m , en los extremos de tres cuerdas li geras, 
+cada una con longitud /H5129. Los otros extremos de las cuerdas se 
+amarran juntos para formar una Y. El cazador sostiene una pie-
+dra y gira las otras dos piedras sobre su cabeza (figura P11.55a). 
+Ambas piedras se mueven juntas en un círculo horizontal de 
+radio 2/H5129 con rapidez v
+0. En el momento en que el componente 
+horizontal de su velocidad se dirige hacia la presa, el cazador 
+suelta la piedra de su mano. A medida que la boleadora vuela 
+a través del ai re, las cuerdas rá pidamente toman un ordena-
+miento estable con á ngulos constantes de 120 grados entre 
+ellas (figura P11.55b). En la di rección vertical, la boleadora 
+está en caí da libre. Las fuerzas gravi tacionales que ejerce la 
+Tierra hacen que la unión de las cuerdas se mueva con la ace-
+leración descendente 
+g
+S
+. Usted puede ignorar el movimiento 
+vertical mientras procede a describir el movimiento horizontal 
+de masa despreciable. Están aislados en el espacio, orbitando
+su centro de masa con magnitudes de velocidad de 5.00 m/s. 
+Al tratar a los astronautas como partículas, calcule a) la mag-
+nitud de la cantidad de movimiento angular del sistema y b) 
+la energía rotacional del sistema. Al jalar la cuerda, un astro-
+nauta acorta la di stancia entre ellos a 5. 00 m. c) ¿ Cuál es la 
+nueva cantidad de movimiento angular del sistema? d) ¿Cuáles 
+son las nuevas magni tudes de veloci dad de los astronautas?
+e) ¿Cuál es la nueva energía rotacional del sistema? f) ¿Cuánto 
+trabajo hace el astronauta al acortar la cuerda?
+Sol? La cantidad de movimiento angular del cometa en torno 
+al Sol se conser va porque sobre el cometa no act
+úa momen-
+to de torsión . La fuerza gravi tacional que ejerce el Sol ti ene 
+brazo de momento cero.
+ 50. Un proyecti l de masa m  se mueve haci a la derecha con una  
+rap
+idez vi (figura P11. 50a). El proyecti l golpea y se pega al 
+extremo de una barra estable de masa M y longitud d articu-
+lada en torno a un eje sin fricción a través de su centro (figura 
+P11.50b). a) Encuentre la rapi dez angular del si stema justo 
+después de la colisión. b) Determine la pérdida fraccional en 
+energía mecánica debido a la colisión.
+ 51. Un disco de masa m se amarra a una cuerda que pasa a través 
+de un pequeño hoyo en una superf
+icie horizontal sin fricción 
+(figura P11. 51). El di sco inicialmente orbi ta con rapi dez vi 
+en un círculo de radio ri. Luego la cuerda se jala lentamente 
+desde abajo, lo que disminuye el radio del círculo a r. a) ¿Cuál 
+es la rapidez del disco cuando el radio es r? b) Encuentre la 
+tensión en la cuerda como función de r. c) ¿Cuánto trabajo W 
+se realiza al mover m de r
+i a r? Nota: La tensión depende de r. 
+d) Obtenga valores numéricos para v, T y W cuando r /H11005 0.100 
+m, m /H11005 50.0 g, ri /H11005 0.300 m y vi /H11005 1.50 m/s.
+Figura P11.53 Problemas 53 y 54.
+Figura P11.55
+Figura P11.50
+Figura P11.51
+d
+CM
+ri
+vi
+m
+vi
+a)
+O
+b)
+d
+m
+O
+v
+Alexandra Héder
+Alexandra Héder
+ a) b)
+11_Cap_11_Serway(1).indd   335 2/23/08   1:45:09 AM
+
+336 Capítulo 11  Cantidad de movimiento angular
+2 /H11005 intermedio;3 /H11005 desafiante;/H11005 razonamiento simbólico;/H18567 /H11005 razonamiento cualitativo
+figura P11.58. a) ¿Cuál es la rapidez angular del disco una vez 
+que tiene lugar el rodamiento puro? b) Encuentre la pérdida 
+fraccionaria en energía cinética desde el momento en que se 
+libera el disco hasta que ocurre rodamiento puro. Sugerencia: 
+Considere momentos de torsión en torno al centro de masa.
+de la boleadora. En términos de m, /H5129, y v
+0, calcule a) la mag-
+nitud de la cantidad de movimiento, b) la rapidez horizontal 
+del centro de masa, c) la cantidad de movimiento angular en 
+torno al centro de masa y d) la rapidez angular de la boleadora 
+en torno a su centro de masa. Calcule la energía cinética de 
+la boleadora e) en el instante de liberación y f) en su forma Y 
+estable. g) Explique cómo se aplican las leyes de conservación 
+a la boleadora mientras cambia su configuración. Robert Bei-
+chner sugirió la idea para este problema.
+ 56. Un cubo só lido de madera, de lado 2 a y masa M , descansa  
+sobre una super
+ficie horizontal. El cubo está restringido a dar 
+vuelta en torno a un eje fijo AB (figura P11.56). Una bala de 
+masa m y rapi dez v se di spara a la cara opuesta ABCD a una 
+altura de 4a /3. La bala se i ncrusta en el cubo.  Encuentre el 
+valor mí nimo de v  que se requi ere para voltear al cubo de 
+modo que caiga sobre la cara ABCD. Suponga m /H11021/H11021M.
+ 57. /H18567 El calentamiento global causa preocupación porque inclu-
+so pequeños cambios en la temperatura de la T ierra pueden 
+tener consecuencias significativas. Por ejemplo, si las capas de 
+hielo polar de la T ierra se derritieran por completo, el agua 
+adicional resultante en los océ anos inundaría muchas á reas 
+costeras. Calcule el cambi o resultante en la duración de un 
+día. Modele el hi elo polar con una masa de 2. 30 /H1100310
+19 kg y 
+que forma dos discos planos de 6.00 /H11003 105 m de radio. Supon-
+ga que el agua se di spersa en un delgado cascaró n esférico 
+irrompible después de derretirse. ¿Es apreciable el cambio en 
+la duración de un día?
+ 58. Un disco sólido uniforme se pone en rotación con una rapidez 
+angular vi en torno a un eje a travé s de su centro.  Mientras 
+todavía gira con esta rapidez, el disco entra en contacto con 
+una superfi cie horizontal y se li bera como se muestra en la 
+ 59. Suponga que a un disco sólido de radio R se le da una rapidez 
+angular v
+i en torno a un eje a través de su centro y luego se 
+baja a una superfi cie horizontal y se li bera como se muestra 
+en la fi gura P11. 58. Además, suponga que el coefi ciente de 
+fricción entre el disco y la superficie es m. a) Demuestre que 
+el intervalo de ti empo antes de que ocurra movi miento de 
+rodamiento puro es Rv i/3mg. b) Demuestre que la distancia 
+que recorre el disco antes de que se presente rodamiento puro 
+es R 2vi
+2/18 mg.
+ 60. Un cubo sólido, de lado 2a y masa M, se desliza sobre una su-
+perf
+icie sin fricción con velocidad uniforme v
+S
+, como se mues-
+tra en la figura P11.60a. Golpea un pequeño obstáculo al final 
+de la mesa, lo que hace que el cubo se incline como se muestra 
+en la figura P11.60b. Encuentre el valor mínimo de 
+v
+S
+ tal que 
+el cubo caiga de la mesa. El momento de inercia del cubo en 
+torno a un eje a lo largo de uno de sus bordes es 8Ma
+2/3. Nota: 
+El cubo se somete una colisión inelástica en el borde.
+11.1 d). Debido a la función sen u, 0 A
+S
+ 3 B
+S
+ 0 es o igual o menor que 
+AB, dependiendo del ángulo u.
+11.2 i) , a). Si p
+S
+ y r
+S
+ son paralelos o antiparalelos, la cantidad de mo-
+vimiento angular es cero. Para una cantidad de movimiento 
+angular di stinta de cero, el vector canti dad de movi mien-
+to lineal debe estar corrido del eje de rotación. ii), c). La can-
+tidad de movimiento angular es el producto de la cantidad 
+de movimiento lineal y la di stancia perpendicular desde el 
+eje de rotación a la línea a lo largo de la que se encuentra 
+el vector cantidad de movimiento lineal.
+11.3 b). La esfera hueca tiene un mayor momento de inercia que 
+la esfera sólida.
+11.4 i) , a). La clavadista está en un sistema aislado, de modo que el 
+producto I
+v permanece constante. Puesto que su momento 
+de inercia disminuye, su rapidez angular aumenta. ii), a). A 
+medida que el momento de i nercia de la clavadi sta dismi-
+nuye, la rapi dez angular aumenta en el mi smo factor. Por 
+ejemplo, si i baja en un factor de 2, en tal caso v sube en un 
+factor de 2. La energía cinética rotacional varía como el cua-
+drado de v. Si I se reduce a la mitad, en tal caso v
+2 aumenta 
+en un factor de 4 y la energía aumenta en un factor de 2.
+Respuestas a las preguntas rápidas
+Figura P11.56
+Figura P11.58 Problemas 58 y 59.
+v
+2a
+A
+B
+C
+D
+4a/3
+Figura P11.60
+a) b)
+2a
+M
+v
+Mg
+v
+11_Cap_11_Serway(1).indd   336 2/23/08   1:45:10 AM
+
+En los capítulos 10 y 11 se estudió la dinámica de los objetos rígidos. Parte de este capítulo 
+aborda las condiciones en que un objeto rígido está en equilibrio. El término equilibrio 
+implica que el objeto está en reposo o que su centro de masa se mueve con velocidad 
+constante en relación con un observador en un marco de referencia inercial. Aquí sólo se 
+trata con el primer caso, en el que el objeto está en equilibrio estático. El equilibrio estático 
+representa una situación común en la práctica ingenieril, y los principios que involucra 
+son de especial interés para ingenieros civiles, arquitectos e ingenieros mecánicos. Si es 
+estudiante de ingeniería, sin duda llevará un curso avanzado de estática.
+La última sección de este capítulo trata sobre la forma con que se deforman los objetos 
+bajo condiciones de carga. Un objeto elástico regresa a su forma original cuando se quitan 
+las fuerzas deformantes. Se definen muchas constantes elásticas, cada una correspondiente 
+a un tipo diferente de deformación.
+12.1 Objeto rígido en equilibrio
+En el capítulo 5 se explicó el modelo de partícula en equilibrio, en el que una partícula 
+se mueve con velocidad constante porque la fuerza neta que actúa sobre ella es cero. La 
+situación con objetos reales (extendidos) es más compleja, porque dichos objetos con 
+frecuencia no se pueden modelar como partículas. Para que un objeto extendido esté en 
+ 337
+12.1 Objeto rígido en equilibrio
+12.2 Más acerca del centro de gravedad
+12.3 Ejemplos de objetos rígidos en equilibrio estático
+12.4 Propiedades elásticas de los sólidos
+12 Equilibrio estático y elasticidad
+La Roca Equilibrada en el Arches National Park, Utah, es una gran roca de 
+3 000 000 kg que ha estado en equilibrio estable durante milenios. Tenía 
+de vecina una compañera más pequeña, llamada “lasca del viejo bloque” , 
+que cayó durante el invierno de 1975. La Roca Equilibrada apareció 
+en una de las primeras escenas de la película Indiana Jones y la última 
+cruzada. En este capítulo se estudiarán las condiciones bajo las que un 
+objeto está en equilibrio. (John W. Jewett Jr.)
+
+338

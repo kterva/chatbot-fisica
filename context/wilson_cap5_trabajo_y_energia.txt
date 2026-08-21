@@ -1,0 +1,2791 @@
+Tema: Trabajo y energía (Capítulo 5 — Física, Wilson)
+
+CAPÍTULO 5 Trabajo y energía
+será el componente de la fuerza paralelo al desplazamiento. Por lo tanto, una ecuación
+más general para el trabajo efectuado por una fuerza constante es
+(trabajo realizado por una fuerza constante) (5.2)
+Observe que /H9258es el ángulo entre los vectores de fuerza y desplazamiento. Para no olvi-
+dar este factor, podemos escribir cos /H9258entre las magnitudes de la fuerza y el desplaza-
+miento, W /H11005F(cos /H9258)d. Si /H9258/H110050/H11034(es decir, si la fuerza y el desplazamiento tienen la
+misma dirección, como en la figura 5.1b), entonces W /H11005F(cos 0/H11034)d /H11005Fd, y la ecuación
+5.2 se reduce a la ecuación 5.1. El componente perpendicular de la fuerza, F# /H11005F sen /H9258,
+no efectúa trabajo, ya que no hay desplazamiento en esta dirección.
+Las unidades del trabajo se pueden determinar mediante la ecuación W /H11005Fd. Con
+la fuerza en newtons y el desplazamiento en metros, el trabajo tiene la unidad SI de
+newton-metro (N /H11080m). Esta unidad recibe el nombre de joule (J):
+Por ejemplo, el trabajo realizado por una fuerza de 25 N sobre un objeto mientras éste
+tiene un desplazamiento paralelo de 2.0 m es W /H11005Fd /H11005(25 N)(2.0 m) /H1100550 N /H11080m, o 50 J.
+Por la ecuación anterior, vemos también que, en el sistema inglés, el trabajo ten-
+dría la unidad libra-pie. Sin embargo, el nombre suele escribirse al revés: la unidad 
+inglesa estándar de trabajo es el 
+pie-libra (ft /H11080lb). Un ft /H11080lb equivale a 1.36 J.
+Podemos analizar el trabajo gráficamente. Suponga que una fuerza constante F
+en la dirección x actúa sobre un objeto mientras éste se mueve una distancia x. Enton-
+ces, W /H11005Fx y si graficamos F contra x, obtendremos una gráfica de línea recta como 
+la que se muestra en la sección lateral Aprender dibujando. El área bajo la línea es Fx, 
+así que esta área es igual al trabajo efectuado por la fuerza sobre la distancia dada. Des-
+pués consideraremos una fuerza no constante o variable.*
+Recordemos que el trabajo es una cantidad escalar y, como tal, puede tener un valor
+positivo o negativo. En la figura 5.1b, el trabajo es positivo, porque la fuerza actúa en
+la misma dirección que el desplazamiento (y cos 0 /H11034es positivo). El trabajo también es
+positivo en la figura 5.1c, porque un componente de fuerza actúa en la dirección del
+desplazamiento (y cos /H9258es positivo).
+Sin embargo, si la fuerza, o un componente de fuerza, actúa en la dirección
+opuesta al desplazamiento, el trabajo es negativo, porque el término coseno es negati-
+vo. Por ejemplo, con /H9258/H11005180/H11034(fuerza opuesta al desplazamiento), cos 180 /H11034/H11005/H110021, así
+que el trabajo es negativo: W /H11005F
+«d /H11005(F cos 180/H11034)d /H11005/H11002Fd. Un ejemplo es una fuerza
+de frenado que desacelera un objeto. Véase Aprender dibujando de la página 143.
+Ejemplo 5.1 ■ Psicología aplicada: trabajo mecánico
+Una estudiante sostiene su libro de texto de psicología, que tiene una masa de 1.5 kg,
+afuera de una ventana del segundo piso de su dormitorio hasta que su brazo se cansa;
+entonces lo suelta (
+>figura 5.2). a) ¿Cuánto trabajo efectúa la estudiante sobre el libro por
+el simple hecho de sostenerlo fuera de la ventana? b) ¿Cuánto trabajo efectúa la fuerza 
+de gravedad durante el tiempo en el que el libro cae 3.0 m?
+Razonamiento. Analizamos las situaciones en términos de la definición de trabajo, recor-
+dando que fuerza y desplazamiento son los factores clave.
+Solución. Hacemos una lista de los datos
+Dado: (inicialmente Encuentre: a) W (trabajo realizado por la estudiante 
+en reposo) al sostenerlo)
+b) W (trabajo realizado por la gravedad
+al caer)
+a) Aunque la estudiante se cansa (porque se efectúa trabajo dentro del cuerpo para man-
+tener los músculos en estado de tensión), no efectúa trabajo sobre el libro por el simple 
+hecho de mantenerlo estacionario. Ella ejerce una fuerza hacia arriba sobre el libro (igual
+en magnitud a su peso); pero el desplazamiento es cero en este caso ( d
+/H110050). Por lo tanto,
+W /H11005Fd /H11005F /H110030 /H110050 J.
+ d = 3.0 m
+ m = 1.5 kg
+ vo = 0
+ 1 N# m = 1 J
+ Fd = W
+W = F7 d =1F cos u2d
+El joule (J), que se pronuncia “yul”,
+se llama así en honor a James
+Prescott Joule (1818-1889), un
+científico inglés que investigó 
+el trabajo y la energía.
+*El trabajo es el área bajo la curva de F contra x, aunque la curva no sea una línea recta. Para calcu-
+lar el trabajo en tales circunstancias por lo general se requieren matemáticas avanzadas.
+F
+x
+Trabajo
+W = Fx
+APRENDER DIBUJANDO
+Trabajo: área bajo la 
+curva de F contra x
+
+5.1 Trabajo efectuado por una fuerza constante 143
+b) Mientras el libro cae, la única fuerza que actúa sobre él es la gravedad (sin consi-
+derar la resistencia del aire), que es igual en magnitud al peso del libro: F /H11005w /H11005mg. 
+El desplazamiento es en la misma dirección que la fuerza ( /H9258/H110050/H11034) y tiene una magnitud
+de d /H110053.0 m, así que el trabajo efectuado por la gravedad es
+(Es positivo porque la fuerza y el desplazamiento están en la misma dirección.)
+Ejercicio de refuerzo. Una pelota de 0.20 kg se lanza hacia arriba. ¿Cuánto trabajo efectúa
+la gravedad sobre la pelota, mientras ésta sube de 2.0 a 3.0 m de altura? ( Las respuestas de
+todos los Ejercicios de refuerzo se dan al final del libro.)
+Ejemplo 5.2 ■ Trabajo duro
+Un trabajador jala un cajón de madera de 40.0 kg con una cuerda, como se ilustra en la
+▼ figura 5.3. El coeficiente de fricción cinética (de deslizamiento) entre el cajón y el piso es
+0.550. Si él mueve el cajón con una velocidad constante una distancia de 7.00 m, ¿cuánto
+trabajo se realiza?
+Razonamiento. Lo mejor que se puede hacer en este tipo de problemas es dibujar un dia-
+grama de cuerpo libre, como se indica en la figura. Para determinar el trabajo, debe cono-
+cerse la fuerza F. Como es habitual en estos casos, es necesario sumar las fuerzas.
+Solución.
+Dado: Encuentre: W (el trabajo realizado al mover
+7.00 m el cajón)
+Entonces, al sumar las fuerzas en las direcciones x y y:
+Para encontrar F, en la segunda ecuación debe despejarse N, que después se sustituye en
+la primera ecuación.
+(Note que N no es igual al peso del cajón. ¿Por qué?) Al sustituir en la primera ecuación,
+F cos 30° -mk(mg - F sen 30°) = 0
+N = mg - F sen 30°
+  g Fy
+ = N + F sen 30° - mg = may = 0
+  g Fx
+ = F cos 30° - fk = F cos 30° -mkN = max = 0
+ u = 30° (a partir de la figura)
+ d = 7.00 m
+ mk = 0.550
+ m = 40.0 kg
+W = F1cos 0°2d =1mg2d =11.5 kg219.8 m>s2213.0 m2 =+ 44 J
+fk Diagrama de cuerpo libre
+y
+x
+F cos 30/H1103430/H11034
+30/H11034F sen 30/H11034 
+w /H11005 mg
+mg
+N
+N
+F
+fk
+▼ FIGURA 5.3 Haciendo algo de trabajo. Véase el ejemplo 5.2.
+(continúa en la siguiente
+página)
+/H9258 = 0°
+/H9258 < 90°
+/H9258 = 90°
+/H9258 > 90°
+/H9258 = 180°
+/H9258
+/H9258
+/H9258
+pero
+(¿por qué?)
+APRENDER DIBUJANDO
+Cómo determinar el signo
+del trabajo
+
+144 CAPÍTULO 5 Trabajo y energía
+Al despejar F y colocar los valores:
+Entonces, 
+Ejercicio de refuerzo. Perder 1.00 g de grasa corporal requiere de 3.80 /H11003104 de trabajo.
+¿Qué distancia tendría que jalar el cajón el trabajador para perder 1 g de grasa? (Suponga
+que todo el trabajo se destina a la reducción de grasa.) Haga una estimación antes de re-
+solver este ejercicio y vea qué tan cerca estuvo de la solución.
+Por lo común especificamos qué fuerza efectúa trabajo sobre qué objeto. Por ejem-
+plo, la fuerza de gravedad efectúa trabajo sobre un objeto que cae, como el libro del
+ejemplo 5.1. También, cuando levantamos un objeto, nosotros realizamos trabajo sobre el
+objeto. A veces describimos esto como efectuar trabajo contra la gravedad, porque la
+fuerza de gravedad actúa en la dirección opuesta a la de la fuerza de levantamiento
+aplicada, y se opone a ella. Por ejemplo, una manzana ordinaria tiene un peso de apro-
+ximadamente 1 N. Entonces, si levantáramos una manzana una distancia de 1 m con
+una fuerza igual a su peso, habríamos efectuado 1 J de trabajo contra la gravedad [W /H11005
+Fd /H11005(l N)(l m) /H110051 J]. Este ejemplo nos da una idea de cuánto trabajo representa 1 J.
+En ambos ejemplos, 5.1 y 5.2, una sola fuerza constante efectuó trabajo. Si dos o
+más fuerzas actúan sobre un objeto, se puede calcular individualmente el trabajo efec-
+tuado por cada una:
+El trabajo total o neto es el trabajo efectuado por todas las fuerzas que actúan
+sobre el objeto; es la suma escalar de esas cantidades de trabajo.
+Este concepto se ilustra en el ejemplo 5.3.
+Ejemplo 5.3 ■ Trabajo total o neto
+Un bloque de 0.75 kg se desliza con velocidad uniforme bajando por un plano inclinado
+de 20/H11034(▼ figura 5.4). a) ¿Cuánto trabajo efectúa la fuerza de fricción sobre el bloque mien-
+tras se desliza la longitud total del plano? b) ¿Qué trabajo neto se efectúa sobre el bloque?
+c) Comente el trabajo neto efectuado si el ángulo del plano se ajusta de manera que el blo-
+que acelere al bajar.
+Razonamiento. a) Usando la trigonometría obtenemos la longitud del plano, así que esta
+parte se reduce a calcular la fuerza de fricción. b) El trabajo neto es la suma de todo el traba-
+jo efectuado por las fuerzas individuales. (Nota: puesto que el bloque tiene velocidad uni-
+forme o constante, la fuerza neta que actúa sobre él es cero. Esta observación nos da la
+respuesta, pero se calculará explícitamente en la solución.) c) Si hay aceleración, entra en jue-
+go la segunda ley de Newton, que implica una fuerza neta, por lo que habrá trabajo neto.
+Solución. Hacemos una lista de la información dada. Además, es igualmente importante
+plantear explícitamente lo que se busca.
+W = F(cos 30°)d = (189 N)(0.866)(7.00 m) = 1.15 * 103 J
+F =
+mkmg
+(cos 30° +mk sen 30°) = (0.550)(40.0 kg)(9.80 m>s2)
+(0.866) + (0.550)(0.500)] = 189 N
+Nv
+N
+v
+fk
+L = 1.2 m
+d
+u = 20°
+y
+x
+Diagrama de cuerpo libre
+mg cos u
+mg sen u
+fk
+mgmg
+u
+N FIGURA 5.4 Trabajo total o neto
+Véase el ejemplo 5.3.
+Ilustración 6.2 Fuerzas constantes
+
+5.2 Trabajo efectuado por una fuerza variable 145
+Dado: Encuentre: a) Wf (trabajo realizado sobre el bloque por
+la fricción)
+(de la figura 5.4) b)  Wneto (trabajo neto sobre el bloque)
+c) W (comente el trabajo neto con el bloque 
+acelerado)
+a) En la figura 5.4 vemos que sólo dos fuerzas efectúan trabajo, porque sólo dos son parale-
+las al movimiento: fk la fuerza de fricción cinética, y mg sen /H9258el componente del peso del blo-
+que que actúa paralelo al plano. La fuerza normal N y mg cos /H9258, el componente del peso del
+bloque que actúa perpendicular al plano, no efectúan trabajo sobre el bloque. (¿Por qué?)
+Primero calculamos el trabajo efectuado por la fuerza de fricción:
+El ángulo de 180 /H11034indica que la fuerza y el desplazamiento tienen direcciones opuestas.
+(En tales casos es común escribir Wf /H11005/H11002fkd directamente, pues la fricción cinética por lo
+regular se opone al movimiento.) La distancia d que el bloque se desliza se obtiene usan-
+do trigonometría. Dado que cos /H9258/H11005L/H20862d,
+Sabemos que N /H11005mg cos /H9258, pero ¿cuánto vale /H9262k? Parece que nos falta algo de información.
+Cuando se presenta una situación así, hay que buscar otra forma de resolver el problema.
+Como ya señalamos, sólo hay dos fuerzas paralelas al movimiento, y son opuestas. Dado que
+la velocidad es constante, sus magnitudes deben ser iguales, así que f
+k /H11005mg sen /H9258. Por lo tanto,
+b) Para obtener el trabajo neto, necesitamos calcular el trabajo efectuado por la grave-
+dad y sumarlo a nuestro resultado del inciso a). Puesto que F« para la gravedad no es 
+más que mg sen /H9258, tenemos
+donde el cálculo es el mismo que en el inciso a, a excepción del signo. Entonces,
+Recuerde que el trabajo es una cantidad escalar, así que usamos una suma escalar para
+calcular el trabajo neto.
+c) Si el bloque acelera al bajar el plano, la segunda ley de Newton nos indica que 
+Fneta /H11005mg sen /H9258/H11002fk /H11005ma. El componente de la fuerza gravitacional (mg sen /H9258) es mayor
+que la fuerza de fricción que se le opone ( fk) y se efectúa un trabajo neto sobre el bloque,
+porque ahora /H20841Wg/H20841/H11022/H20841Wf /H20841. El lector tal vez se esté preguntando qué efecto tiene un trabajo
+neto distinto de cero. Como veremos a continuación, un trabajo neto distinto de cero pro-
+voca un cambio en la cantidad de energía que tiene un objeto.
+Ejercicio da refuerzo. En el inciso c de este ejemplo, ¿el trabajo por fricción puede tener
+una magnitud mayor que el trabajo gravitacional? ¿Qué implicaría esta condición en tér-
+minos de la rapidez del bloque?
+Sugerencia para resolver problemas
+En el inciso a del ejemplo 5.3 simplificamos la ecuación de Wf utilizando las expre-
+siones algebraicas para N y d, en vez de calcular inicialmente tales cantidades. Por
+regla general es conveniente no sustituir las variables por sus valores en las ecuacio-
+nes, en tanto no sea indispensable. Es preferible simplificar una ecuación cancelando
+símbolos, y ello ahorra tiempo al efectuar los cálculos.
+5.2 Trabajo efectuado por una fuerza variable
+OBJETIVOS: a) Distinguir entre trabajo realizado por fuerzas constantes y varia-
+bles y b) calcular el trabajo efectuado por la fuerza del resorte.
+En la sección anterior, nos limitamos a analizar el trabajo efectuado por fuerzas cons-
+tantes. Sin embargo, las fuerzas generalmente varían; es decir, cambian de magnitud o
+ángulo, o ambos, con el tiempo o con la posición, o con ambos. Por ejemplo, alguien
+Wneto = Wg + Wf =+ 3.2 J +1-3.2 J2 = 0
+Wg = F7 d =1mg sen u2a L
+cos ub = mgL tan 20° =+ 3.2 J
+ =- 10.75 kg219.8 m>s2211.2 m210.3642 =- 3.2 J
+ Wf =- fk
+ d =- 1mg sen u2a L
+cos ub =- mgL tan 20°
+d = L
+cos u
+Wf = fk1cos 180°2d =- fk
+ d =- mk
+ Nd
+ L = 1.2 m
+ u = 20°
+ m = 0.75 kg
+Nota: recuerde la explicación de la
+fricción en la sección 4.6.
+
+146 CAPÍTULO 5 Trabajo y energía
+podría empujar con fuerza cada vez mayor un objeto, para superar la fuerza de fricción
+estática, hasta que la fuerza aplicada exceda fSmáx. Sin embargo, la fuerza de fricción es-
+tática no efectúa trabajo, pues no hay movimiento ni desplazamiento.
+Un ejemplo de fuerza variable que sí efectúa trabajo se ilustra en la ▲figura 5.5,
+donde observamos que una fuerza aplicada Fa estira un resorte. Conforme el resorte se
+estira (o comprime), su fuerza de restauración (que se opone al estiramiento o a la com-
+presión) se vuelve cada vez mayor, y es preciso aplicar una fuerza más grande. Para la
+mayoría de los resortes, la fuerza del resorte es directamente proporcional al cambio de
+longitud del resorte respecto a su longitud sin estiramiento. En forma de ecuación, esta
+relación se expresa así
+o bien, si 
+(fuerza del resorte ideal) (5.3)
+donde x representa ahora la distancia que se estiró (o comprimió) el resorte, respecto a
+su longitud no estirada. Es evidente que la fuerza varía cuando x cambia. Describimos
+esta relación diciendo que la fuerza es función de la posición.
+La k de esta ecuación es una constante de proporcionalidad y suele llamarse cons-
+tante de resorte o constante de fuerza. Cuanto mayor sea el valor de k, más rígido o
+más fuerte será el resorte. El lector deberá comprobar por sí solo que la unidad SI de k
+es newton/metro (N/m). El signo menos indica que la fuerza del resorte actúa en di-
+rección opuesta al desplazamiento cuando el resorte se estira o se comprime. La ecua-
+ción 5.3 es una forma de lo que se conoce como ley de Hooke, llamada así en honor de
+Robert Hooke, un contemporáneo de Newton.
+La relación expresada por la ecuación de la fuerza del resorte se cumple sólo con
+resortes ideales, los cuales se acercan a esta relación lineal entre fuerza y desplaza-
+miento dentro de ciertos límites. Si un resorte se estira más allá de cierto punto, su lí-
+mite elástico, se deformará permanentemente y dejará de ser válida la relación lineal.
+Para calcular el trabajo realizado por las fuerzas variables generalmente se requie-
+re el cálculo. Pero tenemos suerte de que la fuerza del resorte sea un caso especial que
+puede calcularse utilizando una gráfica. Un diagrama de F (la fuerza aplicada) contra
+x se muestra en la 
+Nfigura 5.6. La gráfica tiene una pendiente rectilínea de k, con F /H11005kx,
+donde F es la fuerza aplicada al realizar el trabajo de estirar el resorte.
+Fs =- kx
+xo = 0,
+Fs =- k¢x =- k1x - xo2
+FaFs
+Fa
+a)
+xo
+b)
+x
+ Δx /H11005 x /H11002 xo
+xo
+Fs
+Fs /H11005 /H11002 kΔx /H11005 /H11002 k (x /H11002 xo)
+Fs /H11005 /H11002 kx con xo /H11005 0
+Sin estirar
+Fuerza
+del resorte
+Fuerza
+aplicada
+N FIGURA 5.5 Fuerza del resorte
+a) Una fuerza aplicada Fa estira 
+el resorte, y éste ejerce una fuerza
+igual y opuesta, F
+s, sobre la mano.
+b) La magnitud de la fuerza 
+depende del cambio de longitud del
+resorte, /H9004x. Este cambio suele 
+medirse con respecto al extremo 
+del resorte no estirado, x
+o.
+Nota: en la figura 5.5, la mano
+aplica una fuerza variable Fa al
+estirar el resorte. Al mismo tiempo,
+el resorte ejerce una fuerza igual 
+y opuesta F
+s sobre la mano.
+Ilustración 6.3 Fuerza y 
+desplazamiento
+
+F /H11005 (m1 /H11001 m2)g
+Fs
+F /H11005 m1g
+Fs
+a)
+b)
+xo /H11005 0
+x1
+x
+m1
+m2 
+m1
+▲ FIGURA 5.7 Determinación de la
+constante de resorte y del trabajo
+efectuado al estirar un resorte
+Véase el ejemplo 5.4.
+F
+x
+FF = kx
+0
+Pend
+iente = 
+k
+Área = W
+▲ FIGURA 5.6 Trabajo efectuado
+por una fuerza de resorte que
+varía uniformemente Una gráfica
+de F contra x, donde F es la fuerza
+aplicada que hace el trabajo de
+estirar un resorte, es una línea recta
+con una pendiente k. El trabajo es
+igual al área bajo la recta, que es la
+de un triángulo con 
+Entonces 
+W =
+1
+2 Fx = 1
+2 1kx2x = 1
+2 kx2.
+área = 1
+2 1altura * base2.
+5.2 Trabajo efectuado por una fuerza variable 147
+Como vimos, el trabajo es el área bajo la curva F contra x, que tiene la forma de un
+triángulo como indica el área sombreada de la figura. Y, al calcular esta área,
+o
+donde F /H11005kx. Por lo tanto,
+(5.4)
+Ejemplo 5.4 ■ Determinación de la constante de resorte
+Una masa de 0.15 kg se une a un resorte vertical y cuelga en reposo hasta una distancia de
+4.6 cm respecto a su posición original ( Nfigura 5.7). Otra masa de 0.50 kg se cuelga de la
+primera masa y se deja que baje hasta una nueva posición de equilibrio. ¿Qué extensión
+total tiene el resorte? (Desprecie la masa del resorte.)
+Razonamiento. La constante del resorte, k, aparece en la ecuación 5.3. Por lo tanto, para
+determinar el valor de k en un caso específico, necesitamos conocer la fuerza del resorte y
+la distancia que éste se estira (o se comprime).
+Solución. Los datos son:
+Dado: Encuentre: x (la distancia del estiramiento del resorte)
+La distancia total de estiramiento está dada por x /H11005F/k, donde F es la fuerza aplicada, que
+en este caso es el peso de la masa suspendida del resorte. Sin embargo, no nos dan la cons-
+tante del resorte, k. Podemos averiguar su valor a partir de los datos de la suspensión de m
+1
+y el desplazamiento resultante x1. (Es común usar este método para determinar constantes
+de resorte.) Como se observa en la figura 5.7a, la magnitud de la fuerza del peso y de la fuer-
+za restauradora del resorte son iguales, ya que a /H110050, así que podemos igualarlas:
+Al despejar k, obtenemos
+Ahora que conocemos k, obtenemos la extensión total del resorte a partir de la situación
+de fuerzas equilibradas que se muestra en la figura 5.7b:
+Por lo tanto,
+Ejercicio de refuerzo. ¿Cuánto trabajo efectúa la gravedad al estirar el resorte en ambos
+desplazamientos del ejemplo 5.4?
+Sugerencia para resolver problemas
+La posición de referencia xo para determinar el cambio de longitud de un resorte es
+arbitraria y suele elegirse por conveniencia. La cantidad importante al calcular trabajo 
+es la diferencia de posición, /H9004x, o el cambio neto de longitud del resorte respecto a su longitud
+sin estirar. Como se muestra en la ▼ figura 5.8 para una masa suspendida de un resor-
+te, la referencia xo puede tomarse como la posición sin carga del resorte o la posición
+cargada, que podría tomarse como posición cero por conveniencia. En el ejemplo 5.4,
+tomamos x
+o como el extremo del resorte sin carga.
+Cuando la fuerza neta que actúa sobre la masa suspendida es cero, decimos que la
+masa está en su posición de equilibrio (como en la figura 5.7a, con m1 suspendida). Esta
+posición, más que la longitud sin carga, podría tomarse como referencia cero (xo /H110050;
+véase la figura 5.8b). La posición de equilibrio es un punto de referencia conveniente 
+en casos en que la masa oscila hacia arriba y hacia abajo al colgar del resorte. También,
+dado que el desplazamiento es en dirección vertical, es común usar y en vez de x.
+x =
+1m
+1 + m22g
+k =
+10.15 kg + 0.50 kg219.8 m>s22
+32 N>m
+= 0.20 m 1o 20 cm2
+Fs =1m1 + m22g = kx
+k =
+m1
+ g
+x1
+=
+10.15 kg219.8 m>s22
+0.046 m = 32 N>m
+Fs = kx1 = m1
+ g
+ m2 = 0.50 kg
+ x1 = 4.6 cm = 0.046 m
+ m1 = 0.15 kg
+trabajo efectuado al estirar (o comprimir)
+un resorte desde xo = 0W = 1
+2 kx2
+W = 1
+2 Fx = 1
+2 1kx2x = 1
+2 kx2
+área = W = 1
+2 1altura * base2
+
+148 CAPÍTULO 5 Trabajo y energía
+Fs
+a) b)
+xo
+x
+m
+mg
+Fs
+m xo = 0 Posición de
+equilibrio
+–x
++xΔx
+mg
+N FIGURA 5.8 Referencia de
+desplazamiento La posición de
+referencia xo es arbitraria y suele
+elegirse por conveniencia. Podría
+ser a) el extremo del resorte sin
+carga o b) la posición de equilibrio
+cuando se suspende una masa 
+del resorte. Esta última es muy
+conveniente en casos en que la
+masa oscila hacia arriba y hacia
+abajo en el resorte.
+5.3 El teorema trabajo-energía: energía cinética
+OBJETIVOS: a) Estudiar el teorema trabajo-energía y b) aplicarlo para resolver 
+problemas.
+Ahora que tenemos una definición operativa de trabajo, examinemos su relación con
+la energía. La energía es uno de los conceptos científicos más importantes. La describi-
+mos como una cantidad que poseen los objetos o sistemas. Básicamente, el trabajo es
+algo que se hace sobre los objetos, en tanto que la energía es algo que los objetos tienen:
+la capacidad para efectuar trabajo.
+Una forma de energía que está íntimamente asociada con el trabajo es la energía ci-
+nética. (Describiremos otra forma de energía, la energía potencial, en la sección 5.4.) Con-
+sidere un objeto en reposo sobre una superficie sin fricción. Una fuerza horizontal
+actúa sobre el objeto y lo pone en movimiento. Se efectúa trabajo sobre el objeto, pero 
+¿a dónde “se va” el trabajo, por decirlo de alguna manera? Se va al objeto, poniéndolo
+en movimiento, es decir, modificando sus condiciones cinéticas. En virtud de su movi-
+miento, decimos que el objeto ha ganado energía: energía cinética, que lo hace capaz
+de efectuar trabajo.
+Para una fuerza constante que efectúa trabajo sobre un objeto en movimiento, 
+como se ilustra en la 
+▼ figura 5.9, la fuerza efectúa una cantidad de trabajo W /H11005Fx.
+Sin embargo, ¿qué efectos cinemáticos tiene? La fuerza hace que el objeto acelere y,
+por la ecuación 2.12, (con ),
+a = v2 - vo
+2
+2x
+xo = 0v2 = vo
+2 + 2ax
+F
+v
+F
+K  = mv21
+2
+x
+m
+W = Fx
+(Sin fricción)
+  vo
+W = K – Ko = ΔK
+Ko =  mvo2
+m
+1
+2
+N FIGURA 5.9 Relación entre
+trabajo y energía cinética
+El trabajo efectuado por una
+fuerza constante sobre un
+bloque, para moverlo en 
+una superficie horizontal, 
+sin fricción es igual al cambio
+en la energía cinética del
+bloque: W /H11005/H9004K.
+Ilustración 6.4 Resortes
+Exploración 6.1 Una definición 
+operativa de trabajo
+
+5.3 El teorema trabajo-energía: energía cinética 149
+donde vo podría o no ser cero. Si escribimos la magnitud de la fuerza en la forma de la
+segunda ley de Newton y sustituimos en ella la expresión para a de la ecuación ante-
+rior, tendremos
+Si utilizamos esta expresión en la ecuación del trabajo, obtendremos
+Es conveniente definir como la energía cinética (K) del objeto en movimiento:
+(energía cinética) (5.5)
+Unidad SI de energía: joule (J)
+Es común referirse a la energía cinética como la energía de movimiento. Observe que es
+directamente proporcional al cuadrado de la rapidez (instantánea) del objeto en movi-
+miento, así que no puede ser negativa.
+Entonces, en términos de energía cinética, las expresiones anteriores para el traba-
+jo se escriben como
+o
+(5.6)
+donde se sobreentiende que W
+es el trabajo neto si dos o más fuerzas actúan sobre el objeto, co-
+mo vimos en el ejemplo 5.3. Esta ecuación es el teorema trabajo-energía; relaciona el
+trabajo efectuado sobre un objeto con el cambio en la energía cinética del objeto. Es de-
+cir, el trabajo neto efectuado sobre un cuerpo por todas las fuerzas que actúan sobre él es igual
+al cambio de energía cinética del cuerpo. Tanto el trabajo como la energía tienen unidades
+de joules, y ambas son cantidades escalares. Hay que tener presente que el teorema tra-
+bajo-energía es válido en general para fuerzas variables, no sólo para el caso especial
+que consideramos al deducir la ecuación 5.6.
+Para ilustrar que el trabajo neto es igual al cambio de energía cinética, recorde-
+mos que, en el ejemplo 5.1, la fuerza de gravedad efectuó /H1100144 J de trabajo sobre un libro,
+que cayó desde el reposo una distancia de y /H110053.0 m. En esa posición e instante, el li-
+bro en caída tenía 44 J de energía cinética. Dado que v
+o /H110050 en este caso, 
+Si sustituimos esta expresión en la ecuación para el trabajo efectuado por la gravedad
+sobre el libro en caída, obtenemos
+donde Ko /H110050. Así, la energía cinética que el libro gana es igual al trabajo neto efec-
+tuado sobre él: 44 J en este caso. (Como ejercicio, el lector puede confirmar este hecho
+calculando la rapidez del libro y evaluando su energía cinética.)
+Lo que nos dice el teorema trabajo-energía es que, cuando se efectúa trabajo, hay
+un cambio o una transferencia de energía. En general, entonces, decimos que el trabajo
+es una medida de la transferencia de energía cinética . Por ejemplo, una fuerza que efectúa
+trabajo sobre un objeto para acelerarlo causa un incremento en la energía cinética del
+objeto. En cambio, el trabajo (negativo) efectuado por la fuerza de fricción cinética po-
+dría hacer que un objeto se frene, con lo que su energía cinética disminuye. Así pues,
+para que un objeto sufra un cambio en su energía cinética, será necesario efectuar un
+trabajo neto sobre él, como nos indica la ecuación 5.6.
+Cuando un objeto está en movimiento, posee energía cinética y tiene la capacidad
+de efectuar trabajo. Por ejemplo, un automóvil en movimiento tiene energía cinética y
+puede efectuar trabajo abollando el parachoques de otro auto en un accidente; no es
+trabajo útil en este caso, pero es trabajo al fin y al cabo. En la 
+Nfigura 5.10 se da otro
+ejemplo de trabajo efectuado por energía cinética.
+W = Fd = mgy = mv2
+2 = K =¢ K
+1
+2 mv2 = mgy.
+W =¢ K
+W = 1
+2 mv2 - 1
+2 mvo
+2 = K - Ko =¢ K
+K = 1
+2 mv2
+1
+2 mv2
+ = 1
+2 mv2 - 1
+2 mvo
+2
+ W = Fx = m¢ v2 - vo
+2
+2x ≤x
+F = ma = m¢ v2 - vo
+2
+2x ≤
+▲ FIGURA 5.10 Energía cinética y
+trabajo Un objeto en movimiento,
+como esta bola para demolición 
+de construcciones, procesa energía
+cinética y, por lo tanto, puede
+efectuar trabajo.
+Teorema trabajo-energía
+
+150 CAPÍTULO 5 Trabajo y energía
+vo /H11005 0
+F
+d
+v
+N FIGURA 5.11 Trabajo y energía
+cinética Véase el ejemplo 5.5.
+Ejemplo 5.5 ■ Un juego de tejo: el teorema trabajo-energía
+Una jugadora (▼ figura 5.11) empuja un disco de 0.25 kg que inicialmente está en reposo,
+de manera que una fuerza horizontal constante de 6.0 N actúa sobre él durante una dis-
+tancia de 0.50 m. (Despreciaremos la fricción.) a) ¿Qué energía cinética y rapidez tiene el
+disco cuando se deja de aplicar la fuerza? b) ¿Cuánto trabajo se requeriría para detener 
+el disco?
+Razonamiento. Aplicamos el teorema trabajo-energía. Si podemos calcular el trabajo efec-
+tuado, conoceremos el cambio de energía cinética, y viceversa.
+Solución. Hacemos, como siempre, una lista de los datos:
+Dado: Encuentre: a) K (energía cinética)
+v (rapidez)
+b) W (trabajo efectuado para detener el tejo)
+a) Puesto que no conocemos la rapidez, no podemos calcular directamente la energía 
+cinética . Sin embargo, la energía cinética está relacionada con el trabajo por 
+el teorema trabajo-energía. El trabajo efectuado sobre el disco, por la fuerza F que aplica 
+la jugadora es
+Entonces, por el teorema trabajo-energía, obtenemos
+Por otro lado, porque así que
+Podemos calcular la rapidez a partir de la energía cinética. Puesto que 
+tenemos
+b) Como seguramente ya dedujo el lector, el trabajo requerido para detener el disco es
+igual a la energía cinética de éste (es decir, la cantidad de energía que debemos “quitarle”
+al tejo para detener su movimiento). Para confirmar esta igualdad, básicamente efectua-
+mos el cálculo anterior al revés, con v
+o /H110054.9 m/s y v /H110050:
+El signo menos indica que el disco pierde energía al frenarse. El trabajo se efectúa contra
+el movimiento del disco; es decir, la fuerza es opuesta a la dirección del movimiento. (En
+una situación real, la fuerza opuesta sería la fricción.)
+Ejercicio de refuerzo. Suponga que el disco de este ejemplo tiene el doble de rapidez final
+cuando se suelta. ¿Se requerirá el doble de trabajo para detenerlo? Justifique numérica-
+mente su respuesta.
+W = K - K
+o = 0 - Ko =-  
+1
+2 mvo
+2 =-  
+1
+2 10.25 kg214.9 m>s22 =- 3.0 J
+v = A
+2K
+m =
+B
+213.0 J2
+0.25 kg = 4.9 m>s
+K = 1
+2 mv2,
+K = 3.0 J
+vo = 0,Ko = 1
+2 mvo
+2 = 0,
+W =¢ K = K - Ko =+ 3.0 J
+W = Fd =16.0 N210.50 m2 =+ 3.0 J
+AK = 1
+2 mv2B
+ vo = 0
+ d = 0.50 m
+ F = 6.0 N
+ m = 0.25 kg
+Exploración 6.4 Cambie la dirección
+de la fuerza aplicada
+
+5.3 El teorema trabajo-energía: energía cinética 151
+Sugerencia para resolver problemas
+En el ejemplo 5.5 utilizamos consideraciones de trabajo-energía para calcular la rapi-
+dez. Podríamos haberlo hecho de otra manera: calculando primero la aceleración con
+a /H11005F/H20862m, y luego usando la ecuación de cinemática para calcular v
+(donde x /H11005d /H110050.50 m). Lo importante es que muchos problemas se resuelven de di-
+ferentes maneras, y a menudo la clave del éxito consiste en encontrar la forma más
+rápida y eficiente para hacerlo. Al seguir estudiando la energía, veremos lo útiles y
+potentes que son los conceptos de trabajo y energía, como nociones teóricas y tam-
+bién como herramientas prácticas para resolver muchos tipos de problemas.
+Ejemplo conceptual 5.6 ■ Energía cinética: masa y rapidez
+En un juego de fútbol americano, un guardia de 140 kg corre con una rapidez de 4.0 m/s,
+y un defensivo profundo libre de 70 kg se mueve a 8.0 m/s. En esta situación, ¿es correc-
+to decir que a) ambos jugadores tienen la misma energía cinética? b) ¿Que el defensivo
+profundo tiene el doble de energía cinética que el guardia? c) ¿Que el guardia tiene el do-
+ble de energía cinética que el defensivo profundo? d) ¿Que el defensivo profundo tiene
+cuatro veces más energía cinética que el guardia?
+Razonamiento y respuesta. La energía cinética de un cuerpo depende tanto de su masa
+como de su rapidez. Podríamos pensar que, al tener la mitad de la masa pero el doble de
+la velocidad, el defensivo profundo tendría la misma energía cinética que el guardia, 
+pero no es así. Como vemos en la relación la energía cinética es directamente
+proporcional a la masa, pero también es proporcional al cuadrado de la rapidez. Por lo
+tanto, reducir la masa a la mitad disminuiría la energía cinética a la mitad; por lo tanto,
+si los dos jugadores tuvieran la misma rapidez, el defensivo profundo tendría la mitad
+de la energía cinética que el guardia.
+Sin embargo, un aumento al doble de la rapidez aumenta la energía cinética no al do-
+ble, sino en un factor de 2
+2, es decir, 4. Por lo tanto, el defensivo profundo, con la mitad de
+la masa pero el doble de la rapidez, tendría veces más energía cinética que el
+guardia, así que la respuesta es b.
+Note que para contestar esta pregunta no fue necesario calcular la energía cinética de
+ningún jugador. No obstante, podemos hacerlo para verificar nuestras conclusiones:
+Ahora vemos explícitamente que nuestra respuesta fue correcta.
+Ejercicio de refuerzo. Suponga que la rapidez del defensivo profundo sólo es 50% mayor
+que la del guardia, es decir, 6.0 m/s. ¿Qué jugador tendría entonces mayor energía cinéti-
+ca, y qué tanta más?
+Sugerencia para resolver problemas
+El teorema trabajo-energía relaciona el trabajo dado con el cambio en la energía ciné-
+tica. En muchos casos tenemos vo /H110050 y Ko /H110050, así que W /H11005/H9004K /H11005K. Pero, ¡cuidado!
+No podemos usar siempre el cuadrado del cambio de rapidez, (/H9004v)2, para calcular /H9004K,
+como parecería a primera vista. En términos de rapidez, tenemos
+Sin embargo, no es lo mismo que ( v /H11002vo)2 /H11005(/H9004v)2, ya que (v /H11002vo)2 /H11005v2 /H110022vvo /H11001
+vo
+2. Por lo tanto, el cambio en energía cinética no es igual a 
+Lo que implica esta observación es que, para calcular trabajo, o el cambio de ener-
+gía cinética, es preciso calcular la energía cinética de un objeto en un punto o tiempo
+dado (utilizando la rapidez instantánea para obtener la energía cinética instantánea) y
+también en otro punto o tiempo dado. Luego se restarán las cantidades para obtener el
+cambio de energía cinética, o trabajo. Como alternativa, podríamos calcular primero la
+diferencia de los cuadrados de las rapideces al calcular el cambio, pero no
+usar el cuadrado de la diferencia de rapideces. En el Ejemplo conceptual 5.7 veremos
+esta sugerencia en acción.
+1v2 - vo
+22
+1
+2 m1v - vo22 = 1
+2 m1¢v22 Z¢ K.
+v2 - vo
+2
+W =¢ K = K - Ko = 1
+2 mv2 - 1
+2 mvo
+2 = 1
+2 m1v2 - vo
+22
+ Kguardia = 1
+2 mg
+ vg
+2 = 1
+2 1140 kg214.0 m>s22 = 1.1 * 103 J
+ Kdef. prof. = 1
+2 ms
+ vs
+2 = 1
+2 170 kg218.0 m>s22 = 2.2 * 103 J
+1
+2 * 4 = 2
+K = 1
+2 mv2,
+v2 = vo
+2 + 2ax
+Exploración 6.2 El impulso de dos
+bloques
+
+152 CAPÍTULO 5 Trabajo y energía
+a)
+b)
+▲ FIGURA 5.12 Energía potencial
+La energía potencial tiene muchas
+formas. a) Es preciso efectuar 
+trabajo para flexionar el arco; 
+esto le confiere energía potencial
+que se convierte en energía cinética
+cuando se suelta la flecha. b) La
+energía potencial gravitacional se
+convierte en energía cinética cuando
+cae un objeto. (¿De dónde provino
+la energía potencial gravitacional
+del agua y del clavadista?)
+Ejemplo conceptual 5.7 ■ Automóvil en aceleración: rapidez 
+y energía cinética
+Un automóvil que viaja a 5.0 m/s aumenta su rapidez a 10 m/s, con un incremento de
+energía cinética que requiere un trabajo W1. Luego, la rapidez del automóvil aumenta
+de 10 m/s a 15 m/s, para lo cual requiere un trabajo adicional W2. ¿Cuál de estas rela-
+ciones es válida al comparar las dos cantidades de trabajo? a) Wl /H11022W2; b) W1 /H11005W2; 
+c) W2 /H11022W1.
+Razonamiento y respuesta. Como ya vimos, el teorema trabajo-energía relaciona el traba-
+jo efectuado sobre el automóvil con el cambio en su energía cinética. Puesto que en ambos
+casos hay el mismo incremento de rapidez (/H9004v /H110055.0 m/s), parecería que la respuesta es b.
+Sin embargo, no hay que olvidar que el trabajo es igual al cambio en la energía cinética, en
+lo cual interviene v
+2
+2 /H11002v1
+2, no (/H9004v)2 /H11005(v2 /H11002v1)2.
+Por lo tanto, cuanto mayor sea la rapidez de un objeto, mayor será su energía cinéti-
+ca, y esperaríamos que la diferencia de energía cinética al cambiar de rapidez (o el trabajo
+requerido para cambiar de rapidez) sea mayor para una rapidez más alta, si /H9004v es la mis-
+ma. Por consiguiente, c es la respuesta.
+Lo importante aquí es que los valores de /H9004v son iguales, pero se requiere más trabajo
+para aumentar la energía cinética de un objeto a una rapidez más alta.
+Ejercicio de refuerzo. Suponga que el automóvil aumenta su rapidez en una tercera 
+ocasión, de 15 a 20 m/s, cambio que requiere un trabajo W3. ¿Cómo se compara el traba-
+jo realizado en este incremento con W2? Justifique numéricamente su respuesta. [ Suge-
+rencia: use un cociente.]
+5.4 Energía potencial
+OBJETIVOS: a) Definir y entender la energía potencial y b) estudiar la energía
+potencial gravitacional.
+Un objeto en movimiento tiene energía cinética. Sin embargo, sea que un objeto esté o
+no en movimiento, podría tener otra forma de energía: energía potencial. Como su
+nombre sugiere, un objeto con energía potencial tiene potencial para efectuar trabajo.
+Es probable que al lector se le ocurran muchos ejemplos: un resorte comprimido, un
+arco tensado, agua contenida por una presa, una bola de demolición lista para caer.
+En todos estos casos, el potencial para efectuar trabajo se deriva de la posición o confi-
+guración del cuerpo. El resorte tiene energía porque está comprimido; el arco, porque
+está tensado; el agua y la bola, porque se les ha levantado sobre la superficie terrestre
+(
+>figura 5.12). Por ello caracterizamos la energía potencial, U, como energía de posición
+(o configuración).
+En cierto sentido, observamos la energía potencial como trabajo almacenado,
+igual que la energía cinética. En la sección 5.2 ya vimos un ejemplo de energía po-
+tencial, donde se efectuó trabajo para comprimir un resorte desde su posición de
+equilibrio. Recordemos que el trabajo efectuado en tal caso es (con x
+o /H110050).
+Cabe señalar que la cantidad de trabajo efectuada depende del grado de compre-
+sión ( x). Dado que se efectúa trabajo, hay un cambio en la energía potencial del 
+resorte ( /H9004U), igual al trabajo efectuado por la fuerza aplicada para comprimir (o es-
+tirar) el resorte:
+Así, con xo /H110050 y Uo /H110050, como suele tomarse por conveniencia, la energía potencial de un
+resorte es
+(energía potencial de un resorte) (5.7)
+Unidad SI de energía: joule (J)
+[Nota: puesto que la energía potencial varía con x2, aquí también es válida la sugeren-
+cia anterior para resolver problemas. Es decir, si xo /HS110050, entonces x2 /H11002xo
+2 /HS11005(x /H11002xo)2.]
+U = 1
+2 kx2
+W =¢ U = U - Uo = 1
+2 kx2 - 1
+2 kxo
+2
+W = 1
+2 kx2
+
+5.4 Energía potencial 153
+Tal vez el tipo más común de energía potencial sea la energía potencial gravita-
+cional. En este caso, posición se refiere a la altura de un objeto sobre cierto punto de
+referencia, digamos el piso o el suelo. Suponga que un objeto de masa m se levanta
+una distancia /H9004y (
+▲ figura 5.13). Se efectúa trabajo contra la fuerza de gravedad, 
+y se necesita una fuerza aplicada al menos igual al peso del objeto para levantarlo: 
+F /H11005w /H11005mg. Entonces, el trabajo efectuado es igual al cambio de energía potencial. 
+Si expresamos esta relación en forma de ecuación, dado que no hay un cambio total
+de energía cinética, tenemos
+trabajo efectuado por la fuerza externa /H11005cambio de energía potencial gravitacional
+o
+donde usamos y como coordenada vertical y, eligiendo y
+o /H110050 y Uo /H110050, como suele ha-
+cerse, la energía potencial gravitacional es
+(5.8)
+Unidad SI de energía: joule (J)
+(La ecuación 5.8 representa la energía potencial gravitacional cerca de la superficie te-
+rrestre, donde g se considera constante. Una forma más general de energía potencial
+gravitacional se presenta en la sección 7.5.)
+U = mgy
+W = F¢y = mg1y - yo2 = mgy - mgyo =¢ U = U - Uo
+F
+Δy = y  – yo
+                    = ΔU = mg
+yo
+mg
+y U = mgy
+Uo = mgyo
+m
+m
+Δy
+ W  = U – Uo
+▲ FIGURA 5.13 Energía potencial gravitacional El trabajo efectuado al levantar un objeto
+es igual al cambio de energía potencial gravitacional: W /H11005F/H9004y /H11005mg(y /H11002yo).
+
+g
++ y
+– y 
+y = 0 
+v = 0 
+ΔU = mgymáx
+y = ymáx
+vo
+▲ FIGURA 5.15 Energías cinética 
+y potencial Véase el ejemplo 5.9.
+(La pelota se ha desplazado
+lateralmente por claridad.)
+1000 m
+1000 m
+u h
+▲ FIGURA 5.14 Suma de energía
+potencial Véase el ejemplo 5.8.
+154 CAPÍTULO 5 Trabajo y energía
+Ejemplo 5.8 ■ Se necesita más energía
+Para caminar 1000 m a nivel del suelo, una persona de 60 kg necesita gastar cerca de 
+1.0 /H11003105 J de energía. ¿Cuál será la energía total requerida si la caminata se extiende 
+otros 1000 m por un sendero inclinado 5.0/H11034, como se ilustra en la >figura 5.14?
+Razonamiento. Para caminar 1000 m adicionales se requieren 1.0 /H11003105 J más la energía
+adicional por realizar trabajo en contra de la gravedad al caminar por la pendiente. En la
+figura se observa que el incremento en la altura es h /H11005d sen /H9258.
+Solución. Se listan los datos:
+Dado: Encuentre: la energía total gastada
+La energía adicional gastada al subir por la pendiente es igual a la energía potencial gra-
+vitacional ganada. Así,
+Entonces, la energía total gastada para la caminata de 2000 m es
+Note que el valor de /H9004U se expresó como un múltiplo de 10 5 en la última ecuación, para
+que pudiera sumarse al término Eo, y el resultado se redondeó a dos cifras significativas
+de acuerdo con las reglas del capítulo 1.
+Ejercicio de refuerzo. Si el ángulo de inclinación se duplicara y se repitiera sólo la camina-
+ta hacia arriba de la pendiente, ¿se duplicaría la energía adicional gastada por la persona
+al realizar el trabajo contra la gravedad? Justifique su respuesta.
+Ejemplo 5.9 ■ Pelota lanzada: energía cinética y energía potencial
+gravitacional
+Una pelota de 0.50 kg se lanza verticalmente hacia arriba con una velocidad inicial de 
+10 m/s ( >figura 5.15). a) ¿Cómo cambia la energía cinética de la pelota entre el punto 
+de partida y su altura máxima? b) ¿Cómo cambia la energía potencial de la pelota entre 
+el punto de partida y su altura máxima? (Desprecie la resistencia del aire.)
+Razonamiento. Se pierde energía cinética y se gana energía potencial gravitacional a me-
+dida que la pelota sube.
+Solución. Estudiamos la figura 5.15 y hacemos una lista de los datos: 
+Dado: Encuentre: a) /H9004K (cambio de energía cinética)
+b) /H9004U (cambio de energía potencial 
+entre yo y ymáx)
+a) Para calcular el cambio de energía cinética, primero calculamos la energía cinética 
+en cada punto. Conocemos la velocidad inicial, vo, y sabemos que, en la altura máxima, 
+v /H110050 y, por lo tanto, K /H110050. Entonces,
+Es decir, la pelota pierde 25 J de energía cinética cuando la fuerza de gravedad efectúa
+sobre ella un trabajo negativo. (La fuerza gravitacional y el desplazamiento de la pelota
+tienen direcciones opuestas.)
+b) Para obtener el cambio de energía potencial, necesitamos conocer la altura de la pelo-
+ta sobre su punto de partida, cuando v /H110050. Utilizamos la ecuación 2.11’, v2 /H11005vo
+2 /H110022gy
+(con yo /H110050 y v /H110050) para obtener ymáx,
+Luego, con yo /H110050 y Uo /H110050, 
+La energía potencial aumenta en 25 J, como se esperaba.
+Ejercicio de refuerzo. En este ejemplo, ¿qué cambios totales sufren las energías cinética y
+potencial de la pelota cuando ésta regresa al punto de partida?
+¢U = U = mgymáx =10.50 kg219.8 m>s2215.1 m2 =+ 25 J
+ymáx = vo
+2
+2g = 110 m>s22
+219.8 m>s22 = 5.1 m
+¢K = K - Ko = 0 - Ko =-  
+1
+2 mvo
+2 =-  
+1
+2 10.50 kg2110 m>s22 =- 25 J
+ a = g
+ vo = 10 m>s
+ m = 0.50 kg
+Total E = 2Eo +¢ U = 211.0 * 105 J2 + 0.51 * 105 J = 2.5 * 105 J
+¢U = mgh =160 kg219.8 m/s2211000 m2 sen 5.0° = 5.1 * 104 J
+ d = 1000 m (para cada parte del trabajo)
+ u = 5.0°
+ Eo = 1.0 * 105 J 1para 1000 m2
+ m = 60 kg
+Exploración 7.2 Elección de cero para
+la energía potencial
+
+5.5 Conservación de la energía 155
+yo = 0
+y
+m
+m
+m
+–y
+U2 = mgy
+a) ΔU = U2 – U1 = mgy – (– mgy) = 2mgy
+ΔU
+Pozo de energía
+potencial
+Uo = mgyo = 0
+U1 =  –mgy
+m
+y
+m
+y
+m
+b) ΔU = U2 – Uo = 2mgy – 0 = 2mgy
+U2 = 2mgy
+2y
+U1 = mgy
+Uo = mgyo = 0
+yo = 0
+Punto de referencia cero
+El ejemplo 5.9 ilustra un punto importante: la selección del punto de referencia cero.
+La energía potencial es energía de posición, y la energía potencial en una posición dada
+(U) se refiere a la energía potencial en alguna otra posición ( Uo). La posición o punto
+de referencia es arbitrario, como lo es el origen de los ejes de coordenadas para anali-
+zar un sistema. Por lo regular, se eligen los puntos de referencia que más convienen;
+por ejemplo, y
+o /H110050. El valor de la energía potencial en una posición dada depende del
+punto de referencia utilizado. Por otro lado, la diferencia o cambio de energía potencial aso-
+ciada con dos posiciones es la misma, sea cual fuere la posición de referencia.
+Si, en el ejemplo 5.9, hubiéramos tomado el suelo como punto de referencia cero,
+Uo en el punto en que se soltó la pelota no habría sido cero. Sin embargo, U en la altu-
+ra máxima habría sido mayor, y /H9004U /H11005U /H11002Uo habría sido la misma. Este concepto se
+ilustra en la ▲ figura 5.16. Observe que la energía potencial puede ser negativa. Si un
+objeto tiene energía potencial negativa, decimos que está en un pozo de energía poten-
+cial, lo cual es como estar en un pozo de verdad: se requiere trabajo para levantar el 
+objeto a una posición más alta en el pozo, o para sacarlo del pozo.
+También se dice que la energía potencial gravitacional es independiente de la trayec-
+toria. Esto significa que sólo se considera un cambio en la altura /H9004h (o /H9004y), no en la tra-
+yectoria que sigue el cambio de altura. Un objeto podría recorrer muchas trayectorias
+que lleven a la misma /H9004h.
+5.5 Conservación de la energía
+OBJETIVOS: a) Distinguir entre fuerzas conservativas y no conservativas y b) ex-
+plicar sus efectos sobre la conservación de la energía.
+Las leyes de conservación son las piedras angulares de la física, tanto en la teoría como
+en la práctica. La mayoría de los científicos probablemente diría que la conservación
+de la energía es la ley más importante y la que tiene mayor alcance de las leyes. Cuan-
+do decimos que una cantidad física se conserva, queremos decir que es constante, o que
+tiene un valor constante. Dado que tantas cosas cambian continuamente en los proce-
+sos físicos, las cantidades que se conservan son extremadamente útiles para entender y
+describir el universo. No obstante, hay que tener presente que las cantidades general-
+mente se conservan sólo en condiciones especiales.
+Una de las leyes de conservación más importantes es la que se refiere a la conser-
+vación de la energía. (Quizá el lector haya previsto este tema en el ejemplo 5.9.) Una
+afirmación conocida es que la energía total del universo se conserva. Esto es verdad,
+porque se está tomando todo el universo como un sistema. Definimos un sistema como
+una cantidad dada de materia encerrada por fronteras, sean reales o imaginarias. Efec-
+▲ FIGURA 5.16 Punto de referencia
+y cambio de energía potencial
+a) La selección del punto de 
+referencia (altura cero) es arbitraria
+y podría causar una energía 
+potencial negativa. En un caso 
+así, decimos que el objeto está en 
+un pozo de energía potencial. 
+b) Podemos evitar el pozo 
+escogiendo una nueva referencia 
+cero. La diferencia o cambio de 
+energía potencial (/H9004U) asociada 
+con las dos posiciones es la misma,
+sea cual fuere el punto de referencia.
+No hay diferencia física, aunque 
+haya dos sistemas de coordenadas 
+y dos puntos de referencia cero 
+distintos.
+
+156 CAPÍTULO 5 Trabajo y energía
+5.1 LA POTENCIA DE LA GENTE: EL USO DE LA ENERGÍA
+DEL CUERPO
+El cuerpo humano es energía ineficiente. Esto es, mucha ener-
+gía no se destina a realizar trabajo útil y se desperdicia. Sería
+ventajoso convertir parte de esa energía en trabajo útil. Se han
+hecho algunos intentos para lograr esto a través de la “recolec-
+ción de energía” del cuerpo humano. Las actividades normales
+del cuerpo producen movimiento, flexión y estiramiento, com-
+presión y calor: una energía que bien podría utilizarse. Recolec-
+tar la energía es un trabajo difícil, pero, utilizando los avances
+en nanotecnología (capítulo 1) y en la ciencia de los materiales,
+el esfuerzo se ha hecho.
+Un ejemplo algo antiguo de utilizar la energía del cuer-
+po es el reloj de pulso, el cual se da cuerda a sí mismo mecá-
+nicamente a partir de los movimientos del brazo del usuario.
+(En la actualidad, las baterías le han ganado el terreno.) Una
+meta final en la “recolección de energía” es convertir parte de
+la energía del cuerpo en electricidad; aunque sea una pe-
+queña parte. ¿Cómo podría lograrse esto? Veamos un par de
+formas:
+• Dispositivos piezoeléctricos. Cuando se les somete a ten-
+siones mecánicas, las sustancias piezoeléctricas, como al-
+gunas cerámicas, generan energía eléctrica.
+• Materiales termoeléctricos, que convierten el calor resul-
+tante de la diferencia de temperatura en energía eléctrica.
+Estos métodos tienen severas limitaciones y sólo generan peque-
+ñas cantidades de electricidad. Sin embargo, con la miniaturiza-
+ción y la nanotecnología, los resultados podrían ser satisfac-
+torios. Los investigadores ya han desarrollado botas que utilizan
+la compresión que se ejerce al caminar en un compuesto que pro-
+duce suficiente energía para recargar un aparato de radio.
+Una aplicación más reciente es el “generador mochila”. La
+carga montada de la mochila está suspendida por resortes. El mo-
+vimiento hacia arriba y abajo de las caderas de una persona que
+lleva la mochila hace que la carga suspendida rebote verticalmen-
+te. Este movimiento hace girar un engranaje conectado a un gene-
+rador de bobina magnética simple, similar a los que se utilizan en
+las linternas que se energizan con movimiento rítmico (véase sec-
+ción A fondo 20.1, p. 664). Con este dispositivo, la energía mecáni-
+ca del cuerpo puede generar hasta 7 watts de energía eléctrica. Un
+teléfono celular común opera con cerca de 1 watt. (El watt es una
+unidad de potencia, J/s, energía/segundo, véase la sección 5.6).
+¿Quién sabe lo que el futuro de la ciencia depara? Reflexio-
+ne acerca de cuántos avances ha presenciado en su vida.
+A FONDO
+tivamente, el universo es el sistema cerrado (o aislado) más grande que podamos ima-
+ginar. Dentro de un sistema cerrado, las partículas pueden interactuar entre sí, pero no
+tienen interacción en absoluto con nada del exterior. En general, entonces, la cantidad
+de energía de un sistema se mantiene constante cuando el sistema no efectúa trabajo
+mecánico ni se efectúa trabajo mecánico sobre él, y cuando no se transmite energía al
+sistema ni desde el sistema (incluidas energía térmica y radiación).
+Así pues, podemos plantear la ley de conservación de la energía total así:
+La energía total de un sistema aislado siempre se conserva.
+Dentro de un sistema así, la energía podría convertirse de una forma a otra, pero la
+cantidad total de todas las formas de energía es constante: no cambia. La energía total
+nunca puede crearse ni destruirse. El uso de la energía corporal se examina en la sec-
+ción A fondo 5.1.
+Ejemplo conceptual 5.10 ■ ¿Trasgresión de la conservación 
+de la energía?
+Un líquido estático y uniforme se encuentra en un lado de un doble contenedor, como se
+observa en la Nfigura 5.17a. Si la válvula está abierta, el nivel caerá porque el líquido tiene
+energía potencial (gravitacional). Esto podría calcularse suponiendo que toda la masa del
+líquido se concentra en el centro de masa, que se localiza a una altura h/2. (Se hablará más
+del centro de masa en el capítulo 6.) Cuando la válvula está abierta, el líquido fluye hacia
+el contenedor de la derecha, y cuando se alcanza el equilibrio estático, cada contenedor
+tendrá líquido a una altura de h/2, con centros de masa a h/4. Cuando éste es el caso, la
+energía potencial del líquido antes de abrir la válvula era U
+o /H11005(mg)h/2 y, después, con 
+la mitad de la masa total en cada contenedor (figura 5.16b), U /H11005(m/2)g(h/4) /H11001(m/2)g(h/4)
+/H110052(m/2)g(h/4) /H11005(mg)h/4. ¡Un momento! ¿Se perdió la mitad de la energía?
+Razonamiento y respuesta. No; por el principio de la conservación de la energía total, de-
+be estar en algún lugar. ¿A dónde se habrá ido? Cuando el líquido fluye de un contenedor
+al otro, a causa de la fricción interna y de la fricción contra las paredes, la mitad de la
+energía potencial se convierte en calor (energía térmica), que se transfiere a los alrededo-
+res conforme el líquido alcanza el equilibrio. (Esto significa la misma temperatura y nin-
+guna fluctuación interna.)
+Ejercicio de refuerzo. ¿Qué pasaría en este ejemplo en la ausencia de fricción?
+Conservación de la energía total
+Ilustración 7.1 Elección de un sistema
+Nota: un sistema es una 
+situación física con fronteras 
+reales o imaginarias. Un salón 
+podría considerarse un sistema, 
+lo mismo que un metro cúbico
+cualquiera de aire.
+
+5.5 Conservación de la energía 157
+h
+Válvula
+cerrada
+Válvula
+abierta
+a) b)
+h/2h/2
+▲ FIGURA 5.17 ¿Es energía
+perdida? Véase el ejemplo
+conceptual 5.10.
+Nota: la fricción se analizó en la
+sección 4.6.
+Fuerzas conservativas y no conservativas
+Podemos hacer una distinción general entre los sistemas, considerando dos categorías
+de fuerzas que podrían actuar en su interior o sobre ellos: las fuerzas conservativas y
+las no conservativas. Ya hemos visto un par de fuerzas conservativas: la fuerza de gra-
+vedad y la fuerza de resorte. También vimos una fuerza no conservativa clásica, la fric-
+ción, en el capítulo 4. Definimos una fuerza conservativa así:
+Decimos que una fuerza es conservativa si el trabajo efectuado por ella para
+mover un objeto es independiente de la trayectoria del objeto.
+Lo que implica esta definición es que el trabajo efectuado por una fuerza conservativa
+depende únicamente de las posiciones inicial y final del objeto.
+En un principio, puede ser difícil captar el concepto de fuerzas conservativas y
+no conservativas. En vista de la importancia que este concepto tiene para la conser-
+vación de la energía, examinaremos algunos ejemplos ilustrativos que nos ayuden 
+a entenderlo.
+En primer lugar, ¿qué significa independiente de la trayectoria? Como ejemplo de in-
+dependencia de la trayectoria considere levantar un objeto del piso y colocarlo sobre una
+mesa. Ahí se efectuó trabajo contra la fuerza conservativa de la gravedad. El trabajo efec-
+tuado es igual a la energía potencial ganada, mg/H9004h, donde /H9004h es la distancia vertical en-
+tre la posición del objeto sobre el piso y su posición sobre la mesa. Éste es el punto
+importante. Quizás usted haya puesto el objeto sobre el lavabo antes de colocarlo en la
+mesa, o haya caminado al extremo opuesto de la mesa. Sin embargo, sólo el desplaza-
+miento vertical hace una diferencia en el trabajo efectuado porque está en la dirección
+de la fuerza vertical. Para cualquier desplazamiento horizontal no se efectúa trabajo,
+ya que el desplazamiento y la fuerza están en ángulos rectos. La magnitud del traba-
+jo efectuado es igual al cambio de energía potencial (en condiciones sin fricción úni-
+camente) y, de hecho, el concepto de energía potencial está asociado exclusivamente a fuerzas
+conservativas. Un cambio de energía potencial puede definirse en términos del trabajo
+efectuado por una fuerza conservativa.
+Por otro lado, una fuerza no conservativa sí depende de la trayectoria.
+Decimos que una fuerza no es conservativa si el trabajo efectuado por ella para
+mover un objeto depende de la trayectoria del objeto.
+La fricción es una fuerza no conservativa. Una trayectoria más larga produciría más traba-
+jo efectuado por la fricción que una más corta, y se perdería más energía en forma de
+calor con una trayectoria más larga. De manera que el trabajo efectuado contra la fric-
+ción ciertamente dependería de la trayectoria. Por lo tanto, en cierto sentido, una fuer-
+za conservativa permite conservar o almacenar toda la energía en forma de energía
+potencial, mientras que una fuerza no conservativa no lo permite.
+Otra forma de explicar la distinción entre fuerzas conservativas y no conserva-
+tivas es con un planteamiento equivalente de la definición anterior de fuerza conser-
+vativa:
+Una fuerza es conservativa si el trabajo efectuado por ella al mover un objeto 
+en un viaje redondo es cero.
+Fuerza conservativa: el trabajo es
+independiente de la trayectoria
+Fuerza no conservativa: el trabajo
+es dependiente de la trayectoria
+Otra forma de describir una fuerza
+conservativa
+
+158 CAPÍTULO 5 Trabajo y energía
+Note que en el caso de la fuerza gravitacional conservativa durante un viaje redon-
+do, la fuerza y el desplazamiento a veces tienen la misma dirección (y la fuerza efectúa
+trabajo positivo) y a veces tienen direcciones opuestas (y la fuerza efectúa trabajo ne-
+gativo). Pensemos en el sencillo caso de la caída del libro al suelo para luego ser reco-
+gido y colocado otra vez en la mesa. Con trabajo positivo y negativo, el trabajo total
+efectuado por la gravedad puede ser cero.
+En cambio, en el caso de una fuerza no conservativa como la de la fricción cinética,
+que siempre se opone al movimiento o tiene dirección opuesta al desplazamiento, el
+trabajo total efectuado en un viaje redondo nunca puede ser cero y siempre será nega-
+tivo (es decir, se pierde energía). Sin embargo, no hay que pensar que las fuerzas no
+conservativas sólo quitan energía a un sistema. Al contrario, a menudo aplicamos
+fuerzas de empuje o tracción no conservativas que aumentan la energía de un sistema,
+como cuando empujamos un automóvil averiado.
+Conservación de la energía mecánica total
+La idea de fuerza conservativa nos permite extender la conservación de la energía al
+caso especial de la energía mecánica, lo cual nos es de gran ayuda para analizar mu-
+chas situaciones físicas. La suma de las energías cinética y potencial se denomina ener-
+gía mecánica total:
+(5.9)
+energía energía energía
+mecánica cinética potencial
+total
+En un sistema conservativo (es decir, uno en el que sólo fuerzas conservativas
+efectúan trabajo), la energía mecánica total es constante (se conserva):
+Ahora sustituimos E y Eo de la ecuación 5.9,
+(5.10a)
+o
+(5.10b)
+La ecuación 5.10b es un planteamiento matemático de la ley de conservación de la
+energía mecánica:
+En un sistema conservativo, la suma de todos los tipos de energía cinética y po-
+tencial es constante, y equivale a la energía mecánica total del sistema.
+Tome en cuenta que en un sistema conservativo, las energías cinética y potencial
+podrían cambiar, pero su suma siempre será constante. En un sistema conservativo, 
+si se efectúa trabajo y se transfiere energía dentro del sistema, escribimos la ecuación
+5.10a como
+(5.11a)
+o bien,
+(para un sistema conservativo) (5.11b)
+Esta expresión nos dice que estas cantidades tienen una relación de subibaja: si hay
+una disminución en la energía potencial, la energía cinética deberá aumentar en la mis-
+ma cantidad para que la suma de los cambios sea cero. Sin embargo, en un sistema no
+conservativo, por lo general se pierde energía mecánica (por ejemplo, en forma de ca-
+lor por la fricción), así que /H9004K /H11001/H9004U /H110210. Sin embargo, hay que tener en cuenta, como
+ya señalamos, que una fuerza no conservativa podría añadir energía a un sistema (o no
+tener efecto alguno).
+¢K +¢ U = 0
+1K - Ko2 +1U - Uo2 = 0
+1
+2 mv2 + U = 1
+2 mvo
+2 + Uo
+K + U = Ko + Uo
+E = Eo
++=
+E  =   K  +   U
+Conservación de la energía
+mecánica
+Energía mecánica total: cinética
+más potencial
+Ilustración 7.2 Representaciones 
+de energía
+
+5.5 Conservación de la energía 159
+Ejemplo 5.11 ■ ¡Cuidado allá abajo! Conservación de energía mecánica
+Un pintor en un andamio deja caer una lata de pintura de 1.50 kg desde una altura de 6.00 m.
+a) ¿Qué energía cinética tiene la lata cuando está a una altura de 4.00 m? b) ¿Con qué rapidez
+llegará la lata al suelo? (La resistencia del aire es insignificante.)
+Razonamiento. La energía mecánica total se conserva, ya que sólo la fuerza conservati-
+va de la gravedad actúa sobre el sistema (la lata). Podemos calcular la energía mecánica
+inicial total, y la energía potencial disminuye conforme aumenta(n) la energía cinética (y
+la rapidez).
+Solución. Esto es lo que se nos da y lo que se nos pide:
+Dado: Encuentre: a) K (energía cinética en )
+b) (rapidez justo antes de llegar al suelo)
+a) Es preferible calcular primero la energía mecánica total de la lata, pues esta cantidad
+se conserva durante la caída de la lata. En un principio, con vo /H110050, la energía mecánica 
+total de la lata es exclusivamente energía potencial. Si tomamos el suelo como el punto 
+de referencia cero, tenemos, 
+La relación E /H11005K /H11001U se sigue cumpliendo durante la caída de la lata, pero ahora ya 
+sabemos el valor de E. Si reacomodamos la ecuación, tendremos K /H11005E /H11002U y podemos
+calcular U en y /H110054.00 m:
+Como alternativa, podríamos haber calculado el cambio (en este caso, la pérdida) de ener-
+gía potencial, /H9004U. Toda la energía potencial que se haya perdido se habrá ganado como
+energía cinética (ecuación 5.11). Entonces,
+Con Ko /H110050 (porque vo /H110050), obtenemos
+b) Justo antes de que la lata toque el suelo ( y /H110050, U /H110050), toda su energía mecánica es
+energía cinética, es decir,
+Por lo tanto,
+Básicamente, toda la energía potencial de un objeto en caída libre que se soltó desde cier-
+ta altura y se convierte en energía cinética justo antes de que el objeto choque con el sue-
+lo, así que
+Por consiguiente,
+o bien,
+Vemos que la masa se cancela y no hay que considerarla. También obtenemos este resul-
+tado con la ecuación de cinemática v
+2 /H110052gy (ecuación 2.11’), con vo /H110050 y yo /H110050.
+Ejercicio de refuerzo. Otro pintor en el suelo quiere lanzar una brocha verticalmente ha-
+cia arriba una distancia de 5.0 m, hacia su compañero que está en el andamio. Utilice mé-
+todos de conservación de la energía mecánica para determinar la rapidez mínima que
+debe imprimir a la brocha.
+v = 22gy
+1
+2 mv2 = mgy
+ƒ¢Kƒ = ƒ¢Uƒ
+v = A
+2E
+m =
+B
+2188.2 J2
+1.50 kg = 10.8 m>s
+E = K = 1
+2 mv2
+K = mg1yo - y2 =11.50 kg219.8 m>s2216.00 m - 4.00 m2 = 29.4 J
+ 1K - Ko2 +1U - Uo2 =1K - Ko2 +1mgy - mgyo2 = 0
+ ¢K +¢ U = 0
+K = E - U = E - mgy = 88.2 J -11.50 kg219.80 m>s2214.00 m2 = 29.4 J
+E = Ko + Uo = 0 + mgyo =11.50 kg219.80 m>s2216.00 m2 = 88.2 J
+ vo = 0
+ y = 4.00 m
+v yo = 6.00 m
+y = 4.00 m m = 1.50 kg
+Exploración 7.3 Choque elástico
+
+160 CAPÍTULO 5 Trabajo y energía
+1
+3
+2
+45°
+45°
+vo
+vo
+vo
+y 
+N FIGURA 5.18 Rapidez y energía
+Véase el ejemplo conceptual 5.12.
+Ejemplo conceptual 5.12 ■ ¿Cuestión de dirección? Rapidez 
+y conservación de energía
+Tres pelotas de igual masa m se proyectan con la misma rapidez en diferentes direccio-
+nes, como se muestra en la ▲ figura 5.18. Si se desprecia la resistencia del aire, ¿qué pelo-
+ta se esperaría que tuviera mayor rapidez al llegar al suelo: a) la pelota 1; b) la pelota 2; 
+c) la pelota 3; d) todas las pelotas tienen la misma rapidez?
+Razonamiento y respuesta. Todas las pelotas tienen la misma energía cinética inicial,
+(Recordemos que la energía es una cantidad escalar, y la diferencia en la di-
+rección de proyección no causa diferencia en la energía cinética.) Sea cual fuere su trayec-
+toria, en última instancia todas las pelotas descienden una distancia y relativa a su punto
+de partida común, así que todas pierden la misma cantidad de energía potencial. (Recor-
+demos que U es energía de posición y, por lo tanto, es independiente de la trayectoria.)
+Por la ley de conservación de la energía mecánica, la cantidad de energía potencial
+que cada pelota pierde es igual a la cantidad de energía cinética que gana. Puesto que to-
+das las pelotas inician con la misma cantidad de energía cinética, y todas ganan la misma
+cantidad de energía cinética, las tres tendrán la misma energía cinética justo antes de gol-
+pear el suelo. Esto significa que todas tienen la misma rapidez, así que la respuesta es d).
+Observe que aunque las pelotas 1 y 2 se proyectan con un ángulo de 45 /H11034este factor
+no importa. El cambio de energía potencial es independiente de la trayectoria, así que es
+independiente del ángulo de proyección. La distancia vertical entre el punto de partida y
+el suelo es la misma ( y) para proyectiles que se lanzan con cualquier ángulo. ( Nota: aun-
+que la rapidez con que hacen impacto es la misma, el tiempo que las pelotas tardan en lle-
+gar al suelo es diferente. En el ejemplo conceptual 3.11 se presenta otro enfoque.)
+Ejercicio de refuerzo. ¿Las pelotas tendrían diferente rapidez al llegar al suelo si su masa
+fuera diferente? (Desprecie la resistencia del aire.)
+Ejemplo 5.13 ■ Fuerzas conservativas: energía mecánica de un resorte
+Un bloque de 0.30 kg que se desliza sobre una superficie horizontal sin fricción con una
+rapidez de 2.5 m/s, como se muestra en la 
+Nfigura 5.19, choca con un resorte ligero, cuya
+constante de resorte es de 3.0 /H11003103 N/m. a) Calcule la energía mecánica total del sistema.
+b) ¿Qué energía cinética K1 tiene el bloque cuando el resorte se ha comprimido una distan-
+cia x1 /H110051.0 cm? (Suponga que no se pierde energía en el choque.)
+Razonamiento. a) En un principio, la energía mecánica total es exclusivamente cinética. 
+b) La energía total es la misma que en el inciso a, pero ahora se divide en energía cinética
+y energía potencial del resorte
+Ko = 1
+2 mvo
+2 .
+
+m
+k
+v
+▲ FIGURA 5.19 Fuerzas conserva-
+tivas y la energía mecánica de un
+resorte Véase el ejemplo 5.13.
+5.5 Conservación de la energía 161
+Solución.
+Dado: Encuentre: a) E (energía mecánica total)
+b) K1 (energía cinética)
+a) Antes de que el bloque haga contacto con el resorte, la energía mecánica total del sis-
+tema está en forma de energía cinética; por lo tanto,
+Puesto que el sistema es conservativo (es decir, no se pierde energía mecánica), dicha can-
+tidad es la energía mecánica total en todo momento.
+b) Cuando el resorte se comprime una distancia x1, gana energía potencial y
+Despejando Kl,
+Ejercicio de refuerzo. ¿Qué distancia se habrá comprimido el resorte del ejemplo 5.11
+cuando el bloque se detenga? (Resuelva utilizando principios de energía.)
+En la sección Aprender dibujando se da otro ejemplo de intercambio de energía.
+ = 0.94 J - 1
+2 13.0 * 103 N>m210.010 m22 = 0.94 J - 0.15 J = 0.79 J
+ K1 = E - 1
+2 kx1
+2
+E = K1 + U1 = K1 + 1
+2 kx1
+2
+U1 = 1
+2 kx1
+2
+,
+E = Ko = 1
+2 mvo
+2 = 1
+2 10.30 kg212.5 m>s22 = 0.94 J
+ x1 = 1.0 cm = 0.010 m
+ k = 3.0 * 103 N>m
+ vo = 2.5 m>s
+ m = 0.30 kg
+APRENDER DIBUJANDO
+Ug Ug Ug Ug UgUs Us Us Us UsKK K K K
+v = 0
+Máxima
+compresión
+v = 0
+Us = 0
+Ug = 0
+Tanto la situación física como las gráficas de energía potencial gravitacional (Ug), energía cinética (K) y energía potencial del resorte  
+(Us) están a escala. (Suponemos que la resistencia del aire, la masa del resorte y cualquier pérdida de energía en el choque son  
+insignificantes.) ¿Por qué la energía de resorte es sólo la cuarta parte del total cuando el resorte esté comprimido a la mitad?
+Intercambio de energía: Una pelota que cae
+Ilustración 7.5 Un bloque sobre un
+plano inclinado
+Exploración 7.4 Una pelota golpea
+una masa unida a un resorte
+
+162 CAPÍTULO 5 Trabajo y energía
+110 mv = 20 m/s
+N FIGURA 5.21 Trabajo
+efectuado por una fuerza
+no conservativa Véase el
+ejemplo 5.14.
+▲ FIGURA 5.20 Fuerza no 
+conservativa y pérdida de energía
+La fricción es una fuerza no 
+conservativa: cuando hay fricción 
+y efectúa trabajo, no se conserva la
+energía mecánica. ¿Puede el lector
+deducir a partir de la imagen qué
+está sucediendo con el trabajo 
+efectuado por el motor sobre la 
+rueda de esmeril, después de que 
+el trabajo se convierte en energía 
+cinética de rotación? (Observe que
+prudentemente la persona se colocó
+una máscara, no tan sólo gafas 
+como muchos sugieren.)
+Energía total y fuerzas no conservativas
+En los ejemplos anteriores, ignoramos la fuerza de fricción, que probablemente es la
+fuerza no conservativa más común. En general, tanto las fuerzas conservativas como
+las no conservativas pueden efectuar trabajo sobre objetos. Sin embargo, como vimos,
+cuando algunas fuerzas no conservativas efectúan trabajo, no se conserva la energía
+mecánica total. Se “pierde” energía mecánica a través del trabajo efectuado por fuerzas
+no conservativas, como la fricción.
+El lector quizá piense que ya no vamos usar un enfoque de energía para analizar
+problemas en los que intervienen tales fuerzas no conservativas, ya que se perdería o
+se disiparía energía mecánica (
+>figura 5.20). Sin embargo, en algunos casos podemos
+usar la energía total para averiguar cuánta energía se perdió en el trabajo efectuado
+por una fuerza no conservativa. Suponga que un objeto tiene inicialmente energía me-
+cánica y que fuerzas no conservativas efectúan un trabajo W
+nc sobre él. Partiendo del
+teorema trabajo-energía, tenemos
+En general, el trabajo neto ( W) podría efectuarse tanto con fuerzas conservativas
+(Wc) como por fuerzas no conservativas (Wnc), así que 
+(5.12)
+Recordemos, sin embargo, que el trabajo efectuado por fuerzas conservativas es igual
+a /H11002/H9004U, es decir, Wnc /H11005Uo /H11002U, y la ecuación 5.12 se convierte entonces en
+Por lo tanto,
+Wnc /H11005E /H11002Eo /H11005/H9004E (5.13)
+Así pues, el trabajo efectuado por las fuerzas no conservativas que actúan sobre un sis-
+tema es igual al cambio de energía mecánica. Cabe señalar que, en el caso de fuerzas
+disipadoras, E
+o /H11022E. Así, el cambio es negativo e indica una disminución de la energía
+mecánica. Esta condición coincide en cuanto al signo con Wnc que, en el caso de la fric-
+ción, también sería negativo. El ejemplo 5.14 ilustra este concepto.
+Ejemplo 5.14 ■ Fuerza no conservativa: descenso en esquí
+Un esquiador con una masa de 80 kg parte del reposo en la cima de una pendiente y baja
+esquiando desde una altura de 110 m ( ▼ figura 5.21). La rapidez del esquiador en la base
+de la pendiente es de 20 m/s. a) Demuestre que el sistema no es conservativo. b) ¿Cuánto
+trabajo efectúa la fuerza no conservativa de la fricción?
+Razonamiento. a) Si el sistema es no conservativo, entonces Eo /HS11005E, y es posible calcular
+estas cantidades. b) No podemos determinar el trabajo a partir de consideraciones de
+fuerza-distancia, pero Wnc es igual a la diferencia de energías totales (ecuación 5.13).
+Solución.
+Dado: Encuentre: a) Demostrar que E no se conserva
+b) Wnc (trabajo efectuado por la fricción)
+ yo = 110 m
+ v = 20 m>s
+ vo = 0
+ m = 80 kg
+ =1K + U2 -1Ko + Uo2
+ Wnc = K - Ko -1Uo - U2
+Wc + Wnc = K - Ko
+W =¢ K = K - Ko
+Ilustración 7.4 Fuerzas externas
+
+5.5 Conservación de la energía 163
+a) Si el sistema es conservativo, la energía mecánica total es constante. Tomando Uo /H110050
+en la base de la cuesta, vemos que la energía inicial en la cima es
+Luego calculamos que la energía en la base de la cuesta es
+Por lo tanto, Eo /HS11005E, así que el sistema no es conservativo.
+b) El trabajo efectuado por la fuerza de fricción, que no es conservativa, es igual al cam-
+bio de energía mecánica, es decir, la cantidad de energía mecánica perdida (ecuación
+5.13):
+Esta cantidad es más del 80% de la energía inicial. (¿A dónde se fue esa energía?)
+Ejercicio de refuerzo. En caída libre, a veces despreciamos la resistencia del aire, pero pa-
+ra los paracaidistas la resistencia del aire tiene un efecto muy práctico. Por lo regular, un
+paracaidista desciende unos 450 m antes de alcanzar la velocidad terminal (sección 4.6)
+de 60 m/s. a) ¿Qué porcentaje de la energía se pierde por fuerzas no conservativas duran-
+te tal descenso? b) Demuestre que, una vez alcanzada la velocidad terminal, la tasa de
+pérdida de energía en J/s está dada por (60 mg), donde m es la masa del paracaidista.
+Ejemplo 5.15 ■ Fuerza no conservativa: una vez más
+Un bloque de 0.75 kg se desliza por una superficie sin fricción con una rapidez de 2.0 m/s.
+Luego se desliza sobre una área áspera de 1.0 m de longitud y continúa por otra superficie
+sin fricción. El coeficiente de fricción cinética entre el bloque y la superficie áspera es de
+0.17. ¿Qué rapidez tiene el bloque después de pasar por la superficie áspera?
+Razonamiento. La tarea de calcular la rapidez final implica el uso de ecuaciones en las
+que interviene la energía cinética. Obtendremos la energía cinética final si usamos la con-
+servación de la energía total. Vemos que las energías inicial y final son energía cinética,
+pues no hay cambio de energía potencial gravitacional. Siempre es recomendable realizar
+un diagrama de la situación con propósitos de claridad. Véase la 
+▼ figura 5.22.
+Solución. Hacemos nuestra acostumbrada lista de datos: 
+Dado: Encuentre: v (rapidez final del bloque)
+Para este sistema no conservativo tenemos, por la ecuación 5.13,
+En el área áspera, el bloque pierde energía debido al trabajo efectuado contra la fricción
+(Wnc), así que
+[negativo porque fk y el desplazamiento x tienen direcciones opuestas, es decir, 
+( fk cos 180/H11034)x /H11005/H11002fkx].
+Entonces, reacomodando la ecuación de energía y desarrollando términos, tenemos, 
+o bien,
+1
+2 mv2 = 1
+2 mvo
+2 -mk
+ mgx
+K = Ko + Wnc
+Wnc =- fk
+ x =- mk
+ Nx =- mk
+ mgx
+Wnc = E - Eo = K - Ko
+ vo = 2.0 m>s
+ mk = 0.17
+ x = 1.0 m
+ m = 0.75 kg
+Wnc = E - Eo =11.6 * 104 J2 -18.6 * 104 J2 =- 7.0 * 104 J
+E = K = 1
+2 mv2 = 1
+2 180 kg2120 m>s22 = 1.6 * 104 J
+Eo = U = mgyo =180 kg219.8 m>s221110 m2 = 8.6 * 104 J
+v
+x =1.0 m
+Eo E
+vo
+> FIGURA 5.22 Una zona áspera 
+no conservativa Véase el 
+ejemplo 5.15.
+(continúa en la siguiente página)
+
+5.2 CONVERSIÓN DE ENERGÍA HÍBRIDA
+Como ya aprendimos, la energía puede transformarse de una forma a
+otra. Un ejemplo interesante es la conversión que ocurre en los nuevos
+automóviles híbridos, los cuales tienen tanto un motor de gasolina (de
+combustión interna) como un motor eléctrico impulsado por una batería,
+y donde ambos se utilizan para suministrar energía al vehículo.
+Un automóvil en movimiento tiene energía cinética y cuando usted
+oprime el pedal del freno para detener el vehículo, se pierde energía cinéti-
+ca. Por lo común, los frenos de un auto realizan ese frenado mediante fric-
+ción, y la energía se disipa en forma de calor (conservación de energía). Sin
+embargo, con los frenos de un automóvil híbrido, parte de esa energía se
+convierte en energía eléctrica y se almacena en la batería del motor corres-
+pondiente. Este proceso se conoce como frenado por recuperación. Es decir,
+en vez de utilizar frenos de fricción regular para detener el vehículo, se 
+usa el motor eléctrico. Con tal sistema, el motor se desplaza en reversa 
+y funciona como generador, al convertir la energía cinética que se pierde en
+energía eléctrica. (Véase la sección 20.2 para la operación de generadores.)
+La energía se almacena en la batería para su uso posterior (figura 1).
+Los automóviles híbridos también deben incluir frenos de fricción
+regular para cuando sea necesario un frenado rápido. (Véase A fondo
+20.2 de la página 666, para conocer más acerca de los híbridos.)
+A FONDO
+Generador Motor de 4
+cilindros
+Tanque de combustible
+Baterías
+Motor eléctrico
+164 CAPÍTULO 5 Trabajo y energía
+Después de simplificar
+Cabe señalar que no necesitamos la masa del bloque. También, es fácil demostrar que
+el bloque perdió más del 80% de su energía por la fricción.
+Ejercicio de refuerzo. Suponga que el coeficiente de fricción cinética entre el bloque y la
+superficie áspera es de 0.25. ¿Qué pasará con el bloque en este caso?
+Note que en un sistema no conservativo, la energía total (no la energía mecánica total)
+se conserva (incluidas las formas no mecánicas de energía, como el calor); pero no toda
+está disponible para efectuar trabajo mecánico. En un sistema conservativo, se obtiene lo
+que se aporta, por decirlo de alguna manera. Es decir, si efectuamos trabajo sobre el sis-
+tema, la energía transferida estará disponible para efectuar trabajo. Sin embargo, hay
+que tener presente que los sistemas conservativos son idealizaciones, porque hasta cier-
+to punto todos los sistemas reales son no conservativos. No obstante, trabajar con siste-
+mas conservativos ideales nos ayuda a entender la conservación de la energía.
+La energía total siempre se conserva. En su estudio de la física, el lector conocerá
+otras formas de energía, como las energías térmica, eléctrica, nuclear y química. En ge-
+neral, en los niveles microscópico y submicroscópico, estas formas de energía se pue-
+den describir en términos de energía cinética y energía potencial. Asimismo, aprenderá
+que la masa es una forma de energía y que la ley de conservación de la energía debe to-
+mar en cuenta esta forma para aplicarse al análisis de las reacciones nucleares.
+Se presenta un ejemplo de energía de conversión en la sección A fondo 5.2.
+5.6 Potencia
+OBJETIVOS: a) Definir potencia y b) describir la eficiencia mecánica.
+Quizás una tarea específica requeriría cierta cantidad de trabajo, pero ese trabajo po-
+dría efectuarse en diferentes lapsos de tiempo o con diferentes tasas. Por ejemplo, su-
+ponga que tenemos que podar un césped. Esta tarea requiere cierta cantidad de
+trabajo, pero podríamos hacerlo en media hora o tardar una o dos horas. Aquí hay una
+distinción práctica. Por lo regular no sólo nos interesa la cantidad de trabajo efectuado,
+sino también cuánto tiempo tarda en realizarse; es decir, la rapidez con que se efectúa.
+La rapidez con que se efectúa trabajo se llama potencia.
+La potencia media es el trabajo realizado dividido entre el tiempo que tomó reali-
+zarlo, es decir, el trabajo por unidad de tiempo:
+(5.14)
+P = W
+t
+v = 2vo
+2 - 2mk
+ gx = 212.0 m>s22 - 210.17219.8 m>s2211.0 m2 = 0.82 m>s
+FIGURA 1 Automóvil híbrido Diagrama que muestra los prin-
+cipales componentes. Véase el texto para conocer su descripción.
+
+5.6 Potencia 165
+Si nos interesa el trabajo efectuado por (y la potencia de) una fuerza constante de
+magnitud F que actúa mientras un objeto tiene un desplazamiento paralelo de magni-
+tud d, entonces
+(5.15)
+Unidad SI de potencia: J/s o watt (W)
+donde suponemos que la fuerza está en dirección del desplazamiento. Aquí, es la
+magnitud de la velocidad media. Si la velocidad es constante, entonces 
+Si la fuerza y el desplazamiento no tienen la misma dirección, escribimos
+(5.16)
+donde /H9258es el ángulo entre la fuerza y el desplazamiento.
+Como puede verse por la ecuación 5.15, la unidad SI de potencia es joules por se-
+gundo (J/s), pero se da otro nombre a esta unidad: watt (W):
+La unidad SI de potencia se llama así en honor de James Watt (1736-1819), un ingeniero
+escocés que desarrolló una de las primeras máquinas de vapor prácticas. Una unidad
+muy utilizada de potencia eléctrica es el kilowatt (kW).
+La unidad inglesa de potencia es el pie-libra por segundo (ft · lb/s). Sin embargo,
+se usa con mayor frecuencia una unidad más grande, el caballo de fuerza (hp):
+La potencia nos dice con qué rapidez se está efectuando trabajo o con qué rapidez se es-
+tá transfiriendo energía. Por ejemplo, la potencia de un motor suele especificarse en ca-
+ballos de fuerza. Un motor de 2 hp puede efectuar cierta cantidad de trabajo en la mitad
+del tiempo que tardaría en efectuarlo un motor de 1 hp, o puede efectuar el doble del
+trabajo en el mismo tiempo. Es decir, un motor de 2 hp es dos veces más “potente” que
+uno de 1 hp.
+Ejemplo 5.16 ■ Una grúa: trabajo y potencia
+Una grúa como la que se muestra en la Nfigura 5.23 levanta una carga de 1.0 tonelada mé-
+trica una distancia vertical de 25 m en 9.0 s con velocidad constante. ¿Cuánto trabajo útil
+efectúa la grúa cada segundo?
+Razonamiento. El trabajo útil efectuado cada segundo (es decir, por segundo) es la poten-
+cia generada, y es la cantidad que debemos obtener.
+Solución.
+Dado: Encuentre: W por segundo (/H11005potencia, P)
+Hay que tener en cuenta que el trabajo por unidad de tiempo (trabajo por segundo) es po-
+tencia, así que esto es lo que debemos calcular. Puesto que la carga se mueve con veloci-
+dad constante, (¿Por qué?) El trabajo se efectúa contra la gravedad, de manera que
+F /H11005mg, y
+Por lo tanto, dado que un watt (W) es un joule por segundo (J/s), la grúa efectuó 
+2.7 /H1100310
+4 J de trabajo cada segundo. Cabe señalar que la magnitud de la velocidad es 
+v /H11005d/t /H1100525 m/9.0 s /H110052.8 m/s, así que podríamos calcular la potencia usando P /H11005Fv.
+Ejercicio de refuerzo. Si el motor de la grúa de este ejemplo tiene una especificación de
+70 hp, ¿qué porcentaje de esta potencia generada realiza trabajo útil?
+ =
+11.0 * 103 kg219.8 m>s22125 m2
+9.0 s
+= 2.7 * 104 W 1o 27 kW2
+ P = W
+t = Fd
+t =
+mgy
+t
+P = P.
+ t = 9.0 s
+ y = 25 m
+ = 1.0 * 103 kg
+ m = 1.0 ton métrica
+1 hp = 550 ft # lb>s = 746 W
+1 J>s = 1 watt 1W2
+P = F1cos u2d
+t = Fv cos u
+P = P = Fv.
+v
+P = W
+t = Fd
+t = Fa d
+tb = Fv
+Nota: en la época de Watt, 
+las máquinas de vapor estaban 
+sustituyendo a los caballos que
+trabajaban en las minas y molinos.
+Para caracterizar el desempeño 
+de su nueva máquina, que era 
+más eficiente que las existentes,
+Watt usó como unidad la tasa 
+media con que un caballo podía
+efectuar trabajo: un caballo de
+fuerza.
+▲ FIGURA 5.23 Suministro de
+potencia Véase el ejemplo 5.16.
+
+166 CAPÍTULO 5 Trabajo y energía
+Ejemplo 5.17 ■ Hora de hacer la limpieza: trabajo y tiempo
+Los motores de dos aspiradoras tienen una potencia generada neta de 1.00 hp y 0.500 hp,
+respectivamente. a) ¿Cuánto trabajo en joules puede efectuar cada motor en 3.00 min? 
+b) ¿Cuánto tarda cada motor en efectuar 97.0 kJ de trabajo?
+Razonamiento. a) Puesto que la potencia es trabajo/tiempo (P /H11005W/t), podemos calcular
+el trabajo. El trabajo se da en caballos de fuerza. b) Esta parte del problema es otra aplica-
+ción de la ecuación 5.15.
+Solución.
+Dado: Encuentre: a) W (trabajo de cada motor)
+b) t (tiempo de cada motor)
+a) Puesto que 
+y
+Observe que en el mismo lapso de tiempo, el motor más pequeño efectúa la mitad del tra-
+bajo que el mayor, como era de esperarse.
+b) Los tiempos están dados por t /H11005W/P, y, para la misma cantidad de trabajo,
+y
+El motor más pequeño tarda el doble que el mayor, en realizar la misma cantidad de
+trabajo.
+Ejercicio de refuerzo. a) Un motor de 10 hp sufre un desperfecto y se le sustituye tempo-
+ralmente por uno de 5 hp. ¿Qué diría acerca de la tasa de producción de trabajo? b) Su-
+ponga que la situación se invierte: un motor de 5 hp es sustituido por uno de 10 hp. ¿Qué
+diría acerca de la tasa de producción de trabajo en este caso?
+Eficiencia
+Las máquinas y los motores son implementos de uso muy común en la vida cotidiana,
+y con frecuencia hablamos de su eficiencia. La eficiencia implica trabajo, energía y/o
+potencia. Todas las máquinas, sean simples o complejas, que efectúan trabajo tienen
+piezas mecánicas que se mueven, por lo que una parte de la energía aportada siempre
+se pierde por la fricción o alguna otra causa (quizá en forma de sonido). Por ello, no to-
+do el aporte de energía se invierte en realizar trabajo útil.
+En esencia, la eficiencia mecánica es una medida de lo que obtenemos a cambio de
+lo que aportamos, es decir, el trabajo útil producido en comparación con la energía
+aportada. La eficiencia, /H9255, se da como una fracción (o porcentaje):
+(5.17)
+La eficiencia es una cantidad adimensional
+Por ejemplo, si una máquina recibe 100 J (de energía) y produce 40 J (de trabajo), su efi-
+ciencia es
+e = Wsale
+Eentra
+= 40 J
+100 J = 0.40 1* 100%2 = 40%
+e =
+trabajo producido
+energía aportada  1* 100%2 = Wsale
+Eentra
+ 1* 100%2
+ t2 = W
+P2
+= 97.0 * 103 J
+373 W = 260 s
+ t1 = W
+P1
+= 97.0 * 103 J
+746 W = 130 s
+ W2 = P2
+ t =1373 W21180 s2 = 0.67 * 105 J
+ W1 = P1
+ t =1746 W21180 s2 = 1.34 * 105 J
+P = W>t,
+ W = 97.0 kJ = 97.0 * 103 J
+ t = 3.00 min = 180 s
+ P2 = 0.500 hp = 373 W
+ P1 = 1.00 hp = 746 W
+
+5.6 Potencia 167
+Una eficiencia de 0.40, o del 40%, significa que el 60% de la energía aportada se pierde
+debido a la fricción o alguna otra causa y no sirve para lo que se requiere. Si dividimos
+ambos términos del cociente de la ecuación 5.17 entre el tiempo t, obtendremos W
+sale/
+t /H11005Psale y Eentra/t /H11005Pentra. Así, escribimos la eficiencia en términos de potencia, P:
+(5.18)
+Ejemplo 5.18 ■ Reparaciones caseras: eficiencia mecánica 
+y producción de trabajo
+El motor de un taladro eléctrico con una eficiencia del 80% tiene un consumo de potencia
+de 600 W. ¿Cuánto trabajo útil efectúa el taladro en 30 s?
+Razonamiento. Este ejemplo es una aplicación de la ecuación 5.18 y de la definición de
+potencia.
+Solución.
+Dado: Encuentre: Wsale (trabajo producido)
+Dada la eficiencia y el aporte de potencia, podemos calcular fácilmente la potencia produ-
+cida Psale con la ecuación 5.18, y esta cantidad está relacionada con el trabajo producido
+(Psale /H11005Wsale/t). Primero, reacomodamos la ecuación 5.18:
+Luego, sustituimos este valor en la ecuación que relaciona potencia producida y trabajo
+producido para obtener
+Ejercicio de refuerzo. a) ¿Es posible tener una eficiencia mecánica del 100%? b) ¿Qué im-
+plicaría una eficiencia de más del 100%?
+La tabla 5.1 presenta las eficiencias típicas de algunas máquinas. Podría sorpren-
+dernos la eficiencia relativamente baja del automóvil. Gran parte del aporte energético
+(de la combustión de gasolina) se pierde como calor por el escape y por el sistema de
+enfriamiento (más del 60%), y la fricción da cuenta de otra porción importante. Cerca
+del 20% de la energía aportada se convierte en trabajo útil que impulsa al vehículo. El
+aire acondicionado, la dirección hidráulica, la radio y los reproductores de cintas y CD
+son agradables; pero también consumen energía y contribuyen a disminuir la eficien-
+cia del automóvil.
+Wsale = Psale
+ t =14.8 * 102 W2130 s2 = 1.4 * 104 J
+Psale =ePentra =10.8021600 W2 = 4.8 * 102 W
+ t = 30 s
+ Pin = 600 W
+ e = 80% = 0.80
+e = Psale
+Pentra
+  1* 100%2
+Eficiencias típicas de algunas máquinas
+Máquina Eficiencia (% aproximado)
+Compresora 85
+Motor eléctrico 70–95
+Automóvil (los vehículos híbridos incrementan 20
+la eficiencia de combustible en 25%)
+Músculo humano* 20–25
+Locomotora de vapor 5–10
+TABLA 5.1
+*Técnicamente no es una máquina, pero se usa para realizar trabajo.
+
+168 CAPÍTULO 5 Trabajo y energía
+Repaso del capítulo
+• El trabajo efectuado por una fuerza constante es el producto
+de la magnitud del desplazamiento y el componente de la
+fuerza paralelo al desplazamiento:
+(5.2)
+• Para calcular el trabajo efectuado por una fuerza variable se
+requieren matemáticas avanzadas. Un ejemplo de fuerza va-
+riable es la fuerza de resorte, dada por la ley de Hooke:
+(5.3)
+El trabajo efectuado por una fuerza de resorte está dado por
+(5.4)
+• La energía cinética es la energía de movimiento y está dada
+por
+(5.5)
+• El teorema trabajo-energía dice que el trabajo neto efectua-
+do sobre un objeto es igual al cambio de energía cinética del
+objeto:
+(5.6)
+• La energía potencial es la energía de posición y/o configura-
+ción. La energía potencial elástica de un resorte está dada
+por
+(5.7)
+El tipo más común de energía potencial es la energía poten-
+cial gravitacional, asociada a la atracción gravitacional cerca
+de la superficie de la Tierra.
+(5.8)U = mgy
+ 1con yo = 02
+U = 1
+2 kx2 1con xo = 02
+F
+v
+F
+K  = mv21
+2
+x
+m
+W = Fx
+(Sin fricción)
+  vo
+W = K – Ko = ΔK
+Ko =  mvo2
+m
+1
+2
+W = K - Ko =¢ K
+K = 1
+2 mv2
+W = 1
+2 kx2
+FaFs
+Fa
+a)
+xo
+b)
+x
+ Δx /H11005 x /H11002 xo
+xo
+Fs
+Fs /H11005 /H11002 kΔx /H11005 /H11002 k (x /H11002 xo)
+Fs /H11005 /H11002 kx con xo /H11005 0
+Sin estirar
+Fuerza
+del resorte
+Fuerza
+aplicada
+Fs =- kx
+d
+1 /H11005 F cos
+=F
+F
+F /H11005 F sen u
+u
+u
+u
+W =1F cos u2d
+• Conservación de la energía: La energía total del universo o
+de un sistema aislado siempre se conserva.
+Conservación de la energía mecánica: La energía mecánica 
+total (cinética más potencial) es constante en un sistema con-
+servativo:
+(5.10b)
+• En sistemas con fuerzas no conservativas , donde se pierde
+energía mecánica, el trabajo efectuado por una fuerza no con-
+servativa está dado por
+(5.13)
+110 mv = 20 m/s
+Wnc = E - Eo =¢ E
+g
++ y 
+– y 
+y = 0 
+v = 0 
+ΔU = mgymáx
+y = ymáx
+vo
+1
+2 mv2 + U = 1
+2 mvo
+2 + Uo
+F
+Δy = y  – yo
+                    = ΔU = mg
+yo
+mg
+y U = mgy
+Uo = mgyo
+m
+m
+Δy
+ W  = U – Uo
+
+Ejercicios 169
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son ejer-
+cicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pares de
+ejercicios, que se identifican con númer
+os subrayados, pretenden ayudar al lector a resolver problemas y aprender. El
+primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consultarse si se necesi-
+ta ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al final del libro.
+5.1 Trabajo efectuado por una fuerza constante
+1. OM Las unidades del trabajo son a) N · m, b) kg · m2/s2,
+c) J o d) todas las anteriores.
+2. OM Para una fuerza y un desplazamiento específicos, la
+mayoría del trabajo se realiza cuando el ángulo entre
+ellos es de a) 30°, b) 60°, c) 90°, d) 180°.
+3. OM Un pitcher lanza una bola rápida. Cuando el catcher
+la atrapa, a) se realiza trabajo positivo, b) se realiza tra-
+bajo negativo, c) el trabajo neto es cero.
+4. OM El trabajo que se realiza en la caída libre es a) sólo
+positivo, b) sólo negativo o c) puede ser positivo o ne-
+gativo.
+5. PC a) Cuando un levantador de pesas se esfuerza por 
+levantar una barra del piso (
+▼ figura 5.24a), ¿está efec-
+tuando trabajo? ¿Por qué? b) Al levantar la barra sobre 
+su cabeza, ¿está efectuando trabajo? Explique. c) Al sos-
+tener la barra sobre su cabeza (figura 5.24b), ¿está efec-
+tuando más trabajo, menos trabajo o la misma cantidad
+de trabajo que al levantarla? Explique. d) Si el atleta deja
+caer la barra, ¿se efectúa trabajo sobre la barra? Explique
+qué sucede en esta situación.
+7. PC Un avión a reacción describe un círculo vertical en el
+aire. ¿En qué regiones del círculo es positivo el trabajo
+efectuado por el peso del avión y en cuáles es negativo?
+¿Es constante el trabajo? Si no lo es, ¿tiene valores instan-
+táneos mínimos y máximos? Explique.
+8.
+● Si una persona efectúa 50 J de trabajo al mover una caja
+de 30 kg una distancia de 10 m por una superficie hori-
+zontal, ¿qué fuerza mínima requiere?
+9.
+● Una caja de 5.0 kg se desliza una distancia de 10 m so-
+bre hielo. Si el coeficiente de fricción cinética es de 0.20,
+¿qué trabajo efectúa la fuerza de fricción?
+10.
+● Un pasajero en un aeropuerto tira del asa de una male-
+ta rodante. Si la fuerza empleada es de 10 N y el asa for-
+ma un ángulo de 25 /H11034con la horizontal, ¿qué trabajo
+efectúa la fuerza de tracción cuando el pasajero camina
+200 m?
+11.
+● Un estudiante universitario que gana algo de dinero
+durante el verano empuja una podadera de césped por
+una superficie horizontal con una fuerza constante de
+200 N, que forma un ángulo de 30 /H11034hacia abajo con res-
+pecto a la horizontal. ¿Qué distancia empuja la podadora
+al efectuar 1.44 /H1100310
+3 J de trabajo?
+12. ●● Un bloque de 3.00 kg baja deslizándose por un pla-
+no inclinado sin fricción que forma 20/H11034con la horizontal.
+Si la longitud del plano es de 1.50 m, ¿cuánto trabajo se
+efectúa y qué fuerza lo efectúa?
+13.
+●● Suponga que el coeficiente de fricción cinética entre el
+bloque y el plano del ejercicio 12 es de 0.275. ¿Qué traba-
+jo neto se efectuaría en este caso?
+14.
+●● Un padre tira de su hija sentada en un trineo con ve-
+locidad constante sobre una superficie horizontal una
+distancia de 10 m, como se ilustra en la 
+▼ figura 5.25a. Si
+la masa total del trineo y la niña es de 35 kg, y el coefi-
+ciente de fricción cinética entre los patines del trineo y la
+nieve es de 0.20, ¿cuánto trabajo efectúa el padre?
+a) b)
+▲ FIGURA 5.24 ¿Hombre trabajando? Véase el ejercicio 5.
+6. PC Un estudiante lleva una mochila por la universidad.
+¿Qué trabajo efectúa su fuerza portadora vertical sobre
+la mochila? Explique.
+• La potencia es la rapidez con que se efectúa trabajo (o se gas-
+ta energía). La potencia media está dada por
+(5.15)
+(fuerza constante en la dirección de d y v)
+(5.16)
+(fuerza constante que actúa con un ángulo /H9258entre d y v)
+ P
+=
+F1cos u2d
+t = Fv cos u
+ P = W
+t = Fd
+t = Fv
+• La eficiencia relaciona el trabajo producido con el aporte de
+energía (trabajo), en forma de porcentaje:
+(5.17)
+(5.18) e = Psale
+Pentra
+  1* 100%2
+ e = Wsale
+Eentra
+  1* 100%2
+
+170 CAPÍTULO 5 Trabajo y energía
+15. ●● Un padre empuja horizontalmente el trineo de su hija
+para subirlo por una cuesta nevada (figura 5.25b). Si el
+trineo sube la pendiente con velocidad constante, ¿cuán-
+to trabajo efectúa el padre al empujarlo hasta la cima?
+(Algunos datos necesarios se dan en el ejercicio 14.)
+16. EI
+●● Un globo aerostático asciende con rapidez constan-
+te. a) El peso del globo efectúa trabajo 1) positivo, 2) ne-
+gativo o 3) cero. ¿Por qué? b) Un globo aerostático con
+una masa de 500 kg asciende con rapidez constante de
+1.50 m/s durante 20.0 s. ¿Cuánto trabajo efectúa la fuerza
+de flotación hacia arriba? (Desprecie la resistencia del aire.)
+17. EI
+●● Un disco (puck) de hockey con una masa de 200 g y
+una rapidez inicial de 25.0 m/s se desliza libremente hasta
+el reposo, en un espacio de 100 m sobre una superficie hori-
+zontal de hielo. ¿Cuántas fuerzas realizan algún trabajo 
+diferente de cero sobre él conforme disminuye su rapidez?
+a) 1) ninguna, 2) una, 3) dos, o 4) tres. Explique su respues-
+ta. b) Determine el trabajo realizado por todas las fuerzas in-
+dividuales sobre el disco conforme disminuye su rapidez.
+18. EI
+●● Un borrador con una masa de 100 g se encuentra 
+sobre un libro en reposo. El borrador está inicialmente a
+10.0 cm de cualquiera de las orillas del libro. De repente,
+se tira de este último muy fuerte y se desliza por debajo
+del borrador. Al hacerlo, arrastra parcialmente al borrador
+junto con él, aunque no lo suficiente para que éste perma-
+nezca sobre el libro. El coeficiente de fricción cinética entre
+el libro y el borrador es 0.150. a) El signo del trabajo reali-
+zado por la fuerza de fricción cinética del libro sobre el bo-
+rrador es 1) positiva, 2) negativa o 3) la fricción cinética no
+realiza ningún trabajo. Explique su respuesta. b) ¿Cuánto
+trabajo realiza la fuerza de fricción del libro sobre el borra-
+dor en el momento que éste cae de la orilla del libro?
+19.
+●●● Un helicóptero ligero, de 500 kg, asciende desde el sue-
+lo con una aceleración de 2.00 m/s2. Durante un intervalo
+de 5.00 s, ¿cuál es a) el trabajo realizado por la fuerza de as-
+censión, b) el trabajo realizado por la fuerza gravitacional 
+y c) el trabajo neto que se realiza sobre el helicóptero?
+20. ●●● Un hombre empuja horizontalmente un escritorio
+que se encuentra en reposo sobre un piso de madera ás-
+pero. El coeficiente de fricción estática entre el escritorio
+y el piso es 0.750 y el coeficiente de fricción cinética es
+0.600. La masa del escritorio es de 100 kg. El hombre em-
+puja suficientemente fuerte para hacer que el escritorio
+se mueva, y continúa empujando con esa fuerza durante
+5.00 s. ¿Cuánto trabajo realiza sobre el escritorio?
+21. EI
+●●● Un estudiante podría empujar una caja de 50 kg,
+o bien tirar de ella, con una fuerza que forma un ángulo
+de 30/H11034con la horizontal, para moverla 15 m por una su-
+perficie horizontal. El coeficiente de fricción cinética en-
+tre la caja y la superficie es de 0.20. a) Tirar de la caja
+requiere 1, menos, 2, el mismo o 3, más trabajo que em-
+pujarla. b) Calcule el trabajo mínimo requerido tanto pa-
+ra tirar de la caja como para empujarla.
+5.2 Trabajo efectuado por una fuerza variable
+22. OM El trabajo efectuado por una fuerza variable de la for-
+ma F /H11005kx es a) kx2, b) kx, c) o d) nada de lo anterior.
+23. PC Con respecto a su posición de equilibrio ¿se requiere
+el mismo trabajo para estirar un resorte 2 cm, que estirar-
+lo 1 cm? Explique.
+24. PC Si un resorte se comprime 2.0 cm con respecto a su
+posición de equilibrio y luego se comprime otros 2.0 cm,
+¿cuánto trabajo más se efectúa en la segunda compresión
+que en la primera? Explique su respuesta.
+25.
+● Para medir la constante de cierto resorte, un estudiante
+aplica una fuerza de 4.0 N, y el resorte se estira 5.0 cm.
+¿Qué valor tiene la constante?
+26.
+● Un resorte tiene una constante de 30 N/m. ¿Cuánto
+trabajo se requiere para estirarlo 2.0 cm con respecto a su
+posición de equilibrio?
+27.
+● Si se requieren 400 J de trabajo para estirar un resorte
+8.00 cm, ¿qué valor tiene la constante del resorte?
+28. ● Si una fuerza de 10 N se utiliza para comprimir un re-
+sorte con una constante de resorte de 4.0 /H11003102 N/m,
+¿cuál es la compresión resultante del resorte?
+29. EI ● Se requiere cierta cantidad de trabajo para estirar un
+resorte que está en su posición de equilibrio. a) Si se efec-
+túa el doble de trabajo sobre el resorte, ¿el estiramiento 
+aumentará en un factor de 1) 2) 2, 3) 4) 
+¿Por qué? b) Si se efectúan 100 J de trabajo para estirar 
+un resorte 1.0 cm, ¿qué trabajo se requiere para estirarlo
+3.0 cm?
+30.
+●● Calcule el trabajo que realiza la fuerza variable en la
+gráfica de F contra x en la Nfigura 5.26. [Sugerencia: recuer-
+de que el área de un triángulo es ]A = 1
+2 altura * base.
+1
+2 .1> 22,22,
+1
+2 kx2
+30°
+15°
+10 m
+a)
+b)
+3.6 m
+F
+F
+v
+v
+▲ FIGURA 5.25 Diversión y trabajoVéanse los ejercicios 14 y 15.
+
+Ejercicios 171
+36. ●●● Un resorte (el resorte 1) con una constante de resor-
+te de 500 N/m se fija a una pared y se conecta a un re-
+sorte más débil (resorte 2) con una constante de resorte
+de 250 N/m sobre una superficie horizontal. Entonces
+una fuerza externa de 100 N se aplica al final del resorte
+más débil (#2). ¿Cuánta energía potencial se almacena
+en cada resorte?
+5.3 El teorema trabajo-energía: 
+energía cinética
+37. OM ¿Cuál de las siguientes es una cantidad escalar? 
+a) trabajo, b) fuerza, c) energía cinética o d) a y c.
+38. OM Si el ángulo entre la fuerza neta y el desplazamiento
+de un objeto es mayor que 90 /H11034, a) la energía cinética au-
+menta, b) la energía cinética disminuye, c) la energía ci-
+nética no cambia o d) el objeto se detiene.
+39. OM Dos automóviles idénticos, A y B, que viajan a 55 mi/h
+chocan de frente. Un tercer auto idéntico, C, choca contra
+una pared a 55 mi/h. ¿Qué automóvil sufre más daños: 
+a) el auto A, b) el auto B, c) el auto C, d) los tres lo mismo?
+40. OM ¿Cuál de estos objetos tiene menos energía cinética?
+a) Un objeto de masa 4 m y rapidez v; b) un objeto de 
+masa 3m y rapidez 2 v; c) un objeto de masa 2 m y rapi-
+dez 3v; d) un objeto de masa m y rapidez 4v.
+41. PC Queremos reducir la energía cinética de un objeto lo
+más posible, y para ello podemos reducir su masa a la
+mitad o bien su rapidez a la mitad. ¿Qué opción convie-
+ne más y por qué?
+42. PC Se requiere cierto trabajo W para acelerar un automó-
+vil, del reposo a una rapidez v. ¿Cuánto trabajo se requie-
+re para acelerarlo del reposo a una rapidez v/2?
+43. PC Se requiere cierto trabajo W para acelerar un automó-
+vil, del reposo a una rapidez v. Si se efectúa un trabajo de
+2W sobre el auto, ¿qué rapidez adquiere?
+44. EI
+● Un objeto de 0.20 kg con una rapidez horizontal de
+10 m/s choca contra una pared y rebota con la mitad 
+de su rapidez original. a) El porcentaje de energía ciné-
+tica perdida, en comparación con la energía cinética 
+original, es 1) 25%, 2) 50% o 3) 75%. b) ¿Cuánta energía
+cinética pierde el objeto al chocar contra la pared?
+45.
+● Una bala de 2.5 g que viaja a 350 m/s choca contra un
+árbol y se frena uniformemente hasta detenerse, mien-
+tras penetra 12 cm en el tronco. ¿Qué fuerza se ejerció so-
+bre la bala para detenerla?
+46. ● Un automóvil de 1200 kg viaja a 90 km/h. a) ¿Qué
+energía cinética tiene? b) ¿Qué trabajo neto se requeriría
+para detenerlo?
+47. ● Una fuerza neta constante de 75 N actúa sobre un obje-
+to en reposo y lo mueve una distancia paralela de 0.60 m.
+a) ¿Qué energía cinética final tiene el objeto? b) Si la masa
+del objeto es de 0.20 kg, ¿qué rapidez final tendrá?
+F
+Fuerza (N)
+Distancia (m)
+6.0
+4.0
+2.0
+–2.0
+–4.0
+–6 .0
+–8 .0
+8.0
+0 0 x3.01.02 .04 .05 .0
+▲ FIGURA 5.26 ¿Cuánto trabajo se efectúa? Véase el
+ejercicio 30.
+Fuerza (N)
+Distancia (m)
+> FIGURA 5.27 Más allá del
+límite Véase el ejercicio 35.
+31. EI ●● Un resorte con una constante de fuerza de 50 N/m
+se estira desde 0 hasta 20 cm. a) El trabajo requerido para
+estirar el resorte desde 10 hasta 20 cm es 1) mayor que, 
+2) igual que o 3) menor que el que se requiere para esti-
+rarlo desde 0 hasta 10 cm. b) Compare los dos valores del
+trabajo para probar su respuesta al inciso a.
+32. EI
+●● En el espacio interestelar libre de gravedad, una na-
+ve enciende sus motores para acelerar. Los cohetes están
+programados para incrementar su propulsión desde cero
+hasta 1.00 /H1100310
+4 N, con un incremento lineal durante el
+curso de 18.0 km. Entonces, la propulsión disminuye li-
+nealmente para regresar a cero durante los siguientes 
+18.0 km. Suponiendo que el cohete estaba estacionario 
+al inicio, a) ¿durante cuál segmento se realizará más tra-
+bajo (en magnitud)? 1) los primeros 60 s, 2) los segundos
+60 s o 3) el trabajo realizado es el mismo en ambos seg-
+mentos. Explique su razonamiento. b) Determine cuanti-
+tativamente cuánto trabajo se realiza en cada segmento.
+33.
+●● Cierto resorte tiene una constante de fuerza de 2.5 /H11003
+103 N/m. a) ¿Cuánto trabajo se efectúa para estirar 
+6.0 cm el resorte relajado? b) ¿Cuánto más trabajo se
+efectúa para estirarlo otros 2.0 cm?
+34. ●● Para el resorte del ejercicio 33, ¿cuánta más masa ten-
+dría que colgarse del resorte vertical para estirarlo a) los
+primeros 6.0 cm y b) los otros 2.0 cm?
+35. ●●● Al estirar un resorte en un experimento, un estudian-
+te, sin darse cuenta, lo estira más allá de su límite elástico;
+la gráfica de fuerza contra estiramiento se presenta en la
+▼ figura 5.27. Básicamente, después de alcanzar su límite,
+el resorte comienza a comportarse como si fuera conside-
+rablemente rígido. ¿Cuánto trabajo se realizó sobre el re-
+sorte? Suponga que en el eje de fuerza, las marcas están
+cada 10 N, y en el eje x están cada 10 cm o 0.10 m.
+
+172 CAPÍTULO 5 Trabajo y energía
+48. EI ●● Una masa de 2.00 kg se une a un resorte vertical
+con una constante de 250 N/m. Un estudiante empuja
+verticalmente la masa hacia arriba con su mano, mien-
+tras desciende lentamente a su posición de equilibrio. 
+a) ¿Cuántas fuerzas distintas de cero trabajan sobre el
+objeto? 1) una, 2) dos, 3) tres. Explique su razonamiento.
+b) Calcule el trabajo efectuado sobre el objeto por cada
+una de las fuerzas que actúan sobre éste conforme des-
+ciende a su posición original.
+49.
+●● La distancia en que para un vehículo es un factor de
+seguridad importante. Suponiendo una fuerza de frenado
+constante, use el teorema trabajo-energía para demostrar
+que la distancia en que un vehículo para es proporcional
+al cuadrado de su rapidez inicial. Si un automóvil que
+viaja a 45 km/h se detiene en 50 m, ¿en qué distancia pa-
+rará si su rapidez inicial es de 90 km/h?
+50. EI
+●● Un automóvil grande, con masa 2m, viaja con rapi-
+dez v. Uno más pequeño, con masa m, viaja con rapidez
+2v. Ambos derrapan hasta detenerse, con el mismo coefi-
+ciente de fricción, a) El auto pequeño parará en una dis-
+tancia 1) mayor, 2) igual o 3) menor. b) Calcule el cociente
+de la distancia de frenado del auto pequeño entre la del
+auto grande. (Use el teorema trabajo-energía, no las leyes
+de Newton.)
+51. ●●● Un camión fuera de control con una masa de 5000
+kg viaja a 35.0 m/s (unas 80 mi/h) cuando comienza a
+descender por una pendiente pronunciada (de 15 /H11034). La
+pendiente está cubierta de hielo, así que el coeficiente de
+fricción es de apenas de 0.30. Utilice el teorema trabajo-
+energía para determinar qué distancia se deslizará (su-
+poniendo que se bloquean sus frenos y derrapa todo el
+camino) antes de llegar al reposo.
+52.
+●●● Si el trabajo requerido para aumentar la rapidez de
+un automóvil de 10 a 20 km/h es de 5.0 /H11003103 J, ¿qué 
+trabajo se requerirá para aumentar la rapidez de 20 a 
+30 km/h?
+5.4 Energía potencial
+53. OM Un cambio de energía potencial gravitacional a)
+siempre es positivo, b) depende del punto de referencia,
+c) depende de la trayectoria o d) depende sólo de las po-
+siciones inicial y final.
+54. OM El cambio en la energía potencial gravitacional se en-
+cuentra calculando mg/H9004h y restando la energía potencial
+del punto de referencia: a) verdadero, b) falso.
+55. OM El punto de referencia para la energía potencial gra-
+vitacional puede ser a) cero, b) negativo, c) positivo, d) to-
+das las opciones anteriores.
+56. PC Si un resorte cambia su posición de xo a x, ¿a qué es
+proporcional el cambio de energía potencial? (Exprese el
+cambio en términos de x
+o y x.)
+57. PC Dos automóviles van desde la base hasta la cima de
+una colina por diferentes rutas, una de las cuales tiene
+más curvas y vueltas. En la cima, ¿cuál de los dos vehícu-
+los tiene mayor energía potencial?
+58.
+● ¿Cuánta más energía potencial gravitacional tiene un
+martillo de 1.0 kg cuando está en una repisa a 1.2 m de
+altura, que cuando está en una a 0.90 m de altura?
+59. EI
+● Le dicen que la energía potencial gravitacional de
+un objeto de 2.0 kg ha disminuido en 10 J. a) Con esta in-
+formación, es posible determinar 1) la altura inicial del
+objeto, 2) la altura final del objeto, 3) ambas alturas, ini-
+cial y final o 4) sólo la diferencia entre las dos alturas.
+¿Por qué? b) ¿Qué podemos decir que sucedió físicamen-
+te con el objeto?
+60.
+●● Una piedra de 0.20 kg se lanza verticalmente hacia
+arriba con una velocidad inicial de 7.5 m/s desde un
+punto situado 1.2 m sobre el suelo. a) Calcule la energía
+potencial de la piedra en su altura máxima sobre el suelo.
+b) Calcule el cambio de energía potencial de la piedra en-
+tre el punto de lanzamiento y su altura máxima.
+61. EI
+●● El piso del sótano de una casa está 3.0 m por deba-
+jo del suelo, y el del desván, 4.5 m sobre el nivel del sue-
+lo. a) Si un objeto se baja del desván al sótano, ¿respecto 
+a qué piso será mayor el cambio de energía potencial? 
+1) Desván, 2) planta baja, 3) sótano o 4) igual para todos.
+¿Por qué? b) Calcule la energía potencial respectiva de
+dos objetos de 1.5 kg que están en el sótano y en el des-
+ván, relativa al nivel del suelo. c) ¿Cuánto cambia la ener-
+gía potencial del objeto del desván si se baja al sótano?
+62.
+●● Una masa de 0.50 kg se coloca al final de un resorte
+vertical, con una constante de resorte de 75 N/m, y se le
+deja bajar a su posición de equilibrio. a) Determine el
+cambio en la energía potencial (elástica) del resorte del
+sistema. b) Determine el cambio en el sistema en la ener-
+gía potencial gravitacional.
+63.
+●● Un resorte horizontal, que está en reposo sobre la cu-
+bierta de una mesa que no ejerce fricción, se estira 15 cm
+desde su configuración sin estiramiento y una masa de
+1.00 kg se fija a él. El sistema se libera desde el reposo.
+Una fracción de segundo después, el resorte se encuentra
+comprimido 3.0 cm con respecto a su configuración sin
+estiramiento. ¿Cómo se compara su energía potencial fi-
+nal con su energía potencial inicial? (Dé su respuesta en
+forma de razón entre el valor final y el inicial.)
+64.
+●●● Un estudiante tiene seis libros de texto, todos con un
+grosor de 4.0 cm y un peso de 30 N. ¿Qué trabajo mínimo
+tendría que realizar el estudiante para colocar todos los
+libros en una sola pila, si los seis libros están en la super-
+ficie de una mesa?
+65.
+●●● Una masa de 1.50 kg se coloca al final de un resorte
+que tiene una constante de 175 N/m. El sistema masa-
+resorte se encuentra en reposo sobre una pendiente que
+no ejerce fricción y que tiene una inclinación de 30° con
+respecto a la horizontal (
+▼ figura 5.28). El sistema llega a
+su posición de equilibrio, donde permanece. a) Determi-
+ne el cambio en la energía potencial elástica del sistema.
+b) Determine el cambio del sistema en la energía poten-
+cial gravitacional.
+M
+30°
+> FIGURA 5.28
+Cambios en la energía
+potencial Véase el
+ejercicio 65.
+
+Ejercicios 173
+5.5 Conservación de la energía
+66. OM La energía no puede a) transferirse, b) conservarse, 
+c) crearse, d) adoptar diferentes formas.
+67. OM Si una fuerza no conservativa actúa sobre un objeto,
+a) la energía cinética del objeto se conserva, b) la energía
+potencial del objeto se conserva, c) la energía mecánica
+del objeto se conserva o d) la energía mecánica del objeto
+no se conserva.
+68. OM La rapidez de un péndulo es máxima a) cuando su
+energía cinética es mínima, b) cuando su aceleración es
+máxima, c) cuando su energía potencial es mínima o 
+d) nada de lo anterior.
+69. PC Durante una demostración en clase, una bola de bo-
+los colgada del techo se desplaza respecto a la posición
+vertical y se suelta desde el reposo justo en frente de la
+nariz de un estudiante (
+▼ figura 5.29). Si el estudiante no
+se mueve, ¿por qué la bola no golpeará su nariz?
+76. ●● Un bloque M (1.00 kg) en un plano inclinado a 5° sin
+fricción está unido mediante una cuerda delgada que pa-
+sa por encima de una polea que no ejerce fricción a un
+bloque suspendido m (200 g). Los bloques se liberan des-
+de el reposo y la masa suspendida cae 1.00 m antes de
+golpear el piso. Determine la rapidez de los bloques jus-
+to antes de que m golpee el piso.
+77.
+●● Un bloque ( M) de 1.00 kg yace sobre una superficie
+plana que no ejerce fricción ( ▼ figura 5.30). Este bloque
+está unido a un resorte inicialmente con una longitud de
+relajamiento (la constante de resorte es 50.0 N/m). Una
+cuerda delgada se une al bloque y se hace pasar por enci-
+ma de una polea que no ejerce fricción; del otro extremo
+de la cuerda pende una masa de 450 g (m). Si la masa sus-
+pendida se libera desde el reposo, ¿qué distancia caerá
+antes de detenerse?
+▲ FIGURA 5.29 ¿En el rostro? Véase el ejercicio 69.
+70. PC Cuando usted lanza un objeto al aire, ¿su rapidez ini-
+cial es la misma que su rapidez justo antes de que regre-
+se a su mano? Explique el hecho aplicando el concepto
+de la conservación de la energía mecánica.
+71. PC Un estudiante lanza una pelota verticalmente hacia
+arriba hasta alcanzar la altura de una ventana en el se-
+gundo piso en el edificio de los dormitorios. Al mismo
+tiempo que la pelota se lanza hacia arriba, un estudiante
+asomado por la ventana deja caer una pelota. ¿Las ener-
+gías mecánicas de las pelotas son iguales a la mitad de la
+altura de la ventana? Explique su respuesta.
+72.
+● Una pelota de 0.300 kg se lanza verticalmente hacia
+arriba con una rapidez inicial de 10.0 m/s. Si la energía
+potencial inicial se considera como cero, determine las
+energías cinética, potencial y mecánica a) en su posición
+inicial, b) a 2.50 m por arriba de su posición inicial y c) a
+su altura máxima.
+73.
+● ¿Cuál es la altura máxima que alcanza la pelota del
+ejercicio 72?
+74. ●● Una pelota de 0.50 kg que se lanza verticalmente hacia
+arriba tiene una energía cinética inicial de 80 J. a) Calcule
+sus energías cinética y potencial una vez que haya recorri-
+do las tres cuartas partes de la distancia hacia su altura
+máxima. b) ¿Cuál es la rapidez de la pelota en este punto?
+c) ¿Qué energía potencial tiene en su altura máxima? (Use
+como punto de referencia cero el punto de lanzamiento.)
+75. EI
+●● Una niña oscila en un columpio cuyas cuerdas tie-
+nen 4.00 m de longitud y alcanza una altura máxima de
+2.00 m sobre el suelo. En el punto más bajo de la oscila-
+ción, está 0.500 m arriba del suelo. a) La niña alcanza su
+rapidez máxima 1) en el punto más alto, 2) en la parte
+media o 3) en el punto más bajo de su oscilación. ¿Por
+qué? b) Calcule la rapidez máxima de la niña.
+M
+m
+> FIGURA 5.30
+¿Qué tan lejos irá
+Véase el ejercicio 77.
+A
+8.0 m
+C
+?
+5.0 m
+5.0 m/s
+B
+▲ FIGURA 5.31 Conversión(es) de energía Véase el 
+ejercicio 81.
+78. EI ●● Una masa (pequeña) de 500 g unida al final de una
+cuerda de 1.50 m de largo se jala hacia un lado a 15° de la
+vertical y se empuja hacia abajo (hacia el final de su mo-
+vimiento) con una rapidez de 2.00 m/s. a) ¿El ángulo en
+el otro lado es 1) mayor, 2) menor o 3) igual que el ángu-
+lo en el lado inicial (15/H11034)? Explique su respuesta en térmi-
+nos de energía. b) Calcule el ángulo que se forma en el
+otro lado, ignorando la resistencia del aire.
+79.
+●● Cuando cierta pelota de caucho se deja caer desde
+una altura de 1.25 m sobre una superficie dura, pierde el
+18.0% de su energía mecánica en cada rebote. a) ¿Qué al-
+tura alcanzará la pelota en el primer rebote? b) ¿Y en el
+segundo? c) ¿Con qué rapidez tendría que lanzarse la pe-
+lota hacia abajo para que alcance su altura original en el
+primer rebote?
+80.
+●● Un esquiador baja sin empujarse por una pendiente
+muy lisa de 10 m de altura, similar a la que se mostró en
+la figura 5.21. Si su rapidez en la cima es de 5.0 m/s, ¿qué
+rapidez tendrá en la base de la pendiente?
+81.
+●● Un convoy de montaña rusa viaja sobre una vía sin
+fricción como se muestra en la ▼ figura 5.31. a) Si su ra-
+pidez en el punto A es de 5.0 m/s, ¿qué rapidez tendrá
+en B? b) ¿Llegará al punto C? c) ¿Qué rapidez debe te-
+ner en el punto A para llegar al punto C?
+
+174 CAPÍTULO 5 Trabajo y energía
+82. ●● Un péndulo simple tiene una longitud de 0.75 m y
+una pesa con una masa de 0.15 kg. La pesa se suelta des-
+de una posición en que el hilo forma un ángulo de 25 /H11034
+con una línea de referencia vertical (
+▼ figura 5.32). a) De-
+muestre que la altura vertical del peso cuando se suelta
+es h /H11002L(1 /H11002cos 25/H11034). b) ¿Qué energía cinética tiene la pe-
+sa cuando el hilo forma un ángulo de 9.0 /H11034? c) ¿Qué rapi-
+dez tiene la pesa en la parte más baja de su oscilación?
+(Desprecie la fricción y la masa del hilo.)
+A la masa suspendida se le da una rapidez inicial de 
+1.50 m/s hacia abajo. ¿Qué distancia cae antes de llegar
+al reposo? (Suponga que el resorte no tiene límites en
+cuanto a la distancia que puede estirarse.)
+5.6 Potencia
+89. OM ¿Cuál de las siguientes no es una unidad de poten-
+cia? a) J/s; b) W · s; c) W; d) hp.
+90. OM Considere un motor de 2.0 hp y otro de 1.0 hp. En
+comparación con el motor de 2.0, para una cantidad da-
+da de trabajo, el motor de 1.0 hp puede hacer a) el doble
+de trabajo en la mitad del tiempo, b) la mitad del trabajo
+en el mismo tiempo, c) un cuarto del trabajo en tres cuar-
+tas partes del tiempo, d) ninguna de las opciones anterio-
+res es verdadera.
+91. PC Si usted revisa su cuenta de electricidad, notará que
+está pagando a la compañía que le presta el servicio por
+tantos kilowatts-hora (kWh). ¿Realmente está pagando
+por potencia? Explique su respuesta, Además, convierta
+2.5 kWh a J.
+92. PC a) ¿La eficiencia describe qué tan rápido se realiza el
+trabajo? Explique su respuesta. b) ¿Una máquina más 
+potente siempre realiza más trabajo que una menos po-
+tente? Explique por qué.
+93. PC Dos estudiantes que pesan lo mismo parten simultá-
+neamente del mismo punto en la planta baja, para ir al
+mismo salón en el tercer piso siguiendo rutas distintas. Si
+llegan en tiempos distintos, ¿cuál estudiante habrá gasta-
+do más potencia? Explique su repuesta.
+94.
+● ¿Qué potencia en watts tiene un motor con especifica-
+ción de 
+95. ● Una chica consume 8.4 /H11003106 J (2000 calorías alimen-
+tarias) de energía al día y mantiene constante su peso.
+¿Qué potencia media desarrolla en un día?
+96.
+● Un auto de carreras de 1500 kg puede acelerar de 0 a
+90 km/h en 5.0 s. ¿Qué potencia media requiere para 
+hacerlo?
+1
+2 hp?
+y = 0 h
+m
+= 25°
+L
+Lθ
+▲ FIGURA 5.32 Un péndulo que oscila Véase el ejercicio 82.
+83. ●● Suponga que el péndulo simple del ejercicio 74 se sol-
+tó desde un ángulo de 60 /H11034. a) Calcule la rapidez de la 
+pesa en la parte más baja de la oscilación. b) ¿Qué altura
+alcanzará la pesa en el lado opuesto? c) ¿Qué ángulo de
+liberación daría la mitad de la rapidez calculada en el 
+inciso a?
+84.
+●● Una caja de 1.5 que se desliza a 12 m/s por una su-
+perficie sin fricción se acerca a un resorte horizontal.
+(Véase la figura 5.19.) La constante del resorte es de 2000
+N/m. a) ¿Qué distancia se comprimirá el resorte para
+detener a la caja? b) ¿Qué distancia se habrá comprimido
+el resorte cuando la rapidez de la caja se haya reducido a
+la mitad?
+85.
+●● Un niño de 28 kg baja por una resbaladilla desde una
+altura de 3.0 m sobre la base de la resbaladilla. Si su ra-
+pidez en la base es de 2.5 m/s, ¿qué trabajo efectuaron
+fuerzas no conservativas?
+86. ●●● Una excursionista planea columpiarse en una cuer-
+da para cruzar un barranco en las montañas, como se
+ilustra en la Nfigura 5.33, y soltarse cuando esté justo so-
+bre la otra orilla. a) ¿Con qué rapidez horizontal debería
+moverse cuando comience a columpiarse? b) ¿Por debajo
+de qué rapidez estaría en peligro de caerse al barranco?
+Explique su respuesta.
+87.
+●●● En el ejercicio 80, si el esquiador tiene una masa de
+60 kg y la fuerza de fricción retarda su movimiento efec-
+tuando 2500 J de trabajo, ¿qué rapidez tendrá en la base
+de la cuesta?
+88.
+●●● Un bloque de 1.00 kg (M) está sobre un plano incli-
+nado 20° que no ejerce fricción. El bloque está unido a un
+resorte (k /H1100525 N/m), que se encuentra fijo a una pared
+en la parte inferior del plano inclinado. Una cuerda del-
+gada atada al bloque pasa por encima de una polea que
+no ejerce fricción hacia una masa suspendida de 40.0 g. 
+vo
+L = 4.0 m
+1.8 m
+▲ FIGURA 5.33 ¿Lo logrará? Véase el ejercicio 86.
+
+Ejercicios 175
+97. ● Las dos pesas de 0.50 kg de un reloj cucú descienden
+1.5 m en un periodo de tres días. ¿Con qué rapidez está
+disminuyendo su energía potencial gravitacional?
+98.
+● Una mujer de 60 kg sube corriendo por una escalera
+con una altura (vertical) de 15 m en 20 s. a) ¿Cuánta po-
+tencia gasta? b) ¿Qué especificación tiene en caballos de
+fuerza?
+99. ●● Un motor eléctrico que produce 2.0 hp impulsa una
+máquina cuya eficiencia es del 40%. ¿Cuánta energía pro-
+duce la máquina por segundo?
+100.
+●● Se levanta agua de un pozo de 30.0 m con un motor
+cuya especificación es de 1.00 hp. Suponiendo una efi-
+ciencia del 90%, ¿cuántos kilogramos de agua se pueden
+levantar en 1 min?
+101.
+●● En un periodo de 10 s, un estudiante de 70 kg sube
+corriendo dos tramos de las escaleras cuya altura vertical
+combinada es de 8.0 m. Calcule la producción de poten-
+cia del estudiante al efectuar un trabajo en contra de la
+gravedad en a) watts y b) caballos de fuerza.
+102.
+●● ¿Cuánta potencia debe ejercer una persona para
+arrastrar horizontalmente una mesa de 25.0 kg 10.0 m a
+través de un piso de ladrillo en 30.0 s a velocidad cons-
+tante, suponiendo que el coeficiente de fricción cinética
+entre la mesa y el piso es 0.550?
+103.
+●●● Un avión de 3250 kg tarda 12.5 min en alcanzar su
+altura de crucero de 10.0 km y su velocidad de crucero de
+850 km/h. Si los motores del avión suministran, en pro-
+medio, una potencia de 1500 hp durante este tiempo,
+¿qué eficiencia tienen los motores?
+104.
+●●● Un caballo tira de un trineo y su conductora, que
+tienen una masa total de 120 kg, por una cuesta de 15 /H11034
+▼ figura 5.34. a) Si la fuerza de fricción total retardante es
+de 950 N y el trineo sube la cuesta con una velocidad
+constante de 5.0 km/h, ¿qué potencia está generando el
+caballo? (Exprésela en caballos de fuerza, naturalmente.
+Tome en cuenta la magnitud de su respuesta, y explí-
+quela.) b) Suponga que, haciendo acopio de energía, el
+caballo acelera el trineo uniformemente, de 5.0 a 20 km/h,
+en 5.0 s. Calcule la potencia instantánea máxima de-
+sarrollada por el caballo. Suponga la misma fuerza de
+fricción.
+105.
+●●● Un montacargas utilizado en la construcción ejerce
+una fuerza hacia arriba de 500 N sobre un objeto cuya
+masa es de 50 kg. Si el montacargas parte del reposo, de-
+termine la potencia que éste ejerce para subir el objeto
+verticalmente durante 10 s en tales condiciones.
+Ejercicios adicionales
+106. Un resorte con una constante de 2000 N/m se comprime
+10.0 cm sobre una superficie horizontal ( ▼ figura 5.35).
+Después, un objeto de 1.00 kg se une a él y se libera. En la
+posición de longitud relajada del resorte, la masa deja el
+resorte y la mesa va de muy suave a áspera, con un coefi-
+ciente de fricción de 0.500. Hay una pared a 50.0 cm del
+punto de liberación. a) Determine si la masa regresará al
+resorte después de un rebote contra la pared, suponiendo
+que rebota en ésta elásticamente (sin pérdida de rapidez).
+b) Si regresa al resorte, ¿qué distancia lo comprimirá? Si
+no regresa al resorte, ¿cuál será su ubicación final?
+15°f
+▲ FIGURA 5.34 Un trineo abierto de un caballo
+Véase el ejercicio 104.
+10.0 cm x = 0
+ubicación
+Pared elástica
+sección áspera de la superficie
+▲ FIGURA 5.35 Regresa Véase el ejercicio 106.
+107. Un bloque se desliza desde el reposo hacia abajo por 
+un plano inclinado que no ejerce fricción. El plano mide
+2.50 m de longitud y su ángulo es de 40 /H11034. En la parte in-
+ferior hay una sección curveada y suave que se une a una
+sección áspera del piso horizontal. El bloque se desliza
+una distancia adicional horizontal de 3.00 m antes de de-
+tenerse. Determine el coeficiente de fricción cinética en-
+tre el bloque y el piso.
+108. Dos resortes idénticos (ignore sus masas) se utilizan para
+“jugar cachados” con un pequeño bloque, cuya masa es
+de 100 g (
+▼ figura 5.36). El resorte A está unido al piso y
+2.00 cm
+30.0 cm
+10.0 cm
+▲ FIGURA 5.36 Jugando cachados Véase el ejercicio 108.
+
+176 CAPÍTULO 5 Trabajo y energía
+se comprime 10.0 cm con la masa al final de él (sin apre-
+tar). El resorte A se libera desde el reposo y la masa es
+acelerada hacia arriba. Esta última impacta el resorte fija-
+do al techo, lo comprime 2.00 cm y se detiene después de
+recorrer una distancia de 30.0 cm desde la posición rela-
+jada del resorte A hasta la posición relajada del resorte B,
+como se ilustra. Determine la constante de los resortes A
+y B (la misma, puesto que son idénticos).
+109. George de la Selva toma una liana que mide 15.0 m de
+largo y desciende hacia el suelo. Parte del reposo con la
+liana a 60°, se deja ir hasta el punto inferior del vaivén y
+se desliza a nivel de la tierra para detenerse. Si George
+tiene una masa de 100 kg y el coeficiente de fricción ciné-
+tica entre él y el suelo de la selva es 0.75, determine qué
+distancia se desliza antes de llegar al reposo.
+110. Un resorte ligero inicialmente estirado 20.0 cm tiene una
+masa de 300 g en su extremo. El sistema está sobre la cu-
+bierta de una mesa horizontal y áspera. El coeficiente de
+fricción cinética es 0.60. La masa es empujada inicialmen-
+te hacia dentro con una rapidez de 1.50 m/s y comprime
+el resorte 5.00 cm antes de detenerse. Calcule la constan-
+te de resorte.
+Los siguientes problemas Physlet de física pueden emplearse con este capítulo.
+6.3, 6.4, 6.5, 6.6, 6.7, 6.8, 6.9, 6.10, 6.11, 6.12, 6.14, 7.1, 7.2, 7.3, 7.4, 7.5, 7.6,
+7.7, 7.8, 7.10
+
+• Momentum es la palabra latina para movi-
+miento.
+• Newton llamó momentum a la “cantidad de
+movimiento”. En sus Principia afirmó: La
+cantidad de movimiento es la medida del
+mismo, resultado de la velocidad y de la 
+cantidad de materia, conjuntamente.
+• Newton llamó impulso a la “fuerza motriz”.
+• Una colisión es la reunión o interacción de
+partículas u objetos, que provoca un intercam-
+bio de energía y/o cantidad de movimiento.
+• Antes del despegue, el transbordador espacial,
+el tanque externo de combustible (para los
+motores del trasbordador) y sus dos sólidos
+cohetes propulsores tienen un peso total de
+20 millones de N (4.4 millones de lb). Para
+lanzar al espacio al transbordador espacial,
+los dos cohetes generan un promedio de 24 
+millones de N (5.3 millones de lb) de pro-
+pulsión durante un proceso de combustión de
+2 min, y los tres motores del transbordador
+agregan 1.7 millones de N (375 000 lb) de
+propulsión durante 8 min de combustión. Los
+cohetes y el tanque externo de combustible se
+desechan tiempo después.
+• Es un error común pensar que en el lanza-
+miento de un cohete, el motor incandescen-
+te se agota “empujando” contra la plataforma
+de lanzamiento para propulsar el cohete ha-
+cia arriba. Si éste fuera el caso, ¿cómo po-
+drían utilizarse los motores del cohete en el
+espacio, donde no hay nada contra lo cual
+empujar?
+6.1 Cantidad de 
+movimiento lineal 178
+6.2 Impulso 182
+6.3 Conservación 
+de la cantidad de
+movimiento lineal
+185
+6.4 Choques elásticos 
+e inelásticos 191
+6.5 Centro de masa 198
+6.6 Propulsión a chorro 
+y cohetes 204
+Cantidad de movimiento
+lineal y choques6
+M
+añana, quizá los cronistas deportivos digan que el ímpetu de todo el par-
+tido cambió como resultado de un hit impulsor, como el de la fotografía.
+Se dice que un equipo adquirió ímpetu y finalmente ganó el partido. Sin
+embargo, sea cual fuere el efecto sobre el equipo, es evidente que el ímpetu (o can-
+tidad de movimiento) de la pelota de la imagen debió cambiar drásticamente. La
+pelota viajaba hacia la caja de bateo con muy buena velocidad y, por lo tanto, con
+abundante cantidad de movimiento. Sin embargo, el choque con un bate de made-
+ra dura —también provisto de una buena cantidad de movimiento— cambió la di-
+rección de la pelota en una fracción de segundo. Un aficionado podría decir que el
+bateador dio vuelta a la pelota. Después de estudiar el capítulo 4, usted podría de-
+cir que le impartió a la pelota una aceleración negativa considerable, invirtiendo
+su vector de velocidad. No obstante, si obtuviéramos la suma de la cantidad de
+movimiento de la pelota y el bate justo antes del choque, y justo después, descubri-
+ríamos que, si bien tanto el bate como la pelota cambiaron su cantidad de movi-
+miento, ¡la cantidad de movimiento total no cambió!
+Si fuéramos a jugar a los bolos y la bola rebotara de los pinos y regresara ha-
+cia nosotros, seguramente nos quedaríamos boquiabiertos. ¿Por qué? ¿Qué nos
+hace esperar que la bola hará que los pinos salgan volando y seguirá rodando, en
+vez de rebotar? Podríamos decir que a la bola le permite seguir su camino aun
+después del choque (y tendríamos razón); pero, ¿qué significa eso en realidad?
+En este capítulo estudiaremos el concepto de cantidad de movimiento y descubrire-
+mos que es muy útil para analizar el movimiento y los choques.
+HECHOS DE FÍSICA
+CAPÍTULO 
+177
+
+178

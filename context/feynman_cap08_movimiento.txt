@@ -1,0 +1,566 @@
+Tema: Movimiento (Capítulo 8 — Lecciones de Física, Feynman, Vol. I)
+
+8-1 Descrip<:iOn del movimiento 
+8-2 Velocidad 
+8-3 La velocidad como derivada 
+8-1 DescripciOn del movimiento 
+8-4 La distancia como una integral 
+8-5 AceleraciOn 
+A fin de encontrar las leyes que gobiernan Jos diversos cambios que experimentan 
+los cuerpos a medida que el tiempo transcurre, debemos estar en condiciones de 
+describir los cambios y tener alguna manera de registrarlos. El cambio mas simple 
+observable en un cuerpo es el cambio aparente en su posici6n con el tiempo. al cual 
+llamamos movimiento. Consideremos a!glln objeto s61ido con una marca permancr.te 
+que podemos observar, que llamaremos punto. Discutiremos el movimiento <lei pe­
+quef\o marcador, cl cual podria ser la tapa dcl radiador de un autom6vil o el centro 
+de ~na pelota que estii. cayendo, y trataremos de describir el hecho de que se mueve 
+y como se mueve. 
+Estos ejemp!os pueden parecer triviales, pero en la descripcion de! cambio entran 
+muchas sutilezas. Algunos cambios son mis dificiles de describir que el movimiento 
+de un punto en un objeto s6lido, por ejemplo la velocidad de deriva de una nube 
+que se mueve muy lentamente, pero formitndose o evaporitndose ritpidamente, o cl 
+cambio de opini6n de una mujer. No conocemos una manera simple para analizir 
+un cambio de opini6n, pero ya que la nubc se puede representar o describir por 
+muchas moieculas. en princlpio, tal vez podamos describir el movimiento de la nube, 
+describiendo el movimiento de eada una de sus molCculas. De la misma manera, 
+quiz:its, los cambios en la opini6n pueden tener un paralelo con los cambios de los 
+:ittomos dentro del cerebra, pero aUn no tenemos ta! conocimicnto. 
+De todas maneras, esto es el motivo por el cua! comenzamos con el movimiento 
+de puntos; tal vez debieramos imaginarlos como .iitomos, pero es probablemente 
+mejor ser mils imprecisos al comienzo y simplemente pensar en alguna cspecie de 
+pequci'tos objetos, es decir, pequeii.os comparados con la distancia rccorrida. Por 
+ejemplo, para dcscribir el movimiento de un autom6vil que va a cien kil6metros. 
+no tenemos que distinguir entre la parte delantera y la parte trasera de! autom6vil. 
+Sin Juda, hay pcqucii.as diferencias, pero para prop6sitos aproximados dircmos '"cl 
+autom6vil" y de! mismo modo no importa que nuestros puntos no sean puntos ab­
+soluws; para lo quc nos interesa no es neccsario ser extrcmadamcnte precise. Tam· 
+bien. rnientras echamos una primera mirada a este tema. vamos a olvidar las tres di­
+mcnsioncs de! mundo. Solamente nos concentraremos sabre el movimiento en una 
+direcciOn, 
+8-1
+
+Tabla 8-1 
+t(min) s(m) 
+0 
+400 
+1.300 
+3.000 
+3.170 
+3.200 
+4.300 
+6.000 
+7.850 
+8.000 
+' .. .310~~ 
+~.6201 
+'·ooor 
+3.310 
+1 .. 650 
+2 4 6 8 !O 
+tiempo en minute~ 
+Fig 8·-1 Gr8f1co 
+t1cmpo pvra 
+8-2
+
+Tabla8-2 
+t(seg) s(m) 
+la bel!a 
+5 
+20 
+45 
+80 
+125 
+180 
+Otra sutilcza ya 
+4ue e~tamos obscrvando 
+J33LL JOO 
+66 
+33 ,··~~.­
+tiempoensegundos 
+8-2 Grat1co de lad1stanc1aenfun-
+t1empo para un cuerpo quecae 
+indicada en la figura 8-2. La formula para esta curva puede 
+S--=5t.' (8.1) 
+• ~ f(t), (8.2) 
+es que seria posible 1maginar que cl punto m6vil 
+ubicado en alguna parte. 
+8·3
+
+(Por supuesto, que cuando lo estamos observando, estit ahi, pero puede ser que 
+cuando miremos hacia otro )ado no este ahi.) Resulta que en el movimiento de los 
+ittomos esa idea tambiCn es falsa -no podemos encontrar un marcador en un ittomo y 
+ver!o tnoverse-. A esas suti!ezas tendremos que !legar en la mecitnica cuintica. Pero 
+primero vamos a aprender cuitles son los prob!emas antes de introducir las complica­
+ciones, y entonces estaremos en una situaci6n mcjor para hacer correcciones a la Juz 
+del m.is reciente conocimiento de! tema. Por lo tanto, tomaremos un punto de vista 
+simp!e acerca del tiempo y del espacio. Sabemos to que son estos conceptos de una 
+manera aproximada, y los que han manejado un autom6vil saben lo que significa ve­
+locidad. 
+8-2 Velocidad 
+Aunque sabemos aproximadamente lo que significa "velocidad ··,hay aUn algunas 
+sutilezas bastante profundas: tengan en cuenta que los estudiosos griegos nunca 
+pudieron describir en forma adecuada los problemas relativos a la ve!ocidad. La 
+sutileza nace cuando tratamos de comprender exactamente que se entiende por "ve­
+locidad ". Los griegos se confundieron mucho con esto, y una nueva rama de la 
+matemittica tuvo que ser descubierta ademits de la geometria y el itlgebra de los 
+griegos, itrabes y babilonios. Como ilustraci6n de la dificultad, tratemos de resolver 
+este problema con illgebra pura: Se cstit int?ando un g!obo de modo que el volumen 
+dcl globo aumenta a raz6n de 100 cm1 por segundo: ~a que velocidad estit aumen­
+tando el radio cuando cl volumen cs de 1.000 cm1 ? Los griegos se embrollaron 
+bastante con tales problemas. siendo ayudados. por supuesto, por algunos griegos 
+muy confusos. Para mostrar que existian dificultades al razonar acerca de la 
+vdocidad en esa Cpoca, Zen6n produjo un gran nilmero de paradojas, de las cuales 
+mencionaremos una para ilustrar este punto en el cual hay obvias dificultades en 
+las ideas acerca dcl movimiento. "Escuchen ·--dice-· el siguiente razonamiento: 
+Aquiles corre IO veces mils rilpido que una tortuga: sin embargo, nunca puede 
+alcanzar a la tortuga. Para cllo, supongan quc inician una carrera donde la tor­
+tuga estil 100 metros delante de Aquiles: entonces cuando Aquiles ha corrido los 
+100 metros al lugar donde estaba la tortuga, la tortuga ha avanzado JO metros, 
+habiendo corrido un dCcimO de ritpido. Ahora. Aquiles tiene que correr otros JO 
+metros para alcanzar a la tortuga, pero al llegar al final de esa carrera, encuentra 
+que la tortuga estit atm a un metro delante de e1: corriendo otro metro, encuentra 
+a la tortuga 10 centimetres delante. v asi sucesivamente. hasta el inflnito. Por lo 
+tanto, en cua!quier instante la tortug3. estil siemprc de!ante de Aquiles y Aquiles 
+nunca pucde alcanzar a la tortuga." ~D6nde estii el error en esto? Esta en que una 
+cantidad finita de tiempo puede ser dividida en un nUmero infinite de partes, tal como 
+una longitud de Jinea puedc ser dividida en un nUmcro infinito de pedazos dividiCn­
+do!a rcpetidamcnte en dos. Y asi. aunque hay un nUmero infinito de pasos (en el 
+razonamiento) hasta el punto en el cual Aquiles alcanza a la tortuga. no significa 
+que haya una cantidad infinita de tiempo. Podcmos ver con este cjcmplo quc hay 
+en verdad algunas sutilezas en el razonamiento acerca de la velocidad. 
+A fin de comprender las sutikzas en una forma clara. Jes 
+quc scguramente debcn haber oido. En e! lugar donde un 
+cl auto. el policia sc le accrca y dice: "jSei'i.ora. usted iba a 
+Ella dice: "fao es imposible. sci'i.or. he estado \'iajando sOlo ~ietc minutos. 
+8-4
+
+Es ridiculo, {.C6mo puedo ir a 100 kil6metros por hara cuando no he viajado una 
+hora?" {. C6mo responderian si fueran el po Iida? Por supuesto, si fueran realmente 
+el policla no habria sutilezas; es muy simple, dirian; -·icuenteselo aljuez!" Pero su­
+pongamos que nosotros no tenemos esa salida y hacemos un ataque intelectual mas 
+honesto a! problema y tratamos de explicar a esta dama Jo que entendemos por la 
+idea de que ella fuera a 100 kil6metros por hora. Precisamente. {.qui: entendemos? 
+Decimos: ··Loque entendemos, seiiora, es esto; si usted siguiera yendo de la misma 
+manera coma iba ahora, en la hora siguiente babria recorrido 100 ki16metros." Ella 
+podria decir: ""Bien, mi pie no estaba sobre c! acelerador y el auto estaba detenien­
+dose: asi que si yo continuara yendo de esa manera no recorreria 100 kilOmetros." 
+0 consideren la pelota quc cae y supongan que quercmos conocer su velocidad en 
+el tiempo tres segundos, si la pe!ota sigue moviendose de la manera en que lo estii 
+hacienda. {.Que. significa eso, scguir acelerando, ir mils r:'J.pido? No; seguir movien­
+dose con la misma velocidad. iPero eso es to que estamos tratando de definir! Per­
+que si la pelota sigue moviendose de !a manera en que lo estii hacienda, scguiril 
+simplemente moviendose de la manera como lo est3 hacienda. Por lo tanto, neceslta­
+mos definir mejor la velocidad. {.Que de be seguir lo mis mo? La dam a puede tambien 
+razonar de esta manera: "jSi siguiera moviCndome de la manera coma lo cstoy ha 
+ciendo durante una hora mas, me iria contra esa pared al final de la ca!!e!" No es 
+tan facil expresar 10 que queremos decir. 
+Muchos fisicos piensan que !a mediciOn es la lrnica definiciOn de cualquier cosa. 
+Evidentemente, entonces, debieramos usar el inst~umento que mide la ve!ocidad -el 
+velocimetro- y decir: "Mir~ seiiora, su velocimetro marca 100". Y entonces ella dice, 
+"Mi velodmetro est3 roto y no marcaba en absoluto". {.Significa esto que e! auto 
+est3 detenido? Creemos que hay a!go que mcdir antes de construir cl velocimetro. 
+SOio entonces podemos decir, por ejemplo: "E! velocimetro no csta funcionando 
+bien ", o "el velocimetro csta roto ". Fsa scria una frase sin sentido si h velocidad no 
+tuviera un significado independiente del ve!ocimetro. Asi. pues, tenemos en nuestras 
+mentes, evidcntemente, una idea que es independiente de! velocimetro. y el vclocimetro 
+est3 ideado sOlo para medir esta idea. Por lo cual veamos si podemos obtener una 
+mejor definickrn de la idea. Dedrnos, '·Si, por supuesto, antes de andar una hara 
+usted chocaria esa muralla, pero si anduviera un segundo, recorreria 28 metros; se­
+iiora, usted iba a 28 metros por segundo y si siguiera andando. cl prOximo ~cgundo 
+estaria a 28 metros y la rnura!la aque1ia est3 mils lejos,.. Ella dice, "jSi. pero no 
+hay ninguna ley que prohiba ir a 28 metros por scgundo! Hay s6lo una 
+que prohibe ir a JOO kil6metros por hora ", "pcro ,., replicamos la rnisma 
+Si es la misma seria net:esario este circunloquio accrca de 28 metros por 
+segundo. En pclota que est<i cayendo no puede.~eguir moviCndose de la 
+un segundo. debido a quc c~taria cambiando la velocidad, 
+vclocidad de alguna manera. 
+8-5
+
+tan corto 
+podrla tener 
+durante una 
+cs bastantc 
+La defintciOn anterior envucivc una nucva idea, una idea que los griegos no te­
+nian en una forma general. Esa idea foe tomar una distancia inflnltesimal y el co-
+rrespondicnte infinitesimal, formar el cociente, y observar que sucede a ese 
+cocicntc cuando quc usarnos lleguc a ser mils y m.is corto. En otras pala 
+la distancia recorrida dividida por el ticmpo necesario, 
+cuando el ticmpo es cada vez mils pequei'io. hasta el infinito. Esta idea fue 
+inventada par Newton y Leibnitz, independientemente, yes el comienzo de una nue­
+va rama de las matemilticas, Uamada ctilculo diferencial. El c<ilculo difcrencial 
+fue inventado con el fin de dcscribir el movimiento. y su primera aplicaciOn fue al 
+problema de definir quC significa ir "a 100 ki!Ometros por hora ··. 
+Tratemos de ddinir la vclocidad un poco mcjor. Supongamos quc en un corto 
+tiempo <. el automOvil u otro cuerpo recorren una corta distancia x; entonces la 
+vclocidad. P, csta definida por 
+t' = X/E, 
+v =Jim~-
+~ ..... o E 
+Si ,, 
+(8.J) 
+8-6
+
+Tomemos corno ejcmplo el problema de deterrninar, al instante particular de 
+cinco scgundo~, la veloc1dad de una pelota que cae. Una manera de haccr csto es ver 
+en la tabla 8-2 lo que hizo en el 5.0 segundo: fue 125-80 = 45 metros, asi quc iba 
+a 45 metros/seg; sin embargo, eso es fa!so, debido a quc la vclocidad est<'i cambiando; 
+es promedio de 45 metros/seg durantc cstc intervalo, pero )a pe!ota est<'i aumentan­
+do su veloc1dad y va realmente a mis de 45 metro~/seg. Queremos encontrar exac­
+iamente a qui velocidad. La 1ecnica util.izada en este proceso es la siguiente: sabe­
+mos d6nde se encuentra la pc lo ta a los cinco segundos. A lo~ 5. I segundos, la 
+distancia quc ha caido es 5 (5.1)2 = 130.05 metros (ver 8.1). A los cinco segun-
+ha caldo 125 metros; en el Ultimo d6cimo de cay6 130,05 - 125 = 
+metros. Como 5,05 metros en 0,1 seg. es Jo que 50,5 m/s, Csa es mis 
+o menos la velocidad, pero no es exactamcnte la correcta. LES la velocidad a los 5,0, 
+a los 5,1. o en mitad de! camino a 5,05 seg, o a quc instante e~ 6sta !a ve!ocidad? No 
+importa el problema fuc cncontrar la vclocidad Q los cinro segundos, y no tcnemos 
+exactamente eso; tenemos que hacer un trabajo mejor. Asi tomamos un mi!Csimo de 
+segundo miis que 5 segundos, o sea 5,001 segundos, y calculamos la caida total segUn 
+s '--- 5(5,00lF = 5(25,0iOOOl) = 125,050005 m. 
+En el Ultimo 0,001 seg. la pelota cay6 0,050.005 m. y si dividimos ese ntimero por 
+0,001 seg., obtenemos la velocidad de 50,005 mis. Esto es mas pr6ximo, muy 
+pr6ximo, pero es todavia inexaclo. Deberia ser ahora evidente lo que debemos 
+haccr para encontrar exactamente la velocidad. Para calcular esto matem3tica­
+mente planteamos el problema en forma un poco mas abstracta: encontrar la veloci­
+dad en un tiempo especial 10, queen el problema original era 5 seg. Ahora la distan­
+cia corrcspondiente a l0, que llamamos s0 , es 5 t0 2, o 125 metros en este caso. A 
+fin de encontrar !a velocidad, preguntamos: "En el instante !0 -+ (un poquito). 
+o l0 + E, (.d6nde csti el cuerpo'!" La nueva posici6n es 5 (!0 + Ej2 ---, 5 t0 2 -+ 
+~ 10 l0 t + 5 t 2• Asi esta mil.s leJOS de lo que estaba antes, dcbido a que antes 
+era s6Jo 5 /0 2. Esta distancia la llamaremos s0 + (un poquito mis), o s0 + x (six 
+es el poco extra dem<'is). Si ahora restamos la distancia correspondientc a /0 de 
+la distancia correspondiente a !0 + E, obtenemos x, la distancia adicional recorrida; 
+x = IO l0 E + 5 ( 2• Nuestra primera aproximaci6n para la vclocidad es 
+V = fJ0/0 -+ 5E (8.4) 
+La velocidad verdadera es el valor de este cociente, xh, cuando E se hace infinita­
+mente pequeiio. En otras palabras. de~puti:s de formar el cociente, tomamos el limite 
+cuando E se hace mas y mis pequeiio, esto es, tiende a 0. La ecuaci6n se reduce a 
+i: (en el instante LJ = 10!0 
+En nuestro problema l0 = 5 scg, asi que !a soluci6n es v = 10 x 5 "--'- 50 m/s. 
+Unas pocas !meas arriba, donde tomamos a E igual a 0,1 y 0,01 seg. sucesivamente, 
+el valor que obtuvimo~ para l' fue un poco mayor que este, rero ahora vemos que 
+la veloc1dad real es preci~amente 50 m /~eg. 
+8-7
+
+8-3 I.a velocidad como derivada 
+en In forma 
+ror I t J.1 y notamo~ que 
+v = lim ~. 
+ll.1--->0!lt 
+v= Jim~=<_!!_. 
+t.r--.o M dt 
+(8.5) 
+8-8
+
+Tabla 8-3. Tabla abreviada de derivadas 
+s, u, v, w, son funciones arbitrarias de t; a, b, c y n son constantes arbitrarias 
+FunciOn Derivada 
+~ = 111n-l 
+'!!.. = c '!.!'. 
+dJ d' 
+~=~+~+'!ff+·· 
+"'" s = u v w. 
+~ = 0 
+~=s(~~+~~+E_~+ ··) dt udr vdt wdr 
+s ha cambiado as+ cierto .1s; entonces encontramos el ...Is en terminos de i1t. Es 
+decir, 
+s + ti.s = A(t + ti.t)3 + B(t + M) + C 
+= At 3 + Bt + C + 3At 2 ti.t + B At + 3At(ti.t) 2 + A(At) 3, 
+pero ya que 
+s = A13 + Bt + C, 
+encontramos que 
+As = 3At 2 M + B ti.I + 3At(At) 2 + A(ti.t) 3• 
+Pero nosotros no qucremos js ---queremos js dividido por Jh Dividimos !a ecua­
+ciOn anterior por "11, oh1e11femlo 
+~~ = 3At 2 + B + 3At(ti.t) + A(M) 2. 
+Cuando i11 tiende a 0, el limite de Js/ Jt es ds/dt yes igual a 
+~i = 3At 2 + B. 
+Este es el proceso fundamental de! c:ilculo difercncial: derivar funciones. El pro­
+ceso es aim mas simple de Jo que parece. Observemos que cuando estos desarrol!os 
+contienen cualquier tCrmino con un cuadrado o un cubo o cualquiera potencia mas 
+aJta de .1.t, tales tCrminos pueden ser eliminados de inmcdiato. ya que 1ender<i.n a 0 
+cuando se tome el limite. DespuCs de un pequetia prilct1ca el proceso se hace mils 
+f8.cil, porque uno sabe lo que tiene que dejar de !ado. Hay muchas reglas o formulas 
+para derivar los diversos tipos de funciones. Pucdcn scr memorizadas. o pueden 
+encontrarse en tablas. Una pequeiia !ista se encucntra en la tabla 8-3. 
+8-9
+
+8-4 La distancia como una integral 
+Ahora tenemos que discutir e! problema inverso. Supongamos que. en vez de 
+una tabla de distancias, tenemos una tabla de velocidades en diferentes tiempos, 
+partiendo desde cero. Para la pelota que cae, tales velocidades y tiempos se mues­
+tran en la tabla 8-4. Una tabla similar podria construirse para la velocidad de! 
+auto, anotando las lecturas del velocimetro cada minuto o cada media minuto. Si 
+sabemos a quC velocidad estti. yendo el coche en cualquier instante, ;,podemos 
+determinar hasta dOnde va? Este problema es justamente el Inverso del resuelto 
+anteriormente; se nos da la velocidad y se nos pide encontrar la distancia. (,COmo 
+podemos encontrar la distancia si conocemos la velocidad '! Si la velocidad de\ 
+automOvil no es constante y ta seilora va a cien ki!Ometros por hara por un mo­
+menta, \uego disminuye la velocidad, la aumenta, y asl sucesivamente, (,cOmo pode­
+mos determinar hasta dOnde ha ido? Esto es facil. Usamos la misma idea y expre­
+samos la distancia en ti:rminos de infinitesimales, Digamos: ··En el primer segundo 
+su velocidad fue ta] y ta!, y de la formula .1.s = v .1.t podemos calcular hasta dOnde 
+fue el auto en el primer segundo a esa vclocidad."' Ahora, en el segundo siguiente 
+su velocidad es aproximadamente la misma, pero !igeramcnte diferente; podemos 
+calcular hasta d6nde fue ella en el Segundo siguiente tomando la nueva velocidad 
+multiplicada por el tiempo. Procedemos en forma similar para cada segundo, hasta 
+el final de! viaje. Ahora tenemos un nUmero de pequeflas distanclas y la distancia 
+total sera la suma de todos estos pequeilos pcdazos. 
+Tabla 8-4 
+Veiocidad de una pelota que cae 
+t(seg) v(m/seg) 
+0 
+10 
+20 
+30 
+40 
+Esto la distancia scril la suma de las velocidadcs por !os tiempos, o s = ~ r ~t, 
+letra griega ~· (sigma) es usada para indicar la suma. Para ser mils preci-
+so, es suma de la velocidad en un cierto instante, digamos en el instante i, mul-
+tiplicada por J.t. 
+s = ~v(l;)l:J.t. (8.6) 
+La rcgla para !os tiempos es que t; + = t; + .1.t. Sin embargo, la distancia que ob­
+tenemos por este metodo no sera ·correcta, porque la velocidad cambia durante el 
+intervalo de tiempo .1.t. Si tomamos los ticmpos suficientemente cortos, la suma es 
+precisa, pues los tomamos mas y mas pequeilos hasta obtcner la exactitud dcseada. 
+El verdadero s es 
+~ = 2:'.1.1o ~ v(t,) <.\/. (8.7) 
+Los matemti.ticos han limite, an<ilogo al simbolo para 
+la difcrencial. U .1 se quc el tiempo es tan pequei'io 
+8-10
+
+como pueda ser; la velocidad se llama cntoi:1ces r en el t y la 
+r,:cribe como una suma con una gran "s ", } (de! latln que se 
+s1onado y ahora, por desgracia. sc llama integral. Escribimos entonce~ 
+s = J v(t)dt. (8.8) 
+El proccso de sumar todos estos terminos se llama integraciOn y es el proceso 
+inverso de la derivac19n. La derlvada de esta integral es l'. lo operador 
+(d) elimina el otro (I). Uno puede obtener la formula tomando 
+!as formulas para !as derivadas y aplic<indolas en el estim 
+relacionadas inversamente entre si. Asi uno puede inte-
+grales derivando toda clase de fum:ioncs. Para cada obte-
+nemos una formula de integral s1 la invertimos. 
+Cada funciOn pue<lc ser dcnvada analiticamcntc. es dccir, el proceso se puedc 
+rcalizar algebriticamente. y conduce a 1ma funciOn definida. Pero no es posible 
+de una manera simple escnbir valor anahtico para cualquier integral 
+quiera. Pueden ca!cularlo. por hacicndo la ~uma anterior. y luego 
+do!a otra vcz con un intcrvalo i..ll y otra veL con un intervalo 
+Jrnsta que esten cerca de lo correcto. En generaL dada alguna funcion particular. 
+no cs posible cncontrar, analiticamcnte, cuilnto vaie la integral. t:no pucde siempre 
+tratar de encontrar una funciOn deri\ a da funcion deseada: 
+pcro podria no encontrarla y no el ser expresable en 
+tCrmino de func1une1. a las males ya se les 
+8·5 Aceleracion 
+8-11
+
+I Para derivar el termino lOt podemos uti\izar el resultado obtenido en un problema 
+anterior, donde encontraremos que la derivada de Et es simp!emente B (una cons­
+tante). Asi, si hacemos B = 10, tenemos inmediatamente que !a derivada de lOt 
+es 10. I Esto significa que !a velocidad de un cuerpo que cae est<i. cambiando siempre 
+a raz6n de JO metros por segundo, por segundo. TarnhiCn vemos en la tabla 8-4 
+que la velocidad aumenta en JO m/s en cada segundo. Este es un caso muy simple, 
+porque las aceleradones usualmente no son constantes. La raz6n de que la acelera· 
+ci6n es constante aqui es que la fuerza sobre el cuerpo que cae es constante, y la 
+Ley de Newton dice que la aceleraci6n es proporcional a !a fuerza. 
+Como un ejemplo mils, encontremos la acelcraci6n en el problema que ya hcmos 
+resuelto para la velocidad. Partiendo con 
+s = At 3 + Bt + C 
+obtuvimos, para v = ds/ dt, 
+v = 3At 2 + B. 
+Como !a aceleraci6n es la derivada de la velocidad con respecto al tiempo, debemos 
+derivar la Ultirtl.a expresi6n. Recordemos la regla que la derivada de los dos tfrminos 
+de! segundo miembro es igual a la suma de las derivadas de los tfrminos indivi­
+dualmente. Para derivar el primero de estos tfrminos, en vez de ir a traves de! pro­
+ceso fundamental, notemos otra vez que ya hemos derivado un tfrmino cuadril.tico 
+cuando derivamos 5t1 y el efecto fue doblar el coeficiente numfrico y cambiar el t~ 
+por t; supongamos que !a misma cosa suceder<i. esta vez, y ustedes puedcn comprobar 
+el resu!tado. La derivada de 3A t2 seni 6A t. En seguida derivamos B, un termino 
+constante; pero, por una regla establecida previamente, !a derivada de Bes cero; por 
+lo tanto este tfrmino no contribuye a la aceleraci6n. El resultado final es. por lo 
+tan to. a = dv/ dt = 6At. 
+A titulo de referenda, establezcamos dos formulas muy ii.tiles, que se pueden 
+obtener por integraci6n. Si un cuerpo parte del reposo y se mueve con una acele­
+raci6n constante g, su velocidad ~' en cualquier instante t esta ctada por 
+v =gt. 
+La distancia que recorre en el mismo tiempo es 
+Hay varias notaciones matem<iticas para escribir derivadas. Ya que la velocidad 
+es ds/dt y la aceleraci6n es 13 derivada de la velocidad con respecto al tiempo 
+podemos tambifn escribir 
+(8.10) 
+que son maneras comunes de escribir una segunda derivada. 
+Tenemos otra ley en que la velocidad es igual a la integral de la aceleraci6n. 
+Esto es justamente lo inverso de a = dv/ dt; ya hemos visto que la distancia es la 
+8-12
+
+integral de la velocidad, por lo que se puede encontrar la distancia por una doble 
+integraci6n de la aceleraci6n. 
+En la discusiOn anterior 1=1 movimiento fue en una sola dimensi6n, y razones de 
+espacio s61o permiten una breve discusi6n del movimiento en tres dimensiones. Con­
+sid~remos una particula P, que se mueve en tres dimensiones de una manera cual­
+quiera. Al comienzo de este capitulo, abrimos nuestra discusi6n del caso unidimen­
+sional de un autom6vil en movimiento, observando la distancia recorrida por el auto­
+m6vi\ desde su punto de partida en varios instantes. Luego se discuti6 la ve!oc.idad 
+en terminos de los cambios de esta distil.ncia con el tiempo y la aceleraci6n en ter­
+minos de los cambios de la velocidad. Podemos tratar el movimiento tridimensional 
+en forma aniiloga. Sera mas simple ilustrar el movimiento en un diagrama bidimen­
+sional y luego extender las ideas a tres dimensiones. Establezcamos un par de ejes 
+en ingulo recto y determinemos la posici6n de !a particula en cualquier instante 
+midiendo a que distancia est3. de cada uno de tos dos ejes. As[ cada posici6n esta 
+dada en tfrminos de una distancia x y una distancia y, y el movimiento puede ser 
+descrito construyendo una tabla en la cual estas distancias est3.n dadas en fun­
+ci6n del tiempo. (La extensi6n de este proceso a tres dimensiones s6!o requiere otro 
+eje, perpendicular a los dos primeros, y medir una tercerea distancia, !a distancia z. 
+Las distancias se miden ahora desde pianos coordenados en vez de Jineas.) Habiendo 
+construido una tabla con las distancias x e y, z.c6mo podemos determinar la velo­
+cidad? Primera encontramos las componentes de la velocidad en cada direcciOn. La 
+parte horizontal de la velocidad, o componente x, es !a derivada de la distancia x 
+con respecto al tiempo, o 
+v,, = dx/dt. (8.11) 
+En forma similar, la parte vertical de la velocldad. o componente y, es 
+1'y = dy/dt. (8.12) 
+En la tercera dimensi6n, 
+11, = dz/dt. (8.13) 
+Ahora bien, dadas las componentes de la velocidad, ;,c6mo podemos encontrar 
+la ve\ocidad a lo largo de la trayectoria real del movimiento? En el caso bidimen­
+sional, consideremos dos posiciones succsivas de la particu!a, separadas por una 
+corta ~istancia Lu y un pequeilo intervalo ~e tiempo 11 - t, = M. En el tiempo !':.! 
+la part1cula se mueve horizontalmente una d1stancia !':.x - i'x ill y vert1ca!mente una 
+distancia !':.y - v,. !J.l. (El simbolo '",._" se lee '"es aproximadamente ··.) La distancia 
+real que se mueve es aproximadamente 
+(8.14) 
+como se muestra en la figura 8-3. La velocidad aproximada durante este interva!o 
+pue<le ?bten~rse dividiendo por fl! y hacienda que /1! tienda a 0, como al comienzo 
+del cap1tulo. Entonces obtenemos la ve!ocidad como 
+v = ~ = v'(dx/dt)2 + (dy/dt2) = ~ (8.15) 
+8-13
+
+Fig. 8-3 Descripc16n del movimiento Fig. 8- 4. La parabola descrita por un 
+de un cuerpo en dos dimensiones y cf!lcu- cuerpo que cae con una velocidad hori-
+lo de su velocidad zontal inicial. 
+Para tres dimensiones el resu!tado es 
+(8.16) 
+De la misma manera como dcfinimos las velocidades, podemos definir las ace­
+leraciones: tenemos una componente x de la aceleraciOn a.,, que es la derivada 
+de vx, la componente x de la velocidad (esto es, a, = rPx/dl 2, ta segunda derivada 
+de x con respecto a 1), y asi sucesivamente. 
+Consideremos un bonito ejemplo de un movimiento compuesto en un piano. 
+T omaremos un movimiento en el cu al una pelota se mu eve horizontalmente con una 
+velocidad constante u y al mismo tiempo cae verticalmente con una aceleraciOn 
+(.Cuill es el rnovimiento? Podernos decir que dx/dt ~ v, ~ u. Ya que 
+l'< es constante. 
+x = ut, (8.17) 
+y ya que !a aceleraci6n hacia abajo -g es constante, la distancia y que el objeto 
+cae puede dcscribirse en la forma 
+(8.18) 
+(.Cu:i.l es la curva de su trnyectoria, es decir, cucil es la relaciOn entre y y x. Podemos 
+eliminar t de la ecuaciOn (8.18). ya que t = x/u. Hacienda esta sustituci6n, encon­
+tramos que 
+(8.19) 
+Esta relaciOn entre y y x puede ser considerada como la ecuaci6n de la trayectoria de 
+la pelota que se mueve. Dibujando esta ecuaciOn, obtenemos una curva que se llama 
+parabola; todo cuerpo que cae !ibremente disparado en cualquiera direcci6n des­
+cribir<l una par:i.bola, como se muestra en la figura 8-4. 
+8-14
+
+9 
+Leyes de Newton de la dintimica 
+9~1 Momentum y fuer:m H iCu:il es la fuerza? 
+n La velocidad tiene direcciOn 9~5 Significado d< las ecuaciones de 
+la dimimica 
+9~3 Componentes de la velocidad, de H SoluciOn numfrica de las ecua-
+la aceleraciOn y de la fuerza ciones 
+9~ 7 Movimientos planelarios 
+9-1 Momentum y fuerza 
+El descubrimiento de las Jeycs de la dinilmica, o de las 
+fue un momenta culminante en la historia de la ciencia. Antes 
+ton, los movimientos de las cosas coma Jos planetas eran un pero 
+de Newton hubo una comprensiOn completa. Aun las !eves desv1aciones de las 
+de Kepler debido a las perturbaciones de los planetas, fueron computables. El mo­
+vimiento de los pendulos, osciladores con resortes y pesos en ellos, etc. pudieron 
+ser analizados completamente despues que las !eyes de Newton fueron enunc1ada~. 
+Asi es con este capitulo: antes de este capitulo no pudimos calcu]ar cc"imo se move­
+ria una masa fija a un resorte; mucho menos podriamos calcular las perturbac1ones 
+de! planeta Urano debido a Ji.ipiter y Saturno. jDespul:s de este capitu!o podremos 
+calcular no s6!o el movimiento de las masas que oscilan, sino tambien las perturba 
+ciones produddas por J Upiter y Saturno sob re el p!aneta U rano ! 
+Galileo hizo un gran avance en la comprensi6n de! movimiento cuando descu­
+bri6 el principio de inercia: si un objeto se abandona a si mismo, si no es perturbado, 
+continUa moviendose con una velocidad constante en una linea recta si estaba ori­
+ginalmente movifodose, o continua en repose si estaba en reposo. Por supuesto, este 
+nunca parece ser cl caso en la naturaleza, porque si hacemos deslizar un bloque a 
+lo largo de una mesa se detiene, pero eso es debido a que no ha sido abandonado 
+a si mismo -est<i rozando contra la mesa-. RequiriO cierta imaginaci6n encontrar 
+la regla correcta y esa imaginaci6n !a tuvo Galileo. 
+Por supuesto, la pr6xima cosa que se necesita es una regla para encontrar c6mo 
+un objeto cambia su velocidad si algo lo estd afectando. Esta es la contribuci6n 
+de Newton. Escribi6 tres ]eyes: La primera ley fue una mera reafirmaci6n del prin­
+cipio de inercia galileano recien descrito. La segunda ley dio una manern. especifica 
+para determinar c6mo la velcx:idad cambia baJo diferentes influencias llamadas 
+fuerzas. La tercera !ey describe las fuerzas con algUn detaJle y discutiremos eso 
+9-1
+
+en otra oportunidad. Aqui discutiremos sOlo la segunda ley, la cual sostiene que las 
+fuerzas cambian el movimiento de un objeto de este modo: fa variaciOn temporal 
+de una cantidad !lamada momentum es proporcional a la fuerza. Enunciaremos es­
+to en forma matemii:tica pronto, pero expliquemos primero la idea 
+El momentum no es lo mismo que la velocidad. Muchas palabra~ se usan en fi­
+sica, y todas tienen significado preciso en ella. aunque no puedan tener ta! signifi" 
+cado preciso en el !enguaje cotidiano. El momentum es un ejemplo y debcmos de­
+finirlo en forma precisa. Si ejercemos un cierto empuje con nuestros brazos sobre 
+un objeto !iviano, este se mueve facilmente; si empujamos igualmente fuerte otro 
+objeto mucho m:ls pesado en el sentido usual, se mueve mucho menos rapido. Real­
+mente, debemos cambiar las palabras •·Jiviano" y ""pesado" a menos masil'O y mds 
+masivo, porque hay una diferencia que debe entenderse entre e! peso de un objeto 
+y su inercia. (Lo dlficil que es poner una cosa en movimiento y cuilnto pesa es algo 
+diferente.) El peso y la inerda son proporcionales y sabre la superficie de la tierra 
+se consideran a menudo numi.':ricamente iguales. lo cual causa una cierta confusiOn 
+al estudiante. Sabre Marte lo~ pesos serian diferentes, pcro la magnitud de la fuer-
+7.a necesaria para V!(ncer la incrcia seria la misma. 
+Usamos el tCrmino masa coma mcdida cuantitativa de la inercia. y podemos 
+medir mai.a, por ejemplo, hacienda girar un objeto en circulo a determinada veloci­
+dad y midiendo cuilnta fuerza necesitamos para mantenerlo en circu!o. De esta ma­
+nera, encontramos cierta cantidad de masa para cada objcto. Ahora el momentum 
+Jc un obieto es un producto de dos partes: su masa y su velocidad. Asi, pues, la 
+segunda ley de Newton puede escribirse matemilticamente de esta manera: 
+F = #, (mv). (9.1) 
+Ahora hay varios puntos a considerar. Al escribir cua!quier ley como esta. usamos 
+muchas ideas intuitivas, implicacioncs y suposicioncs. las cuales primero se cor:n­
+binan aproximadamente en nuestra ""ley". Posteriormente tenemos que volver atrils 
+y estudiar con mayor deta11e lo que cada uno de los tCrminos significa exactamente, 
+pero ,<>j tratamos de haccrlo dema~-iado pronto nos confundiremos. Asi, pues, al co­
+mienzo daremos varias cosas por supuestas. Primero, que !a masa de un objeto es 
+constante; no lo es realmente, pero partlremos con la aproximaci6n newtoniana de 
+que la masa es constantc. la misma todo el tiempo. y que, ademlis. cuando ponemos 
+dos objetos juntas, sus masas se Estas ideas fueron por cierto insinuadas 
+por Newton cuando escribi6 su pucs de otro modo esta no time sentido. 
+Por ejemplo, supongamos que la ma~a variara invcrsamentc con !a velocidad; en­
+tonces el momentum no camhiaria nunca en circunstancia alguna; asi la ley no sig­
+nifica nada a menos lJ.UC sepan c6mo cambia la masa respecto a la vclocidad. Para 
+comenzar decimos que no cambia 
+Luego hay algunas implicaciones concernientes a la fuerza. Como una aproxi­
+maciOn, imaginamos !a fucrza coma una especie de empuje o tirOn que hacemos 
+con nuestros mUsculos, pero podemos definirla mils exactamente ahora que tenemos 
+esta ley de! movimiento. La cosa mils importante de reconoccr es que esta relaciOn 
+comprende no s6lo el cambio en la magnilud del momentum ode la velocidad, sino 
+que tambit!n en su direcci6n. 
+9-2
+
+Si la masa es constante, la ecuaci6n (9.1) puede tambien escribirse en la forma 
+F= m~~ =ma. (9.2) 
+La aceleraci6n a es la variaci6n de la velocidad. y la segunda ley de Newton no dice 
+s6lo que el efecto de una fuerza dada varia invcrsamente con la masa; dice tambifo 
+que la direcci6n de! cambio de la velocidad y la direccibn de la fuerza son iguales. 
+Asi debemos compr~nder que un camb.io de "'.elocidad, o. una acelerac.i6n, tiene u.n 
+significado mils ampho que en el lenguaJe comun: la veloc1dad de un obJeto en mov1-
+miento puede cambiar porque se mueve mils rilpido, o mas lento por su disminu­
+ci6n (en este caso, decimos que acelera con una aceleraci6n negativa), o cambiando 
+su direcci6n de movimiento. Una aceleraci6n en imgulo recto con la velocidad fue 
+discutida en el capitulo 7. Vimos alli que un objeto que se mueve en un c!rculo de 
+radio R con una cierta velocidad v a lo largo de! circulo se desvia de una trayec­
+toria rectilinea en una distancia 1gual a y-vi; R) ! 2 , si t es muy pequeiio. Asi la 
+f6rmula para la ace!eraci6n en <ingulo recto al movimiento es 
+a= v2 /R, (9.3) 
+y una fuerza en 3.ngulo recto. a la velocidad obligarla a un objeto a moverse en una 
+trayectoria curva cuyo radio de curvatura se puede encontrar dividiendo la fuerza 
+por la masa para obtener la aceleraci6n, y usando lucgo (9.3). 
+Fig.

@@ -1,0 +1,3960 @@
+Tema: Cantidad de movimiento lineal y colisiones (Capítulo 9 — Física para Ciencias e Ingeniería, Serway)
+
+Capítulo 9  Cantidad de movimiento lineal y colisiones
+9.1  Cantidad de movimiento lineal  
+y su conservación
+En el capítulo 8 se estudiaron situaciones que son difíciles de analizar con las leyes de 
+Newton. Fue posible resolver problemas que involucran estas situaciones al identificar un 
+sistema y aplicar un principio de conservación, el de conservación de energía. Examine 
+otra situación en la que un arquero de 60 kg está de pie sobre hielo sin fricción y dispara 
+una flecha de 0.50 kg horizontalmente a 50 m s. A partir de la tercera ley de Newton, 
+se sabe que la fuerza que el arco ejerce en la flecha se iguala mediante una fuerza en la 
+dirección opuesta sobre el arco (y el arquero). Esta fuerza hace que el arquero se deslice 
+hacia atrás sobre el hielo, ¿pero con qué rapidez? No se puede responder esta pregunta 
+directamente con el uso de la segunda ley de Newton o un planteamiento de energía 
+porque no se tiene suficiente información.
+A pesar de la incapacidad para resolver el problema del arquero mediante las técnicas 
+aprendidas hasta el momento, este problema es muy simple de resolver si se introduce 
+una nueva cantidad que describa el movimiento, la cantidad de movimiento lineal. Aplique  
+la estrategia general para resolver problemas y elabore su marco conceptual de un sistema 
+aislado de dos partículas (figura 9.1) con las masas m
+1 y m2 que se mueven con velocidades 
+v
+S
+1 y v
+S
+2 en un instante de tiempo. Ya que el sistema está aislado, la única fuerza sobre una 
+partícula es a causa de la otra partícula, y se puede clasificar esta situación como una en 
+la que las leyes de Newton son útiles. Si una fuerza a causa de la partícula 1 (por ejemplo, 
+una fuerza gravitacional) actúa sobre la partícula 2, debe haber una segunda fuerza, 
+igual en magnitud pero opuesta en dirección, que la partícula 2 ejerce sobre la partícula 
+1. Es decir, las fuerzas en las partículas forman un par acción–reacción de la tercera ley de 
+Newton, y F
+S
+12  F
+S
+21. Esta condición se expresa como
+F
+S
+21 F
+S
+12 0
+Más adelante analice esta situación al incorporar la segunda ley de Newton. En algún 
+intervalo de tiempo, las partículas en acción recíproca en el sistema aceleran en respuesta 
+a la fuerza. Por lo tanto, al sustituir la fuerza sobre cada partícula con m a
+S
+ para la partícula 
+se obtiene
+m1a
+S
+1 m2a
+S
+2 0
+Ahora se sustituye cada aceleración con su definición de la ecuación 4.5:
+m1 
+d v
+S
+1
+dt m2 
+d v
+S
+2
+dt 0
+Si las masas m1 y m2 son constantes, se les puede colocar adentro de la operación de deri-
+vada, que produce
+  d
+dt 1m1v
+S
+1 m2v
+S
+2 2 0
+ 
+d 1m1v
+S
+1 2
+dt
+d 1m2v
+S
+2 2
+dt 0
+ (9.1)
+Para finalizar esta discusión, note que la derivada de la suma m1v
+S
+1  m2v
+S
+2 respecto del 
+tiempo es cero. En consecuencia, esta suma debe ser constante. A partir de esta discusión 
+se aprendió que la cantidad m v
+S
+ para una partícula es importante en que la suma de estas 
+cantidades para un sistema de partículas aislado se conserva. A esta cantidad se le llama 
+cantidad de movimiento lineal:
+La cantidad de movimiento lineal de una partícula o un objeto que se modela como 
+una partícula de masa m que se mueve con una velocidad v
+S
+ se define como el pro-
+ducto de la masa y la velocidad de la partícula:
+ p
+S
+  m v
+S
+ (9.2)
+La cantidad de movimiento lineal es una cantidad vectorial porque es igual al producto 
+de una cantidad escalar m y una cantidad vectorial v
+S
+. Su dirección es a lo largo de v
+S
+, tiene 
+dimensiones MLT y su unidad del SI es kg · ms.
+Definición de cantidad  
+de movimiento lineal de 
+una partícula
+0
+Figura 9.1 Dos partículas 
+interactúan mutuamente.  
+De acuerdo con la tercera ley de 
+Newton, se debe tener 
+F
+S
+12  F
+S
+21.
+v2
+m2
+m1
+F21
+F12
+v1
+
+Si una partícula es móvil en una dirección arbitraria, p
+S
+ tiene tres componentes y la 
+ecuación 9.2 es equivalente a las ecuaciones por componentes
+px mvx py mvy pz mvz
+Como se obseva a partir de su definición, el concepto de momentum1 proporciona una  
+distinción cuantitativa entre partículas pesadas y ligeras que se mueven a la misma veloci-
+dad. Por ejemplo, el momentum de una bola de boliche es mucho mayor que la de una 
+bola de tenis que se mueve con la misma rapidez. Newton llamó al producto m v
+S
+ cantidad 
+de movimiento; tal vez hoy en día este término es una descripción más gráfica que la palabra 
+momentum, que viene del latín y significa movimiento.
+Al usar la segunda ley de movimiento de Newton, se puede relacionar la cantidad de 
+movimiento lineal de una partícula con la fuerza resultante que actúa en la partícula. Se 
+inicia con la segunda ley de Newton y sustituye la definición de aceleración:
+F
+S
+ma
+S
+m dv
+S
+dt
+En la segunda ley de Newton, la masa m se supone constante. Debido a eso, se puede llevar 
+m dentro de la operación derivada para producir
+ F
+S d 1mv
+S
+2
+dt
+dp
+S
+dt  (9.3)
+Esta ecuación muestra que la relación de cambio con el tiempo de la cantidad de movi-
+miento lineal de una partícula es igual a la fuerza neta que actúa sobre la partícula.
+Esta forma alternativa de la segunda ley de Newton es la forma en que Newton pre- 
+sentó la ley, y de hecho es más general que la forma que se introdujo en el capítulo 5. 
+Además de las situaciones en las que el vector velocidad varía con el tiempo, se puede usar 
+la ecuación 9.3 para estudiar fenómenos en los que la masa cambia. Por ejemplo, la masa 
+de un cohete cambia conforme el combustible se quema y es expulsado del cohete. No se 
+puede usar  F
+S
+  m a
+S
+ para analizar la propulsión de cohetes; se debe aplicar la ecuación 
+9.3, como se mostrará en la sección 9.8.
+Pregunta rápida 9.1 Dos objetos tienen iguales energías cinéticas. ¿De qué modo se 
+comparan las magnitudes de sus cantidades de movimiento? a) p1  p2, b) p1  p2, 
+c) p1  p2, d) no hay suficiente información para informar.
+Pregunta rápida 9.2 Su profesor de educación física le lanza una pelota de beisbol con 
+cierta rapidez y usted la atrapa. A continuación el profesor le lanza una pelota grande y 
+pesada usada para gimnasia cuya masa es diez veces la masa de la pelota de beisbol. Usted 
+tiene las siguientes opciones: la pelota grande y pesada se le puede lanzar con a) la misma 
+rapidez que la pelota de beisbol, b) la misma cantidad de movimiento o c) la misma ener-
+gía cinética. Clasifique estas opciones de la más fácil a la más difícil de atrapar
+.
+Al usar la definición de cantidad de movimiento, la ecuación 9.1 se puede reescribir
+d
+dt 1p
+S
+1 p
+S
+2 2 0
+Ya que la derivada respecto al tiempo de la cantidad de movimiento total p
+S
+tot  p
+S
+1  p
+S
+2 
+es cero, se concluye que la cantidad de movimiento total del sistema aislado de las dos par-
+tículas en la figura 9.1 debe permanecer constante:
+ p
+S
+tot  constante (9.4)
+o, de manera equivalente,
+ p
+S
+1i p
+S
+2i p
+S
+1f p
+S
+2f  (9.5)
+1 Segunda ley de Newton 
+para una partícula
+ Sección 9.1  Cantidad de movimiento lineal y su conservación  229
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 9.1
+La cantidad de movimiento de un 
+sistema aislado se conserva
+Aunque la cantidad de 
+movimiento de un sistema 
+aislado se conserva, la cantidad 
+de movimiento de una partícula 
+dentro de un sistema aislado 
+no necesariamente se conserva 
+porque es posible que otras 
+partículas en el sistema 
+interactúen con ella. Siempre 
+aplique la conservación de 
+cantidad de movimiento a un 
+sistema aislado.
+1 En este capítulo, los términos cantidad de movimiento y cantidad de movimiento lineal tienen el mismo signifi-
+cado. Más adelante, en el capítulo 11, se usará el término cantidad de movimiento angular para una cantidad 
+diferente cuando se trate con movimiento rotacional.
+
+230 Capítulo 9  Cantidad de movimiento lineal y colisiones
+donde p
+S
+1 y p
+S
+2i son los valores iniciales y p
+S
+1f  y p
+S
+2f  son los valores finales de las cantida-
+des de movimiento para las dos partículas en el intervalo de tiempo durante el que las 
+partículas se afectan entre sí. La ecuación 9.5 en forma de componentes demuestra que 
+las cantidades de movimiento totales en las direcciones x, y y z  se conservan todas de 
+manera independiente:
+p1ix p2ix p1fx p2fx p1iy p2iy p1fy p2fy p1iz p2iz p1fz p2fz  (9.6)
+Este resultado, conocido como la ley de conservación de la cantidad de movimiento lineal, 
+se puede extender a cualquier número de partículas en un sistema aislado. Se considera una 
+de las leyes más importantes de la mecánica. Se le puede establecer del modo siguiente:
+Siempre que interactúan dos o más partículas en un sistema aislado, la cantidad de 
+movimiento total del sistema permanece constante.
+Esta ley dice que la cantidad de movimiento total de un sistema aislado en todo momento 
+es igual que su cantidad de movimiento inicial. La ley es la representación matemática de 
+la versión en cantidad de movimiento del modelo de sistema aislado. La versión energética 
+del modelo de sistema aislado se estudió en el capítulo 8.
+Note que no se hizo afirmación alguna en cuanto al tipo de fuerzas que actúan sobre 
+las partículas del sistema. Además, no se especificó si las fuerzas son conservativas o no 
+conservativas. El único requisito es que las fuerzas deben ser internas al sistema.
+Conservación de la 
+cantidad de movimiento
+0
+EJEMPLO 9.1 El arquero
+Considere la situación propuesta al principio de esta sección. Un arquero de 60 kg 
+está de pie en reposo sobre hielo sin fricción y dispara una flecha de 0.50 kg hori-
+zontalmente a 50 ms (figura 9.2). ¿Con qué velocidad el arquero se mueve sobre el 
+hielo después de disparar la flecha?
+SOLUCIÓN
+Conceptualizar Es posible que usted ya haya pensado en este problema cuando se 
+introdujo al principio de la sección. Imagine que la flecha se dispara de una forma y 
+el arquero retrocede en la dirección opuesta.
+Categorizar No se puede resolver este problema al representar la flecha como una 
+partícula bajo una fuerza neta, porque no se tiene información acerca de la fuerza 
+en la flecha o su aceleración. No se puede resolver este problema al usar un modelo de 
+sistema y aplicar un enfoque energético porque no se sabe cuánto trabajo se invierte 
+al jalar el arco hacia atrás o cuánta energía potencial se almacena en el arco. No 
+obstante, este problema se puede resolver muy fácilmente con un planteamiento que 
+suponga cantidad de movimiento.
+Considere el sistema que está constituido del arquero (incluido el arco) y la fle-
+cha. El sistema no está aislado porque la fuerza gravitacional y la fuerza normal del 
+hielo actúan sobre el sistema. Sin embargo, dichas fuerzas son verticales y perpendicu-
+lares al movimiento del sistema. Por lo tanto, no hay fuerzas externas en la dirección 
+horizontal y se puede considerar un sistema aislado en términos de componentes de 
+la cantidad de movimiento en esta dirección.
+Analizar La cantidad de movimiento horizontal total del sistema antes de disparar la flecha es cero, porque nada en el 
+sistema se mueve. Debido a esto, la cantidad de movimiento horizontal total del sistema después de disparar la flecha tam-
+bién debe ser cero. Se elige la dirección de disparo de la flecha como la dirección x positiva. Al identificar al arquero como 
+la partícula 1 y la flecha como la partícula 2, se tiene m
+1  60 kg, m2  0.50 kg y v
+S
+2f  50iˆ ms.
+Ajustar la cantidad de movimiento final del sistema igual a cero: m1v
+S
+1f m2v
+S
+2f 0
+Figura 9.2 (Ejemplo 9.1) Un arquero 
+dispara una flecha horizontalmente 
+hacia la derecha. Ya que él está de pie 
+sobre hielo sin fricción, comenzará a 
+deslizarse hacia la izquierda a través del 
+hielo.
+
+Resuelva esta ecuación para v
+S
+1f y sustituya valores numé-
+ricos:
+Finalizar El signo negativo para v
+S
+1f indica que el arquero, después de disparar la flecha, se mueve hacia la izquierda en la 
+figura 9.2, en la dirección opuesta a la dirección de movimiento de la flecha, en concordancia con la tercera ley de Newton. 
+Ya que el arquero es mucho más pesado que la flecha, su aceleración y en consecuencia su velocidad son mucho más pe-
+queños que la aceleración y velocidad de la flecha.
+¿Qué pasaría si? ¿Y si la flecha se dispara en una dirección que forma un ángulo V con la horizontal? ¿Cómo cambiará la 
+velocidad de retroceso del arquero?
+Respuesta La velocidad de retroceso disminuirá en magnitud porque sólo una componente de la velocidad de la flecha 
+está en la dirección x. La conservación de la cantidad de movimiento en la dirección x
+ produce
+m1v1f m2v2f cos u 0
+lo que conduce a
+v1f
+m2
+m1
+v2f cos u
+Para V  0, cos V  1, y la velocidad final del arquero se reduce al valor cuando la flecha se dispara horizontalmente. Para 
+valores de V distintos de cero, la función coseno es menor que 1 y la velocidad de retirada es menor que el valor calculado 
+para V  0. Si V  90°, en tal caso cos V  0 y v1f  0, de modo que no hay velocidad de retirada.
+EJEMPLO 9.2 ¿En realidad se puede ignorar la energía cinética de la Tierra?
+En la sección 7.6 se afirmó que se puede ignorar la energía cinética de la Tierra cuando se considera la energía de un sistema 
+que consiste de la Tierra y una bola que se deja caer. Verifique esta afirmación.
+SOLUCIÓN
+Conceptualizar Imagine que deja caer una bola en la superficie de la Tierra. Desde su punto de vista, la bola cae mientras 
+la Tierra permanece fija. Sin embargo, por la tercera ley de Newton, la Tierra experimenta una fuerza hacia arriba y debi-
+do a eso una aceleración hacia arriba mientras la bola cae. En el cálculo que sigue, se demostrará que este movimiento se 
+puede ignorar.
+Categorizar El sistema se identifica como la bola y la Tierra. Ignore la resistencia del aire y otras fuerzas cualesquiera sobre 
+el sistema, de modo que el sistema está aislado en términos de cantidad de movimiento.
+Analizar Esta afirmación se verificará al establecer una relación de la energía cinética de la Tierra respecto a la bola. Se 
+identifican v
+E y vb como las magnitudes de velocidad de la Tierra y la bola, respectivamente, después de que la bola cae a 
+través de cierta distancia.
+Use la definición de energía cinética para establecer una 
+proporción:
+La cantidad de movimiento inicial del sistema es cero, de 
+modo que la cantidad de movimiento final es igual a cero:
+Resuelva la ecuación para la relación de las magnitudes de 
+velocidad:
+Sustituya esta expresión de vE vb en la ecuación 1):
+ Sección 9.1  Cantidad de movimiento lineal y su conservación  231
+v
+S
+1f
+m2
+m1
+v
+S
+2f a
+0.50 kg
+60 kg b1 50 iˆ m>s 2 0.42 iˆ m>s
+1) KE
+Kb
+1
+2mEvE
+2
+1
+2
+mbvb
+2 a mE
+mb
+ba vE
+vb
+b
+2
+pi pf S 0 mbvb mEvE
+vE
+vb
+mb
+mE
+KE
+Kb
+a mE
+mb
+ba mb
+mE
+b
+2 mb
+mE
+
+232 Capítulo 9  Cantidad de movimiento lineal y colisiones
+Sustituya los números de orden de magnitud para las masas: KE
+Kb
+mb
+mE
+1 kg
+1024 kg 10 24
+Finalizar La energía cinética de la Tierra es una fracción muy pequeña de la energía cinética de la bola, así que es justifi-
+cado ignorar la energía cinética del sistema.
+9.2 Impulso y cantidad de movimiento
+De acuerdo con la ecuación 9.3, la cantidad de movimiento de una partícula cambia si 
+una fuerza neta actúa en la partícula. Conocer el cambio en la cantidad de movimiento 
+causada por una fuerza es útil al resolver algunos tipos de problemas. Para construir  
+una mejor comprensión de este concepto importante, suponga que una fuerza neta  F
+S
+ 
+actúa en una partícula y que esta fuerza puede variar con el tiempo. De acuerdo con la 
+segunda ley de Newton,  F
+S
+  d p
+S
+dt, o
+ dp
+S
+F
+S
+dt  (9.7)
+Se puede integrar2 esta ecuación para encontrar el cambio en la cantidad de movimiento 
+de una partícula cuando la fuerza actúa durante algún intervalo de tiempo. Si la canti- 
+dad de movimiento de la partícula cambia de p
+S
+i en el tiempo ti a p
+S
+f en el tiempo tf, integrar 
+la ecuación 9.7 produce
+ ¢p
+S
+p
+S
+f p
+S
+i
+tf
+ti
+F
+S
+dt  (9.8)
+Para evaluar la integral, es necesario saber cómo varía con el tiempo la fuerza neta. La 
+cantidad en el lado derecho de esta ecuación es un vector llamado impulso de la fuerza 
+neta  F
+S
+ que actúa en una partícula durante el intervalo de tiempo $t  tf  ti:
+ I
+S
+tf
+ti
+F
+S
+dt  (9.9)
+A partir de esta definición, se ve que el impulso I
+S
+ es una cantidad vectorial que tiene una 
+magnitud igual al área bajo la curva fuerza–tiempo, como se describe en la figura 9.3a. Se 
+supone que la fuerza varía en el tiempo en la forma integral que se muestra en la figura y 
+es distinta de cero en el intervalo de tiempo $t  t
+f  ti. La dirección del vector impulso es 
+la misma que la dirección del cambio en la cantidad de movimiento. El impulso tiene las 
+dimensiones de cantidad de movimiento, esto es, MLT. El impulso no es una propiedad de 
+una partícula; en vez de ello, es una medida del grado en el que la fuerza externa cambia 
+la cantidad de movimiento de la partícula.
+La ecuación 9.8 es un enunciado importante conocido como teorema impulso–cantidad 
+de movimiento:
+El cambio en la cantidad de movimiento de una partícula es igual al impulso de la 
+fuerza neta que actúa en la partícula:
+ $p
+S
+  I
+S
+ (9.10)
+Este enunciado es equivalente a la segunda ley de Newton. Cuando se dice que a una 
+partícula se le da un impulso, significa que la cantidad de movimiento se transfiere de 
+un agente externo a dicha partícula. La ecuación 9.10 es idéntica en forma a la ecuación 
+de conservación de la energía, la ecuación 8.1. El lado izquierdo de la ecuación 9.10 
+representa el cambio en la cantidad de movimiento del sistema, que en este caso es una 
+sola partícula. El lado derecho es una medida de cuánta cantidad de movimiento cruza la 
+frontera del sistema debido a la fuerza neta que se aplica al sistema.
+Ya que la fuerza neta que imparte un impulso a una partícula por lo general puede 
+variar en el tiempo, es conveniente definir una fuerza neta promediada en el tiempo:
+Impulso de una fuerza
+0
+Teorema impulso–
+cantidad de movimiento
+0
+Las bolsas de aire en los 
+automóviles han salvado 
+incontables vidas en los 
+accidentes. La bolsa de aire 
+aumenta el intervalo de tiempo 
+durante el cual el pasajero es 
+llevado al reposo, con lo cual 
+disminuye la fuerza (y las lesiones 
+resultantes) en el pasajero.
+2 Aquí se integra la fuerza en relación con el tiempo. Compare esta estrategia con los esfuerzos del capítulo 
+7, donde se integró fuerza en relación con la posición para encontrar el trabajo invertido por la fuerza.
+© Vereschagin Dmitry/Shutterstock
+
+1  F
+S
+2prom
+1
+¢t
+tf
+ti
+ F
+S
+ dt  (9.11)
+donde $t  tf  ti. (Esta ecuación es una aplicación del teorema del valor medio del  
+cálculo.) Debido a eso, la ecuación 9.9 se puede expresar como
+ I
+S
+1  F
+S
+2prom ¢t  (9.12)
+Esta fuerza promediada en el tiempo, que se muestra en la figura 9.3b, se interpreta como 
+la fuerza constante que daría a la partícula, en el intervalo de tiempo $t, el mismo impulso 
+que la fuerza variable en el tiempo da durante este mismo intervalo.
+En principio, si  F
+S
+ se conoce como una función del tiempo, el impulso se calcula a 
+partir de la ecuación 9.9. El cálculo se vuelve especialmente simple si la fuerza que actúa 
+sobre la partícula es constante. En este caso ( F
+S
+)prom   F
+S
+, donde  F
+S
+ es la fuerza neta 
+constante, y la ecuación 9.12 se convierte en
+ I
+S
+F
+S
+ ¢t  (9.13)
+En muchas situaciones físicas se usará lo que se llama la aproximación del impulso, en la 
+que se supone que una de las fuerzas ejercida sobre una partícula actúa durante un tiempo 
+breve pero es mucho mayor que cualquiera otra fuerza presente . En este caso, la fuerza 
+neta  F
+S
+ en la ecuación 9.9 se sustituye con una sola fuerza F
+S
+ para encontrar el impulso 
+sobre la partícula. Esta aproximación es especialmente útil al tratar colisiones en las cuales 
+la duración de la colisión es muy breve. Cuando se hace esta aproximación, la fuerza sola 
+se conoce como fuerza impulsiva. Por ejemplo, cuando un bat golpea una pelota de beisbol, 
+el tiempo de la colisión es aproximadamente 0.01 s y la fuerza promedio que el bat ejerce 
+sobre la pelota en este tiempo usualmente es de muchos miles de newtons. Ya que esta 
+fuerza de contacto es mucho más grande que la magnitud de la fuerza gravitacional, la 
+aproximación del impulso justifica el ignorar las fuerzas gravitacionales en la pelota y el 
+bat. Cuando se usa esta aproximación, es importante recordar que p
+S
+i y p
+S
+f representan las 
+cantidades de movimiento inmediatamente antes y después de la colisión, respectivamente. 
+Por lo tanto, en cualquier situación en la que es adecuado usar la aproximación del im-
+pulso, la partícula se mueve muy poco durante la colisión.
+Pregunta rápida 9.3 Dos objetos están en reposo sobre una superficie sin fricción. El 
+objeto 1 tiene una masa mayor que el objeto 2.   i) Cuando se aplica una fuerza constante al 
+objeto 1, acelera a través de una distancia d en una línea recta. Se retira la fuerza del objeto 
+1 y se aplica al objeto 2. En el momento cuando el objeto 2 aceleró a través de la misma 
+distancia d
+, ¿qué enunciados son verdaderos? a) p1  p2, b) p1  p2, c) p1  p2, d ) K1 
+ K2, e) K1  K2, f ) K1  K2. ii) Cuando se aplica una fuerza al objeto 1, éste acelera 
+durante un intervalo de tiempo $t. Se retira la fuerza del objeto 1 y se aplica al objeto 2. 
+De la misma lista de opciones, ¿cuáles enunciados son verdaderos después de que el objeto 
+2 acelera durante el mismo intervalo de tiempo $t?
+Pregunta rápida 9.4 Clasifique el tablero, el cinturón de seguridad y la bolsa de aire de 
+un automóvil en términos de a) el impulso y b) la fuerza promedio que cada uno entrega 
+a un pasajero en el asiento delantero durante una colisión, de mayor a menor.
+ Sección 9.2  Impulso y cantidad de movimiento  233
+Figura 9.3 a) Una fuerza neta 
+que actúa sobre una partícula 
+puede variar en el tiempo. El 
+impulso impartido a la partícula 
+por la fuerza es el área bajo la 
+curva fuerza con tiempo. b) En el 
+intervalo de tiempo $t, la fuerza 
+neta promediada en el tiempo 
+(línea discontinua horizontal) da 
+el mismo impulso a una partícula 
+como lo hace la fuerza variable en 
+el tiempo descrita en a).
+EJEMPLO 9.3 ¿Qué tan útiles son las defensas?
+En una prueba de choque, un automóvil de 1 500 kg de masa choca con una pared, como se muestra en la figura 9.4. Las 
+velocidades inicial y final del automóvil son v
+S
+i  15.0iˆ ms y v
+S
+f  2.60iˆ ms, respectivamente. Si la colisión dura 0.150 s, 
+encuentre el impulso causado por la colisión y la fuerza promedio ejercida en el automóvil.
+SOLUCIÓN
+Conceptualizar El tiempo de colisión es breve, así que se puede formar una idea de que el automóvil se lleva al reposo 
+muy rápidamente y en tal caso se mueve de regreso en la dirección opuesta con una rapidez reducida.
+t 
+i t 
+f
+t 
+i
+F
+a)
+t 
+f
+t
+F
+b)
+t
+F )prom
+3
+3
+(3
+Área = ( F )prom $t3
+
+234 Capítulo 9  Cantidad de movimiento lineal y colisiones
+Categorizar Se considera que la fuerza ejercida por la 
+pared sobre el automóvil es grande en comparación con 
+otras fuerzas sobre el auto (como la fricción y la resisten-
+cia del aire). Además, la fuerza gravitacional y la fuerza 
+normal ejercida por el camino sobre el automóvil son per-
+pendiculares al movimiento y en consecuencia no afectan 
+la cantidad de movimiento horizontal. Por lo tanto, se 
+clasifica el problema como uno en el que se puede aplicar 
+la aproximación del impulso en la dirección horizontal.
+Analizar
+Evalúe las cantidades de movimiento inicial y 
+final del automóvil:
+Aplique la ecuación 9.10 para hallar el impulso 
+en el automóvil
+Aplique la ecuación 9.3 para hallar el valor numé-
+rico de la fuerza promedio ejercida por la pared 
+en el automóvil:
+Finalizar Note que los signos de las velocidades en este ejemplo indican la inversión de direcciones. ¿Cuáles serían las 
+matemáticas descriptivas si las velocidades inicial y final tienen el mismo signo?
+¿Qué pasaría si? ¿Y si el automóvil no rebota de la pared? Suponga que la velocidad final del automóvil es cero y que el 
+intervalo de tiempo de la colisión permanece en 0.150 s. ¿Esto representaría una fuerza mayor o menor ejercida por la 
+pared sobre el auto?
+Respuesta En la situación original en la que el automóvil rebota, la fuerza por la pared sobre el automóvil hace dos cosas 
+durante el inter
+valo de tiempo: 1) detiene el auto y 2) hace que el auto se aleje de la pared a 2.60 ms después de chocar. 
+Si el automóvil no rebota, la fuerza sólo hace el primero de estos pasos (detener el auto), lo que requiere una fuerza más 
+pequeña.
+En términos matemáticos, en el caso del auto que no rebota, el impulso es
+I
+S
+¢p
+S
+p
+S
+f p
+S
+i 0 1 2.25 10 4 iˆ kg # m>s 2 2.25 10 4 iˆ kg # m>s
+La fuerza promedio que ejerce la pared sobre el automóvil es
+F
+S
+prom
+¢p
+S
+¢t
+2.25 10 4 iˆ kg # m>s
+0.150 s 1.50 10 5 iˆ N
+que de hecho es más pequeña que el valor anteriormente calculado, como se argumentó teóricamente.
+9.3 Colisiones en una dimensión
+En esta sección se usa la ley de conservación de cantidad de movimiento lineal para descri-
+bir lo que ocurre cuando chocan dos partículas. El término colisión representa un evento 
+durante el que dos partículas se acercan una a la otra e interactúan mediante fuerzas. 
+Se supone que las fuerzas de interacción son mucho mayores que otras fuerzas externas 
+cualesquiera, así que se puede usar la aproximación del impulso.
+Una colisión puede involucrar contacto físico entre dos objetos macroscópicos, como se 
+describe en la figura 9.5a, pero la noción de lo que significa una colisión se debe ampliar 
+porque “contacto físico” en una escala submicroscópica está mal definido y por lo tanto no 
+Figura 9.4 (Ejemplo 9.3) a) La 
+cantidad de movimiento de este 
+automóvil cambia como resultado 
+de su colisión con la pared. b) En 
+una prueba de choque, mucha de la 
+energía cinética inicial del automóvil 
+se transforma en energía asociada con 
+el daño al auto.
++2.60 m/s
+–15.0 m/s
+Antes
+Después
+a)
+F
+S
+prom
+¢p
+S
+¢t
+2.64 10 4 iˆ kg # m>s
+0.150 s  1.76 10 5 iˆ N
+  2.64 10 4 iˆ kg # m>s
+I
+S
+¢p
+S
+p
+S
+f p
+S
+i 0.39 10 4 iˆ kg # m>s 1 2.25 10 4 iˆ kg # m>s 2
+ p
+S
+i mv
+S
+i 11 500 kg21 15.0 iˆ m>s 2 2.25 10 4 iˆ kg # m>s
+ p
+S
+f mv
+S
+f 11 500 kg21 2.60 iˆ m>s 2 0.39 10 4 iˆ kg # m>s
+Tim Wright/CORBIS
+b)
+
+tiene significado. Para comprender este concepto, considere una colisión a escala atómica 
+(figura 9.5b) tal como la colisión de un protón con una partícula alfa (el núcleo de un 
+átomo de helio). Ya que las partículas tienen carga positiva, se repelen mutuamente debido 
+a la fuerza electrostática intensa entre ellas en separaciones cercanas y nunca entran en 
+“contacto físico”.
+Cuando dos partículas de masas m
+1 y m2 chocan como se muestra en la figura 9.5, las 
+fuerzas impulsivas pueden variar en el tiempo en formas complicadas, tales como las que 
+se muestran en la figura 9.3. Sin embargo, sin importar la complejidad del comportamien-
+to temporal de la fuerza impulsiva, esta fuerza es interna al sistema de dos partículas. En 
+consecuencia, las dos partículas forman un sistema aislado y la cantidad de movimiento 
+del sistema se conserva.
+En contraste, la energía cinética total del sistema de partículas puede o no conservarse, 
+dependiendo del tipo de colisión. De hecho, las colisiones se categorizan como elásticas o 
+como inelásticas, dependiendo de si la energía cinética se conserva o no.
+Una colisión elástica  entre dos objetos es aquella en la que la energía cinética total 
+(así como la cantidad de movimiento total) del sistema es la misma antes y después de la 
+colisión. Las colisiones entre ciertos objetos en el mundo macroscópico, como las bolas  
+de billar, sólo son aproximadamente elásticas porque tiene lugar alguna deformación y pér-
+dida de energía cinética. Por ejemplo, usted puede escuchar la colisión de una bola de 
+billar, de modo que usted sabe que parte de la energía se transfiere del sistema mediante 
+sonido. ¡Una colisión elástica debe ser perfectamente silenciosa! Las colisiones verdadera-
+mente elásticas se presentan entre partículas atómicas y subatómicas.
+En una colisión inelástica la energía cinética total del sistema no es la misma antes ni 
+después de la colisión (aun cuando la cantidad de movimiento del sistema se conserve) . 
+Las colisiones inelásticas son de dos tipos. Cuando los objetos se unen después de cho-
+car, como cuando un meteorito choca con la Tierra, la colisión se llama perfectamente 
+inelástica. Cuando los objetos en colisión no se unen sino que se pierde parte de la ener-
+gía cinética, como en el caso de una bola de hule que choca con una superficie dura, la  
+colisión se llama inelástica (sin adverbio modificador). Cuando la bola de hule choca con  
+la superficie dura, parte de la energía cinética de la bola se pierde cuando la bola se de-
+forma mientras está en contacto con la superficie.
+En el resto de esta sección, se tratan las colisiones en una dimensión y se consideran los 
+dos casos extremos, las colisiones perfectamente inelásticas y elásticas.
+Colisiones perfectamente inelásticas
+Considere dos partículas de masas m1 y m2 que se mueven con velocidades iniciales v
+S
+1i  
+y v
+S
+2i a lo largo de la misma línea recta, como se muestra en la figura 9.6. Las dos par- 
+tículas chocan de frente, quedan unidas y luego se mueven con alguna velocidad común 
+v
+S
+f después de la colisión. Ya que la cantidad de movimiento de un sistema aislado se 
+conserva en cualquier colisión, se puede decir que la cantidad de movimiento total antes 
+de la colisión es igual a la cantidad de movimiento total del sistema compuesto des- 
+pués de la colisión:
+ 
+m1v
+S
+1i m2v
+S
+2i 1m1 m2 2v
+S
+f  (9.14)
+Al resolver para la velocidad final se obtiene
+ v
+S
+f
+m1v
+S
+1i m2v
+S
+2i
+m1 m2
+ (9.15)
+Colisiones elásticas
+Considere dos partículas de masas m1 y m2 que se mueven con velocidades iniciales v
+S
+1i  
+y v
+S
+2i a lo largo de la misma línea recta, como se muestra en la figura 9.7. Las dos partículas 
+chocan frontalmente y luego dejan el sitio de colisión con diferentes velocidades v
+S
+1f  y  
+v
+S
+2f . En una colisión elástica, tanto la cantidad de movimiento como la energía cinética 
+ Sección 9.3  Colisiones en una dimensión  235
+Figura 9.5 a) Colisión entre 
+dos objetos como resultado de 
+contacto directo. b) “Colisión” 
+entre dos partículas con carga.
+ PREVENCIÓN DE RIESGOS  
+OCULTOS 9.2
+Colisiones inelásticas
+Por lo general, las colisiones 
+inelásticas son difíciles de 
+analizar sin información 
+adicional. La falta de esta 
+información aparece en la 
+representación matemática con 
+más incógnitas que ecuaciones.
+Figura 9.6 Representación 
+esquemática de una colisión 
+frontal perfectamente inelástica 
+entre dos partículas: a) antes y  
+b) después de la colisión.
+p
+m2
+m1
+a)
+F21 F12
+b)
+He4
++
+++
+v2i
+Antes de la colisión
+a)
+m1 m2
+Después de la colisión
+b)
+m1 + m2
+vf
+v1i
+
+236 Capítulo 9  Cantidad de movimiento lineal y colisiones
+del sistema se conserva. Por ende, al considerar velocidades a lo largo de la dirección 
+horizontal en la figura 9.7, se tiene
+ m1v1i m2v2i m1v1f m2v2f  (9.16)
+ 1
+2m1v1i 2 1
+2m2v2i 2 1
+2
+m1v1f 2 1
+2
+m2v2f 2  (9.17)
+Ya que todas las velocidades en la figura 9.7 son hacia la izquierda o hacia la derecha, se 
+pueden representar mediante las correspondientes magnitudes de velocidad junto con 
+los signos algebraicos que indican dirección. Se indicará v como positivo si una partícula 
+se mueve hacia la derecha y negativo si se mueve hacia la izquierda.
+En un problema representativo que incluye colisiones elásticas, existen dos cantida-
+des desconocidas, y las ecuaciones 9.16 y 9.17 se pueden resolver simultáneamente para 
+encontrarlas. Sin embargo, un planteamiento alternativo, uno que involucra un poco de 
+manipulación matemática de la ecuación 9.17, con frecuencia simplifica este proceso. Para 
+ver cómo, cancele el factor 
+1
+2 en la ecuación 9.17 y rescríbala como
+m1 1v1i 2 v1f 2 2 m2 1v2f 2 v2i 2 2
+el factorizar ambos lados de esta ecuación produce
+ m1 1v1i v1f 21 v1i v1f 2 m2 1v2f v2i 21 v2f v2i 2  (9.18)
+A continuación, se separa los términos que contengan m1 y m2 en la ecuación 9.16 para 
+obtener
+ m
+1 1v1i v1f 2 m2 1v2f v2i 2  (9.19)
+Para obtener el resultado final, divida la ecuación 9.18 entre la ecuación 9.19 
+  v1i v2i 1v1f v2f 2
+ v1i v1f v2f v2i
+ (9.20)
+Esta ecuación, en combinación con la ecuación 9.16, se usa para resolver problemas que 
+traten con colisiones elásticas. De acuerdo con la ecuación 9.20, la velocidad relativa de 
+las dos partículas antes de la colisión, v1i  v2i, es igual al negativo de su velocidad relativa 
+después de la colisión,  (v1f  v2f).
+Suponga que se conocen las masas y velocidades iniciales de ambas partículas. Las 
+ecuaciones 9.16 y 9.20 se pueden resolver para las velocidades finales en términos de las 
+velocidades iniciales porque existen dos ecuaciones y dos incógnitas:
+  v
+1f a m1 m2
+m1 m2
+b v1i a 2m2
+m1 m2
+b v2i  (9.21)
+  v2f a 2m1
+m1 m2
+b v1i a m2 m1
+m1 m2
+b v2i  (9.22)
+Es importante usar los signos apropiados para v1i y v2i en las ecuaciones 9.21 y 9.22.
+Considere algunos casos especiales. Si m1  m2, las ecuaciones 9.21 y 9.22 muestran que 
+v1f  v2i y v2f  v1i, lo que significa que las partículas intercambian velocidades si tienen 
+masas iguales. Esto es aproximadamente lo que uno observa en las colisiones frontales de 
+las bolas de billar: la bola blanca se detiene y la bola golpeada se aleja de la colisión con 
+la misma velocidad que tenía la bola blanca.
+Si la partícula 2 está en reposo al inicio, en tal caso v
+2i  0, y las ecuaciones 9.21 y 9.22 
+se convierten en
+  v1f a m1 m2
+m1 m2
+b v1i  (9.23)
+  v2f a 2m1
+m1 m2
+b v1i  (9.24)
+Si m1 es mucho mayor que m2 y v2i  0, se ve de las ecuaciones 9.23 y 9.24 que v1f  v1i  
+y v2f  2v1i. Esto es, cuando una partícula muy pesada choca frontalmente con una muy 
+Figura 9.7 Representación 
+esquemática de una colisión 
+frontal elástica entre dos 
+partículas: a) antes y b) después 
+de la colisión.
+PREVENCIÓN DE RIESGOS  
+OCULTOS 9.3
+No es una ecuación general
+La ecuación 9.20 sólo se puede 
+usar en una situación muy 
+específica, una colisión elástica 
+unidimensional entre dos 
+objetos. El concepto general es la 
+conservación de la cantidad de 
+movimiento (y la conservación 
+de la energía cinética, si la 
+colisión es elástica) para un 
+sistema aislado.
+Colisión elástica:  
+partícula 2 inicialmente 
+en reposo
+0
+m1 m2
+v1i
+Antes de la colisión
+v2i
+v1f v2f
+Después de la colisión
+a)
+b)
+
+ligera que inicialmente está en reposo, la partícula pesada continúa su movimiento sin 
+alterarse después de la colisión y la partícula ligera rebota con una rapidez igual a casi 
+el doble de la rapidez inicial de la partícula pesada. Un ejemplo de tal colisión es la de 
+un átomo pesado en movimiento, como el uranio, que golpea un átomo ligero, como el 
+hidrógeno.
+Si m
+2 es mucho mayor que m1 y la partícula 2 inicialmente está en reposo, en tal caso 
+v1f  v1i y v2f  0. Esto es, cuando una partícula muy ligera choca frontalmente con una 
+partícula muy pesada que inicialmente está en reposo, la partícula ligera invierte su velo-
+cidad y la pesada permanece prácticamente en reposo.
+Pregunta rápida 9.5 En una colisión unidimensional perfectamente inelástica entre dos 
+objetos en movimiento, ¿qué condición única es necesaria de modo que la energía cinética 
+final del sistema sea cero después de la colisión? a) Los objetos deben tener cantidades 
+de movimiento con la misma magnitud pero direcciones opuestas. b) Los objetos deben  
+tener la misma masa. c) Los objetos deben tener la misma velocidad. d) Los objetos de- 
+ben tener la misma rapidez, con vectores velocidad en direcciones opuestas.
+P
+regunta rápida 9.6 Una pelota de ping pong se lanza hacia una bola de boliche fija. 
+La pelota de ping pong hace una colisión elástica unidimensional y rebota de regreso  
+a lo largo de la misma línea. En comparación con la bola de boliche después de la coli
+-
+sión, ¿la pelota de ping pong tiene a) una magnitud mayor de cantidad de movimiento y 
+más energía cinética, b) una magnitud menor de cantidad de movimiento y más energía 
+cinética, c) una magnitud mayor de cantidad de movimiento y menos energía cinética,  
+d) una magnitud menor de cantidad de movimiento y menos energía cinética o e) la 
+misma magnitud de cantidad de movimiento y la misma energía cinética?
+ESTRATEGIA PARA RESOLUCIÓN DE PROBLEMAS Colisiones  
+unidimensionales
+Debe aplicar el planteamiento siguiente cuando resuelva problemas de colisiones en una 
+dimensión:
+1. Conceptualizar. Piense que la colisión se presenta en su mente. Dibuje diagramas simples 
+de las partículas antes y después de la colisión e incluya vectores velocidad adecuados. 
+Al principio, es posible que deba adivinar las direcciones de los vectores velocidad 
+finales.
+2. Categorizar. ¿El sistema de partículas es aislado? Si es así, clasifique la colisión como 
+elástica, inelástica o perfectamente inelástica.
+3. Analizar. Establezca la representación matemática adecuada para el problema. Si la co-
+lisión es perfectamente inelástica, use la ecuación 9.15. Si la colisión es elástica, use las 
+ecuaciones 9.16 y 9.20. Si la colisión es inelástica, use la ecuación 9.16. Para encontrar 
+las velocidades finales en este caso, necesitará alguna información adicional.
+4. Finalizar. Una vez que determine su resultado, compruebe para ver si sus respuestas 
+son congruentes con las representaciones mental y gráfica y que sus resultados son 
+realistas.
+ Sección 9.3  Colisiones en una dimensión  237
+EJEMPLO 9.4 Aliviador de estrés para ejecutivos
+En la figura 9.8 (página 238) se muestra un ingenioso dispositivo que explica la conservación de la cantidad de movimiento 
+y la energía cinética. Consiste de cinco bolas duras idénticas sostenidas por cuerdas de iguales longitudes. Cuando la bola 
+1 se retira y se libera, después de la colisión casi elástica entre ella y la bola 2, la bola 1 se detiene y la bola 5 se mueve hacia 
+afuera, como se muestra en la figura 9.8b. Si las bolas 1 y 2 se retiran y liberan, se detienen después de la colisión y las bolas 
+4 y 5 se balancean hacia afuera, y así por el estilo. ¿Alguna vez es posible que, cuando la bola 1 se libere, se detenga después 
+de la colisión y las bolas 4 y 5 se balanceen en el lado opuesto y viajen con la mitad de la rapidez de la bola 1, como en la 
+figura 9.8c?
+
+238 Capítulo 9  Cantidad de movimiento lineal y colisiones
+SOLUCIÓN
+Conceptualizar Con la ayuda de la figura 
+9.8c, piense que una bola llega desde la 
+izquierda y dos bolas salen de la colisión 
+a la derecha. Este es el fenómeno que se 
+quiere probar para ver si podría ocurrir 
+alguna vez.
+Categorizar Debido al intervalo de tiem-
+po muy breve entre la llegada de la bola 
+desde la izquierda y la partida de las bolas 
+de la derecha, se puede usar la aproxima-
+ción de impulso para ignorar las fuerzas 
+gravitacionales sobre las bolas y clasificar 
+el sistema de cinco bolas como aislado 
+en términos de cantidad de movimiento 
+y energía. Ya que las bolas son duras, las 
+colisiones entre ellas se clasifican como 
+elásticas para propósitos de cálculo.
+Analizar La cantidad de movimiento del sistema antes de la colisión es mv, donde m es la masa de la bola 1 y v es su rapidez 
+inmediatamente antes de la colisión. Después de la colisión, se supone que la bola 1 se detiene y las bolas 4 y 5 se alejan, 
+cada una con rapidez v2. La cantidad de movimiento total del sistema después de la colisión sería m(v2)  m(v2)  mv. 
+Por ende, la cantidad de movimiento del sistema se conserva.
+La energía cinética del sistema inmediatamente antes de la colisión es K
+i  1
+2mv2 y después de la colisión es Kf  1
+2m(v2)2 
+ 1
+2m(v2)2  1
+4mv2. Esto muestra que la energía cinética del sistema no se conserva, lo que es inconsistente con la suposición 
+de que las colisiones son elásticas.
+Finalizar El análisis muestra que no es posible que las bolas 4 y 5 se balanceen cuando sólo la bola 1 se libera. La única 
+forma de conservar tanto la cantidad de movimiento como la energía cinética del sistema es que una bola se mueva cuando 
+una bola se libera, dos bolas se muevan cuando dos se liberan, y así sucesivamente.
+¿Qué pasaría si? Considere lo que ocurriría si las bolas 4 y 5 se unen con pegamento. ¿Qué ocurre ahora cuando la bola 1 
+es alejada y liberada?
+Respuesta En esta situación, las bolas 4 y 5 deben moverse juntas como un solo objeto después de la colisión. En efecto antes 
+se argumentó que, en este caso, la cantidad de movimiento y la energía del sistema no se pueden conser
+var. Sin embargo, se 
+supone que la bola 1 se detuvo después de golpear la bola 2. ¿Y si no se hace esta suposición? Considere las ecuaciones de con-
+servación con la suposición de que la bola 1 se mueve después de la colisión. Para conservación de cantidad de movimiento
+ mv1i mv1f 2mv4,5
+ pi pf
+donde v4,5 se refiere a la rapidez final de la combinación bola 4–bola 5. La conservación de la energía cinética produce
+ 1
+2mv1i 2 1
+2mv1f 2 1
+2
+12m 2v2
+4,5
+ Ki Kf
+Al combinar estas ecuaciones se obtiene
+v4,5
+2
+3v1i  v1f
+1
+3
+v1i
+En consecuencia, las bolas 4 y 5 se mueven juntas como un objeto después de la colisión mientras que la bola 1 rebota en 
+la colisión con un tercio de su rapidez original.
+EJEMPLO 9.5 ¡Lleve seguro contra choques!
+A un automóvil de 1 800 kg detenido en un semáforo lo golpea por la parte trasera un automóvil de 900 kg. Los dos autos 
+quedan unidos y se mueven a lo largo de la misma trayectoria que la del automóvil en movimiento. Si el auto más pequeño 
+se movía a 20.0 ms antes de la colisión, ¿cuál es la velocidad de los automóviles unidos después de la colisión?
+Figura 9.8 (Ejemplo 9.4) a) Un aliviador de estrés para ejecutivos. b) Si una bola se 
+impulsa a la izquierda, se ve que una bola se aleja en el otro extremo. c) ¿Es posible 
+que una bola se impulse a la izquierda y dos bolas dejen el otro extremo con la mitad 
+de la rapidez de la primera bola? En b) y c), los vectores velocidad que se muestran 
+representan los de las bolas inmediatamente antes e inmediatamente después de la 
+colisión.
+Thomson Learning/Charles D. Winters
+v
+v
+v
+v/2
+Esto puede ocurrir
+Esto no puede ocurrir
+b)
+c)a)
+
+SOLUCIÓN
+Conceptualizar Este tipo de colisión se visualiza con facilidad, y se puede predecir que, después de la colisión, ambos 
+automóviles se moverán en la misma dirección que la del automóvil en movimiento. Ya que el automóvil en movimiento 
+sólo tiene la mitad de masa que el automóvil fijo, se espera que la velocidad final de los automóviles sea relativamente  
+pequeña.
+Categorizar Identifique el sistema de dos automóviles como aislado y aplique la aproximación de impulso durante el breve 
+intervalo de tiempo de la colisión. La frase “quedan unidos” pide clasificar la colisión como perfectamente inelástica.
+Analizar La magnitud de la cantidad de movimiento total del sistema antes de la colisión es igual a la del automóvil más 
+pequeño porque el auto más grande inicialmente está en reposo.
+Evalúe la cantidad de movimiento inicial del sistema: 
+pi m1vi 1900 kg21 20.0 m>s 2 1.80 10 4 kg # m>s
+Evalúe la cantidad de movimiento final del sistema: pf 1m1 m2 2vf 12 700 kg2vf
+Iguale las cantidades de movimiento inicial y final y resuelva para vf : vf
+pi
+m1 m2
+1.80 10 4 kg # m>s
+2 700 kg  6.67 m>s
+Finalizar Ya que la velocidad final es positiva, la dirección de la velocidad final de la combinación es la misma que la  
+velocidad del automóvil en movimiento, como se predijo. La rapidez de la combinación también es mucho menor que  
+la rapidez inicial del automóvil en movimiento.
+¿Qué pasaría si? Suponga que se invierten las masas de los automóviles. ¿Y si un automóvil de 1 800 kg en movimiento 
+golpea a un automóvil fijo de 900 kg? ¿La rapidez final es la misma que antes?
+Respuesta Por intuición, se supone que la rapidez final de la combinación es mayor que 6.67 ms si el automóvil en movimien-
+to es el auto más grande. En términos matemáticos, ese debe ser el caso, ya que el sistema tiene una cantidad de movimiento 
+más grande si el automóvil en movimiento es el más grande. Al resolver para la velocidad final nueva, se encuentra
+v
+f
+pi
+m1 m2
+11 800 kg21 20.0 m>s 2
+2 700 kg 13.3 m>s
+que es dos veces más grande que la velocidad final previa.
+EJEMPLO 9.6 El péndulo balístico
+El péndulo balístico (figura 9.9) es un aparato que se usa para medir la rapi-
+dez de un proyectil que se mueve rápidamente, como una bala. Un proyectil 
+de masa m
+1 se dispara hacia un gran bloque de madera de masa m2 suspen-
+dido de unos alambres ligeros. El proyectil se incrusta en el bloque y todo 
+el sistema se balancea hasta una altura h. ¿Cómo se determina la rapidez del 
+proyectil a partir de una medición de h?
+SOLUCIÓN
+Conceptualizar La figura 9.9a ayuda a formar ideas de la situación. Siga la 
+animación en su mente: el proyectil entra al péndulo, que se balancea cierta 
+altura hasta que llega al reposo.
+Categorizar El proyectil y el bloque forman un sistema aislado. Identifique 
+la configuración A como inmediatamente antes de la colisión y la configura-
+ción B como inmediatamente después de la colisión. Ya que el proyectil se 
+incrusta en el bloque, la colisión entre ellos se considera como perfectamente 
+inelástica.
+ Sección 9.3  Colisiones en una dimensión  239
+Figura 9.9 (Ejemplo 9.6) a) Diagrama de un péndulo balístico. Note que v
+S
+1A es la 
+velocidad del proyectil inmediatamente antes de la colisión y v
+S
+B es la velocidad del 
+sistema proyectil–bloque inmediatamente después de la colisión perfectamente inelástica. 
+b) Fotografía estroboscópica de un péndulo balístico usado en el laboratorio.
+m1
+1A B
+m1 + m2
+m2 h
+a)
+v v
+Thomson Learning/Charles D. Winters
+b)
+
+240 Capítulo 9  Cantidad de movimiento lineal y colisiones
+Analizar Para analizar la colisión, se aplica la ecuación 9.15, que proporciona la rapidez del sistema inmediatamente des-
+pués de la colisión cuando se considera la aproximación de impulso.
+Al notar que v2A  0, resuelva la ecuación 9.15 para vB: 1) vB
+m1v1A
+m1 m2
+Categorizar Para el proceso durante el que la combinación proyectil–bloque se balancea hacia arriba a una altura h (y 
+termina en la configuración C), considere un sistema diferente, el del proyectil, el bloque y la Tierra. Esta parte del problema 
+se clasifica como un sistema aislado para energía sin fuerzas no conservativas en acción.
+Analizar Escriba una expresión para la energía cinética total del 
+sistema inmediatamente después de la colisión:
+Sustituya el valor de v
+B de la ecuación 1) en la ecuación 2): KB
+m1 2v1A 2
+2 1m1 m2 2
+Esta energía cinética del sistema inmediatamente después de la colisión es menor que la energía cinética inicial del proyectil, 
+como se esperaba en una colisión inelástica.
+La energía potencial gravitacional del sistema se define como cero para la configuración B. Por lo tanto, UB  0, mientras 
+que UC  (m1  m2)gh.
+Aplique el principio de conservación de la energía mecá-
+nica al sistema:
+Resuelva para v1A: v1A a m1 m2
+m1
+b 2gh
+Finalizar Este problema tuvo que resolverse en dos etapas. Cada etapa involucró un sistema diferente y un principio de 
+conservación diferente. Ya que la colisión se considera perfectamente inelástica, alguna energía mecánica se transformó en 
+energía interna. Hubiera sido incorrecto igualar la energía cinética inicial del proyectil que entra con la energía potencial 
+gravitacional final de la combinación proyectil–bloque–Tierra.
+EJEMPLO 9.7 Un colisión de dos cuerpos con un resorte
+Un bloque de masa m1  1.60 kg inicialmente móvil 
+hacia la derecha con una rapidez de 4.00 m s sobre una 
+pista horizontal sin fricción y choca con un resorte unido a 
+un segundo bloque de masa m
+2  2.10 kg que inicialmente 
+se mueve hacia la izquierda con una rapidez de 2.50 m s, 
+como se muestra en la figura 9.10a. La constante de resorte 
+es 600 Nm.
+A) Encuentre las velocidades de los dos bloques después 
+de la colisión.
+SOLUCIÓN
+Conceptualizar Con ayuda de la figura 9.10a, siga una animación de la colisión en su mente. La figura 9.10b muestra un 
+instante durante la colisión, cuando se comprime el resorte. Al final, el bloque 1 y el resorte se separarán de nuevo, así que 
+el sistema se parecerá de nuevo a la figura 9.10a pero con diferentes vectores velocidad para los dos bloques.
+Categorizar Ya que la fuerza del resorte es conservativa, la energía cinética en el sistema no se transforma en energía 
+interna durante la compresión del resorte. Si ignora cualquier sonido hecho cuando el bloque golpea el resorte, clasifique 
+la colisión como elástica.
+Analizar Ya que la cantidad de movimiento del sistema se 
+conserva, aplique la ecuación 9.16:
+2) KB
+1
+2 1m1 m2 2vB 2
+ m1 2v1A 2
+2 1m1 m2 2 00 1m1 m2 2gh
+ KB UB KC UC 
+v1i = (4.00iˆ) m/s v1f = (3.00iˆ) m/s v2fv2i = (–2.50iˆ) m/s
+a)
+b)
+x
+k
+m1 mm1
+k
+2m2
+Figura 9.10 (Ejemplo 9.7) Un bloque móvil se aproxima a un 
+segundo bloque en movimiento que está unido a un resorte.
+m1v1i m2v2i m1v1f m2v2f
+
+Sustituya los valores conocidos: 
+1)  1.15 kg # m>s 11.60 kg2v1f 12.10 kg2v2f
+11.60 kg21 4.00 m>s 21 2.10 kg21 2.50 m>s 21 1.60 kg2v1f 12.10 kg2v2f
+Puesto que la colisión es elástica, aplique la 
+ecuación 9.20:
+Sustituya los valores conocidos: 2) 4.00 m >s 1 2.50 m>s 2 6.50 m>s v1f v2f
+Multiplique la ecuación 2) por 1.60 kg: 3) 10.4 kg # m>s 11.60 kg2v1f 11.60 kg2v2f
+Sume las ecuaciones 1) y 3): 11.55 kg # m>s 13.70 kg2v2f
+Resuelva para v2f : v2f
+11.55 kg # m>s
+3.70 kg 3.12 m>s
+Use la ecuación 2) para encontrar v1f : 
+v1f 3.38 m>s
+6.50 m>s v1f 3.12 m>s
+B) Durante la colisión, en el instante en que el bloque 1 se mueve hacia la derecha con una velocidad de 3.00 ms, como 
+en la figura 9.10b, determine la velocidad del bloque 2.
+SOLUCIÓN
+Conceptualizar Ahora dirija su atención en la figura 9.10b, que representa la configuración final del sistema para el in-
+tervalo de tiempo de interés.
+Categorizar Ya que la cantidad de movimiento y la energía mecánica del sistema de dos bloques se conservan durante toda 
+la colisión para el sistema de dos bloques, la colisión se clasifica como elástica para cualquier instante de tiempo final. Ahora 
+elija el instante final cuando el bloque 1 se mueve con una velocidad de 3.00 ms.
+Analizar Aplique la ecuación 9.16: m
+1v1i m2v2i m1v1f m2v2f
+Sustituya los valores 
+conocidos:
+Resuelva para v2f : v2f 1.74 m>s
+Finalizar El valor negativo para v2f significa que el bloque 2 todavía se mueve hacia la izquierda en el instante que se 
+considera.
+C) Determine la distancia que se comprime el resorte en dicho instante.
+SOLUCIÓN
+Conceptualizar De nuevo, centre su atención en la configuración del sistema que se muestra en la figura 9.10b.
+Categorizar Para el sistema del resorte y dos bloques, ni fricción ni otras fuerzas no conservativas actúan dentro del sistema. 
+Por lo tanto, el sistema se clasifica como aislado sin fuerzas no conservativas en acción.
+Analizar Elija la configuración inicial del sistema como la existente inmediatamente antes de que el bloque 1 golpee el 
+resorte y la configuración final cuando el bloque 1 se mueve hacia la derecha a 3.00 ms.
+Escriba una ecuación de conservación de energía mecánica 
+para el sistema:
+ Sección 9.3  Colisiones en una dimensión  241
+v1i v2i 1v1f v2f 2
+11.60 kg21 4.00 m>s 2 12.10 kg21 2.50 m>s 21 1.60 kg21 3.00 m>s 21 2.10 kg2v2f
+1
+2 m1v1i
+2 1
+2 m2v2i
+2 0 1
+2
+m1v1f
+2 1
+2
+m2v2f
+2 1
+2
+kx2
+Ki Ui Kf Uf
+
+242 Capítulo 9  Cantidad de movimiento lineal y colisiones
+Sustituya los valores conocidos y el 
+resultado del inciso B):
+Resuelva para x :
+Finalizar Esta respuesta no es la compresión máxima del resorte, porque los dos bloques aún se mueven uno hacia el otro 
+en el instante que se muestra en la figura 9.10b. ¿Se puede determinar la compresión máxima del resorte?
+9.4 Colisiones en dos dimensiones
+En la sección 9.1 se mostró que la cantidad de movimiento de un sistema de dos partículas 
+se conserva cuando el sistema está aislado. Para cualquier colisión de dos partículas, este 
+resultado implica que la cantidad de movimiento en cada una de las direcciones x, y y z se 
+conserva. Un importante subconjunto de colisiones tiene lugar en un plano. El juego de 
+billar es un ejemplo familiar que involucra múltiples colisiones de objetos que se mueven 
+en una superficie en dos dimensiones. Para tales colisiones en dos dimensiones, se obtie-
+nen dos ecuaciones componentes para conservación de cantidad de movimiento:
+ m
+1v1iy m2v2iy m1v1fy m2v2fy
+ m1v1ix m2v2ix m1v1fx m2v2fx
+donde tres subíndices en las componentes de velocidad en estas ecuaciones representan, 
+respectivamente, la identificación del objeto (1, 2), los valores inicial y final (i, f) y la com-
+ponente de velocidad (x, y).
+Considere un problema específico en dos dimensiones en el que la partícula 1 de masa 
+m
+1 choca con la partícula 2 de masa m2 inicialmente en reposo, como en la figura 9.11. 
+Después de la colisión (figura 9.11b), la partícula 1 se mueve en un ángulo V respecto a la 
+horizontal y la partícula 2 se mueve en un ángulo G respecto a la horizontal. Este evento 
+se llama colisión oblicua al aplicar la ley de conservación de la cantidad de movimiento en 
+forma de componentes y notar que la componente y inicial de la cantidad de movimiento 
+del sistema de dos partículas es cero, se obtiene
+  m
+1v1i m1v1f cos u m2v2f cos f  (9.25)
+  0 m1v1f sen u m2v2f sen f  (9.26)
+donde el signo menos en la ecuación 9.26 se incluye porque, después de la colisión, la 
+partícula 2 tiene una componente y de velocidad que es hacia abajo. (Los símbolos v en 
+estas ecuaciones particulares son magnitudes de velocidad, no componentes de velocidad. 
+La dirección del vector componente se indica explícitamente con los signos más o menos.) 
+Ahora se tienen dos ecuaciones independientes. Ya que no más de dos de las siete cantida-
+des en las ecuaciones 9.25 y 9.26 sean incógnitas, se puede resolver este problema.
+Si la colisión es elástica, también se puede usar la ecuación 9.17 (conservación de 
+energía cinética) con v
+2i  0:
+ 1
+2m1v1i 2 1
+2m1v1f 2 1
+2
+m2v2f 2  (9.27)
+Al conocer la rapidez inicial de la partícula 1 y ambas masas, quedan cuatro incógnitas (v1f, 
+v2f, V y G). Ya que sólo se tienen tres ecuaciones, se debe proporcionar una de las cuatro 
+cantidades restantes para determinar el movimiento después de la colisión elástica a partir 
+de principios de conservación.
+Si la colisión es inelástica, la energía cinética no se conserva y la ecuación 9.27 no se 
+aplica.
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 9.4
+No use la ecuación 9.20
+La ecuación 9.20, que relaciona 
+las velocidades relativas inicial y 
+final de dos objetos que chocan, 
+sólo es válida para colisiones 
+elásticas unidimensionales. 
+No use esta ecuación cuando 
+analice colisiones en dos 
+dimensiones.
+Figura 9.11 Una colisión elástica 
+indirecta entre dos partículas.
+x  0.173 m
+1
+2 11.60 kg21 3.00 m>s 22 1
+2
+12.10 kg21 1.74 m>s 22 1
+2
+1600 N>m 2x2
+1
+2
+11.60 kg21 4.00 m>s 22 1
+2
+12.10 kg21 2.50 m>s 22 0
+b) Después de la colisión
+v2f cos
+v1f cos
+v1f sen
+v1f
+v2f
+v2f sen
+a) Antes de la colisión
+v1i
+m2
+m1
+V
+V
+V
+G G
+G
+
+ESTRATEGIA PARA RESOLUCIÓN DE PROBLEMAS Colisiones bidimensionales
+Se recomienda el procedimiento siguiente cuando trate con problemas que involucran 
+colisiones entre dos partículas en dos dimensiones.
+1. Conceptualizar. Forme una idea de que ocurren las colisiones y predice las direcciones 
+aproximadas en las que se moverán las partículas después de la colisión. Establezca un 
+sistema coordenado y defina sus velocidades en términos de dicho sistema. Es conve-
+niente que el eje x coincida con una de las velocidades iniciales. Bosqueje el sistema 
+coordenado, dibuje y etiquete todos los vectores velocidad e incluya toda la información 
+conocida.
+2. Categorizar. ¿El sistema de partículas verdaderamente está aislado? Si es así, clasifique la 
+colisión como elástica, inelástica o perfectamente inelástica.
+3. Analizar. Escriba expresiones para las componentes x y y de la cantidad de movimiento 
+de cada objeto antes y después de la colisión. Recuerde incluir los signos adecuados 
+para las componentes de los vectores velocidad y ponga mucha atención a los signos.
+Escriba expresiones para la cantidad de movimiento total en la dirección x antes y 
+después de la colisión, e iguale las dos. Repita este procedimiento para la cantidad de 
+movimiento total en la dirección y.
+Proceda a resolver las ecuaciones de cantidad de movimiento para las cantidades 
+desconocidas. Si la colisión es inelástica, la energía cinética no se conserva y es posible 
+que se requerirá información adicional. Si la colisión es perfectamente inelástica, las 
+velocidades finales de los dos objetos son iguales.
+Si la colisión es elástica, la energía cinética se conserva y se puede igualar la ener-
+gía cinética total del sistema antes de la colisión con la energía cinética total después  
+de la colisión, lo que proporciona una relación adicional entre las magnitudes de ve-
+locidad.
+4. Finalizar. Una vez que haya determinado su resultado, compruebe para ver si sus res-
+puestas son consistentes con las representaciones mental y gráfica y que sus resultados 
+sean realistas.
+ Sección 9.4  Colisiones en dos dimensiones  243
+EJEMPLO 9.8 Colisión en un cruce
+Un automóvil de 1 500 kg, que viaja al este con una rapidez de 25.0 m s, choca 
+en un cruce con una camioneta de 2 500 kg que viaja al norte con una rapidez de  
+20.0 ms, como se muestra en la figura 9.12. Encuentre la dirección y magnitud de la 
+velocidad del choque después de la colisión, y suponga que los vehículos quedan unidos 
+después de la colisión.
+SOLUCIÓN
+Conceptualizar La figura 9.12 debe ayudarlo a formar ideas de la situación antes y 
+después de la colisión. Elija el este a lo largo de la dirección x positiva y el norte a lo 
+largo de la dirección y positiva.
+Categorizar Como se consideran los momentos inmediatamente antes e inmediata-
+mente después de la colisión como definitorios del intervalo de tiempo, se ignora el 
+efecto pequeño que la fricción tendría sobre las llantas del automóvil y el sistema de 
+dos autos se modela como aislado. También se ignoran los tamaños de los automóviles 
+y se les modela como partículas. La colisión es perfectamente inelástica porque los dos 
+autos quedan unidos después de la colisión.
+Analizar Antes de la colisión, el único objeto que tiene cantidad de movimiento en la dirección x es el automóvil. Por 
+lo tanto, la magnitud de la cantidad de movimiento inicial total del sistema (automóvil más camioneta) en la dirección x  
+sólo es la del automóvil. De igual modo, la cantidad de movimiento inicial total del sistema en la dirección y es la de la ca-
+mioneta. Después de la colisión, suponga que los despojos se mueven a un ángulo V y rapidez v
+f .
+y
+x
+(25.0iˆ) m/s
+(20.0jˆ) m/s
+vf
+V
+Figura 9.12 (Ejemplo 9.8) Un 
+automóvil que viaja hacia el este 
+choca con una camioneta que viaja 
+hacia el norte.
+
+244 Capítulo 9  Cantidad de movimiento lineal y colisiones
+Evalúe la cantidad de movimiento inicial del sistema en la 
+dirección x:
+Escriba una expresión para la cantidad de movimiento final 
+en la dirección x:
+Iguale las cantidades de movimiento inicial y final en la 
+dirección x:
+Evalúe la cantidad de movimiento inicial del sistema en la 
+dirección y:
+Escriba una expresión para la cantidad de movimiento final 
+en la dirección y:
+Iguale las cantidades de movimiento inicial y final en la 
+dirección y:
+Divida la ecuación 2) entre la ecuación 1) y resuelva para V:
+Use la ecuación 2) para encontrar el valor de vf :
+Finalizar Note que el ángulo V está cualitativamente en concordancia con la figura 9.12; además que la rapidez final de la 
+combinación es menor que las magnitudes de velocidad iniciales de los dos automóviles. Este resultado es consistente con la 
+energía cinética del sistema a reducir en una colisión inelástica. Puede ser útil si dibuja los vectores cantidad de movimiento 
+de cada vehículo antes de la colisión y de los dos vehículos juntos después de la colisión.
+EJEMPLO 9.9 Colisión protón–protón
+Un protón choca elásticamente con otro protón que inicialmente está en reposo. El protón que entra tiene una rapidez 
+inicial de 3.50  10
+5 ms y hace una colisión oblicua con el segundo protón, como en la figura 9.11. (En separaciones cerca-
+nas, los protones ejercen una fuerza electrostática repulsiva mutua.) Después de la colisión, un protón se aleja en un ángulo 
+de 37.0° hacia la dirección de movimiento original y el segundo se desvía a un ángulo G con el mismo eje. Encuentre las 
+magnitudes de velocidad finales de los dos protones y el ángulo G.
+SOLUCIÓN
+Conceptualizar Esta colisión es similar a la que se muestra en la figura 9.11, que lo ayudará a formar ideas del comporta-
+miento del sistema. El eje x se define a lo largo de la dirección del vector velocidad del protón inicialmente en movimiento.
+Categorizar El par de protones forma un sistema aislado. Tanto la cantidad de movimiento como la energía cinética del 
+sistema se conservan en esta colisión elástica oblicua.
+Analizar Se sabe que m1  m2 y V  37.0°, y se sabe que v1i  3.50  105 ms.
+Ingrese los valores conocidos en las ecuacio-
+nes 9.25, 9.26 y 9.27:
+Reordene las ecuaciones 1) y 2):
+vf
+5.00 10 4 kg # m>s
+14 000 kg2 sen 53.1° 15.6 m>s
+u 53.1°
+14 000 kg2vf  sen u
+14 000 kg2vf  cos u tan u 5.00 10 4
+3.75 10 4 1.33
+2) 5.00 104 kg # m>s 14 000 kg2vf sen u
+pyf 14 000 kg2vf sen u
+pyi 12 500 kg21 20.0 m>s 2 5.00 10 4 kg # m>s
+1) 3.75 104 kg # m>s 14 000 kg2vf cos u
+pxf 14 000 kg2vf cos u
+pxi 11 500 kg21 25.0 m>s 2 3.75 10 4 kg # m>s
+1)
+2)
+3)  v1f
+2 v2f
+2 13.50 10 5 m>s 22 1.23 10 11 m2>s2
+v1f sen 37.0° v2f sen f 0
+v1f cos 37° v2f cos f 3.50 10 5 m>s
+v2f  sen f v1f  sen 37.0°
+v2f  cos f 3.50 10 5 m>s v1f  cos 37.0°
+
+Eleve al cuadrado estas dos ecuaciones y  
+súmelas:
+Sustituya la ecuación 4) en la ecuación 3):
+Una posible solución de esta ecuación es v1f  0, que corresponde a una colisión frontal en la que el primer protón se detiene 
+y el segundo continúa con la misma rapidez en la misma dirección. Esta no es la solución que se quiere.
+Iguale a cero el otro factor:
+Use la ecuación 3) para encontrar v2f :
+Use la ecuación 2) para encontrar G:
+Finalizar Es interesante que V  G  90°. Este resultado no es accidental. Siempre que dos objetos de igual masa choquen 
+elásticamente en una colisión oblicua y uno de ellos inicialmente en reposo, sus velocidades finales son mutuamente per-
+pendiculares.
+ Sección 9.5  El centro de masa  245
+9.5 El centro de masa
+En esta sección se describe el movimiento global de un sistema en términos de un punto 
+especial llamado el centro de masa del sistema. El sistema puede ser un grupo de partí-
+culas, como un conjunto de átomos en un contenedor, o un objeto extendido, como un 
+gimnasta que salta en el aire. Se verá que el movimiento traslacional del centro de masa 
+del sistema es el mismo, como si toda la masa del sistema estuviese concentrada en dicho 
+punto. Es decir, el sistema se mueve como si la fuerza externa neta se aplicara a una sola 
+partícula ubicada en el centro de masa. Este comportamiento es independiente de otro 
+movimiento, como la rotación o la vibración del sistema. Este modelo, el modelo de partícula, 
+se introdujo en el capítulo 2.
+Examine un sistema que consiste de un par de partículas que tienen diferentes masas y 
+se conectan mediante una barra rígida ligera (figura 9.13). La posición del centro de masa 
+de un sistema se describe como la posición promedio de la masa del sistema. El centro de 
+masa del sistema se ubica en algún lugar en la línea que une las dos partículas y está más 
+cerca de la partícula que tiene la masa más grande. Si se aplica una sola fuerza a un punto 
+en la barra arriba del centro de masa, el sistema gira en sentido de las manecillas del reloj 
+(vea la figura 9.13a). Si la fuerza se aplica en un punto en la barra por abajo del centro 
+de masa, el sistema gira contra las manecillas del reloj (vea la figura 9.13b). Si la fuerza se 
+aplica al centro de masa, el sistema se mueve en la dirección de la fuerza sin girar (vea la 
+figura 9.13c). El centro de masa de un objeto se ubica con este procedimiento.
+El centro de masa del par de partículas descritas en la figura 9.14 (página 246) se  
+ubica sobre el eje x y yace en algún lugar entre las partículas. Su coordenada x está dada 
+por
+ x
+CM
+m1x1 m2x2
+m1 m2
+ (9.28)
+Figura 9.13 Dos partículas 
+de distinta masa se conectan 
+mediante una barra rígida ligera. 
+a) El sistema gira en sentido de  
+las manecillas del reloj cuando 
+una fuerza se aplica arriba del 
+centro de masa. b) El sistema  
+gira contra las manecillas del reloj 
+cuando una fuerza se aplica por 
+abajo del centro de masa. c) El 
+sistema se mueve en la dirección 
+de la fuerza sin girar cuando una 
+fuerza se aplica en el centro de 
+masa.
+CM
+a)
+b)
+c)
+CM
+CM
+4)  v2f 2 1.23 10 11 15.59 10 5 2v1f v1f 2
+v1f 2 sen2 37.0°
+1.23 10 11 m2>s2 17.00 10 5 m>s 2v1f cos 37.0° v1f 2 cos2 37.0°
+ v2f 2 cos2 f v2f 2 sen2 f
+ 2v1f 2 15.59 10 5 2v1f 12v1f 5.59 10 5 2v1f 0
+ v1f 2 31.23 10 11 15.59 10 5 2v1f v1f 2 4 1.23 10 11
+2v1f 5.59 10 5 0 S v1f  2.80 10 5 m>s
+   2.11 10 5 m>s 
+ v2f 1.23 10 11 v1f 2 1.23 10 11 12.80 10 5 22
+f sen 1 a
+v1f sen 37.0°
+v2f
+b sen 1 a
+12.80 10 5 2 sen 37.0°
+2.11 10 5 b  53.0°
+
+246 Capítulo 9  Cantidad de movimiento lineal y colisiones
+Por ejemplo, si x1  0, x2  d y m2  2m1, se encuentra que xCM  2
+3d. Es decir, el centro 
+de masa se encuentra más cerca de la partícula más pesada. Si las dos masas son iguales, 
+el centro de masa se encuentra a medio camino entre las partículas.
+Se puede extender este concepto a un sistema de muchas partículas con masas mi en 
+tres dimensiones. La coordenada x del centro de masa de n partículas se define como
+ xCM
+m1x1 m2x2 m3x3 p mnxn
+m1 m2 m3 p mn
+i
+mixi
+i
+mi
+i
+mixi
+M
+1
+M 
+i
+ mixi  (9.29)
+donde xi es la coordenada x de la i–ésima partícula y la masa total es M
+i
+mi , donde la
+suma incluye las n partículas. Las coordenadas y y z del centro de masa se definen de igual 
+modo por las ecuaciones
+ yCM
+1
+M 
+i
+ miyi y zCM
+1
+M 
+i
+ mizi  (9.30)
+El centro de masa se puede ubicar en tres dimensiones mediante su vector de posición 
+r
+S
+CM. Las componentes de este vector son xCM, yCM y zCM, definidas en las ecuaciones 9.29 
+y 9.30. Por lo tanto,
+ 
+ r
+S
+CM
+1
+M 
+i
+ mi r
+S
+i 
+r
+S
+CM xCM iˆ yCM jˆ zCMkˆ 1
+M 
+i
+ mixi iˆ 1
+M 
+i
+ mi yi jˆ 1
+M 
+i
+ mizi kˆ
+ 
+(9.31)
+donde r
+S
+i es el vector de posición de la i–ésima partícula, definida por
+r
+S
+i xi iˆ yi jˆ zi kˆ
+Aunque ubicar el centro de masa para un objeto extendido es un poco más problemá-
+tico que ubicar el centro de masa de un sistema de partículas, las ideas básicas discutidas 
+aún se aplican. Piense en un objeto extendido como un sistema que contiene un gran 
+número de partículas (figura 9.15). Ya que la separación de las partículas es muy pequeña, 
+se considera que el objeto tiene una distribución de masa continua. Al dividir el objeto en 
+elementos de masa $m
+i con coordenadas xi, yi, zi, se ve que la coordenada x del centro de 
+masa es aproximadamente
+xCM
+1
+M
+ 
+i
+xi ¢mi
+con expresiones similares para yCM y zCM. Si se hace que el número n de elementos tienda a 
+infinito, el tamaño de cada elemento tiende a cero y xCM se conoce con precisión. En este 
+límite, se sustituye la suma mediante una integral y $mi por el elemento diferencial dm:
+ xCM lim
+¢mi S0
+ 1
+M 
+i
+ xi ¢mi
+1
+M  x dm  (9.32)
+Del mismo modo, para yCM y zCM se obtiene
+ yCM
+1
+M  y dm y  z CM
+1
+M  z dm  (9.33)
+La posición vectorial del centro de masa de un objeto extendido se expresa en la forma
+ r
+S
+CM
+1
+M  r
+S
+ dm  (9.34)
+que es equivalente a las tres expresiones dadas por las ecuaciones 9.32 y 9.33.
+Figura 9.14 El centro de masa 
+de dos partículas de masa distinta 
+sobre el eje x se ubica en xCM, un 
+punto entre las partículas, más 
+cerca de la que tiene la mayor 
+masa.
+Figura 9.15 Un objeto 
+extendido se considera como 
+una distribución de pequeños 
+elementos de masa $m
+i. El 
+centro de masa se ubica en la 
+posición vectorial 
+r
+S
+CM, que tiene 
+coordenadas xCM, yCM y zCM.
+y
+m1
+x1
+x 
+2
+CM
+m 
+2
+x
+x 
+CM
+y
+x
+z
+ri
+mi
+rCM
+CM
+$
+
+El centro de masa de cualquier objeto simétrico se encuentra sobre un eje de simetría y 
+sobre cualquier plano de simetría.3 Por ejemplo, el centro de masa de una barra uniforme 
+se encuentra a medio camino entre sus extremos. El centro de masa de una esfera o un 
+cubo se encuentra en su centro geométrico.
+El centro de masa de un objeto con forma irregular, como una llave de tuerca, se deter- 
+mina al suspender el objeto, primero de un punto y luego de otro. En la figura 9.16, una 
+llave de tuerca cuelga del punto A y se dibuja una línea vertical AB (que se puede esta-
+blecer con una plomada) cuando la llave de tuerca deja de balancearse. Luego la llave 
+de tuerca se cuelga del punto C, y se dibuja una segunda línea vertical CD. El centro de 
+masa está a la mitad a través del grosor de la llave de tuerca, bajo la intersección de estas 
+dos líneas. En general, si la llave de tuerca cuelga libremente de cualquier punto, la línea 
+vertical a través de este punto debe pasar a través del centro de masa.
+Ya que un objeto extendido es una distribución de masa continua, en cada elemento 
+pequeño de masa actúa la fuerza gravitacional. El efecto neto de todas estas fuerzas es equi-
+valente al efecto de una sola fuerza M g
+S
+ que actúa a través de un punto especial, llamado 
+centro de gravedad. Si g
+S
+ es constante sobre la distribución de masa, el centro de gravedad 
+coincide con el centro de masa. Si un objeto extendido gira sobre un eje en su centro de 
+gravedad, se equilibra en cualquier orientación.
+Pregunta rápida 9.7 Un bat de beisbol de densidad uniforme se corta en la ubicación 
+de su centro de masa, como se muestra en la figura 9.17. ¿Cuál trozo tiene la menor  
+masa? a) el de la derecha, 
+b) el de la izquierda, c) ambos trozos tienen la misma masa,  
+d) imposible de determinar.
+EJEMPLO 9.10 El centro de masa de tres partículas
+Un sistema consiste de tres partículas ubicadas como se muestra en la figura 9.18. 
+Encuentre el centro de masa del sistema.
+SOLUCIÓN
+Conceptualizar La figura 9.18 muestra las tres masas. Su intuición debe decirle 
+que el centro de masa se ubica en alguna parte en la región entre la partícula 
+anaranjada y el par de partículas coloreadas en azul y verde, como se muestra en 
+la figura.
+Categorizar Este ejemplo se clasifica como un problema de sustitución porque se 
+usarán las ecuaciones para el centro de masa desarrolladas en esta sección.
+El problema se configuró al etiquetar las masas de las partículas como se muestra 
+en la figura, con m
+1  m2  1.0 kg y m3  2.0 kg.
+Figura 9.16 Una técnica 
+experimental para determinar 
+el centro de masa de una llave 
+de tuerca. La llave de tuerca 
+cuelga libremente, primero del 
+punto A y luego del punto C. La 
+intersección de las dos líneas AB y 
+C ubica el centro de masa.
+A
+B
+A
+B
+C
+D
+Centro de
+masa
+Figura 9.17 (Pregunta rápida 
+9.7) Un bat de beisbol cortado 
+en la ubicación de su centro 
+de masa.
+3 Esta afirmación sólo es válida para objetos que tienen una densidad uniforme.
+Figura 9.18 (Ejemplo 9.10) Dos 
+partículas de 1.0 kg se ubican en el 
+eje x, y una sola partícula de 2.0 kg se 
+ubica en el eje y como se muestra. El 
+vector indica la ubicación del centro 
+de masa del sistema.
+r
+CM
+2
+0 2 1
+1
+3
+y (m)
+x (m)
+3
+m1 m2
+m3
+ Sección 9.5  El centro de masa  247
+
+248 Capítulo 9  Cantidad de movimiento lineal y colisiones
+Use las ecuaciones definitorias para las 
+coordenadas del centro de masa y note 
+que z
+CM  0:
+Escriba el vector de posición del centro 
+de masa:
+EJEMPLO 9.11 El centro de masa de una barra
+A) Demuestre que el centro de masa de una barra de masa M y longitud L se encuentra 
+equidistante de sus extremos, si supone que la barra tiene una masa uniforme por unidad 
+de longitud.
+SOLUCIÓN
+Conceptualizar La barra se muestra alineada a lo largo del eje x en la figura 9.19, de 
+modo que yCM  zCM  0.
+Categorizar Este ejemplo se clasifica como un problema de análisis, porque es necesa-
+rio dividir la barra en elementos para realizar la integración en la ecuación 9.32.
+Analizar La masa por unidad de longitud (esta cantidad se llama densidad de masa lineal) se puede escribir como M  ML 
+para la barra uniforme. Si la barra se divide en elementos de longitud dx, la masa de cada elemento es dm  M dx.
+Use la ecuación 9.32 para encontrar una expresión para xCM: xCM
+1
+M  x dm 1
+M
+L
+0
+ xl dx l
+M  x2
+2 `
+L
+0
+lL2
+2M
+Sustituya M  ML: xCM
+L2
+2M a M
+L b  L
+2
+Además puede usar argumentos de geometría para obtener el mismo resultado.
+B) Suponga que una barra no es uniforme
+, tal que su masa por unidad de longitud varía linealmente con x de acuerdo con la 
+expresión M  Bx, donde B es una constante. Encuentre la coordenada x del centro de masa como fracción de L.
+SOLUCIÓN
+Conceptualizar Ya que la masa por unidad de longitud no es constante sino proporcional a x, los elementos de la barra 
+hacia la derecha son más grandes que los elementos cerca del extremo izquierdo de la barra.
+Categorizar Este problema se clasifica de manera similar al inciso A), con el sesgo añadido de que la densidad de masa 
+lineal no es constante.
+Analizar En este caso, sustituya dm en la ecuación 9.32 por M dx, donde M  Bx.
+r
+S
+CM xCM iˆ yCM jˆ  10.75 iˆ 1.0 jˆ 2 m
+ 
+11.0 kg21 021 1.0 kg21 021 2.0 kg21 2.0 m2
+4.0 kg
+4.0 kg # m
+4.0 kg 1.0 m
+yCM
+1
+M 
+i
+ miyi
+m1y1 m2y2 m3y3
+m1 m2 m3
+ 
+3.0 kg # m
+4.0 kg 0.75 m
+ 
+11.0 kg21 1.0 m21 1.0 kg21 2.0 m21 2.0 kg21 02
+1.0 kg 1.0 kg 2.0 kg
+ xCM
+1
+M 
+i
+ mixi
+m1x1 m2x2 m3x3
+m1 m2 m3
+Figura 9.19 (Ejemplo 9.11) 
+Geometría utilizada para encontrar 
+el centro de masa de una barra 
+uniforme.
+L
+x
+dm = Mdx
+y
+dx
+O x
+
+Use la ecuación 9.32 para encontrar una expresión para xCM: 
+ a
+M
+L
+0
+x2 dx aL3
+3M 
+xCM
+1
+M x dm 1
+M 
+L
+0
+ xl dx 1
+M 
+L
+0
+ xax dx
+Encuentre la masa total de la barra: M dm
+L
+0
+ l dx
+L
+0
+ ax dx aL2
+2
+Sustituya M en la expresión para xCM: xCM
+aL3
+3aL2>2  2
+3L
+Finalizar Note que el centro de masa en el inciso B) está más lejos hacia la derecha que en el inciso A). Este resultado es 
+razonable porque los elementos de la barra se vuelven más grandes conforme uno se mueve hacia la derecha a lo largo de 
+la barra en el inciso B).
+EJEMPLO 9.12 Centro de masa de un triángulo rectángulo
+Se le pide colgar una señal metálica de un alambre vertical. La señal tiene la forma 
+triangular que se muestra en la figura 9.20a. La parte baja de la señal es paralela al 
+suelo. ¿A qué distancia del extremo izquierdo de la señal se debe unir el alambre 
+de soporte?
+SOLUCIÓN
+Conceptualizar La figura 9.20a muestra la señal que cuelga del alambre. El alam-
+bre se debe unir a un punto directamente sobre el centro de gravedad de la señal, 
+que es el mismo que su centro de masa, porque está en un campo gravitacional 
+uniforme.
+Categorizar Como en el caso del ejemplo 9.11, este ejemplo se clasifica como un 
+problema de análisis porque es necesario identificar elementos infinitesimales de 
+la señal para realizar la integración en la ecuación 9.32.
+Analizar Se supone que la señal triangular tiene una densidad uniforme y masa 
+total M. Ya que la señal es una distribución de masa continua, se debe usar la expre-
+sión integral de la ecuación 9.32 para hallar la coordenada x del centro de masa.
+El triángulo se divide en flejes estrechos de ancho dx y altura y, como se muestra 
+en la figura 9.20b, donde y es la altura de la hipotenusa del triángulo arriba del eje x 
+para un valor conocido del fleje de x. La masa de cada fleje es el producto del volu-
+men del fleje y la densidad S del material del que está hecho la señal: dm  Syt dx, 
+donde t es el grosor de la señal metálica. La densidad del material es la masa total 
+de la señal dividida entre su volumen total (área del triángulo por grosor).
+Evalúe dm: dm
+ryt dx a M
+1
+2abt
+b yt dx
+2My
+ab  dx
+Aplique la ecuación 9.32 para encontrar la coordenada 
+x del centro de masa:
+Para proceder aún más y evaluar la integral, debe expresar y en términos de x. La línea que representa la hipotenusa del 
+triángulo en la figura 9.20b tiene una pendiente de ba y pasa a través del origen, de modo que la ecuación de esta línea es 
+y  (ba)x.
+a
+x
+xO
+y
+c b
+y
+dx
+dm
+b)
+a)
+Figura 9.20 (Ejemplo 9.12) 
+a) Una señal triangular que se 
+colgará de un solo alambre. b) 
+Construcción geométrica para 
+ubicar el centro de masa.
+1) xCM
+1
+M x dm 1
+M 
+a
+0
+ x 
+2My
+ab  dx 2
+ab 
+a
+0
+ xy dx
+ Sección 9.5  El centro de masa  249
+
+250 Capítulo 9  Cantidad de movimiento lineal y colisiones
+Sustituya para y en la ecuación 1): 
+2
+3a
+xCM
+2
+ab
+a
+0
+x a b
+a x b dx 2
+a2
+a
+0
+x2dx 2
+a2 c x3
+3 d
+a
+0
+Por lo tanto, el alambre se debe unir a la señal a una distancia dos tercios la longitud del borde inferior desde el extremo 
+izquierdo.
+Finalizar Esta respuesta es idéntica a la del inciso B) del ejemplo 9.11. Para la señal triangular, el aumento lineal en altura 
+y con la posición x significa que los elementos en la señal aumentan en masa linealmente, lo que refleja el aumento lineal 
+en densidad de masa en el ejemplo 9.11. También se podría encontrar la coordenada y del centro de masa de la señal, pero 
+esto no es necesario para determinar dónde se debe unir el alambre. Puede intentar cortar un triángulo rectángulo de 
+cartulina y colgarlo de una cuerda de modo que la base larga sea horizontal. ¿La cuerda necesita unirse a 
+2
+3a?
+9.6 Movimiento de un sistema de partículas
+Comenzará a entender el significado físico y la utilidad del concepto de centro de masa 
+si toma la derivada con el tiempo del vector posición para el centro de masa conocido en 
+la ecuación 9.31. De la sección 4.1 se sabe que la derivada con el tiempo de un vector de 
+posición es por definición el vector velocidad. Si supone que M permanece constante para 
+un sistema de partículas (esto es, ninguna partícula entra o sale del sistema) se obtiene la 
+siguiente expresión para la velocidad del centro de masa del sistema:
+ v
+S
+CM
+d r
+S
+CM
+dt
+1
+M i
+mi
+d r
+S
+i
+dt
+1
+M i
+miv
+S
+i  (9.35)
+donde v
+S
+i es la velocidad de la i–ésima partícula. Al reordenar la ecuación 9.35 proporciona
+ Mv
+S
+CM
+i
+miv
+S
+i
+i
+p
+S
+i p
+S
+tot  (9.36)
+Debido a eso, la cantidad de movimiento lineal total del sistema es igual a la masa total 
+multiplicada por la velocidad del centro de masa. En otras palabras, la cantidad de movi-
+miento lineal total del sistema es igual a la de una sola partícula de masa M que se mueve 
+con una velocidad v
+S
+CM.
+La derivación de la ecuación 9.35 respecto del tiempo, se obtiene la aceleración del 
+centro de masa del sistema:
+ a
+S
+CM
+dv
+S
+CM
+dt
+1
+M i
+mi
+dv
+S
+i
+dt
+1
+M i
+mi a
+S
+i  (9.37)
+Al reordenar esta expresión y usar la segunda ley de Newton se obtiene
+ M a
+S
+CM
+i
+mi a
+S
+i
+i
+F
+S
+i  (9.38)
+donde F
+S
+i es la fuerza neta sobre la partícula i.
+Las fuerzas sobre cualquier partícula en el sistema pueden incluir tanto fuerzas externas 
+(desde afuera del sistema) y fuerzas internas (desde dentro del sistema). Sin embargo,  
+por la tercera ley de Newton, la fuerza interna que ejerce la partícula 1 sobre la partícula 
+2, por ejemplo, es igual en magnitud y opuesta en dirección a la fuerza interna que ejerce 
+la partícula 2 sobre la partícula 1. En consecuencia, cuando en la ecuación 9.38 se suman 
+todas las fuerzas internas, se cancelan en pares y se encuentra que la fuerza neta en el 
+sistema la causan solamente las fuerzas externas. En tal caso se escribe la ecuación 9.38 en 
+la forma
+ 
+F
+S
+ext M a
+S
+CM  (9.39)
+Velocidad del centro  
+de masa
+0
+Cantidad de movimiento 
+total de un sistema  
+de partículas
+0
+Aceleración del centro  
+de masa
+0
+Segunda ley de Newton 
+para un sistema de 
+partículas
+0
+
+Es decir, la fuerza externa neta en un sistema de partículas es igual a la masa total del siste-
+ma multiplicada por la aceleración del centro de masa. Al comparar la ecuación 9.39 con 
+la segunda ley de Newton para una sola partícula, se ve que el modelo de partícula que se 
+ha usado en muchos capítulos se describe en términos del centro de masa:
+El centro de masa de un sistema de partículas que tiene masa combinada M se mueve 
+como una partícula equivalente de masa M que se movería bajo la influencia de la 
+fuerza externa neta en el sistema.
+ 
+Se integra la ecuación 9.39 en un intervalo de tiempo finito:
+F
+S
+ext dt M a
+S
+CM dt M dv
+S
+CM
+dt dt M d v
+S
+CM M ¢v
+S
+CM
+Note que esta ecuación se puede escribir como
+ I
+S
+¢p
+S
+tot  (9.40)
+donde I
+S
+ es el impulso que las fuerzas externas imparten al sistema y p
+S
+tot es la cantidad de 
+movimiento del sistema. La ecuación 9.40 es la generalización del teorema impulso–can-
+tidad de movimiento para una partícula (ecuación 9.10) a un sistema de partículas.
+Por último, si la fuerza externa neta sobre un sistema es cero, se sigue de la ecuación 
+9.39 que
+Ma
+S
+CM M dv
+S
+CM
+dt 0
+de modo que
+ Mv
+S
+CM p
+S
+tot constante 1cuando F
+S
+ext 02  (9.41)
+Es decir, la cantidad de movimiento lineal total de un sistema de partículas se conserva 
+si no hay fuerza neta externa que actúe sobre el sistema. Se sigue que, para un sistema 
+aislado de partículas, tanto la cantidad de movimiento total como la velocidad del centro 
+de masa son constantes en el tiempo. Este enunciado es una generalización de la ley de 
+conservación de la cantidad de movimiento para un sistema de muchas partículas.
+Suponga que un sistema aislado que consta de dos o más integrantes en reposo. El 
+centro de masa de tal sistema permanece en reposo a menos que sobre él actúe una fuerza 
+externa. Por ejemplo, considere un sistema de un nadador que está de pie sobre una balsa, 
+con el sistema inicialmente en reposo. Cuando el nadador se clava horizontalmente desde 
+la balsa, ésta se mueve en la dirección opuesta a la del nadador y el centro de masa del 
+sistema permanece en reposo (si se desprecia la fricción entre la balsa y el agua). Además, 
+la cantidad de movimiento lineal del nadador es igual en magnitud a la de la balsa, pero 
+opuesta en dirección.
+Pregunta rápida 9.8 Un crucero se mueve con rapidez constante a través del agua. Los 
+vacacionistas en el barco están ansiosos por llegar a su siguiente destino. Deciden acelerar 
+el crucero reuniéndose en la proa (el frente) y correr hacia la popa (la parte trasera) de 
+la nave. i) Mientras corren hacia la popa, ¿la rapidez de la nave es a) mayor que antes,  
+b) invariable, c) menor que antes, o d) imposible de determinar? ii) Los vacacionistas  
+dejan de correr cuando llegan a la popa del barco. Después de que todos dejan de correr
+, 
+¿la rapidez del barco es a) mayor de la que era antes de que comenzaran a correr, b) in-
+variable de la que era antes de que comenzaran a correr, c) menor de la que era antes de 
+que comenzaran a correr, o d) imposible de determinar?
+ Sección 9.6  Movimiento de un sistema de partículas  251
+
+252 Capítulo 9  Cantidad de movimiento lineal y colisiones
+EJEMPLO CONCEPTUAL 9.13 Explosión de un proyectil
+Un proyectil disparado al aire súbitamente explota en muchos fragmentos (figura 
+9.21).
+A) ¿Qué se puede decir acerca del movimiento del centro de masa del sistema con-
+formado por todos los fragmentos después de la explosión?
+SOLUCIÓN
+Si desprecia la resistencia del aire, la única fuerza externa en el proyectil es la fuerza 
+gravitacional. Por lo tanto, si el proyectil no explota, continuará moviéndose a lo 
+largo de la trayectoria parabólica indicada por la línea discontinua en la figura 9.21. 
+Ya que las fuerzas causadas por la explosión son internas, no afectan el movimiento 
+del centro de masa del sistema (los fragmentos). En consecuencia, después de la ex-
+plosión, el centro de masa de los fragmentos sigue la misma trayectoria parabólica 
+que el proyectil habría seguido si no hubiese ocurrido la explosión.
+B) Si el proyectil no explota, aterrizará a una distancia R desde su punto de lanza-
+miento. Suponga que el proyectil explota y se separa en dos piezas de igual masa. 
+Una pieza aterriza a una distancia 2R desde el punto de lanzamiento. ¿Dónde ate-
+rriza la otra pieza?
+SOLUCIÓN
+Como se discutió en el inciso A), el centro de masa del sistema de dos piezas aterriza a una distancia R desde el punto de 
+lanzamiento. Una de las piezas aterriza a una distancia más allá de R desde el punto de aterrizaje (o a una distancia 2 R 
+desde el punto de lanzamiento), a la derecha en la figura 9.21. Ya que las dos piezas tienen la misma masa, la otra pieza 
+debe aterrizar a una distancia R a la izquierda del punto de aterrizaje en la figura 9.21, ¡lo que coloca a esta pieza justo de 
+regreso en el punto de lanzamiento!
+EJEMPLO 9.14 El cohete que explota
+Un cohete se dispara verticalmente hacia arriba. En el instante en que llega a una altura de 1 000 m y una rapidez de  
+300 ms, explota en tres fragmentos que tienen igual masa. Un fragmento se mueve hacia arriba con una rapidez de 450 
+ms después de la explosión. El segundo fragmento tiene una rapidez de 240 m s y se mueve al este justo después de la 
+explosión. ¿Cuál es la velocidad del tercer fragmento inmediatamente después de la explosión?
+SOLUCIÓN
+Conceptualizar Dibuje la explosión en su mente, con una pieza yendo hacia arriba y una segunda pieza moviéndose horizon-
+talmente hacia el este. ¿Tiene usted algún sentimiento intuitivo acerca de la dirección en la que se mueve la tercera pieza?
+Categorizar Este ejemplo es un problema en dos dimensiones porque tiene dos fragmentos móviles en direcciones per-
+pendiculares después de la explosión, así como un tercer fragmento que se mueve en una dirección desconocida en el 
+plano definido por los vectores velocidad de los otros dos fragmentos. Se supone que el intervalo de tiempo de la explosión 
+es muy breve, así que se usa la aproximación de impulso en la que se ignora la fuerza gravitacional y la resistencia del aire. 
+Ya que las fuerzas de la explosión son internas al sistema (el cohete), el sistema se modela como aislado y la cantidad de 
+movimiento total p
+S
+i del cohete inmediatamente antes de la explosión debe ser igual a la cantidad de movimiento total p
+S
+f 
+de los fragmentos inmediatamente después de la explosión.
+Analizar Ya que los tres fragmentos tienen igual masa, la masa de cada fragmento es M3, donde M es la masa total del 
+cohete. Sea v
+S
+f que representa la velocidad desconocida del tercer fragmento.
+Escriba una expresión para la cantidad de movimiento del sistema 
+antes de la explosión:
+Escriba una expresión para la cantidad de movimiento del sistema 
+después de la explosión:
+Figura 9.21 (Ejemplo conceptual 
+9.13) Cuando un proyectil explota 
+en muchos fragmentos, el centro 
+de masa del sistema conformado 
+por todos los fragmentos sigue la 
+misma trayectoria parabólica que el 
+proyectil habría tomado si no hubiese 
+explotado.
+p
+S
+i M v
+S
+i M 1300 jˆm>s 2
+p
+S
+f
+M
+3 1240 iˆm>s 2 M
+3 1450 jˆm>s 2 M
+3  v
+S
+f
+
+Iguale estas dos expresiones: M
+3  v
+S
+f
+M
+3 1240 iˆm>s 2 M
+3 1450 jˆm>s 2 M 1300 jˆm>s 2
+Resuelva para v
+S
+f : v
+S
+f 1 240 iˆ 450 jˆ 2 m>s
+Finalizar Note que este evento es el inverso de una colisión perfectamente inelástica. Hay un objeto antes de la colisión 
+y tres objetos después. Imagine correr hacia atrás una película del evento: los tres objetos se juntarían y se convertirían en 
+un solo objeto. En una colisión perfectamente inelástica, la energía cinética del sistema disminuye. Si calcula la energía 
+cinética antes y después del evento en este ejemplo, encontrará que la energía cinética del sistema aumenta. (¡Inténtelo!) 
+Este aumento en energía cinética viene de la energía po tencial almacenada en cualquier combustible que explote para 
+causar el rompimiento del cohete.
+9.7 Sistemas deformables
+Hasta el momento, en esta exposición de mecánica, se analizó el movimiento de partículas 
+o sistemas no deformables que se modelan como partículas. La discusión en la sección 9.6 
+se puede aplicar a un análisis del movimiento de los sistemas deformables. Por ejemplo, 
+suponga que está de pie sobre una patineta y se empuja de una pared, con lo que se pone 
+en movimiento alejándose de la pared. ¿Cómo describiría este evento?
+La fuerza a causa de la pared en sus manos se mueve hasta el final sin desplazamiento; 
+la fuerza siempre se localiza en la interfaz entre la pared y sus manos. Por lo tanto, la 
+fuerza no trabaja en el sistema, que son usted y su patineta. Sin embargo, empujarse de  
+la pared en efecto da por resultado un cambio en la energía cinética del sistema. Si intenta 
+usar el teorema trabajo–energía cinética, W  $K, para describir este evento, note que el 
+lado izquierdo de la ecuación es cero, pero el lado derecho es distinto de cero. El teorema 
+trabajo–energía cinética no es válido para este evento y con frecuencia no es válido para 
+sistemas que son deformables. Su cuerpo se deformó durante este evento: sus brazos se 
+doblaron antes del evento y se estiraron mientras se empujaba de la pared.
+Para analizar el movimiento de los sistemas deformables, se recurre a la ecuación 8.2, la 
+ecuación de conservación de la energía, y a la ecuación 9.40, el teorema impulso–cantidad 
+de movimiento para un sistema. Para el ejemplo de usted empujándose de la pared sobre 
+su patineta, la ecuación 8.2 produce
+Esistema T
+¢K ¢U 0
+donde $K es el cambio en energía cinética debida al aumento de rapidez del sistema y $U 
+es la disminución en energía potencial almacenada en el cuerpo resultante de las comidas 
+previas. Esta ecuación dice que el sistema transformó energía potencial en energía cinética 
+mediante el empleo de fuerza muscular necesaria para empujarse de la pared.
+Al aplicar la ecuación 9.40 a esta situación se obtiene
+F
+S
+pared dt m ¢v
+S
+I
+S
+¢p
+S
+tot
+donde F
+S
+pared es la fuerza que ejerce la pared sobre sus manos, m es la masa de usted y la 
+patineta, y $v
+S
+ es el cambio en la velocidad del sistema durante el evento. Para evaluar el 
+lado izquierdo de esta ecuación, se necesitaría conocer cómo varía en el tiempo la fuerza 
+a causa de la pared. En general, este proceso puede ser complicado. Sin embargo, en  
+el caso de fuerzas constantes, o fuerzas bien comportadas, se puede evaluar la integral del 
+lado izquierdo de la ecuación.
+ Sección 9.7  Sistemas deformables  253
+
+254 Capítulo 9  Cantidad de movimiento lineal y colisiones
+EJEMPLO 9.15 Empujar sobre un resorte4
+Como se muestra en la figura 9.22a, dos bloques están en reposo sobre una mesa a 
+nivel sin fricción. Ambos bloques tienen la misma masa m y están conectados mediante 
+un resorte de masa despreciable. La distancia de separación de los bloques cuando el 
+resorte está relajado es L. Durante un intervalo de tiempo $t, se aplica horizontalmente 
+una fuerza constante F al bloque izquierdo y lo mueve una distancia x
+1, como se muestra 
+en la figura 9.22b. Durante este intervalo de tiempo, el bloque derecho se mueve una 
+distancia x
+2. Al final de este intervalo de tiempo, se retira la fuerza F.
+A) Encuentre la rapidez resultante v
+S
+CM del centro de masa del sistema.
+SOLUCIÓN
+Conceptualizar Imagine lo que sucede mientras empuja sobre el bloque izquierdo. 
+Empieza a moverse hacia la derecha en la figura 9.22 y el resorte empieza a comprimirse. 
+Como resultado, el resorte empuja hacia la derecha el bloque derecho, que comienza 
+a moverse hacia la derecha. En cualquier momento dado, por lo general los bloques 
+se mueven con diferentes velocidades. A medida que el centro de masa del sistema se 
+mueve hacia la derecha, los dos bloques oscilan de ida y vuelta respecto del centro  
+de masa.
+Categorizar El sistema de dos bloques y un resorte no es un sistema aislado, porque se está invirtiendo trabajo en él por la 
+fuerza aplicada. Es un sistema deformable. Durante el intervalo de tiempo $t, el centro de masa del sistema se mueve una 
+distancia 
+1
+2(x1  x2). Ya que la fuerza aplicada en el sistema es constante, la aceleración de su centro de masa es constante y 
+el centro de masa se modela como una partícula bajo aceleración constante.
+Analizar Se aplica el teorema impulso–cantidad de movimiento al sistema de dos bloques, y se reconoce que la fuerza F 
+es constante durante el intervalo $t mientras se aplica la fuerza.
+Escriba la ecuación 9.40 para el sistema: 1) F ¢t
+12m 21 vCM 02 2mvCM
+Ya que el centro de masa se modela como una partícula bajo aceleración constante, la velocidad promedio del centro de 
+masa es el promedio de la velocidad inicial, que es cero, y la velocidad final vCM.
+Exprese el intervalo de tiempo en términos de vCM: ¢t
+1
+2 1x1 x2 2
+vCM, prom
+1
+2
+1x1 x2 2
+1
+2
+10 vCM 2
+1x1 x2 2
+vCM
+Sustituya esta expresión en la ecuación 1): F 
+1x1 x2 2
+vCM
+2mvCM
+Resuelva para vCM: vCM  F 
+1x1 x2 2
+2m
+B) Encuentre la energía total del sistema asociada con la vibración relativa a su centro de masa después de que se retira la 
+fuerza F.
+SOLUCIÓN
+Analizar La energía de vibración es toda la energía del sistema, distinta de la energía cinética asociada con el movimiento 
+traslacional del centro de masa. Para encontrar la energía vibratoria, se aplica la ecuación de conservación de la energía. 
+La energía cinética del sistema se puede expresar como K  K
+CM  Kvib, donde Kvib es la energía cinética de los bloques en 
+relación con el centro de masa debida a su vibración. La energía potencial del sistema es Uvib, que es la energía potencial 
+almacenada en el resorte cuando la separación de los bloques es algún valor distinto de L.
+Exprese la ecuación 8.2 para este sistema: 2) ¢KCM ¢Kvib ¢Uvib W
+4 El ejemplo 9.15 fue inspirado en parte por C. E. Mungan, “A primer on work–energy relationships for introductory physics”, The Physics Teacher, 
+43 p. 10, 2005.
+mm
+a)
+b)
+L
+F
+x2x1
+m m
+Figura 9.22 (Ejemplo 9.15) a) Dos 
+bloques de igual masa se conectan 
+mediante un resorte. b) El bloque 
+izquierdo se empuja con una fuerza 
+constante de magnitud F y se mueve 
+una distancia x
+1 durante cierto 
+intervalo de tiempo. Durante este 
+mismo intervalo, el bloque derecho 
+se mueve una distancia x
+2.
+
+Exprese la ecuación 2) en una forma alternativa y note 
+que Kvib  Uvib  Evib:
+Los valores iniciales de la energía cinética del centro de 
+masa y la energía vibratoria del sistema son cero:
+Resuelva para la energía vibratoria y use el resultado 
+en el inciso A):
+Finalizar Ninguna de las dos respuestas en este ejemplo depende de la longitud del resorte, la constante del resorte o el 
+intervalo de tiempo. Note también que la magnitud x
+1 del desplazamiento del punto de aplicación de la fuerza aplicada 
+es diferente de la magnitud 1
+2(x1  x2) del desplazamiento del centro de masa del sistema. Esta diferencia recuerda que el 
+desplazamiento en la definición del trabajo es la del punto de aplicación de la fuerza.
+9.8 Propulsión de cohetes
+Cuando los vehículos ordinarios como los automóviles se impulsan, la fuerza impulsora 
+para el movimiento es la fricción. En el caso del automóvil, la fuerza impulsora es la fuerza 
+que ejerce el camino sobre el auto. Sin embargo, un cohete que se mueve en el espacio no 
+tiene camino contra el cual empujar. Por lo tanto, la fuente de la propulsión de un cohete 
+debe ser algo distinto de la fricción. La operación de un cohete depende de la ley de con-
+servación de la cantidad de movimiento lineal como se aplica a un sistema de partículas, 
+donde el sistema es el cohete más su combustible expulsado.
+La propulsión de cohetes es comprensible al considerar primero al arquero que está 
+de pie sobre hielo sin fricción, en el ejemplo 9.1. Imagine que el arquero dispara varias 
+flechas horizontalmente. Por cada flecha disparada, el arquero recibe una cantidad de mo-
+vimiento compensatoria en la dirección opuesta. Mientras más flechas dispare, el arquero 
+se mueve cada más rápido a través del hielo.
+En forma similar, conforme un cohete se mueve en el espacio libre, su cantidad de 
+movimiento lineal cambia cuando una parte de su masa se expulsa en la forma de gases de 
+escape. Ya que a los gases se les da cantidad de movimiento cuando se expulsan del motor, 
+el cohete recibe una cantidad de movimiento compensatoria en la dirección opuesta. Por 
+lo tanto, el cohete se acelera como resultado del “empujón”, o empuje, de los gases de 
+escape. En el espacio libre, el centro de masa del sistema (cohete más gases expulsados) 
+se mueve uniformemente, independiente del proceso de propulsión.
+5
+Suponga que en algún tiempo t la magnitud de la cantidad de movimiento de un cohete 
+más su combustible es ( M  $m)v, donde v es la rapidez del cohete en relación con la  
+Tierra (figura 9.23a). En un intervalo de tiempo breve $t, el cohete expulsa combustible 
+de masa $ m. Al final de este intervalo, la masa del cohete es M y su rapidez es v   $v, 
+donde $v es el cambio en rapidez del cohete (figura 9.23b). Si el combustible se expulsa 
+con una rapidez v
+e en relación con el cohete (el subíndice e representa escape y ve usual-
+mente se llama rapidez de escape), la velocidad del combustible relativa a la Tierra es v  ve . 
+Si la cantidad de movimiento inicial total del sistema se iguala a la cantidad de movimiento 
+final total, se obtiene
+1M
+¢m2vM 1v ¢v 2 ¢m 1vv e 2
+Al simplificar esta expresión se obtiene
+M$v  ve $m
+Si ahora se toma el límite conforme $t tiende a cero, se tiene $v 3 dv y $m 3 dm. Ade-
+más, el aumento en la masa de escape dm corresponde a una igual disminución en la masa 
+Figura 9.23 Propulsión de 
+cohete. a) La masa inicial  
+del cohete más todo su 
+combustible es M  $m en un 
+tiempo t, y su rapidez es v. b) En 
+un tiempo t  $t, la masa del 
+cohete se redujo a M y se expulsó 
+una cantidad de combustible $m. 
+La rapidez del cohete aumenta 
+por una cantidad $v.
+La fuerza del dispositivo manual 
+impulsado por nitrógeno 
+permite a un astronauta moverse 
+libremente en el espacio sin 
+correas restrictivas, con el uso de 
+la fuerza de empuje proveniente 
+del nitrógeno expulsado.
+5 El cohete y el arquero representan casos del inverso de una colisión perfectamente inelástica: la cantidad 
+de movimiento se conserva, pero la energía cinética del sistema cohete–gas expulsado aumenta (a costa de 
+energía potencial química en el combustible), como lo hace la energía cinética del sistema arquero–flecha 
+(a costa de energía potencial de las comidas previas del arquero).
+Cortesía de NASA
+ Sección 9.8  Propulsión de cohetes  255
+¢KCM ¢Evib W
+KCM Evib W Fx1
+Evib Fx1 KCM Fx1
+1
+2 12m 2vCM 2  F 
+1x1 x2 2
+2
+a)
+b)
+M + m
+pi = (M + m)v
+M
+m
+v
+v + v
+$
+$
+$
+$
+
+del cohete, así que dm  dM. Note que dM es negativo porque representa una disminu-
+ción en masa, de modo que dM es un número positivo. Al usar este hecho se obtiene
+ Md v ve dm v e dM  (9.42)
+Ahora divida la ecuación entre M e integre, tomando la masa inicial del cohete más com-
+bustible como Mi y la masa final del cohete más su combustible restante como Mf. El 
+resultado es
+ vf vi ve ln a Mi
+Mf
+b
+vf
+vi
+dv v e
+Mf
+Mi
+dM
+M
+ (9.43)
+que es la expresión básica para la propulsión de cohetes. Primero, la ecuación 9.43  
+ 
+señala que el aumento en la rapidez del cohete es proporcional a la rapidez de escape ve  
+de los gases expulsados. Por lo tanto, la rapidez de escape debe ser muy alta. Segundo, el 
+aumento en la rapidez del cohete es proporcional al logaritmo natural de la proporción 
+M
+iMf. En consecuencia, esta proporción debe ser tan grande como sea posible, es decir, la 
+masa del cohete sin combustible debe ser tan pequeña como sea posible y el cohete debe 
+llevar tanto combustible como sea posible.
+El empuje en el cohete es la fuerza que ejercen sobre él los gases de escape expulsados. 
+A partir de la segunda ley de Newton y de la ecuación 9.42 se obtiene la siguiente expresión 
+para el empuje:
+ Empuje
+M dv
+dt ` ve
+dM
+dt `  (9.44)
+Esta expresión muestra que el empuje aumenta conforme la rapidez de escape aumenta y 
+conforme aumenta la relación de cambio de masa (llamada rapidez de consumo).
+EJEMPLO 9.16 Combate de incendios
+Dos bomberos deben aplicar una fuerza total de 600 N para estabilizar una manguera que descarga agua a una proporción 
+de 3 600 Lmin. Estime la rapidez del agua conforme sale de la boquilla.
+SOLUCIÓN
+Conceptualizar Conforme el agua sale de la boquilla, actúa en una forma similar a los gases que se expulsan del motor 
+de un cohete. Como resultado, una fuerza (empuje) actúa sobre los bomberos en una dirección opuesta a la dirección de 
+movimiento del agua. En este caso se quiere que el extremo de la manguera sea una partícula en equilibrio, en lugar de que 
+acelere como en el caso del cohete. En consecuencia, los bomberos deben aplicar una fuerza de magnitud igual al em- 
+puje en la dirección opuesta para mantener fijo el extremo de la manguera.
+Categorizar Este ejemplo es un problema de sustitución en el que se usan valores conocidos en una ecuación deducida 
+en esta sección. El agua sale a 3 600 L min, que es 60 Ls. Al saber que 1 L de agua tiene una masa de 1 kg, se estima que 
+aproximadamente 60 kg de agua salen de la boquilla cada segundo.
+Use la ecuación 9.44 para el empuje: Empuje
+` ve
+dM
+dt `
+Sustituya los valores conocidos: 600 N 00ve 160 kg>s 2
+Resuelva para la rapidez de escape: ve 10 m>s
+Expresión para 
+propulsión de c
+ohete
+0
+256 Capítulo 9  Cantidad de movimiento lineal y colisiones
+
+EJEMPLO 9.17 Un cohete en el espacio
+Un cohete que se mueve en el espacio, lejos de todos los otros objetos, tiene una rapidez de 3.0  103 ms en relación con 
+la Tierra. Sus motores se encienden y el combustible se expulsa en una dirección opuesta al movimiento del cohete con una 
+rapidez de 5.0  103 ms en relación con el cohete.
+A) ¿Cuál es la rapidez del cohete en relación con la Tierra una vez que la masa del cohete se reduce a la mitad de su masa 
+antes de la ignición?
+SOLUCIÓN
+Conceptualizar A partir de la discusión en esta sección y las escenas de las películas de ciencia ficción, uno puede imaginar 
+fácilmente el cohete acelerando a una mayor rapidez conforme el motor funciona.
+Categorizar Este es un problema de sustitución en el que se usan los valores conocidos en la ecuación deducida en esta 
+sección.
+Resuelva la ecuación 9.43 para la velocidad final y 
+sustituya los valores conocidos:
+B) ¿Cuál es el empuje sobre el cohete si quema combustible en una proporción de 50 kgs?
+SOLUCIÓN
+Use la ecuación 9.44 y el resultado del inciso A), y 
+note que dMdt  50 kgs:
+6.5 10 3 m>s
+3.0 10 3 m>s 15.0 10 3 m>s 2ln a Mi
+0.5Mi
+b
+vf vi ve ln a Mi
+Mf
+b
+Empuje ` ve
+dM
+dt `1 5.0 10 3 m>s 21 50 kg>s 2 2.5 10 5 N
+ Sección 9.8  Propulsión de cohetes  257
+
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+El vector de posición del centro de masa de un objeto extendido se 
+obtiene a partir de la expresión integral
+ r
+S
+CM
+1
+M r
+S
+ dm  (9.34)
+La velocidad del centro de masa para un sistema de partículas es
+ v
+S
+CM
+i
+miv
+S
+i
+M  (9.35)
+La cantidad de movimiento total de un sistema de partículas es igual 
+a la masa total multiplicada por la velocidad del centro de masa.
+La segunda ley de Newton aplicada a un sis-
+tema de partículas es
+ 
+F
+S
+ext M a
+S
+CM  (9.39)
+donde a
+S
+CM es la aceleración del centro de 
+masa y la suma es sobre todas las fuerzas 
+externas. El centro de masa se mueve como 
+una partícula imaginaria de masa M bajo la 
+influencia de la fuerza externa resultante  
+en el sistema.
+CONCEPTOS Y PRINCIPIOS
+La cantidad de movimiento lineal p
+S
+ de  
+una partícula de masa m que se mueve con una  
+velocidad v
+S
+ es
+ p
+S
+mv
+S
+ (9.2)
+El impulso que se imparte a una partícula mediante una fuerza 
+neta  F
+S
+ es igual a la integral en el tiempo de la fuerza:
+ I
+S
+tf
+ti
+ F
+S
+dt  (9.9)
+En una colisión inelástica no se conserva la ener-
+gía cinética total del sistema de partículas en co-
+lisión. En una colisión perfectamente inelástica 
+las partículas en colisión quedan unidas después 
+de la colisión. En una colisión elástica se conser-
+va la energía cinética del sistema.
+El vector de posición del centro de masa de un sistema de  
+partículas se define como
+ r
+S
+CM
+1
+M 
+i
+mi r
+S
+i  (9.31)
+donde M
+i
+mi  es la masa total del sistema y r
+S
+i es el vector 
+de posición de la i–ésima partícula.
+258 Capítulo 9  Cantidad de movimiento lineal y colisiones
+Sistema no aislado (cantidad de movimiento). 
+Si un sistema interactúa con su entorno en 
+el sentido de que hay una fuerza externa 
+sobre el sistema, el comportamiento del 
+sistema se describe mediante el teorema 
+impulso–cantidad de movimiento
+:
+ I
+S
+¢p
+S
+tot  (9.40)
+Sistema aislado (cantidad de movimiento). El principio de 
+conservación de cantidad de movimiento lineal
+ indica que la 
+cantidad de movimiento total de un sistema aislado (sin fuerzas 
+externas) se conserva sin importar la naturaleza de las fuerzas entre 
+los integrantes del sistema:
+ Mv
+S
+CM p
+S
+tot constante 1cuando F
+S
+ext 02  (9.41)
+En el caso de un sistema de dos partículas, este principio se expresa 
+como
+ p
+S
+1i p
+S
+2i p
+S
+1f p
+S
+2f  (9.5)
+El sistema puede ser aislado en términos de cantidad de movimiento 
+pero no aislado en términos de energía, como en el caso de colisiones 
+inelásticas.
+MODELO DE ANÁLISIS PARA RESOLVER PROBLEMAS
+Resumen
+DEFINICIONES
+Frontera
+del sistema
+El cambio en la cantidad 
+de movimiento total del 
+sistema es igual al impulso 
+total sobre el sistema.
+Impulso
+Cantidad de movimiento
+Cantidad de movimiento
+Frontera
+del sistema
+La cantidad de movimiento 
+total del sistema es constante.
+
+1. a) ¿Una fuerza neta mayor ejercida sobre un objeto, siempre 
+produce un cambio mayor en la cantidad de movimiento del 
+objeto, en comparación con una fuerza neta más pequeña? Ex-
+plique. b) ¿Una fuerza neta mayor siempre produce un cambio 
+mayor en energía cinética que una fuerza neta más pequeña? 
+Explique.
+ 2. O i) La cantidad de movimiento de cierto objeto se hace cua-
+tro veces más grande en magnitud. ¿En qué factor cambió su 
+energía cinética? a) 16,  b) 8,  c) 4,  d) 2,  e) 1.  ii) La energía 
+cinética de un objeto se hace cuatro veces mayor. ¿En qué 
+factor cambió la magnitud de su cantidad de movimiento?  
+a) 16, b) 8, c) 4, d) 2, e) 1.
+ 3. O i)  Si dos partículas tienen cantidades de movimiento iguales, 
+¿sus energías cinéticas son iguales? a) sí,  b) no,  c) si y sólo 
+si sus masas son iguales.  ii) Si dos partículas tienen energías 
+cinéticas iguales, ¿sus cantidades de movimiento son iguales?  
+a) sí,  b) no,  c) si y sólo si sus masas son iguales,  d) si y sólo si 
+sus masas y direcciones de movimiento son iguales.
+ 4. O  Dos partículas de diferentes masas parten del reposo. La 
+misma fuerza neta actúa en ambas mientras se mueven sobre 
+distancias iguales. i) ¿Cómo se comparan sus energías cinéticas 
+finales? a) La partícula de mayor masa tiene más energía ci-
+nética. b) La partícula de menor masa tiene más energía ciné- 
+tica. c) Las partículas tienen iguales energías cinéticas. d) 
+Cualquier partícula puede tener más energía cinética. ii) ¿De 
+qué modo se comparan las magnitudes de sus cantidades de 
+movimiento? a) La partícula de mayor masa tiene más can-
+tidad de movimiento. b) La partícula de menor masa tiene 
+más cantidad de movimiento. c) Las partículas tienen iguales 
+cantidades de movimiento. d) Cualquier partícula puede tener 
+más cantidad de movimiento.
+ 5. Mientras está en movimiento, una pelota de beisbol lanzada 
+porta energía cinética y cantidad de movimiento. a) ¿Porta una 
+fuerza que puede ejercer sobre cualquier objeto que golpee? 
+b) ¿La pelota de beisbol entrega más energía cinética al objeto 
+que golpea que la que portaba la bola inicialmente? c) ¿La 
+pelota de beisbol entrega al objeto que golpea más cantidad 
+de movimiento que la que porta la bola inicialmente? Explique 
+sus respuestas.
+ 6. O  Un balón de basquetbol se lanza hacia el aire, cae libremen-
+te y rebota en el suelo de madera. Desde el momento después 
+de que el jugador lo libera, hasta que la bola llega a la parte 
+superior de su rebote, ¿cuál es el sistema más pequeño para el 
+que se conserva la cantidad de movimiento? a) el balón, b) el 
+balón más el jugador, c) el balón más el suelo, d) el balón más 
+la Tierra, e) la cantidad de movimiento no se conserva.
+ 7. Una bomba, inicialmente en reposo, explota en muchos pe-
+dazos. a) ¿Se conserva la cantidad de movimiento lineal del 
+sistema? b) ¿Se conserva la energía cinética del sistema? Ex-
+plique.
+ 8. Usted está de pie perfectamente quieto y enseguida da un paso 
+hacia adelante. Antes del paso su cantidad de movimiento era 
+cero, pero después tiene cierta cantidad de movimiento. ¿En 
+este caso se viola el principio de conservación de cantidad de 
+movimiento?
+ 9. O Un gran camión distribuidor de estiércol rueda por un ca-
+mino vecinal. En una colisión perfectamente inelástica, un 
+pequeño auto deportivo choca el camión por detrás. i) ¿Cuál 
+vehículo experimenta un cambio en cantidad de movimien-
+to de mayor magnitud? a) El automóvil. b) El camión de es-
+tiércol. c) Los cambios de cantidad de movimiento son del 
+mismo tamaño. d) Podría ser cualquiera. ii) ¿Cuál vehículo 
+experimenta un mayor cambio en energía cinética? a) El au-
+tomóvil. b) El camión de estiércol. c) Los cambios de ener-
+gía cinética son del mismo tamaño. d) Podría ser cualquier  
+vehículo.
+ 10. Un tirador experimentado, con la culata del arma contra su 
+hombro, dispara un rifle mientras está de pie. Si la cantidad 
+de movimiento hacia adelante de una bala es la misma que la 
+cantidad de movimiento hacia atrás del arma, ¿por qué no es 
+tan peligroso ser golpeado por el arma que por la bala?
+ 11. O Una bola está suspendida mediante una cuerda que se une 
+a un punto fijo sobre un bloque de madera que está vertical. 
+La bola se jala hacia atrás, como se muestra en la figura P9.11, 
+y se libera. En el ensayo a), la bola rebota elásticamente a causa 
+del bloque. En el ensayo b), cinta de dos lados hace que la bola 
+se pegue al bloque. i) ¿En cuál caso, a) o b), la bola tiene más 
+probabilidad de derribar el bloque? O c) ¿no hay diferencia? O 
+d) ¿podría ser cualquier caso, dependiendo de otros factores? 
+ii) ¿En cuál caso, a) o b), hay un mayor aumento temporal de 
+temperatura en la bola y el trozo de madera adyacente? O c) 
+¿es la misma para ambos? O d) ¿no hay aumento de tempe-
+ratura?
+ 12. Un saltador de garrocha cae desde una altura de 6.0 m sobre 
+un colchón de espuma de caucho. ¿Puede calcular su rapidez 
+inmediatamente antes de llegar al colchón? ¿Puede calcular la 
+fuerza que ejerce el colchón sobre él? Explique.
+ 13. Dos estudiantes sostienen verticalmente una gran sábana. Un 
+tercer estudiante, que resulta ser el lanzador estrella del equi-
+po de beisbol de la escuela, lanza un huevo a la sábana. Expli-
+que por qué el huevo no se rompe cuando golpea la sábana, 
+sin importar su rapidez inicial. (Si intenta esta demostración, 
+asegúrese de que el lanzador golpee la sábana cerca de su 
+centro, y no permita que el huevo caiga al suelo después de 
+atraparlo.)
+ 14. O Usted está de pie sobre un trineo con forma de platillo, en 
+reposo, en medio de una pista de patinaje de hielo sin fricción. 
+Su compañero de laboratorio le lanza un pesado frisbee. Usted 
+realiza diferentes acciones en ensayos experimentales sucesi-
+vos. Clasifique las siguientes situaciones en orden de acuerdo 
+con su rapidez final, de mayor a menor. Si su rapidez final es  
+la misma en dos casos, déles igual clasificación. a) Atrapa el 
+frisbee y se queda con él. b) Atrapa el frisbee y lo lanza de regreso 
+a su compañero. c) Atrapa el frisbee y lo lanza a una tercera per-
+sona al lado en un ángulo recto. d) Falla la atrapada y apenas 
+toca al frisbee, de modo que continúa en su dirección original 
+más lentamente. e) Atrapa el frisbee y lo lanza de modo que se 
+mueve verticalmente hacia arriba sobre su cabeza. f) Atrapa 
+ Pr
+eguntas 259
+Figura P9.11
+L
+m
+V
+O indica pregunta complementaria.
+Preguntas
+
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+260 Capítulo 9  Cantidad de movimiento lineal y colisiones
+el frisbee mientras viene del sur, da la vuelta y lo lanza al norte 
+varias veces más rápido. g) Atrapa el frisbee y lo pone en reposo 
+sobre el hielo.
+ 15. Una persona equilibra una regleta en una posición horizontal 
+sobre los dedos índice extendidos. Lentamente junta los dos 
+dedos. La regleta permanece equilibrada y los dos dedos siem-
+pre unidos en la marca de 50 cm sin importar sus posiciones 
+originales. (¡Inténtelo!) Explique.
+ 16. O Mientras se ensambla un tren, una máquina de piso libera 
+un vagón de mercancías en movimiento en lo alto de un mon-
+tecillo. El vagón rueda suavemente y sin fricción. Los conmu-
+tadores están configurados para cambiarlo de vía a una pista 
+recta a nivel, donde se acopla con un vagón de plataforma de 
+menor masa, originalmente en reposo, de modo que los dos 
+vagones ruedan juntos sin fricción. Considere los dos vagones 
+como un sistema desde el momento de liberación del vagón de 
+mercancías hasta que ambos ruedan juntos. a) ¿Se conserva la 
+energía mecánica del sistema? b) ¿Se conserva la cantidad de 
+movimiento? A continuación, considere el proceso del vagón 
+de mercancías que gana rapidez conforme rueda por el monte-
+cillo. Para el vagón de mercancías y la Tierra como sistema, c) 
+¿se conserva la energía mecánica? d) ¿Se conserva la cantidad 
+de movimiento? Por último, considere los dos vagones como 
+un sistema a medida que el vagón de mercancías frena en el 
+proceso de acoplamiento. e) ¿Se conserva la energía mecánica 
+del sistema? f) ¿Se conserva la cantidad de movimiento?
+ 17. Un malabarista lanza tres bolas en un ciclo continuo. Cual-
+quier bola está en contacto con sus manos durante un quinto 
+del tiempo. Describa el movimiento del centro de masa de las 
+tres bolas. ¿Qué fuerza promedio ejerce el malabarista sobre 
+una bola mientras él la toca?
+ 18. ¿El centro de masa de un cohete en espacio libre acelera? Ex-
+plique. ¿La rapidez de un cohete puede superar la rapidez de 
+escape del combustible? Explique.
+ 19. Sobre el tema de las siguientes posiciones, establezca su propia 
+visión y argumente para apoyarla. a) La mejor teoría de mo-
+vimiento es que la fuerza causa aceleración. b) La verdadera 
+medida de la efectividad de una fuerza es el trabajo que reali-
+za, y la mejor teoría de movimiento es que el trabajo invertido 
+sobre un objeto cambia su energía. c) La verdadera medida 
+del efecto de una fuerza es el impulso, y la mejor teoría del 
+movimiento es que el impulso impartido a un objeto cambia 
+su cantidad de movimiento.
+4FDDJwO $BOUJEBEEFNPWJNJFOUPMJOFBMZTVDPOTFSWBDJwO
+ 1. Una partícula de 3.00 kg tiene una velocidad de (3.00
+iˆ  4.00jˆ)  
+ms. a) Encuentre las componentes x y y de su cantidad de 
+movimiento. b) Encuentre la magnitud y dirección de su can-
+tidad de movimiento.
+ 2. ; Un niño de 65.0 kg y su hermana de 40.0 kg, ambos con 
+patines, están frente a frente en reposo. La niña empuja duro 
+al niño y lo envía hacia atrás con velocidad de 2.90 m s hacia 
+el oeste. Ignore la fricción. a) Describa el movimiento conse-
+cutivo de la niña. b) ¿Cuánta energía química se convierte en 
+energía mecánica en los músculos de la niña? c) ¿La cantidad 
+de movimiento del sistema niño–niña se conserva en el pro-
+ceso de empujar? ¿Cómo puede ser, con fuerzas grandes en 
+acción? ¿Cómo puede ser, sin movimiento anticipado y con 
+mucho movimiento posterior?
+ 3. ¿Qué tan rápido puede poner en movimiento a la Tierra? 
+En particular, cuando salta recto hacia arriba tan alto como 
+puede, ¿cuál es el orden de magnitud de la máxima rapidez 
+de retroceso que le da a la Tierra? Modele la Tierra como
+ 
+un objeto perfectamente sólido. En su solución, establezca las 
+cantidades físicas que toma como datos y los valores que mide 
+o estima para ellos.
+ 4. 
+; Dos bloques de masas M y 3M se colocan sobre una super-
+ficie horizontal sin fricción. Un resorte ligero se ensambla a 
+uno de ellos, y los bloques se empujan juntos con el resorte 
+entre ellos (figura P9.4). Una cuerda que inicialmente man-
+tiene a los bloques juntos se quema; después de esto, el bloque 
+de masa 3 M se mueve hacia la derecha con una rapidez de 
+2.00 ms. a) ¿Cuál es la velocidad del bloque de masa M ? b) 
+Encuentre la energía potencial elástica original del sistema, 
+considerando M  0.350 kg. c) ¿La energía original está en el 
+resorte o en la cuerda? Explique su respuesta. d) ¿La cantidad 
+de movimiento del sistema se conserva en el proceso de rom-
+pimiento? ¿Cómo puede ser, con fuerzas grandes en acción? 
+¿Cómo puede ser, sin movimiento anticipado y mucho movi-
+miento posterior?
+Problemas
+Figura P9.4
+ 5. a) Una partícula de masa m se mueve con cantidad de movi-
+miento de magnitud p. Demuestre que la energía cinética de 
+la partícula está dada por K  p22m. b) Exprese la magnitud 
+de la cantidad de movimiento de la partícula en términos de 
+su energía cinética y masa.
+4FDDJwO*NQVMTPZDBOUJEBEEFNPWJNJFOUP
+ 6. 
+; Un amigo afirma que, en tanto tenga puesto su cinturón 
+de seguridad, puede sostener a un niño de 12.0 kg en una 
+v
+Después
+b)
+2.00 m/s
+M 3M
+Antes
+a)
+M 3M
+
+Problemas 261
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 8. Una bola de 0.150 kg de masa se deja caer desde el reposo a 
+una altura de 1.25 m. Rebota en el suelo para alcanzar una 
+altura de 0.960 m. ¿Qué impulso le da el piso a la bola?
+ 9. Una bola de acero de 3.00 kg golpea una pared con una ra-
+pidez de 10.0 m s en un ángulo de 60.0° con la super ficie.
+ 
+Rebota con la misma rapidez y ángulo (figura P9.9). Si la bola 
+está en contacto con la pared durante 0.200 s, ¿cuál es la fuerza 
+promedio que la pared ejerce sobre la bola?
+colisión frontal a 60 mi h con una pared de ladrillos en la 
+que el compartimiento de pasajeros del automóvil se detiene 
+en 0.050 0 s. ¿Esta afirmación es cierta? Explique por qué 
+experimentará una fuerza violenta durante la colisión, que 
+arrancará al niño de sus brazos. Evalúe el tamaño de esta 
+fuerza. (Un niño siempre debe estar en un asiento especial, 
+protegido con un cinturón de seguridad en el asiento trasero 
+de un automóvil.)
+ 7. En la figura P9.7 se muestra una curva fuerza–tiempo estima-
+da para una pelota de beisbol golpeada por un bat. A partir 
+de esta curva, determine a) el impulso entregado a la pelota,  
+b) la fuerza promedio ejercida sobre la pelota y c) la fuerza 
+máxima que se ejerce sobre la pelota.
+za, b) la velocidad final que logra la partícula si originalmente 
+está en reposo, c) su velocidad final si su velocidad original es 
+
+2.00 ms y d) la fuerza promedio ejercida sobre la partícula 
+durante el intervalo de tiempo entre 0 y 5.00 s.
+ 12. Una plataforma de fuer za es una herramienta que se usa para 
+analizar el rendimiento de los atletas al medir la fuerza vertical 
+que el atleta ejerce sobre el suelo como función del tiempo. 
+Desde el reposo, una atleta de 65.0 kg salta hacia la plataforma 
+desde una altura de 0.600 m. Mientras está en contacto con la 
+plataforma durante el intervalo de tiempo 0  t  0.800 s, la 
+fuerza que ejerce sobre ella se describe mediante la función
+   F  (9 200 N/s)t  (11 500 N/s
+2)t2
+  a) ¿Qué impulso recibió la atleta desde la plataforma? b) ¿Con 
+qué rapidez llegó a la plataforma? c) ¿Con qué rapidez la dejó? 
+d) ¿A qué altura saltó al dejar la plataforma?
+ 13. 
+; Un deslizador de masa m es libre de deslizarse a lo largo de 
+una pista de aire horizontal. Se empuja contra un lanzador en 
+un extremo de la pista. Modele el lanzador como un resorte 
+ligero con constante de fuerza k comprimido una distancia x. 
+El deslizador se libera desde el reposo. a) Muestre que el des- 
+lizador logra una rapidez de v  x(km)
+12. b) ¿Un deslizador 
+de mayor o menor masa logra una mayor rapidez? c) Demues-
+tre que el impulso impartido al deslizador está dado por la 
+expresión x(km)
+12. d) ¿Un impulso mayor se imparte a una 
+masa grande o pequeña? e) ¿Se invierte más trabajo sobre  
+una masa grande o pequeña?
+ 14. Agua cae sin salpicar con una rapidez de 0.250 Ls desde una 
+altura de 2.60 m en una cubeta de 0.750 kg sobre una báscula. 
+Si la cubeta originalmente está vacía, ¿qué lee la báscula 3.00 
+s después de que el agua comienza a acumularse en ella?
+4FDDJwO$PMJTJPOFTFOVOBEJNFOTJwO
+ 15. Una bala de 10.0 g se dispara en un bloque de madera fijo  
+ 
+(m  5.00 kg). La bala se incrusta en el bloque. La rapidez de 
+la combinación bala más madera inmediatamente después  
+de la colisión es 0.600 m s. ¿Cuál fue la rapidez original de 
+la bala?
+ 16. Un vagón de ferrocarril de 2.50  104 kg de masa se mueve 
+con una rapidez de 4.00 ms. Choca y se acopla con otros tres 
+vagones acoplados, cada uno de la misma masa que el vagón 
+solo y se mueven en la misma dirección con una rapidez ini-
+cial de 2.00 ms. a) ¿Cuál es la rapidez de los cuatro vagones 
+inmediatamente después de la colisión? b) ¿Cuánta energía se 
+transforma en energía interna en la colisión?
+ 17. 
+; Cuatro vagones, cada uno de 2.50  104 kg de masa, se aco-
+plan y avanzan a lo largo de pistas horizontales con rapidez vi 
+hacia el sur. Un actor de cine muy fuerte, que viaja en el segun-
+do vagón, desacopla el vagón frontal y le da un gran empujón, 
+lo que aumenta su rapidez a 4.00 ms hacia el sur. Los tres vago-
+nes restantes continúan moviéndose hacia el sur, ahora a 2.00 
+ms. a) Encuentre la rapidez inicial de los vagones. b) ¿Cuánto 
+trabajo hizo el actor? c) Establezca la correspondencia entre el 
+proceso descrito aquí y el proceso del problema 16.
+ 18. Como se muestra en la figura P9.18 (página 262), una bala de 
+masa m y rapidez v atraviesa la esfera de un péndulo de masa 
+M. La bala sale con una rapidez de v2. La esfera del péndulo 
+está suspendida mediante una barra rígida de longitud  y 
+masa despreciable. ¿Cuál es el valor mínimo de v tal que la  
+esfera del péndulo apenas se balanceará para lograr un círculo 
+vertical completo?
+Figura P9.7
+Figura P9.9
+Figura P9.11
+ 10. Un jugador de tenis recibe un tiro con la bola (0.060 0 kg) que 
+viaja horizontalmente a 50.0 m s y regresa el tiro con la bola 
+viajando horizontalmente a 40.0 ms en la dirección opuesta. 
+a) ¿Cuál es el impulso que la raqueta de tenis entrega a la bola? 
+b) ¿Qué trabajo realiza la raqueta sobre la bola?
+ 11. La magnitud de la fuerza neta que se ejerce en la dirección 
+x sobre una partícula de 2.50 kg varía en el tiempo como se 
+muestra en la figura P9.11. Encuentre: a) el impulso de la fuer-
+F (N) F  =  18 000 N
+20 000
+10 000
+01 2 3 t (ms)
+60.0˚
+x
+y
+60.0˚
+F (N)
+t (s)
+4
+2
+3
+1
+02 3 4 51
+
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+262 Capítulo 9  Cantidad de movimiento lineal y colisiones
+ 19.  Dos bloques son libres de deslizarse a lo largo de la pista de 
+madera sin fricción ABC, que se muestra en la figura P9.19. El 
+bloque de masa m
+1  5.00 kg se libera desde A. De su extremo 
+frontal sobresale el polo norte de un poderoso imán, que repe-
+le el polo norte de un imán idéntico incrustado en el extremo 
+posterior del bloque de masa m
+2  10.0 kg, inicialmente en  
+reposo. Los dos bloques nunca se tocan. Calcule la altura máxi-
+ma a la que se eleva m
+1 después de la colisión elástica.
+ 23. Un neutrón en un reactor nuclear hace una colisión frontal 
+elástica con el núcleo de un átomo de carbono inicialmente en 
+reposo. a) ¿Qué fracción de la energía cinética del neutrón se 
+transfiere al núcleo de carbono? b) La energía cinética inicial 
+del neutrón es 1.60  10
+13 J. Encuentre su energía cinética 
+final y la energía cinética del núcleo de carbono después de la 
+colisión. (La masa del núcleo de carbono es casi 12.0 veces  
+la masa del neutrón.)
+ 24.
+  ; a) Tres carros de masas 4.00 kg, 10.0 kg y 3.00 kg, se mue-
+ven sobre una pista horizontal sin fricción con magnitudes de 
+velocidad de 5.00 m s, 3.00 ms y 4.00 m s, como se muestra 
+en la figura P9.24. Acopladores de velcro hacen que los carros 
+queden unidos después de chocar. Encuentre la velocidad 
+final del tren de tres carros. b) ¿Qué pasaría si? ¿Su respuesta 
+requiere que todos los carros choquen y se unan en el mismo 
+momento? ¿Qué sucedería si chocan en diferente orden?
+Figura P9.18
+Figura P9.19
+ 20.  Una pelota de tenis de 57.0 g de masa se sostiene justo arriba 
+de un balón de basquetbol de 590 g de masa. Con sus centros 
+verticalmente alineados, ambos se liberan desde el reposo en el 
+mismo momento, para caer una distancia de 1.20 m, como se 
+muestra en la figura P9.20. a) Encuentre la magnitud de la velo-
+cidad hacia abajo con la que el balón llega al suelo. Suponga una 
+colisión elástica con el suelo que instantáneamente invierte la 
+velocidad del balón mientras la pelota de tenis aún se mueve 
+hacia abajo. A continuación, las dos bolas se encuentran en una 
+colisión elástica. b) ¿A qué altura rebota la pelota de tenis?
+Figura P9.20
+ 21. Una niña de 45.0 kg está de pie sobre una tabla que tiene una 
+masa de 150 kg. La tabla, originalmente en reposo, es libre de des- 
+lizarse sobre un lago congelado que constituye una superficie 
+de soporte plana y sin fricción. La niña comienza a caminar a 
+lo largo de la tabla con una velocidad constante de 1.50
+iˆ ms 
+en relación con la tabla. a) ¿Cuál es su velocidad en relación  
+con la superficie de hielo? b) ¿Cuál es la velocidad de la tabla 
+en relación con la superficie del hielo?
+ 22.
+  Una bala de 7.00 g, cuando se dispara desde un arma en un 
+bloque de madera de 1.00 kg sostenido en un tornillo de 
+banco, penetra el bloque a una profundidad de 8.00 cm. Este 
+bloque de madera se coloca sobre una superficie horizontal 
+sin fricción, y una segunda bala de 7.00 g se dispara desde el 
+arma en el bloque. En este caso, ¿a qué profundidad penetra 
+la bala en el bloque?
+Figura P9.24
+ 25.  Una porción de arcilla pegajosa de 12.0 g es arrojada horizon-
+talmente a un bloque de madera de 100 g al inicio en reposo 
+sobre una superficie horizontal. La arcilla se pega al bloque. 
+Después del impacto, el bloque se desliza 7.50 m antes de lle-
+gar al reposo. Si el coeficiente de fricción entre el bloque y la 
+superficie es 0.650, ¿cuál fue la rapidez de la masilla inmedia-
+tamente antes del impacto?
+4FDDJwO$PMJTJPOFTFOEPTEJNFOTJPOFT
+ 26.
+  ; En un juego de futbol americano, un corredor de 90.0 kg 
+que corre al este con una rapidez de 5.00 ms es detenido por 
+un oponente de 95.0 kg que corre al norte con una rapidez 
+de 3.00 ms. a) Explique por qué la tacleada exitosa constituye 
+una colisión perfectamente inelástica. b) Calcule la veloci-
+dad de los jugadores inmediatamente después de la tacleada.  
+c) Determine la energía mecánica que desaparece como resul-
+tado de la colisión. Explique la energía perdida.
+ 27.
+  Una bola de billar que se mueve a 5.00 ms golpea una bola fija 
+de la misma masa. Después de la colisión, la primera bola se 
+mueve, a 4.33 ms, en un ángulo de 30.0° respecto de la línea 
+de movimiento original. Si supone una colisión elástica (e 
+ignora la fricción y el movimiento rotacional), encuentre la 
+velocidad de la bola golpeada después de la colisión.
+ 28. 
+; Dos automóviles de igual masa se aproximan a una inter-
+sección. Un vehículo viaja con velocidad de 13.0 ms hacia el 
+este y el otro viaja al norte con rapidez v
+2i. Ningún conductor 
+ve al otro. Los vehículos chocan en la intersección y quedan 
+unidos, dejando marcas de derrape paralelas a un ángulo de 
+55.0° al noreste. La rapidez límite para ambos caminos es de 35 
+mih y el conductor del vehículo que se movía al norte afirma 
+que él estaba dentro del límite de rapidez cuando ocurrió la 
+colisión. ¿Dice la verdad? Explique su razonamiento.
+ 29. Dos discos de juego de tejo, de igual masa, uno anaranjado y el 
+otro amarillo, están involucrados en una colisión oblicua elásti-
+ca. El disco amarillo inicialmente está en reposo y es golpeado 
+por el disco anaranjado que se mueve con una rapidez de 5.00 
+ms. Después de la colisión, el disco anaranjado se mueve a lo 
+Mm
+
+v v/2
+A m1
+m2
+BC
+5.00 m
+5.00 m/s 3.00 m/s –4.00 m/s
+10.0 kg4.00 kg 3.00 kg
+
+Problemas 263
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+largo de una dirección que forma un ángulo de 37.0° con su 
+dirección de movimiento inicial. Las velocidades de los dos 
+discos son perpendiculares después de la colisión. Determine 
+la rapidez final de cada disco.
+ 30.  Dos discos de juego de tejo, de igual masa, uno anaranjado y 
+el otro amarillo, están involucrados en una colisión oblicua 
+elástica. El disco amarillo inicialmente está en reposo y es gol-
+peado por el disco anaranjado que se mueve con rapidez v
+i. 
+Después de la colisión, el disco anaranjado se mueve a lo largo  
+de una dirección que forma un ángulo V con su dirección de 
+movimiento inicial. Las velocidades de los dos discos son per-
+pendiculares después de la colisión. Determine la rapidez final 
+de cada disco.
+ 31. Un objeto de 3.00 kg de masa, que se mueve con una velocidad 
+inicial de 5.00
+iˆ ms, choca y se une a un objeto de 2.00 kg de 
+masa con una velocidad inicial de 3.00 jˆ ms. Encuentre la 
+velocidad final del objeto compuesto.
+ 32.  Dos partículas con masas m y 3m se mueven una hacia la otra a 
+lo largo del eje x con la misma rapidez inicial vi. La partícula m 
+viaja hacia la izquierda y la partícula 3m viaja hacia la derecha. 
+Se someten a una colisión oblicua elástica tal que la partícula 
+m se mueve hacia abajo después de la colisión en ángulo recto 
+desde su dirección inicial. a) Encuentre las magnitudes de ve-
+locidad finales de las dos partículas. b) ¿Cuál es el ángulo V al 
+que se fuga la partícula 3m?
+ 33.  Un núcleo atómico inestable de 17.0  1027 kg de masa, ini-
+cialmente en reposo, se desintegra en tres partículas. Una de 
+las partículas, de 5.00  10
+27 kg de masa, se mueve en la 
+dirección y con una rapidez de 6.00  106 ms. Otra partícula, 
+de 8.40  1027 kg de masa, se mueve en la dirección x con 
+una rapidez de 4.00  10 6 ms. Encuentre a) la velocidad de 
+la tercera partícula y b) el aumento de energía cinética en el 
+proceso.
+ 34.  La masa del disco azul en la figura P9.34 es 20.0% mayor que la 
+masa del disco verde. Antes de chocar, los discos se aproximan 
+mutuamente con cantidades de movimiento de igual magni-
+tud y direcciones opuestas, y el disco verde tiene una rapidez 
+inicial de 10.0 ms. Encuentre la rapidez que tiene cada disco 
+después de la colisión, si la mitad de la energía cinética del 
+sistema se convierte en energía interna durante la colisión.
+ 38.  a) Considere un objeto extendido cuyas diferentes porciones 
+tienen distintas elevaciones. Suponga que la aceleración en 
+caída libe es uniforme sobre el objeto. Pruebe que la energía 
+potencial gravitacional del sistema objeto–Tierra está dada por 
+U
+g  MgyCM, donde M es la masa total del objeto y yCM es la 
+elevación de su centro de masa sobre el nivel de referencia 
+elegido. b) Calcule la energía potencial gravitacional asociada 
+con una rampa construida con piedra a nivel del suelo con  
+3 800 kgm
+3 de densidad y ancho de 3.60 m en todas partes. En 
+una vista lateral, la rampa parece un triángulo rectángulo con 
+15.7 m de altura en la cima y 64.8 m de base (figura P9.38).
+Figura P9.34
+4FDDJwO&MDFOUSPEFNBTB
+ 35. Cuatro objetos se sitúan a lo largo del eje y del modo siguiente: 
+un objeto de 2.00 kg se ubica a 3.00 m, un objeto de 3.00 
+kg está a 2.50 m, un objeto de 2.50 kg está en el origen y un 
+objeto de 4.00 kg está en 0.500 m. ¿Dónde está el centro de 
+masa de estos objetos?
+ 36. La masa de la Tierra es 5.98  1024 kg, y la masa de la Luna 
+es 7.36   1022 kg. La distancia de separación, medida entre 
+sus centros, es 3.84  108 m. Localice el centro de masa del 
+sistema Tierra–Luna, medido desde el centro de la Tierra.
+ 37.  A una pieza uniforme de hoja de acero se le da la forma como 
+se muestra en la figura P9.37. Calcule las coordenadas x y y del 
+centro de masa de la pieza.
+Figura P9.37
+Figura P9.38
+Figura P9.40
+ 39.  Una barra de 30.0 cm de longitud tiene densidad lineal (masa 
+por longitud) dada por
+M  50.0 gm  20.0x gm2
+  donde x es la distancia desde un extremo, medida en metros. 
+a) ¿Cuál es la masa de la barra? b) ¿A qué distancia del extremo 
+x  0 está su centro de masa?
+ 40.
+  En los Juegos Olímpicos de verano de 1968, el saltador de altu-
+ra de la Universidad de Oregon, Dick Fosbury, introdujo una 
+nueva técnica de salto de altura llamada “salto Fosbury”. Así 
+elevó el récord mundial por casi 30 cm y actualmente lo usan 
+casi todos los saltadores de clase mundial. En esta técnica, el 
+saltador pasa sobre la barra con la cara hacia arriba mientras 
+arquea su espalda tanto como sea posible, como se muestra en 
+la figura P9.40a. Esta acción coloca su centro de masa fuera 
+de su cuerpo, bajo su espalda. Conforme su cuerpo pasa sobre 
+la barra, su centro de masa pasa por abajo de la barra. Ya que 
+una entrada de energía dada implica cierta elevación para su 
+centro de masa, la acción de arquear la espalda significa que 
+y (cm)
+x (cm)
+30
+20
+10
+10 20 30
+30.0˚
+30.0˚
+90
+b)
+a)
+© Eye Ubiquitous/CORBIS
+
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+264 Capítulo 9  Cantidad de movimiento lineal y colisiones
+su cuerpo está más alto que si su espalda estuviese recta. Como 
+modelo, considere que el saltador es una barra delgada uni-
+forme de longitud L. Cuando la barra está recta, su centro de 
+masa está en su centro. Ahora doble la barra en un arco cir-
+cular de modo que subtienda un ángulo de 90.0° en el centro 
+del arco, como se muestra en la figura P9.40b. En esta confi-
+guración, ¿a qué distancia, afuera de la barra, está el centro de 
+masa?
+4FDDJwO.PWJNJFOUPEFVOTJTUFNBEFQBSUrDVMBT
+ 41. Una partícula de 2.00 kg tiene una velocidad (2.00
+iˆ  3.00 jˆ) 
+ms, y una partícula de 3.00 kg tiene una velocidad (1.00 iˆ  
+6.00 jˆ) ms. Encuentre a) la velocidad del centro de masa y b) 
+la cantidad de movimiento total del sistema.
+ 42.  El vector de posición de una partícula de 3.50 g que se mueve 
+en el plano xy varía en el tiempo de acuerdo con r
+S
+1  (3iˆ   
+3 jˆ)t  2jˆt2. Al mismo tiempo, el vector de posición de una par-
+tícula de 5.50 g varía como r
+S
+2  3iˆ  2iˆt2  6jˆt, donde t está en 
+s y r en cm. En t  2.50 s, determine: a) el vector de posición 
+del centro de masa, b) la cantidad de movimiento lineal del 
+sistema, c) la velocidad del centro de masa, d) la aceleración 
+del centro de masa y e) la fuerza neta que se ejerce sobre el 
+sistema de dos partículas.
+ 43.  Romeo (77.0 kg) entretiene a Julieta (55.0 kg) al tocar su 
+guitarra desde la parte trasera de su bote en reposo sobre 
+agua calma, a 2.70 m de Julieta, quien está enfrente del bote. 
+Después de la serenata, Julieta se mueve con cuidado hacia la 
+parte trasera del bote (alejándose de la playa) para plantar un 
+beso en la mejilla de Romeo. ¿Cuánto se mueve el bote de 80.0 
+kg hacia la playa que está enfrente?
+ 44.  Una bola de 0.200 kg de masa tiene una velocidad de 1.50 iˆ  
+ms; una bola de 0.300 kg de masa tiene una velocidad de 
+0.400iˆ ms. Se encuentran en una colisión frontal elástica.  
+a) Halle sus velocidades después de la colisión. b) Halle la velo-
+cidad de su centro de masa antes y después de la colisión.
+4FDDJwO4JTUFNBTEFGPSNBCMFT
+ 45. 
+; Para un proyecto de tecnología, un estudiante construyó un 
+vehículo, de 6.00 kg de masa total, que se mueve por sí solo. 
+Como se muestra en la figura P9.45, corre sobre dos orugas 
+ligeras que pasan alrededor de cuatro ruedas ligeras. Un ca-
+rrete se acopla a uno de los ejes, y una cuerda originalmente 
+enrollada sobre el carrete pasa sobre una polea unida al ve- 
+hículo para soportar una carga elevada. Después de que el 
+vehículo se libera desde el reposo, la carga desciende lenta-
+mente, desenrolla la cuerda para girar el eje y hace que el  
+vehículo se mueva hacia adelante. La fricción es despreciable 
+en la polea y los cojinetes del eje. La oruga no se desliza sobre 
+las ruedas o el suelo. El carrete tiene una forma cónica de modo 
+que la carga desciende a una rapidez baja constante mientras 
+el vehículo se mueve horizontalmente a través del suelo con 
+aceleración constante, y alcanza velocidad final 3.00
+iˆ m s.  
+a) ¿El suelo imparte impulso al vehículo? Si es así, ¿cuánto?  
+b) ¿El suelo realiza trabajo sobre el vehículo? Si es así, ¿cuánto? 
+c) ¿Tiene sentido decir que la cantidad de movimiento final 
+del vehículo viene del suelo? Si no, ¿de dónde? d) ¿Tiene sen-
+tido decir que la energía cinética final del vehículo viene del 
+suelo? Si no, ¿de dónde? e) ¿Se puede decir que una fuerza 
+particular causa la aceleración hacia adelante del vehículo? 
+¿Qué la causa?
+ 46.  ; Una persona de 60.0 kg dobla sus rodillas y luego salta recto 
+hacia arriba. Después de que sus pies dejan el suelo, su movi-
+miento no es afectado por la resistencia del aire y su centro de 
+masa se eleva un máximo de 15.0 cm. Modele el suelo como 
+completamente sólido y sin movimiento. a) ¿El suelo impar-
+te impulso a la persona? b) ¿El suelo realiza trabajo sobre la 
+persona? c) ¿Con qué cantidad de movimiento deja el suelo 
+la persona? d) ¿Tiene sentido decir que esta cantidad de mo-
+vimiento viene del suelo? Explique. e) ¿Con qué energía ciné-
+tica deja el suelo la persona? f) ¿Tiene sentido decir que esta 
+energía proviene del suelo? Explique.
+ 47.  ; Una partícula está suspendida de un poste en lo alto de un 
+carro mediante una cuerda ligera de longitud L, como se 
+muestra en la figura P9.47a. El carro y la partícula inicialmen-
+te se mueven hacia la derecha con rapidez constante v
+i, con la 
+cuerda vertical. Súbitamente, el carro llega al reposo cuando 
+choca y se une a un amortiguador, como se muestra en la fi-
+gura P9.47b. La partícula suspendida se balancea a través de 
+un ángulo V. a) Demuestre que la rapidez original del carro se 
+calcula a partir de 
+vi .2gL 11 cos u2  b) Encuentre la ra-
+pidez inicial implicada por L  1.20 m y V  35.0°. c) ¿El amor-
+tiguador aún ejerce una fuerza horizontal en el carro cuando la 
+partícula colgante está en su ángulo máximo desde la vertical? 
+¿En qué momento del movimiento observable el amortiguador 
+deja de ejercer una fuerza horizontal en el carro?
+Figura P9.45
+Figura P9.47
+ 48.  Sobre una pista de aire horizontal, un deslizador de masa m 
+lleva un poste con forma de '. El poste soporta una pequeña 
+esfera densa, también de masa m, que cuelga justo arriba de lo 
+alto del deslizador en una cuerda de longitud L. El deslizador 
+y la esfera inicialmente están en reposo con la cuerda vertical. 
+(La figura P9.47a muestra un carro y una esfera igualmente 
+conectados.) Una fuerza horizontal constante, de magnitud 
+F, se aplica al deslizador, y lo mueve un desplazamiento x
+1; 
+después se quita la fuerza. Durante el intervalo de tiempo 
+cuando la fuerza se aplica, la esfera se mueve a través de un 
+desplazamiento con componente horizontal x
+2. a) Encuentre 
+la componente horizontal de la velocidad del centro de masa 
+L
+a)
+vi
+b)
+V
+
+Problemas 265
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+del sistema deslizador–esfera cuando la fuerza se retira. b) Des-
+pués de quitar la fuerza, el deslizador continúa moviéndose 
+sobre la pista y la esfera se balancea atrás y adelante, ambos sin 
+fricción. Encuentre una expresión para el mayor ángulo que 
+la cuerda forma con la vertical.
+ 49.
+  ; Sobre una banda transportadora cae arena desde una tolva 
+fija en una proporción de 5.00 kg s, como se muestra en la 
+figura P9.49. La banda transportadora está sostenida por rodi-
+llos sin fricción. Se mueve con una rapidez constante de 0.750 
+ms bajo la acción de una fuerza horizontal externa constante 
+F
+S
+ext que proporciona el motor que impulsa la banda. Encuen-
+tre: a) la relación de cambio de la cantidad de movimiento 
+de la arena en la dirección horizontal, b) la fuerza de fricción 
+ejercida por la banda sobre la arena, c) la fuerza externa 
+F
+S
+ext, 
+d) el trabajo invertido por F
+S
+ext en 1 s, y e) la energía cinética 
+adquirida por la arena que cae cada segundo debido al cambio 
+en su movimiento horizontal. f) ¿Por qué son diferentes las 
+respuestas en d) y e)?
+  b) Haga una gráfica de la velocidad del cohete como función 
+del tiempo para tiempos que van de 0 a 132 s. c) Demuestre 
+que la aceleración del cohete es
+a 1t 2 ve
+Tp t
+  d) Grafique la aceleración como función del tiempo. e) De-
+muestre que la posición del cohete es
+x 1t 2 ve 1Tp t 2ln a 1 t
+Tp
+b ve t
+  f) Grafique la posición durante la quema como función del 
+tiempo.
+ 53.  ; Un cohete en el espacio profundo será capaz de impulsar 
+una carga total (carga más armazón del cohete y motor) de 
+3.00 toneladas métricas a una rapidez de 10 000 ms. a) Tiene 
+un motor y combustible diseñados para producir una rapidez 
+de escape de 2 000 ms. ¿Cuánto combustible más oxidante se 
+requiere? b) Si un combustible y diseño de motor dieran una 
+rapidez de escape de 5 000 ms, ¿qué cantidad de combustible 
+y oxidante se requeriría para la misma tarea? Esta rapidez de 
+escape es 2.50 veces mayor que la del inciso a). Explique por 
+qué la masa del combustible requerido es 2.50 veces menor, o 
+mayor que eso, o incluso más pequeña.
+1SPCMFNBTBEJDJPOBMFT
+ 54.  Dos deslizadores se ponen en movimiento sobre una pista de 
+aire. Un resorte con constante de fuerza k se une al extre-
+mo posterior del segundo deslizador. El primer deslizador, de 
+masa m
+1, tiene velocidad v
+S
+1, y el segundo deslizador, de masa 
+m2, se mueve más lentamente, con velocidad v
+S
+2, como se mues-
+tra en la figura P9.54. Cuando m1 choca con el resorte unido 
+a m2 y comprime el resorte a su máxima compresión xmáx, la 
+velocidad de los deslizadores es v
+S
+. En términos de v
+S
+1, v
+S
+2, m1, m2 
+y k, encuentre a) la velocidad v
+S
+ en máxima compresión, b) la 
+máxima compresión xmáx y c) la velocidad de cada deslizador 
+después de que m1 pierde contacto con el resorte.
+Figura P9.49
+4FDDJwO1SPQVMTJwOEFDPIFUFT
+ 50. Los motores de cohete a escala se dimensionan por el empuje, 
+duración de empuje e impulso total, entre otras característi-
+cas. Un motor de cohete a escala tamaño C5 tiene un empuje 
+promedio de 5.26 N, una masa de combustible de 12.7 g y 
+una masa inicial de 25.5 g. La duración de su combustión es  
+1.90 s. a) ¿Cuál es la rapidez de escape promedio del motor? 
+b) Este motor se coloca en el cuerpo de un cohete de 53.5 g 
+de masa. ¿Cuál es la velocidad final del cohete si se dispara en 
+el espacio exterior? Suponga que el combustible se quema a 
+una proporción constante.
+ 51.  La primera etapa del vehículo espacial Saturno V  consumió 
+combustible y oxidante a la proporción de 1.50  104 kgs, 
+con una rapidez de escape de 2.60  103 ms. a) Calcule el 
+empuje producido por este motor. b) Encuentre la aceleración 
+que tiene el vehículo justo cuando despega de la plataforma 
+de lanzamiento sobre la Tierra, si considera la masa inicial del 
+vehículo como 3.00  10
+6 kg. Nota: Debe incluir la fuerza gra-
+vitacional para resolver b).
+ 52.  Ciencia de cohetes. Un cohete tiene masa total Mi  360 kg, in-
+cluidos 330 kg de combustible y oxidante. En el espacio interes-
+telar, parte del reposo en la posición x  0, enciende su motor 
+en el tiempo t  0 y pone empuje con rapidez relativa v
+e  
+1 500 ms con la relación constante k  2.50 kgs. El combustible  
+durará un tiempo de quema real de 330 kg(2.5 kgs)  132 s, 
+pero defina un “tiempo de agotamiento proyectado” como 
+T
+p  Mik  360 kg(2.5 kgs)  144 s (que sería el tiempo de 
+quema si el cohete pudiera usar su carga y tanques de combus-
+tible, e incluso las paredes de la cámara de combustión como 
+combustible). a) Demuestre que, durante la quema, la veloci-
+dad del cohete como función del tiempo se conoce por
+v 1t2 ve ln a 1 t
+Tp
+b
+Figura P9.54
+ 55.  Un astronauta de 80.0 kg da una caminata espacial para traba-
+jar en los motores de su nave, que va a la deriva por el espacio 
+con una velocidad constante. El astronauta, que quiere tener 
+una mejor vista del Universo, se empuja contra la nave y más 
+tarde se encuentra 30.0 m atrás de la nave. Sin un propulsor o 
+correa, la única forma de regresar a la nave es lanzar su llave 
+de 0.500 kg directamente lejos de la nave. Si lanza la llave con 
+una rapidez de 20.0 ms en relación con la nave, ¿después de 
+qué intervalo de tiempo el astronauta alcanza la nave?
+ 56.  ; Un envejecido actor de Hollywood (80.0 kg de masa) fue 
+clonado, pero la réplica genética dista de la perfección. El clon 
+tiene una masa diferente m, su presencia en el escenario es 
+v 
+1
+v 
+2
+m 
+1
+m 
+2
+k
+Fext
+0.750 m/s
+
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+266 Capítulo 9  Cantidad de movimiento lineal y colisiones
+deficiente y usa un lenguaje grosero. El clon, que sirve como 
+doble del actor, está de pie en la orilla de un risco de 36.0 m 
+de alto, junto a un árbol robusto. El actor está de pie en lo alto 
+de un Humvee, 1.80 m sobre el nivel del suelo, y sostiene una 
+soga tensa unida a la rama de un árbol directamente arriba 
+del clon. Cuando el director grita “acción”, el actor parte del 
+reposo y se balancea hacia abajo en la soga sin fricción. El actor 
+está momentáneamente oculto de la cámara en la parte baja 
+del arco, donde se somete a una colisión elástica frontal con 
+el clon, a quien envía al otro lado del risco. Maldiciendo, el 
+clon va en caída libre al océano. El actor es acusado por hacer 
+caer grotescamente al clon y a usted lo llaman como testigo 
+experto en el sensacional juicio. a) Encuentre la componente 
+horizontal R del desplazamiento del clon como dependiente 
+de m. Evalúe R b) para m  79.0 kg y c) para m  81.0 kg. 
+d) ¿Qué valor de m da un alcance de 30.0 m? e) ¿Cuál es el 
+valor máximo posible para R, y f) a qué valor de m corres-
+ponde? ¿Cuáles son g) los valores mínimos de R y h) el valor 
+correspondiente de m? i) Para el sistema actor–clon–Tierra, ¿la 
+energía mecánica se conserva en cada parte de la secuencia de 
+acción? ¿Este principio es suficiente para resolver el problema? 
+Explique. j) Para el mismo sistema, ¿se conserva la cantidad 
+de movimiento? Explique cómo se usa este principio. k) ¿Qué 
+pasaría si? Demuestre que R no depende del valor de la ace-
+leración gravitacional. ¿Es notable este resultado? Establezca 
+cómo puede dar sentido a esto.
+ 57.  Se dispara una bala de masa m hacia un bloque de masa M 
+inicialmente en reposo en el borde de una mesa sin fricción 
+de altura h (figura P9.57). La bala permanece en el bloque y, 
+después de impactar el bloque, aterriza a una distancia d desde 
+la parte más baja de la mesa. Determine la rapidez inicial de la 
+bala.
+es la velocidad de la cuña después de que el bloque llega a la 
+superficie horizontal? b) ¿Cuál es la altura h de la cuña?
+ 59.  ; Una esfera de 0.500 kg, que se mueve con una velocidad 
+conocida por (2.00iˆ  3.00jˆ  1.00kˆ ) ms, golpea a otra esfera 
+de 1.50 kg de masa que se mueve con una velocidad inicial de  
+(1.00iˆ  2.00 jˆ  3.00kˆ ) ms. a) La velocidad de la esfera  
+de 0.500 kg después de la colisión está dada por ( 1.00iˆ  3.00jˆ  
+ 8.00kˆ ) ms. Encuentre la velocidad final de la esfera de 1.50 
+kg e identifique el tipo de colisión (elástica, inelástica o perfec-
+tamente inelástica). b) Ahora suponga que la velocidad de la 
+esfera de 0.500 kg después de la colisión es ( 0.250
+iˆ  0.750jˆ  
+ 2.00kˆ ) ms. Encuentre la velocidad final de la esfera de 1.50 
+kg e identifique el tipo de colisión. c) ¿Qué pasaría si? Tome la 
+velocidad de la esfera de 0.500 kg después de la colisión como  
+( 1.00iˆ  3.00jˆ  a kˆ ) ms. Encuentre el valor de a y la veloci-
+dad de la esfera de 1.50 kg después de una colisión elástica.
+ 60.  Un bombero de 75.0 kg se desliza hacia abajo en un poste 
+mientras una fuerza de fricción constante de 300 N retarda su 
+movimiento. Una plataforma horizontal de 20.0 kg está sopor-
+tada por un resorte en la parte baja del poste para amortiguar 
+la caída. El bombero parte del reposo 4.00 m arriba de la pla-
+taforma y la constante del resorte es 4 000 Nm. Encuentre a) 
+la rapidez del bombero inmediatamente antes de chocar con 
+la plataforma y b) la distancia máxima que se comprime el 
+resorte. Suponga que la fuerza de fricción actúa durante todo 
+el movimiento.
+ 61.  ; George de la Selva, con masa m, se balancea en una liana 
+ligera que cuelga de la rama fija de un árbol. Una segunda 
+liana de igual longitud cuelga del mismo punto, y un gorila 
+de mayor masa M se balancea en ella en la dirección opuesta. 
+Ambas lianas están horizontales cuando los primates parten 
+desde el reposo en el mismo momento. George y el gorila se 
+encuentran en el punto más bajo de su balanceo. Cada uno 
+tiene miedo de que una liana se rompa, así que se abrazan mu-
+tuamente y cuelgan. Se balancean juntos hacia arriba y llegan 
+a un punto donde las lianas forman un ángulo de 35.0° con la 
+vertical. a) Encuentre el valor de la proporción mM. b) ¿Qué 
+pasaría si? Intente el siguiente experimento en casa. Amarre 
+un imán y un tornillo de acero a extremos opuestos de una 
+cuerda. Sostenga fijo el centro de la cuerda para representar la 
+rama del árbol y reproduzca un modelo de los movimientos de 
+George y el gorila. ¿Qué cambios en su análisis lo harán aplica-
+ble a esta situación? ¿Qué pasaría si? A continuación suponga 
+que el imán tiene la fuerza para atraer notablemente el torni-
+llo a través de una distancia de unos cuantos centímetros. Des-
+pués el tornillo se moverá más rápido inmediatamente antes 
+de pegarse al imán. ¿Esta intensidad magnética adicional hace 
+una diferencia?
+ 62.  ; Una estudiante realiza un experimento en el péndulo balís-
+tico con el uso de un aparato similar al que se muestra en la fi-
+gura 9.9b. Ella obtiene los siguientes datos promedio: h  8.68 
+cm, m
+1  68.8 g y m2  263 g. Los símbolos se refieren a las can-
+tidades en la figura 9.9a. a) Determine la rapidez inicial v1A del 
+proyectil. b) La segunda parte de su experimento es obtener 
+v
+1A al disparar el mismo proyectil horizontalmente (con el pén-
+dulo retirado de la trayectoria) y medir su posición horizontal 
+final x y distancia de caída y (figura P9.62). Demuestre que la 
+rapidez inicial del proyectil se relaciona con x y y mediante  
+la ecuación
+v1A
+x
+2y>g
+Figura P9.57
+Figura P9.58
+ 58.  Un bloque pequeño de masa m1  0.500 kg se libera desde el 
+reposo en lo alto de una cuña sin fricción con forma curva, 
+de masa m2  3.00 kg, la cual se apoya sobre una superficie 
+horizontal sin fricción, como se muestra en la figura P9.58a. 
+Cuando el bloque deja la cuña, se mide su velocidad de 4.00 
+ms hacia la derecha, como se muestra en la figura. a) ¿Cuál 
+h
+m
+M
+d
+a) b)
+4.00 m/s
+m1
+h m2m2 v2
+
+Problemas 267
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+  ¿Qué valor numérico obtiene para v1A en función de sus va-
+lores observados de x  257 cm y y  85.3 cm? ¿Qué factores 
+pueden explicar la diferencia en este valor comparado con el 
+obtenido en el inciso a)?
+ 63. ; Lazarus Carnot, un general de artillería, condujo el pro-
+yecto militar de Napoleón. Carnot usó un péndulo balístico 
+para medir las magnitudes de velocidad de disparo de balas de 
+cañón. En los símbolos definidos en el ejemplo 9.6, comprobó 
+que la relación de la energía cinética inmediatamente después 
+de la colisión respecto a la energía cinética inmediatamente 
+antes de m
+1(m1  m2). a) Realice la prueba usted mismo. b) Si 
+la bala de cañón tiene 9.60 kg de masa y el bloque (un tronco 
+de árbol) tiene 214 kg de masa, ¿qué fracción de la energía 
+original permanece mecánica después de la colisión? c) ¿Cuál 
+es la relación de la cantidad de movimiento inmediatamente 
+después de la colisión respecto a la cantidad de movimiento 
+inmediatamente antes de? d) Un estudiante cree que una pér-
+dida tan grande de energía mecánica debe acompañarse de 
+al menos una pequeña pérdida de cantidad de movimiento.  
+¿Cómo convencería a este estudiante de la verdad? El hijo del 
+general Carnot, Sadi, fue el segundo ingeniero más impor-
+tante en la historia de las ideas; su obra se estudiará en el 
+capítulo 22.
+ 64.  ; Perseguido por lobos feroces, está en un trineo sin caballos, 
+y se desliza sin fricción a través de un lago cubierto de hielo. 
+Usted toma una acción descrita por estas ecuaciones:
+ v1f v2f 8.00 m>s 
+1270 kg21 7.50 m>s 2 iˆ 115.0 kg21 v1f iˆ21 255 kg21 v2f iˆ2
+  a) Complete el enunciado del problema, proporcione los 
+datos e identifique las incógnitas. b) Encuentre los valores de 
+v
+1f y v2f. c) Encuentre el trabajo que hizo.
+ 65.  Problema de repaso. Un resorte ligero, con constante de fuer-
+za 3.85 N m, se comprime 8.00 cm y se mantiene entre un 
+bloque de 0.250 kg a la izquierda y un bloque de 0.500 kg a la 
+derecha. Ambos bloques están en reposo sobre una superficie 
+horizontal. Los bloques se liberan simultáneamente de modo 
+que el resorte tiende a separarlos. Encuentre la velocidad 
+máxima que logra cada bloque si el coeficiente de fricción 
+cinética entre cada bloque y la superficie es a) 0, b) 0.100 y  
+c) 0.462. Suponga que el coeficiente de fricción estática es 
+mayor que el coeficiente de fricción cinética en cada caso.
+ 66.  Considere como un sistema al Sol con la Tierra en una ór-
+bita circular alrededor de aquél. Encuentre la magnitud del 
+cambio en la velocidad del Sol en relación con el centro de 
+masa del sistema durante un periodo de 6 meses. Ignore la in-
+fluencia de otros objetos del espacio. Puede obtener los datos 
+astronómicos necesarios al final del libro.
+ 67.  Una bala de 5.00 g, que se mueve con una rapidez inicial de 
+400 ms, se dispara y pasa a través de un bloque de 1.00 kg, 
+como se muestra en la figura P9.67. El bloque, inicialmente en 
+reposo sobre una superficie horizontal sin fricción, se conecta 
+a un resorte con constante de fuerza 900 N m. El bloque se 
+mueve 5.00 cm hacia la derecha después del impacto. Encuen-
+tre a) la rapidez con que la bala sale del bloque y b) la energía 
+mecánica que se convierte en energía interna en la colisión.
+Figura P9.62
+Figura P9.67
+ 68.  ; Problema de repaso.  Existen (podría decirse) tres teorías 
+recíprocas del movimiento: la segunda ley de Newton, que afir-
+ma que la fuerza total en una partícula causa su aceleración; 
+el teorema trabajo–energía cinética, que afirma que el trabajo 
+total en una partícula causa su cambio en energía cinética; 
+y el teorema impulso–cantidad de movimiento, que estable-
+ce que el impulso total en una partícula causa su cambio en 
+cantidad de movimiento. En este problema, compare predic-
+ciones de las tres teorías en un caso particular. Un objeto de  
+3.00 kg tiene velocidad 7.00
+jˆ ms. Después, una fuerza total 
+de 12.0 iˆ N actúa sobre el objeto durante 5.00 s. a) Calcule 
+la velocidad final del objeto, con el teorema impulso–canti-
+dad de movimiento. b) Calcule su aceleración a partir de 
+a
+S
+   
+(v
+S
+f  v
+S
+i)$t. c) Calcule su aceleración a partir de a
+S
+  h F
+S
+m. 
+d) Encuentre el desplazamiento vectorial del objeto a partir de 
+$r
+S
+  v
+S
+it  1
+2 a
+S
+t2. e) Encuentre el trabajo invertido en el objeto  
+a partir de W  F
+S
+ · $r
+S
+. f) Encuentre la energía cinética final a 
+partir de 1
+2mvf
+2  1
+2m v
+S
+f · v
+S
+f. g) Encuentre la energía cinética 
+final a partir de 1
+2mvi
+2  W. h) Establezca el resultado de com-
+parar las respuestas de los incisos b) y c), y las respuestas a los 
+incisos f) y g).
+ 69.
+  Una cadena de longitud L y masa total M se libera desde el 
+reposo con su extremo inferior apenas tocando lo alto de una 
+mesa, como se muestra en la figura P9.69a. Encuentre la fuerza 
+que ejerce la mesa sobre la cadena después de que la cadena 
+cae una distancia x, como se muestra en la figura P9.69b. (Su-
+ponga que cada eslabón llega al reposo en el instante en que 
+llega a la mesa.)
+Figura P9.69
+L  x
+x
+L
+a) b)
+5.00 cm
+400 m/s
+v
+y
+v1A
+x
+
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+268 Capítulo 9  Cantidad de movimiento lineal y colisiones
+9.1 d). Dos objetos idénticos (m 1  m2) que viajan con la misma 
+rapidez ( v1  v2) tienen las mismas energías cinéticas y las 
+mismas magnitudes de cantidad de movimiento. Sin embargo, 
+también es posible, para combinaciones particulares de masas 
+y velocidades, satisfacer K
+1  K2 pero no p1  p2. Por ejemplo, 
+un objeto de 1 kg que se mueve a 2 ms tiene la misma energía 
+cinética que un objeto de 4 kg que se mueve a 1 ms, pero es 
+claro que los dos no tienen las mismas cantidades de movi-
+miento. Ya que no se tiene información acerca de masas y mag-
+nitudes de velocidad, no se puede elegir entre a), b) o c).
+9.2 b), c), a). Mientras más lento viaje la bola, más fácil será de atra-
+par. Si la cantidad de movimiento de la pelota grande y pesada 
+es la misma que la cantidad de movimiento de la pelota de beis-
+bol, la rapidez de la pelota para gimnasia debe ser 110 la rapi-
+dez de la pelota de beisbol porque la pelota grande y pesada 
+tiene 10 veces la masa. Si las energías cinéticas son las mismas, 
+la rapidez de la pelota para gimnasia debe ser 
+1> 10 la rapidez 
+de la pelota de beisbol debido al término de rapidez al cuadra-
+do en la ecuación para K. La pelota para gimnasia es más difícil  
+de atrapar cuando tiene la misma rapidez que la pelota de 
+beisbol.
+9.3 i), c), e). El objeto 2 tiene una mayor aceleración debido a su 
+masa más pequeña. Por lo tanto, recorre la distancia d en un 
+intervalo de tiempo más breve. Aun cuando la fuerza que se 
+aplica a los objetos 1 y 2 es la misma, el cambio en cantidad 
+de movimiento es menor para el objeto 2 porque $t es menor. 
+El trabajo W  Fd invertido en ambos objetos es el mismo 
+porque tanto F como d son los mismos en los dos casos. En 
+consecuencia, K
+1  K2. ii), b), d). El mismo impulso se aplica 
+a ambos objetos, de modo que experimentan el mismo cam-
+bio en cantidad de movimiento. El objeto 2 tiene una mayor 
+aceleración debido a su masa más pequeña. Debido a eso, la 
+distancia que cubre el objeto 2 en el intervalo de tiempo es 
+mayor que la del objeto 1. Como resultado, sobre el objeto 2 
+se consume más trabajo y K
+2  K1.
+9.4 a) Los tres son iguales. Ya que el pasajero fue llevado desde la 
+rapidez inicial del automóvil a un alto total, el cambio en canti-
+dad de movimiento (igual al impulso) es el mismo sin importar 
+qué detiene al pasajero. b) Tablero, cinturón de seguridad, 
+bolsa de aire. El tablero detiene al pasajero muy rápidamente 
+en una colisión frontal, lo que resulta en una fuerza muy gran-
+de. El cinturón de seguridad toma un poco más de tiempo, así 
+que la fuerza es más pequeña. Usada junto con el cinturón de 
+seguridad, la bolsa de aire puede extender aún más el tiempo 
+de frenado del pasajero, en especial para su cabeza, que de 
+otro modo chicotearía hacia adelante.
+9.5 a). Si toda la energía cinética inicial se transforma o transfiere 
+del sistema, nada se mueve después de la colisión. En conse-
+cuencia, la cantidad de movimiento final del sistema necesaria-
+mente es cero y la cantidad de movimiento inicial del sistema 
+por lo tanto debe ser cero. Aunque b) y d) las condiciones 
+juntas serían suficientes, ninguna de ellas sola lo hace.
+9.6 b). Ya que la cantidad de movimiento del sistema de dos 
+bolas se conserva, 
+p
+S
+Ti  0  p
+S
+Tf  p
+S
+B. Y que la bola de tenis 
+de mesa rebota desde la bola de boliche mucho más masiva 
+aproximadamente con la misma rapidez, 
+p
+S
+Tf   p
+S
+Ti. En con-
+secuencia, p
+S
+B  2 p
+S
+Ti. La energía cinética se puede expresar 
+como K  p22m. Debido a la masa mucho mayor de la bola 
+de boliche, su energía cinética es mucho menor que la de  
+la bola de tenis de mesa.
+9.7 b). La pieza con el mango tendrá menos masa que la pieza 
+que constituye el extremo del bat. Para ver por qué, tome el 
+origen de coordenadas como el centro de masa antes de que 
+el bat se corte. Sustituya cada pieza cortada por una pequeña 
+esfera ubicada en el centro de masa de cada pieza. La esfera 
+que representa la pieza del mango está más lejos del origen, 
+pero el producto de menos masa y mayor distancia equilibra 
+el producto de mayor masa y menor distancia para la pieza del 
+extremo, como se muestra.
+  
+9.8 i) , a). Este efecto es el mismo que el nadador que se clava 
+desde la balsa, recién discutido. El sistema crucero–pasajeros 
+está aislado. Si los pasajeros comienzan todos a correr en una 
+dirección, la rapidez del crucero aumenta (¡una pequeña 
+cantidad!) en la otra dirección. ii), b). Una vez que dejan de 
+correr, la cantidad de movimiento del sistema es la misma que 
+era antes de que comenzaran a correr; no se puede cambiar 
+la cantidad de movimiento de un sistema aislado mediante 
+fuerzas internas. En caso de que esté pensando que los pasa-
+jeros podrían correr hacia la popa repetidamente para sacar 
+ventaja del aumento de rapidez mientras corren, ¡recuerde que 
+frenarán la embarcación cada vez que regresen a la proa!
+Respuestas a las preguntas rápidas
+
+El movimiento de un objeto extendido, como una rueda que gira en torno a su eje, no se 
+puede explicar al representar el objeto como una partícula: en cualquier momento dife-
+rentes partes del objeto tienen distintas velocidades y aceleraciones lineales. Sin embargo, 
+el movimiento de un objeto extendido se analiza al representarlo como un conjunto de 
+partículas, cada una con su propia velocidad y aceleración lineales.
+Al tratar con un objeto en rotación, la explicación se simplifica mucho al suponer que 
+el objeto es rígido. Un objeto rígido no es deformable; es decir, las ubicaciones relativas 
+de todas las partículas de que está compuesto permanecen constantes. Todos los objetos 
+reales son deformables en cierta medida; no obstante, el modelo de objeto rígido es útil 
+en muchas situaciones en que la deformación es despreciable.
+10.1  Posición, velocidad  
+y aceleración angular
+La figura 10.1 ilustra una vista desde arriba de un disco compacto, o CD, en rotación. El 
+disco da vueltas en torno a un eje fijo perpendicular al plano de la figura que pasa a través 
+del centro del disco en O. Un pequeño elemento del disco modelado como partícula en 
+P está a una distancia fija r desde el origen y gira en torno a él en un círculo de radio r. 
+(De hecho, toda partícula en el disco experimenta movimiento circular en torno a O.) Es 
+conveniente representar la posición de P con sus coordenadas polares (r, V), donde r es la 
+ 269
+10.1  Posición, velocidad y 
+aceleración angular
+10.2  Cinemática rotacional: 
+Objeto rígido bajo 
+aceleración angular 
+constante
+10.3  Cantidades angulares y 
+traslacionales
+10.4  Energía cinética 
+rotacional
+10.5  Cálculo de momentos 
+de inercia
+10.6  Momento de torsión
+10.7  Objeto rígido bajo un 
+momento de torsión 
+neto
+10.8  Consideraciones 
+energéticas en el 
+movimiento  
+rotacional
+10.9  Movimiento de 
+rodamiento de un 
+objeto rígido
+El pasatiempo malayo gasing es el giro de trompos que llegan a  
+tener masas de hasta 5 kg. Los jugadores profesionales giran sus  
+trompos de modo que puedan dar vueltas durante más de una hora 
+antes de detenerse. En este capítulo se estudiará el movimiento 
+rotacional de objetos como estos trompos. (Cortesía Turismo Malasia)
+Figura 10.1 Disco compacto 
+que gira en torno a un eje fijo 
+a través de O perpendicular al 
+plano de la figura. a) Para definir 
+la posición angular del disco, 
+se elige una línea de referencia 
+fija. Una partícula en P se ubica 
+a una distancia r desde el eje de 
+rotación en O. b) Conforme el 
+disco da vueltas, una partícula 
+en P se mueve a través de una 
+longitud de arco s sobre una 
+trayectoria circular de radio r.
+Línea de
+referencia
+a)
+OP
+r
+b)
+O
+P
+Línea de
+referencia
+r s
+V
+10
+ Rotación de un objeto rígido  
+en torno a un eje fijo
+
+270

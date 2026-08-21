@@ -1,0 +1,3446 @@
+Tema: Sólidos y fluidos (Capítulo 9 — Física, Wilson)
+
+CAPÍTULO 9 Sólidos y fluidos
+daremos especial atención al comportamiento de los fluidos, para aclarar interrogan-
+tes, por ejemplo, cómo funcionan los elevadores hidráulicos, por qué flotan los icebergs
+y los trasatlánticos, y qué significa la leyenda “10W-30” en una lata de aceite para mo-
+tor. También descubriremos por qué la persona de la imagen no puede flotar como un
+globo lleno de helio, ni volar como un colibrí, pero con la ayuda de un trozo de plástico
+con la forma adecuada, es capaz de elevarse como una águila.
+Debido a su fluidez, los líquidos y los gases tienen muchas propiedades en co-
+mún, y resulta conveniente estudiarlos en conjuntos. También hay diferencias impor-
+tantes. Por ejemplo, los líquidos no son muy compresibles, en tanto que los gases se
+comprimen con facilidad.
+9.1 Sólidos y módulos de elasticidad
+OBJETIVOS: a) Distinguir entre esfuerzo y esfuerzo de deformación y b) usar mó-
+dulos de elasticidad para calcular cambios dimensionales.
+Como expusimos, todos los materiales sólidos son elásticos en mayor o menor grado;
+es decir, un cuerpo que se deforma levemente por la aplicación de una fuerza regresa a
+sus dimensiones o forma original cuando deja de aplicarse la fuerza. En muchos mate-
+riales quizá la deformación no sea perceptible, pero existe.
+Sería más fácil entender por qué los materiales son elásticos, si pensamos en térmi-
+nos del sencillo modelo de un sólido que se muestra en la 
+>figura 9.1. Imaginamos que
+los átomos de la sustancia sólida se mantienen unidos mediante resortes. La elasticidad
+de los resortes representa la naturaleza elástica de las fuerzas interatómicas. Los resor-
+tes se oponen a una deformación permanente, al igual que las fuerzas entre los átomos.
+Las propiedades elásticas de los sólidos suelen describirse en términos de esfuerzo y 
+esfuerzo de deformación. El esfuerzo es una medida de la fuerza que causa una defor-
+mación. La deformación es una medida relativa de qué tanto cambia la forma por un
+esfuerzo. Cuantitativamente, el esfuerzo es la fuerza aplicada por unidad de área transversal:
+(9.1)
+Unidad SI de esfuerzo: newton sobre metro cuadrado (N/m
+2)
+Aquí, F es la magnitud de la fuerza aplicada normal (perpendicular) al área transver-
+sal. La ecuación 9.1 indica que las unidades SI de esfuerzo son newtons sobre metro
+cuadrado (N/m2).
+Como ilustra la ▼figura 9.2, una fuerza aplicada a los extremos de una varilla 
+produce un esfuerzo de tensión (una tensión que alarga, /H9004L /H110220) o un esfuerzo de 
+compresión (una tensión que acorta, /H9004L /H110210), dependiendo de la dirección de la fuerza.
+En ambos casos, la deformación es la razón del cambio de longitud ( /H9004L /H11005L /H11002Lo) en-
+tre la longitud original ( Lo) sin tomar en cuenta el signo, de manera que usamos el
+valor absoluto, /H20841/H9004L/H20841:
+(9.2)
+La deformación es una cantidad adimensional positiva
+deformación = ƒcambio de longitudƒ
+longitud original = ƒ¢Lƒ
+Lo
+= ƒL - Loƒ
+Lo
+esfuerzo = F
+A
+Lo A
+ΔL
+a) Esfuerzo de tensión
+F F
+Lo
+A
+ΔL
+b) Esfuerzo de compresión
+F F
+N FIGURA 9.2 Esfuerzos de tensión
+y de compresión Los esfuerzos de
+tensión y de compresión se deben a
+fuerzas que se aplican normalmente
+a la superficie de los extremos de
+los cuerpos. a) Una tensión, o es-
+fuerzo de tensión, suele incrementar
+la longitud de un objeto. b) Un 
+esfuerzo de compresión tiende a 
+acortar la longitud. /H9004L /H11005L /H11002L
+o
+puede ser positivo, como en a; 
+o negativo, como en b. En la 
+ecuación 9.2 no se requiere el 
+signo, de manera que usamos 
+el valor absoluto /H20841/H9004L/H20841.
+
+9.1 Sólidos y módulos de elasticidad 299
+Así, la deformación es el cambio fraccionario de longitud. Por ejemplo, si la deformación
+es de 0.05, la longitud del material habrá cambiado 5% respecto a su longitud original.
+Por lo tanto, la deformación resultante depende del esfuerzo aplicado. Si el esfuer-
+zo es relativamente pequeño, la proporción es directa (o lineal); esto es, deformación /H11008
+esfuerzo. La constante de proporcionalidad, que depende de la naturaleza del mate-
+rial, se denomina módulo de elasticidad. Así,
+esfuerzo /H11005módulo de elasticidad /H11003deformación
+o bien,
+(9.3)
+Unidad SI del módulo de elasticidad: newton sobre metro cuadrado (N/m2)
+El módulo de elasticidad es el esfuerzo dividido entre la deformación, y tiene las mis-
+mas unidades que el esfuerzo. (¿Por qué?)
+Hay tres tipos generales de módulos de elasticidad asociados a esfuerzos que pro-
+ducen cambios de longitud, forma o volumen. Se les denomina módulo de Young, módu-
+lo de corte y módulo de volumen, respectivamente.
+Cambio de longitud: módulo de Young
+La ▼figura 9.3 es una gráfica de esfuerzo de tensión contra deformación para una vari-
+lla metálica común. La curva es una línea recta hasta un punto llamado límite proporcio-
+nal. Más allá de este punto, la deformación aumenta más rápidamente hasta llegar a
+otro punto crítico llamado límite de elasticidad. Si la tensión se elimina en este punto,
+el material recuperará su longitud original. Si se aumenta la tensión más allá del lími-
+te de elasticidad y luego se retira, el material se recuperará hasta cierto punto, aunque
+habrá cierta deformación permanente.
+La parte de línea recta de la gráfica muestra una proporcionalidad directa entre 
+esfuerzo y deformación. En 1678, el físico inglés Robert Hooke fue el primero en for-
+malizar esta relación, que ahora se conoce como ley de Hooke. (Es la misma relación ge-
+neral que la dada para un resorte en la sección 5.2; véase la figura 5.5.) El módulo de
+elasticidad para una tensión o compresión se denomina módulo de Young (Y):*
+(9.4)
+esfuerzo deformación
+Unidad SI del módulo de Young: newton sobre metro cuadrado (N/m2)
+F
+A = Y¢¢L
+Lo
+≤ o Y =
+F>A
+¢L>Lo
+módulo de elasticidad = esfuerzo
+deformación
+Límite de
+elasticidad
+Comportamiento elástico
+(esfuerzo proporcional
+a la deformación)
+Fractura
+Tensión
+Deformación
+Esfuerzo
+Compresión
+> FIGURA 9.3 Esfuerzo y 
+deformación Una gráfica de 
+esfuerzo contra deformación 
+para una varilla metálica común 
+es una línea recta hasta el límite
+proporcional. Luego continúa la 
+deformación elástica hasta que 
+se alcance el límite de elasticidad.
+Más allá de eso, la varilla sufrirá
+una deformación permanente y 
+en algún momento se romperá.
+*Thomas Young (1773-1829) fue el físico y médico inglés que también demostró la naturaleza on-
+dulatoria de la luz. Véase el experimento de doble rendija de Young en la sección 24.1.
+
+300 CAPÍTULO 9 Sólidos y fluidos
+Módulos de elasticidad para diversos materiales (en N/m2)
+Sustancia Módulo de Young (Y) Módulo de corte (S) Módulo de volumen (B)
+Sólidos
+Aluminio
+Hueso (de extrem.) Tensión: 
+Compresión: 
+Latón
+Cobre
+Vidrio
+Hierro
+Nylon
+Acero
+Líquidos
+Alcohol etílico
+Glicerina
+Mercurio
+Agua 2.2 * 109
+26 * 109
+4.5 * 109
+1.0 * 109
+15 * 10108.2 * 101020 * 1010
+8.0 * 1085.0 * 108
+12 * 10106.0 * 101015 * 1010
+4.0 * 10102.4 * 10105.7 * 1010
+12 * 10103.8 * 101011 * 1010
+7.5 * 10103.5 * 10109.0 * 1010
+9.3 * 109
+1.2 * 10101.5 * 1010
+7.0 * 10102.5 * 10107.0 * 1010
+TABLA 9.1
+Las unidades del módulo de Young son las del esfuerzo, newtons sobre metro cuadra-
+do (N/m2), pues la deformación no tiene unidades. En la tabla 9.1 se dan algunos va-
+lores representativos del módulo de Young.
+Para entender mejor la idea o el significado físico del módulo de Young, despeje-
+mos /H9004L de la ecuación 9.4:
+Por lo tanto, cuanto mayor sea el módulo de Young de un material, menor será su cam-
+bio de longitud (si los demás parámetros permanecen iguales).
+Ejemplo 9.1 ■ Extensión del fémur: un esfuerzo considerable
+El fémur (hueso del muslo) es el hueso más largo y fuerte del cuerpo. Si suponemos que un
+fémur típico es aproximadamente cilíndrico, con un radio de 2.0 cm, ¿cuánta fuerza se re-
+querirá para extender el fémur de un paciente en 0.010 por ciento?
+Razonamiento. Vemos que la ecuación 9.4 es la apropiada, pero, ¿dónde queda el aumento
+porcentual? Contestaremos esta pregunta si vemos que el término /H9004L/Lo es el incremen-
+to faccionario de longitud. Por ejemplo, si tuviéramos un resorte de 10 cm de longitud (Lo)
+y lo estiráramos 1.0 cm (/H9004L), entonces /H9004L/Lo /H110051.0 cm/10 cm /H110050.10. Este cociente se pue-
+de convertir fácilmente en un porcentaje, y diríamos que la longitud del resorte aumentó
+10%. Entonces, el incremento porcentual es tan sólo el valor del término /H9004L/Lo (multipli-
+cado por 100 por ciento).
+Solución. Hacemos una lista de los datos, 
+Dado: Encuentre: F (fuerza de tensión)
+La ecuación 9.4 nos da
+¿Qué tanta fuerza es esto? Una fuerza considerable (más de 400 lb). El fémur es un hueso
+muy fuerte.
+ =11.5 * 1010 N>m2211.0 * 10-42p10.020 m22 = 1.9 * 103 N
+ F = Y1¢L>Lo2A = Y1¢L>Lo2pr2
+ Y = 1.5 * 1010 N>m2 (para hueso, de la tabla 9.1)
+ ¢L>Lo = 0.010% = 1.0 * 10-4
+ r = 2.0 cm = 0.020 m
+¢L = ¢ FLo
+A ≤ 
+1
+Y o ¢L r
+1
+Y
+
+h
+x
+A
+A
+a)
+b)
+s
+φ
+φ
+Antes
+Antes
+Después
+Después
+F
+F
+F
+f
+▲ FIGURA 9.4 Esfuerzo cortante 
+y deformación a) Se produce un
+esfuerzo cortante cuando una 
+fuerza se aplica tangencialmente a
+una superficie. b) La deformación
+se mide en términos del desplaza-
+miento relativo de las caras del 
+objeto, o del ángulo de corte /H9278.
+9.1 Sólidos y módulos de elasticidad 301
+Ejercicio de refuerzo. Una masa total de 16 kg se cuelga de un alambre de acero de 0.10 cm
+de diámetro. a) ¿Qué incremento porcentual de longitud tiene el alambre? b) La resistencia
+a la tensión de un material es el esfuerzo máximo que un material aguanta antes de romper-
+se o fracturarse. Si la resistencia a la tensión del alambre usado en a es de 4.9 /H1100310
+8 N/m2,
+¿cuánta masa podría colgarse sin que se rompa el alambre? (Las respuestas de todos los Ejer-
+cicios de refuerzo se dan al final del libro.)
+La mayoría de los tipos de huesos consisten en fibras de colageno que están firmemente
+unidas y se traslapan. El colageno muestra alta resistencia a la tensión y las sales de cal-
+cio en aquél dan a los huesos mucha resistencia a la compresión. El colágeno también
+forma el cartílago, los tendones y la piel, los cuales tienen buena resistencia a la tensión.
+Cambio de forma: módulo de corte
+Otra forma de deformar un cuerpo elástico es con un esfuerzo cortante. En este caso, la
+deformación se debe a la aplicación de una fuerza que es tangencial a la superficie (Nfi-
+gura 9.4a). Se produce un cambio de forma sin un cambio de volumen. La deformación
+de corte está dada por x/h, donde x es el desplazamiento relativo de las caras y h es la
+distancia entre ellas.
+La deformación de corte a veces se define en términos del ángulo de corte /H9278.
+Como se observa en la figura 9.4b, tan /H9278/H11005x/h. Sin embargo, este ángulo suele ser
+muy pequeño, por lo que una buena aproximación es tan /H9278/H11015/H9278/H11015x/h, donde /H9278está
+en radianes.* (Si /H9278/H1100510°, por ejemplo, la diferencia entre /H9278y tan /H9278es de sólo el 1.0%.)
+El módulo de corte (S) (también llamado módulo de rigidez) es entonces
+(9.5)
+Unidad SI de módulo de corte: newton sobre metro cuadrado (N/m2)
+En la tabla 9.1 vemos que el módulo de corte suele ser menor que el módulo de Young.
+De hecho, S es aproximadamente /H9020/3 para muchos materiales, lo que indica que hay una
+mayor respuesta a un esfuerzo cortante que a un esfuerzo de tensión. Observe también la
+relación inversa /H9278/H110151/S, similar a la que señalamos antes para el módulo de Young.
+Un esfuerzo cortante podría ser del tipo torsional, que es resultado de la acción de
+torsión de un momento de fuerza. Por ejemplo, un esfuerzo cortante torsional podría
+cortar la cabeza de un tornillo que se esté apretando.
+Los líquidos no tienen módulos de corte (ni módulos de Young); de ahí los huecos
+en la tabla 9.1. No es posible aplicar eficazmente un esfuerzo cortante a un líquido ni a
+un gas, porque los fluidos se deforman continuamente en respuesta. Suele decirse que
+los fluidos no resisten un corte.
+Cambio de volumen: módulo de volumen
+Supongamos que una fuerza dirigida hacia adentro actúa sobre toda la superficie de
+un cuerpo ( ▼figura 9.5). Semejante esfuerzo de volumen a menudo se aplica mediante
+presión transmitida por un fluido. Un esfuerzo de volumen comprime un material
+elástico; es decir, el material presenta un cambio de volumen, aunque no de forma ge-
+neral, en respuesta a un cambio de presión /H9004p. (La presión es fuerza por unidad de
+área, como veremos en la sección 9.2.) El cambio de presión es igual al esfuerzo de vo-
+S =
+F>A
+x>h L
+F>A
+f
+A
+AAF
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+F
+b)a)
+> FIGURA 9.5 Esfuerzo y 
+deformación de volumen
+a) Se aplica un esfuerzo de volumen
+cuando una fuerza normal actúa 
+sobre toda una área superficial, 
+como se muestra aquí con un cubo.
+Este tipo de esfuerzo ocurre más 
+comúnmente en gases. b) La 
+deformación resultante es un 
+cambio 
+*Véase la sección Aprender dibujando de la página 219.
+
+302 CAPÍTULO 9 Sólidos y fluidos
+lumen, o bien, /H9004p /H11005F/A. La deformación de volumen es la razón del cambio de volumen
+(/H9004V) entre el volumen original (Vo). Entonces, el módulo de volumen (B) es 
+(9.6)
+Unidad SI de módulo de volumen: newton sobre metro cuadrado (N/m2)
+Incluimos el signo menos para que B sea una cantidad positiva, ya que /H9004V /H11005V /H11002Vo
+es negativo cuando aumenta la presión externa (cuando /H9004p es positivo). Al igual que
+en las anteriores relaciones de módulos: /H9004V /H110081/B.
+En la tabla 9.1 se dan los módulos de volumen de sólidos y líquidos selectos. Los
+gases también tienen módulos de volumen, ya que pueden comprimirse. En el caso 
+de los gases, es más común hablar del recíproco del módulo de volumen, llamado
+compresibilidad (k):
+(compresibilidad de gases) (9.7)
+Así, el cambio de volumen /H9004V es directamente proporcional a la compresibilidad k.
+Los sólidos y los líquidos son relativamente incompresibles, por lo que sus valores
+de compresibilidad son pequeños. En cambio, los gases se comprimen fácilmente y sus
+valores de compresibilidad, que son altos, varían con la presión y la temperatura.
+Ejemplo 9.2 ■ Compresión de un líquido: esfuerzo de volumen 
+y módulo de volumen
+¿Qué cambio se requiere en la presión sobre un litro de agua para comprimirlo un 0.10
+por ciento?
+Razonamiento. Al igual que el cambio fraccionario de longitud, /H9004L/Lo, el cambio fraccio-
+nario de volumen está dado por /H11002AV/Vo, que puede expresarse como porcentaje. Así, ob-
+tenemos el cambio de presión con la ecuación 9.6. Una compresión implica /H9004V negativo.
+Solución.
+Dado: (o 0.10%) Encuentre: /H9004p
+Observe que /H11002/H9004V/Vo es el cambio fraccionario de volumen. Dado que Vo /H110051000 cm3, el
+cambio (la reducción) de volumen es
+Sin embargo, no necesitamos el cambio de volumen. El cambio fraccionario, como se listó
+en los datos, se usa directamente en la ecuación 9.6 para calcular el aumento de presión:
+(Este incremento es unas 22 veces la presión atmosférica normal. No es muy compresible.)
+Ejercicio de refuerzo. Si a medio litro de agua se aplica una presión adicional de 1.0 /H11003106
+N/m2 a la presión atmosférica, ¿qué cambio de volumen tendrá el agua?
+9.2 Fluidos: presión y el principio de Pascal
+OBJETIVOS: a) Explicar la relación profundidad-presión y b) plantear el principio
+de Pascal y describir su uso en aplicaciones prácticas.
+Podemos aplicar una fuerza a un sólido en un punto de contacto, pero esto no funcio-
+na con los fluidos, pues éstos no resisten un corte. Con los fluidos, es preciso aplicar
+una fuerza sobre una área. Tal aplicación de fuerza se expresa en términos de presión:
+la fuerza por unidad de área:
+(9.8a)
+Unidad SI de presión: newton sobre metro cuadrado (N/m
+2) o pascal (Pa)
+p = F
+A
+¢p = B¢ -¢ V
+Vo
+≤ =12.2 * 109 N>m2210.00102 = 2.2 * 106 N>m2
+-¢ V = 0.0010 Vo = 0.001011000 cm32 = 1.0 cm3
+ BH2
+ O = 2.2 * 109 N>m2 (de la tabla 9.1)
+ Vo = 1.0 L = 1000 cm3
+ -¢ V>Vo = 0.0010
+k = 1
+B
+B = F>A
+-¢ V>Vo
+=-  
+¢p
+¢V>Vo
+
+A
+F cos 
+F⊥
+p = F⊥  
+A
+F cos
+A=
+u
+u
+u
+F
+▲ FIGURA 9.6 Presión La presión
+suele escribirse como p /H11005F/A, y se
+sobreentiende que F es la fuerza o
+componente de fuerza normal a la
+superficie. En general, entonces, 
+p /H11005(F cos /H9258)/A.
+9.2 Fluidos: presión y el principio de Pascal 303
+*Note que la unidad de presión es equivalente a la energía por volumen, 
+una densidad de energía.
+N>m2 = N # m>m3 = J>m3,
+En esta ecuación, se entiende que la fuerza actúa de forma normal (perpendicular) a la
+superficie. F podría ser el componente perpendicular de una fuerza que actúa inclina-
+da respecto a la superficie (Nfigura 9.6).
+Como muestra la figura 9.6, en el caso más general deberíamos escribir:
+(9.8b)
+La presión es una cantidad escalar (sólo tiene magnitud) aunque la fuerza que la produce
+sea un vector.
+Las unidades SI de presión son newtons sobre metro cuadrado (N/m 2) o pascal
+(Pa) en honor del científico y filósofo francés Blaise Pascal (1623-1662), quien estudió
+los fluidos y la presión. Por definición,*
+En el sistema inglés, una unidad común de presión es la libra por pulgada cuadrada
+(lb/in2 o psi). En aplicaciones especiales se utilizan otras unidades, que presentaremos
+más adelante. Antes de continuar, veamos un ejemplo “sólido” de la relación entre
+fuerza y presión.
+Ejemplo conceptual 9.3 ■ Fuerza y presión: una siesta en una cama
+de clavos
+Suponga que usted se prepara para dormir la siesta y tiene la opción para elegir entre
+acostarse de espaldas en a) una cama de clavos, b) un piso de madera dura o c) un sofá.
+¿Cuál escogería por comodidad y por qué?
+Razonamiento y respuesta. La opción cómoda es obvia: el sofá. Sin embargo, la pregunta
+conceptual aquí es por qué.
+Examinemos primero la posibilidad de acostarse en un lecho de clavos, un truco an-
+tiguo que se originó en la India y que solía presentarse en las ferias y otros espectáculos
+(véase la figura 9.27). En realidad no hay truco alguno, sólo física; a saber, fuerza y pre-
+sión. Es la fuerza por unidad de área, la presión ( p /H11005F/A), lo que determina si un clavo
+perforará la piel o no. La fuerza depende del peso de la persona que se acuesta en los cla-
+vos. El área depende del área eficaz de contacto entre los clavos y la piel (sin considerar 
+la ropa de la persona).
+Si sólo hubiera un clavo, éste no soportaría el peso de la persona y con tal área pe-
+queña la presión sería muy grande, y en una situación así el clavo perforaría la piel. En
+cambio, cuando se usa un lecho de clavos, la misma fuerza (peso) se distribuye entre cien-
+tos de clavos, así que el área de contacto eficaz es relativamente grande, y la presión se
+reduce a un nivel en el que los clavos no perforan la piel.
+Cuando nos acostamos en un piso de madera, el área en contacto con nuestro cuer-
+po es considerable y la presión se reduce, pero probablemente no nos sentiremos cómo-
+dos. Partes del cuerpo, como el cuello y la parte baja de la espalda, no están en contacto
+con la superficie, como lo estarían en un sofá blando, donde la presión es aún menor:
+Cuanto más baja sea la presión, mayor será la comodidad (la misma fuerza sobre una área
+más extensa). Por lo tanto, c es la respuesta.
+Ejercicio de refuerzo. Mencione dos consideraciones importantes al construir una cama
+de clavos para acostarse en ella.
+Hagamos ahora un breve repaso de la densidad, que es una consideración impor-
+tante en el estudio de fluidos. En el capítulo 1 dijimos que la densidad ( /H9267) de una sus-
+tancia se define como masa sobre unidad de volumen (ecuación 1.1):
+Unidad SI de densidad: kilogramo sobre metro cúbico (kg/m3)
+(unidad cgs común: gramo sobre centímetro cúbico, g/cm3)
+En la tabla 9.2 se da la densidad de algunas sustancias comunes.
+ r = m
+V
+ densidad= masa
+volumen
+1 Pa = 1 N>m2
+p = F/H11036
+A = F cos u
+A
+
+304 CAPÍTULO 9 Sólidos y fluidos
+Densidad de algunas sustancias comunes (en kg/m3)
+Sólidos Densidad ( /H9267) Líquidos Densidad ( /H9267) Gases* Densidad ( /H9267)
+Aluminio Alcohol etílico Aire 1.29
+Latón Alcohol metílico Helio 0.18
+Cobre Sangre entera Hidrógeno 0.090
+Vidrio Plasma sanguíneo Oxígeno 1.43
+Oro Gasolina Vapor (100°C) 0.63
+Hielo Queroseno
+Hierro (y acero) (valor general) Mercurio
+Plomo Agua de mar (4°C)
+Plata Agua dulce (4°C)
+Madera, roble
+*A 0°C y 1 atm, a menos que se especifique otra cosa.
+0.81 * 103
+1.00 * 10310.5 * 103
+1.03 * 10311.4 * 103
+13.6 * 1037.8 * 103
+0.82 * 1030.92 * 103
+0.68 * 10319.3 * 103
+1.03 * 1032.6 * 103
+1.05 * 1038.9 * 103
+0.82 * 1038.7 * 103
+0.79 * 1032.7 * 103
+TABLA 9.2
+9.1 LA OSTEOPOROSIS Y LA DENSIDAD MINERAL ÓSEA (DMO)
+El hueso es un tejido vivo y en crecimiento. Nuestro cuerpo conti-
+nuamente está absorbiendo los antiguos huesos (reabsorción) y fa-
+bricando nuevo tejido óseo. Durante los primeros años de vida, el
+crecimiento de los huesos es mayor que la pérdida. Este proceso
+continúa hasta que se alcanza el máximo de la masa ósea cuando se
+es un adulto joven. Después, el crecimiento de los huesos adquiere
+un ritmo más lento como resultado de la pérdida de masa ósea.
+Con la edad, los huesos, naturalmente, se vuelven menos densos y
+más débiles. La osteoporosis (que significa “huesos porosos”) ocu-
+rre cuando los huesos se deterioran hasta el punto en el que se frac-
+turan con facilidad (figura 1).
+La osteoporosis y la escasa masa ósea asociada con ella afectan
+a unos 24 millones de estadounidenses, la mayoría de los cuales
+son mujeres. La osteoporosis da por resultado un mayor riesgo de
+sufrir fracturas, particularmente en la cadera y la columna verte-
+bral. Muchas mujeres toman complementos de calcio con la finali-
+dad de prevenir esta condición.
+Para entender cómo se mide la densidad ósea, primero vea-
+mos la distinción entre hueso y tejido óseo. El hueso es un material
+sólido compuesto de una proteína llamada matriz ósea, la mayor
+parte de la cual se ha calcificado. El tejido óseo incluye los espacios
+para la médula dentro de la matriz. (La médula es el tejido suave,
+adiposo y vascular en el interior de las cavidades óseas y es un sitio
+fundamental para la producción de células sanguíneas.) El volu-
+men de la médula varía según el tipo de hueso.
+Si el volumen de un hueso intacto se mide (por ejemplo, me-
+diante el desplazamiento de agua), entonces, es posible calcular la
+densidad del tejido óseo —comúnmente en gramos por centímetro cú-
+bico—, después de que el hueso se pesa para determinar su masa.
+Si se quema un hueso, se pesan las cenizas que quedan y se dividen
+entre el volumen del hueso total (tejido óseo), se obtiene la densi-
+dad mineral del tejido óseo, que comúnmente se conoce como densidad
+mineral ósea (DMO).
+Para medir la DMO de los huesos en vivo, se mide la transmi-
+sión de ciertos tipos de radiación a través del hueso, y el resultado
+se relaciona con la cantidad de mineral óseo presente. Además, se
+mide un área “proyectada” del hueso. Utilizando tales mediciones,
+se calcula una DMO proyectada o zonal en unidades de mg/cm
+2.
+La figura 2 ilustra la magnitud del efecto de la pérdida de densidad
+ósea con la edad.
+El diagnóstico de la osteoporosis se basa primordialmente en
+la medición de la DMO. La masa de un hueso, que se mide con una
+prueba de DMO (también conocida como prueba de densitometría
+ósea), por lo general se correlaciona con la fortaleza del hueso. Es
+posible predecir el riesgo de fracturas, de la misma forma como las
+mediciones de la presión sanguínea ayudan a predecir los riesgos
+de sufrir un infarto cerebral. La prueba de densidad ósea se reco-
+mienda a todas las mujeres de 65 años en adelante y a mujeres de
+menor edad con un alto riesgo de padecer osteoporosis. Esto tam-
+bién se aplica a los hombres. Con frecuencia se piensa que la osteo-
+porosis es una enfermedad propia de las mujeres, pero el 20% de
+los casos de osteoporosis se presentan en hombres. Una prueba 
+de DMO no predice con certeza la posibilidad de sufrir una frac-
+tura, sino que tan sólo predice el grado de riesgo.
+Entonces, ¿cómo se mide la DMO? Aquí es donde la física en-
+tra en acción. Se emplean varios instrumentos, que se clasifican 
+en dispositivos centrales y dispositivos periféricos. Los dispositivos cen-
+trales se utilizan principalmente para medir la densidad ósea de 
+la cadera y la columna vertebral. Los dispositivos periféricos son
+A FONDO
+FIGURA 1 Pérdida de masa ósea Una micrografía de rayos X
+que muestra la estructura ósea de una vértebra de una persona
+de 50 años (izquierda) y una de 70 años (derecha). La osteo-
+porosis, una condición caracterizada por el debilitamiento 
+de los huesos provocado por la pérdida de masa ósea, 
+es evidente en el caso de la vértebra de la derecha.
+
+9.2 Fluidos: presión y el principio de Pascal 305
+El agua tiene una densidad de 1.00 /H11003103 kg/m3 (1.00 g/cm3), por la definición
+original de kilogramo (capítulo 1). El mercurio tiene una densidad de 13.6 /H11003103 kg/
+m3 (13.6 g/cm3). Por lo tanto, el mercurio es 13.6 veces más denso que el agua. La ga-
+solina, en cambio, es menos densa que el agua. (Véase la tabla 9.2.) (Nota: no confunda
+el símbolo de densidad, /H9267[letra griega rho], con el de presión, p.)
+Decimos que la densidad es una medida de qué tan compacta es la materia de una
+sustancia: cuanto más alta sea la densidad, más materia o masa habrá en un volumen da-
+do. Note que la densidad cuantifica la cantidad de masa por unidad de volumen. Para
+una consideración importante acerca de la densidad, véase la sección A fondo 9.1 sobre la
+osteoporosis y la densidad mineral ósea (DMO).
+Presión y profundidad
+Si el lector ha buceado, sabe bien que la presión aumenta con la profundidad, y ha
+sentido el aumento de presión en los tímpanos. Sentimos un efecto opuesto cuando
+viajamos en un avión o subimos una montaña en automóvil. Al aumentar la altitud,
+quizá sintamos que los oídos quieren “reventarse”, por la reducción en la presión ex-
+terna del aire.
+La forma en que la presión en un fluido varía con la profundidad se demuestra
+considerando un recipiente de líquido en reposo. Imaginemos que aislamos una co-
+FIGURA 2 Pérdida de densidad ósea con la edadUna ilustra-
+ción de cómo se incrementa, con la edad, la pérdida normal de
+densidad ósea en el hueso de la cadera de una mujer (escala 
+de la derecha). La osteopenia se refiere a la calcificación o densi-
+dad ósea decreciente. Una persona con osteopenia está en riesgo 
+de desarrollar osteoporosis, una condición que provoca que 
+los huesos se vuelvan quebradizos y proclives a fracturarse.
+más pequeños; se trata de máquinas portátiles que se emplean pa-
+ra medir la densidad ósea en lugares tales como los talones o los
+dedos.
+El dispositivo central de uso más difundido se basa en la ab-
+sorciometría de energía dual de rayos X (DXA), que utiliza imágenes
+de rayos X para medir la densidad ósea. (Véase la sección 20.4 
+para una explicación de los rayos X.) El escáner DXA produce dos
+haces de rayos X de diferentes niveles de energía. La cantidad de
+rayos X que pasan a través de un hueso se mide para cada haz; es-
+tas cantidades varían de acuerdo con la densidad del hueso. La
+densidad ósea calculada se basa en la diferencia entre los dos haces.
+El procedimiento no es invasivo, tarda entre 10 y 20 minutos, y la
+exposición a los rayos X por lo general es de una décima parte de la
+que implica una radiografía del tórax (figura 3).
+Un dispositivo periférico común utiliza ultrasonido cuantitativo
+(QUS, por las siglas de quantative ultrasound). En vez de rayos X, 
+la proyección de la densidad ósea se realiza mediante ondas sono-
+ras de alta frecuencia (ultrasonido). Las mediciones de QUS gene-
+ralmente se realizan en el talón. La prueba toma apenas uno o dos
+minutos, y los dispositivos para realizarla ahora se venden en algu-
+nas farmacias. Su objetivo es indicar si una persona está “en ries-
+go”, y si necesita someterse a una prueba DXA.
+FIGURA 3 Prueba de osteoporosis mediante escánerUna
+especialista realiza un análisis de los huesos mediante rayos X
+en una paciente mayor, para determinar si padece osteoporosis.
+Las imágenes de rayos X se despliegan en el monitor. Las imá-
+genes podrían confirmar la presencia de osteoporosis. Además,
+tales pruebas de densitometría ósea sirven para diagnosticar 
+raquitismo, una enfermedad infantil caracterizada por el 
+reblandecimiento de los huesos.  
+Nota: p /HS11005/H9267
+
+306 CAPÍTULO 9 Sólidos y fluidos
+lumna rectangular de agua, como se muestra en la ▲figura 9.7. Entonces, la fuerza so-
+bre el fondo del recipiente bajo la columna (o sobre la mano) es igual al peso del líqui-
+do que constituye la columna: F /H11005w /H11005mg. Puesto que la densidad es /H9267/H11005m/V, la masa
+de la columna es igual a la densidad multiplicada por el volumen; es decir, m /H11005/H9267V.
+(Suponemos que el líquido es incompresible, así que /H9267es constante.)
+El volumen de la columna aislada de líquido es igual a la altura de la columna
+multiplicada por el área de su base, o bien, V /H11005hA. Por lo tanto, escribimos
+Como p /H11005F/A, la presión a una profundidad h, debida al peso de la columna, es
+(9.9)
+Éste es un resultado general para líquidos incompresibles. La presión es la misma en
+todos los puntos de un plano horizontal a una profundidad h (si /H9267y g son constantes).
+Observe que la ecuación 9.9 es independiente del área de la base de la columna rectan-
+gular: podríamos tomar toda la columna cilíndrica del líquido en el recipiente de la 
+figura 9.7 y obtendríamos el mismo resultado.
+Al deducir la ecuación 9.9 no tomamos en cuenta la aplicación de una presión a la
+superficie abierta del líquido. Este factor se suma a la presión a una profundidad h para
+dar una presión total de
+(9.10)
+donde p
+o es la presión aplicada a la superficie del líquido (es decir, la presión en h /H110050).
+En el caso de un recipiente abierto, po /H11005pa (la presión atmosférica), es decir, el peso
+(fuerza) por unidad de área de los gases atmosféricos que están arriba de la superficie
+del líquido. La presión atmosférica media en el nivel del mar se utiliza también como
+unidad, llamada atmósfera (atm):
+Más adelante describiremos cómo se mide la presión atmosférica.
+Ejemplo 9.4 ■ Buzo: presión y fuerza
+a) ¿Cuál es la presión total sobre la espalda de un buzo en un lago a una profundidad de
+8.00 m? b) Determine la fuerza aplicada a la espalda del buzo únicamente por el agua, to-
+mando la superficie de la espalda como un rectángulo de 60.0 /H1100350.0 cm.
+Razonamiento. a) Ésta es una aplicación directa de la ecuación 9.10, en la cual po se toma
+como la presión atmosférica pa. b) Si conocemos el área y la presión debida al agua, calcu-
+lamos la fuerza por la definición de presión, p /H11005F/A.
+Solución.
+Dado: Encuentre: a) p (presión total)
+b) F (fuerza debida al agua)
+(de la tabla 9.2)
+ pa = 1.01 * 105 N>m2
+ rH2O = 1.00 * 103 kg>m3
+ = 0.600 m * 0.500 m = 0.300 m2
+ A = 60.0 cm * 50.0 cm
+ h = 8.00 m
+1 atm = 101.325 kPa = 1.01325 * 105 N>m2 L 14.7 lb>in2
+(líquido incompresible
+de densidad constante)p = po +rgh
+p =rgh
+F = w = mg =rVg =rghA
+m m
+h
+AA
+h
+A
+w =   (Ah)gr
+   p = w =   ghr
+g g
+N FIGURA 9.7 Presión y profundidad
+La presión adicional a una profun-
+didad h en un líquido se debe al 
+peso del líquido que está arriba: 
+p /H11005/H9267gh, donde /H9267es la densidad del
+líquido (que suponemos constante).
+Esto se ilustra para una columna 
+rectangular imaginaria de líquido.
+Relación presión-profundidad
+Ilustración 14.1 Presión en un líquido
+
+h
+2
+h
+D
+pA pA
+B
+C
+A
+gh
+2pA +r
+ghpA +r
+F
+▲ FIGURA 9.8 Principio de Pascal
+La presión aplicada en el punto A
+se transmite completamente a todas
+las partes del fluido y a las paredes
+del recipiente. También hay 
+presión debida al peso del fluido
+que está arriba de un punto dado 
+a diferentes profundidades (por
+ejemplo, /H9267gh/2 en C y /H9267gh en D).
+9.2 Fluidos: presión y el principio de Pascal 307
+a) La presión total es la suma de la presión debida al agua y a la presión atmosférica (pa).
+Por la ecuación 9.10, esto es
+(expresada en atmósferas) /H110151.8 atm
+También ésta es la presión en los tímpanos del buzo.
+b) La presión pH2O debida sólo al agua es la porción /H9267gh de la ecuación anterior, así que
+pH2O = 0.784 /H11003105 N/m2.
+Entonces, pH2O /H11005F/A, y
+Ejercicio de refuerzo. La respuesta al inciso b de este ejemplo quizás haga dudar al lector.
+¿Cómo puede el buzo aguantar semejante fuerza? Para entender mejor las fuerzas que el
+cuerpo puede resistir, calcule la fuerza que actúa sobre la espalda del buzo en la superfi-
+cie del agua (debida únicamente a la presión atmosférica). ¿Cómo supone que el cuerpo
+pueda soportar tales fuerzas o presiones?
+Principio de Pascal
+Cuando se incrementa la presión (digamos, la del aire) sobre toda la superficie abierta
+de un líquido incompresible en reposo, la presión en cualquier punto del líquido o en
+las superficies limítrofes aumenta en la misma cantidad. El efecto es el mismo si se
+aplica presión con un pistón a cualquier superficie de un fluido encerrado (
+Nfigura 9.8).
+Pascal estudió la transmisión de la presión en fluidos, y el efecto que se observa se de-
+nomina principio de Pascal:
+La presión aplicada a un fluido encerrado se transmite sin pérdida a todos los
+puntos del fluido y a las paredes del recipiente.
+En el caso de un líquido incompresible, el cambio de presión se transmite de forma
+prácticamente instantánea. En el caso de un gas, un cambio de presión por lo general
+va acompañado de un cambio de volumen o de temperatura (o de ambos); pero, una
+vez que se ha reestablecido el equilibrio, es válido el principio de Pascal.
+Entre las aplicaciones prácticas más comunes del principio de Pascal están los sis-
+temas de frenos hidráulicos de los automóviles. Al pisar el pedal del freno, se trans-
+mite una fuerza a través de delgados tubos llenos de líquido hasta los cilindros de 
+frenado de las ruedas. Asimismo, se usan elevadores y gatos hidráulicos para levan-
+tar automóviles y otros objetos pesados (
+▼figura 9.9).
+ = 2.35 * 104 N 1o 5.29 * 103 lb ¡unas 2.6 toneladas!2
+ F = pH2
+ O
+ A =10.784 * 105 N>m2210.300 m22
+ =11.01 * 105 N>m22 +10.784 * 105 N>m22 = 1.79 * 105 N>m2 1o Pa2
+ =11.01 * 105 N>m22 +11.00 * 103 kg>m3219.80 m>s2218.00 m2
+ p = pa +rgh
+Al depósito
+Válvula
+Fluido
+Válvula
+Pistón
+Aceite
+p
+Ai
+Ao
+Fo
+pp
+i
+Ao
+Ai
+FiFo =     )(
+a) b)
+F
+▼ FIGURA 9.9 Elevador y amortiguador hidráulicos a) Dado que las presiones de entrada
+y de salida son iguales (principio de Pascal), una fuerza pequeña de entrada origina una
+fuerza grande de salida, en proporción al cociente de las áreas de los pistones. b) Vista ex-
+puesta simplificada de un tipo de amortiguador. (Véase la descripción en el ejercicio 
+de refuerzo 9.5.)
+
+308 CAPÍTULO 9 Sólidos y fluidos
+Usando el principio de Pascal, demostramos cómo tales sistema nos permiten no
+sólo transmitir fuerza de un lugar a otro, sino también multiplicar esa fuerza. La pre-
+sión de entrada p
+i suministrada por aire comprimido a un elevador de taller mecánico,
+por ejemplo, aplica una fuerza de entrada Fi a un pistón de área pequeña Ai (figura
+9.9). La magnitud total de la presión se transmite al pistón de salida, que tiene un área
+Ao. Puesto que pi /H11005po, se sigue que
+y
+multiplicación de fuerza hidráulica (9.11)
+Si Ao es mayor que Ai, Fo será mayor que Fi. La fuerza de entrada se multiplica mu-
+cho si el pistón de entrada tiene una área relativamente pequeña.
+Ejemplo 9.5 ■ El elevador hidráulico: principio de Pascal
+Un elevador de taller mecánico tiene pistones de entrada y de levantamiento (salida) con
+diámetro de 10 y 30 cm, respectivamente. Se usa el elevador para sostener un automóvil 
+levantado que pesa 1.4 /H1100310
+4 N. a) ¿Qué fuerza se aplica al pistón de entrada? b) ¿Cuál 
+es la presión que se aplica al pistón de entrada?
+Razonamiento. a) El principio de Pascal, expresado en la ecuación 9.11 sobre hidráulica,
+tiene cuatro variables, y nos da tres (obtendremos las áreas correspondientes a los diáme-
+tros). b) La presión es simplemente p /H11005F/A.
+Solución.
+Dado: Encuentre: a) (fuerza de entrada)
+b) (presión de entrada)
+a) Reacomodamos la ecuación 9.11 y usamos para el pistón circular
+para obtener
+o bien,
+La fuerza de entrada es la novena parte de la fuerza de salida; en otras palabras, la fuerza
+se multiplicó por 9 (es decir, Fo /H110059Fi).
+(No necesitábamos escribir las expresiones completas para las áreas. Sabemos que el
+área de un círculo es proporcional al cuadrado del diámetro del círculo. Si la razón de los
+diámetros de los pistones es de 3 a 1, por consiguiente, la razón de sus áreas debe ser de 
+9 a 1, y pudimos utilizar esta razón directamente en la ecuación 9.11.)
+b) Ahora aplicamos la ecuación 9.8a:
+Esta presión es de aproximadamente 30 lb/in
+2, una presión ordinaria en los neumáticos
+de los automóviles, y aproximadamente el doble de la presión atmosférica (que es de
+unos 100 kPa, o 15 lb/in
+2).
+Ejercicio de refuerzo. El principio de Pascal se usa en los amortiguadores de los automó-
+viles y en el tren de aterrizaje de los aviones. (Las varillas del pistón, de acero pulido, pue-
+den verse arriba de las ruedas de los aviones.) En tales dispositivos, una fuerza grande (la
+sacudida que se produce cuando los neumáticos ruedan sobre un pavimento irregular a
+alta velocidad) debe reducirse a un nivel seguro gastando energía. Básicamente, el movi-
+miento de un pistón de diámetro grande obliga a un fluido a pasar a través de canales pe-
+queños en el pistón, en cada ciclo de movimiento (figura 9.9b).
+Observe que las válvulas permiten que pase fluido por el canal, lo cual crea resistencia
+al movimiento del pistón (situación opuesta a la de la figura 9.9a). El pistón sube y baja, di-
+sipando la energía de la sacudida. Esto se denomina amortiguación (sección 13.2). Suponga
+que el pistón de entrada de un amortiguador de avión tiene un diámetro de 8.0 cm. ¿Qué
+diámetro tendría un canal de salida que reduce la fuerza en un factor de 10?
+ = 2.0 * 10
+5 N>m2 1 = 200 kPa2
+ pi = Fi
+Ai
+= Fi
+pri
+2 = Fi
+p1di>222 = 1.6 * 103 N
+p10.10 m22>4
+Fi = a 0.10 m
+0.30 mb
+2
+Fo = Fo
+9 = 1.4 * 104 N
+9 = 1.6 * 103 N
+Fi = ¢ Ai
+Ao
+≤Fo = ¢
+pdi
+2>4
+pdo
+2>4≤Fo = ¢ di
+do
+≤
+2
+Fo
+1r = d>22
+A =pr2 =pd2>4
+ Fo = 1.4 * 104 N
+pi do = 30 cm = 0.30 m
+Fi di = 10 cm = 0.10 m
+Fo = ¢ Ao
+Ai
+≤Fi
+Fi
+Ai
+= Fo
+Ao
+Ilustración 14.2 Principio de P ascal
+
+9.2 Fluidos: presión y el principio de Pascal 309
+Como muestra el ejemplo 9.5, relacionamos directamente las fuerzas producidas por
+pistones con los diámetros de los pistones: Fi /H11005(di/do)2Fo o Fo /H11005(do/di)2Fi. Si hacemos
+do /H11022/H11022di, obtenemos factores de multiplicación de fuerza muy grandes, como ocurre
+con las prensas hidráulicas, gatos y excavadores de tierra. (Los relucientes pistones de
+entrada se aprecian fácilmente en esas máquinas.) O bien, podemos lograr una reduc-
+ción de fuerza haciendo d
+i /H11022do, como en el Ejercicio de refuerzo 9.5.
+Sin embargo, no debemos creer que al multiplicar una fuerza estamos obteniendo al-
+go por nada. La energía sigue siendo un factor, y una máquina nunca podría multiplicar-
+la. (¿Por qué no?) Si examinamos el trabajo en cuestión y suponemos que el trabajo
+generado es igual al trabajo invertido, W
+o /H11005Wi (una condición ideal; ¿por qué?, tenemos,
+por la ecuación 5.1,
+o bien,
+donde xo y xi son las distancias respectivas que recorren los pistones de salida y de
+entrada.
+Así, la fuerza de salida puede ser mucho mayor que la fuerza de entrada, sólo si la
+distancia de entrada es mucho mayor que la de salida. Por ejemplo, si Fo /H1100510Fi, enton-
+ces xi /H1100510xo, y el pistón de entrada deberá recorrer 10 veces la distancia que recorre el
+pistón de salida. Decimos que la fuerza se multiplica a expensas de la distancia.
+Medición de la presión
+La presión puede medirse con dispositivos mecánicos que a menudo tienen un resorte
+tensado (como el medidor de presión de los neumáticos). Otro tipo de instrumento,
+llamado manómetro, utiliza un líquido —generalmente mercurio— para medir la pre-
+sión. En la 
+▼figura 9.10a se muestra un manómetro de tubo abierto. Un extremo del tubo
+Fo = ¢ xi
+xo
+≤Fi
+Fo
+ xo = Fi
+ xi
+ p = pa + rgh 
+pg = p − pa 
+a) Manómetro de tubo abierto
+h
+pa
+Resorte
+Presión
+atmosférica
+Escala
+b) Medidor de presión de neumáticos
+Presión de
+aire en
+neumático
+Gas
+a
+presión
+p
+(presión absoluta)
+(presión manométrica)
+h
+Escala
+Vacío
+Punto de
+referencia
+c) Barómetro
+pa = rgh 
+pa
+(presión barométrica)
+Mercurio
+▼ FIGURA 9.10 Medición de presión a) En un manómetro de tubo abierto, la presión de
+gas en el recipiente se equilibra con la presión de la columna de líquido, y con la presión 
+atmosférica que actúa sobre la superficie abierta del líquido. La presión absoluta del gas es
+igual a la suma de la presión atmosférica (p
+a) y /H9267gh, la presión manométrica. b) Un medidor
+de presión de neumáticos mide presión manométrica, la diferencia de la presión dentro del
+neumático y la presión atmosférica: p
+man /H11005p /H11002pa. De esta manera, si el medidor indica 
+200 kPa (30 lb/in2), la presión real dentro del neumático es 1 atm más alta, es decir, 300 kPa.
+c) Un barómetro es un manómetro de tubo cerrado que se expone a la atmósfera y, por lo
+tanto, sólo marca presión atmosférica.
+
+310 CAPÍTULO 9 Sólidos y fluidos
+con forma de U está abierto a la atmósfera y el otro está conectado al recipiente de gas
+cuya presión se desea medir. El líquido en el tubo en U actúa como depósito a través
+del cual la presión se transmite según el principio de Pascal.
+La presión del gas (p) se equilibra con el peso de la columna de líquido (de altura
+h, la diferencia de altura de las columnas) y la presión atmosférica (p
+a) en la superficie
+abierta del líquido:
+(9.12)
+La presión p se denomina presión absoluta.
+Quizás usted haya medido presiones con un manómetro, que es el instrumento
+que se usa para medir la presión del aire en los neumáticos de los automóviles (figura
+9.10b). Tales dispositivos miden, de forma muy aceptable, la presión manométrica: 
+el manómetro sólo registra la presión por arriba (o por debajo) de la presión atmosférica.
+Por lo tanto, para obtener la presión absoluta (p), es necesario sumar la presión atmos-
+férica (p
+a) a la presión manométrica (pg):
+Por ejemplo, suponga que el medidor indica una presión de 200 kPa ( /H1101530 lb/in 2). 
+La presión absoluta dentro del neumático será entonces p /H11005pa /H11001pg /H11005101 kPa /H11001
+200 kPa /H11005301 kPa, donde la presión atmosférica normal es de aproximadamente 
+101 kPa (14.7 lb/in 2), como veremos más adelante.
+La presión manométrica de un neumático lo mantiene rígido y funcional. En tér-
+minos de la unidad más conocida libras por pulgada cuadrada (psi o lb/in 2), un neu-
+mático con presión manométrica de 30 psi tiene una presión absoluta de unos 45 psi
+(30 /H1100115, ya que la presión atmosférica /H1101515 psi). Por lo tanto, la presión sobre el inte-
+rior del neumático es de 45 psi; y sobre el exterior, 15 psi. El /H9004p de 30 psi mantiene in-
+flado el neumático. Si abrimos la válvula o sufrimos una pinchadura, las presiones
+interna y externa se igualan ¡y tenemos una ponchadura!
+La presión atmosférica puede medirse con un barómetro. En la figura 9.10c se ilus-
+tra el principio de un barómetro de mercurio. Tal dispositivo fue inventado por Evan-
+gelista Torricelli (1608-1647), el sucesor de Galileo como profesor de matemáticas en la
+academia de Florencia. Un barómetro simple consiste en un tubo lleno de mercurio
+que se invierte dentro de un depósito. Algo de mercurio sale del tubo hacia el depósi-
+to, pero en el tubo queda una columna sostenida por la presión del aire sobre la super-
+ficie del depósito. Este dispositivo se considera un manómetro de tubo cerrado; la presión
+que mide es únicamente la presión atmosférica, porque la presión manométrica (la
+presión por arriba de la presión atmosférica) es cero.
+Entonces, la presión atmosférica es igual a la presión debida al peso de la columna
+de mercurio, es decir,
+(9.13)
+Una atmósfera estándar se define como la presión que sostiene una columna de
+mercurio de exactamente 76 cm de altura al nivel del mar a 0°C. (En la sección A fondo
+9.2 sobre posible dolor de oídos, se explica un efecto atmosférico común sobre los seres
+vivos a causa de los cambios de presión.)
+Los cambios de presión atmosférica pueden observarse como cambios en la altura
+de una columna de mercurio. Tales cambios se deben primordialmente a masas de 
+aire de alta y baja presión que viajan por la superficie terrestre. La presión atmosférica
+suele informarse en términos de la altura de la columna del barómetro, y los pronósti-
+cos meteorológicos indican que el barómetro está subiendo o está bajando. Es decir,
+ = 29.92 in. Hg 1aprox. 30 in. Hg2
+ 1 atm 1aprox. 101 kPa2 = 76 cm Hg = 760 mm Hg
+pa =rgh
+p = pa + pg
+p = pa +rgh
+
+9.2 Fluidos: presión y el principio de Pascal 311
+9. 2 Un efecto atmosférico: Posible dolor de oído
+Las variaciones en la presión atmosférica pueden tener un
+efecto fisiológico común: cambios de presión en los oídos al
+cambiar la altitud. Es frecuente sentir que los oídos “se tapan”
+y “se destapan”, al ascender o descender por caminos monta-
+ñosos o al viajar en avión. El tímpano, tan importante para 
+oír, es una membrana que separa el oído medio del oído exter-
+no. [Véase la figura 1 del capítulo 14 (sonido) en la sección 
+A fondo 14.2 sobre el oído (p. 475) para comprender la anato-
+mía del oído.] El oído medio se conecta con la garganta 
+a través de la trompa de Eustaquio, cuyo extremo normalmen-
+te está cerrado. La trompa se abre al deglutir o al bostezar 
+para que pueda salir aire y se igualen las presiones interna 
+y externa.
+Sin embargo, cuando subimos con relativa rapidez en un
+avión o en un automóvil por una región montañosa, la presión
+del aire afuera del oído podría ser menor que en el oído medio.
+Esta diferencia de presión empuja al tímpano hacia afuera. Si
+no se alivia la presión exterior, pronto sentiremos un dolor de
+oído. La presión se alivia “empujando” aire a través de la trom-
+pa de Eustaquio hacia la garganta, y es cuando sentimos que
+los oídos “se destapan”. A veces tragamos saliva o bostezamos
+para ayudar a este proceso. Asimismo, cuando descendemos, la
+presión exterior aumenta y la presión más baja en el oído medio
+tendrá que igualarla. En este caso, al tragar saliva se permite
+que el aire fluya hacia el oído medio.
+La naturaleza nos cuida. Sin embargo, es importante en-
+tender lo que está sucediendo. Supongamos que tenemos una
+infección en la garganta. Podría haber una inflamación en la
+abertura de la trompa de Eustaquio hacia la garganta, que 
+la bloquea parcialmente. Quizá estemos tentados a taparnos la
+nariz y “soplar” con la boca cerrada para destapar los oídos.
+¡No hay que hacerlo! Podríamos introducir mucosidad infec-
+tada en el oído interno y causarle una dolorosa infección. En
+vez de ello, trague saliva con fuerza varias veces y bostece 
+con la boca bien abierta para ayudar a abrir la trompa de 
+Eustaquio e igualar la presión.
+A FONDO
+* En el SI una atmósfera tiene una presión de 1.013 /H11003105 N/m2, o cerca de 105 N/m2. Los meteo-
+rólogos usan incluso otra unidad de presión llamada milibar (mb). Un bar se define como 105 N/m2, y
+puesto que un bar /H110051000 mb, entonces, 1 atm /H110151 bar /H110051000 mb. Con 1000 mb, los pequeños cambios
+en la presión atmosférica se informan con mayor facilidad.
+En honor a Torricelli, se dio el nombre torr a una presión que sostiene 1 mm de mer-
+curio:
+y
+*
+Como el mercurio es muy tóxico, se le sella dentro de los barómetros. Un dispositivo
+más seguro y menos costoso que se usa ampliamente para medir la presión atmosféri-
+ca es el barómetro aneroide (“sin fluido”). En un barómetro aneroide, un diafragma me-
+tálico sensible encerrado en un recipiente al vacío (parecido a un tambor) responde a
+los cambios de presión, los cuales se indican en una carátula. Éste es el tipo de baróme-
+tro que vemos en las casas, montado en un marco decorativo.
+Puesto que el aire es compresible, la densidad y la presión atmosféricas son ma-
+yores en la superficie terrestre y disminuyen con la altitud. Vivimos en el fondo de
+la atmósfera, pero no notamos mucho su presión en nuestras actividades cotidianas.
+Recordemos que en gran parte nuestro cuerpo se compone de fluidos, los cuales
+ejercen una presión igual hacia afuera. De hecho, la presión externa de la atmósfera
+es tan importante para el funcionamiento normal que la llevamos con nosotros
+siempre que podemos. Los trajes presurizados que usan los astronautas en el espa-
+cio o en la Luna son necesarios no sólo para suministrar oxígeno, sino también para
+crear una presión externa similar a la que hay en la superficie terrestre.
+Una lectura de presión manométrica muy importante se describe en la sección 
+A fondo 9.3: Medición de la presión arterial, que debe leerse antes de continuar con el
+ejemplo 9.6.
+1 atm = 760 torr
+1 mm Hg K 1 torr
+
+▲ FIGURA 9.11 ¿Qué tan alto debe
+estar? Véase el ejemplo 9.6.
+312 CAPÍTULO 9 Sólidos y fluidos
+9.3 MEDICIÓN DE LA PRESIÓN ARTERIAL
+Básicamente, una bomba es una máquina que transfiere energía
+mecánica a un fluido, con la finalidad de aumentar su presión y
+hacerlo que fluya. Una bomba que interesa a todos es el cora-
+zón, una bomba muscular que impulsa la sangre a través de la
+red de arterias, capilares y venas del sistema circulatorio del
+cuerpo. En cada ciclo de bombeo, las cámaras internas del cora-
+zón humano se agrandan y se llenan con sangre recién oxigena-
+da proveniente de los pulmones (figura 1).
+El corazón contiene dos pares de cámaras: dos ventrículos
+y dos aurículas. Cuando los ventrículos se contraen, se expulsa
+sangre a través de las arterias. Las arterias principales se ramifi-
+can para formar arterias cada vez más estrechas, hasta llegar a
+los diminutos capilares. Ahí, los nutrimentos y el oxígeno que
+transporta la sangre se intercambian con los tejidos circundan-
+tes, y se recogen los desechos (dióxido de carbono). Luego, la
+sangre fluye por las venas hacia los pulmones para expulsar
+dióxido de carbono, regresar al corazón y completar el circuito.
+Cuando los ventrículos se contraen, empujando sangre ha-
+cia el sistema arterial, la presión en las arterias aumenta abrupta-
+mente. La presión máxima que se alcanza durante la contracción
+ventricular se denomina presión sistólica. Cuando los ventrículos
+se relajan, la presión arterial baja hasta su valor mínimo antes de
+la siguiente contracción. Dicho valor se llama presión diastólica.
+(El nombre de estas presiones proviene de dos partes del ciclo de
+bombeo, la sístole y la diástole.)
+Las paredes de las arterias tienen considerable elasticidad
+y se expanden y se contraen con cada ciclo de bombeo. Esta al-
+ternancia de expansiones y contracciones se puede detectar co-
+A FONDO
+Diastólica
+Sistólica
+Tiempo
+Presión
+Aurícula
+derecha
+Aurícula
+izquierda
+Ventrículo
+derecho
+a) Entrada b) Salida
+Aorta Arteria
+pulmonar
+Ventrículo
+izquierdo
+FIGURA 1 El corazón como bomba El corazón humano 
+es similar a una bomba de fuerza mecánica. Su acción de 
+bombeo, que consiste en a) entrada y b) salida, causa 
+variaciones en la presión arterial.  
+Ejemplo 9.6 ■ Infusión intravenosa: ayuda de la gravedad
+Una infusión intravenosa (IV) es un tipo de ayuda de la gravedad muy distinto del que es-
+tudiamos en el caso de las sondas espaciales del capítulo 7. Considere un paciente que re-
+cibe una IV por flujo gravitacional en un hospital, como se muestra en la 
+>figura 9.11. Si la
+presión manométrica sanguínea en la vena es de 20.0 mm Hg, ¿a qué altura deberá 
+colocarse la botella para que la IV funcione adecuadamente?
+Razonamiento. La presión manométrica del fluido en la base del tubo de IV debe ser ma-
+yor que la presión en la vena, y puede calcularse con la ecuación 9.9. (Suponemos que el
+líquido es incompresible.)
+Solución.
+Dado: (presión manométrica Encuentre: h (peso de )
+en la vena)
+(densidad de sangre entera, tabla 9.2)
+Primero, necesitamos convertir las unidades médicas comunes de mm Hg (torr) a la
+unidad SI (Pa o N/m2):
+Luego, para p /H11022pv,
+o bien,
+h 7
+pv
+rg = 2.66 * 103 Pa
+11.05 * 103 kg>m3219.80 m>s22 = 0.259 m 1 L 26 cm2
+p =rgh 7 pv
+pv =120.0 mm Hg23133 Pa>1mm Hg24 = 2.66 * 103 Pa
+ r = 1.05 * 103 kg>m3
+pv 7 20 mm Hg pv = 20.0 mm Hg
+Ilustración 14.4 Bombeo de agua
+desde un pozo
+
+9.3 Flotabilidad y el principio de Arquímedes 313
+La botella de IV necesita estar al menos 26 cm arriba del punto de infusión.
+Ejercicio de refuerzo. El intervalo normal de presión arterial (manométrica) suele darse
+como 120/80 (en mm Hg). ¿Por qué es tan baja la presión sanguínea de 20 mm Hg en 
+este ejemplo?
+9.3 Flotabilidad y el principio de Arquímedes
+OBJETIVOS: a) Relacionar la fuerza de flotabilidad con el principio de Arquímedes 
+y b) deducir si un objeto flotará o no en un fluido, con base en las den-
+sidades relativas.
+Cuando un objeto se coloca en un fluido, o flota o se hunde. Esto se observa más común-
+mente en los líquidos; por ejemplo, los objetos flotan o se hunden en agua. Sin embargo,
+se presenta el mismo efecto en gases: un objeto que cae se hunde en la atmósfera; mien-
+tras que otros objetos flotan (
+▼figura 9.12).
+Las cosas flotan porque el fluido las sostiene. Por ejemplo, si sumergimos un cor-
+cho en agua y lo soltamos, el corcho subirá a la superficie y flotará ahí. Por nuestros co-
+nocimientos de fuerzas, sabemos que tal movimiento requiere una fuerza neta hacia
+arriba sobre el objeto. Es decir, debe actuar sobre el objeto una fuerza hacia arriba ma-
+yor que la fuerza hacia abajo de su peso. Las fuerzas se igualan cuando el objeto flota
+en equilibrio. La fuerza hacia arriba debida a la inmersión total o parcial de un objeto en
+un fluido se denomina fuerza de flotabilidad.
+mo un pulso en las arterias cercanas a la superficie del cuerpo.
+Por ejemplo, la arteria radial cercana a la superficie de la muñe-
+ca se usa comúnmente para medir el pulso de las personas. La
+tasa de pulso equivale a la tasa de contracción de los ventrícu-
+los, así que refleja el ritmo cardiaco.
+La medición de la presión sanguínea de una persona con-
+siste en medir la presión de la sangre sobre las paredes de las
+arterias. Esto se hace con un esfigmomanómetro . (La palabra 
+griega sphygmo significa “pulso”.) Se usa un manguito inflable
+para cortar temporalmente el flujo de sangre. La presión del
+manguito se reduce lentamente mientras la arteria se monitorea
+con un estetoscopio (figura 2). Se llega a un punto en que ape-
+nas comienza a pasar sangre por la arteria constreñida. Este flu-
+jo es turbulento y produce un sonido específico con cada latido
+del corazón. Cuando se escucha inicialmente ese sonido, se to-
+ma nota de la presión sistólica en el manómetro. Cuando los la-
+tidos turbulentos cesan porque la sangre ya fluye suavemente,
+se toma la lectura diastólica.
+La presión arterial suele informarse dando las presiones
+sistólica y diastólica, separadas por una diagonal; por ejemplo,
+120/80 (mm Hg, que se lee “120 sobre 80”). (El manómetro de
+la figura 2 es del tipo aneroide; otros esfigmomanómetros más
+antiguos utilizaban una columna de mercurio para medir la
+presión arterial.) La presión arterial sistólica normal varía entre
+120 y 139; y la diastólica, entre 80 y 89. (La presión arterial es
+una presión manométrica. ¿Por qué?)
+Al alejarse del corazón, disminuye el diámetro de los vasos
+sanguíneos conforme éstos se ramifican. La presión en los va-
+sos sanguíneos baja al disminuir su diámetro. En las arterias
+pequeñas, como las del brazo, la presión de la sangre es del or-
+den de 10 a 20 mm Hg, y no hay variación sistólica-diastólica.
+Una presión arterial elevada es un problema de salud muy
+frecuente. Las paredes elásticas de las arterias se expanden bajo
+la fuerza hidráulica de la sangre bombeada desde el corazón.
+Sin embargo, su elasticidad podría disminuir con la edad. De-
+pósitos de colesterol pueden estrechar y hacer ásperas las vías
+arteriales, lo que obstaculizaría el paso de la sangre y produci-
+ría una forma de arterioesclerosis, o endurecimiento de las arte-
+rias. Debido a tales fallas, es necesario aumentar la presión
+impulsora para mantener un flujo sanguíneo normal. El cora-
+zón debe esforzarse más, lo cual exige más a sus músculos. Una
+disminución relativamente pequeña en el área transversal efi-
+caz de un vaso sanguíneo tiene un efecto considerable (un in-
+cremento) sobre la tasa de flujo, como veremos en la sección 9.4.
+FIGURA 2 Medición de presión arterial El manómetro 
+marca la presión en milímetros de Hg.
+
+314 CAPÍTULO 9 Sólidos y fluidos
+Se observa cómo ocurre la fuerza de flotabilidad si consideramos un objeto flotan-
+te que se sostiene por debajo de la superficie de un fluido (Nfigura 9.13a). Las presiones
+sobre las caras superior e inferior del objeto son p1 /H11005/H9267fgh1 y p2 /H11005/H9267fgh2, respectivamen-
+te, donde /H9267f es la densidad del fluido. Por lo tanto, hay una diferencia de presión 
+/H9004p /H11005p2 /H11002p1 /H11005/H9267fg(h2 /H11002h1) entre las caras superior e inferior del bloque, que produce
+una fuerza hacia arriba (la fuerza de flotabilidad) Fb. Esta fuerza se equilibra con la
+fuerza aplicada y con el peso del bloque.
+No es difícil deducir una expresión para la magnitud de la fuerza de flotabilidad.
+Sabemos que la presión es fuerza por unidad de área. Así, si el área de ambas caras del
+bloque, superior e inferior, es A, la magnitud de la fuerza de flotabilidad neta en tér-
+minos de la diferencia de presión es
+Puesto que (h
+2 /H11002h1)A es el volumen del bloque y, por lo tanto, el volumen del fluido
+desplazado por el bloque, Vf, escribimos la expresión para Fb así:
+Sin embargo, /H9267fVf es simplemente la masa del fluido desplazado por el bloque, mf. Por
+consiguiente, escribimos la expresión para la fuerza de flotabilidad como Fb /H11005mfg: la
+magnitud de la fuerza de flotabilidad es igual al peso del fluido desplazado por el blo-
+que (figura 9.13b). Este resultado general se conoce como principio de Arquímedes:
+Un cuerpo parcial o totalmente sumergido en un fluido experimenta una fuerza
+de flotabilidad igual en magnitud al peso del volumen de fluido desplazado:
+(9.14)
+Se encargó a Arquímedes (287-212 a.C.) la tarea de determinar si una corona hecha
+para cierto rey era de oro puro o contenía algo de plata. Cuenta la leyenda que la solución
+del problema se le ocurrió cuando estaba dentro de una tina de baño. (Véase la sec-
+ción Hechos de física al inicio de este capítulo.) Se dice que tal fue su emoción que salió
+de la tina y corrió (desnudo) por las calles de la ciudad gritando “¡Eureka! ¡Eureka!”
+(“Lo encontré”, en griego.) Aunque en la solución al problema que halló Arquímedes
+intervenían densidad y volumen, se supone que ello lo puso a pensar en la flotabilidad.
+Ejemplo integrado 9.7 ■ Más ligero que el aire: la fuerza 
+de flotabilidad
+Un globo meteorológico esférico y lleno de helio tiene un radio de 1.10 m. a) ¿La fuerza de
+flotabilidad sobre el globo depende de la densidad 1) del helio, 2) del aire o 3) del peso del
+recubrimiento de goma? [/H9267
+aire /H110051.29 kg/m3 y /H9267He /H110050.18 kg/m3.] b) Calcule la magnitud
+de la fuerza de flotabilidad sobre el globo. c) El recubrimiento de goma del globo tiene
+una masa de 1.20 kg. Cuando se suelta, ¿cuál es la magnitud de la aceleración inicial del
+globo si lleva consigo una carga cuya masa es de 3.52 kg?
+a) Razonamiento conceptual. La fuerza de flotabilidad no tienen nada que ver con el he-
+lio ni con el recubrimiento de goma, y es igual al peso del aire desplazado, que se deter-
+mina a partir del volumen del globo y la densidad del aire. Así que la respuesta correcta
+es la 2.
+b, c) Razonamiento cuantitativo y solución.
+Dado: Encuentre: b) (fuerza de flotabilidad) 
+c) a (aceleración inicial)
+ r = 1.10 m
+ mp = 3.52 kg 
+ ms = 1.20 kg
+ rHe = 0.18 kg>m3
+Fb raire = 1.29 kg>m3
+Fb = mf
+ g =rf
+ gVf
+Fb =rf
+ gVf
+Fb = p2
+ A - p1
+ A =1¢p2A =rf
+ g1h2 - h12A
+Ilustración 14.3 Fuerza 
+de flotabilidad
+▲ FIGURA 9.12 Flotabilidad en 
+fluidos El aire es un fluido en el
+que flotan objetos como este 
+dirigible. El helio en su interior 
+es menos denso que el aire circun-
+dante. La fuerza de flotabilidad 
+resultante sostiene al dirigible.
+
+9.3 Flotabilidad y el principio de Arquímedes 315
+0
+5
+10
+Newtons
+Newtons
+b)
+m
+h
+p1 = rfgh1
+b
+a)
+p2 = rfgh2
+h
+Δp =rfg(h – h1)
+10 N
+8.0 N
+g
+F
+F
+▲ FIGURA 9.13 Flotabilidad y
+principio de Arquímedes a) Surge
+una fuerza de flotabilidad por la
+diferencia de presión a diferentes
+profundidades. La presión sobre la
+base del bloque sumergido (p
+2) es
+mayor que sobre la parte de arriba
+(p
+1), por lo que hay una fuerza (de
+flotabilidad) dirigida hacia arriba.
+(Se ha desplazado por claridad.) 
+b) Principio de Arquímedes: 
+La fuerza de flotabilidad sobre el
+objeto es igual al peso del volumen
+de fluido desplazado. (La báscula 
+se ajustó para que marque cero
+cuando el recipiente está vacío.)
+b) El volumen del globo es
+Entonces la fuerza de flotabilidad es igual al peso del aire desplazado:
+c) Dibuje un diagrama de cuerpo libre. Hay tres fuerzas de peso hacia abajo (la del helio,
+la del recubrimiento de goma y la de la carga) y la fuerza de flotabilidad hacia arriba. Se
+suman estas fuerzas para encontrar la fuerza neta, y luego se utiliza la segunda ley de
+Newton para determinar la aceleración. Los pesos del helio, el recubrimiento de goma y
+la carga son los siguientes:
+Se suman las fuerzas (tomando la dirección hacia arriba como positiva),
+y
+Ejercicio de refuerzo. Conforme el globo asciende, en algún momento deja de acelerar para
+elevarse a velocidad constante por un breve periodo; después comienza a precipitarse hacia
+el suelo. Explique este comportamiento en términos de densidad atmosférica y temperatura.
+(Sugerencia: considere que la temperatura y la densidad del aire disminuyen con la altitud. 
+La presión de una cantidad de gas es directamente proporcional a la temperatura.)
+Ejemplo 9.8 ■ Su flotabilidad en el aire
+El aire es un fluido y nuestros cuerpos desplazan aire. Así, una fuerza de flotabilidad está
+actuando sobre cada uno de nosotros. Estime la magnitud de la fuerza de flotabilidad so-
+bre una persona de 75 kg que se debe al aire desplazado.
+Razonamiento. La palabra clave aquí es estime, porque no se tienen muchos datos. Sabe-
+mos que la fuerza de flotabilidad es Fb /H11005/H9267agV, donde /H9267a es la densidad del aire (que se 
+encuentra en la tabla 9.2), y V es el volumen del aire desplazado, que es igual al volumen
+de la persona. La pregunta es: ¿cómo encontramos el volumen de una persona?
+La masa está dada, y si se conociera la densidad de la persona, podría encontrarse el
+volumen (/H9267/H11005m/V o V /H11005m//H9267). Aquí es donde entra la estimación. La mayoría de la gen-
+te apenas si logra flotar en el agua, así que la densidad del cuerpo humano es aproxima-
+damente la misma que la del agua, /H9267/H110051000 kg/m
+3. A partir de tal estimación, también
+es posible calcular la fuerza de flotabilidad.
+Solución.
+Dado: Encuentre: (fuerza de flotabilidad)
+(tabla 9.2)
+(densidad estimada 
+de una persona)
+Primero, encontremos el volumen de la persona,
+Entonces,
+No mucho cuando uno se pesa. Sin embargo, esto significa que su peso sea /H110150.2 lb más
+que lo que indica la lectura de la báscula.
+Ejercicio de refuerzo.Estime la fuerza de flotabilidad sobre un globo meteorológico lleno de
+helio que tiene un diámetro aproximado del largo de la distancia de los brazos extendidos
+del meteorólogo (colocándolos horizontalmente), y compare con el resultado en el ejemplo.
+ = 0.95 N 1 
+ L 1.0 N o 0.225 lb2
+ Fb =ra
+ gVp =ra
+ g¢ m
+rp
+≤ =11.29 kg>m3219.8 m>s2210.075 m32
+Vp = m
+rp
+=
+75 kg
+1000 kg>m3 = 0.075 m3
+ rp = 1000 kg>m3
+ ra = 1.29 kg>m3
+Fb m = 75 kg
+a = Fneta
+mtotal
+= Fneta
+mHe + ms + mp
+= 13.4 N
+0.994 kg + 1.20 kg + 3.52 kg
+= 2.35 m>s2
+Fneta = Fb - wHe - ws - wp = 70.5 N - 9.84 N - 11.8 N - 35.5 N = 13.4 N
+ wp = mp
+ g =13.52 kg219.80 m>s22 = 35.5 N
+ ws = ms
+ g =11.20 kg219.80 m>s22 = 11.8 N
+ wHe = mHe
+ g =1rHe
+ V2g =10.18 kg>m3215.58 m3219.80 m>s22 = 9.84 N
+Fb = maire
+ g =1raire
+ V2g =11.29 kg>m3215.58 m3219.80 m>s22 = 70.5 N
+V =14>32pr3 =14>32p11.10 m23 = 5.58 m3
+
+316 CAPÍTULO 9 Sólidos y fluidos
+Ejemplo integrado 9.9 ■ Peso y fuerza de flotabilidad: principio 
+de Arquímedes
+Un recipiente de agua con tubo de desagüe, como el de la figura 9.13b, está sobre una bás-
+cula que marca 40 N. El nivel del agua está justo abajo del tubo de salida en el costado del
+recipiente. a) Se coloca un cubo de madera de 8.0 N en el recipiente. El agua desplazada
+por el cubo flotante escurre por el tubo de desagüe hacia otro recipiente que no está en 
+la báscula. ¿La lectura de la báscula será entonces 1) exactamente 48 N, 2) entre 40 y 48 N,
+3) exactamente 40 N o 4) menos de 40 N? b) Suponga que empuja el cubo hacia abajo con
+el dedo, de manera que su cara superior quede al nivel de la superficie del agua. ¿Cuánta
+fuerza tendrá que aplicar si el cubo mide 10 cm por lado?
+a) Razonamiento conceptual. Por el principio de Arquímedes, el bloque se sostiene por
+una fuerza de flotabilidad igual en magnitud al peso del agua desplazada. Puesto que el
+bloque flota, la fuerza de flotabilidad debe equilibrar el peso del cubo, así que su mag-
+nitud es de 8.0 N. Por lo tanto, se desplaza del recipiente un volumen de agua que pesa
+8.0 N, a la vez que se agrega un peso de 8.0 N al recipiente. La báscula seguirá marcando
+40 N, por lo que la respuesta es 3.
+La fuerza de flotabilidad y el peso del bloque actúan sobre el bloque. La fuerza de reac-
+ción (presión) del bloque sobre el agua se transmite al fondo del recipiente (principio de
+Pascal) y se registra en la báscula. (Elabore un diagrama de que muestre las fuerzas sobre
+el cubo.)
+b) Razonamiento cuantitativo y solución. Hay tres fuerzas que actúan sobre el cubo esta-
+cionario: la fuerza de flotabilidad hacia arriba, y el peso y la fuerza aplicada por el dedo
+hacia abajo. Conocemos el peso del cubo, así que para calcular la fuerza aplicada con el
+dedo necesitamos determinar la fuerza de flotabilidad sobre el cubo.
+Dado: (lado del cubo) Encuentre: fuerza aplicada hacia 
+(peso del cubo) abajo para colocar el cubo 
+al nivel del agua
+La sumatoria de las fuerzas que actúan sobre el cubo es 
+donde F
+b es la fuerza de flotabilidad hacia arriba y Ff es la fuerza hacia abajo aplicada
+con el dedo. Por lo tanto, Ff /H11005Fb /H11002w. Como sabemos, la magnitud de la fuerza de flo-
+tabilidad es igual al peso del agua desplazada por el cubo, y está dada por Fb /H11005/H9267fgVf
+(ecuación 9.14). La densidad del fluido es la del agua, que conocemos (1.0 /H11003103 kg/m3,
+tabla 9.2), así que
+Entonces,
+Ejercicio de refuerzo. En el inciso a, ¿la báscula seguiría marcando 40 N si el objeto tuviera
+una densidad mayor que la del agua? En el inciso b, ¿qué marcaría la báscula?
+Flotabilidad y densidad
+Solemos decir que los globos de helio y de aire caliente flotan porque son más ligeros
+que el aire, aunque lo correcto técnicamente es decir que son menos densos que el aire.
+La densidad de un objeto nos indica si flota o se hunde en un fluido, si conocemos tam-
+bién la densidad del fluido. Consideremos un objeto sólido uniforme sumergido total-
+mente en un fluido. El peso del objeto es
+El peso del volumen de fluido desplazado, que es la magnitud de la fuerza de flotabi-
+lidad, es
+Fb = wf = mf
+ g =rf
+ Vf
+ g
+wo = mo
+ g =ro
+ Vo
+ g
+Ff = Fb - w = 9.8 N - 8.0 N = 1.8 N
+Fb =rf
+ gVf =11.0 * 103 kg>m3219.8 m>s2210.10 m23 = 9.8 N
+g Fi =+ Fb - w - Ff = 0,
+ w = 8.0 N
+ /= 10 cm = 0.10 m
+Exploración 14.2 Fuerza 
+de flotabilidad
+
+9.3 Flotabilidad y el principio de Arquímedes 317
+▲ FIGURA 9.14 Densidades iguales
+y flotabilidad Esta bebida contiene
+esferas de gelatina que permanecen
+suspendidas durante meses,
+prácticamente sin cambio alguno.
+¿Qué densidad tienen las esferas 
+en comparación con la densidad 
+de la bebida?
+Si el objeto está totalmente sumergido, Vf /H11005V0. Si dividimos la segunda ecuación entre la
+primera obtendremos
+(objeto totalmente sumergido) (9.15)
+Por lo tanto, si /H9267o es menor que /H9267f, Fb será mayor que wo, y el objeto flotará. Si /H9267o, es ma-
+yor que /H9267f, Fb será menor que wo y el objeto se hundirá. Si /H9267o /H11005/H9267f, Fb será igual a wo, y
+el objeto permanecerá en equilibrio en cualquier posición sumergida (siempre que la
+densidad del fluido sea constante). Si el objeto no es uniforme, de manera que su den-
+sidad varíe dentro de su volumen, la densidad del objeto en la ecuación 9.15 será la
+densidad promedio.
+Expresadas en palabras, estas tres condiciones son:
+Un objeto flota en un fluido, si su densidad promedio es menor que la densidad
+del fluido 
+Un objeto se hunde en un fluido, si su densidad promedio es mayor que la den-
+sidad del fluido 
+Un objeto está en equilibrio a cualquier profundidad sumergida en un fluido, si
+su densidad promedio es igual a la densidad del fluido 
+En la 
+Nfigura 9.14 se da un ejemplo de la última condición.
+Un vistazo a la tabla 9.2 nos dirá si un objeto flotará o no en un fluido, sin impor-
+tar su forma ni su volumen. Las tres condiciones que acabamos de plantear también
+son válidas para un fluido en un fluido, si los dos son inmiscibles (no se mezclan). Por
+ejemplo, pensaríamos que la crema es “más pesada” que la leche descremada, pero no
+es así: la crema flota en la leche, así que es menos densa.
+En general, supondremos que los objetos y fluidos tienen densidad uniforme y cons-
+tante. (La densidad de la atmósfera varía según la altitud, pero es relativamente constante
+cerca de la superficie terrestre.) En todo caso, en aplicaciones prácticas lo que suele im-
+portar en cuanto a flotar o hundirse es la densidad promedio del objeto. Por ejemplo, un
+trasatlántico es, en promedio, menos denso que el agua, aunque esté hecho de acero. 
+Casi todo su volumen está lleno de aire, así que la densidad promedio del barco es me-
+nor que la del agua. Asimismo, el cuerpo humano tiene espacios llenos de aire, por 
+lo que casi todos flotamos en el agua. La profundidad superficial a la que una persona
+flota depende de su densidad. (¿Por qué?)
+En algunos casos, se varía adrede la densidad total de un objeto. Por ejemplo, un
+submarino se sumerge inundando los tanques con agua de mar (decimos que “carga
+lastre”) para aumentar su densidad promedio. Cuando la nave debe emerger, con
+bombas expulsa el agua de los tanques, para que su densidad media sea menor que la
+del agua de mar circundante.
+Asimismo, muchos peces controlan su profundidad utilizando sus vejigas natato-
+rias o vejigas de gas . Un pez cambia o mantiene la flotabilidad regulando el volumen 
+de gas en la vejiga natatoria. Mantener la flotabilidad neutral (lo cual significa no subir
+ni hundirse) es importante porque esto permite al pez permanecer a una profundidad
+determinada para alimentarse. Algunos peces se mueven hacia arriba o hacia abajo en
+el agua en busca de alimento. En vez de utilizar la energía para nadar hacia arriba y
+abajo, el pez altera su flotabilidad para subir o descender.
+Esto se logra ajustando las cantidades de gas en la vejiga natatoria. El gas se trans-
+fiere de la vejiga a los vasos sanguíneos y de regreso. Desinflar la vejiga disminuye el
+volumen y aumenta la densidad promedio, de manera que el pez se hunde. El gas es
+forzado hacia los vasos sanguíneos circundantes y expulsado.
+Y a la inversa, al inflar la vejiga, los gases son forzados hacia la vejiga desde los va-
+sos sanguíneos, incrementando así el volumen y disminuyendo la densidad promedio,
+de manera que el pez sube. Estos procesos son complejos, pero el principio de Arquí-
+medes se aplica de esta forma en un escenario biológico.
+1ro =rf2.
+1ro 7rf2.
+1ro 6rf2.
+Fb
+wo
+= rf
+ro
+ o Fb = ¢rf
+ro
+≤ wo
+Exploración 14.1 Flotabilidad 
+y densidad
+
+318 CAPÍTULO 9 Sólidos y fluidos
+Ejemplo 9.10 ■ ¿Flotar o hundirse? Comparación de densidades
+Un cubo sólido uniforme de 10 cm por lado tiene una masa de 700 g. a) ¿Flotará el cubo en
+agua? b) Si flota, ¿qué fracción de su volumen estará sumergida?
+Razonamiento. a) La pregunta es si la densidad del material del que está hecho el cubo es
+mayor o menor que la del agua, así que calculamos la densidad del cubo. b) Si el cubo flo-
+ta, la fuerza de flotabilidad y el peso del cubo serán iguales. Ambas fuerzas están relacio-
+nadas con el volumen del cubo, así que podemos escribirlas en términos de ese volumen
+e igualarlas.
+Solución. A veces conviene trabajar en unidades cgs al comparar cantidades pequeñas.
+Para tener densidades en g/cm3, dividimos los valores de la tabla 9.2 entre 103, o desecha-
+mos el “ /H11003103” de los valores dados para sólidos y líquidos, y agregamos “ /H1100310/H110023” para 
+los gases.
+Dado: Encuentre: a) Si el cubo flotará o no en agua
+b) Porcentaje del volumen sumergido 
+si el cubo flota
+(tabla 9.2)
+a) La densidad del cubo es
+Puesto que /H9267c es menor que /H9267H2O, el cubo flotará.
+b) El peso del cubo es wc /H11005/H9267cgVc. Cuando el cubo flota, está en equilibrio, lo cual impli-
+ca que su peso se equilibra con la fuerza de flotabilidad. Es decir, Fb /H11005/H9267H2OgVH2O, donde
+VH2O es el volumen de agua que desplaza la parte sumergida del cubo. Si igualamos las
+expresiones para el peso y la fuerza de flotabilidad,
+o bien,
+Por lo tanto, VH2O /H110050.70 Vc, así que el 70% del cubo está sumergido.
+Ejercicio de refuerzo. Casi todo el volumen de un iceberg que flota en el mar ( >figura
+9.15) está sumergido. Lo que vemos es la proverbial “punta del iceberg”. ¿Qué porcentaje
+del volumen de un iceberg se ve arriba de la superficie? [Nota: los iceberg son agua dulce
+congelada que flota sobre agua salada.]
+Una cantidad llamada gravedad específica es afín a la densidad. Suele usársele
+con líquido, pero también puede describir sólidos. La gravedad específica relativo (sp.
+gr.) de una sustancia es la razón de la densidad de la sustancia ( /H9267s) entre la densidad
+del agua (/H9267H2O) a 4/H11034C, la temperatura de densidad máxima:
+Dado que es un cociente de densidades, la gravedad específica relativo no tiene unida-
+des. En unidades cgs, /H9267H2O /H110051.00 g/cm3, así que
+Es decir, la gravedad específica de una sustancia es igual al valor numérico de su den-
+sidad en unidades cgs. Por ejemplo, si un líquido tiene una densidad de 1.5 g/cm 3, su
+peso específico relativo es 1.5, lo cual nos indica que es 1.5 veces más denso que el
+agua. (Para obtener valores de densidad en gramos por centímetro cúbico, dividi-
+mos el valor de la tabla 9.2 entre 10
+3.)
+sp. gr. = rs
+1.00 =rs (rs en g>cm3 solamente)
+sp. gr. = rs
+rH2
+ O
+VH2
+ O
+Vc
+= rc
+rH2
+ O
+=
+0.70 g>cm3
+1.00 g>cm3 = 0.70
+rH2
+ O
+ gVH2
+ O =rc
+ gVc
+rc = m
+Vc
+= m
+L3 =
+700 g
+110 cm23 = 0.70 g>cm3 6rH2
+ O = 1.00 g>cm3
+ = 1.00 g>cm3
+ rH2
+ O = 1.00 * 103 kg>m3
+ L = 10 cm
+ m = 700 g
+▲ FIGURA 9.15 La punta del
+iceberg Casi todo el volumen 
+de un iceberg está bajo el agua,
+como se observa en la imagen.
+Exploración 14.3 Flotabilidad 
+del agua y el aceite
+
+Rueda de aspas
+2
+Línea de corriente
+1
+a)
+b)
+v
+v
+▲ FIGURA 9.16 Flujo de líneas de
+corriente a) Las líneas de corriente
+nunca se cruzan y están más juntas
+en regiones donde la velocidad del
+fluido es mayor. La rueda de aspas
+estacionaria indica que el fluido es
+irrotacional, es decir, no forma
+remolinos. b) El humo de una vela
+extinguida comienza a subir con 
+un flujo aproximado de líneas de
+corriente, pero pronto se vuelve
+rotacional y turbulento.
+9.4 Dinámica de fluidos y ecuación de Bernoulli 319
+9.4 Dinámica de fluidos y ecuación de Bernoulli
+OBJETIVOS: a) Identificar las simplificaciones usadas para describir el flujo de flui-
+do ideal y b) usar la ecuación de continuidad y la ecuación de Bernoulli
+para explicar los efectos comunes de flujo de fluido ideal.
+En general, es difícil analizar el movimiento de fluidos. Por ejemplo, ¿cómo describi-
+ríamos el movimiento de una partícula (una molécula, como aproximación) de agua
+en un arroyo agitado? El movimiento total de la corriente sería claro, pero práctica-
+mente sería imposible deducir una descripción matemática del movimiento de cual-
+quier partícula individual, debido a los remolinos, los borbotones del agua sobre
+piedras, la fricción con el fondo del arroyo, etc. Obtendremos una descripción básica
+del flujo de un fluido si descartamos tales complicaciones y consideramos un fluido
+ideal. Luego, podremos aproximar un flujo real remitiéndonos a este modelo teórico
+más sencillo.
+En este enfoque de dinámica de fluidos simplificado se acostumbra considerar
+cuatro características de un fluido ideal. En un fluido así, el flujo es 1) constante, 2) irro-
+tacional, 3) no viscoso y 4) incompresible.
+Condición 1: flujo constante implica que todas las partículas de un fluido tienen
+la misma velocidad al pasar por un punto dado.
+Un flujo constante también puede describirse como liso o regular. La trayectoria de
+flujo constante puede representarse con líneas de corriente (
+Nfigura 9.16a). Cada par-
+tícula que pasa por un punto dado se mueve a lo largo de una línea de corriente. Es
+decir, cada partícula sigue la misma trayectoria (línea de corriente) que las partículas
+que pasaron por ahí antes. Las líneas de corriente nunca se cruzan. Si lo hicieran, una
+partícula tendría trayectorias alternas y cambios abruptos en la velocidad, por lo que
+el flujo no sería constante.
+Para que haya flujo constante, la velocidad debe ser baja. Por ejemplo, el flujo rela-
+tivo a una canoa que se desliza lentamente a través de aguas tranquilas es aproxima-
+damente constante. Si la velocidad de flujo es alta, tienden a aparecer remolinos, sobre
+todo cerca de las fronteras, y el flujo se vuelve turbulento, figura 9.16b.
+Las líneas de corriente también indican la magnitud relativa de la velocidad de un
+fluido. La velocidad es mayor donde las líneas de corriente están más juntas. Este efec-
+to se observa en la figura 9.16a. Explicaremos el motivo de esto un poco más adelante.
+Condición 2: flujo irrotacional significa que un elemento de fluido (un volumen
+pequeño del fluido) no posee una velocidad angular neta; esto elimina la posibi-
+lidad de remolinos. (El flujo no es turbulento.)
+Consideremos la pequeña rueda de aspas en la figura 9.16a. El momento de fuerza ne-
+to es cero, así que la rueda no gira. Por lo tanto, el flujo es irrotacional.
+Condición 3: flujo no viscoso implica que la viscosidad es insignificante.
+Viscosidad se refiere a la fricción interna, o resistencia al flujo, de un fluido. (Por ejem-
+plo, la miel es mucho más viscosa que el agua.) Un fluido verdaderamente no viscoso
+fluiría libremente sin pérdida de energía en su interior. Tampoco habría resistencia por
+fricción entre el fluido y las paredes que lo contienen. En realidad, cuando un líquido
+fluye por una tubería, la rapidez es menor cerca de las paredes debido a la fricción, y
+más alta cerca del centro del tubo. (Veremos la viscosidad más detalladamente en la
+sección 9.5.)
+Condición 4: flujo incompresiblesignifica que la densidad del fluido es constante.
+Por lo regular los líquidos se consideran incompresibles. Los gases, en cambio, son
+muy compresibles. No obstante, hay ocasiones en que los gases fluyen de forma casi
+incompresible; por ejemplo el aire que fluye relativo a las alas de un avión que vuela a
+baja rapidez. El flujo teórico o ideal de fluidos no caracteriza a la generalidad de las si-
+tuaciones reales; pero el análisis del flujo ideal brinda resultados que aproximan, o
+describen de manera general, diversas aplicaciones. Por lo común, este análisis se de-
+duce, no de las leyes de Newton, sino de dos principios básicos: la conservación de la
+masa y la conservación de la energía.
+
+▲ FIGURA 9.18 Tasa de flujo Por la
+ecuación de tasa de flujo, la rapidez
+de un fluido es mayor cuando se
+reduce el área transversal del tubo
+por el que fluye. Pensemos en 
+una manguera equipada con una
+boquilla para reducir su área
+transversal.
+320
+CAPÍTULO 9 Sólidos y fluidos
+y1
+A1 y2
+1
+F1 = p1A1 m1
+A2
+Δ
+v1 tx1 =  Δ ΔDensidad,   1
+b) La masa sale del tubo
+a) La masa entra en el tubo
+y1
+v2 t
+y2
+m2
+F2 = p2A2
+2
+x2 = 
+Δ
+ΔΔ
+Densidad,   2
+v
+v
+N FIGURA 9.17 Continuidad de
+flujo El flujo de fluidos ideales 
+se puede describir en términos 
+de la conservación de la masa 
+con la ecuación de continuidad.
+Ecuación de continuidad
+Si no hay pérdidas de fluido dentro de un tubo uniforme, la masa de fluido que entra
+en un tubo en un tiempo dado debe ser igual a la masa que sale del tubo en el mismo
+tiempo (por la conservación de la masa). Por ejemplo, en la 
+▲figura 9.17a, la masa
+(/H9004m1) que entra en el tubo durante un tiempo corto (/H9004t) es
+donde A1 es el área transversal del tubo en la entrada y, en un tiempo /H9004t, una partícu-
+la de fluido recorre una distancia v1/H9004t. Asimismo, la masa que sale del tubo en el
+mismo intervalo es (figura 9.17b)
+Puesto que se conserva la masa, /H9004m1 /H11005/H9004m2, y se sigue que
+(9.16)
+Este resultado se denomina ecuación de continuidad.
+Si un fluido es incompresible, su densidad /H9267es constante, así que
+(para un fluido incompresible) (9.17)
+Ésta se conoce como ecuación de tasa de flujo. Av es el volumen de la tasa de flujo y es el
+volumen del fluido que pasa por un punto en el tubo por unidad de tiempo. ( Av: m2 ·
+m/s /H11005m3/s, o volumen sobre tiempo). 
+La ecuación de tasa de flujo indica que la velocidad del fluido es mayor donde el
+área transversal del tubo es menor. Es decir,
+y v2 es mayor que v1 si A2 es menor que Al. Este efecto es evidente en la experiencia co-
+mún de que el agua sale con mayor rapidez de una manguera provista con una boqui-
+lla, que de la misma manguera sin boquilla (
+>figura 9.18).
+v2 = ¢ A1
+A2
+≤v1
+A1
+ v1 = A2
+ v2 o Av = constante
+r1
+ A1
+ v1 =r2
+ A2
+ v2 o rAv = constante
+¢m2 =r2¢V2 =r21A2¢x22 =r21A2
+ v2¢t2
+¢m1 =r1¢V1 =r11A1¢x12 =r11A1
+ v1¢t2
+Ilustración 15.1 Ecuación 
+de continuidad
+
+9.4 Dinámica de fluidos y ecuación de Bernoulli 321
+La ecuación de tasa de flujo puede aplicarse al flujo sanguíneo en el cuerpo. La
+sangre fluye del corazón a la aorta. Luego da vuelta por el sistema circulatorio, pasan-
+do por arterias, arteriolas (arterias pequeñas), capilares y vénulas (venas pequeñas),
+para regresar al corazón por las venas. La velocidad es más lenta en los capilares. ¿Es
+ésta una contradicción? No: el área total de los capilares es mucho mayor que la de las
+arterias o venas, así que es válida la ecuación de tasa de flujo.
+Ejemplo 9.11 ■ Flujo de sangre: colesterol y placa
+Un colesterol alto en la sangre favorece la formación de depósitos grasos, llamados pla-
+cas, en las paredes de los vasos sanguíneos. Suponga que una placa reduce el radio efecti-
+vo de una arteria en 25%. ¿Cómo afectará este bloqueo parcial la rapidez con que la
+sangre fluye por la arteria?
+Razonamiento. Usamos la ecuación de tasa de flujo (ecuación 9.17), pero observando que no
+nos dan valores para el área ni para la rapidez. Esto indica que debemos usar cocientes.
+Solución. Si el radio de la arteria no taponada es rl, entonces decimos que la placa reduce
+el radio efectivo a r2.
+Dado: (una reducción del 25%) Encuentre:
+Escribimos la ecuación de tasa de flujo en términos de los radios:
+Reacomodamos y cancelamos,
+Por la información dada, así que
+Por lo tanto, la rapidez en la parte taponada de la arteria aumenta en un 80 por ciento.
+Ejercicio de refuerzo. ¿En cuánto tendría que reducirse el radio efectivo de una arteria
+para tener un aumento de 50% en la rapidez de la sangre que fluye por ella?
+Ejemplo 9.12 ■ Rapidez de la sangre en la aorta
+La sangre fluye a una tasa de 5.00 L/min por la aorta, que tiene un radio de 1.00 cm. ¿Cuál
+es la rapidez del flujo sanguíneo en la aorta?
+Razonamiento. Hay que hacer notar que la tasa de flujo es una tasa de flujo de volumen, lo
+que implica el uso de la ecuación de tasa de flujo (ecuación 9.17), Av /H11005constante. Como 
+la constante está en términos de volumen/tiempo, la tasa de flujo dada es la constante.
+Solución. Se listan los datos:
+Dado: Tasa de flujo /H110055.00 L/min Encuentre: (rapidez de la sangre)
+Primero debemos encontrar el área transversal de la aorta, que es circular.
+A continuación hay que indicar la tasa de flujo (volumen) en unidades estándar.
+Utilizando la ecuación de la tasa de flujo, tenemos
+Ejercicio de refuerzo. Las constricciones de las arterias ocurren cuando éstas se endure-
+cen. Si el radio de la aorta en este ejemplo se redujera a 0.900 cm, ¿cuál sería el cambio
+porcentual en el flujo sanguíneo?
+v = constante
+A = 8.33 * 10-5 m3>s
+3.14 * 10-4 m2 = 0.265 m>s
+5.00 L>min =15.00 L>m2110-3 m3>L211 min>60 s2 = 8.33 * 10-5 m3>s
+A =pr2 =13.142110-2 m2
+2
+= 3.14 * 10-4 m2
+r = 1.00 cm = 10-2 m
+v
+ v2 =11>0.7522 v1 = 1.8v1
+ r1>r2 = 1>0.75,
+v2 = ¢ r1
+r2
+≤
+2
+v1
+ 1pr1
+22v1 =1pr2
+22v2
+ A1
+ v1 = A2
+ v2
+v2r2 = 0.75r1
+Exploración 15.1 Flujo sanguíneo 
+y ecuación de continuidad
+
+322 CAPÍTULO 9 Sólidos y fluidos
+A2
+Alta
+presión
+Alta
+presión
+Baja
+presiónAlta
+rapidez
+Baja
+rapidez
+Mayor área transversal
+Menor
+área
+transversal
+v1 v2A1
+N FIGURA 9.19 Tasa de flujo 
+y presión Si consideramos 
+insignificante la diferencia 
+horizontal en las alturas de flujo
+dentro de un tubo constreñido, 
+obtenemos, para la ecuación de 
+Bernoulli, 
+En una región con menor área
+transversal, la rapidez de flujo es
+mayor (véase la ecuación de tasa de
+flujo); por la ecuación de Bernoulli,
+la presión en esa región es menor
+que en otras regiones.
+p +
+1
+2 rv2 = constante.
+Alta rapidez, baja presión
+Baja rapidez, alta presión
+▲ FIGURA 9.20 Sustentación de
+aviones: principio de Bernoulli 
+en acción Gracias a la forma 
+y orientación de los perfiles
+aerodinámicos o alas de aviones, 
+las líneas de corriente del aire están
+muy juntas, y la rapidez respecto 
+al aire es mayor arriba del ala que
+abajo. Por el principio de Bernoulli,
+la diferencia de presión resultante
+genera una fuerza hacia arriba,
+llamada de sustentación.
+Ecuación de Bernoulli
+La conservación de energía, o el teorema general trabajo-energía, nos lleva a otra rela-
+ción muy general para el flujo de fluidos. El primero en deducir esta relación fue el
+matemático suizo Daniel Bernoulli (1700-1782) en 1738 y recibe su nombre. El resulta-
+do de Bernoulli fue
+donde /H9004m es un incremento de masa como en la derivación de la ecuación de conti-
+nuidad.
+Al trabajar con un fluido, los términos de la ecuación de Bernoulli son trabajo o
+energía sobre unidad de volumen (J/m
+3). Esto es, W /H11005F/H9004x /H11005p(A/H9004x) /H11005p/H9004V y, por lo
+tanto, p /H11005W//H9004V (trabajo/volumen). Asimismo, con /H9267/H11005m/V, tenemos 
+(energía/volumen) y /H9267gy /H11005mgy/V (energía/volumen).
+Si cancelamos cada /H9004m y reacomodamos, obtendremos la forma común de la
+ecuación de Bernoulli:
+(9.18)
+o bien,
+La ecuación o principio de Bernoulli se puede aplicar a muchas situaciones. Por
+ejemplo, si hay un fluido en reposo (v2 /H11005v1 /H110050), la ecuación de Bernoulli se vuelve
+Ésta es la relación presión-profundidad que se derivó en la ecuación 9.10. Si hay flujo 
+horizontal ( y1 /H11005y2), entonces lo cual indica que la presión
+disminuye si aumenta la rapidez del fluido (y viceversa). Este efecto se ilustra en la 
+▲figura 9.19, donde la diferencia de alturas del flujo a través del tubo se considera 
+insignificante (así que desaparece el término /H9267gy).
+Las chimeneas son altas para aprovechar que la rapidez del viento es más constan-
+te y elevada a mayores alturas. Cuanto más rápidamente sople el viento sobre la boca
+de una chimenea, más baja será la presión, y mayor será la diferencia de presión entre
+la base y la boca de la chimenea. Esto hace que los gases de combustión se extraigan
+mejor. La ecuación de Bernoulli y la ecuación de continuidad (Av /H11005constante) también
+nos dicen que si reducimos el área transversal de una tubería, para que aumente la ra-
+pidez del fluido que pasa por ella, se reducirá la presión.
+El efecto Bernoulli (como se le conoce) nos da una explicación sencilla de la sus-
+tentación de los aviones. En la 
+>figura 9.20 se muestra un flujo ideal de aire sobre un
+perfil aerodinámico o una ala. (Se desprecia la turbulencia.) El ala es curva en su cara
+superior y está angulada respecto a las líneas de corriente incidentes. Por ello, las lí-
+neas de corriente arriba del ala están más juntas que abajo, por lo que la rapidez del 
+aire es mayor y la presión es menor arriba del ala. Al ser mayor la presión abajo 
+del ala, se genera una fuerza neta hacia arriba, llamada sustentación.
+p + 1
+2 rv2 = constante,
+p2 - p1 =rg1y1 - y22
+p + 1
+2 rv2 +rgy = constante
+p1 + 1
+2 rv1
+2 +rgy1 = p2 + 1
+2 rv2
+2 +rgy2
+1
+2 rv2 = 1
+2 mv2>V
+ ¢m
+r
+ 1p1 - p22 = 1
+2 ¢m1v2
+2 - v1
+22 +¢ mg1y2 - y12
+ Wneto =¢ K +¢ U
+Nota: compare la derivación de la
+ecuación 5.10 de la sección 5.5.
+Exploración 15.2 Ecuación 
+de Bernoulli
+
+9.4 Dinámica de fluidos y ecuación de Bernoulli 323
+y2
+y1
+y2 /H11002 y1
+> FIGURA 9.21 Flujo de fluido
+desde un tanque La tasa de flujo
+está dada por la ecuación de 
+Bernoulli. Véase el ejemplo 9.13.
+Esta explicación bastante común de la sustentación se calificó de simplista porque
+el efecto de Bernoulli no se aplica a esta situación. El principio de Bernoulli requiere el
+flujo de fluidos ideales y conservación de la energía dentro del sistema, ninguno de los
+cuales se satisface en las condiciones de vuelo de los aviones. Quizás es mejor confiar
+en las leyes de Newton, las cuales se deben satisfacer siempre. Básicamente las alas
+desvían hacia abajo el flujo del aire, ocasionando un cambio hacia abajo en la cantidad
+de movimiento del flujo del aire y una fuerza ascendente (segunda ley de Newton). Es-
+to resulta en una fuerza de reacción hacia arriba sobre el ala (tercera ley de Newton).
+Cuando la fuerza ascendente supera el peso del avión, se cuenta con suficiente susten-
+tación para despegar y volar.
+Ejemplo 9.13 ■ Tasa de flujo desde un tanque: ecuación de Bernoulli
+Se perfora un pequeño agujero en el costado de un tanque cilíndrico que contiene agua,
+por debajo del nivel de agua, y ésta sale por él ( ▼figura 9.21). Calcule la tasa inicial apro-
+ximada de flujo de agua por el agujero del tanque.
+Razonamiento. La ecuación 9.17 ( A1v1 /H11005A2v2) es la ecuación de tasa de flujo, donde Av
+tiene unidades de m3/s, o volumen/tiempo. Los términos v pueden relacionarse median-
+te la ecuación de Bernoulli, que también contiene a y, así que es útil para calcular diferen-
+cias de altura. No se dan las áreas, así que para relacionar los términos v quizá tengamos
+que realizar algún tipo de aproximación, como veremos. (Observe que nos piden la tasa
+de flujo inicial aproximada.)
+Solución.
+Dado: no se dan valores específicos, Encuentre: una expresión para la tasa de flujo 
+así que usaremos símbolos inicial aproximada por el agujero
+Usamos la ecuación de Bernoulli,
+Recuerde que y2 /H11002y1 es la altura de la superficie del líquido por arriba del agujero. 
+Los valores de presión atmosférica que actúan sobre la superficie abierta y sobre el agu-
+jero (p
+l y p2, respectivamente) son prácticamente idénticos y se cancelan en la ecuación, 
+lo mismo que la densidad. Entonces,
+Por la ecuación de continuidad (ecuación de tasa de flujo, ecuación 9.17), A1v1 /H11005A2v2,
+donde A2 es el área transversal del tanque y A1 es la del agujero. Puesto que A2 es mucho
+mayor que A1, v1 es mucho mayor que v2 (inicialmente, v2 /H110150). Entonces, con una buena
+aproximación,
+La tasa de flujo (volumen/tiempo) es entonces
+Si nos dan el área del agujero y la altura del líquido sobre él, podremos calcular la rapi-
+dez inicial del agua que sale por el agujero y la tasa de flujo. (¿Qué sucede a medida que
+baja el nivel del agua?)
+Ejercicio de refuerzo. ¿Qué cambio porcentual habría en la tasa inicial de flujo del tanque
+de este ejemplo, si el diámetro del agujero circular aumentara 30.0 por ciento?
+tasa de flujo = A1
+ v1 = A1 22g1y2 - y12
+v1
+2 = 2g1y2 - y12 o v1 = 22g1y2 - y12
+v1
+2 - v2
+2 = 2g1y2 - y12
+p1 + 1
+2 rv1
+2 +rgy1 = p2 + 1
+2 rv2
+2 +rgy2
+Ilustración 15.4 Sustentación 
+de los aviones
+Ilustración 15.2 Principio de Bernoulli
+en acción
+Exploración 15.3 Aplicación 
+de la ecuación de Bernoulli
+
+324 CAPÍTULO 9 Sólidos y fluidos
+Gota
+de
+líquido
+a) b) c)
+mg
+FF
+Fy Fy
+FxFx
+▼ FIGURA 9.22 Tensión superficial
+a) La fuerza neta sobre una molécu-
+la en el interior de un líquido es 
+cero, porque la molécula está rodea-
+da por otras moléculas. En cambio,
+sobre las moléculas de la superficie
+actúa una fuerza neta diferente de
+cero, debida a las fuerzas de atrac-
+ción de las moléculas vecinas inme-
+diatamente abajo de la superficie. 
+b) Para que un objeto, como una
+aguja, forme una depresión en la
+superficie, se debe efectuar trabajo,
+porque es preciso traer más molécu-
+las interiores a la superficie para 
+aumentar su área. El resultado es
+que la superficie actúa como una
+membrana elástica estirada, y los
+componentes hacia arriba de la 
+tensión superficial sostienen el peso
+del objeto. c) Los insectos como éste
+pueden caminar sobre el agua gra-
+cias a los componentes hacia arriba
+de la tensión superficial. Es como 
+si nosotros camináramos sobre un
+trampolín muy grande. Note las 
+depresiones en la superficie del 
+líquido donde tocan las patas.
+Ejemplo conceptual 9.14 ■ Un chorro de agua: cada vez 
+más angosto
+Seguramente el lector ha notado que un chorro de agua constante que sale de un grifo se
+vuelve cada vez más delgado, a medida que se aleja del grifo. ¿Por qué sucede esto?
+Razonamiento y respuesta. El principio de Bernoulli explica este fenómeno. A medida
+que el agua cae, se acelera y aumenta su rapidez. Entonces, por el principio de Bernoulli,
+la presión interna del líquido en el chorro disminuye. (Véase la figura 9.19.) Así, se crea
+una diferencia de presión entre la que hay dentro del chorro y la presión atmosférica exte-
+rior. El resultado es una fuerza creciente hacia adentro a medida que cae el chorro, por lo
+que se vuelve más delgado. A la postre, el chorro podría hacerse tan delgado que se rom-
+pe para formar gotas individuales.
+Ejercicio de refuerzo. La ecuación de continuidad también puede servir para explicar es-
+te efecto. Dé la explicación.
+*9.5 Tensión superficial, viscosidad y ley de Poiseuille
+OBJETIVOS: a) Describir el origen de la tensión superficial y b) analizar la visco-
+sidad de los fluidos.
+Tensión superficial
+Las moléculas de un líquido se atraen mutuamente. Aunque en total las moléculas son
+eléctricamente neutras, suele haber una pequeña asimetría de carga que da origen a
+fuerzas de atracción entre ellas (llamadas fuerzas de van der Waals). Dentro de un líqui-
+do, cualquier molécula está rodeada totalmente por otras moléculas, y la fuerza neta es
+cero (
+▼figura 9.22a). Sin embargo, no hay fuerza de atracción que actúe desde arriba
+sobre las moléculas que están en la superficie del líquido. (El efecto de las moléculas
+del aire se considera insignificante.) El resultado es que sobre las moléculas de la capa
+superficial actúa una fuerza neta, debida a la atracción de moléculas vecinas que están
+justo abajo de la superficie. Esta “tracción” hacia adentro sobre las moléculas superfi-
+ciales hace que la superficie del líquido se contraiga y se resista a estirarse o romperse.
+Esta propiedad se conoce como tensión superficial.
+Si colocamos con cuidado una aguja de coser horizontalmente en la superficie de
+un tazón con agua, la superficie actuará como una membrana elástica sometida a es-
+fuerzo. Habrá una pequeña depresión en la superficie, y las fuerzas moleculares a lo
+largo de la depresión actuarán con cierto ángulo respecto a la horizontal (figura 9.22b).
+Los componentes verticales de estas fuerzas equilibrarán el peso (mg) de la aguja, y és-
+ta “flotará” en la superficie. Asimismo, la tensión superficial sostiene el peso de los in-
+sectos que caminan sobre el agua (figura 9.22c).
+El efecto neto de la tensión superficial es hacer que el área superficial de un líqui-
+do sea lo más pequeña posible. Es decir, un volumen dado de líquido tiende a asumir
+la forma con área superficial mínima. Por ello las gotas de agua y las burbujas de jabón
+tienen forma esférica, porque la esfera tiene la menor área superficial para un volumen
+dado (
+▼figura 9.23). Al formar una gota o una burbuja, la tensión superficial junta las
+moléculas para reducir al mínimo el área superficial. (Véase la sección A fondo 9.4 so-
+bre los pulmones y el primer aliento del bebé, para una explicación de la tensión su-
+perficial en la respiración.)
+
+*9.5 Tensión superficial, viscosidad y ley de Poiseuille 325
+Viscosidad
+Todos los fluidos reales tienen una resistencia interna al flujo, o viscosidad, que puede
+verse como fricción entre las moléculas del fluido. En los líquidos, la viscosidad se de-
+be a fuerzas de cohesión de corto alcance; en los gases, se debe a los choques entre las
+moléculas. (Véase la explicación sobre resistencia del aire en la sección 4.6.) La resis-
+tencia a la viscosidad tanto de líquidos como de gases depende de su velocidad y po-
+9.4 LOS PULMONES Y EL PRIMER ALIENTO DEL BEBÉ
+La respiración es esencial para la vida. Es un procedimiento fas-
+cinante que suministra oxígeno a la sangre y expulsa el dióxido
+de carbono, y en él interviene la física.
+El proceso de respiración implica bajar el diafragma para
+aumentar el volumen de la cavidad torácica. La figura 1 muestra
+un modelo de la respiración basado en un frasco con el fondo en
+forma de campana. Por la ley del gas ideal (sección 10.3), al bajar
+el diafragma y aumentar el volumen de la cavidad torácica, se
+reduce la presión (p /H110081/V) y el aire se inhala. El proceso de in-
+halación infla los alvéolos, unas pequeñas estructuras con forma
+de globo en los pulmones, como se ilustra en la figura 2a. (La fi-
+gura 2b muestra una imagen de un pulmón dañado; la causa y
+los efectos de este fenómeno se analizarán más adelante.)
+El intercambio de oxígeno con la sangre se realiza a través
+de las superficies membranosas de los alvéolos. La superficie to-
+tal de las membranas en los pulmones alcanza los 100 m
+2, con un
+grosor de menos de una millonésima de metro (/H110211 /H9262m, menos
+de un micrómetro), haciendo que el intercambio de gases sea
+muy eficiente. El comportamiento de los alvéolos puede descri-
+birse mediante la ley de Laplace y la tensión superficial.*
+La ley de Laplace establece que cuanto más grande sea una
+membrana esférica, mayor será la tensión necesaria en las pare-
+des para resistir la presión de un fluido interno. Esto es, la ten-
+sión en la pared es directamente proporcional al radio esférico.
+Así que cuando se inflan los alvéolos, hay una mayor tensión.
+Una vez que están inflados, la exhalación se completa cuando
+el diafragma se relaja y la tensión en las paredes de los alvéolos
+actúa forzando al aire a salir. Además, hay un fluido que cubre
+los alvéolos, que actúa como surfactante, es decir, como una
+sustancia que reduce la tensión superficial. Una reducción en la
+tensión superficial hace que sea más fácil inflar los alvéolos du-
+rante la inhalación.
+La enfermedad pulmonar conocida como enfisema, muy co-
+mún entre los fumadores empedernidos, es el resultado del agran-
+damiento de los alvéolos conforme algunos se destruyen y otros se
+extienden o se combinan (figura 2b). Normalmente, se requeriría
+el doble de la presión para inflar una membrana con el doble del
+radio. Los alvéolos agrandados permiten menor retroceso durante
+la exhalación, de manera que una persona con enfisema tiene difi-
+cultad para respirar y se reduce su intercambio de oxígeno.
+Ahora veamos algo sobre el primer aliento del bebé. Casi
+todos saben que es más difícil inflar un globo por primera vez,
+que inflarlo en ocasiones posteriores. Esto se debe a que la pre-
+sión aplicada no crea mucha tensión en el globo para iniciar el
+proceso de estiramiento. De acuerdo con la ley de Laplace, se
+necesitaría un mayor incremento en la tensión para expandir
+un pequeño globo, que expandir un globo de gran tamaño.
+Considere las razones de tensión para una expansión de 3 cm 
+en el radio, por ejemplo, de 1 a 4 cm y de 10 a 13 cm 
+.
+En un bebé recién nacido, los alvéolos son pequeños y es-
+tán aplastados, y deben inflarse con una inhalación inicial. El
+método tradicional para lograr esto consiste en dar unas nalga-
+das al bebé y hacer que llore e inhale.
+A
+13
+10 = 1.3B
+A
+4
+1 = 4B
+A FONDO
+a) Inhalación b) Exhalación
+FIGURA 1 Modelo del frasco con fondo en forma de campana
+para ilustrar la respiración a) Al bajar el diafragma (membrana
+de goma) y aumentar el volumen de la cavidad torácica se 
+reduce la presión y el aire es inhalado hacia el interior de los
+pulmones (globos). b) Cuando el diafragma se mueve hacia 
+arriba, el proceso se invierte y el aire es exhalado.  
+a) b)
+FIGURA 2 Los alvéolos a) La inhalación infla los alvéolos,
+que son estructuras en forma de globo de los pulmones. 
+Hay entre 300 y 400 millones de alvéolos en cada pulmón. 
+b) Las enfermedades pulmonares provocan el agrandamiento
+de los alvéolos conforme algunos se destruyen y otros se 
+extienden o se combinan. Como resultado, hay menos 
+intercambio de oxígeno y falta el aliento.  
+*Pierre-Simon Laplace (1749-1827) fue un astrónomo y matemático francés.
+
+326 CAPÍTULO 9 Sólidos y fluidos
+A
+Fluido
+h
+v
+v = 0
+Planos
+paralelos
+a)
+AF
+L
+v
+r
+Velocidad del fluido
+v
+b)
+p1 p2
+N FIGURA 9.24 Flujo laminar
+a) Un esfuerzo cortante hace que 
+las capas de un fluido se muevan
+unas sobre otras en un flujo laminar.
+La fuerza de corte y la tasa de flujo
+dependen de la viscosidad del 
+fluido. b) En un flujo laminar por
+un tubo, la rapidez del fluido es
+menor cerca de las paredes del 
+tubo que cerca del centro, debido 
+a la fricción entre las paredes y 
+el fluido.
+* Una viscosidad muy alta podría ser la del vidrio. Se afirma que el vidrio de los vitrales de iglesias
+medievales ha “fluido” con el tiempo, de modo que el vidrio ahora es más grueso en la base que en la
+parte superior. Un análisis reciente indica que el vidrio de las ventanas incluso podría fluir durante perio-
+dos increíblemente largos, que exceden los límites de la historia humana. En una escala de tiempo huma-
+na, tal flujo no sería evidente. [Véase E. D. Zanotto, American Journal Physics, 66 (mayo de 1998), 392-395.]
+dría ser directamente proporcional a ella en algunos casos. Sin embargo, la relación va-
+ría dependiendo de las condiciones; por ejemplo, la resistencia es aproximadamente
+proporcional a v
+2 o a v3 en flujo turbulento.
+La fricción interna hace que las distintas capas de un fluido se muevan con dife-
+rente rapidez en respuesta a un esfuerzo cortante. Este movimiento relativo de capas,
+llamado flujo laminar , es característico del flujo estable de líquidos viscosos a baja 
+velocidad (
+▼figura 9.24a). A velocidades más altas, el flujo se vuelve rotacional, o tur-
+bulento, y difícil de analizar.
+Puesto que en el flujo laminar hay esfuerzos cortantes y deformaciones por corte,
+la propiedad de viscosidad de un fluido puede describirse con un coeficiente, como los
+módulos de elasticidad que vimos en la sección 9.1. La viscosidad se caracteriza con un
+coeficiente de viscosidad, /H9257(la letra griega eta), aunque suelen omitirse las palabras “coe-
+ficiente de”.
+El coeficiente de viscosidad es, en efecto, la razón del esfuerzo cortante entre la ta-
+sa de cambio de la deformación cortante (porque hay movimiento). Un análisis dimen-
+sional revela que la unidad SI de viscosidad es pascal-segundo (Pa · s). Esta unidad
+combinada se denomina poiseuille (Pl) en honor al científico francés Jean Poiseuille
+(1797-1869), quien estudió el flujo de líquidos y en especial de la sangre. (En breve pre-
+sentaremos la ley de tasa de flujo de Poiseuille.) La unidad cgs de viscosidad es el poise
+(P). Se usa mucho un submúltiplo, el centipoise (cP), por lo conveniente de su magni-
+tud; 1 P /H1100510
+2 cP .
+En la tabla 9.3 se da la viscosidad de algunos fluidos. Cuanto mayor sea la viscosi-
+dad de un líquido, la cual es más fácil de visualizar que la de los gases, mayor será el
+esfuerzo cortante necesario para que se deslicen las capas del líquido. Observe, por
+ejemplo, la elevada viscosidad de la glicerina en comparación con la del agua.*
+a) b)
+N FIGURA 9.23 Tensión superficial
+en acción Debido a la tensión 
+superficial, a) las gotitas de agua 
+y b) las burbujas de jabón tienden 
+a asumir la forma que reduce 
+al mínimo su área superficial: 
+la esfera.
+
+*9.5 Tensión superficial, viscosidad y ley de Poiseuille 327
+Viscosidad de diversos fluidos*
+Viscosidad 
+Fluido Poiseuille (Pl)
+Líquidos
+Alcohol etílico
+Sangre entera (37°C)
+Plasma sanguíneo  (37°C)
+Glicerina
+Mercurio
+Aceite ligero para máquinas 1.1
+Agua
+Gases
+Aire
+Oxígeno
+*A 20°C a menos que se indique lo contrario.
+2.2 * 10-5
+1.9 * 10-5
+1.00 * 10-3
+1.55 * 10-3
+1.5 * 10- 3
+2.5 * 10-3
+1.7 * 10-3
+1.2 * 10-3
+(h)
+TABLA 9.3
+Nota: SAE significa Society 
+of Automotive Engineers, 
+una organización que clasifica 
+los grados de aceite para motor
+con base en su viscosidad.
+Como se esperaría, la viscosidad y, por ende, el flujo de los fluidos, varía con la
+temperatura (como en el viejo dicho: “lento como la melaza en enero”). Una aplicación
+conocida es la graduación de viscosidad del aceite empleado en los motores de auto-
+móvil. En invierno, debe usarse un aceite de baja viscosidad, relativamente delgado
+(como el grado SAE 10W o 20W), porque fluye más fácilmente, sobre todo cuando el
+motor está frío antes de arrancarlo. En verano se usa un aceite más viscoso o espeso
+(SAE 30, 40 o incluso 50). No es necesario cambiar el grado del aceite de motor según
+la temporada si se usa un aceite “multigrado”. Estos aceites contienen aditivos que
+mejoran la viscosidad, los cuales son polímeros cuyas moléculas son largas cadenas
+enrolladas. Un aumento en la temperatura hace que estas moléculas se desenrollen y
+se entrelacen, lo que contrarresta la disminución normal en la viscosidad. La acción se
+revierte al enfriarse, de manera que el aceite mantiene un intervalo de viscosidad rela-
+tivamente angosto dentro de un intervalo de temperatura amplio. Tales aceites se cla-
+sifican, por ejemplo, como SAE 10W-30 (o sólo 10W-30).
+Ley de Poiseuille
+La viscosidad dificulta el análisis del flujo de fluidos. Por ejemplo, cuando un fluido
+fluye por una tubería, hay fricción entre el líquido y las paredes, por lo que la veloci-
+dad del fluido es mayor hacia el centro del tubo (figura 9.24b). En la práctica, este efec-
+to influye en la tasa promedio de flujo de un fluido (véase la ecuación 
+9.17), que describe el volumen (/H9004V) de fluido que pasa por un punto dado durante un
+tiempo /H9004t. La unidad SI de tasa de flujo es metros cúbicos por segundo (m
+3/s). La tasa
+de flujo depende de las propiedades del fluido y de las dimensiones del tubo, así como de
+la diferencia de presión (/H9004p) entre los extremos del tubo.
+Jean Poiseuille estudió el flujo en tubos y tuberías, suponiendo una viscosidad
+constante y flujo estable o laminar, y dedujo la siguiente relación, conocida como ley
+de Poiseuille, para la tasa de flujo:
+(9.19)
+Aquí, r es el radio del tubo y L es su longitud.
+Como se esperaría, la tasa de flujo es inversamente proporcional a la viscosidad
+(/H9257) y a la longitud del tubo, y directamente proporcional a la diferencia de presión /H9004p
+entre los extremos del tubo. No obstante, algo más inesperado es que la tasa de flujo es
+Q = ¢V
+¢t =
+pr4¢p
+8hL
+Q = Av =¢ V>¢t
+ Ilustración 15.3 Flujo de un fluido 
+viscoso e ideal
+
+▲ FIGURA 9.25 Tecnología IV
+El mecanismo de infusión 
+intravenosa todavía se ayuda con 
+la gravedad; pero ahora es común
+controlar y vigilar con máquinas 
+las tasas de flujo de IV .
+328
+CAPÍTULO 9 Sólidos y fluidos
+proporcional a r4, de manera que depende más del radio del tubo de lo que hubiéra-
+mos pensado.
+En el ejemplo 9.6 examinamos una aplicación del flujo de fluidos en una infusión
+intravenosa médica. Sin embargo, como la ley de Poiseuille incluye la tasa de flujo, nos
+permite hacer un análisis más apegado a la realidad, como en el siguiente ejemplo.
+Ejemplo 9.15 ■ Ley de Poiseuille: transfusión de sangre
+En un hospital un paciente necesita una transfusión de sangre, que se administrará a tra-
+vés de una vena del brazo por IV gravitacional. El médico quiere suministrar 500 cc de
+sangre entera durante un periodo de 10 min a través de una aguja calibre 18, de 50 mm 
+de longitud y diámetro interior de 1.0 mm. ¿A qué altura sobre el brazo deberá colgarse 
+la bolsa de sangre? (Suponga una presión venosa de 15 mm Hg.)
+Razonamiento. Ésta es una aplicación de la ley de Poiseuille (ecuación 9.19) para calcular
+la presión necesaria en la entrada de la aguja que produzca la tasa de flujo deseada ( Q).
+Sabemos que /H9004p /H11005pentra /H11002psale (presión en la entrada menos presión en la salida). Si de-
+terminamos la presión en la entrada, podremos calcular la altura de la bolsa como en el
+ejemplo 9.6. ( Cuidado: hay muchas unidades no estándar aquí, y se supone que algunas
+cantidades se obtienen de tablas.)
+Solución. Primero escribimos las cantidades dadas (y conocidas), convirtiéndolas a uni-
+dades SI sobre la marcha:
+Dado: Encuentre: h (altura de la bolsa)
+La tasa de flujo es
+Insertamos este valor en la ecuación 9.19 y despejamos /H9004p:
+Dado que /H9004p /H11005pent /H11002psal, tenemos
+Entonces, para calcular la altura de la bolsa que suministrará esta presión, usamos 
+pent /H11005rgh (donde /H9267sangre entera /H110051.05 /H11003103 kg/m3, de la tabla 9.2). Por lo tanto,
+Así pues, para la tasa de flujo especificada, la bolsa de sangre deberá colgarse unos 48 cm
+arriba de la aguja en el brazo.
+Ejercicio de refuerzo. Suponga que el médico quiere infundir, después de la transfusión
+de sangre, 500 cc de solución salina con la misma tasa de flujo. ¿A qué altura deberá co-
+locarse la bolsa de solución salina? (La solución salina isotónica administrada por IV es
+una solución de sal en agua al 0.85%, la misma concentración de sal que en las células del
+cuerpo. La solución salina tiene una densidad casi igual a la del agua.)
+Todavía se usan las IV por flujo gravitacional, pero la tecnología moderna permite
+controlar y monitorear con máquinas las tasas de flujo de las IV (
+>figura 9.25).
+h =
+pent
+rg =
+4.9 * 103 Pa
+11.05 * 103 kg>m3219.80 m>s22
+= 0.48 m
+pent =¢ p + psal =12.9 * 103 Pa2 +12.0 * 103 Pa2 = 4.9 * 103 Pa
+¢p = 8hLQ
+pr4 =
+811.7 * 10-3 Pl215.0 * 10-2 m218.33 * 10-7 m3>s2
+p15.0 * 10-4 m2
+4 = 2.9 * 103 Pa
+Q = ¢V
+¢t = 5.00 * 10-4 m3
+6.00 * 102 s = 8.33 * 10-7 m3>s
+ h = 1.7 * 10-3 Pl (sangre entera, de la tabla 9.3)
+ psalida = 15 mm Hg = 15 torr 1133 Pa>torr2 = 2.0 * 103 Pa
+ d = 1.0 mm, o r = 0.50 mm = 5.0 * 10-4 m
+ L = 50 mm = 5.0 * 10-2 m
+ ¢t = 10 min = 600 s = 6.00 * 102 s
+ = 5.00 * 10-4 m3
+ ¢V = 500 cc = 500 cm3 11 m3>106 cm32
+
+Repaso del capítulo 329
+Repaso del capítulo
+• En la deformación de sólidos elásticos, esfuerzo es una medi-
+da de la fuerza que causa la deformación:
+(9.1)
+Deformación es una medida relativa del cambio de forma cau-
+sado por una tensión:
+(9.2)
+• Un módulo de elasticidad es la razón esfuerzo/deformación.
+Módulo de Young:
+(9.4)
+Módulo de corte:
+(9.5)
+Módulo de volumen:
+(9.6)
+• Presión es la fuerza por unidad de área.
+(9.8a)
+Relación presión-profundidad (para un fluido incompresible
+a densidad constante:
+(9.10)p = po +rgh
+p = F
+A
+B =
+F>A
+-¢ V>Vo
+=-  
+¢p
+¢V>Vo
+h
+x
+A
+A
+s
+φ
+φ
+Después
+Antes
+Antes
+Después
+F
+F
+Ff
+S =
+F>A
+x>h L
+F>A
+f
+Y =
+F>A
+¢L>Lo
+deformación = cambio de longitud
+longitud original = ƒ¢Lƒ
+Lo
+= ƒL - Loƒ
+Lo
+Lo A
+ΔL
+Lo
+A
+ΔL
+b) Esfuerzo de compresión
+a) Esfuerzo de tensión
+F F
+F F
+esfuerzo = F
+A
+• Principio de Pascal. La presión aplicada a un fluido encerra-
+do se transmite sin merma a todos los puntos del fluido y a
+las paredes del recipiente.
+• Principio de Arquímedes. Un cuerpo sumergido total o par-
+cialmente en un fluido experimenta una fuerza de flotabilidad
+igual en magnitud al peso del volumen de fluido desplazado.
+Fuerza de flotabilidad:
+(9.14)
+• Un objeto flotará en un fluido si la densidad promedio del
+objeto es menor que la densidad del fluido. Si la densidad
+promedio del objeto es mayor que la densidad del fluido, el
+objeto se hundirá.
+• Para un fluido ideal, el flujo es 1) constante, 2) irrotacional, 
+3) no viscoso y 4) incompresible. Las siguientes ecuaciones
+describen un flujo así:
+Ecuación de continuidad:
+(9.16)
+Ecuación de tasa de flujo (para un fluido incompresible):
+(9.17)
+Ecuación de Bernoulli (para un fluido incompresible):
+es decir,
+(9.18)
+• La ecuación de Bernoulli es una expresión de la conservación
+de energía para un fluido.
+A2
+Alta
+presión
+Alta
+presión
+Baja
+presiónAlta
+rapidez
+Baja
+rapidez
+Mayor área transsversal
+Menor
+área
+transversal
+v1 v2A1
+p + 1
+2 rv2 +rgy = constante
+p1 + 1
+2 rv1
+2 +rgy1 = p2 + 1
+2 rv2
+2 +rgy2
+A1
+ v1 = A2
+ v2 o Av = constante
+r1
+ A1
+ v1 =r2
+ A2
+ v2 o rAv = constante
+m
+h
+p1 = rfgh1
+b
+p2 = rfgh2
+h
+g
+F
+F
+Fb = mf
+ g =rf
+ gVf
+Al depósito
+Válvula
+Fluido
+Válvula
+p
+Ai
+Ao
+Fo
+pp
+iF
+
+330 CAPÍTULO 9 Sólidos y fluidos
+• Tensión superficial:la “tracción” hacia adentro sobre las mo-
+léculas superficiales hace que la superficie del líquido se con-
+traiga, y se resista a estirarse o romperse. 
+Gota
+de
+líquido
+a) b)
+mg
+FF
+Fy Fy
+FxFx
+• Viscosidad: es la resistencia interna de un fluido a fluir. To-
+dos los fluidos reales tienen viscosidad distinta de cero.
+Ley de Poiseuille (tasa de flujo en tuberías y tubos para flui-
+dos con viscosidad constante, y flujo estable o laminar):
+(9.19)Q = ¢V
+¢t =
+pr4¢p
+8hL
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son
+ejercicios integrados. A lo largo del te xto, muc has secciones de ejercicios incluirán ejercicios “apareados”. Estos
+pares de ejercicios, que se identifican con números subrayados, pretenden ayudar al lector a resolver problemas 
+y aprender. El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede con-
+sultarse si se necesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta 
+se da al final del libro.
+9.1 Sólidos y módulos de elasticidad
+Use tantas cifras significativas como necesite 
+para mostrar cambios pequeños.
+1. OM La presión sobre un cuerpo elástico se describe con
+a) un módulo, b) trabajo, c) esfuerzo o d) deformación.
+2. OM Los módulos de corte son distintos de cero para 
+a) sólidos, b) líquidos, c) gases o d) todo lo anterior.
+3. OM Una medida relativa de deformación es a) un módu-
+lo, b) trabajo, c) esfuerzo, d) deformación. 
+4. OM El esfuerzo de volumen para el módulo de volumen
+es a) /H9004p, b) /H9004V, c) Vo, d) /H9004V/Vo. 
+5. PC ¿Qué tiene un módulo de Young más alto, un alam-
+bre de acero o una banda de caucho? Explique.
+6. PC ¿Por qué las tijeras a veces se llaman cizallas? ¿Es un
+nombre descriptivo en el sentido físico?
+7. PC Los antiguos constructores que trabajaban con piedra
+algunas veces dividían enormes bloques, insertando cla-
+vijas de madera en hoyos perforados en la roca y luego
+vertían agua sobre las clavijas. ¿Podría explicar la física
+que subyace en esta técnica? [Sugerencia: piense en las es-
+ponjas y las toallas de papel.]
+8.
+● Una raqueta de tenis tiene cuerdas de nylon. Si una de
+las cuerdas con un diámetro de 1.0 mm está bajo una ten-
+sión de 15 N, ¿cuánto se alarga con respecto a su longitud
+original de 40 cm?
+9.
+● Suponga que usa la punta de un dedo para sostener un
+objeto de 1.0 kg. Si su dedo tiene un diámetro de 2.0 cm,
+¿qué esfuerzo experimentará el dedo?
+10.
+● Una fuerza estira 0.10 m una varilla de 5.0 m de longi-
+tud. ¿Qué deformación sufrió la varilla?
+11. ● Se aplica una fuerza de 250 N con un ángulo de 37° a la
+superficie del extremo de una barra cuadrada. La super-
+ficie tiene 4.0 cm por lado. Calcule a) el esfuerzo de com-
+presión y b) el esfuerzo cortante sobre la barra.
+12.
+●● Un objeto de 4.0 kg está sostenido por un alambre 
+de aluminio de 2.0 m de longitud y 2.0 mm de diámetro.
+¿Cuánto se estirará el alambre?
+13.
+●● Un alambre de cobre tiene 5.0 m de longitud y 3.0 mm
+de diámetro. ¿Con qué carga se alargará 0.3 mm?
+14. ●● Un alambre metálico de 1.0 mm de diámetro y 2.0 m de
+longitud cuelga verticalmente con un objeto de 6.0 kg sus-
+pendido de él. Si el alambre se estira 1.4 mm por la ten-
+sión, ¿qué valor tendrá el módulo de Young del metal?
+15. EI
+●● Cuando se instalan vías de ferrocarril, se dejan espa-
+cios entre los rieles. a) ¿Debe usarse una mayor separación
+si los rieles se instalan 1) en un día frío o 2) en un día calu-
+roso? 3) ¿o es lo mismo? ¿Por qué? b) Cada riel de acero tie-
+ne 8.0 m de longitud y una área transversal de 0.0025 m
+2.
+En un día caluroso, cada riel se expande térmicamente has-
+ta 3.0 /H1100310/H110023 m. Si no hubiera separación entre los rieles,
+¿qué fuerza se generaría en los extremos de cada riel?
+16. ●● Una columna rectangular de acero (20.0 cm /H1100315.0 cm)
+sostiene una carga de 12.0 toneladas métricas. Si la co-
+lumna tiene una longitud de 2.00 m antes de someterse a
+esfuerzo, ¿qué tanto disminuirá su longitud?
+17. EI
+●● Una varilla bimetálica como la de la Nfigura 9.26 se
+compone de latón y cobre. a) Si la varilla se somete a una
+fuerza de compresión, ¿se doblará hacia el latón o hacia
+el cobre? ¿Por qué? b) Justifique su respuesta matemáti-
+camente, si la fuerza de compresión es de 5.0 /H1100310
+4 N.
+
+Ejercicios 331
+Latón
+Cobre
+2.0 cm
+2.0 cm F
+▲ FIGURA 9.26 Varilla bimetálica y esfuerzo mecánico
+Véase el ejercicio 17.
+27. OM Cuando se mide la presión de los neumáticos de un
+automóvil, ¿qué tipo de presión es ésta?: a) manométrica,
+b) absoluta, c) relativa o d) todas las anteriores.
+28. PC La ▼figura 9.27 muestra el famoso “truco de la cama
+de clavos”. Una mujer se acuesta en una cama de clavos
+un bloque de concreto sobre su pecho. Una persona gol-
+pea el bloque con un mazo. Los clavos no perforan la piel
+de la mujer. Explique por qué.
+29. PC Los neumáticos de automóviles se inflan a aproxima-
+damente a 30 lb/in
+2, mientras que los delgados neumáti-
+cos de bicicleta se inflan de 90 a 115 lb/in 2, ¡una presión
+de por lo menos el triple! ¿Por qué?
+30. PC a) ¿Por qué la presión arterial suele medirse en el bra-
+zo? b) Supongamos que la lectura de presión se tomara
+en la pantorrilla de una persona de pie. ¿Habría alguna
+diferencia, en principio? Explique.
+31. PC a) Dos presas forman lagos artificiales de igual pro-
+fundidad. Sin embargo, uno tiene una longitud de 15 km
+detrás de la presa; mientras que el otro tiene una longi-
+tud de 50 km. ¿Qué efecto tiene la diferencia de longitud
+sobre la presión aplicada a las presas? b) Las presas por
+lo general son más gruesas en la parte inferior. ¿Por qué? 
+32. PC Las torres de agua (tanques de almacenamiento) ge-
+neralmente tienen forma de bulbo, como la que se obser-
+va en la 
+▼figura 9.28. ¿No sería mejor tener un tanque de
+almacenamiento cilíndrico de la misma altura? Explique
+su respuesta.
+▲ FIGURA 9.27 Una cama de clavos Véase el ejercicio 28.
+N FIGURA 9.28 ¿Por
+qué las torres de agua
+tienen forma de bulbo?
+Véase el ejercicio 32.
+18. EI ●● Dos postes metálicos del mismo tamaño, uno de
+aluminio y otro de cobre, se someten a iguales esfuerzos
+cortantes. a) ¿Qué poste tendrá mayor ángulo de deforma-
+ción 1) el de cobre, 2) el de aluminio o 3) ambos tendrán 
+el mismo ángulo? ¿Por qué? b) ¿En qué factor es mayor el
+ángulo de deformación de un poste que del otro?
+19.
+●● Una persona de 85.0 kg se para sobre una pierna y el
+90% de su peso es soportado por la parte superior de la
+pierna que conecta la rodilla con la articulación de la ca-
+dera, es decir, el fémur. Suponiendo que el fémur mide
+0.650 m de longitud y que tiene un radio de 2.00 cm, ¿por
+cuánto se comprime el hueso?
+20.
+●● Dos placas metálicas se mantienen unidas por dos 
+remaches de acero de 0.20 cm de diámetro y 1.0 cm de
+longitud. ¿Qué tanta fuerza debe aplicarse paralela a las
+placas para cizallar ambos remaches?
+21. EI
+●● a) ¿Cuál de los líquidos de la tabla 9.1 tiene mayor
+compresibilidad? ¿Por qué? b) Para volúmenes iguales
+de alcohol etílico y agua, ¿cuál requeriría más presión
+para comprimirse 0.10%, y cuántas veces más?
+22.
+●●● Un cubo de latón de 6.0 cm por lado se coloca en
+una cámara de presión y se somete a una presión de 1.2 /H11003
+107 N/m2 en todas sus superficies. ¿Cuánto se comprimirá
+cada lado bajo esta presión?
+23. ●●● Una goma para borrar de forma cilíndrica y masa
+insignificante se pasa por el papel, desde el lápiz, con
+una velocidad constante hacia la derecha. El coeficiente
+de energía cinética entre la goma y el papel es de 0.650. El
+lápiz empuja hacia abajo con 4.20 N. La altura de la goma
+es de 1.10 cm y su diámetro de 0.760 cm. Su superficie 
+superior se desplaza horizontalmente 0.910 mm con res-
+pecto a la parte inferior. Determine el módulo de corte
+del material de la goma.
+24.
+●●● Un semáforo de 45 kg cuelga de dos cables de acero de
+la misma longitud y de 0.50 cm de radio. Si cada cable for-
+ma un ángulo de 15° con la horizontal, ¿qué incremento
+fraccionario de longitud producirá el peso del semáforo?
+9.2 Fluidos: presión y el principio de Pascal
+25. OM Para un líquido en un contenedor abierto, la presión
+total en cualquier profundidad depende de a) la pre-
+sión atmosférica, b) la densidad del líquido, c) la acelera-
+ción de la gravedad, d) todas las anteriores.
+26. OM Para la relación presión-profundidad en un fluido 
+(p /H11005/H9267gh), se supone que a) la presión disminuye al au-
+mentar la profundidad, b) la diferencia de presión depen-
+de del punto de referencia, c) la densidad del fluido es
+constante o d) la relación es válida sólo para líquidos.
+
+332 CAPÍTULO 9 Sólidos y fluidos
+▲ FIGURA 9.30 Presión de aire Véase el ejercicio 41.
+> FIGURA 9.29 Barómetro
+para mascotas Véase el
+ejercicio 34.
+33. PC a) Las latas para guardar líquidos, digamos gasolina,
+por lo general tienen boquillas con tapa. ¿Para qué es la
+ventila y qué ocurre si olvidamos destaparla antes de ver-
+ter el líquido? b) Explique cómo funciona un cuentagotas.
+c) Explique cómo respiramos (inhalación y exhalación).
+34. PC Un bebedero para mascotas tiene una botella de
+plástico invertida, como se observa en la 
+▼figura 9.29.
+(El agua se tiñó de azul para que contraste.) Cuando se
+bebe cierta cantidad de agua del tazón, más agua fluye
+automáticamente de la botella al tazón. El tazón nunca
+se desparrama. Explique el funcionamiento del bebe-
+dero. ¿La altura del agua en la botella depende del área 
+superficial de agua en el tazón?
+41. EI
+●● En una demostración en clase, se usa una lata vacía
+para demostrar la fuerza que ejerce la presión del aire
+(
+▼figura 9.30). Se vierte una pequeña cantidad de agua
+en la lata y se pone a hervir. Luego, la lata se sella con un
+tapón de caucho. Ante la vista de los espectadores, la lata
+se aplasta lentamente y se escucha cómo se dobla el me-
+tal. (¿Por qué se usa un tapón de caucho por precau-
+ción?) a) Esto se debe a 1) expansión y contracción
+térmicas, 2) una presión más alta del vapor dentro de la
+lata o 3) una menor presión dentro de la lata al conden-
+sarse el vapor. ¿Por qué? b) Suponiendo que las dimen-
+siones de la lata son 0.24 m /H110030.16 m /H110030.10 m y en el
+interior de la lata hay un vacío perfecto, ¿qué fuerza total
+ejerce la presión del aire sobre la lata?
+35. EI
+● En su barómetro original, Pascal usó agua en vez de
+mercurio. a) El agua es menos densa que el mercurio, así
+que el barómetro de agua tendría 1) mayor altura, 2) me-
+nor altura o 3) la misma altura que el barómetro de mercu-
+rio. ¿Por qué? b) ¿Qué altura tendría la columna de agua?
+36.
+● Si un buzo se sumerge 10 m en un lago, a) ¿qué presión
+experimenta debida únicamente al agua? b) Calcule la
+presión total o absoluta a esa profundidad.
+37. EI ● En un tubo abierto con forma de U, la presión de
+una columna de agua en un lado se equilibra con la pre-
+sión de una columna de gasolina en el otro. a) En compa-
+ración con la altura de la columna de agua, la columna
+de gasolina tendrá 1) mayor, 2) menor o 3) la misma al-
+tura. ¿Por qué? b) Si la altura de la columna de agua es 
+de 15 cm, ¿qué altura tendrá la columna de gasolina?
+38.
+● Un atleta de 75 kg se para en una sola mano. Si el área
+de contacto de la mano con el piso es de 125 cm 2, ¿qué
+presión ejercerá sobre el suelo?
+39. ● La presión manométrica en los dos neumáticos de
+una bicicleta es de 690 kPa. Si la bicicleta y el ciclista 
+tienen una masa combinada de 90.0 kg, calcule el área
+de contacto de cada neumático con el suelo. (Suponga
+que cada neumático sostiene la mitad del peso total de
+la bicicleta.)
+40.
+●● En una muestra de agua de mar tomada de un derra-
+me de petróleo, una capa de petróleo de 4.0 cm de espe-
+sor flota sobre 55 cm de agua. Si la densidad del petróleo
+es de 0.75 /H1100310
+3 kg/m3, calcule la presión absoluta so-
+bre el fondo del recipiente.
+42. ●● Calcule la disminución fraccionaria en la presión
+cuando un barómetro se sube 40.0 m, hasta la azotea de
+un edificio. (Suponga que la densidad del aire es cons-
+tante en esa distancia.)
+43.
+●● Un estudiante decide calcular la lectura barométrica
+estándar en la cima del monte Everest (29 028 ft), supo-
+niendo que la densidad del aire tiene el mismo valor cons-
+tante que en el nivel del mar. ¿Qué le dice el resultado?
+44.
+●● Para beber una bebida refrescante (suponga que ésta tie-
+ne la misma densidad que el agua) con una pajuela, se re-
+quiere que usted reduzca la presión en la parte superior de
+esta última. ¿Cuál debe ser la presión en la parte superior
+de una pajuela que está 15.0 cm por arriba de la superfi-
+cie de la bebida refrescante para que ésta llegue a sus labios?
+45.
+●● Durante el vuelo de un avión, un pasajero experimen-
+ta dolor de oído por un enfriamiento de cabeza que tapó
+sus trompas de Eustaquio. Suponiendo que la presión en
+estas últimas permanece a 1.00 atm (como al nivel del
+mar) y que la presión en la cabina se mantiene a 0.900
+atm, determine la fuerza de la presión de aire (incluyen-
+do su dirección) sobre el tímpano, suponiendo que éste
+tiene un diámetro de 0.800 cm.
+46.
+●● Veamos una demostración que usó Pascal para de-
+mostrar la importancia de la presión de un fluido sobre su
+profundidad (
+Nfigura 9.31): un barril de roble cuya tapa
+tiene una área de 0.20 m2 se llena con agua. Un tubo largo
+y delgado, con área transversal de 5.0 /H1100310/H110025 m2 se inser-
+ta en un agujero en el centro de la tapa y se vierte agua
+por el tubo. Cuando la altura alcanza los 12 m, el barril es-
+talla a) Calcule el peso del agua en el tubo. b) Calcule 
+la presión del agua sobre la tapa del barril. c) Calcule la
+fuerza neta sobre la tapa debida a la presión del agua.
+
+hh
+> FIGURA 9.32 ¿Qué
+tan alta será la fuente?
+Véase el ejercicio 50.
+> FIGURA 9.31
+Pascal y el barril 
+que estalla Véase 
+el ejercicio 46.
+Ejercicios 333
+47. ●● Las puertas y los sellos de un avión están sometidos a
+fuerzas muy grandes durante el vuelo. A una altura de
+10 000 m (cerca de 33 000 ft), la presión del aire afuera del
+avión es de sólo 2.7 /H1100310
+4 N/m2; mientras que el interior
+sigue a la presión atmosférica normal, gracias a la presu-
+rización de la cabina. Calcule la fuerza neta debido a la
+presión del aire sobre una puerta de 3.0 m
+2 de área.
+48. ●● La presión que ejercen los pulmones de una persona
+puede medirse pidiendo a la persona que sople con la
+mayor fuerza posible en un lado de un manómetro. Si 
+la persona produce una diferencia de 80 cm entre las al-
+turas de las columnas de agua en las ramas del manóme-
+tro, ¿qué presión manométrica producen sus pulmones?
+49.
+●● En una colisión de frente, el conductor del automóvil
+no llevaba activadas las bolsas de aire y su cabeza golpea
+contra el parabrisas, produciéndole fractura de cráneo.
+Suponiendo que la cabeza del conductor tiene una masa
+de 4.0 kg, que el área de la cabeza que golpeó el parabri-
+sas fue de 25 cm
+2, y que la duración del impacto fue de
+3.0 ms, ¿con qué rapidez la cabeza golpeó el parabrisas?
+(Considere que la fuerza compresiva de la fractura del
+cráneo fue de 1.0 /H1100310
+8 Pa.)
+50. ●● Un cilindro tiene un diámetro de 15 cm (▼figura 9.32).
+El nivel del agua en el cilindro se mantiene a una altu-
+ra constante de 0.45 m. Si el diámetro de la boquilla del
+tubo es de 0.50 cm, ¿qué tan alta será h, la corriente verti-
+cal de agua? (Suponga que el agua es un fluido ideal.)
+51.
+●● En 1960, el batiscafo Trieste de la armada de Estados
+Unidos descendió a una profundidad de 10 912 m en la
+fosa de las Marianas en el océano Pacífico, a) Calcule 
+la presión a esa profundidad. (Suponga que el agua de
+mar es incompresible.) b) ¿Qué fuerza actuó sobre una
+ventana circular de observación de 15 cm de diámetro?
+52.
+●● El pistón de salida de una prensa hidráulica tiene una
+área transversal de 0.25 m 2. a) ¿Qué presión se requiere
+en el pistón de entrada para que la prensa genere una
+fuerza de 1.5 /H1100310
+6 N? b) ¿Qué fuerza se aplica al pistón
+de entrada si tiene un diámetro de 5.0 cm?
+53. ●● Un elevador hidráulico de un taller tiene dos pisto-
+nes: uno pequeño con área transversal de 4.00 cm2 y uno
+grande de 250 cm2. a) Si el elevador se diseñó para levan-
+tar un automóvil de 3500 kg, ¿qué fuerza mínima debe
+aplicarse al pistón pequeño? b) Si la fuerza se aplica con
+aire comprimido, ¿qué presión mínima de aire deberá
+aplicarse al pistón pequeño?
+54.
+●●● Una jeringa hipodérmica tiene un émbolo con una
+área transversal de 2.5 cm2 y una aguja de 5.0 /H1100310/H110023 cm2.
+a) Si se aplica una fuerza de 1.0 N al émbolo, ¿qué presión
+manométrica habrá en la cámara de la jeringa? b) Si hay
+una pequeña obstrucción en la punta de la aguja, ¿qué
+fuerza ejercerá el fluido sobre ella? c) Si la presión sanguí-
+nea en una vena es de 50 mm Hg, ¿qué fuerza deberá
+aplicarse al émbolo para inyectar fluido en la vena?
+55.
+●●● Un embudo tiene un corcho que bloquea su tubo de
+drenado. El corcho tiene un diámetro de 1.50 cm y se sos-
+tiene en su lugar mediante fricción estática con los lados
+del tubo de drenado. Cuando se vierte agua en el embu-
+do y llega a 10.0 cm arriba del corcho, éste sale volando.
+Determine la fuerza máxima de fricción estática entre el
+corcho y el tubo de drenado. Ignore el peso del corcho.
+56.
+●●● En la ▼figura 9.33 se presenta una báscula hidráulica
+empleada para detectar pequeños cambios de masa. Si se
+coloca una masa m de 0.25 g en la plataforma, ¿cuánto ha-
+brá cambiado la altura del agua en el cilindro pequeño de
+1.0 cm de diámetro, cuando la báscula vuelva al equilibrio?
+1.1 cm
+1.0 cm
+m
+▲ FIGURA 9.33 Báscula hidráulica Véase el ejercicio 56.
+9.3 Flotabilidad y el principio de Arquímedes
+57. OM Un bloque de madera flota en una alberca. La fuerza
+de flotabilidad que el agua ejerce sobre el bloque depende
+a) del volumen de agua en la alberca, b) del volumen del
+bloque de madera, c) del volumen del bloque de madera
+que está bajo el agua o d) de todo lo anterior.
+
+H2O
+?
+Hg
+> FIGURA 9.34 ¿Movimiento
+perpetuo? Véase el ejercicio 64.
+334 CAPÍTULO 9 Sólidos y fluidos
+4.5 m
+2.0 m0.30 m
+▲ FIGURA 9.35 Una lancha sobrecargada
+Véase el ejercicio 67.
+58. OM Si un objeto sumergido desplaza una cantidad de lí-
+quido que pesa más que él y luego se le suelta, el objeto 
+a) subirá a la superficie y flotará, b) se hundirá o c) perma-
+necerá en equilibrio en la posición donde se sumergió.
+59. OM Al comparar la densidad de un objeto ( /H9267
+o) con la 
+de un fluido (/H9267f), ¿cuál es la condición para que el objeto
+flote? a) /H9267o /H11021/H9267f o b) /H9267f /H11021/H9267o.
+60. PC a) ¿Cuál es el factor más importante al construir un cha-
+leco salvavidas que mantenga a una persona a flote? b)
+¿Por qué es tan fácil flotar en el Gran Lago Salado de Utah?
+61. PC Un cubo de hielo flota en un vaso de agua. Al derre-
+tirse el hielo, ¿cómo cambia el nivel de agua en el vaso?
+¿Habría alguna diferencia si el cubo de hielo estuviera
+hueco? Explique.
+62. PC Los barcos oceánicos en puerto se cargan hasta la lla-
+mada marca de Plimsoll, una línea que indica la profundi-
+dad máxima de cargado seguro. Sin embargo, en Nueva
+Orléans, situada en la desembocadura del río Mississippi,
+donde el agua es salobre (menos salada que el agua de
+mar y más salada que el agua dulce), los barcos se cargan
+hasta que la marca de Plimsoll está un poco abajo del ni-
+vel del agua. ¿Por qué?
+63. PC Dos bloques de igual volumen, uno de hierro y otro
+de aluminio, se dejan caer en un cuerpo de agua. ¿Qué
+bloque experimentará una mayor fuerza de flotabilidad?
+¿Por qué?
+64. PC Un inventor tiene una idea para crear una máquina de
+movimiento perpetuo, como la que se ilustra en la 
+▼figura
+9.34. La máquina contiene una cámara sellada con mercu-
+rio (Hg) en una mitad y agua (H
+2O) en la otra. Un cilindro
+está montado en el centro y se encuentra libre para girar. El
+inventor piensa que como el mercurio es mucho más den-
+so que el agua (13.6 g/cm
+3 frente a 1.00 g/cm3), el peso del
+mercurio desplazado por la mitad del cilindro es mucho
+mayor que el agua desplazada por la otra mitad. Entonces,
+la fuerza de flotabilidad en el lado del mercurio es mayor
+que la que hay en el lado del agua (más de 13 veces ma-
+yor). La diferencia en las fuerzas y los momentos de fuerza
+debería provocar que el cilindro gire de manera perpetua.
+¿Usted invertiría dinero en este invento? ¿Por qué?
+67.
+● Una lancha rectangular, como la de la ▼figura 9.35, está
+sobrecargada, al grado que el agua está apenas 1.0 cm ba-
+jo la borda. Calcule la masa combinada de las personas y
+la lancha.
+65. EI
+● a) Si la densidad de un objeto es exactamente igual a
+la de un fluido, el objeto 1) flotará, 2) se hundirá o 3) per-
+manecerá a cualquier altura en el fluido, siempre que es-
+té totalmente sumergido. b) Un cubo de 8.5 cm por lado
+tiene una masa de 0.65 kg. ¿Flotará o se hundirá en agua?
+Demuestre su respuesta.
+66.
+● Suponga que Arquímedes descubrió que la corona del
+rey tenía una masa de 0.750 kg y un volumen de 3.980 /H11003
+10/H110025 m3. a) ¿Qué técnica sencilla usó él para determinar
+el volumen de la corona? b) ¿La corona era de oro puro?
+68. ●● Un objeto pesa 8.0 N en el aire. Sin embargo, su peso
+aparente cuando está totalmente sumergido en agua es
+de sólo 4.0 N. ¿Qué densidad tiene el objeto?
+69.
+●● Cuando una corona de 0.80 kg se sumerge en agua, su
+peso aparente es de 7.3 N. ¿La corona es de oro puro?
+70. ●● Un cubo de acero de 0.30 m de lado está suspendido
+de una báscula y se sumerge en agua. ¿Cuál será la lec-
+tura de la báscula?
+71.
+●● Un cubo de madera de 0.30 m de lado tiene una den-
+sidad de 700 kg/m 3 y flota horizontalmente en el agua. 
+a) ¿Cuál es la distancia desde la parte superior de la 
+madera a la superficie del agua? b) ¿Qué masa hay que
+colocar sobre la madera para que la parte superior de 
+esta última quede justo al nivel del agua?
+72.
+●● a) Si tiene un trozo de metal unido a un hilo ligero,
+una báscula y un recipiente con agua donde puede su-
+mergirse el trozo de metal, ¿cómo averiguaría el volumen
+del metal sin usar la variación en el nivel del agua? b) Un
+objeto pesa 0.882 N. Se le cuelga de una báscula que mar-
+ca 0.735 N cuando el objeto se sumerge en agua. ¿Qué
+volumen y densidad tiene el objeto?
+73.
+●● Un acuario está lleno con un líquido. Un cubo de cor-
+cho, de 10.0 cm de lado, es empujado y sostenido en el 
+reposo completamente sumergido en el líquido. Se nece-
+sita una fuerza de 7.84 N para mantenerlo bajo el líquido.
+Si la densidad del corcho es de 200 kg/m
+3, determine la
+densidad del líquido.
+74. ●● Un bloque de hierro se hunde rápidamente en el agua,
+pero los barcos construidos de hierro flotan. Un cubo sólido
+de hierro de 1.0 m por lado se convierte en láminas. Para for-
+mar con las láminas un cubo hueco que no se hunda, ¿qué
+longitud mínima deberán tener los lados de las láminas?
+75.
+●● Hay planes para volver a usar dirigibles, naves más
+ligeras que el aire, como el dirigible Goodyear, para
+transportar pasajeros y carga, pero inflándolos con helio,
+no con hidrógeno inflamable, que se usó en el desven-
+turado Hindenburg (véase los Hechos de física al inicio 
+de este capítulo). Un diseño requiere que la nave tenga
+100 m de largo y una masa total (sin helio) de 30.0 tonela-
+das métricas. Suponiendo que la “envoltura” de la nave
+es cilíndrica, ¿qué diámetro debería tener para levantar
+el peso total de la nave y del helio?
+
+Esfera
+interior
+de
+plástico
+1.00 m
+Estructura de
+aluminio de
+1.00 cm
+de grosorCable
+> FIGURA 9.36
+Es una boya
+(No está a escala.)
+Véase el ejercicio 77. 
+Ejercicios 335
+▲ FIGURA 9.37 Inmersión de una esferaVéase el ejercicio 78.
+▲ FIGURA 9.38 Túnel de Venturi y spoiler
+Véase el ejercicio 85.
+76. ●●● Una chica flota en un lago con el 97% de su cuerpo
+bajo el agua. ¿Qué a) densidad de masa y b) densidad 
+de peso tiene?
+77. ●●● Una boya esférica de navegación está amarrada al
+fondo de un lago mediante un cable vertical ( ▼figura
+9.36). El diámetro exterior de la boya es de 1.00 m. El in-
+terior de la boya está hecho de una estructura de alumi-
+nio de 1.0 cm de grosor y el resto es de plástico sólido. La
+densidad del aluminio es de 2700 kg/m
+3 y la densidad
+del plástico es de 200 kg/m3. La boya debe flotar de ma-
+nera que exactamente la mitad de ella quede fuera del
+agua. Determine la tensión en el cable.
+82. OM Según la ecuación de Bernoulli, si se incrementa la
+presión sobre el líquido de la figura 9.19, a) la rapidez de
+flujo siempre aumenta, b) la altura del líquido siempre
+aumenta, c) podrían aumentar tanto la rapidez de flujo
+como la altura del líquido o d) nada de lo anterior.
+83. PC La rapidez de flujo de la sangre es mayor en las arte-
+rias que en los capilares. Sin embargo, la ecuación de tasa
+de flujo (Av /H11005constante) parece predecir que la rapidez
+debería ser mayor en los capilares que son más pequeños.
+¿Puede explicar esta aparente inconsistencia?
+84. PC a) Explique por qué llega más lejos el agua que sale
+de una manguera si ponemos el dedo en la punta de la
+manguera. b) Señale una analogía del organismo huma-
+no en cuanto a flujo restringido y rapidez mayor.
+85. PC Si un carro Indy tuviera una base plana, sería muy
+inestable (como el ala de un avión) por la sustentación
+que experimenta al moverse a gran rapidez. Para aumen-
+tar la fricción y la estabilidad del vehículo, la base tiene
+una sección cóncava llamada túnel de Venturi (
+▼figura
+9.38). a) En términos de la ecuación de Bernoulli, expli-
+que cómo esta concavidad genera una fuerza adicional
+hacia abajo sobre el auto, que se suma a la de las alas de-
+lantera y trasera. b) ¿Cuál es el propósito del “spoiler” en
+la parte trasera del vehículo?
+a) b)
+▲ FIGURA 9.39 Efectos Bernoulli Véase el ejercicio 86.
+78. ●●● La ▼figura 9.37 muestra un experimento simple de
+laboratorio. Calcule a) el volumen y b) la densidad de la
+esfera suspendida. (Suponga que la densidad de la esfera
+es uniforme y que el líquido en el vaso de precipitados es
+agua.) c) ¿Usted sería capaz de hacer los mismos cálculos
+si el líquido en el vaso de precipitados fuera mercurio?
+(Véase la tabla 9.2.) Explique su respuesta.
+9.4 Dinámica de fluidos y ecuación de Bernoulli
+79. OM Si la rapidez en algún punto de un fluido cambia con
+el tiempo, el flujo no es a) constante, b) irrotacional, c) in-
+compresible, d) no viscoso.
+80. OM Un fluido ideal no es a) estable, b) compresible, c) irro-
+tacional o d) no viscoso.
+81. OM La ecuación de Bernoulli se basa primordialmente
+en a) las leyes de Newton, b) la conservación de la canti-
+dad de movimiento, c) un fluido no ideal, d) la conserva-
+ción de la energía.
+86. PC Veamos dos demostraciones comunes de efectos Ber-
+noulli. a) Si sostenemos una tira angosta de papel frente 
+a la boca y soplamos sobre la cara superior, la tira se le-
+vantará (
+▼figura 9.39a). (Inténtelo.) ¿Por qué? b) Un cho-
+rro de aire de un tubo sostiene verticalmente un huevo
+de plástico (figura 9.39b). El huevo no se aleja de su posi-
+ción en el centro del chorro. ¿Por qué no?
+
+▲ FIGURA 9.41 Chorros como proyectiles Véase 
+el ejercicio 94.
+336 CAPÍTULO 9 Sólidos y fluidos
+▲ FIGURA 9.40 Un gran soplido Véase el ejercicio 92.
+Δh
+v2
+A2
+v1
+A1 A1
+v1
+▲ FIGURA 9.42 Un medidor de rapidez de flujo Véase el
+ejercicio 97.
+87. ● Un fluido ideal se mueve a 3.0 m/s en una sección de
+tubería de 0.20 m de radio. Si el radio en otra sección es
+de 0.35 m, ¿qué velocidad tendrá ahí el flujo?
+88. EI
+● a) Si el radio de una tubería se estrecha a la mitad de
+su tamaño original, la rapidez de flujo en la sección angos-
+ta 1) aumentará al doble, 2) aumentará cuatro veces, 3) dis-
+minuirá a la mitad o 4) disminuirá a la cuarta parte. ¿Por
+qué? b) Si el radio se ensancha al triple de su tamaño origi-
+nal, ¿qué relación habrá entre la rapidez de flujo en la sec-
+ción más ancha y la rapidez en la sección más angosta?
+89.
+●● La rapidez de flujo de la sangre en una arteria princi-
+pal de 1.0 cm de diámetro es de 4.5 cm/s. a) ¿Cuál será la
+tasa de flujo en la arteria? b) Si el sistema de capilares tiene
+una área transversal total de 2500 cm2, ¿la rapidez prome-
+dio de la sangre a través de los capilares qué porcentaje se-
+rá de la rapidez en la arteria? c) ¿Por qué es necesario que
+la sangre fluya lentamente por los capilares?
+90.
+●● La rapidez de flujo sanguíneo por la aorta con un ra-
+dio de 1.00 cm es de 0.265 m/s. Si el endurecimiento 
+de las arterias provoca que la aorta reduzca su radio a
+0.800 cm, ¿por cuánto se incrementará la rapidez del flu-
+jo sanguíneo?
+91.
+●● Utilizando los datos y el resultado del ejercicio 90,
+calcule la diferencia de presión entre las dos áreas de la
+aorta. (Densidad de la sangre: /H9267
+/H110051.06 /H11003103 kg/m3.)
+92. ●● En una sorprendente demostración durante una clase,
+un profesor de física sopla fuerte por encima de una mo-
+neda de cobre de cinco centavos, que está en reposo sobre
+un escritorio horizontal. Al hacer esto con la rapidez ade-
+cuada, logra que la moneda acelere verticalmente hacia la
+corriente de aire y luego se desvíe hacia una bandeja, co-
+mo se ilustra en la 
+▼figura 9.40. Suponiendo que el diáme-
+tro de la moneda es de 1.80 cm y que tiene una masa de
+3.50 g, ¿cuál es la rapidez mínima de aire necesaria para
+hacer que la moneda se eleve del escritorio? Suponga que
+el aire debajo de la moneda permanece en reposo. 
+94.
+●● Los caños del recipiente de la ▼figura 9.41 están a 10,
+20, 30 y 40 cm de altura. El nivel del agua se mantiene a
+una altura de 45 cm mediante un abasto externo. a) ¿Con
+qué rapidez sale el agua de cada caño? b) ¿Qué chorro de
+agua tiene mayor alcance relativo a la base del recipien-
+te? Justifique su respuesta.
+93.
+●● Una habitación mide 3.0 m por 4.5 m por 6.0 m. Los
+ductos de calefacción y aire acondicionado que llegan a
+ella y salen de ella son circulares y tienen un diámetro de
+0.30 m, y todo el aire de la habitación se renueva cada 
+12 minutos, a) calcule la tasa media de flujo. b) ¿Qué tasa
+de flujo debe haber en el ducto? (Suponga que la den-
+sidad del aire es constante.)
+95.
+●●● Fluye agua a razón de 25 L/min a través de una tu-
+bería horizontal de 7.0 cm de diámetro, sometida a una
+presión de 6.0 Pa. En cierto punto, depósitos calcáreos re-
+ducen el área transversal del tubo a 30 cm
+2. Calcule la
+presión en este punto. (Considere que el agua es un flui-
+do ideal.)
+96.
+●●● Como un método para combatir el fuego, un residen-
+te del bosque instala una bomba para traer agua de un la-
+go que está 10.0 m por debajo del nivel de su casa. Si la
+bomba puede registrar una presión manométrica de 140
+kPa, ¿a qué tasa (en L/s) puede bombearse el agua a la ca-
+sa suponiendo que la manguera tiene un radio de 5.00 cm?
+97.
+●●● Un medidor Venturi puede medir la rapidez de flu-
+jo de un líquido. En la ▼figura 9.42 se muestra un dispo-
+sitivo sencillo. Demuestre que la rapidez de flujo de un
+fluido ideal está dada por 
+v
+1 = C
+2g¢h
+1A1
+2>A2
+22 - 1 .
+*9.5 Tensión superficial, viscosidad 
+y ley de Poiseuille
+98. OM Las gotitas de agua y pompas de jabón suelen ad-
+quirir una forma esférica. Este efecto se debe a) a la vis-
+cosidad, b) a la tensión superficial, c) al flujo laminar o 
+d) a nada de lo anterior.
+
+Ejercicios 337
+Ejercicios adicionales
+106. Demuestre que la gravedad específica es equivalente a
+una razón de densidades, puesto que su definición es-
+tricta es la razón entre el peso de un volumen dado de
+una sustancia y el peso de un volumen igual de agua.
+107. Una piedra está suspendida de una cuerda en el aire. La
+tensión en la cuerda es de 2.94 N. Cuando la roca se in-
+troduce en un líquido y la cuerda se afloja, la roca se hun-
+de y llega al reposo sobre un resorte cuya constante de
+resorte es de 200 N/m. La compresión final del resorte es
+de 1.00 cm. Si se sabe que la densidad de la roca es de
+2500 kg/m
+3, ¿cuál será la densidad del líquido?
+108. Un bastón (de forma cilíndrica) con el peso desequilibra-
+do consta de dos secciones: una más densa (la inferior) y
+otra menos densa (la sección superior). Cuando se le co-
+loca en agua, queda vertical y apenas flota. El bastón tie-
+ne un diámetro de 2.00 cm; su parte inferior está hecha
+de acero con una densidad de 7800 kg/m
+3, y la sección
+superior está hecha de madera con una densidad de 810
+kg/m
+3. La parte de acero tiene una longitud de 5.00 cm.
+Determine la longitud de la sección de madera.
+109. Un equipo de excursionistas improvisan una regadera ru-
+dimentaria, que consiste en un gran contenedor cilíndrico
+(abierto por la parte superior) colgado de un árbol. Su
+área inferior está perforada con una gran cantidad de pe-
+queños orificios, cada uno de los cuales tiene 1.00 mm de
+diámetro; el contenedor mide 30.0 cm de diámetro y 75.0
+cm de altura. a) Inicialmente, ¿cuál es la rapidez del agua
+que sale por los agujeros? b) ¿Cuántos hoyos se necesitan
+si se desea que la tasa de flujo total sea de 1.20 L/s?
+110. ¿Cuál es la diferencia en volumen (que se debe sólo a los
+cambios de presión, no a la temperatura ni a otros fac-
+tores) entre 1000 kg de agua en la superficie del océano
+(suponga que está a 4°C) y la misma masa a la mayor
+profundidad conocida de 8.00 km? (La fosa Mariana; su-
+ponga que también está a 4°C.)
+99. OM Algunos insectos pueden caminar sobre el agua por-
+que a) la densidad del agua es mayor que la del insecto,
+b) el agua es viscosa, c) el agua tiene tensión superficial 
+o d) nada de lo anterior.
+100. OM La viscosidad de un fluido se debe a) a fuerzas que
+causan fricción entre las moléculas, b) a la tensión super-
+ficial, c) a la densidad o d) a nada de lo anterior.
+101. PC Un aceite de motor indica 10W-40 en su etiqueta.
+¿Qué miden los números 10 y 40? ¿Qué significa la W?
+102. PC ¿Por qué la ropa se lava en agua caliente y se le agre-
+ga detergente.
+103.
+●● La arteria pulmonar, que conecta al corazón con los
+pulmones, tiene unos 8.0 cm de longitud y un diámetro
+interior de 5.0 mm. Si la tasa de flujo en ella debe ser de
+25 mL/s, ¿qué diferencia de presión debe haber entre sus
+extremos?
+104.
+●● En un hospital un paciente recibe una transfusión rá-
+pida de 500 cc de sangre a través de una aguja de 5.0 cm
+de longitud y diámetro interior de 1.0 mm. Si la bolsa de
+sangre se cuelga 0.85 m arriba de la aguja, ¿cuánto tarda
+la transfusión? (Desprecie la viscosidad de la sangre que
+fluye por el tubo de plástico entre la bolsa y la aguja.)
+105.
+●● Un enfermero necesita extraer 20.0 cc de sangre de un
+paciente y depositarla en un pequeño contenedor de
+plástico cuyo interior está a presión atmosférica. El en-
+fermero inserta la punta de la aguja de un largo tubo en
+una vena, donde la presión manométrica promedio es de
+30.0 mm Hg. Esto permite que la presión interna en la 
+vena empuje la sangre hacia el recipiente de recolección.
+La aguja mide 0.900 mm de diámetro y 2.54 cm de largo.
+El largo tubo es lo suficientemente ancho y suave, de ma-
+nera que suponemos que su resistencia es insignificante,
+y que toda la resistencia al flujo sanguíneo ocurre en la
+delgada aguja. ¿Cuánto tiempo tardará el enfermero en
+recolectar la muestra?
+Los siguientes problemas de física Physlet pueden usarse con este capítulo.
+14.1, 14.2, 14.3, 14.4, 14.5, 14.6, 14.7, 14.8, 14.9, 14.10, 15.1, 15.2, 15.3, 15.4, 15.5,
+15.6, 15.7, 15.8, 15.9, 15.10
+
+10.1 Temperatura y calor 339
+10.2 Las escalas de 
+temperatura Celsius 
+y Fahrenheit 340
+10.3 Leyes de los gases, 
+temperatura absoluta 
+y la escala de 
+temperatura Kelvin
+343
+10.4 Expansión térmica 350
+10.5 La teoría cinética 
+de los gases 354
+10.6 Teoría cinética, 
+gases diatómicos y 
+teorema de 
+equipartición
+357
+CAPÍTULO
+10
+A
+l igual que los veleros, los globos de aire caliente son inventos de baja tec-
+nología en un mundo de alta tecnología. Podemos equipar un globo con el
+sistema de navegación computarizado más moderno, vinculado con saté-
+lites, para cruzar el Pacífico, pero los principios básicos que nos mantienen en
+vuelo ya se conocían y entendían desde hace varios siglos. Como se observa en la
+imagen el aire se calienta y, con un incremento en la temperatura, el aire caliente
+(menos denso) se eleva. Cuando hay suficiente aire caliente en el globo, éste se
+eleva y flota.
+La temperatura y el calor son temas frecuentes de conversación; pero si tuvié-
+ramos que explicar qué significan realmente esas palabras es posible que no ha-
+lláramos la forma de hacerlo. Usamos termómetros de todo tipo para registrar
+temperaturas, que proporcionan un equivalente objetivo de nuestra experiencia
+sensorial de lo frío y lo caliente. Por lo general, hay un cambio de temperatura
+cuando se aplica o se extrae calor. Por lo tanto, la temperatura está relacionada
+con el calor. Sin embargo, ¿qué es el calor? En este capítulo constataremos que las
+respuestas a tales preguntas nos permiten entender principios de física muy im-
+portantes.
+Una de las primeras teorías acerca del calor consideraba que era una sustan-
+cia fluida llamada calórico, la cual podía fluir dentro de un cuerpo y salir de él.
+Aunque se ha descartado dicha teoría, aún decimos que fluye calor de un cuerpo
+a otro. Ahora sabemos que el calor es energía en tránsito, y la temperatura y las
+propiedades térmicas se explican considerando el comportamiento atómico y mo-
+lecular de las sustancias. En éste y los siguientes dos capítulos examinaremos la
+naturaleza de la temperatura y el calor en términos de teorías microscópicas (mo-
+leculares) y observaciones macroscópicas. Exploraremos la naturaleza del calor y
+las formas en que medimos la temperatura. También veremos las leyes de los ga-
+ses, que explican no sólo el comportamiento de los globos de aire caliente, sino
+también fenómenos más importantes, como la forma en que nuestros pulmones
+nos abastecen del oxígeno que necesitamos para vivir.
+• Daniel Gabriel Fahrenheit (1686-1736), un
+fabricante alemán de instrumentos, creó el
+primer termómetro de alcohol (1709) y el pri-
+mer termómetro de mercurio (1714). Fahren-
+heit utilizó temperaturas de 0 y 96° como
+puntos de referencia. Los puntos de congela-
+ción y de ebullición del agua se registraron
+en 32 y 212°F , respectivamente.
+• Anders Celsius (1701-1744), un astrónomo
+sueco, inventó la escala de temperatura que
+lleva su nombre con un intervalo de 100 gra-
+dos entre el punto de congelación y el de
+ebullición del agua (0 y 100°C). La escala
+original de Celsius estaba invertida, es decir,
+marcaba 100°C para el punto de congelación,
+y 0°C para el de ebullición. Esto se modificó
+tiempo después.
+• Las escalas de temperatura Celsius y Fahren-
+heit arrojan la misma lectura a los –40°, de
+manera que –40°C = –40°F .
+• La menor temperatura posible es el cero ab-
+soluto (–273.15°C). No se conoce un límite
+superior de la temperatura.
+• El Golden Gate sobre la bahía de San Francis-
+co varía casi 1 m de longitud entre el verano y
+el invierno (a causa de la expansión térmica).
+• Casi todas las sustancias tienen coeficientes
+positivos de expansión térmica (se expanden
+cuando se calientan). Algunas tienen coefi-
+cientes negativos (se contraen cuando se ca-
+lientan). Así sucede con el agua en un rango
+específico de temperatura. El volumen de
+cierta cantidad de agua disminuye (se con-
+trae) al calentarse de 0 a 4°C.
+HECHOS DE FÍSICA
+Temperatura
+y teoría cinética
+338
+*
+
+10.1 Temperatura y calor 339
+*Nota: algo de la energía podría irse al efectuar trabajo y no en energía interna (sección 12.2).
+10.1 Temperatura y calor
+OBJETIVO: Distinguir entre temperatura y calor.
+Una buena forma de comenzar a estudiar física térmica es definiendo temperatura y
+calor. La temperatura es una medida, o indicación, de qué tan caliente o frío está un
+objeto. Decimos que una estufa caliente tiene una temperatura alta; y que un cubo de
+hielo, una temperatura baja. Si un objeto tiene una temperatura más alta que otro, de-
+cimos que está más caliente, o que el otro objeto está más frío. Caliente y frío son térmi-
+nos relativos, como alto y bajo. Percibimos la temperatura por el tacto; sin embargo, este
+sentido de temperatura no es muy confiable y su alcance es demasiado limitado como
+para que resulte útil en la ciencia.
+El calor está relacionado con la temperatura y describe el proceso de transferencia
+de energía de un objeto a otro. Es decir, calor es la energía neta transferida de un objeto a
+otro, debido a una diferencia de temperatura . Por lo tanto, el calor es energía en tránsito,
+por decirlo de alguna manera. Una vez transferida, la energía se vuelve parte de la
+energía total de las moléculas del objeto o sistema, su energía interna. Una transferen-
+cia de calor (energía) entre objetos produciría cambios de energía interna.*
+En el nivel microscópico, la temperatura está asociada con el movimiento molecu-
+lar. En la teoría cinética (sección 10.5), que trata las moléculas de gas como partículas
+puntuales, la temperatura es una medida del valor promedio de la energía cinética de
+traslación aleatoria de las moléculas. Sin embargo, las moléculas diatómicas y otras sus-
+tancias reales, además de tener esa energía traslacional “de temperatura”, pueden tener
+energía cinética debida a vibración y a rotación, además de energía potencial debida a
+las fuerzas de atracción entre las moléculas. Estas energías no contribuyen a la tempera-
+tura del gas, pero sí forman parte de su energía interna, que es la suma de todas estas
+energías (
+▼figura 10.1).
+Energía interna
+total
+Energía potencial
+de las moléculas
+(debida a fuerzas
+intermoleculares)
+Energía cinética
+de las moléculas
+Energía
+vibracional
+de las moléculas
+Energía
+rotacional de
+las moléculas
+Energía traslacional
+aleatoria de las moléculas
+(“energía de temperatura”)
+UNA MEDIDA DE
+LA TEMPERATURA
+a) c)
+Movimiento traslacional Vibración lineal Rotación
+b)
+> FIGURA 10.1 Movimientos 
+moleculares La energía interna 
+total consiste en energías cinética y
+potencial. La energía cinética tienen
+las siguientes formas: a) La tempe-
+ratura está asociada al movimiento
+traslacional aleatorio de las molécu-
+las. Ni el 
+b) movimiento vibracio-
+nal lineal ni c) el movimiento
+rotacional contribuyen con la tem-
+peratura, ni tampoco la energía po-
+tencial intermoluecular.
+
+a)
+b)
+▲ FIGURA 10.3 Bobina bimetálica
+Se usan bobinas bimetálicas en a)
+termómetros de carátula (la bobina
+está en el centro) y b) termostatos
+caseros (la bobina está a la derecha).
+Los termostatos sirven para regu-
+lar los sistemas de calentamiento o 
+enfriamiento, encendiéndolos 
+o apagándolos conforme cambia 
+la temperatura de la habitación. La 
+expansión y la contracción de 
+la bobina hace que se incline una 
+ampolleta de vidrio que contiene
+mercurio, lo cual abre y cierra un
+contacto eléctrico. 
+340

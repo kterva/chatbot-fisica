@@ -1,0 +1,1940 @@
+Tema: Calor y primer principio de la termodinámica (Capítulo 18 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+520 | Capítulo 18 Calor y primer principio de la termodinámica 
+Lingotes de acero dentro de un horno en forma de 
+túnel de dos tubos gemelos. Los tres lingotes de 
+acero al carbono de 53 cm de diámetro que se ven 
+aquí, se han estado calentando durante 7 horas, 
+aproximadamente, hasta alcanzar los 1340 °C. Cada 
+lingote de 3200 kg está situado sobre un carrito que 
+lo va transportando 4 lo largo del horno de 81 m de 
+largo, dividido en doce zonas de calentamiento 
+separadas de forma que se haga aumentar 
+gradualmente la temperatura del lingote para 
+prevenir la formación de grietas. Los lingotes, que 
+brillan con un color blanco amarillento, salen del 
+horno en condiciones de ser laminados y 
+transformados en tubos grandes y de paredes 
+gruesas. 
+= En este capítulo se define la capacidad calorífica y se estudia que el calenta- 
+miento de un sistema puede causar un cambio en su temperatura o un cambio de 
+fase. A continuación se estudia la relación que existe entre la conducción del calor, 
+el trabajo y la energía interna de un sistema, y se formula, como primer principio 
+de la termodinámica, la ley de conservación de la energía para sistemas térmicos. 
+Por último, veremos que la capacidad calorífica de un sistema está relacionada con 
+su estructura molecular. 
+18.1 Capacidad calorífica y calor específico 
+La temperatura de un cuerpo generalmente aumenta cuando se le transfiere energía mediante 
+calentamiento.! La cantidad de calor O necesaria para elevar la temperatura de un sistema es 
+proporcional a la variación de temperatura y a la masa de la sustancia: 
+OG AT = mc AT (18.1) 
+en donde C es la capacidad calorífica de la sustancia, que se define como la cantidad de 
+energía transferida por calentamiento necesaria para aumentar un grado la temperatura de la 
+sustancia. El calor específico c es la capacidad calorífica por unidad de masa: 
+eS (18.2) 
+La unidad histórica de la energía calorífica, la caloría, se definió originalmente como la 
+cantidad de calor necesario para elevar la temperatura de un gramo de agua en un grado Cel- 
+sius.? Como ahora sabemos que el calor es simplemente un modo de transferir energía, no 
+necesitamos ninguna unidad especial para su medida. La caloría se define ahora en función 
+de la unidad del SI de la energía, el julio: 
+l cal = 4,184 J (18.3) 
+La unidad de uso ordinario del sistema técnico inglés es la Btu (“British thermal unit”, uni- 
+dad británica de calor), que se definió antiguamente como la cantidad de calor necesaria para 
+elevar la temperatura de una libra de agua en un grado Fahrenheit. Esta unidad se relaciona 
+con la caloría y el julio mediante las expresiones 
+l Btu = 252 cal = 1,054 kJ (18.4) 
+4 ss os 7 “ñ 3 
+Según la definición original de la caloría, el calor específico del agua es” 
+l cal/(g - C°) = 1 kcal/(kg - C°) 
+l kcal/(kg - K) = 4,184 kJ/(kg - K) (18.54) 
+Cagua 
+II 
+Análogamente, a partir de la definición de la Btu, el calor específico del agua en las unidades 
+del sistema técnico inglés es 
+= | Btu/(lb - F°) (18.5b) Cagua 
+' Una excepción tiene lugar durante los cambios de fase, por ejemplo, cuando el agua se congela o evapora. Los cambios 
+de fase se tratan en la sección 19,2. 
+La kilocaloria es, por lo tanto, la cantidad de calor necesaria para elevar la temperatura de | kg de agua en un grado 
+Celsius. La “caloría” utilizada en la medida del equivalente de energía de los alimentos es realmente la kilocaloría. 
+Medidas cuidadosas demuestran que el calor específico del agua varía aproximadamente en un 1% en todo el margen de 
+temperaturas de 0 a 100°C. Normalmente despreciaremos esta pequeña variación, 
+1
+
+TABLA 18.1 Calores específicos y calores molares de algunos sólidos y líquidos 
+G kcal/kg-K 
+Sustancia , KJ/kg- o Btu/Ib-F 
+Agua 4,18 1,00 75,2 
+Alcohol etilico 2,4 0,58 111 
+Aluminio 0,900 0,215 24,3 
+Bismuto 0,123 0,0294 25,7 
+Cobre 0,386 0,0923 24,5 
+Hielo (—10 °C) 2,05 0,49 36,9 
+Mercurio 0,140 0,033 28,3 
+Oro 0,126 0,0301 25,6 
+Plata 0,233 0,0558 24.9 
+Plomo 0,128 0,0305 26.4 
+Tungsteno 0,134 0,0321 24,8 
+Vidrio 0,840 0,20 -= 
+Zinc 0,387 0,0925 25,2 
+en donde n es el número de moles. Como C = me, el calor específico molar c’ y el calor 
+específico c están relacionados de la forma siguiente 
+a aQ Me ome (18.6) 
+en donde M = m/n es la masa molar. La tabla 18.1 indica los calores específicos y los calores 
+molares de algunos sólidos y líquidos. Obsérvese que los calores molares de todos los meta- 
+les son aproximadamente iguales. El significado de este hecho será analizado en la sección 
+18.7. 
+EJEMPLO 18.1 | Elevación de la temperatura 
+¿Qué cantidad de calor se necesita para elevar la temperatura de 3 kg de cobre en 20 C°? 
+Planteamiento del problema La cantidad de calor necesaria para elevar la temperatura de la 
+sustancia (cobre) es proporcional a la variación de temperatura (20 °C) y a la masa (3 kg) de la sus- 
+tancia. 
+18.1 Capacidad calorífica y calor específico | 521 
+El calor necesario se obtiene a partir de la ecuación 18.1 con O = mc AT = (3 kg)(0,386 kJ/kg - K)(20 K) 
+c = 0,386 kJ/kg - K tomado de la tabla 18.1: -[32 6] 
+Observaciones Aquí usamos AT = 20 C° = 20 K. Alternativamente, podríamos expresar el calor 
+específico como 0,386 kJ/kg - C° y escribir la variación de temperatura como 20 C°. 
+Ejercicio Un bloque de aluminio de 2 kg está inicialmente a 10 °C. Si se le transfieren 36 kJ de 
+energía calorífica, ¿cuál es su temperatura final? (Respuesta 30 °C.) 
+Podemos ver en la tabla 18.1 que el calor específico del agua es considerablemente 
+mayor que el de las demás sustancias. Debido a esta capacidad térmica tan grande, el agua es 
+un material excelente para almacenar energía térmica, como ocurre en un sistema de energía 
+solar, y también es un excelente refrigerante, como sucede en un motor de automóvil.
+
+522 | Capítulo 18 Calor y primer principio de la termodinámica 
+Una gran masa de agua, como un lago o un océano, 
+tiende a moderar las variaciones de temperatura 
+del aire de sus cercanías porque puede absorber o 
+desprender grandes cantidades de energía térmica 
+experimentando sólo cambios de temperatura 
+pequeños. 
+Calorimetria 
+El calor específico de un cuerpo puede medirse convenientemente calentándolo primero a 
+una cierta temperatura, por ejemplo, el punto de ebullición del agua, situándolo a continua- 
+ción en un baño de agua, de masa y temperatura conocidas, y midiendo, por último, la tem- 
+peratura final de equilibrio entre el cuerpo y el baño. Si el sistema en su totalidad está aislado 
+térmicamente de su entorno (aislando, por ejemplo, el recipiente), el calor que sale del 
+cuerpo tiene que ser igual al calor que entra en el agua y en el recipiente. Este procedimiento 
+se denomina calorimetría y el recipiente aislado que contiene el agua, calorímetro. 
+Sea m la masa del cuerpo u objeto, c su calor específico y T;,, su temperatura inicial. Si T; 
+es la temperatura final del cuerpo dentro de su baño de agua, el calor que sale del cuerpo vale 
+Osale = mel Tio X Te) 
+Análogamente, si 7;, es la temperatura inicial del agua y su recipiente, y 7; su temperatura 
+final (la temperatura final del cuerpo y del agua será la misma, puesto que finalmente alcan- 
+zarán el equilibrio), el calor absorbido por el agua y el recipiente es 
+Qentra = myc (Ti z Tia) + mc AT; z Tia) 
+en donde m, y c, = 4,18 kJ/kg-K son la masa y el calor específico del agua y m, y c. son la 
+masa y el calor específico del recipiente. (Obsérvese que en estas ecuaciones hemos esco- 
+gido las diferencias de temperaturas de forma que tanto el calor cedido como el recibido 
+sean cantidades positivas). Igualando estas cantidades de calor, puede obtenerse el calor 
+específico c del objeto: 
+Ovalo sE Oentra 
+mc(T¡ Tp) = me (T¡—T¡,) + Mec AT ¡¿-Ti¡,) (18.7) 
+Como en la ecuación 18.7 sólo aparecen diferencias de temperaturas y como los grados Cel- 
+sius y los Kelvin tienen el mismo tamaño, pueden medirse todas las temperaturas bien en la 
+escala Celsius o en la Kelvin sin que se vea afectado el resultado. 
+EJEMPLO 18.2 | Medida del calor específico 
+Para medir el calor específico del plomo se calientan 600 g de perdigones de este metal a 100 *C y 
+se colocan en un calorímetro de aluminio de 200 g de masa que contiene 500 g de agua inicial- 
+mente a 17,3 °C. Si la temperatura final del sistema es 20,0 °C, ¿cuál es el calor específico del 
+plomo? [El calor específico del aluminio del calorímetro es 0,900 kJ/kg - K]. 
+Planteamiento del problema  Igualamos el calor cedido por el plomo con el calor absorbido 
+por el agua y el recipiente y despejamos el calor específico del plomo cpp. 
+1. Expresar el calor cedido por el plomo en función de su calor especí- Op = MpyCpp [AT ppl 
+fico: 
+2. Determinar el calor absorbido por el agua: 
+3. Determinar el calor absorbido por el calorímetro 
+Q, = Mci AT, 
+Q. = MCs AT. 
+4. Igualar el calor cedido por el plomo con el calor absorbido por el agua Qp = Qa +Q. 
+y el calorímetro: 
+5. Despejar cpp: 
+MppCpy|AT pp] = myc, AT, + MC AT, 
+donde 
+AT, = AT, = 2,7Ky [AT] = 80K 
+(mc, +m,.c.JAT, Cc = _  _ _ __— 
+ied Mpp|AT pal 
+— ((0,5 kg)(4,18 kJ/Kg - K) + (0,2 Kg)(0,9 kJ/kg - K)](2,7 K) 
+(0,6 kg)(80 K) 
+=| 0,128 kJ/kg - K 
+Observación El calor específico del plomo es considerablemente menor que el del agua.
+
+18.2 Cambio de fase y calor latente 
+Cuando se suministra calor al hielo a 0 °C, la temperatura del hielo no se modifica. En su 
+lugar, el hielo se funde. Este es un ejemplo de cambio de fase. Las formas más corrientes de 
+cambios de fase incluyen la solidificación (líquido a sólido), la fusión (sólido a líquido). la 
+vaporización (líquido a vapor o gas), la condensación (gas o vapor a líquido) y la sublima- 
+ción (sólido directamente a gas, como ocurre con el dióxido de carbono sólido o hielo seco). 
+Existen otros tipos de cambios de fase, como el cambio que experimenta un sólido de una 
+forma cristalina a otra distinta. Asi, el carbono a grandes presiones se convierte en diamante. 
+El hecho de que la temperatura permanezca constante durante un cambio de fase puede 
+entenderse en función de la teoría molecular. Las moléculas de un líquido están muy próximas 
+unas de otras y ejercen fuerzas atractivas entre sí, mientras que las moléculas de un gas están 
+muy separadas. Convertir una sustancia de líquido a vapor requiere la energía necesaria para 
+vencer la atracción intermolecular del líquido. Consideremos una olla de agua colocada sobre 
+la llama de un hornillo. Al principio, a medida que el agua se calienta, el movimiento de sus 
+moléculas aumenta y la temperatura sube. Cuando la temperatura alcanza el punto de ebulli- 
+ción, las moléculas no pueden ya aumentar su energía cinética y permanecen en el líquido. 
+Cuando el agua líquida se vaporiza, el calor añadido se emplea en vencer las fuerzas atractivas 
+entre las moléculas, que se separan cada vez más en la fase gaseosa. La energía suministrada al 
+líquido para vaporizarlo incrementa de este modo la energía potencial de las moléculas, pero 
+no su energía cinética. Como la temperatura es una medida de la energía cinética media de 
+traslación de las moléculas, la temperatura permanece constante durante el cambio de fase, 
+En una sustancia pura, un cambio de fase a una presión dada tiene lugar sólo a una tem- 
+peratura determinada. Por ejemplo, el agua pura a una presión de | atm pasa de sólido a 
+líquido a 0 °C (el punto de fusión normal del agua) y de líquido a gas a 100 °C (el punto de 
+ebullición normal del agua). 
+El calor necesario para fundir una sustancia de masa mm sin cambiar su temperatura es pro- 
+porcional a la masa de la sustancia: 
+O; = mL; (18.8) 
+en donde Lẹ se denomina calor latente de fusión de la sustancia. A una presión de | atm, el 
+calor latente de fusión del agua es 333,5 kJ/kg = 79 kcal/kg. Cuando el cambio de fase corres- 
+ponde al paso de líquido a gas, el calor requerido es 
+Q, = mL, (18.9) 
+en donde L, es el calor latente de vaporización. En el caso del agua a una presión de | atm, 
+el calor latente de vaporización es 2,26 MJ/kg = 540 kcal/kg. En la tabla 18.2 se indican los 
+puntos normales de fusión y ebullición, y los calores latentes de fusión y de vaporización a 
+| atm para diversas sustancias. 
+TABLA 18.2 Punto de fusión normal (PF), calor latente de fusión L;, punto de ebullición 
+normal (PE), y calor latente de vaporización L, para varias sustancias a 1 atm 
+Sustancia PF, K Li, kJ/kg PE, K L, kJ/kg 
+Agua 273,15 333,5 373,15 2257 
+Alcohol etilico 159 109 351 879 
+Azufre 388 38,5 717,75 287 
+Bromo 266 67,4 332 369 
+Cobre 1356 205 2839 4726 
+Dióxido de carbono = - 194,6* 573 
+Helio - - 4,2 21 
+Mercurio 234 11,3 630 296 
+Nitrógeno 63 25,1 77,35 199 
+Oro 1336 62.8 3081 1701 
+Oxígeno 54,4 13,8 90,2 213 
+Plata 1234 -105 2436 2323 
+Plomo 600 24.7 2023 858 
+Zinc 692 102 1184 1768 
+2 Estos valores corresponden a la sublimación. El dióxido de carbono no tiene fase líquida a | atm. 
+18.2 Cambio de fase y calor latente 523 
+Aunque la fusión indica que el hielo ha 
+experimentado un cambio de fase, la temperatura 
+del hielo no varía.
+
+524 Capitulo 18 Calor y primer principio de la termodinamica 
+EJEMPLO 18.3 | Transformación de hielo en vapor 
+¿Cuánto calor es necesario suministrar para transformar 1,5 kg de hielo a -20 °C y 1 atm en 
+vapor? 
+Planteamiento del problema El calor necesario consta de cuatro partes: Q}, calor necesario 
+para elevar la temperatura del hielo de -20 a 0 °C; O;, calor necesario para fundir el hielo; Q3, 
+calor necesario para elevar la temperatura del agua de O a 100 °C; y Q4, calor necesario para vapo- 
+rizar el agua. Al calcular Q, y Q, admitiremos que los calores específicos son constantes, con 
+los valores 2,05 kJ/kg - K para el hielo y 4,18 kJ/kg - K para el agua. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+il] 1. Utilizar O, = mc AT para hallar el calor necesario para elevar la tempe- Q, 
+ratura del hielo a 0 °C. 
+2. Usar £; de la tabla 18.2 para hallar el calor Q, necesario para fundirel ©, 
+hielo. 
+it 
+3. Determinar el calor Oy necesario para elevar la temperatura del agua QO; 
+de 0° a 100 °C. 
+4. Usar L, de la tabla 18.2 para hallar el calor Q, necesario para vaporizar Q4 
+el agua. 
+i] 3,39 MJ 
+5. Sumar todos estos resultados para obtener el calor total Q. 
+Observaciones La mayor parte del calor suministrado se ha invertido en vaporizar el agua y la 
+cantidad necesaria para fundir el hielo fue casi tanta como la necesaria para elevar la temperatura del 
+agua 100 C°. En la figura 18.1 puede verse el gráfico de la temperatura en función del tiempo en el 
+caso de que el calor se adicione a un ritmo constante de | kJ/s. Obsérvese que se tarda mucho más en 
+vaporizar el agua que en fundir el hielo o en elevar la temperatura del agua. Cuando toda el agua se 
+ha vaporizado, la temperatura aumentará de nuevo conforme se vaya adicionando calor. 
+Ejercicio Un trozo de plomo de 830 g se calienta hasta su punto de fusión de 600 K. ¿Cuánta ener- 
+gía calorífica adicional debe añadirse para fundir el plomo? (Respuesta 20,5 kJ.) 
+EJEMPLO 18.4 | Una bebida fresca 
+Una jarra de limonada de 2 litros ha permanecido todo el día sobre una mesa de picnic a 33 °C. 
+En un vaso de corcho blanco echamos 0,24 kg de limonada y dos cubitos de hielo (cada uno de 
+0,025 kg a 0 °C). (a) Suponiendo que no hay pérdidas de calor a través de las paredes del vaso, 
+¿cuál será la temperatura final de la limonada? (b) ¿Cuál sería la temperatura final si aña- 
+dimos 6 cubitos de hielo? 
+Planteamiento del problema Establecemos que el calor perdido por la limonada es igual al 
+calor ganado por los cubos de hielo. Llamemos 7; a la temperatura final de la limonada y el agua. Se 
+supone que la limonada tiene la misma capacidad calorífica que el agua. 
+(a) 1. Expresar el calor perdido por la limonada en función de la tempe- 
+ratura final, Te 
+2. Expresar el calor ganado por los cubos de hielo y el agua resul- 
+tante en función de la temperatura final: ~ 
+Osanado = Milo Er + Mhie AT, = 
+¡INTÉNTELO USTED MISMO! 
+61,5kJ = 0,0615 MJ 
+500 kJ = 0.500 MJ 
+627 kJ = 0,627 MJ 
+Q = 0,+0,+0,+0, =[158M] 
+Liquido y vapor 
+rg G 
+100 
+Liquido Vapor 
+80 |- 
+0 28 36 44 52 
+Tiempo, min 
+12” 2 
+Hielo y agua 
+Hielo 
+Figura 18.1 
+jPONGALO EN SU CONTEXTO! 
+Opertido = MLCIAT| = m,c(T,;-T;) 
+Mhicio Ls + Mage T y
+
+18.3 El experimento de Joule y el primer principio de la termodinamica | 525 
+3. Igualar el calor perdido con el calor ganado y despejar Tg Obentido = Qganado 
+mM, C(T1;—Ty) = Mycol + MictoCT y 
+de modo que 
+MCT i — Mpictolr 
+5 (My + Myicio)C 
+— (0,24 kg)(4,18 kJ/(kg - C°))(33°C) - (0,05 kg)(333,5 kJ/kg) 
+(0,29 kg)(4,18 kJ/(kg - C°)) 
+=| 13,6°C 
+m cT = Mrictoly 
+(m, PF Mpielo) € 
+— (0,24 kg) (4.18 kJ/(kg - C°))(33°C) - (0,15 kg)(333,5 kJ/kg) 
+(0,39 kg)(4,18 kJ/(kg - C°)) 
+(b) 1. En el caso de los 6 cubos de hielo, Mpjejo = 0,15 kg. Determinar la Tẹ = 
+temperatura final como en el paso 3 del apartado (a). 
+= -10,4°C 
+2. ¡Este resultado no puede ser correcto! Sabemos que si añadimos 
+hielo a 0 °C a la limonada a 33 °C, la temperatura final de la mez- 
+cla no puede ser —10 °C. ¿Dónde está el error? El calor cedido por 
+la limonada cuando se enfría de 33 a 0 °C no es suficiente para 
+fundir todo el hielo, en contra de nuestra hipótesis de que todo el 
+hielo se funde, utilizada en el paso 2 del apartado (a). La tempera- 
+tura final es, pues, T, =[0 °C 
+(b). Para que la limonada se enfríe de 33 a 0 °C debe ceder el calor Ocedigo = (0,24 kg) 
+(4,18 kJ/kg-C°) (33 °C) = 33,1 kJ. La masa de hielo que esta cantidad de calor fundirá es 
+Mhiclo = Qcedido! Le = 33.1 KJ/(333,5 kJ/kg) = 0,10 kg. Esta masa corresponde, aproximadamente, a la 
+de cuatro cubos de hielo. La adición de más de cuatro cubos de hielo no disminuirá la temperatura 
+por debajo de 0 °C, sino que simplemente aumentará la cantidad de hielo en la mezcla hielo-limo- 
+nada. En problemas como este, primero debemos hallar cuánto hielo debe fundirse para reducir la 
+temperatura del líquido a O °C. Si esta cantidad es menor que la añadida, entonces procederemos 
+como en el apartado (a). Si se ha añadido más hielo, la temperatura final será 0 °C. 
+| oe Comprobar el resultado Comprobemos cuánto hielo se ha fundido en el apartado 
+18.3 El experimento de Joule y el primer principio de la 
+termodinámica 
+La temperatura de un sistema puede elevarse dándole calor, pero también puede conseguirse 
+realizando trabajo sobre él. 
+La figura 18.2 es un diagrama del aparato utilizado por Joule en su famoso experimento 
+para determinar el trabajo necesario para elevar la temperatura de | g de agua en | °C. En 
+este caso el sistema consiste en un recipiente aislado térmicamente que contiene | g de agua. 
+El aparato de Joule convierte la energía potencial de las pesas que caen en trabajo realizado 
+sobre el agua por medio de unas paletas adosadas, como se muestra en la figura. Joule 
+encontró que la temperatura de su muestra de agua se elevaba en | F° cuando la máquina 
+funcionaba con la caída de 772 libras de peso desde la altura de un pie. En unidades moder- 
+nas esto equivale a decir que es necesario el trabajo de 4,184 J (unidad de energía adoptada 
+por la comunidad científica en 1948) para elevar la temperatura de 1 g de agua en | C°. Este 
+resultado según el cual 4,184 J de energía mecánica es equivalente a | cal de energía térmica 
+se conoce con el nombre de equivalente mecánico del calor. 
+Existen otras formas de realizar trabajo sobre este sistema. Por ejemplo. podríamos sim- ; 3 3 $ ie = P $ i recinto con paredes aislantes para evitar la plemente dejar caer el recipiente de agua aislado desde cierta altura h, de forma que cep emisión de calor Cuando lis ‘hide caste 
+duzca un choque inelástico contra el suelo, o bien podríamos aprovechar el trabajo mecánico velocidad constante. hacen girar una rueda de 
+para generar electricidad y utilizar luego la electricidad para calentar el agua (figura 18.3). paletas, que produce trabajo sobre el agua. Si el 
+En todos estos experimentos se necesita la misma cantidad de trabajo para producir un deter- rozamiento es despreciable, este trabajo es igual a la 
+minado cambio de temperatura en un sistema dado. Según la conservación de la energía, el pérdida de energía mecánica de las pesas, es decir, 
+trabajo realizado debe convertirse en un incremento de la energía interna del sistema. a la pérdida de su energía potencial. 
+Figura 18.2 Diagrama esquemático del aparato 
+utilizado por Joule. El agua se encuentra en un
+
+526 | Capitulo 18 Calor y primer principio de la termodinamica 
+Figura 18.3 Otro método para realizar trabajo 
+sobre un recipiente con agua térmicamente aislado. 
+El generador, que está accionado por un peso que 
+cae, realiza trabajo eléctrico sobre el sistema. 
+EJEMPLO 18.5 | Calentar agua dejándola caer 
+Se deja caer desde una altura / sobre el suelo un recipiente térmicamente aislado y lleno de 
+agua. Si el choque es perfectamente inelástico y toda la energía mecánica perdida en la caída se 
+convierte en energía interna del agua, ¿cuál debe ser h para que la temperatura del agua 
+aumente en 1 C°? 
+Planteamiento del problema La energía cinética del agua justo antes de que choque contra el 
+suelo es igual a su energía potencial original mgh. Durante el choque, esta energía se convierte en 
+calor Q y éste ocasiona una elevación de temperatura dada por Q = mc AT. 
+1. Igualar la energía potencial con el calor: 
+2. Despejar la altura h: 
+3. Sustituir c=4,18 kJ/kg - K y AT = 1C° = IK: 
+mgh = mc AT 
+c AT 
+g 
+h = == 
+_ (4,18 kI/kg -K)(1K) _ E h = O Nike = 0,426 km =[426 m] 
+Observaciones La altura h es independiente de la masa del agua. Obsérvese también que la 
+altura es bastante grande, lo cual ilustra una de las dificultades del experimento de Joule. Es necesa- 
+ria una gran cantidad de trabajo para producir un cambio mensurable en la temperatura del agua. 
+Calor cedido Trabajo realizado 
+al sistema $ sobre el sistema 
+E d a 
+Q positivo W positivo 
+AU=Q+W 
+Figura 18.4 Convenio de signos para las 
+magnitudes que intervienen en el primer principio 
+de la termodinámica. 
+Supongamos, a continuación, que realizamos el experimento de Joule pero sustituyendo las 
+paredes aislantes del recipiente por paredes conductoras. En este caso se encuentra que el tra- 
+bajo necesario para producir una variación dada de la temperatura del sistema depende de la 
+cantidad de calor que se añade o se quita del sistema por conducción a través de las paredes. 
+Sin embargo, si se suma el trabajo realizado sobre el sistema y el calor neto suministrado al 
+mismo, el resultado es siempre el mismo para una variación dada de la temperatura. Es decir, la 
+suma del calor añadido al sistema más el trabajo realizado sobre él es igual a la variación de la 
+energía interna del sistema. Este es el primer principio de la termodinámica, que es simple- 
+mente un enunciado de la conservación de la energía. 
+Es costumbre escribir W para el trabajo realizado sobre el sistema por el medio que le 
+rodea y -W para designar el trabajo realizado por el sistema sobre el medio. Por ejemplo, 
+supongamos que el sistema es un gas encerrado en un cilindro por medio de un émbolo. Si el 
+émbolo comprime el gas, el medio realiza un trabajo positivo sobre el gas, es decir, W es 
+positivo. (Sin embargo, si el gas se expande contra el émbolo, es el gas el que realiza trabajo 
+sobre el medio y el trabajo se considera negativo). Asimismo, si se transfiere calor al sis- 
+tema, Q es positivo y si se extrae del sistema, Q es negativo (figura 18.4), Utilizando este cri- 
+terio de signos y tomando el símbolo U para la energía interna del sistema, el primer 
+principio de la termodinámica se expresa: 
+AU = Q+W (18.10)
+
+18.3 El experimento de Joule y el primer principio de la termodinámica 
+La variación de energía interna de un sistema es igual al calor transferido al sistema más 
+el trabajo realizado sobre el sistema. 
+PRIMER PRINCIPIO DE LA TERMODINÁMICA 
+La ecuación 18.10 es equivalente al teorema trabajo-energía, W.,, = AE,,, del capítulo 7 
+(ecuación 7.9), excepto en que hemos añadido el término del calor Q, hemos cambiado la 
+convención de signos para W y hemos llamado U a la energía del sistema. 
+EJEMPLO 18.6 | Agitación del agua 
+Un sistema consiste en 3 kg de agua. Sobre él se realiza un trabajo de 25 kJ agitándolo con una 
+rueda de paletas. Durante este tiempo, 15 kcal de calor se escapan del sistema debido a un defi- 
+ciente aislamiento. ¿Cuál es la variación de la energía interna del sistema? 
+Planteamiento del problema Expresaremos todas las energías en julios y aplicaremos el pri- 
+mer principio de la termodinámica. 
+1. AU se deduce del primer principio de la termodinámica: AU =Q+W 
+2. El calor se extrae del sistema, luego el calor añadido es negativo: Q = -15 kcal = -(15 keal)( 
+3. El trabajo realizado sobre el sistema es positivo: W = 25kJ 
+4. Sustituir estas magnitudes y despejar AU: 
+-ru Observación La energía interna disminuye porque el sistema ha perdido una energía en forma de 
+calor superior a la que ha ganado en forma de trabajo realizado sobre él. 
+Es importante comprender que la energía interna U es una función del estado del sistema, 
+de la misma forma que lo son P, V y T. Consideremos un gas en cierto estado inicial (P,. V;). 
+La temperatura 7, está determinada por la ecuación de estado. Por ejemplo, si el gas es ideal. 
+T,= P¡V¡/nR. La energía interna U; también depende solamente del estado del gas, el cual está 
+determinado por dos cualesquiera de las variables de estado, por ejemplo, P y Y, P y To Vy 
+T. Si comprimimos el gas o le dejamos expandir, si le añadimos o le extraemos calor, o si 
+realizamos trabajo sobre él o es el gas el que realiza el trabajo, el gas se irá encontrando en 
+una secuencia de estados; esto es, irá teniendo valores diferentes de las funciones de estado 
+P, V. T y U. Si luego se hace volver al gas a su estado inicial (P;, V;), la temperatura T y la 
+energía interna U deben ser iguales a sus valores originales. 
+Por otra parte, el calor neto O que entra en el gas y el trabajo W realizado por el mismo, no 
+son funciones de estado del sistema. No hay funciones Q o W asociadas con un estado particu- 
+lar del gas. Podemos hacer que el gas pase por una secuencia de estados comenzando y termi- 
+nando en el estado (P;, V,) y durante ese proceso es posible que el gas realice un trabajo 
+positivo y absorba una cantidad igual de calor. O podemos conseguir a través de una secuencia 
+diferente de estados que sobre el gas se realice un trabajo y al mismo tiempo el gas desprenda 
+calor. Por lo tanto, es correcto decir que un sistema tiene una gran cantidad de energía 
+interna pero no es correcto afirmar que un sistema tiene una gran cantidad de calor o de 
+trabajo. El calor no es algo contenido en un sistema. Más bien es una medida de la energía que 
+fluye de un sistema a otro a causa de una diferencia de temperatura. El trabajo es una medida 
+de la energía que fluye de un sistema a otro porque el punto de contacto de una fuerza ejercida 
+por un sistema sobre el otro sufre un desplazamiento que no es perpendicular a la fuerza. 
+En el caso en que las cantidades de calor añadidas, el trabajo realizado y las variaciones 
+de energía interna sean muy pequeñas, es costumbre escribir la ecuación 18.10 en la forma 
+dU = dO+dW (18.11) 
+En esta ecuación, dU es la diferencial de la función energía interna. Sin embargo, ni dQ ni 
+dW son diferenciales de ninguna función. Simplemente, representan pequeñas cantidades de 
+calor adicionado al sistema, o de trabajo realizado sobre él. 
+4.18 kJ 
+1 kcal ) = -62,7 kJ 
+AU = Q +W = (-62,7 kJ) + (25 kJ) 
+527
+
+528 | Capítulo 18 Calor y primer principio de la termodinámica 
+Figura 18.5 Expansión libre de un gas. Al abrir 
+la Ilave, el gas se expansiona rápidamente en la 
+cámara de vacío. Como no se realiza trabajo y todo 
+el sistema está térmicamente aislado, las energías 
+internas inicial y final del gas son iguales. 
+18.4 La energía interna de un gas ideal 
+La energía cinética de traslación £, de las moléculas de un gas ideal está relacionada con la 
+temperatura absoluta T por la ecuación 17.22 del capítulo 17: 
+3 E, = ART 
+en donde n es el número de moles del gas y R, la constante universal de los gases. Si se 
+considera que esta energía de traslación constituye toda la energía interna del gas, enton- 
+ces U=E, y 
+U = 3nRT (18.12) 
+En este caso la energía interna dependerá sólo de la temperatura y no de su volumen o de su 
+presión. Si las moléculas, además de la energía cinética de traslación, tienen otros tipos de 
+energía tales como la energía de rotación, la energía interna será mayor que la expresada por 
+la ecuación 18.12, Sin embargo, de acuerdo con el teorema de equipartición (capítulo 17, 
+sección 5), la energía media asociada con cualquier grado de libertad será | kT por molécula 
+o ¿RT por mol, de modo que de nuevo, la energía interna dependerá sólo de la temperatura y 
+no del volumen ni la presión. 
+Podemos imaginar que la energía interna de un gas real incluye otras formas de la ener- 
+gía que dependan de la presión y volumen del gas. Supóngase, por ejemplo, que entre las 
+moléculas del gas que se encuentran próximas se ejercen fuerzas atractivas. Entonces se 
+requiere trabajo para aumentar la separación entre las moléculas. Así pues, si se incrementa 
+la distancia media entre las moléculas, también se verá incrementada la energía potencial 
+asociada con la atracción molecular. Por lo tanto, la energía interna del gas dependerá ahora 
+del volumen del gas además de depender de la temperatura. 
+Joule, utilizando un aparato semejante al que se muestra en la figura 18.5, realizó un inte- 
+resante experimento para determinar si la energía interna de un gas depende de su volumen. 
+Inicialmente el compartimiento de la izquierda de la figura 18.5 contiene un gas, mientras que 
+se ha hecho el vacío en el compartimiento de la derecha. Ambos están conectados por una 
+llave de paso inicialmente cerrada. El sistema completo está térmicamente aislado del medio 
+usando paredes rígidas que no permiten el intercambio de calor ni la realización de ningún 
+trabajo entre el sistema y el exterior. Cuando se abre la llave, el gas se expansiona brusca- 
+mente en su tendencia a ocupar la cámara vacía. Este proceso se denomina expansión libre. 
+Finalmente, el gas alcanza el equilibrio térmico consigo mismo. Puesto que no se ha realizado 
+ningún trabajo sobre el gas ni se le ha transferido ningún calor, la energía interna final del gas 
+debe ser igual a su energía interna inicial. Si las moléculas del gas ejercen fuerzas atractivas 
+entre sí, la energía potencial asociada con estas fuerzas aumentará al aumentar el volumen. 
+Pero, como la energía se conserva, la energía cinética de traslación deberá disminuir, dando 
+como resultado un descenso de la temperatura del gas. 
+Cuando Joule realizó este experimento, se encontró con que la temperatura final era igual 
+a la inicial, Otros experimentos confirmaron este resultado para gases a densidades bajas. 
+Esto implica que en el caso de un gas a baja densidad (es decir, para un gas ideal) la tempe- 
+ratura depende únicamente de la energía interna o. como es más corriente decir, la energía 
+interna depende únicamente de la temperatura. Sin embargo, cuando se realiza el experi- 
+mento con una gran cantidad de gas inicialmente en el compartimiento de la izquierda de 
+modo que la densidad sea alta, la temperatura después de la expansión es ligeramente menor 
+que antes de la expansión. Esto indica que existe una pequeña atracción entre las moléculas 
+de un gas real. 
+18.5 Trabajo y diagrama PV para un gas 
+En muchos tipos de máquinas, el trabajo se obtiene permitiendo que un gas se expansione con- 
+“ tra un pistón o émbolo móvil. Por ejemplo, en la máquina de vapor, el agua se calienta en una 
+caldera para producir vapor, que a continuación produce trabajo cuando se expansiona y 
+mueve a un émbolo. En un motor de automóvil se provoca la ignición de una mezcla de vapor
+
+de gasolina y aire, originando su explosión. Las elevadas presiones y temperaturas resultantes 
+hacen que el gas se expansione rápidamente empujando a un pistón y realizando trabajo. En 
+esta sección, veremos cómo se puede describir matemáticamente el trabajo realizado por un 
+gas que se expande. 
+Procesos cuasiestáticos 
+En la figura 18.6 se ve un gas ideal encerrado en un recipiente provisto de un pistón que 
+ajusta muy bien y que supondremos carece de rozamientos. Cuando el pistón se mueve, el 
+volumen del gas varía. La temperatura o la presión, o ambas a la vez, deberán variar también 
+puesto que estas tres variables están relacionadas mediante la ecuación de estado PV = nRT. 
+Si empujamos rápidamente hacia dentro el pistón para comprimir el gas, inicialmente la pre- 
+sión cerca del pistón será mayor que en un lugar más alejado. Finalmente, el gas se estabili- 
+zará en una nueva presión y temperatura. No podemos determinar variables macroscópicas, 
+tales como 7, P o U para el sistema gaseoso completo hasta que el equilibrio se restaure en el 
+gas. Sin embargo, si movemos lentamente el pistón en pequeños desplazamientos y permiti- 
+mos que se reestablezca el equilibrio después de cada desplazamiento, podemos comprimir 
+y dilatar el gas de forma que se aleje poco de su estado de equilibrio. En este tipo de proceso, 
+denominado proceso cuasiestático, el gas pasa por una serie de estados de equilibrio. En la 
+práctica, es posible aproximarse bastante bien a los procesos cuasiestáticos. 
+Comencemos con un gas a presión alta y dejémosle expansionar cuasiestáticamente. El 
+módulo de la fuerza ejercida por el gas sobre el pistón es PA, donde A es el área del pistón y 
+P es la presión del gas. Si el pistón se desplaza una distancia dx, el trabajo realizado por el 
+gas sobre el pistón vale 
+dW = F dx = PA dx = P dV (18.13) por el gas 
+donde dV = A dx es el incremento de volumen del gas. Durante la expansión el pistón ejerce 
+sobre el gas una fuerza de módulo PA pero en sentido opuesto a la fuerza del gas sobre el pis- 
+ton. Así, el trabajo realizado por el pistón sobre el gas es exactamente el realizado por el gas 
+cambiado de signo: 
+= -P dV dW, (18.14) sobre el gas = AW oceigs 
+Obsérvese que en una expansión, dV es positivo y el gas realiza trabajo sobre el pistón, de 
+modo que dWsobre el gas €S negativo, y para una compresión, dV es negativo y se realiza tra- 
+bajo sobre el gas, siendo dWsobre el gas positivo. 
+El trabajo efectuado sobre el gas durante una expansión o compresión desde un volumen 
+V; hasta un volumen V; es 
+Vy 
+Wsotre el gas = -J , P dV (18.15) 
+TRABAJO REALIZADO SOBRE UN GAS 
+Para calcular este trabajo se necesita saber cómo varía la presión durante la expansión o com- 
+presión. Las distintas posibilidades pueden ilustrarse fácilmente utilizando un diagrama PV. 
+Diagramas PV 
+Los estados de un gas pueden representarse en un diagrama de P en función de V. Como espe- 
+cificando ambos P y V especificamos el estado del gas, cada punto sobre el diagrama PV indica 
+un estado particular del gas. La figura 18.7 muestra un diagrama PV con una línea horizontal 
+que representa una serie de estados en que todos tienen el mismo valor de P. Esta recta repre- 
+senta una compresión a presión constante, proceso que recibe el nombre de compresión isó- 
+bara. Para una variación de volumen AV, (AV es negativo en una compresión), tenemos 
+W = -fP dV = -pj av = -P AV 
+que es igual al área sombreada bajo la línea recta de la figura. En general, para una compre- 
+sión el trabajo realizado por el gas es igual al área bajo la correspondiente curva de P en fun- 
+18.5 Trabajo y diagrama PV para un gas | 529 
+Figura 18.6 Gas confinado en un cilindro 
+térmicamente aislado dotado de pistón móvil. 
+Cuando el pistón se desplaza una distancia dx, el 
+volumen del gas varía en dV =A dx, El trabajo 
+realizado por el gas es PA dx = P dV, siendo P la 
+presión. 
+lar! o Y 
+Figura 18.7 Cada punto de un diagrama PV, 
+como el (Pp, Vo). representa un estado particular del 
+gas. La recta horizontal representa estados con una 
+presión constante Po. El trabajo realizado sobre el 
+gas cuando se comprime una cantidad IAV] está 
+representado por la zona sombreada Po IAV .
+
+530 | Capítulo 18 Calor y primer principio de la termodinámica 
+Camino A 
+(a) 
+(PV) 
+Camino B 
+t e (PV) 
+(b) 
+(c) 
+Figura 18.8 Tres caminos sobre un diagrama PV 
+para conectar un estado inicial (P;,V;) y un estado 
+final (Pa Vp. El trabajo realizado a lo largo de cada 
+trayecto está indicado por las zonas sombreadas, 
+ción de V. (Para una expansión el trabajo realizado sobre el gas es igual al área bajo la curva 
+de P en función de V, cambiada de signo.) Como las presiones suelen darse en atmósferas y 
+los volúmenes se dan a veces en litros, es conveniente tener un factor de conversión entre 
+atmósferas-litro y julios: 
+l atm + L = (10 m3)(101,3 x 103 N/m?) = 101,33 (18.16) 
+Ejercicio Si 5 L de un gas ideal a una presión de 2 atm se enfría de forma que se contrae hasta 
+que su volumen es 3 L, ¿cuál es el trabajo realizado sobre el gas? (Respuesta 405,2 J.) 
+En la figura 18.8 se ven tres posibles caminos o procesos sobre un diagrama PV para un 
+gas que inicialmente está en el estado (P;, V;) y al final se encuentra en el estado (P;, V¿). 
+Suponemos que el gas es ideal y hemos escogido los estados inicial y final de modo que ten- 
+gan la misma temperatura, de forma que P¡V, = PV; = nRT. Como la energía interna depende 
+sólo de la temperatura, las energías internas inicial y final también son iguales. 
+En la figura 18.8a, el gas se calienta a volumen constante hasta que su presión es Pp y 
+luego se enfría a presión constante hasta que su volumen es V;. El trabajo realizado sobre el 
+gas a lo largo del camino A es PAV; -— Vil = —P; (V¡— V,) para la parte horizontal del mismo y 
+es nulo en el trayecto a volumen constante. 
+En la figura 18.85, primero se enfría el gas a presión constante hasta que su volumen es 
+V; y después se calienta a volumen constante hasta que su presión vale P;. El trabajo reali- 
+zado a lo largo del camino B es P;|V; — Vil = —P; (V; — Vi), que es mucho menor que el obte- 
+nido a lo largo del camino A, como puede verse comparando las regiones sombreadas en las 
+figuras 18.8a y b. 
+En la figura 18.8c, la trayectoria C representa una compresión isoterma, es decir, un 
+proceso a temperatura constante. (Mantener constante la temperatura durante la compresión 
+exige que se extraiga calor del gas a lo largo de ese proceso). El trabajo realizado a lo largo 
+de C puede calcularse teniendo en cuenta que P = nRT/V. De aquí que el trabajo realizado 
+sobre el gas cuando se comprime isotérmicamente desde V, hasta V, sea 
+w -= fi? dV = -f ue dV isotermo 
+Como en un proceso isotermo T es constante, podemos extraerla de la integral. Entonces se tiene 
+V V V, 
+Wisotermo = ART pa e = -nRT In = nRT In v, (18.17) i 1 
+TRABAJO REALIZADO SOBRE UN GAS EN UNA COMPRESION ISOTERMA 
+Como hemos visto, el trabajo realizado sobre el gas es distinto en cada proceso ilustrado. 
+Como Uç = U; en estos estados, el calor neto añadido al sistema debe ser diferente en cada 
+uno de los procesos. Este análisis ilustra el hecho de que tanto el trabajo realizado como el 
+calor añadido dependen del tipo de proceso que realiza el sistema al pasar de un estado al 
+otro, pero la variación de la energía interna no depende de ello. 
+EJEMPLO 18.7 | Trabajo realizado sobre un gas ideal 
+Un gas ideal experimenta un proceso cíclico A-B-C-D-A, como indica la figura 18.9. El gas ini- 
+cialmente tiene un volumen de 1 L y una presión de 2 atm y se expansiona a presión constante 
+hasta que su volumen es 2,5 L, después de lo cual se enfría a volumen constante hasta que su 
+presión es 1 atm. Entonces se comprime a presión constante hasta que su volumen es de nuevo 
+1 L. Finalmente se calienta a volumen constante hasta volver a su estado original. Determinar 
+el trabajo total realizado sobre el gas y el calor total añadido durante el ciclo. 
+Planteamiento del problema Calcularemos el trabajo realizado en cada paso. Como AU = 0 
+para cualquier ciclo completo, el primer principio.de la termodinámica establece que la suma de la 
+cantidad total de calor suministrado al gas y del trabajo total realizado sobre el gas sea igual a cero. Figura 18.9
+
+18.6 Capacidades calorificas de los gases 531 
+1. De AaB el proceso es una expansión isóbara (la presión es constante) Way = -PAV = -P(Vęg- Va) P, atm 
+de modo que el trabajo realizado sobre el gas es negativo. El trabajo = -(2 am)(25L- 1 L) W =-ÁREA = -3 atm- L 
+aa S = a de ca Es an sombreada bajo la recta AB de la = JAM 2 A wt A 
+E a ve —T 15 L2 atm) $ A PTY ra F + 1 =3atm-L 2. Convertir las unidades a julios: Wip = 3atm-Lx LT ? ? c 
+= -304 J k ‘tr 
+3. De B aC (figura 18.9) el gas se enfría a volumen constante y el trabajo We = 0 l 2 3 VL 
+es cero: 
+4. Como el gas experimenta una compresión isóbara de C a D, el trabajo Wep = -PAV = -P(Vp- Vc) 
+realizado sobre él es positivo y viene dado por el área rayada bajo la = (1 atm(1L-25 D) P, atm 
+línea CD, mostrada en la figura 18,10b: SS rr 
+N 
+5. Como de vuelta a su estado original A el gas se calienta a volumen Wy, = 0 
+constante (figura 18.9), no se realiza trabajo en este proceso: 1 
+6. El trabajo total realizado por el gas es la suma de los trabajos realiza- Wai = Wag + Wac + Wen + Woa 
+dos en cada uno de los pasos: (304 1)+0+1523+0 
+(b) 
+D e—«—-e_ ÁREA = 
+l ATUS LU atm) 1 jel = 1,5 atm L 
+1 2 3 ViL 
+7. Como el gas vuelve a su estado inicial, el cambio total de energía AU = 0 Figura 18.10 (a) El trabajo 
+interna es cero: realizado sobre el gas durante la 
+8. El calor añadido se deduce del primer principio: AU =0Q0+W expansión de A a B es igual al área 
+dedos bajo la recta cambiada de signo. (b) 
+El trabajo realizado sobre el gas 
+A A eel durante la compresión de C a D es 
+=[152] igual al área bajo la recta. 
+Observaciones El trabajo realizado por el gas es igual al realizado sobre el gas cambiado de 
+signo, de modo que el trabajo total realizado por el gas durante el ciclo es +152 J. A lo largo del ciclo 
+el gas extrae 152 J en forma de calor del medio y suministra a éste 152 J en forma de trabajo. Este 
+proceso deja al gas en su estado inicial. El trabajo total realizado por el gas viene representado por el 
+área encerrada por el ciclo en la figura 18.9. Estos procesos cíclicos tienen importantes aplicaciones 
+en las máquinas térmicas, como veremos en el capítulo 20. 
+18.6 Capacidades caloríficas de los gases 
+La determinación de la capacidad calorífica de una sustancia proporciona información sobre su 
+energía interna, que está relacionada con su estructura molecular. En el caso de todas las sus- 
+tancias que se dilatan al calentarse, la capacidad calorífica a presión constante C, es mayor que 
+la capacidad calorífica a volumen constante C,. Si se suministra calor a presión constante, la 
+sustancia se expande y efectúa trabajo positivo sobre el medio (figura 18.11). Por lo tanto, se 
+necesita más calor para obtener un cambio de temperatura dado a presión constante que para 
+obtener el mismo cambio de temperatura calentando a volumen constante. La expansión es 
+normalmente despreciable en el caso de los sólidos y los líquidos, de modo que para ellos 
+C, = C,. Sin embargo, cuando un gas se calienta a presión constante, se dilata fácilmente y rea- 
+liza un trabajo importante, de modo que C, — C, no es despreciable. 
+Cuando se añade calor a un gas a volumen constante, éste no realiza trabajo (figura 
+18.12), de modo que el calor añadido es igual al incremento de energía interna del gas. Lla- 
+mando Q, al calor suministrado a volumen constante, se tiene 
+Perno 
+Conductor 
+Ov i= C, AT 
+Como W = 0, tenemos según el primer principio de la termodinámica 
+AU = Q,+W =Q, 
+Figura 18.11 El calor se suministra a presión 
+constante. El gas se expande y realiza trabajo 
+AU = C, AT positivo sobre el pistón. 
+Por lo tanto,
+
+532 Capitulo 18 Calor y primer principio de la termodinamica 
+Aislante 
+Perno 
+Conductor 
+Figura 18.12 El calor se suministra a volumen 
+constante, de modo que no se realiza trabajo y todo 
+el calor se convierte en energía interna del gas. El 
+pistón se mantiene en su posición mediante unos 
+pernos. 
+Tomando el límite cuando AT tiende a cero, obtenemos 
+dU = C,dT (18.18a) 
+_ dU Cee Se (18.18b) 
+Así pues, la capacidad calorífica a volumen constante es la tasa de variación de la energía 
+interna con la temperatura. Como U y T son funciones de estado, las ecuaciones 18.18a 
+18.18b son válidas para cualquier proceso. 
+Calcularemos ahora la diferencia C, — C, para un gas ideal. Si designamos con Q, al 
+calor añadido a presión constante, tendremos a partir de la definición de C, 
+Q, = Cp AT 
+Según el primer principio de la termodinámica 
+AU = Q,+ Wiobre = Qp- P AV 
+Por consiguiente, 
+AU =C,AT-PAV o C,AT = AU+P AV 
+En el caso de cambios infinitesimales, esta expresión se reduce a 
+C, aT = dU+P dv 
+Utilizando la ecuación 18.18a para dU, se obtiene 
+C,dT = C,dT+P dv (18.19) 
+La presión, el volumen y la temperatura de un gas ideal están relacionados por 
+PV = nRT 
+Diferenciando ambos miembros de la ley de los gases ideales, se tiene 
+PdV+VdP =P dV = nR aT 
+Para un proceso a presión constante dP = 0, de donde 
+P dV =nR dT 
+Sustituyendo esta expresión en la ecuación 18.19 se obtiene 
+C, aT = C, dT +nR dT = (C,+nR)dT 
+Por lo tanto 
+Cp = Cy +nR (18.20) 
+En el caso de un gas ideal, la capacidad calorífica a presión constante es mayor que a volu- 
+men constante en una cantidad nR. 
+En la tabla 18.3 se proporcionan las capacidades molares medidas c’, y c”, para varios 
+gases. Se observa en la misma que la predicción para el gas ideal de que c} —c, = R se 
+cumple bastante bien para todos los gases. Obsérvese también que c,’ es aproximadamente 
+- 1,5R para todos los gases monoatómicos, 2,5R para todos los diatómicos y mayor que 2,5R 
+para los gases cuyas moléculas son más complejas. Podemos comprender estos resultados
+
+TABLA 18.3 Capacidades caloríficas molares (J/mol-K) de varios gases a 25°C 
+Monoatómico 
+He 20,79 12,52 1,51 8,27 0,99 
+Ne 20,79 12,68 1,52 8.11 0,98 
+Ar 20,79 12,45 1,50 8,34 1,00 
+Kr 20,79 12,45 1,50 8,34 1,00 
+Xe 20,79 12,52 1,51 8,27 0,99 
+Diatómico 
+N, 29,12 20,80 2,50 8,32 1,00 
+H, 28,82 20,44 2,46 8,38 1,01 
+O, 29,37 20,98 2,52 8,39 1,01 
+co 29,04 20,74 2,49 8,30 1,00 
+Poliatómico 
+CO, 36,62 28,17 3,39 8,45 1,02 
+NO 36,90 28,39 3,41 8,51 1,02 
+HS 36,12 27,36 3,29 8,76 1,05 
+considerando el modelo molecular de un gas estudiado en el capítulo 17. En ella vimos que 
+la energía cinética de traslación total de n moles de un gas es E, = înRT (ecuación 17.22). 
+Así pues, si la energía interna de un gas está constituida únicamente por energía cinética de 
+traslación, se tiene 
+U = 3nRT (18.21) 
+Las capacidades caloríficas son entonces 
+au 3 C, = r = AR (18.22) 
+Cy PARA UN GAS IDEAL MONOATOMICO 
+y 
+Cy = Cy+nR = 3nR (18.23) 
+C, PARA UN GAS IDEAL MONOATOMICO 
+Podemos ver que los resultados experimentales de la tabla 18.3 concuerdan bien con estas 
+predicciones en el caso de los gases monoatómicos, pero para los demás gases, las capacida- 
+des caloríficas son mayores que las predichas por las ecuaciones 18.22 y 18.23. La energía 
+interna de un gas compuesto por moléculas diatómicas o aún más complicadas es evidente- 
+mente mayor que 3 nRT. La razón está en que estas moléculas pueden tener otros tipos de 
+energía, como la de rotación o vibración, además de la energía cinética de traslación. 
+EJEMPLO 18.8 | Calentamiento, enfriamiento y compresión de un gas ideal 
+Un sistema formado por 0,32 moles de un gas ideal monoatómico con e”, = 3RT ocupa un 
+volumen de 2,2 L a una presión de 2,4 atm (punto A de la figura 18.13). El sistema describe un 
+ciclo formado por tres procesos: 
+1. El gas se calienta a presión constante hasta que su volumen es 4,4 L en el punto B. 
+2. El gas se enfría a volumen constante hasta que la presión disminuye a 1,2 atm (punto C). 
+3. El gas experimenta una compresión isoterma y vuelve al punto A. 
+(a) ¿Cuál es la temperatura en los puntos A, B y C? (b) Determinar W, Q y AU para cada pro- 
+ceso y para el ciclo completo. - 
+18.6 Capacidades caloríficas de los gases | 533 
+jINTENTELO USTED MISMO! 
+P, atm 
+22 44 V.L 
+Figura 18.13
+
+534 | Capítulo 18 Calor y primer principio de la termodinámica 
+Planteamiento del problema A partir de la ley de los gases ideales se pueden determinar las 
+temperaturas de todos los puntos A, B y C. El trabajo correspondiente a cada proceso puede determi- 
+narse a partir del área bajo la curva representativa. El calor intercambiado en cada proceso se obtiene 
+de la capacidad calorífica dada y de las temperaturas inicial y final correspondientes. En el proceso 
+3, T es constante, de modo que AU = 0 y el calor absorbido más el trabajo realizado sobre el gas es 
+igual a cero. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+(a) Determinar las temperaturas de los puntos A, B y C a partir de la ley 7, = To = Pork]. Ta 
+de los gases ideales. 
+(b) 1. Enel proceso I utilizar W, =—P, AV para calcular el trabajo y Wy = 5,28 atm 1 =|-5351], O, =[1337) 
+p= ¿NR para calcular el calor Q. Después usar W, y Q, para AU, = 0,+W, =[8021] 
+calcular AU). 
+2. Enel proceso 2 usar C, = 3 nR y T¿— Ty a partir del paso (a) para Wa =[0), Q; =|-802 1]. AU, =| -802 J| 
+determinar O. Después, como W3 = 0, AU = Q. 
+3. Calcular W3 a partir de W =-nRT In (Vy/Vc) en la compresión iso- W =|371 J o, [7m], sv, =[0] 
+terma. Entonces, como AU; = 0, Q; =—W3, 
+4. Determinar el trabajo total W, el calor total Q y la variación total Wua = Wy + Wit Wy = (-535J) +0 +3713 = [1643] 
+de E ala AU sumando las magnitudes deducidas en los Ou = Q +O. + Qs = 13373 +(-8023)+(-371 1) =[1643 
+pasos 1, 2 y 3, AUmu = AU, +AU, +AU; = 8023+(-8023)+0 =[0] 
+Observaciones La variación total de energía interna es cero por tratarse de un proceso cíclico. El 
+trabajo total realizado sobre el gas más el calor total absorbido por el gas es igual a cero, Este trabajo 
+es igual al área bajo la curva CA menos el área bajo la recta AB, es decir, el área encerrada por las 
+tres líneas de la figura 18.13 cambiada de signo. 
+Capacidades caloríficas y teorema de equipartición 
+De acuerdo con el teorema de equipartición establecido en la sección 5 del capítulo 17, la 
+energía interna de n moles de un gas debería ser igual a t nRT por cada grado de libertad de 
+la molécula del gas. La capacidad calorífica a volumen constante de un gas sería t nR multi- 
+plicado por el número de grados de libertad de la molécula. De acuerdo con la tabla 18.2, el 
+nitrógeno, el oxígeno, el hidrógeno y el monóxido de carbono tienen todos capacidades 
+caloríficas molares a volumen constante de 2R aproximadamente. Por lo tanto, las molé- 
+culas de cada uno de estos gases tienen cinco grados de libertad. Por el año 1880, Clausius 
+especulaba que estos gases debían estar formados de moléculas diatómicas que pueden rotar 
+alrededor de dos ejes, lo que les da dos grados de libertad adicionales (figura 18.14). Se sabe 
+ahora que los dos grados de libertad que se añaden a los tres de traslación, están asociados 
+con su rotación alrededor de los dos ejes x’ e y” perpendiculares a la línea que une los dos 
+\ x 
++ a, 
+Centro 
+de masas átomos. Por consiguiente, la energía cinética de una molécula diatómica es e 
+Figura 18.14 Modelo “pesa de gimnasia” rígida Fe ct aye A ROA HE VOR, MN E O. SUS EJ 
+de una molécula diatómica. ES E ae og e E Lo ye 
+La energía interna total de n moles de estos gases es, por lo tanto, 
+U = 5x}nRT = 3nRT (18.24) 
+y la capacidad calorífica a volumen constante es 
+C, = JAR (18.25) 
+Aparentemente, los gases diatómicos no rotan alrededor de la línea que une los dos átomos. 
+Si lo hicieran, tendrían seis grados de libertad y C, sería É nR = 3nR, en contra de los resulta- 
+dos experimentales. Por otra parte, los gases monoatómicos carecen de movimientos de rota- 
+ción. En la sección 18,8 veremos cómo estos hechos enigmáticos pueden explicarse 
+fácilmente cuando se tiene en cuenta la cuantización de la energía.
+
+18.7 Capacidades caloríficas de los sólidos | 535 
+EJEMPLO 18.9 | Calentamiento de un gas ideal diatómico 
+Dos moles de gas oxígeno se calientan desde una temperatura de 20 °C y una presión de 1 atm 
+a una temperatura de 100 °C. Suponer que el oxígeno es un gas ideal. (a) ¿Cuánto calor debe 
+suministrarse si el volumen se mantiene constante durante el calentamiento? (b) ¿Cuánto 
+calor debe suministrarse si la presión permanece constante? ¿Cuánto trabajo realiza el gas en 
+el apartado (b)? 
+Planteamiento del problema El calor necesario para el calentamiento a volumen constante es 
+Q, =C, AT, en donde C, = Sar. ya que el oxígeno es un gas diatómico. Para el calentamiento a presión 
+constante, Q, = Cp AT, en donde C, = C, + nR. Finalmente, el trabajo realizado por el gas es igual (cam- 
+biado de signo) al realizado sobre el gas, el cual puede obtenerse a partir de AU = Q + Why. Asi- 
+mismo, Wpor = P AV. 
+(a) 1. Expresar el calor necesario para el proceso a volumen constante Q, = C, AT 
+en función de C, y AT: 
+2. Calcular el calor para AT = 80 C° = 80 K: Q, = C, AT = ŠnRAT 
+= 32 mo1)(8,314)(80K) : mol - K 
+= 
+(b) 1. Expresar el calor necesario para el proceso a presión constanteen Q, = C, AT 
+función de C, y AT: 
+2. Calcular la capacidad calorífica a presión constante: Cp = Cy+nR = ŠnR +nR = InR 
+3. Calcular el calor suministrado a presión constante para AT=80K: Q, = C, AT 
+-4 fe its = 10 mol)( §,314— (so K) ol- K 
+(c) 1. El trabajo W realizado sobre el gas puede determinarse a partirdel AU = Q+ W, de modo que W = AU -Q 
+primer principio de la termodinámica: 
+0 
+2. La variación de energía interna es igual al calor suministrado a AU = Q, = C, AT = 3nRAT 
+volumen constante en (a): E 
+Q; = C, AT = InRAT 
+por lo tanto 
+W = AU-Q, = 3nRAT-2nRAT = -nRAT 
+= -(2 mol)(8,314— (80 K) = -1,33 kJ mol- K 
+3. El trabajo realizado a presión constante es, por lo tanto: Wooe = Wsobre =[1.33 kJ 
+Observaciones La variación de energía interna es la misma independientemente del proceso. 
+Sólo depende de los estados inicial y final. 
+Ejercicio Determinar los volúmenes inicial y final de este gas a partir de la ley de los gases idea- 
+les y utilizarlos para calcular el trabajo realizado por el gas a partir de Wpor = P AV cuando el calor 
+se añade a presión constante. (Respuestas V; = 48,01, V¿=61,1 L, W= 13,1 atm - L = 1,33 kJ.) 
+18.7 Capacidades caloríficas de los sólidos 
+En la sección 18.1 señalábamos que todos los metales que aparecen en la tabla 18.1 tienen 
+aproximadamente iguales sus calores molares. Experimentalmente se encuentra que la mayo- 
+ria de los sólidos tienen capacidades caloríficas molares aproximadamente iguales a 3R: 
+c’ = 3R = 24,9 J/mol - K (18.26)
+
+536 | Capítulo 18 Calor y primer principio de la termodinámica 
+Figura 18.15 Modelo de un sólido en el que los 
+átomos están conectados entre sí mediante muelles. 
+La energía interna del sólido se compone de las 
+energías de vibración cinética y potencial. 
+EJEMPLO 18.10 | 
+Este resultado se conoce como ley de Dulong-Petit. Puede comprenderse esta ley si apli- 
+camos el teorema de equipartición al modelo sencillo de sólido indicado en la figura 18.15. 
+De acuerdo con este modelo, un sólido consiste en una ordenación regular de átomos, cada 
+uno de los cuales tiene una posición fija de equilibrio y está conectado mediante muelles a 
+sus vecinos. Todos los átomos pueden vibrar en las direcciones x, y y z. La energía total de 
+un átomo en un sólido es, pues, 
+2d e le 24 bp 2 MVE+ MV + ¿MVE + kex? + akey? + ¿KZ Nie 
+en donde k,; es la constante de fuerza efectiva de los hipotéticos muelles. Cada átomo tiene 
+así seis grados de libertad. El teorema de equipartición establece que una sustancia en equili- 
+brio tiene una energía media por mol de RT por cada grado de libertad. Así, la energía 
+interna de 1 mol de un sólido es 
+U = 6x3RT = 3RT (18.27) 
+lo cual significa que la capacidad calorifica molar c’ es 3R. 
+Uso de la ley de Dulong-Petit 
+La masa molar del cobre es 63,5 g/mol. Utilizar la ley de Dulong-Petit para calcular el calor 
+específico del cobre. 
+Planteamiento del problema La ley de Dulong-Petit nos permite determinar el calor molar de 
+un sólido, c’. El calor específico es e = c’/M (ecuación 18.6), en donde M es la masa molar. 
+1. La ley de Dulong-Petit nos da c’: 
+2. Como M = 63,5 g/mol para el cobre, el calor específico es: 
+c’ =3R 
+_ € _ 3R _ 3(8,314 J/mol : K) 
+M M 63,5 g/mol 
+= 0,392 J/(g - K) =| 0,392 kJ/kg - K 
+Observaciones Esta solución difiere del valor medido experimentalmente, 0,386 kJ/kg - K, dado 
+en la tabla 18.1, en menos del 2%. 
+Ejercicio El calor específico de cierto metal, medido experimentalmente, resulta ser 1,02 kJ/kg + 
+K. (a) Calcular la masa molar de este metal, suponiendo que cumple la ley de Dulong-Petit. (b) ¿De 
+qué metal se trata? (Respuestas (a) M = 24,4 g/mol. (b) El metal debe ser magnesio, cuya masa 
+molar es 24,31 g/mol.) 
+CG 
+4-— >= 
+| É 7/2 
+3 Vibración” 
+"POTES Ml Ll -1sa 
+2 sin 
+E es o [oe A PA 877 
+Traslación 
+0 
+20 50 100 200 500 1000 2000 5000 10.000 
+Figura 18.16 Dependencia con la temperatura 
+del calor molar del H,. (La curva es cualitativa en 
+los lugares donde c”, varía). 
+18.8 Fallos del teorema de equipartición 
+Si bien el teorema de equipartición alcanzó éxitos espectaculares en la interpretación de los 
+calores molares de gases y sólidos, tuvo igualmente fallos espectaculares. Por ejemplo, si 
+una molécula de un gas diatómico como la de la figura 18.14 gira alrededor de la línea que 
+une los átomos, deberá haber un grado de libertad adicional. Análogamente, si una molécula 
+diatómica no es rígida, los dos átomos deberán vibrar a lo largo de la línea que los une. 
+Entonces deberíamos tener dos grados de libertad más, correspondientes a las energías ciné- 
+tica y potencial de vibración. De acuerdo con los valores medidos de las capacidades calorí- 
+ficas molares de la tabla 18.3, los gases diatómicos, sin embargo, aparentemente ni giran 
+alrededor de la línea que une los átomos, ni vibran. El teorema de equipartición no da nin- 
+guna explicación para esto, ni para el hecho de que las moléculas monoatómicas aparente- 
+mente no giren alrededor de ninguno de los tres ejes posibles de rotación mutuamente 
+perpendiculares. Además, el teorema de equipartición predice valores constantes para las 
+capacidades caloríficas de los gases, pero cuando se hacen medidas cuidadosas se ve que 
+estas magnitudes dependen ligeramente de la temperatura, lo cual es contrario a las predic- 
+ciones del teorema de equipartición. El caso más espectacular de la dependencia de la capa- 
+cidad calorífica con la temperatura es el del H}, que se muestra en la figura 18.16. A
+
+temperaturas inferiores a 70 K, el valor de c’, para el H, es ; R, el mismo que el correspon- 
+diente a moléculas de gas que tienen movimiento de translación, pero no de rotación o vibra- 
+ción. A temperaturas entre 250 K y 700 K, c/, = ŠR, que corresponde a moléculas con 
+movimiento de rotación, pero no de vibración, y a temperaturas mayores que 700 K, las 
+moléculas de H, empiezan a vibrar. Sin embargo, las moléculas se disocian antes de que c‘, 
+alcance el valor 7 R. Por último, el teorema de equipartición de la energía predice un valor 
+constante de 3 R para la capacidad calorífica de los sólidos. Este resultado es válido para la 
+mayoría de los sólidos a altas temperaturas, aunque no para todos, y deja de ser válido a tem- 
+peraturas muy bajas. 
+El teorema de equipartición falla porque la energía está cuantizada. Una molécula puede 
+tener sólo ciertos valores de energía interna, como ilustra esquemáticamente el diagrama de 
+niveles de energía de la figura 18.17. La molécula puede ganar o perder energía sólo si la 
+ganancia o pérdida le conduce a otro nivel permitido. Por ejemplo, en un gas la energía que 
+puede transferirse por choques moleculares es del orden de k7, la energía térmica típica de 
+una molécula. La validez del teorema de equipartición depende del tamaño relativo de kT y 
+del espaciado de los niveles de energía permitidos. 
+Si el espaciado de los niveles de energía permitidos es grande comparado con kT, la ener- 
+gia no puede transferirse por choques y el teorema de equipartición clásico no es válido. 
+Si el espaciado de los niveles es mucho menor que kT, la cuantización de la energía no se 
+observa y el teorema de equipartición se cumplirá. 
+CONDICIONES PARA LA VALIDEZ DEL PRINCIPIO DE EQUIPARTICIÓN 
+Consideremos la rotación de una molécula. La energía de rotación es 
+2 2 
+Wo” _E£ (18.28) 
+en donde / es el momento de inercia de la molécula, @ su velocidad angular y L = /@ su 
+momento angular. En la sección 10.4 vimos que el momento angular está cuantizado y su 
+valor restringido a 
+L= J€(€+ 1)h, f= 0; E (18.29) 
+en donde # = h/(27) y h es la constante de Planck. La energía de una molécula en rotación 
+está, por lo tanto, cuantizada según los valores 
+_E_ (+1) _ I ME 7 > Y = (((+1)Ep, (18.30) 
+en donde 
+_ e Eo, = 51 (18.31) 
+es una característica del espaciado de energía entre los niveles. Si esta energía es mucho 
+menor que kT, la física clásica y el teorema de equipartición deberán cumplirse. Definimos 
+una temperatura crítica, 7, mediante la expresión 
+h? 
+= (18.32) kT, = Eo, 
+Si T es mucho mayor que esta temperatura critica, kT será mucho mayor que el espaciado de 
+los niveles de energía, el cual es del orden de kT., y se cumplirán la física clásica y el teo- 
+rema de equipartición. Para valores de T inferiores o del orden de T., kT no será mucho 
+mayor que el espaciado de los niveles de energía y la física clásica y el teorema de equiparti- 
+ción dejan de ser válidos. Hagamos una estimación de T, para algunos casos de interés. 
+1. Rotación del H, alrededor de un eje perpendicular a la línea que une los átomos de 
+H y pasa por su centro de masas (figura 18.18): El momento de inercia del H, alrede- 
+dor del eje es 
+r 2 
+18.8 Fallos del teorema de equipartición | 537 
+Figura 18.17 Diagrama de niveles de energía. 
+Un sistema sólo puede tener ciertas energías 
+discretas. 
+Centro 
+de masas 
+Figura 18.18 Modelo “pesa de gimnasia” rígida 
+de una molécula de un gas diatómico.
+
+538 | Capítulo 18 Calor y primer principio de la termodinámica 
+en donde My es la masa de un átomo de H, y r, es la distancia de separación de los 
+dos átomos. Para el hidrógeno, My = 1,67 x 10-7 kg, y r, = 8 x 107"! m. La tempera- 
+tura crítica es, por lo tanto, 
+O, a Ae 
+<= Jkiųn kMyr2 
+y (1,05 x 10-34 J - 5)? 3 
+(1,38 x 10-3 J/K)(1,67 x 10-27 kg)(8 x 10-11 m)? 
+Como puede verse en la figura 18.16, ésta es aproximadamente la temperatura por 
+debajo de la cual la energía de rotación no contribuye a la capacidad calorífica. 
+2. 0»: Como la masa del O, es aproximadamente 16 veces la del H,, y la separación ató- 
+mica es aproximadamente la misma, la temperatura crítica del O, deberá ser aproxi- 
+madamente (75/16) = 4,6 K. Para todas las temperaturas a las que el O, existe en 
+forma gaseosa, T >> T., de modo que kT es mucho mayor que el espaciado de niveles 
+energéticos y es lógico que se cumpla el teorema de equipartición de la física clásica. 
+3. Rotación de un gas monoatómico. Consideremos el átomo de He, que está formado por 
+el núcleo de He y dos electrones. La masa del electrón es aproximadamente 8000 veces 
+menor que la del núcleo de He. Sin embargo, el radio del núcleo es aproximadamente 
+100000 veces menor que la distancia al electrón. Así, el momento de inercia del átomo 
+es casi enteramente debido a sus electrones. La distancia del núcleo a los dos electrones 
+en el He es aproximadamente la mitad que la distancia de separación de los átomos de 
+H en el H,, y la masa del electrón es aproximadamente 2000 veces menor que la del 
+núcleo de H. Así, utilizando m, = M,,/2000 y r= r/2, el momento de inercia de los dos 
+electrones del He es aproximadamente 
+p3 Sis My \(rs è E Ty 
+ae a -A 02) = 3000 
+La temperatura crítica del He será, por lo tanto, 2000 veces la del H,, o sea, del orden 
+de 150000 K. Este valor es muy superior al de la temperatura de disociación (la tem- 
+peratura a la cual los electrones se separan de sus núcleos) del helio. Así, el espaciado 
+entre los niveles energéticos permitidos es siempre mayor que kT y las moléculas de 
+He no pueden ser inducidas a girar por colisiones ocurridas en el gas. Otros gases 
+monoatómicos poseen momentos de inercia ligeramente mayores por su mayor 
+número de electrones, pero sus temperaturas críticas son todavía del orden de dece- 
+nas de miles de kelvins y por lo tanto sus moléculas tampoco pueden adquirir movi- 
+mientos de rotación por colisiones en el gas. 
+4. Rotación de un gas diatómico alrededor del eje que une sus átomos: De acuerdo con nues- 
+tra exposición sobre gases monoatómicos, el momento de inercia para el gas diatómico será 
+también debido principalmente a los electrones y, por lo tanto, del mismo orden de magni- 
+tud que el de un gas monoatémico. De nuevo, la temperatura crítica T, calculada para deci- 
+dir si esta rotación ocurre por causa de las colisiones entre moléculas del gas, excede la 
+temperatura de disociación del gas, haciendo imposible la rotación en esas circunstancias. 
+T 
+75K 
+Es interesante señalar que los éxitos del teorema de equipartición al explicar las capacida- 
+des caloríficas experimentales de los sólidos y de los gases condujeron, por primera vez, a 
+entender realmente la estructura molecular en el siglo diecinueve, mientras que sus fallos juga- 
+ron un papel importante en el desarrollo de la mecánica cuántica en el siglo veinte. 
+EJEMPLO 18.11 | Energía de rotación del átomo de hidrógeno 
+(a) Estimar la energía de rotación más baja (distinta de cero) del átomo de hidrógeno y compa- 
+rarla con kT a la temperatura ambiente, 7 = 300 K. (b) Calcular la temperatura crítica T.. 
+Planteamiento del problema Según la ecuación 18.30, la energía de rotación más baja corres- 
+ponde a f = 1. Hacemos uso de esa ecuación para determinar la energía en función del momento de. 
+inercia. Como el momento de inercia del núcleo puede despreciarse (pues su radio es 100000 veces 
+menor que el radio del átomo). el momento de inercia del átomo es esencialmente el momento de 
+inercia del electrón alrededor del núcleo. Por lo tanto, / m1”, en donde r=5 x 107!! m es la distan- 
+cia del núcleo al electrón.
+
+18.9 Compresión adiabática cuasiestática de un gas | 539 
+p 2 
+(a) 1. La energía más baja superior a cero corresponde a f = 1: E; = uo : 
+de aqui que 
+1(1+ 178 th 
+E e s ES 
+2. Los valores numéricos son: 
+r=5x10'"m 
+A = 1,05x10-%].s 
+m, = 9,11 x 107! kg 
+mar? 
+a eee ry dey (1,05 x 10-44 J- s)? 3. Reemplazar por los valores numéricos: E= ar = (Tx 105" kgy(Sx 10-7 m) 
+on] 4. El valor de kT para T = 300 K es: kT = (1,38 x 10-3 J/K)(300 K) = 4,1 x 10-7! J 
+: E, _ 48x10-18J _ 5. Comparar E, con kT: kT 41xlo2 J) 108 
+E, es aproximadamente tres órdenes de magnitud mayor que kT. 
+(b) Hacer kT, = E, y despejar Tx: kT; =E, 
+E, 48x 10-18 J =— = =134 5 
+OIE AE 
+Observaciones La temperatura critica de un átomo de hidrógeno es tan elevada que el átomo se 
+ionizaria antes de alcanzar el valor crítico. 
+18.9 Compresión adiabática cuasiestática de un gas 
+Todo proceso en el que no existe flujo de calor ni entrante ni saliente del sistema se deno- 
+mina proceso adiabático. Un proceso de este tipo puede darse cuando el sistema está muy 
+bien aislado, o cuando el proceso ocurre muy rápidamente. En esta sección consideraremos 
+la expansión adiabática cuasiestática de un gas, durante la cual el gas, contenido en un reci- 
+piente térmicamente aislado, se comprime lentamente mediante un pistón, el cual realiza tra- 
+bajo sobre el gas. Como ni entra ni sale calor del gas, el trabajo realizado sobre el mismo es 
+igual a su aumento de energía interna, y la temperatura del gas aumenta. En la figura 18.19 
+se indica la curva que representa este proceso en un diagrama PV. 
+Podemos hallar la ecuación correspondiente a la curva adiabática de un gas ideal utilizando 
+la ecuación de estado (PV = nRT) y el primer principio de la termodinámica (dU = dQ + dW). 
+Se tiene 
+C, dT = 0+(-P dV) (18.33) 
+en donde se ha hecho uso de dU = C, dt (ecuación 18.18a), dQ = 0 (el proceso es adiabático) 
+y dW =-P dV (ecuación 18.15 para el trabajo realizado sobre el gas). Por lo tanto, si se sus- 
+tituye P = nRT/V, se obtiene 
+dV Cc. dT = -nRT Y 
+y, tras reordenar, se expresa 
+dT nRdV _ 
+T'e v.79 Si se integra, se llega a 
+In T+ "Ein V = constante 
+v 
+Isoterma Ty 
+. E 
+Vi <S = 
+Figura 18.19 Compresión adiabática 
+cuasiestática de un gas ideal. Las líneas a trazos son 
+las isotermas correspondientes a las temperaturas 
+inicial y final. La curva que conecta los estados 
+inicial y final de la compresión adiabática tiene una 
+pendiente mayor que las isotermas debido a que la 
+temperatura aumenta durante la compresión.
+
+540 | Capítulo 18 Calor y primer principio de la termodinámica 
+Se forman nubes cuando al elevarse el aire húmedo 
+se enfría debido a la expansión adiabática del aire. 
+El enfriamiento provoca vapor de agua que se 
+condensa en gotitas líquidas. 
+Esta expresión puede simplificarse en la forma 
+In 7+ thin V = In T+InV"*R'v = InTy"*'“ = constante 
+v 
+o bien 
+TV" = constante (18.34) 
+en donde las constantes de las dos ecuaciones precedentes no son las mismas. La ecuación 
+18.34 puede escribirse de nuevo recordando que C, — C, = nR (ecuación 18.20): 
+E Ea Ep Se (18.35) 
+= =P Y €, (18.36) 
+Por lo tanto, 
+TV?—! = constante (18.37) 
+Si se elimina 7 de la ecuación 18.37 por medio de PV = nRT, se tiene 
+PV yr = constante nR 
+osea 
+PV” = constante (18.38) 
+PROCESO ADIABATICO CUASIESTATICO 
+La ecuación 18.38 relaciona las variables P y V para expansiones y compresiones adiabáticas. 
+Ejercicio Demostrar que para un proceso adiabático cuasiestático 7/PY-! = constante. 
+El trabajo realizado sobre el gas en una compresión adiabática cuasiestática puede calcu- 
+larse a partir del primer principio de la termodinámica: 
+dU =dQ+dW obien dW = dU-dQ 
+Como dU = C, dT y dQ =0, resulta 
+dW = C,dT 
+Por lo tanto, 
+W ediabitico = J dW = J C,dT = C,AT (18.39) 
+TRABAJO ADIABATICO REALIZADO SOBRE UN GAS 
+en donde hemos supuesto que C, es constante.'! Obsérvese que el trabajo realizado sobre el 
+gas depende únicamente de la variación de la temperatura absoluta del mismo. En una com- 
+presión adiabática cuasiestática, se realiza trabajo sobre el gas y tanto su energía interna 
+_ como su temperatura aumentan. En una expansión adiabática cuasiestática, el trabajo es rea- 
+lizado por el gas, y disminuyen su temperatura y su energía interna. 
+' En el caso de un gas ideal, U es proporcional a la temperatura absoluta y. por lo tanto, Cy = dU/dT es una constante.
+
+18.9 Compresión adiabática cuasiestática de un gas | 541 
+Podemos utilizar la ley de los gases ideales para escribir la ecuación 18.39 en función de 
+los valores inicial y final de la presión y del volumen. Si la temperatura inicial es 7; y la final 
+es T;, tenemos para el trabajo realizado 
+W adiabático = Cy AT = C; (T; = T;) 
+Utilizando PV = nRT, se tiene 
+PV; Pi =) C, 
+W osiabático = (r E = E (P Ve- P;V;) 
+y haciendo uso de la ecuación 18.35 para simplificar esta expresión, se tiene 
+PV; = Pi V; 
+y-1 
+TRABAJO ADIABATICO REALIZADO SOBRE UN GAS 
+W adiabatic = ( 1 8.40) 
+EJEMPLO 18.12 | Compresión adiabática cuasiestática del aire 
+Una cantidad de aire se comprime adiabática y cuasiestáticamente desde una presión inicial de 
+1 atm y volumen de 4 L a la temperatura de 20 °C hasta la mitad de su volumen original. (a) 
+¿Cuál es la presión final? (b) ¿Cuál es la temperatura final? (c) ¿Cuál es el trabajo realizado 
+sobre el gas? 
+Planteamiento del problema Como el proceso es cuasiestático y adiabático, sabemos que PV” 
+= constante y TV*-' = constante. Estas relaciones permiten determinar la presión final y la tempera- 
+tura final respectivamente. Hallar y utilizando las ecuaciones 18.36, 18.20 y 18.25, El trabajo reali- 
+zado se deduce de Wadiabático = CyAT (ecuación 18.39). Para un gas diatómico C, = ; nR. El subíndice 
+| se refiere a los valores iniciales y el 2 a los valores finales. Tenemos P} = 1 atm, V, =4 L, V,=2L 
+y T, =20 °C = 293 K. 
+(a) 1. Expresar PV? = constante en función de los valores iniciales y P,V} = P,VÍ 
+finales: 
+Cc Cc R 2. Hallar y para un gas diatómico a partir de las ecuaciones 18.36, y= E = =" =i a EN pas = lt: 
+18.20 y 18.25: y y y ¿NR 
+: yy 4Ly* 3. Despejar P}: P,= P(Z) = (1 am) (55) = [2,64 atm 
+(b) 1. Expresar TV’~! = constante en función de los valores iniciales y TV?! = TV7 ' 
+finales: 
+2 Vira! 4 Lys 
+2. Despejar Ty: T= n(7) = (293 Ko(51) 
+= 387K =[114°C DY- nRT 
+(c) 1. La ecuación 18.39 nos da el trabajo realizado: Wadibárico =- CAT = ŠnRAT P 
+PV 2. Utilizando la ley de los gases ideales para las condiciones inicia- — Wgisniico = JARAT = PERMA YE STH A 2 EF les, expresar nR en función de P}, V; y Ti: 
+5(1 atm)(4L) A mk (087K-293K) 
+3,20 atm- L =[324] 
+Observaciones El trabajo puede calcularse también mediante la ecuación 18.40, pero es preferi- 
+ble utilizar Wadiapático = Cy AT porque está más directamente relacionada con el primer principio de la 
+termodinámica, y es más fácil de recordar.
+
+542 | Capítulo 18 Calor y primer principio de la termodinámica 
+Resumen 
+TEMA 
+Velocidad de las ondas sonoras 
+Podemos utilizar la ecuación 18.38 para calcular el módulo de compresibilidad adiabática de 
+un gas ideal, que está relacionado con la velocidad de las ondas sonoras en el aire. Diferen- 
+ciando los dos miembros de PV”= constante (ecuación 18.38) resulta: 
+P d(V")+ V” dP = 0 
+O sea, 
+PYVY dV+V1 dP =0 
+y, por lo tanto, 
+dP = — yP dV 
+V 
+Recordando la ecuación 13.6, podemos definir el módulo de compresibilidad adiabático:! 
+dP Basiabítico = = gyzy = YP (18.41) 
+La velocidad del sonido (ecuación 15.4) viene dada por 
+= Badinbático 
+=p 
+en donde la densidad p está relacionada con el número de moles n y la masa molecular M 
+por p = m/V = nM/V. Utilizando la ley de los gases ideales PV = nRT podemos eliminar V a 
+partir de la densidad 
+y, de acuerdo con la ecuación 18.41, resulta 
+[Basico | yP [yRT 
+ra r = NMPI(RT) 7 N M 
+que es la ecuación 15.5 para la velocidad del sonido en un gas. 
+1 El primer principio de la termodinámica, que es un enunciado de la conservación de la energía, es una 
+ley fundamental de la Física. 
+2 El teorema de equipartición es una ley fundamental de la Física Clásica. No se cumple cuando la energía 
+térmica típica AT es pequeña comparada con el espaciado de los niveles de energía cuantizados. 
+OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Calor 
+Caloría 
+El calor es la energía que se transfiere de un objeto a otro debido a una diferencia de temperaturas. 
+La caloría, definida originalmente como el calor necesario para elevar la temperatura de | g de agua en 1°C, 
+se define ahora como 4,184 julios. 
+| El módulo de compresibilidad es el cociente negativo entre el cambio de presión y la variación relativa de volumen, 
+B = —AP/(AV/V) (capítulo 13). El módulo de compresibilidad isotermo, que describe los cambios que ocurren a T 
+constante, difiere del módulo de compresibilidad adiabático, que describe los cambios sin transferencia de calor. Para las 
+ondas sonoras a frecuencias audibles, los cambios son tan rápidos que pueden considerarse sin transferencias de calor. El 
+módulo de compresibilidad apropiado es el adiabático.
+
+18.9 Compresión adiabatica cuasiestatica de un gas | 543 
+2. Capacidad calorífica La capacidad calorífica es la cantidad de calor necesaria para elevar la temperatura de una sustancia en un 
+grado. 
+Q C = = . AT (18.1) 
+A volumen constante C, = 2 ae? 
+A presión constante C, = Q, = AT 
+Calor específico (capacidad calorífica 
+por unidad de masa) - c= £ (18.2) 
+Calor específico molar (capacidad earn = 
+calorífica por mol) Les (18.6) 
+Capacidad calorífica relacionada du 
+con la energía interna C, = aT (18.18a) 
+Gas ideal C, = Cy+nR (18.20) 
+Gas ideal monoatémico C. = 3 nR (18.22) 
+Gas ideal diatémico C, = ¿nR (18.25) 
+3. Fusión y vaporización Durante la fusión y la vaporización, la temperatura no se modifica. 
+Calor latente de fusión El calor necesario para fundir una sustancia sólida es el producto de la masa de la sustancia por el calor 
+latente de fusión Lg 
+O; = mL; (18.8) 
+L, del agua L; = 333,5 kJ/kg 
+Calor latente de vaporización El calor necesario para vaporizar un líquido es el producto de su masa por su calor latente de vaporización 
+E 
+Q, = mL, (18.9) 
+L, del agua L, = 2257 kJ/kg 
+4. Primer principio de la termodinamica La variación de la energía interna de un sistema es igual al calor suministrado al sistema más el trabajo reali- 
+zado sobre el mismo: 
+AU = Q+W (18.10) 
+5. Energia interna, U La energía interna de un sistema es una propiedad de estado del sistema, igual que lo son la presión, el volu- 
+men y la temperatura, pero no ocurre lo mismo con el trabajo ni con el calor. 
+Gas ideal La energía interna de un gas ideal depende únicamente de la temperatura absoluta 7. 
+Gas ideal monoatómico U = = nRT (18.12) 
+Energia interna y capacidad calorifica dU = C, dT (18.18b) 
+6. Proceso cuasiestatico Un proceso cuasiestático es aquél que ocurre lentamente, de forma que el sistema recorre una serie de esta- 
+dos de equilibrio. 
+Isobárico P = constante 
+Isotermo T = constante 
+Adiabático 0=0 
+Adiabático, gas ideal TV*-* = constante (18.37) 
+PV? = constante (18.38)
+
+544 Capitulo 18 Calor y primer principio de la termodinamica 
+en donde 
+C => Y e: (1 9.35) 
+7. Trabajo realizado sobre un gas en un proceso 
+cuasiestático 
+A volumen constante 
+Isobárico 
+Isotermo 
+Adiabático 
+wW 
+W = -fy PdV = C,AT-Q (18.10, 18.15 y 18.18) 
+W= -fý Pav =0 V, = V; 
+W = -fy Pav = -P [yav = -PAV 
+dV V, Vi Vea 
+= -jy PdV = -nRT y = nRT In 7, (18.17) isotermo 
+Wasiabático = CyAT (18.39) 
+8. Teorema de equipartición El teorema de equipartición establece que cuando un sistema está en equilibrio, existe una energía media de 
+z kT por molécula o de 5 RT por mol asociada a cada grado de libertad. 
+El teorema de equipartición no se cumple cuando la energía térmica (~kT) que puede transferirse en las coli- 
+siones es menor que el espaciado energético AE entre los niveles de energía cuantizados. Por ejemplo, los 
+gases monoatómicos no poseen movimiento de rotación porque el primer nivel de energía permitido no nulo 
+Fallo del teorema de equipartición 
+es mucho mayor que kT. 
+9. Ley de Dulong-Petit 
+niendo que un átomo de sólido posee seis grados de libertad. 
+Problemas 
+® Concepto simple, un solo paso, relativamente fácil. 
+ee Nivel intermedio, puede exigir síntesis de conceptos. 
+Desafiante, para alumnos avanzados. 
+La solución se encuentra en el Student Solutions Manual. 
+I Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. 
+Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan a los 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. 
+El calor molar de la mayor parte de los sólidos es 3R. Esto se deduce del teorema de equipartición, supo- 
+En algunos problemas se dan 
+más datos de los realmente 
+necesarios; en otros pocos, deben 
+extraerse algunos datos a partir 
+de conocimientos generales, 
+fuentes externas o estimaciones 
+lógicas. 
+Utilizar v = 340 m/s para la velocidad del sonido en el aire a menos que se indique lo contrario. 
+Problemas conceptuales 
+1 e Un cuerpo A posee una masa doble que la de otro cuerpo B y su 
+calor específico es también el doble. Si a ambos se les suministra la misma can- 
+tidad de calor, ¿qué relación existe entre los cambios experimentados por sus 
+respectivas temperaturas? 
+2 e SSM La variación de temperatura de dos bloques de masas M4 
+y My es la misma cuando absorben iguales cantidades de calor. La relación entre 
+sus calores específicos será (a) Ca = (M,/My)ca, (b) cy = (Mal Ma)Ca, 
+(c) Ca = Cp. (d) ninguna de las anteriores. 
+3 e El calor específico del aluminio es más del doble que el del cobre. 
+En un calorímetro que contiene agua a 40 °C se introducen masas idénticas de 
+cobre y aluminio, ambas a 20 °C. Cuando se alcanza el equilibrio térmico (a) el 
+aluminio está a mayor temperatura que el cobre, (b) el aluminio ha absorbido 
+menos energía que el cobre, (c) el aluminio ha absorbido más energía que el 
+cobre, (d) ambas afirmaciones (a) y (c) son correctas, 
+4 e El experimento de Joule, que establece el equivalente mecánico 
+del calor, implica la conversión de energía mecánica en energía interna. Dar 
+algunos ejemplos de la conversión de energía interna de un sistema en energía 
+mecánica. 
+5 èe ‘SSM 
+gía interna? 
+¿Puede un sistema absorber calor sin modificar su ener- 
+6 e En la ecuación AU = Q + W (enunciado formal del primer princi- 
+pio de la termodinámica), las magnitudes Q y W representan (a) el calor sumi- 
+nistrado al sistema y el trabajo realizado por el sistema; (b) el calor 
+suministrado al sistema y el trabajo realizado sobre el sistema; (c) el calor libe- 
+rado por el sistema y el trabajo realizado por el sistema; (d) el calor liberado 
+por el sistema y el trabajo realizado sobre el sistema.
+
+7 @ Un gas real se enfría en una expansión libre, mientras que un gas 
+ideal no varfa su temperatura. Dar una explicación. 
+8 @ Un recipiente aislado está dividido en dos partes iguales por un 
+tabique delgado. En una de las mitades se hace el vacío y en la otra se encierra 
+un gas ideal a una atmósfera de presión y 300 K. Se quita el tabique y se esta- 
+blece el equilibrio en todo el recipiente. En el equilibrio, ¿cuál de las siguientes 
+afirmaciones es correcta? (a) La presión es media atmósfera y la temperatura 
+150 K. (b) La presión es una atmósfera y la temperatura 150 K. (c) La presión 
+es media atmósfera y la temperatura 300 K. (d) Ninguna de las anteriores. 
+9 @ Un gas está formado por iones que se repelen entre sí. El gas 
+experimenta una expansión libre sin intercambio de calor ni trabajo realizado. 
+¿Cómo cambia la temperatura del gas? ¿Por qué? 
+10 «ee SSM _ Dos globos de goma llenos de gas tienen inicialmente el 
+mismo volumen en el fondo de un frío lago. La superficie del lago está más 
+caliente que el fondo. Un globo asciende rápidamente y se expande de manera 
+adiabática a medida que sube, El otro globo asciende más lentamente y su 
+expansión es isotérmica. ¿Cuál de los globos es mayor al llegar a la superficie 
+del lago? 
+11 e Un gas cambia reversiblemente su estado de A a C (figura 18.20). 
+El trabajo realizado por el gas es (a) máximo en la trayectoria A > B => C; 
+(b) mínimo en la trayectoria A => C; (c) máximo en la trayectoria A + D = C; 
+(d) el mismo en las tres trayectorias. 
+Figura 18.20 Problema 11 
+12 e Cuando un gas ideal se somete a un proceso adiabático, (a) el sis- 
+tema no realiza trabajo; (b) no se suministra calor al sistema; (c) la energía 
+interna permanece constante; (d) el calor suministrado al sistema es igual al tra- 
+bajo realizado por el sistema. 
+13 e Verdadero o falso: 
+(a) La capacidad calorífica de un cuerpo es la cantidad de calor que puede 
+almacenar a una temperatura determinada. 
+(b) Cuando un sistema evoluciona del estado 1 al estado 2, el calor suminis- 
+trado al sistema es el mismo para todos los procesos posibles. 
+(c) Cuando un sistema evoluciona del estado | al estado 2, el trabajo realizado 
+sobre el sistema es el mismo para todos los procesos posibles. 
+(d) Cuando un sistema evoluciona del estado | al estado 2, la variación de 
+energía interna del sistema es la misma para todos los procesos posibles. 
+(e) La energía interna de una determinada cantidad de gas ideal depende sólo 
+de su temperatura absoluta. 
+(f) Un proceso cuasiestático es un proceso en el cual el sistema nunca se 
+encuentra lejos del equilibrio. 
+(g) Para toda sustancia que se expansiona al calentarse, Cp es mayor que C, 
+14 e SSM  Siel volumen de un sistema permanece constante mien- 
+tras experimenta variaciones de temperatura y presión, (a) la energía interna del 
+sistema no varía; (b) el sistema no realiza trabajo; (c) el sistema no absorbe 
+calor; (d) la variación de energía interna del sistema es igual al calor absorbido 
+por el sistema. 
+15 e Cuando un gas ideal se somete a un proceso isotermo, (a) ningún 
+trabajo es realizado por el sistema. (b) no se suministra calor al sistema. (c) el 
+calor suministrado al sistema es igual a la variación de energía interna. (d) el 
+calor suministrado al sistema es igual al trabajo realizado por éste. 
+Problemas | 545 
+16 es Eldepósito de combustible de una cocina de gas tiene un volumen 
+de 1 L y contiene 600 g de propano (C¿Hy) a una presión de 2 MPa. ¿Qué pode- 
+mos decir respecto al estado (sólido, líquido o gas) del propano? 
+17 es Un gas ideal experimenta un proceso durante el cual P./V es 
+constante y el volumen del gas decrece, ¿Qué ocurre con la temperatura? 
+18 @@ SSM ¿Cuál cree que tiene una mayor capacidad calorífica por 
+unidad de masa, el plomo o el cobre? ¿Por qué? (No busque las capacidades 
+caloríficas para responder a esta pregunta). 
+19 ee Calcular la capacidad calorífica de un líquido es muy difícil, 
+debido a las fuertes interacciones intermoleculares y a las posiciones aleatorias 
+de las moléculas en el líquido. Sin embargo, basándose sólo en el número de 
+grados de libertad, ¿cabría esperar que un líquido monoatómico tuviese una 
+capacidad calorífica mayor o menor que la de la fase sólida de la que procede 
+por fusión? Supóngase que la temperatura de fusión es lo bastante elevada 
+como para no estar obligados a tener en cuenta los efectos cuánticos en el cál- 
+culo de la capacidad calorífica del sólido. 
+Estimaciones y aproximaciones 
+20 @@ SSM Un sencillo experimento para demostrar que el calor es 
+una forma de energía consiste en coger una bolsa de perdigones y dejarla caer 
+repetidamente desde una pequeña altura sobre una superficie muy rígida. La 
+temperatura de la bolsa aumentará, y ello permite hacer una estimación de la 
+capacidad calorífica del plomo. (a) Hacer un cálculo aproximado del aumento 
+de temperatura de una bolsa llena con | kg de perdigones a la que se deja caer 
+50 veces desde una altura de | m. (b) En principio, la variación de temperatura 
+es independiente de la masa del perdigón; en la práctica, es mejor emplear una 
+masa mayor que una más pequeña. ¿A qué puede deberse esto? 
+21 es Un horno “típico” de microondas consume una potencia de unos 
+1200 W. Hacer una estimación de lo que tardaría en hervir una taza de agua en 
+el microondas suponiendo que el 50% de la potencia consumida se emplea en 
+calentar el agua. ¿Concuerda esta estimación con la experiencia cotidiana? 
+22 e Una prueba del calentamiento que experimenta un gas en una 
+compresión adiabática comporta colocar unos trocitos de papel en un gran tubo 
+de ensayo que se cierra entonces con un pistón. Si el pistón comprime el aire 
+atrapado muy rápidamente, el papel arderá. Suponiendo que el punto de igni- 
+ción del papel es 451 °F, hacer una estimación del factor en qué se ha de reducir 
+el volumen del aire atrapado por el pistón para que funcione esta prueba. 
+23 es Hay un pequeño cambio en el volumen de un líquido al calentarlo 
+a presión constante. Utilizar los siguientes datos del agua para hacer una esti- 
+mación de lo que constituye este cambio de volumen en la capacidad calorífica 
+del agua entre 4 °C y 100°C: 
+Densidad del agua a 4 °C y 1 atm de presión: 1,000 g/cm? 
+Densidad del agua líquida a 100 °C y 1 atm de presión: 0,9584 g/cm? 
+24 es SSM Una determinada molécula posee niveles de energía de 
+vibración con un espaciado constante de 0,15 eV. Determinar la temperatura crítica 
+T, tal que para T >> T, se cumpliría el teorema de equipartición y para T << T, falla- 
+ría este teorema. 
+Capacidad calorífica; calor específico; calor latente 
+25 e SSM Un varón adulto “típico” consume alimentos con un 
+valor energético de 2500 kcal por día. (a) Determinar su equivalencia en julios. 
+(b) Si la energía consumida se disipa en forma de calor a largo de 24 h, ¿cuál es 
+la potencia media disipada en vatios? 
+26 e i Una casa solar contiene 10% kg de hormigón (calor 
+específico = 1,00 KJ/kg-K). ¿Cuánto calor cederá el hormigón cuando se enfríe 
+de 25 a 20 °C?
+
+546 | Capitulo 18 Calor y primer principio de la termodinamica 
+27 e | ¿Cuántas calorías deben suministrarse a 60 g de 
+hielo a —10 °C para fundirlo y elevar la temperatura del agua a 40 °C? 
+28 eoe i ¿Qué cantidad de calor se desprende cuando 100 g de 
+vapor de agua a 150 °C se enfrían y congelan produciendo 100 g de hielo a 0 °C? 
+(Tomar para el calor específico del vapor el valor 2,01 kJ/kg - K.) 
+29 ee |! Un trozo de 50 g de aluminio a 20 °C se enfría a — 196 °C 
+colocándolo en un recipiente grande con nitrógeno líquido a esta temperatura. 
+¿Cuánto nitrógeno se vaporizará? (Suponer que el calor específico del aluminio 
+es constante e igual a 0,90 kJ/kg - K.) 
+30 ee | Si se vierten 500 g de plomo fundido a 327 °C dentro 
+de una cavidad de un gran bloque de hielo a 0 °C, ¿cuánto hielo se funde? 
+31 ee SM it Una bala de plomo de 30 g inicialmente a 
+20 °C se dispara contra el bloque de un péndulo balístico y allf se detiene. 
+Suponer que la mitad de la energía cinética de la bala se convierte en calor den- 
+tro de la misma. Si la velocidad de la bala era de 420 m/s, ¿cuál es la tempera- 
+tura de la bala inmediatamente después de alcanzar el reposo en el bloque? 
+32 ee | Un coche de 1400 kg que viaja a 80 km/h se detiene 
+aplicando los frenos. Si el calor específico del acero es 0,11 cal/g-K, ¿cuál debe 
+ser la masa total de acero contenida en los tambores de freno para que su tem- 
+peratura no se eleve más de 120 °C? 
+Calorimetría 
+33 e i Un pedazo de plomo de 200 g se calienta a 90 °C y se 
+echa en 500 g de agua inicialmente a 20 °C. Despreciando la capacidad calorí- 
+fica del recinto, determinar la temperatura final del plomo y del agua. 
+34 o SM i El calor específico de cierto metal se deter- 
+mina midiendo la variación de temperatura que tiene lugar cuando un trozo del 
+metal se calienta y luego se sitúa en un recinto aislado construido del mismo 
+material y que contiene agua. El trozo de metal posee una masa de 100 g y una 
+temperatura inicial de 100 °C. El recipiente posee una masa de 200 g y contiene 
+500 g de agua a una temperatura inicial de 20,0 °C. La temperatura final es 
+21,4 °C, ¿Cuál es el calor específico del metal? 
+35 es Enel Tour de Francia de 2002, el campeón ciclista Lance Arms- 
+trong consumió una potencia media de 400 W, durante 5 horas diarias a lo largo 
+de 20 días. ¿Qué cantidad de agua, inicialmente a 24 °C, podría llevarse hasta 
+su punto de ebullición si se aprovechase completamente toda esa energía? 
+36 ee Un vaso de vidrio de 25 g contiene 200 mL de agua a 24 °C. Si 
+echamos en el vaso dos cubos de hielo de 15 g cada uno a la temperatura de 
+—3 °C, ¿cuál es la temperatura final de la mezcla? Despreciar la conducción tér- 
+mica entre el vaso y el medio exterior, 
+37 ee Un trozo de hielo de 200 g a 0 °C se introduce en 500 g de agua a 
+20 °C, El sistema se encuentra en un recinto de capacidad calorífica desprecia- 
+ble y aislado del exterior. (a) ¿Cuál es la temperatura final de equilibrio del sis- 
+tema? (b) ¿Qué cantidad de hielo se funde? 
+38 èe | Y Enunvaso que contiene una mezcla de hielo y agua 
+con una masa total de 1,2 kg se deja caer un bloque de cobre de 3,5 kg a una 
+temperatura de 80 °C. Cuando se alcanza el equilibrio, la temperatura del agua 
+es 8 °C. ¿Cuánto hielo existía en el agua antes de que el bloque de cobre se 
+situara en él? (Despreciar la capacidad calorífica del vaso.) 
+39 e. i Y Una vasija bien aislada contiene 150 g de hielo a 
+0 °C. (a) Si se introducen en su interior 20 g de vapor a 100 °C, ¿cuál es la tem- 
+peratura final de equilibrio del sistema? (b) ¿Queda algo de hielo? 
+40 oe |! Y Un calorímetro de masa despreciable contiene 1 kg 
+de agua a 303 K y 50 g de hielo a 273 K. Determinar la temperatura final, T. 
+Resolver el mismo problema para una masa de hielo de 500 g. 
+41 @@ SSM Un calorimetro de aluminio de 200 g contiene 500 g de 
+agua a 20 °C. Dentro del recipiente se introduce un trozo de hielo de 100 g 
+enfriado a -20 °C. (a) Determinar la temperatura final del sistema suponiendo 
+que no hay pérdidas caloríficas (para el calor específico del hielo tómese el 
+valor 2,0 kJ/kg-K). (b) Se añade un segundo trozo de hielo de 200 g a -20 °C. 
+¿Cuánto hielo queda en el sistema, una vez que se ha alcanzado el equilibrio? 
+(c) ¿Sería distinta la respuesta al apartado (b) si ambos trozos se agregaran al 
+mismo tiempo? 
+42 ee I Para determinar el calor especifico de un bloque de 
+100 g de material se introduce en un calorímetro de cobre de 25 g que contiene 
+60 g de agua. El sistema se encuentra inicialmente a 20 °C. A continuación se 
+añaden 120 mL de agua a 80 °C al vaso calorimétrico. Cuando se alcanza el 
+equilibrio térmico, la temperatura del agua es 54 °C, Determinar el calor espe- 
+cífico del bloque. 
+43 es Untrozo de cobre de 100 g se calienta en un homo a una tempera- 
+tura r. Se introduce luego el cobre en un calorímetro de cobre de 150 g que con- 
+tiene 200 g de agua. La temperatura inicial del agua y el calorímetro es 16 °C y 
+la temperatura final después de que se establezca el equilibrio es 38 °C. Cuando 
+se pesan el calorímetro y su contenido se encuentra que se han evaporado 1,2 g 
+de agua. ¿Cuál era la temperatura 1? 
+44 es Un calorímetro de aluminio de 200 g contiene 500 g de agua a 
+20 °C, Se calientan a 100 °C virutas de aluminio de 300 g de masa y luego se 
+introducen en el calorímetro. (a) Utilizando el valor del calor específico del alu- 
+minio dado en la tabla 18.1, hallar la temperatura final del sistema suponiendo 
+que no se pierde calor hacia el medio exterior, (b) El error debido a la transferen- 
+cia de calor hacia o desde el medio puede reducirse al mínimo si se escoge la 
+temperatura inicial del agua y del calorímetro de forma que esté a 3 At, por 
+debajo de la temperatura ambiente, en donde Ar, es la variación de temperatura 
+del calorímetro y del agua durante el proceso. Entonces la temperatura final 
+estará a 5 At, por encima de la temperatura ambiente. ¿Cuál deberá ser la tempe- 
+ratura inicial del agua y del recipiente si la temperatura ambiente es 20 °C? 
+Primer principio de la termodinámica 
+45 e i Un gas diatómico realiza 300 J de trabajo y absorbe 
+600 cal de calor. ¿Cuál es la variación de energía interna experimentada por el 
+gas? 
+46 eo ssm 1 Si se adicionan 400 kcal a un gas que se 
+expansiona y realiza 800 kJ de trabajo, ¿cuál es la variación de la energía 
+interna del gas? 
+47 e i Una bala de plomo con una velocidad de 200 m/s se 
+detiene en un bloque de madera. Suponiendo que toda la energia se invierte en 
+calentar la bala, determinar la temperatura final de ésta si la temperatura inicial 
+es de 20 °C. 
+48 e (a) En las cataratas del Niágara, el agua cae desde una altura de 
+50 m. Si toda la variación de energía potencial se invierte en energía interna del 
+agua, ¿cuál será el incremento de temperatura? (b) Repetir el cálculo para las 
+cataratas de Yosemite en donde el agua cae desde una altura de 740 m. (Estos 
+aumentos de temperatura no se observan en la realidad porque el agua se enfría 
+por evaporación durante su caída.) 
+49 © Cuando 20 cal de calor son absorbidas por un gas, éste realiza 30 J 
+de trabajo. ¿Cuál es la variación de energía interna del gas? 
+50 ee | Una bala de plomo inicialmente a 30 °C se funde al 
+golpear un blanco. Suponiendo que toda la energía cinética inicial de la bala se 
+convierte en energía interna de la misma para elevar su temperatura y fundirla, 
+calcular su velocidad en el momento del impacto. 
+51 @@ SSM Es posible calentarse las manos en un día frío frotándo- 
+las una contra la otra. (a) Suponer que el coeficiente de rozamiento entre las 
+manos es 0,5 y que pueden frotarse con una velocidad media de 35 cm/s, mien- 
+tras las manos se ejercen una fuerza normal de 35 N entre ellas, ¿Con qué ritmo 
+se genera calor? (b) Suponer además que la masa de cada mano es aproximada- 
+mente de 350 g, que el calor específico de las mismas es del orden de 4 kJ/kg - 
+K y que todo el calor generado se utiliza para elevar la temperatura de las 
+manos, ¿Durante cuánto tiempo habrá que frotarse las manos para conseguir un 
+incremento de temperatura de 5 °C?
+
+Trabajo y diagrama PV de un gas 
+En los problemas 52 a 55, el estado inicial de 1 mol de un gas ideal es P, =3 atm, 
+V,=1L y U, =456 J, y swestado final es P, = 2 atm, V} = 3 L y U; = 912). 
+52 e Í Y El gas se deja expansionar a presión constante hasta 
+un volumen de 3 L. Entonces se enfría a volumen constante hasta que su pre- 
+sión es de 2 atm. (a) Representar este proceso en un diagrama PV y determinar 
+el trabajo realizado por el gas. (b) Determinar el calor absorbido durante este 
+proceso. 
+53 e I Y E gas se enfría primero a volumen constante hasta 
+que su presión es de 2 atm. Se deja entonces expansionar a presión constante 
+hasta que su volumen es de 3 L. (a) Representar este proceso en un diagrama 
+PV y determinar el trabajo realizado por el gas, (b) Determinar el calor absor- 
+bido durante este proceso. 
+54 e@@ SSM _ El gas se expansiona isotérmicamente hasta que su volu- 
+men es de 3 L y su presión 1 atm. Se calienta entonces a volumen constante 
+hasta que su presión es de 2 atm. (a) Representar este proceso en un diagrama 
+PY y calcular el trabajo realizado por el gas. (b) Determinar el calor absorbido 
+durante este proceso. 
+55 es El gas se expansiona y se añade calor de tal forma que el gas sigue 
+una línea recta en el diagrama PV desde el estado inicial al estado final. (a) In- 
+dicar este proceso en un diagrama PV y calcular el trabajo realizado por el gas. 
+(b) Determinar el calor absorbido en este proceso. 
+56 ee 1! Y Un mol de gas ideal se encuentra inicialmente en el 
+estado Py = 1 atm, Vp = 25 L. Cuando el gas se calienta lentamente, su estado 
+evoluciona de modo que en un diagrama PV sigue una línea recta hasta el 
+estado final P = 3 atm, V = 75 L. Determinar el trabajo realizado por el gas en 
+este proceso. 
+57 es Un mol de gas ideal se calienta de modo que T=AP?, en donde A 
+es una constante. La temperatura cambia de Th a 47). Determinar el trabajo rea- 
+lizado por el gas. 
+58 e SSM Una expansión isobdrica es una que se lleva a cabo a 
+presión constante, Dibujar varias isobaras de un gas ideal en un diagrama que 
+muestre el volumen como una función de la temperatura. 
+59 ee Í Y Un gas ideal inicialmente a 20 °C y 200 kPa posee 
+un volumen de 4 L. Experimenta una expansión isoterma cuasiestática hasta 
+que su presión se reduce a 100 kPa. Calcular (a) el trabajo realizado por el gas 
+y (b) el calor suministrado al gas durante la expansión. 
+Capacidades caloríficas de gases y teorema de 
+equipartición 
+60 e La capacidad calorífica a volumen constante de cierto gas monoa- 
+tómico es 49,8 J/K, (a) Determinar el número de moles de gas. (b) ¿Cuál es la 
+energía interna de este gas a T = 300 K? (c) ¿Cuál es la capacidad calorífica a 
+presión constante? 
+61 e La ley de Dulong-Petit se utilizó originalmente para determinar la 
+masa molecular de una sustancia a partir de sus capacidades caloríficas medi- 
+das. Sabiendo que el calor específico de un sólido dado es de 0,447 kJ/kg-K, 
+(a) calcular su masa molecular. (b) ¿De qué elemento se trata? 
+62 e@ SSM (a) Calcular los calores específicos por unidad de masa 
+del aire a volumen constante y a presión constante. Suponer una temperatura de 
+300 K y una presión de 10° N/m?, Admitir asimismo que el aire se compone de 
+un 74% de moléculas de N, (peso molecular 28 g/mol) y de un 26% de molé- 
+culas de O, (peso molecular 32 g/mol), y que ambos componentes son gases 
+ideales. (b) Comparar el resultado con el valor de 1,032 J/g-K recogido en el 
+Handbook of Chemistry and Physics para la capacidad calorífica a presión 
+constante, 
+63 es Un mol de un gas ideal diatómico se calienta a volumen constante 
+desde 300 K a 600 K: (a) Determinar el incremento de energía interna, el tra- 
+Problemas | 547 
+bajo realizado y el calor absorbido. (b) Determinar estas mismas magnitudes 
+para el caso en que el gas se calienta de 300 a 600 K a presión constante. Utili- 
+zar el primer principio de la termodinámica y el resultado obtenido en el apar- 
+tado (a) para calcular el trabajo realizado, (c) Calcular directamente el trabajo 
+realizado en el apartado (b) a partir de dW = P dV. 
+64 ee | Y un gas diatómico (masa molar M) está confinado en 
+un recipiente cerrado de volumen V a una presión Po. ¿Qué cantidad de calor Q 
+debe transferirse al gas para que su presión se triplique? (Expresar la respuesta 
+en función de Py y V.) 
+65 ese Un mol de aire (c, = 5R/2) está encerrado a la presión atmosférica 
+en un cilindro mediante un pistón a la temperatura de 0 °C. El volumen inicial 
+ocupado por el gas es V. Determinar el volumen de gas V’ después de suminis- 
+trarle el calor equivalente a 13 200 J, 
+66 es La capacidad calorífica de una determinada cantidad de un gas 
+particular a presión constante es mayor que la correspondiente a volumen cons- 
+tante en 29,1 J/K. (a) ¿Cuántos moles de gas se tienen? (b) Si el gas es monoa- 
+tómico, ¿cuánto valen C, y C,? (c) Si el gas está formado por moléculas 
+diatómicas que tienen movimiento de rotación, pero no de vibración, ¿cuánto 
+valen C, y C,? 
+67 @@ SSM El dióxido de carbono (CO,) a | atm de presión y una 
+temperatura de -78,5 °C sublima directamente desde un estado sólido a uno 
+gaseoso, sin pasar por una fase líquida. ¿Cuál es el cambio que se produce en la 
+capacidad calorífica (a presión constante) por mol de CO, cuando tiene lugar la 
+sublimación? Suponer que las moléculas del gas pueden girar pero no vibrar. 
+¿Es positivo o negativo el cambio en la capacidad calorífica en la sublimación? 
+La molécula de CO, aparece representada en la figura 18.21. 
+oO C 0 
+Figura 18.21 Problema 67 
+68 «e Un mol de un gas ideal monoatómico se encuentra inicialmente a 
+273 K y | atm. (a) ¿Cuál es su energía interna inicial? (b) Determinar su ener- 
+gía interna final y el trabajo realizado por el gas cuando se suministran 500 J de 
+calor a presión constante. (c) Determinar las mismas magnitudes cuando los 
+500 J de calor se suministran a volumen constante. 
+69 ee Hacer una lista de todos los grados de libertad posibles de una 
+molécula de agua y hacer una estimación de la capacidad calorífica del agua 
+muy por encima de su punto de ebullición. (Ignorar el hecho de que la molécula 
+pudiera disociarse a altas temperaturas.) Reflexionar detenidamente sobre 
+todos los distintos modos de que dispone una molécula de agua para vibrar. 
+Expansión adiabática cuasiestática de un gas 
+70 ee Un mol de un gas ideal (y= Š ) se expansiona adiabáticamente y 
+cuasiestáticamente desde una presión de 10 atm y temperatura de 0°C a un 
+estado final de presión 2 atm. Determinar (a) los volúmenes inicial y final, 
+(b) la temperatura final y (c) el trabajo realizado por el gas. 
+71 e Un gas ideal a la temperatura ambiente de 20 °C se comprime 
+adiabática y cuasiestáticamente hasta la mitad de su volumen original. Calcular 
+su temperatura final si (a) C, = inR y (b) C, =¿nR. 
+72 e I Y Dos moles de gas neón inicialmente a 20 °C y a una 
+presión de | atm se comprimen adiabáticamente hasta 1/4 de su volumen ini- 
+cial. Determinar la temperatura y presión después de la compresión. 
+73 ee SSM Medio mol de un gas ideal monoatómico a una presión de 
+400 kPa y una temperatura de 300 K se expansiona hasta que la presión ha dismi-
+
+548 | Capítulo 18 Calor y primer principio de la termodinámica 
+nuido a 160 kPa. Determinar la temperatura y volumen finales, el trabajo realizado 
+y el calor absorbido por el gas si la expansión es (a) isoterma y (b) adiabática. 
+74 08 Repetir el problema 73 para un gas diatómico, 
+75 8 Medio mol de helio se expansiona adiabática y cuasiestáticamente 
+desde una presión inicial de 5 atm y una temperatura de 500 K hasta una presión 
+final de | atm. Calcular (a) la temperatura final, (4) el volumen final, (c) el trabajo 
+realizado por el gas y (d) la variación de energía interna del mismo. 
+76 @@@ SSM Para inflar un neumático de bicicleta se emplea una 
+bomba de mano, siendo la presión manométrica final de 482 kPa. ¿Cuánto tra- 
+bajo deberá realizarse si cada embolada es un proceso adiabático? La presión 
+atmosférica es de | atm, la temperatura inicial del aire es 20 °C y el volumen del 
+aire dentro del neumático permanece constante e igual a | L. 
+77 @@@ Un gas ideal con un volumen inicial V, y una presión P, se expan- 
+siona adiabática y cuasiestáticamente hasta un volumen V, y una presión P}. 
+Calcular el trabajo realizado por el gas integrando directamente P dV y com- 
+probar que el resultado es el mismo que el dado por la ecuación 18,39, 
+Procesos cíclicos 
+78 ee Un mol de gas N, (C, = ÍnR) se mantiene a la temperatura 
+ambiente (20 °C) y a una presión de 5 atm. Se deja expansionar adiabática y 
+cuasiestáticamente hasta que su presión iguala a la ambiente de | atm. Enton- 
+ces se calienta a presión constante hasta que su temperatura es de nuevo de 20 *C. 
+Durante este calentamiento el gas se expansiona. Una vez que ha alcanzado la 
+temperatura ambiente, se calienta a volumen constante hasta que su presión es 
+de 5 atm. Se comprime entonces a presión constante hasta volver a su estado 
+original. (a) Construir un diagrama PV de precisión suficiente mostrando cada 
+etapa del ciclo. (b) A partir de este gráfico determinar el trabajo realizado por el 
+gas en todo el ciclo. (c) ¿Cuánto calor fue absorbido o cedido por el gas en el 
+ciclo completo? (d) Comprobar el cálculo gráfico del apartado (b) determi- 
+nando el trabajo realizado por el gas en cada una de las etapas del ciclo. 
+79 @@ SSM Un mol de un gas ideal diatómico se deja expandir a lo 
+largo de la recta que va de | a 2 en el diagrama PV de la figura 18.22. A conti- 
+nuación se comprime isotérmicamente desde 2 hasta 1. Calcular el trabajo total 
+realizado sobre el gas durante este ciclo. 
+2,2 
+2,0 
+Presión (atm) 
+o 1 
+ts bs 14 16 18 20 24 
+Volumen (litro) 
+Figura 18.22 Problema 79 
+80 ee Dos moles de un gas ideal monoatómico tienen una presión inicial 
+P, = 2 atm y un volumen inicial V, = 2 L. Se obliga al gas a realizar cuasiestáti- 
+camente el siguiente proceso cíclico: Se expansiona isotérmicamente hasta que 
+tiene un volumen de V, = 4 L. Luego se calienta a volumen constante hasta que 
+su presión vale P, = 2 atm. Finalmente se enfría a presión constante hasta que 
+vuelve a su estado inicial, (a) Dibujar este ciclo en un diagrama PV. (b) Calcu- 
+lar el calor añadido y el trabajo realizado por el gas durante cada parte del ciclo. 
+(c) Hallar las temperaturas 7), T} y T3. 
+81 @@@ Enel punto D de la figura 18.23 la presión y la temperatura de 
+2 moles de un gas ideal monoatómico son 2 atm y 360 K. El volumen del gas 
+en el punto B del diagrama PV es tres veces mayor que en el punto D y su pre- 
+sión es doble que la del punto C. Las trayectorias AB y CD representan proce- 
+sos isotermos. El gas realiza un ciclo completo a lo largo del ciclo DABCD, 
+Determinar el trabajo total realizado por el gas y el calor suministrado al gas a 
+lo largo de cada porción del ciclo. 
+Figura 18.23 Problemas 81 y 82 
+82 e.e SSM Repetir el problema 81 con un gas diatómico. 
+83 @@@ Un gas ideal de n moles se encuentra inicialmente a la presión P}, 
+volumen Y, y temperatura Tp. Experimenta una expansión isotérmica hasta que 
+su presión y volumen son P, y Vz. Luego se expansiona adiabáticamente hasta 
+que la temperatura es T, y la presión y el volumen son P, y V;. A continuación 
+se comprime isotérmicamente hasta alcanzar la presión P, y el volumen Va. el 
+cual está relacionado con el volumen inicial V, por T.V{-' = T, Vř-'. El gas 
+entonces se comprime adiabáticamente hasta recuperar su estado original. 
+(a) Suponiendo que cada una de las etapas es cuasiestática, representar este 
+ciclo en un diagrama PV. (Este ciclo se denomina ciclo de Carnot para un gas 
+ideal.) (b) Demostrar que el calor absorbido Q,, durante la expansión isotérmica 
+a Th es QO, = nRT, In(Vy/V;). (c) Demostrar que el calor cedido Q, por el gas 
+durante la compresión isotérmica a T, es Q, = nRT, In (V/V,). (d) Utilizando el 
+resultado de que para una expansión adiabática TV?! es constante, demostrar 
+que Vy/V, = Vy/V,. (e) El rendimiento del ciclo Carnot viene definido por el tra- 
+bajo neto realizado dividido por el calor absorbido Q,, Teniendo en cuenta el pri- 
+mer principio de la termodinámica, demostrar que este rendimiento es 1 — O/Q,. 
+(f) Utilizando los resultados de los apartado previos de este problema, 
+demostrar que Q./0, = T/T). 
+Problemas generales 
+84 e l Y El volumen ocupado por tres moles de un gas mo- 
+noatómico se incrementa de 50 a 200 L a presión constante. La temperatura ini- 
+cial del gas es de 300 K. ¿Cuánto calor se ha suministrado al gas? 
+85 O Enel proceso de compresión de n moles de un gas ideal diatómico 
+hasta un quinto de su volumen inicial se realiza un trabajo de 180 kJ sobre el 
+gas. Si esto se realiza isotérmicamente a la temperatura ambiente (293 K), 
+¿cuántas calorías se extraen del gas? 
+86 e ‘SSM 
+problema 85? 
+¿Cuál es el número de moles n del gas considerado en el 
+87 e El diagrama PV de la figura 18.24 representa procesos realizados 
+por 3 moles de un gas ideal monoatómico. El gas está inicialmente en el punto 
+A, Las trayectorias AD y BC representan procesos isotérmicos. Si el sistema 
+evoluciona hasta el punto C a lo largo de la trayectoria AEC, determinar (a) las 
+temperaturas inicial y final, (b) el trabajo realizado por el gas y (c) el calor 
+absorbido por el gas.
+
+Figura 18.24 Problemas 87-90 
+88 es Repetir el problema 87 en el caso de que el gas recorra la trayec- 
+toria ABC, 
+89 ee SSM 
+trayectoria ADC, 
+Repetir el problema 87 en el caso de que el gas recorra la 
+90 es Suponer que las trayectorias AD y BC representan procesos adia- 
+báticos. ¿Cuáles son entonces el trabajo realizado par el gas y el calor absor- 
+bido al seguir la trayectoria ABC? 
+91 @@ A temperaturas muy bajas el calor específico de un metal viene 
+dado por la expresión c = aT + bT’. Para el cobre, a = 0,0108 J/kg - K? y b= 
+7,62 x 10 J/kg - KŻ. (a) ¿Cuál es el calor específico del cobre a 4 K? (b) ¿Qué 
+calor es necesario suministrar para calentar el cobre desde | a 3 K? 
+92 es Dos moles de un gas ideal diatómico se comprimen isotérmica- 
+mente de 18 a 8 L. En el proceso, 170 calorías escapan del sistema. Determinar 
+el trabajo realizado por el gas, la variación de energía interna y las temperaturas 
+inicial y final del gas. 
+93 es Suponer que los dos moles del gas ideal diatómico del problema 
+92 se comprimen de 18 a 8 L adiabáticamente. El trabajo realizado por el gas es 
+820 J. Determinar la temperatura inicial y las presiones inicial y final. 
+94 es Determinar el trabajo que hay que realizar a la temperatura y pre- 
+sión estándares para comprimir 30 g de CO a un quinto de su volumen inicial si 
+el proceso es (a) isotermo y (b) adiabático. 
+95 es Repetirel problema 94 con gas CO). 
+96 es Repetirel problema 94 con gas argón. 
+97 ee I Un sistema térmicamente aislado está formado por 1 mol 
+de un gas ideal diatómico a 100 K y 2 moles de un sólido a 200 K separados 
+por una pared aislante rígida. Determinar la temperatura de equilibrio del sis- 
+tema al retirar la pared aislante suponiendo que el sólido cumple la ley de 
+Dulong-Petit. 
+98 es SSM Cuando un gas ideal sufre una variación de temperatura 
+a volumen constante, su energía cambia en AU = C, AT. (a) Explicar por qué el 
+resultado AU = C, AT es válido en el caso de un gas ideal para cualquier varia- 
+ción de temperatura con independencia del proceso. (b) Demostrar explícita- 
+mente que este resultado es válido para la expansión de un gas ideal a presión 
+constante calculando primeramente el trabajo realizado y demostrando que 
+puede escribirse como W = -nR AT, y luego utilizando AU = Q + W, siendo 
+Q=C, AT. 
+99 es Un molde un gas monoatómico ideal se calienta a volumen cons- 
+tante de 300 a 600 K. (a) Hallar el calor suministrado, el trabajo realizado por 
+el gas y la variación de su energía interna. (b) Hallar estas mismas magnitudes 
+si el gas se calienta de 300 a 600 K a presión constante, 
+100 es SSM Se suministra calor por valor de 500 J a 2 moles de un gas 
+ideal diatómico. (a) Hallar la variación de la temperatura si se mantiene la pre- 
+sión constante. (b) Hallar el trabajo realizado por el gas. (c) Hallar el cociente 
+entre el volumen final y el inicial del gas si la temperatura inicial es 20 °C. 
+101 es Un cilindro aislado en el que se encuentra un pistón móvil para 
+mantener la presión constante, contiene inicialmente 100 g de hielo a — 10 °C. 
+Problemas 549 
+Se suministra calor al sistema a ritmo constante mediante un calentador de 100 W. 
+Dibujar un gráfico que muestre la temperatura del contenido del cilindro en fun- 
+ción del tiempo, comenzando desde ¢ = 0, cuando la temperatura vale -10 °C, y 
+terminando cuando la temperatura es 110 °C. (Utilizar c = 2,0 kJ/kg-K para el 
+calor específico medio del hielo desde — 10 a 0 °C y del vapor desde 100 a 110°C.) 
+102 es SSM Dos moles de un gas ideal diatómico se expansionan 
+adiabáticamente. La temperatura inicial del gas es 300 K. El trabajo realizado 
+por el gas durante la expansión es 3,5 kJ. ¿Cuál es la temperatura final del gas? 
+103 @@ Un mol de gas monoatómico, inicialmente a la temperatura 7, 
+experimenta un proceso en el cual su temperatura se cuadriplica y su volumen 
+se reduce a la mitad. Determinar el calor O transferido al gas. Sabemos que en 
+este proceso la presión nunca fue menor que la presión inicial y que el trabajo 
+realizado sobre el gas fue el mínimo posible. 
+104 es Sien un líquido se disuelve una pequeña cantidad de una sustan- 
+cia, la presión del líquido aumentará ligeramente. Para una disolución diluída, 
+la variación de presión se obtiene de la ley de los gases ideales, PV = NKT, en 
+donde N es el número de moléculas de soluto disueltas en el líquido, V es el 
+volumen del líquido y P es el aumento de la presión en el líquido. Calcular el 
+aumento en la presión cuando 20 g de sal de mesa (NaCl) se disuelven en 1 L 
+de agua a una temperatura de 24 °C. 
+105 es Un cilindro vertical adiabáticamente aislado está dividido en dos 
+partes por medio de un pistón movible de masa m, Inicialmente, el pistón se 
+mantiene en reposo. La parte superior se vacía y la parte inferior se llena con un 
+mol de gas ideal diatómico a la temperatura de 300 K. Cuando se libera el pis- 
+tón y el gas alcanza el equilibrio, el volumen ocupado por éste se ha reducido a 
+la mitad. Determinar la temperatura final del gas. 
+106 @@ De acuerdo con el modelo de Einstein de un sólido cristalino, la 
+energía interna por mol viene dada por 
+_ 3NAkTE T e1 
+en donde 7; es una temperatura característica denominada temperatura de Eins- 
+tein y Tes la temperatura del sólido en kelvins. Evaluar la energía interna molar 
+del diamante (Tg = 1060 K) a 300 y 600 K y con ello el incremento de esta 
+magnitud al calentar el diamante de 300 a 600 K. 
+107 ese SSM En una expansión isoterma, un gas ideal a una presión 
+inicial Py se expansiona hasta duplicar su volumen inicial. (a) Hallar su presión 
+después de la expansión. (b) Luego el gas se comprime adiabática y cuasiestáti- 
+camete hasta su volumen original, en cuyo momento su presión vale 1,32 Pp. El 
+gas, ¿es monoatómico, diatómico o poliatómico? (c) ¿Cómo varía en estos pro- 
+cesos la energía cinética de traslación del gas? 
+Nota: Aunque los problemas 108-109 se refieren a procesos no cuasiestáticos, 
+las funciones de estado de los productos finales pueden calcularse suponiendo 
+que los gases son ideales y aplicando el primer principio de la termodinámica. 
+Para T > 2000 K, la vibración de los átomos contribuye al valor de C, del CO; 
+y del H,0, de modo que el C, de estos gases es 7,5 R a temperaturas elevadas. 
+Suponer que los gases no se disocian. 
+108 eee La combustión del benceno está representada por la reacción quí- 
+mica 2(C¿H¿) + 15(0,) > 12(C0») + 6(H30). El calor liberado en la combus- 
+tión de dos moles de benceno es 1516 kcal. Un mol de benceno y 7,5 moles de 
+oxígeno a 300 K están encerrados en un recinto aislado a la presión de | atm. 
+(a) Determinar la temperatura y el volumen después de la combustión si la pre- 
+sión se mantiene a 1 atm. (b) Si después de la combustión se elimina el aisla- 
+miento térmico alrededor del recinto y el sistema se enfría a 300 K, ¿cuál es la 
+presión final? 
+109 eee SSM El monóxido de carbono y el oxígeno se combinan for- 
+mando CO, con un desprendimiento de 280 kJ/mol de CO según la reacción 
+2(CO) + O, + 2(CO;). Dos moles de CO y | mol de O, a 300 K están dentro 
+de un recipiente de 80 L; la reacción de combustión se inicia con una chispa. 
+(a) ¿Cuál es la presión del recinto antes de la reacción? (b) Si la reacción tiene 
+lugar adiabáticamente, ¿cuáles son la temperatura y presión finales? (c) Si el 
+gas CO, resultante se enfría a 0 °C, ¿cuál es entonces la presión del recinto?
+
+550 | Capítulo 18 Calor y primer principio de la termodinámica 
+110 ese Utilizar la expresión dada en el problema 106 para la energía 
+interna molar de un sólido de acuerdo con el modelo de Einstein para demos- 
+trar que el calor molar a volumen constante viene dado por 
+2 TIT 
+ee 3r(7) a (e T TT 1) 
+111 ese (a) Utilizar los resultados del problema 110 para demostrar que la 
+ley de Dulong-Petit, cí =3R, equivale al modelo de Einstein cuando 7 > Tg- 
+(b) En el caso del diamante, Tg es aproximadamente 1060 K. Integrar numéri- 
+camente la expresión dU = c/, dT para determinar el incremento de energía 
+interna de | mol de diamante al calentarlo de 300 a 600 K. Comparar el resul- 
+tado con el obtenido en el problema 106. 
+112 ese Si se pincha un neumático, el aire del interior se irá escapando 
+poco a poco. Suponer que el área del orificio es A, que el volumen del neumá- 
+tico es V, y que 7, el tiempo que tarda en salir del neumático casi todo el aire, 
+puede expresarse en función de la razón A/V, la temperatura 7, la constante de 
+Boltzmann k y la masa m de las moléculas del gas que llena el neumático. 
+(a) De acuerdo con estas hipótesis, utilizar el análisis dimensional para hacer 
+una estimación de 7. (b) Hacer uso del resultado obtenido en (a) para calcular 
+de manera aproximada el tiempo que tardaría en desinflarse un neumático de 
+automóvil que ha sufrido un pinchazo causado por un clavo.
+
+SEGUNDO PRINCIPIO DE 
+LA TERMODINAMICA 
+La maquina de este viejo tren produce vapor, el cual hace un trabajo sobre un piston que obli- 
+ga a las ruedas del tren a desplazarse. El rendimiento de la maquina de vapor está limitado por 
+el segundo principio de la termodinámica. 
+¿Cuál es el rendimiento máximo posible de esta máquina? (Véase ejemplo 19.4.) 
+Conianns se nos pide que conservemos la energía. Pero de acuerdo con el primer 
+principio de la termodinámica, la energía se conserva siempre. Entonces, ¿qué significa 
+“conservar” la energía, si la cantidad total de energía del Universo no cambia con inde- 
+pendencia de lo que hagamos? En este capítulo veremos que el primer principio de la ter- 
+modinámica no nos lo explica todo. La energía se conserva siempre, pero algunas formas 
+de la misma son más útiles que otras. La posibilidad o imposibilidad de conseguir energía 
+que esté en condiciones de ser utilizada, es el punto central del segundo principio de la 
+termodinámica. Por ejemplo, es fácil convertir completamente el trabajo mecánico en 
+calor (energía térmica), pero es imposible absorber calor de un sistema y convertirlo com- 
+pletamente en trabajo mecánico sin ningún otro cambio adicional. Este hecho experimen- 
+tal es uno de los enunciados del segundo principio de la termodinámica. 
+Es imposible que un sistema pueda extraer energía en forma de calor de una sola 
+fuente térmica y convertirla completamente en trabajo sin que se produzcan cam- 
+bios netos en el sistema o en el medio que le rodea. 
+SEGUNDO PRINCIPIO DE LA TERMODINÁMICA: ENUNCIADO DE KELVIN 
+= Más adelante en este capítulo, veremos otras formulaciones del mismo principio. 
+Capítulo 
+19 19.1 Máquinas térmicas y 
+el segundo principio 
+de la termodinámica 
+19.2 Refrigeradores y 
+segundo principio de 
+la termodinámica 
+19.3 Equivalencia entre los 
+enunciados de la 
+máquina térmica y 
+del refrigerador 
+19.4 La máquina de 
+Carnot 
+* 19.5 Bombas de calor 
+19.6 Irreversibilidad y 
+desorden 
+19.7 Entropía 
+19.8 Entropía y energía 
+utilizable 
+19.9 Entropía y 
+probabilidad 
+La energía solar se dirige directamente hacia el 
+horno solar situado en el centro de esta 
+distribución circular de reflectores en Barstow, 
+California (Estados Unidos).

@@ -1,0 +1,2784 @@
+Tema: Cinemática: descripción del movimiento (Capítulo 2 — Física, Wilson)
+
+CAPÍTULO 2 Cinemática: descripción del movimiento
+▲ FIGURA 2.3 Vehículo Mars
+Exploration La nave exploró varias
+zonas de Marte, buscando las
+respuestas sobre la existencia de
+agua en ese planeta.
+calculando la distancia a partir de las lecturas inicial y final del odómetro. Supon-
+gamos que dichas lecturas fueron 17 455 km y 17 775 km, respectivamente, para un
+viaje de cuatro horas. (Supondremos que el odómetro del automóvil marca kilóme-
+tros.) La resta de las lecturas da una distancia total recorrida d de 320 km, así que la
+rapidez media del viaje es d/H20862t /H11005320 km/H208624.0 h /H1100580 km/H20862h (o unas 50 mi /H20862h).
+La rapidez media da una descripción general del movimiento en un intervalo de
+tiempo /H9004t. En el caso del viaje en automóvil con una rapidez media de 80 km/h, la ra-
+pidez del vehículo no fue siempre 80 km/H20862h. Con las diversas paradas durante el viaje,
+el automóvil se debe haber estado moviendo a menos de la rapidez promedio varias
+veces. Por lo tanto, tuvo que haberse estado moviendo a más de la rapidez media otra
+parte del tiempo. Una rapidez media no nos dice realmente con qué rapidez se estaba
+moviendo el automóvil en un instante dado durante el viaje. De forma similar, la cali-
+ficación media que un grupo obtiene en un examen no nos indica la calificación de un
+estudiante en particular.
+La rapidez instantánea es una cantidad que nos indica qué tan rápido se está mo-
+viendo algo en un instante dado. El velocímetro de un automóvil da una rapidez instan-
+tánea aproximada. Por ejemplo, el velocímetro de la 
+> figura 2.2 indica una rapidez de
+unas 44 mi/H20862h, o 70 km/H20862h. Si el automóvil viaja con rapidez constante (de manera que
+la lectura del velocímetro no cambie), la rapidez media y la instantánea serán iguales.
+(¿Está de acuerdo? Piense en la analogía de las calificaciones del examen anterior.
+¿Qué sucede si todos los estudiantes obtienen la misma calificación?)
+Ejemplo 2.1 ■ Movimiento lento: el vehículo Mars Exploration
+En enero de 2004, el vehículo de exploración Mars Exploration tocó la superficie de Marte
+e inició un desplazamiento para explorar el planeta (> figura 2.3). La rapidez promedio de
+un vehículo de exploración sobre un suelo plano y duro es 5.0 cm/s. a) Suponiendo que el
+vehículo recorrió continuamente el terreno a esa rapidez promedio, ¿cuánto tiempo le to-
+maría recorrer 2.0 m en línea recta? b) Sin embargo, para garantizar un manejo seguro, el
+vehículo se equipó con software para evadir obstáculos, el cual hace que se detenga y eva-
+lúe su ubicación durante algunos segundos. De esta forma, el vehículo se desplaza a la ra-
+pidez promedio durante 10 s, luego se detiene y evalúa el terreno durante 20 s antes de
+seguir hacia adelante por otros 10 s; después se repite el ciclo. Tomando en cuenta esta pro-
+gramación, ¿cuál sería su rapidez promedio al recorrer los 2.0 m?
+Razonamiento. a) Conociendo la rapidez promedio y la distancia, es posible calcular el
+tiempo a partir de la ecuación para la rapidez promedio (ecuación 2.1). b) Aquí, para
+calcular la rapidez promedio, debe utilizarse el tiempo total, incluidos los lapsos en que
+se detiene el vehículo.
+Solución. Se listan los datos con sus unidades: (los cm/s se convierten directamente a m/s).
+Dados: Encuentre:
+a) a) /H9004t (tiempo para recorrer la distancia)
+b) (rapidez promedio)
+b) ciclos de 10 s de recorrido, altos de 20 s
+a) A partir de la ecuación 2.1, tenemos
+Reordenando,
+b) Aquí necesitamos determinar el tiempo total para la distancia de 2.0 m. En cada inter-
+valo de 10 s, se recorrería una distancia de 0.050 m/s /H1100310 s /H110050.50 m. Así, el tiempo total
+incluiría cuatro intervalos de 10 s para el recorrido real, y tres intervalos de 20 s para los
+altos, dado /H9004t /H110054 /H1100310 s /H110013 /H1100320 s /H11005100 s. Entonces
+Ejercicio de refuerzo. Suponga que la programación del vehículo de exploración fuera
+para recorridos de 5.0 s y altos de 10 s. ¿Cuánto tiempo le tomaría recorrer los 2.0 m en 
+este caso? (Las respuestas a todos los Ejercicios de refuerzo aparecen al final del libro.)
+s
+= d
+¢t = d
+t2 - t1
+= 2.0 m
+100 s = 0.020 m>s
+¢t = d
+s = 2.0 m
+0.050 m>s = 40 s
+s = d
+¢t
+s d = 2.0 m
+ s = 5.0 cm>s = 0.050 m>s
+
+2.2 Desplazamiento unidimensional y velocidad: cantidades vectoriales 35
+2.2 Desplazamiento unidimensional y velocidad:
+cantidades vectoriales
+OBJETIVOS: a) Definir desplazamiento y calcular velocidad, y b) explicar la dife-
+rencia entre cantidades escalares y vectoriales.
+Desplazamiento
+En el movimiento en línea recta, o rectilíneo, conviene especificar la posición usando
+el conocido sistema bidimensional de coordenadas cartesianas, con ejes x y y perpen-
+diculares. Una trayectoria recta puede tener cualquier dirección, pero por convenien-
+cia solemos orientar los ejes de coordenadas de manera que el movimiento siga uno
+de ellos. (Véase el ladillo Aprender dibujando.)
+Como ya vimos, la distancia es una cantidad escalar que sólo tiene magnitud (y
+unidades). Sin embargo, al describir un movimiento podemos dar más información
+si especificamos una dirección. Esta información es especialmente sencilla cuando el
+cambio de posición es en línea recta. Definimos desplazamiento como la distancia
+en línea recta entre dos puntos, junto con la dirección del punto de partida a la posi-
+ción final. A diferencia de la distancia (un escalar), el desplazamiento puede tener
+valores positivos o negativos, donde el signo indica la dirección a lo largo del eje de
+coordenadas.
+Por lo tanto, el desplazamiento es una cantidad vectorial . En otras palabras, un
+vector tiene tanto magnitud como dirección. Por ejemplo, cuando describimos el
+desplazamiento de un avión como 25 kilómetros al norte, estamos dando una des-
+cripción vectorial (magnitud y dirección). Otras cantidades vectoriales son velocidad
+y aceleración.
+Podemos aplicar álgebra a los vectores; pero necesitamos saber cómo especifi-
+car y manejar la parte de dirección del vector. Este proceso es relativamente sencillo
+en una dimensión cuando se usan los signo /H11001y /H11002para indicar la dirección. Para
+ilustrar esto al calcular desplazamientos, consideremos la situación que se muestra
+en la 
+▼ figura 2.4, donde x1 y x2 indican posiciones inicial y final, respectivamente, en
+el eje x, conforme un estudiante se mueve en línea recta de los casilleros al labora-
+torio de física. Como puede verse en la figura 2.4a, la distancia escalar que él re-
+corre es 8.0 m. Para especificar desplazamiento (un vector) entre x
+1 y x2, usamos 
+la expresión
+/H9004x /H11005x2 /H11002xl (2.2)
+APRENDER DIBUJANDO
+Coordenadas cartesianas 
+y desplazamiento 
+unidimensional
+x
+12.0 (metros)11.010.09.08.07.06.05.04.03.02.01.0
+8.0 m
+a) Distancia (magnitud o valor numérico)
+x
+12.0 (metros)11.010.09.08.07.06.05.04.03.02.01.0
+b) Desplazamiento (magnitud y dirección)
+Δx = x2 − x1 = 9.0 m − 1.0 m = +8.0 m
+LABORATORIO
+DE FÍSICA
+x2x1
+x2x1
+> FIGURA 2.4 Distancia (escalar) 
+y desplazamiento (vector)
+a) La distancia (camino en línea 
+recta) entre el estudiante y el 
+laboratorio de física es 8.0 m y es
+una cantidad escalar. b) Para indicar
+desplazamiento, x
+1 y x2 especifican
+las posiciones inicial y final, 
+respectivamente. El desplazamiento
+es entonces /H9004x /H11005x
+2 /H11002x1 /H110059.0 m /H11002
+1.0 m /H11005/H110018.0 m; es decir, 8.0 m 
+en la dirección x positiva.
+a) Sistema bidimensional de
+coordenadas cartesianas. Un vector
+de desplazamiento d ubica
+un punto (x, y)
+b) En movimiento unidimensional,
+o rectilíneo, conviene orientar uno
+de los ejes de coordenadas en la
+dirección del movimiento
+(origen)
+
+36 CAPÍTULO 2 Cinemática: descripción del movimiento
+Nota: /H9004siempre significa final
+menos inicial, así como un cambio
+en un saldo bancario es el saldo
+final menos el saldo inicial.
+Nota: si el desplazamiento es en
+una dirección, la distancia es la
+magnitud del desplazamiento.
+Nota: no confunda velocidad (un
+vector) con rapidez (un escalar).
+*Otra forma muy utilizada de esta ecuación es
+que, después de reacomodar, queda así:
+(2.3)
+donde xo es la posición inicial, x es la posición final y /H9004t /H11005t con to /H110050. En la sección 2.3 se explica
+esta notación.
+x = xo + vt,
+v = ¢x
+¢t =
+1x2 - x12
+1t2 - t12 =
+1x - xo2
+1t - to2 =
+1x - xo2
+t
+donde /H9004representa, una vez más, un cambio o diferencia en una cantidad. Entonces,
+como en la figura 2.4b, tenemos
+/H9004x /H11005x2 /H11002x1 /H11005/H110019.0 m /H11002(/H110011.0 m) /H11005/H110018.0 m
+donde el signo /H11001indica las posiciones en el eje. Así, el desplazamiento (magnitud y
+dirección) del estudiante es 8.0 m en la dirección x positiva, como indica el resultado
+positivo (/H11001) de la figura 2.4b. (Al igual que en las matemáticas “normales”, suele omi-
+tirse el signo más, pues se sobreentiende, así que este desplazamiento se puede es-
+cribir como /H9004x /H110058.0 m en vez de /H9004x /H11005/H110018.0 m.)
+En este libro, las cantidades vectoriales por lo regular se indican con negritas 
+y una flecha arriba; por ejemplo, un vector de desplazamiento se indica con o y
+uno de velocidad, con No obstante, cuando se trabaja en una sola dimensión esa
+notación no es necesaria y se simplifica usando signos más y menos para indicar las
+únicas dos direcciones posibles. Por lo regular el eje x se utiliza para los movimientos
+horizontales, y un signo más ( /H11001) indica la dirección a la derecha, o en la “dirección x
+positiva”, en tanto que un signo menos (/H11002) indica la dirección a la izquierda, o la “di-
+rección x negativa”.
+Tenga presente que estos signos sólo “apuntan” en direcciones específicas. Un obje-
+to que se mueve sobre el eje x negativo hacia el origen se estaría moviendo en la direc-
+ción x positiva, aunque su valor sea negativa. ¿Y un objeto que se mueve sobre el eje
+x positivo hacia el origen? Si usted contestó en la dirección x negativa, está en lo co-
+rrecto. En los diagramas las flechas del vector indican las direcciones de las magnitu-
+des asociadas.
+Supongamos que la otra estudiante de la figura 2.4 camina del laboratorio de físi-
+ca (la posición inicial es diferente, x
+1 /H11005/H110019.0 m) al final de los casilleros (la posición 
+final ahora es x2 /H11005/H110011.0 m). Su desplazamiento sería
+/H9004x /H11005x2 /H11002x1 /H11005/H110011.0 m /H11002(/H110019.0 m) /H11005/H110028.0 m
+El signo menos indica que la dirección del desplazamiento fue en la dirección x nega-
+tiva, o a la izquierda en la figura. En este caso, decimos que los desplazamientos de
+ambos estudiantes son iguales (en magnitud) y opuestos (en dirección).
+Velocidad
+Como hemos visto, la rapidez, al igual que la distancia que implica, es una cantidad
+escalar: sólo tiene magnitud. Otra cantidad que se usa para describir mejor el movi-
+miento es la velocidad. En la conversación cotidiana, solemos usar los términos rapidez
+y velocidad como sinónimos; sin embargo, en física tienen distinto significado. La ra-
+pidez es un escalar y la velocidad es un vector: tiene magnitud y dirección. A diferen-
+cia de la rapidez (pero igual que el desplazamiento), las velocidades unidimensionales
+puede tener valores positivos y negativos, que indican direcciones.
+La velocidad nos dice qué tan rápidamente se está moviendo algo y en qué direc-
+ción se está moviendo. Así como podemos hablar de rapidez media e instantánea, te-
+nemos velocidades media e instantánea que implican desplazamientos vectoriales. La
+velocidad media es el desplazamiento dividido entre el tiempo total de recorrido. En
+una dimensión, esto implica sólo movimiento a lo largo de un eje, que se considera 
+el eje x. En este caso,
+(2.3)*
+Unidad SI de velocidad: metros por segundo (m/H20862s)*
+ v = ¢x
+¢t = x2 - x1
+t2 - t1
+ velocidad media=
+desplazamiento
+tiempo total de recorrido
+v
+S
+.
+x
+S
+,d
+S
+
+2.2 Desplazamiento unidimensional y velocidad: cantidades vectoriales 37
+En el caso de más de un desplazamiento (desplazamientos sucesivos), la veloci-
+dad media es igual al desplazamiento total o neto, dividido entre el tiempo total. El
+desplazamiento total se obtiene sumando algebraicamente los desplazamientos, según
+los signos de dirección.
+Quizá se pregunte si hay relación entre rapidez media y velocidad media. Un vis-
+tazo a la figura 2.4 muestra que, si todo el movimiento es en la misma dirección, es
+decir, si nunca se invierte la dirección, la distancia es igual a la magnitud del despla-
+zamiento. De manera que la rapidez media es igual a la magnitud de la velocidad me-
+dia. No obstante, hay que tener cuidado . Este conjunto de relaciones no se cumple si hay
+inversión de dirección, como en el ejemplo 2.2.
+Ejemplo 2.2 ■ Ida y vuelta: velocidades medias
+Un deportista trota de un extremo al otro de una pista recta de 300 m en 2.50 min y, luego,
+trota de regreso al punto de partida en 3.30 min. ¿Qué velocidad media tuvo el deportista
+a) al trotar al final de la pista, b) al regresar al punto de partida y c) en el trote total?
+Razonamiento. Las velocidades medias se calculan a partir de la ecuación de definición.
+Cabe señalar que los tiempos dados son los /H9004t asociados con los desplazamientos en
+cuestión.
+Solución. El problema nos dice que:
+Dado: (tomando la dirección Encuentre: velocidades medias
+inicial como positiva) a) el primer tramo,
+(tomando la dirección de b) el tramo de regreso,
+regreso como negativa) c) el tramo total
+a) La velocidad media al trotar hasta el final de la pista se calcula con la ecuación 2.3:
+b) De forma similar, para el trote de regreso, tenemos
+c) Para el recorrido total, debemos considerar dos desplazamientos, de ida y de vuelta,
+así que los sumamos para obtener el desplazamiento total, que luego dividimos entre el
+tiempo total:
+¡La velocidad media para el trote total es cero! ¿Ve el lector por qué? La definición de des-
+plazamiento indica que la magnitud del desplazamiento es la distancia en línea recta en-
+tre dos puntos. El desplazamiento desde un punto regresando hasta ese mismo punto es
+cero; así que la velocidad media es cero. (Véase la 
+N figura 2.5.)
+Podríamos haber encontrado el desplazamiento total con sólo calcular /H9004x /H11005
+xfinal /H11002xinicial /H110050 /H110020 /H110050, donde las posiciones inicial y final se toman como el origen,
+pero lo hicimos en partes como ilustración.
+Ejercicio de refuerzo. Calcule la rapidez media del deportista en cada caso del ejemplo, y
+compárela con las velocidades medias respectivas. [¿La rapidez media en c) será cero?]
+(Las respuestas de todos los Ejercicios de refuerzo se dan al final del libro.)
+Como muestra el ejemplo 2.2, la velocidad media sólo ofrece una descripción ge-
+neral del movimiento. Una forma de estudiar más de cerca el movimiento es consi-
+derando intervalos de tiempo más pequeños, es decir, haciendo que el tiempo de
+observación ( /H9004t) sea cada vez más pequeño. Al igual que la rapidez, cuando /H9004t se
+v3 = ¢x1 +¢ x2
+¢t1 +¢ t2
+=
+300 m +1-300 m2
+150 s + 198 s = 0 m>s
+v2 = ¢x2
+¢t2
+= -300 m
+198 s =- 1.52 m>s
+v1 = ¢x1
+¢t1
+= +300 m
+150 s =+ 2.00 m>s
+ ¢t2 = 3.30 min 160 s>min2 = 198 s
+ ¢t1 = 2.50 min 160 s>min2 = 150 s
+ ¢x2 =- 300 m
+ ¢x1 = 300 m
+Nota: en el caso de desplaza-
+mientos tanto en la dirección /H11001
+como /H11002(inversión de dirección), 
+la distancia no es la magnitud 
+del desplazamiento total.
+▲ FIGURA 2.5 ¡De vuelta a home!
+Pese a haber cubierto casi 110 m 
+entre las bases, en el momento en
+que el corredor se barre en la caja
+de bateo (su posición original) para
+llegar a home, su desplazamiento 
+es cero, al menos si es un bateador
+derecho. Por más rápidamente que
+haya corrido las bases, su velocidad
+media para todo el recorrido 
+también es cero.
+
+38 CAPÍTULO 2 Cinemática: descripción del movimiento
+200
+150
+100
+50
+1.0 2.0 3.0 4.0
+Tiempo (h)
+Velocidad uniforme
+Posición (km)
+x
+t
+Δt = t2 − t1 = 2.0 − 1.0 = 1.0 h
+ΔxΔΔ = x2 − x1 = 100 − 50 = 50 km
+Δx
+Δt = 50 km
+1.0 h= 50 km/hPendiente =
+=Pendiente
+0 1.0 h 2.0 h 3.0 h
+50 km 100 km 150 km
+Tiempo
+Distancia
+50 km/1.0 h = 50 km/h
+100 km/2.0 h = 50 km/h
+150 km/3.0 h = 50 km/h
+50
+100
+150
+1.0
+2.0
+3.0
+ΔxΔΔ (km) Δt (h) ΔxΔΔ /xx Δ// t
+v  (= v)
+0
+t1
+x1
+x2
+t2
+a)
+b)
+N FIGURA 2.6 Movimiento 
+rectilíneo uniforme: velocidad
+constante En el movimiento 
+rectilíneo uniforme, un objeto viaja
+con velocidad constante, cubriendo
+la misma distancia en intervalos 
+de tiempo iguales, a) Aquí, un 
+automóvil recorre 50 km cada hora.
+b) Una gráfica de x contra t es una
+línea recta, pues se cubren despla-
+zamientos iguales en tiempos 
+iguales. El valor numérico de la
+pendiente de la línea es igual a 
+la magnitud de la velocidad, y 
+el signo de la pendiente da su 
+dirección. (La velocidad media es
+igual a la velocidad instantánea 
+en este caso. ¿Por qué?)
+aproxima a cero, obtenemos la velocidad instantánea , que describe qué tan rápida-
+mente y en qué dirección se está moviendo algo en un momento específico .
+La velocidad instantánea se define matemáticamente así:
+(2.4)
+Esta expresión se lee como “la velocidad instantánea es igual al límite de /H9004x/H20862/H9004t cuan-
+do /H9004t se aproxima a cero”. El intervalo de tiempo nunca llega a cero (¿por qué?); pero
+se aproxima a cero. Técnicamente la velocidad instantánea aún es una velocidad media;
+sin embargo, un /H9004t tan pequeño es básicamente un promedio “en un instante de tiem-
+po” y, por ello, la llamamos velocidad instantánea.
+Movimiento uniforme se refiere a un movimiento con velocidad constante (mag-
+nitud constante y dirección constante). Como ejemplo de una dimensión, el automóvil
+de la ▼ figura 2.6 tiene una velocidad uniforme. Recorre la misma distancia y experi-
+menta el mismo desplazamiento en intervalos de tiempo iguales (50 km en cada hora),
+y no cambia la dirección de su movimiento.
+Análisis gráfico
+El análisis gráfico a menudo es útil para entender el movimiento y las cantidades re-
+lacionadas con él. Por ejemplo, el movimiento del automóvil de la figura 2.6a podría
+representarse en una gráfica de posición contra tiempo, o x contra t. Como se obser-
+va en la figura 2.6b, se obtiene una línea recta para una velocidad uniforme, o cons-
+tante, en una gráfica así.
+v = lím
+¢t :0
+ ¢x
+¢t
+Nota: la palabra uniforme significa
+“constante”.
+Ilustración 1.3 Obtención de datos
+Ilustración 2.1 P osición y 
+desplazamiento
+Exploración 2.1 Compare posición
+contra tiempo y velocidad contra 
+gráficos de tiempo
+
+2.2 Desplazamiento unidimensional y velocidad: cantidades vectoriales 39
+Posición (km)
+Tiempo (h)
+50
+0
+100
+150
+200
+1.02 .03 .04 .0
+Pendiente = v = Δx
+Δt = –50 km
+1.0 h = –50 km/h
+x1
+x2
+x
+t
+Δx  = x2 – x1 = 100 – 150 =  –50 km
+t1 t2
+Δt = t2 – t1 = 2.0 – 1.0 = 1.0 h
+–
+> FIGURA 2.7 Gráfica de posición
+contra tiempo para un objeto que
+se mueve uniformemente en la 
+dirección x negativa Una línea 
+recta con pendiente negativa en 
+una gráfica de x contra t indica 
+movimiento uniforme en la 
+dirección x negativa. Observe que 
+la posición del objeto cambia de 
+forma constante. En t /H110054.0 h, 
+el objeto está en x /H110050. ¿Qué aspecto
+tendría la gráfica si el movimiento
+continuara durante t /H110224.0 h?
+Recordemos que en las gráficas cartesianas de y contra x la pendiente de una rec-
+ta está dada por /H9004y/H20862/H9004x. Aquí, con una gráfica de x contra t, la pendiente de la línea,
+/H9004x/H20862/H9004t, es igual a la velocidad media En movimiento uniforme, este valor
+es igual a la velocidad instantánea. Es decir, (¿Por qué?) El valor numérico de
+la pendiente es la magnitud de la velocidad, y el signo de la pendiente da la direc-
+ción. Una pendiente positiva indica que x aumenta con el tiempo, de manera que el
+movimiento es en la dirección x positiva. (El signo más suele omitirse, porque se so-
+breentiende, y así lo haremos a lo largo de este texto.)
+Suponga que una gráfica de posición contra tiempo para el movimiento de un au-
+tomóvil es una línea recta con pendiente negativa, como en la 
+▲ figura 2.7. ¿Qué indica
+esta pendiente? Como se aprecia en la figura, los valores de posición ( x) disminuyen
+con el tiempo a una tasa constante, lo cual indica que el automóvil viaja con movi-
+miento uniforme, aunque en la dirección x negativa, lo cual se relaciona con el valor
+negativo de la pendiente.
+En la mayoría de los casos, el movimiento de un objeto no es uniforme, lo cual sig-
+nifica que se cubren diferentes distancias en intervalos de tiempo iguales. Una gráfica
+de x contra t para un movimiento así en una dimensión es una línea curva, como la de
+la 
+▼ figura 2.8. La velocidad media del objeto en un intervalo de tiempo dado es la
+pendiente de una recta que pasa entre los dos puntos de la curva que corresponden a
+los tiempos inicial y final del intervalo. En la figura, como la velocidad
+media para todo el viaje es la pendiente de la línea recta que une los puntos inicial y
+final de la curva.
+v =¢ x>¢t,
+v = v.
+v =¢ x>¢t.
+Tiempo
+Posición
+t1
+t
+Pend
+iente = 
+v
+x1
+t2
+x2
+x
+(1)
+(2)
+(3)
+(4)
+(5)
+Δt
+Δx
+Δx
+Δt
+> FIGURA 2.8 Gráfica de posición
+contra tiempo para un objeto en
+movimiento rectilíneo no uniforme
+Si la velocidad no es uniforme, una
+gráfica de x contra t es una curva.
+La pendiente de la línea entre dos
+puntos es la velocidad media entre
+esos dos puntos, y la velocidad 
+instantánea es la pendiente de 
+una línea tangente a la curva en
+cualquier punto. Se muestran cinco
+líneas tangentes, con los intervalos
+/H9004x/H20862/H9004t para la quinta. ¿Puede el 
+lector describir el movimiento 
+del objeto con palabras?
+Exploración 2.2 Determine la gráfica
+correcta
+Ilustración 2.2 Velocidad promedio
+
+40 CAPÍTULO 2 Cinemática: descripción del movimiento
+La velocidad instantánea es igual a la pendiente de una línea recta tangente a la
+curva en un momento específico. En la figura 2.8 se muestran cinco líneas tangen-
+tes comunes. En (1), la pendiente es positiva y, por lo tanto, el movimiento es en la
+dirección x positiva. En (2), la pendiente de una línea tangente horizontal es cero, así
+que no hay movimiento. Es decir, el objeto se detuvo instantáneamente ( v /H110050). En
+(3), la pendiente es negativa, de manera que el objeto se está moviendo en la direc-
+ción x negativa. Entonces, el objeto se detuvo y cambió de dirección en el punto (2).
+¿Qué está sucediendo en los puntos (4) y (5)?
+Si dibujamos diversas líneas tangentes a lo largo de la curva, vemos que sus pen-
+dientes varían, lo cual indica que la velocidad instantánea está cambiando con el
+tiempo. Un objeto en movimiento no uniforme puede acelerarse, frenarse o cambiar
+de dirección. La forma de describir un movimiento con velocidad cambiante es el te-
+ma de la sección 2.3.
+2.3 Aceleración
+OBJETIVOS: a) Explicar la relación entre velocidad y aceleración, y b) realizar un 
+análisis gráfico de la aceleración.
+La descripción básica del movimiento implica la tasa de cambio de posición con el
+tiempo, que llamamos velocidad. Podemos ir un poco más lejos y considerar cómo
+cambia esa tasa de cambio . Supongamos que algo se está moviendo a velocidad cons-
+tante y luego la velocidad cambia. Semejante cambio de velocidad se denomina acele-
+ración. En un automóvil, llamamos acelerador al pedal de la gasolina. Cuando pisamos
+el acelerador, el automóvil aumenta su velocidad; si levantamos el pie, el automóvil
+baja la velocidad. En ambos casos, hay un cambio de velocidad con el tiempo. Defi-
+nimos aceleración como la tasa de cambio de la velocidad con el tiempo.
+La aceleración media es análoga a la velocidad media , es decir, es el cambio de
+velocidad dividido entre el tiempo que toma realizar ese cambio:
+(2.5)
+Unidad SI de aceleración: metros por segundo al cuadrado (m/H20862s2).
+Observe que sustituimos las variables inicial y final con una notación más común. vo
+y to son la velocidad y el tiempo iniciales u originales, respectivamente, y v y t son la
+velocidad y el tiempo generales en algún momento futuro, cuando queremos conocer
+la velocidad v después de cierto tiempo específico t. (Ésta podría o no ser la velocidad
+final de una situación dada.)
+A partir de /H9004v/H20862/H9004t, las unidades SI de aceleración son metros por segundo ( /H9004v)
+por segundo (/H9004t), es decir, (m/H20862s)/H20862s o m/H20862(s /H11080s), que comúnmente se expresa como me-
+tros por segundo al cuadrado (m /H20862s
+2). En el sistema inglés, las unidades son pies por
+segundo al cuadrado (ft/H20862s2).
+Como la velocidad es una cantidad vectorial, también lo es la aceleración, pues
+ésta representa un cambio de velocidad. Puesto que la velocidad tiene tanto magni-
+tud como dirección, un cambio de velocidad implicaría cambios en cualquiera de es-
+tos factores, o en ambos. Por lo tanto, una aceleración podría deberse a un cambio de
+rapidez (la magnitud), un cambio de dirección o un cambio en ambas, como se muestra
+en la 
+Nfigura 2.9.
+ = v2 - v1
+t2 - t1
+= v - vo
+t - to
+ a = ¢v
+¢t
+ aceleración media= cambio de velocidad
+tiempo que toma el cambio
+Nota: en unidades compuestas, 
+la multiplicación se indica con 
+un punto centrado.
+Ilustración 2.3 Velocidad promedio y
+velocidad instantánea
+
+2.3 Aceleración 41
+DesaceleraciónAceleración
+v (30 km/h)
+(disminuye la magnitud
+de la velocidad)
+(se incrementa la magnitud de la velocidad)
+t = 2.0 s t = 4.0 s t = 6.0 s0
+a)  Cambio en la magnitud de la velocidad pero no en la dirección
+v = 0v (40 km/h)
+a a
+v (20 km/h)
+v1 (60 km/h)
+t = 0
+v2 (80 km/h)
+v1 (80 km/h)
+t = 0
+t = 1.0 s
+v2 (40 km/h)
+t = 2
+.0 s
+b)  Cambio en la dirección de la velocidad
+pero no en la magnitud c)  Cambio en la magnitud y en la dirección de la velocidad
+▲ FIGURA 2.9 Aceleración: la tasa de cambio de la velocidad con el tiempo Puesto 
+que la velocidad es una cantidad vectorial, con magnitud y dirección, puede haber una
+aceleración cuando hay a) un cambio de magnitud, pero no de dirección, b) un cambio 
+de dirección, pero no de magnitud, o c) un cambio tanto de magnitud como de dirección.
+En el caso del movimiento rectilíneo, usaremos signos más y menos para indicar
+las direcciones de velocidad y aceleración, como hicimos con el desplazamiento lineal.
+La ecuación 2.5 suele simplificarse como:
+(2.6)
+donde se supone que t
+o /H110050. (vo podría no ser cero, así que por lo general no podemos
+omitirla.)
+La aceleración instantánea, análoga a la velocidad instantánea, es la aceleración
+en un instante específico. Esta cantidad se expresa matemáticamente como:
+(2.7)
+Las condiciones del intervalo de tiempo cercano a cero son las que se describieron para
+la velocidad instantánea.
+a = lím
+¢t :0
+ ¢v
+¢t
+a = v - vo
+t
+
+42 CAPÍTULO 2 Cinemática: descripción del movimiento
+Ejemplo 2.3 ■ Frenado: aceleración media
+Un matrimonio viaja en una camioneta SUV a 90 km/h por una carretera recta. Ven un
+accidente a lo lejos, así que el conductor disminuye su velocidad a 40 km/h en 5.0 s.
+¿Qué aceleración media tuvo la camioneta?
+Razonamiento. Para calcular la aceleración media, se necesitan las variables definidas en
+la ecuación 2.6, y se han dado.
+Solución. Del planteamiento del problema, tenemos los siguientes datos:
+Dado: Encuentre: (aceleración media)
+[Aquí, suponemos que las velocidades instantáneas tienen dirección positiva, y se efec-
+túan de inmediato las conversiones a unidades estándar (metros por segundo), ya que 
+el tiempo se dio en segundos. En general, siempre trabajamos con unidades estándar.]
+Dadas las velocidades inicial y final y el intervalo de tiempo, podemos calcular la
+aceleración media con la ecuación 2.6:
+El signo menos indica la dirección de la aceleración (del vector). En este caso, la direc-
+ción es opuesta a la dirección del movimiento ( v /H110220), y el automóvil se frena. A veces
+llamamos desaceleración a una aceleración negativa.
+Ejercicio de refuerzo. ¿Una aceleración negativa necesariamente implica que el objeto en
+movimiento está desacelerando, o que su rapidez está disminuyendo? Sugerencia: véase la
+sección lateral “Aprender dibujando”. (Las respuestas de todos los Ejercicios de refuerzo se dan
+al final del libro.)
+Aceleración constante
+Aunque la aceleración puede variar con el tiempo, por lo general restringiremos
+nuestro estudio del movimiento a aceleraciones constantes, para simplificar. (Una
+aceleración constante importante es aquella debida a la gravedad cerca de la superfi-
+cie terrestre, que estudiaremos en la siguiente sección.) Puesto que en el caso de una
+aceleración constante el promedio es igual al valor constante podemos omi-
+tir la raya sobre la aceleración en la ecuación 2.6. Así, para una aceleración constante,
+la ecuación que relaciona velocidad, aceleración y tiempo suele escribirse como sigue
+(reacomodando la ecuación 2.6):
+(sólo aceleración constante) (2.8)
+(Cabe señalar que el término at representa el cambiode velocidad, ya que at /H11005v /H11002v
+o /H11005/H9004v.)
+Ejemplo 2.4 ■ Arranque rápido, frenado lento: movimiento 
+con aceleración constante
+Un automóvil para “arrancones” que parte del reposo acelera en línea recta con una tasa
+constante de 5.5 m/s2 durante 6.0 s. a) ¿Qué velocidad tiene el vehículo al final de ese pe-
+riodo? b) Si en ese momento el carro despliega un paracaídas que lo frena con una tasa
+uniforme de 2.4 m/s2, ¿cuánto tardará en detenerse?
+Razonamiento. El vehículo primero acelera y luego frena, por lo que debemos fijarnos bien
+en los signos de dirección de las cantidades vectoriales. Elegimos un sistema de coordena-
+das con la dirección positiva en la dirección de la velocidad inicial. (Diagrame la situación.)
+Entonces podremos obtener las respuestas usando las ecuaciones adecuadas. Note que
+hay dos fases diferentes para el movimiento y, por lo tanto, dos aceleraciones diferentes.
+Vamos a distinguir tales fases con los subíndices 1 y 2.
+v = vo + at
+1a = a2,
+a = v - vo
+t =
+11 m>s - (25 m>s)
+5.0 s =- 2.8 m>s2
+ t = 5.0 s
+ = 11 m>s
+ v =140  km>h 2a
+0.278 m>s
+1  km>h 
+b
+ = 25 m>s
+a vo =190  km>h 2a
+0.278 m>s
+1  km>h 
+b
+APRENDER DIBUJANDO
+Signos de la velocidad 
+y la aceleración
+a  positiva
+v  positiva
+Resultado:más rápido
+en la
+dirección +x
+–x + x
+a  negativa
+v  positiva
+Resultado:más lento
+en la
+dirección +x
+a  positiva
+v  negativa
+Resultado:más lento
+en la
+dirección –x
+a  negativa
+v  negativa
+Resultado:más rápido
+en la
+dirección –x
+–x + x
+–x + x
+–x +x
+
+2.3 Aceleración 43
+Solución. Tomando el movimiento inicial en la dirección positiva, tenemos estos datos:
+Dado: a) Encuentre: a) (velocidad final para la primera 
+fase de movimiento)
+b) (tiempo para la segunda fase 
+b) de movimiento)
+Hemos presentado los datos en dos partes. Esto ayuda a no confundirse con los símbo-
+los. Observe que la velocidad final v1 que se calculará en el inciso a será la velocidad ini-
+cial vo en el inciso b.
+a) Para obtener la velocidad final, v, usamos directamente la ecuación 2.8:
+b) Aquí, queremos hallar el tiempo, así que despejamos t2 de la ecuación 2.6 y usamos 
+vo /H11005v1 /H1100533 m/s del inciso a para obtener, 
+Observe que el tiempo es positivo, como tendría que ser.
+Ejercicio de refuerzo. ¿Qué velocidad instantánea tiene el carro 10 segundos después de
+desplegar el paracaídas? (Las respuestas de todos los Ejercicios de refuerzo se dan al final del libro.)
+Es fácil representar gráficamente movimientos con aceleración constante graficando
+la velocidad instantánea contra el tiempo. En este caso una gráfica de v contra t es una
+recta cuya pendiente es igual a la aceleración, como se muestra en la ▼ figura 2.10. Note
+que la ecuación 2.8 se puede escribir como v /H11005at /H11001vo que, como reconocerá el lector, tie-
+ne la forma de la ecuación de una línea recta, y /H11005mx /H11001b (pendiente m e intersección b).
+t2 = v2 - vo
+a2
+=
+0 - (33 m>s)
+-2.4 m>s2 = 14 s
+v1 = vo + a1
+ t1 = 0 +15.5 m>s2216.0 s2 = 33 m>s
+ a2 =- 2.4 m>s2 1dirección opuesta de vo2
+ v2 = 0 1se detiene2
+ vo = v1 3del inciso a24
+t2 t1 = 6.0 s
+ a1 = 5.5 m>s2
+v1 vo = 0 1en reposo2
+Pend
+iente = +
+a
+b) Movimiento en dirección positiva: frena
+t0 0
+Pend
+iente = 
+–a
+v
+vo
+Velocidad
+Velocidad
+v
+vo
+Tiempo t Tiempo
+v = vo – at
+–at
+vo 
+v = vo + at
+at
+vo 
+a) Movimiento en dirección positiva: acelera
+c) Movimiento en dirección negativa: acelera d) Cambio de dirección
+–v –v
+–vo
+vo0
+0
+Velocidad
+Velocidad
+Tiempo
+Tiempo
+Pend
+iente =
+ –a
+Pend
+iente = 
+–a–at
+–at
+–v = –vo –at
+–v = vo – at2
+–vo 
+vo 
+t
+t1 t2
+▼ FIGURA 2.10 Gráficas de velocidad contra tiempo para movimientos con aceleración constanteLa pendiente de una gráfica 
+de v contra t es la aceleración. a) Una pendiente positiva indica un aumento de velocidad en la dirección positiva. Las flechas verticales
+a la derecha indican cómo la aceleración añade velocidad a la velocidad inicial vo. b) Una pendiente negativa indica una disminución
+de la velocidad inicial vo, es decir, una desaceleración. c) Aquí, una pendiente negativa indica una aceleración negativa, pero la velocidad
+inicial es en la dirección negativa, /H11002vo, así que la rapidez del objeto aumenta en esa dirección. d) La situación inicial aquí es similar 
+a la del inciso b, pero termina pareciéndose a la de c. ¿Puede el lector explicar qué sucedió en el tiempo t1?
+Ilustración 2.5 Movimiento en una
+columna o en una rampa
+
+44 CAPÍTULO 2 Cinemática: descripción del movimiento
+En la figura 2.10a, el movimiento es en la dirección positiva, y la aceleración aumenta 
+la velocidad después de un tiempo t, como indican las flechas verticales a la derecha de la
+gráfica. Aquí, la pendiente es positiva (a /H110220). En la figura 2.10b, la pendiente negativa 
+(a /H110210) indica una aceleración negativa que produce un frenado o desaceleración. Sin 
+embargo, la figura 2.10c ilustra cómo una aceleración negativa puede aumentar la velo-
+cidad (cuando el movimiento es en la dirección negativa). La situación en la figura 2.10d
+es un poco más compleja. ¿Puede el lector explicar qué está sucediendo ahí?
+Cuando un objeto se mueve con aceleración constante, su velocidad cambia en la
+misma cantidad en cada unidad de tiempo. Por ejemplo, si la aceleración es de 10 m/s
+2
+en la misma dirección que la velocidad inicial, la velocidad del objeto aumentará en 
+10 m/s cada segundo. Supongamos que el objeto tiene una velocidad inicial v
+o de 
+20 m/s en una dirección específica to /H110050. Entonces, para t /H110050, 1.0, 2.0, 3.0 y 4.0 s, las
+velocidades son 20, 30, 40, 50 y 60 m/s, respectivamente.
+La velocidad media podría calcularse de la forma acostumbrada (ecuación 2.3),
+pero también podríamos reconocer de inmediato que la serie uniformemente crecien-
+te de números 20, 30, 40, 50 y 60 tiene un valor medio de 40 (el valor que está en el
+punto medio de la serie), y Note que el promedio de los valores inicial y
+final también da el promedio de la serie; es decir, (20 /H1100160)/2 /H1100540. Sólo cuando la ve-
+locidad cambia a una tasa uniforme debido a una aceleración constante, es el pro-
+medio de las velocidades inicial y final:
+(sólo aceleración constante) (2.9)
+Ejemplo 2.5 ■ En el agua: uso de múltiples ecuaciones
+En un lago una lancha de motor que parte del reposo acelera en línea recta con una tasa
+constante de 3.0 m/s2 durante 8.0 s. ¿Qué distancia recorre en ese tiempo?
+Razonamiento. Sólo tenemos una ecuación para distancia (ecuación 2.3, ),
+pero no podemos usarla directamente. Primero debemos calcular la velocidad media, así
+que necesitaremos ecuaciones y pasos múltiples.
+Solución. Después de leer el problema, resumir los datos e identificar lo que se pide (su-
+poniendo que la lancha acelera en la dirección /H11001x), tenemos:
+Dado: Encuentre: x (distancia)
+(Observe que todas las unidades son estándar.)
+Al analizar el problema, podríamos razonar como sigue: para obtener x, tendre-
+mos que usar la ecuación 2.3 como (Debemos usar la velocidad media 
+porque la velocidad está cambiando, así que no es constante.) Como se nos dio el tiem-
+po, ya sólo nos falta obtener Por la ecuación 2.9, y, con v
+o /H110050 sólo 
+necesitamos la velocidad final v para resolver el problema. La ecuación 2.8, v /H11005vo /H11001at,
+nos permite calcular v a partir de los datos. Así pues, tenemos:
+La velocidad de la lancha al término de 8.0 s es
+La velocidad media en ese intervalo de tiempo es
+Por último, la magnitud del desplazamiento, que en este caso es igual a la distancia re-
+corrida, está dada por la ecuación 2.3 (teniendo la posición inicial de la lancha como el
+origen, x
+o /H110050):
+Ejercicio de refuerzo. (Avance.) En la sección 2.4 deduciremos la siguiente ecuación:
+Utilice los datos de este ejemplo para saber si esta ecuación da la distan-
+cia recorrida. (Las respuestas de todos los Ejercicios de refuerzo se dan al final del libro.)
+x = vo
+ t + 1
+2 at2.
+x = vt =112 m>s218.0 s2 = 96 m
+v = v + vo
+2 =
+24 m>s + 0
+2 = 12 m>s
+v = vo + at = 0 +13.0 m>s2218.0 s2 = 24 m>s
+v =1v + vo2>2,v.
+vx = xo + vt.
+ t = 8.0 s
+ a = 3.0 m>s2
+ vo = 0
+ xo = 0
+x = xo + vt
+v = v + vo
+2
+v
+v = 40 m>s.
+Exploración 2.3 Una cortina tapa tu
+visión de la pelota de golf
+
+2.4 Ecuaciones de cinemática (aceleración constante) 45
+2.4 Ecuaciones de cinemática (aceleración constante)
+OBJETIVOS: a) Explicar las ecuaciones de cinemática para aceleración cons-
+tante y b) aplicarlas a situaciones físicas.
+Sólo necesitamos tres ecuaciones básicas para describir los movimientos en una di-
+mensión con aceleración constante. En las secciones anteriores vimos que esas ecua-
+ciones son:
+(2.3)
+(sólo aceleración constante) (2.9)
+(sólo aceleración constante) (2.8)
+(Cabe señalar que la primera ecuación, ecuación 2.3, es general y no está limitada a si-
+tuaciones de aceleración constante, como las otras dos ecuaciones.)
+Sin embargo, como vimos en el ejemplo 2.5, la descripción del movimiento en
+algunos casos requiere aplicar varias de tales ecuaciones, lo cual quizá no sea evi-
+dente al principio. Sería útil reducir el número de operaciones que deben efectuarse
+para resolver problemas de cinemática, y podemos lograrlo combinando ecuaciones
+algebraicamente.
+Por ejemplo, suponga que queremos una expresión que dé la ubicación x en térmi-
+nos del tiempo y la aceleración, y no en términos del tiempo ni de la velocidad media
+(como en la ecuación 2.3). Podemos eliminar v de la ecuación 2.3 sustituyendo v de 
+la ecuación 2.9 en la ecuación 2.3:
+y
+(sólo aceleración constante) (2.10)
+Entonces, al sustituir v de la ecuación 2.8, obtenemos
+Al simplificar,
+(sólo aceleración constante) (2.11)
+En esencia, realizamos esta serie de pasos en el ejemplo 2.5. La ecuación combinada
+permite calcular directamente la distancia recorrida por la lancha de ese ejemplo:
+Es mucho más fácil, ¿no?
+Quizá deseamos una expresión que dé la velocidad en función de la posición x, no
+del tiempo (como en la ecuación 2.8). Podemos eliminar t de la ecuación 2.8 usando la
+ecuación 2.10 en la forma
+Entonces, al multiplicar esta ecuación por la ecuación 2.8 en la forma ( v /H11002v
+o) /H11005at
+tenemos
+y utilizando la relación para obtener
+(sólo aceleración constante) (2.12)v2 = vo
+2 + 2a1x - xo2
+v2 - vo
+2 =1v + vo21v - vo2,
+1v + vo21v - vo2 = 2a1x - xo2
+v + vo = 2 
+1x - xo2
+t
+x - xo =¢ x = vo
+ t + 1
+2 at2 = 0 + 1
+2 13.0 m>s2218.0 s22 = 96 m
+x = xo + vo
+ t + 1
+2 at2
+x = xo + 1
+2 1vo + at + vo2t
+x = xo + 1
+2 1v + vo2t
+x = xo + vt
+  v = vo + at
+ v = v + vo
+2
+ x = xo + vt
+Nota: /H9004x /H11005x /H11002xo es desplaza-
+miento, pero con xo /H110050, como
+suele ser, /H9004x /H11005x, y el valor de 
+la posición x es el mismo que el
+del desplazamiento. Esto nos 
+ahorra tener que escribir siempre
+/H9004x /H11005x /H11002x
+o.
+Exploración 2.4 Determine x(t) de un
+Monster Truck
+
+46 CAPÍTULO 2 Cinemática: descripción del movimiento
+Sugerencia para resolver problemas
+Los estudiantes de cursos de introducción a la física a veces se sienten abrumados por
+las diversas ecuaciones de cinemática. No hay que olvidar que las ecuaciones y las ma-
+temáticas son las herramientas de la física. Todo mecánico o carpintero sabe que las
+herramientas facilitan el trabajo en la medida en que uno las conoce y sabe usarlas. 
+Lo mismo sucede con las herramientas de la física.
+Si resumimos las ecuaciones para movimiento rectilíneo con aceleración constante
+tenemos:
+(2.8)
+(2.10)
+(2.11)
+(2.12)
+Este conjunto de ecuaciones se utiliza para resolver la mayoría de los problemas de
+cinemática. (Ocasionalmente, nos interesará una rapidez o una velocidad media
+pero, como ya señalamos, en general los promedios no nos dicen mucho.)
+Observe que todas las ecuaciones de la lista tienen cuatro o cinco variables. Es pre-
+ciso conocer todas las variables de una ecuación, menos una, para calcular lo que nos
+interesa. Por lo común elegimos una ecuación con la incógnita o la cantidad que se
+busca. Pero, como señalamos, hay que conocer las otras variables de la ecuación. Si no
+es así, entonces se habrá elegido la ecuación incorrecta y deberá utilizarse otra ecua-
+ción para encontrar la variable. (Otra posibilidad es que no se hayan dado los datos su-
+ficientes para resolver el problema, aunque ése no sería el caso en este libro de texto.)
+Siempre hay que intentar entender y visualizar los problemas. Una lista de los da-
+tos, como la que se describe en el procedimiento para resolver problemas sugerido en
+el capítulo 1, nos ayudaría a decidir qué ecuación usar, pues nos indica las variables
+conocidas y las incógnitas. Recuerde esta estrategia al resolver los demás ejemplos de
+este capítulo. También es importante no pasar por alto datos implícitos, error que ilustra
+el ejemplo 2.6.
+Ejemplo conceptual 2.6 ■ ¡Algo está mal!
+Un estudiante trabaja en un problema en el que interviene un objeto que acelera de ma-
+nera constante; el estudiante quiere encontrar v. Se sabe que vo /H110050 y t /H110053.0 s, pero no
+se conoce la aceleración a. Él examina las ecuaciones cinemáticas y decide, utilizando 
+v /H11005at y (con xo /H11005vo /H110050), que puede eliminarse la incógnita a. Con a /H11005v/t
+y a /H110052x/t2 e igualando,
+pero x no se conoce, así que decide emplear x /H11005vt para eliminarla, y
+Se simplifica,
+¿Qué está incorrecto aquí?
+Razonamiento y respuesta. Evidentemente, se cometió un error grave y tiene que ver con
+el procedimiento de la resolución de problemas de la sección 1.7. El paso 4 dice: Determi-
+ne qué principios y ecuaciones se aplican a esta situación.Puesto que sólo se utilizaron ecuacio-
+nes, una de ellas no debe aplicarse a esta situación. Al hacer una revisión y analizar, esto
+resulta ser x /H11005vt, que se aplica sólo al movimiento no acelerado y, por lo tanto, no se apli-
+ca a este problema.
+Ejercicio de refuerzo. Si sólo se conocen vo y t, ¿hay alguna forma de encontrar v utilizando
+las ecuaciones cinemáticas dadas? Explique su respuesta. (Las respuestas a todos los ejercicios
+de refuerzo aparecen al final del libro.)
+v = 2v o 1 = 2!
+v>t = 2vt>t2
+v>t = 2x>t2
+x = 1
+2 at2
+ v2 = vo
+2 + 2a1x - xo2
+ x = xo + vo
+ t + 1
+2 at2
+ x = xo + 1
+2 1v + vo2t
+ v = vo + at
+Ilustración 2.4 Aceleración constante
+y medición
+Exploración 2.5 Determine x(t) y v(t)
+del Lamborghini
+
+2.4 Ecuaciones de cinemática (aceleración constante) 47
+Ejemplo 2.7 ■ Separación: ¿dónde están ahora?
+Dos pilotos de carritos están separados por 10 m en una pista larga y recta, mirando en
+direcciones opuestas. Ambos parten al mismo tiempo y aceleran con una tasa constante
+de 2.0 m/s2. a) ¿Qué separación tendrán los carritos luego de 3.0 s?
+Razonamiento. Sólo sabemos que los carritos tienen una separación inicial de 10 m, de
+manera que podemos colocarlos en cualquier punto del eje x. Es conveniente colocar uno
+en el origen para que una posición inicial ( xo) sea cero. En la ▲ figura 2.11 se muestra un
+diagrama de la situación.
+Solución. El diagrama nos indica que tenemos los siguientes datos:
+Dado: Encuentre: la separación en t /H110053.0 s
+El desplazamiento que cada vehículo recorre está dada por la ecuación 2.11 [la única
+ecuación de desplazamiento ( /H9004x) que incluye la aceleración ( a)]: 
+Pero espere: vo no está en la lista Dado. Quizá pasamos por alto algún dato implícito.
+De inmediato nos damos cuenta de que vo /H110050 para ambos vehículos, así que
+y
+Entonces, el vehículo A está 9 m a la izquierda del origen sobre el eje /H11002x, mientras que el
+vehículo B está en una posición de 19 m a la derecha sobre el eje /H11001x. Por lo tanto, la se-
+paración entre los dos carritos es de 28 m.
+Ejercicio de refuerzo. ¿Sería diferente la separación si hubiéramos tomado la posición
+inicial del vehículo B como el origen, en vez de la del vehículo A? ( Las respuestas de todos
+los Ejercicios de refuerzo se dan al final del libro.)
+ = 10 m + 0 + 1
+2 (2.0 m>s2)(3.0 s)2 = 19 m
+ xB = xoB + voB
+ 
+t + 1
+2 
+aBt2
+ = 0 + 0 + 1
+2 1-2.0 m>s2213.0 s22 =- 9 m
+ xA = xoA + voA
+ t + 1
+2 aA
+ t2
+x = xo + vo
+ t + 1
+2 at2.
+ aB = 2.0 m>s2
+ xoB = 10 m
+ t = 3.0 s
+ aA =- 2.0 m>s2
+ xoA = 0
+Separación
+inicial
+= 10 m
+Separación final = ?
+x = 0 x = 10 m
+A
+A
+B
+B
++–
+▲ FIGURA 2.11 ¡Allá van! Dos carritos aceleran en direcciones opuestas. ¿Qué separación
+tienen en un momento posterior? Véase el ejemplo 2.7.
+
+48 CAPÍTULO 2 Cinemática: descripción del movimiento
+Ejemplo 2.8 ■ Frenado: distancia en que un vehículo para
+La distancia de frenado de un vehículo es un factor importante para la seguridad en los
+caminos. Esta distancia depende de la velocidad inicial (vo) y de la capacidad de frenado
+que produce la desaceleración, a, que suponemos constante. (En este caso, el signo de la
+aceleración es negativo, ya que es opuesto al de la velocidad, que suponemos positivo.
+Así pues, el vehículo disminuye su velocidad hasta parar.) Exprese la distancia de frena-
+do x en términos de estas cantidades.
+Razonamiento. Una vez más, necesitamos una ecuación de cinemática, y una lista de lo
+que se da y lo que se pide indica cuál es la apropiada. Se nos pide una distancia x, y no 
+interviene el tiempo.
+Solución. Estamos trabajando con variables, así que sólo podemos representar las canti-
+dades en forma simbólica.
+Dado: (dirección positiva x) Encuentre: distancia de frenado x
+a ( dirección opuesta de vo) (en términos de las variables dadas)
+(el automóvil se detiene)
+(el origen es la posición inicial del automóvil)
+Aquí también ayuda diagramar la situación, sobre todo porque intervienen cantidades
+vectoriales ( ▲ figura 2.12). Dado que la ecuación 2.12 tiene las variables que queremos,
+nos deberá permitir encontrar la distancia de frenado x. Si expresamos la aceleración
+negativa explícitamente ( /H11002a) y suponemos xo /H110050, tendremos
+Puesto que el vehículo se para ( v /H110050), podemos despejar x:
+Esta ecuación da x en términos de la rapidez inicial del vehículo y la aceleración de
+frenado. Observemos que la distancia de frenado x es proporcional al cuadrado de la 
+rapidez inicial. Por lo tanto, si la rapidez inicial es el doble, la distancia de frenado au-
+mentará en un factor de 4 (con la misma desaceleración). Es decir, si la distancia de de-
+saceleración es x
+1 con una rapidez  inicial de v1, con un aumento del doble en la rapidez
+inicial (v2 /H110052v1) la distancia de frenado aumentará cuatro veces:
+Podemos obtener el mismo resultado usando cocientes:
+¿Será importante esta consideración para fijar límites de rapidez, digamos, en zonas
+escolares? (También habría que considerar el tiempo de reacción del conductor. En la sec-
+ción 2.5 se da un método para aproximar el tiempo de reacción de una persona.)
+x
+2
+x1
+= v2
+2
+v1
+2 = ¢ v2
+v1
+≤
+2
+= 22 = 4
+ x2 = v2
+2
+2a =
+12v122
+2a = 4¢ v1
+2
+2a≤ = 4x1
+ x1 = v1
+2
+2a
+x = vo
+2
+2a
+v2 = vo
+2 - 2ax
+ xo = 0
+v = 0
+6 0,
+vo
+a
+Automóvil detenido
+v = 0
+x = ?
+(Distancia de frenado)
++–
+vo
+xo = 0
+▲ FIGURA 2.12 Distancia en que para un vehículo Dibujo para visualizar la situación del
+ejemplo 2.8.
+
+Velocidad
+v
+Tiempo
+ a)
+t
+A
+Velocidad
+v
+vo
+Tiempo
+ b)
+t
+A2
+A1
+▲ FIGURA 2.13 Gráficas de v
+contra t, otra vez a) En la recta de
+aceleración constante, el área bajo 
+la curva es igual a x, la distancia 
+recorrida. b) Aunque v
+o no sea cero,
+la distancia está dada por el área
+bajo la curva, que se dividió en dos
+partes, las áreas A
+l y A2.
+2.5 Caída libre 49
+Ejercicio de refuerzo. Las pruebas han demostrado que el Chevy Blazer tiene una desace-
+leración de frenado media de 7.5 m/s2; en tanto que la de un Toyota Célica es de 9.2 m/s2.
+Suponga que dos de estos vehículos se están conduciendo por un camino recto y plano a
+97 km/h (60 mi/h), con el Célica adelante del Blazer. Un gato se cruza en el camino fren-
+te a ellos, y ambos conductores aplican los frenos al mismo tiempo y se detienen sin 
+percance (sin arrollar ni golpear al gato). Suponiendo que ambos conductores tienen ace-
+leración constante y el mismo tiempo de reacción, ¿a qué distancia mínima debe ir el Bla-
+zer del Célica para que no choque con éste cuando los dos vehículos se detienen? ( Las
+respuestas de todos los Ejercicios de refuerzo se dan al final del libro.)
+Análisis gráfico de ecuaciones de cinemática
+Como se mostró en la figura 2.10, las gráficas de v contra t dan una línea recta cuya
+pendiente son los valores de la aceleración constante. Las gráficas de v contra t tienen
+otro aspecto interesante. Consideremos la que se muestra en la Nfigura 2.13a, en espe-
+cial el área sombrada bajo la curva. Suponga que calculamos el área del triángulo som-
+breado donde, en general, 
+En la gráfica de la figura 2.13a, la altura es v y la base es t, así que Por la 
+ecuación v /H11005vo /H11001at, tenemos v /H11005at, donde vo /H110050 (la intersección). Por lo tanto,
+Entonces, /H9004x, el desplazamiento, es igual al área bajo una curva de v contra t.
+Examinemos ahora la figura 2.13b. Aquí, vo tiene un valor distinto de cero en 
+t /H110050, o sea que el objeto ya se está moviendo. Consideremos las dos áreas sombrea-
+das. Sabemos que el área del triángulo es y el área del rectángulo es (con 
+xo /H110050) A1 /H11005vot. Si sumamos estas áreas para obtener el área total, tenemos
+Es tan sólo la ecuación 2.11, que es igual al área bajo la curva de v contra t.
+2.5 Caída libre
+OBJETIVO: Usar las ecuaciones de cinemática para analizar la caída libre.
+Uno de los casos más comunes de aceleración constante es la aceleración debida a la
+gravedad cerca de la superficie terrestre. Cuando dejamos caer un objeto, su veloci-
+dad inicial (en el momento en que se suelta) es cero. En un momento posterior, mien-
+tras cae, tiene una velocidad distinta de cero. Hubo un cambio en la velocidad y, por
+lo tanto, por definición hubo una aceleración. Esta aceleración debida a la gravedad
+(g) cerca de la superficie terrestre tiene una magnitud aproximada de
+(aceleración debida a la gravedad)
+(o 980 cm/s
+2) y está dirigida hacia abajo (hacia el centro de la Tierra). En unidades in-
+glesas, el valor de g es de aproximadamente 32.2 ft/s2.
+Los valores que damos aquí para g son aproximados porque la aceleración debida
+a la gravedad varía un poco en los diferentes lugares, como resultado de diferencias en
+la altura sobre el nivel del mar y en la densidad media regional de masa de la Tierra. En
+este libro ignoraremos esas pequeñas variaciones, a menos que se indique lo contrario.
+(La gravedad se estudia con mayor detalle en el capítulo 7.) La resistencia del aire es
+otro factor que afecta (reduce) la aceleración de un objeto que cae; pero también la ig-
+noraremos aquí por sencillez. (Consideraremos el efecto de fricción de la resistencia del
+aire en el capítulo 4.)
+Decimos que los objetos que se mueven únicamente bajo la influencia de la gravedad están
+en caída libre. Las palabras “caída libre” nos hacen imaginar objetos que se dejan caer.
+No obstante, el término se puede aplicar en general a cualquier movimiento vertical
+bajo la influencia exclusiva de la gravedad. Los objetos que se sueltan desde el reposo
+g = 9.80 m>s2
+A1 + A2 = vo
+ t + 1
+2 at2 =¢ x
+A2 = 1
+2 at2,
+A = 1
+2 vt = 1
+2 1at2t = 1
+2 at2 =¢ x
+A = 1
+2 vt.
+A = 1
+2 ab CÁrea = 1
+2 1altitud21base2D.
+Exploración 2.8 Determine el área
+bajo a(t) y v(t)
+
+50 CAPÍTULO 2 Cinemática: descripción del movimiento
+ a)  b)
+▼ FIGURA 2.14 Caída libre y resistencia del aire a) Cuando se dejan caer simultánea-
+mente de la misma altura, una pluma cae más lentamente que una moneda, a causa de la
+resistencia del aire. En cambio, cuando ambos objetos se dejan caer en un recipiente donde
+se hizo un buen vacío parcial, en el que la resistencia del aire es insignificante, la pluma 
+y la moneda caen juntas con la misma aceleración constante. b) Demostración real con
+imagen de destello múltiple: una manzana y una pluma se sueltan simultáneamente 
+a través de una escotilla en una cámara de vacío grande, y caen juntas… o casi. Puesto 
+que el vacío es sólo parcial, todavía hay cierta resistencia del aire. (¿Qué piensa usted?)
+o que se lanzan hacia arriba o hacia abajo están en caída libre una vez que se suel-
+tan. Es decir, después de t /H110050 (el momento del lanzamiento), sólo la gravedad in-
+fluye en el movimiento. (Incluso cuando un objeto proyectado hacia arriba está
+ascendiendo, está acelerando hacia abajo .) Por lo tanto, podemos usar el conjunto de
+ecuaciones para movimiento en una dimensión con aceleración constante, para 
+describir la caída libre.
+La aceleración debida a la gravedad, g, tiene el mismo valor de todos los objetos
+en caída libre, sin importar su masa ni su peso. Antes se pensaba que los cuerpos más
+pesados caían más rápido que los más ligeros. Este concepto formó parte de la teoría
+del movimiento de Aristóteles. Es fácil observar que una moneda cae más rápidamen-
+te que una hoja de papel cuando se dejan caer simultáneamente desde la misma altu-
+ra. Sin embargo, en este caso la resistencia del aire es muy importante. Si el papel se
+arruga hasta formar una bolita compacta, dará más batalla a la moneda. Asimismo,
+una pluma “flota” hacia abajo mucho más lentamente que una moneda que cae. No
+obstante, en un vacío aproximado, donde la resistencia del aire es insignificante, la
+pluma y la moneda caerán con la misma aceleración: la aceleración debida a la grave-
+dad (
+▼ figura 2.14).
+El astronauta David Scott realizó un experimento similar en la Luna en 1971, al de-
+jar caer simultáneamente una pluma y un martillo desde la misma altura. No necesitó
+una bomba de vacío: la Luna no tiene atmósfera y por consiguiente no hay resistencia
+del aire. El martillo y la pluma llegaron a la superficie lunar juntos; pero ambos caye-
+ron más lentamente que en la Tierra. La aceleración debida a la gravedad cerca de la
+superficie lunar es aproximadamente la sexta parte de la que tenemos cerca de la su-
+perficie terrestre (g
+M /H11015g/H208626).
+Las ideas que gozan actualmente de aceptación en cuanto al movimiento de
+cuerpos que caen se deben en gran medida a Galileo, quien desafió la teoría de Aris-
+tóteles e investigó experimentalmente el movimiento de tales objetos. Según la le-
+yenda, Galileo estudió la aceleración de cuerpos que caen dejando caer objetos de
+diferente peso desde lo alto de la Torre Inclinada de Pisa. (Véase la sección “A fon-
+do” sobre Galileo.)
+
+2.5 Caída libre 51
+2.1 Galileo Galilei y la Torre Inclinada de Pisa
+Galileo Galilei (▲ figura 1) nació en Pisa, Italia, en 1564 durante
+el Renacimiento. En la actualidad se le conoce en todo el mun-
+do por su nombre de pila y muchos lo consideran el padre de la
+ciencia moderna y la física experimental, lo cual avala la magni-
+tud de sus aportaciones científicas.
+Una de las mayores contribuciones de Galileo a la ciencia
+fue el establecimiento del método científico, es decir, la investiga-
+ción por experimentación. En cambio, el enfoque de Aristóteles
+se basaba en la deducción lógica. En el método científico, para
+que una teoría sea válida, debe predecir o coincidir correctamen-
+te con resultados experimentales. Si no es así, o no es válida o de-
+be modificarse. Galileo señalaba: “Creo que en el estudio de
+problemas naturales no debemos partir de la autoridad de lu-
+gares de las Escrituras, sino de experimentos razonables y de 
+demostraciones necesarias”.*
+Tal vez la leyenda más popular y conocida acerca de Gali-
+leo sea que realizó experimentos dejando caer objetos desde la
+Torre Inclinada de Pisa (
+Nfigura 2). Se ha puesto en duda que
+Galileo lo haya hecho realmente, pero de lo que no hay duda es
+de que cuestionó la perspectiva de Aristóteles respecto al movi-
+miento de cuerpos que caen. En 1638, Galileo escribió:
+Aristóteles dice que una esfera de hierro de cien libras que
+cae de una altura de cien codos llega al suelo antes 
+que una esfera de una libra haya caído un solo cúbito. Yo
+digo que llegan al mismo tiempo. Al realizar el experi-
+mento, constatamos que la más grande rebasa a la más pe-
+queña por el espesor de dos dedos; es decir, cuando la
+mayor ha llegado al suelo, la otra está a dos grosores de
+dedo del suelo; no creo que tras esos dos dedos podamos
+ocultar los noventa y nueve cúbitos de Aristóteles.
+†
+Éste y otros escritos revelan que Galileo conocía el efecto de la
+resistencia del aire.
+Los experimentos en la Torre de Pisa supuestamente se
+efectuaron alrededor de 1590. En sus escritos de esa época, Ga-
+lileo dice haber dejado caer objetos desde una torre alta, aun-
+que nunca menciona específicamente la Torre de Pisa. Una
+carta que otro científico escribió a Galileo en 1641 describe la
+acción de dejar caer una bala de cañón y una de mosquete des-
+de la Torre de Pisa. El primer relato que menciona un experi-
+mento similar de Galileo lo escribió Vincenzo Viviani, su último
+discípulo y primer biógrafo, doce años después de su muerte.
+No se sabe si Galileo se lo contó a Viviani en sus años postreros
+o si Viviani creó esta imagen de su antiguo maestro.
+Lo importante es que Galileo reconoció (y probablemente
+demostró experimentalmente) que los objetos en caída libre
+caen con la misma aceleración, sea cual fuere su masa o peso.
+(Véase la figura 2.14.) Galileo no explicó por qué todos los obje-
+tos en caída libre tienen la misma aceleración; pero Newton sí
+lo hizo, como veremos en un capítulo posterior.
+A FONDO
+†De Aristotle Galileo and the Tower of Pisa , por L. Cooper(Ithaca,
+NY: Cornell University Press, 1935).
+*De Growth of Biological Thought: Diversity, Evolution & Inheritance,
+por F. Meyr (Cambridge, MA: Harvard University Press, 1982).
+FIGURA 2 La Torre Inclinada de PisaConstruida como
+campanario para una catedral cercana, se edificó sobre un
+subsuelo inestable. Su construcción se inició en 1173, y comenzó
+a tenderse hacia un lado y luego hacia el otro, antes de inclinarse
+en su dirección actual. Hoy día, la torre diverge unos 5 m (16 ft)
+de la vertical en su parte superior. Se cerró en 1990 y se hizo un
+intento por estabilizarla y corregir la inclinación. Luego de cierta
+mejoría en la torre se abrió nuevamente al público. 
+FIGURA 1 Galileo Se dice que Galileo realizó
+experimentos de caída libre dejando caer objetos 
+desde la Torre Inclinada de Pisa.
+
+52 CAPÍTULO 2 Cinemática: descripción del movimiento
+Se acostumbra usar y para representar la dirección vertical y considerar positivo
+hacia arriba (como en el eje y vertical de las coordenadas cartesianas). Como la acelera-
+ción debida a la gravedad siempre es hacia abajo, está en la dirección y negativa. Esta
+aceleración negativa, a /H11005/H11002g /H11005/H110029.80 m/H20862s
+2, se sustituye en las ecuaciones de movi-
+miento; sin embargo, la relación a /H11005/H11002g se puede expresar explícitamente en las ecua-
+ciones de movimiento rectilíneo, por conveniencia:
+(2.8’)
+(2.11’)
+(2.12’)
+La ecuación 2.10 también es válida, pero no contiene a g:
+(2.10’)
+Por lo regular se toma el origen ( y /H110050) del marco de referencia como la posición ini-
+cial del objeto. El hecho de escribir explícitamente /H11002g en las ecuaciones nos recuerda
+su dirección.
+Las ecuaciones se pueden escribir con a /H11005g; por ejemplo, v /H11005vo /H11001gt, asociando el
+signo menos directamente a g. En este caso, siempre sustituiremos /H110029.80 m/H20862s2 por g.
+No obstante, cualquier método funciona y la decisión es arbitraria . Quizá su profesor
+prefiera uno u otro método.
+Note que siempre debemos indicar explícitamente las direcciones de las cantida-
+des vectoriales. La posición y y las velocidades v y vo podrían ser positivas (hacia arri-
+ba) o negativas (hacia abajo); pero la aceleración debida a la gravedad siempre es hacia
+abajo.
+El empleo de estas ecuaciones y la convención del signo (con /H11002g explícitamente
+expresado en las ecuaciones) se ilustran en los ejemplos que siguen. (Esta convención
+se usará durante todo el texto.)
+Ejemplo 2.9 ■ Piedra lanzada hacia abajo: repaso de ecuaciones 
+de cinemática
+Un niño parado sobre un puente lanza una piedra verticalmente hacia abajo con una ve-
+locidad inicial de 14.7 m/s, hacia el río que pasa por abajo. Si la piedra choca contra el
+agua 2.00 s después, ¿a qué altura está el puente sobre el agua?
+Razonamiento. Es un problema de caída libre, pero hay que observar que la velocidad
+inicial es hacia abajo, o negativa. Es importante expresar de manera explícita este hecho.
+Dibuje un diagrama para que le ayude a analizar la situación, si lo considera necesario.
+Solución. Como siempre, primero escribimos lo que nos dan y lo que nos piden:
+Dado: (se toma hacia abajo Encuentre: y (altura del puente
+como dirección negativa) sobre el agua)
+Observe que g se toma como número positivo, porque en nuestra convención el signo
+menos direccional ya se incluyó en las anteriores ecuaciones de movimiento.
+¿Qué ecuación(es) dará(n) la solución con los datos proporcionados? Debería ser evi-
+dente que la distancia que la piedra recorre en un tiempo t está dada directamente por la
+ecuación 2.11’. Tomando yo /H110050:
+El signo menos indica que el desplazamiento es hacia abajo. Así pues, la altura del puen-
+te es 49.0 m.
+Ejercicio de refuerzo. ¿Cuánto más tardaría la piedra de este ejemplo en tocar el agua, si
+el niño la hubiera dejado caer en vez de lanzarla? ( Las respuestas de todos los Ejercicios de 
+refuerzo se dan al final del libro.)
+ =- 29.4 m - 19.6 m =- 49.0 m
+ y = vo
+ t - 1
+2 gt2 =1-14.7 m>s212.00 s2 - 1
+2 19.80 m>s2212.00 s22
+ g 1= 9.80 m>s22
+ t = 2.00 s
+ vo =- 14.7 m>s
+y = yo + 1
+2 1v + vo2t
+v2 = vo
+2 - 2g1y - yo2
+(Ecuaciones de caída libre con
+ay =- g expresada explícitamente)y = yo + vo
+ t - 1
+2 gt2
+v = vo - gt
+Ilustración 2.6 Caída libre
+
+2.5 Caída libre 53
+El tiempo de reacción es el tiempo que un individuo necesita para notar, pensar y ac-
+tuar en respuesta a una situación; por ejemplo, el tiempo que transcurre entre que se
+observa por primera vez una obstrucción en el camino cuando se conduce un automó-
+vil, y se responde a ella aplicando los frenos. El tiempo de reacción varía con la com-
+plejidad de la situación (y con el individuo). En general, la mayoría del tiempo de
+reacción de una persona se dedica a pensar, pero la práctica en el manejo de una situa-
+ción dada puede reducir ese tiempo. El siguiente ejemplo explica un método para me-
+dir el tiempo de reacción.
+Ejemplo 2.10 ■ Medición del tiempo de reacción: caída libre
+El tiempo de reacción de una persona puede medirse pidiendo a otra persona que deje
+caer una regla (sin previo aviso), cuya base está a la altura del pulgar y el índice de la pri-
+mera persona, y entre ellos, como se muestra en la 
+Nfigura 2.15. La primera persona suje-
+ta lo antes posible la regla que cae, y se toma nota de la longitud de la regla que queda
+por debajo del dedo superior. Si la regla desciende 18.0 cm antes de ser atrapada, ¿qué
+tiempo de reacción tiene la persona?
+Razonamiento. Intervienen tanto la distancia como el tiempo. Esta observación indica la
+ecuación de cinemática que debería usarse.
+Solución. Observamos que sólo se da la distancia de caída. Sin embargo, sabemos algu-
+nas cosas más, como vo y g, así que, tomando yo /H110050:
+Dado: Encuentre: t (tiempo de reacción)
+(Observe que la distancia y se convirtió en metros. ¿Por qué?) Vemos que la ecuación per-
+tinente es la 2.11’ (con vo /H110050), que da
+Despejando t,
+Pruebe este experimento con un compañero y mida su tiempo de reacción. ¿Por qué
+cree que debe ser otra persona la que deje caer la regla?
+Ejercicio de refuerzo. Un truco popular consiste en usar un billete nuevo de dólar en vez
+de la regla de la figura 2.15, y decir a la persona que puede quedarse con el billete si lo
+puede atrapar. ¿Es buen negocio la propuesta? (La longitud de un billete de dólar es de
+15.7 cm.) (Las respuestas de todos los Ejercicios de refuerzo se dan al final del libro.)
+Ejemplo 2.11 ■ Caída libre hacia arriba y hacia abajo: 
+uso de datos implícitos
+Un trabajador que está parado en un andamio junto a una valla lanza una pelota verti-
+calmente hacia arriba. La pelota tiene una velocidad inicial de 11.2 m/s cuando sale de
+la mano del trabajador en la parte más alta de la valla (
+▼ figura 2.16). a) ¿Qué altura má-
+xima alcanza la pelota sobre la valla? b) ¿Cuánto tarda en llegar a esa altura? c) ¿Dónde
+estará la pelota en t /H110052.00 s?
+Razonamiento. En el inciso a), sólo hay que considerar la parte ascendente del movimiento.
+Note que la pelota se detiene (velocidad instantánea cero) en la altura máxima, lo cual nos
+permite determinar esa altura. b) Conociendo la altura máxima, podemos determinar el tiem-
+po de ascenso. En c), la ecuación distancia-tiempo (ecuación 2.11’) es válida para cualquier
+tiempo y da la posición (y) de la pelota relativa al punto de lanzamiento en t /H110052.00 s.
+t =
+A
+2y
+- g = B
+21-0.180 m2
+-9.80 m>s2 = 0.192 s
+y =- 1
+2 gt2
+ g 1= 9.80 m>s22
+ vo = 0
+ y =- 18.0 cm =- 0.180 m
+▲ FIGURA 2.15 Tiempo de 
+reacción El tiempo de reacción 
+de una persona puede medirse 
+pidiéndole que sujete una regla
+que se deja caer. Véase el ejemplo
+2.10. 
+(continúa en la siguiente página)
+
+54 CAPÍTULO 2 Cinemática: descripción del movimiento
+EWTON'S
+yo = 0 
+g v
+v
+g
+gg
+v = 0 
+ymáx 
+y = ymáx 
+g
+v
+vo = 11.2 m/s
+▲ FIGURA 2.16 Caída libre hacia arriba y hacia abajo Observe la longitud de los 
+vectores de velocidad y aceleración en diferentes tiempos. (Las trayectorias ascendente 
+y descendente de la pelota se desplazaron horizontalmente para tener una mejor 
+ilustración.) Véase el ejemplo 2.11.
+Solución. Parecería que lo único que se da en el problema general es la velocidad inicial
+vo en el tiempo to. Sin embargo, se sobreentiende un par de datos más. Uno, desde luego,
+es la aceleración g, y el otro es la velocidad en la altura máxima, donde la pelota se detie-
+ne. Aquí, al cambiar de dirección, la velocidad de la pelota es momentáneamente cero, 
+así que tenemos (tomando otra vez y
+o /H110050):
+Dado: Encuentre: a) ymáx (altura máxima por arriba del punto de
+lanzamiento)
+(en ymáx) b) ta (tiempo de ascenso)
+[para el inciso c] c) y (en t /H110052.00 s)
+a) Nos referimos a la altura de la parte más alta de la valla (yo /H110050). En esta parte del pro-
+blema sólo nos ocupamos del movimiento ascendente: se lanza una pelota hacia arriba y
+se detiene en su altura máxima y
+máx. Con v /H110050 a esta altura, podemos obtener ymáx direc-
+tamente de la ecuación 2.12’:
+Así que,
+relativa al borde superior de la valla (yo /H110050; véase la figura 2.16).
+b) Sea ta el tiempo en que la pelota sube a su altura máxima. Éste es el tiempo que la pe-
+lota tarda en alcanzar ymáx, donde v /H110050. Puesto que conocemos vo y v, obtenemos el tiem-
+po ta directamente de la ecuación 2.8’:
+Entonces,
+ta = vo
+g =
+11.2 m>s
+9.80 m>s2 = 1.14 s
+v = 0 = vo - gta
+ymáx = vo
+2
+2g
+=
+111.2 m>s22
+219.80 m>s22
+= 6.40 m
+v2 = 0 = vo
+2 - 2gymax
+ t = 2.00 s
+ v = 0
+ g 1= 9.80 m>s22
+ vo = 11.2 m>s
+
+2.5 Caída libre 55
+c) La altura de la pelota en t /H110052.00 s está dada directamente por la ecuación 2.11’:
+Observe que esta altura de 2.8 m se mide hacia arriba desde el punto de referencia (yo /H110050).
+La pelota alcanzó su altura máxima y empieza su descenso.
+Considerada desde otro punto de referencia, la situación del inciso c se analiza como
+si se dejara caer una pelota desde una altura de ymáx sobre la parte superior de la valla con
+vo /H110050, y preguntando qué distancia cae en un tiempo t /H110052.00 s /H11002ta 2.00 s /H110021.14 s /H110050.86 s.
+La respuesta es (con yo /H110050 en la altura máxima):
+Esta altura es la misma que la posición que obtuvimos antes, sólo que se mide con respec-
+to a la altura máxima como punto de referencia; es decir,
+arriba del punto de inicio.
+Ejercicio de refuerzo. ¿A qué altura la pelota de este ejemplo tiene una rapidez de 5.00 m/s?
+(Sugerencia: la pelota alcanza esta altura dos veces, una de subida y otra de bajada.) ( Las
+respuestas de todos los Ejercicios de refuerzo se dan al final del libro.)
+Veamos un par de hechos interesantes relacionados con el movimiento en caída
+libre de un objeto lanzado hacia arriba en ausencia de resistencia del aire. Primero, si
+el objeto regresa a su elevación de lanzamiento, entonces los tiempos de ascenso y
+descenso son iguales. Asimismo, en la cúspide de la trayectoria, la velocidad del obje-
+to es cero durante un instante, pero la aceleración se mantiene, incluso ahí, en el valor
+constante de 9.8 m/s
+2 hacia abajo. Si la aceleración se volviera cero, el objeto perma-
+necería ahí, ¡como si la gravedad habría dejado de actuar!
+Por último, el objeto regresa a su punto de origen con la misma rapidez con la
+que fue lanzado. (Las velocidades tienen la misma magnitud, pero tienen diferente
+dirección.)
+Sugerencia para resolver problemas
+Al resolver problemas de proyección vertical en que intervienen movimientos ascen-
+dentes y descendentes, a menudo se recomienda dividir el problema en dos partes y
+considerarlas por separado. Como vimos en el ejemplo 2.11, en la parte ascendente
+del movimiento la velocidad es cero en la altura máxima. Por lo general una cantidad
+de cero simplifica los cálculos. Asimismo, la parte descendente del movimiento es
+análoga a la de un objeto que se deja caer desde la altura máxima, donde la veloci-
+dad inicial cero.
+No obstante, como muestra el ejemplo 2.11, podemos usar directamente las ecua-
+ciones adecuadas para cualquier posición o tiempo del movimiento. Por ejemplo, en
+el inciso c notamos que la altura se obtuvo directamente para un tiempo después de
+que la pelota había alcanzado la altura máxima. También podríamos haber calculado
+directamente la velocidad de la pelota con la ecuación 2.8/H11032, v /H11005vo /H11002gt.
+También observe que la posición inicial siempre se tomó como y
+o /H110050. Este su-
+puesto generalmente es válido y se acepta por conveniencia cuando en la situación
+sólo interviene un objeto (entonces, y
+o /H110050 en to /H110050). Esta convención puede ahorrar
+mucho tiempo al plantear y resolver ecuaciones.
+Lo mismo es válido con un solo objeto en movimiento horizontal: generalmente
+podemos tomar xo /H110050 en to /H110050. Sin embargo, en este caso hay un par de excepciones:
+primera, si el problema especifica que el objeto está situado inicialmente en una posi-
+ción distinta de x
+o /H110050; segunda, si en el problema intervienen dos objetos, como en el
+ejemplo 2.7. En este caso, si consideramos que un objeto inicialmente está en el ori-
+gen, la posición inicial del otro no será cero.
+y
+máx - 3.6 m = 6.4 m - 3.6 m = 2.8 m
+y = vo
+ t - 1
+2 gt2 = 0 - 1
+2 19.80 m>s2210.86 s22 =- 3.6 m
+ =111.2 m>s212.00 s2 - 1
+2 19.80 m>s2212.00 s22 = 22.4 m - 19.6 m = 2.8 m
+ y = vo t - 1
+2 gt2
+
+56 CAPÍTULO 2 Cinemática: descripción del movimiento
+Ejemplo 2.12 ■ Caída libre en Marte
+El Mars Polar Lander se lanzó en enero de 1999 y se perdió cerca de la superficie marciana
+en diciembre de 1999. No se sabe qué pasó con esa nave espacial. (Véase la sección “A fon-
+do” del capítulo 1 acerca de la importancia de la conversión de unidades.) Supongamos
+que se dispararon los retro-cohetes y luego se apagaron, y que la nave se detuvo para des-
+pués caer hasta la superficie desde una altura de 40 m. (Muy improbable, pero suponga-
+mos que así fue.) Considerando que la nave está en caída libre, ¿con qué velocidad hizo
+impacto con la superficie?
+Razonamiento. Esto parece análogo a un problema sencillo de dejar caer un objeto desde
+una altura. Y lo es, sólo que sucede en Marte. Ya vimos en esta sección que la aceleración
+debida a la gravedad en la superficie de la Luna es la sexta parte de la que tenemos en la
+Tierra. La aceleración debida a la gravedad también varía en otros planetas, así que nece-
+sitamos conocer g
+Marte. Busque en el apéndice III. (Los apéndices contienen mucha infor-
+mación útil, así que no hay que olvidarse de revisarlos.)
+Solución.
+Dado: Encuentre: v (magnitud, rapidez)
+(del apéndice III)
+Por lo que utilizamos la ecuación 2.12’:
+Entonces,
+Ésta es la velocidad, que sabemos que es hacia abajo, por lo que elegimos la raíz negativa
+y v /H11005/H1100217 m/s. Ya que la rapidez es la magnitud de la velocidad, es 17 m/s.
+Ejercicio de refuerzo. Desde la altura de 40 m, ¿cuánto tardó el descenso del Lander?
+Calcúlelo empleando dos ecuaciones de cinemática distintas, y compare las respuestas.
+(Las respuestas de todos los Ejercicios de refuerzo se dan al final del libro. )
+v
+2 = 296 m2>s2 y v = 3296 m2>s2 = /H1100617 m>s
+v2 = vo
+2 - 2gMarte
+ y = 0 - 213.7 m>s221-40 m2
+ = 3.7 m>s2
+ gMarte =10.3792g =10.379219.8 m>s22
+ vo = 0
+ y =- 40 m 1yo = 0 otra vez2
+Repaso del capítulo
+• El movimiento implica un cambio de posición; se puede des-
+cribir en términos de la distancia recorrida (un escalar) o del
+desplazamiento (un vector).
+• Una cantidad escalar sólo tiene magnitud (valor y unida-
+des); una cantidad vectorial tiene magnitud y dirección.
+• La rapidez media (un escalar) es la distancia recorrida divi-
+dida entre el tiempo:
+(2.1)
+• La velocidad media (un vector) es el desplazamiento dividi-
+do entre el tiempo total de recorrido:
+(2.3) v
+= ¢x
+¢t = x2 - x1
+t2 - t1
+  o  x = xo + vt
+velocidad media =
+desplazamiento
+tiempo total de recorrido
+ s = d
+¢t = d
+t2 - t1
+ rapidez media= distancia recorrida
+tiempo total de recorrido
+s
+Exploración 2.7 Caída de dos pelotas;
+una con caída retardada
+Exploración 2.6 Lance una pelota 
+de manera que casi toque el techo
+x
+12.0 (metros)11.010.09.08.07.06.05.04.03.02.01.0
+8.0 m
+x2x1
+LABORATORIO
+DE FÍSICA
+
+• Un objeto en caída libre tiene una aceleración constante de
+magnitud (aceleración debida a la gravedad)
+cerca de la superficie de la Tierra.
+• Si expresamos en las ecuaciones de cinemática para
+aceleración constante en la dirección y tenemos lo siguiente:
+(2.8’)
+(2.10’)
+(2.11’)
+(2.12’) v
+2 = vo
+2 - 2g1y - yo2
+ y = yo + vo
+ t - 1
+2 gt2
+ y = yo + 1
+2 1v + vo2t
+ v = vo - gt
+a =- g
+g = 9.80 m>s2
+a  positiva
+v  positiva
+Resultado:más rápido
+en la
+dirección +x
+–x + x
+a  negativa
+v  positiva
+Resultado:más lento
+en la
+dirección +x
+–x + x
+Ejercicios 57
+• La velocidad instantánea (un vector) describe con qué rapi-
+dez y en qué dirección se está moviendo algo en un instante
+dado.
+• La aceleración es la tasa de cambio de la velocidad con el
+tiempo, así que es una cantidad vectorial:
+(2.5)
+• Las ecuaciones de cinemática para aceleración constante:
+(2.9)
+(2.8)
+(2.10)
+(2.11)
+(2.12) v
+2 = vo
+2 + 2a1x - xo2
+ x = xo + vo
+ t + 1
+2 at2
+ x = xo + 1
+2 1v + vo2t
+ v = vo + at
+ v = v + vo
+2
+Pend
+iente = +
+a
+c) Movimiento en dirección negativa: acelera
+–v
+–vo
+0
+Velocidad
+t0
+Velocidad
+v
+vo
+Tiempo
+Tiempo
+Pend
+iente =
+ –a –at
+–v = –vo –at
+–vo 
+v = vo + at
+at
+vo 
+a) Movimiento en dirección positiva: acelera
+t
+ a = ¢v
+¢t = v2 - v1
+t2 - t1
+ aceleración media= cambio de velocidad
+tiempo que tarda el cambio
+0 1.0 h 2.0 h 3.0 h
+50 km 100 km 150 km
+Tiempo
+Distancía
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son ejer-
+cicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pares de
+ejercicios, que se identifican con númer
+os subrayados, pretenden ayudar al lector a resolver problemas y aprender, 
+El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consultarse si se 
+necesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al final del libro.
+2.1 Distancia y rapidez: cantidades escalares y
+2.2 Desplazamiento unidimensional y velocidad:
+cantidades vectoriales
+1. OM Una cantidad vectorial tiene a) sólo magnitud, b) só-
+lo dirección o c) tanto dirección como magnitud.
+2. OM ¿Qué se puede decir acerca de la distancia recorrida
+en relación con la magnitud del desplazamiento? a) que
+es mayor, b) que es igual, c) tanto a como b.
+3. OM Una cantidad vectorial tiene a) sólo magnitud, b) só-
+lo dirección o c) tanto dirección como magnitud.
+
+58 CAPÍTULO 2 Cinemática: descripción del movimiento
+A
+B
+27 m
+21 m
+▲ FIGURA 2.17 Rapidez contra velocidad Véase el ejercicio
+21. (No está a escala, se ha desplazado al insecto por claridad.)
+pero menor que 2 R, o 3) mayor que 2 Rb ) Si 
+¿cuál es la magnitud del desplazamiento?
+18. EI ●● Un automóvil de carreras da una vuelta a una 
+pista circular de 500 m de radio en 50 s. a) La veloci-
+dad media del auto es 1) cero, 2) 100 m/s, 3) 200 m/s 
+o 4) ninguna de las anteriores. ¿Por qué? b) Calcule la 
+rapidez media del auto?
+19.
+EI ●● Un estudiante corre 30 m al este, 40 m al norte y 50 m
+al oeste. a) La magnitud del desplazamiento neto del es-
+tudiante es 1) entre 0 y 20 m, 2) entre 20 m y 40 m o 
+3) entre 40 m y 60 m. b) Calcule el desplazamiento neto?
+20.
+●● Un estudiante lanza una pelota verticalmente hacia
+arriba de modo que sube 7.1 m hasta su altura máxima.
+Si la pelota se atrapa en la altura inicial 2.4 s después de
+ser lanzada, a) ¿qué rapidez media tuvo?, b) ¿qué veloci-
+dad media tuvo?
+R = 50 m,4. OM ¿Qué se puede decir acerca de la rapidez promedio
+en relación con la magnitud de la velocidad promedio? 
+a) que es mayor, b) que es igual, c) tanto a como b.
+5. PC ¿El desplazamiento de una persona en un viaje pue-
+de ser cero, aunque la distancia recorrida en el viaje no
+sea cero? ¿Es posible la situación inversa? Explique.
+6. PC Le dicen que una persona caminó 750 m. ¿Qué puede
+decir con certeza acerca de la posición final de la persona
+relativa al punto de partida?
+7. PC Si el desplazamiento de un objeto es 300 m hacia el
+norte, ¿qué diría acerca de la distancia recorrida por ese
+objeto?
+8. PC La rapidez es la magnitud de la velocidad. ¿La rapidez
+media es la magnitud de la velocidad media? Explique.
+9. PC La velocidad promedio de una persona que trota en
+una pista recta se calcula en ¿Es posible que la
+velocidad instantánea de esta persona sea negativa en al-
+gún momento durante el trayecto? Explique su respuesta.
+10.
+● ¿Qué magnitud tiene el desplazamiento de un automó-
+vil que recorre media vuelta de una pista circular con 150 m
+de radio? ¿Y cuando recorre una vuelta completa?
+11. ● Un estudiante lanza una piedra verticalmente hacia arri-
+ba desde su hombro, que está 1.65 m sobre el suelo. ¿Qué
+desplazamiento tendrá la piedra cuando caiga al suelo?
+12. ● En 1999, el corredor marroquí Hicham El Guerrouj co-
+rrió la milla en 3 min, 43.13 s. ¿Qué rapidez media tuvo
+durante la carrera?
+13. ● Una anciana camina 0.30 km en 10 min, dando la vuel-
+ta a un centro comercial. a) Calcule su rapidez media en
+m/s. b) Si ella quiere aumentar su rapidez media en 20%
+al dar una segunda vuelta, ¿en cuántos minutos deberá
+caminarla?
+14. ●● A un paciente de hospital se le deben suministrar 
+500 cc de solución salina IV . Si la solución salina se sumi-
+nistra a una tasa de 4.0 mL/min, ¿cuánto tiempo tardará
+en acabarse el medio litro?
+15. ●● La enfermera de un hospital camina 25 m para llegar
+a la habitación de un paciente, que está al final del pasi-
+llo, en 0.50 min. Habla con el paciente durante 4.0 min y
+luego regresa a la estación de enfermeras con la misma
+rapidez que a la ida. ¿Cuál fue la rapidez promedio de la
+enfermera?
+16. ●● En un viaje de campo traviesa, una pareja maneja 
+500 mi en 10 h el primer día, 380 mi en 8.0 h en el segun-
+do y 600 mi en 15 h en el tercero. ¿Cuál fue la rapidez
+promedio para todo el viaje?
+17. EI ●● Un automóvil recorre tres cuartas parte de una
+vuelta en una pista circular de radio R. a) La magnitud
+del desplazamiento es 1) menor que R, 2) mayor que R,
++5 km>h.
+21. ●● Un insecto repta por el borde de una piscina rectan-
+gular de 27 m de longitud y 21 m de anchura ( ▲figura
+2.17). Tarda 30 min en reptar de la esquina A a la esquina
+B. Calcule a) su rapidez media y b) la magnitud de su ve-
+locidad media?
+22.
+●● Considere el movimiento sobre la superficie terrestre
+durante un día entero. a) ¿Cuál es la velocidad promedio
+de una persona situada en el ecuador de la Tierra? b)
+¿Cuál es la rapidez promedio de una persona situada en
+el ecuador de la Tierra? c) Compare estos dos resultados
+en relación con una persona ubicada exactamente en el
+Polo Norte de la Tierra.
+23.
+●● Un pateador de futbol americano de una preparatoria
+hace un intento por anotar un gol de campo de 30.0 yardas
+y golpea el travesaño, que está a una altura de 10.0 ft.
+a)¿Cuál es el desplazamiento neto del balón desde el mo-
+mento en que abandona el suelo hasta que golpea el trave-
+saño? b) Suponiendo que el balón tardó 2.5 s en golpear el
+travesaño, ¿cuál fue su velocidad promedio? c) Explique
+por qué no es posible determinar su rapidez promedio a
+partir de estos datos.
+24.
+●● En la Nfigura 2.18 se presenta una gráfica de posición
+versus tiempo para un objeto en movimiento rectilíneo. a)
+¿Cuáles son las velocidades promedio para los segmentos
+
+Ejercicios 59
+27. ●● El cabello corto crece a una tasa aproximada de
+Un estudiante universitario se corta el cabe-
+llo para dejarlo de un largo de 1.5 cm. Se cortará de nue-
+vo el cabello cuando éste mida 3.5 cm. ¿Cuánto tiempo
+transcurrirá hasta su siguiente visita al peluquero?
+28.
+●●● Un estudiante que regresa a casa en automóvil en Na-
+vidad parte a las 8:00 A.M. para hacer el viaje de 675 km,
+que efectúa casi en su totalidad en autopistas interes-
+tatales no urbanas. Si quiere llegar a casa antes de las 
+3:00 
+P.M., ¿qué rapidez media deberá mantener? ¿Tendrá
+que exceder el límite de velocidad de 65 mi/h?
+29. ●●● Un vuelo de una línea aérea regional consta de dos
+etapas con una escala intermedia. El avión vuela 400 km
+directamente hacia el norte, del aeropuerto A al aero-
+puerto B. A partir de aquí, vuela 300 km directamente ha-
+cia el este hasta su destino final en el aeropuerto C. a)
+¿Cuál es el desplazamiento del avión desde su punto de
+partida? b) Si el primer tramo del trayecto se recorre en
+45 min y el segundo en 30 min, ¿cuál es la velocidad pro-
+medio del viaje? c) ¿Cuál es la rapidez promedio del via-
+je? d) ¿Por qué la rapidez promedio no es la misma que la
+magnitud para la velocidad promedio?
+30.
+●●● Dos corredoras se aproximan entre sí, en una pista
+recta con rapideces constantes de 4.50 m/s y 3.50 m/s ,
+respectivamente, cuando están separadas 100 m ( ▼fi-
+gura 2.20). ¿Cuánto tardarán en encontrarse y en qué
+posición lo harán si mantienen sus rapideces?
+2.0 cm>mes.
+x
+10.0
+Posición (m)
+Tiempo (s)
+02 .04 .06 .08 .01 0 .01 2 .0
+9.0
+8.0
+7.0
+6.0
+5.0
+4.0
+3.0
+2.0
+1.0 AB
+C
+D
+E
+FG
+t
+▲ FIGURA 2.18 Posición contra tiempoVéase el ejercicio 24.
+AB, BC, CD, DE, EF, FG y BG? b) Indique si el movimiento
+es uniforme o no uniforme en cada caso. c) ¿Cuál es la velo-
+cidad instantánea en el punto D?
+25. ●● Al demostrar un paso de baile, una persona se mueve
+en una dimensión, como se muestra en la ▼figura 2.19.
+Calcule a) la rapidez media y b) la velocidad media en ca-
+da fase del movimiento. c) Calcule la velocidad instantá-
+nea en 2.5 s, 4.5 s y 6.0 s? d) Calcule la 
+velocidad media para el intervalo entre y
+[Sugerencia: recuerde que el desplazamiento 
+total es el desplazamiento entre el punto de partida y el
+punto final.]
+t = 9.0 s?
+t = 4.5 s
+t = 1.0 s,x
+Posición (m)
+Tiempo (s)
+3.0
+2.0
+1.0
+–1.0
+–2.0
+4.0
+0 t6.02.0 4.0 8.0 10.0
+▲ FIGURA 2.19 Posición contra tiempoVéase el ejercicio 25.
+100 m
+4.50 m/s 3 .50 m/s
+▲ FIGURA 2.20 ¿Cuándo y dónde se encontrarán?
+Véase el ejercicio 30.
+2.3 Aceleración
+31. OM La gráfica de posición contra tiempo para un objeto
+que tiene aceleración constante es a) una línea horizontal,
+b) una línea recta no horizontal ni vertical, c) una línea
+vertical, d) una curva.
+32. OM La aceleración puede ser el resultado de a) un incre-
+mento en la rapidez, b) una disminución en la rapidez, 
+c) un cambio en la dirección, d) todas las anteriores.
+33. OM Una aceleración negativa puede provocar a) un in-
+cremento en la rapidez, b) una disminución en la rapi-
+dez, c) a o b.
+34. OM El pedal de la gasolina de un automóvil por lo co-
+mún se conoce como acelerador. ¿Cuál de los siguiente
+también podría llamarse acelerador? a) Los frenos; b) el
+volante; c) la palanca de velocidades; d) los tres incisos
+anteriores. Explique.
+26. ●● Podemos determinar la rapidez de un automóvil mi-
+diendo el tiempo que tarda en viajar entre dos mojones
+de milla en una carretera. a) ¿Cuántos segundos deberá
+tardar el automóvil en viajar entre dos mojones consecu-
+tivos, si su rapidez media es de b) Calcule la ra-
+pidez media si el carro tarda 65 s en viajar entre los
+mojones de milla?
+70 mi>h?
+
+60 CAPÍTULO 2 Cinemática: descripción del movimiento
+35. PC Un automóvil viaja con una rapidez constante de
+en una pista circular. ¿El auto está acelerando?
+Explique su respuesta.
+36. PC ¿Un objeto que se mueve rápido siempre tiene una
+aceleración mayor que uno que se mueve más lentamen-
+te? Dé algunos ejemplos y explique.
+37. PC Un compañero de clase afirma que la aceleración
+negativa siempre significa que un objeto en movimien-
+to está desacelerando. ¿Es verdadera esta afirmación?
+Explique por qué.
+38. PC Describa los movimientos de dos objetos cuya gráfica
+de velocidad contra tiempo se presenta en la 
+▼figura 2.21.
+60 mi>h
+44. ●● Un paramédico conduce una ambulancia a una rapi-
+dez constante de por 10 cuadras de una calle
+recta. A causa del intenso tráfico, el conductor frena has-
+ta los en 6 s y recorre dos cuadras más. ¿Cuál
+fue la aceleración promedio del vehículo?
+45.
+●● Con buenos neumáticos y frenos, un automóvil que
+viaja a sobre el pavimento seco recorre 400 ft
+desde que el conductor reacciona ante algo que ve y has-
+ta que detiene el vehículo. Si esta acción se realiza de 
+manera uniforme, ¿cuál es la aceleración del automóvil?
+(Éstas son condiciones reales y 400 ft es aproximadamen-
+te la longitud de una cuadra de la ciudad.) 
+46.
+●● Una persona arroja hacia arriba una pelota en línea
+recta con una rapidez inicial de y, al regresar a su
+mano, la golpea moviéndose hacia abajo con la misma
+rapidez. Si todo el trayecto dura 2.0 s, determine a) la
+aceleración promedio de la pelota y b) su velocidad pro-
+medio.
+47.
+●● Después del aterrizaje, un avión de pasajeros rueda por
+la pista en línea recta hasta detenerse a una velocidad pro-
+medio de Si el avión tarda 7.00 s en llegar al
+reposo, ¿cuáles son la velocidad y la aceleración iniciales?
+48.
+●● Un tren que recorre una vía recta y a nivel tiene una
+rapidez inicial de Se aplica una aceleración
+uniforme de mientras el tren recorre 200 m. 
+a) ¿Cuál es la rapidez del tren al final de esta distancia? 
+b) ¿Cuánto tiempo le toma al tren recorrer los 200 m?
+49.
+●● Un disco (puck) de hockey que se desliza sobre hielo
+choca de frente contra las vallas de la cancha, moviéndose
+hacia la izquierda con una rapidez de Al invertir
+su dirección, está en contacto con las vallas por 0.095 s,
+antes de rebotar con una rapidez menor de Deter-
+mine la aceleración promedio que experimentó el disco al
+chocar contra las vallas. Las aceleraciones típicas de los
+automóviles son de Comente su respuesta y diga
+por qué es tan diferente de este último valor, especial-
+mente cuando las rapideces del disco de hockey son simi-
+lares a las de los automóviles.
+50.
+●● Calcule la aceleración para cada segmento de la
+gráfica de la ▼figura 2.22. Describa el movimiento del obje-
+to durante el intervalo total de tiempo.
+5 m>s2.
+11 m>s.
+35 m>s.
+1.50 m>s2
+35.0 km>h.
+-35.0 km>h.
+9.8 m>s
+50 mi>h
+30 km>h
+75 km>h
+v
+Velocidad (m/s)
+Tiempo (s)
+t0
+4.08 .01 2 .01 6 .0
+10.0
+8.0
+6.0
+4.0
+2.0
+(4.0, 8.0) (10.0, 8.0)
+▲ FIGURA 2.22 Velocidad contra tiempo
+Véanse los ejercicios 50 y 75.
+Veloc
+idad
+0
+v
+(b)
+Tiempo
+t
+(a)
+▲ FIGURA 2.21 Descripción de movimiento
+Véase el ejercicio 38.
+39. PC Un objeto que viaja a velocidad constante vo experi-
+menta una aceleración constante en la misma dirección
+durante un tiempo t. Luego experimenta una aceleración
+de igual magnitud en la dirección opuesta a durante el
+mismo tiempo t. ¿Qué velocidad final tendrá el objeto?
+40.
+● Un automóvil que viaja a por un camino
+recto y plano acelera a en 6.00 s. Calcule la
+magnitud de la aceleración media del automóvil?
+41.
+● Un auto deportivo puede acelerar de 0 a en 
+3.9 s. Calcule la magnitud de su aceleración media 
+en m/s
+2.
+42. ● Si el automóvil del ejercicio 41 puede acelerar a
+¿cuánto tardará en acelerar de 0 a 
+43. EI ●● Un matrimonio viaja en automóvil a por
+una carretera recta. Ven un accidente en la distancia, así
+que el conductor aplica los frenos y en 5.0 s el vehículo
+baja uniformemente su velocidad hasta parar. a) ¿La 
+dirección del vector de aceleración es 1. en la misma di-
+rección, 2. en la dirección opuesta o 3. a 90º del vector
+de velocidad? ¿Por qué? b) ¿Cuánto debe cambiar la ve-
+locidad cada segundo entre el inicio del frenado y el 
+alto total?
+40 km>h
+60 mi>h?7.2 m>s
+2,
+60 mi>h
+65.0 km>h
+15.0 km>h
+vo
+
+Ejercicios 61
+51. ●● La ▲figura 2.23 muestra una gráfica de velocidad 
+contra tiempo para un objeto en movimiento rectilíneo.
+a) Calcule la aceleración para cada fase del movimiento.
+b) Describa el movimiento del objeto durante el último
+segmento de tiempo.
+52.
+●● Un automóvil que viaja inicialmente hacia la derecha,
+con una rapidez constante de durante 5.0 s, aplica
+los frenos y reduce su rapidez a una tasa constante de
+durante 3.0 s. Entonces continúa viajando hacia la
+derecha a una rapidez constante pero menor sin volver a
+frenar durante otros 6.0 s. a) Para facilitar los cálculos,
+trace una gráfica de la velocidad del automóvil contra
+tiempo, asegurándose de mostrar los tres intervalos. 
+b) ¿Cuál es su velocidad después de los 3.0 s de frenado?
+c) ¿Cuál fue su desplazamiento total durante los 14.0 s 
+de su movimiento? d) ¿Cuál fue su rapidez promedio du-
+rante los 14.0 s? 
+53.
+●●● Un tren normalmente viaja con rapidez uniforme 
+de por un tramo largo de vía recta y plana. Cier-
+to día, el tren debe hacer una parada de 2.0 min en una
+estación sobre esta vía. Si el tren desacelera con una tasa
+uniforme de y, después de la parada, acelera con
+una tasa de ¿cuánto tiempo habrá perdido por
+parar en la estación?
+2.4 Ecuaciones de cinemática (aceleración
+constante)
+54. OM Para una aceleración rectilínea constante, la gráfica
+de velocidad contra tiempo es a) una línea horizontal, 
+b) una línea vertical, c) una línea recta no horizontal ni
+vertical o d) una línea curva.
+55. OM Para una aceleración rectilínea constante, la gráfica
+de posición contra tiempo sería a) una línea horizontal, 
+b) una línea vertical, c) una línea recta no horizontal ni
+vertical o d) una curva.
+0.50 m>s2,
+1.0 m>s2
+72 km>h
+5 m>s2
+25 m>s
+v
+Velocidad (m/s)
+Tiempo (s)
+10.0
+8.0
+6.0
+2.0
+0
+4.0
+–2.0
+– 4.0
+–6 .0
+–8 .0
+–10.0
+–12.0
+t2.04 .06 .08 .01 0 .01 2 .0
+▲ FIGURA 2.23 Velocidad contra tiempo Véanse los
+ejercicios 51 y 79.
+56. OM Un objeto acelera uniformemente desde el reposo
+durante t segundos. La rapidez media del objeto en este
+intervalo de tiempo es a) b) c)2 at, d)
+57. PC Si la gráfica de la velocidad de un objeto versus tiem-
+po es una línea horizontal, ¿qué podría decirse acerca de
+la aceleración del objeto?
+58. PC Al resolver una ecuación cinemática para x, que tiene
+una aceleración negativa, ¿x es necesariamente negativa? 
+59. PC ¿Cuántas variables deben conocerse para resolver
+una ecuación cinemática?
+60. PC Un compañero de clase afirma que la aceleración 
+negativa siempre significa que un objeto en movimien-
+to está desacelerando. ¿Es verdadera esta afirmación?
+Explique su respuesta.
+61.
+● En un rally de autos deportivos, un automóvil que parte
+del reposo acelera uniformemente con una tasa de 
+a lo largo de una distancia recta de 100 m. El tiempo a su-
+perar en este evento es 4.5 s. ¿Lo logra el conductor? ¿Qué
+aceleración mínima se requiere para hacerlo?
+62. ● Un automóvil acelera desde el reposo con tasa constan-
+te de durante 5.0 s. a) ¿Qué rapidez tendrá al tér-
+mino de ese lapso? b) ¿Qué distancia recorrerá en ese
+tiempo?
+63. ● Un automóvil que viaja a debe parar en un tra-
+mo de 35 m de una carretera. a) ¿Qué magnitud mínima
+debe tener su aceleración? b) ¿Cuánto tiempo tardará en
+detenerse el auto con esa desaceleración?
+64. ● Una lancha de motor que viaja por una pista recta
+frena uniformemente de 60 a en una distancia
+de 50 m. Calcule la aceleración de la lancha.
+65.
+●● El conductor de una camioneta que va a 
+aplica los frenos y el vehículo desacelera uniformemente
+a en una distancia de 20.0 m. a) ¿Qué rapidez
+en km/h tiene la camioneta al término de esta distancia?
+b) ¿Cuánto tiempo ha transcurrido?
+66.
+●● Un carro cohete experimental que parte del reposo al-
+canza una rapidez de adespués de un recorri-
+do recto de 400 m en una llanura plana. Suponiendo que
+la aceleración fue constante, a) ¿qué tiempo tardó el
+recorrido? b) ¿Qué magnitud tuvo la aceleración?
+67. ●● Un carro cohete viaja con rapidez constante de 250
+km/h por una llanura. El conductor imparte al ve-
+hículo un empuje en reversa y el carro experimenta una
+desaceleración continua y constante de 8.25 m/s
+2. ¿Cuán-
+to tiempo transcurre hasta que el vehículo está a 175 m
+del punto donde se aplicó el empuje en reversa? Describa
+la situación en su respuesta.
+68. ●● Dos automóviles idénticos que pueden acelerar a
+compiten en una pista recta con arranque en
+movimiento. El carro A tiene una rapidez inicial de
+3.00 m>s2
+560 km>h
+6.50 m>s2
+100 km>h
+40 km>h
+25 mi>h
+2.0 m>s2
+9.0 m>s2
+2at2.1
+2 at2,1
+2 at,
+
+62 CAPÍTULO 2 Cinemática: descripción del movimiento
+el B, de a) Calcule la separación de los
+dos automóviles después de 10 s. b) ¿Qué automóvil se
+mueve con mayor velocidad después de 10 s?
+69. ●● De acuerdo con las leyes de Newton del movimiento
+(que estudiaremos en el capítulo 4), una pendiente de 30°
+que no ejerce fricción debería proveer una aceleración de
+hacia la parte inferior. Un estudiante con un
+cronómetro registra que un objeto, que parte del reposo,
+se desliza 15.00 m hacia abajo por una suave pendiente
+en exactamente 3.00 s. ¿En verdad la pendiente no ejerce
+fricción? 
+70. EI ●● Un objeto se mueve en la con una
+rapidez de Al pasar por el origen, comienza a ex-
+perimentar una aceleración constante de en la
+a) ¿Qué sucederá después? 1) El objeto in-
+vertirá su dirección de movimiento en el origen. 2) El obje-
+to seguirá viajando en la . 3) El objeto viajará
+en la y luego invertirá su dirección. ¿Por
+qué? b) ¿Cuánto tiempo transcurre antes de que el objeto
+vuelva al origen? c) ¿Qué velocidad tiene el objeto al
+volver al origen?
+71.
+●● Una bala de rifle cuya rapidez al salir del cañón es
+se dispara directamente a un material denso 
+especial que la detiene en 25 cm. Suponiendo que la desa-
+celeración de la bala fue constante, ¿qué magnitud tuvo?
+72. ●● El límite de velocidad en una zona escolar es 
+(aproximadamente ). Un conductor que viaja a
+esa velocidad ve que un niño cruza corriendo la calle 
+13 m adelante de su automóvil. Aplica los frenos, y el 
+automóvil desacelera con una tasa uniforme de 
+Si el tiempo de reacción del conductor es 0.25 s, ¿el auto 
+se detendrá antes de golpear al niño?
+73.
+●● Suponiendo un tiempo de reacción de 0.50 s para el
+conductor del ejercicio 72, ¿el automóvil se detendrá an-
+tes de golpear al niño?
+74. ●● Una bala que viaja horizontalmente con una rapidez
+de 350 m/s golpea una tabla perpendicular a la superfi-
+cie, la atraviesa y sale por el otro lado con una rapidez de
+Si la tabla tiene 4.00 cm de grosor, ¿cuánto tar-
+dará la bala en atravesarla?
+75. ●● a) Demuestre que el área bajo la curva de una gráfica
+de velocidad contra tiempo, con aceleración constante, es
+igual al desplazamiento. [ Sugerencia: el área de un trián-
+gulo es ab/2, o la mitad de la altura multiplicada por la
+base.] b) Calcule la distancia recorrida en el movimiento
+representado en la figura 2.22.
+76. EI ●● Un objeto que está inicialmente en reposo experi-
+menta una aceleración de en una superficie hori-
+zontal. En estas condiciones, recorre 6.0 m. Designemos los
+primeros 3.00 m como la fase 1 utilizando un subíndice 1
+para esas cantidades, y los siguientes 3.00 m como la fase 2
+empleando un subíndice 2. a) ¿Cómo deberían relacionarse
+2.00 m>s
+2
+210 m>s.
+8.0 m>s2.
+25 mi>h
+40 km>h
+330 m>s
+dirección +x
+dirección + x
+dirección -x.
+3.5 m>s2
+40 m>s.
+dirección + x
+4.90 m>s2
+5.0 m>s.2.50 m>s; los tiempos para recorrer cada fase y la condición: 1)
+2) , o 3) b) Ahora calcule los dos
+tiempos de recorrido y compárelos cuantitativamente.
+77. EI ●● Un automóvil inicialmente en reposo experimenta
+pérdida de su freno de mano conforme desciende por una
+colina recta con una aceleración constante de y
+recorre un total de 100 m. Designemos la primera mitad de
+la distancia como fase 1, utilizando un subíndice 1 para
+tales cantidades; y la segunda mitad como fase 2, emplean-
+do un subíndice 2. a) ¿Con qué condición deberían rela-
+cionarse las rapideces del automóvil al final de cada fase?
+1) 2) o 3) b) Ahora calcule los
+dos valores de rapidez y compárelos cuantitativamente. 
+78.
+●● Un objeto inicialmente en reposo experimenta una
+aceleración de durante 6.0 s y luego viaja a velo-
+cidad constante por otros 8.0 s. ¿Cuál es la velocidad pro-
+medio del objeto durante el intervalo de 14 s?
+79.
+●●● La figura 2.23 muestra una gráfica de velocidad
+contra tiempo para un objeto en movimiento rectilíneo.
+a) Calcule las velocidades instantáneas a y
+b) Calcule el desplazamiento final del objeto.
+c) Calcule la distancia total que el objeto recorre.
+80. EI ●●● a) Un automóvil que viaja con rapidez v puede
+frenar para hacer un alto de emergencia en una distancia
+x. Suponiendo que las demás condiciones de manejo son
+similares, si la rapidez del automóvil es el doble, la dis-
+tancia de frenado será 1) 2) o 3) b) Un con-
+ductor que viaja a en una zona escolar puede
+frenar para hacer un alto de emergencia en 3.00 m. 
+Calcule la distancia de frenado si el automóvil viajara 
+a 
+81.
+●●● Un automóvil acelera horizontalmente desde el repo-
+so en un camino horizontal con aceleración constante de
+Por el camino, pasa por dos fotoceldas (“ojos
+eléctricos”, designados como 1 el primero y como 2 el se-
+gundo), que están separadas 20.0 m entre sí. El intervalo
+de tiempo para recorrer esta distancia de 20.0 m, según las
+fotoceldas, es 1.40 s. a) Calcule la rapidez del vehículo al
+pasar por cada ojo eléctrico. b) ¿Qué distancia hay entre el
+punto de partida y el primer ojo eléctrico? c) ¿Cuánto
+tiempo le tomará al auto llegar al primer ojo eléctrico?
+82.
+●●● Un automóvil viaja por una carretera larga y recta
+con una rapidez constante de cuando la con-
+ductora ve un accidente 150 m más adelante. De inme-
+diato, aplica el freno (ignore el tiempo de reacción). Entre
+ella y el accidente hay dos superficies diferentes. Primero
+hay 100 m de hielo (¡es el Oeste medio de E.U.!), donde
+su desaceleración es apenas de A partir de ahí
+se encuentra sobre concreto seco, donde su desacelera-
+ción, ahora más normal, es de a) ¿Cuál era su
+rapidez justo después de dejar la porción del camino cu-
+bierta de hielo? b) ¿Cuánta distancia recorre en total para
+detenerse? c) ¿Cuánto tiempo tarda en total para dete-
+nerse?
+7.00 m>s
+2.
+1.00 m>s2.
+75.0 mi>h
+3.00 m>s2.
+60.0 km>h?
+40.0 km>h
+4x.2x,12x,
+t = 11.0 s.
+t = 8.0 s
+1.5 m>s2
+v1 7 1
+2 v2
+ ?v1 = 1
+2 v2 ;v1 6 1
+2 v2 ;
+0.850 m>s2 ,
+t1 7 t2
+ ?t1 = t2t1 6 t2 ;
+
+Ejercicios 63
+2.5 Caída libre
+Sin considerar resistencia del aire en estos ejercicios.
+83. OM Un objeto se lanza verticalmente hacia arriba. ¿Cuál
+de estas afirmaciones es cierta? a) Su velocidad cambia de
+manera no uniforme; b) su altura máxima es independien-
+te de la velocidad inicial; c) su tiempo de ascenso es un po-
+co mayor que su tiempo de descenso; d) la rapidez al
+volver a su punto de partida es igual a su rapidez inicial? 
+84. OM El movimiento de caída libre descrito en esta sección
+es válido para a) un objeto que se deja caer desde el repo-
+so, b) un objeto que se lanza verticalmente hacia abajo, 
+c) un objeto que se lanza verticalmente hacia arriba o 
+d) todos los casos anteriores.
+85. OM Un objeto que se suelta en caída libre a) cae 9.8 m 
+cada segundo, b) cae 9.8 m durante el primer segundo, 
+c) tiene un incremento de velocidad de cada 
+segundo o d) tiene un incremento de aceleración de
+cada segundo.
+86. OM Se lanza un objeto en línea recta hacia arriba. Cuan-
+do alcanza su altura máxima: a) su velocidad es cero, 
+b) su aceleración es cero, c) a y b.
+87. OM Cuando un objeto se lanza verticalmente hacia arri-
+ba, está acelerando en a) su trayecto hacia arriba, b) su
+trayecto hacia abajo, c) a y b.
+88. PC Cuando una pelota se lanza hacia arriba, ¿qué veloci-
+dad y aceleración tiene en su punto más alto?
+89. PC Imagine que está en el espacio lejos de cualquier pla-
+neta, y lanza una pelota como lo haría en la Tierra. Des-
+criba el movimiento de la pelota.
+90. PC Usted deja caer una piedra desde la ventana de un
+edificio. Después de un segundo, deja caer otra piedra.
+¿Cómo varía con el tiempo la distancia que separa a las
+dos piedras? 
+91. PC ¿Cómo diferirá la caída libre que se experimenta en
+la Luna de la que se experimenta en la Tierra?
+92.
+● Un estudiante deja caer una pelota desde la azotea 
+de un edificio alto; la pelota tarda 2.8 s en llegar al suelo.
+a) ¿Qué rapidez tenía la pelota justo antes de tocar el sue-
+lo? b) ¿Qué altura tiene el edificio?
+93. EI
+● El tiempo que un objeto que se deja caer desde el acan-
+tilado A tarda en chocar con el agua del lago que está abajo,
+es el doble del tiempo que tarda en llegar al lago otro obje-
+to que se deja caer desde el acantilado B. a) La altura del
+acantilado A es 1) la mitad, 2) el doble o 3) cuatro veces la
+del acantilado B. b) Si el objeto tarda 1.8 s en caer del acanti-
+lado A al agua, ¿qué altura tienen los dos acantilados?
+94.
+● Para el movimiento de un objeto que se suelta en caída
+libre, dibuje la forma general de las gráficas a) v contra t
+y b) y contra t.
+9.8 m>s2
+9.8 m>s
+95. ● Un truco muy conocido consiste en dejar caer un billete
+de dólar (a lo largo) entre el pulgar y el índice de un com-
+pañero, diciéndole que lo sujete lo más rápidamente
+posible para quedarse con él. (La longitud del billete 
+es de 15.7 cm, y el tiempo de reacción medio del ser 
+humano es de unos 0.2 s. Véase la figura 2.15.) ¿Esta pro-
+puesta es un buen negocio? Justifique su respuesta.
+96.
+● Un niño lanza una piedra hacia arriba con una rapidez
+inicial de ¿Qué altura máxima alcanzará la pie-
+dra antes de descender?
+97.
+● En el ejercicio 96 ¿qué altura máxima alcanzaría la pie-
+dra si el niño y la piedra estuvieran en la superficie de la
+Luna, donde la aceleración debida a la gravedad es sólo
+98.
+●● El techo de una aula está 3.75 m sobre el piso. Un es-
+tudiante lanza una manzana verticalmente hacia arriba,
+soltándola a 0.50 m sobre el piso. Calcule la rapidez ini-
+cial máxima que puede darse a la manzana sin que toque
+el techo?
+99.
+●● Las Torres Gemelas Petronas de Malasia y la Torre
+Sears de Chicago tienen alturas de 452 y 443 m, respecti-
+vamente. Si se dejaran caer objetos desde la punta de ca-
+da una, ¿con qué diferencia de tiempo llegarían al suelo?
+100.
+●● Usted lanza una piedra verticalmente hacia arriba con
+una rapidez inicial de desde la ventana de una ofi-
+cina del tercer piso. Si la ventana está 12 m sobre el suelo,
+calcule a) el tiempo que la piedra está en el aire y b) la rapi-
+dez que tiene la piedra justo antes de tocar el suelo.
+101. EI
+●● Una pelota Superball se deja caer desde una altura
+de 4.00 m. Suponiendo que la pelota rebota con el 95% de
+su rapidez de impacto, a) ¿rebotaría a 1) menos de 95%,
+2) 95.0% o 3) más de 95% de la altura inicial? b) ¿Qué al-
+tura alcanzara la pelota?
+102.
+●● En un estadio de béisbol cubierto con un domo, el te-
+cho está diseñado de manera que las bolas bateadas no se
+estrellen contra él. Suponga que la máxima rapidez de
+una bola que se lanza en un partido de las ligas mayores
+es 95.0 mi/h y que el bat de madera la reduce a 80.0
+mi/h. Suponga que la bola pierde contacto con el bat a
+una altura de 1.00 m del campo del juego. a) Determine
+la altura mínima que debe tener el techo, de manera que
+las bolas que salen disparadas por el bat que las lanza en
+línea recta hacia arriba no lo golpeen. b) En un juego real,
+una bola bateada llega a menos de 10.0 m de esta altura
+del techo. ¿Cuál era la rapidez de la bola al perder salir
+diparada por el bat?
+103.
+●● Durante el experimento descrito en el libro acerca de
+una pluma y un martillo que se dejan caer en la Luna,
+ambos objetos se liberaron desde una altura de 1.30 m.
+De acuerdo con el video del experimento, ambos tar-
+daron 1.26 s en golpear la superficie lunar. a) ¿Cuál es 
+el valor local de la aceleración de la gravedad en ese
+lugar de la Luna? b) ¿Qué rapidez llevaban los dos ob-
+jetos justo antes de golpear la superficie? 
+6.0 m>s
+1.67 m>s
+2 ?
+15 m>s.
+
+64 CAPÍTULO 2 Cinemática: descripción del movimiento
+tiempo está la pelota en el aire desde el momento en que
+se deja caer hasta el momento en que alcanza la altura
+máxima de su primer rebote
+109.
+●●● Un cohete para recoger muestras de contaminantes
+se lanza en línea recta hacia arriba con una aceleración
+constante de , en los primeros 1000 m de vuelo.
+En ese punto, los motores se apagan y el cohete descien-
+de por sí solo en caída libre. Ignore la resistencia del aire.
+a) ¿Cuál es la rapidez del cohete cuando los motores se apa-
+gan? b) ¿Cuál es la altura máxima que alcanza este cohete?
+c) ¿Cuánto tiempo le toma alcanzar su altura máxima?
+110.
+●●● Un cohete de prueba que contiene una sonda, para
+determinar la composición de la atmósfera superior, se
+dispara verticalmente hacia arriba desde una posición ini-
+cial a nivel del suelo. Durante el tiempo t que dura el com-
+bustible, el cohete asciende con aceleración constante
+hacia arriba de magnitud 2g. Suponga que la altura que al-
+canza el cohete no es tan grande como para que la fuerza
+gravitacional de la Tierra no deba considerarse constante.
+a). ¿Qué altura y rapidez tiene el cohete cuando se agota 
+el combustible? b) ¿Qué altura máxima alcanza el cohete?
+c) Si calcule la altura máxima del cohete.
+111.
+●●● Un automóvil y una motocicleta parten del reposo
+al mismo tiempo en una pista recta; pero la motocicleta
+está 25.0 m atrás del automóvil (
+Nfigura 2.26). El au-
+tomóvil acelera con una tasa uniforme de 3.70 m/s 2, y la
+motocicleta, a 4.40 m/s 2. a) ¿Cuánto tardará la motoci-
+cleta en alcanzar al automóvil? b) ¿Qué distancia habrá
+recorrido cada vehículo durante ese tiempo? c) ¿Qué tan
+adelante del auto estará la motocicleta 2.00 s después?
+(Ambos vehículos siguen acelerando.)
+t = 30.0 s,
+12.0 m>s
+2
+104. ●● En la ▼figura 2.24 un estudiante en una ventana del
+segundo piso de una residencia ve que su profesora de
+matemáticas camina por la acera junto al edificio. Deja
+caer un globo lleno de agua desde 18.0 m sobre el sue-
+lo cuando la profesora está a 1.00 m del punto que está
+directamente abajo de la ventana. Si la estatura de la 
+profesora es de 170 cm y camina con una rapidez de
+¿la golpeará el globo? Si no, ¿qué tan cerca 
+pasará de ella?
+0.450 m>s,
+1.35 m
+▲ FIGURA 2.25 ¿De dónde vino?
+Véase el ejercicio 107.
+105. ●● Un fotógrafo en un helicóptero, que asciende vertical-
+mente con una tasa constante de , deja caer acci-
+dentalmente una cámara por la ventana cuando el
+helicóptero está 60.0 m sobre el suelo. a) ¿Cuánto tardará la
+cámara en llegar al suelo? b) ¿Con qué rapidez chocará?
+106. EI
+●● La aceleración debida a la gravedad en la Luna es la
+sexta parte que en la Tierra. a) Si un objeto se dejara caer
+desde la misma altura en la Luna y en la Tierra, el tiem-
+po que tardaría en llegar a la superficie de la Luna sería 
+1) 2) 6 o 3) 36 veces mayor que el que tardaría en la
+Tierra. b) Para el caso de un proyectil con una velocidad
+inicial de 18.0 m/s hacia arriba, calcule la altura máxima 
+y el tiempo total de vuelo en la Luna y en la Tierra?
+107.
+●●● Un objeto que se dejó caer tarda 0.210 s en pasar por
+una ventana de 1.35 m de altura. ¿Desde qué altura arri-
+ba del borde superior de la ventana se soltó el objeto?
+(Véase la 
+Nfigura 2.25.)
+108. ●●● Una pelota de tenis se deja caer desde una altura de
+10.0 m. Rebota en el piso y vuelve a subir a una altura 
+de 4.00 m en su primer rebote. (Ignore el breve momento
+en que la pelota está en contacto con el piso.) a) Determi-
+ne la rapidez de la pelota justo antes de que golpea el
+suelo en su trayectoria hacia abajo. b) Determine la rapi-
+dez de la pelota al rebotar en el piso en su trayecto ascen-
+dente hacia la altura de su primer rebote. c) ¿Por cuánto
+16
+,
+12.5 m>s
+18.0 m
+1.70 m
+1.00 m
+0.450 m/s
+▲ FIGURA 2.24 Bañe a la profesora Véase el ejercicio 104. 
+(Esta figura no está a escala.)
+
+Ejercicios 65
+Inicio
+25.0 m
+d
+HD
+HD
+▲ FIGURA 2.26 Carrera empatada Véase el ejercicio 111.
+(La figura no está a escala.)
+▲ FIGURA 2.27 La más alta La torre Taipei 101 en Taiwán
+es el edificio más alto del mundo. Con 101 pisos, tiene una
+altura de 509 m (1671 ft). La torre se terminó en 2004.
+el Hombre de Acero empieza a volar a una aceleración
+constante para intentar rescatar en el aire a Luisa. Supo-
+niendo que ella cayó desde una altura de 300 m y que Su-
+perman puede acelerar en línea recta hacia arriba a
+determine a) ¿qué distancia caerá Luisa por el
+aire antes de que Superman la salve?, b) ¿cuánto tardará
+Superman en alcanzarla y c) la rapidez de uno y otro en
+el instante en que él la alcanza. Comente si esta rapidez
+sería peligrosa para Luisa, quien, al ser una común mor-
+tal, podría resultar lesionada al chocar con el indestructi-
+ble Hombre de Acero, si las rapideces que llevan uno y
+otro son muy altas.
+116. En la década de 1960 hubo un concurso para encontrar 
+el automóvil que fuera capaz de realizar las siguientes
+dos maniobras (una justo después de la otra) en el me-
+nor tiempo total: primero, acelerar desde el reposo hasta
+( ), y luego frenar hasta detenerse por
+completo. (Ignore la corrección del tiempo de reacción
+que ocurre entre las fases de aceleración y de frenado, y
+suponga que todas las aceleraciones son constantes.) Por
+varios años, el ganador fue el “auto de James Bond”, el
+Aston Martin. Un año ganó el concurso cuando tardó só-
+lo ¡un total de 15.0 segundos en realizar las dos proezas!
+Se sabe que su aceleración de frenado (desaceleración)
+fue asombrosamente de 9.00 m/s
+2. a) Calcule el tiempo
+que duró la fase de frenado. b) Calcule la distancia que
+recorrió durante la fase de frenado. c) Calcule la acele-
+ración del automóvil durante la fase de aceleración. 
+d) Calcule la distancia que recorrió para alcanzar 100 mi>h.
+45.0 m>s100 mi>h
+15 m>s
+2,
+Ejercicios adicionales
+112. Dos atletas corren con la misma rapidez promedio. El co-
+rredor A corta directamente hacia el norte siguiendo el
+diámetro de una pista circular, mientras que el corredor
+B recorre todo el semicírculo para encontrarse con su
+compañero en el lado opuesto de la pista. Suponga que la
+rapidez promedio común es de y que la pista
+tiene un diámetro de 150 m. a) ¿El corredor A llega cuán-
+tos segundos antes que el corredor B? b) ¿Cómo se com-
+paran sus distancias de recorrido? c) ¿Cómo se comparan
+sus desplazamientos? d) ¿Cómo se comparan sus veloci-
+dades promedio?
+113. Muchas carreteras con bajadas pronunciadas cuentan
+con rampas de emergencia, diseñadas para que en el ca-
+so de que un vehículo se quede sin frenos, el conductor
+pueda ingresar en ellas (por lo general, están cubiertas
+con grava suelta). La idea es que el vehículo llegue a la
+rampa y se detenga (en la grava) sin necesidad del siste-
+ma de frenos. En una región de Hawai, la longitud de la
+rampa de emergencia es de 300 m y ésta permite una de-
+saceleración (constante) de a) ¿Cuál es la rapi-
+dez máxima que un vehículo que se sale de la carretera
+puede llevar al tomar la rampa? b) ¿Cuánto tiempo le 
+llevará a ese vehículo alcanzar el reposo? c) Suponga 
+que otro vehículo, que va 10 mi/h (4.47 m/s) más rápi-
+do que el valor máximo, toma la rampa de emergencia.
+¿Con qué rapidez irá al salir del área de grava?
+114. El edificio más alto del mundo es la Torre Taipei 101 en
+Taipei, Taiwán, con 509 m (1667 ft) de altura y 101 pi-
+sos (
+Nfigura 2.27). El mirador se encuentra en el piso
+89, y los dos elevadores que llegan a ese lugar alcan-
+zan una rapidez máxima de 1008 m/min cuando su-
+ben y 610 m/min cuando bajan. Suponiendo que estos
+valores máximos de rapidez se alcanzan en el punto
+medio del trayecto y que las aceleraciones son cons-
+tantes para cada tramo de éste, a) ¿cuáles son las acele-
+raciones para el trayecto hacia arriba y para el trayecto
+hacia abajo? b) ¿Cuánto tiempo más tarda el viaje de
+bajada que el de subida?
+115. A nivel del piso, Superman ve a Luisa Lane en problemas
+cuando el villano, Lex Luthor, la deja caer casi desde el
+último piso del edificio del Empire State. De inmediato,
+2.50 m>s
+2.
+2.70 m>s
+
+66 CAPÍTULO 2 Cinemática: descripción del movimiento
+117. Vamos a investigar un posible descenso vertical de una
+nave sobre la superficie de Marte, que incluye dos eta-
+pas: caída libre seguida por el despliegue de un paracaí-
+das. Suponga que la sonda está cerca de la superficie, de
+manera que la aceleración de la gravedad en Marte es
+constante con un valor de Suponga que la na-
+ve desciende, en un principio, verticalmente a a
+una altura de 20 000 m de la superficie del planeta. Igno-
+re la resistencia del aire durante la fase de caída libre. 
+Suponga que primero cae libremente una distancia de
+(El paracaídas no se abre sino hasta que la nave
+está a 12 000 m de la superficie. Véase la 
+Nfigura 2.28.) 
+a) Determine la rapidez de la nave espacial al final de los
+8 000 m de caída libre. b) A 12 000 m de la superficie, el
+paracaídas se despliega y la nave inmediatamente empie-
+za a disminuir su rapidez. Si la sonda es capaz de resistir
+el choque contra la superficie hasta los 20.0 m/s, deter-
+mine la desaceleración mínima constante necesaria du-
+rante esta fase. c) ¿Cuál es el tiempo total que tarda en
+llegar a la superficie desde la altura original de ? 20
+ 000 m
+8 000 m.
+200 m>s
+3.00 m>s2.
+Caída libre en
+8000 m
+Frenado con el
+paracaídas en los
+últimos 12 000 m
+Justo sobre la superficie de Marte
+v1
+v2
+v3
+▲ FIGURA 2.28 ¡Ahí va! Véase el ejercicio 117.
+Los siguientes problemas de física Physlet se pueden utilizar con este capítulo.
+1.2, 1.3, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, 2.11, 2.12, 2.13, 2.14, 2.18
+
+3.1 Componentes del
+movimiento 68
+3.2 Suma y resta 
+de vectores 73
+3.3 Movimiento de
+proyectiles 81
+3.4 Velocidad relativa 90
+CAPÍTULO
+3
+• Origen de las palabras:
+– cinemática: del griego kinema, que significa
+“movimiento”.
+– velocidad: del latín velocitas, que signifi-
+ca “rapidez”.
+– aceleración: del latín accelerare, que signi-
+fica “apresurar”.
+• Proyectiles:
+– “Big Bertha”, una pieza de artillería que
+utilizaron los alemanes durante la Primera
+Guerra Mundial; su cañón medía 6.7 m
+(22 ft) y era capaz de lanzar proyectiles de
+820 kg (1800 lb) a 15 km (9.3 millas).
+– El “Paris Gun”, otra pieza de artillería que
+utilizaron los alemanes durante la Primera
+Guerra Mundial, con un cañón de 34 m
+(112 ft) de largo, era capaz de lanzar pro-
+yectiles de 120 kg (264 lb) a 131 km (81
+millas). Este obús se diseñó para bombar-
+dear París, Francia, y sus proyectiles al-
+canzaban una altura máxima de 40 km (25
+millas) durante su trayectoria de 170 s.
+– Para alcanzar la distancia máxima a nivel
+de tierra, un proyectil, de manera ideal, de-
+bería lanzarse con un ángulo de 45°. Con
+la resistencia del aire, la rapidez del pro-
+yectil se reduce, al igual que el alcance. El
+ángulo de proyección para el alcance má-
+ximo en este caso es menor de 45°, lo que
+da un mayor componente horizontal de la
+velocidad inicial, para ayudar a compensar
+la resistencia del aire.
+– El disco que se utiliza en las competencias
+deportivas es aerodinámico y, al lanzarlo,
+se le da cierta elevación. Por lo tanto, para
+lograr el alcance máximo, se requiere un
+mayor componente horizontal de veloci-
+dad inicial; de esta manera, el disco reco-
+rrerá una mayor distancia horizontalmente,
+mientras se eleva verticalmente.
+• Récords de lanzamiento de disco:
+– Mujeres: 76.80 m (252 ft).
+– Hombres: 74.08 m (243 ft).
+– El disco que lanzan los hombres tiene una
+masa de 2 kg (4.4 lb), en tanto que el de las
+mujeres tiene una masa de 1 kg (2.2 lb).
+HECHOS DE FÍSICA
+MOVIMIENTO EN DOS
+DIMENSIONES
+67
+¡S
+í puede llegar desde aquí! Sólo es cuestión de saber qué camino tomar en
+el cruce. Pero, ¿alguna vez se ha preguntado el lector por qué tantos ca-
+minos se cruzan en ángulo recto? Hay un buen motivo. Puesto que vivi-
+mos en la superficie terrestre, estamos acostumbrados a describir los lugares en
+dos dimensiones, y una de las formas más sencillas de hacerlo es tomando co-
+mo referencia dos ejes perpendiculares. Cuando queremos explicar a alguien cómo
+llegar a cierto lugar en la ciudad, le decimos, por ejemplo: “Camina cuatro cua-
+dras hacia el centro y luego tres a la derecha”. En el campo podríamos decir: 
+“Camina cinco kilómetros al sur y luego uno al este”. En ambos casos, necesi-
+tamos saber qué tan lejos ir en dos direcciones que están a 90 /H11034una de la otra.
+Podríamos utilizar el mismo enfoque para describir el movimiento, y éste no
+tiene que ser en línea recta. Como veremos a continuación, también podemos usar
+vectores, que presentamos en el capítulo 2, para describir movimiento en trayec-
+torias curvas. El análisis de un movimiento curvilíneo nos permitirá estudiar 
+el comportamiento de pelotas bateadas, planetas en órbita alrededor del Sol e 
+incluso electrones en átomos. 
+El movimiento curvilíneo puede analizarse empleando los componentes rec-
+tangulares del movimiento. En esencia, descomponemos el movimiento curvo en
+componentes rectangulares ( x y y), y examinamos el movimiento en ambas di-
+mensiones simultáneamente. Podemos aplicar a esos componentes las ecuaciones
+de cinemática que examinamos en el capítulo 2. Por ejemplo, para un objeto que
+se mueve en una trayectoria curva, las coordenadas x y y del movimiento en cual-
+quier momento dan la posición del objeto en cualquier punto.
+
+68

@@ -1,0 +1,1671 @@
+Tema: Movimiento en dos y tres dimensiones (Capítulo 3 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+50 | Capítulo 3 Movimiento en dos y tres dimensiones 
+Suma de vectores desplazamiento 
+sucesivos A y B: 
+C=A+B 
+La figura 3.1 muestra la trayectoria de una partícula que se mueve desde el punto P} hasta un 
+segundo punto P; y luego a un tercer punto P3. El desplazamiento de P, a P} viene represen- 
+tado por el vector A y el desplazamiento de P, a Py por B. Obsérvese que el vector desplaza- 
+miento depende sólo de los puntos extremos y no de la trayectoria real de la partícula. El 
+desplazamiento resultante de P} a Py, llamado C, es la suma de los dos desplazamientos 
+(3.1) 
+Dos vectores desplazamiento se suman gráficamente situando el origen de uno en el 
+Figura 3.1 extremo del otro (figura 3.2). El vector resultante se extiende desde el origen del primer vec- 
+tor al extremo final del segundo. Obsérvese que C no es igual a A + B a menos que A y B 
+estén en la misma dirección. Es decir C = A + B no implica que C =A + B. 
+Una forma equivalente de sumar vectores es el llamado método del paralelogramo, que 
+consiste en desplazar B hasta que coincida su origen con el de A, La diagonal del paralelo- 
+gramo formado por A y B es igual a C. Como puede verse en la figura 3.3, no existe diferen- 
+cia en el orden en que sumemos los vectores; es decir A + B =B + A. 
+cnn... 
+4 + 
+c +B 
+B 
+A sg ap ti A+B=B+A=C 
+Figura 3.2 Método para la suma de vec- Figura 3.3 Método del paralelogramo para 
+tores que consiste en situar los dos vectores la suma de vectores. 
+uno a continuación del otro. 
+EJEMPLO 3.1 | Desplazamiento 
+Una persona se mueve 3 km hacia el este y luego 4 km hacia el norte. ¿Cuál es el desplaza- 
+miento resultante? 
+Planteamiento del problema Los dos desplazamientos componentes y el desplazamiento 
+resultante se muestran en la figura 3.4. Como A y B forman un ángulo recto entre sí y C =A + B es 
+la hipotenusa del correspondiente triángulo rectángulo, el módulo C puede hallarse mediante el teo- 
+rema de Pitágoras. La dirección de C se obtiene por trigonometria. 
+1. El módulo del desplazamiento resultante está relacionado con los C? = A?+ B? 
+módulos de los dos desplazamientos por el teorema de Pitágoras: (3 km)? + (4km)? = 25 km? 
+y de aquí 
+C = J/25 km? = 5km 
+2. Sea 0 el ángulo que forma el eje de dirección este con el desplaza- tg 0 = Ë 
+miento C. Según sea la figura podemos determinar tg @ y basta utilizar 
+una calculadora con funciones trigonométricas para obtener 6: y de aquí 
+B_ 4km _ A 6 = arctg 5 = arctg 5 = 53, 
+Observación Un vector viene descrito por su módulo y dirección. En este ejemplo el desplaza- 
+miento resultante es un vector de longitud 5 km en una dirección 53,1° al norte del este. 
+3 km 
+Figura 3.4
+
+3.2 Propiedades generales de los vectores | 51 
+3.2 Propiedades generales de los vectores 
+En física existen muchas magnitudes que poseen módulo y dirección, y se suman como los 
+desplazamientos. Son ejemplos la velocidad, la aceleración, el momento lineal y la fuerza. 
+Estas magnitudes se llaman vectores. Las magnitudes que carecen de dirección asociada 
+—por ejemplo, la distancia y el módulo de la velocidad— se denominan escalares. 
+Los vectores son magnitudes con módulo, dirección y sentido que se suman como los 
+desplazamientos. 
+DEFINICIÓN —VECTORES N 
+Un vector se representa gráficamente por una flecha cuya dirección es la misma que la del 
+vector y cuya longitud es proporcional al módulo del vector. Cuando se expresa el módulo W \ 
+de un vector, debe venir acompañado de sus unidades. Asi, el módulo del vector velocidad se 
+expresa en metros por segundo. Dos vectores son iguales cuando tienen el mismo módulo y ~~ 
+la misma dirección. Gráficamente esto significa que tienen la misma longitud y son paralelos N N 
+el uno al otro, Una consecuencia de esta definición es que si un vector se mueve mantenién- x 
+dose paralelo a sí mismo, no se modifica. Así todos los vectores de la figura 3.5 son iguales. 
+Si trasladamos o giramos el sistema de coordenadas, todos los vectores de la figura 3.5 per- Figura 3.5 Los vectores son iguales si sus mó- 
+manecen iguales. Un vector no depende del sistema de coordenadas utilizado para su repre-  dulos y direcciones son los mismos. Todos los vec- 
+sentación (excepto los vectores de posición, que introduciremos en la sección 3.3). tores de esta figura son iguales. 
+Producto de un vector por un escalar 
+Un vector A multiplicado por un escalar s es el vector B = sA, que tiene módulo |s|A y es 
+paralelo a A si s es positivo, y antiparalelo a A si s es negativo. Así, el vector —A tiene el 
+mismo módulo que A, pero apunta en dirección opuesta, de modo que A + (—A) = 0. Las 5 ES 
+dimensiones de sA son las de s multiplicadas por las de A. +” A , B C=A-B 
+Resta de vectores C=A-B -B rr 
+Para restar el vector B del vector A basta sumarle —B. El resultado es C =A + (-B)=A —B (a) (b) 
+(figura 3.6a). Otro método equivalente de restar B de A es unir sus orígenes y trazar el vector Figura 3.6 
+C de B aA. Es decir, C es el vector que debe sumarse a B para obtener el vector resultante A 
+(figura 3.6b). Las reglas de sumar o restar dos vectores cualesquiera, tales como dos vectores 
+velocidad o dos vectores aceleración, son las mismas que las utilizadas para los desplaza- 
+mientos. 
+Componentes de los vectores 
+La componente de un vector a lo largo de una línea en el espacio es la longitud de la proyec- 
+ción del vector sobre dicha línea. Se obtiene trazando una línea perpendicular desde el 
+extremo o flecha de un vector a la línea, como indica la figura 3.7. El signo de la componente 
+es positivo si la proyección de la punta del vector se encuentra en la dirección positiva con 
+relación a su origen. Las componentes de un vector a lo largo de las direcciones x, y y z, ilus- 
+tradas en la figura 3.8 para un vector en el plano xy, se denominan componentes rectangula- 
+res. Obsérvese que las componentes de un vector dependen del sistema de coordenadas į 
+utilizado para su representación, aunque el mismo vector no dependa de ello. As=Acos 0, Bs =B cos 0, = ~B cos 0 
+Las componentes rectangulares son útiles para la suma o resta de vectores. Si 0 es el (a) (b) 
+ángulo comprendido entre A y el eje x, resulta Figura 3.7 Definición de la componente de un 
+vector. La componente del vector A en la dirección 
+A,=A cos 6 (3.2) positiva de S es A,, y A, es positiva. La componente 
+‘ del vector B en la dirección positiva de S es B,, y B, 
+COMPONENTE X DE UN VECTOR es negativa,
+
+A, =Acos @ 
+Figura 3.8 Componentes rectangulares de un 
+vector. A, =A cos 0, A, =A sen Ó. 
+C, 
+A, 
+Figura 3.9 
+N 
+A 
+WwW = E 
+S 
+Figura 3.10 
+EJEMPLO 3.2 | El mapa del tesoro 
+A, =A sen O (3.3) 
+COMPONENTE Y DE UN VECTOR 
+en donde A es el módulo de A. 
+Si conocemos A, y A,, podemos obtener el ángulo @ a partir de 
+tg 0 = Ay, 0 = arctg Ay (3.4) 
+A A, x 
+y el módulo A a partir del teorema de Pitágoras: 
+A = JA? +A? (3.5a) 
+En tres dimensiones, 
+A = JA?+A? +A? (3.5b) 
+Las componentes pueden ser positivas o negativas. Por ejemplo, si A apunta en la dirección 
+negativa de x, A, es negativa. 
+Consideremos dos vectores A y B en el plano xy. Las componentes rectangulares de cada 
+vector y las de la suma C = A + B se muestran en la figura 3.9, Como puede verse, la ecuación 
+vectorial C = A + B es equivalente a las dos ecuaciones de las componentes: 
+C =A, + B, (3.6a) 
+C,=A,+B, (3.6b) 
+Ejercicio Un coche recorre 20 km en dirección 30° al norte del oeste. Se supone que el eje 
+x apunta al este y el eje y al norte, como en la figura 3.10. Determinar las componentes x e y 
+del vector desplazamiento del coche. (Respuesta A,=—17,3 km, A, = +10 km.) 
+¡PÓNGALO EN SU CONTEXTO! 
+Suponga que usted trabaja como animador en un centro turístico en una isla tropical. Dispone 
+de un mapa que le indica las direcciones a seguir para enterrar un tesoro en un lugar determi- 
+nado. Usted no desea malgastar el tiempo dando vueltas por la isla, porque quiere acabar pronto 
+para ir a la playa y hacer surfing. Las instrucciones son ir 3 km hacia el oeste y luego 4 km en 
+la dirección de 60° al nordeste. ¿En qué dirección debe moverse y cuánto tendrá que caminar 
+para cumplir su objetivo con la máxima rapidez? Encuentre la respuesta (a) gráficamente y (b) 
+usando componentes vectoriales 
+Planteamiento del problema Hay que encontrar la resultante del desplazamiento, que es C en 
+la figura 3.11. El triángulo formado por los tres vectores no es rectangular, de modo que no podemos 
+aplicar el teorema de Pitágoras. Podemos obtener gráficamente la resultante dibujando a escala cada 
+uno de los desplazamientos y midiendo el desplazamiento resultante. 
+(a) Si dibujamos el primer vector desplazamiento A de 3 cm de largo y el 
+segundo B de 4 cm de largo, encontraremos que el vector resultante C 
+es de unos 3,5 cm de longitud. Así, el módulo del desplazamiento 
+resultante es de 3,5 km. El ángulo @ formado por el desplazamiento 
+resultante y la dirección oeste puede medirse con un transportador 
+angular. Por lo tanto, debe andar 3,5 km a 75°,” 
+3 cm 
+Figura 3.11
+
+(b) 1. Para resolver el problema utilizando las componentes vectoriales, A,=—3km y A,= 
+sea A el primer desplazamiento y elegimos el eje x positivo en la 
+dirección este y el eje y positivo en la dirección norte. Calculamos 
+A, y A, de las ecuaciones 3.2 y 3.3: 
+3.2 Propiedades generales de los vectores | 53 
+2. De igual modo calculemos las componentes del segundo despla- B., = (4km) cos 60° = 2 km 
+zamiento B: B, = (4 km) sen 60° = 3,46 km 
+3. Las componentes del desplazamiento resultante C =A +B se C, = A,+B, =-—3km+2km= -1 km 
+btiene suma: A a Se C, = A, +B, = 0+2,/3 km = 3,46 km 
+4. El teorema de Pitágoras nos permite obtener la magnitud de C: C? = C2+C? = (-1 km)? + (2/3 km)? = 13,0 km? 
+G= J3 km 
+y 
+5. El cociente entre C, y C, es igual a la tangente del ángulo Bentre tg 9 = ic] 
+C y la dirección negativa de x: 5 
+por lo tanto, 
+2/3 km 6 = arctg ———_ £ l km 
+iza Observaciones Como el desplazamiento es una magnitud vectorial, la respuesta debe incluir el 
+módulo y la dirección o ambas componentes. En (b) podríamos haber concluido el cálculo en el paso 
+3, ya que las componentes x e y definen completamente el vector desplazamiento. Se han convertido 
+en el módulo y la dirección para comparar el resultado con la respuesta a la parte (a). Obsérvese que 
+en el paso 5 de (b) se obtiene un ángulo de 74 °. Este resultado está de acuerdo con el de (a) dentro 
+de la exactitud de nuestra medida. 
+Vectores unitarios 
+Un vector unitario es un vector sin dimensiones de módulo unidad. El vector A~'A es un 
+ejemplo de vector unitario que apunta en la dirección de A. (A veces, para evitar confusio- 
+nes, los vectores unitarios se escriben en negritas con un pequeño ángulo en su parte supe- 
+rior; por ejemplo, A = A-A.) Los vectores unitarios que apuntan en la direcciones x, y y zZ 
+son convenientes para expresar los vectores en función de sus componentes rectangulares. 
+Usualmente se escriben i, j y k, respectivamente. Así, el vector A,i tiene módulo A, y apunta 
+en la dirección x positiva si A, es positiva (o la dirección x negativa si A, es negativo). Un 
+vector A en general puede escribirse como suma de tres vectores, cada uno de ellos paralelo 
+a un eje coordenado (figura 3.12): 
+A = A,i+A,j+A.k (3.7) 
+La suma de dos vectores A y B puede escribirse en función de vectores unitarios en la forma 
+A+B = (A,¡+A, ¡+4.k)+(B,¡1+B,j+B_k) "A 
+(3.8) 
+= (A,+B,J)i+(A,+B,)j+(A.+B,)k 
+Las propiedades generales de los vectores se resumen en la tabla 3.1. 
+Ejercicio Dados dos vectores 
+A = (4m)i+(3m)j y B = (2 m)i-(3 m)j, 
+determinar (a) A, (b) B, (c) A + B, y (d) A — B. (Respuestas (a) A = 5 m, (b) B = 3,61 m, (c) 
+A + B = (6 m)i, (d) A — B = (2 m)i + (6 m)j.) 
+= arctg (28) 
+(b) 
+Figura 3.12 (a) Vectores unitarios i, j y ken un 
+sistema de coordenadas rectangulares. (b) Vector 
+A escrito en función de los vectores unitarios: A = 
+Ai+Aj+Axk.
+
+54 | Capítulo 3 Movimiento en dos y tres dimensiones 
+TABLA 3.1 Propiedades de los vectores 
+Representación de 
+Propiedad Explicacion las componentes 
+Igualdad A=B si [A| = |B| y sus direcciones y sentidos son A A,=B, 
+iguales B Ay = By 
+A=B; 
+c C,=A,+ B, 
+Adicién C=A+B B C, =A, + B, 
+C.=A,+B, 
+A 
+A,=-B, 
+Sh aoe Negativo de un vector A=-Bsi |B| = |A| y su sentido es opuesto B A.=-B, 
+cor C¿=A,- B, 
+A + C, =A, — B, 
+Sustracción C=A-B A 
+Multiplicación porun B = sA tiene el módulo |B| 
+escalar ción que A si es s positivo o —A si s es negativo 
+= siAl y la misma direc- 
+B.= 
+B B,=sA, 
+VS Je ee 
+Figura 3.13 El vector desplazamiento Ar es la 
+diferencia de los vectores de posición Ar = r,—r;. 
+De igual modo Ar es el vector que sumado a r; nos 
+da el nuevo vector posición r>. 
+3.3 Posición, velocidad y aceleración 
+Vectores posición y velocidad 
+El vector posición de una partícula es un vector trazado desde el origen de un sistema de 
+coordenadas hasta la posición de la partícula. Para una partícula en el punto (x, y) su vector 
+posición r es 
+r=xi+ yj (3.9) 
+DEFINICIÓN —VECTOR POSICIÓN 
+La figura 3.13 representa la trayectoria o camino real seguido por la partícula. (No con- 
+fundir la trayectoria con los gráficos x en función de r del capítulo anterior.) En el instante f,, 
+la partícula se encuentra en P}, y su vector posición es r; en el instante gla particula se ha 
+movido a P, y el vector posición es r). El cambio de posición de la partícula es el vector des- 
+plazamiento Ar: 
+Ar=r3-r; (3.10) 
+DEFINICIÓN —VECTOR DESPLAZAMIENTO 
+El cociente entre el vector desplazamiento y el intervalo de tiempo Ar = t — 1, es el vector 
+velocidad media. 
+(3.11) 
+DEFINICIÓN —VECTOR VELOCIDAD MEDIA 
+Este vector apunta en la dirección del desplazamiento.
+
+El módulo del vector desplazamiento es inferior a la distancia recorrida a lo largo de la 
+curva a menos que la partícula se mueva en línea recta. Sin embargo, si consideramos inter- 
+valos de tiempo cada vez más pequeños (figura 3.14), el desplazamiento se aproxima a la 
+distancia real recorrida por la partícula a lo largo de la curva, y la dirección Ar se aproxima a 
+la dirección de la línea tangente a la curva en el comienzo del intervalo, Definimos el vector 
+velocidad instantánea como el límite del vector velocidad media cuando Af tiende a cero: 
+lim (3.12) y= 
+ar>0 At dt 
+DEFINICIÓN —VECTOR VELOCIDAD INSTANTÁNEA 
+El vector velocidad instantánea es la derivada del vector posición respecto al tiempo. Su 
+módulo es la velocidad escalar y apunta en la dirección del movimiento de la partícula a lo 
+largo de la línea tangente a la curva. 
+Para calcular la derivada en la ecuación 3.12 expresamos el vector posición en función de 
+sus componentes. 
+Ar = r-r; = (xx )i+(y,-y1)j = Axi +Ayj 
+Por lo tanto, 
+v= lim = lin Ads 42 him (Z )i+ lim (2) ar=0 Af  ar=0 At ar=0 UA! ar=0LAt 
+es decir, 
+dx, dy : A > = —i++j=v ? 3.13 y dí de Vitv (3.13) 
+EJEMPLO 3.3 | La velocidad de un velero 
+Un barco de vela tiene las coordenadas (x,, y1) = (110 m, 218 m) en el instante £, = 60 s. Dos 
+minutos más tarde, en el instante f,, sus coordenadas son (x, y2) = (130 m, 205 m). (a) Deter- 
+minar la velocidad media en este intervalo de dos minutos. Expresar vm en función de sus 
+componentes rectangulares. (b) Determinar el módulo y la dirección de esta velocidad media. 
+(c) Para t > 20 s, la posición del barco en función del tiempo es x(t) = b; + bxt e y(t) = c; + Coll, 
+donde b, = 100 m, b, = P m/s, c; = 200 y c, = 1080 m » s. Calcular la velocidad instantánea en el 
+tiempo genérico f > 20 s. 
+Planteamiento del problema Se conocen las posiciones inicial y final del barco de vela. (a) El 
+vector velocidad media apunta de la posición inicial a la final. (b) Las componentes de la velocidad 
+instantánea se calculan a partir de la ecuación 3.13; v, = dx/dt y v, = dy/dt. 
+(a) 1. Dibuje un sistema de coordenadas (figura 3.15) que muestre el 
+desplazamiento del velero. La dirección del vector velocidad 
+media y del vector desplazamiento coincide. 
+2. Las componentes xe y de la velocidad media Vm se calculan direc- Ym = Vrm 1+ Vy J 
+3.3 Posición, velocidad y aceleración 55 
+y | La tangente a la curva en P, 
+es por definición la dirección 
+de v en P; 
+O x 
+Figura 3.14 Al considerar intervalos de tiempo 
+cada vez más pequeños, la dirección del desplaza- 
+miento se aproxima a la tangente a la curva. 
+y, m 
+Vy, m 
+230 
+(130, 205) 
+110 120 
+ȚN 
+Figura 3.15 
+tamente a partir de sus definiciones: donde 
+Ax _ 130 m-110 m = = = ——— = 0,167 S eee Ai 120 ),167 m/s 
+Ay _ 205 m-218 m , = == —_= = -0,10 s Vym Ar 120 s 0,108 m/s 
+3. El módulo de v,, se deduce del teorema de Pitágoras: 
+por lo tanto 
+Ym =1(0,167 m/s) i- (0,108 m/s) j 
+eS A d+ (Vym)? =| 0,199 m/s
+
+56 | Capítulo 3 Movimiento en dos y tres dimensiones 
+2. El cociente entre Vym Y Vrm expresa el valor de la tangente del tg 0 = = 
+ángulo O entre v, y el eje x: oa 
+luego 
+8 = arctg > == arctg 0-108 m/s m Sn 0,167 m/s 
+(c) La velocidad instantánea y se obtiene calculando dx/dt y dy/dt. = Si > a; = b,i-c,rj = 
+Observación El módulo de v se obtiene de v = „fv? + v? y su dirección de tg 0 = v/v,- 
+Ejercicio Determinar las componentes x e y y el módulo y dirección de la velocidad instantá- 
+nea del barco de vela en el instante f) = 60 s (Respuestas y = G m/s)i — (0,30 m/s)j, 
+v¡ = 0,34 m/s, 0, = —60,9°.) 
+Velocidad relativa 
+Las velocidades relativas en dos y tres dimensiones pueden combinarse del mismo modo que 
+lo hacen en una dimensión, excepto en el hecho de que los vectores velocidad no coinciden 
+necesariamente a lo largo de la misma línea. Si una partícula se mueve con velocidad y, 
+relativa a un sistema de coordenadas A, y éste a su vez se mueve con velocidad y, relativa a 
+otro sistema B, la velocidad de la partícula respecto a B es 
+VpB = VpA + VAB (3.14) 
+VELOCIDAD RELATIVA 
+Por ejemplo, si Ud. se encuentra en una vagoneta que se mueve respecto al suelo con veloci- 
+dad v, (figura 3.16a) y camina con una velocidad relativa a la vagoneta de v,, (figura 3.16b), 
+(b) su velocidad relativa respecto al suelo será la suma de estas dos velocidades: Vps = Vys + Vp, 
+(figura 3.16c). 
+La velocidad del objeto A relativa al objeto B es igual en módulo y opuesta en dirección 
+a la velocidad del objeto B respecto al objeto A. Por ejemplo, Vp» =—v,,, en donde v, es la 
+velocidad de la vagoneta respecto a la persona. La adición de velocidades relativas se realiza 
+del mismo modo que la suma de desplazamientos: gráficamente, situando los vectores velo- 
+i cidad el origen de uno en el extremo del otro o bien, analfticamente a partir de las compo- 
+se) nentes vectoriales. 
+Figura 3.16 
+EJEMPLO 3.4 | Movimiento de un avión à 
+Un avión debe volar hacia el norte. La velocidad del avión respecto al aire es 200 km/h y el 
+viento sopla de oeste a este a 90 km/h. (a) ¿Cuál debe ser el rumbo del avión? (b) ¿Qué veloci- 
+dad debe llevar el avión respecto al suelo? 
+Planteamiento del problema Como el viento sopla hacia el este, un avión con rumbo hacia el 
+norte derivará hacia el este. Para compensar el viento de través, el avión debe dirigirse hacia el 
+noreste. La velocidad del avión respecto al suelo va, será la suma de la velocidad del avión respecto 
+al aire ya, más la velocidad del aire respecto al suelo Vas- 
+(a) 1. La velocidad del avión respecto al suelo viene dada por la ecua- = Va, = Vay + Vas Figura 3.17 
+ción 3.14: 
+2. Dibuje un diagrama que muestre la suma de los vectores del paso 
+1. Ponga los ejes de referencia como los que se muestran en la 
+figura 3.17.
+
+3.3 Posición, velocidad y aceleración 57 
+Vas 
+3. El seno del ángulo @ formado por la velocidad del avión y la sen @ = . .e . . y 
+dirección norte es igual al cociente entre Vis Y VAa: md 
+por lo tanto 
+0 = aresen—** = arcsen 200/h = É CA 200 km/h 
+(b) Como vas y Vas son perpendiculares podemos utilizar el teorema de Vis = Vis + VAs 
+Pitágoras para determinar el módulo de v,,: con lo cual 
+./(200 km/h)? (90 kmh)? =| 179 km/h 
+Vector aceleración 
+Se define el vector aceleración media como el cociente entre la variación del vector veloci- 
+dad instantánea Av y el intervalo de tiempo Ar: 
+DEFINICIÓN —VECTOR ACELERACIÓN MEDIA 
+El vector aceleración instantánea es el límite de esta relación cuando el intervalo de 
+tiempo se aproxima a cero; es decir, el vector aceleración instantánea es la derivada del vec- 
+tor velocidad respecto al tiempo: 
+a= lim ANS dy (3.16) 
+ar>o At dt 
+DEFINICION —VECTOR ACELERACION INSTANTANEA 
+Para calcular la aceleración instantánea expresaremos v en función de sus coordenadas rec- 
+tangulares: 
+dx, dy, dz re vida de 
+VEIA E ae 
+Por lo tanto, 
+dv., dv, : dv. Ax, dy, d?z i 
+—i+ —j + —k = —i+ 1j + — 
+dt dt? dt dt dt dt (3.17) 
+= a,itaj+a.k 
+po] Il 
+EJEMPLO 3.5 | El movimiento de una pelota de béisbol 
+La posición de una pelota de béisbol golpeada por el bateador viene dada por la expresión r = 
+1,5 m i + (12 m/s i + 16 m/s j)t - 4,9 m/s? j 7. Determinar su velocidad y aceleración. 
+Planteamiento del problema Dado que r = xi + yj, tenemos que x = 1,5 m + (12 m/s)r y que 
+y = (16 m/s): — (4,9 m/s*)P. Podemos calcular las componentes x e y de la velocidad y de la acelera- 
+ción derivando x e y respecto a /.
+
+58 | Capítulo 3 Movimiento en dos y tres dimensiones 
+1. Las componentes x e y de la velocidad se obtienen derivando xe y. i= 2 = I 1,5 m + (12 m/s)t]= 12 m/s 
+a) d A 2372 v= os gl 16 mus)t (4,9 m/s?)1?] 
+= 16 m/s—(9,8 m/s?)t 
+dv 
+2. Derivando de nuevo se obtienen las componentes de la aceleración: a, = a =0 
+dv, 
+a, = — = -9,8 m/s? dt 
+3. Utilizando la notación vectorial, la velocidad y la aceleración son: v =|(12 m/s)i + [16 m/s + (9,8 m/s?)r]j 
+(-9,8 m/s?) j 
+Observación Este es un ejemplo del movimiento de proyectiles, tema que estudiaremos en la 
+sección 3.4, 
+Para que un vector sea constante, tanto su módulo como su dirección deben permanecer 
+constantes. Si cualquiera de ellas cambia, el vector se modifica. Por lo tanto, si un coche 
+toma una curva en la carretera con el módulo de la velocidad constante, experimenta una 
+aceleración, ya que el vector velocidad se modifica debido al cambio de dirección. 
+EJEMPLO 3.6 Doblando una esquina 
+Un coche se mueve hacia el este a 60 km/h. Toma una curva y 5 s más tarde viaja hacia el norte 
+a 60 km/h. Determinar la aceleración media del coche. 
+Planteamiento del problema Los vectores inicial y final se indican en la figura 3.18. Elegimos 
+el vector unitario i hacia el este y el vector j hacia el norte y calculamos la aceleración media a partir 
+de su definición, a = Av/Ar. Obsérvese que AV es el vector que sumado a v; nos da vp. 
+Av 1. La aceleración media es el cociente entre la variación de velocidad yel am = At 
+intervalo de tiempo: 
+2. El cambio de velocidad viene relacionado con las velocidades inicial y Av = v;-V; 
+final: 
+(60 km/h)i 
+(60 km/h)j 
+1i 3. Exprese las velocidades inicial y final como vectores: Vi 
+< ll 
+Ve— Yi _ (60 km/h)i - (60 kmh)j 4. Sustituya los resultados anteriores para determinar la aceleración amn = Av 
+media: vi 
+y; 
+Observación El coche acelera, aunque el módulo de la velocidad no cambia. (b) 
+Ii Ejercicio Determinar el módulo y la dirección del vector aceleración media. (Respuesta am 
+(17,0 km/h)/s, a 45° hacia el oeste del norte.) Figura 3.18 
+El movimiento de un objeto alrededor de una circunferencia es un ejemplo corriente de 
+movimiento en el cual la velocidad de un objeto cambia, aunque su módulo permanezca 
+constante. 
+La dirección del vector aceleración En los ejemplos siguientes queremos mostrar 
+cómo se determina la dirección del vector aceleración a partir de una descripción del movi- 
+miento. Por ejemplo, analicemos el movimiento de una gimnasta saltando en una plataforma
+
+fo * et) 
+to + 
+te 9". Mikey 
+te 92 LS ead) (| 
+va 
+ty, è Va tf. e e ty 
+— a, aa 
+tye 9% fa "3 tye er 
+ts e lo et, z 
+(a) (b) t6 
+Figura 3.19 (a) Diagrama del movimiento del Figura 3.20 Los puntos que repre- 
+frenado de una saltadora cuando llega al suelo. Los sentan el ascenso de la saltadora se 
+puntos se han dibujado a instantes de tiempo conse- dibujan a la derecha de aquellos que 
+cutivos. (b) Dibujamos los vectores v, y V4 en el representan su descenso con el obje- 
+mismo punto y determinamos Av como el vector tivo de que no se superpongan. Sin 
+que une el extremo de v, con el punto que alcanza embargo, el movimiento de la salta- 
+v4 de modo que v, + Av = v4. La aceleración a, va dora está dirigido en la misma direc- 
+en la misma dirección y sentido que Av. ción aunque con sentido contrario. 
+elástica cuando alcanza el punto más bajo de un salto y frena y, posteriormente, cambia el 
+sentido de su velocidad iniciando un nuevo salto. Para determinar la dirección de la acelera- 
+ción cuando está frenando, en la figura 3.19a dibujamos una serie de puntos que muestran su 
+posición en sucesivos instantes de tiempo. Cuanto más rápido se mueve, mayor es la distan- 
+cia que recorre en instantes de tiempo sucesivos y, por lo tanto, mayor es la distancia entre 
+los correspondientes puntos de la figura. Numeramos los puntos correlativamente, empe- 
+zando con el cero. En el instante fp la saltadora está en el punto 0, en el instante ¢, en el punto 
+1 y así sucesivamente. Para determinar la dirección de la aceleración en el instante t, dibuja- 
+mos los vectores que representan la velocidad de la saltadora en los instantes t y t4. La acele- 
+ración media en el intervalo entre ñ y fy es Av/Ai donde Ay = v4 — V3 y Al = i4 — i. Usamos 
+estas expresiones para estimar la aceleración de la saltadora en el instante de tiempo fy, es 
+decir, az = Av/At. Como a; y Av van en la misma dirección, determinando la dirección de 
+Av encontramos también la dirección de az. La dirección de Ay se obtiene usando la relación 
+V+ Av = v, y dibujando el correspondiente diagrama de suma de vectores (figura 3.19b). 
+Como la saltadora se mueve más rápido en el instante ñ que en el instante t4 (los puntos 
+están más separados), la longitud de v, es superior a la de v4. A partir de la figura obtenemos 
+la dirección de Ay y, por lo tanto, la dirección de a3. 
+Ejercicio La figura 3.20 es el diagrama del movimiento de la saltadora antes, durante y 
+después del instante de tiempo f,. cuando se halla momentánemanete en reposo en el punto 
+más bajo de su descenso. En el trozo mostrado de su ascenso la velocidad de la saltadora 
+aumenta. Utilice este diagrama para determinar la dirección de la aceleración de la saltadora 
+(a) en el instante tę y (b) en el instante fy. (Respuesta (a) hacia arriba, (b) hacia arriba) 
+EJEMPLO 3.7 | Un birrete volador 
+Un estudiante de física el día de su graduación lanza su birrete al aire con un ángulo inicial de 
+60° por encima de la horizontal. Determinar la dirección de la aceleración del birrete durante 
+su movimiento ascendente usando un diagrama del movimiento. 
+Planteamiento del problema A medida que el birrete sube, pierde velocidad y varía su posi- 
+ción. Dibujaremos el diagrama del movimiento y para determinar la dirección de Av, es decir, la de 
+la aceleración, haremos un esquema de la relación v; + Av = vy. 
+3.3 Posición, velocidad y aceleración | 59
+
+60 | Capítulo 3 Movimiento en dos y tres dimensiones 
+1. El diagrama de la figura 3.21a muestra el movimiento ascendente del 
+birrete. Como a medida que asciende se frena, el espacio entre los pun- 
+tos disminuye. 
+2. En un punto de la figura se dibuja el vector velocidad en un instante de 
+tiempo inmediatamente anterior y posterior al elegido. Nótese que los 
+vectores se dibujan tangentes a la trayectoria del birrete. ti 
+3. Larepresentación gráfica de la relación v; + Ay = vp se obtiene dibu- 
+jando los dos vectores velocidad en un mismo punto. Estos vectores to 
+tienen el mismo módulo y dirección que los vectores dibujados en el 
+paso 2. El vector Av se obtiene uniendo sus extremos. (a) (b) 
+4. El vector aceleración tiene la misma dirección que el vector Av, pero 
+no necesariamente la misma longitud, ya que a = Av/Ar. Av 
+(c) (d) 
+Figura 3.21 
+Observación El método de determinar la dirección de la aceleración mediante el diagrama del 
+movimiento no es preciso. Por consiguiente, el resultado solamente es una estimación de la acelera- 
+ción, no un cálculo exacto. 
+Ejercicio Usar el diagrama del movimiento para determinar la dirección de la aceleración del 
+birrete del ejemplo 3.7 durante su caída. (Respuesta directamente hacia abajo) 
+3.4 Primer caso particular: movimiento de proyectiles 
+La figura 3.22 muestra el lanzamiento de una partícula con velocidad inicial vg y formando 
+un ángulo 6, con el eje horizontal. Sea (xo, yo) el punto de lanzamiento; y es positiva hacia 
+arriba y x positiva hacia la derecha. 
+Las componentes de la velocidad inicial son 
+v Oy 
+Vo COS O, (3.18a) Vox 
+Voy = Vo sen Oy (3.18b) 
+En ausencia de la resistencia del aire, la aceleración es la de la gravedad, dirigida vertical- 
+mente hacia abajo: 
+Figura 3.22 
+a,=0 (3.19a) 
+a,=-2 » (3.19b) 
+Como la aceleración es constante, podemos utilizar las ecuaciones cinemáticas discutidas en 
+el capítulo 2. La componente x de la velocidad es constante, ya que no existe aceleración 
+horizontal: 
+Vy = Vor (3.20a) 
+_La componente y varía con el tiempo según la ecuación 2.11, con a =—g: 
+Vy= Voy — 8t (3.20b)
+
+3.4 Primer caso particular: movimiento de proyectiles 61 
+Obsérvese que v, no depende de v, y viceversa. Las componentes horizontal y vertical del 
+movimiento de proyectiles son independientes. Esto puede demostrarse dejando caer una 
+bola desde cierta altura y proyectando horizontalmente desde la misma altura una segunda 
+bola al mismo tiempo. Ambas bolas chocan contra el suelo simultáneamente. Los desplaza- 
+mientos x e y vienen dados por (véase ecuación 2.16.) 
+X(t) = Xo + Up! (3.21a) 
+y(t) = yo + vpo gr? (3.21b) 
+ECUACIONES DEL MOVIMIENTO DE UN PROYECTIL 
+La notación x(t) e y(r) destaca simplemente que x e y son funciones del tiempo. Si se conoce 
+la componente y de la velocidad inicial, la ecuación 3.21b nos permite determinar el instante 
+t en que la partícula se encuentra a la altura y. La posición horizontal en ese mismo tiempo 
+puede calcularse a partir de la ecuación 3.21a, La distancia total horizontal recorrida por un 
+proyectil es su alcance. (Las formas vectoriales de las ecuaciones 3.19 a 3.21 se dan en las 
+páginas 63 y 64.) 
+EJEMPLO 3.8 | Otro birrete en el aire 
+Un estudiante de física lanza un birrete al aire con una velocidad inicial de 24,5 m/s, formando 
+un ángulo de 36,9” con la horizontal, Posteriormente, otro estudiante lo coge. Determinar (a) el 
+tiempo total que el birrete está en el aire y (b) la distancia total horizontal recorrida. 
+Planteamiento del problema Elegimos la posición inicial del birrete como origen, de modo 
+que xo = yy = 0. Suponemos que el otro estudiante lo coge a la misma altura. El tiempo total que el 
+birrete está en el aire se determina haciendo y = 0 en la ecuación 3.215. Este resultado puede utili- 
+zarse en la ecuación 3.2 la para determinar la distancia total recorrida. 
+he f to (a) 1. Hacemos y = 0 en la ecuación 3.21b y despejamos z: y= vgt- zg = 1 vo, - 21) = 0 
+2. Existen dos soluciones para f: t=0 (condiciones iniciales) 
+t= 2 Viy 
+g 
+3. Calcular la componente vertical del vector velocidad inicial: Voy = Vg sen bh = (24,5 m/s) sen 36,9? = 14,7 m/s 
+A Š s 2 Voy 2v9 sen 0, 
+4. Sustituir este resultado en vg, del paso 2 para determinar el tiempo = <<" 
+total r: oer ; _ 2(24,5 m/s)sen 36,9° _ 
+9.81 m/s? 
+(b) Utilizar este valor del tiempo para calcular la distancia total horizon- ¥ = Vost = (Vp cos O)t = (24,5 m/s) cos 36,9°(3, 00 s) = 
+tal recorrida: 
+Observación El tiempo que el birrete está en el aire es el mismo que obtuvimos en el ejemplo 
+2.9, en donde el birrete fue lanzado verticalmente hacia arriba con vo = 14,7 m/s. La figura 3.23 10 
+muestra la altura y en función de ¢ para el birrete. Esta curva es idéntica a la representada en la figura 
+2.11 (ejemplo 2.9) porque ambos birretes están sometidos a la misma aceleración y velocidad verti- 
+cal. La figura 3.23 puede reinterpretarse como un gráfico de y en función de x si su escala de tiempo 
+se convierte en una escala de longitud. Para ello basta multiplicar los valores del tiempo por 19,6 m/s, 
+ya que el birrete se desplaza horizontalmente a (24,5 m/s) cos 36,9 = 19,6 m/s. La curva y en fun- 
+ción de x es una parábola. 1 2 3 ra 
+La figura 3.24 muestra una serie de gráficos de las distancias verticales en función de las distan- > E 3 É TE si > E MF watts 9 39.9 528 
+cias horizontales para proyectiles de velocidad inicial 24,5 m/s y varios ángulos iniciales distintos. 19.6 225% 398. x, m 
+Los ángulos representados son 45°, que es el de alcance máximo, y pares de ángulos que difieren el Figura 3.23
+
+62 | Capítulo 3 Movimiento en dos y tres dimensiones 
+mismo número de grados por encima y por debajo de 45°. Obsérvese que estos pares de ángulo tienen 
+el mismo alcance. La curva azul tiene un ángulo inicial de 36,9° (0,64 rad), como en este ejemplo. 
+Y, m 
+30 
+@=70 
+25 
+20 MÁ 6=53,1 
+15 — 0=457 
+Z z Toin 8 =36,9 
+— A 6 =20* 
+20 30 40 50 60 70 xm 
+Figura 3.24 
+La ecuación general para la trayectoria y(x) puede obtenerse a partir de las ecuaciones 
+3.21 eliminando la variable ż entre ambas. Escogiendo x) = yy = 0 se obtiene f = x/vp, de la 
+ecuación 3.21a. Sustituyendo este resultado en la ecuación 3.21 se obtiene 
+i 
+WX) = vol — |- 
+Teniendo en cuenta los valores de las componentes de las velocidades, resulta 
+R Alcance 
+P Punto de impacto f g 
+y(x) = (tg &%)x- arrg)” (3.22) y v = voxi \2v5 cos* 0, 
+po TRAYECTORIA DE UN PROYECTIL 
+Y J y 
+para la trayectoria de un proyectil. Esta ecuación es de la forma y = ax + bx*, que es la ecua- 
+R 
+ción de una parábola que pasa por el origen. La figura 3.25 muestra la trayectoria de un pro- 
+yectil con el vector velocidad y sus componentes indicadas en diversos puntos. Esta 
+x trayectoria se refiere a un proyectil que choca con el suelo en P. La distancia horizontal entre 
+el punto de lanzamiento y el de impacto es el alcance R. 
+En el caso especial en que las elevaciones inicial y final sean iguales, puede deducirse 
+Figura 3.25 Trayectoria de un proyectil, en don- una fórmula general para hallar el alcance de un proyectil en función de su velocidad inicial de se indican los vectores velocidad. y el ángulo de proyección. Como en los ejemplos anteriores, el alcance se obtiene multipli- 
+cando la componente x de la velocidad por el tiempo total que el proyectil está en el aire. El 
+tiempo total de vuelo T se obtiene haciendo y = 0 en la ecuación 3.21b: 
+y(T) = 1 T -igT? =:0, T>0 
+Dividiendo por T se obtiene 
+Voy=38T = 0 
+y el alcance: 
+/ 2y 
+z Y rg 
+R = vo.T = (Vg cos 9 )| — sen 0, | = — sen @ cos O, 
+g j 8
+
+3.4 Primer caso particular: movimiento de proyectiles | 63 
+Esta expresión puede simplificarse utilizando la siguiente identidad trigonométrica: 
+sen 20 = 2 sen 8 cos 0 
+Por consiguiente, 
+(3.23) 
+ALCANCE DE UN PROYECTIL PARA ELEVACIONES INICIAL Y FINAL IGUALES 
+Ejercicio Utilizar la ecuación 3.22 de la trayectoria para deducir la ecuación 3.23. 
+(Respuesta Hacer y(x) = 0 y despejar x.) 
+La ecuación 3.23 es útil para determinar el alcance de proyectiles con elevaciones inicial 
+y final iguales. Es importante destacar que esta ecuación muestra cómo el alcance depende 
+de 8. Como el valor máximo de sen 2 O es 1, cuando 2 8 = 90°, o sea, 0 = 45°, el alcance del 
+proyectil es máximo cuando @ = 45°. En muchas aplicaciones prácticas las cotas de altura 
+inicial y final pueden no ser iguales y son importantes otras consideraciones. Por ejemplo, en 
+el lanzamiento de peso, la bola termina su recorrido cuando choca contra el suelo, pero ha 
+sido proyectada desde una altura inicial de unos 2 m sobre el suelo. Esto hace que el alcance 
+sea máximo para un ángulo algo inferior a 45°, como se indica en la figura 3.26. Los estu- 
+dios realizados de los mejores lanzadores de peso muestran que el alcance máximo tiene 
+lugar para un ángulo inicial de unos 42°. 
+EJEMPLO 3.9 | La caída de un paquete de aprovisionamiento 
+Un helicóptero deja caer un paquete con suministros a las víctimas de una inundación que se 
+hallan en una balsa. Cuando el paquete se lanza, el helicóptero se encuentra a 100 m por 
+encima de la balsa, volando a 25 m/s y formando un ángulo de 36,9° sobre la horizontal. (a) 
+¿Durante cuánto tiempo estará el paquete en el aire? (b) ¿Dónde caerá el paquete? (c) Si el 
+helicóptero vuela a velocidad constante, ¿cuál será su posición en el instante en que el paquete 
+llega al suelo? 
+Planteamiento del problema La distancia horizontal recorrida por el paquete viene dada por 
+la ecuación 3.21a, en donde 1 es el tiempo que el paquete se encuentra en el aire. El valor de t puede 
+determinarse a partir de la ecuación 3,21b. Escoger el origen directamente por debajo del helicóptero 
+cuando el paquete se lanza. La velocidad inicial del paquete es la velocidad inicial del helicóptero. 
+La trayectoria del paquete durante el tiempo que está en el aire se 
+muestra en la figura 3.27. 
+(a) 1. 
+2. Para determinar el tiempo que el paquete está en el aire escribi- 
+mos y(f). 
+3. Haciendo yọ = 0, podemos aplicar la fórmula para la resolución de : 
+la ecuación de segundo grado para r: 2 
+despejando t 
+g 
+12 
+YU) = Yo + Voy! 381 
+y(t) = Vo,t-=gt? 0 
+_ Voy = Jv, R 2gy(t) 
+Trayectoria de 
+ángulo de tiro 45° 
+Si las cotas inicial 
+y final fueran iguales, 
+la trayectoria de 45° 
+seria la de maximo 
+alcance 
+Y 
+MA fan T Y 
+Trayectoria parabólica 
+más aplanada X ò 
+Cota inicial Cota final 
+Figura 3.26 Si un proyectil toca el suelo en una 
+cota inferior a la de proyección, el alcance máximo 
+se alcanza bajo un ángulo de tiro algo menor de 45°. 
+Figura 3.27 
+0= Lon = Voy! + y(t) 
+4. Calculamos t cuando y(t) =—100 m. Para ello se calcula vp, y dado 
+que el paquete se suelta cuando f = 0, el tiempo que transcurre 
+hasta el impacto no puede ser negativo. Por lo tanto: 
+Voy = Vo sen Oy = (25 m/s) sen 36,9% = 15 m/s 
+y sustituyendo 
+_ 15 m/s + /(15 m/s)? — 2(9,81 m/s?)(-100 m) » 
+: 9,81 m/s? 
+hay dos soluciones 
+=-324s o t= 630s
+
+p 
+64 | Capítulo 3 Movimiento en dos y tres dimensiones 
+(b) Cuando el paquete choca con el agua, se ha movido una distancia vo, = Vg cos O, = (25 m/s) cos 36,9° = 20 m/s 
+horizontal x, donde x es la velocidad horizontal por el tiempo de caída por lo tanto 
+del paquete. Primero calculamos la velocidad horizontal: x = Vo,t = (20 mis)(6,30's) =[126 m] 
+(c) Las coordenadas de la posición del helicóptero en el momento del Xa = Vox = (20 m/s)(6,30 s) = 
+impacto del paquete con el agua son: Ya = Yao + Vrot = 0+ (15 m/s)(6.30 s) =[94,5 m] 
+El helicóptero está 194.5 m directamente por encima del paquete. 
+Observación El tiempo positivo es el apropiado, ya que corresponde a un tiempo posterior al lan- 
+zamiento del paquete (el cual tiene lugar para ¢ = 0). La solución negativa del tiempo corresponde al 
+instante en que el paquete se encontraría a y = 0 si su movimiento hubiera comenzado con anteriori- 
+dad, como indica la figura 3.28. Obsérvese que el helicóptero se encuentra por encima del paquete 
+cuando éste choca contra el agua (y en cualquier momento anterior). La figura 3.29 muestra un grá- 
+fico de y en función de x para una serie de paquetes lanzados con diversos ángulos iniciales y con 
+una velocidad inicial de 25 m/s. La curva de ángulo inicial 36,9? es la de este ejemplo. Obsérvese 
+que el máximo alcance tiene lugar bajo un ángulo menor que 45°. 
+Figura 3.28 Figura 3.29 
+EJEMPLO 3.10 | Ala caza del ladrón 
+Un policía persigue a un consumado ladrón de joyas a través de los tejados de la ciudad. 
+Ambos están corriendo a la velocidad de 3 m/s cuando llegan a un espacio vacío entre dos 
+edificios que tiene 4 m de anchura y un desnivel de 3 m, tal como muestra la figura 3.30. El 
+ladrón, que tiene algunos conocimientos de física, salta a 5 m/s con una inclinación de 45° y 
+salva el hueco con facilidad. El policía nunca estudió física y piensa que lo mejor sería saltar 
+con el máximo de velocidad horizontal, de modo que salta a 5 m/s horizontalmente. (a) 
+¿Conseguirá salvar el obstáculo? (b) ¿A qué distancia del borde del segundo edificio llegó el 
+ladrón? 
+Planteamiento del problema El tiempo en el aire durante el salto depende sólo del movi- 
+miento vertical. Elegir como origen el punto de lanzamiento con la dirección positiva hacia arriba, 
+para poder aplicar las ecuaciones 3.21. Utilizar la ecuación 3.21b para y(t) y deducir de ella el 
+tiempo para y = —3 m para @ = 0° y de nuevo para 6, = 45°. El valor de x correspondiente a 
+este tiempo es la distancia horizontal recorrida. 
+¡INTÉNTELO USTED MISMO! 
+Figura 3.30
+
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos 
+(a) 1. Escribir y(r) para el policía y calcular 1 cuando y =-3 m. 
+2. Determinar la distancia horizontal recorrida durante este tiempo. 
+¿scribir y(t) para el ladrón y sustituir y =—3m. y(r) es una ecua- 
+ción de segundo grado con dos soluciones, pero sólo una es acep- 
+table. 
+2. Calcular la distancia horizontal correspondiente al valor positivo 
+de r. 
+3. Restar 4 m de esta distancia. 
+3.4 Primer caso particular: movimiento de proyectiles | 65 
+Respuestas 
+Obviamente, el ladrón alcanza 
+Observación El ladrón probablemente sabía que debía saltar con una inclinación algo menor de 
+45°, pero desde luego, no tuvo tiempo para resolver exactamente el problema. El policía realmente 
+consiguió alcanzar el segundo edificio contrayendo sus músculos abdominales antes del impacto. 
+Con ello subió sus pies algo más de 9 cm, la distancia mínima necesaria para completar el salto sin 
+accidentarse. 
+EJEMPLO 3.11 Lanzamiento de suministros jINTENTELO USTED MISMO! 
+En el ejemplo 3.9, (a) determinar el tiempo ¢, que tarda el paquete en alcanzar su máxima 
+altura h, (b) calcular esta altura máxima ⁄ y (c) determinar el tiempo ñ transcurrido desde 
+que el paquete alcanza su altura máxima hasta que llega al suelo. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos 
+(a) 1. 
+2. Hacer v,(t,) =0 y despejar f;. 
+(b) 1. 
+Expresar v,(t) para el paquete. 
+Determinar V,m durante el tiempo en que el paquete se mueve 
+hacia arriba. 
+2. Utilizar vm 
+continuación calcular /. 
+ym 
+para determinar la distancia recorrida hacia arriba. A 
+(c) Hallar el tiempo transcurrido mientras el paquete cae la distancia h. 
+Observación De acuerdo con el ejemplo 3.9, tı +1,=6,3 s. 
+Respuestas 
+Ejercicio Resolver el apartado (b) del ejemplo 3.11 usando la expresión para y(r) de la ecuación 
+3.21b en vez de calcular vy m. 
+Las ecuaciones 3.19a y 3,19b pueden expresarse en forma vectorial. Multiplicando la 
+ecuación 3.19a por i y la ecuación 3.19b por j y después sumando ambas ecuaciones se 
+obtiene a,i+a,j = —gj. o bien, 
+a=g 
+donde g es el vector aceleración correspondiente a la caída libre. En la superficie de la Tierra 9 . ov S 
+el valor de g es g = 9.81 m/s”. Las ecuaciones 3.20a y b también pueden expresarse en forma 
+vectorial. Multiplicando la ecuación 3.20a por i y la ecuación 3.20b por j y sumando ambas 
+ecuaciones se obtiene (v,i +v,j) = (Vori + Voj) — gtj o bien 
+V=VvV+gt Oo Av=gt
+
+66 | Capítulo 3 Movimiento en dos y tres dimensiones 
+donde v = v,i +v,j, Vg = Vo,i+¥o,j. y g = -gj. Repitiendo el proceso para las ecua- 
+ciones 3.21a y b se obtiene 
+r = rot Vot + tgr? o Ar= Vot + igr? (3.21c) 
+donde r = xi+yj y rọ = Xİ + yoj. Para determinados problemas conviene utilizar las 
+formas vectoriales de las ecuaciones cinemáticas (ecuaciones 3.20c y 3.21c). Este es el caso 
+del ejemplo que sigue. 
+EJEMPLO 3.12 | El guardabosques y el mono 
+Un guardabosques con una cerbatana intenta disparar un dardo tranquilizante a un mono que 
+cuelga de una rama (figura 3.28). El guardabosques apunta directamente al mono sin tener en 
+cuenta que el dardo seguirá una trayectoria parabólica y pasará, por lo tanto, por debajo del 
+mono, Sin embargo, éste, viendo salir el dardo de la cerbatana, se suelta de la rama y cae del 
+árbol, esperando evitar el dardo. (a) Demostrar que el mono será alcanzado independiente- 
+mente de cuál sea la velocidad inicial del dardo, con tal de que ésta sea lo suficientemente 
+grande para que el dardo recorra la distancia horizontal que hay hasta el árbol antes de dar 
+contra el suelo, Suponer que el tiempo de reacción del mono es despreciable. (b) Sea v ¿y la velo- 
+cidad del dardo al salir de la cerbatana. Encuentre la velocidad del dardo relativa al mono 
+para un tiempo arbitrario ¢ durante el vuelo del dardo. 
+Planteamiento del problema Se aplica la ecuación 3.21c al mono y al dardo 
+2 
+(a) 1. Se aplica la ecuación 3.21c al mono en el tiempo r, Ar = lor 
+arm rre Le? 
+Figura 3.31 
+con la velocidad inicial del mono nula. 
+2. Se aplica la ecuación 3.21c al dardo en el tiempo r, Arg = Vaot + Lgr? 
+donde vages la velocidad inicial del dardo cuando sale de la cerbatana. 
+3. La figura 3.31 refleja un esquema del mono, el dardo y la cerba- 
+tana. Se muestra el dardo y el mono en sus posiciones en el ins- 
+tante inicial y en el tiempo t. Los vectores muestran los diferentes 
+términos de los pasos 1 y 2. Nótese que en el tiempo t el dardo y 
+el mono están a una distancia top por debajo de la linea de mira 
+de la cerbatana. El dardo dará con el mono cuando alcance la 
+línea de caída éste. 
+(b) 1. La velocidad del dardo relativa al mono iguala la velocidad del Van = Vac + Vem 
+dardo relativa a la cerbatana más la velocidad del arma relativa al 
+animal: 
+2. La velocidad de la cerbatana relativa al mono es igual a la veloci- Van = Vde— Vme 
+dad del animal relativa al arma cambiada de signo. 
+3. Con el uso de la ecuación 3.20c se consigue expresar la velocidad del Vas = Vuo + Bf 
+dardo relativa a la cerbatana y la velocidad del animal relativa alarma, = er 
+4. La sustitución de estas expresiones en el paso 2 del apartado b Vam = (Vao + Bt) - (gr) =[Y40] 
+lleva a: 
+Observación Con respecto al mono, el dardo se mueve con velocidad constante v¿g siguiendo 
+una línea recta. El dardo impacta en el animal en el instante de tiempo r = L/vap, donde L es la distan- 
+cia desde la boca del arma hasta la posición inicial del mono. 
+Observación En una experiencia magistral, un blanco se cuelga de un electroimán. Cuando el 
+dardo sale del arma, el circuito que controla el electroimán se interrumpe y el blanco cae. La veloci- 
+dad inicial del dardo se puede variar de modo que para valores de vap grandes el dardo alcanza al 
+blanco muy cerca de su posición inicial, mientras que si vao tiene un valor pequeño, el dardo impacta 
+con el blanco poco antes de que éste alcance el suelo. 
+purene Ejercicio Un jugador golpea el disco de hockey sobre hielo de forma que éste no impacta en 
+Sl la red de la portería ni tampoco en la valla de Plexiglass de los límites de la pista de 2,80 m de 
+altura, El tiempo de vuelo del disco cuando pasa por encima de la valla es r; = 0,650 s, siendo 
+x; = 12,0 m la distancia horizontal desde el punto donde el jugador golpea el disco. (a) Calcular la veloci- 
+dad y la dirección inicial del disco. (b) ¿Cuándo alcanza el disco su altura máxima? (c) ¿Cuál es la altura 
+máxima que alcanza el disco? (Respuesta (a) v= 20,0-m/s, @ = 22,0°, (b) r= 0,764 s, (c) Vy m t= 2,86 m). 
+a
+
+3.5 Segundo caso particular: movimiento circular | 67 
+3.5 Segundo caso particular: movimiento circular 
+La figura 3.32 muestra una masa sujeta a una cuerda, de modo que forma un péndulo que 
+oscila en el plano vertical. La trayectoria que sigue la masa en su continua oscilación corres- / 
+ponde a una fracción de una trayectoria circular, El movimiento a lo largo de una trayectoria / 
+circular, o de una parte de ella, se denomina movimiento circular, f f 
+Figura 3.32 
+EJEMPLO 3.13 | El péndulo que oscila 
+Consideremos el movimiento de la masa del péndulo de la figura 3.32. Usando el diagrama del 
+movimiento de la figura 3.33, determinar la dirección del vector aceleración cuando la masa está 
+oscilando de izquierda a derecha, (a) en la porción descendente de su movimiento, (b) cuando 
+pasa por el punto más bajo de su recorrido, y (c) en la porción ascendente de su recorrido. 
+tg V3 
+Ay 
+She fs V3 > 
+(c) a> (d) 
+Figura 3.33 
+Planteamiento del problema Cuando la masa desciende aumenta la velocidad y cambia su direc- 
+ción. La aceleración está relacionada con el cambio de la velocidad mediante a = Av/Ar. La dirección de 
+la aceleración en un punto puede estimarse dibujando el diagrama de adición de vectores para la relación 
+v¡ + Av = vp, de donde se encuentra la dirección de Av y, por lo tanto, la dirección del vector aceleración. 
+(a) 1. La figura 3.33 muestra la representación de una oscilación com- 
+pleta de izquierda a derecha de la masa del péndulo. La distancia 
+entre los puntos es mayor en los puntos más bajos de la trayecto- 
+ria ya que en ellos la velocidad es mayor. 
+2. Para un punto determinado, se determina la diferencia entre la 
+velocidad en el punto inmediatamente anterior y en el punto 
+inmediatamente posterior. Nótese que los vectores velocidad se 
+dibujan tangentes a la trayectoria y que su longitud es proporcio- 
+nal a la velocidad. a 
+3. Se representa la expresión gráfica de la relación v; + Av = vp y el ; 
+vector aceleración, ya que dado que a = Av/Ar, a va en la misma a 
+dirección que Av. / A 
+(b) Se repiten los pasos 2 y 3 para el punto más bajo de la trayectoria. / 
+(c) Se repiten los pasos 2 y 3 para un punto en la porción ascendente de la / 
+trayectoria. 5 
+Observación En el punto más bajo de la trayectoria el vector aceleración tiene la dirección verti- 
+cal, hacia arriba (figura 3.34), hacia el centro del círculo P. Cuando la velocidad aumenta (en la por- 
+ción descendente), la aceleración tiene una componente dirigida hacia delante y otra componente 
+dirigida hacia P. Cuando la aceleración disminuye tiene una componente dirigida hacia atrás y otra Figura 3.34 
+que apunta a P. A 
+Si una partícula se mueve a lo largo de una trayectoria circular, la dirección que desde la 
+partícula señala el centro de la trayectoria se denomina dirección centrípeta. En el ejemplo 
+3.13 se ha visto que la aceleración en el punto más bajo de la trayectoria de la masa del pén- 
+dulo va en la dirección centrípeta. En otros puntos la aceleración tiene una componente cen- 
+trípeta y una componente tangencial. 
+SSP 
+Av
+
+68 | Capítulo 3 Movimiento en dos y tres dimensiones 
+v(t) vn) 
+NAS vit + At) 
+v(t + Ar) 
+rir) 
+r(1 + Ar) 
+Figura 3.35 Vectores posición y velocidad de 
+una partícula que se mueve en un círculo a veloci- 
+dad escalar constante. 
+Movimiento circular uniforme 
+El movimiento en un círculo a velocidad escalar constante se denomina movimiento circu- 
+lar uniforme. Usaremos el método del ejemplo 3.13 para determinar la dirección de la ace- 
+leración a fin de encontrar la expresión de la aceleración de una partícula que se mueve en un 
+círculo a velocidad constante. Los vectores posición y velocidad de una partícula que se está 
+moviendo en un círculo a velocidad constante se muestran en la figura 3.35, El ángulo A@ 
+entre v(1) y v(t + Ar) es el mismo que entre rí1) y r(¢ + Ar), ya que los vectores posición y 
+velocidad deben girar el mismo ángulo para conservar su perpendicularidad mutua. Con los 
+dos vectores velocidad y con Av se forma un primer triángulo isósceles. El segundo trián- 
+gulo isósceles se forma con los dos vectores posición y con Ar. Para encontrar la dirección 
+del vector aceleración examinamos el triángulo formado por los dos vectores velocidad y Ay. 
+La suma de los ángulos de un triángulo es 180? y los ángulos de la base de cualquier trián- 
+gulo isósceles son iguales. En el límite en que Ar es muy pequeño, A@ también es muy 
+pequeño por lo que en este límite los dos ángulos de la base se aproximan a 90°. Esto signi- 
+fica que Ay es perpendicular a la velocidad. Si Av se dibuja en la posición de la partícula 
+señala en la dirección centrípeta. 
+Los dos triángulos son semejantes, por lo que |Av|/v = |Ar|/r (dado que las longitudes 
+de formas semejantes son proporcionales). Dividiendo los dos términos por At y reorgani- 
+zando nos queda 
+En el límite cuando Ar es muy pequeño, el término [Av|/Ar se parece cada vez más al 
+módulo de la aceleración instantánea a, y el término |Ar|/Ar se parece a v, el módulo de la 
+velocidad instantánea. Si sustituimos estas igualdades en el límite, 
+a= a= (3.24) 
+ACELERACION CENTRIPETA 
+Habitualmente se describe el movimiento de una partícula en un círculo con velocidad 
+constante a partir del tiempo T requerido para realizar una vuelta completa, magnitud que se 
+denomina periodo. Durante un periodo, la partícula se mueve una distancia 27r (donde r es 
+el radio del círculo), por lo que la velocidad de la misma está relacionada con r y con T 
+mediante la expresión 
+y= (3.25) 
+EJEMPLO 3.14 | Movimiento de un satélite 
+Un satélite se mueve con velocidad constante en una órbita circular alrededor del centro de la 
+Tierra y cerca de la superficie de la Tierra. Si su aceleración es g = 9,81 m/s?, determinar (a) su 
+velocidad escalar y (4) el tiempo que invierte en una revolución completa. 
+Planteamiento del problema Como el satélite tiene su órbita cerca de la superficie de la Tie- 
+rra, consideraremos que el radio de la órbita es el radio de la Tierra, r = 6370 km. 
+(a) La aceleración centrípeta v?/r se iguala a g y se despeja v: a= =g 0 
+2nr (b) Para calcular el valor del periodo T se usa la ecuación 3.25: f= = ASS v
+
+3.5 Segundo caso particular: movimiento circular | 69 
+Observación La órbita real de los satélites se sitúa unos pocos centenares de kilómetros por 
+encima de la superficie terrestre, es decir, r excede ligeramente el radio terrestre (6370 km). En con- 
+secuencia la aceleración centrípeta es algo inferior a 9,81 m/s2 a causa del descenso de la fuerza gravi- 
+tatoria con respecto a la distancia del centro de la Tierra. Muchos satélites están en estas órbitas y sus 
+periodos son de unos 90 minutos. 
+Ejercicio Un coche va a 48 km/h y sigue una curva de 40 m de radio. ¿Cuál es su aceleración cen- 
+tripeta? (Respuesta 4,44 m/s?) 
+Una partícula que se mueve en un círculo con velocidad variable tiene una componente de la 
+aceleración tangente a la trayectoria, dv/dt, y una componente según el radio, la aceleración 
+centrípeta, v?/r. Al analizar, en general, el movimiento de una partícula a lo largo de una 
+curva, la trayectoria se puede dividir en arcos de circunferencia (figura 3.36). La partícula en 
+cada uno de estos arcos de circunferencia tiene una aceleración centrípeta v?/r dirigida hacia 
+el centro de curvatura y, si varía la velocidad, tiene además una aceleración tangencial 
+ma (3.26) 
+ACELERACIÓN TANGENCIAL 
+Figura 3.36 Cuando una partícula se mueve a lo largo de una trayectoria curva se con- 
+sidera que cada pequeño intervalo de tiempo se mueve siguiendo un arco de circunferencia 
+distinto. El vector aceleración instantánea tiene una componente a, = v?/r dirigida hacia el 
+centro de curvatura del arco y una componente a, = dv/dt tangencial a la curva. 
+Resumen 
+TEMA OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Vectores 
+Los vectores son magnitudes que tienen módulo y dirección, Se suman como los desplazamientos. Definición 
+Componentes La componente de un vector a lo largo de una línea en el espacio es su proyección sobre dicha línea. Si A 
+forma un ángulo @ con el eje x, sus componentes x e y son 
+Ax=A cos O (3.2) 
+Ay =A sen @ (3.3) 
+Módulo A = JA} +A? (3.5a) 
+Suma gráfica de vectores 
+Suma de vectores mediante componentes Si C=A +B, entonces 
+Dos vectores cualesquiera cuyos módulos poseen las mismas unidades pueden sumarse gráficamente 
+situando la cola de la flecha que representa a uno de ellos en el extremo o cabeza del otro. 
+C.=A, +8, (3.6a)
+
+70 | Capitulo 3 Movimiento en dos y tres dimensiones 
+C, =A, + B, (3.6b) 
+Vectores unitarios Un vector A puede escribirse en función de los vectores unitarios i, j y k de módulo unidad dirigidos respec- 
+tivamente a lo largo de los ejes x, y y z 
+A = A,i+A,j+A.k (3.7) 
+Vector posición El vector posición r apunta desde el origen del sistema de coordenadas a la posición de la partícula. 
+Vector velocidad instantánea El vector velocidad v es la variación del vector posición respecto al tiempo. Su módulo es la velocidad y su 
+dirección es la del movimiento. 
+E E usa 6:12 
+Vector aceleración instantánea = lim Ay, oF (3.16) ar=0 At dt 
+2. Velocidad relativa Si una partícula se mueve con velocidad v,, respecto a un sistema de coordenadas A, el cual a su vez se mueve 
+con velocidad V, respecto a otro sistema de coordenadas B, la velocidad de la partícula respecto a B es 
+Vos = Vpa + Vas (3.14) 
+3. Movimientos de proyectiles En las ecuaciones de esta sección se considera que la dirección positiva del eje x es horizontal y que la direc- 
+ción positiva del eje y es vertical dirigida hacia arriba. 
+Independencia del movimiento En el movimiento de proyectiles, los movimientos horizontal y vertical son independientes. Así, 
+a,=0 y a=-g. 
+Dependencia con el tiempo V(t) =Vo tat vkt)=vp+aj (2.14) 
+X(t) = Xo+ VotFHIGL, Y(t) = yo+ Vost + hay (2.16) 
+donde a, = 0, a, = —g. Vo, = Vo COS O, y Vay = Vo sen O. Alternativamente, 
+Av=gt, Ar = vort+ige (3.20c, 3.21c) 
+donde g = -gj 
+Alcance El alcance se obtiene multiplicando v, por el tiempo total del proyectil en el aire. 
+4. Movimiento circular 
+yn 
+Aceleración centrípeta a. = = (3.24) 
+A A dv Aceleración tangencial a, = Ji (3.26) 
+donde v es la velocidad escalar 
+Periodo y= = (3.25) 
+Problemas 
+@ Concepto simple, un solo paso, relativamente fácil. En algunos problemas se dan 
+ee Nivel intermedio, puede exigir síntesis de conceptos. más datos de los realmente 
+eee  Desafiante, para alumnos avanzados. necesarios; en otros pocos, deben 
+ssm La solución se encuentra en el Student Solutions Manual. extraerse algunos datos a partir 
+i Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. de conocimientos generales, 
+i Y Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan alos fuentes externas o estimaciones 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. lógicas.
+
+Vectores y suma de vectores 
+1 e SSM ¿Puede el módulo del desplazamiento de una partícula 
+ser menor que la distancia recorrida por la partícula a lo largo de su trayectoria? 
+¿Puede su módulo ser mayor que la distancia recorrida? Razonar la respuesta, 
+2 e Dar un ejemplo en el cual la distancia recorrida es una magnitud 
+significativa, mientras que el correspondiente desplazamiento es nulo. 
+3 e ¿Cuál es la velocidad media aproximada de los bólidos que parti- 
+cipan en la prueba de Indianápolis 500? 
+al el Verdadero o falso: El módulo de la suma de dos vecto- 
+res debe ser mayor que el módulo de cada vector. 
+5 e ¡Puede una componente de un vector tener un módulo mayor que 
+el módulo del propio vector? ¿En qué circunstancias la componente de un vector 
+puede tener un módulo igual al módulo del propio vector? 
+6 o SSM ¿Puede un vector ser igual a cero y, sin embargo, tener 
+una o más componentes distintas de cero? 
+7 e i ¿Son las componentes de C = A + B necesariamente 
+superiores a las correspondientes componentes de A o B? 
+8 e SSM Verdadero o falso: El vector velocidad instantánea siem- 
+pre señala en la dirección del movimiento. 
+9 e Si un objeto se mueve hacia el oeste, ¿en qué dirección acelera? 
+(a) Norte, (b) Este, (c) Oeste, (d) Sur, (e) Puede ser cualquier dirección. 
+10 e i Un jugador de golf golpea con fuerza la bola de modo 
+que ésta describe un largo arco, Cuando la bola está en el punto más alto de su 
+vuelo, (a) su velocidad y aceleración se anulan, (b) su velocidad es cero pero su 
+aceleración no se anula, (c) su aceleración es cero pero su velocidad es distinta 
+de cero, (d) su velocidad y su aceleración son ambas distintas de cero, (e) falta 
+información para contestar correctamente, 
+11 e La velocidad de una partícula se dirige hacia el este mientras que 
+su aceleración se dirige hacia el noroeste como muestra la figura 3.37, La partí- 
+cula, (a) está acelerando y girando hacia el norte, (b) está acelerando y girando 
+hacia el sur, (c) está frenando y girando hacia el norte, (d) está frenando y 
+girando hacia el sur, (e) mantiene constante su velocidad y gira hacia el sur. 
+S; 
+Figura 3.37 Problema 11 
+12 e SSM Sise conocen los vectores posición de una partícula en 
+dos puntos de su trayectoria, el tiempo que tarda en moverse de un punto a otro 
+y se supone que la aceleración es constante, se puede calcular (a) la velocidad 
+media de la partícula, (b) la aceleración media de la partícula, (c) la velocidad 
+instantánea de la partícula, (d) la aceleración instantánea de la partícula, (e) no 
+se dispone de la información suficiente para describir el movimiento de la par- 
+tícula, 
+13 es Considere la trayectoria de una partícula en su movimiento por el 
+espacio. (a) ¿Cómo se relaciona geométricamente el vector velocidad con la 
+trayectoria de la partícula? (b) Esquematice una trayectoria y dibuje el vector 
+velocidad de la partícula para distintas posiciones a lo largo de la trayectoria. 
+Problemas 71 
+14 e La aceleración de un vehículo es nula cuando (a) gira hacia la 
+derecha a velocidad constante, (b) sube por una carretera pendiente y recta a 
+velocidad constante, (c) corona la cima de una colina a velocidad constante, 
+(d) llega a la parte más baja de un valle a velocidad constante, (e) aumenta su 
+velocidad cuando baja a lo largo de una pendiente recta, 
+15 e SSM Dar algunos ejemplos de movimiento en los cuales las 
+direcciones de los vectores velocidad y posición las (a) opuestas, (b) las mis- 
+mas y (c) mutuamente perpendiculares. 
+16 e 1 ¿Cómo es posible que una partícula que se mueva a 
+velocidad escalar constante tenga una aceleración constante? ¿Puede una partí- 
+cula con velocidad constante estar, a la vez, acelerando? 
+17 ese Un dardo se lanza verticalmente hacia arriba. Cuando sale de la 
+mano del lanzador, pierde velocidad uniformemente a medida que gana altura 
+hasta que se clava en el techo de la habitación. (a) Dibujar el vector velocidad 
+en los tiempos t; y f}, en donde Ar = t —t; es un intervalo pequeño. A partir del 
+dibujo determinar la dirección del cambio de velocidad Av = y,—v, y con 
+ello la dirección del vector aceleración. (b) Poco después de chocar con el 
+techo, el dardo cae y acelera hasta que llega al suelo. Repita el apartado (a) para 
+encontrar la dirección del vector aceleración durante la caída. (c) Ahora ima- 
+gine que tira el dardo horizontalmente. ¿Cuál es la dirección del vector acelera- 
+ción después que haya dejado su mano pero antes que golpee el suelo? 
+18 sec SSM Una gimnasta salta sobre una plataforma elástica y 
+cuando se aproxima al punto más bajo de su caída pierde velocidad. Supo- 
+niendo que cae verticalmente, haga un diagrama del movimiento para escontrar 
+la dirección de su vector aceleración, dibujando los vectores velocidad de la 
+saltadora en los tiempos ?, y t, siendo pequeño el intervalo At = t — f,. Deducir 
+del dibujo la dirección del cambio de velocidad Av = v-v, y con ello, la 
+dirección del vector aceleración. 
+19 es La saltadora del problema 18, después de alcanzar el punto más 
+bajo de su salto en el tiempo /;,;o, Comienza a moverse hacia arriba aumentando 
+su velocidad durante un corto tiempo hasta que la gravedad domina de nuevo su 
+movimiento. Dibujar los vectores velocidad en los tiempos 1; y f,, en donde Ar = 
+t — t; es un pequeño intervalo y 1; < fyajo < t2. Deducir del dibujo la dirección 
+del cambio de velocidad Av = v,-—v, y con ello, la dirección del vector ace- 
+leración. 
+20 e Un río de orillas rectas y paralelas tiene una anchura de 0,76 km 
+(véase la figura 3.38). La corriente del río baja a 4,0 km/h y es paralela a los 
+márgenes. El barquero que conduce una barcaza que puede alcanzar una veloci- 
+dad máxima de 4,0 km/h en aguas quietas desea ir de A a B, donde AB es perpen- 
+dicular a la orilla, El barquero debe (a) dirigir la barca directamente a través del 
+río, perpendicular a la orilla siguiendo AB, (b) poner un rumbo de 53° dirigido 
+hacia aguas arriba respecto la dirección AB, (c) poner un rumbo de 37” dirigido 
+hacia aguas arriba respecto la dirección AB, (d) renunciar ya que es imposible ir 
+de A hasta B con una nave de estas características, (e) ninguna de las respuestas 
+anteriores es correcta. 
+Figura 3.38 Problema 20 
+21 o SSM Verdadero o falso: Cuando un proyectil se dispara hori- 
+zontalmente, invierte el mismo tiempo en caer que un proyectil soltado en reposo 
+desde la misma altura. Ignórese los efectos de la resistencia del aire.
+
+72 | Capítulo 3 Movimiento en dos y tres dimensiones 
+22 e i 
+encima de la horizontal. En el punto más alto de la trayectoria, su velocidad es 
+de 200 m/s. La velocidad inicial tenía una componente horizontal de (a) 0, 
+(b) 200 cos (35°) m/s, (c) 200 sen (53°) m/s, (d) (200 m/s)/cos 35°, (e) 200 m/s. 
+No considere los efectos de la resistencia del aire. 
+Un proyectil se lanza con un ángulo de tiro de 35° por 
+23 e La figura 3.39 representa la trayectoria parabólica de una bola que 
+va de A a E. ¿Cuál es la dirección de la aceleración en el punto B? (a) Hacia 
+arriba y hacia la derecha. (b) Hacia bajo y hacia la izquierda. (c) Verticalmente 
+hacia arriba. (d) Verticalmente hacia abajo. (e) La aceleración de la bola es cero. 
+C 
+Figura 3.39 Problemas 23 y 24 
+24 è (a ) ¿En qué punto(s) de la figura 3.39 el módulo de la velocidad 
+es el mayor de todos? (b) ¿En qué punto(s) el módulo de la velocidad es el 
+menor de todos? (c) ¿En qué dos puntos el módulo de la velocidad es el 
+mismo? ¿Es el vector velocidad el mismo en esos puntos? 
+25 eo i Verdadero o falso: 
+(a) Si el módulo de la velocidad es constante, la aceleración debe ser cero. 
+(b) Si la aceleración es cero, el módulo de la velocidad debe ser constante 
+26 e Las velocidades inicial y final de un objeto son las indicadas en la 
+figura 3.40. Indicar la dirección de la velocidad media. 
+Figura 3.40 Problema 26 
+27 e Las velocidades de los objetos A y B se muestran en la figura 
+3.41. Dibujar un vector que represente la velocidad de B relativa a A. 
+YB Va E 
+Figura 3.41 Problema 27 
+28 ee SSM Un vector A(?) tiene un módulo constante, pero su direc- 
+ción cambia. (a) Encontrar dA/dt de la siguiente manera: dibujar los vectores 
+A(r + Ar) y A(t) para un pequeño intervalo de tiempo Ar y determinar gráfica- 
+mente la diferencia AA = A(t + At) —A(r). ¿Cuál es la dirección de AA respecto a 
+A para pequeños intervalos de tiempo? (b) Interpretar este resultado para los casos 
+especiales en que A representa la posición de una partícula con respecto a un sis- 
+tema de coordenadas. (c) ¿Puede A representar un vector velocidad? Explicarlo. 
+29 @@ La figura 3.42 muestra la trayectoria de un automóvil, formada 
+por segmentos rectilíneos y arcos de circunferencias. El coche parte del reposo 
+en el punto A. Después que alcanza el punto B marcha con velocidad constante 
+hasta que alcanza el punto £. Acaba en reposo en el punto F. (a) En el medio de 
+cada segmento (AB, BC, CD, DE, y EF), ¿cuál es la dirección del vector velo- 
+cidad? (b) ¿En qué puntos el automóvil tiene aceleración? En estos casos, ¿cuál 
+es la dirección de la aceleración? (c) ¿Qué relación tienen los módulos de la 
+aceleración en los tramos BC y DE? 
+Figura 3.42 Problema 29 
+30 ee SSM _ Dos cañones están situados uno frente a otro, como 
+muestra la figura 3.43. Cuando disparen las balas seguirán las trayectorias que 
+se muestran, siendo P el punto donde las trayectorias se cruzan. Si se quiere 
+que las balas choquen, ¿hay que disparar primero el cañón A, el cañón B o bien 
+hay que disparar los dos cañones simultáneamente? Ignórense los efectos de la 
+resistencia del aire, 
+Figura 3,43 Problema 30 
+31 
+escribió: 
+barco grande y ... cuelgue una botella que se vacíe, gota a gota, en un reci- 
+piente situado debajo. Después de observar cuidadosamente el fenómeno ... y 
+de que el barco haya seguido cualquier velocidad, siempre y cuando el movi- 
+miento haya sido uniforme y no fluctuante, las gotas siempre caen como antes 
+sin que, en ningún caso, se dirijan hacía la dirección de la popa del buque, aun- 
+que el barco recorra un gran trecho mientras las gotas están en el aire”. Expli- 
+e Galileo en su obra “Diálogo respecto los dos sistemas del mundo” 
+* Enciérrese ... en el camarote principal situado bajo la cubierta de un 
+que esta cita. 
+32 e Una persona mueve una piedra atada a una cuerda en un círculo 
+horizontal a velocidad constante. La figura 3.44 representa la trayectoria del 
+objeto visto desde arriba. (a) ¿Cuál de los vectores de la figura representan la 
+velocidad de la piedra? (b) ¿Cuál representa la aceleración? 
+Figura 3,44 Problema 32
+
+33 e Verdadero o falso: Un objeto no se mueve en una trayectoria cir- 
+cular si no está acelerado. 
+34 es Usando un esquema del movimiento, encontrar la dirección de la 
+aceleración de la masa de un péndulo cuando la masa está en el punto donde 
+cambia el sentido de su movimiento. 
+35 e Con un bate de béisbol se golpea una pelota a 177 km/h. Supon- 
+gamos que la pelota es bateada con un ángulo de 35°, que es un valor muy 
+corriente en este deporte. Usando la ecuación 3.23 para calcular la distancia 
+que alcanza una bola golpeada en las condiciones anteriormente mencionadas 
+se obtiene que la pelota llega hasta 232 m pero, en realidad, la pelota apenas 
+alcanzará los 80 m. Argumente porqué la ecuación 3.23 da una predicción tan 
+mala en este caso, Si puede, considere el concepto de velocidad terminal o 
+velocidad límite. 
+Aproximaciones y estimaciones 
+36 @@ SSM Estimar qué distancia alcanza una pelota si se lanza (a) 
+horizontalmente desde el suelo, (b) con un ángulo de 45° desde el suelo, (c) 
+horizontalmente desde la azotea de un edificio situada 12 m por encima del 
+nivel de la calle, (d) con un ángulo de 45° desde la azotea de un edificio situada 
+12 m por encima del nivel del suelo, 
+37 eo | En 1978, Geoff Capes del Reino Unido, lanzó un 
+ladrillo pesado una distancia horizontal de 44,5 m. Determinar la velocidad 
+aproximada del ladrillo en el punto más alto de su trayectoria, sin considerar 
+los efectos de la resistencia del aire. 
+Vectores, suma de vectores y sistemas de coordenadas 
+38 e La aguja de los minutos de un reloj de pared tiene 0,5 m de longi- 
+tud y la de las horas tiene 0,25 m. Considerando el centro del reloj como origen 
+y eligiendo un sistema de coordenadas apropiado, escríbase la posición de las 
+agujas de las horas y de los minutos con vectores cuando el reloj señala 
+(a) 12:00, (b) 3:30, (c) 6:30, (d) 7:15. (e) Si A es la posición del extremo de la 
+aguja de los minutos y B es la posición del extremo de la aguja de las horas, 
+calcular A-B para las horas dadas en los apartados (a)-(d) anteriores. 
+39 e SSM  Unosose mueve 12 m hacia el nordeste y 12 m hacia el 
+este. Muéstrese gráficamente cada desplazamiento y determínese gráficamente 
+el desplazamiento total, como en el ejemplo 3.2(a). 
+40 o | Y Un arco circular está centrado en x = 0 e y = 0. 
+(a) Una estudiante se mueve por el arco circular desde la posición x = 5 m, 
+y = 0 hasta la posición final x = 0, y = 5 m. ¿Cuál es su desplazamiento? (b) Un 
+segundo estudiante se mueve desde la misma posición inicial siguiendo el eje x 
+hasta el origen para seguir después a lo largo del eje y hasta y = 5 m y x=0. 
+¿Cuál es su desplazamiento? 
+41 o SSM i Y En el caso de los dos vectores A y B 
+indicados en la figura 3.45, hallar gráficamente como en el ejemplo 3.2(a): 
+(a) A +B, (b) A - B, (c) 2A + B, (d) B-A, (e) 2B-A. 
+Figura 3.45 Problema 41 
+Problemas 73 
+42 e Un muchacho explorador pasea 2,4 km hacia el este del campa- 
+mento, luego se desvía hacia su izquierda y recorre 2,4 km a lo largo de un arco 
+de círculo centrado en el campamento, (a) ¿A qué distancia del campamento se 
+encuentra finalmente el muchacho? (b) ¿Cuál es la dirección de la posición del 
+muchacho medida desde el campamento? (c) ¿Cuál es el cociente entre el des- 
+plazamiento final y la distancia total recorrida? 
+43 e Un vector velocidad tiene una componente x de + 5,5 m/s y una 
+componente y de — 3,5 m/s. ¿Qué diagrama de la figura 3.46 representa la direc- 
+ción del vector? 
+(a) (b) (c) (d) 
+(e) Ninguno de los anteriores. 
+Figura 3.46 Problema 43 
+44 e i Tres vectores A, B, y C tienen las siguientes compo- 
+nentes xe y: A, = 6, A, =—3; B, = -3, B, = 4; C, = 2, C, = 5. La magnitud de 
+A +B +C es (a) 3,3, (b) 5,0, (c) 11, (d) 7,8, (e) 14. 
+45 e Hallar las componentes rectangulares de los vectores A, que están 
+comprendidas en el plano xy y forman un ángulo 6 con el eje x, como se ve en 
+la figura 3.47, para los siguientes valores de A y @:(a) A= 10 m, 8 = 30°; (b) 
+A=5m, @=45°: (c)A=7 km, 0= 60°; (d) A =5 km, 0= 90°; (e) A = 15 km/s, 
+8= 150°; (f) A= 10 m/s, = 240°; y (g) A = 8 m/s, 0 = 270°. 
+Figura 3.47 Problema 45 
+46 e SSM Un vectorA tiene el módulo de 8 m y forma un ángulo de 
+37° con el eje x; el vector B = (3 m) i — (5 m) j; el vector C = (-6 m) i + (3 m) j. 
+Determinar los siguientes vectores: (a) D =A + C; (b) E = B - A; (c) F = 
+A — 2B + 3C; (d) un vector G tal que G- B =A + 2C +3G. 
+47 es Hallarel módulo y la dirección de los siguientes vectores: (a) A = 
+Si + 3j; (b) B = 10i - 7j; y (c) C=-2i-3j + 4k. 
+48 e Hallar el módulo y dirección de A, B y C =A +B en los casos (a) 
+A=-4i-7j; B=3i-2j; y (b)A=1li-4j, B=2i+6j. 
+49 e Describir los vectores siguientes utilizando los vectores unitarios i 
+y j: (a) una velocidad de 10 m/s con un ángulo de elevación de 60°; (b) un vec- 
+tor A de módulo A = 5 m y 0 = 225°; y (c) un desplazamiento desde el origen al 
+punto x= 14m, y =-6m. 
+50 e Enel caso del vector A = 3i + 4j, hallar otros tres vectores cuales- 
+quiera B que estén también comprendidos en el plano xy y que tengan la pro- 
+piedad de que A = B, pero A # B. Escribir los vectores en función de sus 
+componentes y dibujarlos gráficamente. 
+51 @@ SSM Un cubo de arista 3 m tiene sus caras paralelas a los pla- 
+nos coordenados y un vértice en el origen. Una mosca situada en el origen se 
+mueve a lo largo de tres aristas hasta llegar al vértice opuesto. Escribir el vector 
+desplazamiento de la mosca utilizando los vectores i, j y k, y hallar el módulo 
+de su desplazamiento.
+
+74 | Capitulo 3 Movimiento en dos y tres dimensiones 
+52 e SSM Un barco en alta mar recibe señales de radio emitidas 
+desde dos transmisores A y B que están separados 100 km, uno al sur del otro. 
+El localizador de direcciones detecta que la transmisión desde A está 30° al 
+sudeste, mientras que la transmisión de B procede del este. Calcular la distan- 
+cia entre el barco y el transmisor B. 
+Vectores velocidad y aceleración 
+53 e Un operador de radar fijo determina que un barco está a 10 km al 
+sur de él. Una hora más tarde el mismo barco está a 20 km al sudeste. Si el 
+barco se movió con velocidad constante siempre en la misma dirección, ¿cuál 
+era su velocidad durante ese tiempo? 
+54 e Las coordenadas de posición de una partícula (x, y) son (2 m, 3 m) 
+cuando / = 0; (6 m, 7 m) cuando 1 = 2 s; y (13 m, 14 m) cuando 1 = 5 s. (a) 
+Hallar la velocidad media v„ desde r = 0 hasta 1 = 2 s. (b) Hallar v,, desde 1 =0 
+hasta 1=5 s. 
+55 e sm it Y Una partícula que se mueve a 4,0 m/s en 
+la dirección x positiva experimenta una aceleración de 3,0 m/s? en la direc- 
+ción y positiva durante 2,0 s. La velocidad final de la partícula es (a) -2,0 m/s, 
+(b) 7,2 m/s, (c) 6,0 m/s, (d) 10 m/s, (e) Ninguna de las anteriores. 
+56 e Inicialmente una partícula se mueve hacia el oeste con una veloci- 
+dad de 40 m/s y 5 s después se está moviendo hacia el norte a 30 m/s, (a) ¿Cuál 
+ha sido el cambio del módulo de las velocidades de la partícula durante este 
+tiempo? (b) ¿Cuál ha sido la variación de la dirección de la velocidad? (c) 
+¿Cuáles son el módulo y dirección de Av en este intervalo? (d) ¿Cuáles son el 
+módulo y dirección de a,, en este intervalo? 
+57 © Cuando r= 0 una partícula situada en el origen tiene una veloci- 
+dad de 40 m/s con 9= 45°. Para t=3 s, la partícula está en x = 100 m, y = 80 m 
+con velocidad de 30 m/s y 9= 50°. Calcular (a) la velocidad media y (b) la ace- 
+leración media de la partícula durante este intervalo. 
+58 ee ssm Í Y wna particula se mueve en un plano xy con 
+aceleración constante. Para t = 0, la partícula se encuentra en la posición x = 4 m, 
+y = 3 m y posee la velocidad v = (2 m/s) i + (- 9 m/s) j. La aceleración viene 
+dada por el valor a = (4 m/s?) i + (3 m/s”) j. (a) Determinar el vector velocidad 
+en el instante 1 = 2 s$. (b) Calcular el vector posición a ¢ = 4 s. Expresar el 
+módulo y la dirección del vector posición. 
+s9 ee i El vector posición de una partícula viene dado por r = 
+(301) i + (401 — 51”) j, en donde r se expresa en metros y ren segundos. Determi- 
+nar los vectores velocidad instantánea y aceleración instantánea en función del 
+tiempo f. 
+60 «es Una partícula tiene una aceleración constante a = (6 m/s*)i + (4 nvs*)j. 
+En el instante 1 = 0, la velocidad es cero y el vector de posición es rọ = (10 m)i. 
+(a) Hallar los vectores posición y velocidad en un instante cualquiera t. (b) Hallar 
+la ecuación de la trayectoria en el plano xy y hacer un esquema de la misma. 
+61 eee Í Cuando sale del muelle, una barca fuera borda pone 
+rumbo hacia el norte durante 20 s con una aceleración de 3 m/s?, Posterior- 
+mente la barca vira hacía el oeste y se mueve durante 10 s con la velocidad 
+adquirida durante los 20 s anteriores. (a) ¿Cuál es la velocidad media de la 
+barca durante los 30 segundos de movimiento? (b) ¿Cuál es la aceleración 
+media en el mismo intervalo de tiempo?, (c) ¿Cuál es el desplazamiento de la 
+barca desde su salida del muelle hasta pasados 30 s de iniciado el movimiento? 
+62 @@@ SSM María y Roberto deciden encontrarse en el lago Michi- 
+gan. María parte en su lancha de Petoskey a las 9:00 a.m. y viaja hacia el norte 
+a 8 mi/h. Roberto sale de su casa sobre la costa de Beaver Island, situada a 26 mi 
+y 30° al oeste del norte de Petoskey a las 10:00 a.m. y viaja a una velocidad 
+constante de 6 mi/h. ¿En qué dirección debe poner su-rumbo Roberto para 
+interceptar a María y dónde y cuándo se verificará el encuentro? 
+Velocidad relativa 
+63 es Un avión vuela a la velocidad de 250 km/h respecto al aire en 
+reposo. Un viento sopla a 80 km/h en dirección noreste (es decir, en dirección 
+45° al este del norte). (a) ¿En qué dirección debe volar el avión para que su 
+rumbo sea norte? (b) ¿Cuál es la velocidad del avión respecto al suelo? 
+64 ese I Y Una nadadora intenta cruzar perpendicularmente un 
+río nadando con una velocidad de 1,6 m/s respecto al agua tranquila. Sin 
+embargo llega a la otra orilla en un punto que está 40 m más lejos en la direc- 
+ción de la corriente. Sabiendo que el río tiene una anchura de 80 m (a) ¿cuál es 
+la velocidad de la corriente del río? (b) ¿Cuál es la velocidad de la nadadora 
+respecto a la orilla? (c) ¿En qué dirección debería nadar para llegar al punto 
+directamente opuesto al punto de partida? 
+65 ee SSM Un pequeño avión sale del punto A y se dirige a un aero- 
+puerto en el punto B, a 520 km en dirección norte. La velocidad del avión res- 
+pecto al aire es de 240 km/h y existe un viento uniforme de 50 km/h que sopla 
+del noroeste al sureste, Determinar el rumbo que debe tomar el avión y el 
+tiempo de vuelo. 
+66 ee Í Y Dos embarcaderos están separados 2,0 km uno del 
+otro sobre la misma orilla de un río, cuyas aguas fluyen a 1,4 km/h. Una lancha 
+a motor hace el recorrido de ida y vuelta entre los dos embarcaderos en 50 min, 
+¿Cuál es la velocidad de la lancha respecto al agua? 
+67 ee Un concurso de aeromodelismo tiene las siguientes normas: Cada 
+avión debe volar hasta un punto situado a | km de la salida y regresar de nuevo. 
+El vencedor será el avión que realice el circuito completo en el tiempo más 
+corto. Los competidores tienen la libertad de escoger el recorrido que desean, 
+siempre que el avión se aleje 1 km de la salida y después regrese, El día del 
+concurso, un viento uniforme sopla del norte a 5 m/s. Uno de los modelos 
+puede mantener una velocidad respecto al aire de 15 m/s y se considera que los 
+tiempos de arranque, parada y giro son despreciables. Se plantea la cuestión 
+siguiente: ¿debe planearse el vuelo a favor del viento y contra el viento en el 
+circuito o con viento cruzado este y oeste? Analícese el plan sobre estas dos 
+alternativas: (1) El avión vuela | km al norte y después regresa; (2) el avión 
+recorre | km hacia el este al arrancar y después regresa. 
+68 o I El piloto de un pequeño avión mantiene una velocidad 
+con respecto al aire de 150 nudos (un nudo corresponde a la velocidad de una 
+milla náutica por hora) y quiere volar hacia el norte (000%) con respecto a la 
+Tierra. Si sopla un viento de 30 nudos del este (090°), calcular que rumbo (aci- 
+mut) debe tomar el piloto. 
+69 @@ ssm  ElcocheA se mueve hacia el este a 20 nys y se dirige a un 
+cruce. Cuando A cruza la intersección, el coche B parte del reposo 40 m al norte 
+del cruce y se mueve hacia el sur con una aceleración constante de 2 m/s?, 
+(a) ¿Qué posición ocupa B respecto a A 6 segundos después de que A cruza la 
+intersección? (b) ¿Cuál es la velocidad de B respecto a A cuando t= 6 s? 
+(c) ¿Cuál es la aceleración de B respecto a A para 1=6 s? 
+70 @@@ SSM _ Una pelota está por encima de una raqueta de tenis colo- 
+cada en posición horizontal. Al soltar la pelota, ésta rebota en las cuerdas de la 
+raqueta alcanzando el 64% de su altura inicial. (a) Encontrar la expresión para 
+la velocidad de la pelota, después de rebotar, en función de la velocidad de la 
+pelota justo antes del choque con la raqueta. (b) La misma pelota y la misma 
+raqueta se utilizan para jugar un partido de tenis. Un jugador, al sacar, golpea la 
+pelota (que supuestamente tiene una velocidad inicial nula) moviendo la 
+raqueta a 25 m/s. ¿Con qué velocidad impulsa el jugador la bola? (Sugerencia): 
+Use el resultado del apartado (a) y calcule la velocidad de la bola en el sistema 
+de referencia de la raqueta para, posteriormente, calcular la velocidad de ésta 
+en el sistema de referencia del jugador. (c) Una bien conocida ley de la física 
+nos dice que nunca podemos ver como una pelota rebota hasta una altura supe- 
+rior de donde ha salido. A partir de este hecho, ¿puede encontrar un límite 
+superior a la velocidad de una pelota en un servicio, independientemente del 
+diseño de la raqueta? (Esta cuestión se podrá explicar más adelante en un con- 
+texto diferente: la idea de la conservación del ímpetu).
+
+Movimiento circular y aceleración centripeta 
+71 e ¿Cuál es la aceleración del extremo de la aguja que señala los 
+minutos en el reloj del problema 38? Expresarla como una fracción del módulo 
+de la aceleración de la caída libre g. 
+72 e Una centrifugadora gira a 15.000 rev/min. (a) Calcular la acelera- 
+ción centrípeta en un tubo con una muestra situado a 15 cm del eje de rotación. 
+(6) Para conseguir la velocidad máxima de rotación, la centrifugadora acelera 
+durante | min. y 15 s. Calcular el módulo de la aceleración tangencial mientras 
+acelera, suponiendo que ésta sea constante. 
+73 e Un objeto situado en reposo en el ecuador experimenta una acele- 
+ración dirigida hacia el centro de la Tierra debido al movimiento rotacional de 
+la Tierra alrededor de su eje y una aceleración dirigida hacia el Sol debida al 
+movimiento orbital de la Tierra, Calcular los módulos de ambas aceleraciones y 
+expresarlos como una fracción de la aceleración de caída libre de los cuerpos g. 
+Usar los valores de los datos físicos que se incluye al final de este libro. 
+74 @@ SSM Determine la aceleración que experimenta la Luna 
+debida a la Tierra, usando para ello los valores de la distancia media y del 
+periodo orbital que aparecen en la tabla de datos físicos al final del libro. 
+Suponga que la órbita es circular, Exprese esta aceleración como una fracción 
+del módulo de la aceleración de caída libre. 
+75 e Un muchacho hace girar una bola atada a una cuerda en un círculo 
+horizontal de 0,8 m de radio. ¿Cuántas revoluciones por minuto realiza la bola 
+si el módulo de su aceleración centrípeta es g (el módulo de la aceleración de 
+caída libre)? 
+Proyectiles 
+76 e Un lanzador de béisbol lanza una pelota a 140 km/h hacia la base, 
+que está a 18,4 m de distancia. Despreciando la resistencia del aire (no sería 
+una buena cosa para el bateador), determinar cuánto ha descendido la pelota 
+por causa de la gravedad en el momento en que alcanza la base. 
+77 e Se lanza un proyectil con velocidad de módulo vo y ángulo 4 res- 
+pecto a la horizontal. Hallar una expresión que dé la altura máxima que alcanza 
+por encima de su punto de partida en función de vp, & y g. 
+78 @@ SSM Un proyectil se dispara con una velocidad inicial vg bajo 
+un ángulo de tiro de 30° sobre la horizontal desde una altura de 40 m por 
+encima del suelo, El proyectil choca contra el suelo a una velocidad de 1,2 vo. 
+Determinar vp. 
+79 @@ Enla figura 3.48, si x es 50 my h = 10 m, ¿cuál es la velocidad 
+mínima inicial del dardo para que choque contra el mono antes de llegar éste al 
+suelo que está a 11,2 m por debajo de la posición inicial del mono? 
+Figura 3.48 Problema 79 
+80 es Un proyectil se dispara con una velocidad inicial de 53 m/s. 
+Determinar el ángulo de proyección necesario para que la altura máxima del 
+proyectil sea igual a su alcance horizontal. 
+Problemas | 75 
+81 es Una bola lanzada al aire llega al suelo a una distancia de 40 m al 
+cabo de 2,44 s. Determinar el módulo y la dirección de la velocidad inicial. 
+82 e@@ SSM I Demostrar que si un objeto se lanza con velo- 
+cidad vp bajo un ángulo de tiro @ por encima de la horizontal, el módulo de la 
+velocidad a cierta altura h, v(h), es independiente de 6. 
+83 eS A la mitad de su altura máxima, la velocidad de un proyectil es 3/4 
+de su velocidad inicial. ¿Qué ángulo forma el vector velocidad inicial con la 
+horizontal? 
+84 e 1 Y Un avión de transporte vuela horizontalmente a una 
+altura de 12 km con una velocidad de 900 km/h cuando un carro de combate se 
+desprende de la rampa trasera de carga. (a) ¿Cuánto tiempo tarda el tanque en 
+chocar contra el suelo? (b) ¿A qué distancia horizontal del punto donde cayó se 
+encuentra el tanque cuando choca contra el suelo? (c) ¿A qué distancia está el 
+tanque respecto al avión cuando choca contra el suelo, suponiendo que el avión 
+sigue volando con velocidad constante? 
+85 e@@ SSM i Dos personajes de dibujos animados respon- 
+den a su argumento habitual y uno persigue al otro. El coyote Wiley (Carnivo- 
+rous hungribilous) intenta cazar de nuevo al Correcaminos (Speedibus 
+canteatchmi). Ambos. en su frenética carrera llegan al borde de un profundo 
+barranco de 15 m de ancho y 100 m de profundidad. El Correcaminos salta con 
+un ángulo de 15° por encima de la horizontal y aterriza al otro lado del barranco 
+sobrándole 1,5 m. (a) ¿Cuál era la velocidad del Correcaminos antes de iniciar 
+el salto? Ignore la resistencia del aire. (b) El Coyote, con el mismo objetivo de 
+superar el obstáculo, salta también con la misma velocidad inicial, pero con 
+distinto ángulo de salida. Para su desgracia, le faltan 0,5 m para poder alcanzar 
+el otro lado del barranco, ¿Con qué ángulo saltó? (Supóngase que éste fue infe- 
+rior a 15°.) 
+86 e Un cañón se ajusta con un ángulo de tiro de 45°. Dispara una bala 
+con una velocidad de 300 m/s, (a) ¿A qué altura llegará la bala? (b) ¿Cuánto 
+tiempo estará en el aire? (c) ¿Cuál es el alcance horizontal del cañón? 
+87 es Una piedra lanzada horizontalmente desde lo alto de una torre 
+choca contra el suelo a una distancia de 18 m de su base. (a) Sabiendo que la 
+altura de la torre es de 24 m, calcular la velocidad con que fue lanzada la pie- 
+dra. (b) Calcular la velocidad de la piedra justo antes de que ésta golpee el 
+suelo. 
+88 ee 1 Se dispara un proyectil al aire desde la cima de una 
+montaña a 200 m por encima de un valle (figura 3.49). Su velocidad inicial es 
+de 60 m/s a 60° respecto a la horizontal. Despreciando la resistencia del aire, 
+¿dónde caerá el proyectil? 
+Vp = 60 m/s ` 
+60° ` 
+q... sede 
+200 m 
+— Alcance =? 
+Figura 3.49 Problema 88 
+89 es El alcance de un proyectil disparado horizontalmente desde lo 
+alto de un monte es igual a la altura de éste. ¿Cuál es la dirección del vector 
+velocidad cuando el proyectil choca contra el suelo? 
+90 e Se dispara un proyectil con un ángulo de 60° por encima de la 
+horizontal y con una velocidad inicial de 300 m/s. Calcular (a) la distancia 
+horizontal recorrida por el proyectil y (b) la distancia vertical alcanzada des- 
+pués de transcurridos los primeros 6 s.
+
+76 | Capítulo 3 Movimiento en dos y tres dimensiones 
+91 es Una bala de cañón se dispara con una velocidad inicial de 42,2 m/s, 
+desde una altura de 40 m y con un ángulo de 30° por encima de la horizontal. 
+Encontrar el alcance de la bala. 
+9 @@ SSM i Un arco lanza flechas con una velocidad del 
+orden de 45 m/s, (a) Un arquero Tártaro sentado a horcajadas en su caballo dis- 
+para una flecha elevando el arco 10° por encima de la horizontal. Si el arco está 
+2,25 m por encima del suelo, ¿cuál es el alcance de la flecha? Supóngase que el 
+suelo está nivelado y no considere la resistencia del aire. (b) Supóngase ahora 
+que el caballo se mueve a galope tendido en la misma dirección en que se dis- 
+para la flecha y que el arquero coloca el arco de la misma forma que en el apar- 
+tado anterior. Si la velocidad del caballo es de 12 m/s, ¿cuál es ahora el alcance 
+de la flecha? 
+93 e I Y Con el uso de un cañón de patatas (instrumento 
+medio juguete medio real), Chuck lanza patatas horizontalmente con una velo- 
+cidad inicial de 50 m/s. (a) Si Chuck mantiene el aparato | m por encima del 
+suelo, ¿cuánto tiempo está el tubérculo en el aire después de su lanzamiento? 
+(b) ¿Hasta dónde llega antes de tocar el suelo? (Se puede obtener información 
+sobre los cañones de patata en Internet buscando potato cannons.) 
+94 es Calcular dR/d@ a partir de R = (v¿/g) sen(20,) y mostrar que 
+poniendo dR/d@ = 0 nos da que para el ángulo @ = 45° se obtiene el máximo 
+alcance. 
+95 e SSM En un corto relato de ciencia ficción escrito durante los 
+años 1970, Ben Bova describió un conflicto entre dos hipotéticas colonias en la 
+Luna — una fundada por los Estados Unidos y la otra fundada por la Unión 
+Soviética. En la historia, los colonos de cada colonia empiezan a dispararse 
+entre ellos hasta que se dan cuenta, con horror, que sus armas dan suficiente 
+velocidad inicial a las balas para que éstas se sitúen en órbita. (a) Si el módulo 
+de la aceleración de la gravedad en la Luna es 1,67 m/s?, ¿cuál es el alcance 
+máximo de una bala cuya velocidad inicial es de 900 m/s? (Supóngase que la 
+curvatura de la superficie de la Luna es despreciable.) (b) ¿Cuál debería ser la 
+velocidad inicial de una bala disparada en la superficie de la Luna para que ésta 
+pudiera situarse en órbita alrededor del satélite? (Hay que buscar el radio de la 
+Luna.) 
+96 ese Enel texto, se ha calculado que el alcance de un proyectil cuando 
+cae a la misma altura desde la que ha sido disparado es R = (v¿/g) sen(28,). 
+Demostrar que el cambio en el alcance causado por una pequeña variación de la 
+aceleración de la gravedad viene dado por AR/R =—Ag/g. 
+97 ese Enel texto, se ha calculado que el alcance de un proyectil cuando 
+cae a la misma altura desde la que ha sido disparado es R = (v¿/g) sen(28,). 
+Demostrar que el cambio en el alcance causado por una pequeña variación de la 
+velocidad inicial viene dado por AR/R = 2AvyJvp. 
+98 ese Enel texto, se ha calculado que el alcance de un proyectil cuando 
+cae a la misma altura desde la que ha sido disparado es R = (v¿/g) sen(28,). 
+Figura 3.50 Problema 98 
+Demostrar que el alcance para un problema más general como el que se mues- 
+tra en la figura 3.50 donde Ay #0 viene dado por 
+f fr Ade oan 
+= sae JE 2 R ( ry i! z vå sen? 6, a” 20 
+99 @@ SSM Unproyectil se dispara con un ángulo de elevación 6. Un 
+observador situado junto a la rampa de lanzamiento sitúa la posición del pro- 
+yectil midiendo el ángulo de elevación @ que se muestra en la figura 3.51 
+cuando éste está en su máxima elevación. Demostrar que @ = 5tg 0. 
+Figura 3.51 Problema 99 
+100 e Un proyectil se dispara con una velocidad inicial desconocida y 
+aterriza, 20 s más tarde, en la ladera de una colina situada a una distancia hori- 
+zontal de 3000 m y a 450 m por encima del punto desde donde se ha realizado 
+el disparo. (a) ¿Cuál es la componente vertical de su velocidad inicial? (b) 
+¿Cuál es la componente horizontal de su velocidad inicial? 
+101 @@ SSM Una piedra se lanza horizontalmente desde lo alto de una 
+cuesta que forma un ángulo O con la horizontal. Si la velocidad inicial de la pie- 
+dra es Vo, ¿a qué distancia caerá sobre la cuesta? 
+102 @@@ Un cañón de juguete se coloca en una rampa que tiene una pen- 
+diente con un ángulo 6. (a) Si la bala se proyecta hacia arriba por una colina 
+con un ángulo de 6 por encima de la horizontal (figura 3.52) y tiene una velo- 
+cidad inicial vy, demostrar que el alcance R (medido a lo largo de la rampa) 
+viene dado por 
+_ 2vĝ cos*8,(tg  — tg 9) R g cos @ 
+Ignorar la resistencia del aire. 
+Figura 3.52 Problema 102 
+103 es Desde el tejado de un edificio de 20 m de altura se lanza una pie- 
+dra con un ángulo de tiro de 53° sobre la horizontal. Si el alcance horizontal de 
+la piedra es igual a la altura del edificio, con qué velocidad se lanzó la roca? 
+¿Cuál es la velocidad de ésta justo antes de chocar contra el suelo? 
+104 es Una muchacha que está a 4 m de una pared vertical lanza contra 
+ella una pelota (figura 3.53). La pelota sale de su mano a 2 m por encima del 
+suelo con una velocidad inicial vg = (10 m/s)(i + j) o 10,/2 m/s a 45°. Cuando 
+la pelota choca en la pared, se invierte la componente horizontal de su veloci-
+
+mientras que permanece sin variar su componente vertical. ¿Dónde caerá la 
+Jota al suelo? Sugerencia: Se puede considerar que la pared actúa como un 
+pejo. Determinar el alcance, sin considerar la pared, y una vez conocido, 
+msiderar la reflexión especular en la pared. 
+f 4m 
+Figura 3.53 Problema 104 
+Tiro al blanco y problemas relacionados 
+105 @ Un muchacho utiliza un tirachinas para lanzar una piedra desde la 
+altura del hombro a un blanco situado a 40 m de distancia. El muchacho 
+Observa que para hacer diana debe apuntar a 4,85 m por encima del blanco. 
+Determinar la velocidad de la piedra cuando sale del tirachinas y el tiempo de 
+vuelo. 
+106 «ee SSM La distancia del puesto del lanzador de béisbol a la base 
+es de 18,4 m. El terraplén donde se sitúa el lanzador está 0,2 m sobre el nivel 
+del campo. Al lanzar una pelota con una velocidad inicial de 37,5 m/s, ésta sale 
+de la mano del lanzador a una altura de 2,3 m sobre el terraplén. ¿Qué ángulo 
+debe formar v y la horizontal para que la pelota cruce la base a 0,7 m por 
+encima del suelo? (Despreciar la interacción con el aire.) 
+107 es Supongamos que un disco de hockey se lanza de tal modo que 
+justamente sobrepasa la pared de plexiglás cuando se encuentra a su altura 
+máxima h = 2,80 m. Determinar vo,, el tiempo / que tarda en salvar la pared y 
+Var Vo Y % para este caso. Suponga que la distancia horizontal es x, = 12,0 m. 
+108 «es Un muchacho se aproxima con su motocicleta al lecho de un ria- 
+chuelo de 7 m de anchura. Se ha construido una rampa con una inclinación de 
+10° para la gente atrevida que quiera saltar la zanja. El muchacho circula a su 
+máxima velocidad, 40 km/h. (a) ¿Debería el muchacho intentar el salto o pisar 
+los frenos con energía? (b) ¿Cuál es la velocidad mínima que debe llevar la 
+motocicleta para dar este salto? (Suponer la misma elevación en los dos lados 
+del obstáculo.) 
+109 ese Si una bala que sale por la boca del arma a 250 m/s ha de chocar 
+contra un blanco situado a 100 m de distancia y la misma altura que el arma, 
+ésta debe apuntar a un punto por encima del blanco. ¿Qué distancia debe haber 
+entre el blanco y este punto? 
+Problemas generales 
+110 e Los vectores desplazamiento A y B de la figura 3.54 tienen ambos 
+una magnitud de | m. (a) Determinar sus componentes x e y. (b) Determinar las 
+componentes, módulo y dirección de la suma A + B. (c) Determinar las compo- 
+nentes, módulo y dirección de la diferencia A — B. 
+Problemas | 77 
+Figura 3.54 Problema 110 
+111 e SSM Un plano está inclinado un ángulo de 30° con la horizon- 
+tal. Escoger el eje x apuntando hacia abajo según la pendiente del plano y el eje 
+y perpendicular al plano. Determinar las componentes x e y de la aceleración de 
+la gravedad, cuya magnitud es 9,81 m/s? y apunta verticalmente hacia abajo. 
+112 e Dos vectores A y B corresponden al plano xy. ¿En qué condicio- 
+nes la relación A/B = AJ/B,? 
+113 e El vector de posición de una partícula viene dado por r = 
+(5 m/s)1 i + (10 m/s)! j, en donde t está en segundos y r en metros. (a) Dibujar 
+la trayectoria de la partícula en el plano xy. (b) Hallar v en forma de sus compo- 
+nentes y calcular su módulo, 
+114 ee 1 Un albañil situado en el tejado de una casa deja caer 
+involuntariamente su martillo, y éste resbala por el tejado con una velocidad 
+constante de 4 m/s. El tejado forma un ángulo de 30° con la horizontal y su 
+punto más bajo está a 10 m de altura sobre el suelo. ¿Qué distancia horizontal 
+recorrerá el martillo después de abandonar el tejado de la casa y antes de que 
+choque contra el suelo? 
+115 ec En 1940, Emanuel Zacchini voló 53 m como un obús humano, 
+récord que todavía no ha sido superado. Su velocidad inicial fue 24,2 m/s bajo 
+un ángulo de tiro 6. Determinar 0 y la altura máxima, h, alcanzada por Emanuel 
+durante este vuelo. Ignore los efectos de la resistencia del aire. 
+116 es Una partícula se mueve en el plano xy con aceleración constante. 
+Para ¢ = 0, la partícula se encuentra en la posición r; = (4 m) i+(3 m) j, con 
+velocidad v;. Para t = 2 s, la partícula se ha desplazado a la posición r, = 
+(10 m) i-(2 m) j y su velocidad ha cambiado a v, = (5 m/s) i-(6 m/s) j. 
+(a) Determinar v,. (b) ¿Cuál es la aceleración de la partícula? (c) ¿Cuál es la 
+velocidad de la partícula en función del tiempo? (d) ¿Cuál es el vector posición 
+de la partícula en función del tiempo? 
+117 @@ SSM Una pequeña bola de acero se proyecta horizontalmente 
+desde la parte superior de una escalera de escalones rectangulares. La veloci- 
+dad inicial de la bola es de 3 m/s. Cada escalón tiene 0,18 m de altura y 0,3 m 
+de ancho. ¿Con cuál escalón chocará primeramente la bola? 
+118 es Una persona lanza una pelota a la distancia x) cuando está de pie 
+sobre un terreno nivelado. ¿A qué distancia lanzará la misma pelota desde lo 
+alto de un edificio de altura h si lo hace con ángulos de inclinación (a) 0°? 
+(b) 30°? (c) 45°? 
+119 ee. Darlen es una motorista acróbata de un circo ambulante. Para dar 
+más emoción a su actuación, salta desde una rampa que posee una inclinación @ 
+y sobrepasa una zanja con llamas de anchura x y alcanza el otro extremo sobre 
+una plataforma elevada (altura h respecto del lado inicial) (figura 3.55), (a) Para 
+L 
+Figura 3.55 Problema 119
+
+78 | Capítulo 3 Movimiento en dos y tres dimensiones 
+una determinada altura A, encuentre la velocidad de despegue mínima Vmin para 
+realizar el salto con éxito. (b) ¿Cuál es vnin para un ángulo de lanzamiento 6 = 
+30° si la profundidad del pozo es de 8 m y la altura de la plataforma h = 4 m? 
+(c) Muestre que, independientemente del módulo de la velocidad de despegue, 
+la altura máxima de la plataforma es msx <x tg 6. Interprete el resultado física- 
+mente. (Desprecie los efectos de la resistencia del aire y trate la motocicleta 
+como una partícula.) 
+120 ese Una pequeña lancha pone rumbo hacia un puerto situado a 32 km 
+hacia el noroeste de su posición inicial cuando súbitamente se ve envuelta en 
+una densa niebla. El capitán mantiene el rumbo al noroeste y una velocidad de 
+10 km/h relativa al agua. Tres horas más tarde, la niebla se levanta y el capitán 
+observa que se encuentra exactamente a 4,0 km al sur del puerto, (a) ¿Cuál fue 
+la velocidad media de la corriente durante aquellas tres horas? (b) ¿En qué 
+dirección debería haber puesto su rumbo la lancha para alcanzar su destino en 
+una trayectoria lineal? (c) Si hubiera seguido esta trayectoria lineal, ¿qué 
+tiempo habría necesitado para realizar el viaje? 
+121 @@ SSM Galileo indicó que, si se despreciaba la resistencia del 
+aire, los alcances de los proyectiles lanzados con ángulos de tiro mayores de 
+45° en una determinada cantidad eran iguales a los alcances de proyectiles lan- 
+zados con ángulos de tiro menores de 45° en la misma cantidad. Demostrarlo. 
+122 es Desde la parte superior de un acantilado de altura / se lanzan dos 
+pelotas con idéntica velocidad. Una de ellas se lanza hacia arriba con un ángulo 
+@ respecto a la horizontal. La otra se lanza hacia abajo con un ángulo B res- 
+pecto a la horizontal. Demostrar que ambas pelotas chocan contra el suelo con 
+la misma velocidad y calcular el valor de esta velocidad en función de h y de la 
+velocidad inicial vo.
+
+LEYES DE NEWTON Capitulo 
+4.1 Primera ley de 
+Newton: ley de la 
+inercia 
+4.2 Fuerza, masa y 
+segunda ley de 
+Newton 
+4.3 Fuerza debida a la 
+gravedad: el peso 
+4.4 Las fuerzas en la 
+naturaleza 
+4.5 Resolución de 
+problemas: diagramas 
+de fuerzas de sistemas Este avión esta acelerando antes del despegue. Las leyes de Newton relacionan la acelera- 
+ción de un objeto con su masa y con las fuerzas que actúan sobre él. aislados 
+Si usted fuera un pasajero, ¿cómo usaría las leyes de Newton para determinar la aceleración 4.6 ae ley de 
+on del avión? (Véase el ejemplo 4.9.) bi 
+4.7 Problemas con dos o 
+más objetos 
+A hora que ya hemos estudiado cómo se mueven los cuerpos en una, dos y tres dimen- 
+siones, nos hacemos la siguiente pregunta, “¿por qué los objetos se ponen en movimien- 
+to?” ¿Cuáles son las causas que hacen que un cuerpo en movimiento gane velocidad o 
+cambie la dirección? 
+La mecánica clásica relaciona las fuerzas que se ejercen los cuerpos entre sí, y tam- 
+bién los cambios en el movimiento de un objeto con las fuerzas que actúan sobre él. Des- 
+cribe los fenómenos utilizando las tres leyes del movimiento de Newton. Mientras que 
+ya tenemos una idea intuitiva de algunas fuerzas, como las de empuje o de tracción ejer- 
+cidas por nuestros músculos o por muelles o gomas elásticas, las leyes de Newton nos 
+permiten refinar nuestra comprensión sobre las fuerzas en general. 
+© En este capítulo, describiremos las tres leyes del movimiento de Newton y empe- 
+zaremos a utilizarlas para resolver problemas que impliquen objetos en movimien- 
+to y en reposo. 
+Una versión moderna de las leyes de Newton es la siguiente: 
+Primera ley Todo cuerpo en reposo sigue en reposo a menos que sobre él actúe una 
+fuerza externa. Un cuerpo en movimiento continúa moviéndose con velocidad constante 
+a menos que sobre él actúe una fuerza externa. 
+PRIMERA LEY DE NEWTON

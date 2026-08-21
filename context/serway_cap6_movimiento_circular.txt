@@ -1,0 +1,2145 @@
+Tema: Movimiento circular y otras aplicaciones de las leyes de Newton (Capítulo 6 — Física para Ciencias e Ingeniería, Serway)
+
+Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+Ahora se incorpora el concepto de fuerza en la partícula en el modelo de movimiento 
+circular uniforme. Examine una bola de masa m que se amarra a una cuerda de longitud r  
+para hacerla girar con rapidez constante en una trayectoria circular horizontal, como se 
+ilustra en la figura 6.1. Su peso se sostiene mediante una mesa sin fricción. ¿Por qué la bola 
+se traslada en un círculo? De acuerdo con la primera ley de Newton, la bola se movería en 
+una línea recta si no hubiese fuerza en ella; sin embargo, la cuerda evita el movimiento a 
+lo largo de una línea recta al ejercer en la bola una fuerza radial F
+S
+r que la hace seguir la 
+trayectoria circular. Esta fuerza se dirige a lo largo de la cuerda hacia el centro del círculo, 
+como se muestra en la figura 6.1.
+Si se aplica la segunda ley de Newton a lo largo de la dirección radial, la fuerza neta que 
+causa la aceleración centrípeta se relaciona con la aceleración del modo siguiente:
+ 
+ F mac m v2
+r  (6.1)
+Una fuerza que causa una aceleración centrípeta actúa hacia el centro de la trayectoria 
+circular y genera un cambio en la dirección del vector velocidad. Si dicha fuerza desapare-
+ciera, el objeto ya no se movería en su trayectoria circular; en vez de ello, se movería a lo 
+largo de una trayectoria en línea recta tangente al círculo. Esta idea se ilustra en la figura  
+6.2 para la bola que gira al final de una cuerda en un plano horizontal. Si la cuerda se 
+rompe en algún instante, la bola se mueve a lo largo de la trayectoria en línea recta que 
+es tangente al círculo en la posición de la bola en ese instante.
+P
+regunta rápida 6.1 Usted viaja en una rueda de la fortuna que gira con rapidez cons-
+tante. La cabina en la que viaja siempre mantiene su orientación correcta hacia arriba; no 
+se invierte. i) ¿Cuál es la dirección de la fuerza normal sobre usted desde el asiento cuando 
+está en lo alto de la rueda? a) hacia arriba, b) hacia abajo, 
+c) imposible de determinar. 
+ii) De las mismas opciones, ¿cuál es la dirección de la fuerza neta sobre usted cuando está 
+en lo alto de la rueda?
+Fuerza que causa 
+aceleración centrípeta
+0
+PREVENCIÓN DE RIESGOS  
+OCULTOS 6.1
+Dirección de viaje cuando la cuerda 
+se corta
+Estudie la figura 6.2 con 
+atención. Muchos estudiantes 
+(de manera errónea) piensan 
+que la bola se moverá 
+radialmente, alejándose del 
+centro del círculo cuando la 
+cuerda se corte. La velocidad  
+de la bola es tangente al círculo. 
+Por la primera ley de Newton,  
+la bola continúa móvil en la 
+misma dirección en la que  
+se movía justo cuando 
+desaparece la fuerza de la 
+cuerda.
+Figura 6.1 Vista superior de 
+una bola móvil en una trayectoria 
+circular en un plano horizontal.  
+Una fuerza 
+F
+S
+r dirigida hacia el 
+centro del círculo mantiene a  
+la bola móvil en su trayectoria 
+circular.
+Figura 6.2 Vista superior de una bola móvil en una 
+trayectoria circular en un plano horizontal. Cuando la 
+cuerda se rompe, la bola se traslada en dirección tangente 
+al círculo.
+EJEMPLO 6.1 El péndulo cónico
+Una pequeña bola de masa m se suspende de una cuerda de longitud L. La bola da vueltas con rapidez constante v en un 
+círculo horizontal de radio r, como se muestra en la figura 6.3. (Puesto que la cuerda hace un recorrido de la superficie en 
+forma de  cono, el sistema se conoce como péndulo cónico.) Encuentre una expresión para v.
+m
+r
+Fr
+Fr
+r
+v
+
+SOLUCIÓN
+Conceptualizar Examine el movimiento de la bola en la figura 6.3a y observe 
+que la cuerda hace un recorrido en cono y que la bola se mueve en círculo.
+Categorizar La bola en la figura 6.3 no tiene aceleración vertical. Debido a eso, se 
+le modela como una partícula en equilibrio respecto de la dirección vertical. Expe-
+rimenta una aceleración centrípeta en la dirección horizontal, de modo que se le 
+modela como una partícula en movimiento circular uniforme en esta dirección.
+Analizar Sea V la representación del ángulo entre la cuerda y la vertical. En el 
+diagrama de cuerpo libre que se muestra en la figura 6.3b, la fuerza T
+S
+ que ejerce 
+la cuerda se resuelve en una componente vertical T cos V y una componente ho-
+rizontal T sen V que actúa hacia el centro de la trayectoria circular.
+Aplique el modelo de partícula en equilibrio en la 
+dirección vertical:
+Use la ecuación 6.1 para expresar la fuerza que pro-
+porciona la aceleración centrípeta en la dirección 
+horizontal:
+Divida la ecuación 2) entre la ecuación 1) y use  
+sen V/cos V = tan V:
+Resuelva para v:
+Incorpore r = L sen V a partir de la geometría a la 
+figura 6.3a:
+Finalizar Note que la rapidez es independiente de la masa de la bola. Considere lo que ocurre cuando V va a 90° de 
+modo que la cuerda es horizontal. Puesto que la tangente de 90° es infinita, la rapidez v es infinita, lo que dice que la cuer- 
+da posiblemente no es horizontal. Si lo fuese, no habría componente vertical de la fuerza T
+S
+ para equilibrar la fuerza gra-
+vitacional en la bola. Por esta razón se mencionó en la figura 6.1 que el peso de la bola se sostiene mediante una mesa sin 
+fricción.
+EJEMPLO 6.2 ¿Qué tan rápido puede girar?
+Una bola de 0.500 kg de masa se une al extremo de una cuerda de 1.50 m de largo. La bola da vueltas en un círculo hori-
+zontal como se muestra en la figura 6.1. Si la cuerda resiste una tensión máxima de 50.0 N, ¿cuál es la máxima rapidez a la 
+que gira la bola antes de que se rompa la cuerda? Suponga que la cuerda permanece horizontal durante el movimiento.
+SOLUCIÓN
+Conceptualizar Tiene sentido que, mientras más fuerte sea la cuerda, más rápido gira la bola antes de que la cuerda se 
+rompa. Además, se espera que una bola con mayor masa rompa la cuerda a una rapidez más baja. (¡Imagine girar una bola 
+de boliche en la cuerda!)
+Categorizar Puesto que la bola se mueve en una trayectoria circular, se le modela como una partícula en movimiento 
+circular uniforme.
+Analizar Incorpore la tensión y la aceleración cen-
+trípeta en la segunda ley de Newton:
+Resuelva para v:
+ Sección 6.1  Segunda ley de Newton para una partícula en movimiento circular uniforme  139
+Figura 6.3 (Ejemplo 6.1) a) Péndulo 
+cónico. La trayectoria del objeto es 
+un círculo horizontal. b) Diagrama de 
+cuerpo libre para el objeto.
+a) b)
+r
+L
+T
+mg
+V
+mg
+V
+T sen V
+T cos V
+v  Lg sen u tan u
+v rg tan u
+tan u v2
+rg
+2)  Fx T sen u mac
+mv2
+r
+1) T cos u mg
+Fy T cos u mg 0
+T m v2
+r
+1) v Tr
+m
+
+140 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+Encuentre la rapidez máxima que puede tener la bola, que co-
+rresponde a la tensión máxima que la cuerda resiste:
+Finalizar La ecuación 1) muestra que v aumenta con T y disminuye con m más grande, como se espera de la conceptua-
+lización del problema.
+¿Qué pasaría si? Suponga que la bola gira en un círculo de mayor radio a la misma rapidez v. ¿Es más o menos probable 
+que la cuerda se rompa?
+Respuesta El radio más grande significa que el cambio en la dirección del vector velocidad será más pequeño en un inter-
+valo de tiempo dado. Por ende, la aceleración es más pequeña y la tensión requerida en la cuerda es más pequeña. Como 
+resultado, es menos probable que la cuerda se rompa cuando la bola viaja en un círculo de radio más grande.
+EJEMPLO 6.3 ¿Cuál es la máxima rapidez del automóvil?
+Un automóvil de 1 500 kg, se traslada sobre una curva, plana horizontal 
+como se muestra en la figura 6.4a. Si el radio de la curva es 35.0 m y el  
+coeficiente de fricción estática entre las llantas y el pavimento seco es 0.523, 
+encuentre la rapidez máxima que alcanza el automóvil y aún así da la vuelta 
+exitosamente.
+SOLUCIÓN
+Conceptualizar Considere que la autopista curva es parte de un gran círcu-
+lo, de modo que el automóvil se traslada en una trayectoria circular.
+Categorizar Respecto a la etapa conceptualizar del problema, el automóvil 
+se modela como una partícula en movimiento circular uniforme en la di-
+rección horizontal. El automóvil no acelera verticalmente, de modo que se 
+modela como una partícula en equilibrio en la dirección vertical.
+Analizar La fuerza que le permite al automóvil permanecer en su trayec-
+toria circular es la fuerza de fricción estática. (Es estática porque no ocurre 
+deslizamiento en el punto de contacto entre camino y llantas. Si esta fuerza 
+de fricción estática fuese cero —por ejemplo, si el automóvil estuviese sobre 
+un camino congelado— el automóvil continuaría en una línea recta y se 
+deslizaría hasta salir del camino.) La rapidez máxima v
+máx que puede tener el 
+automóvil alrededor de la curva es la rapidez a la que está a punto de derra-
+par hacia afuera. En este punto, la fuerza de fricción tiene su valor máximo 
+f
+s, máx  Nsn.
+Aplique la ecuación 6.1 en la dirección radial para la con-
+dición de rapidez máxima:
+Aplique el modelo de partícula en equilibrio al automóvil 
+en la dirección vertical:
+Resuelva la ecuación 1) para la rapidez máxima y sustituya 
+para n:
+Finalizar Esta rapidez es equivalente a 30.0 mi/h. Por lo tanto, este camino podría beneficiarse enormemente de cierto 
+peralte, ¡como en el ejemplo siguiente! Advierta que la rapidez máxima no depende de la masa del automóvil, razón por 
+la cual las autopistas curvas no requieren múltiples límites de rapidez para cubrir las varias masas de los vehículos que usan 
+el camino.
+¿Qué pasaría si? Suponga que un automóvil viaja por esta curva en un día húmedo y comienza a derrapar en la curva 
+cuando su rapidez llega sólo a 8.00 m/s. ¿Qué se puede decir acerca del coeficiente de fricción estática en este caso?
+vmáx
+Tmáxr
+m
+150.0 N21 1.50 m2
+0.500 kg  12.2 m>s
+m
+a)
+b)
+n
+g
+fs
+fs
+Figura 6.4 (Ejemplo 6.3) a) La fuerza de 
+fricción estática dirigida hacia el centro de la 
+curva mantiene al automóvil en movimiento en 
+una trayectoria circular. b) Diagrama de cuerpo 
+libre para el automóvil.
+2)
+ 10.52321 9.80 m>s2 21 35.0 m2  13.4 m>s
+vmáx
+msnr
+m
+msmgr
+m ms gr 
+ Fy 0 S nm g0 S nm g
+1) fs,máx msnm v2
+máx
+r
+
+Respuesta El coeficiente de fricción estática entre las llantas y el camino húmedo debe ser menor que el existente entre 
+las llantas y un camino seco. Esta expectativa concuerda con la experiencia de conducir, porque un derrape es más probable 
+en un camino húmedo que en un camino seco.
+Para comprobar la sospecha, se puede resolver la ecuación (2) para el coeficiente de fricción estática:
+ms
+v2
+máx
+gr
+Al sustituir los valores numéricos se obtiene
+ms
+v2
+máx
+gr
+18.00 m>s 22
+19.80 m>s2 21 35.0 m2 0.187
+que de hecho es más pequeño que el coeficiente de 0.523 para el camino seco.
+EJEMPLO 6.4 La autopista peraltada
+Un ingeniero civil quiere rediseñar la curva de la autopista del ejemplo 6.3 en tal forma 
+que un automóvil no tenga que depender de la fricción para circular la curva sin derra-
+par. En otras palabras, un automóvil que se traslada a la rapidez diseñada puede superar 
+la curva incluso cuando el camino esté cubierto con hielo. Dicha rampa será peraltada, lo 
+que significa que la carretera está inclinada hacia el interior de la curva. Suponga que la 
+rapidez diseñada para la rampa es 13.4 m/s (30.0 mi/h) y el radio de la curva es 35.0 m.  
+¿Cuál es el ángulo de peralte?
+SOLUCIÓN
+Conceptualizar La diferencia entre este ejemplo y el ejemplo 6.3 es que el automóvil 
+ya no se mueve en una carretera plana. La figura 6.5 muestra la carretera peraltada, con 
+el centro de la trayectoria circular del automóvil lejos hacia la izquierda de la figura. 
+Observe que el componente horizontal de la fuerza normal participa en la generación 
+de la aceleración centrípeta del automóvil.
+Categorizar Como en el ejemplo 6.3, el automóvil se modela como una partícula en 
+equilibrio en la dirección vertical y una partícula en movimiento circular uniforme  
+en la dirección horizontal.
+Analizar En un camino a nivel (sin peralte), la fuerza que causa la aceleración cen-
+trípeta es la fuerza de fricción estática entre el automóvil y el camino, como se vio en 
+el ejemplo precedente. Sin embargo, si el camino está peraltado en un ángulo V, como 
+en la figura 6.5, la fuerza normal n
+S
+ tiene una componente horizontal hacia el centro 
+de la curva. Puesto que la rampa se diseña de modo que la fuerza de fricción estática 
+sea cero, sólo la componente n
+x = n sen Vcausa la aceleración centrípeta.
+Escriba la segunda ley de Newton para el automóvil en 
+la dirección radial, que es la dirección x:
+Aplique el modelo de partícula en equilibrio al automó-
+vil en la dirección vertical:
+Divida la ecuación 1) entre la ecuación 2):
+Resuelva para el ángulo V:
+Finalizar La ecuación 3) muestra que el ángulo de peralte es independiente de la masa del vehículo que entra a la curva. 
+Si un automóvil recorre la curva con una rapidez menor que 13.4 m/s, se necesita fricción para evitar que se deslice por el 
+peralte (hacia la izquierda en la figura 6.5). Un conductor que intente superar la curva a una rapidez mayor que 13.4 m/s 
+tiene que depender de la fricción para evitar que derrape afuera del peralte (hacia la derecha en la figura 6.5).
+ Sección 6.1  Segunda ley de Newton para una partícula en movimiento circular uniforme  141
+Figura 6.5 (Ejemplo 6.4) Un 
+automóvil que recorre una curva sobre 
+un camino peraltado a un ángulo V 
+con la horizontal. Cuando la fricción 
+es despreciable, la fuerza que causa 
+la aceleración centrípeta y mantiene 
+al automóvil en movimiento en su 
+trayectoria circular es la componente 
+horizontal de la fuerza normal.
+u tan 1 a
+113.4 m>s 22
+135.0 m21 9.80 m>s2 2 b  27.6°
+3) tan u v2
+rg
+2) n cos u mg
+ Fy n cos u mg 0
+1)  Fr n sen u mv2
+r
+n
+nx
+ny
+Fg
+V
+V
+
+142 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+¿Qué pasaría si? Imagine que en el futuro esta misma carre-
+tera se construye en Marte para conectar diferentes centros 
+coloniales. ¿Es posible recorrerla con la misma rapidez?
+Respuesta La reducida fuerza gravitacional de Marte sig-
+nificaría que el automóvil no presiona tan fuertemente con 
+la carretera. La reducida fuerza normal da como resultado 
+una componente más pequeña de la fuerza normal hacia el 
+centro del círculo. Esta componente más pequeña no sería 
+suficiente para proporcionar la aceleración centrípeta aso-
+ciada con la rapidez original. La aceleración centrípeta se 
+debe reducir, lo que se logra al reducir la rapidez 
+v.
+En términos matemáticos, advierta que la ecuación (3) 
+muestra que la rapidez v es proporcional a la raíz cuadrada 
+de g para una carretera de radio fijo r peraltada en un án-
+gulo fijo V. Por lo tanto, si g es más pequeña, como lo es en 
+Marte, la rapidez v con que la autopista se puede recorrer 
+con seguridad también es más pequeña.
+EJEMPLO 6.5 ¡A hacer el rizo!
+Un piloto de masa m en un avión jet ejecuta un rizo, como 
+se muestra en la figura 6.6a. En esta maniobra, el avión se 
+mueve en un círculo vertical de 2.70 km de radio con una 
+rapidez constante de 225 m/s.
+A) Determine la fuerza que ejerce el asiento sobre el piloto 
+en la parte inferior del rizo. Exprese su respuesta en térmi-
+nos del peso del piloto mg.
+SOLUCIÓN
+Conceptualizar Observe con atención la figura 6.6a. En fun-
+ción con la experiencia al conducir sobre pequeñas colinas en  
+el camino o al viajar en lo alto de una rueda de la fortuna, 
+usted esperaría sentirse más ligero en lo alto de la trayec-
+toria. De igual modo, esperaría sentirse más pesado en la 
+parte inferior de la trayectoria. En la parte inferior del rizo, 
+las fuerzas normal y gravitacional sobre el piloto actúan en 
+direcciones opuestas, mientras que en la parte superior del 
+rizo estas dos fuerzas actúan en la misma dirección. La suma 
+vectorial de estas dos fuerzas proporciona una fuerza de 
+magnitud constante que mantiene al piloto móvil en una 
+trayectoria circular con una rapidez constante. Para producir vectores de fuerza neta con la misma magnitud, la fuerza 
+normal en la parte inferior debe ser mayor que en la parte superior.
+Categorizar Ya que la rapidez del avión es constante (¿cuán probable es esto?), se puede clasificar este problema como una 
+partícula (el piloto) en movimiento circular uniforme, complicado por la fuerza gravitacional que actúa en todo momento 
+sobre el avión.
+Analizar Dibuje un diagrama de cuerpo libre para el piloto en la parte inferior del rizo, como se muestra en la figura 
+6.6b. Las únicas fuerzas que actúan sobre él son la fuerza gravitacional hacia abajo F
+S
+g  mg
+S
+ y la fuerza hacia arriba n
+S
+inf que 
+ejerce el asiento. La fuerza neta hacia arriba sobre el piloto, que proporciona su aceleración centrípeta, tiene una magnitud  
+ninf – mg.
+Aplique la segunda ley de Newton al piloto en la dirección radial:
+Resuelva para la fuerza que ejerce el asiento sobre el piloto:
+Sustituya los valores dados para la rapidez y el radio:
+Por tanto, la magnitud de la fuerza n
+S
+inf que ejerce el asiento sobre el piloto es mayor que el peso del piloto por un factor de 
+2.91. De este modo, el piloto experimenta un peso aparente que es mayor que su peso verdadero en un factor de 2.91.
+Figura 6.6 (Ejemplo 6.5) a) Un avión ejecuta un rizo mientras se 
+mueve en un círculo vertical con rapidez constante. b) Diagrama 
+de cuerpo libre del piloto en la parte inferior del rizo. En esta 
+posición, el piloto experimenta un peso aparente mayor que su peso 
+verdadero. c) Diagrama de cuerpo libre para el piloto en la parte 
+superior del rizo.
+a) b) c)
+superior
+inferior
+R
+v
+v
+ninf
+nsup
+mg mg
+  2.91mg 
+ninf mg a 1
+1225 m>s 22
+12.70 10 3 m21 9.80 m>s2 2 b
+ninf mg m  
+v2
+r mg a 1 v2
+rg b
+ F ninf mg m v2
+r
+
+B) Resolver para la fuerza que ejerce el asiento sobre el piloto en la parte superior del rizo.
+SOLUCIÓN
+Analizar En la figura 6.6c se muestra el diagrama de cuerpo libre para el piloto en la parte superior del rizo. Como  
+ya se notó, tanto la fuerza gravitacional que ejerce la Tierra como la fuerza n
+S
+sup que ejerce el asiento sobre el piloto ac-
+túan hacia abajo, de modo que la fuerza neta hacia abajo que proporciona la aceleración centrípeta tiene una magnitud  
+nsup + mg.
+Aplique la segunda ley de Newton al piloto en esta posición:
+En este caso, la magnitud de la fuerza que ejerce el asiento sobre el piloto es menor que su peso verdadero en un factor de 
+0.913, y el piloto se siente más ligero.
+Finalizar Las variaciones en la fuerza normal son coherentes con la predicción en la etapa conceptualizar del problema.
+ Sección 6.2  Movimiento circular no uniforme  143
+6.2 Movimiento circular no uniforme
+En el capítulo 4 se encontró que, si una partícula se mueve con rapidez variable en una 
+trayectoria circular, existe, además de la componente radial de aceleración, una compo-
+nente tangencial que tiene magnitud |dv/dt |. En consecuencia, la fuerza que actúa sobre 
+la partícula también debe tener una componente tangencial y radial. Ya que la aceleración 
+total es a
+S
+  a
+S
+r  a
+S
+t , la fuerza total que se ejerce sobre la partícula es h F
+S
+  h F
+S
+r h F
+S
+t , 
+como se muestra en la figura 6.7. (Las fuerzas radial y tangencial se expresan como fuerzas 
+netas con la notación suma porque cada fuerza podría consistir en múltiples fuerzas que 
+se combinan.) El vector h F
+S
+r se dirige hacia el centro del círculo y es responsable de la 
+aceleración centrípeta. El vector h F
+S
+t tangente al círculo es responsable de la aceleración 
+tangencial, que representa un cambio en la rapidez de la partícula con el tiempo.
+Pregunta rápida 6.2 Una cuenta se desliza libremente, con rapidez constante, a lo largo 
+de un alambre curvo que se encuentra sobre una super
+ficie horizontal, como se muestra 
+en la figura 6.8. a) Dibuje los vectores que representan la fuerza que ejerce el alambre 
+sobre la cuenta en los puntos ,  y  . b) Suponga que la cuenta de la figura 6.8 aumen-
+ta de velocidad con aceleración tangencial constante mientras se mueve hacia la derecha. 
+Dibuje los vectores que representan la fuerza sobre la cuenta en los puntos ,  y .
+  0.913mg 
+ nsup mg a
+1225 m>s 22
+12.70 10 3 m21 9.80 m>s2 2 1 b  
+ nsup m v2
+r mg mg a v2
+rg 1 b  
+ F nsup mg m v2
+r  
+3 Fr
+3 F
+3 FtF
+
+
+
+Figura 6.7 Cuando la fuerza neta que actúa sobre una partícula móvil 
+en una trayectoria circular tiene una componente tangencial h Ft, la 
+rapidez de la partícula cambia. La fuerza neta que se ejerce sobre la 
+partícula en este caso es la suma vectorial de la fuerza radial y la fuerza 
+tangencial. Esto es, h F
+S
+  h F
+S
+r  h F
+S
+t.
+Figura 6.8 (Pregunta rápida 6.2) 
+Una cuenta se desliza a lo largo 
+de un alambre curvo.
+
+144 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+EJEMPLO 6.6 Mantenga los ojos en la bola
+Una pequeña esfera de masa m se une al extremo de una cuerda de longitud 
+R y se pone en movimiento en un círculo vertical en torno a un punto fijo O, 
+como se ilustra en la figura 6.9. Determine la tensión en la cuerda en cualquier 
+instante cuando la rapidez de la esfera sea v y la cuerda forme un ángulo V 
+con la vertical.
+SOLUCIÓN
+Conceptualizar Compare el movimiento de la esfera en la figura 6.9 con la 
+del avión en la figura 6.6a asociada con el ejemplo 6.5. Ambos objetos viajan en 
+una trayectoria circular. Sin embargo, a diferencia del avión en el ejemplo 6.5, 
+la rapidez de la esfera no es uniforme en este ejemplo porque, en la mayoría 
+de los puntos a lo largo de la trayectoria, la fuerza gravitacional que se ejerce 
+sobre la esfera surge una componente tangencial de aceleración.
+Categorizar La esfera se modela como una partícula bajo una fuerza neta 
+y móvil en una trayectoria circular, pero no es una partícula en movimiento 
+circular uniforme. Es necesario usar las técnicas contenidas en esta sección 
+acerca del movimiento circular no uniforme.
+Analizar A partir del diagrama de cuerpo libre en la figura 6.9, se ve que las 
+únicas fuerzas que actúan sobre la esfera son la fuerza gravitacional F
+S
+g  mg
+S
+ 
+que ejerce la Tierra y la fuerza T
+S
+ que ejerce la cuerda. Se descompone F
+S
+g en 
+una componente tangencial mg sen Vy otra componente radial mg cos V.
+Aplique la segunda ley de Newton a la esfera en la dirección tangencial:
+Aplique la segunda ley de Newton a las fuerzas que actúan sobre la esfera 
+en la dirección radial y note que tanto T
+S
+ como a
+S
+r se dirigen hacia O :
+Finalizar Evalúe este resultado en las partes superior e inferior de la trayectoria circular (figura 6.9):
+Tsup mg a
+v2
+sup
+Rg 1 b   Tinf mg a v2
+inf
+Rg 1 b
+Estos resultados tienen la misma forma matemática que las fuerzas normales nsup y ninf sobre el piloto en el ejemplo 6.5, 
+que es consistente con la fuerza normal sobre el piloto, que juega el mismo papel físico en el ejemplo 6.5 que la tensión 
+en la cuerda juega en este ejemplo. No obstante, tenga en mente que v en las expresiones anteriores varía para diferentes 
+posiciones de la esfera, como se indica mediante los subíndices, mientras v en el ejemplo 6.5 es constante.
+¿Qué pasaría si? ¿Y si la bola se pone en movimiento con una rapidez menor? a) ¿Qué rapidez tendría la bola mientras 
+pasa sobre la parte superior del círculo si la tensión en la cuerda tiende a cero instantáneamente en este punto?
+Respuesta Sea la tensión igual a cero en la expresión para T
+sup:
+0 mg a
+v2
+sup
+Rg 1 b S vsup gR
+¿Qué sucedería si la bola se pone en movimiento de tal modo que la rapidez en la parte superior sea menor que este valor? ¿Qué 
+ocurre?
+Respuesta En este caso, la bola nunca llega a la parte superior del círculo. En algún punto en el camino hacia arriba, la 
+tensión en la cuerda va a cero y la bola se convierte en un proyectil. Sigue un segmento de una trayectoria parabólica sobre 
+la parte superior de su movimiento, y se vuelve a incorporar a la trayectoria circular en el otro lado cuando la tensión se 
+vuelve distinta de cero nuevamente.
+Tinf
+Tsup
+vinf
+mg
+vsup
+R
+O
+T
+mgmg
+mg senV
+V
+Vmg cos
+Figura 6.9 (Ejemplo 6.6) Fuerzas que actúan 
+sobre una esfera de masa m conectada a una 
+cuerda de longitud R y que gira en un círculo 
+vertical con centro en O. Las fuerzas que actúan 
+sobre la esfera se muestran cuando la esfera está 
+en la parte superior e inferior del círculo y en 
+una posición arbitraria.
+ at g  sen u 
+Ft mg  sen u mat
+ T  mg a v2
+Rg cos u b  
+Fr Tm g  cos u mv2
+R
+
+6.3 Movimiento en marcos acelerados
+Las leyes de movimiento de Newton, que se presentaron en el capítulo 5, describen ob-
+servaciones que se realizan en un marco de referencia inercial. En esta sección se analiza 
+cómo son aplicadas las leyes de Newton por un observador en un marco de referencia 
+inercial, es decir, en uno que acelera. Por ejemplo, recuerde la discusión de la mesa de 
+hockey de aire en un tren en la sección 5.2. El tren móvil con velocidad constante repre-
+senta un marco inercial. Un observador en el tren ve que el disco en reposo permanece en 
+reposo, y parece obedecer la primera ley de Newton. El tren que acelera no es un marco 
+inercial. De acuerdo con usted, como el observador en este tren, parece no haber fuerza 
+sobre el disco, y sin embargo acelera desde el reposo hacia la parte trasera del tren, lo que 
+parece violar la primera ley de Newton. Esta es una propiedad general de las observaciones 
+realizadas en marcos no inerciales: parece haber aceleraciones no explicadas de los objetos 
+que no están “amarrados” al marco. Desde luego, la primera ley de Newton no se viola. 
+Sólo parece violarse debido a las observaciones hechas en un marco no inercial. En general, 
+la dirección de la aceleración inexplicable es opuesta a la dirección de la aceleración del 
+marco no inercial.
+En el tren que acelera, mientras observa al disco acelerar hacia la parte trasera del 
+tren, puede concluir, respecto a su creencia en la segunda ley de Newton, que una fuer-
+za actuó sobre el disco para hacerlo acelerar. A una fuerza aparente como ésta se le 
+llama fuerza ficticia porque se debe a un marco de referencia acelerado. Una fuerza ficti-
+cia parece actuar sobre un objeto de la misma manera que una fuerza real. Sin embargo, 
+las fuerzas reales siempre interactúan entre dos objetos, y usted no puede identificar un 
+segundo objeto para una fuerza ficticia. (¿Cuál segundo objeto interactúa con el disco 
+para hacerlo acelerar?)
+El ejemplo del tren describe una fuerza ficticia debido a un cambio en la rapidez 
+del tren. Otra fuerza ficticia se debe al cambio en la dirección del vector velocidad. Para 
+comprender el movimiento de un sistema que no es inercial debido a un cambio en 
+dirección, examine un automóvil que viaja a lo largo de una autopista con gran rapidez  
+y se aproxima a una rampa de salida curva, como se muestra en la figura 6.10a. A medida 
+que el automóvil toma la cerrada curva izquierda en la rampa, una persona que se sienta 
+en el lado del copiloto se desliza hacia la derecha y golpea la puerta. En dicho punto la 
+fuerza que ejerce la puerta sobre la copiloto evita que salga expulsada del automóvil. ¿Qué 
+la impulsa hacia la puerta? Una explicación popular, pero incorrecta, es que una fuerza 
+que actúa hacia la derecha en la figura 6.10b la empuja hacia afuera desde el centro de la 
+trayectoria circular. Aunque con frecuencia se le llama “fuerza centrífuga”, es una fuerza 
+ficticia debida a la aceleración centrípeta asociada con la dirección cambiante del vector 
+velocidad del automóvil. (El conductor también experimenta este efecto pero sabiamente 
+se sostiene del volante para evitar deslizarse hacia la derecha.)
+La explicación correcta del fenómeno es la siguiente: antes de que el automóvil entre a 
+la rampa, la copiloto es móvil en una trayectoria en línea recta. A medida que el automóvil 
+entra a la rampa y recorre una trayectoria curva, la copiloto tiende a moverse a lo largo de  
+la trayectoria recta original, lo que está en concordancia con la primera ley de Newton: la  
+tendencia natural de un objeto es continuar móvil en una línea recta. No obstante, si 
+una fuerza suficientemente grande (hacia el centro de curvatura) actúa sobre ella, como 
+en la figura 6.10c, ella se mueve en una trayectoria curva junto con el automóvil. Esta es 
+la fuerza de fricción entre ella y el asiento del automóvil. Si esta fuerza de fricción no  
+es suficientemente grande, el asiento sigue una trayectoria curva mientras la pasajera con-
+tinúa en la trayectoria en línea recta del automóvil antes de que el automóvil comience a 
+girar. Por lo tanto, desde el punto de vista de un observador en el automóvil, la pasajera se 
+desliza hacia la derecha en relación con el asiento. Al final, ella encuentra la puerta, que 
+proporciona una fuerza suficientemente grande para permitirle seguir la misma trayecto-
+ria curva que el automóvil. Ella se desliza hacia la puerta no a causa de una fuerza exterior 
+sino porque la fuerza de fricción no es suficientemente grande para permitirle viajar a lo 
+largo de la trayectoria circular seguida por el automóvil.
+Otra interesante fuerza ficticia es la “fuerza de Coriolis”. Es una fuerza aparente causada 
+al cambiar la posición radial de un objeto en un sistema coordenado en rotación.
+Figura 6.10 a) Un automóvil 
+se aproxima a una rampa de 
+salida curva. ¿Qué hace que 
+una pasajera en el asiento de 
+adelante se mueva hacia la puerta 
+derecha? b) Desde el marco de 
+referencia de la pasajera, una 
+fuerza parece empujarla hacia 
+la puerta derecha, pero es una 
+fuerza ficticia. c) En relación 
+con el marco de referencia de 
+la Tierra, el asiento aplica una 
+fuerza real hacia la izquierda 
+sobre la pasajera, lo que hace que 
+ella cambie de dirección junto 
+con el resto del automóvil.
+ Sección 6.3  Movimiento en marcos acelerados  145
+a)
+c)
+b)
+Fuerza
+ficticia
+Fuerza
+real
+
+146 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+Por ejemplo, suponga que usted y un amigo están en lados opuestos de una plataforma  
+circular giratoria y decide lanzar una bola de beisbol a su amigo. La figura 6.11a repre-
+senta lo que un observador vería si contempla la bola mientras flota en el aire en reposo 
+sobre la plataforma giratoria. De acuerdo con este observador, quien está en un marco 
+inercial, la bola sigue una línea recta de acuerdo con la primera ley de Newton. En t = 0 
+usted lanza la bola hacia su amigo, pero en el tiempo t
+f cuando la bola cruza la platafor-
+ma, su amigo se movió a una posición nueva. Sin embargo, ahora considere la situación 
+desde el punto de vista de su amigo. Su amigo está en un marco de referencia no iner-
+cial porque experimenta una aceleración centrípeta en relación con el marco inercial  
+de la superficie de la Tierra. Comienza a ver la bola que se aproxima hacia él pero, confor-
+me cruza la plataforma, vira a un lado como se muestra en la figura 6.11b. Por lo tanto, su 
+amigo en la plataforma giratoria afirma que la bola no obedece la primera ley de Newton 
+y dice que una fuerza es la causante de que la bola siga una trayectoria curva. Esta fuerza 
+ficticia se llama fuerza de Coriolis.
+Las fuerzas ficticias pueden no ser fuerzas reales, pero tienen efectos reales. Un objeto 
+en el tablero de su automóvil realmente se desliza si usted pisa el acelerador de su vehículo. 
+Mientras viaja en un carrusel, siente que lo empujan hacia afuera como si se debiese a la 
+ficticia “fuerza centrífuga”. Es probable que usted caiga y se lesione debido a la fuerza de 
+Coriolis si camina a lo largo de una línea radial mientras un carrusel gira. (Uno de los 
+autores lo hizo y sufrió separación de ligamentos en las costillas cuando cayó.) La fuerza 
+de Coriolis debida a la rotación de la Tierra es responsable de los giros de los huracanes 
+y de las corrientes oceánicas a gran escala.
+Pregunta rápida 6.3 Considere a la pasajera en el automóvil que da vuelta a la izquierda 
+en la figura 6.10. ¿Cuál de las siguientes opciones es correcta en relación con las fuer -
+ 
+zas en la dirección horizontal si ella hace contacto con la puerta derecha? a) La pasajera 
+está en equilibrio entre fuerzas reales que actúan hacia la derecha y fuerzas reales que 
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 6.2
+Fuerza centrífuga
+“Fuerza centrífuga” es un 
+concepto comúnmente 
+escuchado, que se describe 
+como una fuerza que jala hacia 
+afuera sobre un objeto móvil en 
+una trayectoria circular. Si usted 
+siente una “fuerza centrífuga” 
+cuando está en un carrusel, 
+¿cuál es el otro objeto con el 
+que interactúa? No es capaz de 
+identificar otro objeto porque 
+es una fuerza ficticia que ocurre 
+debido a que usted está en un 
+marco de referencia no inercial.
+Figura 6.11 a) Usted y su amigo se sientan en el borde de una plataforma giratoria. En esta vista 
+superior que observa alguien en un marco de referencia inercial unido a la Tierra, usted lanza la bola 
+en t  0 en la dirección de su amigo. En el tiempo tf, cuando la bola llega al otro lado de la plataforma 
+giratoria, su amigo ya no está ahí para atraparla. De acuerdo con este observador, la bola sigue una 
+trayectoria en línea recta, consistente con las leyes de Newton. b) Desde el punto de vista de su amigo, la 
+bola vira a un lado durante su vuelo. Su amigo introduce una fuerza ficticia que causa esta desviación de 
+la trayectoria esperada. Esta fuerza ficticia se llama “fuerza de Coriolis”.
+a) b)
+Amigo en
+t  0
+Usted en
+t  0
+Amigo en
+t  tf
+Bola en
+t  tf
+Usted en
+t  tf Bola en
+t  0
+Vista de acuerdo con un observador
+fijo respecto de la Tierra
+Vista de acuerdo con un observador fijo
+respecto de la plataforma giratoria
+
+actúan hacia la izquierda. b) La pasajera está expuesta sólo a fuerzas reales que actúan 
+hacia la derecha. c) La pasajera está dependiente sólo a fuerzas reales que actúan hacia la 
+izquierda. d) Ninguno de estos enunciados es verdadero.
+ Sección 6.3  Movimiento en marcos acelerados  147
+EJEMPLO 6.7 Fuerzas ficticias en movimiento lineal
+Una pequeña esfera de masa m cuelga mediante una cuer-
+da del techo de un vagón que acelera hacia la derecha, 
+como se muestra en la figura 6.12. El observador no inercial 
+en la figura 6.12b afirma que una fuerza, que se sabe es 
+ficticia, provoca la desviación de la cuerda de la vertical que 
+observa. ¿Cómo se relaciona la magnitud de esta fuerza con 
+la aceleración del vagón medida por la observadora inercial 
+en la figura 6.12a?
+SOLUCIÓN
+Conceptualizar Identifíquese en el lugar de cada uno 
+de los dos observadores de la figura 6.12. Como observa-
+dor inercial en el suelo, usted ve que el vagón acelera y 
+sabe que la desviación de la cuerda se debe a esta acele-
+ración. Como observador no inercial en el vagón, imagi-
+ne que ignora cualquier efecto del movimiento del carro  
+de modo que no está al tanto de su aceleración. Pues-
+to que no está al tanto de esta aceleración, usted afirma 
+que una fuerza empuja hacia los lados la esfera para cau-
+sar la desviación de la cuerda de la vertical. Para tener 
+ideas más reales, intente correr desde el reposo mientras 
+sostiene un objeto que cuelga de una cuerda y percibe 
+que la cuerda está en un ángulo con la vertical mien-
+tras usted acelera, como si una fuerza empujara el objeto 
+hacia atrás.
+Categorizar Para la observadora inercial, la esfera se mo-
+dela como una partícula bajo una fuerza neta en la direc-
+ción horizontal y una partícula en equilibrio en la dirección 
+vertical. Para el observador no inercial, la esfera se modela 
+como una partícula en equilibrio para la cual una de las 
+fuerzas es ficticia.
+Analizar De acuerdo con la observadora inercial en reposo (figura 6.12a), las fuerzas sobre la esfera son la fuerza T
+S
+ que 
+ejerce la cuerda y la fuerza gravitacional. La observadora inercial concluye que la aceleración de la esfera es la misma  
+que la del vagón y que dicha aceleración la produce la componente horizontal de T
+S
+.
+Aplique la segunda ley de Newton en forma de componen-
+tes a la esfera, de acuerdo con la observadora inercial:
+De acuerdo con el observador no inercial que viaja en el vagón (figura 6.12b), la cuerda también forma un ángulo V con 
+la vertical; sin embargo, para dicho observador, la esfera está en reposo y de este modo su aceleración es cero. Por lo tanto, 
+el observador no inercial introduce una fuerza ficticia en la dirección horizontal para equilibrar la componente horizontal 
+de T
+S
+ y afirma que la fuerza neta sobre la esfera es cero.
+Aplique la segunda ley de Newton en forma de compo-
+nentes a la esfera, de acuerdo con el observador no iner-
+cial:
+Estas expresiones son equivalentes a las ecuaciones 1) y 2) si F
+ficticia  ma, donde a es la aceleración de acuerdo con el ob-
+servador inercial.
+Figura 6.12 (Ejemplo 6.7) Una pequeña esfera suspendida del techo 
+de un vagón que acelera hacia la derecha se desvía como se muestra. 
+a) Una observadora inercial en reposo afuera del vagón afirma que 
+la aceleración de la esfera es producto de la componente horizontal 
+de T
+S
+. b) Un observador no inercial que viaja en el vagón dice que la 
+fuerza neta sobre la esfera es cero y que la desviación de la cuerda 
+de la vertical se debe a una fuerza ficticia 
+F
+S
+ficticia que equilibra la 
+componente horizontal de T
+S
+.
+T
+Observadora
+inercial
+a)
+a
+V
+Observador no inercial
+T
+b)
+V
+mg
+mg
+F  ﬁcticia
+Observadora  inercial e 12 Fx T sen u ma
+22 Fy T cos u mg 0
+Observador no inercial 
+Fx¿ T sen u Fficticia 0
+Fy¿ T cos u mg 0
+
+148 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+Finalizar Si se tuviese que hacer esta sustitución en la ecuación para F x anterior, el observador no inercial obtiene los mis-
+mos resultados matemáticos que la observadora inercial. No obstante, la interpretación física de la desviación de la cuerda 
+difiere en los dos marcos de referencia.
+¿Qué pasaría si? Suponga que la observadora inercial quiere medir la aceleración del tren mediante el péndulo (la esfera 
+que cuelga de la cuerda). ¿Cómo podría hacerlo?
+Respuesta La intuición dice que el ángulo Vque la cuerda forma con la vertical debe aumentar conforme aumenta la  
+aceleración. Al resolver las ecuaciones 1) y 2) simultáneamente para a, la observadora inercial puede determinar la magni- 
+tud de la aceleración del vagón al medir el ángulo Vy usar la relación a
+  g tan V. Puesto que la desviación de la cuerda de 
+la vertical sirve como una medida de aceleración, se puede usar un péndulo simple como acelerómetro.
+6.4  Movimiento en presencia  
+de fuerzas resistivas
+En el capítulo 5 se describió la fuerza de fricción cinética que se ejerce sobre un objeto 
+que se mueve sobre alguna superficie. Se ignoró por completo cualquier interacción 
+entre el objeto y el medio a través del que se mueve. Ahora considere el efecto de dicho 
+medio, que puede ser o un líquido o un gas. El medio ejerce una fuerza resistiva 
+R
+S
+ sobre 
+el objeto móvil a través de él. Algunos ejemplos son la resistencia del aire asociada con los 
+vehículos móviles (a veces llamado arrastre de aire) y las fuerzas viscosas que actúan sobre  
+los objetos móviles a través de un líquido. La magnitud de 
+R
+S
+ depende de factores tales 
+como la rapidez del objeto, y la dirección de R
+S
+ siempre es opuesta a la dirección de mo-
+vimiento del objeto en relación con el medio.
+La magnitud de la fuerza resistiva depende de la rapidez en una forma compleja y 
+aquí sólo se consideran dos modelos simplificados. En el primer modelo se supone que la 
+fuerza resistiva es proporcional a la rapidez del objeto móvil; este modelo es válido para 
+objetos que caen lentamente a través de un líquido y para objetos muy pequeños, como 
+las partículas de polvo, que se mueven a través del aire. En el segundo modelo, se supone 
+una fuerza resistiva que es proporcional al cuadrado de la rapidez del objeto móvil; los 
+objetos grandes, como un paracaidista móvil en caída libre a través del aire, experimenta 
+tal fuerza.
+Modelo 1: Fuerza resistiva proporcional a la velocidad del objeto
+Si la fuerza resistiva que actúa sobre un objeto móvil a través de un líquido o gas se mo-
+dela como proporcional a la velocidad del objeto, la fuerza resistiva se puede expresar 
+como
+ R
+S
+bv
+S
+ (6.2)
+donde b es una constante cuyo valor depende de las propiedades del medio y de la forma 
+y dimensiones del objeto y v
+S
+ es la velocidad del objeto en relación con el medio. El signo 
+negativo indica que R
+S
+ está en la dirección opuesta a v
+S
+.
+Considere una pequeña esfera de masa m que se libera desde el reposo en un líquido, 
+como en la figura 6.13a. Si supone que las únicas fuerzas que actúan sobre la esfera son  
+la fuerza resistiva R
+S
+  b v
+S
+ y la fuerza gravitacional F
+S
+g, describa su movimiento.1 Al aplicar la  
+segunda ley de Newton al movimiento vertical, elegir la dirección hacia abajo como posi-
+tiva y notar que hFy  mg  bv, se obtiene
+ mg bv ma m dv
+dt  (6.3)
+donde la aceleración de la esfera es hacia abajo. Al resolver esta expresión para la acele-
+ración dv/dt se obtiene
+1 Sobre un objeto sumergido también actúa una fuerza de flotación. Esta fuerza es constante y su magnitud es 
+igual al peso del líquido desplazado. Esta fuerza cambia el peso aparente de la esfera en un factor constante, 
+de modo que aquí se ignorará dicha fuerza. Las fuerzas de flotación se discuten en el capítulo 14.
+
+dv
+dt g b
+m v  (6.4)
+Esta ecuación se llama ecuación diferencial
+ y los métodos para resolverla pueden no serle 
+familiares todavía. No obstante, note que, inicialmente, cuando v  0, la magnitud de la 
+fuerza resistiva también es cero y la aceleración de la esfera es simplemente g. Conforme 
+t aumenta, la magnitud de la fuerza resistiva aumenta y la aceleración disminuye. La ace-
+leración tiende a cero cuando la magnitud de la fuerza resistiva se aproxima al peso de la 
+esfera. En esta situación, la rapidez de la esfera tiende a su rapidez terminal v
+T.
+La rapidez terminal se obtiene de la ecuación 6.3 al hacer a  dv/dt  0. Esto pro-
+duce
+mg bvT 0  o   v T
+mg
+b
+La expresión para v que satisface la ecuación 6.4 con v  0 y t  0 es
+ v
+mg
+b 11 e bt>m 2 vT 11 e t>t 2  (6.5)
+Esta función se grafica en la figura 6.13c. El símbolo e representa la base del logaritmo 
+natural y también se llama número de Euler:
+ e  2.718 28. La constante de tiempo U m/b 
+(letra griega tau) es el tiempo en el que la esfera liberada del reposo en t  0 alcanza 63.2% 
+de su rapidez terminal: cuando t  U, la ecuación 6.5 produce v   0.632vT.
+Se puede comprobar que la ecuación 6.5 es una solución de la ecuación 6.4 mediante 
+derivación directa:
+dv
+dt
+d
+dt c
+mg
+b 11 e bt>m 2d
+mg
+b a 0 b
+m e bt>m b ge bt>m
+(Véase la tabla del apéndice B.4 para la derivada de e elevada a alguna potencia.) Al susti-
+tuir en la ecuación 6.4 estas dos expresiones para dv/dt y la expresión para v conocida por 
+la ecuación 6.5 se demuestra que la solución satisface la ecuación diferencial.
+ Sección 6.4  Movimiento en presencia de fuerzas resistivas  149
+Figura 6.13 a) Una pequeña esfera que cae a través de un líquido. b) Diagrama de movimiento de la 
+esfera mientras cae. Se muestran los vectores velocidad (rojo) y aceleración (violeta) para cada imagen 
+después de la primera. c) Gráfica rapidez-tiempo para la esfera. La esfera se aproxima a una rapidez 
+máxima (o terminal) v
+T y la constante de tiempo U es el tiempo en el que llega a una rapidez de 0.632vT.
+c)
+v
+vT
+0.632vT
+tT
+a) b)
+v
+mg
+R
+v  0 a  g
+v , vT
+a , 0
+1 Rapidez terminal
+
+150 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+EJEMPLO 6.8 Esfera que cae en aceite
+Una pequeña esfera de 2.00 g de masa se libera desde el reposo en un gran contenedor lleno con aceite, donde experimenta 
+una fuerza resistiva proporcional a su rapidez. La esfera alcanza una rapidez terminal de 5.00 cm/s. Examine la constante 
+de tiempo U y el tiempo en el que la esfera alcanza 90.0% de su rapidez terminal.
+SOLUCIÓN
+Conceptualizar Con la ayuda de la figura 6.13, imagine soltar la esfera en aceite y observarla hundirse hasta el fondo del 
+contenedor. Si tiene algo de champú denso, suelte una canica en él y observe el movimiento de la canica.
+Categorizar La esfera se modela como una partícula bajo una fuerza neta, con una de las fuerzas como fuerza resistiva 
+que depende de la rapidez de la esfera.
+Analizar A partir de v T   mg/b, evalúe el coeficiente b :
+Evalúe la constante de tiempo U:
+Encuentre el tiempo U en el que la esfera alcanza una ra-
+pidez de 0.900v
+T al hacer v   0.900vT en la ecuación 6.5 
+y resuelva para t :
+Finalizar La esfera alcanza 90.0% de su rapidez terminal en un intervalo de tiempo muy breve. Además tiene que ver este 
+comportamiento si realiza la actividad con la canica y el champú.
+Modelo 2: Fuerza resistiva proporcional a la rapidez al cuadrado 
+del objeto
+Para objetos móviles con magnitudes de velocidad grandes a través del aire, como aviones, 
+paracaidistas, automóviles y pelotas de beisbol, razonablemente la fuerza resistiva se repre-
+senta con propiedad como proporcional al cuadrado de la rapidez. En estas situaciones, 
+la magnitud de la fuerza resistiva se expresa como
+ R
+1
+2 DrAv2  (6.6)
+donde D es una cantidad empírica adimensional llamada coeficiente de arrastre, S es la den-
+sidad del aire y A es el área de sección transversal del objeto móvil observado en un plano 
+perpendicular a su velocidad. El coeficiente de arrastre tiene un valor casi de 0.5 para 
+objetos esféricos, pero puede tener un valor tan grande como 2 para objetos con forma 
+irregular.
+Analice el movimiento de un objeto en caída libre expuesto a una fuerza resistiva del 
+aire hacia arriba de magnitud R
+1
+2 DrAv2. Suponga que un objeto de masa m se libera 
+desde el reposo. Como muestra la figura 6.14, el objeto experimenta dos fuerzas externas:2 
+la fuerza gravitacional hacia abajo F
+S
+g  mg
+S
+ y la fuerza resistiva hacia arriba R
+S
+. En conse-
+cuencia, la magnitud de la fuerza neta es
+  F mg 1
+2 DrAv2  (6.7)
+  11.7 ms 
+ t 2.30t 2.30 15.10 10 3 s2 11.7 10 3 s 
+ t
+t ln 10.1002 2.30
+ e t>t 0.100
+ 1 e t>t 0.900
+ 0.900vT vT 11 e t>t 2 
+t m
+b
+2.00 g
+392 g>s  5.10 10 3 s
+b
+mg
+vT
+12.00 g21 980 cm>s2 2
+5.00 cm>s 392 g>s
+2 Como con el modelo 1, también hay una fuerza de flotación hacia arriba que se ignora.
+Figura 6.14 Un objeto que cae 
+a través del aire experimenta una 
+fuerza resistiva R
+S
+ y una fuerza 
+gravitacional F
+S
+g  mg
+S
+.  El objeto 
+logra la rapidez terminal (a la 
+derecha) cuando la fuerza neta 
+que actúa sobre él es cero; esto es: 
+cuando 
+R
+S
+   F
+S
+g o R = mg. Antes 
+de que se presente, la aceleración 
+varía con la rapidez de acuerdo 
+con la ecuación 6.8.
+v
+vT
+R
+mg
+R
+mg
+
+donde se toma hacia abajo como la dirección vertical positiva. Al usar la fuerza en la ecua-
+ción 6.7 en la segunda ley de Newton, se encuentra que el objeto tiene una aceleración 
+hacia abajo de magnitud
+ a
+g a DrA
+2m b v2  (6.8)
+La rapidez terminal vT se puede calcular al notar que, cuando la fuerza gravitacional se 
+equilibra mediante la fuerza resistiva, la fuerza neta sobre el objeto es cero y debido a eso 
+su aceleración es cero. Al hacer a  0 en la ecuación 6.8 se obtiene
+g a DrA
+2m b vT
+2 0
+de modo que
+ vT
+2mg
+DrA   (6.9)
+La tabla 6.1 menciona las magnitudes de velocidad terminal de diferentes objetos que 
+caen a través del aire.
+Pregunta rápida 6.4 Una pelota de beisbol y una de basquetbol, que tienen la misma 
+masa, se dejan caer a través del aire desde el reposo, tal que sus partes inferiores están 
+inicialmente a la misma altura sobre el suelo, en el orden de 1 m o más. ¿Cuál golpea el 
+suelo primero? a) La pelota de beisbol golpea el suelo primero. b) El balón de basquetbol 
+golpea el suelo primero. c) Ambas golpean el suelo al mismo tiempo.
+ Sección 6.4  Movimiento en presencia de fuerzas resistivas  151
+TABLA 6.1
+Rapidez terminal para varios objetos que caen a través del aire
+ Masa Área de sección  vT 
+Objeto (kg) transversal (m 2) (m/s)
+Paracaidista 75 0.70 60
+Pelota de beisbol (3.7 cm de radio) 0.145 4.2  103 43
+Pelota de golf (2.1 cm de radio) 0.046 1.4  103 44
+Granizo (0.50 cm de radio) 4.8  104 7.9  105 14
+Gota de lluvia (0.20 cm de radio) 3.4  105 1.3  105 9.0
+EJEMPLO CONCEPTUAL 6.9 La skysurfer
+Considere una skysurfer (figura 6.15) que salta desde un avión con los pies firmemente ata-
+dos a su tabla de surf, hace algunos trucos y luego abre su paracaídas. Describa las fuerzas 
+que actúan sobre ella durante dichas maniobras.
+SOLUCIÓN
+Cuando el surfista sale del avión, no tiene velocidad vertical. La fuerza gravitacional hacia 
+abajo hace que ella acelere hacia el suelo. A medida que aumenta su rapidez hacia abajo,  
+así lo hace la fuerza resistiva hacia arriba que ejerce el aire sobre su cuerpo y la tabla. Esta 
+fuerza hacia arriba reduce su aceleración y por tanto su rapidez aumenta más lentamente. 
+Al final, van tan rápido que la fuerza resistiva hacia arriba se iguala con la fuerza gravita-
+cional hacia abajo. Ahora la fuerza neta es cero y ya no acelera, y en vez de ello llega a su 
+rapidez terminal. En algún punto después de llegar a su rapidez terminal, abre su paracaí-
+das, lo que resulta en un drástico aumento en la fuerza resistiva hacia arriba. La fuerza neta 
+(y por tanto la aceleración) ahora es hacia arriba, en la dirección opuesta a la dirección 
+de la velocidad. En consecuencia, la velocidad hacia abajo disminuye rápidamente, y la 
+fuerza resistiva sobre el paracaídas también disminuye. Al final, la fuerza resistiva hacia 
+Figura 6.15 (Ejemplo 
+conceptual 6.9) Un skysurfer.Jump Run Productions/Getty Images
+
+152 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+arriba y la fuerza gravitacional hacia abajo se equilibran mutuamente y se alcanza una rapidez terminal mucho más pequeña, 
+lo que permite un aterrizaje seguro.
+(Contrario a la creencia popular, el vector velocidad de un paracaidista nunca apunta hacia arriba. Usted debe haber visto 
+una cinta de video en la que un paracaidista parece un “cohete” hacia arriba una vez que el paracaídas se abre. De hecho, 
+lo que ocurre es que el paracaidista frena pero la persona que sostiene la cámara continúa cayendo a gran rapidez.)
+EJEMPLO 6.10 Caída de filtros de café
+La dependencia de la fuerza resistiva con el cuadrado de la rapidez es un 
+modelo. Pruebe el modelo para una situación específica. Imagine un ex-
+perimento en el que se deja caer una serie de filtros de café apilados y se 
+mide su rapidez terminal. La tabla 6.2 presenta datos de rapidez terminal 
+característicos de un experimento real que usa dichos filtros de café con-
+forme caen a través del aire. La constante de tiempo U es pequeña, así que 
+un filtro que se deja caer alcanza prontamente la rapidez terminal. Cada 
+filtro tiene una masa de 1.64 g. Cuando los filtros se apilan juntos el área 
+de la superficie que ve al frente no aumenta. Determine la relación entre 
+la fuerza resisti-va que ejerce el aire y la rapidez de los filtros que caen.
+SOLUCIÓN
+Conceptualizar Imagine soltar los filtros de café a través del aire. (Si 
+tiene algunos filtros de café, intente soltarlos.) Debido a la masa relativa-
+mente pequeña del filtro de café, probablemente no notará el intervalo 
+de tiempo durante el que hay una aceleración. Los filtros parecerán caer 
+con velocidad constante de inmediato, al dejar su mano.
+Categorizar Puesto que un filtro se mueve a velocidad constante, se le 
+modela como partícula en equilibrio.
+Analizar A rapidez terminal, la fuerza resistiva hacia arriba sobre el filtro equilibra la fuerza gravitacional hacia abajo de 
+modo que R 
+ mg.
+Evalúe la magnitud de la fuerza resistiva: R mg 11.64 g2a
+1 kg
+1 000 g b1 9.80 m>s2 2 0.016 1 N
+Del mismo modo, dos filtros apilados juntos experimentan 0.032 2 N de fuerza resistiva, etcétera. Dichos valores de fuer- 
+za resistiva se muestran en la columna de la extrema derecha en la tabla 6.2. En la figura 6.16a se muestra una gráfica de 
+la fuerza resistiva sobre los filtros como función de la rapidez terminal. Una línea recta no es un buen ajuste, lo que indica 
+que la fuerza resistiva no es proporcional a la rapidez. El comportamiento se ve más claramente en la figura 6.16b, ahí la 
+fuerza resistiva se grafica como una función del cuadrado de la rapidez terminal. Esta gráfica indica que la fuerza resisti- 
+va es proporcional al cuadrado de la rapidez, como sugiere la ecuación 6.6.
+Finalizar He aquí una buena oportunidad para que en casa tome algunos datos reales de filtros de café reales y vea si es 
+capaz de reproducir los resultados que se muestran en la figura 6.16. Si tiene champú y una canica, como se mencionó en el 
+ejemplo 6.8, también tome datos en dicho sistema y vea si la fuerza resistiva se modela adecuadamente como proporcional 
+a la rapidez.
+TABLA 6.2
+Rapidez terminal y fuerza resistiva para filtros 
+de café apilados
+ Número  
+ de filtros vT (m/s)a R (N)
+ 1 1.01 0.016 1
+ 2 1.40 0.032 1
+ 3 1.63 0.048 3
+ 4 2.00 0.064 4
+ 5 2.25 0.080 5
+ 6 2.40 0.096 6
+ 7 2.57 0.112 7
+ 8 2.80 0.128 8
+ 9 3.05 0.144 9
+ 10 3.22 0.161 0
+a Todos los valores de vT son aproximados.
+
+EJEMPLO 6.11 Fuerza resistiva ejercida sobre una pelota de beisbol
+Un lanzador arroja una pelota de beisbol de 0.145 kg a un lado del bateador a 40.2 m/s (  90 mi/h). Encuentre la fuerza 
+resistiva que actúa sobre la pelota con esta rapidez.
+SOLUCIÓN
+Conceptualizar Este ejemplo es diferente del anterior en que ahora el objeto es móvil horizontalmente a través del aire, 
+en lugar de moverse de manera vertical bajo la influencia de la gravedad y la fuerza resistiva. La fuerza resistiva hace que la 
+pelota disminuya su velocidad mientras la gravedad hace que su trayectoria se curve hacia abajo. La situación se simplifica 
+al suponer que el vector velocidad es exactamente horizontal en el instante en que viaja a 40.2 m/s.
+Categorizar En general, la pelota es una partícula bajo una fuerza neta. Sin embargo, ya que se considera sólo un instante 
+de tiempo, no hay que preocuparse por la aceleración, de modo que el problema sólo implica encontrar el valor de una de  
+las fuerzas.
+Analizar Para determinar el coeficiente de arrastre D, 
+imagine que suelta la pelota y la deja llegar a su rapidez 
+terminal. Resuelva la ecuación 6.9 para D y sustituya los va-
+lores apropiados para m, v
+T y A de la tabla 6.1, y considere 
+la densidad del aire como 1.20 kg/m3:
+Use este valor para D en la ecuación 6.6 para encontrar la 
+magnitud de la fuerza resistiva:
+Finalizar La magnitud de la fuerza resistiva es similar en magnitud al peso de la pelota de beisbol, que es casi 1.4 N. Por 
+lo tanto, la resistencia del aire desempeña un papel importante en el movimiento de la pelota, como se manifiesta por la 
+variedad de curvas, “de columpio” (hacia abajo), “dormilona” y demás que lanzan los pitchers.
+ Sección 6..4  Movimiento en presencia de fuerzas resistivas  153
+Figura 6.16 (Ejemplo 6.10) a) Correspondencia entre la fuerza resistiva que actúa sobre filtros de café que caen y su rapidez terminal. La línea 
+curva es una ajuste polinomial de segundo orden. b) Gráfica que relaciona la fuerza resistiva con el cuadrado de la rapidez terminal. El ajuste de 
+la línea recta a los puntos de información indica que la fuerza resistiva es proporcional al cuadrado de la rapidez terminal. ¿Puede encontrar la 
+constante de proporcionalidad?
+0 61 22
+Rapidez terminal al cuadrado (m/s)2
+1084
+b)
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+0.16
+0.18Fuerza resistiva (N)
+0 21
+Rapidez terminal (m/s)
+0.00
+0.02
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+0.16
+0.18Fuerza resistiva (N)
+a)
+34
+0.305
+D
+2mg
+vT
+2rA
+2 10.145 kg21 9.80 m>s2 2
+143 m>s 22 11.20 kg>m3 21 4.2 10 3 m2 2
+1.2 N
+ 1
+2 10.30521 1.20 kg>m3 21 4.2 10 3 m2 21 40.2 m>s 22 
+ R 1
+2 DrAv2
+
+154 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+ 1. O Una puerta en un hospital tiene un cierre neumático que 
+empuja la puerta para cerrar de tal modo que la perilla se 
+mueve con rapidez constante en la mayor parte de su tra-
+yectoria. En esta parte de su movimiento, a) ¿la perilla ex- 
+perimenta una aceleración centrípeta?, b) ¿Experimenta una 
+aceleración tangencial? Apresurada por una emergencia,  
+una enfermera proporciona un empujón repentino a la puerta 
+cerrada. La puerta se abre contra el dispositivo neumático, 
+frena y luego invierte su movimiento. En el momento en que 
+la puerta está más abierta, c) ¿la perilla tiene una aceleración 
+centrípeta?, d) ¿Tiene una aceleración tangencial?
+ 2. Describa la trayectoria de un cuerpo móvil en el evento en 
+que su aceleración sea constante en magnitud en todo mo-
+mento y a) perpendicular a la velocidad; b) paralela a la ve-
+locidad.
+ 3. Un objeto ejecuta movimiento circular con rapidez constan-
+te siempre que una fuerza neta de magnitud constante actúe 
+perpendicular a la velocidad. ¿Qué le ocurre a la rapidez si la 
+fuerza no es perpendicular a la velocidad?
+ 4. O Un niño practica para una carrera de bicicletas a campo 
+traviesa. Su rapidez permanece constante conforme avan- 
+za alrededor de una pista a nivel contra las manecillas del reloj, 
+con dos secciones rectas y dos secciones casi semicirculares, 
+como se muestra en la vista de helicóptero en la figura P6.4. 
+a) Clasifique las magnitudes de su aceleración en los puntos A, 
+B, C, D y E, de mayor a menor. Si su aceleración es del mismo 
+tamaño en dos puntos, muestre tal hecho en su clasificación. 
+Si su aceleración es cero, resalte este hecho. b) ¿Cuáles son las 
+direcciones de su velocidad en los puntos A, B y C? Para cada 
+punto elija uno: ¿norte, sur, este, oeste o no existe? c) ¿Cuáles 
+son las direcciones de su aceleración en los puntos A, B y C ?
+ 5. O Un péndulo consiste de un objeto pequeño llamado plomada  
+que cuelga de una cuerda ligera de longitud fija, con el extremo 
+superior de la cuerda fijo, como se representa en la figura P6.5. 
+La plomada se mueve sin fricción, y se balancea con alturas 
+iguales en ambos lados. Se mueve desde su punto de retorno A a  
+través del punto B y llega a su rapidez máxima en el punto C . 
+a) De estos puntos, ¿existe uno donde la plomada tenga acele-
+ración radial distinta de cero y aceleración tangencial cero? Si 
+es así, ¿cuál punto? ¿Cuál es la dirección de su aceleración total 
+O Indica pregunta complementaria.
+Preguntas
+MODELO DE ANÁLISIS PARA RESOLVER PROBLEMAS
+Una partícula en movimiento circular uniforme 
+tiene una aceleración centrípeta; esta aceleración la 
+proporciona una fuerza neta que se dirija hacia el 
+centro de la trayectoria circular.
+Partícula en movimiento circular uniforme  Con el nuevo conocimiento de las fuerzas, se pueden  
+hacer agregados al modelo de una partícula en movimiento circular uniforme, que se introdujo 
+ 
+en el capítulo 4. La segunda ley de Newton aplicada a una partícula en movimiento circular 
+uniforme establece que la fuerza neta que permite a la partícula someterse a una aceleración 
+centrípeta (ecuación 4.15) se relaciona con la aceleración de acuerdo con
+ 
+ F mac m v2
+r  (6.1)
+Un observador en un marco de referencia no 
+inercial (acelerado) introduce fuerzas ficticias 
+cuando aplica la segunda ley de Newton en dicho 
+marco.
+Un objeto móvil a través de un líquido o gas experimenta 
+una fuerza resistiva dependiente de la rapidez. Esta 
+fuerza resistiva está en dirección opuesta a la velocidad 
+del objeto en relación con el medio y por lo general 
+aumenta con la rapidez. La magnitud de la fuerza 
+resistiva depende del tamaño y forma del objeto y de 
+las propiedades del medio a través del que se mueve el 
+objeto. En el caso límite para un objeto que cae, cuando 
+la magnitud de la fuerza resistiva es igual al peso del 
+objeto, éste alcanza su rapidez terminal.
+Figura P6.4
+A
+B
+C
+D
+E
+E
+N
+S
+O
+r
+v
+ac
+F3
+Resumen
+DEFINICIONES
+
+Problemas 155
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+en este punto? b) De estos puntos, ¿existe un punto donde la 
+plomada tenga aceleración tangencial distinta de cero y ace-
+leración radial cero? Si es así, ¿cuál punto? ¿Cuál es la direc-
+ción de su aceleración total en este punto? c) ¿Existe un punto 
+donde la plomada no tenga aceleración? Si es así, ¿cuál pun- 
+to? d) ¿Existe un punto donde la plomada tenga aceleracio-
+nes tangencial y radial distintas de cero? Si es así, ¿cuál punto? 
+¿Cuál es la dirección de su aceleración total en este punto?
+está en reposo en espera del despegue. Luego el avión gana 
+rapidez mientras se mueve por la pista. a) En relación con la 
+mano del estudiante, ¿las llaves corren hacia el frente del avión, 
+continúan colgando recto hacia abajo o se corren hacia la parte 
+trasera del avión? b) La rapidez del avión aumenta en una pro-
+porción constante durante un intervalo de tiempo de varios se-
+gundos. Durante este intervalo, ¿el ángulo que el cordón forma 
+con la vertical aumenta, permanece constante o disminuye?
+ 11. El observador dentro del elevador en aceleración del ejemplo 
+5.8 diría que el “peso” del pescado es T, la lectura de la ba-
+lanza. Es obvio  que la respuesta es equivocada. ¿Por qué esta 
+observación difiere de la de una persona fuera del elevador, 
+en reposo respecto de la Tierra?
+ 12. Un paracaidista que cae llega a rapidez terminal con su pa-
+racaídas cerrado. Después de que el paracaídas se abre, ¿qué 
+parámetros cambian para disminuir su rapidez terminal?
+ 13. ¿Qué fuerzas hacen que se mueva a) un automóvil, b) un avión 
+impulsado por hélice y c) un bote de remos?
+ 14. Considere que una pequeña gota de lluvia y una gran gota de 
+lluvia caen a través de la atmósfera. Compare sus magnitudes 
+de velocidad terminales. ¿Cuáles son sus aceleraciones cuando 
+llegan a su rapidez terminal?
+ 15. O  Examine un paracaidista que salta de un helicóptero y cae a 
+través del aire, antes de alcanzar su rapidez terminal y mucho 
+antes de abrir su paracaídas. a) ¿Su rapidez aumenta, disminu-
+ye o permanece constante? b) ¿La magnitud de su aceleración 
+aumenta, disminuye, permanece constante en cero, permane-
+ce constante a 9.80 m/s
+2 o permanece constante a algún otro 
+valor?
+ 16. “Si la posición y velocidad actuales de toda partícula en el Uni-
+verso fuesen conocidas, junto con las leyes que describen las 
+fuerzas que las partículas ejercen unas sobre otras, en tal caso 
+se podría calcular todo el futuro del Universo. El futuro es defi-
+nido y predeterminado. El libre albedrío es una ilusión.” ¿Está 
+de acuerdo con esta tesis? Argumente a favor o en contra.
+4FDDJwO 4FHVOEBMFZEF/FXUPOQBSBVOBQBSUrDVMB
+FONPWJNJFOUPDJSDVMBSVOJGPSNF
+ 1. Una cuerda ligera sostiene una carga fija colgante de 25.0 kg 
+antes de romperse. Un objeto de 3.00 kg unido a la cuerda está 
+girando sobre una mesa horizontal sin fricción en un círculo 
+de 0.800 m de radio, y el otro extremo de la cuerda se mantie-
+ne fijo. ¿Qué intervalor de rapidez puede tener el objeto antes 
+de que la cuerda se rompa?
+ 2. Una curva en un camino forma parte de un círculo horizontal. 
+Cuando la rapidez de un automóvil que circula por ella es 
+de 14 m/s constante, la fuerza total sobre el conductor tiene 
+130 N de magnitud. ¿Cuál es la fuerza vectorial total sobre el 
+conductor si la rapidez es 18.0 m/s?
+ 3. En el modelo de Bohr del átomo de hidrógeno, la rapidez del 
+electrón es aproximadamente 2.20  10 
+6 m/s. Encuentre a) 
+la fuerza que actúa sobre el electrón mientras da vueltas en 
+una órbita circular de 0.530  10
+10 m de radio y b) la acele-
+ración centrípeta del electrón.
+ 4. Mientras dos astronautas del Apolo estaban en la superficie 
+de la Luna, un tercer astronauta orbitaba la Luna. Suponga 
+que la órbita es circular y 100 km arriba de la superficie de la 
+Luna, donde la aceleración debida a la gravedad es 1.52 m/s
+2. 
+El radio de la Luna es 1.70  106 m. Determine a) la rapidez 
+orbital del astronauta y b) el periodo de la órbita.
+ 5. Una moneda colocada a 30.0 cm del centro de una torname-
+sa horizontal giratoria se desliza cuando su rapidez es 50.0  
+cm/s. a) ¿Qué fuerza causa la aceleración centrípeta cuando 
+la moneda está fija en relación con la tornamesa? b) ¿Cuál es 
+el coeficiente de fricción estática entre la moneda y la torna-
+mesa?
+ 6. Si alguien le dijera que los astronautas no tienen peso en órbi
+-
+ta porque están más allá de la atracción de la gravedad, ¿acep-
+taría la afirmación? Explique.
+ 7. Se ha sugerido que cilindros giratorios de casi 20 km de largo 
+y 8 km de diámetro se coloquen en el espacio y se usen como 
+colonias. El propósito de la rotación es simular gravedad para 
+los habitantes. Explique este concepto para producir una imi-
+tación efectiva de la gravedad.
+ 8. Una cubeta de agua se puede girar en una trayectoria vertical 
+tal que no se derrame agua. ¿Por qué el agua permanece en la 
+cubeta, aun cuando la cubeta esté sobre su cabeza?
+ 9. ¿Por qué un piloto tiende a desmayarse cuando sale de una 
+pronunciada caída en picada?
+ 10. O  Antes de despegar en un avión, un inquisitivo estudiante 
+en el avión toma un puñado de llaves y lo deja colgar de un 
+cordón. Las llaves cuelgan justo hacia abajo mientras el avión 
+Figura P6.5
+A
+B C
+Problemas
+
+156 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+4FDDJwO.PWJNJFOUPDJSDVMBSOPVOJGPSNF
+ 12. Un halcón vuela en un arco horizontal de 12.0 m de radio 
+con una rapidez constante de 4.00 m/s. a) Encuentre su ace-
+leración centrípeta. b) El halcón continúa volando a lo largo 
+del mismo arco horizontal pero aumenta su rapidez en una 
+proporción de 1.20 m/s
+2. Encuentre la aceleración (magnitud 
+y dirección) bajo estas condiciones.
+ 13. Un niño de 40.0 kg se mece en un columpio sostenido por 
+dos cadenas, cada una de 3.00 m de largo. La tensión en cada 
+cadena en el punto más bajo es 350 N. Encuentre a) la rapi-
+dez del niño en el punto más bajo y b) la fuerza que ejerce el 
+asiento sobre el niño en el punto más bajo. (Ignore la masa 
+del asiento.)
+ 14. Un carro de montaña rusa (figura P6.14) tiene una masa de 
+500 kg cuando está completamente cargado con pasajeros.  
+ 
+a) Si el vehículo tiene una rapidez de 20.0 m/s en el punto , 
+¿cuál es la fuerza que ejerce la pista sobre el carro en este punto? 
+b) ¿Cuál es la rapidez máxima que puede tener el vehícu- 
+lo en el punto  y todavía permanecer sobre la pista?
+ 6. En un ciclotrón (un acelerador de partículas), un deuterón 
+(de 2.00 u de masa) alcanza una rapidez final de 10.0% la 
+rapidez de la luz mientras se mueve en una trayectoria circular 
+de 0.480 m de radio. El deuterón se mantiene en la trayectoria 
+circular mediante una fuerza magnética. ¿Qué magnitud de 
+fuerza se requiere?
+ 7. Una estación espacial, en forma de rueda de 120 m de diámetro, 
+rota para proporcionar una “gravedad artificial” de 3.00 m/s
+2 
+para las personas que caminan alrededor de la pared interior 
+del borde externo. Encuentre la proporción de rotación de  
+la rueda (en revoluciones por minuto) que producirá este 
+efecto.
+ 8. Examine un péndulo cónico (figura 6.3) con una plomada 
+de 80.0 kg en un alambre de 10.0 m que forma un ángulo   
+V
+  5.00° con la vertical. Determine a) las componentes hori-
+zontal y vertical de la fuerza que ejerce el alambre en el pén-
+dulo y b) la aceleración radial de la plomada.
+ 9. Una caja de huevos se ubica en la mitad de la plataforma de 
+una camioneta pickup mientras la camioneta entra en una  
+cur
+va sin peralte en el camino. La curva se puede considerar 
+como un arco de círculo de 35.0 m de radio. Si el coeficiente 
+de fricción estática entre la caja y la camioneta es 0.600, ¿qué 
+tan rápido se puede mover la camioneta sin que la caja se 
+deslice?
+ 10. Un automóvil viaja inicialmente hacia el este y da vuelta al 
+norte al viajar en una trayectoria circular con rapidez unifor- 
+me, como se muestra en la figura P6.10. La longitud del arco 
+ABC es 235 m y el automóvil completa la vuelta en 36.0 s.  
+a) ¿Cuál es la aceleración cuando el automóvil está en B, ubica-
+do a un ángulo de 35.0°? Exprese su respuesta en términos de 
+los vectores unitarios 
+iˆ y jˆ. Determine b) la rapidez promedio 
+del automóvil y c) su aceleración promedio durante el inter-
+valo de 36.0 s.
+ 11. Un objeto de 4.00 kg se une a una barra vertical mediante dos 
+cuerdas, como se muestra en la figura P6.11. El objeto gira  
+en un círculo horizontal con rapidez constante de 6.00 m/s. 
+Encuentre la tensión en a) la cuerda superior y b) la cuerda 
+inferior
+.
+ 15. Tarzán (m  85.0 kg) intenta cruzar un río al balancearse con 
+una liana. La liana mide 10.0 m de largo y su rapidez en la  
+parte baja del balanceo (mientras apenas libra el agua) será 
+8.00 m/s. T
+arzán no sabe que la liana tiene una resistencia a 
+la rotura de 1 000 N. ¿Logrará cruzar el río con seguridad?
+ 16. ; Un extremo de una cuerda está fijo y un objeto pequeño 
+de 0.500 kg se une al otro extremo, donde se balancea en 
+una sección de un círculo vertical de 2.00 m de radio, como 
+se muestra en la figura 6.9. Cuando V  20.0°, la rapidez del 
+objeto es 8.00 m/s. En este instante, encuentre a) la tensión 
+en la cuerda, b) las componentes tangencial y radial de la ace-
+leración y c) la aceleración total. d) ¿Su respuesta cambia si 
+el objeto se balancea hacia arriba en lugar de hacia abajo? 
+Explique.
+ 17. Una cubeta con agua gira en un círculo vertical de 1.00 m de 
+radio. ¿Cuál es la rapidez mínima de la cubeta en lo alto del 
+círculo si no se debe derramar agua?
+ 18. Una montaña rusa en el parque de diversiones Six Flags Great 
+America en Gurnee, Illinois, incorpora cierta tecnología de  
+diseño ingeniosa y algo de física básica. Cada bucle vertical, 
+en lugar de ser circular
+, tiene forma de lágrima (figura P6.18). 
+Los carros viajan en el interior del bucle en la parte superior, 
+y las magnitudes de velocidad son lo suficientemente grandes 
+para asegurar que los carros permanezcan en la pista. El bucle 
+más grande tiene 40.0 m de alto, con una rapidez máxima de 
+31.0 m/s (casi 70 mi/h) en la parte inferior. Suponga que la 
+rapidez en la parte superior es 13.0 m/s y la aceleración cen-
+trípeta correspondiente es 2g. a) ¿Cuál es el radio del arco de 
+la lágrima en la parte superior? b) Si la masa total de un carro 
+y
+A
+O
+B
+C x35.0
+Figura P6.10
+3.00 m
+2.00 m
+2.00 m
+Figura P6.11
+10 m 15 m
+
+
+Figura P6.14
+
+Problemas 157
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 20. Un pequeño contenedor de agua se coloca sobre un carrusel 
+dentro de un horno de microondas en un radio de 12.0 cm 
+desde el centro. La tornamesa gira de manera uniforme y da 
+una revolución cada 7.25 s. ¿Qué ángulo forma la super ficie 
+del agua con la horizontal?
+ 21. Un objeto de 0.500 kg está suspendido del techo de un vagón 
+que acelera, como se muestra en la figura 6.12. Tome a
+  3.00 
+m/s2 y encuentre a) el ángulo que forma la cuerda con la 
+vertical y b) la tensión en la cuerda.
+ 22. Un estudiante está de pie en un elevador que acelera continua-
+mente hacia arriba con aceleración a. Su mochila está en el piso 
+junto a la pared. El ancho del elevador es L. El estudiante da a su
+  
+mochila una patada rápida en t  0 y le imparte una rapidez v 
+que la hace deslizar a través del piso del elevador. En el tiempo  
+t, la mochila golpea la pared opuesta. Encuentre el coeficiente 
+de fricción cinética Nk entre la mochila y el piso del elevador.
+ 23. Una persona está de pie sobre una báscula en un elevador. 
+Mientras el elevador parte, la báscula tiene una lectura cons-
+tante de 591 N. Más tarde, cuando el elevador se detiene, la 
+lectura de la báscula es 391 N. Suponga que la magnitud de  
+ 25. Una plomada no cuelga exactamente a lo largo de una línea 
+que se dirige al centro de rotación de la Tierra. ¿Cuánto se  
+desvía la plomada de una línea radial a 35.0° latitud norte?
+ 
+Suponga que la Tierra es esférica.
+4FDDJwO.PWJNJFOUPFOQSFTFODJBEFGVFS[BTSFTJTUJWBT
+ 26. Un paracaidista de 80.0 kg de masa salta desde un avión de 
+lento movimiento y alcanza una rapidez terminal de 50.0 m/s. 
+a) ¿Cuál es la aceleración del paracaidista cuando su rapidez 
+es 30.0 m/s? ¿Cuál es la fuerza de arrastre sobre el paracaidista 
+cuando su rapidez es b) 50.0 m/s? c) ¿Cuando es 30.0 m/s?
+ 27. Un pequeño trozo de espuma de estireno, material de em-
+paque, se suelta desde una altura de 2.00 m sobre el suelo.  
+Hasta que llega a rapidez terminal, la magnitud de su acelera-
+ción se conoce mediante a
+  g  bv. Después de caer 0.500 m, 
+la espuma de estireno en efecto alcanza su rapidez terminal y 
+después tarda 5.00 s más en llegar al suelo. a) ¿Cuál es el valor 
+de la constante b? b) ¿Cuál es la aceleración en t  0? c) ¿Cuál 
+es la aceleración cuando la rapidez es 0.150 m/s?
+ 28. a) Estime la rapidez terminal de una esfera de madera (den-
+sidad 0.830 g/cm
+3) que cae a través del aire, considere su 
+radio como 8.00 cm y su coeficiente de arrastre como 0.500.  
+b) ¿Desde qué altura un objeto en caída libre alcanzaría esta 
+rapidez en ausencia de resistencia del aire?
+ 29. Calcule la fuerza que se requiere para jalar una bola de cobre 
+de 2.00 cm de radio hacia arriba a través de un fluido con ra-
+pidez constante de 9.00 cm/s. Considere la fuerza de arrastre 
+proporcional a la rapidez, con constante de proporcionalidad 
+0.950 kg/s. Ignore la fuerza de flotación.
+ 30. La masa de un automóvil deportivo es 1 200 kg. La forma del 
+cuerpo es tal que el coeficiente de arrastre aerodinámico es 
+0.250 y el área frontal es 2.20 m
+2. Si ignora todas las otras 
+fuentes de fricción, calcule la aceleración inicial que tiene el 
+automóvil si ha viajado a 100 km/h y ahora que cambia a neu-
+tral y lo deja deslizarse.
+ 31. Una esfera pequeña de 3.00 g de masa se libera desde el reposo 
+en t  0 dentro de una botella de champú líquido. Se observa 
+que la rapidez terminal es v
+T  2.00 cm/s. Encuentre: a) el 
+la aceleración es la misma durante la partida y el frenado. De-
+termine: a) el peso de la persona, b) la masa de la persona y 
+c) la aceleración del elevador.
+ 24. Una niña en vacaciones se despierta. Se encuentra sobre su es-
+palda. La tensión en los músculos en ambos lados de su cuello 
+es 55.0 N mientras eleva su cabeza para mirar por encima de los
+ 
+dedos de sus pies hacia afuera por la ventana del hotel. ¡Final-
+mente no llueve! Diez minutos después, grita conforme baja por 
+un tobogán de agua, los pies primero, a una rapidez terminal de 
+5.70 m/s, viajando por lo alto de la pared exterior de una curva 
+horizontal de 2.40 m de radio (figura P6.24). Eleva la cabeza 
+para ver hacia adelante sobre los dedos de sus pies. Encuentre 
+la tensión en los músculos en ambos lados de su cuello.
+más los pasajeros es M, ¿qué fuerza ejerce el riel sobre el carro 
+en la parte superior? c) Suponga que la montaña rusa tiene un 
+bucle circular de 20.0 m de radio. Si los carros tienen la misma 
+rapidez, 13.0 m/s en la parte superior, ¿cuál es la aceleración 
+centrípeta en la parte superior? Comente acerca de la fuerza 
+normal en la parte superior en esta situación.
+4FDDJwO.PWJNJFOUPFONBSDPTBDFMFSBEPT
+ 19. 
+;hUn objeto de 5.00 kg de masa, unido a una balanza de resor-
+te, descansa sobre una superficie horizontal sin fricción, como 
+se muestra en la figura P6.19. La balanza de resorte, unida al 
+extremo frontal de un vagón, tiene una lectura constante de 
+18.0 N cuando el carro está en movimiento. a) La lectura en la 
+balanza es de cero cuando el vagón está en reposo. Determine 
+la aceleración del vagón. b) ¿Qué lectura constante mostra-
+rá la balanza si el vagón se mueve con velocidad constante?  
+c) Describa las fuerzas sobre el objeto como lo observa alguien 
+en el vagón y alguien en reposo fuera del vagón.
+Figura P6.18
+5.00 kg
+Figura P6.19
+Figura P6.24
+FrankCezus/FPG International
+
+158 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+valor de la constante b en la ecuación 6.2, b) el tiempo t en el 
+que la esfera alcanza 0.632vT y c) el valor de la fuerza resistiva 
+cuando la esfera alcanza su rapidez terminal.
+ 32. Problema de repaso. Una policía encubierta jala un rodillo de 
+goma por una ventana vertical muy alta. El rodillo tiene 160 
+g de masa y está montado en el extremo de una barra ligera. 
+El coeficiente de fricción cinética entre el rodillo y el vidrio 
+seco es 0.900. La agente lo presiona contra la ventana con  
+una fuerza que tiene una componente horizontal de 4.00 N. 
+a) Si ella jala el rodillo por la ventana a velocidad constante, 
+¿qué componente de fuerza vertical debe ejercer? b) La agen-
+te aumenta la componente de fuerza hacia abajo en 25.0%, 
+pero todas las otras fuerzas permanecen iguales. Encuentre la 
+aceleración del rodillo en esta situación. c) Luego el rodillo 
+se mueve en una porción húmeda de la ventana, donde su
+ 
+movimiento ahora lo resiste una fuerza de arrastre de fluido 
+proporcional a su velocidad de acuerdo con R  (20.0 N  s/
+m)v. Encuentre la velocidad terminal a la que se aproxima el 
+rodillo, si supone que la agente ejerce la misma fuerza descrita 
+en el inciso b).
+ 33. Un objeto de 9.00 kg que parte del reposo cae a través de un 
+medio viscoso y experimenta una fuerza resistiva 
+R
+S
+  b v
+S
+, 
+donde v
+S
+ es la velocidad del objeto. El objeto alcanza un medio 
+de su rapidez terminal en 5.54 s. a) Determine la rapidez ter-
+minal. b) ¿En qué tiempo la rapidez del objeto es tres cuartos 
+de la rapidez terminal? c) ¿Qué distancia recorrió el objeto en 
+los primeros 5.54 s de movimiento?
+ 34. Considere un objeto sobre el que la fuerza neta es una fuerza 
+resistiva proporcional al cuadrado de su rapidez. Por ejemplo, 
+suponga que la fuerza resistiva que actúa sobre un patinador 
+rápido es f  
+kmv 2, donde k es una constante y m es la masa 
+del patinador. El patinador cruza la línea de meta de una com-
+petencia en línea recta con rapidez v
+0 y después disminuye su 
+velocidad deslizándose sobre sus patines. Demuestre que la ra-
+pidez del patinador en cualquier tiempo t después de cruzar la 
+línea final es v(t)  v
+0 /(1 ktv0). Este problema también pro-
+porciona los antecedentes para los siguientes dos problemas.
+ 35. a) Use el resultado del problema 34 para encontrar la posición 
+x como función del tiempo para un objeto de masa m ubicado 
+en x  0 y que se mueve con velocidad v
+0 iˆ en el tiempo t  0, 
+y a partir de ahí experimenta una fuerza neta  kmv 2 iˆ. b) En-
+cuentre la velocidad del objeto como función de la posición.
+ 36. En los juegos de beisbol de las grandes ligas es un lugar común 
+mostrar en una pantalla la rapidez de cada lanzamiento. Esta 
+rapidez se determina con una pistola radar dirigida por un  
+operador colocado detrás de la almohadilla del bateador
+. La 
+pistola usa el corrimiento Doppler de microondas reflejadas 
+desde la bola de beisbol, como se estudiará en el capítulo 39. 
+La pistola determina la rapidez en algún punto particular 
+sobre la trayectoria de la bola, dependiendo de cuándo el ope-
+rador jala el disparador. Puesto que la bola está sometida a una 
+fuerza de arrastre debida al aire, frena conforme viaja 18.3 m 
+hacia la almohadilla. Use el resultado del problema 35b) para 
+encontrar cuánto disminuye su rapidez. Suponga que la bola 
+deja la mano del lanzador a 90.0 mi/h  40.2 m/s. Ignore su 
+movimiento vertical. Use los datos acerca de bolas de beisbol 
+del ejemplo 6.11 para determinar la rapidez del lanzamiento 
+cuando cruza la almohadilla.
+ 37. El conductor de un lancha de motor apaga su motor cuando 
+su rapidez es 10.0 m/s y se desliza hasta el reposo. La ecuación 
+que describe el movimiento de la lancha durante este perio-
+do es v  v
+iect, donde v es la rapidez en el tiempo t, vi es la 
+rapidez inicial y c es una constante. En t  20.0 s, la rapidez es 
+5.00 m/s. a) Encuentre la constante c. b) ¿Cuál es la rapidez en 
+t  40.0 s? c) derive la expresión para v(t) y muestre por esto 
+que la aceleración de la lancha es proporcional a la rapidez 
+en cualquier tiempo.
+ 38. Usted puede sentir una fuerza de arrastre de aire sobre su 
+mano si estira el brazo por afuera de una ventana abierta en 
+un automóvil que se mueve rápidamente. Nota: No se ponga 
+en peligro. ¿Cuál es el orden de magnitud de esta fuerza? En 
+su solución, establezca las cantidades que mida o estime y sus 
+valores.
+1SPCMFNBTBEJDJPOBMFT
+ 39. Un objeto de masa m se proyecta hacia adelante a lo largo del 
+eje x con rapidez inicial v
+0. La única fuerza sobre él es una fuer-
+za resistiva proporcional a su velocidad, dada por R
+S
+  b v
+S
+.  
+De manera concreta, podría visualizar un avión con flotadores 
+que aterriza sobre un lago. La segunda ley de Newton aplicada 
+al objeto es bv 
+iˆ  m(dv/dt) iˆ. A partir del teorema fundamental 
+del cálculo, esta ecuación diferencial implica que la rapidez 
+cambia de acuerdo con
+  
+un punto posterior
+inicio
+ dv
+v
+b
+m 
+t
+0
+ dt
+  Realice las integraciones para determinar la rapidez del obje- 
+to como función del tiempo. Bosqueje una gráfica de la rapi-
+dez como función del tiempo. ¿El objeto llega a un alto com-
+pleto después de un intervalo de tiempo finito? ¿El objeto viaja 
+una distancia finita para detenerse?
+ 40. Un objeto de 0.400 kg se balancea en una trayectoria circular 
+vertical sobre una cuerda de 0.500 m de largo. Si su rapidez es 
+4.00 m/s en lo alto del círculo, ¿cuál es la tensión en la cuerda 
+en ese lugar?
+ 41. a) Un carrusel de equipaje en un aeropuerto tiene la forma 
+de una sección de un gran cono, y gira de manera estable en 
+torno a su eje vertical. Su super ficie metálica se inclina hacia 
+abajo y al exterior y forma un ángulo de 20.0° con la horizon-
+tal. Una pieza de equipaje que tiene una masa de 30.0 kg se 
+coloca sobre el carrusel, a 7.46 m del eje de rotación. La maleta
+ 
+viajera gira una vez en 38.0 s. Calcule la fuerza de fricción es-
+tática que ejerce el carrusel sobre la maleta. b) El motor con-
+ductor se cambia para girar el carrusel a una mayor relación de 
+rotación constante, y la pieza de equipaje salta a otra posición, 
+a 7.94 m del eje de rotación. Ahora, al dar una vuelta cada  
+34.0 s, la maleta está a punto de deslizarse. Calcule el coeficien-
+te de fricción estática entre la maleta y el carrusel.
+ 42. En una secadora de ropa doméstica, una tina cilíndrica que 
+contiene ropa húmeda gira de manera estable en torno a un 
+eje horizontal, como se muestra en la figura P6.42. De tal modo 
+Figura P6.42
+68.0
+
+Problemas 159
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 51. ;hMientras aprende a conducir, usted está en un automóvil 
+de 1 200 kg que se mueve a 20.0 m/s a través de un gran 
+estacionamiento vacío y a nivel. Súbitamente se da cuenta de 
+que se dirige justo hacia una pared de ladrillos de un gran 
+supermercado y está en peligro de chocar con ella. El pavi-
+mento puede ejercer una fuerza horizontal máxima de 7 000 
+N sobre el automóvil. a) Explique por qué debe esperar que 
+la fuerza tenga un valor máximo bien definido. b) Suponga 
+que pisa los frenos y no gira el volante. Encuentre la distancia 
+mínima a la que debe estar de la pared para evitar un choque. 
+c) Si no frena y en vez de ello mantiene rapidez constante y 
+gira el volante, ¿cuál es la distancia mínima a la que debe estar 
+de la pared para evitar un choque? d) ¿Cuál método, b) o c), 
+es mejor para evitar una colisión? O, ¿debe usar tanto frenos 
+ 47. Suponga que el vagón de la figura 6.12 es móvil con acele-
+ración constante a hacia arriba de una colina que forma un 
+ángulo Gcon la horizontal. Si el péndulo forma un ángulo  
+constante 
+Vcon la perpendicular al techo, ¿cuál es a?
+ 48. El piloto de un avión ejecuta una maniobra de rizo con rapidez 
+constante en un círculo vertical. La rapidez del avión es 300 
+mi/h; el radio del círculo es 1 200 pies. a) ¿Cuál es el peso  
+aparente del piloto en el punto más bajo si su peso verdadero 
+es 160 lb? b) ¿Cuál es su peso aparente en el punto más alto?  
+c) ¿Qué pasaría si? Describa cómo experimentaría el piloto
+ 
+la sensación de ausencia de peso si puede variar el radio y la 
+rapidez. Nota: Su peso aparente es igual a la magnitud de 
+la fuerza que ejerce el asiento sobre su cuerpo.
+ 49. Ya que la Tierra gira en torno a su eje, un punto sobre el 
+ecuador experimenta una aceleración centrípeta de 0.033 7  
+m/s
+2, mientras que un punto en los polos no experimenta  
+aceleración centrípeta. a) Muestre que, en el ecuador, la fuer-
+za gravitacional sobre un objeto debe superar la fuerza normal 
+que se requiere para sostener el objeto. Esto es, demuestre que 
+el peso verdadero del objeto supera su peso aparente. b) ¿Cuál 
+es el peso aparente en el ecuador y en los polos de una persona 
+que tiene una masa de 75.0 kg? Suponga que la Tierra es una 
+esfera uniforme y considere g  9.800 m/s
+2.
+ 50. ;hUn disco de aire de masa m1 se une a una cuerda y se le 
+permite girar en un círculo de radio R sobre una mesa sin 
+fricción. El otro extremo de la cuerda pasa a través de un 
+pequeño orificio en el centro de la mesa, y una carga de  
+masa m
+2 se une a la cuerda (figura P6.50). La carga suspen-
+dida permanece en equilibrio mientras que el disco en la tabla 
+da vueltas. ¿Cuáles son a) la tensión en la cuerda, b) la fuer-
+za radial que actúa sobre el disco y c) la rapidez del disco?  
+d) Describa cualitativamente qué ocurrirá en el movimiento 
+del disco si el valor de m
+2 aumenta un poco al colocar una 
+carga adicional sobre él. e) Describa cualitativamente qué ocu-
+rrirá en el movimiento del disco si el valor de m
+2 disminuye al 
+remover una parte de la carga suspendida.
+que las prendas se sequen uniformemente, se hacen rodar. La 
+relación de rotación de la tina con paredes uniformes se elige 
+de modo que una pequeña pieza de ropa perderá contacto 
+con la tina cuando la ropa esté a un ángulo de 68.0° sobre la 
+horizontal. Si el radio de la tina es 0.330 m, ¿qué cantidad de 
+revolución se necesita?
+ 43. En el capítulo 40 se estudiará el trabajo más importante del 
+ganador del Nobel, Arthur Compton. Perturbado por los ve-
+loces automóviles afuera del edificio de física en la Universi-
+dad de Washington en St. Louis, Compton diseñó un tope y 
+lo instaló. Suponga que un automóvil de 1 800 kg pasa sobre 
+un tope en una autopista que sigue el arco de un círculo 
+de 20.4 m de radio, como se muestra en la figura P6.43. a) 
+¿Qué fuerza ejerce el camino sobre el automóvil conforme 
+éste pasa el punto más alto del tope, si viaja a 30.0 km/h? b)  
+¿Qué pasaría si? ¿Cuál es la máxima rapidez que puede tener 
+el automóvil mientras pasa el punto más alto sin perder con-
+tacto con el camino?
+ 44. Un automóvil de masa m pasa sobre un tope en un camino que 
+sigue el arco de un círculo de radio R, como se muestra en la 
+figura P6.43. a) ¿Qué fuerza ejerce el camino sobre el automó-
+vil mientras éste pasa el punto más alto del tope si viaja a una 
+rapidez v
+? b) ¿Qué pasaría si? ¿Cuál es la máxima rapidez que 
+puede tener el automóvil mientras pasa el punto más alto sin 
+perder contacto con el camino?
+ 45. Interprete la gráfica de la figura 6.16b). Proceda del modo si-
+guiente. a) Encuentre la pendiente de la línea recta, incluidas 
+sus unidades. b) De la ecuación 6.6, R  
+1
+2DSAv2, identifique la 
+pendiente teórica de una gráfica de fuerza resistiva en función de 
+rapidez al cuadrado. c) Iguale las pendientes experimental y teó-
+rica y proceda a calcular el coeficiente de arrastre de los filtros. 
+Use el valor para la densidad del aire que se menciona al final del 
+libro. Modele el área de sección transversal de los filtros como 
+el de un círculo de 10.5 cm de radio. d) Elija arbitrariamente 
+los ocho puntos de información sobre la gráfica y encuentre su 
+separación vertical de la línea de mejor ajuste. Exprese esta dis-
+persión como un porcentaje. e) En un párrafo breve, establezca 
+lo que demuestra la gráfica y compare lo que demuestra con la 
+predicción teórica. Necesitará hacer referencia a las cantidades 
+graficadas en los ejes, a la forma de la línea de la gráfica, a los 
+puntos de información y a los resultados de los incisos c) y d).
+ 46. 
+;hUna vasija que rodea un drenaje tiene la forma de un cono 
+circular que se abre hacia arriba, y en todas partes tiene un 
+ángulo de 35.0° con la horizontal. Un cubo de hielo de 25.0 g 
+se hace deslizar alrededor del cono sin fricción en un círculo 
+horizontal de radio R. a) Encuentre la rapidez que debe tener 
+el cubo de hielo como dependiente de R. b) ¿Es innecesaria 
+alguna parte de la información para la solución? Suponga que 
+R se hace dos veces más grande. c) ¿La rapidez requerida au-
+menta, disminuye o permanece constante? Si cambia, ¿en qué 
+factor? d) ¿El tiempo requerido para cada revolución aumenta, 
+disminuye o permanece constante? Si cambia, en qué factor? 
+e) ¿Las respuestas a los incisos c) y d) parecen contradictorias? 
+Explique cómo son consistentes.
+Figura P6.43 Problemas 43 y 44.
+v
+Figura P6.50
+m1
+m2
+R
+
+160 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 56. Un ejemplo del efecto Coriolis. Suponga que la resistencia del aire 
+es despreciable para una bola de golf. Un golfista saca desde 
+una posición precisamente a Gi  35.0° latitud norte. Golpea 
+la bola hacia el sur, con un alcance de 285 m. La velocidad 
+inicial de la bola está a 48.0° sobre la horizontal. a) ¿Cuánto 
+tiempo la bola está en vuelo? El hoyo está hacia el sur de la po-
+sición del golfista, y haría un hoyo en uno si la Tierra no gira. 
+La rotación de la Tierra hace que el tee se mueva en un círculo 
+de radio R
+E cos Gi  (6.37  106 m) cos 35.0°, como se muestra 
+en la figura P6.56. El tee completa una revolución cada día. b) 
+Encuentre la rapidez hacia el este del tee, en relación con las 
+estrellas. El hoyo también se mueve al este, pero está 285 m  
+más al sur y por tanto a una latitud ligeramente menor G
+f. 
+Dado que el hoyo se mueve en un círculo ligeramente más 
+grande, su rapidez debe ser mayor que la del tee. c) ¿Por cuán-
+to la rapidez del hoyo supera la del tee? Durante el intervalo de 
+tiempo en que la bola está en vuelo, se mueve arriba y abajo así 
+como al sur con el movimiento de proyectil que estudió en el 
+capítulo 4, pero también se mueve al este con la rapidez que 
+encontró en el inciso b). Sin embargo, el hoyo se mueve al  
+este a una rapidez mayor, y jala la bola con la rapidez relativa 
+que encontró en el inciso c). d) ¿A qué distancia hacia el oeste 
+del hoyo aterriza la bola?
+ 54. Una porción de masilla inicialmente se ubica en el punto A en 
+el borde de una rueda de molino que gira en torno a un eje 
+horizontal. La masilla se desplaza del punto A cuando el diá-
+metro a través de A es horizontal. Luego se eleva verticalmente 
+y regresa a A en el instante en que la rueda completa una revo-
+lución. a) Encuentre la rapidez de un punto sobre el borde de 
+la rueda en términos de la aceleración debida a la gravedad y 
+el radio R de la rueda. b) Si la cantidad de masilla es m, ¿cuál 
+es la magnitud de la fuerza que la mantiene en la rueda?
+ 55. 
+;hUn juego en un parque de diversiones consiste en un gran 
+cilindro vertical que gira en torno a su eje lo suficientemente 
+rápido para que cualquier persona en su interior se manten-
+ga contra la pared cuando el suelo se aleja (figura P6.55). El 
+coeficiente de fricción estática entre la persona y la pared es 
+N
+s y el radio del cilindro es R. a) Demuestre que el periodo de 
+revolución máximo necesario para evitar que la persona caiga 
+es T  (4 Q
+2RNs/g)1/2. b) Obtenga un valor numérico para T, 
+considere R  4.00 m y Ns  0.400. ¿Cuántas revoluciones por 
+minuto realiza el cilindro? c) Si la relación de revolución del 
+cilindro se hace un poco mayor, ¿qué ocurre con la magnitud 
+de cada una de las fuerzas que actúan sobre la persona? ¿Qué 
+ocurre en el movimiento de la persona? d) Si en vez de ello la 
+relación de revolución del cilindro se hace un poco más pe-
+queña, ¿qué ocurre con la magnitud de cada una de las fuerzas 
+como volante, o ninguno? Explique. e) ¿La conclusión del in-
+ciso d) depende de los valores numéricos que se proporcionan 
+en este problema, o es verdad en general? Explique.
+ 52. Suponga que una rueda de la fortuna gira cuatro veces cada 
+minuto. Lleva a cada carro alrededor de un círculo de 18.0 m  
+de diámetro. a) ¿Cuál es la aceleración centrípeta de un pasa-
+jero? ¿Qué fuerza ejerce el asiento sobre un pasajero de 40.0 
+kg? b) en el punto más bajo del viaje y c) en el punto más  
+alto del viaje? d) ¿Qué fuerza (magnitud y dirección) ejerce 
+el asiento sobre un pasajero cuando está a la mitad entre las 
+partes superior e inferior?
+ 53. Un juego en un parque de diversiones consiste en una pla
+-
+taforma circular giratoria de 8.00 m de diámetro de donde  
+asientos de 10.0 kg están suspendidos en el extremo de las
+ 
+cadenas sin masa de 2.50 m (figura P6.53). Cuando el sistema 
+gira, las cadenas forman un ángulo V 28.0° con la vertical. 
+a) ¿Cuál es la rapidez de cada asiento? b) Dibuje un diagrama 
+de cuerpo libre de un niño de 40.0 kg que viaja en un asiento 
+y encuentre la tensión en la cadena.
+que actúan sobre la persona? ¿Qué ocurre en el movimiento 
+de la persona?
+Figura P6.53
+8.00 m 
+2.50 m 
+Figura P6.55
+Figura P6.56
+Trayectoria de
+la bola de golf
+RE cos iG
+iG
+
+Problemas 161
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 57. Un automóvil recorre una curva peraltada como se muestra en 
+la figura 6.5. El radio de curvatura del camino es R
+, el ángulo 
+de peralte es V y el coeficiente de fricción estática es Ns. a) De-
+termine el intervalo de rapidez que puede tener el automóvil 
+sin deslizarse arriba o abajo del peralte. b) Encuentre el valor 
+mínimo para N
+s tal que la rapidez mínima sea cero. c) ¿Cuál 
+es el intervalo de rapidez posible si R  100 m, V  10.0° y Ns 
+ 0.100 (condiciones de deslizamiento)?
+ 58. ;hUna sola cuenta puede deslizarse con fricción despreciable 
+sobre un alambre rígido que se dobló en una espira circular de 
+15.0 cm de radio, como se muestra en la figura P6.58. El círculo  
+siempre está en un plano vertical y gira de manera estable en 
+torno a su diámetro vertical con a) un periodo de 0.450 s. La 
+posición de la cuenta se describe mediante el ángulo V que 
+la línea radial, desde el centro de la espira a la cuenta, forma 
+con la vertical. ¿A qué ángulo arriba del fondo del círculo 
+puede permanecer la cuenta sin movimiento en relación con  
+el círculo que gira? b) ¿Qué pasaría si? Repita el problema y con-
+sidere que el periodo de rotación del círculo es 0.850 s. c) Descri-
+ba cómo la solución al inciso b) es fundamentalmente diferente  
+de la solución al inciso a). Para cualquier periodo o tamaño de  
+espira, ¿siempre hay un ángulo al que la cuenta puede per-
+manecer quieta en relación con la espira? ¿Alguna vez hay 
+más de dos ángulos? Arnold Arons sugirió la idea para este 
+problema.
+la porción recta de la curva. Aplique un ajuste de mínimos 
+cuadrados para determinar esta pendiente.
+  
+t (s) d (ft) t (s) d (ft) t (s) d (ft)
+0 0 7 652 14 1 831
+1 16 8 808 15 2 005
+2 62 9 971 16 2 179
+3 138 10 1 138 17 2 353
+4 242 11 1 309 18 2 527
+5 366 12 1 483 19 2 701
+6 504 13 1 657 20 2 875
+ 61. Un aeroplano a escala de 0.750 kg de masa vuela con una 
+rapidez de 35.0 m/s en un círculo horizontal en el extremo 
+de un alambre de control de 60.0 m. Calcule la tensión en el 
+alambre, si supone que forma un ángulo constante de 20.0° 
+con la horizontal. Las fuerzas que se ejercen sobre el aeropla-
+no son el jalón del alambre de control, la fuerza gravitacional 
+y la sustentación aerodinámica que actúa a 20.0° hacia adentro 
+desde la vertical, como se muestra en la figura P6.61.
+ 59. La expresión F  arv 
+  br2v2 da la magnitud de la fuerza resis-
+tiva (en newtons) que se ejerce sobre una esfera de radio r (en 
+metros) por una corriente de aire que se mueve con rapidez v 
+(en metros por segundo), donde a y b son constantes con uni-
+dades del SI apropiadas. Sus valores numéricos son a  3.10 
+ 10 
+4 y b  0.870. Con esta expresión encuentre la rapidez 
+terminal para gotas de agua que caen bajo su propio peso en 
+aire y considere los siguientes valores para los radios de gotas: 
+a) 10.0 Nm, b) 100 Nm, c) 1.00 mm. Para a) y c), puede obte-
+ner respuestas precisas sin resolver una ecuación cuadrática al 
+considerar cuál de las dos contribuciones a la resistencia del 
+aire es dominante e ignorar la contribución menor.
+ 60. A los integrantes de un club de paracaidismo se les dieron los 
+siguientes datos para usar en la planeación de sus saltos. En la 
+tabla, d es la distancia que cae desde el reposo un paracaidista 
+en una “posición extendida estable en caída libre” en función 
+del tiempo de caída t. a) Convierta las distancias en pies a me-
+tros. b) Grafique d (en metros) en función de t. c) Determine el  
+valor de la rapidez terminal v
+T al encontrar la pendiente de 
+ 62. ;hGalileo pensó acerca de si la aceleración debía definirse 
+como la relación de cambio de la velocidad en el tiempo 
+o como la relación de cambio en velocidad en la distancia. Él 
+eligió la anterior, así que use el nombre “vroomosidad” para 
+la relación de cambio de la velocidad en el espacio. Para el 
+movimiento de una partícula en una línea recta con acelera-
+ción constante, la ecuación v  v
+i  at da su velocidad v como 
+función del tiempo. De igual modo, para el movimiento lineal 
+de una partícula con vroomosidad constante k, la ecuación  
+v  v
+i  kx da la velocidad como función de la posición x si la 
+rapidez de la partícula es vi en x  0. a) Encuentre la ley que 
+describe la fuerza total que actúa sobre este objeto, de masa m. 
+Describa un ejemplo de tal movimiento o explique por qué tal 
+movimiento es irreal. Considere b) la posibilidad de k positiva 
+y también c) la posibilidad de k negativa.
+Figura P6.58
+V
+Figura P6.61
+20.0
+20.0
+ T
+mg
+Fsustentación
+
+162 Capítulo 6  Movimiento circular y otras aplicaciones de las leyes de Newton
+6.1. i) , a). La fuerza normal siempre es perpendicular a la super-
+ficie que aplica la fuerza. Ya que su automóvil mantiene su 
+orientación en todos los puntos en el viaje, la fuerza normal 
+siempre es hacia arriba. ii), b) Su aceleración centrípeta es 
+hacia abajo, hacia el centro del círculo, de modo que la fuerza 
+neta sobre usted debe ser hacia abajo.
+6.2. a). Ya que la rapidez es constante, la única dirección que puede 
+tener la fuerza es de aceleración centrípeta. La fuerza es mayor 
+en  que en  porque el radio en  es más pequeño. No 
+hay fuerza en  porque el alambre está recto. b) Además de 
+las fuerzas en la dirección centrípeta en a), ahora hay fuerzas 
+tangenciales para proporcionar la aceleración tangencial. La 
+fuerza tangencial es la misma en los tres puntos porque la 
+aceleración tangencial es constante.
+6.3. c). Las únicas fuerzas que actúan sobre el pasajero son la fuerza  
+de contacto con la puerta y la fuerza de fricción del asiento. 
+Ambas son fuerzas reales y ambas actúan hacia la izquierda en 
+la figura 6.10. En un diagrama de fuerza nunca se dibujan las 
+fuerzas de fricción.
+6.4. a). El balón de basquetbol, que tiene un área de sección trans-
+versal más grande, tendrá una fuerza mayor, debido a la resis-
+tencia del aire, que la pelota de beisbol, lo que resultará en 
+una aceleración hacia abajo más pequeña.
+Respuestas a las preguntas rápidas
+PR6.2
+Ft
+Ft
+FFr
+Fr F
+Ft
+
+
+a)
+
+
+
+b)
+
+Las definiciones de cantidades como posición, velocidad, aceleración y fuerza junto a 
+principios como la segunda ley de Newton han permitido encontrar muchas soluciones. 
+Sin embargo algunos problemas, que podrían resolverse teóricamente con las leyes de 
+Newton, son muy difíciles en la práctica, pero es posible simplificarlos con un planteamien-
+to diferente. Aquí, y en los capítulos siguientes, se investigará este nuevo planteamiento 
+que incluirá definiciones de cantidades que tal vez no le sean familiares. Otras cantidades 
+pueden sonar familiares, pero adquieren significados más específicos en física que en la 
+vida cotidiana. El análisis comienza al explorar la noción de energía.
+El concepto de energía es uno de los temas más importantes en ciencia e ingeniería. 
+En la vida cotidiana se piensa en la energía en términos de combustible para transporte 
+y calentamiento, electricidad para luz y electrodomésticos, y alimentos para el consumo. 
+No obstante, estas ideas no definen la energía; sólo dejan ver que los combustibles son 
+necesarios para realizar un trabajo y que dichos combustibles proporcionan algo que se 
+llama energía.
+La energía está presente en el Universo en varias formas. Todo proceso físico que ocurra 
+en el Universo involucra energía y transferencias o transformaciones de energía. Por des-
+gracia, a pesar de su extrema importancia, la energía no es  fácil de definir. Las variables 
+en los capítulos previos fueron relativamente concretas; se tiene experiencia cotidiana con 
+velocidades y fuerzas, por ejemplo. Aunque se tengan experiencias con la energía, como 
+ 163
+En una granja de viento, el aire en movimiento realiza trabajo sobre 
+las aspas de los molinos, lo que hace girar las aspas y el rotor de un 
+generador eléctrico. La energía se transfiere afuera del sistema del 
+molino de viento mediante electricidad. (Billy HustaceGetty Images)
+7.1 Sistemas y entornos
+7.2  Trabajo invertido por 
+una fuerza constante
+7.3  Producto escalar de 
+dos vectores
+7.4  Trabajo consumido 
+por una fuerza variable
+7.5  Energía cinética y 
+el teorema trabajo–
+energía cinética
+7.6  Energía potencial de 
+un sistema
+7.7  Fuerzas conservativas 
+y no conservativas
+7.8  Correspondencia entre 
+fuerzas conservativas y 
+energía potencial
+7.9  Diagramas de energía 
+y equilibrio de un 
+sistema
+7 Energía de un sistema
+
+164

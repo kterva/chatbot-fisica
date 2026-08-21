@@ -1,0 +1,1744 @@
+Tema: Conservación de la energía (Capítulo 7 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+172 | Capítulo 7 Conservación de la energía 
+La utilidad de la conservación de la energía mecánica está limitada por la presencia de 
+fuerzas no conservativas, como el rozamiento. Cuando en un sistema está presente el ro- 
+zamiento, la energía mecánica del sistema no se conserva, sino que disminuye. Como a 
+menudo la energía mecánica no se conserva, la importancia de la conservación de la ener- 
+gía! no se apreció hasta el siglo XIX, cuando se descubrió que la desaparición de la ener- 
+gía mecánica siempre viene acompañada por la aparición de otro tipo de energía, a 
+menudo energía térmica, que se indica por un aumento de la temperatura o por un cambio 
+de fase (como la fusión del hielo). Se sabe que esta energía térmica está asociada con las 
+energías cinética y potencial a escala microscópica. 
+Existen distintas formas de energía, como la energía química, la energía sonora, la 
+energía electromagnética y la energía nuclear. Siempre que la energía de un sistema cam- 
+bia, podemos explicar el cambio por la aparición o desaparición de energía en algún otro 
+lugar. Esta observación experimental es la ley de conservación de la energía, una de las 
+más importantes y fundamentales leyes de toda ciencia. Aunque la energía se transforme 
+de una forma en otra, nunca se crea o se destruye. 
+© En este capítulo se sigue con el estudio de la energía iniciado en el capítulo 6, 
+describiendo y aplicando la ley de conservación de la energía y examinando distin- 
+tas clases de energía, incluida la energía térmica. También se analiza la famosa re- 
+lación de Einstein entre la masa y la energía, y se descubre que los cambios de la 
+energía en un sistema no son continuos, sino que se dan a “porciones” denomina- 
+das cuantos. Aunque en un sistema macroscópico la energía cuántica típica es tan 
+pequeña que pasa desapercibida, su presencia tiene consecuencias profundas para 
+los sistemas microscópicos como los átomos y las moléculas. 
+7.1 Conservación de la energía mecánica 
+El trabajo total realizado sobre cada partícula de un sistema es igual al cambio de la energía 
+cinética AE c de esa partícula, por lo que el trabajo total realizado por todas las fuerzas Wot, 
+es igual al cambio en la energía cinética del sistema AE, 
+Wi = E AE, = AE... (7.1) 
+Las fuerzas internas pueden ser conservativas y no conservativas. El trabajo total, cambiado 
+de signo, realizado por todas las fuerzas internas conservativas —W, es igual al cambio de la 
+energía potencial del sistema AU ,;,,: 
+-W, = AU (7.2) sist 
+El trabajo total realizado por todas las fuerzas es igual a la suma del trabajo realizado por 
+todas las fuerzas externas W,,,, más el trabajo realizado por todas las fuerzas internas no con- 
+servativas Wac, más el trabajo realizado por todas las fuerzas internas conservativas W,: 
+W otal z Wen + Wc 3 W. 
+de donde reordenando los términos queda W..: + Wae = Wiotai — We- Sustituyendo de las ecua- 
+ciones 7.1 y 7.2 tenemos 
+We + Woe = AE, + AU ¿a (7.3) 
+El término de la derecha puede simplificarse de modo que 
+AE, + AU gig = A(E,, + Usia) (7.4) sist 
+' Puede haber otros factores en el sistema que aumenten la energia mecdnica, por ejemplo cuando una bateria hace 
+funcionar un motor. Por lo tanto, la presencia del rozamiento no significa necesariamente que la energía mecá- 
+nica del sistema disminuya.
+
+La suma de la energía cinética E, y la energía potencial U,,, de un sistema se denomina 
+energía mecánica total, £,,,..: 
+E mec = E. + Usist (7.5) 
+DEFINICIÓN —ENERGÍA MECÁNICA TOTAL 
+Combinando las ecuaciones 7.4 y 7.5, y sustituyendo en la ecuación 7.3 se obtiene 
+W AE total = mec — Wins 
+La energía mecánica de un sistema se conserva (E mec = constante) si el trabajo total reali- 
+zado por todas las fuerzas no conservativas es cero. 
+E, pee E. + Uis = constante (7.6) sist 
+CONSERVACIÓN DE LA ENERGÍA MECÁNICA 
+Esta es la ley de conservación de la energía mecánica y es el origen de la expresión 
+“fuerza conservativa”. 
+Si Emeci = Ee, + U; es la energía mecánica inicial del sistema y Eo; = E, + Uf es la 
+energía mecánica final, la conservación de la energía mecánica implica que 
+Emecr = E mec f ~ mec i (o E, +U,=E, + Uj) (7.7) 
+CONSERVACION DE LA ENERGIA MECANICA 
+Muchos problemas mecánicos pueden resolverse estableciendo que la energía mecánica 
+final de un sistema es igual a su energía mecánica inicial. 
+Aplicaciones 
+Consideremos una esquiadora que parte del reposo en un punto de altura hy por encima del 
+punto más bajo de una colina nevada que suponemos sin rozamiento. ¿Cuál es la velocidad de 
+la esquiadora a la altura h sobre el fondo? La energía mecánica del sistema Tierra-esquiadora 
+se conserva, porque la única fuerza que realiza trabajo es la fuerza conservativa, interna, de la 
+gravedad. Si elegimos U = 0 en el fondo de la colina, la energía potencial original es mghg. 
+Esta es también la energía mecánica total, ya que la energía cinética inicial es cero. Así, 
+= E. +U; = 0+mghy mec 1 
+A la altura k, la energía potencial es mgh y la velocidad es v. Por lo tanto, 
+= = Iv? E mec t = Ec, + Up = ¿mv*+mgh 
+= E resulta mec i Igualando E mec f 
+l > 
+¿mv*+mgh = mghy 
+es decir, 
+v = y28(h¿-h) 
+El módulo de la velocidad de la esquiadora es el mismo que habría alcanzado si hubiese 
+caído en caída libre una distancia hg — h. Sin embargo, durante el descenso por la colina 
+nevada la esquiadora recorre una distancia mayor que la correspondiente a la caída libre y 
+tarda más en recorrerla. 
+7.1 Conservación de la energía mecánica | 173 
+Fotografia de un péndulo con flash multiple. Cuan- 
+do la masa desciende, la energia potencial gravita- 
+toria se convierte en energia cinética y la velocidad 
+aumenta, como indica la distancia entre las posicio- 
+nes del péndulo, cada vez mayor. La velocidad dis- 
+minuye cuando la masa alcanza los extremos, y la 
+energia cinética entonces pasa a energia potencial.
+
+174 | Capítulo 7 Conservación de la energía 
+EJEMPLO 7.1 | Golpeando un balón 
+Próximo al borde del tejado de un edificio de 12 m de altura, un joven golpea con el pie un 
+balón con una velocidad inicial v;= 16 m/s y un ángulo de tiro de 60° por encima de la horizon- 
+tal (figura 7.1). Despreciando la resistencia del aire, determinar (a) la altura por encima del 
+edificio que alcanza el balón y (b) su velocidad justo antes de chocar contra el suelo. 
+Planteamiento del problema Como la gravedad es la única fuerza que realiza trabajo sobre el 
+sistema balón-Tierra, la energía mecánica se conserva. En la parte más alta de su trayectoria, el 
+balón se mueve horizontalmente con velocidad, Voima: igual a la componente horizontal viy de su 
+velocidad inicial. Elegimos y = 0 en el tejado del edificio. 
+(a) 1. La conservación de la energía mecánica relaciona la altura por Eme cima = Ei 
+encima del tejado con la velocidad inicial v; y la velocidad en el Vda A DS y 
+punto más alto de su trayectoria Vins! ZV cima + MEV cima = ¿MVE + ME); Figura 7.1 
+zm Véma + NSA cima = ¿mvf +0 
+z bi ee Vion 2. Despejar heima: hüma = 
+2g 
+3. La velocidad en la cima es igual a su velocidad horizontal inicial: Veima = Vir = Vicos 0 
+eye 2 — ye cos? 0 v2(4-—-cos2 4. Sustituir el resultado del paso 3 en el paso 2 y despejar Aim! BiS -= = = =2 u — o 
+& £ 8 
+(16 m/s)?—(1— cos? 60°) oT =|9,79 m | 2(9,81 m/s?) [9.79 m] 
+(b) 1. Si vs es la velocidad del balón justo antes de chocar contra el Emp = imv? + may, 
+suelo, donde y = yp =—12 m su energía será: 
+2. Establecer que la energía mecánica final sea igual a la inicial: jmv? + mgy; = ¿mv? +0 
+3. Despejando vç y haciendo y =—12 m, se determina la velocidad vy = Jv? —2gy 
+ia = ./16(m/s)?— 2(9,81 m/s) 12 m) =[22,2 m/s] 
+EJEMPLO 7.2 | El péndulo 
+Un péndulo es un dispositivo en el que una lenteja de masa m se ata a una cuerda de longitud L. 
+Si ésta se mueve lateralmente de modo que la cuerda forme un ángulo 6, con la vertical y luego se — 
+deja caer desde el reposo, ¿cuál es (a) el módulo de la velocidad y en la parte inferior de la oscila- ai 
+ción y (b) la tensión de la cuerda en esa posición? La resistencia del aire es despreciable, i | 
+L 4 I 
+Planteamiento del problema El sistema consiste en el péndulo, la Tierra y los soportes del pén- = ee 
+dulo. No hay fuerzas externas actuando sobre el sistema. Las únicas dos fuerzas internas que actúan | 9 
+sobre la lenteja (se desprecia la resistencia del aire) son la fuerza de gravedad mg, que es conservativa, x 7 
+y la tensión T. El trabajo que hace T aumenta a razón de T - v. Como T es perpendicular a v, sabemos 
+que T - y = 0. Sólo mg realiza trabajo, con lo que sabemos que la energía mecánica del sistema lenteja- 
+Tierra se conserva. Para encontrar el módulo de la velocidad de la lenteja, igualamos las energías mg 
+mecánicas inicial y final. La tensión de la cuerda se obtiene usando la segunda ley de Newton. 
+r 
+=> h=L-Lcos 4, 
+bajo 
+mg 
+(a) 1. Hacer un esquema del sistema en sus configuraciones inicial y 
+final (figura 7.2). Elegimos y = 0 en la posición más baja de la 
+oscilación e y = h en la posición inicial: 
+Figura 7.2 
+2. Aplicar el principio de conservación de la energía mecánica. Ini- Ence = Emeci 
+cialmente la lenteja está en reposo Dia Ls ¿mf +MgY; = ¿Mv + mM8)Y; 
+ImVv Zio +0 = 0+mgh
+
+7.1 Conservación de la energía mecánica 
+3. La conservación de la energía mecánica relaciona la velocidad v Vaj = mgh 
+con la altura A: 
+4. Despejar la velocidad Vapajo: Vabajo = Jgh 
+5. Expresar esta velocidad en función del ángulo inicial @ exige L = Lcos 0,+h 
+relacionar h con 6. Véase figura 7.2: por lo tanto 
+h= L-Lcos 6, = L(1- cos 6,) 
+6. Reemplazar h por el valor obtenido para expresar la velocidad en  Vabajo = J2gL(1— cos 0) 
+la parte más baja en función de 6): 
+(b) 1. Cuando la lenteja está en la parte más baja del círculo, las fuerzas T-mg = ma 
+que actúan sobre ella son mg y T. Aplicar EF, = ma,: 
+EN 2gL(1- cos 6 2. En su posición más baja, la lenteja tiene una aceleración centri- a, = =a = BA E = 2g(1- cos %) 
+peta Viajo /L hacia el centro del círculo, dirigida hacia arriba: 
+3. Sustituir este valor de a, en la ecuación obtenida en el paso 1 de T = mg +ma, = m(g+a,) 
+(b) para deducir T: = m[g+2g(1— cos 6,)] 
+=|(3-2 cos 6))mg 
+» Observaciones 1. La tensión de la cuerda en la parte más baja de la oscilación es mayor 
+> E que el peso de la lenteja, ya que ésta está acelerando hacia arriba. 2. El paso 4 del apartado 
+(b) muestra que para 0, = 0, T = mg, el resultado que se esperaría para una lenteja estacio- 
+naria colgando de una cuerda. 3. El paso 4 del apartado (a) muestra que el módulo de la velocidad en 
+la parte más baja es el mismo que si la lenteja hubiese caído desde una altura h. Éste también se 
+puede determinar usando directamente las leyes de Newton (ver problema 7.92), pero esta resolu- 
+ción es más difícil porque la componente de la aceleración tangencial al círculo cambia con la posi- 
+ción, y por lo tanto con el tiempo, de manera que no se pueden aplicar las fórmulas para aceleración 
+constante. 
+EJEMPLO 7.3 | 
+Se empuja un bloque de 2 kg contra un muelle cuya constante de fuerza es 500 N/m. Después 
+de comprimirlo 20 cm, el muelle se suelta y proyecta el bloque primero por una superficie 
+horizontal sin rozamiento, y luego por un plano inclinado 45°, también sin rozamiento, como 
+se indica en la figura 7.3, ¿Qué distancia recorre el bloque antes de alcanzar momentánea- 
+mente el reposo? 
+Bloque que comprime un muelle 
+Planteamiento del problema Hacer que el sistema incluya el bloque, la Tierra, la superficie 
+horizontal, la rampa y la pared vertical a la cual está ligado el muelle. Después de liberar el muelle 
+no hay fuerzas externas actuando sobre el sistema; las únicas fuerzas que realizan trabajo son la 
+fuerza ejercida por el muelle y la fuerza de la gravedad. Como ambas fuerzas son conservativas, la 
+energía mecánica total del sistema se conserva. Determinar h a partir de la conservación de la ener- 
+gía mecánica y después determinar la distancia s recorrida por el bloque hacia arriba sobre el plano 
+inclinado a partir de sen 45° = h/s. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+jINTENTELO USTED MISMO! 
+gong ys 
+Pasos Respuestas 
+1. Hacer un esquema del sistema con la configuración inicial y la confi- Figura 7.3 
+guración final (véase la figura 7.3). 
+2. Expresar la energía mecánica inicial en función de la distancia de com- Epe; = Uy, + U, +E. = ika? +040 
+presión x. E 
+3. Expresar la energía mecánica final en función de la altura h. Ewet = Var +U¿¿+ E. = 0+meh+0 
+4. Aplicar el principio de conservación de la energía mecánica y despejar h. mgh = Lkw? 
+Av a 0,51 m 2mg 
+175
+
+176 | Capítulo 7 Conservación de la energía 
+5. Determinar la distancia s a partir de h y el ángulo de inclinación h = s sen 0 
+Observación En este problema la energía mecánica inicial del sistema es la energía potencial del 
+muelle. Esta energía se convierte primero en energía cinética y después en energía potencial gravitatoria. 
+Ejercicio Determinar el módulo de la velocidad del bloque en el momento justo en que se separa 
+del muelle. (Respuesta 3,16 m/s.) 
+EJEMPLO 7.4 | Caída de un bloque atado a un muelle 
+Un muelle de constante de fuerza k cuelga verticalmente. Un bloque de masa m se ata al 
+extremo del muelle sin deformar y se le deja caer desde el reposo. Determinar la máxima dis- 
+tancia que cae el bloque antes de que comience a moverse hacia arriba. 
+Planteamiento del problema Cuando el bloque cae, al principio su velocidad crece, alcanza 
+un valor máximo y después decrece hasta que se hace cero de nuevo cuando llega al punto más bajo. 
+Como sólo actúan fuerzas conservativas, podemos aplicar la conservación de la energía mecánica al 
+sistema Tierra-muelle-bloque. 
+1. Hacemos un dibujo del sistema que muestre las posiciones inicial y 
+final del bloque y el muelle (figura 7.4). Incluimos un eje y, eligiendo 
+la dirección positiva hacia arriba. Elegimos la energía potencial gravi- 
+tatoria del bloque igual a cero en su posición original y = 0, donde el 
+muelle no está deformado. Sea d la distancia recorrida por el bloque al 
+caer. 
+> 
+S Pops m | 
+= 
+B 
+Figura 7.4 
+; : d ¿En ; 1 2. Aplicamos la conservación de la energía mecánica para relacionar las MgYp+ oy? +5mvp = mgy; + ik y? + ¿mv? 
+posiciones inicial (y = 0) y final (y = —d): 
+3. Calculamos d. Hay dos soluciones: una da d =0 y la otra es la solución zka? -mgd = 0 
+que buscamos, es decir, la distancia máxima que recorre el bloque PE: 
+antes de comenzar de nuevo el movimiento hacia arriba. (5kd —mg)d = 0 
+Como d #0, d ES 
+Observación La energía potencial gravitatoria se convierte en la energía cinética del bloque más 
+la energía potencial del muelle. En su punto más bajo, cuando el bloque está momentáneamente en 
+reposo, la ganancia de energía potencial elástica del muelle es igual a la pérdida de energía potencial 
+gravitatoria del sistema. 
+EJEMPLO 7.5 | De regreso al futuro 
+Imaginemos que hemos viajado en el tiempo hasta finales del siglo XIX y estamos contemplando 
+como unos antepasados nuestros, en su viaje de novios, se montan en las montañas rusas Flip 
+Flap de Coney Island, que tienen un tramo que realiza un bucle, una vuelta vertical completa. 
+Un saco de arena de 40 kg procedente de una zona en obras de la atracción cae en el asiento tra- 
+sero de la vagoneta donde van nuestros familiares antes de entrar en el bucle, El impacto no 
+causa ningún daño físico pero, en cambio, disminuye la velocidad del vehículo un 25%. La vago- 
+neta había empezado a moverse, partiendo del reposo, desde un punto situado el doble de alto 
+que el punto más alto del bucle. Despreciar cualquier pérdida debida al rozamiento o a la resis- 
+tencia del aire. ¿Completará la vagoneta su recorrido sin caer? 
+Planteamiento del problema La vagoneta debe tener en el punto más alto del bucle una velo- 
+cidad suficiente para mantenerse en las vías. Utilizar el principio de conservación de la energía 
+mecánica para determinar la velocidad que lleva la vagoneta justo antes de la caída del saco y tam- 
+bién para determinar la velocidad que tiene en el punto más alto del bucle. Usar la segunda ley de 
+Newton para determinar la fuerza normal ejercida por el vehículo sobre los raíles. 
+mg(=d) + $k(-d)? +0 = 0+0+0 
+jPONGALO EN SU CONTEXTO!
+
+1. Se dibuja la vagoneta y el recorrido que debe seguir en la atracción, 
+con la posición de la vagoneta en el punto de salida y en el punto más 
+alto del bucle (figura 7.5): 
+2. 
+2. Se aplica la segunda ley de Newton para relacionar la velocidad enel F,+mg = mt 
+punto mas alto del bucle con la fuerza normal: 
+3. Usando la conservación de la energía mecánica, se determina la velo-  U¡+E,, = Uo+ Ey 
+cidad antes del impacto. La altura inicial es 4R, donde R es el radio del 
+bucle. 
+por lo tanto 
+vı = /8Rg 
+7.1 Conservación de la energía mecánica 
+O+imv? = mg4R +0 
+4. El impacto del saco de arena produce la reducción de la velocidad un v, = 0,75v, = 0,75./8Rg 
+25%. La velocidad después del impacto es: 
+5. Usando la conservación de la energía mecánica, la velocidad en el Uriba + Ecarriva = U2 + Ec 
+punto más alto del bucle es: 
+por lo tanto 
+mg2R + 5mVvžria = 0+3m(0,75? 8Rg) 
+ving = (0,752 8-4)Rg = 0,5Rg 
+6. Sustituyendo v?..;,, en el paso 2 resulta: F, +mg = 0,5mg 
+7. Se obtiene F;: F,, = -0,5mg 
+8. F, es el módulo de la fuerza normal. No puede ser negativo: ¡Ojo! La vagoneta cae. 
+Observación Una pérdida del 25% de la velocidad supone perder casi un 44% de la energía ciné- 
+tica. Afortunadamente hay sistemas de seguridad que evitan que las vagonetas caigan, por lo que 
+nuestros antepasados probablemente habrían sobrevivido. La mayor preocupación entre los usuarios 
+de la atracción era la rotura del cuello. En el bucle, los viajeros estaban sometidos a aceleraciones 
+del orden de 12g. Aquel bucle del Flip Flap fue el último de los bucles circulares en montañas rusas. 
+Los bucles actuales tienen forma oval, más altos que anchos. 
+EJEMPLO 7.6 | Dos bloques en una cuerda 
+Dos bloques se atan a los extremos de una cuerda ligera que pasa por una polea sin roza- 
+miento, de masa despreciable. Los dos bloques tienen masas m; y m siendo m, > m;, y están 
+inicialmente en reposo. Determinar la velocidad de cada bloque cuando el más pesado ha caído 
+una distancia h. 
+Planteamiento del problema Considerar que el sistema está formado por los dos bloques, la 
+cuerda, la polea, sus soportes y la Tierra. No actúan fuerzas externas sobre el sistema, por lo que no 
+hay trabajo realizado por fuerzas externas. Además, tampoco hay rozamiento cinético, Por lo tanto la 
+energía mecánica del sistema se conserva. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Dibujar un esquema del sistema mostrando tanto sus configuraciones 
+inicial como final (figura 7.6). Sea h la distancia que cae la masa m». 
+2. Inicialmente, la energía cinética total del sistema es cero. Escribir la Æ. = Lm, + +m, 
+energía cinética total E.. del sistema cuando los bloques se mueven con i 
+velocidad y. 
+3. Suponemos que inicialmente la energía potencial gravitatoria total del U = m,2h—m,2h = 
+sistema U es cero. Escribir la expresión para U cuando m, ha subido 
+una distancia h (y m, ha bajado la misma distancia). 
+Figura 7.5 
+¡INTÉNTELO USTED MISMO! 
+I y 
+= 5(M, + ma)v- 
+(m, =m>)gh 
+Figura 7.6 
+177
+
+178 | Capítulo 7 Conservación de la energía 
+4. Sumar U y E, para obtener la energía mecánica total E. 
+5. Aplicar la conservación de la energía mecánica. 
+6. Despejar v. 
+7. Determinar la aceleración a mediante dv/dt. Usar el resultado obtenido a = — = —— = 
+en el paso 6 y aplicar la regla de la cadena para la derivada. Notar que 
+v = dh/dt. 
+E='El+U 
+= Lim, +my)v? + (m, —m3)gh 
+E= E 
+(im +m)? +(m,—mz)gh = 0 
+2(m,—m,) 
+gh | mM, + My | 
+dy _ dvdh [n =m) | 
+dt dhdt (im, a itis) | 
+Comprobar el resultado Este dispositivo, denominado máquina de Atwood, ya ha sido estu- 
+diado en los problemas 84-90 del capítulo 4. Allí vemos que la aceleración coincide con la obtenida 
+del paso 7 de este ejercicio. 
+Ejercicio ¿Cuál es el módulo de la aceleración de cualquiera de los bloques si las masas son 
+m,=3 kg y m,= 5 kg? (Respuesta a=0,25 g=2,45 m/s?) 
+(a) 
+(b) 
+Figura 7.7 (a) La determinación de la velocidad 
+de un bloque que desliza por un plano inclinado de 
+pendiente constante, sin rozamiento, es sencilla, 
+tanto si se aplica la segunda ley de Newton, como si 
+se utiliza el principio de conservación de la energía 
+mecánica. Sin embargo, si el plano inclinado carece 
+de rozamiento, pero su pendiente no es constante, 
+como ocurre en (b), el problema puede resolverse 
+fácilmente utilizando el principio de conservación 
+de la energía mecánica, mientras que la segunda ley 
+de Newton requiere para su solución conocer la 
+pendiente en cada uno de los puntos de la superficie 
+de caída, y el cálculo es realmente tedioso. 
+Como hemos visto, la ley de conservación de la energía puede utilizarse como una alter- 
+nativa a las leyes de Newton para resolver ciertos problemas de mecánica. Cuando no se está 
+interesado en la magnitud tiempo t, la conservación de la energía mecánica es frecuente- 
+mente mucho más fácil de usar que la segunda ley de Newton (figura 7.7). Como la conser- 
+vación de la energía mecánica se deduce de las leyes de Newton, los problemas que pueden 
+resolverse con aquella propiedad también pueden deducirse directamente de las leyes de 
+Newton, aunque frecuentemente siguiendo un camino mucho más difícil. 
+7.2 Conservación de la energía 
+En el mundo macroscópico siempre existen, en algún grado, fuerzas no conservativas, como 
+la fuerza de rozamiento cinético, que disminuyen la energía mecánica de un sistema. Sin 
+embargo, toda disminución de este tipo viene acompañada del incremento de energía tér- 
+mica correspondiente. (Tenga en cuenta como se calientan los neumáticos de un coche des- 
+pués de un largo recorrido.) Otro tipo de fuerza no conservativa es la implicada en la 
+deformación de los objetos. Cuando doblamos arriba y abajo una percha de alambre realiza- 
+mos un trabajo, pero éste no aparece como energía mecánica. En su lugar, el alambre se 
+calienta. El trabajo realizado al deformar la percha se disipa en forma de energía térmica. De 
+igual modo, cuando una bola de masilla cae al suelo, ésta se calienta a medida que se 
+deforma como consecuencia del impacto; la energía cinética disipada aparece en forma de 
+energía térmica. Para el sistema bola-suelo-Tierra la energía total es la suma de la energía 
+térmica y la energía mecánica. La energía total del sistema se conserva aunque individual- 
+mente no se conserven ni la energía mecánica total ni la energía térmica total. 
+Un tercer tipo de fuerza no conservativa está asociado a las reacciones químicas. Cuando 
+tratamos sistemas en los cuales tienen lugar reacciones químicas, la suma de la energía 
+mecánica más la energía térmica no se conserva. Por ejemplo, supongamos que una persona 
+comienza a correr desde el reposo. Originalmente no posee energía cinética. Al correr, la 
+energía química interna de sus músculos se convierte en energía cinética del cuerpo y se pro- 
+duce energía térmica. Es posible identificar y medir la energía química consumida. En este 
+caso, la suma de la energía mecánica, térmica y química se conserva. 
+~ Incluso cuando se incluyen las energías térmica y química, la energía total del sistema no 
+permanece siempre constante. La energía de un sistema puede cambiar por alguna forma de 
+radiación, tal como las ondas sonoras o las ondas electromagnéticas. Sin embargo, el
+
+aumento o disminución de la energía total de un sistema puede siempre explicarse por la 
+aparición o desaparición de energía en algún otro lugar. Este resultado experimental se 
+conoce como ley de conservación de la energía y es una de las leyes más importantes de la 
+ciencia. Sea E,,, la energía total de un determinado sistema, E... 4, la energía absorbida por 
+el sistema y Esida la energía cedida por el mismo. La ley de conservación de la energía esta- 
+blece: 
+Entrada — Esatida = AE sist (7.8) 
+LEY DE CONSERVACIÓN DE LA ENERGÍA 
+Alternativamente, 
+La energía total del universo es constante. La energía puede transformarse de una forma 
+en otra o ser transmitida de una región a otra, pero la energía no puede nunca ser creada o 
+destruida, 
+LEY DE CONSERVACIÓN DE LA ENERGÍA 
+La energía total E de muchos sistemas familiares de nuestra vida diaria pueden explicarse com- 
+pletamente mediante la energía mecánica, Eme» la energía térmica, Es, y la energía química, 
+Eum Si queremos incluir cualquier otra forma posible de la energía, como son la electromag- 
+nética y la nuclear, añadiremos otro término, Eras, y escribiremos de modo general 
+Esa = Eme + Eum + Equin + Estos (7.9) 
+Teorema trabajo-energía 
+Una forma común de transferir energía (absorbida o cedida) de un sistema es intercam- 
+biando trabajo con el exterior. Si ésta es la única fuente de energía transferida!, la ley de con- 
+servación de la energía se expresa así: 
+Wer = AE ya = AE pee + AE rm + AE qui + AE otras (7.10) 
+; TEOREMA TRABAJO-ENERGIA 
+en donde W.,, es el trabajo realizado sobre el sistema por fuerzas externas y AE; es la varia- 
+ción de la energía total experimentada por el sistema. Este teorema trabajo-energía es un ins- 
+trumento poderoso para estudiar una amplia variedad de sistemas. Obsérvese que si el sistema 
+está formado por una sola partícula, su energía sólo puede ser cinética de modo que la ecuación 
+7.10 es equivalente al teorema trabajo-energía cinética estudiado en el capítulo 6. 
+EJEMPLO 7.7 | La bola de masilla que cae 
+Una bola de masilla de masa m en reposo a una altura / sobre el suelo, perfectamente liso, se 
+deja caer libremente. Analizar la aplicación de la ley de conservación de la energía (a) al sis- 
+tema formado por la bola aislada, y (b) al sistema formado por la Tierra y la bola. 
+Planteamiento del problema Dos fuerzas actúan sobre la bola: la gravedad y la fuerza de con- 
+tacto del suelo. Como el suelo no se mueve, la fuerza que ejerce no realiza ningún trabajo. No hay 
+energía química u otros cambios energéticos de modo que podemos prescindir de los términos 
+AE guim Y AE orras- Si despreciamos la energía sonora emitida al chocar la bola contra el suelo, la única 
+energía transferida hacia el sistema o desde él es el trabajo realizado por la gravedad, de modo que 
+podemos utilizar el teorema trabajo-energía. 
+' La energía puede transferirse también cuando se intercambia calor entre un sistema y sus alrededores. Los intercambios 
+de calor que se producen cuando hay una diferencia de temperatura entre un sistema y sus alrededores se tratan en el 
+capítulo 19. 
+7.2 Conservación de la energía | 179 
+>. 
+EXPLORANDO 
+Los transductores son dispositivos que trans- 
+forman una forma de energía en otra. Para ver 
+las características comunes del oído interno, 
+de un micrófono, del sentido del tacto, por 
+ejemplo, visite la dirección 
+www.whfreeman.com/tiplerSe.
+
+180 | Capítulo 7 Conservación de la energía 
+(a) 1. Escribir el teorema trabajo-energia: Wort = AE g= AE peo tAE 
+2. Las dos fuerzas externas sobre el sistema son la gravedad y la W,,.,=mgh 
+fuerza ejercida por el suelo. Este no se mueve y por lo tanto no rea- 
+liza trabajo. El único trabajo hecho sobre la bola es por gravedad: 
+3. Como la bola aislada es nuestro sistema, su energía mecánica es AEmec=0 
+enteramente cinética, la cual es cero, tanto inicialmente como 
+finalmente. Así, el cambio de energía mecánica es cero: 
+4. Sustituir mgh en W,,, y O en AE mec en el paso 1: Won = AE me + AE erm 
+mgh = 0+ AE ém 
+por lo tanto 
+AE sm = mgh 
+(b) 1. No hay fuerzas externas que actúen sobre el sistema bola-Tierra- W,.,,=0 
+suelo (la fuerza de la gravedad y el suelo son ahora internas al sis- 
+tema), de modo que no hay trabajo externo realizado: 
+2. Expresar el teorema trabajo-energía con Wy, = 0: Wey = AE úa = AE mec + AE gem = 0 
+0= AE mec + AE vem 
+3. La energía mecánica inicial del sistema bola-Tierra es la energía Emei = mgh 
+potencial gravitatoria inicial y la energía mecánica final es cero: Emcee = 0 mec 
+. El cambio de energía mecánica del sistema bola-Tierra es, por lo tanto: AE). = 0- mgh =—mgh 
+5. El teorema trabajo-energía nos da el mismo resultado encontrado AE ja, =|-AEmec = mgh 
+en (a): 
+Observación En (a) la energía se transfiere a la bola en virtud del trabajo realizado por la gravedad. 
+Esta energía aparece en forma de energía cinética de la bola antes de que choque contra el suelo y como 
+energía térmica después. La bola se calienta ligeramente y finalmente la energía se transfiere a los alre- 
+dedores en forma de calor. En (b) la energía potencial inicial del sistema bola-Tierra-suelo se convierte 
+en energía cinética de la bola antes de que choque contra el suelo y después en energía térmica. 
+La energía potencial del agua en la parte superior de las Cataratas del 
+Niágara se utiliza para producir energía eléctrica. 
+En esta central de producción de energía eléctrica de Kansas (EE.UU), la energía 
+química almacenada en el carbón fósil (montículo negro que aparece en la foto- 
+grafía en la parte inferior derecha) es liberada por combustión para producir vapor 
+de agua; este vapor impulsa las turbinas para generar electricidad. El calor no 
+aprovechado se disipa en torres de refrigeración.
+
+Problemas en los que interviene el rozamiento cinético 
+Las fuerzas de rozamiento cinético ejercidas por una superficie sobre otra, cuando las super- 
+ficies deslizan en contacto mutuo, disminuyen la energía mecánica total de un sistema e 
+incrementan la energía térmica. Consideremos un bloque que comienza a moverse con velo- 
+cidad inicial v; y se desliza sobre una mesa hasta que se detiene (figura 7.8). Sean el bloque y 
+la mesa nuestro sistema. Por lo tanto, AE qui = AE oa, = O y ningún trabajo externo se realiza 
+sobre este sistema. El teorema trabajo-energía nos dice que 
+QS SE e + AE enn 
+La energía mecánica perdida es la energía cinética inicial del bloque 
+AE mec = 3 MY? (7.11) mec 
+Relacionemos ahora la pérdida de energía mecánica con la fuerza de rozamiento. Si fes el 
+módulo de la fuerza de rozamiento, la segunda ley de Newton expresa que 
+—f=ma 
+Multiplicando los dos miembros de esta ecuación por As se obtiene 
+-f As = ma As = m(jv?-lv2) = -4 mv? (7.12) 
+en donde As es el desplazamiento del bloque y hemos utilizado la fórmula de aceleración 
+constante 2a As = v?—v? (con v¿= 0). Comparando las ecuaciones 7.11 y 7.12 resulta 
+FAS =—AE nec (7.13) 
+Obsérvese que la magnitud —f As no es trabajo realizado por rozamiento sobre el bloque des- 
+lizante, puesto que un análisis cuidadoso muestra que el desplazamiento real de la fuerza de 
+rozamiento cinético no es, en general, igual al desplazamiento del bloque.! Sin embargo, 
+puede demostrarse que f As es igual al incremento de energia térmica del sistema bloque- 
+mesa debido a la disipación de energía mecánica del sistema. Esta energía térmica se pro- 
+duce en la superficie inferior del bloque y en la superior de la mesa cuando el bloque se des- 
+liza sobre ésta. Así, 
+SF As = AE em (7.14) 
+ENERGÍA DISIPADA POR ROZAMIENTO 
+Sustituyendo este resultado en el teorema trabajo-energía (con Equm = Eotras = 0) se obtiene 
+Wes = AE mec + AE em = AE mec + FAS (7.15) 
+TEOREMA TRABAJO-ENERGÍA PARA PROBLEMAS CON ROZAMIENTO 
+donde As es la distancia a lo largo de la cual una superficie se desliza respecto a la otra. Si 
+sobre el sistema no se realiza trabajo externo, la energía disipada por rozamiento es igual a la 
+disipación de energía mecánica: 
+AE ém =fAs=- mec (We, = 0) (7.16) 
+' El trabajo realizado por el rozamiento cinético se estudia en detalle en B. A. Sherwood y W. H. Bernard, “Work 
+and Heat Transfer in the Presence of Sliding Friction” American Journal of Physics, 52, 1001 (1984). 
+7.2 Conservación de la energía | 181 
+Figura 7.8 Un bloque desliza sobre una mesa ru- 
+gosa. La fuerza de rozamiento reduce la energía me- 
+cánica del sistema bloque-mesa. 
+Central de energía eólica irlandesa en construcción. 
+El proyecto Arklow Banks en el Mar de Irlanda ten- 
+drá 200 turbinas y producirá 520 MW de potencia 
+eléctrica (tres veces la capacidad de todas las “gran- 
+jas” edlicas marinas juntas que hasta el momento 
+funcionan en el mundo).
+
+182 | Capitulo 7 Conservación de la energía 
+EJEMPLO 7.8 | Un bloque en una mesa 
+Una persona empuja con una fuerza horizontal de 25 N un bloque de 4 kg, inicialmente en 
+reposo sobre una mesa horizontal, una distancia de 3 m. El coeficiente de rozamiento cinético 
+entre el bloque y la mesa es 0,35. Determinar (a) el trabajo externo sobre el sistema bloque- 
+mesa, (b) la energía disipada por rozamiento, (c) la energía cinética final del bloque y (d) el 
+módulo de la velocidad del bloque. 
+Planteamiento del problema El bloque y la mesa constituyen el sistema (figura 7.7). La per- 
+sona es externa al sistema, por lo que la fuerza que ejerce es externa. La velocidad final del bloque se 
+deduce de su energía cinética final, la cual determinamos mediante el teorema trabajo-energía con 
+AEguím = 9 y AE em =f As. La energía del sistema aumenta por el trabajo externo. Parte del aumento q 
+de la energía es en forma de energía cinética y parte en forma de energía térmica. Figura 7.9 
+(a) Hay cuatro fuerzas externas que actúan sobre el sistema, aunque — 2 Wexe = W persona sobre et bloque + W gravedad sobre el bloque 
+os ine oe Si eon Lake El FLEE realizado es ba EW PRA E AR E 
+roducto de la fuerza de la persona por la distancia que se ha P PRAE q = Peron BXFOFO+0 = (25N)(3 m) movido el bloque. 
+(b) La energía disipada por rozamiento es f Ax (el módulo de la fuerza  A£j, = f Ax = UF, Ax = mg Ax 
+normal es mg): = (0,35)(4 kg)(9,81 N/kg)(3 m) =]41,2J 
+(c) 1. Aplicar el teorema trabajo-energía para determinar la energía W, = AE mec + AEvérm 
+cinética final: 
+2. Como no hay fuerzas conservativas internas que hagan trabajo,el AE. = AU+AE, 
+cambio en la energía potencial es cero. El cambio en la energía 0+(E_-0) = E. 
+cinética es igual a la variación de la energía mecánica: si 2 
+3. Sustituir este resultado en el teorema trabajo-energia: Wer = Eo, + AE germ 
+por lo tanto 
+E, = We -AE vem = 75,0 J-41,2J =[33,8] 
+(d) El módulo de la velocidad final del bloque está relacionado con su E, = ; mv? 
+inética. Despejar la velocidad final del bl : energía cinética. Despejar la veloci nal del bloque con lo cual 
+RE. [263.8 I) Ve = ES 4kg =| 4.11 m/s 
+EJEMPLO 7.9 | Un trineo en la nieve ¡INTÉNTELO USTED MISMO! 
+Un trineo se desliza por una superficie horizontal cubierta de nieve con una velocidad inicial 
+de 4 m/s. Si el coeficiente de rozamiento entre el trineo y la nieve es 0,14, ¿qué distancia 
+recorrerá hasta alcanzar el reposo? 
+Planteamiento del problema Elegimos el trineo y la nieve como nuestro sistema y aplicamos 
+el teorema trabajo-energía. 
+— n vr=0 Figura 7.10 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Dibujar el sistema en sus configuraciones inicial y final (figura 7.10). 
+AE + AE ión 
+(AU + AE.) + fAs 
+2. Aplicar el teorema trabajo-energía. = We
+
+7.2 Conservación de la energía | 183 
+3. Determinar f. La fuerza normal es igual al peso. FSUE = mg 
+4. No hay fuerzas conservativas que realicen trabajo y no hay fuerzas Wa = AU = 0 
+externas que actúen sobre el sistema. Eliminar dos términos del resul- , 
+tado del paso 2 teniendo en cuenta estas dos observaciones. e ; > Waa = AU + AE. +-fAs 
+0 =0+A£.+U.mg As 
+. . -z v . co 
+5. Expresar el cambio en la energía cinética en función de la masa y dela As = F — = IERS ti, 214.2 velocidad inicial, y obtener As. Mes 
+EJEMPLO 7.10 | Un tobogán 
+Una niña de masa 40 kg se desliza hacia abajo por un tobogán de 8 m de largo inclinado 30°. El 
+coeficiente de rozamiento cinético entre la niña y el tobogán es yz, = 0,35. Si la niña parte del 
+reposo desde el punto más alto del tobogán, a una altura de 4 m sobre el suelo, ¿qué velocidad 
+tiene al llegar al suelo? 
+Planteamiento del problema Cuando la niña se desliza hacia abajo, parte de su energía poten- 
+cial se convierte en cinética y parte en energía térmica debido al rozamiento. Nuestro sistema es 
+niña-tobogán-Tierra. Aplicamos el teorema trabajo-energia. 
+Figura 7.11 
+1. Se dibuja un esquema del sistema mostrando sus configuraciones ini- 
+cial y final (figura 7.11). 
+2. Se escribe la ecuación de conservación de la energía: We = AE nee + AE ¡sm 
+= (AU+AE.)+f As 
+3. La energía cinética inicial es cero. La velocidad al final del tobogán AE, = E,—0 = im v? 
+está relacionada con la energía cinética final. 
+4. Sobre el sistema no actúan fuerzas externas: Weg = 0 
+5. El cambio de la energía potencial está relacionado con el cambio de AU = mg Ah 
+altura Ah (que es negativo). 
+6. Para determinar f, aplicamos la segunda ley de Newton a la niña. Pri- 
+mero se dibuja el diagrama de fuerzas (figura 7.12): ` ; > mg X 
+Figura 7.12 7. Después se aplica la segunda ley de Newton. La componente normal F,- mg cos 0 = 0 
+de la aceleración es cero. Para determinar F, tenemos en cuenta las por lo tanto 
+componentes en la dirección normal y obtenemos f, teniendo en cuenta fo = MF, = M.mg cos O que fe = UF: 
+8. La relación entre As y Ah es trigonométrica: |Ah| = As sen 8 
+9. Sustituyendo en el resultado del paso 2: 0 = mg Ah+ : my? + ¿mg cos 0 As 
+= -mg As sen 0+ mv? + ¿mg cos 0 As
+
+184 | Capítulo 7 Conservación de la energía 
+10. Despejando para vse obtiene: v? = 2g As(sen 0— u, cos 8) 
+= 2(9,81 m/s?)(8 m)(sen 30° — 0,35 cos 30°) 
+= 30,9 m?/s? 
+y entonces 
+Observación Nótese que el resultado es independiente de la masa de la niña. 
+Ejercicio Para el sistema Tierra-niña-tobogán, calcular (a) la energía mecánica inicial, (b) la ener- 
+gía mecánica final y (c) la energía disipada por rozamiento. (Respuestas (a) 1570 J, (b) 618 J 
+(c) 952 J.) 
+EJEMPLO 7.11 | Dos bloques y un muelle jINTENTELO USTED MISMO! 
+Un bloque de 4 kg cuelga de una cuerda ligera que a través de una polea sin rozamiento y 
+sin masa está conectada a un bloque de 6 kg que descansa sobre una plataforma. El coefi- 
+ciente de rozamiento cinético es 1, = 0,2. El bloque de 6 kg se empuja contra un muelle. El 
+muelle tiene una constante de fuerza de 180 N/m y se comprime 30 cm. Determinar la veloci- 
+dad (módulo) de los bloques cuando el muelle se libera y el bloque de 4 kg cae una distancia de 
+40 cm. 
+Planteamiento del problema La velocidad de los bloques se deduce de su energía cinética 
+final. Consideremos que el sistema está formado por todo lo que se muestra en la figura 7.13 más la 
+Tierra. Este sistema tiene energía potencial gravitatoria y elástica. Aplicar el teorema trabajo-ener- 
+gía. Conociendo la energía cinética de los bloques se puede determinar el módulo de su velocidad. 
+Figura 7.13 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Plantear la ecuación de la conservación de la energía del sistema. Wia = AE mec + AE vés 
+(AU,,+AU,+AE,) + f As i 
+2. Sobre el sistema no hay fuerzas externas. Wee 0 
+3. Construir una tabla donde se incluyan los términos de la energía mecá- Un U, E, 
+nica iniciales, cuando el muelle está comprimido 30 cm; y finales, 
+cuando el bloque se ha movido una distancia As = 40 cm y el muelle se 
+3 1 > Final 0 -mag As (mm, + ma)vj 
+ha extendido. Hacer que la energia potencial gravitatoria de la configu- Inicial Igy? 0 0 
+ración inicial sea cero. Añadir la diferencia (final menos inicial) entre Sl: 
+ambas expresiones. Diferencia Lx? -M8 As Lom, + m3 )v? 
+4, Determinar una expresión para f, que incluya 44. Sustituya los resulta- 0) — Lex? -mg As+ l (m | +m vf + Umg As 
+dos de los pasos 2 y 3 en el resultado del paso 1. 
+t f , kaf+2mg As-2u.m,2 As 
+5. Despejar v? a partir del paso 4 y, finalmente obtener vp sustituyendo = ———— — ~ . mi + ii, 
+los valores numéricos: 
+por lo tanto 
+vp =/1,.95 m/s 
+Observación Esta solución supone que la cuerda permanece tensa en todo momento. Esto será 
+cierto si la aceleración de m, es menor que g, es decir, si la fuerza neta sobre m, es menor que m,g = 
+(6 kg)(9,81 N/kg) = 58,9 N. Inicialmente, la fuerza ejercida por el muelle sobre m, tiene el módulo 
+k Ax, = (180 N/m)(0,3 m) = 54,0 N, y la fuerza de rozamiento f, = umg = 0.2(58,9 N) = 11,8N. 
+Estas fuerzas se cambiarán para realizar una fuerza de 42,2 N dirigida hacia la derecha. Como la 
+fuerza del muelle decrece a medida que el bloque m, se mueve hacia delante, la aceleración del blo- 
+que de 6 kg siempre será menor que g y la cuerda permanecerá tensa en todo momento.
+
+Sistemas con energia quimica 
+A veces la energía química interna de un sistema se transforma en energía mecánica y tér- 
+mica sin que ningún agente exterior realice trabajo. Por ejemplo, al andar empujamos con 
+los pies el suelo hacia atrás y el suelo nos empuja hacia delante con la fuerza de rozamiento 
+estático. Esta fuerza nos acelera, pero no realiza trabajo. El desplazamiento del punto de 
+aplicación de la fuerza es cero (suponiendo que los zapatos no deslizan sobre el suelo) y por 
+lo tanto, no se realiza ningún trabajo y ninguna energía se transfiere del suelo a nuestro 
+cuerpo. La energía cinética del cuerpo procede de la conversión de energía química del 
+mismo, que a su vez procede de los alimentos que ingerimos. Consideraremos un caso aná- 
+logo en el ejemplo siguiente. 
+EJEMPLO 7.12 | Subiendo escaleras 
+Un hombre de masa m sube por una escalera hasta una altura h. Analizar la aplicación del 
+principio de conservación de la energía al sistema formado por el hombre aislado. 
+Planteamiento del problema Dos fuerzas actúan sobre el hombre: la gravedad y la fuerza de 
+contacto de los peldaños sobre sus pies. La fuerza de gravedad realiza un trabajo negativo sobre el 
+hombre. Para determinar el trabajo realizado por la fuerza de la escalera sobre los pies del hombre, 
+hay que considerar la fuerza de contacto que ejerce un peldaño sobre cada uno de los pies. Sin 
+embargo, la suela del zapato no se mueve mientras está en contacto con el peldaño y, por lo tanto, no 
+se realiza trabajo. 
+7.2 Conservación de la energía | 185 
+Esta pizza contiene aproximadamente 16 MJ de 
+energía, aproximadamente la mitad de energía de 1 L 
+(0,26 galones) de gasolina. 
+1. Expresar el teorema trabajo-energía: Wen = AE vs = AE nec + AEjérm + AE Guim 
+2. Hay dos fuerzas externas que actúan sobre el sistema, la fuerza de la  W.,=-—mgh 
+gravedad y la fuerza de los peldaños sobre los pies. La fuerza de grave- 
+dad realiza un trabajo negativo ya que su dirección es la opuesta al des- 
+plazamiento de la persona que sube por la escalera. La fuerza de los 
+peldaños no hace trabajo porque el punto de aplicación, las suelas de 
+los zapatos del hombre, no se mueve mientras se aplica la fuerza: 
+3. Como nuestro sistema está formado por el hombre aislado, su energía AE... = 0 
+mecánica es enteramente cinética, la cual es cero, tanto inicial como 
+finalmente: 
+4. Aplicando estos resultados en el teorema trabajo-energía: -mgh [AE + AEuin | 
+Observación Si no se realizaran cambios de energía térmica, la energía química del hombre dis- 
+minuiría en mgh. Como el rendimiento del cuerpo es relativamente bajo, la cantidad de energía quí- 
+mica convertida en el cuerpo del hombre es considerablemente mayor que mgh. El exceso de energía 
+será posiblemente transferido en forma de calor a los alrededores. 
+Ejercicio Analizar la conservación de la energía en el sistema hombre más Tierra. (Respuesta En 
+este sistema no se realiza ningún trabajo externo, de modo que la energía total, que ahora incluye la 
+energía potencial, se conserva. La variación de energía mecánica es ahora mgh, de modo que el teo- 
+rema trabajo-energía nos da 0 = mgh + AE yen + AE quí») 
+EJEMPLO 7.13 | Yendo cuesta arriba 
+Un coche de 1000 kg se mueve a una velocidad constante de 100 km/h = 28 m/s por una pen- 
+diente hacia arriba del 10%. (Es decir, la carretera se eleva 1 m por cada 10 m de distancia 
+horizontal, lo que equivale a un ángulo de inclinación 0, tal que tg 0=0,1 (figura 7.14)). (a) Si 
+la eficiencia es del 15%, ¿cuál es la tasa de consumo de energía química del sistema coche-Tie- 
+rra-atmósfera? (La eficiencia es la fracción de energía química consumida que aparece en 
+forma de energía mecánica.) (b) ¿A qué ritmo se produce energía térmica? 
+Planteamiento del problema Parte de la energía incrementa la energía potencial del coche 
+cuando éste asciende por la cuesta, y otra parte aumenta la energía térmica, mucha de la cual se 
+expulsa por el tubo de escape. Aplicar el teorema trabajo-energía al sistema que forman el coche, la 
+cuesta, el aire y la Tierra. 
+h 
+tg 0 = hix - sen O = h/s 
+Figura 7.14
+
+186 Capitulo 7 Conservación de la energía 
+-AE (a) 1. La tasa con que se pierde energía química, es decir, la potencia Tasa de consumo de energía química = ss AEE ital a i 5 At suministrada por el motor, es la disminución (signo negativo) de 
+energía por unidad de tiempo: 
+2. El incremento de energía mecánica es igual al 15% de la disminu- AE joe = 0,15|AE guim| = 0,15 AE guim 
+ción de la energía química: 
+g y AE uim PES 
+3. Determinar la tasa de consumo de energía química. as 915 Ar 
+4. El coche se mueve a velocidad constante, por lo que AE.=0y AEme = mg Ah 
+AE neo = AU. Relacionar el cambio de la energía mecánica con la por lo tanto 
+variación de altura Ah y sustituir en el resultado del paso 3: 
+AE qutm mg Ah 
+At 0,15 Ar 
+5. Convertir los incrementos en derivadas, es decir, hacer el limite ——“* = —= 
+cuando Ar tiende a cero: 
+6. La tasa de cambio de h es v,, que está relacionada con el módulo 
+de la velocidad v tal como se muestra en la figura 7.14: 
+7. Como el ángulo 0 es pequeño podemos aproximar sen por tg 6: sen O=tg ð 
+: dE, 8. Calcular la tasa de consumo de energía química: = i ME: TRULA reía q = 015” sen 0 ais” 29 
+= (1000) (9.81 NB) 27 8590, 
+=| 182 kW 
+(b) 1. Plantear la relación trabajo-energía cinética: Wen = AE mec + AE sm + AE quím 
+VE: Ela: CBs 2. Convertir los incrementos a derivadas y calcular dE,émldt: OS 2H + 
+dt dt dt 
+por lo tanto 
+dE sm e dE mes FE guim E 015 in E quim 
+dt dt dt dt dt 
+dE = qe: = 0,85 dr 0,85(182kW) =| 155kW 
+Observación Los vehículos propulsados por motores de gasolina suelen tener una eficiencia del 
+15%. Alrededor del 85% de la energía química se transforma en energía térmica, la mayor parte de la 
+cual sale por el tubo de escape. También se produce energía térmica a causa del rozamiento por roda- 
+dura y de la resistencia del aire, El contenido energético de la gasolina es de 31,8 MJ/L. 
+7.3 Masa y energía 
+En 1905, Albert Einstein publicó su teoría especial de la relatividad, que incluye su famosa 
+ecuación 
+E, =mc? (7.17) 
+en donde c = 3 x 10% m/s es la velocidad de la luz en el vacío. En capítulos posteriores estu- 
+diaremos esta teoría con detalle. 
+De acuerdo con la ecuación 7.17, una partícula o sistema de masa m posee la energía en 
+“reposo” mc?. Esta energía es intrínseca a la partícula. Consideremos el positrón, partícula 
+emitida en un proceso nuclear llamado desintegración beta. Los positrones y los electrones 
+~ tienen masa idénticas, pero carga eléctrica igual y opuesta. Cuando un positrón choca con un 
+electrón en la materia tiene lugar la aniquilación electrón-positrón, las dos partículas desapa-
+
+TABLA 7.1 Energías en reposo de algunas partículas elementales y núcleos ligeros 
+Energía en reposo 
+Partícula Simbolo (MeV) 
+Electrón e 0,5110 
+Positrón e 0,5110 
+Protén p 938,280 o 
+Neutrón n 939,573 Ə 
+Deuterón d 1875,628 Ce 
+Tritón t 2808,944 é 
+Helio-3 “He 2808,39 dò 
+Partícula alfa a 3727,409 23 
+recen, y su energía aparece en forma de radiación electromagnética. Si las dos partículas 
+están inicialmente en reposo, la energía de la radiación electromagnética es igual a la energía 
+en reposo del electrón más la del positrón. 
+En física atómica y nuclear las energías se expresan normalmente en unidades de elec- 
+trón-voltios (eV) o megaelectrón-voltios (1 MeV = 10° eV). Una unidad conveniente para las 
+masas de las partículas atómicas es eV/c? o MeV/c”. La tabla 7.1 relaciona las energías en 
+reposo (y por lo tanto, las masas) de algunas partículas elementales y núcleos ligeros. La 
+energía total en reposo de un positrón más un electrón es 2(0.511 MeV), que es la energía 
+radiante emitida en el proceso de aniquilación. 
+La energía en reposo de un sistema puede consistir en la energía potencial u otras 
+energías internas del sistema, además de las energías en reposo intrínsecas de las partículas 
+que lo forman. Si el sistema en reposo absorbe energía, AE, su energía en reposo crece y su 
+masa se incrementa en 
+Consideremos dos bloques de 1 kg conectados por un muelle de constante de fuerza k. Si 
+estiramos el muelle una distancia x, la energía potencial del sistema crece en AU = lkx?. De 
+acuerdo con la ecuación 7.18, la masa del sistema se incrementa también en AM = AU/c?, Como 
+c es un número extraordinariamente grande, este incremento de masa no puede observarse en 
+sistemas macroscópicos. Por ejemplo, supongamos k = 800 N/m y x= 10 cm =0,1 m. La energía 
+potencial del sistema formado por el muelle es, por lo tanto, kx? = ; (800 N/m)(0,1 m)? =4 J. 
+El incremento de masa del sistema es 
+AU 4J AM = — = ———— = 4,44x10-'7k 
+c? (3x108 m/s)? ý e 
+El incremento relativo de masa AM/M = 2 x 107' es demasiado pequeño para poder ser 
+observado. 
+Energía nuclear 
+En las reacciones nucleares, los cambios energéticos constituyen frecuentemente una frac- 
+ción apreciable de la energía en reposo del sistema. Consideremos, por ejemplo, el deuterón 
+o núcleo del deuterio, que es un isótopo del hidrógeno, llamado también hidrógeno pesado. 
+El deuterón está formado por un protón y un neutrón ligados conjuntamente. Según la tabla 
+7.1, la masa del protón es 938,28 MeV/c? y la masa del neutrón 939,57 MeV/c?. La suma de 
+7.3 Masa y energía | 187
+
+188 | Capítulo 7 Conservación de la energía 
+ambas masas es 1877,85 MeV/c?. Sin embargo, la masa del deuterón es 1875,63 MeV/e?, o 
+sea, inferior a la suma de las dos partículas que lo constituyen en 2,22 MeV/c*. Obsérvese que 
+esta diferencia de masa es AM/M = 1,2 x 10°, mucho mayor que las incertidumbres inherentes 
+a las medidas de estas masas y casi 14 órdenes de magnitud por encima del 2 x 1071” tratado 
+anteriormente para el sistema muelle-bloques. 
+Las moléculas de agua dura (Óxido de deuterio) se producen en el agua previamente 
+enfriada de un reactor nuclear, cuando neutrones chocan con los núcleos de hidrógeno (pro- 
+tones) de las moléculas de agua. Cuando un neutrón lento es capturado por un protón, se 
+libera una energía de 2,22 MeV en forma de radiación electromagnética. Así, la masa de un 
+átomo de deuterio es 2,22 MeV/c? menor que la suma de las masas de un átomo de hidró- 
+geno y un neutrón aislados. 
+Este proceso puede invertirse, rompiendo un deuterón en sus partes constituyentes, si se 
+transfieren por lo menos 2,22 MeV de energía al deuteron con radiación electromagnética o 
+mediante colisiones con otras partículas enérgicas. Toda la energía transferida que sobrepase 
+los 2,22 MeV aparece como energía cinética del protón y del neutrón resultantes. 
+La energía necesaria para romper un núcleo en sus partes constituyentes se denomina 
+energía de enlace del núcleo. 
+El deuterón es un ejemplo de un sistema ligado. Su energía en reposo es menor que la 
+energía en reposo de sus partes constituyentes, de tal modo que es necesario añadir energía 
+al sistema para romperlo. Si la energía en reposo de un sistema es superior a la energía en 
+reposo de sus partes, se dice que el sistema no está ligado. Un ejemplo es el uranio-236, que 
+se rompe o fisiona en dos núcleos más pequefios.' La suma de las masas de las partes resul- 
+tantes es inferior a la masa del núcleo original. Así, la masa del sistema decrece y se libera 
+energía. 
+En la fusión nuclear, dos núcleos muy ligeros, tales como el deuterón y el tritón (núcleo 
+del isótopo del hidrógeno llamado tritio) se unen (se fusionan) entre sí. La masa en reposo 
+del núcleo resultante es inferior a la masa de las partes originales y se libera energía de 
+nuevo. En una reacción química que produce energía, como por ejemplo la combustión del 
+carbón, el decrecimiento de la masa es del orden de | eV/c? por átomo. Este valor es más de 
+un millón de veces más pequeño que las variaciones de masa en las reacciones nucleares y 
+no se observa fácilmente. 
+EJEMPLO 7.14 | Energía de enlace 
+Un átomo de hidrógeno formado por un protón y un electrón tiene una energía de enlace de 
+13,6 eV. ¿En qué porcentaje la masa del protón más la del electrón es superior a la del átomo 
+de hidrógeno? 
+E,/c? 2 
+1. La diferencia fraccional entre la masa del átomo de hidrógeno y las Diferencia fraccional = BES e ASES 
+masas de sus constituyentes es el cociente entre la energía de enlace Ey, Ba FM; Mat Mp 
+dividida por c? y m, + m,: 
+2. Tomar las masas en reposo del protón y el electrón de la tabla 7.1: my = 938,28 MeV/c?, sm. = 0,511 MeV/c? 
+3. Sumar estas masas: m, + m, = 938,79 MeV/c? 
+13,6 eV/c? k He: Z ; ‘ a å P 
+4. La masa en reposo del átomo de hidrógeno es inferior a este valoren Diferencia fraccional 538.79 x 10° eV/0? 1,45 x 10 
+13,6 eV/c2. La diferencia porcentual es: i =] 1,45 x 10-4% 
+Observación Esta diferencia de masa es demasiado pequeña para ser medida directamente. Sin 
+embargo, las energías de enlace pueden medirse exactamente y en consecuencia, la diferencia de 
+masa resulta de la expresión E; = Am/e?. 
+' El uranio-236, que también puede escribirse en la forma %4U, se produce en un reactor nuclear cuando el isótopo estable 
+uranio-235 absorbe un neutrón.
+
+EJEMPLO 7.15 | Fusión nuclear 
+En una reacción típica de fusión nuclear, un núcleo de tritio *H) y un núcleo de deuterio (7H) 
+se fusionan para formar un núcleo de helio (*He) más un neutrón, según la reacción 7H + °H > 
+‘He + n. Si la energía cinética inicial de las partículas es despreciable, ¿cuánta energía se libera 
+en esta reacción de fusión? 
+Planteamiento del problema Como en este proceso se libera energía, la energía en reposo 
+total de las partículas iniciales debe ser mayor que el de las partículas finales. Esta diferencia es 
+igual a la energía liberada. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+7,4 Cuantización de la energía | 189 
+jINTENTELO USTED MISMO! 
+1. Tomar los valores de las energías en reposo del ?H y °H de la Tabla7.1 Ey (inivial) = 1875,628 MeV + 2808,944 MeV = 4684,572 MeV 
+y sumarlas para conocer la energía en reposo total inicial. 
+2. Hacer lo mismo con el *He y el n para determinar la energía en reposo Ey (final) = 3727.409 MeV + 939,573 MeV = 4666,982 MeV 
+final. 
+3. La energía liberada se determina a partir de Ejiperada = Eo (imicial)— Eremi = 4684,572 MeV — 4666,982 MeV 
+Ey (final). =| 17,59 MeV = 17,6 MeV 
+Observación Esta y otras reacciones de fusión tienen lugar en el Sol. La energía liberada alcanza 
+la Tierra y es la responsable primordial de la vida en el planeta. La energía emitida constantemente 
+por el Sol va acompañada por una disminución constante de su masa en reposo. 
+Mecánica Newtoniana y relatividad 
+Cuando la velocidad de un partícula se aproxima a la de la luz, la segunda ley de Newton 
+deja de cumplirse y debemos modificar la mecánica newtoniana según la teoría einsteniana 
+de la relatividad. El criterio de validez de la mecánica newtoniana también puede estable- 
+cerse en función de la energía de una partícula, En la mecánica newtoniana, la energía ciné- 
+tica de una partícula que se mueve con velocidad v es 
+Es c nie 
+en donde E, = mc? es la energía en reposo de la partícula. Por lo tanto, 
+EE c NE 
+La mecánica newtoniana es válida si la velocidad de la partícula es mucho menor que la 
+velocidad de la luz o, alternativamente, si la energía cinética de la partícula es mucho menor 
+que su energía en reposo. 
+7.4 Cuantización de la energía 
+Cuando un sistema que permanece en reposo absorbe energía, su energía interna aumenta. 
+Parece lógico que el sistema pueda absorber cualquier cantidad arbitraria de energía. Sin 
+embargo, esto no es cierto para sistemas microscópicos como átomos o moléculas. La ener- 
+gía interna de un sistema microscópico sólo puede aumentar en cantidades discretas. 
+Si tenemos dos bloques conectados a un muelle por sus extremos y tiramos de ellos, rea- 
+lizamos trabajo sobre el sistema muelle-bloques y su energía potencial crece. Si a continua- 
+ción liberamos los bloques, éstos oscilan hacia'atrás y adelante. La energía de oscilación E,
+
+190 | Capítulo 7 Conservación de la energía 
+Figura 7.15 Diagrama de niveles energéticos de 
+un oscilador. 
+En la figura se muestra la imagen de rayos X del 
+cuasar 3C 273. La energía emitida en la banda de 
+los rayos X por este cuasar es superior en un millón 
+de veces a la emitida por la Vía Láctea completa. 
+que es la energía cinética de movimiento de los bloques, más la energía potencial debida al 
+alargamiento de muelle, es igual a la energía potencial original. Con el tiempo, la energía del 
+sistema decrece a causa de los efectos de amortiguación producidos por el rozamiento y la 
+resistencia del aire. Con la precisión de nuestras medidas, la energía decrece continuamente. 
+Finalmente, toda la energía se disipa y la energía de oscilación se hace cero. 
+Consideremos ahora una molécula diatómica tal como el oxígeno molecular, O,. La 
+fuerza de atracción entre los dos átomos de oxígeno varía casi linealmente con el cambio en 
+la separación (para pequeños cambios) de una forma muy parecida a lo que ocurre en un 
+muelle. Si una molécula diatómica se hace oscilar con cierta energía E, ésta decrece con el 
+tiempo cuando la molécula irradia o interacciona con los alrededores, pero el decrecimiento 
+no es continuo. La energía disminuye en saltos finitos y el estado energético más bajo, Ila- 
+mado estado fundamental, no es cero. Se dice que la energía de vibración de una molécula 
+diatómica está cuantizada; es decir, la molécula sólo puede absorber o ceder energía en 
+ciertas cantidades, llamadas cuantos. 
+Cuando los bloques unidos por un muelle o las moléculas diatómicas oscilan, el tiempo 
+transcurrido durante una oscilación se denomina periodo, T. La inversa del periodo es la fre- 
+cuencia de oscilación f= 1/T. Como veremos en el capítulo 14, el periodo y la frecuencia de 
+un oscilador no dependen de la energía de oscilación. Cuando disminuye la energía, la fre- 
+cuencia no se modifica. La figura 7.15 muestra un diagrama de niveles energéticos de un 
+oscilador. Las energías permitidas están casi igualmente espaciadas y vienen dadas por! 
+E, = (n+3)hf,  n=0,1,2,3,... (7.19) 
+en donde f es la frecuencia de oscilación y h una constante fundamental de la naturaleza lla- 
+mada constante de Planck:* 
+h = 6,626 x 107% J - s (7.20) 
+El número entero n se denomina número cuántico. La energía más baja posible es la ener- 
+gia del estado fundamental, E, = ‘nf ; 
+Los sistemas microscópicos frecuentemente ganan o pierden energía absorbiendo o emi- 
+tiendo radiación electromagnética. Por el principio de conservación de la energía, si E; y E 
+son las energías inicial y final del sistema, la energía emitida o absorbida es 
+Eva = E; = E; 
+Como las energías E, y Eç del sistema están cuantizadas,° la energía irradiada también lo 
+está. El cuanto de la energía de radiación se llama fotón. La energía de un fotón viene dada 
+por 
+Even = Af (7.21) 
+en donde fes la frecuencia de la radiación electromagnética.* 
+Por lo que sabemos, todos los sistemas ligados presentan cuantización de la energía. En los 
+sistemas ligados macroscópicos los saltos entre niveles energéticos son tan pequeños que 
+resultan inobservables. Por ejemplo, las frecuencias de oscilación típicas de dos bloques sobre 
+un muelle son del orden de 1 a 10 veces por segundo. Si f= 10 oscilaciones por segundo, el 
+espaciado entre los niveles energéticos es hf = (6,626 x 10 J - s) x (10/s) =6 x 10-* J. Como 
+la energía de un sistema macroscópico es del orden de julios, un salto cuántico de 107* J es 
+' Una molécula diatómica también puede tener energía rotacional. Esta energía, como era de esperar, está también 
+cuantizada. pero los niveles energéticos no están igualmente espaciados y la energía más baja posible es cero. En los 
+capítulos 9 y 10 estudiaremos la energía rotacional. 
+2 En 1900 el físico alemán Max Planck introdujo esta constante como un instrumento de cálculo para explicar las 
+discrepancias entre los resultados experimentales y teóricos sobre el espectro de la radiación del cuerpo negro. El 
+significado de la constante de Planck no fue apreciado por Planck ni por sus contemporáneos científicos, hasta que 
+Einstein en 1905 postuló que la energía de la radiación electromagnética no es continua, sino que tiene lugar en paquetes 
+de tamaño hf. 
+Históricamente, la cuantización de la radiación electromagnética propuesta por Max Planck y Albert Einstein fue 
+el primer “descubrimiento” de la cuantización de la energía. 
+La radiación electromagnética incluye la luz, las microondas, las ondas de radio y de televisión, los rayos X y los 
+rayos gamma. Todas estas radiaciones difieren entre sí en su frecuencia.
+
+7.4 Cuantización de la energía | 191 
+demasiado pequeño para ser observado. Dicho de otro modo, si la energía de un sistema es 1 J, 
+el valor de n es del orden de 10% y los cambios de una o dos unidades cuánticas no serán 
+observables. 
+Para una molécula diatómica, la frecuencia de vibración típica es del orden de 10'* vibra- 
+ciones por segundo, y una energía típica es 10*? J. El espaciado entre los niveles permitidos 
+es, por lo tanto, 
+En +1 E, = hf = (6,63 x 10% J - s)(10"* s) =6 x 10-20 J 
+Es decir, los cambios en la energía de oscilación son del mismo orden que la energía de la 
+molécula y la cuantización es claramente observable. 
+Resumen 
+1 La conservación de la energía mecánica es una relación importante deducida de las leyes de Newton para 
+las fuerzas conservativas. Es útil para resolver muchos problemas. 
+2 El teorema trabajo-energía y la conservación de la energía son leyes fundamentales de la naturaleza que 
+tienen aplicaciones en todas las áreas de la física. 
+3 La ecuación de Einstein E, = mc? es una relación fundamental entre la masa y la energía. 
+4 La cuantización es un propiedad fundamental de la energía en sistemas ligados. 
+TEMA OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Energía mecánica La suma de las energías cinética y potencial de un sistema se denomina energía mecánica total 
+Ems = Ec, + Uva (7.5) 
+Conservación de la energía mecánica Si no hay fuerzas externas que realicen trabajo sobre un sistema, y todas las fuerzas internas son conservati- 
+vas, la energía mecánica total del sistema permanece constante 
+Eme = Ec, + Us = constante (7.6) 
+E. +U; = E¿+U, (7.7) 
+2. Energía total de un sistema La energía de un sistema consiste en energía mecánica, Emec: energía térmica, Een energía química, Equim Y 
+otros tipos de energía, Egas: tales como radiación sonora y radiación electromagnética. 
+Eva = Emoc + Estrm + Equis + Eons (7.9) 
+3. Conservación de la energía 
+Universo La energía total del universo es constante. La energía puede transformarse de una forma en otra o transmi- 
+tirse de una región a otra, pero nunca crearse o destruirse. 
+Sistema La energía de un sistema puede modificarse por trabajo realizado sobre el sistema y por transmisión de ener- 
+gía en forma de calor. (Está incluye la emisión o absorción de radiación.) El aumento o disminución de la 
+energía del sistema puede explicarse siempre por la aparición o desaparición de algún tipo de energía en otra 
+parte. 
+Entrada — Esatida = AE ix (7.8) 
+Teorema trabajo-energía Wort = AE js = AEmec + AE vir + AEquím + AE otras (7.10) 
+4. Energia disipada por rozamiento Para un sistema formado por un par de superficies deslizantes, la energía total disipada por rozamiento sobre 
+ambas superficies es igual al incremento de energía térmica del sistema y viene expresada por 
+f As = AE jem (7.14) 
+en donde As es el desplazamiento de una superficie respecto a la otra.
+
+192 | Capítulo 7 Conservación de la energía 
+5. Resolución de problemas La conservación de la energía mecánica y el teorema trabajo-energía pueden utilizarse como una alternativa 
+de las leyes de Newton para resolver problemas mecánicos que requieren la determinación del módulo de la 
+velocidad de una partícula en función de su posición. 
+6. Masa y energía Una partícula de masa m posee una energía en reposo intrínseca Ey dada por 
+Ey= me? (7.17) 
+en donde e =3 x 108 m/s es la velocidad de la luz en el vacío. 
+Un sistema de masa M posee también una energía en reposo Ey = Me”. Si un sistema gana o pierde energía 
+interna AF, simultáneamente gana o pierde masa, AM = AE/c?, 
+Energía de enlace La energía requerida para descomponer un sistema en sus partes constituyentes se denomina energía de 
+enlace. Esta energía es AMc*, en donde AM es la suma de las masas de sus partes constituyentes menos la 
+masa del sistema ligado. 
+7. Mecánica newtoniana y teoría de la Cuando la velocidad de un partícula se aproxima a la velocidad de la luz en el vacío, c (cuando la energía 
+relatividad cinética de la partícula se aproxima a su energía en reposo), la mecánica newtoniana deja de cumplirse y 
+debe reemplazarse por la teoría especial de la relatividad de Einstein. 
+8. Cuantización de la energía La energía interna de un sistema microscópico sólo puede tener una serie discreta de valores posibles. Para 
+un sistema que oscila con frecuencia f los valores energéticos permitidos están separados por una cantidad 
+hf, en donde h es la constante de Planck: 
+h=6,626 x 10-“ J +s (7.20) 
+Fotones Los sistemas microscópicos con frecuencia intercambian energía con sus alrededores emitiendo o absor- 
+biendo radiación electromagnética, que también está cuantizada. El cuanto de la energía radiante se llama 
+fotón: 
+Exon = hf (7.21) 
+en donde fes la frecuencia de la radiación electromagnética. 
+Problemas 
+* Concepto simple, un solo paso, relativamente fácil. En algunos problemas se dan 
+ee Nivel intermedio, puede exigir síntesis de conceptos. más datos de los realmente 
+eee  Desafiante, para alumnos avanzados. necesarios; en otros pocos, deben 
+ssM La solución se encuentra en el Student Solutions Manual. extraerse algunos datos a partir 
+i Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. de conocimientos generales, 
+i Y” Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan alos fuentes externas o estimaciones 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. lógicas. 
+Tomar g = 9,81 N/kg = 9,81 m/s? y despreciar el rozamiento en todos los problemas a menos que se indique lo contrario. 
+Problemas conceptuales 2 e Dos piedras se lanzan con la misma velocidad inicial y en el 
+mismo instante desde el tejado de un edificio. Una piedra se lanza bajo un 
+ángulo de 30° por encima de la horizontal; la otra se lanza horizontalmente. 
+1 e SSM Dos objetos de masas desiguales están conectados por (Despreciar la resistencia del aire.) ¿Cuál de las siguientes afirmaciones es 
+una cuerda sin masa que pasa por un polea sin rozamiento. Una vez liberados cierta? 
+del reposo, ¿cuáles de las siguientes afirmaciones son ciertas? (U = energía (a) Las piedras chocan contra el suelo al mismo tiempo y con iguales velocida- 
+potencial gravitatoria, E, = energía cinética del sistema.) (a) AU < 0 y AE. > 0. des. 
+(b) AU=0 y AE, > 0. (c) AU < 0 =y AE, =0. (d) AU = 0 y AE. = 0. (e) AU>0 (b) Las piedras chocan contra el suelo al mismo tiempo y con diferentes velo- 
+y AE.<0. cidades.
+
+(c) Las piedras chocan contra el suelo en tiempos distintos y con velocidades 
+iguales. 
+(d) Las piedras chocan contra el suelo en tiempos distintos y con velocidades 
+diferentes. 
+3 e Verdadero o falso: 
+(a) La energía total de un sistema no puede variar. 
+(b) Cuando una persona salta en el aire, el suelo trabaja sobre ella incremen- 
+tando su energía potencial. 
+4 e Un hombre se encuentra de pie sobre patines de ruedas junto a 
+una pared rígida. Para iniciar el movimiento se apoya y empuja contra la pared. 
+Analizar los cambios energéticos que tienen lugar en esta situación. 
+5 e SSM __ En laobra “¿Está Vd. de broma, Mr. Feynman?"! Richard 
+Feynman describe su enojo por la forma cómo se introduce en un libro de texto 
+para niños el concepto de energía. "Había un libro que comenzaba con cuatro 
+fotografías: un juguete de cuerda, un automóvil, un niño montando en bicicleta y 
+alguna cosa más que no recuerdo. Bajo cada fotografía se leía: ¿Qué es lo que lo 
+hace funcionar?...y al girar la página el libro decía: La respuesta es ... en todos 
+los casos, la energía... No es cierto que la energía lo haga funcionar porque si se 
+para, también puede decirse que lo ha parado la energía... En estos ejemplos, la 
+energía no ha aumentado ni ha disminuido sino que, simplemente, ha cambiado 
+de una forma a otra.” Describa cómo cambia la energía de una forma a otra 
+cuando una niña sube una colina pedaleando su bicicleta, desciende de la misma 
+sin pedales y. finalmente, frena hasta parar. 
+6 e SSM Un cuerpo que cae a través de la atmósfera (la resisten- 
+cia del aire está presente) aumenta su energía cinética en 20 J. La cantidad de 
+energía potencial gravitatoria perdida es (a) 20 J, (b) más de 20 J, (c) menos de 
+20 J, (d) imposible de conocer sin saber la masa del cuerpo, (e) imposible de 
+conocer sin saber la distancia recorrida por el cuerpo. 
+7 es  Supóngase que al frenar se ejerce una fuerza de rozamiento cons- 
+tante sobre las ruedas de un coche. Si esto es así, se deduce que (a) la distancia 
+que el coche recorre antes de pararse es proporcional a la velocidad que tenía 
+antes de accionar los frenos, (b) la energía cinética del coche disminuye a una 
+tasa constante, (c) la energía cinética del coche es inversamente proporcional al 
+tiempo que ha pasado desde la aplicación de los frenos, (d) ninguna de las res- 
+puestas anteriores es cierta. 
+8 e Un bloque resbala por encima de dos plataformas como las que se 
+muestran en la figura 7.16. Una plataforma tiene la forma de un plano inclinado 
+de altura A y longitud L y la otra tiene la forma de un arco de circunferencia, 
+pero también tiene una altura A y una longitud L. Se mide el tiempo que el blo- 
+que, inicialmente parado, tarda en resbalar por ambas plataformas y recorrer la 
+distancia L. Se encuentra que (a) el bloque tarda lo mismo independientemente 
+de la plataforma, (b) al llegar al final del recorrido el bloque tiene la misma 
+velocidad independientemente de la plataforma, (c) ambas respuestas son 
+correctas, (d) ninguna respuesta es correcta. 
+Figura 7.16 Problema 8 
+9 eses Una piedra atada al extremo de una barra sin masa y rígida se 
+mueve en una circunferencia vertical a velocidad constante. La energía total del 
+movimiento no es constante, pero la energía cinética del movimiento sí lo es, 
+En cambio, la energía potencial cambia continuamente. ¿Ejerce la barra una 
+fuerza tangencial sobre la piedra? 
+1 Richard P. Feynman y Ralph Leighton, “¿Está Vd de broma, Mr. Feynman?” 
+Alianza Editorial, 2003, Madrid, 
+Problemas 193 
+Estimaciones y aproximaciones 
+10 @@ ssm La tasa metabólica es el ritmo con que el cuerpo usa 
+energía química para sustentar sus funciones vitales. Experimentalmente se ve 
+que la tasa metabólica media es proporcional al área total superficial del 
+cuerpo. El área superficial de un varón de 1,78 m de altura y 80 kg de peso es 
+de unos 2.0 m?, mientras que el de una mujer de 1,62 m de altura y 50 kg de 
+peso es 1,5 m?. Hay un cambio de un 1% en el área superficial por cada 1,2 kg 
+por encima o por debajo de los pesos y de un 1% por cada 7,5 em por encima o por 
+debajo de las alturas que aquí se señalan. (a) Estime su tasa metabólica usando la 
+siguiente guía para la actividad física: tasa metabólica de: dormir: 40 W/m?; cami- 
+nar: 160 W/m?; actividad física moderada: 175 W/m?; ejercicio aeróbico mode- 
+rado: 300 W/m?. Compararlo con la potencia de una bombilla de 100 W. 
+(b) Exprese su tasa metabólica media en kcal/día (1 kcal = 4190 J). (Una kcal es la 
+“caloria alimentaria” usada por los expertos en nutrición) (c) Un valor estimado 
+por los dietistas es que una persona estándar debe comer entre 25-32 kcal/kg para 
+mantener su peso, A partir de los cálculos del apartado (b) estimar si este valor es 
+razonable. 
+11 e Suponga que la tasa máxima a la que su cuerpo puede gastar 
+energía es 250 W. Suponiendo que la conversión de energía química en ener- 
+gía mecánica tiene una eficiencia máxima del 20%, estimar a qué velocidad 
+se puede subir cuatro tramos de escalera, cada uno de los cuales tiene 3,5 m 
+de altura. 
+12 ® ¿Cuánta masa en reposo se consume en el núcleo de una planta 
+nuclear de generación de energía eléctrica si se produce, (a) 1 J de energía tér- 
+mica, (b) suficiente energía eléctrica para mantener una bombilla de 100 W 
+funcionando durante 10 años? (Por cada julio de energía eléctrica producida 
+por el generador, el núcleo del reactor debe producir 3 J de energía nuclear.) 
+13 e SSM La energía química consumida cuando se quema | litro 
+de gasolina es aproximadamente 684 x 10% J. Estimar la energía total usada por 
+todos los coches de los Estados Unidos durante un año, ¿Qué fracción repre- 
+senta del total de energía usada en los Estados Unidos en | año (unos 5 x 10% J)? 
+14 @ En un panel de energía solar la eficiencia máxima de conversión 
+en energía eléctrica es del orden del 12 por ciento. Usando el valor conocido 
+de la intensidad solar que llega a la superficie de la Tierra (1,3 kKW/m?), ¿qué 
+área debería cubrirse para suministrar los requerimientos energéticos de 
+Europa (5 x 10% J/año)? Supóngase que el cielo no tiene nubes. 
+15 ® Las plantas de producción de energía hidroeléctrica transforman 
+la energía potencial gravitatoria del agua en otras formas más útiles de ener- 
+gía. Para ello hacen pasar un flujo de agua, corriente abajo, a través de una 
+turbina que genera energía eléctrica. La central de Hoover en el río Colorado 
+tiene una altura de 211 m y genera 4000 millones de kW-h por año (1W - h = 
+3,6 x 10° J). ¿Con qué caudal (en l/s) fluye el agua a través de las turbinas 
+para generar esta potencia? La densidad del agua es 1kg/l. Supóngase que la 
+transformación de la energía potencial del agua en energía eléctrica tiene una 
+eficiencia del 20%. 
+Conservación de la energía mecánica 
+16 e Un bloque de masa m comprime un muelle hasta una distancia x y 
+luego se deja en libertad. El muelle proyecta el bloque a lo largo de una superfi- 
+cie horizontal sin rozamiento con una velocidad v. El mismo muelle proyecta 
+un segundo bloque de masa 4m con una velocidad 3v. ¿A qué distancia se com- 
+primió el muelle en este último caso? 
+17 e Una muchacha en bicicleta que circula por una carretera horizon- 
+tal a 10 m/s deja de pedalear cuando comienza a subir una cuesta inclinada 3,0? 
+respecto la horizontal. Ignorando las fuerzas de rozamiento, ¿qué distancia 
+recorrerá sobre la colina antes de detenerse? (a) 5,1 m (b) 30 m (c) 97 m 
+(d) 10,2 m (e) La respuesta depende de la masa de la muchacha.
+
+194 | Capítulo 7 Conservación de la energía 
+18 e SSM Un péndulo de longitud £ con una lenteja de masa m se 
+separa lateralmente hasta que la lenteja se encuentra a una distancia L/4 por 
+encima de su posición de equilibrio. La lenteja se deja entonces en libertad. 
+Determinar la velocidad de la lenteja cuando sobrepasa la posición de equili- 
+brio. 
+19 e i Un bloque de 3 kg se desliza a lo largo de una superfi- 
+cie horizontal sin rozamiento con una velocidad de 7 m/s (figura 7.17). Después 
+de recorrer una distancia de 2 m, encuentra una rampa sin rozamiento inclinada 
+un ángulo de 40* con la horizontal (la transmisión es suave). ¿Qué distancia 
+recorrerá el bloque en la rampa ascendente antes de detenerse? 
+Figura 7.17 Problemas 19 y 46 
+20 e i Y Un objeto de 3 kg en reposo (figura 7.18) se deja 
+libre a una altura de 5 m sobre una rampa curva y sin rozamiento. Al pie de la 
+rampa hay un muelle cuya constante es k = 400 N/m. El objeto se desliza por la 
+rampa y choca contra el muelle, comprimiéndolo una distancia x antes de 
+alcanzar momentáneamente el reposo. (a) Determinar x. (b) ¿Qué ocurre con el 
+objeto después de alcanzar el reposo? 
+Figura 7.18 Problema 20 
+21 ef V Se lanza una pequeña pelota de 15 g mediante una 
+pistola de juguete que posee un muelle cuya constante de fuerza es de 600 N/m. 
+El muelle puede comprimirse hasta 5 cm. ¿Qué altura puede alcanzar la pelota 
+si se apunta verticalmente? 
+22 e i Una grúa de un puerto levanta un contenedor de 4000 kg 
+hasta una altura de 30 m, lo lleva oscilando sobre la cubierta de un buque de 
+carga y finalmente lo deposita en la bodega, que está 8 m por debajo del nivel 
+del suelo del puerto. ¿Cuánto trabajo ha realizado la grúa? (Despreciar las 
+pérdidas por rozamiento.) 
+23 e i Un muchacho de 16 kg sobre un columpio de jardín 
+lleva una velocidad de 3,4 m/s cuando el columpio, de 6 m de longitud, se 
+encuentra en el punto más bajo de sus oscilaciones. ¿Qué ángulo forma el 
+columpio con la vertical cuando el niño se encuentra en el punto más elevado? 
+24 @@ SSM El sistema que se muestra en la figura 7.19 está en 
+reposo cuando se corta la cuerda inferior. Determinar la velocidad de los obje- 
+tos cuando están a la misma altura. En la polea no hay rozamiento y su masa es 
+despreciable, 
+Figura 7.19 Problema 24 
+25 es Un bloque reposa sobre un plano inclinado como indica la figura 
+7.20, Por medio de una polea, el bloque está conectado a un muelle del cual se 
+tira hacia abajo con una fuerza gradualmente creciente. El valor de 4, es cono- 
+cido. Determinar la energía potencial U del muelle en el momento que el blo- 
+que comienza a moverse, 
+Figura 7.20 Problema 25 
+26 ee 1 Un bloque de 2,4 kg se lanza desde una altura de 5,0 m 
+sobre un muelle cuya constante de fuerza es de 3955 N/m (figura 7.21). 
+Cuando el bloque alcanza momentáneamente el reposo, el muelle se ha com- 
+primido 25 cm. Determinar la velocidad del bloque cuando la compresión del 
+muelle es de 15 cm. 
+AE Figura 7.21 Problemas 26 y 91
+
+27 «es SSM _ Una pelota en el extremo de una cuerda se mueve en un 
+círculo vertical con energía constante E. ¿Qué diferencia existe entre la tensión 
+en la parte más baja del círculo y la tensión en la parte más alta del mismo? 
+28 es Una muchacha de masa m lleva una cesta de comida a su abuela. 
+Para cruzar un riachuelo ata una cuerda de longitud R a la rama de un árbol y 
+comienza a oscilar desde el reposo en un punto que se encuentra a una distancia 
+R/2 por debajo de la rama. ¿Cuál es la tensión mínima de rotura de la cuerda 
+para que ésta no se rompa y la muchacha no caiga en el arroyo? 
+29 ee i La vagoneta de una montafia rusa de masa 1500 ke 
+parte de un punto situado a una altura H de 23 m sobre la parte mas baja de un 
+rizo de 15 m de diámetro (figura 7.22). Si el rozamiento es despreciable, la 
+fuerza hacia abajo de los carriles sobre la vagoneta cuando los viajeros están 
+cabeza abajo en lo alto del rizo es (a) 4,6 x 10* N, (b) 3,1 x 10* N, (c) 1.7 x 10° N, 
+(d) 980 N, (e) 1,6 x 10 N. 
+Figura 7.22 Problema 29 
+30 @ Una vagoneta de una montaña rusa desciende 5 m para subir, a 
+continuación, hasta un tramo del recorrido que está 9,5 m por encima del punto 
+más bajo. (a) ¿Cuál es la velocidad inicial mínima necesaria para que la vago- 
+neta supere esta altura, suponiendo que en todo el recorrido no hay rozamiento? 
+(b) ¿Se puede modificar esta velocidad cambiando la posición del punto más 
+bajo de modo que la vagoneta adquiera mayor velocidad al pasar por este 
+punto? 
+31 ese Las vagonetas de la montaña rusa Graviton pasan por un bucle 
+construido con el objetivo de la que las personas que vayan montadas en ellas 
+se sientan perfectamente ingrávidas cuando lleguen a la cima del arco. ¿Qué 
+peso sentirán cuando lleguen al punto más bajo de la trayectoria, es decir, cuál 
+es la fuerza normal que los hunde en el fondo de sus asientos al llegar al fondo 
+del bucle? Expresar la respuesta en función del peso normal de una persona. 
+Supóngase que la trayectoria es perfectamente circular y que sobre la vagoneta 
+no hay fuerzas de rozamiento, 
+32 ee ssm i Una piedra se lanza hacia arriba bajo un 
+ángulo de 53° por encima de la horizontal. Su altura máxima durante la trayec- 
+toria es de 24 m, ¿Cuál fue la velocidad inicial de la piedra? 
+33 ee | Y Una pelota de béisbol de masa 0,17 kg se lanza desde 
+el tejado de un edificio situado a 12 m por encima del suelo. Su velocidad inicial 
+es de 30 m/s y el ángulo de lanzamiento 40° sobre la horizontal. (a) ¿Cuál es la 
+altura máxima alcanzada por la pelota? (b) ¿Cuál es el trabajo realizado por la 
+gravedad cuando la pelota se mueve desde el tejado hasta su altura máxima? 
+(c) ¿Cuál es la velocidad de la pelota cuando choca contra el suelo? 
+34 es Un péndulo de 80 cm de longitud con una lenteja de 0,6 kg se 
+suelta desde el reposo cuando forma un ángulo inicial 6, con la vertical. En la 
+parte más baja de su oscilación, la velocidad de la lenteja es 2,8 m/s. (a) ¿Cuál 
+era el ángulo inicial del péndulo? (b) ¿Qué ángulo formará el péndulo con la 
+vertical cuando la velocidad de la lenteja sea de 1,4 m/s? 
+35 ee sm i Y E puente Royal Gorge sobre el río Arkan- 
+sas tiene una altura aproximada de L = 310 m. Un saltador de masa 60 kg tiene 
+una cuerda elástica de longitud d = 50 m atada a sus pies. Suponer que la 
+cuerda actúa como un muelle de constante de fuerza k. El saltador se lanza, 
+apenas toca el agua y después de numerosas subidas y bajadas se detiene a una 
+Problemas 195 
+altura A sobre el agua. (a) Determinar h. (b) Determinar la velocidad máxima 
+alcanzada por el saltador. 
+36  +es Un péndulo está formado por una lenteja de 2 kg atada a una 
+cuerda ligera de longitud 3 m. La lenteja se golpea horizontalmente, de modo 
+que alcanza una velocidad horizontal inicial de 4,5 m/s. En el punto en que la 
+cuerda forma un ángulo de 30° con la vertical (a) ¿cuál es el módulo de la velo- 
+cidad de la lenteja? (b) ¿Cuál es su energía potencial? (c) ¿Cuál es la tensión de 
+la cuerda? (d) ¿Qué ángulo forma la cuerda con la vertical cuando la lenteja 
+alcanza su máxima altura? 
+37 es Un péndulo está formado por una cuerda de longitud L y una len- 
+teja de masa m. La cuerda se dispone en posición horizontal y se da a la lenteja 
+la velocidad inicial mínima para que el péndulo de una vuelta completa en el 
+plano vertical. (a) ¿Cuál es la máxima energía cinética E, de la lenteja? 
+(b) ¿Cuál es en ese momento la tensión de la cuerda? 
+38 oe Í Y Un muchacho de peso 360 N se balancea sobre una 
+charca de agua con una cuerda atada a la rama de un árbol en el borde de la 
+charca. La rama está a 12 m por encima del nivel del suelo y la superficie del 
+agua de la charca está a 1,8 m por debajo del suelo. El muchacho coge la cuerda 
+con la mano en un punto a 10,6 m de la rama y se mueve hacia atrás hasta que la 
+cuerda forma con la vertical un ángulo de 23°. Entonces se lanza y cuando la 
+cuerda está en posición vertical se suelta de la cuerda y cae en la charca. Determi- 
+nar el módulo de la velocidad del muchacho en el momento de caer en el agua. 
+39 e. SSM I Paseando junto a un estanque, un muchacho 
+encuentra una cuerda atada a la rama de un árbol a 5,2 m del suelo y decide uti- 
+lizarla para balancearse sobre el estanque. La cuerda está algo deteriorada, pero 
+soporta su peso. El muchacho estima que la cuerda se romperá si la tensión 
+supera en 80 N su propio peso, que es de unos 650 N. Agarra la cuerda en un 
+punto que está a 4,6 m de la rama y se mueve hacia atrás para balancearse sobre 
+el estanque. (a) ¿Cuál es el ángulo inicial máximo entre la cuerda y la vertical 
+que permite al muchacho balancearse con seguridad sin que se rompa la 
+cuerda? (b) Si el muchacho comienza con este ángulo máximo y la superficie 
+del estanque está 1,2 m por debajo del nivel del suelo, ¿con qué módulo de la 
+velocidad entrará en el agua si se suelta de la cuerda cuando ésta pasa por la 
+posición vertical? 
+40 ee Un péndulo de longitud L tiene una lenteja de masa m atada a una 
+cuerda ligera y conectada a un muelle de constante de fuerza k. Con el péndulo 
+en la posición indicada en la figura 7.23, el muelle se encuentra en su posición 
+natural. Si ahora tiramos lateralmente de la lenteja hasta que la cuerda forme un 
+ángulo pequeño 0 con la vertical, ¿cuál será la velocidad de la lenteja después 
+de soltarla cuando pase por la posición de equilibrio? 
+am 
+Figura 7.23 Problema 40 
+41 ese Un péndulo está suspendido del techo y conectado a un muelle 
+fijo en el extremo opuesto justo por debajo del soporte del péndulo (figura 
+7.24). La masa de la lenteja es m, la longitud del péndulo, L y la constante del 
+muelle, k. La longitud del muelle sin deformar es L/2 y la distancia entre la 
+parte más baja del muelle y el techo es 1,5 L. El péndulo se desplaza lateral- 
+mente hasta formar un pequeño ángulo @ con la vertical y después se deja en 
+libertad desde el reposo. Obtener una expresión para la velocidad de la lenteja 
+cuando 0 =0.
+
+196 | Capítulo 7 Conservación de la energía 
+Figura 7.24 Problema 41 
+Conservación de la energía 
+42 e i En una erupción volcánica se elevó una montaña de 
+4 km? de 1600 kg/m! de densidad hasta una altura media de 500 m. (a) ¿Cuánta 
+energía en julios se liberó en esta erupción? (b) La energía liberada en una 
+bomba termonuclear se mide en megatones de TNT, siendo | megatón de TNT = 
+4,2 x 10" J. Expresar la respuesta de (a) en megatones de TNT. 
+43 ee Í Un estudiante de física de 80 kg sube a un monte de 
+120 m de altura. (a) ¿Cuál es el incremento de energía potencial gravitatoria del 
+estudiante al llegar a la cumbre del monte? (b) ¿De dónde procede esta energía? 
+(c) El organismo del estudiante tiene un rendimiento del 20 por ciento, es decir 
+por cada 100 J de energía interna consumida, 20 J se convierten en energía 
+mecánica y 80 J se pierden en forma de calor. ¿Cuánta energía química con- 
+sume el estudiante durante el ascenso al monte? 
+Rozamiento cinético 
+44 e | Un coche de 2000 kg se mueve sobre una carretera 
+horizontal con una velocidad inicial de 25 m/s. Se detiene a los 60 m por la 
+acción de una fuerza de rozamiento constante. (a) ¿Cuánta energía se disipa por 
+rozamiento? (b) ¿Cuál es el coeficiente de rozamiento cinético entre los neumá- 
+ticos y la carretera? 
+45 e Un trineo de 8 kg se encuentra inicialmente en reposo sobre una 
+carretera horizontal. El coeficiente de rozamiento cinético entre el trineo y la 
+carretera es 0,4. El trineo se empuja a lo largo de una distancia de 3 m con una 
+fuerza de 40 N que forma un ángulo de 30° hacia arriba con la horizontal. 
+(a) Determinar el trabajo realizado por la fuerza aplicada. (b) Determinar la 
+energía disipada por rozamiento. (c) Calcular la variación de energía cinética 
+experimentada por el trineo. (d) Determinar la velocidad del trineo después de 
+recorrer la distancia de 3 m. 
+46 e SSM Suponer que las superficies del problema 19 poseen 
+rozamiento y que el coeficiente de rozamiento cinético entre el bloque y las 
+superficies es 0,30. Determinar (a) la velocidad del bloque cuando alcanza la 
+rampa y (b) la distancia que alcanza el objeto en su deslizamiento antes de que- 
+dar momentáneamente en reposo. (Despreciar la energía disipada a lo largo de 
+la curva de transición.) 
+47 e Un bloque de 2 kg situado a una altura de 3 m se desliza por una 
+rampa curva y lisa desde el reposo (figura 7.25). Resbala 9 m sobre una superfi- 
+cie horizontal rugosa antes de llegar al reposo. (a) ¿Cuál es la velocidad del 
+bloque en la parte inferior de la rampa? (b) ¿Cuánta energía se ha disipado por 
+rozamiento? (c) ¿Cuál es el coeficiente de rozamiento entre el bloque y la 
+superficie horizontal? 
+Figura 7.25 Problema 47 
+48 ee i Una niña de 20 kg se desliza por un tobogán de 3,2 m 
+de altura. Cuando alcanza su parte inferior lleva una velocidad de 1,3 m/s. 
+(a) ¿Cuánta energía se ha disipado por rozamiento? (b) Si el tobogán está incli- 
+nado 20°, ¿cuál es el coeficiente de rozamiento entre la niña y la superficie de 
+deslizamiento? 
+49 es Elcoeficiente de rozamiento cinético entre el bloque de 4 kg y la 
+plataforma de la figura 7.26 es 0,35. (a) Determinar la energía disipada por 
+rozamiento cuando el bloque de 2 kg cae una distancia y. (b) Calcular la energía 
+mecánica total E del sistema después de que el bloque de 2 kg caiga la distancia 
+y. suponiendo que inicialmente £ = 0. (c) Utilizar el resultado de (b) para deter- 
+minar el módulo de la velocidad de cualquiera de los bloques después que el 
+bloque de 2 kg caiga 2 m. 
+Figura 7.26 Problema 49 
+50 se SSM  Unobjeto compacto de masa m se mueve en un círculo 
+horizontal de radio r sobre una mesa rugosa. Está sujeto a una cuerda fija en el 
+centro del círculo. La velocidad del objeto es inicialmente vy. Después de com- 
+pletar una vuelta alrededor del círculo la velocidad es - vo- (a) Determinar la 
+energía disipada por rozamiento durante una vuelta en función de m, vo y r. 
+(b) ¿Cuál es el coeficiente de rozamiento cinético? (c) ¿Cuántas vueltas dará la 
+partícula antes de alcanzar la posición de reposo? 
+51 ee |Í S Un bloque de 2,4 kg posee una velocidad inicial de 
+3.8 m/s dirigida hacia arriba sobre un plano inclinado 37° con la horizontal. El 
+coeficiente de rozamiento cinético entre el bloque y el plano es 0,30. ¿Qué dis- 
+tancia sobre el plano inclinado sube el bloque? ¿Cuál es el módulo de su velo- 
+cidad cuando llega al punto de partida en el viaje de regreso cuesta abajo?
+
+52 ese Un bloque de masa m descansa sobre un plano inclinado 6 grados 
+sobre la horizontal. El bloque está unido a un muelle de constante k (figura 
+7.27). Los coeficientes de rozamiento estático y cinético entre el bloque y el 
+plano son 4, y UU. respectivamente. Tiramos del muelle lentamente hacia arriba 
+a lo largo del plano hasta que el bloque comienza a moverse. (a) Determinar 
+una expresión para el alargamiento d del muelle en el momento en que el blo- 
+que se mueve. (b) Determinar el valor de 4, tal que el bloque se detenga justo 
+cuando el muelle se encuentra en su condición natural, es decir, ni alargado, ni 
+comprimido. 
+Figura 7.27 Problema 52 
+Masa y energía 
+53 e (a) Calcular la energía en reposo que hay en 1 g de polvo. (b) Si 
+se pudiera transformar esta energía en forma eléctrica y venderla a 10 céntimos 
+el kilovatio-hora, ¿cuánto dinero se obtendría? (c) Si con esa energía se encen- 
+diera un lámpara de 100 W, ¿durante cuánto tiempo permanecería encendida? 
+54 e Cuando se detona un kilotón de TNT se produce una fuerza 
+explosiva de unos 5 x 10? J. ¿Cuál es la masa equivalente a la energía de la 
+explosión? 
+55 e Un muón tiene una energía en reposo de 105,7 MeV. Calcular su 
+masa en reposo en kilogramos. 
+56 e SSM  Siun agujero negro y una estrella “normal” orbitan uno 
+alrededor del otro, los gases de la estrella que caen en el agujero negro se 
+calientan millones de grados debido al rozamiento en el disco de acumulación 
+del agujero. Cuando los gases se calientan tanto, empiezan a radiar luz en la 
+región espectral de los rayos X. Se cree que Cygnus X-1, la segunda fuente de 
+rayos X más brillante del firmamento, es uno de estos sistemas binarios. Emite 
+radiación a una potencia estimada de 4 x 10%! W. Si suponemos que el 1% de la 
+masa-energía que cae escapa en forma de rayos X, ¿con qué tasa está ganando 
+masa el agujero negro? 
+57 e Con referencia a la reacción de fusión del ejemplo 7.15, calcular 
+el número de reacciones por segundo que serían necesarias para obtener 1 kW 
+de potencia. 
+58 e Use la tabla 7.1 para calcular cuánta energía se necesita para 
+extraer un neutrón de un núcleo de *He, y que resulte un núcleo de *He y un 
+neutrón. 
+59 e Un neutrón libre en reposo se desintegra en un protón más un 
+electrón: 
+n>p+e 
+Utilizar la tabla 7.1 para calcular la energía liberada en este proceso. 
+60 ee En una reacción de fusión nuclear, dos núcleos de *H se combi- 
+nan para producir *He. (a) ¿Cuánta energía se libera en esta reacción? (b) 
+¿Cuántas reacciones de este tipo tienen lugar por segundo para producir 1 kW 
+de potencia? 
+61 es Una gran central nuclear produce 3000 MW de potencia por fisión 
+nuclear, que transforma la masa m en energía. (a) ¿Cuánta masa se transforma 
+Problemas | 197 
+en energía al cabo de un año? (Suponer una eficiencia del 33 por ciento en una 
+central nuclear.) (b) En una central térmica de carbón, cada kilogramo de car- 
+bón libera en la combustión 31 MJ de energía térmica. ¿Cuántos kilogramos de 
+carbón se necesitarán anualmente para una central de 3000 MW? (Suponer una 
+eficiencia del 38 por ciento en una central térmica de carbón.) 
+Problemas generales 
+62 @@ ssm _ Un bloque de masa m, inicialmente en reposo, se arrastra 
+con una cuerda hacia arriba por un plano inclinado un ángulo @ sobre la hori- 
+zontal (sin rozamiento). La tensión en la cuerda es T y la cuerda es paralela al 
+plano. Después de recorrer una distancia L, la velocidad del bloque es v. El tra- 
+bajo realizado por la tensión T es (a) mgL sen 6, (b) mgL cos 0 + f mv?, 
+(c) mgL sen 0+ 5 my*, (d) mgL cos 0, (e) TL cos O 
+63 es Un bloque de masa m se desliza hacia abajo con velocidad cons- 
+tante v por un plano inclinado un ángulo 6 con la horizontal. Durante el inter- 
+valo de tiempo Ar, ¿cuál es la magnitud de la energía disipada por rozamiento? 
+(a) mgv Ar tg 6, (b) mgv Ar sen 8, (c) t my? At, (d) La respuesta no puede 
+determinarse sin conocer el coeficiente de rozamiento cinético. 
+64 e i Un bloque de 3,5 kg descansa sobre una superficie 
+horizontal sin rozamiento en contacto con un muelle de constante 6800 N/m. El 
+muelle está fijo por el otro extremo e inicialmente posee su longitud natural. 
+Una fuerza horizontal constante de 70 N aplicada al bloque comprime el mue- 
+lle. Determinar la longitud comprimida del muelle cuando el bloque está 
+momentáneamente en reposo. 
+65 e sm i La energia medida por unidad de tiempo y 
+unidad de área que llega a la atmósfera superior de la Tierra procedente del Sol, 
+llamada constante solar, es 1,35 kW/m?, Debido a la absorción y reflexión en la 
+atmósfera, aproximadamente | kW/m? alcanza la superficie terrestre en un día 
+despejado. ¿Cuánta energía capta en 8 h de luz al día un panel solar de 1 m por 
+2 m de superficie sobre un montaje rotatorio que se encuentra siempre en posi- 
+ción perpendicular a los rayos del Sol? 
+66 es = (a) Calcular la energía total que cada segundo radia el Sol, 
+usando el valor de la constante solar que se da en el problema 65 y la distancia 
+conocida de la Tierra al Sol. (b) Esta energía la producen reacciones de fusión 
+como la que se detalla en el ejemplo 7.15. Hay varias reacciones que tienen lugar 
+en el “ciclo Phenix del Sol”, pero el resultado global es que se fusionan cuatro 
+núcleos de hidrógeno para formar un núcleo de helio, liberando 26,7 MeV de 
+energía. Si suponemos que esencialmente el Sol está formado por hidrógeno y 
+que continuará “quemándolo” hasta que se haya usado un 10% de todo este 
+combustible, use la masa del Sol para determinar aproximadamente cuánto 
+tiempo de vida le queda al Sol. 
+67 e | Y Durante una prueba en Bonneville Salt Flats, Utah, 
+el piloto del coche experimental Spirit of America de 1250 Kg, propulsado con 
+un reactor, al perder el control del vehículo empezó a frenar dejando marcas de 
+frenado en 9,5 km. (a) Si inicialmente el coche se movía a 708 km/h, estimar el 
+coeficiente de rozamiento cinético 4. (b) ¿Cuál era la energía cinética E, del 
+coche 60 s después que empezara a accionar los frenos? 
+68 oe ¡ Determinar la potencia necesaria de un motor para el 
+funcionamiento de un telearrastre que permita subir a 80 esquiadores por una 
+pista de 600 m, inclinada 15° sobre la horizontal, a una velocidad de 2,5 m/s. El 
+coeficiente de rozamiento cinético es 0,06 y la masa media de cada esquiador 
+75 kg. 
+69 ee i Una caja de 2 kg se proyecta hacia arriba, con veloci- 
+dad inicial de 3 m/s, por un plano inclinado rugoso que forma un ángulo de 60° 
+con la horizontal. El coeficiente de rozamiento cinético es 0,3. (a) Relacionar 
+todas las fuerzas que actúan sobre la caja. (b) ¿Qué distancia recorre la caja a lo 
+largo del plano antes de que se detenga momentáneamente? (c) Determinar la 
+energía disipada por rozamiento cuando la caja de desliza hacia arriba por el 
+plano, (d) Determinar su velocidad cuando alcanza la posición inicial. 
+70 o SSM i Un ascensor de 1200 kg accionado por un 
+motor eléctrico puede transportar con seguridad una carga maxima de 800 kg.
+
+198 | Capítulo 7 Conservación de la energía 
+¿Qué potencia suministra el motor cuando el ascensor asciende con la carga 
+máxima a una velocidad de 2,3 m/s? 
+71 ee | Para reducir el consumo de potencia de los motores de 
+los ascensores, éstos utilizan contrapesos conectados mediante un cable que pasa 
+por una polea situada en la parte superior del eje del ascensor. Si el ascensor del 
+problema 70 tiene un contrapeso de masa 1500 kg, ¿cuál es la potencia suminis- 
+trada por el motor cuando asciende a plena carga a una velocidad de 2,3 m/s? 
+¿Qué potencia suministra el motor cuando el ascensor asciende vacío a 2,3 m/s? 
+72 ee Í Y Un juguete de lanzar dardos posee un muelle cuya 
+constante de fuerza es 5000 N/m. Para cargar el disparador, el muelle se com- 
+prime 3 cm. El dardo de 7 g. disparado verticalmente hacia arriba, alcanza una 
+altura máxima de 24 m. Determinar la energía disipada por el rozamiento del 
+aire durante el ascenso del dardo. Estimar la velocidad del proyectil cuando 
+retorna a su punto de partida. 
+73 @@ SSM l Y En una erupción volcánica se expulsa ver- 
+ticalmente hacia arriba un trozo de 2 kg de roca volcánica porosa con una velo- 
+cidad inicial de 40 m/s, alcanzando una altura de 50 m antes de que comience a 
+caer hacia la Tierra. (a) ¿Cuál es la energía cinética inicial de la roca? (b) ¿Cuál 
+es el incremento de energía térmica debido al rozamiento del aire durante el 
+ascenso? (c) Si el incremento de energía térmica debido al rozamiento del aire 
+en el descenso es el 70% del que tuvo lugar en el ascenso, ¿cuál es la velocidad 
+de la roca cuando vuelve a su posición inicial? 
+74 ee Un bloque de masa m parte del reposo a una altura ) y se desliza 
+hacia abajo por un plano inclinado sin rozamiento que forma un ángulo 9 con la 
+horizontal como indica la figura 7.28. El bloque choca contra un muelle de 
+constante de fuerza $. Determinar la compresión del muelle cuando el bloque 
+se detiene momentáneamente. 
+Figura 7.28 Problema 74 
+75 e ssm Una losa de 1,5 x 10* kg descansa sobre una viga de 
+acero. En un día muy cálido, la viga se ha dilatado y ha levantado el bloque 
+0,1 cm. (a) ¿Qué trabajo realiza la viga sobre la losa? (b) ¿De dónde viene la 
+energía que levanta la losa? Dé una explicación microscópica sobre qué le ocu- 
+rre al acero, 
+76 ee Í Y Un coche de 1500 kg de masa que se desplaza con 
+una velocidad de 24 m/s se encuentra al pie de una colina de 2,0 km de longitud 
+y cuya altitud es de 120 m. En la cima de la colina la velocidad del coche es de 
+10 m/s. Suponiendo aceleración constante, calcular la potencia media desarro- 
+llada por el motor del coche, despreciando todas las pérdidas internas por roza- 
+miento. 
+77 een SSM Se suspende una masa n del techo mediante un muelle que 
+puede moverse verticalmente en la dirección y como se indica en la figura 7.29. 
+Sabemos que la energía potencial en función de la posición es U = tky? — mgy. 
+(a) Representar U en función de y usando una hoja de cálculo o una calcula- 
+dora gráfica. ¿Qué valor de y corresponde a la condición no deformada del 
+muelle? (b) A partir de la expresión de U, determinar la fuerza neta hacia abajo 
+que actúa sobre m en cualquier posición y. (c) La masa se deja libre desde el 
+reposo en y = 0; si no hay rozamiento, ¿cuál es el valor máximo, Ying. que 
+alcanzará la masa? Indicar Yma, en el esquema del apartado (a). (d) Considerar 
+ahora el efecto del rozamiento. La masa finalmente se detiene en una posición 
+de equilibrio Ya. Determinar este punto en el esquema. (e) Determinar la canti- 
+dad de energía térmica producida por rozamiento desde el comienzo de la ope- 
+ración hasta el equilibrio final, 
+Figura 7.29 Problema 77 
+78 es Una pistola lanzaseñales se carga comprimiendo el muelle una 
+distancia d y dispara una bengala de masa m dirigida verticalmente hacia 
+arriba. La bengala tiene una velocidad vo cuando abandona el muelle y alcanza 
+una altura máxima / desde el punto donde abandona el muelle. Los efectos de 
+resistencia del aire son importantes. (Expresar las respuestas en función de m, 
+Vo, d, h y g.) (a) ¿Cuánto trabajo se realiza sobre el muelle en el proceso de 
+compresión? (b) ¿Cuál es el valor de la constante del muelle, 4? (c) ¿Cuánta 
+energía mecánica se transforma en energía térmica a causa de la fuerza de 
+arrastre del aire sobre la bengala durante el tiempo que transcurre entre el dis- 
+paro y la llegada a su altura máxima? 
+79 ee i Una vagoneta de una montaña rusa de masa total 
+(incluidos los pasajeros) 500 kg se desplaza libremente por la pista sin roza- 
+miento del aire indicada en la figura 7.30. Los puntos A, E y G son secciones 
+rectas horizontales, todas ellas de la misma altura de 10 m sobre el suelo. El 
+punto C, que está a una altura de 10 m sobre el suelo, pertenece a una pendiente 
+que forma un ángulo de 30°, El punto B está en lo alto de una cuesta, mientras 
+que el punto D pertenece a una hondonada que está al nivel del suelo. El radio 
+de curvatura de cada uno de estos puntos es 20 m. El punto F está en el medio 
+de una curva horizontal con peralte de radio de curvatura 30 m y a la misma 
+altura de 10 m sobre el suelo que los puntos A, E y G. En el punto A, la veloci- 
+dad de la vagoneta es 12 m/s. (a) Si la vagoneta es capaz de llegar justamente al 
+punto B de la cuesta, ¿cuál es la altura de este punto sobre el suelo? (b) Si se 
+cumple la condición (a), ¿cuál es la magnitud de la fuerza total ejercida sobre la 
+vagoneta por la pista en el punto B? (c) ¿Cuál es la aceleración de la vagoneta 
+en el punto C? (d) ¿Cuáles son el módulo y dirección de la fuerza total ejercida 
+sobre la vagoneta por la pista en el punto D? (e) ¿Cuáles son el módulo y direc- 
+ción de la fuerza total ejercida sobre la vagoneta por la pista en el punto F? 
+(/ Al llegar el punto G se aplica a la vagoneta una fuerza de frenado constante 
+y se alcanza la detención en una distancia de 25 m. ¿Cuál es la fuerza de fre- 
+nado? 
+Figura 7.30 Problema 79
+
+80 e ss 1 Un ascensor (masa M = 2000 kg) se mueve 
+hacia abajo a vg = 1,5 m/s. Un sistema de frenado evita que la velocidad de des- 
+censo se incremente. (a) ¿A qué ritmo (en J/s) se transforma en el sistema de 
+frenado la energía mecánica en energía térmica? (b) Cuando el ascensor se 
+mueve hacia abajo a vy = 1,5 m/s, falla el sistema de frenado y cae libremente a 
+lo largo de una distancia d = 5 m antes de chocar contra el tope de un gran muc- 
+lle de seguridad con una constante de fuerza k = 1,5 x 10* N/m. Después del 
+choque sobre el tope del muelle, queremos saber la distancia Ay que se compri- 
+mió éste antes de que la cabina del ascensor quede en reposo. Expresar alge- 
+braicamente el valor de Ay en función de las magnitudes conocidas M. vo. g. k y 
+d y sustituir los valores dados para hallar Ay. 
+81 e Para medir la fuerza de rozamiento (rozamiento por rodadura y 
+fuerza arrastre del aire) sobre un coche en movimiento, un mecánico apaga el 
+motor y deja que el vehículo se deslice cuesta abajo en pendientes conocidas, 
+El mecánico registra los siguientes datos: 
+1. Sobre una pendiente de 2,87” el coche se desliza uniformemente a 20 m/s. 
+2, Sobre una pendiente de 5,74* la velocidad constante de deslizamiento es 
+30 m/s. 
+La masa total del coche es 1000 kg. (a) ¿Cuál es la fuerza de rozamiento a 
+20 m/s (Fz) y a 30 m/s (F3)? (b) ¿Qué potencia útil debe suministrar el motor 
+para que el coche circule sobre una carretera horizontal a las velocidades esta- 
+cionarias de 20 m/s (Pp) y 30 m/s (P39)? (c) A todo gas, el motor suministra 
+40 kW. ¿Cuál es el ángulo máximo de pendiente hacia arriba para el cual el 
+coche puede mantener una velocidad estacionaria de 20 m/s? (d) Suponer que 
+el motor suministra el mismo trabajo útil total por cada litro de combustible, 
+cualquiera que sea su velocidad. A 20 m/s sobre una carretera horizontal, el 
+coche recorre 12,7 km/litro. ¿Cuántos kilómetros por litro recorrerá si su velo- 
+cidad es 30 m/s? 
+82 es Un bloque de 2 kg se suelta sobre un plano inclinado hacia abajo 
+a una distancia de 4 m de un muelle de constante k = 100 N/m. El muelle está 
+fijo a lo largo del plano inclinado, que forma un ángulo de 30° (figura 7.31), (a) 
+si no hay rozamiento, hallar la compresión máxima del muelle, admitiendo que 
+carece de masa. (b) Si el coeficiente de rozamiento cinético entre el bloque y el 
+plano es 0,2, hallar la compresión máxima. (c) En el plano del apartado (b), 
+¿hasta qué punto subirá el bloque por el plano después de abandonar el muelle? 
+Figura 7.31 Problema 82 
+83 ee I Un tren con una masa total de 2 x 10° kg sube 707 ma 
+lo largo de una distancia de 62 km con una velocidad media de 15,0 km/h. Si la 
+fuerza de rozamiento es igual al 0,8 por ciento del peso, (a) calcular la energía 
+cinética del tren, (b) la variación total de energía potencial, (c) la energía disi- 
+pada por el rozamiento, y (d) la potencia de la locomotora. 
+84 @@ SSM Parece ser que al acelerar se consume más energía que al 
+conducir con velocidad constante. (a) Calcular la energía necesaria para que un 
+coche de 1200 kg alcance una velocidad de 50 km/h despreciando el rozamiento. 
+(b) Si los rozamientos (rozamiento por rodadura y fuerza de arrastre) del aire dan 
+lugar a una fuerza de rozamiento total de 300 N a la velocidad de 50 km/h, 
+¿cuánta energía se necesita para desplazar el coche una distancia de 300 m a una 
+velocidad constante de 50 km/h? (c) Suponiendo que las pérdidas de energía por 
+causa del rozamiento en el apartado (a) son el 75 por ciento de las encontradas en 
+Problemas | 199 
+el apartado (b), estimar la relación que existe entre el consumo de energía para 
+los dos casos considerados. 
+85 e... SSM Un péndulo consiste en una pequeña masa (M) atada al 
+extremo de una cuerda de longitud L. Tal como muestra la figura 7.32, la masa 
+se coloca en posición horizontal y se suelta. En el punto más bajo de la oscila- 
+ción, la cuerda choca con una clavija delgada situada a una distancia R por 
+encima de dicho punto. Demostrar que R debe ser menor que 27/5 para que la 
+masa describa un círculo entero alrededor del punto R. 
+{=< 
+le | 
+| KD 
+| / 
++ R / 
+# 
+=F f P 
+= o 
+`- 
+Figura 7.32 Problema 85 
+86 es Para determinar la penetrabilidad de una bala se dispara un rifle 
+contra un bloque de madera en reposo. La bala penetra una distancia D en la 
+madera, Otra bala que tiene la misma masa pero que dobla su velocidad incide 
+sobre el mismo bloque, Supongamos que la madera ejerce una fuerza media 
+sobre la bala que no depende de la velocidad. La distancia de penetración de la 
+segunda bala es (a) D, (b) 2D, (c) 4D, (d) imposible de determinar a partir de la 
+información disponible. 
+87 es Enla figura 7.33 se muestra una experiencia estándar de un curso 
+de física introductorio destinada a examinar la conservación de la energía y las 
+leyes de Newton. Una pequeña viga de masa M atada a una cuerda sin masa de 
+cuyo extremo cuelga un peso de masa m se coloca en un rail de aire. Cuando el 
+aire circula por el rail, éste esencialmente no tiene rozamiento, Se suelta entonces 
+la masa m y se mide la velocidad de la viga después de que el peso haya caído 
+una distancia Y. Para demostrar que las leyes de la física son coherentes, determi- 
+nar la velocidad de la viga de dos formas diferentes: (a) mediante la conservación 
+de la energía mecánica; (b) usando la segunda y la tercera leyes de Newton direc- 
+tamente; es decir, haciendo un diagrama de fuerzas para las dos masas, encon- 
+trando su aceleración y, a partir de ella, calculando la velocidad de la viga, 
+Figura 7.33 Problema 87
+
+200 | Capítulo 7 Conservación de la energía 
+88 ee SSM Se formula un modelo de carrera deportiva, según el cual 
+la energía se consume en el proceso de acelerar y desacelerar las piernas. Si la 
+masa de una pierna es m y la velocidad de la carrera es v, la energía necesaria 
+para acelerar la pierna desde el reposo a v es E my? y la misma energía se nece- 
+sita para desacelerar la pierna hasta el reposo para iniciar la siguiente zancada. 
+Así, la energía requerida en cada zancada es mv?. Supóngase que la masa de la 
+pierna de un hombre es 10 kg y que corre con una velocidad de 3 m/s, siendo la 
+distancia entre dos pisadas consecutivas de 1 m. Por lo tanto, la energía que 
+debe proporcionar a sus piernas cada segundo es 3 x mv?. Calcular con este 
+modelo el consumo de energía del hombre por unidad de tiempo, suponiendo 
+que sus músculos tienen un rendimiento del 25 por ciento. 
+89 «e Un profesor de química de secundaria sugirió medir el módulo 
+de la aceleración de la gravedad mediante el método siguiente: Colgar un peso 
+de un hilo muy fino de longitud L formando un péndulo que se coloca en el 
+extremo de una mesa de tal forma que éste queda a una altura A sobre el suelo 
+en el punto de altura mínima de su oscilación. Tirar entonces del hilo de forma 
+que forme un ángulo 0, con la vertical. Colocar en el punto más bajo del pén- 
+dulo una cuchilla que corte el hilo. Cuando éste se ha cortado, la masa se pro- 
+yecta horizontalmente y cae a una distancia D del borde de la mesa. La idea es 
+medir D en función de 0, y que esto sirva para determinar g. Además de las 
+dificultades experimentales obvias, el procedimiento tiene un problema grave: 
+D no depende de g. Muestre que esto es verdad y que D depende únicamente 
+de Op. 
+90 es Un bloque de 5 kg se mantiene contra un muelle, cuya constante 
+de fuerza es 20 N/cm, comprimiéndolo 3 cm. El bloque se libera y el muelle se 
+extiende impulsando el bloque a lo largo de una superficie horizontal. El coefi- 
+ciente de rozamiento entre la superficie y el bloque es 0,2. (a) Determinar el 
+trabajo realizado sobre el bloque por el muelle al extenderse desde su posición 
+comprimida a su posición de equilibrio. (b) Determinar la energía disipada por 
+rozamiento cuando el bloque se desplaza los 3 cm hasta la posición de equili- 
+brio del muelle. (c) ¿Cuál es la velocidad del bloque al alcanzar el muelle su 
+posición de equilibrio? (d) Si el bloque no estuviera sujeto al muelle, ¿qué dis- 
+tancia recorrería sobre la superficie antes de detenerse? 
+91 «ee Un bloque de masa m se deja caer sobre la parte superior de un 
+muelle vertical cuya constante de fuerza es k (figura 7.21, problema 26). Si el 
+bloque se suelta desde una altura A por encima del muelle, (a) ¿cuál es la ener- 
+gía cinética máxima del bloque? (b) ¿Cuál es la máxima compresión del mue- 
+lle? (c) ¿Para qué compresión la energía cinética del bloque es la mitad de su 
+valor máximo? 
+92 @@@ Se empuja hacia un lado la lenteja de un péndulo de longitud L de 
+modo que la cuerda forme con la vertical un ángulo 6, y luego se suelta. En el 
+ejemplo 7.2 se utilizó el principio de conservación de la energía para obtener su 
+velocidad en la parte inferior de la trayectoria. En este problema se pide llegar al 
+mismo resultado utilizando la segunda ley de Newton. (a) Demostrar que la com- 
+ponente tangencial de la segunda ley de Newton viene dada por dv/dt =—g sen 6, 
+donde y es el módulo de la velocidad y @ el ángulo que forma la cuerda con la 
+vertical. (b) Demostrar que v se puede escribir en la forma v = L 48 / dt. (c) Uti- 
+lizar este resultado y la regla de la derivación en cadena para obtener 
+dv _dvd@_ dvv 
+dt d@dt d@L 
+(d) Combinar los resultados de (a) y (c) para obtener v dv = -gL sen 6 d@. 
+(e) Integrar el miembro de la izquierda de esta ecuación desde v = 0 hasta la 
+velocidad final v y el miembro de la derecha desde 8 = 0 a 6 = 0, y demostrar 
+que el resultado es equivalente a v = ./2gh, siendo h la altura original de la 
+lenteja del péndulo sobre el punto más bajo de su recorrido. 
+93 ese. Un escalador de 85 kg baja por la pendiente de una roca cuando 
+su sujeción falla y queda sostenido únicamente por la cuerda de seguridad atada 
+a un punto de la cima. La forma de la pared puede esquematizarse tal como se 
+muestra en la figura 7,34, con H = 300 m. Suponga que la cuerda se comporta 
+como un muelle de constante de fuerza k = 5 N/m y de 60 m de longitud, 
+(a) Usando una hoja de cálculo, represente gráficamente la energía potencial 
+del escalador en función de s, siendo ésta la distancia desde la cima medida a lo 
+largo de la curva de la superficie de la roca. Use valores de s comprendidos 
+entre 60 m y 200 m. (b) Si la caída comenzó cuando estaba a una distancia s; = 
+60 m de la cima y acabó a una distancia sp = 110 m, determinar cuánta energía 
+se disipó por rozamiento desde el momento que empezó a resbalar y hasta 
+finalmente quedó parado. 
+Figura 7.34 Problema 93 
+94 @@@ ssm Un bloque de madera de masa M está conectado a dos 
+muelles sin masa tal como se muestra en la figura 7.35. Cada muelle tiene una 
+longitud L y una constante de fuerza k. (a) Si el bloque se desplaza una distan- 
+cia x, como se muestra en la figura, ¿cuál es el cambio de la energía potencial 
+almacenada en los muelles? (b) ¿Cuál es el módulo de la fuerza que tira del 
+bloque hacia la posición de equilibrio? (c) Usando una hoja de cáleulo o una 
+calculadora gráfica, represente gráficamente la energía potencial U en función 
+de x para 0 < x < 0,2 m. Supóngase k = | N/m, L = 0,1 m y M = 1 kg. (d) Si el 
+bloque se desplaza una distancia x= 0,1 m y, posteriormente, se suelta, ¿cuál es 
+su velocidad cuando pasa por la posición de equilibrio? Supóngase que el blo- 
+que está descansando sobre una superficie sin rozamiento. 
+Figura 7.35 Problema 94
+
+SISTEMAS DE Capitulo 
+PARTICULAS Y 
+CONSERVACION DEL 
+MOMENTO LINEAL 
+8.1 Centro de masas 
+*8.2 Determinación del 
+centro de masas por 
+integración 
+8.3 Movimiento del centro 
+de masas 
+8.4 Conservación del 
+momento lineal 
+8.5 Energía cinética de un 
+sistema 
+8.6 Colisiones 
+*8.7 Sistema de referencia 
+del centro de masas 
+*8.8 Sistemas de masa 
+variable: la propulsión 
+de los cohetes 
+La masa del palo de golf multiplicada por su velocidad es el ímpetu o el momento lineal del f f F 
+palo. Cuando el golfista golpea la bola con el palo, parte del momento se transfiere a la bola. 
+¿Cómo se verá afectada la distancia recorrida por la bola si el deportista usa palos de distinta 
+masa? (Véase el ejemplo 8.12.) 
+E, n los capítulos 6 y 7 hemos visto que el teorema trabajo-energía cinética para las par- 
+tículas y para los sistemas de partículas son unas herramientas útiles para analizar una 
+serie de situaciones y para resolver una gran cantidad de problemas. Sin embargo, para 
+estudiar el movimiento de objetos materiales reales y para comprender cómo se com- 
+portan éstos cuando chocan, como por ejemplo la bola y el palo de golf de la foto, ne- 
+cesitamos añadir dos teoremas adicionales a nuestro bagaje de herramientas 
+conceptuales. Estos son la segunda ley de Newton para sistemas de partículas (sec- 
+ción 8.3) y el teorema del impulso mecánico-incremento del momento lineal (sección 
+8.6). Este último teorema para sistemas introduce el principio de conservación del mo- 
+mento lineal, una de las leyes universales de la física, 
+El producto de la masa por la velocidad de una partícula se denomina momento li- 
+neal, ímpetu o cantidad de movimiento. El momento lineal de un sistema de partícu- f ln “2g \\ 
+las es el vector suma de los momentos lineales de las particulas individuales del sistema. | ZO Bx 
+Si la fuerza externa neta que actúa sobre un sistema es cero, el momento lineal del sis- 
+tema es constante. El momento lineal de un sistema aislado es una magnitud que se con- 
+serva, al igual que la energía de un sistema aislado.

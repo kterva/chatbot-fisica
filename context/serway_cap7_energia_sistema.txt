@@ -1,0 +1,3162 @@
+Tema: Energía de un sistema (Capítulo 7 — Física para Ciencias e Ingeniería, Serway)
+
+Capítulo 7  Energía de un sistema
+cuando se acaba la gasolina o con la pérdida del servicio eléctrico después de una tormenta 
+violenta, la noción de energía es más abstracta.
+El concepto de energía se aplica a sistemas mecánicos sin recurrir a las leyes de Newton. 
+Además, en capítulos posteriores del libro la aproximación de energía permite compren-
+der fenómenos térmicos y eléctricos, para los que las leyes de Newton no son útiles.
+Las técnicas para resolución de problemas que se presentaron en capítulos anteriores 
+respecto al movimiento de una partícula o un objeto que podría representarse como una par- 
+tícula. Dichas técnicas aplican el modelo de partícula. El nuevo planteamiento comienza al di-
+rigir la atención sobre un sistema y desarrollar técnicas para aplicar en un modelo de sistema.
+7.1 Sistemas y entornos
+En el modelo de sistema la atención se dirige a una porción pequeña del Universo, el  
+sistema, y se ignoran detalles del resto del Universo afuera del sistema. Una habilidad vital 
+para aplicar el modelo de sistema a problemas es la identificación del sistema . Un sistema 
+válido
+  puede ser un objeto simple o partícula
+  puede ser una colección de objetos o partículas
+   puede ser una región de espacio (como el interior del cilindro de combustión de 
+un motor de automóvil)
+   puede variar en tamaño y forma (como una bola de goma, que se deforma al golpear 
+una pared)
+Identificar la necesidad de un enfoque de sistema para resolver un problema (en opo-
+sición al enfoque de partícula) es parte del paso Categorizar en la "Estrategia general para 
+resolver problemas" que se destacó en el capítulo 2. Identificar el sistema particular es una 
+segunda parte de esta etapa.
+No importa cuál sea el sistema particular en un problema dado, se identifica una fron-
+tera de sistema , una superficie imaginaria (que no necesariamente coincide con una 
+superficie física) que divide al Universo del sistema y el entorno que lo rodea.
+Como ejemplo, examine una fuerza aplicada a un objeto en el espacio vacío. Se puede 
+definir el objeto como el sistema y su superficie como la frontera del sistema. La fuerza 
+aplicada a él es una influencia sobre el sistema desde el entorno que actúa a través de la 
+frontera del sistema. Se verá cómo analizar esta situación desde un enfoque de sistema en 
+una sección posterior de este capítulo.
+Otro ejemplo se vio en el ejemplo 5.10, donde el sistema se define como la combi-
+nación de la bola, el bloque y la cuerda. La influencia del entorno incluye las fuerzas 
+gravitacionales sobre la bola y el bloque, las fuerzas normal y de fricción sobre el bloque, 
+y la fuerza ejercida por la polea sobre la cuerda. Las fuerzas que ejerce la cuerda sobre la 
+bola y el bloque son internas al sistema y debido a eso no se incluyen como una influencia 
+del entorno.
+Existen algunos mecanismos mediante los cuales un sistema recibe influencia de su 
+entorno. El primero que se investigará es el trabajo.
+7.2  Trabajo invertido por una fuerza  
+constante
+Casi todos los términos utilizados hasta el momento (velocidad, aceleración, fuerza, et-
+cétera) tienen un significado similar en física como en la vida diaria. Sin embargo, ahora 
+se encuentra un término cuyo significado en física es particularmente diferente de su 
+significado cotidiano: trabajo.
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 7.1
+Identifique el sistema
+La primera etapa más 
+importante a considerar en 
+la solución de un problema 
+aplicando el planteamiento de 
+energía es identificar el sistema 
+de interés adecuado.
+
+Para comprender qué significa trabajo en física, considere la situación que se ilustra en  
+la figura 7.1. Se aplica una fuerza F
+S
+ a un borrador, qué se identifica como el sistema, y el bo-
+rrador se desliza a lo largo del riel. Si quiere saber qué tan efectiva es la fuerza para mover  
+el borrador, debe considerar no sólo la magnitud de la fuerza sino también su dirección. Si 
+supone que la magnitud de la fuerza aplicada es la misma en las tres fotografías, el empu-
+jón que se aplica en la figura 7.1b hace más para mover el borrador que el empujón de la 
+figura 7.1a. Por otra parte, la figura 7.1c muestra una situación en que la fuerza aplicada no 
+mueve el borrador en absoluto, sin importar cuán fuerte se empuje (a menos, desde luego, 
+¡que se aplique una fuerza tan grande que rompa el riel!). Estos resultados sugieren que, 
+cuando se analizan fuerzas para determinar el trabajo que realizan, se debe considerar 
+la naturaleza vectorial de las fuerzas. También se debe conocer el desplazamiento $r
+S
+ del 
+borrador mientras se mueve a lo largo del riel si se quiere determinar el trabajo invertido 
+sobre él por la fuerza. Mover el borrador 3 m a lo largo del riel requiere más trabajo que 
+moverlo 2 cm.
+Examine la situación de la figura 7.2, donde el objeto (el sistema) experimenta un 
+desplazamiento a lo largo de una línea recta mientras sobre él actúa una fuerza constante 
+de magnitud F que forma un ángulo V con la dirección del desplazamiento.
+El trabajo W invertido sobre un sistema por un agente que ejerce una fuerza cons-
+tante sobre el sistema es el producto de la magnitud F de la fuerza, la magnitud $r 
+del desplazamiento del punto de aplicación de la fuerza y cos V, donde V es el ángulo 
+entre los vectores fuerza y desplazamiento:
+ W   F $r cos V (7.1)
+Note en la ecuación 7.1 que el trabajo es un escalar, aun cuando se defina en términos 
+de dos vectores, una fuerza F
+S
+ y un desplazamiento $r
+S
+. En la sección 7.3 se explora cómo 
+combinar dos vectores para generar una cantidad escalar.
+Como ejemplo de la distinción entre la definición de trabajo y la comprensión cotidia-
+na de la palabra, considere sostener una pesada silla con los brazos extendidos durante 3 
+minutos. Al final de este intervalo de tiempo, sus cansados brazos pueden hacerle creer 
+que realizó una cantidad considerable de trabajo sobre la silla. Sin embargo, de acuerdo 
+con la definición, sobre ella no ha realizado ningún trabajo. Usted ejerce una fuerza para 
+sostener la silla, pero no la mueve. Una fuerza no realiza trabajo sobre un objeto si la fuerza 
+no se mueve a través de un desplazamiento. Si $r  0, la ecuación 7.1 da W  0, que es la 
+situación que se muestra en la figura 7.1c.
+Advierta también de la ecuación 7.1 que el trabajo invertido por una fuerza sobre un 
+objeto en movimiento es cero cuando la fuerza aplicada es perpendicular al desplazamien-
+to de su punto de aplicación. Esto es, si V  90°, por lo tanto W  0 porque cos 90°  0. 
+Por ejemplo, en la figura 7.3, el trabajo invertido por la fuerza normal sobre el objeto y el 
+trabajo invertido por la fuerza gravitacional sobre el objeto son ambos cero porque ambas 
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 7.2
+¿Qué se desplaza?
+El desplazamiento en la 
+ecuación 7.1 es el del punto 
+de aplicación de la fuerza. Si la 
+fuerza se aplica a una partícula 
+o un sistema no deformable, 
+este desplazamiento es el 
+mismo que el desplazamiento 
+de la partícula o sistema. 
+Sin embargo, para sistemas 
+deformables, estos dos 
+desplazamientos con frecuencia 
+no son los mismos.
+1 Trabajo invertido por una 
+fuerza constante
+ Sección 7.2  Trabajo invertido por una fuerza constante  165
+Figura 7.2 Si un objeto se 
+somete a un desplazamiento  
+$r
+S
+ bajo la acción de una fuerza 
+constante F
+S
+, el trabajo invertido 
+por la fuerza es F $r cos V.
+Figura 7.3 Un objeto se desplaza 
+sobre una superficie horizontal 
+sin fricción. La fuerza normal n
+S
+ 
+y la fuerza gravitacional m g
+S
+ no 
+trabajan sobre el objeto. En la 
+situación que se muestra aquí, 
+F
+S
+ es la única fuerza que realiza 
+trabajo sobre el objeto.
+Figura 7.1 Un borrador se empuja a lo largo de un riel del pizarrón mediante una fuerza que actúa a 
+diferentes ángulos respecto de la dirección horizontal.
+a) b) c)
+r
+F cos 
+F
+$
+VV
+Fn
+r
+mg
+$
+V
+Charles D. Winters
+
+166 Capítulo 7  Energía de un sistema
+fuerzas son perpendiculares al desplazamiento y tienen componentes cero a lo largo de 
+un eje en la dirección de $r
+S
+.
+El signo del trabajo también depende de la dirección de F
+S
+ en relación con $r
+S
+. El tra-
+bajo invertido por la fuerza aplicada sobre un sistema es positivo cuando la proyección 
+de F
+S
+ sobre $r
+S
+ está en la misma dirección que el desplazamiento. Por ejemplo, cuando 
+un objeto se levanta, el trabajo invertido por la fuerza aplicada sobre el objeto es positivo, 
+porque la dirección de dicha fuerza es hacia arriba, en la misma dirección que el desplaza-
+miento de su punto de aplicación. Cuando la proyección de F
+S
+ sobre $r
+S
+ está en la dirección 
+opuesta al desplazamiento, W es negativo. Por ejemplo, conforme se levanta un objeto, el 
+trabajo invertido por la fuerza gravitacional sobre el objeto es negativo. El factor cos V en 
+la definición de W (ecuación 7.1) automáticamente toma en cuenta el signo.
+Si una fuerza aplicada F
+S
+ está en la misma dirección que el desplazamiento $r
+S
+, por lo 
+tanto V  0 y cos 0  1. En este caso, la ecuación 7.1 produce
+W  F $r
+Las unidades de trabajo son las de fuerza multiplicada por longitud. En consecuencia, la  
+unidad del SI de trabajo es el newton·metro (N  m  kg   m2s2). Esta combinación de uni- 
+dades se usa con tanta frecuencia que se le ha dado un nombre propio, joule ( J ).
+Una consideración importante para un enfoque de sistema a los problemas es que el 
+trabajo es una transferencia de energía. Si W es el trabajo realizado sobre un sistema y W  
+es positivo, la energía se transfiere al sistema; si W es negativo, la energía se transfiere 
+desde el sistema. Por lo tanto, si un sistema interactúa con su entorno, esta interacción se 
+describe como una transferencia de energía a través de las fronteras del sistema. El resul-
+tado es un cambio en la energía almacenada en el sistema. En la sección 7.5 se aprenderá 
+acerca del primer tipo de almacenamiento de energía, después de investigar más aspectos 
+del trabajo.
+Pregunta rápida 7.1 La fuerza gravitacional que ejerce el Sol sobre la Tierra mantiene 
+a ésta en una órbita alrededor de aquél. Suponga que la órbita es perfectamente circular
+. 
+El trabajo realizado por esta fuerza gravitacional durante un intervalo de tiempo breve, 
+en el que la Tierra se mueve a través de un desplazamiento en su trayectoria orbital, es  
+a) cero, b) positivo, c) negativo, d) imposible de determinar.
+Pregunta rápida 7.2 La figura 7.4 muestra cuatro situaciones en las que una fuerza se 
+aplica a un objeto. En los cuatro casos, la fuerza tiene la misma magnitud y el desplaza -
+miento del objeto es hacia la derecha y de la misma magnitud. Clasifique las situaciones 
+en orden del trabajo invertido por la fuerza sobre el objeto, del más positivo al más ne-
+gativo.
+PREVENCIÓN
+ DE RIESGOS  
+OCULTOS
+ 7.3
+Trabajo realizado por. . .  sobre. . .
+No sólo debe identificar el 
+sistema, también debe saber 
+qué agente en el entorno 
+realiza trabajo sobre el 
+sistema. Cuando se analice el 
+trabajo, siempre use la frase 
+“el trabajo realizado por. . . 
+sobre. . .”. Después de “por”, 
+inserte la parte del entorno 
+que interactúa directamente 
+con el sistema. Después de 
+“sobre”, inserte el sistema. Por 
+ejemplo, “el trabajo realizado 
+por el martillo sobre el clavo” 
+identifica al clavo como el 
+sistema y la fuerza del martillo 
+representa la interacción con el 
+entorno.
+PREVENCIÓN DE RIESGOS  
+OCULTOS 7.4
+Causa del desplazamiento
+Es posible calcular el trabajo 
+realizado por una fuerza sobre 
+un objeto, pero dicha fuerza no 
+necesariamente es la causa del 
+desplazamiento del objeto. Por 
+ejemplo, si levanta un objeto, 
+la fuerza gravitacional realiza 
+trabajo sobre el objeto, ¡aunque 
+la gravedad no es la causa de 
+que el objeto se mueva hacia 
+arriba!
+Figura 7.4 (Pregunta rápida 7.2) Se jala un bloque mediante una fuerza en cuatro direcciones 
+diferentes. En cada caso, el desplazamiento del bloque es hacia la derecha y de la misma magnitud.
+F
+a) b)
+F
+c)
+F
+F
+d)
+
+EJEMPLO 7.1 Sr. Limpio
+Un hombre que limpia un piso jala una aspiradora con una fuerza de magnitud F  50.0 
+N en un ángulo de 30.0° con la horizontal (figura 7.5). Calcule el trabajo consumido por 
+la fuerza sobre la aspiradora a medida que ésta se desplaza 3.00 m hacia la derecha.
+SOLUCIÓN
+Conceptualizar La figura 7.5 ayuda a formar ideas de la situación. Piense en una ex-
+periencia de su vida en la que jaló un objeto a través del piso con una soga o cuerda.
+Categorizar Se aplica una fuerza sobre un objeto, un desplazamiento del objeto y el 
+ángulo entre los dos vectores, de modo que este ejemplo se clasifica como un problema 
+de sustitución. La aspiradora se identifica como el sistema.
+Aplique la definición de trabajo (ecuación 7.1): 
+   130 J 
+W F ¢r cos u 150.0 N21 3.00 m21 cos 30.0°2
+Observe en esta situación que la fuerza normal n
+S
+ y la gravitacional F
+S
+g  m g
+S  no realizan trabajo sobre la aspiradora porque 
+estas fuerzas son perpendiculares a su desplazamiento.
+ Sección 7.3  Producto escalar de dos vectores  167
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 7.5
+El trabajo es un escalar
+Aunque la ecuación 7.3 define 
+el trabajo en términos de dos 
+vectores, el trabajo es un escalar; 
+no hay dirección asociada con 
+él. Todas las clases de energía y  
+de transferencia de energía son 
+escalares. Este hecho es una 
+gran ventaja de la aproximación 
+de energía, ¡porque no se 
+necesitan cálculos vectoriales!
+1
+Producto escalar de  
+dos vectores  
+cualesquiera A
+S
+ y B
+S
+Figura 7.6 El producto escalar 
+A
+S
+  B
+S
+ es igual a la magnitud de A
+S
+ 
+multiplicada por B cos V, que es la 
+proyección de B
+S
+ sobre A
+S
+.
+1 Este enunciado es equivalente a afirmar que A
+S
+  B
+S
+ es igual al producto de la magnitud de B
+S
+ y la proyec-
+ción de A
+S
+ sobre B
+S
+.
+2 En el capítulo 11 se verá otra forma de combinar vectores que resulta ser útil en física y no es conmu-
+tativa.
+mg
+30.0
+50.0 N
+n
+
+B
+B cos 
+.  =  AB cosBA
+A
+V
+V
+V
+Figura 7.5 (Ejemplo 7.1) Una 
+aspiradora se jala con un ángulo de 
+30.0° de la horizontal.
+7.3 Producto escalar de dos vectores
+Debido a la manera en que los vectores fuerza y desplazamiento se combinan en la ecuación 
+7.1, es útil aplicar una herramienta matemática conveniente denominada producto escalar 
+de dos vectores. Este producto escalar de los vectores A
+S
+ y B
+S
+ se escribe como A
+S
+  B
+S
+ (Debido 
+al símbolo punto, con frecuencia al producto escalar se le llama producto punto.)
+El producto escalar de dos vectores cualesquiera A
+S
+ y B
+S
+ es una cantidad escalar igual al 
+producto de las magnitudes de los dos vectores y el coseno del ángulo V entre ellos:
+ A
+S
+# B
+S
+AB cos u   (7.2)
+Como es el caso con cualquier multiplicación, A
+S
+ y B
+S
+ no necesitan tener las mismas uni-
+dades.
+Al comparar esta definición con la ecuación 7.1, esta ecuación se expresa como un 
+producto escalar:
+ W F ¢r cos u F
+S
+# ¢r
+S
+  (7.3)
+En otras palabras, F
+S
+  $r
+S
+ es una notación abreviada de F $r cos V.
+Antes de continuar con el análisis del trabajo, se investigan algunas propiedades del 
+producto punto. La figura 7.6 muestra dos vectores A
+S
+ y B
+S
+ y el ángulo V entre ellos, que se 
+aplica en la definición del producto punto. En la figura 7.6, B cos V es la proyección de B
+S
+ 
+sobre A
+S
+. Debido a eso, la ecuación 7.2 significa que A
+S
+  B
+S
+ es el producto de la magnitud 
+de A
+S
+ y la proyección de B
+S
+ sobre A
+S
+.1
+Del lado derecho de la ecuación 7.2, también se ve que el producto escalar es conmu-
+tativo.2 Esto es,
+A
+S
+# B
+S
+B
+S
+# A
+S
+Por último, el producto escalar obedece la ley distributiva de la multiplicación , de 
+este modo
+A
+S
+# 1B
+S
+C
+S
+2 A
+S
+# B
+S
+  A
+S
+# C
+S
+
+168 Capítulo 7  Energía de un sistema
+El producto punto es simple de evaluar a partir de la ecuación 7.2 cuando A
+S
+ es 
+perpendicular o paralelo a B
+S
+. Si A
+S
+ es perpendicular a B
+S
+ (V  90°), en tal caso A
+S
+  B
+S
+ 
+ 0. (La igualdad A
+S
+  B
+S
+  0 también se cumple en el caso más trivial en el que A
+S
+ o B
+S
+  
+es cero.) Si el vector A
+S
+ es paralelo al vector B
+S
+ y los dos apuntan en la misma dirección  
+(V  0), por lo tanto A
+S
+  B
+S
+  AB. Si el vector A
+S
+ es paralelo al vector B
+S
+ pero los dos apuntan 
+en direcciones opuestas (V  180°), en consecuencia A
+S
+  B
+S
+  AB. El producto escalar es 
+negativo cuando 90°  V  180°.
+Los vectores unitarios iˆ, jˆ y kˆ, que se definieron en el capítulo 3, se encuentran en las 
+direcciones x, y y z positivas, respectivamente, de un sistema coordenado de mano derecha. 
+Por lo tanto, se sigue de la definición de A
+S
+  B
+S
+ que los productos escalares de estos vectores 
+unitarios son
+ iˆ # iˆ jˆ # jˆ kˆ # kˆ 1  (7.4)
+ iˆ # jˆ iˆ # kˆ jˆ # kˆ 0  (7.5)
+ Las ecuaciones 3.18 y 3.19 establecen que dos vectores A
+S
+ y B
+S
+ se expresan en forma de 
+vector unitario como
+B
+S
+Bx iˆ By jˆ Bzkˆ
+A
+S
+Ax iˆ Ay jˆ Azkˆ
+Con la información que se proporciona en las ecuaciones 7.4 y 7.5 se muestra que el pro-
+ducto escalar de A
+S
+ y B
+S
+ se reduce a
+ A
+S
+# B
+S
+AxBx AyBy AzBz   (7.6)
+(Los detalles de la deducción se le dejan en el problema 5 al final del capítulo.) En el caso 
+especial en el que 
+A
+S
+  B
+S
+, se ve que
+A
+S
+# A
+S
+Ax
+2 Ay
+2 Az
+2 A2
+Pregunta rápida 7.3 ¿Cuál de los siguientes enunciados es verdadero respecto a la 
+correspondencia entre el producto punto de dos vectores y el producto de las magnitu-
+des de los vectores? a) 
+A
+S
+  B
+S
+ es mayor que AB. b) A
+S
+  B
+S
+ es menor que AB. c) A
+S
+  B
+S
+ podría  
+ser mayor o menor que AB, dependiendo del ángulo entre los vectores. d) A
+S
+  B
+S
+ podría ser  
+igual a AB.
+Productos punto de 
+vectores unitarios
+0
+EJEMPLO 7.2 El producto escalar
+Los vectores A
+S
+ y B
+S
+ se conocen por A
+S
+  2 iˆ  3 jˆ y B
+S
+   iˆ  2 jˆ.
+A) Determine el producto escalar A
+S
+  B
+S
+.
+SOLUCIÓN
+Conceptualizar No hay sistema físico a imaginar aquí. En vez de ello, es un ejercicio matemático que involucra dos vec-
+tores.
+Categorizar Puesto que se tiene una definición para el producto escalar, este ejemplo se clasifica como un problema de 
+sustitución.
+Sustituya las expresiones vectoriales específicas para 
+A
+S
+ y B
+S
+: 
+2 112 4 102 3 102 6 112 26 4
+2 iˆ iˆ 2 iˆ 2 jˆ 3 jˆ iˆ 3 jˆ 2 jˆ
+A
+S
+B
+S
+12 iˆ 3 jˆ 21 iˆ 2 jˆ 2
+Se obtiene el mismo resultado cuando se aplica directamente la ecuación 7.6, donde Ax  2, Ay  3, Bx  1 y By  2.
+
+B) Encuentre el ángulo V entre A
+S
+ y B
+S
+.
+SOLUCIÓN
+Evalúe las magnitudes de A
+S
+ y B
+S
+ con el teorema de Pitágoras:
+Aplique la ecuación 7.2 y el resultado del inciso (A) para en-
+contrar el ángulo:
+EJEMPLO 7.3 Trabajo consumido por una fuerza constante
+Una partícula móvil en el plano xy se somete a un desplazamiento conocido por $r
+S
+  (2.0 iˆ  3.0 jˆ) m cuando una fuerza 
+constante F
+S
+  (5.0 iˆ  2.0 jˆ) N actúa sobre la partícula.
+A) Calcule las magnitudes de la fuerza y el desplazamiento de la partícula.
+SOLUCIÓN
+Conceptualizar Aunque este ejemplo es un poco más físico que el anterior, en cuanto que identifica una fuerza y un des-
+plazamiento, es similar en términos de su estructura matemática.
+Categorizar Ya que se proporcionan dos vectores y se pide encontrar sus magnitudes, este ejemplo se clasifica como un 
+problema de sustitución.
+Aplique el teorema de Pitágoras para encontrar las mag-
+nitudes de la fuerza y el desplazamiento:
+B) Calcule el trabajo consumido por F
+S
+ en la partícula.
+SOLUCIÓN
+Sustituya las expresiones para F
+S
+ y $r
+S
+ en la ecuación 7.3 
+y aplique las ecuaciones 7.4 y 7.5:
+ Sección 7.4  Trabajo consumido por una fuerza variable  169
+7.4  Trabajo consumido por una fuerza variable
+Considere una partícula que se desplaza a lo largo del eje x bajo la acción de una fuerza 
+que varía con la posición. La partícula se desplaza en la dirección de x creciente, desde x  
+xi a x  xf. En tal situación, no se aplica W  F $r cos V para calcular el trabajo consumido 
+por la fuerza, porque esta correspondencia sólo se aplica cuando F
+S
+ es constante en mag-
+nitud y dirección. Sin embargo, si piensa que la partícula se somete a un desplazamiento 
+muy pequeño $x, como se muestra en la figura 7.7a, la componente x de la fuerza, Fx, es 
+aproximadamente constante en este intervalo pequeño; para este desplazamiento peque-
+ño, se puede aproximar el trabajo invertido en la partícula mediante la fuerza como
+W  F
+x $x
+que es el área del rectángulo sombreado en la figura 7.7a. Si toma en cuenta Fx en función 
+de la curva x dividida en un gran número de tales intervalos, el trabajo total consumido por 
+B Bx
+2 By
+2 1 122 1222 5
+AA x
+2 Ay
+2 1222 1322 13
+u cos 1 4
+65
+60.3°
+cos u A
+S
+B
+S
+AB
+4
+13 5
+4
+65
+¢r 1¢x22 1¢y 22 12.022 13.022 3.6 m
+F Fx
+2 Fy
+2 15.022 12.022 5.4 N 
+310 0 0 6 4 N # m 16 J 
+15.0 iˆ 2.0 iˆ 5.0 iˆ 3.0 jˆ 2.0 jˆ 2.0 iˆ 2.0 jˆ 3.0 jˆ 2 N # m
+W F
+S
+¢r
+S
+31 5.0 iˆ 2.0 jˆ 2 N 43 1 2.0 iˆ 3.0 jˆ 2 m 4
+
+170 Capítulo 7  Energía de un sistema
+el desplazamiento desde xi a xf es aproximadamente igual a la suma de un gran número 
+de tales términos:
+W
+xf
+xi
+Fx ¢x
+Si se permite que el tamaño de los desplazamientos pequeños se aproxime a cero, el nú-
+mero de términos en la suma aumenta sin límite, pero el valor de la suma se aproxima a 
+un valor definido que es igual al área limitada por la curva F
+x y el eje x:
+lím
+¢xS0
+ 
+xf
+xi
+Fx ¢x
+xf
+xi
+Fx dx
+En consecuencia, el trabajo invertido por Fx en la partícula conforme se traslada de xi a xf 
+se puede expresar como
+ W
+xf
+xi
+Fx dx   (7.7)
+Esta ecuación se reduce a la ecuación 7.1 cuando la componente Fx  F cos V es cons-
+tante.
+Si más de una fuerza actúa sobre un sistema y el sistema se puede modelar como una partícula, 
+el trabajo total consumido en el sistema es justo el trabajo invertido por la fuerza neta. Si 
+la fuerza neta en la dirección x se expresa como h Fx, el trabajo total, o trabajo neto, consu-
+mido cuando la partícula se traslada de xi a xf es
+WW neto
+xf
+xi
+1 Fx2dx
+Para el caso general de una fuerza neta h F
+S
+ cuya magnitud y dirección puede variar, se 
+aplica el producto escalar,
+ WW neto 1 F
+S
+2 d r
+S
+  (7.8)
+donde la integral se calcula sobre la trayectoria que toma la partícula a través del espacio.
+Si no es posible modelar el sistema como una partícula (por ejemplo, si el sistema con-
+siste de múltiples partículas que se mueven unas respecto de otras), no se puede usar la 
+ecuación 7.8, porque fuerzas diferentes sobre el sistema pueden moverse a través de dife-
+rentes desplazamientos. En este caso, se debe evaluar el trabajo invertido por cada fuerza 
+por separado y después sumar algebraicamente los trabajos para encontrar el trabajo neto 
+invertido en el sistema.
+Figura 7.7 a) El trabajo 
+consumido en una partícula 
+por la componente de fuerza Fx 
+para el desplazamiento pequeño 
+$x es F
+x $x, que es igual al área 
+del rectángulo sombreado. El 
+trabajo total consumido por 
+el desplazamiento de x
+i a xf 
+es aproximadamente igual a 
+la suma de las áreas de todos 
+los rectángulos. b) El trabajo 
+invertido por la componente F
+x 
+de la fuerza variable cuando la 
+partícula se traslada de x
+i a xf es 
+exactamente igual al área bajo esta 
+curva.
+EJEMPLO 7.4 Cálculo del trabajo total a partir de una gráfica
+Una fuerza que actúa sobre una partícula varía con x como se muestra en la figura 
+7.8. Calcule el trabajo consumido por la fuerza en la partícula conforme se traslada 
+de x  0 a x  6.0 m.
+SOLUCIÓN
+Conceptualizar Considere una partícula sometida a la fuerza de la figura 7.8. Obser-
+ve que la fuerza permanece constante a medida que la partícula se traslada a través de 
+los primeros 4.0 m y después disminuye linealmente a cero en 6.0 m.
+Categorizar Ya que la fuerza varía durante todo el movimiento de la partícula, se 
+deben aplicar las técnicas para el trabajo invertido por fuerzas variables. En este caso, 
+se aplica la representación gráfica de la figura 7.8 para evaluar el trabajo consumido.
+Analizar El trabajo consumido por la fuerza es igual al área bajo la curva de x
+  0 
+a x  6.0 m. Esta área es igual al área de la sección rectangular de  hasta  más el 
+área de la sección triangular de  hasta .
+1 23456
+x (m)0
+5
+Fx (N)
+
+
+Figura 7.8 (Ejemplo 7.4) La fuerza 
+que actúa sobre una partícula es 
+constante para los primeros 4.0 m 
+de movimiento y después disminuye 
+linealmente con x de x
+  4.0 m a  
+x  6.0 m. El trabajo neto invertido 
+por esta fuerza es el área bajo la curva.
+a)
+Fx
+Área  =  A = Fx x
+Fx
+xxfxi
+x
+b)
+Fx
+xxfxi
+Trabajo
+$
+$$
+
+Evalúe el área del rectángulo: W 15.0 N21 4.0 m2 20 J
+Hallar el valor numérico del área del triángulo: W 1
+2 15.0 N21 2.0 m2 5.0 J
+Encuentre el trabajo total consumido por la fuerza en la partícula: W WW 20 J 5.0 J  25 J
+Finalizar Ya que la gráfica de la fuerza consiste de líneas rectas, se pueden usar reglas para la búsqueda de las áreas de 
+formas geométricas simples para evaluar el trabajo total invertido en este ejemplo. En un caso en el que la fuerza no varíe 
+linealmente, tales reglas no se pueden aplicar y la función fuerza se debe integrar como en las ecuaciones 7.7 o 7.8.
+ Sección 7.4  Trabajo consumido por una fuerza variable  171
+1 Fuerza de resorte
+Figura 7.9 La fuerza que ejerce un resorte sobre un bloque varía con la posición x del bloque en relación 
+con la posición de equilibrio x  0. a) Cuando x es positivo (resorte estirado), la fuerza del resorte se 
+dirige hacia la izquierda. b) Cuando x es cero (longitud natural del resorte), la fuerza del resorte es cero. 
+c) Cuando x es negativo (resorte comprimido), la fuerza del resorte se dirige hacia la derecha. d) Gráfica 
+de Fs en función de x para el sistema bloque–resorte. El trabajo invertido por la fuerza del resorte en el 
+bloque cuando se traslada desde xmáx a 0 es el área del triángulo sombreado, 1
+2kx 2
+máx.
+Trabajo consumido en un resorte
+En la figura 7.9 se muestra un modelo de sistema físico común para el que la fuerza varía 
+con la posición. Un bloque sobre una superficie horizontal sin fricción se conecta a un 
+resorte. Para muchos resortes, si el resorte está estirado o comprimido una distancia pe-
+queña desde su configuración sin estirar (en equilibrio), ejerce en el bloque una fuerza 
+que se puede representar matemáticamente como
+ 
+Fs kx   (7.9)
+donde x es la posición del bloque en relación con su posición de equilibrio ( x  0) y k 
+es una constante positiva llamada constante de fuerza o constante de resorte del resorte. 
+b)
+Fs  0
+x  0
+x
+c)
+x
+x
+Fs es positivo.
+  x es negativo.
+Fs
+x0
+kx máx
+xmáx
+Fs  kx
+d)
+Área   kx 2máx
+1
+2
+a)
+x
+x  0 Fs es negativo.
+  x es positivo.
+x
+x
+
+172 Capítulo 7  Energía de un sistema
+En otras palabras, la fuerza que se requiere para estirar o comprimir un resorte es pro-
+porcional a la cantidad de estiramiento o compresión x. Esta ley de fuerza para resortes 
+se conoce como ley de Hooke . El valor de k es una medida de la rigidez del resorte. Los 
+resortes rígidos tienen grandes valores k, y los resortes suaves tienen pequeños valores k. 
+Como se puede ver de la ecuación 7.9, las unidades de k son Nm.
+La forma vectorial de la ecuación 7.9 es
+ F
+S
+s Fs iˆ kx iˆ  (7.10)
+donde el eje x se eligió en la dirección de extensión o compresión del resorte.
+El signo negativo en las ecuaciones 7.9 y 7.10 significa que la fuerza que ejerce el resorte 
+siempre tiene una dirección opuesta al desplazamiento de equilibrio. Cuando x  0, como 
+en la figura 7.9a, de modo que el bloque está a la derecha de la posición de equilibrio, la 
+fuerza del resorte se dirige hacia la izquierda, en la dirección x negativa. Cuando x  0, 
+como en la figura 7.9c, el bloque está a la izquierda del equilibrio y la fuerza del resorte se 
+dirige hacia la derecha, en la dirección x positiva. Cuando x  0, como en la figura 7.9b, 
+el resorte no está estirado y F
+s  0. Puesto que la fuerza del resorte siempre actúa hacia la 
+posición de equilibrio (x  0), a veces se le llama fuerza de restitución.
+Si el resorte se comprime hasta que el bloque está en el punto xmáx y después se libera, 
+el bloque se traslada de xmáx a través de cero hasta xmáx. Después invierte la dirección, 
+regresa a xmáx y continúa oscilando de ida y vuelta.
+Suponga que el bloque se empuja hacia la izquierda a una posición xmáx y después se 
+libera. Identifique el bloque como el sistema y calcule el trabajo Ws invertido por la fuerza 
+del resorte en el bloque conforme éste se traslada de xi  xmáx a xf  0. Al aplicar la ecua-
+ción 7.8 y suponer que el bloque se puede modelar como una partícula, se obtiene
+ Ws F
+S
+s # dr
+S
+xf
+xi
+1 kx iˆ 2 # 1dx iˆ 2
+0
+xmáx
+1 kx 2dx 1
+2kx2
+máx  (7.11)
+donde se aplicó la integral dxndx  xn1/(n  1) con n  1. El trabajo consumido por la 
+fuerza del resorte es positivo porque la fuerza está en la misma dirección que su desplaza-
+miento (ambos hacia la derecha). Puesto que el bloque llega en x  0 con cierta rapidez, 
+continuará móvil hasta que alcance una posición xmáx. El trabajo invertido por la fuerza 
+del resorte sobre el bloque conforme se traslada de xi  0 a x f  xmáx es W s 1
+2 kx 2
+máx 
+porque para esta parte del movimiento la fuerza del resorte es hacia la izquierda y su des-
+plazamiento es hacia la derecha. En consecuencia, el trabajo neto invertido por la fuerza 
+del resorte en el bloque conforme se traslada de x
+i  xmáx a xf  xmáx es cero.
+La figura 7.9d es una gráfica de Fs en función de x. El trabajo calculado en la ecuación 
+7.11 es el área del triángulo sombreada, que corresponde al desplazamiento desde xmáx 
+hasta 0. Ya que el triángulo tiene base xmáx y altura kxmáx, su área es 1
+2 kx 2
+máx, el trabajo inver-
+tido por el resorte que se proporciona por la ecuación 7.11.
+Si el bloque se somete a un desplazamiento arbitrario desde x  xi hasta x  xf, el trabajo 
+invertido por la fuerza del resorte en el bloque es
+ Ws
+xf
+xi
+1 kx 2dx 1
+2kxi
+2 1
+2
+kxf
+2  (7.12)
+De la ecuación 7.12 se ve que el trabajo invertido por la fuerza del resorte es cero para 
+cualquier movimiento que termine donde comenzó ( xi  xf). En el capítulo 8 se usará 
+este resultado importante cuando se describa con mayor detalle el movimiento de este 
+sistema.
+Las ecuaciones 7.11 y 7.12 describen el trabajo empleado por el resorte sobre el bloque. 
+Ahora considere el trabajo invertido en el bloque por un agente externo conforme el agente 
+aplica una fuerza sobre el bloque y el bloque se mueve muy lentamente de x
+i  xmáx a xf  0,  
+como en la figura 7.10. Se puede calcular este trabajo al notar que, en cualquier valor de 
+la posición, la fuerza aplicada F
+S
+ap es igual en magnitud y opuesta en dirección a la fuerza 
+del resorte F
+S
+s, de modo que F
+S
+ap  Fap iˆ   F
+S
+s  (kx iˆ)  kx iˆ. Debido a eso, el trabajo 
+realizado por esta fuerza aplicada (el agente externo) en el sistema bloque–resorte es
+Trabajo consumido  
+por un resorte
+0
+
+Wap F
+S
+ap dr
+S
+xf
+xi
+1kx iˆ21 dx iˆ2
+0
+xmáx
+kx dx 1
+2kx2
+máx
+Este trabajo es igual al negativo del trabajo invertido por la fuerza del resorte para este 
+desplazamiento (ecuación 7.11). El trabajo es negativo porque el agente externo debe 
+empujar hacia adentro sobre el resorte para evitar que se expanda y esta dirección es 
+opuesta a la dirección del desplazamiento del punto de aplicación de la fuerza conforme 
+el bloque se traslada desde x
+máx a 0.
+Para un desplazamiento arbitrario del bloque, el trabajo consumido en el sistema por 
+el agente externo es
+ Wap
+xf
+xi
+kx dx 1
+2kxf 2 1
+2
+kxi 2  (7.13)
+Advierta que esta ecuación es el negativo de la ecuación 7.12.
+Pregunta rápida 7.4 Un dardo se carga en una pistola de juguete, la cual se activa por 
+un resorte al empujarlo hacia adentro una distancia x. Para la carga siguiente, el resorte 
+se comprime una distancia 2x. ¿Cuánto trabajo se requiere para cargar el segundo dardo 
+en comparación con el que se requiere para cargar el primero? a) cuatro veces más, b) 
+dos veces más, 
+c) el mismo, d) la mitad, e) una cuarta parte.
+ Sección 7.4  Trabajo consumido por una fuerza variable  173
+Figura 7.10 Un bloque se 
+traslada desde xi  xmáx a xf  0 
+sobre una superficie sin fricción 
+conforme se aplica una fuerza 
+F
+S
+ap al bloque. Si el proceso se 
+realiza muy lentamente, la fuerza 
+aplicada es igual en magnitud y 
+opuesta en dirección a la fuerza 
+del resorte en todo momento.
+EJEMPLO 7.5 Medición de k para un r esorte
+Una técnica común aplicada para medir la constante de fuerza de un resorte se demues-
+tra por la configuración de la figura 7.11. El resorte cuelga verticalmente (figura 7.11a) 
+y un objeto de masa m se une a su extremo inferior. Bajo la acción de la “carga” mg, el 
+resorte se estira una distancia d desde su posición de equilibrio (figura 7.11b).
+A) Si un resorte se estira 2.0 cm por un objeto suspendido que tiene una masa de 0.55 
+kg, ¿cuál es la constante de fuerza del resorte?
+SOLUCIÓN
+Conceptualizar Considere la figura 7.11b, que muestra lo que le ocurre al resorte 
+cuando el objeto se une a él. Simule esta situación al colgar un objeto sobre una banda 
+elástica.
+Categorizar El objeto en la figura 7.11b no acelera, de modo que se le modela como 
+una partícula en equilibrio.
+Analizar Puesto que el objeto está en equilibrio, la fuerza neta sobre él es cero y la 
+fuerza hacia arriba del resorte equilibra la fuerza gravitacional hacia abajo m 
+g
+S
+ (figura 
+7.11c).
+Al aplicar la ley de Hooke produce  F
+S
+s   kd  mg y al resolver 
+para k:
+B) ¿Cuánto trabajo invierte el resorte sobre el objeto conforme se estira esta distancia?
+SOLUCIÓN
+Aplique la ecuación 7.12 para encontrar el trabajo invertido 
+por el resorte sobre el objeto:
+s
+mg
+d
+c)b)a)
+F
+xi =  = 0 xf–x máx
+Fap Fs
+Figura 7.11 (Ejemplo 7.5) 
+Determinación de la constante de 
+fuerza k de un resorte. La elongación 
+d la produce un objeto unido, que 
+tiene un peso mg.
+k
+mg
+d
+10.55 kg21 9.80 m>s2 2
+2.0 10 2 m  2.7 10 2 N>m
+  5.4 10 2 J 
+Ws 0 1
+2kd2 1
+2
+12.7 10 2 N>m 21 2.0 10 2 m 22
+
+174 Capítulo 7  Energía de un sistema
+Finalizar A medida que el objeto se mueve a través de los 2.0 cm de distancia, la fuerza gravitacional también realiza tra-
+bajo sobre él. Este trabajo es positivo porque la fuerza gravitacional es hacia abajo y así es el desplazamiento del punto de 
+aplicación de esta fuerza. Respecto a la ecuación 7.12 y la discusión posterior, ¿esperaría que el trabajo realizado por la 
+fuerza gravitacional sea 5.4  10
+2 J? Descúbralo.
+Evalúe el trabajo invertido por la fuerza gravitacional 
+en el objeto:
+Si usted esperaba que el trabajo invertido por la gravedad simplemente fuera el invertido por el resorte con un signo po-
+sitivo, ¡es posible que le sorprenda este resultado! Para comprender por qué éste no es el caso, es necesario explorar más, 
+como se hace en la siguiente sección.
+Energía cinética
+0
+Figura 7.12 Un objeto que se 
+somete a un desplazamiento  
+$r
+S
+  $x iˆ y un cambio en 
+velocidad bajo la acción de una 
+fuerza neta constante h 
+F
+S
+.
+7.5  Energía cinética y el teorema  
+trabajo–energía cinética
+Ya se investigó el trabajo y se le identificó como un mecanismo de transferencia de energía 
+en un sistema. Un resultado posible de hacer trabajo sobre un sistema es que el sistema 
+cambia su rapidez. En esta sección se investiga esta situación y se introduce el primer tipo 
+de energía que un sistema puede tener, llamada energía cinética.
+Considere un sistema que consiste de un solo objeto. La figura 7.12 muestra un bloque 
+de masa m que se mueve a través de un desplazamiento dirigido hacia la derecha bajo la 
+acción de una fuerza neta h F
+S
+, también dirigida hacia la derecha. Se sabe de la segunda 
+ley de Newton que el bloque se mueve con una aceleración a
+S
+. Si el bloque (y por tanto la 
+fuerza) se mueven a través de un desplazamiento $r
+S
+  $x iˆ  (xf   xi) iˆ, el trabajo neto 
+realizado sobre el bloque por la fuerza neta h F
+S
+ es
+ Wneto
+xf
+xi
+F dx  (7.14)
+Al aplicar la segunda ley de Newton, se sustituye para la magnitud de la fuerza neta h F  ma 
+y después se realizan las siguientes manipulaciones de la regla de la cadena en el integrando:
+ 
+Wneto
+1
+2mvf 2 1
+2
+mvi 2 
+Wneto
+xf
+xi
+ma dx
+xf
+xi
+m dv
+dt  dx
+xf
+xi
+m dv
+dx  dx
+dt  dx
+vf
+vi
+mv dv  (7.15)
+donde vi es la rapidez del bloque cuando está en x  xi y vf es su rapidez en xf.
+La ecuación 7.15 se generó por la situación específica de movimiento unidimensional, 
+pero es un resultado general. Dice que el trabajo invertido por la fuerza neta en una par-
+tícula de masa m es igual a la diferencia entre los valores inicial y final de una cantidad  
+1
+2mv 2. La cantidad 1
+2mv 2 representa la energía asociada con el movimiento de la partícula. 
+Esta cantidad es tan importante que se le ha dado un nombre especial, energía cinética:
+ K 1
+2mv2   (7.16)
+La energía cinética es una cantidad escalar y tiene las mismas unidades que el trabajo. Por 
+ejemplo, un objeto de 2.0 kg que se mueve con una rapidez de 4.0 ms tiene una energía 
+cinética de 16 J. La tabla 7.1 menciona las energías cinéticas de diferentes objetos.
+La ecuación 7.15 afirma que el trabajo realizado en una partícula por una fuerza neta h 
+F
+S
+ que actúa sobre él es igual al cambio en energía cinética de la partícula. Con frecuencia 
+es conveniente escribir la ecuación 7.15 en la forma
+ Wneto Kf Ki ¢K  (7.17)
+Otra forma de escribirla es Kf  Ki  Wneto, que dice que la energía cinética final de un 
+objeto es igual a su energía cinética inicial más el cambio debido al trabajo neto invertido 
+sobre él.
+vf
+F
+vi
+x
+m
+$
+3
+ 10.55 kg21 9.80 m>s2 21 2.0 10 2 m2 1.1 10 1 J
+W F
+S
+¢r
+S
+1mg 21 d2 cos 0 mgd
+
+La ecuación 7.17 se generó al suponer que se realiza trabajo en una partícula. También 
+se podría hacer trabajo sobre un sistema deformable, en el que las partes del sistema se 
+muevan unas respecto de otras. En este caso, también se encuentra que la ecuación 7.17  
+es válida en tanto el trabajo neto se encuentre al sumar los trabajos invertidos por cada 
+fuerza y sumarlos, tal como se discutió anteriormente en relación con la ecuación 7.8.
+La ecuación 7.17 es un resultado importante conocido como teorema trabajo–energía 
+cinética:
+Cuando se consume trabajo en un sistema, y el único cambio en el sistema es en 
+su rapidez, el trabajo neto consumido en el sistema es igual al cambio en energía 
+cinética del sistema.
+El teorema trabajo–energía cinética indica que la rapidez de un sistema aumenta si el 
+trabajo neto invertido sobre él es positivo porque la energía cinética final es mayor que la 
+energía cinética inicial. La rapidez disminuye si el trabajo neto es negativo porque la energía 
+cinética final es menor que la energía cinética inicial.
+Puesto que hasta el momento sólo se ha investigado movimiento traslacional a través 
+del espacio, se llegó al teorema trabajo–energía cinética al analizar situaciones que invo-
+lucran movimiento traslacional. Otro tipo de movimiento es el movimiento rotacional, en el 
+que un objeto gira en torno a un eje. Este tipo de movimiento se estudiará en el capítulo 
+10. El teorema trabajo–energía cinética también es válido para sistemas que se someten a 
+un cambio en la rapidez rotacional debido al trabajo realizado sobre el sistema. El molino 
+de viento en la fotografía al principio de este capítulo es un ejemplo de trabajo que causa 
+movimiento rotacional.
+El teorema trabajo–energía cinética pondrá en claro un resultado visto anteriormente 
+en este capítulo que puede parecer extraño. En la sección 7.4 se llegó a un resultado de 
+trabajo neto realizado cero cuando un resorte empujó un bloque de x
+i  xmáx a xf  xmáx. 
+Note que, ya que la rapidez del bloque cambia continuamente, puede parecer complicado 
+analizar este proceso. Sin embargo, la cantidad $K en el teorema trabajo–energía cinética 
+sólo se refiere a los puntos inicial y final para las magnitudes de velocidad; no depende de 
+los detalles de la trayectoria seguida entre dichos puntos. Por lo tanto, dado que la rapidez 
+es cero tanto en el punto inicial como en el final del movimiento, el trabajo neto invertido 
+en el bloque es cero. Con frecuencia este concepto de independencia con la trayectoria 
+se verá en planteamientos similares de problemas.
+Además se regresa al final del ejemplo 7.5 para el misterio en la etapa finalizar. ¿Por qué 
+el trabajo invertido por la gravedad no fue sólo el trabajo consumido por el resorte con 
+un signo positivo? Note que el trabajo invertido por la gravedad es mayor que la magnitud 
+del trabajo consumido por el resorte. Por lo tanto, el trabajo total invertido por todas las 
+fuerzas en el objeto es positivo. Ahora piense cómo crear la situación en que las únicas fuer- 
+zas sobre el objeto son la fuerza del resorte y la fuerza gravitacional. Debe soportar el ob-
+jeto en el punto más alto y después quitar su mano y dejar que el objeto caiga. Si lo hace,  
+ Sección 7.5  Energía cinética y el teorema trabajo–energía cinética  175
+1 Teorema trabajo–energía 
+cinética
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 7.6
+Condiciones para el teorema  
+trabajo–energía cinética
+El teorema trabajo–energía 
+cinética es importante pero 
+limitado en su aplicación; no es 
+un principio general. En muchas 
+situaciones, otros cambios en 
+el sistema ocurren además 
+de su rapidez, y existen otras 
+interacciones con el entorno 
+además del trabajo. Un principio 
+más general que involucra 
+energía es la conservación de 
+energía en la sección 8.1.
+PREVENCIÓN DE RIESGOS  
+OCULTOS 7.7
+El teorema trabajo–energía  
+cinética: rapidez, no velocidad
+El teorema trabajo–energía 
+cinética relaciona el trabajo con 
+un cambio en la rapidez de un 
+sistema, no con un cambio en 
+su velocidad. Por ejemplo, si un 
+objeto está en movimiento circular 
+uniforme, su rapidez es constante. 
+Aun cuando su velocidad cambie, 
+no se realiza trabajo sobre el 
+objeto por la fuerza que causa el 
+movimiento circular.
+TABLA 7.1
+Energías cinéticas de diferentes objetos
+Objeto Masa (kg) Rapidez (m s) Energía cinética (J)
+Tierra que orbita el Sol 5.98  1024 2.98  104 2.66  1033
+Luna que orbita la Tierra 7.35  1022 1.02  103 3.82  1028
+Cohete que se mueve con rapidez de escapea 500 1.12  104 3.14  1010
+Automóvil a 65 mih 2 000 29 8.4  105
+Atleta que corre 70 10 3 500
+Piedra que se deja caer desde 10 m 1.0 14 98
+Pelota de golf con rapidez terminal 0.046 44 45
+Gota de lluvia con rapidez terminal 3.5  105 9.0 1.4  103
+Molécula de oxígeno en aire 5.3  1026 500 6.6  1021
+a Rapidez de escape es la rapidez mínima que un objeto debe lograr cerca de la superficie de la Tierra para alejarse infinitamente de ésta.
+
+176 Capítulo 7  Energía de un sistema
+sabe que, cuando el objeto alcanza una posición 2.0 cm abajo de su mano, se estará mo-
+viendo, que es consistente con la ecuación 7.17. En el objeto se invierte trabajo neto po-
+sitivo y el resultado es que tiene una energía cinética conforme pasa a través del punto 
+2.0 cm. La única manera de evitar que el objeto tenga una energía cinética después de 
+moverse 2.0 cm es bajarlo lentamente con su mano. Sin embargo, después, existe una 
+tercera fuerza invirtiendo trabajo en el objeto, la fuerza normal de su mano. Si este 
+trabajo se calcula y suma al invertido por la fuerza del resorte y la fuerza gravitacional,  
+el trabajo neto invertido en el objeto es cero, que es consistente porque no es móvil en el 
+punto 2.0 cm.
+Antes se indicó que el trabajo se considera un mecanismo para la transferencia de 
+energía en un sistema. La ecuación 7.17 es un enunciado matemático de este concepto. 
+Cuando se invierte trabajo en un sistema W
+neto, el resultado es una transferencia de energía 
+a través de la frontera del sistema. El resultado en el sistema, en el caso de la ecuación 
+7.17, es un cambio $K de energía cinética. En la siguiente sección se investiga otro tipo 
+de energía que se puede almacenar en un sistema como resultado de realizar trabajo en 
+el sistema.
+Pregunta rápida 7.5 Se carga un dardo en una pistola de juguete, accionada por resorte, 
+al empujar el resorte hacia adentro una distancia x. Para la siguiente carga, el resorte se 
+comprime una distancia 2 x. ¿Qué tan rápido deja la pistola el segundo dardo, en com -
+paración con el primero? a) cuatro veces más rápido, 
+b) dos veces más rápido, c) la 
+misma, d) la mitad de rápido, e) un cuarto de rápido.
+EJEMPLO 7.6 Un bloque que se jala sobre una superficie sin fricción
+Un bloque de 6.0 kg, inicialmente en reposo, se jala hacia la derecha, a lo largo de una 
+superficie horizontal sin fricción, mediante una fuerza horizontal constante de 12 N. 
+Encuentre la rapidez del bloque después de que se ha movido 3.0 m.
+SOLUCIÓN
+Conceptualizar La figura 7.13 ilustra esta situación. Suponga que jala un carro de ju-
+guete a través de una mesa con una banda elástica horizontal unida al frente del carro. 
+La fuerza se mantiene constante al asegurar que la banda elástica estirada siempre 
+tiene la misma longitud.
+Categorizar Se podrían aplicar las ecuaciones de cinemática para determinar la res-
+puesta, pero practique la aproximación de energía. El bloque es el sistema y tres fuerzas 
+externas actúan en el sistema. La fuerza normal equilibra la fuerza gravitacional en el 
+bloque y ninguna de estas fuerzas que actúan verticalmente realiza trabajo sobre el bloque porque sus puntos de aplicación 
+se desplazan horizontalmente.
+Analizar La fuerza externa neta que actúa sobre el bloque es la fuerza horizontal de 12 N.
+Hallar el trabajo invertido por esta fuerza en el bloque: W
+F ¢x 112 N21 3.0 m2 36 J
+Use el teorema trabajo–energía para el bloque y note que su 
+energía cinética inicial es cero:
+Resuelva para vf: vf
+2W
+m
+2 136 J2
+6.0 kg  3.5 m>s
+Finalizar Le sería útil resolver este problema de nuevo, al representar el bloque como una partícula bajo una fuerza  
+neta para encontrar su aceleración y luego como una partícula bajo aceleración constante para encontrar su velocidad
+ 
+final.
+ 
+¿Qué pasaría si? Suponga que la magnitud de la fuerza en este ejemplo se duplica a F    2F. El bloque de 6.0 kg acelera 
+a 3.5 ms debido a esta fuerza aplicada mientras se mueve a través de un desplazamiento $x . ¿Cómo se compara el despla-
+zamiento $x  con el desplazamiento original $x?
+n
+F
+mg
+x
+vf
+$
+Figura 7.13 (Ejemplo 7.6) Bloque 
+que se jala hacia la derecha sobre una 
+superficie sin fricción mediante una 
+fuerza horizontal constante.
+W Kf Ki
+1
+2mvf 2 0
+
+Respuesta Si se jala más fuerte, el bloque debe acelerar a una cierta rapidez en una distancia más corta, así que se espera 
+que $x   $x. En ambos casos, el bloque experimenta el mismo cambio en energía cinética $K. Matemáticamente, a partir 
+del teorema trabajo–energía cinética, se encuentra que
+¢x¿ F
+F ¿ ¢x F
+2F ¢x 1
+2¢x
+W F ¿¢ x¿¢ K F ¢x
+y la distancia es más corta, como se sugiere por el argumento conceptual.
+EJEMPLO CONCEPTUAL 7.7 ¿La rampa reduce el trabajo requerido?
+Un hombre quiere cargar un refrigerador en una camioneta 
+con el uso de una rampa a un ángulo V, como se muestra en 
+la figura 7.14. Él afirma que se debe requerir menos trabajo 
+para cargar la camioneta si la longitud L de la rampa aumen-
+ta. ¿Esta afirmación es válida?
+SOLUCIÓN
+No. Suponga que el refrigerador se sube por la rampa en una 
+carretilla con rapidez constante. En este caso, para el sistema 
+del refrigerador y la carretilla, $K  0. La fuerza normal que 
+ejerce la rampa sobre el sistema se dirige 90° al desplazamien-
+to de su punto de aplicación y por lo tanto no realiza trabajo 
+sobre el sistema. Puesto que $K  0, el teorema trabajo–ener-
+gía cinética produce
+W
+neto  Wpor hombre  Wpor gravedad  0
+El trabajo invertido por la fuerza gravitacional es igual al producto del peso mg del sistema, la distancia L a través de la que 
+se desplaza el refrigerador y cos (V  90°). En consecuencia,
+Wpor hombre   Wpor gravedad   (mg)(L)[cos (V  90°)]
+     mgL sen V  mgh
+donde h  L sen V es la altura de la rampa. Por lo tanto, el hombre debe realizar la misma cantidad de trabajo mgh sobre 
+el sistema sin importar la longitud de la rampa. El trabajo sólo depende de la altura de la rampa. Aunque se requiere menos 
+fuerza con una rampa más larga, el punto de aplicación de dicha fuerza se mueve a través de un mayor desplazamiento.
+ Sección 7.6  Energía potencial de un sistema  177
+Figura 7.15 El trabajo invertido 
+por un agente externo en el 
+sistema del libro y la Tierra a 
+medida que el libro se levanta 
+lentamente desde una altura y
+i a 
+una altura yf es igual a mgyf  mgyi.
+7.6 Energía potencial de un sistema
+Hasta el momento en este capítulo se ha definido un sistema en general, pero la atención 
+se ha enfocado principalmente sobre partículas u objetos solos bajo la influencia de fuerzas 
+externas. Considere ahora sistemas de dos o más partículas u objetos que interactúan a 
+través de una fuerza que es interna al sistema. La energía cinética de tal sistema es la suma 
+algebraica de las energías cinéticas de todos los integrantes del sistema. Sin embargo, 
+puede haber sistemas en los que un objeto sea tan masivo que se pueda modelar como fijo 
+y su energía cinética sea despreciable. Por ejemplo, si se considera un sistema bola–Tierra 
+mientras la bola cae a la Tierra, la energía cinética del sistema se puede considerar sólo 
+como la energía cinética de la bola. La Tierra se mueve tan lentamente en este proceso 
+que se puede ignorar su energía cinética. Por otra parte, la energía cinética de un sistema 
+de dos electrones debe incluir las energías cinéticas de ambas partículas.
+Piense en un sistema que consiste de un libro y la Tierra, que interactúa a través de la 
+fuerza gravitacional. Se hace algo de trabajo sobre el sistema al levantar el libro lentamente 
+desde el reposo a través de una desplazamiento vertical $r
+S
+  (yf  yi) jˆ, como en la figura 
+7.15. De acuerdo con la discusión del trabajo como una transferencia de energía, este 
+trabajo invertido en el sistema debe aparecer como un aumento en energía del sistema. 
+yf
+yi
+r
+mg
+F
+$
+Física
+V
+h
+L
+Figura 7.14 (Ejemplo conceptual 7.7) Un refrigerador unido a 
+una carretilla con ruedas sin fricción se mueve por una rampa con 
+rapidez constante.
+
+178 Capítulo 7  Energía de un sistema
+El libro está en reposo antes de realizar el trabajo y está en reposo después de realizar el 
+trabajo. Por lo tanto, no hay cambio en la energía cinética del sistema.
+Puesto que el cambio de energía del sistema no es en la forma de energía cinética, debe 
+aparecer como alguna otra forma de almacenamiento de energía. Después de levantar el 
+libro, se le podría liberar y dejar que caiga de vuelta a la posición y
+i. Note que el libro (y, 
+por lo tanto, el sistema) ahora tiene energía cinética y su fuente está en el trabajo que se 
+hizo al levantar el libro. Mientras el libro estaba en el punto más alto, la energía del sistema 
+tenía el potencial para convertirse en energía cinética, pero no lo hizo hasta que al libro 
+se le permitió caer. En consecuencia, al mecanismo de almacenamiento de energía antes  
+de que el libro se libere se le llama energía potencial. Se encontrará que la energía poten-
+cial de un sistema sólo se asocia con tipos específicos de fuerzas que actúan entre integran-
+tes de un sistema. La cantidad de energía potencial en el sistema se determina mediante la 
+configuración del mismo. Mover los integrantes del sistema a diferentes posiciones o girarlos 
+cambia su configuración y por ende su energía potencial.
+Ahora deduzca una expresión para la energía potencial asociada con un objeto en cierta 
+ubicación sobre la superficie de la Tierra. Considere un agente externo que levanta un 
+objeto de masa m desde una altura inicial y
+i sobre el suelo a una altura final yf , como en  
+la figura 7.15. Se supone que el levantamiento se hace lentamente, sin aceleración, de 
+modo que la fuerza aplicada del agente se representa como igual en magnitud a la fuerza 
+gravitacional en el objeto: el objeto se modela como una partícula en equilibrio que se 
+mueve con velocidad constante. El trabajo invertido por el agente externo sobre el siste-
+ma (objeto y Tierra) conforme el objeto se somete a este desplazamiento hacia arriba, se 
+conoce por el producto de la fuerza aplicada hacia arriba F
+S
+ap y el desplazamiento hacia 
+arriba de esta fuerza, $r
+S
+  $y jˆ:
+ Wneto 1F
+S
+ap 2 # ¢r
+S
+1mg jˆ 2 # 31 yf yi 2 jˆ 4 mgyf mgyi  (7.18)
+donde este resultado es el trabajo neto invertido en el sistema porque la fuerza aplicada es 
+la única fuerza sobre el sistema desde el entorno. Advierta la similitud entre la ecuación 
+7.18 y la ecuación 7.15. En cada ecuación, el trabajo invertido en un sistema es igual a una 
+diferencia entre los valores final e inicial de una cantidad. En la ecuación 7.15, el trabajo 
+representa una transferencia de energía en el sistema y el incremento en energía del 
+sistema es cinética en forma. En la ecuación 7.18, el trabajo representa una transferencia 
+de energía al sistema y la energía del sistema aparece en una forma diferente, a lo que se 
+llamó energía potencial.
+En consecuencia, la cantidad mgy se puede identificar como la energía potencial gra-
+vitacional U
+g:
+ Ug  mgy (7.19)
+Las unidades de la energía potencial gravitacional son joules, las mismas unidades que el 
+trabajo y la energía cinética. La energía potencial, como el trabajo y la energía cinética, 
+es una cantidad escalar. Note que la ecuación 7.19 sólo es válida para objetos cerca de la 
+superficie de la Tierra, donde g es aproximadamente constante.
+3
+Al usar la definición de energía potencial gravitacional, la ecuación 7.18 ahora se puede 
+rescribir como
+ W neto  $Ug (7.20)
+que matemáticamente describe que el trabajo neto invertido en el sistema en esta situación 
+aparece como un cambio en la energía potencial gravitacional del sistema.
+La energía potencial gravitacional sólo depende de la altura vertical del objeto sobre 
+la superficie de la Tierra. La misma cantidad de trabajo se debe invertir sobre un sistema 
+objeto–Tierra ya sea que el objeto se levante verticalmente desde la Tierra o se empuje 
+desde el mismo punto hacia arriba de un plano inclinado sin fricción para terminar en 
+la misma altura. Este enunciado se verifica para una situación específica como empujar 
+un refrigerador sobre una rampa en el ejemplo conceptual 7.7. Se puede demostrar que 
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 7.8
+Energía potencial
+La frase energía potencial no 
+se refiere a algo que tenga el 
+potencial de convertirse en 
+energía. La energía potencial  
+es energía.
+PREVENCIÓN DE RIESGOS  
+OCULTOS 7.9
+La energía potencial pertenece a un 
+sistema
+La energía potencial siempre 
+se asocia con un sistema de dos 
+o más objetos en interacción. 
+Cuando un objeto pequeño se 
+mueve cerca de la superficie de 
+la Tierra bajo la influencia de la  
+gravedad, a veces se puede 
+hacer referencia a la energía 
+potencial “asociada con el 
+objeto” en lugar de “asociada 
+con el sistema”, que es lo más 
+apropiado, porque la Tierra no 
+se mueve significativamente. Sin 
+embargo, en el texto no se hará 
+alusión a la energía potencial 
+“del objeto” porque esta frase 
+ignora el papel de la Tierra.
+Energía potencial 
+gravitacional
+0
+3 La suposición de que g es constante es válida en tanto que el desplazamiento vertical del objeto sea pe-
+queño en comparación con el radio de la Tierra.
+
+este enunciado es verdadero en general al calcular el trabajo invertido en un objeto por 
+un agente que mueve el objeto a lo largo de un desplazamiento que tiene componentes 
+tanto vertical como horizontal:
+W
+neto 1F
+S
+ap 2 ¢r
+S
+1mg jˆ23 1 xf xi 2 iˆ 1yf yi 2 jˆ 4 mgy f mgy i
+donde no hay término que involucre a x en el resultado final porque jˆ  iˆ  0.
+Al resolver problemas, debe elegir una configuración de referencia para la cual la 
+energía potencial gravitacional del sistema se haga igual a algún valor de referencia, que 
+normalmente es cero. La elección de configuración de referencia es completamente arbi-
+traria porque la cantidad importante es la diferencia en energía potencial, y esta diferencia 
+es independiente de la elección de la configuración de referencia.
+Con frecuencia es conveniente elegir como la configuración de referencia para la ener-
+gía potencial gravitacional la configuración en la que un objeto está en la superficie de 
+la Tierra, pero esta elección no es esencial. Frecuentemente el enunciado del problema 
+sugiere aplicar una configuración conveniente.
+Pregunta rápida 7.6 Elija la respuesta correcta. La energía potencial gravitacional de un 
+sistema a) siempre es positiva, b) siempre es negativa, 
+c) puede ser negativa o positiva.
+ Sección 7.6  Energía potencial de un sistema  179
+EJEMPLO 7.8 El bolichista y el dedo lastimado
+Una bola de boliche sostenida por un bolichista descuidado se desliza de sus manos y cae sobre un dedo de su pie. Si elige 
+el nivel del suelo como el punto y  0 de su sistema coordenado, estime el cambio en energía potencial gravitacional del 
+sistema bola–Tierra mientras cae la bola. Repita el cálculo usando la coronilla de la cabeza del bolichista como el origen 
+de coordenadas.
+SOLUCIÓN
+Conceptualizar La bola de boliche cambia su posición vertical en relación con la superficie de la Tierra. Asociado con este 
+cambio de posición, hay un cambio en la energía potencial gravitacional del sistema.
+Categorizar Se evalúa un cambio de energía potencial gravitacional definido en esta sección, de modo que este ejemplo 
+se clasifique como un problema de sustitución.
+El enunciado del problema dice que la configuración de referencia del sistema bola–Tierra que corresponde a energía 
+potencial cero es cuando el punto más bajo de la bola está en el suelo. Para encontrar el cambio de energía del sistema, es 
+necesario estimar unos cuantos valores. Una bola de boliche tiene una masa de aproximadamente 7 kg, y la parte superior 
+del dedo del pie de una persona está aproximadamente a 0.03 m sobre el suelo. Además, se debe suponer que la bola cae 
+desde una altura de 0.5 m.
+Calcule la energía potencial gravitacional del sistema bola–
+Tierra justo antes de que la bola de boliche se libere:
+Calcule la energía potencial gravitacional del sistema bola–
+Tierra cuando la bola llega al dedo del bolichista:
+Evalúe el cambio en energía potencial gravitacional del sis-
+tema bola–Tierra:
+En este caso probablemente se conserve sólo un dígito debido a lo burdo de las estimaciones; en consecuencia, se estima que 
+el cambio en energía potencial gravitacional es    30 J   . El sistema tiene 30 J de energía potencial gravitacional antes de  
+que la bola inicie su caída y aproximadamente cero de energía potencial cuando la bola llega a la parte superior del dedo.
+El segundo caso indica que la configuración de referencia del sistema para energía potencial cero se elige cuando la 
+bola está en la cabeza del bolichista (aun cuando la bola nunca está en tal posición en su movimiento). Se estima que esta 
+posición es 1.50 m sobre el suelo.
+Calcule la energía potencial gravitacional del sistema bola–
+Tierra justo antes de que la bola de boliche se libere desde 
+su posición 1 m abajo de la cabeza del bolichista:
+Ui mgy i 17 kg21 9.80 m>s2 21 0.5 m2 34.3 J
+Uf mgy f 17 kg21 9.80 m>s2 21 0.03 m2 2.06 J
+¢Ug 2.06 J 34.3 J 32.24 J
+Ui mgy i 17 kg21 9.80 m>s2 21 1 m2 68.6 J
+
+180 Capítulo 7  Energía de un sistema
+Calcule la energía potencial gravitacional del sistema bola–
+Tierra cuando la bola llega al dedo del bolichista ubicado 
+1.47 m bajo la cabeza del bolichista:
+Evalúe el cambio en la energía potencial gravitacional del 
+sistema bola–Tierra:
+Este valor es el mismo que antes, como debe ser.
+Energía potencial elástica
+0
+Figura 7.16 a) Un resorte no deformado sobre una superficie horizontal sin fricción. b) Se empuja 
+un bloque de masa m contra el resorte y lo comprime una distancia x. La energía potencial elástica 
+se almacena en el sistema resorte–bloque. c) Cuando el bloque se libera desde el reposo, la energía 
+potencial elástica se transforma en energía cinética del bloque. Las gráficas de barras de energía a la 
+derecha de cada parte de la figura ayudan a seguir la pista de la energía en el sistema.
+Energía potencial elástica
+Ahora que está familiarizado con la energía potencial gravitacional de un sistema, explore 
+un segundo tipo de energía potencial que puede tener un sistema. Considere un sistema 
+que consta de un bloque y un resorte, como se muestra en la figura 7.16. La fuerza que el 
+resorte ejerce sobre el bloque se conoce por F
+s  kx (ecuación 7.9). El trabajo invertido 
+por una fuerza aplicada externa Fap en un sistema que consiste de un bloque conectado al  
+resorte se proporciona por la ecuación 7.13:
+ Wap  1
+2kxf 2 1
+2
+kxi 2  (7.21)
+En esta situación, las coordenadas inicial y final x del bloque se miden desde su posición 
+de equilibrio, x  0. De nuevo (como en el caso gravitacional) se ve que el trabajo inver-
+tido en el sistema es igual a la diferencia entre los valores inicial y final de una expresión 
+relacionada con la configuración del sistema. La función de energía potencial elástica  
+asociada con el sistema bloque–resorte se define mediante
+ Us
+1
+2kx2  (7.22)
+La energía potencial elástica del sistema se puede percibir como la energía almacena-
+da en el resorte deformado (uno que está comprimido o estirado desde su posición de 
+equilibrio). La energía potencial elástica almacenada en un resorte es cero siempre que 
+x = 0
+a) m
+x
+b) Us =    kx21
+2
+Ki = 0
+m
+m
+x = 0
+v
+c)
+Kf =    mv21
+2
+Us = 0
+0
+50
+100
+%
+Energía
+potencial
+Energía
+total
+Energía
+cinética
+%
+0
+50
+100
+Energía
+potencial
+Energía
+total
+Energía
+cinética
+%
+0
+50
+100
+Energía
+potencial
+Energía
+total
+Energía
+cinética
+¢Ug 100.8 J 1 68.6 J2 32.2 J  30 J
+Uf mgy f 17 kg21 9.80 m>s2 21 1.47 m2 100.8 J
+
+el resorte no esté deformado (x  0). La energía se almacena en el resorte sólo cuando el 
+resorte está estirado o comprimido. Puesto que la energía potencial elástica es proporcio-
+nal a x2, se ve que Us siempre es positiva en un resorte deformado.
+Considere la figura 7.16, que muestra un resorte sobre una superficie horizontal sin 
+fricción. Cuando se empuja un bloque contra el resorte y el resorte se comprime una 
+distancia x (figura 7.16b), la energía potencial elástica almacenada en el resorte es 
+1
+2kx2. 
+Cuando el bloque se libera desde el reposo, el resorte ejerce una fuerza sobre el bloque y 
+regresa a su longitud original. La energía potencial elástica almacenada se transforma en 
+energía cinética del bloque (figura 7.16c).
+La figura 7.16 muestra una representación gráfica importante de información relacio-
+nada con energía de sistemas llamada gráfica de barras de energía. El eje vertical represen-
+ta la cantidad de energía de una clase determinada en el sistema. El eje horizontal muestra 
+las clases de energía en el sistema. La gráfica de barras de la figura 7.16a muestra que el  
+sistema contiene energía cero porque el resorte está relajado y el bloque no se mueve. 
+Entre la figura 7.16a y 7.16b, la mano realiza trabajo sobre el sistema, comprime el resorte 
+y almacena energía potencial elástica en el sistema. En la figura 7.16c, el resorte regresó 
+a su longitud relajada y el sistema ahora contiene energía cinética asociada con el bloque 
+en movimiento.
+Pregunta rápida 7.7 Una bola se conecta a un resorte ligero suspendido verticalmen-
+te, como se muestra en la figura 7.17. Cuando se jala hacia abajo desde su posición de 
+equilibrio y se libera, la bola oscila arriba y abajo. i) En el sistema de la bola, el r esor
+te y la 
+Tierra, ¿qué formas de energía existen durante el movimiento? a) cinética y potencial 
+elástica, b) cinética y potencial gravitacional, c) cinética, potencial elástica y poten-  
+cial gravitacional, d) potencial elástica y potencial gravitacional. ii) En el sistema de la 
+bola y el resorte, ¿qué formas de energía existen durante el movimiento? Elija de las mismas 
+posibilidades de la a) a la d).
+7.7  Fuerzas conservativas y  
+no conservativas
+Ahora se introduce un tercer tipo de energía que tiene un sistema. Imagine que usted ace-
+lera con su mano el libro en la figura 7.18a y lo desliza hacia la derecha sobre la superficie 
+de una mesa pesada y frena debido a la fuerza de fricción. Suponga que la superficie es el 
+sistema. Debido a eso la fuerza de fricción al deslizarse el libro realiza trabajo sobre la su-
+perficie. La fuerza sobre la superficie es hacia la derecha y el desplazamiento del punto de 
+aplicación de la fuerza es hacia la derecha. El trabajo invertido en la superficie es positivo, 
+pero la superficie no se mueve después de que el libro se detiene. Sobre la superficie se 
+realizó trabajo positivo, aunque no hay aumento en la energía cinética de la superficie o 
+la energía potencial de sistema alguno.
+A partir de su experiencia cotidiana con el deslizamiento sobre superficies con fricción, 
+probablemente usted puede adivinar que la superficie se calentará después de que el libro 
+se deslice sobre ella. (¡Frote sus manos vigorosamente para descubrirlo!) El trabajo que 
+se hizo sobre la superficie se fue en calentar la superficie en lugar de aumentar su rapidez 
+o cambiar la configuración de un sistema. A la energía asociada con la temperatura de un 
+sistema se le llama energía interna, que se simboliza E
+int. (En el capítulo 20 se definirá de 
+manera más general la energía interna.) En este caso, el trabajo invertido en la superficie 
+de hecho representa la energía transferida hacia dentro del sistema, pero aparece en el 
+sistema como energía interna en lugar de energía cinética o potencial.
+Considere el libro y la superficie en la figura 7.18a juntos como un sistema. Inicial-
+mente, el sistema tiene energía cinética porque el libro es móvil. Después de que el libro 
+llegó al reposo, la energía interna del sistema aumentó: el libro y la superficie están más 
+calientes que antes. Se puede considerar el trabajo invertido por fricción dentro del  
+ Sección 7.7  Fuerzas conservativas y no conservativas  181
+Figura 7.17 (Pregunta rápida 
+7.7) Una bola conectada a un 
+resorte sin masa suspendido 
+verticalmente. ¿Qué formas de 
+energía potencial se asocian 
+con el sistema cuando la bola se 
+desplaza hacia abajo?
+Figura 7.18 a) Un libro que se 
+desliza hacia la derecha sobre 
+una superficie horizontal frena 
+en presencia de una fuerza 
+de fricción cinética que actúa 
+hacia la izquierda. b) Gráfica de 
+barras de energía que muestra 
+la energía en el sistema del libro 
+y la superficie en el instante de 
+tiempo inicial. La energía del 
+sistema es toda energía cinética. 
+c) Después de que el libro se 
+detiene, la energía del sistema es 
+toda energía interna.
+%
+0
+50
+100
+Energía
+interna
+Energía
+total
+Energía
+cinética
+%
+0
+50
+100
+Energía
+interna
+Energía
+total
+Energía
+cinética
+a)
+b)
+c)
+vifk
+x$
+v  0
+Física
+m
+
+182 Capítulo 7  Energía de un sistema
+sistema (esto es, entre el libro y la superficie) como un mecanismo de transformación para 
+energía. Este trabajo transforma la energía cinética del sistema en energía interna. De 
+igual modo, cuando un libro cae recto hacia abajo sin resistencia del aire, el trabajo in-
+vertido por la fuerza gravitacional dentro del sistema libro–Tierra transforma la energía 
+potencial gravitacional del sistema a energía cinética.
+Las figuras 7.18b y 7.18c muestran gráficas de barras de energía para la situación en 
+la figura 7.18a. En la figura 7.18b, la gráfica de barras muestra que el sistema contiene 
+energía cinética en el instante en que su mano libera el libro. En este instante se define 
+la cantidad de energía interna de referencia en el sistema igual a cero. En la figura 7.18c, 
+después de que el libro deja de deslizarse, la energía cinética es cero y ahora el sistema 
+contiene energía interna. Observe que la cantidad de energía interna en el sistema, des-
+pués de que el libro se detiene, es igual a la cantidad de energía cinética en el sistema en 
+el instante inicial. Esta igualdad se describe mediante un principio importante llamado 
+conservación de energía. Este principio se explorará en el capítulo 8.
+Ahora considere con más detalle un objeto que se mueve hacia abajo, cerca de la super-
+ficie de la Tierra. El trabajo invertido por la fuerza gravitacional en el objeto no depende 
+de si cae vertical o se desliza hacia abajo de un plano muy inclinado. Todo lo que importa 
+es el cambio en la elevación del objeto. Sin embargo, la transformación de energía a 
+energía interna debida a fricción en dicho plano depende de la distancia que el objeto se 
+desliza. En otras palabras, la trayectoria no hace diferencia cuando se considera el trabajo 
+invertido por la fuerza gravitacional, pero sí hace una diferencia cuando se considera la 
+transformación de energía debida a fuerzas de fricción. Se puede usar esta dependencia 
+variable con la trayectoria para clasificar fuerzas como conservativas o no conservativas. De 
+las dos fuerzas mencionadas, la fuerza gravitacional es conservativa y la fuerza de fricción 
+es no conservativa.
+Fuerzas conservativas
+Las fuerzas conservativas tienen estas dos propiedades equivalentes:
+1. El trabajo invertido por una fuerza conservativa sobre una partícula móvil entre  
+dos puntos cualesquiera es independiente de la trayectoria tomada por la par- 
+tícula.
+2. El trabajo invertido por una fuerza conservativa en una partícula móvil a lo largo de 
+cualquier trayectoria cerrada es cero. (Una trayectoria cerrada es aquella en la que 
+el punto de partida y el punto final son idénticos.)
+La fuerza gravitacional es un ejemplo de fuerza conservativa; la fuerza que un resorte 
+ideal ejerce en cualquier objeto unido al resorte es otra. El trabajo invertido por la fuerza 
+gravitacional en un objeto móvil entre dos puntos cualesquiera cerca de la superficie de la 
+Tierra es W
+g  mg jˆ [(yf   yi) jˆ]  mgyi  mgyf . A partir de esta ecuación, observe que Wg 
+sólo depende de las coordenadas y inicial y final del objeto y por tanto es independiente 
+de la trayectoria. Además, Wg es cero cuando el objeto se traslada en cualquier trayectoria 
+cerrada (donde yi  yf).
+Para el caso del sistema objeto–resorte, el trabajo Ws invertido por la fuerza del resorte 
+se conoce por Ws
+1
+2kxi
+2 1
+2
+kxf
+2 (ecuación 7.12). Se ve que la fuerza del resorte es con-
+servativa porque Ws sólo depende de las coordenadas x, inicial y final del objeto y es cero 
+para cualquier trayectoria cerrada.
+Es posible asociar una energía potencial para un sistema con una fuerza que actúa entre 
+integrantes del sistema, pero sólo se puede hacer para fuerzas conservativas. En general, 
+el trabajo Wc invertido por una fuerza conservativa en un objeto que es integrante de un 
+sistema conforme el objeto se traslada de una posición a otra es igual al valor inicial de la 
+energía potencial del sistema menos el valor final:
+ W
+c  Ui  Uf   $U (7.23)
+Como ejemplo, compare esta ecuación general con la ecuación específica para el trabajo 
+invertido por la fuerza de resorte (ecuación 7.12) como la extensión de los cambios del 
+resorte.
+Propiedades de fuerzas 
+conservativas
+0
+PREVENCIÓN DE RIESGOS  
+OCULTOS 7.10
+Advertencia sobre ecuaciones  
+similares
+Compare la ecuación 7.23 
+con la ecuación 7.20. Estas 
+ecuaciones son similares 
+excepto por el signo negativo, 
+que es una fuente común de 
+confusión. La ecuación 7.20 
+dice que trabajo positivo se 
+invierte por un agente externo 
+en un sistema que causa un 
+aumento en la energía potencial 
+del sistema (sin cambio en la 
+energía cinética o interna). 
+La ecuación 7.23 establece 
+que el trabajo invertido en una 
+componente de un sistema por 
+una fuerza conservativa interna 
+a un sistema aislado causa una 
+disminución en la energía 
+potencial del sistema.
+
+Fuerzas no conservativas
+Una fuerza es no conservativa si no satisface las propiedades 1 y 2 para fuerzas conserva-
+tivas. Se define la suma de las energías cinética y potencial de un sistema como la energía 
+mecánica del sistema:
+ E mec  K  U  (7.24)
+donde K incluye la energía cinética de todos los integrantes móviles del sistema y U incluye 
+todos los tipos de energía potencial en el sistema. Las fuerzas no conservativas que actúan 
+dentro de un sistema causan un cambio en la energía mecánica del sistema. Por ejemplo, 
+para un libro que se desliza sobre una superficie horizontal sin fricción, la energía me-
+cánica del sistema libro–superficie se transforma en energía interna, como se discutió 
+anteriormente. Sólo parte de la energía cinética del libro se transforma en energía interna 
+en el libro. El resto aparece como energía interna en la superficie. (Cuando tropieza y se 
+desliza por el suelo de un gimnasio, no sólo la piel en sus rodillas se calienta, ¡también lo 
+hace el piso!) Puesto que la fuerza de fricción cinética transforma la energía mecánica de 
+un sistema en energía interna, esta es una fuerza no conservativa.
+Como ejemplo de la dependencia del trabajo con la trayectoria para una fuerza no 
+conservativa, considere la figura 7.19. Suponga que desplaza un libro entre dos puntos 
+sobre una mesa. Si el libro se desplaza en una línea recta a lo largo de la trayectoria 
+azul entre los puntos  y  de la figura 7.19, realiza cierta cantidad de trabajo contra 
+la fuerza de fricción cinética para mantener al libro móvil con una rapidez constante. 
+Ahora, piense que empuja el libro a lo largo de la trayectoria semicircular café en la 
+figura 7.19. Realiza más trabajo contra la fricción a lo largo de esta trayectoria curva 
+que a lo largo de la trayectoria recta porque la trayectoria curva es más larga. El trabajo 
+invertido en el libro depende de la trayectoria, así que la fuerza de fricción no puede ser 
+conservativa.
+7.8  Correspondencia entre fuerzas  
+conservativas y energía potencial
+En la sección anterior se encontró que el trabajo consumido en un integrante de un 
+sistema por una fuerza conservativa entre los integrantes del sistema no depende de la 
+trayectoria seguida por el integrante en movimiento. El trabajo sólo depende de las coor-
+denadas inicial y final. En consecuencia, se puede definir una función de energía potencial 
+U tal que el trabajo invertido dentro del sistema por la fuerza conservativa sea igual a la 
+disminución en la energía potencial del sistema. Conciba un sistema de partículas en el 
+que la configuración cambia debido al movimiento de una partícula a lo largo del eje x. 
+El trabajo realizado por una fuerza conservativa F
+S
+ conforme una partícula se traslada a lo 
+largo del eje x es4
+ Wc
+xf
+xi
+Fx dx ¢U   (7.25)
+donde Fx es la componente de F
+S
+ en la dirección del desplazamiento. Esto es: el trabajo 
+invertido por una fuerza conservativa que actúa entre integrantes de un sistema es igual al 
+negativo del cambio en la energía potencial del sistema asociado con dicha fuerza cuando 
+cambia la configuración del sistema. La ecuación 7.25 también se puede expresar como
+ ¢U
+Uf Ui
+xf
+xi
+Fx dx   (7.26)
+4 Para un desplazamiento general, el trabajo realizado en dos o tres dimensiones también es igual a $U, 
+donde U  U(x, y, z). Esta ecuación se escribe formalmente como Wc
+f
+i
+ F
+S
+# d r
+S
+Ui Uf .
+
+
+Figura 7.19 El trabajo invertido 
+contra la fuerza de fricción cinética 
+depende de la trayectoria tomada 
+mientras el libro se traslada de  
+ a . El trabajo es mayor a lo 
+largo de la trayectoria café que a  
+lo largo de la trayectoria azul.
+ Sección 7.8  Correspondencia entre fuerzas conservativas y energía potencial  183
+
+En consecuencia, $U es negativa cuando Fx y dx están en la misma dirección, como cuando 
+se baja un objeto en un campo gravitacional o cuando un resorte empuja un objeto hacia 
+el equilibrio.
+Con frecuencia es conveniente establecer alguna ubicación particular xi de un integran-
+te de un sistema como representativo de una configuración de referencia y medir todas 
+las diferencias de energía potencial en relación con él. En tal caso es posible definir la 
+función de energía potencial como
+ U
+f 1x2
+xf
+xi
+Fx dx U i   (7.27)
+Frecuentemene el valor de Ui se considera cero para la configuración de referencia. No 
+importa qué valor se asigne a Ui porque cualquier valor distinto de cero simplemente 
+desplaza a Uf  (x) en una cantidad constante y sólo el cambio en energía potencial es física-
+mente significativo.
+Si el punto de aplicación de la fuerza se somete a un desplazamiento infinitesimal dx, 
+el cambio infinitesimal en la energía potencial del sistema dU se expresa como
+dU  Fxdx
+Por lo tanto, la fuerza conservativa se relaciona con la función de energía potencial me-
+diante la correspondencia5
+ Fx
+dU
+dx  (7.28)
+Es decir, la componente x de una fuerza conservativa que actúa sobre un objeto dentro de 
+un sistema es igual a la derivada negativa de la energía potencial del sistema en relación 
+con x.
+Es  fácil comprobar la ecuación 7.28 para los dos ejemplos ya analizados. En el caso del 
+resorte deformado, U
+s  1
+2kx 2; debido a eso,
+Fs
+dUs
+dx
+d
+dx 11
+2kx2 2 kx
+que corresponde a la fuerza restauradora en el resorte (ley de Hooke). Ya que la función 
+de energía potencial gravitacional es Ug  mgy, se sigue de la ecuación 7.28 que Fg  mg  
+cuando deriva Ug respecto de y en lugar de x.
+Ahora se ve que U  es una función importante porque de ella se deduce una fuerza 
+conservativa. A más de esto, la ecuación 7.28 pone en claro que sumar una constante a la 
+energía potencial no es importante porque la derivada de una constante es cero.
+Pregunta rápida 7.8 ¿Qué representa la pendiente de una gráfica de U(x) en función 
+de x? a) la magnitud de la fuerza sobre el objeto, b) el negativo de la magnitud de la 
+fuerza sobre el objeto, 
+c) la componente x de la fuerza sobre el objeto, d) el negativo 
+de la componente x de la fuerza sobre el objeto.
+Relación de fuerza entre 
+integrantes de un sistema 
+y la energía potencial del 
+sistema
+0
+5 En tres dimensiones, la expresión es
+F
+S 0U
+0x iˆ 0U
+0y jˆ 0U
+0z kˆ
+donde (Ux) y así sucesivamente son derivadas parciales. En el lenguaje del cálculo vectorial, F
+S
+ es igual 
+al negativo del gradiente de la cantidad escalar U(x, y, z).
+184 Capítulo 7  Energía de un sistema
+
+7.9  Diagramas de energía  
+y equilibrio de un sistema
+Con frecuencia el movimiento de un sistema se puede entender cualitativamente mediante 
+una gráfica de su energía potencial en función de la posición de un integrante del sistema. 
+Considere la función energía potencial para un sistema bloque–resorte, dada por U
+s  1
+2
+kx 2. Esta función se grafica en función de x en la figura 7.20a. La fuerza Fx que ejerce el 
+resorte en el bloque se relaciona con Us a través de la ecuación 7.28:
+Fs
+dUs
+dx kx
+Como se vio en la pregunta rápida 7.8, la componente x de la fuerza es igual al negativo 
+de la pendiente de la curva U
+ en función de x. Cuando el bloque se coloca en reposo en 
+la posición de equilibrio del resorte (x  0), donde Fx  0, permanecerá ahí a menos que 
+alguna fuerza externa Fext actúe sobre él. Si esta fuerza externa estira el resorte desde el 
+equilibrio, x es positivo y la pendiente dUdx es positiva; debido a eso, la fuerza Fs que ejer-
+ce el resorte es negativa y el bloque acelera de regreso hacia x  0 cuando se libera. Si la 
+fuerza externa comprime el resorte, x es negativa y la pendiente es negativa; por lo tanto, 
+Fs es positiva y una vez más la masa acelera hacia x  0 al momento de liberarse.
+A partir de este análisis, se concluye que la posición x  0 para un sistema bloque–re-
+sorte es aquella de equilibrio estable. Es decir: cualquier movimiento que se aleje de esta 
+posición da como resultado una fuerza que se dirige de regreso hacia x  0. En general, 
+las configuraciones de un sistema en equilibrio estable corresponden a aquellas para las 
+que U(x) del sistema es un mínimo.
+Si el bloque en la figura 7.20 se mueve hacia una posición inicial x
+máx y en tal caso se 
+libera del reposo, su energía total inicialmente es la energía potencial 1
+2kx 2
+máx almacenada 
+en el resorte. Conforme el bloque comienza a moverse, el sistema adquiere energía ciné-
+tica y pierde energía potencial. El bloque oscila (se mueve hacia atrás y hacia adelante) 
+entre los dos puntos x  x
+máx y x  xmáx, llamados puntos de retorno. De hecho, puesto 
+que ninguna energía se transforma en energía interna debido a la fricción, el bloque oscila 
+entre x
+máx y xmáx por siempre. (Estas oscilaciones se discuten más en el capítulo 15.)
+Otro sistema mecánico simple con una configuración de equilibrio estable es una bola 
+que rueda en el fondo de un tazón. En cualquier momento la bola se desplaza de su posi-
+ción más baja y tiende a regresar a dicha posición cuando se libera.
+Ahora considere una partícula móvil a lo largo del eje x bajo la influencia de una fuer-
+za conservativa F
+x, donde la curva U con x es como la que se muestra en la figura 7.21. 
+Nuevamente, Fx  0 en x  0, y por ende la partícula está en equilibrio en este punto. Sin 
+embargo, esta posición es de equilibrio inestable por la explicación que sigue: suponga 
+que la partícula se desplaza hacia la derecha ( x  0). Ya que la pendiente es negativa  
+para x  0, Fx  dUdx es positiva y la partícula acelera alejándose de x  0. Si en vez de 
+ello la partícula está en x  0 y se desplaza hacia la izquierda (x  0), la fuerza es negativa 
+porque la pendiente es positiva para x  0 y la partícula de nuevo acelera alejándose de la 
+posición de equilibrio. En esta situación la posición x  0 es de equilibrio inestable por-
+que, para cualquier desplazamiento a partir de este punto, la fuerza empuja la partícula 
+más lejos del equilibrio y hacia una posición de menor energía potencial. Un lápiz que se 
+equilibra sobre su punta está en una posición de equilibrio inestable. Si el lápiz se desplaza 
+un poco de su posición absolutamente vertical y después se libera, es seguro que caerá. En 
+general, las configuraciones de un sistema en equilibrio inestable corresponden a aquellas 
+para las que U(x) del sistema es un máximo.
+Por último, una configuración llamada equilibrio neutro surge cuando U es constante 
+en alguna región. Pequeños desplazamientos de un objeto desde una posición en esta 
+región no producen fuerzas restauradoras ni perturbadoras. Una bola que yace sobre una 
+superficie horizontal plana es un ejemplo de un objeto en equilibrio neutro.
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 7.11
+Diagramas de energía
+Un error común es pensar 
+que la energía potencial en 
+la gráfica de un diagrama de 
+energía representa altura.  
+Por ejemplo, no es el caso en 
+la figura 7.20, donde el bloque 
+sólo se mueve horizontalmente.
+Figura 7.20 a) Energía potencial 
+como función de x para el sistema 
+bloque–resorte sin fricción que 
+se muestra en b). El bloque oscila 
+entre los puntos de retorno,  
+que tienen las coordenadas  
+x  x
+máx. Observe que la fuerza 
+restauradora que ejerce el resorte 
+siempre actúa hacia x  0, la 
+posición de equilibrio estable.
+Figura 7.21 Gráfica de U con 
+x para una partícula que tiene 
+una posición de equilibrio 
+inestable ubicada en x  0. Para 
+cualquier desplazamiento finito 
+de la partícula, la fuerza sobre la 
+partícula se dirige alejándose de 
+x  0.
+E
+x
+máx 0
+Us
+x
+a)
+  kx21
+2Us
+xmáx
+xmáx
+b)
+x  0
+Fs
+m
+0 x
+U Pendiente
+negativa
+x > 0
+Pendiente
+positiva
+x < 0
+ Sección 7.9  Diagramas de energía y equilibrio de un sistema  185
+
+EJEMPLO 7.9 Fuerza y energía a escala atómica
+La energía potencial asociada con la fuerza entre dos átomos neutros en una molécula se representa mediante la función 
+energía potencial de Lennard–Jones:
+U 1x2 4P ca s
+x b
+12
+a s
+x b
+6
+d
+donde x es la separación de los átomos. La función U(x) contiene dos parámetros T y F que están determinados por los 
+experimentos. Valores muestra para la interacción entre dos átomos en una molécula son T
+  0.263 nm y F  1.51  1022 
+J. Con una hoja de cálculo o herramienta similar, grafique esta función y encuentre la distancia más probable entre los dos 
+átomos.
+SOLUCIÓN
+Conceptualizar Los dos átomos en la molécula se identifican como un sistema. Respecto a nuestra interpretación de que 
+existen moléculas estables, se espera encontrar equilibrio estable cuando los dos átomos estén separados por cierta distancia 
+de equilibrio.
+Categorizar Ya que existe una función energía potencial, la fuerza entre los átomos se clasifica como conservativa. Para 
+una fuerza conservativa, la ecuación 7.28 describe la correspondencia entre la fuerza y la función energía potencial.
+Analizar Existe equilibrio estable para una distancia de separación en que la energía potencial del sistema de dos átomos 
+(la molécula) es un mínimo.
+Tome la derivada de la función U(x):
+Minimice la función U(x) al hacer su derivada igual a 
+cero:
+Evalúe x
+eq, la separación de equilibrio de los dos átomos 
+en la molécula:
+Grafique la función de Lennard–Jones en ambos lados de 
+este valor crítico para generar el diagrama de energía como 
+se muestra en la figura 7.22.
+Finalizar Note que U(x) es extremadamente grande cuan-
+do los átomos están muy cerca uno del otro, es un mínimo 
+cuando los átomos están en su separación crítica y después 
+aumenta de nuevo conforme los átomos se separan. Cuan-
+do U(x) es mínima, los átomos están en equilibrio estable, 
+lo que indica que la separación más probable entre ellos se 
+presenta en este punto.
+186
+ Capítulo 7  Energía de un sistema
+Figura 7.22 (Ejemplo 7.9) Curva de energía potencial asociada 
+con una molécula. La distancia x es la separación entre los dos 
+átomos que conforman la molécula.
+–20
+–10
+0
+3456
+x (1010 m)
+U (1023 J)
+dU 1x2
+dx 4P d
+dx ca s
+x b
+12
+a s
+x b
+6
+d 4P c 12s12
+x13
+6s6
+x7 d
+4P c 12s12
+xeq 13
+6s6
+xeq 7 d 0 S xeq 1221>6s
+xeq 1221>6 10.263 nm2  2.95 10 10 m
+
+El teorema trabajo–energía cinética establece 
+que, si una fuerza externa invierte trabajo en un 
+sistema, y el único cambio en el sistema es en su 
+rapidez,
+ W
+neto Kf Ki ¢K 1
+2mvf
+2 1
+2
+mvi
+2 (7.15, 
+7.17)
+Una función de energía potencial U se asocia sólo con una 
+fuerza conservativa. Si una fuerza conservativa F
+S
+ actúa entre 
+integrantes de un sistema mientras un integrante se mueve a lo 
+largo del eje x de xi a xf, el cambio en la energía potencial del sis-
+tema es igual al negativo del trabajo invertido por dicha fuerza:
+ Uf Ui
+xf
+xi
+Fx dx  (7.26)
+CONCEPTOS Y PRINCIPIOS
+Con mucha frecuencia, un sistema es una 
+sola partícula, un conjunto de partículas 
+o una región del espacio, y puede variar 
+en tamaño y forma. La frontera del siste-
+ma separa al sistema del medio ambiente.
+El trabajo W invertido en un sistema por un agente que ejerce una 
+fuerza constante F
+S
+ en el sistema es el producto de la magnitud $r del 
+desplazamiento del punto de aplicación de la fuerza y la componente 
+F cos V de la fuerza a lo largo de la dirección del desplazamiento $r
+S
+:
+ W   F $r cos V (7.1)
+Si una fuerza variable realiza trabajo en una partícula con-
+forme la partícula se traslada a lo largo del eje x desde x
+i 
+hasta xf, el trabajo consumido por la fuerza en la partícula se 
+proporciona por
+ W
+xf
+xi
+Fx dx  (7.7)
+donde Fx es la componente de fuerza en la dirección x.
+El producto escalar (producto punto) de dos vecto-
+res  
+A
+S
+ y B
+S
+ se define mediante la correspondencia
+ A
+S
+# B
+S
+AB cos u  (7.2)
+donde el resultado es una cantidad escalar y V es el 
+ángulo entre los dos vectores. El producto escalar 
+obedece a las leyes conmutativa y distributiva.
+La energía cinética de una 
+partícula de masa m que se 
+mueve con una rapidez v es
+ K
+1
+2mv2  (7.16)
+Si una partícula de masa m está a una distancia y sobre la superficie de la Tierra, la 
+energía potencial gravitacional del sistema partícula-Tierra es
+ Ug mg y (7.19)
+La energía potencial elástica almacenada en un resorte con constante de fuerza k es
+ Us
+1
+2kx2  (7.22)
+Una fuerza es conservativa si el trabajo que realiza en una partícula  
+que es integrante del sistema, conforme la partícula se mueve entre dos  
+puntos, es independiente de la trayectoria que sigue la partícula entre los 
+dos puntos. Además, una fuerza es conservativa si el trabajo que realiza 
+sobre una partícula es cero cuando la partícula se mueve a través de una  
+trayectoria cerrada arbitraria y regresa a su posición inicial. Una fuerza que 
+no satisface estos criterios se dice que es no conservativa.
+La energía mecánica total de un 
+sistema se define como la suma de 
+la energía cinética y la energía po-
+tencial:
+ E
+mec  K  U (7.24)
+Los sistemas están en tres clases de configuraciones de equilibrio cuando la fuerza neta en un integrante del sistema es 
+cero. Las configuraciones de equilibrio estable corresponden cuando U(x) es un mínimo. Las configuraciones de equi-
+librio inestable corresponden cuando U(x) es un máximo. El equilibrio neutro surge cuando U es constante mientras 
+un integrante del sistema se mueve en alguna región.
+ Resumen 187
+Resumen
+DEFINICIONES
+
+13. ¿Una fuerza normal puede realizar trabajo? Si no, ¿por qué no? 
+Si sí, dé un ejemplo.
+ 14. O ¿Qué se puede decir acerca de la rapidez de una partícula 
+si el trabajo neto realizado sobre ella es cero? a) Es cero. b) 
+Disminuye. c) No cambia. d) No se puede extraer una conclu-
+sión.
+ 15. O Un carro se pone a rodar a través de una mesa a nivel, con 
+la misma rapidez en cada pista. Si corre en un tramo de arena, 
+el carro ejerce sobre la arena una fuerza horizontal promedio 
+de 6 N y recorre una distancia de 6 cm a través de la arena 
+conforme llega al reposo. i) Si en vez de ello el carro corre en 
+un tramo de grava sobre la que ejerce una fuerza horizontal 
+promedio de 9 N, ¿cuánto recorrerá el carro en la grava hasta 
+detenerse? Elija una respuesta. a) 9 cm, b) 6 cm, c) 4 cm, d) 3 
+cm, e) ninguna de estas respuestas. ii) Si en vez de ello el carro 
+corre en un tramo de harina, rueda 18 cm antes de detenerse. 
+¿Cuál es la magnitud promedio de la fuerza horizontal que el 
+carro ejerce sobre la harina? a) 2 N, b) 3 N, c) 6 N, d) 18 N,  
+e) ninguna de estas respuestas. iii) Si en vez de ello el carro corre 
+sin obstáculo alguno, ¿cuánto recorrerá?  a) 6 cm, b) 18 cm,  
+c) 36 cm, d) una distancia infinita.
+ 16. La energía cinética de un objeto depende del marco de re-
+ferencia en el que se observa su movimiento. Dé un ejemplo 
+para ilustrar este punto.
+ 17. O Para estirar 10 cm desde su longitud sin deformar, se re-
+quieren 4 J para un resorte que se describe mediante la ley de 
+Hooke. ¿Cuánto trabajo adicional se requiere para estirar el re-
+sorte 10 cm adicionales? Elija una: a) ninguna, b) 2 J, c) 4 J,  
+d) 8 J, e) 12 J, f ) 16 J.
+ 18. Si sólo una fuerza externa actúa sobre una partícula, ¿necesa-
+riamente cambia la a) energía cinética de la partícula? b) ¿Su 
+velocidad?
+ 19. O  i) Clasifique las aceleraciones gravitacionales que mediría 
+para a) un objeto de 2 kg a 5 cm arriba del suelo, b) un objeto 
+de 2 kg a 120 cm sobre el suelo, c) un objeto de 3 kg a 120 cm 
+sobre el suelo y d) un objeto de 3 kg a 80 cm sobre el suelo. 
+Mencione primero el que tiene aceleración con mayor mag-
+nitud. Si dos son iguales, muestre su igualdad en la lista. ii) 
+Clasifique las fuerzas gravitacionales sobre los mismos cuatro 
+objetos, primero la mayor magnitud. iii) Clasifique las ener-
+gías potenciales gravitacionales (del sistema objeto–Tierra) 
+para los mismos cuatro objetos, primero la mayor, y considere  
+y  0 en el suelo.
+ 20. Se le encomienda regresar a sus anaqueles los libros de una 
+biblioteca. Levante un libro del suelo hasta el anaquel supe-
+rior. La energía cinética del libro sobre el suelo fue cero y la 
+energía cinética del libro en el anaquel superior es cero, así 
+que no ocurre cambio en la energía cinética aunque usted 
+hizo algo de trabajo en levantar el libro. ¿Se violó el teorema 
+trabajo–energía cinética?
+ 21. Los músculos del cuerpo ejercen fuerzas cuando se levanta, 
+empuja, corre, salta, etcétera. ¿Estas fuerzas son conservati-
+vas?
+ 22. ¿Qué forma tendría la gráfica de U con x si una partícula estu-
+viese en una región de equilibrio neutro?
+ 23. O  A un cubo de hielo se le da un empujón y se desliza sin 
+fricción sobre una mesa a nivel. ¿Qué es correcto? a) Está en  
+equilibrio estable. b) Está en equilibrio inestable. c) Está  
+en equilibrio neutro. d) No está en equilibrio.
+ 1. Discuta si algún trabajo se invierte por cada uno de los siguien-
+tes agentes y, si es así, si el trabajo es positivo o negativo: a) un  
+pollo que rasca la tierra, b) una persona que estudia, c) una 
+grúa que levanta una cubeta de concreto, d) la fuerza gravi-
+tacional sobre la cubeta del inciso c), e) los músculos de la 
+pierna de una persona en el acto de sentarse.
+ 2. Cite dos ejemplos en los que se ejerza una fuerza sobre un 
+objeto sin realizar trabajo alguno sobre el objeto.
+ 3. Cuando un péndulo oscila hacia atrás y hacia adelante, las 
+fuerzas que actúan sobre el objeto suspendido son la fuerza 
+gravitacional, la tensión en la cuerda de soporte y la resistencia 
+del aire. a) ¿Cuál de estas fuerzas, si alguna, no realiza trabajo 
+en el péndulo? b) ¿Cuál de estas fuerzas realiza trabajo nega-
+tivo en todo momento durante su movimiento? c) Describa el 
+trabajo que invierte la fuerza gravitacional mientras el péndulo 
+oscila.
+ 4. O Sea 
+Nˆ que representa la dirección horizontal al norte, NE 
+que representa el noreste (la mitad entre norte y este), up 
+representa la dirección vertical hacia arriba, etcétera. Cada 
+especificación de dirección se considera como un vector uni-
+tario. Clasifique de mayor a menor los siguientes productos 
+punto. Observe que cero es mayor que un número negativo. 
+Si dos cantidades son iguales, muestre ese hecho en su clasifi-
+cación. a) 
+Nˆ  Nˆ, b) Nˆ  NE, c) Nˆ  Sˆ, d) Nˆ  Eˆ, e) Nˆ  up, 
+f) Eˆ  Eˆ, g) SE # Sˆ, h) up down.
+ 5. ¿Para qué valores del ángulo V entre dos vectores su producto 
+escalar es a) positivo y b) negativo?
+ 6. O La figura 7.9a muestra un resorte ligero extendido que 
+ejerce una fuerza Fs hacia la izquierda sobre el bloque. i) ¿El 
+bloque ejerce una fuerza sobre el resorte? Elija toda respuesta 
+correcta. a) No, no lo hace. b) Sí, hacia la izquierda. c) Sí, 
+hacia la derecha. d) Su magnitud es mayor que F
+s. e) Su magni-
+tud es igual a Fs. f) Su magnitud es menor que Fs. ii) ¿El resorte 
+ejerce una fuerza sobre la pared? Elija toda respuesta correcta 
+de la misma lista, de a) a f).
+ 7. Cierto resorte uniforme tiene constante de resorte k. Ahora 
+el resorte se corta a la mitad. ¿Cuál es la relación entre k y la 
+constante de resorte k de cada resorte más pequeño resultan-
+te? Explique su razonamiento.
+ 8. ¿La energía cinética puede ser negativa? Explique.
+ 9. Discuta el trabajo invertido por un pitcher que lanza una pe-
+lota de beisbol. ¿Cuál es la distancia aproximada a través de la 
+cual actúa la fuerza mientras se lanza la pelota?
+ 10. O La bala 2 tiene el doble de masa que la bala 1. Ambas se 
+disparan de modo que tienen la misma rapidez. La energía 
+cinética de la bala 1 es K. La energía cinética de la bala 2 es a) 
+0.25K, b) 0.5K, c) 0.71K, d) K, e) 2K, f ) 4K.
+ 11. O Si la rapidez de una partícula se duplica, ¿qué ocurre con su 
+energía cinética? a) Se vuelve cuatro veces mayor. b) Se vuelve 
+dos veces mayor. c) Se vuelve 
+2 veces mayor. d) No cambia. 
+e) Se vuelve la mitad.
+ 12. Un estudiante tiene la idea de que el trabajo total invertido 
+en un objeto es igual a su energía cinética final. ¿Este enun-
+ciado es cierto siempre, a veces o nunca? Si a veces es cierto, 
+¿bajo qué circunstancias? Si es siempre o nunca, explique por 
+qué.
+Preguntas
+188 Capítulo 7  Energía de un sistema
+O Indica pregunta complementaria.
+
+Problemas 189
+ 24. Para limpiarlas, usted quita todas las teclas removibles de un 
+teclado de computadora. Cada tecla tiene la forma de una 
+pequeña caja con un lado abierto. Por accidente, tira las teclas 
+en el suelo. Explique por qué muchas más de ellas aterrizan 
+con el lado de la letra hacia abajo que con el lado abierto.
+Problemas
+4FDDJwO 5SBCBKPJOWFSUJEPQPSVOBGVFS[BDPOTUBOUF
+ 1. Un bloque de 2.50 kg de masa se empuja 2.20 m a lo largo 
+de una mesa horizontal sin fricción por una fuerza constante 
+de 16.0 N dirigida 25.0° debajo de la horizontal. Determine 
+el trabajo invertido sobre el bloque por a) la fuerza aplicada,  
+b) la fuerza normal que ejerce la mesa y c) la fuerza gravitacio-
+nal. d) Determine el trabajo neto invertido en el bloque.
+ 2. Una gota de lluvia de 3.35  10
+5 kg de masa cae verticalmente 
+con rapidez constante bajo la influencia de la gravedad y la 
+resistencia del aire. Modele la gota como partícula. Mientras 
+cae 100 m, ¿cuál es el trabajo consumido en la gota a) por la 
+fuerza gravitacional y b) por la resistencia del aire?
+ 3. Batman, cuya masa es de 80.0 kg, está colgado en el extremo 
+libre de una soga de 12.0 m, el otro extremo está fijo de la  
+rama de un árbol arriba de él. Al flexionar repetidamente la 
+cintura, hace que la soga se ponga en movimiento, y eventual-
+mente la hace balancear lo suficiente para que pueda llegar 
+a una repisa cuando la soga forma un ángulo de 60.0° con
+ 
+la vertical. ¿Cuánto trabajo invirtió la fuerza gravitacional en 
+Batman en esta maniobra?
+ 4. 
+; El objeto 1 empuja sobre el objeto 2 mientras se mueven jun-
+tos, como un buldózer que empuja una piedra. Suponga que el 
+objeto 1 realiza 15.0 J de trabajo sobre el objeto 2. ¿El objeto 2 
+realiza trabajo sobre el objeto 1? Explique su respuesta. Si es po-
+sible, determine cuánto trabajo y explique su razonamiento.
+4FDDJwO 1SPEVDUPFTDBMBSEFEPTWFDUPSFT
+ 5. Para dos vectores cualesquiera 
+A
+S
+ y B
+S
+, demuestre que A
+S
+  B
+S
+   
+AxBx  AyBy  AzBz. Sugerencia: Escriba A
+S
+ y B
+S
+ en forma de vec-
+tores unitarios y aplique las ecuaciones 7.4 y 7.5.
+ 6. El vector A
+S
+ tiene una magnitud de 5.00 unidades y B
+S
+ tiene 
+una magnitud de 9.00 unidades. Los dos vectores forman un 
+ángulo de 50.0° uno con el otro. Hallar A
+S
+  B
+S
+.
+Nota: En los problemas del 7 al 10, calcule respuestas numéricas 
+a tres cifras significativas, como siempre.
+ 7. Una fuerza F
+S
+  (6 iˆ  2 jˆ) actúa en una partícula que expe-
+rimenta un desplazamiento $r
+S
+  (3iˆ   jˆ) m. Hallar a) el 
+trabajo invertido por la fuerza en la partícula y b) el ángulo 
+entre F
+S
+ y $r
+S
+.
+ 8. Encuentre el producto escalar de los vectores en la figura 
+P7.8.
+ 9. Con la definición del producto escalar, encuentre los ángulos 
+entre los siguientes: a) 
+A
+S
+  3iˆ  2 jˆ y B
+S
+  4iˆ  4 jˆ, b) A
+S
+  2iˆ  
+ 4 jˆ y B
+S
+  3iˆ  4 jˆ  2kˆ, c) A
+S
+  iˆ  2 jˆ  2kˆ y B
+S
+  3 jˆ  4kˆ.
+ 25. ¿Quién estableció por primera vez el teorema trabajo–energía 
+cinética? ¿Quién demostró que es útil al resolver muchos proble-
+mas prácticos? Realice una investigación para responder estas  
+preguntas.
+ 10. Para los vectores 
+A
+S
+   3iˆ  jˆ  kˆ, B
+S
+   iˆ  2 jˆ   5kˆ y  
+C
+S
+  2 jˆ  3kˆ, encuentre C
+S
+  (A
+S
+  B
+S
+).
+ 11. Sea B
+S
+  5.00 m a 60.0°. Sea C
+S
+ que tiene la misma magnitud 
+que A
+S
+ y un ángulo de dirección mayor que el de A
+S
+ en 25.0°. 
+Sea A
+S
+  B
+S
+  30.0 m2 y B
+S
+  C
+S
+ 35.0 m2. Encuentre A
+S
+.
+4FDDJwO 5SBCBKPDPOTVNJEPQPSVOBGVFS[BWBSJBCMF
+ 12. La fuerza que actúa en una partícula es Fx  (8x  16) N, 
+donde x está en metros. a) Grafique esta fuerza con x desde x 
+ 0 hasta x  3.00 m. b) A partir de su gráfica, encuentre el 
+trabajo neto realizado por esta fuerza sobre la partícula con-
+forme se traslada de x  0 a x  3.00 m.
+ 13. La fuerza que actúa sobre una partícula varía como se muestra 
+en la figura P7.13. Encuentre el trabajo invertido por la fuerza en  
+la partícula conforme se mueve a) de x  0 a x  8.00 m, b) de 
+x  8.00 m a x  10.0 m, y c) de x  0 a x  10.0 m.
+ 14. Una fuerza 
+F
+S
+  (4x iˆ  3y jˆ) N actúa sobre un objeto mientras 
+el objeto se mueve en la dirección x desde el origen hasta 
+x  5.00 m. Encuentre el trabajo W d F
+S
+  d r
+S
+ invertido por la 
+fuerza sobre el objeto.
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+118
+132
+y
+x
+32.8 N
+17.3 cm/s
+
+
+Figura P7.8
+246 81 0 x (m)
+2
+4
+2
+4
+6
+F
+x (N)
+Figura P7.13
+
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+190 Capítulo 7  Energía de un sistema
+ 15. Una partícula se somete a una fuerza Fx que varía con la posi-
+ción, como se muestra en la figura P7.15. Encuentre el trabajo 
+invertido por la fuerza en la partícula mientras se mueve a) de 
+x  0 a x  5.00 m, b) de x  5.00 a x  10.0 m, y c) de x  
+10.0 m a x  15.0 m. d) ¿Cuál es el trabajo total invertido por 
+la fuerza sobre la distancia x  0 a x  15.0 m?
+se presenta una compresión adicional como se muestra en la 
+gráfica. El vagón llega al reposo 50.0 cm después de que hace 
+el primer contacto con el sistema de dos resortes. Encuentre 
+la rapidez inicial del vagón.
+ 16. Un arquero jala hacia atrás la cuerda de su arco 0.400 m al 
+ejercer una fuerza que aumenta uniformemente de cero a 230 
+N. a) ¿Cuál es la constante de resorte equivalente del arco? b) 
+¿Cuánto trabajo realiza el arquero al estirar su arco?
+ 17. Cuando un objeto de 4.00 kg cuelga verticalmente en cierto 
+resorte ligero descrito por la ley de Hooke, el resorte se estira 
+2.50 cm. Si se quita el objeto de 4.00 kg, a) ¿cuánto se estirará 
+el resorte si se le cuelga un objeto de 1.50 kg? b) ¿Cuánto 
+trabajo debe realizar un agente externo para estirar el mismo 
+resorte 4.00 cm desde su posición sin estirar?
+ 18. La ley de Hooke describe cierto resorte ligero de 35.0 cm de 
+longitud sin estirar. Cuando un extremo se une a la parte su-
+perior de un marco de puerta y del otro extremo se cuelga 
+un objeto de 7.50 kg, la longitud del resorte es 41.5 cm. a) 
+Encuentre su constante de resorte. b) La carga y el resorte 
+se desmontan. Dos personas jalan en direcciones opuestas en 
+los extremos del resorte, cada una con una fuerza de 190 N. 
+Encuentre la longitud del resorte en esta situación.
+ 19. En un sistema de control, un acelerómetro consiste de un ob- 
+jeto de 4.70 g que se desliza sobre un riel horizontal. Un re-
+sorte de masa pequeña une al objeto a una pestaña en un 
+extremo del riel. La grasa en el riel hace despreciable la fric-
+ción estática, pero amortigua rápidamente las vibraciones del 
+objeto deslizante. Cuando el acelerómetro se mueve con una 
+aceleración estable de 0.800 g, el objeto llega a una posición 
+0.500 cm de su posición de equilibrio. Encuentre la constante 
+de fuerza requerida para el resorte.
+ 20. Un resorte ligero, con constante de fuerza 3.85 Nm, se com-
+prime 8.00 cm mientras se mantiene entre un bloque de 0.250 
+kg a la izquierda y un bloque de 0.500 kg a la derecha, ambos 
+en reposo sobre una super ficie horizontal. El resorte ejerce 
+una fuerza en cada bloque, y tiende a separarlos. Los bloques 
+se sueltan simultáneamente desde el reposo. Encuentre la ace
+-
+leración con la que cada bloque comienza a moverse, dado 
+que el coeficiente de fricción cinética entre cada bloque y la 
+superficie es a) 0, b) 0.100 y c) 0.462.
+ 21. Un vagón de 6 000 kg rueda a lo largo de la vía con fricción 
+despreciable. El vagón se lleva al reposo mediante una combi-
+nación de dos resortes en espiral, como se ilustra en la figura 
+P7.21. Ambos resortes se describen mediante la ley de Hooke 
+con k
+1  1 600 Nm y k2  3 400 Nm. Después de que el pri-
+mer resorte se comprime una distancia de 30.0 cm, el segundo 
+resorte actúa con el primero para aumentar la fuerza mientras 
+ 22. Se dispara una bala de 100 g de un rifle que tiene un cañón 
+de 0.600 m de largo. Elija el origen como la ubicación donde 
+la bala comienza a moverse. En tal caso la fuerza (en newtons) 
+que ejercen sobre la bala los gases en expansión es 15 000  
+10 000x  25 000x
+2, donde x está en metros. a) Determine el 
+trabajo invertido por el gas en la bala conforme la bala recorre 
+la longitud del cañón. b) ¿Qué pasaría si? Si el cañón mide  
+1.00 m de largo, ¿cuánto trabajo se consume y cómo se compa-
+ra este valor con el trabajo calculado en el inciso a)?
+ 23. Un resorte ligero, con constante de resorte 1 200 Nm, cuel-
+ga de un soporte elevado. De su extremo inferior cuelga un 
+segundo resorte ligero, que tiene constante de resorte 1 800 
+Nm. Un objeto de 1.50 kg de masa cuelga en reposo del extre-
+mo inferior del segundo resorte. a) Encuentre la distancia de 
+extensión total del par de resortes. b) Encuentre la constante 
+de resorte efectiva del par de resortes como sistema. Describa 
+estos resortes como en serie.
+ 24. Un resorte ligero, con constante de resorte k
+1, cuelga de un 
+soporte elevado. De su extremo inferior cuelga un segundo 
+resorte ligero, que tiene constante de resorte k
+2. Un objeto 
+de masa m cuelga en reposo del extremo inferior del segundo 
+resorte. a) Encuentre la distancia de extensión total del par 
+de resortes. b) Encuentre la constante de resorte efectiva del 
+par de resortes como sistema. Describa estos resortes como en 
+serie.
+ 25. Una partícula pequeña de masa m se jala hacia lo alto de un 
+medio cilindro sin fricción (de radio R) mediante una cuerda 
+que pasa sobre lo alto del cilindro, como se ilustra en la figu-
+ra P7.25. a) Si supone que la partícula se mueve con rapidez 
+constante, demuestre que F  mg cos V. Nota: Si la partícula 
+se mueve con rapidez constante, la componente de su acele-
+ración tangente al cilindro debe ser cero en todo momento. 
+b) Mediante integración directa de W d 
+F
+S
+ · d r
+S
+, encuentre el 
+trabajo invertido al mover la partícula con rapidez constante 
+desde el fondo hasta lo alto del medio cilindro.
+0 2 4 6 8 10 12 14 16
+1
+2
+3
+F
+x (N)
+x (m)
+Figura P7.15 Problemas 15 y 32.
+k1
+k2
+10 20 30 40 50 600
+2 000
+Distancia (cm)
+Fuerza
+total
+(N)
+1 500
+1 000
+500
+Figura P7.21
+
+Problemas 191
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 26. Exprese las unidades de la constante de fuerza de un resorte 
+en unidades fundamentales del SI.
+ 27. Problema de repaso. La gráfica de la figura P7.27 especifica una 
+correspondencia funcional entre las dos variables u y v. a) Encuen-
+  
+tre 
+b
+a  
+u dv. b) Encuentre 
+a
+b  
+u dv. c) Encuentre 
+b
+a  
+v du. 
+12.0 cm más en el suelo mientras llega al reposo. Aplicando 
+consideraciones de energía, calcule la fuerza promedio que la 
+viga ejerce sobre el martinete mientras éste llega al reposo.
+ 34. 
+; Un carro de 300 g rueda a lo largo de una pista recta con 
+velocidad de 0.600 iˆ ms en x  0. Un estudiante sostiene un 
+imán enfrente del carro para temporalmente jalar hacia ade-
+lante sobre él, en seguida el carro se desplaza hacia un mon-
+tículo de arena que se convierte en una pequeña pila. Estos 
+efectos se representan cuantitativamente mediante la gráfica 
+de la componente x de la fuerza neta sobre el carro como una 
+función de la posición, en la figura P7.34. a) ¿El carro rodará 
+todo el camino hasta la pila de arena? Explique cómo puede 
+decirlo. b) Si es así, encuentre la rapidez a la que sale en x  
+7.00 cm. Si no, ¿qué máxima coordenada x alcanza?
+ 28. Un dispensador de charolas en una cafetería sostiene una pila 
+de charolas sobre un anaquel que cuelga de cuatro resortes en 
+espiral idénticos bajo tensión, uno cerca de cada esquina del 
+anaquel. Cada charola es rectangular, de 45.3 cm por 35.6 cm, 
+0.450 cm de grosor y 580 g de masa. Demuestre que la charola 
+superior en la pila siempre está a la misma altura sobre el piso, 
+aunque haya muchas charolas en el dispensador. Encuentre la 
+constante de resorte que cada uno debe tener para que el dis-
+pensador funcione en esta forma conveniente. ¿Alguna parte 
+de la información es innecesaria para esta determinación?
+4FDDJwO &OFSHrBDJOnUJDBZFMUFPSFNBUSBCBKP°FOFSHrBDJOnUJDB
+ 29. Una partícula de 0.600 kg tiene una rapidez de 2.00 ms en el 
+punto  y energía cinética de 7.50 J en el punto . ¿Cuáles 
+son a) su energía cinética en , b) su rapidez en  y c) el 
+trabajo neto invertido en la partícula conforme se mueve de 
+ a ?
+ 30. Una bola de 0.300 kg tiene una rapidez de 15.0 ms. a) ¿Cuál es 
+su energía cinética? b) ¿Qué pasaría si? Si su rapidez se duplica,  
+¿cuál sería su energía cinética?
+ 31. Un objeto de 3.00 kg tiene una velocidad de (6.00 
+iˆ  2.00  jˆ) 
+ms. a) ¿Cuál es su energía cinética en este momento? b) ¿Cuál 
+es el trabajo neto invertido en el objeto si su velocidad cambia 
+a (8.00 
+iˆ  4.00  jˆ) ms? Nota: De la definición del producto 
+punto, v 2  v
+S
+  v
+S
+ .
+ 32. Una partícula de 4.00 kg se somete a una fuerza neta que varía 
+con la posición, como se muestra en la figura P7.15. La partícu-
+la comienza a moverse en x  0, muy cerca del reposo. ¿Cuál es 
+su rapidez en a) x  5.00 m, b) x  10.0 m y c) x  15.0 m?
+ 33. Un martinete de 2 100 kg se usa para enterrar una viga I de 
+acero en la tierra. El martinete cae 5.00 m antes de quedar en 
+contacto con la parte superior de la viga. Después clava la viga 
+ 35. 
+; Se puede considerar al teorema trabajo–energía cinética 
+como una segunda teoría de movimiento, paralela a las leyes 
+de Newton, en cuanto que describe cómo las influencias ex-
+ternas afectan el movimiento de un objeto. En este problema, 
+resuelva los incisos a) y b) por separado de los incisos c) y 
+d), de modo que pueda comparar las predicciones de las dos 
+teorías. En un cañón de rifle, una bala de 15.0 g acelera desde 
+el reposo a una rapidez de 780 m s. a) Encuentre el trabajo 
+que se invierte en la bala. b) Si supone que el cañón del rifle 
+mide 72.0 cm de largo, encuentre la magnitud de la fuerza 
+neta promedio que actúa sobre él, como hF  W($r cos V). 
+c) Encuentre la aceleración constante de una bala que parte 
+del reposo y gana una rapidez de 780 ms en una distancia de 
+72.0 cm. d) Si supone ahora que la bala tiene 15.0 g de masa, 
+encuentre la fuerza neta que actúa sobre ésta como hF  ma.  
+e) ¿Qué conclusión puede extraer al comparar sus resultados?
+ 36. En el cuello de la pantalla de cierto televisor blanco y negro, 
+un cañón de electrones contiene dos placas metálicas carga-
+das, separadas 2.80 cm. Una fuerza eléctrica acelera cada elec-
+trón en el haz desde el reposo hasta 9.60% de la rapidez de la 
+luz sobre esta distancia. a) Determine la energía cinética del 
+electrón mientras deja el cañón de electrones. Los electrones 
+portan esta energía a un material fosforescente en la superficie 
+interior de la pantalla del televisor y lo hacen brillar. Para un 
+electrón que pasa entre las placas en el cañón de electrones, 
+determine, b) la magnitud de la fuerza eléctrica constante que 
+actúa sobre el electrón, c) la aceleración y d) el tiempo de 
+vuelo.
+4FDDJwO &OFSHrBQPUFODJBMEFVOTJTUFNB
+ 37. Un carro de montaña rusa, de 1 000 kg, inicialmente está en 
+lo alto de un bucle, en el punto . Luego se mueve 135 pies a 
+un ángulo de 40.0° bajo la horizontal, hacia un punto inferior 
+. a) Elija el carro en el punto  como la configuración cero 
+para energía potencial gravitacional del sistema montaña rusa-
+F
+m
+R
+V
+–4
+0
+u,N
+v, cm
+10 20 300
+a
+b
+4
+8
+–2
+2
+0
+F, N
+x, cm
+480
+Figura P7.25
+Figura P7.27
+Figura P7.34
+
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+192 Capítulo 7  Energía de un sistema
+Tierra. Hallar la energía potencial del sistema cuando el carro 
+está en los puntos  y   y el cambio en energía potencial 
+conforme se mueve el carro. b) Repita el inciso a), pero haga 
+la configuración cero con el carro en el punto .
+ 38. Un niño de 400 N está en un columpio unido a cuerdas de  
+2.00 m de largo. Encuentre la energía potencial gravitacional 
+del sistema niño–Tierra en relación con la posición más baja del  
+niño cuando a) las cuerdas están horizontales, b) las cuerdas 
+forman un ángulo de 30.0° con la vertical y c) el niño está en 
+el fondo del arco circular
+.
+4FDDJwO 'VFS[BTDPOTFSWBUJWBTZOPDPOTFSWBUJWBT
+ 39. ; Una partícula de 4.00 kg se mueve desde el origen a la posi-
+ción C, que tiene coordenadas x  5.00 m y y  5.00 m (figura 
+P7.39). Una fuerza en la partícula es la fuerza gravitacional 
+que actúa en la dirección y negativa. Con la ecuación 7.3,  
+calcule el trabajo invertido por la fuerza gravitacional en la 
+partícula conforme va de O a C a lo largo de a) OAC, b) OBC y 
+c) OC. Sus resultados deben ser idénticos. ¿Por qué?
+seguida por la trayectoria de regreso CO. d) Cada una de las 
+tres respuestas es distinta de cero. ¿Cuál es el significado de 
+esta observación?
+4FDDJwO $PSSFTQPOEFODJBFOUSFGVFS[BTDPOTFSWBUJWBT
+ZFOFSHrBQPUFODJBM
+ 43. Una sola fuerza conservativa actúa sobre una partícula  
+de 5.00 kg. La ecuación F
+x  (2x  4) N describe la fuerza, 
+donde x está en metros. Conforme la partícula se mueve a 
+lo largo del eje x, de x  1.00 m a x  5.00 m, calcule a) el 
+trabajo invertido por esta fuerza en la partícula, b) el cambio 
+en la energía potencial del sistema y c) la energía cinética que 
+tiene la partícula en x  5.00 m si su rapidez es 3.00 m s en  
+x  1.00 m.
+ 44. Una sola fuerza conservativa que actúa en una partícula varía 
+como 
+F
+S
+  (Ax  Bx2) iˆ N, donde A y B son constantes y x 
+está en metros. a) Calcule la función energía potencial U(x) 
+asociada con esta fuerza, y tome U  0 en x  0. b) Encuentre 
+el cambio de energía potencial y el cambio de energía cinética 
+del sistema conforme la partícula se traslada de x  2.00 m a 
+x  3.00 m.
+ 45. La energía potencial de un sistema de dos partículas separa-
+das por una distancia r se conoce por U(r)  Ar, donde A es 
+una constante. Encuentre la fuerza radial 
+F
+S
+ que cada partícula 
+ejerce sobre la otra.
+ 46. Una función energía potencial para una fuerza en dos dimen-
+siones es de la forma U  3x
+3y  7x. Encuentre la fuerza que 
+actúa en el punto (x, y).
+4FDDJwO %JBHSBNBTEFFOFSHrBZFRVJMJCSJPEFVOTJTUFNB
+ 47. Para la curva energía potencial que se muestra en la figura 
+P7.47, a) determine si la fuerza F x es positiva, negativa o cero 
+en los cinco puntos indicados. b) Señale los puntos de equi-
+librio estable, inestable y neutro. c) Bosqueje la curva para F
+x 
+con x desde x  0 hasta x  9.5 m. 40. a) Suponga que una fuerza constante actúa en un objeto. La 
+fuerza no varía con el tiempo o con la posición o la velocidad 
+del objeto. Comience con la definición general del trabajo  
+invertido por una fuerza
+W
+f
+i
+F
+S
+dr
+S
+  y demuestre que la fuerza es conservativa. b) Como caso es-
+pecial, suponga que la fuerza F
+S
+  (3iˆ  4 jˆ) N actúa en una 
+partícula que se mueve de O a C en la figura P7.39. Calcule el 
+trabajo invertido por F
+S
+ en la partícula conforme se mueve a 
+lo largo de cada una de las tres trayectorias OAC, OBC y OC. 
+Compruebe que sus tres respuestas son idénticas.
+ 41. ; Una fuerza que actúa en una partícula móvil en el plano 
+xy se conoce por F
+S
+  (2 yiˆ  x2 jˆ) N, donde x y y están en 
+metros. Las partículas se mueven desde la posición original a 
+la final en las coordenadas x  5.00 m y y  5.00 m como se 
+muestra en la figura P7.39. Calcule el trabajo invertido por 
+F
+S
+   
+en la partícula cuando ésta se mueve a lo largo de a) OAC, b) 
+OBC y c) OC. d) F
+S
+  es conservativa o no conservativa.
+ 42. ; Una partícula se mueve en el plano xy en la figura P7.39 
+bajo la influencia de una fuerza de fricción con 3.00 N de 
+magnitud y actúa en dirección opuesta al desplazamiento 
+de la partícula. Calcule el trabajo invertido por la fuerza de 
+fricción en la partícula conforme se mueve a lo largo de las 
+siguientes trayectorias cerradas: a) la trayectoria OA seguida 
+por la trayectoria de regreso AO, b) la trayectoria OA segui- 
+da por AC y la trayectoria de regreso CO, y c) la trayectoria OC 
+ 48. Un cono circular recto se puede equilibrar sobre una super-
+ficie horizontal en tres diferentes formas. Bosqueje estas tres 
+configuraciones de equilibrio e identifíquelas como posiciones 
+de equilibrio estable, inestable o neutro.
+ 49. Una partícula de 1.18 kg de masa se une entre dos resortes idén- 
+ticos en una mesa horizontal sin fricción. Ambos resortes tie-
+nen constante de resorte k e inicialmente no están estirados. a) 
+La partícula se jala una distancia x
+ a lo largo de una dirección 
+perpendicular a la configuración inicial de los resortes, como 
+se muestra en la figura P7.49. Demuestre que la fuerza ejercida 
+por los resortes sobre la partícula es
+F
+S
+2kx a 1 L
+x2 L2
+b iˆ
+(5.00, 5.00) mCB
+y
+x
+AO
+Figura P7.39 Problemas del 39 al 42.
+4U (J ) 
+
+
+
+2
+0
+–2
+–4
+2 8 6 4x (m)
+
+Figura P7.47
+
+Problemas 193
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+  b) Demuestre que la energía potencial del sistema es
+U 1x 2 kx2 2kL1Lx 2 L2 2
+  c) Elabore una gráfica de U(x) en función de x e identifique todos 
+los puntos de equilibrio. Suponga L  1.20 m y k  40.0 Nm. d) 
+Si la partícula se jala 0.500 m hacia la derecha y después se libera, 
+¿cuál es su rapidez cuando llega al punto de equilibrio x  0?
+masa m que se puede mover sin fricción sobre una superficie 
+horizontal. El disco se pone en movimiento en un círculo con 
+un periodo de 1.30 s. a) Encuentre la extensión del resorte 
+x conforme depende de m. Evalúe x para b) m  0.070 0 kg,  
+c) m  0.140 kg, d) m  0.180 kg y e) m  0.190 kg. f) Describa 
+el patrón de variación de x como dependiente de m.
+ 54. Dos bolas de acero, cada una con 25.4 mm de diámetro, se 
+mueven en direcciones opuestas a 5 ms, corren una hacia la 
+otra frontalmente y rebotan. a) ¿Su interacción dura sólo un 
+instante o un intervalo de tiempo distinto de cero? Establezca 
+su evidencia. Una de las bolas se comprime en una prensa de 
+banco mientras se hacen mediciones precisas de la cantidad 
+ 
+de compresión resultante. Los resultados muestran que la  
+ley de Hooke es un buen modelo del comportamiento elástico 
+de la bola. Para un dato, una fuerza de 16 kN ejercida por cada 
+mandíbula de la prensa de banco resulta en una reducción 
+de 0.2 mm en el diámetro de la bola. El diámetro regresa a su 
+valor original cuando la fuerza se quita. b) Al modelar la bola 
+como resorte, encuentre su constante de resorte. c) Calcule 
+una estimación de la energía cinética de cada una de las bolas 
+antes de chocar. En su solución, explique su lógica. d) Calcule 
+una estimación para la cantidad máxima de compresión que 
+cada bola experimenta cuando chocan. e) Calcule una estima-
+ción del orden de magnitud para el intervalo de tiempo duran-
+te el que están en contacto las bolas. En su solución, explique 
+su razonamiento. (En el capítulo 15 aprenderá a calcular el 
+tiempo de contacto preciso en este modelo.)
+ 55. 
+; Considere U  5 en x  0 y calcule la energía potencial 
+como función de x, correspondiente a la fuerza (8e2x)iˆ. Expli-
+que si la fuerza es conservativa o no conservativa y cómo puede 
+decirlo.
+ 56. La función energía potencial de un sistema se conoce por  
+U(x)  
+x3  2x2  3x. a) Determine la fuerza F x como una 
+función de x. b) ¿Para qué valores de x la fuerza es igual a 
+cero? c) Grafique U(x) con x y Fx en función de x e indique los 
+puntos de equilibrio estable e inestable.
+ 57. El lanzador de bola en una máquina de pinball tiene un resor-
+te con una constante de fuerza de 1.20 Ncm (figura P7.57). 
+La superficie sobre la que se mueve la bola está inclinada 10.0° 
+respecto de la horizontal. El resorte inicialmente se comprime 
+5.00 cm. Encuentre la rapidez de lanzamiento de una bola de 
+100 g cuando se suelta el émbolo. La fricción y la masa del
+ 
+émbolo son despreciables.
+1SPCMFNBTBEJDJPOBMFT
+ 50. Una bolita en el fondo de un tazón es un ejemplo de un ob-
+jeto en posición de equilibrio estable. Cuando un sistema fí-
+sico se desplaza en una cantidad x desde equilibrio estable,  
+sobre él actúa una fuerza restauradora, que tiende a regresar 
+al sistema su configuración de equilibrio. La magnitud de la 
+fuerza restauradora puede ser una función complicada de x
+. 
+Por ejemplo, cuando un ion en un cristal se desplaza de su 
+sitio reticular, la fuerza restauradora puede no ser una simple 
+función de x. En tales casos, por lo general se puede imaginar 
+la función F(x) como expresada por una serie de potencias 
+en x como F(x)  (k
+1x  k2x2  k3x3  . . .). Aquí, el primer 
+término es la ley de Hooke, que describe la fuerza que ejerce 
+un solo resorte para desplazamientos pequeños. Por lo general 
+en pequeñas desviaciones desde el equilibrio se ignoran los 
+términos de orden superior; sin embargo, en algunos casos, 
+puede ser deseable mantener también el segundo término. Si 
+la fuerza restauradora se representa como F  (k
+1x  k2x2), 
+¿cuánto trabajo se invierte al desplazar el sistema de x  0 a  
+x  xmáx mediante una fuerza aplicada F ?
+ 51. Un jardinero de beisbol lanza una pelota de 0.150 kg con una 
+rapidez de 40.0 m s y un ángulo inicial de 30.0°. ¿Cuál es la 
+energía cinética de la pelota en el punto más alto de su trayec-
+toria?
+ 52. La constante de resorte del resorte de suspensión de un automó-
+vil aumenta con la carga creciente debido a un muelle helicoi-
+dal que es más ancho en la base, y cambia de manera uniforme 
+a un diámetro más pequeño cerca de la parte superior
+. El resul-
+tado es un viaje más suave sobre superficies de camino normal 
+de los muelles helicoidales, pero el automóvil no va hasta abajo 
+en los baches porque, cuando se colapsan los muelles inferio-
+res, los muelles más rígidos cerca de lo alto absorben la carga.  
+Para un resorte helicoidal piramidal que se comprime 12.9 
+cm con una carga de 1 000 N y 31.5 cm con una carga de  
+5 000 N, a) evalúe las constantes a y b en la ecuación empírica 
+F  ax
+b y b) encuentre el trabajo necesario para comprimir el 
+resorte 25.0 cm.
+ 53. ; Un resorte ligero tiene una longitud sín estirar de 15.5 cm. 
+Se describe mediante la ley de Hooke con constante de resor-
+te 4.30 Nm. Un extremo del resorte horizontal se mantiene 
+en un eje vertical fijo, y el otro extremo se une a un disco de 
+ 58. 
+; Problema de repaso.  Dos fuerzas constantes actúan sobre 
+un objeto de 5.00 kg que se mueve en el plano xy, como se 
+muestra en la figura P7.58. La fuerza F
+S
+1 es de 25.0 N a 35.0° 
+y F
+S
+2 es de 42.0 N a 150°. En el tiempo t  0, el objeto está en 
+el origen y tiene velocidad (4.00 iˆ  2.50 jˆ) m/s. a) Exprese 
+las dos fuerzas en notación de vector unitario. Use notación 
+de vectores unitarios para sus otras respuestas. b) Encuentre 
+la fuerza total que se ejerce sobre el objeto. c) Encuentre la 
+aceleración del objeto. Ahora, considere el instante t  3.00 s,  
+y encuentre d) la velocidad del objeto, e) su posición, f) su 
+energía cinética a partir de 
+1
+2mvf
+2 y g) su energía cinética a 
+Vista superior
+L
+L
+xm
+k
+k
+x
+Figura P7.49
+10.0
+Figura P7.57
+
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+partir de 1
+2mvi
+2  h F
+S
+  $r
+S
+. h) ¿Qué conclusión puede extraer 
+al comparar las respuestas a los incisos f) y g)?
+  donde F está en newtons y x en metros. Con el uso de integra-
+ción numérica, determine el trabajo invertido por esta fuerza 
+en la partícula durante este desplazamiento. Su resultado debe 
+ser exacto hasta 2%.
+ 60. 
+; Cuando diferentes cargas cuelgan de un resorte, el resorte 
+se estira a diferentes longitudes, como se muestra en la tabla 
+siguiente. a) Elabore una gráfica de la fuerza aplicada con 
+la extensión del resorte. Mediante ajuste por mínimos cua-
+drados, determine la línea recta que ajusta mejor los datos. 
+¿Quiere usar todos los datos o debe ignorar algunos de ellos? 
+Explique. b) A partir de la pendiente de la línea de mejor 
+ajuste, encuentre la constante de resorte k. c) El resorte se 
+extiende a 105 mm. ¿Qué fuerza ejerce sobre el objeto sus-
+pendido?
+F (N) 2.0 4.0 6.0 8.0 10 12 14 16 18 20 22
+L (mm) 15 32 49 64 79 98 112 126 149 175 190
+194 Capítulo 7  Energía de un sistema
+ 59. Una partícula se mueve a lo largo del eje x desde x  12.8 m 
+hasta x  23.7 m bajo la influencia de una fuerza 
+F 375
+x3 3.75x
+7.1 a). La fuerza no realiza trabajo sobre la Tierra porque la fuerza 
+se dirige hacia el centro del círculo y por lo tanto es perpendi-
+cular a la dirección de su desplazamiento.
+7.2 c), a), d), b). El trabajo realizado en c) es positivo y de mayor 
+valor posible porque el ángulo entre la fuerza y el desplaza-
+miento es cero. El trabajo invertido en a) es cero porque la 
+fuerza es perpendicular al desplazamiento. En d) y b), la fuer-
+za aplicada invierte trabajo negativo porque en ningún caso 
+existe una componente de la fuerza en la dirección del despla-
+zamiento. La situación b) es la de valor más negativo porque 
+el ángulo entre la fuerza y el desplazamiento es 180°.
+7.3 d). Debido al intervalo de valores de la función coseno, 
+A
+S
+  B
+S
+  
+tiene valores que varían de AB a AB.
+7.4 a). Puesto que el trabajo invertido al comprimir un resorte 
+es proporcional al cuadrado de la distancia de compresión 
+x, duplicar el valor de x hace que el trabajo aumente cuatro 
+veces.
+7.5 b). Ya que el trabajo es proporcional al cuadrado de la distan-
+cia de compresión x y la energía cinética es proporcional al 
+cuadrado de la rapidez v, duplicar la distancia de compresión 
+duplica la rapidez.
+7.6 c). El signo de la energía potencial gravitacional depende de 
+su elección de configuración cero. Si los dos objetos en el sis-
+tema están más juntos que en la configuración cero, la energía 
+potencial es negativa. Si están más separados, la energía poten-
+cial es positiva.
+7.7 i), c). Este sistema muestra cambios en energía cinética, así 
+como en ambos tipos de energía potencial. ii), a). Puesto que 
+la Tierra no se incluye en el sistema, no hay energía potencial 
+gravitacional asociada con el sistema.
+7.8 d). La pendiente de una gráfica U(x) en función de x es por 
+definición dU(x)dx. De la ecuación 7.28, se ve que esta expre-
+sión es igual al negativo de la componente x de la fuerza con-
+servativa que actúa sobre un objeto que es parte del sistema.
+Respuestas a las preguntas rápidas
+F1
+F2
+150
+35.0
+y
+x
+
+
+Figura P7.58
+
+En el capítulo 7 se presentaron tres métodos para almacenar energía en un sistema: ener-
+gía cinética, asociada con el movimiento de los integrantes del sistema; energía potencial, 
+determinada por la configuración del sistema y energía interna, que se relaciona con la 
+temperatura del sistema.
+Ahora se considera el análisis de situaciones físicas aplicando la aproximación de ener-
+gía para dos tipos de sistemas: sistemas no aislados y aislados. Para sistemas no aislados se 
+investigarán formas en que la energía cruza la frontera del sistema, lo que resulta en un 
+cambio en la energía total del sistema. Este análisis conduce a un principio muy importan-
+te llamado conservación de energía. El principio de conservación de la energía se extiende 
+más allá de la física y se aplica a organismos biológicos, sistemas tecnológicos y situaciones 
+de ingeniería.
+En los sistemas aislados la energía no cruza la frontera del sistema. Para dichos sistemas, 
+la energía total del sistema es constante. Si dentro del sistema no actúan fuerzas no conser-
+vativas, se aplica la conservación de energía mecánica para resolver varios problemas.
+Las situaciones que suponen la transformación de energía mecánica en energía interna 
+debido a fuerzas no conservativas requieren un manejo especial. Se investigan los proce-
+dimientos para estos tipos de problemas.
+Por último, se reconoce que la energía puede cruzar las fronteras de un sistema en 
+diferentes cantidades. La rapidez de transferencia de energía se describe con la cantidad 
+potencia.
+ 195
+8.1  El sistema no aislado: conservación de energía
+8.2  El sistema aislado
+8.3  Situaciones que incluyen fricción cinética
+8.4  Cambios en energía mecánica para fuerzas  
+no conservativas
+8.5  Potencia
+8 Conservación de energía
+A medida que un esquiador se desliza por una colina, el sistema 
+esquiador–nieve–Tierra experimenta cambios en energía cinética, en 
+relación con la rapidez del esquiador; la energía potencial, en proporción 
+con la altitud del esquiador; y la energía interna, en relación con la 
+temperatura de los esquíes, la nieve y el aire. Si la energía total de este 
+sistema se evaluara en varios instantes durante este proceso, el resultado 
+sería el mismo en todo momento. Una aplicación del principio de 
+conservación de la energía, a analizar en este capítulo, es que la energía 
+total de un sistema aislado permanece constante. (    aaleksander/
+Shutterstock)
+©
+
+196

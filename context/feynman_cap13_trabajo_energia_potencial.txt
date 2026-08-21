@@ -1,0 +1,508 @@
+Tema: Trabajo y energía potencial (Capítulo 13 — Lecciones de Física, Feynman, Vol. I)
+
+13-1 Energia de un cuerpo que cae 
+13-2 Trabajo realizado por la gra­
+vedad 
+13-4 Campo gravitacional de objetos 
+grand es 
+13-1 Energia de un cuerpo que cae 
+En el capitulo 4 discutimos la conservaci6n de la energia. En esa discusi6n no 
+empleamos las !eyes de Newton, pero es, por supuesto, de gran interes entender c6-
+mo sucede que esa energia se conserve de hecho de acuerdo con estas leyes. Para 
+mayor claridad empezaremos con el ejemplo mis simple posible, y despues desarro, 
+llaremos ejemplos mis y mas dificiles. 
+El ejemplo mil.s simple de conservaci6n de energia lo constituye un objeto que 
+cae verticalmente, que se mueve s6Jo en dirocci6n vertical. Un objeto que cambia 
+su nltura bajo la influencia de la gravedad solamente, tiene una energia cinetica 
+T (o E.C.) debida a su movimiento durante la caida, y una energia potencial mgh, 
+abreviada U o E.P., cuya suma es constante. 
+~~ + :;h =- constante, 
+T 1- U = constantc. (13.1) 
+Ahora nos gustaria demostrar la va!idez de esta afirmaciOn. (.QuC queremos dedr 
+con demostrar su validez? A partir de la segunda Icy de Newton podemos decir 
+fa:cilmente c[)mo se mueve c! ohjeto, y es facil averiguar que la velocidad cambia 
+con el tiempo, es decir, que aumenta en proporciOn al tiempo y que la altura varia con 
+el cuadrado dei tiempo. De manera que si medimos !a altura a partir de un punto 
+cero donde el objeto est3 en rcposo, no es ninglln milagro que la altura sea igual al 
+cuadrado de la ve!ocidad multiplicada por un nllmero de constantes. Sin embargo, 
+observemos esto un poco mils detenidamente. 
+Averigiiemos directamente a partir de la segunda Icy de Newton c6mo debe 
+variar la energla cinetica, tomando la derivada de la energia cinetica con respectQ. 
+al tiempo y despues empleando las !eyes de Newton. Derivando ! mv1 respecto al 
+tiempo, obtenemos 
+(JJ.2) 
+13-1
+
+ya que m se supone constante. Pero segUn la segunda ley de Newton. m (di·/ dl) = F, 
+de modo que 
+dT/dt = h. (IJ.J) 
+En general, resultaril ser F · v, pero en nuestro caso unidimensional dejemos!o coma 
+fuerza por veloddad. 
+Ahora bien, en nuestro ejemplo simple la fuerza es constante, igual a - mg, una 
+fuerza vertical (el signo menos indica que actlla hacia abajo), y la velocidad, por su­
+puesto, es la dcrivada de !a posici6n vertical: o altura h, respecto al tiempo. Asi la 
+derivada de la energia cinetica es -mg (dh/ dt), cantidad que, milagro de milagros, jes 
+la derivada de otra cosat jEs la derivada respecto al tiempo de mgh! Por consiguiente, 
+a medida que pasa el tiempo, las variaciones de energia cinCtica y de !a cantidad mgh 
+son iguales y opuestas, de manera que la suma de las dos cantidades permanece cons­
+tante, Q.E.D. 
+Fig 13-1 Un 
+VC'dad 
+1nov1endos<' sol!re 
+la.Jcc1oridelagra-
+Hemos demostrado. partiendo de !a segunda Icy de Newton de! movimiento. que 
+la energia se conserva en los casos de fuerzas constantes, cu:mdo sumamos la energia 
+potencial mgh a !a energia cinCtica ~mri. Ahora estudiemos un poco mas y vea-
+mos si se puede generalizar y as! avanzar en nuestro t,Funcwna s6lo 
+en la caida !ibre o es mils general? Esperamos de nuestra discusion sobre la conser­
+vaci6n de la energia. que esta de resultados para un objeto que se mun·e de un punto 
+a otro en una especie de curva sin roce. bajo la inf1uencia de la gravedad (rig. 13-1 ). 
+Si el objeto alcanza cierta altura h desde una altura original H, la misrna formula sena 
+corrccta tambien, aunque la ve!ocidad sea ahora en alguna direcci6n d1strnta de 
+tical. Nos gustaria comprender por que la ley es todav1a correcta. Sigamo~ cl 
+arnilisis, averiguando la dcnvada de la energia cmCt1ca con respecto al ticrnpo. 
+otra vez mt• (dvl di), pero m (d1,/dt) e~ la deri ... ada del modulo del 
+lafuerza en la direcci6n def mol'im1e1uo, la fuerza tangencial F,. 
+Ahora bien. la 
+va. d.\/dt, y la 
+la distancia ds a lo 
+dh 
+F 1 - - mR sen fl ~ - mg (ti· . 
+13-2
+
+de manera que 
+F <!.~ = - mg (<!._~)(t_!_~) = - mg t_!__dl', 1 dt ds dr I 
+ya que los ds se cancelan. Asi. pues, tenemos -mg (dh/dt), que es igual a la deriva­
+da de mgh como antes. 
+Para poder entender exa~tam~nte c6mo fun~iona. !a co~servaci6n de la energia 
+en la mecinica en general, d1scutiremos en segmda c1erto numero de conceptos que 
+nos ayudarin a analizarlo. 
+Primera, discutiremos la variaciim de la energia cinCtica en general en tres dimen­
+siones. La energia cinetica en tres dimensiones es 
+Si derivamos esta ecuaci6n con respecto al tiempo. obtenemos tres tCrminos espan-
+tosos: 
+dT 
+dt 
+rj!.!_ + 1'- 0_y + 1· <!!.!.). di ii dt ' dt (13.4) 
+Pero m(dvjdl) es la fuerza Fx que actU.a sobre el objeto en la direcci6n de x. De 
+manera que el primer miembro de la ecuaci6n (!3.4) es Fx•'x + Fyvy + F2 vz. Recor­
+dando nuestro c<i.!culo vectorial reconocemos esto como f · v: por consiguiente, 
+dT/dt = F · v. (13.5) 
+Este resultado puede deducirse mils ripidamente como sigue: si a y b son dos vec­
+tores que dependen de! tiempo, la derivada de a· b es, en general, 
+d(a · b)/dr = a· db/dt + (da/dt) · b. (13.6) 
+Entonces usamos esto en la fonna a = b = v: 
+Debido a que los conceptos de energia cinetica y energia en general son tan 
+importantes, se han dado diversos nombres a los importantes t6minos en ecuacio­
+nes tales como estas. ~mv 1 se denomina, como sabemos, energ{a ciniitica. F · v se 
+llama potencia: la fuerza que actU.a sobre un objeto por la velocidad del objeto (pro­
+ducto escalar de vectores) es la potencia entregada al objeto por esa fuerza. Asi, 
+pues, tenemos un maravilloso teorema: La variaciOn de la energia ciniitica de un 
+objeto es iguaf a la potencia gastada por Iafuerza que actUa sobre et. 
+Sin embargo, para estudiar la conservaci6n de la energia queremos analizar esto 
+mis detenidamente. Calculemos la variaci6n de la energia cinetica en un tiempo 
+dt muy corto. Si multiplicamos ambos miembros de la ecuaci6n (13.7) por dt, encon­
+tramos que la variaci6n diferencial de la energia cini:tica es la fuerza "'escalar" la 
+distancia diferencial en que se ha movido 
+dT = F·ds. (13.8) 
+13-3
+
+Si ahora integramos, obtenemos, 
+J.T = f F·ds. (13.9) 
+~Que signilica esto? Signilica que s\ un objeto se mueve de una manera cualquiera 
+bajo la influencia de una fuerza, moviCndose en una cierta clase de trayectoria cur­
+va, entonces la variaci6n de E.C. cuando va de un punto a otro a lo largo de la 
+curva es igual a la integral de la componente de la fuerza segUn la curva. por el 
+despla1.amiento diferencial ds, efectuil.ndose !ti integraci6n de un punto al otro. Esta 
+integral tambiCn tiene nombre; se llama trabajo efectuado por la fuerza sobre el 
+objeto. Vemos inmediatamente que potencia es trabajo realizado por segundo. Ve­
+mos tambiCn que e~ s6lo una componente de la fuer1.a en la direcci6n de! mol'imiento 
+la que contribuye al trabajo efectuado. En nuestro sencillo ejemplo. las fuerzas eran 
+s61o verticales y tenian una sola componente, digamos F, igual a -mg. No importa 
+c6mo se mueve el objeto en esas circunstancias, cayendo en parabola por ejemplo, 
+F · ds, que se puede escribir como: F.,dx + F,dy + F7 dz, se reduce a F,dz- -m!! dz, 
+porque las otras componentes de !a fuerza son cero. Por consiguiente, en nuestro caso 
+sencillo: 
+fr·ds = { 2 -mgdz = -mg(z 2 - z1 ), (13.lO) 
+de manera que otra vez descubrimos que s6lo la altura vertical desde la que cae el 
+objeto es la quc contribuye a la energia potencial. 
+Una palabra sabre unidades. Puesto que !as fue;zas se miden en newtons y mul­
+tiplicamos por una distancia para obtener trabajo, el trabajo se mide en newton 
+· metros (n · m), pero a la gente no le gusta decir newton-metros, smo que prefiere 
+decir joules (J). Un newton-metio se denoIT'Jna jou!e: el trabajo se mide en joules. 
+Potencia, entonces, es JOUies por segundo y a esto se le llama watt (W). Si multi­
+plicamos watts por el tiempo, el resultado es el trabajo efectuado. El trabajo que 
+efectUa la compaiila electrica en nuestras casas, tecnicamente hablando, es igual 
+a !os watts por el tiempo. De ahl obtenemos cosas tales como kilowatt-hara, 1.000 
+watts por 3.600 segundos o sea 3,6 x 106 joules. 
+Tomemos ahora otro ejemplo de la ley de conservaciOn de la energia. Conside­
+remos un objeto que tiene inicialmente energia cinetica y que se mueve muy rilpido 
+y que resbala sobre el piso con race. Se detiene. Al comienzo la cnergia cinftica 
+no es cero, pero al final es cero; hay trabajo efrctuado por las fuerzas, porque 
+cuando hay roce siempre hay una componente de la fuerza en direcci6n opuesta a la 
+del movimiento. de mancra que la energia se pierde paulatinamente. Pero ahora con­
+sideremos una masa ubicada en el extrema de un pivote que oscila sin roce en un 
+piano vertical en un campo gravitacional. Lo que sucede aqui es diferente, porque 
+cuando la masa se mue\e hacia arriba, !a fuerza actUa hacia abajo y cuando la masa 
+baja, la fuerza tambiCn es hacia abajo. Asi F · ds tiene un signo al moverse hacia 
+arriba y otro al bajar. En cada punto correspondieme en el camino hacia arriba y 
+hacia abajo, !os valores de F · ds son exactamente iguales en m6dulo, pero de sig­
+nos opuestos, de manera que el resultado neto de la integral serit cero para este case. 
+La energia cinetica con que la masa vuelve al punto mils bajo es !a misma que tenia 
+al partir; esto es el principio de la conservaci6n de !a energia. (Noten que cuando 
+existen fuerzas de race. parece a primera vista que la rnnservaci6n de la energia 
+noes vii.Iida. 
+134
+
+Tcnemos que encontrar otra forma de energia. Resulta, en realidad, que se genera 
+ca/or en un objeto cuando roza con otro, pero por el momento, segUn lo que se su­
+pone, eso no lo sabemos.) 
+13~2 Trabajo realizado por la gravedad 
+El siguiente problema a discutir es mucho mils dificil que el anterior; tiene que 
+ver con el caso en que las fuerzas no son constantes o simplemente verticales, como 
+lo fueron en los casos que acabamos de resolver. Queremos considerar un planeta, 
+por ejemplo, que se mueve alrededor de! sol o un satelite en el espacio alrededor 
+de la tierra. 
+13-2. Una pequena rnasa m cae 
+bajo acci6n de la gravedad hacia la rnasa 
+grande M 
+Primero consideremos el movimiento de un objeto que parte desde el punto I y 
+cae, digamos, direciamente hacia el sol o bacia la tierra (Fig. 13.2). iHabr<i una 
+ley de conservaci6n de la energia en estas circunstancias? La {mica diferencia es 
+que en este caso la fuerza est<i cambiando a medida que avanzamos, no es prl!Cisa­
+mente una constante. Como sabemos, la fuerza es GM/ r2 multiplicado por la masa 
+m, en que m es la masa que se mueve. Ahora, ciertamente, cuando un cuerpo cae a 
+la tierra, la energ[a cinetica aumenta al aumentar la distancia caida, ta! como sucedc 
+cuando no nos preocupamos de la variaci6n de la fuerza con la altura. El asunto 
+es, si es posible encontrar otra fOrmula para la energia potencial diferente de mgh, 
+una funci6n diferente de la distancia a la tierra, para que la conservaci6n de la 
+energla contlnlle siendo v<ilida. 
+Este caso unidimensional es rad! de resolver porque sabemos que la variaci6n 
+de la energia cinetica es igual a la integral, de un extremo de! movimiento al otro, 
+de -GMm/ r1 por el desplazamiento dr: 
+(13.l!) 
+No se necesitan cosenos en este caso porque la fuerza y e! desplazamiento tienen 
+la misma direcciOn. Es foci! integrar dr/r 1 ; el resultado es -1/r, de manera que la 
+ecuaci6n (13.11) se transforma en 
+(13.12) 
+Asi obtenemos una formula diferente para la energia potencial. La ecuaci6n (13.12) 
+nos dice que la cantidad (~mv 2 -GMm!r) calculada en el punto l, en el punto 2 o en 
+cualquier otro !ugar, tiene un valor constante. 
+Ya tenemos la f6rmula de la energla potencial para el movimiento vertical en un 
+campo gravitacional. Ahora se nos presenta un problema interesante. t.Podemos 
+con_seguir movimiemo perpetuo en un campo gravitacional? El campo gravitacional 
+vana: en lugares d1fercnles 
+13-5
+
+tiene direcciones diferentes y tiene intensidades diferentes. (.Podnamos hacer 
+algo asi como esto, usando una trayectoria fija y sin roce: cmpezar en algUn 
+punto y levantar un objeto hasta alglin otro punto. luego moverlo en un arco 
+hasta un tercer punto. !uego baJarlo cierta d1stancia. desputs moverlo oblicua­
+mente y sacarlo por otro camino. para que al llevarlo al punto de partida cierta can­
+tidad de trabajo haya s1do efectuada por la fuerza gravitacional y la energia cinttica 
+del objeto haya aumelltado? t,Podemos idcar la curva de manera que el Objcto vuel­
+va movifndose un poquito mils ni.pido que antes. de manera que df vueltas y vueltas 
+y nos dC movimiento perpetuo? Como el movimiento perpetuo es imposiblc, debe­
+mos hallar que tambii:n esto es impostble. Debemos descubrir la s1guiente proposi­
+ci6n: como no hay roce, el objeto dcbena volver con una velocidad ni mayor ni 
+menor, deberia poder seguir dando vueltas y vueltas en cualquier trayectoria ccrra­
+da. Expres<indolo de otra manera, el trabajo total efectuado al completar un ciclo 
+debe ser cero para fuerrns de gravedad. porque si no e> cero, podemos sacar ener 
+gia dando vueltas. (Si el trabajo resulta ser menor que cero, de manera que obtene­
+mos menos velocidad al dar vuelta en una direcci6n, entonces s1mplemente damos 
+vuelta en la otra direcciOn. porque las fuerrns. por supuesto, dependen sO!o de la 
+posici6n, no de la direcci6n; ~1 en un sentido es positivo, en el otro sentido seril ne­
+gativo, de manera que, a menos que sea cero, obtendremos movimiento perpetuo 
+dandc vueltas en cualquier sentido.) 
+.~· .~ 
+t1g 13-3 Ur1a trayecto11a cerrad<J e1' un 
+Cclmpo 
+;,Es el trabajo realmente cero? Procuremos 
+a explicar mils o menos por que es y de~pues 
+matemiiticamente. Supongamos que una 
+se ve en la figura 13-3, en que una masa pequei'ia 
+puCs da vuelta en un circulo hasta 3, sigue hacia 4. 
+mente, vuelva a I. Todas !as lineas o son puramentc 
+coma centro. "Cuitnto trabajo se reahza al llevar m por este 
+to~ I y 2 es GMm por la d1ferencia de I Ir entre esto~ dm puntos· 
+De 2 a 
+3 la fuerrn es exactamente perpendicular a la curva. luego W 11 °'- 0. El 
+trabajo entre 3 y 4 es 
+WJ 4 = tF·ds = -GMm(J_ _ _I_)· }3 r.1 r3 
+En igual forma encontramos que = 0. W50 = -GMm(l/r,, llr). ~V61 = 0. 
+W78 = -GMm(I/ rs - I/r1 ) y Wa 1 = 
+13-6
+
+Por consiguiente 
+W = GMm (-~ - -~. + -~ - -~ + J. - -1-- + _!_ - J_) · 
+r1 r2 ~ r4 rs r5 r1 ~ 
+Pero notamos que 'i = r3, r4 = 'i• '~ = r7• r8 -- r 1. Por consiguicnte If'= 0. 
+Fig. 13-4. Una trayectona ccrrada 
+mostrando un scgmcnto ampl1ado de ella 
+con una serie de escalones for­
+por segmentos rad1ales y arcos de_ 
+c1rcunferenua, y unci vista aumentada de un 
+escal6n 
+Naturalmente podriamos preguntarnos si esta es una curva demasiado trivial. 
+;,Quf pasa si consideramos una curva real'? Hagamos la prueba con una curva real. 
+Antes quc nada podriamos afirmar que una curva real siempre se puede represen 
+tar lo suficientemente bien por una serie de dientes de sierra los que se ven 
+en la figura 13-4 por consiguicnte, etc .. Q.E.D., pero pequeii.o anilisi~ 
+no es obvio al que el trabajo efectuado al rccorrer un pequciio tniln-
+gulo sea cero. de !os triiingulos, como se muestra en figura 13-4. 
+t.Scril el trabajo que se movcrsc dcsde a hasta b y desde b hasta c en un 
+tri<i.ngulo el mismo que cfectuado al ir directamente desde a hasta e? Su-
+pongan que la fuerza en direcci6n; consideremos un triiingulo cuyo !ado 
+be tienc esta direcciOn, como un ejemplo. Tambit:n el triimgulo 
+sea tan pequciio sea csencialrnentc el triiingulo. 
+(.Cuil.nto trabajo se moverse desde a ha>.ta 
+W,, 0 = J.'F ds = Fscostl, 
+ya que la fuerza es constante. Calculemos ahora el trabajo que se efectlla al reco~ 
+rrer los otros dos !ados dcl triilngulo. En el !ado vertical ab la fuerza es perpendicu­
+lar a ds, de manera que aqui el trabajo es cero. En el lado horizontal be, 
+W11 c = J,,c F · ds = Fx. 
+Se comprcnde entonccs. que el trabajo efectuado al moversc a lo largo de los ]ados 
+de un triti.ngulo pequeiio es igual al efectuado al moverse en un plano inclinado. por­
+que s cos 0 es igual a x. Hemos demostrado previamente que el resultado es cero 
+para cualquicr trayectoria compuesta de una serie de muescas como las de !a figura 
+13-3 y tambicn que se efectUa e! mismo trabajo si atravesamos de csquina a esquina 
+en vez de seguir las muescas (siempre que las muescas scan lo suficientemente finas. 
+y siempre podemos hacerlas muy finas); por consiguiente, el trabajo efectuado al 
+recorrer cualquier cerrada en un campo gravitacionul es eero. 
+Este es un muy notable. Nos dice algo quc no sabiamo~ antes respccto 
+al movimiento Nos dice que cuando un planeta se mueve alrededor del 
+so! (sin que haya otros cuerpos cerca. ni otras fucrzas). se mueve en ta! forma. que 
+13-7
+
+el Cuadrado de la velocidad en cualquier punto, menos ciertas constantes divididas 
+por el radio en ese punto, es siempre igual en cada punto de su 6rbita. Por ejem­
+plo, cuanto mis cerca de! sol se encuentre el planeta, mis riipido se moveril; pero, 
+z.cuilnto mils? Tanto coma lo que sigue: si en vez de dejar que el planeta gire alre­
+dedor del sol, le cambiiramos !a direcci6n (pero no el m6dulo) de su velocidad y lo 
+hicieramos mover radialmcnte y !uego lo dejitramos caer desde un radio especial al 
+radio que intcresc, la nueva velocidad scria la mi~ma que la quc tenia en su c'irbita 
+real, porque este es s6lo otro ejemplo de trayectoria complicada. Siempre que regre­
+semos a la misma tlistancia, la cnergia cinCtica seril la misma. Asi. tanto si el movi­
+miento es el real. no pcrturbado, coma si se le cambia la direcciOn por medio de 
+canales, o vinculos sin roce, la encrgia cmCtica con que el planeta llega a cierto 
+punto seril s1empre la misma. 
+Por lo tanto, cuando hacemos un anillisis numCrico del movimiento de! planeta 
+en su Orbita, como lo hicimos anteriormente, podemos verificar en cada paso si e~­
+tamo~ o no comcticndo errore~ aprcciablcs al ca!cular e~ta cantidad constante, la 
+energia. y esta no deberia cambiar. Para !a 6rbita de la tabla 9-2 la energia ~i 
+ria*. vana en alrededor de 1.5 c1ento desde cl µrincipio hasta cl fin. (,Por 
+Bien porque en el metoJo empleamos intcrvalos no infinites!malc;,, o 
+porque cometimos un error en lo5 cakulos aritmeticos en a!guna pane. 
+Estudiemos la energia en otro cam: 
+Cuando desplarnmo5 la masa de 
+es proporcional a! desplarnmicnto. 
+ley para la conservaci6n de la 
+fuerza como esa 
+= { -kx dx = -1kx 2. (!3.13) 
+fija a un 
+es una constante. c6mo funciona e;,to. Tira-
+estil dctemda alm. por lo quc su velocidad es cero. Pero 
+x no es cero, x en su valor mitximo, entonces existe alguna energia, la encrgla 
+potencial por Ahora soltarnos la masa y algo cmpieza a suceder (no va· 
+mos a discutir pero en cualquier instante la energia cinetica mas la potcn-
+cial debe ser una constante. Por ejcmpio. una vez quc la masa en su recorrido pasa 
+el punto original de equdibrio. la posiciOn x es igual a cero, pero esto ocurre cuando 
+tiene su mayor i•', y a medida que logra mayor x2 obtienc menos "r2 , y asi sucesiva­
+mentc. De mancra que el balance de x~ y 1·' se manti<>ne cuando la masa se mueve 
+bacia arriba y hacia abaJO. Asi tenemos ahora otra regla, quc la energia potencial 
+para un resorte es \11.x', si la fuerza es -kx. 
+13-3 Suma de energias 
+Entramos ahora en cons1derac10nes m:is generalcs sobre lo que sucede cuando 
+hay un gran numero de objttos. Supongan que tenemos el comp!icado problema 
+constituido por mucho5 objetos, que designaremo~ per i = t. 2, 3 •... , todos cjercien­
+do a1racc10nes gravitac1onale~ cntre 
+• La energia es l (1\' + v, ') l/ r en las unidades de la Tabla 9-2 
+13-8
+
+si. ·QuC succde entonces'? Vamos a demostrar que si sumamos las enc~gias cineticas 
+de ~odas las particu!as y agregamos a esra. la suma, extendida a todm los pares de 
+particulas. de su energia potencial gravitatona mutua - GllJm 1rij, el total es una cons­
+tante: 
+L:~m,1,; + L - = const. (13.14) 
+(parosi1) 
+,:,COmo lo dcmostramos? Derivamos cada miembro con respecto al tiempo y obte­
+ncmos cero. Al derivar ~m1 i'i, encontramos derivadas de la velocidad que son las 
+fuerrns tal como en la ecuaci6n ( 13.5). Rccmplazamos cstas fuerzas por la lcy de 
+fuerza que conocemos a partir de la ley de gravcdad de y observamos en-
+tonces que lo que queda es lo mismo que la derivada respecto al de 
+2: - <}_~'!_!!_1!1_. 
+pares r;J 
+La derivada respecto al tiempo de la cnergia ci110tica es 
+d"' ' " d,, di~ 2111,1 1 = £..: 111 1v, (Ji 
+~ L (L _ Gn"if""') . "· 
+; J r,, 
+La derivada respecto al ticmpo de la encrgia potcncial es 
+Pero 
+de manera que 
+~ ~' _ G1~'.1 ,;n) = ~. (-1 ~J,~:1~i~ )C~/). 
+d''" ~ I_ [1cx - x) (~ - dxJ) dt 2r,j ' J dt di 
++2(y; - YJ)(~' - %) 
++2(z, - z;) ( ~~ - ~~/) J 
+= f;J. v, - Vj 
+r11 
+= r 11 • 2 + r1 ,- ~~, 
+(13.15) 
+13-9
+
+ya que ru· = -rl', mientras que ru = rJ,. Asi 
+~'I: - ~~!_~ = 2: [Q!?2~~!L~-~. v, + Gm;:;,r}! v1] (13.16) 
+pare; 'J pare> r,, 'i' 
+Ahora debemos toma~ nota cuidadosamcnte de lo que significan ~ {~} y p~,' En 
+la ecuaciOn (13.15) ~ {~} sigmfka que i to~1a todo~ los valores i = l. 2, 3, ... por 
+valor de 1, el indice j toma todos los \alorcs excepto i. Asi. si 
+2. 4 .... 
+por otro !ado.~ signilica que "alores dados de i y dej 
+par"' 
+ocurren sOlo una vcz. Asi, el par de particulas I y 3 contribuye sOlo con un termino 
+a la suma. Para seguir el hilo de esto, podemos ponernos de acuerdo que i asuma 
+todos los valores l, 2. 3 .... , y que para cada i deJcmm quej se extienda sOlo sabre 
+valores mayor('s que i. Entonces. si i -= 3.j podria tornar s6lo los valores 4. 5, 6 .. 
+Pero notamos que para cada valor de i,j hay dos contribuciones a !a suma, una en 
+que intc~viene v, } la otra en 4~e intervlene vr y quc estos tfrminos tienen la misma 
+apanencia que !os de la ecuacion (13.14), en quc rodos los valores de i y dej(ex­
+ccpto i - j) estim incluido~ en la suma. Por consiguiente. al aparear los terminos 
+uno ror uno, observamos que las ecuaciones (13.16) y (13.15) son exactamente 
+iguales, pcro de signo conlrario. de manera que la derivada respecto al tiempo de 
+la energia cmetica mils la energia potencial es en realidad cero. Asi observamos que, 
+muchos objetos. fa energia cinhica es la suma de las contribuciones de cada 
+individual la encrgia potencial es tambien sencilla, siendo tambien s61o 
+rnotcib<mooe;. las energias entre todos los pares. Podemos compren­
+energia de cada par: supongan que queremos encontrar 
+que ~c dcbe efectuar para traer los objetos a cicrtas 
+hacer esto en varias etapas. trayendolos desde el infi­
+uno por uno. Pnmero traemos al nUmcro uno, quc 
+otros cuerpos presentes que ejerrnn fuerzas so­
+nurncro dos, quc requiere algo de trabajo. a saber 
+un punto 1mportante, supongan que traemos 
+cualquicr momc!1!o !a fuerza que actUa sobre 
+enlonccs cl trabajc' e" 
+como la suma de dos fuerrns -la fuerza ejercida por el 
+cl 2. Por consiguicntt!, et trabajo efectuado es 
+par cada uno, porque s1 F 1 se.puede descompo-
+jF.i ·ds ~ jF1J ·ds + fF2J ·ds = Wl'l -i- W2.i· 
+el trabaJO efectuado e5 la suma Jel trabajo efcctuado en contra de la pn­
+) la 'egunda fucrza. como ;,i cada una actuara indepcndicntemente. Pro­
+e\ta rnanera. vemos que el trabajo total que se necesita para armar la 
+Jada de los objctos cs preclsamente el valor dado en la ecuaciOn 
+como energia potenciaL Es porque la gravedad obedece al principio de super 
+de la;, fucrws que podcrnos escribir la energia potencial coma una suma 
+sob1..:: cada par de part1cula~. 
+13-10
+
+Fig. 13-5. La fuerza grav1tacronal F sob re 
+una masa puntual producida por una l<im1na 
+plana infinita de matena. 
+13-4 Campo gravitacional de objetos grandes 
+Ahora vamos a calcular los campos que se encuentran en algunas circunstan­
+cias fisicas en que interviene una distribuci6n de masa. Hasta aquj no hemos con­
+siderado la distribuci6n de masas, sO\o particu\as, de manera que es interesante 
+calcu\ar !as fuerzas cuando son producidas por mti.s de una sola particula. Primero 
+encontraremos la fuerza gravitacional sabre una masa producida por una hoja plana 
+de material, de extensi6n infinita. La fuerza sabre una unidad de masa en un punto 
+dado P. producida por esta hoja de material (Fig. 13-5), estarti., por supuesto, diri­
+gida hacia la hoja. Sea a la distancia de! punto a la hoja y seaµ la masa por unidad 
+de superficie de esta gran hoja. Supondremos que µ es constante; es una hoja de 
+material uniforme. Ahora, i,quC pequefio campo dC produce la masa dm que se en-
+~ue~~~=st:~t~Cp ! dr;m;t(;3)~c~~~o e~it~ 0c1~m~od:s~: ~i~t;id~a:e;i~c:,n~ s~b~~~~ :u: 
+solamente quedarit la componente x al sumar todos los pequeilos vectores dC para 
+producir C. La componente x de dC es 
+dC,, = G d~rx = G lf7(!-. 
+Ahora bien, todas las masas dm que se encuentran a la misma distancia r de P da­
+riin la misma dC_,, de manera que podemos escribir inmediatamente que dm es la 
+masa total del anillo entre p y p f dp, es decir. dm = p27rp dp (2n:pdp cs cl ti.rea 
+de un anillo de radio p y ancho dp, si dp<~p). Por lo tanto 
+dC, = Gµhp 
+Entonces ya que r1 =- 111 - a1 , p dp '""' r dr. Por consiguiente 
+J" J, (' l \ Cx = 2IrGµa -· = 2JrGµa - - --; = 2IrGµ. u ,2 a 0() 
+(13.!7) 
+13-1 !
+
+a causa de las variaciones inversas de la intensidad de la fuerza de una masa dada 
+y la cantidad de masa incluida en el cono a! cambiar la distancia. La fuerza no es 
+realmente constante, por supuesto, porque al pasar al otro !ado de la 13.mina cambia 
+de signo. 
+En efecto, tambien hemos resueito un problema elCctrko: si tenemos una placa 
+cargada eli:ctricamente, con una carga a por unidad de superficie, el campo e!Cc­
+trico en un punto fuera de la placa es igual a a/2t 0 y tiene direcciOn hacia afuera, 
+si la placa esta cargada positivamente, y hacia adentro, si la p!aca est3. cargada ne­
+gativamente. Para demostrar esto, ohservemOs sencillamente que G, la gravedad, 
+juega el mismo papel que 1/ 4;u 0 en la electricidad. 
+Supongan ahora que tenemos dos p!acas, con una carga positiva +a en una 
+placa y una carga negativa -a en la otra a una distancia D de la primcra. lCuill 
+es el campo? Fuera de las dos placas es cero. lPor quC? Porque una atrae y ta otra 
+repele, siendo la fuerza independiente de la distancia, jde manera que las dos se 
+anulan! TambiCn, la fuerza entre la dos placas es claramente el doble de la que pro­
+duce una placa, a saber E = al lo, y estit dir1gida de la placa positiva a la negativa. 
+Ahora llegamos a un problema intercsante c importante, cuya soluci6n hemos 
+estado suponiendo todo e! tiempo, a saber, quc la fuerza producida por la tierra en 
+un punto sobrc su supcrficie o fuera de ella es la misma que se tcndria si toda la 
+masa de la tierra estuviera situada en su centro. La validez de esta suposici6n no 
+es evidente, porque cuando estamos cerca, pane de la masa se encuentra muy cerca 
+de nosotros y parte se cncuentra mils !ejos, y asi sucesivamente. jCuando sumamos 
+todos los efectos, parece un milagro que la fuerza resultante sea exactamente igual 
+a la que obtendriamos si cotocii.ramos toda la masa en el centro! 
+Fig. 13-6. Una cascara esferica delgada 
+de masa o de carga 
+Demostremos ahora qut el milagro es correcto. Para hacer esto, sin embargo, 
+vamos a considerar una cascara hucca, delgada y uniformc en vez de la tierra. Sea 
+m la masa total de la cascara, y calculcmos la energia potencial de una particula 
+de masa m' situada a una distancia R de la esfera (Fig. 13-6) y demostremos que 
+la energia potencial es la mi~ma que si la masa m fuera un punto en el centro. (Es 
+m.is facil trabajar con la energia potencial quc con el campo, porque no tencmos 
+que preocuparnos de los 8.ngulos, s61o sumamos las energias potenciab de todos los 
+trozos de masa.) Si designamos con x la distancia de cierta secciOn plana al cen­
+tro, la masa que se encuentra en una rebanada dx cst:l a la misma distancia r de 
+P, y la energia potencial producida por este anillo es Gm'dm/r. lCu<'inta masa 
+se encuentra en esta pequefia rebanada dx? Una cantidad 
+rim= 27ryµcl> = 
+en que o-- ml 4,,.a2 
+general que 
+superficial 
+= 27raµ dx, 
+en la cascara es!Crica. 
+es proporcional a su 
+13-12
+
+Por consiguiente, la energia potencial debida a dm es 
+Pero vemos que 
+Por lo tanto 
+Por consiguiente, 
+Entonces 
+dW = _ q!!!'...,.!!!!!_ = _ Gm'2;a!-' dx, 
+r2 = y2 + (R - x)2 = y2 + x2 + R2 - 2Rx 
+= a2 + R 2 - 2Rx. 
+2rdr = -2Rdx 
+dx dr 
+r =Ii.' 
+dW = _ Gm'2;aµ dr., 
+W = - '!_m'27raµ dr f,
+R+o 
+R R-" 
+= _ Gm1~1ra~ 2a = _ ~J_~ira 2 µ) 
+Gm'm -R-· (13.18) 
+Asi, para una cascara esferica la cnergia potencial de una masa m' fuera de la es­
+fera cs la misma que se tendria si toda la masa estuviera concentrada en el centro. 
+Podemos imaginar quc la tierra se compone de una serie de cascaras csfericas con­
+cCntricas, cada una de las cuales contribuye a la energia, que depende sO!o de su 
+masa y la distancia al centro; sumilndolas todas obtcnemos la masa total, y por 
+consiguiente, ;la tierra se comporta coma si toda su materia estuviera en el centro! 
+Pero observen Jo que ocurre si el punto se encuentra dentro de la esfera. Ha­
+cicndo los mismos c3.lculos, pcro con P en el interior, todavia obtcnemos la dife­
+rencia de las dos r, pero ahora en la forma a + R - (a - R) = 2R, o sea el doble 
+de la distancia al centro. En otras palabras. W se transforma en W = - Gm'm/ a, 
+que es independiente de R e independiente de la posici6n, es decir, encontramos la 
+misma energia independientemente de donde nos cncontremos en el interior. Por 
+consiguiente no hay fuerza; no se efectUa trabajo cuando nos movemos en el inte­
+rior. Si la energia potencial es la misma. no importa d6nde se coloca un objeto 
+dentro de una esfera, no puede actuar ninguna fucrza sabre el objeto. Asi es que 
+no existe fuerza en el interior, sOlo existe fuerrn en el exterior v esta es la misma 
+que habria si toda la masa estuviera concentrada en el centro. · 
+13-13
+
+14 
+Trabajo y energia potencial (conclusion)

@@ -1,0 +1,3250 @@
+Tema: Circuitos eléctricos básicos (Capítulo 18 — Física, Wilson)
+
+CAPÍTULO 18 Circuitos eléctricos básicos
+Nota: para resistores, V /H11005IR.
++ – V
+V = V1 + V2 + V3
+V
+I 
+R2
+R1
+R3
+a)
+V1 = IR1
+V2 = IR2
+V3 = IR3
+V1
+V2
+V3
+b)
+Rs = R1 + R2 + R3
+I 
+RsVV
+N FIGURA 18.1 Resistores en serie
+a) Cuando los resistores (que aquí
+representan las resistencias de las
+bombillas de luz) están en serie, la
+corriente a través de cada uno es 
+la misma. /H9018V
+i, la suma de las caídas
+de voltaje a través de los resistores,
+es igual a V, el voltaje de la batería.
+b) La resistencia equivalente R
+s de
+los resistores en serie es la suma 
+de las resistencias.
+Nota: para comprender mejor las
+conexiones de resistores, repase 
+el análisis de los condensadores
+conectados en serie y en paralelo
+en el capítulo 16.
+18.1 Combinaciones de resistencias en serie, 
+en paralelo y en serie-paralelo
+OBJETIVOS: a) Determinar la resistencia equivalente de resistores combinados en
+serie, paralelo y serie-paralelo y b) usar resistencias equivalentes para
+analizar circuitos simples.
+El símbolo de resistencia puede representar cualquier tipo de elemento de cir-
+cuito, por ejemplo, una bombilla de luz o un tostador. Aquí suponemos que todos los
+elementos son óhmicos (con resistencia constante), a menos que se indique otra cosa.
+(Hay que hacer notar que las bombillas de luz, en particular, no son óhmicas porque su
+resistencia aumenta de forma significativa conforme se calientan.) Además, como es
+costumbre, la resistencia de los alambres se considerará insignificante.
+Resistores en serie
+Al analizar un circuito, como el voltaje representa energía por carga unitaria, para con-
+servar la energía, la suma de los voltajes alrededor de una malla en un circuito es cero. Recuer-
+de que voltaje significa siempre “cambio en el potencial eléctrico”, así que las ganancias
+y pérdidas de voltaje se representan mediante los signos /H11001y /H11002, respectivamente. Por
+ejemplo, para el circuito en la 
+▼figura 18.1a, por la conservación de la energía (por cou-
+lomb) los voltajes individuales (Vi, donde i /H110051, 2 o 3) a través de los resistores se suman
+para igualar el voltaje ( V) a través de las terminales de la batería. Cada resistor en se-
+rie lleva la misma corriente (I) porque la carga no puede “acumularse” o “fugarse” en
+ningún punto del circuito. Al sumar las ganancias y pérdidas de voltaje, tenemos V /H11002
+/H9018Vi /H110050. Finalmente, sabemos cómo se relaciona el voltaje con la resistencia para cada
+resistor, Vi /H11005IRi. Al sustituir esta expresión en la ecuación anterior, obtenemos,
+V /H11002/H9018(IRi) /H110050o V /H11005/H9018(IRi) (18.1)
+Se dice que los elementos del circuito en la figura 18.1a están conectados en serie,
+o conectados, extremo a extremo. Cuando los resistores están en serie, la corriente debe ser
+la misma a través de todos los resistores, como se requiere por la conservación de carga. Si
+esto no fuera cierto, entonces la carga aumentaría o desaparecería, lo cual no es posi-
+ble. La 
+Nfigura 18.2 muestra el análogo flujo de agua a lo largo de una corriente inte-
+rrumpida por una serie de rápidos (que representan la “resistencia”).
+Si designamos la corriente común en los resistores como I, entonces la ecuación
+18.1 puede escribirse explícitamente para tres resistores (como en la figura 18.1a):
+Para la resistencia equivalente en serie (Rs) es el valor de un solo resistor que podría
+reemplazar los tres resistores por un resistor Rs y mantener la misma corriente, necesi-
+tamos V /H11005IRs o Rs /H11005V/I. Por consiguiente, de la ecuación previa, los tres resistores en
+serie tienen una resistencia equivalente
+Rs = V
+I = R1 + R2 + R3
+ = IR1 + IR2 + IR3 = I1R1 + R2 + R32
+ V = V1 + V2 + V3
+
+18.1 Combinaciones de resistencias en serie, en paralelo y en serie-paralelo 593
+ΔUgtotal
+ΔUg3
+ΔUg2
+ΔUg1
+Nota: Rs es mayor que la mayor
+resistencia en un arreglo en serie.
+Esto es, la resistencia equivalente de resistores en serie es la suma de las resistencias in-
+dividuales. Esto significa que los tres resistores (bombillas de luz) en la figura 18.1a
+podrían reemplazarse por un solo resistor de resistencia R
+s (figura 18.1b) sin afectar 
+la corriente. Por ejemplo, si cada resistor en la figura 18.1a tuviera un valor de 10 /H9024, 
+entonces Rs sería de 30 /H9024. Observe que la resistencia equivalente en serie es mayor que la 
+resistencia del mayor resistor en la serie.
+Este resultado puede extenderse a cualquier número de resistores en serie:
+(18.2)
+Las conexiones en serie no son comunes en algunos circuitos, tales como los ca-
+bleados domésticos, porque presentan dos desventajas principales en comparación
+con las conexiones en paralelo. La primera es clara si se considera qué sucede cuando
+uno de las bombillas en la figura 18.1a se funde (o cuando se quiere apagar sólo esa
+bombilla). En ese caso, todas las bombillas se apagarían, porque el circuito ya no sería
+completo o continuo. En tal situación, se dice que el circuito está abierto. Un circuito
+abierto tiene una resistencia equivalente infinita, porque la corriente es cero, a diferen-
+cia del voltaje de la batería.
+Una segunda desventaja de las conexiones en serie es que cada resistor opera a
+un voltaje menor que el de la batería ( V). Considere qué sucedería si se agregara un
+cuarto resistor. El resultado sería que el voltaje a través de cada una de las tres
+primeras bombillas (y sus corrientes) disminuiría, entregando una menor potencia a
+todas las bombillas. Esto es, las bombillas no darían el mismo brillo o luz. Es claro
+que esta condición no es aceptable en un arreglo doméstico.
+Resistores en paralelo
+También podemos conectar resistores a una batería en paralelo (▼figura 18.3a). En este
+caso, todos los resistores tienen conexiones comunes, esto es, todos los conductores a
+un lado de los resistores están unidos juntos a una terminal de la batería. Todos los
+conductores al otro lado están unidos a la otra terminal. Cuando los resistores están co-
+nectados en paralelo a una fuente de fem, la caída de voltaje a través de cada resistor es la mis-
+resistencia equivalente
+en serieRs = R1 + R2 + R3 + Á =© Ri
+> FIGURA 18.2 Analogía del flujo
+de agua con resistores en serie
+Aunque, en general, una diferente
+cantidad de energía potencial 
+gravitacional (por kilogramo) se
+pierde conforme el agua fluye por
+cada rápido, la corriente de agua 
+es la misma en todas partes. 
+La pérdida total de energía potencial
+gravitacional (por kilogramo) es la
+suma de las pérdidas. (Para hacer
+que este circuito de agua esté 
+“completo”, algún agente externo 
+—como una bomba— necesitaría
+trabajar de manera continua 
+haciendo que el agua regrese a la
+cumbre de la colina, restaurando así
+su energía potencial gravitacional.)
++ ––
+V = V1 = V2 = V3
+b)
+VV
+1123
+I 
+V
+a)
+Rp
+I 
+I 
+R2R1 R3
+V
+I = I1 + I2 + I3
+Rp     R1     R2     R3
+1   =   1    +   1   +   1
+I1 I2
+I3
+I1 I2 I3
+V = V1 = V2 = V3
+> FIGURA 18.3 Resistores en
+paralelo a) Cuando los resistores
+están conectados en paralelo, la
+caída de voltaje a través de cada
+uno de los resistores es la misma.
+La corriente de la batería se divide
+(por lo general, de forma desigual)
+entre los resistores. b) Resistencia
+equivalente R
+p de los resistores en
+paralelo está dada por una relación
+recíproca.
+
+594 CAPÍTULO 18 Circuitos eléctricos básicos
+ΔUg
+a) b)
+▲ FIGURA 18.4 Analogías de los
+resistores en paralelo a) Cuando
+un camino se bifurca, el número
+total de automóviles que entran 
+a las dos ramas cada minuto es
+igual al número de autos que 
+llegan a la bifurcación cada minuto.
+El movimiento de carga en una
+unión puede considerarse de la
+misma forma. b) Cuando el agua
+fluye desde una presa, la cantidad
+de energía potencial gravitacional
+que pierde (por kilogramo de agua)
+al caer corriente abajo es la misma
+independientemente de la trayec-
+toria de descenso. Esta situación 
+es análoga a los voltajes a través 
+de resistores en paralelo.
+ma. Tal vez no le sorprenda saber que los circuitos domésticos están conectados en pa-
+ralelo. (Véase la sección 18.5.) Esto se debe a que cuando la conexión está en paralelo,
+cada aparato doméstico opera a pleno voltaje, y encender o apagar uno de ellos no
+afecta a los demás.
+A diferencia del caso de los resistores en serie, la corriente en un circuito en para-
+lelo se divide en trayectorias diferentes (figura 18.3a). Esto ocurre siempre que se tiene
+una unión (un lugar donde varios cables se juntan), en forma parecida a como lo hace
+el tránsito en una carretera al llegar a una bifurcación (
+▲figura 18.4a). La corriente total
+que sale de la batería es igual a la suma de esas corrientes. Específicamente, para tres
+resistores en paralelo, I /H11005I1 /H11001I2 /H11001I3. Hay que hacer notar que si las resistencias son
+iguales, la corriente se dividirá de manera que cada resistor tenga la misma corriente.
+Sin embargo, en general, las resistencias no serán iguales y la corriente se dividirá en-
+tre los resistores en proporción inversa a sus resistencias. Esto significa que la mayor
+corriente tomará la trayectoria de mínima resistencia. Sin embargo, recuerde que un
+solo resistor no llevará toda la corriente.
+La resistencia equivalente en paralelo (Rp) es el valor de un solo resistor que po-
+dría reemplazar a todos los resistores y mantener la misma corriente. Así, Rp /H11005V/I o 
+I /H11005V/Rp. Además, la caída de voltaje (V) es la misma a través de cada resistor. Para vi-
+sualizar esta situación, imagine una analogía hidráulica. Considere dos trayectorias se-
+paradas para el agua; cada una va de la parte superior de una presa al fondo. El agua
+pierde la misma cantidad de energía potencial gravitacional (de forma análoga a V) 
+independientemente de la trayectoria (figura 18.4b). Para la electricidad, una cantidad
+dada de carga pierde la misma cantidad de energía potencial eléctrica, independien-
+temente del resistor en paralelo por el que pasa.
+La corriente a través de cada resistor es Ii /H11005V/Ri. (Aquí, el subíndice i representa
+cualquiera de los resistores: 1, 2, 3, …) Al sustituir para cada corriente, obtenemos
+Por lo tanto,
+Igualando las dos expresiones de resistencias entre paréntesis, vemos que la resis-
+tencia equivalente R
+p está relacionada con las resistencias individuales mediante la
+ecuación recíproca
+Este resultado puede generalizarse para incluir cualquier número de resistores en pa-
+ralelo:
+(18.3)
+Para el caso especial en que sólo hay dos resistores, la resistencia equivalente pue-
+de expresarse en forma no recíproca (utilizando un común denominador) como,
+o
+(18.3a)(solo para dos 
+ resistores en paralelo)Rp = R1
+ R2
+R1 + R2
+1
+Rp
+= 1
+R1
++ 1
+R2
+= R1 + R2
+R1
+ R2
+resistencia equivalente
+en paralelo
+1
+Rp
+= 1
+R1
++ 1
+R2
++ 1
+R3
++ Á =©  a 1
+Ri
+b
+1
+Rp
+= 1
+R1
++ 1
+R2
++ 1
+R3
+V
+Rp
+= V¢ 1
+Rp
+≤ = V¢ 1
+R1
++ 1
+R2
++ 1
+R3
+≤
+I = I1 + I2 + I3 = V
+R1
++ V
+R2
++ V
+R3
+Nota: Rp es menor que la 
+resistencia más pequeña 
+en un arreglo en paralelo.
+Nota: en realidad, los cables del
+circuito no están arreglados en los
+impecables patrones rectangulares
+de un diagrama de circuito. La
+forma rectangular es simplemente
+una convención que permite una
+presentación más clara y una fácil
+visualización del circuito real.
+
+18.1 Combinaciones de resistencias en serie, en paralelo y en serie-paralelo 595
+Sugerencia para resolver problemas
+Observe que la ecuación 18.3 da l/ Rp, no Rp. Al final de cada cálculo, se debe tomar
+el recíproco para encontrar Rp. El análisis de las unidades mostrará que las unidades
+no son ohms hasta que se invierten. Como es costumbre, si lleva unidades como
+control en sus cálculos, será menos probable que cometa errores de este tipo.
+La resistencia equivalente de resistores en paralelo siempre es menor que la menor resisten-
+cia en el arreglo. Por ejemplo, dos resistores en paralelo —digamos de 6.0 y 12.0 /H9024— son
+equivalentes a uno solo con resistencia de 4.0 /H9024(debería demostrar esto). Pero, ¿por
+qué esperar esta respuesta aparentemente extraña?
+Físicamente, la razón se encuentra considerando una batería de 12V en un circuito
+completo con un solo resistor de 6.0 /H9024. La corriente en el circuito es de 2.0 A (I /H11005V/R).
+Ahora imagine que un resistor de 12.0 /H9024se conecta en paralelo al resistor de 6.0 /H9024. La
+corriente a través del resistor de 6.0 /H9024no se verá afectada: permanecerá igual a 2.0 A.
+(¿Por qué?) Sin embargo, el nuevo resistor tendrá una corriente de 1.0 A (utilizando 
+I /H11005V/R una vez más). Así que la corriente total en el circuito es 1.0 A/H110012.0 A /H110053.0 A.
+Veamos ahora el resultado final. Cuando el segundo resistor se conecta al primero en 
+paralelo, la corriente total que entrega la batería aumenta. Como el voltaje no aumentó,
+la resistencia equivalente del circuito debe haber disminuido (por debajo de su valor ini-
+cial de 6.0 /H9024) cuando se conectó el resistor de 12 /H9024. En otras palabras, cada vez que se
+agrega una trayectoria extra en paralelo, el resultado es más corriente total. De manera
+que el circuito se comporta como si su resistencia equivalente disminuyera.
+Observe que este razonamiento no depende del valor del resistor agregado. Lo
+que importa es que se ha añadido otra trayectoria con resistencia. (Intente esto utili-
+zando un resistor de 2 /H9024o uno de 2 M/H9024en lugar del resistor de 12 /H9024. De nuevo ocurre
+una reducción en la resistencia equivalente. Sin embargo, note que el valor de la resis-
+tencia equivalente será distinto.)
+Entonces, en general, las conexiones en serie ofrecen una manera de incremen-
+tar la resistencia total, mientras que las conexiones en paralelo brindan una forma 
+de disminuir la resistencia total. Para ver cómo funcionan estas ideas, considere el
+ejemplo 18.1.
+Ejemplo 18.1 ■ Conteo de conexiones: resistores en serie y en paralelo
+¿Cuál es la resistencia equivalente de tres resistores (1.0, 2.0 y 3.0 /H9024) cuando se conectan 
+a) en serie (figura 18.1a) y b) en paralelo (figura 18.3a)? c) ¿Cuánta corriente entregará una
+batería de 12V en cada uno de esos arreglos?
+Razonamiento. Para encontrar las resistencias equivalentes para a y b, aplique las ecua-
+ciones 18.2 y 18.3, respectivamente. Para encontrar la corriente en serie del inciso c, calcu-
+le la corriente a través de la batería tratando ésta como si estuviera conectada a un solo
+resistor, la resistencia equivalente en serie. Para el arreglo en paralelo, la corriente total se
+determina usando la resistencia equivalente en paralelo. Como sabemos que cada resistor
+en paralelo tiene el mismo voltaje, es posible calcular las corrientes individuales.
+Solución. Se listan los datos
+Dado: Encuentre: a) Rs (resistencia en serie)
+b) Rp (resistencia en paralelo)
+c) I (corriente total para cada caso)
+a) La resistencia equivalente en serie (ecuación 18.2) es
+Nuestro resultado es mayor que la mayor resistencia, como se esperaba.
+b) La resistencia equivalente en paralelo se determina con la ecuación 18.3
+o, luego de hacer la inversión,
+que es un valor más bajo que el de la menor resistencia, como también se esperaba.
+Rp = 6.0 Æ
+11 = 0.55 Æ
+ = 6.0
+6.0 Æ + 3.0
+6.0 Æ + 2.0
+6.0 Æ = 11
+6.0 Æ
+ 1
+Rp
+= 1
+R1
++ 1
+R2
++ 1
+R3
+= 1
+1.0 Æ + 1
+2.0 Æ + 1
+3.0 Æ
+Rs = R1 + R2 + R3 = 1.0 Æ+ 2.0 Æ+ 3.0 Æ= 6.0 Æ
+ V = 12 V
+ R3 = 3.0 Æ
+ R2 = 2.0 Æ
+ R1 = 1.0 Æ
+(continúa en la siguiente página)
+Ilustración 30.3 Divisores 
+de corriente y voltaje
+Ilustración 30.4 Baterías 
+e interruptores
+
+Filamento
+Derivación
+Perla de vidrio
+Derivación
+Filamento
+▲ FIGURA 18.5 Luces de un 
+árbol de Navidad cableadas 
+en derivación Una derivación
+(puente o shunt) en paralelo con el
+filamento de la bombilla reestablece
+un circuito completo cuando uno 
+de los filamentos se quema (abajo 
+a la derecha). Sin la derivación, 
+si una de las bombillas se fundiera,
+todas las demás se apagarían.
+596
+CAPÍTULO 18 Circuitos eléctricos básicos
+c) A partir de la resistencia equivalente en serie y el voltaje de la batería:
+Calculemos la caída de voltaje a través de cada resistor:
+Advierta que para garantizar que la corriente a través de cada resistor sea la misma, los
+mayores resistores requieren más voltaje, cuando están en serie. Como verificación, note que
+la suma de las caídas de voltaje en los resistores ( V1 /H11001V2 /H11001V3) es igual al voltaje de la
+batería.
+Para el arreglo en paralelo, la corriente total es:
+Observe que la corriente para la combinación en paralelo es mucho mayor que para la
+combinación en serie. (¿Por qué?) Ahora es posible determinar la corriente a través de ca-
+da uno de los resistores, ya que cada resistor tiene un voltaje de 12 V . Por lo tanto,
+Para verificar, observe que la suma de las tres corrientes sea igual a la corriente a través de
+la batería.
+Como podrá ver, para resistores en paralelo, el resistor con la menor resistencia reci-
+be la mayor parte de la corriente total porque los resistores en paralelo experimentan el
+mismo voltaje. (Note que para los arreglos en paralelo, la menor resistencia nunca tiene
+toda la corriente, sólo la mayor parte.)
+Ejercicio de refuerzo. a) Calcule la potencia entregada a cada resistor para ambos arre-
+glos en este ejemplo. b) ¿Qué generalizaciones podría hacer a partir de esto? Por ejemplo,
+¿qué resistor en serie recibe la mayor potencia? ¿Y en paralelo? c) Para cada arreglo, ¿la
+potencia total entregada a todos los resistores es igual a la salida de potencia de la batería?
+(Las respuestas de todos los ejercicios de refuerzo se presentan al final del libro.)
+Como una aplicación para el cableado, considere las luces que se utilizan para
+adornar los árboles de Navidad. En el pasado, esas luces estaban conectadas en serie.
+Cuando una se fundía, todas las demás luces se apagaban y se tenía que localizar la
+bombilla defectuosa. Ahora, las nuevas guirnaldas de luces tienen bombillas más pe-
+queñas y, aunque una se funda, las demás permanecen encendidas. ¿Significa esto que
+las luces están conectadas en paralelo? No, una conexión en paralelo daría una menor
+resistencia y una mayor corriente, lo que sería peligroso.
+En lugar de ello, se utiliza una derivación, también conocida como puente o shunt,
+que se conecta en paralelo con el filamento de cada bombilla (
+>figura 18.5). Cuando
+una bombilla está en operación, la derivación no conduce corriente porque está aisla-
+da de los cables del filamento. Cuando el filamento se rompe y la bombilla “se que-
+ma”, momentáneamente el circuito queda abierto y no hay corriente en la guirnalda de
+luces. La diferencia de voltaje a través del circuito abierto en el filamento roto será en-
+tonces el voltaje doméstico de 120 V . Esto causará una chispa que quemará el material
+de aislamiento de la derivación. Al hacer contacto con los cables del filamento, la deri-
+vación completa de nuevo el circuito y el resto de las luces de la guirnalda continúan
+encendidas. (La derivación, un cable con muy poca resistencia, está señalada con el pe-
+queño símbolo de resistencia en el diagrama del circuito de la figura 18.5. En operación
+normal, hay una abertura, el aislamiento, entre la derivación y el alambre del filamen-
+to.) Para comprender el efecto de una bombilla fundida sobre el resto de las luces, con-
+sidere el siguiente ejemplo.
+ I3 = V
+R3
+= 12 V
+3.0 Æ = 4.0 A
+ I2 = V
+R2
+= 12 V
+2.0 Æ = 6.0 A
+ I1 = V
+R1
+= 12 V
+1.0 Æ = 12 A
+I = V
+Rp
+= 12 V
+0.55 Æ = 22 A
+ V3 = IR3 =12.0 A213.0 Æ2 = 6.0 V
+ V2 = IR2 =12.0 A212.0 Æ2 = 4.0 V
+ V1 = IR1 =12.0 A211.0 Æ2 = 2.0 V
+I = V
+Rs
+= 12 V
+6.0 Æ = 2.0 A
+
+18.1 Combinaciones de resistencias en serie, en paralelo y en serie-paralelo 597
+Ejemplo conceptual 18.2 ■ Las brillantes luces de un árbol 
+de Navidad
+Considere una guirnalda de luces para árbol de Navidad con puentes de derivación. Si el
+filamento de una bombilla se quema y la derivación completa el circuito, ¿las demás lu-
+ces a) brillarán con más intensidad, b) brillarán un poco más débilmente o c) no se verán
+afectadas?
+Razonamiento y respuesta. Si el filamento de una bombilla se quema y su derivación
+completa el circuito, habrá menos resistencia total en este último, porque la resistencia de
+la derivación es mucho menor que la resistencia del filamento. (Advierta que los filamen-
+tos de las bombillas buenas y la derivación de la bombilla quemada están en serie, por 
+lo que las resistencias se suman.)
+Con menos resistencia total, habrá más corriente en el circuito, y las bombillas bue-
+nas restantes brillarán con un poco más de fuerza porque la salida de luz de una bombi-
+lla está directamente relacionada con la potencia que recibe. (Recuerde que la potencia
+eléctrica está relacionada con la corriente mediante P /H11005I
+2R). La respuesta correcta es en-
+tonces la a. Por ejemplo, suponga que la guirnalda de luces tiene originalmente 18 bom-
+billas idénticas. Como el voltaje total a lo largo de la guirnalda es de 120 V , la caída de
+voltaje en cualquiera de las bombillas es (120 V)/18 /H110056.7 V . Si una de ellas se quema (y
+se hace la derivación), el voltaje a través de cada una de las bombillas en funcionamien-
+to sería de (120 V)/17 /H110057.1 V . Este voltaje incrementado hace que la corriente se incre-
+mente. Ambos incrementos contribuyen a que cada bombilla reciba más potencia y, por
+consiguiente, a que las luces sean más brillantes (recuerde la expresión alternativa para
+la potencia eléctrica, P /H11005IV).
+Ejercicio de refuerzo. En este ejemplo, si usted retira una de las bombillas, ¿cuál sería el
+voltaje a través a) del enchufe vacío y b) cualquiera de las bombillas restantes? Explique
+su respuesta.
+Combinaciones de resistores en serie-paralelo
+Los resistores pueden conectarse en un circuito según varias combinaciones en serie-
+paralelo. Como se muestra en la ▼figura 18.6, los circuitos con una sola fuente de volta-
+je en ocasiones se reducen a una sola malla equivalente, que contenga justo la fuente de
+voltaje y una resistencia equivalente, aplicando los resultados en serie y en paralelo.
+A continuación se describe un procedimiento para analizar circuitos (determinan-
+do el voltaje y la corriente para cada elemento de circuito) para tales combinaciones:
+1. Determine qué bloques de resistores están en serie y cuáles están en paralelo, y reduz-
+ca todos los bloques a resistencias equivalentes, usando las ecuaciones 18.2 y 18.3.
+R1 =
+6.00 Ω
+V =
+24.0 V R2 =
+4.00 Ω
+R3 =
+6.00 Ω
+R5 =
+2.50 Ω
+R4 =
+2.00 Ω
+R1
+R2V
+R5 =
+2.50 Ω
+Rp1
+ =
+R3R4
+R3 + R4
+= 1.50 Ω
+R1
+V R2 =
+4.00 Ω
+Rs1
+ =
+Rp1
+ + R5 =
+4.00 Ω
+a) b) c)
+V
+R1 =
+6.00 Ω
+V Rtotal = R1 + Rp2         = 8.00 Ω
+d) e)
+Rp2
+ =
+R2Rs1
+R2 + Rs1
+= 2.00 Ω
+I
+▲ FIGURA 18.6 Combinaciones 
+en serie-paralelo y reducción de
+circuito El proceso de reducir 
+combinaciones en serie y en paralelo
+a resistencias equivalentes reduce 
+el circuito con una fuente de voltaje
+a una sola malla con una sola 
+resistencia equivalente. (Véase el
+ejemplo 18.3.)
+Ilustración 30.1 Circuitos completos
+Ilustración 30.2 Interruptores, 
+voltajes y circuitos completos
+
+598 CAPÍTULO 18 Circuitos eléctricos básicos
+2. Reduzca más aún el circuito tratando las resistencias equivalentes separadas (del
+paso 1) como resistores individuales. Continúe hasta que obtenga una sola malla
+con un valor de la resistencia total (o equivalente).
+3. Encuentre la corriente entregada al circuito reducido usando I /H11005V/R
+total.
+4. Expanda el circuito reducido de regreso al circuito real invirtiendo los pasos de re-
+ducción, uno a la vez. Use la corriente del circuito reducido y encuentre las co-
+rrientes y voltajes para los resistores en cada paso.
+Para ver cómo se utiliza este procedimiento, considere el siguiente ejemplo.
+Ejemplo 18.3 ■ Combinación en serie-paralelo de resistores: 
+¿mismo voltaje o misma corriente?
+¿Cuáles son los voltajes y la corriente en cada uno de los resistores R1 a R5 en la figura 18.6a?
+Razonamiento. Aplicamos los pasos descritos previamente; antes de comenzar, es importante
+identificar las combinaciones en serie y en paralelo. Es claro que R3 está en paralelo con R4 (lo
+que se expresa como R3/H20648R4). Esta combinación en paralelo está en serie con R5. Además, el tra-
+mo R3/H20648R4 /H11001R5 están en paralelo con R2. Finalmente, esta combinación en paralelo está en serie
+con R1. Combinando los resistores paso a paso nos permite determinar la resistencia equiva-
+lente total del circuito (paso 2). A partir de ese valor, es posible calcular la corriente total. Lue-
+go, procediendo hacia atrás, podemos encontrar la corriente y el voltaje en cada resistor.
+Solución.Para evitar errores de redondeo, los resultados se tomarán con tres cifras significativas.
+Dado: Valores en la figura 18.6a Encuentre: Corriente y voltaje en cada resistor 
+(figura 18.6a)
+La combinación en paralelo en el lado derecho del diagrama del circuito se reduce a la 
+resistencia equivalente Rp1
+(véase la figura 18.6b), mediante la ecuación 18.3:
+Esta expresión es equivalente a
+Esta operación deja una combinación en serie de Rp1
+y R5 de ese lado, que se reduce a Rs1
+usando la ecuación 18.2 (figura 18.6c):
+Entonces, R2 y Rs1
+están en paralelo y se reducen (usando de nuevo la ecuación 18.3) a Rp2
+(figura 18.6d):
+Esta expresión es equivalente a
+Esta operación deja dos resistencias (R1 y Rp2
+) en serie. Estas resistencias se combinan para
+dar la resistencia equivalente total (Rtotal) del circuito (figura 18.6e):
+Así, la batería entrega una corriente de
+Ahora procedemos hacia atrás y “reconstruimos” el circuito real. Note que la corriente 
+de la batería es la misma que la corriente por R1 y Rp2
+, ya que están en serie. (En la figura
+18.6d, I /H11005I1 /H110053.00 A e I /H11005Ip2
+/H110053.00 A.) Por lo tanto, los voltajes a través de esos resistores son
+y
+Como R
+p2
+está formada de R2 y Rs1
+(figura 18.6c y d), debe haber una caída de 6.00 V a tra-
+vés de esos dos resistores. Podemos usar esto para calcular la corriente a través de cada uno.
+Ahora, advierta que Is1
+es también la corriente en Rp1
+y R5, porque están en serie. (En la
+figura 18.6b, Is1
+/H11005Ip1
+/H11005I5 /H110051.50 A.)
+I2 = V2
+R2
+= 6.00 V
+4.00 Æ
+= 1.50 A e Is1 =
+Vs1
+Rs1
+= 6.00 V
+4.00 Æ
+= 1.50 A
+Vp2
+= Ip2
+ Rp2
+=13.00 A212.00 Æ2 = 6.00 V
+V1 = I1
+ R1 =13.00 A216.00 Æ2 = 18.0 V
+I = V
+Rtotal
+= 24.0 V
+8.00 Æ = 3.00 A
+Rtotal = R1 + Rp2
+= 6.00 Æ+ 2.00 Æ= 8.00 Æ
+Rp2
+= 2.00 Æ
+1
+Rp2
+= 1
+R2
++ 1
+Rs1
+= 1
+4.00 Æ + 1
+4.00 Æ = 2
+4.00 Æ
+Rs1 = Rp1
++ R5 = 1.50 Æ+ 2.50 Æ= 4.00 Æ
+Rp1
+= 1.50 Æ
+1
+Rp1
+= 1
+R3
++ 1
+R4
+= 1
+6.00 Æ + 1
+2.00 Æ = 4
+6.00 Æ
+
+18.2 Circuitos de múltiples mallas y reglas de Kirchhoff 599
+Por lo tanto, los voltajes individuales de los resistores son
+y
+respectivamente. (Como verificación, compruebe que los voltajes sumen 6.00 V .)
+Finalmente, el voltaje a través de R
+3 y R4 es el mismo que Vp1
+(¿por qué?), y 
+Con estos voltajes y resistencias que hemos obtenido, las dos últimas corrientes, I3 e I4, son
+e
+Se espera que la corriente ( Is1
+) se divida en la unión R3 /H11002R4. Se dispone entonces de la
+verificación: I3 /H11001I4 es igual a Is1
+, dentro de los errores de redondeo.
+Ejercicio de refuerzo. En este ejemplo, verifique que la potencia total entregada a todos
+los resistores es la misma que la salida de potencia de la batería.
+18.2 Circuitos de múltiples mallas 
+y reglas de Kirchhoff
+OBJETIVOS: a) Comprender los principios físicos en que se basan las reglas de 
+los circuitos de Kirchhoff y b) aplicar esas reglas en el análisis de cir-
+cuitos reales.
+Los circuitos en serie-paralelo con una sola fuente de voltaje siempre pueden reducir-
+se a una sola malla, como vimos en el ejemplo 18.3. Sin embargo, hay circuitos que
+contienen varias mallas, cada una con varias fuentes de voltaje, resistencias o ambas.
+En muchos casos, los resistores no están conectados en serie ni en paralelo. Un circuito
+de múltiples mallas, que no se presta para el método de análisis descrito en la sección
+18.1, se ilustra en la 
+▼figura 18.7a. Aun cuando es posible reemplazar algunas combi-
+naciones de resistores por sus resistencias equivalentes (figura 18.7b), este circuito
+puede reducirse sólo en tanto que se usen procedimientos en paralelo y en serie.
+El análisis de esos tipos de circuitos requiere un enfoque más general, esto es, la
+aplicación de las reglas de Kirchhoff .* Estas reglas comprenden la conservación de 
+la carga y la conservación de la energía. (Aunque no se mencionaron de manera espe-
+cífica, las reglas de Kirchhoff se aplicaron a los circuitos en serie y en paralelo anali-
+zados en la sección 18.1.) Ahora, es conveniente introducir la terminología que nos
+ayudará a describir circuitos complejos:
+• Un punto en el que se conectan tres o más alambres se llama unión o nodo; por
+ejemplo, el punto A en la figura 18.7b.
+• Una trayectoria que conecta dos uniones se llama rama. Una rama puede contener
+uno o más elementos de circuito y puede haber más de dos ramas entre dos uniones.
+I4 = V4
+R4
+= 2.25 V
+2.00 Æ = 1.13 A
+I3 = V3
+R3
+= 2.25 V
+6.00 Æ = 0.38 A
+Vp1
+= V3 = V4 = 2.25 V
+V5 = Is1R5 =11.50 A212.50 Æ2 = 3.75 V
+Vp1
+= Is1
+ Rp1
+=11.50 A211.50 Æ2 = 2.25 V
+R5R4
+R3
+R1
+R2
+V1
+V1
+V2 V2
+a)
+Rp
+R/g115
+R3
+A
+B
+I1
+I1
+I1
+I2
+I2
+I3
+I3
+b)
+> FIGURA 18.7 Circuito de mallas
+múltiples En general, un circuito
+que contiene fuentes de voltaje en
+más de una malla no puede redu-
+cirse más por métodos en serie y 
+en paralelo. Sin embargo, algunas
+reducciones dentro de cada malla
+son posibles, como del inciso a al b.
+En una unión de circuito, donde
+tres o más alambres se conectan, la
+corriente se divide o se une, como
+en las uniones A y B en el inciso b,
+respectivamente. La trayectoria 
+entre dos uniones se llama rama. 
+En b hay tres ramas, esto es, tres 
+trayectorias diferentes entre las
+uniones A y B.
+* Gustav Robert Kirchhoff (1824-1887) fue un científico alemán que hizo importantes contribuciones
+a la teoría de los circuitos eléctricos y a la espectroscopia de la luz. Inventó el espectroscopio, un dispositi-
+vo que separa la luz en sus colores fundamentales y que permite estudiar la “huella” de varios elementos.
+Nota: las reglas de Kirchhoff
+fueron desarrolladas por el 
+físico alemán Gustav Kirchhoff 
+(1824-1887).
+
+V> 0
+V> 0
+V< 0
+V< 0
+A través de la batería
+a)
+R
+A través del resistor
+b)
+I
++–
+▲ FIGURA 18.8 Convención de
+signos para las reglas de Kirchhoff
+a) El voltaje a través de una batería
+se toma como positivo si ésta se 
+recorre de la terminal negativa a 
+la terminal positiva. Se asigna un
+valor negativo si la batería se re-
+corre de la terminal positiva a la 
+terminal negativa. b) El voltaje 
+a través de un resistor se toma 
+como negativo si éste se recorre en
+el sentido de la corriente asignada
+(“corriente abajo”). Se considera 
+positivo si la resistencia se recorre
+en el sentido opuesto al de la 
+corriente asignada a esa rama 
+(“corriente arriba”).
+600
+CAPÍTULO 18 Circuitos eléctricos básicos
+Teorema de la unión de Kirchhoff
+La primera regla de Kirchhoffo teorema de la unión establece que la suma algebraica
+de las corrientes en cualquier unión es cero:
+(18.4)
+La suma de las corrientes que entran a una unión (tomadas como positivas) y las que
+salen (tomadas como negativas) es cero. Esta regla es sólo un enunciado de la conser-
+vación de la carga (ninguna carga se acumula en una unión, ¿por qué?). Para la unión
+en el punto A en la figura 18.7b, la suma algebraica de las corrientes es I
+1 /H11002I2 /H11002I3 /H110050;
+en forma equivalente,
+corriente que entra /H11005corriente que sale
+(Esta regla se aplicó al analizar resistencias en paralelo en la sección 18.1.)
+Sugerencia para resolver problemas
+A veces, al observar el diagrama de un circuito no se sabe si una corriente particular
+entra o sale de una unión. En este caso, suponga la dirección. Luego calcule las co-
+rrientes. Si una de sus suposiciones resulta opuesta a la dirección real de la corrien-
+te, entonces será una respuesta negativa para esa corriente. Este resultado significa
+que la dirección de la corriente es contraria a la dirección que inicialmente se eligió.
+Teorema de las mallas de Kirchhoff
+La segunda regla de Kirchhoff o teorema de las mallas establece que la suma alge-
+braica de las diferencias de potencial (voltajes) a través de todos los elementos de cual-
+quier malla cerrada es cero:
+(18.5)
+Esta expresión significa que la suma de los aumentos de voltaje (un incremento en el
+potencial) es igual a la suma de las caídas de voltaje (un decremento en el potencial)
+alrededor de una malla cerrada, que debe ser así para que la energía se conserve. (Es-
+ta regla se empleó al analizar las resistencias en serie en la sección 18.1.)
+Observe que al recorrer una malla de circuito en sentidos diferentes se tendrá un 
+aumento o una caída de voltaje a través de cada elemento del circuito. Por eso se estable-
+ce una convención de signos para los voltajes. Usaremos la convención ilustrada en la
+>figura 18.8. El voltaje a través de una batería se toma como positivo (elevación de volta-
+je) si la malla se recorre de la terminal negativa a la positiva (figura 18.8a); y es negativo
+si la malla se recorre en el sentido opuesto, de la terminal positiva a la negativa. (El sen-
+tido de la corriente en la batería no tiene nada que ver con el signo del voltaje a través de
+ésta. El signo del voltaje depende sólo del sentido en que elegimos recorrer la batería.)
+El voltaje a través de un resistor se toma como negativo (un decremento) si se re-
+corre en el mismo sentido que la corriente asignada, en esencia, cuando se recorre “ha-
+cia abajo” de acuerdo con el potencial (figura 18.8b). Es evidente que el voltaje será
+positivo si el resistor se recorre en el sentido contrario (en contra del sentido de la co-
+rriente, ganando potencial eléctrico). Juntas, estas convenciones de signo permiten 
+sumar los voltajes alrededor de una malla cerrada, independientemente del sentido es-
+cogido para efectuar la suma. La ecuación 18.5 es la misma en cualquier caso. Note que
+el hecho de invertir el sentido elegido equivale simplemente a multiplicar la ecuación
+18.5 (para el sentido original) por /H110021. Esta operación no altera la ecuación.
+Sugerencia para resolver problemas
+Al aplicar el teorema de la malla de Kirchhoff, el signo de un voltaje a través de un re-
+sistor está determinado por el sentido de la corriente en ese resistor. Sin embargo, hay
+situaciones en donde el sentido no es obvio. ¿Cómo se manejan los signos del voltaje
+en tales casos? Después de suponer un sentido para la corriente, siga la convención
+de signos del voltaje con base en este sentido supuesto . Esto garantiza que las dos con-
+venciones de signos sean consistentes. Si resulta que el sentido real de la corriente es
+contrario a su elección, las caídas de voltaje reflejarán esto automáticamente.
+©Vi = 0
+I1 = I2 + I3
+©Ii = 0
+Ilustración 30.7 La regla de las 
+mallas
+Ilustración 30.1 Análisis de circuitos
+Suma de corrientes
+en una unión
+suma de voltajes
+alrededor de una malla
+
+18.2 Circuitos de múltiples mallas y reglas de Kirchhoff 601
+(b)
+(a)
+(c)
+R1 =
+6.0 Ω
+R3 =
+10.0 Ω
+V =
+12 V
+R1R2
+I1I2
+I
+J
+R3
+V
+R2 =
+3.0 Ω
+R3 = 
+10.0 Ω
+V =
+12 V
++
+–
+▲ FIGURA 18.9 Diagramas de 
+circuito usando las reglas 
+de Kirchhoff a) Diagrama 
+del circuito de la descripción 
+en el Ejemplo integrado 18.4. 
+b) y c) Las dos mallas usadas en el
+análisis del Ejemplo integrado 18.4.
+Una interpretación gráfica del teorema de la malla de Kirchhoff se presenta en 
+la sección Aprender dibujando de la p. 602. El Ejemplo integrado 18.4 muestra que
+nuestras consideraciones previas sobre serie-paralelo son congruentes con esas reglas.
+Al mismo tiempo, hay que reconocer la importancia de dibujar correctamente un dia-
+grama de circuito, ya que sirve como guía.
+Ejemplo integrado 18.4 ■ Un circuito simple: uso de las reglas 
+de Kirchhoff
+Dos resistores R1 y R2 están conectados en paralelo. Esta combinación se conecta en serie
+con un tercer resistor R3, que tiene la mayor resistencia de los tres. Una batería completa
+el circuito, con un electrodo al principio y el otro al final de esta red. a) ¿Qué resistor lle-
+vará más corriente? 1) R1, 2) R2 o 3) R3. Explique su respuesta. b) En este circuito suponga
+que R1 /H110056.0 /H9024, R2 /H110053.0 /H9024, R3 /H1100510.0 /H9024, y que el voltaje terminal de la batería es de 12.0 V .
+Aplique las reglas de Kirchhoff para determinar la corriente y el voltaje en cada resistor.
+a) Razonamiento conceptual. Es mejor ver primero un diagrama del circuito con base en
+la descripción de la red (>figura 18.9). Se podría pensar que el resistor con la menor resis-
+tencia lleva la mayor corriente. Pero esto es cierto sólo si todos los resistores están en para-
+lelo. Los dos resistores en paralelo llevan, cada uno, sólo una fracción de la corriente total.
+Sin embargo, como el total de sus dos corrientes está en R
+3, ese resistor lleva la corriente
+total y, por lo tanto, también la mayor. Por consiguiente, la respuesta correcta es la 3.
+b) Razonamiento cuantitativo y solución.
+Dado: Encuentre: la corriente y el voltaje en cada resistor 
+Hay tres corrientes incógnitas: la corriente total ( I) y las corrientes en cada uno de los re-
+sistores en paralelo ( I1 e I2). Como sólo hay una batería, la corriente debe ser en sentido
+de las manecillas del reloj (como se muestra en la figura). Aplicando el teorema de la
+unión de Kirchhoff a la primera unión (J en la figura 18.9a), tenemos
+(1)
+Usando el teorema de la malla en sentido de las manecillas del reloj en la figura 18.9b,
+cruzamos la batería de la terminal negativa a la positiva y luego recorremos R
+1 y R2 pa-
+ra completar el circuito. La ecuación resultante (mostrando los signos de los voltajes 
+explícitamente) es
+(2)
+Una tercera ecuación se obtiene aplicando el teorema de la malla, pero esta vez yendo a
+través de R2 en vez de R1 (figura 18.9c). Esto da
+(3)
+Poniendo en la batería el voltaje (en volts) y las resistencias (en ohms) y reordenando esas
+ecuaciones:
+(1a)
+(2a)
+(3a)
+Sumando las ecuaciones (2a) y (3a) resulta 18 /H110023(I1 /H11001I2) /H1100215I /H110050. Sin embargo, de la
+ecuación (1a), I /H11005I1 /H11001I2. Por lo tanto,
+y, al despejar la corriente total, se obtiene I /H110051.00 A.
+Con las ecuaciones (3a) y (1a) es posible calcular las corrientes restantes:
+Estas respuestas son congruentes con nuestro razonamiento acerca del diagrama de cir-
+cuito en el inciso a.
+Como las corrientes y resistencias se conocen, los voltajes se obtienen con la ley de
+Ohm, V /H11005IR. Así,
+ V3 = I3
+ R3 =11.0 A2110.0 Æ2 = 10.0 V
+ V2 = I2
+ R2 = A
+2
+3 AB13.0 Æ2 = 2.0 V
+ V1 = I1
+ R1 = A
+1
+3 AB16.0 Æ2 = 2.0 V
+I2 = 2
+3 A e I1 = 1
+3 A
+18 - 3I - 15I = 0 o 18I = 18
+12 - 3I2 - 10I = 0
+12 - 6I1 - 10I = 0 o 6 - 3I1 - 5I = 0
+I = I1 + I2
+©Vi = 0 o + V +1- I2
+ R22 +1-IR32 = 0
+©Vi = 0 o + V +1- I1
+ R12 +1-IR32 = 0
+©Ii = 0 o I - I1 - I2 = 0
+ V = 12.0 V
+ R3 = 10.0 Æ
+ R2 = 3.0 Æ
+ R1 = 6.0 Æ
+Exploración 30.2 Bombillas de luz
+(continúa en la página 603)
+
+602 CAPÍTULO 18 Circuitos eléctricos básicos
+APRENDER DIBUJANDO
+tenerlo ya que ilustra la idea fundamental detrás del teorema
+de la malla.
+Como ejemplo del poder de este método, considere el cir-
+cuito en la figura 1: una batería con resistencia interna r conec-
+tada a un solo resistor externo R. El sentido de la corriente es
+del ánodo al cátodo a través del resistor externo. Escogemos el
+potencial del cátodo de la batería como cero. Comenzamos ahí
+y recorremos el circuito en el sentido de la corriente, mostra-
+mos un aumento en el potencial yendo del cátodo al ánodo. A
+continuación, mostramos que el potencial es constante confor-
+me la corriente sigue a través de los alambres hasta el resistor
+externo. Esto es, no indicamos ninguna caída de voltaje a lo lar-
+go de los alambres conectores (¿por qué?).
+En el resistor debe haber una caída considerable de poten-
+cial. Sin embargo, la caída no es hasta cero, porque debe haber
+algún voltaje restante para generar una corriente a través de la
+resistencia interna. Así, se observa por qué el voltaje terminal
+de la batería, V, debe ser menor que su fem (la elevación entre
+los puntos a y b).
+La figura 2 muestra dos resistores en serie, y esa combina-
+ción en paralelo con un tercer resistor. Para simplificar, se su-
+pone que los tres resistores tienen la misma resistencia R, y que
+la resistencia interna de la batería es igual a cero. Comenzando
+en el punto a, se tiene una elevación en el potencial correspon-
+diente al voltaje de la batería. Al trazar una malla a través del
+solo resistor, debe haber una sola caída en el potencial igual en
+magnitud a /H5105.
+Si seguimos la malla que incluye los dos resistores, vemos
+que cada uno tiene sólo la mitad de la caída de voltaje total
+(¿por qué?). Así, cada uno llevará sólo la mitad de la corriente
+del resistor solo. Recuerde que en los circuitos paralelos, la ma-
+yor resistencia lleva la menor corriente. Observe cómo este en-
+foque geométrico le ayuda a desarrollar su intuición y le
+permite anticipar los resultados numéricos.
+Trate de volver a dibujar la figura 2 tal como se vería si los
+resistores en serie tuvieran resistencias de R y 2R. ¿Qué resistor
+tiene ahora el mayor voltaje? ¿Cómo se comparan las corrientes
+en los resistores con la situación anterior? Analice matemática-
+mente el circuito para confirmar sus expectativas.
+DIAGRAMAS DE KIRCHHOFF: UNA INTERPRETACIÓN
+GRÁFICA DEL TEOREMA DE LA MALLA DE KIRCHHOFF
+El teorema de la malla de Kirchhoff tiene una representación
+geométrica que le ayudará a comprender mejor su significado y
+visualizar los cambios de potencial en un circuito e incluso anti-
+cipar los resultados de un análisis matemático o confirmarlos
+cualitativamente. (No olvide que para efectuar un análisis com-
+pleto de los circuitos, debe usarse también el teorema de la
+unión de Kirchhoff; véase el ejemplo 18.5.)
+La idea es hacer un trazo tridimensional a partir del dia-
+grama del circuito. Los alambres y elementos del circuito for-
+man la base para el plano x-y, o el “piso” del diagrama. De
+forma perpendicular a este plano, a lo largo del eje z, se tiene el
+valor del potencial eléctrico ( V), con una selección apropiada
+para el cero. Un diagrama como éste se llama diagrama de
+Kirchhoff (figura 1).
+Las reglas para construir un diagrama de Kirchhoff son
+simples: comience en un valor conocido del potencial y recorra
+una malla completa, terminando donde empezó. Como usted
+regresa al mismo lugar, la suma de todas las elevaciones de po-
+tencial (voltajes positivos) deben equilibrarse con la suma de
+las caídas (voltajes negativos). Este requisito es la expresión
+geométrica de la conservación de la energía, implicada mate-
+máticamente en el teorema de la malla de Kirchhoff.
+Si el potencial aumenta (digamos al recorrer una batería
+de la terminal negativa a la positiva), dibuje una elevación en
+la dirección z. La elevación representa el voltaje terminal de la
+batería. Si el potencial disminuye (por ejemplo, al recorrer un
+resistor en el sentido de la corriente), asegúrese de que el po-
+tencial cae. Trate de dibujar los aumentos y caídas (los volta-
+jes) a escala. Es decir, si hay un aumento importante en el
+potencial (como la que se tendría a través de una batería de
+alto voltaje), dibújelo en proporción a los otros sobre el dia-
+grama.
+Para circuitos elaborados, este método gráfico quizá resul-
+te demasiado complicado para uso práctico. Vale la pena
+ε
+ε
+ε
+b
+a r
+R
+IR
+V
+Ir
+V = voltaje terminal =   – Ir <    
+I
+e
+dc
+f
+Potencial
+ε ε
+FIGURA 1 Diagramas de Kirchhoff: una estrategia gráfica para la 
+resolución de problemas El esquema del circuito se traza en el plano
+x-y, y el potencial eléctrico se traza perpendicularmente a lo largo del
+eje z. El cero del potencial se toma como la terminal negativa de la 
+batería. Se asigna un sentido para la corriente, y el valor del potencial
+se traza alrededor del circuito, siguiendo las reglas para las ganancias 
+y las pérdidas de potencial. Este diagrama de Kirchhoff, muestra un
+aumento de potencial cuando la batería se recorre del cátodo al ánodo,
+una caída de potencial a través del resistor externo, y una menor caída
+del potencial a través de la resistencia interna de la batería.
+Potencial
+R
+RI
+R
+a
+b
+c
+d
+e
+g
+ε
+ε
+FIGURA 2 Diagrama de Kirchhoff de un circuito más complejo
+Imagine cómo cambiaría el trazo si variaran los valores de los tres 
+resistores. Luego, analice el circuito matemáticamente para ver si el
+diagrama le permitirá anticipar los voltajes y las corrientes.
+
+18.2 Circuitos de múltiples mallas y reglas de Kirchhoff 603
+Como era de esperarse, las caídas de voltaje a través de los resistores en paralelo son igua-
+les. A causa de esto, dos tercios de la corriente total está en el resistor con la menor resis-
+tencia. Además, el voltaje total a través de la red es de 12.0 V , como debe ser.
+Una aclaración especial antes de terminar con este ejemplo: sabemos que las respuestas
+deben estar en amperes y volts porque se utilizaron amperes, volts y ohms de forma con-
+sistente. Si permanecemos dentro del sistema (esto es, si las cantidades se expresan en
+volts, amperes y ohms), no se necesita convertir las unidades; las respuestas, automáti-
+camente, estarán en estas unidades. (Por supuesto, siempre es una buena idea verificar
+sus unidades si surge alguna duda.)
+Ejercicio de refuerzo. a) En este ejemplo, trate de predecir lo que sucederá con cada una
+de las corrientes si R2 se incrementa. Explique su razonamiento. b) Repita el inciso b de es-
+te ejemplo, cambiando R2 a 8.0 /H9024, y vea si su razonamiento es correcto.
+Aplicación de la reglas de Kirchhoff
+El ejemplo integrado 18.4 podría haberse resuelto usando las expresiones para resis-
+tencias equivalentes. Sin embargo, los circuitos de múltiples mallas, más complicados,
+requieren de un método más estructurado. En este libro, usaremos los siguientes pasos
+generales al aplicar las reglas de Kirchhoff:
+1. Asigne una corriente y un sentido de corriente a cada rama en el circuito. Esto se hace más
+convenientemente en las uniones.
+2. Indique las mallas y los sentidos en los que se van a recorrer (Nfigura 18.10). Cada rama debe
+estar por lo menos en una malla.
+3. Aplique la primera regla de Kirchhoff (regla de la unión) para cada unión que da una
+ecuación única. (Este paso da un conjunto de ecuaciones que incluye todas las corrientes,
+pero es posible que haya ecuaciones redundantes para dos diferentes uniones.)
+4. Recorra el número necesario de mallas para incluir todas las ramas. Al recorrer una malla,
+aplique la segunda regla de Kirchhoff, el teorema de la malla (utilizando V /H11005IR para cada
+resistor), y escriba las ecuaciones, considerando las convenciones de signos.
+Si este procedimiento se aplica de forma adecuada, los pasos 3 y 4 dan un conjunto de
+N ecuaciones con N corrientes incógnitas. En esas ecuaciones se despejan las corrien-
+tes. Si se recorren más mallas de las necesarias, se tendrán ecuaciones redundantes. Es
+necesario sólo el número de mallas que incluye una vez cada rama.
+Tal vez este procedimiento parezca complicado, pero en realidad es sencillo, como
+muestra el siguiente ejemplo.
+Ejemplo 18.5 ■ Corrientes en ramas: uso de las reglas de Kirchhoff
+Para el circuito en la figura 18.10, encuentre la corriente en cada rama.
+Razonamiento. Los cálculos en serie o en paralelo no pueden usarse aquí. (¿Por qué?) En
+lugar de ello, la solución comienza más bien asignando sentidos a la corriente (“mejores
+conjeturas”) en cada malla, y luego se usa el teorema de la unión y de la malla (dos veces,
+una para cada malla) para generar tres ecuaciones, puesto que existen tres corrientes.
+Solución.
+Dado: Valores en la figura 18.10 Encuentre: La corriente en cada una de las tres ramas
+Las corrientes y sus sentidos, así como los sentidos de recorrido elegidos de las mallas,
+se representan en la figura. (Recuerde, estos sentidos no son únicos; elíjalos, trabaje el
+problema y verifique los signos de la corriente final para ver si sus elecciones fueron co-
+rrectas.) Hay una corriente en cada rama, y cada rama está en por lo menos una malla.
+(Algunas ramas están en más de una malla, lo que es aceptable.)
+Aplicando la primera regla de Kirchhoff en la unión izquierda resulta
+o bien, después de reordenar,
+(1)
+(Para la otra unión, podríamos escribir I
+2 /H11001I3 /H11002I1 /H110050, pero esta ecuación es equivalente
+a la ecuación 1, como hemos hecho con las uniones.)
+Circulando alrededor de la malla 1 como en la figura 18.10 y aplicando el teorema de
+la malla de Kirchhoff con la convención de signos, resulta
+(2)
+Entonces, sustituyendo los valores numéricos, obtenemos
++6 - 6I1 - 12 - 2I3 = 0
+g Vi =+ V1 +1-I1
+ R12 +1-V22 +1-I3
+ R32 = 0
+I1 = I2 + I3
+I1 - I2 - I3 = 0
+R2 = 9.0 Ω
+R3 =
+2.0 Ω
+   R1 =
+6.0 Ω
+V1 = 6.0 V
+Malla 3
+I1
+I1
+I2
+I2
+I2
+Malla 1
+Malla 2
+I3
+V2 =
+12 V
+▲ FIGURA 18.10 Aplicación de las
+reglas de Kirchhoff Para analizar
+un circuito como el del ejemplo
+18.5, asigne una corriente y un 
+sentido a cada rama en el circuito
+(conviene hacerlo en las uniones).
+Identifique cada malla y el sentido
+de recorrido. Luego escriba ecuacio-
+nes de corriente para cada unión 
+independiente (usando el teorema
+de la unión de Kirchhoff). Además,
+escriba las ecuaciones de voltajes
+para tantas mallas como sea 
+necesario para incluir cada rama
+(utilizando el teorema de la malla
+de Kirchhoff). Tenga cuidado de 
+observar las convenciones de signos.
+(continúa en la siguiente página)
+
+604 CAPÍTULO 18 Circuitos eléctricos básicos
+Al reordenar esta ecuación y dividir ambos lados entre 2, tenemos
+Por conveniencia, se omiten las unidades (todas están en amperes y ohms, y, por lo tanto,
+son consistentes).
+Para la malla 2, el teorema de la malla da
+(3)
+De nuevo, después de sustituir los valores y de reordenar, tenemos,
+(3a)
+Las ecuaciones (1), (2a) y (3a) forman un conjunto de tres ecuaciones con tres incóg-
+nitas. Las I se pueden despejar de varias maneras. Por ejemplo, sustituya la ecuación (1)
+en la ecuación (2) para eliminar I1:
+que, después de reordenarse y dividirse entre 3, se simplifica a
+(4)
+Luego, sustituyendo la ecuación (4) en la ecuación (3) se elimina I2:
+Se resuelve algebraicamente y se despeja I3, para obtener
+El signo menos en el resultado nos dice que se supuso un sentido equivocado para I3.
+Sustituyendo el valor de I3 en la ecuación (4), obtenemos el valor de I2:
+Entonces, de la ecuación (1),
+Una vez más, el signo menos indica que el sentido de I
+1 fue incorrecto.
+Observe que este análisis no usó la malla 3. La ecuación para esta malla sería redun-
+dante, pues no contendría nueva información (¿se da cuenta?).
+Ejercicio de refuerzo. Repita este ejemplo, usando el teorema de las uniones, así como las
+mallas 3 y 1 en vez de las 1 y 2.
+18.3 Circuitos RC
+OBJETIVOS: a) Comprender la carga y descarga de un condensador a través de
+un resistor y b) calcular la corriente y el voltaje en tiempos especí-
+ficos durante esos procesos.
+Hasta ahora, sólo se han considerado circuitos de corrientes constantes. En algunos
+circuitos de corriente directa (cd), la corriente varía con el tiempo mientras mantiene un
+sentido constante (y sigue siendo “cd”). Tal es el caso con los circuitos RC, que, en ge-
+neral, constan de varios resistores y condensadores.
+Carga de un condensador a través de un resistor
+La carga por una batería de un condensador (o capacitor) inicialmente descargado se
+ilustra en la 
+>figura 18.11. Después de que se cierra el interruptor, aun cuando hay una
+separación entre las placas del condensador, la carga debe fluir mientras el condensa-
+dor se está cargando.
+La carga máxima (Qo) que el condensador puede acumular depende de la capaci-
+tancia (C) y del voltaje de la batería (Vo). Para determinar el valor de Qo y comprender
+cómo es que tanto la corriente como la carga en el condensador varían con el tiempo,
+considere el siguiente argumento. A t /H110050, no hay carga en el condensador, y, por lo
+tanto, tampoco hay voltaje a través de él. Mediante el teorema de la malla de Kirchhoff,
+esto significa que todo el voltaje de la batería debe aparecer a través del resistor, dando
+por resultado una corriente inicial (máxima) I
+o /H11005Vo/R. Conforme la carga aumenta en
+el condensador, también lo hace el voltaje a través de las placas, reduciendo el voltaje
+y la corriente del resistor. Finalmente, el condensador queda cargado al máximo, y la
+corriente disminuye a cero. En ese momento, el voltaje del resistor es cero y el voltaje
+del condensador debe ser V
+o. A causa de la relación entre la carga en un condensador
+y su voltaje (capítulo 16, ecuación 16.19), la carga máxima del condensador está dada
+por Q
+o /H11005CVo. (Esta secuencia se ilustra en la figura 18.11.)
+I1 = I2 + I3 = 1.0 A - 1.5 A =- 0.5 A
+I2 =- 1 - 4
+3 1-1.5 A2 = 1.0 A
+-14I3 = 21 o I3 =- 1.5 A
+9A-1 - 4
+3 I3B - 2I3 = 12
+I2 =- 1 - 4
+3 I3
+31I2 + I32 + I3 =- 3
+9I2 - 2I3 = 12
+g Vi =+ V2 +1-I2
+ R22 +1+I3
+ R32 = 0
+3I1 + I3 =- 3
+R
+Vo
+C
+C
+C
+S
+a)
+R
+Vo
+S
+b)
++Q
+++
+–Q
++
+––
+I
+R
+Vo
+S
+c)
++Qo
+–Qo
+I /H11015 0
+I /H11005 0
+Q /H11005 0
++++ +
+––– –
+▲ FIGURA 18.11 Carga de un 
+condensador en un circuito RC 
+en serie a) Inicialmente no hay
+corriente ni carga en el condensa-
+dor. b) Cuando el interruptor está 
+cerrado, hay una corriente en el 
+circuito hasta que el condensador 
+se carga hasta su máximo valor. 
+La tasa de carga (y descarga) 
+depende de la constante de tiempo,
+/H9270(/H11005RC). c) Para tiempos mucho
+más largos que /H9270, la corriente es
+muy cercana a cero, y el conden-
+sador está plenamente cargado.
+
+18.3 Circuitos RC 605
+La resistencia es uno de los dos factores que ayudan a determinar qué tan rápido
+se carga el condensador, ya que cuanto mayor es su valor, mayor es la resistencia al flujo
+de carga. La capacitancia es el otro factor que influye en la rapidez de carga, ya que toma
+más tiempo cargar un condensador más grande. El análisis de este tipo de circuito re-
+quiere de matemáticas que están más allá del nivel de este libro. Sin embargo, se pue-
+de mostrar que el voltaje a través del condensador aumenta exponencialmente con el
+tiempo de acuerdo con la ecuación
+(18.6)
+donde e tiene un valor aproximado de 2.718. (Recuerde que el número irracional e es la
+base del sistema de logaritmos naturales .) Una gráfica de V
+C versus t se muestra en 
+la Nfigura 18.12a. Como es de esperarse, VC tiende a Vo, el voltaje máximo del conden-
+sador, después de “largo” tiempo.
+Una gráfica de I versus t se presenta en la figura 18.12b. La corriente varía con el
+tiempo de acuerdo con la ecuación
+(18.7)
+La corriente disminuye exponencialmente con el tiempo y tiene su valor máximo al
+inicio, como se esperaba.
+De acuerdo con la ecuación 18.6, tomaría un tiempo infinito para que el condensa-
+dor se cargara por completo. Sin embargo, en la práctica, los condensadores quedan
+cargados en tiempos relativamente cortos. Es común usar un valor especial para expre-
+sar el “tiempo de carga”. Este valor, llamado constante de tiempo (/H9270), se expresa como
+constante de tiempo para circuitos RC (18.8)
+(Sería conveniente que usted demostrara que R
+C tiene unidades de segundos.) Des-
+pués de que ha transcurrido un tiempo igual a una constante de tiempo, t /H11005/H9270/H11005RC, el
+voltaje a través del condensador en proceso de carga se ha elevado al 63% del máximo
+posible. Esto se ve evaluando V
+C (ecuación 18.6), al reemplazar t con /H9270(/H11005RC):
+Como Q /H11008VC, esto implica que el condensador está cargado en un 63% de su máximo
+posible después de que ha transcurrido un tiempo igual a una constante de tiempo.
+Usted debería demostrar que después de una constante de tiempo, la corriente ha caí-
+do al 37% de su (máximo) valor inicial (I
+o).
+Al final de dos constantes de tiempo, t /H110052/H9270/H110052RC, el condensador está cargado a
+más del 86% de su valor máximo; en t /H110053/H9270/H110053RC, el condensador está cargado al 95% de
+su valor máximo, y así sucesivamente. Como regla general, el condensador se considera
+“plenamente cargado”, después que han transcurrido “varias constantes de tiempo”.
+Descarga de un condensador a través de un resistor
+La Nfigura 18.13a muestra un condensador siendo descargado a través de un resistor. En
+este caso, el voltaje a través del condensador disminuye exponencialmente con el tiem-
+po, como lo hace también la corriente. La expresión para la caída del voltaje del con-
+densador (desde su voltaje máximo V
+o) es
+(18.9)
+Por ejemplo, en una constante de tiempo, el voltaje a través del condensador cae
+a 37% de su valor original (figura 18.13b). La corriente en el circuito decae exponen-
+cialmente, de acuerdo con la ecuación 18.7. Éste también es el comportamiento de un
+condensador en un desfibrilador cardiaco conforme descarga su energía almacenada
+(como un flujo de carga o corriente) a través del corazón (resistencia R) en un tiempo
+de descarga de 0.1 s. Los circuitos RC también son parte integral de los marcapasos
+cardiacos, que alternativamente cargan un condensador, transfieren la energía al co-
+razón y repiten este proceso a una tasa determinada por la constante de tiempo. Para
+conocer más detalles sobre estos interesantes e importantes instrumentos, véase la
+sección A fondo 18.1, sobre las aplicaciones de los circuitos RC a la cardiología, en la
+p. 608. Otras aplicaciones interesantes de los circuitos RC en el campo médico se men-
+cionan en los ejercicios 107 y 108. Como un ejemplo práctico, considere su uso en las
+modernas cámaras fotográficas en el ejemplo 18.6.
+(descarga del voltaje del  
+ condensador en un circuito RC)VC = Vo
+ e-t>1RC2 = Vo
+ e-t>t
+ L Voa1 - 1
+2.718b = 0.63Vo
+ VC = Vo11 - e-t>t2 = Vo11 - e-12
+t = RC
+I = Io
+ e-t>1RC2
+(voltaje del condensador  
+ cargándose en un circuito RC)VC = Vo31 - e-t>1RC24
+0.63Vo
+Vo
+I
+VC
+Voltaje
+τ = RC t
+0.37Io
+Io
+Corriente
+τ = RC t
+a)
+Tiempo
+b)
+Tiempo
+▲ FIGURA 18.12 Carga de un 
+condensador en un circuito RC 
+en serie a) En un circuito RC,
+conforme el condensador se carga,
+el voltaje a través de él aumenta 
+no linealmente con el tiempo, 
+alcanzando 63% de su voltaje 
+máximo (V
+o) en una constante de
+tiempo /H9270. b) La corriente en este 
+circuito es inicialmente un máximo
+(I
+o /H11002Vo/R) y disminuye exponen-
+cialmente, cayendo al 37% de su 
+valor inicial en una constante 
+de tiempo, /H9270.
+Nota: la mayoría de las 
+calculadoras cuentan con un botón
+e
+x. Para cálculos exponenciales,
+practique utilizándolo. Por ejemplo,
+asegúrese de que su calculadora 
+le dé e
+/H110021 /H110150.37.
+Exploración 30.6 Constante 
+de tiempo RC
+Ilustración 30.6 Circuito RC
+
+606 CAPÍTULO 18 Circuitos eléctricos básicos
+Q = CVC
+RC
+S
+a)
+++ ++
+– – – –
+I
+VC
+0.37Vo
+Vo
+VC
+τ = RC t
+Tiempo
+b)
+▲ FIGURA 18.13 Descarga de un
+condensador en un circuito RC 
+en serie a) El condensador está
+inicialmente cargado. Cuando 
+el interruptor se cierra, aparece
+corriente en el circuito conforme 
+el condensador comienza a
+descargarse. b) En este caso, el
+voltaje a través del condensador 
+(y la corriente en el circuito) decae
+exponencialmente con el tiempo,
+cayendo al 37% de su valor inicial
+en una constante de tiempo, /H9270.
+Ejemplo 18.6 ■ Circuitos RC en cámaras fotográficas: encender 
+el flash es tan fácil como disminuir un logaritmo
+En muchas cámaras fotográficas, el flash integrado se enciende con la energía almacena-
+da en un condensador. Este último se mantiene cargado usando baterías de larga vida con
+voltajes que, por lo regular, son de 9.00 V . Una vez que se enciende el flash, el condensa-
+dor debe cargarse rápidamente, por medio de un circuito RC interno. Si el condensador
+tiene un valor de 0.100 F, ¿cuál debe ser la resistencia de forma que el condensador que-
+de cargado al 80% de su carga máxima (la cantidad mínima de carga para encender la 
+luz de nuevo) en 5.00 s?
+Razonamiento. Después de una constante de tiempo, el condensador se carga al 63% de su
+voltaje y carga máximos. Como el condensador necesita el 80%, la constante de tiempo de-
+be ser menor que 5.00 s. Podemos usar la ecuación 18.6 (junto con una calculadora) para
+determinar la constante de tiempo. A partir de ahí, es posible calcular el valor de resisten-
+cia que se requiere.
+Solución. Los datos incluyen el voltaje final a través del condensador, VC, que es el 80%
+del voltaje de la batería, lo que significa que Q es el 80% de la carga máxima.
+Dado: Encuentre: R (la resistencia requerida de forma que el 
+condensador esté cargado al 80% en 5.00 s)
+Insertando los datos en la ecuación 18.6, tenemos
+Reordenando esta ecuación, se obtiene e/H11002500//H9270/H110050.20, y el recíproco de esta expresión
+(para hacer positivo el exponente) es
+Para despejar la constante de tiempo, recuerde que si ea /H11005b, entonces a es el logaritmo 
+natural (ln) de b. Así, en nuestro caso, 5.00//H9270es el logaritmo natural de 5.00. Usando una
+calculadora, encontramos que ln 5.00 /H110051.61. Por lo tanto,
+o
+Despejando R, obtenemos
+Como se esperaba, la constante de tiempo es menor que 5.0 s, porque alcanzar el 80% del
+voltaje máximo requiere un periodo más prolongado que una constante de tiempo.
+Ejercicio de refuerzo. a) En este ejemplo, ¿cómo se compara la energía almacenada en el
+condensador (después de 5.00 s) con el almacenamiento máximo de energía? Explique
+por qué no es el 80%. b) Si usted se esperara 10.00 s para cargar el condensador, ¿cuál se-
+ría su voltaje? ¿Por qué no es el doble del voltaje que existe a través del condensador des-
+pués de 5.00 s?
+Una aplicación de un circuito RC se presenta en la ▼figura 18.14a. Este circuito se
+llama circuito de destellos (u oscilador de relajación de tubo neón). El resistor y condensador
+están inicialmente conectados en serie, y entonces un tubo neón en miniatura se conec-
+ta en paralelo con el condensador.
+R = 3.11 s
+C = 3.11 s
+0.10 F = 31 Æ
+t = RC = 5.00
+1.61 = 3.11 s
+5.00
+t = ln 5.00 = 1.61
+e5.00>t = 5.00
+7.20 = 9.0011 - e-5.00>t2
+VC = Vo11 - e-t>t2,
+ t = 5.00 s
+ VC = 0.80Vo = 7.20 V
+ VB = Vo = 9.00 V
+ C = 0.100 F
+Voltaje del tubo
+Vb
+VmTubo
+de neón
+(90 −120 V )
+V
+R
+C
+V
+Tiempo
+a) b)
+t
+N FIGURA 18.14 Circuito de 
+destellos a) Cuando un tubo 
+de neón se conecta a través del 
+condensador en un circuito RC en
+serie que tiene la fuente apropiada
+de voltaje, el voltaje a través del 
+tubo oscilará con el tiempo. Como
+resultado, el tubo emite periódica-
+mente destellos. b) Una gráfica del
+voltaje versus el tiempo muestra el
+efecto oscilante entre V
+b, el voltaje
+“de ruptura”, y Vm, el voltaje “de
+mantenimiento”. Véase el texto 
+para una explicación detallada.
+
+18.4 Amperímetros y voltímetros 607
+Cuando el circuito está cerrado, el voltaje a través del condensador (y el tubo
+neón) se eleva de 0 a Vb, que es el voltaje de ruptura del gas neón en el tubo (aproxima-
+damente 80 V). A ese voltaje, el gas se ioniza (es decir, los electrones se liberan de los
+átomos, creando cargas positivas y negativas que tienen libertad de movimiento). En-
+tonces, el gas comienza a conducir electricidad, y el tubo se ilumina. Cuando el tubo
+está en un estado conductor, el condensador se descarga a través de él, y el voltaje cae
+rápidamente (figura 18.14b). Cuando el voltaje cae por debajo de V
+m, llamado voltaje de
+mantenimiento, la ionización en el tubo ya no puede sostenerse, y el tubo deja de con-
+ducir. El condensador empieza a cargarse de nuevo, el voltaje se eleva de Vm a Vb, y el
+ciclo se repite. La repetición continua de este ciclo ocasiona que el tubo lance destellos.
+18.4 Amperímetros y voltímetros
+OBJETIVOS: a) Comprender cómo los galvanómetros se usan como amperíme-
+tros y voltímetros, b) cómo se construyen las versiones con diferen-
+tes escalas de esos dispositivos y c) cómo se conectan para medir
+corriente y voltaje en circuitos reales.
+Como sus nombres implican, un amperímetro mide corriente a través de elementos de
+circuito y un voltímetro mide voltajes a través de elementos de circuito. Un compo-
+nente básico de esos dos tipos de medidores es un galvanómetro (Nfigura 18.15a). El
+galvanómetro opera con base en principios magnéticos, que se estudiarán en el capí-
+tulo 19. En este capítulo, el galvanómetro se considerará simplemente como un ele-
+mento de circuito que tiene una resistencia interna r (por lo general, alrededor de 
+50 /H9024); las desviaciones de su aguja son directamente proporcionales a la corriente en
+él (figura 18.15b).
+Amperímetros
+Un galvanómetro mide corriente, pero por la pequeña resistencia en su bobina, sólo es
+posible medir las corrientes en el rango de microamperios sin quemar los alambres de
+la bobina. Sin embargo, hay una manera de construir un amperímetro para medir ma-
+yores corrientes con un galvanómetro. Para lograrlo, se conecta un pequeño resistor en
+derivación (con una resistencia R
+s) en paralelo con un galvanómetro. El trabajo del re-
+sistor en derivación (o simplemente, derivación, para abreviar) consiste en tomar la
+mayor parte de la corriente ( ▼figura 18.16). Esto requiere que la derivación tenga mu-
+cho menos resistencia que el galvanómetro (Rs V r). El siguiente ejemplo ilustra cómo
+se determina la resistencia de la derivación en el diseño de un amperímetro.
+a)
+Imán
+perma-
+nente
+Bobina
+de
+alambre
+Núcleo
+cilíndrico
+de hierro
+N
+0 1 2 3 4
+S
+A
+B
+I
+b)
+r
+GAB
+▲ FIGURA 18.15 El galvanómetro
+a) Un galvanómetro es un dispo-
+sitivo sensible a la corriente; las 
+desviaciones de su aguja son 
+proporcionales a la corriente a 
+través de su bobina. b) El símbolo
+de circuito para un galvanómetro 
+es un círculo que contiene una G.
+La resistencia interna (r) del medi-
+dor se indica explícitamente como r.
+(continúa en la siguiente página)
+G
+r
+R
+Rs
+Ig
+Is Resistor
+en derivación
+A
+A
+b)
+R
+a)
+I I
+Amperímetro
+I I
+J
+> FIGURA 18.16 Un amperímetro
+cd Aquí, R es la resistencia del 
+resistor cuya corriente se está 
+midiendo. a) Un galvanómetro 
+en paralelo con un resistor en 
+derivación (R
+s) es un amperímetro
+capaz de medir varios rangos de 
+corriente, dependiendo del valor 
+de R
+s. b) El símbolo en un circuito
+para un amperímetro es un círculo
+con una A dentro. (Véase el ejemplo
+18.7 para una explicación detallada
+del diseño de un amperímetro.)
+Nota: los amperímetros se
+conectan en serie con el elemento
+cuya corriente están midiendo
+(figura 18.16b).
+Ejemplo 18.7 ■ Diseño de un amperímetro usando las reglas de
+Kirchhoff: selección de un resistor en derivación
+Suponga que tiene un galvanómetro capaz de conducir con seguridad una corriente má-
+xima en su bobina de 200 /H9262A (esto se llama su sensibilidad a escala plena) y que tiene una re-
+sistencia en la bobina de 50 /H9024. Se va a utilizar en un amperímetro diseñado para leer
+corrientes de hasta 3.0 A (a escala plena). ¿Cuál es la resistencia en derivación requerida?
+(Véase la figura 18.16a.)
+Razonamiento. El galvanómetro sólo puede llevar una corriente pequeña, por lo que la
+mayor parte de la corriente tendrá que ser desviada, o “derivada”, a través del resistor en
+derivación. Así, esperamos que la resistencia en derivación sea mucho menor que la resis-
+Exploración 30.4 Galvanómetros 
+y amperímetros
+
+608 CAPÍTULO 18 Circuitos eléctricos básicos
+18.1 APLICACIONES DE LOS CIRCUITOS RC 
+A LA CARDIOLOGÍA
+El corazón humano, en condiciones normales, late entre 60 y 70
+veces por minuto, y cada latido bombea unos 70 mL de sangre
+(alrededor de un galón por minuto). El corazón es, en esencia,
+una bomba compuesta por células musculares especializadas.
+Las células se activan para latir cuando reciben señales eléctricas
+(figura 1). Estas señales (véase la sección A fondo 16.1 referente 
+a la transmisión nerviosa en el capítulo 16) son enviadas por 
+células especiales, llamadas células marcapaso, localizadas en el
+nodo sinoauricular(nodo SA, para abreviar) en una de las cámaras
+superiores o aurículas del corazón.
+Durante un ataque cardiaco o después de un choque eléc-
+trico, el corazón adopta un patrón irregular de latidos. Si un in-
+dividuo no recibe tratamiento, esta condición resulta fatal en
+pocos minutos. Por fortuna, es posible hacer que el corazón re-
+cobre su patrón normal al pasarle una corriente eléctrica. El ins-
+trumento que hace posible esto se llama desfibrilador cardiaco. El
+componente principal de un desfibrilador es un condensador
+cargado a un alto voltaje.* 
+Se requieren varios cientos de joules de energía eléctrica pa-
+ra restablecer el ritmo cardiaco. Las placas de alto y bajo voltaje
+del condensador se ponen en contacto con la piel del paciente
+mediante dos electrodos que se colocan justo por encima de am-
+bos lados del corazón (figura 2a y 2b). Cuando se enciende el in-
+terruptor, la corriente fluye a través del corazón y así se transfiere
+la energía del condensador a este órgano en un intento por resta-
+blecer el número correcto de latidos.
+Esta descarga es la de un circuito RC. Por lo general, el con-
+densador tiene un valor de 10 /H9262F y está cargado a 1000 V . (Avances
+recientes en dieléctrica han permitido fabricar condensadores de 1
+F o más. Esto reduce la necesidad de alto voltaje porque la energía
+almacenada es proporcional a la capacitancia, U
+C/H11005CV2/2). La re-
+sistencia del corazón (Rh) es, por lo regular, de 1000 /H9024, lo que da
+una constante de tiempo (para descarga) de /H9270/H11005RhC/H1100510/H110022 s/H1100510 ms.
+En virtud de esta constante de tiempo de descarga de 10 ms,
+el condensador se descarga por completo después de 50 ms. El
+condensador debe recargarse en unos 5 s (figura 2c). De esta for-
+ma, la constante de tiempo de carga debería ser de 1 s. Esto signi-
+fica que el resistor de carga debe tener un valor aproximado (R
+c)
+de Rc /H11005/H9270/C /H11015105 /H9024.
+En algunos tipos de ataque al corazón, los latidos cardiacos
+son irregulares por problemas con las células marcapaso. El co-
+razón puede recobrar su latido normal gracias a un dispositivo
+(que se implanta), llamado marcapasos cardiaco. Estas unidades
+tienen el tamaño de una caja de cerillos, poseen una batería de
+larga vida y se insertan quirúrgicamente cerca del nodo SA. 
+La mayoría de los marcapasos están controlados mediante
+un complejo circuito de activación que les permite enviar señales
+al corazón sólo si es necesario (marcapasos “de demanda”; véan-
+se las figuras 3a y 3b). El circuito de activación envía una señal al
+marcapasos para que se “encienda” si el corazón deja de latir; si
+late normalmente, el interruptor del condensador se queda en la
+posición de carga total, en espera de una señal de encendido.
+Para nuestros propósitos, el marcapasos es un circuito RC.
+El condensador (por lo común de 10 /H9262F) se queda cargado gra-
+cias a la batería y debe estar listo para liberar su energía tan 
+rápido como 70 veces por minuto (en el caso del peor escena-
+rio, cuando las propias células marcapaso del corazón no fun-
+cionan en absoluto). La resistencia del músculo cardiaco entre
+los electrodos del marcapasos es de 100 W, lo que significa que
+la constante de tiempo de descarga del dispositivo es /H9270/H110151 ms.
+Por lo tanto, se descarga por completo en 5 ms.
+Para operar 70 veces por segundo, el condensador tiene
+que cargarse, encenderse y recargarse en 1/70 /H1101514 ms. Como
+tarda aproximadamente 5 ms en descargarse, tiene unos 9 ms
+para recargarse, lo que da una constante de tiempo de recarga
+de 2 ms. Esto requiere que el resistor de recarga R
+C (el resistor
+en el circuito a través del cual se carga el condensador) esté,
+cuando mucho, a 200 /H9024(figura 3c).
+A FONDO
+Nodo SA
+Localización
+general de las
+células marcapaso
+FIGURA 1 El corazón Las células 
+marcapaso se localizan primordialmente
+en el nodo SA. Las señales eléctricas que
+desencadenan un latido cardiaco alcan-
+zan las áreas más bajas del corazón en
+unos 50 milisegundos.
+tencia interna del galvanómetro. Como el resistor en derivación y la resistencia de la bo-
+bina, en realidad, son dos resistores están en paralelo, tienen el mismo voltaje. Esta infor-
+mación —junto con las leyes de Kirchhoff—, nos permite determinar el valor de R
+s.
+Solución. Se listan los datos
+Dado: Encuentre: Rs (resistencia en derivación)
+Como los voltajes a través del galvanómetro y el resistor en derivación son iguales, pode-
+mos escribir (usando subíndices “g” para galvanómetro y “s” para derivación; véase la 
+figura 18.16a)
+Usando la regla de unión de Kirchhoff en el punto J, la corriente I en el circuito externo
+es I /H11005I
+g /H11001Is o Is /H11005I /H11002Ig. Sustituyendo esto en la ecuación anterior, tenemos
+Ig
+ r =1I - Ig2Rs
+Vg = Vs o Ig
+ r = Is
+ Rs
+ Imáx = 3.0 A
+ r = 50 Æ
+ Ig = 200 mA = 2.00 * 10-4 A
+*Como las baterías portátiles no son capaces de dar altos voltajes,
+el proceso de carga se basa en un fenómeno llamado inducción electro-
+magnética, que se estudiará en el capítulo 20.
+
+18.4 Amperímetros y voltímetros 609
+FIGURA 3 Marcapasos cardiaco a) Un marcapasos común (mostrado como un condensador en una caja) se implanta quirúrgica-
+mente sobre o cerca de la superficie del corazón, con sus cables conectados al músculo cardiaco (resistencia Rn). (El circuito de carga
+del condensador no se muestra.) Otros cables (no ilustrados) reciben señales del corazón para determinar si el marcapasos necesita
+“encenderse”. b) El circuito sensor determina la posición del “interruptor” del condensador. Si el corazón no late, el circuito sensor
+da vuelta al interruptor hacia la derecha, iniciando la descarga de energía a través del músculo cardiaco. Si el corazón late adecua-
+damente, el circuito sensor deja el interruptor a la izquierda, manteniendo el condensador cargado por completo. c) Si el marcapa-
+sos está en operación, un ciclo completo toma 15 ms. Se necesitan unos 5 ms para la descarga a través del músculo cardiaco y 
+otros 10 ms para recargar el condensador. La recarga se completa gracias a una batería de larga vida, V
+c.
+Por lo tanto, la resistencia en derivación Rs es
+La resistencia en derivación es muy pequeña comparada con la resistencia de la bobina, lo
+que permite el paso de la mayor parte de la corriente (2.9998 A a escala plena) a través del
+resistor en derivación. El amperímetro leerá corrientes linealmente hasta 3.0 A. Por ejem-
+plo, si una corriente de 1.5 A fluyera en el amperímetro, habría una corriente de 100 /H9262Ae n
+la bobina del galvanómetro (la mitad de la máxima permitida), lo que daría una lectura 
+de media escala, o 1.5 A.
+Ejercicio de refuerzo.En este ejemplo, si hubiéramos usado una resistencia en derivación de
+1.0 m/H9024, ¿cuál sería la lectura de escala plena (máxima lectura de corriente) del amperímetro?
+ = 3.3 * 10-3 Æ= 3.3 mÆ
+ =
+12.00 * 10-4 A2150 Æ2
+3.0 A - 2.00 * 10-4 A
+ Rs =
+Ig
+ r
+Imáx - Ig
+0 5 ms 10 15
+t (ms)
+Descarga a través
+del corazón
+(interruptor a
+la derecha)
+Condensador
+de recarga
+(interruptor a
+la izquierda)
+b)
+S
+a)
+C RhVcVV
+Rc
+RR
+RRRRRn
+n
+nn
+V
+VcVV
+c)
+/H11001/H11001 /H11001/H11001
+/H11002/H11002 /H11002/H11002
+Fuente
+de alto V
+I
+I Rc
+b)a) c)
+FIGURA 2 ¡Reactiven el corazón! a) Los electrodos se colocan externamente a ambos lados del corazón, y la energía 
+de un condensador cargado pasa a través de él para ayudarlo a restablecer su patrón normal de latidos. b) Esta figura 
+muestra un diagrama del uso corrector del desfibrilador. La descarga es la de un circuito RC. c) Recarga del condensador 
+del desfibrilador para dejarlo listo otra vez, mediante un resistor (de carga) RC /H11015105 /H9024.
+
+610 CAPÍTULO 18 Circuitos eléctricos básicos
+Voltímetros
+Un voltímetro que es capaz de leer voltajes superiores al rango de microvolts (cualquier
+voltaje mayor quemaría el galvanómetro si éste estuviera solo) se construye conectando
+un gran resistor multiplicador en serie con un galvanómetro (
+>figura 18.17). Como el vol-
+tímetro tiene una gran resistencia, a causa del resistor multiplicador, extrae poca co-
+rriente del elemento de circuito cuyo voltaje mide. Sin embargo, la corriente que existe
+en el voltímetro es proporcional al voltaje a través del elemento del circuito. Así, el vol-
+tímetro se calibra en volts. Para comprender mejor esta configuración, considere el
+ejemplo 18.8.
+Ejemplo 18.8 ■ Diseño de un voltímetro: uso de la reglas de Kirchhoff
+para escoger un resistor multiplicador
+Suponga que el galvanómetro del ejemplo 18.7 se usará en un voltímetro con una lectura
+completa de 3.0 V . ¿Cuál es la resistencia requerida del multiplicador?
+Razonamiento. Para convertir un galvanómetro en un voltímetro, necesitamos una re-
+ducción de la corriente, lo que se logra añadiendo un “resistor multiplicador” grande en
+serie. Todos los datos necesarios para calcular la resistencia del multiplicador se dan aquí
+y en el ejemplo 18.7.
+Solución. Primero, se lista los datos:
+Dado: Encuentre: Rm (resistencia del 
+(a partir del ejemplo 18.7) multiplicador)
+(del ejemplo 18.7)
+Las resistencias del galvanómetro y del multiplicador están en serie. Esta combinación 
+está en paralelo con el elemento de circuito externo ( R). Por lo tanto, el voltaje a través 
+del elemento de circuito externo es la suma de los voltajes a través del galvanómetro y
+multiplicador (figura 18.17):
+Los voltajes a través del galvanómetro y los resistores multiplicadores son
+Combinando esas tres ecuaciones, tenemos
+Despejando la resistencia del multiplicador, tenemos
+Observe que el segundo término en el numerador (I
+gr) es insignificante comparado con la
+lectura plena de 3.0 V . Así, con una buena aproximación, Rm /H11015V/Ig o V /H11008Ig. El voltaje 
+medido es proporcional a la corriente en el galvanómetro.
+Ejercicio de refuerzo. El voltímetro en este ejemplo se usa para medir el voltaje de un resis-
+tor en un circuito. Una corriente de 3.00 A fluye a través del resistor (1.00 /H9024) antes de conec-
+tar el voltímetro. Suponiendo que la corriente total que llega(I en la figura 18.17b) permanece
+igual después de que se conecta el voltímetro, calcule la corriente en el galvanómetro.
+Por versatilidad, los amperímetros y voltímetros se fabrican con diferentes esca-
+las. Esta tarea se logra dando al usuario varias opciones de resistores en derivación o
+resistores multiplicadores (
+Nfigura 18.18a y b). También se fabrican combinaciones de
+estos medidores y se conocen como multímetros, que miden voltaje, corriente y, a menu-
+do, resistencia. Los multímetros digitales electrónicos son comunes (figura 18.18c). En
+lugar de galvanómetros mecánicos, esos dispositivos usan circuitos electrónicos que
+analizan señales digitales para calcular voltajes, corrientes y resistencias, que se des-
+pliegan en la pantalla.
+ = 1.5 * 104 Æ= 15 kÆ
+ =
+3.0 V -12.00 * 10-4 A2150 Æ2
+2.00 * 10-4 A
+ Rm =
+V - Ig
+ r
+Ig
+V = Vg + Vm = Ig
+ r + Ig
+ Rm = Ig1r + Rm2
+Vg = Ig
+ r y Vm = Ig
+ Rm
+V = Vg + Vm
+ Vmáx = 3.0 V
+ r = 50 Æ
+ = 2.00 * 10-4 A
+Ig = 200 mA
+G
+V
+V
+RI
+I
+I
+I
+Ig
+R
+rRm
+Resistor
+multiplicador
+a)
+b)
+Voltímetro
+IR
+Ig << I
+I ≈ IR
+V
+▲ FIGURA 18.17 Un voltímetro cd
+Aquí, R es la resistencia del resistor
+cuyo voltaje se está midiendo. 
+a) Un galvanómetro en serie con 
+un resistor multiplicador (R
+m) 
+es un voltímetro capaz de medir 
+varios rangos de voltaje, depen-
+diendo del valor de R
+m. b) El símbo-
+lo de circuito para un voltímetro 
+es un círculo con una V dentro.
+(Véase el ejemplo 18.8 para una 
+explicación detallada del diseño 
+de un voltímetro.)
+Exploración 30.5 Voltímetros
+Nota: los voltímetros se conectan
+en paralelo o a través del elemento
+cuyo voltaje están midiendo 
+(figura 18.17b).
+
+18.5 Circuitos domésticos y seguridad eléctrica 611
+18.5 Circuitos domésticos y seguridad eléctrica
+OBJETIVOS: a) Comprender cómo los circuitos domésticos están cableados y 
+b) conocer los principios que rigen sobre los dispositivos eléctricos
+de seguridad.
+Aunque los circuitos domésticos usan generalmente corriente alterna, que aún no he-
+mos estudiado, usted comprenderá su operación (y muchas de sus aplicaciones prácti-
+cas) gracias a los principios de los circuitos que ya hemos visto.
+Por ejemplo, ¿esperaría usted que los elementos (lámparas, aparatos, etc.) de un cir-
+cuito doméstico estén conectados en serie o en paralelo? A partir del análisis de las bom-
+billas de un árbol de Navidad (sección 18.1), debería ser aparente que los elementos
+domésticos deben conectarse en paralelo. Por ejemplo, cuando la bombilla de una lám-
+para se funde, otros elementos del circuito continúan trabajando. Además, los dispositi-
+vos domésticos y lámparas generalmente están clasificados para funcionar a 120 V . Si
+esos elementos estuvieran conectados en serie, ninguno de los elementos individuales
+del circuito tendría un voltaje de 120 V .
+La energía eléctrica se suministra a una casa por medio de un sistema de tres cables
+(
+▼figura 18.19). Existe una diferencia de potencial de 240 V entre los dos cables “calientes”
+c)
+Resistores
+de derivación
+Terminales
+del medidor
+a)  Amperímetro con escalas múltiple
+I
+Interruptor
+ Rs1
+ Rs2
+ Rs3
+Interruptor Terminales
+del medidor
+ Rm1
+Resistores
+multiplicadores
+ Rm2
+ Rm3
+ Rm4
+b)  Voltímetro con escalas múltiple
+ V
+Disyuntor
++120 V
+–120 V
+Tierra
+0 V
+(Refrigerador
+que trabaja a 120 V)
+(Estufa eléctrica
+que trabaja a 240 V)
+DisyuntorΔV = 120 V
+ΔV = 120 V
+ΔV = 240 V
+> FIGURA 18.19 Cableado 
+doméstico Un circuito de 120 V se
+obtiene conectando cualquiera de
+las líneas “calientes” y la línea 
+de tierra. Un voltaje de 240 V (para
+grandes aparatos como estufas 
+eléctricas) se obtiene conectando las
+dos líneas “calientes” de polaridad
+contraria. (Nota: para obtener 
+mayor claridad, la línea de tierra 
+[la tercera línea que tiene las puntas
+redondeadas], no se muestra.)
+▲ FIGURA 18.18 Medidores de varias escalas a) Un amperímetro o b) un voltímetro se utilizan para medir diversos rangos de 
+corriente y de voltaje, si se conectan entre diferentes resistores de derivación o multiplicadores, respectivamente. (En lugar de un
+interruptor, hay una terminal exterior para cada rango.) c) Ambas funciones se combinan en un solo multimedidor, que se muestra
+aquí a la izquierda midiendo el voltaje a través de una bombilla de luz. (¿Cómo se sabe que no está midiendo la corriente?)
+
+612 CAPÍTULO 18 Circuitos eléctricos básicos
+o de alto potencial. Cada uno de esos cables “calientes” tiene una diferencia de potencial
+de 120 V con respecto a la tierra. El tercer cable se lleva a tierra en el punto donde los 
+cables entran a la casa, generalmente por medio de una barra metálica empotrada en 
+el suelo. Este cable se define como el potencial cero y se le llama cable a tierrao neutro.
+La diferencia en potencial de 120 V necesaria para la mayor parte de los apara-
+tos domésticos se obtiene conectándolos entre el cable a tierra y cualquiera de los 
+cables de alto potencial. El resultado es el mismo en cualquiera de los casos, porque
+/H9004V /H11005120 V /H110020 V /H11005120 V o /H9004V /H110050 V /H11002(/H11002120 V) /H11005120 V . (Véase la figura 18.19.)
+Aun cuando el cable a tierra tiene cero potencial, es portador de corriente por ser
+parte del circuito completo. Grandes dispositivos como acondicionadores centrales de
+aire, hornos y calentadores de agua necesitan operar a 240 V . Este voltaje se obtiene co-
+nectándolos entre los dos cables calientes: /H9004V /H11005120 V /H11002(/H11002120 V) /H11005240 V . Aunque la
+corriente a través de un dispositivo (en condiciones de operación por debajo de 120 V)
+se indica en una etiqueta de clasificación, también puede determinarse a partir de la
+clasificación de potencia (usando I /H11005P/V). Por ejemplo, un estéreo clasificado a 180 W
+extraería una corriente promedio de 1.5 A (porque I /H11005P/V /H11005180 W/ 120 V /H110051.50 A).
+Hay limitaciones sobre el número de aparatos que pueden ponerse en un circuito y
+sobre la corriente total en ese circuito. Específicamente, el calor de joule (o pérdida I
+2R)
+en los cables debe tomarse en consideración. Cuanto más elementos en paralelo, menor
+es la resistencia equivalente del circuito. Añadir aparatos (encendidos) incrementa la
+corriente total. Recuerde que los cables tienen alguna resistencia y quedarán sometidos
+a un considerable calor de joule si la corriente es suficientemente grande. Por lo tanto, al
+agregar demasiados aparatos, se corre el riesgo de sobrecargar un circuito doméstico y
+producir demasiado calor en los cables. Este calor podría fundir el aislante e iniciar un in-
+cendio.
+La sobrecarga se previene limitando la corriente en un circuito por medio de dos
+tipos de dispositivos: fusibles y disyuntores (o breakers). Los fusibles (
+>figura 18.20)
+son comunes en las casas antiguas. Un fusible de base Edison tiene cuerdas o roscas
+como las que existen en la base de una bombilla de luz. (Véase la figura 18.20b.) Den-
+tro del fusible existe una franja metálica que se funde cuando la corriente es mayor que
+el valor de clasificación (por lo regular de 15 A para un circuito de 120 V). El fundido
+de la franja rompe (o abre) el circuito, y la corriente cae a cero.
+Los disyuntoresse utilizan exclusivamente en el cableado de casas modernas. Un ti-
+po (
+▼figura 18.21) usa una franja bimetálica (véase el capítulo 10). Cuando aumenta la
+corriente en la franja, ésta se calienta y se dobla. Al llegar al valor de clasificación de 
+la corriente, la franja se doblará lo suficiente para abrir el circuito. La franja se enfría en-
+tonces rápidamente, y el disyuntor puede reinstalarse. Sin embargo, un fusible quemado
+o un disyuntor desconectado indica que ¡el circuito está intentando extraer demasiada
+corriente! Encuentre y corrija el problema antes de reemplazar el fusible o de reinstalar el disyun-
+tor. Además, en ninguna circunstancia, debe reemplazarse (ni siquiera temporalmente)
+un fusible fundido por otro de una clasificación más alta de corriente (¿por qué?). Si no
+se dispone de un fusible de la correcta clasificación, por seguridad, es mejor dejar el cir-
+cuito abierto (a menos que controle elementos necesarios en caso de emergencia o que
+sean cruciales para la vida) hasta que se encuentre el fusible correcto.
+Los interruptores, fusibles y disyuntores se colocan en el lado “caliente” (de alto po-
+tencial) del circuito. Por supuesto, también pueden trabajar si se les coloca en el lado co-
+nectado a tierra. Para ver por qué no es conveniente esto último, considere lo siguiente. Si
+se les colocara ahí, aun cuando el interruptor estuviera abierto, el fusible fundido o el dis-
+yuntor disparado, los aparatos seguirían conectados a un potencial elevado, lo cual resul-
+taría potencialmente peligroso si una persona hace contacto eléctrico (
+Nfigura 18.22a).
+b)
+a)
+Trayectoria
+del circuito
+Laminilla
+del fusible
+▲ FIGURA 18.20 Fusibles a) Un 
+fusible contiene una tira o una cinta
+metálica que se funde cuando la 
+corriente excede cierto valor esta-
+blecido. Esto abre el circuito y evita
+el sobrecalentamiento. b) Los fusi-
+bles base de Edison (a la izquierda)
+tienen una rosca similar a la de las
+bombillas de luz. Las roscas son
+idénticas en este tipo de fusibles;
+así, es posible intercambiar fusibles
+con diferente clasificación de ampe-
+raje. Los fusibles tipo S (a la derecha)
+tienen roscas distintas para clasifi-
+caciones diferentes, por lo que no 
+es posible intercambiarlos.
+a)
+b)
+Salida
+de corriente
+Tira
+bimetálica Contactos
+eléctricos
+Pestillo
+Entrada
+de corriente
+Dispositivo
+térmico de
+desconexión
+Después de la sobrecarga de corriente
+Circuito
+interrumpido
+▲ FIGURA 18.21 Disyuntores de circuito a) Diagrama de un dispositivo térmico de
+desconexión. Al aumentar la corriente y el calor de joule, el elemento se dobla hasta
+que se abre el circuito para algún valor prefijado de la corriente. También existen
+dispositivos de desconexión que utilizan principios magnéticos. b) Un conjunto 
+de disyuntores domésticos comunes.
+Nota: el voltaje doméstico fluctúa,
+en condiciones normales, entre
+110 y 120 V. De manera similar, 
+las conexiones a 240 V pueden 
+estar tan bajas como 220 V y aun
+así se les considera normales.
+
+18.5 Circuitos domésticos y seguridad eléctrica 613
+Motor
+Contacto eléctrico
+con funda
+Lado caliente
+(alto potencial)
+Fusible
+A tierra
+a) b)
+Lado caliente
+(alto potencial)
+A tierra
+Fusible
+fundido
+Lado caliente
+(alto potencial)
+Motor
+Cable
+conectado
+a tierra
+A tierra
+▲ FIGURA 18.23 Dirigido a tierra
+Por seguridad, un tercer cable se 
+conecta de un aparato o de una 
+herramienta de potencia al suelo.
+Este cable destinado a tierra por 
+lo común no lleva corriente (en
+oposición al cable del circuito 
+conectado a tierra). Si un cable 
+caliente entra en contacto con la 
+cubierta metálica, la corriente 
+seguirá el cable conectado a tierra
+(trayectoria de menor resistencia)
+en lugar de atravesar el cuerpo de
+la persona que sostiene el aparato.
+El enchufe que se utiliza para esto
+se observa en la figura 18.24.
+a) b)
+> FIGURA 18.24 Enchufe a tierra
+a) Para alojar el cable a tierra 
+(figura 18.23), se utiliza una clavija
+de tres dientes. El adaptador que
+aquí se observa permite conectar 
+la clavija de tres dientes en un 
+tomacorriente con entrada para 
+dos dientes. La agarradera en el
+adaptador se debe conectar al 
+tornillo asegurador de la placa en 
+el receptáculo conectado a tierra; 
+de otra forma, se perdería la 
+seguridad del dispositivo. b) Una
+clavija polarizada. Los dientes de
+diferente tamaño permiten 
+la identificación de los lados alto 
+y de tierra de la línea. Véase el 
+texto para conocer más detalles.
+▲ FIGURA 18.22 Seguridad eléctrica a) Los interruptores y fusibles o disyuntores
+siempre deben estar conectados en el lado de alto potencial de la línea, no en el lado 
+a tierra como se muestra en la figura. Si esos elementos se colocaran en el lado a tierra, 
+la línea (y la cubierta metálica de un aparato) quedaría a un alto potencial aun cuando 
+el fusible se queme o se abra un interruptor. b) Aunque el fusible o el disyuntor esté en el
+lado “caliente”, existe una situación potencialmente peligrosa. Si un cable interno entra 
+en contacto con la cubierta metálica de un aparato o herramienta de potencia, ésta tendrá
+un alto voltaje y, si una persona la toca, recibirá un choque eléctrico.
+Aun con fusibles o disyuntores conectados correctamente en el lado de alto poten-
+cial de la línea, existe la posibilidad de provocar un choque eléctrico de un aparato de-
+fectuoso que tenga una cubierta metálica, como un taladro de mano. Por ejemplo, si un
+cable interior se afloja y hace contacto con la cubierta, ésta alcanzaría un potencial ele-
+vado (figura 18.22b). El cuerpo de una persona puede formar una trayectoria a tierra y
+convertirse en parte del circuito sufriendo un choque. Para conocer más acerca de los
+efectos de los choques eléctricos, véase la sección A fondo 18.2, que trata el tema elec-
+tricidad y seguridad personal en la p. 614.
+Para prevenir un choque, se agrega al circuito un tercer cable que lleva a tierra la
+cubierta metálica de los aparatos o herramientas de potencia (
+Nfigura 18.23). Este cable
+ofrece una trayectoria de muy baja resistencia, pasando de lado a la herramienta. Este
+alambre normalmente no lleva corriente. Si un alambre caliente entra en contacto con
+la cubierta, el circuito se completa gracias a este cable a tierra. Entonces, el fusible se
+funde o el disyuntor se dispara, ya que la mayor parte de la corriente estaría en el ter-
+cer cable a tierra y no en usted. En tal caso, lo más probable es que usted no resulte da-
+ñado. Sin embargo, recuerde que si se reinstala el disyuntor, continuará disparándose
+a menos que se encuentre el origen del problema y se repare.
+En las clavijas de tres dientes, el diente redondo grande se conecta con el cable de
+tierra. Se pueden utilizar adaptadores entre una clavija de tres dientes y una toma de co-
+rriente con entrada para dos dientes. Tales adaptadores tienen una agarradera o un cable
+que hace tierra (
+▼figura 18.24a) y que debe asegurarse a una caja receptáculo con un tor-
+nillo de seguridad. La caja receptáculo está conectada al cable que hace tierra. Si la aga-
+rradera o el cable del adaptador no están conectados, el sistema queda desprotegido, lo
+cual frustra el propósito del dispositivo de seguridad dedicado a hacer tierra.
+Tal vez usted ha notado que existe otro tipo de clavija, una de dos dientes que se
+ajusta en el enchufe sólo en una dirección pues uno de los dientes es más ancho que el
+otro y una de las ranuras del receptáculo también es mayor (figura 18.24b). Este tipo de
+
+614 CAPÍTULO 18 Circuitos eléctricos básicos
+18.2 Electricidad y seguridad personal
+Las medidas de seguridad son necesarias para evitar lesiones
+cuando se trabaja con electricidad. Los conductores de electrici-
+dad (como los cables) están recubiertos con materiales aislantes
+para poderlos manejar sin peligro. Sin embargo, cuando una
+persona entra en contacto con un conductor cargado, podría
+existir una diferencia de potencial a través de parte de su cuer-
+po. Un pájaro se puede posar sobre una línea de alto voltaje sin
+ningún problema porque sus dos patas están al mismo poten-
+cial; por lo tanto, no hay diferencia de potencialque genere una co-
+rriente en el pájaro. Pero si una persona que lleva una escalera
+de aluminio (conductor) toca con ella una línea eléctrica, existi-
+rá una diferencia de potencial entre la línea y el suelo, y la esca-
+lera y la persona se convierten entonces en parte de un circuito
+portador de corriente.
+El grado de lesión que sufre la persona en este caso depen-
+de de la cantidad de corriente eléctrica que fluye a través de su
+cuerpo y de la trayectoria del circuito. Sabemos que la corrien-
+te en el cuerpo está dada por I /H11005V/R
+cuerpo. Es evidente que la
+corriente depende de la resistencia del cuerpo.
+Sin embargo, la resistencia del cuerpo varía. Si la piel está
+seca, la resistencia puede ser de 0.50 M /H9024(0.50 /H11003106 /H9024) o ma-
+yor. Para una voltaje de 120 V , se tendría una corriente de un
+cuarto de miliampere, porque
+Esta corriente es muy débil para sentirla (tabla 1). Pero si la piel
+está húmeda, entonces la R
+cuerpo es de sólo 5.0 k/H9024(5.0 /H11003103 /H9024),
+y la corriente será de 24 mA (demuestre esto), un valor poten-
+cialmente peligroso. (Véase de nuevo la tabla 1.)
+Una precaución básica que se debe tomar es evitar entrar
+en contacto con un conductor eléctrico que pudiera causar una
+diferencia de potencial a través de cualquier parte del cuerpo.
+El efecto de ese contacto depende de la trayectoria de la co-
+rriente a través del cuerpo. Si esta trayectoria va del dedo meñi-
+que al pulgar de la misma mano, una corriente grande puede
+causar una quemadura. Sin embargo, si la trayectoria va de una
+a otra mano a través del pecho (y, por lo tanto, a través del cora-
+zón), el efecto será peor. En la tabla 1 se dan algunos de los efec-
+tos posibles de esta trayectoria de circuito.
+I = V
+Rcuerpo
+= 120 V
+0.50 * 106 Æ = 0.24 * 10-3 A = 0.24 mA
+A FONDO
+Efectos de la corriente eléctrica
+sobre el cuerpo humano*
+Corriente (aproximada) Efecto
+2.0 mA (0.002 A) Choque suave o calentamiento
+10 mA (0.01 A) Parálisis de músculos motores
+20 mA (0.02 A) Parálisis de músculos del pecho,
+causando paro respiratorio; fatal 
+en unos cuantos minutos
+100 mA (0.1 A) Fibrilación ventricular, que impide 
+la coordinación de los latidos del
+corazón; fatal en unos pocos 
+segundos
+1000 mA (1 A) Quemaduras serias; fatal casi 
+instantáneamente
+*El efecto sobre el cuerpo humano de una cantidad dada de corriente
+depende de varias condiciones. Esta tabla da sólo descripciones gene-
+rales y relativas, que suponen una trayectoria circular que incluye 
+el pecho superior.
+TABLA 1
+clavija se llama clavija polarizada. La polarización en el sentido eléctrico es un método
+de identificar los lados calientes y a tierra de la línea de forma que se puedan hacer co-
+nexiones particulares.
+Esas clavijas polarizadas y las tomas de corriente son ahora una medida de seguri-
+dad común. Los receptáculos de pared están cableados de forma que la ranura pequeña
+se conecta con el lado caliente, y la ranura grande con el lado neutral o tierra. Si se iden-
+tifica el lado caliente en esta forma, son posibles dos salvaguardias. Primero, el fabri-
+cante de un aparato eléctrico podrá diseñarlo de manera que el interruptor siempre esté
+del lado caliente de la línea. Así, todo el cableado del aparato, más allá del interruptor,
+será neutro cuando el interruptor esté abierto y el aparato quede desconectado. Es más,
+el fabricante conecta la cubierta del aparato al lado de tierra por medio de una clavija
+polarizada. Si algún cable caliente dentro del aparato se afloja y hace contacto con la cu-
+bierta metálica, el efecto será similar al que ocurre en el sistema conectado a tierra. El la-
+do caliente de la línea será acortado hacia la tierra, lo cual fundirá un fusible o disparará
+un disyuntor.
+Otro dispositivo eléctrico de seguridad, el interruptor de tierra falsa, se verá en el
+capítulo 20.
+Las lesiones son el resultado de que la corriente interfiere con las
+funciones musculares y de que provoca quemaduras. Las fun-
+ciones musculares están reguladas por impulsos eléctricos que
+viajan por los nervios (véase el capítulo 16) y éstos reciben in-
+fluencia de las corrientes externas. Una corriente de unos cuan-
+tos miliamperios provocará una reacción muscular y dolor. A
+10 mA, la parálisis muscular que sobreviene evitará que una
+persona se libere del conductor. Cerca de 20 mA se presenta una
+contracción de los músculos del pecho, que dificulta o impide la
+respiración. La muerte puede presentarse en pocos minutos. A
+100 mA hay movimientos rápidos no coordinados de los múscu-
+los del corazón ( fibrilación ventricular), que evitan un bombeo
+adecuado, condición que resulta fatal en unos cuantos segun-
+dos. Para trabajar con seguridad con la electricidad se requiere
+un conocimiento de los principios eléctricos fundamentales y
+sentido común. La electricidad debe ser tratada con respeto.
+Ejercicios relacionados: 94 y 95
+
+Repaso del capítulo
+Repaso del capítulo 615
+• Cuando los resistores están conectados en serie, la corriente a
+través de cada uno es la misma. La resistencia equivalente
+de los resistores en serie es
+(18.2)
+• Cuando los resistores están conectados en paralelo, el volta-
+je a través de cada uno es el mismo. La resistencia equiva-
+lente es
+(18.3)
+• El teorema de la unión de Kirchhoffestablece que la corrien-
+te total que entra en cualquier unión es igual a la corriente to-
+tal que sale de esa unión (conservación de la carga eléctrica).
+suma de corrientes en una unión (18.4)©Ii = 0
++–
+V = V1 = V2 = V3
+V
+123
+I 
+I 
+R2R1 R3
+V
+I = I1 + I2 + I3
+I1 I2
+I3
+I1 I2 I3
+V = V1 = V2 = V3
+1
+Rp
+= 1
+R1
++ 1
+R2
++ 1
+R3
++ Á =©  
+1
+Ri
++ – V
+V = V1 + V2 + V3
+V
+I 
+R2
+R1
+R3
+V1 = IR1
+V2 = IR2
+V3 = IR3
+V1
+V2
+V3
+Rs = R1 + R2 + R3 + Á =© Ri
+• El teorema de las mallas de Kirchhoff establece que al recor-
+rer una malla de un circuito completo, la suma algebraica de
+las ganancias y pérdidas de voltaje es cero, o que la suma de las
+ganancias de voltaje es igual a la suma de las pérdidas de
+voltaje (conservación de la energía en un circuito eléctrico). En
+términos de voltajes, esto se escribe como
+(18.5)
+• La constante de tiempo (/H9270) para un circuito RC es un tiempo
+característico por medio del cual medimos la tasa de carga y
+descarga de un condensador. /H9270está dada por
+(18.8)
+• Un amperímetro es un dispositivo que sirve para medir co-
+rriente; consiste en un galvanómetro y un resistor derivador
+en paralelo. Los amperímetros se conectan en serie, con el
+elemento del circuito llevando la corriente que se va a medir,
+y tienen muy poca resistencia.
+• Un voltímetro es un dispositivo para medir voltaje; consiste
+en un galvanómetro y en un resistor multiplicador conecta-
+dos en serie. Los voltímetros se conectan en paralelo, con el
+elemento del circuito experimentando el voltaje que se va a
+medir, y tienen gran resistencia.
+V
+RII
+A
+R
+II
+t = RC
+ε
+ε
+ε
+b
+a
+r
+R
+IR
+V
+Ir
+I
+e
+d
+c
+f
+Potencial
+suma de voltajes alrededor
+de una malla cerrada©Vi = 0
+
+616 CAPÍTULO 18 Circuitos eléctricos básicos
+18.1 Combinaciones de resistencias en serie, 
+en paralelo y en serie-paralelo
+1. OM ¿Cuál de las siguientes cantidades siempre es la mis-
+ma para resistores en serie? a) voltaje; b) corriente; c) po-
+tencia; d) energía.
+2. OM ¿Cuál de las siguientes cantidades siempre es la mis-
+ma para resistores en paralelo? a) voltaje; b) corriente; 
+c) potencia; d) energía.
+3. OM Dos resistores (A y B) están conectados en serie a una
+batería de 12 V . El resistor A es de 9 V . ¿Cuál resistor tie-
+ne la menor resistencia? a) A, b) B, c) ambos tienen la mis-
+ma resistencia, d) no es posible determinarlo a partir de
+los datos.
+4. OM Dos resistores (A y B) están conectados en paralelo a
+una batería de 12 V . El resistor A tiene 2.0 A y la corriente
+total en la batería es de 3.0 A. ¿Cuál resistor tiene la ma-
+yor resistencia? a) A, b) B, c) ambos tienen la misma resis-
+tencia, d) no es posible determinarlo a partir de los datos.
+5. OM Dos resistores (uno con una resistencia de 2.0 /H9024y el
+otro con una resistencia de 6.0 /H9024) están conectados en pa-
+ralelo a una batería. ¿Cuál de los dos produce el mayor
+calor de joule? a) el de 2.0 /H9024, b) el de 6.0 /H9024, c) ambos pro-
+ducen el mismo calor de joule, d) no es posible determi-
+narlo a partir de los datos.
+6. OM Dos bombillas de luz (la bombilla A es de 100 W a
+120 V, y la B es de 60 W a 120 V) están conectadas en se-
+rie a un tomacorriente a 120 V . ¿Cuál de ellas produce la
+mayor luz? a) A, b) B, c) ambas producen la misma, d) no
+es posible determinarlo a partir de los datos.
+7. PC ¿Las caídas de voltaje a través de resistores en serie
+generalmente son iguales? Si no es así, ¿en cuál o cuáles
+circunstancias podrían ser iguales?
+8. PC ¿Las corrientes en resistores en paralelo generalmen-
+te son iguales? Si no es así, ¿en cuál o cuáles circunstan-
+cias podrían ser iguales?
+9. PC Si un resistor grande y uno pequeño están conecta-
+dos en serie, ¿la resistencia efectiva estará más cercana en
+valor a la resistencia grande o a la pequeña? ¿Y si están
+conectados en paralelo?
+10. PC Los fabricantes de las bombillas de luz marcan en éstas
+la salida de potencia. Por ejemplo, se supone que una bom-
+billa de 60 W se conectará a una fuente de 120 V . Suponga
+que usted tiene dos bombillas: una de 60 W va seguida por
+otra de 40 W en serie con una fuente de 120 V . ¿Cuál de
+ellas brilla más? ¿Por qué? ¿Qué sucede si usted invierte el
+orden de las bombillas? ¿Alguna de ellas está a su clasifica-
+ción máxima de potencia? Explique su respuesta.
+11. PC Tres resistores idénticos están conectados a una bate-
+ría. Dos están conectados en paralelo, y esta combinación
+va seguida en serie por el tercer resistor. ¿Cuál resistor (o
+resistores) tiene a) la mayor corriente, b) el mayor voltaje
+y c) la mayor salida de potencia?
+12. PC Tres resistores tienen valores de 5, 2 y 1 /H9024. El primero
+va seguido en serie por los dos últimos, que están conec-
+tados en paralelo. Cuando este arreglo se conecta 
+a una batería, ¿cuál resistor (o resistores) tiene a) la ma-
+yor corriente, b) el mayor voltaje y c) la mayor salida de
+potencia?
+13.
+● Se van a conectar tres resistores que tienen valores 
+de 10, 20 y 30 /H9024. a) ¿Cómo deben conectarse para obte-
+ner la resistencia equivalente máxima, y cuál es este va-
+lor máximo? b) ¿Cómo deben conectarse para obtener 
+la resistencia equivalente mínima, y cuál es este valor
+mínimo?
+14.
+● Dos resistores ( R) idénticos están conectados en se-
+rie y luego en paralelo a un resistor de 20 /H9024. Si la re-
+sistencia equivalente total es de 10 /H9024, ¿cuál es el valor
+de R?
+15. ● Dos resistores ( R) idénticos están conectados en 
+paralelo y luego en serie a un resistor de 40 /H9024. Si la 
+resistencia equivalente total es de 55 /H9024, ¿cuál es el va-
+lor de R?
+16. EI ● a) ¿En cuántas formas diferentes pueden conectar-
+se tres resistores de 4.0 /H9024? 1) Tres, 2) cinco o 3) siete. 
+b) Dibuje las diferentes formas que usted encontró en 
+el inciso a y determine la resistencia equivalente de 
+cada una.
+17. ● Tres resistores con valores de 5.0, 10 y 15 /H9024, respectiva-
+mente, están conectados en serie en un circuito con una
+batería de 9.0 V . a) ¿Cuál es la resistencia equivalente to-
+tal? b) ¿Cuál es la corriente en cada resistor? c) ¿A qué ta-
+sa se entrega energía al resistor de 15 /H9024?
+18. ● Encuentre las resistencias equivalentes para todas las
+posibles combinaciones de dos o más de los tres resisto-
+res en el ejercicio 17.
+19. ● Tres resistores con valores de 1.0, 2.0 y 4.0 /H9024, respecti-
+vamente, están conectados en paralelo en un circuito con
+una batería de 6.0 V . ¿Cuáles son a) la resistencia equiva-
+lente total, b) el voltaje a través de cada resistor y c) la po-
+tencia entregada al resistor de 4.0 /H9024?
+20. EI ●● a) Si usted tiene un número infinito de resistores
+de 1.0 /H9024, ¿cuál es el número mínimo de resistores reque-
+ridos para tener una resistencia equivalente de 1.5 /H9024? 
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son 
+ejercicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pares
+de ejercicios, que se identifican con númer
+os subrayados, pretenden ayudar al lector a resolver problemas y apren-
+der. El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consultarse si se
+necesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al final del li-
+bro.
+
+Ejercicios 617
+1) Dos, 2) tres o 3) cuatro b) Describa o muestre con un
+diagrama cómo deben conectarse los resistores.
+21. EI ●● Un trozo de alambre con resistencia R se corta en
+dos segmentos iguales. Luego, los segmentos se trenzan
+entre sí para formar un conductor con la mitad de la lon-
+gitud del tramo original. a) La resistencia del conductor
+acortado es 1) R/4, 2) R/2 o 3) R. b) Si la resistencia del
+alambre original es de 27 /H9262/H9024y el alambre se corta en tres
+segmentos iguales, ¿cuál es la resistencia del conductor
+acortado?
+22. EI
+●● Usted tiene cuatro resistores de 5.00 /H9024. a) ¿Es po-
+sible conectar todos los resistores para producir una 
+resistencia efectiva total de 3.75 /H9024? b) Describa cómo 
+los conectaría.
+23.
+●● Tres resistores con valores de 2.0, 4.0 y 6.0 /H9024, respecti-
+vamente, están conectados en serie en un circui-
+to con una batería de 12 V . a) ¿Cuánta corriente entrega 
+la batería al circuito? b) ¿Cuál es la corriente en cada 
+resistor? c) ¿Cuánta potencia se entrega a cada resistor?
+d) ¿Cómo se compara esta potencia con la potencia en-
+tregada a la resistencia equivalente total?
+24.
+●● Suponga que los resistores en el ejercicio 23 están co-
+nectados en paralelo. a) ¿Cuánta corriente entrega la ba-
+tería al circuito? b) ¿Cuál es la corriente en cada resistor?
+c) ¿Cuánta potencia se entrega a cada resistor? d) ¿Cómo
+se compara esta potencia con la potencia entregada a la
+resistencia equivalente total?
+25. ●● Dos resistores de 8.0 /H9024están conectados en paralelo,
+al igual que dos resistores de 4.0 /H9024. Esas dos combinacio-
+nes se conectan entonces en serie en un circuito con una
+batería de 12 V . ¿Cuál es la corriente en cada resistor y el
+voltaje a través de cada uno?
+26.
+●● ¿Cuál es la resistencia equivalente de los resistores 
+en la ▼figura 18.25?
+28. ●● ¿Cuál es la resistencia equivalente del arreglo de re-
+sistores mostrado en la ▼figura 18.27?
+R3 = 2.0 Ω
+R4 = 2.0 Ω
+R1 = 2.0 Ω
+R2 = 2.0 Ω
+▲ FIGURA 18.25 Combinación serie-paralelo Véanse 
+los ejercicios 26 y 34.
+R2 = 4.0 Ω
+R3 = 6.0 Ω
+R4 = 
+10 Ω
+R1 = 6.0 Ω
+AB
+▲ FIGURA 18.26 Combinación serie-paralelo Véanse los
+ejercicios 27 y 36.
+27. ●● ¿Cuál es la resistencia equivalente entre los puntos A
+y B en la ▼figura 18.26?
+R2 = 20 Ω
+R4 = 5.0 Ω
+R3 = 5.0 ΩR1 =
+10 Ω
+▲ FIGURA 18.27 Combinación serie-paralelo Véase 
+el ejercicio 28.
+29. ●● Varias bombillas de luz de 60 W están conectadas en
+paralelo a una fuente de 120 V . La última bombilla funde
+un fusible de 15 A en el circuito. a) Dibuje un diagrama
+del circuito para mostrar el fusible en relación con las
+bombillas. b) ¿Cuántas bombillas hay en el circuito (in-
+cluyendo la última)?
+30.
+●● Encuentre la corriente y el voltaje del resistor de 10 /H9024
+mostrado en la ▼figura 18.28.
+R1 = 10 Ω
+R2 = 2.0 Ω
+R3 = 5.0 Ω
+V = 10 V
+▲ FIGURA 18.28 Corriente y caída de voltaje en un resistor
+Véanse los ejercicios 30 y 52.
+31. ●● Para el circuito de la ▼figura 18.29, encuentre a) la co-
+rriente en cada resistor, b) el voltaje a través de cada resis-
+tor y c) la potencia total entregada.
+R3 = 20 Ω
+R1 = 20 Ω
+R2 = 20 Ω
+V = 20 V
+▲ FIGURA 18.29 Reducción del circuito Véanse 
+los ejercicios 31 y 53.
+32. ●● Un circuito a 120 V tiene un disyuntor clasificado para
+desconectarse (crear un circuito abierto) a 15 A. ¿Cuántos
+resistores de 300 /H9024pueden conectarse en paralelo sin des-
+conectar el disyuntor?
+33.
+●● En su dormitorio, usted tiene dos bombillas de 
+100 W, un televisor a colores de 150 W, un refrigerador 
+de 300 W, un secador de pelo a 900 W y una computadora de
+200 W (incluyendo el monitor). Si se tiene un disyuntor 
+de 15 A en la línea de 120 V , ¿el disyuntor abrirá el circuito?
+34.
+●● Suponga que el arreglo de resistores en la figura 18.25
+está conectado a una batería de 12 V . ¿Cuál será a) la co-
+rriente en cada resistor, b) la caída de voltaje a través de
+cada resistor y c) la potencia total entregada?
+
+618 CAPÍTULO 18 Circuitos eléctricos básicos
+41. ●●● ¿Cuál es la resistencia equivalente del arreglo mos-
+trado en la ▼figura 18.33?
+35. ●● Para preparar té caliente, usted usa un calentador de
+500 W conectado a una línea de 120 V para calentar 
+0.20 kg de agua de 20 a 80°C. Suponiendo que no hay
+pérdida de calor aparte del que se entrega al agua, ¿cuán-
+to dura este proceso?
+36.
+●●● Las terminales de una batería de 6.0 V están conec-
+tadas a los puntos A y B en la figura 18.26. a) ¿Cuánta co-
+rriente hay en cada resistor? b) ¿Cuánta potencia se
+entrega a cada uno? c) Compare la suma de las potencias
+individuales con la potencia entregada a la resistencia
+equivalente del circuito.
+37.
+●●● Bombillas con las potencias indicadas (en watts) en
+la ▼figura 18.30 están conectadas en un circuito como se
+muestra. a) ¿Qué corriente entrega la fuente de voltaje al
+circuito? b) Encuentre la potencia entregada a cada bom-
+billa. (Considere que las resistencias de las bombillas son
+las mismas que cuando operan a su voltaje normal.)
+38.
+●●● Dos resistores R1 y R2 están en serie con una batería
+de 7.0 V . Si R1 tiene una resistencia de 2.0 /H9024y R2 recibe
+energía a razón de 6.0 /H9024, ¿cuál es la corriente (o corrientes)
+del circuito? (Es probable que haya más de una respuesta.)
+39. ●●● Para el circuito en la ▼figura 18.31, encuentre a) la co-
+rriente en cada resistor y b) el voltaje a través de cada uno.
+40. ●●● ¿Cuál es la potencia total entregada al circuito que
+se ilustra en la ▼figura 18.32?
+R1 = 10 Ω
+V = 10 V
+R2 = 5.0 Ω
+R3 = 10 Ω
+R5 = 20 Ω R4 = 5.0 Ω
+▲ FIGURA 18.31 Resistores y corriente Véase el ejercicio 39.
+60 W
+15 W 40 W
+120 V
+100 W
+▲ FIGURA 18.30 ¿Qué sucede? Véase el ejercicio 37.
+42. ●●● El circuito de la ▼figura 18.34, llamado puente de
+Wheatstone, en honor de Sir Charles Wheatstone (1802-
+1875), sirve para medir resistencia sin las correcciones a
+veces necesarias cuando se emplean mediciones de am-
+perímetros y voltímetros. (Véase, por ejemplo, los ejerci-
+cios 88 y 89.) Las resistencias R
+1, R2 y Rs son conocidas, y
+Rx es la resistencia desconocida. Rs es variable y se ajusta
+hasta que el circuito puente está equilibrado, esto es,
+cuando el galvanómetro (G) arroja una lectura de cero
+(ninguna corriente). Demuestre que cuando el puente es-
+tá equilibrado, R
+x, está dada por la siguiente relación:
+Rx = ¢ R2
+R1
+≤Rs .
+18.2 Circuitos con múltiples mallas 
+y reglas de Kirchhoff
+43. OM Se tiene un circuito de múltiples mallas con una ba-
+tería. Después de abandonar la batería, la corriente en-
+cuentra una unión entre dos alambres. Uno conduce 1.5 A
+y el otro 1.0 A. ¿Cuál es la corriente en la batería? a) 2.5 A,
+b) 1.5 A, c) 1.0 A, d) 5.0 A, e) no es posible determinarlo a
+partir de los datos?
+44. OM Con nuestra convención de signos, si un resistor se
+recorre en la dirección de la corriente, ¿qué puede decir-
+se acerca del signo del cambio en el potencial eléctrico (el
+voltaje)? a) Es negativo, b) es positivo, c) es cero o d) no es
+posible determinarlo a partir de los datos.
+45. OM Con nuestra convención de signos, si una batería se
+recorre en la dirección real de la corriente que hay en ella,
+¿qué puede decirse acerca del signo del cambio en el po-
+tencial eléctrico (el voltaje terminal de la batería)? a) Es
+negativo, b) es positivo, c) es cero o d) no es posible deter-
+minarlo a partir de los datos.
+46. OM Usted tiene un circuito de malla múltiple con una
+batería que tiene un voltaje terminal de 12 V . Después de
+10 Ω 2.0 Ω
+4.0 Ω6.0 Ω
+12 Ω
+V = 24 V
+5.0 Ω10 Ω
+▲ FIGURA 18.32 Disipación de potenciaVéase el ejercicio 40.
+10 Ω
+ 8.0 Ω6.0 Ω
+3.0 Ω
+2.0 Ω  5.0 Ω
+ 4.0 Ω
+ 4.0 
+Ω
+▲ FIGURA 18.33 Resistencia equivalenteVéase el ejercicio 41.
+G
+Rs b
+R1
+R2
+Rx
+c
+V
+I2
+I1
+I1
+I2
+a
+II
+d
+▲ FIGURA 18.34 Puente de Wheatstone Véase el ejercicio 42.
+
+Ejercicios 619
+abandonar la terminal positiva de la batería, un alambre
+corto lo lleva a una unión donde la corriente se divide en
+tres alambres. Desde ese punto hasta que usted regresa a
+la terminal negativa de la batería, ¿qué puede decir acer-
+ca de la suma de voltajes en cada alambre? a) Da un total
+de /H1100112 V , b) da un total de /H1100212 V , c) su magnitud es me-
+nor de 12 V o d) su magnitud es mayor de 12 V .
+47. PC ¿La corriente en una batería (en un circuito completo)
+siempre debe viajar de su terminal negativa a la positiva?
+Explique su respuesta. Si no es así, dé un ejemplo.
+48. PC Utilice el teorema de la unión de Kirchhoff para 
+explicar por qué la resistencia equivalente total de un
+circuito se reduce al conectar un segundo resistor en 
+paralelo con otro.
+49. PC Utilice el teorema de la malla de Kirchhoff para expli-
+car por qué una bombilla de 60 W produce más luz que
+una de 100 W cuando están conectadas en serie a una
+fuente de 120 V . [Sugerencia: recuerde que las clasificacio-
+nes de potencia son significativas sólo a 120 V .]
+50.
+● Recorra la malla 3 de la figura 18.10 en sentido contra-
+rio al que se indica y demuestre que la ecuación resultan-
+te es la misma que si hubiera seguido el sentido de las
+flechas.
+51.
+● Para el circuito mostrado en la figura 18.10, invierta las
+direcciones de las mallas 1 y 2 y demuestre que se obtie-
+nen ecuaciones equivalentes a las del ejemplo 18.5.
+52.
+●● Use el teorema de las mallas de Kirchhoff para encon-
+trar la corriente en cada resistor en la figura 18.28.
+53. ●● Aplique las reglas de Kirchhoff al circuito en la figura
+18.29 para encontrar la corriente en cada resistor.
+54. EI ●● Dos baterías, con voltajes terminales de 10 y 4 V ,
+respectivamente, están conectadas con sus terminales
+positivas juntas. Un resistor de 12 /H9024está alambrado en-
+tre sus terminales negativas. a) La corriente en el resistor
+es 1) 0 A, 2) entre 0 A y 1.0 A o 3) mayor que 1.0 A. ¿Por
+qué? b) Use el teorema de las mallas de Kirchhoff para
+encontrar la corriente en el circuito y la potencia entre-
+gada al resistor. c) Compare este resultado con la salida
+de potencia de cada batería.
+55.
+●● Usando las reglas de Kirchhoff, encuentre la corriente
+en cada resistor en la ▼figura 18.35.
+R2 = 20 Ω
+R1 = 10 Ω
+V1 = 20 V V2 = 10 V
+▲ FIGURA 18.35 Circuito de malla simple Véase 
+el ejercicio 55.
+56. ●● Aplique las reglas de Kirchhoff al circuito en la Nfigu-
+ra 18.36 y encuentre a) la corriente en cada resistor y b) la
+tasa a la que la energía se entrega al resistor de 8.0 /H9024.
+R4 = 8.0 Ω
+R2 = 6.0 Ω
+R1 = 4.0 Ω
+R5 = 2.0 Ω
+V1 = 12 V R3 = 2.0 Ω
+V2 = 6.0 V
+▲ FIGURA 18.36 Malla dentro de una malla Véase 
+el ejercicio 56.
+58. ●●● Encuentre las corrientes en las ramas del circuito en
+la ▼figura 18.38.
+57. ●●● Encuentre la corriente en cada resistor en el circuito
+que se ilustra en la ▼figura 18.37.
+R2 = 4.0 Ω
+R3 = 4.0 Ω
+R1 = 4.0 Ω
+V1 = 10 V
+V2 = 5.0 V
+V3 = 5.0 V
+▲ FIGURA 18.37 Circuito de doble malla Véase 
+el ejercicio 57.
+R1 = 
+5.0 Ω
+V1 = 20 V
+R5 = 2.0 Ω
+R4 = 2.0 Ω
+R6 = 2.0 Ω
+V2 = 10 V
+R3 = 
+6.0 Ω
+R2 =
+4.0 Ω
+▲ FIGURA 18.38 ¿Cuántas mallas? Véase el ejercicio 58.
+59. ●●● Para el circuito de mallas múltiples de la ▼figura
+18.39, ¿cuál es la corriente en cada rama?
+R1 = 2.0 Ω R2 = 4.0 Ω
+R3 = 6.0 Ω
+R6 = 12 Ω
+V1 = 6.0 V
+V2 = 12 V
+V3 = 6.0 V
+R5 = 10 Ω
+R4 = 8.0 Ω
+▲ FIGURA 18.39 Circuito de tres mallas Véase 
+el ejercicio 59.
+18.3 Circuitos RC
+60. OM Cuando un condensador se descarga a través de 
+un resistor, el voltaje a través del condensador es máxi-
+mo a) al principio del proceso, b) cerca de la mitad del
+proceso, c) al final del proceso o d) después de una cons-
+tante de tiempo.
+
+620 CAPÍTULO 18 Circuitos eléctricos básicos
+61. OM Cuando un condensador se descarga a través de un
+resistor, la corriente en el circuito es mínima a) al princi-
+pio del proceso, b) cerca de la mitad del proceso, c) al final
+del proceso o d) después de una constante de tiempo.
+62. OM Un condensador cargado se descarga a través de un
+resistor (que llamaremos #1). Si el valor del resistor en-
+tonces se duplica y se permite que el condensador idén-
+tico se descargue de nuevo (al que llamaremos #2),
+¿cómo se comparan las constantes de tiempo? a) /H9270
+1 /H110052/H92702,
+b) /H92701 /H11005/H92702, c) /H92701 /H110051–2 /H92702, d) /H92702 /H110054/H92701.
+63. OM Un condensador se descarga a través de un resistor
+(que llamaremos #1). El condensador entonces se recar-
+ga al doble de la carga inicial en el #1, y la descarga ocu-
+rre a través del mismo resistor (al que llamaremos 
+#2). ¿Cómo se comparan las constantes de tiempo? a) /H9270
+1
+/H110052/H92702, b) /H92701 /H11005/H92702, c) /H92701 /H110051–2 /H92702, d) no es posible determinar-
+lo a partir de los datos.
+64. PC Otra forma de describir el tiempo de descarga de un
+circuito RC es utilizar un intervalo de tiempo llamado vida
+media, que se define como el tiempo para que el condensa-
+dor pierda la mitad de su carga inicial. ¿La constante de
+tiempo es mayor o menor que la vida media? Explique 
+su razonamiento.
+65. PC ¿El hecho de cargar un condensador en un circuito
+RC al 25% de su valor máximo tardará más o menos que
+una constante de tiempo? Explique su respuesta.
+66. PC Explique por qué la corriente en un circuito RC en
+proceso de carga disminuye conforme el condensador se
+está cargando.
+67.
+● En la figura 18.11b, el interruptor se cierra en t /H110050, y 
+el condensador comienza a cargarse. ¿Cuál es el voltaje 
+a través del resistor y a través del condensador, expresados
+como fracciones de V
+o (con dos cifras significativas), a) jus-
+to después de que se cierra el interruptor, b) después de que
+han transcurrido dos constantes de tiempo y c) después 
+de que han transcurrido muchas constantes de tiempo?
+68. ● Un condensador en una malla simple de un circuito
+RC se carga al 63% de su voltaje final en 1.5 s. Encuentre
+a) la constante del tiempo para el circuito y b) el porcen-
+taje del voltaje final del circuito después de 3.5 s.
+69. EI
+● En una lámpara con luz neón destellante, se desea
+tener una cierta constante de tiempo. a) Para incremen-
+tar esta constante de tiempo se debe 1) incrementar la
+capacitancia, 2) disminuir la capacitancia o 3) no usar
+un condensador. ¿Por qué? b) Si se desea una constante
+de tiempo de 2.0 s y usted tiene un condensador de 1.0
+/H9262F, ¿qué resistencia debería usar en el circuito?
+70.
+●● ¿Cuántas constantes de tiempo tardará un condensa-
+dor inicialmente cargado en descargarse a la mitad de su
+voltaje inicial?
+71.
+●● Un condensador de 1.00 μF, inicialmente cargado a 
+12 V , está conectado en serie con un resistor. a) ¿Qué re-
+sistencia es necesaria para que el condensador tenga 
+sólo el 37% de su carga inicial 1.50 s después de iniciar la
+descarga? b) ¿Cuál es el voltaje a través del condensador
+en t /H110053/H9270si el condensador se carga con la misma batería
+a través del mismo resistor?
+72.
+●● Un circuito RC con C /H1100540 /H9262F y R /H110056.0 /H9024tiene una
+fuente de 24 V . Con el condensador inicialmente des-
+cargado, se cierra un interruptor abierto en el circuito. 
+a) ¿Cuál es el voltaje a través del resistor inmediatamen-
+te después? b) ¿Cuál es el voltaje a través del condensa-
+dor en ese tiempo? c) ¿Cuál es la corriente en el resistor
+en ese tiempo?
+73.
+●● a) Para el circuito en el ejercicio 72, después que el in-
+terruptor ha estado cerrado t /H110054/H9270, ¿cuál es la carga sobre
+el condensador? b) Después que ha transcurrido un largo
+tiempo, ¿cuáles son los voltajes a través del condensador
+y del resistor?
+74.
+●●● Un circuito RC con un resistor de 5.0 M /H9024y un 
+condensador de 0.40 /H9262F está conectado a una fuente 
+de 12 V . Si el condensador está inicialmente descarga-
+do, ¿cuál es el cambio en voltaje a través de éste entre 
+t /H110052/H9270y t /H110054/H9270?
+75.
+●●● Un resistor de 3.0 M/H9024está conectado en serie con un
+condensador de 0.28 /H9262F. Este arreglo se conecta enton-
+ces a través de cuatro baterías de 1.5 V (también en serie).
+a) ¿Cuál es la máxima corriente en el circuito y cuándo
+ocurre esto? b) ¿Qué porcentaje de la máxima corriente
+está en el circuito después de 4.0 s? c) ¿Cuál es la máxima
+carga en el condensador y cuándo ocurre esto? d) ¿Qué
+porcentaje de la carga máxima está en el condensador
+después de 4.0 s?
+18.4 Amperímetros y voltímetros
+76. OM Para medir de manera precisa el voltaje a través de
+un resistor de 1 k/H9024, el voltímetro debería tener una resis-
+tencia que es a) mucho mayor que 1 k/H9024, b) mucho menor
+que 1 k/H9024, c) aproximadamente igual que 1k/H9024, d) cero.
+77. OM Para medir de manera precisa la corriente en un re-
+sistor de 1 k/H9024, el amperímetro debería tener una resisten-
+cia que es a) mucho mayor que 1 k/H9024, b) mucho menor que
+1 k/H9024, c) aproximadamente igual que 1k /H9024, d) tan grande
+como sea posible, de hecho, infinita si es posible.
+78. OM Para medir correctamente el voltaje a través de un
+elemento de circuito, un voltímetro debe conectarse a) en
+serie con el elemento, b) en paralelo con el elemento, c) en-
+tre el lado de alto potencial del elemento y tierra, d) nin-
+guna de las opciones anteriores es correcta.
+79. PC a) ¿Qué pasaría si un amperímetro se conectara en pa-
+ralelo con un elemento de circuito portador de corriente?
+b) ¿Qué pasaría si un voltímetro se conectara en serie con
+un elemento de circuito portador de corriente?
+80. PC Explique claramente, utilizando las leyes de Kirchhoff,
+por qué la resistencia de un voltímetro ideal es infinita.
+81. PC Si se diseña adecuadamente, ¿un buen amperímetro
+debe tener una resistencia muy pequeña? ¿Por qué? Ex-
+plíquelo claramente empleando las leyes de Kirchhoff.
+82. EI ● Un galvanómetro con una sensibilidad a escala plena
+de 2000 /H9262A tiene una resistencia de bobina de 100 /H9024. Va a
+utilizarse en un amperímetro con una lectura a plena es-
+cala de 30 A. a) ¿Debería usarse 1) un resistor en deriva-
+ción, 2) un resistor cero o 3) un resistor multiplicador?
+¿Por qué? b) ¿Cuál es la resistencia necesaria?
+83. EI
+● El galvanómetro en el ejercicio 82 va a utilizarse 
+en un voltímetro con una lectura a escala plena de 15 V .
+a) ¿Debería usarse 1) un resistor en derivación, 2) un 
+resistor cero o 3) un resistor multiplicador? ¿Por qué? 
+b) ¿Cuál es la resistencia requerida?
+84.
+● Un galvanómetro con una sensibilidad a escala plena de
+600 /H9262A y una resistencia en su bobina de 50 /H9024va a usarse
+
+Ejercicios 621
+para construir un amperímetro que debe leer 5.0 A escala
+plena. ¿Cuál es la resistencia en derivación requerida?
+85. ●● Un galvanómetro tiene una resistencia de 20 /H9024en su
+bobina. Una corriente de 200 /H9262A desvía la aguja 10 di-
+visiones a escala plena. ¿Qué resistencia es necesaria 
+para convertir el galvanómetro a un voltímetro de 10 V 
+a escala plena?
+86.
+●● Un amperímetro tiene una resistencia de 1.0 m /H9024. 
+Encuentre la corriente en el amperímetro cuando está
+adecuadamente conectado a un resistor de 10 /H9024y una
+fuente de 6.0 V . (Exprese su respuesta con cinco cifras
+significativas para mostrar cómo difiere de 0.60 A.)
+87.
+●● Un voltímetro tiene una resistencia de 30 kW. ¿Cuál
+es la corriente en el medidor cuando está adecuadamen-
+te conectado a través de un resistor de 10 /H9024que está co-
+nectado a una fuente de 6.0 V?
+88.
+EI ●●● Un amperímetro y un voltímetro pueden medir el
+valor de un resistor. Suponga que el amperímetro está co-
+nectado en serie con el resistor y que el voltímetro está 
+colocado sólo a través del resistor. a) Para una medición
+exacta, la resistencia interna del voltímetro debería ser 1)
+cero, 2) igual a la resistencia por medirse o 3) infinita.
+¿Por qué? b) Explique por qué la resistencia correcta no
+está dada por c) Demuestre que la resistencia 
+correcta en realidad es mayor que el resultado en el in-
+ciso b y que está dada por donde V es 
+el voltaje medido por el voltímetro, I es la corriente me-
+dida por el amperímetro y R
+V es la resistencia del vol-
+tímetro. d) Demuestre que el resultado en el inciso c se 
+reduce a para un voltímetro ideal.
+89. EI ●●● Un amperímetro y un voltímetro pueden medir el
+valor de un resistor. Suponga que el amperímetro está co-
+nectado en serie con el resistor y que el voltímetro está 
+colocado a través del amperímetro y del resistor. a) Para
+una medición exacta, la resistencia interna del ampe-
+rímetro debería ser 1) cero, 2) igual a la resistencia por
+medirse o 3) infinita. ¿Por qué? b) Explique por qué la
+resistencia correcta no está dada por c) Demuestre
+que la resistencia correcta en realidad es menor que el re-
+sultado en el inciso b y que está dada por R /H11005(V/I) /H11002R
+A
+donde V es el voltaje medido por el voltímetro, I es la
+corriente medida por el amperímetro y RA es la resisten-
+cia del amperímetro. d) Demuestre que el resultado en el
+inciso c se reduce a para un amperímetro ideal.
+18.5 Circuitos domésticos y seguridad eléctrica
+90. OM El cable a tierra en una instalación doméstica a) es un
+cable que conduce corriente, b) está a un voltaje de 240 V
+respecto a uno de los cables “calientes”, c) no lleva co-
+rriente o d) ninguna de las opciones anteriores es correcta.
+91. OM Un cable conectado a tierra a) es la base para la clavi-
+ja polarizada, b) es necesario para un disyuntor, c) normal-
+mente no conduce corriente o d) ninguna de las opciones
+anteriores es correcta.
+92. PC En términos de seguridad eléctrica, explique qué está
+mal en el circuito en la Nfigura 18.40 y por qué.
+R = V
+I
+R = V
+I .
+R = V
+I
+R = V
+I -1V>RV2
+R = V
+I .
+120 V
+S
+Motor
+▲ FIGURA 18.40 ¿Un problema de seguridad? Véase 
+el ejercicio 92.
+93. PC La severidad de las lesiones por electrocución depen-
+den de la magnitud de la corriente y de su trayectoria.
+Por otra parte, es común ver letreros preventivos con la
+leyenda “Peligro: alto voltaje” (
+▼figura 18.41). ¿Esos le-
+treros no deberían referirse a una “elevada corriente”?
+Explique su respuesta.
+▲ FIGURA 18.41 Peligro, alto voltaje ¿No debería decir
+más bien “elevada corriente” en lugar de “alto voltaje”? 
+Véase el ejercicio 93.
+94. PC Explique por qué es seguro que los pájaros se posen
+con ambas patas sobre el mismo cable de alto voltaje, aun
+cuando el aislante esté totalmente desgastado.
+95. PC Después de una colisión con un poste de transmisión
+de energía eléctrica, usted queda atrapado en su automó-
+vil, con una línea de alto voltaje en contacto con el capó del
+vehículo. ¿Es más seguro salir del automóvil con un pie a
+la vez o saltar con ambos pies? Explique su razonamiento.
+96. PC La mayoría de los códigos eléctricos requieren que la
+cubierta metálica de un secador eléctrico de ropa tenga un
+cable que vaya de la cubierta a una llave cercana (o cual-
+quier pieza metálica de fontanería). Explique por qué.
+Ejercicios adicionales
+97. Encuentre la corriente en cada resistor en el circuito de la
+▼figura 18.42.
+R1 = 2.0 Ω
+R2 = 4.0 Ω
+R3 = 8.0 Ω
+V2 = 6.0 V
+V3 = 6.0 V
+V1 = 6.0 V
+▲ FIGURA 18.42 Reglas de Kirchhoff Véase el ejercicio 97.
+
+622 CAPÍTULO 18 Circuitos eléctricos básicos
+98. Cuatro resistores están conectados a una fuente de 90 V
+como se muestra en la ▼figura 18.43. a) ¿Cuál resistor 
+(o resistores) recibe la mayor potencia, y cuánto es eso?
+b) ¿Cuál es la potencia total entregada al circuito por la
+fuente de potencia?
+99. Cuatro resistores están conectados en un circuito con 
+una fuente de 110 V como se ilustra en la 
+▼figura 18.44.
+a) ¿Cuál es la corriente en cada resistor? b) ¿Cuánta po-
+tencia se entrega a cada resistor?
+101. Un resistor de 4.0 /H9024y otro de 6.0 /H9024están conectados en
+serie. Un tercer resistor está conectado en paralelo con el
+de 6.0 /H9024. Toda la configuración da una resistencia equiva-
+lente total de 7.0 /H9024. ¿Cuál es el valor del tercer resistor?
+102. Un galvanómetro con una resistencia interna de 50 /H9024
+y una sensibilidad a escala plena de 200 /H9262A se emplea
+para construir un voltímetro de escala múltiple. ¿Qué
+valores de resistores multiplicadores permiten tres lec-
+turas de voltaje a escala plena de 20 V , 100 V y 200 V?
+(Véase la figura 18.18b.)
+103. Un galvanómetro con una resistencia interna de 100 /H9024
+y una sensibilidad a escala plena de 100 /H9262A se utiliza pa-
+ra construir un amperímetro con varias graduaciones.
+¿Qué valores de resistores en derivación permiten tres
+lecturas de corriente a escala plena de 1.0 A, 5.0 A y 10 A?
+(Véase la figura 18.18a.)
+R3 = 5.0 Ω
+R2 =
+10 Ω
+R4 =
+10 Ω
+R1 =
+10 ΩV= 90 V
+▲ FIGURA 18.43 ¿Cuánta potencia se entrega? Véase 
+el ejercicio 98. 104. La ▲figura 18.46 muestra el funcionamiento de un poten-
+ciómetro, un dispositivo muy exacto para determinar la
+fem de suministros de potencia. Consta de tres baterías,
+un amperímetro y varios resistores, incluyendo un alam-
+bre largo uniforme cuya longitud puede fijarse para dar
+una fracción específica de su resistencia total. /H5105
+o es la
+fem de una batería en funcionamiento, /H51051 designa una
+batería con una fem conocida de forma precisa, y /H51052 es
+una batería cuya fem se desconoce. El interruptor S es ac-
+cionado hacia la batería 1, y el punto T (que se va a “fi-
+jar”) se mueve a lo largo del resistor hasta que el ampe-
+rímetro lee cero. La resistencia de este arreglo es R
+1. Este
+procedimiento se repite con el interruptor accionado ha-
+cia la batería 2, y el punto T se mueve a T’ hasta que el
+amperímetro de nuevo lee cero. La resistencia de este
+arreglo es R
+2. Demuestre que la fem desconocida se de-
+termina mediante la siguiente relación: 
+105. Si una combinación de tres resistores de 30 /H9024recibe energía
+a razón de 3.2 W cuando está conectada a una batería de 
+12 V , ¿cómo están conectados en el circuito los resistores?
+106. Una batería tiene tres celdas, cada una con una resistencia
+interna de 0.020 /H9024y una fem de 1.50 V . La batería está co-
+nectada en paralelo con un resistor de 10.0 /H9024. a) Determi-
+ne el voltaje a través del resistor. b) ¿Cuánta corriente hay
+en cada celda? (Las celdas en una batería están en serie.)
+107. Un condensador de 10.0 /H9262F en un desfibrilador cardia-
+co se carga por completo mediante un suministro de po-
+tencia de 10 000 V . Cada placa del condensador está 
+conectada al pecho de un paciente mediante cables y
+dos electrodos, que se colocan uno a cada lado del cora-
+zón. La energía almacenada en el condensador se entre-
+ga a través de un circuito RC, donde R es la resistencia
+del cuerpo entre los dos electrodos. Los datos indican
+que el voltímetro tarda 75.1 ms para caer a 20.0 V . a) En-
+cuentre la constante de tiempo. b) Determine la resis-
+tencia, R. c) ¿Cuánto tiempo tarda el condensador en
+perder el 90% de su energía almacenada?
+108. Durante una operación quirúrgica, uno de los instru-
+mentos eléctricos tiene su cubierta metálica en corto con
+el cable “caliente” de 120 V que lo alimenta. El médico
+está aislado de tierra por las suelas de sus zapatos, que
+son de goma, e inadvertidamente toca la cubierta del ins-
+trumento con su codo, al tiempo que la mano opuesta
+hace contacto con el pecho del paciente. Este último, que
+yace sobre una mesa metálica, está bien conectado a tie-
+rra. Si la resistencia de la cabeza a tierra del paciente es de
+2200 /H9024, ¿cuál es la resistencia mínima para el médico 
+de manera que ambos sientan, a lo sumo, un choque “de
+e
+2 = R2
+R1
+ e1 .
+R1 = 100 Ω
+R4 = 25 ΩV = 110 V
+R2 =
+25 Ω
+R3 =
+50 Ω
+▲ FIGURA 18.44 Pérdidas de calor de joule Véase 
+el ejercicio 99.
+RRR
+RRR
+B
+A
+R RR
+▲ FIGURA 18.45 Una escalera de resistencias Véase 
+el ejercicio 100.
+A
+R2
+T
+S
+R1
+T'
+/H5105o
+/H51051 /H51052
+> FIGURA 18.46
+El potenciómetro
+Véase el ejercicio
+104.
+100. Nueve resistores, cada uno de valor R, están conectados
+en forma escalonada como se observa en la 
+▼figura 18.45.
+a) ¿Cuál es la resistencia efectiva de esta red entre los
+puntos A y B? b) Si R /H1100510 /H9024y una batería de 12.0 V está
+conectada del punto A al punto B, ¿cuánta corriente hay
+en cada resistor?
+Los siguientes problemas de física Physlet se pueden usar con este capítulo.
+30.1, 30.2, 30.3, 30.4, 30.6, 30.7, 30.8, 30.11, 30.12
+
+• La unidad de corriente del SI, el ampere o el
+coulomb por segundo, se define oficialmente
+en términos del campo magnético que crea y
+la fuerza magnética que ese campo puede
+ejercer sobre otra corriente.
+• Nikola Tesla (1856-1943) fue un investigador
+serbio-estadounidense conocido por la bo-
+bina de Tesla, que es capaz de producir altos
+voltajes (véase el capítulo 20) y que se estu-
+dia comúnmente en la preparatoria. El nom-
+bre de Tesla se convirtió en la unidad del SI
+para el campo magnético. Cuando Westing-
+house obtuvo los derechos de patente para sus
+diseños de corriente alterna, esto desencadenó
+una batalla entre el sistema de corriente directa
+de Edison y el sistema de corriente alterna de
+Tesla-Westinghouse. Finalmente, este último
+ganó y se convirtió en el medio primordial de
+distribuir energía eléctrica por todo el mundo.
+• Pierre Curie (1859-1906) fue pionero en di-
+versas áreas que van desde el magnetismo a
+la radiactividad. Descubrió que las sustancias
+ferromagnéticas presentan una transición de
+temperatura por arriba de la cual pierden su
+comportamiento ferromagnético. Esto se co-
+noce ahora como la temperatura Curie.
+19.1 Imanes, polos 
+magnéticos y 
+dirección del campo
+magnético
+624
+19.2 Intensidad del 
+campo magnético y 
+fuerza magnética 626
+19.3 Aplicaciones: partículas
+cargadas en campos
+magnéticos
+629
+19.4 Fuerzas magnéticas 
+sobre conductores con
+corriente eléctrica
+632
+19.5 Aplicaciones: conduc-
+tores con corriente en
+campos magnéticos
+635
+19.6 Electromagnetismo: 
+la fuente de los cam-
+pos magnéticos
+637
+19.7 Materiales 
+magnéticos 641
+*19.8 Geomagnetismo: 
+el campo magné-
+tico terrestre
+644
+Magnetismo19
+C
+uando se menciona el magnetismo, tendemos a pensar en una atracción,
+pues se sabe que es posible levantar algunos objetos con un imán. Usted pro-
+bablemente ha visto picaportes magnéticos que sujetan puertas de casilleros,
+o imanes para pegar notas sobre la puerta del refrigerador. Es menos probable que
+alguien piense en la repulsión. Sin embargo, existen las fuerzas magnéticas de repul-
+sión, y son tan útiles como las de atracción.
+A este respecto, la fotografía que abre este capítulo muestra un ejemplo inte-
+resante. A primera vista, el vehículo se ve como un tren ordinario; pero ¿dónde es-
+tán las ruedas? De hecho, dista mucho de ser un tren convencional; es uno de alta
+velocidad que opera mediante levitación magnética. El tren no toca físicamente los
+“rieles”. Más bien “flota” sobre ellos, sostenido por las fuerzas de repulsión que
+producen poderosos imanes. Las ventajas son obvias: si no hay ruedas, no hay
+fricción de rodadura y no hay chumaceras que lubricar; de hecho, hay muy pocas
+partes móviles de cualquier tipo.
+Pero, ¿de dónde provienen las fuerzas magnéticas? Durante siglos, las fuer-
+zas de atracción de los imanes se atribuyeron a fenómenos sobrenaturales. Los
+materiales que presentaban esa cualidad se llamaban piedras imán. Hoy, el mag-
+netismo se asocia con la electricidad, porque los físicos descubrieron que en reali-
+dad ambas cosas son en realidad distintos aspectos de una sola fuerza: la fuerza
+electromagnética. El electromagnetismo se aplica en motores, generadores, radios
+y muchas otras aplicaciones comunes. En el futuro, el desarrollo de materiales su-
+perconductores a altas temperaturas (capítulo 17) abrirá el camino a la aplicación
+práctica de muchos artefactos más que hoy sólo se encuentran en el laboratorio.
+Aunque la electricidad y el magnetismo son manifestaciones de la misma
+fuerza fundamental, es conveniente desde el punto de vista didáctico considerar-
+las primero en forma individual, para después unirlas, por así decirlo, en el elec-
+tromagnetismo. En este capítulo y el siguiente se investigará el magnetismo y su
+relación íntima con la electricidad.
+Imán 
+guía
+Riel guía
+Estator
+Imán de
+apoyo
+HECHOS DE FÍSICA
+CAPÍTULO 
+623
+
+624

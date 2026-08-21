@@ -1,0 +1,3729 @@
+Tema: Cantidad de movimiento lineal y choques (Capítulo 6 — Física, Wilson)
+
+CAPÍTULO 6 Cantidad de movimiento lineal y choques
+6.1 Cantidad de movimiento lineal
+OBJETIVO: Definir y calcular la cantidad de movimiento lineal y los componentes 
+de la cantidad de movimiento.
+Es posible que el término ímpetu nos haga pensar en un jugador de fútbol americano
+que corre hacia las diagonales, derribando a los jugadores que intentan detenerlo. O tal
+vez hayamos oído a alguien decir que un equipo perdió ímpetu (y por consiguiente
+perdió el partido). Ese uso cotidiano del término nos da una idea del concepto corres-
+pondiente: cantidad de movimiento (ímpetu), el cual sugiere la idea de una masa en
+movimiento y, por lo tanto, de inercia. Solemos pensar que los objetos pesados o masi-
+vos en movimiento tienen más cantidad de movimiento, aunque se muevan muy lenta-
+mente. No obstante, según la definición técnica de cantidad de movimiento, un objeto
+ligero puede tener tanta cantidad de movimiento como uno más pesado, y a veces más.
+Newton fue el primero en referirse a lo que en física moderna se denomina cantidad
+de movimiento linealcomo “la cantidad de movimiento […] que surge de la velocidad y
+la cantidad de materia conjuntamente”. Dicho de otra manera, la cantidad de movimien-
+to de un cuerpo es proporcional tanto a su masa como a su velocidad. Por definición,
+La cantidad de movimiento lineal de un objeto es el producto de su masa por su
+velocidad:
+(6.1)
+Unidad SI de cantidad de movimiento: kilogramo-metro/segundo (kg · m/s)
+Comúnmente nos referimos a la cantidad de movimiento lineal simplemente como can-
+tidad de movimiento, que es una cantidad vectorial que tiene la misma dirección que la ve-
+locidad, y componentes x-y con magnitudes de p
+x /H11005mvx y py /H11005mvy, respectivamente.
+La ecuación 6.1 expresa la cantidad de movimiento de un solo objeto o partícula.
+En el caso de un sistema con más de una partícula, la cantidad de movimiento lineal
+total del sistema es la suma vectorial de las cantidades de movimiento de las partícu-
+las individuales:
+(6.2)
+(Nota: denota cantidad de movimiento total; en tanto que 
+denota una cantidad de movimiento individual.)
+Ejemplo 6.1 ■ Cantidad de movimiento: masa y velocidad
+Un futbolista de 100 kg corre con una velocidad de 4.0 m/s directamente hacia el fondo
+del campo. Un proyectil de artillería de 1.0 kg sale del cañón con una velocidad inicial de
+500 m/s. ¿Qué tiene más cantidad de movimiento (magnitud), el futbolista o el proyectil?
+Razonamiento. Dadas la masa y la velocidad de un objeto, la magnitud de su cantidad de
+movimiento se calcula mediante la ecuación 6.1.
+Solución. Como siempre, primero hacemos una lista de los datos y lo que se pide, em-
+pleando los subíndices “p” y “s” para referirnos al futbolista (player) y al proyectil (shell),
+respectivamente.
+Dado: Encuentre: pp y ps (magnitudes de las cantidades 
+de movimiento)
+La magnitud de la cantidad de movimiento del futbolista es
+y la del proyectil es
+Así pues, el proyectil, menos masivo, tiene más cantidad de movimiento. Recordemos que
+la magnitud de la cantidad de movimiento depende tanto de la masa como de la magni-
+tud de la velocidad.
+Ejercicio de retuerzo. ¿Qué rapidez necesitaría el futbolista para que su cantidad de mo-
+vimiento tuviera la misma magnitud que la del proyectil? (Las respuestas de todos los Ejerci-
+cios de refuerzo se dan al final del libro.)
+ps = ms
+ vs =11.0 kg21500 m>s2 = 5.0 * 102 kg # m>s
+pp = mp
+ vp =1100 kg214.0 m>s2 = 4.0 * 102 kg # m>s
+ vs = 500 m>s
+ ms = 1.0 kg
+ vp = 4.0 m>s
+ mp = 100 kg
+p
+S
+P
+S
+P
+S
+= p
+S
+1 + p
+S
+2 + p
+S
+3 + Á = a
+ 
+ 
+p
+S
+i
+(P
+S
+)
+p
+S
+= mv
+S
+Nota: el vector de cantidad 
+de movimiento de un solo 
+objeto tiene la dirección de 
+su velocidad.
+Nota: la cantidad de movimiento
+lineal total es una suma vectorial.
+
+a)
+b)
+c)
+▲ FIGURA 6.1 Tres objetos 
+en movimiento: comparación 
+de cantidades de movimiento 
+y energías cinéticas a) Una bala 
+calibre .22 hace añicos un bolígrafo;
+b) un barco de crucero; c) un glaciar
+de Glaciar Bay, Alaska. Véase 
+el ejemplo 6.2. 
+6.1 Cantidad de movimiento lineal 179
+Ejemplo integrado 6.2 ■ Cantidad de movimiento lineal:
+comparaciones de orden de magnitud
+Consideremos los tres objetos que se muestran en la Nfigura 6.1: una bala calibre .22, un
+barco de crucero y un glaciar. Suponiendo que cada uno se mueve con su rapidez normal,
+a) ¿cuál cabría esperar que tenga mayor cantidad de movimiento lineal 1) la bala, 2) el bar-
+co o 3) el glaciar? b) Estime las masas y rapideces, y calcule valores de orden de magnitud
+para la cantidad de movimiento lineal de los objetos.
+a) Razonamiento conceptual. Es indudable que la bala es la que viaja con mayor rapidez
+y que el glaciar es el más lento, con el barco en un punto intermedio. Sin embargo, la can-
+tidad de movimiento, p /H11005mv, depende igualmente de la masa y de la velocidad. La veloz
+bala tiene una masa diminuta comparada con el barco y el glaciar. El lento glaciar tiene
+una masa enorme que supera por mucho a la de la bala, aunque no tanto a la del barco.
+Éste pesa mucho y, por lo tanto, posee una masa considerable. La cantidad de movimien-
+to relativa también depende de las rapideces. El glaciar apenas “se arrastra” en compara-
+ción con el barco, así que su lentitud contrarresta su enorme masa y hace que su cantidad
+de movimiento sea menor que lo esperado. Si suponemos que la diferencia de velocidad
+es mayor que la diferencia de masa para el caso del barco y del glaciar, el barco tendría
+más cantidad de movimiento. Asimismo, a causa de la relativamente diminuta masa de la
+veloz bala, cabe esperar que tenga la menor cantidad de movimiento. Con este razona-
+miento, el objeto con más cantidad de movimiento sería el barco, y con menos, la bala, de
+manera que la respuesta sería 2.
+b) Razonamiento cuantitativo y solución. Como no nos dan datos físicos, tendremos que
+estimar las masas y las velocidades (rapideces) de los objetos para luego calcular sus can-
+tidades de movimiento [y verificar el razonamiento del inciso a]. Como suele suceder en
+problemas de la vida real, quizá resulte difícil estimar los valores, por lo que trataríamos
+de buscar valores aproximados para las diversas cantidades. En este ejemplo haremos ta-
+les estimaciones. (Las unidades dadas en las referencias varían, y es importante convertir
+correctamente las unidades.)
+Dado: Estimaciones (se dan en seguida) de peso (masa) y rapidez para la bala, el
+barco de crucero y el glaciar.
+Encuentre: Las magnitudes aproximadas de las cantidades de movimiento de la bala
+(p
+b), el barco (ps) y el glaciar (pg).
+Bala: una bala calibre .22 común tiene un peso de unos 30 granos y una velocidad inicial
+de unos 1300 ft/s. (Un grano, que se abrevia gr, es una vieja unidad inglesa. Los farma-
+céuticos solían usarla con frecuencia; por ejemplo, comprimidos de aspirina de 5 granos;
+1 lb /H110057000 gr.)
+Barco: un barco como el de la figura 6.1b tendría un peso de unas 70 000 toneladas y una
+rapidez de aproximadamente 20 nudos. (El nudo es otra unidad antigua, que todavía se
+usa comúnmente en contextos náuticos; 1 nudo /H110051.15 mi/h.)
+Glaciar: el glaciar podría tener 1 km de anchura, 10 km de longitud y 250 m de altura, y
+avanzar a razón de 1 m al día. (Hay gran variación entre glaciares. Por ello, estas cifras
+implican más supuestos y estimados más burdos que los de la bala y el barco. Por ejem-
+plo, estamos suponiendo un área transversal rectangular uniforme para el glaciar. La al-
+tura es lo más difícil de estimar a partir de una fotografía; podemos suponer un valor mí-
+nimo por el hecho de que los glaciares deben tener un espesor de por lo menos 50-60 m
+para poder “fluir”. Las velocidades observadas varían desde unos cuantos centímetros
+hasta 40 m por día en el caso de glaciares de valle como el de la figura 6.1c. El valor que
+escogimos aquí se considera representativo.)
+Ahora convertimos los datos en unidades métricas para obtener estos órdenes de
+magnitud:
+Bala:
+Barco:
+ v
+s = 20 nudosa
+1.15 mi>h
+nudo
+ba
+0.447 m>s
+mi>h
+b = 10 m>s = 101 m>s
+ ms = 7.0 * 104 ton¢ 2.0 * 103 lb
+ton ≤a
+1 kg
+2.2 lbb = 6.4 * 107 kg L 108 kg
+ vb =11.3 * 103 ft>s2a
+0.305 m>s
+ft>s b = 4.0 * 102 m>s L 102 m>s
+ mb = 30 gra 1 lb
+7000 grba
+1 kg
+2.2 lbb = 0.0019 kg L 10-3 kg
+(continúa en la siguiente página)
+
+180 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+Glaciar:
+Ya tenemos todos los estimados de rapidez y masa, excepto mg, la masa del glaciar.
+Para calcular este valor, necesitamos conocer la densidad del hielo, ya que m /H11005/H9267V (ecua-
+ción 1.1). La densidad del hielo es menor que la del agua (el hielo flota en el agua); pero
+no es muy diferente, así que usaremos la densidad del agua, 1.0 /H1100310
+3 kg/m3 para sim-
+plificar los cálculos.
+Así, la masa del glaciar es aproximadamente
+Ahora calculamos la magnitud de las cantidades de movimiento de los objetos:
+Bala:
+Barco:
+Glaciar:
+Vemos que el barco es el que tiene mayor cantidad de movimiento, y la bala, la que menos.
+Ejercicio de refuerzo. ¿Qué objeto de este ejemplo tiene 1) mayor energía cinética y 2) me-
+nor energía cinética? Justifique sus respuestas efectuando cálculos de orden de magni-
+tud. (Tenga en cuenta que en este caso la dependencia es del cuadrado de la rapidez,
+)
+Ejemplo 6.3 ■ Cantidad de movimiento total: suma vectorial
+¿Qué cantidad de movimiento total tiene cada uno de los sistemas de partículas que se
+ilustran en la 
+Nfigura 6.2a y b?
+Razonamiento. La cantidad de movimiento total es la suma vectorial de las cantidades de
+movimiento individuales (ecuación 6.2). Esta cantidad se calcula utilizando los compo-
+nentes de cada vector.
+Solución.
+Dado: magnitudes y direcciones Encuentre: a) Cantidad de movimiento total 
+de las cantidades de mo- para la figura 6.2a
+vimiento de la figura 6.2 b) Cantidad de movimiento total 
+para la figura 6.2b
+a) La cantidad de movimiento total de un sistema es la suma vectorial de las cantidades
+de movimiento de las partículas individuales, así que
+(dirección /H11001x)
+b) El cálculo de las cantidades de movimiento totales en las direcciones x y y da:
+(dirección /H11002x)
+(dirección /H11001y)
+Entonces,
+o bien,
+a 53° en relación con el eje x negativo.
+Ejercicio de refuerzo. En este ejemplo, si y del inciso a se sumaran a y del inci-
+so b, ¿cuál sería la cantidad de movimiento total?
+p
+S
+3p
+S
+2p
+S
+2p
+S
+1
+P = 5.0 kg # m>s
+P
+S
+= P
+S
+x + P
+S
+y =1-3.0 kg # m>s2xN +14.0 kg # m>s2yN
+ P
+S
+y = p
+S
+3 =14.0 kg # m>s2yN
+ =- 13.0 kg # m>s2xN
+ P
+S
+x = p
+S
+1 + p
+S
+2 =15.0 kg # m>s2xN +1-8.0 kg # m>s2xN
+P
+S
+= p
+S
+1 + p
+S
+2 =12.0 kg # m>s2xN +13.0 kg # m>s2xN =15.0 kg # m>s2xN
+1P
+S
+2
+1P
+S
+2
+K = 1
+2 mv2.
+pg = mg
+ vg L11012 kg2110-5 m>s2 = 107 kg # m>s
+ps = ms
+ vs L1108 kg21101 m>s2 = 109 kg # m>s
+pb = mb
+ vb L110-3 kg21102 m>s2 = 10-1 kg # m>s
+ L1103 kg>m3231104 m21103 m21102 m24 = 1012 kg
+ mg =rV =r1l * w * d2
+ vg =11.0 m>día2a 1 día
+86 400 sb = 1.2 * 10-5 m>s L 10-5 m>s
+ anchuraL 103 m, longitud L 104 m, altura L 102 m
+
+6.1 Cantidad de movimiento lineal 181
+En el ejemplo 6.3a, las cantidades de movimiento estaban sobre los ejes de coor-
+denadas y, por ello, se sumaron directamente. Si el movimiento de una (o más) de las
+partículas no sigue un eje, su vector de cantidad de movimiento se puede descompo-
+ner en componentes rectangulares; después, pueden sumarse componentes indivi-
+duales para obtener los componentes de la cantidad de movimiento total, tal como
+hicimos con componentes de fuerza en el capítulo 4.
+Puesto que la cantidad de movimiento es un vector, un cambio de cantidad de mo-
+vimiento puede ser resultado de un cambio de magnitud, de dirección o de ambas. En
+la 
+▼ figura 6.3 se dan ejemplos de cambios en la cantidad de movimiento de partículas
+debidos a cambios de dirección después de un choque. En esa figura, suponemos que
+la magnitud de la cantidad de movimiento de la partícula es la misma antes y después
+del choque (las flechas tienen la misma longitud). La figura 6.3a ilustra un rebote di-
+recto: un cambio de dirección de 180°. Observe que el cambio de cantidad de movi-
+miento es la diferencia vectorial, y que los signos de dirección de los vectores son
+importantes. La figura 6.3b muestra un choque de refilón, donde el cambio de canti-
+dad de movimiento se obtiene analizando los componentes x y y.
+1¢p
+S
+2
+y
+x
+y
+x
+y
+x
+y
+x
+Cantidades de movimiento total del sistema
+P = 5.0 kg/H11080m/s
+p2 = 3.0 kg/H11080m/s
+Cantidades de movimiento individuales
+p1 = 2.0 kg/H11080m/s
+ a)  P = p1 + p2
+Cantidades de movimiento total del sistema
+P = 5.0 kg/H11080m/s
+ b)  P = p1 + p2 + p3
+p2 = 8.0 kg/H11080m/s
+Cantidades de movimiento individuales
+p1 = 5.0 kg/H11080m/s
+p3 = 4.0 kg/H11080m/s
+53°
+Py = 4.0 kg/H11080m/s 
+Px = 3.0 kg/H11080m/s
+> FIGURA 6.2 Cantidad de
+movimiento total La cantidad 
+de movimiento total de un 
+sistema de partículas es la suma
+vectorial de las cantidades de
+movimiento individuales de las
+partículas. Véase el ejemplo 6.3.
+a)
+= (mv)x – (–mv)x = (+2mv)x
+Δp = p2 – p1
+p2p1
++–
+Δp
+p2
+p1
+b)
+p2
+p1
+y
+x
+Δp = p2 – p1 = Δpx + Δpy
+= (p2 cos u)x – (– p1 cos u)x 
+= (+2p cos u)x 
+Δpy = p2y – p1y
+= (p2 sen u)y – (p1 sen u)y = 0
+Δpx = p2x – p1x
+p2
+p1
+Δp
+u
+u
+u
+u
+nn n
+n n
+n
+n n
+▼ FIGURA 6.3 Cambio de cantidad
+de movimiento El cambio de
+cantidad de movimiento está dado
+por la diferencia en los vectores 
+de cantidad de movimiento. 
+a) Aquí, la suma vectorial es cero,
+pero la deferencia vectorial, el
+cambio de cantidad de movimiento,
+no. (Las partículas se han
+desplazado por claridad.) 
+b) El cambio de cantidad de
+movimiento se obtiene calculando
+el cambio en los componentes.
+
+182 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+Fuerza y cantidad de movimiento
+Como vimos en el capítulo 4, si un objeto tiene un cambio de velocidad (una acelera-
+ción), deberá haber una fuerza neta actuando sobre él. Asimismo, dado que la canti-
+dad de movimiento está directamente relacionada con la velocidad, un cambio de
+cantidad de movimiento también requiere una fuerza. De hecho, Newton expresó
+originalmente su segunda ley del movimiento en términos de cantidad de movimien-
+to, en vez de aceleración. Podemos ver la relación fuerza-cantidad de movimiento par-
+tiendo de y usando donde la masa se supone constante.
+Entonces,
+o bien,
+(6.3)
+donde es la fuerza neta promedio que actúa sobre el objeto, si la aceleración no es
+constante (o la fuerza neta instantánea si /H9004t se aproxima a cero).
+Expresada en esta forma, la segunda ley de Newton indica que la fuerza externa
+neta que actúa sobre un objeto es igual a la tasa de cambio de la cantidad de movi-
+miento del objeto con el tiempo. Es evidente, por el desarrollo de la ecuación 6.3, que
+las ecuaciones y son equivalentes, si la masa es constante. Sin
+embargo, en algunas situaciones la masa podría variar. No tomaremos en cuenta este
+factor en nuestro análisis de los choques de partículas, pero veremos un caso especial
+más adelante en este capítulo. La forma más general de la segunda ley de Newton, la
+ecuación 6.3, es válida aun cuando la masa varíe.
+Así como la ecuación indica que una aceleración es indicio de una fuer-
+za neta, la ecuación indica que un cambio de cantidad de movimiento es
+indicio de una fuerza neta. Por ejemplo, como se observa en la 
+>figura 6.4, la cantidad de
+movimiento de un proyectil es tangente a la trayectoria parabólica del proyectil, y
+cambian tanto su magnitud como su dirección. El cambio de cantidad de movimiento
+indica que una fuerza neta actúa sobre el proyectil, y sabemos que es la fuerza gravi-
+tacional. En la figura 6.3 ilustramos algunos cambios de cantidad de movimiento.
+¿Puede usted identificar las fuerzas en esos dos casos? Piense en términos de la tercera
+ley de Newton.
+6.2 Impulso
+OBJETIVOS: a) Relacionar impulso y cantidad de movimiento, y b) energía cinéti-  
+ca y cantidad de movimiento.
+Cuando dos objetos (como un martillo y un clavo, un palo y una pelota de golf, o in-
+cluso dos automóviles) chocan, pueden ejercer grandes fuerzas uno sobre el otro du-
+rante un periodo corto (
+>figura 6.5a). La fuerza no es constante en este caso; sin
+embargo, la segunda ley de Newton en forma de cantidad de movimiento nos sirve
+para analizar tales situaciones si utilizamos valores promedio. Escrita en esta forma, la
+ley dice que la fuerza neta promedio es igual a la tasa de cambio de la cantidad de mo-
+vimiento con respecto al tiempo: (ecuación 6.3). Si rescribimos la ecua-
+ción para expresar el cambio de cantidad de movimiento, tendremos (si tan sólo una
+fuerza actúa sobre el objeto):
+(6.4)
+El término se conoce como impulso de la fuerza:
+(6.5)
+Unidad SI de impulso y cantidad de movimiento: newton-segundo (N · s)
+Así, el impulso ejercido sobre un objeto es igual al cambio de cantidad de movimiento del objeto.
+Esta afirmación se conoce como teorema impulso-cantidad de movimiento. Las unida-
+I
+S
+= F
+S
+prom
+ ¢t =¢ p
+S
+= mv
+S
+- mv
+S
+o
+1I
+S
+2F
+S
+prom
+ ¢t
+F
+S
+prom
+ ¢t =¢ p
+S
+= p
+S
+- p
+S
+o
+F
+S
+prom =¢ p
+S
+>¢t
+F
+S
+neta =¢ p
+S
+>¢t
+F
+S
+neta = ma
+S
+F
+S
+neta =¢ p
+S
+>¢tF
+S
+neta = ma
+S
+F
+S
+neta
+Segunda ley de Newton del movimiento
+en términos de cantidad de movimiento
+F
+S
+neta =
+¢p
+S
+¢t
+F
+S
+neta = ma
+S
+= m1v
+S
+- v
+S
+o2
+¢t = mv
+S
+- mv
+S
+o
+¢t =
+p
+S
+- p
+S
+o
+¢t =
+¢p
+S
+¢t
+a
+S
+=1v
+S
+- v
+S
+o2>¢t,F
+S
+neta = ma
+S
+y
+x
+po = mvo
+p2 = mv2
+p3 = mv3
+p1= mv1
+1
+2
+3
+u
+▲ FIGURA 6.4 Cambio en la 
+cantidad de movimiento de un
+proyectil El vector de cantidad 
+de movimiento total de un proyectil
+es tangente a la trayectoria del 
+proyectil (como lo es su velocidad);
+este vector cambia de magnitud 
+y dirección debido a la acción de
+una fuerza externa (la gravedad). 
+El componente x de la cantidad 
+de movimiento es constante. 
+(¿Por qué?)
+b)
+F
+t
+Δt
+to tf
+a)
+▲ FIGURA 6.5 Impulso por choque
+a) El impulso por choque hace que
+el balón se deforme. b) El impulso
+es el área bajo la curva de una
+gráfica de F contra t. Tome en
+cuenta que la fuerza de impulso
+sobre el balón no es constante:
+aumenta hasta un máximo.
+
+6.2 Impulso 183
+des del impulso son newtons-segundo (N · s), que también son unidades de cantidad
+de movimiento (1 N · s /H110051 kg · m/s2 · s /H110051 kg · m/s.
+En el capítulo 5 vimos que, por el teorema trabajo-energía (Wneto /H11005Fneta/H9004x /H11005/H9004K),
+el área bajo una curva de Fneta contra x es igual al trabajo neto, es decir, al cambio de
+energía cinética. Asimismo, el área bajo una curva de Fneta contra t es igual al impulso,
+o sea, al cambio de cantidad de movimiento (figura 6.5b). Las fuerzas de impulso por
+lo regular varían con el tiempo y por lo tanto no son constantes. Sin embargo, es reco-
+mendable hablar de la fuerza promedio constante que actúa durante un intervalo
+de tiempo /H9004t para proporcionar el mismo impul-
+so (misma área bajo la curva de fuerza contra tiempo), como se muestra en la 
+Nfigura
+6.6. Algunos tiempos de contacto comunes en los deportes se presentan en la tabla 6.1.
+Ejemplo 6.4 ■ Golf: el teorema impulso-cantidad de movimiento
+Un golfista golpea una pelota de 0.046 kg desde un tee elevado, impartiéndole una rapidez
+horizontal inicial de 40 m/s (aproximadamente 90 mi/h). ¿Qué fuerza promedio ejerce el
+palo sobre la pelota durante ese tiempo?
+Razonamiento. La fuerza promedio es igual a la tasa de cambio de la cantidad de movi-
+miento con respecto al tiempo (ecuación 6.5).
+Solución.
+Dado: Encuentre: Fprom (fuerza promedio)
+(tabla 6.1)
+Se nos da la masa, y las velocidades inicial y final, de manera que podemos calcular fácil-
+mente el cambio de cantidad de movimiento. Luego, calculamos la magnitud de la fuer-
+za promedio a partir del teorema impulso-cantidad de movimiento:
+Así,
+[Es una fuerza muy grande en comparación con el peso de la pelota, w /H11005mg /H11005(0.046 kg)
+(9.80 m/s
+2) /H110050.45 N.] La fuerza tiene la dirección de la aceleración y es la fuerza prome-
+dio. La fuerza instantánea es aun mayor cerca del punto medio del intervalo de tiempo
+del choque (/H9004t en la figura 6.6).
+Ejercicio de refuerzo. Suponga que el golfista de este ejemplo golpea la pelota con la
+misma fuerza promedio, pero “continúa su oscilación” para aumentar el tiempo de con-
+tacto a 1.5 ms. ¿Qué efecto tendría este cambio sobre la rapidez horizontal inicial de la
+pelota?
+F
+prom = mv - mvo
+¢t =
+10.046 kg2140 m>s2 - 0
+1.0 * 10-3 s
+= 1800 N 1o aprox. 410 lb2
+Fprom
+ ¢t = p - po = mv - mvo
+ ¢t = 1.0 ms = 1.0 * 10-3 s
+ vo = 0
+ v = 40 m>s
+ m = 0.046 kg
+F
+S
+prom
+ 
+Algunos tiempos de contacto
+comunes con la pelota
+/H9004t (milisegundos)
+Golf (tiro de inicio) 1.0
+Béisbol (batazo) 1.3
+Tenis (derechazo) 5.0
+Fútbol americano (patada) 8.0
+Fútbol sóquer (cabezazo) 23.0
+TABLA 6.1 F
+t
+Fmáx
+Fprom
+Δt
+Ilustración 8.1 Fuerza e impulso
+▲ FIGURA 6.6 Fuerza promedio de
+impulso El área bajo la curva 
+de fuerza promedio contra tiempo
+(F
+prom/H9004t, dentro de las líneas
+puntedas) es igual al área bajo 
+la curva de F contra t, que suele 
+ser difícil de evaluar.
+
+Fprom Δt = mvo
+b)
+a)
+Fprom Δt = mvo
+▲ FIGURA 6.7 Ajuste del impulso
+a) El cambio de cantidad de 
+movimiento al atrapar la pelota 
+es constante, mv
+o. Si la pelota se 
+detiene rápidamente (/H9004t pequeño),
+la fuerza de impulso es grande
+(F
+prom grande) y las manos 
+desnudas arden. b) Si aumentamos
+el tiempo de contacto (/H9004t grande)
+moviendo las manos junto con la
+pelota, la fuerza de impulso se 
+reducirá y no habrá ardor.
+184
+CAPÍTULO 6 Cantidad de movimiento lineal y choques
+El ejemplo 6.4 ilustra las grandes fuerzas que los objetos en colisión pueden ejercer
+entre sí durante tiempos de contacto cortos. En algunos casos, acortamos el tiempo de
+contacto para maximizar la fuerza de impulso, por ejemplo en un golpe de karate. Sin
+embargo, en otros casos es posible manipular /H9004t con la finalidad de reducir la fuerza.
+Suponga que el cambio de cantidad de movimiento es fijo en alguna situación. En-
+tonces, dado que /H9004p /H11005F
+prom/H9004t, si es posible alargar /H9004t se reducirá la fuerza de impul-
+so promedio Fprom.
+El lector probablemente ya ha tratado algunas veces de reducir al mínimo la fuer-
+za de impulso. Por ejemplo, al atrapar una pelota dura y muy rápida, ha aprendido a
+no atraparla con los brazos rígidos, sino mover las manos y los brazos junto con la pe-
+lota. Este movimiento incrementa el tiempo de contacto y reduce la fuerza de impulso
+y el “ardor” (
+>figura 6.7).
+Al saltar desde alguna altura hacia una superficie dura, tratamos de no caer con las
+piernas rígidas. La detención abrupta ( /H9004t pequeño) aplicaría una fuerza de impulso
+grande a los huesos y articulaciones de nuestras piernas y quizá nos lesione. Si flexiona-
+mos las rodillas al aterrizar, el impulso actuará verticalmente hacia arriba, opuesto a
+nuestra velocidad (F
+prom/H9004t /H11005/H9004p /H11005/H11002mvo, siendo cero la velocidad final). De esta mane-
+ra, el incremento del intervalo de tiempo /H9004t hace que se reduzca la fuerza de impulso.
+Otro ejemplo de incremento del tiempo de contacto para reducir la fuerza de impul-
+so se presenta en la sección A fondo 6.1: Las bolsas de aire del automóvil y las bolsas 
+de aire en Marte de la p. 186.
+Ejemplo 6.5 ■ Fuerza de impulso y lesión del cuerpo
+Un trabajador de 70.0 kg salta con las piernas estiradas desde una altura de 1.00 m hacia
+el piso de concreto. ¿Cuál es la magnitud del impulso que siente al caer, suponiendo que
+se detiene súbitamente en 8.00 ms?
+Razonamiento. El impulso es Fprom/H9004t, que no se puede calcular directamente a partir de
+los datos. No obstante, el impulso es igual al cambio en la cantidad de movimiento,
+Fprom/H9004t /H11005/H9004p /H11005mv /H11002mvo. Así que el impulso se calcula a partir de la diferencia en las 
+cantidades de movimiento.
+Solución.
+Dado: Encuentre: impulso (I) sobre el trabajador 
+Aquí hay dos partes distintas: a) el trabajador que desciende después de saltar y b) la de-
+tención súbita después de golpear el piso. Así que debemos ser cuidadosos con la notación.
+a) Aquí, y la velocidad final se encuentra con (ecuación 2.12’),
+cuyo resultado es
+b) La v1 del primer proceso es entonces la velocidad inicial con la que el trabajador con
+las piernas rígidas golpea el piso, esto es, y la velocidad final en la 
+segunda fase es v2 /H110050. Entonces,
+donde el impulso es en la dirección hacia arriba.
+Con un /H9004t de 6.0 /H1100310/H110023 s para la detención repentina en el impacto, esto daría una
+fuerza de
+(¡aproximadamente 8.73 /H11003103 lb de fuerza!)
+y la fuerza es hacia arriba sobre las piernas rígidas.
+Ejercicio de refuerzo. Suponga que el trabajador flexionó sus rodillas y prolongó el tiem-
+po de contacto a 0.60 s al caer. ¿Cuál sería la fuerza de impulso sobre él en este caso?
+En otros casos, la fuerza de impulso aplicada podría ser relativamente constante,
+aumentando deliberadamente el tiempo de contacto ( /H9004t) para generar un mayor im-
+pulso y, por lo tanto, un mayor cambio en la cantidad de movimiento ( Fprom/H9004t /H11005/H9004p).
+Éste es el principio del “ follow-through” en los deportes, como cuando se golpea una
+Fprom
+ =
+¢p
+¢t =
+310 kg # m>s
+8.00 * 10-3 s
+= 3.88 * 104 N
+= 310 kg # m>s =170.0 kg24219.80 m>s2211.00 m2
+ I = Fprom
+ ¢t =¢ p = mv2 - mvo2 = 0 - m1- 22gh2 =+ m 22gh
+vo2 = v1 = - 12gh,
+v1 =- 22gh
+v2 = vo
+2 - 2ghvo1 = 0,
+ ¢t = 8.00 ms = 8.00 * 10-3 s
+ h = 1.00 m
+ m = 70.0 kg
+
+6.3 Conservación de la cantidad de movimiento lineal 185
+a)
+b)
+> FIGURA 6.8 Prolongación del
+tiempo de contacto a) Un golfista
+continúa su swing al golpear la 
+pelota. Un motivo para hacerlo 
+es que ello prolonga el tiempo 
+de contacto y la pelota recibe 
+un mayor impulso y mayor 
+cantidad de movimiento. 
+b) El follow-through con un palo 
+largo aumenta el tiempo de 
+contacto para lograr mayor 
+cantidad de movimiento, pero 
+el objetivo principal es el 
+control direccional.
+pelota con un bate, con una raqueta o con un palo de golf. En este último caso (▲ figura
+6.8a), suponiendo que el golfista aplica la misma fuerza promedio en cada swing, 
+cuanto mayor sea el tiempo de contacto, mayor será el impulso o la cantidad de movi-
+miento que la pelota reciba. Es decir, con F
+prom/H9004t /H11005mv (dado que vo /H110050), cuanto 
+mayor sea el valor de /H9004t, mayor será la rapidez final de la pelota. (Este principio se
+ilustra en el Ejercicio de refuerzo del ejemplo 6.4.) Como vimos en la sección 3.4, una
+mayor velocidad de proyección aumenta el alcance de un proyectil. En algunos casos,
+un follow-through largo podría servir básicamente para controlar mejor la dirección de
+la pelota (figura 6.8b).
+La palabra impulso implica que la fuerza de impulso actúa brevemente (como una
+persona “impulsiva”), y esto es cierto en muchos casos. No obstante, la definición de
+impulso no limita el intervalo de tiempo durante el cual la fuerza actúa. Técnicamente,
+un cometa en su punto de máximo acercamiento al Sol interviene en un choque, porque
+en física las fuerzas de colisión no tienen que ser fuerzas de contacto. Fundamentalmen-
+te, un choque es una interacción entre objetos donde hay un intercambio de cantidad
+de movimiento y de energía. 
+Como habría que esperar por el teorema trabajo-energía y el teorema impulso-
+cantidad de movimiento, la cantidad de movimiento y la energía cinética están relacio-
+nadas directamente. Basta una pequeña manipulación algebraica de la ecuación de
+energía cinética (ecuación 5.5) para expresar la energía cinética ( K) en términos de la
+magnitud de la cantidad de movimiento:
+(6.6)
+Entonces, la energía cinética y la cantidad de movimiento están íntimamente relacio-
+nadas, pero son cantidades diferentes.
+6.3 Conservación de la cantidad de movimiento lineal
+OBJETIVOS: a) Explicar las condiciones que se deben cumplir para que se conser-
+ve la cantidad de movimiento lineal y b) aplicarla a situaciones físicas.
+Al igual que la energía mecánica total, la cantidad de movimiento de un sistema se
+conserva sólo bajo ciertas condiciones. Este hecho nos permite analizar una amplia ga-
+ma de situaciones y facilita la resolución de muchos problemas. La conservación de la
+cantidad de movimiento es uno de los principios más importantes en física. En par-
+ticular, sirve para analizar el choque de objetos que van desde partículas subatómicas
+hasta automóviles en accidentes de tránsito.
+Para que se conserve (es decir, que no varíe con el tiempo), la cantidad de movi-
+miento lineal de un objeto debe cumplirse una condición que es evidente cuando se
+plantea la segunda ley de Newton en términos de la cantidad de movimiento (ecua-
+ción 6.3). Si la fuerza neta que actúa sobre una partícula es cero, es decir,
+F
+S
+neta =
+¢p
+S
+¢t = 0
+K = 1
+2 mv2 =
+1mv22
+2m =
+p2
+2m
+Ilustración 8.2 La diferencia entre
+impulso y trabajo
+
+186 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+entonces
+donde es la cantidad de movimiento inicial y es la cantidad de movimiento en
+algún instante posterior. Dado que estos dos valores son iguales, se conserva la canti-
+dad de movimiento:
+cantidad de movimiento final /H11005cantidad de movimiento inicial
+Esta observación es congruente con la primera ley de Newton: un objeto permanece en
+reposo o en movimiento con velocidad uniforme , a menos que actúe
+sobre él una fuerza externa neta.
+La conservación de la cantidad de movimiento se puede extender a un sistema de
+partículas, si la segunda ley de Newton se escribe en términos de la fuerza neta que
+actúa sobre el sistema y de las cantidades de movimiento de las partículas: 
+y 
+Puesto que y, si ninguna fuerza externa neta actúa sobre el sistema,
+y entonces y se conserva la cantidad de movimiento total.
+Esta condición generalizada es la ley de conservación de la cantidad de movimiento lineal:
+(6.7)
+Así la cantidad de movimiento lineal total de un sistema, se conserva si la
+fuerza externa neta que actúa sobre el sistema es cero.
+P
+S
+= gp
+S
+i ,
+P
+S
+= P
+S
+o
+P
+S
+= P
+S
+o ,¢F
+S
+= 0;F
+S
+neta = 0
+F
+S
+neta =¢ P
+S
+>¢t,
+P
+S
+= gp
+S
+i = g mv
+S
+i .
+F
+S
+neta = gF
+S
+i
+p
+S
+Z 01p
+S
+= 02,
+p
+S
+= p
+S
+o o mv
+S
+= mv
+S
+o
+p
+S
+p
+S
+o
+¢p
+S
+= 0 = p
+S
+- p
+S
+o
+6.1 LAs BOLSAs DE AIRE DEL AUTOMÓVIL
+Y LAS BOLSAS DE AIRE EN MARTE
+En una noche oscura y lluviosa, ¡un automóvil sale de control y
+choca de frente contra un gran árbol! El conductor logra salir
+con sólo lesiones menores, gracias a que llevaba abrochado el
+cinturón de seguridad y a que se desplegaron las bolsas de aire.
+Las bolsas de aire, junto con los cinturones de seguridad, son
+dispositivos diseñados para evitar (o disminuir) las lesiones a
+los pasajeros en los accidentes automovilísticos.
+Cuando un automóvil choca contra algo que, en esencia, es-
+tá inmóvil —como un árbol o el contrafuerte de un puente—, o
+cuando choca de frente contra otro vehículo, el auto se detiene
+casi instantáneamente. Si los pasajeros en el asiento delantero no
+llevan abrochados sus cinturones de seguridad (y si, además, el
+automóvil no está equipado con bolsas de aire), continúan mo-
+viéndose hasta que una fuerza externa actúa sobre ellos (según
+la primera ley de Newton). Para el conductor, esta fuerza la ejer-
+cen el volante y la columna de dirección; y para el pasajero, el ta-
+blero y/o el parabrisas.
+Aun cuando todos los ocupantes llevan abrochados los cin-
+turones, es probable que sufran lesiones. Los cinturones absorben
+energía al estirarse y amplían el área sobre la cual se ejerce la fuer-
+za. Sin embargo, si el automóvil va muy rápido y golpea algo que
+está inmóvil, podría haber demasiada energía como para que los
+cinturones la absorban. Aquí es donde entra en acción la bolsa de
+aire, que se infla automáticamente con un fuerte impacto (figura
+1), sirviendo de cojín al conductor (y al pasajero del asiento delan-
+tero, si ambos lugares están equipados con ellas). En términos de
+impulso, la bolsa de aire prolonga el tiempo de contacto para de-
+tenerse, pues la fracción de segundo que le toma a la cabeza de al-
+guien hundirse en la bolsa inflada es varias veces mayor que el
+instante en que esa persona se hubiera detenido al golpear una
+superficie sólida como el parabrisas. Un tiempo de contacto más
+prolongado significa una fuerza de impacto promedio reducida
+y, por lo tanto, menor probabilidad de sufrir una lesión. (Como la
+bolsa es grande, la fuerza de impacto total también se expande so-
+bre una superficie mayor del cuerpo, de manera que la fuerza en
+cualquier parte del cuerpo también es menor.)
+¿Cómo es que se infla la bolsa de aire durante el breve mo-
+mento entre un impacto frontal y el instante en que el conductor
+golpearía contra la columna de dirección? Una bolsa de aire está
+equipada con sensores que detectan la fuerte desaceleración aso-
+ciada con un choque de frente en el instante en que éste se inicia. Si
+la desaceleración excede el umbral establecido de los sensores, una
+unidad de control envía una corriente eléctrica a un encendedor
+en la bolsa de aire, que desencadena una explosión química que
+genera gas para inflar la bolsa con una rapidez muy elevada. Todo
+el proceso, desde la detección del impacto hasta que la bolsa se in-
+fla por completo, lleva unas 25 milésimasde segundo (0.025 s).
+Las bolsas de aire han salvado muchas vidas. Sin embargo,
+en algunos casos, el despliegue de las bolsas de aire ha causado
+problemas. Una bolsa de aire no es un cojín suave y blando.
+Cuando se activa, sale disparada de su compartimiento con una
+rapidez de 320 km/h (200 mi/h) y podría golpear a una perso-
+na con fuerza suficiente como para causarle severos daños e in-
+cluso la muerte. Se aconseja a los adultos sentarse por lo menos
+a 13 cm (6 in) del compartimiento de la bolsa de aire y siempre
+abrocharse el cinturón de seguridad. Los niños deben sentarse
+en el asiento trasero, fuera del alcance de las bolsas de aire.*
+Bolsas de aire en Marte
+¿Bolsas de aire en Marte? Hubo algunas en 1997, cuando la
+nave espacial Pathfinder dejó un vehículo de exploración en 
+la superficie de Marte. Y en 2004, más bolsas de aire llegaron a
+A FONDO
+FIGURA 1 Impulso y seguridad La bolsa de aire de un automóvil prolon-
+ga el tiempo de contacto para detenerse y evita que el conductor se golpee
+contra el tablero o con el parabrisas en caso de un choque; al inflarse, la 
+bolsa de aire disminuye la fuerza de impulso que podría causar lesiones.
+Nota: una minúscula indica 
+una cantidad de movimiento indi-
+vidual. Una mayúscula denota la 
+cantidad de movimiento total del
+sistema. Ambas son vectores.
+.1P
+S
+= gp
+S
+i2
+P
+S
+p
+S
+Conservación de la cantidad de
+movimiento, sin fuerza externa 
+neta
+*Recomendaciones de la National Highway Traffic Safety Administration
+(www.nhtsa.dot.gov).
+
+6.3 Conservación de la cantidad de movimiento lineal 187
+FIGURA Más y más rebotes a) Bolsas de aire  se utilizaron como 
+“pelotas de playa” para proteger al Pathfinder y a los vehículos de 
+exploración Mars Rovers. b) La concepción de un artista de uno de los
+vehículos de exploración rebotando en sus bolsas de aire en Marte. 
+c) Un vehículo de exploración queda al descubierto de manera segura.
+Marte con la Misión Mars Exploration Rover. Por lo general, es
+posible amortiguar los aterrizajes de las naves espaciales gra-
+cias a los retrocohetes encendidos de manera intermitente hacia
+la superficie del planeta. Sin embargo, encender los retro-
+cohetes muy cerca de la superficie de Marte podría dejar rastros
+de químicos extraños de combustión sobre ella. Como uno de
+los objetivos de las misiones a Marte es analizar la composición
+química de las rocas y del suelo de ese planeta, había que de-
+sarrollar otro método para descender.
+¿La solución? Probablemente el sistema de bolsas de aire 
+más caro que jamás se haya creado, ya que su desarrollo e ins-
+talación tuvieron un costo aproximado de 5 millones de
+dólares. “Pelotas de playa” de 4.6 m (15 ft) de diámetro
+rodearon los vehículos de exploración para efectuar una llega-
+da sobre bolsas de aire (figura 2a).
+Al entrar a la atmósfera de Marte, la nave viajaba a unos 
+27 000 km/h (17 000 mi/h). Un sistema de cohetes de altitud ele-
+vada y un paracaídas la frenaron hasta una rapidez de entre 80 
+y 100 km/h (esto es, entre 50 y 60 mi/h). A una altura de 200 m 
+(660 ft), los generadores de gas inflaron las bolsas de aire, que en-
+volvieron los vehículos de exploración permitiéndoles rebotar y
+rodar un poco durante el aterrizaje (figura 2b). Las bolsas de aire
+se desinflaron y los vehículos rodaron sobre la superficie de
+Marte (figura 2c).
+Hay otras formas de lograr esta condición. Por ejemplo, en el capítulo 5 vimos que
+un sistema cerrado o aislado es aquel donde no actúa ninguna fuerza externa neta, así
+que se conserva la cantidad de movimiento lineal total de un sistema aislado.
+Dentro de un sistema actúan fuerzas internas, como cuando sus partículas chocan.
+Éstos son pares de fuerzas según la tercera ley de Newton, y hay buenos motivos para
+no mencionar explícitamente tales fuerzas en la condición para que se conserve la can-
+tidad de movimiento. Según la tercera ley de Newton, estas fuerzas internas son igua-
+les y opuestas, y se anulan entre sí vectorialmente. Por ello, la fuerza interna neta de un
+sistema cerrado siempre es cero.
+No obstante, algo que es importante entender es que las cantidades de movimiento
+de partículas u objetos individuales dentro de un sistema podrían cambiar. Sin embargo,
+en ausencia de una fuerza externa neta, la suma vectorial de todas las cantidades de mo-
+vimiento (la cantidad de movimiento total del sistema ) no cambia. Si los objetos ini-
+cialmente están en reposo (es decir, si la cantidad de movimiento total es cero) y luego se
+ponen en movimiento como resultado de fuerzas internas, la cantidad de movimiento
+total seguirá siendo cero. Este principio se ilustra en la 
+▼ figura 6.9 y se analiza en el ejem-
+plo 6.6. Los objetos dentro de un sistema aislado podrían transferir cantidad de movi-
+miento entre sí; pero la cantidad de movimiento total después de los cambios deberá ser
+igual al valor inicial, suponiendo que la fuerza externa neta sobre el sistema es cero.
+En muchos casos la conservación de la cantidad de movimiento es de gran utili-
+dad para analizar situaciones movimiento y choques. Ilustraremos su aplicación con
+los ejemplos siguientes. (Observe que, en muchos casos, la conservación de la cantidad
+de movimiento hace innecesario conocer las fuerzas que intervienen.)
+P
+S
+a)
+b)
+c)
+Ilustración 8.3 Choques fuertes 
+y suaves y la tercera ley
+Nota: los pares de fuerzas 
+de la tercera ley se estudiaron 
+en la sección 4.4.
+
+188 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+v2
+m2 =m1 =
+2.0 kg1.0 kg
+2.0 kg1.0 kg
+v1
+m1 = m2 =
+x = 0 +−
+N FIGURA 6.9 Fuerza interna y 
+conservación de la cantidad de
+movimiento La fuerza de resorte 
+es una fuerza interna, así que se
+conserva la cantidad de movimiento
+del sistema. Véase el ejemplo 6.6.
+Ejemplo 6.6 ■ Antes y después: conservación de la cantidad 
+de movimiento 
+Dos masas, m1 /H110051.0 kg y m2 /H110052.0 kg, están unidas con un hilo ligero que las mantiene en
+contacto con los extremos de un resorte ligero comprimido, como se muestra en la figura
+6.9. El hilo se quema (fuerza externa insignificante) y las masas se separan en la superficie
+sin fricción, con m
+1 adquiere una velocidad de 1.8 m/s hacia la izquierda. ¿Qué velocidad
+adquiere m2?
+Razonamiento. Al no haber una fuerza externa neta (los pesos se cancelan con una fuerza
+normal), se conserva la cantidad de movimiento total del sistema. En un principio es cero,
+así que, después de quemarse el hilo, la cantidad de movimiento de m
+2 deberá ser igual y
+opuesta a la de m1. (La suma vectorial da una cantidad de movimiento total de cero. Tam-
+bién, como dijimos que el resorte y el hilo son ligeros, podemos despreciar sus masas.)
+Solución. Hacemos una lista de las masas y de la rapidez dadas, y tenemos
+Dado: Encuentre: v2 (velocidad: rapidez y dirección)
+(izquierda)
+Aquí, el sistema consta de las dos masas y el resorte. Puesto que la fuerza del resorte es
+interna al sistema, se conserva la cantidad de movimiento del sistema. Debería ser evi-
+dente que la cantidad de movimiento total inicial del sistem es cero, así que la canti-
+dad de movimiento final también deberá ser cero. Por lo tanto, escribimos
+(La cantidad de movimiento del resorte “ligero” no entra en las ecuaciones porque su ma-
+sa es insignificante.) Entonces,
+lo cual significa que las cantidades de movimiento de m
+1 y m2 son iguales y opuestas. Si usa-
+mos signos direccionales (donde /H11001indica la dirección a la derecha en la figura), obtenemos
+y
+Por lo tanto, la velocidad de m2 es 0.90 m/s en la dirección x positiva, o bien, a la derecha
+en la figura. Este valor es la mitad de v1, lo cual era de esperarse porque m2 tiene el doble
+de masa que m1.
+Ejercicio de refuerzo. a) Suponga que el bloque grande de la figura 6.9 está pegado a la
+superficie terrestre, de manera que no puede moverse cuando se quema el hilo. ¿En este
+caso se conservaría la cantidad de movimiento? Explique. b) Dos chicas, ambas con masa
+de 50 kg, están paradas sobre patinetas en reposo, y la fricción es insignificante. Una de
+ellas lanza una pelota de 2.5 kg a la segunda. Si la rapidez de la pelota es 10 m/s, ¿qué ra-
+pidez tendrá cada chica una vez atrapada la pelota, y qué cantidad de movimiento tiene
+la pelota antes de lanzarse, cuando está en el aire y después de ser atrapada?
+v
+2 =- ¢ m1
+m2
+≤v1 =- a
+1.0 kg
+2.0 kgb1-1.8 m>s2 =+ 0.90 m>s
+m2
+ v2 =- m1
+ v1
+p
+S
+2 =- p
+S
+1
+P
+S
+o = P
+S
+= 0 y P
+S
+= p
+S
+1 + p
+S
+2 = 0
+1P
+S
+o2
+ v1 =- 1.8 m>s
+ m2 = 2.0 kg
+ m1 = 1.0 kg
+Exploración 8.6 Un choque explosivo
+
+6.3 Conservación de la cantidad de movimiento lineal 189
+Ejemplo integrado 6.7 ■ Conservación de la cantidad de movimiento
+lineal: fragmentos y componentes
+Una bala de 30 g con una rapidez de 400 m/s golpea de refilón un ladrillo cuya masa es
+de 1.0 kg. El tabique se rompe en dos fragmentos. La bala se desvía con un ángulo de
+30° por arriba del eje +x y su rapidez se reduce a 100 m/s. Un trozo del ladrillo (con ma-
+sa de 0.75 kg) sale despedido hacia la derecha, que era la dirección inicial de la bala, con
+una rapidez de 5.0 m/s. a) Considerando el eje x a la derecha, ¿el otro trozo del ladrillo
+se moverá en 1) el segundo cuadrante, 2) el tercer cuadrante o 3) el cuarto cuadrante. 
+b) Determine la rapidez y la dirección del otro trozo del ladrillo inmediatamente des-
+pués del choque (despreciando la gravedad).
+a) Razonamiento conceptual. Podemos aplicar la conservación de la cantidad de mo-
+vimiento lineal porque no hay una fuerza externa neta que actúe sobre el sistema ladri-
+llo /H11001bala. Inicialmente toda la cantidad de movimiento es hacia adelante en la
+dirección /H11001x (▼figura 6.10). Después, un trozo del ladrillo sale volando en la dirección
+/H11001x; y la bala en un ángulo de 30° con respecto al eje x. La cantidad de movimiento de
+la bala tiene un componente y positivo, de manera que el otro trozo del ladrillo debe
+tener un componente y negativo porque no hay cantidad de movimiento inicial en la
+dirección y. Por lo tanto, con la cantidad de movimiento total en la dirección /H11001x (antes
+y después), la respuesta es 3 o el cuarto cuadrante.
+b) Razonamiento cuantitativo y solución. Hay un objeto con cantidad de movimiento
+antes del choque (la bala) y tres con cantidad de movimiento después (la bala y dos
+fragmentos). Por la conservación de la cantidad de movimiento lineal, la cantidad de
+movimiento total (vectorial) después del choque es igual a la cantidad de movimiento
+antes del choque. Con frecuencia, ayuda mucho un diagrama de la situación con los
+vectores descompuestos en forma de componentes (figura 6.10). Y aplicando la conser-
+vación de la cantidad de movimiento lineal obtendríamos la velocidad (rapidez y direc-
+ción) del segundo fragmento.
+Dado: Encuentre:v
+2 (rapidez del fragmento
+(rapidez inicial de la bala) más pequeño) 
+(rapidez final de la bala) /H92582 (dirección del fragmento
+(ángulo final de la bala) relativa a la dirección
+(masa del tabique) original de la bala)
+y /H9258/H110050º (masa y ángulo 
+del fragmento grande)
+(masa del fragmento pequeño)
+Al no haber fuerzas externas (se desprecia la gravedad), se conserva la cantidad de movi-
+miento lineal total. Por lo tanto, escribimos los componentes x y y de la cantidad de mo-
+vimiento total, antes y después, como sigue (véase la figura 6.10):
+antes después
+x: mb
+ vbo = mb
+ vb cos ub + m1
+ v1 + m2
+ v2 cos u2
+y:     0 = mb
+ vb sen ub - m2
+ v2 sen u2
+ m2 = 0.25 kg
+ v1 = 5.0 m>s
+ m1 = 0.75 kg
+ M = 1.0 kg
+ ub = 30°
+ vb = 100 m>s
+ vbo = 400 m>s
+ mb = 30 g = 0.030 kg
+x
+u2
+y
+30°
+Antes Después
+vbo
+vb
+vb
+vby
+vbx
+v1
+v2xv2y
+v2
+v1
+v2
+θ2
+30°
+> FIGURA 6.10 Choque de refilón
+En un sistema aislado, se conserva
+la cantidad de movimiento. Podemos
+analizar el movimiento en dos 
+dimensiones en términos de los
+componentes de la cantidad de 
+movimiento, que también se 
+conservan. Véase el Ejemplo 
+integrado 6.7.   
+(continúa en la siguiente página)
+
+190 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+Reacomodamos la ecuación de x y despejamos la magnitud de la velocidad x del frag-
+mento menor:
+Asimismo, de la ecuación para y podemos despejar la magnitud del componente y de la
+velocidad del fragmento menor:
+En forma de cociente,
+Entonces,
+luego, de la ecuación para x,
+Ejercicio de refuerzo. ¿Se conserva la energía cinética en el choque de este ejemplo? Si no,
+¿qué pasó con la energía?
+Ejemplo 6.8 ■ Física en el hielo
+Una física es bajada desde un helicóptero al centro de un lago congelado liso y horizontal,
+cuya superficie tiene fricción insignificante, con la misión de llegar a la orilla del lago. Es
+imposible caminar. (¿Por qué?) Al meditar acerca del aprieto en que se encuentra, decide
+usar la conservación de la cantidad de movimiento y aventar sus guantes, que son pe-
+sados e idénticos, y así conseguir la cantidad de movimiento necesaria para llegar a la 
+orilla. Para lograrlo más rápidamente, ¿qué deberá hacer esta astuta científica: aventar
+ambos guantes a la vez, o aventarlos con la misma rapidez primero uno y luego el otro?
+Razonamiento. La cantidad de movimiento inicial del sistema (física y guantes) es cero. Al
+no haber una fuerza externa neta, por la conservación de la cantidad de movimiento, este va-
+lor seguirá siendo cero, así que, si la física lanza los guantes en una dirección, se moverá en la
+dirección contraria (porque la suma de vectores de cantidad de movimiento en direcciones
+opuestas puede dar cero). Entonces, ¿qué forma de lanzarlos les daría mayor velocidad? Si
+ambos guantes se lanzan juntos, la magnitud de su cantidad de movimiento será 2mv, don-
+de v es relativa al hielo y m es la masa de un guante.
+Si se lanzan individualmente, el primer guante tendrá una cantidad de movimiento
+de mv. Así, la persona y el segundo guante estarían en movimiento, y el lanzamiento del
+segundo guante daría un poco más de cantidad de movimiento a la persona, incremen-
+tando su rapidez; pero, ¿su rapidez ahora sería mayor que si hubiera lanzado ambos
+guantes simultáneamente? Analicemos las condiciones del segundo lanzamiento. Des-
+pués de lanzar el primer guante, el “sistema” de la persona tiene menos masa. Al ser me-
+nor la masa, el segundo lanzamiento producirá una mayor aceleración. Por otro lado, des-
+pués del primer lanzamiento, el segundo guante se está moviendo con la persona, y cuan-
+do se lance en la dirección opuesta, el guante tendrá una velocidad menor que v relativa
+al hielo (o a un observador estacionario). Entonces, ¿qué efecto será mayor? ¿Qué piensa
+el lector? Algunas situaciones son difíciles de analizar intuitivamente y se vuelve necesa-
+rio aplicar principios científicos para entenderlas.
+Solución.
+Dado: de un guante Encuentre: qué método de lanzar guantes da
+de la persona mayor rapidez a la persona
+del o los guantes 
+lanzados, en la dirección negativa
+de la persona
+en la dirección positiva
+ Vp = velocidad
+ - v = velocidad
+ M = masa
+ m = masa
+v2 =
+23 m>s
+cos 15° =
+23 m>s
+0.97 = 24 m>s
+u2 = tan-110.262 = 15°
+(donde los términos v2 se cancelan y sen u2
+cos u2
+= tan u2).
+v2 sen u2
+v2 cos u2
+=
+6.0 m>s
+23 m>s
+= 0.26 = tan u2
+v2 sen u2 = mb
+ vb sen ub
+m2
+=
+13.0 * 10-2 kg21102 m>s210.502
+0.25 kg
+= 6.0 m>s
+= 23 m>s
+=
+13.0 * 10-2 kg214.0 * 102 m>s2 -13.0 * 10-2 kg21102 m>s210.8662 -10.75 kg215.0 m>s2
+0.25 kg
+v2 cos u2 =
+mb
+ vbo - mb
+ vb cos ub - m1
+ v1
+m2
+
+6.4 Choques elásticos e inelásticos 191
+Si los guantes se arrojan juntos, por la conservación de la cantidad de movimiento,
+(lanzados juntos) (1)
+Si se avientan individualmente,
+(lanzados separados) (2)
+Observe que, en el término m, las cantidades entre paréntesis representan que la velo-
+cidad del guante es relativa al hielo. Con una velocidad inicial de /H11001Vp1
+después de ha-
+berse lanzado el primer guante en la dirección negativa, tenemos Vp1
+/H11002v. (Recorde-
+mos lo visto sobre velocidades relativas en el capítulo 3.)
+Despejamos Vp2
+:
+(3)
+donde hemos sustituido Vp1
+según la ecuación (2) para el primer lanzamiento.
+Entonces, si los guantes se lanzan juntos (ecuación 1),
+así que la cuestión es si el resultado de la ecuación (3) es mayor o menor que el de la ecua-
+ción (1). Por tener un denominador mayor, el término m/(M /H11001m) de la ecuación (3) es
+menor que el término m/M, así que,
+y, por lo tanto, Vp /H11022Vp2, es decir, (lanzados juntos) /H11022(lanzados por separado).
+Ejercicio de refuerzo.Supongamos que el segundo lanzamiento se efectuó en la dirección de
+la velocidad de la física después del primer lanzamiento. ¿Hará eso que la física se detenga?
+Como señalamos, la conservación de la cantidad de movimiento es útil para anali-
+zar los choques de objetos que van desde partículas subatómicas hasta automóviles en
+accidentes de tránsito. No obstante, en muchos casos podrían actuar fuerzas externas
+sobre los objetos, lo cual significa que no se conserva la cantidad de movimiento.
+Sin embargo, como veremos en la siguiente sección, la conservación de la cantidad
+de movimiento con frecuencia permite obtener una buena aproximación en el corto 
+lapso de un choque, ya que las fuerzas internas (para las cuales se conserva la cantidad
+de movimiento) son mucho mayores que las externas. Por ejemplo, fuerzas externas
+como la gravedad y la fricción también actúan sobre los objetos que chocan, pero sue-
+len ser relativamente pequeñas en comparación con las fuerzas internas. (Este concep-
+to estaba implícito en el ejemplo 6.7.) Por lo tanto, si los objetos sólo interactúan
+durante un tiempo breve, los efectos de las fuerzas externas podrían ser insignificantes
+en comparación con los de las fuerzas internas durante ese lapso y así usaríamos co-
+rrectamente la conservación de la cantidad de movimiento lineal.
+6.4 Choques elásticos e inelásticos
+OBJETIVO: Describir las condiciones de la energía cinética y cantidad de movi-
+miento durante choques elásticos e inelásticos.
+En general, un choque se define como un encuentro o interacción de partículas u ob-
+jetos que provoca un intercambio de energía y/o de cantidad de movimiento. Es más
+fácil examinar de cerca los choques en términos de la cantidad de movimiento si con-
+sideramos un sistema aislado, como un sistema de partículas (o pelotas) que intervienen
+en choques de frente. Por sencillez, sólo consideraremos choques en una di mensión.
+También podemos analizar esos choques en términos de la conservación de la ener-
+gía. Con base en lo que sucede a la energía cinética total, definimos dos tipos de cho-
+ques: elásticos e inelásticos.
+a m
+M + m + m
+Mb 6 2m
+M
+Vp = a 2m
+Mb v
+Vp2 = Vp1 + a m
+Mbv = mv
+M + m + a m
+Mbv = a m
+M + m + m
+Mb v
+Segundo lanzamiento: 1M + m2Vp1 = m1Vp1 - v2 + MVp2
+Primer lanzamiento: 0 = m1- v2 +1M + m2Vp1   y   Vp1 = mv
+M + m
+0 = 2m1-v2 + MVp y Vp = 2mv
+M
+
+192 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+N FIGURA 6.11 Choques
+a) Choques aproximadamente
+elásticos. b) Choque inelástico.
+Choque inelástico: no se conserva
+la energía cinética total, pero sí la
+cantidad de movimiento
+En un choque elástico, se conserva la energía cinética total. Es decir, la energía ciné-
+tica total de todos los objetos del sistema después del choque es igual a su energía ci-
+nética total antes del choque (▲figura 6.11a). Podría intercambiarse energía cinética entre
+los objetos del sistema; pero la energía cinética total del sistema permanecerá constante.
+Por lo tanto,
+(6.8)
+Durante un choque así, parte de la energía cinética inicial, o toda, se convierte tempo-
+ralmente en energía potencial al deformarse los objetos. Sin embargo, después de efec-
+tuarse las deformaciones máximas, los objetos recuperan elásticamente sus formas
+originales y el sistema recupera toda su energía cinética original. Por ejemplo, dos es-
+feras de acero o dos bolas de billar podrían tener un choque casi elástico, recuperando
+ambas la forma que tenían antes; es decir, no hay deformación permanente.
+En un choque inelástico (figura 6.11b), no se conserva la energía cinética total. Por
+ejemplo, uno o más de los objetos que chocan podría no recuperar su forma original, o po-
+dría generarse calor por la fricción o sonido, y se pierde algo de energía cinética. Entonces,
+(6.9)
+Por ejemplo, una esfera hueca de aluminio que choca contra una esfera sólida de acero
+podría abollarse. Deformar permanentemente un objeto requiere trabajo, y ese trabajo
+se efectúa a expensas de la energía cinética original del sistema. Los choques cotidia-
+nos son inelásticos.
+En sistemas aislados, se conserva la cantidad de movimiento, tanto en los cho-
+ques elásticos como en los inelásticos. En un choque inelástico, podría perderse sólo una
+cantidad de energía cinética congruente con la conservación de la cantidad de movimiento.
+Quizá suene contradictorio que se pierda energía cinética y se conserve la cantidad de
+movimiento; pero es un caso más de la diferencia entre las cantidades escalares y vec-
+toriales.
+Cantidad de movimiento y energía en choques inelásticos
+Para ver cómo la cantidad de movimiento puede mantenerse constante mientras cam-
+bia (disminuye) la energía cinética en los choques inelásticos, consideremos los ejem-
+plos que se ilustran en la 
+▼figura 6.12. En la figura 6.12a, dos esferas de igual masas
+(m1 /H11005m2) se acercan con velocidades iguales y opuestas ( v1o /H11005v2o). Por lo tanto, la
+cantidad de movimiento total antes del choque es (vectorialmente) cero, pero la ener-
+gía cinética total (escalar) no es cero. Después del choque, las esferas se quedan pega-
+das y estacionarias, así que la cantidad de movimiento total no ha cambiado: sigue
+siendo cero. La cantidad de movimiento se conserva porque las fuerzas de choque
+son internas al sistema de las dos esferas; por lo tanto, no actúa una fuerza externa ne-
+ta sobre el sistema. La energía cinética total, en cambio, se ha reducido a cero. En este
+caso, una parte de la energía cinética se invirtió en el trabajo efectuado para deformar
+permanentemente las esferas. Otra parte podría haberse invertido en efectuar trabajo
+Kf 6 Ki
+Kf = Ki
+Nota: en realidad, sólo los átomos
+y las partículas subatómicas pueden
+tener choques verdaderamente
+elásticos, pero algunos objetos 
+duros más grandes tienen choques
+casi elásticos, en los cuales 
+aproximadamente se conserva 
+la energía cinética.
+Choque elástico: la energía cinética
+total se conserva, lo mismo que la
+cantidad de movimiento
+Exploración 8.4 Choques elásticos 
+e inelásticos y ¢p
+S
+(condición para 
+un choque elástico)
+(condición para 
+un choque elástico)
+K total antes /H11005K total después
+K total antes /H11005K total después
+
+6.4 Choques elásticos e inelásticos 193
+Choque
+Po = p1o+ p2o = m1v1o 
+– m2v2o 
+= 0
+Antes
+v1o v2o
+a)
+Después
+m1 m2 m2m1
+m1
+Ki ≠ 0
+P
+ 
+= 0
+Kf = 0
+v1 
+= v2 
+= 0
+Po = p1o = (m1v1o)x
+v1o
+b)
+m1 m2
+Ki ≠ 0
+v
+P = p1 
++ p2 = (m1 + m2)vx
+  
+= Po
+Kf ≠ 0, Kf < Ki
+m2
+n n
+> FIGURA 6.12 Choques inelásticos
+En los choques inelásticos, se 
+conserva la cantidad de movimiento,
+pero no la energía cinética. 
+Los choques como éstos, en los 
+que los objetos se quedan pegados,
+se denominan choques totalmente
+(o perfectamente) inelásticos. 
+El máximo de energía cinética 
+perdida es congruente con la ley 
+de conservación de la cantidad de
+movimiento.
+contra la fricción (produciendo calor) o quizá se perdió de alguna otra manera (gene-
+rando sonido, por ejemplo).
+Note que las esferas no tienen que quedar pegadas después del choque. En un cho-
+que menos inelástico, las esferas podrían rebotar en direcciones opuestas con una mer-
+ma en su rapidez, pero ambas seguirán teniendo la misma. La cantidad de movimiento
+se conservaría (seguiría siendo igual a cero; ¿por qué?). Sin embargo, una vez más, no se
+conservaría la energía cinética. En todas las condiciones, la cantidad de energía cinética
+perdida debe ser congruente con la conservación de la cantidad de movimiento.
+En la figura 6.12b, una esfera está inicialmente en reposo mientras la otra se acer-
+ca. Las esferas quedan pegadas después del choque, pero en movimiento. Ambos 
+casos son ejemplos de un choque totalmente inelástico, donde los objetos quedan pe-
+gados, de manera que ambos tienen la misma velocidad después de chocar. El acopla-
+miento de vagones de ferrocarril al chocar es un ejemplo práctico de un choque
+totalmente inelástico.
+Supongamos que las esferas de la figura 6.12b tienen diferentes masas. Puesto que
+la cantidad de movimiento se conserva incluso en choques inelásticos,
+antes después
+y
+(6.10)
+Entonces, v es menor que v1o, ya que m1/(m1 /H11001m2) debe ser menor que 1. Consideremos
+ahora cuánta energía cinética se ha perdido. Inicialmente, al final, después
+del choque:
+Si sustituimos v de la ecuación 6.10 y simplificamos el resultado, obtenemos
+ = ¢ m1
+m1 + m2
+≤  
+1
+2 m1
+ v1o
+2 = ¢ m1
+m1 + m2
+≤ Ki
+ Kf = 1
+2 1m1 + m22¢
+m1
+ v1o
+m1 + m2
+≤
+2
+=
+1
+2 m1
+2v1o
+2
+m1 + m2
+Kf = 1
+2 1m1 + m22v2
+Ki = 1
+2 m1
+ vo
+2 ,
+v = ¢ m1
+m1 + m2
+≤ v1o
+m1
+ v1o =1m1 + m22v
+(m2  inicialmente en reposo, sólo
+choque totalmente inelástico)
+
+194 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+y
+(6.11)
+La ecuación 6.11 da la fracción de la energía cinética inicial, que queda en el sis-
+tema después de un choque totalmente inelástico. Por ejemplo, si las masas de las es-
+feras son iguales ( m
+1 /H11005m2), entonces y o 
+Es decir, sólo se pierde la mitad de la energía cinética inicial.
+Observe que, en este caso, no se puede perder toda la energía cinética, sean cuales
+fueren las masas de las esferas. La cantidad de movimiento total después del choque
+no puede ser cero, porque inicialmente no era cero. Por lo tanto, después del choque,
+las masas deberán estar en movimiento y deberán tener cierta energía cinética (K
+f /HS110050).
+En un choque totalmente inelástico, se pierde el máximo de energía cinética que es congruente
+con la conservación de la cantidad de movimiento.
+Ejemplo 6.9 ■ Pegadas: choque totalmente inelástico
+Una esfera de 1.0 kg con una rapidez de 4.5 m/s golpea una esfera estacionaria de 2.0 kg.
+Si el choque es totalmente inelástico, a) ¿qué rapidez tienen las esferas después del cho-
+que? b) ¿Qué porcentaje de la energía cinética inicial tienen las esferas después del choque?
+c) Calcule la cantidad de movimiento total después del choque.
+Razonamiento. Veamos el choque totalmente inelástico. Las esferas quedan pegadas des-
+pués del choque; no se conserva la energía cinética, pero la cantidad de movimiento total sí.
+Solución. Utilizamos el mismo desarrollo que en la explicación anterior, así que
+Dado: Encuentre: a) v (rapidez después del choque)
+b)
+ vo = 4.5 m>s
+Kf
+Ki
+  1* 100%2 m2 = 2.0 kg
+ m1 = 1.0 kg
+Kf = Ki>2.Kf>Ki = 1
+2 ,m1>1m1 + m22 = 1
+2 ,
+Kf
+Ki
+= m1
+m1 + m2
+c) (cantidad de movimiento total después  
+del choque)
+P
+S
+f
+a) Se conserva la cantidad de movimiento, así que
+Las esferas quedan pegadas y tienen la misma rapidez después del choque. Esa rapidez es
+b) La fracción de la energía cinética inicial que las esferas tienen después del choque to-
+talmente inelástico está dada por la ecuación 6.11. Esa fracción, dada por las masas, es la
+misma que la de las rapideces (ecuación 6.10). Así escribimos
+Mostremos explícitamente esta relación:
+Hay que tener en cuenta que la ecuación 6.11 es válida únicamente para choques totalmen-
+te inelásticos, donde m
+2 está en reposo al inicio. En otros tipos de choques, los valores ini-
+cial y final de la energía cinética se deben calcular explícitamente.
+c) La cantidad de movimiento total se conserva en todos los choques (si no hay fuerzas
+externas), así que la cantidad de movimiento total después del choque es la misma que
+antes. Ese valor es la cantidad de movimiento de la esfera incidente, cuya magnitud es
+y tiene la misma dirección que la velocidad de la esfera incidente. También, como com-
+probación adicional,
+Ejercicio de refuerzo. Una pequeña esfera de metal duro con masa m choca contra una
+estacionaria mayor, con masa M, hecha de un metal blando. Se requiere una cantidad mí-
+nima de trabajo W para abollar la esfera mayor. Si la esfera menor tiene una energía ciné-
+tica inicial K /H11005W, ¿la mayor se abollará en un choque totalmente inelástico entre ambas?
+Pf =1m1 + m22v = 4.5 kg # m>s.
+Pf = p1o = m1
+ vo =11.0 kg214.5 m>s2 = 4.5 kg # m>s
+Kf
+Ki
+=
+1
+2 1m1 + m22v2
+1
+2 m1
+ vo
+2 =
+1
+2 11.0 kg + 2.0 kg211.5 m>s22
+1
+2 11.0 kg214.5 m>s22 = 0.33 1= 33%2
+Kf
+Ki
+= m1
+m1 + m2
+=
+1.0 kg
+1.0 kg + 2.0 kg = 1
+3 = 0.331* 100%2 = 33%
+v = ¢ m1
+m1 + m2
+≤vo = a
+1.0 kg
+1.0 kg + 2.0 kgb14.5 m>s2 = 1.5 m>s
+P
+S
+f = P
+S
+o o 1m1 + m22v = m1
+ vo
+Exploración 8.3 Choque inelástico
+con masas desconocidas
+(m2  inicialmente en reposo, sólo
+choque totalmente inelástico)
+
+6.4 Choques elásticos e inelásticos 195
+v1o v2om1 m2
+> FIGURA 6.13 Choque elástico
+Dos objetos viajan antes de chocar
+con v
+1o /H11022v2o. Véase el texto para 
+la descripción.
+Cantidad de movimiento y energía en choques elásticos
+En los choques elásticos hay dos criterios de conservación: la conservación de la canti-
+dad de movimiento (que es válida para choques tanto elásticos como inelásticos) y la
+conservación de la energía cinética (únicamente para choques elásticos). Es decir, en un
+choque elástico general entre dos objetos,
+antes después
+(6.12)
+(6.13)
+La ▲figura 6.13 ilustra dos objetos que viajan antes de un choque de frente, unidimen-
+sional, con (ambos en la dirección x positiva). Para esta situación de dos objetos, 
+escribimos
+antes después
+(1)
+(donde los signos se utilizan para indicar las direcciones y las v indican magnitudes).
+(2)
+Si conocemos las masas y las velocidades iniciales de los objetos (lo cual por lo ge-
+neral es el caso), entonces hay dos cantidades desconocidas: las velocidades finales
+después del choque. Para calcularlas se resuelven simultáneamente las ecuaciones (1)
+y (2). Primero, la ecuación de conservación de la cantidad de movimiento se escribe 
+como sigue:
+(3)
+Luego, cancelando los términos en (2), reordenando y factorizando 
+(4)
+Al dividir la ecuación (4) entre (3), obtenemos:
+(5)
+Esta ecuación muestra que las magnitudes de las velocidades relativas antes y después
+del choque son iguales. Es decir, la rapidez relativa de acercamiento del objeto  m
+1 al ob-
+jeto m2 antes del choque es la misma que su rapidez relativa de alejamiento después del
+choque. (Véase la sección 3.4.) Tenga en cuenta que esta relación es independiente de
+los valores de las masas de los objetos, y es válida para cualquier combinación de masas
+siempre que el choque sea elástico y unidimensional.
+De esta manera, al combinar las ecuaciones (5) y (3) para eliminar v
+2 y obtener v1
+en términos de las dos velocidades iniciales,
+(6.14)
+Asimismo, al eliminar v1 para calcular v2,
+(6.15)
+Un objeto inicialmente en reposo
+Para este caso especial y común, digamos con v2o /H110050, tenemos sólo los primeros térmi-
+nos de las ecuaciones 6.14 y 6.15. Además, si m1 /H11005m2, entonces v1 /H110050 y v2 /H11005v1o. Esto
+es, los objetos intercambian por completo cantidad de movimiento y energía cinética.
+El objeto que llega se detiene en el choque; mientras que el objeto originalmente esta-
+cionario comienza a moverse con la misma velocidad que la pelota que llega, eviden-
+v2 = ¢ 2m1
+m1 + m2
+≤v1o - ¢ m1 - m2
+m1 + m2
+≤ v2o
+v1 = ¢ m1 - m2
+m1 + m2
+≤v1o + ¢ 2m2
+m1 + m2
+≤ v2o
+v1o - v2o =- 1v1 - v22
+m11v1o - v121v1o + v12 =- m21v2o - v221v2o + v22
+1a - b21a + b24:
+3a2 - b2 =1/H209072
+m11v1o - v12 =- m21v2o - v22
+Energía cinética: 1
+2 m1
+ v1o
+2 + 1
+2 m2
+ v2o
+2 = 1
+2 m1
+ v1
+2 + 1
+2 m2
+ v2
+2
+Cantidad de movimiento total: m1
+ v1o + m2
+ v2o = m1
+ v1 + m2
+ v2
+v1o 7 v2o
+ Conservación de la energía cinética K: 1
+2 m1
+ v1o
+2 + 1
+2 m2
+ v2o
+2 = 1
+2 m1
+ v1
+2 + 1
+2 m2
+ v2
+2 Conservación de la cantidad de movimiento P
+S
+: m1
+ v
+S
+1o + m2
+ v
+S
+2o = m1
+ v
+S
+1 + m2
+ v
+S
+2
+Ilustración 8.4 Velocidad relativa 
+en los choques
+
+196 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+temente, conservando la cantidad de movimiento y la energía cinética del sistema. (Un
+ejemplo del mundo real que se asemeja a estas condiciones es el choque de frente de
+las bolas de billar.)
+También es posible obtener algunas aproximaciones para casos especiales a partir
+de las ecuaciones para un objeto inicialmente en reposo (que se considera m
+2):
+Esto es, el objeto masivo que llega, frena sólo levemente y el objeto ligero (menos ma-
+sivo) sale despedido con una velocidad que es casi el doble de la velocidad inicial del
+objeto masivo. (Piense en una bola de bolos que golpea un pino.)
+Esto es, si un objeto ligero (de masa pequeña) choca elásticamente con un objeto masi-
+vo estacionario, este último permanece casi estacionario y el objeto ligero retrocede con
+aproximadamente la misma rapidez que llevaba antes del choque.
+Ejemplo 6.10 ■ Choque elástico: conservación de cantidad 
+de movimiento y energía cinética
+Una bola de billar de 0.30 kg con una rapidez de 2.0 m/s en la dirección x positiva choca
+elásticamente de frente con una bola de billar estacionaria de 0.70 kg. ¿Cuáles son las ve-
+locidades de las bolas después del choque?
+Razonamiento. La bola que llega es menos masiva que la estacionaria, de manera que es-
+peraríamos que los objetos se separaran en direcciones opuestas después del choque, y la
+menos masiva retrocediera de la más masiva. Las ecuaciones 6.15 y 6.16 nos darán las ve-
+locidades, con 
+Solución. Utilizamos la notación acostumbrada para escribir
+Dado: y Encuentre: y 
+y 
+Las ecuaciones 6.13 y 6.14 nos dan directamente las velocidades después del choque:
+Ejercicio de refuerzo. ¿Qué separación tendrían los objetos 2.5 s después del choque?
+Dos objetos que chocan, ambos inicialmente en movimiento
+Veamos ahora algunos ejemplos donde se apliquen los términos de las ecuaciones 6.14 
+y 6.15.
+Ejemplo 6.11 ■ Choques: alcance y encuentro
+Las condiciones anteriores a la colisión para dos choques elásticos se ilustran en la Nfi-
+gura 6.14. ¿Cuáles son las velocidades finales en cada caso?
+Razonamiento. Estas colisiones son aplicaciones directas de las ecuaciones 6.14 y 6.15.
+Note que en a el objeto de 4.0 kg alcanzará y chocará contra el objeto de 1.0 kg.
+Solución. Se listan los datos de la figura considerando la dirección /H11001x hacia la derecha.
+Dado: a) Encuentre: v1 y v2 (velocidades después 
+del choque)
+b)
+ m2 = 4.0 kg   v2o =- 6.0 m>s
+ m1 = 2.0 kg   v1o = 6.0 m>s
+ m2 = 1.0 kg   v2o = 5.0 m>s
+ m1 = 4.0 kg   v1o = 10 m>s
+ v2 = ¢ 2m1
+m1 + m2
+≤v1o = c
+210.30 kg2
+0.30 kg + 0.70 kgd12.0 m>s2 = 1.2 m>s
+ v1 = ¢ m1 - m2
+m1 + m2
+≤v1o = a
+0.30 kg - 0.70 kg
+0.30 kg + 0.70 kgb12.0 m>s2 =- 0.80 m>s
+v2o = 0 m2 = 0.70 kg
+v2v1v1o = 2.0 m>s m1 = 0.30 kg
+v2o = 0.
+Para m1 V m2 1pelota ligera que llega2:  v1 L- v1o y v2 L 0
+Para m1 W m2 1pelota masiva que llega2: v1 L v1o y v2 L 2v1o
+Exploración 8.2 Un choque elástico
+
+6.4 Choques elásticos e inelásticos 197
+v1o /H11005 /H11001 10 m/s v2o /H11005 /H11001 5.0 m/s
+m1 m2
+m2 = 1.0 kg
+m1 = 4.0 kg
+a)
+v1o /H11005 /H11001 6.0 m/s
+m2 /H11005 4.0 kg
+m1 m2
+v2o /H11005 /H11002 6.0 m/s
+m1 /H11005 2.0 kg
+b)
+Entonces, al sustituir en las ecuaciones del choque,
+a) Ecuación 6.14:
+De manera similar, la ecuación 6.15 da:
+Así, el objeto más masivo alcanza y choca contra el menos masivo, transfiriéndole canti-
+dad de movimiento (incrementando su velocidad).
+b) Al aplicar las ecuaciones del choque para esta situación, tenemos (ecuación 6.14):
+De forma similar, la ecuación 6.15 da
+Aquí, el objeto menos masivo va en dirección contraria (negativa) después del choque,
+con una mayor cantidad de movimiento obtenida a partir del objeto más masivo.
+Ejercicio de refuerzo. Demuestre que en los incisos a y b de este ejercicio, la cantidad de
+movimiento que gana un objeto es la misma que la que pierde el otro.
+Ejemplo integrado 6.12 ■ Igual y opuesto
+Dos pelotas de igual masa, con velocidades iguales pero opuestas, se aproximan entre sí
+para un choque de frente y elástico. a) Después del choque, las pelotas: 1) permanecen
+juntas, 2) estarán en reposo, 3) se moverán en la misma dirección o 4) retrocederán en di-
+recciones opuestas. b) Demuestre su respuesta de manera explícita.
+a) Razonamiento conceptual. Trace un boceto de la situación. Después, considerando las
+opciones, la número 1 se elimina porque si las pelotas permanecieran juntas, se trataría de
+un choque inelástico. Si ambas llegaran al reposo después del choque, se conservaría la
+cantidad de movimiento (¿por qué?), pero no la energía cinética; de manera que la opción
+2 no es aplicable para una colisión elástica. Si ambas pelotas se movieran en la misma di-
+rección después del choque, la cantidad de movimiento no se conservaría (cero antes, 
+diferente de cero después). La respuesta correcta es la número 4. Ésta es la única opción
+en la cual se conservan la cantidad de movimiento y la energía cinética. Para mantener la
+cantidad de movimiento cero anterior al choque, los objetos tendrían que retroceder en
+direcciones opuestas con la misma rapidez que llevaban antes de chocar.
+v
+2 = 2.0 m>s
+ =- A
+1
+3B6.0 m>s + A
+4
+3B1-6.0 m>s2 =- 10 m>s
+ v1 = a
+2.0 kg - 4.0 kg
+2.0 kg + 4.0 kgb6.0 m>s + a
+234.0 kg4
+2.0 kg + 4.0 kgb1-6.0 kg2
+v2 = 13 m>s
+ = 3
+5 110 m>s2 + 2
+5 15.0 m>s2 = 8.0 m>s
+ =a
+4.0 kg - 1.0 kg
+4.0 kg + 1.0 kgb10 m>s +a
+231.0 kg4
+4.0 kg + 1.0 kgb5.0 m>s
+ v1 =¢m1 - m2
+m1 + m2
+≤v1o +¢ 2m2
+m1 + m2
+≤ v2o
+> FIGURA 6.14 Choques: 
+a) Alcance y b) encuentro
+Véase el ejemplo 6.11.
+(continúa en la siguiente página)
+
+198 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+▲ FIGURA 6.15 Llega una, sale una
+Véase el Ejemplo conceptual 6.13.
+b) Razonamiento cuantitativo y solución. Para demostrar de manera explícita que la op-
+ción 4 es correcta, se utilizarán las ecuaciones 6.13 y 6.14. Como no se dan valores numé-
+ricos, trabajaremos con símbolos.
+Dado: (tomando m
+1 como la pelota que Encuentre: y 
+viaja inicialmente en la dirección /H11001x)
+y (con igual rapidez)
+Luego, al sustituir en las ecuaciones 6.14 y 6.15, sin copiar éstas [véase el inciso a en el
+ejemplo 6.11],
+y
+A partir de los resultados, se observa que las pelotas retroceden en direcciones opuestas
+después del choque.
+Ejercicio de refuerzo. Demuestre que la cantidad de movimiento y la energía cinética
+se conservan en este ejemplo.
+Ejemplo conceptual 6.13 ■ ¿Llegan dos, sale una?
+Un novedoso dispositivo de choque >figura 6.15 consiste en cinco esferas metálicas idén-
+ticas. Cuando una esfera se balancea, luego de múltiples choques, otra esfera sale despe-
+dida por el otro extremo de la hilera de esferas. Si se balancean dos esferas, saldrán dos en
+el otro extremo; si llegan tres, salen tres, etc.; siempre sale el mismo número que llega.
+Suponga que dos esferas, cada una con masa m, llegan columpiándose con una velo-
+cidad v y chocan con la siguiente esfera. ¿Por qué no sale una sola esfera por el otro extre-
+mo con velocidad 2v?
+Razonamiento y respuesta. Los choques en la fila horizontal de esferas son aproximada-
+mente elásticos. El caso en que llegan dos esferas y sale una sola con el doble de la velocidad
+no violaría la conservación de la cantidad de movimiento: (2m)v /H11005m(2v). Sin embargo, hay
+otra condición que debe cumplirse si suponemos choques elásticos: la conservación de la
+energía cinética. Veamos si tal condición se cumple en este caso:
+antes después
+Por lo tanto, la energía cinética no se conservaría si sucediera esto, y la ecuación nos está
+diciendo que esta situación infringe los principios establecidos de la física y no se da. La
+trasgresión es importante: sale más energía de la que entra.
+Ejercicio de refuerzo. Supongamos que la primera esfera de masa m se sustituye por una
+esfera con masa 2m. Si tiramos de esta esfera hacia atrás y luego la soltamos, cuántas esfe-
+ras saldrán empujadas por el otro lado? [ Sugerencia: piense en la situación análoga en la 
+figura 6.14a y recuerde que las esferas de la fila están chocando. Podría ser conveniente
+considerarlas como separadas.]
+6.5 Centro de masa
+OBJETIVOS: a) Explicar el concepto de centro de masa y calcular su posición en
+sistemas sencillos y b) describir la relación entre el centro de masa y
+el centro de gravedad.
+La conservación de la cantidad de movimiento total nos brinda un método para ana-
+lizar un “sistema de partículas”. Tal sistema sería prácticamente cualquier cosa; por
+ejemplo, un volumen de gas, agua en un recipiente o una pelota de béisbol. Otro con-
+cepto importante, el de centro de masa, nos permite analizar el movimiento global de un
+sistema de partículas. Ello implica representar todo el sistema como una sola partícula o
+ mv2 Z 2mv2
+  1
+2 12m2v2 /H113681
+2 m12v22
+ Ki = Kf
+v2 = a 2m
+2mb v1o + a 0
+2mb1- v2o2 = v1o
+v1 = a 0
+2mb v1o + a 2m
+2mb1-v2o2 =- v2o
+-v2ov1o
+v2v1m1 = m2 = m
+Exploración 8.5 Choques de dos 
+y tres esferas
+
+6.5 Centro de masa 199
+masa puntual. Aquí haremos una introducción al concepto y lo aplicaremos con mayor
+detalle en los siguientes capítulos.
+Ya vimos que si no hay una fuerza externa neta que actúe sobre una partícula, la
+cantidad de movimiento lineal de la partícula es constante. Asimismo, si no hay una
+fuerza externa neta que actúe sobre un sistema de partículas, la cantidad de movimiento
+lineal del sistema es constante. Esta similitud implica que un sistema de partículas po-
+dría representarse con una partícula individual equivalente. Los objetos rígidos en movi-
+miento, como pelotas, automóviles, etc., son en esencia sistemas de partículas y pueden
+representarse eficazmente con partículas individuales equivalentes en un análisis de
+movimiento. Tal representación aprovecha el concepto de centro de masa (CM):
+El centro de masa es el punto en que puede considerarse concentrada toda la
+masa de un objeto o sistema, únicamente en lo que se refiere a movimiento li-
+neal o de traslación.
+Incluso si un objeto rígido está girando, un resultado importante (cuya deducción
+rebasa el alcance de este libro) es que el centro de masa aún se mueve como si fuera
+una partícula (
+▼figura 6.16). Es común describir el centro de masa como el punto de
+equilibrio de un objeto sólido. Por ejemplo, si equilibramos un metro sobre un dedo, el
+centro de masa del metro estará situado directamente arriba del dedo, y parecerá como
+si toda la masa (o el peso) estuviera concentrado ahí.
+Si usamos el centro de masa, aplicamos una expresión similar a la segunda ley de
+Newton para una sola partícula para analizar un sistema:
+(6.16)
+Aquí, es la fuerza externa neta que actúa sobre el sistema, M es la masa total del 
+sistema, o la suma de las masas de las partículas del sistema ( M /H11005m
+1 /H11001m2 /H11001m3 /H11001···
+/H11001mn, donde el sistema tiene n partículas), y es la aceleración del centro de masa
+del sistema. En palabras, la ecuación 6.17 indica que el centro de masa de un sistema de
+partículas se mueve como si toda la masa del sistema estuviera concentrada ahí y 
+la resultante de las fuerzas externas actuara sobre ese punto. La ecuación 6.16 no predi-
+ce el movimiento de partes individuales del sistema.
+De lo anterior se sigue que, si la fuerza externa neta que actúa sobre un sistema es cero,
+se conserva la cantidad de movimiento lineal total del centro de masa (es decir, se
+mantiene constante) porque
+(6.17)
+Entonces, lo cual implica que no hay cambio en durante un tiempo 
+es decir, que la cantidad de movimiento total del sistema, es constante
+(pero no necesariamente cero). Dado que M es constante (¿por qué?), es constan-
+te en este caso. Por lo tanto, el centro de masa se mueve con velocidad constante, o
+bien, está en reposo.
+V
+S
+CM
+P
+S
+= MV
+S
+CM ,
+¢t,P
+S
+¢P
+S
+>¢t = 0,
+F
+S
+neta = MA
+S
+CM = M¢¢V
+S
+CM
+¢t ≤ =
+¢1MV
+S
+CM2
+¢t = ¢P
+S
+¢t = 0
+A
+S
+CM
+F
+S
+neta
+F
+S
+neta = MA
+S
+CM
+> FIGURA 6.16 Centro de masa
+El centro de masa de esta llave
+inglesa que se desliza se mueve 
+en línea recta como si fuera una
+partícula. Observe el punto blanco
+que indica el centro de masa de 
+la llave.
+
+200 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+xm3 m1 m2
+x3 x2
+x1
+0
+N FIGURA 6.17 Sistema de
+partículas en una dimensión
+¿Dónde está el centro de masa del
+sistema? Véase el ejemplo 6.14.
+Aunque es más fácil visualizar el centro de masa de un objeto sólido, el concepto
+es válido para cualquier sistema de partículas u objetos, incluso una cantidad de gas.
+Para un sistema de n partículas dispuestas en una dimensión sobre el eje x (
+▼figura
+6.17), la ubicación del centro de masa está dada por
+(6.18)
+Es decir, XCM es la coordenada x del centro de masa de un sistema de partículas. En no-
+tación abreviada (empleando signos para indicar direcciones vectoriales en una dimen-
+sión), esta relación se expresa como
+(6.19)
+donde /H9018es la sumatoria de los productos m
+ixi para n partículas (i /H110051, 2, 3, …, n). Si
+/H9018mixi /H110050, entonces XCM /H110050, y el centro de masa del sistema unidimensional está si-
+tuado en el origen.
+Otras coordenadas del centro de masa del sistemas de partículas se definen de for-
+ma similar. Para una distribución bidimensional de masas, las coordenadas del centro
+de masa son (X
+CM, YCM).
+Ejemplo 6.14 ■ Determinación del centro de masa: 
+un proceso de sumatoria
+Tres masas, 2.0, 3.0 y 6.0 kg, están en las posiciones (3.0,0), (6.0, 0) y ( /H110024.0,0), respectiva-
+mente, en metros respecto al origen (figura 6.17). ¿Dónde está el centro de masa de este
+sistema?
+Razonamiento. Puesto que yi /H110050, evidentemente YCM /H110050 y el CM está en algún lugar del
+eje x. Se dan las masas y las posiciones, así que usamos la ecuación 6.19 para calcular di-
+rectamente XCM. No obstante, hay que tener presente que las posiciones se ubican con
+desplazamientos vectoriales respecto al origen y se indican en una dimensión con el sig-
+no apropiado (/H11001o /H11002).
+Solución. Se listan los datos, 
+Dado: Encuentre: (coordenada del CM)
+Entonces, basta efectuar la sumatoria indicada por la ecuación 6.19:
+El centro de masa está en el origen.
+Ejercicio de refuerzo. ¿En qué posición debería estar una cuarta masa de 8.0 adicional, de
+manera que el CM esté en x /H11005/H110011.0 m?
+ =
+12.0 kg213.0 m2 +13.0 kg216.0 m2 +16.0 kg21-4.0 m2
+2.0 kg + 3.0 kg + 6.0 kg = 0
+ XCM = g mi
+ xi
+M
+ x3 =- 4.0 m
+ x2 = 6.0 m
+ x1 = 3.0 m
+ m3 = 6.0 kg
+ m2 = 3.0 kg
+XCM m1 = 2.0 kg
+XCM = g mi
+ xi
+M
+X
+S
+CM = m1
+ x
+S
+1 + m2
+ x
+S
+2 + m3
+ x
+S
+3 + Á + mn
+ x
+S
+n
+m1 + m2 + m3 + Á + mn
+Ilustración 8.7 Centro de masa 
+y de gravedad
+
+6.5 Centro de masa 201
+m1 m20.10 m
+0.20 m
+y (m)
+x (m) 
+0.20 0.40 0.60 0.80 1.00 
+> FIGURA 6.18 Ubicación 
+del centro de masa Véase 
+el ejemplo 6.15.
+Ejemplo 6.15 ■ Una mancuerna: repaso del centro de masa
+Una mancuerna ( ▲figura 6.18) tiene una barra conectada de masa insignificante. Deter-
+mine la ubicación del centro de masa a) si m1 y m2 tienen una masa de 5.0 kg cada una, 
+y b) si m1 es de 5.0 kg y m2 es de 10.0 kg.
+Razonamiento. Este ejemplo muestra cómo la ubicación del centro de masa depende de la
+distribución de la masa. En el inciso b, se esperaría que el centro de masa esté más cerca
+del extremo más masivo de la mancuerna.
+Solución. Hacemos una lista de los datos, con las coordenadas de la ecuación 6.19:
+Dado: Encuentre: a) (coordenadas del CM), con 
+b) con 
+Considere que cada masa es como una partícula situada en el centro de la esfera (su cen-
+tro de masa).
+a) está dado por una suma de dos términos.
+Asimismo, vemos que YCM /H110050.10 m. (Esto tal vez fue muy evidente, ya que los dos cen-
+tros de masa están a dicha altura.) El centro de masa de la mancuerna está situado enton-
+ces en (X
+CM, YCM) /H11005(0.55 m, 0.10 m), es decir, en el punto medio entre las dos masas. 
+b) Con 
+que queda a las dos terceras partes de la distancia entre las masas. (Observe que la distan-
+cia entre el CM y el centro de m1 es /H9004x /H110050.67 m /H110020.20 m /H110050.47 m. Dada la distancia L /H11005
+0.70 m entre los centros de las masas, /H9004x/L /H110050.47 m/0.70 m /H110050.67 o ) Cabe esperar que
+en este caso el punto de equilibrio de la mancuerna esté más cerca de m2. La coordenada y
+del centro de masa es, una vez más, YCM /H110050.10 m, como puede comprobar el lector.
+Ejercicio de refuerzo. En el inciso b de este ejemplo, coloque el origen de los ejes de coor-
+denadas en el punto donde m1 toca el eje x. ¿Qué coordenadas tiene el CM en este caso?
+Compare su ubicación con la que se obtuvo en este ejemplo
+En el ejemplo 6.15, cuando cambió el valor de una de las masas, cambió la coorde-
+nada x del centro de masa. Quizás el lector esperaba que la coordenada y también
+cambiara. Sin embargo, los centros de las masas de los extremos siguieron estando a la
+misma altura, así que Y
+CM no cambió. Si se quiere aumentar YCM, una de las masas de
+los extremos, o ambas, tendrían que estar en una posición más alta.
+Veamos ahora cómo podemos aplicar el concepto de centro de masa a una situa-
+ción realista.
+2
+3 .
+ =
+15.0 kg210.20 m2 +110.0 kg210.90 m2
+5.0 kg + 10.0 kg = 0.67 m
+ XCM = m1
+ x1 + m2
+ x2
+m1 + m2
+m2 = 10.0 kg,
+ =
+15.0 kg210.20 m2 +15.0 kg210.90 m2
+5.0 kg + 5.0 kg = 0.55 m
+ XCM = m1
+ x1 + m2
+ x2
+m1 + m2
+XCM
+ m2 = 10.0 kg
+ b) m1 = 5.0 kg
+ a) m1 = m2 = 5.0 kg
+ y1 = y2 = 0.10 m
+m1 Z m21XCM , YCM2, x2 = 0.90 m
+m1 = m21XCM , YCM2 x1 = 0.20 m
+
+202 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+100 m
+6.00 m
+N FIGURA 6.19 Caminar
+hacia la orilla Véase el
+ejemplo 6.16.
+Ejemplo integrado 6.16 ■ Movimiento interno: ¿dónde están 
+el centro de masa y el hombre?
+Un hombre de 75.0 kg está parado en el extremo lejano de una lancha de 50.0 kg, a 100 m de la
+orilla, como se muestra en la ▲figura 6.19. Si camina al otro extremo de la lancha, cuya longi-
+tud es de 6.00 m, a) ¿el CM 1) se mueve a la derecha, 2) se mueve a la izquierda o 3) permane-
+ce estacionario? Ignore la fricción y suponga que el CM de la lancha está en su punto medio.
+b) Después de caminar al otro extremo de la lancha, ¿a qué distancia estará de la orilla?
+a) Razonamiento conceptual. Sin fuerza externa neta, la aceleración del centro de masa
+del sistema hombre-lancha es cero (ecuación 6.18), de manera que es la cantidad de
+movimiento total según la ecuación 6.17 Por lo tanto, la velocidad 
+del centro de masa del sistema es cero, o el centro de masa es estacionario y permanece 
+así para conservar la cantidad de movimiento del sistema; es decir, X
+CM (inicial) /H11005
+XCM (final), de manera que la respuesta es 3.
+b) Razonamiento cuantitativo y solución. La respuesta no es 100 m /H110026.00 m /H1100594.0 m,
+porque la lancha se mueve conforme el hombre camina. ¿Por qué? Las posiciones de las
+masas del hombre y de la lancha determinan la ubicación del CM del sistema, tanto antes
+como después de que el hombre camine. Puesto que el CM no se mueve, sabemos que
+X
+CM /H11005XCM. Usando este hecho y calculando el valor de XCM, este valor se utiliza para en-
+contrar XCM, el cual contendrá la incógnita que estamos buscando.  
+Tomando la orilla como origen (x /H110050), tenemos
+Dado: Encuentre: (distancia entre el hombre
+y la orilla)
+(posición del CM de la lancha)
+Tenga en cuenta que si la posición final del hombre está a una distancia xmf de la orilla, la
+posición final del centro de masa de la lancha será xbf /H11005xmf /H110013.00 m, pues el hombre es-
+tará al frente de la lancha, a 3.00 m de su CM, aunque del otro lado.
+Entonces, en un principio,
+Y, al final, el cm debe estar en la misma posición, pues VCM /H110050. De la ecuación 6.19 tenemos
+Aquí, ya que el CM no se mueve. Ahora despejamos para
+obtener
+y
+de la orilla.
+Ejercicio de refuerzo. Suponga que el hombre vuelve a su posición original en el extremo
+opuesto de la lancha. ¿Estaría entonces otra vez a 100 m de la orilla?
+xmf = 97.6 m
+1125 kg2198.8 m2 =1125 kg2xmf +150.0 kg213.00 m2
+xmf ,XCMf = 98.8 m = XCMi ,
+ =
+175.0 kg2xmf +150.0 kg21xmf + 3.00 m2
+75.0 kg + 50.0 kg = 98.8 m
+ XCMf =
+mm
+ xmf + mb
+ xbf
+mm + mb
+ =
+175.0 kg21100 m2 +150.0 kg2197.0 m2
+75.0 kg + 50.0 kg = 98.8 m
+ XCMi =
+mm
+ xmi + mb
+ xbi
+mm + mb
+ xbi = 94.0 m + 3.00 m = 97.0 m
+ mb = 50.0 kg
+ xmi = 100 m
+xmf mm = 75.0 kg
+1P
+S
+= MV
+S
+CM = 02.
+Ilustración 8.8 Objetos en 
+movimiento y centro de masa
+
+6.5 Centro de masa 203
+Centro de gravedad
+Como sabemos, hay una relación entre la masa y el peso. Un concepto íntimamente re-
+lacionado con el de centro de masa es el de centro de gravedad (CG) , el punto en el
+que puede considerarse que está concentrado todo el peso de un objeto, cuando éste se
+representa como partícula. Si la aceleración debida a la gravedad es constante tanto en
+magnitud como en dirección en toda la extensión del objeto, la ecuación 6.20 se rescri-
+be como (con todas las g
+i /H11005g):
+(6.20)
+Entonces, el peso Mg del objeto actúa como si su masa estuviera concentrada en XCM,
+y coinciden el centro de masa y el centro de gravedad. Como quizás usted haya nota-
+do, la ubicación del centro de gravedad estaba implícita en algunas figuras anteriores
+del capítulo 4, donde dibujamos las flechas vectoriales para el peso ( w
+/H11005mg) desde 
+el centro del objeto o un punto cercano a tal centro. En la práctica, se considera que el
+centro de gravedad coincide con el centro de masa. Es decir, la aceleración debida a la
+gravedad es constante para todas las partes del objeto. (Observe la g constante en 
+la ecuación 6.20.) Habría una diferencia en la ubicación de los dos puntos si un obje-
+to fuera tan grande que la aceleración debida a la gravedad fuera diferente en distin-
+tas partes del objeto.
+En algunos casos, podemos encontrar el centro de masa o el centro de gravedad de
+un objeto por simetría. Por ejemplo, si el objeto es esférico y homogéneo (es decir, la
+masa está distribuida de forma homogénea en todas las partes), el centro de masa está
+en el centro geométrico (o centro de simetría). En el ejemplo 6.15a, donde las masas en
+los extremos de la mancuerna eran iguales, tal vez era evidente que el centro de masa
+estaba en el punto medio entre ambas.
+La ubicación del centro de masa o de gravedad de un objeto con forma irregular
+no es tan notoria y suele ser difícil de calcular (incluso con métodos matemáticos avan-
+zados que están más allá del alcance de este libro). En algunos casos, el centro de masa
+se puede localizar experimentalmente. Por ejemplo, el centro de masa de un objeto
+plano con forma irregular se determina experimentalmente suspendiéndolo libremen-
+te de diferentes puntos (
+▼figura 6.20). Casi de inmediato vemos de que el centro de
+MgXCM = g
+ 
+ mi
+ gxi
+Primer
+punto de
+suspensión
+El centro de masa
+está sobre esta
+línea
+1
+1
+2
+2
+1
+1
+CM
+El centro de masa
+también está sobre
+esta línea
+Segundo
+punto de
+suspensión
+a)
+b)
+▲ FIGURA 6.20 Localizador del centro de masa por suspensión a) El centro de masa 
+de un objeto plano de forma irregular se puede encontrar suspendiendo el objeto de dos 
+o más puntos. El CM (al igual que el CG) está sobre una línea vertical bajo cualquier punto
+de suspensión, así que la intersección de dos líneas semejantes marca su ubicación en un
+punto intermedio del grosor del objeto. La lámina podría equilibrarse horizontalmente en
+ese punto. ¿Por qué? b) Ilustramos el proceso con un mapa de Estados Unidos recortado
+de una cartulina. Vemos que una línea de plomada desde cualquier otro punto (tercera
+foto) sí pasa por el CM determinado en las primeras dos fotografías.
+
+N FIGURA 6.23 Propulsión a chorro
+Los calamares y los pulpos se
+impulsan lanzando chorros de
+agua. Aquí vemos impulsándose 
+a un calamar gigante. 
+204
+CAPÍTULO 6 Cantidad de movimiento lineal y choques
+▼ FIGURA 6.22 Centro de gravedad 
+Al arquear su cuerpo, este atleta 
+pasa sobre la barra, aunque su cen-
+tro de gravedad pase debajo de ella.
+Véase el texto para la descripción.
+masa (o el centro de gravedad) siempre queda verticalmente abajo del punto de sus-
+pensión. Como el centro de masa se define como el punto donde puede concentrarse
+toda la masa de un cuerpo, ello es semejante a una partícula de masa suspendida de un
+hilo. Si suspendemos el objeto de dos o más puntos y marcamos las líneas verticales en
+las que debe estar el centro de masa, encontraremos el centro de masa en la intersec-
+ción de las líneas.
+El centro de masa (o centro de gravedad) de un objeto puede estar fuera del cuer-
+po del objeto (
+>figura 6.21). Por ejemplo, el centro de masa de un anillo homogéneo está
+en el centro del anillo. La masa de cualquier sección del anillo se compensa con la masa
+de una sección equivalente diametralmente opuesta; por simetría, el centro de masa es-
+tá en el centro del anillo. En el caso de un objeto con forma de L cuyos brazos sean igua-
+les en masa y longitud, el centro de masa está sobre una línea que forma un ángulo de
+45° con ambos brazos. Es fácil determinar su ubicación suspendiendo la L desde un
+punto en uno de los brazos y observando dónde una línea vertical desde ese punto in-
+terseca la línea diagonal.
+En el salto de altura la ubicación del centro de gravedad es muy importante. El sal-
+to eleva el CG, lo cual requiere energía, y cuanto más alto sea el salto se necesitará más
+energía. Por lo tanto, un participante de salto de altura quiere librar la barra mante-
+niendo bajo su CG. Un saltador intentará mantener su CG tan cerca de la barra como
+sea posible cuando pasa sobre ella. Con la técnica “Fosbury flop”, que se hizo famosa
+por Dick Fosbury en los Juegos Olímpicos de 1968, el atleta arquea la espalda sobre la
+barra (
+>figura 6.22). Con las piernas, la cabeza y los brazos debajo de la barra, el CG es
+más bajo que con el estilo “loyout”, en que el cuerpo está casi paralelo al suelo cuando
+pasa por la barra. Con el “flop”, un saltador puede lograr que su CG (que está afuera
+de su cuerpo) quede debajo de la barra.
+6.6 Propulsión a chorro y cohetes
+OBJETIVO: Aplicar la conservación de la cantidad de movimiento para explicar la
+propulsión a chorro y el funcionamiento de los cohetes.
+La palabra chorro por lo general se refiere a una corriente de líquido o gas que se emite
+con alta velocidad, por ejemplo, el chorro de agua de una fuente o un chorro de aire
+que sale del neumático de un automóvil. La propulsión a chorro es la aplicación de ta-
+les chorros a la producción de movimiento. Este concepto suele hacernos pensar en
+aviones y cohetes, pero los calamares y pulpos se impulsan lanzando chorros de agua.
+Seguramente el lector habrá probado una aplicación sencilla: inflar un globo y lue-
+go soltarlo. Al carecer de un sistema guiador y de un sistema rígido de escape, el glo-
+bo sigue una trayectoria zigzagueante, impulsado por el aire que escapa. En términos
+de la tercera ley de Newton, el aire es expulsado por la contracción del globo estirado,
+es decir, el globo ejerce una fuerza sobre el aire. Por lo tanto, el aire deberá ejercer una
+fuerza de reacción igual y opuesta sobre el globo. Ésta es la fuerza que impulsa al glo-
+bo por su irregular trayectoria.
+CM
+a)
+b)
+CM
+▲ FIGURA 6.21 El centro de masa
+podría estar fuera del cuerpo
+El centro de masa (y el de gravedad)
+puede estar dentro o fuera del 
+cuerpo, dependiendo de la distri-
+bución de la masa del objeto. a) En
+el caso de un anillo uniforme, el
+centro de masa está en el centro del
+anillo. b) En el caso de un objeto
+con forma de L, si la distribución 
+de masa es uniforme y los brazos
+tienen la misma longitud, el centro
+de masa está en la diagonal entre
+los brazos.
+
+(vex relativa al cohete)
+0
+(vr relativa a los ejes de coordenadas)
+vr
+a)
+b)
+c)
+vex
+vex
+vex
+U
+S
+A
+6.6 Propulsión a chorro y cohetes 205
+La propulsión a chorro se explica por la tercera ley de Newton y, en ausencia de
+fuerzas externas, también por la conservación de la cantidad de movimiento. Es más
+fácil entender este concepto si se considera el culatazo de un rifle, tomando el rifle y la
+bala como un sistema aislado (
+▲figura 6.24). En un principio, la cantidad de movimien-
+to total de este sistema es cero. Cuando se dispara el rifle (por control remoto, para evi-
+tar fuerzas externas), la expansión de los gases —al hacer explosión la carga— acelera
+la bala por el cañón. Estos gases también empujan al rifle hacia atrás y producen una
+fuerza de retroceso (el culatazo que experimenta la persona que dispara un arma).
+Puesto que la cantidad de movimiento inicial del sistema es cero y la fuerza de los ga-
+ses en expansión es una fuerza interna, las cantidades de movimiento de la bala y el ri-
+fle deben ser exactamente iguales y opuestas en todo momento. Una vez que la bala
+sale del cañón, deja de haber fuerza propulsora, así que la bala y el rifle se mueven con
+velocidades constantes (a menos que sobre ellos actúe una fuerza externa neta como la
+gravedad o la resistencia del aire).
+Asimismo, el empuje de un cohete surge de la expulsión de los gases produci-
+dos por la quema del combustible, en la parte de atrás del cohete. La expansión del gas
+ejerce una fuerza sobre el cohete que lo empuja hacia adelante (
+▼figura 6.25). El cohete
++–
+(c)    P = pb + pr = (mbvb)x + (–mrvr)x = 0
+Fr Fb
+(b)    Fb = –Fr
+(a)    P = 0
+pr = mrvr
+pb = mbvb
+vb
+vr
+nn
+> FIGURA 6.24 Conservación de 
+la cantidad de movimientoa) Antes
+del disparo, la cantidad de movi-
+miento total del rifle y la bala (como
+sistema aislado) es cero. b) Durante
+el disparo, surgen fuerzas internas
+iguales y opuestas, y la cantidad de
+movimiento instantánea total del
+sistema rifle-bala sigue siendo cero
+(si no consideramos las fuerzas ex-
+ternas, como las que surgen cuando
+alguien sostiene el rifle). c) Cuando
+la bala sale por el cañón, la cantidad
+de movimiento total del sistema si-
+gue siendo cero. (Hemos escrito la 
+ecuación vectorial primero en 
+notación de negritas y luego 
+en notación de signo-magnitud, 
+para indicar las direcciones.)
+▲ FIGURA 6.25 Propulsión a chorro y reducción de masa a) Un cohete que quema com-
+bustible pierde masa continuamente, por lo que cada vez es más fácil acelerarlo. La fuerza
+resultante sobre el cohete (el empuje) depende del producto de la razón de cambio de su
+masa con respecto al tiempo y la velocidad de los gases de escape: Puesto que 
+la masa está disminuyendo, /H9004m//H9004t es negativa y el empuje es opuesto. b) El transbor-
+dador espacial utiliza un cohete de múltiples etapas. Ambos cohetes impulsores y el enor-
+me tanque de combustible externo se desechan durante el vuelo. c) La primera y segunda
+etapas de un cohete Saturn V se separan después de 148 s de tiempo de combustión.
+v
+S
+ex
+1¢m>¢t2v
+S
+ex .
+
+206 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+Inversor
+del empuje
+Ventilador
+Funcionamiento normal
+Inversor del impulso activado
+AIRE
+AIRE
+▼ FIGURA 6.26 Empuje en reversa Durante el aterrizaje de aviones a reacción, se activan
+inversores del empuje en los motores que ayudan a frenar el avión. El gas experimenta
+una fuerza de impulso y un cambio de cantidad de movimiento en la dirección hacia 
+adelante; el avión experimenta un cambio de cantidad de movimiento igual y opuesto, 
+así como una fuerza de impulso de frenado.
+ejerce una fuerza de reacción sobre los gases, que salen por el conducto de escape. Si 
+el cohete está en reposo cuando se encienden los motores y no hay fuerzas externas (co-
+mo en el espacio exterior, donde la fricción es cero y las fuerzas gravitacionales son 
+insignificantes), la cantidad de movimiento instantánea del gas de escape será igual 
+y opuesta a la del cohete. Las numerosas moléculas de gas de escape tienen masa 
+pequeña y alta velocidad, por lo que el cohete tiene una masa mucho mayor y una 
+velocidad menor.
+A diferencia de un rifle que dispara una sola bala, cuya masa es insignificante, un
+cohete pierde masa continuamente al quemar combustible. (El cohete se parece más a
+una ametralladora.) Por lo tanto, el cohete es un sistema cuya masa no es constante. Al
+disminuir la masa del cohete, es más fácil acelerarlo. Los cohetes de varias etapas
+aprovechan esta situación. El casco de una etapa que se ha quedado sin combustible se
+desecha para reducir aún más la masa que sigue en vuelo (figura 6.25c). La carga útil
+con frecuencia es una parte muy pequeña de la masa inicial de los cohetes empleados
+en vuelos espaciales.
+Supongamos que el objetivo de un vuelo espacial es colocar una carga útil en la
+superficie de la Luna. En algún punto del viaje, la atracción gravitacional de la Luna
+será mayor que la de la Tierra, y la nave acelerará hacia la Luna. Es conveniente des-
+cender suavemente a la superficie, por lo que la nave se deberá frenar lo suficiente
+como para entrar en órbita alrededor de la Luna o descender en ésta. Tal frenado se
+logra utilizando los motores del cohete para aplicar un empuje en reversa, o empuje
+de frenado. La nave efectuará una maniobra de 180° para dar la vuelta, algo que es
+muy fácil en el espacio. Luego se encienden los motores del cohete, expulsando sus
+gases hacia la Luna para frenar la nave. Aquí la fuerza de los cohetes es opuesta a su
+velocidad.
+El lector habrá experimentado un efecto de empuje en reversa si ha volado en un
+avión comercial a reacción. En este caso, sin embargo, no se da vuelta al avión. Des-
+pués de tocar tierra, los motores se revolucionan, y se puede sentir una acción de fre-
+nado. Por lo general, al revolucionarse los motores el avión experimenta una
+aceleración hacia adelante. Se logra un empuje en reversa activando inversores del em-
+puje en los motores para desviar los gases de escape hacia adelante (
+▼figura 6.26). Los
+gases experimentan una fuerza de impulso y un cambio de cantidad de movimiento
+en la dirección hacia adelante (véase la figura 6.3b); los motores y el avión sufren 
+un cambio de cantidad de movimiento igual y opuesto, bajo la acción del impulso de
+frenado.
+Pregunta: no hay necesidad de ejercicios para el material cubierto en esta sección,
+pero el lector puede probar sus conocimientos con esta pregunta. Los astronautas usan
+pequeños cohetes que sostienen con la mano para desplazarse durante sus caminatas
+espaciales. Describa el uso de estos dispositivos para maniobrar. ¿Es peligrosa una
+caminata espacial sin correa de sujeción a la nave?
+
+Ejercicios 207
+Repaso del capítulo
+• La cantidad de movimiento lineal de una partícula es un
+vector y se define como el producto de la masa y la velocidad.
+(6.1)
+• La cantidad de movimiento lineal total de un sistema 
+es la suma vectorial de las cantidades de movimiento de las
+partículas individuales:
+(6.2)
+• Segunda ley de Newton en términos de cantidad de movi-
+miento (para una partícula):
+(6.3)
+• El teorema impulso-cantidad de movimiento relaciona el
+impulso que actúa sobre un objeto, con el cambio en su can-
+tidad de movimiento:
+(6.5)
+• Conservación de la cantidad de movimiento lineal: En au-
+sencia de una fuerza externa neta, se conserva la cantidad de
+movimiento lineal total de un sistema.
+(6.7)
+• En un choque elástico, se conserva la energía cinética total
+del sistema.
+• La cantidad de movimiento se conserva tanto en los choques
+elásticos como en los inelásticos . En un choque totalmente
+inelástico, los objetos quedan pegados después del impacto.
+• Condiciones para un choque elástico:
+(6.8) K
+f = Ki
+ P
+S
+f = P
+S
+i
+P
+S
+= P
+S
+o
+Impulso = F
+S
+prom
+ ¢t =¢ p
+S
+o = mv
+S
+- mv
+S
+o
+F
+S
+neta =
+¢p
+S
+¢t
+y
+x
+y
+x
+Cantidades de movimiento total del sistema
+P = 5.0 kg/H11080m/s
+p2 = 3.0 kg/H11080m/s
+Cantidades de movimiento individuales
+p1 = 2.0 kg/H11080m/s
+P
+S
+= p
+S
+1 + p
+S
+2 + p
+S
+3 + Á = gp
+S
+i
+1P
+S
+2
+p
+S
+= mv
+S
+1p
+S
+2 • Condiciones para un choque inelástico:
+(6.9)
+• Velocidad final en un choque completamente inelástico de
+frente entre dos cuerpos
+(6.10)
+• Cociente de energías cinéticas en choques completamente
+inelásticos de frente de frente entre dos cuerpos
+(6.11)
+• Velocidades finales en choques elásticos de frente entre dos
+cuerpos
+(6.14)
+(6.15)
+• El centro de masa es el punto donde puede concentrarse toda
+la masa de un objeto o sistema. El centro de masa no necesa-
+riamente está dentro de un objeto. (El centro de gravedad es
+el punto en el que puede concentrarse todo el peso.)
+• Coordenadas del centro de masa (empleando signos para in-
+dicar direcciones):
+(6.19)X
+CM = g
+ 
+ mi
+ xi
+M
+CM
+v2 = ¢ 2m1
+m1 + m2
+≤v1o - ¢ m1 - m2
+m1 + m2
+≤v2o
+v1 = ¢ m1 - m2
+m1 + m2
+≤v1o + ¢ 2m2
+m1 + m2
+≤v2o
+Kf
+Ki
+= m1
+m1 + m2
+1v2o = 02
+v = ¢ m1
+m1 + m2
+≤ v1o
+1v2o = 02
+choqueAntes
+v1o v2o
+Después
+m1 m2 m2m1
+v1 
+= v2 
+= 0
+ Kf 6 Ki
+ P
+S
+f = P
+S
+i
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son ejer-
+cicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pares de
+ejercicios, que se identifican con númer
+os subrayados, pretenden ayudar al lector a resolver problemas y aprender.
+El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consultarse si se ne-
+cesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al final del libro.
+6.1 Cantidad de movimiento lineal
+1. OM Las unidades de la cantidad de movimiento lineal
+son a) N/m, b) kg · m/s, c) N/s o d) todas las anteriores.
+2. OM La cantidad de movimiento lineal a) siempre se con-
+serva, b) es una cantidad escalar, c) es una cantidad vec-
+torial o d) no está relacionada con la fuerza.
+3. OM Una fuerza neta que actúa sobre un objeto provoca 
+a) una aceleración, b) un cambio en la cantidad de movi-
+miento, c) un cambio en la velocidad, d) todas las opcio-
+nes anteriores.
+4. PC ¿Un corredor rápido de fútbol americano siempre tie-
+ne más cantidad de movimiento lineal que un hombre de
+línea, más masivo pero más lento? Explique.
+
+208 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+v
+60°60°
+vm
+m
+▲ FIGURA 6.27 Choque angulado Véanse los ejercicios 17,
+18 y 44.
+5. PC Si dos objetos tienen la misma cantidad de movi-
+miento, ¿necesariamente tendrán la misma energía ciné-
+tica? Explique.
+6. PC Si dos objetos tienen la misma energía cinética, ¿nece-
+sariamente tendrán la misma cantidad de movimiento?
+Explique.
+7.
+● Si una mujer de 60 kg viaja en un automóvil que se
+mueve a 90 km/h, ¿qué cantidad de movimiento lineal
+tiene relativa a a) el suelo y b) el automóvil?
+8.
+● La cantidad de movimiento lineal de un corredor en
+los 100 metros planos es de 7.5 /H11003102 kg · m/s. Si la rapi-
+dez del corredor es de 10 m/s, ¿qué masa tiene?
+9. ● Calcule la magnitud de la cantidad de movimiento li-
+neal de a) una bola de bolos de 7.1 kg que viaja a 12 m/s
+y b) una automóvil de 1200 kg que viaja a 90 km/h.
+10. ● En fútbol americano, un hombre de línea casi siempre
+tiene más masa que un corredor. a) ¿Un hombre de línea
+siempre tendrá mayor cantidad de movimiento lineal que
+un corredor? ¿Por qué? b) ¿Quién tiene mayor cantidad 
+de movimiento lineal, un corredor de 75 kg que corre a 
+8.5 m/s o un hombre de línea de 120 kg que corre a 5.0 m/s?
+11.
+● ¿Con qué rapidez viajará un automóvil de 1200 kg si
+tiene la misma cantidad de movimiento lineal que una
+camioneta de 1500 kg que viaja a 90 km/h?
+12.
+●● Una pelota de béisbol de 0.150 kg que viaja con una ra-
+pidez horizontal de 4.50 m/s es golpeada por un bate y lue-
+go se mueve con una rapidez de 34.7 m/s en la dirección
+opuesta. ¿Qué cambio sufrió su cantidad de movimiento?
+13.
+●● Una bala de caucho de 15.0 g golpea una pared con
+una rapidez de 150 m/s. Si la bala rebota directamente
+con una rapidez de 120 m/s, ¿cómo cambió su cantidad
+de movimiento?
+14. EI
+●● Dos protones se acercan entre sí con diferente rapi-
+dez. a) ¿La magnitud de la cantidad de movimiento total
+del sistema de los dos protones será 1) mayor que la mag-
+nitud de la cantidad de movimiento de cualquiera de los
+protones, 2) igual a la diferencia de las magnitudes de las
+cantidades de movimiento de los dos protones o 3) igual 
+a la suma de las magnitudes de las cantidades de movi-
+miento de los dos protones? ¿Por qué? b) Si las rapideces
+de los dos protones son 340 y 450 m/s, respectivamente,
+¿qué cantidad de movimiento total tiene el sistema de los
+dos protones? [Sugerencia: busque la masa de un protón
+en una de las tablas de las guardas de este libro.]
+15.
+●● Tomando como densidad del aire 1.29 kg/m 3, ¿qué
+magnitud tiene la cantidad de movimiento lineal de un
+metro cúbico de aire que se mueve con una rapidez de a) 
+36 km/h y b) 74 mi/h (la rapidez que alcanza el viento
+cuando una tormenta tropical se convierte en un huracán)?
+16.
+●● Dos corredores cuyas masas son 70 y 60 kg, respectiva-
+mente, tienen una cantidad de movimiento lineal total de
+350 kg · m/s. El corredor más masivo se mueve a 2.0 m/s.
+Calcule las magnitudes que podría tener la velocidad del
+corredor más ligero.
+17.
+●● Una bola de billar de 0.20 kg que viaja con una rapi-
+dez de 15 m/s golpea el borde de una mesa de billar con
+un ángulo de 60° (
+Nfigura 6.27). Si la bola rebota con los
+mismos rapidez y ángulo, ¿qué cambio sufre su cantidad
+de movimiento?
+18. ●● Suponga que la bola de billar de la figura 6.27 se apro-
+xima a la orilla de la mesa con una rapidez de 15 m/s
+y a un ángulo de 60°, como se muestra, pero rebota con
+una rapidez de 10 m/s y a un ángulo de 50°. ¿Cuál es el
+cambio en la cantidad de movimiento en este caso? [ Su-
+gerencia: utilice componentes.]
+19.
+●● Una persona empuja una caja de 10 kg desde el repo-
+so y la acelera hasta una rapidez de 4.0 m/s con una fuer-
+za constante. Si la persona empuja la caja durante 2.5 s,
+¿cuánta fuerza ejerce sobre la caja?
+20.
+●● Un remolque cargado, con una masa total de 5000 kg
+y rapidez de 3.0 km/h, choca contra una plataforma de
+carga y se detiene en 0.64 s. Calcule la magnitud de la
+fuerza promedio ejercida por la plataforma sobre el re-
+molque.
+21.
+●● Una bola de lodo de 2.0 kg se deja caer desde una al-
+tura de 15 m, donde estaba en reposo. Si el impacto entre
+la bola y el suelo dura 0.50 s, ¿qué fuerza neta promedio
+ejerció la bola contra el suelo?
+22. EI
+●● En una práctica de fútbol americano, dos recepto-
+res corren de acuerdo con distintos patrones de recep-
+ción de pases. Uno de ellos, con una masa de 80.0 kg, co-
+rre a 45° hacia el noreste con una rapidez de 5.00 m/s. El
+segundo receptor (con masa de 90.0 kg) corre en línea rec-
+ta por el campo de juego (derecho hacia el este) a 6.00 m/s.
+a) ¿Cuál es la dirección de su cantidad de movimiento 
+total? 1) Exactamente hacia el noreste; 2) hacia el nor-
+te del noreste; 3) exactamente hacia el este o 4) hacia 
+el este del noreste. b) Justifique su respuesta al inciso a
+calculando cuál fue en realidad su cantidad de movi-
+miento total.
+23.
+●● Un catcher de grandes ligas atrapa una pelota rápida
+que viaja a 95.0 mi/h; su mano, junto con el guante, re-
+troceden 10.0 cm al llevar la pelota al reposo. Si le toma-
+ra 0.00470 segundos llevar la pelota (con una masa de
+250 g) al reposo en el guante, a) ¿cuáles serían la magni-
+tud y la dirección del cambio en la cantidad de movi-
+miento de la pelota? b) Determine la fuerza promedio
+que ejerce la pelota sobre la mano y el guante del catcher.
+24.
+●●● Durante un partido de baloncesto, una porrista de
+120 lb es lanzada verticalmente hacia arriba con una rapi-
+dez de 4.50 m/s por un porrista. a) ¿Cómo cambia la can-
+tidad de movimiento de la joven entre el momento en que
+su compañero la suelta y el momento en que la recibe en
+sus brazos, si es atrapada a la misma altura desde la que
+fue lanzada? b) ¿Habría alguna diferencia si la atraparan
+0.30 m por debajo del punto de lanzamiento? ¿Cómo
+cambiaría su cantidad de movimiento en ese caso?
+
+▲ FIGURA 6.28 Golpe de karate Véanse los ejercicios 29 y 35.
+Ejercicios 209
+25. ●●● Una pelota, cuya masa es de 200 g, se lanza desde el
+reposo a una altura de 2.00 m sobre el piso y rebota en
+línea recta hacia arriba hasta una altura de 0.900 m. a)
+Determine el cambio en la cantidad de movimiento de la
+pelota que se debe a su contacto con el piso. b) Si el tiem-
+po de contacto con el piso fue de 0.0950 segundos, ¿cuál
+fue la fuerza promedio que el piso ejerció sobre la pelota
+y en qué dirección?
+6.2 Impulso
+26. OM Las unidades de impulso son a) kg · m/s, b) N · s, 
+c) iguales que las de la cantidad de movimiento, d) todas
+las anteriores.
+27. OM Impulso es igual a a) F/H9004x, b) el cambio de energía
+cinética, c) el cambio de cantidad de movimiento o 
+d) /H9004p//H9004t.
+28. PC El follow-through se usa en muchos deportes, como 
+al realizar un servicio en tenis. Explique cómo el follow-
+through puede aumentar la rapidez de la pelota de tenis
+en el servicio.
+29. PC Un estudiante de karate trata de no hacer follow-
+through para romper una tabla, como se muestra en la
+▼figura 6.28. ¿Cómo puede la detención abrupta de la ma-
+no (sin follow-through) generar tanta fuerza?
+35. ●● Para el golpe de karate del ejercicio 29, supongamos
+que la mano tiene una masa de 0.35 kg, que la rapidez de
+la mano justo antes de golpear la tabla es de 10 m/s y
+que después del golpe la mano queda en reposo. ¿Qué
+fuerza promedio ejerce la mano sobre la tabla si a) la ma-
+no hace follow-through, de manera que el tiempo de con-
+tacto sea de 3.0 ms y b) la mano se detiene abruptamente,
+de manera que el tiempo de contacto sea de sólo 0.30 ms?
+36. EI
+●● Al efectuar un “toque de pelota”, un beisbolista usa
+el bate para cambiar tanto la rapidez como la dirección de
+la pelota. a) ¿La magnitud del cambio en la cantidad de mo-
+vimiento de la pelota antes y después del toque será 1) ma-
+yor que la magnitud de la cantidad de movimiento de la
+pelota antes o después del toque, 2) igual a la diferencia en-
+tre las magnitudes de las cantidades de movimiento de la
+pelota antes y después del toque o 3) igual a la suma de las
+magnitudes de las cantidades de movimiento de la pelota
+antes y después del toque? ¿Por qué? b) La pelota tiene una
+masa de 0.16 kg; su rapidez antes y después del toque es 
+de 15 y 10 m/s, respectivamente, y el toque dura 0.025 s.
+Calcule el cambio de cantidad de movimiento de la pelota.
+c) ¿Qué fuerza promedio ejerce el bate sobre la pelota?
+37. EI
+●● Un automóvil con una masa de 1500 kg viaja por
+una carretera horizontal a 30.0 m/s. Recibe un impulso
+con una magnitud de 2000 N · m y su rapidez se reduce
+tanto como es posible por un impulso así. a) ¿Qué provo-
+có este impulso? 1) El conductor que apretó el acelerador,
+2) el conductor que aplicó el freno o 3) el conductor que
+dio vuelta al volante. b) ¿Cuál fue la rapidez del automó-
+vil después de que se aplicó el impulso?
+38.
+●● Una astronauta (cuya masa es de 100 kg, con su equi-
+po) regresa a su estación espacial con una rapidez de
+0.750 m/s pero en el ángulo incorrecto. Para corregir su
+dirección, enciende los cohetes del equipo que lleva a la
+espalda en ángulos rectos a su movimiento durante un
+breve periodo. Estos cohetes direccionales ejercen una
+fuerza constante de 100.0 N por apenas 0.200 s. [Ignore la
+pequeña pérdida de masa que se debe al combustible
+que se quema y suponga que el impulso se da en ángulos
+rectos a su cantidad de movimiento inicial.] a) ¿Cuál es la
+magnitud del impulso que se ejerce sobre la astronauta?
+b) ¿Cuál es su nueva dirección (relativa a la dirección ini-
+cial)? c) ¿Cuál es su nueva rapidez?
+39.
+●● Un balón de volibol viaja hacia una persona. a) ¿Qué
+acción requerirá aplicar mayor fuerza al balón: atraparlo
+o golpearlo? ¿Por qué? b) Un balón de volibol de 0.45 kg
+viaja con una velocidad horizontal de 4.0 m/s sobre la
+red. Un jugador salta y lo golpea impartiéndole una ve-
+locidad horizontal de 7.0 m/s en la dirección opuesta. Si
+el tiempo de contacto es de 0.040 s, ¿qué fuerza promedio
+se aplicó al balón?
+40.
+●● Una pelota de 1.0 kg se lanza horizontalmente con
+una velocidad de 15 m/s contra una pared. Si la pelota
+rebota horizontalmente con una velocidad de 13 m/s y el
+tiempo de contacto es de 0.020 s, ¿qué fuerza ejerce la pa-
+red sobre la pelota?
+41.
+●● Un muchacho atrapa —con las manos desnudas y los
+brazos rígidos y extendidos— una pelota de béisbol de
+0.16 kg, que viaja directamente hacia él con una rapidez
+de 25 m/s. El muchacho se queja porque el golpe le dolió.
+Pronto aprende a mover sus manos junto con la pelota al
+atraparla. Si el tiempo de contacto del choque aumenta de
+3.5 a 8.5 ms al hacerlo, ¿qué cambio relativo hay en las
+magnitudes promedio de la fuerza de impulso?
+30. PC Explique la diferencia para cada uno de los siguien-
+tes pares de acciones en términos de impulso: a) un tiro
+largo (long drive) y un tiro corto (chip shot) de un golfista;
+b) un golpe corto ( jab) y un golpe de knockout de un bo-
+xeador; c) una acción de toque de bola (que hace rodar
+suavemente la pelota dentro del cuadro) y un batazo de
+jonrón de un beisbolista.
+31. PC Explique el principio en que se basa a) el uso de espu-
+ma de poliestireno como material de empaque para evitar
+que se rompan los objetos, b) el uso de hombreras en fút-
+bol americano para evitar lesiones de los jugadores y c) el
+guante más grueso que usa un catcher de béisbol, en com-
+paración con el que usan los demás jugadores defensivos.
+32.
+● Cuando un bateador lanza hacia arriba una pelota de
+sóftbol de 0.20 kg y la batea horizontalmente, la pelota
+recibe un impulso de 3.0 N · s. ¿Con qué rapidez horizon-
+tal se aleja la pelota del bate?
+33.
+● Un automóvil con una cantidad de movimiento lineal
+de 3.0 /H11003104 kg · m/s se detiene en 5.0 s. ¿Qué magnitud
+tiene la fuerza promedio de frenado?
+34. ● Un jugador de billar imparte un impulso de 3.2 N · s a
+una bola estacionaria de 0.25 kg con su taco. ¿Qué rapi-
+dez tiene la bola justo después del impacto?
+
+210 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+F
+Fuerza (N)
+Tiempo (s)
+t
+.04 .08.02
+1000
+800
+600
+400
+200
+.16.14.12.10.060
+▲ FIGURA 6.29 Gráfica de fuerza contra tiempo Véase 
+el ejercicio 42.
+42. ●● Una fuerza de impulso unidimensional actúa sobre un
+objeto de 3.0 kg de acuerdo con el diagrama en la ▲figura
+6.29. Encuentre a) la magnitud del impulso que se da al ob-
+jeto, b) la magnitud de la fuerza promedio y c) la rapidez
+final si el objeto tuviera una rapidez inicial de 6.0 m/s.
+43. ●● Un trozo de masilla de 0.45 kg se deja caer desde una
+altura de 2.5 m por encima de una superficie plana.
+Cuando golpea la superficie, la masilla llega al reposo en
+0.30 s. ¿Cuál es la fuerza promedio que la superficie ejer-
+ce sobre la masilla?
+44.
+●● Si la bola de billar de la figura 6.27 está en contacto
+con el borde durante 0.010 s, ¿qué magnitud tiene la fuer-
+za promedio que el borde ejerce sobre la bola? (Véase el
+ejercicio 17.)
+45.
+●● Un automóvil de 15 000 N viaja con una rapidez de 
+45 km/h hacia el norte por una calle, y un auto deportivo
+de 7500 N viaja con una rapidez de 60 km/h hacia el este
+por una calle que cruza con la primera. a) Si ninguno de
+los conductores frena y los vehículos chocan en la inter-
+sección y sus parachoques (o defensas) se atoran, ¿cuál se-
+rá la velocidad de los vehículos inmediatamente después
+del choque? b) ¿Qué porcentaje de la energía cinética ini-
+cial se perderá en el choque?
+46.
+●●● En una prueba simulada de choque de frente, un au-
+tomóvil golpea una pared a 25 mi/h (40 km/h) y se detie-
+ne abruptamente. Un maniquí de 120 lb (con una masa de
+55 kg), no sujeto con cinturón de seguridad, es detenido
+por una bolsa de aire, que ejerce sobre él una fuerza de
+2400 lb. ¿Cuánto tiempo estuvo en contacto el maniquí
+con la bolsa para detenerse?
+47.
+●●● Un jugador de béisbol batea la pelota en línea recta
+hacia arriba. La pelota (cuya masa es de 200 g) viajaba
+horizontalmente a 35.0 m/s, justo antes de hacer contac-
+to con el bate y va a 20.0 m/s justo después hacer con-
+tacto con éste. Determine la dirección y la magnitud del
+impulso que el bate aplica a la pelota.
+6.3 Conservación de la cantidad de movimiento lineal
+48. OM La conservación de la cantidad de movimiento lineal
+se describe por medio de a) el teorema impulso-cantidad
+de movimiento, b) el teorema trabajo-energía, c) la prime-
+ra ley de Newton, d) la conservación de la energía.
+49. OM La cantidad de movimiento lineal de un objeto se
+conserva si a) la fuerza que actúa sobre el objeto es con-
+servativa; b) una sola fuerza interna no equilibrada actúa
+sobre el objeto; c) la energía mecánica se conserva, o d) na-
+da de lo anterior.
+50. OM Las fuerzas internas no afectan a la conservación de
+la cantidad de movimiento porque a) se cancelan entre sí,
+b) sus efectos se cancelan con fuerzas externas, c) nunca
+pueden ocasionar un cambio de velocidad o d) la segun-
+da ley de Newton no se aplica a ellas.
+51. PC La ▼figura 6.30 muestra una lancha de aire como las
+que se usan en zonas pantanosas. Explique su principio
+de propulsión. Utilizando el concepto de conservación de
+la cantidad de movimiento lineal, explique qué sucedería
+con la lancha si se instalara una vela detrás del ventilador.
+▲ FIGURA 6.30 Propulsión por ventiladorVéase el ejercicio 51.
+52. PC Imagínese parado en el centro de un lago congelado.
+El hielo es tan liso que no hay fricción. ¿Cómo llegaría a
+la orilla? (No podría caminar. ¿Por qué?)
+53. PC Un objeto estacionario recibe un golpe directo de otro
+objeto que se mueve hacia él. ¿Ambos objetos pueden
+quedar en reposo después del choque? Explique.
+54. PC Cuando se golpea una pelota de golf en el tee, su ra-
+pidez suele ser mucho mayor que la del palo de golf. Ex-
+plique cómo puede darse esta situación.
+55.
+● Un astronauta de 60 kg que flota en reposo en el espa-
+cio afuera de una cápsula espacial lanza su martillo de
+0.50 kg de manera que se mueva con una rapidez de 10
+m/s relativa a la cápsula. ¿Qué sucederá con el astronauta?
+56.
+● En una competencia de patinaje de figura por parejas,
+un hombre de 65 kg y su compañera de 45 kg están para-
+dos mirándose de frente sobre sus patines. Si se empujan
+para separarse y la mujer tiene una velocidad de 1.5 m/s
+hacia el este, ¿qué velocidad tendrá su compañero? (Des-
+precie la fricción.)
+57.
+●● Para escapar de un lago congelado sin fricción, una
+persona de 65.0 kg se quita un zapato de 0.150 kg y lo
+lanza horizontalmente en dirección opuesta a la orilla,
+con una rapidez de 2.00 m/s. Si la persona está a 5.00 m
+de la orilla, ¿cuánto tarda en alcanzarla?
+58.
+EI ●● Un objeto en reposo hace explosión y se divide en
+tres fragmentos. El primero sale disparado hacia el oeste,
+y el segundo, hacia el sur. a) El tercer fragmento tendrá
+una dirección general de 1) suroeste, 2) norte del este o 
+3) directamente al norte o bien directamente al este. ¿Por
+qué? b) Si el objeto tiene una masa de 3.0 kg, el primer
+fragmento tiene una masa de 0.50 kg y una rapidez de 
+2.8 m/s, y el segundo fragmento tiene una masa de 1.3 kg
+y una rapidez de 1.5 m/s, ¿qué rapidez y dirección ten-
+drá el tercer fragmento?
+
+Ejercicios 211
+59. ●● Suponga que el objeto de 3.0 kg del ejercicio 58 viajaba
+inicialmente a 2.5 m/s en la dirección x positiva. ¿Qué ra-
+pidez y dirección tendría el tercer fragmento en este caso?
+60. ●● Dos pelotas con igual masa (0.50 kg) se aproximan al
+origen de un plano, respectivamente, por los ejes x y y
+positivos con la misma rapidez (3.3 m/s). a) ¿Cuál es la
+cantidad de movimiento total del sistema? b) ¿Las pelo-
+tas necesariamente chocarán en el origen? ¿Cuál es la
+cantidad de movimiento total del sistema después de
+que las dos pelotas hayan pasado por el origen?
+61.
+●● Dos automóviles idénticos chocan y sus defensas
+quedan enganchadas. En cada uno de los casos siguien-
+tes, ¿qué rapidez tienen los automóviles inmediatamente
+después de engancharse? a) Un automóvil que avanza a
+90 km/h se acerca a un automóvil estacionario; b) dos
+automóviles se acercan entre sí con rapideces de 90 y 120
+km/h, respectivamente; c) dos automóviles viajan en la
+misma dirección con rapidez de 90 y 120 km/h, respecti-
+vamente.
+62.
+●● Un automóvil de 1200 kg que viaja hacia la derecha
+con rapidez de 25 m/s choca contra una camioneta de
+1500 kg, quedando enganchadas sus defensas. Calcule la
+velocidad de la combinación después del choque si ini-
+cialmente la camioneta a) está en reposo, b) avanza hacia
+la derecha a 20 m/s y c) avanza hacia la izquierda con ra-
+pidez de 20 m/s.
+63.
+●● Una bala de 10 g que se mueve horizontalmente a
+400 m/s penetra en un bloque de madera de 3.0 kg que
+descansa en una superficie horizontal. Si la bala sale por
+el otro lado del bloque a 300 m/s, ¿qué rapidez tiene el
+bloque inmediatamente después de que sale la bala (
+▼fi-
+gura 6.31)?
+64. ●● La explosión de una bomba de 10.0 kg libera sólo dos
+fragmentos. La bomba estaba inicialmente en reposo y 
+uno de los fragmentos, de 4.00 kg, viaja hacia el oeste a 
+100 m/s, inmediatamente después de la explosión. a)
+¿Cuáles son la rapidez y la dirección del otro fragmento in-
+mediatamente después de la explosión? b) ¿Cuánta energía
+cinética se liberó en esa explosión?
+65.
+●● Una camioneta (vacía) de 1600 kg rueda con rapidez
+de 2.5 m/s bajo una tolva de carga, la cual deposita una
+masa de 3500 kg sobre la camioneta. ¿Qué rapidez tiene la
+camioneta inmediatamente después de recibir la carga?
+66. EI
+●● Un nuevo método de control de disturbios utiliza
+balas de “goma” en vez de balas verdaderas. Suponga
+que, en una prueba, una de estas “balas” con una masa
+de 500 g viaja a 250 m/s hacia la derecha y golpea de fren-
+te un blanco estacionario. La masa del blanco es de 
+25.0 kg y está en reposo sobre una superficie lisa. La bala
+rebota hacia atrás (es decir, hacia la izquierda) del blan-
+co a 100 m/s. a) ¿En qué dirección se moverá el blanco
+después de la colisión? 1) A la derecha, 2) a la izquierda,
+3) podría permanecer estacionario o 4) no es posible sa-
+berlo a partir de los datos. b) Determine la rapidez del re-
+troceso del blanco después de la colisión.
+67.
+●● Para filmar una escena cinematográfica, un doble de
+75 kg cae desde un árbol sobre un trineo de 50 kg, que se
+desplaza sobre un lago congelado con una velocidad de
+10 m/s hacia la orilla. a) ¿Cuál es la rapidez del trineo
+después de que el doble está a bordo? b) Si el trineo gol-
+pea contra la orilla del lago y se detiene, pero el doble
+continúa moviéndose, ¿con qué rapidez deja el trineo?
+(Ignore la fricción.)
+68.
+●● Un astronauta de 90 kg se queda detenido en el espa-
+cio en un punto localizado a 6.0 m de su nave espacial y
+necesita regresar en 4.0 min para controlarla. Para regre-
+sar, lanza una pieza de equipo de 0.50 kg que se aleja di-
+rectamente de la nave con una rapidez de 4.0 m/s. a) ¿El
+astronauta regresa a tiempo? b) ¿Qué tan rápido debe ti-
+rar la pieza de equipo para regresar a tiempo? 
+69.
+●●● Un proyectil se dispara con una velocidad inicial de
+90.0 km/h que forma un ángulo de 60.0° con la horizon-
+tal. Cuando el proyectil está en la cúspide de su trayecto-
+ria, una explosión interna lo divide en dos fragmentos
+con masas iguales. Uno cae verticalmente como si se le
+hubiera soltado desde el reposo. ¿A qué distancia del ca-
+ñón caerá el otro fragmento?
+70.
+●●● Un disco de hockey en movimiento choca de refilón
+con otro estacionario de la misma masa, como se muestra
+en la 
+▼figura 6.32. Si la fricción es insignificante, ¿qué ra-
+pidez tendrán los discos después del choque?
+400 m/s
+Antes Después
+300 m/s
+▲ FIGURA 6.31 ¿Transferencia de cantidad de movimiento?
+Véase el ejercicio 63.
+y
+x
+Choque Después
+v2
+v1
+v1o 
+= 0.95 m/s
+1
+22
+1
+2
+Antes
+50°
+40°
+1
+> FIGURA 6.32 Otro
+choque de refilón
+Véase el ejercicio 70.
+
+N FIGURA 6.34 ¿Elástico o
+inelástico? Véase el ejercicio 86.
+212 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+m vo
+m + M
+M
+h
+71. ●●● Un pequeño asteroide (cuya masa es de 10 g) gol-
+pea de refilón a un satélite en el espacio vacío. El satélite
+estaba inicialmente en reposo y el asteroide viajaba a
+2000 m/s. La masa del satélite es de 100 kg. El asteroide
+se desvía 10° de su dirección original y su rapidez dismi-
+nuye a 1000 m/s, pero ninguno de los objetos pierde ma-
+sa. Determine a) la dirección y b) la rapidez del satélite
+después de la colisión.
+72.
+●●● Un péndulo balístico es un dispositivo para medir la
+velocidad de un proyectil, por ejemplo, la velocidad ini-
+cial de una bala de rifle. El proyectil se dispara horizon-
+talmente contra la pesa de un péndulo en la cual se
+incrusta, como se muestra en la 
+▼figura 6.33. El péndulo
+oscila hasta cierta altura h, la cual se mide. Se conocen las
+masas del péndulo y la bala. Utilizando los principios de
+conservación de la cantidad de movimiento y de la ener-
+gía, demuestre que la velocidad inicial del proyectil está
+dada por v
+o =31m + M2>m4 22gh.
+6.4 Choques elásticos e inelásticos
+73. OM ¿Qué de lo siguiente no se conserva en un choque
+inelástico? a) cantidad de movimiento, b) masa, c) ener-
+gía cinética o d) energía total.
+74. OM Una pelota de caucho de masa m, que viaja horizon-
+talmente con una rapidez v, golpea una pared y rebota
+hacia atrás con la misma rapidez. El cambio en la canti-
+dad de movimiento es a) mv, b) /H11002mv, c) /H11002mv/2, d) /H110012mv.
+75. OM En un choque elástico de frente, la masa m
+1 golpea
+una masa estacionaria m2. Hay una transferencia total de
+energía si a) m1 /H11005m2, b) m1 /H11022m2, c) m1 /H11022m2 o d) las ma-
+sas quedan pegadas.
+76. OM La condición para una colisión inelástica entre dos
+objetos es a) Kf /H11021Ki, b) pi /HS11005pf, c) m1 /H11022m2, d) v1 /H11021v2.
+77. PC Puesto que K /H11005p2/2m, ¿cómo puede perderse ener-
+gía cinética en un choque inelástico mientras que se con-
+serva la cantidad de movimiento total? Explique.
+78. PC Comente qué tienen en común y en qué difieren un
+choque elástico y un choque inelástico.
+79. PC ¿En un choque entre dos objetos puede perderse la
+totalidad de la energía cinética? Explique.
+80.
+●● Para el aparato de la figura 6.15, una esfera que llega
+con rapidez de 2vo no hace que dos esferas salgan con ra-
+pidez de vo cada una. a) ¿Qué ley de la física es la que evi-
+ta que eso suceda, la de conservación de la cantidad de
+movimiento o la de conservación de la energía mecáni-
+ca? b) Demuestre matemáticamente esa ley.
+81.
+●● Un protón con masa m que se mueve con rapidez de
+3.0 /H11003106 m/s sufre un choque elástico de frente con una
+partícula alfa en reposo de masa 4m. ¿Qué velocidad ten-
+drá cada partícula después del choque?
+82. ●● Una esfera de 4.0 kg con una velocidad de 4.0 m/s en
+la dirección /H11001x choca elásticamente de frente contra una
+esfera estacionaria de 2.0 kg. ¿Cuáles serán sus velocida-
+des después del choque?
+83.
+●● Una esfera con una masa de 0.10 kg viaja con una ve-
+locidad de 0.50 m/s en la dirección /H11001x y choca de frente
+contra una esfera de 5.0 kg, que está en reposo. Determi-
+ne las velocidades de ambas después del choque. Supon-
+ga que la colisión es elástica.
+84.
+●● En una feria del condado, dos niños chocan entre sí
+de frente mientras van en sus respectivos carritos. Jill y
+su carro viajan a la izquierda a 3.50 m/s y tienen una ma-
+sa total de 325 kg. Jack y su carro viajan hacia la derecha
+a 2.0 m/s y tienen una masa total de 290 kg. Suponiendo
+que el choque es elástico, determine sus velocidades des-
+pués de la colisión.
+85.
+●● En una persecución a alta velocidad, una patrulla gol-
+pea el automóvil del criminal directamente por detrás
+para llamar su atención. La patrulla va a 40.0 m/s hacia
+la derecha y tiene una masa total de 1800 kg. El vehículo
+del criminal inicialmente se mueve en la misma direc-
+ción a 38.0 m/s. Su automóvil tiene una masa total de
+1500 kg. Suponiendo que el choque es elástico, determi-
+ne sus dos velocidades inmediatamente después de que
+ésta se registra.
+86. EI
+●● La ▼figura 6.34 muestra a una ave que atrapa un
+pez. Suponga que inicialmente el pez salta hacia arriba y
+el ave planea horizontalmente y no toca el agua con las
+patas ni agita sus alas. a) ¿Este tipo de choque es 1) elásti-
+co, 2) inelástico o 3) totalmente inelástico? ¿Por qué? b) Si
+la masa del ave es de 5.0 kg, la del pez es de 0.80 kg y el
+ave planea con una rapidez de 6.5 m/s antes de atrapar al
+pez, ¿qué rapidez tiene el ave después de sujetarlo?
+▲ FIGURA 6.33 Un péndulo balístico Véanse 
+los ejercicios 72 y 98.
+
+Ejercicios 213
+87. ●● Un objeto de 1.0 kg, que se desplaza 10 m/s, choca
+contra un objeto estacionario de 2.0 kg como se muestra
+en la 
+▼figura 6.35. Si la colisión es perfectamente inelásti-
+ca, ¿qué distancia a lo largo del plano inclinado recorrerá
+el sistema combinado? Ignore la fricción.
+del este, 2) al norte del oeste o 3) directamente al sur o
+bien directamente al este? ¿Por qué? b) Si la rapidez inicial
+del automóvil de 1500 kg era 90.0 km/h, y la de la mini-
+vagoneta de 3000 kg era 60.0 km/h, ¿qué velocidad ten-
+drán los vehículos inmediatamente después de chocar?
+92.
+●● Un objeto de 1.0 kg, que se desplaza 2.0 m/s, choca
+elásticamente contra un objeto estacionario de 1.0 kg, de
+manera similar a la situación presentada en la figura
+6.35. ¿Qué distancia recorrerá el objeto inicialmente esta-
+cionario a lo largo de un plano inclinado a 37°? Ignore la
+fricción.
+93.
+●● Un compañero de clase afirma que la cantidad de 
+movimiento total de un sistema de tres partículas ( m1 /H11005
+0.25 kg, m2 /H110050.20 kg y m3 /H110050.33 kg) es inicialmente cero;
+y calcula que, después de un choque inelástico triple, las
+partículas tendrán velocidades de 4.0 m/s a 0°, 6.0 m/s a
+120° y 2.5 m/s a 230°, respectivamente, con ángulos me-
+didos desde el eje /H11001x. ¿Está de acuerdo con sus cálculos?
+Si no, suponiendo que las dos primeras respuestas estén
+correctas, ¿qué cantidad de movimiento debería tener la
+tercera partícula para que la cantidad de movimiento to-
+tal sea cero?
+94.
+●● Un vagón de carga con una masa de 25 000 kg baja 
+rodando por una distancia vertical de 1.5 m por una vía in-
+clinada. En la base de la pendiente, sobre una vía horizon-
+tal, el vagón choca y se acopla con un vagón idéntico que
+estaba en reposo. ¿Qué porcentaje de la energía cinética ini-
+cial se perdió en el choque?
+95.
+●●● En los reactores nucleares, las partículas subatómi-
+cas llamadas neutrones son frenadas al permitirles chocar
+con los átomos de un material moderador, como los áto-
+mos de carbono, que tienen 12 veces la masa de los neu-
+trones. a) En un choque de frente y elástico con un átomo
+de carbono, ¿qué porcentaje de la energía de un neutrón
+se pierde? b) Si el neutrón tiene una rapidez inicial de 1.5
+/H1100310
+7 m/s, ¿cuál será su rapidez después del choque?
+96. ●●● En un accidente de “carambola” (de reacción en cade-
+na) en una autopista cubierta de neblina, en el que no hu-
+bo lesionados, el automóvil 1 (cuya masa es de 2000 kg)
+viajaba a 15.0 m/s hacia la derecha y tuvo una colisión
+elástica con el automóvil 2, inicialmente en reposo. La
+masa del automóvil 2 es de 1500 kg. A la vez, el automó-
+vil 2 chocó con el automóvil 3 y sus parachoques se que-
+daron atorados (es decir, fue una colisión completamente
+inelástica). El automóvil 3 tiene una masa de 2500 kg y
+también estaba en reposo. Determine la rapidez de todos
+los automóviles implicados inmediatamente después del
+desafortunado accidente.
+97.
+●●● El péndulo 1 tiene una cuerda de 1.50 m con una pe-
+queña bolita amarrada como peso. El péndulo se jala ha-
+cia un lado a 30° y se libera. En el punto inferior de su
+arco, choca contra el peso del péndulo 2, que tiene una
+bolita con el doble de masa que el primero, pero la mis-
+ma longitud de cuerda. Determine los ángulos a los que
+ambos péndulos rebotan (cuando llegan al reposo) des-
+pués de que chocan y se recuperan.
+98.
+●●● Demuestre que la fracción de energía cinética que se
+pierde en una colisión de un péndulo balístico (como en
+la figura 6.33) es igual a M/(m /H11001M).
+37°
+1.0 kg
+10 m/s
+2.0 kg
+▲ FIGURA 6.35 ¿Qué tanto suben? Véanse 
+los ejercicios 87 y 92.
+y
+x
+V
+v′
+M
+v
+m
+θ
+▲ FIGURA 6.36 Un choque totalmente inelástico
+Véase el ejercicio 90.
+88. ●● En un juego de billar, una bola blanca que viaja a 
+0.75 m/s golpea a la bola 8 estacionaria. La bola 8 sale
+despedida con una velocidad de 0.25 m/s con un ángulo
+de 37° con la dirección original de la bola blanca. Supo-
+niendo que el choque es inelástico, ¿con qué ángulo se
+desviará la bola blanca, y qué rapidez tendrá?
+89.
+●● Dos esferas con masas de 2.0 y 6.0 kg viajan una hacia
+la otra con rapidez de 12 y 4.0 m/s, respectivamente. Si
+sufren un choque inelástico de frente y la esfera de 2.0 kg
+rebota con una rapidez de 8.0 m/s, ¿cuánta energía ciné-
+tica se pierde en el choque?
+90.
+●● Dos esferas se acercan entre sí como se muestra en la
+▼figura 6.36, donde m /H110052.0 kg, v /H110053.0 m/s, M /H110054.0 kg
+y V /H110055.0 m/s. Si las esferas chocan en el origen y que-
+dan pegadas, determine a) los componentes de la veloci-
+dad v de las esferas después del choque y b) el ángulo /H9258.
+91. EI ●● Un auto que viaja al este y una minivagoneta que
+viaja al sur tienen un choque totalmente inelástico en un
+cruce perpendicular. a) Justo después del choque, ¿los
+vehículos se moverán en una dirección general 1) al sur
+
+1.05 m
+1 2
+▲ FIGURA 6.39 No deje que ruede Véase el ejercicio 111.
+m2
+(4.0 m, 4.0 m)
+m3
+(0, 0) (4.0 m, 0)
+m1
+m4 x
+y
+(0, 4.0 m)
+▲ FIGURA 6.38 ¿Dónde está el centro de masa? Véase 
+el ejercicio 110.
+N FIGURA 6.37 Delicado
+equilibrio Véase el
+ejercicio 101.
+214 CAPÍTULO 6 Cantidad de movimiento lineal y choques
+6.5 Centro de masa
+99. OM El centro de masa de un objeto a) siempre está en el
+centro del objeto, b) está en la ubicación de la partícula
+más masiva del objeto, c) siempre está dentro del objeto 
+o d) nada de lo anterior.
+100. OM El centro de masa y el centro de gravedad coinciden
+a) si la aceleración de la gravedad es constante, b) si se
+conserva la cantidad de movimiento, c) si no se conserva
+la cantidad de movimiento, d) sólo en los objetos con for-
+ma irregular.
+101. PC La ▼figura 6.37 muestra un flamingo parado en una
+sola pata, con la otra levantada. ¿Qué puede decir el lector
+acerca de la ubicación del centro de masa del flamingo?
+107.
+●● Resuelva de nuevo el ejercicio 69 utilizando el con-
+cepto de centro de masa para calcular la distancia a la
+que cayó el otro fragmento, relativa al cañón.
+108. EI
+●● Una varilla de 3.0 kg y 5.0 m de longitud tiene en
+sus extremos masas puntuales de 4.0 y 6.0 kg. a) ¿El cen-
+tro de masa de este sistema está 1) más cerca de la masa
+de 4.0 kg, 2) más cerca de la masa de 6.0 kg o 3) en el cen-
+tro de la varilla? ¿Por qué? b) ¿Dónde está el centro de
+masa de este sistema?
+109.
+●● Un trozo de lámina uniforme mide 25 por 25 cm. Si se
+recorta un círculo de 5.0 cm de radio del centro de esta lá-
+mina, ¿dónde estará el centro de masa de la lámina?
+110.
+●● Localice el centro de masa del sistema que se muestra
+en la ▼figura 6.38 a) si todas las masas son iguales; b) si
+m2 /H11005m4 /H110052m1 /H110052m3; c) si m1 /H110051.0 kg, m2 /H110052.0 kg, m3 /H11005
+3.0 kg y m4 /H110054.0 kg.
+102. PC Dos objetos idénticos están separados una distancia
+d. Si uno de ellos permanece en reposo y el otro se aleja
+con una velocidad constante, ¿cuál es el efecto sobre el
+CM del sistema?
+103.
+●● a) El centro de masa de un sistema que consta de dos
+partículas de 0.10 kg se encuentra en el origen. Si una 
+de las partículas está en (0, 0.45 m), ¿dónde está la otra?
+b) Si las masas se mueven de forma que su centro de ma-
+sa esté en (0.25 m, 0.15 m), ¿es posible saber dónde están
+las partículas?
+104.
+● Los centros de dos esferas, de 4.0 y 7.5 kg, están separa-
+dos una distancia de 1.5 m. ¿Dónde está el centro de ma-
+sa del sistema de las dos esferas?
+105.
+● a) Localice el centro de masa del sistema Tierra-Luna.
+[Sugerencia: use datos de las tablas en la contraportada
+del libro, y considere la distancia entre la Tierra y la Luna
+medida desde sus centros.] b) ¿Dónde está ese centro de
+masa relativo a la superficie de la Tierra?
+106.
+●● Localice el centro de masa de un sistema formado por
+tres objetos esféricos con masas de 3.0, 2.0 y 4.0 kg cuyos
+centros están situados en (/H110026.0 m, 0), (1.0 m, 0) y (3.0 m, 0),
+respectivamente.
+111.
+●● Dos tazas se colocan sobre una tabla uniforme que se
+equilibra sobre un cilindro ( ▼figura 6.39). La tabla tiene
+una masa de 2.00 kg y 2.00 m de longitud. La masa de la
+taza 1 es de 200 g y está colocada a 1.05 m a la izquierda
+del punto de equilibrio. La masa de la taza 2 es de 400 g.
+¿Dónde debería colocarse la taza 2 para hacer equilibrio
+(con respecto al extremo de la derecha de la tabla)?
+1
+12. ●● Una astronauta de 100 kg (su masa incluye el equipo)
+que realiza una caminata espacial está a 5.0 m de una
+cápsula espacial de 3000 kg, con su cordón de seguridad
+totalmente estirado. Para volver a la cápsula, ella tira del
+cordón. ¿Dónde se juntarán la astronauta y la cápsula?
+
+Ejercicios 215
+30/H11034
+¿ángulo y
+rapidez?
+disco
+▲ FIGURA 6.40 Intercepción del disco de hockey
+Véase el ejercicio 119.
+113. ●● Dos patinadores con masas de 65 y 45 kg, respectiva-
+mente, están separados 8.0 m y sujetan cada uno un ex-
+tremo de una cuerda. a) Si tiran de la cuerda hasta
+juntarse, ¿qué distancia recorrerá cada patinador? (De-
+precie la fricción.) b) Si sólo la patinadora de 45 kg tira de
+la cuerda hasta juntarse con su amigo (que se limita a sos-
+tener la cuerda), ¿qué distancia recorrerá cada patinador?
+114.
+●●● Tres partículas, cada una con masa de 0.25 kg, están
+en (/H110024.0 m, 0), (2.0 m, 0) y (0, 3.0 m), sometidas a la ac-
+ción de las fuerzas y
+respectivamente. Calcule la aceleración (magni-
+tud y dirección) del centro de masa del sistema. [Sugeren-
+cia: considere los componentes de la aceleración.]
+Ejercicios adicionales
+115. Un bastón desequilibrado consiste en una varilla muy li-
+gera de aluminio de 60.0 cm de longitud. La masa en un
+extremo es tres veces la masa del extremo “ligero”. Inicial-
+mente, el bastón se lanza con una rapidez de 15.0 m/s, a
+un ángulo de 45 grados con respecto al nivel del suelo.
+Cuando el bastón alcanza el punto más alto de su vuelo,
+está orientado verticalmente, con el “extremo ligero” por
+encima del “extremo pesado”. Determine la distancia de
+cada extremo del bastón con respecto al suelo cuando al-
+canza su altura máxima.
+116. Una bala de 20.0 g, que viaja a 300 m/s, traspasa por
+completo un bloque de madera, inicialmente en reposo
+sobre una mesa lisa. El bloque tiene una masa de 1000 g.
+La bala sale en la misma dirección, pero a 50.0 m/s. 
+a) ¿Cuál es la rapidez del bloque al final? b) ¿Qué frac-
+ción (o porcentaje) de la energía cinética total inicial se
+pierde en este proceso?
+117. Un pequeño asteroide (una roca con una masa de 100 g)
+da un golpe inclinado a una sonda espacial con una ma-
+sa de 1000 kg. Suponga que todos los planetas están ale-
+jados, de manera que las fuerzas gravitacionales pueden
+ignorarse. A causa de la colisión, el asteroide se desvía
+40° con respecto a su dirección original y su rapidez se
+reduce a 12 000 m/s, luego de que su rapidez inicial era
+de 20 000 m/s. La sonda se desplazaba originalmente a
+14.0 N2xN,
+F
+S
+3 =F
+S
+1 =1-3.0 N2yN, F
+S
+2 =15.0 N2yN
+200 m/s en la dirección /H11001x. a) Determine el ángulo en el
+que la sonda se desvía con respecto a su dirección inicial.
+b) ¿Cuál es la rapidez de la sonda después de la colisión?
+118. EI En el decaimiento radiactivo del núcleo de un átomo
+llamado americio-241 (símbolo 
+241Am, masa de 4.03 /H11003
+10/H1100225 kg), se emite una partícula alfa (designada como /H9251)
+con una masa de 6.68 /H1100310/H1100227 kg hacia la derecha con
+una energía cinética de 8.64 /H1100310/H1100213 J. (Esto es caracterís-
+tico de las energías nucleares, pequeñas en la escala co-
+mún.) El núcleo remanente es de neptunio-237 (
+237Np) y
+tiene una masa de 3.96 /H1100310/H1100225 kg. Suponga que el nú-
+cleo inicial estaba en reposo. a) ¿El núcleo de neptunio
+tendrá 1) mayor, 2) menor o 3) la misma cantidad de
+energía cinética en comparación con la partícula alfa? b)
+Determine la energía cinética del núcleo de 
+237Np al final.
+119. Una jugadora de hockey inicialmente se desplaza a 5.00
+m/s hacia el este. Su masa es de 50.0 kg. Ella intercepta y
+atrapa con el palo (stick) un disco que inicialmente se
+desplaza a 35.0 m/s a un ángulo de 30 grados (figura
+6.40). Suponga que la masa del disco es de 0.50 kg y que
+ambos forman un solo objeto por unos segundos. a) Deter-
+mine el ángulo de dirección y la rapidez del disco y de la
+jugadora después de la colisión. b) ¿La colisión fue elástica
+o inelástica? Pruebe su respuesta con números.
+Los siguientes problemas de física Physlet se pueden usar con este capítulo.
+8.1, 8.2, 8.3, 8.4, 8.5, 8.6, 8.7, 8.8, 8.9, 8.10, 8.11, 8.12, 8.13, 8.14
+
+7.1 Medición angular 217
+7.2 Rapidez y velocidad
+angulares 219
+7.3 Movimiento circular
+uniforme y acelera-
+ción centrípeta
+223
+7.4 Aceleración angular 228
+7.5 Ley de la gravitación 
+de Newton 231
+7.6 Leyes de Kepler y
+satélites terrestres 238
+CAPÍTULO
+7
+L
+a gente suele decir que juegos mecánicos como el giratorio de la imagen
+“desafían la gravedad”. Claro que nosotros sabemos que, en realidad, la
+gravedad no puede desafiarse; más bien exige respeto. Nada hay que nos
+proteja de ella, ni hay un lugar en el Universo donde podamos liberarnos total-
+mente de su influencia.
+Hay movimiento circular por todos lados, desde los átomos hasta las gala-
+xias, desde los flagelos de las bacterias hasta las ruedas de la fortuna. Solemos
+usar dos términos para describir tales movimientos. En general, decimos que un
+objeto gira cuando el eje de rotación está dentro del cuerpo, y que da vuelta cuan-
+do el eje está afuera del cuerpo. Así, la Tierra gira sobre su eje y da vuelta en torno
+al Sol.
+El movimiento circular es movimiento en dos dimensiones, de manera que lo
+describiremos con componentes rectangulares como hicimos en el capítulo 3. Sin
+embargo, suele ser más conveniente describir un movimiento circular en términos
+de cantidades angulares que introduciremos en este capítulo. Si nos familiariza-
+mos con la descripción del movimiento circular nos será mucho más fácil estudiar
+la rotación de cuerpos rígidos, como veremos en el capítulo 8.
+La gravedad juega un papel importante para determinar los movimientos de
+los planetas, ya que brinda la fuerza necesaria para mantener sus órbitas. En este
+capítulo veremos la ley de la gravitación de Newton, que describe esta fuerza fun-
+damental, y analizaremos el movimiento de los planetas en términos de ésta y
+otras leyes básicas afines. Las mismas consideraciones nos ayudarán a entender
+los movimientos de los satélites terrestres, que incluyen uno natural (la Luna) y
+muchos artificiales.
+• Una ultracentrifugadora puede hacer girar
+muestras con una fuerza de 15 000g. Tal fuer-
+za es necesaria para recolectar precipitados
+de proteínas, bacterias y otras células.
+• Newton acuñó el término gravedad a partir 
+de gravitas, la palabra latina para “peso” o
+“pesadez”.
+• Si usted quiere “perder” peso, vaya al ecua-
+dor de la Tierra. Como nuestro planeta está
+ensanchado levemente en esa zona, la acele-
+ración de la gravedad es levemente menor
+ahí y usted pesará menos (aunque su masa
+seguirá siendo la misma).
+• La gravedad suministra la fuerza centrípe-
+ta que mantiene en órbita a los planetas. La
+fuerza eléctrica aporta la fuerza centrípeta que
+mantiene en órbita a los electrones atómicos
+alrededor del núcleo de protones. La fuerza
+eléctrica entre un electrón y un protón es
+aproximadamente 10
+40 veces mayor que la
+fuerza gravitacional entre ellos (capítulo 15).
+• Las leyes de Kepler que describen el movi-
+miento en las órbitas planetarias eran empíri-
+cas, es decir, se obtuvieron a partir de obser-
+vaciones, sin ningún fundamento teórico. Al
+trabajar principalmente con los datos obser-
+vados del planeta Marte, Kepler tardó varios
+años y realizó un gran número de cálculos
+para formular sus leyes. Actualmente se con-
+serva casi un millar de hojas con sus cálcu-
+los. Kepler se refirió a esto como “mi guerra
+contra Marte”. Las leyes de Kepler se obtie-
+nen directamente a partir de análisis utilizan-
+do el cálculo y la ley de la gravitación de
+Newton. Las leyes se pueden obtener teórica-
+mente en una hoja o dos de cálculos.
+HECHOS DE FÍSICA
+MOVIMIENTO CIRCULAR 
+Y GRAVITACIONAL
+216
+
+y
+x
+r
+s = r
+(u en radianes)
+s = r
+   =
+1 rad
+u
+u
+▲ FIGURA 7.2 Medida en radianes
+El desplazamiento angular se puede
+medir en grados o en radianes (rad).
+Un ángulo /H9258subtiende una longitud
+de arco s. Cuando s /H11005r, el ángulo
+que subtiende a s se define como 
+1 rad. En términos más generales, 
+/H9258/H11005s/r, donde /H9258está en radianes.
+Un radián es igual a 57.3/H11034.
+y
+x
+r
+P
+x = r cos
+y = r sen 
+(x, y)
+o
+(r, 0)
+▲ FIGURA 7.1 Coordenadas 
+polares Podemos describir un 
+punto con coordenadas polares en
+vez de coordenadas cartesianas; 
+es decir, con (r, /H9258) en vez de (x, y).
+En un círculo, /H9258es la distancia 
+angular y r es la distancia radial.
+Los dos tipos de coordenadas 
+se relacionan a través de las 
+ecuaciones de transformación 
+x /H11005r cos /H9258y y /H11005r sen /H9258.
+7.1 Medición angular 217
+*Un grado puede dividirse en unidades más pequeñas, los minutos (1 grado /H1100560 minutos) y los
+segundos (1 minuto /H1100560 segundos). Tales divisiones nada tienen que ver con unidades de tiempo.
+7.1 Medición angular
+OBJETIVOS: a) Definir las unidades de medida angulares y b) demostrar la re-
+lación que hay entre la medida angular y la longitud del arco circular.
+Describimos el movimiento como la tasa de cambio de posición con el tiempo (sec-
+ción 2.1). Entonces, como podría suponerse, la rapidez angular y la velocidad angular
+también implican una tasa de cambio de posición con el tiempo, que se expresa con
+un cambio angular. Consideremos una partícula que viaja por una trayectoria circular,
+como se observa en la 
+Nfigura 7.1. En un instante dado, la posición de la partícula ( P)
+podría indicarse con las coordenadas cartesianas x y y. Sin embargo, también podría
+indicarse con las coordenadas polares r y /H9258. La distancia r se extiende desde el origen,
+y el ángulo /H9258comúnmente se mide en sentido contrario a las manecillas del reloj, a
+partir del eje x positivo. Las ecuaciones de transformación que relacionan un conjun-
+to de coordenadas con el otro son
+(7.1a)
+(7.1b)
+como puede verse por las coordenadas x y y del punto P en la figura 7.1.
+Observe que r es la misma para cualquier punto de un círculo dado. Si una par-
+tícula describe un círculo, el valor de r es constante y sólo /H9258cambia con el tiempo. Por
+lo tanto, el movimiento circular se puede describir con una sola coordenada polar ( /H9258)
+que cambia con el tiempo, en vez de dos coordenadas cartesianas ( x y y) que cambian
+con el tiempo.
+Algo similar al desplazamiento lineal es el desplazamiento angular, cuya magni-
+tud está dada por
+(7.2)
+o simplemente /H9004/H9258= /H9258si elegimos /H9258o /H110050/H11034. (La dirección del desplazamiento angular se
+explicará en la siguiente sección sobre velocidad angular.) Una unidad que se usa co-
+múnmente para expresar desplazamiento angular es el grado (/H11034); hay 360/H11034en un círcu-
+lo completo, o revolución.*
+Es importante relacionar la descripción angular del movimiento circular con la 
+descripción orbital o tangencial, es decir, relacionar el desplazamiento angular con 
+la longitud del arco s. La longitud de arco es la distancia recorrida a lo largo de la tra-
+yectoria circular, y decimos que el ángulo 
+/H9258subtiende (define) la longitud del arco. 
+Una unidad muy conveniente para relacionar el ángulo con la longitud del arco es el
+radián (rad). El ángulo en radianes está dado por la razón de la longitud del arco (s) y
+el radio (r), es decir, 
+/H9258(en radianes) /H11005s/r. Cuando s /H11005r, el ángulo es igual a un radián,
+/H9258/H11005s/r /H11005r/r /H110051 rad (Nfigura 7.2).
+Así, escribimos (con el ángulo en radianes),
+(7.3)
+que es una relación importante entre la longitud del arco circular s, y el radio del círcu-
+lo r. (Observe que como /H9258/H11005s/r, el ángulo en radianes es el cociente de dos longitudes.
+Esto significa que una medida en radianes es un número puro: es adimensional y no
+tiene unidades.)
+Para obtener una relación general entre radianes y grados, consideremos la distan-
+cia total en torno a un círculo completo (360/H11034). En este caso, s /H110052
+/H9266r (la circunferencia),
+y hay un total de /H9258/H11005s/r /H110052/H9266r/r /H110052/H9266rad en 360/H11034o
+Esta relación nos sirve para convertir fácilmente ángulos comunes (tabla 7.1). Así, al
+dividir ambos lados de esta relación entre 2/H9266, tenemos
+En la tabla 7.1 los ángulos en radianes se expresan de manera explícita en términos de
+/H9266, por conveniencia.
+1 rad = 360°>2p = 57.3°
+2p rad = 360°
+s = ru
+¢u =u -uo
+ y = r sen u
+ x = r cos u
+Ilustración 10.1 Coordenadas para 
+el movimiento circular
+
+Salida
+Meta
+256 m
+N
+S
+EO
+▲ FIGURA 7.3 Longitud de arco:
+cálculo empleando radianes
+Véase el ejemplo 7.1.
+218

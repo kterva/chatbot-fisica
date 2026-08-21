@@ -1,0 +1,3616 @@
+Tema: Movimiento en dos dimensiones (Capítulo 3 — Física, Wilson)
+
+CAPÍTULO 3 Movimiento en dos dimensiones
+3.1 Componentes del movimiento
+OBJETIVOS: a) Analizar el movimiento en términos de sus componentes, y b) apli- 
+car las ecuaciones de cinemática a componentes de movimiento.
+En el capítulo 1 consideramos que un objeto que se mueve en línea recta se mueve a lo
+largo de uno de los ejes cartesianos (x o y). Sin embargo, ¿qué pasa si el movimiento no
+se da a lo largo de un eje? Por ejemplo, consideremos la situación que se ilustra en la
+▼ figura 3.1, donde tres pelotas se mueven de manera uniforme sobre una mesa. La pe-
+lota que rueda en línea recta a lo largo de un costado de la tabla, designado como di-
+rección x, se mueve en una dimensión. Es decir, su movimiento se puede describir con
+x
+y
+vx vx vx vx
+vy
+vy
+vy
+vy
+vx
+vy v
+ a)
+ b)
+x
+y
+x = vxt
+y = vyt
+(x, y)
+d = x2 + y2
+√
+vx
+vy v
+vx
+vy v
+vx
+vy
+/H9258
+/H9258
+sen
+v
+▼ FIGURA 3.1 Componentes del movimiento a) La velocidad (y el desplazamiento) 
+de un movimiento rectilíneo uniforme —el de la pelota azul oscuro— podría tener 
+componentes x y y (v
+x y vy, como indica el dibujo a lápiz) debido a la orientación que 
+se eligió para los ejes de coordenadas. Observe que la velocidad y el desplazamiento 
+de la pelota en la dirección x son exactamente los que tendría una pelota que rueda a 
+lo largo del eje x con una velocidad uniforme v
+x. Se cumple una relación similar para 
+el movimiento de la pelota en la dirección y. Puesto que el movimiento es uniforme, el 
+cociente vy/vx (y por lo tanto /H9258) es constante. b) Podemos calcular las coordenadas (x, y) 
+de la posición de la pelota y la distancia d que ha recorrido desde el origen, para 
+cualquier tiempo t.
+
+3.1 Componentes del movimiento 69
+una sola coordenada, x, como hicimos con el movimiento en el capítulo 2. De forma si-
+milar, el movimiento de la pelota que se desplaza en la dirección y se puede describir
+con una sola coordenada y. En cambio, necesitamos ambas coordenadas, x y y, para
+describir el movimiento de la pelota que rueda diagonalmente por la mesa. Decimos
+entonces que este movimiento se describe en dos dimensiones.
+Podríamos observar que, si la pelota que se mueve en diagonal fuera el único ob-
+jeto a considerar, se podría elegir el eje x en la dirección del movimiento de esa pelo-
+ta, y así el movimiento quedaría reducido a una sola dimensión. Esta observación es
+cierta, pero una vez que se fijan los ejes de coordenadas, los movimientos que no se
+realicen sobre ellos se deberán describir con dos coordenadas ( x, y), es decir, en dos
+dimensiones. También hay que tener en cuenta que no todos los movimientos en un
+plano (dos dimensiones) son en línea recta. Pensemos en la trayectoria de una pelota
+que lanzamos a otro individuo. La trayectoria de semejante movimiento del proyectil
+es curva. (Estudiaremos tal movimiento en la sección 3.3.) Por lo general, se requieren
+ambas coordenadas.
+Al considerar el movimiento de la pelota que se mueve diagonalmente por la
+mesa en la figura 3.1a, podemos pensar que la pelota se mueve simultáneamente en las
+direcciones x y y. Es decir, tiene una velocidad en la dirección x (v
+x) y una en la direc-
+ción y (vy) al mismo tiempo. Los componentes de velocidad combinados describen el
+movimiento real de la pelota. Si la pelota tiene una velocidad constante v en una direc-
+ción que forma un ángulo /H9258con el eje x, las velocidades en las direcciones x y y se ob-
+tendrán descomponiendo el vector de velocidad en componentes de movimiento en
+esas direcciones, como muestra el dibujo a lápiz de la figura 3.1a. Ahí vemos que los
+componentes v
+x y vy tienen las magnitudes
+(3.1a)
+y
+(3.1b)
+respectivamente. (Observe que de manera que v es una combinación
+de las velocidades en las direcciones x y y.)
+El lector ya está familiarizado con el uso de componentes de longitud bidimen-
+sionales para encontrar las coordenadas x y y en un sistema cartesiano. En el caso de
+la pelota que rueda sobre la mesa, su posición ( x, y), es decir, la distancia recorrida
+desde el origen en cada una de las direcciones componentes en el tiempo t, está dada
+por (ecuación 2.11 con a /H110050)
+(3.2a)
+(3.2b)
+respectivamente. (Aquí, xo y yo son las coordenadas de la pelota en a /H110050, que po-
+drían ser distintas de cero.) La distancia en línea recta desde el origen es entonces 
+(figura 3.1b).
+Cabe señalar que tan /H9258/H11005vy/vx, así que la dirección del movimiento relativa al 
+eje x está dada por /H9258/H11005tan/H110021(vy/vx). (Véase el dibujo a mano de la figura 3.1a.) Tam-
+bién, /H9258/H11005tan/H110021(y/x). ¿Por qué? 
+En esta introducción a los componentes del movimiento, hemos colocado el 
+vector de velocidad en el primer cuadrante (0 /H11021/H9258/H1102190/H11034), donde ambos componentes,
+x y y, son positivos. No obstante, como veremos con mayor detalle en la sección 
+siguiente, los vectores pueden estar en cualquier cuadrante, y sus componentes pue-
+den ser negativos. ¿Sabe usted en qué cuadrantes serían negativos los componen-
+tes v
+x o vy?
+d = 3x2 + y2
+ y = yo + vy
+ t
+ x = xo + vx
+ t
+v = 3vx
+2 + vy
+2 ,
+vy = v sen u
+vx = v cos u
+Ilustración 3.1 Descomposición 
+de vectores
+Magnitud de componentes de 
+desplazamiento (en condiciones de 
+velocidad constante y cero aceleración)
+
+70 CAPÍTULO 3 Movimiento en dos dimensiones
+Ejemplo 3.1 ■ A rodar: uso de los componentes de movimiento
+Si la pelota que se mueve en diagonal en la figura 3.1a tiene una velocidad constante de 
+0.50 m/s en un ángulo de 37/H11034relativo al eje x, calcule qué distancia recorrerá en 3.0 s usan-
+do los componentes x y y de su movimiento.
+Razonamiento. Dadas la magnitud y la dirección (ángulo) de la velocidad de la pelota,
+obtenemos los componentes x y y de la velocidad. Luego calculamos la distancia en 
+cada dirección. Puesto que los ejes x y y son perpendiculares, el teorema de Pitágoras
+ofrece la distancia de la trayectoria rectilínea de la pelota, como se muestra en la figura
+3.1b. (Tome nota del procedimiento: separar el movimiento en componentes, calcular 
+lo necesario en cada dirección y recombinar si es necesario.)
+Solución. Después de organizar los datos, tenemos
+Dado: Encuentre: d (distancia recorrida)
+La distancia recorrida por la pelota en términos de sus componentes x y y está dada por
+Para obtener x y y con la ecuación 3.2, primero necesitamos calcular 
+los componentes de velocidad vx y vy (ecuación 3.1):
+Así pues, con xo /H110050 y yo /H110050, las distancias componentes son
+y
+y la distancia real de la trayectoria es
+Ejercicio de refuerzo. Suponga que una pelota rueda diagonalmente por una mesa con la
+misma rapidez que en este ejemplo, pero desde la esquina inferior derecha, que se toma
+como origen del sistema de coordenadas, hacia la esquina superior izquierda, con un án-
+gulo 37/H11034relativo al eje /H11002x. Calcule los componentes de velocidad en este caso. (¿Cambiaría
+la distancia?) (Las respuestas de todos los Ejercicios de refuerzo se dan al final del libro.)
+Sugerencia para resolver problemas
+Observe que, en este sencillo caso, la distancia también puede obtenerse directamen-
+te d /H11005vt /H11005(0.50 m/s)(3.0 s) /H110051.5 m. Sin embargo, hemos resuelto este ejemplo de
+manera más general para ilustrar el uso de los componentes de movimiento. La 
+solución directa sería evidente si las ecuaciones se combinaran algebraicamente 
+antes de realizar los cálculos, como sigue:
+y
+de lo que se sigue que 
+Antes de adoptar la primera estrategia de resolución que se le ocurra, piense un mo-
+mento si habría una forma más fácil o directa de enfrentar el problema.
+Ecuaciones de cinemática para componentes de movimiento
+El ejemplo 3.1 se refirió a un movimiento bidimensional en un plano. Si la veloci-
+dad es constante (componentes constantes vx y vy), el movimiento será en línea recta.
+El movimiento también puede acelerarse. Para un movimiento en un plano con acele-
+ración constante, cuyos componentes son ax y ay, las componentes de desplazamiento 
+d = 3x2 + y2 = 41v cos u22
+ t2 +1v sen u22
+ t2 = 4v2
+ t21cos2 u + sen2 u2 = vt
+y = vy
+ t =1v sen u2t
+x = vx
+ t =1v cos u2t
+d = 3x2 + y2 = 411.2 m22 +10.90 m22 = 1.5 m
+y = vy
+ t =10.30 m>s213.0 s2 = 0.90 m
+x = vx
+ t =10.40 m>s213.0 s2 = 1.2 m
+ vy = v sen 37° =10.50 m>s210.602 = 0.30 m>s
+ vx = v cos 37° =10.50 m>s210.802 = 0.40 m>s
+d = 3x2 + y2 .
+ t = 3.0 s
+ u = 37°
+ v = 0.50 m>s
+
+3.1 Componentes del movimiento 71
+Ecuaciones de cinemática para
+componentes de desplazamiento 
+y velocidad
+y velocidad están dadas por las ecuaciones de cinemática del capítulo 2 para las di-
+recciones x y y, respectivamente:
+(3.3a)
+(3.3b)
+(sólo aceleración constante)
+(3.3c)
+(3.3d)
+Si un objeto se mueve inicialmente con velocidad constante y de repente experimenta
+una aceleración en la dirección de la velocidad o en la dirección opuesta, seguirá su ca-
+mino rectilíneo acelerando o frenando, respectivamente.
+No obstante, si la aceleración tiene un ángulo distinto de 0/H11034o 180/H11034respecto al vec-
+tor de velocidad, el movimiento seguirá una trayectoria curva. Para que el movimien-
+to de un objeto sea curvilíneo —es decir, que se desvíe de una trayectoria recta— se
+necesita una aceleración. En una trayectoria curva, el cociente de los componentes de
+velocidad varía con el tiempo. Es decir, la dirección del movimiento, /H9258/H11005tan
+/H110021(vy/vx),
+varía con el tiempo, ya que uno de los componentes de velocidad, o ambos, lo hacen.
+Considere una pelota que inicialmente se mueve sobre el eje x, como se ilustra en
+la ▼ figura 3.2. Suponga que, a partir del tiempo to /H110050, la pelota recibe una aceleración
+ vy = vyo + ay
+ t
+ vx = vxo + ax
+ t
+ y = yo + vyo
+ t + 1
+2 ay
+ t2
+ x = xo + vxo
+ t + 1
+2 ax
+ 
+ 
+t2
+x
+y
+vx
+y = 0
+= 0
+vx
+vy2 = ayt2 v2
+vx
+v1
+vx
+x2 = vxt2 x3 = vxt3x1 = vxt1
+ayt 21
+2y3 =
+ayt 21
+2y2 =
+ayt 21
+2y1 =
+ayvy = 0
+vx
+en to
+vx
+v3
+to
+vy1 = ayt1
+vy3 = ayt3
+/H92582
+/H92581
+/H92583
+3
+2
+1
+Movimiento
+rectilíneo
+Movimiento
+curvilíneo
+> FIGURA 3.2 Movimiento curvilíneo
+Una aceleración no paralela a la 
+velocidad instantánea produce una
+trayectoria curva. Aquí se aplica
+una aceleración a
+y en to /H110050 a una
+pelota que inicialmente se movía
+con velocidad constante v
+x. 
+El resultado es una trayectoria 
+curva con los componentes de 
+velocidad que se muestran. 
+Observe cómo v
+y aumenta con 
+el tiempo, en tanto que vx
+permanece constante.
+μ
+Exploración 3.2 Empleo de Gauntlet
+para controlar x, v y a
+
+72 CAPÍTULO 3 Movimiento en dos dimensiones
+constante ay en la dirección y. La magnitud del componente x del desplazamiento de la
+pelota está dada por x /H11005vxt; donde el término de la ecuación 3.3a se elimina por
+que no hay aceleración en la dirección x. Antes de to, el movimiento es en línea recta
+sobre el eje x; pero en cualquier momento después de to, la coordenada y no es cero y
+está dada por (ecuación 3.3b con yo /H110050 y vyo /H110050). El resultado es una trayec-
+toria curva para la pelota.
+Observemos que la longitud (magnitud) del componente de velocidad vy cambia
+con el tiempo, en tanto que la del componente vx permanece constante. El vector de
+velocidad total en cualquier momento es tangente a la trayectoria curva de la pelota.
+Forma un ángulo /H9258con el eje x positivo, dado por /H9258/H11005tan/H110021(vy/vx), que ahora cambia
+con el tiempo, como vemos en la figura 3.2 y en el ejemplo 3.2.
+Ejemplo 3.2 ■ Una trayectoria curva: componentes vectoriales
+Supongamos que la pelota de la figura 3.2 tiene una velocidad inicial de 1.50 m/s sobre el eje
+x y que, a partir de to /H110050, recibe una aceleración de 2.80 m/s2 en la dirección y. a) ¿Dónde 
+estará la pelota 3.00 s después de to? b) ¿Qué velocidad tiene la pelota en ese momento?
+Razonamiento. Tenga en cuenta que los movimientos en las direcciones x y y se pue-
+den analizar de forma independiente. Para a), simplemente calculamos las posiciones x
+y y en el tiempo dado, tomando en cuenta la aceleración en la dirección y. Para b), obte-
+nemos las velocidades componentes y las combinamos vectorialmente para determinar
+a la velocidad total.
+Solución. Remitiéndonos a la figura 3.2, tenemos lo siguiente:
+Dado: Encuentre: a) (coordenadas de posición)
+b) (velocidad, magnitud y dirección)
+a) 3.00 s después de to las ecuaciones 3.3a y 3.3b nos dicen que la pelota recorrió las si-
+guientes distancias desde el origen (xo /H11005yo /H110050) en las direcciones x y y, respectivamente:
+Así pues, la posición de la pelota es ( x, y) /H11005(4.50 m, 12.6 m). Si hubiéramos calculado la
+distancia ¿qué habríamos obtenido? (Note que esta cantidad no es la dis-
+tancia real que la pelota recorrió en 3.00 s, sino más bien la magnitud del desplazamiento, es
+decir, la distancia en línea recta, desde el origen hasta t /H110053.00 s.)
+b) El componente x de la velocidad está dado por la ecuación 3.3c:
+(Este componente es constante, pues no hay aceleración en la dirección x.) Asimismo, el
+componente y de la velocidad está dado por la ecuación 3.3d:
+Por lo tanto, la magnitud de la velocidad es
+y su dirección relativa al eje /H11001x es
+Ejercicio de refuerzo. Suponga que la pelota de este ejemplo también recibió una acele-
+ración de 1.00 m/s 2 en la dirección /H11001x a partir de to. ¿En qué posición estaría la pelota 
+3.00 s después de to en este caso?
+u = tan-1¢
+vy
+vx
+≤ = tan-1a
+8.40 m>s
+1.50 m>sb = 79.9°
+v = 3vx
+2 + vy
+2 = 411.50 m>s22 +18.40 m>s22 = 8.53 m>s
+vy = vyo + ay
+ t = 0 +12.80 m>s2213.00 s2 = 8.40 m>s
+vx = vxo + ax
+ t = 1.50 m>s + 0 = 1.50 m>s
+d = 3x2 + y2 ,
+ y = vyo
+ t + 1
+2 ay
+ t2 = 0 + 1
+2 12.80 m>s2213.00 s22 = 12.6 m
+ x = vxo
+ t + 1
+2 ax
+ t2 =11.50 m>s213.00 s2 + 0 = 4.50 m
+ t = 3.00 s
+ ay = 2.80 m>s2
+ ax = 0
+v vyo = 0
+1x, y2 vxo = vx = 1.50 m>s
+y = 1
+2 ay
+ t2
+1
+2 ax
+ t2
+Nota: no confunda la 
+dirección de la velocidad con 
+la dirección del desplazamiento
+respecto al origen. La dirección 
+de la velocidad siempre es 
+tangente a la trayectoria.
+Ilustración 3.3 La dirección 
+de vectores de velocidad y 
+aceleración
+
+3.2 Suma y resta de vectores 73
+Sugerencia para resolver problemas
+Al usar las ecuaciones de cinemática, es importante recordar que el movimiento 
+en las direcciones x y y se puede analizar de forma independiente; el factor que las
+vincula es el tiempo t. Es decir, obtenemos ( x, y) y/o ( vx, vy) en un tiempo t dado.
+También hay que tener en cuenta que a menudo tomamos xo /H110050 y yo /H110050, lo que 
+significa que ubicamos al objeto en el origen en to /H110050. Si el objeto en realidad está 
+en otro lugar en to /H110050, será necesario usar los valores de xo y/o yo en las ecuaciones
+adecuadas. (Véase ecuaciones 3.3a y b.)
+3.2 Suma y resta de vectores
+OBJETIVOS: a) Aprender la notación vectorial, b) ser capaz de sumar y restar
+vectores gráfica y analíticamente, y c) usar vectores para describir
+un movimiento en dos dimensiones.
+Muchas cantidades físicas, incluidas aquellas que describen el movimiento, están aso-
+ciadas a una dirección; es decir, son vectoriales. Ya trabajamos con algunas de esas can-
+tidades relacionadas con el movimiento (desplazamiento, velocidad y aceleración), y
+encontraremos más durante el curso. Una técnica muy importante para analizar mu-
+chas situaciones físicas es la suma (y la resta) de vectores. Sumando o combinando tales
+cantidades (suma vectorial) podemos obtener el efecto total o neto: la resultante, que 
+es como se llama a la suma de vectores.
+Ya sumamos algunos vectores. En el capítulo 2 sumamos desplazamientos en una
+dimensión para obtener el desplazamiento neto. En este capítulo sumaremos compo-
+nentes de vectores de movimiento, para calcular efectos netos. Recordemos que, en el
+ejemplo 3.2, combinamos los componentes de velocidad v
+x y vy para obtener la velo-
+cidad resultante.
+En esta sección, examinaremos la suma y resta de vectores en general, junto con
+una notación vectorial común. Como veremos, estas operaciones no son iguales a la
+suma y resta de escalares o numéricas, que ya conocemos. Los vectores tienen tanto
+magnitud como dirección, por lo que aplicamos reglas distintas.
+En general, hay métodos geométricos (gráficos) y analíticos (computacionales) pa-
+ra sumar vectores. Los métodos geométricos son útiles para visualizar los conceptos
+de la suma vectorial, sobre todo con un dibujo rápido. Sin embargo, los métodos analí-
+ticos se usan con mayor frecuencia porque son más rápidos y más precisos.
+En la sección 3.1 nos enfocamos sobre todo en componentes de vectores. La no-
+tación para las magnitudes de los componentes era, por ejemplo, v
+x y vy. Para repre-
+sentar vectores se utilizará la notación y (un símbolo en negritas testado con 
+una flecha).
+Suma de vectores: métodos geométricos
+Método del triángulo Para sumar dos vectores, digamos y (es decir, para obte-
+ner ) con el método del triángulo, primero dibujamos en una hoja de papel 
+milimétrico usando cierta escala (▼ figura 3.3a). Por ejemplo, si es un desplazamien-
+to en metros, una escala conveniente sería 1 cm : 1 m, de modo que un vector de 1 cm
+de longitud en el diagrama corresponda a 1 m de desplazamiento. Como se indica 
+en la figura 3.3b, la dirección del vector se especifica con un ángulo /H9258
+A relativo a 
+un eje de coordenadas, por lo regular el eje x.
+Luego, dibujamos con su cola en la punta de . (Por esto, el método también 
+se conoce como método de punta a cola .) El vector que va desde la cola de hasta 
+la punta de será entonces el vector suma o la resultante de los dos vectores:
+Si los vectores se dibujaron a escala, se podrá obtener la magnitud de midiendo
+su longitud y aplicando la conversión de escala. Con un enfoque gráfico así, la dirección
+del ángulo /H9258
+R se mide con un transportador. Si conocemos las magnitudes y direcciones
+(ángulos /H9258) de y de también podremos calcular analíticamente la magnitud y la 
+dirección de utilizando métodos trigonométricos. En el caso del triángulo no rectán-
+gulo de la figura 3.3b, utilizaríamos las leyes de los senos y cosenos. (Véase el apén-
+R
+S B
+S
+,A
+S
+R
+S
+R
+S
+= A
+S
++ B
+S
+.
+R
+S
+,B
+S A
+SA
+S
+B
+S
+A
+S
+A
+S
+A
+S
+A
+S
++ B
+S
+A
+S
+B
+S
+B
+S
+A
+S
+Nota: en notación vectorial, los
+vectores representan con símbolos
+en negritas y con flecha arriba, 
+como y , y sus magnitudes con
+símbolos en cursivas, como A y B.
+En la mayoría de las cifras, los 
+vectores se representan con 
+flechas (para dirección), cuya 
+magnitud se indica a 
+continuación.
+B
+S
+A
+S
+Nota: un vector (flecha) se puede
+desplazar en los métodos de suma
+de vectores: siempre y cuando no
+alteremos su longitud (magnitud) 
+ni su dirección, no modificaremos
+el vector.
+
+74 CAPÍTULO 3 Movimiento en dos dimensiones
+x
+y
+ c)
+Escala: 1 cm = 1 m
+ b)
+Escala: 1 cm = 1 m
+xA
+ R
+y
+R = A + B
+ a)
+Dibuje el primer vector (A)
+desde el origen.
+Dibuje el segundo vector (B)
+desde la punta del primer vector.
+Dibuje un vector desde la cola de A hasta la
+punta de B. Ésta es la resultante (R).
+B
+R
+/H9258
+/H9258
+/H9258
+R = A + B
+/H9258
+R
+B
+A
+B
+A
+R
+dice I.) El método de punta a cola puede aplicarse a cualquier número de vectores. 
+El vector que forma la cola del primer vector a la punta del segundo es la resultante 
+o suma de vectores. Para más de dos vectores, se denomina método del polígono.
+La resultante del triángulo rectángulo de vectores de la figura 3.3c sería mucho
+más fácil de calcular, utilizando el teorema de Pitágoras para obtener la magnitud, y
+una función trigonométrica inversa para obtener el ángulo de dirección. Observe que 
+está constituido por los componentes x y y de y Tales componentes x y y son 
+la base del método analítico de componentes que estudiaremos brevemente.
+Resta de vectores La resta de vectores es un caso especial de la suma:
+Es decir, para restar de sumamos un negativo a En el capítulo 2 vi-
+mos que un signo menos simplemente significa que el sentido del vector es opuesto 
+al de aquel que lleva el signo más (por ejemplo, /H11001x y /H11002x). Lo mismo es válido para 
+los vectores con notación de negritas. El vector tiene la misma magnitud que el
+vector pero está en sentido opuesto (
+Nfigura 3.4). El diagrama vectorial de la fi-
+gura 3.4 muestra una representación gráfica de A
+S
+- B
+S
+.
+B
+S
+,
+-B
+S
+A
+S
+.B
+S
+A
+S
+,B
+S
+A
+S
+- B
+S
+= A
+S
++1-B
+S
+2
+B
+S
+.A
+S
+R
+S
+▲ FIGURA 3.3 Método del triángulo para suma de vectores a) Los vectores y se 
+colocan punta a cola. El vector que se extiende desde la cola de hasta la punta de 
+formando el tercer lado del triángulo, es la resultante o suma b) Cuando los
+vectores se dibujan a escala, se puede obtener la magnitud de midiendo la longitud 
+y aplicando la conversión de escala, y entonces el ángulo de dirección /H9258
+R se mide con un
+transportador. También pueden usarse métodos analíticos. En el caso de un triángulo no
+rectángulo, como en el inciso b, se pueden usar las leyes de los senos y los cosenos para
+determinar la magnitud de y de /H9258R (apéndice I). c) Si el triángulo vectorial es rectángulo,
+es fácil de obtener usando el teorema de Pitágoras, de manera que el ángulo de dirección
+está dado por una función trigonométrica inversa.
+R
+S
+R
+S
+R
+S
+R
+S
+R
+S
+= A
+S
++ B
+S
+.
+B
+S
+,A
+S
+B
+S
+A
+S
+Exploración 3.1 Suma de vectores 
+de desplazamiento
+
+3.2 Suma y resta de vectores 75
+A
+B
+A
+x
+y
+(A + B)
+A – B
+– B
+▲ FIGURA 3.4 Resta de vectores
+La resta de vectores es un caso
+especial de la suma; es decir, 
+donde 
+tiene la misma magnitud que 
+pero dirección opuesta. 
+(Véase el dibujo.) Así, no 
+es lo mismo que ni en
+longitud ni en dirección. ¿Puede
+usted demostrar geométricamente
+que ?B
+S
+- A
+S
+=- 1A
+S
+- B
+S
+2
+B
+S
+- A
+S
+,
+A
+S
++ B
+S
+B
+S
+,
+-B
+S
+A
+S
+- B
+S
+= A
+S
++1-B
+S
+2,
+ b) a)
+x
+y
+C = A + B
+x
+y
+C = Cx + Cy
+Cx
+Cy
+Cx = C cos
+Cy = C sen
+C = /H20857
+   = tan –1 (Cy/Cx)
+Cx 
+22/H11001Cy
+θ
+θ
+θ
+/H9258/H9258
+C CB
+B
+A
+> FIGURA 3.5 Componentes de
+vectores a) Los vectores y 
+sobre los ejes x y y, respectivamente,
+se suman para dar b) Un vector 
+puede descomponerse en com-
+ponentes rectangulares y C
+S
+y.C
+S
+x
+C
+S
+C
+S
+.
+B
+S
+A
+S
+Componentes de vectores y método analítico de componentes
+Probablemente el método analítico más utilizado para sumar varios vectores sea el
+método de componentes. En este libro lo usaremos de forma continua, por lo que es
+indispensable entender bien sus fundamentos. Se recomienda estudiar bien esta sección.
+Suma de componentes rectangulares de vectores Componentes rectangulares se refie-
+re a componentes de vectores que forman un ángulo recto (90/H11034) entre sí; por lo regular
+se toman en las direcciones de las coordenadas rectangulares x y y. Ya presentamos 
+la suma de tales componentes, al explicar los componentes de velocidad de un mo-
+vimiento en la sección 3.1. Para el caso general, suponga que se suman y dos 
+vectores perpendiculares, como en la 
+▼ figura 3.5a. El ángulo recto facilita la tarea. 
+La magnitud de está dada por el teorema de Pitágoras:
+(3.4a)
+La orientación de relativa al eje x está dada por el ángulo
+(3.4b)
+Esta notación es como se expresa una resultante en forma de magnitud-ángulo.
+Descomposición de un vector en componentes rectangulares; vectores unitarios
+La descomposición de un vector en componentes rectangulares es en esencia el inver-
+so de la suma de los componentes rectangulares del vector. Dado un vector la fi-
+gura 3.5b ilustra cómo puede descomponerse en componentes vectoriales y en 
+las direcciones x y y. Basta completar el triángulo de vectores con componentes x y y.
+Como muestra el diagrama, las magnitudes, o longitudes vectoriales, de estos compo-
+nentes están dadas por
+(componentes de vectores) (3.5a)
+(3.5b)
+respectivamente (lo cual es similar a v
+x /H11005v cos /H9258y vy /H11005v sen /H9258en el ejemplo 3.1).* El
+ángulo de dirección de también puede expresarse en términos de los componentes,
+dado que tan /H9258/H11005C
+y/Cx, o
+(3.6)(dirección del vector a partir de las  
+magnitudes de los componentes)u = tan-1¢
+Cy
+Cx
+≤
+C
+S
+ Cy = C sen u
+ Cx = C cos u
+C
+S
+yC
+S
+x
+C
+S
+,
+u = tan-1a B
+Ab
+C
+S
+C = 3A2 + B2
+C
+S
+B
+S
+,A
+S
+* La figura 3.5b ilustra únicamente un vector en el primer cuadrante, pero las ecuaciones son váli-
+das para todos los cuadrantes cuando los vectores se toman con referencia al eje x positivo o negativo.
+Las direcciones de los componentes se indican con signos /H11001y /H11002como veremos a continuación.
+Forma magnitud-ángulo de un
+vector
+
+76 CAPÍTULO 3 Movimiento en dos dimensiones
+†Es común usar el símbolo para denotar fuerza, una cantidad vectorial muy importante que 
+estudiaremos en el capítulo 4. Aquí, usamos como vector general, aunque su uso hará que usted 
+se familiarice con la notación que emplearemos en el siguiente capítulo, donde será indispensable 
+saber sumar fuerzas.
+F
+S
+F
+S
+Otra forma para expresar la magnitud y dirección de un vector incluye vectores
+unitarios. Por ejemplo, como se muestra en la >figura 3.6, un vector se puede escri-
+bir como La magnitud numérica se representa con A, y se llama vector uni-
+tario. Es decir, su magnitud es 1, pero no tiene unidades, de modo que simplemente
+indica la dirección del vector. Por ejemplo, una velocidad a lo largo del eje x se escri-
+biría (es decir, una magnitud de 4.0 m/s en la dirección /H11001x).
+Observe cómo en la figura 3.6 se representaría mediante esta notación. 
+Aunque a veces se coloca el signo menos antes de la magnitud numérica, esta canti-
+dad es un número absoluto; el menos realmente se refiere al vector unitario:
+* Es decir, el vector unitario tiene el sentido (opuesta a 
+). Una velocidad de tiene una magnitud de 4.0 m/s en el sentido
+/H11002x; es decir, 
+Podemos usar esta notación para expresar explícitamente los componentes rec-
+tangulares de un vector. En el caso del desplazamiento de la pelota respecto al origen
+del ejemplo 3.2, se escribiría donde y son vectores
+unitarios en las direcciones x y y, respectivamente. En algunos casos, podría ser más
+conveniente expresar un vector general en esta forma de componentes de vectores
+unitarios:
+(3.7)
+Suma de vectores usando componentes
+El método analítico de componentes para sumar vectores implica descomponer 
+los vectores en componentes rectangulares y sumarlos en cada eje de manera inde-
+pendiente.
+Este método se ilustra gráficamente en la 
+▼ figura 3.7 con dos vectores y †
+Las sumas de los componentes x y y de los vectores que se están sumando son entonces iguales
+a los componentes correspondientes del vector resultante.
+F
+S
+2 .F
+S
+1
+C
+S
+= Cx
+ xN + Cy
+ yN
+yNxNd
+S
+=14.50 m2 xN +112.6 m2 yN,
+v
+S
+=14.0 m>s21-xN2.
+v
+S
+=1-4.0 m>s2 xNaN
+-aN-A
+S
+=- AaN = A1-aN2.
+-A
+S
+v
+S
+=14.0 m>s2 xN
+aNA
+S
+= AaN.
+A
+S
+*A veces se usa un valor absoluto con esta notación, o para indicar clara-
+mente que la magnitud de es una cantidad positiva.A
+S
+-A
+S
+=- ƒ AƒaN,A
+S
+= ƒAƒaN,
+ a)
+x
+y
+ b)
+x
+y
+F = F1 + F2
+F2
+F1
+Fx2
+Fy1 Fx1
+Fy2
+Fy2
+Fy1
+Fx2
+Fx1
+Fy = Fy1 + Fy2F = F1 + F2
+Fx = Fx1 + Fx2
+N FIGURA 3.7 Suma de 
+componentes a) Al sumar 
+vectores con el método de 
+componentes, primero se 
+descompone cada vector en sus 
+componentes x y y. b) Las sumas 
+de los componentes x y y de los 
+vectores y son 
+y respectivamente.F
+S
+y = F
+S
+y1 + F
+S
+y2 ,
+F
+S
+x = F
+S
+x1 + F
+S
+x2F
+S
+2F
+S
+1
+A = A â
+A 
+(magnitud)
+A 
+(vector)
+â (vector 
+    un itario)
+A –A 
+–â
+–A = –A â = A(–â)
+ a)  b)
+A
+▲ FIGURA 3.6 Vectores unitarios
+a) Un vector unitario tiene
+magnitud 1, así que simplemente
+indica la dirección de un vector.
+Escrito junto con la magnitud A,
+representa al vector y 
+b) Para el vector el vector uni-
+tario es y -A
+S
+=- AaN = A1-aN2.-aN,
+-A
+S
+,
+A
+S
+= AaN.A
+S
+,
+aN
+
+3.2 Suma y resta de vectores 77
+El mismo principio es válido si tenemos que sumar tres (o más) vectores. Podría-
+mos obtener la resultante aplicando el método gráfico de punta a cola. Sin embargo,
+esta técnica implica dibujar los vectores a escala y usar un transportador para medir
+ángulos, lo cual quizá se lleve mucho tiempo. De hecho, por lo general es más conve-
+niente juntar todas las colas en el origen, como en la 
+▲ figura 3.8a. Tampoco es necesa-
+rio dibujar los vectores a escala, ya que el dibujo aproximado es sólo una ayuda visual
+para aplicar el método analítico.
+En el método de componentes, descomponemos los vectores que se van a sumar
+en sus componentes x y y, sumamos los componentes respectivos, y los recombina-
+mos para obtener la resultante, que se muestra en la figura 3.8b. Si examinamos los
+componentes x, veremos que su suma vectorial tiene la dirección /H11002x. Asimismo, la
+suma de los componentes y tiene la dirección /H11001y. (Observemos que está en la di-
+rección y y su componente x es cero, y que un vector en la dirección x tendría com-
+ponente y cero.)
+Si usamos la notación de los signos más y menos para indicar sentidos, escribire-
+mos los componentes x y y de la resultante como: v
+x /H11005vx1 /H11002vx3 y vy /H11005vy1 /H11002vy3. 
+Una vez calculados los valores numéricos de los componentes de los vectores y 
+sustituidos en estas ecuaciones, tendremos los valores de v
+x /H110210 y vy /H110220, como se
+muestra en la figura 3.8b.
+Observemos también en la figura 3.8b que el ángulo direccional /H9258de la resultante
+se da respecto al eje x, lo mismo que los de los vectores individuales de la figura 3.8a.
+Al sumar vectores por el método de componentes, usaremos como referencia el eje x más cerca-
+no, es decir, el eje /H11001xo  el eje /H11002x. Esta regla evita tener que manejar ángulos mayores
+que 90 /H11034(como sucede cuando medimos los ángulos de la forma acostumbrada, en
+sentido contrario a las manecillas del reloj, respecto al eje /H11001x) y que usar fórmulas 
+de doble ángulo, como cos( /H9258/H1100190/H11034). Esta restricción simplifica significativamente los
+cálculos. Podemos resumir los procedimientos recomendados para sumar analítica-
+mente vectores con el método de componentes como sigue:
+v
+S
+2
+u x 
+y
+vx
+vy
+(vx1 + vx3)
+(resultante)
+(vy1 + vy2 + vy3)=
+=
+5.0 m/s
+x
+y
+45°
+v2
+30°
+v3
+4.5 m/s
+9.0 m/s
+vy1
+vx1
+vy3
+vx3
+v1
+v
+a)  Método de componentes
+     (descomposición en componentes)
+b)  Método de componentes
+     (suma de componentes x y y mostrando las líneas
+     punteadas desplazadas, para obtener la resultante) 
+▲ FIGURA 3.8 Método de componentes para sumar vectores a) En el método analítico
+de componentes, todos los vectores que se suman ( y ) se colocan primero con sus
+colas en el origen para descomponerlos fácilmente en sus componentes rectangulares. 
+b) Las sumas respectivas de todos los componentes x y todos los componentes y luego 
+se suman para dar los componentes de la resultante v
+S
+.
+v
+S
+3v
+S
+1 , v
+S
+2
+
+78 CAPÍTULO 3 Movimiento en dos dimensiones
+a)
+x
+y
+x
+y
+Ay
+Ax
+Bx
+By
+Ax = A cos
+Ay = A sen
+b)
+  A
+   B Bx
+By
+Ax
+Ay
+Bx = –B cos
+By = –B sen
+(los signos menos indican
+componentes en los 
+sentidos x y y negativas)
+Cy
+Cx
+Cx = Ax + Bx
+     = A cos     + (–B cos
+Cy = Ay + By
+      
+Sumar componentes
+C =   Cx2 + Cy2 
+   = tan–1
+Con Cx < 0 y Cy > 0,
+la resultante C está
+en el 2o. cuadrante
+Cy
+Cx
+C = Cx x + Cy y
+  B)    
+     = A sen     + (–B senA   B)
+/H20857ˆˆ
+θθ
+Aθθ
+A
+A
+B
+B
+/H9258
+/H9258
+/H9258
+/H9258
+/H9258   C/H9258
+/H9258
+  C/H9258
+B
+A
+C
+Procedimientos para sumar vectores con el método 
+de componentes
+1. Descomponga los vectores que se van a sumar en sus componentes x y y. Use los
+ángulos agudos (menores que 90º) entre los vectores y el eje x, e indique los sen-
+tidos de los componentes con signos más y menos ( ▲ figura 3.9).
+2. Sume vectorialmente todos los componentes x y todos los componentes y para ob-
+tener los componentes x y y de la resultante, es decir, de la suma de los vectores.
+3. Exprese el vector resultante con:
+a) la forma de componentes de vectores unitarios; por ejemplo, ,
+o bien,
+b) la forma de magnitud-ángulo.
+Para usar la segunda notación, obtenemos la magnitud de la resultante a partir de los
+componentes x y y sumados, y empleando el teorema de Pitágoras:
+Calculamos el ángulo de dirección (relativo al eje x) obteniendo la tangente inversa
+(tan/H110021) del valor absoluto (es decir, el valor positivo, sin considerar cualesquier signos
+menos) del cociente de las magnitudes de los componentes x y y:
+Determinamos el cuadrante donde está la resultante. Esta información se obtiene de
+los signos de los componentes sumados o de un dibujo de su suma con el método 
+del triángulo. (Véase la figura 3.9.) El ángulo /H9258es el ángulo entre la resultante y el 
+eje x en ese cuadrante.
+u = tan-1`
+Cy
+Cx
+`
+C = 3Cx
+2 + Cy
+2
+C
+S
+= Cx
+ xN + Cy
+ yN
+Nota: el valor absoluto indica 
+que se ignoran los signos menos
+(por ejemplo, /H20841/H110023/H20841/H110053). Esto se
+hace para evitar valores negativos
+y ángulos mayores que 90/H11034.
+▲ FIGURA 3.9 Suma de vectores por el método analítico de componentes
+a) Descomponga los vectores en sus componentes x y y. b) Sume vectorialmente todos 
+los componentes x y todos los componentes y para obtener los componentes x y y de la 
+resultante, es decir, y Exprese la resultante en la forma de componentes, o bien, 
+en la forma de magnitud-ángulo. Todos ángulos se dan respecto al eje /H11001x o al eje /H11002x, 
+para que sean menores de 90/H11034.
+C
+S
+y.C
+S
+x
+
+3.2 Suma y resta de vectores 79
+Ejemplo 3.3 ■ Aplicación del método analítico de componentes:
+separar y combinar componentes x y y
+Apliquemos los pasos del método de componentes a la suma de los vectores de la figura
+3.8b. Los vectores con unidades de metros por segundo representan velocidades.
+Razonamiento. Siga los pasos del procedimiento y apréndaselos. Básicamente, descom-
+ponemos los vectores en componentes y sumamos los componentes respectivos para ob-
+tener los componentes de la resultante, que podrían expresarse en forma de componentes
+o en forma de magnitud-ángulo.
+Solución. Los componentes rectangulares de los vectores se muestran en la figura 3.8b.
+La suma de esos componentes da,
+donde
+y
+En forma tabular, los componentes son:
+Componentes x Componentes y
+Sumas:
+Los sentidos de las componentes se indican con signos. (A veces se omite el signo /H11001por
+sobreentenderse.) En este caso, v2 no tiene componente x. En general, observe que para
+el método analítico de componentes, los componentes x son funciones coseno y los com-
+ponentes y son funciones seno, siempre que la referencia sea el eje x más cercano.
+En forma de componentes, el vector resultante es 
+En forma de magnitud-ángulo, la magnitud de la velocidad resultante es 
+Puesto que el componente x es negativo y el componente y es positivo, la resultante está
+en el segundo cuadrante, con un ángulo de
+sobre el eje x negativo (véase la figura 3.8b).
+Ejercicio de refuerzo. Suponga que en este ejemplo hay otro vector de velocidad
+Calcule la resultante de los cuatro vectores en este caso?
+Aunque sólo hemos hablado de movimiento en dos dimensiones (en un plano), 
+es fácil extender el método de componentes a tres dimensiones. El vector de una 
+velocidad en tres dimensiones tiene componentes x, y y z: y
+su magnitud es  v = 3vx
+2 + vy
+2 + vz
+2 .
+v
+S
+= vx
+ xN + vy
+ yN + vz
+ zN
+v
+S
+4 =1+4.6 m>s2 xN.
+u = tan-1`
+vy
+vx
+` = tan-1a
+3.7 m>s
+4.6 m>sb = 39°
+v = 3vx
+2 + vy
+2 = 41-4.6 m>s22 +13.7 m>s22 = 5.9 m>s
+v
+S
+=1-4.6 m>s2 xN +13.7 m>s2 yN
+ vy =+ 3.7 m>s vx =- 4.6 m>s
+ -v3 sen 30° =- 4.5 m>svy3 -v3 cos 30° =- 7.8 m>svx3
+ =+ 5.0 m>svy2 = 0 m>svx2
+ +v1 sen 45° =+ 3.2 m>svy1 +v1 cos 45° =+ 3.2 m>svx1
+ =14.5 m>s210.7072 +15.0 m>s2 -19.0 m>s210.502 = 3.7 m>s
+ vy = vy1 + vy2 + vy3 = v1 sen 45° + v2 - v3 sen 30°
+ =14.5 m>s210.7072 -19.0 m>s210.8662 =- 4.6 m>s
+ vx = vx1 + vx2 + vx3 = v1 cos 45° + 0 - v3 cos 30°
+v
+S
+= vx
+ xN + vy
+ yN =1vx1 + vx2 + vx32 xN +1vy1 + vy2 + vy32 yN
+
+80 CAPÍTULO 3 Movimiento en dos dimensiones
+Ejemplo 3.4 ■ Encuentre el vector: súmelos
+Tenemos dos vectores de desplazamiento: con magnitud de 8.0 m y dirección de 45 /H11034
+por debajo del eje /H11001x, y cuyas componentes x y y son /H110012.0 m y /H110014.0 m, respectivamen-
+te. Encuentre un vector tal que sea igual a un vector con magnitud de
+6.0 m en la dirección /H11001y.
+Razonamiento. Nuevamente, un dibujo ayuda a entender la situación y da una idea ge-
+neral de los atributos de Sería como la de la sección Aprender dibujando. Observe que
+en el inciso a tanto y tienen componentes /H11001x, así que necesitaría un componente
+/H11002x para cancelarlos. (La resultante apunta sólo en la dirección /H11001y.) y están en la 
+dirección /H11001y, pero la componente es mayor en la dirección —y, así que requeriría
+un componente /H11001y. Con esta información, vemos que estaría en el segundo cuadrante.
+Un dibujo de polígono (como el del inciso b de Aprender dibujando) confirma tal ob-
+servación.
+Así pues, sabemos que tiene componentes en el segundo cuadrante y una magni-
+tud relativamente grande (por las longitudes de los vectores en el diagrama de polígono).
+Esta información nos da una idea de lo que estamos buscando y nos ayuda a decidir si
+los resultados de la solución analítica son razonables.
+Solución.
+Dado: 8.0 m, 45° abajo del eje /H11002x Encuentre: tal que 
+(cuarto cuadrante)
+Hagamos una tabla de componentes para entenderlos mejor:
+Componentes x Componentes y
+Para obtener los componentes de donde sumamos por separado los
+componentes x y y:
+es decir,
+o
+Entonces,
+También podemos expresar el resultado en forma de magnitud-ángulo:
+y
+(arriba del eje /H11002x, ¿por qué?)
+Ejercicio de refuerzo. Suponga que apunta en el sentido opuesta 
+Determine en este caso.C
+S
+3D
+S
+=1-6.0 m2 yN4.D
+S
+u = tan-1`
+Cy
+Cx
+` = tan-1` 7.7 m
+-7.7 m` = 45°
+C = 3Cx
+2 + Cy
+2 = 41-7.7 m22 +17.7 m22 = 11 m
+C
+S
+=1-7.7 m2 xN +17.7 m2 yN
+-5.7 m + 4.0 m + Cy = 6.0 m y Cy =+ 7.7 m
+y: A
+S
+y + B
+S
+y + C
+S
+y = D
+S
+y
++5.7 m + 2.0 m + Cx = 0 y Cx =- 7.7 m
+x: A
+S
+x + B
+S
+x + C
+S
+x = D
+S
+x
+A
+S
++ B
+S
++ C
+S
+= D
+S
+,C
+S
+,
+ Dy =+ 6.0 m
+ Cy = ? Dx = 0
+ =+ 4.0 m By Cx = ?
+ =- 5.7 m Bx =+ 2.0 m
+ Ay =- A sen 45° =- 18.0 m210.7072 Ax = A cos 45° =18.0 m210.7072 =+ 5.7 m
+B
+S
+y =14.0 m2 yN
+B
+S
+x =12.0 m2 xN
+A
+S
++ B
+S
++ C
+S
+= D
+S
+=1+6.0 m2 yN
+C
+S
+A
+S
+:
+C
+S
+C
+S
+C
+S
+A
+S
+y
+D
+S
+B
+S
+yD
+S
+C
+S
+B
+S
+A
+S
+C
+S
+.
+D
+S
+A
+S
++ B
+S
++ C
+S
+C
+S
+B
+S
+,
+A
+S
+,
+Exploración 3.3 Aceleración de una
+pelota de golf que bordea el hoyo
+D
+B
+A
+B
+A
+B
++x-x
++y
+-y
+C  ?
++x-x
++y
+-y
+45°
+8.0 m
+By = +4.0 m
+Bx = +2.0 m
+ a)
+ b)
+a) Se hace un diagrama de los
+vectores y En un diagrama 
+de vectores, las longitudes suelen
+estar a escala (por ejemplo, 1 cm : 
+1 metro) pero en los bosquejos
+rápidos sus longitudes se
+aproximan. b) Si desplazamos 
+a la punta de y dibujamos 
+podremos obtener el vector de 
+la ecuación A
+S
++ B
+S
++ C
+S
+= D
+S
+.
+C
+S
+D
+S
+,A
+S
+B
+S
+B
+S
+.A
+S
+APRENDER DIBUJANDO
+Diagrame 
+y sume
+
+a)
+ b)
+xo
+  y1
+xmáx
+vyo = 0
+vxo = vx
+t = 0
+y
+x
+v2
+v3
+v1
+ xo
+ xo
+y2
+y3
+v
+v
+v
+v
+v
+v
+3.3 Movimiento de proyectiles 81
+Nota: repase la sección 2.5, caída
+libre en una dimensión.
+> FIGURA 3.10 Proyección
+horizontal a) Los componentes de
+velocidad de un proyectil lanzado
+horizontalmente muestran que el
+proyectil viaja a la derecha mientras
+cae, como lo indica el signo menos.
+b) Una fotografía con múltiples
+destellos muestra las trayectorias de
+dos pelotas de golf. Una se proyectó
+horizontalmente al mismo tiempo
+que la otra se dejaba caer en línea
+recta. Las líneas horizontales 
+tienen una separación de 15 cm, 
+y el intervalo entre destellos fue 
+de Los movimientos vertica-
+les de las pelotas son idénticos. 
+¿Por qué? ¿Puede el lector describir
+el movimiento horizontal de la
+pelota que está en gris claro?
+1
+30  s.
+3.3 Movimiento de proyectiles
+OBJETIVOS: Analizar el movimiento de proyectiles para determinar a) posición,
+b) tiempo de vuelo y c) alcance.
+Un ejemplo muy conocido de movimiento curvilíneo bidimensional es el de los obje-
+tos que se lanzan o proyectan con algún mecanismo. El movimiento de una piedra
+lanzada al otro lado de un arroyo o el de una pelota de golf golpeada en el “tee” son
+casos de movimiento de proyectiles . Una situación especial de movimiento de pro-
+yectil en una dimensión es el lanzamiento de un objeto verticalmente hacia arriba (o
+hacia abajo). Ya vimos este caso en el capítulo 2 en términos de caída libre (sin consi-
+derar la resistencia del aire). También trataremos el movimiento de proyectiles como
+caída libre, así que la única aceleración de un proyectil será la debida a la gravedad.
+Podemos usar componentes vectoriales para analizar el movimiento de proyectiles.
+Simplemente descomponemos el movimiento en sus componentes x y y, y los ma-
+nejamos individualmente.
+Proyecciones horizontales
+Vale la pena analizar primero el movimiento de un objeto que se proyecta horizontal-
+mente, paralelo a una superficie plana. Supongamos que lanzamos un objeto hori-
+zontalmente con velocidad inicial v
+xo como en la ▼ figura 3.10. El movimiento de
+proyectiles se analiza a partir del instante en que se sueltan ( t /H110050). Una vez soltado
+el objeto, deja de haber aceleración horizontal ( ax /H110050), así que, durante toda la tra-
+yectoria del objeto, la velocidad horizontal se mantiene constante: vx /H11005vxo.
+Según la ecuación x /H11005xo /H11001vxt (ecuación 3.2a), el objeto proyectado seguiría via-
+jando indefinidamente en la dirección horizontal. Sin embargo, sabemos que esto no
+sucede. Tan pronto como se proyecta el objeto, está en caída libre en la dirección ver-
+tical, con v
+yo /H110050 (como si se hubiera dejado caer) y ay /H11005/H11002g. En otras palabras, el ob-
+jeto proyectado viaja con velocidad uniforme en la dirección horizontal y, al mismo
+tiempo, sufre una aceleración en la dirección hacia abajo por la influencia de la grave-
+dad. El resultado es una trayectoria curva, como se muestra en la figura 3.10. (Compa-
+re los movimientos de las figuras 3.10 y 3.2. ¿Percibe el lector similitudes?) Si no
+hubiera movimiento horizontal, el objeto simplemente caería al suelo en línea recta.
+De hecho, el tiempo de vuelo del objeto proyectado es exactamente el mismo que si estu-
+viera cayendo verticalmente .
+
+82 CAPÍTULO 3 Movimiento en dos dimensiones
+Observe los componentes del vector de velocidad en la figura 3.10a. La longitud
+del componente horizontal no cambia; pero la longitud del componente vertical au-
+menta con el tiempo. ¿Qué velocidad instantánea tiene el objeto en cualquier punto
+de su trayectoria? (Pensemos en términos de suma de vectores, como en la sección
+3.3.) La imagen de la figura 3.10b muestra los movimientos reales de una pelota de
+golf que se proyecta horizontalmente y una que se deja caer simultáneamente des-
+de el reposo. Las líneas de referencia horizontales muestran que las pelotas caen 
+verticalmente con la misma rapidez. La única diferencia es que la que se proyectó 
+horizontalmente también viaja hacia la derecha cuando cae.
+Ejemplo 3.5 ■ Inicio hasta arriba: proyección horizontal
+Suponga que la pelota de la figura 3.10a se proyecta desde una altura de 25.0 m sobre 
+el suelo y se le imprime una velocidad horizontal inicial de 8.25 m/s. a) ¿Cuánto tiempo
+tardará la pelota en golpear el suelo? b) ¿A qué distancia del edificio tocará el suelo la 
+pelota?
+Razonamiento. Al examinar los componentes del movimiento, vemos que en el inciso a
+buscamos el tiempo que la pelota tarda en caer verticalmente, es decir, un caso análogo 
+al de una pelota que se deja caer desde esa altura. Éste es también el tiempo que la pelo-
+ta viaja en la dirección horizontal. La rapidez horizontal es constante, así que podremos
+calcular la distancia horizontal que nos piden en el inciso b.
+Solución. Escribimos los datos eligiendo como origen el punto desde el que se lanza la
+pelota y tomando el sentido hacia abajo como negativo:
+Dado: Encuentre: a) t (tiempo de vuelo)
+b) x (distancia horizontal)
+y por el origen que elegimos.)
+a) Como ya señalamos, el tiempo de vuelo es el mismo que la pelota tardaría en caer 
+verticalmente al suelo. Para calcularlo, podemos usar la ecuación 
+donde se expresa la dirección negativa de g explícitamente, como en el capítulo 2. 
+Con vyo /H110050, tenemos
+Entonces,
+b) La pelota viaja en la dirección x durante el mismo tiempo que viaja en la dirección y
+(es decir, 2.26 s). Puesto que no hay aceleración en la dirección horizontal, la pelota viaja
+en esta dirección con velocidad uniforme. Así, con xo /H110050 y ax /H110050, tenemos
+Ejercicio de refuerzo. a) Colocando los ejes en la base del edificio, demuestre que la ecua-
+ción resultante es la misma que en el ejemplo. b) ¿Qué velocidad (en forma de componen-
+tes) tiene la pelota justo antes de tocar el suelo?
+Proyecciones con ángulos arbitrarios
+En el caso general de movimiento de proyectiles, el objeto se proyecta con un ángulo /H9258
+arbitrario respecto a la horizontal; por ejemplo, una pelota de golf que se golpea con
+un palo (
+Nfigura 3.11). Durante el movimiento de un proyectil, éste viaja hacia arriba 
+y hacia abajo mientras viaja horizontalmente con velocidad constante. (¿La pelota 
+tiene aceleración? Sí. En todos los puntos del movimiento, la gravedad está actuando,
+y )
+a
+S
+=- g yN.
+x = vxo
+ t =18.25 m>s212.26 s2 = 18.6 m
+t = A
+2y
+-g = B
+21-25.0 m2
+-9.80 m>s2 = 2.26 s
+y =- 1
+2 gt2
+y = yo + vyo
+ t - 1
+2 gt2,
+yo = 0 (xo = 0
+ ay =- g
+ vyo = 0
+ ax = 0
+ vxo = 8.25 m>s
+ y =- 25.0 m
+Ilustración 3.4 Movimiento de
+proyectiles
+
+3.3 Movimiento de proyectiles 83
+Alcance R = x máx
+y4
+xo
+ymáx
+y
+x
+y3 = 0
+xo
+yo
+o
+xo
+y1
+xo
+y2 xo
+xo
+y6 6
+-v
+-v
+y5
+vxo
+-v
+ 
+/H9258
+/H9258
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+▲ FIGURA 3.11 Proyección angulada Se muestran los componentes de velocidad de la
+pelota en diversos instantes. (Las direcciones se indican con signos, aunque el signo /H11001se
+omite porque por lo general se sobreentiende.) Observe que vy /H110050 en la cúspide de la 
+trayectoria (ymáx). El alcance R es la distancia horizontal máxima (xmáx). 
+(¿Por qué v0 /H11005v6?)
+▼ FIGURA 3.12 Arcos parabólicos
+Las chispas de metal caliente que
+saltan al soldar describen arcos
+parabólicos.
+(3.8b)
+Puesto que no hay aceleración horizontal y la gravedad actúa en el sentido y negati-
+va, el componente x de la velocidad es constante, mientras que el componente y varía
+con el tiempo (véase la ecuación 3.3d):
+(componentes de velocidad del
+(3.9a)
+movimiento de un proyectil) (3.9b)
+En la figura 3.11 se ilustran los componentes de la velocidad instantánea en diversos
+tiempos. La velocidad instantánea es la suma de estos componentes y es tangente a la
+trayectoria curva de la pelota en cualquier punto. Observe que la pelota golpea el
+suelo con la misma rapidez con que se lanzó (pero con /H11002v
+yo) y con el mismo ángulo
+bajo la horizontal.
+Asimismo, los componentes del desplazamiento están dados por 
+(componentes de desplazamiento (3.10a)
+del movimiento de un proyectil) (3.10b)
+La curva que producen estas ecuaciones (la trayectoria de movimiento del proyectil) se
+denomina parábola. Solemos llamar arco parabólicoa la trayectoria de un proyectil. Tales
+arcos son muy comunes (Nfigura 3.12).
+Cabe señalar que, igual que en la proyección horizontal, lo que los componentes del
+movimiento tienen en común es el tiempo . Entre los aspectos del movimiento de proyec-
+tiles que podrían interesarnos en diversas situaciones están el tiempo de vuelo, la 
+altura máxima alcanzada y el alcance (R), que es la distancia horizontal máxima 
+recorrida.
+ y = vyo
+ t - 1
+2 gt2 =1vo sen u2t - 1
+2 gt2
+ x = vxo
+ t =1vo cos u2t
+(xo = yo = 0):
+ vy = vyo - gt = vo sen u - gt
+ vx = vxo = vo cos u
+Este movimiento también se analiza usando componentes. Igual que antes, toma-
+mos los sentidos  hacia arriba como positivo; y hacia abajo, como negativo. Primero
+descomponemos la velocidad inicial v
+o en sus componentes rectangulares:
+(componentes de velocidad inicial)
+(3.8a)
+vyo = vo sen u
+vxo = vo cos u
+
+84 CAPÍTULO 3 Movimiento en dos dimensiones
+Nota: un proyectil sigue una
+trayectoria parabólica.
+Ejemplo 3.6 ■ El primer golpe del golf: proyección angulada
+Supongamos que un golfista golpea una pelota en el “tee” dándole una velocidad inicial
+de 30.0 m/s con un ángulo de 35/H11034respecto a la horizontal, como en la figura 3.11. a) ¿Qué
+altura máxima alcanza la pelota? b) ¿Qué alcance tiene?
+Razonamiento. La altura máxima tiene que ver con el componente y; el procedimiento
+para obtenerla es como el que usamos para determinar la altura máxima que alcanza una
+pelota proyectada verticalmente hacia arriba. La pelota viaja en la dirección x durante el
+tiempo que tarda en subir y bajar.
+Solución.
+Dado: Encuentre: a) ymáx
+b) R /H11005xmáx
+( y y final )
+Calculemos vxo y vyo, explícitamente para usar ecuaciones de cinemática simplificadas:
+a) Igual que para un objeto lanzado verticalmente hacia arriba, vy /H110050 en la altura má-
+xima (ymáx). Así, calculamos el tiempo requerido para alcanzar la altura máxima ( ta) con 
+la ecuación 3.9b igualando vy a cero:
+Despejando ta, tenemos
+(Observe que ta representa el tiempo que la pelota está en ascenso.)
+Entonces, la altura máxima ymáx se obtiene sustituyendo ta en la ecuación 3.10b:
+La altura máxima también se podría haber obtenido directamente de la ecuación 2.11’,
+con y Sin embargo, el método de resolución que usamos
+aquí ilustra la forma de obtener el tiempo de vuelo.
+b) Al igual que en la proyección vertical, el tiempo de ascenso es igual al de descenso, 
+así que el tiempo total de vuelo es t /H110052ta (para volver a la altura desde la que se pro-
+yectó el objeto, y /H11005yo /H110050, como se observa a partir de y
+)
+El alcance R es igual a la distancia horizontal recorrida (ymáx), la cual se obtiene fácil-
+mente sustituyendo el tiempo total de vuelo t /H110052ta /H110052(1.76 s) /H110053.52 s en la ecuación 3.10a:
+Ejercicio de refuerzo. ¿Cómo cambiarían los valores de altura máxima ( ymáx) y alcance
+(xmáx) si la pelota se hubiera golpeado inicialmente igual en la superficie de la Luna? 
+(Sugerencia: gL /H11005g/6; es decir, la aceleración debida a la gravedad en la Luna es la sexta
+parte que en la Tierra.) No realice cálculos numéricos. Obtenga las respuestas examinan-
+do las ecuaciones.
+El alcance de un proyectil es una consideración importante en diversas aplicacio-
+nes, y tiene especial importancia en los deportes donde se busca un alcance máximo,
+como el golf y el lanzamiento de jabalina.
+En general, ¿qué alcance tiene un proyectil lanzado con velocidad v
+o en un ángulo
+/H9258? Para contestar esta pregunta, deberemos considerar la ecuación empleada en el
+ejemplo 3.6 para calcular el intervalo, R /H11005vxt. Veamos primero las expresiones para vx
+y t. Puesto que no hay aceleración en la dirección horizontal, sabemos que
+y el tiempo total t (como vimos en el ejemplo 3.6) es
+t =
+2vyo
+g =
+2vo sen u
+g
+vx = vxo = vo cos u
+R = xmáx = vx
+ t = vxo12ta2 =124.6 m>s213.52 s2 = 86.6 m
+t = 2vyo>g = 2ta .
+y - yo = vyo
+ t - 1
+2 gt2 = 0,
+vy = 0.y = ymáxvy
+2 = vyo
+2 - 2gy,
+ymáx = vyo
+ ta - 1
+2 gta
+2 =117.2 m>s211.76 s2 - 1
+2 19.80 m>s2211.76 s22 = 15.1 m
+ta =
+vyo
+g =
+17.2 m>s
+9.80 m>s2 = 1.76 s
+vy = 0 = vyo - gta
+ vyo = vo sen 35° =130.0 m>s210.5742 = 17.2 m>s
+ vxo = vo cos 35° =130.0 m>s210.8192 = 24.6 m>s
+y = 0yo = 0xo
+ ay =- g
+ u = 35°
+ vo = 30.0 m>s
+
+3.3 Movimiento de proyectiles 85
+Entonces,
+Utilizando la identidad trigonométrica sen 2 /H9258/H110052 cos /H9258sen /H9258(véase el apéndice I),
+tenemos
+(3.11)
+Vemos que el alcance depende de la magnitud de la velocidad (o rapidez) inicial, vo, y
+del ángulo de proyección, /H9258, suponiendo g constante. Hay que tener en cuenta que tal
+ecuación sólo es válida en el caso especial, pero común, de yinicial /H11005yfinal (es decir,
+cuando el punto de aterrizaje está a la misma altura que el de lanzamiento).
+Ejemplo 3.7 ■ Un lanzamiento desde el puente
+Una chica que está parada en un puente lanza una piedra con una velocidad inicial de 
+12 m/s en un ángulo de 45/H11034bajo la horizontal, en un intento por golpear un trozo de ma-
+dera que flota en el río (▼ figura 3.13). Si la piedra se lanza desde una altura de 20 m sobre
+el río y llega a éste cuando la madera está a 13 m del puente, ¿golpeará la tabla? (Supon-
+ga que la tabla prácticamente no se mueve y que está en el plano del lanzamiento.)
+Razonamiento. La pregunta es ¿qué alcance tiene la piedra? Si este alcance es igual a la
+distancia entre la tabla y el puente, la piedra golpeará la tabla. Para obtener el alcance de
+la piedra, necesitamos calcular el tiempo de descenso (a partir del componente y del mo-
+vimiento) y, con él, calcular la distancia x
+máx. (El tiempo es el factor vinculante.)
+Solución.
+Dado: Encuentre: alcance o xmáx de la
+piedra desde el puente.
+(¿Es igual a la distancia
+entre la tabla y el
+puente?)
+Para obtener el tiempo en el caso de trayectorias hacia arriba, hemos usado v
+y /H11005vyo /H11002g,
+donde vy /H110050 en la cúspide del arco. Sin embargo, en este caso vy no es cero cuando la 
+piedra llega al río, así que necesitamos obtener vy para utilizar esa ecuación. Este valor 
+se determina a partir de la ecuación de cinemática 2.11’,
+vy
+2 = vyo
+2 - 2gy
+ 1xo = yo = 02
+ xtabla = 13 m
+ y =- 20 m  vyo =- vo sen 45° =- 8.5 m>s
+ u = 45°  vxo = vo cos 45° = 8.5 m>s
+vo = 12 m>s
+alcance del proyectil xmáx
+(sólo para yinicial = yfinal)R =
+vo
+2 sen 2u
+g
+R = vx
+ t =1vo cos u2¢
+2vo sen u
+g ≤ =
+2vo
+2 sen u cos u
+g
+y
+x
+x
+y = –20 m
+xtabla = 13 m
+xo = 0, yo = 0 (punto de lanzamiento)
+45°
+??
+ov
+▲ FIGURA 3.13 Lanzamiento desde el puente: ¿acierta o falla? Véase el ejemplo 3.7.
+(continúa en la siguiente página)
+
+86 CAPÍTULO 3 Movimiento en dos dimensiones
+1
+2
+45°
+45°
+vo
+vo
+h
+▲ FIGURA 3.14 ¿Cuál tiene mayor velocidad? Véase el ejemplo 3.8.
+despejando,
+(con la raíz negativa porque vy es hacia abajo).
+Ahora despejamos t en ,
+En este momento la distancia horizontal entre la piedra y el puente es
+Así que el lanzamiento de la chica se queda corto un metro (pues la tabla está a 13 m).
+Podríamos utilizar la ecuación 3.10b, para determinar el tiempo,
+aunque habría implicado resolver una ecuación cuadrática.
+Ejercicio de refuerzo. a) ¿Por qué supusimos que la tabla está en el plano del lanzamien-
+to? b) ¿Por qué en este ejemplo no usamos la ecuación 3.11 para encontrar el alcance? 
+Demuestre que la ecuación 3.11 funciona en el ejemplo 3.6, pero no en el 3.7, calculando 
+el alcance en cada caso y comparando los resultados con las respuestas obtenidas en los
+ejemplos.
+Ejemplo conceptual 3.8 ■ ¿Cuál tiene mayor rapidez?
+Considere dos pelotas, ambas lanzadas con la misma rapidez inicial vo, pero una con un 
+ángulo de 45/H11034arriba de la horizontal y la otra con un ángulo de 45/H11034abajo de la horizontal
+(▼ figura 3.14). Determine si, al llegar al suelo, a) la pelota lanzada hacia arriba tiene mayor
+rapidez, b) la pelota proyectada hacia abajo tiene mayor rapidez o c) ambas tienen la mis-
+ma rapidez. Plantee claramente el razonamiento y los principios de física que usó para 
+llegar a su respuesta, antes de revisar lo siguiente. Es decir, ¿por qué eligió esa respuesta?
+Razonamiento y respuesta. En primera instancia, pensaríamos que la respuesta es b, ya
+que esta pelota se lanza hacia abajo. No obstante, la pelota proyectada hacia arriba cae
+desde una altura máxima mayor, así que tal vez la respuesta sea a. Para resolver este di-
+lema, observe la línea horizontal trazada en la figura 3.14 entre los dos vectores de veloci-
+dad, que se extiende hasta más allá de la trayectoria superior. Vea, además, que abajo de
+la línea, las trayectorias de ambas pelotas son iguales. Asimismo, cuando llega a esta lí-
+y = y
+o + vyo
+ t - 1
+2 gt2,
+xmáx = vxo
+ t =18.5 m>s211.4 s2 = 12 m
+t =
+vyo - vy
+g =
+-8.5 m>s -1-22 m>s2
+9.8 m>s2 = 1.4 s
+vy = vyo - gt
+vy = 41-8.5 m>s22 - 219.8 m>s221-20 m2 =- 22 m>s
+
+3.3 Movimiento de proyectiles 87
+nea, la velocidad hacia abajo de la pelota superior es vo con un ángulo de 45/H11034abajo de la
+horizontal. (Véase la figura 3.11.) Por lo tanto, en lo que respecta a la línea horizontal y
+más abajo, las condiciones son idénticas, con el mismo componente y y el mismo compo-
+nente x constante. Por consiguiente, la respuesta es c.
+Ejercicio de refuerzo. Suponga que la pelota lanzada hacia abajo se proyectó con un 
+ángulo de /H1100240/H11034. ¿Qué pelota golpearía el suelo con mayor rapidez en este caso?
+Sugerencia para resolver problemas
+El alcance de un proyectil que se lanza hacia abajo, como en la figura 3.14, se obtiene co-
+mo se hizo en el ejemplo 3.7. Pero, ¿cómo se obtiene el alcance de un proyectil lanza-
+do hacia arriba? Podríamos ver este problema como uno de “alcance extendido”. Una
+forma de resolverlo consiste en dividir la trayectoria en dos partes: 1) el arco sobre la 
+línea horizontal y 2) el descenso bajo la línea horizontal, de modo que x
+máx /H11005x1 /H11001x2.
+Sabemos cómo calcular x1 (ejemplo 3.6) y x2 (ejemplo 3.7). Otra forma de resolver 
+el problema es usar donde y es la posición final del proyectil, y
+despejar t, el tiempo total de vuelo. Luego se sustituye ese valor en la ecuación 
+La ecuación 3.11, nos permite calcular el alcance para un ángulo 
+de proyección y una velocidad inicial específicos. Sin embargo, hay ocasiones en que
+nos interesa el alcance máximo con una velocidad inicial dada; por ejemplo, el alcance
+máximo de una pieza de artillería que dispara un proyectil con cierta velocidad inicial.
+¿Hay un ángulo óptimo que dé el alcance máximo? En condiciones ideales, la respues-
+ta sería sí.
+Para cierta v
+o, el alcance es máximo (Rmáx) cuando sen 2/H9258/H110051, pues este valor de /H9258
+da el valor máximo de la función seno (que varía entre 0 y 1). Entonces,
+(3.12)
+Puesto que este alcance máximo se obtiene cuando sen 2/H9258/H110051, y dado que sen 90/H11034/H110051,
+tenemos
+2/H9258/H1100590/H11034o /H9258/H1100545/H11034
+para el alcance máximo con una rapidez inicial dada cuando el proyectil regresa a la altura desde
+la que se proyectó. Con un ángulo mayor o menor, si la rapidez inicial del proyectil es la
+misma, el alcance será menor, como se ilustra en la ▼ figura 3.15. También, el alcance es
+el mismo para ángulos que están igualmente arriba y abajo de 45/H11034, como 30/H11034y 60/H11034.
+Así, para lograr el alcance máximo, el proyectil idealmente debe proyectarse con 
+un ángulo de 45 /H11034. Sin embargo, hasta aquí hemos despreciado la resistencia del aire. 
+En situaciones reales, como cuando se lanza o golpea fuertemente una pelota u otro obje-
+to, ese factor podría tener un efecto importante. La resistencia del aire reduce la rapidez
+del proyectil, y por tanto el alcance. El resultado es que, cuando la resistencia del aire es
+1yinicial = yfinal2Rmáx = vo
+2
+g
+R = vo
+2 sen 2u
+g ,
+x = vxo
+ t.
+y = yo + vyo
+ t - 1
+2 gt2,
+15°
+x
+y
+30°
+45°
+60°
+75°
+> FIGURA 3.15 Alcance Para un
+proyectil con cierta rapidez inicial,
+el alcance máximo se logra
+idealmente con una proyección 
+de 45/H11034(sin resistencia del aire). 
+Con ángulos de proyección
+mayores y menores que 45/H11034, el
+alcance es menor, y es igual para
+ángulos que difieren igualmente 
+de 45/H11034(por ejemplo, 30 y 60/H11034).
+Exploración 3.5 Movimiento de un
+proyectil hacia arriba y hacia abajo
+
+88 CAPÍTULO 3 Movimiento en dos dimensiones
+▲ FIGURA 3.16 Resistencia del aire
+y alcance a) Si la resistencia del
+aire es un factor, el ángulo de
+proyección para lograr un alcance
+máximo es menor que 45/H11034. 
+b) Lanzamiento de jabalina. A causa
+de la resistencia del aire la jabalina
+se lanza a un ángulo menor que 45/H11034
+para lograr el máximo alcance.
+▲ FIGURA 3.17 Atletas en acción a) Para maximizar un salto de longitud, los deportistas
+corren tanto como sea posible, y se impulsan hacia arriba con la mayor fuerza para 
+maximizar los componentes de velocidad (v
+x y vy). b) Cuando atacan la canasta y saltan
+para anotar, los jugadores de baloncesto parecen estar suspendidos momentáneamente,
+o “colgados”, en el aire.
+factor, el ángulo de proyección para obtener el alcance máximo es menor que 45/H11034, lo cual
+produce una velocidad horizontal inicial mayor (▲ figura 3.16). Otros factores, como el 
+giro y el viento, también podrían afectar el alcance del proyectil. Por ejemplo, el backspin
+(giro retrógrado) imprimido a una pelota de golf la levanta, y el ángulo de proyección 
+para lograr el alcance máximo podría ser considerablemente menor que 45/H11034.
+No hay que olvidar que para lograr el alcance máximo con un ángulo de pro-
+yección de 45 /H11034, los componentes de la velocidad inicial deben ser iguales, es decir,
+tan
+/H110021(vyo/vxo) /H1100545/H11034y tan 45/H11034/H110051, así que vyo /H11005vxo. Sin embargo, habría casos donde
+tal situación no sea posible físicamente, como lo demuestra el Ejemplo conceptual 3.9.
+Ejemplo conceptual 3.9 ■ El salto más largo: teoría y práctica
+En una competencia de salto de longitud, ¿el saltador normalmente tiene un ángulo de
+lanzamiento a) menor que 45º, b) de exactamente 45º, o c) mayor que 45°? Plantee clara-
+mente el razonamiento y los principios de física que usó para llegar a su respuesta, antes de leer 
+el párrafo siguiente. Es decir, ¿por qué eligió esa respuesta? 
+Razonamiento y respuesta. La resistencia del aire no es un factor importante aquí (aun-
+que se toma en cuenta la velocidad del viento para establecer récords en pruebas de pista
+y campo). Por lo tanto, parecería que, para lograr el alcance máximo, el saltador despega-
+ría con un ángulo de 45º. Sin embargo, hay otra consideración física. Examinemos más de
+cerca los componentes de la velocidad inicial del saltador (
+▼ figura 3.17a).
+Para lograr un salto de longitud máxima, el saltador corre lo más rápidamente que
+puede y luego se impulsa hacia arriba con toda su fuerza, para elevar al máximo los com-
+ponentes de velocidad. El componente de velocidad vertical inicial depende del empu-
+je hacia arriba de las piernas del saltador; mientras que el componente de velocidad hori-
+zontal inicial depende principalmente de la rapidez con que se corrió hasta el punto 
+de salto. En general, se logra una mayor velocidad corriendo que saltando, de manera 
+que Entonces, dado que tenemos donde v
+yo>vxo 6 1u 6 45°,u = tan-11vyo>vxo2,vxo 7 vyo .
+vxo
+vyo
+a)
+b)
+y
+45° con resistencia del aire
+45° sin resistencia del aire
+x
+< 45° con resistencia
+del aire
+ a)  b)
+
+3.3 Movimiento de proyectiles 89
+en este caso. Por lo tanto, la respuesta es a; ciertamente no podría ser c. Un ángulo de 
+lanzamiento típico para un salto largo es de 20 a 25 /H11034. (Si el saltador aumentara su ángu-
+lo de lanzamiento para acercarse más a los 45 /H11034ideales, su rapidez de carrera tendría 
+que disminuir, y esto reduciría el alcance.)
+Ejercicio de refuerzo. Al saltar para anotar, los jugadores de baloncesto parecen estar sus-
+pendidos momentáneamente, o “colgados”, en el aire (figura 3.17b). Explique la física de
+este efecto.
+Ejemplo 3.10 ■ ¿Un “slap shot” es bueno?
+Un jugador de hockey lanza un tiro “slap shot” (tomando vuelo con el bastón) en una
+práctica (sin portero) cuando está 15.0 m directamente frente a la red. La red tiene 1.20 m
+de altura y el disco se golpea inicialmente con un ángulo de 5.00 /H11034sobre el hielo, con una
+rapidez de 35.0 m/s. Determine si el disco entra en la red o no. Si lo hace, determine si va
+en ascenso o en descenso cuando cruza el plano frontal de la red.
+Razonamiento. Primero dibuje un diagrama de la situación empleando coordenadas x-y,
+suponiendo que el disco está en el origen en el momento del golpe e incluyendo la red 
+y su altura, como en la 
+▼ figura 3.18. Note que se exageró el ángulo de lanzamiento. Un
+ángulo de 5.00/H11034es muy pequeño, pero desde luego que la red no es muy alta (1.20 m).
+Para determinar si el tiro se convierte en gol, necesitamos saber si la trayectoria del
+disco lo lleva por arriba de la red o lo hace entrar en ella. Es decir, ¿qué altura ( y) tiene 
+el disco cuando su distancia horizontal es x /H1100515 m? Que el disco vaya en ascenso o en
+descenso a esta distancia horizontal dependerá de cuándo alcanza su altura máxima. Las
+ecuaciones adecuadas deberían darnos esta información; debemos tener presente que el
+tiempo es el factor que vincula los componentes x y y.
+Solución. Hacemos nuestra lista acostumbrada de datos, 
+Dado: Encuentre: si el disco entra en la red
+y, si lo hace, si va de subida, 
+o de bajada
+La posición vertical del disco en cualquier tiempo t está dada por así 
+que necesitamos saber cuánto tiempo tarda el disco en recorrer los 15.0 m que lo se-
+paran de la red. El factor que vincula los componentes es el tiempo, que se obtiene del
+movimiento en x:
+Entonces, al llegar al frente de la red, el disco tiene una altura de
+¡Gol!
+El tiempo ( t
+a) que el disco tarda en alcanzar su altura máxima está dado por
+donde y
+como el disco llega a la red en 0.430 s, va en descenso.
+Ejercicio de refuerzo. ¿A qué distancia de la red comenzó a descender el disco?
+ta =
+vyo
+g =
+3.05 m>s
+9.80 m>s2 = 0.311 s
+vy = 0vy = vyo - gta ,
+ = 1.31 m - 0.906 m = 0.40 m
+ y = vyo
+ t - 1
+2 gt2 =13.05 m>s210.430 s2 - 1
+2 19.80 m>s2210.430 s22
+x = vxo
+ t o t = x
+vxo
+=
+15.0 m
+34.9 m>s
+= 0.430 s
+y = vyo
+ t - 1
+2 gt2,
+ vyo = vo sen 5.00° = 3.05 m>s
+ vxo = vo cos 5.00° = 34.9 m>s
+ vo = 35.0 m>s
+ u = 5.00°
+ ynet = 1.20 m, yo = 0
+ x = 15.0 m, xo = 0
+y
+x5.00° = /H9258 (exagerado para claridad)
+(Hielo)
+x = 0 (punto de lanzamiento) x = 15 my = 0
+?
+1.20 m
+> FIGURA 3.18 ¿Es gol? 
+Véase el ejemplo 3.10.
+
+90 CAPÍTULO 3 Movimiento en dos dimensiones
+3.4 Velocidad relativa
+OBJETIVO: Comprender y determinar velocidades relativas mediante la suma y
+resta de vectores.
+La velocidad no es absoluta, sino que depende del observador. Esto significa que es re-
+lativa al estado de movimiento del observador. Si observamos un objeto que se mueve
+a cierta velocidad, entonces esa velocidad debe ser relativa a algo más. Por ejemplo, en
+el juego de los bolos, la bola se mueve a lo largo de la pista con cierta velocidad, por lo
+que esta última es relativa a la pista. Los movimientos de los objetos a menudo se des-
+criben como relativos a la Tierra o al suelo, en los que comúnmente pensamos como
+marcos de referencia estacionarios. En otros ejemplos es conveniente utilizar un marco
+de referencia en movimiento.
+Las mediciones deben efectuarse con respecto a alguna referencia. Por lo regular,
+esa referencia es el origen de un sistema de coordenadas. El punto designado como
+origen de un conjunto de ejes de coordenadas es arbitrario y un asunto de preferencia.
+Por ejemplo, podríamos “fijar” el sistema de coordenadas a un camino o al suelo, y
+medir el desplazamiento o la velocidad de un automóvil relativos a esos ejes. Para 
+un marco de referencia “en movimiento”, los ejes de coordenadas podría vincularse 
+a un automóvil que avanza por una carretera. Al analizar un movimiento desde otro
+marco de referencia, no alteramos la situación física ni lo que está sucediendo, sólo el
+punto de vista desde el que lo describimos. Por lo tanto, decimos que el movimiento 
+es relativo (a algún marco de referencia) y hablamos de velocidad relativa. Puesto que
+la velocidad es un vector, la suma y resta de vectores ayudan a determinar velocida-
+des relativas.
+Velocidades relativas en una dimensión
+Cuando las velocidades son rectilíneas (en línea recta) en el mismo sentido o en sen-
+tidos opuestos, y todas tienen la misma referencia (digamos, el suelo), calculamos
+velocidades relativas usando la resta de vectores. Por ejemplo, considere unos auto-
+móviles que se mueven con velocidad constante a lo largo de una carretera recta y
+plana, como en la 
+Nfigura 3.19. Las velocidades de los automóviles que se muestran
+en la figura son relativas a la Tierra o al suelo , como indica el conjunto de ejes de coor-
+denadas que se usa como referencia en la figura 3.19a, con los movimientos a lo lar-
+go del eje x. También son relativos a los observadores estacionarios parados a la
+orilla de la carretera o sentados en el auto estacionado A. Es decir, estos observa-
+dores ven que los automóviles se mueven con velocidades y 
+La velocidad relativa de dos objetos está dada por la diferencia
+(vectorial) de velocidad entre ellos. Por ejemplo, la velocidad del automóvil B rela-
+tiva al automóvil A está dada por
+Así, un individuo sentado en el automóvil A vería que el automóvil B se aleja (en la di-
+rección x positiva) con una rapidez de 90 km/h. En este caso rectilíneo,  los sentidos de
+las velocidades se indican con signos más y menos (además del signo menos de la
+ecuación).
+Asimismo, la velocidad del auto C relativa a un observador en el auto A es
+La persona del auto A vería que el automóvil C se acerca (en el sentido x negativa) con
+una rapidez de 60 km/h.
+No obstante, suponga que nos interesa conocer las velocidades de los otros autos
+relativas al automóvil B (es decir, desde el punto de vista de un observador en el auto B)
+o relativas a un conjunto de ejes de coordenadas, cuyo origen está fijo en el automóvil
+B (figura 3.19b). Relativo a esos ejes, el automóvil B no se está moviendo: actúa como
+punto de referencia fijo. Los otros automóviles se están moviendo relativos al automó-
+vil B. La velocidad del auto C relativa al auto B es
+v
+S
+CB = v
+S
+C - v
+S
+B =1-60 km>h2 xN -1+90 km>h2 xN =1-150 km>h2 xN
+v
+S
+CA = v
+S
+C - v
+S
+A =1-60 km>h2 xN - 0 =1-60 km>h2 xN
+v
+S
+BA = v
+S
+B - v
+S
+A =1+90 km>h2 xN - 0 =1+90 km>h2 xN
+v
+S
+C =- 60 km>h.
+v
+S
+B =+ 90 km>h
+Nota: ¡utilice los subíndices con
+cuidado! de A
+relativa a B.
+v
+S
+AB = velocidad
+
+3.4 Velocidad relativa 91
+ c)
+ a)
+vAB = 90 km/h
+vCB = 150 km/h
+vB = 0
+A
+C
+ b)
+vBA = 90 km/h
+vCA = 60 km/h
+vA = 0
+B
+A
+C
+y
+x0
+y‘
+x‘0
+B
+> FIGURA 3.19 Velocidad relativa La velocidad
+observada de un automóvil depende del marco
+de referencia, o es relativa a éste. Las velocidades
+que se muestran en a) son relativas al suelo o 
+al automóvil estacionado. En b), el marco de 
+referencia es con respecto al auto B, y las 
+velocidades son las que observaría el conductor
+de este automóvil. (Véase el texto como 
+descripción.) c) Estos aviones, que realizan 
+reabastecimiento de combustible en el aire, 
+por lo general se describen como en movimiento
+a cientos de kilómetros por hora. ¿A qué marco
+de referencia se refieren esas velocidades?
+¿Qué velocidades tienen uno relativo al otro?
+De forma similar, el auto A tiene una velocidad relativa al auto B de
+Observemos que, relativos a B, los otros autos se están moviendo en el sentido x nega-
+tiva. Es decir, C se está aproximando a B con una velocidad de 150 km/h en el sentido
+x negativa, y A parece estarse alejando de B con una velocidad de 90 km/h en el senti-
+do x negativa. (Imaginemos que estamos en el auto B, y tomemos esa posición como
+estacionaria. El auto C parecería venir hacia nosotros a gran rapidez, y el auto A se es-
+taría quedando cada vez más atrás, como si se estuviera moviendo en reversa relativo
+a nosotros.) En general, observe que,
+¿Qué sucede con las velocidades de los autos A y B relativas al auto C? Desde el
+punto de vista (o de referencia) del automóvil C, los autos A y B parecerían estarse
+aproximando, o moviéndose en el sentido x positiva. Para la velocidad de B relativa 
+a C, tenemos
+¿Puede el lector demostrar que Tome en cuenta también la si-
+tuación en la figura 3.19c.
+En algunos casos, podríamos tener que trabajar con velocidades que se toman con
+respecto a diferentes puntos de referencia. En tales casos obtendremos las velocidades
+relativas sumando vectores. Para resolver problemas de este tipo, es indispensable iden-
+tificar cuidadosamente los puntos de referencia de las velocidades.
+Examinemos primero un ejemplo unidimensional (rectilíneo). Suponga que 
+un andador móvil recto en un gran aeropuerto se mueve con una velocidad de
+donde los subíndices indican la velocidad del andador (w) re-
+v
+S
+wg =1+1.0 m>s2 xN,
+v
+S
+AC =1+60 km>h2 xN?
+v
+S
+BC = v
+S
+B - v
+S
+C =190 km>h2 xN -1-60 km>h2 xN =1+150 km>h2 xN
+v
+S
+AB =- v
+S
+BA
+v
+S
+AB = v
+S
+A - v
+S
+B = 0 -1+90 km>h2 xN =1-90 km>h2 xN
+Exploración 9.5 Dos aviones con
+velocidades de aterrizaje diferentes
+
+92 CAPÍTULO 3 Movimiento en dos dimensiones
+lativa al suelo (g). Un pasajero (p) en el andador (w) quiere transbordar a otro avión 
+y camina con una velocidad de relativa al andador. ¿Qué velo-
+cidad tiene el pasajero relativa a un observador que está parado junto al andador (es
+decir, relativa al suelo)?
+La velocidad que buscamos, está dada por
+Así, el observador estacionario ve que el pasajero viaja con una rapidez de 3.0 m/s por
+el andador. (Haga un dibujo que muestre la suma de vectores.) A continuación tene-
+mos una explicación del uso correcto de los símbolos w.
+Sugerencias para resolver problemas
+Observe el patrón de los subíndices en este ejemplo. En el miembro derecho de la ecua-
+ción, los dos subíndices internos de los cuatro subíndices que hay en total son el mismo
+(w). Básicamente el andador (w) se utiliza como un marco de referencia intermedio.
+Los subíndices externos (p y g) son, en ese orden, los mismos de la velocidad relativa
+que está en el miembro izquierdo de la ecuación. Al sumar velocidades relativas, siem-
+pre compruebe que los subíndices tengan esta relación: indica que la ecuación se plan-
+teó correctamente.
+¿Qué tal si un pasajero se sube en el mismo andador pero en la dirección contraria
+y camina con la misma rapidez que el andador? Ahora es indispensable indicar con un
+signo menos la dirección en la que está caminando el pasajero: 
+En este caso, relativo al observador estacionario,
+así que el pasajero está estacionario respecto al suelo, y el andador actúa como banda
+de ejercicio. (¡Excelente actividad física!)
+Velocidades relativas en dos dimensiones
+Desde luego que las velocidades no siempre son en direcciones iguales u opuestas. No
+obstante, si sabemos usar componentes rectangulares para sumar y restar vectores, se-
+remos capaces de resolver problemas de velocidades relativas en dos dimensiones, 
+como ilustran los ejemplos 3.11 y 3.12.
+Ejemplo 3.11 ■ Al otro lado del río y río abajo: velocidad relativa 
+y componentes de movimiento
+La corriente de un río recto de 500 m de anchura fluye a 2.55 km/h. Una lancha de motor
+que viaja con rapidez constante de 8.00 km/h en aguas tranquilas cruza el río ( Nfigura
+3.20). a) Si la proa de la lancha apunta directamente hacia la otra orilla del río, ¿qué velo-
+cidad tendrá la lancha relativa al observador estacionario que está sentado en la esquina
+del puente? b) ¿A qué distancia río abajo tocará tierra la lancha, relativa al punto directa-
+mente opuesto a su punto de partida?
+Razonamiento. Es muy importante designar con cuidado las cantidades dadas: ¿la velo-
+cidad de qué, relativa a qué? Una vez hecho esto, debería ser sencillo el inciso a. (Véase la
+Sugerencia para resolver problemas anterior.) Para los incisos b y c usaremos cinemática,
+donde la clave es el tiempo que la lancha tarda en cruzar el río.
+Solución. Como se indica en la figura 3.20, tomamos como dirección x la que tiene la ve-
+locidad de flujo del río ( río a orilla), así que la velocidad de la lancha ( lancha a río)
+está en la dirección y. Cabe señalar que la velocidad de flujo del río es relativa a la orilla y
+que la velocidad de la lancha es relativa al río, como indican los subíndices. Tenemos una
+lista de los datos:
+Dado: (anchura del río) Encuentre: a) (velocidad de lancha
+(velocidad del río relativa a la orilla)
+relativa a la orilla) b) x (distancia río abajo)
+(velocidad de lancha 
+relativa al río)
+ =12.22 m>s2 yN
+ v
+S
+br =18.00 km>h2 yN
+ =10.709 m>s2 xN
+ v
+S
+rs =12.55 km>h2 xN
+v
+S
+bs ymax = 500 m
+v
+S
+br ,v
+S
+rs ,
+v
+S
+pg = v
+S
+pw + v
+S
+wg =1-1.0 m>s2 xN +11.0 m>s2 xN = 0
+v
+S
+pw =1-1.0 m>s2 xN.
+v
+S
+pg = v
+S
+pw + v
+S
+wg =12.0 m>s2 xN +11.0 m>s2 xN =13.0 m>s2 xN
+v
+S
+pg ,
+v
+S
+pw =1+2.0 m>s2 xN
+Exploración 9.3 Compare el
+movimiento relativo en 
+diferentes marcos
+
+3.4 Velocidad relativa 93
+v
+v
+v
+v
+v
+vv
+rs
+bsbr
+500 m
+rs
+rs
+bsbr
+ymáx
+x
+x = 0
+y = 0
+x
+/H9258
+/H9258
+▲ FIGURA 3.20 Velocidad relativa y componentes de movimiento Conforme la lancha
+cruza el río, es arrastrada río abajo por la corriente. Véase el ejemplo 3.11.
+Vemos que, a medida que la lancha avanza hacia la orilla opuesta, también es arrastra-
+da río abajo por la corriente. Estos componentes de velocidad serían muy evidentes relati-
+vos al corredor que cruza el puente y al individuo que tranquilamente pasea río abajo en la
+figura 3.20. Si ambos observadores se mantienen al parejo de la lancha, la velocidad de cada
+uno igualará uno de los componentes de la velocidad de la lancha. Puesto que los compo-
+nentes de velocidad son constantes, la lancha avanza en línea recta y cruza el río diagonal-
+mente (de forma muy parecida a la pelota que rueda por la mesa en el ejemplo 3.1).
+a) La velocidad de la lancha relativa a la orilla se obtiene por suma de vectores. En
+este caso, tenemos
+Puesto que las velocidades no están sobre un eje, no podemos sumar directamente sus
+magnitudes. En la figura 3.20 vemos que los vectores forman un triángulo rectángulo, así
+que aplicamos el teorema de Pitágoras para encontrar la magnitud de v
+bs:
+La dirección de esta velocidad está definida por
+b) Para obtener la distancia x que la lancha es arrastrada río abajo, usamos componentes.
+Vemos que, en la dirección y, ymáx /H11005vbrt, y
+que es el tiempo que la lancha tarda en cruzar el río.
+Durante ese tiempo, la corriente arrastra la lancha una distancia de
+Ejercicio de refuerzo. ¿Cuál es la distancia que recorre la lancha cuando cruza el río?
+x = vrs
+ t =10.709 m>s21225 s2 = 160 m
+t =
+ymáx
+vbr
+= 500 m
+2.22 m>s
+= 225 s
+u = tan-1¢
+vrs
+vbr
+≤ = tan-1a
+0.709 m>s
+2.22 m>sb = 17.7°
+ = 2.33 m>s
+ vbs = 3vbr
+2 + vrs
+2 = 412.22 m>s22 +10.709 m>s22
+v
+S
+bs = v
+S
+br + v
+S
+rs
+1v
+S
+bs2
+
+• El movimiento en dos dimensiones se analiza considerando
+sus componentes rectilíneos. El factor que vincula a los com-
+ponentes es el tiempo.
+Componentes de la velocidad inicial:
+(3.1a)
+(3.1b)
+Componentes de desplazamiento (sólo aceleración constante):
+(3.3a)
+(3.3b) y = y
+o + vyo
+ t + 1
+2 ay
+ t2
+ x = xo + vxo
+ t + 1
+2 ax
+ t2
+ vy = vo sen u
+ vx = vo cos u
+x
+y
+vx vx vx vx
+vy
+vy
+vy
+vy
+vx
+vy v
+vx
+vy v
+vx
+vy v
+vx
+vy
+/H9258
+sen
+v
+94 CAPÍTULO 3 Movimiento en dos dimensiones
+Ejemplo 3.12 ■ Volar contra el viento: velocidad relativa
+Una aeronave con una rapidez respecto al aire de 200 km/h (su rapidez en aire estaciona-
+rio) vuela en una dirección tal que, cuando sopla un viento del oeste de 50.0 km/h, avanza
+en línea recta hacia el norte. (La dirección del viento se especifica por la dirección desde la
+cual sopla, así que un viento del oeste empuja hacia el este.) Para mantener su curso direc-
+tamente al norte, el avión debe volar con cierto ángulo, como se ilustra en la 
+>figura 3.21.
+¿Qué rapidez tiene la nave a lo largo de su trayectoria al norte?
+Razonamiento. Aquí también son importantes las designaciones de velocidad, pero la fi-
+gura 3.21 muestra que los vectores de velocidad forman un triángulo rectángulo, así que
+calculamos la magnitud de la velocidad desconocida utilizando el teorema de Pitágoras.
+Solución. Como siempre, es importante identificar el marco de referencia de las velocida-
+des dadas.
+Dado: con ángulo Encuentre: (rapidez de la nave)
+(velocidad de la nave respecto
+al aire estacionario /H11005rapidez del aire)
+este (velocidad del aire 
+respecto a la Tierra, 
+o al suelo /H11005velocidad del viento)
+El avión vuela al norte con velocidad 
+La rapidez del avión (nave) respecto a la Tierra, o al suelo, es v
+pg, es su rapidez respecto
+al aire. Vectorialmente, las velocidades respectivas tienen esta relación:
+Si no soplara el viento ( vag /H110050), la rapidez del avión respecto al aire y respecto al suelo
+serían idénticas. Sin embargo, un viento de frente (soplando directamente hacia el avión)
+reduciría la rapidez respecto al suelo, y un viento de cola la aumentaría. La situación es
+análoga a la de una embarcación que navega contra la corriente o corriente abajo, respec-
+tivamente.
+Aquí, es la resultante de los otros dos vectores, que pueden sumarse por el méto-
+do del triángulo. Usamos el teorema de Pitágoras para obtener v
+pg, teniendo en cuenta
+que vpa es la hipotenusa del triángulo:
+(Es conveniente usar las unidades de kilómetros por hora, ya que en el cálculo no inter-
+vienen otras unidades.)
+Ejercicio de refuerzo. ¿Qué rumbo (dirección /H9258) debe tomar el avión en este ejemplo para
+avanzar directamente hacia el norte?
+vpg = 3vpa
+2 - vag
+2 = 41200 km>h22 -150.0 km>h22 = 194 km>h
+v
+S
+pg
+v
+S
+pg = v
+S
+pa + v
+S
+ag
+v
+S
+pg
+v
+S
+ag = 50.0 km>h
+vpguv
+S
+pg = 200 km>h
+v
+v
+v
+/H9258
+/H9258
+pg
+N
+OE
+S
+pa
+ag
+Viento del oeste
+▲ FIGURA 3.21 Vuelo contra el
+viento Para volar directamente 
+al norte, el rumbo (dirección /H9258) 
+de la nave debe ser al noroeste.
+Véase el ejemplo 3.12.
+Repaso del capítulo
+
+Ejercicios 95
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son
+ejercicios integrados. A lo largo del texto, muc has secciones de ejercicios incluirán ejercicios “apareados”. Estos 
+pares de ejercicios, que se identifican con númer os subrayados, pretenden ayudar al lector a resolver problemas 
+y aprender. El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consul-
+tarse si se necesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da 
+al final del libro.
+7. EI
+● Una pelota de golf se golpea con una rapidez inicial
+de 35 m/s con un ángulo menor que 45º sobre la horizon-
+tal. a) El componente horizontal de velocidad es 1. mayor
+que, 2) igual a o 3) menor que el componente vertical de
+velocidad. ¿Por qué? b) Si la pelota se golpea con un án-
+gulo de 37 /H11034, ¿qué componentes horizontal y vertical de
+velocidad inicial tendrá?
+8. EI
+● Los componentes x y y de un vector de aceleración
+son 3.0 y 4.0 m/s 2, respectivamente. a) La magnitud del
+vector de aceleración es 1) menor que 3.0 m/s 2, 2) entre
+3.0 y 4.0 m/s 2, 3) entre 4.0 y 7.0 m/s 2, 4) igual a 7 m/s 2. 
+b) ¿Cuál es la magnitud y dirección de el vector acele-
+ración?
+9. ● Si la magnitud de un vector de velocidad es 7.0 m/s y
+el componente x es 3.0 m/s, ¿cuál es el componente y?
+10. ●● El componente x de un vector de velocidad que for-
+ma un ángulo de 37/H11034con el eje /H11001x tiene una magnitud de
+4.8 m/s. a) ¿Qué magnitud tiene la velocidad? b) ¿Qué
+magnitud tiene el componente y de la velocidad?
+11. EI ●● Un estudiante camina 100 m al oeste y 50 m al sur.
+a) Para volver al punto de partida, el estudiante debe ca-
+minar en términos generales 1) al sur del oeste, 2) al nor-
+te del este, 3) al sur del este o 4) al norte del oeste. b)
+¿Qué desplazamiento llevará al estudiante al punto de
+partida?
+3.1 Componentes del movimiento
+1. OM En ejes cartesianos, el componente x de un vector ge-
+neralmente se asocia con a) un coseno, b) un seno, c) una
+tangente o d) ninguna de las anteriores.
+2. OM La ecuación se aplica a) a to-
+dos los problemas de cinemática, b) sólo si vyo es cero, 
+c) a aceleraciones constantes, d) a tiempos negativos.
+3. OM Para un objeto en movimiento curvilíneo, a) los com-
+ponentes de velocidad son constantes, b) el componente
+de velocidad y necesariamente es mayor que el compo-
+nente de velocidad x, c) hay una aceleración no paralela a
+la trayectoria del objeto, o d) los vectores de velocidad y
+aceleración deben estar a ángulos rectos (a 90°).
+4. PC ¿El componente x de un vector puede ser mayor que
+la magnitud del vector? ¿Y qué pasa con el componente y?
+Explique sus respuestas.
+5. PC ¿Es posible que la velocidad de un objeto sea perpen-
+dicular a la aceleración del objeto? Si es así, describa el
+movimiento.
+6. PC Describa el movimiento de un objeto que inicialmente
+viaja con velocidad constante y luego recibe una acele-
+ración de magnitud constante a) en una dirección parale-
+la a la velocidad inicial, b) en una dirección perpendicular
+a la velocidad inicial y c) que siempre es perpendicular a
+la velocidad instantánea o dirección de movimiento.
+x = x
+o + vxo
+ t + 1
+2 ax
+ t2
+Componente de velocidad (sólo aceleración constante):
+(3.3c)
+(3.3d)
+• De los diversos métodos de suma vectorial, el método de com-
+ponentes es el más útil. Un vector resultante se puede expresar
+en forma de magnitud-ángulo o en forma de componentes
+con vectores unitarios.
+Representación de vectores:
+(forma de magnitud-ángulo) (3.4a)
+(forma de componentes) (3.7)
+• El movimiento de proyectiles se analiza considerando los com-
+ponentes horizontales y verticales por separado: velocidad
+constante en la dirección horizontal y una aceleración debida
+a la gravedad, g, en la dirección vertical hacia abajo. (Enton-
+ C
+S
+= Cx
+ xN + Cy
+ yN
+ 
+C = 3Cx
+2 + Cy
+2
+u = tan-1`
+Cy
+Cx
+`
+t
+ vy = vyo + ay
+ t
+ vx = vxo + ax
+ t
+ces, las ecuaciones anteriores para aceleración constante tie-
+nen una aceleración de a /H11005/H11002g en vez de a.)
+• Alcance (R) es la distancia horizontal máxima recorrida.
+(3.11)
+(3.12)
+• La velocidad relativa se expresa en relación con un marco de
+referencia específico.
+Alcance R = x máx
+y4
+xo
+ymáx
+y
+x
+y3 = 0
+xo
+yo
+o
+xo
+y1
+xo
+y2 xo
+xo
+y6 6
+-v
+-v
+y5
+vxo
+-v
+ 
+/H9258
+/H9258
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+v
+(yinicial = yfinal)Rmáx = v2
+o
+g
+alcance del proyectil, xmáx
+(sólo para yinicial = yfinal )R = v2
+o sen 2u
+g
+
+96 CAPÍTULO 3 Movimiento en dos dimensiones
+12. ●● Una estudiante pasea diagonalmente por una plaza
+rectangular plana en su universidad, y cubre la distancia
+de 50 m en 1.0 min (
+▼ figura 3.22). a) Si la ruta diagonal
+forma un ángulo de 37 /H11034con el lado largo de la plaza,
+¿qué distancia habría recorrido la estudiante, si hubiera
+caminado dando media vuelta a la plaza en vez de tomar
+la ruta diagonal? b) Si la estudiante hubiera caminado la
+ruta exterior en 1.0 min con rapidez constante, ¿en cuán-
+to tiempo habría caminado cada lado?
+tes de la velocidad promedio de la pelota. b) Determine
+la magnitud y el ángulo de su velocidad promedio. c) Ex-
+plique por qué no es posible determinar su rapidez pro-
+medio a partir de los datos dados.
+3.2 Suma y resta de vectores*
+21. OM Se suman dos vectores con magnitud 3 y 4, respecti-
+vamente. La magnitud del vector resultante es a) 1, b) 7 
+o c) entre 1 y 7.
+22. OM La resultante de es la misma que la de a)
+b)o  c) d) 
+23. OM Un vector unitario tiene a) magnitud, b) dirección, 
+c) ninguna de las anteriores, d) tanto a como b.
+24. PC En el ejercicio 21, ¿en qué condiciones la magnitud de
+la resultante sería igual a 1? ¿Y a 7 o a 5?
+25. PC ¿Un vector diferente de cero puede tener un compo-
+nente x de cero? Explique su respuesta.
+26. PC ¿Es posible sumar una cantidad vectorial a una canti-
+dad escalar?
+27. PC ¿Es posible que sea igual a cero, cuando 
+y tienen magnitudes diferentes de cero? Explique su
+respuesta.
+28. PC ¿Hay vectores iguales en la 
+▼ figura 3.23?
+B
+S
+A
+S
+A
+S
++ B
+S
+-1B
+S
+- A
+S
+2.-1A
+S
++ B
+S
+2,-A
+S
++ B
+S
+,B
+S
+- A
+S
+,
+A
+S
+- B
+S
+x
+y
+0
+A
+B C
+D
+E
+F
+G
+29. ● Empleando el método del triángulo, demuestre grá-
+ficamente que a) y b) si 
+entonces 
+30. EI ● a) ¿La suma de vectores es asociativa? Es decir,
+b) Justifique su respues-
+ta gráficamente.
+1A
+S
++ B
+S
+2 + C
+S
+= A
+S
++1B
+S
++ C
+S
+2?
+A
+S
+= B
+S
++ C
+S
+.
+A
+S
+- B
+S
+= C
+S
+,A
+S
++ B
+S
+= B
+S
++ A
+S
+*En esta sección hay unos cuantos ejercicios que usan vectores de fuer-
+za Tales vectores deberán sumarse como se haría con vectores de
+velocidad. La unidad SI de fuerza es el newton (N). Un vector de fuer-
+za podría especificarse como con un ángulo de 20 /H11034. Cierta 
+familiaridad con los vectores será muy útil en el capítulo 4.F
+S
+F
+S
+= 50 N
+1F
+S
+2.
+▲ FIGURA 3.23 ¿Vectores diferentes? Véase el ejercicio 28.
+37°
+50 m
+▲ FIGURA 3.22 ¿Por dónde? Véase el ejercicio 12.
+13. ●● Una pelota rueda con velocidad constante de 1.50 m/s
+formando un ángulo de 45/H11034por debajo del eje /H11001x en el cuar-
+to cuadrante. Si definimos que la pelota está en el origen 
+en t /H110050, ¿qué coordenadas (x, y) tendrá 1.65 s después?
+14.
+●● Una pelota que rueda sobre una mesa tiene una ve-
+locidad cuyos componentes rectangulares son vx /H110050.60
+m/s y vy /H110050.80 m/s. ¿Qué desplazamiento tiene la pe-
+lota en un intervalo de 2.5 s?
+15. ●● Un avión pequeño despega con una velocidad cons-
+tante de 150 km/h y un ángulo de 37 /H11034. A los 3.00 s, a) ¿a
+qué altura sobre el suelo está el avión y b) qué distancia
+horizontal habrá recorrido desde el punto de despegue?
+16. EI ●● Durante parte de su trayectoria (que dura exacta-
+mente 1 min) un misil viaja con una rapidez constante de
+2000 mi/h y mantiene un ángulo de orientación constan-
+te de 20° con respecto a la vertical. a) Durante esta fase,
+¿qué es verdad con respecto a sus componentes de velo-
+cidad?: 1) v
+y /H11022vx, 2) vy /H11005vx o 3) vy /H11021vx. [Sugerencia: trace
+un dibujo y tenga cuidado con el ángulo.] b) Determine
+analíticamente los dos componentes de velocidad para
+confirmar su elección en el inciso a y calcule también qué
+tan lejos se elevará el misil durante este tiempo.
+17.
+●● En el instante en que una pelota desciende rodando
+por una azotea, tiene un componente horizontal de ve-
+locidad de /H1100110.0 m/s y un componente vertical (hacia
+abajo) de 15.0 m/s. a) Determine el ángulo del techo. 
+b) ¿Cuál es la rapidez de la pelota al salir de la azotea?
+18.
+●● Una partícula se mueve con rapidez de 3.0 m/s en la
+dirección /H11001x. Al llegar al origen, recibe una aceleración
+continua constante de 0.75 m/s 2 en la dirección /H11002y. ¿En
+qué posición estará la partícula 4.0 s después?
+19. ●●● Con rapidez constante de 60 km/h, un automóvil
+recorre una carretera recta de 700 m que tiene una incli-
+nación de 4.0° respecto a la horizontal. Un observador
+nota únicamente el movimiento vertical del auto. Calcu-
+le a) la magnitud de la velocidad vertical del auto y b) la
+distancia vertical que recorrió.
+20.
+●●● Un beisbolista da un home run hacia las gradas del
+jardín derecho. La pelota cae en una fila que se localiza
+135 m horizontalmente con respecto a home y 25.0 m
+arriba del terreno de juego. Un aficionado curioso mide
+el tiempo de vuelo en 4.10 s. a) Determine los componen-
+
+Ejercicios 97
+31. ● Un vector tiene un componente x de /H110022.5 m y un com-
+ponente y de 4.2 m. Exprese el vector en forma de mag-
+nitud-ángulo.
+32.
+● Para los dos vectores y 
+calcule y muestre gráficamente a) b) y c)
+33. ● Durante un despegue (en aire inmóvil), un avión se
+mueve a una rapidez de 120 mi/h con un ángulo de 20 /H11034
+sobre el suelo. ¿Qué velocidad tiene el avión respecto 
+al suelo?
+34.
+●● Dos muchachos tiran de una caja por un piso hori-
+zontal, como se muestra en la ▼ figura 3.24. Si F1 /H1100550.0 N
+y F2 /H11005100 N, encuentre la fuerza (o suma) resultante 
+mediante a) el método gráfico y b) el método de com-
+ponentes.
+x
+S
+2 - x
+S
+1 .
+x
+S
+1 - x
+S
+2x
+S
+1 + x
+S
+2 ,
+x
+S
+2 =115 m2 xN,x
+S
+1 =120 m2 xN
+35. ●● Para cada uno de los vectores dados, determine un
+vector que, al sumársele produzca un vector nulo (un vec-
+tor con magnitud cero). Exprese el vector en la otra 
+forma (componentes o magnitud-ángulo), no en la 
+que se dio. a) arriba del eje /H11001x;
+b) , c) con un 
+ángulo de 60° arriba del eje /H11002x.
+36. EI
+●● a) Si se aumenta al doble cada uno de los dos com-
+ponentes (x y y) de un vector, 1) la magnitud del vector
+aumenta al doble, pero la dirección no cambia; 2) la mag-
+nitud del vector no cambia, pero el ángulo de dirección
+aumenta al doble, o 3) tanto la magnitud como el ángulo
+de dirección del vector aumentan al doble. b) Si los com-
+ponentes x y y de un vector de 10 m a 45/H11034se aumentan al
+triple, describa el nuevo vector.
+C
+S
+= 8.0 cmB
+S
+=12.0 cm2 xN -14.0 cm2 yN
+A
+S
+= 4.5 cm, 40°
+N
+S
+EO 30°
+60°
+(vista desde  
+arriba)
+F1
+F2
+> FIGURA 3.24 Suma
+de vectores de fuerza
+Véanse los ejercicios 
+34 y 54.
+x
+y
+12.0 N
+37°37°
+12.0 N
+F2 F1
+> FIGURA 3.25
+Suma de vectores
+Vea el ejercicio 37.
+x
+y
+30° 60°
+C (15 m/s)
+A (5.0 m/s)
+B (10 m/s)
+▲ FIGURA 3.26 Suma de vectoresVéanse los ejercicios 40 y 41.
+37. ●● Dos hermanos están jalando a su otro hermano en un
+trineo (▼figura 3.25). a) Encuentre la resultante (o suma) 
+de los vectores y b) Si en la figura estuviera a 
+un ángulo de 27° en vez de 37° con el eje /H11001x, ¿cuál sería
+la resultante (o suma) de y 
+38. ●● Dados dos vectores con longitud de 10.0 y angulado 
+45º bajo el eje /H11002x, y que tiene un componente x de /H110012.0 
+y un componente y de +4.0, a) dibuje los vectores en los ejes 
+x-y, con sus “colas” en el origen, y b) calcule 
+39. ●● La velocidad del objeto 1 en forma de componentes es 
+El objeto 2 tiene el do-
+ble de la rapidez del objeto 1, pero se mueve en dirección
+contraria. a) Determine la velocidad del objeto 2 en nota-
+ción de componentes. b) ¿Cuál es la rapidez del objeto 2?
+40. ●● Para los vectores de la ▼figura 3.26, obtenga A
+S
++ B
+S
++ C
+S
+.
+v
+S
+1 =1+2.0 m>s2 xN +1-4.0 m>s2 yN.
+A
+S
++ B
+S
+.
+B
+S
+,
+A
+S
+,
+F
+S
+2?F
+S
+1
+F
+S
+1F
+S
+2.F
+S
+1
+41. ●● Para los vectores de velocidad de la figura 3.26, ob-
+tenga 
+42. ●● Dados dos vectores y con magnitudes A y B, res-
+pectivamente, restamos de para obtener un tercer
+vector Si la magnitud de es 
+¿qué orientación relativa tienen los vectores y 
+43.
+●● En dos movimientos sucesivos de ajedrez, un jugador
+primero mueve a su reina dos cuadros hacia delante, y
+luego la mueve tres cuadros hacia la izquierda (desde el
+punto de vista del jugador). Suponga que cada cuadro
+mide 3.0 cm de lado. a) Si se considera hacia delante (es
+decir, con dirección hacia el oponente) como el eje positi-
+vo y y hacia la derecha como el eje positivo x, indique el
+desplazamiento neto de la reina en forma de componen-
+tes. b) ¿En qué ángulo neto se movió la reina en relación
+con la dirección hacia la izquierda?
+44.
+●● Dos vectores de fuerza, y
+se aplican a una partícula.
+¿Qué tercera fuerza haría que la fuerza neta o resul-
+tante sobre la partícula fuera cero?
+45.
+●● Dos vectores de fuerza, con un ángulo de
+60/H11034arriba del eje /H11001x y con un ángulo de 45 /H11034
+abajo del eje /H11001x, se aplican a una partícula en el origen.
+¿Qué tercera fuerza haría que la fuerza neta o resul-
+tante sobre la partícula fuera cero?
+46.
+●● Un estudiante resuelve tres problemas que piden su-
+mar dos vectores distintos, y Indica que las magni-
+tudes de las tres resultantes están dadas por a) 
+b) y c) Son posibles estos resultados? Si
+lo son, describa los vectores en cada caso.
+3F
+1
+2 + F2
+2 .F1 - F2
+F1 + F2 ,
+F
+S
+2 .F
+S
+1
+F
+S
+3
+F
+S
+2 = 5.5 N
+F
+S
+1 = 8.0 N
+F
+S
+3
+F
+S
+2 =1-6.0 N2 xN +14.5 N2 yN
+F
+S
+1 =13.0 N2 xN -14.0 N2 yN
+B
+S
+?A
+S
+C = A + B,C
+S
+C
+S
+= A
+S
+- B
+S
+.
+A
+S
+B
+S
+B
+S
+A
+S
+A
+S
+- B
+S
+- C
+S
+.
+
+98 CAPÍTULO 3 Movimiento en dos dimensiones
+/H9258= 37°
+w (50 N)
+▲ FIGURA 3.27 Bloque en un plano inclinado Véase el
+ejercicio 47.
+30 m
+20 m
+30°
+40 m
+y
+xA
+45°
+B
+20 m
+▲ FIGURA 3.28 Suma de vectores de desplazamiento
+Véase el ejercicio 49.
+47. ●● Un bloque que pesa 50 N descansa en un plano incli-
+nado. Su peso es una fuerza dirigida verticalmente hacia
+abajo, como se ilustra en la 
+▼ figura 3.27. Obtenga los
+componentes de la fuerza, el paralelo a la superficie del
+plano y el perpendicular a ella.
+*Suponga que los ángulos son exactos, al determinar cifras significativas.
+Ventana
+suspendida
+F2F1
+F3
+52. EI ●●● La ▼ figura 3.29 representa una ventana decorativa
+(el cuadro interior grueso), que pesa 100 N y que está sus-
+pendida sobre un patio (el cuadro exterior delgado). Los
+dos cables de las esquinas superiores están, cada uno, a 45°
+y el izquierdo ejerce una fuerza (F
+1) de 100 N sobre la ven-
+tana. a) ¿Cómo se compara la magnitud de la fuerza que
+ejerce el cable superior derecho (F2) con la que ejerce el ca-
+ble superior izquierdo? 1) F2 /H11022F1, 2) F2 /H11005F1 o 3) F2 /H11021F1. b)
+Utilice su resultado del inciso a para determinar la fuerza
+que ejerce el cable representado en la parte inferior (F3).
+48. ●● Dos desplazamientos, uno con una magnitud de 15.0 m
+y un segundo con una magnitud de 20.0 m, pueden tener
+cualquier ángulo que usted desee. a) ¿Cómo realizaría la
+suma de estos dos vectores de manera que ésta tenga 
+la mayor magnitud posible? ¿Cuál sería esa magnitud? 
+b) ¿Cómo los orientaría de manera que la magnitud de 
+la suma fuera la mínima? ¿Cuál sería ese valor? c) Gene-
+ralice el resultado a cualesquiera dos vectores.
+49.
+●●● Una persona camina del punto A al punto B como se
+muestra en la ▼ figura 3.28. Calcule su desplazamiento
+relativo al punto A.
+53. ●●● Un golfista toma posición para su primer putt al ho-
+yo que se localiza a 10.5 m exactamente al noroeste de la
+ubicación de la pelota. Golpea la pelota 10.5 m en línea
+recta, pero con el ángulo incorrecto, 40 /H11034derecho hacia el
+norte. Para que el golfista logre embocar la pelota con
+dos golpes, determine a) el ángulo del segundo putt y 
+b) la magnitud del desplazamiento del segundo putt. 
+c) Explique por qué no es posible determinar la longi-
+tud del trayecto del segundo putt.
+54.
+●●● Dos estudiantes tiran de una caja como se muestra en
+la figura 3.24. Si F1 /H11005100 N y F2 /H11005150 N, y un tercer estu-
+diante quiere detener la caja, ¿qué fuerza deberá aplicar?
+3.3 Movimiento de proyectiles*
+55. OM Si se desprecia la resistencia del aire, el movimiento
+de un objeto proyectado con cierto ángulo consiste en
+una aceleración uniforme hacia abajo, combinada con 
+a) una aceleración horizontal igual, b) una velocidad 
+horizontal uniforme, c) una velocidad constante hacia
+arriba o d) una aceleración que siempre es perpendicu-
+lar a la trayectoria del movimiento.
+56. OM Un balón de fútbol americano se lanza en un pase
+largo. En comparación con la velocidad horizontal inicial
+del balón, el componente horizontal de su velocidad en
+el punto más alto es a) mayor, b) menor, c) el mismo.
+57. OM Un balón de fútbol americano se lanza en un pase
+largo. En comparación con la velocidad vertical inicial
+del balón, el componente vertical de su velocidad en el
+punto más alto es a) mayor, b) menor, c) el mismo.
+58. PC Una pelota de golf se golpea en un fairway plano.
+Cuando cae al suelo, su vector de velocidad ha sufrido
+un giro de 90/H11034. ¿Con qué ángulo se lanzó la pelota? [Suge-
+rencia: véase la figura 3.11.]
+50.
+EI ●●● Una meteoróloga sigue el movimiento de una
+tormenta eléctrica con un radar Doppler. A las 8:00 P.M.,
+la tormenta estaba 60 mi al noreste de su estación. A las
+10:00 
+P.M., estaba 75 mi al norte. a) La dirección general
+de la velocidad de la tormenta es 1) al sur del este, 2) al
+norte del oeste, 3) al norte del este o 4) al sur del oeste. 
+b) Calcule la velocidad promedio de la tormenta.
+51.
+EI ●●● Un controlador de vuelo determina que un avión
+está 20.0 mi al sur de él. Media hora después, el mismo
+avión está 35.0 mi al noroeste de él. a) La dirección general
+de la velocidad del avión es 1) al este del sur, 2) al norte
+del oeste, 3) al norte del este o 4) al oeste del sur. b) Si el
+avión vuela con velocidad constante, ¿qué velocidad man-
+tuvo durante ese tiempo?
+▲ FIGURA 3.29 Una ventana suspendida sobre un patio
+Véase el ejercicio 52.
+
+Ejercicios 99
+59. PC La figura 3.10b muestra una fotografía por destello
+múltiple de una pelota que cae desde el reposo, al tiempo
+que otra se proyecta horizontalmente desde la misma al-
+tura. Las dos pelotas tocan el suelo al mismo tiempo.
+¿Por qué? Explique su respuesta.
+60. PC En la 
+▼ figura 3.30, un “cañón” accionado por resorte en
+un carrito dispara verticalmente una esfera metálica. El ca-
+rrito recibió un empujón para ponerlo en movimiento hori-
+zontal con velocidad constante, y se tira de un cordel sujeto
+a un gatillo para lanzar la esfera, la cual sube y luego vuelve
+a caer siempre en el cañón en movimiento. ¿Por qué la esfe-
+ra siempre vuelve a caer en el cañón? Explique su respuesta.
+ra B rueda por el piso directamente abajo de la primera
+esfera, con la misma rapidez y dirección. a) Cuando la es-
+fera A cae de la mesa al piso, 1) la esfera B está adelante
+de la A, 2) la esfera B choca con la A o 3) la esfera A que-
+da adelante de la B. ¿Por qué? b) Cuando la pelota A toca
+el piso, ¿a qué distancia del punto directamente abajo del
+borde de la mesa estarán ambas esferas?
+68.
+●● Se dejará caer un paquete de abastecimiento desde un
+avión, de manera que toque tierra en cierto punto cerca de
+unos excursionistas. El avión se mueve horizontalmente
+con una velocidad constante de 140 km/h y se acerca al
+lugar a una altura de 0.500 km sobre el suelo. Al ver el
+punto designado, el piloto se prepara para soltar el pa-
+quete. a) ¿Qué ángulo debería haber entre la horizontal y
+la visual del piloto en el momento de soltar el paquete? 
+b) ¿Dónde estará el avión cuando el paquete toque tierra?
+69.
+●● Un carrito con un cañón accionado por resorte dis-
+para verticalmente una esfera metálica (figura 3.30). Si la
+rapidez inicial vertical de la esfera es 5.0 m/s y el cañón
+se mueve horizontalmente a una rapidez de 0.75 m/s, 
+a) ¿a qué distancia del punto de lanzamiento la esfera
+vuelve a caer en el cañón, y b) qué sucedería si el cañón
+estuviera acelerando?
+70.
+●● Un futbolista patea un balón estacionario dándole
+una rapidez de 15.0 m/s con un ángulo de 15.0/H11034respecto
+a la horizontal. a) Calcule la altura máxima que alcanza
+el balón. b) Calcule el alcance del balón. c) ¿Cómo podría
+aumentarse el alcance?
+71. ●● Una flecha tiene una rapidez de lanzamiento inicial
+de 18 m/s. Si debe dar en un blanco a 31 m de distancia,
+que está a la misma altura, ¿con qué ángulo debería pro-
+yectarse?
+72.
+●● Un astronauta en la Luna dispara un proyectil de un
+lanzador en una superficie plana, de manera que pueda
+obtener el alcance máximo. Si el lanzador imparte al
+proyectil una velocidad inicial de 25 m/s, ¿qué alcance
+tendrá el proyectil? [ Sugerencia: la aceleración debida a
+la gravedad en la Luna es tan sólo la sexta parte que 
+en la Tierra.]
+73.
+●● En 2004 dos sondas descendieron exitosamente en
+Marte. La fase final del descenso en el Planeta Rojo con-
+sistió en el rebote de las sondas hasta que éstas llegaron
+al reposo (iban protegidas por “globos” inflados). En un
+rebote, los datos de telemetría (es decir, los datos electró-
+nicos enviados a la Tierra) indicaron que la sonda inició
+uno de los rebotes a 25.0 m/s a un ángulo de 20° y tocó la
+superficie a una distancia de 110 m (y luego rebotó otra
+vez). Suponiendo que la región de aterrizaje era horizon-
+tal, determine la aceleración de la gravedad cerca de la
+superficie de Marte.
+74.
+●● En condiciones de laboratorio, el alcance de un pro-
+yectil puede utilizarse para determinar su rapidez. Para
+saber cómo se hace, suponga que una pelota cae rodando
+por una mesa horizontal y toca el suelo a 1.5 m de la ori-
+lla de la mesa. Si la superficie de la mesa está 90 cm por
+encima del piso, determine a) el tiempo que la pelota es-
+tá en el aire y b) la rapidez de la pelota cuando pierde
+contacto con la mesa.
+75.
+●● Una piedra lanzada desde un puente 20 m arriba de
+un río tiene una velocidad inicial de 12 m/s dirigida 45 /H11034
+sobre la horizontal (▼ figura 3.31). a) ¿Qué alcance tiene la
+piedra? b) ¿Con qué velocidad llega la piedra al agua?
+?
+vx
+vy
+▲ FIGURA 3.30Carrito de balísticaVéanse los ejercicios 60 y 69.
+61. ● Una esfera con rapidez horizontal de 1.0 m/s rueda has-
+ta caerse de una repisa que está a 2.0 m de altura. a) ¿Cuán-
+to tardará la esfera en llegar al piso? b) ¿Qué tan lejos de un
+punto en el piso situado directamente abajo del borde de 
+la repisa caerá la esfera?
+62.
+● Un electrón se expulsa horizontalmente del cañón de
+electrones de un monitor con una rapidez de 1.5 /H11003106
+m/s. Si la pantalla está a 35 cm del extremo del cañón, ¿qué
+distancia vertical recorrerá el electrón antes de chocar con
+la pantalla? Según su respuesta, ¿cree que los diseñadores
+deban preocuparse por este efecto gravitacional?
+63.
+● Una esfera rueda horizontalmente con una rapidez de
+7.6 m/s y se cae por el borde de una plataforma alta. Si la
+esfera cae a 8.7 m de un punto en el suelo que está direc-
+tamente abajo del borde de la plataforma, ¿qué altura tie-
+ne la plataforma?
+64.
+● Se lanza una pelota horizontalmente desde la cima de
+una colina de 6.0 m de altura, con una rapidez de 15 m/s.
+¿Qué tan lejos del punto en el suelo directamente debajo
+del punto de lanzamiento tocará el suelo la pelota?
+65.
+● Si el lanzamiento del ejercicio 64 se efectuara en la su-
+perficie lunar, donde la aceleración debida a la gravedad
+es de tan sólo 1.67 m/s
+2, ¿qué respuesta se obtendría?
+66. ●● Un pitcher lanza una bola rápida horizontalmente
+con una rapidez de 140 km/h hacia home, que está a 
+18.4 m de distancia. a) Si los tiempos combinados de
+reacción y bateo del bateador suman 0.350 s, ¿durante
+cuánto tiempo puede mirar el bateador la bola después
+de que sale de la mano del lanzador, antes de hacer el
+swing? b) En su recorrido hacia home, ¿qué tanto baja la
+pelota respecto a su línea horizontal original?
+67. EI
+●● La esfera A rueda con rapidez constante de 0.25
+m/s por una mesa que está 0.95 m sobre el piso; y la esfe-
+
+100 CAPÍTULO 3 Movimiento en dos dimensiones
+/H9258
+vo
+4.0 m
+20.0 m
+Manzana Árbol
+1.0 m
+▲ FIGURA 3.32 Tiro a la manzana Véase el ejercicio 78. 
+(No está a escala.)
+76. ●● Si la máxima altura que alcanza un proyectil lanzado
+a nivel del suelo es igual a la mitad de su alcance, ¿cuál
+será el ángulo de lanzamiento?
+77.
+●● Se dice que Guillermo Tell atravesó con una flecha una
+manzana colocada sobre la cabeza de su hijo. Si la rapidez
+inicial de la flecha disparada fue de 55 m/s y el muchacho
+estaba a 15 m de distancia, ¿con qué ángulo de lanzamiento
+dirigió Guillermo la flecha? (Suponga que la flecha y la man-
+zana están inicialmente a la misma altura sobre el suelo.)
+78.
+●●● Esta vez, Guillermo Tell dispara hacia una manzana
+que cuelga de un árbol ( ▼ figura 3.32). La manzana está 
+a una distancia horizontal de 20.0 m y a una altura de 
+4.0 m sobre el suelo. Si la flecha se suelta desde una al-
+tura de 1.00 m sobre el suelo y golpea la manzana 0.500 s
+después, ¿qué velocidad inicial tuvo la flecha?
+79.
+●●● En su práctica, un jugador de hockey lanza un tiro a
+una distancia horizontal de 15 m de la red (sin que estu-
+viera el portero). La red mide 1.2 m de alto y el disco 
+o puck es golpeado inicialmente a un ángulo de 5.0° por
+arriba de la horizontal y con una rapidez de 50 m/s. 
+¿El disco logró entrar en la portería?
+80.
+●●● En dos intentos, se lanza una jabalina a ángulos de 35
+y 60°, respectivamente, con respecto a la horizontal, desde
+la misma altura y con la misma rapidez en cada caso. ¿En
+cuál de los dos casos la jabalina llega más lejos y cuántas
+veces más? (Suponga que la zona de llegada de las jabali-
+nas está a la misma altura que la zona de lanzamiento.)
+81.
+●●● Una zanja de 2.5 m de anchura cruza una ruta para
+bicicletas (▼ figura 3.33). Se ha construido una rampa as-
+cendente de 15/H11034en el acercamiento, de manera que el bor-
+de superior de la rampa esté a la altura de la parte más
+alta de la zanja. ¿Con qué rapidez mínima debe llegar una
+bicicleta para salvar la zanja? (Añada 1.4 m al alcance 
+para que la parte trasera de la bicicleta libre la zanja.)
+y
+x
+20 m
+R
+45°
+▲ FIGURA 3.31 Panorama desde el puente
+Véase el ejercicio 75.
+2.5 m
+15°
+▲ FIGURA 3.33 Salvar la zanja Véase el ejercicio 81. 
+(No está a escala.)
+30°
+> FIGURA 3.34 ¡Ahí va
+cayendo! Véase el 
+ejercicio 82.
+82. ●●● Una pelota rueda desde una azotea en un ángulo de
+30° con respecto a la horizontal (▼ figura 3.34). Cae rodan-
+do por la orilla con una rapidez de 5.00 m/s. La distancia
+desde ese punto hasta el suelo es de dos pisos o 7.00 m. 
+a) ¿Durante cuánto tiempo está la pelota en el aire? b) ¿A
+qué distancia de la base de la casa cae la pelota? c) ¿Cuál es
+su rapidez justo antes de que haga contacto con el suelo?
+83.
+●●● Un mariscal de campo lanza un balón —con una ve-
+locidad de 50 ft/s a un ángulo 40/H11034arriba de la horizontal—
+hacia un receptor abierto que está a 30 yd. El pase se suelta
+5.0 ft sobre el suelo. Suponga que el receptor está esta-
+cionario y que atrapará el balón si éste le llega. ¿Será pase
+completo? Si no, ¿se quedará corto o “volará” al receptor?
+84.
+●●● Un jugador de baloncesto de 2.05 m de estatura ha-
+ce un tiro cuando está a 6.02 m de la canasta (en la línea
+de tres puntos). Si el ángulo de lanzamiento es de 25/H11034y el
+balón se lanzó a la altura de la cabeza del jugador, ¿con
+qué rapidez debe lanzarse para llegar a la canasta, que
+está 3.05 m sobre el piso?
+85.
+●●● El hoyo en un green de golf plano y elevado está a
+una distancia horizontal de 150 m del tee y a una altura 
+de 12.0 m sobre el tee. Una golfista golpea su pelota con
+un ángulo 10.0/H11034mayor que el de elevación del hoyo sobre
+el tee ¡y logra un hoyo en uno! a) Elabore un diagrama de
+la situación. b) Calcule la rapidez inicial de la bola. c) Su-
+ponga que la siguiente golfista golpea su pelota hacia el
+hoyo con la misma rapidez, pero con un ángulo 10.5/H11034ma-
+yor que el de elevación del hoyo sobre el tee. ¿Entrará la
+bola en el agujero, se quedará corta o lo rebasará?
+3.4 Velocidad relativa
+86. OM Usted viaja a 70 km/h en un automóvil por un cami-
+no recto y horizontal. Un automóvil que viene hacia usted
+aparece con una rapidez de 130/kmh. ¿Qué tan rápido se
+aproxima el otro auto: a) 130 km/h, b) 60 km/h, c) 70
+km/h o d) 80 km/h?
+
+Ejercicios 101
+▲
+87. OM Dos automóviles se aproximan uno al otro sobre una
+carretera recta y horizontal. El automóvil A viaja a 60 km/h
+y el automóvil B a 80 km/h. El conductor del auto B ve 
+que el auto A se aproxima con una rapidez de a) 60 km/h,
+b) 80 km/h, c) 20 km/h, d) superior a 100 km/h.
+88. OM Para la situación planteada en el ejercicio 87, ¿con
+qué rapidez ve el conductor del automóvil A que se apro-
+xima el automóvil B? a) 60 km/h, b) 80 km/h, c) 20 km/h
+o d) superior a 100 km/h.
+89. PC Con frecuencia consideramos a la Tierra o al suelo co-
+mo un marco de referencia estacionario. ¿Es verdadera
+esta suposición? Explique su respuesta.
+90. PC Un estudiante camina en una banda sin fin a 4.0 m/s,
+permaneciendo en el mismo lugar del gimnasio. a) Calcu-
+le la velocidad del estudiante relativa al piso del gimnasio.
+b) Calcule la rapidez del estudiante relativa a la banda.
+91. PC Usted corre en la lluvia por una acera recta hacia su
+residencia. Si la lluvia cae verticalmente relativa al suelo,
+¿cómo deberá sostener usted su paraguas para proteger-
+se al máximo de la lluvia? Explique su respuesta.
+92. PC Cuando se dirige hacia la canasta para hacer una
+anotación, un jugador de baloncesto por lo general lanza
+el balón hacia arriba en relación con él mismo. Explique
+por qué.
+93. PC Cuando usted viaja en un automóvil que se desplaza
+rápidamente, ¿en qué dirección lanzaría un objeto hacia
+arriba de manera que éste regresara a sus manos? Expli-
+que por qué.
+94.
+● Usted viaja en un auto por una autopista recta y pla-
+na a 90 km/h y otro automóvil lo rebasa en la misma 
+dirección; el velocímetro del otro auto marca 120 km/h.
+a) Calcule su velocidad relativa al otro conductor. b) Calcu-
+le la velocidad del otro automóvil relativa a usted.
+95.
+● Con prisa por aprovechar una ganga en una tienda de-
+partamental, una mujer sube por la escalera eléctrica con
+una rapidez de 1.0 m/s relativa a la escalera, en vez de
+dejar simplemente que ésta la lleve. Si la escalera tiene
+una longitud de 20 m y se mueve con una rapidez de 0.50
+m/s, ¿cuánto tardará la mujer en subir al siguiente piso?
+96.
+● Una persona viaja en la caja de una camioneta tipo
+pick-up que rueda a 70 km/h por un camino recto y pla-
+no. La persona lanza una pelota con una rapidez de 15
+km/h relativa a la camioneta, en la dirección opuesta al
+movimiento del vehículo. Calcule la velocidad de la pe-
+lota a) relativa a un observador estacionario a la orilla del
+camino y b) relativa al conductor de un automóvil que se
+mueve en la misma dirección que la camioneta, con una
+rapidez de 90 km/h.
+97.
+● En el ejercicio 96, calcule las velocidades relativas si la
+pelota se lanza en la dirección en que avanza la camio-
+neta.
+98.
+●● En un tramo de 500 m de un río, la rapidez de la co-
+rriente es constante de 5.0 m/s. ¿Cuánto tardará una lan-
+cha en terminar un viaje redondo (río arriba y río abajo), si
+su rapidez es de 7.5 m/s relativa al agua?
+99.
+●● Un andador móvil en un aeropuerto tiene 75 m de
+longitud y se mueve a 0.30 m/s. Una pasajera, después
+de recorrer 25 m parada en el andador, comienza a cami-
+nar con una rapidez de 0.50 m/s relativa a la superficie
+del andador. ¿Cuánto tiempo tarda en recorrer la longi-
+tud total del andador?
+100. EI
+●● Una nadadora nada al norte con una rapidez de 0.15
+m/s relativa al agua cruzando un río, cuya corriente se mue-
+ve a 0.20 m/s en dirección al este. a) La dirección general de la
+velocidad de la nadadora, relativa a la ribera, es 1) al norte del
+este, 2) al sur del oeste, 3) al norte del oeste o 4) al sur del este.
+b) Calcule la velocidad de la nadadora relativa a la ribera.
+101.
+●● Una lancha que viaja con una rapidez de 6.75 m/s res-
+pecto al agua quiere cruzar directamente un río y regresar
+(
+▼ figura 3.35). La corriente fluye a 0.50 m/s. a) ¿Con qué
+ángulo(s) debe guiarse la lancha? b) ¿Cuánto tiempo tar-
+dará en hacer el viaje redondo? (Suponga que la rapidez
+de la lancha es constante en todo momento, y que se da
+vuelta instantáneamente.)
+150 mCorriente
+▲ FIGURA 3.35 Ida y regreso Véase el ejercicio 101. 
+(No está a escala.)
+102. EI ●● Está lloviendo y no hay viento. Cuando usted está
+sentado en un automóvil estacionado, la lluvia cae verti-
+calmente relativa al auto y al suelo; pero cuando el auto
+avanza, la lluvia parece golpear el parabrisas con cierto
+ángulo. a) Al aumentar la velocidad del automóvil, este
+ángulo 1) también aumenta, 2) se mantiene igual o 3) dis-
+minuye. ¿Por qué? b) Si las lluvias caen con una rapidez
+de 10 m/s, pero parecen formar un ángulo de 25/H11034relativo
+a la vertical, ¿con qué rapidez avanza el auto?
+103.
+●● Si la tasa de flujo de la corriente en un río que corre en
+línea recta es mayor que la rapidez de una lancha sobre
+el agua, la lancha no puede viajar directamente a través del
+río. Pruebe este enunciado.
+104. EI
+●● Usted se encuentra en una lancha de motor rápida
+que es capaz se mantener una rapidez constante de 20.0
+m/s en aguas tranquilas. En una sección recta del río la
+lancha viaja paralelamente a la ribera. Usted nota que
+tarda 15.0 s en recorrer la distancia entre dos árboles lo-
+calizados en la orilla del río, los cuales están separados
+400 m entre sí. a) Usted está viajando 1) a favor de la co-
+rriente, 2) en contra de la corriente o 3) no hay corriente.
+b) En el caso de que haya corriente [según lo que deter-
+minó en el inciso a], calcule la rapidez de ésta.
+105.
+●● Una lancha de motor es capaz de viajar con una rapidez
+constante de 5.00 m/s en aguas tranquilas. La lancha se di-
+rige a través de un pequeño río (de 200 m de ancho) a un
+ángulo de 25° río arriba con respecto a la línea que cruzaría
+directamente el río. La lancha termina 40.0 m río arriba con
+respecto a la dirección “que va derecho” cuando llega a la
+otra orilla. Determine la rapidez de la corriente del río.
+
+102 CAPÍTULO 3 Movimiento en dos dimensiones
+106. ●●● Un comprador se encuentra en un centro comercial
+en la escalera eléctrica con dirección hacia abajo a un án-
+gulo de 41.8° por debajo de la horizontal, con una rapi-
+dez constante de 0.75 m/s. Al mismo tiempo, un niño
+arroja un paracaídas de juguete desde el piso que está
+arriba de la escalera eléctrica; el juguete desciende verti-
+calmente con una rapidez constante de 0.50 m/s. Deter-
+mine la rapidez del paracaídas de juguete como se le
+observa desde la escalera eléctrica.
+107.
+●●● Un avión vuela a 150 mi/h (rapidez respecto al aire
+en reposo) en una dirección tal que, con un viento de 60.0
+mi/h que sopla del este al oeste, viaja en línea recta hacia
+el sur. a) ¿Qué rumbo (dirección) debe tomar el avión pa-
+ra volar directamente al sur? b) Si el avión debe recorrer
+200 mi en dirección sur, ¿cuánto tardará?
+Ejercicios adicionales
+108. Se intenta anotar un gol de campo cuando el balón está en
+el centro del campo, a 40 yd de los postes. Si el pateador le
+da al balón una velocidad de 70 ft/s hacia los postes, a un
+ángulo de 45° con respecto a la horizontal, ¿será bueno el
+intento? (El travesaño de los postes está 10 ft por encima
+del suelo, y el balón debe pasar por encima del travesaño
+y entre los postes para anotar el gol de campo.)
+109. En la 
+▼ figura 3.36 se muestra el instrumental para una
+demostración en clase. Una arma de fuego se apunta di-
+rectamente a una lata, que se suelta al mismo tiempo 
+que se dispara el arma. Ésta acertará en tanto la rapidez
+inicial de la bala sea suficiente para alcanzar el blan-
+co que cae antes de que llegue al piso. Compruebe esta
+afirmación, utilizando la figura. [Sugerencia: observe que 
+y
+o /H11005x tan /H9258.]
+110. EI Un lanzador de peso lanza un tiro desde una distancia
+vertical de 2.0 m con respecto al suelo (justo por encima
+de su oreja) con una rapidez de 12.0 m/s. La velocidad
+inicial es a un ángulo de 20° por encima de la horizontal.
+Suponga que el suelo es plano. a) En comparación con un
+proyectil lanzado con el mismo ángulo y con la misma
+rapidez a nivel del suelo, ¿el tiro estaría en el aire 1) du-
+rante un tiempo mayor, 2) durante un tiempo menor, o 
+3) durante la misma cantidad de tiempo? b) Justifique su
+respuesta explícitamente, determine el alcance del tiro y
+su velocidad justo antes del impacto en notación de vec-
+tores (componentes) unitarios.
+111. Una de las primeras técnicas para “lanzar” una bomba
+nuclear consistía no en lanzarla, sino en dejarla caer
+mientras el avión iba en ascenso a una alta rapidez. La
+idea era “tirarla” durante el ascenso con un ángulo
+pronunciado, para dar tiempo a que el avión pudiera
+alejarse antes de que la bomba estallara. Suponga que
+el avión viaja a 600 km/h cuando libera la bomba a un
+ángulo de 75° por encima de la horizontal. Suponga
+también que el avión libera la bomba a una altura de
+4000 m por encima del suelo y que la bomba debe deto-
+nar a una altura de 500 m sobre el suelo. Ignorando la
+resistencia del aire, a) ¿cuánto tiempo tiene el avión pa-
+ra alejarse antes de la detonación de la bomba? b) ¿Cuál
+es la altura máxima con respecto al nivel del suelo que
+alcanza la bomba? c) ¿Cuál es la rapidez de la bomba
+justo cuando estalla?
+112. El automóvil A circula por una autopista de entronque
+de Los Ángeles hacia el este con una rapidez constante
+de 35.0 m/s. El automóvil B está por entrar a la autopista
+por la rampa de ingreso, y apunta a 10° al norte con res-
+pecto a la dirección este desplazándose a 30.0 m/s. (Véa-
+se la 
+▼figura 3.37.) Si los vehículos chocan, será en el
+punto marcado con una ✖ en la figura, que se localiza so-
+bre la autopista a 350 m de la posición del automóvil A.
+Utilice el sistema de coordenadas x-y para representar las
+direcciones E-O contra N-S. a) ¿Cuál es la velocidad del
+automóvil B en relación con el automóvil A? b) Demues-
+tre que los vehículos no chocan en el punto 
+✖. c) Determi-
+ne a qué distancia están separados los automóviles (y
+cuál va adelante) cuando el automóvil B llega al punto 
+✖.
+/H9258
+Arma con interruptor, 
+disparada en t = 0
+Lata sujeta
+por un imán
+t = 0
+y
+y
+yoLínea visual
+vo
+x x
+se suelta en
+A
+B
+▲ FIGURA 3.37 Una autopista de
+Los Ángeles Véase el ejercicio 112.
+▲ FIGURA 3.36 Tiro seguro Véase el ejercicio 109. 
+(No está a escala.)
+Los siguientes problemas de física Physlet pueden utilizarse con este capítulo.
+3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 9.1, 9.2, 9.7, 9.9
+
+• Isaac Newton nació en la Navidad de 1642, el
+mismo día en que murió Galileo. (De acuerdo
+con el calendario gregoriano vigente en la ac-
+tualidad, la fecha del nacimiento de Newton
+corresponde al 4 de enero de 1643. Inglaterra
+no utilizó el calendario gregoriano sino hasta
+1752.)
+• Newton
+– descubrió que la luz blanca es una mezcla
+de colores y teorizó que la luz está cons-
+tituida por partículas —a las que llamó
+corpúsculos— y no por ondas. En la ac-
+tualidad se sabe que la luz tiene natura-
+leza dual, pues se comporta como una 
+onda y está formada por partículas lla-
+madas fotones.
+– desarrolló los fundamentos del cálculo.
+Por su parte, Gottfried Leibniz, un matemá-
+tico alemán, desarrolló una versión similar
+del cálculo. Siempre hubo una amarga 
+disputa entre Newton y Leibniz, sobre
+quién debería recibir el crédito por lograr 
+la hazaña primero.
+– fabricó el primer telescopio de reflexión con
+una potencia de 40X.
+• El astrónomo Edmond Halley se basó en el 
+trabajo de Newton sobre la gravitación y las
+órbitas para predecir que un cometa que ha-
+bía observado en 1682 regresaría en 1758. El
+cometa regresó, tal como él predijo, y en su
+honor se le puso el nombre de Halley. Al con-
+trario de la creencia generalizada, Halley no
+descubrió el cometa. Sus apariciones perió-
+dicas se habían registrado desde el año 263 
+a.C., cuando astrónomos chinos lo vieron por
+primera vez. Halley murió en 1742 y no pudo
+ver el retorno de su cometa.
+4.1 Los conceptos de 
+fuerza y fuerza neta 104
+4.2 Inercia y la primera 
+ley de Newton del
+movimiento
+105
+4.3 Segunda ley de 
+Newton del 
+movimiento
+106
+4.4 Tercera ley de New-
+ton del movimiento 112
+4.5 Más acerca de las 
+leyes de Newton:
+diagramas de cuer-
+po libre y equilibrio
+traslacional
+116
+4.6 Fricción 121
+FUERZA Y MOVIMIENTO
+CAPÍTULO
+N
+o es preciso estudiar física para saber qué se necesita para poner en mo-
+vimiento el automóvil de la fotografía (o cualquier otra cosa): un empu-
+jón o un tirón. Si el desesperado automovilista (o la grúa a la que pronto
+llamará) puede aplicar suficiente fuerza, entonces este vehículo se moverá.
+Sin embargo, ¿por qué el automóvil está atorado en la nieve? Su motor puede
+generar fuerza suficiente. ¿Por qué el conductor no pone simplemente el coche en
+reversa y sale de ahí? Para que un automóvil pueda moverse, se necesita otra
+fuerza, además de la que el motor ejerce: fricción. Aquí, el problema con toda se-
+guridad es que no hay suficiente fricción entre los neumáticos y la nieve.
+En los capítulos 2 y 3 aprendimos a analizar el movimiento en términos de 
+cinemática. Ahora nuestra atención se centrará en el estudio de la dinámica; es 
+decir, ¿qué causa el movimiento y los cambios de movimiento? Así llegaremos 
+a los conceptos de fuerza e inercia.
+Muchos de los primeros científicos se ocuparon del estudio de la fuerza y el
+movimiento. El científico inglés Isaac Newton (1642-1727 
+Nfigura 4.1) resumió 
+las diversas relaciones y principios de esos estudiosos pioneros en tres afirma-
+ciones, o leyes, que desde luego se conocen como leyes de Newton del movimiento .
+Estas leyes sintetizan los conceptos de la dinámica. En este capítulo conoceremos
+lo que Newton pensaba acerca de las fuerzas y el movimiento.
+HECHOS DE FÍSICA
+103
+4
+
+104

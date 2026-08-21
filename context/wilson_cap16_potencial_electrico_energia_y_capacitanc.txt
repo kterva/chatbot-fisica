@@ -1,0 +1,3583 @@
+Tema: Potencial eléctrico, energía y capacitancia (Capítulo 16 — Física, Wilson)
+
+CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+Diferencia de potencial eléctrico
+Recuerde que al definir el campo eléctrico como la fuerza eléctrica por unidad de carga
+de prueba positiva, se eliminó la dependencia sobre la carga de prueba. Entonces, cono-
+ciendo el campo eléctrico, se determina la fuerza en cualquier carga puntual coloca-
+da en esa localidad, con F
+e /H11005q/H11001E. Asimismo, la diferencia de potencial eléctrico, /H9004V,
+entre dos puntos cualesquiera en el espacio se define como el cambio en energía 
+potencial por carga unitaria de prueba positiva :
+(diferencia de potencial eléctrico) (16.1)
+Unidad SI de diferencia de potencial eléctrico: 
+joule/coulomb (J/C) o volt (V)
+La unidad SI de la diferencia de potencial eléctrico es el joule por coulomb. Esta uni-
+dad se denomina volt (V) en honor de Alessandro Volta (1745-1827), el científico italia-
+no que construyó la primera batería (capítulo 17), por lo que 1 V /H110051 J/C. La diferencia
+de potencial comúnmente se llama voltaje, y el símbolo para la diferencia de potencial
+usualmente se cambia de /H9004V a sólo V, como lo haremos más adelante en este capítulo.
+Tenga en cuenta un punto fundamental: la diferencia de potencial eléctrico, aunque
+se basa en la diferencia de energía potencial eléctrica, no es lo mismo. La diferencia de po-
+tencial eléctrico se define como la diferencia de energía potencial eléctrica por carga uni-
+taria y, por lo tanto, no depende de la cantidad de carga movida. Como el campo
+eléctrico, la diferencia de potencial es una propiedad útil, ya que a partir de /H9004V se calcu-
+la /H9004U
+e para cualquier cantidad de carga movida. Para ilustrar este punto, calculemos la
+diferencia de potencial asociada con el campo uniforme entre dos placas paralelas:
+(16.2)
+Observe que la cantidad de carga movida, q/H11001, se cancela. Así, la diferencia de potencial
+/H9004V depende sólo de las características de las placas cargadas, esto es, del campo que
+producen (E) y su separación (d). Decimos que:
+Para un par de placas paralelas con cargas opuestas, la placa con carga positi-
+va está en un potencial eléctrico mayor que la de carga negativa, por una can-
+tidad /H9004V.
+Note que se definió la diferencia de potencial eléctrico sin definir primero el poten-
+cial eléctrico (V). Aunque este enfoque no parece correcto, hay una buena razón para
+hacerlo así. Las diferencias de potencial eléctrico son las cantidades físicamente signifi-
+cativas que realmente se miden. (Las diferencias de potencial eléctrico, los voltajes, se
+miden usando voltímetros, los cuales se estudian en el capítulo 18.) En cambio, el va-
+lor del potencial eléctrico V no es definible en una manera absoluta, ya que depende
+por completo de la elección de un punto de referencia. Esto significa que una constan-
+te arbitraria puede sumarse a todos los potenciales, o restarse de éstos, y no alterar las
+diferencias de potencial.
+Encontramos la misma idea durante nuestro estudio de las formas mecánicas de la
+energía potencial asociada con resortes y gravitación (apartados 5.2 y 5.4). Recuerde
+que sólo eran importantes los cambios en energía potencial. Determinamos los valores
+definidos de la energía potencial, pero sólo después de que se definió un punto de re-
+ferencia cero. Así, en el caso de la gravedad, por conveniencia, una energía potencial
+gravitacional igual a cero a veces se elige en la superficie terrestre. Sin embargo, es
+igualmente correcto (y a veces más conveniente) definir el valor cero a una distancia
+infinita de la Tierra (apartado 7.5).
+Esta propiedad también es válida para la energía potencial eléctrica y el potencial
+eléctrico. Este último puede elegirse como cero en la placa negativa de un par de placas
+paralelas cargadas. Sin embargo, a veces resulta conveniente localizar el valor cero en el
+infinito, como veremos en el caso de una carga puntual. De cualquier manera, no se
+afectará la diferencia entre dos puntos dados. Esta idea se aclara en la sección Aprender
+dibujando de esta página. Por lo que suponga que para una cierta selección de la locali-
+dad del potencial eléctrico cero, el punto A resulta tener un potencial de /H11001100 V y el
+punto B un potencial de /H11001300 V . Con un punto cero diferente, el potencial en A podría
+ser de /H110011100 V . En tal caso, el valor del potencial eléctrico en B sería de /H110011300 V . Inde-
+pendientemente del punto cero, B siempre estará 200 V más arriba en potencial que A.
+diferencia de potencial
+(sólo placas paralelas)¢V = ¢Ue
+q+
+=
+q+
+ Ed
+q+
+= Ed
+¢V = ¢Ue
+q+
+Nota: comúnmente asignamos un
+valor de cero al potencial eléctrico
+de la placa negativa, pero esto es
+arbitrario. Sólo diferencias de
+potencial tienen sentido.
+APRENDER DIBUJANDO
+/H9004V es independiente 
+del punto de referencia
+VB = 300 V 
+VA = 1100 VVA = 100 V 
+VB =  1300 V
+A
+BB
+´
+´
+´ ´ΔV = VB − VA
+   = 200 V
+ΔV´ = VB  − VA
+     = 200 V
+ΔV = ΔV´
+
+/H11032
++
++
++
++
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+–
+–
+AB
+q
+pFext
+ a)
++
++
++
++
++
++
++
++ –
+–
+–
+–
+–
+–
+–
+B A
+q
+p
+ b)
+v
++
++
++
++
++
++
++
+B
+B
+A
+d
+d
+d
+ c)
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
+▲ FIGURA 16.2 Aceleración de una
+carga a) Al mover un protón de 
+la placa negativa a la positiva se
+incrementa la energía potencial 
+del protón. (Véase el ejemplo 16.1.)
+b) Cuando se libera de la placa
+positiva, el protón acelera de
+regreso hacia la placa negativa,
+ganando energía cinética a costa 
+de la energía potencial eléctrica. 
+c) El trabajo efectuado para mover
+un protón entre dos puntos cuales-
+quiera en un campo eléctrico, como
+A y B o A y B/H11032, es independiente 
+de la trayectoria.
+16.1 Energía potencial eléctrica y diferencia de potencial eléctrico 539
+El siguiente ejemplo ilustra la relación entre energía potencial eléctrica y diferen-
+cia de potencial eléctrico.
+Ejemplo 16.1 ■ Métodos de energía para mover un protón: 
+energía de potencial contra potencial
+Imagine que un protón se mueve desde la placa negativa hasta la placa positiva del arre-
+glo de placas paralelas ( Nfigura 16.2a). Las placas están 1.50 cm separadas, y el campo
+eléctrico es uniforme con una magnitud de 1500 N/C. a) ¿Cuál es el cambio en la energía
+potencial eléctrica del protón? b) ¿Cuál es la diferencia de potencial eléctrico (voltaje) en-
+tre las placas? c) Si el protón se libera desde el reposo en la placa positiva (figura 16.2b),
+¿qué rapidez tendrá justo antes de tocar la placa negativa?
+Razonamiento. a) El cambio en energía potencial puede calcularse a partir del trabajo re-
+querido para mover la carga. b) La diferencia de potencial eléctrico entre las dos placas se
+determina dividiendo el trabajo efectuado entre la carga movida. c) Cuando se libera el
+protón, su energía potencial eléctrica se convierte en energía cinética. Conociendo la ma-
+sa del protón, se puede calcular su rapidez.
+Solución. La magnitud del campo eléctrico, E, está dada. Como está implicado un pro-
+tón, se conocen su masa y carga (tabla 15.1).
+Dado: Encuentre: a) (cambio de energía potencial)
+b) (diferencia de potencial entre placas)
+c) (rapidez del protón liberado justo antes
+de alcanzar la placa negativa)
+a) Se incrementa la energía potencial eléctrica, porque debe efectuarse trabajo positivo
+sobre el protón para moverlo contra el campo eléctrico, hacia la placa positiva:
+b) La diferencia de potencial, o voltaje, es el cambio de energía potencial por carga unita-
+ria (definida en la ecuación 16.1):
+Decimos entonces que la placa positiva es 22.5 V superior en potencial eléctrico que la
+placa negativa.
+c) La energía total del protón es constante; por lo tanto, /H9004K /H11001/H9004Ue /H110050. El protón no tiene
+energía cinética inicial (Ko /H110050). Por consiguiente, /H9004K /H11005K /H11002Ko /H11005K. De esta relación, se
+calcula la rapidez del protón:
+o bien,
+Pero al regresar a la placa negativa, el cambio en energía potencial del protón es negativo
+(¿por qué?), de manera que /H9004Ue /H11005/H110023.60 /H1100310/H1100218 J y la rapidez del protón será:
+Si bien la energía cinética ganada es muy pequeña, el protón adquiere una alta rapidez
+porque su masa es extremadamente pequeña.
+Ejercicio de refuerzo. ¿Cómo cambiarían sus respuestas en este ejemplo si se moviese una
+partícula alfa en vez de un protón? (Una partícula alfa es el núcleo de un átomo de helio 
+y tiene una carga de /H110012e con una masa de aproximadamente cuatro veces la del protón.)
+(Las respuestas de todos los Ejercicios de refuerzo se dan al final del libro.)
+Los principios del ejemplo 16.1 pueden usarse también para demostrar otra pro-
+piedad interesante de la energía potencial eléctrica (y del potencial eléctrico): ambos
+son independientes de las trayectorias seguidas . Recuerde que en el apartado 5.5 vimos
+que esto significa que la fuerza electrostática es conservativa. En la figura 16.2c, el trabajo
+efectuado para mover el protón de A a B es el mismo, independientemente de la ruta
+tomada. Así, las trayectorias ondulantes alternativas de A a B y de A a B /H11032requieren el
+mismo trabajo que sus respectivas trayectorias rectilíneas. Esto se debe a que el mo-
+vimiento en ángulo recto al campo no requiere trabajo. (¿Por qué?)
+v = A
+21-¢ Ue2
+mp
+= C
+23-1-3.60 * 10-18 J24
+1.67 * 10-27 kg = 6.57 * 104 m>s
+1
+2 mp
+ v2 =- ¢ Ue
+¢K = K =- ¢ Ue
+¢V = ¢Ue
+qp
+= +3.60 * 10-18 J
++1.60 * 10-19 C =+ 22.5 V
+ =+ 3.60 * 10-18 J
+ ¢Ue = qp
+ Ed =1+1.60 * 10-19 C211500 N>C211.50 * 10-2 m2
+ d = 1.50 cm = 1.50 * 10-2 m
+v mp = 1.67 * 10-27 kg
+¢V qp =+ 1.60 * 10-19 C
+¢Ue E = 1500 N>C
+
+−
+−
+−
+v
+/H9004V
+Rayos X
++
+−
+a)
+b)
+▲ FIGURA 16.3 Producción de
+rayos X a) Un aparato dental 
+de rayos X. b) Un diagrama
+esquemático de la producción 
+de rayos X.
+540
+CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+Nota: las diferencias de potencial,
+como en campos eléctricos, se 
+definen en términos de cargas 
+positivas. Las cargas negativas 
+se someten a la misma diferencia
+de potencial, pero la energía 
+potencial opuesta cambia. Para
+determinar si el potencial aumenta
+o disminuye, decida si una fuerza
+externa efectúa trabajo positivo 
+o negativo sobre una carga de
+prueba positiva.
+La analogía gravitacional en el ejemplo 16.1 es, por supuesto, elevar un objeto en
+un campo gravitacional uniforme. Cuando el objeto se eleva, se incrementa su energía
+potencial gravitacional, porque la fuerza de gravedad actúa hacia abajo. Sin embargo,
+con la electricidad, sabemos que hay dos tipos de cargas, y la fuerza entre ellas puede
+ser de repulsión o de atracción. En este punto cesa la simple analogía con la gravedad.
+Para entender por qué la analogía falla, considere cómo el análisis del ejemplo 16.1
+diferiría si se hubiera usado un electrón en vez de un protón. El electrón, negativamen-
+te cargado, sería atraído a la placa B, por lo que la fuerza externa tendría que ser en
+sentido opuesto al desplazamiento del electrón (para evitar que el electrón acelerara).
+Así, para un electrón, esta fuerza haría trabajo negativo, disminuyendo la energía poten-
+cial eléctrica. A diferencia del protón, el electrón es atraído hacia la placa positiva (la
+placa con mayor potencial eléctrico). Si se le permitiera moverse libremente, el electrón
+“caería” (aceleraría) hacia la región de menor potencial. Entonces tanto el protón como
+el electrón terminaron perdiendo energía potencial y ganando energía cinética. En re-
+sumen, acerca del comportamiento de partículas cargadas en campos eléctricos, di-
+remos que:
+Las cargas positivas, al ser liberadas, tienden a moverse hacia regiones de me-
+nor potencial eléctrico.
+Al liberarse las cargas negativas tienden a moverse hacia regiones de mayor po-
+tencial eléctrico.
+Considere la siguiente aplicación médica que implica la generación de rayos X a partir
+de electrones rápidos acelerados por grandes diferencias de potencial eléctrico (voltajes).
+Ejemplo 16.2 ■ Creación de rayos X: aceleración de electrones
+Los consultorios dentales modernos cuentan con aparatos de rayos X para diagnosticar
+problemas dentales ocultos (>figura 16.3a). En general los electrones se aceleran a través
+de una diferencia de potencial eléctrico (voltajes) de 25 000 V . Cuando los electrones gol-
+pean la placa positivamente cargada, su energía cinética se convierte en partículas de luz
+de alta energía llamadas fotones de rayos X (figura 16.3b). (Los fotones son partículas de
+luz.) Suponga que la energía cinética de un solo electrón está igualmente distribuida en-
+tre cinco fotones de rayos X. ¿Cuánta energía tendría un fotón?
+Razonamiento. De la conservación de la energía, la energía cinética ganada por cualquier
+electrón es igual en magnitud a la energía potencial eléctrica que pierde. De esta energía
+cinética perdida por un electrón, puede calcularse la energía de un fotón de rayo X.
+Solución. Se conoce la carga de un electrón (de la tabla 15.1), y se da el voltaje de acele-
+ración.
+Dado: Encuentre: energía (E) de un fotón de rayo X
+El electrón deja la placa negativamente cargada y se mueve hacia la región de máximo
+potencial eléctrico (esto es, “colina arriba”). Así, el cambio en su energía potencial eléc-
+trica es
+La ganancia en energía cinética proviene de esta pérdida en energía potencial eléctrica.
+Como los electrones no tienen energía cinética apreciable cuando ellos empiezan a moverse,
+Por lo tanto, si se comparte igualmente un fotón tendrá una energía de
+Ejercicio de refuerzo. En este ejemplo, use métodos de energía para determinar la rapi-
+dez de uno de los electrones cuando está a un décimo de la distancia a la placa positiva.
+Diferencia de potencial eléctrico debido a una carga puntual
+En campos eléctricos no uniformes, la diferencia de potencial entre dos puntos se de-
+termina aplicando la definición dada en la ecuación 16.1. Sin embargo, cuando varía la
+intensidad del campo (y por ende el trabajo efectuado), su cálculo se complica. El úni-
+E = K
+5 = 8.00 * 10-16 J
+K = ƒ¢Ueƒ = 4.00 * 10-15 J
+¢Ue = q¢V =1-1.60 * 10-19 C21+2.50 * 104 V2 =- 4.00 * 10-15 J
+ ¢V = 2.50 * 104 V
+ q =- 1.60 * 10-19 C
+
++
+A
+B
+MENOR
+POTENCIAL
+rA
+rB
+VB > VA
+ΔV = VB – VA
+es positivo
+MAYOR
+POTENCIAL
+I
+II
+▲ FIGURA 16.4 Campo y potencial
+eléctricos debidos a una carga
+puntual El potencial eléctrico
+aumenta conforme usted se acerca 
+a una carga positiva. Así, B está a
+un potencial mayor que A. 
+16.1 Energía potencial eléctrica y diferencia de potencial eléctrico 541
+co campo no uniforme que consideraremos en detalle es el debido a una carga puntual
+(Nfigura 16.4). Para la expresión para la diferencia de potencial (voltaje) entre dos pun-
+tos a distancias rA y rB desde una carga puntual q, simplemente enunciarnos:
+(16.3)
+En la figura 16.4, la carga puntual es positiva. Como la localidad B está más cerca
+de la carga que A, la diferencia de potencial es positiva, es decir, VB /H11002VA /H110220 o VB /H11022VA.
+De manera que B está a un mayor potencial que A. Esto fundamentalmente es porque
+los cambios en el potencial se determinan visualizando el movimiento de una carga 
+de prueba positiva. Aquí se requiere un trabajo positivo para mover una carga de prue-
+ba de A a B.
+De este análisis, vemos que el potencial eléctrico aumenta conforme consideramos
+localidades más cercanas a una carga positiva. Observe además (figura 16.4) que el tra-
+bajo efectuado en la trayectoria II es el mismo que en la trayectoria I. Como la fuerza
+eléctrica es una fuerza conservativa, la diferencia de potencial es la misma, indepen-
+dientemente de la trayectoria.
+Ahora considere lo que pasaría si la carga puntual fuera negativa. En este caso, B
+estaría a un menor potencial que A, ya que el trabajo requerido para mover una carga
+de prueba positiva más cerca ahora sería negativo (¿por qué?)
+Entonces, el potencial eléctrico cambia de acuerdo con las siguientes reglas:
+El potencial eléctrico aumenta cuando consideramos localidades más cercanas a
+cargas positivas o más alejadas de cargas negativas.
+y
+El potencial eléctrico disminuye cuando consideramos localidades más aleja-
+das de cargas positivas o más cercanas a cargas negativas.
+Por lo general el potencial a una distancia muy grande de una carga puntual se elige
+igual a cero (como lo hicimos con la energía potencial gravitacional para una masa
+puntual en el capítulo 7). Para esta selección, el potencial eléctrico V a una distancia r de
+una carga puntual está dado por
+(16.4)
+Aunque esta expresión es para el potencial eléctrico, V, recuerde que sólo son impor-
+tantes las diferencias de potencial eléctrico (/H9004V), como lo ilustra el siguiente ejemplo.
+Ejemplo integrado 16.3 ■ Descripción del átomo de hidrógeno:
+diferencias de potencial cerca de un protón
+En el modelo de Bohr del átomo de hidrógeno, el electrón en órbita alrededor del protón
+puede existir sólo en ciertas órbitas circulares. La más pequeña tiene un radio de 0.0529 nm,
+y la siguiente mayor tiene un radio de 0.212 nm. a) ¿Qué puede usted decir acerca del 
+potencial eléctrico asociado con cada órbita? 1) La menor tiene un mayor potencial, 2) la
+mayor tiene un mayor potencial o 3) ambas tienen el mismo potencial. Explique su razo-
+namiento. b) Verifique su respuesta en el inciso a calculando los valores del potencial eléc-
+trico en localidades de las dos órbitas.
+a) Razonamiento conceptual. El electrón está en órbita en el campo de un protón, cuya car-
+ga es positiva. Como el potencial eléctrico crece con distancia decreciente desde una carga
+positiva, la respuesta debe ser 1.
+b) Razonamiento cuantitativo y solución. Conocemos la carga del protón, por lo que la
+ecuación 16.4 puede usarse para encontrar los valores del potencial. A continuación da-
+mos una lista de los valores, 
+Dado: Encuentre el valor del potencial eléctrico 
+(V) de cada órbita
+La ecuación 16.4 nos permite determinar el potencial eléctrico en ambas distancias. Así,
+V
+1 =
+kqp
+r1
+=
+19.00 * 109 N # m2>C221+1.60 * 10-19 C2
+5.29 * 10-11 m =+ 27.2 V
+ r2 = 0.212 nm = 2.12 * 10-10 m (Nota: 1 nm = 10-9 m)
+ r1 = 0.0529 nm = 5.29 * 10-11 m
+ qp =+ 1.60 * 10-19 C
+V =
+kq
+r
+diferencia de potencial eléctrico
+(sólo carga puntual)¢V =
+kq
+rB
+-
+kq
+rA
+(continúa en la siguiente página)
+potencial eléctrico
+(sólo carga puntual,
+cero a infinito)
+
+542 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+y para la órbita mayor, tenemos
+Ejercicio de refuerzo. En este ejemplo, suponga que el electrón se movió de la más pe-
+queña a la siguiente órbita. a) ¿Se movió a una región de mayor o menor potencial eléc-
+trico? b) ¿Cuál sería el cambio en la energía potencial eléctrica del electrón?
+Energía potencial eléctrica de varias configuraciones de carga
+En el capítulo 7 la energía potencial gravitacional de sistemas de masas se analizó con
+algún detalle. Las expresiones para la fuerza eléctrica y la fuerza gravitacional son ma-
+temáticamente similares, así como aquellas para las correspondientes energías poten-
+ciales, excepto por el uso de carga en vez de masa (recuerde que la carga se asocia a
+dos signos). En el caso gravitacional de dos masas, la energía potencial gravitacional
+mutua es negativa, porque la fuerza siempre es atractiva. Para la energía potencial eléc-
+trica, el resultado puede ser positivo o negativo, porque la fuerza eléctrica puede ser
+de repulsión o de atracción.
+Si una carga puntual positiva q
+1 está fija en el espacio y una segunda carga positi-
+va q2 se lleva hacia ella desde una distancia muy grande (es decir, hacen su localidad
+inicial r → /H11009) a una distancia r12 (>figura 16.5a). En este caso, el trabajo requerido es po-
+sitivo (¿por qué?). Por lo tanto, este sistema específico gana energía potencial eléctrica.
+El potencial a una gran distancia (V
+/H11009) se escoge igual a cero, como se acostumbra para
+cargas puntuales y masas. (Recuerde que el punto de referencia cero es arbitrario.) Así,
+de la ecuación 16.3, vemos que el cambio en energía potencial es
+Como el valor a gran distancia de la energía potencial eléctrica se elige igual a ce-
+ro, se infiere que /H9004U
+e /H11005U12 /H11002U/H11009/H11005U12. Con esta selección del valor de referencia, la
+energía potencial de cualquier sistema de dos cargas es
+(16.5)
+Para cargas de signos diferentes, la energía potencial eléctrica es negativa. Para cargas
+del mismo signo, la energía potencial eléctrica es positiva. Así, si las dos cargas son del
+mismo signo, al liberarlas, se separarán ganando energía cinética y perdiendo ener-
+gía potencial. A la inversa, se requiere trabajo positivo para incrementar la separación
+de dos cargas opuestas, como el protón y el electrón, similar a estirar un resorte. (Véa-
+se el Ejercicio de refuerzo del Ejemplo integrado 16.3.)
+Como la energía es una cantidad escalar, para una configuración de cualquier nú-
+mero de cargas puntuales, la energía potencial total (U) es la suma algebraica de las
+energías potenciales mutuas de todos los pares de cargas:
+(16.6)
+Sólo los tres primeros términos de la ecuación 16.6 serían necesarios para la configu-
+ración mostrada en la figura 16.5b. Observe que los signos de las cargas mantienen las
+cosas matemáticamente correctas, como lo muestra la situación molecular del ejem-
+plo 16.4.
+Ejemplo 16.4 ■ La molécula de la vida: la energía potencial eléctrica 
+de una molécula de agua
+La molécula de agua es la base de la vida como la conocemos. Muchas de sus propiedades
+importantes (por ejemplo, que sea un líquido sobre la superficie de la Tierra) están rela-
+cionadas con el hecho de que es una molécula polar permanente (un dipolo eléctrico; véa-
+se la sección 15.4). Una simple figura de la molécula de agua, incluidas las cargas, está
+dada en la 
+Nfigura 16.6. La distancia de cada átomo de hidrógeno al átomo de oxígeno es
+de 9.60 /H1100310/H1100211 m, y el ángulo ( /H9258) entre las dos direcciones de enlace hidrógeno-oxígeno 
+es de 104°. ¿Cuál será la energía electrostática de la molécula de agua?
+U = U12 + U23 + U13 + U14 Á
+energía potencial eléctrica 
+mutua (dos cargas)U12 =
+kq1
+ q2
+r12
+¢Ue = q2¢V = q21V1 - Vq2 = q2a
+kq1
+r12
+- 0b =
+kq1
+ q2
+r12
+V2 =
+kqp
+r2
+=
+19.00 * 109 N # m2>C221+1.60 * 10-19 C2
+2.12 * 10-10 m =+ 6.79 V
+r12
+q1 q2
+++ +
+Muy
+distante
+(U = 0)
+r12
+kq1q2
+U12 =
+a)
+r23
+r12
+r13
+U = U12 + U23 + U13
++
++
+−
+b)
+q1
+q2
+q3
+▲ FIGURA 16.5 Energía potencial
+eléctrica mutua de cargas 
+puntuales a) Si se mueve una carga
+positiva desde una gran distancia 
+a una distancia r
+12 desde otra carga
+positiva, se tiene un incremento en
+energía potencial, porque debe 
+efectuarse trabajo positivo para
+acercar las cargas mutuamente 
+repelentes. b) Para más de dos 
+cargas, la energía potencial eléctrica
+del sistema es la suma de las 
+energías potenciales mutuas 
+de cada par.
+
+16.2 Superficies equipotenciales y el campo eléctrico 543
+Razonamiento. El modelo de la molécula de agua implica tres cargas. Se dan las cargas,
+pero la distancia entre los átomos de hidrógeno deben calcularse mediante trigonometría.
+La energía potencial electrostática total es la suma algebraica de las energías potenciales
+de los tres pares de cargas (es decir, la ecuación 16.6 tendrá tres términos).
+Solución. Los siguientes datos se tomaron de la figura 16.6.
+Dado: Encuentre: U (potencial electrostático total 
+de la molécula de agua)
+Observe que (r12/2)/r13 /H11005sen(/H9258/2). Por consiguiente, despejamos r12:
+Antes de determinar la energía potencial total de este sistema, calculemos cada contribu-
+ción de los pares al total por separado. Observe que U13 /H11005U23. (¿Por qué?) Aplicando la
+ecuación 16.5,
+y
+La energía potencial electrostática total es
+El resultado negativo indica que la molécula requiere trabajo positivo para romperse.
+(Esto es, debe separarse.)
+Ejercicio de refuerzo. Otra molécula polar común es el monóxido de carbono (CO), un
+gas tóxico comúnmente producido en automóviles cuando la quema del combustible es
+incompleta. El átomo de carbono está positivamente cargado y el átomo de oxígeno nega-
+tivamente cargado. La distancia entre el átomo de carbono y el átomo de oxígeno es de
+1.20 /H1100310
+/H1100210 m, y la carga (promedio) sobre cada uno es de 6.60 /H1100310/H1100220 C. Determine la
+energía electrostática de esta molécula. ¿Es más o menos eléctricamente estable que una
+molécula de agua en este ejemplo?
+16.2 Superficies equipotenciales y el campo eléctrico
+OBJETIVOS: a) Explicar lo que significa superficie equipotencial, b) esbozar superfi-
+cies equipotenciales para configuraciones de carga simple y c) expli-
+car la relación entre superficies equipotenciales y campos eléctricos.
+Superficies equipotenciales
+Suponga que una carga positiva se mueve perpendicularmente a un campo eléctrico
+(como la trayectoria I de la ▼figura 16.7a). Cuando la carga se mueve de A a A/H11032, el cam-
+po eléctrico no efectúa ningún trabajo (¿por qué?). Si no se efectúa trabajo, entonces la
+energía potencial de la carga no cambia, por lo que /H9004UAA/H11032/H110050. De este resultado, con-
+cluimos que esos dos puntos (A y A /H11032) y todos los otros puntos sobre la trayectoria I, 
+están al mismo potencial V; esto es,
+Esta propiedad también es válida para todos los puntos sobre el plano paralelo a
+las placas y que contienen la trayectoria I. Un plano sobre el cual el potencial eléctrico
+es constante, es una superficie equipotencial (llamado a veces una equipotencial). La
+¢VAA¿ = VA¿ - VA = ¢UAA¿
+q = 0 o sea VA = VA¿
+ =- 8.53 * 10-19 J
+ U = U12 + U13 + U23 =1+1.61 * 10-19 J2 +1-5.07 * 10-19 J2 +1-5.07 * 10-19 J2
+ =- 5.07 * 10-19 J
+ U13 = U23 =
+kq2
+ q3
+r23
+=
+19.00 * 109 N # m2>C221+5.20 * 10-20 C21-10.4 * 10-20 C2
+9.60 * 10-11 m
+ =+ 1.61 * 10-19 J
+ U12 =
+kq1
+ q2
+r12
+=
+19.00 * 109 N # m2>C221+5.20 * 10-20 C21+5.20 * 10-20 C2
+1.51 * 10-10 m
+r12 = 2r13 ¢sen u
+2
+≤ = 219.60 * 10-11 m21sen 52°2 = 1.51 * 10-10 m
+ u = 104°
+ r13 = r23 = 9.60 * 10-11 m
+ q3 =- 10.4 * 10-20 C
+ q1 = q2 =+ 5.20 * 10-20 C
+q1 = +5.20 × 10−20 C 
+q2 = +5.20 × 10−20 C 
+q3 =
+−10.4 × 10−20 C 
++
++
+−− θ
+r13
+r23
+r12
+O
+H
+H
+▲ FIGURA 16.6 Energía potencial
+electrostática de una molécula 
+de agua Una configuración de 
+carga tiene energía potencial eléc-
+trica, ya que se requiere trabajo para
+acercar las cargas desde grandes
+distancias. Las cargas mostradas 
+sobre la molécula de agua son 
+cargas netas promedio, porque 
+los átomos dentro de la molécula 
+comparten electrones. Así, las 
+cargas sobre los extremos de la 
+molécula de agua pueden ser 
+menores que la carga sobre el 
+electrón o el protón. (Véase los 
+detalles en el ejemplo 16.4.)
+
+–– –– – – –
++++++++
+a)
+E
+A
+/H11032A
+––––– – –
++++++++
+b)
+E
+B
+A
+B/H11032
+VA
+VB
+c)
+▲ FIGURA 16.7 Construcción de 
+superficies equipotenciales entre
+placas paralelas a) El trabajo 
+efectuado al mover una carga es 
+cero, siempre que usted comience 
+y termine sobre la misma superficie
+equipotencial. (Compare las trayec-
+torias I y II.) b) Una vez que la carga
+se mueve a un potencial mayor (por
+ejemplo, del punto A al punto B),
+puede permanecer en esa nueva 
+superficie equipotencial movién-
+dose perpendicularmente al campo
+eléctrico (B a B/H11032). El cambio en 
+potencial es independiente de la
+trayectoria, ya que el mismo cambio
+ocurre si se usa la trayectoria I o 
+la trayectoria II. (¿Por qué?) c) Las
+superficies reales equipotenciales
+dentro de las placas paralelas son
+planos paralelos a esas placas. 
+Dos de tales placas se muestran,
+con V
+B /H11022VA.
+544 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+m
+hA
+h
+hB
+UB = UB´ = mghB
+UA = mghA < UB
+Ug = 0
+A
+B
+g
+B/H11032 > FIGURA 16.8 Analogía con la energía
+potencial gravitacional Elevar un objeto
+en un campo gravitacional uniforme 
+conduce a un incremento en energía 
+potencial gravitacional, y U
+B /H11022UA. 
+A determinada altura, la energía potencial
+del objeto es constante siempre que 
+permanezca sobre esa superficie equipo-
+tencial (gravitacional). Aquí, señala 
+hacia abajo, como en la figura 16.7.E
+S
+g
+S
+palabra equipotencial significa “mismo potencial”. Note que, a diferencia de este caso
+especial, una equipotencial no necesita ser una superficie plana.
+Como ningún trabajo se requiere para mover una carga a lo largo de una superfi-
+cie equipotencial, por lo general debe ser cierto que
+Las superficies equipotenciales forman siempre ángulos rectos con el campo
+eléctrico.
+Además, como el campo eléctrico es un campo conservativo, el trabajo será el mismo si
+tomamos la trayectoria I, la trayectoria II o cualquier otra trayectoria de A a A/H11032(figura
+16.7a). Siempre que la carga regrese a la misma superficie equipotencial de la cual par-
+tió, el trabajo efectuado es cero y su energía potencial eléctrica permanece igual.
+Si la carga positiva se mueve en sentido opuesto al de (trayectoria I en la figura
+16.7b), en ángulos rectos a las equipotenciales, la energía potencia eléctrica y, por lo
+tanto, el potencial eléctrico, aumentarán. (¿Por qué?) Cuando se alcanza B, la carga
+está sobre una superficie equipotencial diferente, una con un potencial mayor que la
+de A. Si la carga se moviera de A a B/H11032, el trabajo requerido sería el mismo que al mover-
+la de A a B. Por consiguiente, B y B/H11032están también sobre una superficie equipotencial.
+Así, para placas paralelas cargadas, las superficies equipotenciales son planos parale-
+los a las placas, como se muestra en la figura 16.7c.
+Para ayudar a entender el concepto de una superficie equipotencial eléctrica, con-
+sideremos una analogía gravitacional. Si la energía potencial gravitacional se estable-
+ce como cero al nivel del suelo y se levanta un objeto a una altura h /H11005h
+B /H11002hA (de A a
+B en la ▼figura 16.8), entonces el trabajo realizado por una fuerza externa es mgh y es
+positivo. Para el movimiento horizontal, no cambia la energía potencial. Esto signifi-
+ca que el plano rayado a la altura h
+B es una superficie equipotencial gravitacional, así
+como lo es el plano en hA, pero a un menor potencial. Así, las superficies de energía
+potencial gravitacional constante son planos paralelos a la superficie terrestre. Los
+mapas topográficos que presentan contornos terrestres al trazar líneas de elevación
+constante (usualmente relativos al nivel del mar) en realidad son mapas de potencial
+gravitacional constante (
+Nfigura 16.9a, b). Observe cómo las equipotenciales cerca de
+una carga puntual (figura 16.9c, d) son cualitativamente similares a los contornos 
+de una colina.
+Es útil aprender a diagramar las superficies equipotenciales, porque están íntima-
+mente relacionadas con el campo eléctrico y aspectos prácticos como el voltaje. La sec-
+ción Aprender dibujando sobre relación gráfica entre líneas de campo eléctrico y
+equipotenciales (p. 547) resume un método cualitativo que es útil para diagramar su-
+perficies equipotenciales, dado un patrón de líneas de campo eléctrico. Como se verá
+ahí, el método es también útil para el problema inverso: diagramar las líneas de campo
+eléctrico si se dan las superficies equipotenciales. ¿Puede ver cómo esas ideas se usa-
+ron para construir las equipotenciales de un dipolo eléctrico en la 
+Nfigura 16.10?
+Para determinar la relación entre el campo eléctrico (E) y el potencial eléctrico (V),
+considere el caso especial del campo eléctrico uniforme (Nfigura 16.11). La diferencia de
+potencial (/H9004V) entre dos planos equipotenciales cualquiera (por ejemplo, los rotulados
+V1 y V2 en la figura) puede calcularse con el mismo procedimiento usado para obtener
+la ecuación 16.2. El resultado es
+(16.7)
+Así, si usted comienza sobre la superficie equipotencial 1 y se mueve perpendicularmen-
+te alejándose de ella y contra el campo eléctrico a la superficie equipotencial 3, habrá un
+incremento de potencial (/H9004V) que depende de la intensidad del campo eléctrico (E) y de
+la distancia recorrida (/H9004x).
+¢V = V3 - V1 = E  ¢x
+E
+S
+
+–
+–
+–
+–
+–
+–
+–
+V
++
++
++
++
++
++
++
+V1 V2 > V1 V3 > V2
++
+/H9004x
+/H9004x
+/H9004x
++
++
++E
+16.2 Superficies equipotenciales y el campo eléctrico 545
+25 m
+20 m
+15 m
+10 m
+h4
+h3
+h2
+h1
+10 m
+15 m
+20 m
+25 m
+U4 U3 U2  U1
+V4  V3 V2 V1
+a) b)
+d)
+c)
+V1
+V2
+V3
+V4
++
++
+▲ FIGURA 16.9 Mapas topográficos; una analogía gravitacional con superficies 
+equipotenciales a) Una colina simétrica con cortes a diferentes alturas. Cada corte es 
+un plano de potencial gravitacional constante. b) Un mapa topográfico de los cortes en a.
+Los contornos, donde los planos intersecan a la superficie, representan valores cada vez
+mayores del potencial gravitacional, al subir por la colina. c) El potencial eléctrico V cerca
+de una carga puntual q forma una colina simétrica similar. V es constante a distancias 
+fijas de q. d) Los equipotenciales eléctricos alrededor de una carga puntual son esféricos 
+(en dos dimensiones son círculos) con centro en la carga. Cuanto más cerca esté la 
+equipotencial a la carga positiva, mayor será el potencial eléctrico.
+Para una distancia de recorrido dada /H9004x, este movimiento perpendicular da la ga-
+nancia máxima posible de potencial. Considere que toma un paso de longitud /H9004x en
+cualquier dirección, partiendo de la superficie 1. La forma de maximizar el incremento
+sería pisar sobre la superficie 3. Un paso en cualquier dirección no perpendicular a la
+superficie 1 (por ejemplo, terminar sobre la superficie 2) da un menor incremento de
+potencial.
+Al encontrar la dirección del incremento de potencial máximo, encontramos la di-
+rección opuesta a la de Por regla general esto significa que:
+La dirección del campo eléctrico es la dirección en que el potencial eléctrico
+disminuye más rápidamente.
+Así, en cualquier localidad, la magnitud del campo eléctrico es la razón máxima
+de cambio del potencial con la distancia, o bien,
+(16.8)
+Las unidades de campo eléctrico son volt por metro (V/m). En el capítulo 15, E se ex-
+presó en newtons por coulomb (N/C; véase la sección 15.4). Usted ya debe saber, del
+análisis dimensional, que 1 V/m /H110051 N/C. Una interpretación gráfica de la relación
+entre y V se muestra en la sección Aprender dibujando de la p. 547.
+En la mayoría de situaciones prácticas, se especifica la diferencia de potencial (vol-
+taje) en vez del campo eléctrico. Por ejemplo, una batería de lámpara D tiene un volta-
+je terminal de 1.5 V , lo cual significa que puede mantener una diferencia de potencial
+de 1.5 V entre sus terminales. La mayoría de las baterías de automóvil (acumuladores)
+tienen un voltaje terminal de aproximadamente 12 V . Algunas de las diferencias de 
+potencial comunes, o voltajes, se presentan en la tabla 16.1.
+E
+S
+E = ` ¢V
+¢x`
+máx
+E
+S
+E
+S
+.
+V1
+V2
+V3
+V1 > V2 > V3 
+E
++
+−
+▲ FIGURA 16.10 Equipotenciales
+de un dipolo eléctrico Las equipo-
+tenciales son perpendiculares a las
+líneas de campo eléctrico. V
+1 /H11022V2,
+ya que la superficie equipotencial 1
+está más cerca a la carga positiva
+que la superficie 2. Para entender
+cómo se construyen las equipoten-
+ciales, véase la sección Aprender 
+dibujando de la p. 547.
+▲ FIGURA 16.11 Relación entre 
+el cambio de potencial (ΔV) y el
+campo eléctrico La dirección
+del campo eléctrico es la del decre-
+mento máximo de potencial, o la
+opuesta a la dirección de máximo
+incremento en potencial (aquí, este
+máximo está en la dirección de la
+flecha sólida, no de la angulada;
+¿por qué?). La magnitud del campo
+eléctrico está dada por la razón a 
+la que cambia el potencial con la
+distancia (usualmente en volts 
+por metro).
+(E
+S
+)
+
+546 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+Diferencias de potencial eléctrico comunes (voltajes)
+Fuente Voltaje aproximado ( /H9004V)
+A través de membranas nerviosas 100 mV
+Baterías de pequeños dispositivos 1.5 a 9.0 V
+Baterías de automóvil 12 V
+Salida en el hogar (en Estados Unidos) 110 a 120 V
+Salidas (en Europa) 220 a 240 V
+Encendido de automóvil (bujías) 10 000 V
+Generadores en laboratorios 25 000 V
+Líneas de suministro de energía eléctrica de alto voltaje 300 kV o más
+Nube a superficie de la Tierra durante una tormenta 100 MV o más
+TABLA 16.1
+Ya sea que usted lo sepa o no, vive en un campo eléctrico cerca de la superficie de
+la Tierra. Este campo varía según las condiciones climáticas y, en consecuencia, pue-
+de ser un indicador de que se avecinan tormentas. El ejemplo 16.5 aplica el concep-
+to de superficie equipotencial para ayudar a entender el campo eléctrico de la Tierra.
+Ejemplo 16.5 ■ El campo eléctrico de la Tierra y superficies
+equipotenciales: ¿barómetros eléctricos?
+Bajo condiciones atmosféricas normales, la superficie terrestre está eléctricamente cargada.
+Esto genera un campo eléctrico constante de aproximadamente 150 V/m que señala hacia
+abajo cerca de la superficie. a) En tales condiciones, ¿cuál será la forma de las superficies
+equipotenciales, y en qué dirección disminuye más rápidamente el potencial eléctrico? 
+b) ¿Qué separadas están dos superficies equipotenciales que tienen entre sí una diferencia
+de 1000 V? ¿Cuál tiene un potencial mayor, la más alejada de la Tierra o la más cercana?
+Razonamiento. a) Cerca de la superficie de la Tierra, el campo eléctrico es aproximada-
+mente uniforme, por lo que las equipotenciales son similares a las de las placas paralelas
+cargadas. El análisis de las ecuaciones 16.7 y 16.8 nos permite determinar cómo aumenta
+el potencial. b) La ecuación 16.8 puede entonces usarse para determinar qué tan alejadas
+están las superficies equipotenciales.
+Solución. Tenemos, 
+Dado: Encuentre: a) Forma de las superficies equipoten-
+ciales y dirección del decremento
+de potencial
+b) /H9004x (distancia entre equipotenciales)
+a) Los campos eléctricos uniformes están asociados con equipotenciales planas. En este
+caso, los planos son paralelos a la superficie terrestre. El campo eléctrico señala hacia aba-
+jo. Ésta es la dirección en que el potencial disminuye más rápidamente.
+b) Para determinar la distancia entre los dos equipotenciales, piense en moverse vertical-
+mente de manera que /H9004V//H9004x tenga su valor máximo. (¿Por qué?) Despejando /H9004x de la
+ecuación 16.8 obtenemos
+Como el potencial disminuye al movernos hacia abajo (en la dirección de ), el mayor po-
+tencial está asociado con la superficie que está 6.67 m más allá del suelo.
+Ejercicio de refuerzo. Reexaminemos el ejemplo anterior, pero bajo condiciones de tormen-
+ta. Durante una tormenta con rayos, el campo eléctrico puede adquirir muchas veces el va-
+lor normal. a) Bajo esas condiciones, si el campo es de 900 V/m y señala hacia arriba, ¿qué
+tan separadas estarán las dos superficies equipotenciales que difieren en 2000 V? b) ¿Qué su-
+perficie está a un potencial mayor, la más cercana a la Tierra o la otra más alejada? c) ¿Puede
+decir dónde están localizadas las dos superficies respecto al suelo? Explique por qué.
+E
+S
+¢x = ¢V
+E = 1000 V
+150 V>m = 6.67 m
+ ¢V = 1000 V
+ E = 150 V>m, hacia abajo
+Exploración 25.1 Líneas 
+equipotenciales
+Exploración 25.2 Líneas de campo
+eléctrico y equipotenciales
+Ilustración 25.2 Trabajo 
+y equipotenciales
+Ilustración 25.3 P otenciales eléctricos
+de esferas cargadas
+
+16.2 Superficies equipotenciales y el campo eléctrico 547
+APRENDER DIBUJANDO RELACIÓN GRÁFICA ENTRE LÍNEAS DE CAMPO ELÉCTRICO 
+Y EQUIPOTENCIALES
+Como no se requiere trabajo para mover una carga a lo largo de
+una superficie equipotencial, tales superficies deben siempre
+ser perpendiculares a las líneas de campo eléctrico. Además, el
+campo eléctrico tiene una magnitud igual a la carga en poten-
+cial por distancia unitaria (V/m) y señala en la dirección en que
+el potencial disminuye más rápidamente. Podemos usar esto
+para construir equipotenciales si conocemos el patrón de líneas
+de campo eléctrico. La proposición inversa es también cierta:
+Dadas las equipotenciales, podemos construir las líneas de
+campo eléctrico. Además, si conocemos el potencial (en volts)
+asociado con cada equipotencial, pueden estimarse la intensi-
+dad y la dirección del campo a partir de la razón con que el po-
+tencial cambia con la distancia (ecuación 16.8).
+Un par de ejemplos deberían proporcionar un punto de
+vista gráfico sobre la conexión entre superficies equipotencia-
+les y sus campos eléctricos asociados. Considere la figura 1, en
+la cual se dan las líneas de campo eléctrico y se quiere deter-
+minar la forma de las equipotenciales. Elija cualquier punto,
+como el A, y empiece a moverse según ángulos rectos a las lí-
+neas de campo eléctrico. Continúe moviéndose pero siempre
+manteniendo esta misma orientación perpendicular a las lí-
+neas de campo. Entre líneas usted tendrá que aproximar, pero
+vea adelante a la siguiente línea de campo de modo que pue-
+da cruzarla según un ángulo recto. Para encontrar otra equi-
+potencial, empiece en otro punto, como el B, y proceda de la
+misma manera. Diagrame tantas equipotenciales como nece-
+site usted para mapear el área de interés. La figura muestra el
+resultado de esbozar cuatro de tales equipotenciales, de A (en
+el potencial más alto; ¿puede usted decir por qué?) a D (en el
+potencial más bajo).
+Ahora suponga que le dan las equipotenciales en vez de
+las líneas de campo (figura 2). Las líneas de campo eléctrico se-
+ñalan en la dirección de V decreciente y son perpendiculares a
+las superficies equipotenciales. Así, para mapear el campo, co-
+mience en cualquier punto, y muévase de tal manera que su
+trayectoria interseque cada superficie equipotencial según un
+ángulo recto. La línea de campo resultante se muestra en la fi-
+gura 2, comenzando en el punto A. Iniciando en los puntos B,
+C y D se obtienen líneas de campo adicionales que sugieren el
+patrón completo de campo eléctrico; usted necesita sólo sumar
+las flechas en la dirección del potencial decreciente.
+Finalmente, suponga que quiere estimar la magnitud de 
+en algún punto P (figura 3), conociendo los valores de las equi-
+potenciales a 1.0 cm a cada lado de ella. Con esta información,
+usted puede decir que el campo señala aproximadamente de 
+A a B. (¿Por qué?) Su magnitud aproximada sería entonces
+ = 2.5 * 103 V>m
+ E = ` ¢V
+¢x`
+máx
+=
+11000 V - 950 V2
+2.0 * 10-2 m
+E
+S
++
+A
+B
+C
+D
+VA > VB > VC > VD
+E
+V1 V2 V3 V4 V5 V6
+C
+D
+B
+A
+>>>> >
+E
+V > VA
+VA = 1000 V
+VB = 950 V
+V < VB
+A
+P
+B
+2.0 cm
+FIGURA 3 Estimación de la magnitud del campo eléctrico
+La magnitud del cambio de potencial por metro en cualquier
+punto da la intensidad del campo eléctrico en ese punto.
+FIGURA 2 Mapeo del campo eléctrico a partir de equipo-
+tenciales Comience en un punto conveniente, y trace una 
+línea que cruce cada equipotencial según un ángulo recto. 
+Repita el proceso tan a menudo como sea necesario para 
+revelar el patrón de campo, agregando flechas para indicar 
+el sentido de las líneas de campo de mayor a menor potencial.
+Al ir de un potencial al próximo, planeé por adelantado de
+manera que cada equipotencial sucesiva también se cruce 
+según ángulos rectos.
+FIGURA 1 Esbozo de equipotenciales de las líneas de un
+campo eléctrico Si conoce el patrón del campo eléctrico, elija
+un punto en la región de interés y muévase de forma que su
+trayectoria siempre sea perpendicular a la siguiente línea de
+campo. Trace su trayectoria tan suave como le sea posible,
+planeando adelante de modo que cada línea de campo
+sucesiva también se cruce según ángulos rectos. Para mapear
+una superficie con un mayor (o menor) potencial, muévase 
+en la dirección opuesta (o la misma) que el campo eléctrico 
+y repita el proceso. Aquí, V
+A /H11022VB, y así sucesivamente.
+
+V1 
+V2
+Equipotencial
+b)
+a)
+c)
++
++++++
++
++
++
++++
++
+++
++
++
++
++
++++++
++
++
++
++++
++
+++
++
++
++
++
++++++
++
++
++
++++
++
+++
++
++
++
+E
+▲ FIGURA 16.12 Superficies
+equipotenciales cerca de un
+conductor cargado Véase el
+Ejemplo conceptual 16.6.
+548
+CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+Nota: el electrón volt es una
+unidad de energía. El volt no lo es.
+¡No confunda ambos!
+*Antes, mil millones de electrón volts se refería como BeV , pero esta norma se descartó por la con-
+fusión que generó. En algunos países, como Inglaterra y Alemania, un billón significa 1012. En Estados
+Unidos se le llama trillón.
+Las superficies equipotenciales pueden también ser útiles para describir el campo
+cerca de un conductor cargado, como lo muestra el siguiente Ejemplo conceptual.
+Ejemplo conceptual 16.6 ■ Las superficies equipotenciales fuera 
+de un conductor cargado
+Un conductor sólido con exceso de carga positiva sobre él se muestra en la >figura 16.12a.
+¿Qué describe mejor la forma de las superficies equipotenciales justo fuera de la superfi-
+cie del conductor a) planos, b) esferas o c) aproximadamente en forma de la superficie del
+conductor. Explique su razonamiento.
+Razonamiento y respuesta. La opción a puede eliminarse inmediatamente, porque las su-
+perficies equipotenciales planas se asocian con placas planas. Si bien podría ser tentador
+elegir la respuesta b una mirada rápida al patrón de campo eléctrico cerca de la superficie
+(capítulo 15), en conjunción con la sección Aprender dibujando de la p. 547, muestra que la
+respuesta correcta es c. Para verificar que c es la respuesta correcta, recuerde que justo 
+arriba de la superficie, el campo eléctrico debe ser perpendicular a esa superficie. Como las
+superficies equipotenciales son perpendiculares a las líneas del campo eléctrico, deben se-
+guir el contorno de la superficie del conductor (figura 16.12b).
+Ejercicio de refuerzo. En este ejemplo, a) ¿cuál de las dos equipotenciales (1 o 2) que se
+muestran en la figura 16.12c está a un potencial mayor? b) ¿Cuál es la forma de las super-
+ficies equipotenciales muy lejos del conductor? Explique su razonamiento. ( Sugerencia:
+¿cómo se ve el conductor cargado cuando usted está muy lejos de él?)
+El electrón volt
+El concepto de potencial eléctrico proporciona una unidad de energía que es especial-
+mente útil en la física molecular, atómica, nuclear y de partículas elementales. El electrón
+volt (eV)se define como la energía cinética adquirida por un electrón (o un protón) acele-
+rado a través de una diferencia de potencial, o voltaje, de exactamente 1 V . La ganancia de
+energía cinética del electrón es igual (pero de carga opuesta) a su pérdida en energía po-
+tencial eléctrica. Usando esta relación, podemos expresar la ganancia de energía cinética
+en joules:
+Como esto es lo que significa 1 electrón volt, el factor de conversión entre el electrón
+volt y el joule (con tres cifras significativas) es
+El electrón volt es típico de energías de la escala atómica. Así, es conveniente ex-
+presar energías atómicas en términos de electrón volts en vez de joules. La energía de
+cualquier partícula cargada acelerada a través de cualquier diferencia de potencial pue-
+de expresarse en electrón volts. Por ejemplo, si un electrón se acelera a través de una
+diferencia de potencial de 1000 V , su ganancia en energía cinética (ΔK) será 1000 veces
+mayor que 1 eV electrón, o
+El keV es la abreviatura para el kiloelectrón volt.
+El electrón volt se define en términos de una partícula con la carga mínima (el elec-
+trón o protón). Sin embargo, la energía de una partícula con cualquier cantidad de carga
+también puede expresarse en electrón volts. Así, si una partícula con una carga de /H110012e,
+tal como una partícula alfa, fuera acelerada a través de una diferencia de potencial de
+1000 volts, ganaría una energía cinética de /H9004K /H11005e/H9004V /H11005(2 e)(1000 V) /H110052000 eV /H110052 keV .
+Observe lo sencillo que es calcular la energía cinética, si usted trabaja en electrón volts.
+A veces son necesarias las unidades más grandes de energía que el electrón
+volt. Por ejemplo, en la física nuclear y de partículas elementales, es común encon-
+trar partículas con energías de megaelectrón volts (MeV) y gigaelectrón volts (GeV). 
+(1 MeV /H1100510
+6 eV y 1 GeV /H11005109 eV .)*
+¢K = e  ¢V =11 e211000 V2 = 1000 eV = 1 keV
+1 eV = 1.60 * 10-19 J
+¢K =- ¢ Ue =- 1e  ¢V2 =- 1-1.60 * 10-19 C211.00 V2 =+ 1.60 * 10-19 J
+Exploración 25.3 P otencial eléctrico
+alrededor de conductores
+
+16.3 Capacitancia 549
+Nota: los condensadores 
+almacenan energía en sus 
+campos eléctricos.
+Nota: recuerde que por conve-
+niencia nuestra notación para 
+diferencia de potencial, o voltaje
+(/H9004V), se reemplazará con V.
++–
+V
+V
++–
++–
++–
++–
++–
++–
++–
++–
++–
++–
++–
+Placas
+metálicas
+Batería
+E
+– Q+Q
+Q = +Q = CV
+C
+a) Condensador de placas paralelas b) Diagrama
++ –
+–+
+ 
+*A partir de aquí, usaremos V para denotar diferencias de potencial, en vez de ΔV. Se trata de una
+práctica común. Siempre recuerde que la cantidad importante es la diferencia de potencial, ΔV.
+Al resolver problemas de física, es importante estar consciente de que el electrón
+volt (eV) no es una unidad SI. Por consiguiente, al usar energías para calcular rapide-
+ces, usted debe primero convertir los electrón volts a joules. Por ejemplo, para calcular
+la rapidez de un electrón acelerado desde el reposo a través de 10.0 V , primero convier-
+ta la energía cinética (10.0 eV) a joules:
+Para continuar en el sistema SI, la masa del electrón debe expresarse en kilogra-
+mos. Entonces, la rapidez se calcula como sigue:
+16.3 Capacitancia
+OBJETIVOS: a) Definir capacitancia y explicar lo que significa físicamente y 
+b) calcular la carga, el voltaje, el campo eléctrico y el almacena-
+miento de energía en condensadores de placas paralelas.
+Un par de placas paralelas, si están cargadas, almacenan energía eléctrica ( ▼figura
+16.13). Un arreglo así de conductores es ejemplo de un condensador. (En realidad, cual-
+quier par de conductores califica como condensador.) El almacenamiento de energía
+tiene lugar porque se requiere trabajo para transferir la carga de una placa a la otra.
+Imagine que un electrón se desplaza entre un par de placas inicialmente descargadas.
+Una vez hecho esto, transferir un segundo electrón sería más difícil, porque no sólo es re-
+pelido por el primer electrón sobre la placa negativa, sino también es atraído por una
+carga positiva doble sobre la placa positiva. Así, para separar las cargas se requiere ca-
+da vez más trabajo, conforme se acumula más y más carga sobre las placas. (Esto es co-
+mo estirar un resorte. Cuanto más se alargue, más difícil será alargarlo más.)
+El trabajo necesario para cargar placas paralelas puede hacerse rápidamente (usual-
+mente en unos pocos microsegundos) por una batería. Aunque no estudiaremos el fun-
+cionamiento de una batería en detalle sino hasta el próximo capítulo, todo lo que usted
+necesita saber ahora es que una batería remueve electrones de la placa positiva y los
+transfiere, o “bombea”, a través de un alambre a la placa negativa. En el proceso de efec-
+tuar trabajo, la batería pierde algo de su energía potencial química interna. Aquí es de
+gran interés el resultado: una separación de las cargas y la creación de un campo eléctrico
+en el condensador. La batería continuará cargando el condensador hasta que la diferencia
+de potencial entre las placas sea igual al voltaje terminal de la batería, por ejemplo, 12 V si
+usted usa una batería estándar de automóvil. Cuando el condensador se desconecta de la
+batería, se vuelve “recipiente” almacenador de energía eléctrica.
+Para un condensador, la diferencia de potencial a través de las placas es proporcio-
+nal a la carga Q sobre ellas, o Q /H11008V.* (Aquí, Q denota la magnitud de la carga sobre
+v = 22K>m = 4211.60 * 10-18 J2>19.11 * 10-31 kg2 = 1.87 * 106 m>s
+K =110.0 eV211.60 * 10-19 J>eV2 = 1.60 * 10-18 J
+> FIGURA 16.13 Condensador y
+diagrama del circuito a) Dos placas
+metálicas paralelas se cargan con una
+batería que mueve electrones de la
+placa positiva a la negativa a través
+del alambre. Se efectúa trabajo
+mientras se carga el condensador y 
+la energía se almacena en el campo
+eléctrico. b) Este diagrama representa
+la situación de carga mostrada en 
+el inciso a. También muestra los
+símbolos comúnmente usados para
+una batería (V) y un condensador (C).
+La línea más larga del símbolo de
+batería es la terminal positiva, y la
+línea más corta representa la terminal
+negativa. El símbolo para un conden-
+sador es similar, pero las líneas son 
+de igual longitud.
+
+550 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+Nota: el farad se llamó así en
+honor del científico inglés Michael
+Faraday (1791-1867), un investi-
+gador pionero de los fenómenos
+eléctricos quien fue el primero en
+introducir el concepto de campo
+eléctrico.
+cualquier placa, no la carga neta sobre todo el condensador, que es cero.) Esta propor-
+cionalidad puede hacerse una ecuación usando una constante, C, llamada capacitancia:
+(16.9)
+Unidad SI de capacitancia: coulomb por volt (C/V), o farad (F)
+El coulomb por volt equivale al farad, 1 C/V /H110051 F. El farad es una unidad grande
+(véase al ejemplo 16.7), de manera que por lo común se utilizan el microfarad (1 /H9262F /H11005
+10/H110026 F), el nanofarad (1 nF /H1100510/H110029 F) y el picofarad (1 pF /H1100510/H1100212). 
+Capacitancia significa carga almacenada por volt. Cuando un condensador tiene
+una capacitancia grande, guarda una gran cantidad de carga por volt, en comparación
+con uno de capacitancia pequeña. Si usted conecta la misma batería a dos condensado-
+res diferentes, el que tiene mayor capacitancia almacenará más carga y más energía.
+La capacitancia depende sólo de la geometría (tamaño, forma y separación) de las
+placas (y del material entre las placas, sección 16.5), y no de la carga en las placas. Con-
+sidere el condensador de placas paralelas que tiene un campo eléctrico dado por la
+ecuación 15.5:
+El voltaje a través de las placas se calcula con la ecuación 16.2:
+La capacitancia de un arreglo de placas paralelas es entonces
+(sólo placas paralelas) (16.10)
+Es común reemplazar la expresión en el paréntesis de la ecuación 16.10 por una
+sola cantidad, llamada permisividad del espacio libre (E
+o). El valor de esta constante
+(con tres cifras significativas) es
+permisividad del espacio libre (16.11)
+Eo describe las propiedades eléctricas del espacio libre (vacío), aunque su valor en aire
+es sólo 0.05% mayor. En nuestros cálculos, tomaremos ambos valores como iguales.
+Es común reescribir la ecuación 16.10 en términos de Eo.
+(sólo placas paralelas) (16.12)
+Usemos la ecuación 16.12 en el siguiente ejemplo para demostrar qué tan irrealística-
+mente grande sería un condensador lleno de aire con una capacitancia de 1.0 F.
+Ejemplo 16.7 ■ Condensadores de placa paralela: 
+¿qué tan grande es un farad?
+¿Cuál sería el área de placa de un condensador de placas paralelas lleno de aire a 1.0 F, si
+la separación de las placas fuese de 1.0 mm? ¿Sería realista planear la construcción de un
+condensador como ese?
+Razonamiento. El área se puede calcular directamente con la ecuación 16.12. Recuerde
+usar todas las cantidades en unidades SI, de manera que la respuesta esté en metros cua-
+drados. Podemos usar el valor en vacío de /H9255
+o para el aire sin generar un error significativo.
+Solución.
+Dado: Encuentre: A (área de una de las placas)
+Despejando el área en la ecuación 16.12 obtenemos
+A = Cd
+eo
+=
+11.0 F211.0 * 10-3 m2
+8.85 * 10-12 C2>1N # m22 = 1.1 * 108 m2
+ d = 1.0 mm = 1.0 * 10-3 m
+ C = 1.0 F
+C =eo
+ A
+d
+eo = 1
+4pk = 8.85 * 10-12 C2>1N # m22
+C = Q
+V = a 1
+4pkb 
+A
+d
+V = Ed = 4pkQd
+A
+E = 4pkQ
+A
+Q = CV o C = Q
+V
+Nota: generalmente, usaremos la
+letra minúscula q para representar
+cargas sobre partículas solas, y la
+letra mayúscula Q para las canti-
+dades mayores de cargas sobre
+placas de un condensador.
+Nota: las cargas sobre las placas
+son /H11001Q y /H11002Q, pero en general es
+usual referirse a la magnitud de 
+estas cargas, como Q (que signifi-
+ca /H20841/H11006Q/H20841), sobre un condensador.
+Ilustración 26.2 Un condensador
+conectado a una batería
+Exploración 26.1 Energía
+
+Pendiente 
+= 1/C
+Carga (C)
+Voltaje (V)
+Q
+V
+V + 0
+2
+V
+2V ==
+▲ FIGURA 16.14 Voltaje contra
+carga en un condensador Un
+diagrama de voltaje (V) contra
+carga (Q) para un condensador es
+una línea recta con pendiente 1/C
+(ya que V /H11005(1/C)Q). El voltaje
+promedio es y el trabajo
+total efectuado es equivalente a
+transferir la carga a través de 
+Así, el área
+bajo la curva (un triángulo).
+1
+2 QV,=W = QV=UC
+V.
+V = 1
+2 V,
+▲ FIGURA 16.15 Desfibrilador
+Una ráfaga de corriente eléctrica
+(flujo de carga) de un desfibrilador
+puede restaurar un latido normal
+en personas que han sufrido un 
+paro cardiaco. Los condensadores
+almacenan la energía eléctrica de
+que depende el dispositivo.
+16.3 Capacitancia 551
+Nota: No confunda UC, la energía
+almacenada en un condensador,
+con /H9004U
+e, el cambio en energía
+potencial eléctrica de una partícula
+cargada. (Véase la sección 16.1.)
+Nota: Practique usando las varias
+formas de la energía de un con-
+densador. En un aprieto, usted
+necesita recordar sólo una, junto
+con la definición de capacitancia,
+C /H11005Q/V.
+Esto es más de 100 km
+2 (40 mi2), es decir, un cuadrado de más de 10 km (6 mi) de lado.
+No es realista construir un condensador de ese tamaño; 1.0 F es entonces un valor muy
+grande de capacitancia. Sin embargo, hay maneras de hacer condensadores de alta capa-
+citancia (sección 16.4).
+Ejercicio de refuerzo. En este ejemplo, ¿cuál debería ser la separación de las placas, si usted
+quisiera que el condensador tuviera una área de placa de 1 cm2? Compare su respuesta con
+un diámetro atómico típico de 10/H110029 a 10/H1100210 m. ¿Es factible construir este condensador?
+La expresión para la energía almacenada en un condensador puede obtenerse 
+por análisis gráfico, ya que Q y V varían durante la carga, por ejemplo cuando la carga
+se separa por medio de una batería. Una gráfica de voltaje contra carga para cargar 
+un condensador es una línea recta con una pendiente de 1/ C, ya que V /H11005(1/C)Q
+(
+Nfigura 16.14). La gráfica representa la carga de un condensador inicialmente descar-
+gado (Vo /H110050) hasta un voltaje final (V). El trabajo efectuado es equivalente a transferir
+la carga total, usando un voltaje promedio V. Como el voltaje varía linealmente con la
+carga, el voltaje promedio es la mitad del voltaje final V:
+Así, la energía almacenada en el condensador (igual al trabajo efectuado por la batería) es
+Como Q /H11005CV, esta ecuación se puede escribir en varias formas equivalentes:
+energía almacenada en un condensador (16.13)
+Por lo común, la forma es la más práctica, ya que usualmente la capacitan-
+cia y el voltaje son las cantidades conocidas. Una aplicación médica muy importante
+del condensador es en el desfibrilador cardiaco, analizado en el siguiente ejemplo.
+Ejemplo 16.8 ■ Condensadores al rescate: almacenamiento 
+de energía en un desfibrilador cardiaco
+Durante de un ataque cardiaco, el corazón late de manera errática llamada fibrilación. Una
+forma de lograr que el corazón vuelva a su ritmo normal es impartirle energía eléctrica su-
+ministrada por un instrumento llamado desfibrilador cardiaco (
+Nfigura 16.15). Para producir
+el efecto deseado se requieren aproximadamente 300 J de energía. Típicamente, un desfibri-
+lador almacena esta energía en un condensador cargado por una fuente de potencia de
+5000 V . a) ¿Qué capacitancia se requiere? b) ¿Cuál es la carga en las placas del condensador?
+Razonamiento. a) Para encontrar la capacitancia, determine C en la ecuación 16.13. b) La
+carga se obtiene entonces a partir de la definición de la capacitancia (ecuación 16.9).
+Solución. Los datos son:
+Dado: Encuentre: a) C (la capacitancia)
+b) Q (carga en el condensador)
+a) La forma más conveniente de la ecuación 16.13 es UC /H11005 Despejando C, obtenemos
+b) La carga (magnitud sobre cualquier placa) es entonces
+Ejercicio de refuerzo. En este ejemplo, si la energía permisible máxima para cualquier in-
+tento de desfibrilación es de 750 J, ¿cuál será el voltaje máximo que debería usarse?
+Algunas veces los condensadores pueden modelar con éxito fenómenos de la vida
+real. Por ejemplo, una tormenta puede considerarse como la descarga de una nube car-
+gada negativamente hacia el suelo cargado positivamente, en efecto, un condensador
+“nube-suelo”. Otra aplicación interesante del potencial eléctrico trata las membranas
+nerviosas como condensadores cilíndricos para ayudar a explicar la transmisión de se-
+ñales nerviosas. (Véase A fondo 16.1 sobre el potencial eléctrico y la transmisión de 
+señales nerviosas en la p. 552.)
+Q = CV =12.40 * 10-5 F215000 V2 = 0.120 C
+C = 2UC
+V2 =
+21300 J2
+15000 V22 = 2.40 * 10-5 F = 24.0 mF
+1
+2 CV2.
+ V = 5000 V
+ UC = 300 J
+UC = 1
+2 CV2
+UC = 1
+2 QV = Q2
+2C
+= 1
+2 CV2
+UC = W = QV = 1
+2 QV
+V = Vfinal + Vinicial
+2 = V + 0
+2 = V
+2
+
+552 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+16.1 POTENCIAL ELÉCTRICO Y TRANSMISIÓN 
+DE SEÑALes NERVIOSAs
+El sistema nervioso del cuerpo humano es responsable de nues-
+tra recepción de los estímulos externos por medio de los senti-
+dos (por ejemplo, el tacto). Los nervios también proporcionan
+comunicación entre el cerebro y los órganos y músculos. Si us-
+ted toca algo muy caliente, los nervios de la mano detectan el
+problema y envían una señal al cerebro. Éste a la vez envía la se-
+ñal de “quítela” a través del sistema nervioso a la mano. Pero,
+¿qué son estas señales y cómo funcionan?
+Un nervio típico consiste en un haz de celdas nerviosas lla-
+madas neuronas, dispuestas de manera parecida a como los
+alambres telefónicos se agrupan en un solo cable. La estructura
+de una neurona típica se muestra en la figura 1a. El cuerpo de la
+celda o soma, tiene ramificaciones llamadas dendritas, las cuales
+reciben la señal de entrada. El soma es responsable del procesa-
+miento de la señal y de transmitirla al axón. En el otro extremo
+del axón hay proyecciones con salientes llamadas terminales si-
+nápticas. En esas salientes, la señal eléctrica se transmite a otra
+neurona a través de una brecha llamada sinapsis. El cuerpo hu-
+mano contiene alrededor de 10 mil millones de neuronas y ¡ca-
+da neurona puede tener varios cientos de sinapsis! Hacer
+funcionar el sistema nervioso cuesta al cuerpo humano aproxi-
+madamente 25% de su toma de energía cada día.
+Para entender la naturaleza eléctrica de la transmisión de
+señales nerviosas, consideremos el axón. Una componente vi-
+tal del axón es su membrana celular, la cual normalmente tie-
+ne alrededor de 10 nm de espesor y consiste en fosfolípidos
+(moléculas de hidrocarbono polarizadas) y en moléculas de
+proteínas (figura 1b). La membrana tiene proteínas llamadas
+canales iónicos , que forman poros y donde grandes moléculas
+de proteínas regulan el flujo de los iones (principalmente de
+sodio) a través de la membrana. La clave de la transmisión 
+de señales nerviosas es que esos canales iónicos son selecti-
+vos: permiten sólo a ciertos tipos de iones cruzar la membra-
+na; a otros no.
+A FONDO
++
++
++
++
++
+++
+++
++
+++
++ +
++ +
++++
++
++
++
++
++
++
++
+– –
+––
+–
+–
+–
+–
+–
+– –
+– –
+– ––
+–
+–
+–
+– –
+–
+++
++
++
++
++
+++
+a)
+Espacio exterior de la celda
+Interior celdaMembrana
+de la celda
+(moléculas
+de fosfolípidos
+y proteínas)
+Se abre el canal
+de sodio Na
++
+Cl+
+Axón
+Soma
+Terminales
+sinápticas
+Sinapsis
+Neurona
+próxima
+Dendritas
+b)
+ΔV
+FIGURA 1 a) La estructura de una neurona 
+típica. b) Una ampliación de la membrana del
+axón que muestra la membrana (aproximada-
+mente 10 nm de espesor) y la concentración de
+iones dentro y fuera de la celda. La polarización
+de la carga a través de la membrana conduce 
+a un voltaje, o potencial de membrana. Cuando
+un estímulo externo los dispara, los canales de
+iones de sodio se abren, permitiendo la entrada
+de iones de sodio en la celda. Esta afluencia
+cambia el potencial de la membrana.
+16.4 Dieléctricos
+OBJETIVOS: Entender a) qué es un dieléctrico y b) cómo afecta las propiedades 
+físicas de un condensador.
+En la mayoría de los condensadores, una hoja de material aislante, como el papel o el
+plástico, se coloca entre las placas. Un material aislante, llamado dieléctrico, sirve pa-
+ra varios propósitos. Uno de ellos es impedir que las placas entren en contacto y este
+contacto permitiría a los electrones fluir de regreso hacia la placa positiva, neutrali-
+zando así la carga sobre el condensador y la energía almacenada. Un dieléctrico tam-
+bién permite que placas flexibles de hoja metálica se enrollen en un cilindro, dando al
+condensador un tamaño más compacto (y por ello más práctico). Finalmente, un die-
+léctrico aumenta la capacidad de almacenamiento de carga del condensador y, por lo
+tanto, bajo las condiciones correctas, la energía almacenada en el condensador. Tal ca-
+pacidad depende del tipo de material y está caracterizada por la constante dieléctri-
+ca ( /H9260). Los valores de la constante dieléctrica para algunos materiales comunes se
+presentan en la tabla 16.2.
+Ilustración 26.1 Vista microscópica
+de un condensador
+
+16.4 Dieléctricos 553
+Compuerta
+de Na+ cerrada,
+bomba Na/K−
+ATPase activada
++50
+0
+43210
+−50
++30 mV
+−70
+−100
+Tiempo (ms)
+Potencial de membrana (mV)
+Compuerta
+de Na+ 
+abierta
+Compuerta
+de Na+ 
+cerrada
+Potencial
+de acción
+Potencial
+de reposo
+de membrana
+FIGURA 2 Cuando los canales de sodio se abren como com-
+puertas y los iones de sodio se precipitan al interior de la celda,
+el potencial de membrana cambia rápidamente de su valor de
+reposo de /H1100270 mV a cerca de /H1100130 mV . El potencial de reposo
+se restaura (aproximadamente 4 ms después) mediante un
+proceso de “bombeo” de proteínas, que remueve químicamente
+el exceso de Na
+/H11001después de que se cierran las compuertas 
+de sodio (en 2 ms).
+El fluido fuera del axón, aunque eléctricamente neutro,
+contiene iones de sodio (Na/H11001) y iones de cloro (Cl/H11002) en solución.
+En cambio, el fluido interno del axón es rico en iones de potasio
+(K
+/H11001) y moléculas de proteínas cargadas negativamente. Si no
+fuera por la naturaleza selectiva de la membrana de la celda, la
+concentración de Na
+/H11001sería igual en ambos lados de la membra-
+na. Bajo condiciones normales (o de reposo), resulta difícil para
+los iones Na/H11001penetrar el interior de la celda nerviosa. Este pro-
+ceso da lugar a una polarización de la carga a través de la mem-
+brana. El exterior es positivo (con el Na
+/H11001tratando de entrar a la
+región de menor concentración), que atrae las proteínas negati-
+vas a la superficie interior de la membrana (figura 1b). Así, exis-
+te un sistema de almacenamiento de carga tipo condensador
+cilíndrico, a través de una membrana de axón cuando está en re-
+poso. El potencial de membrana en reposo (el voltaje a través de la
+membrana) se define como /H9004V /H11005V
+dentro /H11002Vfuera. Como el exte-
+rior está cargado positivamente, el potencial en reposo es una
+cantidad negativa y varía de aproximadamente /H1100240 a /H1100290 mV
+(milivolts), con un valor típico de /H1100270 mV en seres humanos.
+La conducción de la señal tiene lugar cuando la membra-
+na de la celda recibe un estímulo de las dendritas. Sólo enton-
+ces cambia el potencial de la membrana, y este cambio se
+propaga por el axón. El estímulo ocasiona que los canales Na
++
+en la membrana (cerrados cuando está en reposo, como una
+compuerta) se abran y permitan temporalmente que los iones
+de sodio entren a la celda (figura 1b). Esos iones positivos son
+atraídos a la capa de carga negativa en el interior y son condu-
+cidos por la diferencia en la concentración. En aproximada-
+mente 0.001 s, suficientes iones de sodio han pasado por el
+canal de compuerta para causar una inversión de la polaridad,
+y entonces se eleva el potencial de la membrana, típicamente a
+/H1100130 mV en seres humanos. Esta secuencia de tiempo para el
+cambio en el potencial de la membrana se muestra en la figu-
+ra 2. Cuando la diferencia en la concentración de Na
+/H11001hace que 
+el voltaje de la membrana se vuelva positivo, y se cierren las
+compuertas de sodio. Un proceso químico conocido como 
+bombeo molecular Na/K /H11002ATPase reestablece después el poten-
+cial de reposo a /H1100270 mV por transporte selectivo del exceso de
+Na
+/H11001al exterior de la celda.
+Esta variación en el potencial de la membrana (un total de
+100 mV , de /H1100270 mV a /H1100130 mV) se llama potencial de acción de la
+celda. Este potencial de acción es la señal de que se transmite
+realmente por el axón. La “onda” de voltaje viaja con rapideces
+de 1 a 100 m/s en su camino a disparar otra pulsación en la
+neurona adyacente. Esta rapidez, junto con otros factores como
+las demoras de tiempo en la región sináptica, es responsable 
+de los tiempos normales de reacción humana que suman unas
+cuantas décimas de segundo.
+TABLA 16.2 Constantes dieléctricas para algunos materiales
+Material Constante dieléctrica ( /H9260) Material Constante dieléctrica ( /H9260)
+Vacío Vidrio (rango) 3 –7
+Aire Vidrio Pirex 5.6
+Papel 3.7 Baquelita 4.9
+Polietileno 2.3 Aceite de silicio 2.6
+Poliestireno 2.6 Agua 80
+Teflón 2.1 Titanato de estroncio 233
+1.000 59
+1.000 0
+La forma en que un dieléctrico afecta las propiedades eléctricas de un condensador
+se muestra en la ▼figura 16.16. El condensador se carga plenamente (generando un
+campo ) y se desconecta de la batería, después de lo cual se inserta un dieléctrico (fi-
+gura 16.16a). En el material dieléctrico, el trabajo es efectuado sobre dipolos molecu-
+E
+S
+o
+
+554 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+Nota: la ecuación 16.14 sólo 
+es válida si la batería está
+desconectada.
++_
++_
++_
++_
++_
++_
++_
++_
++_
++_
++
+_ +_
++_
++
+_
++_ +_
++_+_
++_
++_
++_
++
++
+_
+_
++
++
+_
+_
+Condensador cargado
+Condensador cargado
+con dieléctrico insertado
+Diagrama del mismo
+campo eléctrico
+Efecto sobre el campo
+eléctrico y el voltaje
+a) b) c)
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++Qo
+Dieléctrico
+d E < Eo
+V = Ed
+Eo E
++Qo +Qo Eo
+Ed
++Qo−Qo −Qo −Qo
+Vo = Eod
+−Qo
++
++
++
++
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++_
++
++
+_
+_
++_
++_
+▲ FIGURA 16.16 Los efectos de un dieléctrico sobre un condensador aislado a) Un material dieléctrico con 
+dipolos moleculares permanentes orientados al azar (o dipolos inducidos por el campo eléctrico) se inserta entre las
+placas de un condensador cargado aislado. Conforme se inserta el dieléctrico, el condensador tiende a jalarlo hacia
+adentro, efectuando así trabajo sobre él. (Observe las fuerzas de atracción entre las cargas de las placas y aquellas
+inducidas sobre las superficies dieléctricas.) b) Cuando el material está en el campo eléctrico del condensador, los
+dipolos se orientan a sí mismos con el campo, dando lugar a un campo eléctrico opuesto c) El campo dipolar
+cancela parcialmente el campo debido a las cargas de las placas. El efecto neto es una disminución tanto en el 
+campo eléctrico como en el voltaje. Puesto que la carga almacenada permanece igual, aumenta la capacitancia.
+E
+S
+d .
+lares por el campo eléctrico existente, alineándolos con ese campo (figura 16.16b). (La
+polarización molecular puede ser permanente o temporalmente inducida por el campo
+eléctrico. En cualquier caso, el efecto es el mismo.) El trabajo también se efectúa sobre la
+placa dieléctrica en su conjunto, ya que las placas cargadas la jalan al espacio entre ellas.
+El resultado es que el dieléctrico genera un campo eléctrico “inverso” ( en la fi-
+gura 16.16c) que cancela parcialmente el campo entre las placas. Esto significa que se 
+reduce el campo neto entre las placas y, por lo tanto, también el voltaje a través 
+de las placas (ya que V /H11005Ed). La constante dieléctrica 
+/H9260del material se define como la
+razón del voltaje con el material en posición ( V) al voltaje en vacío ( Vo). Como V es
+proporcional a E, esta razón es la misma que la razón de campo eléctrico:
+(16.14)
+Observe que /H9260no tiene dimensiones y es mayor que 1, ya que V /H11021Vo. De la ecua-
+ción 16.14, sabemos que una manera de determinar la constante dieléctrica es midien-
+do los dos voltajes. (Los voltímetros se estudian con detalle en el capítulo 18.) Como la
+batería estaba desconectada, y el condensador aislado, no se afecta la carga sobre las
+placas, Q
+o. Puesto que V /H11005Vo//H9260, el valor de la capacitancia con el dieléctrico insertado
+es mayor que el valor en vacío por un factor de /H9260. En efecto, ahora se almacena la mis-
+ma cantidad de carga a un menor voltaje, y el resultado es un incremento en capacitan-
+cia. Para entender este efecto, aplique la definición de capacitancia:
+(16.15)
+De manera que al insertar un dieléctrico en un condensador aislado se obtiene una
+mayor capacitancia. Pero, ¿qué sucede con el almacenamiento de energía? Como no
+hay entrada de energía (se desconectó la batería) y el condensador efectúa trabajo so-
+C = Q
+V = Qo
+1Vo>k2 =ka Qo
+Vo
+b o C =kCo
+k = Vo
+V = Eo
+E
+1E
+!
+2
+E
+!
+d
+Ilustración 26.3 Condensador 
+con un dieléctrico
+(sólo cuando es constante 
+la carga del condensador)
+
+16.4 Dieléctricos 555
+3
+1
+2 4
+50
+3
+1
+2 4
+50
+ Vo +  –  Vo  V  V < Vo
+Voltímetro
+Batería
+desconectada
+a)
++
++
++
++
++
++
+Vo +  –
+b)
+ Vo +  –
+ Q > Qo
+ – Qo +Qo  – Q +Q
+ – Qo +Qo  –Qo +Qo  – Qo +Qo
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
+–
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
++
+––––
+–––
+–––
+––
++
++
+++
++
++
++
++
++
++
++
+> FIGURA 16.17 Dieléctricos y 
+capacitancia a) Un condensador
+de placas paralelas en aire (sin 
+dieléctrico) se carga con una batería
+a una carga Q
+o y un voltaje Vo
+(izquierda). Si se desconecta la 
+batería y el potencial a través del
+condensador se mide con un voltí-
+metro, se obtiene una lectura de 
+V
+o (centro). Pero si ahora se inserta
+un dieléctrico entre las placas 
+del condensador, el voltaje cae a 
+V /H11005V
+o//H9260(derecha), por lo dismi-
+nuye que la energía almacenada.
+(¿Puede estimar la constante dieléc-
+trica de las lecturas del voltaje?) 
+b) Se carga un condensador como
+en el inciso a, pero se deja conectada
+la batería. Cuando se inserta un 
+dieléctrico en el condensador, el
+voltaje se mantiene en V
+o. (¿Por
+qué?) Sin embargo, la carga sobre
+las placas aumenta a Q /H11005/H9260Q
+o. 
+Por lo tanto, ahora se almacena 
+más energía en el condensador. 
+En ambos casos, la capacitancia 
+aumenta por un factor de /H9260.
+bre el dieléctrico jalándolo a la región entre las placas, la energía almacenada cae por
+un factor de /H9260(▲figura 16.17a), como lo muestra la siguiente ecuación:
+(batería desconectada)
+Sin embargo, ocurre una situación diferente si se inserta el dieléctrico y la ba-
+tería permanece conectada. En este caso, se mantiene el voltaje original y la batería es ca-
+paz de suministrar (bombear) más carga y, por ende, efectuar trabajo (figura 16.17b).
+Como la batería efectúa trabajo adicional, esperamos que aumente la energía alma-
+cenada en el condensador. Con la batería aún conectada, la carga sobre las placas 
+aumenta por un factor 
+/H9260, o bien, Q /H11005/H9260Qo. De nuevo, aumenta la capacitancia, pero
+ahora debido a que se almacena más carga bajo el mismo voltaje. De la definición 
+de capacitancia, el resultado es el mismo que el dado por la ecuación 16.15, ya que 
+C /H11005Q/V /H11005
+/H9260Qo/Vo /H11005/H9260(Qo/Vo) /H11005/H9260Co. Así,
+el efecto de un dieléctrico es incrementar la capacitancia por un factor /H9260inde-
+pendientemente de las condiciones bajo las cuales se inserte el dieléctrico.
+En el caso de un condensador mantenido a voltaje constante, aumenta el almacena-
+miento de energía del condensador a expensas de la batería. Para ver esto, calculemos
+la energía con el dieléctrico en posición bajo tales condiciones:
+(batería conectada)
+Para un condensador de placas paralelas con un dieléctrico, la capacitancia se in-
+crementa sobre su valor (en aire) en la ecuación 16.12, por un factor de 
+/H9260:
+(sólo placas paralelas) (16.16)
+Esta relación a veces se escribe como C /H11005/H9255A/d, donde /H9255/H11005/H9260/H9255o se llama permisividad
+dieléctrica del material, que siempre mayor es que /H9255o. (¿Cómo se sabe esto?)
+C =kCo =keo
+ A
+d
+UC = 1
+2 CV2 = 1
+2 kCo
+ Vo
+2 =kA
+1
+2 Co
+ Vo
+2
+B =kUo 7 Uo
+UC = Q2
+2C = Qo
+2
+2kCo
+=
+Qo
+2>2Co
+k = Uo
+k 6 Uo
+
+556 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+ V d d′
+Dieléctrico
+flexible
+(Batería aún conectada
+pero no mostrada)
++
+–
+N FIGURA 16.19 Condensadores 
+en uso Los condensadores se uti-
+lizan para convertir movimiento 
+en señales eléctricas que pueden 
+medirse y analizarse usando una
+computadora. Conforme la distancia
+entre las placas cambia, también lo
+hace la capacitancia, lo cual causa 
+un cambio en la carga sobre el con-
+densador. Algunos teclados de 
+computadora operan de esta 
+manera, así como otros instrumen-
+tos, por ejemplo, los sismógrafos. 
+(capítulo 13.) Véase el ejemplo 16.9.
+Una imagen del interior de un condensador cilíndrico típico y una variedad de
+condensadores reales se muestran en la >figura 16.18. Los cambios en capacitancia sir-
+ven para monitorear el movimiento en nuestro mundo tecnológico, como veremos en
+el siguiente ejemplo.
+Ejemplo 16.9 ■ El condensador como un detector de movimiento:
+teclados de computadora
+Considere un condensador (con dieléctrico) bajo la tecla de una computadora ( ▼figura
+16.19). El condensador está conectado a una batería de 12.0 volts y tiene una separación
+normal de placas (sin oprimir) de 3.00 mm y una área de placa de 0.750 cm
+2. a) ¿Cuál será
+la constante del dieléctrico que se requiere si la capacitancia es 1.10 pF? b) ¿Cuánta carga
+se almacena en las placas bajo condiciones normales? c) ¿Cuánta carga fluye sobre las pla-
+cas (es decir, cuál es el cambio en sus cargas), si se comprimen hasta una separación de
+2.00 mm?
+Razonamiento. a) La capacitancia de placas llenas de aire puede encontrarse con la ecua-
+ción 16.12, y luego puede determinarse la constante dieléctrica con la ecuación 16.15. b) La
+carga resulta de la ecuación 16.9. c) Debe usarse la distancia de separación de placas com-
+primidas para volver a calcular la capacitancia. Entonces, la nueva carga se encuentra 
+como en el inciso b.
+Solución. Los datos son los siguientes:
+Dado: Encuentre: a) (constante dieléctrica)
+b) Q (carga inicial del condensador)
+c) (cambio en la carga del
+condensador)
+a) De la ecuación 16.12, la capacitancia, si las placas estuvieran separadas por aire, sería
+Como el dieléctrico aumenta la capacitancia, su valor es
+b) La carga inicial es entonces
+c) Bajo condiciones de compresión, la capacitancia es
+El voltaje permanece igual, Q/H11032/H11005C/H11032V /H11005(1.65 /H1100310/H1100212 F)(12.0 V) /H110051.98 /H1100310/H1100211 C. Como
+aumentó la capacitancia, la carga se incrementó en
+Al oprimir la tecla, una carga, cuya magnitud está relacionada con el desplazamien-
+to, fluye al condensador dando una forma de medir eléctricamente el movimiento.
+Ejercicio de refuerzo. En este ejemplo, suponga que la separación entre las placas se in-
+crementó 1.00 mm del valor normal de 3.00 mm. ¿La carga fluirá hacia el condensador o
+desde éste? ¿Cuánta carga será la que fluya?
+¢Q = Q¿- Q =11.98 * 10
+-11 C2 -11.32 * 10-11 C2 =+ 6.60 * 10-12 C
+C¿= keo
+ A
+d¿ =
+14.98218.85 * 10-12 C2>N # m2217.50 * 10-5 m22
+2.00 * 10-3 m = 1.65 * 10-12 F
+Q = CV =11.10 * 10-12 F2112.0 V2 = 1.32 * 10-11 C
+k = C
+Co
+= 1.10 * 10-12 F
+2.21 * 10-13 F = 4.98
+Co =eo
+ A
+d =
+18.85 * 10-12 C2>N # m2217.50 * 10-5 m22
+3.00 * 10-3 m = 2.21 * 10-13 F
+ d¿= 2.00 mm = 2.00 * 10-3 m
+ C = 1.10 pF = 1.10 * 10-12 F
+¢Q A = 0.750 cm2 = 7.50 * 10-5 m2
+ d = 3.00 mm = 3.00 * 10-3 m
+k V = 12.0 V
+a)
+b)
+▲ FIGURA 16.18 Condensadores
+en uso a) El material dieléctrico
+entre las placas del condensador
+permite que las placas se construyan
+de manera que queden muy cerca
+entre sí, aumentando la capacitancia.
+Además, las placas pueden enro-
+llarse en un condensador compacto
+más práctico. b) Condensadores 
+entre otros elementos de circuitos
+de una microcomputadora.
+
+16.5 Condensadores en serie y en paralelo 557
+  =    +    +  
+C1
+V2
+V3
+V1
+VV
++
+–
+C2
+C3
++Q1
+– Q1
++Q2
+– Q2
++Q3
+– Q3
++Q
+– Q
+V = V1 + V2 + V3Cs
+Q = Q1 = Q2 = Q3
+(Q's iguales)
+C1
++Q1
+– Q1
+C2 C3
++Q2
+– Q2
++Q3
+Q1 Q2 Q3 
+– Q3
+Cp
++Q
+– Q
+V
+V
+Q = Q1 + Q2 + Q3
+(Q's no necesariamente iguales)
+V V
+Cp = C1 + C2 + C3
+V
++
+–
++
+–
++
+–
+a) Condensadores en serie
+b) Condensadores en paralelo
+c) Condensadores en paralelo
+1
+Cs
+1
+C1
+1
+C2
+1
+C3
++–
+V
+Qtotal
+Qtotal = Q1 + Q2 + Q3 +
++–
+V
+▼ FIGURA 16.20 Condensadores en serie y en paralelo a) Todos los condensadores 
+conectados en serie tienen la misma carga, y la suma de las caídas de voltaje es igual al
+voltaje de la batería. La capacitancia total en serie es equivalente al valor de C
+s. b) Cuando
+los condensadores están conectados en paralelo, las caídas de voltaje a través de los con-
+densadores son las mismas, y la carga total es igual a la suma de las cargas sobre los 
+condensadores individuales. La capacitancia total en paralelo es equivalente al valor 
+de C
+p. c) En una conexión en paralelo, pensar en las placas facilita ver por qué la carga 
+total es la suma de las cargas individuales. En efecto, este arreglo representa un 
+condensador con dos placas grandes.
+Nota: Para los llamados conden-
+sadores de placas paralelas con
+dieléctrico intercalado, no hay 
+distinción de cabeza o cola entre
+los conductores. Algunos tipos 
+de condensadores tienen lados
+particulares positivos y negativos,
+y por ende debe hacerse la 
+distinción.
+16.5 Condensadores en serie y en paralelo
+OBJETIVOS: a) Encontrar la capacitancia equivalente de condensadores conec-
+tados en serie y en paralelo, b) calcular las cargas, los voltajes y el al-
+macenamiento de energía de condensadores individuales en configu-
+raciones en serie y en paralelo y c) analizar redes de condensadores
+que incluyan arreglos tanto en serie como en paralelo.
+Los condensadores se conectan de dos formas básicas: en serie o en paralelo. En serie, los
+condensadores están conectados cabeza a cola (▼figura 16.20a). Cuando están conecta-
+dos en paralelo, todos los conductores a un lado de los condensadores tienen una co-
+nexión común. (Piense que todas las “colas” están conectadas juntas y que todas las
+“cabezas” están también conectadas juntas; figura 16.20b.)
+Ilustración 26.4 Vista microscópica
+de condensadores en serie y en 
+paralelo
+
+558 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+Condensadores en serie
+Cuando los condensadores están conectados en serie, la carga Q debe ser la misma en
+todas las placas:
+Para saber por qué esto es así, examine la >figura 16.21. Observe que sólo las placas A
+y F están realmente conectadas a la batería. Como las placas B y C están aisladas, la
+carga total sobre ellas siempre debe ser cero. Así, cuando la batería pone una carga 
+de /H11001Q sobre la placa A, entonces /H11002Q se induce sobre B a expensas de la placa C, que
+adquiere una carga /H11001Q. Esta carga a la vez induce /H11002Q sobre D, y así sucesivamente,
+hacia abajo por la línea.
+Como hemos visto, la “caída de voltaje” es sólo otro nombre para el “cambio en
+energía potencial eléctrica por carga unitaria”. Así, cuando sumamos todas las caídas
+de voltaje en condensadores en serie (véase la figura 16.20a), debemos obtener el mis-
+mo valor que el voltaje a través de las terminales de la batería. Así, la suma de las caí-
+das de voltaje individuales a través de todos los condensadores es igual al voltaje de la
+fuente:
+La capacitancia equivalente en serie, C
+s, se define como el valor de un solo con-
+densador que podría reemplazar la combinación en serie y almacenar la misma carga
+al mismo voltaje. Como la combinación de condensadores almacena una carga de Q
+a un voltaje de V, se infiere que C
+s /H11005Q/V o V /H11005Q/Cs. Sin embargo, los voltajes in-
+dividuales están relacionados con las cargas individuales por V1 /H11005Q/C1, V2 /H11005Q/C2,
+V3 /H11005Q/C3, y así sucesivamente.
+Sustituyendo estas expresiones en la ecuación del voltaje, tenemos
+Cancelando las Q comunes,
+capacitancia equivalente en serie (16.17)
+Esta relación implica que el valor de Cs siempre es menor que la capacitancia 
+más pequeña en la combinación en serie. Por ejemplo, pruebe la ecuación 16.17 con 
+C
+1 /H110051.0 /H9262F y C2 /H110052.0 /H9262F. Usted debería demostrar que Cs /H110050.67 /H9262F, lo cual es menor
+que 1.0 /H9262F (la prueba general se le deja como ejercicio). Físicamente, el razonamiento
+es el siguiente: como todos los condensadores en serie tienen la misma carga, la carga
+almacenada por este arreglo es Q /H11005C
+iVi (donde el subíndice i se refiere a cualquiera
+de los condensadores individuales en la cadena). Como Vi /H11021V, el arreglo en serie al-
+macena menos carga que cualquier condensador individual conectado por sí mismo 
+a la misma batería.
+Tiene sentido que en serie la capacitancia más pequeña reciba el voltaje más gran-
+de. Un valor pequeño de C significa menos carga almacenada por volt. Para que la
+carga sobre todos los condensadores sea la misma, cuanto menor sea el valor de la ca-
+pacitancia, mayor será la fracción del voltaje total requerido ( Q /H11005CV).
+Condensadores en paralelo
+Con un arreglo en paralelo (figura 16.20b), los voltajes a través de los condensadores
+son los mismos (¿por qué?), y cada voltaje individual es igual al de la batería:
+La carga total es la suma de las cargas sobre cada condensador (figura 16.20c):
+Esperamos que la capacitancia equivalente en paralelo sea mayor que la capaci-
+tancia más grande, porque se puede almacenar más carga por volt de esta manera
+que si cualquier condensador se conectara a la batería por sí solo. Las cargas indi-
+viduales están dadas por Q
+1 /H11005C1V, Q2 /H11005C2V, y así sucesivamente. Un condensa-
+dor con la capacitancia equivalente en paralelo , Cp, tendría esta misma carga total
+Qtotal = Q1 + Q2 + Q3 + Á
+V = V1 = V2 = V3 = Á
+1
+Cs
+= 1
+C1
++ 1
+C2
++ 1
+C3
++ Á
+Q
+Cs
+= Q
+C1
++ Q
+C2
++ Q
+C3
++ Á
+V = V1 + V2 + V3 + Á
+Q = Q1 = Q2 = Q3 = Á
+V 
+A 
+B 
+C 
+D 
+E 
+F 
++
+–
++Q
+– Q
++Q
+– Q
++Q
+– Q
+▲ FIGURA 16.21 Cargas sobre
+condensadores en serie
+Las placas B y C juntas tenían carga
+neta cero al principio. Cuando la
+batería colocó /H11001Q en la placa A, se
+indujo la carga /H11002Q en B; entonces,
+C debió adquirir /H11001Q para que la
+combinación BC permaneciera 
+neutral. Continuando de esta 
+manera por el arreglo, vemos 
+que todas las cargas deben de 
+igual magnitud.
+
+16.5 Condensadores en serie y en paralelo 559
+que conectado a la batería, por lo que Cp /H11005Qtotal/V o Qtotal /H11005CpV. Sustituyendo esas
+expresiones en la ecuación anterior, tenemos
+y, cancelando la V común, obtenemos
+capacitancia equivalente en paralelo (16.18)
+Así, en el caso en paralelo, la capacitancia equivalente Cp es la suma de las capa-
+citancias individuales. En este caso, la capacitancia equivalente es mayor que la capaci-
+tancia individual más grande. Como los condensadores en paralelo tienen el mismo 
+voltaje, la capacitancia más grande almacenará la mayor cantidad de carga. Como una
+comparación de condensadores en serie y en paralelo, considere el siguiente ejemplo.
+Ejemplo 16.10 ■ Carga sin tarjeta de crédito: condensadores 
+en serie y en paralelo
+Dados dos condensadores, uno con una capacitancia de 2.50 /H9262F y el otro de 5.00 /H9262F, ¿cuá-
+les serán las cargas en cada uno y la carga total almacenada si están conectados a través
+de una batería de 12.0 volts a) en serie y b) en paralelo?
+Razonamiento. a) Los condensadores en serie tienen la misma carga. La ecuación 16.17
+nos permite encontrar la capacitancia equivalente y, de ahí, la carga sobre cada condensa-
+dor. b) Los condensadores en paralelo tienen el mismo voltaje; entonces, la carga de cada
+uno se puede determinar fácilmente, pues se conocen sus capacitancias individuales.
+Solución. Tenemos lo siguiente:
+Dado: Encuentre: a) Q en cada condensador en 
+serie y Qtotal (carga total)
+b) Q en cada condensador en 
+paralelo y Qtotal (carga total)
+a) En serie, la capacitancia (equivalente) total es:
+por lo que
+(Note que Cs es menor que la capacitancia más pequeña en la cadena en serie, como se
+esperaba.)
+Como la carga sobre cada condensador es la misma en serie (y la misma que el total),
+b) Aquí, usamos la relación de capacitancia paralela equivalente:
+(Este resultado es razonable porque es mayor que el valor individual más grande en el
+arreglo paralelo.)
+Por lo tanto,
+En paralelo, cada condensador tiene los 12.0 V completos a través de él; por lo tanto,
+Como una doble revisión final, observe que la carga almacenada total es igual a la suma
+de las cargas sobre ambos condensadores.
+Ejercicio de refuerzo. En este ejemplo, determine qué combinación, en serie o en parale-
+lo, almacena más energía.
+ Q2 = C2
+ V =15.00 * 10-6 F2112.0 V2 = 6.00 * 10-5 C
+ Q1 = C1
+ V =12.50 * 10-6 F2112.0 V2 = 3.00 * 10-5 C
+Qtotal = Cp
+ V =17.50 * 10-6 F2112.0 V2 = 9.00 * 10-5 C
+Cp = C1 + C2 = 2.50 * 10-6 F + 5.00 * 10-6 F = 7.50 * 10-6 F
+Qtotal = Q1 = Q2 = Cs
+ V =11.67 * 10-6 F2112.0 V2 = 2.00 * 10-5 C
+Cs = 1.67 * 10-6 F
+1
+Cs
+= 1
+2.50 * 10-6 F + 1
+5.00 * 10-6 F = 3
+5.00 * 10-6 F
+ V = 12.0 V
+ C2 = 5.00 mF = 5.00 * 10-6 F
+ C1 = 2.50 mF = 2.50 * 10-6 F
+Cp = C1 + C2 + C3 + Á
+Cp
+ V = C1
+ V + C2
+ V + C3
+ V + Á
+Exploración 26.4 Capacitancia 
+equivalente
+
+560 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+12 V 
+C1 C2
+0.10  Fμ 0.20  Fμ
+C3
+0.60  Fμ
+V 
+Cs = Ctotal
+V
+C3
+Cp
+V3
+V12
+c)
+b)
+a)
+▲ FIGURA 16.22 Reducción de 
+circuito Al combinar las capaci-
+tancias, la combinación de 
+condensadores se reduce a una 
+sola capacitancia equivalente. 
+Véase el ejemplo 16.11.
+Los arreglos de condensadores típicamente implican conexiones tanto en serie co-
+mo en paralelo (véase el siguiente ejemplo). En esta situación, usted simplifica el circui-
+to, usando las expresiones para la capacitancia equivalente en paralelo y en serie, hasta
+que termina con una sola capacitancia equivalente total. Para encontrar los resultados
+para cada condensador individual, usted procede hacia atrás hasta que obtiene el arre-
+glo original.
+Ejemplo 16.11 ■ Un paso a la vez: combinación de condensadores
+en serie y en paralelo
+Tres condensadores están conectados en un circuito como se muestra en la >figura 16.22a.
+¿Cuál es el voltaje a través de cada condensador?
+Razonamiento. El voltaje a través de cada condensador podría encontrarse de V /H11005Q/C,
+si se conoce la carga sobre cada condensador. La carga total sobre los condensadores se
+encuentra reduciendo la combinación serie-paralelo a una sola capacitancia equiva-
+lente. Dos de los condensadores están en paralelo. Su sola capacitancia equivalente ( C
+p)
+está en serie con el último condensador, un hecho que permite encontrar la capa-
+citancia total. Procediendo hacia atrás podremos encontrar el voltaje a través de cada
+condensador.
+Solución.
+Dado: Valores de la capacitancia y   Encuentre: V1, V2 y V3 (voltajes a través 
+el voltaje de la figura de los condensadores)
+Comenzando con la combinación en paralelo, tenemos
+Ahora el arreglo está parcialmente reducido, como se muestra en la figura 16.22b. A con-
+tinuación, considerando Cp en serie con C3, podemos encontrar la capacitancia equivalen-
+te total del arreglo original:
+Por lo tanto,
+Ésta es la capacitancia equivalente total del arreglo (figura 16.22c). Tratando el problema
+como si fuera para un solo condensador, estimamos la carga sobre esa capacitancia equi-
+valente:
+Ésta es la carga sobre C
+3 y Cp, ya que están en serie. Podemos usar esto para calcular el
+voltaje a través de C3:
+La suma de los voltajes a través de los condensadores es igual al voltaje a través de las
+terminales de la batería. Los voltajes a través de C1 y C2 son los mismos porque están en
+paralelo. Como el voltaje a través de C1 (o C2) más el voltaje a través de C3 es igual al vol-
+taje total (el voltaje de la batería), escribimos V /H11005V12 /H11001V3 /H1100512 V . (Véase la figura 16.22a.)
+Aquí, V12 representa el voltaje a través de C1 o de C2. Despejando V12,
+Note que Cp es menor que C3. Como Cp y C3 están en serie, se infiere que Cp (y por lo tanto
+C1 y C2) tienen la mayoría del voltaje.
+Ejercicio de refuerzo. En este ejemplo, encuentre a) la carga almacenada en cada con-
+densador y b) la energía almacenada en cada uno.
+V12 = V - V3 = 12 V - 4.0 V = 8.0 V
+V3 = Q
+C3
+= 2.4 * 10-6 C
+6.0 * 10-7 F = 4.0 V
+Q = Cs
+ V =12.0 * 10-7 F2112 V2 = 2.4 * 10-6 C
+Cs = 0.20 mF = 2.0 * 10-7 F
+1
+Cs
+= 1
+C3
++ 1
+Cp
+= 1
+0.60 mF + 1
+0.30 mF = 1
+0.60 mF + 2
+0.60 mF = 1
+0.20 mF
+Cp = C1 + C2 = 0.10 mF + 0.20 mF = 0.30 mF
+
+Repaso del capítulo 561
+Repaso del capítulo
+• Las diferencia de potencial eléctrico(o voltaje) entre dos pun-
+tos es el trabajo hecho por una carga unitaria positiva entre
+esos dos puntos, o la carga en energía potencial eléctrica por
+carga unitaria positiva. Expresada en forma de ecuación, esta
+relación es
+(16.1)
+• Las superficies equipotenciales(superficies de potencial eléc-
+trico constante, también llamadas equipotenciales) son super-
+ficies sobre las cuales una carga tiene una energía potencial
+eléctrica constante. En todas partes esas superficies son per-
+pendiculares al campo eléctrico.
+• La expresión para el potencial eléctrico debido a una carga
+puntual (eligiendo V /H110050 en r /H11005/H11009) es
+(16.4)
+• La energía potencial eléctrica para un par de cargas puntua-
+les está dada por (eligiendo U /H110050 en r /H11005/H11009)
+(16.5)
+• La energía potencial eléctrica de una configuración de más de
+dos cargas puntuales está dada por una suma de términos 
+de pares de cargas puntuales de la ecuación 16.5:
+(16.6)
+r23
+r12
+r13
+U = U12 + U23 + U13
++
++
+−
+q1
+q2
+q3
+Utotal = U12 + U23 + U13 + Á
+r12
+q1 q2
+++ +
+Muy
+distante
+(U = 0)
+r12
+kq1q2
+U12 =
+U12 =
+kq1
+ q2
+r12
+V =
+kq
+r
+VA
+VB
++
+A
+B
+MENOR
+POTENCIAL
+rA
+rB
+MAYOR
+POTENCIAL
+¢V = ¢Ue
+q+
+= W
+q+
+• El campo eléctrico está relacionado con qué rápidamente
+cambia el potencial eléctrico con la distancia. El campo eléctri-
+co señala en la dirección de la disminución más rápi-
+do en potencial eléctrico ( V). La magnitud del campo eléc-
+trico (E) es la razón de cambio del potencial con la distancia, o
+bien,
+(16.8)
+• El electrón volt (eV) es la energía cinética ganada por un
+electrón o un protón acelerado a través de una diferencia de
+potencial de 1 volt.
+• Un condensador es cualquier arreglo de dos placas metáli-
+cas. Los condensadores almacenan carga sobre sus placas y,
+por ello, energía eléctrica.
+• La capacitancia es una medida cuantitativa de qué tan efecti-
+vo es un condensador en almacenar carga. Se define como la
+magnitud de la carga almacenada en cualquier placa por volt,
+o bien,
+(16.9)
+• La capacitancia de un condensador de placas paralelas (en
+aire) es
+(16.12)
+donde /H9255
+o /H110058.85 /H1100310/H1100212 C2/(N · m2) se llama permisividad
+del espacio libre.
+• La energía almacenada en un condensador depende de la
+capacitancia del condensador y de la cantidad de carga que el
+condensador almacena (o, de manera equivalente, el voltaje a
+través de sus placas). Hay tres expresiones equivalentes para
+esta energía:
+(16.13)
+• Un dieléctrico es un material no conductor que incrementa el
+valor de la capacitancia.
+• La constante dieléctrica /H9260describe el efecto de un dieléctrico
+sobre la capacitancia. Un dieléctrico aumenta la capacitancia
+del condensador sobre su valor con aire entre las placas, por
+un factor de /H9260
+(16.15)C =
+kCo
+UC = 1
+2 QV = Q2
+2C = 1
+2 CV2
+C =eo
+ A
+d
++–
+V
++–
++–
++–
++–
++–
++–
++–
++–
++–
++–
++–
+Placas
+metálicas
+Batería
+E
+– Q+Q
+Q = +Q = CV
+ 
+Q = CV o C = Q
+V
+E = ` ¢V
+¢x`
+máx
+1E
+S
+2
+
+562 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+• Los condensadores conectados en serie son equivalentes a un
+condensador, con una capacitancia llamada capacitancia equi-
+valente en serieCs. En serie, todos los condensadores tienen la
+misma carga. La capacitancia equivalente en serie es
+(16.17)
+  =    +    +  
+C1
+V2
+V3
+V1
+VV
++
+–
+C2
+C3
++Q1
+– Q1
++Q2
+– Q2
++Q3
+– Q3
++Q
+– Q
+V = V1 + V2 + V3Cs
+Q = Q1 = Q2 = Q3
+(Q's iguales)
+V
++
+–
+1
+Cs
+1
+C1
+1
+C2
+1
+C3
+1
+Cs
+= 1
+C1
++ 1
+C2
++ 1
+C3
++ Á
+• Cuando los condensadores están conectados en paralelo, pue-
+den considerarse equivalentes a un condensador, con una capa-
+citancia llamada capacitancia equivalente en paralelo C
+p. En
+paralelo, todos los condensadores tienen el mismo voltaje. La
+capacitancia equivalente en paralelo está dada por
+(16.18)
+C1
++Q1
+– Q1
+C2 C3
++Q2
+– Q2
++Q3
+– Q3
+Cp
++Q
+– Q
+V
+Q = Q1 + Q2 + Q3
+(Q's no necesariamente iguales)
+V V
+Cp = C1 + C2 + C3
+V
++
+–
++
+–
+Cp = C1 + C2 + C3 + Á
+Ejercicios
+Los ejercicios designados OM son preguntas de opción múltiple; los PC son preguntas conceptuales; y los EI son ejer-
+cicios integrados. A lo largo del texto, muchas secciones de ejercicios incluirán ejercicios “apareados”. Estos pares de
+ejercicios, que se identifican con númer
+os subrayados, pretenden ayudar al lector a resolver problemas y aprender.
+El primer ejercicio de cada pareja (el de número par) se resuelve en la Guía de estudio, que puede consultarse si se ne-
+cesita ayuda para resolverlo. El segundo ejercicio (de número impar) es similar, y su respuesta se da al final del libro.
+16.1 Energía potencial eléctrica y diferencia 
+de potencial eléctrico
+1. OM La unidad SI de la diferencia de potencial eléctrico es
+a) el joule, b) el newton por coulomb, c) el newton-metro
+o d) el joule por coulomb.
+2. OM ¿Cómo cambia la energía potencial electrostática de
+dos cargas puntuales positivas cuando se triplica la dis-
+tancia entre ellas? a) Se reduce a un tercio de su valor ori-
+ginal, b) se reduce a un noveno de su valor original, c) no
+cambia o d) se triplica su valor original.
+3. OM Un electrón se mueve de la placa positiva a la nega-
+tiva de un arreglo de placas paralelas cargadas. ¿Cómo
+se compara el signo del cambio en d de su energía poten-
+cial electrostática, con el signo del cambio en el potencial
+electrostático que experimenta: a) ambos son positivos,
+b) el cambio de energía es positivo, el cambio de poten-
+cial es negativo, c) el cambio de energía es negativo, el
+cambio de potencial es positivo o d) ambos son negati-
+vos?
+4. PC ¿Cuál es la diferencia a) entre energía potencial elec-
+trostática y potencial eléctrico y b) entre diferencia de po-
+tencial eléctrico y voltaje?
+5. PC Cuando un protón se acerca a otro protón fijo, ¿qué
+sucede a) a la energía cinética del protón que se aproxi-
+ma, b) a la energía potencial eléctrica del sistema y c) a la
+energía total del sistema?
+6. PC Utilizando el lenguaje de potencial y energía eléctri-
+cos (no fuerzas), explique por qué las cargas positivas
+aceleran conforme se aproximan a las cargas negativas.
+7. PC Se libera un electrón en una región donde el poten-
+cial eléctrico disminuye a la izquierda. ¿De qué forma se
+moverá el electrón? Explique.
+8. PC Se libera un electrón en una región donde el poten-
+cial eléctrico es constante. ¿De qué forma acelerará el
+electrón?
+9. PC Si dos localidades están al mismo potencial, ¿cuánto
+trabajo se requiere para mover una carga de la primera
+localidad a la segunda? Explique.
+10.
+● Un par de placas paralelas están cargadas por una ba-
+tería de 12 V . ¿Cuánto trabajo se requiere para mover una
+partícula con una carga de /H110024.0 /H9262C de la placa positiva 
+a la negativa?
+11.
+● Si se requieren /H110011.6 /H1100310/H110025 J para mover una partícula
+con carga positiva entre dos placas paralelas cargadas, 
+a) ¿cuál será la magnitud de la carga si las placas están
+conectadas a una batería de 6.0 V? b) Se movió ésta de 
+la placa negativa a la positiva, o de la placa positiva a la
+negativa?
+12.
+● ¿Cuáles son la magnitud y dirección del campo eléctri-
+co entre las dos placas paralelas cargadas en el ejercicio
+11, si las placas están 4.0 mm separadas?
+13.
+● En una máquina dental de rayos X, un haz de elec-
+trones se acelera mediante una diferencia de potencial de
+10 kV . Al final de la aceleración, ¿cuánta energía cinética
+tiene cada electrón si todos partieron del reposo?
+14.
+● Un electrón es acelerado por un campo eléctrico uni-
+forme (1000 V/m) que señala verticalmente hacia arriba.
+Use las leyes de Newton para determinar la velocidad
+del electrón después que éste se mueve 0.10 cm desde 
+el reposo.
+
+20 cm
+20 cm
+20 cm
+q1 = + 4.0 /H9262C 
+q2 = + 4.0 /H9262C q3 = − 4.0 /H9262C 
+> FIGURA 16.24 Un
+triángulo de carga Véanse
+los ejercicios 25 y 27.
+Ejercicios 563
+15. ● a) Repita el ejercicio 14, pero encuentre la rapidez usan-
+do métodos de energía. Obtenga la dirección en que se es-
+tá moviendo el electrón, considerando cambios de energía
+potencial eléctrica. b) ¿El electrón gana o pierde ener-
+gía potencial?
+16. EI
+● Considere dos puntos a diferentes distancias de una
+carga puntual positiva. a) El punto más cercano a la carga
+tiene un potencial 1) mayor, 2) igual o 3) menor que el
+punto más alejado de la carga. ¿Por qué? b) ¿Cuál es la di-
+ferencia de potencial entre dos puntos a 20 y 40 cm de una
+carga de 5.5 /H9262C?
+17. EI
+●● a) A un tercio de la distancia original desde una
+carga puntual positiva, ¿por qué factor cambia el poten-
+cial eléctrico? 1) 1/3, 2) 3, 3) 1/9 o 4) 9. ¿Por qué? b) ¿Qué
+tan lejos de una carga de /H110011.0 /H9262C está un punto con un
+potencial eléctrico de 10 kV? c) ¿Qué cambio en potencial
+ocurriría si el punto se moviera a tres veces esa distancia?
+18. EI
+●● En el modelo de Bohr del átomo de hidrógeno, el
+electrón puede existir sólo en órbitas circulares de cier-
+tos radios alrededor de un protón. a) ¿Una órbita mayor
+tendrá un potencial eléctrico 1) mayor, 2) igual o 3) me-
+nor que una órbita más pequeña? ¿Por qué? b) Determi-
+ne la diferencia de potencial entre dos órbitas de radios
+0.21 y 0.48 nm.
+19.
+●● En el ejercicio 18, ¿cuánto cambia la energía potencial
+del átomo si el electrón va a) de la órbita inferior a la su-
+perior, b) de la órbita superior a la inferior y c) de la órbi-
+ta mayor a una distancia muy grande?
+20. ●● ¿Cuánto trabajo se requiere para separar completa-
+mente dos cargas (cada una de /H110021.4 /H9262C) y dejarlas en re-
+poso, si inicialmente estaban a 8.00 mm de distancia?
+21. ●● En el ejercicio 20, si las dos cargas son liberadas en su
+distancia de separación inicial, ¿cuánta energía cinética
+tendría cada una cuando ellas estén muy distantes una
+de otra?
+22.
+●● Toma /H110016.0 J de trabajo mover dos cargas desde una
+distancia grande a 1.0 cm una de otra. Si las cargas tie-
+nen la misma magnitud, a) ¿qué grande es cada carga y
+b) qué se puede decir acerca de sus signos?
+23.
+●● Una carga de /H110012.0 /H9262C está inicialmente a 0.20 m de
+una carga fija de /H110025.0 /H9262C y luego se mueve a una posi-
+ción a 0.50 m de la carga fija. a) ¿Qué trabajo se requirió
+para mover la carga? b) ¿Depende el trabajo de la trayec-
+toria sobre la cual se movió la carga?
+24. ●● Se traslada un electrón del punto A al punto B y luego
+al punto C a lo largo de dos lados de un triángulo equi-
+látero, cuyos lados tienen longitud de 0.25 m (
+▼figura
+16.23). Si el campo eléctrico horizontal es de 15 V/m, 
+a) ¿cuál es la magnitud del trabajo requerido? b) ¿Cuál es
+la diferencia de potencial entre los puntos A y C? c) ¿Qué
+punto está a un potencial mayor?
+25. ●● Calcule la energía necesaria para juntar las cargas
+(desde una distancia muy grande) en la configuración
+mostrada en la 
+▼figura 16.24.
+E = 15 V/m
+C
+B
+A
+0.25 m
+0.25 m
+0.25 m
+26. ●● Calcule la energía necesaria para juntar las cargas
+(desde una distancia muy grande) en la configuración
+mostrada en la 
+▼figura 16.25.
+27. ●●● ¿Cuál es el valor del potencial eléctrico a) en el cen-
+tro del triángulo y b) a medio punto entre q2 y q3 en la fi-
+gura 16.24?
+28. ●●● ¿Cuál es valor del potencial eléctrico en a) el centro
+del cuadrado y b) en un punto a la mitad entre q2 y q4 en
+la figura 16.25?
+29. EI ●●● En el monitor de una computadora, los electrones
+se aceleran desde el reposo a través de una diferencia de
+potencial en un arreglo de “cañón electrónico” (
+▼figura
+16.26). a) ¿El lado izquierdo del cañón debería estar a un
+potencial 1) mayor, 2) igual o 3) menor que el lado dere-
+cho? ¿Por qué? b) Si la diferencia de potencial en el cañón
+es de 5.0 kV , ¿cuál será la “velocidad inicial” de los elec-
+trones que salen del cañón? c) Si el cañón está dirigido a
+una pantalla a 35 cm, ¿qué tiempo tomará a los electro-
+nes llegar a la pantalla?
+0.10 m
+0.10 m
+0.10 m0.10 m
+q1 = −10 /H9262C 
+q4 = +5.0 /H9262C q3 = +5.0 /H9262C 
+q2 = −10 /H9262C 
+> FIGURA 16.25 Un
+rectángulo de carga
+Véanse los ejercicios 
+26 y 28.
+> FIGURA 16.23
+Trabajo y energía
+Véase el ejercicio 24.
+Cañón 
+electrónico
+10 kV
+35 cm
+> FIGURA 16.26 Rapidez
+del electrón Véase el
+ejercicio 29.
+
+564 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
++
++
++
++
++
++
++
++
+–
+–
+–
+–
+–
+–
+–
+–
+3.0 cm
+12 V
+0.50 cm
+1.0 cm45°
+▲ FIGURA 16.27 Alcanzar nuestro potencial
+Véanse los ejercicios 54 y 55.
+16.2 Superficies equipotenciales y el campo eléctrico
+30. OM En una superficie equipotencial a) el potencial eléc-
+trico es constante, b) el campo eléctrico es cero, c) el po-
+tencial eléctrico es cero, d) debe haber iguales cantidades
+de carga negativa y positiva.
+31. OM Las superficies equipotenciales son a) paralelas al cam-
+po eléctrico, b) perpendiculares al campo eléctrico o c) for-
+man cualquier ángulo con respecto al campo eléctrico.
+32. OM Un electrón se mueve de una superficie equipoten-
+cial de /H110015.0 V a una de /H1100110.0 V . En general, se mueve en
+una dirección a) paralela al campo eléctrico, b) opuesta al
+campo eléctrico, c) en la misma dirección que el campo
+eléctrico.
+33. PC Esboce el mapa topográfico que esperaría usted al
+alejarse del mar caminando por una playa uniforme con
+suave pendiente ascendente. Rotule las equipotenciales
+gravitacionales respecto a sus alturas relativas y poten-
+ciales. Muestre cómo predecir, a partir del mapa, en qué
+dirección acelerará una pelota si se encuentra inicialmen-
+te a cierta distancia del agua.
+34. PC Explique por qué dos superficies equipotenciales no
+pueden intersecarse.
+35. PC Suponga que usted comienza con una carga en repo-
+so sobre una superficie equipotencial, la mueve fuera de
+la superficie, luego la regresa a la superficie y, finalmen-
+te, la lleva al reposo. ¿Cuánto trabajo requirió hacer esto?
+Explíquelo.
+36. PC ¿Qué forma geométrica tienen las superficies equipo-
+tenciales entre dos placas paralelas cargadas?
+37. PC a) ¿Cuál es la forma aproximada de las superficies
+equipotenciales dentro de la membrana de la celda de un
+axón? (Véase la figura 1, p. 552.) b) Bajo condiciones de po-
+tencial en reposo, ¿dónde está la región de máximo poten-
+cial eléctrico dentro de la membrana? c) ¿Qué puede decir
+respecto a las condiciones durante polaridad inversa?
+38. PC Cerca de una carga puntual positiva fija, si usted va
+de una superficie equipotencial a otra con un menor ra-
+dio, a) ¿qué le pasa al valor del potencial? b) ¿Cuál fue 
+su dirección general con respecto al campo eléctrico?
+39. PC a) Si un protón se acelera a partir del reposo median-
+te una diferencia de potencial de 1 millón de volts,
+¿cuánta energía cinética gana? b) ¿Cómo cambiaría su
+respuesta al inciso a si la partícula acelerada tuviera el
+doble de carga del protón (pero igual signo) y cuatro ve-
+ces su masa?
+40. PC a) ¿El campo eléctrico en un punto puede ser cero
+mientras hay un potencial eléctrico diferente de cero en
+ese punto? b) ¿El potencial eléctrico en un punto puede
+ser cero mientras hay un campo eléctrico diferente de ce-
+ro en ese punto? Explique su respuesta. Si la respuesta 
+a cualquiera de los incisos es sí, dé un ejemplo.
+41.
+● Para una carga puntual de /H110013.50 /H9262C, ¿cuál será el ra-
+dio de la superficie equipotencial cuyo potencial es de
+2.50 kV?
+42.
+● Un campo eléctrico uniforme de 10 kV/m señala verti-
+calmente hacia arriba. ¿Qué tan separados están los pla-
+nos equipotenciales que difieren en 100 V?
+43.
+● En el ejercicio 42, si el suelo tiene potencial cero, ¿qué
+tan arriba del suelo estará la superficie equipotencial 
+correspondiente a 7.0 kV?
+44.
+● Determine el potencial a 2.5 mm de la placa negativa
+de un par de placas paralelas separadas 10 mm y conec-
+tadas a una batería de 24 V .
+45.
+● Con relación a la placa positiva del ejercicio 44, ¿dónde
+está el punto con un potencial de 20 V?
+46. ● Si el radio de la superficie equipotencial de la carga
+puntual está a 14.3 m a un potencial de 2.20 kV , ¿cuál será
+la magnitud de la carga puntual que genera el potencial?
+47. EI
+● a) La forma de una superficie equipotencial a cierta
+distancia de una carga puntual consiste en 1) esferas
+concéntricas, 2) cilindros concéntricos o 3) planos. ¿Por
+qué? b) Calcule la cantidad de trabajo (en eV) que toma-
+ría mover un electrón de 12.6 a 14.3 m desde una carga
+puntual de /H110013.50 /H9262C.
+48.
+● La diferencia de potencial implicada en la descarga 
+de un relámpago puede ser hasta de 100 MV (1 millón de
+volts). ¿Cuál sería la ganancia de energía cinética de un
+electrón después de moverse a través de esta diferencia
+de potencial? Dé su respuesta en tanto en eV como en
+joules. (Suponga que no hay colisiones.)
+49.
+● En un acelerador lineal Van de Graaff típico, los proto-
+nes se aceleran a través de una diferencia de potencial de
+20 MV . ¿Cuál será su energía cinética si parten desde el
+reposo? Dé su respuesta en a) eV , b) keV , c) MeV , d) GeV 
+y e) joules.
+50.
+● En el ejercicio 49, ¿cómo cambian sus respuestas si es
+una partícula alfa doblemente cargada ( /H110012e) la que se
+acelera? (Recuerde que una partícula alfa consiste en dos
+neutrones y dos protones.)
+51.
+●● En los ejercicios 49 y 50, calcule la rapidez del protón
+y la partícula alfa al ser acelerados.
+52. ●● Calcule el voltaje requerido para acelerar un haz de
+protones inicialmente en reposo, y calcule su rapidez 
+si tienen una energía cinética de a) 3.5 eV , b) 4.1 keV y 
+c) 8.0 /H1100310
+/H1100216 J.
+53. ●● Repita el cálculo en el ejercicio 52 para electrones en
+vez de protones.
+54. ●●● Dos grandes placas paralelas están separadas 3.0 cm
+y conectadas a una batería de 12 V . Comenzando en la
+placa negativa y moviéndose 1.0 cm hacia la placa positi-
+va según un ángulo de 45° (
+▼figura 16.27), a) ¿qué valor
+
+Ejercicios 565
+de potencial se alcanza, suponiendo que la placa negati-
+va se define con un potencial cero? b) ¿Cuál sería el valor
+del potencial si luego se moviera 0.50 cm paralelo a las
+placas?
+55.
+●●● Considere un punto a medio camino entre las dos
+grandes placas cargadas en la figura 16.27. Calcule el cam-
+bio en potencial eléctrico, si desde ahí usted se moviera 
+a) 1.0 mm hacia la placa positiva, b) 1.0 mm hacia la placa
+negativa y c) 1.0 mm en forma paralela a ambas placas.
+56.
+●●● Utilizando los resultados del ejercicio 55, determine
+el campo eléctrico (dirección y magnitud) en un punto a
+la mitad del camino entre las placas.
+16.3 Capacitancia
+57. OM Un condensador se conecta primero a una batería
+de 6.0 V y luego se desconecta para conectarse a otra de
+12.0 V . ¿Su capacitancia: a) aumenta, b) disminuye o 
+c) permanece constante?
+58. OM Un condensador se conecta primero a una batería 
+de 6.0 V y luego se desconecta para conectarse a otra de
+12.0 V . ¿Cómo cambia la carga en una de sus placas: 
+a) aumenta, b) disminuye o c) permanece constante?
+59. OM Un condensador se conecta primero a una batería 
+de 6.0 V y luego se desconecta para conectarse a otra de
+12.0 V . ¿Por cuánto cambia la intensidad  del campo eléc-
+trico entre sus placas: a) dos veces, b) cuatro veces o 
+c) permanece constante?
+60. OM La distancia entre las placas de un condensador se re-
+duce a la mitad. ¿Por qué factor cambia su capacitancia: 
+a) disminuye a la mitad, b) se reduce a una cuarta parte 
+de su valor original, c) se duplica o d) se cuadruplica?
+61. OM Si el área de las placas de un condensador se reduce,
+¿cómo ajustaría la distancia entre esas placas para mante-
+ner constante la capacitancia: a) aumentándola, b) redu-
+ciéndola o c) cambiar la distancia no compensa el cambio
+en el área de las placas?
+62. PC Si las placas de un condensador de placas paralelas
+aislado se acercan entre sí, ¿la energía almacenada au-
+menta, disminuye o permanece igual? Explíquelo.
+63. PC Si la diferencia de potencial a través de un condensa-
+dor se duplica, ¿qué sucede a a) la carga sobre el conden-
+sador y b) a la energía almacenada en el condensador?
+64. PC Un condensador está conectado a una batería de 12 V .
+Si la separación de las placas se triplica y el condensador
+permanece conectado a la batería, ¿en factor cambia la
+carga sobre el condensador?
+65.
+● ¿Cuánta carga fluye por una batería de 12 V cuando se
+conecta un condensador de 2.0 /H9262F entre sus terminales?
+66. ● Un condensador de placas paralelas tiene una área de
+placa de 0.50 m 2 y una separación de placas de 2.0 mm.
+¿Cuál será su capacitancia?
+67. ● ¿Qué separación entre placas se requiere para un con-
+densador de placas paralelas que tenga una capacitancia
+de 5.0 /H1100310
+/H110029 F, si el área de la placa es de 0.40 m2?
+68. EI ● a) Para un condensador de placas paralelas, una área
+mayor de placa resulta en una capacitancia 1) mayor, 
+2) igual o 3) menor. ¿Por qué? b) Un condensador de pla-
+cas paralelas de 2.5 /H1100310/H110029 F tiene una área de placa de
+0.425 m2. Si se duplica la capacitancia, ¿cuál será el área
+requerida de placa?
+69. ●● Una batería de 12.0 V se conecta a un condensador de
+placas paralelas con área de placa de 0.20 m2 y una sepa-
+ración de placas de 5.0 mm. a) ¿Cuál es la carga resultan-
+te sobre el condensador? b) ¿Cuánta energía se almacena
+en el condensador?
+70. ●● Si la separación de las placas del condensador en el
+ejercicio 69 cambió a 10 mm después que el condensador
+se desconectó de la batería, ¿cómo cambian sus respues-
+tas a ese ejercicio?
+71.
+●●● Los condensadores modernos son capaces de alma-
+cenar muchas veces la energía de los antiguos. Un con-
+densador así, con una capacitancia de 1.0 F, es capaz de
+encender una pequeña bombilla de luz de 0.50 W a plena
+potencia durante 5.0 s antes de que se apague. ¿Cuál es el
+voltaje terminal de la batería que cargó el condensador?
+72.
+●●● Un condensador de 1.50 F se conecta a una batería
+de 12.0 V durante un tiempo prolongado, y luego se des-
+conecta. El condensador pone en funcionamiento un mo-
+tor de juguete de 1.00 W durante 2.00 s. Después de este
+tiempo, a) ¿por cuánto disminuyó la energía almacenada
+en el condensador. b) ¿Cuál es el voltaje a través de las
+placas? c) ¿Cuánta carga se almacena en el condensador?
+d) ¿Por cuánto tiempo más podría el condensador hacer
+funcionar el motor, suponiendo que éste opera a toda po-
+tencia hasta el final?
+73.
+●●● Dos placas paralelas tienen un valor de capacitancia
+de 0.17 /H9262F cuando están separadas 1.5 mm. Están conec-
+tadas de forma permanente a un suministro de potencia
+de 100 V . Si las placas se separan una distancia de 4.5 mm,
+a) ¿cuál sería el campo eléctrico entre ellas? b) ¿Por cuánto
+cambiaría la carga del condensador? c) ¿Por cuánto cam-
+biaría su energía almacenada? d) Repita estos cálculos su-
+poniendo que el suministro de potencia se desconecta
+antes de separar las placas.
+16.4 Dieléctricos
+74. OM Si se pone un dieléctrico en un condensador cargado
+de placas paralelas que no está conectado a una batería, 
+a) disminuye la capacitancia, b) disminuye el voltaje, 
+c) aumenta la carga o d) causa una descarga porque el 
+dieléctrico es un conductor.
+75. OM Un condensador de placas paralelas se conecta a una
+batería. Si un dieléctrico se inserta entre las placas, a) la
+capacitancia disminuye, b) el voltaje aumenta, c) el volta-
+je decrece o d) la carga aumenta.
+76. OM Un condensador de placas paralelas se conecta a una
+batería y luego se desconecta. Si entonces se inserta un
+dieléctrico entre las placas, ¿qué sucede a la carga de és-
+tas? a) La carga disminuye, b) la carga aumenta o c) la
+carga permanece constante.
+77. PC Dé varias razones por las que un conductor no sería
+una buena opción como dieléctrico para un condensador.
+78. PC Un condensador de placas paralelas está conectado a
+una batería. Si un dieléctrico se inserta entre las placas,
+¿qué sucede a) a la capacitancia y b) al voltaje?
+
+566 CAPÍTULO 16 Potencial eléctrico, energía y capacitancia
+79. PC Explique claramente por qué el campo eléctrico entre
+dos placas paralelas de un condensador disminuye cuando
+un dieléctrico se inserta, si el condensador no está conecta-
+do a un suministro de potencia, pero permanece constante
+cuando está conectado a un suministro de potencia.
+80.
+● Un condensador tiene una capacitancia de 50 pF, que
+aumenta a 150 pF cuando un material dieléctrico se in-
+serta entre sus placas. ¿Cuál será la constante dieléctrica
+del material?
+81.
+● Un condensador de 50 pF se sumerge en aceite silicóni-
+co (/H9260/H110052.6). Cuando el condensador está conectado a una
+batería de 24 V , ¿cuál será la carga sobre el condensador y
+la cantidad de energía almacenada?
+82.
+●● El dieléctrico de un condensador de placas paralelas se
+construye de vidrio que llena completamente el volumen
+entre las placas. El área de cada placa es de 0.50 m
+2. 
+a) ¿Qué espesor debe tener el vidrio para que la capacitan-
+cia sea de 0.10 /H9262F? b) ¿Cuál es la carga sobre el conden-
+sador si éste se conecta a una batería de 12 V?
+83. ●●● Un condensador de placas paralelas tiene una capa-
+citancia de 1.5 /H9262F con aire entre las placas. El condensa-
+dor está conectado a una batería de 12 V y se carga. Luego
+se retira la batería. Cuando un dieléctrico se coloca entre
+las placas, se mide una diferencia de potencial de 5.0 V a
+través de las placas. a) ¿Cuál será la constante dieléctrica
+del material? b) La energía almacenada en el condensador
+aumentó, disminuyó o permaneció igual? c) ¿Cuánto
+cambió la energía almacenada en este condensador cuan-
+do se insertó el dieléctrico?
+84. EI
+●●● Un condensador de placas paralelas lleno de aire
+tiene placas rectangulares que miden 6.0 /H110038.0 cm. Está
+conectado a una batería de 12 V . Mientras la bate-
+ría permanece conectada, se inserta una hoja de Teflón de
+1.5 mm de grosor (/H9260/H110052.1), de forma que llene por com-
+pleto el espacio entre las placas. a) Mientras se insertaba
+el dieléctrico, 1) la carga fluía hacia el condensador, 2) la
+carga fluía fuera del condensador, 3) no fluía carga. b) De-
+termine el cambio en la carga que almacena este conden-
+sador como resultado de la inserción del dieléctrico.
+16.5 Condensadores en serie y en paralelo
+85. OM Los condensadores en serie tienen el mismo a) volta-
+je, b) carga o c) almacenamiento de energía.
+86. OM Los condensadores en paralelo tienen el mismo a) vol-
+taje, b) carga o c) almacenamiento de energía.
+87. OM Los condensadores 1, 2 y 3 tienen el mismo valor de
+capacitancia C. Los condensadores 1 y 2 están en serie y
+su combinación está en paralelo con el 3. ¿Cuál será su
+capacitancia efectiva total? a) C, b) 1.5C, c) 3C o d) C/3.
+88. PC ¿Bajo qué condiciones dos condensadores en serie ten-
+drían el mismo voltaje?
+89. PC ¿Bajo qué condiciones dos condensadores en paralelo
+tendrían la misma carga?
+90. PC Si usted tiene dos condensadores, ¿cómo debería co-
+nectarlos para obtener a) una capacitancia equivalente
+máxima y b) una capacitancia equivalente mínima?
+91. PC Usted tiene N (un número par /H113502) condensadores
+idénticos, cada uno con una capacitancia de C. En térmi-
+nos de N y C, ¿cuál es su capacitancia efectiva total si 
+a) están conectados en serie, b) están conectados en para-
+lelo, c) dos mitades (N/2) están conectadas en serie y es-
+tos dos conjuntos están conectados en paralelo?
+92. ● ¿Cuál es la capacitancia equivalente de dos condensa-
+dores con capacitancias de 0.40 y 0.60 /H9262F cuando están
+conectados a) en serie y b) en paralelo?
+93. EI ● a) Dos condensadores pueden conectarse a una bate-
+ría en combinación en serie o en paralelo. La combina-
+ción en paralelo extraerá 1) más, 2) igual o 3) menos
+energía de una batería que la combinación en serie. ¿Por
+qué? b) Cuando una combinación en serie de dos con-
+densadores descargados se conecta a una batería de 12 V ,
+se extraen 173 /H9262J de energía de la batería. Si uno de los
+condensadores tiene una capacitancia de 4.0 /H9262F, ¿cuál 
+será la capacitancia del otro?
+94.
+●● Para el arreglo de tres condensadores en la ▼figura
+16.28, ¿qué valor de C1 dará una capacitancia equivalen-
+te total de 1.7 /H9262F?
+6.0 V
+C3 C2
+0.20   Fμ
+C1
+0.30   Fμ
+V
+▲ FIGURA 16.28 Una tríada de condensador
+Véanse ejercicios 94 y 98.
+95. EI ●● a) Tres condensadores de igual capacitancia se co-
+nectan en paralelo a una batería, y juntos extraen una
+cierta cantidad de carga Q de la batería. ¿La carga en ca-
+da condensador será 1) Q, 2) 3 Q o 3) Q/3? b) Tres con-
+densadores de 0.25 /H9262F cada uno están conectados en
+paralelo a una batería de 12 V . ¿Cuál será la carga en cada
+condensador? c) ¿Cuánta carga se extrae de la batería?
+96. EI
+●● a) Si le dan tres condensadores idénticos, usted
+puede obtener 1) tres, 2) cinco o 3) siete valores diferen-
+tes de capacitancia. b) Si los tres condensadores tienen ca-
+da uno una capacitancia de 1.0 /H9262F, ¿cuáles son los valores
+diferentes de capacitancia equivalente?
+97.
+●● ¿Cuáles son las capacitancias máxima y mínima equi-
+valentes que se pueden obtener combinando tres conden-
+sadores de 1.5, 2.0 y 3.0 /H9262F?
+98.
+●●● Si la capacitancia C1 /H110050.10/H9262F, ¿cuál será la carga en
+cada uno de los condensadores en el circuito de la figura
+16.28?
+99.
+●●● Cuatro condensadores están conectados en un circui-
+to como se ilustra en la Nfigura 16.29. Encuentre la carga
+sobre cada uno de los condensadores, y la diferencia de
+voltaje a través de éstos.
+
+Ejercicios 567
+105. EI Dos placas paralelas horizontales muy grandes están
+separadas 1.50 cm. Un electrón se suspende en el aire en-
+tre ellas. a) La placa superior estará a un potencial 1) ma-
+yor, 2) igual o 3) menor respecto a la placa inferior. ¿Por
+qué? b) ¿Qué voltaje se requiere a través de las placas? 
+c) ¿El electrón se colocó a la mitad entre las placas, o es
+adecuada cualquier ubicación entre las placas?
+106.
+(Vea la sección A fondo sobre potencial eléctrico y trans-
+misión de señales nerviosas de la p. 552 y el recuadro
+Aprender dibujando sobre las relaciones gráficas entre 
+y V de la p. 547.) Suponga que la membrana celular de
+un axón está experimentando el final de un estímulo y
+que el voltaje instantáneo a través de la membrana celu-
+lar es de 30 mV . Suponga que la membrana mide 10 nm
+de grosor. En este punto, la bomba molecular de Na/
+K-ATPasa comienza a mover el exceso de iones Na
+/H11001de
+regreso al exterior. a) ¿Cuánto trabajo se requiere para
+que la bomba mueva el primer ion de sodio? b) Estime el
+campo eléctrico (incluida la dirección) de la membrana
+en estas condiciones. c) ¿Cuál será el campo eléctrico (in-
+cluida la dirección) en condiciones normales cuando el
+voltaje a través de la membrana es de /H1100270 mV?
+107.
+En el ejercicio 106, suponga que las superficies interior y
+exterior de la membrana del axón actúan como un conden-
+sador de placas paralelas con una área de 1.1 /H1100310/H110029 m2.
+a) Estime la capacitancia de una membrana de axón, 
+suponiendo que está llena de lípidos con una constante
+dieléctrica de 3.0. b) ¿Cuánta carga habría en cada super-
+ficie en condiciones potenciales de reposo?
+108. Dos placas paralelas, de 9.25 cm por lado, están separa-
+das 5.12 mm. a) Determine su capacitancia si el volumen
+de una placa hacia la mitad del plano está lleno con un
+material cuya constante dieléctrica es de 2.55 y el resto
+está lleno con un material diferente (constante dieléctrica
+de 4.10). Véase la 
+▼figura 16.30a. [ Sugerencia: ¿ve dos
+condensadores en serie?] b) Repita el inciso a, excepto
+que ahora el volumen que va de un borde a la mitad está
+lleno con los mismos dos materiales. Véase la figura
+16.30b. (¿Ve dos condensadores en paralelo?)
+E
+S
+μ
+μ
+0.40  F
+12 V
+C1
+C3 C4
+C2
+0.20  F
+0.40  Fμ
+0.60  Fμ
+V
+▲ FIGURA 16.29 Doble paralelo en serieVéase el ejercicio 99.
+Ejercicios adicionales
+100. EI Una diminuta partícula de polvo en forma de aguja
+larga y delgada tiene cargas de /H110067.14 pC en su extremo.
+La longitud de la partícula es de 3.75 /H9262m. a) ¿Qué locali-
+dad tiene el potencial más alto? 1) 7.65 /H9262m por arriba del
+extremo positivo, 2) 5.15 /H9262m por encima del extremo 
+positivo o 3) ambos lugares tienen el mismo potencial. 
+b) Calcule el potencial en los dos puntos del inciso a. 
+c) Utilice su respuesta al inciso b para determinar el tra-
+bajo necesario para mover un electrón del punto cercano
+al punto lejano.
+101. Un tubo de vacío tiene una altura vertical de 50.0 cm. Un
+electrón sale de la parte superior con una rapidez de 
+3.2 /H1100310
+6 m/s hacia abajo y se somete a un campo terres-
+tre “típico” de 150 V/m hacia abajo. a) Utilice métodos
+de energía para determinar si alcanza la superficie in-
+ferior del tubo. b) Si es así, ¿con qué rapidez la golpea; 
+si no, ¿qué tan cerca llega de la superficie inferior?
+102. PC Haga un bosquejo de las superficies equipotencia-
+les y del patrón de líneas del campo eléctrico afuera de
+un largo cable cargado. Etiquete las superficies con va-
+lor potencial relativo e indique la dirección del campo
+eléctrico.
+103. Un átomo de helio con un electrón ya removido (un ion
+de helio positivo) consiste en un solo electrón en órbita
+y un núcleo de dos protones. Si el electrón está en su ra-
+dio orbital mínimo de 0.027 nm, a) ¿cuál será la energía
+potencial del sistema? b) ¿Cuál será la aceleración cen-
+trípeta del electrón? c) ¿Cuál será la energía total del sis-
+tema? d) ¿Cuál será la energía mínima requerida para
+ionizar estos átomos de manera que el electrón salga
+por completo?
+104. Suponga que los tres condensadores en la figura 16.22
+tienen los siguientes valores: C
+1 /H110050.15 /H9262F, C2 /H110050.25 /H9262F 
+y C3 /H110050.30 /H9262F. a) ¿Cuál será la capacitancia equivalen-
+te de este arreglo? b) ¿Cuánta carga se extraerá de la 
+batería? c) ¿Cuál es el voltaje a través de cada conden-
+sador?
+/H92601 /H11005 2.55
+/H92601 /H11005 2.55
+/H92602 /H11005 4.10
+/H92602 /H11005 4.10
+d
+a)
+b)
+A
+A d
+▲ FIGURA 16.30 Condensador de doble material
+Véase el ejercicio 108.
+Los siguientes problemas de física Physlet pueden usarse con este capítulo.
+25.1, 25.2, 25.3, 25.4, 25.5, 25.6, 25.7, 26.1, 26.2, 26.3, 26.5, 26.9, 26.11
+
+17.1 Baterías y corriente 
+directa 569
+17.2 Corriente y veloci-
+dad de deriva 571
+17.3 Resistencia y ley 
+de Ohm 573
+17.4 Potencia eléctrica 580
+CAPÍTULO
+17
+S
+i le pidieran a usted que pensara acerca de la electricidad y sus usos, ven-
+drían a su mente muchas imágenes favorables, incluidas diversas aplicacio-
+nes como lámparas, controles remotos de televisión y sopladores eléctricos
+de hojas del jardín. Quizá también vengan a su mente imágenes desfavorables 
+como los peligrosos relámpagos, o las chispas que brotan de un tomacorriente 
+sobrecargado.
+Común a todas esas imágenes es el concepto de energía eléctrica. Para un dis-
+positivo eléctrico, la energía es suministrada por la corriente eléctrica que viaja
+por cables; en el caso de los relámpagos o de las chispas, viaja por el aire. En cual-
+quier caso, la luz, el calor o la energía mecánica liberada es simplemente energía
+eléctrica convertida a una forma diferente. Por ejemplo, en la fotografía de esta
+página, la luz que emana la chispa es emitida por las moléculas del aire.
+En este capítulo nos ocuparemos de los principios fundamentales que rigen
+los circuitos eléctricos. Esos principios nos permitirán responder preguntas como
+las siguientes: ¿qué es la corriente eléctrica y cómo viaja? ¿Qué causa que una co-
+rriente eléctrica se mueva por un aparato cuando accionamos un interruptor? ¿Por
+qué la corriente eléctrica hace brillar intensamente el filamento de una bombilla de
+luz, pero no afecta a los alambres conductores de la misma manera? Podemos apli-
+car los principios eléctricos para comprender un amplio rango de fenómenos, des-
+de la operación de aparatos domésticos hasta los espectaculares juegos de luces
+que generan los relámpagos.
+• André Marie Ampère (1775-1836) fue un físi-
+co matemático conocido por su trabajo con
+las corrientes eléctricas. Su nombre se utiliza
+para designar la unidad de corriente del SI, el
+ampere (que con frecuencia se abrevia como
+amp). También realizó investigación en quí-
+mica, pues participó en la clasificación de los
+elementos y en el descubrimiento del flúor.
+En física, Ampère es famoso por ser uno de
+los primeros en intentar una teoría que com-
+binara la electricidad y el magnetismo. La ley
+de Ampère, que describe el campo magnéti-
+co creado por un flujo de carga eléctrica, es
+una de las cuatro ecuaciones fundamentales
+del electromagnetismo clásico.
+• En un alambre de metal, la energía eléctrica
+viaja a la rapidez de la luz (en el alambre), que
+es mucho mayor que la rapidez de los porta-
+dores de carga por sí solos. La rapidez de es-
+tos últimos es apenas de unos cuantos milí-
+metros por segundo.
+• La unidad de resistencia eléctrica del SI, el
+ohm ( Ω), recibió ese nombre en honor de
+Georg Simon Ohm (1789-1854), un matemá-
+tico y físico alemán. Una cantidad llamada
+conductividad eléctrica, proporcional al in-
+verso de la resistencia, se nombró, apropia-
+damente, el mho (el apellido Ohm al revés). 
+• Utilizando un voltaje superior a los 600 volts,
+las anguilas eléctricas y las rayas, por breves
+momentos, pueden descargar tanto como 1
+ampere de corriente a través de la carne. La
+energía se transmite a una tasa de 600 J/s, o
+aproximadamente tres cuartos de un caballo
+de potencia.
+HECHOS DE FÍSICA
+Corriente eléctrica
+y resistencia
+568
+
+▲ FIGURA 17.2 Analogía gravitacio-
+nal entre una batería y una bombilla
+de luz Una bomba de gasolina sube
+agua de un estanque, incrementando
+la energía potencial del agua. Cuan-
+do el agua fluye hacia abajo, transfie-
+re energía a una rueda hidráulica (es
+decir, efectúa trabajo sobre ella), ha-
+ciendo que la rueda gire. Esta acción
+es análoga a la entrega de energía
+por parte de una corriente eléctrica a
+una bombilla de luz (por ejemplo, 
+como en la figura 17.1).
+––
+–
+–
+–
+–
+––
+–
+–
+––
+–
+–
+–––
+Flujo de
+electrones
+Flujo de
+electrones
+Membrana
+CátodoÁnodo
+V
+B+
+B+ B+
+B+
+A+
+A+
+A+ A+
+A+
+B+
+B+ B+
+B+
+B+ B+
+B+
+B+
+AB
+Electrolito
+17.1 Baterías y corriente directa 569
+*Como veremos dentro de poco, un circuito completo es cualquier ciclo completo que consiste en
+cables y dispositivos eléctricos (como baterías y bombillas de luz).
+17.1 Baterías y corriente directa
+OBJETIVOS: a) Describir las propiedades de una batería, b) explicar cómo una  
+batería produce una corriente directa en un circuito y c) aprender va-
+rios símbolos de circuitos para dibujar diagramas de circuito.
+Después de estudiar la fuerza y la energía eléctrica en los capítulos 15 y 16, usted proba-
+blemente supone lo que se requiere para producir una corriente eléctrica, o un flujo de
+carga. Presentaremos algunas analogías para ayudarle. El agua fluye de manera natural
+colina abajo, desde áreas de mayor a menor energía potencial gravitacional (a causa de
+una diferencia en la energía potencial gravitacional). El calor fluye de manera natural a
+causa de las diferencias de temperatura. Para la electricidad, un flujo de carga eléctrica es
+el resultado de una diferencia de potencial eléctrico, al que llamamos “voltaje”.
+En los conductores sólidos, particularmente en los metales, los electrones externos
+de los átomos tienen una libertad relativa para moverse. (En los conductores líquidos y
+gases cargados llamados plasmas, los iones positivos y negativos, al igual que los electro-
+nes, se mueven.) Para mover una carga eléctrica se requiere energía. La energía eléctrica
+se genera por la conversión de otras formas de energía, lo que produce una diferencia de
+potencial, o voltaje. Cualquier dispositivo capaz de producir y mantener diferencias 
+de potencial se llama, de manera general, suministro de potencia.
+Funcionamiento de una batería
+Un tipo común de suministro de potencia es la batería. Una batería convierte la ener-
+gía potencial química almacenada en energía eléctrica. El científico italiano Allesandro
+Volta construyó una de las primeras baterías prácticas. Una batería simple consiste en
+dos electrodos metálicos diferentes en un electrolito, una solución que conduce electrici-
+dad. Con los electrodos y electrolito apropiados, se desarrolla una diferencia de poten-
+cial entre los electrodos como resultado de una acción química (
+Nfigura 17.1).
+Cuando se forma un circuito completo, por ejemplo, conectando una bombilla de
+luz y unos alambres (figura 17.1), los electrones del electrodo más negativo (B) se move-
+rán por el alambre y la bombilla hacia el electrodo menos negativo (A).* El resultado es
+un flujo de electrones en el alambre. Conforme los electrones se mueven por el filamen-
+to de la bombilla, entrando en colisión y transfiriendo energía a sus átomos (por lo ge-
+neral, de tungsteno), el filamento alcanza una temperatura suficiente para emitir luz
+visible (brillo). Como los electrones tienden a moverse a regiones de mayor potencial, el
+electrodo A debe estar a un potencial eléctrico mayor que el electrodo B. Así, la acción
+de la batería crea una diferencia de potencial ( V) entre las terminales de la batería. El
+electrodo A se llama ánodo y se denota con un signo (/H11001). El electrodo B se llama cátodo
+y se reconoce por un signo (/H11002). Es fácil recordar esta convención de signos porque los
+electrones están negativamente cargados y se mueven por el alambre de B (/H11002) a A (/H11001).
+Con el fin de estudiar los circuitos eléctricos, podemos representar una batería co-
+mo una “caja negra” que mantiene una diferencia de potencial constante entre sus ter-
+minales. Insertada en un circuito, una batería es capaz de realizar trabajo sobre los
+electrones en el alambre y transferirles energía (a costa de su propia energía química
+interna), y el alambre, por su parte, entrega esa energía a elementos del circuito exter-
+nos a la batería. En esos elementos, la energía se convierte en otras formas, por ejem-
+plo, movimiento mecánico (ventiladores eléctricos), calor (calentadores de inmersión)
+y luz (bombillas). Otras fuentes de voltaje, como generadores y fotoceldas, se analiza-
+rán más adelante.
+Para comprender mejor el papel de una batería en un circuito, considere la analogía
+gravitacional en la 
+Nfigura 17.2. Una bomba de gasolina (de forma análoga a una bate-
+ría) realiza trabajo sobre el agua y la sube. El aumento en energía potencial gravitacio-
+nal del agua se realiza en detrimento de la energía potencial química de las moléculas
+de gasolina. El agua entonces regresa a la bomba, fluyendo hacia abajo por la canaleta
+(analogía con el alambre) hacia el estanque. Camino abajo, el agua efectúa trabajo sobre
+la rueda, lo que da por resultado energía cinética de rotación, de forma análoga a como
+los electrones transfieren energía a las bombillas.
+▲ FIGURA 17.1 Acción de una bate-
+ría en una batería o celda química
+Los procesos químicos en los que par-
+ticipan un electrolito y dos electrodos
+metálicos diferentes ocasionan que los
+iones de ambos metales se disuelvan
+en la solución a tasas diferentes. Así,
+un electrodo (el cátodo) queda con
+más carga negativa que el otro (el
+ánodo). El ánodo está a un mayor po-
+tencial que el cátodo. Por convención,
+el ánodo se designa como la terminal
+positiva y el cátodo como la negativa.
+Esta diferencia de potencial (V) puede
+generar una corriente, o un flujo de
+carga (electrones), en el alambre. Los
+iones positivos migran, como se ob-
+serva en la figura. (Es necesaria una
+membrana para impedir la mezcla de
+los dos tipos de iones; ¿por qué?)
+
+570

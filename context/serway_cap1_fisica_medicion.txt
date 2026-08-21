@@ -1,0 +1,1360 @@
+Tema: Física y medición (Capítulo 1 — Física para Ciencias e Ingeniería, Serway)
+
+Capítulo 1  Física y medición
+Como todas las otras ciencias, la física se sustenta en observaciones experimentales y me-
+diciones cuantitativas. Los objetivos principales de la física son identificar un número limi-
+tado de leyes fundamentales que rigen los fenómenos naturales y usarlas para desarrollar 
+teorías capaces de anticipar los resultados experimentales. Las leyes fundamentales que se 
+usan para elaborar teorías se expresan en el lenguaje de las matemáticas, la herramienta 
+que proporciona un puente entre teoría y experimento.
+Cuando hay discrepancia entre el pronóstico de una teoría y un resultado experimental, 
+es necesario formular teorías nuevas o modificadas para resolver la discrepancia. Muchas 
+veces una teoría es satisfactoria sólo bajo condiciones limitadas; a veces una teoría general 
+es satisfactoria sin ciertas limitaciones. Por ejemplo, las leyes del movimiento descubiertas 
+por Isaac Newton (1642–1727) describen con precisión el movimiento de los objetos que 
+se mueven con rapideces normales pero no se aplica a objetos que se mueven con rapide-
+ces comparables con la velocidad de la luz. En contraste, la teoría especial de la relatividad, 
+desarrollada más tarde por Albert Einstein (1879–1955), da los mismos resultados que las 
+leyes de Newton a bajas rapideces pero también hace una descripción correcta del movi-
+miento de los objetos con rapideces que se aproximan a la rapidez de la luz. Por lo tanto, 
+la teoría especial de la relatividad de Einstein es una teoría de movimiento más general 
+que la formada por las leyes de Newton.
+Acercamiento a los engranes de un reloj mecánico. Durante siglos el 
+hombre ha construido complicadas máquinas con la finalidad de hacer 
+una medición precisa del tiempo. El tiempo es una de las cantidades 
+básicas que se usan al estudiar el movimiento de los objetos.  
+(© Photographer’s Choice/Getty Images)
+1.1 Estándares de longitud, masa y tiempo
+1.2 Materia y construcción de modelos
+1.3 Análisis dimensional
+1.4 Conversión de unidades
+1.5 Estimaciones y cálculos de orden de magnitud
+1.6 Cifras significativas
+1 Física y medición
+2
+
+La física clásica incluye los principios de la mecánica clásica, la termodinámica, la óptica 
+y el electromagnetismo desarrollados antes de 1900. Newton realizó importantes contribu-
+ciones a la física clásica y también fue uno de los creadores del cálculo como herramienta 
+matemática. Durante el siglo xviii continuaron los grandes adelantos en la mecánica, pero 
+los campos de la termodinámica y el electromagnetismo no se desplegaron hasta la parte 
+final del siglo xix, principalmente porque antes de esa época los aparatos para experimen-
+tos controlados en estas disciplinas eran o muy burdos o no estaban a disposición.
+Una gran revolución en la física, conocida como física moderna, comenzó hacia el final 
+del siglo xix. La física moderna nació primordialmente porque la física clásica no era 
+capaz de explicar muchos fenómenos físicos. En esta era moderna hubo dos hitos, las 
+teorías de la relatividad y de la mecánica cuántica. La teoría especial de la relatividad de 
+Einstein no sólo describe en forma correcta el movimiento de los objetos que se mueven 
+con rapideces comparables con la rapidez de la luz; también modifica por completo los 
+conceptos tradicionales de espacio, tiempo y energía. Además, la teoría muestra que la 
+rapidez de la luz es el límite superior de la rapidez de un objeto y que la masa y la energía 
+están relacionadas. La mecánica cuántica la formularon algunos científicos distinguidos 
+para proporcionar descripciones de los fenómenos físicos a nivel atómico. Con los princi-
+pios de la mecánica cuántica se han construido muchos dispositivos prácticos.
+Los científicos hacen un trabajo constante por el mejoramiento en la comprensión de 
+las leyes fundamentales. En tiempos recientes numerosos avances tecnológicos han resulta-
+do de los esfuerzos de muchos científicos, ingenieros y técnicos, tales como exploraciones 
+planetarias no tripuladas y alunizajes tripulados, los microcircuitos y las computadoras 
+de alta velocidad, las complejas técnicas de visualización que se usan en la investigación 
+científica y la medicina, y muchos resultados notables en ingeniería genética. Los impac-
+tos de dichos desarrollos y descubrimientos en la sociedad han sido colosales, y es muy 
+probable que los futuros descubrimientos y desarrollos serán excitantes, desafiantes y de 
+gran beneficio para la humanidad.
+1.1 Estándares de longitud, masa y tiempo
+Para describir los fenómenos naturales, es necesario hacer mediciones de varios aspectos 
+de la naturaleza. Cada medición se asocia con una cantidad física, tal como la longitud 
+de un objeto.
+Si tuviese que reportar los resultados de una medición a alguien que desea reproducir 
+esa medición, tendría que definir un estándar. Sería absurdo que un visitante de otro pla-
+neta le hablara de una longitud de 8 “glitches”, si no conoce el significado de la unidad 
+glitch. Por otra parte, si alguien familiarizado con el sistema de medición reporta que una 
+pared tiene 2 metros de alto y la unidad de longitud se define como 1 metro, se sabe que 
+la altura de la pared es el doble de la unidad de longitud básica. Cualquier unidad que 
+se elija como estándar debe ser accesible y poseer alguna propiedad que se pueda medir 
+confiablemente. Los estándares de medición que diferentes personas de lugares distintos 
+aplican en el Universo, deben producir el mismo resultado. Además, los estándares que 
+se usan para mediciones no deben cambiar con el tiempo.
+En 1960 un comité internacional estableció un conjunto de estándares para las can-
+tidades fundamentales de la ciencia. Se llama SI (Sistema Internacional) y sus unidades 
+fundamentales de longitud, masa y tiempo son metro, kilogramo y segundo, respectivamente. 
+Otros estándares para las unidades fundamentales SI establecidas por el comité son las de 
+temperatura (el kelvin), corriente eléctrica (el ampere), la intensidad luminosa (la candela) 
+y la cantidad de sustancia (el mol).
+Las leyes de la física se expresan como relaciones matemáticas entre cantidades físicas 
+que se presentarán y discutirán en todas las partes del libro. En mecánica, las tres canti-
+ Sección 1.1  Estándares de longitud, masa y tiempo  3
+
+4 Capítulo 1  Física y medición
+dades fundamentales son longitud, masa y tiempo. Todas las cantidades en mecánica se 
+expresan en términos de estas tres.
+Longitud
+La distancia entre dos puntos en el espacio se identifica como longitud. En 1120 el rey 
+de Inglaterra decretó que el estándar de longitud en su país se llamaría yarda y sería 
+precisamente igual a la distancia desde la punta de su nariz hasta el final de su brazo 
+extendido. De igual modo, el estándar original para el pie adoptado por los franceses era 
+la longitud del pie real del rey Luis XIV. Ninguno de dichos estándares es constante en 
+el tiempo; cuando un nuevo rey subía al trono, ¡cambiaban las longitudes! El estándar 
+francés prevaleció hasta 1799, cuando el estándar legal de longitud en Francia se volvió el 
+metro (m), definido como una diezmillonésima de la distancia del ecuador al Polo Norte 
+a lo largo de una línea longitudinal particular que pasa por París. Observe que este valor 
+es un estándar razonado en la Tierra, que no satisface el requerimiento de que se puede 
+usar a través del Universo.
+Tan recientemente como 1960, la longitud del metro se definió como la distancia entre 
+dos líneas en una específica barra de platino–iridio que se almacena bajo condiciones 
+controladas en Francia. Sin embargo, los requerimientos actuales de la ciencia y la tecno-
+logía necesitan más precisión que la dada por la separación entre las líneas en la barra. 
+En las décadas de los sesenta y setenta del milenio pasado, el metro se definió como  
+1 650 763.73 longitudes de onda
+1 de la luz naranja–rojo emitida de una lámpara de criptón 
+86. No obstante, en octubre de 1983, el metro se redefinió como la distancia recorrida 
+por la luz en el vacío durante un tiempo de 1/299 792 458 segundos. En efecto, esta última 
+definición establece que la rapidez de la luz en el vacío es precisamente 299 792 458 metros 
+por segundo. Esta definición del metro es válida a través del Universo respecto a la supo-
+sición de que la luz es la misma en todas partes.
+La tabla 1.1 menciona valores aproximados de algunas longitudes observadas. Debe 
+estudiar esta tabla, así como las siguientes dos tablas y comenzar a desarrollar una intui-
+ción de lo que significa, por ejemplo, una longitud de 20 centímetros, una masa de 100 
+kilogramos o un intervalo de tiempo de 3.2  10
+7 segundos.
+PREVENCIÓN DE RIESGOS   
+OCUL
+TOS 1.1
+Valores razonables
+Es importante desarrollar la  
+intuición acerca de valores  
+típicos de cantidades cuando se  
+resuelven problemas, porque 
+debe pensar acerca de su  
+resultado final y determinar si 
+parece razonable. Si calcula la 
+masa de una mosca y llega a un 
+valor de 100 kg, esta respuesta 
+es irracional y hay un error en 
+alguna parte.
+TABLA 1.1
+Valores aproximados de algunas longitudes medidas
+Longitud (m)
+Distancia de la Tierra al quasar conocido más remoto 1.4  1026
+Distancia de la Tierra a las galaxias normales más remotas 9  1025
+Distancia de la Tierra a la galaxia grande más cercana (Andrómeda) 2  1022
+Distancia del Sol a la estrella más cercana (Proxima Centauri) 4  1016
+Un año luz 9.46  1015
+Radio orbital medio de la Tierra en torno al Sol 1.50  1011
+Distancia media de la Tierra a la Luna 3.84  108
+Distancia del ecuador al Polo Norte 1.00  107
+Radio medio de la Tierra 6.37  106
+Altitud típica (sobre la superficie) de un satélite que orbita la Tierra 2  105
+Longitud de un campo de futbol 9.1  101
+Longitud de una mosca 5  103
+Tamaño de las partículas de polvo más pequeñas  104
+Tamaño de las células de la mayoría de los organismos vivientes  105
+Diámetro de un átomo de hidrógeno  1010
+Diámetro de un núcleo atómico  1014
+Diámetro de un protón  1015
+1 Se usará la notación internacional estándar para números con más de tres dígitos, en éstos los grupos de 
+tres dígitos se separan por espacios en lugar de comas. Por lo tanto, 10 000 es lo mismo que la notación 
+estadounidense común de 10,000. De igual modo, Q  3.14159265 se escribe como 3.141 592 65.
+
+Masa
+La unidad fundamental del SI de masa, el kilogramo (kg), es definido como la masa de un 
+cilindro de aleación platino–iridio específico que se conserva en la Oficina Internacional 
+de Pesos y Medidas en Sèvres, Francia. Esta masa estándar fue establecida en 1887 y no ha 
+cambiado desde esa época porque el platino–iridio es una aleación inusualmente estable. 
+Un duplicado del cilindro de Sèvres se conserva en el Instituto Nacional de Estándares y 
+Tecnología (NIST, por sus siglas en inglés), en Gaithersburg, Maryland (figura 1.1a). La 
+tabla 1.2 menciona valores aproximados de las masas de varios objetos.
+Tiempo
+Antes de 1960 el estándar de tiempo fue definido en términos del día solar medio hacia el 
+año 1900. (Un día solar es el intervalo de tiempo entre apariciones sucesivas del Sol en  
+el punto más alto que alcanza en el cielo cada día.) La unidad fundamental de un segundo 
+(s) fue definida como 1 1
+60 21 1
+60 21 1
+24 2 de un día solar medio. Ahora se sabe que la rotación de 
+la Tierra varía ligeramente con el tiempo. Debido a eso, este movimiento no proporciona 
+un tiempo estándar que sea constante.
+En 1967 el segundo fue redefinido para sacar ventaja de la enorme precisión que se 
+logra con un dispositivo conocido como reloj atómico (figura 1.1b), que mide vibraciones 
+de átomos de cesio. Ahora un segundo se define como 9 192 631 770 veces el periodo de 
+vibración de la radiación del átomo de cesio 133.
+2 En la tabla 1.3 se presentan valores 
+aproximados de intervalos de tiempo.
+Figura 1.1 a) El Kilogramo Estándar Nacional  
+núm. 20, una copia exacta del Kilogramo Estándar  
+Internacional que se conserva en Sèvres, Francia, se 
+alberga bajo una doble campana en una bóveda en el 
+Instituto Nacional de Estándares y Tecnología (NIST). 
+b) El estándar de tiempo primario en Estados Unidos 
+es un reloj atómico con fuente de cesio desarrollado 
+en los laboratorios del NIST en Boulder, Colorado. 
+El reloj nunca ganará ni perderá un segundo en 20 
+millones de años.
+Cortesía del National Institute of Standards and Technology,  
+U.S. Departament of Commerce.
+2 El periodo se define como el intervalo de tiempo necesario para una vibración completa.
+ a) b)
+TABLA 1.3
+Valores aproximados de algunos intervalos de tiempo
+Intervalo de tiempo (s)
+Edad del Universo    5  10 17
+Edad de la Tierra 1.3  1017
+Edad promedio de un estudiante universitario 6.3  108
+Un año 3.2  107
+Un día 8.6  104
+Un periodo de clase 3.0  103
+Intervalo de tiempo entre latidos normales    8  101
+Periodo de ondas sonoras audibles  103
+Periodo de ondas de radio típicas  106
+Periodo de vibración de un átomo en un sólido  1013
+Periodo de ondas de luz visible  1015
+Duración de una colisión nuclear  1022
+Intervalo de tiempo para que la luz cruce un protón  1024
+TABLA 1.2
+Masas aproximadas  
+de varios objetos
+Masa (kg)
+Universo  
+ observable 10
+52
+Galaxia 
+ Vía Láctea 10
+42
+Sol 1.9  1030
+Tierra 5.98  1024
+Luna 7.36  1022
+Tiburón 103
+Humano 102
+Rana 101 
+Mosquito 105 
+Bacteria 1  1015
+Átomo de 
+ hidrógeno 1.67  10
+27
+Electrón 9.11  1031
+ Sección 1.1  Estándares de longitud, masa y tiempo  5
+
+6 Capítulo 1  Física y medición
+Además del SI, otro sistema de unidades, el sistema usual estadounidense, todavía se utiliza 
+en Estados Unidos a pesar de la aceptación del SI en el resto del mundo. En este sistema 
+las unidades de longitud, masa y tiempo son pie (ft), slug y segundo, respectivamente. En 
+este libro se usarán las unidades del SI porque tienen aceptación mundial en la ciencia y 
+en la industria. En el estudio de la mecánica clásica se hará un uso limitado de las unidades 
+estadounidenses usuales.
+Además de las unidades del SI fundamentales de metro, kilogramo y segundo, también 
+se usan otras unidades, como milímetros y nanosegundos, donde los prefijos mili y nano  
+denotan multiplicadores de las unidades básicas establecidas en varias potencias de diez. 
+En la tabla 1.4 se citan los prefijos para las diversas potencias de diez y sus prefijos. Por 
+ejemplo, 10
+3 m es equivalente a 1 milímetro (mm), y 10 3 m corresponde a 1 kilómetro 
+(km). Del mismo modo, 1 kilogramo (kg) es 10 3 gramos (g), y 1 megavolt (MV) es 10 6 
+volts (V).
+Las variables longitud, tiempo y masa son ejemplos de cantidades fundamentales . La  
+mayoría de las otras variables son cantidades deducidas , aquellas expresadas como una 
+combinación matemática de cantidades fundamentales. Ejemplos comunes son área (un  
+producto de dos longitudes) y rapidez (una relación de una longitud a un intervalo de  
+tiempo).
+Otro ejemplo de una cantidad deducida es la densidad. La densidad + (letra griega ro) 
+de cualquier sustancia se define como su masa por unidad de volumen:
+ m
+Vr  (1.1)
+En términos de cantidades fundamentales, la densidad es una proporción de una masa a 
+un producto de tres longitudes. Por ejemplo, el aluminio tiene una densidad de 2.70  
+103 kg/m3, y el hierro tiene una densidad de 7.86  103 kg/m3. Es factible pensar en una 
+diferencia extrema en densidad al imaginar que sostiene un cubo de 10 centímetros (cm) 
+de espuma de estireno en una mano y un cubo de 10 cm de plomo en la otra. Vea la tabla 
+14.1 del capítulo 14 para densidades de diferentes materiales.
+Pregunta rápida 1.1 En un taller mecánico se producen dos levas, una de aluminio y la 
+otra de hierro. Ambas levas tienen la misma masa. ¿Cuál leva es más larga? a) La leva de 
+aluminio es más larga. b) La leva de hierro es más larga. c) Ambas levas tienen el mismo 
+tamaño.
+1.2 Materia y construcción de modelos
+Si los físicos no pueden interactuar directamente con algunos fenómenos, con frecuen-
+cia imaginan un modelo para un sistema físico que se relaciona con el fenómeno. Por 
+ejemplo, no existe la capacidad para interactuar con los átomos, porque son demasiado 
+pequeños. Por lo tanto, se construye un modelo mental de un átomo respecto a un siste-
+Al final del libro aparece 
+una tabla con las letras 
+del alfabeto griego
+0
+TABLA 1.4
+Prefijos para potencias de diez
+Potencia Prefijo Abreviatura Potencia Prefijo Abreviatura
+1024  yocto y 10 3  kilo k
+1021 zepto z 10 6  mega M
+1018 atto a 10 9  giga G
+1015 femto f 10 12  tera T
+1012 pico p 10 15  peta P
+109 nano n 10 18  exa E
+106 micro N 1021  zetta Z
+103 mili m 10 24  yotta Y
+102 centi c
+101 deci d
+
+ma de un núcleo y uno o más electrones alrededor del núcleo. Una vez identificados los 
+componentes físicos del modelo, se hacen pronósticos acerca de su comportamiento en 
+función de las interacciones entre los componentes del sistema o la interacción entre el 
+sistema y el ambiente externo al sistema.
+Como ejemplo, considere el comportamiento de la materia. Un cubo de 1 kg de oro 
+sólido, como el que aparece en la parte superior de la figura 1.2, tiene una longitud de 
+3.73 cm por lado. ¿Este cubo no es más que oro de pared a pared, sin espacio vacío? Si el 
+cubo se corta por la mitad, las dos piezas todavía conservan su identidad química como oro 
+sólido. ¿Y si las piezas se cortan de nuevo, una y otra vez, de manera indefinida? ¿Las partes 
+más pequeñas siempre serán oro? Tales preguntas se pueden rastrear hasta los antiguos 
+filósofos griegos. Dos de ellos, Leucipo y su discípulo Demócrito, no podían aceptar la idea 
+de que tales cortes continuaran por siempre. Elaboraron un modelo para la materia al 
+especular que el proceso a final de cuentas debe terminar cuando produzca una partícula 
+que ya no se pueda cortar. En griego, atomos significa “sin corte”. De este término griego 
+proviene la palabra átomo.
+El modelo griego de la estructura de la materia fue que toda la materia ordinaria 
+consiste de átomos, como se sugiere en la mitad de la figura 1.2. Más allá de esto, ningu-
+na estructura adicional se especificó en el modelo; los átomos eran pequeñas partículas 
+que interactuaban unas con otras, pero la estructura interna del átomo no era parte del 
+modelo.
+En 1897, J. J. Thomson identificó al electrón como una partícula cargada que es cons-
+tituyente del átomo. Esto condujo al primer modelo atómico que contenía estructura 
+interna. Este modelo se discutirá en el capítulo 42.
+Después del descubrimiento del núcleo en 1911, se elaboró un modelo atómico en 
+el que cada átomo estaba constituido de electrones que rodean un núcleo central. En la 
+figura 1.2 se muestra un núcleo de oro. Sin embargo, este modelo condujo a una nueva 
+pregunta: ¿el núcleo tiene estructura? Esto es: ¿el núcleo es una sola partícula o una co-
+lección de partículas? A partir de 1930 evolucionó un modelo que describía dos entidades 
+básicas en el núcleo: protones y neutrones. El protón porta una carga eléctrica positiva; y 
+un elemento químico se identifica por el número de protones en su núcleo. Esta cantidad 
+se llamó número atómico del elemento. Por ejemplo, el núcleo de un átomo de hidrógeno 
+contiene un protón (de modo que el número atómico del hidrógeno es 1), el núcleo de 
+un átomo de helio contiene dos protones (número atómico 2) y el núcleo de un átomo 
+de uranio contiene 92 protones (número atómico 92). Además del número atómico, una 
+segunda cantidad, el número de masa, que se define como el número de protones más 
+neutrones en un núcleo, caracteriza a los átomos. El número atómico de un elemento 
+específico nunca varía (es decir, el número de protones no cambia) pero el número de 
+masa sí varía (es decir, el número de neutrones cambia).
+Sin embargo, ¿ahí se detiene el proceso de división? Ahora se sabe que protones, neu-
+trones y un cúmulo de otras partículas exóticas están compuestas de seis diferentes varie-
+dades de partículas llamadas quarks, a las que se les ha dado los nombres de arriba, abajo, 
+extraño, encanto, fondo y cima. Los quarks arriba, encanto y cima tienen cargas eléctricas  
+de 
+2
+3 del protón, mientras que los quarks abajo, extraño y fondo tienen cargas eléctri-
+cas de 1
+3 del protón. El protón consiste de dos quarks arriba y un quark abajo, como se 
+muestra en la parte inferior de la figura 1.2 y etiquetados u y d. Esta estructura predice la 
+carga correcta para el protón. Del mismo modo, el neutrón consiste de dos quarks abajo 
+y un quark arriba, lo que da una carga neta de cero.
+Conforme estudie física, debe desarrollar un proceso de construcción de modelos. En 
+este estudio se le retará con muchos problemas matemáticos. Una de las más importan-
+tes técnicas para la resolución de problemas es construir un modelo para el problema: 
+identifique un sistema de componentes físicos para el problema y haga predicciones del 
+comportamiento del sistema con base en las interacciones entre sus componentes o la 
+interacción entre el sistema y su ambiente circundante.
+1.3 Análisis dimensional
+La palabra dimensión tiene un significado especial en física. Denota la naturaleza física 
+de una cantidad. Ya sea que una distancia se mida en unidades de pies, metros o brazas, 
+todavía es una distancia; se dice que su dimensión es la longitud.
+Figura 1.2 Niveles de  
+organización en la materia.  
+La materia ordinaria consiste  
+de átomos y en el centro de cada 
+átomo hay un núcleo compacto 
+que consiste de protones  
+y neutrones. Los protones y los 
+neutrones están compuestos de 
+quarks. Se muestra la composición  
+de un quark de un protón.
+Átomos
+de oro
+Núcleo
+Composición de quarks
+de un protón
+d
+Núcleo
+de oro
+Protón
+Neutrón
+uu 
+Cubo de 
+oro
+ Sección 1.3  Análisis dimensional  7
+
+8 Capítulo 1  Física y medición
+Los símbolos que se usan en este libro para especificar las dimensiones de longitud, 
+masa y tiempo son L, M y T, respectivamente.3 Con frecuencia se usarán los corchetes [] 
+para denotar las dimensiones de una cantidad física. Por ejemplo, el símbolo que se usa 
+en este libro para rapidez es v, y en esta notación, las dimensiones de rapidez se escriben 
+[v]  L/T. Como otro ejemplo, las dimensiones del área A son [A]  L2. En la tabla 1.5 
+se mencionan las dimensiones y unidades de área, volumen, rapidez y aceleración. Las 
+dimensiones de otras cantidades, como fuerza y energía, se describirán conforme se in-
+troduzcan en el texto.
+En muchas situaciones es posible que deba verificar una ecuación específica, para ver 
+si satisface sus expectativas. Un procedimiento útil y poderoso llamado análisis dimensio-
+nal ayuda para esta comprobación porque las dimensiones son tratadas como cantidades 
+algebraicas. Por ejemplo, las cantidades se suman o restan sólo si tienen las mismas di-
+mensiones. Además, los términos en ambos lados de una ecuación deben tener las mismas 
+dimensiones. Al seguir estas simples reglas le será posible usar el análisis dimensional para 
+determinar si una expresión tiene la forma correcta. Cualquier correspondencia es correc-
+ta sólo si las dimensiones en ambos lados de la ecuación son las mismas.
+Para ilustrar este procedimiento, suponga que está interesado en una ecuación para 
+la posición x de un automóvil en un tiempo t si el automóvil parte del reposo en x  0  
+y se mueve con aceleración constante a. La expresión correcta para esta situación es  
+x  
+1
+2at 2. Aplique el análisis dimensional para cotejar la validez de esta expresión. La 
+cantidad x en el lado izquierdo tiene la dimensión de longitud. Para que la ecuación sea 
+correcta en términos dimensionales, la cantidad en el lado derecho también debe tener 
+la dimensión de longitud. Es posible realizar una verificación dimensional al sustituir las 
+dimensiones para aceleración, L/T
+2 (tabla 1.5), y tiempo, T, en la ecuación. Esto es, la 
+forma dimensional de la ecuación x  1
+2at 2 es
+L L
+T2 # T2 L
+Las dimensiones de tiempo se cancelan, como se muestra, lo que deja a la dimensión de 
+longitud en el lado derecho para igualar con la de la izquierda.
+Un procedimiento más general de análisis dimensional es establecer una expresión 
+de la forma
+x t a 
+nt m
+donde n y m son exponentes que se deben determinar y el símbolo t indica una propor-
+cionalidad. Esta correspondencia es correcta sólo si las dimensiones de ambos lados son 
+las mismas. Puesto que la dimensión del lado izquierdo es longitud, la dimensión del lado 
+derecho también debe ser longitud. Esto es,
+3antm 4 LL 1T0
+Puesto que las dimensiones de la aceleración son L/T2 y la dimensión de tiempo es T:
+1L>T2 2n Tm L1T0 S 1Ln Tm 2n 2 L1T0
+PREVENCIÓN DE RIESGOS  
+OCULTOS 1.2
+Símbolos para cantidades
+Algunas cantidades tienen  
+un pequeño número de  
+símbolos que las representan. 
+Por ejemplo, el símbolo para 
+tiempo casi siempre es t.  
+Otras cantidades tienen varios 
+símbolos que se aplican según 
+el uso. La longitud se describe 
+con símbolos tales como x, y y z 
+(para posición); r (para radio); 
+a, b y c (para los lados de un 
+triángulo recto);  (para la  
+longitud de un objeto); d (para 
+una distancia); h (para una  
+altura); y así por el estilo.
+TABLA 1.5
+Dimensiones y unidades de cuatro cantidades deducidas
+Cantidad Área Volumen Rapidez Aceleración
+Dimensiones L2 L3 L/T L/T 2
+Unidades del SI m2 m3 m/s m/s 2
+Sistema usual estadounidense ft 2 ft3 ft/s ft/s 2
+3 Las dimensiones de una cantidad se simbolizarán mediante letras mayúsculas no cursivas, como L o T. 
+El símbolo algebraico para la cantidad en sí será en cursiva, como L para la longitud de un objeto o t para 
+tiempo.
+
+Los exponentes de L y T deben ser los mismos en ambos lados de la ecuación. A partir 
+de los exponentes de L, se ve de inmediato que n  1. De los exponentes de T, m  2n  0, 
+lo que, una vez que se sustituye para n, produce m  2. Al regresar a la expresión original 
+x t a nt m, se concluye que x t at 2.
+Pregunta rápida 1.2 Verdadero o falso: El análisis dimensional le proporciona el valor 
+numérico de las constantes de proporcionalidad que aparecen en una expresión alge
+-
+braica.
+EJEMPLO 1.1 Análisis de una ecuación
+Muestre que la expresión v  at es dimensionalmente correcta, donde v representa rapidez, a aceleración y t un instante 
+de tiempo.
+SOLUCIÓN
+Identifique las dimensiones de v en la tabla 1.5:
+Encuentre las dimensiones de a en la tabla 1.5 y multipli-
+que por las dimensiones de t :
+Por lo tanto, v  at es dimensionalmente correcta porque se tienen las mismas dimensiones en ambos lados. (Si la expresión 
+se hubiese dado como v  at 2, sería dimensionalmente incorrecta. ¡Inténtelo y verá!)
+EJEMPLO 1.2 Análisis de una ley de potencia
+Suponga que la aceleración a de una partícula que se mueve con rapidez uniforme v en un círculo de radio r es proporcional 
+a alguna potencia de r, por decir r n, y alguna potencia de v, por decir v m. Determine los valores de n y m y escriba la forma 
+más simple de una ecuación para la aceleración.
+SOLUCIÓN
+Escriba una expresión para a con una constante adimen-
+sional de proporcionalidad k:
+Sustituya las dimensiones de a, r  y v:
+Iguale los exponentes de L y T de modo que la ecuación 
+dimensional se balancee:
+Resuelva las dos ecuaciones para n:
+Escriba la expresión de aceleración:
+En la sección 4.4 acerca del movimiento circular uniforme, se muestra que k  1 si se usa un conjunto consistente de uni-
+dades. La constante k no sería igual a 1 si, por ejemplo, v estuviese en km/h y usted quisiera a en m/s
+2.
+3v4 L
+T
+3at 4 L
+T2 T L
+T
+a krnvm
+L
+T2 Ln a L
+T b
+m Lnm
+Tm
+n m 1y m 2
+n 1
+a kr 1 v2 k v2
+r
+ Sección 1.3  Análisis dimensional  9
+
+10 Capítulo 1  Física y medición
+1.4 Conversión de unidades
+A veces debe convertir unidades de un sistema de medición a otro o convertir dentro de un 
+sistema (por ejemplo, de kilómetros a metros). Las igualdades entre unidades de longitud 
+del SI y las usuales estadounidenses son las siguientes:
+1 mil  1 609 m  1.609 km    1 ft  0.304 8 m  30.48 cm
+1 m  39.37 pulg  3.281 ft    1 pulg  0.025 4 m  2.54 cm (exactamente)
+En el apéndice A se encuentra una lista más completa de factores de conversión.
+Como las dimensiones, las unidades se manipulan como cantidades algebraicas que se 
+cancelan mutuamente. Por ejemplo, suponga que desea convertir 15.0 in a centímetros. 
+Puesto que 1 in se define como exactamente 2.54 cm, encuentre que
+15.0 pulg
+115.0 pulg 2a 2.54 cm
+1 pulg b 38.1 cm
+donde la relación entre paréntesis es igual a 1. Se debe colocar la unidad “pulgada” en el 
+denominador de modo que se cancele con la unidad en la cantidad original. La unidad 
+restante es el centímetro, el resultado deseado.
+Pregunta rápida 1.3  La distancia entre dos ciudades es de 100 mi. ¿Cuál es el núme-
+ro de kilómetros entre las dos ciudades? a) menor que 100, b) mayor que 100, c) igual  
+a 100.
+PREVENCIÓN DE RIESGOS   
+OCUL
+TOS 1.3
+Siempre incluya unidades
+Cuando realice cálculos,  
+incluya las unidades para toda 
+cantidad y lleve las unidades a 
+través de todo el cálculo. Evite 
+la tentación de quitar pronto 
+las unidades y luego poner las 
+unidades esperadas una vez que 
+tiene una respuesta. Al incluir 
+las unidades en cada paso, 
+detecte errores si las unidades 
+para la respuesta evidencian ser 
+incorrectas.
+EJEMPLO 1.3 ¿Está acelerando?
+En una autopista interestatal en una región rural de Wyoming, un automóvil viaja con una rapidez de 38.0 m/s. ¿El conduc-
+tor rebasó el límite de velocidad de 75.0 mi/h?
+SOLUCIÓN
+De la rapidez en m/s convierta metros en millas:
+Convierta segundos a horas:
+En efecto, el conductor rebasó el límite de velocidad y debe re-
+ducirla.
+¿Qué pasaría si? ¿Y si el conductor viniese de fuera de Estados 
+Unidos y estuviese familiarizado con magnitudes de velocidad me-
+didas en km/h? ¿Cuál es la rapidez del automóvil en km/h?
+Respuesta Se puede convertir la respuesta final a las unidades 
+adecuadas:
+185.0 mi
+>h2a 1.609 km
+1 mi b 137 km>h
+La figura 1.3 muestra un indicador de velocidad de un automóvil 
+que muestra magnitudes de velocidad tanto en mi/h como en 
+km/h. ¿Le es posible verificar la conversión que acaba de realizar 
+con esta fotografía?
+Figura 1.3 Indicador de velocidad de un vehículo 
+que muestra magnitudes de velocidad tanto en 
+millas por hora como en kilómetros por hora.
+Phil Boorman/Getty Images
+138.0 m>s 2a 1 mi
+1 609 m b 2.36 10 2 mi>s
+12.36 10 2 mi>s 2a 60 s
+1 min ba 60 min
+1 h b 85.0 mi>h
+
+1.5  Estimaciones y cálculos  
+de orden de magnitud
+Suponga que alguien le pregunta el número de bits de datos en un disco compacto musical 
+común. Su respuesta que por lo general no se espera que proporcione el número exacto, 
+sino más bien una estimación, se debe expresar como notación científica. El orden de mag-
+nitud de un número se determina del modo siguiente:
+1. Exprese el número en notación científica, con el multiplicador de la potencia de 
+diez entre 1 y 10 y una unidad.
+2. Si el multiplicador es menor que 3.162 (la raíz cuadrada de diez), el orden de mag-
+nitud del número es la potencia de diez en la notación científica. Si el multiplicador 
+es mayor que 3.162, el orden de magnitud es uno más grande que la potencia de 
+diez en la notación científica.
+Se usa el símbolo  para “es del orden de”. Use el procedimiento anterior para verificar 
+los órdenes de magnitud para las siguientes longitudes:
+0.008 6 m  10
+2 m    0.002 1 m  103 m    720 m  103 m
+Por lo general, cuando se hace una estimación del orden de magnitud, los resultados 
+son confiables hasta dentro de un factor aproximado de 10. Si una cantidad aumenta en 
+valor por tres órdenes de magnitud, su valor aumenta por un factor de aproximadamente  
+10
+3  1 000.
+Las imprecisiones provocadas por suponer muy poco para un número, con frecuencia 
+se cancelan por otras suposiciones que son muy altas. Encontrará que, con práctica, sus 
+estimaciones se vuelven cada vez mejores. Los problemas de estimación pueden ser diver-
+tidos de trabajar porque usted escoge con libertad los dígitos, aventura aproximaciones 
+razonables para números desconocidos, hace suposiciones simplificadoras y convierte la 
+pregunta en algo factible de responder, en su cabeza o con una mínima manipulación 
+matemática en el papel. Debido a la simplicidad de este tipo de cálculos, se realizan en un 
+pequeño trozo de papel y con frecuencia se llaman “cálculos de servilleta”.
+EJEMPLO 1.4 Respiraciones en una vida
+Estime el número de respiraciones realizadas durante una vida humana promedio.
+SOLUCIÓN
+Comience por estimar que la vida humana promedio es de alrededor de 70 años. Piense acerca del número promedio de 
+respiraciones que una persona realiza en 1 min. Este número varía dependiendo de si la persona se ejercita, duerme, está 
+enojada, serena y cosas por el estilo. Al orden de magnitud más cercano, debe elegir 10 respiraciones por minuto como 
+estimación. (Es cierto que dicha estimación está más cerca al valor promedio verdadero que 1 respiración por minuto o 
+100 respiraciones por minuto.)
+Encuentre el número aproximado de minutos 
+en un año:
+Halle el número aproximado de minutos en 
+una vida de 70 años:
+Encuentre el número aproximado de respira-
+ciones en una vida:
+Por lo tanto, una persona toma en el orden de 10
+9 respiraciones en una vida. Advierta cuánto más simple fue, en el primer 
+cálculo, multiplicar 400  25 que trabajar con el más preciso 365  24.
+¿Qué pasaría si? ¿Y si la vida promedio se estimase como 80 años en lugar de 70? ¿Esto cambiaría la estimación final?
+Respuesta Se podría afirmar que (80 años)(6  105 min/año)  5  107 min, de modo que la estimación final debería 
+ser 5  10 8 respiraciones. Esta respuesta todavía está en el orden de 10 9 respiraciones, de modo que una estimación del 
+orden de magnitud no cambiaría.
+1 año a
+400 días
+1 año ba 25 h
+1 día ba 60 min
+1 h b 61 0 5 min
+número de minutos (70 años)(6 10 5 min/años)
+41 0 7 min
+número de respiraciones (10 respiraciones/min)(4 10 7 min)
+41 0 8 respiraciones
+ Sección 1.5  Estimaciones y cálculos de orden de magnitud  11
+
+12 Capítulo 1  Física y medición
+1.6 Cifras significativas
+Cuando se miden ciertas cantidades, los valores medidos se conocen sólo dentro de los 
+límites de la incertidumbre experimental. El valor de esta incertidumbre depende de 
+varios factores, como la calidad del aparato, la habilidad del experimentador y el número 
+de mediciones realizadas. El número de cifras significativas en una medición sirve para 
+expresar algo acerca de la incertidumbre.
+Como ejemplo de cifras significativas, suponga que se le pide medir el área de un disco 
+compacto usando una regleta como instrumento de medición. Suponga que la precisión a 
+la que puede medir el radio del disco es 0.1 cm. Debido a la incertidumbre de 0.1 cm, 
+si el radio mide 6.0 cm, sólo es posible afirmar que su radio se encuentra en algún lugar 
+entre 5.9 y 6.1 cm. En este caso, el valor medido de 6.0 cm tiene dos cifras significativas. 
+Note que las cifras significativas incluyen el primer dígito estimado. Por lo tanto, el radio 
+se podría escribir como (6.0  0.1) cm.
+Ahora encuentre el área del disco usando la ecuación para el área de un círculo. Si afir-
+ma que el área es A  Qr
+2  Q(6.0 cm)2  113 cm2, la respuesta sería injustificable porque 
+contiene tres cifras significativas, que es mayor que el número de cifras significativas en el 
+radio. Una buena regla empírica para la determinación del número de cifras significativas 
+que se pueden afirmar en una multiplicación o división es la siguiente:
+Cuando se multiplican muchas cantidades, el número de cifras significativas en la 
+respuesta final es el mismo que el número de cifras significativas en la cantidad que 
+tiene el número más pequeño de cifras significativas. La misma regla aplica para la 
+división.
+Al aplicar esta regla al área del disco compacto se ve que la respuesta para el área sólo tiene 
+dos cifras significativas, porque el radio observado sólo tiene dos cifras significativas. En 
+consecuencia, todo lo que es posible afirmar es que el área es de 1.1  10
+2 cm2.
+Los ceros pueden o no ser cifras significativas. Los que se usan para la posición del 
+punto decimal en números como 0.03 y 0.007 5 no son significativos. Debido a eso, existen 
+una y dos cifras significativas, respectivamente, en estos dos valores. Sin embargo, cuando 
+los ceros vienen después de otros dígitos, existe la posibilidad de malas interpretaciones. 
+Por ejemplo, suponga que la masa de un objeto está dada como 1 500 g. Este valor es 
+ambiguo porque no se sabe si los últimos dos ceros se usan para ubicar el punto decimal 
+o si representan cifras significativas en la medición. Para eliminar dicha ambigüedad, es 
+común usar notación científica para indicar el número de cifras significativas. En este  
+caso, la masa se expresaría como 1.5  10
+3 g si hubiese dos cifras significativas en el valor 
+observado, 1.50  103 g si hubiese tres cifras significativas y 1.500  103 g si hubiese cuatro. 
+La misma regla se sostiene para números menores que 1, de modo que 2.3  104 tiene 
+dos cifras significativas (y por lo tanto se podría escribir 0.000 23) y 2.30  104 tiene tres 
+cifras significativas (también se escribe 0.000 230).
+Para suma y resta debe considerar el número de lugares decimales cuando determine 
+cuántas cifras significativas ha de reportar:
+Cuando los números se sumen o resten, el número de lugares decimales en el re-
+sultado debe ser igual al número más pequeño de lugares decimales de cualquier 
+término en la suma.
+Por ejemplo, si desea calcular 123  5.35, la respuesta es 128 y no 128.35. Si se cal-
+cula la suma 1.000 1  0.000 3  1.000 4, el resultado tiene cinco cifras significativas 
+aun cuando uno de los términos en la suma, 0.000 3, sólo tenga una cifra significativa. 
+Del mismo modo, si se realiza la resta 1.002  0.998  0.004, el resultado sólo tiene 
+una cifra significativa, aun cuando un término tenga cuatro cifras significativas y el 
+otro tenga tres.
+PREVENCIÓN DE RIESGOS   
+OCUL
+TOS 1.4
+Lea con cuidado
+Observe que la regla para  
+suma y resta es diferente de  
+la regla de multiplicación y  
+división. Para suma y resta, la 
+consideración relevante es el 
+número de lugares decimales,  
+no el número de cifras  
+significativas.
+
+En este libro la mayoría de los ejemplos numéricos y problemas de fin de capítu-
+lo producirán respuestas que tienen tres cifras significativas. Cuando se realicen  
+cálculos del orden de magnitud, por lo general se trabajará con una sola cifra sig-
+nificativa.
+Si se debe reducir el número de cifras significativas en el resultado de una suma o resta, 
+hay una regla general para redondear números: el último dígito retenido se aumenta en 
+1 si el último dígito eliminado es mayor que 5. Si el último dígito eliminado es menor 
+que 5, el último dígito permanece como está. Si el último dígito eliminado es igual a 5, el 
+dígito restante debe redondearse al número par más cercano. (Esta regla ayuda a evitar 
+acumulación de errores en procesos aritméticos largos.)
+Una técnica para evitar la acumulación de error es demorar el redondeo de números 
+en un cálculo largo hasta que tenga el resultado final. Espere a estar listo para copiar la 
+respuesta final de su calculadora antes de redondear al número correcto de cifras signi-
+ficativas.
+EJEMPLO 1.5 Instalación de una alfombra
+En una habitación de 12.71 m de longitud y 3.46 m de 
+ancho se instalará una alfombra. Encuentre el área de la 
+habitación.
+SOLUCIÓN 
+Si multiplica 12.71 m por 3.46 m en su calculadora, verá 
+una respuesta de 43.976 6 m
+2. ¿Cuántos de estos números 
+debe reportar? La regla empírica para multiplicación dice 
+que reporte en su respuesta sólo el número de cifras sig-
+nificativas que estén presentes en la cantidad medida que 
+tenga el número más bajo de cifras significativas. En este 
+ejemplo, el número más bajo de cifras significativas es tres 
+en 3.46 m, así que debe expresar la respuesta final como 
+44.0 m
+2.
+Resumen
+DEFINICIONES
+Las tres cantidades físicas fundamentales de la mecánica 
+son longitud, masa y tiempo, que en el SI tienen las 
+unidades metro (m), kilogramo (kg) y segundo (s). 
+Estas cantidades fundamentales no es posible definirlas 
+en términos de cantidades más básicas.
+La densidad de una sustancia se define como su masa por 
+cada unidad de volumen:
+ m
+Vr  (1.1)
+CONCEPTOS Y PRINCIPIOS
+El método de análisis dimensional es muy 
+valioso para resolver problemas de física. Las 
+dimensiones son tratadas como cantidades 
+algebraicas. Al realizar estimaciones y 
+cálculos de orden de magnitud, debe 
+ser capaz de aproximar la respuesta a 
+un problema cuando no haya suficiente 
+información disponible para especificar 
+completamente una solución exacta.
+Cuando calcule un resultado a partir de varios números medidos, 
+donde cada uno tiene cierta precisión, debe dar el resultado con el 
+número correcto de cifras significativas. Cuando multiplique varias 
+cantidades, el número de cifras significativas en la respuesta final 
+es el mismo que el número de cifras significativas en la cantidad 
+que tiene el número más pequeño de cifras significativas. La misma 
+regla se aplica a la división. Cuando se suman o restan números, 
+el número de lugares decimales en el resultado debe ser igual al 
+número más pequeño de lugares decimales de cualquier término 
+en la suma.
+ Resumen 13
+
+14 Capítulo 1  Física y medición
+ 1. Suponga que los tres estándares fundamentales del sistema 
+métrico fuesen longitud, densidad y tiempo en lugar de longi-
+tud, masa y tiempo. El estándar de densidad en este sistema se 
+debe definir como el propio del agua. ¿Qué consideraciones 
+acerca del agua necesitaría abordar para asegurar que el están-
+dar de densidad es tan preciso como sea posible?
+ 2. Exprese las siguientes cantidades usando los prefijos  
+dados en la tabla 1.4: a) 3  10
+4 m, b) 5  10 5 s, 
+c) 72  102 g.
+ 3.  O Ordene las siguientes cinco cantidades de la más grande a 
+la más pequeña: a) 0.032 kg,   b) 15 g,   c) 2.7  10
+5 mg, 
+d) 4.1  108 Gg,   e) 2.7  108 Ng. Si dos de las masas son 
+iguales, déles igual lugar en su lista.
+ 4.  O Si una ecuación es dimensionalmente correcta, ¿esto signi-
+fica que la ecuación debe ser verdadera? Si una ecuación no 
+es dimensionalmente correcta, ¿esto significa que la ecuación 
+no puede ser verdadera?
+ 5. O Responda cada pregunta con sí o no. Dos cantidades deben 
+tener las mismas dimensiones a) ¿si las suma?, b) ¿si las multi-
+plica?, c) ¿si las resta?, d) ¿si las divide?, e) ¿si usa una cantidad 
+como exponente al elevar la otra a una potencia?, f) ¿si las 
+iguala?
+ 6.  O El precio de la gasolina en una estación es de 1.3 euros por 
+litro. Una estudiante usa 41 euros para comprar gasolina. Si 
+sabe que 4 cuartos hacen un galón y que 1 litro es casi 1 cuar- 
+to, de inmediato razona que puede comprar (elija una) a) 
+menos de 1 galón de gasolina, b) aproximadamente 5 galones 
+de gasolina, c) cerca de 8 galones de gasolina, d) más de 10 
+galones de gasolina.
+ 7. O Un estudiante usa una regleta para medir el grosor de un 
+libro de texto y encuentra que es de 4.3 cm  0.1 cm. Otros 
+estudiantes miden el grosor con calibradores vernier y obtie-
+nen a) 4.32 cm  0.01 cm, b) 4.31 cm  0.01 cm, c) 4.24  
+cm  0.01 cm y d) 4.43 cm  0.01 cm. ¿Cuál de estas cuatro 
+mediciones, si hay alguna, concuerda con la obtenida por el 
+primer estudiante?
+ 8. O Una calculadora despliega un resultado como 1.365 248 0 
+ 10
+7 kg. La incertidumbre estimada en el resultado es 2%. 
+¿Cuántos dígitos debe incluir como significativos cuando es-
+criba el resultado? Elija una: a) cero, b) uno, c) dos, d) tres, 
+e) cuatro, f) cinco, g) no se puede determinar el número.
+4FDDJwO &TUgOEBSFTEFMPOHJUVE
+NBTBZUJFNQP
+ 1. 
+; Use la información que aparece al final de este libro para 
+calcular la densidad promedio de la Tierra. ¿Dónde encaja el 
+valor entre los que se mencionan en la tabla 14.1? Busque la 
+densidad de una roca superficial típica, como el granito, en 
+otra fuente y compare la densidad de la Tierra con ella.
+ 2. El kilogramo estándar es un cilindro de platino–iridio de 39.0 
+mm de alto y 39.0 mm de diámetro. ¿Cuál es la densidad del 
+material?
+ 3. Una importante compañía automotriz muestra un molde de su 
+primer automóvil, hecho de 9.35 kg de hierro. Para celebrar 
+sus 100 años en el negocio, un trabajador fundirá el molde en 
+oro a partir del original. ¿Qué masa de oro se necesita para 
+hacer el nuevo modelo?
+ 4. 
+; Un protón, que es el núcleo de un átomo de hidrógeno, 
+se representa como una esfera con un diámetro de 2.4 fm 
+y una masa de 1.67  10
+27 kg. Determine la densidad del  
+protón y establezca cómo se compara con la densidad  
+del plomo, que está dada en la tabla 14.1.
+ 5. De cierta roca uniforme son cortadas dos esferas. Una tiene 
+4.50 cm de radio. La masa de la segunda esfera es cinco veces 
+mayor. Encuentre el radio de la segunda esfera.
+4FDDJwO.BUFSJBZDPOTUSVDDJwOEFNPEFMPT
+ 6. Un sólido cristalino consiste de átomos apilados en una estruc -
+tura reticular repetitiva. Considere un cristal como el que se 
+muestra en la figura P1.6a. Los átomos residen en las esquinas 
+de cubos de lado L  0.200 nm. Una pieza de evidencia para 
+el ordenamiento regular de átomos proviene de las superficies 
+Preguntas
+O indica pregunta complementaria.
+Problemas
+Figura P1.6
+Nota: Consulte al final del libro, apéndices y tablas en el texto 
+siempre que sea necesario para resolver problemas. En este 
+capítulo la tabla 14.1 y el apéndice B.3 son de mucha utilidad. 
+Las respuestas a los problemas con número impar aparecen al 
+final del libro.
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+L
+b)
+a) d
+
+planas a lo largo de las cuales se separa un cristal, o fractu-
+ra, cuando se rompe. Suponga que este cristal se fractura a 
+lo largo de una cara diagonal, como se muestra en la figura 
+P1.6b. Calcule el espaciamiento d entre dos planos atómicos 
+adyacentes que se separan cuando el cristal se fractura.
+4FDDJwO"OgMJTJTEJNFOTJPOBM
+ 7. ¿Cuáles de las siguientes ecuaciones son dimensional-  
+mente correctas? a) v
+f  vi  ax,   b) y  (2 m) cos (kx), 
+donde k  2 m1.
+ 8. La figura P1.8 muestra el tronco de un cono. De las siguientes 
+expresiones de medición (geométrica), ¿cuál describe i) la cir-
+cunferencia total de las caras circulares planas, ii) el volumen 
+y iii) el área de la superficie curva? a) Q(r 1  r 2) [h2  (r 2  
+r 1)2]1/2,  b) 2Q(r 1  r 2), c) Qh(r 1
+2  r 1r 2  r 2
+2)/3.
+ 16. Un cargador de mineral mueve 1 200 tons/h de una mina a  
+la superficie. Convierta esta relación a libras por segundo, 1 
+ton  2 000 lb.
+ 17. Cuando se imprimió este libro, la deuda nacional estadouni-
+dense era de aproximadamente $8 billones. a) Si se hicieran 
+pagos con una rapidez de $1 000 por segundo, ¿cuántos años 
+tardaría en ser pagada la deuda, si supone que no se cargan in- 
+tereses? b) Un billete de dólar mide aproximadamente 15.5 
+cm de largo. Si ocho billones de billetes de dólar se pusiesen 
+extremo con extremo alrededor del ecuador de la Tierra,
+ 
+¿cuántas veces darían la vuelta al planeta? Considere que el 
+radio de la Tierra en el ecuador es de 6 378 km. Nota: Antes 
+de hacer algún cálculo, intente adivinar las respuestas. Se sor-
+prenderá.
+ 18. Una pirámide tiene una altura de 481 ft y su base cubre una 
+área de 13.0 acres (figura P1.18). El volumen de una pirámide 
+está dado por la expresión V  
+1
+3 Bh, donde B es el área de la 
+base y h es la altura. Encuentre el volumen de esta pirámide 
+en metros cúbicos. (1 acre  43 560 ft
+2)
+ 9. La ley de gravitación universal de Newton se representa por
+F GMm
+r2
+  Aquí F es la magnitud de la fuerza gravitacional ejercida por 
+un objeto pequeño sobre otro, M y m  son las masas de los 
+objetos y r es una distancia. La fuerza tiene las unidades del SI 
+kg · m/s
+2. ¿Cuáles son las unidades del SI de la constante de 
+proporcionalidad G ?
+4FDDJwO$POWFSTJwOEFVOJEBEFT
+ 10. Suponga que su cabello crece a una proporción de 1/32 pul -
+gada por cada día. Encuentre la proporción a la que crece en 
+nanómetros por segundo. Dado que la distancia entre átomos 
+en una molécula es del orden de 0.1 nm, su respuesta sugiere 
+cuán rápidamente se ensamblan las capas de átomos en esta 
+síntesis de proteínas.
+ 11. Un lote rectangular mide 100 ft por 150 ft. Determine el área 
+de este lote en metros cuadrados.
+ 12. Un auditorio mide 40.0 m  20.0 m  12.0 m. La densidad  
+del aire es 1.20 kg/m
+3. ¿Cuáles son a) el volumen de la ha-
+bitación en pies cúbicos y b) el peso en libras del aire en la 
+habitación?
+ 13. 
+; Una habitación mide 3.8 m por 3.6 m y su techo está a  
+2.5 m de altura. ¿Es posible empapelar por completo las pare-
+des de esta habitación con las páginas de este libro? Explique 
+su respuesta.
+ 14. Suponga que llenar un tanque de gasolina de 30.0 galones 
+tarda 7.00 min. a) Calcule la rapidez a la cual el tanque se 
+llena en galones por segundo. b) Calcule la rapidez a la cual el 
+tanque se llena en metros cúbicos por segundo. c) Determine 
+el intervalo, en horas, que se requiere para llenar un volumen 
+de 1.00 m
+3 a la misma rapidez (1 galón  231 pulg3).
+ 15. Una pieza sólida de plomo tiene una masa de 23.94 g y un vo -
+lumen de 2.10 cm3. A partir de estos datos, calcule la densidad 
+del plomo en unidades del SI (kg/m3).
+h
+r1
+r2
+Figura P1.8
+19. La pirámide descrita en el problema 18 contiene aproxima-
+damente 2 millones de bloques de piedra que en promedio 
+pesan 2.50 toneladas cada uno. Encuentre el peso de esta pi-
+rámide en libras.
+20. Un átomo de hidrógeno tiene un diámetro de 1.06  10
+10 m 
+según se deduce del diámetro de la nube esférica de electrones 
+que rodea al núcleo. El núcleo de hidrógeno tiene un diá-
+metro de aproximadamente 2.40  10
+15 m. a) Para un mo-
+delo a escala, represente el diámetro del átomo de hidrógeno 
+por la longitud de un campo de futbol americano (100 yardas 
+ 300 ft) y determine el diámetro del núcleo en milímetros.  
+b) ¿Cuántas veces el átomo es más grande en volumen que 
+su núcleo?
+ 21. Un galón de pintura (volumen  3.78  10
+3 m3) cubre un 
+área de 25.0 m2. ¿Cuál es el grosor de la pintura fresca sobre la 
+pared?
+ 22. El radio medio de la Tierra es de 6.37  106 m y el de la Luna 
+es de 1.74  108 cm. A partir de estos datos calcule a) la ra-
+zón del área superficial de la Tierra con la de la Luna y b) la  
+relación del volumen de la Tierra con la de la Luna. Recuer- 
+de que el área superficial de una esfera es 4Qr 
+2 y el volumen de  
+una esfera es 
+4
+3Qr 3.
+ 23. Un metro cúbico (1.00 m 3) de aluminio tiene una masa de 
+2.70  103 kg, y el mismo volumen de hierro tiene una masa 
+de 7.86  103 kg. Encuentre el radio de una esfera de aluminio 
+sólida que equilibraría una esfera de hierro sólida de 2.00 cm 
+de radio sobre una balanza de brazos iguales.
+ 24. Sea S
+Al la representación de la densidad del aluminio y SFe la 
+del hierro. Encuentre el radio de una esfera de aluminio sólida 
+que equilibra una esfera de hierro sólida de radio r 
+Fe en una 
+balanza de brazos iguales.
+Figura P1.18 Problemas 18 y 19.
+Sylvain Grandadam/Photo Researchers, Inc.
+ Problemas 15
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+
+16 Capítulo 1  Física y medición
+4FDDJwO&TUJNBDJPOFTZDgMDVMPTEFPSEFOEFNBHOJUVE
+ 25. Encuentre el orden de magnitud del número de pelotas de 
+tenis de mesa que entrarían en una habitación de tamaño tí-
+pico (sin estrujarse). En su solución, establezca las cantidades 
+que midió o estimó y los valores que tomó para ellas.
+ 26. La llanta de un automóvil dura 50 000 millas. En un orden 
+de magnitud, ¿a través de cuántas revoluciones girará? En su 
+solución, establezca las cantidades que midió o estimó y los  
+valores que tomó para ellas.
+ 27.
+ Calcule el orden de magnitud de la masa de una bañera medio 
+llena de agua. Calcule el orden de magnitud de la masa de una 
+bañera medio llena de monedas. En su solución, mencione 
+las cantidades que tomó como datos y los valores que midió o 
+estimó para cada una.
+ 28. 
+; Suponga que Bill Gates le ofrece $1 000 millones si es capaz 
+de terminar de contarlos usando sólo billetes de un dólar. 
+¿Debe aceptar su oferta? Explique su respuesta. Suponga 
+que cuenta un billete cada segundo y advierta que necesita al 
+menos 8 horas al día para dormir y comer.
+ 29. En un orden de magnitud, ¿cuántos afinadores de piano hay 
+en la ciudad de Nueva York? El físico Enrico Fermi fue famoso 
+por plantear preguntas como ésta en los exámenes orales para 
+calificar candidatos a doctorado. La facilidad que él tenía
+  
+para realizar cálculos del orden de magnitud se ejemplifica en 
+el problema 48 del capítulo 45.
+4FDDJwO$JGSBTTJHOJGJDBUJWBT
+Nota: El apéndice B.8, acerca de la propagación de incertidum-
+bre, es útil para resolver los problemas de esta sección.
+ 30. Una placa rectangular tiene una longitud de (21.3  0.2) cm 
+y un ancho de (9.8  0.1) cm. Calcule el área de la placa, 
+incluida su incertidumbre.
+ 31. ¿Cuántas cifras significativas hay en los siguientes números:  
+a) 78.9  0.2   b) 3.788  10
+9   c) 2.46  10 6    
+d) 0.005 3?
+ 32. El radio de una esfera sólida uniforme mide (6.50  0.20) cm 
+y su masa es de (1.85  0.02) kg. Determine la densidad de la 
+esfera en kilogramos por metro cúbico y la incertidumbre en 
+la densidad.
+ 33. Realice las siguientes operaciones aritméticas: a) la suma de  
+los valores medidos 756, 37.2, 0.83 y 2,   b) el producto
+  
+de 0.003 2  356.3,   c) el producto 5.620  Q.
+ 34. El año tropical, el intervalo desde un equinoccio de primavera 
+hasta el siguiente equinoccio de primavera, es la base para el 
+calendario. Contiene 365.242 199 días. Encuentre el número 
+de segundos en un año tropical.
+Nota: Los siguientes 11 problemas requieren habilidades mate-
+máticas que serán útiles a lo largo del curso.
+ 35. Pr oblema de repaso.  Una niña se sorprende de que debe 
+pagar $1.36 por un juguete marcado con $1.25 debido a los  
+impuestos. ¿Cuál es la tasa de impuesto efectiva sobre esta com-
+pra, expresada como porcentaje?
+ 36. 
+; Problema de repaso.  A un estudiante se le proporcionan  
+una pila de papel para copiadora, regla, compás, tijeras y una 
+báscula de precisión. El estudiante corta varias formas de varios 
+tamaños, calcula sus áreas, mide sus masas y prepara la gráfi-
+ca de la figura P1.36. Considere el cuarto punto experimen-
+tal desde la parte superior. ¿Qué tan lejos está de la recta de 
+mejor ajuste? a) Exprese su respuesta como una diferencia en 
+la coordenada del eje vertical. b) Formule su respuesta como 
+una diferencia en la coordenada del eje horizontal. c) Exprese  
+las respuestas de los incisos a) y b) como un porcentaje. d) 
+Calcule la pendiente de la línea. e) Establezca lo que demues-
+tra la gráfica, en referencia con la pendiente de la gráfica y los 
+resultados de los incisos c) y d). f) Describa si este resultado 
+debe anticiparse teóricamente. Describa el significado físico de  
+la pendiente.
+ 37. Pr oblema de repaso. Un joven inmigrante trabaja tiempo extra 
+y gana dinero para comprar reproductores MP3 portátiles que 
+envía a su casa como regalos a la familia. Por cada turno extra 
+que trabaja, él calcula que comprará un reproductor y dos 
+tercios de otro. Un correo electrónico de su madre le informa 
+que los reproductores son tan populares que cada uno de los 
+15 jóvenes amigos del vecindario quiere uno. ¿Cuántos tur- 
+nos más tendrá que trabajar?
+ 38. Problema de repaso. En un estacionamiento universitario, el 
+número de automóviles ordinarios es mayor que el de vehícu- 
+los deportivos por 94.7%. La diferencia entre el número de 
+automóviles y el número de vehículos deportivos es 18. En-
+cuentre el número de vehículos deportivos en el estaciona-
+miento.
+ 39. Problema de repaso. La relación del número de pericos que 
+visita un comedero de aves al número de aves más interesantes 
+es de 2.25. Una mañana, cuando 91 aves visitan el comedero, 
+¿cuál es el número de pericos?
+ 40. Pr oblema de repaso.  Pruebe que una solución de la ecua-
+ción
+  2.00x
+4  3.00x3  5.00x  70.0
+  es x  2.22.
+ 41. Problema de repaso. Encuentre todo ángulo V entre 0 y 360° 
+para el cual la relación de sen V a cos V sea 3.00.
+ 42. Pr oblema de repaso.  Una curva en la autopista forma una  
+sección de círculo. Un automóvil entra a la curva. La brúju- 
+la de su tablero muestra que el automóvil al inicio se dirige 
+hacia el este. Después de recorrer 840 m, se dirige 35.0° al 
+sureste. Encuentre el radio de curvatura de su trayectoria. Suge-
+rencia: Encontrará útil aprender un teorema geométrico citado 
+en el apéndice B.3.
+ 43. Problema de repaso.  Durante cierto periodo, mientras crece 
+un cocodrilo, su masa es proporcional al cubo de su longitud. 
+Cuando la longitud del cocodrilo cambia en 15.8%, su masa 
+aumenta 17.3 kg. Encuentre su masa al final de este proceso.
+CuadradosRectángulos Triángulos
+Círculos Mejor ajuste
+0.3
+0.2
+0.1
+0
+Área (cm2)
+Dependencia de la masa en el área
+para formas de papel
+Masa (g)
+200 400 600
+Figura P1.36
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+
+44. Problema de repaso. A partir del conjunto de ecuaciones
+  
+1
+2 pr2 1
+2 qs2 1
+2
+qt 2 
+ pr qs 
+ p 3q 
+  que involucran las incógnitas p, q, r, s y t, encuentre el valor de 
+la relación de t a r.
+ 45. ; Problema de repaso. En un conjunto particular de ensayos 
+experimentales, los estudiantes examinan un sistema descrito 
+por la ecuación
+  
+Q
+¢t
+kp d2 1Th Tc 2
+4L
+  En el capítulo 20 se verá esta ecuación y las diversas cantida-
+des en ella. Para control experimental, en estos ensayos todas 
+las cantidades, excepto d y $t, son constantes. a) Si d se hace 
+tres veces más grande, ¿la ecuación predice que $t se hará 
+más grande o más pequeña? ¿En qué factor? b) ¿Qué patrón 
+de proporcionalidad de $t a d  predice la ecuación? c) Para 
+mostrar esta proporcionalidad como una línea recta en una 
+gráfica, ¿qué cantidades debe graficar en los ejes horizontal y 
+vertical? d) ¿Qué expresión representa la pendiente teórica de 
+esta gráfica?
+1SPCMFNBTBEJDJPOBMFT
+ 46. En una situación en que los datos se conocen a tres cifras sig -
+nificativas, se escribe 6.379 m  6.38 m y 6.374 m  6.37 m. 
+Cuando un número termina en 5, arbitrariamente se elige es- 
+cribir 6.375 m   6.38 m. Igual se podría escribir 6.375 m   
+6.37 m, “redondeando hacia abajo” en lugar de “redondear 
+hacia arriba”, porque el número 6.375 se cambiaría por iguales 
+incrementos en ambos casos. Ahora considere una estimación 
+del orden de magnitud en la cual los factores de cambio, más 
+que los incrementos, son importantes. Se escribe 500 m  10
+3 m  
+porque 500 difiere de 100 por un factor de 5, mientras difie-
+re de 1 000 sólo por un factor de 2. Escriba 437 m  10
+3 m y 
+305 m  102 m. ¿Qué distancia difiere de 100 m y de 1 000 m  
+por iguales factores de modo que lo mismo se podría esco-
+ger representar su orden de magnitud como 10
+2 m o como  
+103 m?
+ 47. ; Un cascarón esférico tiene un radio externo de 2.60 cm y 
+uno interno de a. La pared del cascarón tiene grosor uniforme 
+y está hecho de un material con densidad de 4.70 g/cm 3. El 
+espacio interior del cascarón está lleno con un líquido que 
+tiene una densidad de 1.23 g/cm 3. a) Encuentre la masa m 
+de la esfera, incluidos sus contenidos, como función de a. b) 
+En la respuesta a la parte a), si a se considera variable, ¿para 
+qué valor de a tiene m su máximo valor posible? c) ¿Cuál es 
+esta masa máxima? d) ¿El valor de la parte b) concuerda con 
+el resultado de un cálculo directo de la masa de una esfera de  
+densidad uniforme? e) ¿Para qué valor de a la respuesta al 
+inciso a) tiene su valor mínimo posible? f) ¿Cuál es esta masa 
+mínima? g) ¿El valor del inciso f) concuerda con el resultado  
+de un cálculo directo de la masa de una esfera uniforme?  
+h) ¿Qué valor de m está a la mitad entre los valores máximo y  
+mínimo posibles? i) ¿Esta masa concuerda con el resultado del  
+inciso a) evaluada para a  2.60 cm/2  1.30 cm? j) Explique  
+si debe esperar concordancia en cada uno de los incisos d), g)  
+e i). k) ¿Qué pasaría si? En el inciso a), ¿la respuesta cambiaría 
+si la pared interior del cascarón no fuese concéntrica con la 
+pared exterior?
+ 48. Una barra que se extiende entre x  0 y x  14.0 cm tiene área 
+de sección transversal uniforme A  9.00 cm
+2. Se fabrica de 
+una aleación de metales que cambia continuamente de modo 
+que, a lo largo de su longitud, su densidad cambia de mane-
+ra uniforme de 2.70 g/cm
+3 a 19.3 g/cm 3. a) Identifique las 
+constantes B y C requeridas en la expresión S  B  Cx para 
+describir la densidad variable. b) La masa de la barra se conoce 
+mediante
+  
+m 
+todo el material
+ rdV 
+toda x
+rAdx
+14 cm
+0
+1BC x 2 19.00 cm2 2 dx
+  Realice la integración para encontrar la masa de la barra.
+ 49. El diámetro de la galaxia con forma de disco, la Vía Láctea, 
+es de aproximadamente 1.0  105 años luz (a–l). La distancia 
+a Andrómeda, que es la galaxia espiral más cercana a la Vía 
+Láctea, es de alrededor de 2.0 millones de a–l. Si un modelo 
+a escala representa las galaxias Vía Láctea y Andrómeda como 
+platos soperos de 25 cm de diámetro, determine la distancia 
+entre los centros de los dos platos.
+ 50. 
+; Se sopla aire hacia dentro de un globo esférico de modo 
+que, cuando su radio es de 6.50 cm, éste aumenta en una 
+proporción de 0.900 cm/s. a) Encuentre la rapidez a la que 
+aumenta el volumen del globo. b) Si dicha relación de flujo 
+volumétrico de aire que entra al globo es constante, ¿en qué 
+proporción aumentará el radio cuando el radio es de 13.0 cm? 
+c) Explique físicamente por qué la respuesta del inciso b) es 
+mayor o menor que 0.9 cm/s, si es diferente.
+ 51. El consumo de gas natural por una compañía satisface la ecua-
+ción empírica V  1.50t  0.008 00t 
+2, donde V es el volumen 
+en millones de pies cúbicos y t es el tiempo en meses. Exprese 
+esta ecuación en unidades de pies cúbicos y segundos. Asigne 
+las unidades adecuadas a los coeficientes. Suponga un mes de 
+30.0 días.
+ 52. En física es importante usar aproximaciones matemáticas. De-
+muestre que, para ángulos pequeños ( 20°),
+tan a sen aa pa
+180°
+  donde B está en radianes y B en grados. Use una calculado-
+ra para encontrar el ángulo más grande para el que tan B se 
+pueda aproximar a B con un error menor de 10.0 por ciento.
+ 53. Un chorro de agua elevado se ubica en el centro de una fuen-
+te, como se muestra en la figura P1.53. Un estudiante camina 
+alrededor de la fuente, evitando mojar sus pies, y mide su cir-
+cunferencia en 15.0 m. A continuación, el estudiante se para 
+en el borde de la fuente y usa un transportador para medir el 
+ángulo de elevación de la fuente que es de 55.0°. ¿Cuál es la 
+altura del chorro?
+ Problemas
+ 17
+55.0
+Figura P1.53
+ 54. ; Las monedas de colección a veces se recubren con oro para 
+mejorar su belleza y valor. Considere un cuarto de dólar con-
+memorativo que se anuncia a la venta en $4.98. Tiene un diá-
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+
+18 Capítulo 1  Física y medición
+metro de 24.1 mm y un grosor de 1.78 mm, y está cubierto por 
+completo con una capa de oro puro de 0.180 Nm de grueso. El 
+volumen del recubrimiento es igual al grosor de la capa por el 
+área a la que se aplica. Los patrones en las caras de la moneda 
+y los surcos en sus bordes tienen un efecto despreciable sobre 
+su área. Suponga que el precio del oro es de $10.0 por cada 
+gramo. Encuentre el costo del oro agregado a la moneda. ¿El 
+costo del oro aumenta significativamente el valor de la mone-
+da? Explique su respuesta.
+ 55. Un año es casi Q  10
+7 s. Encuentre el error porcentual en esta 
+aproximación, donde “error porcentual” se define como
+ Error
+porcentual
+0valor supuesto valor verdadero 0
+valor verdadero  100%
+ 56. ; Una criatura se mueve con una rapidez de 5.00 furlongs por 
+dos semanas (una unidad de rapidez no muy común). Dado 
+que 1 furlong  220 yardas, y 2 semanas  14 días, determine 
+la rapidez de la criatura en metros por segundo. Explique qué 
+tipo de criatura cree que podría ser.
+ 57. Un niño adora ver cómo llena una botella de plástico trans-
+parente con champú. Las secciones transversales horizontales 
+de la botella son círculos con diámetros variables porque la  
+botella es mucho más ancha en algunos lugares que en otros.
+ 
+Usted vierte champú verde brillante con una relación de flujo 
+volumétrico constante de 16.5 cm
+3/s. ¿En qué cantidad el 
+nivel de la botella se eleva a) a un punto donde el diámetro de  
+la botella es de 6.30 cm y b) a un punto donde el diámetro 
+es de 1.35 cm?
+ 58. 
+; En la siguiente tabla la información representa observacio-
+nes de las masas y dimensiones de cilindros sólidos de alumi-
+nio, cobre, latón, estaño y hierro. Use tales datos para calcular 
+las densidades de dichas sustancias. Establezca cómo sus re-
+sultados para aluminio, cobre y hierro se comparan con los 
+conocidos en la tabla 14.1.
+ 
+  Sustancia
+Masa 
+(g)
+Diámetro 
+(cm)
+Longitud 
+(cm)
+Aluminio  51.5 2.52 3.75
+Cobre  56.3 1.23 5.06
+Latón  94.4 1.54 5.69
+Estaño  69.1 1.75 3.74
+Hierro 216.1 1.89 9.77
+ 59. Suponga que hay 100 millones de automóviles de pasajeros en 
+Estados Unidos y que el consumo promedio de combustible es 
+de 20 mi/gal de gasolina. Si la distancia promedio que recorre 
+cada automóvil es de 10 000 mi/año, ¿cuánta gasolina se aho- 
+rraría al año si el consumo promedio de combustible pudiera 
+aumentar a 25 mi/gal?
+ 60. La distancia del Sol a la estrella más cercana es casi de 4  10
+16 
+m. La galaxia Vía Láctea es en términos aproximados un disco 
+de 1021 m de diámetro y 1019 m de grosor. Encuentre el 
+orden de magnitud del número de estrellas en la Vía Láctea. 
+Considere representativa la distancia entre el Sol y el vecino 
+más cercano.
+1.1 a). Ya que la densidad del aluminio es más pequeña que la del 
+hierro, es necesario un mayor volumen de aluminio que de 
+hierro para una determinada masa.
+1.2 Falso. El análisis dimensional aporta las unidades de la 
+constante de proporcionalidad pero no da información 
+acerca de su valor numérico. Para determinar su valor nu-
+mérico, se requiere información experimental o razonamiento 
+geométrico. Por ejemplo, en la generación de la ecuación x  
+1
+2at 2, puesto que el factor 1
+2 es adimensional, no hay forma de 
+determinarlo usando análisis dimensional.
+1.3 b). Puesto que hay 1.609 km en 1 mi, se requiere un mayor 
+número de kilómetros que de millas para una cierta distancia.
+Respuestas a preguntas rápidas
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+
+Como una primera etapa en el estudio de la mecánica clásica, se describe el movimiento de 
+un objeto mientras se ignoran las interacciones con agentes externos que pueden causar 
+o modificar dicho movimiento. Esta parte de la mecánica clásica se llama cinemática. (La 
+palabra cinemática tiene la misma raíz que cinema. ¿Entiende por qué?) En este capítulo, 
+se considera sólo el movimiento en una dimensión, esto es: el movimiento de un objeto 
+a lo largo de una línea recta.
+A partir de la experiencia cotidiana es claro que el movimiento de un objeto representa 
+un cambio continuo en la posición de un objeto. En física se clasifica por categorías el 
+movimiento en tres tipos: traslacional, rotacional y vibratorio. Un automóvil que viaja en 
+una autopista es un ejemplo de movimiento traslacional, el giro de la Tierra sobre su eje 
+es un ejemplo de movimiento rotacional, y el movimiento de ida y vuelta de un péndulo es  
+un ejemplo de movimiento vibratorio. En éste y los siguientes capítulos, se tratará sólo con 
+el movimiento traslacional. (Más tarde, en el libro, se discutirán los movimientos rotacional 
+y vibratorio.)
+En el estudio del movimiento traslacional se usa el modelo de partícula y el objeto 
+en movimiento se describe como una partícula sin importar su tamaño. En general, una 
+partícula es un objeto parecido a un punto, es decir: un objeto que tiene masa pero es de 
+tamaño infinitesimal. Por ejemplo, si quiere describir el movimiento de la Tierra alrede-
+dor del Sol, puede considerar a la Tierra como partícula y obtener datos razonablemente 
+precisos acerca de su órbita. Esta aproximación se justifica porque el radio de la órbita 
+ 19
+En las carreras de dragsters un conductor quiere una aceleración tan 
+grande como sea posible. En una distancia de un cuarto de milla, un 
+vehículo alcanza rapideces de más de 320 mi/h y cubre la distancia 
+entera en menos de 5 s. (George Lepp/Stone/Getty)
+2.1  Posición, velocidad y 
+rapidez
+2.2  Velocidad y rapidez 
+instantáneas
+2.3  Modelos de análisis: 
+La partícula bajo 
+velocidad constante
+2.4  Aceleración
+2.5  Diagramas de 
+movimiento
+2.6  La partícula bajo 
+aceleración constante
+2.7  Objetos en caída libre
+2.8  Ecuaciones 
+cinemáticas deducidas 
+del cálculo
+  Estrategia general 
+para resolver 
+problemas
+2 Movimiento en una dimensión
+
+20

@@ -1,0 +1,1085 @@
+Tema: Sonido. La ecuación de onda; pulsaciones (Capítulos 47-48 — Lecciones de Física, Feynman, Vol. I)
+
+ecuaciOn de onda 
+47-1 Ondas 
+47-2 PropagaciOn de! sonido 
+47-3 La ecuaciOn de onda 
+47-1 Ondas 
+47-4 Soluciones de la ecuaciOn de onda 
+47-5 Velocidad de! sonido 
+En este capitulo estudiaremos cl fen6meno de las ondas. Es un fen6meno que 
+aparece en muchos contextos en toda la foica por Jo que nuestra atenci61:1 se debe 
+concentrar en Cl no s6!o por el ejemplo particular considerado aqui. el sonido, smo 
+tambifn por el amplio campo de _aphcaci6n de cstas idea;, en todas las ramas de la 
+fisica. 
+Al estudiar el oscilador arm6nico seiialamos que no hay ejemplos mccim 
+cos de sistemas oscilantes, sino tambif:n e[f:ctricos. Las estitn relacionadas con 
+sistemas oscilantes, s61o que !as o;,cilaciones ondu!atonas, ademits de apareccr como 
+oscilaciones temporales en un punto, se propagan en el espacio. 
+En realidad ya hemos estudiado ondas. Cuando cstudi3bamos la luz, al enterar­
+nos de las propiedades pertinentes de las ondas, prestamos atenci6n en particular 
+a la interfercncia espacial de ondas provenientes de varias fuentes colocadas en 
+diferentes puntos, todas de la misma frecuencia. Hay dos fen6menos ondulatorios 
+importantcs que aim no hemos estudiado y que ocurren tanto en la luz, es decir, 
+ondas electromagneticas, coma en cualquier otro tipo de ondas. El primero es el 
+fen6meno de interferencia temporal en vez de interferencia espacial. Si tenemos dos 
+fuentes de sonido con frecuencias ligeramente diferentes y escuchamos las dos al 
+mismo t1empo, algunas veces las ondas v1enen con las crestas juntas y otras con la 
+cresta y el va1le juntos (vean la figura 47-1). El aumento y disminuci6n dcl sonido 
+que resulta es e! fen6meno de pulsaci6n, o sea de interferencia en el tiempo. Ei Se­
+gundo fen6meno cs e! concermente a los diagramas de ondas que resultan cuando 
+las ondas est.in confinadas en un volumen determinado y se ref1ejan de un ]ado a otro 
+en las paredes. 
+Desde luego que podriamos haber discutido estos fen6menos en e! caso de las 
+ondas e!ectromagnCticas. La raz6n de no haberlo hecho es que usando un solo ejem­
+plo no hubieramos provocado la sensaci6n de estar verdaderamente aprendiendo 
+muchos temas diferentes al mismo tiempo. Para hacer resaltar la aplicabilidad ge­
+neral de las ondas 
+47-1
+
+!\ !\ [\ 81 !Lil_ A_~ 
+VVVVVV lJV vvv 
+~ Fig. 47-1. lot•rt"oool' tempo"\ de do• 
+ondas sonoras de frecuencia ligerarnente d1-
+ferente, dando lugar a pu\saciones. 
+mas allS. de !a electrodinamica, consideramos aqui un ejemp\o diferente, en particu­
+lar ondas sonoras. 
+Otros ejemplos de ondas son las ondas de agua consistentes en los largos abu!­
+tamientos que vemos acercarse a la costa, o las ondas de agua mils pequeiias con-
+en un rizado por tensi6n superficial. Como otro ejemp!o est3n las dos cla­
+ses ondas elil.sticas en sO!idos: una onda de compresi6n (o longitudinal) en la que 
+las particu!as de! s6lido oscilan en la direcci6n de propagaci6n de la onda (las ondas 
+sonoras en un gas son de este tipo), y una onda transversal en la que !as particu\as 
+del s61ido oscilan perpendicularmente a la direcci6n de propagaci6n. Las ondas de 
+!os terremotos contienen las dos dases de ondas cl<'tsticas, generadas por un mo­
+vimicnto en algUn punto de la corteza terrestre. 
+Un ejemplo de ondas se cncucntra en la fisica moderna. Estas son ondas que 
+dan la amplitud de probabilidad de encontrar una particu!a en un lugar determi­
+nado -las "ondas de materia" que ya hemos discutid()--. Su frecuencia es propor­
+cional a la energla y su nUmero de onda es proporcional al momentum. Son las 
+ondas de la mecitnica cuantica. 
+En cste capitulo considerarcmos Unicamente ondas cuya velocidad es indepen­
+diente de la longitud de onda. Estc es el caso, por cjemp!o, de la luz en el vado. La 
+velocidad es entonces la misma para las ondas de radio. para !a luz azul, para la !uz 
+vcrde o para cualquier otra longitud de onda. A causa de este comportamiento, 
+cuando comenzamos a describir los fen6menos ondulatorios no nos <limos cuenta 
+al principio de que teniamos propagaciOn de ondas. En vez de e!lo dijimos que si 
+una carga se mueve en un lugar, el campo elCctrico a una distancia x era 
+47-2. La curva llena rnuestra el as­
+que podria tener el carnpo elec1r1co en 
+c1erto instante y la curva de trazos rnuestra 
+cuiil es el carnpo electr1co un t1ernpo t mils 
+tarde 
+47-2
+
+'(--ct - 3 o ~<:ax=-- 3 4 cl. 
+f(x - ci} --, f(x + Llx - c(t + L\I)),
+
+sabemos que se propag'a por el aire ent_rc la fuente y el que ~scucha, y es totalmente 
+'natural que se pregunte cuil.l es la pres16n del aire en cualqmer momento determina­
+do. Ademas, querriamos saber exactamente c6mo se mueve el aire. En el caso de la 
+electriddad podiamos aceptar una regla, puesto que podiamos decir que todavla no 
+conociamos las leyes de la electricidad, pero no podemos decir lo mismo respecto al 
+sonido. No quedariamos satisfechos con una reg!a ~:iue estableciese c6mo se mueve 
+por el aire la presi6n de! sonido, J?Orque se debena c~mprender el proceso como 
+consecuencia de las !eyes de mccftmca. En suma, el somdo es una rama de la med­
+nic:i y por lo tanto hay que comprenderlo con las leyes de Newton. La propagat:i6n 
+del sonido de un lugar a otro es sencillamente una consecuencia de la mednica y de 
+las propiedades de los gases, si se propaga en un gas, o de las propiedades de liqui­
+dos o s61idos si se propaga en esos medias. Mas adelante dedm:iremos las propieda­
+des de la luz y su propagaciDn ondulatoria en forma anil.loga a partir de las leyes 
+de la elcctrodinimica. 
+47-2 PropagaciOn del sonido 
+Daremos una derivaci6n de las propicdades de la propagaci6n de] sonido entre 
+la fuente y cl receptor como una consecuencia de las !eyes de Ncwtol), sin considc 
+rar la interacci6n con la fucntc y el receptor. De ordinario recalcamos un resultado 
+mas bien que una derivaciOn particular de e1. En cste capitulo adoptamos el punto 
+de vista opuesto. Aqui lo importante es, en cierto sentido, la derivaci6n en si. Este 
+problema de explicar nuevos fen6menos en funci6n de los viejos, cuando conocemos 
+!as !eyes de los viejos, es posiblemente el mayor arte de la fisica matcmfttica. El 
+fisico matemfttico tiene dos prob!emas: uno es encontrar soluciones dadas las ecua­
+ciones y otro es cncontrar !as ecuaciones que describen un fen6meno nuevo. La de­
+rivaci6n que daremos aqui es un ejemplo del segundo tipo de problema. 
+Tomaremos aqui el ejemplo mils simple: la propagaci6n del sonido en una di­
+mensi6n. Para !!cvar a cabo esa derivaci6n es necc;;ario tencr primcro algUn cono­
+cimiento de lo que estft pasando. Fundamentalmente. lo que interviene es que si se 
+muevc un objeto en un µunto en el airc, obscrvamos quc hay una pcrturhaci(m que 
+viaja por el aire. Si prcguntamos que clase de perturbaci6n, diriamos que es Jc c~ 
+perar que el movimiento del objeto produzrn un cambio de presion. Desde 
+si el objeto se mueve suavemente, el aire fluye a su alrcdcdor simplcmcntc, 
+que nos interesa es un movimiento nipido, de modo que no hay tiempo 
+para ese flujo. Entonces el aire se comprime con cl movimicnto y 
+cambio de presiOn que empuja mis aire. A su vez, este aire se 
+vuelve a dar una presi6n adicional, y se propaga una onda 
+Ahora queremos formular tal proceso. Tenemos 
+sitamos. En nuestro problcma necesitariamos saber 
+lo quc cl desplazamiento del airc en la onda 
+lcvante. Ademas querriamos describir c6mo 
+que se desp!aza. La presiOn del aire tambien 
+de intcri:s. Naturalmente, el aire tambi6n tiene una 
+que describ!r I~ velocidad de las particulas del airc. 
+tienen aceleracwnes -pero al dar la l1~ta de todas 
+47-4
+
+estas variables, pronto nos damos cuenta que se conoceria la velocidad y la acele­
+raci6n si supii:ramos c6mo varia en el tiempo el desp/azamiento de! aire. 
+Como dijimos, consideraremos la onda en una dimensi6n. Lo podemos hacer 
+si estamos suficientemente lejos de la fuente como para que lo que llamamos Jren­
+tes de onda sean casi pianos. De esta manera sirnplificamos nuestro razonamiento 
+tomando el ejemp!o menos complicado. Entonces podremos decir que el desplaza­
+miento )C s6lo depende de x y de t y no de y o z. En consecuencia la descripci6n del 
+aire esta dada por x<x. l). 
+~Es completa es ta descripci6n? Pareceria que estit muy lejos de serlo, puesto 
+que no conocemos ningim dctalle de c6mo se mueven las moli:culas de! aire. Se es­
+titn moviendo en todas direcciones y ciertamente este estado de cosas no estit des­
+crito con esta funci6n x(x, t). Desde el punto de vista de la teoria cini:tica, si 
+tenemos una dcnsidad mils alta de mo!Cculas en un lugar y una mils baja en la re­
+gi6n adyacente, las moJeculas se mudaran de la regi6n de alta densidad a la de baja, 
+d~ modo que la diferencia se compense. Aparentemente, no obtendriamos una os­
+cilaci6n y no habria sonido. Lo que se necesita para obtener la onda sonora es esta 
+situaci6n: cuando las moli:cu!as se precipitan fuera de la rcgi6n de densidad y pre­
+si6n mas altas, entregan momentum a las mo!eculas de la regi6n adyacente de den­
+sidad m?,s baja. Para quc sc genere sonido, las regiones en las que varian la densidad 
+y la presi6n deben ser mucho mayores que la distancia recorrida por las moli:culas 
+antes de chocar con otras mo\Cculas. Esta distancia es el camino libre medio y la 
+distancia entre !as crestas y valles de presi6n debe ser mucho mayor que eL De otro 
+modo las moJeculas sc moverian libremente de la cresta al valle, a\isando inmedia­
+tamente la onda. 
+Esta claro que vamos a describir el comportamiento del gas en una e~cala gran­
+de respecto al camino libre medio. por lo que las propiedades de\ gas no estaran 
+descritas en terminos de moli:cu!as individua!es. El desplazamiento, por ejemplo, 
+scr:i el dcsplaLamiento del centro de masa de un pequeiio e!emento de! gas y la pre­
+si6n o la densidaJ scrim la presi6n o la densidad en esta regi6n. Llamaremos Pa 
+la presi6n y p a la densidad, y arnbas seran funciones de x y de t. No debemos 
+olvidar quc esta descripci6n es una aproximaci6n valida Unicamente cuando estas 
+propiedades de\ gas no varian demasiado r:ipidamcnte con la distancia. 
+47-3 La ecuaciim de onda 
+La fis1ca del fen6meno de !as ondas sonoras comprende entonces tres carac-
+teristicas: 
+I. El gas se mucvc y varia la densidad. 
+IL La variaci6n de densidad corresponde a una variaciOn de presi6n. 
+III. Las desigualdades de presi6n generan el movimiento del gas. 
+Consideremos primero el punto II. Para un gas, un liquido o un s6lido, la prcsi6n 
+es cicrta funci6n de la densidad. Ante~ de que llegue !a onda sonora, tcnemos equili­
+brio a una pres16n P,. y una densidad correspondiente Pw Una presi6n Pde\ medio 
+esta ligada con la dcnsidad por una relaci6n caractcristica P = f(pJ y, en particular, 
+la presi6n P0 de equilibno esta dada por = J(11,J. En el somdo, las variaciones de 
+presi6n respccto al valor de equilibria extrcmadamentc pequeii:as. Una unidad 
+conveniente para medir presiones es el siendo I bar = !O' N/m.: La presi6n 
+de I atm6sfera patr6n es muy 
+47-5
+
+el sonido usamos una escala logarit­
+oido es aproximadamente logaritmica. 
+cual el :nivel de presi6n acUstica para la 
+I (n1vet de presiOn acUstica) = 20 !og"(P/ Pr.r) en db, (47.1) 
+Po +Po = f(Po + p,) = f(po) + pJ'(Po), (47.3) 
+P. = ilPc. donde K = f'(po) = (dP/dp) 0 . (fl) (47.4) 
+,.,...._ ll(•,I) 
+,~!1t:1:noriginal :~~'.:'... volumen 
+' ' ' ' ' ' 1-i.i(o•d:<,t)--' 
+El desplazamiento del a1re en x 
+en x + .Jx es x(x , Jx, t). El 
+de aire para un area un1taria 
+es i'.l.x; el nuevo volumen es 
+t)-x(x, t). 
+• . Con esta elecci6n de P"1, la P no es la presi6n de pico en la onda sonora sino la presi6n 
+··med!a cuadri!tica", que es l/(2) 112 por la presi6n de pico. 
+47-6
+
+Po 6.x = p[x + 6.x + X(x + 6.x, 1) - x - X(x, t}] ( 47.5) 
+Poll.x = 
+ax ax 
+p,-= -po AX - Pc ;)X' 
+(47.6) 
+(47.7) 
+de modo que 
+!a 
+(47.8) 
+f! y/ <'ix lrente a p,,b xi i\x. Obtc<Jemos asi la rel0.ci6n que ne-
+47-7
+
+sen\ igual a p0!1x(/Yx!Ot 2}. En x tenemos la fuerza en la direcci6n + x. de m6dulo 
+P(x, t) por unidad de area, y en x + fix tenemos la fuerza en direcciOn opuesta, de 
+m6dulo P(x + jx, t) por unidad de area (Fig. 47-4): 
+P(x, t) - P(x + 6.x, t) = - ~~ dx = - ¥;. 6.x, (47.10) 
+ya que ilx es pequeiio y que la lmica pane de P que varia es la presiim en exceso 
+Pe Ahora tenemos III: 
+y as1 tenemos 
+variable, a X 
+a'x 
+Po aiz = - (Ill) (47.11) 
+interconectar las cosas y reducir a una 
+P,. de HJ usando II, con lo que obtenemos 
+(47.12) 
+y lucgo poJemos usar I para eiiminar /le· De este modo encontramos que p, sc sim­
+plifica y nos queda 
+(47.13) 
+Llamaremos c11 = K, por lo quc podcmos escrihir 
+(47.14) 
+Esta es !a ecuaci6n de onda que describe el comportamiento de! sonido en la ma­
+teria. 
+47-4 Soluciones de la ecuaciOn de onda 
+Ahora podemos ver si ecuaci6n describe rea!mente las propiedades esencia­
+Queremos dcducir que un pulso sonoro, o 
+Queremos verificar que dos pul­
+otro ·el principio de superposici6n-. 
+puede ir tanto a la derecha como 
+\es de las ondas sonora~ en 
+perturbaci6n, se mover:i con 
+sos Jiferentes se pueden mover 
+Tambien queremos verificar que 
+quierda. Todas estas propiedades estar contenidas en esta Unica 
+encontramos 
+8 = f"(x - I) (47. !5) 
+47-8
+
+La derivaci6n de es ta misma funci6n respecto a t da -11 por la derivada de la 
+funci6n, o sea 1> xi tit = -vf'(x - vt), y la segunda derivada respecto al tiempo es 
+~ = v2f"(x-vt). (47.16) 
+Es evidente que flx - vt) satisfarii. la ecuaci6n de onda siempre que la veloddad de 
+onda v sea igual a c,. 
+En consecuencia, partiendo de las !eyes de la mecdnica encontramos que cual­
+quier perturbaci6n sonora se propaga con velocidad c, y ademii.s encontramos que 
+c. = K 112 = (dPldp'k/ 2, 
+y asi hemos relacionado la velocidad de onda con una propiedad de! medio. 
+Si consideramos una onda que viaja en direcci6n opuesta, de modo que x(x, t) = 
+frtx + vt), es filcil ver que esa perturbaci6n tambifn satisface la ecuaci6n de onda. 
+La imica diferencia entre una onda de este tipo y una que viaja de izquierda a de­
+recha es el signo de v, pero sea que tengamos x +vi o x-w coma variable en la 
+funci6n, el signo de oixlOt 2 nose altera, ya queen esta s6lo interviene 112• Se sigue 
+que tenemos so!uciones para ondas que se propagan en una u otra direcci6n con velo­
+cidad c,. 
+Una cuesti6n extremadamente importantc es la de la superposici6n. Supongan 
+que se ha encontrado una soluci6n de la ecuaci6n de onda, Xi digamos. Esto sig­
+nifica que la segunda derivada de X• respccto a x es 1/ Cs' por la segunda derivada 
+de x1 respecto a l. Ahora bien, cualquier otra soluci6n tiene la misma propiedad. 
+Si superponemos estas dos soluciones, tenemos 
+X(x, 1) = X 1(X, 1) + X2(X, 1), (47.17) 
+y deseamos verificar que x(x, t) tambien es una onda, es decir que satisface la 
+ecuaci6n de onda. Podemos demostrar fii.cilmente este res1J.ltado, puesto que tenemos 
+(47.18) 
+y ademii.s 
+(47.19) 
+Se sigue que 02 xlhx 1 = (lie~') h2 xl0t>, por lo que hemos verificado el principio de 
+superposici6n. La demostracion de! principio de superposici6n proviene de que la 
+ecuaci6n de onda es lineal en X· 
+Podemos esperar ahora que una onda luminosa plana propag3.ndose en la direc­
+ci6n x po!arizada de modo que el campo elCctrico este en la direcci6n y, satisfaga 
+la ecuaci6n de onda 
+(47.20)
+
+4 ~/ -5 La veloddad del !lonido 
+ecuacilm de onda es una de las consecuen­
+ecuaciones de la electrodinilmica llevariln a 
+como las ecuaciones de la mecitnlca llevan a la 
+onda para d 
+a la rapidez 
+P = const p\ 
+una/6rmu­
+pres1on con 
+(47.21) 
+(47.22) 
+dP/ dp - rPI ri. Para la velocidad del ~onido tenemos en ton-
+TambiCn podemo~ escribir c/ = 
+vemos quc p V es la masa del 
+u, donde m es la masa de una 
+c~ = "!!_. 
+p 
+(47.23) 
+utilizar la relaciOn PV "--- NkT. Ademils 
+puede expresar tambiCn como Nm, o como 
+y ,II es el peso molecular. J::n esta 
+47-10
+
+forma encontramos 
+2 'YkT -YRT 
+c,=--=~· 
+m µ (47.24) 
+SegUn la cual es evidente que la velocidad del sonido depende Unicamente de la tem­
+peratura del gas y no de la presi6n ode la densidad. Tambien hemos observado que 
+(47.25) 
+donde ( 1•2 ) es el promedio de los cuadrados de la velocidad de !as moleculas. Por 
+lo tanto c}""""" (r/3)( r1 ), o sea 
+(47.26) 
+Esta ecuaciOn estab!ece que la velocidad del sonido vale aproximadamente I /(3) 1! 2 
+multiplicado por cierta velocidad media lime de las moleculas (la raiz cuadrada de la 
+media de lm cuadrados de la ve!oddad). En otras palabras, la velocidad del sonldo 
+cs del mismo orden de magnitud que la ve!ocidad de las molecu!as; en realidad es un 
+poco menor que esta velocidad media. 
+Naturalmente que ese resultado era de esperar, porque una perturbadOn ta! 
+como una variaciOn de presilm se propaga, despuCs de todo. debido al movimiento 
+de la~ moleculas. Sin embargo, csc argumento nos da la velocidad precisa de propa­
+gaciOn: podria haber resultado que el sonido fuese transportado principalmente por 
+las molCculas mas rftp1das, o por las mils lentas. Es razonable y satisfactorio que !a 
+vcloc1dad del somdo sea aproxunadamente l de la velocidad molecular media l'mc 
+47-11
+
+48 
+Pulsaciones 
+48-1 Sumando dos ondas 48-5 Amplitudes de prohabilidad para 
+48-2 Notas pulsadas y modulaciOn particulas 
+Bandas iaterales 48-6 Ondas en tres dimensiones 
+48-3 
+Trenes de ondas localizados 48-7 Modos normales de vibraci6n 48-4 
+48-1 Sumando dos ondas 
+Hace algU:n tiempo discutimos con mucho detalle las propiedades de las ondas 
+de luz y su interferencia --esto es, los efectos de la superposici6n de dos ondas pro­
+venientes de fuentes diferentes-. En todos estos anillisis supusimos que las frecuen­
+cias de las Fuentes eran iguales. En este capitulo discutiremos algunos de los fenO­
+menos que resultan de la interferencia de dos fuentes que tienen frecuencias diferentes. 
+Es faci! imaginarse Jo que va a pasar. Procediendo de la misma manera que an­
+tes, supongan que tenemos dos fuentes oscilantes iguales de la misma frecuenda 
+cuyas fases estiln ajustadas de modo ta!, Cigamos, que las seiiales Hegan en fase a 
+a!gim punto P. En dicho punto, si se trata de luz, la luz es muy intensa; si se trata 
+de sonido, es muy fuerte; o si de electrones. Hegan muchos de el!os. Por otro !ado, 
+si las seriales que Hegan estuviesen defasadas 180°, no obtendriamos serial en P, 
+ya que la amplitud total es entonces un mlnimo. Supongan ahora que alguien gira 
+el ''bot6n de fase" de una de las fuentes y cambia la fasc en P hacia adelante y ha" 
+cia atrii.s, digamos, haciendola primero 0°, luego 180° y asi sucesivamente. En este 
+caso encontrariamos, naturalmente, variacioncs en la intensidad de la sei'ial total. 
+Pero tambi6n vcmos que si la fase de una fuente varia lentamente con rc!aci6n a la 
+de otra de una manera uniforme y gradual, cmpezando en cero, subiendo a diez, 
+veinte, treinta, cuarenta grados, etc., entonces lo que mediriamos en P serla una serie 
+de "pulsaciones" fuertes y dCbiles, puesto que cuando la fase se mueve en 360° la 
+amp!itud vuelve a un m<lximo. Naturalmente, decir que una fuente est3 variando su 
+fase relativa a otra fuentc a una velocidad uniforme, es lo mismo que dccir quc el 
+nllmero de oscilaciones por segundo cs Jevemente difcrente para las dos. 
+A~i, sabemos la rcspuesta: si tenemos dos fuentc~ con frecucncias levcmente 
+diferentes encontrariamos, como resultado neto, una oscilaci6n con una !enta inten­
+sidad pulsantc. jEsto es, rea!mente, todo lo que hay respccto a csta materia! 
+48-1
+
+Fig. 48-1 Superpos1c16n de dos on-
+das coseno1dales cuyas amplitudes estan 
+en la relac16n 8: 10. La repe11c16n exacta 
+del d1agrama dentro de cada "pulsac16i:i". 
+noestip1ca del caso general 
+TambiCn es muy fiicil formu!ar matemiiticamente este resultado. Supongan, por 
+ejemplo, que tencmos dos ondas y analizamos simplemente lo que llega a P, sin 
+preocuparnos por el momento de todas !as relaciones espaciales. De una fuente, di­
+gamos, tendrlamos cos w 1t y de la otra cos w 2t, donde las w no son :.:xactamentc 
+iguales. Naturalmente las amplitudes podrian no ser iguales tampoco, pero podemos 
+resolver el problema general m3.s tarde; tenemos primero el caso en que las ampli­
+tudes son iguales. Entonces, la amplitud total en P es la suma de esos dos cosenos. 
+Si representamos las amplitudes de !as ondas en funci6n de! tiempo, como en la figu­
+ra 48-1, vemos que donde las crestas coinciden obtenemos una onda fuerte y donde 
+coinciden una cresta y un valle obtenemos priicticamente cero y cuando vuelvcn a 
+coincidir las crestas obtenemos de nuevo una onda fuerte. 
+Matemitticamente, necesitamos sotamente sumar dos cosenos y arreglar el resul­
+tado de alguna forma. Existe una cantidad de relaciones Utiles entre los cosenos, 
+que no son dificiles de derivar. Naturalmente sabemos que 
+(48.1) 
+y que eia tiene una parte real, cos a, y una parte imaginaria, sen a. Si tomamos la 
+parte real de eifa+b), obtenemos cos (a + b). Si efectuamos la multiplicaci6n 
+e'ae•b =(cos a+ isena)(cosb + isenb), 
+obtenemos cos a cos b - sen a sen b, mfts algunas partes imaginarias. Pero ahora 
+necesitamos solamente la parte real, o sea 
+cos(a + b) = cosacosb - senasenb. (48.2) 
+Ahora bien, si camhiamos el signo de b, como el coseno no cambia el signo y el 
+seno si, la misma ecuaciOn para b negativo es 
+cos(a - b) = cosacosb + senasenb. (48.J) 
+48-2
+
+Si sumamos estas dos ecuaciones, desaparecen los senos y vemos que el producto 
+de dos cosenos es un media del coseno de la suma mils un medio de! coseno de la 
+diferencia: 
+cos a cos b = ! cos (a + b) + ~cos (a - b). (48.4) 
+Ahora podemos invertir la f6rmula y encontrar una para cos a '+ cos fJ si ha­
+cemos simplemente a= a+ by fJ =a - b.Estoes,a ={(a+ {J)y b ={(a - fJ), 
+de modo que 
+cos a+ cos (3 = 2 COS !(a + (3) cos !(a - (3). (48.5) 
+Podemos ahora analizar nuestro problema. La suma de cos w 1t y cosw1t es 
+Pero supongamos que las dos frecuencias son casi iguales, de modo que !('£<11 + wJ 
+es la frecuencia promedio y es, mils o menos, igual a ambas. Pero w 1 - w 2 es mucho 
+menor que w 1 o M 2 porque, como supusimos, w 1 y w 2 son casi iguales. Esto significa 
+que podemos representar la soluci6n diciendo que hay una onda cosenoidal de alta 
+frecuencia mils o menos como las que teniamos, pero que su "tamaii.o" varia despacio 
+~~o:·t~:~~: ~:::e~~i~~01~ 0;u~0~ ~~~er:;ap~~:c~~:e~~t~~nq~ee(/s~) dic~tu~ 
+la amplitud varia como cos ,Yw1 - wJ lo que realmente nos estil diciendo es que 
+las oscilaciones de alta frecuencia estitn contenidas entre dos curvas cosenoidales 
+opuestas (las de trazos en la figura 48-1 ). Basitndose en es to se podria decir que la 
+amplitud varia a la frecuencia i('w1 - wJ, pero si hab\amos de la intensidad de la 
+onda, debemos considerar que tiene el doble de esta frecuencla. Es decir, la modu­
+laci6n de la amplitud, en el sentido de la magnitud de su intensidad, es a la frecuencia 
+w 1 - w 1 , aunque la f6rmula nos diga que multiplicamos por una onda cosenoidal a 
+mitad de dicha frecuencia. La base tOCnica de esa diferencia es que la onda de alta 
+frecuencia tiene una relaci6n de fase un poco diferente en el segundo semiciclo. 
+Ignorando esta pequeiia complicaci6n, podemos concluir que si sumamos dos 
+ondas de frecuencias w 1 y w 2, obtendremos una onda resultante de frecuencia pro­
+medio ¥ w 1 + wJ que oscila en in_tensidad con una frecuencia w 1 - w 1. 
+Si las dos amplitudes son diferentes, lo podemos volver a hacer todo de nuevo 
+multiplicando los cosenos por amplitudes diferentes A 1 y A 2 y hacer muchas opera­
+ciones, reordenando, etc., usando ecuaciones como (48.2}-(48.5). Sin embargo, hay 
+otras maneras mils fil.ciles de efectuar el mismo anil.lisis. Por ejemplo, sabemos que 
+es mucho mils fad\ trabajar con exponenciales que con senos y cosenos y que po­
+demos representar A1 cosw 1t como la parte real de A1e1t,.,1. La otra onda seria ami.­
+logamente la parte real de A2e1"'>1. Si las sumamos, obtenemos A 1fiw,1 + A 2e'w,t. Si 
+sacamos factor comlln la frecuencia promedio, obtenemos 
+Tenemos de nuevo la onda de alta frecuencia con una modulaci6n a la frecuencia 
+mils baja. 
+48-3
+
+48·2 Notas pulsadas y modulaciOn 
+Si nos preguntan ahora por la intensidad de la onda de la ecuaciOn (48.7), po­
+demos tomar o el mOdulo al cuadrado del primer miembro o el de! segundo. Tome­
+mos el de! primer miembro. La intensidad es entonces 
+Vemos que la intensidad se infla y se desinfla a una frecuencia w 1 ~ wi, variando 
+entre los Jirnites (A 1 + AJi y (A 1 ~ AJ1. Si A 1 '* Ai, la intensidad minima no es 
+fig. 48-2. Resultante de dos vecto­
+res complejos de 1gual frecuencia. 
+~· 
+7 8 
+Fig. 48-3. Resultante de dos vecto­
+res complejos de frecuenc1a des1gual. 
+vista desde el sistema dereferenc1a rotan­
+te de un vector. Se muestran nueve pos1-
+c1ones suces1vas del vector que rota 
+lentamente. 
+Otra manera de representar esta idea es mediante un dibujo, como e! de la figura 
+48-2. Dibujando un vector de longitud A 1 que rota a una frecuencia w 1 para repre­
+sentar una de las ondas en el piano complejo. Dibujamos otro vector de longitud 
+Ai que rota a una frecuencia wi para representar la segunda onda. Si las dos fre­
+cuencias son exactamente iguales su resultado tiene una longitud fija y sigue rotan­
+do, y obtenemos de las dos una intensidad fija y definida. Pero si las frecuencias 
+son levemente diferentes, los dos vectores complejos rotan con velocidades diferen­
+tes. La figura 48-3 muestra a que se parece esta situaciOn con relaciOn al vector 
+A 1eJw,1• Vemos que A 2 gira apartilndose lentamente de A 1 y asi la amplitud que ob­
+tenemos sum<indolos, es primero fuerte y luego, a medida que se aleja, cuando la 
+posiciOn relativa es de 180" la resultante se hace particularmente debil, y asi suce­
+sivamente. A medida que los vectores rotan, la amplitud del vector suma se hace 
+mayor y menor y de este modo la intensidad pulsa. Es una idea relativamente simple 
+y hay muchos modos diferentes de representarla. 
+Es muy filcil observar experimentalmente el efecto. En el caso acU.stico, podemos 
+disponer dos altoparlantes accionados por dos osciladores individuales, uno por 
+cada altoparlante, de modo que cada uno de ellos da un tono. Asi, recibimos una 
+nota de una fuente y otra nota diferente de la otra fuente. Si hacemos que las fre­
+cuencias sean exactamente iguales, el efecto resultante tendril una intensidad defi­
+nida en una posiciOn dada 
+48-4
+
+de! espacio. Si entonces Jos desintonizamos un poquito, apreciamos ciertas variacio­
+nes en la intensidad. Cuanto mis los desintonizamos, mas r<ipidas son las variacio­
+nes de sonido. El oldo tiene alguna dificultad en seguir variaciones mis ripidas que 
+unas diez por segundo. 
+Tambi6n podemos observar el efecto en un osciloscopio que dcsdobla simp!e­
+mente la suma de tas corrientes que entran a \os dos altoparlantes. Si la frecuencia 
+de pulsaci6n es relativamente baja, vemos sencillamente un tren de ondas sinusoidal 
+cuya amplitud pulsa, pero cuando hacemos las pulsaciones mis rtipidas vemos la 
+clase de onda que muestra la figura 48-1. Cuando hacemos las diferencias de fre­
+cuencia mayores, las "jorobas" se mucvcn mas juntas. Tambi6n, si las amplitudes 
+no son iguales y hacemos una sefial mas fuerte que la otra, entonces obtenemos 
+una onda cuya amplitud no se hace nunca cero, que es exactamente Jo que espera­
+mos. Todo marcha como es debido, tanto acllstica como e!Cctricamente. 
+jEI fen6meno opuesto tambiCn se da! En radiotransmisi6n, usando la llamada 
+modulaci6n de amp!itud (AM), la estaciOn de radio emite el sonido como sigue: el 
+radiotransmisor tiene una oscilaci6n e!Cctrica CA a una frecuencia muy alta, por 
+ejemplo 800 ki!ociclos por segundo, en la banda de emisi6n. Si se pone a funcionar 
+esta seiial portadora, la estaci6n de radio emite una onda de amplitud uniforme a 
+800.000 oscilaciones por segundo. La manera de transmitir la ·•informaci6n ", el 
+tipo inUtil de informaci6n acerca de qu6 clase de autom6vil comprar, es que cuando 
+aJguien habla por el micr6fono la amplitud de la sefial portadora cambia al comptis 
+de las vibraciones acllsticas que entran en el micr6fono. 
+tomamm como el caso matemitico mils simple la situaci6n en que una soprano 
+dando una nota perfecta, con oscilaciones sinusoidales perfectas de sus cuerdas 
+vocales, obtenemos entonces una seii.al cuya intensidad varia como muestra Ia figura 
+48"4, La alternaci6n de la audiofrecuencia se recobra entonces en el receptor; nos 
+libramos de la onda portadora y solamente consideramos la envolvente, que repre-
+las osci!aciones de las cuerdas voca!es o sonido de la cantante. El altoparlante 
+vibraciones correspondientes a la misma frecuencia en el aire y el oyente es esen­
+cialmente incapaz de distinguir Ia diferencia, eso es lo que dicen. Debido a un nUmero 
+de distorsiones y otros efectos sutiles es posible, en realidad, decir si estamos escu­
+chando la radio o una soprano en persona; de todos modos la idea es la que hemos 
+indicado. 
+~~7\tirnJr !T[jJSl'ijl 
+48"3 Bandas laterales 
+Fig. 48-4. Una onda portadora rnodulada 
+En este dibujo esquemiltico, «•clu!m = 5. En 
+una onda real de radio, ("ci Wm ~ 100. 
+Matemilticamente. la onda modulada descrita anteriormente se expresaria en la 
+S = (I + b COS w,,.t) COS w0 t, (48.9) 
+donde LI\, representa la frecuencia de la portadora y <.1m es la frecuencia de audio. De 
+48-5
+
+nuevo usamos todos Jos teoremas de los cosenos, o podemos usar eiO; da igual -es 
+mas facil con e10 , pero es lo mismo. Tenemos entonces 
+S = COS Wei + !b COS (We + Wm)I + tb COS (we - Wm)!. (48.10) 
+Asi, desde otro punto de vista podemos decir que la onda de salida de! sistema 
+consiste en tres ondas superpuestas: primero, la onda regular de frecuencia w,., es 
+decir frecuencia de la portadora. y luego dos ondas nuevas a dos frecuencias nuevas. 
+Una es la frecuencia portadora mas la frecuencia de modulaci6n y la otra es la fre­
+cuencia portadora menos la frecuencia de modulaci6n. Por lo tanto, si hacemos una 
+especie de representaci6n de la intensidad generada por el generador en funci6n de la 
+frecuencia, encontrariamos una gran cantidad de intensidad a la frecuencia de la por­
+tadora, natura!mente, pero cuando un cantante empieza a actuar tambien encontra­
+riamos de repente intensidad proporcional a la intensidad del cantante h; a frecuencias 
+we + u.im y we- wm, como muestra la figura 48-5. Esto es lo que se Uama bandas la­
+/era/es; cuando hay una seiial modulada proveniente del transmisor, hay bandas late­
+rales. Si hay mas de una nota al mismo tiempo, digamos wm y wm·, hay dos instru­
+mentm tocando. o si hay cualquier otra onda complicada con cosenos, entonces por 
+supucsto podemos ver matematicamente que obtenemos mas ondas que corresponden 
+a las frecuencias ,,,, + 
+Fig. 48-5. Espectro de frecuencia de 
+una onda portadora "ic modulada por una 
+Un1ca onda coseno1dal "'m· 
+Por lo tanto, cuando hay una modulaci6n complicada que se puede representar 
+como la suma de varios cosenos•, encontramos que el transmisor n;:al esta transmi· 
+tiendo en un intervalo de frecuencias, es decir !a frecuencia portadora mas o menos 
+la frecuencia milxima que cont1ene la seiial de modulaci6n. 
+Aunque al princ1pio podamos pensar que un radiotransmisor transmite solamente 
+a !a frecuencia nominal de la portadora, puesto que hay grandes y superestables os" 
+ciladores de cristal y todo esta ajustado para que sean precisamente 800 kilociclos des­
+de el momenta en que alguien anuncie que estan a 800 kilociclos, modula los 800 ki­
+lociclos y por consiguiente jya no estan precisamente a 800 kilociclos! Supongan que 
+• Una pequeila nota al margen: i.En que circunstancias se puede rcpresentar una curva 
+como suma de un gran numero de cosenos? Respuesra: En todas las c1rcunstancias ordinarias, 
+excepto para ciertos casos que los matemitticos pueden inventar. N aturalmente. la curva debe 
+tener solamente un valor en un punto dado, y no debe ser una curva loca quc salta un numero 
+inlinito de veces en una distancia infinitesimal, o algo parecido. Pero aparte de estas restncciones. 
+cualquier curva razonable (una que un cantante es capaz de hacer agitando sus cuerdas vocales) 
+siempre se puede componer sumando onda~ cosenoidales. 
+48-6
+
+Jos amplificadores estim construidos en tal forma que transmitan en un buen inter­
+valo de la sensibilidad del oido (el oido puede percibir hasta 20.000 ciclos por segun­
+do, pero corrientemente los transmisores y receptores de radio no trabajan mas allil 
+de 10.000, por lo que no oimos las partes m:is altas), entonces. cuando un hombre 
+habla, su voz puede contener frecuencias mils altas. digamos. que !0.000 ciclos. por lo 
+que el transmisor esta transmitiendo frecuencias que pucden ir desde 790 hasta 810 
+kilociclos por segundo. Ahora bien, si hubiese otra estaci6n a 795 kc/seg .. habria 
+mucha confusi6n. Tambien, si hicieramos nuestro receptor tan sensible que sola­
+mente tomase 800 y no los IO kilociclos de ambos !ados, no oiriamos lo que el hom­
+bre dijese, iYa que la informaciOn estaria en esas otras frecuencias! Por lo tanto, es 
+absoJutamente esencia! colocar las estaciones algo separadas para que sus bandas 
+laterales no se superpongan y ademas el receptor no debe ser tan selectivo que no 
+permita la recepci6n de las bandas laterales asi coma de la frecuencia nominal prin­
+cipal. En el caso de! sonido, este problema no causa realmente mucha dificultad. 
+Podemos oir en un rango de ± 20 kc/seg y corrientemente tenemos desde 500 has­
+ta 1.500 kc/seg en la banda de emisi6n, por Jo que hay lugar suficiente para muchas 
+estaciones. 
+El problema de la televisi6n es mas dificil. Cuando el haz electr6nico atraviesa 
+la carga de! tubo de imagen, hay varias manchas pequeiias de luz y sombr . Esta 
+"Juz"' y "sombra"' es la "seiial'". Ahora bien, el haz barre de ordinario toda la imagen. 
+500 lineas. en una trigesima parte de segundo aproximadamente. Consideremos que la 
+resoluci6n de la imagen vertical y horizontalmente es mas o menos igual, por lo que 
+hay el mismo nUmero de manchas por centimetro segUn una linea de barrido. Quere­
+mos ser capaces de distinguir sombra de luz, sombra de \uz, sombra de luz. en 500 
+lineas digamos. Para que podamos hacer esto con ondas cosenoida!es, la mils pequeiia 
+longitud de onda que se necesita corresponde entonces a una longitud de onda. de ma­
+xima a maximo, de una 250-ava parte del tamai'to de la pantalla. De este modo tene­
+mos 250 x 500 x 30 informaciones por segundo. La frecuencia mas alta que vamos 
+a transportar, por lo tanto, es pr6xima a 4 megaciclos por segundo. En la realidad. 
+para conservar las estaciones de televisi6n independientes tenemos que usar un poqui­
+to mas que esto, alrededor de 6 me /seg; parte se usa para llevar la sei'ta! de sonido 
+y otra informaci6n. Por lo que los canales de televisi6n tienen seis megaciclos por 
+segundo de anchura. Ciertamente no seria posible transmitir TV en una portadora de 
+800 kc /seg, ya que no podemos modular a una frecuencia mas alta 4ue la portadora. 
+De cualquier modo, la banda de televisi6n comienza en 54 megaciclos. El primer 
+canal de transmisi6n, que es el canal 2 (?). tiene un intervalo de frecuencias desde 54 
+hasta hasta 60 mc/seg, que da 6 mc/seg de anchura. "Pero -podria decir alguien­
+acabamos de probar que habia bandas laterales a ambos !ados, y por Jo tanto deberia 
+ten::r anchura doble." Resu\ta que los ingenieros de radio son bastante inteligentes. Si 
+analizamos la sefial de modulaci6n usando terminos en senos y cosenos en lugar de 
+s61o cosenos, para permitir diferencias de fase, vemos que hay una reJaci6n invariante 
+definida entre la banda lateral en el !ado de la alta frecuencia y la banda lateral en 
+el lado de la baja frecuencia. Loque queremos decir es que no hay informaci6n nueva 
+en la otra banda lateral. Asi, lo que se hace es suprimir una banda lateral y el receptor 
+estit conectado dentro en una forma tal que la infonnaci6n omitida se reconstituye 
+examinando la Unica banda lateral y la portadora. La transmisi6n de banda lateral 
+Unica es un esquema inteligente para disminuir los anchos de banda necesarios para 
+transmitir informaci6n. 
+48-7
+
+48-4 T renes de ondas localizados 
+El pr6ximo tema que discutiremos es la interferencia de ondas en el espacio y en 
+el tiempo. Supongan que tenemos dos ondas viajando en el espacio. Sabemos, natu­
+ralmente, que podemos representar una onda que viaja en el espacio mediante 
+e(i,.,1-kx). Esto podria ser, por ejemplo, el desplazamiento de una onda de sonido. Es una 
+soluciOn de la ecuaci6n de onda siemprequew 2 = k2&, dondecesla velocidad depro­
+pagaciOn de la onda. En este caso lo podemos escribir en la foram etk(x·ct), que es de 
+Ja·forma generalj{x- ct). Por lo tanto, Csta debe ser una onda que estil viajando a es­
+ta velocidad, w/k, que es c y todo estil bien. 
+Ahora queremos sumar dos de estas ondas. Supongan que tenemos una onda que 
+estit viajando con una frecuencia y otra onda viajando con otra frecuencia. Dejamos 
+al !ector la consideraci6n de! caso en que las amplitudes son diferentes: no hay dife­
+rencia sustancial. Nosotros queremos efectuar ei6,,,i-k,x) + ei(w,1-k,x). Podemos hacerlo 
+usando la misma matemittica que cuando sum3.bamos ondas de sei'\al. Naturalmente 
+que si c es la misma para ambas esto es facil, puesto que es id6ntico a lo que hicimos 
+antes: 
+ei"'i(l-:./c) + ei"'2(l-x/c) = e""i!' + ei"2'', (48.11) 
+excepto que ahora la variable est'= t-x/c en lugar de t. Asi, obtenemos !a misma 
+clase de modu!aciones. pero vemos, natura!mente, que estas modulaciones se estim 
+trasladando con la onda. En otras palabras, si sumilsemos dos ondas y estas ondas no 
+s6lo estuviesen oscilando sino tambi6n movl6ndose en el espacio, entonces la onda 
+resultante tambien se trasladaria en el espacio a la misma velocidad. 
+Ahora querriamos generalizar esto al caso de ondas en las que la relaci6n entre la 
+frecuencia y el nUmero de ondas k no sea tan simple. Ejemplo: un material que tenga 
+un indice de refracci6n. Ya estudiamos la teoria del indice de refracci6n en cl capitulo 
+31. donde encontramos que podiamos escriblf /.. 11<0/c, siendo 11 el indice de refrac­
+ciOn. Como ejemplo mteresante. encontramos que para los rayos X el indice 11 es 
+(48.12) 
+Dedujimos realmente una formula mils complicada en el capitulo 31, pero como ejem­
+plo Csta es tan buena como cualquiera. 
+Entrc parCntesis, sabemos que aim cuando u1 y /.. no son proporcionales linea\­
+mente, el cociente r,1/k es ciertamente la vclocidad de propagaci6n para una frecuen­
+cia y nUmero de ondas particulares. 
+Llamamos relocidad de jGse a este cociente: es la veloc1dad a la que la fase, o los 
+nodos de una lmica onda. se trasladarian: 
+(48.13) 
+Esta velocidad de fase, para el caso de los rayos X en vidrio, es mayor que la veloci­
+dad de la luz en el vacio (ya que n en 48.12 es menor que I), y esto es un poco incO­
+modo, porque jno creemos que se pueda enviar seiiales mas r:ipido que la velocidad 
+de la luz! 
+48-8
+
+Lo que vamos a discutir ahora es la interferencia de dos ondas en las que "' y /.:. 
+tienen una f6rmula definida quc las relaciona. La f6rmula anterior para n dice que k 
+estit dado como una funci6n dcfinidau de M. Para scr precisos, en este problcma par­
+ticular la formula para/.:. en funci6n de 10 es 
+(48.14) 
+donde a= Nq~/2t 0 m, es una constante. De cualquier modo, para cada frecuencia 
+hay un nfunero de onda definido y queremos sumar dos de estas ondas. 
+Hagilmoslo exactamente como hicimos en la ecuacion (48. 7 ): 
+Tem:mo~ de nue\O una onda modulada. una onda que viaja con la frecuencia pro 
+media y el nllmero de onda promedio. pero cuya intensidad est.it variando con una 
+forma que depend..:: de la frec1;1encia difcrencia y de! nUmero de onda difcrencia. 
+T omemos ahora el caso en que la diferencia entre las dos ondas es rclativamente 
+pequefia. Supongamos que estamos sumando dos ondas cuyas frecuencias son casi 
+iguales; entonces (w 1 + w2)/2 es prilcticamente igual a cualquiera de las dos ,,_, y lo 
+mismo ocurre con (/.:.1 + /.:.2)/2. Entonces !a velocidad de la onda, de las oscilaciones 
+rftpidas, de !os nodos, es esencialmente r,i/k. Pero, ojo, jla velocidad de propagaci6n 
+de la modulaci6n no es la misma! ;,Cuilnto tenemos que cambiar x para dar cuenta 
+de cierta cantidad de t? La velocidad de esta onda de modulaci6n es el cociente 
+(48.16) 
+La velocidad de modulaci6n se llama algunas veces i·elocidad de grupo. Si tomamos 
+el caso en que la diferencia de frecuencia es relativamente pequciia y la difercncia de 
+nUmero de onda es entonces tambii:n relativamcnte pequeiia. esta cxpresi6n tiende en 
+.:l limitea 
+(48.17) 
+En otras palabras, para la modu1aci6n mils lenta para las pulsaciones mas lentas,hay una 
+velocidad definida a la que viajan que no es igual a la velocidad de fase de las ondas 
+-jque cosa tan misteriosa! 
+La velocidad de grupo es la derfrada de r,i respecto a k y la velocidad de Jase es 
+w/k. 
+Veamos si podemos emender el porque. Consideren dos ondas, de nuevo con lon­
+gitudes de ondas levemente diferentes, como en la figura 48-1. Estiln defasadas, en 
+fase, defasadas, y asi sucesivamente. Pero estas ondas representan, realmente, ondas 
+en el espacio que viajan con frecuencias levemente diferentes tambii:n. Ahora bien, ya 
+que la velocidad de fase, velocidad de los nodos de estas dos ondas, no es precisamen­
+te la misma, sucede algo nuevo. 
+48-9
+
+Supongan que cabalgamos sobrc una de las ondas y miramos la otra; si ambas 
+fuesen a la misma velocidad, entonces la otra onda permaneceria con la misma posi­
+ci6n respecto a nosotros, segUn cabalgamos en la cresta. Caba!gamos en esta Cresta 
+y justo frente a nosotros vemos una cresta; si las dos velocidades son iguales las dos 
+crestas permanecen una encima de otra. Pero no es asi: las dos velocidades no son 
+realmente iguales. Hay solamente una pequefia diferencia de frecuencia y por lo tanto 
+solamente una pequeiia diferencia de ve!ocidad, pero a causa de esta diferencia de ve­
+locidad, a medida que cabalgamos, la otra onda se mueve despacio hacia adelante. 
+digamos, o hacia atr<'ts, con relaci6n a nuestra onda. Asi, segUn pasa el tiempo, lque 
+sucede al modo? Si movemos un tren de ondas s6lo un ilpice hacia adelante, el nodo 
+se mueve hacia adelante (o hacia atr<'ts) una distancia considerable. Es decir, la suma 
+de estas dos ondas tiene una envolvente, y a medida que las ondas avanzan, la envol­
+vente cabalga sobre ellas a una ve!ocidad diferente. La velocidad de grupo es la velo­
+cidad a la que se transmitirian las seiiales moduladas. 
+Si hiciesemos una setlal, decir una especie de cambio de la onda quc sc pudiese 
+reconocer cuando ~e la una cspecie de modulaci6n, entonces esta modula-
+ci6n viajaria siempre que las modu!aciones fucsen relati· 
+vamente lentas. mucho m.is dificil hacer el anillisis.) 
+Ahora podemos mostrar (por fin) que la velocidad de propagaci6n de los rayos X 
+en un bloque de carbono no es mayor que la velocidad de la luz, aunque la velocidad 
+de fase es mayor que la velocidad de la luz. Para hacer esto, debemos encontrar 
+dw/dk que obtenemo1> denvando (48.14): dk/dw = l /c + a/w 2 c.La velocidad de gru­
+po, por lo tanto. es la mver5a, o sea, 
+' Vu= 1 + a/w2' (48.18) 
+jque es menor que c! Asi, aunque las fases pueden viajar mils n'l.pido que la velocidad 
+de la luz, las seriales de modulaci6n viajan mis despacio, y jesta es la soluci6n de la 
+paradoja aparente! Naturalmente que 1>i tcncmos el caso simple en que U! =-- kc, en­
+tonces dw/dk es tambien c. Por lo tanto, cuando todas las fases tienen la misma velo­
+cidad, el grupo tiene por supuesto la misma velocidad. 
+48-5 Amplitudes de probabilidad para particulas 
+Consideremos ahora un ejemplo m:is de la velocidad de fase que es en extrema 
+interesante. Tiene que ver con la mec.inica cuantica. Sabemos que la amplitud de en­
+contrar una particula en el lugar puede variar, en algunas circunstancias, en el e1>pacio 
+yen el tiempo, digamos queen una dimcnsi6n. en la siguiente forma: 
+(48.19) 
+donde 1,1 es !a frecuencia, que se relaciona con la idea cl:isica de cncrgla mediante 
+E - ffo1. y k cs el nUmero de onda. que sc rclaciona con el momentum mediante 
+p = hk. Dir·amos que la particula tiene un momentum definido psi el numero de onda 
+fuese exactamente k, esto es, una onda perfecta que marcha con la misma amplitud 
+en todos lm lugares. La ecuaci6n (48.19) da la amplitud y si tomamos cl cuadrado 
+del m6dulo. obtenemos la probabilidad relativa de encontrar !a particula en funciOn 
+de la posici6n 
+48-10
+
+y del tiempo. Es una constante, que indica que la probabilidad de encontrar una par­
+ticula en cualquier lugar es la misma. Supongan ahora, por el contrario, que tenemos 
+una situaci6n donde sabemos que es mils probable que la particula este en un lugar 
+que en otro. RepresentarLamos ta! situaci6n por una onda que tiene un m:iximo y se 
+anula por ambos !ados (Fig. 48-6). (No es bastante parecido a una onda como (48.1) 
+que tiene una serie de m<lximos, pero es posible anular todos los m:iximos excepto uno 
+sumando ondas de casi los mismos w y kJ 
+Fig. 48-6. Un tren de ondas localizado. 
+Ahora bien, en estas circunstancias, puesto que el cuadrado de (48.19) representa 
+la probabilidad de encontrar una particula en algUn lugar, sabemos queen un instante 
+dado es mils probable que la particu\a se encuentre cerca de! centro de! '"mont6n" 
+donde la amplitud de la onda es m:ixima. Si esperamos ahora unos instantes, las ondas 
+se mover0.n y despues de alglln tiempo el '·mont6n" estarit en algtin otro lugar. Si su­
+pi6semos que !a particu!a originalmente estaba situada en algtin lugar, clitsicamente 
+esperariamos que mils tarde estuviese en otro lugar como cosa sabida. porque despuCs 
+de todo tiene una velucidad y un momentum. La teoria cu.imtica se reducirit entonces 
+a la teoria correcta para la relaci6n de momentum, energia y velocidad, solamen­
+te si la velocidad de grupo, velocidad de la modulaci6n, es igual a la ve\ocidad que 
+obtendriamos clitsicamente para una particula de id6ntico momentum. 
+Ahora es necesario demostrar si este es o no el caso. SegUn la teoria cl<lsica, la 
+energia se relaciona cop la velocidad mediante 
+me' E~---. 
+V~v2/c2 (48.20) 
+Del mismo modo, el momentum es 
+(48.21) 
+Esta es la teoria cl<isica y como consccuencia de ella. eliminando 1', podemos ver que 
+Este es el gran resultado cuadridimcnsional de! que hemos estado hablando v hablan 
+do: que p,.pµ = 111: esta cs la relacion entre energia y momentum en !a tcori'a cbsica. 
+Pero esto significa. puesto que estas E y p van a ser ,,, y k, sustituyendo E = fi,,) y 
+p = Ilk, que para la mecitnica cuimtica es necesario que 
+(48.22)
+
+Lsta es, pues, la relacion entre la frecuencia y el nllmero de onda de una onda cuitn­
+tica de amplitud que representa una particula de masa m. De esa ecuaci6n podemos 
+deducir que <o es 
+jAqui de nuevo la velocidad de fase, t.1/k, es mayor que la velocidad de la luz! 
+Considcremos ahora la ve\ocidad de grupo. La velocidad de grupo deberia ser 
+dw/dk, 'velocidad a la que se mueven las modulaciones. Tenemos que derivar una 
+raiz cuadrada. lo cua! no es muy dificil. La derivada es 
+dw kc 
+dk = v'k2 + m2c2/h2 · 
+Pero la raiz cuadrada es despuCs de todoro. por lo que podemos escribir esto en laforma 
+dtu/d/,. - c2 k/v1. Mils aun k/«1 esp/E, por lo que 
+V9=$· 
+Pero de acuerdo con (48.20) y (48.2l)c 2p/E = v, velocidad de la particu\a seglln la 
+mec3.nica clitsica. Asi, vemos que la relaci6n cu:intica fundamental E = fiw y p = fik 
+para la identificackm de to y k con los E y p clii.sicos, solamente produce la ecuaci6n 
+w 2 -k2c2 = m1c4 /h1, mientras que ahora tambien entendemos las relaciones (48.20) y 
+(48.21) que relacionan E y p con la velocidad. La velocidad de grupo, natura\mente, 
+debe ser la velocidad de la particula si es que la interpretaci6n va a tener alglm sentido. 
+Si pensamos que la particula estil aqui en un instante y luego diez minutos mils tarde 
+pensamos que est8. allil, como dijo la mecfillica cu.ii.ntica, la distancia recorrida por 
+el "mont6n" dividida por el intervalo de tiempo debe ser, clisicamente, la velocidad 
+de la part[cula. 
+48-6 Ondas en tres dimensiones 
+Concluiremos ahora nuestra discusi6n de las ondas con unas pocas observaciones 
+generales acerca de la ecuaci6n de onda. Se pretende con estas observaciones dar una 
+visi6n del futuro -no es para que podamos entender todo exactamente ahora mismo, 
+sino mils bicn vcr q ue as pee to van a ten er las cos as cu an do estudiemos ondas un poco 
+mas-. Ante todo. la ecuaci6n de onda para el sonido en una dimensi6n era 
+de cualquier cosa que sea !a onda -en el caso del sonido, es 
+en el caso de la luz, e~ la velocidad de la luz-. Demostramos 
+que para una de somdo lo~ dcsplazam1entos sc propagarian a una cierta vcloci­
+dad. Pero el exce~o de presi(m tamb1Cn se propaga a una cierta velocidad y lo mismo 
+ocurre con el exceso de densidad. Por ello, deberiamos espcrar que la presiOn satis­
+ficiese la misma ecuac16n, como ocurrc en realidad. 
+48-12
+
+Se lo dejaremos al lector para que lo demuestre. Sugerencia: Pe es proporcional a la ra­
+pidez de variaci6n de x respecto ax. Por lo que si derivamos la ecuaci6n de onda respec­
+to a x, descubriremos inmediatamente que ~I 0 x satisface la mis ma ecuaci6n. Es decir 
+que Pe satisface la misma ecuaci6n. Pero Pe es proporcional a Pe y en consecuencia Pe 
+tambien la satisface. En una palabra, la presi6n, los desplazamientos, todo, satisface !a 
+mis ma ecuaci6n de onda. 
+Corrientemente se ve la ecuaci6n de onda para sonido escrita en t6rminos de presi6n 
+en Ju gar de en funcii:m de desplazamiento, porque la presi6n es un escalar y no tiene direc­
+ci6n. Pero, el desplazamiento es un vector y tiene direcci6n y entonces resulta mii.s fii.cil 
+analizar la presi6n. 
+El pr6ximo punto a discutir tiene que ver con la ecuaci6n de onda en tres dimen­
+siones. Sabemos que la soluci6n para una onda sonora en una dimensi6n es, eil" 11 -kx1, 
+con w = kc., pero tambiCn sabemos que en tres dimensiones una onda estaria repre­
+sentada por ei("' 1-kxx-k_,,y-kzzl, donde en este caso uJ 2 = k1ci, que es, naturalmente 
+(k; + ki + JS)c;. Ahora lo que queremos hacer es conjeturar cuii.l es la ecuaci6n de 
+onda correcta en tres dimensiones. Para el caso de! sonido csto se puede deducir, 
+natura\mente, a traves del mismo razonamiento dinii.mico en tres dimensiones que 
+hicimos en una dimensi6n. Pero no haremos esto; en su lugar, escribimos so!amente 
+el resu\tado: la ecuaci6n para la presi6n (o desplazamiento, o lo que sea) es 
+(48.23) 
+Podemos ver que esto es verdad sustituyendo ei\wr-k.r). Es claro que cada vez que deri­
+vamos respecto a x. mu!tiplicamos por -ikX' Si derivamos dos veces, es equivalente a 
+multiplicar por -k~ por lo que el primer tfrmino se convertiria en -~.,? f!' para esa onda. 
+Del mismo modo, el segundo tCrmino se hace "k_~Pe, y el tercero -k;I' e- A la derecha 
+obtenemos -(<,iYci,>Pe. Entonces, si simplificamos las Pe y cambiamos e! signo, vemos 
+que la relaci6n entre Ky<,; es la que nosotros queremos. 
+Haciendo tambien las cosas hacla atras, no podemos resistir la tentaciOn de es­
+cribir la gran ecuaciOn que corrcsponde a la ecuaci6n de dispersi6n (NT) (48.22) para 
+ondas cuii.nticas. Si ~·J representa la amplitud de encontrar una particula en la posici6n 
+x, y, z, en el tiempo l, cntonces la gran ecuaci6n de la mccti.nica cuintica para par­
+ticulas libres es esta: 
+¢. (48.24) 
+En primer lugar, el carii.cter relativista de est a expresi6n est ii sugerido por la aparici6n 
+de x, y, z y l en la combinaciOn habitual que la relatividad usa corrientemente. En se­
+gundo lugar, es una ecuaci6n de onda que, si probamos una onda plana, produciria 
+co mo consecuencia que - k2 + <u2 / c2 = m2c2 / h2, que es la relaci6n correcta para la 
+mecii.nica cuii.ntica. Hay aUn otra gran cosa contenida en la ecuaci6n de onda:el hecho 
+de que cualquier superposici6n de ondas es tambien una soluci6n. Porlotanto,estaecua­
+ci6n contiene todo lo que hemos estado discutiendo hasta ahora de mecii.nica cuii.ntica 
+Y relatividad, jpor lo menos siempre que se trate de una {mica particula en el espacio 
+vacio sin potenclales 0 fuerzas extemas en eu 
+Ver Nota del Traductor al final del capilulo (p3g. 48- l 5) 
+48-13
+
+48-7 Modos norm.ales de vibraciOn 
+Volvemos ahora a otro ejemplo del fen6meno de pulsaciones que es bastante cu­
+rioso y un poco diferente. Imaginen dos pendulos iguales que tienen, entre ellos, una 
+conexi6n eliistica bastante ctebil. Han sido construidos en lo posible de la misma lon­
+gitud. Si apartamos uno y lo soltamos, se mueve hacia adelante y hacia atrii.s y cuando 
+realiza ese movimiento tira del resorte de conexi6n, por Jo que realmente es una mii.­
+quina para generar una fuerza que tiene la frecuencia natural del otro pendulo. Ade­
+miis, como consecuencia de la teoria de la resonancia, que ya estudiamos, cuando 
+aplicamos una fuerza sobre algo a la frecuencia apropiada, lo ariastrarii. Por lo que, 
+con toda seguridad, un pendulo moviendose hacia adelante y hacia atriis arrastraril 
+el otro. Sin embargo en este caso sucede algo nuevo, ya que la energia total del siste­
+ma es finita y asi, cuando un pendulo da parte de su energia al otro para arrastrarlo, 
+se encuentra a si mismo perdiendo energia hasta que, si hay una sincronizaci6n apro­
+piada con la velocidad, pierde toda su energia y jpasa a un estado estacionario! 
+Entonces, naturalmente, es el otro pendulo el que tiene toda la energia y el primero 
+no tiene nada, y segUn pasa el tiempo vemos que todo funciona en sentido opuesto y 
+que la energia se devuelve al primero; este es un fen6meno muy interesante y diver­
+tido. Dijimos, sin embargo, que estit relacionado con la teoria de las pulsaciones y 
+ahora debemos explicar c6mo podemos analizar este movimiento desde el punto de 
+vista de dicha teoria. 
+Observamos que el movimiento de cualquiera de las dos esferitas es una oscilaci6n 
+con una amplitud que varia ciclicamente. Por lo tanto, el movimiento de una de las 
+esferitas se puede analizar presumiblemente en una forma diferente: como suma de 
+dos oscilaciones, presentes al mismo tiempo pero que tienen dos frecuencias leve­
+mente diferentes. Por lo tanto, deberia ser posible encontrar otros dos movimientos 
+en este sistema y sostener que lo que vimos era una superposicl6n de dos soluciones 
+ya que f:ste es, por supuesto, un sistema lineal. Verdaderamente, es fitcil encontrar 
+dos maneras en las que podria empezar el movimiento, siendo cada una un movimien­
+lo perfecta de una sola frecuencia -absolutamente peri6dico--. El movimiento con 
+el que empezamos antes no era estrictamente peri6dico, puesto que no dur6; pronto 
+una esferita pasaba energia a la otra y asi cambiaba su amp\itud; pero hay maneras 
+de comenzar el movimiento para que nada cambie y, naturalmente, tan pronto como 
+lo vemos entendemos por que. Por ejemplo, si hiciesemos que ambos pfodulos mar­
+chasen juntos, entonces, puesto que ambos son de la misma longitud y el resorte en 
+este caso no hace nada, continuarian por supuesto oscilando para siempre, suponien­
+do que no hay roce y que todo es perfecta. Por otro \ado, hay otro movimiento posi­
+ble que tambifo tiene una frecuencia definida: esto es. si movemos opuestamente los 
+pendulos separindolos la misma distancia exactamente, estarian de nuevo en movi­
+miento absolutamente peri6dico. Podemos apreciar que el resorte aiiade solamente 
+un poco a la fuerza restauradora que proporciona la gravedad, eso es todo, y el sis" 
+tema sigue justamente oscilando a una frecuencia levemente mils alta que en el primer 
+caso. z.Por que mils alta? Porque el resorte estil tirando, adem<i.s de la gravedad, y ha· 
+ce que el sistema sea un poco "mils rigido ", por lo que la frecuencia de su movimiento 
+es s6!o una pizca m8.s alta que la de! otro. 
+Este sistema, pues, tiene dos man eras de oscilar sin variar de amplitud: o puede 
+oscilar de una manera ta! que ambos pendulos sigan el mismo camino o oscilen todo 
+48-14
+
+el tiempo a una frecuencia, o podrian ir en direcciones opuestas a una frecuencia leve­
+mente mils alta. 
+Ahora bien, el movimiento real de! sislema, ya que es lineal, se puede repre-­
+sentar como una superposici6n de dos. (Recuerden que el tema de este capitulo es 
+Ios efectos de sumar dos movimientos con frecuencias diferentes.) Por el!o, piensen 
+lo que sucederia si combinitsemos estas dos soludones. Si a t = 0 los dos movimien­
+tos ban empezado con amplitudes iguales y en la misma fase, la suma de los dos mo­
+vimientos significa que una esferita, habi6ndosele dado un sentido por el primer 
+movimiento y el otro sentido por el segundo movimiento, esti a cero, mientras que 
+la otra esferita, habiendo sido desplazada en el mismo sentido por los dos movimien­
+tos, tiene una gran amplitud. A medida que pasa el tiempo, sin embargo, los dos 
+movimientos bisicos actUan independientemente, por lo que la fase de uno relativa al 
+otro se esti corriendo lentamente. Esto significa entonces, que despu6s de un tiempo 
+bastante largo, cuando el tiempo es suficiente para que un movimiento pueda haber 
+realizado "900 l /2" oscilaciones mien tr as el otro realiza solamente "900 ", la fase 
+relativa estaria justamente invertida con relaci6n a como estaba antes. Esto es, el mo­
+vimiento de gran amplitud se habri hecho cero, y mientras tanto, naturalmente. !a 
+esferita inicialmente sin movimiento jhabril alcanzado intensidad completa! 
+Asi, vemos que podriamos analizar este movimiento complicado bien mediante 
+la idea de que hay resonancia y que uno entrega energia al otro, bien mediante la su­
+perposici6n de dos movimientos de amplitudes constantes a dos frecuencias diferentes. 
+N. de! T.: Dispersi6n estit usada aqui en un sentido anitlogo a la dispersi6n de un prisma; no 
+debe confundirse con la dispersi6n de ondas o particulas al chocar contra un objeto. 0 sea. que 
+estrictamente dispersi6n en este caso quiere dccir cl fcnOmeno por el cua! !a velocidad de fase de 
+una onda depende de su frecuencia. 
+48-15
+
+49 
+Modos de vibracion 
+49-1 ReflexiOn de ondas 
+49-2 Ondas confinadas, con frecuen­
+clas naturales 
+49-3 Modos en dos dimensiones 
+49-1 ReflexiOn de ondas 
+49-4 Ptltdulos acoplados 
+49-5 Sistemas lineales 
+Este capitulo consideranl a!gunos fen6menos notables que resultan de confinar 
+ondas en una regi6n finita. Esto nos llevarit primero a descubrir algunos aspectos 
+particulares relativos a las cuerdas vibrantes, por ejemplo, y luego la generalizaciOn 
+de estos hechos nos dara un principio que es probablemente el principio de mayor 
+alcance en la fisica matem.ittica. 
+Nuestro primer ejemplo de confinamiento de ondas sert\. limitar una onda por 
+un solo lado. Tomemos el ejemplo simple de una onda unidimensional en una cuer­
+da. Del mismo modo se podria considerar el sonido en una dimensi6n contra una 
+pared, u otra situaci6n de naturaleza similar, pero el ejemp!o de una cuerda serit 
+suficicnte para los fines que nos hemos propuesto. Supongan que se sujetc la cuerda 
+por un extrema, por ejemplo atitndola a una pared "infinitamente s61ida , .. Esto se 
+pucdc expresar matemiiticamente diciendo que en la posici6n x-= 0 cl dcsplaza­
+miento y de la cuerda debe ser nulo. porque cl extrema no se mueve. Ahora bien. 
+sabemos que si no fucra por la pared la soluci6n general para el mmimiento es la 
+suma de dos funciones, F(x-cl) y G(x -t ct), la primcra rcprescntando una onda 
+que viaja en un sentido en la cuerda y la segunda una onda quc viaja en el otro 
+sentido en la cuerda: 
+y = F(x - er) + G(x + er) (49.1) 
+es la soluci6n general para cualquier cuerda. Pero ahora tenemos quc sa.tisfacer la 
+condici6n de que la cuerda no se mueve en un extrema. Si ponemos x =- 0 en la 
+ecuaci6n (49.l) y examinamos y para todo valor de t, obtenemos y - F( - ct) + 
++ G( -t ct). Bien, si esto debe ser cero para todo tiempo. la funci6n G(cl) debe 
+ser -F( - ct). En otras palabras. G de cualquier cosa debe ser -F de menos la m1sma 
+cosa. Si se introduce este resultado 
+49-1
+
+_/~.'.-----,, I -c::v Fig. 49-1. Reflexi6n de una onda como 
+superposici6n de dos ondas viajeras. 
+en la ecuaci6n (49.1), encontramos que la soluci6n de! problema es 
+y = F(x - ct) - F(-x - ct). (49.2) 
+Es fitcil verifi.car que obtendremos y = 0 si poncmos x = 0. 
+La figura 49-1 muestra una onda que viaja en la direcd6n x negativa cerca de 
+x ~~ O y otra onda hipotetica que viaja en direcciOn opuesta con el signo invertido 
+y de! otro lado de! origen. Decimos hipotCtica porque natura!mente, no hay cuerda 
+vibrando de ese \ado del origcn. Se dcbc considerar el movimiento total de la cuerda 
+coma la suma de estas dos ondas en la regi6n de las x positivas. Cuando llegan 
+al origen, siempre se anular:in una a otra en x = 0 y finalmente la segunda onda 
+(la rcflejada) serit la lmica que existe para x positiva y, naturalmente, estara viajando 
+en direcciOn opuesta. Estos resultados son equivalentes a la siguiente afirmaci6n: 
+si una onda llega al extrema fijo de una cuerda, se refleja con un cambio de signo. 
+Sicmpre se puede comprender esa reflexiOn imaginando que lo que viene del extremo 
+de la cuerda sale invertido desde atr<'is de la pared. En suma, si suponemos que la 
+cuerda es infinita y que siempre que tenemos una onda que va en un sentido tenemos 
+otra que va en sentido opuesto con la simetria anotada, el dcsplazamiento en x "" 0 
+siempre serf! nulo y da lo mismo que fijemos o no la cuerda a!H. 
+El siguiente punto a discutir es la reflexiOn de una onda peri6dica. Supongan 
+que la onda representada por F(x-ct) es una onda sinusoidal y que se ha reflejado; 
+entonces la onda reflejada -F(-x-ct) tambien es una onda sinusoidal de la misma 
+frccucncia, pero que viaja en direcci6n opuesta. El modo m:i.s simple de describir 
+la situaci6n es usando la notaci6n de funcioncs complcjas: J.Yx-ct) = e'°"' (Hie) y 
+F(-x-ct) = e;,,. (I' .vc). Se puede ver que si se sustituye estas expresiones en (49.2) 
+y si se pone x igual 0, resulta y = O para todo valor de t, por lo que satisface la 
+condici6n necesaria. Por la propiedad de los exponenciales esto se puede describir 
+en una forma mas simple: 
+y = e""1(e-i"r/c - eiwr/o) = -2iei"tsen (wx/c). (49.3) 
+49-2
+
+Aqui hay alga interesante y nuevo: esta soluci6n nos dice que si observamos en 
+cualquier x fijo, la cuerda oscila con frecuencia w. jCualquiera sea este punto, la 
+frecuencia es la misma! Pero hay algunos lugares, en particular cuando sen (wx/c)= 
+= 0, donde no hay ningUn desplazamiento. Mils aUn, si en cualquier instante t toma­
+mos una instantilnea de la cuerda vibrante, la fotografia ser8. una onda sinuosidal. 
+Sin embargo, el desplazamiento de esta onda sinusoidal depender8. del tiempo t. Exa­
+minando la ecuaci6n (49.3) podemos ver que la longitud de un ciclo de la onda 
+sinusoidal es igual a la longitud de onda de cualquiera de las ondas superpuestas: 
+X = 27rc/w. (49.4) 
+Los puntos donde no hay movimiento satisfacen la condici6n sen (wx/c) = 0, lo 
+cual significa que (wx/c) = 0, n, 2n ... Estos puntos se llaman nodos. Entre dos no­
+dos sucesivos cualesquiera, cada punto se mueve de arriba para abajo sinusoidal­
+mente, pero el diagrama del movimiento permanece fijo en el espacio. Esta es la 
+caracteristica fundamental de lo que l!amamos modo de vibraci6n. Si podemos hallar 
+un diagrama de movimiento que tenga la propiedad de que en cualquier punto el 
+objeto se mueva en forma perfectamente sinusoidal y que todos !os puntos se mue­
+van con la misma frecuencia (aunque algunos se moveriln mils que otros), entonces 
+tenemos lo que se llama un modo de vibraci6n. 
+49-2 Ondas confinadas, con frecuencias natura1es 
+El siguiente problema interesante es considerar lo que ocurre si se sujeta la 
+cuerda por los dos extremos, digamos en x = 0 y x = L. Podemos comenzar con 
+la idea de la reflexi6n de las ondas, empezando con alglln tipo de protuberancia 
+movitndose en una direcci6n. A medida quc pasa cl tiernpo es de esperar que la 
+protuberancia se acerque a un extrema, y cuando pase mils tiempo se convertir8. 
+en una especie de pequei'lo bamboleo, porque se combina con la imagen invertida 
+de la protuberancia, que vlene del otro !ado. Finalmentc la protuberancia original 
+desaparecer8. y la protuberancia imagen se mover8. en el otro sentido para repetir 
+el proceso en el otro extremo. Este problema tiene una so\uciOn foci!, pero una 
+cuesti6n intere~ante es si podemos tener un movimicnto sinusoidal (la soluci6n que 
+acabamos de describir es periOdica; pero, por supuesto, no es sinusoidalmente peri6-
+dica). Probemos poner una onda sinusoidalmente periOdica en una cuerda. Si se 
+ata un extrema de la cuerda, sabemos que debe tener cl aspccto de nuestra soluciOn 
+anterior (49.3). Si se ata el 01~0 extrema, tiene que tener el mismo aspecto en ese 
+otro extrema. Lucgo, la lmica , osibilidad de movimiento pcri6dico sinusoidal cs que 
+la onda sinusoidal se ajuste perfectamente a la !ongitud de la cuerda. Si no se ajusta 
+a la longitud de la cuerda. no es una frecuencia natural a la que la cuerda puecle 
+seguir oscilando. En resumen. si inicialmcnte sc da a !a cuerda una forma de onda 
+sinusoidal que se le ajusta perfectamente, seguir8. teniendo esa forma perfecta de 
+onda sinusoidal y oscilar8. arm6nicamente con cierta frecuencia. 
+Matem<'i.ticamente, podemos representar la forma por sen kx, donde k es igual 
+al factor (w/c) de las ecuaciones (49.3) y (49.4). y esta funciOn seril cero en x = 0. 
+Sin embargo, tambitn debe ser ccro en el otro extrema. Lo significativo de esto es 
+que k ya no es arbitrario, como en el caso de la cuerda fija en un solo extrema. 
+Con la cuerda fija en ambos cxtrcmos. la lmica posibilidad es que sen (/.:L) = 0. 
+porque esta es la 
+49-3
+
+Unica condici6n que mantendni ambos extremos fijos. Ahora bien, para que un seno 
+sea cero, el lingulo debe ser 0, n, 2n o cualquier otro mUltiplo entero de n. La 
+ecuaci6n kL = mr (49.S) 
+dar:i., por lo tanto, todos los k posibles, seglln que entero se introduzca. Para cada k 
+hay cierta frecuencia w que, conforme a la ecuaci6n (49.3), es simplemente 
+w = kc = mrc/L. (49.6) 
+Hemos encontrado asi lo siguiente: una cuerda tiene la propiedad de poder tener 
+movimientos sinusoida!es, pero s6/o a ciertas frecuencias. Esta es la propiedad mils 
+importante de las ondas confinadas. Cualquiera sea la complicaci6n de! sistema, 
+sicmpre resulta que hay ciertos diagramas de movimiento quc tienen una dependencia 
+temporal perfecta, pero con frccuencias que son una propiedad de cada sistema en 
+particular y natura\eza de los Hmites. En el caso de la cuerda tenemos muchas 
+frecuencias diferentes, correspondiendo cada una, por definici6n, a un modo 
+de vibraciUn. porque un modo es un diagrama de movimiento que .se repite sinU­
+soidalmente. La figura 49- 2 muestra los tres primeros modos de vibraci6n de una 
+cuerda. La longitud de onda .l de! primer modo es 2L. Esto se puede ver continuan­
+do la onda hasta x '--- 2L para obtener un ciclo complcto de la onda sinusoidal. La 
+frecuencia angular r,, es 2nc dividido por la !ongitud de onda en general, y en este 
+caso. coma .<l es 2L. la frecuencia es rrc/ /,, lo cual estt't de acuerdo con (49.6) para 
+n = I. L!amemos w 1 a la frecuencia de! primer modo de vibraci6n. Ahora bien, el 
+modo de vibraci6n siguiente muestra dos !azos con un nodo en el medio. Entonces, 
+la longitud de onda de este modo de vibraciOn es simplemente L. El correspondiente 
+valor de k es el doble de grande y la frecuencia es dos veces mayor; es 2f~J 1 • La de! 
+tercer modo es 3w 1 y asi sucesivamente. Luego. todas las diversas frecuencias de la 
+cuerda son mUltiplos, l, 2, 3, 4, y asi sucesivamente, de la frecuencia mils baja w 1• 
+Volviendo ahora· al movimiento genera! de la cucrda, resulta que cualquier mo­
+vimiento posible siempre se puede analizar diciendo que hay mas de un modo de 
+vibraciOn 
+Fig. 49-2. Los primeros tres rnodos 
+de una cuerda vibrante. 
+Primer modo 
+-de vibraci6n -Onda compuesta 
+--- Segundo modo de vibraci6n 
+Fig. 49-3. Dos modos de vibraci6n 
+se combinan dando una onda viajera. 
+49-4
+
+al mismo tiempo. En verdad, en un movimiento general un nUmero infinito 
+de modos de vibraci6n debe estar excitado al mismo tiempo. Para tener una idea de 
+esto, mostremos lo que ocurre cuando hay dos modos oscilando al mismo tiempo: 
+supongan que el primer modo estil oscilando como muestra la serie de dibujos de 
+la figura 49·3, que representa la deflcxi6n de la cuerda a intervalos iguales de tiempo 
+durante medio ciclo de la frecuencia mas baja. 
+Ahora bien, suponemos que al mismo tiempo hay una osci!aci6n de! segundo 
+modo de vibraci6n. La figura 49-3 tambiCn muestra una sucesi6n de gr8.ficos de 
+este modo de vibraci6n, el cu al est ii, al empezar, defasado en 90° del primer modo 
+de vibraci6n. Esto significa que al comienzo no tiene desplazamiento, sino que las 
+dos mitades de la cuerda tienen velocidades opuestas. Recordemos ahora un prin­
+cipio general relativo a sisternas lineales: si hay dos soluciones cualesquiera, su suma 
+tambiCn es soluci6n. En consecuencia, un tercer movimiento posib!e serla el despla­
+zamiento obtenido sumando las dos soluciones mostradas en la figura 49-3. El re­
+sultado, que tambiCn se muestra en la figura, comienza a dar la impresi6n de una 
+protuberancia que corre de un \ado a otro entre Jos extremos de la cuerda, aunque 
+con s61o dos modos de vibraci6n no podemos dar una buena representaci6n; se 
+necesitan mils modos. Este resu\tado es en realidad un caso especial de un gran 
+principio para sistemas lineales: 
+Absolutamente cualquier movimiento se puede analizar suponiendo que es la 
+suma de los movimientos de todos los modos de vibraci6n diferentes, combinados 
+con amplitudes y fuses apropiadas. 
+La importancia del principio proviene de que cada modo de vibraci6n es muy simple 
+-es nada mils que un movimiento sinusoidal en el tiempo-. Es verdad que aun el 
+movimiento general de una cuerda no es realmente muy complicado, pero hay otros 
+sistemas, la oscilaci6n de! ala de un avi6n, por ejemplo, en Jos cuales el movimiento 
+es mucho mas complicado. No obstante, aun en el ala de un avi6n, encontramos 
+que hay cierta manera particular de torcerse que tiene una frecuencia y otras ma­
+neras de torcerse que tienen otras frecuencias. Si se puede encontrar estos modos, 
+siempre se puede analizar el movimiento completo como superposici6n de oscilacio­
+nes arm6nicas (excepto cuando la vibraci6n es de intensidad tal que ya no se puede 
+considerar que el sistema es lineal). 
+49-3

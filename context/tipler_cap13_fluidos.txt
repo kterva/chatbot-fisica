@@ -1,0 +1,1524 @@
+Tema: Fluidos (Capítulo 13 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+366 | Capítulo 13 Fluidos 
+TABLA 13.1 Densidades de sustancias selec- 
+cionadas 
+kg/m? 
+107 
++ Osmio, 22,5 x 10° 
+Oro, 19,3 x 10% 
+Mercurio, 13,6 x 10° 
+Plomo, 11,3 x 103 
+Cobre, 8,93 x 10? 
+Hierro, 7,96 x 10? 
+Tierra (valor medio), 5,52 x 10° 
+Cemento, 2,7-3,0 x 10° 
+Aluminio, 2,70 x 10* 
+Vidrio (corriente), 2,4-2,8 x 10* 
+Hueso, 1,7-2,0 x 10* 
+Ladrillo, 1,4-2,2 x 10* 
+Agua de mar, 1,025 x 10 
+Agua, 1,00 x 10* 
+Hielo, 0,92 x 10* 
+Alcohol (etanol), 0,806 x 10* 
+Gasolina, 0,68 x 10* 
+Madera (roble), 0,6-0,9 x 10° 
+Aire, 1,293 
+Vapor de agua, 0,6 (100°C) 
+Hello, 0,1786 Hidrógeno, 0,08994 
+E sólido W líquido Mi gas 
+EJEMPLO 13.1 
+13.1 Densidad 
+Una propiedad importante de una sustancia es el cociente entre su masa y su volumen, lla- 
+mada densidad: 
+masa Densidad = ———— volumen 
+Normalmente utilizaremos la letra griega p (rho) para designar la densidad: 
+= p=" (13.1) 
+DEFINICIÓN —DENSIDAD 
+Puesto que originalmente el gramo se definió como la masa de 1 cm? de agua, la densidad del 
+agua en las unidades del sistema cgs es igual a | g/em*. Convirtiendo estas unidades en las 
+unidades del SI de kilogramos por metro cúbico, obtenemos para la densidad del agua 
+3 
+p, = 2Ex aml = 103 kg/m? (13.2) 
+Las medidas precisas de la densidad deben tener en cuenta la temperatura, ya que las densi- 
+dades de la mayor parte de los materiales, incluso la del agua, varían con la temperatura. La 
+ecuación 13.2 da el valor máximo de la densidad del agua, que se tiene a 4° C. La tabla 13.1 
+relaciona las densidades de algunos materiales típicos. 
+Una unidad de volumen muy utilizada es el litro (L): 
+I L= 10° cm? = 10-3 m? 
+En función de esta unidad, la densidad del agua es 1,00 kg/L. Cuando la densidad de un objeto 
+es mayor que la del agua, se hunde en ella; cuando su densidad es menor, flota. El cociente 
+entre la densidad de una sustancia y la densidad del agua recibe el nombre de densidad especí- 
+fica de la sustancia. Por ejemplo, la densidad específica del aluminio es 2,7, lo cual significa 
+que un volumen de aluminio tiene 2,7 veces la masa de un volumen igual de agua. Las densi- 
+dades específicas de los objetos que se hunden en el agua están comprendidas en un intervalo 
+entre 1 y 22,5 aproximadamente (correspondiente al elemento más denso, el osmio). 
+Aunque la mayor parte de los sólidos y líquidos se dilatan ligeramente cuando se calien- 
+tan y se contraen ligeramente cuando se ven sujetos a un incremento de presión externa, 
+estas variaciones de volumen son relativamente pequeñas, por lo que podemos decir que las 
+densidades de la mayor parte de los sólidos y líquidos son aproximadamente independientes 
+de la temperatura y presión. En cambio, la densidad de un gas depende fuertemente de la 
+presión y temperatura. Por lo tanto, se debe especificar la temperatura y presión cuando se 
+den las densidades de los gases. Por convención, las condiciones estándar para las medidas 
+de las propiedades físicas son presión atmosférica a nivel del mar y temperatura de 0 °C. Las 
+densidades de las sustancias relacionadas en la tabla 13.1 se dan en condiciones estándar. 
+Obsérvese que las densidades de los líquidos o sólidos son considerablemente mayores que 
+las de los gases; por ejemplo, la densidad del agua es aproximadamente 800 veces mayor 
+que la del aire en condiciones estándar. 
+| Cálculo de la densidad 
+Un frasco de 200 mL está lleno de agua a 4 °C. Cuando el frasco se calienta a 80 °C, se derra- 
+man 6 g de agua. ¿Cuál es la densidad del agua a 80 °C? (Suponer que la dilatación del frasco 
+es despreciable.) 
+Planteamiento del problema La densidad del agua a 80 °C es p’ = m'/V, en donde V = 200 ml = 
+200 cm° es el volumen del frasco y m’ es la masa que queda en el frasco después de derramarse los 6 g 
+de agua. Hallaremos m’ determinando en primer dugar la masa de agua que había originalmente en el 
+frasco.
+
+13.2 Presión en un fluido 367 
+1. Calcular la masa original de agua en el frasco a 4 °C utilizando p= m=pV=(1,00 g/cm*)(200 em?) = 200 g 
+1,00 g/cm: 
+Calcular la masa de agua remanente, m’ después de derramar 6 g: m 
+Utilizar este valor de m’ para determinar la densidad del agua a 80°C: p’ = m = wwe. 
+Ejercicio Un cubo macizo de metal de 8 cm de arista tiene una masa de 4,08 kg. (a) ¿Cuál es la 
+d ensidad del cubo? (b) Si el cubo está hecho de uno solo de los elementos relacionados en la figura 
+13.1, ¿de qué el elemento se trata? (Respuestas (a) 7,97 kg/L. (b) hierro.) 
+Ejercicio Un lingote de oro tiene las dimensiones de 5 cm x 10 cm x 20 cm. ¿Cuál es su masa? 
+(Respuesta 19,3 kg.) 
+3.2 Presión en un fluido 
+Cuando se sumerge un cuerpo en un fluido como el agua, el fluido ejerce una fuerza perpen- 
+cular a la superficie del cuerpo en cada punto de la superficie. Esta fuerza por unidad de 
+ea se denomina presión P del fluido: 
+F 
+P= = f A (13.3) 
+DEFINICION —PRESION 
+La unidad de presión en el SI es el newton por metro cuadrado (N/m?), que recibe el nombre 
+le pascal (Pa): 
+l Pa=1 N/m? (13.4) 
+En el sistema técnico inglés, la presión normalmente se expresa en libras por pulgada cua- 
+drada (Ib/pulg?). Otra unidad común es la atmósfera (atm), que es aproximadamente la pre- 
+ión del aire a nivel del mar. Actualmente la atmósfera se define como 101,325 kilopascales, 
+que es aproximadamente igual a 14,70 Ib/pulg?: 
+| atm = 101,325 kPa = 14,70 1b/pulg? (13.5) 
+Posteriormente veremos otras unidades de presión de uso común. 
+La presión debida a un fluido que presiona contra un cuerpo tiende a comprimirlo. El 
+cociente entre el cambio de presión y la disminución relativa al volumen (-AV/V) se deno- 
+mina módulo de compresibilidad B: 
+A eo 
+DEFINICIÓN —IMODULO DE COMPRESIBILIDAD 
+(El signo menos en la ecuación 13.6 se introduce para que B sea positivo, ya que todos los mate- 
+riales cuando están sometidos a un aumento de la presión externa disminuyen de volumen.) 
+Cuanto más difícil de comprimir es un sólido, menor es su cambio relativo —AV/V para una 
+determinada presión AP y, por lo tanto, mayor es su módulo de compresibilidad. La compresibi- 
+lidad es la inversa del módulo de compresibilidad. Líquidos, gases y sólidos, todos tienen 
+un módulo de compresibilidad. Los líquidos y los sólidos son relativamente incompresibles; 
+es decir, poseen valores grandes del módulo de compresibilidad B, siendo estos valores 
+relativamente independientes de la temperatura y la presión. Por el contrario, los gases se pue- 
+den comprimir fácilmente, y los valores de B dependen fuertemente de la presión y la tempe- 
+ratura. La tabla 13.2 indica los valores del módulo de compresibilidad para diversos materiales. 
+=m-62g=200g-6g=19 g 
+[ora] 
+TABLA 13.2 Valores aproximados del mó- 
+dulo de compresibilidad B de 
+varios materiales 
+650 
+Diamante, 620 
+600 
+200 Tungsteno, 200 
+Acero, 160 
+GN/m? 150 Cobre, 140 
+100 Hierro, 100 
+Aluminio, 70 
+50 Latón, 61 
+Mercurio, 27 
+Plomo, 7,7 
+0 Agua, 2,0
+
+(b) 
+Figura 13.3 
+Ja columna (AA} es el volumen de la columna). Es decir, P¿4 = P¡A + pAAhg. Dividiendo por 
+‘A resulta 
+P, = P, + pgAh 
+Consideremos ahora las fuerzas que actúan sobre el cilindro horizontal de agua, también de 
+área transversal A, que conecta los puntos 2 y 3 (figura 13.3c). Hay dos fuerzas con compo- 
+nentes que van en la dirección del eje del cilindro, P3A y PA. El hecho de que estas dos 
+fuerzas se compensen una a otra significa que Pz = P}. Se sigue entonces que 
+P, = P,+pgAh 
+Así pues, si aumentamos Py presionando por ejemplo sobre la superficie superior con un 
+émbolo, el aumento de presión es el mismo en todo el seno del líquido, lo cual se conoce 
+como principio de Pascal, en honor de Blaise Pascal (1623-1662): 
+Un cambio de presión aplicado a un líquido encerrado dentro de un recipiente se trans- 
+mite por igual a todos los puntos del fluido y a las propias paredes del recipiente. 
+PRINCIPIO DE PASCAL 
+Una aplicación común del principio de Pascal lo constituye el elevador hidráulico indi- 
+cado en la figura 13.4. 
+EJEMPLO 13.3 | El elevador hidráulico 
+El émbolo grande de un elevador hidráulico tiene un radio de 20 cm. ¿Qué fuerza debe apli- 
+carse al émbolo pequeño de radio 2 em para elevar un coche de masa 1500 kg? 
+Planteamiento del problema La presión P multiplicada por el área A) del pistón grande debe 
+ser igual al peso mg del coche. La fuerza que debe ejercerse sobre el pistón pequeño F; es esta 
+misma presión multiplicada por el área A, (véase figura 13.4), 
+1. La fuerza F, es la presión P multiplicada por el área A}: F¡=PA; 
+2. La presión multiplicada por el área A, debe ser igual al peso del coche: PA, = mg. demodoque P= A; 
+3, Utilizar este resultado de P para calcular F}: F; = PA, = 284, 
+(1500 kg)(9,81 N/kg) 
+13.2 Presión en un fluido | 369 
+F; Émbolo Émbolo 
+pequeño A || grande 
+Figura 13.4 Prensa o elevador hidráulico. Una 
+fuerza pequeña F} ejercida sobre el émbolo o pistón 
+pequeño produce una variación de presión F¡/A, 
+que se transmite por el líquido hasta el émbolo 
+grande. Como las presiones en los pistones grande 
+y pequeño son iguales, las fuerzas correspondientes 
+cumplen la relación F,/A, = F¡/A¡. Como el área 
+del pistón grande es mucho mayor que el del pistón 
+pequeño, la fuerza sobre el pistón grande F, = 
+(A,/A,) F, es mucho mayor que Fy. 
+mg 
+3 
+A, Tri = mg — = mg — $ A, mrs 
+(Zeme =|14 
+(20 cm)? IN
+
+370 | Capítulo 13 Fluidos 
+Figura 13.5 Paradoja hidrostática. El nivel del 
+agua es el mismo en todos los recipientes con 
+independencia de su forma. La porción sombreada 
+del agua es soportada por las paredes laterales del 
+recipiente. 
+Medidor de la presión para neumáticos. El pistón 
+presiona la varilla hacia la derecha hasta que la 
+fuerza del muelle más la fuerza de la presión 
+atmosférica se equilibra con la fuerza ejercida por la 
+presión del aire del interior del neumático. 
+En la figura 13.5 se muestra agua en un recipiente formado por secciones de diferentes for- 
+mas. En una primera observación, podría parecer que la presión en la sección 3 del recipiente 
+sería la mayor y que el agua, por lo tanto, se vería forzada a subir a una mayor altura en las sec- 
+ciones más pequeñas del recipiente. El hecho de que esto no ocurra así se conoce con el nom- 
+bre de la paradoja hidrostática. La presión sólo depende de la profundidad del agua, no 
+de la forma del recipiente. A la misma profundidad la presión es la misma en todas las 
+partes del recipiente, como puede demostrarse experimentalmente. Aunque el agua de la 
+sección 4 del contenedor pesa más que la de la sección 2, la proporción de agua de la sección 4 
+que no está sobre la zona abierta está soportada por las paredes horizontales del contenedor. De 
+hecho, el agua que hay por encima de la zona abierta en la sección 5 pesa menos que la que hay 
+por encima en la sección 1. Sin embargo, el contenedor horizontal de la sección 5 ejerce una 
+fuerza hacia abajo sobre el agua que compensa exactamente su menor peso. 
+Para medir presiones desconocidas podemos utilizar el resultado de que la diferencia de 
+presión es proporcional a la profundidad. En la figura 13.6 se muestra un medidor de presión 
+simple, el manómetro de tubo abierto. La parte superior del tubo se encuentra abierta y por lo 
+tanto a la presión atmosférica P„. El otro extremo del tubo se encuentra a la presión P que se 
+desea medir. La diferencia P — P,, es igual a pgh, en donde p es la densidad del líquido en el 
+tubo, y se denomina presión manométrica. La presión que se mide en la cámara de la rueda 
+en un coche es la presión manométrica. Cuando la cámara se encuentra completamente des- 
+hinchada, la presión manométrica es igual a cero, y la presión absoluta de la llanta es igual a 
+la presión atmosférica. La presión absoluta P se obtiene a partir de la presión manométrica 
+sumándole la presión atmosférica: 
+P= Prsencinttiica + Pa (13.8) 
+En la figura 13.7 se muestra un barómetro de mercurio utilizado para medir la presión 
+atmosférica. La parte superior del tubo esta cerrada y se le ha hecho el vacío de forma que la 
+presión en su interior es igual a cero. El otro extremo se encuentra abierto y a la presión 
+atmosférica P,,. La presión P,,es pgh, donde p es la densidad del mercurio. 
+Ejercicio A 0°C, la densidad del mercurio es de 13,595 x 10* kg/m'. ¿Cuál es la altura de 
+la columna en un barómetro de mercurio si la presión es 1 atm = 101,325 kPa? 
+(Respuesta h=P/pg = 0,760 m = 760 mm.) 
+En la práctica, la presión se mide frecuentemente en milímetros de mercurio (unidad lla- 
+mada comúnmente torr en honor del físico italiano Torricelli) o en pulgadas de mercurio 
+(escrito como pulgHg). Estas unidades de presión se relacionan entre sí del modo siguiente: 
+| atm = 760 mmHg = 760 torr = 29,9 pulgHg 
+= 101,325 kPa = 14,7 lb/pulg? (13.9) 
+Figura 13.6 Manómetro de tubo abierto para Figura 13.7 
+medir una presión desconocida P. La diferencia 
+P -—P.,, es igual a pgh.
+
+as unidades utilizadas comúnmente en los mapas meteorológicos son el bar y el milibar, 
+finidos por 
+10° milibares = 100 kPa 1 bar = (13.10) 
+na presión de | atm es aproximadamente un 1,3% más grande que la presión de un bar. 
+EJEMPLO 13.4 | 
+La presión manométrica medida en la aorta humana es de 100 mmHg aproximadamente. 
+Convertir la presión sanguínea media en pascales. 
+Presión de la sangre en el interior de la aorta 
+Utilizamos los factores de conversión de la ecuación 13.9: = 100 mmHg 760 
+Ejercicio Convertir una presión de 45 kPa en (a) milímetros de mercurio y (b) atmósferas. 
+(Respuestas (a) 338 mmHg, (b) 0,444 atm.) 
+La relación entre la presión y la altura (o profundidad) es más complicada en un gas que 
+un líquido, debido a que la densidad de un gas no es constante como en un líquido, sino que 
+depende de la presión. La presión de una columna de aire disminuye al aumentar la altitud 
+considerada desde la superficie de la Tierra, como sucede con la presión de una columna de 
+‘agua, pero a diferencia de este caso, la disminución de presión con la altura no es lineal con 
+la distancia. En lugar de ello, la presión del aire disminuye en una fracción constante para un 
+incremento fijo dado de altura, como se ve en la figura 13.8. A una altitud de 5,5 km aproxi- 
+madamente, la presión del aire es la mitad del valor que tendría en la superficie del mar. Si 
+ascendemos otros 5,5 km hasta una altitud de 11 km (altura típica de vuelo de un avión 
+comercial), la presión se ha vuelto a reducir a la mitad, de modo que equivale a la cuarta 
+parte de la que se tiene al nivel del mar, y así sucesivamente. Este ejemplo de decrecimiento 
+exponencial se denomina “ley atmosférica”. Por ello, los aviones comerciales que vuelan a 
+grandes alturas llevan sus cabinas presurizadas. Como la densidad del aire es proporcional a 
+la presión, esta densidad también disminuye con la altura. Así, por ejemplo, se dispone de 
+menos oxígeno en una montaña que a elevaciones normales, lo que hace más difícil la reali- 
+zación de ejercicios físicos en las montañas Rocosas, y ascender el Himalaya es peligroso. 
+13.3 Flotación y principio de Arquímedes 
+Si pesamos un objeto pesado sumergido en agua suspendiéndolo de un dinamómetro 
+(figura 13.9a), el peso aparente del objeto (la lectura del dinamómetro) es inferior al peso 
+del objeto. Esto es así porque el agua ejerce una fuerza hacia arriba que equilibra parcial- 
+mente la fuerza de la gravedad. Esta fuerza es aún más evidente cuando sumergimos un 
+trozo de corcho. Cuando el corcho está completamente sumergido, experimenta una fuerza 
+hacia arriba ejercida por la presión del agua, que es mayor que la fuerza de la gravedad, de 
+manera que el corcho acelera hacia la superficie, en donde flota parcialmente sumergido. 
+La fuerza ejercida por un fluido sobre un cuerpo sumergido en él se denomina fuerza 
+ascensional (o de flotación o empuje).! Es igual en módulo al peso del fluido desplazado 
+por el cuerpo. 
+Todo cuerpo parcial o totalmente sumergido en un fluido experimenta una fuerza ascen- 
+sional igual al peso del fiuido desplazado. 
+PRINCIPIO DE ARQUÍMEDES 
+Este resultado se conoce con el nombre de principio de Arquímedes. 
+' La definición de fuerza ascensional se refinará más adelante en esta sección. 
+101, aoe 7 
+13.3 Flotación y principio de Arquímedes | 371 
+P, atm 
+l= 
+bi 
+0 5.5 11 h, km 
+Figura 13.8 Variación de la presión con la altura 
+por encima de la superficie terrestre, Por cada 5,5 
+km de incremento de altura, la presión se reduce a 
+la mitad. 
+F j| Fs 
+m 
+E, w 
+(b) 
+Fa 
+m 
+B w 
+(c) o. Be 
+Figura 13.9 (a) Forma de pesar un objeto 
+sumergido en un fluido. (b) Diagrama de fuerzas en 
+el que puede verse el peso, w, la fuerza ejercida por 
+el muelle F; y las fuerzas F, y F, ejercidas por el 
+fluido que lo rodea. (c) La fuerza ascensional o de 
+flotación B = F, — F, es la fuerza neta ejercida por 
+el fluido sobre el objeto.
+
+372 | Capitulo 13 Fluidos 
+Figura 13.10 La misma situación que se daba 
+en la figura 13.9, pero ahora el objeto ha sido 
+sustituido por un volumen igual del fluido. Las 
+fuerzas F, y F, debidas a la presión del fluido 
+son las mismas que las fuerzas correspondientes 
+ejercidas sobre el objeto en la figura 13.9. La fuerza 
+ascensional o de empuje es igual al peso del fluido 
+desplazado, wy. 
+Globos de aire caliente elevándose en el cielo nocturno 
+sobre Albuquerque durante un festival de globos. 
+Podemos deducir el principio de Arquímedes a partir de las leyes de Newton conside- 
+rando las fuerzas que actúan sobre una porción de un fluido y observando que, cuando está 
+en equilibrio estático, la fuerza neta sobre la misma debe ser nula. La figura 13.9b muestra 
+las fuerzas verticales que actúan sobre un objeto que se pesa mientras está sumergido, es 
+decir, la fuerza de la gravedad w dirigida hacia abajo; la fuerza del dinamómetro F, que 
+actúa hacia arriba: una fuerza F,. que actúa hacia abajo, debida a la presión del fluido sobre 
+la superficie superior del objeto y una fuerza F,, que actúa hacia arriba debida a la presión 
+del fluido sobre la superficie inferior del objeto. Como la lectura del dinamómetro indica una 
+fuerza inferior a su peso, la fuerza F, debe ser mayor en módulo que F,. La diferencia en 
+módulo de estas dos fuerzas es la fuerza ascensional B = F, — F, (figura 13,9c). La fuerza 
+ascensional tiene lugar porque la presión del fluido en el fondo del cuerpo es mayor que en 
+la parte superior. 
+En la figura 13.10 se prescinde del dinamómetro y el objeto sumergido se ha reempla- 
+zado por un volumen igual de fluido (indicado por líneas de puntos). La fuerza ascensional 
+B = F,- F, que actúa sobre este volumen de fluido es la misma que actuaba sobre nuestro 
+objeto original, ya que el fluido que lo rodea es el mismo. Como este volumen de fluido está 
+en equilibrio, la fuerza resultante que actúa sobre él debe ser cero. La fuerza ascensional es 
+igual al peso del fluido en este volumen: 
+B=w; (13.11) 
+Obsérvese que este resultado no depende de la forma del objeto sumergido. Si consideramos 
+una porción cualquiera de forma irregular del fluido, sobre ella deberá actuar una fuerza 
+ascensional debida al fluido que la rodea y que resulta ser igual al peso de dicha porción. Por 
+lo tanto, hemos deducido el principio de Arquímedes. 
+El rey Hierón II le había encomendado a Arquímedes (287-212 a.C.) la tarea de determi- 
+nar si una corona fabricada para él estaba hecha toda ella de oro o si, por el contrario, conte- 
+nía algún metal más barato como la plata. El problema consistía en determinar la densidad 
+de un objeto de forma irregular, como la corona. sin destruirlo. Según cuenta la historia, 
+Arquímedes encontró la solución mientras se bañaba e inmediatamente echó a correr des- 
+nudo por las calles de Siracusa gritando “¡Eureka!” (*¡Lo encontré!”). Este destello de com- 
+prensión precedió a las leyes de Newton, a partir de las cuales puede deducirse el principio 
+de Arquímedes, en 1900 años aproximadamente. Arquímedes encontró lo que constituye un 
+procedimiento simple y exacto para comparar la densidad de la corona con la densidad del 
+oro utilizando una balanza. Puso la balanza en un cuenco y colocó la corona en un platillo y 
+oro puro de igual masa en el otro. Entonces añadió agua al cuenco, sumergiendo la corona y 
+el oro puro. La balanza osciló, elevando la corona —indicando que la fuerza ascensional que 
+actuaba sobre ésta era mayor que la que actuaba sobre el oro puro, porque el volumen del 
+agua desplazado por la corona era mayor que el desplazado por el oro puro. La corona era 
+menos densa que el oro puro, 
+La densidad específica de un cuerpo es su peso dividido por el peso de un volumen igual 
+de agua. Pero, de acuerdo con el principio de Arquímedes, el peso de un mismo volumen de 
+agua es igual a la fuerza ascensional sobre el cuerpo cuando está sumergido en dicho 
+líquido. Por consiguiente, es igual a la pérdida de peso del cuerpo cuando se pesa sumergido 
+en agua. Así pues, 
+peso 
+fuerza ascensional cuando está sumergido en agua Densidad específica 
+n 
+(13.12 B agua 
+El peso aparente w, de un objeto sumergido en un fluido es la diferencia entre su peso w 
+y la fuerza ascensional B. 
+Wip = w-B (13.13)
+
+13.3 Flotación y principio de Arquímedes | 373 
+(a) 
+) La corona y la pepita de oro tienen el mismo peso. (b) La corona desplaza más agua que la pepita de 
+EJEMPLO 13.5 | ¿Es oro? ¡PÓNGALO EN SU CONTEXTO! 
+Una amiga está preocupada por un anillo de oro que compró en un viaje reciente. El anillo era 
+caro y nuestra amiga quiere saber si realmente es de oro o si es de otro material. Decidimos 
+ayudarla usando nuestros conocimientos de física. Pesamos el anillo y encontramos que pesa 
+0,158 N. Usando una cuerda lo colgamos de una balanza, lo sumergimos en agua y entonces 
+pesa 0,150 N. ¿Es de oro el anillo? 
+Planteamiento del problema Si el anillo es de oro puro, su densidad específica (su densidad 
+relativa al agua) será de 19,3 (véase la tabla 13.1). Usando la ecuación 13.12 como referencia, deter- 
+minar la densidad específica del anillo. 
+1. La ecuación 13,12 relaciona la densidad específica del anillo con el densidad específica = B _ = $ 
+cociente entre su peso w y la fuerza de empuje B cuando está sumer- agua 
+gido en agua: 
+2. Cuando el cuerpo está sumergido, B se iguala con el peso menos el B = w—Wy, 
+peso aparente Wp: 
+3. Se combinan los pasos 1 y 2 y se despeja la densidad específica: densidad específica = 5 = KA w-w ap 
+0,158 N 
+= JIS N=0.150N > 19 
+4. Se compara la densidad específica del anillo con la densidad específica 19,3 ~ 19,3 
+del oro, que es 19.3: 
+El anillo es de oro puro 
+Ejercicio Un bloque de un material desconocido pesa 3 N y tiene un peso aparente de 1,89 N 
+cuando se sumerge en agua. ¿De qué material se trata? (Respuesta La densidad específica del 
+material es 2,70, que es la densidad específica del aluminio, por lo tanto el bloque es de aluminio.) 
+Ejercicio Un bloque de aluminio pesa 3 N cuando está rodeado de aire. ¿Cuál es el peso real del 
+bloque? (Respuesta Wap =w — B, donde B = Pair V8 Y W = Patum Vg. De la tabla 13.1 se obtiene Pare = 
+1,293 kg/m? y Patum = 2.70 x 10? kg/m?. Por lo tanto, w = 3,0014 N, que es sólo 0,048% mayor que 
+el peso en aire. Evidentemente, la fuerza ascencional debida al aire actuando sobre líquidos o sólidos 
+puede usualmente ignorarse. 
+Ejercicio Un pedazo de plomo (densidad específica = 11,3) pesa 80 N en aire. ¿Cuánto pesa 
+sumergido en agua? (Respuesta 72,9 N.)
+
+374 | Capítulo 13 Fluidos 
+Figura 13.11 
+Supongamos que la densidad del bloque que se muestra en la figura 13.11 es mayor que 
+la densidad del fluido del entorno, y que tanto el bloque como el plato de la balanza están: 
+completamente sumergidos en él. La fuerza gravitatoria que actúa sobre el bloque vale w, sa 
+peso, y la balanza está ajustada, de modo que marca cero cuando el plato no aguanta el blo- 
+que, como se muestra en la figura 13.11b. Si se coloca el bloque en el plato de la balanza 
+(figura 13.11a), la lectura de la escala es el peso aparente w,,, del bloque. Cuando el bloque 
+está sobre la balanza, éste está en contacto directo con el fluido, excepto en aquellos puntos 
+de la base donde se apoya en el plato de la balanza. Si suponemos que éste no es completa- 
+mente plano, sino que tiene rugosidades, el bloque se apoya únicamente en las regiones más 
+altas del plato. (En las más bajas, el fondo del bloque está en contacto con el fluido.) Anali- 
+cemos ahora esta situación para saber si la lectura de la escala de la balanza depende o no dei 
+área de contacto de las superficies del bloque y del plato de la balanza. 
+Mientras el bloque descansa sobre el plato de la balanza, la fuerza neta ejercida por el 
+fluido sobre el bloque F; resulta de una combinación de la fuerza hacia abajo ejercida por el 
+fluido en la superficie más alta del bloque y de la fuerza hacia arriba ejercida por el fluido en 
+aquellas regiones de la superficie inferior del bloque con las que está en contacto. (Hemos: 
+representado Fç hacia abajo. Sin embargo, si el fluido estuviera en contacto con una gran 
+porción de la superficie inferior del bloque, esta fuerza podría ir dirigida hacia arriba). Las 
+otras dos fuerzas verticales que actúan sobre el bloque son la fuerza gravitatoria w y la 
+fuerza hacia arriba Fp ejercida por el plato en las regiones de contacto directo. En la figura 
+13.116 se representa el bloque fuera de la balanza, y en su lugar, la cantidad equivalente de 
+fluido, de forma y tamaño idénticos (representado por la línea discontinua). Las mismas 
+regiones que estaban en contacto con el bloque ahora lo están con la muestra de fluido y, en 
+consecuencia, las fuerzas que actúan son la fuerza ejercida por el resto del fluido, Ff, la 
+fuerza hacia arriba ejercida por el plato, Fp , y la fuerza gravitatoria wç. Las fuerzas F; y Ff 
+son iguales, ya que en cada punto de contacto entre el fluido y la muestra de fluido las fuer- 
+zas son exactamente las mismas que entre el fluido y el bloque. 
+Cuando el bloque está sobre el plato de la balanza. está en equilibrio, y por lo tanto, Fp = 
+F; + w, o bien 
+Fp-F¡-w = 0 
+y cuando el bloque se saca del plato de la balanza, la muestra de fluido que lo reemplaza está 
+en equilibrio, y por lo tanto 
+Si se restan las dos ecuaciones anteriores, teniendo en cuenta que Ff, = F;,, y se reagrupan 
+los términos, nos queda 
+Fp-Fp = w-w; 
+en donde Fp — Fp corresponde al cambio de la lectura cuando se saca el bloque del plato de 
+la balanza. Por lo tanto, Fp — Fp es el módulo del peso aparente del bloque sumergido y, en 
+consecuencia 
+Wap = y= Wr 
+Normalmente se denomina a w — w,, fuerza ascensional B, con lo cual resulta 
+B li z | = li = 
+Esta expresión para la fuerza ascensional coincide con la de la ecuación 13.13, que se 
+estableció cuando el fluido estaba en contacto directo con toda la superficie del objeto 
+sumergido.
+
+EJEMPLO 13.6 | ¿Cómo se puede medir la grasa corporal? 
+El porcentaje de grasa corporal de una persona puede estimarse midiendo la densidad de su 
+cuerpo, teniendo en cuenta que la grasa es menos densa que los músculos y los huesos. La den- 
+sidad de la grasa es = 0,9 x 10° kg/m? y la densidad del tejido magro (todo el resto excepto la 
+grasa) = 1,1 x 10% kg/m*. La medida de la densidad del cuerpo consiste en determinar el peso 
+aparente cuando una persona está sumergida en agua, habiendo exhalado completamente el 
+aire de sus pulmones. (En la práctica, se estima el aire que queda en los pulmones y se corrige 
+su efecto). Supongamos que el peso aparente de una persona cuando está sumergida en agua es 
+el 5% de su peso. ¿Qué porcentaje del cuerpo de la persona es grasa? 
+Planteamiento del problema En una persona el volumen total es la suma del volumen de 
+grasa más el volumen de tejido magro, y la masa total es la suma de la masa de grasa más la masa de 
+tejido magro. El volumen y la densidad están relacionados con la masa mediante la relación m = pV. 
+La fracción de grasa se calcula dividiendo la masa de grasa entre la masa total e, igualmente, la frac- 
+ción de tejido magro se calcula dividiendo la masa de tejido magro entre la masa total. Natural- 
+mente, la fracción de masa más la fracción de tejido magro deben sumar 1. 
+1. Determinar la razón de la densidad del cuerpo de la persona y la densi- 
+dad del agua usando las ecuaciones 13.2 y 13.3: 
+2. El volumen corporal total es igual a la suma del volumen de grasa más Vo = A 
+el volumen de tejido magro: 
+Moa m y My, E EFE 
+Pm p- Ps 3. Como la densidad es igual a la masa dividida por el volumen, el volu- 
+men es la masa dividida por la densidad. Se sustituye esta relación en 
+el paso anterior: 
+4. La razón m/m, es la fracción de masa y mho es la fracción de 
+tejido magro. Se sustituye m, y m,, en los resultados del paso 3: p Ps Pm 
+5. La suma de la fracción de grasa más la fracción de tejido magro es  f, +f, = | 
+uno: 
+Aer Z . 6 1 De ( iz Te) 
+6. Se dividen los dos términos del resultado del paso 4 por m,,, y se susti- —= — + 
+tuye 1—f, por fin: RI EE Pm 
+7. Se despeja en el resultado del paso 6, fy: f= += (PnfP) 
+: z p= (Pml Pe) 
+8. Se utiliza el resultado del paso 1 para sustituir la p del resultado del f, = 
+paso 7 y se despeja de nuevo fy: 1 = (Pml Pe) 
+100% x f, =[21%] 
+Ejercicio Si el peso aparente de Ed cuando se sumerge en agua es cero, ¿cuánto vale su porcentaje 
+corporal de grasa? (Respuesta 45%) 
+9. Se expresa la fracción de grasa como un porcentaje: 
+EJEMPLO 13.7 | Sobre una plataforma 
+Una plataforma flotante de área A, espesor h y masa M = 600 kg flota en agua tranquila con 
+una inmersión de 7 cm. Cuando una persona sube a la plataforma, la inmersión es de 8,4 cm 
+(figura 13.12). ¿Cuál es la masa m de esta persona? 
+Planteamiento del problema Sea A el área de la plataforma, El peso del fluido desplazado por 
+la plataforma sola es p,Ad;g y el desplazado cuando sube la persona, p,Ad>g, en donde p, es la den- 
+sidad del agua, d} = 7 cm y d = 8,4 cm. Igualando el peso del fluido desplazado con el peso de los 
+objetos flotantes en cada uno de los casos, podemos eliminar A y p, y deducir la masa m. 
+PrAd¡g = Mg 
+p.¿Ad>g = (M + m)g 
+1. Igualar la fuerza ascensional cuando la inmersión es d, = 7 cm, con el 
+peso de la plataforma, y cuando la inmersión es d, = 8,4 cm, con el 
+peso de la plataforma más el de la persona: 
+Ma _ f ¿Mir q Los 
+1—(Pm/1,05Pagua) _ 1- (1,1/1,05) _ 
+13.3 Flotación y principio de Arquímedes | 375 
+La determinación del porcentaje de grasa del 
+cuerpo de este hombre se realiza pesándolo 
+cuando está sumergido bajo el agua, es decir, 
+midiendo su densidad, 
+~ 1-(1,1/09) =D 
+7.0 ci =k fe cm. A — 
+Ag o p I a an] 2 eet - 
+eE 8,4cm seta as) | ae 
+x | ES ee | 
+Figura 13.12
+
+376 | Capítulo 13 Fluidos 
+2. Dividir estas dos ecuaciones para eliminar las incógnitas A y p,: EM 
+1 
+3. Despejar m: _ {d _ (84cm -lok we (7-1) 2 ($52 - 1)c600 ke) =[120 ke 
+EJEMPLO 13.8 | El balanceo de un corcho 
+Un corcho posee una densidad p = 200 kg/m”. Determinar qué fracción del volumen del corcho 
+se sumerge cuando el corcho flota en agua. 
+Planteamiento del problema Sea V el volumen del corcho y Vum el volumen sumergido 
+cuando flota en agua. El peso del corcho es p.Vg y la fuerza ascensional debida al agua p, Veum&- 
+1. Como el corcho está en equilibrio, la fuerza ascensional será igual al w = B 
+peso: 
+2. Despejar V,,,..,/V: PVE = PaVsum8 
+TA Observación Como hemos visto, sólo una quinta parte del corcho está sumergido. Este 
+A £ resultado es independiente de la forma del corcho. y 
+Humo que sale de un cigarrillo encendido. Al 
+comienzo, el humo asciende mediante un flujo 
+regular, el flujo laminar, pero rápidamente este 
+movimiento se hace turbulento, de tal forma que el 
+humo forma remolinos irregulares. 
+Reemplazando en el cálculo anterior p, por pa la densidad del fluido, podemos determi- 
+nar la fracción sumergida de un objeto flotante en cualquier fluido. En el ejemplo anterior 
+hemos visto que la fracción de un objeto flotante sumergido es igual al cociente de la densi- 
+dad del objeto y la densidad del fluido. 
+V oa E (13.14) 
+Como la densidad del hielo es 920 kg/m? y la densidad del agua del mar es 1025 kg/m’, la 
+fracción de un iceberg sumergido en el océano es 
+V, g/m? sum P _ 920kg/m* _ 0398 V Pp 1025 kg/m? 
+El gran peligro que representan los icebergs para los barcos está relacionado con el hecho de 
+que sólo el 10 por ciento aproximadamente de un iceberg es visible por encima del agua. La 
+porción visible del iceberg ofrece poca información sobre la posición de la porción sumer- 
+gida del mismo. 
+13.4 Fluidos en movimiento 
+El comportamiento de un fluido en movimiento puede ser en general muy complicado. Con- 
+sideremos. por ejemplo el humo que asciende de un cigarrillo encendido. Al principio el 
+humo se eleva con una forma regular, pero pronto aparecen turbulencias y el humo empieza 
+a ondear de forma irregular. El flujo turbulento es muy difícil de estudiar, aunque sólo sea 
+cualitativamente. Por consiguiente, sólo consideraremos el flujo no turbulento, en estado 
+estacionario de un fluido “ideal”, no viscoso; es decir, uno que fluye sin disipación de ener- 
+gía mecánica. Supondremos también que el fluido es incompresible, lo cual es una buena
+
+13.4 Fluidos en movimiento | 377 
+roximación para la mayor parte de los líquidos. En un fluido incompresible, la densidad es Y 
+constante en todo el fluido. — 
+Puede verse en la figura 13.13 un fluido que circula por un tubo cuya sección transversal 
+decrece. El fluido fluye de izquierda a derecha. La parte sombreada de la izquierda indica el 
+volumen del líquido que fluye hacia el interior del tubo en el punto 1 en cierto intervalo de 
+iempo Ar. Si la velocidad del fluido en este punto es v; y el área de la sección transversal del 
+tubo vale A,, el volumen que entra en el tubo en el tiempo Af es Figura 13.13 
+AV=Ayv; At 
+Como estamos admitiendo que el fluido es incompresible, un volumen igual debe pasar 
+por cualquier punto del tubo en el mismo intervalo de tiempo Ar. El volumen que sale del 
+tubo en el punto 2 se indica con la zona sombreada a la derecha de la figura. Si la velocidad 
+del fluido en este punto es v, y el área correspondiente de la sección recta vale A», el volu- 
+men es AV=A»v, At. Como estos volúmenes son iguales, se tiene 
+Av; At = Av, At y porlotanto Av; = Av (13.15) 
+La magnitud Av se denomina caudal /,. Las dimensiones de /y son las de volumen divi- 
+dido por tiempo. En el flujo estacionario de un fluido incompresible, el caudal es el mismo 
+en todos los puntos de fluido: 
+Jy = Av = constante (13.16) 
+ECUACION DE CONTINUIDAD PARA UN FLUIDO INCOMPRENSIBLE 
+La ecuación 13.16 se denomina ecuación de continuidad. 
+Ejercicio La sangre circula por una arteria aorta de 1,0 cm de radio a 30 cm/s. ¿Cuál es el 
+caudal? (Respuesta Iy = Av = 9,42 x 10 m*/s.) Es costumbre dar la velocidad del bombeo 
+del corazón en litros por minuto. Utilizando 1 m° = 1000 L y 1 min = 60 s, se tiene /y = 5,65 
+L/min. 
+Ejercicio La sangre circula desde una porción de arteria gruesa de 0,3 cm de radio, en 
+donde su velocidad es 10 cm/s, a otra región en donde el radio se ha reducido a 0,2 cm, 
+debido a un engrosamiento de las paredes (arteriosclerosis). ¿Cuál es la velocidad de la san- 
+gre en la zona más estrecha? (Respuesta Si las velocidades inicial y la final son v, y v, y las 
+áreas correspondientes son A, y A», la ecuación 13.16 da 
+, — (0,3 cm)? A, ly = 1 = Se à a (0, ya O cm/s) = 22,5 emis. 
+Area A, 
+Ecuación de Bernoulli 
+Cuando una pequeña muestra de fluido fluye por un tubo y entra en una zona más estrecha, <4 Lf á 
+gana velocidad porque la presión que lo empuja de detrás hacia delante es mayor que la pre- g pa ha ¥/ 
+sión que desde el frente se opone al movimiento. La ecuación de Bermoulli relaciona la pre- | PE 
+sión, elevación y velocidad de un fluido incompresible en flujo estacionario. Resulta de las i H (a) 
+leyes de Newton y se deduce fácilmente aplicando el teorema trabajo-energia a una porción 
+del fluido. 
+Consideremos un fluido que circula por una tubería cuya altura y sección van variando 
+como se indica en la figura 13.14. Apliquemos el teorema trabajo-energía a la muestra de flujo 
+que está contenida inicialmente entre los puntos 1 y 2 de la figura 13.144, Al cabo de un cierto 
+tiempo Ar, esta muestra de fluido se habrá movido a lo largo del tubo y estará contenida en la 
+región comprendida entre los puntos 1” y 2’ de la figura 13.14b. Sea también Am = pAV la 
+masa de muestra de fluido. El efecto neto producido sobre el fluido en el intervalo de tiempo 
+Ar consiste en que la muestra Am de fluido se eleva desde la altura /, a la altura /,, mientras 
+que su velocidad varía de v, a v,. La variación de la energía potencial de la muestra es 
+Area A, 
+AU = (Am) gh, — (Am) gh, = p AV g(hy— hy) Figura 13.14
+
+378 | Capítulo 13 Fluidos 
+Muestra 
+F¡=PJA; 
+EA l I 
+Figura 13.15 Fluido que se mueve dentro de una 
+tubería de altura y sección transversal variable, El 
+trabajo total que realizan las fuerzas F, = PA; y 
+F = PA; tiene el efecto de elevar la porción 
+sombreada de fluido desde una altura /1, a A, y de 
+cambiar su velocidad de v, a vz. 
+y la variación de su energía cinética vale 
+AE, = 3(Am)v3 - 5(Am)v? = 5P AV(v3—v?) 
+El fluido que marcha detrás de la muestra Am de fluido en el tubo (a su izquierda en la 
+figura 13.15) ejerce una fuerza sobre ella de valor F, = P,A,. en donde P, es la presión en el 
+punto 1. Esta fuerza realiza un trabajo 
+W =F, Ax; = P,A, Ax, =P; AV 
+Al mismo tiempo, el fluido que precede a la masa en cuestión (a su derecha) ejerce una 
+fuerza F= P,A) dirigida hacia la izquierda de la figura. Esta fuerza realiza un trabajo nega- 
+tivo porque se opone al movimiento: 
+W=- F, Ax,=-— PA; Ax,=-P, AV 
+El trabajo total realizado por estas fuerzas es 
+Woot = Pi AV — P, AV = (P, -P,) AV 
+El teorema trabajo-energía dice que 
+Wowi = AU + AE, 
+de modo que 
+(P,—P) AV = p AVg(h>-h,) + ip AV(v3-—v?) 
+Si dividimos ambos lados por AV, se obtiene 
+P,-P, = pgh,-pgh, + 3pv3-3pv? 
+si reunimos todas las magnitudes que tienen subíndice 1 en un lado de la igualdad y dejamos 
+las que tienen subíndice 2 en el otro, esta ecuación se convierte en 
+P, + pgh, +3pvj = P,+pgh,+3pv3 (13.17a) 
+Este resultado puede finalmente escribirse como 
+P+pgy+ Spv? = constante (13.17b) 
+ECUACION DE BERNOULLI 
+lo que significa que esta combinación de magnitudes calculada en un punto determinado de 
+la tubería tiene el mismo valor que en cualquier otro punto. Las ecuaciones 13.17a y 13.17b 
+se conocen como ecuación de Bernoulli para el flujo constante y no viscoso de un fluido 
+incompresible. 
+Una aplicación especial de la ecuación de Bernoulli es la que se tiene cuando el fluido 
+está en reposo. Entonces v, = v, = 0 y se obtiene 
+P,- P= pg (hy —h,) = pgh 
+Este resultado es el mismo que el de la ecuación 13.7.
+
+13.4 Fluidos en movimiento 379 
+EJEMPLO 13.9 | un depósito agujereado 
+Un depósito grande de agua, abierto por arriba, tiene un orificio pequeño a una distancia Ah 
+por debajo de la superficie del agua. Hallar la velocidad del agua cuando escapa por el orificio. 
+Planteamiento del problema Apliquemos la ecuación de Bernoulli a los puntos a y b de la 
+figura 13.16. Como el diámetro del orificio es mucho menor que el diámetro del depósito, podemos 
+despreciar la velocidad del agua en su parte superior (punto a). 
+1. Según la ecuación de Bernoulli, con v, = 0: P,+pgh,+0 = P,+pgh,+ lov Figura 13.16 
+2. La presión en los puntos a y b es la misma, P,,, ya que ambos están P, = Pu y Pp = Py 
+abiertos al aire: o 
+P,+pgh,+0 = P, +P2h,+ ipv 
+3. Despejar la velocidad v, del agua que fluye por el orificio: ví = 2g(h,—h,) = 2gAh 
+y por lo tanto 
+Ejercicio Si el agua que fluye por el orificio estuviera dirigida verticalmente hacia arriba, ¿qué 
+altura alcanzaría? (Respuesta El agua alcanzaría una altura Ah, es decir, el mismo nivel que el agua 
+tiene en el depósito.) 
+En el ejemplo 13.9 el agua sale del orificio con una velocidad igual a la que tendría si 
+cayese en caída libre una distancia h. Este resultado se conoce como ley de Torricelli. 
+En la figura 13.17 se muestra agua que está circulando por una tubería horizontal que tiene 
+una región de menor diámetro. Como ambas partes del tubo tienen la misma altura, A, = / en 
+la ecuación 13.17a. Entonces la ecuación de Bernoulli se reduce a 
+Figura 13.17 Estrechamiento en una tubería por 
+la que circula un fluido. La presión es menor en la 
+sección más estrecha de la tubería, en donde el 
+fluido se mueve más rápidamente. 
+P+3pv? = constante (13.18) 
+Cuando el fluido se introduce en el estrechamiento, al ser menor el área A, la velocidad v 
+deberá, en consecuencia, ser mayor, para que se mantenga constante el producto Av, Pero, si 
+la velocidad aumenta, la presión debe disminuir, puesto que P ++pv? debe permanecer 
+constante. Por consiguiente, se reduce la presión en la parte estrecha. 
+Cuando aumenta la velocidad de un fluido, desciende la presión. 
+EFECTO VENTURI 
+Este resultado suele conocerse como efecto Venturi. La ecuación 13.18 es un importante 
+resultado que se aplica en muchas situaciones donde pueden ignorarse los cambios de altura. 
+En la figura 13.18 se representan las líneas de corriente del flujo de un fluido. La direc- 
+ción de las líneas denota la dirección del flujo y el espaciado entre ellas representa su veloci- Figura 13.18 
+dad. Cuanto menor es el espacio entre líneas, mayor es la velocidad. En el flujo horizontal, 
+cuando la velocidad aumenta, la presión disminuye, por lo que cuando las líneas de corriente 
+se juntan la presión disminuye. 
+EJEMPLO 13.10 | El venturímetro ¡INTÉNTELO USTED MISMO! 
+Un venturimetro es un aparato para medir la velocidad de un fluido. Un fluido de densidad py 
+pasa a través de una tubería de área transversal A, que posee un estrechamiento de área A, 
+(figura 13.19). Las dos partes de la conducción están conectadas por un manómetro, un tubo 
+en forma de U, parcialmente lleno de un líquido de densidad p,. Como la velocidad de flujo es 
+mayor en el estrechamiento, la presión en esta sección es menor que en la parte más ancha de 
+la tubería. La diferencia de presión viene medida por la diferencia Ah de los niveles del líquido 
+en el tubo en U. Expresar la velocidad y, en función de la altura medida Ah y las magnitudes 
+conocidas pp py, y r =A Az Figura 13.19 Venturímetro.
+
+380 | Capítulo 13 Fluidos 
+Planteamiento del problema Las presiones P, y Pen las regiones más ancha y más estrecha 
+de la tubería están relacionadas con las velocidades v} y v por la ecuación de Bernoulli. La diferen- 
+cia de presión está relacionada con la altura Ah por P,— P = pg Ah. Mediante la ecuación de conti- 
+nuidad puede expresarse v, en función de v; y las áreas Ay y Ap. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos 
+1. Expresar la ecuación de Bernoulli en una conducción horizontal para 
+Respuestas 
+Pijs ipp? = Py+ +Prv3 
+las regiones más ancha y más estrecha de la tubería. 
+2. Expresar la ecuación de continuidad para las dos regiones y despejar 
+v, en función de v, y las áreas A, y A> 
+3. Sustituir el valor de v, en la ecuación del paso 1 y obtener una ecua- 
+ción para P¡ — P». 
+4. Escribir P, — P, en función de la diferencia de altura Ah del agua en las 
+PaA = VA, 
+de modo que 
+A; Ya = rA, =i) 
+P,- P, = 5pev3—v7) = jp? Dv] 
+P-P, = p_gAh—pgAh = (Pi -—pe)gAh 
+ramas del tubo en U. Esta diferencia de presión es igual a la caída de la 
+presión en una columna del líquido de altura AA y a la de una columna 
+de fluido de la misma altura, 
+5. Igualar las dos expresiones de P} — P, y despejar v, en función de Ah. 5pp(?— LVF =(P, —Pr)gAh 
+de donde 
+Ejercicio Determinar v; si Ah =3 cm, r=4, el fluido es aire (pp = 1,29 kg/m?) y el líquido del tubo 
+en U del venturímetro es agua (p, = 10° kg/m”). (Respuesta v =5,52 m/s.) 
+Observación Este cálculo no es tan exacto como el del ejemplo 13.9 porque el aire no es un 
+fluido incompresible. Estrictamente hablando, la ecuación de Bernoulli y la ecuación de continuidad 
+sólo se cumplen para fluidos incompresibles. 
+El flujo de aire por encima y por debajo del alerón del 
+bólido de fórmula Indy de la figura, crea una presión 
+mayor en la parte superior del alerón, aumentando el 
+peso del coche, lo cual permite un mejor control del 
+mismo cuando se mueve a velocidades altas. Las alas 
+de avión se diseñan de tal modo que la presión del aire 
+debajo del ala sea mayor que la presión por encima del 
+ala creando así la sustentación del aparato. 
+Figura 13.20 (a) Vista superior de una pelota 
+lanzada con un efecto (velocidad angular 6) que la 
+hace girar sobre sí misma en sentido contrario al de las 
+agujas del reloj. (b) En el sistema de referencia de la 
+pelota, ésta se encuentra estacionaria (pero girando) y 
+el aire circula con gran velocidad al pasar junto a ella. 
+Debido a su cubierta rugosa, la pelota, al girar, arrastra 
+el aire de su alrededor, haciendo que la velocidad del 
+aire sea mayor en su parte izquierda que en la derecha. 
+Por consiguiente, la presión es menor en la parte 
+izquierda, en donde la velocidad del aire es mayor, de~ 
+forma que la pelota se desvía hacia la izquierda. 
+El efecto Venturi permite explicar cualitativamente tanto la sustentación de las alas de los 
+aviones como las trayectorias curvas de las pelotas lanzadas con efecto. El ala de los aviones se 
+diseña de modo que el aire se mueva más rápidamente sobre la parte superior del ala que bajo 
+de la misma, con lo cual la presión del aire es menor encima que debajo del ala. La figura 
+13.20a muestra una visión superior del movimiento de una pelota que sigue una trayectoria 
+curva. Cuando la pelota gira sobre sí misma tiende a arrastrar aire a su alrededor. La figura 
+13.20b está dibujada desde el punto de vista de la pelota estacionaria (pero girando sobre si 
+misma) con el aire moviéndose respecto a ella). El movimiento del aire originado por el arras- 
+tre de la bola en movimiento giratorio, se suma a la velocidad del aire que se mueve por el lado 
+izquierdo de la pelota (parte superior en la figura), y se resta de ella por el lado derecho (o parte 
+(a)
+
+ferior en la figura). Asi pues, la velocidad del aire es mayor en el lado izquierdo de la pelota 
+ue en el lado derecho y, por lo tanto, la presión en el lado izquierdo es menor que la existente 
+en el lado derecho. Por consiguiente, la trayectoria se curva hacia la izquierda. El pulverizador 
+de la figura 13.21 funciona también según el principio del efecto Venturi. 
+Aunque la ecuación de Bernoulli resulta muy útil para describir cualitativamente muchas 
+de las características de un fluido en movimiento. normalmente resulta inadecuada cuando 
+‘se compara cuantitativamente con los resultados experimentales. Por supuesto, los gases 
+como el aire no son incompresibles, y los líquidos como el agua poseen viscosidad; lo que 
+“inválida la suposición hecha de que se conserva la energía mecánica. Además, normalmente 
+resulta difícil mantener el flujo estacionario sin que se produzca turbulencia, y este fenó- 
+meno influye grandemente en los resultados. 
+*Flujo viscoso 
+De acuerdo con la ecuación de Bernoulli, si un fluido fluye estacionariamente por una tube- 
+ría horizontal estrecha y de sección transversal constante, la presión será constante a lo largo 
+de la tubería. En la práctica se observa una caída de presión según nos desplazamos en la 
+dirección del flujo. Considerando este fenómeno de otro modo, podemos ver que se requiere 
+una diferencia de presión para empujar y conseguir la circulación de un fluido a través de un 
+tubo horizontal. Es necesaria esta diferencia de presión a causa de la fuerza de resistencia o 
+de frenado que ejerce el tubo sobre la capa de fluido que está en contacto con él y de la 
+fuerza de arrastre que ejerce cada capa de fluido sobre la adyacente que se está moviendo 
+con distinta velocidad. Estas fuerzas de arrastre o de resistencia se denominan fuerzas vis- 
+cosas. Como resultado de su presencia, la velocidad del fluido tampoco es constante a lo 
+largo del diámetro de la tubería siendo mayor cerca de su centro y menor cerca de sus bor- 
+des, en donde el fluido entra en contacto con las paredes de la misma (figura 13,22). Sea P, 
+la presión en el punto 1 y P, la presión en el punto 2 a la distancia £ (siguiendo la dirección 
+de la corriente) del anterior. La caída de presión AP = P, — P, es proporcional al caudal: 
+AP=P,-P,=1yR (13.19) 
+en donde /y = vA es el caudal y la constante de proporcionalidad R es la resistencia al flujo, 
+que depende de la longitud £ del tubo, de su radio r y de la viscosidad del flujo. 
+EJEMPLO 13.11 | 
+Cuando la sangre fluye procedente de la aorta a través de las arterias principales, las arterio- 
+las, los capilares y las venas, hasta la aurícula derecha, la presión (manométrica) desciende 
+desde 100 torr aproximadamente a cero. Si el caudal es de 0,8 L/s, hallar la resistencia total del 
+sistema circulatorio. 
+Planteamiento del problema La resistencia está relacionada con la caída de presión y el cau- 
+dal por la ecuación 13.19. Utilizaremos la ecuación 13.9 para convertir los torr en kPa. 
+Resistencia al flujo sanguíneo 
+13.4 Fluidos en movimiento 381 
+L E 
+Figura 13.21 Pulverizador. Apretando el bulbo 
+de la izquierda se obliga al aire a atravesar la parte 
+estrecha del tubo lo que hace que la presión se 
+reduzca respecto a la presión atmosférica. Debido a 
+la diferencia de presiones que resulta de ello, el 
+líquido contenido en el vaso se ve forzado a 
+introducirse en la corriente de aire a través del tubo 
+vertical y emerge por la boquilla. Un efecto análogo 
+tiene lugar en el carburador de un motor de 
+gasolina. 
+Figura 13.22 Cuando un fluido viscoso fluye 
+por una tubería, su velocidad es mayor en el centro 
+de la misma. Próximo a las paredes de la tubería el 
+fluido tiende a permanecer en reposo. 
+Expresar la resistencia en función de la caída de presión y el caudal y R = x 
+expresar todos los términos en unidades del SI: id 
+2 100 torr | 101 kPa IL X lcm? 
+0,8 L/s — 760 torr 103 cm? 10% cm? 
+16,6 kPa - s/m* 
+Observación Recordando que | Pa = 1N/m? podríamos expresar el resultado en la forma 
+1,66 KN - s/m'. 
+A continuación definiremos el coeficiente de viscosidad de un fluido. En la figura 13.23 
+se muestra un fluido confinado entre dos placas paralelas, cada una de ellas de área A y sepa- 
+radas por una distancia z. Manteniendo la placa inferior en reposo, se tira de la placa supe- 
+rior con velocidad constante v mediante una fuerza F. Es necesario ejercer esta fuerza para
+
+382 | Capítulo 13 Fluidos 
+Figura 13.23 Fluido viscoso entre dos placas 
+iguales de área A. Cuando se mueve la placa 
+superior respecto a la placa inferior, cada capa de 
+fluido ejerce una fuerza de arrastre sobre las capas 
+adyacentes. La fuerza necesaria para desplazar la 
+placa superior es proporcional a la velocidad v y al 
+área A e inversamente proporcional a la separación 
+entre las placas z. 
+tirar de la placa superior porque el fluido próximo a la placa ejerce una fuerza viscosa de 
+resistencia que se opone al movimiento. La velocidad del fluido entre las placas es práctica- 
+mente igual a v en un lugar próximo a la placa superior y próximo a cero cerca de la placa 
+inferior, y varía linealmente con la distancia entre las placas. La fuerza F resulta ser directa- 
+mente proporcional a v y A e inversamente proporcional a la separación z entre las placas. La 
+constante de proporcionalidad es el coeficiente de viscosidad 7: 
+Es na (13.20) 
+La unidad de viscosidad en el SI es el N - s/m? = Pa - s. Una unidad antigua del sistema cgs, 
+pero de uso común, es la dina/cm?, llamada poise en honor del físico francés Poiseuille. 
+Estas unidades están relacionadas por 
+1 Pa - s = 10 poise (13.21) 
+En la tabla 13.3 se muestran los coeficientes de viscosidad para varios fluidos a diferentes 
+temperaturas. Generalmente la viscosidad de un líquido aumenta cuando disminuye la tem- 
+peratura. Así pues, en climas fríos, el aceite a utilizar para lubricar los motores de los 
+automóviles debe tener un grado de viscosidad más bajo en invierno que en verano. 
+Ley de Poiseuille Se puede demostrar que la resistencia R a la circulación de un fluido 
+de la ecuación 13.19 para un flujo estacionario en un tubo circular de radio r es 
+Re E (13.22) 
+Las ecuaciones 13.19 y 13.22 se pueden combinar para obtener la caída de presión en una 
+longitud L de un tubo circular de radio r: 
+AP = SG] (13.23) 
+Ley DE POISEUILLE 
+La ecuación 13.23 se conoce con el nombre de ley de Poiseuille. Obsérvese la dependencia 
+con la inversa de 74 de la caída de presión. Si se divide por la mitad el radio del tubo, la caída 
+de presión para un flujo de volumen y viscosidad dados se aumenta en un factor de 16; o 
+bien se necesita una presión 16 veces mayor para impulsar el fluido a través del tubo con el 
+mismo flujo de volumen. Por ello, si por alguna razón se reduce el diámetro de los vasos san- 
+guíneos o arterias, o bien el flujo de volumen de la sangre disminuye grandemente, o bien la 
+presión sanguínea debe subir para mantener el mismo flujo de volumen. Para el agua que 
+fluye por una manguera larga del jardín, la caída de presión es la que existe desde la fuente 
+de agua hasta el extremo abierto de la manguera a presión atmosférica. Del mismo modo, el 
+TABLA 13.3 Coeficientes de viscosidad de varios fluidos 
+Fluido £ °C o M, mPa-s 
+Agua 0 1.8 
+20 1,00 
+60 0,65 
+Sangre 37 4,0 
+Aceite para motores (SAE 10W) 30 200 
+Glicerina 0 10000 
+20 1410 
+60 81
+
+flujo es proporcional a la cuarta potencia del radio. Si el radio se divide por la mitad, el flujo 
+disminuye en un factor de 16. 
+La ley de Poiseuille se aplica sólo al flujo laminar (no turbulento) de un fluido de viscosi- 
+dad constante que es independiente de la velocidad del fluido. La sangre es un fluido com- 
+plejo formado por partículas sólidas de diferentes formas suspendidas en un líquido. Los 
+glóbulos rojos de la sangre, por ejemplo, son corpúsculos en forma de disco que están orien- 
+tados al azar a velocidades bajas pero que, a velocidades altas, tienden a orientarse para faci- 
+litar el flujo. Así pues, la viscosidad de la sangre disminuye cuando aumenta la velocidad de 
+flujo, de forma que no es estrictamente válida la ley de Poiseuille. Sin embargo, dicha ley es 
+una buena aproximación que es muy útil cuando se quiere obtener una comprensión cualita- 
+tiva del flujo sanguíneo. 
+En el capítulo 25 se estudiará el flujo de corriente eléctrica / por un hilo de metal. Una de 
+las relaciones básicas de aquel capítulo es la ley de Ohm, AV = ZR, donde AV es la diferencia 
+de potencial y R es la resistencia eléctrica del hilo. Como veremos, la ley de Ohm es análoga 
+a la ley de Poiseuille AP = /yR. 
+Turbulencia: número de Reynolds Cuando la velocidad de flujo de un fluido 
+resulta suficientemente grande, se rompe el flujo laminar y se establece la turbulencia. La 
+velocidad crítica por encima de la cual el flujo que fluye a través de un tubo resulta turbu- 
+lenta depende de la densidad y de la viscosidad del fluido y del radio del tubo. El flujo de un 
+fluido puede caracterizarse mediante un número adimensional denominado Número de 
+Reynolds Ng, que se define así: 
+Np = ZO (13.24) n 
+en donde v es la velocidad media del fluido. Los experimentos han demostrado que el flujo 
+será laminar si el número de Reynolds es inferior a 2000 aproximadamente y será turbulento 
+si sobrepasa los 3000. Entre estos valores el flujo es inestable y puede variar de un tipo de 
+flujo a otro. 
+EJEMPLO 13.12 | Flujo sanguíneo en la aorta 
+Calcular el número de Reynolds para la sangre que circula a 30 cm/s por una aorta de 1,0 cm de 
+radio. Suponer que la sangre tiene una viscosidad de 4 mPa + s y una densidad de 1060 kg/m. 
+Planteamiento del problema Como el número de Reynolds, Ng, es adimensional, podemos 
+utilizar cualquier sistema de unidades con tal de que sea coherente. 
+Expresar la ecuación 13.24 del número de Reynolds con todas las magni- Nz = are 
+tudes expresadas en unidades del SI: 7 
+Observación Como el número de Reynolds es inferior a 2000, este flujo será laminar y no turbu- 
+lento. 
+Resumen 
+2(0,01 m)(1060 kg/m*)(0,3 m/s) ES 
+13.4 Fluidos en movimiento 383 
+Foto en falso color de la turbulencia de la sangre 
+que entra y sale del corazón según se muestra en 
+una imagen obtenida por resonancia magnética 
+(IRM). Se ve en rojo en chorro de sangre sistólico 
+que, procedente del ventrículo izquierdo, entra en la 
+aorta; es de color azul la sangre que en el proceso 
+diastólico procede a llenar los ventrículos. 
+4x 103 Pa-s ith 
+1 La densidad, la densidad específica y la presión son magnitudes definidas importantes en la estática y 
+dinámica de fluidos. 
+2 Los principios de Pascal y de Arquímedes se deducen de las leyes de Newton. 
+3 La ecuación de Bernoulli se deduce del principio de conservación de la energía mecánica. 
+*4 El efecto Venturi es un caso especial de la ecuación de Bernoulli. 
+*5 La ley de Poiseuille da cuenta de la caída de la presión a causa de la viscosidad; el número de Reynolds 
+se utiliza para predecir si un flujo es laminar o turbulento.
+
+384 | Capítulo 13 Fluidos 
+TEMA OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Densidad La densidad de una sustancia es el cociente entre su masa y su volumen: 
+p= (13.1) <5 
+Las densidades de la mayoría de los sólidos y líquidos son aproximadamente independientes de la tempera- 
+tura y de la presión, mientras que la de los gases depende fuertemente de estas magnitudes. 
+2. Densidad específica La densidad específica de una sustancia es el número que resulta de dividir su densidad por la del agua. Un 
+objeto se hunde o flota en un fluido determinado según que su densidad sea mayor o menor que la del Ruido. 
+3. Presión p=t (13.3) 
+Unidades | Pa= 1 N/m? (13.4) 
+| atm = 760 mmHg = 760 torr = 29,9 pulg Hg = 101,325 kPa = 14,7 Ib/pulg? (13.9) 
+1 bar = 10° milibares = 100 kPa (13.10) 
+Presión manométrica La presión manométrica es la diferencia entre la presión absoluta y la presión atmosférica: 
+P= P msvomética + Pa (13.8) 
+En un líquido P=Py+ pgh (p constante) (13.7) 
+En un gas En un gas como el aire, la presión disminuye exponencialmente con la altitud. 
+Módulo de compresibilidad ED (13.6) AVIV i 
+4. Principio de Pascal Los cambios de presión aplicados a un fluido encerrado en un recipiente se transmiten sin disminución a 
+todos los puntos del fluido y a las paredes del recipiente. 
+5. Principio de Arquímedes Un cuerpo sumergido total o parcialmente en un fluido se ve sometido a una fuerza ascensional igual al peso 
+del fluido desplazado. 
+*6. Flujo de fluidos 
+Caudal ly =Av 
+Ecuación de continuidad ly = Av = constante (13.16) 
+Ecuación de Bernoulli P+pgy+ 5 pv? = constante (13.17b) 
+Efecto Venturi La presión disminuye cuando aumenta la velocidad del fluido. 
+Resistencia al flujo de fluidos AP,=1I\R (13.19) 
+Coeficiente de viscosidad F= (13.20) 
+ee og 8nL Ley de Poiseuille para el flujo viscoso AP = arly (13.23) 
+Flujo laminar, flujo turbulento y número de - El fiujo es laminar si el número de Reynolds Ng es menor que 2000 (aproximadamente) y turbulento si es 
+Reynolds (opcional) mayor que 3000, en donde Nz viene dado por 
+Na = APY (13.24) n
+
+Problemas 
+Problemas 38: 
+® Concepto simple, un solo paso, relativamente fácil. 
+ee Nivel intermedio, puede exigir síntesis de conceptos. 
+eee  Desafiante, para alumnos avanzados. 
+ssM La solución se encuentra en el Student Solutions Manual. 
+l Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. 
+Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan a los fuentes externas o estimaciones 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. 
+En algunos problemas se dan 
+más datos de los realmente 
+necesarios; en otros pocos, deben 
+extraerse algunos datos a partir 
+de conocimientos generales, 
+lógicas. 
+Problemas conceptuales 
+1 e Si la presión manométrica se duplica, la presión absoluta (a) se 
+reduce a la mitad, (4) se duplica, (c) no se modifica, (d) se eleva al cuadrado, 
+(e) falta información para determinar el efecto. 
+2 @ SSM {Se cumple el principio de Arquímedes en un satélite 
+que gira alrededor de la Tierra en una órbita circular? Razonar la respuesta. 
+3 es Unapiedra de masa M y que tiene una densidad del triple de la del 
+agua se cuelga de una cuerda. Con una mano sujetamos un extremo de la 
+cuerda y la introducimos en un depósito lleno de agua hasta el borde, el cual 
+descansa sobre una balanza, Cuando la piedra está exactamente por encima del 
+fondo del depósito se rompe la cuerda. Desde el momento en que la cuerda se 
+rompe hasta que la piedra descansa en el fondo del depósito, la lectura de la 
+balanza aumenta (a) 2Mg, (b) Mg, (c) 2/3Mg, (d) 1/3Mg, (e) cero. 
+4 es Una roca se lanza a una piscina llena de agua a temperatura uni- 
+forme. ¿Cuál de las siguientes afirmaciones es cierta? 
+(a) La fuerza ascensional sobre la roca es nula cuando ésta se hunde. 
+(b) La fuerza ascensional sobre la roca crece cuando ésta se hunde. 
+(c) La fuerza ascensional sobre la roca disminuye cuando ésta se hunde. 
+(d) La fuerza ascensional sobre la roca es constante cuando ésta se hunde. 
+(e) La fuerza ascensional sobre la roca cuando ésta se hunde es distinta de cero 
+al principio, pero se anula cuando se alcanza la velocidad límite. 
+5 ee Una pecera descansa sobre una balanza. Súbitamente el pez nada 
+hacia arriba para tomar alimento. ¿Qué ocurre con la lectura de la balanza? 
+6 sees SSM Dos objetos están equilibrados como indica la figura 
+13.24, Los objetos tienen volúmenes idénticos, pero masas distintas. ¿Se per- 
+turbará el equilibrio si el sistema está completamente sumergido en agua? 
+Razonar la respuesta. 
+Figura 13.24 Problema 6 
+7 ee Un bloque de 200 g de plomo y otro de 200 g de cobre están 
+cubiertos de agua, suspendidos de un hilo justo por encima del fondo de un 
+acuario lleno de agua. ¿Cuál de las siguientes afirmaciones es cierta? 
+(a) La fuerza ascensional es mayor en el plomo que en el cobre. 
+(b) La fuerza ascensional es mayor en el cobre que en el plomo. 
+(c) La fuerza ascensional es la misma en ambos blogues, 
+(d) Se necesita más información para decidir entre las anteriores. 
+8 @@ Un bloque de 20 cm? de plomo y otro de 20 cm? de cobre estár 
+cubiertos de agua, suspendidos de un hilo justo por encima del fondo de ur 
+acuario lleno de agua, ¿Cuál de las siguientes afirmaciones es cierta? 
+(a) La fuerza ascensional es mayor en el plomo que en el aire. 
+(b) La fuerza ascensional es mayor en el cobre que en plomo. 
+(c) La fuerza ascensional es la misma en ambos bloques. 
+(d) Se necesita más información para decidir entre las anteriores. 
+9 e En unos almacenes se exhibe una pelota de playa que se sostiene 
+en el aire de una corriente que procede de un tubo conectado al escape de un 
+aspirador doméstico. ¿Cómo debe soplar el aire sobre la pelota: por encima c 
+por debajo de ésta? Razonar la respuesta. 
+10 e Una tubería horizontal se estrecha en una conducción pasando de 
+un diámetro de 10 cm a otro de 5 cm. Para un fluido no viscoso que circula sir 
+turbulencias por su interior desde el diámetro mayor al menor: (a) La velocidac 
+y la presión se incrementan. (b) La velocidad crece y la presión disminuye 
+(c) La velocidad disminuye y la presión crece. (d) La velocidad y la presión 
+decrecen. (e) La velocidad o la presión cambian, pero no ambas a la vez, 
+11 e SSM Verdadero o falso: La fuerza ascensional sobre un objete 
+sumergido depende de la forma del mismo. 
+12 e La figura 13.25 muestra un dispositivo que consiste en una botella 
+de plástico flexible, cerrada y parcialmente llena de agua en cuyo interior hay 
+un tubo de ensayo colocado boca debajo de modo que en su punto más alto 
+tiene una burbuja de aire. Normalmente el tubo flota, pero cuando se aprieta 
+con fuerza la botella, el tubo se hunde. Explicar los motivos. 
+Aire atrapado 
+atrapado 
+y 
+al 
+Tubo 
+de ensayo 
+Agua 
+Figura 13.25 Problema 12 
+13 e Sobre el agua de un vaso flotan unos cubitos de hielo. ¿Qué ocu- 
+rre con el nivel del agua al fundirse el hielo? 
+14 e ¿Por qué es más fácil flotar en agua salada que en agua dulce?
+
+386 | Capitulo 13 Fluidos 
+15 ee Un objeto tiene una densidad ligeramente inferior a la del agua, 
+de modo que flota casi totalmente sumergido. Sin embargo, el objeto es mas 
+compresible que el agua. ¿Qué ocurre si se da al objeto un ligero impulso para 
+sumergirlo totalmente? 
+16 es Enel ejemplo 13.10, el fluido acelera y adquiere una mayor velo- 
+cidad cuando pasa a través de la parte estrecha del tubo. Identificar las fuerzas 
+que actúan sobre el fluido para producir esta aceleración. 
+17 es Un vaso de agua acelera hacia la derecha a lo largo de una super- 
+ficie horizontal. ¿Cuál es el origen de la fuerza que produce la aceleración 
+sobre un pequeño elemento de agua que está en medio del vaso? Explicarlo 
+mediante un esquema. 
+18 ee SSM Una persona está sentada en un bote que flota en un 
+estanque muy pequeño. Toma el ancla y la echa al agua. ¿Se modifica el nivel 
+del agua en el estanque? 
+19 es La figura 13.26 muestra un esquema de un agujero construido por 
+un perro de las praderas. La geometría de los dos agujeros y su posición respec- 
+tiva asegura que cuando el viento sopla por el agujero número 2 tiene siempre 
+una velocidad inferior que cuando sopla por el agujero número 1. Explicar 
+cómo el principio de Bernouilli explica que el túnel se mantenga ventilado, e 
+indicar en qué dirección fluird el viento en el túnel. 
+Figura 13.26 Problema 19 
+20 e SSM Tal como se muestra en la figura 13.27, tres recipientes 
+de formas diferentes se llenan con agua hasta el mismo nivel, El área del fondo 
+de los recipientes es la misma y la presión hidrostática del agua en los fondos 
+también, pero la fuerza total es distinta, ya que cada botella tiene una cantidad 
+de líquido distinta en su interior, Explicar esta paradoja aparente. 
+aa Figura 13.27 Problema 20 
+Densidad 
+21 e Uncilindro de cobre tiene una longitud de 6 cm y un radio de 2 cm. 
+Hallar su masa. 
+22 e Hallar la masa de una esfera de plomo de 2 cm de radio. 
+23 a i 
+4mx5mx4m. 
+24 er SSM Sellena un recipiente de 60 ml con mercurio a 0 °C 
+(figura 13.28). Cuando se eleva su temperatura 80 °C, se salen 1,47 g de mercu- 
+rio del recipiente. Suponiendo que el volumen del recipiente permanece cons- 
+tante, calcular la densidad del mercurio a 80 °C si su densidad a 0 °C es de 
+13,645 kg/m. 
+Hallar la masa del aire contenido en una habitación de 
+0°C 80 °C 
+Figura 13.28 Problema 24 
+Presión 
+25 e 1 Las lecturas barométricas en los países de habla 
+inglesa suelen venir dadas en pulgadas de mercurio (pulgHg). Hallar en pulgHg 
+la presión de 101 kPa. 
+26 e La presión sobre la superficie de un lago es la presión atmosférica 
+P,, = 101 kPa. (a) ¿A qué profundidad la presión es el doble de la atmosférica? 
+(b) Si la presión en la superficie de un recipiente profundo que contiene mercu- 
+rio es P,» ¿a qué profundidad la presión es igual a 2P,,? 
+27 e sm i Se utiliza un elevador hidráulico para levantar 
+un automóvil de 1500 kg de masa. El radio del eje del elevador es 8 cm y el del 
+pistón es de 1 cm. ¿Cuánta fuerza debe aplicarse al pistón para levantar el auto- 
+móvil? 
+28 ee Cuando una mujer con tacones altos da un paso, momentánea- 
+mente descarga todo su peso sobre el tacón de uno de sus zapatos, que tiene un 
+área de 1 cm?. Si su masa es de 56 kg, ¿cuál es la presión que su tacón ejerce 
+sobre el suelo? 
+29 e SSM ¿Qué presión se necesita para reducir el volumen de | kg 
+de agua desde 1,00 L a 0,99 L? 
+30 e i Un coche de 1500 kg está apoyado sobre cuatro rue- 
+das, que se encuentran infladas a una presión manométrica de 200 kPa. ¿Cuál 
+es el área de contacto de cada rueda con el suelo, suponiendo que las cuatro 
+ruedas soportan el peso por igual? 
+31 @@ Enel siglo XVII, Blaise Pascal realizó el experimento indicado en 
+la figura 13.29. Se llenó con agua un barril de vino al que se le conectó luego 
+un tubo largo y se fue añadiendo agua por el tubo hasta que reventó el barril. 
+(a) Si el radio de la tapa del barril era de 20 cm y la altura del agua en el tubo 
+era de 12 m, calcular la fuerza ejercida sobre la tapa. (b) Si el tubo tenía un 
+radio interior de 3 mm, ¿qué masa de agua del tubo produjo la presión que 
+reventó el barril? 
+i 
+Figura 13.29 Problema 31 
+32 ee | Se hace fluir plasma sanguíneo desde una bolsa a tra- 
+vés de un tubo hasta la vena de un paciente, en un punto en que la presión de la 
+sangre es de 12 mmHg. La densidad específica del plasma a 37 °C es 1,03. 
+¿Cuál es la altura mínima a la que deberá estar la bolsa para que el plasma entre 
+en la vena?
+
+33 es Mucha gente cree que si se hace flotar la parte superior de un tubo 
+snorkel” (tubo de respiración) fuera del agua (figura 13.30), podrían respirar 
+n él mientras están paseando bajo el agua. Sin embargo, la presión del agua 
+opone a la dilatación del pecho y al inflado de los pulmones. Supóngase que 
+as se puede respirar si se está tumbado en el suelo con un peso de 400 N 
+bre el pecho. ¿A qué profundidad por debajo de la superficie del agua podría 
+tar el pecho para poder respirar aún, si se supone que la superficie del pecho 
+es de 0,09 m?? 
+Figura 13.30 Problema 33 
+34 es Enelejemplo 13.3, una fuerza de 147 N se aplica a un pequeño pis- 
+tón para levantar un coche que pesa 14 700 N. Demostrar que este hecho no viola 
+la ley de conservación de la energía mecánica observando que cuando el coche se 
+eleva una distancia h, el trabajo realizado por la fuerza que actúa sobre el pistón 
+pequeño es igual al trabajo realizado por el pistón grande sobre el coche. 
+35 e i Un cubo hueco de arista a está medio lleno de agua de 
+densidad p. Determinar la fuerza ejercida por el agua sobre una cara del cubo. 
+(Los bordes del cubo son tanto horizontales como verticales.) 
+36 eo. SSM  Elvolumen de un cono de altura A y radio de la base res 
+= į T rh. Se llena con agua un recipiente cónico de 25 cm de altura que se 
+apoya sobre su base de radio 15 cm. (a) Hallar el volumen y el peso del agua 
+contenida en el recipiente. (b) Hallar la fuerza ejercida por el agua sobre la base 
+del recipiente. Explicar cómo puede ser mayor esta fuerza que el peso del agua. 
+| Flotación 
+37. e sM off Una pieza de cobre (densidad específica 9,0) 
+de 500 g se sumerge en agua y se suspende de un dinamómetro (figura 13.31). 
+¿Qué fuerza indicará el índice del dinamómetro? 
+Figura 13.31 Problema 37 
+Problemas | 387 
+38 e E Cuando se ata una piedra de 60 N a un dinamómetro y 
+se sumerge en el agua, el indice de la escala marca 40 N. Calcular la densidad 
+de la piedra. 
+39 e i Un bloque de un material desconocido pesa 5 N en aire 
+y 4,55 N cuando se sumerge en agua. (a) ¿Cuál es la densidad del material? 
+(b) ¿De qué material está hecho el bloque? 
+40 e Un trozo de metal pesa 90 N en aire y 56,6 N cuando se sumerge 
+en agua. Determinar la densidad de este metal. 
+41 ee Ë Y Un objeto flota en el agua con el 80% de su volu- 
+men por debajo de la superficie. El mismo objeto situado en otro liquido flota 
+con el 72% de su volumen por debajo de la superficie. Determinar la densidad 
+del objeto y la densidad específica del líquido. 
+42 @@ SSM Seata un bloque de 5 kg de hierro a un dinamómetro y 
+se sumerge en un fluido de densidad desconocida. El índice del dinamómetro 
+marca 6,16 N. ¿Cuál es la densidad del fluido? 
+43 es Un trozo de corcho pesa 0,285 N en aire. Cuando se le mantiene 
+sumergido bajo el agua mediante un dinamómetro, como se ve en la figura 
+13.32, se lee en la escala del mismo 0,855 N. Hallar la densidad del corcho. 
+Figura 13.32 Problema 43 
+44 ee Encondiciones estándar, la densidad del aire es de 1,29 kg/m? y la 
+del helio es de 0,178 kg/m”. Un globo lleno de helio levanta una barquilla con 
+carga de peso total 2000 N. ¿Cuál deberá ser el volumen mínimo del globo? 
+45 eeh SSM _ Un objeto posee una fuerza ascensional neutra cuando su 
+densidad iguala a la del líquido en donde se encuentra sumergido, de forma que 
+ni flota ni se hunde. ¿Qué masa de plomo debería añadirse a un nadador de 
+85 kg y de densidad media 0,96 kg/L que bucea en agua dulce para que su 
+fuerza ascensional fuese neutra? 
+46 e. i Y Un vaso de precipitados de masa 1 kg contiene 2 kg 
+de agua y descansa sobre una balanza. Un bloque de 2 kg de aluminio (densi- 
+Aluminio 
+Figura 13.33 Problema 46
+
+388 | Capitulo 13 Fluidos 
+dad 2,70 x 10° kg/m?) suspendido de un dinamómetro se sumerge en agua 
+(figura 13.33). Determinar las lecturas de ambas balanzas. 
+47 ese Un barco que navega por agua de mar (densidad específica 1,025) 
+se encuentra de repente navegando por agua dulce, donde lógicamente se hunde 
+levemente. Cuando en un puerto descarga 600 000 kg, vuelve a su posición ori- 
+ginal. Suponiendo que los laterales del barco son verticales en la línea de flota- 
+ción, calcular la masa del barco antes de la descarga. 
+48 eee SSM El hidrómetro que se muestra en la figura 13.34 es un dis- 
+positivo para medir la densidad específica de los líquidos. El depósito contiene 
+perdigones de plomo, y la densidad del líquido se puede leer directamente a partir 
+del nivel del líquido en la escala calibrada. El volumen del depósito es de 20 ml, 
+la longitud del vástago de la escala de 15 cm, su diámetro de 5,00 mm y la masa 
+de vidrio de 6,0 g. (a) ¿Qué masa de perdigones de plomo debe añadirse para que 
+el líquido de menor densidad específica que pueda medirse sea de 0,9 L? 
+(b) ¿Cuál es la máxima densidad específica de un líquido que puede medirse? 
+Figura 13.34 Problemas 48 y 98 
+49 e Cuando en la base de una presa se forman grietas, el agua que se 
+introduce en las grietas ejerce una fuerza ascensional que tiende a levantar la 
+presa. Este efecto puede causar el derribo de la misma. Estimar la fuerza ascen- 
+sional ejercida por el agua que se introduce por algunas grietas de la base sobre 
+una presa de 2 m de espesor y 5 m de longitud. El nivel del agua está a 5 m por 
+encima de las grietas. 
+50 ese Un globo sonda meteorológico lleno de helio tiene una masa de 
+15 kg (globo más helio más instrumentos) y una forma esférica con un radio de 
+2,5 m. (a) Cuando se suelta el globo desde el nivel del mar, ¿cuál es la acelera- 
+ción inicial a la que está sometido? (b) Si la fuerza de resistencia sobre el globo 
+viene dada por Fp = 1/2 pv", donde r es el radio del globo, p es la densidad 
+del aire, y ves la velocidad a la que sube el globo, calcular la velocidad límite 
+ascendente. (c) Calcular aproximadamente cuánto tiempo invertirá el globo en 
+llegar hasta 10 km de altura. 
+Principio de continuidad y ecuación de Bernoulli 
+S1 es SSM Deun grifo circular sale agua con un caudal de 10,5 cm/s, 
+(a) Si el diámetro de la salida del grifo es de 1,2 cm, ¿cuál es la velocidad del 
+agua? (b) Cuando el agua sale del grifo, el flujo de agua se estrecha. Determi- 
+nar el nuevo diámetro en un punto situado 7,5 cm por debajo de la salida del 
+grifo. Suponer que el flujo tiene una sección circular y despreciar cualquier 
+fuerza de resistencia que actúe sobre el agua. (c) Si los flujos turbulentos se 
+caracterizan por tener números de Reynolds aproximadamente por encima de 
+2300, ¿qué distancia tiene que caer el agua antes de que su flujo sea turbulento? 
+¿Está de acuerdo este resultado con la experiencia diaria? 
+52 e l Y A través de una manguera de 3 cm de diámetro fluye 
+agua a una velocidad de 0,65 m/s. El diámetro de la boquilla es de 0,30 cm. 
+(a) ¿A qué velocidad pasa el agua a través de la boquilla? (b) Si la bomba, 
+situada en un extremo de la manguera, y la boquilla, en el otro extremo, tienen 
+la misma altura y si la presión en la boquilla es la presión atmosférica, ¿cuál es 
+la presión en la bomba? 
+53 e i Y Está fluyendo agua a 3 m/s por una tubería horizontal 
+bajo una presión de 200 kPa. La tubería se estrecha hasta la mitad de su diámetro 
+original. (a) ¿Cuál es la velocidad del flujo en la sección estrecha? (b) ¿Cuál es la 
+presión en la sección estrecha de la tubería? (c) ¿Qué relación existe entre el volu- 
+men de agua que fluye por la sección estrecha cada segundo con el que circula a 
+través de la sección más ancha? Supóngase que el flujo es laminar y no viscoso. 
+54 e i La presión en una sección de 2 cm de diámetro de una 
+tubería horizontal es de 142 kPa. El agua fluye a través de la tubería con un 
+caudal de 2,80 L/s. ¿Cuál deberá ser el diámetro de una sección más estrecha 
+de la tubería para que la presión se reduzca a 101 kPa. Supóngase que el flujo 
+es laminar y no viscoso. 
+55 ec SSM _ Por una aorta de 9 mm de radio fluye sangre a 30 cm/s. 
+(a) Calcular el caudal en litros por minuto. (6) Aunque el área de la sección 
+recta de un capilar es mucho menor que la de la aorta, existen muchos capilares, 
+de forma que el área total de sus secciones rectas es mucho mayor. Si toda la 
+sangre procedente de la aorta pasa a los capilares en donde la velocidad de flujo 
+es de 1,0 mm/s, calcular dicha área total. 
+56 ee Í Y Un depósito grande de agua tiene, a una profundi- 
+dad h respecto a la superficie libre del agua, un orificio prolongado por un 
+pequeño tubo, como puede verse en la figura 13,35, Hallar la distancia x alcan- 
+zada por el flujo de agua que sale por el tubo. Supóngase que el flujo es laminar 
+y no viscoso. 
+Figura 13.35 Problemas 56 y 61 
+s7 ee i El gran oleoducto de Alaska (800 millas de longitud y 
+8000 millones $ de inversión) tiene una capacidad de 240 000 m de crudo por 
+día. Su radio externo es de 60 cm en la mayor parte de su recorrido. Determinar la 
+presión P’ en un punto donde la tubería tiene un radio igual a 30 cm. Tomar como 
+presión entre el valor P = 180 kPa y para la densidad del crudo, 800 kg/m!. 
+58 ec SSM Através de un venturímetro como el del ejemplo 13.10 
+fluye agua a lo largo de una tubería de diámetro 9,5 cm que en el estrechamiento 
+se reduce a 5,6 cm. El manómetro en U está parcialmente lleno de mercurio. 
+Determinar la velocidad de flujo del agua en la tubería de 9,5 cm de diámetro si la 
+diferencia entre los niveles de mercurio del tubo en U es de 2,40 cm. 
+59 es Un bombero sujeta una manguera con un codo como se indica en 
+la figura 13.36, De la manguera sale el agua en un chorro de 1,5 cm de radio y 
+con una velocidad de 30 m/s. (a) ¿Qué masa de agua sale de la manguera en 1 s? 
+(b) ¿Cuál es el momento horizontal de este agua? (c) Antes de llegar al codo, el 
+agua tiene un momento hacia arriba, mientras que después es horizontal. Dibu- 
+jar un diagrama vectorial de los vectores momento lineal inicial y final y hallar 
+la variación del momento lineal del agua en el codo en | s. A partir de este 
+valor, hallar la fuerza ejercida sobre el agua por la manguera. 
+Figura 13.36 Problema 59
+
+60 ee ÈU Una fuente diseñada para lanzar una columna de 
+agua de 12 m de altura al aire, tiene una boquilla de 1 cm de diámetro al nivel 
+del suelo. La bomba de agua está a 3 m por debajo del suelo. La tubería que la 
+conecta a la boquilla tiene un diámetro de 2 cm. Hallar la presión que debe 
+suministrar la bomba. Supóngase que el flujo es laminar y no viscoso. 
+61 ese Enla figura 13.35, H es la profundidad del líquido y A la distancia 
+de la apertura por debajo de la superficie. (a) Hallar la distancia x a la que el 
+agua incide sobre el suelo en función de A y H. (b) Demostrar que existen dos 
+valores de / que son equidistantes del punto 4 = iH que dan la misma distan- 
+cia x. (c) Demostrar que x es máxima cuando h = 1#. ¿Cuál es el valor de 
+esta distancia máxima x? Supóngase que el flujo es laminar y no viscoso. 
+62 ee SSM La figura 13.37 muestra un tubo de Pitot estático, disposi- 
+tivo que se usa para determinar la velocidad de un gas. El tubo interior está enfren- 
+tado al fluido cuya velocidad se quiere determinar, mientras que el cilindro 
+agujereado, conectado con el otro extremo del tubo, es paralelo al flujo del gas. 
+Demostrar que la velocidad del gas viene dada por += 2eh(p — p Vp,- donde pes 
+la densidad del líquido usado en el manómetro y p, es la densidad del gas. 
+Figura 13.37 Problema 62 
+63 es Unsifén es un dispositivo usado para transferir líquido de un reci- 
+piente a otro, tal como se muestra en la figura 13.38. Para empezar a funcionar, 
+el tubo debe llenarse con líquido, pero una vez lleno, el líquido fuirá hasta que 
+las superficies del fluido de ambos recipientes estén al mismo nivel. (a) Usando 
+la ecuación de Bernouilli, demostrar que la velocidad del agua en el tubo es 
+v = ./2ed. (b) ¿Cuál es la presión en el punto más alto del tubo? Supóngase 
+que el flujo es laminar y no viscoso. 
+Flujo 
+Figura 13.38 Problema 63 
+"Flujo viscoso 
+64 Oe i Por un tubo horizontal con un diámetro interior de 
+1,2 mm y una longitud de 25 cm circula agua con un flujo de 0,30 ml/s. Hallar 
+la diferencia de presiones que se necesita para impulsar el agua si su viscosidad 
+es de 1,00 mPa-s. Supóngase que el flujo es laminar. 
+Problemas | 389 
+65 e Hallar el diámetro de un tubo que daría un flujo de agua doble del 
+indicado en el problema 64 si la diferencia de presiones ha de ser la misma. 
+66 @ SSM La sangre tarda aproximadamente 1,0 s en fluir por un 
+capilar del sistema circulatorio humano de 1 mm de longitud. Si el diámetro del 
+capilar es de 74m y la caída de presión de 2,60 kPa, calcular la viscosidad de la 
+sangre. Supóngase que el flujo es laminar, 
+67 e SSM Cuando se alcanza un número de Reynolds de 3 x 10° se 
+produce una transición de forma que la fuerza de resistencia sobre una esfera 
+disminuye bruscamente. Estimar la velocidad a la que se produce esta transi- 
+ción en una pelota de béisbol y comentar si este fenómeno puede o no jugar un 
+papel en la física del juego. 
+68 əəə La ley de Stokes establece que la fuerza de resistencia sobre una 
+esfera de radio a cuando el número de Reynolds es muy bajo viene dada por 
+Fp = 6xnav, donde y es la viscosidad del fluido por el que se mueve la 
+esfera. Usando esta expresión, determinar la velocidad límite de ascenso en 
+gaseosa de una burbuja esférica de dióxido de carbono de 1 mm de diáme- 
+tro (densidad 1,1 x 10° kg/m*). ¿Cuánto tiempo invertirá la burbuja en ascender 
+hasta la superficie en un vaso típico de gaseosa? ¿Es coherente con la experiencia 
+habitual? 
+Problemas generales 
+69 e@ SSM _ De forma muy aproximada, se puede decir que la masa 
+de una persona aumenta según el cubo de su altura, es decir, M = Cph*, donde 
+M es la masa, h es la altura, p es la densidad del cuerpo y C es un “coeficiente de 
+esfericidad” que depende de cada persona. Estimar C para un hombre y una mujer 
+adultos, usando valores típicos para la altura y el peso. Suponer p = 1000 kg/m°. 
+70 e Usando la aproximación de que el peso es proporcional a la altura 
+elevada a la tercera potencia (problema 69), ¿cuál será la diferencia en el peso 
+de dos hombres, uno de 1,75 m de altura y otro de 1,83 m? 
+71 e El tablero de una mesita de juego mide 80 cm por 80 cm. ¿Cuál es 
+la fuerza ejercida sobre su parte superior por la atmósfera? ¿Por qué no se 
+rompe la mesa? 
+72 e iÍ Y Una pelota de ping-pong está sujeta mediante una 
+cuerda al fondo de una vasija. Cuando la vasija se llena con agua, de modo que 
+la pelota está completamente sumergida, la tensión de la cuerda es 2,8 x 10-2N. 
+Determinar el diámetro de la pelota. 
+73 e i El agua de mar tiene un módulo de compresibilidad de 
+2,3 x 10° N/m?. Hallar la densidad del agua de mar a una profundidad en donde 
+la presión vale 800 atm si la densidad en la superficie es 1025 kg/m”. 
+74 e Un bloque sólido cúbico de arista 0,6 m está suspendido de una 
+balanza de muelle. Si el bloque se sumerge en agua, la balanza marca una lec- 
+tura que es el 80% de la correspondiente al bloque en el aire. Determinar la 
+densidad del bloque. 
+75 e SSM Cuando se sumerge en agua, un bloque de cobre tiene un 
+peso aparente de 56 N. ¿Qué fracción del bloque de cobre se sumergirá al flotar 
+sobre el mercurio de una cubeta? 
+76 e i Un bloque de 4,5 kg de cierto material flota sobre eta- 
+nol con el 10% de su volumen por encima de la superficie del líquido. ¿Qué 
+fracción de este bloque se sumergirá si flota sobre agua? 
+77 @ ¿Cuál es la fuerza ascensional que actúa sobre el cuerpo de una 
+persona cuando flota (a) en un lago de agua dulce (densidad específica = 1,00) 
+y (b) en el océano (densidad específica = 1.03)? 
+78 @ Cuando una persona flota en agua dulce, el 96% de su cuerpo está 
+sumergido. ¿Cuál es el volumen de agua desplazado por esta persona cuando 
+está totalmente sumergida? 
+79 «ee Un bloque de madera de masa 1,5 kg flota sobre el agua con el 
+68% de su volumen sumergido. Un bloque de plomo se sitúa sobre la madera y 
+ésta se sumerge completamente. Determinar la masa del bloque de plomo.
+
+390 | Capítulo 13 Fluidos 
+80 ee ss 1 Y Uncubo de material plastico espumoso, de 
+25 cm de arista, se pesa mediante una balanza de brazos iguales. La balanza 
+está equilibrada cuando una masa de latón de 20 g se sitúa en el platillo opuesto 
+de la balanza. Determinar la masa real del cubo de plástico. 
+81 ee Í Una corteza esférica de cobre con un diámetro exterior 
+de 12 cm flota sobre agua con la mitad de su volumen por encima de la superfi- 
+cie del agua. Determinar el diámetro interior de la corteza, 
+82 es Un vaso de agua está equilibrado en el platillo izquierdo de una 
+balanza. Un cubo de arista de 4 cm se ata a una cuerda y se sumerge en este 
+vaso de agua totalmente, El cubo no toca el fondo del vaso. Se añade un peso m 
+al platillo derecho para recuperar el equilibrio. ¿Cuánto vale m? 
+83 see SSM El petróleo crudo tiene una viscosidad aproximada de 
+0,8 Pas a la temperatura normal. Un oleoducto de 50 km ha de construirse 
+desde un yacimiento de petróleo hasta la terminal de buques petroleros. El 
+oleoducto ha de distribuir petróleo a la terminal a razón de 500 L/s y el flujo 
+debe ser laminar para minimizar la presión necesaria para impulsar el fluido a 
+través de la tubería. Suponiendo que la densidad del crudo es de 700 kg/m, 
+estimar el diámetro que el oleoducto debe tener. 
+84 ee i A través del tubo de la figura 13.39 fluye agua que sale 
+a la atmósfera por C. El diámetro del tubo es 2,0 cm en A, 1.0 cm en B y 0,8 cm 
+en C. La presión manométrica del tubo en A es 1,22 atm y el caudal, 0,8 L/s. 
+Los tubos verticales están abiertos al aire. Determinar el nivel de las interfases 
+líquido-aire en los dos tubos verticales. Supóngase que el flujo es laminar. 
+Figura 13.39 Problemas 84 y 85 
+85 es Repetir el problema 84 con el caudal reducido a 0,6 L/s y el 
+tamaño de la abertura en C reducido de modo que la presión del tubo en A per- 
+manezca invariable. 
+86 ee ssm ij La figura 13.40 es un esquema de un aspira- 
+dor, un aparato simple que puede utilizarse para conseguir un vacfo parcial en 
+un recinto conectado al tubo vertical en B. Un aspirador conectado al extremo 
+de una manguera de riego puede utilizarse para dosificar un fertilizante. Supon- 
+Figura 13.40 Problema 86 
+gamos que el diámetro en A es 2,0 cm y el diámetro en C, donde el agua se 
+vierte a la atmósfera, es de 1,0 cm. Si el caudal es de 0,5 L/s y la presión 
+manométrica en A es de 0,187 atm, ¿qué diámetro del estrechamiento en B es 
+necesario para conseguir una presión de 0,1 atm en el recinto? Supóngase que 
+el flujo es laminar, 
+87 es Una boya cilíndrica a la entrada de un puerto tiene un diámetro de 
+0,9 m y una altura de 2,6 m. La masa de la boya es 600 kg. Está sujeta al fondo 
+del mar con un cable de nailon de masa despreciable. La densidad específica 
+del agua del mar es 1,025. (a) ¿Qué parte de la boya es visible cuando el cable 
+está flojo? (b) Si una tsunami sumerge completamente la boya, cuál es la ten- 
+sión en el cable rígido? (c) Si el cable se rompe, ¿cuál es la aceleración inicial 
+hacia arriba de la boya? 
+8 ee 1 Dos vasos comunicantes contienen un líquido de den- 
+sidad po (figura 13.41). Las áreas de las secciones rectas de las vasijas son A y 
+3A. Determinar el cambio de altura del nivel del líquido si un objeto de masa m 
+y densidad p’ = 0,8p, se introduce en una de las vasijas. 
+Figura 13.41 Problema 88 
+89 es Si un manómetro lleno de aceite (pọ = 900 kg/m*) puede leerse 
+con la precisión de +0,05 mm, ¿cuál es el cambio de presión más pequeño que 
+puede detectarse? 
+9 ee ft Y Un tubo en U se llena de agua hasta que el nivel del 
+líquido está a 28 cm por encima del fondo del tubo. En una de las ramas del 
+tubo se vierte ahora un aceite de densidad específica 0,78 hasta que el nivel del 
+agua en la otra rama se encuentra a 34 cm por encima del fondo del tubo. 
+Determinar el nivel de las interfases aceite-aire y aceite-agua en la rama donde 
+se hizo el vertido del aceite. 
+91 ee Untuboen U contiene un líquido de densidad específica descono- 
+cida. En una de las ramas del tubo se vierte aceite de densidad 800 kg/m? hasta 
+que la columna de aceite alcanza 12 cm de altura. La interfase aceite-aire se 
+encuentra entonces a 5,0 cm por encima del nivel del líquido en la otra rama del 
+tubo en U. Determinar la densidad específica del líquido. 
+92 es Un bloque de plomo se suspende de la cara inferior de un bloque 
+de madera de 0,5 kg de densidad específica 0,7. Cuando este sistema se intro- 
+duce en un recipiente con agua, la superficie superior de la madera está al 
+mismo nivel que el líquido. ¿Cuál es la masa del bloque de plomo? 
+93 es SSM _ Un globo de helio puede levantar justamente una carga de 
+750 N. La capa externa del globo tiene una masa de 1,5 kg. (a) ¿Cuál es el volu- 
+men del globo? (b) Si el volumen del globo fuese el doble del calculado en (a), 
+¿Cuál sería la aceleración inicial del globo al transportar una carga de 900 N? 
+94 es Una esfera hueca de radio interior R y radio exterior 2R está for- 
+mada de un material de densidad pp y flota en un líquido de densidad 2p. El 
+interior se llena ahora de material de densidad p’ de tal modo que la esfera flota 
+justamente totalmente sumergida. Determinar p’. 
+95 @@ SSM Como mencionábamos al tratar la ley atmosférica, la dismi- 
+nución relativa de la presión atmosférica es proporcional al cambio de altura. 
+En términos matemáticos tenemos dP/P = —C/dh, en donde C es una constante. 
+(a) Demostrar que P (h) = Py e~™ es una solución de la ecuación diferencial. (b) 
+Demostrar que si Ah << ho, en donde hy = 1/C entonces P(h + Ah) = PNC — Ahlho). 
+(c) Sabiendo que la presión a la altura 4 = 5,5 km es la mitad que al nivel del 
+mar, determinar la constante C.
+
+96 ee Unsubmarino tiene una masa total de 2,4 x 10° ke. incluyendo la 
+tripulación y el equipo. La nave consta de dos partes: el tanque de presión que 
+tiene un volumen de 2 x 10° mí y los tanques de inmersión que tienen un volu- 
+men de 4 x 10? m*. Cuando el submarino navega sobre la superficie, los tan- 
+ques de inmersión se llenan de aire; cuando navega sumergido. estos tanques se 
+llenan de agua marina. (a) ¿Qué fracción del volumen del submarino está por 
+encima de la superficie cuando los tanques están llenos de aire? (b) ¿Qué canti- 
+dad de agua debe admitirse en los tanques para que el submarino neutralice 
+exactamente su peso con la fuerza ascensional? Despreciar la masa del aire en 
+los tanques y utilizar el valor 1,025 para la densidad específica del agua del 
+mar. 
+97 ese Unatripulación de salvamentos marinos levanta del fondo del mar 
+un cajón que mide 1,4 m x 0,75 m x 0,5 m. La densidad media del cajón vacío 
+es igual a la del agua del mar, 1,025 x 10? kg/m, y su masa cuando está vacío 
+es 32 kg. El cajón contiene lingotes de oro que llenan el 36% de su volumen; el 
+volumen restante está lleno de agua de mar. (a) ¿Cuál es la tensión del cable 
+que eleva el cajón con los lingotes mientras está por debajo de la superficie del 
+agua? (b) ¿Cuál es la tensión del cable mientras el cajón se eleva a la cubierta 
+del barco si (1) el cajón no pierde agua en el ascenso, y (2) si el cajón se eleva 
+tan lentamente que pierde toda el agua que contenía en su interior. 
+98 ese Cuando el hidrómetro del problema 48 (figura 13.34) se sitúa en 
+un líquido cuya densidad específica es mayor que cierto valor mínimo, el ins- 
+trumento flota con una parte del tubo de vidrio por encima del nivel del líquido. 
+Problemas 391 
+Consideremos un hidrómetro que tiene un bulbo esférico de 2,4 cm de diáme- 
+tro. El tubo de vidrio unido al bulbo tiene 20 cm de longitud y un diámetro de 
+7,5 mm. La masa del hidrómetro antes de que se introduzcan en su interior 
+bolitas de plomo y se suelde el vástago es de 7,28 g. (a) ¿Qué masa de plomo 
+debe introducirse en el bulbo para que el hidrómetro justamente flote en un 
+líquido de densidad específica 0,78? (b) Si el hidrómetro se introduce ahora en 
+agua, ¿qué longitud del vástago aparece por encima de la superficie del agua? 
+(c) El hidrómetro se introduce en un líquido de densidad desconocida y la lon- 
+gitud del tubo por encima de la superficie es de 12,2 cm, Determinar la densi- 
+dad específica de este líquido. 
+99 ec. Un barril grande de cerveza de altura H y área transversal A, se 
+llena con cerveza. La parte superior está abierta a la presión atmosférica. En la 
+parte inferior existe una espita abierta de área Az, mucho menor que A). 
+(a) Demostrar que la velocidad de la cerveza que sale por la espita es aproxi- 
+madamente /2gh cuando la altura de la cerveza es h. (b) Demostrar que en la 
+aproximación según la cual A, << Aj, la variación de altura Á por unidad de 
+tiempo de la cerveza viene dada por 
+a = -E gh) $ 
+(c) Calcular A en función del tiempo si # = H para t = 0. (d) Hallar el tiempo 
+total necesario para vaciar el barril si H = 2 m. A, = 0,8 mî, y A, = (10) Aj. 
+Supóngase que el flujo es laminar y no viscoso.
+
+OSCILACIONES Capitulo 
+14 
+14.1 Movimiento 
+armónico simple 
+14.2 Energía del 
+movimiento 
+armónico simple 
+14.3 Algunos sistemas 
+oscilantes 
+14,4 Oscilaciones 
+amortiguadas 
+14.5 Oscilaciones forzadas 
+y resonancia 
+sun e empio ae mo- Los botes de la fotografia se mueven con el oleaje de 
+vimiento oscilatorio. La oscila: bote se mide fácilmente, 
+am 
+al igual que el tiempo que invierte el bote en completar un ciclo 
+, ¿Cómo puede expresarse la posición vertical del bote en función del tiempo? (Véase el ejem- 
+plo 14.1.) 
+(endo se perturba un sistema y éste pierde su posición de equilibrio estable, se pro- 
+ducen oscilaciones. Hay muchos ejemplos familiares: los barcos se balancean arriba y 
+abajo, los péndulos de reloj oscilan a un lado y otro, y las cuerdas y lengiietas de los ins- 
+trumentos musicales vibran al producir los sonidos. Otros ejemplos menos familiares son 
+las oscilaciones de las moléculas de aire en las ondas sonoras y las oscilaciones de las 
+corrientes eléctricas en los aparatos de radio y televisión. 
+En este capítulo nos ocupamos del movimiento armónico simple, la forma más 
+básica de movimiento oscilatorio. Mediante el uso de la cinemática y de la dinámica 
+del movimiento armónico se puede analizar una amplia variedad de sistemas de in- 
+terés. En algunas situaciones, las fuerzas disipativas amortiguan el movimiento os- 
+cilatorio, mientras que en otras, la acción de fuerzas impulsoras compensa el 
+amortiguamiento.

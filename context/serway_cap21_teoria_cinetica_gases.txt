@@ -1,0 +1,2311 @@
+Tema: Teoría cinética de los gases (Capítulo 21 — Física para Ciencias e Ingeniería, Serway)
+
+Capítulo 21  Teoría cinética de los gases
+3. Las moléculas interactúan sólo mediante fuerzas de corto alcance durante colisiones 
+elásticas. Esto es consistente con el modelo de gas ideal, en el que las moléculas no 
+ejercen fuerzas de largo alcance unas sobre otra.
+4. Las moléculas tienen colisiones elásticas contra las paredes. Estas colisiones condu-
+cen a la presión macroscópica sobre las paredes del contenedor.
+5. El gas en consideración es una sustancia pura; es decir, todas las moléculas son 
+idénticas.
+Aunque con frecuencia se ilustra un gas ideal que consiste en átomos simples, el com-
+portamiento de los gases moleculares se aproxima al de los gases ideales, más a presiones 
+bajas. Por lo general, las rotaciones moleculares o vibraciones no tienen efecto sobre los 
+movimientos considerados en este caso.
+Como primera aplicación de la teoría cinética, obtenga una expresión para la presión 
+de N moléculas de un gas ideal en un contenedor de volumen V en términos de cantidades 
+microscópicas. El contenedor es un cubo con bordes de longitud d (figura 21.1). Primero 
+se concentra la atención en una de dichas moléculas de masa m
+0 y se supondrá móvil de 
+modo que su componente de velocidad en la dirección x es vxi, como en la figura 21.2. 
+(En este caso, el subíndice i se refiere a la i–ésima molécula, no a un valor inicial. En breve 
+se combinarán los efectos de todas las moléculas.) A medida que la molécula tiene una 
+colisión elástica con cualquier pared (suposición 4), su componente de velocidad perpen-
+dicular a la pared se invierte, porque la masa de la pared es mucho mayor que la masa de 
+la molécula. Ya que la componente de la cantidad de movimiento p
+xi de la molécula es 
+m0vxi antes de la colisión y m0vxi después de la colisión, el cambio en la componente x de 
+la cantidad de movimiento de la molécula es
+¢pxi m0vxi 1m0vxi 2 2m0vxi
+Ya que las moléculas obedecen las leyes de Newton (suposición 2), se aplica el teorema 
+impulso–cantidad de movimiento (ecuación 9.8) a la molécula para obtener
+F
+i, sobre molécula ¢tcolisión ¢pxi 2m0vxi
+donde Fi, sobre molécula  es la componente x de la fuerza promedio1 que la pared ejerce sobre 
+la molécula durante la colisión y $tcolisión es la duración de la colisión. Para que la mo- 
+lécula tenga otra colisión con la misma pared después de esta primera colisión, debe viajar 
+una distancia de 2d en la dirección x (a través del contenedor y de regreso). Por lo tanto, 
+el intervalo de tiempo entre dos colisiones contra la misma pared es
+¢t
+2d
+vxi
+La fuerza que causa el cambio en cantidad de movimiento de la molécula en la colisión 
+contra la pared se presenta sólo durante la colisión. Sin embargo, es posible promediar la 
+fuerza durante el intervalo de tiempo para que la molécula se traslade a través del cubo y 
+regrese. A veces, durante este intervalo de tiempo, se presenta la colisión, así que el cambio 
+en cantidad de movimiento para este intervalo de tiempo es el mismo que para la duración 
+breve de la colisión. En consecuencia, se puede reescribir el teorema impulso–cantidad 
+de movimiento como
+Fi ¢t 2m0vxi
+donde Fi, es la componente de la fuerza promedio en el intervalo de tiempo para que 
+la molécula se traslade a través del cubo y regrese. Ya que se presenta exactamente una 
+colisión por cada uno de tales intervalos de tiempo, este resultado también es la fuerza 
+promedio a largo plazo en la molécula durante largos intervalos de tiempo que contienen 
+cualquier número de múltiplos de $t.
+Esta ecuación y la anterior permiten expresar la componente x de la fuerza promedio 
+a largo plazo ejercida por la pared sobre la molécula como
+F
+i
+2m0vxi
+¢t
+2m0vxi
+2
+2d
+m0vxi
+2
+d
+1 Para esta explicación se usa una barra sobre una variable para representar el valor promedio de la variable, 
+tal como F  para la fuerza promedio, en lugar del subíndice “prom” que se usó anteriormente. Esta notación 
+es para evitar confusiones porque ya se tienen algunos subíndices en las variables.
+Figura 21.1 Un cubo con lados 
+de longitud d que contiene un gas 
+ideal. La molécula que se muestra 
+se mueve con velocidad v
+S
+i.
+Figura 21.2 Una molécula 
+tiene una colisión elástica contra 
+la pared del contenedor. Su 
+componente x de cantidad de 
+movimiento se invierte, mientras 
+que su componente y permanece 
+inalterada. En esta construcción 
+se supone que la molécula se 
+mueve en el plano xy.
+d
+d d
+z x
+y
+m0
+vxi
+vi
+vyi
+vxi
+vi
+vyi
+–vxi
+vi
+
+Ahora, por la tercera ley de Newton, la componente x de la fuerza promedio a largo plazo 
+que ejerce la molécula sobre la pared es igual en magnitud y opuesta en dirección:
+Fi, sobre la pared Fi a m0vxi
+2
+d b m0vxi
+2
+d
+La fuerza promedio total F  que el gas ejerce sobre la pared se encuentra al sumar las 
+fuerzas promedio ejercidas por las moléculas individuales. Al sumar los términos como el 
+anterior para todas las moléculas se tiene
+F
+N
+i 1
+m0vxi
+2
+d
+m0
+d
+N
+i 1
+vxi
+2
+donde se factorizó la longitud de la caja y la masa m0 porque la suposición 5 dice que todas 
+las moléculas son iguales. Ahora se impone la suposición 1, que el número de moléculas  
+es grande. Para un número pequeño de moléculas, la fuerza real sobre la pared variaría 
+con el tiempo. Sería distinta de cero durante el intervalo breve de la colisión de una mo-
+lécula contra la pared y cero cuando ninguna molécula golpee la pared. Sin embargo, para 
+un número muy grande de moléculas, como el número de Avogadro, estas variaciones 
+en fuerza son uniformes, de modo que la fuerza promedio dada anteriormente es la misma 
+sobre cualquier intervalo de tiempo. Por lo tanto, la fuerza constante F sobre la pared debida 
+a las colisiones moleculares es
+F m0
+d
+N
+i 1
+vxi
+2
+Para avanzar aún más, considere cómo expresar el valor promedio del cuadrado de la 
+componente x de la velocidad para N moléculas. El promedio tradicional de un conjunto 
+de valores es la suma de los valores sobre el número de valores:
+vx
+2
+N
+i 1
+vxi
+2
+N
+El numerador de esta expresión se contiene en el lado derecho de la ecuación prece-
+dente. En consecuencia, al combinar las dos expresiones, la fuerza total sobre la pared 
+se escribe
+ 
+F m0
+d Nvx
+2  (21.1)
+Ahora considere de nuevo una molécula con componentes de velocidad vxi, vyi y vzi. El 
+teorema de Pitágoras relaciona el cuadrado de la rapidez de la molécula con los cuadrados 
+de las componentes de velocidad:
+vi
+2 vxi
+2 vyi
+2 vzi
+2
+Por tanto, el valor promedio de v 2 para todas las moléculas en el contenedor se relaciona 
+con los valores promedio de vx
+2, vy
+2 y vz
+2, de acuerdo con la expresión
+v2 vx
+2 vy
+2 vz
+2
+Ya que el movimiento es completamente aleatorio (suposición 2), los valores promedio 
+ y vz2vx2, vy2  son iguales uno a otro. Al usar este hecho, y la ecuación anterior, se encuentra 
+que
+v2 3vx
+2
+Por lo tanto, de la ecuación 21.1, la fuerza total ejercida sobre la pared es
+F 1
+3N m0v 2
+d
+ Sección 21.1  Modelo molecular de un gas ideal  589
+
+590 Capítulo 21  Teoría cinética de los gases
+Con esta expresión encuentre la presión total que se ejerce sobre la pared:
+ P 2
+3 a N
+V b1 1
+2
+m0v2 2
+P F
+A
+F
+d2
+1
+3 N m0v2
+d3
+1
+3
+a N
+V b m0v2
+ (21.2)
+Este resultado indica que la presión de un gas es proporcional al número de moléculas por 
+cada unidad de volumen y a la energía cinética traslacional promedio de las moléculas, 
+1
+2m0v2. Al analizar este modelo simplificado de un gas ideal, se obtiene un resultado impor-
+tante que relaciona la cantidad macroscópica de presión con una cantidad microscópica, 
+el valor promedio del cuadrado de la rapidez molecular. Debido a eso, se establece un 
+vínculo clave entre el mundo molecular y el mundo a gran escala.
+Observe que la ecuación 21.2 verifica algunas características de la presión, con la que 
+probablemente esté familiarizado. Una forma de aumentar la presión dentro de un con-
+tenedor es aumentar el número de moléculas por cada unidad de volumen N/V en el 
+contenedor. Esto es lo que hace cuando agrega aire a una llanta. La presión en la llanta 
+también se puede aumentar al incrementar la energía cinética traslacional promedio de 
+las moléculas de aire. Esto se logra al aumentar la temperatura de dicho aire, razón por la 
+cual la presión dentro de una llanta aumenta a medida que ésta se calienta durante viajes 
+largos. La continua flexión de la llanta, a medida que se mueve a lo largo de la superficie 
+del camino, resulta en trabajo consumido en el caucho conforme las partes de la llanta 
+se distorsionan, lo que causa un aumento en energía interna del caucho. La temperatura 
+aumentada del caucho resulta en la transferencia de energía por calor hacia el aire aden-
+tro de la llanta. Esta transferencia aumenta la temperatura del aire, y este aumento en 
+temperatura a su vez produce un aumento en presión.
+Interpretación molecular de la temperatura
+Es posible obtener cierta comprensión del significado de la temperatura al escribir, pri-
+mero la ecuación 21.2 en la forma
+PV
+2
+3N 11
+2
+m0v2 2
+Ahora compare esta expresión con la ecuación de estado para un gas ideal (ecuación 
+19.10):
+PV NkBT
+Recuerde que la ecuación de estado respecto en los hechos experimentales concernien-
+tes al comportamiento macroscópico de los gases. Al igualar los lados derechos de estas 
+expresiones se obtiene
+ T
+2
+3kB
+11
+2m0v2 2  (21.3)
+Este resultado muestra que la temperatura es una medida dir
+ecta de la energía cinética 
+molecular promedio. Al reordenar la ecuación 21.3, es posible relacionar la energía ciné-
+tica molecular traslacional con la temperatura:
+ 1
+2m0v2 3
+2kBT  (21.4)
+Esto es, la energía cinética traslacional promedio por molécula es 3
+2k BT. Ya que vx2 1
+3
+v2 , 
+se sigue 
+ 1
+2m0vx
+2 1
+2kBT  (21.5)
+En forma similar, para las direcciones 
+y y z,
+y 1
+2m0vz
+2 1
+2
+kBT1
+2
+m0vy
+2 1
+2
+kBT
+Por lo tanto, cada grado de libertad traslacional aporta una cantidad igual de energía, 
+1
+2k BT al gas. (En general, un “grado de libertad” se refiere a un medio independiente por 
+Correspondencia entre 
+presión y energía cinética 
+molecular
+0
+La temperatura es 
+proporcional a la energía 
+cinética promedio
+0
+Energía cinética 
+promedio por molécula
+0
+
+el que una molécula puede tener energía.) Una generalización de este resultado, conocido 
+como teorema de equipartición de la energía, es:
+Cada grado de libertad aporta 1
+2k BT a la energía de un sistema, donde posibles gra-
+dos de libertad son aquellos asociados con la traslación, rotación y vibración de las 
+moléculas.
+La energía cinética traslacional total de N moléculas de gas es simplemente N veces la 
+energía promedio por cada molécula, que se conoce por la ecuación 21.4:
+ 
+Ktras tot N 11
+2m0v2 2 3
+2
+NkBT 3
+2
+nRT  (21.6)
+donde se usó kB  R/NA para la constante de Boltzmann y n  N/NA para el número de 
+moles de gas. Si las moléculas de gas tienen sólo energía cinética traslacional, la ecuación 
+21.6 representa la energía interna del gas. Este resultado implica que la energía interna de 
+un gas ideal sólo depende de la temperatura. En la sección 21.2 se seguirá este punto.
+La raíz cuadrada de v2 se llama rapidez media cuadrática (rms) de las moléculas. De la 
+ecuación 21.4 se encuentra que la rapidez rms es
+ vrms v2 3kBT
+m0
+3RT
+M  (21.7)
+donde M es la masa molar en kilogramos por cada mol y es igual a m0NA. Esta expresión 
+muestra que, a una cierta temperatura, las moléculas más ligeras se trasladan más rápido, 
+en promedio, que las moléculas más pesadas. Por ejemplo, a una temperatura determi-
+nada, las moléculas de hidrógeno, cuya masa molar es 2.02  10
+3 kg/mol, tienen una 
+rapidez promedio cerca de cuatro veces más que las moléculas de oxígeno, cuya masa 
+molar es 32.0  10
+3 kg/mol. La tabla 21.1 menciona la rapidez rms para diferentes mo-
+léculas a 20°C.
+Pregunta rápida 21.1 Dos contenedores mantienen un gas ideal a la misma temperatura 
+y presión. Ambos retienen el mismo tipo de gas, pero el contenedor B tiene el doble de 
+volumen que el contenedor A. i) ¿Cuál es la energía cinética traslacional promedio por 
+molécula en el contenedor B? a) El doble que el contenedor A, b) la misma que el con-
+tenedor A, 
+c) la mitad que el contenedor A, d) es imposible de determinar. ii) Entre 
+las mismas opciones describa la energía interna del gas en el contenedor B.
+ Sección 21.1  Modelo molecular de un gas ideal  591
+TABLA 21.1
+Rapidez media cuadrática
+  Masa molar vrms  Masa molar vrms 
+Gas (g/mol) a 20°C(m/s) Gas (g/mol) a 20°C(m/s)
+H2 2.02 1 902 NO 30.0 494
+He 4.00 1 352 O 2 32.0 478
+H2O 18.0 637 CO 2 44.0 408
+Ne 20.2 602 SO 2 64.1 338
+N2 o CO 28.0 511
+PREVENCIÓN DE RIESGOS  
+OCULTOS 21.1
+¿La raíz cuadrada del cuadrado?
+Sacar la raíz cuadrada de v2 no 
+“deshace” el cuadrado porque 
+se toma un promedio entre 
+elevar al cuadrado y sacar la 
+raíz cuadrada. Aunque la raíz 
+cuadrada de 1v
+22 es vv prom, 
+porque elevar al cuadrado se 
+hace después del promedio, la 
+raíz cuadrada de v
+2 no es vprom, 
+sino vrms.
+1 Teorema de equipartición 
+de la energía
+1 Energía cinética 
+traslacional total de N 
+moléculas
+1 Rapidez media  
+cuadrática
+EJEMPLO 21.1 Un tanque de helio
+Un tanque que se usa para llenar globos de helio tiene un volumen de 0.300 m3 y contiene 2.00 moles de gas helio a 20.0°C. 
+Suponga que el helio se comporta como un gas ideal.
+A) ¿Cuál es la energía cinética traslacional total de las moléculas de gas?
+
+592 Capítulo 21  Teoría cinética de los gases
+SOLUCIÓN
+Conceptualizar Imagine un modelo microscópico de un gas en el que observa cómo se incrementa el movimiento de las 
+moléculas alrededor del contenedor a medida que aumenta la temperatura.
+Categorizar Se evalúan los parámetros con las ecuaciones desarrolladas en la explicación precedente, de modo que este 
+ejemplo es un problema de sustitución.
+Aplique la ecuación 21.6 con n  2.00 moles y T  293 K:
+B) ¿Cuál es la energía cinética promedio por molécula?
+SOLUCIÓN
+Use la ecuación 21.4:
+¿Qué pasaría si? ¿Y si la temperatura se eleva de 20.0°C a 40.0°C? Ya que 40.0 es el doble de 20.0, ¿la energía cinética tras-
+lacional total de las moléculas del gas es el doble a la temperatura más alta?
+Respuesta La expresión para la energía traslacional total depende de la temperatura, y el valor para la temperatura se 
+debe expresar en kelvins, no en grados Celsius. Por lo tanto, la proporción de 40.0 a 20.0 no es la proporción adecuada. Al 
+convertir las temperaturas Celsius a kelvins, 20.0°C es 293 K y 40.0°C es 313 K. En consecuencia, la energía traslacional total 
+aumenta en un factor de sólo 313 K/293 K  1.07.
+21.2 Calor específico molar de un gas ideal
+Considere un gas ideal que se somete a varios procesos tales que el cambio en temperatu-
+ra es $T  T
+f  Ti para todos los procesos. El cambio de temperatura se puede lograr al 
+tomar una variedad de trayectorias de una isoterma a otra, como se muestra en la figura 
+21.3. Ya que $T es la misma para cada trayectoria, el cambio de energía interna $E
+int es el 
+mismo para todas las trayectorias. El trabajo W consumido en el gas (el negativo del área 
+bajo las curvas) es diferente para cada trayectoria. Por lo tanto, a partir de la primera ley 
+de la termodinámica, el calor asociado con un cambio determinado en temperatura no 
+tiene un valor único, como se explica en la sección 20.4.
+Esta dificultad se puede abordar al definir calores específicos para dos procesos espe-
+ciales: isovolumétrico e isobárico. Ya que el número de moles es una medida convenida de 
+la cantidad de gas, se definen los calores específicos molares asociados con estos procesos 
+del modo siguiente:
+ Q  = nC
+V $T (volumen constante) (21.8)
+ Q  = nCP $T (presión constante) (21.9)
+donde CV es el calor específico molar a volumen constante y CP es el calor específico molar 
+a presión constante. Cuando se agrega energía a un gas por calor a presión constante, no 
+sólo aumenta la energía interna del gas, sino que se consume trabajo (negativo) en el gas 
+debido al cambio en volumen. En consecuencia, el calor Q en la ecuación 21.9 debe ex-
+plicar tanto el aumento en energía interna como la transferencia de energía hacia afuera 
+del sistema por trabajo. Por este motivo, Q es mayor en la ecuación 21.9 que en la ecuación 
+21.8 para ciertos valores de n y $T. En consecuencia, C
+P es mayor que CV.
+En la sección anterior se halló que la temperatura de un gas es una medida de la energía 
+cinética traslacional promedio de la moléculas de gas. Esta energía cinética se asocia con  
+el movimiento del centro de masa de cada molécula. No incluye la energía asociada  
+con el movimiento interno de la molécula, a saber, vibraciones y rotaciones respecto al 
+Figura 21.3 Un gas ideal se lleva 
+de una isoterma a temperatura 
+T a otra a temperatura T  $T 
+a lo largo de tres trayectorias 
+diferentes.
+7.30 10 3 J 
+Ktras tot
+3
+2nRT 3
+2
+12.00 mol21 8.31 J>mol # K 21 293 K2
+   6.07 10 21 J 
+1
+2
+m0v2 3
+2
+kBT 3
+2
+11.38 10 23 J>K 21 293 K2
+P
+V
+Isotermas
+i
+f
+f
+T + T
+f
+T
+
+
+centro de masa. Esto no debería sorprenderle porque el modelo simple de teoría cinética 
+supone una molécula sin estructura.
+De este modo, considere primero el caso más simple de un gas monoatómico ideal, 
+un gas que contiene un átomo por cada molécula, como helio, neón o argón. Cuando  
+se agrega energía a un gas monoatómico en un contenedor de volumen fijo, toda la ener-
+gía agregada participa en el aumento de la energía cinética traslacional de los átomos. 
+No hay otra forma de almacenar la energía en un gas monoatómico. Por lo tanto, de la 
+ecuación 21.6, se ve que la energía interna E
+int de N  moléculas (o n  moles) de un gas 
+monoatómico ideal es
+ Eint Ktras tot
+3
+2NkBT 3
+2
+nRT  (21.10)
+Para un gas monoatómico ideal, Eint sólo es una función de T y la correspondencia funcio-
+nal se conoce por la ecuación 21.10. En general, la energía interna de cualquier gas ideal 
+es una función sólo de T y la relación exacta depende del tipo de gas.
+Si la energía se transfiere por calor a un sistema a volumen constante, no se consume 
+trabajo en el sistema. Esto es, W  t P dV  0 para un proceso a volumen constante. Por 
+lo tanto, a partir de la primera ley de la termodinámica,
+ Q  = $Eint (21.11)
+En otras palabras, toda la energía transferida por calor toma parte en el aumento de 
+la energía interna del sistema. En la figura 21.4 se describe un proceso a volumen cons-
+tante de i a f para un gas ideal, donde $T es la diferencia de temperatura entre las dos 
+isotermas. Al sustituir la expresión para Q dada por la ecuación 21.8 en la ecuación 21.11, 
+se obtiene
+ ¢Eint nCV ¢T  (21.12)
+Si el calor específico molar es constante, la energía interna de un gas se expresa como
+Eint = nCVT
+Esta ecuación se aplica a todos los gases ideales, aquellos gases que tienen más de un átomo 
+por cada molécula, así como a gases ideales monoatómicos. En el límite de cambios infi-
+nitesimales se aplica la ecuación 21.12 para expresar el calor específico molar a volumen 
+constante como
+ C
+V
+1
+n
+ 
+dEint
+dT  (21.13)
+Ahora aplique los resultados de esta explicación a un gas monoatómico. Al sustituir la 
+energía interna de la ecuación 21.10 en la ecuación 21.13 se obtiene
+ CV
+3
+2R  (21.14)
+Esta expresión predice un valor de C V  3
+2R  12.5 J/mol  K para todos los gases monoató-
+micos. Esta predicción está en excelente concordancia con los valores medidos de calores 
+específicos molares para gases como helio, neón, argón y xenón sobre un amplio intervalo 
+de temperaturas (tabla 21.2, página 594). Las pequeñas variaciones que hay en la tabla 
+21.2 de los valores predichos, se debe a que los gases reales no son gases ideales. En los 
+gases reales se presentan interacciones intermoleculares débiles, que no se abordan en el 
+modelo de gas ideal presentado.
+Ahora suponga que el gas sigue la trayectoria i 3 f   a presión constante, como se 
+muestra en la figura 21.4. A lo largo de esta trayectoria, la temperatura de nuevo au-
+menta en $T. La energía que se debe transferir por calor al gas en este proceso es  
+Q = nC
+P $T. Por los cambios de volumen en este proceso, el trabajo consumido en el gas 
+es W = P $V, donde P es la presión constante a la que ocurre el proceso. Al aplicar la 
+primera ley de la termodinámica a este proceso, se tiene
+ ¢Eint QWn C P ¢T 1 P ¢V 2  (21.15)
+En este caso, la energía agregada al gas por calor se canaliza del modo siguiente. Parte 
+de ella sale del sistema por trabajo (el gas mueve un pistón a través de un desplazamien-
+to) y el resto aparece como un aumento en la energía interna del gas. Sin embargo, el  
+ Sección 21.2  Calor específico molar de un gas ideal  593
+Figura 21.4 La energía se 
+transfiere por calor a un gas ideal 
+en dos formas. Para la trayectoria 
+i 3 f a volumen constante, toda la 
+energía participa en el aumento 
+de energía interna del gas, porque 
+no se realiza trabajo. A lo largo 
+de la trayectoria i 3 f   a presión 
+constante, parte de la energía 
+transferida adentro por calor se 
+transfiere afuera por trabajo.
+1 Energía interna de un gas 
+monoatómico ideal
+P
+V
+T  T
+T
+i
+f
+f
+Isotermas
+
+
+594 Capítulo 21  Teoría cinética de los gases
+Proporción de calores 
+específicos molares 
+para un gas ideal 
+monoatómico
+0
+TABLA 21.2
+Calores específicos molares de varios gases
+ Calor específico molar (J/mol  K)a
+Gas CP C V C P  CV H  CP/CV
+Gases monoatómicos
+He 20.8 12.5 8.33 1.67
+Ar 20.8 12.5 8.33 1.64
+Ne 20.8 12.7 8.12 1.64
+Kr 20.8 12.3 8.49 1.69
+Gases diatómicos
+H
+2 28.8 20.4 8.33 1.41
+N2 29.1 20.8 8.33 1.40
+O2 29.4 21.1 8.33 1.40
+CO 29.3 21.0 8.33 1.40
+Cl2 34.7 25.7 8.96 1.35
+Gases poliatómicos
+CO
+2 37.0 28.5 8.50 1.30
+SO2 40.4 31.4 9.00 1.29
+H2O 35.4 27.0 8.37 1.30
+CH4 35.5 27.1 8.41 1.31
+aTodos los valores, excepto el del agua, se obtuvieron a 300 K.
+cambio en energía interna para el proceso i 3 f   es igual al del proceso i 3 f porque Eint 
+sólo depende de la temperatura para un gas ideal y $T es la misma para ambos procesos. 
+Además, ya que PV  nRT, note que, para un proceso a presión constante, P $V  nR 
+$T. Al sustituir este valor para P $V en la ecuación 21.15 con $E int  nCV $T (ecuación 
+21.12) se obtiene
+ CP CV R
+nCV ¢Tn C P ¢Tn R ¢T
+ (21.16)
+Esta expresión se aplica a cualquier gas ideal y predice que el calor específico molar  
+de un gas ideal a presión constante es mayor que el calor específico molar a volumen  
+constante en una cantidad R, la constante universal de los gases (que tiene el valor 8.31 
+J/mol · K). Esta expresión es aplicable a gases reales, como muestran los datos de la tabla 
+21.2.
+Ya que C 
+V  3
+2R para un gas ideal monoatómico, la ecuación 21.16 predice un valor C P 
+ 5
+2R  20.8 J/mol · K para el calor específico molar de un gas monoatómico a presión 
+constante. La proporción de estos calores específicos molares es una cantidad adimensio-
+nal H (letra griega gamma):
+ g
+CP
+CV
+5R >2
+3R >2
+5
+3 1.67  (21.17)
+Los valores teóricos de CV, CP y H están en excelente concordancia con los valores experi-
+mentales obtenidos para gases monoatómicos, pero discrepan con los valores para los gases 
+más complejos (véase la tabla 21.12). Esto no sorprende: el valor C V  3
+2R  fue deducido 
+para un gas ideal monoatómico, y se espera cierta contribución adicional al calor especí-
+fico molar a partir de la estructura interna de las moléculas más complejas. En la sección 
+21.4 se describe el efecto de la estructura molecular sobre el calor específico molar de un 
+gas. La energía interna y, por tanto, el calor específico molar de un gas complejo debe 
+incluir aportaciones de los movimientos rotacional y vibratorio de la molécula.
+
+En el caso de sólidos y líquidos calentados a presión constante, se consume muy poco 
+trabajo porque la expansión térmica es pequeña. En consecuencia, CP y CV son aproxima-
+damente iguales para sólidos y líquidos.
+Pregunta rápida 21.2 i) ¿De qué modo cambia la energía interna de un gas mientras 
+sigue la trayectoria i 3 f en la figura 21.4? a) Eint aumenta. b) Eint disminuye. c) Eint perma-
+nece igual. d) No hay suficiente información para determinar cómo cambia Eint. ii) Entre 
+las mismas opciones, ¿cómo cambia la energía interna de un gas ideal a medida que sigue 
+la trayectoria f 3 f   a lo largo de la isoterma marcada T  $T en la figura 21.4?
+ Sección 21.3  Procesos adiabáticos para un gas ideal  595
+EJEMPLO 21.2 Calentamiento de un cilindro de helio
+Un cilindro contiene 3.00 moles de gas helio a una temperatura de 300 K.
+A) Si el gas se calienta a volumen constante, ¿cuánta energía por calor se debe transferir al gas para que su temperatura 
+aumente a 500 K?
+SOLUCIÓN
+Conceptualizar Proyecte el proceso en su mente con la ayuda del arreglo pistón–cilindro de la figura 19.12.
+Categorizar Ya que el gas mantiene un volumen constante, el pistón en la figura 19.12 se asegura en su lugar. Los pará-
+metros se evalúan con las ecuaciones desarrolladas en la explicación precedente, así que este ejemplo es un problema de 
+sustitución.
+Aplique la ecuación 21.8 para encontrar la transferencia de energía: Q
+1 nCV ¢T
+Sustituya los valores conocidos: 
+  7.50 10 3 J 
+Q 1 13.00 mol21 12.5 J>mol # K 21 500 K 300 K 2
+B) ¿Cuánta energía se debe transferir al gas por calor a presión constante para elevar la temperatura a 500 K?
+SOLUCIÓN
+Categorizar Ya que el gas mantiene una presión constante, el pistón en la figura 19.12 tiene libertad de moverse, así que 
+el pistón se modela como una partícula en equilibrio.
+Use la ecuación 21.9 para encontrar la transferencia de energía: Q
+2 nCP ¢T
+Sustituya los valores conocidos: 
+  12.5 10 3 J 
+Q 2 13.00 mol21 20.8 J>mol # K 21 500 K 300 K 2
+Este valor es mayor que Q1 debido a la transferencia de energía hacia afuera del gas, por trabajo en el proceso de presión 
+constante.
+21.3 Procesos adiabáticos para un gas ideal
+Como se notó en la sección 20.6, un proceso adiabático es aquel en el que no se transfiere 
+energía por calor entre un sistema y sus alrededores. Por ejemplo, si un gas se comprime (o 
+expande) rápidamente, muy poca energía se transfiere afuera (o adentro) del sistema por 
+calor, así que el proceso es casi adiabático. Tales procesos se presentan en el ciclo de 
+un motor a gasolina, que se explica con detalle en el capítulo 22. Otro ejemplo de un 
+proceso adiabático es la lenta expansión de un gas que está térmicamente aislado de sus 
+alrededores. Las tres variables en la ley de gas ideal (P, V y T) cambian durante un proceso 
+adiabático.
+
+596 Capítulo 21  Teoría cinética de los gases
+Imagine un proceso adiabático de un gas que incluye un cambio infinitesimal en volu-
+men dV acompañado de un cambio infinitesimal de temperatura dT. El trabajo consumido 
+en el gas es P dV. Ya que la energía interna de un gas ideal sólo depende de la tempera-
+tura, el cambio en la energía interna en un proceso adiabático es el mismo que para un 
+proceso isovolumétrico entre las mismas temperaturas, dE
+int  nCV dT (ecuación 21.12). 
+Por tanto, la primera ley de la termodinámica, $Eint  Q  W, con Q  0 se convierte en
+dEint nCV dT P dV
+Al tomar la diferencial total de la ecuación de estado de un gas ideal, PV  nRT, da
+P dV V dP nR dT
+Al eliminar dT de estas dos ecuaciones, se encuentra que
+P dV V dP R
+CV
+ P dV
+Al sustituir R  CP  CV y dividir entre PV produce
+dP
+P g dV
+V 0
+dV
+V
+dP
+P a
+CP CV
+CV
+b dV
+V 11 g 2 dV
+V
+Al integrar esta expresión, se tiene
+ln P + H ln V = constante
+que es equivalente a
+ PV g constante  (21.18)
+El diagrama PV para una expansión adiabática se muestra en la figura 21.5. Ya que 
+H  1, la curva PV es más pronunciada de lo que sería para una expansión isotérmica. 
+Por definición de un proceso adiabático, no se transfiere energía por calor hacia adentro  
+o hacia afuera del sistema. Por lo tanto, a partir de la primera ley, se ve que $Eint es nega-
+tivo (el trabajo se consume por el gas, así que su energía interna disminuye) y por eso $T 
+también es negativo. En consecuencia, la temperatura del gas disminuye (Tf   Ti) durante 
+una expansión adiabática.2 Por el contrario, la temperatura aumenta si el gas se comprime 
+adiabáticamente. Al aplicar la ecuación 21.18 a los estados inicial y final, se ve que
+ PiVi
+g PfVf
+g  (21.19)
+Al aplicar la ley del gas ideal, la ecuación 21.19 se expresa como
+ T
+iVi
+g 1 TfVf
+g 1  (21.20)
+EJEMPLO 21.3 Un cilindro de motor diesel
+Aire a 20.0°C en el cilindro de un motor diesel se comprime desde una presión inicial de 1.00 atm y volumen de 800.0 cm3 
+hasta un volumen de 60.0 cm3. Suponga que el aire se comporta como un gas ideal con H  1.40 y la compresión es adiabá-
+tica. Encuentre la presión y temperatura finales del aire.
+SOLUCIÓN
+Conceptualizar Imagine lo que sucede si un gas se comprime en un volumen más pequeño. La explicación anterior y la 
+figura 21.5 indican que tanto la presión como la temperatura aumentan.
+Categorizar Este ejemplo se clasifica como un problema que incluye un proceso adiabático.
+Figura 21.5 Diagrama PV para 
+una expansión adiabática de un 
+gas ideal. Note que Tf < Ti en este 
+proceso, así que la temperatura 
+del gas disminuye.
+2 En la expansión adiabática libre, analizada en la sección 20.6, la temperatura permanece constante. En 
+este proceso único, no se consume trabajo porque el gas se expande en un vacío. En general, la temperatura 
+disminuye en una expansión adiabática en la que se consumió trabajo.
+Correspondencia entre 
+P y V para un proceso 
+adiabático que involucra 
+un gas ideal
+0
+Correspondencia entre  
+T y V para un proceso  
+adiabático de un gas ideal
+0
+Ti
+Tf
+Isotermas
+P
+V
+Pi
+Pf
+Vi Vf
+Proceso adiabático
+i
+f
+
+Analizar Aplique la ecuación 21.19 para hallar la presión final:
+Use la ley de gas ideal para encontrar la temperatura final:
+Finalizar La temperatura del gas aumenta en un factor de 826 K/293 K  2.82. La alta compresión en un motor diesel 
+eleva la temperatura del combustible lo suficiente como para provocar su combustión sin el uso de bujías.
+ Sección 21.4  Equipartición de la energía  597
+21.4 Equipartición de la energía
+Las predicciones basadas en el modelo para calor específico molar concuerdan bastante 
+bien con el comportamiento de los gases monoatómicos, pero no con el comportamiento 
+de los gases complejos (véase la tabla 21.2). Sin embargo, el valor predicho por el modelo  
+para la cantidad C
+P  CV  R, es el mismo para todos los gases. Dicha similitud no sor-
+prende porque esta diferencia es el resultado del trabajo consumido en el gas, que es 
+independiente de su estructura molecular.
+Para aclarar las variaciones en C
+V y CP en los gases más complejos que los gases mo-
+noatómicos, explore aún más el origen del calor específico molar. Hasta el momento, 
+se ha supuesto que la única contribución a la energía interna de un gas es la energía 
+cinética traslacional de las moléculas. No obstante, la energía interna de un gas incluye 
+aportaciones de los movimientos traslacional, vibratorio y rotacional de las moléculas. Los 
+movimientos rotacional y vibratorio de las moléculas se activan mediante colisiones y, por 
+lo tanto, se “acoplan” con el movimiento traslacional de las moléculas. La rama de la física 
+conocida como mecánica estadística ha demostrado que, para un gran número de partículas 
+que obedecen las leyes de la mecánica newtoniana, la energía disponible se comparte, en 
+promedio, de manera equitativa por cada grado de libertad independiente. Recuerde de 
+la sección 21.1 que el teorema de equipartición establece que, en equilibrio, cada grado 
+de libertad aporta 
+1
+2k BT de energía por cada molécula.
+Considere un gas diatómico cuyas moléculas tienen la forma de una mancuerna (figura 
+21.6). En este modelo, el centro de masa de la molécula se traslada en las direcciones x, 
+y y z (figura 21.6a). Además, la molécula puede girar en torno a tres ejes mutuamente 
+perpendiculares (figura 21.6b). La rotación en torno al eje y se puede despreciar, por-
+que el momento de inercia Iy de la molécula y su energía rotacional 1
+2Iy V2 en torno a este 
+eje son despreciables comparadas con las asociadas a los ejes x y z. (Si los dos átomos se  
+modelan como partículas, en tal caso Iy es idénticamente cero.) Por ende, hay cinco gra-
+dos de libertad para traslación y rotación: tres asociados con el movimiento traslacional y  
+dos asociados con el movimiento rotacional. Ya que cada grado de libertad aporta, en 
+promedio, 
+1
+2k BT de energía por cada molécula, la energía interna para un sistema de N 
+moléculas, ignorando por ahora la vibración, es
+Eint 3N 11
+2kBT 2 2N 11
+2
+kBT 2 5
+2
+NkBT 5
+2
+nRT
+Se puede usar este resultado y la ecuación 21.13 para encontrar el calor específico 
+molar a volumen constante:
+ CV
+1
+n
+ 
+dEint
+dT
+1
+n
+ 
+d
+dT 15
+2nRT 2 5
+2
+R  (21.21)
+Figura 21.6 Posibles 
+movimientos de una molécula 
+diatómica: a) movimiento 
+traslacional del centro de masa,  
+b) movimiento rotacional en 
+torno a los diferentes ejes y  
+c) movimiento vibratorio a lo 
+largo del eje molecular.
+   37.6 atm 
+Pf Pi a Vi
+Vf
+b
+g
+11.00 atm2a 800.0 cm3
+60.0 cm3 b
+1.40
+ 826 K   553°C 
+Tf
+PfVf
+PiVi
+ Ti
+137.6 atm21 60.0 cm3 2
+11.00 atm21 800.0 cm3 2 1293 K2
+PiVi
+Ti
+PfVf
+Tf
+a)
+x
+z
+y
+yx
+z
+b)
+yx
+z
+c)
+
+598 Capítulo 21  Teoría cinética de los gases
+Figura 21.7 Calor específico molar del hidrógeno como función de la temperatura. La escala 
+horizontal es logarítmica. Note que el hidrógeno se licua a 20 K.
+A partir de las ecuaciones 21.16 y 21.17, se encuentra que
+g CP
+CV
+7
+2R
+5
+2
+R
+7
+5 1.40
+ CP CV R 7
+2R 
+Estos resultados concuerdan con la mayoría de los datos para moléculas diatómicas men-
+cionadas en la tabla 21.2. Esto es sorprendente porque todavía no se explican las posibles 
+vibraciones de la molécula.
+En el modelo para vibración, los dos átomos se reúnen mediante un resorte imaginario 
+(véase la figura 21.6c). El movimiento vibratorio agrega dos grados de libertad más, que 
+corresponden a la energía cinética y a la energía potencial asociada con las vibraciones  
+junto con la longitud de la molécula. Por tanto, un modelo que incluye los tres tipos de 
+movimiento predice una energía interna total de
+E
+int 3N 11
+2kBT2 2N 11
+2
+kBT2 2N 11
+2
+kBT2 7
+2
+NkBT 7
+2
+nRT
+y un calor específico molar a volumen constante de
+ CV
+1
+n  dEint
+dT
+1
+n  d
+dT 17
+2nRT 2 7
+2
+R  (21.22)
+Este valor es inconsistente con los datos experimentales para moléculas como H2 y N2 
+(véase la tabla 21.2) y sugiere un fracaso del modelo en términos de la física clásica.
+Puede parecer que el modelo es un fracaso para predecir calores específicos molares 
+para gases diatómicos. Sin embargo, se puede afirmar cierto éxito del modelo si se hacen 
+mediciones de calor específico molar sobre un amplio intervalo de temperatura, en lugar 
+de hacerlo en una sola temperatura que dé los valores en la tabla 21.2. La figura 21.7 
+muestra el calor específico molar del hidrógeno como una función de la temperatura. La 
+característica notable acerca de las tres mesetas en la curva de la gráfica, ¡es que son los 
+valores del calor específico molar predicho por las ecuaciones 21.14, 21.21 y 21.22! Para 
+bajas temperaturas, el gas hidrógeno diatómico se comporta como un gas monoatómico. 
+A medida que la temperatura se eleva a la del ambiente, su calor específico molar se eleva 
+a un valor para un gas diatómico, consistente con la inclusión de la rotación pero no de la 
+vibración. Para temperaturas altas, el calor específico molar es consistente con un modelo 
+que incluye todos los tipos de movimiento.
+Antes de explicar la razón para este misterioso comportamiento, se harán algunas bre-
+ves observaciones acerca de los gases poliatómicos. Para moléculas con más de dos átomos, 
+las vibraciones son más complejas que para moléculas diatómicas y el número de grados de 
+libertad es incluso más grande. El resultado es un calor específico molar mayor al predi-
+cho, lo que está en concordancia cualitativa con los experimentos. Los calores específicos 
+molares para los gases poliatómicos en la tabla 21.2 son mayores que aquellos para gases 
+Traslación
+Rotación
+Vibración
+Temperatura (K)
+CV ( J/mol·K)
+0
+5
+10
+15
+20
+25
+30
+10 20 50 100 200 500 1000 2000 5000 10000
+7
+2–R
+5
+2–R
+3
+2–R
+
+diatómicos. Mientras más grados de libertad tenga disponibles una molécula, más “formas” 
+habrá para almacenar energía, lo que resulta en un mayor calor específico molar.
+Una sugerencia de la cuantización de la energía
+Hasta el momento el modelo para calores específicos molares se basó en nociones me-
+ramente clásicas. Predice un valor del calor específico para un gas diatómico que, de 
+acuerdo con la figura 21.7, sólo concuerda con las mediciones experimentales hechas a 
+altas temperaturas. Para explicar el motivo de que este valor sólo es verdadero en altas 
+temperaturas y por qué existen las mesetas en la figura 21.7, se debe ir más allá de la física 
+clásica e introducir algo de física cuántica en el modelo. En el capítulo 18 se analizó la 
+cuantización de la frecuencia para cuerdas en vibración y columnas de aire: sólo pueden 
+existir ciertas frecuencias de ondas estables. Dicho resultado es natural siempre que las 
+ondas estén sujetas a condiciones de frontera.
+La física cuántica (capítulos del 40 al 43) demuestra que los átomos y las moléculas se 
+pueden describir mediante la física de ondas bajo condiciones de frontera. En consecuen-
+cia, estas ondas tienen frecuencias cuantizadas. Además, en la física cuántica, la energía 
+de un sistema es proporcional a la frecuencia de la onda que representa al sistema. Por 
+tanto, las energías de átomos y moléculas están cuantizadas.
+Para una molécula, la física cuántica dice que las energías rotacional y vibratoria están 
+cuantizadas. La figura 21.8 muestra un diagrama de nivel de energía  para los estados 
+cuánticos rotacional y vibratorio de una molécula diatómica. El estado más bajo permitido 
+se llama estado de mínima energía. Note que los estados vibratorios están separados por 
+extensos vacíos energéticos que son estados rotacionales.
+A bajas temperaturas, la energía que gana una molécula en colisiones contra sus veci-
+nas por lo general no es lo suficientemente grande como para elevarla al primer estado 
+excitado o de rotación o de vibración. Por lo tanto, aun cuando, de acuerdo con la física 
+clásica, se permitan rotación y vibración, en realidad no se presentan a bajas temperaturas. 
+Todas las moléculas están en el estado fundamental para rotación y vibración. La única 
+aportación a la energía promedio de las moléculas es de traslación, y el calor específico es 
+el predicho por la ecuación 21.14.
+A medida que la temperatura se eleva, la energía promedio de las moléculas aumenta. 
+En algunas colisiones, una molécula puede tener suficiente energía transferida desde 
+otra molécula para excitar el primer estado rotacional. Conforme la temperatura se eleva 
+aún más, más moléculas se pueden excitar a este estado. El resultado es que la rotación 
+comienza a contribuir a la energía interna y el calor específico molar se eleva. Cerca de la 
+temperatura ambiente en la figura 21.7, se alcanza la segunda meseta y la rotación contri-
+buye completamente al calor específico molar. El calor específico molar ahora es igual al 
+valor predicho por la ecuación 21.21.
+A temperatura ambiente no hay contribución de la vibración, porque las moléculas 
+todavía están en el estado vibratorio fundamental. La temperatura se debe elevar aún más 
+para excitar el primer estado vibratorio, lo que sucede en la figura 21.7 entre 1 000 K y 
+10 000 K. A 10 000 K en el lado derecho de la figura, la vibración contribuye por comple-
+to a la energía interna y el calor específico molar tiene el valor predicho por la ecuación 
+21.22.
+Las predicciones de este modelo son sustento del teorema de equipartición de la ener-
+gía. Además, la inclusión del modelo de la cuantización de energía de la física cuántica 
+permite una total comprensión de la figura 21.7.
+Pregunta rápida 21.3 El calor específico molar de un gas diatómico se observa a vo-
+lumen constante y se encuentra que es de 29.1 J/mol · K. ¿Cuáles son los tipos de ener -
+gía que contribuyen al calor específico molar? a) Sólo traslación,
+ b) sólo traslación y 
+rotación, c) sólo traslación y vibración, d) traslación, rotación y vibración.
+Pregunta rápida 21.4 El calor específico molar de un gas se observa a volumen cons-
+tante y se encuentra que es de 11R/2. Es más probable que el gas sea, ¿a) monoatómico, 
+b) diatómico o c) poliatómico?
+ Sección 21.4  Equipartición de la energía  599
+Figura 21.8 Diagrama de niveles 
+de energía para estados vibratorio 
+y rotacional de una molécula 
+diatómica. Note que los estados 
+rotacionales se encuentran más 
+juntos en energía que los estados 
+vibratorios.
+Estados
+rotacio-
+nales
+Estados
+rotacio-
+nales
+Estados
+vibratorios
+ENERGÍA
+
+600 Capítulo 21  Teoría cinética de los gases
+21.5  Distribución de magnitudes  
+de velocidad moleculares
+Hasta el momento sólo se han considerado valores promedio de las energías de moléculas 
+en un gas y no se ha abordado la distribución de energías entre moléculas. En realidad, el 
+movimiento de las moléculas es extremadamente caótico. Cualquier molécula individual 
+choca contra otras a una rapidez enorme, por lo general cien mil millones de veces por 
+cada segundo. Cada colisión resulta en un cambio en la rapidez y dirección de movimiento  
+de cada una de las moléculas participantes. La ecuación 21.7 muestra que las magnitudes de 
+velocidad moleculares rms aumentan conforme se incrementa la temperatura. ¿Cuál es 
+el número relativo de moléculas que tienen alguna característica como energía dentro 
+de cierto intervalo?
+Esta cuestión se abordará al considerar la densidad de número n
+V(E). Esta cantidad, 
+llamada función de distribución, se define de modo que nV(E) dE es el número de moléculas 
+por unidad de volumen con energía entre E y E  dE. (La proporción del número de 
+moléculas que tiene la característica deseada al número total de moléculas es la probabi-
+lidad de que una molécula particular tenga dicha característica.) En general, a partir de 
+la mecánica estadística se encuentra que la densidad de número es
+ 
+nV 1E 2 n0e E>kBT (21.23)
+donde n0 se define tal que n0 dE es el número de moléculas por unidad de volumen que 
+tiene energía entre E  0 y E  dE. Esta ecuación, conocida como ley de distribución de  
+Boltzmann, es importante para describir la mecánica estadística de un gran número  
+de moléculas. Dicha ley afirma que la probabilidad de encontrar las moléculas en un es-
+tado energético particular varía exponencialmente como el negativo de la energía dividida 
+entre kBT. Todas las moléculas caerán en el nivel energético más bajo si la agitación térmica 
+a una temperatura T no excita las moléculas a niveles energéticos superiores.
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 21.2
+La función de distribución
+La función de distribución 
+nV(E) se define en términos 
+del número de moléculas con 
+energía en el intervalo E a E +  
+dE antes que en términos del 
+número de moléculas con 
+energía E. Ya que el número 
+de moléculas es finito y el 
+número de posibles valores de 
+la energía es infinito, el número 
+de moléculas con una energía 
+exacta E puede ser cero.
+EJEMPLO 21.4 Excitación térmica de niveles energéticos atómicos
+Como se explicó en la sección 21.4, los átomos pueden ocupar sólo ciertos niveles 
+energéticos discretos. Considere un gas a una temperatura de 2 500 K cuyos átomos 
+puedan ocupar sólo dos niveles energéticos separados por 1.50 eV, donde 1 eV (elec-
+trónvolt) es una unidad de energía igual a 1.60  10
+19 J (figura 21.9). Determine la 
+relación del número de átomos en el nivel energético superior al número en compa-
+ración con el nivel energético inferior.
+SOLUCIÓN
+Conceptualizar En su representación mental de este ejemplo, recuerde que sólo 
+dos posibles estados se permiten para el sistema del átomo. La figura 21.9 le ayuda a 
+visualizar los dos estados en un diagrama de niveles de energía. En este caso, el átomo 
+tiene dos posibles energías, E
+1 y E2, donde E1  E2.
+Categorizar Este ejemplo se clasifica como uno en el que se aplica la ley de distribución de Boltzmann a un sistema cuan-
+tizado.
+Analizar Establezca la proporción del número de 
+átomos en el nivel energético superior en relación 
+con el número en el nivel energético inferior y apli-
+que la ecuación 21.23 para expresar cada número:
+Evalúe k
+BT en el exponente:
+Sustituya este valor en la ecuación 1):
+Ley de distribución  
+de Boltzmann
+0
+E1
+E2
+1.50 eV
+ENERGÍA
+Figura 21.9 (Ejemplo 21.4) 
+Diagrama de niveles de energía para 
+un gas cuyos átomos pueden ocupar 
+dos estados de energía.
+nV 1E2 2
+nV 1E1 2 e 1.50 eV>0.216 eV e 6.96   9.52 10 4
+kBT 11.38 10 23 J>K 21 2 500 K2a 1 eV
+1.60 10 19 J
+b 0.216 eV
+1)
+nV 1E2 2
+nV 1E1 2
+n0e E2>kBT
+n0e E1>kBT e 1E2 E12>kBT
+
+Finalizar Este resultado indica que en T  2 500 K, sólo una pequeña fracción de los átomos están en el nivel energético 
+superior. De hecho, por cada átomo en el nivel energético superior, hay aproximadamente 1 000 átomos en el nivel inferior. 
+El número de átomos en el nivel superior aumenta incluso a temperaturas más altas, pero la ley de distribución especifica 
+que en equilibrio siempre hay más átomos en el nivel inferior que en el nivel superior.
+¿Qué pasaría si? ¿Y si los niveles de energía en la figura 21.9 estuvieran más juntos en energía? ¿La fracción de los átomos 
+en el nivel energético superior aumentaría o disminuiría?
+Respuesta Si el nivel excitado es menor en energía que en la figura 21.9, sería más fácil que la agitación térmica excitara 
+átomos a este nivel y la fracción de átomos en este nivel energético sería mayor . V
+ea esto matemáticamente al expresar la 
+ecuación (1) como
+r2 e 1E2 E12>kBT
+donde r2 es la relación de átomos que tienen energía E 2 en relación con los que tienen energía E 1. Al derivar respecto de 
+E2, se encuentra
+dr2
+dE2
+d
+dE2
+1e 1E2 E12>kBT 2 E2
+kBT e 1E2 E12>kBT 6 0
+Ya que la derivada tiene un valor negativo, a medida que E2 disminuye, r2 aumenta.
+ Sección 21.5  Distribución de magnitudes de velocidad moleculares  601
+Ahora que se explicó la distribución de energías, piense acerca de la distribución de 
+magnitudes de velocidad moleculares. En 1860, James Clerk Maxwell (1831–1879) obtuvo  
+una expresión que describe la distribución de magnitudes de velocidad moleculares en una 
+forma muy definida. Su obra, y desarrollos posteriores de otros científicos, generaron 
+una gran controversia porque en esa época no se podía lograr experimentalmente la de-
+tección directa de moléculas. Sin embargo, alrededor de 60 años después, se diseñaron 
+experimentos que confirmaron las predicciones de Maxwell.
+Considere un contenedor de gas cuyas moléculas tienen alguna distribución de mag-
+nitudes de velocidad. Suponga que se busca determinar cuántas moléculas de gas tienen 
+una rapidez en el intervalo de, por ejemplo, 400 a 401 m/s. La intuición dicta que la dis-
+tribución de rapidez dependa de la temperatura. Además, se espera que la distribución 
+tenga un máximo en la vecindad de v
+rms. Esto es, se espera que pocas moléculas tengan 
+rapideces mucho menores o mayores que vrms porque dichas magnitudes de velocidad 
+extremas sólo resultan de una improbable cadena de colisiones.
+La distribución de rapidez observada en las moléculas de gas en equilibrio térmico se 
+muestra en la figura 21.10 (página 602). La cantidad Nv, llamada función de distribución 
+de rapidez de Maxwell–Boltzmann, se define del modo siguiente. Si N es el número to- 
+tal de moléculas, el número de moléculas con magnitudes de velocidad entre v y v  dv 
+es dN  Nv dv. Este número también es igual al área del rectángulo coloreado en la figura 
+21.10. Además, la fracción de moléculas con magnitudes de velocidad entre v y v  dv es 
+(Nv dv)/N. Esta fracción también es igual a la probabilidad de que una molécula tenga 
+una rapidez en el intervalo de v a v  dv.
+La expresión fundamental que describe la distribución de magnitudes de velocidad de 
+N moléculas de gas es
+ Nv 4pN a m0
+2pkBT b
+3>2
+v2e m0v2>2kBT (21.24)
+donde m0 es la masa de una molécula de gas, kB es la constante de Boltzmann y T es la tem-
+peratura absoluta.3 Observe la apariencia del factor Boltzmann eE/k BT con E  1
+2m0v 2.
+LUDWIG BOLTZMANN
+Físico austriaco (1844–1906)
+Boltzmann hizo muchas aportaciones 
+importantes al desarrollo de la teoría 
+cinética de los gases, electromagnetismo 
+y termodinámica. Su obra pionera en el 
+campo de la teoría cinética condujo a la 
+rama de la física conocida como mecánica 
+estadística.
+3 Para la deducción de esta expresión, vea un texto avanzado acerca de termodinámica.
+Cortesía de AIP Niels Bohr Library, Lande 
+Collection
+
+602 Capítulo 21  Teoría cinética de los gases
+Como se indica en la figura 21.10, la rapidez promedio es en cierto modo menor que 
+la rapidez rms. La rapidez más probable vmp es la rapidez a la que llega a un máximo la curva 
+de distribución. Con la ecuación 21.24, se encuentra que
+ vrms v2 3kBT
+m0
+1.73 kBT
+m0
+ (21.25)
+ vprom
+8kBT
+pm0
+1.60 kBT
+m0
+ (21.26)
+  vmp
+2kBT
+m0
+1.41 kBT
+m0
+ (21.27)
+La ecuación 21.25 apareció anteriormente como ecuación 21.7. Los detalles de las deduc-
+ciones de estas ecuaciones a partir de la ecuación 21.24 se dejan al estudiante (consulte 
+los problemas 33 y 57). A partir de estas ecuaciones, se ve que
+v
+rms  vprom  vmp
+La figura 21.11 representa curvas de distribución de rapidez para nitrógeno, N 2. Las 
+curvas se obtuvieron al aplicar la ecuación 21.24 para evaluar la función de distribución en 
+varias magnitudes de velocidad y en dos temperaturas. Note que el máximo en cada curva 
+se desplaza a la derecha a medida que T aumenta, lo que indica que la rapidez promedio 
+aumenta con el aumento de temperatura, como se esperaba. Ya que la rapidez posible más 
+baja es cero, y el límite clásico superior de la rapidez es infinito, las curvas son asimétricas. 
+(En el capítulo 39 se demostrará que el límite superior real es la rapidez de la luz.)
+La ecuación 21.24 muestra que la distribución de magnitudes de velocidad molecu-
+lares en un gas depende tanto de la masa como de la temperatura. A cierta temperatura, 
+la fracción de moléculas con magnitudes de velocidad que superan un valor fijo aumenta 
+a medida que la masa disminuye. Por lo tanto, las moléculas más ligeras, como H
+2 y He, 
+escapan más fácilmente de la atmósfera de la Tierra que las moléculas más pesadas como 
+N
+2 y O2. (Véase el análisis de rapidez de escape en el capítulo 13. Las moléculas de gas 
+escapan incluso más fácilmente de la superficie de la Luna que de la Tierra, porque la 
+rapidez de escape en la Luna es menor que en la Tierra.)
+Las curvas de distribución de rapidez para moléculas en un líquido son similares a las 
+que se muestran en la figura 21.11. El fenómeno de la evaporación de un líquido se puede 
+entender a partir de esta distribución en magnitudes de velocidad, dado que algunas molé-
+culas en el líquido son más energéticas que otras. Algunas de las moléculas más rápidas en 
+el líquido penetran la superficie e incluso dejan el líquido a temperaturas muy por abajo 
+del punto de ebullición. Las moléculas que escapan del líquido por evaporación son las 
+Figura 21.10 Distribución de 
+rapidez de moléculas de gas a 
+cierta temperatura. El número de 
+moléculas que tienen magnitudes 
+de velocidad en el intervalo de 
+v a v + dv es igual al área del 
+rectángulo coloreado, N
+v dv. La 
+función Nv tiende a cero a medida 
+que v tiende a infinito.
+Figura 21.11 Función de distribución de rapidez para 105 moléculas de nitrógeno a 300 K y 900 K.  
+El área total bajo cualquier curva es igual al número total de moléculas, que en este caso es igual a 105. 
+Note que vrms > vprom > vmp.
+vmp
+vrms
+Nv
+v
+vprom
+Nv
+dv
+200
+160
+120
+80
+40
+200 400 600 800 1000 1200 1400 1600
+T  300 K
+Curvas calculadas para
+N  10
+5 moléculas de nitrógeno
+T  900 K
+Nv [moléculas/(m/s)]
+vrms
+vprom
+v (m/s)
+vmp
+00
+
+que tienen suficiente energía para superar las fuerzas atractivas de las moléculas en la fase 
+líquida. En consecuencia, las moléculas que quedan en la fase líquida tienen una energía 
+cinética promedio más baja; como resultado, la temperatura del líquido disminuye. Por 
+tanto, la evaporación es un proceso de enfriamiento. Por ejemplo, puede colocar una tela 
+mojada en alcohol en la cabeza de un paciente con fiebre para enfriarlo y reconfortarlo.
+ Sección 21.5  Distribución de rapideces moleculares  603
+EJEMPLO 21.5 Un sistema de nueve partículas
+Nueve partículas tienen magnitudes de velocidad de 5.00, 8.00, 12.0, 12.0, 12.0, 14.0, 14.0, 17.0 y 20.0 m/s.
+A) Encuentre la rapidez promedio de las partículas.
+SOLUCIÓN
+Conceptualizar Imagine un pequeño número de partículas móviles en direcciones aleatorias con las magnitudes de velo-
+cidad mencionadas.
+Categorizar Ya que se trata con un pequeño número de partículas, se puede calcular directamente la rapidez promedio.
+Analizar Encuentre la rapidez 
+promedio de las partículas al divi-
+dir la suma de las magnitudes de 
+velocidad entre el número total de 
+partículas:
+B) ¿Cuál es la rapidez rms de las partículas?
+SOLUCIÓN
+Encuentre la rapidez cuadrática 
+media de las partículas al dividir la 
+suma de las magnitudes de veloci-
+dad al cuadrado entre el número 
+total de partículas:
+Encuentre la rapidez rms de las par-
+tículas al sacar la raíz cuadrada:
+C) ¿Cuál es la rapidez más probable de las partículas?
+SOLUCIÓN
+Tres de las partículas tienen una rapidez de 12.0 m/s, dos tienen una rapidez de 14.0 m/s y las cuatro restantes tienen dife-
+rentes magnitudes de velocidad. Por tanto, la rapidez más probable vmp es 12.0 m/s.
+Finalizar Compare este ejemplo, que tiene un número de partículas pequeño y del que se conocen las magnitudes de 
+velocidad de las partículas individuales, con el siguiente ejemplo.
+EJEMPLO 21.6 Magnitudes de velocidad moleculares en gas hidrógeno
+Una muestra de 0.500 moles de gas hidrógeno está a 300 K.
+A) Encuentre la rapidez promedio, la rapidez rms y la rapidez más probable de las moléculas de hidrógeno.
+SOLUCIÓN
+Conceptualizar Imagine un gran número de partículas en un gas real, todas moviéndose en direcciones aleatorias con  
+magnitudes de velocidad diferentes.
+178 m2>s2
+v2 15.002 8.002 12.02 12.02 12.02 14.02 14.02 17.02 20.02 2 m2>s2
+9
+vrms v2 178 m2>s2   13.3 m>s
+  12.7 m>s
+vprom
+15.00 8.00 12.0 12.0 12.0 14.0 14.0 17.0 20.0 2 m>s
+9
+
+604 Capítulo 21  Teoría cinética de los gases
+Categorizar No es posible calcular los promedios como se hizo en el ejemplo 21.5, porque las magnitudes de velocidad 
+individuales de las partículas son desconocidas. Sin embargo, se trata con un número muy grande de partículas, así que se 
+puede aplicar la función de distribución de rapidez de Maxwell–Boltzmann.
+Analizar Aplique la ecuación 21.26 para encontrar la 
+rapidez promedio:
+Use la ecuación 21.25 para encontrar la rapidez rms:
+Utilice la ecuación 21.27 para encontrar la rapidez más 
+probable:
+B) Hallar el número de moléculas con magnitudes de velocidad entre 400 m/s y 401 m/s.
+SOLUCIÓN
+Aplique la ecuación 21.24 
+para evaluar el número de 
+moléculas en un intervalo 
+estrecho de magnitudes de 
+velocidad, entre v y v + dv:
+Evalúe la constante enfrente 
+de v
+2:
+Evalúe el exponente de e:
+Evalúe Nv dv mediante la ecuación 1):
+Finalizar En esta evaluación, el resultado se podía calcular sin integración porque dv  1 m/s es mucho menor que  
+v  400 m/s. De haber buscado el número de partículas por decir, entre 400 m/s y 500 m/s, se habría necesitado integrar 
+la ecuación 1) entre estos límites de rapidez.
+  1.78 10 3 m>s
+vprom 1.60 kBT
+m0
+1.60
+11.38 10 23 J>K 21 300 K2
+2 11.67 10 27 kg2
+  1.93 10 3 m>s
+vrms 1.73 kBT
+m0
+1.73
+11.38 10 23 J>K 21 300 K2
+2 11.67 10 27 kg2
+  1.57 10 3 m>s
+vmp 1.41 kBT
+m0
+1.41 11.38 10 23 J>K 21 300 K2
+2 11.67 10 27 kg2
+1) Nv dv 4pN a m0
+2pkBT b
+3>2
+v2e m0v 2>2kBT dv
+1.74 10 14 s3>m3
+4p 10.500 mol21 6.02 10 23 mol 1 2c
+2 11.67 10 27 kg2
+2p 11.38 10 23 J>K 21 300 K2 d
+3>2
+4pN a m0
+2pkBT b
+3>2
+4pnNA a m0
+2pkBT b
+3>2
+m0v2
+2kBT
+2 11.67 10 27 kg21 400 m>s 22
+2 11.38 10 23 J>K 21 300 K2 0.064 5
+  2.61 10 19 moléculas 
+Nv dv 11.74 10 14 s3>m3 21 400 m>s 22e 0.064 5 11 m>s 2
+
+Preguntas 605
+Resumen
+CONCEPTOS Y PRINCIPIOS
+La presión de N moléculas de un gas ideal contenido en un 
+volumen V es
+ P 2
+3 a N
+V b1 1
+2
+m0v2 2  (21.2)
+La energía cinética traslacional promedio por cada molécula 
+de un gas, 1
+2m0v2, se relaciona con la temperatura T del gas a 
+través de la expresión
+ 1
+2m0v2 3
+2kBT   (21.4)
+donde kB es la constante de Boltzmann. Cada grado de libertad 
+de traslación (x, y o z) tiene 1
+2k BT de energía asociada con él.
+La energía interna de N moléculas (o n moles) 
+de un gas monoatómico ideal es
+ Eint
+3
+2NkBT 3
+2
+nRT  (21.10)
+El cambio en energía interna para n moles de 
+algún gas ideal que se somete a un cambio $T 
+en temperatura es
+ ¢Eint nCV ¢T  (21.12)
+donde CV es el calor específico molar a volumen 
+constante.
+El calor específico molar de un gas monoatómico 
+ideal a volumen constante es C V  3
+2R ; el calor 
+específico molar a presión constante es C P  5
+2R . 
+La relación de calores específicos se conoce por  
+H  C
+P/C V  5
+3.
+Si un gas ideal se somete a una expansión o compresión 
+adiabáticos, la primera ley de la termodinámica, junto con la 
+ecuación de estado, muestra que
+ PV 
+H = constante  (21.18)
+La ley de distribución de Boltzmann describe la 
+distribución de partículas entre estados de energía 
+disponibles. El número relativo de partículas que 
+tienen energía entre E y E + dE es n
+V(E) dE, donde
+ nV 1E 2 n0e E>kBT  (21.23)
+La función de distribución de rapidez de Maxwell–
+Boltzmann describe la distribución de magnitudes 
+de velocidad de las moléculas en un gas:
+ N
+v 4pN a m0
+2pkBT b
+3>2
+v2e m0v2>2kBT  (21.24)
+La ecuación 21.24 permite el cálculo de la rapidez media 
+cuadrática (rms), la rapidez promedio y la rapidez más 
+probable de las moléculas en un gas:
+ v
+rms v2 3kBT
+m0
+1.73 kBT
+m0
+ (21.25)
+ vprom
+8kBT
+pm0
+1.60 kBT
+m0
+ (21.26)
+  vmp
+2kBT
+m0
+1.41 kBT
+m0
+ (21.27)
+O indica pregunta complementaria.
+Preguntas
+ 1. La ley de Dalton para las presiones parciales establece que la  
+presión total de una mezcla de gases es igual a la suma de  
+las presiones que cada gas en la mezcla ejercería si estuviera 
+solo en el contenedor. Proporcione un argumento convincen-
+te para esta ley, de acuerdo con la teoría cinética de los gases.
+ 2. Un recipiente lleno con gas helio y otro con gas argón. Ambos 
+están a la misma temperatura. ¿Cuáles moléculas tienen la 
+mayor rapidez rms? Explique.
+ 3. Cuando se frota alcohol en el cuerpo, baja la temperatura de 
+su piel. Explique este efecto.
+ 4. O  A un estudiante se le pide explicar paso a paso qué hace que 
+aumente la temperatura de una muestra de gas. Su respuesta: 
+cuando una muestra de gas se mantiene sobre una placa caliente,  
+a) las moléculas aumentan su rapidez. b) Después las molécu-
+las chocan unas contra otras con más frecuencia. c) La fricción 
+interna hace que las colisiones sean inelásticas. d) Se produce 
+calor en las colisiones. e) Tan pronto como se pone un termó-
+metro, se ve que la temperatura subió. f) El mismo proceso 
+puede tener lugar sin el uso de una placa caliente si se empuja 
+rápidamente un pistón en un cilindro aislado que contenga al 
+gas. i) ¿De entre las opciones a) a la f) de esta descripción, son 
+enunciados correctos necesarios para una explicación clara 
+y completa? ii) ¿Cuáles son enunciados correctos que no son 
+necesarios para explicar la mayor lectura en el termómetro? 
+iii) ¿Cuáles son incorrectos?
+
+606 Capítulo 21  Teoría cinética de los gases
+ 5. O Un globo lleno con helio inicialmente a temperatura am-
+biente se coloca en un congelador. El caucho permanece flexi-
+ble. i) ¿Su volumen a) aumenta, b) disminuye o c) permanece 
+igual?   ii) ¿Su presión a) aumenta, b) disminuye o c) perma-
+nece igual?
+ 6. O Un gas a 200 K. Si se quiere duplicar la rapidez rms de las 
+moléculas del gas, ¿a cuánto se debe aumentar su temperatu-
+ra? a) 283 K,   b) 400 K,   c) 566 K,   d) 800 K,   e) 1 130 K.
+ 7. O Clasifique de mayor a menor y anote cualquier caso de igual-
+dad. a) La rapidez promedio de las moléculas en una muestra 
+particular de gas ideal. b) La rapidez más probable. c) La ra-
+pidez media cuadrática. d) El vector velocidad promedio de 
+las moléculas. e) La rapidez del sonido en el gas.
+ 8. O Dos muestras del mismo gas ideal tienen la misma presión 
+y densidad. La muestra B tiene el doble de volumen que la 
+muestra A. ¿Cuál es la rapidez rms de las moléculas en la mues-
+tra B? a) El doble que en la muestra A,   b) igual a la muestra A,   
+c) la mitad de la muestra A,   d) imposible de determinar.
+ 9. ¿Cuál es más denso, el aire seco o el aire saturado con vapor 
+de agua? Explique.
+ 10. ¿Qué sucede con un globo lleno con helio liberado en el aire? 
+¿Se expande o se contrae? ¿Deja de elevarse en alguna altura?
+ 11. ¿Por qué un gas diatómico tiene un mayor contenido energéti-
+co por cada mol que un gas monoatómico a la misma tempera-
+tura?
+ 12. O Considere un gas ideal contenido en un recipiente a  
+300 K. Si la temperatura aumenta a 900 K, ¿cuál es el factor de 
+cambio en i) la energía cinética promedio de las moléculas? 
+a)9, b)3, c)
+3, d)1, e)
+1
+3. ii) ¿Cuál es el factor de cambio 
+en la rapidez molecular rms? Escoja entre las mismas posi-
+bilidades.   iii) ¿Cuál es el factor de cambio en el cambio 
+de cantidad de movimiento promedio que una molécula se 
+somete en una colisión contra una pared particular? iv) ¿Cuál 
+es el factor de cambio en la rapidez de colisiones contra las 
+paredes de las moléculas? v) ¿Cuál es el factor de cambio en 
+la presión del gas? Elija entre las mismas posibilidades de la 
+a) a la e).
+ 13. Si el aire caliente sube, ¿de esta manera por qué generalmente 
+es más frío a medida que escala una montaña? Nota: El aire 
+tiene una conductividad térmica baja.
+ 14. O La curva café en la figura 21.11 muestra la distribución de 
+rapidez para 100 000 moléculas de nitrógeno a 900 K. El crip-
+tón tiene casi tres veces la masa molecular del nitrógeno. La 
+curva azul, sin importar su etiqueta, muestra la distribución 
+de rapidez para  a) 100 000 moléculas de criptón a 900 K,    
+b) 100 000 moléculas de criptón a 520 K,   c) 100 000 moléculas 
+de criptón a 300 K,   d) 100 000 moléculas de criptón a 100 K,   
+e) 33 000 moléculas de criptón a 900 K,   f) 33 000 moléculas 
+de criptón a 300 K,   g) Esta distribución no se puede atribuir 
+a cualquier muestra de criptón, que no existe en la Tierra.
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+Problemas
+da sobre la pared? (La masa de una molécula de N2 es 4.68  
+1026 kg.)
+ 5. En un sistema de ultra alto vacío, la presión es de 1.00  1010 
+torr (donde 1 torr = 133 Pa). Si supone que la temperatura es 
+de 300 K, encuentre el número de moléculas en un volumen 
+de 1.00 m
+3.
+ 6. Una muestra de 2.00 moles de gas oxígeno se confinan en un 
+recipiente de 5.00 L a una presión de 8.00 atm. Encuentre la 
+energía cinética traslacional promedio de una molécula de 
+oxígeno bajo estas condiciones.
+ 7. Un globo esférico de 4 000 cm
+3 de volumen contiene helio a 
+una presión (interior) de 1.20  105 Pa. ¿Cuántas moles de 
+helio hay en el globo si la energía cinética promedio de cada 
+átomo de helio es de 3.60  10
+22 J?
+ 8. Un recipiente de 5.00 L contiene gas nitrógeno a 27.0°C y 
+3.00 atm. a) Encuentre la energía cinética traslacional total 
+de las moléculas de gas y b) la energía cinética promedio por 
+molécula.
+ 9. a) ¿Cuántos átomos de gas helio llenan un globo de 30.0 cm de 
+diámetro a 20.0°C y 1.00 atm? b) ¿Cuál es la energía cinética 
+promedio de los átomos de helio? c) ¿Cuál es la rapidez media 
+cuadrática de los átomos de helio?
+ 10. a) Demuestre que 1 Pa  1 J/m
+3. b) Demuestre que la densi-
+dad en el espacio de la energía cinética traslacional de un gas 
+ideal (la energía por volumen) es 3P/2.
+ 11. Un cilindro contiene una mezcla de gases helio y argón en 
+equilibrio a 150°C. a) ¿Cuál es la energía cinética promedio 
+para cada tipo de molécula de gas? b) ¿Cuál es la rapidez 
+media cuadrática de cada tipo de molécula?
+4FDDJwO  .PEFMPNPMFDVMBSEFVOHBTJEFBM
+Nota: El problema 25 del capítulo 19 se puede asignar con esta 
+sección.
+ 1. Calcule la masa de un átomo de a) helio, b) hierro y c) plomo. 
+Proporcione sus respuestas en gramos. Las masas atómicas de 
+estos átomos son 4.00 u, 55.9 u y 207 u, respectivamente.
+ 2. 
+; La m  se usa para representar la masa de una muestra, m0 
+para representar la masa de una molécula, M para la masa 
+molar, n para el número de moles en una muestra, N para el 
+número de moléculas y NA para representar el número de Avo-
+gadro. Explique por qué cada una de las siguientes ecuaciones 
+es verdadera: 
+  N  nN
+A,  m  nM  Nm 0,  M  m 0NA,
+  ¿Las ecuaciones sólo son verdaderas para gases ideales? ¿Sólo 
+para gases? ¿Sólo para elementos químicos puros? ¿Sólo para 
+compuestos químicos puros? ¿Para mezclas?
+ 3. En un intervalo de 30.0 s, 500 granizos golpean una ventana de 
+vidrio de 0.600 m
+2 de área a un ángulo de 45.0° con la superfi-
+cie de la ventana. Cada granizo tiene una masa de 5.00 g y una 
+rapidez de 8.00 m/s. Si supone que las colisiones son elásticas, 
+encuentre la fuerza y presión promedio sobre la ventana.
+ 4. En un periodo de 1.00 s, 5.00  10
+23 moléculas de nitrógeno 
+golpean una pared con un área de 8.00 cm2. Suponga que las 
+moléculas se mueven con una rapidez de 300 m/s y golpean la 
+pared frontal en colisiones elásticas. ¿Cuál es la presión ejerci-
+
+Problemas 607
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+4FDDJwO  $BMPSFTQFDrGJDPNPMBSEFVOHBTJEFBM
+Nota: Puede usar los datos de la tabla 21.2 acerca de gases 
+particulares. Aquí se define un “gas monoatómico ideal” como 
+aquel que tiene calores específicos molares C
+V  3R/2 y CP  
+5R/2, y un “gas diatómico ideal” tiene CV  5R/2 y CP  7R/2.
+12. En un proceso a volumen constante se transfieren 209 J de 
+energía por calor a 1.00 mol de un gas monoatómico ideal 
+inicialmente a 300 K. Encuentre a) el aumento en energía 
+interna del gas, b) el trabajo consumido en él y c) su tempera-
+tura final.
+ 13. Una muestra de 1.00 mol de gas hidrógeno se calienta a pre-
+sión constante de 300 K a 420 K. Calcule a) la energía trans-
+ferida al gas por calor, b) el aumento en su energía interna y  
+c) el trabajo consumido en el gas.
+ 14. Una casa de paredes bien aisladas contiene un volumen de  
+100 m
+3 de aire a 300 K. a) Calcule la energía requerida para au-
+mentar la temperatura de este gas diatómico ideal en 1.00°C. 
+b) ¿Qué pasaría si? Si esta energía se pudiera usar para levan-
+tar un objeto de masa m a una altura de 2.00 m, ¿cuál es el 
+valor de m?
+ 15. Una botella aislada de 1 L está llena con té a 90°C. Vierte en 
+una taza y de inmediato cierra la botella. Haga una estimación 
+de un orden de magnitud del cambio en temperatura del té 
+que queda en la botella que resulta de la admisión de aire  
+a temperatura ambiente. Establezca las cantidades que toma 
+como datos y los valores que mide o estima para ellos.
+ 16.
+ Un cilindro vertical con un pesado pistón contiene aire a 300 K.  
+La presión inicial es 200 kPa y el volumen inicial es 0.350 m 3. 
+Considere que la masa molar del aire es de 28.9 g/mol y su-
+ponga que C
+V = 5R/2. a) Encuentre el calor específico del aire 
+a volumen constante en unidades de J/kg  °C. b) Calcule la 
+masa del aire en el cilindro. c) Suponga que el pistón se man-
+tiene fijo. Encuentre la entrada de energía que se requiere 
+para elevar la temperatura del aire a 700 K. d) ¿Qué pasaría si? 
+Suponga de nuevo las condiciones del estado inicial y que el 
+pesado pistón tiene libertad de movimiento. Encuentre la en-
+trada de energía requerida para elevar la temperatura a 700 K.
+ 17. Una muestra de 1.00 mol de gas diatómico ideal tiene presión 
+P y volumen V. Cuando el gas se calienta, su presión se triplica 
+y su volumen se duplica. Este proceso de calentamiento inclu-
+ye dos etapas, el primero a presión constante y el segundo a 
+volumen constante. Determine la cantidad de energía transfe-
+rida al gas por calor.
+4FDDJwO  1SPDFTPTBEJBCgUJDPTQBSBVOHBTJEFBM
+ 18. Durante la carrera de compresión de cierto motor de gasoli-
+na, la presión aumenta de 1.00 atm a 20.0 atm. Si el proceso 
+es adiabático y la mezcla combustible–aire se comporta como 
+un gas diatómico ideal, a) ¿en qué factor cambia el volumen 
+y b) en qué factor cambia la temperatura? c) Si supone que 
+la compresión comienza con 0.016 0 moles de gas a 27.0°C, 
+encuentre los valores de Q, W y $E
+int que caracterizan el pro-
+ceso.
+ 19. Una muestra de 2.00 moles de gas diatómico ideal se expan-
+den lenta y adiabáticamente desde una presión de 5.00 atm 
+y un volumen de 12.0 L hasta un volumen final de 30.0 L.  
+a) ¿Cuál es la presión final del gas? b) ¿Cuáles son las tempe-
+raturas inicial y final? c) Encuentre Q, W y $E
+int.
+ 20. Considere aire (un gas ideal diatómico) a 27.0°C y presión 
+atmosférica que entra a una bomba de bicicleta que tiene  
+un cilindro con diámetro interno de 2.50 cm y 50.0 cm de
+  
+longitud. La carrera hacia abajo comprime adiabáticamente el 
+aire, que alcanza una presión manométrica de 800 kPa antes 
+de entrar a la llanta (figura P21.20). Determine a) el volumen 
+del aire comprimido y b) la temperatura del aire comprimido. 
+c) ¿Qué pasaría si? La bomba está fabricada de acero y tiene 
+una pared interior de 2.00 mm de grueso. Suponga que a  
+4.00 cm de la longitud del cilindro se le permite llegar a equi-
+librio térmico con el aire. ¿Cuál será el aumento en la tempe-
+ratura de la pared?
+Figura P21.20
+ 21. El aire en una nube de tormenta se expande a medida que se 
+eleva. Si su temperatura inicial es 300 K y no se pierde energía 
+por conducción térmica en la expansión, ¿cuál es su tempera-
+tura cuando el volumen inicial se duplica?
+ 22. Durante la carrera de trabajo en un motor de cuatro tiempos, 
+el pistón se forza hacia abajo a medida que la mezcla de pro-
+ductos de combustión y aire se somete a una expansión adia-
+bática. Suponga 1) que el motor gira a 2 500 ciclos/min; 2) la 
+presión manométrica justo antes de la expansión es 20.0 atm; 
+3) los volúmenes de la mezcla justo antes y después de la ex-
+pansión son 50.0 y 400 cm
+3, respectivamente (figura P21.22); 
+4) el intervalo de tiempo para la expansión es un cuarto del 
+ciclo total; y 5) la mezcla se comporta como un gas ideal con 
+relación de calor específico de 1.40. Encuentre la potencia 
+promedio generada durante la carrera de expansión.
+Figura P21.22
+400 cm3
+Después
+50.0 cm3
+Antes
+George Semple
+
+608 Capítulo 21  Teoría cinética de los gases
+ 23. Una muestra de 4.00 L de gas ideal diatómico, confinado en 
+un cilindro, tiene una relación de calor específico de 1.40 y 
+se lleva a través de un ciclo cerrado. Al inicio el gas está a   
+1.00 atm y a 300 K. Primero su presión se triplica bajo volumen 
+constante. Luego se expande adiabáticamente a su presión
+ 
+original. Por último, el gas se comprime isobáricamente a su 
+volumen original. a) Dibuje un diagrama PV de este ciclo.  
+b) Determine el volumen del gas al final de la expansión adia-
+bática. c) Encuentre la temperatura del gas al comienzo de la 
+expansión adiabática. d) Encuentre la temperatura al final del 
+ciclo. e) ¿Cuál fue el trabajo neto consumido en el gas para 
+este ciclo?
+ 24. Un gas ideal diatómico ( H  1.40), confinado a un cilindro, 
+se lleva a través de un ciclo cerrado. Al inicio está a P
+i, Vi y Ti. 
+Primero, su presión se triplica bajo volumen constante. Luego 
+se expande adiabáticamente a su presión original y al final se 
+comprime isobáricamente a su volumen original. a) Dibuje un 
+diagrama PV de este ciclo. b) Determine el volumen al final de 
+la expansión adiabática. Encuentre c) la temperatura del gas 
+al inicio de la expansión adiabática y d) la temperatura al final 
+del ciclo. e) ¿Cuál fue el trabajo neto consumido en el gas para 
+este ciclo?
+ 25. ¿Cuánto trabajo se requiere para comprimir 5.00 moles de 
+aire a 20.0°C y 1.00 atm a un décimo del volumen original  
+a) mediante un proceso isotérmico? b) ¿Qué pasaría si? ¿Cuán-
+to trabajo se requiere para producir la misma compresión en 
+un proceso adiabático? c) ¿Cuál es la presión final en cada uno 
+de estos dos casos?
+4FDDJwO  &RVJQBSUJDJwOEFMBFOFSHrB
+ 26. Cierta molécula tiene f grados de libertad. Demuestre que un 
+gas ideal que consiste de tales moléculas tiene las siguientes 
+propiedades: 1) su energía interna total es fnRT/2, 2) su calor 
+específico molar a volumen constante es fR/2, 3) su calor espe-
+cífico molar a presión constante es (f  2)R/2, y 4) su relación 
+de calor específico es H  C
+P/CV  (f  2)/f.
+ 27. Considere 2.00 moles de un gas ideal diatómico. a) Encuen-
+tre la capacidad térmica total como la define la ecuación 20.2 
+a volumen constante y la capacidad térmica total a presión 
+constante, si supone que las moléculas giran pero no vibran.  
+b) ¿Qué pasaría si? Repita el inciso a), si supone que las molécu- 
+las giran y vibran.
+ 28. En un modelo imperfecto (figura P21.28) de una molécula 
+diatómica de cloro (Cl
+2) en rotación, los dos átomos de Cl 
+están separados 2.00  10 10 m y giran en torno a su centro 
+de masa con rapidez angular W  2.00  1012 rad/s. ¿Cuál es la 
+energía cinética rotacional de una molécula de Cl2, que tiene 
+una masa molar de 70.0 g/mol?
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+Figura P21.28
+Cl
+Cl
+ 29. ; Examine la información para gases poliatómicos en la tabla 
+21.2 y dé una explicación por la que el dióxido de azufre tiene 
+un mayor calor específico a volumen constante que los otros 
+gases poliatómicos a 300 K.
+ 30. 
+; Una molécula triatómica puede tener los tres átomos a lo 
+largo de una línea, como el CO2, o puede ser no lineal, como 
+H2O. Suponga que la temperatura de un gas de moléculas 
+triatómicas es suficientemente baja como para que el movi-
+miento vibratorio sea despreciable. ¿Cuál es la capacidad tér-
+mica molar a volumen constante, expresada como múltiplo 
+de la constante universal de los gases, a) si las moléculas son 
+lineales y b) si las moléculas no son lineales? En altas tempera-
+turas, una molécula triatómica tiene dos modos de vibración, 
+y cada uno aporta 
+1
+2R a la capacidad térmica molar para su 
+energía cinética y otro 1
+2R para su energía potencial. Identifi-
+que la capacidad térmica molar de alta temperatura a volumen 
+constante para un gas ideal triatómico de c) moléculas lineales 
+y d) moléculas no lineales. e) Explique cómo se pueden usar 
+los datos de calor específico para determinar si una molécula 
+triatómica es lineal o no lineal. ¿Los datos en la tabla 21.2 son 
+suficientes para hacer esta determinación?
+4FDDJwO  %JTUSJCVDJwOEFNBHOJUVEFTEFWFMPDJEBE
+NPMFDVMBSFT
+ 31. Quince partículas idénticas tienen diferentes magnitudes de 
+velocidad: una tiene una magnitud de velocidad de 2.00 m/s, 
+dos tienen magnitudes de velocidad de 3.00 m/s, tres tienen 
+magnitudes de velocidad de 5.00 m/s, cuatro tienen magni-
+tudes de velocidad de 7.00 m/s, tres tienen magnitudes de 
+velocidad de 9.00 m/s y dos tienen magnitudes de velocidad 
+de 12.0 m/s. Encuentre a) la rapidez promedio, b) la rapidez 
+rms y c) la rapidez más probable de estas partículas.
+ 32. Un metro cúbico de hidrógeno atómico a 0°C a presión at-
+mosférica contiene aproximadamente 2.70  10
+25 átomos. 
+El primer estado excitado del átomo de hidrógeno tiene una 
+energía de 10.2 eV sobre el nivel energético más bajo, llamado 
+estado fundamental. Use el factor de Boltzmann para encon-
+trar el número de átomos en el primer estado excitado a 0°C 
+y a 10 000°C.
+ 33. A partir de la distribución de rapidez de Maxwell–Boltzmann, 
+demuestre que la rapidez más probable de una molécula de 
+gas se conoce por la ecuación 21.27. Note que la rapidez más 
+probable corresponde al punto en donde la pendiente de la 
+curva de distribución de rapidez, 
+dNv/dv, es cero.
+ 34. En una mezcla dos gases se difunden a través de un filtro en 
+cantidades proporcionales a las magnitudes de velocidad rms 
+de los gases. a) Encuentre la proporción de magnitudes de 
+velocidad para los dos isótopos de cloro, 
+35Cl y 37Cl, mientras 
+se difunden a través del aire. b) ¿Cuál isótopo se mueve más 
+rápido?
+ 35. Problema de repaso. ¿A qué temperatura la rapidez promedio 
+de los átomos de helio sería igual a a) la rapidez de escape de 
+la Tierra, 1.12 
+ 104 m/s y b) la rapidez de escape de la Luna, 
+2.37  103 m/s? (Consulte el capítulo 13 para una explicación 
+de la rapidez de escape.) Nota: La masa de un átomo de helio 
+es 6.64  10
+27 kg.
+ 36. ; Calcule a) la rapidez más probable, b) la rapidez promedio 
+y c) la rapidez rms para moléculas de gas nitrógeno a 900 K. 
+d) Establezca cómo se comparan sus resultados con los valores 
+que se muestran en la figura 21.11.
+ 37. Suponga que la atmósfera de la Tierra tiene una temperatu-
+ra uniforme de 20°C y composición uniforme, con una masa 
+molar efectiva de 28.9 g/mol. a) Demuestre que la densidad 
+en el número de las moléculas depende de la altura y sobre el 
+nivel del mar de acuerdo con
+  
+nV 1y2 n0e m0gy>kBT
+
+Problemas 609
+v, tres tienen 2v, cinco tienen 3v, cuatro tienen 4v, tres tienen 
+5v, dos tienen 6v y una tiene 7v. Encuentre a) la rapidez pro-
+medio, b) la rapidez rms, c) la rapidez más probable, d) la 
+presión que ejercen sobre las paredes del recipiente y e)  
+la energía cinética promedio por cada partícula.
+ 43. 
+; Un cilindro que contiene n moles de un gas ideal se somete 
+a un proceso adiabático. a) Si comienza con la expresión W  
+f P dV y aplica la condición PV H  constante, demuestre que 
+el trabajo consumido en el gas es
+  W a 1
+g 1 b 1PfVf PiVi 2
+  b) Si comienza con la primera ley de la termodinámica en 
+forma diferencial, demuestre que el trabajo consumido en el 
+gas es igual a nC
+V(Tf  Ti). Explique si estos dos resultados son 
+consistentes uno con otro.
+ 44. A medida que una muestra de 1.00 mol de un gas ideal mono-
+atómico se expande adiabáticamente, el trabajo consumido en 
+él es 2 500 J. La temperatura y presión iniciales del gas son 
+500 K y 3.60 atm. Calcule a) la temperatura final y b) la presión 
+final. Puede usar el resultado del problema 43.
+ 45.
+ Un cilindro se cierra en ambos extremos y tiene paredes aislan-
+tes. Se divide en dos compartimientos mediante un separador 
+adiabático que es perpendicular al eje del cilindro. Cada com-
+partimiento contiene 1.00 mol de oxígeno que se comporta 
+como un gas ideal con 
+g 7
+5. Al inicio los dos compartimien-
+tos tienen iguales volúmenes y sus temperaturas son 550 K 
+y 250 K. A continuación se le permite al separador moverse 
+lentamente hasta que las presiones sobre sus dos lados son 
+iguales. Encuentre las temperaturas finales en los dos compar-
+timientos. Puede usar el resultado del problema 43.
+ 46. Un rifle de aire dispara un balín de plomo al permitir la expan-
+sión de aire a alta presión, lo que impulsa al balín por el cañón 
+del rifle. Ya que este proceso sucede muy rápidamente, no se 
+presenta conducción térmica apreciable y la expansión en esen
+-
+cia es adiabática. Suponga que el rifle comienza con 12.0 cm3 
+de aire comprimido, que se comporta como un gas ideal con 
+H  1.40. La expansión del aire empuja un balín de 1.10 g 
+como un pistón con área de sección transversal de 0.030 0 cm
+2 
+a lo largo del cañón del arma, de 50.0 cm de largo. El balín sale 
+con una rapidez de boquilla de 120 m/s. Use el resultado del 
+problema 43 para encontrar la presión inicial requerida.
+ 47. Problema de repaso. El oxígeno a presiones mucho mayores 
+que 1 atm es tóxico para las células pulmonares. Suponga que 
+un buzo de profundidad respira una mezcla de oxígeno (O
+2) 
+y helio (He). En peso, ¿qué relación de helio a oxígeno debe 
+usar si el buzo está a una profundidad oceánica de 50.0 m?
+ 48. Un recipiente contiene 1.00  10
+4 moléculas de oxígeno a 500 
+K. a) Elabore una gráfica precisa de la función de distribución 
+de rapidez de Maxwell en función de la rapidez con puntos 
+a intervalo de rapidez de 100 m/s. b) Determine la rapidez 
+más probable a partir de esta gráfica. c) Calcule las rapide-
+ces promedio y rms para las moléculas y etiquete estos puntos 
+sobre su gráfica. d) A partir de la gráfica, estime la fracción de 
+moléculas con magnitudes de velocidad en el intervalo de 300 
+m/s a 600 m/s.
+ 49. La compresibilidad L de una sustancia se define como el cam-
+bio fraccionario en volumen de dicha sustancia para un cambio 
+conocido en presión:
+  
+k 1
+V
+dV
+dP
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+  donde n0 es la densidad de número a nivel del mar ( y  0). 
+Este resultado se llama ley de atmósferas. b) Por lo general los 
+aviones comerciales cruzan a una altitud de 11.0 km. Encuen-
+tre la relación de la densidad atmosférica en relación con la 
+densidad al nivel del mar.
+ 38. Si no puede caminar al espacio exterior, ¿al menos puede caminar a la 
+mitad del camino? Use la ley de atmósferas del problema 37. La 
+altura promedio de una molécula en la atmósfera de la Tierra 
+se conoce por
+  
+y
+0
+ynV 1y2 dy
+0
+nV 1y2 dy
+0
+ye m0gy>kBT dy
+0
+e m0gy>kBT dy
+  a) Pruebe que esta altura promedio es igual a kBT/m0g.  
+b) Evalúe la altura promedio, si supone que la temperatura es 
+de 10°C y la masa molecular es 28.9 u, uniformes en todas las 
+partes de la atmósfera.
+1SPCMFNBTBEJDJPOBMFT
+ 39. La función E
+int  3.50nRT describe la energía interna de cierto 
+gas ideal. Una muestra de gas de 2.00 moles siempre comienza 
+a 100 kPa de presión y 300 K de temperatura. Para cada uno de 
+los siguientes procesos determine la presión, volumen y tempe-
+ratura finales; el cambio en energía interna del gas; la energía 
+agregada al gas por calor;  y el trabajo consumido en el gas. 
+a) El gas se calienta a presión constante a 400 K. b) El gas se  
+calienta a volumen constante a 400 K. c) El gas se comprime a 
+temperatura constante a 120 kPa. d) El gas se comprime adia-
+báticamente a 120 kPa.
+ 40. 
+; Las dimensiones de un salón de clase son 4.20 m  3.00 m 
+ 2.50 m. a) Encuentre el número de moléculas de aire en él 
+a presión atmosférica y 20.0°C. b) Halle la masa de este aire, 
+si supone que el aire consiste en moléculas diatómicas con 
+masa molar de 28.9 g/mol. c) Encuentre la energía cinética 
+promedio de una molécula. d) Halle la rapidez media cuadrá-
+tica molecular. e) Con la suposición de que el calor específico  
+molar es una constante independiente de la temperatura, 
+E
+int  5nRT/2. Encuentre la energía interna en el aire. f) ¿Qué 
+pasaría si? Halle la energía interna del aire en la habitación a 
+25.0°C. Explique de qué modo es comparable con el resultado 
+a 20.0°C y cómo sucede de esa forma.
+ 41. 
+; En una muestra de un metal sólido, cada átomo tiene li-
+bertad de vibrar en torno a alguna posición de equilibrio. La 
+energía del átomo consiste de energía cinética para movimien-
+to en las direcciones x, y y z, más energía potencial elástica 
+asociada con las fuerzas de la ley de Hooke ejercidas por los 
+átomos vecinos sobre él en las direcciones x, y y z. De acuerdo 
+con el teorema de equipartición de la energía, suponga que 
+la energía promedio de cada átomo es 
+1
+2kBT para cada grado 
+de libertad. a) Pruebe que el calor específico molar del sólido 
+es 3R. La ley Dulong–Petit establece que este resultado describe 
+sólidos puros a temperaturas suficientemente elevadas. (Puede 
+ignorar la diferencia entre el calor específico a presión cons-
+tante y el calor específico a volumen constante.) b) Evalúe el 
+calor específico c del hierro. Explique cómo se compara con  
+el valor que se menciona en la tabla 20.1. c) Repita la evalua-
+ción y comparación para el oro.
+ 42. Veinte partículas, cada una con masa m
+0 y confinada a un vo-
+lumen V, tiene diferentes magnitudes de velocidad: dos tienen
+
+610 Capítulo 21  Teoría cinética de los gases
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ 53. Modele el aire como un gas ideal diatómico con M  28.9 
+g/mol. Un cilindro con un pistón contiene 1.20 kg de aire a 
+25.0°C y 200 kPa. La energía se transfiere por calor al sistema 
+mientras se le permite expandirse, con la presión elevándose a 
+400 kPa. A lo largo de la expansión, la correspondencia entre 
+presión y volumen se conoce por
+  P
+  CV 1/2
+  donde C es una constante. a) Encuentre el volumen inicial.  
+b) Halle el volumen final. c) Encuentre la temperatura final. 
+d) Halle el trabajo consumido en el aire. e) Encuentre la ener-
+gía transferida por calor.
+ 54. ¡Humeante! Un pitcher lanza una pelota de beisbol de 0.142 kg 
+a 47.2 m/s. Mientras viaja 19.4 m al plato de home, la pelota se 
+frena hasta 42.5 m/s debido a la resistencia del aire. Encuentre 
+el cambio en temperatura del aire a consecuencia de lo que 
+pasa. Para encontrar el mayor cambio de temperatura posible, 
+puede hacer las siguientes suposiciones. El aire tiene un calor 
+específico molar de 
+CP  7R/2 y una masa molar equivalente 
+de 28.9 g/mol. El proceso es tan rápido que la cubierta de 
+la pelota actúa como aislador térmico y la temperatura de la 
+pelota no cambia. Al inicio sucede un cambio en temperatura 
+sólo para el aire en un cilindro de 19.4 m de largo y 3.70 cm 
+de radio. Este aire inicialmente está a 20.0°C.
+ 55. Use una computadora o calculadora programable para encon-
+trar el valor numérico, para un gas maxwelliano, de la relación 
+N
+v(v)/Nv(vmp) para los siguientes valores de v : v  (vmp/50), 
+(vmp/10), (v mp/2), vmp, 2vmp, 10vmp, 50vmp. Proporcione sus 
+resultados a tres cifras significativas.
+ 56. Considere las partículas en una centrifugadora de gas, dispo-
+sitivo utilizado para separar partículas de diferente masa al ha-
+cerlas girar en una trayectoria circular de radio r con rapidez 
+angular W. La fuerza centrípeta que actúa sobre una partícula 
+es m
+0W2r. a) Explique cómo se puede usar una centrifugadora 
+de gas para separar partículas de diferente masa. b) Demuestre 
+que la densidad de las partículas como función de r es
+  
+n 1r2 n0em0r2v2>2kBT
+ 57. Verifique las ecuaciones 21.25 y 21.26 para las rapideces rms y 
+promedio de las moléculas de un gas a una temperatura T. El 
+valor promedio de vn es
+  vn 1
+N 
+0
+ vnNv dv
+  Use la tabla de integrales B.6 en el apéndice B.
+ 58. En el diagrama PV para un gas ideal hay una curva isotérmica y 
+una cur
+va adiabática que pasan a través de cada punto. Pruebe 
+que la pendiente de la curva adiabática es más inclinada que 
+la pendiente de la isoterma por el factor H.
+ 59. 
+; Una muestra de gas ideal monoatómico ocupa 5.00 L a pre-
+sión atmosférica y 300 K (punto A en la figura P21.59). Se 
+calienta a volumen constante a 3.00 atm (punto B). Luego 
+se le permite expandirse isotérmicamente a 1.00 atm (punto 
+C) y al final se comprime isobáricamente a su estado original. 
+a) Encuentre el número de moles en la muestra. b) Halle la 
+temperatura en los puntos B y C y el volumen en el punto C. 
+c) Suponga que el calor específico molar no depende de la 
+temperatura, de modo que E
+int  3nRT/2. Encuentre la ener-
+gía interna en los puntos A, B y C. d) Tabule P, V, T y E en los 
+estados de los puntos A, B y C. e) Ahora considere lo procesos 
+A 3 B, B 3 C y C 3 A. Describa cómo llevar a cabo cada pro-
+  a) Explique por qué el signo negativo en esta expresión ase -
+gura que L  siempre es positiva. b) Demuestre que, si un gas 
+ideal se comprime isotérmicamente, su compresibilidad se co-
+noce por L
+1  1/P. c) ¿Qué pasaría si? Demuestre que si un 
+gas ideal se comprime adiabáticamente, su compresibilidad se 
+conoce por L
+2  1/HP. d) Determine valores para L1 y L2 para 
+un gas ideal monoatómico a una presión de 2.00 atm.
+ 50. ; Problema de repaso. a) Demuestre que la rapidez del sonido 
+en un gas ideal es
+  v gRT
+M
+  donde M es la masa molar. Use la expresión general para la ra-
+pidez del sonido en un fluido de la sección 17.1; la definición 
+del módulo volumétrico de la sección 12.4 y el resultado del 
+problema 49 anterior. A medida que una onda sonora pasa a 
+través de un gas, las compresiones son tan rápidas o tan sepa-
+radas que la conducción térmica se evita por un intervalo de 
+tiempo despreciable o por un grosor de aislamiento efectivo. 
+Las compresiones y enrarecimiento son adiabáticas. b) Calcu-
+le la rapidez teórica del sonido en el aire a 20°C y establezca 
+cómo se compara con el valor en la tabla 17.1. Considere M  
+28.9 g/mol. c) Demuestre que la rapidez del sonido en un gas  
+ideal es
+  
+v gkBT
+m0
+  donde m0 es la masa de una molécula. Establezca la compa-
+ración con las magnitudes de velocidad más probables, pro-
+medio y rms molecular.
+ 51. 
+; El calor latente de vaporización para el agua a temperatura 
+ambiente es 2 430 J/g. Considere una molécula particular en 
+la superficie de un vaso con agua líquida, móvil hacia arriba 
+con rapidez suficiente que será la siguiente molécula en unirse 
+al vapor. a) Encuentre su energía cinética traslacional. b) Halle 
+su rapidez. c) Ahora considere un gas no denso hecho justo de 
+moléculas como ésta. ¿Cuál es su temperatura? ¿Por qué no se 
+quema por el agua en evaporación?
+ 52. 
+; Movimiento browniano. El movimiento molecular es invisible 
+por sí mismo. Cuando una partícula pequeña se suspende en 
+un fluido, el bombardeo por moléculas hace que la partícula 
+tiemble en rededor al azar. Robert Brown descubrió este movi-
+miento en 1827, mientras estudiaba la fertilización de plantas. 
+Albert Einstein lo analizó en 1905 y Jean Perrin lo usó para 
+una primera medición del número de Avogadro. La energía 
+cinética promedio de la partícula visible se puede considerar 
+como 
+3
+2kBT , la misma que la de una molécula en un gas ideal. 
+Considere una partícula esférica de 1 000 kg/m3 de densidad 
+en agua a 20°C. a) Para una partícula de diámetro d, evalúe la 
+rapidez rms. b) El movimiento real de la partícula es aleatorio, 
+pero imagine que se mueve con velocidad constante igual en 
+magnitud a su rapidez rms. ¿En qué intervalo de tiempo se 
+movería una distancia igual a su propio diámetro? c) Evalúe 
+la rapidez rms y el intervalo de tiempo para una partícula de 
+3.00 Nm de diámetro. d) Evalúe la rapidez rms y el intervalo  
+de tiempo para una esfera de 70.0 kg de masa, con la que 
+modele su propio cuerpo. e) Encuentre el diámetro de una 
+partícula cuya rapidez rms sea igual a su propio diámetro di-
+vidido entre 1 s. f) Explique si sus resultados sugieren que 
+hay un tamaño de partícula óptimo para la observación del 
+movimiento browniano.
+
+2  intermedio; 3  desafiante;  razonamiento simbólico;   razonamiento cualitativo
+ceso de manera experimental. f) Encuentre Q, W y $Eint para  
+cada uno de los procesos. g) Para todo el ciclo A 3 B 3 C 3 A, 
+encuentre Q, W y $Eint.
+ 60. Este problema puede ayudarle a pensar acerca del tamaño de 
+las moléculas. En Beijing, un restaurante mantiene un caldero 
+de caldo de pollo hir viendo a fuego lento. Cada mañana se
+ 
+llena con 10.0 L de agua, junto con un pollo fresco, vegetales 
+y especias. La sopa se agita por completo. La masa molar del 
+agua es 18.0 g/mol. a) Encuentre el número de moléculas de 
+agua en el caldero. b) Durante cierto mes, 90.0% del caldo se 
+sirvió cada día a personas que luego emigraron inmediatamen-
+te. De las moléculas de agua en el caldero puestas el primer día 
+del mes, ¿cuándo se sirvió la última? c) El caldo se ha hervido 
+a fuego lento durante siglos, a través de guerras, terremotos y 
+reparaciones de estufa. Suponga que el agua que estuvo en el 
+caldero hace mucho se mezcló en la hidrosfera de la Tierra, 
+de 1.32  10
+21 kg de masa. ¿Cuántas de las moléculas del agua 
+original, es probable que estén presentes en él de nuevo en la 
+actualidad?
+ 61. Problema de repaso. a) Si tiene suficiente energía cinética, es 
+posible que una molécula en la superficie de la Tierra “esca-
+pe a la gravitación de la Tierra”, en el sentido de que puede 
+continuar alejándose de la Tierra para siempre, como se expli-
+có en la sección 13.6. Con el principio de conservación de la 
+energía, demuestre que la mínima energía cinética necesaria 
+para “escapar” es m
+0gRE, donde m0 es la masa de la molécula, g 
+es la aceleración de caída libre en la superficie y RE es el radio 
+de la Tierra. b) Calcule la temperatura para la cual la mínima 
+energía cinética de escape es diez veces la energía cinética 
+promedio de una molécula de oxígeno.
+ 62. Con múltiples rayos láser, los físicos han podido enfriar y atra-
+par átomos de sodio en una región pequeña. En un experi-
+mento, la temperatura de los átomos se redujo a 0.240 mK. 
+a) Determine la rapidez rms de los átomos de sodio a esta 
+temperatura. Los átomos se pueden capturar durante aproxi-
+madamente 1.00 s. La trampa tiene una dimensión lineal de 
+más o menos 1.00 cm. b) ¿Durante qué intervalo de tiempo 
+aproximado un átomo vagaría afuera de la región de la trampa 
+si no hubiera acción de captura?
+Figura P21.59
+P (atm)
+3
+0 51 0 V (L)
+B
+AC
+2
+1
+15
+21.1 i) , b). La energía cinética traslacional promedio por cada 
+molécula es una función de la temperatura. ii), a). Cada que 
+hay el doble de moléculas y la temperatura de ambos conte-
+nedores es la misma, la energía total en B es el doble que la 
+de A.
+21.2 i), a). De acuerdo con la ecuación 21.10, E
+int es una función 
+sólo de la temperatura. Porque la temperatura aumenta, la 
+energía interna aumenta. ii), c). A lo largo de una isoterma, 
+T es constante por definición. Por lo tanto, la energía interna 
+del gas no cambia.
+21.3 d). El valor de 29.1 J/mol  K es 7 R/2. De acuerdo con la 
+figura 21.7, este resultado sugiere que ocurren los tres tipos 
+de movimiento.
+21.4 c). El valor más alto posible de C
+V para un gas diatómico es 
+7R/2, de modo que el gas debe ser poliatómico.
+Respuestas a las preguntas rápidas
+ Respuestas a las preguntas rápidas 611
+
+La primera ley de la termodinámica, que se estudió en el capítulo 20, es un enunciado de 
+la conservación de energía. Esta ley afirma que un cambio en energía interna en un sistema 
+puede presentar como un resultado de transferencia de energía por calor, por trabajo o por 
+ambos. Aunque la primera ley de la termodinámica es muy importante, no hace distinción 
+entre los procesos que se presentan espontáneamente y aquellos que no lo hacen así. Sin 
+embargo, en la naturaleza sólo tienen lugar ciertos tipos de procesos de conversión de ener-
+gía y de transferencia de energía. La segunda ley de la termodinámica, el tema principal de este 
+capítulo, establece cuáles procesos se presentan y cuáles no. Los siguientes son ejemplos de 
+procesos que no violan la primera ley de la termodinámica si ellos siguen su curso en cual-
+quier dirección, aunque en realidad se observa que siguen su curso sólo en una dirección:
+  Cuando dos objetos a diferentes temperaturas se colocan en contacto térmico, la 
+transferencia de energía neta por calor siempre es del objeto más caliente al objeto 
+más frío, nunca del más frío al más caliente.
+  Una bola de caucho que se deja caer al suelo rebota varias veces y con el tiempo llega 
+al reposo, pero una bola que se encuentra en el suelo nunca reúne energía interna 
+del suelo y comienza a rebotar por cuenta propia.
+  Un péndulo en oscilación al final llega al reposo debido a que colisiona contra las 
+moléculas del aire y a la fricción en el punto de suspensión. La energía mecánica 
+del sistema se convierte en energía interna en el aire, el péndulo y la suspensión; la 
+conversión contraria de energía nunca se presenta.
+22.1  Máquinas térmicas  
+y segunda ley de  
+la termodinámica
+22.2  Bombas de calor  
+y refrigeradores
+22.3  Procesos reversibles  
+e irreversibles
+22.4  La máquina de Carnot
+22.5  Motores de gasolina  
+y diesel
+22.6  Entropía
+22.7  Cambios de entropía 
+en procesos 
+irreversibles
+22.8  Entropía de escala 
+microscópica
+612
+22
+Máquinas térmicas, entropía y 
+segunda ley de la termodinámica
+LORD KELVIN
+Físico y matemático británico  
+(1824–1907)
+William Thomson nació en Belfast, 
+conocido como Kelvin fue el primero en 
+proponer el uso de una escala absoluta 
+de temperatura. La escala de temperatura 
+Kelvin se nombró así en su honor. El tra-
+bajo de Kelvin en termodinámica condujo 
+a la idea de que la energía no puede pasar 
+espontáneamente de un objeto más frío a 
+un objeto más caliente.
+Esta representación artística por computadora muestra el interior del 
+cilindro de un motor de automóvil en el momento en que la bujía (arriba 
+a la izquierda) se enciende e inflama la mezcla de aire–combustible. 
+Los gases que se expanden empujan hacia abajo sobre el pistón (abajo 
+a la derecha), lo que a final de cuentas resulta en la energía que se les 
+proporciona a las ruedas de transmisión del automóvil. El motor de un 
+automóvil es un ejemplo de máquina térmica, que se estudiará en este 
+capítulo. (Roger Harris/Science Photo Library)
+
+Todos estos procesos son irreversibles: es decir, son procesos que se presentan de manera 
+natural en una sola dirección. No se ha observado jamás que algún proceso irreversible 
+gire de regreso. Si lo hiciera, violaría la segunda ley de la termodinámica.1
+22.1  Máquinas térmicas y segunda ley  
+de la termodinámica
+Una máquina térmica es un dispositivo que toma energía por calor2 y, al funcionar en un 
+proceso cíclico, expulsa una fracción de dicha energía mediante trabajo. Por ejemplo, en 
+un proceso representativo por el que una planta de energía produce electricidad, un com-
+bustible, como carbón, se quema y los gases de alta temperatura producidos se usan para 
+convertir agua líquida en vapor. Este vapor se dirige a las aspas de una turbina y las pone a 
+girar. La energía mecánica asociada con esta rotación se usa para impulsar un generador 
+eléctrico. Otro dispositivo que se modela como máquina térmica es el motor de combus-
+tión interna de un automóvil. Este dispositivo usa energía de la quema de un combustible 
+para realizar trabajo sobre pistones, lo que resulta en el movimiento del automóvil.
+Una máquina térmica lleva alguna sustancia de trabajo a través de un proceso cíclico 
+durante el que 1) la sustancia de trabajo absorbe energía por calor de un depósito de 
+energía a alta temperatura, 2) la máquina consume trabajo y 3) se expulsa energía por 
+calor a un depósito a temperatura más baja. Como ejemplo, considere la operación de 
+una máquina de vapor (figura 22.1), que usa agua como la sustancia de trabajo. El agua 
+en una caldera absorbe energía de la quema de combustible y la convierte en vapor, que 
+luego realiza trabajo al expandirse contra un pistón. Después de que el vapor se enfría y 
+condensa, el agua líquida producida regresa a la caldera y el ciclo se repite.
+Es útil representar de manera esquemática una máquina térmica, como en la figura 
+22.2. La máquina absorbe una cantidad de energía   Q 
+h   del depósito caliente. Para la 
+explicación matemática de las máquinas térmicas, se usan valores absolutos para hacer 
+positivas todas las transferencias de energía y la dirección de transferencia se indica con 
+un signo explícito, positivo o negativo. La máquina realiza trabajo W
+máq (de modo que el 
+trabajo negativo W  Wmáq se consume en la máquina) y después entrega una cantidad 
+de energía   Q c   al depósito frío. Ya que la sustancia de trabajo pasa a través de un ciclo, sus 
+energías internas inicial y final son iguales: $Eint  0. Por lo tanto, a partir de la primera 
+ley de la termodinámica, $Eint  Q  W  Q  Wmáq  0, y el trabajo neto Wmáq realizado 
+PREVENCIÓN DE RIESGOS  
+OCULTOS
+ 22.1
+Primera y segunda leyes
+Note la distinción entre la 
+primera y segunda leyes de  
+la termodinámica. Si un gas 
+se somete a un proceso isotérmico 
+en alguna dirección, en tal caso 
+$E
+int  Q  W  0 y W  Q. 
+Debido a eso, la primera ley 
+permite que toda la entrada de 
+energía por calor se expulse 
+mediante trabajo. Sin embargo, 
+en una máquina térmica, en 
+la que una sustancia se somete 
+a un proceso cíclico, sólo una 
+porción de la entrada de energía 
+por calor se expulsa mediante 
+trabajo, de acuerdo con la 
+segunda ley.
+ Sección 22.1  Máquinas térmicas y segunda ley de la termodinámica
+ 613
+Figura 22.1 Esta locomotora 
+impulsada por vapor corre de 
+Durango a Silverton, Colorado. 
+Obtiene su energía mediante la 
+quema de madera o carbón. La 
+energía generada vaporiza agua, 
+que impulsa la locomotora. (Esta 
+locomotora debe tomar agua de 
+tanques ubicados a lo largo de la 
+ruta para sustituir la pérdida de 
+vapor a través de la chimenea.) 
+Las locomotoras modernas usan 
+combustible diesel en lugar de 
+madera o carbón. Ya sean antiguas 
+o modernas, tales locomotoras 
+se modelan como máquinas 
+térmicas, que extraen energía 
+de la quema de un combustible 
+y convierten una fracción del 
+mismo en energía mecánica.
+Figura 22.2 Representación esquemática de una máquina 
+térmica. La máquina realiza trabajo W
+máq. La flecha en la parte 
+superior representa energía Qh  0 que entra a la máquina. En el 
+fondo, Q c  0 representa la energía que sale de la máquina.
+1 Aunque un proceso que ocurre en el sentido inverso del tiempo nunca se ha observado, es posible que 
+ocurra. Sin embargo, como se verá más adelante en este capítulo, la probabilidad de que ocurra tal proce- 
+so es infinitesimalmente pequeña. Desde este punto de vista, los procesos ocurren con una probabilidad 
+muy grande en una dirección que en la dirección opuesta.
+2 Se usa calor como modelo para transferencia de energía a una máquina térmica. Sin embargo, en el 
+modelo de máquina térmica son posibles otros métodos de transferencia de energía. Por ejemplo, la 
+atmósfera de la Tierra se puede modelar como una máquina térmica con transferencia de entrada de 
+energía mediante radiación electromagnética del Sol. La salida de la máquina térmica atmosférica causa 
+la consistencia de los vientos en la atmósfera.
+Depósito caliente aTh
+Q h
+Q c
+Wmáq
+Depósito frío a Tc
+Máquina
+
+614

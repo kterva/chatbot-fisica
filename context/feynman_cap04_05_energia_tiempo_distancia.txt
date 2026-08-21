@@ -1,0 +1,1039 @@
+Tema: Conservación de la energía; Tiempo y distancia (Capítulos 4-5 — Lecciones de Física, Feynman, Vol. I)
+
+4-1 ;.Que es la energia? 4-3 Energia cinE:tica 
+4-2 Energia potencial gravitacional 4-4 Otras formas de energia 
+4·1 ;.Que es la energia.? 
+Habiendo terminado ya nuestra descripci6n general empezamos en este capitulo 
+un estudio mas detallado de las diferentes aspectos de la fisica. Para ilustrar las 
+ideas y la clase de razonamiento que se puede usar en fisica te6rica, examinaremos 
+una de las !eyes mas basicas de la fisica: la conservaci6n de la energia. 
+Hay un hecho, o si prefiere, una ley, que gobierna todos los fen6menos naturales 
+conocidos hasta la fecha. No se conoce excepciOn a esta ley -es exacta hasta donde 
+sabemos-. La !ey se llama la conservaciOn de la energia. Establece que hay cierta 
+cantidad que llamamos energia, que no cambia en los mUltiples cambios que ocurre 
+en la naturaleza. Esta es una idea muy abstracta, porque es un principio matemt'ttico; 
+significa que hay una cantidad numerica que no cambia cuando alga ocurre. No es 
+la descripci6n de un mecanismo, o de algo concreto; ciertamente es un hecho raro 
+que podamos calcular cierto niimero y que cuando terminemos de observar que la 
+naturaleza haga sus trucos y calculemos el nllmero otra vez, este serB. el mismo. 
+(Algo asi como el alfil en un cuadro negro, que despues de cierto niimero de movi­
+mientos ---<:uyos detalles son desconocidos- queda en el mismo cuadro. Es una ley 
+de esta naturaleza.) Puesto que esta es una idea abstracta, ilustraremos su significa­
+do mediante una analogia. 
+Imaginemos un niiio, tal vez ''Daniel el Travieso", que tiene unos bloques que 
+son absolutamente indestructibtes, que no pueden dividirse en partes. Cada uno es 
+igual &l otro. Supongamos que tiene 28 bloques. Su madre lo co!oca con los 28 blo­
+ques en una pieza al comenzar el dia. Al final de! dia, por curiosidad, ella cuenta los 
+bloques con mucho cuidado, y descubre una Icy fenomenal -haga lo que haga con 
+los bloques, i siempre quedan 28 ! Esto continUa por varios dias, hasta que un dia 
+hay s6lo 27 b!oques, pero una pequeiia investigaci6n demuestra que hay uno bajo la 
+alfombra --ella debe mirar por todas partes para estar segura de que el nUmero de 
+bloques no ha cambiado--. Un dia, sin embargo, el nUmero parece cambiar -hay 
+s6lo 26 bloques-. Una cuidadosa investigadOn indica que la ventana estaba abierta. 
+y al mirar hacia afuera se encontraron los otros dos bloques. Otro dia, una cuida­
+dosa cuenta indica que jhay 30 bloques! Esto 
+4-1
+
+causa una gran consternaci6n, hasta que se sabe que Bruce vino a visitarlo, trayendo 
+sus bloques consigo y que dej6 unos pocos en la casa de Daniel. Despues de separar 
+los bloques adicionales cierra la ventana, no deja entrar a Bruce, y entonces todo 
+anda bien, hasta que una vez cuenta y encuentra s6lo 25 bloques. Sin embargo, hay 
+una caja en la pieza, una caja de juguetes, y la madre se dirige a abrir la caja de ju­
+guetes, pero el niiio dice: "No, no abras mi caja de juguetes ", y chilla. A l~ madre no 
+!c estaba pcrmitido abrir la caja de juguetes. Como es extremadamente cunosa, y al go 
+ingeniosa, inventa un ardid. Sabe que un bloque pesa cien gramos, asi que pesa la caja 
+cuando ve 28 bloques y encuentra 500 gramos. En seguida desea comprobar, pesa la 
+caja de nuevo, resta 500 gramos y divide por cien. Ella descubre !o siguiente: 
+( nllmero de ) 
+bloques vistas 
++ (peso de la caja)- 500 gramos _ constante (4 .1) 
+100 gramos 
+En seguida parece que hubiera algunas nuevas desviaciones, pero un estudio cuida­
+doso indica que el agua sucia de la baD.era estii. cambiando de nivel. El niiio est<i 
+lanzando bloques al agua y ella no puede verlos porque est<i muy sucia, pero puede 
+saber cuilntos bloques hay en cl agua agregando otro termino a su formula. Ya que 
+la altura original de! agua era de 15 centimetros y cada bloque e!eva el agua medio 
+centimetro, esta nueva formula seria: 
+( nllmero de ) 
+bloques vistos 
+(peso de la caja) -· 500 gramos 
+100 gramos 
+(altura del agua)- 15 centimetros __ Constante 
+0,5 centlmctro 
+(4.2) 
+En el aumento gradual de la complcjidad de su mundo, ella encuentra una serie com­
+pleta de tfrminos que representan modos de calcular cut'tntos bloques estt'tn en los 
+!ugares donde no le estil. permitido mirar. Como rcsultado. encuentra una formula 
+compleja, una cantidad que debe ser calculada, que en su situad6n siempre perma­
+nece la misma. 
+(.Cut'tl es !a analogia de esto con la conservacic.ln de la energia? El mils notable 
+aspecto que debe ser abstraido de este cuadro es que no hay bloques. Quitese cl 
+primer termino en (4.1) y en (4.2) y nos encontraremos calculando cosas mil.so 
+menos abstractas. La analogia tiene los siguientes puntos. Primera, cuando estamos 
+calculando la energia, a veces alga de e!la deja el sistcma y se va, y a veces algo 
+entra. Para vcrificar !a conservaci6n de la energia debemos tener cuidado de no 
+agregar ni quitar nada. Segundo, la encrgia tienc un gran nUmero deformas diferen-
+/es, y hay una formula para cada una. Estas encrgia gravitacional, energia cine-
+tica, energia calOrica. energia dt'tstlca. c!Cctrica. energia quimica. cnergia 
+radiante, energia nuclear, cncrgia de el total de las formulas para 
+cada una de estas contribuciones, no a excepci6n de la energia que entra 
+y que sale. 
+Es importante 
+es. No 
+definido 
+que en la flsica actual no ~abemos lo que la energia 
+energia formada por pequeiias gotas de un tamaiio 
+hay formula~ para calcular cierta
+
+cantidad niunerica, y cuando las juntamos todas nos da "28 ,. -siempre el mismo nU" 
+mero-. Es algo abstracto en el sentido que no nos informa el mecanismo o las razones 
+para las diversas f6rmulas. 
+4-2 Energia potencial gravitacional 
+Puede entenderse la conservaci6n de la energia s61o si tenemos la formula para 
+todas sus formas. Deseo discutir la formula para la energia gravitacional cerca de la 
+superficie de la tierra, y deseo deducir esta formula de un modo que no tiene nada 
+que ver con la historia, sino que es una simple !inea de razonamiento inventada para 
+est a lecciOn en particular, es to a fin de darles a ustedes una ilustraciOn de\ notable 
+hecho que puede extraerse mucho acerca de la naturaleza a partir de unos pocos 
+hechos y con un razonamiento acabado. Es una ilustraci6n de la clase de trabajo 
+que los fisicos te6ricos realizan habitualmente. Esta modelado segUn el excelente ar­
+gumento del Sr. Carnot sobre la eficlencia de las milquinas de vapor*. 
+Consideremos milquinas !evantadoras de pesos -milquinas que tienen la propie­
+dad de levantar un peso bajando otro-. Hagamos, ademils, una hip6tesis: que no 
+existe movimiento perpetuo para estas m8.quinas levantadoras de pesos. (De hecho, 
+que no exista el movimiento perpetuo es un enunciado general de la !ey de la conser­
+vaci6n de la energia.) Debemos tener cuidado al definir el movimiento perpetuo. En 
+primer lugar hagilmoslo para mUquinas levantadorns d.:: pesos. Si cuando hemos levan­
+tado y bajado muchos pesos y llevado la mUquina a su condici6n original, encontra­
+mos que el resultado neto es haber levantado un peso, entonces tenemos una milquina 
+de movimiento perpetuo, porque podemos usar cl peso levantado para poner en mo­
+vimicnto otra cosa. Es decir, debe cumplirse que la milquina que levant6 el peso 
+vuelva a su exacta condici6n original, y ademils debe ser complctamente indepen­
+diente --esto es, que no haya recibido la energ(a de una fuente externa para levantar 
+el peso- como los bloques de Bruce. 
+Fig. 4--1. Miiquina simple para levantar 
+pesos. 
+En la figura 4- l se muestra una milquina muy simple para levantar pesos. Esta 
+milquina levanta pesos de tres unidades de "intensidad ". Colocamos tres unidades 
+en un platillo y una unidad en el otro. Sin embargo, a fin de hacerla trabajar real~ 
+mente, debemos quitar un pequeiio peso en el platillo de la izquierda. Por otra part.e, 
+podriamos levantar una unidad de peso bajando el peso de tres unidades, si trampea­
+mos un poco quitando a!go de peso del otro plato. Por supuesto, nos damos cuenta 
+que con cualquier milquina elcvadora real debemos agregar una pequeiia cantidad 
+extra para iograr su funcionamiento. Esto no lo consideramos, temporariamente. Las 
+milquinas ideales, aunque no existen, no necesitan nada extra. Una m<'i.quina que use­
+mos en la realidad puede ser, por asi decir, casi reversible: esto es, si levanta el peso de 
+es tanto el resultado (4,3) el cual de hecho ustedes ya pueden 
+el mediante un razonarnicnto tcOrico 
+4-3
+
+tres al bajar el de una, entonccs tambiCn levantarti aproximadamente el pc~o de una en 
+la misma cantidad al bajar el peso de tres. 
+Imaginemos 9ue _hay dos clases de mitquinas, las que 110 son reversibles, que inclu 
+ven todas las maqumas rcales. y las que son reversibles. que. por ~upuesto no se 
+Consigucn en la _realidad a pesar del cuidado que pongamos en el diseii.o _de _cojinetcs. 
+palancas, etc .. Sm embargo, suponemos que existe un~ cosa tal --una maquma rever 
+siblc- que baJa una unidad de peso (un kilo o cualqmer otra unidad) en una umdad 
+de distanci.a y que al mismo tiempo levanta un peso de tres unidades. Uamemos 
+Miiquina A a esta mitquina reversible. Supongamos que esta miiquina reversible par 
+ticular levante el peso de tres unidades una distancia X. A continuaciOn. supongan 
+que tenemos otra m:lquina, la Mtiquina B. que no es necesariamente reversible, que 
+baja el peso de una unidad en una unidad de distancia, pero que levanta el peso de 
+tres unidade~ una distancia Y. Podemos probar ahora que Y no es mils alta que X: 
+es decir. que es imposible construir una m::iquina que levante un peso mds alto que 
+una mtiquina reven,ible. Veamos por que. Supongamos quc Y fuera mtis alta que X. 
+Tomemos un peso de una unidad y bajemoslo una unidad de altura con la miiqul­
+na B, con lo que se eleva el peso de tres unidades una distancia Y. Entonces po­
+driamos bajar el peso de Y a X, obteniendo energ[a gratis, y usar la m3.quina re­
+versible A, funcionando a la inversa, para bajar el peso de tres unidades una dis­
+tancia X y levantar el peso de una unidad en una unidad de altura. jEsto retornariL 
+el peso de una unidad a donde cstaba antes y dejara ambas m<lquinas listas para ser 
+usadas de nuevo! Por lo tanto, tendriamos movimiento perpetuo si Y fuera mils alta 
+que X, lo que asumimos que era imposible. Con csos supuestos debemos conclu~r 
+que Y nu es mds a/ta que X, de modo que de todas las mil.quinas que puedan dise­
+iiane la miiquina reversible es la mejor. 
+que todas las mtiquinas reversibles dcben levantar hasta 
+Supongan que B tambien fuera reversible. EI razona-
+que Y no es que X es, por supucsto. tan bueno como antes. pero 
+podemos haccr nucstro razonamiento de otra manera usando las m<i.quinas en orden 
+X no mcis alto que Y. Esta cs entonces una observaciOn 
+analizar la altura a la cual diferentes mllquinas van 
+en el interior de/ mecanismo. Sabemos de inmcdiato 
+una seric enormemente complicada de palancas que levan­
+a una cicrta distancia al bajar una unidad en una unidad de dis-
+con una palanca simple que hace mismo y quc es fun 
+su mtiquina no lo levantar<i. m<i.s. ta! vez menos. Si 
+sabemos tambiec1 exactamentc hasta quC altura lo levan­
+rnil4uina reversible, funcione como funcione, quc baje un 
+de tres kilos, siempn: lo levantariL la misma 
+una ley universal de gran utilidad. La pregunta 
+vale X'!
+
+13oN=j 
+[ 1h 
+~ 
+(a) Comienzo 
+~A 
+(b)Carga de bola~ (c) I kg \evanta 3 kg 
+unadistarmaX 
+,ljgj ~-LJ§l ~,!'u~_, 
+~~~ 
+(d) Descargadebolas (e) Reagrupam1ento (f) Fin 
+Fig. 4--2. Una rn<lquina reversible. 
+X, (a). Primero, hacemos rodar horizontalmente las bolas dcsde la estanteria a las repi­
+sas, (b), y Suponemos que esto no demanda energia, porque no cambiamos la altura. La 
+mit.quina reversible opera entonces: baja la bola que estil sola al suelo y levanta la plata­
+forma una distancia X (c). M3.s alm, hemos arreglado ingeniosamente la estanteria de 
+modo que estas bolas estitn de nuevo a la par con las repisas. Asidescargamos las bolas 
+a la estantcria, (d); habiendo descargado las bolas podemos llevar la miquina a su 
+condici6n original. Tenemos ahora tres bolas en las tres repisas superiores y una 
+en el piso. Pero lo curioso es, por decirlo asi, que no hemos levantado de ninguna 
+manera dos de ,ellas, ya que despues de todo, antes habia bolas en las repisas 2 y 3. 
+El efecto resultante es haber levantado una bola la distancia 3X. Pues bien, si 3X 
+excede un metro, podemos bajar la bola para retornar la miquina a la condiciOn 
+inicial (t), y podemos hacer funcionar el aparato de nuevo. Por lo tanto, 3X, no puede 
+exceder un metro, porque si 3X excediera un metro podriamos reatizar movimiento 
+perpetuo. Asimismo, podemos probar que un metro no puede exceder a JX. cuando 
+se hace funcionar la miquina al reves, ya que es una milquina reversible. Por lo 
+tanto, JX no es ni mayor ni menor que un metro, y entonces hemos descubierto, 
+sOlo con razonamientos, la ley X =- 1/J metro. La generalizaciOn es clara: un kilo" 
+gramo cae cierta distancia aI operar una milquina reversible; entonces la miquina 
+puede levantar p kilogramos a esta distancia dividida por p. Otra forma de indicar 
+este resultado es que el producto de tres kilogramos por la altura alcanzada, que en 
+nuestro problema era X, es igual al producto de un kilogramo por la distancia que 
+fue bajada, que en este caso es un melro. Si tomamos todos los pesos y !os multi­
+plicamos por las alturas a las cuales estin ahora por sobre el suelo, dejamos que la 
+miquina funcione, y en seguida multiplicamos nuevamente todos los pesos por todas 
+las alturas, no habrd cambio. (Tenemos que generalizar este ejemplo en que move­
+mos sOlo un peso al caso en que al bajar uno levantamos otros pesos diferentes 
+-pero esto es facil-.) 
+Llamamos energia polencial grarilacional la suma de !os productos pesos por 
+a1turas -la energia que tiene un objeto debido a su posiciOn en el espacio con 
+relaciOn a la tierra-. Entonces la formula para la energia gravitacional, siempre que 
+4-5
+
+no estemos muy Jejos de la tierra (la fuerza se debilita a medida que subimos) es 
+( ener~ia ~otencial) 
+grav1tac10nal 
+para un objeto 
+= (peso) x (altura) (4.3) 
+Es una bellisima linea de razonamiento. El imico problema es que ta! vez no sea 
+verdadera. (Despues de todo, la naturaleza no tiene por que marchar con nuestro 
+razonamiento.) Por ejemplo: quizits el movimiento perpetuo sea en efecto posible. 
+Algunos de los supuestos pueden estar equivocados, o podemos haber cometido un 
+error de razonamienfo, de modo que siempre es necesario comprobar. En efecto, 
+resulta experimentalmente cierto. 
+El nombre general para la energia que tiene que ver con la posici6n relativa a 
+alguna otra cosa es energia potencial. Por supuesto, en este caso particular la lla­
+mamos energia potencial gravitacional. Si es cuesti6n de fuerzas electricas contra las 
+que estamos trabajando, en vez de fuerzas gravitacionales, si estamos "levantando" 
+cargas desde otras cargas, con muchas palancas, entonces el contenido de energia 
+se llama energ[a potencial elictrica. El principio general es que el cambio en la 
+energia es e! producto de la fuerza por la distancia que se desplaza la fuerza, y que 
+esto es en general un cambio en la energia: 
+( cambio ) = (fuerza) x ( distancia en que) (4.4) 
+de energia la fuerza actUa 
+Volveremos a muchas de estas otras formas de energia a lo largo de! curso. 
+Fig. 4-3. Plano inclinado 
+El principio de la conservaci6n de la energia es muy Util para deducir lo que 
+ocurriril en numerosas circunstancias. En la enseilanza media aprendimos muchas 
+\eyes acerca de poleas y palancas usadas de diferentes maneras. Podemos ver ahora 
+que estas "]eyes" son todas fa misma cosa, y que no teniamos necesidad de memori­
+zar 75 reglas para darnos cuenta de ello. Un simple ejemplo es un piano inclinado 
+liso, que por suerte es un triilngulo tres-cuatro-cinco (Fig. 4-3). Colgamos el peso 
+de un kilo sabre un piano inclinado con una polea, y un peso Wal otro !ado de la 
+polea. Queremos saber cuilnto debe pesar W para equilibrar un kilo en el piano. 
+~COmo podemos calcularlo? Si decimos que estil justamcnte equilibrado, es reversi­
+ble, y asi puede moverse hacia arriba y hacia abajo, y podemos considerar la si­
+guiente situaci6n. En la situaci6n inicial (a), el peso de una libra est3. abajo, y el peso 
+W estil arriba. Cuando W se ha deslizado hacia abajo en forma reversible, tenemos 
+el peso de un kilo arriba y el peso W a una distancia deslizada (b ), o sea, cinco 
+metros a partir de! nive! en que estaba antes. 
+4-6
+
+Nosotros lerantamos el peso de un kilo solamcnte tres metros y bajamos W kilos en 
+cinco metros. Por lo tanto, W = ~de un kilo. N6tese que hemos deducido esto a partir 
+de la conservaci6n de la energia y no a partir de componentes de fuerzas. La habili­
+dad es, sin embargo, relativa. Puede deducirse de una forma que es aUn mils brillante 
+descubierta por Stcvin e inscrita en su tumba. La figura 4·4 explica que debe ser ·'/5 
+de un kilo, porque la cadena no da vuelta. Es evidente que la parte mils baja de la 
+cadena est.ii equilibrada por si misma, de modo que la tracciOn de los cinco pesos por 
+un [ado debe equilibrar la tracciOn de tres pesos por el otro. cualquiera que sea la pro­
+porciOn de los catetos. llstedes ven, al observar estc diagrama. que H, debc ser 1/ 1 de 
+kilo. (Si logran un cpitafio como Cste en su l.ilpida, van por buen camino.) 
+Fig. 4-4. El ePitafro de Stevm 
+l!ustremos ahora el principio de conservaci6n de la energia con un problema 
+mils complicado, el gato de tornillo que se muestra en la figura 4·5. Sc usa un 
+mango de 50 centimetros de longitud para girar e! tornillo quc ticne cuatro hilos 
+por centlmetro. Nos gustaria saber cuilnta fuerza se necesita en el mango para le· 
+vantar una tonelada ( 1000 kilos). Si queremos levantar la tonelada dos ccntimetros 
+y medio, digamos entonces debcmos girar el mango lO vcces. Cuando da una vuelta 
+recorre aproximadamente 314 centimetros. El mango debe asi recorrcr 3140 ccnti­
+metros, y ~i usamos varias polcas, etc., estariamos levantando nuestra tonelada con 
+un peso menor desconocido W aplicado al extremo de! mango. Asi encontramos 
+que Wes de aproximadamente 0,8 kilos. Este es un resultado de la conservaciOn de 
+la energia. 
+Consideremos ahora el ejcmplo algo mils complicado que se mucstra en la figu­
+ra 4-6. Una varilla a barra de dos metros de longitud cst8. soportada en un extrcmo. 
+En !a mitad de la barra hay un peso de 60 kilos y a una distancia de 50 ccntimctros 
+de] soporte hay un peso de 100 kilos . .:,Cuinta fuerza debemos hacer para levantarel 
+extrema de la barra a fin de mantenerla en equilibria. dcspreciando el peso de la 
+barra? Supongamos que poncmos una polea en un extremo y colgamos un peso de 
+la polea. t,Cuill debe ser el valor del peso W para 
+~~11~!~~1~' ' (4 kilos/ 
+ccntimetro) , _J 
+,,. Fig. 4-6 Bcirra cargada soportada en un 
+Fig_ 4- 5 Un gato de Torn1llo
+
+establecer et equilibrio? Imaginemos que e! peso cae a una distancia arbitraria -para 
+quc sea mas facil para nosotros supongamos que baJa cuatro centimetros-; t.a que 
+altura sc elevaritn las dos cargas? El centro se eleva dos ccntimetros y el punto a un 
+cuarlo de la distancia de! cxtremo fijo sc eleva un centimetro. Por lo tanto, el princi­
+pio que la suma de las alturas multiplicadas por los pesos no cambia nos dice que el 
+peso W por los cuatro centimet.ros hacia abajo, mils 60 kilos por dos centimetros ha· 
+cia arriba. mils JOO kilos por un centimetro tienen quc sumarse para dar cero: 
+-4W + (2X60) + (1)(100) ~ 0, w = 55 kg. (4.5) 
+Por lo tanto, debemos tener un peso de 55 kilos para equilibrar la barra. De este 
+modo podemos deducir las !eyes del "equilibria,. -la estittica de complicadas estruc·· 
+turas de puentes, etc.--. Este metodo se llama principio de !os trabajos dnuales, por­
+que para aplicar este argumento tuvimos que imaginar que la estructura se mueve 
+un poco -aunque no se mueva realmente ni se pueda mol'er-. Usamos el movimien· 
+to imaginado muy pequeiio para ap!icar el principio de conservaciOn de la encrgia. 
+4-3 Energia cinetica 
+Para i!ustrar otro tipo de encrgia consideremos un pendulo (Fig. 4-7). Si cmpu­
+jamos la masa hacia un !ado y la soltamos, oscila de un !ado hacia el otro. En su 
+movimiento pierde altura cuando va desde ambos extremos hacia el ccntro. t,A 
+dOnde se fuc la energia potencial? La energia gravitacional desaparece cuando el 
+cuerpo estit abajo; sin embargo, subiril de nuevo. La energla gravitacional debe ha­
+berse convertido en otra forma. Evidentementc, es en virtud de su movimienlo que es 
+capaz de subir de nuevo, de modo que tcnemos conversi6n de energia gravitacional 
+en otra forma cuando el cuerpo l!ega al fondo. 
+Fig. 4- 7. Pi§ndulo 
+Debemos obtencr una formula para la energia de movimiento. Al recordar nues­
+tros argumentos acerca de las milquinas reversibles podemos ver filcilmentc que en 
+el movimiento en !a parte inferior debe haber una cantidad de energia que le permite 
+subir a cierta altura, y que no tiene nada que ver con el mecanismo mediante el cual 
+subc ni con la truyectoria segii.n la cua! subc. De modo que tenemos una formula 
+de equivalencia parecida a la que escribimos para los bloques de] niiio. Tenemos 
+otra forma de representar !a encrgia. Es facil decir cuitl es. La encrgia cin6tica en el 
+fondo es igual al peso multiplicado por la altura que puede alcanzar en correspon­
+dencia a su velocidad: E.C. = WH. Lo que nccesitamos es la formula que nos de 
+la altura mediante a!guna regla que tenga que ver con el movimiento de los objetos. 
+Si ponemos en marcha alga con cierta ve!ocidad, por ejemplo verticalmente hacia 
+arriba, alcanzarit cierta altura: todavia no sabemos cuitl es, pero depende de la
+
+velocidad -hay una f6rmula para eso--, Entonces, para encontrar la f6rmula de la 
+energia cinetica de un objeto que se mueve con velocidad V, debemos calcular la al~ 
+tura que alcanzaria y multiplicarla por el peso. Encontraremos luego que podemos 
+escribirla de esta manera: 
+(4.6) 
+Por supuesto, el hecho de que el movimiento tenga energia no tiene nada que ver 
+con el de que estemos en un campo gravitadonal. No importa de d6nde vino el mo­
+vimiento. Esta es una f6rmula general, para diversas velocidades. Las formulas ·(4.3) 
+y (4.6) son ambas aproximadas, la primera porque es incorrecta cuando las alturas 
+son grandes, es decir, cuando las alturas son tan grandes que la gravedad se debilita: 
+la segunda debido a la correcci6n relativista para grandes velocidades. Sin embargo, 
+cuando finalmente obtengamos la formula exacta para la energia, entonces la ley 
+de conservaci6n de la energia es correcta. 
+4-4 Otras formas de energia 
+Podemos, de este modo, continuar ilustrando la existencia de energia bajo otras 
+formas. Primero, consideremos la energ[a elastica. Si comprimimos un resorte hacia 
+abajo, debemos hacer cierto trabajo porque, una vez hecho eso, podemos levamar 
+pesos con Cl. Por lo tanto, en su condici6n comprimida tiene la posibilidad de hacer 
+cierto trabajo. Si calcularamos las sumas de los productos por las alturas, la ley no 
+se verificaria -debemos agregar algo mits para tomar en cuenta el hecho de que el 
+resorte esta bajo tensi6n-. Energia elistica es la receta para un resorte cuando estit 
+comprimido. i,Cu<i.nta energia es? Si so!tamos la energia elilstica, a medida que el 
+resorte pasa por e! punto de equilibria, se convierte en energia cinetica y Csta pasa 
+alternativamente por compresiones o estiramientos del resorte y energia cinetica de 
+movimiento. (Hay, ademas, cierta energia gravitacional que entra y sale. pero pode­
+mos hacer este experimento "de costado'" si lo deseamos.} Se man tendril en movi­
+miento hasta que frene por pCrdidas. jAh! Hemos estado trampeando todo el tiempo, 
+poniendo pequeOos pesos para mover cosas, o diciendo que las mitquinas son rever­
+sibles, o que se mueven permanentemente; pero podemos ver que las cosas se detie­
+nen a la larga. i,D6nde estit la energia cuando el resorte ha terminado de moverse 
+de arriba a abajo? Esto introduce oJra forma de energia: la energia ca/Orica. 
+Dentro de un resorte o de una palanca hay cristales formados por muchos itto­
+mos y con gran cuidado y delicadeza en !a disposici6n de las partes uno puede 
+tratar de ajustar las cosas de modo que ruede sobre algo sin que ninguno de los 
+8.tomos verifique agitaci6n alguna. Pero uno debe tener mucho cuidado. Ordinaria­
+mente cuando las cosas ruedan, hay sacudimiento y agitaci6n debido a las irregu!a­
+ridades del material y los atomos comienzan a menearse en el interior. Asi perdemos 
+la pista de esa energia; encontramos que los 8.tomos esti\n mene8.ndose en el interior 
+de una manera al azar y confusa despues que el movimlento se detuvo. Ai.Jn hay 
+energia cinetica, por cierto, pero no es tit asociada a un movimiento visible. j Estamos 
+soiiando! t.C6mo sabemos que aim hay energia cinCtica? Resuita que con term6me­
+tros pueden encontrar que, de hecho, el resorte o !a palanca estan mils calientes y 
+que hay realmente un incremento de la energia cinetica en una cantidad definida. 
+Uamamos energia ca/Orica a esta energia, pero sabemos que Csta no es realmente 
+una nueva forma, es justamente energia cinCtica -movimiento intemo-. (Una de las 
+dificultades con todos estos experimentos que hacemos con materia a gran escala 
+es que no podemos demostrar realmente 
+4-9
+
+la conservaci6n de la energia y no podemos construir realmente nuestras m<iquinas 
+reversibles, porque en cada momento movemos una gran masa de sustancia y los <ito­
+mos no permanecen absolutamente imperturbados, y asi una cierta cantidad de movi­
+miento al azar ocurre dentro del sistema atOmico. No podemos verlo, pero podemos 
+medirlo con un term6metro. etc.) 
+Hay muchas otras formas de energia, y, por supuesto, no podemos describir!as 
+con mils detal!e ahora. Existe la energia electrica, que tienc que ver con el empuje 
+y arrastre de cargas el&:tricas. Existe la energia radiante, la energia de la luz, que 
+sabemos es una forma de la energia electrica, porque la luz puede representarse 
+coma oscilaciones en el campo electromagnetico. Existe la energia quimica, la ener­
+gia que es libcrada en las reaccioncs quimicas. Realmente, la energia elilstica es, 
+hasta cierto punto, como la energLa quimica, porque !a energia quimica es la energia 
+de atracciOn de los iltomos, de uno al otro, y asi cs energia elitstica. Nuestro cono­
+cimiento moderno es el siguiente: la energia quimica consta de dos partes, energia 
+cinetica de los electrones en el interior de los ittomos, asl parte de ella es 
+cinetica, y encrgia e!Cctrica de interacci6n de !os electrones y protones -por lo tanto, 
+el resto de ella es. electrico-. En seguida llegamos a la energia nuclear, la energia 
+involucrada en el arreglo de las particulas dentro de! nUcleo, y tenemos formulas 
+para eso, pero no tcnemos sus !eyes fundamentales. Sabemos que no es e!Cctrica, 
+no es gravitacional y no es puramente quimica, pero no sabemos lo que es. Parece 
+ser una forma adicional de encrgia. Finalmente, asociada con la teoria de !a relati­
+una modificaci6n de las lcyes de la energia cinetica, o como quieran 
+modo tal que la energla cinCtica esta combinada con otra cosa llamada 
+masa. Un objeto tienc cnergia a partir de su sola existencia. Si yo tengo 
+un electr6n que permanecen quietos sin hacer nada -sin importar la 
+importar cualquier otra cosa- y se juntan y desaparecen, se libera 
+cantidad definida, y la cantidad puede calcularse. Todo lo 
+es la masa del objeto. No depende de lo que sea -podemos 
+obtcner cierta cantidad de encrgia, La formula fue 
+dla es: E = mc1 . 
+Es cvidente a partir de nuestrn discusiOn que la ley de conservadOn de la energla 
+es enormemente Util para hacer an:ilisis, tal coma lo hcmos ilustrado con unos pocos 
+ejcmplos sin conocer todas las formulas. Si tuvi6-amos todas las formulas para todas 
+ias formas de encrgia, podriamos analizar cuilntos procesos deberian verificarse sin 
+tener que entrar en detalles. Por eso las !eyes de conservaci6n son muy interesantes. 
+La cuesti6n que naturalmente surge es qui: otras Jeyes de conservaci6n hay en fi­
+sica. Hay otras dos \eyes de conservaci6n que son anitlogas a la conservaci6n de 
+la energia. Una sr. Barna la conservaci6n del momentum lineal. La otra se llama la 
+conservaci6n del momentum angular. Nosotros averiguaremos mils acerca de Cstas 
+m:is adelante. En Ultimo anfilisis no entendemos en profundidad las !eyes de con­
+servr.ci6n. No entendemos la ley de conservaciOn de la energia. No entendemos la 
+energia como cierto nUmero de pequeiias gotas. Puede que hayan oido que los foto­
+nes se manifiestan coma gotas y que la energia de un fot6n es la constante de Planck 
+multip!icada por la frecuencia. Esto es cierto, pero ya que la frecuencia de la luz 
+puede tomar cua!quier valor, no hay ninguna ley que diga que la energia tenga que 
+ser una cierta cantidad definicla. A diferencia de los bloques de Daniel puede haber 
+cualquier cantidad de energia, por lo mcnos como se entiende actualmente. De ma­
+nera que, por ahora, no entendemos 
+4-10
+
+esta energia como contar algo, sino como una cantidad matem3.tica, lo que es una 
+circunstancia abstracta y mas bien peculiar. En medtnica cuitntica resulta que la con­
+servaciOn de la energia esta muy estrechamcnte relacionada con otra importante pro­
+piedad del mundo, las cosas no dependen def tiempo absoluto. Podemos montar un 
+experimento en un momenta dado y probarlo, y luego hacer el mismo experimento en 
+un memento posterior, y eJ se desarrolla exactamente en !a misma forma, Si es to es 
+estrictamente cierto o no, no lo sabemos. Si suponemos que es cierto y agregamos 
+los principios de la mec::i.nica cu3.ntica, entonces podemos deducir el principio i;ie la 
+conservaciOn de !a energia. Es una cosa mas bien sutil e intcresantc y no es facil de ex­
+plicar. Las otras !eyes de conservaciOn estim tambien ligadas entre si. La conservaci(m 
+de\ momentum esta asociada en mecimica cuii.ntica con la proposici6n que no impor­
+ta d6nde se haga el experimento; los resultados serim siempre los mismos. Asi como 
+la independencia en el espacio tiene que ver con la conservaci6n de! momentum, la 
+independencia en el tiempo tiene que ver con la conservaciOn de !a energia, y final­
+mente si girdramos nuestros aparatos, esto tampoco implica diferencia, de modo que 
+la invariancia de! mundo a la orientaci6n angular estit relacionada con la conservaci6n 
+de! momentum angular. Ademt'ts de estas, hay tres [eyes de conservaci6n que son 
+exactas hasta donde lo podemos afirmar hoy dia, que son mucho mils simples de en­
+tender, porque son de! mismo tipo que contar bloques. 
+La primera de las tres es la conservaci6n de la carga, y que sencillamente 
+fica que ustedes cuentan las cargas positivas, menos las cargas negativas 
+tienen, y el nUmero no cambia nunca. Pueden deshacerse de una positiva con una 
+negativa, pero no crean ninglln exceso neto de positivas sobre negativas. Hay 
+dos !eyes anillogas a esta -una es la Hamada conservaci6n de bariones-. 
+nUmero de particulas extraiias, son ejemplos un neutr6n y un prot6n, que 
+bariones. En cualquier reacciOn en la naturaleza. si contamos cu'1ntos 
+intervienen en un proceso, el nUmero de bariones* que resu!ta ser::i. 
+mismo. Hay otra ley, la co11sen·aci611 de leptones. Podemos decir lJUe e~e 
+de particulas llamadas leptones es: el electr6n, el meson mu, el neutrino. 
+un antielectr6n, que cs un positr6n. esto es, -1 lcpt6n. Al el ntimero 
+de leptones en una reacci6n resu!ta que el nllmero que entra y 
+al menos por lo que sabemos hasta el presente. 
+Estas son las seis !eyes de conservaci6n, tres de ellas sutiles, involucrando espa­
+cio y tiempo, y tres de ellas simples, en el sentido de contar cosas. 
+Con relaci6n a la conservaci6n de la energia debit:ramos notar que la energia 
+disponible es otro asunto -hay mu cha agitaci6n de los atomos de! agua de mar, 
+puesto que cl mar tiene cierta temperatura, pero es imposible reunirlos en un mo­
+vimiento definido sin tomar energia de cualquier otra parte-. Es decir, aunque 
+sabemos, de hecho, que la energia se conserva, la energia disponible para la utilidad 
+humana no se conserva tan filcilmente. Las !eyes que gobiernan la cantidad de ener­
+gia disponible se Haman {eyes.de la termodindmica y encierran un concepto llamado 
+entropia para los procesos termodinil.micos irreversibles. 
+• Contando los antibariones como -1 bari6n. 
+4-ll
+
+Finalmente, reparamos en el problema de dOnde podemos obtener nuestras fuen­
+tes de energia hoy dla. Nuestros abastec1mientos de energia provienen del sol, la 
+lluvia, el carb6n, el uranio y el hidrOgeno. El sol forma la lluvia y tambien el carb6n, 
+de modo que todo esto proviene del sol. Aunque la energia se conserva, la natura­
+leza no parece interesada en ello; libera gran cantidad de energia desde el sol, pero 
+s61o una parte en dos mil millones cae sobre la tierra. La naturalez:a conserva !a 
+energia, pero, realmente, no le importa; derrocha mucha en todas direccioncs. Ya 
+hemos obtenido energia de! uranio, podemos obtenerla tambien de! hidr6geno, pero 
+actua!mente s6lo en una condici6n explosiva y peligrosa. Si pudiera ser controlada 
+en reacciones termonucleares, resulta que la energia que pueda obtenerse a partir 
+de 10 litros de agua por segundo es igual a toda la potencia electrica generada 
+en ios Estados Unidos. iCon 600 litros de agua corriente por minuto tienen su­
+ficiente combustible para abasteccr toda la energia que se usa hoy dia en !os 
+Estados Unidos! Por lo tanto, concierne a !os fisicos resolver cOmo \iberarnos de 
+la necesidad de tener energia. Esto puede hacersc. 
+4-12
+
+5 
+Tiempo y distancia 
+5-l El movimiento 
+5-2 El tiempo 
+5-3 Tiempos cortos 
+5-4 Tiempc > largos 
+5-1 El movimiento 
+5·5 Unidades y patroncs de tiempo 
+5-6 Distancias grandes 
+5- 7 Distancias pequeiias 
+En este capitulo consideraremos algunus aspectos de los conceptos de liempo ) 
+distancia. Se ha puesto f:nfasis desde un comienzo que la fisica, coma todas las cien­
+cias. depende de la obsen·aci6n. Se puede decir. tambiCn, que el desarrollo de las 
+ciencias fisicas en su forma actual ha dependido en gran medida de! enfasis que se 
+ha puesto en haccr obsen·aciones cuantitativas. SOio mediante observaciones cuan· 
+titativas puede llegar uno a relaciones cuantitativas. quc son ci coral6n de la fis1ca 
+Sett' 
+~ 
+' •'.'··:"Dos"-, "Tres" 
+I '•• 
+I '" 
+Fig 5-1 Una bola baja rodando por una 
+p1sta1nclinada 
+A muchas personas le~ gusta co!ocar el de la foica en ci trabajo hccho 
+hace 350 ai'ios por Galileo y llamarlo el primer Hasw esa epoca cl estuciio de! 
+movimicnto habia ~ido !ilos6fico y ba~ado en argumcntos que podian idearse con !a 
+cabeza. La mayoria de !os razonamientos habm sido presentada por Arist6teles y 
+otros fillisofos griegos y sc tomaban como ··probados··. Galileo era csceptico. e hizo 
+un experimento sabre el movimicnto. que fue esencialmente el siguiente: hizo radar 
+una bola hacia abajo en un piano indinado y observ6 el movimiento. 5in embargo, 
+no sO!o observO; midi6 la distancia que recorri6 la bo!a y en cu6nto tiempo. 
+El modo de medir una distancia era bien conocido mucho antes de Galileo. pero 
+no habia modos predsos de medir el tiempo. particularmente tiempos cortos. Aun 
+que despuCs disei\O relojes mils satisfactorios (aunque no como los que eonocemos 
+ahora), cl primer experimcnto de Galileo
+
+sobrc el movimiento fue hecho usando su pulso para contar intervalos iguales de 
+tiempo. Hagamos lo mismo. 
+Podemos contar los latidos del pulso mientras la bola rueda hacia abajo sobre la 
+pista: ··uno ... dos ... tres ... cuatro ... cinco ... seis ... siete ... ocho ... ·• Pedimos a un amigo que 
+haga una pequeiia marca en la ubicaci6n de la bola para cada cuenta; podemos en­
+tonces medir la distancia que se movi6 la bola desde el punto en que se soltO en 
+uno, o dos, o tres, etc., intervalos iguales de tiempo. Galileo expres6 el resultado de 
+sus observaciones de este modo: si la ubicaciOn de la bola es marcada a l, 2, 3, 4 ... 
+unidades de tiempo desde el instante en que se suelta. esas marcas distan de! punto 
+de partida en proporci6n a los nllmeros I. 4, 9, 16 ... Hoy diriamos que la distancia 
+es proporcional al cuadrado de\ tiempo. 
+El estudio del movimiento, que es bilsico para todos los fisicos, implica las pre­
+guntas (.dOnde?, y (.cu<i.ndo? 
+5-2 El tiempo 
+Consideremos primero lo que queremos decir por tiempo. (.Que es el ticmpo? 
+Seria estupendo encontrar una buena definici6n de\ tiempo. El diccionario Webster 
+define ··un tiempo .. como ··un periodo ", y este Ultimo como ··un tiempo ... lo quc no 
+parece ser muy Util. Quizils debi6-amos decir: "tiempo es !o que ocurre, cuando nada 
+mils ocurre~. Lo que tampoco nos Ueva muy lejos. Puede ser que sea igualmente 
+bueno que cnfrentemos el hecho que el tiempo es una de las cosas quc probablc­
+mente no podemos definir (en el sentido del diccionario). y ~Olo decir que es lo que 
+ya sabemos que es: jes cu:into esperamos! 
+De todos modos, lo que realmente importa no es definir el tiempo sino como 
+medirlo. Una manera de medir el tiempo es utilizar algo quc ocurra una }' otra vez 
+de modo regular -algo que sea peri6dico-. Por ejemplo un dia. Una dia parece ocu­
+rrir una y otra vez. Pero cuando comienzan a pensar acerca de ello, bien pueden 
+preguntar: "(.Son los dias periOdicos? (.Son regulares? (.Son todos los dias de la 
+misma duraciOn?" Ciertamente, uno tien<: la impresiOn que !os dias Je verano son 
+mas largos que los de invierno. Por supuesto, a!gunos dias de invierno parecen ser 
+desagradablemente largos si uno estii. muy aburrido. Seguramente han oido decir 
+a aJguien: "jCaramba, este si que ha sido un dia !argo!'" 
+Sin embargo, parece ser quc los dias ~on casi del mismo iargo {'11 prumedio. 
+(.Hay algUn modo para verificar si los dias son Jel mismo largo "'sea de un dia al 
+siguiente-. o por lo menos en promedio? Una manera es hacer una comparaciOn con 
+algUn otro fenOmeno periOdico. Vcamos cOmo puede haccrse tal comparaciOn usan 
+do un reloj de arena. Con un reloj de arena podemos .. crear .. un suceso peri(Jdico 
+siempre que tengamos a alguien ocupado durante el dia y la nochc para girarlo 
+cuando el Ultimo grano de arena haya caido. 
+Entonces podriamos contar las vucltas Jd reloj de arena desde cada maiiana a 
+la siguiente. Encontrariamos esta vez que el nUmero de ··horas .. (es dccir, vueltas del 
+rcloj de arena) no fue el mlsmo cada ··dia ... Podriamos desconfiar del :-.ol. o del re 
+loj de arena o de ambos.
+
+Despues de pensar un poco, puede ocurrirsenos contar las "horas" de mediodia a 
+mediodia (el mediodia no estil. definido aqui como las 12,00 horas, sino coma el 
+instante en que el sol estil. en su punto mils alto). Encontrariamos esta vez que e! 
+nU:mero de horas de cada dia es el mismo. 
+Tenemos ahora, alguna confianza en que tanto la ''hara" como el "dia" tienen 
+una periodicidad regular, es dedr, indican sucesivos intervalos iguales de tiempo, aun­
+que no hemos probado que cada uno sea "realmente" peri6dico. Alguien puede pre­
+guntar si no pudiera haber alglln ser omnipotente que hiciera disminuir el flujo de 
+arena cada noche y aumentarlo durante el dia. Nuestro experimento, por supuesto, 
+no nos da una respuesta sabre esta clase de preguntas. Todo lo que podemos decir 
+es que encontramos que una regularidad en una cosa lleva consigo una regularidad 
+en la otra. Podemos s61o decir que basamos nuestra definici6n del tiempo en la repe­
+tici6n de algU.n evento aparentemente peri6dico. 
+5-3 Tiempos cortos 
+Podr[amos indicar ahora que en el proceso de verificar la reproductibilidad de! 
+dla, hemos recibido un importante subproducto. Hemos encontrado !a manera de 
+medir en forma mas precisa fracciones de dia. Hemos encontrado un modo de con­
+tar el tiempo en pequeiias partes. lPodemos llevar mils lejos este proceso y aprender 
+a medir intervalos de tiempo aU:n mas pequeiios? 
+Galileo determin6 que un pendulo siempre osd!a en intervalos igua!es de tiempo, 
+siempre que el tamailo de la oscilaciOn se mantenga pequeiio. Un ensayo que com­
+pare el nUmero de oscilaciones de un pendulo en una "horn., demuestra que Cste es 
+efectivamcnte el caso. En esta forma podemos marcar fracciones de una hora. Si 
+usamos un dispositivo mecanico para contar las oscilacioncs -y para mantener!as-, 
+tenemos el reloj de pendulo de nuestros abuelos. 
+Convengamos que si nuestro pCndulo oscila 3.600 veces en una hora (y sl hay 
+24 de tales horas en un dia) llamaremos a cada periodo de! pCndulo un "segundo". 
+Hemos dividido cntonces nuestra unidad original de tiempo en aproximadamente JO' 
+partes. Podemos aplicar los mismos principios para dividir el segundo en intcrvalos 
+mits y mas pequeilos. Se daran cuenta que no es practico hacer pendulos mecanicos 
+que funcioncn arbitrariamente rapido, pero ahora podemos hacer pCndulos ellictricos 
+llamados osciladores. que pueden proporcionar sucesos pcriOdicos con un tiempo 
+de oscilaciOn muy pcqueilo. En estos osciladores e!ectr6nicos hay una corriente elCc 
+trica que osci!a en forma aitit!oga a la oscilaciim de la !enteja del pi:ndulo 
+Podemos hacer una serie de talcs osciladores electr6nicos cada uno con un pe­
+riodo JO veces mas corto que el precedente. Podemos "calibrar" cada oscilador con 
+el siguiente mas lento, contando el nUmero de oscilaciones que hace por una oscila­
+ci6n del mas lento. Cuando el periodo de oscilaciOn de nuestro reloj es menor quc 
+una fracciim de segundo, no podemos contar las oscilaciones sin la ayuda de alglln 
+dispositivo que extienda nuestro poder de observaci6n. Un dispositivo tal es un osci 
+loscopio de haz e!ectr6nico. el cu al act Ua co mo una especie de microscopio para 
+tiempos cortos. Este dispositivo traza en una pantalla fluorescentc un grilfico de la 
+corricnte electrica (o el voltaje) en funciOn del tiempo. A! conectar el osciloscopio a 
+dos de nuestros osciladores uno despui:s del otro de modo 
+5-3
+
+(a) lb) 
+Fig. 5-2. Dos vistas de la pantalla de un osciloscopio. En (a) el osciloscopio esta 
+conectado a un oscilador, en (b) esta conectado a un oscilador con un perfodo de un 
+decimo de duraci6n. 
+que primero hace un grilfico de la corriente en uno de nuestros osciladores y despues 
+de !a corriente en el otro, obtenemos dos grilicos como los que se muestran en la 
+figura 5-2. Podemos determinar filcilmente el nUmero de periodos del oscilador mils 
+rilpido en un perlodo de! oscilador mils lento. 
+Con las modernas tecnicas electr6nicas se han construido osciladores que tiencn 
+perlodos tan pequeflos como 10·-ti segundos, y han sido calibrados (por metodos de 
+comparaciOn como los que hemos descrito) en tCrminos de nuestra unidad patr6n 
+de tlempo, el segundo. Con la invenci6n y perfeccionamiento de! "laser" o amplifi­
+cador de luz, en estos Ultimos ailos, ha llegado a ser posible construir osciladores 
+con periodos aim mis cortos que 10- 12 segundos; pero no ha sido todavia posible 
+calibrarlos mediame !os metodos que hemes descrito, aunque no hay duda que pron­
+to sera posible. 
+Se han medido intervalos de tiempo mils pequeii.os que 10-12 segundos, pero me­
+diantc una tCcnica diferente. En efecto, se ha usado una deflnici6n diferente de] 
+"tiempo'", Una manera ha sido observar la distancia entre dos sucesos para un ob­
+jeto en movimicnto. Si. por ejemplo, las luces delanteras de un autom6vil en movi­
+miento se prenden y despues se apagan, podemos calcular cucinto tiempo estuvieron 
+cargadas las luces, si sabemos d6nde fueron encendidas y apagadas y la velocidad 
+con que se movl6 el autom6vil. El tiempo es la distancia durante la cual las luces 
+estuvicron encendidas, dividida por la velocidad. 
+En cstos Ultimas aiios justamente se utiliz6 una tecnica asi para medir el tiempo 
+de vida dei mcsOn T 0. Al observar en un microscopio las pequefias trazas dejadas 
+en una cmulsi6n fotogrilfica, en la cual los mesones 7fG habian sido creados, se via 
+que un mcsOn ,.,.o (se sabe que viaja a una vdocidad cercana a la de la luz) se movi6 
+una distancia de 10-1 metros en promedio antes de desintegrarse. Vivi6 s6lo durante 
+unos 10- 1 " seg. Debcri ponerse enfasis que aqui hemos utilizado una definiciOn un 
+poco difercnte de! "tiempo" que las anteriores. Mientras no ha ya contradicciones en 
+nuestra comprensi6n, nos sentimos bastante seguros que nuestras definiciones son 
+suticicntcmente equivalentes. 
+Extendiendo nucstras tecnicas aUn mils -y si es necesario nuestras definiciones­
+podemos inferir el tiempo de duraci6n de acontecimientos aUn mis rilpidos. Pode­
+mos hablar de\
+
+periodo de una vibraci6n nuclear. Podemos hablar de! tiempo de vida de las recien­
+temente descubiertas resonancias extraiias (particulas) mencionadas en el capitulo 2. 
+Su vida entera dura un lapso de s61o 10-24 segundos, el tiempo que aproximada­
+mente tardaria la luz Oa que se mueve a la mayor de las velocidades conocidas) en 
+atravesar el nllcleo de hidr6geno (el mas pequeiio de los objetos conocidos). 
+z,Que hay de tiempos alm mas pequeiios? ,:.Existe el "tiempo" en una escala 
+alm mas pequeiia? ,:. Tiene sen ti do hablar de tiempos men ores si no los podemos 
+medir --o quizils incluso ni pensar en eilo sensatamente-, algo que sucede en un tiem­
+po aUn mas pequeiio? Quizas no. Estos son algunos de los problemas no resueltos 
+quc ustedes estarim preguntando y quizils contestando en los pr6ximos veinte o 
+treinta aiios. 
+5-4 Tiempos largos 
+Consideremos ahora tiempos mayores que un dia. La medida de tiempos largos 
+es facil; s6lo contamos los dias sicmpre que haya alguien que lleve la cuenta. Desde 
+luego encontramos que hay otra periodicidad natural: el aiio, de alrededor de 365 
+dias. Tambien hemos descubierto que la natura!eza entrega algunas veces un con­
+tador para los aiios, en forma de anillos de los <irboles o scdimentos de! fondo de los 
+rios. En algunos casos podemos usar esos marcadores naturales de! tiempo para de­
+terminar el lapso que ha transcurrido desde algUn acontecimiento primitivo. 
+Rod'"""''idod 
+' 
+'~ 
+' ,. 
+;ffl 
+0 T 2T 3T Ticmpo 
+Fig. 5-3. El decrec1rn1ento de la radio­
+actividad en el tiernpo. La act1vidad decrece 
+a la mitad en cada "v1da media", T 
+Cuando no podemos contar los aiios para la medida de tiempos largos, debemos 
+buscar otras formas de medir. Una de las que ha tenido mils exito es usar coma 
+"reloj" un material radioactivo. En este caso no tenemos un acontecer peri6dico 
+como el dia o cl pCndu!o, sino un nuevo tipo de "rcgularidad". Encontramos que la 
+radioactividad de una muestra de material particular decrece la mismafracciOn para 
+sucesivos aumentos iguales en su cdad. Si trazamos un grii.1lco de la radioactividad 
+observada coma funci6n de\ tiempo (digamos en dias), obtenemos una curva coma la 
+que se muestra en la figura 5-3. Observamos que si !a radioactividad decrece a la 
+mitad en T dias (llamada la "vida media"). entonces decrece a un cuarto en otros 
+T dlas, y asi sucesivamentc. En un intervalo de tiempo arbitrario l hay !/T "vida~ 
+medias". entonccs la fracci6n que queda despues de este tiempo t es(!) r,1T. 
+Si supieramos que un pcdazo de material, digamos un pedazo de madera, con­
+tenia una cantidad A de material radioactivo cuando se form6, y encontrilramos por 
+una medida directa que ahora contiene una cantidad B. podriamos calcular la edad 
+5-5
+
+ANOS SEGUNDOS 
+TIEMPOS 
+VIDA 
+MEDIA OE 
+10 18 Edad del universo 
+10' Edad de la tierra 
+]015 
+Primeros hombres 
+1012 Edad de las pir<'irnides 
+10' 
+Ra226 
+Edad de los E.E.U.U 
+10n Vida de un hombre H' 
+10• 
+Un dia 
+103 la luz va del sol a la tierra Neutr6n 
+I Un lat1do del coraz6n 
+10-3 Periodo de una onda sonora 
+10-H Periodo de una onda de rad'10 Muon 
+Mes6n 'T' 
+10- 9 la luz v1aia 30 centimetros 
+10-12 Periodo de la rotac16n molecular 
+10-15 Periodo de la vibrac16n at6mica 
+Meson 'T' 
+10-18 la lu2 atrav1e.<.a u11 atorno 
+10-21 
+Periodo de la v1brac16n 11uclear 
+10-2~ La lu1 atrav1esa un nt1cleo Particula 
+extrar'ia 
+(7)7"'!?7/() 
+del objeto, I, rcsolvicnJo la ecuaci(m 
+OJ'fT =BIA. 
+Afortunadamente hay casos en los cuales podemos conocer la cantidad de ra 
+dioactividad que tenia un objeto cuando se form6. Sabemos, por ejemplo, que el 
+di6xido de carbono en el aire contiene una derta pequei'ta fracci6n de! is6topo radio­
+activo de! carbono, C 1 ~ (reabastecido continuamente por la acciOn de los rayos c6s­
+micos). Si mcdimos cl contcniJo total de carbono de un objeto, sabemos que cierta 
+fracciOn de esa cantidad era originalmente el C 14 radioactivo; conocemos, por lo 
+tanto. la cantiJad inicial A a usar en la formula anterior. El carbono-14 tiene una vida 
+media de 5.000 ailos. Con medidas cuidadosas podemos medir la cantidad que 
+queda dcspuCs de 20 vidas medias o algo asi, y podemos por lo tanto "fechar .. ob" 
+jetos orgitnicos que crecieron hace 100.000 ailos. 
+Nos gustaria conocer. y creemos conocer, la vida de cosas aU.n ant1guas 
+Mucho de nuestro conocimiento estit basado en las medidas de otros 
+5-6
+
+radioactivos que tienen diferentes vidas medias. Si hacemos medidas con un is6topo de 
+vida media mayor, entonces podremos medir tiempos mayores. Por ejemplo, el ura­
+nio tiene un is6topo cuya vida media es alrededor de 109 aiios, de modo que si algU:n 
+material se form6 con uranio en CJ hace 109 aii.os, hoy en dia s6lo quedaria la mitad 
+del uranio. Cuando el uranio se desintegra, se convierte en plomo. Consideren un 
+pedazo de roca que se form6 mucho tiempo atr<is en algU:n proceso quimico. El plo­
+mo, siendo de naturaleza quimica diferente al uranio, apareceria en una parte de la 
+roca y el uranio apareceria en otra parte de la roca. El uranio y el plomo estarian 
+separados. Si observamos hoy ese pedazo de roca, donde debiera haber sblo ura­
+nio encontraremos ahora una cierta fracciOn de uranio y una cierta fracci6n de 
+plomo. Por comparaciOn de estas fracciones podemos decir cuaJ es el porcentaje de 
+uranio que desapareci6 y se transform6 en plomo. Con este mCtodo se ha determina­
+do la edad de ciertas rocas, resultando ser de varios miles de millones de aiios. Una 
+extensi6n de este mCtodo que no usa rocas particulares, pero que observa el uranio y 
+plomo en los ocCanos y usa promedios sabre la tierra, ha sido usada para determi­
+nar (en los Ultimas aiios) que la edad de la tierra misma es aproximadamente de 
+5,5 mil millones de aiios. 
+Es alentador que se haya encontrado que la edad de la tierra sea la misma que 
+la edad de los meteoritos que caen sabre ella, segUn se determina por e! mCtodo de] 
+uranio. Parece que la tierra surgi6 de las rocas que flotan en el espacio, y que \os 
+meteoritos, muy probablemente, son algo de aquel material que qued6. En un cierto 
+instante, hace mils de 5 mil millones de aiios, comenz6 el universo. Se cree ahora 
+que por lo menos nuestra parte de! universo tuvo su comicnzo hace cerca de diez a 
+veinte mil millones de aiios. No sabemos lo que ocurri6 antes de esto. De hecho, po­
+demos muy bien preguntar de nuevo: (.Tiene alglln sentido la pregunta? (.Tienen los 
+tiempos anteriores alglln significado? 
+5-5 Unidades y patrones de tiempo 
+Hemes dado a entcnder que es conveniente comenzar con alguna unidad patr6n 
+de tiempo, digamos un dia o un segundo, y referir todos los otros tiempos a algU:n 
+mU:ltiplo o fracci6n de esta unidad . .-,Que tomarcmos como nuestrn patr6n bil.sico de 
+tiempo? (.Tomaremos el pulso humane? Si comparamos los pu!sos, encontramos 
+que ellos varian mucho. Al comparar dos relojes se cncuentra que no varian tanto. 
+Ustedes podrian cntonces decir: bien, tomcmos un reloj. (.Pero el reloj de quien? 
+Hay una historia de un niiio suizo que queria que los relojes de la ciudad so 
+naran al mediodia al mismo tiempo. Entonces fue a partes tratando de con 
+veneer a todos del valor de esto. jTodos pensaron que era una idea maravillosa que 
+todos los otros rclojes sonaran al mediodia cuando lo hiciera el propio! Es mas bien 
+dificil deciriir el reloj de quien debiCramos tomar como patrOn. Afortunadamentc 
+todos compartimos un rcloj -la tierra -. Dcsdc hacc mucho tiempo se ha tornado el 
+periodo rotacional de la tierra como el patr6n bilsico del tiempo. Sin embargo, a me­
+dida han ido hacienda medidas mas mils precisas se ha encontrado la 
+la tierra no es se mide con 
+pasan 
+5 7
+
+Hasta hace muy poco no hemos encontrado nada mejor que el periodo de la tie­
+rra, asi todos los re\ojes se han referido a la longitud del dia y se ha definido el se­
+gundo coma I /86400 de un dia promedio. Recientemente hemos estado ganando 
+experiencia con alguno~ osciladores naturales que creemos ahora podri.an pr?porcio­
+nar una referenda de tiempo mils constante que la tierra y que tambien estan basa­
+dos en un fen6meno natural disponible para todos. Estos son las asi llamados ··re­
+lojes at6micos ". Su periodo interno b<lsico es el de una vibraci6n at6mica que es 
+muy insensible a la temperatura o cuaksquiera otros efectos externos. Estos rclojes 
+se mantienen en hora con una precisi6n de una pane en 109 , o mejor. Dentro de los 
+dos Ultimas afios un reloj at6mico perfeccionado que opera basado en la vibraci6n 
+de\ 3.tomo de hidrOgeno ha sido diseii.ado y construido par cl Profesor Norman 
+Ramsey de la Universidad de Harvard. El piensa que este reloj podria ser 100 veces 
+mas preciso aim. Las mediciones que se estitn realizando mostraritn si esto es verdad 
+o no. 
+Podemos esperar que ya que ha sido posib!e construir relojes mucho mils prcci 
+sos que el tiempo astron6mico, habrit pronto un acuerdo entre los cientificos para 
+definir la unidad de· tiempo en tCrminos de un reloj at6mico patr6n. 
+5-6 Distancias grandes 
+Volvamos ahora al prob!ema de la distancia. ;,,A quC distancia estiln o quC tama­
+i'io tienen las cosas? Cualquiera sabe que la manera de medir distancias es empezar 
+con una regla y contar. 0 empezar con un pulgar y contar. Empiezan con una uni­
+dad y cuentan. ;,,C6mo mide uno cosas mas pequeiias? ;,,C6mo subdivide una distan­
+cia? De la misma manera quc subdivitlimos el tiempo: tomamos una unidad menor 
+y contamos el nUmero de tales unidades que se necesitan para obtener la unidad 
+mayor. Asi podemos medir longitudes mils y mas pequeiias. 
+'*', (~~-m~~~~ 
+Pero no siempre entendemos por distancia lo que se obtiene contando sucesiva­
+una varilla metrica. Seria dificil medir la di~tancia horizontal entre las 
+dos montaii.as usando s6lo una varilla mCtrica. Hemos encontrado por 
+que la distancia pucdc mcdirse de otro modo: por triangu!aciOn. Aunque 
+que realmente estamos usando una definici(m diferentc de distancia, 
+cuando ambas pucden usarse. El espacio es mils o menos lo que Eucli­
+quc era, de modo que las dos tipos de definici6n de distancia concuer­
+hecho que concuerden en la tierra nos da confianza para usar la triangula­
+ci6n para distancia~ aUn mils grandes. Por ejemplo, pudimos usar la triangu!acibn 
+para medir la altura de! primer Sputnik. Encontramos que estaba aproximadamente 
+a 5 x 101 metros de altura. Con medicionc~ m3s cuidadosas puede medirse de la 
+misma manera la distancia a la luna. Dos 
+5·8
+
+telescopios en diferentes lugares sobre la tierra nos pueden dar Jos dos <ingulos que ne­
+cesitamos. De este modo se ha encontrado que la luna est8: a 4 x I 08 metros dedistancia. 
+No podemos hacer Jo mismo con el sol, o al menos nadie ha sido capaz todavia. 
+La exactitud con que se puede enfocar cierto punto del sol y con que se puede medir 
+imgulos no es lo suficientemente buena para pennitirnos medir la distancia al sol. 
+iC6mo podemos medir entonces la distancia al sol? Debemos inventar una amplia­
+ci6n de la idea de triangulaci6n. Medimos las distancias relativas de todos los plane­
+tas par observaciones astron6micas de las posiciones aparentes de Jos planetas y ob­
+tenemos un cuadro del sistema solar con las distancias propias relativas de cada 
+cosa, pero no con distancias absolutas. Se requiere, entonces, una medida absoluta 
+que ha sido obtenida de varios modos. Una de esas formas, que se creian hasta hace 
+poco ser la mas exacta, consisti6 en medir la distancia de la tierra hasta Eros, uno 
+de los pequei'tos planeloides que pasa cerca de la tierra de vez en cuando. Por tri­
+angulaci6n sabre este pequefio objeto, se pudo obtener la escala de medida requeri· 
+da. Conociendo las distancias relativas del resto, podemos, por ejemplo, indicar la 
+distancia de la tierra al sol o de !a tierra a Plut6n. 
+En los Ultlmos ai'tos ha habido un gran progreso en nuestro conocimiento de la 
+escala del sistema solar. En el Jet Propulsi6n Laboratory se midi6 muy exactamente 
+la distancia de la tierra a Venus mediante una observaci6n directa con radar. Esto, 
+por supuesto, es un tipo todavia diferente de distanda deducida. Decimos que cono­
+cemos la velocidad a que viaja la luz (y, por lo tanto, a la que viajan las ondas de 
+radar), y suponemos que es la misma velocidad en todas partes entre la tierra y Ve­
+nus. Enviamos la onda de radio, y contamos el tiempo hasta que la onda reflejada 
+regrese. A partir del tiempo inferimos una distancia, asumiendo que conocemos la 
+velocidad. Tenemos en realidad otra definici6n de una medida de distancia. 
+Fig. 5~ 5 la d1stanc1a de estrellas cerca-
+iCOmo medimos la d1stancia a una estrella que est<i mucho m;is Afonu-
+nadamente, podemos vo!ver a nuestro metodo de triangu!acilm. ya 
+su movimiento alrededor del so! nos da una gran linca de ba~c para los obje 
+tos que est<in fuera del sistcma solar. Si enfocamos un te!escopio hacia una estrella 
+en verano y en invierno, esperariamos determinar con precisi6n sufic1ente estos dos 
+iingulos para poder medir la distancia a una cstrel!a.
+
+Fig. 5-6. Un cUmulo de estrellas cerca del centro de nuestra galax1a Su distanc1a 
+a la tierra es 30.000 afios luz. o alrededor de 3 x 1 a2° metros. 
+lQue pasa si las estrel\as est<in demasiado lejos como para usar la triangulaciOn? 
+Los astrOnomos estil.n siempre inventando nuevos modos de medir distancias. Elias 
+encuentran, por ejemplo, que pueden estimar el tamaiio y bril!o de una estrella por 
+su color. Se ha medido el color y bri!!o de muchas estrellas cercanas --<:uyas distan­
+cias se conocen por triangu!aciOn~, y se ha encontrado que hay una pequei'ia re!aciOn 
+entre el color y el brillo propio de las estrellas (en la mayoria de los casos). Si uno 
+posee medidas de color de una estrella distante, se puede usar la relaciOn color-brillo 
+para determinar ~l brillo propio de la estre!!a. Midicndo lo brillantc quc nos parece 
+la estre!la desde la tierra (o tal vez deberiamos decir cuan diibil parece), podemos 
+calcular lo alejada que estil.. (Para cierto brillo propio, el brillo aparente decrece con 
+el cuadrado de la distancia.) Una hcrmosa confirmaciOn de lo correcto de este mC­
+todo para medir distancias estelares esta dado por los resultados obtenidos para gru­
+pos de estrellas, conocidos como cllmulos globulares. Una fotografia de un grupo tal 
+se muestra en la figura 5-6. SOio con mirar la fotografia uno se convence que estas es­
+trellas estti.n todas juntas. El mismo resultado se obtiene a partir de las medidas de 
+distancia por el mCtodo color-brillo. 
+Un estudio de muchos · cllmulos globulares da importantc informaci6n. Se 
+encuentra que hay una alta concentraci6n de tales cllmulos en cierta parte de! 
+cielo, y que la mayoria de ellas estil. aproximadamente a la misma distancia de 
+nosotros. Juntando esta informaciOn con otra cvidencia, concluimos que esta con­
+centraciOn de cUmulos marca el centro de nuestra galaxia. Conocemos entonces la 
+distancia al centro de la galaxia -alrededor de I 010 metros. 
+5-10
+
+Fig. 5-7. Una galaxia en esprral, coma la nuestra. Supornendo que su di.!imetro es 
+s1mtlar al de nuestra prop1a galaxia, podemos calcular su d1stanc1a a partir de su tamaiio 
+aparente. Esta a 30 millones de al'ios-luz (3 x 1023 metros) de la t1erra 
+Conociendo el tamaiio de nuestra propia galaxia. tenemos una clave para !a 
+medida de distancias aUn mayorcs --la distancia a otras galaxias--. La figura 5-7 
+es una fotografia de una galaxia. que tiene una forma muy parecida a la nuestra. 
+Probablemente es del mismo tamaiio tambit'.:n. (Otras evidencias apoyan la idea que 
+todas las galaxias son mils o menos del mismo tamaiio.) Si cs del mismo tamaiio que 
+la nueslra, podemos indicar su distancia. Medimos el imgulo que subtiende en el 
+cielo; conocemos su di:lmetro y calculamos su distancia jnuevamente triangulaciOn! 
+Fotografias de galaxias sumamente distantes se han obtenido recientemente con 
+el telescopio gigante de Palomar. La figura 5.8 muestra una. Se cree ahora que algu­
+nas de estas galaxias estitn alrcdcdor de medio camino dcl limite del universo -ale­
+jadas 1026 metros- jla mayor distancia que podemos contemplar~ 
+5-7 Distancias pequeiias 
+Pensemos ahora en distanclas menores. Subdividir el metro e~ faciL Sin mucha 
+dificultad podemos marcar mil espacio;, iguales, que juntas hacen un metro. Con 
+algo mii.s de dificultad, pero de una manera similar (usando un buen micrO'icopio), 
+podemos marcar mil subdivisiones igualcs dcl milimctro. para hacer una escala en 
+micrones (millonCsimas de metro). Es dificil continuar a escalas menores. porque no 
+podemos ··ver" objetos mas pequeiios que la longitud de onda de la luz visible (ccr· 
+ca de 5 x 10-7 metro~). 
+No necesitamos dctenernos, sin embargo. en lo 
+croscopio electr6nico podemos continuar cl proceso. 
+cala aUn menor, digamos 
+5-ll
+
+Fig. 5--8. El objeto mas distante a la fecha ( 1960), 3 C 295 en BOYE RO (serlalado 
+por la flecha). medido por el telescopio de 200 pulgadas. 
+hasta 10-x metros (Fig. 5-9). Mediante medidas indirectas -con una especie de trian­
+gulaci6n a escala microsc6pica- podemos continuar la medida a escalas mis y mis 
+pequeiias. Primero, a partir de una observaci6n de c6mo la luz de pequeii.a longitud 
+de onda (radiaci6n x) se refleja desde un conjunto de marcas de separaci6n cono­
+cida, determinamos la longitud de onda de las vibraciones de la luz. Entonces, a partir 
+de! diagrama de dispersi6n de esa misma luz por un cristal, podemos determinar la 
+posici6n relativa de los itomos en el cristal, obteniendo resultados que concuerdan 
+con el espacio at6mico determinado tambien 
+Fig. 5-9 Micrografia electr6nica de algunas molCculas de virus. La esfera "grande" 
+es para la calibraci6n y se sabe que tiene un di.3metro de 2 x 107 metros (2000 A). 
+5-12
+
+DISTANCIAS 
+ANOS-LUZ METROS 
+t 0~11 
+Borde del universo 
+10' 
+1024 
+A laga!ax1avecma mascercana IO' 
+1021 
+Al centro de nuestra galax1a 
+lo' 
+1018 
+Alaestrellamascercana 
+1015 
+Radio de !a 6rbita de Plut6n 
+1012 
+Al sol 
+10' A la luna 
+10' Altura de un Sputnik 
+10' Altura de una torre de TV 
+I Altura de un nii'io 
+10-3 
+Un grano de sal 
+10-6 
+Un virus 
+10-9 
+Radio de un atomo 
+10-12 
+10-1s Radio de un nUcleo 
+//)))}}}})/} 
+por metodo quimicos. De este modo encontramos que los <itomos tienen un di<imetro 
+de alrededor de 10-10 metros. 
+Existe una gran "laguna'" en los tamafios fisicos entre la dimensi6n at6m1ca tl­
+pica de alrededor de 10- 10 metros y las dimensiones nudeares de JO 15 metros, JO 5 
+veces menores. Para los tamafios nucleares un metodo distinto para medir tamailos 
+se hace conveniente. Medimos el cirea aparenle, r1, Hamada secci6n 1ransversa! efi 
+caz efectiva. Si deseamos el radio, lo obtenemos de a ""' nr1, puesto que el nllcleo 
+es aproximadamente esforico. 
+Pueden hacerse medidas de la secci6n eficaz nuclear hacienda pasar un ha.t de 
+particulas de alta energia a traves de una pequefia J<imina de material y observando 
+el nllmero de particulas que no la atraviesan. Estas particulas de alta energia se 
+abren camino sin dificultad a traves de la delgada nube de electrone~ y se detcndr<in 
+o deflectar<in s61o si chocan con el peso concentrado dcl nUcleo. Supongamos que 
+tenemos un trozo de material 
+5-13
+
+~ 
+~ 
+Fig. 5·--10. Vista imaginaria a traves 
+de un bloque de carbono de 1 cm de espesor 
+si s61o se observaran los nUcleos. 
+de un centimetro de espesor. Habra cerca de Hf capas at6micas. Pero los nUcleos son 
+tan pequei'ios que existe una pequeiia probabilidad de que algUn nU.cleo quede detnis 
+de otro. Podemos imaginar que una vista de la situaci6n grandemente ampliada -mi­
+rada a lo largo de! haz de particulas- se veria co mo la figura 5-10. 
+La oportunidad de que una pequeiiisima particula choque al nUcleo en la trave­
+sia es justamente el 3.rea total cubierta por !os pcrfiles de los nUcleos dividida por el 
+8.rea total en la figura. Supongamos que sabemos que en una ilrea A de nuestra l<i­
+mina de material ltay N iltomos (por supuesto, uno por cada nllcleo). Entonces el 
+.firea total "cubierta" por Jos nllcleos es Na! A. Ahora hagamos que el nllmero de 
+particulas de nuestro haz que llega a la lii.mina sea n1 y el nUmero que sale al otro 
+!ado sea n2 • La fracci6n que no atraviesa es (n1-nJ/n 1, quejustamente seril igual a 
+la fracci6n de! ilrea cubierta. Podemos obtener el radio del nUcleo de la ecuaci6n* 
+7rr2 = 17 = ~ n1 - n2. 
+N n, 
+A partir de un experimento asi encontramos que los radios de !os nUcleos son alre­
+dedor de 1 a 6 veces 10-15 metros. La unidad de longitud 10- 1 ~ metros se llama el 
+fermi, en honor a Enrico Fermi (1901-1958). 
+iQue encnntramos si vamos a distancias mils pequeiias'? iPodemos medir dis­
+tancias mcnores '! Tales prcguntas no se pueden responder a Un. Se ha sugerido que 
+e! misterio aim no resudto de las fuerzas nucleares puede ser desentraiiado sOlo me­
+diante alguna modificaci6n a nuestra idea de espacio, o medidas de tales distancias 
+pequeiias. 
+Puede pensarse que seria una buena idea usar alguna longitud natural como 
+nuestra unidad de longitud -·<ligamos el radio de la tierra o alguna fracci6n de e1. 
+S\: intent6 originalmente que el metro fuera ta! unidad y se defini6 como (71"/2) x 10-7 
+veces el radio de la tierra. No es conveniente ni muy exacto determinar la unidad de 
+longitud de este modo. Por mucho tiempo se ha convenido internacionalmente que el 
+metro sea definido como !a dlstancia entre dos marcas en una barra guardada en un 
+laboratorio especial en Francia. Miis reciemementc, se ha rcconocido que csta defini­
+ci(m no es tan precisa como para ser Util. ni tan permancnte o universal como uno de­
+searia. Se est:i considerando en la actualidad adoptar una nueva definiciOn, de acuerdo 
+con cierto nUmero (arbitrario} de longitudes de onda de una determinada linea cs­
+pectral. 
+ci(in de! tucal. si 
+rrecd6n por cl 
+frcnte a ellos. 
+s61o si el area cubicrta por los nUcleos cs una pcquciia frac­
+cs mucho menor quc 1. De otro modo debemos hacer una co­
+que a!gunos nUdeus estarim parcialmente tapados por Jos nU:cleos 
+5-14
+
+Las medidas de distancia y tiempo dan resultados que dependen de! observador. 
+Dos observadores que se muevan uno con respecto al otro no mediritn las mismas 
+distancias y tiempos, cuando miden lo que parece ser la misma cosa. Las distancias 
+e intervalos de tiempo tienen diferentes magnitudes, segUn el sistema coordenado 
+(o "marco de referenda") que se use para hacer las medidas. Estudiaremos este asun­
+to con mas detalle en un capitulo posterior. 
+Medidas perfectamente precisas de distancias o tiempos no estiLn permitidas por 
+las !eyes de la naturaleza. Hemos mencionado anterionnente que los errores en una 
+medida de la posici6n de un objeto deben ser al menos de! tamaiio de 
+Ax~ h/op, 
+donde hes una pequefia cantidad llamada "constante de Planck" y ti.pes el error en 
+nuestro conocimiento de! momentum (masa por velocidad) de! objeto, cuya posici6n 
+estamos midiendo. Se mencion6, ademits, que la indeterminaci6n en la medida de la 
+posici6n estii relacionada con la naturaleza ondulatoria de las particulas. 
+La relatividad de! espacio y el tiempo implica que la medida de! tiempo tiene tam­
+bien un error minima, dado de hecho por 
+lJ.t = h/tJ.E, 
+donde l!i.E es el error en nuestro conocimiento de la energia de! proceso, cuyo perio­
+do de tiempo estamos midiendo. Si deseamos saber mds precisamente cwindo ocurri6 
+algo, debemos saber menos acerca de qui sucedi6, ya que nuestro conocimiento de la 
+energia involucrada sera menor. La indeterminaci6n de! tiempo tambien estU relacio­
+nada con la naturaleza onduJatoria de la materia. 
+5-15
+
+6 
+Probabilidad

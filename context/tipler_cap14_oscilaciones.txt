@@ -1,0 +1,2039 @@
+Tema: Oscilaciones (Capítulo 14 — Física para la Ciencia y la Tecnología Vol. 1, Tipler-Mosca)
+
+396 | Capítulo 14 Oscilaciones 
+Equilibrio 
+i : A ——3 
+Figura 14.1 Cuerpo unido a un muelle que 
+descansa sobre una mesa sin rozamiento. Se mide el 
+desplazamiento x desde la posición de equilibrio. El 
+desplazamiento es positivo si el muelle se estira y 
+negativo si el muelle se comprime. 
+Figura 14.2 Una plumilla está sujeta a la masa 
+de un muelle y el papel se mueve hacia la izquierda. 
+Cuando el papel se mueve con velocidad constante, 
+la plumilla va dibujando el desplazamiento x en 
+función del tiempo ¢, (En este caso hemos 
+considerado x como positivo cuando el muelle se 
+comprime.) 
+14.1 Movimiento armónico simple 
+Un tipo corriente y muy importante de movimiento oscilatorio es el movimiento armónico 
+simple, como el de un cuerpo unido a un muelle, como puede verse en la figura 14.1. En el 
+equilibrio, el muelle no ejerce ninguna fuerza sobre el cuerpo. Cuando éste se ve desplazado 
+en una cantidad x de su posición de equilibrio, el muelle ejerce una fuerza —kx, que viene 
+dada por la ley de Hooke:! 
+F¿=-kx (14.1) 
+en donde k es la constante del muelle, característica de su rigidez. El signo menos indica que 
+se trata de una fuerza restauradora; es decir, se opone al sentido del desplazamiento respecto 
+al punto de equilibrio. Combinando la ecuación 14.1 con la segunda ley de Newton (F, = 
+ma,) se tiene 
+—kx = ma, 
+es decir 
+Stk ax. k a, = ER x (o an = = x) (14.2) 
+La aceleración es proporcional al desplazamiento y tiene sentido contrario. Esta es la carac- 
+terística que define el movimiento armónico simple y puede utilizarse para identificar siste- 
+mas que presentan esta clase de movimiento: 
+Siempre que la aceleración de un objeto sea proporcional a su desplazamiento pero con 
+sentido opuesto, el objeto se moverá con movimiento armónico simple. 
+CONDICIONES DEL MOVIMIENTO ARMÓNICO SIMPLE EN FUNCIÓN DE LA ACELERACIÓN 
+Como la aceleración es proporcional a la fuerza neta, siempre que la fuerza neta sobre un 
+objeto sea proporcional a su desplazamiento y con sentido opuesto, el objeto se moverá con 
+movimiento armónico simple. 
+El tiempo que emplea el objeto desplazado para realizar una oscilación completa alrede- 
+dor de su posición de equilibrio se denomina periodo 7. El recíproco es la frecuencia f, que 
+es el número de oscilaciones por segundo: 
+x f= 5 (14.3) 
+La unidad de frecuencia es el ciclo por segundo (ciclo/s), que recibe el nombre de hertz 
+(Hz). Por ejemplo, si el tiempo necesario para una oscilación completa es 0,25 s, la frecuen- 
+cia es 4 Hz. 
+La figura 14.2 muestra cómo se puede obtener experimentalmente x en función de t para 
+una masa sobre un muelle. La ecuación correspondiente a esta curva es 
+x=A cos (at + 6) (14.4) 
+POSICIÓN EN UN MOVIMIENTO ARMÓNICO SIMPLE 
+en donde A, œ y ô son constantes. El desplazamiento máximo Xmáx respecto a la posición de 
+equilibrio se denomina amplitud A. El argumento de la función coseno, œt + 6, se denomina 
+fase de movimiento y la constante 5 se denomina constante de fase. Esta constante corres- 
+ponde a la fase cuando t = 0. (Obsérvese que cos(wr + 6) = sen(wt + 6+ 7/2), por lo tanto, 
+expresar la ecuación como una función coseno o seno depende simplemente de la fase de la 
+oscilación en el momento que elijamos como ¢ = 0.) Si tenemos sólo un sistema oscilante 
+siempre podemos elegir 1 = 0 de modo que 6 = 0. Si tenemos dos sistemas oscilantes con 
+igual amplitud y frecuencia, pero diferente fase, podemos elegir ô= 0 para uno de ellos. Las 
+ecuaciones de los dos sistemas son entonces 
+x, =A cos (0) 
+| La ley de Hooke se ha introducido en el capítulo 4, sección 4.
+
+x, =A cos (0t +0) 
+Si la diferencia de fase des 0 ó un número entero de veces 27, entonces x, = x, y se dice que 
+los sistemas están en fase. Si la diferencia de fase des 7 0 un número entero impar de veces 
+Tr, entonces x, =—x, y se dice que los sistemas están fuera de fase en 180°. 
+Podemos demostrar que la ecuación 14.4 es una solución de la ecuación 14.2 derivando x 
+dos veces respecto al tiempo. La primera derivada de x es la velocidad v: 
+— Ao sen (wt + 6) (14.5) dx 
+dt 
+VELOCIDAD EN EL MOVIMIENTO ARMONICO SIMPLE 
+Derivando la velocidad respecto al tiempo se obtiene la aceleración: 
+om > = a = -@A cos (wt + ô) (14.6) 
+Sustituyendo x por A cos(wt+0)(véase la ecuación 14.4) se obtiene 
+a=-@x (14.7) 
+ACELERACION EN EL MOVIMIENTO ARMONICO SIMPLE 
+Comparando a =-—«*x con a = —(k/m) x (ecuación 14.2), vemos que x =A cos (@ + ô) es una 
+solución de la ecuación 14.2 (que puede escribirse de la forma d*x/dt* = —(k/m) x) si 
+k . O= ln (14.8) 
+La amplitud A y la constante de fase 5 pueden determinarse a partir de la posición inicial x y 
+la velocidad inicial v, del sistema. Haciendo r= 0 en x =A cos (0x + ô) se obtiene 
+Xo =A cos 6 (14.9) 
+14.1 Movimiento armónico simple | 397 
+El balanceo debido a la acción de vientos fuertes en el 
+edificio Citicorp de Nueva York se reduce mediante el 
+amortiguador de la fotografía, instalado en uno de los 
+pisos más altos. El amortiguador consiste en un bloque 
+de 400 toneladas que está acoplado al edificio mediante 
+un muelle cuya constante se elige de forma que la 
+frecuencia natural del sistema muelle-bloque sea la 
+misma que la frecuencia natural de balanceo del 
+edificio. Si el viento hace oscilar el edificio, el oscilador 
+y el edificio oscilan con una diferencia de fase de 180°, 
+con lo cual se reduce la oscilación.
+
+398 | Capítulo 14 Oscilaciones 
+El astronauta Alan L. Bean midiendo la masa de su 
+cuerpo durante el segundo viaje del Skylab. Lo hace 
+sentándose en un asiento atado a un muelle y 
+oscilando adelante y atrás. La masa total del 
+astronauta más la del aparato está relacionada con 
+su frecuencia de vibración por la ecuación 14.12. 
+De igual modo, haciendo 1= 0 en v = dx/dt = —A@ sen (wt + 0) resulta 
+Vp =-A@sen O (14.10) 
+Estas ecuaciones pueden resolverse para A y den función de xy y vo. 
+El periodo T es el tiempo mínimo para el que se cumple la relación 
+x(t) = x(t+T) 
+para cualquier f. Teniendo en cuenta esta relación y la ecuación 14.4 se llega a 
+A cos [@(t+T) + ô] 
+A cos (@t+ 6+ @T) 
+A cos (wt + ô) 
+Las funciones coseno (y seno) repiten su valor cuando la fase se incrementa en 27, de modo 
+que 
+La constante @ se denomina frecuencia angular. La unidad es el radián por segundo y sus 
+dimensiones son la inversa del tiempo, las mismas que la velocidad angular, que también se 
+designa por @. Sustituyendo 2/7 por @ en la ecuación 14.4 se obtiene 
+ot A cos( 277 + ô) 
+Trabajando en esta relación se ve que cada vez que f aumenta en 7, la fase crece 27 y, por lo 
+tanto, esto indica que se ha completado un ciclo completo del movimiento. 
+La frecuencia es la recíproca del periodo: 
+be nin 2 (14.11) er Fi 
+DEFINICION —FRECUENCIA, PERIODO Y FRECUENCIA ANGULAR 
+Como @ = ./k/m, la frecuencia y el periodo de un objeto ligado a un muelle están relacio- 
+nados con la constante de fuerza k y la masa m por 
+io Je f= a= Am (14.12) 
+FRECUENCIA Y PERIODO DE UN OBJETO LIGADO A UN MUELLE 
+La frecuencia crece cuando aumenta k (rigidez del muelle) y disminuye cuando aumenta la 
+masa. 
+EJEMPLO 14.1 | Movimiento de un bote sobre las olas 
+Un bote se balancea arriba y abajo. El desplazamiento vertical del bote y viene dado por 
+2554 6 y= (2 m)cos( =t + z) 
+(a) Determinar la amplitud, frecuencia angular, constante de fase, frecuencia y periodo del 
+movimiento. (b) ¿Dónde se encuentra el bote cuando ¢ = 1 s? (c) Determinar la velocidad y la 
+aceleración en cualquier tiempo ¢. (d) Calcular los valores iniciales de la posición, la velocidad 
+y la aceleración del bote.
+
+14.1 Movimiento armónico simple 
+Planteamiento del problema Para determinar las magnitudes solicitadas en (a) comparamos 
+la ecuación del movimiento 
+y. = (12 m)eos{ 31 pe 
+con la ecuación estándar del movimiento armónico simple (ecuación 14.4). La velocidad y la acele- 
+ración se determinan derivando y(1). 
+(a) 1. Comparar la ecuación correspondiente al desplazamiento vertical 
+del bote con la ecuación 14.4, y =A cos (cor + ô), para deducir A. @ 
+y O: 
+2. La frecuencia y el periodo se deducen de 6: 
+(b) Hacer 1 = | s para determinar la posición del bote: 
+(c) La velocidad y la aceleración se obtienen derivando una y dos veces 
+la posición respecto al tiempo: 
+(d) Hacer 1 = 0 para determinar yo, V,o Y 4,0: 
+A =|1.2m, @ =|1/2 rad/s, = 
+fiz 2 = [0.0796 Hz] T = > =[12.6s 
+y = (1,2 m) cos ix (1 s)+2] =p.624m] 
+v, = A = fia cos( wr + ô)] 
+= —0A sen( wt + ô) 
+= 012 m) sen (5 1+2) 
+=|-(0.6 m/s) sen (+ +2) 
+a= = = 1-04 sen(@r + 6)] 
+= -@A cos(wrt + ô) 
+= {t)a2 m) cos = 1+E) 
+Lommel Yo = (12m) cos € =[104 mo] 
+vo = —(0,6 m/s) sen 5 =£.0,300 m/s 
+a, = —(0,3 m/s?) cos = [0,260 mis?) 
+Ejercicio Un objeto de 0.8 kg está sujeto a un muelle de constante de fuerza k = 400 N/m. Deter- 
+minar la frecuencia y el periodo del movimiento del objeto cuando se desplaza del equilibrio. 
+(Respuesta f=3,56 Hz, T=0.281 s.) 
+La figura 14,3 muestra dos masas idénticas sujetas a muelles iguales que descansan 
+sobre una superficie sin rozamiento. Un muelle se estira 10 cm y el otro 5 cm. Si se dejan 
+en libertad al mismo tiempo, ¿cuál de los dos cuerpos alcanza primero la posición de equi- 
+librio? 
+Según la ecuación 14.12, el periodo depende sólo de k y m, pero no de la amplitud. 
+Como k y m son los mismos para ambos sistemas. los periodos son iguales. Por lo tanto, 
+los objetos alcanzan la posición de equilibrio al mismo tiempo. El segundo objeto tiene 
+que recorrer una distancia doble a la del primero para alcanzar el equilibrio, pero tam- 
+bién posee una velocidad media doble. La figura 14.4 muestra un esquema de las funcio- 
+Equilibrio 
+nes de posición de los dos objetos. Esto ilustra una propiedad general importante del idénticos. 
+movimiento armónico simple: 
+10 cm 
+Figura 14.3 Dos sistemas masa-muelle 
+399
+
+400 Capitulo 14 Oscilaciones 
+10 Objeto 2 
+5 Objeto 1 
+-10 
+Figura 13.4 Posición x en función de t para los 
+sistemas de la figura 14.3. Ambos alcanzan la 
+posición de equilibrio al mismo tiempo. 
+En el movimiento armónico simple, la frecuencia y el periodo son independientes de la 
+amplitud. 
+El hecho de que la frecuencia del movimiento armónico simple sea independiente de la 
+amplitud tiene importantes consecuencias en muchos campos. En música, por ejemplo, sig- 
+nifica que el tono (que corresponde a la frecuencia) de una nota que se toca en un piano no 
+depende de la fuerza con que se toca la nota (es decir, de la intensidad de la misma que 
+corresponde a la amplitud).* Si las variaciones de amplitud tuviesen un gran efecto sobre la 
+frecuencia, los instrumentos musicales no serían armoniosos. 
+EJEMPLO 14.2 | un objeto que oscila 
+Un objeto oscila con frecuencia angular @ = 8,0 rad/s. En ¢ = 0, el objeto se encuentra en x = 4 
+em con una velocidad inicial v = —25 cm/s. (a) Determinar la amplitud y la constante de fase 
+para este movimiento. (b) Escribir x en función del tiempo. 
+Planteamiento del problema La posición y velocidad iniciales nos proporcionan dos ecuacio- 
+nes a partir de las cuales se determinan la amplitud A y la constante de fase 6. 
+(a) 1. La posición inicial y la velocidad están relacionadas con la ampli- * = A cos(@r + ô) 
+tud y con la constante de fase. La posición viene dada por la ecua- y 
+ción 14.4 y la velocidad se calcula derivando con respecto del idx 
+tiempo: tee -wA sen( wi + 5) 
+2. Cuando r=0, la posición y la velocidad valen: Xy = Å cos ô y Vo = —@A sen 6 
+3. Dividir estas ecuaciones para eliminar A: en ô = -01g ő Xp A cos 6 
+V, 
+4. Reemplazando por los valores numéricos se obtiene ĝ: d= + o 
+por lo tanto 
+= arcte( 2 
+as ( =) 
+o rad 
+f s ar í — Fo _ 40cm 5. La amplitud puede determinarse utilizando la ecuación para xy0 A = eed cos 0.663 
+Vo- Aquí utilizamos la de xp: 
+(b) Comparando con la ecuación 14.4 resulta x: x =|(5,08 cm) cos[(8,0 s-')r + 0,663] 
+Cuando la constante de fase es 6= 0, las ecuaciones 14.4, 14.5 y 14.6 se convierten en 
+x=Acos ft (14.13a) 
+j= — 0A sen wt (14.13b) 
+y 
+a=-@A cos wt (14.13c) 
+Estas funciones vienen representadas en la figura 14.5. 
+' En muchos instrumentos musicales existe una ligera dependencia de la frecuencia con la amplitud. El tono de la lengileta 
+de un oboe, por ejemplo, depende de lu fuerza con que se sople el instrumento porque la vibración no es exactamente 
+armónica simple. Sin embargo, este efecto puede ser corregido por un músico experto.
+
+14.1 Movimiento armónico simple | 401 
+T 2 BE 4 2 T 
+Figura 14.5 Gráficos de x, v y a en función del tiempo 
+t para ô= 0. En r=0, el desplazamiento es máximo, la 
+velocidad es cero y la aceleración es negativa e igual a 
+—aFA. La velocidad se hace negativa cuando el objeto se 
+mueve hacia atrás buscando su posición de equilibrio. 
+Después de un cuarto de periodo (+= 7/4), el objeto está 
+en equilibrio, x= 0, a =0 y la velocidad alcanza su valor 
+máximo @A. En t = 7/2, el desplazamiento es —A, la 
+velocidad es de nuevo cero y la aceleración + (YA. 
+Enr=37/4,x=0,a=0yv=+0M4. 
+EJEMPLO 14.3 | Objeto ligado a un muelle ¡INTÉNTELO USTED MISMO! 
+Un objeto de 2 kg se sujeta a un muelle como indica la figura 14.1. La constante de fuerza del 
+muelle es k = 196 N/m. El objeto se mantiene a una distancia de 5 cm de la posición de equili- 
+brio y se deja en libertad en el tiempo ¢ = 0. (a) Determinar la frecuencia angular «, la frecuen- 
+cia f y el periodo 7. (b) Expresar x en función del tiempo. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+(a) 1. Calcular utilizando @ = ./k/m. w =[9.90 rad/s | 
+2. Utilizar este resultado para determinar f y T. ÉS T =(0.635 s ] 
+3. Determinar A y Óa partir de las condiciones iniciales, A = 5em. d=0 
+(b) Expresar x(t) utilizando los resultados de A, @y ô. x =[(5 cm) cos (9,905 | 
+EJEMPLO 14.4 | Velocidad y aceleración de un objeto en un muelle 
+Considerar un objeto ligado a un muelle cuya posición viene dada por la ecuación x = 
+(5 cm) cos (9,90 s~ £). (a) ¿Cuál es la velocidad máxima del objeto? (b) ¿En qué instante se 
+alcanza por vez primera esta velocidad máxima? (c) ¿Cuál es la aceleración máxima del 
+objeto? (d) ¿En qué instante se alcanza por vez primera esta aceleración máxima? 
+Planteamiento del problema Como el objeto se deja libre desde el reposo, 6= 0 y la veloci- 
+dad y la aceleración vienen dadas por las ecuaciones 14.13a, b y c. 
+(a) 1. La posición se obtiene de la ecuación 14.13a, con 6=0.Lavelo- x = A cos wt 
+cidad se obtiene derivando con respecto del tiempo: por lo tanto 
+LAR v= ig @A sen wt 
+2. La velocidad máxima tiene lugar cuando Isen œl = 1: |v] = @Alsen æt| 
+y entonces 
+[vlimi = MA = (9,90 rad/s)(5 cm) =|49,5 cm/s 
+(b) 1. El lsen wri = 1 por vez primera se da cuando œt = 7/2: [sen œ| = 1 > 01 = = = 
+2. Despejar t cuando wr = 7/2: t=“ =— __ 2[0.1595
+
+402 Capitulo 14 Oscilaciones 
+(c) 1. Determinar la aceleración derivando la velocidad, obtenida enel a = — = —@A cos wt 
+paso | del apartado (a): 
+2. La aceleración máxima corresponde a cos (91 =— 1: amix = OA = (9,90 rad/s)(5 cm) 
+=1490) cm/s ig 
+(d) La aceleración máxima tiene lugar cuando Icos @fl=1,lo que ocurre ©! = A 
+cuando @r = 0, m, 27, ...: 
+Dat. Ni 
+(a) 
+x=Acos@ 
+(b) 
+Figura 14.6 Una particula se mueve en una 
+trayectoria circular con velocidad constante. (a) La 
+componente x de la posición describe un movimiento 
+armónico simple, y (b) la componente x de la 
+velocidad describe la velocidad de un movimiento 
+armónico simple 
+Las burbujas de la espuma que genera una hélice en _ 
+movimiento por el agua producen un patrón 
+sinusoidal. 
+y despejando t 
+—= Za ES ERES > =: ş pe DLI 0,317 s 
+ee 
+2A2n/T) 4 E 
+El máximo del módulo de la aceleración se da cuando (of = 0, 7, 27, ... que corresponde a 1=0, E T, 2 2 
+2 
+Movimiento armónico simple y movimiento circular 
+Existe una relación entre el movimiento armónico simple y el movimiento circular con velo- 
+cidad constante. Consideremos una partícula que se mueve con una velocidad cuyo módulo 
+v es constante sobre una circunferencia de radio A como se indica en la figura 14.6a. El des- 
+plazamiento angular de la partícula respecto al eje x viene dado por 
+0 = w1+0 (14.14) 
+en donde des el desplazamiento angular en el instante 1=0 y œ= v/A es la velocidad angular 
+de la partícula. La componente x de la posición de la partícula viene dada por 
+x = À cos @ = A cos (01 + ô) 
+que coincide con la ecuación 14.4 del movimiento armónico simple. 
+La proyección sobre un diámetro de una partícula que se mueve con movimiento circular 
+uniforme es un movimiento armónico simple (figura 14.6). 
+La velocidad de una partícula que se mueve sobre una circunferencia es r@, donde r es el 
+radio. En el caso de la partícula de la figura 14.6b, r = A, por lo que su velocidad es Aw. La 
+proyección del vector velocidad sobre el eje x da v, = —v sen 6. Sustituyendo los valores de v 
+y de O se obtiene la ecuación 
+v, = —0A sen 0 = -wA sen( 01 + ð) x 
+que coincide con la ecuación 14.5 del movimiento armónico simple. 
+14.2 Energía del movimiento armónico simple 
+Cuando un objeto oscila con movimiento armónico simple, las energías cinética y potencial 
+del sistema varían con el tiempo. Su suma, la energía total E = E. + U, es constante. Consi- 
+deremos un objeto a una distancia x del equilibrio, sobre el que actúa una fuerza de restitu- 
+ción —kx, La energía potencial del sistema es 
+U = tkx?
+
+14.2 Energía del movimiento armónico simple 403 
+Esta es la ecuación 6.21. Para un movimiento armónico simple, x = A cos (Of + ô) y sustitu- 
+yendo en la ecuación anterior 
+U = kA? cos? (or + ô) (14.15) 
+ENERGIA POTENCIAL DEL MOVIMIENTO ARMONICO SIMPLE 
+La energia cinética del sistema es 
+en donde m es la masa del objeto y v su velocidad. En el movimiento armónico simple, v, = 
+-Aw sen (wr + ô). Sustituyendo resulta 
+E.= l 
+e 2 mA?2@ sen? (at + 8) 
+Teniendo en cuenta que @ = k/m resulta 
+E, = $kA? sen? (at + ô) (14.16) 
+ENERGIA CINETICA DEL MOVIMIENTO ARMONICO SIMPLE 
+La energía mecánica total es la suma de las energías potencial y cinética: 
+Epa = U+E, = SkA? cos? (or + 6) + 3kA? sen? ((w1 + ô) 
+= Ika? [cos? (wr + 6) + sen? (wt + ô)] 
+Como sen? (œt + 9) + cos’ (at + d) = | 
+Ev = ¿KA? (14.17) 
+ENERGÍA TOTAL DEL MOVIMIENTO ARMÓNICO SIMPLE 
+Esta ecuación nos enseña una importante propiedad general del movimiento armónico simple: 
+La energía total del movimiento armónico simple es proporcional al cuadrado de la amplitud. 
+Para un objeto en su desplazamiento máximo, la energía total es toda energía potencial. 
+Cuando el óbjeto se mueve hacia su posición de equilibrio, la energía cinética del sistema 
+crece y la energía potencial disminuye. Cuando atraviesa la posición de equilibrio, la veloci- 
+dad del objeto es máxima, la energía potencial del sistema es cero y la energía total es igual 
+a la energía cinética. 
+Cuando el objeto sobrepasa el punto de equilibrio, su energía cinética comienza a decre- 
+cer y la energía potencial del sistema crece hasta que el objeto de nuevo se detiene momentá- 
+neamente en su desplazamiento máximo (ahora en el sentido opuesto). En todo momento, la 
+suma de las energías potencial y cinética es constante. La figura 14.7 muestra los gráficos de 
+U y E, en función del tiempo. Ambas curvas tienen la misma forma, excepto que cuando una 
+es cero, la otra pasa por un máximo. Sus valores medios en uno o más ciclos son iguales y 
+como U + E, = E, estos valores medios vienen dados por 
+= E Sm =3E (14.18) m 
+En la figura 14.8 se ha representado la energía potencial U en función de x. La energía total 
+Ewa €$ Constante y está representada por una línea horizontal. Esta línea corta a la curva de 
+| i | 0 | l 
+i | H 1 I ti | | | Ta) ee ora | I | | I 1 ' [j [i 
+{ | RAN E, | t = i TA 
+EF, | oe 
+-=H in 
+l p 
+0 ; a 
+(c) 
+Figura 14.7 Gráficos de x, U y E, en función de t. 
+Figura 14.8 Función de la energía potencial 
+U = į kx? enel caso de un objeto de masa m unido 
+a un muelle de masa despreciable de constante k. 
+La línea horizontal representa la energía mecánica 
+total Esta; para una amplitud A. La energía cinética 
+E, está representada por la distancia vertical E, = 
+Evora — U. Como Esgra 2 U, el movimiento está 
+restringido a -A < x $ +A.
+
+404 | Capitulo 14 Oscilaciones 
+la energía potencial en x=A y x =—A. Estos son los puntos en que los objetos, en su oscila- 
+ción, cambian el sentido de la velocidad y vuelven hacia la posición de equilibrio. Dado que 
+U < E;ota el movimiento está restringido aA < x < +A. 
+EJEMPLO 14.5 | Velocidad y energía de un objeto que oscila 
+Un objeto de 3 kg ligado a un muelle oscila con una amplitud de 4 cm y un periodo de 2 s. (a) 
+¿Cuál es la energía total? (b) ¿Cuál es el módulo máximo de la velocidad del objeto? (c) ¿En 
+qué posición x, el módulo de velocidad es igual a la mitad de su valor máximo? 
+Planteamiento del problema (a) La energía total puede determinarse a partir de la amplitud del 
+movimiento y de la constante de fuerza del muelle, que puede calcularse mediante la masa del objeto y 
+el periodo. (b) La velocidad máxima tiene lugar cuando la energía cinética es igual a la energía total. 
+(c) Mediante el principio de conservación de la energía podemos relacionar la posición con el módulo 
+la velocidad. 
+(a) 1. Expresar la energía total £ en función de la constante de fuerzak E = KA? 
+y la amplitud A: 
+2. La constante de fuerza se relaciona con el periodo y la masa: k=m0? = mF) 
+3. Sustituir los valores proporcionados para determinar E: E = !kA? = tm +) 2 
+y 2nV aunt = = 1¢9kg)(32) (0.04 m? [2371023 
+(b) Para determinar vmáx igualar la energía cinética con la energía total y EV = E 
+despejar v: con lo cual 
+RE [237x 107) Vingx = z = 3 kg =| 0,126 m/s 
+(c) 1. La conservación de la energía relaciona la posición x con la velo- E = mv? - ka? 
+cidad v: 
+2. Sustituir y = ¿Vs y despejar x). Es conveniente determinarxen E = ¿m(2VYmgx) +3kx? 
+función de E y a partir de E = KA? deducir una expresión de x en 
+función de A: = mui) +3ka] = LE + tka? 
+Ejercicio Calcular œ para este ejemplo y determinar Vmáx a partir de la expresión Vmix = @A. 
+(Respuesta W=3,14 rad/s, Ving, = 0.126 m/s.) 
+Ejercicio Un objeto de masa 2 kg está sujeto a un muelle de constante de fuerza 40 N/m. El objeto 
+se mueve a 25 cm/s cuando pasa por la posición de equilibrio. (a) ¿Cuál es la energía total del 
+objeto? (b) ¿Cuál es la amplitud del movimiento? (Respuesta (a) E. = imviy = 0,0625J, 
+(b) A = „2E w/k = 5,59 cm.) à 
+*Movimiento general próximo al equilibrio 
+En general se da movimiento armónico simple cuando una partícula se desplaza ligeramente 
+de su posición de equilibrio estático. La figura 14.9 es un gráfico de la energía potencial U en 
+función de x para una fuerza que tiene una posición de equilibrio estable y otra de equilibrio 
+inestable. Como se vio en el capítulo 6, el máximo en x, de la figura 14.9 corresponde al
+
+equilibrio inestable, mientras que el mínimo en x, corresponde al equilibrio estable, Cual- 
+quier curva continua que presente un mínimo como el de la figura 14.9 puede aproximarse 
+cerca del mínimo por una parábola. La curva de trazos de la figura es una parábola que 
+aproximadamente corresponde a la curva de energía potencial cerca del punto de equilibrio 
+estable. La ecuación general de una parábola que tiene un mínimo en el punto x, puede 
+expresarse en la forma 
+U = A+B(x-x/P (14.19) 
+en donde A y B son constantes. La constante A es el valor de U en la posición de equilibrio 
+x= x. La fuerza está relacionada con la curva de la energía potencial por F, = —dU/dx. Por 
+lo tanto, 
+Si hacemos 2B = k, esta ecuación se reduce a 
+ES, = ES = —k(x-x)) (14.20) 
+De acuerdo con la ecuación 14.20, la fuerza es proporcional al desplazamiento y está diri- 
+gida en sentido opuesto, de modo que el movimiento es armónico simple. En la figura 14.9 
+se representa la función energía potencial del sistema U(x), que tiene una posición de equili- 
+brio estable en x = x}. La figura 14.10 muestra, en cambio, una función energía potencial que 
+tiene una posición de equilibrio estable en x = 0. El sistema que responde a una función 
+como la que se representa en esta figura es una partícula pequeña de masa m que oscila en el 
+fondo de un cuenco con forma esférica. 
+14.3 Algunos sistemas oscilantes 
+Objeto colgado de un muelle vertical 
+Cuando un objeto cuelga de un muelle vertical, además de la fuerza del muelle hay una 
+fuerza vertical adicional hacia abajo que es el peso mg (figura 14.11). Si se elige la dirección 
+hacia abajo como el sentido positivo del eje y, la fuerza del muelle sobre el objeto es —ky, 
+donde y es el alargamiento del muelle. La fuerza neta sobre el objeto es 
+E = —ky+mg (14.21) 
+Esta ecuación puede simplificarse definiendo una nueva variable y” = y — yg, donde yg = mg/k 
+es la longitud que se alarga el muelle cuando el objeto está en equilibrio. Sustituyendo y = 
+y” + yo nos lleva a 
+SF, =-—k(y +10) +mg 
+Pero kyo = mg. por lo que 
+(14.22) EF, = -ky’ 
+La segunda ley de Newton (EF, = ma,) nos lleva a 
+14.3 Algunos sistemas oscilantes | 405 
+U Parábola que se aproxima a U cerca 
+del punto de equilibrio estable 
+x) Xa 
+Figura 14.9 Gráfico de U en función de x para 
+una fuerza que tiene una posición de equilibrio 
+estable (x) y otra de equilibrio inestable (x). 
+Función energía 
+tencial UN) potencial real 
+Parabólica 
+ajustada 
+Figura 14.10 Dibujo de U respecto a x para una 
+partícula pequeña que oscila en el fondo de un 
+cuenco con forma esférica. 
+Posición de 
+equilibrio 
+con el muelle 
+sin masa 
+Posición de equilibrio con 
+la masa m. El muelle se 
+se estira yy =meg/k 
+El objeto oscila 
+alrededor de la posición 
+de equilibrio con un 
+desplazamiento y' = y — yy 
+Figura 14.11 El problema de una masa colgada 
+de un muelle vertical se simplifica si el 
+desplazamiento (y”) se mide desde la posición de 
+equilibrio del muelle conectado a la masa.
+
+406 | Capítulo 14 Oscilaciones 
+EJEMPLO 14.6 | Muelles de papel 
+Sin embargo, y = y” + yo, donde yy = mg/k es constante. Asi, d*y/df = d?y'/dÉ, por lo tanto 
+dy’ -ky = m y dt? 
+o sea 
+dy A aay 
+dt? m 
+que es la ecuación 14.2 con y” reemplazando a x. La solución de esta ecuación nos es fami- 
+liar: 
+y’ = A cos (@t + ô) 
+en donde @ = Jkim. 
+Así pues, el efecto de la fuerza gravitatoria mg consiste meramente en desplazar la posi- 
+ción de equilibrio desde y = 0 hasta y” = 0. Cuando el objeto se pasa de su posición de equili- 
+brio una cantidad y”, la fuerza neta es —ky”. El objeto oscila respecto a la posición de 
+equilibrio con una frecuencia angular @ = ./k/m, la misma frecuencia con la que se move- 
+ría un objeto atado a un muelle horizontal. 
+Si una fuerza realiza un trabajo que es independiente del camino se dice que la fuerza es 
+conservativa. La fuerza de la gravedad y la fuerza ejercida por un muelle son conservativas, 
+y la suma de estas fuerzas (ecuaciones 14.21 y 14,22) también lo es. La energía potencial U 
+asociada con la suma de estas fuerzas es el trabajo realizado, con signo negativo, más una 
+constante de integración arbitraria. Es decir, 
+U = -f-k dy’ = 
+en donde la constante de integración Up es el valor de U en la posición de equilibrio (y” = 0). 
+Por lo tanto, 
+ky? + Uo (14.23) Nie 
+jPONGALO EN SU CONTEXTO! 
+Confeccionamos adornos para una fiesta con muelles de papel. Construimos un muelle de 
+papel del cual cuelga una hoja de papel de color que lo alarga 8 cm. ¿Cuántas hojas de papel 
+de color hay que colgar del muelle para que oscile con la frecuencia de 1 ciclo/s? 
+Planteamiento del problema La frecuencia depende del cociente entre la constante del muelle y 
+la masa que cuelga de él (ecuación 14.12), y no sabemos ni una cosa ni otra. Sin embargo, a partir de la 
+información disponible se obtiene el valor de este cociente usando la ley de Hooke (ecuación 14.1). 
+k 
+1. Escribir la frecuencia en función de la constante k y de la masa M f = aa EN JE 
+(ecuación 14.12), donde M es la masa de N hojas de papel. Tenemos 5 
+que determinar N: 
+2. Cuando se cuelga una hoja de papel de masa m el muelle se alarga una ky, = mg yentonces — = 
+distancia yg = 8 cm: 
+3. La masa de N hojas de papel se calcula multiplicando por N la masade M = Nm 
+una hoja m: 
+4. Se despeja k/M usando los resultados de los pasos 2 y 3: Ps: oe
+
+14.3 Algunos sistemas oscilantes 
+k 
+5. Se sustituye el resultado del paso 4 en el resultado del paso 1 y se des- f = 2 Niy TNR 4 27 27N N yo peja N: 
+por lo tanto 
+9,81 m/s? N= gio = ———— =3, 
+(2af) yo 41?(1 Hz)*(0,08 m) ai 
+Hay que colgar tres hojas de papel de color 
+Observación Obsérvese que en este ejemplo no hemos usado el valor de m o de k, ya que la fre- 
+cuencia depende del cociente k/m que resulta ser g/yy. Las unidades también salen bien, ya que 1 Hz = 
+1 ciclo/s, y un ciclo es una unidad sin dimensiones. 
+Ejercicio ¿Cuánto se alarga el muelle de papel cuando un adorno hecho con tres hojas de papel 
+colgando está en equilibrio? (Respuesta 24 cm) 
+EJEMPLO 14.7 | Una bolita de abalorio sobre un bloque 
+Un bloque descansa sobre un muelle y oscila verticalmente con una frecuencia de 4 Hz y una 
+amplitud de 7 cm. Una bolita de abalorio se sitúa sobre el bloque oscilante justo cuando éste 
+alcanza su punto más bajo. Suponiendo que la masa de la bolita es tan pequeña que no afecta 
+el movimiento del bloque, ¿a qué distancia de la posición de equilibrio del bloque la bolita 
+pierde contacto con éste? 
+Planteamiento del problema Las fuerzas que actúan sobre la bola son su peso mg hacia abajo y 
+y la fuerza normal ejercida por el bloque hacia arriba. El módulo de esta fuerza normal cambia con 
+las variaciones de la aceleración. A medida que el bloque se mueve hacia arriba, por encima de la 
+posición de equilibrio, su aceleración y la de la bolita van hacia abajo y aumentan en módulo. 
+Cuando la aceleración alcanza el valor g, la fuerza normal es cero. Si la aceleración hacia abajo a la 
+que está sometido el bloque supera hacia abajo este valor, la bolita pierde contacto con el bloque. © » 
+1. Dibujar un esquema del sistema (figura 14.12). Incluir el eje de coor- Figura 14.12 
+denadas y con el origen situado en la posición de equilibrio y con la 
+dirección positiva dirigida hacia abajo: 
+2. Buscar el valor de y para el cual la aceleración es g dirigida hacia a, = -@°y 
+abajo. Usar la ecuación 14.7: g = -wy 
+3. Sustituir 27f por w y despejar y: g = 2af) y 
+por lo tanto 
+pi. 98l mis? y= Onf)  [2r(4Hz)P 
+-0,0155 m 
+Comprobar el resultado La bola se separa del bloque cuando y es negativa, lo cual se produce 
+cuando la bolita está por encima de la posición de equilibrio, como era de esperar. 
+EJEMPLO 14.8 | Energia potencial del sistema Tierra-muelle 
+Un objeto de 3 kg alarga en 16 cm la longitud de un muelle cuando cuelga de él verticalmente 
+y está en equilibrio. El muelle se estira 5 cm más desde su posición de equilibrio y se deja el 
+objeto en libertad. Sea U la energía potencial total del sistema muelle-objeto-planeta. Determi- 
+nar U cuando la separación de la masa respecto de su posición de equilibrio es máxima (a) si U = 0 
+en la posición de equilibrio y (b) si U = 0 cuando el muelle está sin deformar. | 
+Planteamiento del problema (a) Con U =0 en la posición de equilibrio, la energía potencial 
+total U es 1/2ky?, donde y” es el desplazamiento de la posición de equilibrio. (b) Si U = 0 cuando el 
+muelle está sin deformar, la energía potencial total es la energía potencial del muelle más la energía 
+potencial gravitatoria. 
+407
+
+408 | Capítulo 14 Oscilaciones 
+(a) 1. 
+(b) 1. 
+Dibujar tres esquemas del sistema, uno con el muelle sin defor- 
+mar, otro con el muelle deformado 16 cm y un tercero con el mue- 
+lle alargado 21 cm (figura 14.13). 
+Si la dirección positiva de y’ es la dirección hacia abajo y si y’ = 0 
+en la posición de equilibrio, la energía potencial total vale (ecua- 
+ción 14.23) 
+Para determinar U primero hay que saber cuánto vale la constante 
+del muelle k. Cuando hay equilibrio la fuerza hacia arriba del 
+muelle iguala la fuerza hacia abajo de la gravedad. Utilizando este 
+hecho, calcular el valor de k: 
+kyo = mg 
+por lo tanto 
+ea me (3 kg)(9,81 m/s?) = 184 N/m 
+Yo 0,16 m 
+Sustituyendo k en el resultado del paso | y despejando U se 
+obtiene: 
+U= iky”? = 2(184 N/m)(0,05 m)? =[0,230 3 
+La energía potencial total viene dada por la ecuación 14.23: 
+Cuando y’ = y ey =—16 cm, la energía potencial vale cero, es decir, 
+U =0. Sustituir y despejar Up: 
+Sustituyendo Up en el resultado del paso | del apartado b se 
+obtiene: 
+b 
+Posición 
+del muelle 
+sin deformar 
+$ 
+NY S Yo = 16 cm 
+ee 
+: > 
+Sirol el = ~> S y =A=5cm 
+> ale a Posición de equilibrio 
+con la masa m colgando. 
+El muelle se estira 
+Yo = mglk El objeto se libera a 5 cm por debajo 
+de su posición de equilibrio 
+Figura 14.13 
+U= Sky"? EU 
+0 = jky2+U, 
+por lo tanto 
+Uy = —ky/á = -}(184 N/m)(-0,16 m)? 
+= -2,35] 
+U = iky’? + Up 
+3(184 N/m)(0,05 m)? - 2,35 J =[-2,12 
+Comprobar el resultado La energía potencial calculada en el apartado (b) debe coin- 
+cidir con la suma de la energía potencial del muelle U,,, en y = 21 cm más la energía poten- 
+cial gravitatoria U, en y = 21cm, ya que cada una de estas energías potenciales es cero en 8 
+y =0, donde el muelle está sin deformar, y la dirección positiva de y está dirigida hacia abajo. U, = 
+1 ky? = 1 (184 N/m)(0,21m)? = 4,06 J y U, = mg(—y) = (3 kg)X(9,81 N/kg)(-0,21 m) = -6,18 J. Efecti- 
+vamente, la suma de estos dos términos da: 4,06 J — 6,18 J = -2,12 J, que coincide con el resultado 
+obtenido en el apartado (b) del ejercicio. 
+El péndulo simple 
+Un péndulo simple consta de una cuerda de longitud L y una lenteja de masa m. Cuando la 
+lenteja se deja en libertad desde un ángulo inicial @ con la vertical, oscila a un lado y a otro 
+con un periodo T. 
+Ejercicio de análisis dimensional Parece lógico suponer que el periodo de un péndulo 
+simple depende de la masa m de la lenteja, la longitud L del péndulo, la aceleración debida a 
+la gravedad, g, y el ángulo inicial @), Determinar una combinación simple de estas magnitu- 
+des que ofrezca las dimensiones correctas del periodo. (Respuesta J/L/g.) 
+Observación Las unidades de longitud, masa y g son m, kg y m/s?, respectivamente. Si 
+dividimos L por g los metros se cancelan y permanecen segundos al cuadrado, lo que sugiere 
+la forma ./L/g. Si la fórmula del periodo contuviera la masa, la unidad kg debería cance- 
+larse por alguna otra magnitud. Sin embargo, ninguna combinación de L y g puede cancelar
+
+las unidades de masa. Así pues, el periodo no puede depender de la masa de la lenteja. Como 
+el ángulo @ es adimensional, no podemos saber por análisis dimensional si es o no un factor 
+del periodo. Más adelante veremos que para valores pequeños de 0, el periodo viene expre- 
+sado por T = 27 JLIg.) 
+Las fuerzas que actúan sobre la lenteja son su peso mg y la tensión T de la cuerda (figura 
+14,14), Cuando la cuerda forma un ángulo @ con la vertical, el peso tiene las componentes 
+mg cos @ a lo largo de la cuerda y mg sen 6 tangencial al arco circular en el sentido de @ 
+decreciente. Para la componente tangencial, la segunda ley de Newton (ZF, = ma,) nos da 
+dis (14.24) dt? 
+-mg sen 0 = m 
+en donde la longitud del arco s está relacionada con el ángulo ġ mediante s = Ló. Derivando 
+dos veces con respecto del tiempo ambos lados de la expresión s = Ló se obtiene 
+(14.25) 
+Obsérvese que la masa m no aparece en la ecuación 14.25, es decir, el movimiento de un 
+péndulo no depende de su masa. Para valores pequeños de ó, sen Ó = Oy 
+10) (14.26) 
+La ecuación 14.26 es de la misma forma que la ecuación 14.2 para un objeto ligado a un 
+muelle, El movimiento de un péndulo es, por lo tanto, aproximadamente armónico simple 
+para pequeños desplazamientos angulares. 
+La ecuación 14.26 también puede escribirse en la forma 
+ES 6, endonde’ w= (14.27) g 
+L 
+y æ es la frecuencia angular —no la velocidad angular— del movimiento del péndulo. En 
+consecuencia, el periodo del péndulo es 
+(14.28) 
+PERIODO DE UN PENDULO SIMPLE 
+La solución de la ecuación 14,27 es 
+Ó= (, cos (wm + ô) 
+en donde @ es el desplazamiento angular máximo. 
+De acuerdo con la ecuación 14.28, cuanto mayor es la longitud del péndulo, mayor es el 
+periodo, lo cual está de acuerdo con lo observado experimentalmente. Obsérvese también 
+que la frecuencia y el periodo son independientes de la amplitud de la oscilación (para 
+amplitudes pequeñas), lo cual es una característica general del movimiento armónico simple. 
+Ejercicio Determinar el periodo de un péndulo simple de 1 m de longitud. (Respuesta 2,01 s.) 
+14.3 Algunos sistemas oscilantes | 409 
+D 
+\ Z ` 
+a a | | - `~ ~ cag —— fp 
+H ‘mg sen @ 
+Figura 14.14 Fuerzas sobre la lenteja de un 
+péndulo. 
+Todos los relojes mecánicos mantienen la hora 
+exacta porque el periodo del elemento oscilante del 
+mecanismo permanece constante. El periodo de 
+cualquier péndulo cambia con las variaciones de la 
+amplitud, pero el mecanismo que mueve un reloj de 
+péndulo mantiene la amplitud a un valor constante.
+
+410 | Capítulo 14 Oscilaciones 
+Figura 14.15 (a) Péndulo simple en equilibrio 
+aparente en un furgón con movimiento acelerado. 
+Las fuerzas que se muestran corresponden a un 
+sistema estacionario exterior. (b) Fuerzas que 
+actúan sobre la lenteja observadas en el sistema 
+acelerado. Sumar la pseudofuerza -mag es 
+equivalente a reemplazar g por g’. 
+0 0,2 0,4 0,6 0,8 
+Amplitud ġo. rad 
+Figura 14.16 Obsérvese que los valores de las _ 
+ordenadas van de | a 1,06. En un rango de 6 entre 0 
+y 0,8 rad (46°) el periodo cambia en 5% 
+aproximadamente. 
+La aceleración debida a la gravedad puede medirse fácilmente utilizando un péndulo 
+simple. Únicamente es necesario medir la longitud L y el periodo 7. Mediante la ecuación 
+14.28 se calcula g. (Para determinar 7, habitualmente medimos el tiempo necesario para n 
+oscilaciones y dividimos por n, lo cual minimiza el error de la medida.) 
+El péndulo en un sistema de referencia acelerado La figura 14.15a muestra 
+un péndulo simple suspendido del techo de un furgón de ferrocarril que se mueve con acele- 
+ración ay relativa al suelo hacia la derecha, y a es la aceleración de la lenteja relativa al suelo. 
+Aplicando la segunda ley de Newton a la lenteja se obtiene 
+SF = T+mg = ma (14.29) 
+Si la lenteja permanece en reposo con respecto del furgón, a = ap y se cumple 
+Y F, = T sen Ó = mag 
+y, 
+en donde 6, es el ángulo de equilibrio, que según esto viene dado por tg 0, = aye. Si la len- 
+teja se mueve con respecto al furgón, entonces a’ = a — ap, donde a’ es la aceleración de la 
+lenteja relativa al furgón. Sustituyendo a en la ecuación 14.29 se obtiene 
+T cos O—-mg = 0 
+SF = T+mg = m(a'+a,) 
+Restando map en los dos términos de la expresión anterior se llega a 
+T+mg' = ma’ 
+en donde g’ = g — ay. Reemplazando g por g’ y a por a’ en la ecuación 14.29 se obtiene el 
+movimiento de la lenteja relativa al furgón. En la figura 14.15 se muestran los vectores T y 
+mg’. Si la cuerda se rompe y, por lo tanto, T = 0, la ecuación anterior nos conduce a a’ = g’, 
+lo cual significa que g’ es la aceleración de caída libre en el sistema de referencia del furgón. 
+Si se desplaza ligeramente la lenteja de su posición de equilibrio, oscilará con un periodo T 
+dado por la ecuación 14.28, donde g ha sido reemplazada por g’. 
+Ejercicio Un péndulo simple de longitud | m se encuentra en un furgón que se mueve 
+horizontalmente con una aceleración a, = 3 m/s?, Determinar g’ y el periodo T. 
+(Respuesta g’ = 10,26 m/s*, T = 1,96 s.) 
+Oscilaciones de gran amplitud Cuando la amplitud de un péndulo se hace grande, 
+su movimiento continúa siendo periódico pero deja de ser armónico simple. Para determinar 
+el periodo debe tenerse en cuenta una ligera dependencia con la amplitud. Para una amplitud 
+angular cualquiera (y, se demuestra que el periodo viene dado por la expresión 
+1 1 1/3 1 NS To 1 + sen? TERIA] sen* 79+ A 5 (14.30) 
+PERIODO PARA OSCILACIONES DE GRAN AMPLITUD 
+en donde Tọ = 27 /L/g es el periodo correspondiente a amplitudes muy pequeñas. La 
+figura 14.16 muestra 7/7, en función de la amplitud p.
+
+14.3 Algunos sistemas oscilantes | 411 
+EJEMPLO 14.9 | Un reloj de péndulo jINTENTELO USTED MISMO! 
+Un reloj de péndulo simple se calibra para marchar de modo exacto con una amplitud angular 
+de dy = 10°. Cuando la amplitud ha disminuido hasta ser muy pequeña, ¿el reloj se adelantará 
+o se atrasará? ¿Cuánto se adelantará o se atrasará en un día si la amplitud sigue siendo muy 
+pequeña? 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. Responder a la primera cuestión determinando si el periodo aumentao F disminuye cuando O disminuye de modo quel el reloj se adelanta] 
+disminuye. 
+2. Utilizar la ecuación 14.30 para determinar la variación relativa en por- 0.190%. 
+centaje, [(T — TN Tp] X 100%, para 6 = 10°. Utilizar sólo el primer tér- 
+mino de corrección. 
+3. Determinar el número de minutos de un día, Hay 1440 minutos en un día, 
+4. Combinar las pasos 2 y 3 para determinar la variación del número de Se produce un adelanto de 
+minutos en un día según el reloj del ejemplo. 
+Observación Para evitar que el reloj se adelante, los mecanismos los relojes de péndulo se dise- 
+ñan de modo que mantengan la amplitud apreciablemente constante, 
+*El péndulo físico 
+Un cuerpo rígido que pueda girar libremente alrededor de un eje horizontal que no pase por 
+su centro de masas oscilará cuando se desplace de su posición de equilibrio, Este sistema 
+recibe el nombre de péndulo físico. Consideremos una figura plana con un eje de rotación 
+situado a una distancia D del centro de masas y desplazada de su posición de equilibrio un 
+ángulo @ (figura 14.17). El momento respecto al eje tiene como módulo MgD sen ó y tiende a 
+disminuir ló|. La segunda ley de Newton aplicada a la rotación es 
+T= la 
+en donde (es la aceleración angular e 7 el momento de inercia respecto al eje. Sustituyendo 
+el momento neto T por —MgD sen @ y da’ @/dt* por œ tenemos 
+—MgD sen ġ = 1 as dt? 
+O sea, 
+ao MgD =- 14.31 T T sen Y (14.31) 
+Figura 14.17 Péndulo físico. 
+Igual que en el péndulo simple, el movimiento es aproximadamente armónico simple si los 
+desplazamientos angulares son pequeños, de manera que la aproximación sen @ = @ sea 
+válida. En este caso tenemos 
+— 7 - ġ=- 00 (14.32) 
+en donde @ = /MgD/I es la frecuencia angular —no la velocidad angular— del movi- 
+miento. En consecuencia, el periodo vale 
+ee ee 7 = D = DI MgD (14.33) 
+PERIODO DE UN PÉNDULO FÍSICO 
+Para grandes amplitudes, el periodo viene dado por la ecuación 14.30 con Tọ expresado por la 
+ecuación 14.33. Para un péndulo simple de longitud L, el momento de inercia es /=ML? y D=L. 
+La ecuación 14.33 nos da T = 2” J/ML?/MgL = 2x ./L/g, igual que en la ecuación 14.28.
+
+412 | Capítulo 14 Oscilaciones 
+EJEMPLO 14.10 | La barra oscilante 
+Una barra uniforme de masa M y longitud L puede girar libremente alrededor de un eje hori- 
+zontal perpendicular a la barra y que pasa por uno de sus extremos. (a) Determinar el periodo 
+de oscilación para pequeños desplazamientos angulares. (b) Determinar el periodo de oscila- 
+ción si el eje de rotación está a una distancia x del centro de masas. 
+Planteamiento del problema (a) El periodo viene dado por la ecuación 14.33. El centro de 
+masas se encuentra en el centro de la barra, de modo que la distancia del centro de masas al eje de rota- 
+ción es la mitad de la longitud de la barra (figura 14.18a). El momento de inercia de una barra uni- 
+forme puede encontrase en la tabla 9.1. (b) Para rotaciones alrededor de un eje que pasa por un punto P 
+(figura 14.18b) el momento de inercia se deduce a partir del teorema de los ejes paralelos / = Im + MD? 
+(ecuación 9.44) en donde I.m puede encontrarse en la tabla 9.1. 
+| I 
+(a) 1. El periodo viene dado por la ecuación 14.33: P= DT MED 
+2. El valor de / respecto al extremo se encuentra en la tabla 9.1 y D J = ML?; D = 
+es la mitad de la longitud de la barra: 
+3. Aplicar los valores de / y D para determinar T: T= 
+(b) 1. Alrededor del punto P, D = x y el momento de inercia viene dado P = * 
+1 por el teorema de los ejes paralelos. El momento de inercia res- = fied? sk 
+pecto de un eje paralelo que pasa por el centro de masas se na 12 
+encuentra en la tabla 9.1: 
+Sot, ; 1 2. Sustituir estos valores para determinar 7: T=2x MED = 27 
+Comprobar el resultado Cuando x — 0, T => ~ como era de esperar. (Si el eje de rotación de la 
+barra pasa por su centro de masas la gravedad no ejerce un momento restaurador.) Cuando x = L/2, 
+se obtiene el mismo resultado de (a), y cuando x >> L la expresión del periodo se acerca a T = 
+2n,/x/g, la cual corresponde al periodo de un péndulo simple de longitud x (ecuación 14.28). 
+Ejercicio ¿Cuál es el periodo de oscilación para pequeños desplazamientos angulares de una regla 
+de metro alrededor de un eje que pasa por un extremo? (Respuesta T= 1,64 s. Obsérvese que este 
+periodo es menor que el de un péndulo simple de longitud L = | m. El periodo del péndulo simple es 
+mayor porque el cociente entre su momento de inercia y el momento restaurador es mayor.) 
+Ejercicio Demostrar que cuando x = L/6, el periodo es el mismo que cuando x = L/2. 
+Observación En la figura 14.19 se muestra el periodo T en función de la distancia x del centro de 
+masas para una barra de longitud | m. 
+EJEMPLO 14.11 | Revisión del ejercicio de la barra que oscila 
+Determinar el valor de x en el ejemplo 14.10 para que el periodo sea mínimo. 
+Planteamiento del problema En el valor de x para el cual T es un mínimo, d7/dx = 0. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+1. El periodo viene dado por el resultado del apartado (b) del ejercicio Cuando x =>0. Zo, 
+14.10 en el cual T= 270,/Z/g, donde Z=( L? + +P)/x. Determinarel Cuando t>, Z— +», 
+periodo cuando x se acerca a cero y a infinito. 
+(a) (b) 
+Figura 14.18 
+to 
+T.s 
+x, m 
+Figura 14.19 Representación gráfica del 
+periodo en función de la distancia al centro de 
+masas. Si x > 0,5 m el pivote está fuera del 
+extremo de la barra. 
+¡INTÉNTELO USTED MISMO!
+
+14.4 Oscilaciones amortiguadas | 413 
+aT _dTdZ _ E ¡pdZ 2. El periodo tiende a infinito cuando x se acerca a cero y a infinito. En A aie “Tk 
+algún punto del intervalo O < x < = el periodo es un mínimo. Para > e v8 f 
+determinar el mínimo, se impone dT/dx =0 y se despeja x. Z > 0 en todo el intervalo 0 <x<»w».. con lo cual Tost =0 dx x 
+LA == = 0.2898 dx /12 
+14.4 Oscilaciones amortiguadas 
+Si un muelle o un péndulo oscilan libremente, siempre acaban parándose porque las fuerzas 
+de rozamiento disipan su energía mecánica. Un movimiento con estas características se 
+denomina movimiento amortiguado. Si el amortiguamiento es muy grande, como por ejem- 
+plo en el caso de un péndulo que oscila en melaza, el oscilador ni tan solo ejecuta una oscila- 
+ción completa, sino que se mueve hacia la posición de equilibrio con una velocidad que se 
+aproxima a cero cuando el objeto se acerca a dicha posición de equilibrio. Este tipo de movi- 
+miento se denomina sobreamortiguado. Si, en cambio, el amortiguamiento del movimiento 
+es débil, de modo que la amplitud decrece lentamente con el tiempo, como le ocurre a un 
+niño que se divierte en un columpio de un parque cuando su madre deja de empujarle, el 
+movimiento resultante se denomina subamortiguado. Cuando se tiene el amortiguamiento 
+mínimo para que se produzca un movimiento no oscilatorio se dice que el sistema está 
+amortiguado críticamente. (Cualquier amortiguamiento inferior produce un movimiento 
+subamortiguado.) 
+Movimiento subamortiguado La fuerza de amortiguamiento ejercida por un osci- 
+lador como el que se muestra en la figura 14.20a puede representarse mediante la expresión 
+empírica 
+F; = -bv 
+en donde b es una constante. Un sistema que cumple la ecuación anterior se dice que está 
+amortiguado linealmente. El análisis siguiente corresponde a este tipo de movimiento. La 
+fuerza de amortiguamiento se opone a la dirección del movimiento, por lo tanto, realiza un 
+trabajo negativo y hace que la energía mecánica del sistema disminuya. Esta energía es pro- 
+porcional al cuadrado de la amplitud (ecuación 14.17) y el cuadrado de la amplitud dismi- 
+nuye exponencialmente a medida que aumenta el tiempo. Por lo tanto, 
+] È 
+(a) 
+A? = Aje-/t (14.34) 
+DEFINICION—CONSTANTE DE TIEMPO 
+en donde A es la amplitud, Ag es la amplitud cuando ¢ = 0, y Tes el tiempo de extinción o 
+constante de tiempo. La constante de tiempo es el tiempo necesario para que la energía dis- 
+minuya en un factor e. 
+El movimiento de un sistema amortiguado puede deducirse de la segunda ley de Newton. Para 
+un objeto de masa m ligado a un muelle de constante de fuerza k, la fuerza neta es —kx — b(dx/dt). 
+Igualando la fuerza neta con el producto de la masa por la aceleración d*x/dt*, se obtiene 
+dx d2x —kx-—b dt =m de (14.35) 
+ECUACIÓN DIFERENCIAL DE UN OSCILADOR AMORTIGUADO Figura 14.20 (a) Oscilador amortiguado. El 
+movimiento se amortigua por el émbolo sumergido 
+La solución exacta de esta ecuación puede determinarse utilizando los métodos conocidos de en el líquido. (b) Curva de oscilación amortiguada. 
+las ecuaciones diferenciales. La solución para el caso subamortiguado es 
+x = Age 42m! cos (wt + ô) (14.36)
+
+414 | Capítulo 14 Oscilaciones 
+Para amortiguar la oscilación de esta camioneta se 
+utilizan los amortiguadores (cilindros amarillos) 
+que absorven los choques. 
+a Amortiguado 
+rss criticamente 
+e 
+S Sobreamortiguado 
+Figura 14.21 Representación gráfica del 
+desplazamiento en función del tiempo en el caso de 
+un oscilador amortiguado críticamente y otro 
+sobreamortiguado. 
+En las llantas de las ruedas de los coches se colocan 
+pesos para equilibrarlas. El objetivo de equilibrar 
+las ruedas es evitar las vibraciones que producirían 
+las oscilaciones de la dirección del vehículo. 
+en donde Ay es la amplitud máxima. La frecuencia & viene dada por 
+X 2 
+o =o (13.37) % fox! 
+en donde «y es la frecuencia cuando no hay amortiguamiento (0, = /k/m para una masa 
+ligado a un muelle). Para un amortiguamiento débil, b/2 may << | y w es aproximadamente 
+igual a @. Las curvas de trazos de la figura 14.20 corresponden a x =A y x=-A, en donde A 
+viene dado por 
+A = Aye 2m: (14.38) 
+Elevando al cuadrado los dos términos de esta ecuación y comparando el resultado con la 
+ecuación 14.34 podemos identificar 
+m T=- (14.39) b 
+Si la constante de amortiguamiento b crece gradualmente, la frecuencia angular «Y dismi- 
+nuye hasta hacerse igual a cero en el valor crítico 
+b.=2m0% (14,40) 
+Si b es igual o mayor que b,, el sistema no oscila. Cuando b es mayor que b, el sistema es 
+sobreamortiguado. Cuanto menor sea b, más rápidamente volverá el objeto al equilibrio. 
+Cuando b = b,, se dice que el sistema está amortiguado críticamente, y vuelve a su posi- 
+ción de equilibrio en el tiempo más breve posible sin oscilar. La figura 14.21 muestra el des- 
+plazamiento en función del tiempo correspondiente a un oscilador amortiguado críticamente 
+y sobreamortiguado. En muchas aplicaciones prácticas se usa un amortiguador crítico o casi 
+erítico para evitar las oscilaciones y sin embargo conseguir que el sistema vuelva al equili- 
+brio rápidamente. Un ejemplo es el empleo de amortiguadores (sistemas que absorben cho- 
+ques) para amortiguar las oscilaciones de un automóvil sobre sus muelles. Esto puede verse 
+empujando la parte delantera o trasera de un coche. Si el coche vuelve al equilibrio sin osci- 
+lar, el sistema de absorción de choques está amortiguado críticamente o sobreamortiguado. 
+(Normalmente en un vehículo vacío se producen una o dos oscilaciones antes de que el sis- 
+tema quede en reposo, lo que indica que la constante de tiempo está justo bajo su valor crí- 
+tico.) 
+Como la energía de un oscilador es proporcional al cuadrado de la amplitud, la energía 
+de un oscilador subamortiguado (valor promediado en un ciclo) también disminuye expo- 
+nencialmente con el tiempo: 
+E = tm@?A? = tm@?(Age/2™")? = ImoRAze tbm = Eje"! (14.41) 
+en donde E, = +m@?A? y 
+m t= 5 (14.42) ? 
+Un oscilador amortiguado se describe normalmente por su factor Q (o factor de calidad). 
+O = Wt (14.43) 
+DEFINICION —FACTOR Q 
+El factor Q es adimensional. (Como las dimensiones de @p son las recíprocas del tiempo, 
+(047 no tiene diemensiones.) Podemos relacionar Q con la pérdida relativa de energía por 
+ciclo. Diferenciando la ecuación 14.41, se obtiene 
+dE = 3 Eje!" dt = -1 E dt T T
+
+Si la amortiguación es suficientemente débil para que la pérdida de energía por ciclo sea 
+pequeña, podemos reemplazar dE por AE y dt por el periodo T. Por lo tanto |AE|/E en un 
+ciclo (un periodo) viene dado por 
+laz) _ A 
+E ciclo % T a gT A Q ai 
+o sea, 
+2m |AE| = ——.. == << | 14.45 Q= Da E GAS) 
+INTERPRETACION FISICA DE Q PARA UN AMORTIGUAMIENTO LEVE 
+Así pues, Q es inversamente proporcional a la pérdida relativa de energía por ciclo. 
+EJEMPLO 14.12 | Componiendo música 
+Cuando se pulsa la nota do-central en el piano (frecuencia 262 Hz), la mitad de su energía se 
+pierde en 4 segundos. (a) ¿Cuál es el tiempo de extinción 7? (b) ¿Cuál es el factor Q de esta 
+cuerda de piano? (c) ¿Cuál es la pérdida de energía relativa por ciclo? 
+Planteamiento del problema (a) Utilizamos E = Eye~/* haciendo E = LE. (b) El valor Q 
+puede determinarse entonces a partir del tiempo de extinción y de la frecuencia. — 
+14.4 Oscilaciones amortiguadas | 415 
+(a) 1. Igualamos la energía de la nota pulsada en el tiempor=4sconla E = Ejye”"* de modo que JE, = Ege*** 
+mitad de su energía original: E = 435 
+2. Despejar el tiempo tomando logaritmos neperianos de la expre- Ins wae 
+sión anterior: á 
+despejando T se obtiene 
+4s 
+(b) Calcular O a partir de Ty @;: O = @t = 2aft 
+= 21262 Hz)(5,77 s) 
+(c) La pérdida de energia relativa en un periodo viene dada por la ecua- (92) = L = 5 
+ciclo ción 14.44 y la frecuencia por f= 1/T: E 
+Comprobar el resultado El factor O también puede calcularse a partir de Q = 27/(AE/E) cicio = 
+276,61 x 10*) = 9,50 x 10%, Obsérvese que la pérdida de energía relativa después de 4 s no coin- 
+cide con el producto del número de ciclos (4 x 262) por la pérdida de energía relativa por ciclo, ya 
+que el decrecimiento de energía relativa no es constante, sino exponencial. 
+Observación La figura 14.22 muestra la amplitud relativa A/A, y la energía relativa E/Ep en fun- 
+ción del tiempo de la oscilación de una cuerda de piano después de pulsar la nota do-central. Al cabo 
+de los 4 s, la amplitud ha disminuido a unas 0,7 veces su valor inicial y la energía, proporcional al 
+cuadrado de la amplitud, es aproximadamente la mitad de su valor inicial. 
+Obsérvese que Q es bastante grande. Es fácil estimar ty Q de diversos sistemas oscilantes. Dése 
+un pequeño golpe a un vaso de cristal y obsérvese el tiempo que tarda el sonido en extinguirse. Un 
+tiempo mayor supone un mayor valor de 7 y Q y menor amortiguamiento. Los vasos de vidrio del 
+laboratorio suelen tener un Q elevado. Probar con una taza de plástico. ¿Cómo es el amortigua- 
+miento comparado con el vaso del laboratorio? 
+En función de O, la frecuencia exacta de un oscilador subamortiguado es 
+oe e 2 l ne Y = % a) 2 O h= (14.46) 
+l = 4 
+= camera 141x107 
+1,0 
+0,8 Amplitud 
+0,6 
+0,4 Energ ía 
+ts 
+Figura 14.22 Representación de A/A, y de E/E) 
+para una cuerda de piano pulsada.
+
+416 | Capítulo 14 Oscilaciones 
+Dándose impulso en el columpio, la persona de la 
+fotografía transfiere parte de su energía interna la 
+energía mecánica del oscilador. 
+Figura 14.23 Se puede ejercer una fuerza 
+externa sobre un objeto sujeto a un muelle 
+desplazando el punto de! soporte hacia arriba y 
+hacia abajo. 
+Como b es pequeña (Q es grande) para un oscilador débilmente amortiguado (ejemplo 
+14.12), vemos que @ es casi igual a 4). 
+Mediante consideraciones energéticas podemos entender cualitativamente el comporta- 
+miento de un oscilador amortiguado. La potencia disipada por la fuerza amortiguadora es 
+igual a la variación instantánea de la energía mecánica total por unidad de tiempo 
+Has Oh = — = Fy:v =-bv-v = -by? (14.47) 
+dt 
+En un oscilador ligeramente amortiguado, la energía mecánica total disminuye poco a poco 
+con el tiempo. La energía cinética media es igual a la mitad de la energía total 
+kih l ~ (mv?) = 5E 0 (vn = = 
+Si sustituimos (v*),, = E/m por v7 en la ecuación 14.47, resulta 
+dE 2 3 b 
+a e -—by- =—b(v*)m= =< E (14.48) 
+Reordenando la ecuación 14.48 nos queda 
+ecuación que integrada tiene la solución 
+E = Ege Pim = Epe": 
+que es la ecuación 14.41. 
+14.5 Oscilaciones forzadas y resonancia 
+Para mantener en marcha un sistema amortiguado debemos ir suministrando energia al sis- 
+tema. Cuando se lleva a cabo esto, se dice que el oscilador es forzado. Por ejemplo, al sentarse 
+en un columpio y hacerlo oscilar, el suministro de energía se realiza moviendo el cuerpo y las 
+piernas hacia delante y hacia atrás, de forma que se convierte en un oscilador forzado. Si se 
+introduce energía en el sistema a un ritmo mayor del que se disipa, la energía aumenta con el 
+tiempo. lo cual se aprecia por un aumento de la amplitud del movimiento. Si la energía se 
+introduce al mismo ritmo que se disipa, la amplitud permanece constante con el tiempo. En 
+este caso se dice que el oscilador está en estado estacionario. 
+Una manera de suministrar energía a un sistema formado por un objeto que cuelga de un 
+muelle vertical es mover el punto de soporte hacia arriba y hacia abajo, con un movimiento 
+armónico simple de frecuencia @ (figura 14.23). Al principio el movimiento es complicado, 
+pero finalmente alcanza un estado estacionario en el que el sistema oscila con la misma fre- 
+cuencia de la fuerza externa impulsora y con amplitud constante y, por lo tanto, con energía 
+constante. En el estado estacionario, la energía introducida en el sistema por la fuerza impul- 
+sora durante un ciclo es igual a la disipada en el ciclo debido al amortiguamiento. 
+La amplitud y, por lo tanto, la energía de un sistema en estado estacionario, no sólo 
+depende de la amplitud del sistema impulsor sino también de su frecuencia. Se define la fre- 
+cuencia natural de un oscilador, @ como la que tendría si no estuviesen presentes ni el 
+amortiguamiento ni el sistema impulsor. (Por ejemplo. la frecuencia angular natural de un 
+muelle es @) = J/kim.) Si la frecuencia impulsora es aproximadamente igual a la frecuencia 
+natural del sistema. éste oscilará con una amplitud relativamente grande. Por ejemplo, si el 
+soporte de la figura 14.23 oscila con la frecuencia natural del sistema masa-muelle, la masa 
+oscilará con una amplitud mucho mayor que si el soporte oscila con frecuencias mayores o 
+menores. Este fenómeno se denomina resonancia. Cuando la frecuencia de la fuerza impul- 
+sora es igual a la frecuencia natural del oscilador, la energía absorbida por éste en cada ciclo 
+es máxima. Por ello la frecuencia natural del sistema se denomina frecuencia de resonancia
+
+del mismo. (Matemáticamente es más conveniente utilizar la frecuencia angular @ que la fre- 
+cuencia f= (27). Como @ y f son proporcionales, la mayoría de las afirmaciones concernien- 
+tes a la frecuencia angular también son válidas para la frecuencia. En descripciones verbales 
+normalmente se omite la palabra angular siempre que esta omisión no provoque confusión.) En 
+la figura 14.24 se muestra un diagrama de la potencia media transmitida a un oscilador en fun- 
+ción de la frecuencia de la fuerza impulsora para dos valores diferentes del amortiguamiento. 
+Estas curvas reciben el nombre de curvas de resonancia. Cuando el amortiguamiento es 
+pequeño (el valor de Q es alto), la anchura del pico de la curva de resonancia es correspondien- 
+temente estrecha y se dice que la resonancia es aguda. Cuando el amortiguamiento es grande, 
+la curva de resonancia es ancha. La anchura A@ de cada curva de resonancia, indicada en la 
+figura, es la anchura a la mitad de la altura máxima. Para un amortiguamiento relativamente 
+pequeño, se demuestra que el cociente entre la anchura de resonancia y la frecuencia de reso- 
+nancia es igual al valor inverso del factor O (véase problema 126): 
+== (14.49) 
+ANCHURA DE RESONANCIA PARA UN AMORTIGUAMIENTO PEQUENO 
+Por lo tanto, el factor O es una medida directa de la agudeza de la resonancia. 
+Puede hacerse un experimento simple que demuestre la resonancia. Se sostiene una regla 
+por un extremo con dos dedos, de modo que actúe como un péndulo. (Si no se dispone de 
+una regla, se puede usar cualquier otro objeto conveniente, como un palo de golf.) Se suelta 
+el otro extremo desde una cierta distancia angular y se observa la frecuencia natural del 
+movimiento. Después se mueve la mano adelante y atrás horizontalmente para darle impulso 
+con la frecuencia natural de la regla. Aunque la amplitud del movimiento de la mano sea 
+pequeña, la regla oscilará con una amplitud considerable. Si la mano se mueve adelante y 
+atrás a una frecuencia el doble o triple de la frecuencia natural, se observará una disminución 
+de la amplitud de la regla oscilante. 
+Existen muchos ejemplos familiares de resonancia. Cuando nos sentamos en un colum- 
+pio aprendemos intuitivamente a mover el cuerpo con la misma frecuencia que la natural del 
+columpio. Muchas máquinas vibran porque tienen piezas en rotación que no están perfecta- 
+mente equilibradas. (Observar, por ejemplo, una máquina de lavar en el periodo de centrifu- 
+gado.) Si se sujeta una de estas máquinas a una estructura que pueda vibrar, dicha estructura 
+se convierte en un sistema oscilatorio forzado que puede iniciar su movimiento por la acción 
+de la máquina. Los técnicos han hecho grandes esfuerzos para equilibrar las partes giratorias 
+de estas máquinas u otras semejantes, amortiguando sus vibraciones y aislándolas de los edi- 
+ficios que las soportan. 
+Puede romperse un vaso con bajo amortiguamiento mediante una onda sonora intensa 
+con una frecuencia igual o muy próxima a la frecuencia natural de vibración del mismo. Este 
+efecto se emplea a menudo en demostraciones de física utilizando un oscilador de audio y un 
+amplificador adecuado. 
+*Tratamiento matemático de la resonancia 
+Vamos a estudiar matemáticamente el oscilador forzado suponiendo que, además de estar 
+sometido a una fuerza restauradora y a una fuerza de amortiguamiento, está sujeto a una 
+fuerza externa (fuerza impulsora) que varía armónicamente con el tiempo: 
+Fax = Fo cos at (14.50) 
+en donde F y @ son el módulo y la frecuencia angular de la fuerza impulsora. Generalmente 
+esta frecuencia no está relacionada con la frecuencia angular natural del sistema @). 
+La segunda ley de Newton aplicada a un objeto de masa m atado a un muelle de constante 
+de fuerza k y sujeto a una fuerza amortiguadora —bv, y a una fuerza externa Fy cos (or, nos da 
+> F, = ma, 
+=kx—bv,+F,cos @t = m de 
+14.5 Oscilaciones forzadas y resonancia 417 
+media 
+P max 
+Amortiguamiento 
+/ pequeño, Q grande 
+l 
+=P, A 4 Z” mR Amortiguamiento 
+P nax grande, Q pequeña 
+1 
+3 P max 
+(0) w 0 
+Figura 14.24 Resonancia en un oscilador. La 
+anchura Ao del pico de resonancia para un 
+oscilador que tiene una Q grande es pequeña 
+comparada con la frecuencia natural @). 
+268 Hz (Q 553 Hz (Q = 66) 
+672 Hz (Q = 61) 1010 Hz (Q = 80) 
+Los objetos extensos tienen más de una frecuencia 
+de resonancia. Cuando se pulsa una cuerda de 
+guitarra, se transmite la energía al cuerpo del 
+instrumento. Las oscilaciones del cuerpo de la 
+guitarra, acopladas a las oscilaciones de la masa del 
+aire que encierra, producen los diagramas de 
+resonancia que se indican en estas figuras.
+
+418 | Capítulo 14 Oscilaciones 
+en donde se ha usado que a, = dx/dt?°. Sustituyendo ma} por k (ecuación 14.8) y ordenando 
+los términos se obtiene 
+dx, dx bi m Ao qi t "Ox = F, cos ot (14.51) 
+ECUACION DIFERENCIAL DE UN OSCILADOR FORZADO 
+Abordaremos la solución general de la ecuación 14.51 cualitativamente. La solución de 
+la ecuación consta de dos partes, la solución transitoria y la solución estacionaria. La 
+parte transitoria de la solución es idéntica a la de un oscilador amortiguado no forzado dada 
+en la ecuación 14.36. Las constantes de esta solución dependen de las condiciones iniciales. 
+Transcurrido cierto tiempo, esta parte de la solución se hace despreciable porque la amplitud 
+disminuye exponencialmente con el tiempo. De este modo sólo queda la solución estaciona- 
+ria, que puede escribirse en la forma 
+x = A cos (01 — ô) (14,52) 
+POSICIÓN DE UN OSCILADOR FORZADO 
+en donde la frecuencia angular @ es la misma que la de la fuerza impulsora. La amplitud A 
+viene dada por 
+Fs _ A (14.53) [ma A+ bo 
+AMPLITUD DE UN OSCILADOR FORZADO 
+y la constante de fase 6 viene dada por 
+te 5 (14.54) ETET? 
+m(@ — 0) 
+CONSTANTE DE FASE DE UN OSCILADOR FORZADO 
+Comparando las ecuaciones 14.50 y 14.52, podemos ver que el desplazamiento del sistema y 
+la fuerza impulsora oscilan con la misma frecuencia pero difieren en fase en ô. Cuando la 
+frecuencia impulsora (Y es mucho menor que la frecuencia natural @, 6 = 0, como puede 
+verse a partir de la ecuación 14.54. En la resonancia, d= 7/2. Cuando wes mucho mayor que 
+@p, 6 = TT. Al comienzo de este capítulo hemos visto que el desplazamiento de una partícula 
+que experimenta un movimiento armónico simple viene dado por x = A cos (œt + 6) (ecua- 
+ción 14.4). Esta ecuación es idéntica a la ecuación 14.52 excepto en el signo que precede a la 
+constante 6. La fase de un oscilador forzado siempre va retrasada con respecto a la fase de la 
+fuerza impulsora. El signo negativo de la ecuación 14.52 asegura que 6 siempre es positivo. 
+En el experimento simple de la regla impulsada por el movimiento de la mano adelante y 
+atrás, obsérvese que, en la resonancia, la oscilación de la mano no está en fase ni en desfase 
+de 180° con la oscilación de la regla. Si se mueve la mano adelante y atrás con una frecuen- 
+cia varias veces la frecuencia natural de la regla, el movimiento en el estado estacionario de 
+ésta se habrá desfasado respecto a la mano casi 180°. 
+La velocidad del objeto en estado estacionario se obtiene derivando x respecto a t: 
+dx dal de -Aw sen (wt -— ô)
+
+En la resonancia, 6 = 7/2, y la velocidad está en fase con la fuerza impulsora: 
+m v = -AØ sen (or-5) = +A Ø cos Ot 
+Así pues, en la resonancia, el objeto siempre se está moviendo en el sentido en que actúa la 
+fuerza impulsora, como era de esperar para que se consiguiese el máximo aporte de energía. 
+La amplitud de velocidad @A es máxima para @= 0). 
+EJEMPLO 14.13 | Un objeto en un muelle 
+Un objeto de masa 1,5 kg situado sobre un muelle de constante de fuerza 600 N/m pierde el 3% 
+de su energía en cada ciclo. El sistema viene impulsado por una fuerza sinusoidal con un valor 
+máximo de Fy) = 0,5 N. (a) ¿Cuál es el valor de Q para este sistema? (b) ¿Cuál es la frecuencia 
+(angular) de resonancia? (c) Si la frecuencia impulsora varía, ¿cuál es la anchura Aw de la 
+resonancia? (d) ¿Cuál es la amplitud en la resonancia? (e) ¿Cuál es la amplitud de la frecuen- 
+cia impulsora si œ = 19 rad/s? 
+Planteamiento del problema La pérdida de energía por ciclo es del 3%, por lo que la amortigua- 
+ción es débil. El factor O puede determinarse mediante la expresión Q = 2(AE/E)¿;c¡) (ecuación 
+14.45) y después utilizar este resultado y Away = 1/0 (ecuación 14.49) para determinar la anchura de 
+la resonancia Ao. La frecuencia de resonancia es la frecuencia natural. La amplitud puede determinarse 
+a partir de la ecuación 14.53 tanto en resonancia como fuera de resonancia, con la constante de amorti- 
+guamiento calculada mediante O utilizando la definición de O (ecuación 14.43) O = @)t= @ym/b. 
+Tape la columna de la derecha e intente resolverlo usted mismo 
+Pasos Respuestas 
+” 
+(a) El amortiguamiento es débil. Relacionar Q con la pérdida de energía O= Sa == : (ABE) a, 0.03 usando la ecuación 14.45 y despejar Q. i 
+Ik (b) Relacionar la frecuencia de resonancia con la frecuencia natural del ©) = y Fe =[20 rad/s | 
+sistema. 
+14.5 Oscilaciones forzadas y resonancia 419 
+| 
+S@ EXPLORANDO 
+¿Tienen solución numérica las ecuaciones 
+para los osciladores amortiguados y forzados? 
+Investigue esto y mucho más en 
+www.whfreeman.com/tiplerSe 
+¡INTÉNTELO USTED MISMO! 
+0 = (c) Relacionar la anchura de la resonancia A@ con Q. Að = 77) =| 0,0957 rad/s 
+Fo (d) 1. Escribir una expresión para la amplitud A válida para cualquier A(@) = fs > 543 >, 
+frecuencia impulsora @. Jm Log- 0) + bta 
+Fo 
+bo 
+2. Aplicar @ = @ para el cálculo de A en la resonancia. A(0y) = 
+mi O 
+3. Utilizar la ecuación 14.43 para relacionar la constante de amorti- b = 0 = 0,144 kg/s 
+guamiento b con Q. 
+Fo = 
+4. Utilizar los resultados de los dos pasos previos para calcular la  A(@,) = — =[ 17,4 cm] : z b 
+amplitud en la resonancia. a 
+0.5 
+(e) Calcular la amplitud para @ = 19 rad/s. (Podemos omitir las unidades A(19 s1) = 
+para simplificar la ecuación. Como todas las magnitudes se expresan 
+en unidades del SI, A se expresa en metros). 
+Observación Para una separación de 1 rad/s del valor @ de la resonancia, la amplitud dismi- 
+nuye en un factor 20. Esto no es sorprendente, ya que la anchura de la resonancia es sólo de 
+0,0957 rad/s. Obsérvese que fuera de la resonancia, el término b?w* es despreciable comparado 
+con el otro término del denominador de la expresión de A. Cuando @ — @p es superior en varias 
+veces la anchura Awa mitad de altura, como en este ejemplo, podemos despreciar el término b?0? 
+y calcular A según la expresión A =Fy/[m(w5-— @*)]. La figura 14.25 muestra la amplitud en 
+función de la frecuencia impulsora @. Obsérvese que la escala horizontal corresponde a un rango 
+pequeño de 0. 
+/1,52(202 — 192)? +0,144?(19)? 
+0.18 
+= 
+0,06 
+0 13 185 19: IISTIO 926,520" ZO 
+0, rad/s 
+Figura 14.25
+
+420 | Capítulo 14 Oscilaciones 
+Resumen 
+TEMA 
+1 El movimiento armónico simple tiene lugar cuando la fuerza restauradora es proporcional al desplaza- 
+miento contado desde el equilibrio. Tiene numerosas aplicaciones en el estudio de las oscilaciones, 
+ondas, circuitos eléctricos y de la dinámica molecular. 
+2 La resonancia es un fenómeno importante en múltiples áreas de la física. Tiene lugar cuando la frecuen- 
+cia de la fuerza impulsora es similar a la frecuencia natural del sistema oscilante. 
+OBSERVACIONES Y ECUACIONES RELEVANTES 
+1. Movimiento armónico simple 
+Función desplazamiento 
+Velocidad 
+Aceleración 
+Frecuencia angular 
+Energía total 
+Energía cinética y potencial medias 
+Movimiento circular 
+Movimiento general próximo al equilibrio 
+En el movimiento armónico simple, la fuerza neta y la aceleración son proporcionales al desplazamiento, 
+pero tienen sentido contrario a éste. 
+x = A cos (01 + ô) (14.4) 
+v = -wA sen (01 + ô) (14.5) 
+a, = —?A cos (wt + ô) (14.6) 
+a, = -0x (14.7) 
+O = 2nf = 7 (14.11) 
+Ewu = E+ U = 5 kA? (14.17) 
+E; = Un = 5 Evo (14.18) 
+Cuando una partícula se mueve sobre una circunferencia con velocidad constante, la proyección de la posi- 
+ción de la partícula sobre un diámetro de esa circunferencia se mueve con movimiento armónico simple. 
+Si un objeto experimenta un pequeño desplazamiento a partir de cualquier posición de equilibrio estable, 
+oscila alrededor de esta posición con movimiento armónico simple. 
+2. Frecuencias angulares para diversos sistemas 
+Masa ligada a un muelle 
+Péndulo simple 
+*Péndulo físico 
+k @ = E (14.8) 
+O= E (14.27) 
+o= Uae (14.32) 
+en donde D es la distancia del centro de masas al eje de rotación e / es el momento de inercia respecto a 
+dicho eje. 
+3. Oscilaciones amortiguadas 
+Frecuencia 
+Amplitud 
+Energía 
+Tiempo de extinción o constante de tiempo 
+Factor Q (definición) 
+Factor Q para amortiguamiento débil 
+En las oscilaciones de los sistemas reales, el movimiento está amortiguado debido a fuerzas disipativas. Si el 
+amortiguamiento es mayor que cierto valor crítico, el sistema no oscila sino que regresa simplemente a su posi- 
+ción de equilibrio si ha sido perturbado. El movimiento de un sistema ligeramente amortiguado es muy seme- 
+jante al movimiento armónico simple pero tiene una amplitud que disminuye exponencialmente con el tiempo. 
+f= T @ = @ ji 107 (14,46) 
+A = Ayer im (14.38) 
+E= Egje" (14.41) 
+am eG (14.42) 
+Q = Mt (14.43) 
+=. TE laEl Q= INANA p< l (14.45)
+
+4. Oscilaciones forzadas 
+Frecuencia de resonancia 
+Anchura de resonancia para amortiguamiento débil 
+*Función desplazamiento 
+*Amplitud 
+*Constante de fase 
+Problemas 
+Concepto simple, un solo paso, relativamente fácil. 
+Nivel intermedio, puede exigir síntesis de conceptos. 
+Desafiante, para alumnos avanzados. 
+ssM La solución se encuentra en el Student Solutions Manual. 
+i Problemas que pueden encontrarse en el servicio iSOLVE de tareas para casa. 
+Estos problemas del servicio “Checkpoint” son problemas de control, que impulsan a los 
+estudiantes a describir cómo se llega a la respuesta y a indicar su nivel de confianza. 
+Problemas conceptuales 
+1 e ¿Cuál es el módulo de la aceleración de un oscilador de amplitud 
+A y frecuencia f cuando el módulo de su velocidad es máximo? ¿ Y cuándo es 
+máximo su desplazamiento? 
+2 e ¿Pueden tener el mismo sentido el desplazamiento y la acelera- 
+ción de un oscilador armónico simple? ¿Y el desplazamiento y la velocidad? 
+¿Y la aceleración y la velocidad? Razonar las respuestas. 
+3 e Verdadero o falso: 
+(a) En el movimiento armónico simple, el periodo es proporcional al cuadrado 
+de la amplitud. 
+(b) En el movimiento armónico simple, la frecuencia no depende de la ampli- 
+tud. 
+(c) Si la aceleración de una partícula que se mueve en una dimensión es pro- 
+porcional al desplazamiento pero de sentido opuesto, el movimiento es 
+armónico simple. 
+4 @ SSM Sila amplitud de un oscilador armónico simple se tri- 
+plica, ¿en qué factor se modifica la energía? 
+5 es Un objeto sujeto a un muelle tiene un movimiento armónico sim- 
+ple de amplitud 4,0 cm. Cuando el objeto se encuentra a 2,0 cm de la posición 
+de equilibrio, ¿qué fracción de su energía total es energía potencial? (a) Un 
+cuarto. (b) Un tercio. (c) La mitad. (d) Dos tercios. (e) Tres cuartos. 
+6 e Verdadero o falso: 
+(a) El periodo de un objeto que oscila sobre un determinado muelle es el 
+mismo independientemente de que el muelle sea vertical u horizontal. 
+(b) El módulo máximo de la velocidad de un objeto que oscila con amplitud A 
+sobre un determinado muelle es el mismo independientemente de que el 
+muelle sea vertical u horizontal. 
+Problemas 421 
+Cuando un sistema ligeramente amortiguado (b < b.) se ve forzado a oscilar por la acción de una fuerza 
+externa que varía sinusoidalmente con el tiempo, Fe = Fo cos (ot, el sistema oscila con una frecuencia @ 
+igual a la del sistema impulsor y con una amplitud A que depende de esta frecuencia. 
+LL (14,49) 
+x = A cos (@t — ô) (14.52) 
+e TA (14.53) Jm (aR - 0) + bo 
+tes bo = mak- a) (1 4.54) 
+En algunos problemas se dan 
+más datos de los realmente 
+necesarios; en otros pocos, deben 
+extraerse algunos datos a partir 
+de conocimientos generales, 
+fuentes externas o estimaciones 
+lógicas. 
+7 e Verdadero o falso: El movimiento de un péndulo simple es armó- 
+nico simple para cualquier desplazamiento angular inicial, 
+8 e Verdadero o falso: El movimiento de un péndulo simple es perió- 
+dico para cualquier desplazamiento angular inicial. 
+9 @@ SSM Dos carros idénticos están unidos por un muelle en una 
+vía de aire sin rozamiento. De repente uno de ellos recibe un golpe que lo 
+separa del otro. El movimiento resultante de los carros es muy irregular: pri- 
+mero se mueve uno, que se para cuando el otro inicia el movimiento, el cual a 
+su vez se para de modo que el primer carro se pone en movimiento de nuevo y 
+así sucesivamente. Explicar este movimiento de forma cualitativa. 
+10 «es SSM Cuando sube la temperatura la cuerda de un péndulo 
+simple se alarga como consecuencia de la dilatación. ¿Cómo afectaría esto al 
+funcionamiento de un reloj que funcionara con un péndulo simple? 
+11 e Verdadero o falso: La energía mecánica de un oscilador no for- 
+zado, amortiguado, decrece exponencialmente con el tiempo. 
+12 e Verdadero o falso: 
+(a) La resonancia tiene lugar cuando la frecuencia impulsora es igual a la fre- 
+cuencia natural. 
+(b) Si el valor de Q es alto, la resonancia es aguda. 
+13 e Dar algunos ejemplos de sistemas comunes que pueden conside- 
+rarse como osciladores forzados. 
+14 e Una copa de cristal que estalla por la acción de un sonido intenso 
+es un ejemplo de (a) resonancia, (b) amortiguamiento crítico, (c) decrecimiento 
+exponencial de la energía, (d) sobreamortiguamiento. 
+15 e SSM  Elefecto de la masa de un muelle sobre el movimiento 
+de un objeto atado a él suele despreciarse. Describir cualitativamente su efecto 
+cuando se tiene en cuenta.
+
+422 | Capítulo 14 Oscilaciones 
+16 es Una lámpara que cuelga del techo de un vagón-club de un tren 
+oscila con periodo 7; cuando el tren está en reposo. El periodo será (emparejar 
+las columnas derecha e izquierda) 
+I. mayor que T,cuando A. el tren se mueve horizontalmente con veloci- 
+dad constante. 
+2. menor que 7, cuando B. el tren se mueve por una curva de radio R con 
+velocidad v. 
+3. igual a Tọ cuando C. el tren asciende por una colina de inclinación 
+Ba velocidad constante. 
+D. el tren pasa por una colina de radio de curva- 
+tura R con velocidad constante. 
+17 ese Dos sistemas masa-muelle oscilan con frecuencias f, y fy. Si fa = 
+2f y y las constantes de los dos muelles son iguales, las masas de ambos siste- 
+mas cumplen la relación (a) My = 4Mp, (b) M, = Mg/./2, (c) My = My/2, 
+(d) M, = My/4. 
+18 ese Dos sistemas masa-muelle A y B oscilan de modo que sus 
+energías son iguales. Si M, = 2Mg. ¿cuál de las siguientes fórmulas relaciona 
+las amplitudes de oscilación? (a) A4 =Ap/4. (b) Ay = Ag/-/2. (c) Aa =Ap. (d) No 
+hay suficiente información para determinar la relación de las amplitudes. 
+19 es Dos sistemas masa-muelle A y B oscilan de modo que sus 
+energías son iguales. Si k, = 2ky. ¿cuál de las siguientes fórmulas relaciona las 
+amplitudes de oscilación? (a) A} =Ay/4. (b) Aa = Ag/»/2. (c) Ar=Ap. (d) No 
+hay suficiente información para determinar la relación de las amplitudes, 
+20 ee El péndulo A tiene una lenteja de masa M, y longitud L,; el pén- 
+dulo B tiene una lenteja de masa My y longitud Lg. Si el periodo de A es doble 
+al de B, será (a) La =2Ly y Ma = 2Mp. (b) La = 4Lg y My = My. (c) La = 4Lg 
+cualquiera que sea la relación M,/Mg, (d) La = BT cualquiera que sea la 
+relación M/M. 
+Aproximaciones y estimaciones 
+21 es Unniiio se está columpiando en un columpio. Si no se le suminis- 
+tra energía mecánica, la amplitud de su oscilación disminuye un factor 1/e cada 
+ocho periodos. Estimar el factor Q para este sistema. 
+22 @@ SSM (a) Estimar el periodo natural de oscilación del batir de 
+brazos de una persona cuando camina, suponiendo que no lleva ningún peso. 
+(b) Estimar el periodo natural de oscilación si la persona mueve una cartera 
+muy pesada. Obsérvese cómo camina la gente y estímese si estos dos cálculos 
+se ajustan a lo que se percibe en el mundo real. 
+Movimiento armónico simple 
+23 e 1 La posición de una partícula viene dada por x = 
+(7 em) cos 6nt, en donde r viene dado en segundos. Determinar (a) la frecuen- 
+cia, (b) el periodo y (c) la amplitud del movimiento de la partícula. (d) ¿Cuál es 
+el primer instante después de ¢ = 0 en que la partícula está en su posición de 
+equilibrio? ¿En qué sentido se está moviendo en ese instante? 
+24 @ ¿Cuál es la constante de fase ĝ de la ecuación 14.4 si la posición 
+de la partícula oscilante en el instante 1 = 0 es (a) 0, (b) A, (c) A, (d) AQ? 
+25 e SSM Una partícula de masa m empieza estando en reposo en 
+x= +25 cm y oscila alrededor de su posición de equilibrio en x = 0 con un 
+periodo de 1,5 s. Escribir las ecuaciones para (a) la posición x en función del 
+tiempo 1, (b) la velocidad v en función de t y (c) la aceleración a en función de £. 
+26 0 Hallar el módulo máximo de (a) la velocidad y (b) la aceleración 
+de la partícula del problema 23. (c) ¿Cuál es la primera vez que la partícula está 
+en x= 0 y moviéndose hacia la derecha? 
+27 es Resolver el problema 25 para el caso en que la partícula está ini- 
+cialmente en x = 25 cm y se está moviendo con velocidad vp = +50 cm/s. 
+28 es El periodo de una partícula oscilante es 8 s y su amplitud 12 cm. 
+En el tiempo ¢ = 0 se encuentra en la posición de equilibrio. Determinar la dis- 
+tancia recorrida durante el intervalo (a)1=0a1=2s,(b)r=2sar=4s,(c)t=0 
+at=1sy(d)r=1sar=2s. 
+29 es El periodo de una partícula oscilante es 8 s, En ¢ = 0, la partícula 
+está en reposo en x = A = 10 cm. (a) Hacer un gráfico de x en función de r. 
+(b) Hallar la distancia recorrida en el primer, segundo, tercer y cuarto segundo 
+después de 1= 0. 
+30 ee SM Í En las especificaciones militares es frecuente 
+que exijan que los dispositivos electrónicos sean capaces de resistir aceleracio- 
+nes de 10g = 98,1 m/s”. Para asegurarse de que sus productos cumplen con esta 
+especificación, los fabricantes los someten a ensayos en una mesa vibrante que 
+puede hacer vibrar un equipo a diversas frecuencias y amplitudes especificadas. 
+Si un determinado dispositivo se somete a una vibración de 1,5 cm de amplitud, 
+¿cuál deberá ser su frecuencia para que cumpla con la especificación militar de 
+los 10g? 
+31 ee Í K is posición de una partícula viene dada por x = 
+2,5 cos at, en donde x se expresa en metros y t en segundos. (a) Determinar la 
+velocidad máxima y la aceleración máxima de la partícula. (b) Determinar la 
+velocidad y la aceleración de la partícula cuando x= 1,5 m. 
+32 ee SSM (a) Demostrar que Ay cos (at + 6) puede escribirse tam- 
+bién como A, sen (@r) + A, cos (@t), y determinar A, y A, en función de Ag y ô. 
+(b) Relacionar A, y A, con la posición y la velocidad iniciales de una partícula 
+que experimenta un movimiento armónico simple. 
+Movimiento armónico simple y movimiento circular 
+33 e i Una partícula se mueve sobre una circunferencia de 
+radio 40 cm con una velocidad constante de 80 cm/s. Hallar (a) la frecuencia y 
+(b) el periodo del movimiento. (c) Escribir una ecuación para la componente x 
+de la posición de la partícula en función del tiempo ż, suponiendo que la partí- 
+cula está sobre el eje x en el instante ¢ = 0. 
+34 e SSM Una partícula se mueve sobre una circunferencia de 
+radio 15 cm, dando 1 revolución cada 3 s. (a) ¿Cuál es el módulo de la veloci- 
+dad de la partícula? (b) ¿Cuál es su velocidad angular œ? (c) Escribir una ecua- 
+ción para la componente x de la posición de la misma en función de z, 
+suponiendo que está sobre el eje x positivo en el instante 1 = 0. 
+La energía en el movimiento armónico simple 
+35 e Un objeto de 2,4 kg está sujeto a un muelle horizontal de cons- 
+tante de fuerza k = 4,5 kN/m. El muelle se estira 10 cm desde el equilibrio y se 
+deja en libertad. Determinar su energía total. 
+36 e Determinar la energía total de un objeto de 3 kg que oscila sobre 
+un muelle horizontal con una amplitud de 10 cm y una frecuencia de 2,4 Hz. 
+37 e Un objeto de 1,5 kg oscila con movimiento armónico simple 
+unido a un muelle de constante de fuerza k = 500 N/m. Su velocidad máxima es 
+70 cm/s. (a) ¿Cuál es la energía total? (b) ¿Cuál es la amplitud de la oscilación? 
+38 e Un objeto de 3 kg que oscila unido a un muelle de constante 2 kN/m 
+tiene una energía total de 0,9 J. (a) ¿Cuál es la amplitud del movimiento? 
+(b) ¿Cuál es su velocidad máxima? 
+39 e Un objeto oscila unido a un muelle con una amplitud de 4,5 cm. 
+Su energía total es 1,4 J. ¿Cuál es la constante de fuerza del muelle? 
+. 
+40 ee SSM i Y Un objeto de 3 kg oscila sobre un muelle 
+con una amplitud de 8 cm. Su aceleración máxima es 3,50 m/s?. Determinar la 
+energía total.
+
+Muelles 
+41 e Un objeto de 2,4 kg está sujeto a un muelle horizontal de cons- 
+tante de fuerza k = 4,5 kN/m. El muelle se estira 10 cm desde el equilibrio y se 
+deja en libertad. Determinar (a) la frecuencia del movimiento, (b) el periodo, 
+(c) la amplitud, (d) la velocidad máxima y (e) la aceleración máxima. (f) 
+¿Cuándo alcanza el objeto por vez primera su posición de equilibrio? ¿Cuál es 
+su aceleración en ese instante? 
+42 e Responder a las cuestiones del problema 41 para un objeto de 
+5 kg sujeto a un muelle de constante de fuerza k = 700 N/m, teniendo en cuenta 
+que el muelle está inicialmente separado 8 cm de la posición de equilibrio. 
+43 e Un objeto de 3 kg sujeto a un muelle horizontal oscila con una 
+amplitud A = 10 cm y una frecuencia f = 2,4 Hz. (a) ¿Cuál es la constante de 
+fuerza del muelle? (b) ¿Cuál es el periodo del movimiento? (c) ¿Cuál es la 
+velocidad máxima del objeto? (d) ¿Cuál es la aceleración máxima del objeto? 
+44 o SSM I Y Una persona de 85 kg sube a un coche de 
+masa 2400 kg, con lo cual sus ballestas descienden 2,35 cm. Suponiendo que 
+no hay amortiguamiento, ¿con qué frecuencia vibrará el coche y el pasajero 
+sobre las ballestas? 
+45 e Un objeto de 4,5 kg oscila sobre un muelle horizontal con una 
+amplitud de 3,8 cm. Su aceleración máxima es de 26 m/s?. Determinar (a) la 
+constante de fuerza k, (b) la frecuencia y (c) el periodo del movimiento. 
+46 e Un objeto oscila con una amplitud de 5,8 cm sobre un muelle 
+horizontal de constante de fuerza 1,8 kKN/m. Su velocidad máxima es 2,20 m/s, 
+Determinar (a) la masa del objeto, (b) la frecuencia del movimiento y (c) el 
+periodo del movimiento. 
+47 ee Í Y Un bloque de 0,4 kg que está sujeto a un muelle de 
+constante de fuerza 12 N/m oscila con una amplitud de 8 cm. Determinar (a) la 
+velocidad máxima del bloque, (b) la velocidad y aceleración del bloque cuando 
+se encuentra a x = 4 cm de la posición de equilibrio y (c) el tiempo que tarda el 
+bloque en desplazarse de x =0 a x = 4 cm. 
+48 ee] SSM Un objeto de masa m está colgado de un muelle vertical 
+de constante 1800 N/m. Cuando se estira de él hacia abajo separándole 2.5 cm 
+del equilibrio y se le deja en libertad desde el reposo, el objeto oscila con una 
+frecuencia de 5,5 Hz. (a) Hallar m. (b) Hallar cuánto se estira el muelle a 
+partir de su longitud natural cuando el objeto está en equilibrio. (c) Escribir 
+expresiones para el desplazamiento x, la velocidad v y la aceleración a en 
+función de £. 
+49 ee Í Y Un muelle sin deformación cuelga verticalmente y 
+en su extremo se cuelga un cuerpo de masa desconocida que se suelta desde el 
+reposo. Cae 3,42 cm antes de que quede en reposo por primera vez. Hallar el 
+periodo del movimiento, 
+50 es Un muelle de constante k = 250 N/m se cuelga de un soporte 
+rígido y se une a su extremo inferior un objeto de 1 kg de masa, que se deja en 
+libertad partiendo del reposo cuando el muelle está sin deformar. (a) ¿A qué 
+distancia por debajo del punto de partida está la posición de equilibrio del 
+objeto? (b) ¿Cuánto desciende el objeto antes de empezar a ascender de nuevo? 
+(c) ¿Cuál es el periodo de la oscilación? (d) ¿Cuál es la velocidad del objeto 
+cuando alcanza por primera vez su posición de equilibrio? (e) ¿Cuándo sucede 
+esto? 
+51 ee Í El Arco de St. Luis tiene una altura de 192 m. Supon- 
+gamos que una atleta de 60 kg salta de la parte más alta del arco con una banda 
+elástica atada a sus pies y alcanza justo el suelo con velocidad cero. Determinar 
+su energía cinética E, a los 2,00 segundos del salto. (Suponer que la banda elás- 
+tica obedece la ley de Hooke y despreciar su longitud natural.) 
+52 @@ SSM Una maleta de 20 kg de masa cuelga de dos cuerdas tal 
+como se muestra en la figura 14.26. Cada cuerda se alarga 5 cm cuando la 
+Problemas | 423 
+maleta está en equilibrio. Si se estira la maleta un poco hacia abajo y se suelta, 
+¿cuál será la frecuencia de la oscilación? 
+Figura 14.26 Problema 52 
+53 es Un bloque de 0,12 kg está suspendido de un muelle. Cuando una 
+pequeña piedra de masa 30 g se sitúa sobre el bloque, el muelle se alarga 5 cm 
+más. Con la piedra sobre el bloque, el muelle oscila con una amplitud de 12 cm. 
+(a) ¿Cuál es la frecuencia del movimiento? (b) ¿Cuánto tiempo tardará el blo- 
+que en recorrer la distancia entre el punto más bajo y el punto más alto? 
+(c) ¿Cuál es la fuerza neta sobre la piedra cuando se encuentra en un punto de 
+máximo desplazamiento hacia arriba? 
+54 es Determinar en el problema 53 la máxima amplitud de oscilación 
+con la condición de que la piedra permanezca sobre el bloque. 
+55 es Un objeto de masa 2,0 kg está sujeto en la parte superior de un 
+muelle vertical que está anclado en el suelo. La longitud natural del muelle es 
+de 8,0 cm y la longitud del muelle cuando el objeto está en equilibrio es de 
+5,0 cm. Cuando el objeto está en reposo en su posición de equilibrio, se le da 
+un impulso hacia abajo con un martillo, de tal manera que la velocidad inicial 
+es de 0,3 m/s. (a) ¿A que máxima altura, respecto al nivel del suelo, se elevará 
+el objeto? (b) ¿Cuánto tiempo tardará el objeto en alcanzar la máxima altura la 
+primera vez? (c) ¿Volverá el muelle a estar sin compresión? ¿Qué velocidad 
+inicial mínima debe darse al objeto para que el muelle no tenga compresión en 
+un instante dado? 
+56 ee SSM En un tomo, un bloque de 950 kg de masa cuelga del 
+extremo de un cable de 150 GN/m? de módulo de Young, 1,5 cm? de área trans- 
+versal y 2,5 m de longitud. (a) ¿Cuánto se alargará el cable? (b) Suponiendo 
+que el cable se comporta como un muelle simple, ¿cuál es la frecuencia de osci- 
+lación del bloque en el extremo del cable? 
+Energía de un objeto sobre un muelle vertical 
+57 ee Un cuerpo de 2,5 kg cuelga de un muelle vertical de constante 
+600 N/m. Oscila con una amplitud de 3 cm. Cuando el cuerpo posee su máximo 
+desplazamiento hacia abajo, encontrar (a) la energía total del sistema, (b) la 
+energía potencial gravitatoria, y (c) la energía potencial del muelle. (d) ¿Cuál es 
+la energía cinética máxima del cuerpo? (Escoger U = 0 cuando el cuerpo está 
+en equilibrio.) 
+58 ee Í Un cuerpo de 1,5 kg, que alarga un muelle en 2,8 cm 
+respecto a su longitud natural cuando cuelga de él en reposo, oscila con una 
+amplitud de 2,2 cm. Hallar (a) la energía total del sistema, (b) la energía poten- 
+cial gravitatoria en el máximo desplazamiento hacia abajo, (c) la energía poten- 
+cial del muelle en su máximo desplazamiento hacia abajo y (d) ¿Cuál es la 
+energía cinética máxima del cuerpo? 
+59 @@ SSM Un objeto de 1,2 kg que cuelga de un muelle de cons- 
+tante de fuerza 300 N/m oscila con una velocidad máxima de 30 cm/s. 
+(a) ¿Cuál es su desplazamiento máximo? Cuando el objeto está en su desplaza- 
+miento máximo, hallar (b) la energía total del sistema, (c) la energía potencial 
+gravitatoria, y (d) la energía potencial del muelle.
+
+424 | Capitulo 14 Oscilaciones 
+Péndulos simples 
+60 e Hallar la longitud de un péndulo simple si el periodo del péndulo 
+es 5 s en un punto en donde g = 9,81 m/s?. 
+61 e ¿Cuál sería el periodo del péndulo del problema 60 en la Luna, en 
+donde la aceleración de la gravedad es un sexto de la correspondiente a la Tie- 
+rra? 
+62 e l Y siea periodo de un péndulo de 70 cm de longitud es 
+1,68 s, ¿cuál es el valor de g en el sitio donde está situado el péndulo? 
+63 e SSM i Un péndulo colgado en el hueco de una esca- 
+lera de un edificio de 10 pisos se compone de una masa grande suspendida de 
+un alambre de 34,0 m de longitud. ¿Cuál es su periodo de oscilación si g = 9,81 
+m/s?? 
+64 es Demostrar que la energía total de un péndulo simple que se 
+mueve con oscilaciones de pequeña amplitud ġo es aproximadamente E = 
+1/2mgL4% (Sugerencia: Utilizar la aproximación cos 6 = 1 — ¢/2 para valores 
+pequeños de 0.) 
+65 ee Un péndulo simple de longitud L está sujeto a un carro que des- 
+liza sin rozamiento hacia abajo por un plano inclinado que forma un ángulo @ 
+con la horizontal, como muestra la figura 14.27. Determinar el periodo de osci- 
+lación del péndulo que está sobre el carro deslizante, 
+Figura 14.27 Problema 65 
+66 es Un péndulo simple de longitud L se libera partiendo del reposo 
+desde un ángulo 4). (a) Suponiendo que el péndulo realiza un movimiento armó- 
+nico simple, determinar su velocidad cuando pasa por la posición @ = 0. (b) Con- 
+siderando la conservación de la energía, determinar exactamente esta velocidad, 
+(c) Demostrar que los resultados de (a) y (b) coinciden cuando @ es pequeño. (d) 
+Determinar la diferencia entre estos resultados para @ = 0.20 rad y L= 1 m. 
+*Péndulos físicos 
+67 e § Y Un disco delgado de 5 kg de masa y con un radio de 
+20 cm se suspende mediante un eje horizontal perpendicular al disco y que pasa 
+por su borde. El disco se desplaza ligeramente del equilibrio y se suelta. Hallar 
+el periodo del movimiento armónico simple que se produce. 
+68 e Un aro circular de 50 cm de radio se cuelga de una varilla hori- 
+zontal delgada, permitiéndose que oscile en el plano del aro. ¿Cuál es el 
+periodo de su oscilación, suponiendo que la amplitud es pequeña? 
+69 e Se suspende una figura plana de 3 kg de un punto situado a 10 cm 
+de su centro de masas. Cuando está oscilando con amplitud pequeña, el periodo 
+de oscilación es 2,6 s. Hallar el momento de inercia / respecto a un eje perpen- 
+dicular al plano de la figura que pasa por el punto de oscilación. 
+70 es El péndulo de un enorme reloj de un ayuntamiento tiene una lon- 
+gitud de 4 m. (a) Considerando que su funcionamiento puede asimilarse al de 
+un péndulo simple que realiza pequeñas oscilaciones, calcular su periodo de 
+oscilación. (b) Para regular su periodo se ha colocado una caja en la mitad de la 
+barra del péndulo con unas cuantas piezas de tamaño y peso parecido al de una 
+moneda, de modo que para cambiar el periodo del péndulo basta añadir o quitar 
+una pieza de la caja. Explicar por qué este método funciona. Si se añaden pie- 
+zas, ¿el periodo del péndulo aumenta o disminuye? 
+71 es La figura 14.28 muestra una pesa con dos masas iguales (conside- 
+radas como masas puntuales) sujetas a los extremos de una barra muy delegada 
+(masa despreciable) de longitud L. (a) Demostrar que el periodo de este pén- 
+dulo es un mínimo cuando el punto de pivotamiento P se encuentra sobre una 
+de las masas. (b) Determinar el periodo de este péndulo físico si la distancia 
+entre P y la masa superior es L/4. 
+Figura 14.28 Problema 71 
+72 eS Supongamos que la barra del problema 71 tiene una masa de 2m 
+(figura 14.29). Determinar la distancia entre la masa superior y el punto de 
+pivotamiento P, de tal modo que el periodo de este péndulo físico sea un 
+mínimo. 
+Figura 14.29 Problema 72 
+73 @@ SSM Tenemos una regla y se nos pide que taladremos un agu- 
+jero de tal modo que cuando pivotemos la regla sobre él, el periodo del péndulo 
+sea un mínimo. ¿Dónde taladraremos el agujero? 
+74 ee | La figura 14.30 muestra un disco uniforme de radio 
+R=0,8 m y masa 6 kg con un pequeño agujero a la distancia d del centro del 
+disco que puede servir de punto de pivote. (a) ¿Cuál debe ser la distancia d para 
+que el periodo de este péndulo físico sea 2,5 s? (b) ¿Cuál debe ser la distancia d 
+para que este péndulo físico tenga el periodo menor posible? ¿Cuál es este 
+periodo? 
+Figura 14.30 Problema 74 
+75 ese Un objeto plano tiene un momento de inercia / respecto a su centro 
+de masas. Cuando se hace girar el objeto alrededor del punto P;, como se indica 
+en la figura 14.31, oscila alrededor del pivote con un periodo 7. Existe otro 
+punto P, en el lado opuesto del centro de masas respecto al cual el objeto oscila 
+con el mismo periodo T. Demostrar que h, + h¿=27*/(477).
+
+Figura 14.31 Problema 75 
+76 es. Se construye un péndulo físico a partir de una lenteja esférica de 
+radio r y masa m colgada de una cuerda (figura 14.32). La distancia desde el 
+centro de la esfera al punto de suspensión es L. Cuando r es mucho menor que 
+L, este péndulo suele considerarse como un péndulo simple de longitud L. 
+(a) Demostrar que para pequeñas oscilaciones el periodo viene dado por 
+| 2r? T =To I+ 
+en donde 7, = 27 ./L/g es el periodo del péndulo simple de longitud L. (b) 
+Demostrar que cuando r es mucho menor que L, el periodo vale aproximada- 
+mente T ~7)(1 + 1/51?). (c) Si L= 1 m y r=2 cm, hallar el error cuando se uti- 
+liza la aproximación T = Ty para este péndulo. ¿Qué tamaño deberá tener el 
+radio de la lenteja para que el error sea del 1 por ciento? 
+\ 
+\ 
+\ i 
+Figura 14.32 Problema 76 
+77 ese Lafigura 14.33 muestra el péndulo de un reloj. La barra uniforme 
+de longitud L = 2,0 m tiene una masa m = 0,8 kg. Sujeto a la barra hay un disco 
+de masa M = 1.2 kg y radio 0,15 m. El reloj se ha construido de modo que mar- 
+que un tiempo perfecto si el periodo del péndulo es exactamente 3,50 s. (a) 
+¿Cuál debe ser la distancia d para que el periodo del péndulo sea 2,5 s? (b) 
+Supongamos que el reloj de péndulo atrasase a 5,0 min por día. ¿A qué distan- 
+Figura 14.33 Problema 77 
+Problemas | 425 
+cia y en qué sentido debe desplazarse el disco para asegurar que el reloj marque 
+correctamente el tiempo? 
+78 see SSM Unrelojde péndulo pierde 48 s por día cuando la ampli- 
+tud del péndulo es 8,4”. ¿Cuál debería ser la amplitud del péndulo para que el 
+reloj marcase el tiempo exacto? 
+79 e. i Y Un reloj de péndulo que oscila con una amplitud 
+muy pequeña se adelanta 5 min cada día. ¿Qué amplitud angular deberá tener el 
+péndulo para mantener el tiempo correcto? 
+Oscilaciones amortiguadas 
+80 e Demostrar que la constante de amortiguamiento, b, tiene unidades 
+de kg/s. 
+81 e Un oscilador tiene un factor O igual a 200. ¿En qué porcentaje 
+disminuye su energía durante un periodo? 
+82 o 1 Un objeto de 2 kg ligado a un muelle de constante 
+k = 400 N/m oscila con una amplitud inicial de 3 cm. Hallar (a) el periodo y (b) 
+la energía inicial total. (c) Si la energía disminuye en un 1 por ciento por 
+periodo, hallar la constante de amortiguamiento b y el factor Q. 
+83 es Demostrar que el cociente de las amplitudes de dos oscilaciones 
+sucesivas en un oscilador forzado es constante. 
+84 es Un oscilador tiene un periodo de 3 s. Su amplitud disminuye en 
+un 5 por ciento durante cada ciclo. (a) ¿En cuánto disminuye su energía durante 
+cada ciclo? (b) ¿Cuál es la constante de tiempo 77? (c) ¿Cuál es el factor Q? 
+85 ee Un oscilador posee un factor O igual a 20. (a) ¿En qué fracción 
+disminuye la energía en cada ciclo? (b) Utilizar la ecuación 14.37 para determi- 
+nar la diferencia en porcentaje entre (Y y 0). (Sugerencia: Utilizar la aproxima- 
+ción (1 +x) =1+ E para valores pequeños de x.) 
+86 oe i Un sistema masa-muelle amortiguado oscila con una 
+frecuencia de 200 Hz. La constante de tiempo del sistema es 2.0 s. En el tiempo 
+t = 0, la amplitud de oscilación es 6.0 cm y la energía del sistema oscilante es 
+60 J. (a) ¿Cuáles son las amplitudes de oscilación para 1=2,0 s y t =4,0 s? (b) 
+¿Cuánta energía se disipa en el primer intervalo de 2 s y en el segundo intervalo 
+de 2 s? 
+87 ee SM i Se ha establecido que cuando la Tierra vibra 
+tiene un periodo de resonancia de 54 min y un factor O de aproximadamente 
+400, y que después de un gran terremoto, la Tierra “tiembla” (se produce una 
+vibración continua) durante dos meses. (a) Determinar el porcentaje de energía 
+de vibración perdida debido a las fuerzas de amortiguamiento en cada ciclo. (b) 
+Demostrar que después de n periodos, la energía es E, = (0,984)" Eo., siendo Es 
+la energía inicial. (c) Si la energía inicial de vibración de un terremoto es Ep 
+¿cuál es la energía al cabo de 2 días? 
+88 es Un péndulo compacto que se usa en un experimento de física 
+tiene una masa de 15 g y una longitud de 75 cm. Para que el péndulo comience 
+a oscilar un estudiante de física instala un ventilador. que produce un flujo hori- 
+zontal de aire de velocidad 7 m/s hacia la lenteja. Con el ventilador en marcha, 
+la lenteja está en equilibro cuando el péndulo está inclinado 5° respecto la 
+dirección vertical. Cuando se para el ventilador, se deja que el péndulo oscile. 
+(a) Si suponemos que la fuerza de resistencia a causa del aire viene dada por — 
+by, ¿cuál es la constante de tiempo o tiempo de extinción T de las oscilaciones 
+del péndulo? (b) ¿Cuánto tiempo pasará hasta que la amplitud de la oscilación 
+sea de 1°? 
+Oscilaciones forzadas y resonancia 
+89 e Determinar la frecuencia de resonancia de cada uno de los tres 
+sistemas indicados en la figura 14.34.
+
+426 | Capítulo 14 Oscilaciones 
+Le 
+k= 400 N/m k= 800 N/m A / 8 , 
+(L=2m 
+m=8kg 
+(b) (c) 
+Figura 14.34 Problema 89 
+90 e Un oscilador amortiguado pierde el 2 por ciento de su energía en 
+cada ciclo. (a) ¿Cuál es su factor Q? (b) Si su frecuencia de resonancia es 300 Hz, 
+¿cuál es la anchura de la curva de resonancia A@ cuando el oscilador está for- 
+zado? 
+91 ee Un objeto de 2 kg oscila sobre un muelle de constante de fuerza 
+k= 400 N/m. La constante de amortiguamiento es b = 2,00 kg/s. Está forzado por 
+una fuerza sinusoidal de valor máximo 10 N y frecuencia angular @ = 10 rad/s. 
+(a) ¿Cuál es la amplitud de las oscilaciones? (b) Si se varía la frecuencia de la 
+fuerza impulsora, ¿a qué frecuencia se producirá la resonancia? (c) Hallar la am- 
+plitud de las vibraciones en la resonancia. (d) ¿Cuál es la anchura Ao de la 
+curva de resonancia? 
+92 ee Un oscilador amortiguado pierde el 3,5 por ciento de su energía 
+durante cada ciclo, (a) ¿Cuántos ciclos han de transcurrir antes de que se disipe 
+la mitad de su energía? (b) ¿Cuál es el factor Q? (c) Si la frecuencia natural es 
+100 Hz, ¿cuál es la anchura de la curva de resonancia cuando el oscilador se ve 
+forzado exteriormente? 
+Colisiones 
+93 ese La figura 14.35 muestra un sistema vibrante masa-muelle colocado 
+en una superficie sin rozamiento y una segunda masa igual que se mueve hacia 
+la masa vibrante con velocidad v. El movimiento de la masa vibrante viene dado 
+por x(t) = (0,1 m) cos (40 s-'r), en donde x es el desplazamiento de la masa 
+desde su posición de equilibrio. Las dos masas chocan elásticamente justo 
+cuando la masa vibrante pasa por su posición de equilibrio y se mueve hacia la 
+derecha. (a) ¿Cuál debe ser la velocidad v de la segunda masa para que el sis- 
+tema masa-muelle quede en reposo después de la colisión elástica? (b) ¿Cuál es 
+la velocidad de la segunda masa después de la colisión elástica? 
+Figura 14.35 Problema 93 
+94 ese Después de la colisión elástica del problema 93, la energía ciné- 
+tica de la masa en retroceso es 8,0 J. Determinar el valor de las masas m y la 
+constante del muelle k. 
+95 @@@ Un objeto de 2 kg de masa apoyado sobre una superficie horizon- 
+tal sin rozamiento se une a un muelle de constante 600 N/m. Otro objeto de 1 kg 
+de masa desliza sobre la superficie acercándose al primero a 6 m/s. (a) Hallar la 
+amplitud de oscilación si el segundo objeto choca de forma perfectamente 
+inelástica quedando unido también al muelle. ¿Cuál es el periodo de oscila- 
+ción? (b) Hallar la amplitud y el periodo de oscilación si el choque es elástico. 
+(c) Para cada tipo de colisión, escribir una expresión para la posición x en fun- 
+ción del tiempo ż para el objeto unido al muelle, suponiendo que el choque se 
+produce en el instante 1= 0. 
+Problemas generales 
+96 e Una partícula posee un desplazamiento dado por x= 0,4 cos (31+ 77/4), 
+en donde x viene en metros y ¢ en segundos. (a) Hallar la frecuencia f y el 
+periodo T del movimiento. (b) ¿En donde está la partícula en t= 0? (c) ¿Y en 
+1=0,5 s? 
+97 e (a) Hallar una expresión para la velocidad de la partícula cuya 
+posición viene dada en el problema 96. (b) ¿Cuál es la velocidad en el instante 
+t = 0? (c) ¿Cuál es la velocidad máxima? (d) ¿En qué momento después de t = 0 
+se da esta velocidad máxima por primera vez? 
+98 e Un cuerpo unido a un muelle horizontal oscila con un periodo de 
+4,5 s. Si el cuerpo se suspende verticalmente del muelle, ¿en cuánto se alarga el 
+muelle respecto a su longitud natural cuando el cuerpo está en equilibrio? 
+99 @@ SSM Una partícula pequeña de masa m se desliza sin roza- 
+miento en un cuenco esférico de radio r. (a) Demostrar que el movimiento de la 
+masa es el mismo que si estuviese sujeta a un muelle de longitud r. (b) Se des- 
+plaza una partícula de masa m, una pequeña distancia s, de la parte inferior del 
+cuenco (figura 14.36), siendo s, mucho menor que r. Otra segunda masa m, se 
+desplaza en sentido opuesto a una distancia s, = 3s, (s, es también mucho 
+menor que r). Si las masas se dejan libres en el mismo instante, ¿en dónde se 
+encontrarán? Explicarlo. 
+Figura 14.36 Problemas 99, 100 
+100 es Supongamos ahora que una pequeña bola de masa m y radio R 
+rueda sin deslizar por el fondo del cuenco de la figura 14.36. (a) Escribir una 
+expresión para la energía total de la bola en función de su velocidad y de la dis- 
+tancia (supuesta pequeña) al centro del cuenco. (b) Comparando esta expresión 
+con la de la energía total de una bola de masa m que resbala sin rozamiento por 
+la superficie del cuenco, determinar la frecuencia de oscilación de la bola res- 
+pecto al centro del cuenco. 
+101 ee 1 Y Cuando un avión disminuye su velocidad a fin de 
+aterrizar, un viajero mide su aceleración suspendiendo un yo-yo como un pén- 
+dulo simple y observando que cuando la lenteja (masa 40 g) está en reposo res- 
+pecto a él, la cuerda (longitud 70 cm) forma un ángulo de 22” con la vertical. 
+Determinar el periodo T para pequeñas oscilaciones de este péndulo. 
+102 es Una balanza de torsión consiste en un objeto de momento de 
+inercia / que se cuelga del extremo de un hilo. Si se retuerce el hilo, éste pro- 
+duce un momento restaurador t= —x@, donde xes la constante de torsión y O es 
+el ángulo de deformación. Demostrar que cuando se tuerce el hilo un ángulo 
+pequeño la frecuencia de las oscilaciones de torsión vale @ = /x/1. 
+103 @@ En la figura 14.37 se muestra una balanza de torsión sencilla que 
+se utiliza en una rica variedad de experimentos de física (véase el problema 
+102). Supongamos que tenemos una barra de 5,0 cm de longitud y de masa des- 
+preciable que tiene dos partículas idénticas de 50 g de masa en sus extremos y
+
+que está atada al extremo del hilo de la balanza. Si el periodo de oscilación es 
+de 80 s, ¿cuál es la constante de torsión de la balanza? 
+EA mm SS 
+Figura 14.37 Problema 103 
+104 ee SSM i Un cubo de madera de arista a y masa m flota 
+en agua con una de sus caras paralela a la superficie del agua. La densidad del 
+agua es p. Determinar el periodo de oscilación en la dirección vertical cuando 
+se empuja el cubo ligeramente hacia abajo. 
+105 es Unreloj de péndulo funciona correctamente en la superficie de la 
+Tierra. ¿En qué situación el error será mayor: si el reloj se baja a una mina de 
+profundidad h o si se eleva a una altura 4? Suponer que h << Ry 
+106 ee Í La figura 14.38 muestra un péndulo de longitud L con 
+una lenteja de masa M. La lenteja está unida a un muelle de constante k como 
+se indica. Cuando la lenteja está directamente por debajo del soporte del pén- 
+dulo, el muelle tiene su longitud natural de equilibrio. (a) Deducir una expre- 
+sión para el periodo de este sistema oscilante para vibraciones de pequeña 
+amplitud. (b) Suponer que M = | kg y L es tal que en ausencia del muelle el 
+periodo es 2,0 s. ¿Cuál es la constante del muelle k si el periodo del sistema 
+oscilante es 1,0 5? 
+Figura 14.38 Problema 106 
+107 @@ Una masa m, que se desliza sobre una superficie horizontal sin 
+rozamiento está sujeta a un muelle de constante de fuerza k y oscila con ampli- 
+tud A. Cuando el muelle está con su mayor deformación y la masa está instantá- 
+neamente en reposo, se coloca en la parte superior de m; otra masa m. (a) 
+¿Cuál es el menor valor del coeficiente de rozamiento estático U. que permite 
+que mm, no deslice sobre m,? (b) Explicar cómo se modifican la energía total E, 
+la amplitud A, la frecuencia angular 0) y el periodo T al situar m, sobre m, supo- 
+niendo que el rozamiento es suficientemente grande para que no haya desliza- 
+miento. 
+108 es Una caja de 100 kg de masa cuelga del techo de una habitación 
+sujeta a un muelle de constante 500 N/m. El muelle tiene una longitud natural 
+de 0,5 m. (a) Determinar la posición de equilibrio de la caja. (b) Un muelle 
+idéntico se cuelga del techo y de la misma caja, al lado del anterior. Determinar 
+qué frecuencia tendrán las oscilaciones cuando se libere la caja. (c) ¿Cuál será 
+la nueva posición de equilibrio de la caja, cuando acabe parándose? 
+Problemas | 427 
+109 «ee Laaceleración debida a la gravedad g varia con la situación geográ- 
+fica debido a la rotación de la Tierra y a que la Tierra no es exactamente esférica. 
+Este hecho fue descubierto por primera vez durante el siglo XVI, cuando se 
+observó que un reloj de péndulo cuidadosamente ajustado para marcar el tiempo 
+correcto en París, se atrasaba alrededor de 90 s/día cerca del ecuador. (a) Demos- 
+trar que una pequeña variación en la aceleración de la gravedad Ag produce un 
+pequeño cambio AT en el periodo de un péndulo dado por A7/T = 3 Ag/g. (Uti- 
+lizar el cálculo diferencial para aproximar los valores de AT y Ag.) (b) ¿Qué 
+variación de g se necesita para justificar un cambio de periodo de 90 s/día? 
+110 es La figura 14.39 muestra dos masas iguales de 0,6 kg unidas con 
+pegamento entre sí y conectadas a un muelle de constante k = 240 N/m. Las 
+masas, que descansan sobre una superficie horizontal sin rozamiento, se des- 
+plazan 0,6 m de su posición de equilibrio y se dejan en libertad. Antes de libe- 
+rarse se depositan unas gotas de disolvente sobre el pegamento que las une. (a) 
+Determinar la frecuencia de vibración y la energía total del sistema vibrante 
+antes de que el pegamento se haya disuelto. (b) Determinar la frecuencia de 
+vibración, amplitud y energía del sistema vibrante si el pegamento se disuelve 
+(1) en la compresión máxima y (2) en la extensión máxima. 
+k = 240 N/m 
+Posición A m de equilibrio 
+Figura 14.39 Problema 110 
+111 ee Demostrar que en los dos casos de la figura 14.40a y b, el objeto 
+oscila con una frecuencia f = [1/(27)]./k./m, en donde k, viene dado por 
+(a) keg = Ky + ka y (b) Uk. = Wk, + Uk). (Indicación: Hallar la fuerza neta F 
+sobre el objeto para un pequeño desplazamiento x y escribir F =—k.; x. Obsér- 
+vese que en (b) los muelles se deforman en cantidades diferentes cuya suma es x.) 
+(b) 
+Figura 14.40 Problema 111 
+112 @@ SSM Un bloque pequeño de masa m, descansa sobre un pistón 
+que está vibrando verticalmente con movimiento armónico simple dado por y = 
+A sen or. (a) Demostrar que el bloque se separará del pistón si @7A > g. (b) Si 
+ofA = 32 y A= 15 cm, ¿en qué instante el bloque se separará del pistón? 
+113 ee | El émbolo de una máquina de lanzamiento de bolas 
+tiene una masa m, y está conectado a un muelle de constante de fuerza k (figura 
+14.41). El muelle se comprime una distancia x a partir de su posición de equi- 
+librio, x = 0, y se deja en libertad. Una bola de masa m, está junto al émbolo. (a) 
+¿En qué punto la bola se separa del émbolo? (b) ¿Cuál es la velocidad v, de la 
+bola cuando ésta se separa? (c) ¿A qué distancia x; el émbolo se detiene 
+momentáneamente? (Suponer que la superficie es horizontal y sin rozamiento 
+de modo que la bola se desliza sin rodar.)
+
+428 | Capitulo 14 Oscilaciones 
+————» 
+Ee “b= Vir 
+x=0 
+Figura 14.41 Problema 113 
+114 es Una plataforma nivelada vibra horizontalmente con movimiento 
+armónico simple con un periodo de 0.8 s. (a) Una caja sobre la plataforma 
+comienza a deslizar cuando la amplitud de vibración alcanza los 40 cm; ¿cuál 
+es el coeficiente de rozamiento estático entre la caja y la plataforma? (b) Si el 
+coeficiente de rozamiento estático entre la caja y la plataforma fuera 0,40, ¿cuál 
+sería la amplitud máxima de vibración antes de que la caja deslizase? 
+115 ese La energía potencial de una masa m en función de la posición 
+viene expresada por U(x) = Uy(a+ 1/0), en donde a@ = x/a y a es una constante. 
+(a) Representar U(x) en función de x para 0,la < x < 3a. (b) Determinar el valor 
+de x = xy en el equilibrio estable. (c) Expresar la energía potencial U(x) para x = 
+Xo + €, siendo € un pequeño desplazamiento de la posición de equilibrio xp. 
+(d) Aproximar el término 1/x utilizando el desarrollo binómico 
+nin- 1) , nin- n -2) 5 
+UPA GA) 
+con r = Elx, << 1 y despreciar los términos de potencia superior a 77. (e) Com- 
+parar el resultado obtenido con el potencial de un oscilador armónico simple. 
+Demostrar que la masa experimentará un movimiento armónico simple para 
+pequeños desplazamientos del equilibrio y determinar la frecuencia de este 
+movimiento. 
+116 @@@ Un tambor cilíndrico sólido de masa 6.0 kg y diámetro 0,06 m 
+rueda sin deslizamiento sobre una superficie horizontal (figura 14.42). El eje del 
+tambor está atado a un muelle de constante k = 4000 N/m como se indica. (a) 
+Determinar la frecuencia de oscilación de este sistema para pequeños desplaza- 
+mientos del equilibrio. (b) ¿Cuál es el valor mínimo del coeficiente de roza- 
+miento estático para que el tambor no deslice cuando la energía de vibración es 
+de 5,0 J? 
+Figura 14.42 Problema 116 
+117 eee SSM  Siatamos dos cuerpos de masas m; y m a los dos extre- 
+mos de un muelle de constante & y los hacemos oscilar, demostrar que la fre- 
+cuencia de oscilación es @ = (k/1)'?, donde U = mmx/(m,+m:.) es la 
+masa reducida del sistema. 
+118 es Uno de los modos vibracionales de la molécula de HCI tiene una 
+frecuencia de 8,969 x 10" s”!, Usando la relación deducida en el problema 
+117, determinar la constante k de la molécula de HCl. 
+119 es Enel problema 118, si se reemplaza el átomo de hidrógeno de la 
+molécula de HCI por un átomo de deuterio, ¿cuál será la nueva frecuencia de 
+vibración de la molécula? (El átomo de deuterio está fermado por un protón y 
+un neutrón.) 
+120 @@@ Un bloque de masa m situado sobre una mesa horizontal está 
+unido a un muelle de constante k como se muestra en la figura 14.43. El coefi- 
+ciente de rozamiento cinético entre el bloque y la masa es 4. Se estira el mue- 
+lle una longitud A y luego se le deja libre. (a) Aplicar la segunda ley de Newton 
+al bloque para obtener una ecuación para su aceleración d*x/dr durante el pri- 
+mer medio ciclo, durante el cual el bloque se está moviendo hacia la izquierda. 
+Demostrar que la ecuación resultante puede escribirse como d2x’/dP =-—aPx, 
+en donde @ = Jk/m y Y =x — Xo con xy = Hemgik = Hgl&. (b) Repetir el 
+apartado (a) para el segundo semiciclo, cuando el bloque se mueve hacia la 
+derecha y demostrar que d°x"/dr =—o*y”, siendo x" = x + xp y teniendo xy el 
+mismo valor. (c) Utilizar una hoja de cálculo para hacer un gráfico de los pri- 
+meros 5 semiciclos para A = 10x». Describir el movimiento, si lo hay, después 
+del quinto semiciclo. 
+Figura 14,43 Problema 120 
+121 @@@ La figura 14.44 muestra un semicilindro de masa M y radio R que 
+descansa sobre una superficie horizontal. Si un lado del semicilindro se empuja 
+ligeramente y luego se libera, el objeto oscilará alrededor de su posición de 
+equilibrio. Determinar el periodo de esta oscilación. 
+Figura 14.44 Problema 121 
+122 eee SSM Se perfora un túnel pequeño a través de la Tierra como 
+se indica en la figura 14.45. Suponer que las paredes carecen de rozamiento. (a) 
+La fuerza gravitatoria ejercida por la Tierra sobre una partícula de masa m a 
+una distancia r del centro de la misma cuando r < Ry es F,=-—(GmMy/Rhr, en 
+donde My y Ry son la masa y el radio de la Tierra respectivamente. Demostrar 
+que la fuerza neta sobre una partícula de masa m situada a una distancia x del 
+centro del túnel viene dada por F, = —(GmMy/Rpx, y que el movimiento de la 
+partícula es, por consiguiente, armónico. (b) Demostrar que el periodo del 
+movimiento viene dado por T = 27 ./Ry/g y hallar su valor en minutos. 
+(Resulta ser el mismo periodo que el de un satélite que orbite la Tierra cerca de 
+su superficie y es independiente de la longitud del túnel.) 
+Figura 14,45 Problema 122 
+123 @@@ Un oscilador amortiguado tiene una frecuencia (Y que es un 10 
+por ciento menor que su frecuencia sin amortiguamiento. (a) ¿En qué factor 
+disminuye su amplitud en cada oscilación? (b) ¿En qué factor se reduce su 
+energía durante cada oscilación?
+
+124 eee Demostrar mediante sustitución directa que la ecuación 14.52 es 
+una solución de la ecuación 14.51. 
+125 ese SSM En este problema hay que obtener la expresión corres- 
+pondiente a la potencia media cedida por una fuerza impulsora a un oscilador 
+forzado (figura 14.24), 
+(a) Demostrar que la potencia instantánea cedida por la fuerza impulsora es 
+P = Fy=—AQF) cos wt sen (wt — ô) 
+(b) Utilizar la identidad trigonométrica sen (0, — @,) = sen @, cos @,—cos 6, sen 6, 
+para demostrar que esta última expresión puede escribirse 
+P=AOF, sen ô cos? wt —A@F,y cos cos ar sen wt 
+(c) Demostrar que el valor medio del segundo término del resultado del apar- 
+tado (b) calculado en uno o más periodos es cero y que, por lo tanto, 
+P,, = AOF, sen ô 
+(d) A partir de la ecuación 14.54 para tg 6, construir un triángulo rectángulo en 
+el que el cateto opuesto al ángulo ô sea bw y el adyacente sea m(0j — a”) 
+y utilizar este triángulo para demostrar que 
+PO ba a b@A 
+mo- o +b Fo 
+(e) Utilizar este resultado de (d) para eliminar œA de forma que la potencia 
+media cedida pueda escribirse 
+ey ee bar FF Py = 5 sen ô= a ee (14.55) 
+Problemas | 429 
+126 @@@ En este problema debe de utilizarse el resultado del problema 125 
+para deducir la ecuación 14.49, que relaciona la anchura de la curva de reso- 
+nancia con el valor de Q cuando la resonancia es aguda. En la resonancia el 
+denominador de la fracción entre corchetes de la ecuación 14.55 es bap y Pm 
+tiene un valor máximo. (La ecuación 14.55 se encontrará en el problema 125.) 
+En el caso de una resonancia aguda, la variación de @ del numerador de la 
+ecuación 14.55 puede despreciarse. Entonces la potencia cedida será la mitad 
+de su valor máximo en los valores de @ para los cuales el denominador sea 
+2b? ay. 
+(a) Demostrar entonces que @ satisface m*(@— @y)*(@— Mp)? = b aj. 
+(b) Utilizando la aproximación @+ (4, = 24%), demostrar que @— 0, = +b/2m. 
+(c) Expresar b en función de Q. 
+(d) Combinar los resultados de (b) y (c) para demostrar que existen dos valores 
+de @ para los que la potencia cedida es la mitad de la correspondiente en la 
+resonancia y que vienen dados por 
+Q=0- = y O: = Mt oe: 
+Por consiguiente. @, — @, = A@= @/Q. que es equivalente a la ecuación 14.49. 
+127 ese El potencial de Morse, que frecuentemente se usa para representar 
+las fuerzas interatómicas, puede escribirse de la forma U(r) = D(1—e Py, 
+donde r es la distancia entre los dos núcleos atómicos. (a) Usando una hoja de 
+cálculo o una calculadora gráfica, representar gráficamente el potencial de 
+Morse usando D = 5 eV, B= 0,2 nm! y rp = 0,75 nm. (b) Determinar a partir 
+del potencial de Morse la separación de equilibrio y la constante k para peque- 
+ños desplazamientos del equilibrio. (c) Determinar una fórmula para la fre- 
+cuencia de oscilación de una molécula diatómica homonuclear (es decir, con 
+los dos átomos iguales) si los átomos tienen una masa m.
+
+MOVIMIENTO Capitulo 
+ONDULATORIO 
+15 
+15.1 Movimiento 
+ondulatorio simple 
+15.2 Ondas periódicas 
+15.3 Ondas en tres 
+dimensiones 
+15.4 Ondas y barreras 
+15.5 Efecto Doppler 
+Este radar de la policía lanza ondas electromagnéticas, que se mueven a la velocidad de la luz, 
+y que se reflejan en un coche en movimiento 
+¿Cómo mide el policía la velocidad del vehículo? (Véase el ejemplo 15.12.) 
+Es ondas transportan energía y momento lineal a través del espacio sin transportar ma- 
+teria. Cuando una onda se mueve por la superficie del agua de un estanque, las moléculas 
+de agua oscilan hacia arriba y hacia abajo pero no cruzan el estanque con la onda. La onda 
+transporta energía y momento pero, en cambio, no transporta masa. Un bote de remos 
+también se mueve hacia arriba y hacia abajo impulsado por las ondas u olas, pero tampoco 
+cruzará el estanque impulsado por ellas. Las ondas de agua. las ondas generadas cuando 
+pulsamos una cuerda de guitarra y las ondas sonoras, todas ellas comportan una oscila- 
+ción. 
+© En este capítulo seguimos analizando el movimiento oscilatorio que comenza- 
+mos en el capítulo 14, estudiando las ondas periódicas, en especial las ondas armó- 
+nicas. Veremos que las ondas mecánicas se generan cuando hay una perturbación 
+en un medio, como el aire o el agua, mientras que las ondas electromagnéticas pue- 
+den existir sin que necesariamente haya un medio material por el cual la onda se 
+propague.
