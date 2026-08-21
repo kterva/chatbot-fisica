@@ -46,7 +46,7 @@ class OpenAICompatibleProvider(LLMProvider):
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_message},
             ],
-            "temperature": 0.3,
+            "temperature": 0.15,
             "max_tokens": 1024,
         }
         headers = {"Authorization": f"Bearer {self._api_key}"}
