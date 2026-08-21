@@ -19,13 +19,33 @@ STOPWORDS = {
 _WORD_RE = re.compile(r"[a-zA-ZáéíóúÁÉÍÓÚñÑüÜ]+")
 _PARAGRAPH_RE = re.compile(r"\n\s*\n")
 
+# Siglas como "M.R.U.V." (Movimiento Rectilíneo Uniformemente Variado) o "M.C.U."
+# (Movimiento Circular Uniforme) son vocabulario central de estos libros, escritas
+# casi siempre con un punto entre cada letra. Sin esta normalización, _WORD_RE las
+# parte en letras sueltas de largo 1 que el filtro de longitud descarta, y la sigla
+# "MRU"/"MRUV" (como la escribiría un estudiante, sin puntos) casi no tiene señal en
+# el corpus aunque el tema esté ampliamente cubierto.
+_DOTTED_ACRONYM_RE = re.compile(r"\b(?:[a-zA-Z]\.){2,}")
+
 # Fragmentos más cortos que esto (títulos sueltos, restos de OCR) se fusionan con el
 # siguiente en vez de puntuarse como unidad propia: son demasiado chicos para que su
 # conteo de palabras signifique algo.
 MIN_CHUNK_CHARS = 200
 
+# Fragmentos con menos palabras "de contenido" (post-tokenización) que esto se
+# descartan directamente de la selección, aunque superen MIN_CHUNK_CHARS: suelen ser
+# tablas de respuestas o listas de ejercicios resueltos con muchos números/símbolos y
+# poco texto real, donde una sigla repetida unas pocas veces (ej. "M.R.U." en una
+# tabla de soluciones) dispara el score de forma artificial por la poca cantidad de
+# palabras totales — no son un buen contexto explicativo para el modelo de todas
+# formas. Encontrado en la práctica: una tabla de respuestas en un capítulo de
+# fluidos, con solo 33 palabras, superaba en score a los párrafos explicativos reales
+# del capítulo de cinemática para la pregunta "MRU".
+MIN_CHUNK_WORDS = 40
+
 
 def _tokenize(text: str) -> list[str]:
+    text = _DOTTED_ACRONYM_RE.sub(lambda m: m.group(0).replace(".", ""), text)
     words = _WORD_RE.findall(text.lower())
     return [w for w in words if w not in STOPWORDS and len(w) > 2]
 
@@ -99,7 +119,7 @@ def select_context(question: str) -> str:
         for chunk in _split_into_chunks(text):
             counts = Counter(_tokenize(chunk))
             total_words = sum(counts.values())
-            if total_words == 0:
+            if total_words < MIN_CHUNK_WORDS:
                 continue
             chunk_data.append((path, chunk, counts, total_words))
 
