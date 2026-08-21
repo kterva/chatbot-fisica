@@ -35,14 +35,8 @@ cp .env.example .env   # completa tu API key del proveedor elegido
 uvicorn app.main:app --reload
 ```
 
-En otra terminal, sirve el widget de prueba:
-
-```bash
-cd frontend/widget
-python3 -m http.server 8080
-```
-
-Abre `http://localhost:8080/chat-widget.html` en el navegador.
+El mismo proceso sirve la API y el widget (no hace falta un segundo servidor para el
+frontend). Abre `http://localhost:8000/` en el navegador.
 
 ## Probar con un proveedor real (NVIDIA NIM)
 
@@ -68,8 +62,7 @@ proveedor se ocultan al usuario), pero para tener respuestas reales del asistent
      -H "Content-Type: application/json" \
      -d '{"question":"¿Qué es la segunda ley de Newton?"}'
    ```
-   o abrí el widget (`frontend/widget/chat-widget.html`, servido como se indica arriba)
-   y conversá desde el navegador.
+   o abrí `http://localhost:8000/` y conversá desde el navegador.
 
 ## Cambiar de proveedor LLM
 

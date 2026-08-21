@@ -68,18 +68,23 @@ mínima, para que una futura migración a RAG sea un cambio localizado:
 2. **Almacenamiento** — `context/`: hoy archivos de texto plano. En el futuro, una base
    vectorial (Chroma, FAISS, pgvector, etc.).
 3. **Selección de contexto** — `app/context_selector.py`, función
-   `select_context(question: str) -> str`. Hoy: TF-IDF simplificado (sin embeddings)
-   entre la pregunta y cada archivo de `context/` — frecuencia de la palabra en el
-   archivo, ponderada por qué tan poco frecuente es esa palabra en el resto del
-   corpus — con un presupuesto máximo de caracteres (`MAX_CONTEXT_CHARS`) y un score
-   mínimo (`MIN_CONTEXT_SCORE`) por debajo del cual se considera que no hay contexto
+   `select_context(question: str) -> str`. Hoy: TF-IDF simplificado (sin embeddings),
+   no entre la pregunta y cada archivo completo de `context/`, sino entre la pregunta
+   y cada **fragmento** (párrafo/sección) de cada archivo — los archivos son
+   capítulos completos (mediana ~110.000 caracteres), demasiado grandes para
+   puntuarlos como unidad sin perder la sección específica que responde la pregunta.
+   Se puntúan tanto palabras sueltas como bigramas (pares de palabras adyacentes, ej.
+   "movimiento_rectilíneo") para distinguir temas que comparten casi todo su
+   vocabulario (ej. MRUV vs. movimiento circular uniformemente variado). Con un
+   presupuesto máximo de caracteres (`MAX_CONTEXT_CHARS`) y un score mínimo
+   (`MIN_CONTEXT_SCORE`) por debajo del cual se considera que no hay contexto
    relevante (ver docs/TEMARIO.md para el detalle y la calibración). En el futuro:
    embeddings + búsqueda por similitud semántica. **La firma de la función no
    cambia**, por lo que `main.py` no requiere modificaciones al migrar.
-   Costo actual: relee y retokeniza todo `context/` en cada consulta (~100 archivos,
-   ~10MB), del orden de algunos cientos de ms — aceptable frente a la latencia del
-   proveedor LLM, pero es lo primero que degradaría si el corpus sigue creciendo
-   mucho más.
+   Costo actual: relee, trocea y retokeniza todo `context/` en cada consulta (~100
+   archivos, ~10MB, ~3.200 fragmentos), del orden de algunos cientos de ms —
+   aceptable frente a la latencia del proveedor LLM, pero es lo primero que
+   degradaría si el corpus sigue creciendo mucho más.
 4. **Comunicación con el LLM** — `app/providers/`: ya desacoplada de la selección de
    contexto y de la extracción documental; no requiere cambios para RAG.
 
