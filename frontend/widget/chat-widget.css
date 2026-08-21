@@ -5,6 +5,14 @@ body {
   padding: 24px;
 }
 
+.fisica-page-title {
+  max-width: 480px;
+  margin: 0 auto 16px;
+  color: #1f3a5f;
+  font-size: 22px;
+  text-align: center;
+}
+
 .fisica-chat-widget {
   max-width: 480px;
   margin: 0 auto;
@@ -25,14 +33,17 @@ body {
 }
 
 .fisica-chat-temario {
-  border-bottom: 1px solid #d5d8dc;
+  max-width: 480px;
+  margin: 16px auto 0;
+  border: 1px solid #d5d8dc;
+  border-radius: 8px;
   background: #f8f9fa;
   font-size: 13px;
   color: #3a3f47;
 }
 
 .fisica-chat-temario summary {
-  padding: 8px 16px;
+  padding: 10px 16px;
   cursor: pointer;
   font-weight: 600;
   color: #1f3a5f;
@@ -52,6 +63,18 @@ body {
   padding: 0 16px 12px 16px;
   color: #6b7078;
   font-style: italic;
+}
+
+.fisica-page-footer {
+  max-width: 480px;
+  margin: 16px auto 0;
+  text-align: center;
+  font-size: 12px;
+  color: #8a8f98;
+}
+
+.fisica-page-footer a {
+  color: #1f3a5f;
 }
 
 .fisica-chat-messages {

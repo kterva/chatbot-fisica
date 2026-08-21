@@ -7,26 +7,10 @@
   <link rel="stylesheet" href="chat-widget.css" />
 </head>
 <body>
+  <h1 class="fisica-page-title">Chatbot de Física</h1>
+
   <div id="fisica-chat-widget" class="fisica-chat-widget">
     <div class="fisica-chat-header">Asistente de Física</div>
-    <details class="fisica-chat-temario">
-      <summary>Temas disponibles</summary>
-      <ul>
-        <li>Cinemática (MRU, MRUV, caída libre)</li>
-        <li>Movimiento en dos dimensiones (proyectiles)</li>
-        <li>Dinámica (Leyes de Newton, fuerzas, estática, gravitación)</li>
-        <li>Trabajo y Energía</li>
-        <li>Cantidad de Movimiento (impulso, choques)</li>
-        <li>Movimiento Circular</li>
-        <li>Dinámica Rotacional (torque, momento de inercia)</li>
-        <li>Termodinámica</li>
-        <li>Fluidos (Pascal, Arquímedes, Bernoulli)</li>
-      </ul>
-      <p class="fisica-chat-temario-nota">
-        El asistente solo responde con el material cargado sobre estos temas.
-        Fuera de ellos, no va a poder ayudarte por ahora.
-      </p>
-    </details>
     <div id="fisica-chat-messages" class="fisica-chat-messages"></div>
     <form id="fisica-chat-form" class="fisica-chat-form">
       <textarea
@@ -40,6 +24,30 @@
       <button type="submit" id="fisica-chat-submit" class="fisica-chat-submit">Enviar</button>
     </form>
   </div>
+
+  <details class="fisica-chat-temario" open>
+    <summary>Temas disponibles</summary>
+    <ul>
+      <li>Cinemática (MRU, MRUV, caída libre)</li>
+      <li>Movimiento en dos dimensiones (proyectiles)</li>
+      <li>Dinámica (Leyes de Newton, fuerzas, estática, gravitación)</li>
+      <li>Trabajo y Energía</li>
+      <li>Cantidad de Movimiento (impulso, choques)</li>
+      <li>Movimiento Circular</li>
+      <li>Dinámica Rotacional (torque, momento de inercia)</li>
+      <li>Termodinámica</li>
+      <li>Fluidos (Pascal, Arquímedes, Bernoulli)</li>
+    </ul>
+    <p class="fisica-chat-temario-nota">
+      El asistente solo responde con el material cargado sobre estos temas.
+      Fuera de ellos, no va a poder ayudarte por ahora.
+    </p>
+  </details>
+
+  <footer class="fisica-page-footer">
+    Fase 1.5 ·
+    <a href="https://github.com/kterva/chatbot-fisica" target="_blank" rel="noopener">github.com/kterva/chatbot-fisica</a>
+  </footer>
 
   <script src="chat-widget.js"></script>
 </body>
