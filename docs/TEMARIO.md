@@ -39,29 +39,58 @@ de alcanzar por dos motivos, encontrados en la práctica al integrar estos libro
    señal.
 
 Se pasó a **TF-IDF simplificado**: cada palabra clave de la pregunta pesa según qué
-tan seguido aparece en el archivo candidato (frecuencia del término, normalizada por
-el largo del archivo) y qué tan poco frecuente es esa palabra en el resto del corpus
-(frecuencia inversa de documento). Esto hace que una palabra específica como
-"refracción" pese mucho más que una genérica como "fuerza", y que un archivo chico y
-enfocado en el tema (ej. `leyes_de_newton.txt`) le gane a un capítulo de libro entero
-donde esa misma palabra aparece de pasada.
+tan seguido aparece en el candidato (frecuencia del término, normalizada por su
+largo) y qué tan poco frecuente es esa palabra en el resto del corpus (frecuencia
+inversa de documento). Esto hace que una palabra específica como "refracción" pese
+mucho más que una genérica como "fuerza".
+
+### De archivo completo a fragmentos
+
+Los archivos de `context/` son capítulos enteros: mediana ~110.000 caracteres, hasta
+~340.000 en los más grandes. Puntuar el archivo completo como unidad (como se hacía
+al principio) tenía dos problemas encontrados en la práctica con una pregunta real de
+un usuario ("¿ecuaciones del movimiento rectilíneo uniformemente variado?"):
+
+1. **Casi-empates entre temas parecidos.** El capítulo de Movimiento Circular le ganó
+   por muy poco al capítulo de Cinemática, porque "Movimiento Circular Uniformemente
+   Variado (M.C.U.V.)" comparte casi todo el vocabulario con "Movimiento Rectilíneo
+   Uniformemente Variado (M.R.U.V.)" salvo la palabra que distingue el tema.
+2. **Aunque ganara el capítulo correcto, solo se enviaban al modelo sus primeros
+   `MAX_CONTEXT_CHARS` caracteres** — la introducción del capítulo, nunca el
+   desarrollo. La sección "Ecuaciones del M.R.U.V." de `libro5_cap1_cinematica.txt`
+   empieza en el carácter 23.244: nunca llegaba a el modelo aunque el archivo fuera
+   el elegido.
+
+Por eso `select_context()` ahora parte cada archivo en **fragmentos** (párrafos o
+secciones, separados por líneas en blanco en el texto extraído) y puntúa cada
+fragmento por separado — el TF-IDF corre sobre ~3.200 fragmentos en vez de 95
+archivos. Así una pregunta encuentra el fragmento específico que la responde, esté
+donde esté dentro del capítulo, y ya no compite un capítulo entero contra otro.
 
 Además, con un corpus tan grande, **casi cualquier pregunta comparte alguna palabra
-con algún archivo por pura coincidencia estadística** (se probó explícitamente: "¿Cómo
-preparo un asado?" matcheaba algo antes de este cambio). Por eso se agregó
+con algún fragmento por pura coincidencia estadística**. Por eso existe
 `MIN_CONTEXT_SCORE` (`app/config.py`): un piso de score por debajo del cual se
 considera que no hay contexto relevante, aunque técnicamente haya alguna coincidencia.
 Se calibró a mano comparando el score máximo de preguntas claramente de Física contra
-preguntas claramente ajenas. Valor actual: `0.003`. **Si el corpus de `context/` cambia
-mucho de tamaño, hay que volver a correr esta comparación y ajustar el valor** — no es
-una constante física, es una calibración empírica contra el corpus actual.
+preguntas claramente ajenas. Valor actual: `0.07`. **Si el corpus de `context/` cambia
+mucho de tamaño, o si cambia el chunking (`MIN_CHUNK_CHARS` en
+`context_selector.py`), hay que volver a correr esta comparación** — no es una
+constante física, es una calibración empírica contra el corpus y el chunking actuales.
 
 > **Límite real de este enfoque (no es cuestión de afinar el número)**: TF-IDF cuenta
 > palabras, no entiende su sentido. "¿Cuál es el río más largo del mundo?" (geografía)
-> puntúa alto contra capítulos de "movimiento en dos dimensiones", porque esos
-> capítulos usan seguido el problema clásico de un bote cruzando un río con corriente
-> — la palabra "río" aparece mucho, en un sentido totalmente distinto. Ningún valor de
-> `MIN_CONTEXT_SCORE` distingue eso; hace falta entender significado, no solo contar
+> puntúa alto contra el fragmento del problema clásico de un bote cruzando un río con
+> corriente; "recomendame una película para ver hoy" puntúa alto contra fragmentos de
+> interferencia en películas delgadas (óptica); "¿quién ganó el mundial de fútbol?"
+> puntúa alto contra una tabla de tiempos de contacto con la pelota en un ejemplo de
+> impulso. En los tres casos la palabra aparece mucho, en un sentido totalmente
+> distinto al de la pregunta. Con fragmentos cortos esto pesa más que con archivos
+> completos (una sola coincidencia dentro de un fragmento chico dispara el score
+> proporcionalmente más que la misma coincidencia diluida en un capítulo entero), así
+> que se priorizó explícitamente no perder preguntas simples y legítimas (ej. "¿qué es
+> la velocidad?", que anda muy justo de score por ser una sola palabra genérica) por
+> sobre filtrar el máximo posible de estas colisiones. Ningún valor de
+> `MIN_CONTEXT_SCORE` resuelve esto — hace falta entender significado, no solo contar
 > coincidencias (es, otra vez, el tipo de problema que resuelve RAG con embeddings).
 > Comprobado en la práctica que el system prompt sí lo filtra en la capa siguiente
 > (rechaza responder porque el contexto encontrado no cubre realmente la pregunta),

@@ -36,23 +36,25 @@ class Settings(BaseSettings):
     allowed_origins: str = "http://localhost:8080"
     max_question_length: int = 500
     rate_limit: str = "10/minute"
-    max_context_chars: int = 4000
+    max_context_chars: int = 6000
     # Umbral mínimo de score TF-IDF (ver context_selector.py) para considerar que un
-    # archivo de context/ es relevante para la pregunta. Con un corpus grande (varios
-    # libros completos, ~100 archivos), casi cualquier pregunta comparte alguna
-    # palabra con algún archivo por pura coincidencia estadística — sin este piso,
-    # "select_context" casi nunca devuelve vacío y el asistente terminaría
-    # respondiendo preguntas totalmente ajenas al material. Calibrado a mano
-    # comparando el score de preguntas claramente de Física contra preguntas
-    # claramente ajenas (ver docs/TEMARIO.md): hay que volver a calibrarlo si el
-    # corpus de context/ cambia mucho de tamaño.
+    # FRAGMENTO (no archivo completo, desde la reescritura a chunking) de context/ es
+    # relevante para la pregunta. Sin este piso, "select_context" casi nunca
+    # devuelve vacío y el asistente terminaría respondiendo preguntas totalmente
+    # ajenas al material. Calibrado a mano comparando el score de preguntas
+    # claramente de Física contra preguntas claramente ajenas (ver docs/TEMARIO.md):
+    # hay que volver a calibrarlo si el corpus de context/ cambia mucho de tamaño, o
+    # si cambia el chunking (MIN_CHUNK_CHARS en context_selector.py).
     # No es una separación perfecta: palabras que aparecen mucho en un sentido
-    # "de física" (ej. "río" en problemas de bote cruzando un río) pueden colar
-    # preguntas ajenas que usan la misma palabra en otro sentido (ej. geografía).
-    # Eso ningún umbral numérico lo resuelve — para esos casos, la última defensa
-    # es el system prompt, que ya rechaza responder si el contexto encontrado no
-    # cubre realmente la pregunta (ver prompts/system_prompt.txt).
-    min_context_score: float = 0.003
+    # "de física" (ej. "río" en problemas de bote cruzando un río, "película" en
+    # interferencia de películas delgadas) pueden colar preguntas ajenas que usan la
+    # misma palabra en otro sentido. Eso ningún umbral numérico lo resuelve — para
+    # esos casos, la última defensa es el system prompt, que ya rechaza responder si
+    # el contexto encontrado no cubre realmente la pregunta (ver
+    # prompts/system_prompt.txt). El umbral se fijó priorizando no rechazar preguntas
+    # simples y legítimas (ej. "¿qué es la velocidad?") por sobre filtrar el máximo
+    # posible de preguntas ajenas con esas colisiones de palabras.
+    min_context_score: float = 0.07
 
     @property
     def allowed_origins_list(self) -> list[str]:
