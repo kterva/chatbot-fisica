@@ -2,9 +2,18 @@
 
 Este documento lista los temas sobre los que el asistente tiene material documental
 propio en `context/` (ver `app/context_selector.py`). Para preguntas fuera de este
-temario, el asistente responde con conocimiento general del modelo, guiado por
-`prompts/system_prompt.txt` — sin la garantía adicional de estar anclado a una fuente
-curada.
+temario, el asistente **no responde**: si `select_context()` no encuentra ningún
+archivo relacionado con la pregunta, `main.py` devuelve un mensaje fijo sin llamar al
+proveedor LLM (ver `NO_CONTEXT_MESSAGE` en `app/main.py`). El system prompt además
+instruye al modelo a no completar con conocimiento propio ni siquiera cuando el
+contexto encontrado es parcial.
+
+> **Limitación conocida**: la selección de contexto es naive (coincidencia de
+> palabras clave, ver `ARCHITECTURE.md`). Una pregunta genuinamente cubierta por el
+> material, pero formulada con vocabulario distinto al de los archivos de `context/`,
+> puede no encontrar coincidencias y rechazarse igual — falso negativo, no falso
+> positivo. Se prefirió este trade-off explícitamente: es preferible que rechace una
+> pregunta que sí podría responder, a que responda algo sin respaldo documental.
 
 Actualizar esta lista cada vez que se agregue un documento nuevo (ver
 [README.md](../README.md#agregar-material-documental)).

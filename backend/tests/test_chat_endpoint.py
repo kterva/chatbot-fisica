@@ -36,6 +36,19 @@ def test_chat_rejects_oversized_question():
     assert response.status_code == 422
 
 
+def test_chat_rejects_question_without_matching_context(monkeypatch):
+    mock_generate = AsyncMock(return_value="no debería llamarse")
+    monkeypatch.setattr(main_module.provider, "generate", mock_generate)
+
+    response = client.post(
+        "/api/chat", json={"question": "¿Cómo se conjuga el verbo cantar en pretérito?"}
+    )
+
+    assert response.status_code == 200
+    assert response.json() == {"answer": main_module.NO_CONTEXT_MESSAGE}
+    mock_generate.assert_not_called()
+
+
 def test_chat_provider_error_hides_internal_detail(monkeypatch):
     async def raise_error(*_args, **_kwargs):
         raise LLMProviderError("detalle interno sensible: API key inválida")
